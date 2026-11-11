@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>기계공학 연구 아틀라스</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: an instrument-panel directory. One sticky bar, dense tables, details open in a side sheet. */
+:root{
+  --bg:#f7f8f7;--surface:#fff;--muted:#eef0ee;--line:#dfe3df;--fg:#171b19;--fg2:#5c6661;--accent:#0b6e5f;--accent-soft:#dcefe9;--warn:#8a5a00;--warn-soft:#f8ecd2;--heat:11,110,95;--scrim:rgba(20,26,23,.42);
+  --sans:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  --ease:cubic-bezier(.22,1,.36,1);--r:8px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#111513;--surface:#181d1a;--muted:#222825;--line:#2d3430;--fg:#e8ece9;--fg2:#9aa59f;--accent:#5fcdb7;--accent-soft:#1c3a33;--warn:#e9bd68;--warn-soft:#3b2f17;--heat:95,205,183;--scrim:rgba(0,0,0,.6);color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#111513;--surface:#181d1a;--muted:#222825;--line:#2d3430;--fg:#e8ece9;--fg2:#9aa59f;--accent:#5fcdb7;--accent-soft:#1c3a33;--warn:#e9bd68;--warn-soft:#3b2f17;--heat:95,205,183;--scrim:rgba(0,0,0,.6);color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.6 var(--sans);word-break:keep-all;overflow-wrap:anywhere}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--surface)}
+a{color:var(--accent);text-underline-offset:2px}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--surface);border-bottom:1px solid var(--line)}
+.bar{display:flex;flex-wrap:wrap;align-items:center;gap:8px 20px;padding-block:10px}
+.brand{font-weight:600;font-size:15px}
+.tabs{position:relative;display:flex;gap:3px;padding:3px;background:var(--muted);border-radius:9px;max-width:100%;overflow-x:auto;scrollbar-width:none}
+.tabs button{position:relative;z-index:1;height:30px;padding:0 12px;border:0;background:none;border-radius:6px;color:var(--fg2);cursor:pointer;white-space:nowrap;transition:color 250ms var(--ease)}
+.tabs button[aria-selected="true"]{color:var(--fg);font-weight:500}
+.pill{position:absolute;top:3px;left:0;height:30px;border-radius:6px;background:var(--surface);box-shadow:0 0 0 .5px var(--line);transition:transform 250ms var(--ease),width 250ms var(--ease)}
+main{padding-block:28px 64px}
+section[data-view]{display:grid;gap:20px;animation:rise 300ms var(--ease)}
+@keyframes rise{from{opacity:.4;transform:translateY(4px)}to{opacity:1;transform:none}}
+h1{font-size:clamp(23px,3.4vw,30px);line-height:1.3;font-weight:600;margin:0;letter-spacing:-.01em;text-wrap:balance}
+h2{font-size:16px;font-weight:600;margin:0}
+p{margin:0;max-width:68ch}
+.lede{color:var(--fg2)}
+.lead{display:grid;gap:8px}
+.stats{display:flex;flex-wrap:wrap;gap:8px 32px;font-size:13px;color:var(--fg2)}
+.stats b{font:500 19px/1.2 var(--mono);color:var(--fg);display:block}
+.block{display:grid;gap:10px;min-width:0}
+.sub{color:var(--fg2);font-size:13px}
+.table-box{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th{font-weight:500;font-size:12px;color:var(--fg2);text-align:left;background:var(--muted);height:36px;padding:0 10px;white-space:nowrap}
+td{padding:8px 10px;border-top:1px solid var(--line);vertical-align:top}
+.num{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.click{cursor:pointer;transition:background 150ms var(--ease)}
+tr.click:hover{background:var(--muted)}
+.tier{display:inline-block;font-size:11px;line-height:18px;padding:0 7px;border-radius:9px;white-space:nowrap}
+.core{background:var(--accent-soft);color:var(--accent)}
+.major{background:var(--muted);color:var(--fg2)}
+.flag{background:var(--warn-soft);color:var(--warn)}
+.ctrl{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{height:28px;padding:0 10px;border:1px solid var(--line);background:var(--surface);border-radius:14px;cursor:pointer;color:var(--fg2);font-size:12.5px;transition:background 150ms var(--ease),color 150ms var(--ease),border-color 150ms var(--ease)}
+.chip[aria-pressed="true"]{background:var(--accent-soft);border-color:transparent;color:var(--accent);font-weight:500}
+.field{height:32px;border:1px solid var(--line);border-radius:7px;background:var(--surface);padding:0 10px;max-width:100%}
+input.field{flex:1 1 220px;min-width:0}
+.check{display:inline-flex;gap:6px;align-items:center;font-size:13px;color:var(--fg2)}
+.count{margin-left:auto;font-size:12.5px;color:var(--fg2);font-family:var(--mono)}
+.heat td{text-align:center;padding:0;font-family:var(--mono);font-size:12px}
+.heat td.name,.heat th:first-child{text-align:left;padding:6px 10px;font-family:var(--sans);white-space:nowrap}
+.heat th{text-align:center;white-space:normal;line-height:1.25;min-width:64px;height:auto;padding:6px}
+.heat .cell{display:block;padding:8px 2px}
+.expand{display:grid;grid-template-rows:0fr;transition:grid-template-rows 250ms var(--ease)}
+.expand.open{grid-template-rows:1fr}
+.expand>div{overflow:hidden;color:var(--fg2);font-size:12.5px}
+.expand.open>div{padding-top:6px}
+.pager{display:flex;gap:8px;align-items:center;justify-content:flex-end}
+.pager button{height:30px;padding:0 12px;border:1px solid var(--line);background:var(--surface);border-radius:7px;cursor:pointer}
+.pager button:disabled{opacity:.45;cursor:default}
+.scrim{position:fixed;inset:0;z-index:20;background:var(--scrim);opacity:0;pointer-events:none;transition:opacity 250ms var(--ease)}
+.scrim.on{opacity:1;pointer-events:auto}
+aside{position:fixed;z-index:21;top:0;right:0;bottom:0;width:min(480px,100%);background:var(--surface);border-left:1px solid var(--line);transform:translateX(102%);transition:transform 350ms var(--ease);overflow-y:auto;padding:calc(18px + env(safe-area-inset-top,0px)) max(18px,env(safe-area-inset-right,0px)) calc(18px + env(safe-area-inset-bottom,0px)) 18px;display:grid;gap:14px;align-content:start}
+aside.on{transform:none}
+.close{justify-self:end;height:28px;padding:0 10px;border:1px solid var(--line);border-radius:7px;background:none;cursor:pointer}
+.paper{display:grid;gap:2px;padding-block:9px;border-top:1px solid var(--line)}
+.paper small{color:var(--fg2)}
+.tags{display:flex;flex-wrap:wrap;gap:5px}
+.tag{font-size:12px;padding:1px 8px;background:var(--muted);border-radius:6px;color:var(--fg2)}
+ul.notes{margin:0;padding-left:18px;display:grid;gap:7px;max-width:72ch}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+@media (max-width:620px){.hide-sm{display:none}.count{margin-left:0}}
+</style>
+<header><div class="wrap bar"><div class="brand">기계공학 연구 아틀라스</div><div class="tabs" role="tablist" id="tabs"><span class="pill" id="pill"></span></div></div></header>
+<main class="wrap" id="app"></main>
+<div class="scrim" id="scrim"></div>
+<aside id="sheet" aria-label="연구실 상세" aria-hidden="true"></aside>
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(()=>{
+const D=JSON.parse(document.getElementById('data').textContent);
+const $=(s,r=document)=>r.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt=n=>Number(n||0).toLocaleString('ko-KR');
+const areaName=Object.fromEntries(D.areas.map(a=>[a.id,a.name]));
+const uni=Object.fromEntries(D.unis.map(u=>[u.key,u]));
+const safeUrl=u=>/^https?:\/\//.test(u||'')?u:null;
+const views=[['overview','핵심 요약'],['venues','학회·저널'],['labs','연구실'],['universities','대학'],['method','조사 방법']];
+const st={view:'overview',vType:'conference',vArea:'all',vTier:false,lq:'',lUni:'all',lArea:'all',lAll:false,page:0};
+const tabs=$('#tabs');
+views.forEach(([id,n])=>{const b=document.createElement('button');b.textContent=n;b.role='tab';b.dataset.v=id;b.onclick=()=>{location.hash=id};tabs.append(b)});
+function movePill(){const a=$(`[data-v="${st.view}"]`,tabs),p=$('#pill');a.scrollIntoView({block:'nearest',inline:'nearest'});p.style.width=a.offsetWidth+'px';p.style.transform=`translateX(${a.offsetLeft}px)`;tabs.querySelectorAll('button').forEach(b=>b.setAttribute('aria-selected',b===a))}
+const tierPill=t=>t==='core'?'<span class="tier core">핵심</span>':t==='major'?'<span class="tier major">주요</span>':'';
+const top=(area,type,n)=>D.venues.filter(v=>v.area===area&&v.type===type).slice(0,n);
+function overview(){
+  const t=D.totals;
+  const rows=D.areas.map(a=>{
+    const labs=D.labs.filter(l=>l.scope&&l.area===a.id).length;
+    const c=top(a.id,'conference',2),j=top(a.id,'journal',2);
+    const list=x=>x.map(v=>`<div>${esc(v.name)} <span class="sub">${v.labs}개 연구실</span></div>`).join('')||'<span class="sub">집계 부족</span>';
+    return `<tr><td style="white-space:nowrap;font-weight:500">${esc(a.name)}</td><td class="num">${labs}</td><td>${list(c)}</td><td>${list(j)}</td></tr>`}).join('');
+  const heatMax=Math.max(...D.unis.flatMap(u=>{const s=Object.values(u.areas).reduce((a,b)=>a+b,0)||1;return Object.values(u.areas).map(v=>v/s)}));
+  const heat=D.unis.map(u=>{const s=Object.values(u.areas).reduce((a,b)=>a+b,0)||1;
+    return `<tr><td class="name">${esc(u.name)}</td>`+D.areas.map(a=>{const p=(u.areas[a.id]||0)/s,alpha=(p/heatMax*.85).toFixed(2);return `<td style="background:rgba(var(--heat),${alpha})"><span class="cell" style="color:${p/heatMax>.55?'var(--surface)':'var(--fg)'}">${Math.round(p*100)}</span></td>`}).join('')+'</tr>'}).join('');
+  return `<section data-view="overview">
+  <div class="lead"><h1>세계 상위 10개 대학과 서울대·KAIST·POSTECH의 기계공학 연구는 9개 분야로 나뉘고, 분야마다 모이는 학회가 다릅니다</h1>
+  <p class="lede">QS ${D.qsYear} 기계·항공·제조공학 순위 기준이며, ${D.since}년 이후 논문을 집계했습니다. 표의 학회는 가장 많은 연구실이 논문을 낸 곳입니다.</p></div>
+  <div class="stats"><div><b>13</b>대학</div><div><b>${fmt(t.labs)}</b>교수·연구실 조사</div><div><b>${fmt(t.scoped)}</b>기계공학 범위로 집계</div><div><b>${fmt(t.papers)}</b>논문</div></div>
+  <div class="block"><h2>분야별 대표 학회와 저널</h2><div class="table-box"><table><thead><tr><th>분야</th><th class="num">연구실</th><th>학술대회 (많이 참여한 순)</th><th>저널 (많이 참여한 순)</th></tr></thead><tbody>${rows}</tbody></table></div></div>
+  <div class="block"><h2>대학별 연구 비중</h2><p class="sub">각 대학의 집계 논문 중 분야별 비율(%)입니다. 진할수록 비중이 큽니다.</p><div class="table-box"><table class="heat"><thead><tr><th>대학</th>${D.areas.map(a=>`<th>${esc(a.name)}</th>`).join('')}</tr></thead><tbody>${heat}</tbody></table></div></div>
+  </section>`}
+function areaChips(cur,attr){return `<button class="chip" ${attr}="all" aria-pressed="${cur==='all'}">전체</button>`+D.areas.map(a=>`<button class="chip" ${attr}="${a.id}" aria-pressed="${cur===a.id}">${esc(a.name)}</button>`).join('')}
+function venueRows(){return D.venues.filter(v=>v.type===st.vType&&(st.vArea==='all'||v.area===st.vArea||(v.areas[st.vArea]||0)>0)&&(!st.vTier||v.tier)).slice(0,100)}
+function venues(){const vs=venueRows();
+  return `<section data-view="venues"><div class="lead"><h1>학회·저널 순위</h1><p class="lede">많은 논문이 실렸다고 권위가 높다고 단정할 수 없어, 상위 대학 연구실이 얼마나 폭넓게 쓰는지를 기준으로 정렬했습니다.</p></div>
+  <div class="ctrl"><div class="tabs" id="vt"><button id="vc" aria-selected="${st.vType==='conference'}" data-t="conference">학술대회</button><button id="vj" aria-selected="${st.vType==='journal'}" data-t="journal">저널</button></div>
+  <label class="check"><input type="checkbox" id="vTier" ${st.vTier?'checked':''}>핵심·주요만 보기</label><span class="count">${vs.length}개 표시 (최대 100)</span></div>
+  <div class="ctrl" id="vAreas">${areaChips(st.vArea,'data-a')}</div>
+  <div class="table-box"><table><thead><tr><th class="num">#</th><th>이름</th><th>등급</th><th class="num">연구실</th><th class="num">대학</th><th class="num">논문</th><th class="num hide-sm">h-index</th><th class="hide-sm">주 분야</th></tr></thead><tbody>
+  ${vs.map((v,i)=>`<tr class="click" data-i="${i}"><td class="num">${i+1}</td><td>${esc(v.name)}<div class="expand"><div>사용 대학: ${v.uniList.map(k=>esc(uni[k].name)).join(', ')}${v.host?` · 발행: ${esc(v.host)}`:''}${v.if2?` · 최근 2년 평균 피인용 ${v.if2}`:''}</div></div></td><td>${tierPill(v.tier)}</td><td class="num">${v.labs}</td><td class="num">${v.unis}</td><td class="num">${fmt(v.n)}</td><td class="num hide-sm">${v.h??'–'}</td><td class="hide-sm" style="white-space:nowrap">${esc(areaName[v.area])}</td></tr>`).join('')||'<tr><td colspan="8" class="sub">조건에 맞는 항목이 없습니다.</td></tr>'}
+  </tbody></table></div>
+  <p class="sub">등급: 핵심은 6개 이상 대학과 10개 이상 연구실, 주요는 3개 이상 대학과 5개 이상 연구실이 논문을 낸 곳입니다. 공식 순위가 아니라 이 조사 안에서의 지표입니다. 행을 누르면 사용 대학을 볼 수 있습니다.</p></section>`}
+const PER=40;
+function labRows(){const q=st.lq.trim().toLowerCase();return D.labs.filter(l=>(st.lAll||l.scope)&&(st.lUni==='all'||l.u===st.lUni)&&(st.lArea==='all'||l.area===st.lArea)&&(!q||[l.pi,l.en,l.lab,...l.topics,...l.venues].join(' ').toLowerCase().includes(q)))}
+const statusPill=l=>l.status==='unverified'?'<span class="tier flag">확인 필요</span>':l.status==='unofficial'?'<span class="tier flag">비공식 명단</span>':!l.scope?'<span class="tier major">인접 분야</span>':'';
+function labsTable(){const all=labRows();const pages=Math.max(1,Math.ceil(all.length/PER));st.page=Math.min(st.page,pages-1);const rows=all.slice(st.page*PER,(st.page+1)*PER);
+  return `<div class="table-box"><table><thead><tr><th>교수 / 연구실</th><th>대학</th><th>분야</th><th class="hide-sm">연구 주제</th><th class="num">논문</th><th></th></tr></thead><tbody>
+  ${rows.map(l=>`<tr class="click" data-lab="${esc(l.id)}"><td><div style="font-weight:500">${esc(l.pi)}${l.en?` <span class="sub">${esc(l.en)}</span>`:''}</div>${l.lab?`<div class="sub">${esc(l.lab)}</div>`:''}</td><td style="white-space:nowrap">${esc(uni[l.u].name)}</td><td style="white-space:nowrap">${esc(areaName[l.area]||'–')}</td><td class="hide-sm sub">${esc(l.topics.slice(0,3).join(', '))}</td><td class="num">${l.n}</td><td>${statusPill(l)}</td></tr>`).join('')||'<tr><td colspan="6" class="sub">조건에 맞는 연구실이 없습니다. 필터를 줄여 보세요.</td></tr>'}
+  </tbody></table></div><div class="pager"><span class="count">${fmt(all.length)}개 · ${st.page+1}/${pages}쪽</span><button id="prev" ${st.page?'':'disabled'}>이전</button><button id="next" ${st.page<pages-1?'':'disabled'}>다음</button></div>`}
+function labs(){return `<section data-view="labs"><div class="lead"><h1>연구실 디렉터리</h1><p class="lede">교수 이름, 연구 주제, 학회 이름으로 찾을 수 있습니다. 행을 누르면 최근 논문을 볼 수 있습니다.</p></div>
+  <div class="ctrl"><input class="field" id="lq" type="search" placeholder="예: soft robotics, 터보기계, Journal of Fluid Mechanics" value="${esc(st.lq)}" aria-label="연구실 검색"><select class="field" id="lUni" aria-label="대학 선택"><option value="all">모든 대학</option>${D.unis.map(u=>`<option value="${u.key}" ${st.lUni===u.key?'selected':''}>${esc(u.name)}</option>`).join('')}</select><label class="check"><input type="checkbox" id="lAll" ${st.lAll?'checked':''}>확인 필요·인접 분야 포함</label></div>
+  <div class="ctrl" id="lAreas">${areaChips(st.lArea,'data-a')}</div><div id="labBody">${labsTable()}</div></section>`}
+function universities(){return `<section data-view="universities"><div class="lead"><h1>조사 대학</h1><p class="lede">학과 페이지와 교수 목록 출처입니다.</p></div>
+  <div class="table-box"><table><thead><tr><th class="num">QS</th><th>대학</th><th>조사 단위</th><th class="num">조사</th><th class="num">확인</th><th class="num">집계</th><th>최다 분야</th></tr></thead><tbody>
+  ${D.unis.map(u=>{const a=Object.entries(u.areas).sort((x,y)=>y[1]-x[1])[0];const link=safeUrl(u.list)||(u.official?safeUrl(u.url):null);return `<tr><td class="num">${esc(u.qs||'–')}</td><td style="white-space:nowrap;font-weight:500">${esc(u.name)}${u.official?'':' <span class="tier flag">비공식 명단</span>'}</td><td>${link?`<a href="${esc(link)}" target="_blank" rel="noopener">${esc(u.dept)}</a>`:esc(u.dept)}</td><td class="num">${u.labs}</td><td class="num">${u.reliable}</td><td class="num">${u.scoped}</td><td style="white-space:nowrap">${a?esc(areaName[a[0]]):'–'}</td></tr>`}).join('')}
+  </tbody></table></div><p class="sub">조사는 명단 인원, 확인은 OpenAlex 저자와 연결된 인원, 집계는 그중 기계공학 관련 논문이 30% 이상인 인원입니다.</p></section>`}
+function method(){const t=D.totals;return `<section data-view="method"><div class="lead"><h1>조사 방법과 한계</h1><p class="lede">조사일은 2026년 11월 9일입니다.</p></div>
+ <div class="block"><h2>어떻게 조사했나</h2><ul class="notes"><li>QS World University Rankings by Subject ${D.qsYear}의 Engineering - Mechanical, Aeronautical &amp; Manufacturing 상위 10개 대학과 서울대, KAIST, POSTECH을 대상으로 했습니다.</li><li>교수와 연구실 명단은 각 대학 공식 페이지에서 수집했습니다. 연구실 목록이 따로 없는 대학은 교수별 연구그룹을 한 연구실로 봤습니다.</li><li>논문은 공개 학술 데이터베이스 OpenAlex에서 ${D.since}년 이후의 학술지 논문, 리뷰, 학술대회 논문을 가져왔습니다. 프리프린트와 데이터셋 저장소는 제외했습니다.</li><li>논문은 OpenAlex 주제 분류와 키워드로 9개 분야에 배정했고, 연구실의 분야는 가장 많은 논문이 속한 분야입니다.</li></ul></div>
+ <div class="block"><h2>결과를 읽을 때 주의할 점</h2><ul class="notes"><li><b>연구실 사이트를 하나씩 읽지 않았습니다.</b> 연구 주제는 대학 공식 페이지에 있으면 그것을, 없으면 OpenAlex 주제를 표시합니다. 연구실 소개와 다를 수 있습니다.</li><li><b>KAIST 명단은 비공식입니다.</b> 조사 시점에 me.kaist.ac.kr에 접속되지 않아, 소속 표기에 KAIST와 Mechanical Engineering이 있는 논문의 교신·마지막 저자 중 2023년 이후 5편 이상인 사람으로 추정했습니다. 교수가 아닌 연구자가 포함되거나 일부 교수가 빠질 수 있습니다.</li><li><b>동명이인 위험이 있습니다.</b> 이름, 소속, 연구 분야로 저자를 맞췄고, 불확실한 ${fmt(t.labs-t.reliable)}명은 "확인 필요"로 표시해 집계에서 뺐습니다. 집계된 인원에도 오류가 남아 있을 수 있습니다.</li><li><b>학술대회는 저널보다 덜 수록됩니다.</b> 특히 고체역학과 열 분야 학회는 OpenAlex 수록이 적어 실제 위상보다 낮게 나옵니다. 이 분야는 저널 순위를 함께 보세요.</li><li><b>대학별 범위가 다릅니다.</b> Oxford는 학부 전체 교수에서 기계공학 관련 논문이 30% 미만인 사람을 뺐고, Cambridge는 3개 분과의 교수 직함 보유자만 포함해 Dr 호칭의 교수진이 빠졌습니다. Harvard는 재료과학과 기계공학 통합 영역입니다.</li><li>등급은 이 조사 안의 지표이며 공식 순위가 아닙니다. h-index는 OpenAlex 값으로, 오래되고 규모가 큰 저널에 유리합니다.</li></ul></div></section>`}
+const render={overview,venues,labs,universities,method};
+function draw(){$('#app').innerHTML=render[st.view]();bind();movePill()}
+function bind(){
+  document.querySelectorAll('#vAreas .chip').forEach(b=>b.onclick=()=>{st.vArea=b.dataset.a;draw()});
+  document.querySelectorAll('#lAreas .chip').forEach(b=>b.onclick=()=>{st.lArea=b.dataset.a;st.page=0;draw()});
+  document.querySelectorAll('#vt button').forEach(b=>b.onclick=()=>{st.vType=b.dataset.t;draw()});
+  const vt=$('#vt');if(vt){vt.querySelectorAll('button').forEach(b=>{if(b.getAttribute('aria-selected')==='true')b.style.cssText='background:var(--surface);box-shadow:0 0 0 .5px var(--line)'})}
+  const tier=$('#vTier');if(tier)tier.onchange=()=>{st.vTier=tier.checked;draw()};
+  document.querySelectorAll('tr[data-i]').forEach(r=>r.onclick=e=>{if(!e.target.closest('a'))r.querySelector('.expand').classList.toggle('open')});
+  const q=$('#lq');if(q){q.oninput=()=>{st.lq=q.value;st.page=0;refreshLabs()};$('#lUni').onchange=e=>{st.lUni=e.target.value;st.page=0;refreshLabs()};$('#lAll').onchange=e=>{st.lAll=e.target.checked;st.page=0;refreshLabs()};bindLabs()}
+}
+function refreshLabs(){$('#labBody').innerHTML=labsTable();bindLabs()}
+function bindLabs(){document.querySelectorAll('tr[data-lab]').forEach(r=>r.onclick=()=>openLab(r.dataset.lab));const p=$('#prev'),n=$('#next');if(p){p.onclick=()=>{st.page--;refreshLabs()};n.onclick=()=>{st.page++;refreshLabs()}}}
+const sheet=$('#sheet'),scrim=$('#scrim');let lastFocus=null;
+function openLab(id){const l=D.labs.find(x=>x.id===id);const url=safeUrl(l.url);lastFocus=document.activeElement;
+  sheet.innerHTML=`<button class="close" id="close">닫기</button><div><div class="sub">${esc(uni[l.u].full)}</div><h2 style="font-size:19px">${esc(l.pi)}</h2>${l.en?`<div class="sub">${esc(l.en)}</div>`:''}${l.lab?`<div>${esc(l.lab)}</div>`:''}</div><div>${statusPill(l)}</div>
+  <div class="block"><div class="sub">분야</div><div>${esc(areaName[l.area]||'분류 불가')}${l.second?` · ${esc(areaName[l.second])}`:''}</div></div>
+  ${l.topics.length?`<div class="block"><div class="sub">연구 주제 (${l.topicSrc==='official'?'대학 공식 페이지':'OpenAlex 추정'})</div><div class="tags">${l.topics.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div></div>`:''}
+  ${l.venues.length?`<div class="block"><div class="sub">자주 낸 학회·저널</div><div>${l.venues.map(esc).join('<br>')}</div></div>`:''}
+  ${url?`<a href="${esc(url)}" target="_blank" rel="noopener">연구실·교수 페이지 열기</a>`:''}
+  <div class="block"><h2>최근 논문</h2><div>${l.recent.map(p=>{const d=safeUrl(p.d);return `<div class="paper"><div>${d?`<a href="${esc(d)}" target="_blank" rel="noopener">${esc(p.t)}</a>`:esc(p.t)}</div><small>${esc(p.y)} · ${esc(p.v)}</small></div>`}).join('')||'<p class="sub">표시할 논문이 없습니다. 저자 연결이 불확실하면 논문을 표시하지 않습니다.</p>'}</div></div>`;
+  sheet.classList.add('on');scrim.classList.add('on');sheet.setAttribute('aria-hidden','false');$('#close').onclick=closeLab;$('#close').focus()}
+function closeLab(){sheet.classList.remove('on');scrim.classList.remove('on');sheet.setAttribute('aria-hidden','true');if(lastFocus&&lastFocus.focus)lastFocus.focus()}
+scrim.onclick=closeLab;addEventListener('keydown',e=>{if(e.key==='Escape')closeLab()});
+function route(){const h=location.hash.slice(1);st.view=render[h]?h:'overview';draw();window.scrollTo(0,0)}
+addEventListener('hashchange',route);addEventListener('resize',movePill);route();
+if(document.fonts&&document.fonts.ready)document.fonts.ready.then(movePill);
+})();
+</script>
