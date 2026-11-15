@@ -3,10 +3,14 @@
   "university_key": "oxford",
   "pi": "Tim Denison",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:49:57.698Z",
-  "coverage_notes": [
+  "lab_url": "https://eng.ox.ac.uk/people/tim-denison",
+  "publication_urls": [
+    "https://eng.ox.ac.uk/people/tim-denison",
+    "https://eng.ox.ac.uk/epione"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume.",
     {
       "discovered_links": [
@@ -27,6 +31,8 @@
       }
     }
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
   "status": "partial",
   "papers": []
 }

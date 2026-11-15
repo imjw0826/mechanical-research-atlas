@@ -5,31 +5,44 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp00204?ST_EMAILID=mir.feroskhan",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00204?ST_EMAILID=mir.feroskhan",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan",
-      "identity_evidence": "Assoc Prof Mir Feroskhan",
-      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
-      "website_links": [
-        {
-          "label": "Website",
-          "url": "http://iclab.to"
-        },
-        {
-          "label": "Website",
-          "url": "https://scholar.google.com/citations?user=LloF4CQAAAAJ&hl=en"
-        }
-      ]
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Bioinspired wing and tail morphing extends drone flight capabilities",
+      "year": 2020,
+      "citation_raw": "Articles (Journal) Articles (Journal) Ajanic E, Feroskhan M, Mintchev S, Noca F, Floreano D. (2020). Bioinspired wing and tail morphing extends drone flight capabilities. Science Robotics.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications"
+    },
+    {
+      "title": "Downside Up:Rethinking Parcel Position for Aerial Delivery",
+      "year": 2020,
+      "citation_raw": "Kornatowski PM, Feroskhan M, Stewart WJ, Floreano D. (2020). Downside Up:Rethinking Parcel Position for Aerial Delivery. IEEE Robotics and Automation Letters.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications"
+    },
+    {
+      "title": "A Morphing Cargo Drone for Safe Flight in Proximity of Humans",
+      "year": 2020,
+      "citation_raw": "Kornatowski PM, Feroskhan M, Stewart WJ, Floreano D. (2020). A Morphing Cargo Drone for Safe Flight in Proximity of Humans. IEEE Robotics and Automation Letters.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications"
+    },
+    {
+      "title": "Fixed-time Autonomous Shipboard Landing Control of a Helicopter with External Disturbances",
+      "year": 2019,
+      "citation_raw": "Huang, Y., Zhu, M., Zheng, Z. and Feroskhan, M. (2019). Fixed-time Autonomous Shipboard Landing Control of a Helicopter with External Disturbances. Aerospace Science and Technology, 1-13.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications"
+    },
+    {
+      "title": "Performance of Sideslip Perching Maneuver with an Adaptive Gain Control Feature",
+      "year": 2018,
+      "citation_raw": "Feroskhan, M., Go, T. H. (2018). Performance of Sideslip Perching Maneuver with an Adaptive Gain Control Feature. Aerospace Science and Technology, 78, 648-660.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications"
+    }
+  ]
 }

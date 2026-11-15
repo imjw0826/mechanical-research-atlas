@@ -3,21 +3,22 @@
   "university_key": "postech",
   "pi": "문원규",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-12T13:55:04.535Z",
-  "coverage_notes": [
-    "Attempted https://photonics.postech.ac.kr/publications error Error: net::ERR_HTTP_RESPONSE_CODE_FAILURE",
-    "Official department profile returned HTTP 404; no lab site identified in this continuation. Profile-only attempt, not full_site_attempted.",
-    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  "lab_url": "https://me.postech.ac.kr/ko/page/professor08",
+  "publication_urls": [
+    "https://photonics.postech.ac.kr/publications"
   ],
-  "status": "partial",
-  "papers": [],
   "source_page_manifest": [
     {
       "url": "chrome-error://chromewebdata/",
       "capture_kind": "browser_snapshot",
       "characters": 267
     }
-  ]
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "status": "partial",
+  "papers": []
 }

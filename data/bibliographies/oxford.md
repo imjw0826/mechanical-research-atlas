@@ -508,17 +508,25 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:44.137Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/dan-rogers>
+
+출처: <https://eng.ox.ac.uk/power-electronics-group>
+
+출처: <https://eng.ox.ac.uk/control>
 
 ## University of Oxford — Budimir Rosic
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:45.134Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/budimir-rosic>
 
 ## University of Oxford — Barbara Rossi
 
@@ -557,9 +565,9 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:47.239Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
 출처: <https://eng.ox.ac.uk/people/patrick-salter>
 
@@ -668,9 +676,11 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:54.048Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/steve-sheard>
 
 ## University of Oxford — Paul Shearing
 
@@ -1064,9 +1074,11 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:52:13.608Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/sarah-thomas>
 
 ## University of Oxford — Paul Beard
 
@@ -1100,9 +1112,11 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:52:14.710Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/mark-thompson>
 
 ## University of Oxford — Philip Torr
 
@@ -1571,25 +1585,1175 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:52:17.076Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/anne-trefethen>
 
 ## University of Oxford — Jack Umenberger
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 20건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:52:18.281Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://umenberger.github.io/publications>
+
+1. [arXiv] Shortest paths in graphs of convex sets Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, Russ Tedrake. SIAM Journal on Optimization, 2024.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [arXiv] Globally Convergent Policy Search for Output Estimation Jack Umenberger, Max Simchowitz, Juan C. Perdomo, Kaiqing Zhang, Russ Tedrake. NeurIPS, 2022.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [OpenReview] [arXiv] Stabilizing Dynamical Systems via Policy Gradient Methods Juan C. Perdomo, Jack Umenberger, Max Simchowitz. 2021.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [NeurIPS] Identifying External Contacts from Joint Torque Measurements on Serial Robotic Arms and Its Limitations Tao Pang, Jack Umenberger, Russ Tedrake. ICRA, 2021.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [arXiv] Robust exploration in linear quadratic reinforcement learning Jack Umenberger, Mina Ferizbegovic, Thomas B. Schön, Håkan Hjalmarsson. NeurIPS, 2019.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [neurips] [arXiv] [poster] [code] Distributed identification of contracting and monotone network dynamics Max Revay, Jack Umenberger, Ian R. Manchester. 2019.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [arXiv] On the smoothness of nonlinear system identification Antônio H. Ribeiro, Koen Tiels, Jack Umenberger, Thomas B. Schön and Luis A. Aguirre. 2019.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [arXiv] Bayesian identification of state-space models via adaptive thermostats Jack Umenberger, Thomas B. Schön, Fredrik Lindsten. IEEE CDC, 2019.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. Learning robust LQ-controllers using application oriented exploration Mina Ferizbegovic, Jack Umenberger, Håkan Hjalmarsson, Thomas B. Schön. IEEE CSL/CDC, 2019.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [IEEE] [pdf] Nonlinear input design as optimal control of a Hamiltonian system Jack Umenberger, Thomas B. Schön. IEEE CSL/CDC, 2019. [IEEE]
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [arXiv] Convex Bounds for Equation Error in Stable Nonlinear Identification Jack Umenberger, Ian R. Manchester. IEEE CSL/CDC, 2018.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [IEEE] [pdf] [bib] [code] Learning convex bounds for linear quadratic control policy synthesis Jack Umenberger, Thomas B. Schön. NeurIPS/NIPS 2018.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [arXiv] [bib] [poster] [video] Specialized Interior Point Algorithm for Stable Nonlinear System Identification Jack Umenberger, Ian R. Manchester. IEEE TAC 2018.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [IEEE] [arXiv] [bib] [code] Maximum likelihood identification of stable linear dynamical systems Jack Umenberger, Johan Wågberg, Ian R. Manchester, Thomas B. Schön. Automatica, 2018.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [ScienceDirect] [pdf] [bib] Identification of externally positive systems Christian Grussler, Jack Umenberger, Ian R. Manchester. CDC, 2017.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [IEEE] [pdf] [bib] Convex identification of stable dynamical systems Jack Umenberger. PhD thesis, 2017.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [IEEE] [pdf] [bib] Specialized algorithm for identification of stable linear systems using Lagrangian relaxation Jack Umenberger, Ian R. Manchester. ACC, 2016.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [IEEE] [pdf] [bib] On identification via EM with latent disturbances and Lagrangian relaxation Jack Umenberger, Johan Wågberg, Ian R. Manchester, Thomas B. Schön. SYSID, 2015.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [ScienceDirect] [pdf] [bib] Real-time planning with primitives for dynamic walking over uneven terrain Ian R. Manchester, Jack Umenberger. ICRA, 2014.
+
+    게시 페이지: <https://umenberger.github.io/publications>
+
+1. [IEEE] [bib] System identification and control of a small-scale paramotor Jack Umenberger, Ali H. Göktogan. ICRA, 2013.
+
+    게시 페이지: <https://umenberger.github.io/publications>
 
 ## University of Oxford — Andrea Vedaldi
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 266건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:52:19.356Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. ActO: Extracting Action Representations from MLLM Embeddings for Video World Models, R. Li, M. Chen, J. Xie, P. Torr, A. Vedaldi and T. Jakab, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion, Y. Lan, Z. Jiang, K. Namekata, X. Pan, C. Zheng and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. PhysiFormer: Learning to Simulate Mechanics in World Space, Y. Chen, Y. Lan and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Track4D: Representing Dense 3D Tracking for Video Diffusion Models, Y. Lan, Z. Jiang, K. Li, X. Pan, C. Zheng and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control, R. Li, Y. Yao, M. Zhou, C. Zheng, C. Rupprecht, J. Lasenby, S. Wu and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Articraft: An Agentic System for Scalable Articulated 3D Asset Generation, M. Zhou, R. Li, X. Lyu, Z. Song, Z. Huang, C. Zheng, C. Rupprecht, A. Vedaldi and S. Wu, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey, J. Zhang, Y. Li, A. Chen, M. Xu, K. Liu, J. Wang, X. Long, H. Liang, Z. Xu, H. Su, C. Theobalt, C. Rupprecht, A. Vedaldi, K. Zhou, P. Liang, S. Lu and F. Zhan, Computer Graphics Forum, 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Syn4D: A Multiview Synthetic 4D Dataset, Z. Jiang, Y. Lan, Y. Luo, Y. Deng, Z. Lai, E. Sucar, C. Rupprecht, I. Laina, D. Larlus, C. Zheng and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Free-Range Gaussians: Non-Grid-Aligned Generative 3D Gaussian Reconstruction, A. Shabanov, P. Hedman, E. Weber, Z. Li, D. Rozumny, G. Lan, N. Dhingra, L. Luo, A. Vedaldi, C. Richardt, A. Tagliasacchi, B. Zhu and N. Khan, Proceedings of the European Conference on Computer Vision (ECCV), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion, P. Engstler, I. Laina, C. Rupprecht and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Mesh ReGen: A Unified 3D Geometry Regeneration Framework, G. Park, R. Shapovalov, R. Ranjan, J. Ye, A. Vedaldi and T. Nguyen-Phuoc, Proceedings of the European Conference on Computer Vision (ECCV), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. VFMF: Dense Forecasting by Generating Foundation Model Features, G. Boduljak, Y. Lan, C. Rupprecht and A. Vedaldi, Proceedings of the International Conference on Machine Learning (ICML), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. WorldGen: From Text to Traversable and Interactive 3D Worlds, D. Wang, H. Jung, T. Monnier, K. Sohn, C. Zou, X. Xiang, Y. Yeh, D. Liu, Z. Huang, T. Nguyen-Phuoc, Y. Fan, S. Oprea, Z. Wang, R. Shapovalov, N. Sarafianos, T. Groueix, A. Toisoul, P. Dhar, X. Chu, M. Chen, G. Park, R. Ranjan and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Realiz3D: 3D Generation Made Photorealistic via Domain-Aware Learning, I. Sobol, K. Sohn, Y. Blum, E. Zakharov, M. Bluvstein, A. Vedaldi and O. Litany, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. VGGT-Ω, J. Wang, M. Chen, S. Zhang, N. Karaev, J. Schönberger, P. Labatut, P. Bojanowski, D. Novotny, A. Vedaldi and C. Rupprecht, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. CoWTracker: Tracking by Warping instead of Correlation, Z. Lai, E. Insafutdinov, E. Sucar and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Particulate: Feed-Forward 3D Object Articulation, R. Li, Y. Yao, C. Zheng, C. Rupprecht, J. Lasenby, S. Wu and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models, M. Xie, N. Khan, T. Wang, N. Dhingra, S. Nam, H. Yang, Z. Hui, C. Metzler, A. Vedaldi, H. Pirsiavash and L. Luo, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis, S. Szymanowicz, M. Chen, J. Wang, C. Rupprecht and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. MeshFlow: Efficient Artistic Mesh Generation via MeshVAE and Flow-based DiTs, W. Li, A. Toisoul, T. Monnier, R. Shapovalov, R. Ranjan, P. Tan and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. V-DPM: 4D Video Reconstruction with Dynamic Point Maps, E. Sucar, E. Insafutdinov, Z. Lai and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video, Z. Jiang, C. Zheng, I. Laina, D. Larlus and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction, W. Chen, C. Zheng, G. Zhang, A. Vedaldi and D. Cremers, Proceedings of the International Conference on Learning Representations (ICLR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. What Happens Next? Anticipating Future Motion by Generating Point Trajectories, G. Boduljak, L. Karazija, I. Laina, C. Rupprecht and A. Vedaldi, Proceedings of the International Conference on Learning Representations (ICLR), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Triangle Splatting for Real-Time Radiance Field Rendering, J. Held, R. Vandeghen, A. Deliege, A. Hamdi, D. Rebain, S. Giancola, A. Cioppa, A. Vedaldi, B. Ghanem, A. Tagliasacchi and M. Droogenbroeck, Proceedings of the International Conference on 3D Vision (3DV), 2026
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. AutoPartGen: Autoregressive 3D Part Generation and Discovery, M. Chen, J. Wang, R. Shapovalov, T. Monnier, H. Jung, D. Wang, R. Ranjan, I. Laina and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction, Z. Jiang, C. Zheng, I. Laina, D. Larlus and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images, T. Wu, C. Zheng, F. Guan, A. Vedaldi and T. Cham, Proceedings of the International Conference on Computer Vision (ICCV), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics, R. Li, C. Zheng, C. Rupprecht and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness, R. Li, C. Zheng, C. Rupprecht and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction, W. Chen, G. Zhang, F. Wimbauer, R. Wang, N. Araslanov, A. Vedaldi and D. Cremers, Proceedings of the International Conference on Computer Vision (ICCV), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory, R. Li, P. Torr, A. Vedaldi and T. Jakab, Proceedings of the International Conference on Computer Vision (ICCV), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos, N. Karaev, I. Makarov, J. Wang, N. Neverova, A. Vedaldi and C. Rupprecht, Proceedings of the International Conference on Computer Vision (ICCV), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. SynCity: Training-Free Generation of 3D Worlds, P. Engstler, A. Shtedritski, I. Laina, C. Rupprecht and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction, E. Sucar, Z. Lai, E. Insafutdinov and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Flex3D: Feed-Forward 3D Generation With Flexible Reconstruction Model And Input View Curation, J. Han, J. Wang, A. Vedaldi, P. Torr and F. Kokkinos, Proceedings of the International Conference on Machine Learning (ICML), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction, B. Kaye, T. Jakab, S. Wu, C. Rupprecht and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Twinner: Shining Light on Digital Twins in a Few Snaps, J. Zarzar, T. Monnier, R. Shapovalov, A. Vedaldi and D. Novotny, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. uCO3D UnCommon Objects in 3D, X. Liu, P. Tayal, J. Wang, J. Zarzar, T. Monnier, K. Tertikas, J. Duan, A. Toisoul, J. Zhang, N. Neverova, A. Vedaldi, R. Shapovalov and D. Novotny, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Layered motion fusion: Lifting motion segmentation to 3D in egocentric videos, V. Tschernezki, D. Larlus, A. Vedaldi and I. Laina, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. 3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes, J. Held, R. Vandeghen, A. Hamdi, A. Cioppa, A. Deliege, S. Giancola, A. Vedaldi, B. Ghanem and M. Droogenbroeck, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. PartGen: Part-level 3D Generation and Reconstruction with Multi-view Diffusion Models, M. Chen, R. Shapovalov, I. Laina, T. Monnier, J. Wang, D. Novotny and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better, Z. Lai and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting, P. Engstler, A. Vedaldi, I. Laina and C. Rupprecht, Proceedings of the International Conference on 3D Vision (3DV), 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Lightplane: Highly-Scalable Components for Neural 3D Fields, A. Cao, J. Johnson, A. Vedaldi and D. Novotny, Proceedings of the International Conference on 3D Vision (3DV), 2025 supp. materials,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. CatFree3D: Category-agnostic 3D Object Detection Network with Diffusion, W. Bian, Z. Wang and A. Vedaldi, Proceedings of the International Conference on 3D Vision (3DV), 2025 supp. materials,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image, S. Szymanowicz, E. Insafutdinov, C. Zheng, D. Campbell, J. Henriques, C. Rupprecht and A. Vedaldi, Proceedings of the International Conference on 3D Vision (3DV), 2025 supp. materials,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. DINOv3, O. Siméoni, H. Vo, M. Seitzer, F. Baldassarre, M. Oquab, C. Jose, V. Khalidov, M. Szafraniec, S. Yi, M. Ramamonjisoa, F. Massa, D. Haziza, L. Wehrstedt, J. Wang, T. Darcet, T. Moutakanni, L. Sentana, C. Roberts, A. Vedaldi, J. Tolan, J. Brandt, C. Couprie, J. Mairal, H. Jégou, P. Labatut and P. Bojanowski, arXiv preprint, 2025
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Neural Fields for Co-Reconstructing 3D Objects from Incidental 2D Data, D. Campbell, E. Insafutdinov, J. Henriques and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. 3D-Aware Instance Segmentation and Tracking in Egocentric Videos, Y. Bhalgat, V. Tschernezki, I. Laina, J. Henriques, A. Vedaldi and A. Zisserman, Proceedings of the Asian Conference on Computer Vision (ACCV), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning Segmentation from Point Trajectories, L. Karazija, I. Laina, C. Rupprecht and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. MVSplat360: Benchmarking 360 Generalizable 3D Novel View Synthesis from Sparse Views, Y. Chen, C. Zheng, H. Xu, B. Zhuang, A. Vedaldi, T. Cham and J. Cai, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Diffusion Models for Open-Vocabulary Segmentation, L. Karazija, I. Laina, A. Vedaldi and C. Rupprecht, Proceedings of the European Conference on Computer Vision (ECCV), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. GOEmbed: Gradient Origin Embeddings for Representation Agnostic 3D Feature Learning, A. Karnewar, A. Vedaldi, R. Shapovalov, T. Monnier, N. Mitra and D. Novotny, Proceedings of the European Conference on Computer Vision (ECCV), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. CoTracker: It is Better to Track Together, N. Karaev, I. Rocco, B. Graham, N. Neverova, A. Vedaldi and C. Rupprecht, Proceedings of the European Conference on Computer Vision (ECCV), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Instant Uncertainty Calibration of NeRFs Using a Meta-calibrator, N. Amini-Naieni, T. Jakab, A. Vedaldi and R. Clark, Proceedings of the European Conference on Computer Vision (ECCV), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing, M. Chen, I. Laina and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. N2F2: Hierarchical Scene Understanding with Nested Neural Feature Fields, Y. Bhalgat, I. Laina, J. Henriques, A. Zisserman and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. SHIC: Shape-Image Correspondences with no Keypoint Supervision, A. Shtedritski, C. Rupprecht and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. DragAPart: Learning a Part-Level Motion Prior for Articulated Objects, R. Li, C. Zheng, C. Rupprecht and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Meta 3D Asset Gen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials, Y. Siddiqui, F. Kokkinos, T. Monnier, M. Kariya, Y. Kleiman, E. Garreau, O. Gafni, N. Neverova, A. Vedaldi, R. Shapovalov and D. Novotny, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning the 3D Fauna of the Web, Z. Li, D. Litvak, R. Li, Y. Zhang, T. Jakab, C. Rupprecht, S. Wu, A. Vedaldi and J. Wu, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering, A. Hamdi, L. Melas-Kyriazi, G. Qian, J. Mai, R. Liu, C. Vondrick, B. Ghanem and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Free3D: Consistent Novel View Synthesis without 3D Representation, C. Zheng and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Splatter Image: Ultra-Fast Single-View 3D Reconstruction, S. Szymanowicz, C. Rupprecht and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation, L. Melas-Kyriazi, I. Laina, C. Rupprecht, N. Neverova, A. Vedaldi, O. Gafni and F. Kokkinos, Proceedings of the International Conference on Machine Learning (ICML), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion, T. Jakab, R. Li, S. Wu, C. Rupprecht and A. Vedaldi, Proceedings of the International Conference on 3D Vision (3DV), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Training-Free Layout Control with Cross-Attention Guidance, M. Chen, I. Laina and A. Vedaldi, Proceedings of the IEEE Winter Conference on Applications of Computer Vision (WACV), 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Training-Free Layout Control with Cross-Attention Guidance, M. Chen, I. Laina and A. Vedaldi, Proceedings of the IEEE Winter Conference on Applications of Computer Vision (WACV), 2024 Selected preprints Meta 3D Gen, R. Bensadoun, T. Monnier, Y. Kleiman, F. Kokkinos, Y. Siddiqui, M. Kariya, O. Harosh, R. Shapovalov, B. Graham, E. Garreau, A. Karnewar, A. Cao, I. Azuri, I. Makarov, E. Le, A. Toisoul, D. Novotny, O. Gafni, N. Neverova and A. Vedaldi, arXiv preprint, 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Meta 3D Texture Gen: Fast and Consistent Texture Generation for 3D Objects, R. Bensadoun, Y. Kleiman, I. Azuri, O. Harosh, A. Vedaldi, N. Neverova and O. Gafni, arXiv preprint, 2024
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Self-Supervised Correspondence Estimation via Multiview Registration, M. Banani, I. Rocco, D. Novotny, A. Vedaldi, N. Neverova, J. Johnson and B. Graham, Proceedings of the IEEE Winter Conference on Applications of Computer Vision (WACV), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. DOVE: Learning Deformable 3D Objects by Watching Videos, S. Wu, T. Jakab, C. Rupprecht and A. Vedaldi, International Journal of Computer Vision (IJCV), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning Universal Semantic Correspondences with No Supervision and Automatic Data Curation, A. Shtedritski, C. Rupprecht and A. Vedaldi, Proc. IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. No Representation Rules Them All in Category Discovery, S. Vaze, A. Vedaldi and A. Zisserman, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion, Y. Bhalgat, I. Laina, J. Henriques, A. Vedaldi and A. Zisserman, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Replay: Multi-modal Multi-view Acted Videos for Casual Holography, R. Shapovalov, Y. Kleiman, I. Rocco, D. Novotny, A. Vedaldi, C. Chen, F. Kokkinos, B. Graham and N. Neverova, Proceedings of the International Conference on Computer Vision (ICCV), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data, S. Szymanowicz, C. Rupprecht and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Online Clustered Codebook, C. Zheng and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2023 poster,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. HoloFusion: Towards Photo-realistic 3D Generative Modeling, A. Karnewar, A. Vedaldi, N. Mitra and D. Novotny, Proceedings of the International Conference on Computer Vision (ICCV), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. EPIC Fields: Marrying 3D Geometry and Video Understanding, V. Tschernezki, A. Darkhalil, Z. Zhu, D. Fouhey, I. Laina, D. Larlus, D. Damen and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS): Track on Datasets and Benchmarks, 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. What does CLIP know about a red circle? Visual prompt engineering for VLMs, A. Shtedritski, C. Rupprecht and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Text-To-4D Dynamic Scene Generation, U. Singer, S. Sheynin, A. Polyak, O. Ashual, I. Makarov, F. Kokkinos, N. Goyal, A. Vedaldi, D. Parikh, J. Johnson and Y. Taigman, Proceedings of the International Conference on Machine Learning (ICML), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Behind the Scenes: Density Fields for Single View Reconstruction, F. Wimbauer, N. Yang, C. Rupprecht and D. Cremers, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Novel-view Acoustic Synthesis, C. Chen, A. Richard, R. Shapovalov, V. Ithapu, N. Neverova, K. Grauman and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. HoloDiffusion: training a 3D diffusion model using 2D Images, A. Karnewar, A. Vedaldi, D. Novotny and N. Mitra, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. DynamicStereo: Consistent Dynamic Depth from Stereo Videos, N. Karaev, I. Rocco, B. Graham, N. Neverova, A. Vedaldi and C. Rupprecht, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories, S. Sinha, R. Shapovalov, J. Reizenstein, I. Rocco, N. Neverova, A. Vedaldi and D. Novotný, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Continual Detection Transformer for Incremental Object Detection, Y. Liu, B. Schiele, A. Vedaldi and C. Rupprecht, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. MagicPony: Learning Articulated 3D Animals in the Wild, S. Wu, R. Li, T. Jakab, C. Rupprecht and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. PC2: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction, L. Melas-Kyriazi, C. Rupprecht and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. RealFusion: 360 Reconstruction of Any Object from a Single Image, L. Melas-Kyriazi, C. Rupprecht, I. Laina and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Real-time volumetric rendering of dynamic humans, I. Rocco, I. Makarov, F. Kokkinos, D. Novotný, B. Graham, N. Neverova and A. Vedaldi, arXiv preprint, 2023
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Selected preprints Real-time volumetric rendering of dynamic humans, I. Rocco, I. Makarov, F. Kokkinos, D. Novotný, B. Graham, N. Neverova and A. Vedaldi, arXiv preprint, 2023 Explanations for Attributing Deep Neural Network Predictions, R. Fong and A. Vedaldi, Explainable AI: Interpreting, Explaining and Visualizing Deep Learning, 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Test Sample Accuracy Scales with Training Sample Density in Neural Networks, X. Ji, R. Pascanu, R. Hjelm, B. Lakshminarayanan and A. Vedaldi, Proceedings of Conference on Lifelong Learning Agents (CoLLA), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Lifting 2D Object Locations to 3D by Discounting LiDAR Outliers across Objects and Views, R. McCraith, E. Insafutdinov, L. Neumann and A. Vedaldi, Proceedings of the IEEE Conference on Robotics and Automation (ICRA), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. End-to-End Visual Editing with a Generatively Pre-Trained Artist, A. Brown, C. Fu, O. Parkhi, T. Berg and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. SNeS: Learning Probably Symmetric Neural Surfaces from Incomplete Data, E. Insafutdinov, D. Campbell, J. Henriques and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Guess What Moves: Unsupervised Video and Image Segmentation by Anticipating Motion, L. Karazija, S. Choudhury, I. Laina, A. Vedaldi and C. Rupprecht, Proceedings of the British Machine Vision Conference (BMVC), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Unsupervised Multi-object Segmentation by Predicting Probable Motion Patterns, L. Karazija, S. Choudhury, I. Laina, C. Rupprecht and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Direct LiDAR-based object detector training from automated 2D detections, R. McCraith, E. Insafutdinov, L. Neumann and A. Vedaldi, Proceedings of NeurIPS Machine Learning for the Developing World Workshop, 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representation, V. Tschernezki, I. Laina, D. Larlus and A. Vedaldi, Proceedings of the International Conference on 3D Vision (3DV), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. BANMo: Building Animatable 3D Neural Models from Many Casual Videos, G. Yang, M. Vo, N. Neverova, D. Ramanan, A. Vedaldi and H. Joo, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022 (Media coverage)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization, L. Melas-Kyriazi, C. Rupprecht, I. Laina and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Finding an Unsupervised Image Segmenter in each of your Deep Generative Models, L. Melas-Kyriazi, C. Rupprecht, I. Laina and A. Vedaldi, Proceedings of the International Conference on Learning Representations (ICLR), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Generalized Category Discovery, S. Vaze, K. Han, A. Vedaldi and A. Zisserman, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Keypoint Transporter for Reconstructing Non-rigid 3D Shapes in Videos, D. Novotny, I. Rocco, S. Sinha, A. Carlier, G. Kerchenbaum, R. Shapovalov, N. Smetanin, N. Neverova and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Measuring the Interpretability of Unsupervised Representations via Quantized Reversed Probing, I. Laina, Y. Asano and A. Vedaldi, Proceedings of the International Conference on Learning Representations (ICLR), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Open-Set Recognition: A Good Closed-Set Classifier is All You Need, S. Vaze, K. Han, A. Vedaldi and A. Zisserman, Proceedings of the International Conference on Learning Representations (ICLR), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Self-supervised object detection from audio-visual correspondence, T. Afouras, Y. Asano, F. Fagan, A. Vedaldi and F. Metze, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Exemplar Fine-Tuning for 3D Human Model Fitting Towards In-the-Wild 3D Human Pose Estimation, H. Joo, N. Neverova and A. Vedaldi, Proceedings of the International Conference on 3D Vision (3DV), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. AutoNovel: Automatically Discovering and Learning Novel Visual Categories, K. Han, S. Rebuffi, S. Ehrhardt, A. Vedaldi and A. Zisserman, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Audio-Visual Synchronisation in the Wild, H. Chen, W. Xie, T. Afouras, A. Nagrani, A. Vedaldi and A. Zisserman, Proceedings of the British Machine Vision Conference (BMVC), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Unsupervised Part Discovery from Contrastive Reconstruction, S. Choudhury, I. Laina, C. Rupprecht and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers, M. Patrick, D. Campbell, Y. Asano, I. Misra, F. Metze, C. Feichtenhofer, A. Vedaldi and J. Henriques, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. PASS: An ImageNet replacement for self-supervised pretraining without human, Y. Asano, C. Rupprecht, A. Zisserman and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS): Track on Datasets and Benchmarks, 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. NeuralDiff: Segmenting 3D objects that move in egocentric videos, V. Tschernezki, D. Larlus and A. Vedaldi, Proceedings of the International Conference on 3D Vision (3DV), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Moving SLAM: Fully Unsupervised Deep Learning in Non-Rigid Scenes, D. Xu, A. Vedaldi and J. Henriques, Proc. IEEE Intl. Conf. on Intelligent Robots and Systems (IROS), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Goal-Conditioned End-to-End Visuomotor Control for Versatile Skill Primitives, O. Groth, C. Hung, A. Vedaldi and I. Posner, Proceedings of the IEEE Conference on Robotics and Automation (ICRA), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Real Time Monocular Vehicle Velocity Estimation Using Synthetic Data, R. McCraith, L. Neumann and A. Vedaldi, Proc. IEEE Intelligent Vehicles Symposium, 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. On Compositions of Transformations in Contrastive Self-Supervised Learning, M. Patrick, Y. Asano, P. Kuznetsova, R. Fong, J. Henriques, G. Zweig and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Space-time crop and Attend: Improving cross-modal video representation learning, M. Patrick, Y. Asano, B. Huang, I. Misra, F. Metze, J. Henriques and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension, R. Shapovalov, D. Novotny, B. Graham, P. Labatut and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. NeuroMorph: Unsupervised Shape Interpolation and Correspondence in One Go, M. Eisenberger, D. Novotny, G. Kerchenbaum, P. Labatut, N. Neverova, D. Cremers and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Unsupervised Learning of 3D Object Categories from Videos in the Wild, P. Henzler, J. Reizenstein, P. Labatut, R. Shapovalov, T. Ritschel, A. Vedaldi and D. Novotny, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Discovering Relationships between Object Categories via Universal Canonical Maps, N. Neverova, A. Sanakoyeu, P. Labatut, D. Novotny and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Support-set bottlenecks for video-text representation learning, M. Patrick, P. Huang, Y. Asano, F. Metze, A. Hauptmann, J. Henriques and A. Vedaldi, Proceedings of the International Conference on Learning Representations (ICLR), 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Optimising a Simple Fully Convolutional Network (SFCN) for accurate brain age prediction in the PAC 2019 challenge, W. Gong, C. Beckmann, A. Vedaldi, S. Smith and H. Peng, Front. Psychiatry, 2021
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Semi-Supervised Learning with Scarce Annotations, S. Rebuffi, S. Ehrhardt, K. Han, A. Vedaldi and A. Zisserman, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. RELATE: Physically Plausible Multi-Object Scene Synthesis Using Structured Latent Spaces, S. Ehrhardt, O. Groth, A. Monszpart, M. Engelcke, I. Posner, N. Mitra and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Quantifying Learnability and Describability of Visual Concepts Emerging in Representation Learning, I. Laina, R. Fong and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Labelling unlabelled videos from scratch with multi-modal self-supervision, Y. Asano, M. Patrick, C. Rupprecht and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. 3D Multi-bodies: Fitting Sets of Plausible 3D Human Models to Ambiguous Image Data, B. Biggs, A. Vedaldi and D. Novotný, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Canonical 3D Deformer Maps: Unifying parametric and non-parametric methods for dense weakly-supervised category reconstruction, D. Novotný, R. Shapovalov and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Continuous Surface Embeddings, N. Neverova, D. Novotný and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Deep Image Prior, D. Ulyanov, A. Vedaldi and V. Lempitsky, International Journal of Computer Vision (IJCV), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. VGGSound: A Large-scale Audio-Visual Dataset, H. Chen, W. Xie, A. Vedaldi and A. Zisserman, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Transferring Dense Pose to Proximal Animal Classes, A. Sanakoyeu, V. Khalidov, M. McCarthy, A. Vedaldi and N. Neverova, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Self-supervised Learning of Interpretable Keypoints from Unlabelled Videos, T. Jakab, A. Gupta, H. Bilen and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Automatically Discovering and Learning New Visual Categories with Ranking Statistics, K. Han, S. Rebuffi, S. Ehrhardt, A. Vedaldi and A. Zisserman, Proceedings of the International Conference on Learning Representations (ICLR), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. A critical analysis of self-supervision, or what we can learn from a single image, Y. Asano, C. Rupprecht and A. Vedaldi, Proceedings of the International Conference on Learning Representations (ICLR), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Self-labelling via simultaneous clustering and representation learning, Y. Asano, C. Rupprecht and A. Vedaldi, Proceedings of the International Conference on Learning Representations (ICLR), 2020
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Future Event Prediction: If and When, L. Neumann, A. Zisserman and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Explainable AI: Interpreting, Explaining and Visualizing Deep Learning, W. Samek, G. Montavon, A. Vedaldi, L. Hansen and K. Müller, Springer, 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Fixing the train-test resolution discrepancy, H. Touvron, A. Vedaldi, M. Douze and H. Jégou, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Correlated Uncertainty for Learning Dense Correspondences from Noisy Labels, N. Neverova, D. Novotný and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. AutoCorrect: Deep Inductive Alignment of Noisy Geometric Annotations, H. Chen, W. Xie, A. Vedaldi and A. Zisserman, Proceedings of the British Machine Vision Conference (BMVC), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Scrutinizing and De-Biasing Intuitive Physics with Neural Stethoscopes, F. Fuchs, O. Groth, A. Kosiorek, A. Bewley, M. Wulfmeier, A. Vedaldi and I. Posner, Proceedings of the British Machine Vision Conference (BMVC), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion, D. Novotný, N. Ravi, B. Graham, N. Neverova and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Small step and giant leaps: Minimal Netwon solvers for Deep Learning, J. Henriques, S. Ehrhardt, S. Albanie and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Unsupervised learning of landmarks by descriptor vector exchange, J. Thewlis, S. Albanie, H. Bilen and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Understanding Deep Networks via Extremal Perturbations and Smooth Masks, R. Fong, M. Patrick and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Invariant Information Clustering for Unsupervised Image Classification and Segmentation, X. Ji, J. Henriques and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning to Discover Novel Visual Categories via Deep Transfer Clustering, K. Han, A. Vedaldi and A. Zisserman, Proceedings of the International Conference on Computer Vision (ICCV), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. HPatches: A benchmark and evaluation of handcrafted and learned local descriptors, V. Balntas, K. Lenc, A. Vedaldi, T. Tuytelaars, J. Matas and K. Mikolajczyk, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Taking visual motion prediction to new heightfields, S. Ehrhardt, A. Monszpart, N. Mitra and A. Vedaldi, Computer Vision and Image Understanding, 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Meta-learning with differentiable closed-form solvers, L. Bertinetto, J. Henriques, P. Torr and A. Vedaldi, Proceedings of the International Conference on Learning Representations (ICLR), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Slim DensePose: Thrifty Learning From Sparse Annotations and Motion Cues, N. Neverova, J. Thewlis, R. Güler, I. Kokkinos and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Understanding Image Representations by Measuring Their Equivariance and Equivalence, K. Lenc and A. Vedaldi, International Journal of Computer Vision (IJCV), 2019
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Relaxed Softmax: Efficient Confidence Auto-Calibration for Safe Pedestrian Detection, L. Neumann, A. Zisserman and A. Vedaldi, NeurIPS Workshop on Machine Learning for Intelligent Transportation Systems, 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning to read by spelling: Towards unsupervised text recognition, A. Gupta, A. Vedaldi and A. Zisserman, Proceedings of the Indian Conference on Computer Vision, Graphics and Image Processing, 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Capturing the Geometry of Object Categories from Video Supervision, D. Novotný, D. Larlus and A. Vedaldi, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Unsupervised Intuitive Physics from Visual Observations, S. Ehrhardt, A. Monszpart, N. Mitra and A. Vedaldi, Proceedings of the Asian Conference on Computer Vision (ACCV), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. NightOwls: A Pedestrians at Night Dataset, L. Neumann, M. Karg, S. Zhang, C. Scharfenberger, E. Piegert, S. Mistr, O. Prokofyeva, R. Thiel, A. Vedaldi, A. Zisserman and B. Schiele, Proceedings of the Asian Conference on Computer Vision (ACCV), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Tiny People Pose, L. Neumann and A. Vedaldi, Proceedings of the Asian Conference on Computer Vision (ACCV), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Cross Pixel Optical-Flow Similarity for Self-supervised Learning, A. Mahendran, J. Thewlis and A. Vedaldi, Proceedings of the Asian Conference on Computer Vision (ACCV), 2018 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Emotion Recognition in Speech using Cross-Modal Transfer in the Wild, S. Albanie, A. Nagrani, A. Vedaldi and A. Zisserman, Proceedings of the 26th annual ACM international conference on Multimedia, 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Unsupervised Learning of Object Landmarks through Conditional Image Generation, T. Jakab, A. Gupta, H. Bilen and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2018 supp. materials,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Modelling and unsupervised learning of symmetric deformable object categories, J. Thewlis, H. Bilen and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2018 supp. materials,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Gather-Excite: Exploiting Feature Context in Convolutional Neural Networks, J. Hu, L. Shen, S. Albanie, G. Sun and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2018 supp. materials,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Inductive Visual Localisation: Factorised Training for Superior Generalisation, A. Gupta, A. Vedaldi and A. Zisserman, Proceedings of the British Machine Vision Conference (BMVC), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Long-Term Tracking in the Wild: A Benchmark, J. Valmadre, L. Bertinetto, J. Henriques, R. Tao, A. Vedaldi, A. Smeulders, P. Torr and E. Gavves, Proceedings of the European Conference on Computer Vision (ECCV), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Supervising the New with the Old: Learning SFM from SFM, M. Klodt and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Large scale evaluation of local image feature detectors on homography datasets, K. Lenc and A. Vedaldi, Proceedings of the British Machine Vision Conference (BMVC), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. ShapeStacks: Learning Vision-Based Physical Intuition for Generalised Object Stacking, O. Groth, F. Fuchs, I. Posner and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Semi-convolutional Operators for Instance Segmentation, D. Novotný, S. Albanie, D. Larlus and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Net2Vec: Quantifying and Explaining How Concepts Are Encoded by Filters in Deep Neural Networks, R. Fong and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. MapNet: An Allocentric Spatial Memory for Mapping Environments, J. Henriques and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Efficient Parametrization of Multi-Domain Deep Neural Networks, S. Rebuffi, H. Bilen and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Self-Supervised Learning of Geometrically Stable Features Through Probabilistic Introspection, D. Novotný, S. Albanie, D. Larlus and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Deep Image Prior, D. Ulyanov, A. Vedaldi and V. Lempitsky, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. It Takes (Only) Two: Adversarial Generator-Encoder Networks, D. Ulyanov, A. Vedaldi and V. Lempitsky, Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI), 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Action Recognition with Dynamic Image Networks, H. Bilen, B. Fernando, E. Gavves and A. Vedaldi, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2018
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Generalizing Semantic Part Detectors Across Domains, D. Novotný, D. Larlus and A. Vedaldi, Domain Adaptation in Computer Vision Applications, 2017
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Unsupervised learning of object frames by dense equivariant image labelling, J. Thewlis, H. Bilen and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2017 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning multiple visual domains with residual adapters, S. Rebuffi, H. Bilen and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2017
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning 3D Object Categories by Looking Around Them, D. Novotný, D. Larlus and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2017 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Interpretable Explanations of Black Boxes by Meaningful Perturbation, R. Fong and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2017
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Unsupervised Learning of Object Landmarks by Factorized Spatial Embeddings, J. Thewlis, H. Bilen and A. Vedaldi, Proceedings of the International Conference on Computer Vision (ICCV), 2017 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Warped Convolutions: Efficient Invariance to Spatial Transformations, J. Henriques and A. Vedaldi, Proceedings of the International Conference on Machine Learning (ICML), 2017
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. End-to-End Representation Learning for Correlation Filter Based Tracking, J. Valmadre, L. Bertinetto, J. Henriques, A. Vedaldi and P. Torr, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Improved Texture Networks: Maximizing Quality and Diversity in Feed-Forward Stylization and Texture Synthesis, D. Ulyanov, A. Vedaldi and V. Lempitsky, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. AnchorNet: A Weakly Supervised Network to Learn Geometry-Sensitive Features for Semantic Matching, D. Novotný, D. Larlus and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. HPatches: A Benchmark and Evaluation of Handcrafted and Learned Local Descriptors, V. Balntas, K. Lenc, A. Vedaldi and K. Mikolajczyk, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Fully-Convolutional Siamese Networks for Object Tracking, L. Bertinetto, J. Valmadre, J. Henriques, A. Vedaldi and P. Torr, ECCV Workshop on Computer Vision on Visual Object Tracking, 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning Covariant Feature Detectors, K. Lenc and A. Vedaldi, Proceedings of the ECCV workshop on Geometry Meets Deep Learning, 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning the semantic structure of objects from Web supervision, D. Novotný, D. Larlus and A. Vedaldi, Proceedings of the ECCV workshop on Geometry Meets Deep Learning, 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning feed-forward one-shot learners, L. Bertinetto, J. Henriques, J. Valmadre, P. Torr and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Integrated perception with recurrent multi-task neural networks, H. Bilen and A. Vedaldi, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Salient Deconvolutional Networks, A. Mahendran and A. Vedaldi, Proceedings of the European Conference on Computer Vision (ECCV), 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. I Have Seen Enough: Transferring Parts Across Categories, D. Novotný, D. Larlus and A. Vedaldi, Proceedings of the British Machine Vision Conference (BMVC), 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Fully-trainable deep matching, J. Thewlis, S. Zheng, P. Torr and A. Vedaldi, Proceedings of the British Machine Vision Conference (BMVC), 2016 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning Grimaces by Watching TV, S. Albanie and A. Vedaldi, Proceedings of the British Machine Vision Conference (BMVC), 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Visualizing Deep Convolutional Neural Networks Using Natural Pre-images, A. Mahendran and A. Vedaldi, International Journal of Computer Vision (IJCV), 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Texture Networks: Feed-forward Synthesis of Textures and Stylized Images, D. Ulyanov, V. Lebedev, A. Vedaldi and V. Lempitsky, Proceedings of the International Conference on Machine Learning (ICML), 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Synthetic Data for Text Localisation in Natural Images, A. Gupta, A. Vedaldi and A. Zisserman, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Dynamic Image Networks for Action Recognition, H. Bilen, B. Fernando, E. Gavves, A. Vedaldi and S. Gould, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Weakly Supervised Deep Detection Networks, H. Bilen and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Deep Filter Banks for Texture Recognition, Description, and Segmentation, M. Cimpoi, S. Maji, I. Kokkinos and A. Vedaldi, International Journal of Computer Vision (IJCV), 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Reading Text in the Wild with Convolutional Neural Networks, M. Jaderberg, K. Simonyan, A. Vedaldi and A. Zisserman, International Journal of Computer Vision (IJCV), 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Reading Text in the Wild with Convolutional Neural Networks, M. Jaderberg, K. Simonyan, A. Vedaldi and A. Zisserman, International Journal of Computer Vision (IJCV), 2016 Selected preprints Instance Normalization: The Missing Ingredient for Fast Stylization, D. Ulyanov, A. Vedaldi and V. Lempitsky, arXiv preprint, 2016
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Building the View Graph of a Category by Exploiting Image Realism, A. Szabó, A. Vedaldi and P. Favaro, Proceedings of the International Conference on Computer Vision Workshop (ICCVW), 2015
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Deep Structured Output Learning for Unconstrained Text Recognition, M. Jaderberg, K. Simonyan, A. Vedaldi and A. Zisserman, Proceedings of the International Conference on Learning Representations (ICLR), 2015
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Factorized appearances for object detection, J. Gonfaus, M. Pedersoli, J. Gonzàlez, A. Vedaldi and F. Roca, Computer Vision and Image Understanding, 2015
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Deep Face Recognition, O. Parkhi, A. Vedaldi and A. Zisserman, Proceedings of the British Machine Vision Conference (BMVC), 2015
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. MatConvNet: Convolutional Neural Networks for MATLAB, A. Vedaldi and K. Lenc, Proceedings of the 25th annual ACM international conference on Multimedia, 2015
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. R-CNN minus R, K. Lenc and A. Vedaldi, Proceedings of the British Machine Vision Conference (BMVC), 2015 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Automatic Discovery and Optimization of Parts for Image Classification, S. Parizi, A. Vedaldi, A. Zisserman and P. Felzenszwalb, Proceedings of the International Conference on Learning Representations (ICLR), 2015
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Deep filter banks for texture recognition and segmentation, M. Cimpoi, S. Maji and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Understanding image representations by measuring their equivariance and equivalence, K. Lenc and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Understanding deep image representations by inverting them, A. Mahendran and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. A coarse-to-fine approach for fast deformable object detection, M. Pedersoli, A. Vedaldi, J. Gonzàlez and F. Roca, Pattern Recognition, 2014
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition, M. Jaderberg, K. Simonyan, A. Vedaldi and A. Zisserman, NeurIPS Deep Learning Workshop, 2014
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Deep Features for Text Spotting, M. Jaderberg, A. Vedaldi and A. Zisserman, Proceedings of the European Conference on Computer Vision (ECCV), 2014
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Speeding up Convolutional Neural Networks with Low Rank Expansions, M. Jaderberg, A. Vedaldi and A. Zisserman, Proceedings of the British Machine Vision Conference (BMVC), 2014
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Understanding Objects in Detail with Fine-Grained Attributes, A. Vedaldi, S. Mahendran, S. Tsogkas, S. Maji, R. Girshick, J. Kannala, E. Rahtu, I. Kokkinos, M. Blaschko, D. Weiss, B. Taskar, K. Simonyan, N. Saphra and S. Mohamed, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014 poster,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Describing Textures in the Wild, M. Cimpoi, S. Maji, I. Kokkinos, S. Mohamed and A. Vedaldi, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. A Compact and Discriminative Face Track Descriptor, O. Parkhi, K. Simonyan, A. Vedaldi and A. Zisserman, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014 poster, (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps, K. Simonyan, A. Vedaldi and A. Zisserman, Proceedings of the International Conference on Learning Representations (ICLR), 2014
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning Local Feature Descriptors Using Convex Optimisation, K. Simonyan, A. Vedaldi and A. Zisserman, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2014
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Deep Fisher Networks for Large-Scale Image Classification, K. Simonyan, A. Vedaldi and A. Zisserman, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2013 poster, (NeurIPS spotlight)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Fisher Vector Faces in the Wild, K. Simonyan, O. Parkhi, A. Vedaldi and A. Zisserman, Proceedings of the British Machine Vision Conference (BMVC), 2013 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Blocks That Shout: Distinctive Parts for Scene Classification, M. Juneja, A. Vedaldi, C. Jawahar and A. Zisserman, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Self-similar Sketch, A. Vedaldi and A. Zisserman, Proceedings of the European Conference on Computer Vision (ECCV), 2012
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Descriptor Learning Using Convex Optimisation, K. Simonyan, A. Vedaldi and A. Zisserman, Proceedings of the European Conference on Computer Vision (ECCV), 2012
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. On-the-fly specific person retrieval, O. Parkhi, A. Vedaldi and A. Zisserman, Proceedings of the Int. Workshop on Image Analysis for Multimedia Interactive Services, 2012
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Sparse kernel approximations for efficient classification and detection, A. Vedaldi and A. Zisserman, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012 poster,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Cats and dogs, O. Parkhi, A. Vedaldi, A. Zisserman and C. Jawahar, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Efficient Additive Kernels via Explicit Feature Maps, A. Vedaldi and A. Zisserman, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2012
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. A Pylon Model for Semantic Segmentation, V. Lempitsky, A. Vedaldi and A. Zisserman, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2011
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. The devil is in the details: an evaluation of recent feature encoding methods, K. Chatfield, V. Lempitsky, A. Vedaldi and A. Zisserman, Proceedings of the British Machine Vision Conference (BMVC), 2011
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. The truth about cats and dogs, O. Parkhi, A. Vedaldi, C. Jawahar and A. Zisserman, Proceedings of the International Conference on Computer Vision (ICCV), 2011
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning equivariant structured output SVM regressors, A. Vedaldi, M. Blaschko and A. Zisserman, Proceedings of the International Conference on Computer Vision (ICCV), 2011 poster,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. A coarse-to-fine approach for fast deformable object detection, M. Pedersoli, A. Vedaldi and J. Gonzàlez, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Learning equivariant structured output SVM regressors, A. Vedaldi, M. Blaschko and A. Zisserman, Proceedings of the International Conference on Computer Vision (ICCV), 2011 poster, A coarse-to-fine approach for fast deformable object detection, M. Pedersoli, A. Vedaldi and J. Gonzàlez, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011 (oral presentation) Knowing a Good Feature When You See It: Ground Truth and Methodology to Evaluate Local Features for Recognition, A. Vedaldi, H. Ling and S. Soatto, Computer Vision: Detection, Recognition and Reconstruction, 2010
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. VLFeat: an open and portable library of computer vision algorithms, A. Vedaldi and B. Fulkerson, Proceedings of the 18th annual ACM international conference on Multimedia, 2010 (Winner of the ACM Open Source Software Competition 2010)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Simultaneous Object Detection and Ranking with Weak Supervision, M. Blaschko, A. Vedaldi and A. Zisserman, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2010
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Generalized RBF feature maps for Efficient Detection, S. Vempati, A. Vedaldi, A. Zisserman and C. Jawahar, Proceedings of the British Machine Vision Conference (BMVC), 2010
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Efficient additive kernels via explicit feature maps, A. Vedaldi and A. Zisserman, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2010 poster,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Structured output regression for detection with partial occulsion, A. Vedaldi and A. Zisserman, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2009
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Multiple kernels for object detection, A. Vedaldi, V. Gulshan, M. Varma and A. Zisserman, Proceedings of the International Conference on Computer Vision (ICCV), 2009 (Winner of the PASCAL Visual Object Classification challenge 2009)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Class segmentation and object localization with superpixel neighborhoods, B. Fulkerson, A. Vedaldi and S. Soatto, Proceedings of the International Conference on Computer Vision (ICCV), 2009
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Localizing Objects with Smart Dictionaries, B. Fulkerson, A. Vedaldi and S. Soatto, Proceedings of the European Conference on Computer Vision (ECCV), 2008
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Quick Shift and Kernel Methods for Mode Seeking, A. Vedaldi and S. Soatto, Proceedings of the European Conference on Computer Vision (ECCV), 2008
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Relaxed Matching Kernels for Object Recognition, A. Vedaldi and S. Soatto, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2008 poster,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Joint data alignment up to (lossy) transformations, A. Vedaldi, G. Guidi and S. Soatto, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2008 poster,
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Objects in Context, A. Rabinovich, A. Vedaldi, C. Galleguillos, E. Wiewiora and S. Belongie, Proceedings of the International Conference on Computer Vision (ICCV), 2007 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Boosting Invariance and Efficiency in Supervised Learning, A. Vedaldi, P. Favaro and E. Grisan, Proceedings of the International Conference on Computer Vision (ICCV), 2007 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Moving Forward in Structure From Motion, A. Vedaldi, G. Guidi and S. Soatto, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2007
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Inertial structure from motion with autocalibration, E. Jones, A. Vedaldi and S. Soatto, Proceedings of ICCV Workshop on Dynamical Vision, 2007
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. A Complexity-Distrotion Approach to Joint Pattern Alignment, A. Vedaldi and S. Soatto, Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2007
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. An open implementation of the SIFT detector and descriptor, A. Vedaldi, UCLA CSD, 2007
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Local Features, All Grown Up, A. Vedaldi and S. Soatto, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2006 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Viewpoint Induced Deformation Statistics and the Design of Viewpoint Invariant Features: Singularities and Occlusions, A. Vedaldi and S. Soatto, Proceedings of the European Conference on Computer Vision (ECCV), 2006
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. Features for Recognition: Viewpoint Invariance for Non-Planar Scenes, A. Vedaldi and S. Soatto, Proceedings of the International Conference on Computer Vision (ICCV), 2005 (oral presentation)
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. KALMANSAC: Robust Filtering by Consensus, A. Vedaldi, H. Jin, P. Favaro and S. Soatto, Proceedings of the International Conference on Computer Vision (ICCV), 2005
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
+
+1. On Viewpoint Invariance for Non-Planar Scenes, A. Vedaldi and S. Soatto, UCLA CSD, 2005
+
+    게시 페이지: <https://www.robots.ox.ac.uk/~vedaldi/pub.html>
 
 ## University of Oxford — Mauricio Villarroel
 
@@ -1857,25 +3021,35 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:52:27.292Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/richard-willden>
 
 ## University of Oxford — Martin Williams
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:52:28.290Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/martin-williams>
 
 ## University of Oxford — Ben Williams
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:52:29.307Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/ben-williams>
+
+출처: <https://oti.eng.ox.ac.uk/research/research-groups/high-speed-turbomachinery-group>
+
+출처: <https://eng.ox.ac.uk/>
 
 ## University of Oxford — Aidong Yang
 
@@ -7714,9 +8888,9 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:54:46.225Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
 출처: <https://eng.ox.ac.uk/people/zhanfeng-cui>
 
@@ -8309,9 +9483,13 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:49:57.698Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/tim-denison>
+
+출처: <https://eng.ox.ac.uk/epione>
 
 ## University of Oxford — Luca Di Mare
 
@@ -9377,9 +10555,13 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:50:05.725Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/steve-elston>
+
+출처: <https://eng.ox.ac.uk/smp>
 
 ## University of Oxford — Maurice Fallon
 
@@ -10031,13 +11213,49 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
 ## University of Oxford — Chao He
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:50:28.185Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://eng.ox.ac.uk/people/chao-he>
+출처: <https://voplab.com/publication/>
+
+1. 1) Chao He†*, Binguo Chen†, Zipei Song†, Zimo Zhao†, Yifei Ma†, Honghui He*, Lin Luo*, Tade Marozsak, An Aloysius Wang, Rui Xu, Peixiang Huang, Jiawen Li, Xuke Qiu, Yunqi Zhang, Bangshan Sun, Jiahe Cui, Yuxi Cai, Yun Zhang, Andong Wang, Mohan Wang, Patrick Salter, Julian AJ Fells, Ben Dai, Shaoxiong Liu, Limei Guo, Yonghong He, Hui Ma, Daniel J Royston, Steve J Elston, Qiwen Zhan, Chengwei Qiu, Stephen M Morris, Martin J Booth, Andrew Forbes, "A reconfigurable arbitrary retarder array as complex structured matter." Nature Communications 16.1 (2025): 4902.
+
+    게시 페이지: <https://voplab.com/publication/>
+
+1. 2) Zimo Zhao†, Yifei Ma†, Zipei Song†, Jacopo Antonello, Jiahe Cui, Binguo Chen, Jingyu Wang, Bangshan Sun, Honghui He, Lin Luo, Julian A.J. Fells, Steve J. Elston, Martin J. Booth, Stephen M. Morris, and Chao He*, "Intensity adaptive optics." Light: Science & Applications 14.1 (2025): 128.
+
+    게시 페이지: <https://voplab.com/publication/>
+
+1. 1) An Aloysius Wang*, Zimo Zhao, Yifei Ma, Yuxi Cai, Tade Marozsak, Binguo Chen, Honghui He, Lin Luo, Martin J Booth, Steve J Elston, Stephen M Morris, and Chao He*, "Topological Protection of Optical Skyrmions through Complex Media."Light: Science & Applications 13.1 (2024): 314. (Annual Back Cover)
+
+    게시 페이지: <https://voplab.com/publication/>
+
+1. 1) An Aloysius Wang*, Zimo Zhao, Yifei Ma, Yuxi Cai, Tade Marozsak, Binguo Chen, Honghui He, Lin Luo, Martin J Booth, Steve J Elston, Stephen M Morris, and Chao He*, "Topological Protection of Optical Skyrmions through Complex Media."Light: Science & Applications 13.1 (2024): 314. (Annual Back Cover) 2023 and before
+
+    게시 페이지: <https://voplab.com/publication/>
+
+1. 1) Chao He*, Jacopo Antonello*, and Martin J. Booth*, "Vectorial adaptive optics." eLight 3, no. 1 (2023): 23. (Cover Paper)
+
+    게시 페이지: <https://voplab.com/publication/>
+
+1. 2) Chao He*, Yijie Shen* and Andrew Forbes*, "Towards higher-dimensional structured light."Light: Science & Applications 11.1 (2022): 1-17.
+
+    게시 페이지: <https://voplab.com/publication/>
+
+1. 3) Chao He†*, Jintao Chang†, Patrick S. Salter†, Yuanxing Shen, Ben Dai, Pengcheng Li, Yihan Jin, Samlan Chandran Thodika, Mengmeng Li, Aziz Tariq, Jingyu Wang, Jacopo Antonello, Yang Dong, Ji Qi, Jianyu Lin, Daniel S. Elson, Min Zhang, Honghui He*, Hui Ma* and Martin J. Booth*, "Revealing complex optical phenomena through vectorial metrics."Advanced Photonics 4.2 (2022): 026001. (Cover Paper)
+
+    게시 페이지: <https://voplab.com/publication/>
+
+1. 4) Chao He*, Jianyu Lin, Jintao Chang, Jacopo Antonello, Ben Dai, Jingyu Wang, Jiahe Cui, Ji Qi, Min Wu, Daniel S. Elson, Peng Xi, Andrew Forbes, and Martin J. Booth, "Full Poincaré polarimetry enabled through physical inference."Optica 9, no. 10 (2022): 1109-1114.
+
+    게시 페이지: <https://voplab.com/publication/>
+
+1. 6) Chao He*, Jintao Chang, Qi Hu, Jingyu Wang, Jacopo Antonello, Honghui He, Shaoxiong Liu, Jianyu Lin, Ben Dai, Daniel. S. Elson, Peng Xi, Hui Ma and Martin J Booth*, "Complex vectorial optics through gradient index lens cascades." Nature Communications 10.1 (2019): 1-8. (Highlighted by Nature Photonics, etc.)
+
+    게시 페이지: <https://voplab.com/publication/>
 
 ## University of Oxford — Manus Henry
 
@@ -10375,9 +11593,15 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:50:31.860Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/stephanie-hirmer>
+
+출처: <https://epg.eng.ox.ac.uk/>
+
+출처: <https://eng.ox.ac.uk/>
 
 ## University of Oxford — Felix Hofmann
 
@@ -10410,9 +11634,15 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:50:34.436Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/david-howey>
+
+출처: <https://howey.eng.ox.ac.uk/>
+
+출처: <https://battery-intelligence-lab.github.io/publications/>
 
 ## University of Oxford — Wes Armour
 
@@ -10688,11 +11918,165 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
 ## University of Oxford — James Kwan
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 38건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:50:57.900Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://www.kwanrg.org/publications>
+
+1. Xia, Dong, Yi Qin, Yagya N. Regmi, Laurie A. King, and James Kwan. "Paradigmatic demonstration of sonochemical carbon dioxide reduction proceeded over Cu-based catalysts." Journal of CO2 Utilization 102 (2025): 103220.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Zong, Zhiyuan, Yihao Huang, James Kwan, and Nicholas P. Hankins. "Standardized benchmarking of advanced oxidation processes for tetracycline degradation with life cycle assessment and economic evaluation." Chemical Engineering Journal (2025): 170664.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Hou, Xuelan, Changsheng Chen, Lincan Fang, Jiasi Li, Yihao Huang, Ye Zhu, James Kwan, and Shik Chi Edman Tsang. "Catalytic Ammonia Decomposition Using Single High-Frequency Ultrasound." The Journal of Physical Chemistry C 129, no. 35 (2025): 15571-15577.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Fischer, Ari F., Teseer Bahry, Zhangyue Xie, Roberto Batista da Silva Junior, Kaicheng Qian, Renhong Li, James Kwan et al. "The Roles of Hydroxyl Radicals and Superoxide in Oxidizing Aqueous Benzyl Alcohol Under Ultrasound Irradiation." ChemSusChem 18, no. 11 (2025): e202500097.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Preso, Davide Bernardo, Ivan Smirnov, Mohamad Salimi, and James Kwan. "Broadening the sonochemistry horizon: hurdles and challenges to address in cavitation." Current Opinion in Chemical Engineering 48 (2025): 101128.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Wong, Cherie CY, Davide Bernardo Preso, Yi Qin, Pankaj S. Sinhmar, Zhiyuan Zong, and James Kwan. "Ultrasound-driven seawater splitting catalysed by TiO2 for hydrogen production." International Journal of Hydrogen Energy 111 (2025): 723-734.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Mahendran, Valarmathi, Quang Thang Trinh, Xie Zhangyue, Umesh Jonnalagadda, Tim Gould, Nam‐Trung Nguyen, James Kwan et al. "Localized Oxidative Catalytic Reactions Triggered by Cavitation Bubbles Confinement on Copper Oxide Microstructured Particles." Angewandte Chemie International Edition 64, no. 6 (2025): e202416543.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Chen, Lina, Yi Qin, Claire T. Coulthard, Zoë R. Turner, Chunping Chen, James Kwan, and Dermot O’Hare. "Catalytic ultrasound-driven synthesis of syngas from CO 2 saturated water." Energy & Environmental Science 18, no. 11 (2025): 5389-5396.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Xie, Zhangyue, Valarmathi Mahendran, Umesh S. Jonnalagadda, Qianwenhao Fan, Xiaoqian Su, Ari F. Fischer, Mingwu Tan et al. "Boosting energy efficiency and selectivity of glucose oxidation toward glucuronic acid in high-frequency ultrasound using multicavity CuO catalytic cavitation agents." Green Chemistry 27, no. 3 (2025): 573-585.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Fischer, Ari F., Teseer Bahry, Zhangyue Xie, Kaicheng Qian, Renhong Li, James Kwan, François Jerome et al. "Harnessing ultrasound‐derived hydroxyl radicals for the selective oxidation of aldehyde functions." ChemSusChem 17, no. 24 (2024): e202400838.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Hou, Xuelan, Yiyang Li, Hang Zhang, Peter D. Lund, James Kwan, and Shik Chi Edman Tsang. "Black titanium oxide: synthesis, modification, characterization, physiochemical properties, and emerging applications for energy conversion and storage, and environmental sustainability." Chemical Society Reviews (2024).
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Belami, Debora, Matthew Lindley, Umesh S. Jonnalagadda, Annie Mae Goncalves Bullock, Qianwenhao Fan, Wen Liu, Sarah J. Haigh, James Kwan, Yagya N. Regmi, and Laurie A. King. "Active and highly durable supported catalysts for proton exchange membrane electrolysers." EES catalysis 2, no. 5 (2024): 1139-1151.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Zong, Z., Gilbert, E., Wong, C. C., Usadi, L., Qin, Y., Huang, Y., ... & Kwan, J. (2023). Efficient sonochemical catalytic degradation of tetracycline using TiO2 fractured nanoshells. Ultrasonics Sonochemistry, 106669.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Wong, C. C., Raymond, J. L., Usadi, L. N., Zong, Z., Walton, S. C., Sedgwick, A. C., & Kwan, J. (2023). Enhancement of sonochemical production of hydroxyl radicals from pulsed cylindrically converging ultrasound waves. Ultrasonics Sonochemistry, 99, 106559.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Wong, C. C., Sun, L. L., Liu, M. J., Stride, E., Raymond, J. L., Han, H. H., Kwan, J. & Sedgwick, A. C. (2023). Fluorescence-based chemical tools for monitoring ultrasound-induced hydroxyl radical production in aqueous solution and in cells. Chemical Communications, 59(29), 4328-4331.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Su, X., Jonnalagadda, U. S., Bharatula, L. D., & Kwan, J. J. (2021). Unsupported gold nanocones as sonocatalytic agents with enhanced catalytic properties. Ultrasonics sonochemistry, 79, 105753.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Eng, Y.J., Xu, J., Sugiarto, S., Jonnalagadda, U.S., Ang, W., Lee, J.H.C., Kwan, J.J. and Nguyen, T.M., (2021). Initiator-Free Photohydrogelation of Linear Coumarin-Containing Poly (ethylene glycol) Methacrylates and Study of Ultrasound-Triggered Gel Breakdown. ACS Applied Polymer Materials, 3(8), pp.4264-4274.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Su, X., Rakshit, M., Das, P., Gupta, I., Das, D., Pramanik, M., Ng, K. W., & Kwan, J. J. (2021). Ultrasonic Implantation and Imaging of Sound-Sensitive Theranostic Agents for the Treatment of Arterial Inflammation. ACS Applied Materials & Interfaces.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Gupta, I., Su, X., Jonnalagadda, U. S., Das, D., Pramanik, M., & Kwan, J. J. (2021). Investigating the Acoustic Response and Contrast Enhancement of Drug-Loadable PLGA Microparticles with Various Shapes and Morphologies. Ultrasound in Medicine & Biology.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Jonnalagadda, U. S., Su, X., & Kwan, J. J. (2021). Nanostructured TiO2 cavitation agents for dual-modal sonophotocatalysis with pulsed ultrasound. Ultrasonics Sonochemistry, 105530.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Grundy, M., Bau, L., Hill, C., Paverd, C., Mannaris, C., Kwan, J. J., Crake, C., Coviello, C., Coussios, C., & Carlisle, R. (2021). Improved therapeutic antibody delivery to xenograft tumors using cavitation nucleated by gas-entrapping nanoparticles. Future Medicine Nanomedicine
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Bharatula, L. D., Marsili, E., Rice, S. A., & Kwan, J. J. (2020). Influence of high intensity focused ultrasound on the microstructure and c-di-GMP signaling of Pseudomonas aeruginosa biofilms. Frontiers in Microbiology, 11, 3198.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Su, X., Gupta, I., Jonnalagadda, U., & Kwan, J. (2020). Complementary Effects of Porosigen and Stabiliser on the Structure of Hollow Porous Poly (lactic-co-glycolic acid) Microparticles. ACS Applied Polymer Materials.
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. U.S. Jonnalagadda; T.M. Nguyen; F. Li; J.H.C. Lee; X. Liu; A. Goto; J.J. Kwan,”Sol–Gel Transitions of Comb‐Like Polymethacrylate Copolymers by Mechano‐Thermal Stimuli in Water”, Macromolecular Chemistry and Physics, 2020, 2000088. https://doi.org/10.1002/macp.202000088
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. L.D. Bharatula; E. Marsili; J.J. Kwan, “Impedimetric detection of Pseudomonas aeruginosa attachment on flexible ITO-coated polyethylene terephthalate substrates”, Electrochimica Acta, Volume 332, 1 February 2020, 135390
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. X. Su; R.G. Thomas; L.D. Bharatula; J.J. Kwan, ”Remote targeted implantation of sound-sensitive biodegradable multi-cavity microparticles with focused ultrasound”, Scientific Reports, 9, Article number: 9612, 2019
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. R.G. Thomas; U.S. Jonnalagadda; J.J. Kwan, “Biomedical applications for Gas-Stabilizing Solid Cavitation Agents”, Langmuir, 2019
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. J.J. Kwan; G. Lajoinie; E. Stride; M. Versluis; C.C. Coussios, “Ultra-high Speed Imaging of Cavitation Dynamics from Nanocups”, Physical Review Applied, 2016: 6 (4), 044004
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. J.J. Kwan; R. Myers; C.M. Coviello; S.M. Graham; A. Shah; R. Carlisle; E. Stride; C.C. Coussios, “Ultrasound-propelled Nanocups for Drug Delivery”, Small, 2015
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. J.J. Kwan; S.M. Graham; R. Myers; R. Carlisle; E. Stride; C.C. Coussios, “Ultrasound-induced Inertial Cavitation from Gas-stabilizing Nanoparticles”, Physical Review E, 2015
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. J.J. Kwan and M.A. Borden, “Lipid Monolayer Collapse and Microbubble Stability”, Advances in Colloid and Interface Science, 2012: 183-4; pp 82 – 99
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. J.J. Kwan; M. Kaya; M.A. Borden; P.A. Dayton, “Theranostic Oxygen Delivery Using Ultrasound and Microbubbles”, Theranostics, 2012
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. J.J. Kwan and M.A. Borden, “Lipid Monolayer Dilatational Mechanics during Microbubble Gas Exchange”, Soft Matter, 2012: 8; pp. 4756 – 66
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. L. Mullin; R. Gessner; J.J. Kwan; M. Kaya; M.A. Borden; P.A. Dayton, “Effect of Anesthesia Carrier Gas on In Vivo Circulation Times of Ultrasound Microbubble Contrast Agents in Rats”, Contrast Media and Molecular Imaging, 2011: 6; pp. 126 – 3
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. S. Sirsi; J. Feshitan; J.J. Kwan; M.A. Borden, “Effect of Microbubble Size on Fundamental Mode High Frequency Ultrasound Imaging in Mice”, Ultrasound in Medicine and Biology, 2010: 36; 935 – 48
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. J.J. Kwan and M.A. Borden, “Microbubble Dissolution in a Multigas Environment”, Langmuir, 2010: 26; pp. 6542 – 48
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. J. Feshitan; C.C. Chen; J.J. Kwan; M.A. Borden, “Microbubble Size Isolation by Differential Centrifugation”, Journal of Colloid and Interface Sciences, 2009: 329; pp. 316 – 24
+
+    게시 페이지: <https://www.kwanrg.org/publications>
+
+1. Specialty Chemicals AME IAF-PP Grant [Co-I] (2018 - 2021)
+
+    게시 페이지: <https://www.kwanrg.org/publications>
 
 ## University of Oxford — Felix Leach
 
@@ -11043,9 +12427,15 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:09.428Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/malcolm-mcculloch>
+
+출처: <https://epg.eng.ox.ac.uk/>
+
+출처: <https://eng.ox.ac.uk/>
 
 ## University of Oxford — Matthew McGilvray
 
@@ -11085,9 +12475,13 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:12.422Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/charles-monroe>
+
+출처: <https://eng.ox.ac.uk/monroe-research-group>
 
 ## University of Oxford — Marko Bacic
 
@@ -11478,9 +12872,13 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:25.740Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/maike-osborne>
+
+출처: <http://www.robots.ox.ac.uk/~parg>
 
 ## University of Oxford — Robert Baines
 
@@ -11549,9 +12947,13 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:33.612Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/nik-petrinic>
+
+출처: <http://iel.eng.ox.ac.uk/>
 
 ## University of Oxford — Janet B. Pierrehumbert
 
@@ -11669,9 +13071,11 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:38.506Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/victor-prisacariu>
 
 ## University of Oxford — Christopher Proctor
 
@@ -11710,9 +13114,11 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:40.479Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/roger-reed>
 
 ## University of Oxford — Jens Rittscher
 
@@ -11834,7 +13240,11 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:43.099Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume. /  / 
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://eng.ox.ac.uk/people/stephen-roberts>
+
+출처: <https://www.robots.ox.ac.uk/~parg/>
 

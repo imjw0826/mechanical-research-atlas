@@ -4,21 +4,27 @@
   "pi": "Eric Darve",
   "lab_name": "Darve Research Group",
   "lab_url": "https://meintranet.stanford.edu/user/login?destination=/student-intranet",
-  "publication_urls": [],
-  "accessed_at": "2026-11-12T13:53:38.373Z",
-  "coverage_notes": [
-    "Official department lab directory separates d’Arbeloff Undergraduate Research and Teaching Lab from Darve Research Group; roster incorrectly associates Eric Darve with teaching lab. Evidence: https://me.stanford.edu/research-impact/labs",
-    "Publication links discovered: ",
-    "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending.",
-    "Official roster destination redirects to authenticated intranet login; publication list not reached."
+  "publication_urls": [
+    "https://meintranet.stanford.edu/user/login?destination=/student-intranet",
+    "https://meintranet.stanford.edu/faculty/darbeloff-undergraduate-research-and-teaching-lab"
   ],
-  "status": "partial",
-  "papers": [],
   "source_page_manifest": [
     {
       "url": "https://meintranet.stanford.edu/user/login?destination=/faculty/darbeloff-undergraduate-research-and-teaching-lab",
       "captured_at": "2026-11-12T13:53:38.373Z",
       "visible_text_file": "stanford-8.visible.txt"
     }
-  ]
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Official department lab directory separates d’Arbeloff Undergraduate Research and Teaching Lab from Darve Research Group; roster incorrectly associates Eric Darve with teaching lab. Evidence: https://me.stanford.edu/research-impact/labs",
+    "Publication links discovered: ",
+    "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending.",
+    "Official roster destination redirects to authenticated intranet login; publication list not reached."
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "status": "partial",
+  "papers": []
 }

@@ -5,13 +5,839 @@
   "lab_name": null,
   "lab_url": "https://clarke.seas.harvard.edu/",
   "publication_urls": [
-    "https://clarke.seas.harvard.edu/publications"
+    "https://clarke.seas.harvard.edu/publications",
+    "https://clarke.seas.harvard.edu/publications?page=0",
+    "https://clarke.seas.harvard.edu/publications?page=1",
+    "https://clarke.seas.harvard.edu/publications?page=2",
+    "https://clarke.seas.harvard.edu/publications?page=11",
+    "https://clarke.seas.harvard.edu/publications?page=4",
+    "https://clarke.seas.harvard.edu/publications?page=6",
+    "https://clarke.seas.harvard.edu/publications?page=8",
+    "https://clarke.seas.harvard.edu/publications?page=10",
+    "https://clarke.seas.harvard.edu/publications?page=3",
+    "https://clarke.seas.harvard.edu/publications?page=5",
+    "https://clarke.seas.harvard.edu/publications?page=7",
+    "https://clarke.seas.harvard.edu/publications?page=9"
   ],
-  "accessed_at": "2026-11-11T13:51:05.063Z",
-  "coverage_notes": [
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
     "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 13개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Temperature and Densification Nonuniformity During Ultrafast High-Temperature Sintering",
+      "year": 2026,
+      "citation_raw": "Andrew Caratenuto and David R. Clarke. 2026. “Temperature and Densification Nonuniformity During Ultrafast High-Temperature Sintering”. doi:https://doi.org/10.1016/j.applthermaleng.2026.131403",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Synergetic Evolution of the Ordered Nanopores",
+      "year": 2025,
+      "citation_raw": "Yu zhang, Hui Gu, Peng-Xiang Quian, Qi-Yue Yin, Xiang Gao, and David R. Clarke. 2025. “Synergetic Evolution of the Ordered Nanopores ”. Acta Materialia",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Rolling of a Cylinder Induced by Electro-Adhesive Forces",
+      "year": 2025,
+      "citation_raw": "2025. “Rolling of a Cylinder Induced by Electro-Adhesive Forces”. Extreme Mechanics Letters, 77",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "UV Responsive, Bottlebrush Structured Silicone Elastomers: Synthesis, Healing, and Application",
+      "year": 2025,
+      "citation_raw": "Miao Huo and David R. Clarke. 2025. “UV Responsive, Bottlebrush Structured Silicone Elastomers: Synthesis, Healing, and Application”. Macromolecules",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Rotational Multimaterial Printing of Filaments With Subvoxel Control",
+      "year": 2023,
+      "citation_raw": "N.M. Larson, J. Mueller, A. Chortos, Z.S. Davidson, D.R. Clarke, and J. A. Lewis. 2023. “Rotational Multimaterial Printing of Filaments With Subvoxel Control”. Nature, https://doi.org/10.1038/s41586-022-05490-7",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Multifunctional Soft Stretchable Strain Sensor for Complementary Optical and Electrical Sensing of Fatigue Cracks",
+      "year": 2023,
+      "citation_raw": "Han Liu, Matthias Kollosche, Simon Laflamme, and David R. Clarke. 2023. “Multifunctional Soft Stretchable Strain Sensor for Complementary Optical and Electrical Sensing of Fatigue Cracks”. Smart Materials and Structures, 32, Pp. 045010",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "High Temperature Oxides for Selective Absorption of Thermal Radiation",
+      "year": 2023,
+      "citation_raw": "V. Champagne III, Giovanni Pisaturo, and David R. Clarke. 2023. “High Temperature Oxides for Selective Absorption of Thermal Radiation”. Journal of the European Ceramic Society , 43, 16, Pp. 7657-67",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Advanced Functional Materials",
+      "year": 2023,
+      "citation_raw": "H. Xie, V. K. Champagne III, Zhong, B. Clifford, S. Liu, L. Hu, J. C. Zhao, and D.R. Clarke. 2023. “Advanced Functional Materials”. Design, Fabrication, and Screening of Environmental-Thermal Barrier Coatings Prepared by Ultrafast High-Temperature Sintering.",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Photoswitchable Covalent Adaptive Networks Based on Thiol-Ene Elastomers",
+      "year": 2022,
+      "citation_raw": "K. Cheng, A. Chortos, J. A. Lewis, and D.R. Clarke. 2022. “Photoswitchable Covalent Adaptive Networks Based on Thiol-Ene Elastomers”. ACS Appied Materials & Interfaces, https://doi.org/10.1021/acsami.1c22287",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Voltage-Tunable Elastomer Composites That Use Shape Instabilities for Rapid Structural Color Changes",
+      "year": 2022,
+      "citation_raw": "M. Xiao, J. Mao, M. Kollosche, V. Hwang, D.R. Clarke, and V. N. Manoharan. 2022. “Voltage-Tunable Elastomer Composites That Use Shape Instabilities for Rapid Structural Color Changes”. Materials Horizons, https://doi.org/10.1039/D2MH00374K",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Architectural Glass",
+      "year": 2022,
+      "citation_raw": "S.M. Wiederhorn and D.R. Clarke. 2022. “Architectural Glass”. Annu. Rev. Mater. Res., 52, Pp. 561-92",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Programmed Shape-Morphing into Complex Target Shapes Using Architected Dielectric Elastomer Actuators",
+      "year": 2022,
+      "citation_raw": "E. Hajiesmaili, N.M. Larson, J. A. Lewis, and D.R. Clarke. 2022. “Programmed Shape-Morphing into Complex Target Shapes Using Architected Dielectric Elastomer Actuators”. Science Advances, 8, Pp. DOI: 10.1126/sciadv.abn9198",
+      "source_url": "https://clarke.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A Wearable Textile-Embedded Dielectric Elastomer Actuator Haptic Display",
+      "year": 2022,
+      "citation_raw": "D.-Y. Lee, S.H. Jeong, A.J. Cohen, D.M. Vogt, M. Kollosche, G. Lansberry, Y. Mengüç, A. Israr, D.R. Clarke, and R.J. Wood. 2022. “A Wearable Textile-Embedded Dielectric Elastomer Actuator Haptic Display”. Soft Robotics, https://www.liebertpub.com/doi/abs/10.1089/soro.2021.0098",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Batch-Sprayed and Stamp-Transferred Electrodes: A New Paradigm for Scalable Fabrication of Multilayer Dielectric Elastomer Actuators",
+      "year": 2022,
+      "citation_raw": "A.J. Cohen, M. Kollosche, M.C. Yuen, D.-Y. Lee, D.R. Clarke, and R.J. Wood. 2022. “Batch-Sprayed and Stamp-Transferred Electrodes: A New Paradigm for Scalable Fabrication of Multilayer Dielectric Elastomer Actuators”. Adv. Funct. Mater., https://doi.org/10.1002/adfm.202205394, Pp. 2205394",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Optically Addressable Dielectric Elastomer Actuator Arrays Using Embedded Percolative Networks of Zinc Oxide Nanowires",
+      "year": 2022,
+      "citation_raw": "E. Hajiesmaili and D.R. Clarke. 2022. “Optically Addressable Dielectric Elastomer Actuator Arrays Using Embedded Percolative Networks of Zinc Oxide Nanowires”. Materials Horizons, https://doi.org/10.1039/d2mh01032a",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Printing Reconfigurable Bundles of Dielectric Elastomer Fibers",
+      "year": 2021,
+      "citation_raw": "A. Chortos, J. Mao, J. Mueller, E. Hajiesmaili, J. A. Lewis, and D.R. Clarke. 2021. “Printing Reconfigurable Bundles of Dielectric Elastomer Fibers”. Advanced Functional Materials, Pp. 2010643",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "On the Electro-Mechanical Stability of Elastomeric Coaxial Fibers",
+      "year": 2021,
+      "citation_raw": "D.R. Clarke and J.W. Hutchinson. 2021. “On the Electro-Mechanical Stability of Elastomeric Coaxial Fibers”. Journal of Applied Mechanics, 88, Pp. 061005",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Dielectric Elastomer Actuators",
+      "year": 2021,
+      "citation_raw": "E. Hajiesmaili and D.R. Clarke. 2021. “Dielectric Elastomer Actuators”. Journal of Applied Physics, 129, Pp. 151102",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Confocal Microscopy Observations of Electrical Pre-Breakdown of Bi-Layer Elastomer Dielectrics",
+      "year": 2021,
+      "citation_raw": "P. Charoen-Rajapark and D.R. Clarke. 2021. “Confocal Microscopy Observations of Electrical Pre-Breakdown of Bi-Layer Elastomer Dielectrics”. Extreme Mechanics Letters, 49, Pp. 101473",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Methods and Apparatus for Modulating Light Using a Deformable Soft Dielectric",
+      "year": 2021,
+      "citation_raw": "Samuel Shian and David Clarke. 2021. “Methods and Apparatus for Modulating Light Using a Deformable Soft Dielectric”. United States of America 10895736",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Power Generation Performance of Dielectric Elastomer Generator With Laterally-Constrained Configuration",
+      "year": 2020,
+      "citation_raw": "Z.-Q. Song, K. Ohyama, S. Shian, D.R. Clarke, and S. Zhu. 2020. “Power Generation Performance of Dielectric Elastomer Generator With Laterally-Constrained Configuration”. Smart Materials and Structures, 29, Pp. 015018",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "A Wearable Soft Haptic Communicator Based on Dielectric Elastomer Actuators",
+      "year": 2020,
+      "citation_raw": "H. Zhao, A.M. Hussain, A. Israr, D.M. Vogt, M. Duduta, D.R. Clarke, and R.J. Wood. 2020. “A Wearable Soft Haptic Communicator Based on Dielectric Elastomer Actuators”. Soft Robotics, http://doi.org/10.1089/soro.2019.0113",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Microwave-Assisted Growth of Silver Nanoparticle Films With Tunable Plasmon Properties and Asymmetrical Particle Geometry for Applications As Radiation Sensors",
+      "year": 2020,
+      "citation_raw": "E.J. Guidelli, L.F. Araujo, A.C.A Assunção, L.C.S. Carvalho, D.R. Clarke, and O. Baffa. 2020. “Microwave-Assisted Growth of Silver Nanoparticle Films With Tunable Plasmon Properties and Asymmetrical Particle Geometry for Applications As Radiation Sensors”. Plasmonics, https://doi.org/10.1007/s11468-020-01150-6",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Tunable Multi-Modal Locomotion in Soft Dielectric Elastomer Robots",
+      "year": 2020,
+      "citation_raw": "M. Duduta, F. Berlinger, R. Nagpal, D.R. Clarke, R.J. Wood, and F.Z. Temel. 2020. “Tunable Multi-Modal Locomotion in Soft Dielectric Elastomer Robots”. IEEE Robotics and Automation Letters, 5, Pp. 3868-75",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Expression of Interfacial Seebeck Coefficient through Grain Boundary Engineering With Multi-Layer Graphene Nanoplatelets",
+      "year": 2020,
+      "citation_raw": "Y. Lin, M. Wood, K. Imasato, J.J. Huo, D. Lam, A.N. Mortazavi, T.J. Slade, S.A. Hodge, K. Xi, M.G. Kanatzidis, D.R. Clarke, M.C. Hersam, and G.J. Snyder. 2020. “Expression of Interfacial Seebeck Coefficient through Grain Boundary Engineering With Multi-Layer Graphene Nanoplatelets”. Energy Environ. Sci., 13, Pp. 4114-21",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Reconfigurable Shape-Morphing Dielectric Elastomers Using Spatially Varying Electric Fields",
+      "year": 2019,
+      "citation_raw": "E. Hajiesmaili and D.R. Clarke. 2019. “Reconfigurable Shape-Morphing Dielectric Elastomers Using Spatially Varying Electric Fields”. Nature Communications, 10, Pp. 183",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Realizing the Potential of Dielectric Elastomer Artificial Muscles",
+      "year": 2019,
+      "citation_raw": "M. Duduta, E. Hajiesmaili, H. Zhao, R.J. Wood, and D.R. Clarke. 2019. “Realizing the Potential of Dielectric Elastomer Artificial Muscles”. Proc. Natl. Acad. Sci. U.S.A., 116, Pp. 2476-81",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "High-Temperature Structure of Co3O4: Understanding Spinel Inversion Using in Situ and Ex Situ Measurements",
+      "year": 2019,
+      "citation_raw": "T. D. Sparks, A. Gurlo, M.F. Bekheet, M.W. Gaultois, G. Cherkashinin, L. Laversenne, and D.R. Clarke. 2019. “High-Temperature Structure of Co3O4: Understanding Spinel Inversion Using in Situ and Ex Situ Measurements”. Physical Review B, 99, Pp. 104104",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Voltage-Controlled Morphing of Dielectric Elastomer Circular Sheets into Conical Surfaces",
+      "year": 2019,
+      "citation_raw": "E. Hajiesmaili, E. Khare, A. Chortos, J. Lewis, and D.R. Clarke. 2019. “Voltage-Controlled Morphing of Dielectric Elastomer Circular Sheets into Conical Surfaces”. Extreme Mech. Lett., 30, Pp. 100504",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Opportunities for Minimizing Radiative Heat Transfer in Future Thermal and Environmental Barrier Coatings",
+      "year": 2019,
+      "citation_raw": "Q. Flamant and D.R. Clarke. 2019. “Opportunities for Minimizing Radiative Heat Transfer in Future Thermal and Environmental Barrier Coatings”. Scripta Materialia, 173, Pp. 26-31",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Electrically-Latched Compliant Jumping Mechanism Based on a Dielectric Elastomer Actuator",
+      "year": 2019,
+      "citation_raw": "M. Duduta, F.C.J. Berlinger, R. Nagpal, D.R. Clarke, R.J. Wood, and F. Zeynep Temel. 2019. “Electrically-Latched Compliant Jumping Mechanism Based on a Dielectric Elastomer Actuator”. Smart Mater. Struct., 28, Pp. 09LT01",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Controlled Flight of a Microrobot Powered by Soft Artificial Muscles",
+      "year": 2019,
+      "citation_raw": "Y. Chen, H. Zhao, J. Mao, P. Chirarattananon, E.F. Helbling, N.P. Hyun, D.R. Clarke, and R.J. Wood. 2019. “Controlled Flight of a Microrobot Powered by Soft Artificial Muscles”. Nature, doi:10.1038/s41586-019-1737-7",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "3D Printing of Interdigitated Dielectric Elastomer Actuators",
+      "year": 2019,
+      "citation_raw": "A. Chortos, E. Hajiesmaili, J. Morales, D.R. Clarke, and J. A. Lewis. 2019. “3D Printing of Interdigitated Dielectric Elastomer Actuators”. Advanced Functional Materials, Pp. 1907375",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Authigenic Metastable Iron Sulfide Minerals Preserve Microbial Organic Carbon in Anoxic Environments",
+      "year": 2019,
+      "citation_raw": "A. Picard, A. Gartman, J. Cosmidis, M. Obst, C. Vidoudez, D.R. Clarke, and P. R. Girguis. 2019. “Authigenic Metastable Iron Sulfide Minerals Preserve Microbial Organic Carbon in Anoxic Environments”. Chemical Geology, 530, Pp. 119343",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Sulfate-Reducing Bacteria Influence the Nucleation and Growth of Mackinawite and Greigite",
+      "year": 2018,
+      "citation_raw": "A. Picard, A. Gartman, D.R. Clarke, and P. R. Girguis. 2018. “Sulfate-Reducing Bacteria Influence the Nucleation and Growth of Mackinawite and Greigite”. Geochimica et Cosmochimica Acta, 220, Pp. 367-84",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Large Area Metalenses: Design, Characterization, and Mass Manufacturing",
+      "year": 2018,
+      "citation_raw": "A. She, S. Zhang, S. Shian, D.R. Clarke, and F. Capasso. 2018. “Large Area Metalenses: Design, Characterization, and Mass Manufacturing”. Optics Express, 26, Pp. 1573-85",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Method of Strengthening Silicon Nitride Ceramics",
+      "year": 1984,
+      "citation_raw": "Frederick F. Lange and David R. Clarke. 1984. “Method of Strengthening Silicon Nitride Ceramics”. United States of America 4457958",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Electrolysis Treatment for Drawing Ions Out of a Ceramic",
+      "year": 1984,
+      "citation_raw": "David R. Clarke. 1984. “Electrolysis Treatment for Drawing Ions Out of a Ceramic”. United States of America 4466820",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Microbes Facilitate Mineral Deposition in Bioelectrochemical Systems",
+      "year": 2017,
+      "citation_raw": "A. Gartman, A. Picard, H.C. Olins, N. Sarode, D.R. Clarke, and P. R. Girguis. 2017. “Microbes Facilitate Mineral Deposition in Bioelectrochemical Systems”. ACS Earth Space Chem., 1, Pp. 277-87",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Iron Sulfide Formation on Iron Substrates by Electrochemical Reaction in Anoxic Conditions",
+      "year": 2017,
+      "citation_raw": "X. Guan, B.C. Enalls, D.R. Clarke, and P. Girguis. 2017. “Iron Sulfide Formation on Iron Substrates by Electrochemical Reaction in Anoxic Conditions”. Crystal Growth & Design, DOI: 10.1021/acs.cgd.7b01013",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Systems and Methods for Separating and Recovering Rare Earths",
+      "year": 2017,
+      "citation_raw": "William Daley Bonificio and David Clarke. 2017. “Systems and Methods for Separating and Recovering Rare Earths”. United States of America 9850555",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "The Application of Photoluminescence Piezospectroscopy for Residual Stresses Measurement in Thermally Sprayed TBCs",
+      "year": 2016,
+      "citation_raw": "C.R.C. Lima, S. Dosta, J.M. Guilemany, and D.R. Clarke. 2016. “The Application of Photoluminescence Piezospectroscopy for Residual Stresses Measurement in Thermally Sprayed TBCs”. Surface & Coatings Technology, 318, Pp. 147-56",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "The Thermal Conductivity of Polymer-Derived Amorphous Si-O-C Compounds and Nano-Composites",
+      "year": 2016,
+      "citation_raw": "A. Gurlo, E. Ionescu, R. Riedel, and D.R. Clarke. 2016. “The Thermal Conductivity of Polymer-Derived Amorphous Si-O-C Compounds and Nano-Composites”. J. Am. Ceram. Soc., 99, Pp. 281-85",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Pattern Formation in Plastic Liquid Films on Elastomers by Ratcheting",
+      "year": 2016,
+      "citation_raw": "J. Huang, J. Yang, L. Jin, D.R. Clarke, and Z. Suo. 2016. “Pattern Formation in Plastic Liquid Films on Elastomers by Ratcheting”. Soft Matter, 12, Pp. 3820-27",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Electrically Tunable Window Device",
+      "year": 2016,
+      "citation_raw": "S. Shian and D.R. Clarke. 2016. “Electrically Tunable Window Device”. Optics Letters, 41, Pp. 1289-92",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Multilayer Dielectric Elastomers for Fast, Programmable Actuation Without Prestretch",
+      "year": 2016,
+      "citation_raw": "M. Duduta, R.J. Wood, and D.R. Clarke. 2016. “Multilayer Dielectric Elastomers for Fast, Programmable Actuation Without Prestretch”. Advanced Materials, 28, Pp. 8058-63. doi:10.1002/adma.201601842",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Optical and Vibrational Properties of (ZnO)k In2O3 Natural Superlattice Nanostructures",
+      "year": 2016,
+      "citation_raw": "S. Margueron, J. Pokorny, S. Skiadopoulou, S. Kamba, X. Liang, and D.R. Clarke. 2016. “Optical and Vibrational Properties of (ZnO)k In2O3 Natural Superlattice Nanostructures”. Journal of Applied Physics, 119, Pp. 195103",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Rare-Earth Separation Using Bacteria",
+      "year": 2016,
+      "citation_raw": "W.D. Bonificio and D.R. Clarke. 2016. “Rare-Earth Separation Using Bacteria”. Environ. Sci. Technol. Lett., 3, Pp. 180-84",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Electrically-Tunable Surface Deformation of a Soft Elastomer",
+      "year": 2016,
+      "citation_raw": "S. Shian and D.R. Clarke. 2016. “Electrically-Tunable Surface Deformation of a Soft Elastomer”. Soft Matter, 12, Pp. 3137-41. doi:10.1039/C6SM00090H",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Multi-Scale Architectured Thermoelectric Materials in the Mg2(Si,Sn) System",
+      "year": 2016,
+      "citation_raw": "S. Gorsse, S. Vives, P. Bellanger, D. Riou, L. Laversenne, S. Miraglia, and D.R. Clarke. 2016. “Multi-Scale Architectured Thermoelectric Materials in the Mg2(Si,Sn) System”. Materials Letters, 116, Pp. 140-44",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "The Tetragonal–monoclinic, Ferroelastic Transformation in Yttrium Tantalate and Effect of Zirconia Alloying",
+      "year": 2014,
+      "citation_raw": "S. Shian, P. Sarin, M. Gurak, M. Baram, W.M. Kriven, and D.R. Clarke. 2014. “The Tetragonal–monoclinic, Ferroelastic Transformation in Yttrium Tantalate and Effect of Zirconia Alloying”. Acta Materialia, 69, Pp. 196-202",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Relation Between Thermoelectric Properties and Phase Equilibria in the ZnO–In2O3 Binary System",
+      "year": 2014,
+      "citation_raw": "X. Liang and D.R. Clarke. 2014. “Relation Between Thermoelectric Properties and Phase Equilibria in the ZnO–In2O3 Binary System”. Acta Materialia, 63, Pp. 191-201",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Aqueous Epitaxial Growth of ZnO on Single Crystalline Au Microplates",
+      "year": 2013,
+      "citation_raw": "J.H. Joo, K.J. Greenberg, M. Baram, D.R. Clarke, and E.L. Hu. 2013. “Aqueous Epitaxial Growth of ZnO on Single Crystalline Au Microplates”. Crystal Growth and Design, 13, Pp. 986-91",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "A Data-Driven Review of Thermoelectric Materials: Performance and Resource Considerations",
+      "year": 2013,
+      "citation_raw": "M. Gaultois, T. D. Sparks, C.K.H. Borg, Rm. Seshadri, W.D. Bonificio, and D.R. Clarke. 2013. “A Data-Driven Review of Thermoelectric Materials: Performance and Resource Considerations”. Chemistry of Materials, 25, Pp. 2911-20. doi:10.1021/cm400893e",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "A Data-Driven Review of Thermoelectric Materials: Performance and Resource Considerations",
+      "year": 2013,
+      "citation_raw": "M. Gaultois, T. D. Sparks, C.K.H. Borg, Rm. Seshadri, W.D. Bonificio, and D.R. Clarke. 2013. “A Data-Driven Review of Thermoelectric Materials: Performance and Resource Considerations”. Chemistry of Materials, 25, Pp. 2911-20. doi:10.1021/cm400893e picture_as_pdf gaultois_et_al_2013.pdf",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Thermal (Kapitza) Resistance of Interfaces in Compositional Dependent ZnO-In2O3 Superlattices",
+      "year": 2013,
+      "citation_raw": "X. Liang, M. Baram, and D.R. Clarke. 2013. “Thermal (Kapitza) Resistance of Interfaces in Compositional Dependent ZnO-In2O3 Superlattices”. Applied Physics Letters, 102, Pp. 223903",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "High-Speed, Compact, Adaptive Lenses Using In-Line Transparent Dielectric Elastomer Actuator Membranes",
+      "year": 2013,
+      "citation_raw": "S. Shian, R.M. Diebold, and D.R. Clarke. 2013. “High-Speed, Compact, Adaptive Lenses Using In-Line Transparent Dielectric Elastomer Actuator Membranes”. Proceedings of SPIE, Vol, 8687",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Dielectric Elastomer Generator With Equi-Biaxial Mechanical Loading for Energy Harvesting",
+      "year": 2013,
+      "citation_raw": "J. Huang, S. Shian, Z. Suo, and D.R. Clarke. 2013. “Dielectric Elastomer Generator With Equi-Biaxial Mechanical Loading for Energy Harvesting”. Proceedings of SPIE, Vol, 8687",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Tunable Lenses Using Transparent Dielectric Elastomer Actuators",
+      "year": 2013,
+      "citation_raw": "S. Shian, R.M. Diebold, and D.R. Clarke. 2013. “Tunable Lenses Using Transparent Dielectric Elastomer Actuators”. Optics Express, 21, 7",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Maximizing the Energy Density of Dielectric Elastomer Generators Using Equi-Biaxial Loading",
+      "year": 2013,
+      "citation_raw": "J. Huang, S. Shian, Z. Suo, and D.R. Clarke. 2013. “Maximizing the Energy Density of Dielectric Elastomer Generators Using Equi-Biaxial Loading”. Advanced Functional Materials. doi:10.1002/adfm.201300402",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Smooth, Aggregate-Free Self-Assembled Monolayer Deposition of Silane Coupling Agents on Silicon Dioxide",
+      "year": 2012,
+      "citation_raw": "R.M. Diebold and D.R. Clarke. 2012. “Smooth, Aggregate-Free Self-Assembled Monolayer Deposition of Silane Coupling Agents on Silicon Dioxide”. Langmuir, 28, Pp. 15513–15520",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "The Thickness and Stretch Dependence of the Electrical Breakdown Strength of an Acrylic Dielectric Elastomer",
+      "year": 2012,
+      "citation_raw": "J. Huang, S. Shian, R.M. Diebold, Z. Suo, and D.R. Clarke. 2012. “The Thickness and Stretch Dependence of the Electrical Breakdown Strength of an Acrylic Dielectric Elastomer”. Applied Physics Letters, 101, Pp. 122905",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Thermal-Barrier Coatings for More Efficient Gas-Turbine Engines",
+      "year": 2012,
+      "citation_raw": "D.R. Clarke, M. Oechsner, and N.P. Padture. 2012. “Thermal-Barrier Coatings for More Efficient Gas-Turbine Engines”. MRS Bulletin, 37, Pp. 891-98",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Calculation of the Thermal Conductivity of Ln2SrAl2O7 (Ln = La, Nd, Sm, Eu, Gd and Dy)",
+      "year": 2011,
+      "citation_raw": "J. Feng, C. Wan, B. Xiao, R. Zhou, W. Pan, and D.R. Clarke. 2011. “Calculation of the Thermal Conductivity of Ln2SrAl2O7 (Ln = La, Nd, Sm, Eu, Gd and Dy)”. Physical Review B, 84, Pp. 024302",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Stress Distributions in Plasma-Sprayed Thermal Barrier Coatings Under Thermal Cycling in a Temperature Gradient",
+      "year": 2011,
+      "citation_raw": "A.M. Limarga, R. Vaben, and D.R. Clarke. 2011. “Stress Distributions in Plasma-Sprayed Thermal Barrier Coatings Under Thermal Cycling in a Temperature Gradient”. Journal of Applied Mechanics,, 78, Pp. 011003",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "The Use of Larson–Miller Parameters to Monitor the Evolution of Raman Lines of Tetragonal Zirconia With High Temperature Aging",
+      "year": 2011,
+      "citation_raw": "A.M. Limarga, J. Iveland, M. Gentleman, and D. M. Lipkin. 2011. “The Use of Larson–Miller Parameters to Monitor the Evolution of Raman Lines of Tetragonal Zirconia With High Temperature Aging”. Acta Materialia,, 59, Pp. 1162–1167",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Damage Evolution in Thermal Barrier Coatings With Thermal Cycling",
+      "year": 2011,
+      "citation_raw": "B. Heeg, V. K. Tolpygo, and D.R. Clarke. 2011. “Damage Evolution in Thermal Barrier Coatings With Thermal Cycling”. Journal of the American Ceramic Society, 94, 6, Pp. S112-S119",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Lithographic Patterning on Polydimethylsiloxane Surfaces Using Polydimethylglutarimide",
+      "year": 2011,
+      "citation_raw": "R.M. Diebold and D.R. Clarke. 2011. “Lithographic Patterning on Polydimethylsiloxane Surfaces Using Polydimethylglutarimide”. Lab on a Chip,, 11, Pp. 1694-97",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Thermal Conductivity of the Gadolinium Calcium Silicate Apatites: Effect of Different Point Defect Types",
+      "year": 2011,
+      "citation_raw": "Z. Qu, T. D. Sparks, W. Pan, and D.R. Clarke. 2011. “Thermal Conductivity of the Gadolinium Calcium Silicate Apatites: Effect of Different Point Defect Types”. Acta Materialia, 59, Pp. 3841-50",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Anisotropic Thermal Diffusivity and Conductivity of La-Doped Strontium Niobate, Sr2Nb2O7",
+      "year": 2010,
+      "citation_raw": "T. D. Sparks, P. A. Fuierer, and D.R. Clarke. 2010. “Anisotropic Thermal Diffusivity and Conductivity of La-Doped Strontium Niobate, Sr2Nb2O7”. Journal of the American Ceramic Society,, 93, 4, Pp. 1136-41",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Low Thermal Conductivity Without Oxygen Vacancies in Equi-Molar YO1.5+TaO2.5 and YbO1.5+TaO2.5 Stabilized Zirconia Ceramics",
+      "year": 2010,
+      "citation_raw": "Y. Shen, R. M. Leckie, C.G. Levi, and D.R. Clarke. 2010. “Low Thermal Conductivity Without Oxygen Vacancies in Equi-Molar YO1.5+TaO2.5 and YbO1.5+TaO2.5 Stabilized Zirconia Ceramics”. Acta Materialia, 58, Pp. 4424–4431",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Thermal Conductivity of the Rare-Earth Strontium Aluminates",
+      "year": 2010,
+      "citation_raw": "T. Sparks, P. Wei, and D.R. Clarke. 2010. “Thermal Conductivity of the Rare-Earth Strontium Aluminates”. Journal of the American Ceramic Society, Pp. 93",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "A New Data Reduction Method of Pulse Diffusivity Measurements on Layered Materials",
+      "year": 2010,
+      "citation_raw": "L. G. Chen, A.M. Limarga, and D.R. Clarke. 2010. “A New Data Reduction Method of Pulse Diffusivity Measurements on Layered Materials”. Computational Materials Science, 50, Pp. 77-82",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Doped Oxides for High-Temperature Luminescence and Lifetime Thermometry",
+      "year": 2009,
+      "citation_raw": "M. D. Chambers and D.R. Clarke. 2009. “Doped Oxides for High-Temperature Luminescence and Lifetime Thermometry”. Annual Reviews of Materials Research, 39, Pp. 325-59",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Doped Oxides for High-Temperature Luminescence and Lifetime Thermometry",
+      "year": 2009,
+      "citation_raw": "M. D. Chambers and D.R. Clarke. 2009. “Doped Oxides for High-Temperature Luminescence and Lifetime Thermometry”. Annual Reviews of Materials Research, 39, Pp. 325-59 picture_as_pdf chambers_and_clarke_2009....",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "The Tetragonal-Monoclinic Transformation in Zirconia: Lessons Learned and Future Trends",
+      "year": 2009,
+      "citation_raw": "J. Chevalier, L. Gremillard, A. Virkar, and D.R. Clarke. 2009. “The Tetragonal-Monoclinic Transformation in Zirconia: Lessons Learned and Future Trends”. Journal of the American Ceramic Society, 92, 9, Pp. 1901-20",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Thermal Barrier Coating Stress Measurement",
+      "year": 2000,
+      "citation_raw": "Neil E. Paton, Kenneth S. Murphy, and David R. Clarke. 2000. “Thermal Barrier Coating Stress Measurement”. United States of America 6072568",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Method of Fabricating an Improved Ceramic Radome",
+      "year": 2000,
+      "citation_raw": "David R. Clarke and Frederick F. Lange. 2000. “Method of Fabricating an Improved Ceramic Radome”. United States of America 6087971",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Process for Fabricating a Low Dielectric Composite Substrate",
+      "year": 1994,
+      "citation_raw": "John Acocella, Peter A. Agostino, Arnold I. Baise, Richard A. Bates, Ray M. Bryant, Jon A. Casey, David R. Clarke, and al. 1994. “Process for Fabricating a Low Dielectric Composite Substrate”. United States of America 5277725",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Zirconia Toughening of Glass-Ceramic Materials",
+      "year": 1993,
+      "citation_raw": "Richard W. Jr. Adams, David R. Clarke, Sarah H. Knickerbocker, Linda L. Rapp, and Bernard Schwartz. 1993. “Zirconia Toughening of Glass-Ceramic Materials”. United States of America 5185215",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Process for Fabricating a Low Dielectric Composite Substrate",
+      "year": 1992,
+      "citation_raw": "John Acocella, Peter A. Agostino, Arnold I. Baise, Richard A. Bates, Ray M. Bryant, Jon A. Casey, David R. Clarke, and al. 1992. “Process for Fabricating a Low Dielectric Composite Substrate”. United States of America 5135595",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Low Dielectric Composite Substrate",
+      "year": 1992,
+      "citation_raw": "John Acocella, Arnold I. Baise, Richard A. Bates, Jon A. Casey, David R. Clarke, and al. 1992. “Low Dielectric Composite Substrate”. United States of America 5139851",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Zirconia Toughening of Glass-Ceramic Materials",
+      "year": 1992,
+      "citation_raw": "Richard W. Jr. Adams, David R. Clarke, Sarah H. Knickerbocker, Linda L. Rapp, and Bernard Schwartz. 1992. “Zirconia Toughening of Glass-Ceramic Materials”. United States of America 5173331",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Zirconia Toughening of Glass-Ceramic Materials",
+      "year": 1991,
+      "citation_raw": "Richard W. Jr. Adams, David R. Clarke, Sara H. Knickerbocker, Linda L. Rapp, and Bernard Schwartz. 1991. “Zirconia Toughening of Glass-Ceramic Materials”. United States of America 5045402",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Biogenic Approaches to Scare Element Recovery",
+      "year": 1984,
+      "citation_raw": "1984. “Biogenic Approaches to Scare Element Recovery”",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Oxide Thermoelectric Devices: A Major Opportunity for the Global Ceramics Community",
+      "year": 1984,
+      "citation_raw": "1984. “Oxide Thermoelectric Devices: A Major Opportunity for the Global Ceramics Community”",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Adaptive Metalenses With Simultaneous Electrical Control of Focal Length, Astigmatism, and Shift",
+      "year": 2018,
+      "citation_raw": "A. She, S. Zhang, S. Shian, D.R. Clarke, and F. Capasso. 2018. “Adaptive Metalenses With Simultaneous Electrical Control of Focal Length, Astigmatism, and Shift”. Science Advances, 4, Pp. eaap9957",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "On the Yttrium Tantalate - Zirconia Phase Diagram",
+      "year": 2018,
+      "citation_raw": "M. Gurak, Q. Flamant, L. Laversenne, and D.R. Clarke. 2018. “On the Yttrium Tantalate - Zirconia Phase Diagram”. Journal of the European Ceramic Society, 38, Pp. 3317-24",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Electric-Field Induced Surface Instabilities of Soft Dielectrics and Their Effects on Optical Transmittance and Scattering",
+      "year": 2018,
+      "citation_raw": "S. Shian, P. Kjeer, and D.R. Clarke. 2018. “Electric-Field Induced Surface Instabilities of Soft Dielectrics and Their Effects on Optical Transmittance and Scattering”. Journal of Applied Physics, 123, Pp. 113105",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Single Layer In-O Atomic Sheets As Phonon and Electron Barriers in ZnO-In2O3 Natural Superlattices: Implications for Thermoelectricity",
+      "year": 2018,
+      "citation_raw": "X. Liang and D.R. Clarke. 2018. “Single Layer In-O Atomic Sheets As Phonon and Electron Barriers in ZnO-In2O3 Natural Superlattices: Implications for Thermoelectricity”. Journal of Applied Physics, 124, Pp. 025101",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Revised Model for Thermopower and Site Inversion in Co3O4 Spinel",
+      "year": 2018,
+      "citation_raw": "T. D. Sparks, A. Gurlo, M.W. Gaultois, and D.R. Clarke. 2018. “Revised Model for Thermopower and Site Inversion in Co3O4 Spinel”. Physical Review B, 98, Pp. 024108",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Ultra Lightweight, High Power Density Lithium Ion Batteries",
+      "year": 2018,
+      "citation_raw": "M. Duduta, S. Rivaz, D.R. Clarke, and R.J. Wood. 2018. “Ultra Lightweight, High Power Density Lithium Ion Batteries”. Batteries & Supercaps, 10.1002/batt.201800030",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Compact Dielectric Elastomer Linear Actuators",
+      "year": 2018,
+      "citation_raw": "H. Zhao, A.M. Hussain, M. Duduta, D.M. Vogt, R.J. Wood, and D.R. Clarke. 2018. “Compact Dielectric Elastomer Linear Actuators”. Advanced Functional Materials, Pp. 1804328",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Spatially and Temporally Tunable Window Devices on Flexible Substrates",
+      "year": 2018,
+      "citation_raw": "K. Cheng, A. Hussain, and D. Clarke. 2018. “Spatially and Temporally Tunable Window Devices on Flexible Substrates”",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "A Modular Dielectric Elastomer Actuator to Drive Miniature Autonomous Underwater Vehicles",
+      "year": 2018,
+      "citation_raw": "F. Berlinger, M. Duduta, H. Gloria, D. Clarke, R. Nagpal, and R. Wood. 2018. “A Modular Dielectric Elastomer Actuator to Drive Miniature Autonomous Underwater Vehicles”",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "The Effect of Zirconia Substitution on the High-Temperature Transformation of the Monoclinic-Prime Phase in Yttrium Tantalate",
+      "year": 2018,
+      "citation_raw": "Q. Flamant, M. Gurak, and D.R. Clarke. 2018. “The Effect of Zirconia Substitution on the High-Temperature Transformation of the Monoclinic-Prime Phase in Yttrium Tantalate”. Journal of the European Ceramic Society, 38, Pp. 3925-31",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Adaptive Optic and Acoustic Devices",
+      "year": 2017,
+      "citation_raw": "description Publisher's Version Samuel Shian, Roger Diebold, and David Clarke. 2017. “Adaptive Optic and Acoustic Devices”. United States of America 9703019",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Organic Liquid-Crystal Devices Based on Ionic Conductors",
+      "year": 2017,
+      "citation_raw": "C. H. Yang, S. Zhou, S. Shian, D.R. Clarke, and Z. Suo. 2017. “Organic Liquid-Crystal Devices Based on Ionic Conductors”. Materials Horizons, 4, Pp. 1102-9",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Pixel Device and Display Using Liquid Ink and Elastomers",
+      "year": 2016,
+      "citation_raw": "Samuel Shian, David Clark, and Roger Diebold. 2016. “Pixel Device and Display Using Liquid Ink and Elastomers”. United States of America 9335539 B2",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Enhanced UV Emission From Silver ZnO And Gold ZnO Core-Shell Nanoparticles: Photoluminescence, Radioluminescence, And Optically Stimulated Luminescence",
+      "year": 2015,
+      "citation_raw": "E.J. Guidelli, O. Baffa, and D.R. Clarke. 2015. “Enhanced UV Emission From Silver ZnO And Gold ZnO Core-Shell Nanoparticles: Photoluminescence, Radioluminescence, And Optically Stimulated Luminescence”. Scientific Reports, 5, Pp. 14004. doi:10.1038/srep14004",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Dielectric Elastomer Based ‘Grippers’ for Soft Robotics",
+      "year": 2015,
+      "citation_raw": "S. Shian, K. Bertoldi, and D.R. Clarke. 2015. “Dielectric Elastomer Based ‘Grippers’ for Soft Robotics”. Advanced Materials, 27, Pp. 6814-19",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Use of Aligned Fibers to Enhance the Performance of Dielectric Elastomer Inchworm Robots",
+      "year": 2015,
+      "citation_raw": "S. Shian, K. Bertoldi, and D.R. Clarke. 2015. “Use of Aligned Fibers to Enhance the Performance of Dielectric Elastomer Inchworm Robots”. Proc. SPIE, 9430, Pp. 1-9. doi:10.1117/12.2084140",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "First-Principles Calculations of the High-Temperature Phase Transformation in Yttrium Tantalate",
+      "year": 2014,
+      "citation_raw": "J. Feng, S. Shian, B. Xiao, and D.R. Clarke. 2014. “First-Principles Calculations of the High-Temperature Phase Transformation in Yttrium Tantalate”. Physical Review B, 90, Pp. 094102",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Effect of Silane Coupling Agent Chemistry on Electrical Breakdown Across Hybrid Organic–Inorganic Insulating Films",
+      "year": 2014,
+      "citation_raw": "R.M. Diebold, M.J. Gordon, and D.R. Clarke. 2014. “Effect of Silane Coupling Agent Chemistry on Electrical Breakdown Across Hybrid Organic–Inorganic Insulating Films”. ACS Applied Materials & Interfaces, 6, 15, Pp. 11932-39",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Bacterial Recovery and Recycling of Tellurium from Tellurium-Containing Compounds by Pseudoalteromonas Sp. EPR3",
+      "year": 2014,
+      "citation_raw": "W. Bonificio and D.R. Clarke. 2014. “Bacterial Recovery and Recycling of Tellurium from Tellurium-Containing Compounds by Pseudoalteromonas Sp. EPR3”. Journal of Applied Microbiology,, 117, Pp. 1293-1304",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Optimizing the Electrical Energy Conversion Cycle of Dielectric Elastomer Generators",
+      "year": 2014,
+      "citation_raw": "S. Shian, J. Huang, S. Zhu, and D.R. Clarke. 2014. “Optimizing the Electrical Energy Conversion Cycle of Dielectric Elastomer Generators”. Advanced Materials, 26, Pp. 6617-21. doi:10.1002/adma.201402291",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Complex Ordered Patterns in Mechanical Instability Induced Geometrically Frustrated Triangular Cellular Structures",
+      "year": 2014,
+      "citation_raw": "S.H. Kang, S. Shan, A. Kosmrlj, W.L. Hoorduin, S. Shian, J.C. Weaver, D.R. Clarke, and K. Bertoldi. 2014. “Complex Ordered Patterns in Mechanical Instability Induced Geometrically Frustrated Triangular Cellular Structures”. Physical Review Letters, 112, Pp. 098701",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Nanoscale Thernal Transport.II. 2003-2012",
+      "year": 2014,
+      "citation_raw": "D.G. Cahill, P.V. Braun, G. Chen, D.R. Clarke, S. Fan, K.E. Goodson, P. Keblinski, and all. 2014. “Nanoscale Thernal Transport.II. 2003-2012”. Applied Physics Reviews, 1, Pp. 011305",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Thermal Conductivity of Single- and Multi-Phase Compositions in the ZrO2–Y2O3–Ta2O5 System",
+      "year": 2014,
+      "citation_raw": "A.M. Limarga, S. Shian, R.F. Leckie, C.G. Levi, and D.R. Clarke. 2014. “Thermal Conductivity of Single- and Multi-Phase Compositions in the ZrO2–Y2O3–Ta2O5 System”. Journal of the European Ceramic Society, 34, 12, Pp. 3085-94",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Structural Transition from Helices to Hemihelices",
+      "year": 2014,
+      "citation_raw": "J. Liu, J. Huang, T. Su, K. Bertoldi, and D.R. Clarke. 2014. “Structural Transition from Helices to Hemihelices”. PLOS ONE, 9, 4, Pp. 98183",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Thermal Transport in Nanostructured Materials",
+      "year": 2012,
+      "citation_raw": "A. Chernatynskiy, D.R. Clarke, and S.R. Phillpot. 2012. “Thermal Transport in Nanostructured Materials”. In Handbook of Nanoscience, Engineering and Technology, Third Edition, Pp. 545-72. CRC Press",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Highly Compliant Transparent Electrodes",
+      "year": 2012,
+      "citation_raw": "S. Shian, R.M. Diebold, A. McNamara, and D.R. Clarke. 2012. “Highly Compliant Transparent Electrodes”. Applied Physics Letters, 101, Pp. 061101",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Effect of High-Temperature Aging on the Thermal Conductivity of Nanocrystalline Tetragonal Yttria-Stabilized Zirconia",
+      "year": 2012,
+      "citation_raw": "A.M. Limarga, S. Shian, M. Baram, and D.R. Clarke. 2012. “Effect of High-Temperature Aging on the Thermal Conductivity of Nanocrystalline Tetragonal Yttria-Stabilized Zirconia”. Acta Materialia, 60, Pp. 5417-24",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Enhanced N-Type Thermopower in Distortion-Free LiMn2O4",
+      "year": 2012,
+      "citation_raw": "T. D. Sparks, A. Gurlo, and D.R. Clarke. 2012. “Enhanced N-Type Thermopower in Distortion-Free LiMn2O4”. Journal of Materials Chemistry,, 22, Pp. 4631",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Dielectric Elastomer Actuators under Equal-Biaxial Forces, Uniaxial Forces, and Uniaxial Constraint of Stiff Fibers",
+      "year": 2012,
+      "citation_raw": "T. Lu, J. Huang, C. Jordi, G. Kovacs, R. Huang, D.R. Clarke, and Z. Suo. 2012. “Dielectric Elastomer Actuators under Equal-Biaxial Forces, Uniaxial Forces, and Uniaxial Constraint of Stiff Fibers”. Soft Matter, 8, Pp. 6167-73",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Large, Uni-Directional Actuation in Dielectric Elastomers Achieved by Fiber Stiffening",
+      "year": 2012,
+      "citation_raw": "J. Huang, T. Lu, J. Zhu, D.R. Clarke, and Z. Suo. 2012. “Large, Uni-Directional Actuation in Dielectric Elastomers Achieved by Fiber Stiffening”. Applied Physics Letters, 100, Pp. 211901",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Giant, Voltage-Actuated Deformation of a Dielectric Elastomer under Dead Load",
+      "year": 2012,
+      "citation_raw": "J. Huang, T.Li, C.C.Foo, J. Zhu, D.R. Clarke, and al. 2012. “Giant, Voltage-Actuated Deformation of a Dielectric Elastomer under Dead Load”. Applied Physics Letters, 100, Pp. 041911",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Spontaneous and Deterministic Three-Dimensional Curling of Pre-Strained Elastomeric Bi-Strips",
+      "year": 2012,
+      "citation_raw": "J. Huang, J. Liu, B. Kroll, K. Bertoldi, and D.R. Clarke. 2012. “Spontaneous and Deterministic Three-Dimensional Curling of Pre-Strained Elastomeric Bi-Strips”. Soft Matter, 8, Pp. 6291-6300",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Anisotropic Elastic and Thermal Properties of the Double Perovskite Slab-Rock Salt Layer Ln2SrAl2O7 (Ln = La, Nd, Sm, Eu, Gd or Dy) Natural Superlattice Structure",
+      "year": 2012,
+      "citation_raw": "J. Feng, B. Xiao, R. Zhou, W. Pan, and D.R. Clarke. 2012. “Anisotropic Elastic and Thermal Properties of the Double Perovskite Slab-Rock Salt Layer Ln2SrAl2O7 (Ln = La, Nd, Sm, Eu, Gd or Dy) Natural Superlattice Structure”. Acta Materialia, 60, Pp. 3380-92",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "The Grain Size and Temperature Dependence of the Thermal Conductivity of Polycrystalline, Tetragonal Yttria-Stabilized Zirconia",
+      "year": 2011,
+      "citation_raw": "A.M. Limarga and D.R. Clarke. 2011. “The Grain Size and Temperature Dependence of the Thermal Conductivity of Polycrystalline, Tetragonal Yttria-Stabilized Zirconia”. Applied Physics Letters, 98, Pp. 211906",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Neodymium Zirconate Nd2Zr2O7 Transparent Ceramics As a Solid State Laser Material",
+      "year": 2011,
+      "citation_raw": "T. Feng, D.R. Clarke, D. Jiang, J. Xia, and J. Shi. 2011. “Neodymium Zirconate Nd2Zr2O7 Transparent Ceramics As a Solid State Laser Material”. Applied Physics Letters, 98, Pp. 151105",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Fabrication of Thin Luminescent Single Crystal Diamond Membranes",
+      "year": 2011,
+      "citation_raw": "A. P. Magyar, J. C. Lee. A. M. Limarga, I. Aharonovich, F. Rol, D.R. Clarke, M. Huang, and E.L. Hu. 2011. “Fabrication of Thin Luminescent Single Crystal Diamond Membranes”. Applied Physics Letters,, 99, Pp. 081913",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Crossover in Thermal Transport Properties of Natural, Perovskite-Structured Superlattices",
+      "year": 2009,
+      "citation_raw": "A. Chernatynskiy, R.W. Grimes, M.A. Zurbuchen, D.R. Clarke, and S.R. Phillpot. 2009. “Crossover in Thermal Transport Properties of Natural, Perovskite-Structured Superlattices”. Applied Physics Letters, 95, Pp. 161906",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Crossover in Thermal Transport Properties of Natural, Perovskite-Structured Superlattices",
+      "year": 2009,
+      "citation_raw": "A. Chernatynskiy, R.W. Grimes, M.A. Zurbuchen, D.R. Clarke, and S.R. Phillpot. 2009. “Crossover in Thermal Transport Properties of Natural, Perovskite-Structured Superlattices”. Applied Physics Letters, 95, Pp. 161906 picture_as_pdf chernatynskiy_et_al_2009....",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Effect of Superimposed Uniaxial Stress on Rumpling of Platinum-Modified Nickel Aluminide Coatings",
+      "year": 2009,
+      "citation_raw": "S. Dryepondt and D.R. Clarke. 2009. “Effect of Superimposed Uniaxial Stress on Rumpling of Platinum-Modified Nickel Aluminide Coatings”. Acta Materialia,, 57, Pp. 2321-27",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Effects of Reducing Atmosphere on the Luminescence of Eu3+ Doped Yttria-Stabilized Zirconia Sensor Layers in Thermal Barrier Coatings",
+      "year": 2009,
+      "citation_raw": "Yang Shen and D.R. Clarke. 2009. “Effects of Reducing Atmosphere on the Luminescence of Eu3+ Doped Yttria-Stabilized Zirconia Sensor Layers in Thermal Barrier Coatings”. Journal of the American Ceramic Society, 92, 1, Pp. 125-29",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Rumpling of CVD (Ni,Pt)Al Diffusion Coatings Under Intermediate Temperature Cycling",
+      "year": 2009,
+      "citation_raw": "V. K. Tolpygo and D.R. Clarke. 2009. “Rumpling of CVD (Ni,Pt)Al Diffusion Coatings Under Intermediate Temperature Cycling”. Surface and Coatings Technology,, 203, Pp. 3278-85",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Diffusion of Water Species in Yttria-Stabilized Zirconia",
+      "year": 2009,
+      "citation_raw": "T. Duong, A.M. Limarga, and D.R. Clarke. 2009. “Diffusion of Water Species in Yttria-Stabilized Zirconia”. Journal of the American Ceramic Society,, 92, 11, Pp. 2731-37",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Characterization of EB-PVD Thermal Barrier Coatings by Diffuse Optical Reflectance",
+      "year": 2009,
+      "citation_raw": "A.M. Limarga and D.R. Clarke. 2009. “Characterization of EB-PVD Thermal Barrier Coatings by Diffuse Optical Reflectance”. International Journal of Applied Ceramic Technology,, 6, 3, Pp. 400–409",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "A Numerical Solution Based Parameter Estimation Method for Thermal Flash Diffusivity Measurements",
+      "year": 2009,
+      "citation_raw": "L. G. Chen and D.R. Clarke. 2009. “A Numerical Solution Based Parameter Estimation Method for Thermal Flash Diffusivity Measurements”. Journal of Computational Materials Science,, 45, Pp. 342",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Evolution of Thermal Properties of EB-PVD 7YSZ Thermal Barrier Coatings With Thermal Cycling",
+      "year": 2009,
+      "citation_raw": "T. Kakuda, A.M. Limarga, T. D. Bennett, and D.R. Clarke. 2009. “Evolution of Thermal Properties of EB-PVD 7YSZ Thermal Barrier Coatings With Thermal Cycling”. Acta Materialia,, 57, Pp. 2583-91",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "On the Initiation of Cyclic Oxidation-Induced Rumpling of Platinum-Modified Nickel Aluminide Coatings",
+      "year": 2009,
+      "citation_raw": "S. Dryepondt, J. Porter, and D.R. Clarke. 2009. “On the Initiation of Cyclic Oxidation-Induced Rumpling of Platinum-Modified Nickel Aluminide Coatings”. Acta Materialia,, 57, Pp. 1717-23",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Cyclic Oxidation Induced Cracking of Platinum Modified Nickel Aluminide Coatings",
+      "year": 2009,
+      "citation_raw": "S. Dryepondt and D.R. Clarke. 2009. “Cyclic Oxidation Induced Cracking of Platinum Modified Nickel Aluminide Coatings”. Scripta Materialia,, 60, Pp. 917-20",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Decay Pathway and High-Temperature Luminescence of Eu3+ in Ca2Gd8Si6O26",
+      "year": 2009,
+      "citation_raw": "M. D. Chambers, P. A. Rousseve, and D.R. Clarke. 2009. “Decay Pathway and High-Temperature Luminescence of Eu3+ in Ca2Gd8Si6O26”. Journal of Luminescence, 129, Pp. 263-69",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Nickel Aluminide Coating With Improved Oxide Stability",
+      "year": 2006,
+      "citation_raw": "Joseph D. Rigney, David R. Clarke, and Ramgopal Darolia. 2006. “Nickel Aluminide Coating With Improved Oxide Stability”. United States of America 7070866",
+      "source_url": "https://clarke.seas.harvard.edu/publications?page=9"
+    }
+  ]
 }

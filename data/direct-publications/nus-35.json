@@ -3,13 +3,79 @@
   "university_key": "nus",
   "pi": "TAN Yu Jun",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:57:06.631Z",
-  "coverage_notes": [
+  "lab_url": "https://www.yujuntan.com/",
+  "publication_urls": [
+    "https://www.yujuntan.com/"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
     "No exact Publications/Papers navigation link resolved in captured profile."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Speak at the Italian Embassy on International Day of Women and Girls in Science",
+      "year": 2026,
+      "citation_raw": "Speak at the Italian Embassy on International Day of Women and Girls in Science Tsinghua Mechano-X Workshop 2026 at Bali",
+      "source_url": "https://yujuntan.com/"
+    },
+    {
+      "title": "2026 What a flex: Swimming robot propelled by lab-grown muscle hits record speed – NUS News",
+      "year": 2026,
+      "citation_raw": "2026 What a flex: Swimming robot propelled by lab-grown muscle hits record speed – NUS News",
+      "source_url": "https://yujuntan.com/"
+    },
+    {
+      "title": "2026 From Kombucha fermentation to green electronics – Advanced Science news",
+      "year": 2026,
+      "citation_raw": "2026 From Kombucha fermentation to green electronics – Advanced Science news",
+      "source_url": "https://yujuntan.com/"
+    },
+    {
+      "title": "2025 Superhero material could reshape future tech – CDE news",
+      "year": 2025,
+      "citation_raw": "2025 Superhero material could reshape future tech – CDE news",
+      "source_url": "https://yujuntan.com/"
+    },
+    {
+      "title": "2025 Marvel-ous science: The self-healing material that could change tech – MEDICUS",
+      "year": 2025,
+      "citation_raw": "2025 Marvel-ous science: The self-healing material that could change tech – MEDICUS",
+      "source_url": "https://yujuntan.com/"
+    },
+    {
+      "title": "2025 Designing Soft Magnetic Materials for Soft Robotics and Wearables – NUS research features",
+      "year": 2025,
+      "citation_raw": "2025 Designing Soft Magnetic Materials for Soft Robotics and Wearables – NUS research features",
+      "source_url": "https://yujuntan.com/"
+    },
+    {
+      "title": "2023 Intelligent and Sustainable Materials for Soft Robotics – NUS research features",
+      "year": 2023,
+      "citation_raw": "2023 Intelligent and Sustainable Materials for Soft Robotics – NUS research features",
+      "source_url": "https://yujuntan.com/"
+    },
+    {
+      "title": "2021 MIT Technology Review Innovators Under 35 Asia Pacific (TR35 – Pioneers) – link",
+      "year": 2021,
+      "citation_raw": "2021 MIT Technology Review Innovators Under 35 Asia Pacific (TR35 – Pioneers) – link",
+      "source_url": "https://yujuntan.com/"
+    },
+    {
+      "title": "Team leader to a team of 5 in 3D printing of an Orchid jewellery using EBM (materials: Ti6Al4V)",
+      "year": 2013,
+      "citation_raw": "Team leader to a team of 5 in 3D printing of an Orchid jewellery using EBM (materials: Ti6Al4V) 2013 Commendation Prize (Fashion) Singapore International Fashion 3D Printing Competitions",
+      "source_url": "https://yujuntan.com/"
+    },
+    {
+      "title": "Materials Engineering",
+      "year": 2013,
+      "citation_raw": "2013 FMC Technologies Book Prize (Academic Year 2012/2013) – Highest aggregate mark in “Materials Engineering”",
+      "source_url": "https://yujuntan.com/"
+    }
+  ]
 }

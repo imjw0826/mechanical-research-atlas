@@ -3,12 +3,13 @@
   "university_key": "oxford",
   "pi": "Chao He",
   "lab_name": null,
-  "lab_url": null,
+  "lab_url": "https://eng.ox.ac.uk/people/chao-he",
   "publication_urls": [
-    "https://eng.ox.ac.uk/people/chao-he"
+    "https://voplab.com/publication/"
   ],
-  "accessed_at": "2026-11-11T13:50:28.185Z",
-  "coverage_notes": [
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume.",
     {
       "discovered_links": [
@@ -41,6 +42,63 @@
       }
     }
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "A reconfigurable arbitrary retarder array as complex structured matter",
+      "year": 2025,
+      "citation_raw": "1) Chao He†*, Binguo Chen†, Zipei Song†, Zimo Zhao†, Yifei Ma†, Honghui He*, Lin Luo*, Tade Marozsak, An Aloysius Wang, Rui Xu, Peixiang Huang, Jiawen Li, Xuke Qiu, Yunqi Zhang, Bangshan Sun, Jiahe Cui, Yuxi Cai, Yun Zhang, Andong Wang, Mohan Wang, Patrick Salter, Julian AJ Fells, Ben Dai, Shaoxiong Liu, Limei Guo, Yonghong He, Hui Ma, Daniel J Royston, Steve J Elston, Qiwen Zhan, Chengwei Qiu, Stephen M Morris, Martin J Booth, Andrew Forbes, \"A reconfigurable arbitrary retarder array as complex structured matter.\" Nature Communications 16.1 (2025): 4902.",
+      "source_url": "https://voplab.com/publication/"
+    },
+    {
+      "title": "Intensity adaptive optics",
+      "year": 2025,
+      "citation_raw": "2) Zimo Zhao†, Yifei Ma†, Zipei Song†, Jacopo Antonello, Jiahe Cui, Binguo Chen, Jingyu Wang, Bangshan Sun, Honghui He, Lin Luo, Julian A.J. Fells, Steve J. Elston, Martin J. Booth, Stephen M. Morris, and Chao He*, \"Intensity adaptive optics.\" Light: Science & Applications 14.1 (2025): 128.",
+      "source_url": "https://voplab.com/publication/"
+    },
+    {
+      "title": "Topological Protection of Optical Skyrmions through Complex Media",
+      "year": 2024,
+      "citation_raw": "1) An Aloysius Wang*, Zimo Zhao, Yifei Ma, Yuxi Cai, Tade Marozsak, Binguo Chen, Honghui He, Lin Luo, Martin J Booth, Steve J Elston, Stephen M Morris, and Chao He*, \"Topological Protection of Optical Skyrmions through Complex Media.\"Light: Science & Applications 13.1 (2024): 314. (Annual Back Cover)",
+      "source_url": "https://voplab.com/publication/"
+    },
+    {
+      "title": "Topological Protection of Optical Skyrmions through Complex Media",
+      "year": 2023,
+      "citation_raw": "1) An Aloysius Wang*, Zimo Zhao, Yifei Ma, Yuxi Cai, Tade Marozsak, Binguo Chen, Honghui He, Lin Luo, Martin J Booth, Steve J Elston, Stephen M Morris, and Chao He*, \"Topological Protection of Optical Skyrmions through Complex Media.\"Light: Science & Applications 13.1 (2024): 314. (Annual Back Cover) 2023 and before",
+      "source_url": "https://voplab.com/publication/"
+    },
+    {
+      "title": "Vectorial adaptive optics",
+      "year": 2023,
+      "citation_raw": "1) Chao He*, Jacopo Antonello*, and Martin J. Booth*, \"Vectorial adaptive optics.\" eLight 3, no. 1 (2023): 23. (Cover Paper)",
+      "source_url": "https://voplab.com/publication/"
+    },
+    {
+      "title": "Towards higher-dimensional structured light",
+      "year": 2022,
+      "citation_raw": "2) Chao He*, Yijie Shen* and Andrew Forbes*, \"Towards higher-dimensional structured light.\"Light: Science & Applications 11.1 (2022): 1-17.",
+      "source_url": "https://voplab.com/publication/"
+    },
+    {
+      "title": "Revealing complex optical phenomena through vectorial metrics",
+      "year": 2022,
+      "citation_raw": "3) Chao He†*, Jintao Chang†, Patrick S. Salter†, Yuanxing Shen, Ben Dai, Pengcheng Li, Yihan Jin, Samlan Chandran Thodika, Mengmeng Li, Aziz Tariq, Jingyu Wang, Jacopo Antonello, Yang Dong, Ji Qi, Jianyu Lin, Daniel S. Elson, Min Zhang, Honghui He*, Hui Ma* and Martin J. Booth*, \"Revealing complex optical phenomena through vectorial metrics.\"Advanced Photonics 4.2 (2022): 026001. (Cover Paper)",
+      "source_url": "https://voplab.com/publication/"
+    },
+    {
+      "title": "Full Poincaré polarimetry enabled through physical inference",
+      "year": 2022,
+      "citation_raw": "4) Chao He*, Jianyu Lin, Jintao Chang, Jacopo Antonello, Ben Dai, Jingyu Wang, Jiahe Cui, Ji Qi, Min Wu, Daniel S. Elson, Peng Xi, Andrew Forbes, and Martin J. Booth, \"Full Poincaré polarimetry enabled through physical inference.\"Optica 9, no. 10 (2022): 1109-1114.",
+      "source_url": "https://voplab.com/publication/"
+    },
+    {
+      "title": "Complex vectorial optics through gradient index lens cascades",
+      "year": 2019,
+      "citation_raw": "6) Chao He*, Jintao Chang, Qi Hu, Jingyu Wang, Jacopo Antonello, Honghui He, Shaoxiong Liu, Jianyu Lin, Ben Dai, Daniel. S. Elson, Peng Xi, Hui Ma and Martin J Booth*, \"Complex vectorial optics through gradient index lens cascades.\" Nature Communications 10.1 (2019): 1-8. (Highlighted by Nature Photonics, etc.)",
+      "source_url": "https://voplab.com/publication/"
+    }
+  ]
 }

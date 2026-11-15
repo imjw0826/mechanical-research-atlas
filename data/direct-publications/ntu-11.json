@@ -3,10 +3,13 @@
   "university_key": "ntu",
   "pi": "Erkan Kayacan",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:50:43.858Z",
-  "coverage_notes": [
+  "lab_url": "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan",
+  "publication_urls": [
+    "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     {
       "profile_url": "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan",
       "resolved_url": "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan",
@@ -16,6 +19,57 @@
     },
     "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Robust Trajectory Tracking Error Model-Based Predictive Control for Unmanned Ground Vehicles",
+      "year": 2016,
+      "citation_raw": "E. Kayacan, H. Ramon and W. Saeys, \"Robust Trajectory Tracking Error Model-Based Predictive Control for Unmanned Ground Vehicles,\" in IEEE/ASME Transactions on Mechatronics, vol. 21, no. 2, pp. 806-814, April 2016, doi: 10.1109/TMECH.2015.2492984.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications"
+    },
+    {
+      "title": "Learning in Centralized Nonlinear Model Predictive Control: Application to an Autonomous Tractor-Trailer System",
+      "year": 2015,
+      "citation_raw": "E. Kayacan, E. Kayacan, H. Ramon and W. Saeys, \"Learning in Centralized Nonlinear Model Predictive Control: Application to an Autonomous Tractor-Trailer System,\" in IEEE Transactions on Control Systems Technology, vol. 23, no. 1, pp. 197-205, Jan. 2015, doi: 10.1109/TCST.2014.2321514.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications"
+    },
+    {
+      "title": "Control for String Stability of Cooperative Adaptive Cruise Control Systems,\" in IEEE Transactions on Intelligent Vehicles",
+      "year": 2017,
+      "citation_raw": "Control for String Stability of Cooperative Adaptive Cruise Control Systems,\" in IEEE Transactions on Intelligent Vehicles, vol. 2, no. 1, pp. 52-61, March 2017, doi: 10.1109/TIV.2017.2708607.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications"
+    },
+    {
+      "title": "Experimental Validation of Linear and Nonlinear MPC on an Articulated Unmanned Ground Vehicle",
+      "year": 2018,
+      "citation_raw": "E. Kayacan, W. Saeys, H. Ramon, C. Belta and J. M. Peschel, \"Experimental Validation of Linear and Nonlinear MPC on an Articulated Unmanned Ground Vehicle,\" in IEEE/ASME Transactions on Mechatronics, vol. 23, no. 5, pp. 2023-2030, Oct. 2018, doi: 10.1109/TMECH.2018.2854877.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications"
+    },
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "Zhang, Z., Kayacan, E., Thompson, B. et al. High precision control and deep learning-based corn stand counting algorithms for agricultural robot. Auton Robot 44, 1289–1302 (2020). https://doi.org/10.1007/s10514-020-09915-y",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "Kayacan, E., Chowdhary, G. Tracking Error Learning Control for Precise Mobile Robot Path Tracking in Outdoor Environment. J Intell Robot Syst 95, 975–986 (2019). https://doi.org/10.1007/s10846-018-0916-3",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications"
+    },
+    {
+      "title": "Closed-Loop Error Learning Control for Uncertain Nonlinear Systems With Experimental Validation on a Mobile Robot",
+      "year": 2019,
+      "citation_raw": "E. Kayacan, \"Closed-Loop Error Learning Control for Uncertain Nonlinear Systems With Experimental Validation on a Mobile Robot,\" in IEEE/ASME Transactions on Mechatronics, vol. 24, no. 5, pp. 2397-2405, Oct. 2019, doi: 10.1109/TMECH.2019.2932757.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications"
+    },
+    {
+      "title": "High-precision control of tracked field robots in the presence of unknown traction coefficients",
+      "year": 2018,
+      "citation_raw": "Kayacan E, Young SN, Peschel JM, Chowdhary G. High-precision control of tracked field robots in the presence of unknown traction coefficients. J Field Robotics. 2018; 35: 1050–1062. https://doi.org/10.1002/rob.21794",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications"
+    }
+  ]
 }

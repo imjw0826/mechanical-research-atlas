@@ -5,22 +5,73 @@
   "lab_name": "에너지 및 지속가능성 지향 나노과학연구실",
   "lab_url": "https://nets.postech.ac.kr/Adminnets/index.do",
   "publication_urls": [
-    "https://nets.postech.ac.kr/Adminnets/pub/domestics.do"
+    "https://me.postech.ac.kr/ko/page/professor11"
   ],
-  "accessed_at": "2026-11-12T13:55:04.533Z",
-  "coverage_notes": [
-    "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete.",
-    "Actual official lab publication page visited; visible text saved. Conservative quoted-title extraction only. Full category/pagination/detail and publication-status verification remains incomplete.",
-    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
-  ],
-  "status": "partial",
-  "papers": [],
   "investigation_stage": "full_site_attempted",
   "source_page_manifest": [
     {
       "url": "https://nets.postech.ac.kr/Adminnets/pub/domestics.do",
       "capture_kind": "browser_snapshot",
       "characters": 7030
+    }
+  ],
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete.",
+    "Actual official lab publication page visited; visible text saved. Conservative quoted-title extraction only. Full category/pagination/detail and publication-status verification remains incomplete.",
+    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "MAJOR RESEARCH ACHIEVEMENTS",
+      "year": 2006,
+      "citation_raw": "NETS 연구실은 에너지와 청정기술 응용분야에 적용할 수 있는 나노과학을 연구하며, 궁극적으로 에너지 및 지속가능성 면에서의 기술혁신에 이바지하려 한다. 1차원 및 2차원 물질로 구성된복합체 멤브레인, 나노수력학, 광전공학 및 전기화학 플랫폼을 설계하고 분석하여 저차원 공간애서의 특별한 물질 전달 현상을 이해하고, 이를 에너지, 환경, 바이오, 센서 분야 등에 응용하고자 한다. 저차원 공간의 전달현상에 대한 이해를 바탕으로 표면증강 라만분광법 기반의 초고감도 화학종 센싱기법에 기반한 생화합물징의 감지, 또는 리튬-물 배터리를 통한 에너지 및 수소생산과 같은 주제를 연구함으로써, 최종적으로 글로벌 에너지 및 지속가능성 문제 해결에 기여하는 기초공학적 지식을 창출한다. MAJOR RESEARCH ACHIEVEMENTS Fast mass transport through sub-2-nm-wide CNT interior (cover article of Science 2006)",
+      "source_url": "https://me.postech.ac.kr/ko/page/professor11"
+    },
+    {
+      "title": "diameter-selective synthesis of vertically aligned CNT arrays via temperature-gradient chemical vapor deposition and catalyst engineering (RSC Advances 2013",
+      "year": 2017,
+      "citation_raw": "Facile, diameter-selective synthesis of vertically aligned CNT arrays via temperature-gradient chemical vapor deposition and catalyst engineering (RSC Advances 2013; Scientific Reports 2017)",
+      "source_url": "https://me.postech.ac.kr/ko/page/professor11"
+    },
+    {
+      "title": "Gompertzian kinetics in the graphene synthesis on copper (Nano Letters 2013)",
+      "year": 2013,
+      "citation_raw": "Gompertzian kinetics in the graphene synthesis on copper (Nano Letters 2013)",
+      "source_url": "https://me.postech.ac.kr/ko/page/professor11"
+    },
+    {
+      "title": "Ultimate mass permeation across atomically thin porous graphene and invention of its enlarged-scale manufacturing (Science 2014",
+      "year": 2018,
+      "citation_raw": "Ultimate mass permeation across atomically thin porous graphene and invention of its enlarged-scale manufacturing (Science 2014; Science Advances 2018)",
+      "source_url": "https://me.postech.ac.kr/ko/page/professor11"
+    },
+    {
+      "title": "Invention of CNT-scaffolded surface-enhanced Raman spectroscopy for ultrasensitive chemical detection (cover article of Advanced Matererials 2013)",
+      "year": 2013,
+      "citation_raw": "Invention of CNT-scaffolded surface-enhanced Raman spectroscopy for ultrasensitive chemical detection (cover article of Advanced Matererials 2013)",
+      "source_url": "https://me.postech.ac.kr/ko/page/professor11"
+    },
+    {
+      "title": "Polymerization protocol of nanofilm from a porous scaffold of CNT buckypaper and porous graphene (ACS Applied Matererials & Interfaces 2018",
+      "year": 2018,
+      "citation_raw": "Polymerization protocol of nanofilm from a porous scaffold of CNT buckypaper and porous graphene (ACS Applied Matererials & Interfaces 2018; Science Advances 2018)",
+      "source_url": "https://me.postech.ac.kr/ko/page/professor11"
+    },
+    {
+      "title": "Lamellar membrane having subnanometric channels out of 2D materials stacking (Nano Letters 2017)",
+      "year": 2017,
+      "citation_raw": "Lamellar membrane having subnanometric channels out of 2D materials stacking (Nano Letters 2017)",
+      "source_url": "https://me.postech.ac.kr/ko/page/professor11"
+    },
+    {
+      "title": "Femtomolar ultrasensitive chemical sensor via surface enhanced Raman spectroscopy (cover article of Advanced Ma - terials 2013)",
+      "year": 2013,
+      "citation_raw": "Femtomolar ultrasensitive chemical sensor via surface enhanced Raman spectroscopy (cover article of Advanced Ma - terials 2013)",
+      "source_url": "https://me.postech.ac.kr/ko/page/professor11"
     }
   ]
 }

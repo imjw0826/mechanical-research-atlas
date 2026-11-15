@@ -3,16 +3,868 @@
   "university_key": "nus",
   "pi": "ZHANG Huangwei",
   "lab_name": null,
-  "lab_url": null,
+  "lab_url": "https://blog.nus.edu.sg/huangwei/groupmember/",
   "publication_urls": [
-    "https://blog.nus.edu.sg/huangwei/publications/"
+    "https://blog.nus.edu.sg/huangwei/journal-publication/"
   ],
-  "accessed_at": "2026-11-11T13:57:43.644Z",
-  "coverage_notes": [
-    "Official page heading: The Laboratory for Energy Innovation / Main menu / Group Member / Archives / Meta",
-    "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
-    "Publication page visible text captured; structured extraction pending."
-  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Ignition characteristics of a supersonic combustor with parallel dual combustion zones",
+      "year": 2026,
+      "citation_raw": "Li, M., An, B., Li, P., Sun, M., Wang, T., Sun, J., Wang, Y., & Zhang, H., (2026). Ignition characteristics of a supersonic combustor with parallel dual combustion zones. AIAA Journal, accepted. doi.org/10.2514/1.J065894",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of Soret diffusion and thermal stratification on ignition and flame propagation in cryogenic hydrogen/air mixtures, Fuel",
+      "year": 2026,
+      "citation_raw": "Wang, Y., Xie, S., Sun, J., Shan, R., Shaik, S. M., & Zhang, H. (2026). Effects of Soret diffusion and thermal stratification on ignition and flame propagation in cryogenic hydrogen/air mixtures. Fuel, 407. doi:10.1016/j.fuel.2025.137387",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Wedge-stabilized oblique detonation in n-dodecane spray considering flight altitude effects, Fuel",
+      "year": 2026,
+      "citation_raw": "Wang, Y., Li, S., Xie, S., & Zhang, H. (2026). Wedge-stabilized oblique detonation in n-dodecane spray considering flight altitude effects. Fuel, 405. doi:10.1016/j.fuel.2025.136730",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Simulation of single ammonia droplet combustion at elevated pressures, Combustion and Flame",
+      "year": 2026,
+      "citation_raw": "Li, S., & Zhang, H. (2026). Simulation of single ammonia droplet combustion at elevated pressures. Combustion and Flame, 283. doi:10.1016/j.combustflame.2025.114534",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Numerical study of laminar premixed ammonia/air flames enriched with nitrogen oxides, Combustion and Flame",
+      "year": 2026,
+      "citation_raw": "Xie, S., Ma, P., Li, J., Rojas Chávez, S. B., Soni, S. K., Hu, H., & Zhang, H. (2026). Numerical study of laminar premixed ammonia/air flames enriched with nitrogen oxides. Combustion and Flame, 283. doi:10.1016/j.combustflame.2025.114518",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Combustion of micro aluminum particle suspension behind an incident shock wave",
+      "year": 2026,
+      "citation_raw": "Zhang, P., Zhang, Y. F., Chen, Z., & Zhang, H. (2026). Combustion of micro aluminum particle suspension behind an incident shock wave. International Journal of Multiphase Flow, 194. doi:10.1016/j.ijmultiphaseflow.2025.105429",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Multistage combustion and reaction coupling of micro-sized aluminum particles in hot steam",
+      "year": 2025,
+      "citation_raw": "Ding, H., Zhang, P., Li, S., Chavez, S. B. R., Zhang, H., Ai, F., . . . Zhang, H. (2025). Multistage combustion and reaction coupling of micro-sized aluminum particles in hot steam. Applications in Energy and Combustion Science, 24. doi:10.1016/j.jaecs.2025.100423",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Multiphysical modelling of selective laser melting: Metal phase change effects",
+      "year": 2025,
+      "citation_raw": "Liu, C., Zhang, Y. F., & Zhang, H. (2025). Multiphysical modelling of selective laser melting: Metal phase change effects. Thermal Science and Engineering Progress, 68. doi:10.1016/j.tsep.2025.104309",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Extinction limit and NO/N2O formation of methanol/ammonia counterflow diffusion flames under elevated conditions, Combustion and Flame",
+      "year": 2025,
+      "citation_raw": "Ma, P., Xie, S., Li, J., Chavez, S. B. R., Hu, H., & Zhang, H. (2025). Extinction limit and NO/N2O formation of methanol/ammonia counterflow diffusion flames under elevated conditions. Combustion and Flame, 282. doi:10.1016/j.combustflame.2025.114520",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Experimental study on expanding hydrogen/air turbulent premixed flames under high turbulence intensities, Combustion and Flame",
+      "year": 2025,
+      "citation_raw": "Li, J., Zhang, H., & Yang, J. (2025). Experimental study on expanding hydrogen/air turbulent premixed flames under high turbulence intensities. Combustion and Flame, 282. doi:10.1016/j.combustflame.2025.114521",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Unsteady dynamics and mode transitions in hybrid hydrogen–aluminum detonations, Combustion and Flame",
+      "year": 2025,
+      "citation_raw": "Zhang, P., Xu, Y., Zhang, H., & Chen, Z. (2025). Unsteady dynamics and mode transitions in hybrid hydrogen–aluminum detonations. Combustion and Flame, 281. doi:10.1016/j.combustflame.2025.114438",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Numerical investigation of detonation initiation and propagation in non-uniformly cracked ammonia and air mixtures, Combustion and Flame",
+      "year": 2025,
+      "citation_raw": "Sun, J., Wang, Y., Shaik, S. M., & Zhang, H. (2025). Numerical investigation of detonation initiation and propagation in non-uniformly cracked ammonia and air mixtures. Combustion and Flame, 281. doi:10.1016/j.combustflame.2025.114439",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Dynamic surrogate-assisted particle swarm optimization for chemical kinetic mechanisms",
+      "year": 2025,
+      "citation_raw": "Hu, H., Li, M., & Zhang, H. (2025). Dynamic surrogate-assisted particle swarm optimization for chemical kinetic mechanisms. Computers and Chemical Engineering, 202. doi:10.1016/j.compchemeng.2025.109294",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Time-dependent evolution of morphologies and lattice defects in hydrothermal synthesized ceria-zirconia solid solutions for catalytic combustion of diesel soot, Fuel Processing Technology",
+      "year": 2025,
+      "citation_raw": "Yang, Z., Chen, Z., Zhang, N., Zhou, Y., Luo, D., Jin, T., & Zhang, H. (2025). Time-dependent evolution of morphologies and lattice defects in hydrothermal synthesized ceria-zirconia solid solutions for catalytic combustion of diesel soot. Fuel Processing Technology, 276. doi:10.1016/j.fuproc.2025.108294",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "On the extinction and burning limits of stretched premixed ammonia flames at elevated pressures, Combustion and Flame",
+      "year": 2025,
+      "citation_raw": "Xie, S., & Zhang, H. (2025). On the extinction and burning limits of stretched premixed ammonia flames at elevated pressures. Combustion and Flame, 279. doi:10.1016/j.combustflame.2025.114248",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Simulations of n-dodecane spray flames in a model gas turbine combustor: Low-temperature chemistry effects, Fuel",
+      "year": 2025,
+      "citation_raw": "Lu, J., Liu, E., Liu, X., Cao, C., Xie, S., Li, S., & Zhang, H. (2025). Simulations of n-dodecane spray flames in a model gas turbine combustor: Low-temperature chemistry effects. Fuel, 394. doi:10.1016/j.fuel.2025.135061",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "The role of isolators in two-phase kerosene/air rotating detonation engines, Defence Technology",
+      "year": 2025,
+      "citation_raw": "Cao, W., Wang, F., Weng, C., & Zhang, H. (2025). The role of isolators in two-phase kerosene/air rotating detonation engines. Defence Technology, 49, 260-274. doi:10.1016/j.dt.2025.02.023",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "The reduced mechanism of ammonia/hydrogen mixture for detonation",
+      "year": 2025,
+      "citation_raw": "Shi, W., Wang, Z., Zhang, H., Zhang, Y., Zhang, Z., & Zhao, X. (2025). The reduced mechanism of ammonia/hydrogen mixture for detonation. International Journal of Hydrogen Energy, 139, 481-495. doi:10.1016/j.ijhydene.2025.05.174",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Insights into combustion and emission characteristics of ammonia co-firing with hydrogen-rich gas for gas turbine applications",
+      "year": 2025,
+      "citation_raw": "Liu, Z., Bin, S., Chen, S., Jiang, J., Zhang, Y., Shi, X., . . . Li, Y. (2025). Insights into combustion and emission characteristics of ammonia co-firing with hydrogen-rich gas for gas turbine applications. Energy, 324. doi:10.1016/j.energy.2025.135967",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Development of compact mechanism for lithium-ion battery venting gas fires using Cantera ordinary differential equation neural network algorithm",
+      "year": 2025,
+      "citation_raw": "Li, M., Hu, H., Lu, L., & Zhang, H. (2025). Development of compact mechanism for lithium-ion battery venting gas fires using Cantera ordinary differential equation neural network algorithm. Applications in Energy and Combustion Science, 22. doi:10.1016/j.jaecs.2025.100326",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Numerical simulations of direct detonation initiation and propagation in methane/air mixtures containing coal particles, Combustion and Flame",
+      "year": 2025,
+      "citation_raw": "Li, S., Li, S., Xie, S., Xu, Y., Gao, K., & Zhang, H. (2025). Numerical simulations of direct detonation initiation and propagation in methane/air mixtures containing coal particles. Combustion and Flame, 275. doi:10.1016/j.combustflame.2025.114120",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Multi-physics simulation and risk analysis of internal thermal runaway propagation in lithium-ion batteries, eTransportation",
+      "year": 2025,
+      "citation_raw": "Ding, Y., Lu, L., & Zhang, H. (2025). Multi-physics simulation and risk analysis of internal thermal runaway propagation in lithium-ion batteries. eTransportation, 24. doi:10.1016/j.etran.2025.100427",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Detonative wavelets in quasi-detonations with fine coal char particles, Combustion and Flame",
+      "year": 2025,
+      "citation_raw": "Zhang, J., Li, S., Meng, Q., Li, S., & Zhang, H. (2025). Detonative wavelets in quasi-detonations with fine coal char particles. Combustion and Flame, 275. doi:10.1016/j.combustflame.2025.114101",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Droplet fragmentation effects on detonations in n-dodecane mists, Combustion and Flame",
+      "year": 2025,
+      "citation_raw": "Meng, Q., Li, S., Xu, Y., & Zhang, H. (2025). Droplet fragmentation effects on detonations in n-dodecane mists. Combustion and Flame, 273. doi:10.1016/j.combustflame.2024.113944",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Theoretical analysis of quasi-steady evaporation in compositionally distinct droplet pairs, Combustion and Flame",
+      "year": 2025,
+      "citation_raw": "Li, S., & Zhang, H. (2025). Theoretical analysis of quasi-steady evaporation in compositionally distinct droplet pairs. Combustion and Flame, 272. doi:10.1016/j.combustflame.2024.113894",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of combustor wall temperature on the outer recirculation zone combustion modes transition in lean premixed DME/air swirling flames, Fuel",
+      "year": 2025,
+      "citation_raw": "Lin, W., Zhang, W., An, Z., Wang, J., Huang, Z., & Zhang, H. (2025). Effects of combustor wall temperature on the outer recirculation zone combustion modes transition in lean premixed DME/air swirling flames. Fuel, 381. doi:10.1016/j.fuel.2024.133231",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Two-stage optimization for chemical kinetic mechanisms with improved deep reinforcement learning",
+      "year": 2025,
+      "citation_raw": "Hu, H., & Zhang, H. (2025). Two-stage optimization for chemical kinetic mechanisms with improved deep reinforcement learning. Proceedings of the Combustion Institute, 41. doi:10.1016/j.proci.2025.105953",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of reactant stratification on the propagation, NOx formation and fuel slip of ammonia/air flames",
+      "year": 2025,
+      "citation_raw": "Xie, S., Zirwes, T., & Zhang, H. (2025). Effects of reactant stratification on the propagation, NOx formation and fuel slip of ammonia/air flames. Proceedings of the Combustion Institute, 41. doi:10.1016/j.proci.2025.105954",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Detonation chemistry and propagation characteristics in partially cracked ammonia",
+      "year": 2025,
+      "citation_raw": "Sun, J., Shaik, S. M., Bo Nguyen, V., & Zhang, H. (2025). Detonation chemistry and propagation characteristics in partially cracked ammonia. Proceedings of the Combustion Institute, 41. doi:10.1016/j.proci.2025.105910",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of reactant stratification on the propagation, NOx formation and fuel slip of ammonia/air flames",
+      "year": 2024,
+      "citation_raw": "Xie, S., Zirwes, T., & Zhang, H. (2025). Effects of reactant stratification on the propagation, NOx formation and fuel slip of ammonia/air flames. Proceedings of the Combustion Institute, 41. doi:10.1016/j.proci.2025.105954 Sun, J., Shaik, S. M., Bo Nguyen, V., & Zhang, H. (2025). Detonation chemistry and propagation characteristics in partially cracked ammonia. Proceedings of the Combustion Institute, 41. doi:10.1016/j.proci.2025.105910 Wang, Z., Gou, X., Meng, Q., & Zhang, H.* (2024). Effects of water sprays on hydrogen autoignition in heated air. Process Safety and Environmental Protection. Accepted and In Press.",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Autoignition of premixed hydrogen/air mixtures with uniformly dispersed carbon particles",
+      "year": 2024,
+      "citation_raw": "Zhang, J., Li, S., Li, S., & Zhang, H.* (2024). Autoignition of premixed hydrogen/air mixtures with uniformly dispersed carbon particles. International Journal of Hydrogen Energy. Accepted and In Press.",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Bouncing dynamics of binary equal-sized high-viscosity molten glass droplets in head-on collisions",
+      "year": 2024,
+      "citation_raw": "Hu, X., Yum Z., Tao, L., Zhang, H.*, & Li, S. (2024). Bouncing dynamics of binary equal-sized high-viscosity molten glass droplets in head-on collisions. Physics of Fluids. Accepted and In Press.",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Heat release multiplicity and subcritical-supercritical droplet transition in autoignition of n-dodecane sprays under detonation-relevant conditions",
+      "year": 2024,
+      "citation_raw": "Wang, Y., Li, S., Guo, H., & Zhang, H. (2024). Heat release multiplicity and subcritical-supercritical droplet transition in autoignition of n-dodecane sprays under detonation-relevant conditions. International Journal of Heat and Mass Transfer, 235. doi:1016/j.ijheatmasstransfer.2024.126147",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "BatteryFOAM: A comprehensive electrochemical-electrical-thermal solver with OpenFOAM for computational battery dynamics",
+      "year": 2024,
+      "citation_raw": "Ding, Y., Lu, L., & Zhang, H. (2024). BatteryFOAM: A comprehensive electrochemical-electrical-thermal solver with OpenFOAM for computational battery dynamics. Applied Energy, 376. doi:1016/j.apenergy.2024.124145",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Simulation of lithium-ion battery thermal runaway considering active material volume fraction effect",
+      "year": 2024,
+      "citation_raw": "Ding, Y., Lu, L., & Zhang, H. (2024). Simulation of lithium-ion battery thermal runaway considering active material volume fraction effect. International Journal of Thermal Sciences, 206. doi:1016/j.ijthermalsci.2024.109336",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Theoretical insights into transient gas and liquid phase effects on the evaporation and autoignition of stationary droplets, Combustion and Flame",
+      "year": 2024,
+      "citation_raw": "Li, S., & Zhang, H. (2024). Theoretical insights into transient gas and liquid phase effects on the evaporation and autoignition of stationary droplets. Combustion and Flame, 268. doi:1016/j.combustflame.2024.113626",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Micron-sized aluminum particle combustion under elevated gas condition: Equivalence ratio effect",
+      "year": 2024,
+      "citation_raw": "Zhang, P., Cao, C., & Zhang, H. (2024). Micron-sized aluminum particle combustion under elevated gas condition: Equivalence ratio effect. Applications In Energy and Combustion Science, 19, 11 pages. doi:1016/j.jaecs.2024.100283",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Existence and chemistry of stretched ammonia/hydrogen weak flames at elevated pressures, Combustion and Flame",
+      "year": 2024,
+      "citation_raw": "Xie, S., & Zhang, H. (2024). Existence and chemistry of stretched ammonia/hydrogen weak flames at elevated pressures. Combustion and Flame, 266. doi:1016/j.combustflame.2024.113528",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Direct initiation of hydrogen detonation in fine water sprays",
+      "year": 2024,
+      "citation_raw": "Xu, Y., Li, S., Meng, Q., Zhang, J., & Zhang, H. (2024). Direct initiation of hydrogen detonation in fine water sprays. Physics of Fluids, 36(8), 11 pages. doi:1063/5.0223655",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Numerical study of head-on collisions between two glass microsphere droplets",
+      "year": 2024,
+      "citation_raw": "Hu, X., Li, H., Zhang, H., Li, S., Xu, C., & Xie, N. (2024). Numerical study of head-on collisions between two glass microsphere droplets. International Journal of Heat and Fluid Flow, 107. doi:1016/j.ijheatfluidflow.2024.109376",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Large eddy simulation of a supersonic lifted hydrogen flame: Impacts of Lewis, turbulent Schmidt and Prandtl numbers",
+      "year": 2024,
+      "citation_raw": "Zhu, R., Huang, Z., Xu, C., Fang, X., Zhang, H., & Davy, M. (2024). Large eddy simulation of a supersonic lifted hydrogen flame: Impacts of Lewis, turbulent Schmidt and Prandtl numbers. Physics of Fluids, 36(7), 18 pages. doi:1063/5.0214630",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Numerical investigation of nanosecond plasma-assisted ignition in blast furnace gas, Fuel",
+      "year": 2024,
+      "citation_raw": "You, B., Li, S., Zheng, H., Li, S., & Zhang, H. (2024). Numerical investigation of nanosecond plasma-assisted ignition in blast furnace gas. Fuel, 365. doi:1016/j.fuel.2024.131244",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Hydrogen explosion and detonation mitigation by water sprays: A mini review",
+      "year": 2024,
+      "citation_raw": "Xu, Y., & Zhang, H. (2024). Hydrogen explosion and detonation mitigation by water sprays: A mini review. International Journal of Hydrogen Energy, 66, 242-257. doi:1016/j.ijhydene.2024.04.050",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Analysis of two interactive burning droplets with different temperatures",
+      "year": 2024,
+      "citation_raw": "Li, S., & Zhang, H. (2024). Analysis of two interactive burning droplets with different temperatures. Journal of Fluid Mechanics, 986, 32 pages. doi:1017/jfm.2024.265",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Simulations of n-dodecane/oxygen/nitrogen cellular detonations, Acta Astronautica",
+      "year": 2024,
+      "citation_raw": "Meng, Q., Xu, C., Zhang, L., & Zhang, H. (2024). Simulations of n-dodecane/oxygen/nitrogen cellular detonations. Acta Astronautica, 218, 221-231. doi:1016/j.actaastro.2024.02.034",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Development on risk assessment model of urban ventilation based on COVID-19 pollution——A case study of an innovation base in Chongqing, Building and Environment",
+      "year": 2024,
+      "citation_raw": "Li, Y., Zhang, H., Yao, R., & Li, Z. (2024). Development on risk assessment model of urban ventilation based on COVID-19 pollution——A case study of an innovation base in Chongqing. Building and Environment, 255. doi:1016/j.buildenv.2024.111431",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Exploring on the prediction model of human skin temperature and rectal temperature under heat stress, Building and Environment",
+      "year": 2024,
+      "citation_raw": "Li, Y., Yao, R., Zhang, H., & Du, C. (2024). Exploring on the prediction model of human skin temperature and rectal temperature under heat stress. Building and Environment, 254. doi:1016/j.buildenv.2024.111373",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Instabilities of a circular moderately dense particle cloud impacted by an incident shock",
+      "year": 2024,
+      "citation_raw": "Zhang, P., & Zhang, H. (2024). Instabilities of a circular moderately dense particle cloud impacted by an incident shock. International Journal of Multiphase Flow, 174. doi:1016/j.ijmultiphaseflow.2024.104787",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Hydrogen flame and detonation physics",
+      "year": 2024,
+      "citation_raw": "Zhang, H., Ng, H. D., Chen, Z., & Wen, J. (2024). Hydrogen flame and detonation physics. PHYSICS OF FLUIDS, 36(3), 3 pages. doi:1063/5.0203273",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Kinetic studies of ignition of coal char particle suspension in hot air, Fuel",
+      "year": 2024,
+      "citation_raw": "Zhang, P., Zhang, H., & Zhang, Y. F. (2024). Kinetic studies of ignition of coal char particle suspension in hot air. Fuel, 357. doi:1016/j.fuel.2023.129977",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Explosion limit of hydrogen/oxygen mixture with water vapor addition",
+      "year": 2024,
+      "citation_raw": "Wang, Z., Gou, X., & Zhang, H. (2024). Explosion limit of hydrogen/oxygen mixture with water vapor addition. International Journal of Hydrogen Energy, 50, 772-781. doi:1016/j.ijhydene.2023.06.321",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Semi-confined layered kerosene/air two-phase detonations bounded by nitrogen gas, Combustion and Flame",
+      "year": 2023,
+      "citation_raw": "Wang, F., Weng, C., & Zhang, H.* (2023). Semi-confined layered kerosene/air two-phase detonations bounded by nitrogen gas. Combustion and Flame, 258. doi:1016/j.combustflame.2023.113104",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Detailed simulations of one-dimensional detonation propagation in dilute n-heptane spray and air mixtures",
+      "year": 2023,
+      "citation_raw": "Huang, Z., Xu, Y., Li, S., Meng, Q., & Zhang, H.* (2023). Detailed simulations of one-dimensional detonation propagation in dilute n-heptane spray and air mixtures. Physics Of Fluids, 35(12), 12 pages. doi:1063/5.0173991",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Autoignition of methane/coal particle/air mixture under constant-volume conditions, Combustion and Flame",
+      "year": 2023,
+      "citation_raw": "Li, S., Zhang, J., Xie, S., Gao, K., & Zhang, H.* (2023). Autoignition of methane/coal particle/air mixture under constant-volume conditions. Combustion and Flame, 258. doi:1016/j.combustflame.2023.113111",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Analysis of evaporation and autoignition of droplet clouds with a unit cell model considering transient evaporating boundary layer",
+      "year": 2023,
+      "citation_raw": "Li, S., Zhang, H.*, & Law, C. K. (2023). Analysis of evaporation and autoignition of droplet clouds with a unit cell model considering transient evaporating boundary layer. International Journal Of Heat And Mass Transfer, 214, 19 pages. doi:1016/j.ijheatmasstransfer.2023.124239",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Autoignition of two-phase n-heptane/air mixtures behind an oblique shock: Insights into spray oblique detonation initiation, Combustion and Flame",
+      "year": 2023,
+      "citation_raw": "Guo, H., Meng, Q., Xu, Y., & Zhang, H.* (2023). Autoignition of two-phase n-heptane/air mixtures behind an oblique shock: Insights into spray oblique detonation initiation. Combustion and Flame, 256. doi:1016/j.combustflame.2023.112992",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Direct detonation initiation in hydrogen/air mixture: effects of compositional gradient and hotspot condition",
+      "year": 2023,
+      "citation_raw": "Jia, X., Xu, Y., Zheng, H., & Zhang, H.* (2023). Direct detonation initiation in hydrogen/air mixture: effects of compositional gradient and hotspot condition. Journal Of Fluid Mechanics, 970, 29 pages. doi:1017/jfm.2023.512",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Transmission of hydrogen detonation across a curtain of dilute inert particles, Combustion and Flame",
+      "year": 2023,
+      "citation_raw": "Xu, Y., Zhang, P., Meng, Q., Li, S., & Zhang, H.* (2023). Transmission of hydrogen detonation across a curtain of dilute inert particles. Combustion and Flame, 254. doi:1016/j.combustflame.2023.112834",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Gas-phase transient effects on droplet evaporation and ignition, Combustion and Flame",
+      "year": 2023,
+      "citation_raw": "Li, S., Zhang, H.*, & Law, C. K. (2023). Gas-phase transient effects on droplet evaporation and ignition. Combustion and Flame, 254. doi:1016/j.combustflame.2023.112840",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Analysis of flame instability in low-emission tower-type gas turbine combustor with multi-stage methane injection, Fuel",
+      "year": 2023,
+      "citation_raw": "Liu, E., Lu, J., Cao, C., Liu, X.*, Zheng, H., & Zhang, H.* (2023). Analysis of flame instability in low-emission tower-type gas turbine combustor with multi-stage methane injection. Fuel, 344. doi:1016/j.fuel.2023.128108",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Impedance analysis of PEG plasticized PEO-based composite polymer electrolytes for sodium-ion batteries",
+      "year": 2023,
+      "citation_raw": "Xu, X., Wang, Y.*, Lu, L., & Zhang, H.* (2023). Impedance analysis of PEG plasticized PEO-based composite polymer electrolytes for sodium-ion batteries. Functional Materials Letters, 16(3-4). doi:1142/S1793604723400167",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Battery material thermal instability and side reaction for lithium-ion battery thermal runaway: A short review",
+      "year": 2023,
+      "citation_raw": "Ding, Y., Lu, L., & Zhang, H.* (2023). Battery material thermal instability and side reaction for lithium-ion battery thermal runaway: A short review. Functional Materials Letters, 16(3-4). doi:1142/S1793604723400106",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Ion Conduction in Composite Polymer Electrolytes: Potential Electrolytes for Sodium-Ion Batteries",
+      "year": 2023,
+      "citation_raw": "Xu, X., Wang, Y.*, Yi, Q., Wang, X., Camacho, R. A. P., Kungl, H., . . . Lu, L.*, & Zhang, H.* (2023). Ion Conduction in Composite Polymer Electrolytes: Potential Electrolytes for Sodium-Ion Batteries. CHEMSUSCHEM, 16(8), 18 pages. doi:1002/cssc.202202152",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Structure and dynamics of spray detonation in n-heptane droplet/vapor/air mixtures, Combustion and Flame",
+      "year": 2023,
+      "citation_raw": "Meng, Q., Zhao, M., Xu, Y., Zhang, L., & Zhang, H.* (2023). Structure and dynamics of spray detonation in n-heptane droplet/vapor/air mixtures. Combustion and Flame, 249. doi:1016/j.combustflame.2022.112603",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Spark-ignited kernel dynamics in fine ethanol sprays and their relations with minimum ignition energy, Combustion and Flame",
+      "year": 2023,
+      "citation_raw": "Li, Q., & Zhang, H.* (2023). Spark-ignited kernel dynamics in fine ethanol sprays and their relations with minimum ignition energy. Combustion and Flame, 249. doi:1016/j.combustflame.2023.112622",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of dilute coal char particle suspensions on propagating methane detonation wave, Combustion and Flame",
+      "year": 2023,
+      "citation_raw": "Shi, J., Zhang, P., Xu, Y., Ren, W., & Zhang, H.* (2023). Effects of dilute coal char particle suspensions on propagating methane detonation wave. Combustion and Flame, 249. doi:1016/j.combustflame.2023.112618",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Modeling particle collisions in moderately dense curtain impacted by an incident shock wave",
+      "year": 2023,
+      "citation_raw": "Zhang, P., Zhang, H.*, Zhang, Y. F., Li, S., & Meng, Q. (2023). Modeling particle collisions in moderately dense curtain impacted by an incident shock wave. Physics Of Fluids, 35(2), 19 pages. doi:1063/5.0138088",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Rational design of hierarchically micrometer scaled macro-mesoporous ceria-zirconia composites for enhancing diesel soot catalytic combustion performance, Molecular Catalysis",
+      "year": 2023,
+      "citation_raw": "Yang, Z.*, Chen, Z., Huang, Y., Zhang, N., Li, Y., & Zhang, H.* (2023). Rational design of hierarchically micrometer scaled macro-mesoporous ceria-zirconia composites for enhancing diesel soot catalytic combustion performance. Molecular Catalysis, 535. doi:1016/j.mcat.2022.112825",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Structure and generation mechanism of blue whirls",
+      "year": 2023,
+      "citation_raw": "Li, S., Yao, Q.*, Law, C. K., Zhuo, J., & Zhang, H. (2023). Structure and generation mechanism of blue whirls. Proceedings of the Combustion Institute, 39(3), 3725-3733. doi:1016/j.proci.2022.10.003",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Ignition limit and shock-to-detonation transition mode of n -heptane/air mixture in high-speed wedge flows",
+      "year": 2023,
+      "citation_raw": "Guo, H., Xu, Y., Zheng, H., & Zhang, H.* (2023). Ignition limit and shock-to-detonation transition mode of n -heptane/air mixture in high-speed wedge flows. Proceedings Of the Combustion Institute, 39(4), 4771-4780. doi:1016/j.proci.2022.08.082",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Forced ignition and oscillating flame propagation in fine ethanol sprays",
+      "year": 2023,
+      "citation_raw": "Li, Q., & Zhang, H.* (2023). Forced ignition and oscillating flame propagation in fine ethanol sprays. PROCEEDINGS OF THE COMBUSTION INSTITUTE, 39(2), 2599-2608. doi:1016/j.proci.2022.07.125",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Detailed chemistry modeling of rotating detonations with dilute n-heptane sprays and preheated air",
+      "year": 2023,
+      "citation_raw": "Jin, S., Xu, C., Zheng, H., & Zhang, H.* (2023). Detailed chemistry modeling of rotating detonations with dilute n-heptane sprays and preheated air. Proceedings Of the Combustion Institute, 39(4), 4761-4769. doi:1016/j.proci.2022.08.075",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of platinum high-Temperature redispersion on Pt/Al2O3 diesel oxidation catalyst for nitric oxide oxidation and its reaction pathway",
+      "year": 2022,
+      "citation_raw": "Gao, B., Zhang, N., Zhang, H., Qiu, R., Chen, Z., Li, Y., & Yang, Z.* (2022). Effects of platinum high-Temperature redispersion on Pt/Al2O3 diesel oxidation catalyst for nitric oxide oxidation and its reaction pathway. Journal of Environmental Chemical Engineering, 10(6). doi:1016/j.jece.2022.108669",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "On the evolution of fuel droplet evaporation zone and its interaction with flame front in ignition of spray flames, Combustion Theory And Modelling",
+      "year": 2022,
+      "citation_raw": "Li, Q., Shu, C., & Zhang, H.* (2022). On the evolution of fuel droplet evaporation zone and its interaction with flame front in ignition of spray flames. Combustion Theory And Modelling, 26(7), 1131-1158. doi:1080/13647830.2021.2002416",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Interactions between a propagating detonation wave and circular water cloud in hydrogen/air mixture, Combustion and Flame",
+      "year": 2022,
+      "citation_raw": "Xu, Y., & Zhang, H.* (2022). Interactions between a propagating detonation wave and circular water cloud in hydrogen/air mixture. Combustion and Flame, 245. doi:1016/j.combustflame.2022.112369",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Numerical investigation of the response of turbulent swirl non-premixed flames to air flow oscillations",
+      "year": 2022,
+      "citation_raw": "Giusti, A.*, Zhang, H., Kypraiou, A. M., Allison, P. M., & Mastorakos, E. (2022). Numerical investigation of the response of turbulent swirl non-premixed flames to air flow oscillations. International Journal of Spray and Combustion Dynamics, 14(3-4), 229-237. doi:1177/17568277221114944",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Analysis of the ignition of hydrogen/air mixtures induced by a hot particle",
+      "year": 2022,
+      "citation_raw": "Wang, Y., Li, S., Wang, Y., Yu, D.*, Zhang, H., & Chen, Z. (2022). Analysis of the ignition of hydrogen/air mixtures induced by a hot particle. Physical Chemistry Chemical Physics, 24(35), 21188-21197. doi:1039/d2cp02409h",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Ignition and deflagration-to-detonation transition modes in ethylene/air mixtures behind a reflected shock",
+      "year": 2022,
+      "citation_raw": "Huang, Z., & Zhang, H.* (2022). Ignition and deflagration-to-detonation transition modes in ethylene/air mixtures behind a reflected shock. Physics Of Fluids, 34(8), 15 pages. doi:1063/5.0103013",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Pulsating propagation and extinction of hydrogen detonations in ultrafine water sprays, Combustion and Flame",
+      "year": 2022,
+      "citation_raw": "Xu, Y., & Zhang, H.* (2022). Pulsating propagation and extinction of hydrogen detonations in ultrafine water sprays. Combustion and Flame, 241. doi:1016/j.combustflame.2022.112086",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "On the evolutions of induction zone structure in wedge-stabilized oblique detonation with water mist flows, Combustion and Flame",
+      "year": 2022,
+      "citation_raw": "Guo, H., Xu, Y., Li, S., & Zhang, H.* (2022). On the evolutions of induction zone structure in wedge-stabilized oblique detonation with water mist flows. Combustion and Flame, 241. doi:1016/j.combustflame.2022.112122",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Pulsating one-dimensional detonation in ammonia-hydrogen-air mixtures",
+      "year": 2022,
+      "citation_raw": "Zhu, R., Fang, X.*, Xu, C., Zhao, M., Zhang, H., & Davy, M. (2022). Pulsating one-dimensional detonation in ammonia-hydrogen-air mixtures. International Journal of Hydrogen Energy, 47(50), 21517-21536. doi:1016/j.ijhydene.2022.04.265",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Numerical simulations of vapor kerosene/air rotating detonation engines with different slot inlet configurations, Acta Astronautica",
+      "year": 2022,
+      "citation_raw": "Wang, F., Zhang, H., Bai, Q.*, & Weng, C. (2022). Numerical simulations of vapor kerosene/air rotating detonation engines with different slot inlet configurations. Acta Astronautica, 194, 286-300. doi:1016/j.actaastro.2022.02.015",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Critical condition and transient evolution of methane detonation extinction by fine water droplet curtains, Fuel",
+      "year": 2022,
+      "citation_raw": "Shi, J., Xu, Y., Ren, W., & Zhang, H.* (2022). Critical condition and transient evolution of methane detonation extinction by fine water droplet curtains. Fuel, 315, 14 pages. doi:1016/j.fuel.2022.123133",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Simulations of rotating detonation combustion with in–situ evaporating bi-disperse n-heptane sprays, Fuel",
+      "year": 2022,
+      "citation_raw": "Jin, S., Zhang, H.*, Zhao, N., & Zheng, H. (2022). Simulations of rotating detonation combustion with in–situ evaporating bi-disperse n-heptane sprays. Fuel, 314, 15 pages. doi:1016/j.fuel.2021.123087",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Large eddy simulation of a supersonic lifted hydrogen flame with sparse-Lagrangian multiple mapping conditioning approach, Combustion and Flame",
+      "year": 2022,
+      "citation_raw": "Huang, Z., Cleary, M. J., Ren, Z., & Zhang, H.* (2022). Large eddy simulation of a supersonic lifted hydrogen flame with sparse-Lagrangian multiple mapping conditioning approach. Combustion and Flame, 238, 15 pages. doi:1016/j.combustflame.2021.111756",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "End-gas autoignition and knocking combustion of ammonia/hydrogen/air mixtures in a confined reactor",
+      "year": 2022,
+      "citation_raw": "Yu, Z., & Zhang, H.* (2022). End-gas autoignition and knocking combustion of ammonia/hydrogen/air mixtures in a confined reactor. International Journal of Hydrogen Energy, 47(13), 8585-8602. doi:1016/j.ijhydene.2021.12.181",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Flame stability optimization of cavity primary air-jet form in an augmentor",
+      "year": 2022,
+      "citation_raw": "Huang, Y., He, X.*, Zhang, H.*, Zhu, Z., & Zhu, H. (2022). Flame stability optimization of cavity primary air-jet form in an augmentor. Energy, 239, 13 pages. doi:1016/j.energy.2021.121801",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of dynamic micro vortex generator on shock wave boundary layer Interactions",
+      "year": 2022,
+      "citation_raw": "Zhao, Y. S.*, Zhang, H. W., & Zhang, J. (2022). Effects of dynamic micro vortex generator on shock wave boundary layer Interactions. Tuijin Jishu/Journal of Propulsion Technology, 43(1), 94-102. doi:13675/j.cnki.tjjs.200305 [in Chinese]",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Large eddy simulation and finite-volume conditional moment closure modelling of a turbulent lifted H2/N2 flame",
+      "year": 2021,
+      "citation_raw": "Li, G., Zhang, H.*, & Chen, L. (2021). Large eddy simulation and finite-volume conditional moment closure modelling of a turbulent lifted H2/N2 flame. International Journal Of Hydrogen Energy, 46(80), 40120-40142. doi:1016/j.ijhydene.2021.09.209",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Rotating detonative combustion in partially pre-vaporized dilute n-heptane sprays: Droplet size and equivalence ratio effects, Fuel",
+      "year": 2021,
+      "citation_raw": "Zhao, M., & Zhang, H.* (2021). Rotating detonative combustion in partially pre-vaporized dilute n-heptane sprays: Droplet size and equivalence ratio effects. Fuel, 304, 15 pages. doi:1016/j.fuel.2021.121481",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Reaction pathway of nitric oxide oxidation on nano-sized Pt/SiO2 catalysts for diesel exhaust purification, Molecular Catalysis",
+      "year": 2021,
+      "citation_raw": "Chen, Z., Luo, D., Zhang, H., Zhang, N., Li, J., Gao, B., . . . Yang, Z.* (2021). Reaction pathway of nitric oxide oxidation on nano-sized Pt/SiO2 catalysts for diesel exhaust purification. Molecular Catalysis, 516, 9 pages. doi:1016/j.mcat.2021.111991",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Extinction of incident hydrogen/air detonation in fine water sprays",
+      "year": 2021,
+      "citation_raw": "Xu, Y., Zhao, M., & Zhang, H.* (2021). Extinction of incident hydrogen/air detonation in fine water sprays. Physics Of Fluids, 33(11), 19 pages. doi:1063/5.0071405",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Efficient high-order radial basis-function-based differential quadrature-finite volume method for incompressible flows on unstructured grids",
+      "year": 2021,
+      "citation_raw": "Liu, Y. Y., Yang, L. M., Shu, C.*, & Zhang, H. (2021). Efficient high-order radial basis-function-based differential quadrature-finite volume method for incompressible flows on unstructured grids. Physical Review E, 104(4), 16 pages. doi:1103/PhysRevE.104.045312",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Combustion performance in a cavity-based combustor under subatmospheric pressure, Fuel",
+      "year": 2021,
+      "citation_raw": "Zhu, Z., Huang, Y.*, Zhang, H., & He, X.* (2021). Combustion performance in a cavity-based combustor under subatmospheric pressure. Fuel, 302, 10 pages. doi:1016/j.fuel.2021.121115",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Reaction front development from ignition spots in n-heptane/air mixtures: Low-temperature chemistry effects induced by ultrafine water droplet evaporation",
+      "year": 2021,
+      "citation_raw": "Yu, Z., & Zhang, H.* (2021). Reaction front development from ignition spots in n-heptane/air mixtures: Low-temperature chemistry effects induced by ultrafine water droplet evaporation. Physics Of Fluids, 33(8), 17 pages. doi:1063/5.0061486",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Large Eddy simulation of a supersonic lifted hydrogen flame with perfectly stirred reactor model, Combustion and Flame",
+      "year": 2021,
+      "citation_raw": "Zhao, M., Chen, Z. X., Zhang, H.*, & Swaminathan, N. (2021). Large Eddy simulation of a supersonic lifted hydrogen flame with perfectly stirred reactor model. Combustion and Flame, 230, 18 pages. doi:1016/j.combustflame.2021.111441",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Spark ignition and stability limits of spray kerosene flames under subatmospheric pressure conditions",
+      "year": 2021,
+      "citation_raw": "Huang, Y., He, X.*, Zhang, H.*, Wei, J., & Sng, D. W. M. (2021). Spark ignition and stability limits of spray kerosene flames under subatmospheric pressure conditions. Aerospace Science and Technology, 114, 12 pages. doi:1016/j.ast.2021.106734",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "An efficient high-order least square-based finite difference-finite volume method for solution of compressible Navier-Stokes equations on unstructured grids",
+      "year": 2021,
+      "citation_raw": "Liu, Y. Y.*, Shu, C.*, Zhang, H. W., Yang, L. M., & Lee, C.* (2021). An efficient high-order least square-based finite difference-finite volume method for solution of compressible Navier-Stokes equations on unstructured grids. Computers & Fluids, 222, 17 pages. doi:1016/j.compfluid.2021.104926",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "A high-order implicit least square-based finite difference-finite volume method for incompressible flows on unstructured grids",
+      "year": 2021,
+      "citation_raw": "Liu, Y. Y., Shu, C.*, Zhang, H. W., & Yang, L. M. (2021). A high-order implicit least square-based finite difference-finite volume method for incompressible flows on unstructured grids. Physics of Fluids, 33(5), 19 pages. doi:1063/5.0047192",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Eulerian-Lagrangian modelling of rotating detonative combustion in partially pre-vaporized n-heptane sprays with hydrogen addition, Fuel",
+      "year": 2021,
+      "citation_raw": "Meng, Q., Zhao, M., Zheng, H., & Zhang, H.* (2021). Eulerian-Lagrangian modelling of rotating detonative combustion in partially pre-vaporized n-heptane sprays with hydrogen addition. Fuel, 290, 17 pages. doi:1016/j.fuel.2020.119808",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Pulsating detonative combustion in n-heptane/air mixtures under off-stoichiometric conditions, Combustion and Flame",
+      "year": 2021,
+      "citation_raw": "Zhao, M., Ren, Z., & Zhang, H.* (2021). Pulsating detonative combustion in n-heptane/air mixtures under off-stoichiometric conditions. Combustion and Flame, 226, 285-301. doi:1016/j.combustflame.2020.12.012",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "On the distributions of fuel droplets and in situ vapor in rotating detonation combustion with prevaporized n-heptane sprays",
+      "year": 2021,
+      "citation_raw": "Meng, Q., Zhao, N., & Zhang, H.* (2021). On the distributions of fuel droplets and in situ vapor in rotating detonation combustion with prevaporized n-heptane sprays. Physics of Fluids, 33(4), 16 pages. doi:1063/5.0045222",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Combustion mode and wave multiplicity in rotating detonative combustion with separate reactant injection, Combustion and Flame",
+      "year": 2021,
+      "citation_raw": "Zhao, M., Cleary, M. J., & Zhang, H.* (2021). Combustion mode and wave multiplicity in rotating detonative combustion with separate reactant injection. Combustion and Flame, 225, 291-304. doi:1016/j.combustflame.2020.11.001",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Eulerian-Lagrangian modelling of detonative combustion in two-phase gas-droplet mixtures with OpenFOAM: Validations and verifications, Fuel",
+      "year": 2021,
+      "citation_raw": "Huang, Z., Zhao, M., Xu, Y., Li, G., & Zhang, H.* (2021). Eulerian-Lagrangian modelling of detonative combustion in two-phase gas-droplet mixtures with OpenFOAM: Validations and verifications. Fuel, 286, 16 pages. doi:1016/j.fuel.2020.119402",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Analytical method of nonlinear coupled constitutive relations for rarefied non-equilibrium flows",
+      "year": 2021,
+      "citation_raw": "HE, Z., JIANG, Z., ZHANG, H., & CHEN, W.* (2021). Analytical method of nonlinear coupled constitutive relations for rarefied non-equilibrium flows. Chinese Journal of Aeronautics, 34(2), 136-153. doi:1016/j.cja.2020.06.023",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Numerical simulation of flame acceleration and deflagration-to-detonation transition in ammonia-hydrogen-oxygen mixtures",
+      "year": 2021,
+      "citation_raw": "Zhu, R., Zhao, M., & Zhang, H.* (2021). Numerical simulation of flame acceleration and deflagration-to-detonation transition in ammonia-hydrogen-oxygen mixtures. International Journal of Hydrogen Energy, 46(1), 1273-1287. doi:1016/j.ijhydene.2020.09.227",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Ignition of dimethyl ether/air mixtures by hot particles: Impact of low temperature chemical reactions",
+      "year": 2021,
+      "citation_raw": "Wang, Y., Zhang, H., Zirwes, T., Zhang, F., Bockhorn, H., & Chen, Z.* (2021). Ignition of dimethyl ether/air mixtures by hot particles: Impact of low temperature chemical reactions. Proceedings of the Combustion Institute, 38(2), 2459-2466. doi:1016/j.proci.2020.06.254",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Autoignition and detonation development induced by temperature gradient in n-C7H16/air/H2O mixtures",
+      "year": 2021,
+      "citation_raw": "Yu, Z., Zhang, H.*, & Dai, P. (2021). Autoignition and detonation development induced by temperature gradient in n-C7H16/air/H2O mixtures. Physics of Fluids, 33(1), 15 pages. doi:1063/5.0038125",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "A Multi-Dimensional Shock-Capturing Limiter for High-Order Least Square-Based Finite Difference-Finite Volume Method on Unstructured Grids",
+      "year": 2021,
+      "citation_raw": "Liu, Y., Yang, L., Shu, C.*, & Zhang, H. (2021). A Multi-Dimensional Shock-Capturing Limiter for High-Order Least Square-Based Finite Difference-Finite Volume Method on Unstructured Grids. Advances In Applied Mathematics and Mechanics, 13(3), 671-700. doi:4208/aamm.OA-2020-0255",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Large eddy simulation of turbulent supersonic hydrogen flames with OpenFOAM, Fuel",
+      "year": 2020,
+      "citation_raw": "Zhang, H.*, Zhao, M., & Huang, Z. (2020). Large eddy simulation of turbulent supersonic hydrogen flames with OpenFOAM. Fuel, 282, 15 pages. doi:1016/j.fuel.2020.118812",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Three-dimensional high-order least square-based finite difference-finite volume method on unstructured grids",
+      "year": 2020,
+      "citation_raw": "Liu, Y. Y., Yang, L. M., Shu, C.*, & Zhang, H. W. (2020). Three-dimensional high-order least square-based finite difference-finite volume method on unstructured grids. Physics of Fluids, 32(12), 19 pages. doi:1063/5.0032089",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Propagation of weakly stretched premixed spherical spray flames in localized homogeneous and heterogeneous reactants",
+      "year": 2020,
+      "citation_raw": "Li, Q., Zhang, H.*, & Shu, C. (2020). Propagation of weakly stretched premixed spherical spray flames in localized homogeneous and heterogeneous reactants. Physics of Fluids, 32(12), 17 pages. doi:1063/5.0031638",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Propagation of heterogeneous and homogeneous planar flames in fuel droplet mists",
+      "year": 2020,
+      "citation_raw": "Li, Q., Zhang, H.*, & Shu, C. (2020). Propagation of heterogeneous and homogeneous planar flames in fuel droplet mists. International Journal of Multiphase Flow, 133, 14 pages. doi:1016/j.ijmultiphaseflow.2020.103452",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "On the interactions between a propagating shock wave and evaporating water droplets",
+      "year": 2020,
+      "citation_raw": "Huang, Z., & Zhang, H.* (2020). On the interactions between a propagating shock wave and evaporating water droplets. Physics of Fluids, 32(12), 14 pages. doi:1063/5.0035968",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Large eddy simulation of non-reacting flow and mixing fields in a rotating detonation engine, Fuel",
+      "year": 2020,
+      "citation_raw": "Zhao, M., & Zhang, H.* (2020). Large eddy simulation of non-reacting flow and mixing fields in a rotating detonation engine. Fuel, 280, 16 pages. doi:1016/j.fuel.2020.118534",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Application of the sparse-Lagrangian multiple mapping conditioning approach to a model supersonic combustor",
+      "year": 2020,
+      "citation_raw": "Huang, Z., Cleary, M. J., & Zhang, H.* (2020). Application of the sparse-Lagrangian multiple mapping conditioning approach to a model supersonic combustor. Physics of Fluids, 32(10), 14 pages. doi:1063/5.0026654",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Origin and chaotic propagation of multiple rotating detonation waves in hydrogen/air mixtures, Fuel",
+      "year": 2020,
+      "citation_raw": "Zhao, M., & Zhang, H.* (2020). Origin and chaotic propagation of multiple rotating detonation waves in hydrogen/air mixtures. Fuel, 275, 15 pages. doi:1016/j.fuel.2020.117986",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Initiation and propagation of spherical premixed flames with inert solid particles, Combustion Theory and Modelling",
+      "year": 2020,
+      "citation_raw": "Li, Q., Liu, C., Zhang, H.*, Wang, M., & Chen, Z. (2020). Initiation and propagation of spherical premixed flames with inert solid particles. Combustion Theory and Modelling, 24(4), 606-631. doi:1080/13647830.2020.1725135",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Investigations of autoignition and propagation of supersonic ethylene flames stabilized by a cavity",
+      "year": 2020,
+      "citation_raw": "Huang, Z., & Zhang, H.* (2020). Investigations of autoignition and propagation of supersonic ethylene flames stabilized by a cavity. Applied Energy, 265, 13 pages. doi:1016/j.apenergy.2020.114795",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Autoignition and detonation characteristics of n-heptane/air mixture with water droplets, Fuel",
+      "year": 2020,
+      "citation_raw": "Zhuang, Y., Li, Q., Dai, P.*, & Zhang, H.* (2020). Autoignition and detonation characteristics of n-heptane/air mixture with water droplets. Fuel, 266, 12 pages. doi:1016/j.fuel.2020.117077",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "On flame bifurcation and multiplicity in consistently propagating spherical flame and droplet evaporation fronts",
+      "year": 2020,
+      "citation_raw": "Zhuang, Y.*, & Zhang, H.* (2020). On flame bifurcation and multiplicity in consistently propagating spherical flame and droplet evaporation fronts. International Journal of Multiphase Flow, 125, 16 pages. doi:1016/j.ijmultiphaseflow.2020.103220",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Modelling n-heptane dilute spray flames in a model supersonic combustor fueled by hydrogen, Fuel",
+      "year": 2020,
+      "citation_raw": "Huang, Z.*, Zhao, M., & Zhang, H.* (2020). Modelling n-heptane dilute spray flames in a model supersonic combustor fueled by hydrogen. Fuel, 264, 14 pages. doi:1016/j.fuel.2019.116809",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "A high order least square-based finite difference-finite volume method with lattice Boltzmann flux solver for simulation of incompressible flows on unstructured grids",
+      "year": 2020,
+      "citation_raw": "Liu, Y. Y., Shu, C.*, Zhang, H. W., & Yang, L. M. (2020). A high order least square-based finite difference-finite volume method with lattice Boltzmann flux solver for simulation of incompressible flows on unstructured grids. Journal of Computational Physics, 401, 23 pages. doi:1016/j.jcp.2019.109019",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Numerical investigations of mixed supersonic and subsonic combustion modes in a model combustor",
+      "year": 2020,
+      "citation_raw": "Huang, Z., & Zhang, H.* (2020). Numerical investigations of mixed supersonic and subsonic combustion modes in a model combustor. International Journal of Hydrogen Energy, 45(1), 1045-1060. doi:1016/j.ijhydene.2019.10.193",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of Variable Total Pressures on Instability and Extinction of Rotating Detonation Combustion, Flow Turbulence and Combustion",
+      "year": 2020,
+      "citation_raw": "Zhao, M., Li, J. -M., Teo, C. J., Khoo, B. C., & Zhang, H.* (2020). Effects of Variable Total Pressures on Instability and Extinction of Rotating Detonation Combustion. Flow Turbulence and Combustion, 104(1), 261-290. doi:1007/s10494-019-00050-y",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "High-order least-square-based finite-difference-finite-volume method for simulation of incompressible thermal flows on arbitrary grids",
+      "year": 2019,
+      "citation_raw": "Liu, Y. Y., Zhang, H. W., Yang, L. M., & Shu, C.* (2019). High-order least-square-based finite-difference-finite-volume method for simulation of incompressible thermal flows on arbitrary grids. Physical Review E, 100(6), 20 pages. doi:1103/PhysRevE.100.063308",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of water droplet evaporation on initiation, propagation and extinction of premixed spherical flames",
+      "year": 2019,
+      "citation_raw": "Zhuang, Y.*, & Zhang, H.* (2019). Effects of water droplet evaporation on initiation, propagation and extinction of premixed spherical flames. International Journal of Multiphase Flow, 117, 114-129. doi:1016/j.ijmultiphaseflow.2019.05.005",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of endothermic chain-branching reaction on spherical flame initiation and propagation, Combustion Theory and Modelling",
+      "year": 2019,
+      "citation_raw": "Li, H., Zhang, H., & Chen, Z.* (2019). Effects of endothermic chain-branching reaction on spherical flame initiation and propagation. Combustion Theory and Modelling, 23(3), 496-514. doi:1080/13647830.2018.1555338",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "LES/CMC Modelling of a Gas Turbine Model Combustor with Quick Fuel Mixing, Flow Turbulence and Combustion",
+      "year": 2019,
+      "citation_raw": "Zhang, H.*, & Mastorakos, E. (2019). LES/CMC Modelling of a Gas Turbine Model Combustor with Quick Fuel Mixing. Flow Turbulence and Combustion, 102(4), 909-930. doi:1007/s10494-018-9988-1",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "LES/CMC modelling of ignition and flame propagation in a non-premixed methane jet",
+      "year": 2019,
+      "citation_raw": "Zhang, H.*, Giusti, A., & Mastorakos, E. (2019). LES/CMC modelling of ignition and flame propagation in a non-premixed methane jet. Proceedings of the Combustion Institute, 37(2), 2125-2132. doi:1016/j.proci.2018.09.031",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "LES/CMC Modelling of a Gas Turbine Model Combustor with Quick Fuel Mixing, Flow Turbulence and Combustion",
+      "year": 2018,
+      "citation_raw": "Zhang, H.*, & Mastorakos, E. (2019). LES/CMC Modelling of a Gas Turbine Model Combustor with Quick Fuel Mixing. Flow Turbulence and Combustion, 102(4), 909-930. doi:1007/s10494-018-9988-1 Zhang, H.*, Giusti, A., & Mastorakos, E. (2019). LES/CMC modelling of ignition and flame propagation in a non-premixed methane jet. Proceedings of the Combustion Institute, 37(2), 2125-2132. doi:1016/j.proci.2018.09.031 Zhang, H.* (2018). Effects of Wall Heat Loss on Swirl-Stabilized Nonpremixed Flames With Localized Extinction. Journal Of Engineering For Gas Turbines And Power-Transactions of the ASME, 140(12), 12 pages. doi:1115/1.4040516",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Bifurcation and extinction limit of stretched premixed flames with chain-branching intermediate kinetics and radiative loss, Combustion Theory and Modelling",
+      "year": 2018,
+      "citation_raw": "Zhang, H.*, & Chen, Z. (2018). Bifurcation and extinction limit of stretched premixed flames with chain-branching intermediate kinetics and radiative loss. Combustion Theory and Modelling, 22(3), 531-553. doi:1080/13647830.2018.1430380",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Modelling local extinction in Sydney swirling non-premixed flames with LES/CMC",
+      "year": 2017,
+      "citation_raw": "Zhang, H.*, & Mastorakos, E. (2017). Modelling local extinction in Sydney swirling non-premixed flames with LES/CMC. Proceedings of the Combustion Institute, 36(2), 1669-1676. doi:1016/j.proci.2016.07.051",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Large Eddy Simulation/Conditional Moment Closure modeling of swirl-stabilized non-premixed flames with local extinction",
+      "year": 2015,
+      "citation_raw": "Zhang, H.*, Garmory, A., Cavaliere, D. E., & Mastorakos, E. (2015). Large Eddy Simulation/Conditional Moment Closure modeling of swirl-stabilized non-premixed flames with local extinction. Proceedings of the Combustion Institute, 35, 1167-1174. doi:1016/j.proci.2014.05.052",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of heat conduction and radical quenching on premixed stagnation flame stabilised by a wall (vol 18, p",
+      "year": 2014,
+      "citation_raw": "Zhang, H.*, & Chen, Z. (2014). Effects of heat conduction and radical quenching on premixed stagnation flame stabilised by a wall (vol 18, p. 185, 2014). Combustion Theory and Modelling, 18(1), 185. doi:1080/13647830.2013.818824",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of heat conduction and radical quenching on premixed stagnation flame stabilised by a wall, Combustion Theory and Modelling",
+      "year": 2013,
+      "citation_raw": "Zhang, H.*, & Chen, Z. (2013). Effects of heat conduction and radical quenching on premixed stagnation flame stabilised by a wall. Combustion Theory and Modelling, 17(4), 682-706. doi:1080/13647830.2013.792393",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Flame propagation in a tube with wall quenching of radicals, Combustion And Flame",
+      "year": 2013,
+      "citation_raw": "Bai, B., Chen, Z.*, Zhang, H., & Chen, S. (2013). Flame propagation in a tube with wall quenching of radicals. Combustion And Flame, 160(12), 2810-2819. doi:1016/j.combustflame.2013.07.008",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Outwardly Propagating Spherical Flames with Thermally Sensitive Intermediate Kinetics and Radiative Loss",
+      "year": 2013,
+      "citation_raw": "Zhang, H., Guo, P., & Chen, Z.* (2013). Outwardly Propagating Spherical Flames with Thermally Sensitive Intermediate Kinetics and Radiative Loss. Combustion Science and Technology, 185(2), 226-248. doi:1080/00102202.2012.715607",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Critical condition for the ignition of reactant mixture by radical deposition",
+      "year": 2013,
+      "citation_raw": "Zhang, H.*, Guo, P., & Chen, Z.* (2013). Critical condition for the ignition of reactant mixture by radical deposition. Proceedings of the Combustion Institute, 34, 3267-3275. doi:1016/j.proci.2012.06.035",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Studies on the mechanism of radical ignition of premixed gas",
+      "year": 2012,
+      "citation_raw": "Zhang, H. W.*, Guo, P., & Chen, Z. (2012). Studies on the mechanism of radical ignition of premixed gas. Kung Cheng Je Wu Li Hsueh Pao/Journal of Engineering Thermophysics, 33(12), 2219-2222. [in Chinese]",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Studies on the mechanism of radical ignition of premixed gas",
+      "year": 2011,
+      "citation_raw": "Zhang, H. W.*, Guo, P., & Chen, Z. (2012). Studies on the mechanism of radical ignition of premixed gas. Kung Cheng Je Wu Li Hsueh Pao/Journal of Engineering Thermophysics, 33(12), 2219-2222. [in Chinese] Zhang, H.*, & Chen, Z*. (2011). Spherical flame initiation and propagation with thermally sensitive intermediate kinetics. Combustion and Flame, 158(8), 1520-1531. doi:1016/j.combustflame.2010.12.031",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    },
+    {
+      "title": "Effects of Lewis numbers of fuel and radical on the ignition of premixed gases",
+      "year": 2011,
+      "citation_raw": "Zhang, H. W.*, & Chen, Z. (2011). Effects of Lewis numbers of fuel and radical on the ignition of premixed gases. Kung Cheng Je Wu Li Hsueh Pao/Journal of Engineering Thermophysics, 32(7), 1249-1252. [in Chinese]",
+      "source_url": "https://blog.nus.edu.sg/huangwei/journal-publication/"
+    }
+  ]
 }

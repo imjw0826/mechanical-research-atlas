@@ -5,7 +5,7 @@
   "lab_name": null,
   "lab_url": "https://varanasi.mit.edu/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/kripa@mit.edu"
+    "https://varanasi.mit.edu/publications/"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/kripa@mit.edu",
   "discovered_links": [
@@ -35,12 +35,568 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
-    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "A Fluidic-Shear Device for Minimally Disruptive, Site-Selective Collection of Viable Cells from Excised Fallopian-Tube Tissue",
+      "year": 2026,
+      "citation_raw": "A Fluidic-Shear Device for Minimally Disruptive, Site-Selective Collection of Viable Cells from Excised Fallopian-Tube Tissue Avalle, D., Vandereydt, B., Parks, S. M., Peng, H., Stone, R., Belcher, A. M., & Varanasi, K. K., Device Featured: MIT News, Inside Precision Medicine",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Electrochemically Driven Sorbent-Mediated Recovery of CO2 in Marine Inorganic Carbon Extraction Processes",
+      "year": 2026,
+      "citation_raw": "Electrochemically Driven Sorbent-Mediated Recovery of CO2 in Marine Inorganic Carbon Extraction Processes Nitzsche, M. P., Massen-Hane, M., Su, A., Varanasi, K. K., Hatton, A. T., ACS Environmental Science & Technology",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Direct Magnesium Recovery from Ocean Waters Using Bismuth Electrochemistry",
+      "year": 2026,
+      "citation_raw": "Direct Magnesium Recovery from Ocean Waters Using Bismuth Electrochemistry Kim, D. J., Dickhardt, F. J., Schillinger, C., Massen-Hane, M., Nitzsche, M. P., Tsakiris, N., Varanasi, K. K., Hatton, A. T., ACS Energy Letters Featured: ACS News",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Bismuth-Driven Flow-Through pH Swing Architecture for Membrane-Free Electrochemical Marine Carbon Removal",
+      "year": 2026,
+      "citation_raw": "Bismuth-Driven Flow-Through pH Swing Architecture for Membrane-Free Electrochemical Marine Carbon Removal Koh-Bell, A., Rufer, S., Dickhardt, F. J., Kim, D. J., Tsakiris, N., Nitzsche, M. P., Hatton, A. T., Varanasi, K. K., ACS Electrochemistry.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Proceedings of the National Academy of Sciences (PNAS)",
+      "year": 2026,
+      "citation_raw": "Aerophilic Debubbling Vandereydt, B., Nath, S., & Varanasi, K. K., Proceedings of the National Academy of Sciences (PNAS).",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Alternating Electrochemical Redox-Cycling on Nanocomposite Biointerface for High-Efficiency Enzyme-Free Cell Detachment",
+      "year": 2025,
+      "citation_raw": "Alternating Electrochemical Redox-Cycling on Nanocomposite Biointerface for High-Efficiency Enzyme-Free Cell Detachment McCue, C., Lee, W.H., Vandereydt, B., Avalle, D., Kang, J., Rufer, S., Atari, A., Dickhardt, F.J., Nitzsche, M., Parks, S. and Tseng, Y.Y., & Varanasi, K. K., ACS Nano Featured: MIT News | PhysOrg",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Non-Laplacian Air-Gap Electrostatics for High-Field Oil-Water Nanoemulsion Separation",
+      "year": 2025,
+      "citation_raw": "Non-Laplacian Air-Gap Electrostatics for High-Field Oil-Water Nanoemulsion Separation Panat, S., Rufer, S., Lee, W.H., Jayaprakash, V., Agarwal, S. and Varanasi, K.K., Science Advances.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Bubble-Driven Cell Detachment",
+      "year": 2025,
+      "citation_raw": "Bubble-Driven Cell Detachment Vandereydt, B., Blanc, B., & Varanasi, K. K., Science Advances, Featured: Science Advances Front Cover | MIT News",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Carbonate/Hydroxide Separation Boosts CO2 Absorption Rate and Electrochemical Release Efficiency",
+      "year": 2025,
+      "citation_raw": "Carbonate/Hydroxide Separation Boosts CO2 Absorption Rate and Electrochemical Release Efficiency Rufer, S., Joseph, T., Aamer, Z., & Varanasi, K. K., ACS Energy Letters. Featured: Cover | MIT News |",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Enhancing Spray Retention using Cloaked Droplets to Reduce Pesticide Pollution",
+      "year": 2025,
+      "citation_raw": "Enhancing Spray Retention using Cloaked Droplets to Reduce Pesticide Pollution Jayaprakash, V., Rufer, S., Panat, S., & Varanasi, K. K., Soft Matter. Featured: Soft Matter Front Cover | MIT News | Michigan Farm News | Rural Radio Network | ASME News",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Design of Antibiofouling Lubricant-Impregnated Surfaces Robust to Cell-Growth-Induced Instability",
+      "year": 2025,
+      "citation_raw": "Design of Antibiofouling Lubricant-Impregnated Surfaces Robust to Cell-Growth-Induced Instability Kang, H. E. D., Costalonga, M., Vandereydt, B., & Varanasi, K. K., Langmuir.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Mitigating Hydrogen Ingress with Thin Cloaking Liquid Barrier Films",
+      "year": 2025,
+      "citation_raw": "Mitigating Hydrogen Ingress with Thin Cloaking Liquid Barrier Films Khan, S., Toparli, C., Yildiz, B., & Varanasi, K. K., ACS Applied Engineering Materials.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Enhanced Electrostatic Dust Removal from Solar Panels Using Transparent Conductive Nano‐Textured Surfaces",
+      "year": 2025,
+      "citation_raw": "Enhanced Electrostatic Dust Removal from Solar Panels Using Transparent Conductive Nano‐Textured Surfaces Dickhardt, F.J., Panat, S. and Varanasi, K.K., Small.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Machine learning-guided discovery of gas evolving electrode bubble inactivation",
+      "year": 2025,
+      "citation_raw": "Machine learning-guided discovery of gas evolving electrode bubble inactivation Lake, J.R., Rufer, S., James, J., Pruyne, N., Scourtas, A., Schwarting, A., Ambadkar, A., Foster, I., Blaiszik, B., and Varanasi, K. K., Nanoscale. Featured: Cover | Nanoscale Most Popular 2025 Articles | MIT News",
+      "source_url": "https://varanasi.mit.edu/publications/"
+    },
+    {
+      "title": "Hierarchically Conductive Electrodes Unlock Stable and Scalable CO2 Electrolysis",
+      "year": 2024,
+      "citation_raw": "Hierarchically Conductive Electrodes Unlock Stable and Scalable CO2 Electrolysis Rufer, S., Nitzsche, M. P., Garimella, S., Lake, J. R., and Varanasi, K. K., Nature Communications. Featured: Top 2024 MIT News Stories | MIT News | eeNews Europe",
+      "source_url": "https://varanasi.mit.edu/publications/"
+    },
+    {
+      "title": "Ocean Alkalinity Enhancement",
+      "year": 2024,
+      "citation_raw": "Ocean Alkalinity Enhancement Dickhardt, F. J., Hatton, A. T., Varanasi, K. K.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Thermodynamics of Electrochemical Marine Inorganic Carbon Removal",
+      "year": 2024,
+      "citation_raw": "Thermodynamics of Electrochemical Marine Inorganic Carbon Removal Dickhardt, F.J., Nitzsche, M.P., Rufer, S., Hatton, T.A. and Varanasi, K.K., Environmental Science & Technology.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Crystal Patterning from Aqueous Solutions via Solutal Instabilities",
+      "year": 2024,
+      "citation_raw": "Crystal Patterning from Aqueous Solutions via Solutal Instabilities McBride, S. A., Atis, S., Pahlavan, A. A., and Varanasi, K. K., ACS Applied Materials & Interfaces, Cover Article.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Reducing Cancer Cell Adhesion using Microtextured Surfaces",
+      "year": 2023,
+      "citation_raw": "Reducing Cancer Cell Adhesion using Microtextured Surfaces McCue, C., Atari, A., Parks, S., Tseng, Y. Y., & Varanasi, K. K. Small, Cover Article.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Biofilm formation of Pseudomonas aeruginosa in spaceflight is minimized on lubricant impregnated surfaces",
+      "year": 2023,
+      "citation_raw": "Biofilm formation of Pseudomonas aeruginosa in spaceflight is minimized on lubricant impregnated surfaces Flores, P., McBride, S. A., Galazka, J. M., Varanasi, K. K., & Zea, L., Nature Partner Journal Microgravity.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Externally Tunable, Low Power Electrostatic Control of Cell Adhesion with Nanometric High‐k Dielectric Films",
+      "year": 2023,
+      "citation_raw": "Externally Tunable, Low Power Electrostatic Control of Cell Adhesion with Nanometric High‐k Dielectric Films Leon, V. J., Blanc, B., Sonnert, S. D., and Varanasi, K. K., Advanced Functional Materials. Cover Article",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Self-ejection of Salts and other Foulants from Superhydrophobic Surfaces to Enable Sustainable Anti-fouling",
+      "year": 2023,
+      "citation_raw": "Self-ejection of Salts and other Foulants from Superhydrophobic Surfaces to Enable Sustainable Anti-fouling Samantha A. McBride, John R. Lake, and Kripa K. Varanasi. The Journal of Chemical Physics.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Asymmetric chloride-mediated electrochemical process for CO2 removal from oceanwater",
+      "year": 2023,
+      "citation_raw": "Asymmetric chloride-mediated electrochemical process for CO2 removal from oceanwater Seoni Kim, Michael Nitzsche, Simon B Rufer, Jack R. Lake, Kripa K. Varanasi, and T. Alan Hatton. Energy & Environmental Science.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Impact of Bubbles on Electrochemically Active Surface Area of Microtextured Gas-Evolving Electrodes",
+      "year": 2022,
+      "citation_raw": "Impact of Bubbles on Electrochemically Active Surface Area of Microtextured Gas-Evolving Electrodes Jack R. Lake, Álvaro Moreno Soto, and Kripa K. Varanasi. Langmuir, Cover Article.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Transient Effects Caused by Gas Depletion during Carbon Dioxide Electroreduction",
+      "year": 2022,
+      "citation_raw": "Transient Effects Caused by Gas Depletion during Carbon Dioxide Electroreduction Álvaro Moreno Soto, Jack R. Lake, and Kripa K. Varanasi. Langmuir",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Levitation of fizzy drops",
+      "year": 2021,
+      "citation_raw": "Levitation of fizzy drops Divya Panchanathan, Philippe Bourrianne, Philippe Nicollier, Abhijatmedhi Chottratanapituk, Kripa K. Varanasi and Gareth H. McKinley. Science Advances.",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Differences between Colloidal and Crystalline Evaporative Deposits",
+      "year": 2020,
+      "citation_raw": "Differences between Colloidal and Crystalline Evaporative Deposits Samantha A. McBride, Racheal Skye, and Kripa K. Varanasi. Langmuir (Cover Article)",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Lubricant-Impregnated Surfaces for Mitigating Asphaltene Deposition",
+      "year": 2020,
+      "citation_raw": "Lubricant-Impregnated Surfaces for Mitigating Asphaltene Deposition Henri-Louis Girard, Philippe Bourrianne, Mohsen Yeganeh, Robert E. Cohen, Gareth H. McKinley, and Kripa K. Varanasi. ACS Applied Materials & Interfaces",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Asphaltene Adsorption on Functionalized Solids",
+      "year": 2020,
+      "citation_raw": "Asphaltene Adsorption on Functionalized Solids Henri-Louis Girard, Philippe Bourrianne, Dayong Chen, Aditya Jaishankar, Jessica L. Vreeland, Robert E. Cohen, Kripa K. Varanasi, Gareth H. McKinley. Langmuir",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Microstructured Ceramic-Coated Carbon Nanotube Surfaces for High Heat Flux Pool Boiling",
+      "year": 2020,
+      "citation_raw": "Microstructured Ceramic-Coated Carbon Nanotube Surfaces for High Heat Flux Pool Boiling Hangbo Zhao, Susmita Dash, Navdeep Singh Dhillon, Sanha Kim, Bethany Lettiere, Kripa K. Varanasi and A. John Hart. ACS Applied Nano Materials",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Evaporative Crystallization of Spirals",
+      "year": 2019,
+      "citation_raw": "Evaporative Crystallization of Spirals Samantha A. McBride, Susmita Dash, Sami Khan and Kripa K. Varanasi. Langmuir (Cover Article)",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Low-Voltage Surface Electrocoalescence Enabled by High-K Dielectrics and Surfactant Bilayers for Oil–Water Separation",
+      "year": 2019,
+      "citation_raw": "Low-Voltage Surface Electrocoalescence Enabled by High-K Dielectrics and Surfactant Bilayers for Oil–Water Separation Ingrid F. Guha, Kripa K. Varanasi. ACS Applied Material Interfaces",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Grafted Nanofilms Promote Dropwise Condensation of Low-Surface-Tension Fluids for High-Performance Heat Exchangers",
+      "year": 2019,
+      "citation_raw": "Grafted Nanofilms Promote Dropwise Condensation of Low-Surface-Tension Fluids for High-Performance Heat Exchangers Karim Khalil, Dan Soto, Taylor Farnham, Adam Paxson, Asli Ugur Katmis, Karen Gleason, Kripa K.Varanasi. Joule",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Study of the relationship between the crystal structure and micro-nano morphology of anodized stainless steels",
+      "year": 2019,
+      "citation_raw": "Study of the relationship between the crystal structure and micro-nano morphology of anodized stainless steels Yuehua Cui, Adam T. Paxson, Xianghua Zhang, Qiang Tu, and Kripa K. Varanasi. Electrochemistry Communications",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Synthetic Butterfly Scale Surfaces with Compliance-Tailored Anisotropic Drop Adhesion",
+      "year": 2019,
+      "citation_raw": "Synthetic Butterfly Scale Surfaces with Compliance-Tailored Anisotropic Drop Adhesion Hangbo Zhao, Sei Jin Park, Brian R. Solomon, Sanha Kim, Dan Soto, Adam T. Paxson, Kripa K. Varanasi, and A. John Hart. Advanced Materials",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Mobility of Yield Stress Fluids on Lubricant-Impregnated Surfaces",
+      "year": 2019,
+      "citation_raw": "Mobility of Yield Stress Fluids on Lubricant-Impregnated Surfaces Leonid Rapoport, Brian R. Solomon, and Kripa K. Varanasi. ACS Applied Materials Interfaces",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Enhancing the Performance of Viscous Electrode-Based Flow Batteries Using Lubricant-Impregnated Surfaces",
+      "year": 2018,
+      "citation_raw": "Enhancing the Performance of Viscous Electrode-Based Flow Batteries Using Lubricant-Impregnated Surfaces Brian R. Solomon, Xinwei Chen, Leonid Rapoport, Ahmed Helal, Gareth H. McKinley, Yet-Ming Chiang, and Kripa K. Varanasi, ACS Applied Energy Materials",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Design of a Spaceflight Biofilm Experiment",
+      "year": 2018,
+      "citation_raw": "Design of a Spaceflight Biofilm Experiment Luis Zea, Zeena Nisar, Phil Rubin, Marta Cortesão, Jiaqi Luo, Samantha A. McBride, Ralf Moeller, David Klaus, Daniel Müller, Kripa K. Varanasi, Frank Muecklich, and Louis Stodieck. Acta Astronautica",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Short‐Fluorinated iCVD Coatings for Nonwetting Fabrics",
+      "year": 2018,
+      "citation_raw": "Short‐Fluorinated iCVD Coatings for Nonwetting Fabrics Dan Soto, Asli Ugur, Taylor A. Farnham, Karen K. Gleason, and Kripa K. Varanasi, Advanced Functional Materials",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Decreasing Hydroxylation Affinity of La(1-x)SrxMnO3 Perovskites to Promote Oxygen Reduction Electrocatalysis",
+      "year": 2017,
+      "citation_raw": "Decreasing Hydroxylation Affinity of La(1-x)SrxMnO3 Perovskites to Promote Oxygen Reduction Electrocatalysis Kelsey A. Stoerzinger, Wesley T. Hong, Xiao Renshaw Wang, Reshma R. Rao, Srinivas Bengaluru Subramanyam, Changjian Li, Ariando, T. Venkatesan, Qiang Liu, Ethan J. Crumlin, Kripa K Varanasi, and Yang Shao-Horn, Chemistry of Materials",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Creating Nanoscale Emulsions Using Condensation",
+      "year": 2017,
+      "citation_raw": "Creating Nanoscale Emulsions Using Condensation Ingrid F. Guha, Sushant Anand, and Kripa K. Varanasi, Nature Communications",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Kinetics of Photoinduced Wettability Switching on Nanoporous Titania Surfaces under Oil",
+      "year": 2017,
+      "citation_raw": "Kinetics of Photoinduced Wettability Switching on Nanoporous Titania Surfaces under Oil Divya Panchanathan, Gibum Kwon, Talal F. Qahtan, Mohammad A. Gondal, Kripa K. Varanasi, and Gareth H. McKinley, Advanced Materials Interfaces",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Visible Light Guided Manipulation of Liquid Wettability on Photoresponsive Surfaces",
+      "year": 2017,
+      "citation_raw": "Visible Light Guided Manipulation of Liquid Wettability on Photoresponsive Surfaces Gibum Kwon, Divya Panchanathan, Seyed Reza Mahmoudi, Mohammed A. Gondal , Gareth H. McKinley, and Kripa K. Varanasi, Nature Communication",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Designing Ultra-Low Hydrate Adhesion Surfaces by Interfacial Spreading of Water-Immiscible Barrier Films",
+      "year": 2017,
+      "citation_raw": "Designing Ultra-Low Hydrate Adhesion Surfaces by Interfacial Spreading of Water-Immiscible Barrier Films Arindam Das, Taylor A. Farnham, Srinivas Bengaluru Subramanyam, and Kripa K. Varanasi. ACS Applied Materials and Interfaces (Cover Article)",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Non-wettable Surfaces : Theory, Preparation and Applications",
+      "year": 2016,
+      "citation_raw": "Lubricant-Impregnated Surfaces, Chapter from the Book “Non-wettable Surfaces : Theory, Preparation and Applications” Brian R. Solomon, Srinivas Bengaluru Subramanyam, Taylor A. Farnham, Karim S. Khalil, Sushant Anand and Kripa K. Varanasi, From the book Non-wettable Surfaces : Theory, Preparation and Applications",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Solvent-induced crystallization of a polycarbonate surface and texture copying by polydimethylsiloxane for improved surface hydrophobicity",
+      "year": 2016,
+      "citation_raw": "Solvent-induced crystallization of a polycarbonate surface and texture copying by polydimethylsiloxane for improved surface hydrophobicity B. S. Yilbas, H. Ali, N. Al-Aqeeli, M. Khaled, N. Abu-Dheir, and Kripa K. Varanasi, Journal of Applied Polymer Science",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Surface and wetting characteristics of textured bisphenol-A based polycarbonate surfaces: Acetone-induced crystallization texturing methods",
+      "year": 2015,
+      "citation_raw": "Surface and wetting characteristics of textured bisphenol-A based polycarbonate surfaces: Acetone-induced crystallization texturing methods Ahmed Owais, Mazen M. Khaled, Bekir S. Yilbas, Numan Abu-Dheir, Kripa K. Varanasi, Kamal Y. Toumi, Journal of Applied Polymer Science",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Influence of dust and mud on the optical, chemical, and mechanical properties of a pv protective glass",
+      "year": 2015,
+      "citation_raw": "Influence of dust and mud on the optical, chemical, and mechanical properties of a pv protective glass Bekir Sami. Yilbas, Haider Ali, Mazen M. Khaled, Nasser Al-Aqeeli, Numan Abu-Dheir, and Kripa K. Varanasi, Scientific Reports",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Critical heat flux maxima during boiling crisis on textured surfaces",
+      "year": 2015,
+      "citation_raw": "Critical heat flux maxima during boiling crisis on textured surfaces Navdeep S. Dhillon, Jacopo Buongiorno, Kripa K. Varanasi, Nature Communications",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Sustaining dry surfaces under water",
+      "year": 2015,
+      "citation_raw": "Sustaining dry surfaces under water Paul R. Jones, Xiuqing Hao, Eduardo R. Cruz-Chu, Konrad Rykaczewski, Krishanu Nandy,Thomas M. Schutzius, Kripa K. Varanasi, Constantine M. Megaridis, Jens H. Walther, Petros Koumoutsakos, Horacio D. Espinosa, Neelesh A. Patankar, Scientific Reports",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Reactivity of Perovskites with Water: Role of Hydroxylation in Wetting and Implications for Oxygen Electrocatalysis",
+      "year": 2015,
+      "citation_raw": "Reactivity of Perovskites with Water: Role of Hydroxylation in Wetting and Implications for Oxygen Electrocatalysis Kelsey A. Stoerzinger, Wesley T. Hong, Gisele Azimi, Livia Giordano, Yueh-Lin Lee, Ethan J. Crumlin, Michael D. Biegalski, Hendrik Bluhm, Kripa K. Varanasi, and Yang Shao-Horn, Langmuir",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Low-Dimensional Conduction Mechanisms in Highly Conductive and Transparent Conjugated Polymers",
+      "year": 2015,
+      "citation_raw": "Low-Dimensional Conduction Mechanisms in Highly Conductive and Transparent Conjugated Polymers Asli Ugur, Ferhat Katmis, Mingda Li, Lijun Wu, Yimei Zhu, Kripa K. Varanasi, and Karen K. Gleason. Advanced Materials (Cover Article)",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Characteristics of laser textured silicon surface and effect of mud adhesion on hydrophobicity",
+      "year": 2015,
+      "citation_raw": "Characteristics of laser textured silicon surface and effect of mud adhesion on hydrophobicity B.S. Yilbas, H. Ali, M. Khaled, N. Al-Aqeeli, N. Abu-Dheir, K.K. Varanasi, Applied Surface Science",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Inverted Leidenfrost-like Effect during Condensation",
+      "year": 2015,
+      "citation_raw": "Inverted Leidenfrost-like Effect during Condensation Ramchandra Narhe, Sushant Anand, Konrad Rykaczewski, Marie-Gabrielle Medici, Wenceslao González-Viñas, Kripa K. Varanasi, and Daniel Beysens, Langmuir",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "How Droplets Nucleate and Grow on Liquids and Liquid Impregnated Surfaces",
+      "year": 2014,
+      "citation_raw": "How Droplets Nucleate and Grow on Liquids and Liquid Impregnated Surfaces Sushant Anand, Konrad Rykaczewski, Srinivas B. Subramanyam, Daniel Beysens, and Kripa K. Varanasi, Soft Matter",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Wetting and other physical characteristics of polycarbonate surface textured using laser ablation",
+      "year": 2014,
+      "citation_raw": "Wetting and other physical characteristics of polycarbonate surface textured using laser ablation B.S. Yilbas, M. Khaled, N. Abu-Dheir, N. Al-Aqeeli, S.A.M. Said, A.O.M. Ahmed, K.K. Varanasi, and Y.K. Toumi, Applied Surface Science",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Drag Reduction using Lubricant-Impregnated Surfaces in Viscous Laminar Flow",
+      "year": 2014,
+      "citation_raw": "Drag Reduction using Lubricant-Impregnated Surfaces in Viscous Laminar Flow Brian R. Solomon, Karim S. Khalil, and Kripa K. Varanasi Langmuir",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Active surfaces: Ferrofluid-impregnated surfaces for active manipulation of droplets",
+      "year": 2014,
+      "citation_raw": "Active surfaces: Ferrofluid-impregnated surfaces for active manipulation of droplets Karim S. Khalil, Seyed Reza Mahmoudi, Numan Abu-dheir, and Kripa K. Varanasi Applied Physics Letter",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Study of Factors Governing Oil–Water Separation Process Using TiO2 Films Prepared by Spray Deposition of Nanoparticle Dispersions",
+      "year": 2014,
+      "citation_raw": "Study of Factors Governing Oil–Water Separation Process Using TiO2 Films Prepared by Spray Deposition of Nanoparticle Dispersions Mohammed A. Gondal, Muhammad S. Sadullah, Mohamed A. Dastageer, Gareth H. McKinley, Divya Panchanathan, and Kripa K. Varanasi ACS Applied Materials & Interfaces",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Separating Oil-Water Nanoemulsions using Flux-Enhanced Hierarchical Membranes",
+      "year": 2014,
+      "citation_raw": "Separating Oil-Water Nanoemulsions using Flux-Enhanced Hierarchical Membranes Brian R. Solomon, Md. Nasim Hyder & Kripa K. Varanasi. Scientific Reports",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Different Shades of Oxide: From Nanoscale Wetting Mechanisms to Contact Printing of Gallium-Based Liquid Metals",
+      "year": 2014,
+      "citation_raw": "Different Shades of Oxide: From Nanoscale Wetting Mechanisms to Contact Printing of Gallium-Based Liquid Metals Kyle Doudrick, Shanliangzi Liu, Eva M. Mutunga, Kate L. Klein, Viraj Damle, Kripa K. Varanasi, and Konrad Rykaczewski Langmuir",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Dropwise Condensation of Low Surface Tension Fluids on Omniphobic Surfaces",
+      "year": 2014,
+      "citation_raw": "Dropwise Condensation of Low Surface Tension Fluids on Omniphobic Surfaces Konrad Rykaczewski, Adam T. Paxson, Matthew Staymates, Marlon L. Walker, Xiaoda Sun, Sushant Anand, Siddarth Srinivasan, Gareth H. McKinley, Jeff Chinn, John Henry J. Scott, and Kripa K. Varanasi Scientific Reports",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Plasmon Resonance Enhanced Photocatalysis Under Visible Light with Au/Cu–TiO2 Nanoparticles: Removal Cr (VI) from Water as a Case of Study",
+      "year": 2013,
+      "citation_raw": "Plasmon Resonance Enhanced Photocatalysis Under Visible Light with Au/Cu–TiO2 Nanoparticles: Removal Cr (VI) from Water as a Case of Study M.A. Gondal, M.A. Dastageer, S.G. Rashid, S.M. Zubair, M.A. Ali, D.H. Anjum, J.H. Lienhard, G.H. Mckinley, K.K. Varanasi Science of Advanced Materials",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Sol–Gel Synthesis of Au/Cu-TiO2 Nanocomposite and Their Morphological and Optical Properties",
+      "year": 2013,
+      "citation_raw": "Sol–Gel Synthesis of Au/Cu-TiO2 Nanocomposite and Their Morphological and Optical Properties M.A. Gondal, S.G. Rashid, M.A. Dastageer, S.M. Zubair, M.A. Ali, J.H. Lienhard, G.H. McKinley, and K.K. Varanasi IEEE Photonics Journal",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Reducing the contact time of a bouncing drop",
+      "year": 2013,
+      "citation_raw": "Reducing the contact time of a bouncing drop James C. Bird, Rajeev Dhiman, Hyuk-Min KwoN, and Kripa K. Varanasi Nature (Cover Article). Featured in Innovation in Textiles",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Electrostatic precursor films",
+      "year": 2013,
+      "citation_raw": "Electrostatic precursor films Seyed Reza Mahmoudi, Kazimierz Adamiak, G. S. Peter Castle and Kripa K. Varanasi, Soft Matter",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Mechanism of Frost Formation on Lubricant-Impregnated Surfaces",
+      "year": 2013,
+      "citation_raw": "Mechanism of Frost Formation on Lubricant-Impregnated Surfaces K. Rykaczewski, S. Anand, S. B. Subramanyam, and K. K. Varanasi, Langmuir",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Visualization of contact line motion on hydrophobic textures",
+      "year": 2013,
+      "citation_raw": "Visualization of contact line motion on hydrophobic textures K. M. Smyth, A. T. Paxson, H-M Kwon, K. K. Varanasi, Surface Innovations",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Self-similarity of contact line depinning from textured surfaces",
+      "year": 2013,
+      "citation_raw": "Self-similarity of contact line depinning from textured surfaces A. T. Paxson & K. K. Varanasi, Nature Communications",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Hydrophobicity of rare-earth oxide ceramics",
+      "year": 2013,
+      "citation_raw": "Hydrophobicity of rare-earth oxide ceramics Gisele Azimi, Rajeev Dhiman, Hyuk-Min Kwon, Adam T. Paxson & Kripa K. Varanasi. Nature Materials",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Enhanced Condensation on Lubricant-Impregnated Nanotextured Surfaces",
+      "year": 2012,
+      "citation_raw": "Enhanced Condensation on Lubricant-Impregnated Nanotextured Surfaces Sushant Anand, Adam Paxson, Rajeev Dhiman, Jonathan D. Smith and Kripa K. Varanasi. ACS Nano",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Direct Imaging of Complex Nano- to Microscale Interfaces Involving Solid, Liquid, and Gas Phases",
+      "year": 2012,
+      "citation_raw": "Direct Imaging of Complex Nano- to Microscale Interfaces Involving Solid, Liquid, and Gas Phases Konrad Rykaczewski, T. Landin, M. L. Walker, J. Henry, J. Scott and Kripa Varanasi. ACS Nano",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Hydrate-Phobic Surfaces: Fundamental Studies in Clathrate Hydrate Adhesion Reduction",
+      "year": 2012,
+      "citation_raw": "Hydrate-Phobic Surfaces: Fundamental Studies in Clathrate Hydrate Adhesion Reduction Dave Smith, Adam J. Meuler, Harrison L. Bralower, Rama Venkatesan, Sivakumar Subramanian, Robert E. Cohen, Gareth H. McKinley, and Kripa K. Varanasi. Physical Chemistry Chemical Physics",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Hierarchical Polymeric Textures via Solvent-Induced Phase Transformation: a Single-Step Production of Large-Area Superhydrophobic Surfaces",
+      "year": 2012,
+      "citation_raw": "Hierarchical Polymeric Textures via Solvent-Induced Phase Transformation: a Single-Step Production of Large-Area Superhydrophobic Surfaces Y. H. Cui, A. T. Paxson, K. M. Smyth, and K. K. Varanasi. ACS Colloids & Surfaces A: Physiochemical and Engineering Aspects",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Size-Dependent Thermal Oxidation of Copper: Single-Step Synthesis of Hierarchical Nanostructures",
+      "year": 2011,
+      "citation_raw": "Size-Dependent Thermal Oxidation of Copper: Single-Step Synthesis of Hierarchical Nanostructures C. J. Love, J. D. Smith, Y. H. Cui, and K. K. Varanasi. Nanoscale",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Rapid Deceleration-Driven Wetting Transition during Pendant Drop Deposition on Superhydrophobic Surfaces",
+      "year": 2011,
+      "citation_raw": "Rapid Deceleration-Driven Wetting Transition during Pendant Drop Deposition on Superhydrophobic Surfaces H. Kwon, A. T. Paxson, K. K. Varanasi, and N. A. Patankar. Physical Review Letters",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Frost Formation and Ice Adhesion on Superhydrophobic Surfaces",
+      "year": 2010,
+      "citation_raw": "Frost Formation and Ice Adhesion on Superhydrophobic Surfaces K. K. Varanasi, T. Deng, J. D. Smith, M. Hsu, and N. Bhate, Applied Physics Letters",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Relationships between Water Wettability and Ice Adhesion",
+      "year": 2010,
+      "citation_raw": "Relationships between Water Wettability and Ice Adhesion A. J. Meuler, J. D. Smith, K. K. Varanasi, J. Mabry, G. H. McKinley, and R. E. Cohen, ACS Applied Materials and Interfaces",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Spatial Control in the Heterogeneous Nucleation of Water",
+      "year": 2009,
+      "citation_raw": "Spatial Control in the Heterogeneous Nucleation of Water K. K. Varanasi, M. Hsu, N. Bhate, W. Yang, and T. Deng, Applied Physics Letters",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Nonwetting of Impinging Droplets on Textured Surfaces",
+      "year": 2009,
+      "citation_raw": "Nonwetting of Impinging Droplets on Textured Surfaces T. Deng, K.K. Varanasi, M. Hsu, N. Bhate, C. Keimel, J. Stein, and M. Blohm, Applied Physics Letters",
+      "source_url": "https://varanasi.mit.edu/publications/",
+      "year_type": "page_section"
+    }
+  ]
 }

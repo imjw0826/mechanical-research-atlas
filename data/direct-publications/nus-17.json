@@ -5,17 +5,206 @@
   "lab_name": null,
   "lab_url": "https://blog.nus.edu.sg/mpekyk/",
   "publication_urls": [
-    "https://www.nus.edu.sg/about"
+    "https://blog.nus.edu.sg/mpekyk/publications/"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official page heading: Nano Thermal Engineering Lab / Home / Sidebar",
-    "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
-    "Publication page visible text captured; structured extraction pending."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "(31) Hongkun Li, Riley Hanus, Carlos Polanco, Andreas Zeidler, Gregor Koblmüller, Yee Kan Koh, and Lucas Lindsay, GaN thermal transport limited by the interplay of dislocations and size effects, Physical Review B, 102, 014313 (2020).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Ultralow Thermal Conductivity and Thermal Diffusivity of Graphene/Metal Heterostructures through Scarcity of Low-Energy Modes in Graphene",
+      "year": 2020,
+      "citation_raw": "(30) Zheng, Weidong, Bin Huang, and Yee Kan Koh. Ultralow Thermal Conductivity and Thermal Diffusivity of Graphene/Metal Heterostructures through Scarcity of Low-Energy Modes in Graphene. ACS Applied Materials & Interfaces 12, no. 8 (2020): 9572-9579.",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Highly anisotropic thermoelectric properties of black phosphorus crystals",
+      "year": 2019,
+      "citation_raw": "(29) Zeng, Qingsheng, Bo Sun, Kezhao Du, Weiyun Zhao, Peng Yu, Chao Zhu, Juan Xia et al. Highly anisotropic thermoelectric properties of black phosphorus crystals. 2D Materials 6, no. 4 (2019): 045009.",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Gregor Koblmüller, and Yee Kan Koh, Dislocation-induced thermal transport anisotropy in single-crystal group-III nitride films",
+      "year": 2019,
+      "citation_raw": "(28) Sun, Bo, Georg Haunschild, Carlos Polanco, Lucas Lindsay, Gregor Koblmüller, and Yee Kan Koh. Dislocation-induced thermal transport anisotropy in single-crystal group-III nitride films. Nature materials 18, no. 2 (2019): 136-140.",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Anisotropic model with truncated linear dispersion for lattice and interfacial thermal transport in layered materials",
+      "year": 2018,
+      "citation_raw": "(27) Li, Hongkun, Weidong Zheng, and Yee Kan Koh. Anisotropic model with truncated linear dispersion for lattice and interfacial thermal transport in layered materials. Physical Review Materials 2, no. 12 (2018): 123802.",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Achieving huge thermal conductance of metallic nitride on graphene through enhanced elastic and inelastic phonon transmission",
+      "year": 2018,
+      "citation_raw": "(26) Zheng, Weidong, Bin Huang, Hongkun Li, and Yee Kan Koh. Achieving huge thermal conductance of metallic nitride on graphene through enhanced elastic and inelastic phonon transmission. ACS applied materials & interfaces 10, no. 41 (2018): 35487-35494.",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Interfacial phonon scattering and transmission loss in> 1 µm thick silicon-on-insulator thin films",
+      "year": 2018,
+      "citation_raw": "(25) Jiang, Puqing, Lucas Lindsay, Xi Huang, and Yee Kan Koh. Interfacial phonon scattering and transmission loss in> 1 µm thick silicon-on-insulator thin films. Physical Review B 97, no. 19 (2018): 195308.",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Negligible electronic contribution to heat transfer across intrinsic metal/graphene interfaces",
+      "year": 2017,
+      "citation_raw": "(25) Huang, Bin, and Yee Kan Koh. Negligible electronic contribution to heat transfer across intrinsic metal/graphene interfaces. Advanced Materials Interfaces 4, no. 20 (2017): 1700559.",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2017,
+      "citation_raw": "(24) Sun, Bo, Xiaokun Gu, Qingsheng Zeng, Xi Huang, Yuexiang Yan, Zheng Liu, Ronggui Yang, and Yee Kan Koh, Temperature dependence of anisotropic thermal conductivity tensor of bulk black phosphorus, Advanced Materials 29.3 (2017).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Björn Alling, and Per Eklund, Phonon thermal conductivity of scandium nitride for thermoelectrics from first-principles calculations and thin-film growth",
+      "year": 2017,
+      "citation_raw": "(23) Kerdsongpanya, Sit, Olle Hellman, Bo Sun, Yee Kan Koh, Jun Lu, Ngo Van Nong, Sergei I. Simak, Björn Alling, and Per Eklund. Phonon thermal conductivity of scandium nitride for thermoelectrics from first-principles calculations and thin-film growth. Physical Review B 96, no. 19 (2017): 195417.",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Role of Remote Interfacial Phonon (RIP) Scattering in Heat Transport Across Graphene/SiO2 Interfaces, Nano Lett",
+      "year": 2016,
+      "citation_raw": "(22) Yee Kan Koh, Austin S. Lyons, Myung-Ho Bae, Vincent E. Dorgan, David G. Cahill, Eric Pop, and Bin Huang, Role of Remote Interfacial Phonon (RIP) Scattering in Heat Transport Across Graphene/SiO2 Interfaces, Nano Lett. 16, 6b01709 (2016).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2016,
+      "citation_raw": "(21) Sit Kerdsongpanya,Bo Sun,Fredrik Eriksson,Jens Jensen,Jun Lu,Yee Kan Koh, Ngo Van Nong, Benjamin Balke,Bj?rn Alling1,and Per Eklund. Experimental and theoretical investigation of Cr1-xScxN solid solutions for thermoelectrics, J. Appl. Phys. 120, 215103 (2016).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2016,
+      "citation_raw": "(20) Puqing Jiang, Lucas Lindsay, and Yee Kan Koh, The role of low-energy phonons with mean-free-paths >0.8 um in heat conduction in silicon, J. Appl. Phys. 119, 245705 (2016).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Accurate Measurements of Cross-plane Thermal Conductivity of Thin Films by Dual-Frequency Time-Domain Thermoreflectance (TDTR), Rev, Sci, Instrum",
+      "year": 2016,
+      "citation_raw": "(19) Puqing Jiang, Bin Huang, and Yee Kan Koh, Accurate Measurements of Cross-plane Thermal Conductivity of Thin Films by Dual-Frequency Time-Domain Thermoreflectance (TDTR), Rev. Sci. Instrum. 87, 075101 (2016).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Understanding and eliminating artifact signals from diffusely scattered pump beam in measurements of rough samples by time-domain thermoreflectance (TDTR), Rev, Sci, Instrum",
+      "year": 2016,
+      "citation_raw": "(18) Bo Sun, and Yee Kan Koh, Understanding and eliminating artifact signals from diffusely scattered pump beam in measurements of rough samples by time-domain thermoreflectance (TDTR), Rev. Sci. Instrum. 87,064901(2016).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "James (Zijian) Ju, Bo Sun, Georg Haunschild, Bernhard Loitsch, Benedikt Stoib, Martin S Brandt, Martin Stutzmann, Yee Kan Koh, and Gregor Koblmuller, Thermoelectric properties of In-rich InGaN and InN/InGaN superlattices, AIP Adv",
+      "year": 2016,
+      "citation_raw": "(17) James (Zijian) Ju, Bo Sun, Georg Haunschild, Bernhard Loitsch, Benedikt Stoib, Martin S Brandt, Martin Stutzmann, Yee Kan Koh, and Gregor Koblmuller, Thermoelectric properties of In-rich InGaN and InN/InGaN superlattices, AIP Adv. 6, 045216 (2016).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2016,
+      "citation_raw": "(16) Bin Huang and Yee Kan Koh, Improved topological conformity enhances heat conduction across metal contacts on transferred graphene, Carbon 105, 268 (2016).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2015,
+      "citation_raw": "(15) Olivier Cometto, Bo Sun, Siu Hon Tsang, Xi Huang, Yee Kan Koh, and Edwin Hang Tong Teo, Vertically self-ordered orientation of nanocrystalline hexagonal boron nitride thin films for enhanced thermal characteristics, Nanoscale 7, 18984 (2015).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2014,
+      "citation_raw": "(14) Yee Kan Koh, D. G. Cahill, and Bo Sun, Nonlocal theory for heat transport at high frequencies, Phys. Rev. B 90, 205412 (2014).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Reliably Counting Atomic Planes of Few-Layer Graphene (n>4)",
+      "year": 2011,
+      "citation_raw": "(13) Yee Kan Koh, Myung-Ho Bae, D. G. Cahill, and Eric Pop, Reliably Counting Atomic Planes of Few-Layer Graphene (n>4), ACS Nano 5, 269 (2011).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "(12) Yee Kan Koh, Myung-Ho Bae, D. G. Cahill, and Eric Pop, Heat conduction across monolayer and few-layer graphenes, Nano Lett. 10, 4363 (2010).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "(selected for the Sept 2010 issue of Virtual Journal of Ultrafast Science.)",
+      "year": 2010,
+      "citation_raw": "(11) Y. Wang, J. Y. Park, Yee Kan Koh, and D. G. Cahill, Thermoreflectance of metal transducers for time-domain thermoreflectance, J. Appl. Phys. 108, 043507 (2010). (selected for the Sept 2010 issue of Virtual Journal of Ultrafast Science.)",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "(10) A. I. Persson*, Yee Kan Koh*, D. G. Cahill, L. Samuelson, and H. Linke, Thermal conductance of InAs nanowire composites, Nano Lett. 9, 4484 (2009).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "(9) Yee Kan Koh, C. J. Vineis, S. D. Calawa, M. P. Walsh, and D. G. Cahill, Lattice thermal conductivity of nanostructured thermoelectric materials based on PbTe, Appl. Phys. Lett. 94, 153101 (2009).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "(8) Yee Kan Koh, S. L. Singer, W. Kim, J. M. O. Zide, H. Lu, D. G. Cahill, A. Majumdar, and A. C. Gossard, Comparison of the 3ω method and time-domain thermoreflectance for measurements of the cross-plane thermal conductivity of epitaxial semiconductors, J. Appl. Phys. 105, 054303 (2009).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": "Thermal conductivity of (Zr,W)N/ScN metal/semiconductor multilayers and superlattices, J",
+      "year": 2009,
+      "citation_raw": "(7) V. Rawat, Yee Kan Koh, D. G. Cahill, and T. D. Sands, Thermal conductivity of (Zr,W)N/ScN metal/semiconductor multilayers and superlattices, J. Appl. Phys. 105, 024909 (2009).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "(6) Yee Kan Koh, Y. Cao, D. G. Cahill, and D. Jena, Heat-transport mechanisms in superlattices, Adv. Funct. Mater. 19, 610 (2009).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "(5) K. Kang, Yee Kan Koh, C. Chiritescu, X. Zheng, and D. G. Cahill, Two-tint pump-probe measurements using a femtosecond laser oscillator and sharp-edged optical filters, Rev. Sci. Instrum. 79, 114901 (2008).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "(4) Z. Wang, D. G. Cahill, J. A. Carter, Yee Kan Koh, A. Lagutchev, N.-H. Seong, and D. D. Dlott, Ultrafast dynamics of heat flow across molecules, Chem. Phys. 350, 31 (2008).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2007,
+      "citation_raw": "(3) M. Highland, B. C. Gundrum, Yee Kan Koh, R. S. Averback, D. G. Cahill, V. C. Elarde, J. J. Coleman, D. A. Walko, and E. C. Landahl, Ballistic-phonon heat conduction at the nanoscale as revealed by time-resolved x-ray diffraction and time-domain thermoreflectance, Phys. Rev. B 76, 075337 (2007).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2007,
+      "citation_raw": "(2) Yee Kan Koh and D. G. Cahill, Frequency dependence of the thermal conductivity of semiconductor alloys, Phys. Rev. B 76, 075207 (2007).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    },
+    {
+      "title": null,
+      "year": 2007,
+      "citation_raw": "(1) Z. Wang, J. A. Carter, A. Lagutchev, Yee Kan Koh, N.-H. Seong, D. G. Cahill, and D. D. Dlott, Ultrafast flash thermal conductance of molecular chains, Science 317, 787 (2007).",
+      "source_url": "https://blog.nus.edu.sg/mpekyk/publications/"
+    }
+  ]
 }

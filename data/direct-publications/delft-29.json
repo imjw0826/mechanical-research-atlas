@@ -3,15 +3,664 @@
   "university_key": "delft",
   "pi": "D.L. Schott",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:56:24.224Z",
-  "coverage_notes": [
-    "Official profile visited. Publications/lab follow-up pending; no completeness claim.",
-    "Discovered Bekijk de publicaties in Pure: https://pure.tudelft.nl/portal/en/persons/dl-schott(97159931-1762-47c4-a145-f0bac4c1c6de)/publications.html",
-    "Discovered Meer publicaties: https://research.tudelft.nl/en/persons/97159931-1762-47c4-a145-f0bac4c1c6de",
-    "Extracted displayed official staff-profile publication cards only. Profile links More publications to institutional Pure/research portal; portal not used as database source. Full lab list not yet audited. Year retained from page card/section as page_section."
+  "lab_url": "https://www.tudelft.nl/staff/d.l.schott",
+  "publication_urls": [
+    "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fchapter",
+    "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned",
+    "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference",
+    "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned&format=rss",
+    "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned&ordering=title&descending=false",
+    "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned&ordering=publicationYearThenTitle&descending=false",
+    "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
   ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 8개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 7개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Handling of Bulk Solids in a Marine Environment from Seabed to Shore",
+      "year": 2024,
+      "citation_raw": "Handling of Bulk Solids in a Marine Environment from Seabed to Shore Schott, D. L., de Hoog, E., van Wijk, J. M. & Helmons, R. L. J., 2024, Deep-Sea Mining and the Water Column: Advances, Monitoring and Related Issues. Sharma, R. (ed.). Springer, p. 91-127 37 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fchapter"
+    },
+    {
+      "title": "Multibody Dynamics and Discrete Element Method Co-Simulations for Large-Scale Industrial Equipment",
+      "year": 2023,
+      "citation_raw": "Multibody Dynamics and Discrete Element Method Co-Simulations for Large-Scale Industrial Equipment Schott, D. L. & Mohajeri, J., 2023, Simulations in Bulk Solids Handling: Applications of DEM and other Methods. McGlinchey, D. (ed.). Wiley, p. 107-143",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fchapter"
+    },
+    {
+      "title": "Environmental management accounting as a selection tool for storage systems",
+      "year": 2010,
+      "citation_raw": "Environmental management accounting as a selection tool for storage systems Schott, D., Maan, O., Spaargaren, R., Ruijgrok, J., Welink, J., Deckers, J. & Lodewijks, G., 2010, Current developments in bulk solids handling. Lodewijks, G. (ed.). Wurzburg: Vogel business media gmbh & co, p. 195-206 251 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fchapter"
+    },
+    {
+      "title": "Modern dry bulk terminal design",
+      "year": 2010,
+      "citation_raw": "Modern dry bulk terminal design Lodewijks, G., Schott, D. & Ottjes, J., 2010, Current developments in bulk solids handling. Lodewijks, G. (ed.). Wurzburg: Vogel business media gmbh & co, p. 177-192 251 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fchapter"
+    },
+    {
+      "title": "Storage facilities on bulk terminals: open versus closed facilities",
+      "year": 2010,
+      "citation_raw": "Storage facilities on bulk terminals: open versus closed facilities Schott, D. & Lodewijks, G., 2010, Current developments in bulk solids handling. Lodewijks, G. (ed.). Wurzburg: Vogel business media gmbh & co, p. 169-176 251 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fchapter"
+    },
+    {
+      "title": "On the potential for a large-scale biomass bulk terminal in the west european region",
+      "year": 2008,
+      "citation_raw": "On the potential for a large-scale biomass bulk terminal in the west european region Wu, M., Schott, D. & Lodewijks, G., 2008, Proceeding of the 10th trail congress - trail in perspective - selected papers. Zuylen, H. J. V. & Binsbergen, A. J. V. (eds.). Delft: TRAIL Research School, p. 255-282 28 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fchapter"
+    },
+    {
+      "title": "Floating Island Development and Deployment Roadmap",
+      "year": 2021,
+      "citation_raw": "Floating Island Development and Deployment Roadmap Flikkema, M., Breuls, M., Jak, R., de Ruijter, R., Drummen, I., Jordaens, A., Adam, F., Czapiewska, K., Lin, F.-Y., Schott, D. L., Schay, J. & Otto, W., 2021, Space@Sea. 73 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned"
+    },
+    {
+      "title": "Calibration of DEM parameters for cohesionless bulk materials under rapid flow conditions and low consolidation",
+      "year": 2019,
+      "citation_raw": "Calibration of DEM parameters for cohesionless bulk materials under rapid flow conditions and low consolidation Katterfeld, A., Coetzee, C., Donohue, T., Fottner, J., Grima, A., Ramirez Gomez, A., Ilic, D., Kačianauskas, R., Necas, J., Schott, D. L., Williams, K. & Zegzulka, J., 2019, 19 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned"
+    },
+    {
+      "title": "Benchmarking Dry Bulk Terminal Unloading Performance Using Open Data and OEE Analysis",
+      "year": 2026,
+      "citation_raw": "Benchmarking Dry Bulk Terminal Unloading Performance Using Open Data and OEE Analysis de Leeuw, G. A., Duinkerken, M. B., Pang, Y., Tans, R. & Schott, D. L., 2026, Proceedings of the 15th International Conference on Bulk Materials Storage, Handling and Transportation, ICBMH 2026. The Institution of Engineers, Australia, 9 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Overall Equipment Effectiveness",
+      "year": 2026,
+      "citation_raw": "Overall Equipment Effectiveness 100% Shape matters: DEM modelling of coarse cohesionless materials for bulk handling and transport Schuitemaker, W. D., de Vries, N., Shi, H. & Schott, D. L., 2026, Proceedings of the 15th International Conference on Bulk Materials Storage, Handling and Transportation, ICBMH 2026. The Institution of Engineers, Australia, 12 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Towards Efficient Multi-Dimensional Grab Design Optimisation",
+      "year": 2026,
+      "citation_raw": "Cohesionless 100% Towards Efficient Multi-Dimensional Grab Design Optimisation Anisimov, M., Akay, H. & Schott, D. L., 2026, Proceedings of the 15th International Conference on Bulk Materials Storage, Handling and Transportation, ICBMH 2026. The Institution of Engineers, Australia, 11 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "1-g Physical Tests on Monopile Penetration through Scour Protection Material",
+      "year": 2025,
+      "citation_raw": "1-g Physical Tests on Monopile Penetration through Scour Protection Material Cengiz, C., Martinelli, M., Macaro, G., Luger, D., Elkadi, A. S. K., Shi, H., Jovanova, J., Schott, D. L., Yenigul, B., Alderlieste, E., Bourdos, Q. & van der Linden, T., 2025, Proceedings of ISFOG 2025 : 5th International Symposium on Frontiers in Offshore Geotechnics . Nantes, France: International Society for Soil Mechanics and Geotechnical Engineering (SIMSG) (ISSMGE), 6 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Cutting of highly plastic clay: analysis of large rapid deformation processes",
+      "year": 2025,
+      "citation_raw": "Downloads (Pure) Cutting of highly plastic clay: analysis of large rapid deformation processes Winkelman, M. O., Kruis, F. T., Schott, D. L. & Helmons, R. L. J., 2025, Proceedings of ISFOG 2025. Nantes, France: International Society for Soil Mechanics and Geotechnical Engineering (SIMSG) (ISSMGE), 7 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "DEM modelling of small-scale plate and pile penetration through scour protections",
+      "year": 2025,
+      "citation_raw": "Downloads (Pure) DEM modelling of small-scale plate and pile penetration through scour protections Shi, H., Jovanova, J., Schott, D. L., Cengiz, C., Macaro, G., Martinelli, M. & Yenigul, B., 2025, Proceedings of ISFOG 2025 : 5th International Symposium on Frontiers in Offshore Geotechnics . Nantes, France: International Society for Soil Mechanics and Geotechnical Engineering (SIMSG) (ISSMGE), 5 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "A framework for risk assessment of ammonia storage and bunkering at ports",
+      "year": 2024,
+      "citation_raw": "A framework for risk assessment of ammonia storage and bunkering at ports Qu, W., Duinkerken, M. B. & Schott, D. L., 2024, Proceedings of the International Physical Internet Conference, IPIC 2024. 10 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Mechanical excavation of clayey soils, a review of the physical phenomena occurring",
+      "year": 2024,
+      "citation_raw": "Downloads (Pure) Mechanical excavation of clayey soils, a review of the physical phenomena occurring Winkelman, M. O., Schott, D. L. & Helmons, R. L. J., 2024, Proceedings CEDA Dredging Days 2024. CEDA - Central Dredging Association, 19 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Are active soft particles suitable for particle jamming actuators?",
+      "year": 2023,
+      "citation_raw": "Are active soft particles suitable for particle jamming actuators? Chen, Q., Schott, D. L. & Jovanova, J., 2023, Proceedings of the IEEE International Conference on Soft Robotics, RoboSoft 2023. IEEE, 6 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "A small-scale pile impact test for demonstrating the coupling between structural vibration and underwater noise generation",
+      "year": 2023,
+      "citation_raw": "Downloads (Pure) A small-scale pile impact test for demonstrating the coupling between structural vibration and underwater noise generation Azevedo Vasconcelos, A. C., Heijnen, S., Holtzer, B., Aragon, A. M., Schott, D. L. & Jovanova, J., 2023, Proceedings Inter-Noise 2023: 52nd International Congress and Exposition on Noise Control Engineering. 10 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Design exploration of autonomous container transshipment for interterminal transport based on current technology",
+      "year": 2022,
+      "citation_raw": "Design exploration of autonomous container transshipment for interterminal transport based on current technology Kruimer, K., Schott, D. L. & Jovanova, J., 2022, Trends in Maritime Technology and Engineering: Proceedings of the 6th International Conference on Maritime Technology and Engineering (MARTECH 2022, Lisbon, Portugal, 24-26 May 2022). Guedes Soares, C. & Santos, T. A. (eds.). London, UK: CRC Press, Vol. 2. p. 55-63 9 p. (Proceedings in Marine Technology and Ocean Engineering; vol. 2).",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Design of Floating Terminals as Integrated Project for Multi-machine Systems",
+      "year": 2022,
+      "citation_raw": "Design 100% Design of Floating Terminals as Integrated Project for Multi-machine Systems Jovanova, J., van den Bos, W. & Schott, D., 2022, Proceedings of the 2nd World Conference on Floating Solutions, WCFS2020. Piatek, L., Lim, S. H., Wang, C. M. & Dinther, R. D.G.-V. (eds.). Singapore: Springer, p. 475-490 (Lecture Notes in Civil Engineering; vol. 158).",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Introducing adaptive mechatronic designs in bulk handling industry",
+      "year": 2021,
+      "citation_raw": "Introducing adaptive mechatronic designs in bulk handling industry van Kol, T. V., Jovanova, J., Mohajeri, M. & Schott, D. L., 2021, Proceedings 2021 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM). Pisacataway, NJ, USA: IEEE, p. 1095-1100",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Single-phase elastic metamaterials for wave filtering",
+      "year": 2021,
+      "citation_raw": "Downloads (Pure) Single-phase elastic metamaterials for wave filtering Vasconcelos, A. C. A., Schott, D., Aragon, A. M. & Jovanova, J., 2021, Proceedings of ASME 2021 Conference on Smart Materials, Adaptive Structures and Intelligent Systems, SMASIS 2021. American Society of Mechanical Engineers (ASME), 6 p. V001T01A015",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Design of floating terminals as integrated project for multi-machine systems",
+      "year": 2020,
+      "citation_raw": "Design of floating terminals as integrated project for multi-machine systems Jovanova, J., van den Bos, W. & Schott, D. L., 2020, Proceedings of the 2nd World Conference on Floating Solutions 2020, WCFS 2020: Paving the Waves. Piątek, L., de Graaf-van Dinther, R., Heng, L. S. & Wang, C. M. (eds.). Blue21, p. 340-352",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Waterborne Hinterland Transports for Floating Port Terminals",
+      "year": 2020,
+      "citation_raw": "Downloads (Pure) Waterborne Hinterland Transports for Floating Port Terminals Assbrock, G., Ley, J., Dafnomilis, I., Duinkerken, M. B. & Schott, D. L., 2020, Computational Logistics : Proceedings of the 11th International Conference, ICCL 2020. Lalla-Ruiz, E., Mes, M. & Voß, S. (eds.). Cham, Switzerland: Springer, p. 101-118 (Lecture Notes in Computer Science; vol. 12433 ).",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Biomass pellet breakage: A numerical comparison between contact models",
+      "year": 2019,
+      "citation_raw": "Biomass pellet breakage: A numerical comparison between contact models Gilvari, H., de Jong, W. & Schott, D., 2019, Proceedings of the 8th International Conference on Discrete Element Methods (DEM8). 11 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Coarse graining of adhesive elasto-plastic DEM contact models in quasi-static processes",
+      "year": 2019,
+      "citation_raw": "Downloads (Pure) Coarse graining of adhesive elasto-plastic DEM contact models in quasi-static processes Mohajeri, J., van Rhee, C. & Schott, D., 2019, Proceedings of the 13th International Conference on Bulk Materials Storage, Handling and Transportation. Newcastle, Australia: University of Newcastle, 7 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Design of Optimized Convex Pattern Surface for Wear Tests in A Test Rig",
+      "year": 2019,
+      "citation_raw": "Quasi-Static Process 100% Design of Optimized Convex Pattern Surface for Wear Tests in A Test Rig Yan, Y., Vreeburg, W., Chen, G., Wheeler, C. & Schott, D., 2019, Proceedings of the 13th International Conference on Bulk Materials Storage, Handling and Transportation. University of Newcastle, 8 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Energy savings for belt conveying system by preview control",
+      "year": 2019,
+      "citation_raw": "Surfaces 100% Energy savings for belt conveying system by preview control Pang, Y., Qiao, T., Schott, D. & Yan, G., 2019, Proceedings of the 13th International Conference on Bulk Materials Storage, Handling and Transportation. University of Newcastle, 10 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Minimization of wear in a transfer chute by geometric optimization of convex pattern surface: A DEM study",
+      "year": 2019,
+      "citation_raw": "Preview Control 100% Minimization of wear in a transfer chute by geometric optimization of convex pattern surface: A DEM study Yan, Y., Vreeburg, W., Chen, G. & Schott, D., 2019, Proceedings of the 8th International Conference on Discrete Element Methods (DEM8). 12 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Optimization design of a floating modular port terminal",
+      "year": 2019,
+      "citation_raw": "Downloads (Pure) Optimization design of a floating modular port terminal Dafnomilis, I., Duinkerken, M. B., Schott, D. L., Ley, J. & Assbrock, G., 2019, Proceedings of the XXIII International Conference on Material Handling, Constructions and Logistics, MHCL 2019. Kartnig, G., Zrnić, N. & Bošnjak, S. (eds.). University of Belgrade, p. 299-308",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Oscillating disc technology for rock excavation",
+      "year": 2019,
+      "citation_raw": "Optimization 100% Oscillating disc technology for rock excavation Grashof, B., Alvarez Grima, M., Schott, D. & Helmons, R., 2019, Proceedings of the 8th International Conference on Discrete Element Methods (DEM8). 11 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Reducing Sunflower Oil Production Disturbances",
+      "year": 2019,
+      "citation_raw": "Downloads (Pure) Reducing Sunflower Oil Production Disturbances Wissink, L., Beelaerts van Blokland, W., Osterholt, J., van Royen, J. & Schott, D., 2019, Proceedings of the 13th International Conference on Bulk Materials Storage, Handling and Transportation. University of Newcastle, 10 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Stochastic floating quay crane scheduling on offshore platforms: A simheuristic approach",
+      "year": 2019,
+      "citation_raw": "Production Disturbances 100% Stochastic floating quay crane scheduling on offshore platforms: A simheuristic approach Souravlias, D., Duinkerken, M. B., Morshuis, S., Schott, D. L. & Negenborn, R. R., 2019, 21st International Conference on Harbor, Maritime and Multimodal Logistics Modeling and Simulation, HMS 2019. Bottani, E., Bruzzone, A. G., Longo, F., Merkuryev, Y. & Piera, M. A. (eds.). Dime University of Genoa, p. 62-71 (International Conference on Harbour, Maritime and Multimodal Logistics Modelling and Simulation).",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Link opens in a new tab",
+      "year": 2019,
+      "citation_raw": "Link opens in a new tab Citations (Scopus) The Effect of Pellet Length on Mechanical Durability and Breakage Behaviour of Torrefied Biomass Gilvari, H., de Jong, W. & Schott, D., 2019, Proceedings of the 13th International Conference on Bulk Materials Storage, Handling and Transportation. University of Newcastle, 7 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Demand forecast models for online supermarkets",
+      "year": 2018,
+      "citation_raw": "Demand forecast models for online supermarkets Evers, J. M., Tavasszy, L., van Duin, R., Schott, D. & Gorte, F., 2018, E-groceries, digitalization and sustainability: Which governance, planning and regulation mix do our cities need? . Molde University, p. 1 12 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Discrete element model of cohesive material in a ring shear tester by applying genetic algorithms",
+      "year": 2018,
+      "citation_raw": "Downloads (Pure) Discrete element model of cohesive material in a ring shear tester by applying genetic algorithms Do, H., Mohajeri, J. & Schott, D., 2018, CHoPS 2018: 9th International Conference on Conveying and Handling of Particulate Solids. 7 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Discrete Element Model",
+      "year": 2018,
+      "citation_raw": "Discrete Element Model 100% Industrial scale validation of DEM supported grab design: Completing the design cycle Schott, D., Mohajeri, J. & de Kluijver, W., 2018, CHoPS 2018: 9th International Conference on Conveying and Handling of Particulate Solids. 6 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Metamodelling of structural design parameters affecting silo discharge performance",
+      "year": 2018,
+      "citation_raw": "Validation 100% Metamodelling of structural design parameters affecting silo discharge performance Fransen, M. & Schott, D., 2018, CHoPS 2018: 9th International Conference on Conveying and Handling of Particulate Solids. 6 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Penetration resistance of cohesive iron ore: A DEM study",
+      "year": 2018,
+      "citation_raw": "Design 100% Penetration resistance of cohesive iron ore: A DEM study Mohajeri, J., van Rhee, C. & Schott, D., 2018, CHoPS 2018: 9th International Conference on Conveying and Handling of Particulate Solids. 6 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "A research procedure to obtain a green transport plan for deep sea mining systems",
+      "year": 2017,
+      "citation_raw": "A research procedure to obtain a green transport plan for deep sea mining systems Ma, W., Schott, D. & Lodewijks, G., 2017, Proceedings of the 2017 27th International Ocean and Polar Engineering Conference. Chung, J. S. (ed.). Cupertino, CA, USA: International Society of Offshore and Polar Engineers (ISOPE), p. 22-29",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Link opens in a new tab",
+      "year": 2017,
+      "citation_raw": "Link opens in a new tab Citations (Scopus) Assessing the representativeness of durability tests for wood pellets by DEM Simulation: Comparing conditions in a durability test with transfer chutes Mahajan, A., Dafnomilis, G., Hancock, V., Lodewijks, G. & Schott, D., 2017, EPJ Web of Conferences: Powders and Grains 2017 - 8th International Conference on Micromechanics on Granular Media. Radjai, F., Nezamabadi, S., Luding, S. & Delenne, J.-Y. (eds.). EDP Sciences, Vol. 140. 4 p. 15004. (EPJ Web of Conferences; vol. 140).",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Automated discrete element method calibration using genetic and optimization algorithms",
+      "year": 2017,
+      "citation_raw": "Downloads (Pure) Automated discrete element method calibration using genetic and optimization algorithms Do, H. Q., Aragón, A. M. & Schott, D. L., 2017, Proceedings of the 8th International Conference on Micromechanics on Granular Media : Powders and Grains 2017. Radjai, F., Nezamabadi, S., Luding, S. & Delenne, J. Y. (eds.). Les Ulis Cedex A, France: EDP Sciences, 4 p. 15011. (EPJ Web of Conferences; vol. 140).",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Biomass handling systems and simulations",
+      "year": 2017,
+      "citation_raw": "Downloads (Pure) Biomass handling systems and simulations Schott, D. L., 2017, Proceedings of the XXII International Conference MHCL’17. Belgrade, Serbia: FME Belgrade, 6 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Granular flow to a blast iron ore furnace: Influence of particle size distribution on segregation of a mixture",
+      "year": 2016,
+      "citation_raw": "Granular flow to a blast iron ore furnace: Influence of particle size distribution on segregation of a mixture Schott, D., Vreeburg, W., Molhoek, C. & Lodewijks, G., 2016, Traffic and Granular Flow '15. Knoop, V. L. & Daamen, W. (eds.). Cham, Switzerland: Springer, p. 621-628",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Torrefied biomass and its handling aspects: A state-of-the-art review",
+      "year": 2016,
+      "citation_raw": "Blasts 100% Torrefied biomass and its handling aspects: A state-of-the-art review Hancock, V., Dafnomilis, G., Schott, D. & Lodewijks, G., 2016, Proceedings of the 12th International Conference on Bulk Materials Storage, Handling and Transportation (ICBMH 2016). Barton, Australia: Engineers Australia, p. 615-624",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Assessing reliability and accuracy of IBM-DEM coupling method: modelling single particle sedimentation",
+      "year": 2015,
+      "citation_raw": "Assessing reliability and accuracy of IBM-DEM coupling method: modelling single particle sedimentation Derakhshani, S., Schott, D. & Lodewijks, G., 2015, Proceedings 23rd Annual International Conference on Mechanical Engineering. Montazerin, N. & Safar Avval, M. (eds.). Tehran, Iran: Amirkabir Univ. of Technology, p. 1-4 4 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Biomass handling equipment overview",
+      "year": 2015,
+      "citation_raw": "Biomass handling equipment overview Dafnomilis, I., Lanphen, L., Schott, D. & Lodewijks, G., 2015, Proceedings XXI International Conference on Material Handling, Constructions and Logistics. Zrnic, N., Bosnjak, S. & Kartnig, G. (eds.). Belgrade, Serbia: Fac. Mechanical Engineering, University of Belgrade, p. 65-70 6 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Calibrating the microscopic properties of quartz sand with discrete element method",
+      "year": 2015,
+      "citation_raw": "Calibrating the microscopic properties of quartz sand with discrete element method Derakhshani, S., Schott, D. & Lodewijks, G., 2015, Proceedings 23rd Annual International Conference on Mechanical Engineering. Montazerin, N. & Safar Avval, M. (eds.). Tehran, Iran: Amirkabir Univ. of Technology, p. 1-4 4 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Current practices in solid biomass terminals in the Netherlands",
+      "year": 2015,
+      "citation_raw": "Current practices in solid biomass terminals in the Netherlands Dafnomilis, I., Schott, D. & Lodewijks, G., 2015, Proceedings 23rd European Biomass Conference and Exhibition. Obernberger, I., Baxter, D., Grassi, A. & Helm, P. (eds.). Florence, Italy: ETA-Florence Renewable Energies, p. 634-641 8 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "On the durability tests for handling of solid biomass such as wood pellets",
+      "year": 2015,
+      "citation_raw": "On the durability tests for handling of solid biomass such as wood pellets Schott, D., Tans, R., Dafnomilis, I., Hancock, V. & Lodewijks, G., 2015, Proceedings XXI International Conference on Material Handling, Constructions and Logistics. Kartnig, G., Zrnic, N. & Bosnjak, S. (eds.). Belgrade, Serbia: Fac. Mechanical Engineering, University of Belgrade, p. 71-76 6 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Predicting the sliding wear of mild steel by iron ore particle using the discrete element method",
+      "year": 2015,
+      "citation_raw": "Predicting the sliding wear of mild steel by iron ore particle using the discrete element method Chen, G., Schott, D. & Lodewijks, G., 2015, Crossroads of Particle Science and Technology - Proceedings of the Joint Conference of the 5th UK-China and 13th UK Particle Techmnology Forum. Wen, D. & Raza, G. (eds.). Leeds, UK: University of Leeds, p. 1-2 2 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Theoretical study of bionic design method on wear reduction of bulk materials handling equipment",
+      "year": 2015,
+      "citation_raw": "Theoretical study of bionic design method on wear reduction of bulk materials handling equipment Chen, G., Schott, D. & Lodewijks, G., 2015, Proceedings of the 8th Intemational Conference for Conveying and Handling of Particulate Solids. Kalman, H. & Levy, A. (eds.). Tel Aviv, Israel: OTRA Ltd., p. 1-14 14 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Dust emission modeling around a stockpile by using computational fluid dynamics and discrete element method",
+      "year": 2013,
+      "citation_raw": "Dust emission modeling around a stockpile by using computational fluid dynamics and discrete element method Derakhshani, S., Schott, D. & Lodewijks, G., 2013, Proceedings of the 7th International Conference on Micromechanics of Granular Media. Yu, A., Dong, K., Yang, R. & Luding, S. (eds.). Melville, NY, USA: AIP Publishing, p. 1055-1058 4 p. (AIP Conference Proceedings; vol. 1542).",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Link opens in a new tab",
+      "year": 2013,
+      "citation_raw": "Link opens in a new tab Citations (Scopus) Modeling dust liberation at the belt conveyor transfer point with CFD and DEM Derakhshani, S., Schott, D. & Lodewijks, G., 2013, Proceedings 11th International Congress on Bulk Materials Storage, Handling and Transportation. Jones, M. (ed.). Callaghan, NSW, Australia: Newcastle University, p. 1-11 11 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Link opens in a new tab",
+      "year": 2013,
+      "citation_raw": "Link opens in a new tab Citations (Scopus) Validation of a co-simulation of a grab using discrete element method and multibody dynamics models Lommen, S., Schott, D. & Lodewijks, G., 2013, Proceedings of the 11th International Conference on Bulk Materials Storage, Handling and Transportation. Jones, M. (ed.). Callaghan, NSW, Australia: Newcastle University, p. 1-13 13 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Dem speedup: stiffness effects on bulk material behavior",
+      "year": 2012,
+      "citation_raw": "Dem speedup: stiffness effects on bulk material behavior Lommen, S., Schott, D. & Lodewijks, G., 2012, Proceedings of the 7th international conference for conveying and handling of particulate solids. Levy, A. (ed.). Frankfurt am Main: DECHEMA, p. 1-7 7 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Developing a dem model of a grab",
+      "year": 2012,
+      "citation_raw": "Developing a dem model of a grab Lommen, S., Schott, D. & Lodewijks, G., 2012, Bulksolids europe 2012, international conference on storing, handling and transporting bulk. s.n. (ed.). Wurzburg: Vogel business media, p. 1-8 8 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "Dynamic moisture distribution in stockpiles for asphalt production",
+      "year": 2012,
+      "citation_raw": "Dynamic moisture distribution in stockpiles for asphalt production de Bruin, B., Schott, D., Ottjes, J., Duinkerken, M., Demmink, E. & Lodewijks, G., 2012, Proceedings of the 7th international conference for conveying and handling of particulate solids. Levy, A. (ed.). Frankfurt am Main: DECHEMA, p. 1-6 6 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontobookanthology%2Fconference"
+    },
+    {
+      "title": "rendering rendering_researchoutput rendering_researchoutput_portal-short rendering_bookanthology rendering_portal-short rendering_bookanthology_portal-short",
+      "year": 2021,
+      "citation_raw": "<description>&lt;div class=\"rendering rendering_researchoutput rendering_researchoutput_portal-short rendering_bookanthology rendering_portal-short rendering_bookanthology_portal-short\"&gt;&lt;h3 class=\"title\"&gt;&lt;a rel=\"BookAnthology\" href=\"https://research.tudelft.nl/en/publications/floating-island-development-and-deployment-roadmap/\" class=\"link\"&gt;&lt;span&gt;Floating Island Development and Deployment Roadmap&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;Flikkema, M., Breuls, M., Jak, R., de Ruijter, R., Drummen, I., Jordaens, A., Adam, F., Czapiewska, K., Lin, F.-Y., &lt;a rel=\"Person\" href=\"https://research.tudelft.nl/en/persons/dl-schott/\" class=\"link person\"&gt;&lt;span&gt;Schott, D. L.&lt;/span&gt;&lt;/a&gt;, Schay, J. &amp;amp; Otto, W., &lt;span class=\"date\"&gt;2021&lt;/span&gt;, &lt;a rel=\"Publisher\" href=\"#\" class=\"link\"&gt;&lt;span&gt;Space@Sea&lt;/span&gt;&lt;/a&gt;. &lt;span class=\"numberofpages\"&gt;73 p.&lt;/span&gt;&lt;p class=\"type\"&gt;&lt;span class=\"type_family\"&gt;Research output&lt;span class=\"type_family_sep\"&gt;: &lt;/span&gt;&lt;/span&gt;&lt;span class=\"type_classification_parent\"&gt;Book/Report&lt;span class=\"type_parent_sep\"&gt; › &lt;/span&gt;&lt;/span&gt;&lt;span class=\"type_classification\"&gt;Report&lt;/span&gt;&lt;span class=\"type_classification\"&gt;&lt;span class=\"type_parent_sep\"&gt; › &lt;/span&gt;Scientific&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</description>",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned&format=rss"
+    },
+    {
+      "title": "rendering rendering_researchoutput rendering_researchoutput_portal-short rendering_bookanthology rendering_portal-short rendering_bookanthology_portal-short",
+      "year": 2021,
+      "citation_raw": "<link>https://research.tudelft.nl/en/publications/floating-island-development-and-deployment-roadmap/</link> <description>&lt;div class=\"rendering rendering_researchoutput rendering_researchoutput_portal-short rendering_bookanthology rendering_portal-short rendering_bookanthology_portal-short\"&gt;&lt;h3 class=\"title\"&gt;&lt;a rel=\"BookAnthology\" href=\"https://research.tudelft.nl/en/publications/floating-island-development-and-deployment-roadmap/\" class=\"link\"&gt;&lt;span&gt;Floating Island Development and Deployment Roadmap&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;Flikkema, M., Breuls, M., Jak, R., de Ruijter, R., Drummen, I., Jordaens, A., Adam, F., Czapiewska, K., Lin, F.-Y., &lt;a rel=\"Person\" href=\"https://research.tudelft.nl/en/persons/dl-schott/\" class=\"link person\"&gt;&lt;span&gt;Schott, D. L.&lt;/span&gt;&lt;/a&gt;, Schay, J. &amp;amp; Otto, W., &lt;span class=\"date\"&gt;2021&lt;/span&gt;, &lt;a rel=\"Publisher\" href=\"#\" class=\"link\"&gt;&lt;span&gt;Space@Sea&lt;/span&gt;&lt;/a&gt;. &lt;span class=\"numberofpages\"&gt;73 p.&lt;/span&gt;&lt;p class=\"type\"&gt;&lt;span class=\"type_family\"&gt;Research output&lt;span class=\"type_family_sep\"&gt;: &lt;/span&gt;&lt;/span&gt;&lt;span class=\"type_classification_parent\"&gt;Book/Report&lt;span class=\"type_parent_sep\"&gt; › &lt;/span&gt;&lt;/span&gt;&lt;span class=\"type_classification\"&gt;Report&lt;/span&gt;&lt;span class=\"type_classification\"&gt;&lt;span class=\"type_parent_sep\"&gt; › &lt;/span&gt;Scientific&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</description> <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned&format=rss"
+    },
+    {
+      "title": "rendering rendering_researchoutput rendering_researchoutput_portal-short rendering_bookanthology rendering_portal-short rendering_bookanthology_portal-short",
+      "year": 2019,
+      "citation_raw": "<description>&lt;div class=\"rendering rendering_researchoutput rendering_researchoutput_portal-short rendering_bookanthology rendering_portal-short rendering_bookanthology_portal-short\"&gt;&lt;h3 class=\"title\"&gt;&lt;a rel=\"BookAnthology\" href=\"https://research.tudelft.nl/en/publications/calibration-of-dem-parameters-for-cohesionless-bulk-materials-und/\" class=\"link\"&gt;&lt;span&gt;Calibration of DEM parameters for cohesionless bulk materials under rapid flow conditions and low consolidation&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;Katterfeld, A., Coetzee, C., Donohue, T., Fottner, J., Grima, A., Ramirez Gomez, A., Ilic, D., Kačianauskas, R., Necas, J., &lt;a rel=\"Person\" href=\"https://research.tudelft.nl/en/persons/dl-schott/\" class=\"link person\"&gt;&lt;span&gt;Schott, D. L.&lt;/span&gt;&lt;/a&gt;, Williams, K. &amp;amp; Zegzulka, J., &lt;span class=\"date\"&gt;2019&lt;/span&gt;, &lt;span class=\"numberofpages\"&gt;19 p.&lt;/span&gt;&lt;p class=\"type\"&gt;&lt;span class=\"type_family\"&gt;Research output&lt;span class=\"type_family_sep\"&gt;: &lt;/span&gt;&lt;/span&gt;&lt;span class=\"type_classification_parent\"&gt;Book/Report&lt;span class=\"type_parent_sep\"&gt; › &lt;/span&gt;&lt;/span&gt;&lt;span class=\"type_classification\"&gt;Report&lt;/span&gt;&lt;span class=\"type_classification\"&gt;&lt;span class=\"type_parent_sep\"&gt; › &lt;/span&gt;Professional&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</description>",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned&format=rss"
+    },
+    {
+      "title": "rendering rendering_researchoutput rendering_researchoutput_portal-short rendering_bookanthology rendering_portal-short rendering_bookanthology_portal-short",
+      "year": 2019,
+      "citation_raw": "<link>https://research.tudelft.nl/en/publications/calibration-of-dem-parameters-for-cohesionless-bulk-materials-und/</link> <description>&lt;div class=\"rendering rendering_researchoutput rendering_researchoutput_portal-short rendering_bookanthology rendering_portal-short rendering_bookanthology_portal-short\"&gt;&lt;h3 class=\"title\"&gt;&lt;a rel=\"BookAnthology\" href=\"https://research.tudelft.nl/en/publications/calibration-of-dem-parameters-for-cohesionless-bulk-materials-und/\" class=\"link\"&gt;&lt;span&gt;Calibration of DEM parameters for cohesionless bulk materials under rapid flow conditions and low consolidation&lt;/span&gt;&lt;/a&gt;&lt;/h3&gt;Katterfeld, A., Coetzee, C., Donohue, T., Fottner, J., Grima, A., Ramirez Gomez, A., Ilic, D., Kačianauskas, R., Necas, J., &lt;a rel=\"Person\" href=\"https://research.tudelft.nl/en/persons/dl-schott/\" class=\"link person\"&gt;&lt;span&gt;Schott, D. L.&lt;/span&gt;&lt;/a&gt;, Williams, K. &amp;amp; Zegzulka, J., &lt;span class=\"date\"&gt;2019&lt;/span&gt;, &lt;span class=\"numberofpages\"&gt;19 p.&lt;/span&gt;&lt;p class=\"type\"&gt;&lt;span class=\"type_family\"&gt;Research output&lt;span class=\"type_family_sep\"&gt;: &lt;/span&gt;&lt;/span&gt;&lt;span class=\"type_classification_parent\"&gt;Book/Report&lt;span class=\"type_parent_sep\"&gt; › &lt;/span&gt;&lt;/span&gt;&lt;span class=\"type_classification\"&gt;Report&lt;/span&gt;&lt;span class=\"type_classification\"&gt;&lt;span class=\"type_parent_sep\"&gt; › &lt;/span&gt;Professional&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</description> <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned&format=rss"
+    },
+    {
+      "title": "Kačianauskas, R., Necas",
+      "year": 2019,
+      "citation_raw": "Katterfeld, A., Coetzee, C., Donohue, T., Fottner, J., Grima, A., Ramirez Gomez, A., Ilic, D., Kačianauskas, R., Necas, J., Schott, D. L., Williams, K. & Zegzulka, J., 2019, 19 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned&ordering=title&descending=false"
+    },
+    {
+      "title": "de Ruijter, R., Drummen, I",
+      "year": 2021,
+      "citation_raw": "Flikkema, M., Breuls, M., Jak, R., de Ruijter, R., Drummen, I., Jordaens, A., Adam, F., Czapiewska, K., Lin, F.-Y., Schott, D. L., Schay, J. & Otto, W., 2021, Space@Sea. 73 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned&ordering=title&descending=false"
+    },
+    {
+      "title": "& Elsevier Fingerprint Engine™",
+      "year": 2026,
+      "citation_raw": "& Elsevier Fingerprint Engine™ Link opens in a new tab All content on this site: Copyright © 2026 TU Delft Research Portal, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fbookanthology%2Fcommissioned&ordering=title&descending=false"
+    },
+    {
+      "title": "Identification of dominant DEM parameters for multi-component segregation during heap formation, hopper discharge and chute flow",
+      "year": 2024,
+      "citation_raw": "Identification of dominant DEM parameters for multi-component segregation during heap formation, hopper discharge and chute flow Hadi, A., Shi, H., Pang, Y. & Schott, D., 2024, In: Powder Technology. 444, 22 p., 119985.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Model-based design of a mechanically intelligent shape-morphing structure",
+      "year": 2024,
+      "citation_raw": "Downloads (Pure) Model-based design of a mechanically intelligent shape-morphing structure Chen, Q., Schott, D. L. & Jovanova, J., 2024, In: Scientific Reports. 14, 1, 13 p., 26148.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Model-Based Design of Variable Stiffness Soft Gripper Actuated by Smart Hydrogels",
+      "year": 2024,
+      "citation_raw": "Downloads (Pure) Model-Based Design of Variable Stiffness Soft Gripper Actuated by Smart Hydrogels Chen, Q., Schott, D. & Jovanova, J., 2024, In: Soft Robotics. 11, 6, p. 924-934 11 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Link opens in a new tab",
+      "year": 2024,
+      "citation_raw": "Link opens in a new tab Citations (Scopus) Model-based design strategy for mechanically intelligent building blocks Chen, Q., Schott, D. L. & Jovanova, J., 2024, In: Mechanical Engineering – Scientific Journal. 42, 2, p. 83-94",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Numerical and Experimental Investigation of Sodium Borohydride as Circular Fuel for Marine Vessels",
+      "year": 2024,
+      "citation_raw": "Downloads (Pure) Numerical and Experimental Investigation of Sodium Borohydride as Circular Fuel for Marine Vessels van Benten, M. C., Padding, J. T. & Schott, D. L., 2024. 1 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Numerical study on material removal of a convex pattern surface interacting with non-spherical particles",
+      "year": 2024,
+      "citation_raw": "Downloads (Pure) Numerical study on material removal of a convex pattern surface interacting with non-spherical particles Yan, Y., Pargalgauskas, S., Helmons, R. & Schott, D., 2024, In: Powder Technology. 436, 12 p., 119226.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Shifting waves of shipping: a review on global shipping projections and methodologies",
+      "year": 2024,
+      "citation_raw": "Downloads (Pure) Shifting waves of shipping: a review on global shipping projections and methodologies Naghash, H., Schott, D. & Pruyn, J., 2024, In: Journal of Shipping and Trade. 9, 1, 43 p., 29.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Sodium Borohydride as Alternative Fuel for Maritime Vessels",
+      "year": 2024,
+      "citation_raw": "Downloads (Pure) Sodium Borohydride as Alternative Fuel for Maritime Vessels van Benten, M. C., Padding, J. T. & Schott, D. L., 2024, p. 583-588. 6 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Calibration of DEM Parameters for Multi-Component Segregation",
+      "year": 2023,
+      "citation_raw": "Downloads (Pure) Calibration of DEM Parameters for Multi-Component Segregation Hadi, A. H., Pang, Y. & Schott, D. L., 2023. 13 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "DEM Modelling of Segregation in Granular Materials: A Review",
+      "year": 2023,
+      "citation_raw": "Downloads (Pure) DEM Modelling of Segregation in Granular Materials: A Review Hadi, A. H., Roeplal, R. N., Pang, Y. & Schott, D. L., 2023, In: KONA Powder and Particle Journal. 41, p. 78-107 30 p., 2024017.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Deterministic vs. robust design optimization using DEM-based metamodels",
+      "year": 2023,
+      "citation_raw": "Downloads (Pure) Deterministic vs. robust design optimization using DEM-based metamodels Fransen, M. P., Langelaar, M. & Schott, D. L., 2023, In: Powder Technology. 425, 14 p., 118526.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "How the Packing Density and Penetration Resistance is Influenced by Particle Shape: DEM Modelling of Plate Penetration in Granular Media",
+      "year": 2023,
+      "citation_raw": "Downloads (Pure) How the Packing Density and Penetration Resistance is Influenced by Particle Shape: DEM Modelling of Plate Penetration in Granular Media van Selm, G. J., Mohajeri, M., Shi, H. & Schott, D. L., 2023. 10 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Investigation of dominating DEM parameters for multicomponent segregation during heap formation, hopper discharge and chute flow",
+      "year": 2023,
+      "citation_raw": "Downloads (Pure) Investigation of dominating DEM parameters for multicomponent segregation during heap formation, hopper discharge and chute flow Hadi, A. H., Shi, H., Pang, Y. & Schott, D. L., 2023. 1 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Modelling of material removal due to sliding wear caused by bulk material",
+      "year": 2023,
+      "citation_raw": "Downloads (Pure) Modelling of material removal due to sliding wear caused by bulk material Yan, Y., Helmons, R., Carr, M., Wheeler, C. & Schott, D., 2023, In: Powder Technology. 415, 14 p., 118109.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Modelling of phenomena affecting blast furnace burden permeability using the Discrete Element Method (DEM) – A review",
+      "year": 2023,
+      "citation_raw": "Downloads (Pure) Modelling of phenomena affecting blast furnace burden permeability using the Discrete Element Method (DEM) – A review Roeplal, R., Pang, Y., Adema, A., van der Stel, J. & Schott, D., 2023, In: Powder Technology. 415, 34 p., 118161.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Multibody Dynamics and Discrete Element Method Co-Simulations for Large-Scale Industrial Equipment",
+      "year": 2023,
+      "citation_raw": "Downloads (Pure) Multibody Dynamics and Discrete Element Method Co-Simulations for Large-Scale Industrial Equipment Schott, D. L. & Mohajeri, J., 2023, Simulations in Bulk Solids Handling: Applications of DEM and other Methods. McGlinchey, D. (ed.). Wiley, p. 107-143",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Link opens in a new tab",
+      "year": 2023,
+      "citation_raw": "Link opens in a new tab Citations (Scopus) Multi-Objective Design Optimization of a Metamaterial-Based Interface Azevedo Vasconcelos, A. C., Aragon, A. M., Schott, D. L. & Jovanova, J., 2023, p. 258-258.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Parametric Analysis of a Double Shaft, Batch-Type Paddle Mixer Using the Discrete Element Method (DEM)",
+      "year": 2023,
+      "citation_raw": "Downloads (Pure) Parametric Analysis of a Double Shaft, Batch-Type Paddle Mixer Using the Discrete Element Method (DEM) Emmerink, J. V., Hadi, A. H., Jovanova, J., Cleven, C. & Schott, D. L., 2023, In: Processes. 11, 3, 22 p., 738.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Towards Hydrogen-Fuelled Marine Vessels using Solid Hydrogen Carriers",
+      "year": 2023,
+      "citation_raw": "Downloads (Pure) Towards Hydrogen-Fuelled Marine Vessels using Solid Hydrogen Carriers van Benten, M. C., Padding, J. T. & Schott, D. L., 2023. 12 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Fragmentation of fuel pellets during transport via a belt conveyor: A design of experiment study",
+      "year": 2022,
+      "citation_raw": "Downloads (Pure) Fragmentation of fuel pellets during transport via a belt conveyor: A design of experiment study Gilvari, H., van Battum, C. H. H., Farnish, R., Pang, Y., de Jong, W. & Schott, D. L., 2022, In: Particuology. 66, p. 29-37",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Including stochastics in metamodel-based DEM model calibration",
+      "year": 2022,
+      "citation_raw": "Downloads (Pure) Including stochastics in metamodel-based DEM model calibration Fransen, M. P., Langelaar, M. & Schott, D. L., 2022, In: Powder Technology. 406, 20 p., 117400.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Pin-on-Disc Modelling with Mesh Deformation Using Discrete Element Method",
+      "year": 2022,
+      "citation_raw": "Downloads (Pure) Pin-on-Disc Modelling with Mesh Deformation Using Discrete Element Method Yan, Y., Helmons, R. L. J. & Schott, D. L., 2022, In: Materials. 15, 5, 17 p., 1813.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Ship-Based Carbon Capture and Storage: A Supply Chain Feasibility Study",
+      "year": 2022,
+      "citation_raw": "Downloads (Pure) Ship-Based Carbon Capture and Storage: A Supply Chain Feasibility Study Buirma, M. I. M. J., Vleugel, J., Pruijn, J. F. J., Doedee, V. & Schott, D. L., 2022, In: Energies. 15, 3, 21 p., 813.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "The Influence of Particle Size on Sliding Wear of a Convex Pattern Surface",
+      "year": 2022,
+      "citation_raw": "Downloads (Pure) The Influence of Particle Size on Sliding Wear of a Convex Pattern Surface Yan, Y., Helmons, R. L. J. & Schott, D. L., 2022, In: Minerals - Open Access Mining & Mineral Processing Journal. 12, 2, 20 p., 139.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "A Numerical Investigation of an Abnormal Phenomenon of Stress Intensity Factor (SIF) in a Cracked T-Butt Joint Accounting for Welding Effect",
+      "year": 2021,
+      "citation_raw": "A Numerical Investigation of an Abnormal Phenomenon of Stress Intensity Factor (SIF) in a Cracked T-Butt Joint Accounting for Welding Effect Schiaretti, M., Cai, J., Jiang, X., Zhang, S. & Schott, D., 2021, In: Journal of Marine Science and Application. 20, 2, p. 343-353",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Application of DEM-based metamodels in bulk handling equipment design: Methodology and DEM case study",
+      "year": 2021,
+      "citation_raw": "Downloads (Pure) Application of DEM-based metamodels in bulk handling equipment design: Methodology and DEM case study Fransen, M. P., Langelaar, M. & Schott, D. L., 2021, In: Powder Technology. 393, p. 205-218",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "A validated co-simulation of grab and moist iron ore cargo: Replicating the cohesive and stress-history dependent behaviour of bulk solids",
+      "year": 2021,
+      "citation_raw": "Downloads (Pure) A validated co-simulation of grab and moist iron ore cargo: Replicating the cohesive and stress-history dependent behaviour of bulk solids Mohajeri, M. J., de Kluijver, W., Helmons, R. L. J., van Rhee, C. & Schott, D. L., 2021, In: Advanced Powder Technology. 32, 4, p. 1157-1169",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Floating Island Development and Deployment Roadmap",
+      "year": 2021,
+      "citation_raw": "Downloads (Pure) Floating Island Development and Deployment Roadmap Flikkema, M., Breuls, M., Jak, R., de Ruijter, R., Drummen, I., Jordaens, A., Adam, F., Czapiewska, K., Lin, F.-Y., Schott, D. L., Schay, J. & Otto, W., 2021, Space@Sea. 73 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Introducing adaptive mechatronic designs in bulk handling industry",
+      "year": 2021,
+      "citation_raw": "Downloads (Pure) Introducing adaptive mechatronic designs in bulk handling industry van Kol, T. V., Jovanova, J., Mohajeri, M. & Schott, D. L., 2021, Proceedings 2021 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM). Pisacataway, NJ, USA: IEEE, p. 1095-1100",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Large-scale transportation and storage of wood pellets: Investigation of the change in physical properties",
+      "year": 2021,
+      "citation_raw": "Downloads (Pure) Large-scale transportation and storage of wood pellets: Investigation of the change in physical properties Gilvari, H., van Battum, C. H. H., van Dijk, S. A., de Jong, W. & Schott, D. L., 2021, In: Particuology. 57, p. 146-156",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Microstructural degradation during the storage of biomass pellets",
+      "year": 2021,
+      "citation_raw": "Downloads (Pure) Microstructural degradation during the storage of biomass pellets Cutz, L., Tiringer, U., Gilvari, H., Schott, D., Mol, A. & de Jong, W., 2021, In: Communications Materials. 2, 1, 12 p., 2.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Optimization of a convex pattern surface for sliding wear reduction based on a definitive screening design and discrete element method",
+      "year": 2021,
+      "citation_raw": "Downloads (Pure) Optimization of a convex pattern surface for sliding wear reduction based on a definitive screening design and discrete element method Yan, Y., Helmons, R., Wheeler, C. & Schott, D., 2021, In: Powder Technology. 394, p. 1094-1110",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Preface - Special issue: Towards Modelling Solids and Multiphase Flow for Large Scale Industrial Systems and Applications",
+      "year": 2021,
+      "citation_raw": "Downloads (Pure) Preface - Special issue: Towards Modelling Solids and Multiphase Flow for Large Scale Industrial Systems and Applications Schott, D., Kruggel-Emden, H. & Taghizadeh, K., 2021, In: Particuology. 59, p. 1-1",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Replicating cohesive and stress-history-dependent behavior of bulk solids: Feasibility and definiteness in DEM calibration procedure",
+      "year": 2021,
+      "citation_raw": "Replicating cohesive and stress-history-dependent behavior of bulk solids: Feasibility and definiteness in DEM calibration procedure Mohajeri, M. J., van Rhee, C. & Schott, D. L., 2021, In: Advanced Powder Technology. 32, 5, p. 1532-1548",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Systematic design optimization of grabs considering bulk cargo variability",
+      "year": 2021,
+      "citation_raw": "Downloads (Pure) Systematic design optimization of grabs considering bulk cargo variability Mohajeri, M. J., van den Bergh, A. J., Jovanova, J. & Schott, D. L., 2021, In: Advanced Powder Technology. 32, 5, p. 1723-1734",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "A hybrid particle-geometric scaling approach for elasto-plastic adhesive DEM contact models",
+      "year": 2020,
+      "citation_raw": "A hybrid particle-geometric scaling approach for elasto-plastic adhesive DEM contact models Mohajeri, M. J., Helmons, R. L. J., van Rhee, C. & Schott, D. L., 2020, In: Powder Technology. 369, p. 72-87",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Breakage behavior of biomass pellets: An experimental and numerical study",
+      "year": 2020,
+      "citation_raw": "Downloads (Pure) Breakage behavior of biomass pellets: An experimental and numerical study Gilvari, H., de Jong, W. & Schott, D. L., 2020, In: Computational Particle Mechanics. 8, 5, p. 1047-1060 14 p.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Bulk properties variability and interdependency determination for cohesive iron ore",
+      "year": 2020,
+      "citation_raw": "Downloads (Pure) Bulk properties variability and interdependency determination for cohesive iron ore Mohajeri, M. J., van den Bos, M. J., van Rhee, C. & Schott, D. L., 2020, In: Powder Technology. 367, p. 539-557",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "DEM calibration of cohesive material in the ring shear test by applying a genetic algorithm framework",
+      "year": 2020,
+      "citation_raw": "Downloads (Pure) DEM calibration of cohesive material in the ring shear test by applying a genetic algorithm framework Mohajeri, J., Do, H. & Schott, D., 2020, In: Advanced Powder Technology. 31, 5, p. 1838-1850",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Link opens in a new tab",
+      "year": 2020,
+      "citation_raw": "Link opens in a new tab Citations (Scopus) Design Framework for a Modular Floating Container Terminal Souravlias, D., Dafnomilis, I., Ley, J., Assbrock, G., Duinkerken, M. B., Negenborn, R. R. & Schott, D. L., 2020, In: Frontiers in Marine Science. 7, 17 p., 545637.",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Design of floating terminals as integrated project for multi-machine systems",
+      "year": 2020,
+      "citation_raw": "Downloads (Pure) Design of floating terminals as integrated project for multi-machine systems Jovanova, J., van den Bos, W. & Schott, D. L., 2020, Proceedings of the 2nd World Conference on Floating Solutions 2020, WCFS 2020: Paving the Waves. Piątek, L., de Graaf-van Dinther, R., Heng, L. S. & Wang, C. M. (eds.). Blue21, p. 340-352",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    },
+    {
+      "title": "Potential of DEM for investigation of non-consolidated flow of cohesive and elongated biomass particles",
+      "year": 2020,
+      "citation_raw": "Downloads (Pure) Potential of DEM for investigation of non-consolidated flow of cohesive and elongated biomass particles Pachón-Morales, J., Perré, P., Casalinho, J., Do, H., Schott, D., Puel, F. & Colin, J., 2020, In: Advanced Powder Technology. 31, 4, p. 1500-1515",
+      "source_url": "https://research.tudelft.nl/en/persons/dl-schott/publications/?page=1"
+    }
+  ]
 }

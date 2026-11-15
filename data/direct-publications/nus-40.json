@@ -3,14 +3,116 @@
   "university_key": "nus",
   "pi": "Vincent TAN",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:57:27.346Z",
-  "coverage_notes": [
+  "lab_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/",
+  "publication_urls": [
+    "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Official page heading: Vincent TAN",
     "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
     "No exact Publications/Papers navigation link resolved in captured profile."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "National University of Singapore (1994)",
+      "year": 1994,
+      "citation_raw": "BEng and MEng, National University of Singapore (1994)",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Impact mechanics and ballistics",
+      "year": 2021,
+      "citation_raw": "Impact mechanics and ballistics Selected Publications J Zhi, K Raju, TE Tay, VBC Tan, Transient multi-scale analysis with micro-inertia effects using Direct FE2 method, Computational Mechanics, 67(6), p1645-1660, 2021",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "A review of the FE 2 method for composites, Multiscale and Multidisciplinary Modeling, Experiments and Design",
+      "year": 2021,
+      "citation_raw": "K Raju, TE Tay, VBC Tan, A review of the FE 2 method for composites, Multiscale and Multidisciplinary Modeling, Experiments and Design, p1-24, 2021",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Improving the mechanical properties of natural fibre reinforced laminates composites through Biomimicry, Composite Structures",
+      "year": 2021,
+      "citation_raw": "E Chew, JL Liu, TE Tay, LQN Tran, VBC Tan, Improving the mechanical properties of natural fibre reinforced laminates composites through Biomimicry, Composite Structures, 258, 113208, 2021",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Direct FE2 for concurrent multilevel modelling of heterogeneous structures",
+      "year": 2020,
+      "citation_raw": "VBC Tan, K Raju, HP Lee, Direct FE2 for concurrent multilevel modelling of heterogeneous structures, Computer Methods in Applied Mechanics and Engineering, 360, 112694, 2020",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Healable bio-inspired helicoidal laminates",
+      "year": 2020,
+      "citation_raw": "JL Liu, HP Lee, TE Tay, VBC Tan, Healable bio-inspired helicoidal laminates, Composites Part A: Applied Science and Manufacturing, 137, 106024, 2020",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Effects of inter-ply angles on the failure mechanisms in bioinspired helicoidal laminates",
+      "year": 2018,
+      "citation_raw": "JL Liu, HP Lee, VBC Tan, Effects of inter-ply angles on the failure mechanisms in bioinspired helicoidal laminates, Composites Science and Technology, 165, p282-289, 2018",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Finite element modeling of nonlinear acoustics/ultrasonics for the detection of closed delaminations in composites, Ultrasonics",
+      "year": 2017,
+      "citation_raw": "AK Singh, BY Chen, VBC Tan, TE Tay, HP Lee, Finite element modeling of nonlinear acoustics/ultrasonics for the detection of closed delaminations in composites, Ultrasonics, 74, p89-98, 2017",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Crustacean-inspired helicoidal laminates",
+      "year": 2016,
+      "citation_raw": "JS Shang, NHH Ngern, VBC Tan, Crustacean-inspired helicoidal laminates, Composites Science and Technology, 128, p222-232, 2016",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "3D multiscale simulation of a silicon slider on a PE substrate",
+      "year": 2014,
+      "citation_raw": "ZC Su, VBC Tan, TE Tay, 3D multiscale simulation of a silicon slider on a PE substrate, Computational materials science, 94, p240-244, 2014",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Multiscale modeling of damage progression in nylon 6/clay nanocomposites",
+      "year": 2014,
+      "citation_raw": "S Song, Y Chen, Y, ZC Su, C Quan, VBC Tan, Multiscale modeling of damage progression in nylon 6/clay nanocomposites, Composites science and technology, 100, p189-197, 2014",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Stress analysis of multi-layered hollow anisotropic composite cylindrical structures using a homogenization method, Acta Mechanica",
+      "year": 2014,
+      "citation_raw": "XS Sun, VBC Tan, Y Chen, LB Tan, RK Jaiman, TE Tay, Stress analysis of multi-layered hollow anisotropic composite cylindrical structures using a homogenization method, Acta Mechanica, 225(6), p1649-1672, 2014",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Molecular modeling of epoxide-amine systems: Topological cure conversion limit and its influence on material properties, Polymer",
+      "year": 2014,
+      "citation_raw": "Y Chen, JYH Chia, ZC Su, TE Tay, VBC Tan, Molecular modeling of epoxide-amine systems: Topological cure conversion limit and its influence on material properties, Polymer, 55(23), p6124-6131, 2014",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Identifying the mechanisms of polymer friction through molecular dynamics simulation, Langmuir",
+      "year": 2011,
+      "citation_raw": "L Dai, M Minn, N Satyanarayana, DK Sinha, VBC Tan, Identifying the mechanisms of polymer friction through molecular dynamics simulation, Langmuir, 27(24), p14861-14867, 2011",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Numerical investigations into the tensile behavior of TiO2 nanowires: structural deformation, mechanical properties, and size effects",
+      "year": 2009,
+      "citation_raw": "L Dai, CH Sow, CT Lim, WCD Cheong, VBC Tan, Numerical investigations into the tensile behavior of TiO2 nanowires: structural deformation, mechanical properties, and size effects, Nano letters, 9(2), p576-582, 2009",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    },
+    {
+      "title": "Multiscale modeling of polymers–the pseudo amorphous cell",
+      "year": 2008,
+      "citation_raw": "VBC Tan, XS Zeng, M Deng, KM Lim, TE Tay, Multiscale modeling of polymers–the pseudo amorphous cell, Computer methods in applied mechanics and engineering, 197, p536-554, 2008",
+      "source_url": "https://cde.nus.edu.sg/me/staff/tan-vincent/"
+    }
+  ]
 }

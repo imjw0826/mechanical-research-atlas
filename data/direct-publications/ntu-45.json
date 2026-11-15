@@ -5,22 +5,122 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp00713",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00713",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow",
-      "identity_evidence": "Prof Ooi Kim Tiow",
-      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
-      "website_links": []
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Closed-loop pulsating heat pipe",
+      "year": 2001,
+      "citation_raw": "Tong, B. Y., Wong, T. N., & Ooi, K. T. (2001). Closed-loop pulsating heat pipe. Applied Thermal Engineering, 21(18), 1845-1862.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Experimental investigation of flow friction for liquid flow in microchannels, International Communications in Heat and Mass Transfer",
+      "year": 2000,
+      "citation_raw": "Xu, B., Ooti, K. T., Wong, N. T., & Choi, W. K. (2000). Experimental investigation of flow friction for liquid flow in microchannels. International Communications in Heat and Mass Transfer, 27(8), 1165-1176.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Two-fluid electroosmotic flow in microchannels",
+      "year": 2005,
+      "citation_raw": "Gao, Y., Wong, T. N., Yang, C., & Ooi, K. T. (2005). Two-fluid electroosmotic flow in microchannels. Journal of Colloid and Interface Science, 284(1), 306-314.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Optimisation of single and double layer counter flow microchannel heat sinks",
+      "year": 2002,
+      "citation_raw": "Chong, S. H., Ooi, K. T., & Wong, T. N. (2002). Optimisation of single and double layer counter flow microchannel heat sinks. Applied Thermal Engineering, 22(14), 1569-1585.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Evaluation of viscous dissipation in liquid flow in microchannels",
+      "year": 2002,
+      "citation_raw": "Xu, B., Ooi, K. T., Mavriplis, C., & Zaghloul, M. E. (2002). Evaluation of viscous dissipation in liquid flow in microchannels. Journal of Micromechanics and Microengineering, 13(1), 53-57.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Predicting multiple combination of parameters for designing a porous fin subjected to a given temperature requirement",
+      "year": 2013,
+      "citation_raw": "Das, R., & Ooi, K. T. (2013). Predicting multiple combination of parameters for designing a porous fin subjected to a given temperature requirement. Energy Conversion and Management, 66, 211-219.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "A computer simulation of a rotary compressor for household refrigerators",
+      "year": 1997,
+      "citation_raw": "Ooi, K. T., & Wong, T. N. (1997). A computer simulation of a rotary compressor for household refrigerators. Applied Thermal Engineering, 17(1), 65-78.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Transient two-liquid electroosmotic flow with electric charges at the interface",
+      "year": 2005,
+      "citation_raw": "Gao, Y., Wong, T. N., Yang, C., & Ooi, K. T. (2005). Transient two-liquid electroosmotic flow with electric charges at the interface. Colloids and Surfaces A: Physicochemical and Engineering Aspects, 266(1-3), 117-128.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Design optimization of a rolling piston compressor for refrigerators",
+      "year": 2005,
+      "citation_raw": "Ooi, K. T. (2005). Design optimization of a rolling piston compressor for refrigerators. Applied Thermal Engineering, 25(5-6), 813-829.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Theoretical study of a novel refrigeration compressor–Part I: Design of the revolving vane (RV) compressor and its frictional losses",
+      "year": 2009,
+      "citation_raw": "Teh, Y. L., & Ooi, K. T. (2009). Theoretical study of a novel refrigeration compressor–Part I: Design of the revolving vane (RV) compressor and its frictional losses. International Journal of Refrigeration, 32(5), 1092-1102.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Numerical investigation on the thermal-hydraulic performance of separated structure steam generator with different tube arrangements",
+      "year": 2022,
+      "citation_raw": "Shao, H., Xu, Z., Liang, Z., Zhao, Q., Ooi, K. T., & Wang, Y. (2022). Numerical investigation on the thermal-hydraulic performance of separated structure steam generator with different tube arrangements. Annals of Nuclear Energy, 171, 109034.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Analysis of the novel multi-vane Revolving Vane compressor–Investigation of vane chattering phenomenon through instantaneous working chamber pressure measurements",
+      "year": 2022,
+      "citation_raw": "Choo, W. C., & Ooi, K. T. (2022). Analysis of the novel multi-vane Revolving Vane compressor–Investigation of vane chattering phenomenon through instantaneous working chamber pressure measurements. International Journal of Refrigeration, 134, 207-218.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Experimental study of an oil-free swing vane compressor",
+      "year": 2022,
+      "citation_raw": "Heng, K. R., Ooi, K. T., & Chan, W. K. (2022). Experimental study of an oil-free swing vane compressor. International Journal of Refrigeration, 134, 95-104.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Analysis of the novel multi-vane Revolving Vane compressor–Theoretical modelling and experimental investigations",
+      "year": 2021,
+      "citation_raw": "Choo, W. C., & Ooi, K. T. (2021). Analysis of the novel multi-vane Revolving Vane compressor–Theoretical modelling and experimental investigations. International Journal of Refrigeration, 131, 592-603.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Leakage study of a lubricant-free revolving vane compressor",
+      "year": 2021,
+      "citation_raw": "Aw, K. T., & Ooi, K. T. (2021). Leakage study of a lubricant-free revolving vane compressor. International Journal of Refrigeration, 124, 122-133.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Introduction to Coupled Vane compressor: mathematical modelling with validation (https://doi.org/10.1016/j.ijrefrig.2020.01.027)",
+      "year": 2020,
+      "citation_raw": "Pradeep Shakya and Kim Tiow Ooi. (2020). Introduction to Coupled Vane compressor: mathematical modelling with validation (https://doi.org/10.1016/j.ijrefrig.2020.01.027). International Journal of Refrigeration, 117, 23-32.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "Single-phase convective heat transfer performance of wavy microchannels in macro geometry",
+      "year": 2018,
+      "citation_raw": "Zi Hao Foo, Kai Xian Cheng, AikLing Goh, KimTiow Ooi. (2018). Single-phase convective heat transfer performance of wavy microchannels in macro geometry. Applied Thermal Engineering, 141, 675-687.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    },
+    {
+      "title": "WH (Chong, Wen Han), Huang, Y (Huang, Yi), Wong, TN (Wong, Teck Neng), Ooi, KT (Ooi, Kim Tiow), Zhu, GP (Zhu, Gui-Ping)",
+      "year": 2018,
+      "citation_raw": "Chong, WH (Chong, Wen Han); Huang, Y (Huang, Yi); Wong, TN (Wong, Teck Neng); Ooi, KT (Ooi, Kim Tiow); Zhu, GP (Zhu, Gui-Ping). (2018). Magnetic Nanorobots, Generating Vortexes Inside Nanoliter Droplets for Effective Mixing. Advanced Materials Technologies, 3(4), 1700312.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications"
+    }
+  ]
 }

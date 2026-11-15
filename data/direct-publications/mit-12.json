@@ -5,7 +5,7 @@
   "lab_name": null,
   "lab_url": "http://bathebionano.org/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/mbathe@mit.edu"
+    "http://bathebionano.org/bathe-bionanolab-publications/"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/mbathe@mit.edu",
   "discovered_links": [
@@ -87,12 +87,460 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official MechE profile inspected. Full laboratory publications navigation and extraction not yet completed; resume from saved discovered_links. No inference from roster beyond identifying requested subject.",
-    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Programmable Lipid Functionalization of Nucleic Acid Nanoparticles Modulates Liver Cell-Type Targeting",
+      "year": 2026,
+      "citation_raw": "Kim HM, Omer M, Knappe GA, McMullen P, Le DA, Pasupathy A, Anderson DG, Bathe M. Programmable Lipid Functionalization of Nucleic Acid Nanoparticles Modulates Liver Cell-Type Targeting. ACS Appl Mater Interfaces. 2026;18(13):18721-18739. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Interpretable Deep Learning for Single-Molecule Nanopore Fingerprinting Using Physics-Guided Preprocessing",
+      "year": 2026,
+      "citation_raw": "Shah A, Lee XK, Li K, Knappe GA, Bathe M, Barbastathis G, Doyle PS. Interpretable Deep Learning for Single-Molecule Nanopore Fingerprinting Using Physics-Guided Preprocessing. ACS Sens. 2026 [Epub ahead of print]. doi:10.1021/acssensors.5c04784. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Enabling global-scale nucleic acid repositories through versatile",
+      "year": 2026,
+      "citation_raw": "Berleant JD, Banal JL, Rao DK, Bathe M. Enabling global-scale nucleic acid repositories through versatile, scalable biochemical selection from room-temperature archives. Nat Commun. 2026;17:2807. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Irvine DJ. DNA origami vaccines program antigen-focused germinal centers",
+      "year": 2026,
+      "citation_raw": "Romanov A, Knappe GA, Ronsard L, Cottrell CA, Zhang YJ, Suh H, Duhamel L, Omer M, Chapman AP, Spivakovsky K, Skog P, Flynn CT, Lee JH, Kalyuzhniy O, Liguori A, Parsons MF, Lewis VR, Canales J, Reizis B, Tingle RD, Schiffner T, Schief WR, Lingwood D, Bathe M, Irvine DJ. DNA origami vaccines program antigen-focused germinal centers. Science. 2026;391(6785):eadx6291. SCHOLAR ARTICLE MIT NEWS",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Transport of Delocalized Excitons through DNA-Based Molecular Photonic Wires",
+      "year": 2025,
+      "citation_raw": "Scott MN, Banal JL, Chen WJ, Brooks C, Wang X, Hart SM, Dodin A, Bathe M, Willard AP, Schlau-Cohen GS. Transport of Delocalized Excitons through DNA-Based Molecular Photonic Wires. ACS Nano. 2025;19(44). doi:10.1021/acsnano.5c11986. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Hernandez R. DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks",
+      "year": 2025,
+      "citation_raw": "Wei W, Mo Q, Chen C, Bathe M, Hernandez R. DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks. J Chem Inf Model. 2025;65:6526-6536. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Heterovalent Click Reactions on DNA Origami",
+      "year": 2025,
+      "citation_raw": "Knappe GA, Gorman J, Bigley AN, Harvey SP, Bathe M. Heterovalent Click Reactions on DNA Origami. Bioconjug Chem. 2025;36:476-485. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Irvine DJ. DNA origami vaccines program antigen-focused germinal centers, bioRxiv [Preprint]",
+      "year": 2025,
+      "citation_raw": "Romanov A, Knappe GA, Ronsard L, Suh H, Omer M, Chapman AP, Lewis VR, Spivakovsky K, Canales J, Reizis B, Tingle RD, Cottrell CA, Schiffner T, Lingwood D, Bathe M, Irvine DJ. DNA origami vaccines program antigen-focused germinal centers. bioRxiv [Preprint]. 2025. doi:10.1101/2025.02.21.639354. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Bathe M. DNA origami directed integration of colloidal nanophotonic materials with silicon photonics, bioRxiv [Preprint]",
+      "year": 2025,
+      "citation_raw": "Luo X, Ranno L, Sverko T, Lee JY, Sbalbi N, Jones A, Chen C, Bawendi MG, Hu J, Macfarlane RJ, Bathe M. DNA origami directed integration of colloidal nanophotonic materials with silicon photonics. bioRxiv [Preprint]. 2025. doi:10.1101/2025.01.23.634416. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Versatile Dehydration-Assisted Functionalization of Quantum Dots and Rods",
+      "year": 2024,
+      "citation_raw": "Chen C, Luo X, Bathe M. Versatile Dehydration-Assisted Functionalization of Quantum Dots and Rods. Angew Chem Int Ed Engl. 2024;63:e202410247. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Synaptic composition, activity, mRNA translation and dynamics in combined single-synapse profiling using multimodal imaging, bioRxiv [Preprint]",
+      "year": 2024,
+      "citation_raw": "Falkovich R, Aryal S, Wang J, Sheng M, Bathe M. Synaptic composition, activity, mRNA translation and dynamics in combined single-synapse profiling using multimodal imaging. bioRxiv [Preprint]. 2024. doi:10.1101/2024.10.28.620504. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Charge Detection Mass Spectrometry Enables Molecular Characterization of Nucleic Acid Nanoparticles",
+      "year": 2024,
+      "citation_raw": "Ofoegbu PC, Knappe GA, Romanov A, Draper BE, Bathe M, Jarrold MF. Charge Detection Mass Spectrometry Enables Molecular Characterization of Nucleic Acid Nanoparticles. ACS Nano. 2024;18:23301-23309. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "de Lajarte A, Bathe M, Discovery and Quantification of Long-Range RNA Base Pairs in Coronavirus Genomes with SEARCH-MaP and SEISMIC-RNA, Res Sq [Preprint]",
+      "year": 2024,
+      "citation_raw": "Rouskin S, Allan M, Aruda J, Plung J, Grote S, Martin Y, de Lajarte A, Bathe M. Discovery and Quantification of Long-Range RNA Base Pairs in Coronavirus Genomes with SEARCH-MaP and SEISMIC-RNA. Res Sq [Preprint]. 2024. doi:10.21203/rs.3.rs-4814547/v1. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Binding Site Programmable Self-Assembly of 3D Hierarchical DNA Origami Nanostructures",
+      "year": 2024,
+      "citation_raw": "Wei X, Chen C, Popov AV, Bathe M, Hernandez R. Binding Site Programmable Self-Assembly of 3D Hierarchical DNA Origami Nanostructures. J Phys Chem A. 2024;128(25):4999-5008. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Force-free activation of Notch with DNA origami, Trends Genet",
+      "year": 2024,
+      "citation_raw": "Kim HM, Bathe M. Force-free activation of Notch with DNA origami. Trends Genet. 2024. doi:10.1016/j.tig.2024.03.001. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Scalable search of massively pooled nucleic acid samples enabled by a molecular database query language, medRxiv [Preprint]",
+      "year": 2024,
+      "citation_raw": "Berleant JD, Banal JL, Rao DK, Bathe M. Scalable search of massively pooled nucleic acid samples enabled by a molecular database query language. medRxiv [Preprint]. 2024. doi:10.1101/2024.04.12.24305660. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Sculpting photoproducts with DNA origami",
+      "year": 2024,
+      "citation_raw": "Gorman J, Hart SM, John T, Castellanos MA, Harris D, Parsons MF, Banal JL, Willard AP, Schlau-Cohen GS, Bathe M. Sculpting photoproducts with DNA origami. Chem. 2024. doi:10.1016/j.chempr.2024.03.007. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Enhancing antibody responses by multivalent antigen display on thymus-independent DNA origami scaffolds, Nat Commun",
+      "year": 2024,
+      "citation_raw": "Wamhoff EC, Ronsard L, Feldman J, Knappe GA, Hauser BM, Romanov A, Case JB, Sanapala S, Lam EC, St Denis KJ, Boucau J, Barczak AK, Balazs AB, Diamond MS, Schmidt AG, Lingwood D, Bathe M. Enhancing antibody responses by multivalent antigen display on thymus-independent DNA origami scaffolds. Nat Commun. 2024;15:795. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Engineering exciton dynamics with synthetic DNA scaffolds",
+      "year": 2023,
+      "citation_raw": "Hart SM, Gorman J, Bathe M, Schlau-Cohen GS. Engineering exciton dynamics with synthetic DNA scaffolds. Acc Chem Res. 2023;56:2051. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Evaluation of non-modified wireframe DNA origami for acute toxicity and biodistribution in mice",
+      "year": 2023,
+      "citation_raw": "Wamhoff EC, Knappe GA, Burds AA, Du RR, Neun B, Difilippantonio S, Sanders C, Edmondson E, Matta JL, Dobrovolskaia MA, Bathe M. Evaluation of non-modified wireframe DNA origami for acute toxicity and biodistribution in mice. ACS Appl Bio Mater. 2023;6:1960. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Factorization and pseudofactorization of weighted graphs",
+      "year": 2023,
+      "citation_raw": "Sheridan K, Berleant J, Bathe M, Condon A, Williams VV. Factorization and pseudofactorization of weighted graphs. Discrete Appl Math. 2023;337:81. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Isometric Hamming embeddings of weighted graphs",
+      "year": 2023,
+      "citation_raw": "Berleant J, Sheridan K, Condon A, Williams VV, Bathe M. Isometric Hamming embeddings of weighted graphs. Discrete Appl Math. 2023;332:119. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Bathe M. 3D RNA-scaffolded wireframe origami, Nat Commun",
+      "year": 2023,
+      "citation_raw": "Parsons MF, Allan MF, Li S, Shepherd TR, Ratanalert S, Zhang S, Pullen KM, Chiu W, Rouskin S, Bathe M. 3D RNA-scaffolded wireframe origami. Nat Commun. 2023;14:382. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Functionalizing DNA origami to investigate and interact with biological systems",
+      "year": 2023,
+      "citation_raw": "Knappe GA, Wamhoff EC, Bathe M. Functionalizing DNA origami to investigate and interact with biological systems. Nat Rev Mater. 2023;8:123. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Innate immune stimulation using 3D wireframe DNA origami",
+      "year": 2022,
+      "citation_raw": "Du RR, Cedrone E, Romanov A, Falkovich R, Dobrovolskaia MA, Bathe M. Innate immune stimulation using 3D wireframe DNA origami. ACS Nano. 2022;16:20340. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Controlling nuclease degradation of wireframe DNA origami with minor groove binders",
+      "year": 2022,
+      "citation_raw": "Wamhoff EC, Romanov A, Huang H, Read BJ, Ginsburg E, Knappe GA, Kim HM, Farrell NP, Irvine DJ, Bathe M. Controlling nuclease degradation of wireframe DNA origami with minor groove binders. ACS Nano. 2022;16:8954. SCHOLAR ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Planar wireframe 2D origami, Sci Adv",
+      "year": 2022,
+      "citation_raw": "Wang X, Li S, Jun H, John T, Zhang K, Fowler H, Doye JPK, Chiu W, Bathe M. Planar wireframe 2D origami. Sci Adv. 2022;8:eabn0039. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Näär A, Griffiths A, Rouskin S",
+      "year": 2022,
+      "citation_raw": "Lan TCT, Allan MF, Malsick LE, Woo JZ, Zhu C, Zhang F, Khandwala S, Nyeo SSY, Sun Y, Guo JU, Bathe M, Näär A, Griffiths A, Rouskin S. Secondary structural ensembles of the SARS-CoV-2 RNA genome in infected cells. Nat Commun. 2022;13:1128. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Molecular structure of single-stranded DNA on the ZnS surface of quantum dots",
+      "year": 2022,
+      "citation_raw": "Wei X, Chen C, Zhao Y, Harazinska E, Bathe M, Hernandez R. Molecular structure of single-stranded DNA on the ZnS surface of quantum dots. ACS Nano. 2022;16:6666. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Programming 2D supramolecular assemblies with wireframe DNA origami",
+      "year": 2022,
+      "citation_raw": "Wang X, Jun H, Bathe M. Programming 2D supramolecular assemblies with wireframe DNA origami. J Am Chem Soc. 2022;144:4403. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Tuning optical absorption and emission using strongly coupled dimers in programmable DNA scaffolds",
+      "year": 2022,
+      "citation_raw": "Hart SM, Wang X, Guo J, Bathe M, Schlau-Cohen GS. Tuning optical absorption and emission using strongly coupled dimers in programmable DNA scaffolds. J Phys Chem Lett. 2022;13:1863. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Critical review of nucleic acid nanotechnology to identify gaps and inform a strategy for accelerated clinical translation, Adv Drug Deliv Rev",
+      "year": 2022,
+      "citation_raw": "Afonin KA, Dobrovolskaia MA, Ke W, Grodzinski P, Bathe M. Critical review of nucleic acid nanotechnology to identify gaps and inform a strategy for accelerated clinical translation. Adv Drug Deliv Rev. 2022;181:114081. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Scalable nucleic acid storage and retrieval using barcoded microcapsules",
+      "year": 2021,
+      "citation_raw": "Banal JL, Bathe M. Scalable nucleic acid storage and retrieval using barcoded microcapsules. ACS Appl Mater Interfaces. 2021;13:49729. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "In situ covalent functionalization of DNA origami virus-like particles",
+      "year": 2021,
+      "citation_raw": "Knappe GA, Wamhoff EC, Read BJ, Irvine DJ, Bathe M. In situ covalent functionalization of DNA origami virus-like particles. ACS Nano. 2021;15:14316. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "Bathe M, Hernandez R, Komiyama T, Machiraju R, Neogi S. Autonomous Computing Materials. ACS Nano. 2021;15:3586. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Häner R, Bathe M, Schlau-Cohen GS, Engineering couplings for exciton transport using synthetic DNA scaffolds",
+      "year": 2021,
+      "citation_raw": "Hart SM, Chen WJ, Banal JL, Bricker WP, Dodin A, Markova L, Vyborna Y, Willard AP, Häner R, Bathe M, Schlau-Cohen GS. Engineering couplings for exciton transport using synthetic DNA scaffolds. Chem. 2021;7:752. ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Perez de Arce K, Cimini BA, Wamhoff EC, Singh S, Cottrell JR, Carpenter AE, Bathe M",
+      "year": 2021,
+      "citation_raw": "Danielson E, Perez de Arce K, Cimini BA, Wamhoff EC, Singh S, Cottrell JR, Carpenter AE, Bathe M. Molecular diversity of glutamatergic and GABAergic synapses from multiplexed fluorescence imaging. eNeuro. 2021;8:ENEURO.0286-20.2020. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "barriers, and a strategy for overcoming translational challenges to therapeutic nucleic acid nanotechnology",
+      "year": 2020,
+      "citation_raw": "Afonin KA, Dobrovolskaia MA, Church G, Bathe M. Opportunities, barriers, and a strategy for overcoming translational challenges to therapeutic nucleic acid nanotechnology. ACS Nano. 2020;14:9221. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Opportunities and challenges for the clinical translation of structured DNA assemblies as gene therapeutic delivery and vaccine vectors, WIREs Nanomed Nanobiotechnol",
+      "year": 2021,
+      "citation_raw": "Dobrovolskaia MA, Bathe M. Opportunities and challenges for the clinical translation of structured DNA assemblies as gene therapeutic delivery and vaccine vectors. WIREs Nanomed Nanobiotechnol. 2021;13:e1657. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Identification of non-radiative decay pathways in Cy3. J Phys Chem Lett",
+      "year": 2020,
+      "citation_raw": "Hart SM, Banal JL, Bathe M, Schlau-Cohen GS. Identification of non-radiative decay pathways in Cy3. J Phys Chem Lett. 2020;11:5000. ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "NIH DIRECTORS BLOG",
+      "year": 2019,
+      "citation_raw": "Guo SM, Veneziano R, Gordonov S, Li L, Danielson E, Perez de Arce K, Park D, Kulesa AB, Wamhoff EC, Blainey PC, Boyden ES, Cottrell JR, Bathe M. Multiplexed and high-throughput neuronal fluorescence imaging with diffusible probes. Nat Commun. 2019;10:4377. PUBMED ARTICLE MIT NEWS NIH DIRECTORS BLOG",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Programming structured DNA assemblies to probe biophysical processes, Annu Rev Biophys",
+      "year": 2019,
+      "citation_raw": "Wamhoff EC, Banal JL, Bricker WP, Parsons MF, Veneziano R, Stone MB, Jun H, Wang X, Bathe M. Programming structured DNA assemblies to probe biophysical processes. Annu Rev Biophys. 2019;48:395. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Bioproduction of pure, kilobase-scale single-stranded DNA, Sci Rep",
+      "year": 2019,
+      "citation_raw": "Shepherd TR, Du RR, Huang H, Wamhoff EC, Bathe M. Bioproduction of pure, kilobase-scale single-stranded DNA. Sci Rep. 2019;9:6121. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Automated sequence design of 3D polyhedral wireframe DNA origami with honeycomb edges",
+      "year": 2019,
+      "citation_raw": "Jun H, Shepherd TR, Zhang K, Bricker WP, Li S, Chiu W, Bathe M. Automated sequence design of 3D polyhedral wireframe DNA origami with honeycomb edges. ACS Nano. 2019;13:2083. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Roadmap on biological pathways for electronic nanofabrication and materials, Nano Futures",
+      "year": 2019,
+      "citation_raw": "Bathe M, Chrisey LA, Herr DJC, Lin Q, Rasic D, Woolley AT, Zadegan R, Zhirnov VV. Roadmap on biological pathways for electronic nanofabrication and materials. Nano Futures. 2019;3:012001. ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Birnbaum ME. A Bayesian framework for high-throughput T cell receptor pairing, Bioinformatics",
+      "year": 2019,
+      "citation_raw": "Holec PV, Berleant J, Bathe M, Birnbaum ME. A Bayesian framework for high-throughput T cell receptor pairing. Bioinformatics. 2019;35(1):118-127. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Molecular model of J-aggregated pseudoisocyanine fibers",
+      "year": 2018,
+      "citation_raw": "Bricker WP, Banal JL, Stone MB, Bathe M. Molecular model of J-aggregated pseudoisocyanine fibers. J Chem Phys. 2018;149:024905. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Multiplexed imaging of neuronal synapses using nucleic acid probe exchange, Protocol Exchange",
+      "year": 2018,
+      "citation_raw": "Bathe M, Guo SM, Li L, Veneziano R, Gordonov S, Cottrell JR. Multiplexed imaging of neuronal synapses using nucleic acid probe exchange. Protocol Exchange. 2018. doi:10.1038/protex.2018.066. PROTOCOL",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Rothemund PWK. DNA Nanotechnology: A foundation for programmable nanoscale materials, MRS Bull",
+      "year": 2017,
+      "citation_raw": "Bathe M, Rothemund PWK. DNA Nanotechnology: A foundation for programmable nanoscale materials. MRS Bull. 2017;42:882. ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Programmed coherent coupling in a synthetic DNA-based excitonic circuit",
+      "year": 2018,
+      "citation_raw": "Boulais E, Sawaya NRP, Veneziano R, Andreoni A, Banal JL, Kondo T, Mandal S, Lin S, Schlau-Cohen GS, Woodbury NW, Yan H, Aspuru-Guzik A, Bathe M. Programmed coherent coupling in a synthetic DNA-based excitonic circuit. Nat Mater. 2018;17:159. PUBMED ARTICLE MIT NEWS NEWSWEEK",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Photophysics of J-aggregate-mediated energy transfer on DNA. J Phys Chem Lett",
+      "year": 2017,
+      "citation_raw": "Banal JL, Kondo T, Veneziano R, Bathe M, Schlau-Cohen GS. Photophysics of J-aggregate-mediated energy transfer on DNA. J Phys Chem Lett. 2017;8:5827. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Optical determination of the electronic coupling and intercalation geometry of Thiazole Orange homodimer in DNA. J Chem Phys",
+      "year": 2017,
+      "citation_raw": "Cunningham PD, Bricker WP, Diaz SA, Medintz IL, Bathe M, Melinger JS. Optical determination of the electronic coupling and intercalation geometry of Thiazole Orange homodimer in DNA. J Chem Phys. 2017;147:055101. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Designer nanoscale DNA assemblies programmed from the top down",
+      "year": 2016,
+      "citation_raw": "Veneziano R, Ratanalert S, Zhang K, Zhang F, Yan H, Chiu W, Bathe M. Designer nanoscale DNA assemblies programmed from the top down. Science. 2016;352:1534. PUBMED ARTICLE MIT NEWS",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Programming self-assembly of DNA origami honeycomb lattices and plasmonic metamaterials",
+      "year": 2016,
+      "citation_raw": "Wang P, Gaitanaros S, Lee S, Bathe M, Shih WM, Ke Y. Programming self-assembly of DNA origami honeycomb lattices and plasmonic metamaterials. J Am Chem Soc. 2016;138:7733. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Computing nonequilibrium conformational dynamics of structured nucleic acid assemblies",
+      "year": 2016,
+      "citation_raw": "Sedeh RS, Pan K, Adendorff MR, Hallatschek O, Bathe KJ, Bathe M. Computing nonequilibrium conformational dynamics of structured nucleic acid assemblies. J Chem Theory Comput. 2016;12:261. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Inferring transient particle transport dynamics in live cells, Nat Methods",
+      "year": 2015,
+      "citation_raw": "Monnier N, Barry Z, Park HY, Su KC, Katz ZB, English BP, Dey A, Pan K, Cheeseman IM, Singer RH, Bathe M. Inferring transient particle transport dynamics in live cells. Nat Methods. 2015;12:838. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Bayesian model selection applied to the analysis of FCS data of fluorescent proteins in vitro and in vivo",
+      "year": 2015,
+      "citation_raw": "Sun G, Guo SM, Teh C, Korzh V, Bathe M, Wohland T. Bayesian model selection applied to the analysis of FCS data of fluorescent proteins in vitro and in vivo. Anal Chem. 2015;87:4326. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Casting inorganic structures with DNA molds",
+      "year": 2014,
+      "citation_raw": "Sun W, Boulais E, Hakobyan Y, Wang WL, Guan A, Bathe M, Yin P. Casting inorganic structures with DNA molds. Science. 2014;346:1258361. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Bayesian total internal reflection fluorescence correlation spectroscopy reveals hIAPP-induced plasma membrane domain organization in live cells",
+      "year": 2014,
+      "citation_raw": "Guo SM, Bag N, Mishra A, Wohland T, Bathe M. Bayesian total internal reflection fluorescence correlation spectroscopy reveals hIAPP-induced plasma membrane domain organization in live cells. Biophys J. 2014;106:190. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Super-resolution fingerprinting detects chemical reactions and idiosyncrasies of single DNA pegboards, Nano Lett",
+      "year": 2013,
+      "citation_raw": "Johnson-Buck A, Nangreave J, Kim DN, Bathe M, Yan H, Walter NG. Super-resolution fingerprinting detects chemical reactions and idiosyncrasies of single DNA pegboards. Nano Lett. 2013;13:728. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "The kinetochore-bound Ska1 complex tracks depolymerizing microtubules by binding to curved protofilaments, Dev Cell",
+      "year": 2012,
+      "citation_raw": "Schmidt JC, Arthanari H, Boeszoermenyi A, Dashkevich NM, Wilson-Kubalek EM, Monnier N, Markus M, Oberer M, Milligan RA, Bathe M, Wagner G, Grishchuk EL, Cheeseman IM. The kinetochore-bound Ska1 complex tracks depolymerizing microtubules by binding to curved protofilaments. Dev Cell. 2012;23:968. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Bayesian approach to MSD-based analysis of particle motion in live cells",
+      "year": 2012,
+      "citation_raw": "Monnier N, Guo SM, Mori M, He J, Lenart P, Bathe M. Bayesian approach to MSD-based analysis of particle motion in live cells. Biophys J. 2012;103:616. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Bayesian approach to the analysis of fluorescence correlation spectroscopy data II: Application to simulated and in vitro data",
+      "year": 2012,
+      "citation_raw": "Guo SM, He J, Monnier N, Sun G, Wohland T, Bathe M. Bayesian approach to the analysis of fluorescence correlation spectroscopy data II: Application to simulated and in vitro data. Anal Chem. 2012;84:3880. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Bayesian approach to the analysis of fluorescence correlation spectroscopy data I: Theory",
+      "year": 2012,
+      "citation_raw": "He J, Guo SM, Bathe M. Bayesian approach to the analysis of fluorescence correlation spectroscopy data I: Theory. Anal Chem. 2012;84:3871. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Käs J, Gentry B, Transiently crosslinked F-actin bundles",
+      "year": 2011,
+      "citation_raw": "Strehle D, Schnauss J, Heussinger C, Alvarado J, Bathe M, Käs J, Gentry B. Transiently crosslinked F-actin bundles. Eur Biophys J. 2011;40:93. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "Sedeh RS, Fedorov AA, Fedorov EV, Ono S, Matsumura F, Almo SC, Bathe M. Structure, evolutionary conservation, and conformational dynamics of Homo sapiens fascin-1, an F-actin crosslinking protein. J Mol Biol. 2010;400:589. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "The subspace iteration method in protein normal mode analysis",
+      "year": 2010,
+      "citation_raw": "Sedeh RS, Bathe M, Bathe KJ. The subspace iteration method in protein normal mode analysis. J Comput Chem. 2010;31:66. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Cytoskeletal bundle mechanics",
+      "year": 2008,
+      "citation_raw": "Bathe M, Heussinger C, Claessens MMAE, Bausch AR, Frey E. Cytoskeletal bundle mechanics. Biophys J. 2008;94:2955. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Osmotic pressure of aqueous chondroitin sulfate solution: A molecular modeling investigation",
+      "year": 2005,
+      "citation_raw": "Bathe M, Rutledge GC, Grodzinsky AJ, Tidor B. Osmotic pressure of aqueous chondroitin sulfate solution: A molecular modeling investigation. Biophys J. 2005;89:2357. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Tidor B. A coarse-grained molecular model for glycosaminoglycans: Application to chondroitin, chondroitin sulfate, and hyaluronic acid",
+      "year": 2005,
+      "citation_raw": "Bathe M, Rutledge GC, Grodzinsky AJ, Tidor B. A coarse-grained molecular model for glycosaminoglycans: Application to chondroitin, chondroitin sulfate, and hyaluronic acid. Biophys J. 2005;88:3870. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Optimal linearized Poisson-Boltzmann theory applied to the simulation of flexible polyelectrolytes in solution",
+      "year": 2004,
+      "citation_raw": "Bathe M, Grodzinsky AJ, Tidor B, Rutledge GC. Optimal linearized Poisson-Boltzmann theory applied to the simulation of flexible polyelectrolytes in solution. J Chem Phys. 2004;121:7557. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Role of simulation in understanding biological systems, Comput Struct",
+      "year": 2003,
+      "citation_raw": "Kaazempur-Mofrad MR, Bathe M, Karcher H, Younis HF, Seong HC, Shim EB, Chan RC, Hinton DP, Isasi AG, Upadhyaya A, Powers MJ, Griffith LG, Kamm RD. Role of simulation in understanding biological systems. Comput Struct. 2003;81 PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Inverse Monte Carlo procedure for conformation determination of macromolecules",
+      "year": 2003,
+      "citation_raw": "Bathe M, Rutledge GC. Inverse Monte Carlo procedure for conformation determination of macromolecules. J Comput Chem. 2003;24:876. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Neutrophil transit times through pulmonary capillaries: The effects of capillary geometry and fMLP-stimulation",
+      "year": 2002,
+      "citation_raw": "Bathe M, Shirai A, Doerschuk CM, Kamm RD. Neutrophil transit times through pulmonary capillaries: The effects of capillary geometry and fMLP-stimulation. Biophys J. 2002;83:1917. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    },
+    {
+      "title": "Kamm RD. A fluid-structure interaction finite element analysis of pulsatile blood flow through a compliant stenotic artery, J Biomech Eng",
+      "year": 1999,
+      "citation_raw": "Bathe M, Kamm RD. A fluid-structure interaction finite element analysis of pulsatile blood flow through a compliant stenotic artery. J Biomech Eng. 1999;121:361. PUBMED ARTICLE",
+      "source_url": "http://bathebionano.org/bathe-bionanolab-publications/"
+    }
+  ]
 }

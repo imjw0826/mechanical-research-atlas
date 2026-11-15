@@ -5,13 +5,122 @@
   "lab_name": null,
   "lab_url": "https://hekstralab.fas.harvard.edu/",
   "publication_urls": [
-    "https://hekstralab.fas.harvard.edu/publications"
+    "https://hekstralab.fas.harvard.edu/publications",
+    "https://hekstralab.fas.harvard.edu/publications?page=1",
+    "https://hekstralab.fas.harvard.edu/publications?page=0",
+    "https://joss.theoj.org/papers/10.21105/joss.05651"
   ],
-  "accessed_at": "2026-11-11T13:54:02.257Z",
-  "coverage_notes": [
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
     "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Perturbative Diffraction Methods Resolve a Conformational Switch That Facilitates a Two-Step Enzymatic Mechanism",
+      "year": 2024,
+      "citation_raw": "Jack B. Greisman, Kevin M. Dalton, Dennis E. Brookner, Margaret A. Klureza, Candice J. Sheehan, In-Sik Kim, Robert W. Henning, Silvia Russi, and Doeke R. Hekstra. 2024. “Perturbative Diffraction Methods Resolve a Conformational Switch That Facilitates a Two-Step Enzymatic Mechanism”. PNAS, 121, 9. doi:10.1101/2023.06.02.543507",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "MatchMaps: Non-Isomorphous Difference Maps for X-Ray Crystallography",
+      "year": 2024,
+      "citation_raw": "Dennis E. Brookner and Doeke R. Hekstra. 2024. “MatchMaps: Non-Isomorphous Difference Maps for X-Ray Crystallography”. Journal of Applied Crystallography, 57, 3. doi:10.1101/2023.09.01.555333",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "Mpl-Interactions: A Python Package for Interactive Matplotlib Figures",
+      "year": 2024,
+      "citation_raw": "Ian Hunt-Isaak, John Russell, and Doeke Hekstra. 2024. “Mpl-Interactions: A Python Package for Interactive Matplotlib Figures”. Journal of Open Source Software",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "Laue-DIALS: Open-Source Software for Polychromatic X-Ray Diffraction Data",
+      "year": 2024,
+      "citation_raw": "Rick A. Hewitt, Kevin M. Dalton, Derek Mendez, Harrison K. Wang, Margaret A. Klureza, Dennis E. Brookner, Jack B. Greisman, David McDonagh, Vukica \\v Srajer, Nicholas K. Sauter, Aaron S. Brewster, and Doeke R. Hekstra. 2024. “Laue-DIALS: Open-Source Software for Polychromatic X-Ray Diffraction Data”. BioRxiv. doi:10.1101/2024.07.23.604358",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "Sensitive Detection of Structural Differences Using a Statistical Framework for Comparative Crystallography",
+      "year": 2024,
+      "citation_raw": "Doeke R. Hekstra, Harrison K. Wang, Margaret A. Klureza, Jack B. Greisman, and Kevin M. Dalton. 2024. “Sensitive Detection of Structural Differences Using a Statistical Framework for Comparative Crystallography”. BioRxiv. doi:10.1101/2024.07.22.604476",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "Mapping Protein Conformational Landscapes from Crystallographic Drug Fragment Screens",
+      "year": 2024,
+      "citation_raw": "Ammaar A. Saeed, Margaret A. Klureza, and Doeke R. Hekstra. 2024. “Mapping Protein Conformational Landscapes from Crystallographic Drug Fragment Screens”. BioRxiv. doi:10.1101/2024.07.29.605395",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "Resolving DJ-1 Glyoxalase Catalysis Using Mix-and-Inject Serial Crystallography at a Synchrotron",
+      "year": 2024,
+      "citation_raw": "Kara A. Zielinski, Cole Dolamore, Kevin M. Dalton, Nathan Smith, John Termini, Robert Henning, Vukica Srajer, Doeke R. Hekstra, Lois Pollack, and Mark A. Wilson. 2024. “Resolving DJ-1 Glyoxalase Catalysis Using Mix-and-Inject Serial Crystallography at a Synchrotron”. BioRxiv. doi:10.1101/2024.07.19.604369",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "Scaling and Merging Time-Resolved Laue Data With Variational Inference",
+      "year": 2024,
+      "citation_raw": "Kara A. Zielinski, Cole Dolamore, Harrison K. Wang, Robert W. Henning, Mark A. Wilson, Lois Pollack, Vukica Srajer, Doeke R. Hekstra, and Kevin M. Dalton. 2024. “Scaling and Merging Time-Resolved Laue Data With Variational Inference”. BioRxiv. doi:10.1101/2024.07.30.605871",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "Emerging Time-Resolved X-Ray Diffraction Approaches for Protein Dynamics",
+      "year": 2023,
+      "citation_raw": "Doeke R. Hekstra. 2023. “Emerging Time-Resolved X-Ray Diffraction Approaches for Protein Dynamics”. Annual Review of Biophysics, 52, Pp. 255-74",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "Correcting Systematic Errors in Diffraction Data With Modern Scaling Algorithms",
+      "year": 2023,
+      "citation_raw": "Luis A. Aldama, Kevin M. Dalton, and Doeke R. Hekstra. 2023. “Correcting Systematic Errors in Diffraction Data With Modern Scaling Algorithms”. Acta Crystallographica D, 79, 3, Pp. 796-805",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "Native SAD Phasing at Room Temperature",
+      "year": 2022,
+      "citation_raw": "Jack B. Greisman, Kevin M. Dalton, Candice J. Sheehan, Margaret A. Klureza, Igor Kurinov, and Doeke R. Hekstra. 2022. “Native SAD Phasing at Room Temperature”. Acta Crystallographica Section D, 78, 8. doi:10.1101/2021.12.13.472485",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "A Unifying Bayesian Framework for Merging X-Ray Diffraction Data",
+      "year": 2022,
+      "citation_raw": "Kevin Dalton, Jack Greisman, and Doeke Hekstra. 2022. “A Unifying Bayesian Framework for Merging X-Ray Diffraction Data.”. Nature Communications, 13. doi:10.1101/2021.01.05.425510",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications"
+    },
+    {
+      "title": "Towards Automated Crystallographic Structure Refinement With a Differentiable Pipeline",
+      "year": 2022,
+      "citation_raw": "Minhuan Li and Doeke R. Hekstra. 2022. “Towards Automated Crystallographic Structure Refinement With a Differentiable Pipeline”. In Machine Learning for Structural Biology Workshop, NeurIPS. New Orleans",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Online Inference of Structure Factor Amplitudes for Serial X-Ray Crystallography",
+      "year": 2022,
+      "citation_raw": "Kevin M. Dalton and Doeke R. Hekstra. 2022. “Online Inference of Structure Factor Amplitudes for Serial X-Ray Crystallography”. In Machine Learning for Structural Biology Workshop, NeurIPS. New Orleans",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Reciprocalspaceship: A Python Library for Crystallographic Data Analysis",
+      "year": 2021,
+      "citation_raw": "Jack Greisman, Kevin Dalton, and Doeke Hekstra. 2021. “Reciprocalspaceship: A Python Library for Crystallographic Data Analysis”. Journal of Applied Crystallography, 54, 5. doi:10.1101/2021.02.03.429617",
+      "source_url": "https://hekstralab.fas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "mpl-interactions: A Python Package for Interactive Matplotlib Figures",
+      "year": 2024,
+      "citation_raw": "Hunt-Isaak et al., (2024). mpl-interactions: A Python Package for Interactive Matplotlib Figures. Journal of Open Source Software, 9(93), 5651, https://doi.org/10.21105/joss.05651",
+      "source_url": "https://joss.theoj.org/papers/10.21105/joss.05651"
+    },
+    {
+      "title": null,
+      "year": 2024,
+      "citation_raw": "@article{Hunt-Isaak2024, doi = {10.21105/joss.05651}, url = {https://doi.org/10.21105/joss.05651}, year = {2024}, publisher = {The Open Journal}, volume = {9}, number = {93}, pages = {5651}, author = {Hunt-Isaak, Ian and Russell, John and Hekstra, Doeke}, title = {mpl-interactions: A Python Package for Interactive Matplotlib Figures}, journal = {Journal of Open Source Software} }",
+      "source_url": "https://joss.theoj.org/papers/10.21105/joss.05651"
+    }
+  ]
 }

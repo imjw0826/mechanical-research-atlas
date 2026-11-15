@@ -5,22 +5,50 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp02272",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02272",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed",
-      "identity_evidence": "Dr Mohamed Arif Bin Mohamed",
-      "affiliation_evidence": "Lecturer, School of Mechanical & Aerospace Engineering",
-      "website_links": []
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Adding a simple production term to Reynolds-averaged Navier–Stokes turbulence models for flows over two-dimensional hills",
+      "year": 2023,
+      "citation_raw": "Conference Papers Articles (Journal) Mohamed Arif Mohamed, David Wood, and Bing Feng Ng. Adding a simple production term to Reynolds-averaged Navier–Stokes turbulence models for flows over two-dimensional hills. Physics of Fluids, 35(6), 06 2023. 065135.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications"
+    },
+    {
+      "title": "Modelling of fire-suppressant injection into engine nacelle for various flight regimes",
+      "year": 2023,
+      "citation_raw": "Mohamed A Mohamed, Tze How New, and Bing Feng Ng. Modelling of fire-suppressant injection into engine nacelle for various flight regimes. Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, 2023;237(13):3111-3125., 2023.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications"
+    },
+    {
+      "title": "Flow structures of wishbone vortex generators and their interactions with a backward-facing ramp",
+      "year": 2023,
+      "citation_raw": "A Cheawchan, MA Mohamed, BF Ng, and TH New. Flow structures of wishbone vortex generators and their interactions with a backward-facing ramp. Journal of Aerospace Engineering, 36(1):04022120, 2023.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications"
+    },
+    {
+      "title": "P du Plessix, DH Wood, and RJ Martinuzzi, Measurements to assess simple rans model behaviour instagnating flow",
+      "year": 2018,
+      "citation_raw": "MA Mohamed, M Sherry, P du Plessix, DH Wood, and RJ Martinuzzi. Measurements to assess simple rans model behaviour instagnating flow. International Journal of Heat and Fluid Flow, 70:226–236, 2018.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications"
+    },
+    {
+      "title": "Modifications to Reynolds-Averaged Navier–Stokes turbulence models for the wind flow over buildings",
+      "year": 2017,
+      "citation_raw": "MA Mohamed and DH Wood. Modifications to Reynolds-Averaged Navier–Stokes turbulence models for the wind flow over buildings. International Journal of Sustainable Energy, 36(3):225–241, 2017.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications"
+    },
+    {
+      "title": "A numerical investigation on flow past skewed vortex generators ahead of a backward facing ramp",
+      "year": 2022,
+      "citation_raw": "A Cheawchan, MA Mohamed, BF Ng, and TH New. A numerical investigation on flow past skewed vortex generators ahead of a backward facing ramp. Aerospace Science and Technology, page 107435, 2022",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications"
+    }
+  ]
 }

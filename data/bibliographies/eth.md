@@ -361,37 +361,921 @@ Homepage · 논문·원고 68건 · 기타 성과 0건 · 상태: complete
 
 ## ETH Zurich — Andreas Güntner
 
-Homepage · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+Homepage · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:11.314Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official directory/profile/lab visited. Structured paper extraction and remaining year/category/pagination navigation pending.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://hsl.ethz.ch/publications>
+
+1. Selective, Stable and Humidity-Robust NO₂ Sensing at Room Temperature with Porous WS₂ Films Simone Hersberger, Michael Pereira Martins, Seina Fassbind and Andreas Güntner ACS Sensors, vol. 10: no. 11, pp. 8596-8605, American Chemical Society, 2025.
+
+    게시 페이지: <https://hsl.ethz.ch/publications.html>
+
+1. Photothermal Annealing-Enabled Millisecond Synthesis of Carbon Nanoonions and Simultaneous Single-Atom Functionalization Dogyeong Jeon, Hamin Shin, Jun-Hwe Cha, HongHui Kim, Seohak Park, Jaewan Ahn, Su-Ho Cho, Chungseong Park, Dong-Ha Kim, Euichul Shin, Hionsuck Baik, Jihan Kim, Sung-Yool Choi and Il-Doo Kim ACS Nano, vol. 19: no. 38, pp. 34235-34247, American Chemical Society, 2025.
+
+    게시 페이지: <https://hsl.ethz.ch/publications.html>
+
+1. Neuromorphic Circuit for Temporal Odor Encoding in Turbulent Environments Shavika Rastogi, Nik Dennler, Michael Schmuker and André van Schaik IEEE Sensors Journal, vol. 25: no. 18, pp. 35622-35630, IEEE, 2025.
+
+    게시 페이지: <https://hsl.ethz.ch/publications.html>
+
+1. Alternate-day fasting elicits larger changes in fat mass than time-restricted eating in adults without obesity – A randomized clinical trial Nina Derron, Andreas Güntner, Ines Weber, Julia Braun, İlker Ö. Koska, Alaa Othman, Leonie Mönch, Arnold von Eckardstein, Milo A. Puhan, Felix Beuschlein, Michel Hochuli, Nicola Zamboni, Roman Guggenberger and Philipp A. Gerber Clinical Nutrition, vol. 53, pp. 212-221, Elsevier, 2025.
+
+    게시 페이지: <https://hsl.ethz.ch/publications.html>
+
+1. Microbial and antimicrobial resistance diagnostics by gas sensors and machine learning Mehmet Berk Bilgin, Hamin Shin, Catherine R. Jutzeler, Thomas M. Kessler, Emma Slack, Adrian Egli and Andreas Güntner Cell Biomaterials, vol. 1: no. 7, pp. 100125, Cell Press, 2025.
+
+    게시 페이지: <https://hsl.ethz.ch/publications.html>
+
+1. Revealing Polymorph-Specific Transduction in WO3 during Acetone Sensing Matteo D'Andria, Meng Yin, Stefan Neuhauser, Vlasios Mavrantzas, Ying Chen, Ken Suzuki and Andreas Güntner arXiv, pp. 2508.03510, Ithaca, NY: Cornell University, 2025.
+
+    게시 페이지: <https://hsl.ethz.ch/publications.html>
+
+1. Room temperature NO2 chemiresistive sensing with porous WS2 films Simone Hersberger, Michael Pereira Martins, Selina Fassbind and Andreas Güntner ChemRxiv, Cambridge: Cambridge University Press, 2025.
+
+    게시 페이지: <https://hsl.ethz.ch/publications.html>
+
+1. Palladium Aerogel-Enabled Flexible Hydrogen Sensors: An Insight into Structural Origins of Chemiresistive Performance Jaewan Ahn, Hamin Shin, Minhyun Kim, Jaehyun Ko, Seongcheol Ahn, Dong-Ha Kim and Il-Doo Kim ACS Nano, vol. 19: no. 21, pp. 20257-20268, American Chemical Society, 2025.
+
+    게시 페이지: <https://hsl.ethz.ch/publications.html>
+
+1. Template-Free Synthesis of Highly Porous Metal Nitride Architectures for Electronics and Molecular Sensing Adrien Baut, Michael Pereira Martins and Andreas Güntner Small Structures, vol. 6: no. 6, pp. 2500044, Wiley-VCH, 2025.
+
+    게시 페이지: <https://hsl.ethz.ch/publications.html>
 
 ## ETH Zurich — George Haller
 
-George Haller's Group for Nonlinear Dynamical Systems · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+George Haller's Group for Nonlinear Dynamical Systems · 논문·원고 207건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:23.162Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Roster lab URL corrected using official faculty directory: original https://micro.mavt.ethz.ch/; official http://www.georgehaller.com/#xd_co_f=MjdhNmMxNTFhNTU5ZDVhMjY4OTE1NjMzNDExOTk2Nzg=~; source https://mavt.ethz.ch/people/faculty/professors.html entry Haller, George, Prof. Dr. / Official directory/profile/lab visited. Structured paper extraction and remaining year/category/pagination navigation pending.
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://www.georgehaller.com/publications/index.html>
+
+출처: <http://www.georgehaller.com/publications>
+
+1. R.S. Kaundinya, M. Leone, R. Sabella, H. Buurmeijer, L. Pabon, J.I. Alora, M. Pavone & G. Haller Data-Driven Precision Control of Soft Helicoid Robots arXiv:2611.11709 (2026). [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. R.S. Kaundinya, H. Zheng, R.K. Katzschmann & G. Haller Accelerated reinforcement learning for soft robotics: Hours instead of years arXiv:2611.11718 (2026). [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Karakai, R.S. Kaundinya, M.Y. Michelis, R.K. Katzschmann & G. Haller Orientation control of soft robots via adiabatic spectral submanifolds arXiv:2609.14376 (2026). [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. H. Zheng, M. Stampanoni, R.S. Kaundinya, R. Hinchet, G. Haller & R.K. Katzschmann Dynamic shape control of soft trunk robots arXiv:2611.06625 (2026). [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Jung, I. Thiel, J. Yuk & G. Haller Non-destructive detection of early drought stress via spectral submanifold analysis arXiv:2610.30287 (2026). [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Buza & G. Haller Spectral submanifold reduction for PDEs describing nonlinear continuum vibrations arXiv:2607.10675 (2026). [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. J. King, B. Kaszás, G. Buza, W. Jussiau & G. Haller Parametric spectral submanifolds across Hopf bifurcations with applications to fluid dynamics Chaos 36 (2026) 103112. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Abbasciano, G. Buza & G. Haller Data-driven reduced modeling of delayed dynamical systems via spectral submanifolds Chaos 36 (2026) 103103. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. L. Bettini, A. Kazemipour, R.K. Katzschmann & G. Haller Nonlinear spectral modeling and control of soft-robotic muscles from data Nat Commun 17 (2026) 10897. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Buza & G. Haller Existence of spectral submanifolds in time delay systems J. Nonlinear Science 36 (2026) 109. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller Predicting subharmonic and superharmonic backbone curves in nonlinear mechanical systems Proc. R. Soc. A 482 (2026) 20250742. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Marraffa, R. Krause, V. Mante & G. Haller Data-driven reduced modeling of neural dynamics Nat Commun 17 (2026) 9123. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. R.S. Kaundinya, I. Thiel, B. Kaszás, S. Jain & G. Haller Predicting generalized steady states in aperiodically forced mechanical systems Journal of Sound and Vibration 643 (2026) 120026. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. R.S. Kaundinya, J.I. Alora, J.G. Matt, L.A. Pabon, M. Pavone & G. Haller Data-driven soft robot control via adiabatic spectral submanifolds The International Journal of Robotics Research 0 (2026) 1–34. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. L. Bettini, A. Kazemipour, R.K. Katzschmann & G. Haller General oblique projections for nodel reduction via spectral submanifolds Chaos 36 (2026) 053122. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Abbasciano, B. Endrész, G. Stépán & G. Haller Data-driven modeling of global bifurcations and chaos in a mechanical system under delayed and quantized control Journal of Sound and Vibration 628 (2026) 119660. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. B. Kaszás & G. Haller Joint reduced model for the laminar and chaotic attractors in plane Couette flow J. Fluid Mech. 1023 (2025) A1. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. B. Kaszás & G. Haller Globalizing manifold-based reduced models for equations and data Nat. Commun 16 (2025) 5722. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A.A. Morsy, Z. Xu, P. Tiso & G. Haller, Data-driven reduction of the finite-element model of a Tribomechadynamics benchmark problem Nonlinear Dyn (2025) published online. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. L. Bettini, B. Kaszás, B. Zybach, J. Dual & G. Haller Data-driven nonlinear model reduction to spectral submanifolds via oblique projection Chaos 35 (2025) 043135. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. J.I. Alora, M. Cenedese, G. Haller & M. Pavone Discovering dominant dynamics for nonlinear continuum robot control npj Robotics 3:5 (2025). [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Encinas-Bartos, B. Kaszás, S. Servidio & G. Haller, Material barriers to the diffusive magnetic flux in magnetohydrodynamics European Journal of Mechanics / B Fluids 112 (2025) 10–21. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M.M. Neamtu-Halic, S. Brizzolara, G. Haller & M. Holzner, Unsupervised extraction of rotational Lagrangian coherent structures Computers and Fluids 290 (2025) 106558. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. Z. Xu, R. S. Kaundinya, S. Jain & G. Haller, Nonlinear model reduction to random spectral submanifolds in random vibrations Journal of Sound and Vibration 600 (2025) 118923. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Ponsioen, S. Jain & G. Haller, Response to "Discussion of S. Ponsioen, S. Jain and G. Haller: 'Model reduction to spectral submanifolds and forced-response calculation in high-dimensional mechanical systems’, Journal of Sound and Vibration 488, 2020, pages 1-23" Journal of Sound and Vibration 597 (2025) 118791. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Yang, J. Axås, F. Kádár, G. Stépán & G. Haller, Modeling nonlinear dynamics from videos Nonlinear Dyn (2024) published online. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. J. Axås, B. Bäuerlein, K. Avila & G. Haller Data-driven modeling of subharmonic forced response due to nonlinear resonance Sci Rep 14 (2024) 25991. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M.Cenedese, J. Marconi, G. Haller & S. Jain, Data-assisted non-intrusive model reduction for forced nonlinear finite elements models Nonlinear Dyn (2024) published online. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & B. Kaszás, Data-driven linearization of dynamical systems Nonlinear Dyn 112 (2024) 18639–18663. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. Thurnher, G. Haller & S. Jain, Nonautonomous spectral submanifolds for model reduction of nonlinear mechanical systems under parametric resonance Chaos 34 (2024) 073127. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. L. Bettini, M. Cenedese & G. Haller, Model reduction to spectral submanifolds in piecewise smooth dynamical systems International Journal of Non-Linear Mechanics 163 (2024) 1047. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. N. Aksamit, A.P. Encinas-Bartos, G. Haller & D.E. Rival, Relative fluid stretching and rotation for sparse trajectory observations J. Fluid Mech. 996 (2024) A40. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. Z. Xu, B. Kaszás, M. Cenedese, G. Berti, F. Coletti, G. Haller, Data-driven modeling of the regular and chaotic dynamics of an inverted flag from experiments J. Fluid Mech. 987 (2024) R7. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, R.S. Kaundinya, Nonlinear model reduction to temporally aperiodic spectral submanifolds Chaos 34 (2024) 043152. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Li, S. Jain & G. Haller, Fast computation and characterization of forced response surfaces via spectral submanifolds and parameter continuation Nonlinear Dyn 112 (2024) 7771–7797. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Liu, J. Axås & G. Haller, Data-driven modeling and forecasting of chaotic dynamics on inertial manifolds constructed as spectral submanifolds Chaos 34 (2024) 033140. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Li, B. Kaszás & G. Haller, Variational construction of tubular and toroidal streamsurfaces for flow visualization Proc. R. Soc. A 480 (2024) 20230951. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A.P. Encinas-Bartos & G. Haller, Vorticity alignment with Lyapunov vectors and rate-of-strain eigenvectors European Journal of Mechanics - B/Fluids 105 (2024) 259-274. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. B. Kaszás & G. Haller, Capturing the edge of chaos as a spectral submanifold in pipe flows J. Fluid Mech. 979 (2024) A48.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. J.I. Alora, M. Cenedese, E. Schmerling, G. Haller & M. Pavone, Practical deployment of spectral submanifold reduction for optimal control of high-dimensional systems IFAC PapersOnLine 56-2 (2023) 4074-4081. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. J.I. Alora, M. Cenedese, E. Schmerling, G. Haller & M. Pavone, Data-driven spectral submanifold reduction for nonlinear optimal control of high-dimensional robots 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom (2023) 2627-2633. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. F. Mahlknecht, J.I. Alora, S. Jain, E. Schmerling, R. Bonalli, G. Haller & M. Pavone, Using spectral submanifolds for nonlinear periodic control 2022 IEEE 61st Conference on Decision and Control (CDC), Cancun, Mexico (2022) 6548-6555. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. N. Aksamit, R. Hartmann, D. Lohse & G. Haller, Interplay between advective, diffusive, and active barriers in (rotating) Rayleigh-Bénard flow J. Fluid Mech. 969 (2023) A27. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. J. Axås & G. Haller, Model reduction for nonlinearizable dynamics via delay-embedded spectral submanifolds Nonlinear Dyn 111 (2023) 22079–22099. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, B. Kaszás, A. Liu & J. Axås, Nonlinear model reduction to fractional and mixed-mode spectral submanifolds Chaos 33 (2023) 063138. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Li, S. Jain & G. Haller, Model reduction for constrained mechanical systems via spectral submanifolds Nonlinear Dyn 111 (2023) 8881–8911. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. J. Axås, M. Cenedese & G. Haller, Fast data-driven model reduction for nonlinear dynamical systems Nonlinear Dyn 111 (2023) 7941–7957. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. B. Kaszás, T. Pedergnana & G. Haller, The objective deformation component of a velocity field European Journal of Mechanics - B/Fluids 98 (2023) 211–223. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Katsanoulis, F. Kogelbauer, R. Kaundinya, J. Ault & G. Haller, Approximate streamsurfaces for flow visualization J. Fluid Mech. 954 (2023) A28. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A.P. Encinas Bartos, N.O.Aksamit & G. Haller, Quasi-objective eddy visualization from sparse drifter data Chaos 32 (2022) 113143. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. B. Kaszás, M. Cenedese & G. Haller Dynamics-based machine learning of transitions in Couette flow Phys. Rev. Fluids 7 (2022) L082402. [PDF] [Supplemental material]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Li & G. Haller, Nonlinear analysis of forced mechanical systems with internal resonance using spectral submanifolds, Part II: Bifurcation and quasi-periodic response Nonlinear Dyn 110 (2022) 1045–1080. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Li, S. Jain & G. Haller, Nonlinear analysis of forced mechanical systems with internal resonance using spectral submanifolds, Part I: Periodic response and forced response curve Nonlinear Dyn 110 (2022) 1005–1043. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. Breunung, F. Kogelbauer & G. Haller The deterministic core of stochastically perturbed nonlinear mechanical systems Proc. R. Soc. A 478 (2022) 20210933. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Cenedese, J. Axås, H. Yang, M. Eriten & G. Haller, Data-driven nonlinear model reduction to spectral submanifolds in mechanical systems Phil. Trans. R. Soc. A 380 (2022) 20210194 . [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, S. Jain & M. Cenedese Dynamics-based machine learning for nonlinearizable phenomena. Data-driven reduced models on spectral submanifolds SIAM News 55/5 (2022) 1-4. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, N. Aksamit & A.P. Encinas-Bartos, Erratum: "Quasi-objective coherent structure diagnostics from single trajectories" [Chaos 31, 043131 (2021)] Chaos 32 (2022) 059901. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. N.O. Aksamit & G. Haller, Objective momentum barriers in wall turbulence J. Fluid Mech. 941 (2022) A3. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Cenedese, J. Axås, B. Bäuerlein, K. Avila & G. Haller, Data-driven modeling and prediction of non-linearizable dynamics via spectral submanifolds Nat. Commun. 13 (2022) 872. [PDF] [Supplementary information]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. L. Martínez, P. Merino, G. Santoro, J.I. Martínez, S. Katsanoulis, … , G. Haller, G.J. Ellis & J.A. Martin-Gago, Metal-catalyst-free gas-phase synthesis of longchain hydrocarbons Nat. Commun. 12 (2021) 5937. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Jain & G. Haller, How to compute invariant manifolds and their reduced dynamics in high-dimensional finite-element models? Nonlinear Dyn (2021). [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. N.O. Aksamit, B. Kravitz, D.G. MacMartin & G. Haller, Harnessing stratospheric diffusion barriers for enhanced climate geoengineering Chem. Phys. 21 (2021) 8845-8861. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Buza, G. Haller & S. Jain, Integral equations and model reduction for fast computation of nonlinear periodic response Int. J. Numer. Methods Eng. 122 (2021) 4637-4659. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, N. Aksamit & A.P. Encinas Bartos, Quasi-objective coherent structure diagnostics from single trajectories Chaos 31 (2021) 043131. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Buza, S. Jain & G. Haller, Using spectral submanifolds for optimal mode selection in model reduction Proc. R. Soc. A 477 (2021) 20200725. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. Dauxois, T. Peacock, P. Bauer, C.P. Caulfield, C. Cenedese, C. Gorlé, G. Haller, G.N. Ivey, P.F. Linden, E. Meiburg, N. Pinardi, N.M. Vriend & A.W. Woods, Confronting grand challenges in environmental fluid dynamics Phys. Rev. Fluids 6 (2021) 020501. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Can vortex criteria be objectivized? J. Fluid Mech. 908 (2021) A25. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. B. Kaszás & G. Haller, Universal upper estimate for prediction errors under moderate model uncertainty Chaos 30 (2020) 113144. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, S. Katsanoulis, M. Holzner, B. Frohnapfel & D. Gatti, Objective barriers to the transport of dynamically active vector fields J. Fluid Mech. 905 (2020) A17. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Ponsioen, S. Jain & G. Haller, Model reduction to spectral submanifolds and forced-response calculation in high-dimensional mechanical systems Journal of Sound and Vibration 488 (2020) 115640. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Cenedese & G. Haller, Stability of forced-damped response in mechanical systems from a Melnikov analysis Chaos 30 (2020) 083103. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Neamtu-Halic, D. Krug, J. Mollicone, M. van Reeuwijk, G. Haller & M. Holzner, Connecting the time evolution of the turbulence interface to coherent structures J. Fluid Mech. 898 (2020) A3. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Serra, P. Sathe, I. Rypina, A. Kirincich, S. Ross, P. Lermusiaux, A. Allen, T. Peacock & G. Haller, Search and rescue at sea aided by hidden flow structures Nat. Commun. 11 (2020) 2525. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. Pedergnana, D. Oettinger, G. P. Langlois & G. Haller, Explicit unsteady Navier-Stokes solutions and their analysis via local vortex criteria Phys. Fluids 32 (2020) 046603. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. N. Aksamit, T. Sapsis & G. Haller, Machine-learning mesoscale and submesoscale surface dynamics from Lagrangian ocean drifter trajectories J. Phys. Oceanogr. 50 (2020) 1179–1196. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Katsanoulis, M. Farazmand, M. Serra & G. Haller, Vortex boundaries as barriers to diffusive vorticity transport in two-dimensional flows Phys. Rev. Fluids 5 (2020) 024701. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Cenedese & G. Haller, How do conservative backbone curves perturb into forced responses? A Melnikov function analysis Proc. R. Soc. A 476 (2020) 20190494. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, D. Karrasch & F. Kogelbauer, Barriers to the transport of diffusive scalars in compressible flows SIAM J. on Appl. Dynamical Systems 19, 1 (2020) 85–123. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. Z. Veraszto, S. Ponsioen & G. Haller, Explicit third-order model reduction formulas for general nonlinear mechanical systems J. Sound Vib. 468 (2020) 115039. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Serra, S. Crouzat, G. Simon, J. Vétel & G. Haller, Material spike formation in highly unsteady separated flows J. Fluid Mech. 883 (2019) A30. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. Breunung & G. Haller, When does a periodic response exist in a periodically forced multi-degree-of-freedom mechanical system? Nonlinear Dynamics 98, 3 (2019) 1761-1780. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Neamtu-Halic, D. Krug, G. Haller & M. Holzner, Lagrangian coherent structures and entrainment near the turbulent/non-turbulent interface of a gravity current J. Fluid Mech. 877 (2019) 824-843. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Solving the inertial particle equation with memory J. Fluid Mech. 874 (2019) 1-4. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Ponsioen, T. Pedergnana & G. Haller, Analytic prediction of isolated forced response curves from spectral submanifolds Nonlinear Dynamics 98, 4 (2019) 2755-2773. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Sharma, I.I. Rypina, R. Musgrave & G. Haller, Analytic reconstruction of a two-dimensional velocity field from an observed diffusive scalar J. Fluid Mech. 871 (2019) 755-774. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Jain, T. Breunung, & G. Haller, Fast computation of steady-state response for high-degree-of-freedom nonlinear systems Nonlinear Dynamics 97, 1 (2019) 313-341. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, D. Karrasch & F. Kogelbauer, Material barriers to diffusive and stochastic transport. Proc. Natl. Acad. Sci. U.S.A., PNAS 115/37 (2018) 9074-9079. [PDF] [Supporting Information]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. D. Oettinger, J.T. Ault, H.A. Stone & G. Haller, Invisible anchors trap particles in branching junctions. Phys. Rev. Lett. 121(5) (2018) 054502. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. Breunung & G. Haller, Explicit backbone curves from spectral submanifolds of forced-damped nonlinear mechanical systems. Proc. R. Soc. A 474 (2018) 20180083. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. F. J. Beron-Vera, A. Hadjighasem, Q. Xia, M. J. Olascoaga & G. Haller, Coherent Lagrangian swirls among submesoscale motions. Proc. Natl. Acad. Sci. U.S.A. (2018) 201701392. [PDF] [Supporting information]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. F. J. Beron-Vera, A. Hadjighasem, Q. Xia, M. J. Olascoaga & G. Haller, Coherent Lagrangian swirls among submesoscale motions. Proc. Natl. Acad. Sci. U.S.A. (2018) 201701392. [PDF] [Supporting information] M. Serra, J. Vétel & G. Haller, Exact theory of material spike formation in flow separation. J. Fluid Mech. 845 (2018) 51-92. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Jain, P. Tiso & G. Haller, Exact nonlinear model reduction for a von Karman beam: Slow-fast decomposition and spectral submanifolds. J. Sound Vib. 423 (2018) 195–211. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Jain, P. Tiso & G. Haller, Exact nonlinear model reduction for a von Karman beam: Slow-fast decomposition and spectral submanifolds. J. Sound Vib. 423 (2018) 195–211. [PDF] R. Abernathey & G. Haller, Transport by Lagrangian vortices in the Eastern Pacific. J. Phys. Oceanogr. 48 (2018) 667-685. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. F. Kogelbauer & G. Haller, Rigorous model reduction for a damped-forced nonlinear beam model: An infinite-dimensional analysis.J. Nonlinear Sci. 28(2018) 1109-1150. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Ponsioen, T. Pedergnana & G. Haller, Automated computation of autonomous spectral submanifolds for nonlinear modal analysis. J. Sound Vib. 420 (2018) 269-295. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Ponsioen, T. Pedergnana & G. Haller, Automated computation of autonomous spectral submanifolds for nonlinear modal analysis. J. Sound Vib. 420 (2018) 269-295. [PDF] M. Serra, P. Sathe, F. Beron-Vera & G. Haller, Uncovering the edge of the polar vortex. J. Atm. Sci. 74 (2017) 3871–3885. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & S. Ponsioen, Exact model reduction by a slow-fast decomposition of nonlinear mechanical systems. Nonlinear Dynamics 90 (2017) 617-647. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. H. Babaee, M. Farazmand, G. Haller & T. Sapsis, Reduced-order description of transient instabilities and computation of finite-time Lyapunov exponents. Chaos 27 (2017) 063103. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. R. Szalai, D. Ehrhardt & G. Haller, Nonlinear model identification and spectral submanifolds for multi-degree-of-freedom mechanical vibrations. Proc. Royal Soc. A 473 (2017) 20160759. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Hadjighasem, M. Farazmand, D. Blazevski, G. Froyland & G. Haller, A critical comparison of Lagrangian methods for coherent structure detection. Chaos 27 (2017) 053104. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Serra & G. Haller, Efficient computation of null geodesics with applications to coherent vortex detection. Proc. Royal Soc. A 473 (2017) 20160807. [PDF]. Featured on the journal's cover page.
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Serra & G. Haller, Forecasting long-lived Lagrangian vortices from their objective Eulerian footprints. J. Fluid. Mech. 813 (2017) 436-457. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. E. L. Rempel, A. C.-L. Chian, F. J. Beron-Vera, S. Szanyi & G. Haller, Objective vortex detection in an astrophysical dynamo. Monthly Notices of Roy. Astronom. Soc. 466 (2016) L108–L112. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. S. Szanyi, J. V. Lukovich, D. G. Barber & G. Haller, Persistent artifacts in the NSIDC ice motion dataset and their implications for analysis. Geophys. Res. Lett., 43 (2016) 10,800-10,807. [PDF] [Supporting Information]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. D. Oettinger & G. Haller, An autonomous dynamical system captures all LCSs in three-dimensional unsteady flows. Chaos 26 (2016) 103111. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Hadjighasem & G. Haller, Level set formulation of two-dimensional Lagrangian vortex detection methods. Chaos 26 (2016) 103102. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & S. Ponsioen, Nonlinear normal modes and spectral submanifolds: existence, uniqueness and use in model reduction. Nonlinear Dynamics 86 (2016) 1493-1534. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Climate, Black Holes and Vorticity: How on Earth are they related? SIAM News, 49/5 (2016) 1-2. [Article]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Hadjighasem, D. Karrasch, H. Teramoto, & G. Haller, Spectral clustering approach to Lagrangian vortex detection. Phys. Rev. E 93 (2016) 063107 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Serra & G. Haller, Objective Eulerian coherent structures. Chaos26(2016) 053110. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. D. Oettinger, D. Blazevski & G. Haller, Global variational approach to elliptic transport barriers in three dimensions. Chaos 26(2016) 033114. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, A. Hadjighasem, M. Farazamand & F. Huhn, Defining coherent vortices objectively from the vorticity. J. Fluid Mech. 795(2016) 136-173. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Hadjighasem & G. Haller, Geodesic transport barriers in Jupiter's atmosphere: a video-based analysis, SIAM Review 58 (2016) 69-89. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Dynamically consistent rotation and stretch tensors from a dynamic polar decomposition. J. Mechanics and Physics of Solids, 80(2016) 70-93. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Farazmand & G. Haller, Polar rotation angle identifies elliptic islands in unsteady dynamical systems. Physica D 315 (2016) 1-12. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. Peacock, G. Froyland & G. Haller, Introduction to focus issue: Objective detection of coherent structures. Chaos 25(2015) 087201.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. Peacock, G. Froyland & G. Haller, Introduction to focus issue: Objective detection of coherent structures. Chaos 25(2015) 087201.[PDF] F.J. Beron-Vera, M.J. Olascoaga, G. Haller, M. Farazmand, J. Trinanes & Y. Wan, Dissipative inertial transport patterns near coherent Lagrangian eddies in the ocean. Chaos 25 (2015) 087412. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. D. Karrasch, M. Farazmand & G. Haller, Attraction-based computation of hyperbolic Lagrangian coherent structures. J. Comp. Dynamics 2 (2015) 83-93. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. F. Huhn, W.M. van Rees, M. Gazzola, D. Rossinelli, G. Haller and P. Koumoutsakos, Quantitative flow analysis of swimming dynamics with coherent Lagrangian vortices. Chaos 25 (2015) 087405. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Provencher-Langlois, M. Farazmand & G. Haller, Asymptotic dynamics of inertial particles with memory. J. Nonlinear Science 25 (2015) 1225-1255. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. C. R. Short, D. Blazevski, K. C. Howell & G. Haller, Stretching in phase space and applications in general nonautonomous multi-body problems, Celest. Mech. Dyn. Astr. 122 (2015) 213–238. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. K. Onu, F. Huhn, & G. Haller, LCS Tool: A Computational platform for Lagrangian coherent structures, J. of Computational Science, 7 (2015) 26-36. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Lagrangian Coherent Structures. Annual Rev. Fluid. Mech, 47 (2015) 137-162. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Farazmand & G. Haller, The Maxey--Riley equation: Existence, uniqueness and regularity of solutions, Nonlinear. Analysis22(2015) 98-106. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. D. Karrasch, F. Huhn & G. Haller, Automated detection of coherent Lagrangian vortices in two-dimensional unsteady flows. Proc. Royal Society. 471 (2014) 20140639.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & F. J. Beron-Vera, Addendum to ‘Coherent Lagrangian vortices: the black holes of turbulence’, J. Fluid. Mech., 755 (2014) R3.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Farazmand, D. Blazevski & G. Haller, Shearless transport barriers in unsteady two-dimensional flows and maps, Physica D 278–279 (2014) 44–57.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. D. Blazevski & G. Haller, Hyperbolic and elliptic transport barriers in three-dimensional unsteady flows, Physica D 273-274 (2014) 46-62.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. F. B. Beron-Vera, M. J. Olascoaga, G. Haller, J. Trinanes, M. Iskandarani et al. Drifter motion in the Gulf of Mexico constrained by altimetric Lagrangian coherent structures. Geophys. Res. Lett., 40 (2013) 6171–6175. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. F. B. Beron-Vera, M. J. Olascoaga, G. Haller, J. Trinanes, M. Iskandarani et al. Drifter motion in the Gulf of Mexico constrained by altimetric Lagrangian coherent structures. Geophys. Res. Lett., 40 (2013) 6171–6175. [PDF] D. Karrasch & G, Haller, Do Finite-Size Lyapunov Exponents detect coherent structures? Chaos 23 (2013) 043126. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. H. Teramoto, G. Haller & T. Komatsuzaki, Detecting invariant manifolds as stationary LCSs in autonomous dynamical systems, Chaos 23 (2013) 043107.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. H. Teramoto, G. Haller & T. Komatsuzaki, Detecting invariant manifolds as stationary LCSs in autonomous dynamical systems, Chaos 23 (2013) 043107.[PDF] G. Haller & F.J. Beron-Vera, Coherent Lagrangian vortices: The black holes of turbulence. J. Fluid Mech. 731 (2013) R4.[PDF] [Appendices]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. H. A. Kafiabad, P.W. Chan & G. Haller, Lagrangian detection of windshear for landing aircraft. J. Oceanic and Atmospheric Technology, 30 (2013) 2808-2819.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. F. J. Beron-Vera, Y. Wang, M. J. Olascoaga, J. G. Goni & G. Haller, Objective detection of oceanic eddies and the Agulhas leakage, J. Phys. Oceanogr., 43 (2013) 1426–1438. [PDF].
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Farazmand & G. Haller, Attracting and repelling Lagrangian coherent structures from a single computation. Chaos 15 (2013) 023101. [PDF].
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Hadjighasem, M. Farazmand & G. Haller, Detecting invariant manifolds, attractors and generalized KAM tori in aperiodically forced mechanical systems, Nonlinear Dynamics, 73 (2013) 689–704. [PDF].
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Hadjighasem, M. Farazmand & G. Haller, Detecting invariant manifolds, attractors and generalized KAM tori in aperiodically forced mechanical systems, Nonlinear Dynamics, 73 (2013) 689–704. [PDF]. T. Peacock & G. Haller, Lagrangian coherent structures: The hidden skeleton of fluid flows. Physics Today 66 (2013) 41-47. [PDF].
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & F. J. Beron-Vera, Geodesic theory of transport barriers in two-dimensional flows Physica D 241 (2012) 1680-1702 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. J. Olascoaga & G. Haller, Forecasting sudden changes in environmental contamination patterns Proc. National Acad. Sci. 109 (2012) 4738-4743. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Farazmand & G. Haller, Computing Lagrangian Coherent Structures from variational LCS theory, Chaos. 22 (2012) 013128 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Farazmand & G. Haller, Erratum and Addendum to `A variational theory of hyperbolic Lagrangian Coherent Structures’, Physica D, 241 (2012) 439-441.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Farazmand & G. Haller, Erratum and Addendum to `A variational theory of hyperbolic Lagrangian Coherent Structures’, Physica D, 241 (2012) 439-441.[PDF] W. Tang, G. Haller, & P. W. Chan, Lagrangian Coherent Structure Analysis of Terminal Winds Detected by LIDAR. Part II: Structure Evolution and Comparison with Flight Data. J. Applied Meteorology and Climatology, 50 (2011) 325-338 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. P. Sapsis, N. T. Ouellette, J. P. Gollub & G. Haller, Neutrally buoyant particle dynamics in fluid flows: Comparison of experiments with Lagrangian stochastic models. Phys. Fluids., 23 (2011) 293304, 1-15 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. P. Sapsis, N. T. Ouellette, J. P. Gollub & G. Haller, Neutrally buoyant particle dynamics in fluid flows: Comparison of experiments with Lagrangian stochastic models. Phys. Fluids., 23 (2011) 293304, 1-15 [PDF] T. Sapsis, J. Peng, & G. Haller, Instabilities of prey dynamics in jellyfish feeding Bull. Math. Biology, 73 (2011) 1841-1856 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. W. Tang, P. W. Chan, & G. Haller, Lagrangian Coherent Structure Analysis of TerminalWindsDetected byLIDAR.Part I: Turbulence Structures, J. Applied Meteorology and Climatology, 50 (2011) 325-338 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller and T. Sapsis, Lagrangian Coherent Structures and the Smallest Finite-Time Lyapunov Exponent, Chaos 21 (2011) 023115, 1-5[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller and T. Sapsis, Lagrangian Coherent Structures and the Smallest Finite-Time Lyapunov Exponent, Chaos 21 (2011) 023115, 1-5[PDF] G. Haller, A variational theory of hyperbolic Lagrangian Coherent Structures Physica D 240 (2011) 574-598.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, T. Uzer, J. Palacian, P. Yanguas, & Charles Jaffe, Transition state geometry near higher-rank saddles in phase space, Nonlinearity 24 (2011) 527-561. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. W. Tang, M. Mathur, G. Haller, D. C. Hahn, & F. H. Ruggiero, Lagrangian coherent structures near a subtropical jet stream, J. Atmospheric Sci., 67 (2010) 2307-2319 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. W. Tang, M. Mathur, G. Haller, D. C. Hahn, & F. H. Ruggiero, Lagrangian coherent structures near a subtropical jet stream, J. Atmospheric Sci., 67 (2010) 2307-2319 [PDF] G. Haller & T. Sapsis, Localized instability and attraction along invariant manifolds SIAM J. on Appl. Dynamical Systems, 9 (2010) 611-633 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. W. Tang, P. W. Chan, & G. Haller, Accurate extraction of LCS over finite domains, with application to flight safety analysis over Hong Kong International Airport, Chaos 20 (2010) 017502[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. Sapsis & G. Haller, Clustering criterion for inertial particles in 2D time-periodic and 3D steady flows, Chaos 20 (2010) 017515 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, T. Uzer, J. Palacian, P. Janguas & C. Jaffe, Transition states near rank-two saddles: Correlated electron dynamics of helium, Comm. Nonlinear Sci. Num. Simul, 15 (2010) 48-59 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. T. Sapsis & G. Haller, Inertial particle dynamics in a hurricane, J. Atmosph. Sci., 66 (2009) 2481-2492. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. W. Tang, G. Haller, J.-J. Baik, & Y. H. Ryu, Locating an atmospheric contamination source using slow manifolds Phys. Fluids, 21 (2009) 043302 (1-7)[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. Surana, G. Jacobs, O. Grunberg, & G. Haller, Exact theory of three-dimensional fixed separation in unsteady flows, Phys. Fluids. 20 (2008) 107101 (1-22) [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Weldon, T. Peacock, G.B. Jacobs, M. Helu & G. Haller, Experimental and numerical investigation of the kinematic theory of unsteady separation, J. Fluid. Mech., 611 (2008) 1-11. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. F. Lekien & G. Haller, Unsteady flow separation on slip boundaries, Phys. Fluids, 20 (2008) 097101 (1-19)[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Surana & G. Haller, Ghost manifolds in slow-fast systems, with application to unsteady fluid flow separation. Physica D 237 (2008) 1507-1529. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & T. Sapsis, Where do inertial particles go in fluid flows? Physica D 237 (2008) 573-583.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & T. Sapsis, Where do inertial particles go in fluid flows? Physica D 237 (2008) 573-583.[PDF] 36.T. Sapsis & G. Haller, Instabilities in the dynamics of neutrally buoyant particles. Phys. Fluids, 20 (2008) 017102[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. C. Coulliette, F. Lekien, J. Paduano, G. Haller & J. Marsden, Optimal pollution mitigation in Monterey Bay based on coastal radar data and nonlinear dynamics. Env. Science and Technology 41 (2007) 6562-6572. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. Mathur, G. Haller, T. Peacock, J. E. Ruppert-Felsot, & H. L. Swinney, Uncovering the Lagrangian skeleton of turbulence. Phys. Rev. Lett. 98 (2007) 144502. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. K. E. Rifai, G. Haller, & A. K. Bajaj, Global dynamics of an autoparametric spring-mass-pendulum system. Nonlinear Dynamics 49 (2007) 105-116. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. Surana, G. B. Jacobs, & G. Haller, Extraction of separation and reattachment surfaces from 3D steady shear flows. AIAA Journal. 45 (2007) 1290-1302. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. A. Green, C. W. Rowley & G. Haller, Detection of Lagragian coherent structures in 3D turbulence. J. Fluid Mech. 572 (2007) 111–120.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. H. Salman, J. S. Hesthaven, T. Warburton, T., & G. Haller, Predicting transport by Lagrangian coherent structures with a high-order method. Theor. & Comp. Fluid Dynam. 21 (2007) 39-58. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. Aldridge, G. Haller, P. Sorger, & D. Lauffenburger, Direct Lyapunov exponent analysis enables parametric study of transient signaling governing cell behavior. IEE Proc. Systems Biology 153 (2006) 425-432. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. 44.A. Surana, O. Grunberg, & G. Haller, Exact theory of three-dimensional flow separation. Part I. Steady separation J. Fluid. Mech., 564 (2006) 57-103. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. S. Kilic, G. B. Jacobs, J. S. Hesthaven & G. Haller, Reduced Navier-Stokes equations near a flow boundary. Physica D 217 (2006) 161-185. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. M. R. Alam, W. Liu, & G. Haller, Closed-loop separation control: An analytic approach. Phys. Fluids. 18 (2006) 043601 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. F. Lekien, C. Coulliette, A. J. Mariano, E. H. Ryan, L. K. Shay, G. Haller, & J. Marsden, Pollution release tied to invariant manifolds: A case study for the coast of Florida. Physica D 210 (2005) 1-20.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. F. Lekien, C. Coulliette, A. J. Mariano, E. H. Ryan, L. K. Shay, G. Haller, & J. Marsden, Pollution release tied to invariant manifolds: A case study for the coast of Florida. Physica D 210 (2005) 1-20.[PDF] M. S. Kilic, G. Haller & A. Neishtadt, Unsteady flow separation by the method of averaging. Phys. Fluids 17 (2005) 067104 [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, An objective definition of a vortex. J. Fluid Mech. 525 (2005) 1-26. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. W. Liu & G. Haller, Inertial manifold and completeness of eigenmodes for unsteady magnetic dynamos. Physica D 194 (2004) 297-319. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Exact theory of unsteady separation for two-dimensional flows. J. Fluid. Mech. 512 (2004) 257-311. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Exact theory of unsteady separation for two-dimensional flows. J. Fluid. Mech. 512 (2004) 257-311. [PDF] W. Liu & G. Haller, Strange eigenmodes and decay of variance in the mixing of diffusive tracers. Physica D 188 (2004) 1-39. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & R. Iacono, Stretching, alignment, and shear in slowly varying velocity fields. Phys. Rev. E 68 (2003) 056304. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. Y. Wang, G. Haller, A. Banaszuk, & G. Tadmor, Closed-loop Lagrangian separation control in a bluff body shear flow model. Phys. Fluids A 15 (2003) 2251-2266. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. A. Voth, G. Haller, & J.P. Gollub, Experimental measurements of stretching fields in fluid mixing. Phys. Rev. Lett., 88 (2002) 254501. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. A. Voth, G. Haller, & J.P. Gollub, Experimental measurements of stretching fields in fluid mixing. Phys. Rev. Lett., 88 (2002) 254501. [PDF] G. Haller, Lagrangian coherent structures from approximate velocity data Phys. Fluids A 14 (2002) 1851-1861. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Lagrangian coherent structures and the rate of strain in a partition of two-dimensional turbulence. Phys. Fluids A 13 (2001) 3365-3385. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Menon & G. Haller, Infinite-dimensional geometric singular perturbation theory for the Maxwell-Bloch equations. SIMA J. Math. Anal. 33 (2001) 315-346. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Response to `Comments on "Finding finite-time invariant manifolds..." ‘. Chaos 11 (2001) 431-437.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Distinguished material surfaces and coherent structures in 3D fluid flows. Physica D 149 (2001) 248-277. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & G. Yuan, Lagrangian coherent structures and mixing in two-dimensional turbulence. Physica D 147 (2000) 352-370.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Finding finite-time invariant manifolds in two-dimensional velocity fields. Chaos 10 (2000) 99-108. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, G. Menon, & V. Rothos, Shilnikov manifolds in coupled nonlinear Schrodinger equations. Phys. Lett A 263 (1999) 175-185. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Poje, G. Haller, & I. Mezic, The geometry and statistics of mixing in aperiodic flows. Phys. Fluids A 11 (1999) 2963-2968. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. A. Poje, G. Haller, & I. Mezic, The geometry and statistics of mixing in aperiodic flows. Phys. Fluids A 11 (1999) 2963-2968. [PDF] A. Poje & G. Haller, Geometry of cross-stream mixing in a double-gyre ocean model. J. Phys. Oceanogr. 29 (1999) 1649-1665. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Homoclinic jumping in the perturbed nonlinear Schrodinger equation. Comm. Pure Appl. Math. 52 (1998) 1-47. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & A. Poje, Finite time transport in aperiodic flows. Physica D 119 (1998) 352-380. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Multi-dimensional homoclinic jumping and the discretized NLS equation. Comm. Math. Phys. 193 (1998) 1-46. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & I. Mezic, Reduction of three-dimensional, volume preserving flows with symmetry. Nonlinearity 11 (1998) 319-339. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & A. Poje, Eddy growth and mixing in mesoscale oceanographic flows. Nonlin. Proc. Geophys. 4 (1997) 223-235. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Universal homoclinic bifurcations and chaos near double resonances. J. Stat. Phys. 86 (1997) 1011-1051.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & G. Stepan, Micro-chaos in digital control. J. Nonlinear Sci. 6 (1996) 415-448. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & S. Wiggins, Geometry and chaos near resonant equilibria of 3DOF Hamiltonian systems. Physica D 90 (1996) 319-365. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Stepan & G. Haller, Quasiperiodic oscillations in robot dynamics. Nonlin. Dyn. 8 (1995) 513-528. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & S. Wiggins, Whiskered tori and chaos in Hamiltonian normal forms. Fields Inst. Comm. 4 (1995) 129-149.
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & S. Wiggins, Multi-pulse jumping orbits and homoclinic trees in a modal truncation of the damped-forced nonlinear Schrodinger equation. Physica D 85 (1995) 311-347.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & S. Wiggins, N-pulse homoclinic orbits in perturbations of resonant Hamiltonian systems. Arch. Rat. Mech. Anal. 130 (1995) 25-101. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Diffusion at intersecting resonances in Hamiltonian systems. Phys. Lett. A 200 (1995) 34-42. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & S. Wiggins, Orbits homoclinic to resonances: the Hamiltonian case. Physica D 66 (1993) 298-346. [PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Gyroscopic stability, its universal loss and asymptotic behavior. Nonlinear Vibr. Problems 25 (1993) 123-134.
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller, Gyroscopic stability and its loss in systems with two essential coordinates. Int. J. Non-Linear Mech. 27 (1992) 113-127.[PDF]
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
+
+1. G. Haller & G. Stepan, Codimension-two bifurcation in an approximate model for delayed robot control. Int. Ser. Num. Math. 97 (1991) 155-159.
+
+    게시 페이지: <https://www.georgehaller.com/publications/index.html>
 
 ## ETH Zurich — Inge Hermann
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:25.209Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official faculty directory has no Website for this PI; old roster URL may belong to another lab and was not used. Full lab discovery pending.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://rsl.ethz.ch/#xd_co_f=MjdhNmMxNTFhNTU5ZDVhMjY4OTE1NjMzNDExOTk2Nzg=~>
+
+출처: <https://rsl.ethz.ch/publications-sources.html>
+
+출처: <https://rsl.ethz.ch/publications-sources/publications.html>
 
 ## ETH Zurich — Christofer Hierold
 
 Homepage · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:29.881Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Roster lab URL corrected using official faculty directory: original https://ifd.ethz.ch/research/group-jenny.html#xd_co_f=MjdhNmMxNTFhNTU5ZDVhMjY4OTE1NjMzNDExOTk2Nzg=~; official https://micro.mavt.ethz.ch/; source https://mavt.ethz.ch/people/faculty/professors.html entry Hierold, Christofer, Prof. Dr. / Official directory/profile/lab visited. Structured paper extraction and remaining year/category/pagination navigation pending.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://micro.mavt.ethz.ch/>
+
+출처: <https://ifd.ethz.ch/research/group-jenny.html#xd_co_f=MjdhNmMxNTFhNTU5ZDVhMjY4OTE1NjMzNDExOTk2Nzg=~>
+
+출처: <https://mavt.ethz.ch/people/faculty/professors.html>
+
+출처: <http://mohr.ethz.ch/>
+
+출처: <https://micro.mavt.ethz.ch/publications-and-awards.html>
 
 ## ETH Zurich — Marco Hutter
 
@@ -21148,13 +22032,17 @@ Homepage · 논문·원고 433건 · 기타 성과 17건 · 상태: complete
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T15:15:25.475850+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://ghe.ethz.ch/>
 
 출처: <https://misl.ethz.ch/>
 
 출처: <https://misl.ethz.ch/publications.html>
+
+출처: <https://ghe.ethz.ch/publications.html>
 
 ## ETH Zurich — Outi Supponen
 
@@ -21332,11 +22220,113 @@ Homepage · 논문·원고 433건 · 기타 성과 17건 · 상태: complete
 
 ## ETH Zurich — Quentin Boehler
 
-Homepage · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+Homepage · 논문·원고 25건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:56:03.250Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official Publications states: As soon as publications are added in ETH Research Collection, this publications list will populate automatically. No citations displayed. News excluded.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://mero.ethz.ch/publications.html>
+
+1. Advancing minimally invasive precision surgery in large open cavities with robotic flexible endoscopy Michelle Mattille, Alexandre Mesot, Miriam Weisskopf, Nicole Ochsenbein-Kölble, Ueli Moehrlen, Bradley Nelson and Quentin Boehler Science Robotics, vol. 11: no. 118, pp. eaed1470, AAAS, 2026.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Investigating workload and usability of remote magnetic navigation for catheter ablation Florian Heemeyer, Leonardo E. Guido Lopez, Miguel E. Jáuregui Abularach, Beatriz Sanz Verdejo, Quentin Boehler, Oliver Brinkmann, José L. Merino and Bradley Nelson International Journal of Computer Assisted Radiology and Surgery, vol. 21: no. 3, pp. 651-660, Springer, 2026.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. A Transnasal Endoscope for Robotically Assisted Gastroscopy Alexandre Mesot, Michelle Mattille, Sean Lyttle, Shannon M. Chan, Philip W.Y. Chiu, Quentin Boehler and Bradley Nelson Advanced Robotics Research, pp. e70174, Wiley-VCH, 2026.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. A Multidimensional Perspective on Network Conditions in Telesurgery Florian Heemeyer, Marco Cina, Ege Cem Kirci, Laurent Vanbever and Quentin Boehler Advanced Intelligent Systems, pp. e70546, Wiley, 2026.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Parametric Design of Continuum Robots Using Interlocking Ball Joints Alexandre Mesot, Quentin Boehler, Florian Heemeyer, Sean Lyttle, Buse Aktaş and Bradley Nelson Advanced Intelligent Systems, vol. 7: no. 11, pp. 2500180, Wiley-VCH, 2025.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Design and Optimization of Remagnetization Actuators Claas Ehmke, Quentin Boehler, Salvador Pané and Bradley J. Nelson IEEE Transactions on Magnetics, vol. 61: no. 8, pp. 8000610, IEEE, 2025.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Orthogonal Pulse-Width-Modulation for Combined Electromagnetic Actuation and Localization Denis von Arx, Bradley J. Nelson and Quentin Boehler IEEE Robotics and Automation Letters, vol. 10: no. 6, pp. 6424-6431, IEEE, 2025.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Telesurgery and the importance of context Florian Heemeyer, Quentin Boehler, Min-Soo Kim, Bernard R. Bendok, Evelyn L. Turcotte, H. Hunt Batjer, Ryan D. Madder, Vitor M. Pereira and Bradley Nelson Science Robotics, vol. 10: no. 99, pp. eadq0192, AAAS, 2025.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. A Physics-Informed Neural Network for the Calibration of Electromagnetic Navigation Systems Pascal Ernst, Simone Gervasoni, Derick Sivakumaran, Enea Masina, David Sargent, Bradley Nelson and Quentin Boehler 38th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China, pp.5743-5749, Piscataway, NJ: IEEE, October 19-25, 2025.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Fast Rotating Magnetic Fields in Open Workspace Using Resonant Magnetic Actuation Systems With Magnetic Decoupling Denis von Arx, Harun Torlakcik, Min-Soo Kim, Salvador Pané, Bradley Nelson and Quentin Boehler IEEE Robotics and Automation Letters, vol. 9: no. 6, pp. 5276-5283, IEEE, 2024.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Autonomous Magnetic Navigation in Endoscopic Image Mosaics Michelle Mattille, Quentin Boehler, Jonas Lussi, Nicole Ochsenbein, Ueli Moehrlen and Bradley Nelson Advanced Science, vol. 11: no. 19, pp. 2400980, Wiley-VCH, 2024.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Dexterous helical magnetic robot for improved endovascular access Roland Dreyfus, Quentin Boehler, Sean Lyttle, P. Gruber, Jonas Lussi, Christophe Chautems, Simone Gervasoni, Jatta Berberat, Dominic Seibold, Nicole Ochsenbein-Kölble, Michael Reinehr, Miriam Weisskopf, Luca Remonda and Bradley Nelson Science Robotics, vol. 9: no. 87, pp. eadh0298, AAAS, 2024.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Simultaneous Localization and Actuation Using Electromagnetic Navigation Systems Denis von Arx, Cedric Fischer, Harun Torlakcik, Salvador Pané, Bradley Nelson and Quentin Boehler IEEE Transactions on Robotics, vol. 40, pp. 1292-1308, IEEE, 2024.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Gradiometer-based magnetic localization for medical tools Cedric Fischer, Thomas Quirin, Christophe Chautems, Quentin Boehler, Joris Pascal and Bradley Nelson IEEE Transactions on Magnetics, vol. 59: no. 2, pp. 5400105, IEEE, 2023.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. On the Workspace of Electromagnetic Navigation Systems Quentin Boehler, Simone Gervasoni, Samuel Charreyron, Christophe Chautems and Bradley Nelson IEEE Transactions on Robotics, vol. 39: no. 1, pp. 791-807, IEEE, 2023.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. A Simulation Framework for Magnetic Continuum Robots Roland Dreyfus, Quentin Boehler and Bradley Nelson IEEE Robotics and Automation Letters, vol. 7: no. 3, pp. 8370-8376, IEEE, 2022.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Using Magnetic Fields to Navigate and Simultaneously Localize Catheters in Endoluminal Environments Cedric Fischer, Quentin Boehler and Bradley Nelson IEEE Robotics and Automation Letters, vol. 7: no. 3, pp. 7217-7223, IEEE, 2022.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Magnetic concentric tube robots: introduction and analysis Quentin Peyron, Quentin Boehler, Patrick Rougeot, Pierre Roux, Bradley Nelson, Nicolas Andreff, Kanty Rabenorosoa and Pierre Renaud The International Journal of Robotics Research, vol. 41: no. 4, pp. 418-440, SAGE, 2022.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Modeling Electromagnetic Navigation Systems Samuel Charreyron, Quentin Boehler, Byungsoo Kim, Cameron Weibel, Christophe Chautems and Bradley Nelson IEEE Transactions on Robotics, vol. 37: no. 4, pp. 1009-1021, IEEE, 2021.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Automated tracheal intubation in an airway manikin using a robotic endoscope: a proof of concept study Peter Biro, Phyllis Hofmann, Dave Gage, Quentin Boehler, Christophe Chautems, Julia Braun, Donat R. Spahn and Bradley Nelson Anaesthesia, vol. 75: no. 7, pp. 881-886, Wiley-Blackwell, 2020.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. REALITI: A Robotic Endoscope Automated via Laryngeal Imaging for Tracheal Intubation Quentin Boehler, David S. Gage, Phyllis Hofmann, Alexandra Gehring, Christophe Chautems, Donat R. Spahn, Peter Biro and Bradley J. Nelson IEEE Transactions on Medical Robotics and Bionics, vol. 2: no. 2, pp. 157-164, IEEE, 2020.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Magnetically Active Cardiac Patches as an Untethered, Non‐Blood Contacting Ventricular Assist Device Hongri Gu, Thibaud Bertrand, Quentin Boehler, Christophe Chautems, Nikolay V. Vasilyev and Bradley Nelson Advanced Science, vol. 8: no. 1, pp. 2000726, Wiley-VCH, 2020.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Development of a Robotic Endoscope Automated via Laryngeal Imaging for Tracheal Intubation (REALITI) Quentin Boehler, Phyllis Hofmann, D. Gage, A. Gehring, Christophe Chautems, Peter Biro and Bradley Nelson 12th Hamlyn Symposium on Medical Robotics (2019), London, United Kingdom, pp.99-100, London: The Hamlyn Centre, Imperial College London, June 23-26, 2019.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Kinematic Analysis of Magnetic Continuum Robots Using Continuation Method and Bifurcation Analysis Quentin Peyron, Quentin Boehler, Kanty Rabenorosoa, Bradley Nelson, Pierre Renaud and Nicolas Andreff IEEE Robotics and Automation Letters, vol. 3: no. 4, pp. 3646-3653, IEEE, 2018.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
+
+1. Synthesis method for the design of variable stiffness components using prestressed singular elastic systems Quentin Boehler, Marc Vedrines, Salih Abdelaziz, Philippe Poignet and Pierre Renaud Mechanism and Machine Theory, vol. 121, pp. 598-612, Elsevier, 2018.
+
+    게시 페이지: <https://mero.ethz.ch/publications.html>
 
 ## ETH Zurich — Mark Tibbitt
 
@@ -22260,13 +23250,19 @@ Homepage · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T15:15:25.475850+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
 출처: <https://idsc.ethz.ch/research-zeilinger/publications.html>
 
 출처: <https://idsc.ethz.ch/research-zeilinger.html>
+
+출처: <https://ethz.ch/en.html>
+
+출처: <https://ics.mavt.ethz.ch/>
+
+출처: <https://ics.mavt.ethz.ch/publications.html>
 
 ## ETH Zurich — Jan Carmeliet
 
@@ -26370,9 +27366,9 @@ Computational Mechanics Group · 논문·원고 192건 · 기타 성과 0건 · 
 
 Research Frazzoli · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:58:42.349Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official group page and full expanded group navigation inspected. No publications link. Dedicated lab publication source not resolved; not a full-site attempt.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://idsc.ethz.ch/research-frazzoli.html>
+출처: <https://idsc.ethz.ch/research-frazzoli.html#xd_co_f=MjdhNmMxNTFhNTU5ZDVhMjY4OTE1NjMzNDExOTk2Nzg=~>
 

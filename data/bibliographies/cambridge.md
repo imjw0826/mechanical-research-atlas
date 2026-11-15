@@ -8,17 +8,21 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:52:37.503Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Discovered Fluids: https://www.eng.cam.ac.uk/node/40 / Discovered Publications: https://orcid.org/0000-0002-7647-7126 / Department research-group page inspected beyond profile; no publication list or personal lab navigation exposed. Further official lab discovery remains pending; not full-site attempted.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/hb209>
 
 ## University of Cambridge — Gary Hunt
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:57:39.658Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Discovered Fluids: https://www.eng.cam.ac.uk/node/40 / Research-group route inspected beyond department profile. Fluids group has no publication list or personal lab link. Further discovery pending; stage not marked full_site_attempted.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/grh20>
 
 ## University of Cambridge — Matthew Juniper
 
@@ -607,81 +611,115 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.038Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Discovered Personal website: https://orcid.org/0000-0001-8245-5188 / Discovered Publications: https://orcid.org/0000-0001-8245-5188
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/em257>
 
 ## University of Cambridge — Rob Miller
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.040Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/rjm76>
 
 ## University of Cambridge — Geoff Parks
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.042Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Discovered Publications: https://www.researchgate.net/profile/Geoffrey-Parks/publications
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/gtp10>
 
 ## University of Cambridge — Graham Pullan
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.044Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Discovered Personal website: https://whittle.eng.cam.ac.uk/lab/team/graham-pullan/
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/gp10006>
+
+출처: <https://whittle.eng.cam.ac.uk/lab/team/graham-pullan/>
+
+출처: <https://bennettinnovationlab.com/>
 
 ## University of Cambridge — Stuart Scott
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.047Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/sas37>
 
 ## University of Cambridge — Eugene Shwageraus
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.050Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/es607>
 
 ## University of Cambridge — Swami Swaminathan
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.052Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/ns341>
 
 ## University of Cambridge — Andrew Wheeler
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.054Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Discovered Personal website: https://whittle.eng.cam.ac.uk/lab/team/andrew-wheeler/
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/aw329>
+
+출처: <https://whittle.eng.cam.ac.uk/lab/team/andrew-wheeler/>
+
+출처: <https://bennettinnovationlab.com/>
 
 ## University of Cambridge — Anurag Agarwal
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:52:37.510Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Discovered Fluids: https://www.eng.cam.ac.uk/node/40 / Discovered Personal website: http://acoustics.eng.cam.ac.uk/ / Attempted http://acoustics.eng.cam.ac.uk/: net::ERR_CERT_AUTHORITY_INVALID / Official Acoustics lab followed beyond certificate warning; current site is default WordPress My Blog with Hello world dated November 1 2026. No publications list available.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/aa406>
+
+출처: <http://acoustics.eng.cam.ac.uk/>
+
+출처: <http://acoustics.eng.cam.ac.uk/:>
 
 ## University of Cambridge — Michael Sutcliffe
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.056Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered website for the course: https://healthcare.eng.cam.ac.uk/
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/mpfs1>
+
+출처: <https://healthcare.eng.cam.ac.uk/>
 
 ## University of Cambridge — David Cardwell
 
@@ -1989,9 +2027,11 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/dc29>
 
 출처: <https://www.repository.cam.ac.uk/search?query=david%20Cebon%23&spc.page=1>
 
@@ -1999,15 +2039,11 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 찾은 링크가 저널 호(issue) 목록 페이지여서 연구실 논문 목록으로 쓰지 않음.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
 출처: <https://www.tandfonline.com/journals/cjen20>
-
-출처: <https://www.inderscience.com/jhome.php?jcode=IJHTM>
-
-출처: <https://www.tandfonline.com/journals/cjen20/about-this-journal>
 
 출처: <https://www.tandfonline.com/journals/cjen20/special-issues>
 
@@ -2135,27 +2171,65 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/gc121>
 
 출처: <https://www.connectedpapers.com/about>
 
 ## University of Cambridge — Jonathan Cullen
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 7건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.080Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: https://www.refficiency.org/author/jon/ / Discovered Publications: https://scholar.google.com/citations?hl=en&user=3-ct8FoAAAAJ / Followed profile-linked official/personal site: https://www.refficiency.org/author/jon/ / Publication follow-up link Publications: https://www.refficiency.org/category/publications/
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://www.refficiency.org/category/publications/>
+
+출처: <https://www.refficiency.org/category/publications/page/3/>
+
+1. Industrial energy efficiency and decarbonisation via electrification and hydrogen Laura Prestwich April 14, 2026
+
+    게시 페이지: <https://www.refficiency.org/category/publications/>
+
+1. Building stock archetype and modelling (BSAM) framework for coupled material-energy‑carbon assessment Laura Prestwich April 2, 2026
+
+    게시 페이지: <https://www.refficiency.org/category/publications/>
+
+1. Ten years on: Are raw material criticality assessments making more sense? Laura Prestwich February 26, 2026
+
+    게시 페이지: <https://www.refficiency.org/category/publications/>
+
+1. China’s role in the UK energy transition: from mine to technology Laura Prestwich February 4, 2026
+
+    게시 페이지: <https://www.refficiency.org/category/publications/>
+
+1. Reducing uncertainties in greenhouse gas emissions from chemical production Luke Cullen March 26, 2024
+
+    게시 페이지: <https://www.refficiency.org/category/publications/page/3/>
+
+1. A critical review of plastics and circularity in automotive supply chains Jonathan Cullen October 25, 2023
+
+    게시 페이지: <https://www.refficiency.org/category/publications/page/3/>
+
+1. Mapping material use and embodied carbon in UK construction Joanna Wakeling July 12, 2023
+
+    게시 페이지: <https://www.refficiency.org/category/publications/page/3/>
 
 ## University of Cambridge — Vikram Deshpande
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.083Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://cambridgesolidmechanics.co.uk/ / Followed profile-linked official/personal site: http://cambridgesolidmechanics.co.uk/
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <http://cambridgesolidmechanics.co.uk/>
+
+출처: <https://www.eng.cam.ac.uk/profiles/vsd20>
 
 ## University of Cambridge — John Durrell
 
@@ -3463,41 +3537,1939 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.097Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/sdf10>
 
 ## University of Cambridge — Nick Atkins
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:52:37.516Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Followed department Turbomachinery group to Whittle lab and Research area; phase-based heat-transfer detail expanded. No all-years author publication list yet identified; investigation remains pending.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/nra27>
 
 ## University of Cambridge — Norman Fleck
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 464건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.099Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://www-mech.eng.cam.ac.uk/profiles/fleck/
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://www.fleckmech.org/publications.shtml>
+
+1. IUTAM Symposium on Mechanics of Granular Flow and Powder Compaction, 15-17 July 1996, Cambridge, England, eds. N. A. Fleck and A. C. F. Cocks, Kluwer Academic Publishers, Amsterdam.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Metfoam '99, Fraunhofer Institute for Manufacturing Advanced Materials, Bremen, 14-16 June 1999, ed. by J. Banhart, M. F. Ashby and N. A. Fleck. Verlag MIT Publishing.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Engineering Materials - a forward look, special issue of Progress in Materials Science, February 2001.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Metfoam 2001, Fraunhofer Institute for Manufacturing Advanced Materials, Bremen, 18-20 June 2001, ed. by J. Banhart, M. F. Ashby and N. A. Fleck. Verlag MIT Publishing.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Metfoam 2003, Technical University of Berlin, 23-25 June 2003, ed. by J. Banhart, N.A.Fleck and A.Mortensen. Verlag MIT Publishing.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. IUTAM Symposium on Mechnaical Properties of Cellular Materials, 17-20 Spetember 2007, LMT-Cachen, France, eds. H.Zhao and N.A.Fleck, Springer.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. IUTAM Symposium on Mechnaical Properties of Cellular Materials, 17-20 Spetember 2007, LMT-Cachen, France, eds. H.Zhao and N.A.Fleck, Springer. Refereed Journals and Contributions to Books Fleck NA and Smith RA (1981). Effect of density on tensile strength, fracture toughness, and fatigue crack propagation behaviour of sintered steel. Powder Metallurgy,3, pp 121-125. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Smith RA (1982). Crack closure - is it just a surface phenomenon? International Journal of Fatigue, pp 157-160, July 1982. Correction in Int. J. Fatigue, p 243. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Smith IRC and Smith RA (1983). Closure behaviour of surface cracks. Fatigue of Engineering Materials and Structures,6(3), p 225. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Smith RA (1984). Fatigue life prediction of a structural steel under service loading. Int. J. Fatigue,6(4), pp 203-210. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Shin CS and Smith RA. Fatigue crack growth under compressive loading. Engineering Fracture Mechanics,21(1), p 173, 1985. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA. Fatigue crack growth due to periodic underloads and overloads. Acta Metallurgica et Materialia,33(7), pp 1339-1354, 1985. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA. Finite element analysis of plasticity-induced crack closure under plane strain conditions. Engineering Fracture Mechanics,25(4), pp 441-449, 1986. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Johnson KL. Towards a new theory of cold rolling thin foil. Int. J. Mech. Sci.,29(7), pp507-524, 1987. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shin CS and Fleck NA. Overload retardation in a structural steel. Fatigue and Fracture of Engineering Materials and Structures,9(5), pp 379-393, 1987. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Hutchinson JW and Tvergaard V. Softening by void nucleation and growth in tension and shear. J. Mech. Phys. Solids,37(4), pp 515-540, 1989. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Durban D. Asymptotic fields at tip of conical notches and inclusions in a power hardening solid. J. Mech. Phys. Solids,37(2), pp 233-263, 1989. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shin CS and Fleck NA. Fatigue and fracture of a zinc die casting alloy. Int. J. Fatigue,11(5), pp 341-346, 1989. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Anderson PM, Fleck NA and Johnson KL. Localisation of plastic deformation in shear due to microcracks. J. Mech. Phys. Solids,38(5), pp 681-699, 1990. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Soutis C and Fleck NA. Static compression failure of carbon fibre T800/924C composite plate with single hole. J. Composite Materials,24, pp 536-558, 1990. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shercliff HR and Fleck NA. Effect of specimen geometry on fatigue crack growth in plane strain: I. constant amplitude response. Fatigue and Fracture of Engineering Materials and Structures, 13(3), pp 287-296, 1990. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shercliff HR and Fleck NA. Effect of specimen geometry on fatigue crack growth in plane strain: II. Overload response. Fatigue and Fracture of Engineering Materials and Structures,13(3), pp 287-296, 1990. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Budiansky B. Compressive failure of fibre composites due to microbuckling, in Inelastic Deformation of Composite Materials, 1990, ed. G. J. Dvorak, Springer-Verlag, pp 235-274, 1991. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Soutis C, Fleck NA and Smith P A. Failure prediction technique for compression loaded carbon fibre-epoxy laminate with open holes. J. Composite Materials,25(11), pp 1476-1498, 1991. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Soutis, C, Fleck, N A and Smith, P A. Compression fatigue behaviour of notched carbon fibre-epoxy laminates. Int. J. Fatigue,13(4), pp 303-312, 1991. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Soutis, C, Fleck, N A and Curtis, P T. Hole-hole interaction in carbon fibre-epoxy laminates under uniaxial compression. Composites,22(1), pp 31-38, 1991. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Hutchinson, J and Suo Z. Crack path selection in a brittle adhesive layer. Int. J. Solids and Structures,27(13), pp 1683-1703, 1991. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A and Durban, D. Steady penetration of a rigid cone with a rough wall into a power-law viscous solid. J. Applied Mechanics,58(4), pp 872-880, 1991.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Durban, D and Fleck, N A. Singular plastic fields in steady penetration of a rigid cone. J. Applied Mechanics,59, pp 706-710, 1992. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Akisanya, A R and Fleck, N A. Analysis of a wavy crack in sandwich specimens. Int. J. Fracture,55, pp 29-45, 1992. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Kuhn LT and McMeeking RM. Yielding of metal powder bonded by isolated contacts. J. Mech. Phys. Solids,40(5), pp 1139-1162, 1992. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Otoyo H, and Needleman A. Indentation of porous solids. Int. J. Solids and Structures,26(13), pp 1613-1636, 1992. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Johnson KL, Mear ME and Zhang LC. Cold rolling of foil. Proc. Inst. Mechanical Engineers, Part B: Journal of Engineering Manufacture,206, pp 119-131, 1991. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Akisanya AR and Fleck NA. Brittle fracture of adhesive joints. Int. J. Fracture,58, pp 93-114, 1992. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Wright SC, Huang Y and Fleck NA. Deep penetration of polycarbonate by a cylindrical indenter. Mechanics of Materials,13(4), pp 277-284, 1991. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Budiansky B and Fleck NA. Compressive failure of fibre composites. J. Mech. Phys. Solids,41(1), pp 183-211, 1993. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Jelf PM and Fleck NA. Compression failure mechanisms in unidirectional composites. J. Composite Materials,26(18), pp 2706-2726, 1992. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sutcliffe MPF and Fleck NA. Effect of geometry upon compressive failure of notched composites. Int. J. Fracture,59, pp 115-132, 1993. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Slaughter WS and Fleck NA. Viscoelastic microbuckling of fibre composites. J. Applied Mechanics,60(4), pp 802-806, 1994. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Wright, S C, Fleck, N A and Stronge, W J. Ballistic impact of polycarbonate - an experimental investigation. J. Impact Engineering,13(1), pp 1-20, 1993. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bower, A F, Fleck, N A, Needleman, A and Ogbonna, N. Indentation of a power law creeping solid. Proc. Roy. Soc.,441, pp 97-124, 1993. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Akisanya, A R and Fleck, N A. Fatigue and creep of a constrained metal wire. Acta Metallurgica et Materialia,41(1), pp 121-131, 1993. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Slaughter, W S, Fleck, N A and Budiansky, B. Microbuckling of fibre composites: the roles of multi-axial loading and creep. J. Eng. Mats. and Technology,115(3), pp 308-313, 1992. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Deng L and Budiansky B (1995). Prediction of kink width in compressed fibre composites.J. Applied Mechanics,62(2), pp 329-337.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Muller GM, Ashby MF and Hutchinson JW (1994). Strain gradient plasticity: theory and experiment. Acta Metallurgica et Materialia,42(2), pp 475-487. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Hutchinson JW (1993). A phenomenological theory for strain gradient plasticity. J. Mech. Phys. Solids,41(12), pp 1825-1857. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Durban D and Fleck NA (1997). Spherical cavity expansion in a Druker-Prager Solid. J. Applied Mechanics,64, pp 743-750. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Slaughter, W S and Fleck, N A. Compressive fatigue of fibre composites. J. Mech. Phys. Solids,41(8), pp 1265-1284, 1993.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Jelf PM and Fleck NA. The failure of composite tubes due to combined compression and torsion. J. Materials Science,29, pp 3080-3084, 1994.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sharp, S J, Ashby, M F and Fleck, N A. Material response under static and solid indentation loads. Acta Metallurgica et Materialia,41(3), pp 685-692, 1993. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Akisanya, A R and Fleck, N A. The edge cracking and decohesion of thin films. Int. J. Solids and Structures,31(23), pp 3175-3199, 1994. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Kang, K J and Ashby, M F. Overview No. 112: the cyclic properties of engineering materials. Acta Metallurgica et Materialia,42(2), pp 365-581, 1994. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Akisanya, A R, Cocks, A C F and Fleck, N A. Hydrostatic compaction of cylindrical particles. J. Mech. Phys. Solids,42(7), pp 1067-1085, 1994. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Ogbonna, N, Fleck, N A and Cocks, A C F. Transient creep analysis of ball indentation. Int. J. Mech. Sci.,37(11), pp 1179-1202, 1995. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sutcliffe, M P F and Fleck, N A. Microbuckle propagation in carbon fibre - epoxy composites. Acta Metallurgica et Materialia,42(7), pp 2219-2231, 1994. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bower, A F and Fleck, N A. Brittle fracture under a sliding line contact. J. Mech. Phys. Solids,42(9), pp 1375-1396, 1994. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Slaughter, W S and Fleck, N A. Microbuckling of fibre composites with random initial fibre waviness. J. Mech. Phys. Solids,42(11), pp 1743-1766, 1994. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Budiansky, B and Fleck, N A. Compressive kinking of fibre composites: a topical review. Applied Mechanics Reviews,47(6), Part 2, pp S246-S250, 1994. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Cox, B N, Carter, W C and Fleck, N A. A binary model of textile composites. I Formulation. Acta Metallurgica et Materialia,42(10), pp 3463-3479, 1994. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Smyshlyaev, V P and Fleck, N A. Bounds and estimates for linear composites with strain gradient effects. J. Mech. Phys. Solids,42(12), pp 1851-1882, 1994. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Jelf, M and Curtis, P T. Compressive failure of laminated and woven composites. J. Composites: Technology and Research,17(3), pp 212-220, 1995. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Ogbonna, N and Fleck, N A. Compaction of an array of spherical particles. Acta Metallurgica et Materialia,43(2), pp 603-620, 1995. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A. On cold compaction of powders. J. Mech. Phys. Solids,43(9), pp 1409-1431, 1995. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Kang, K J and Williams, J A. The machining of sintered bronze. Int. J. Mech. Sci.,38(2), pp 141-155, 1996. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A and Jelf, P M. Deformation and failure of a carbon fibre composite under combined shear and transverse loading. Acta Metallurgica et Materialia,43(8), pp 3001-3007, 1995. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Poole, W J, Ashby, M F and Fleck, N A. Micro-hardness tests on annealed and work-hardened copper polycrystals. Scripta Met. et Mat.,34(4), pp 559-564, 1996. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A. A crystal plasticity view of powder compaction. Acta Metallurgica et Materialia,43(8), pp 3177-3184, 1995. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A and Shu, J Y. Microbuckle initiation in fibre composites: a finite element study. J. Mech. Phys. Solids,43(12), pp 1887-1918, 1995. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sutcliffe, M P F, Fleck, N A and Xin, X J. Prediction of compressive toughness for fibre composites. Proc. Roy. Soc. London,A452, pp 2443-2465, 1996. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shaw, M C, Clyne, T W, Cocks, A C F, Fleck, N A and Peteras, S K. Cracking patterns in metal/ceramic laminates: effects of plasticity. J. Mech. Phys. Solids,44, pp 801-814, 1996. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Akisanya, A R and Fleck, N A. Interfacial cracking from the free-edge of a bi-material strip. Int. J. Solids and Structures,34(13), pp 1645-1665, 1997. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Sutcliffe, M P F, Sivashanker, S and Xin, X J. Compressive R-curve of a carbon fibre - epoxy matrix composite. Composites,27B, pp 531-541, 1996. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sivashanker, S, Fleck, N A and Sutcliffe, M P F. Microbuckle propagation in a unidirectional carbon fibre - epoxy matrix composite. Acta Metallurgica et Materialia,44(7), pp 2581-2590, 1996. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Slaughter, W S, Fan, J and Fleck, N A. Dynamic compressive failure of fibre composites. J. Mech. Phys. Solids,44(11), pp 1867-1890, 1996. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Smyshlyaev, V P and Fleck, N A. The role of strain gradients in the grain size effect for polycrystals. J. Mech. Phys. Solids,44(4), pp 465-495, 1996. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Clarke, A R, Archenhold, G, Davidson, N, Slaughter, W S and Fleck, N A Determining the power spectral density of the waviness of unidirectional glass fibres in polymer composites. Applied Composite Materials,2, pp 233-243, 1995. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A. Compressive failure of fibre composites. Advances in Applied Mechanics,33, pp 43-119, Academic Press, 1997. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A and Hutchinson, J W. Strain gradient plasticity. Advances in Applied Mechanics,33, pp 295-361, Academic Press, 1997. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sutcliffe, M P F and Fleck, N A. Microbuckle propagation in fibre composites. Acta Metallurgica et Materialia,45(3), pp 921-932, 1997. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Akisanya, A R, Cocks, A C F and Fleck, N A. The yield behaviour of metal powders. Int. J. Mech. Sci.,39(12), pp 1315-1324, 1997. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Huber, J E, Fleck, N A and Ashby, M F. The selection of mechanical actuators based on performance indices. Proc. Roy. Soc.,A453, pp 2185-2205, 1997. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shu, J Y and Fleck, N A. The prediction of a size effect in micro-indentation. Int. J. Solids and Structures,35(13), pp 1363-1383, 1998. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Kang, K J and Fleck, N A. Analysis of the machining process of sintered bronze. KSME Journal,10(10), pp 314-320, 1996. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sridhar, I, Johnson, K L and Fleck, N A. Adhesion mechanics of the surface force apparatus. J. Applied Physics,30, pp 1710-1719, 1997. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Siegmund, T, Fleck, N A and Needleman, A. Dynamic crack growth across an interface. Int. J. Fracture,85, pp 381-402, 1997. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Sivashanker, S and Sutcliffe, M P F. Compressive failure of composites due to microbuckle growth. Eur. J. Mech., A/Solids,16, pp 65-82, 1997. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Redanz, P, Fleck, N A and McMeeking, R M. Failure of a porous solid from a deep notch. Int. J. Fracture,88, pp 187-203, 1997. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Hwang, S C, Huber, J E, McMeeking, R M and Fleck, N A. The simulation of switching in polycrystalline ferroelectric ceramics. J. Applied Physics D.,84, pp 1530-1540, 1998. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Budiansky, B, Fleck, N A and Amazigo, J C. On compressive kink-band propagation. J. Mech. Phys. Solids,46(9), pp 1637-1653, 1998. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Storakers, B, Fleck, N A and McMeeking, R M. The viscoplastic compaction of composite powders. J. Mech. Phys. Solids., 47(4), pp. 785-815, 1999. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shu, J Y, King, W E and Fleck, N A. Finite elements for materials with strain gradient effects. Int. J. Numerical Methods in Engineering, 44, 373-391, 1999. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Lu, T J and Fleck, N A. The thermal shock resistance of solids. Acta Materialia, 46(13), pp 4755-4768, 1998. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shu, J Y and Fleck, N A. Strain gradient crystal plasticity: size - dependent deformation of bicrystals. J. Mech. Phys. Solids,, 47(2), 297-324, 1999. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Mesarovic, S Dj. and Fleck, N A. Spherical indentation of elastic-plastic solids revisited. Proc. Roy. Soc., Series A., 455, 2707-2728, 1999. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Liu, D and Shu, J Y. (2000). Microbuckle initiation from a hole and from a free surface in a fibre composite. Int. J. Solids and Structures,, 37, 2757-2775. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Huber, J E, Fleck, N A, Landis, C and McMeeking, R M. A constitutive model for ferroelectrics. J. Mech. Phys. Solids., 47(8), 1663-1697, 1999. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Huber, J E, Fleck, N A and McMeeking, R M. A crystal plasticity model for ferroelectrics. Ferroelectrics, 228, 39-52 ,1999. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Mesarovic, S Dj. and Fleck, N A. Frictionless indentation of dissimilar elastic-plastic spheres. Int. J. Solids and Structures, 37, pp. 7071-7091, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. McCullough, K Y G, Fleck, N A and Ashby, M F. (1999). Uniaxial stress-strain behaviour of aluminium alloy foams. Acta Materialia, 47(8), pp. 2323-2330. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Liu, D and Fleck, N A. Interfacial cracking of scarf joints. Int. J. Fracture, 95, 67-88, 1999. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Chen, C, Lu, T J and Fleck, N A. Effect of imperfections on the yielding of two-dimensional foams. J. Mech. Phys. Solids, 47(11), 2235-2272, 1999. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Deshpande, V S and Fleck, N A. Isotropic constitutive models for metallic foams. J. Mech. Phys. Solids, 48(6-7), pp 1253-1283, 1999. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Deshpande, V S and Fleck, N A. High strain rate compressive behaviour of aluminium alloy foams. Int. J. Impact Eng., 24(3), pp.277-298, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Harte, A-M, Fleck, N A and Ashby, M F. (1999). Fatigue failure of an open cell and a closed cell aluminium alloy foam. Acta Materialia, 47(8), pp.2511-2524. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. McCullough, K Y G, Fleck, N A and Ashby, M F. (1999). Toughness of aluminium alloy foams. Acta Mat., 47(8), pp.2331-2343. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zhao, L G, Lu, T J and Fleck N A . Crack channelling and spalling in a plate due to thermal shock loading. J. Mech. Phys. Solids, 48(5), pp867-897, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Chen, C., Lu, T.J. and Fleck, N.A. Effect of inclusions and holes on the elastic stiffness and strength of two dimensional cellular solids, Int. J. Mech. Sci., 43(2), pp.487-504, 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sugimura, Y., Rabiei, A., Evans, A.G., Harte, A.M. and Fleck, N. A. Compression fatigue of cellular Al alloys, J. Mat. Sci. Eng. A, A269(1-2), pp38-48, 1999. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Choi, S. H., Song, B.G., Kang, K.J. and Fleck, N.A. Fracture of a ductile layer constrained by stiff substrates, Fatigue and Fracture of Engineering Materials and Structures, 23, 1-13, 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Olurin, O.B., Fleck, N. A. and Ashby, M.F. Joining of aluminium foams with fasteners and adhesives, J. Mat. Sci., 35, pp1079-1085, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sridhar I., Fleck, N.A. and Akisanya, A. R. (2001). Cold compaction of an array of cylindrical powder particles. Int. J. Mech. Sci., 43(3), pp. 715-742. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Harte, A-M, Fleck, N.A. and Ashby, M.F. Energy absorption of foam-filled circular tubes with braided composite walls, European Journal of Mechanics, 19, pp.31-50, 2000.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Harte, A-M and Fleck, N.A. Deformation and failure mechanisms of braided composites in compression and torsion, Acta Materialia, 48(6), pp1259-1271, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Harte A-M and Fleck NA (1999). On the Mechanics of Braided Composites in Tension, European Journal of Mechanics, 19(2), pp259-276, 1999.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. McCullough, K.Y.G., Fleck, N.A. and Ashby, M.F. The stress-life behaviour of aluminium alloy foams, Fatigue and Fracture of Engng. Mats. and Structures, 23, pp199-208, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Zhao LG. Microbuckle Tunnelling in Fibre Composites, J. Mech. Phys. Solids, 48(9), pp1865-1891, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Chen C, Fleck NA and Lu TJ (2001). The mode I crack growth resistance of metallic foams, J. Mech. Phys. Solids, 49, pp.239-259. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Olurin OB, Fleck NA and Ashby MF. Deformation and Fracture of Aluminium Foams, Materials Science and Engineering A, A291(1-2), pp136-146, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sridhar I. and Fleck, N.A. Yield behaviour of cold compacted composite powders, Acta Materialia, 48, pp3341-3352, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A. Adiabatic shear instability: theory. Chapter 4 in Mechanical Properties and Testing of Polymers, ed. G. M. Swallowe, Kluwer Academic Publ., pp15-19, 1999. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A. and Liu, D. Microbuckle initiation from a patch of fibre waviness in a fibre composite under compression and bending. Eur. J. Mechanics/A Solids, 20(1), pp. 23-38, 2000.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Huber, J. E. and Fleck, N.A. (2001). Multi-axial electrical switching of a ferroelectric: theory versus experiment, J. Mech. Phys. Solids, 49, pp.785-811. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shu, J.Y., Fleck, N.A., Van der Giessen, E. and Needleman, A. Boundary Layers in Constrained Plastic Flow: Comparison of Nonlocal and Discrete Dislocation Plasticity, J. Mech. Phys. Solids, 49, pp. 1361-1395, 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Harte, A-M, Fleck, N.A. and Ashby, M.F. Sandwich panel design using aluminium alloy foam, Adv. Engineering Materials, 2(4), pp1-4, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Chen, C., Harte, A-M and Fleck, N.A. The plastic collapse of sandwich beams with a metallic foam core, Int. J. Mech. Sciences, 43(6), pp. 1483-1506, 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Olurin, O.B., Fleck, N. A. and Ashby, M.F. Indentation resistance of an aluminium foam, Scripta Materialia, 43(11), pp983-989, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Harte, A.-M., Fleck, N.A. and Ashby, M.F. The fatigue strength of sandwich beams with an aluminium alloy foam core Int. J. Fatigue, 23(6), pp. 499-507, 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A., Olurin, O.B., Chen, C. and Ashby, M.F. The effect of hole size upon the strength of metallic and polymeric foams, J. Mech. Phys. Solids, 49, pp2015-2030, 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Evans, A.G., Hutchinson, J.W., Fleck, N.A., Ashby, M.F. and Wadley, H.N.G. The topological design of multifunctional cellular metals, Progress in Materials Science, 46, pp. 309-327, 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shieh, J., Huber, J.E., Fleck, N.A. and Ashby, M.F. The selection of sensors, Progress in Materials Science, 46(3-4), pp. 461-504, 2001. Also in Cambridge University Engineering Department Technical Report, CUED/C-Micromech/TR36. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Deshpande, V.S. and Fleck, N.A. Multi-axial yield behaviour of polymer foams, Acta Materialia, 49(10), pp. 1859-1866, 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Deshpande, V.S., Fleck, N.A. and Ashby, M.F. Effective properties of the octet-truss lattice material, J. Mech. Phys. Solids, 49, pp. 1747-1769, 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Olurin, O.B., McCullough, K.M.C., Fleck, N. A. and Ashby, M.F. Fatigue crack propagation in aluminium alloy foams. Int. J. Fatigue, 23(5), pp.375-382, 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Deshpande, V.S., Ashby, M.F. and Fleck, N.A. Foam topology: bending versus stretching dominated architectures. Acta Materialia, 49(6), pp.1035-1040, 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Olurin, O.B., Fleck, N. A. and Ashby, M.F. Joining of metal foams with fasteners, Adv. Engineering Mats., 2(8), pp521-525, 2000. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A. and Sridhar, I. End compression of sandwich beams. Composites A: Applied Science and Manufacturing, 33(3), pp.353-359, 2002. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Schmidt, I. and Fleck, N.A. Ductile fracture of two-dimensional foams. Int. J. Fracture, 111(4), 327-342 2001. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A. and Hutchinson, J. W. (2001). An assessment of a class of strain gradient plasticity theories. J. Mech. Phys. Solids, 49(10), 2245-2272.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Peerlings, R.H.J. and Fleck, N.A. (2001). Numerical analysis of strain gradient effects in periodic media. Journal de Physique IV, 11, Pr5, 154-160. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bart-Smith, H., Hutchinson, J.W., Fleck, N.A. and Evans, A.G.. Influence of imperfections on the performance of metal foam core sandwich panels. Int. J. Solids & Structures, 39(19), pp.4999-5012, 2002. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A. (2001). Multi-axial strength of metallic foams and lattice materials. Journal of the JSMS, Materials Science for the 21st century, Vol. A, May 2001, 336-340. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Redanz, P. and Fleck, N.A. (2001). The compaction of a random distribution of metallic cylinders by the discrete element method. Acta Materialia, 49(20), pp./4325-4335. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Chen, C. and Fleck, N.A. (2002). Size effects in the constrained deformation of metallic foams. JMPS 50(5), pp.955-977 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A., Ashby, M.F. and Hutchinson, J.W. (2003). The role of geometrically necessary dislocations in giving material strengthening. Scripta Mat., 48(2), pp.179-183. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Deshpande, V.S. and Fleck, N.A. (2003). Energy absorption of an egg-box material. JMPS, 51(1), pp.187-208. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zupan, M., Ashby, M.F. and Fleck, N.A. (2002). Actuator classification and selection - the development of a database. Journal of Advanced Engineering Materials, 4(12), 933-940.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Davy, C.A., Fleck, N.A. and Bolton, M.D. (2004). The collapse behaviour of a sugar aggregate. Acta Materialia., 52, pp. 3587–3601. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Suiker, A.S.J. and Fleck, N.A. (2004). Frictional collapse of granular assemblies. J. Applied Mechanics, 71, 350-358.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Hutchinson, R.G., Wicks, N., Evans, A.G., Fleck, N.A. and Hutchinson, J. W. (2003). Kagome Plate Structures for Actuation. Int. J. Solids and Structures, 40 pp. 6969–6980. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zupan, M., Chen, C. and Fleck, N.A. (2003). The plastic collapse and energy absorption of egg-box panels. Int. J. Mechanical Sciences, 45, pp. 851–871. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Chen, C., Fleck, N. A. and Ashby, M.F. (2003). Creep response of sandwich beams with a metallic foam core. Advanced Engineering Materials, 4, pp. 777-780.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Steeves C and Fleck NA (2004). Collapse mechanisms of sandwich beams with composite face sheets and a foam core, loaded in three-point bending. Part I: analytical models and minimum weight design. Int. J. Mech. Sci., 46 561–583. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Liu, D., Fleck, N.A. and Sutcliffe, M.P.F. (2004). Compressive strength of composites with random fibre waviness. J. Mech. Phys. Solids, 52, pp. 1481 – 1505. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Suiker, A.S.J. and Fleck, N.A. (2004). Crack tunnelling and plane-strain delamination in layered solids. Int. J. Fracture, 125, 1-32. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Steeves, C. and Fleck, N.A. (2004). Collapse mechanisms of sandwich beams with composite face sheets and a foam core, loaded in three-point bending. Part II: experimental investigation and numerical modelling. Int. J. Mechanical Sciences, 46(4), 585-608. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Cartie D D and N A Fleck (2003). The effect of pin reinforcement upon the through-thickness compressive strength of foam-cored sandwich panels, Composites Science and Technology, 63 2401–2409. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Chen, X, He, M Y, Spitsberg, I, Fleck, N A, Hutchinson J W and Evans, A W (2004). Mechanisms governing the high temperature erosion of thermal barrier coatings. Wear, 256, 735–746. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Wadley, H N G, Fleck, N A and Evans, A G (2003). Fabrication and structural performance of periodic metal sandwich structures, Composites Science and Technology, 63 2331–2343. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A and Deshpande, V S (2004). The resistance of clamped sandwich beams to shock loading, ASME J. Applied Mechanics, 71, 386-401. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Willis JR (2003). Bounds and estimates for the effect of strain gradients upon the effective plastic properties of an isotropic two phase composite. J. Mech. Phys. Solids, 52, 1855-1888. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Qiu X, Deshpande VS and Fleck NA (2003). Finite element analysis of the dynamic response of clamped sandwich beams. Eur. J. Mechanics-A/Solids, 22 pp. 801–814. (Download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shieh J, Huber JE and Fleck NA (2003). An evaluation of switching criteria for ferroelectrics under stress and electric field. Acta Materialia, 51, pp. 6123–6137. (Download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Huber, J.E. and Fleck, N.A. (2004). Ferroelectric switching - a micromechanics model versus measure behaviour. Eur. J. Mechanics-A/Solids, 23, pp. 203–217. (Download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Côte F, Deshpande VS, Fleck NA and Evans AG (2004). The out-of-plane compressive behavior of metallic honeycombs, J. Mat. Sci. and Engineering A, 380 272–280. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Quinn DJ, Spearing SM, Ashby MF and Fleck NA (2006). A Systematic Approach to Process Selection in MEMS, J. Mems., 15 (5), (1039-1050.. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sridhar I and Fleck NA (2003). The multiaxial yield behaviour of an aluminium alloy foam.J. Mat. Sci., 40, 4005-4008.. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zupan M, Deshpande VS and Fleck NA (2004). The out-of-plane compressive behaviour of woven-core sandwich plates. Eur. J. Mechanics-A/Solids, 23, pp. 411–421. (Download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Qiu X, Deshpande VS and Fleck NA (2004). Dynamic response of a clamped circular plate subject to shock loading. J. Applied Mechanics, 71(5), 637-645. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Steeves C and Fleck NA (2004). Material selection in hybrid sandwich beams. Scripta Materialia, 50(10), 1335-1339. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bell, D J, Lu, T J, Fleck N A and Spearing, S M. (2005). The Selection of MEMS Actuators and Sensors, J. Micromech. Microeng., 15, S153–S164. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Radford DD, Deshpande VS and Fleck NA. (2004). The use of metal foam projectiles to simulate impulse loading on a structure. J. Impact Engineering, 31, 1152-1171. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Akisanya AR, and Fleck NA (2004). Plastic collapse of thin-walled frusta and egg-box material under shear loading. Int. J. Mech. Sci.,48, pp. 799-808. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shergold OA and Fleck NA (2004). Mechanisms of deep penetration of soft solids, with application to the injection and wounding of skin Proc. R. Soc. Lond. A 460, 3037–3058. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zhu HX, Fleck NA, Cocks ACF and Evans AG (2005). Numerical Simulations of Crack Formation from Pegs in Thermal Barrier Systems with NiCoCrAlY bond coats. Materials Science and Engineering, A404, 26-32. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Radford DD, Deshpande VS and Fleck NA. (2004). The response of clamped sandwich beams subjected to shock loading. J. Impact Engineering 32, 968-987. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Luo, J. K, Pritschow, M., Flewitt, A.J., Spearing, S.M., Fleck, N.A. and Milne, W.I. (2004). Effects of plating process on properties of electroplated Ni-thin films for microsystem applications. Journal of the Electromechemical Society 153, D155-161. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Symons, D.D, Hutchinson J.W. and Fleck, N. A. (2005). Actuation of the Kagome Double-Layer Grid. Part 1: Prediction of performance of the perfect structure J. Mech. Phys. Solids, 53, 1855–1874. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Peerlings, R.H.J and Fleck, N.A. (2005). Computational evaluation of strain gradient constants. International Journal for Multiscale Computational Engineering, 2(4), pp.599-619. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Engelen, R.A.B, Fleck, N.A., Peerlings, R.H.J and Geers, M.G.D. (2004). An evaluation of higher-order plasticity theories for predicting size effects and localisation. Int. J. Solids Structures 43,1857-1877. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Steeves, C.A and Fleck, N.A. (2005). Compressive behaviour of composite laminates with terminated internal plies. Composites Part A: applied science and manufacturing, 36, pp.798-805. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tagarielli, V.L. and N.A. Fleck, N.A. (2005). A comparison of the structural response of clamped and simply supported sandwich beams with aluminium faces and a metal foam core. J. Applied Mechanics, 72(3), 408-417. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. A. G. Evans, N. A. Fleck, S. Faulhaber, N. Vermaaka M. Maloney, R. Darolia (2004). Scaling laws governing the erosion and impact resistance of thermal barrier coatings. Wear, 260, 886-894.. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shergold, O A and Fleck, N A (2005). Experimental investigation into the deep penetration of soft solids by sharp and blunt punches, with application to the piercing of skin. J. Biomechanical Engineering 127,October 2005, 838-848. (download paper).
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shergold, O. A., Fleck, N.A. and Radford, D. (2005). The uniaxial stress versus strain response of pig skin and silicone rubber at low and high strain rates. Int. J. Impact Engng, 32, 1384-1402. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shieh, J., Huber, J.E. and Fleck, N. A. (2004). Fatigue crack growth in ferroelectrics under electrical loading. J. European Ceramic Socciety26, 95-109. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Hutchinson, R.G. and Fleck, N. A. (2005). Microarchitectures cellular solids - the hunt for statically determinate periodic trusses. ZAMM, 85(9), 607-617. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Luo, J. K, Flewitt, A.J., Spearing, S.M., Fleck, N.A. and Milne, W.I. (2004). Young's modulus of electroplated Ni thin films for MEMS application. Materials Letters, 58, 2306-2309. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Rathbun, H.J, Radford, D.D, Xue, Z., He, M.Y., Yang, J., Deshpande, V.S., Fleck, N.A., Hutchinson, J.W., Zok, F.W. and Evans, A.G. (2004). A dynamic probe for validating simulations of shock loaded metallic sandwich panels. Int. J. Solids and Structures 43, 1746-1763. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Luo JK, Flewitt AJ, Spearing SM, Fleck NA and Milne WI (2004). Normally closed microgrippers using a highly stressed diamond like carbon and Ni bimorph structure. Appl. Phys. Lett. 85(23), pp. 5748 -5750. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Luo JK, Flewitt AJ, Spearing SM, Fleck NA and Milne WI (2004). Uniformity control of Ni thin film microstructure deposited by through-mask plating. J. Electrochem. Society, 152(1), C36-C41 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Luo, J.K., He, J.H., Flewitt, A.J., Moore, D.F., Fleck, N.A. and Milne, W.I. (2004). Development of All Metal Electro-Thermal Actuator and its Applications.J. Microlithography, Microfabrication and Microsystem 42(2).(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Deshpande, V.S. and Fleck, N. A. (2004). One-dimensional shock response of sandwich plates. J. Mech. Phys. Solids 53, 2347-2383. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Pedersen CBW, Deshpande VS and Fleck NA (2004). Compressive behaviour of the Y-shaped sandwich core. European J. Mechanics, A, 25, 125-141.. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tagarielli VL, Deshpande VS, Fleck NA and Chen C (2005). A constitutive model for transversely isotropic foams: application to the indentation of balsa wood. Int. J. Mech. Sci., 47, pp. 666-686. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Symons DD, Shieh J and Fleck NA (2005). Actuation of the Kagome double layer grid. Part 2: Effect of imperfections on measured and predicted actuation stiffness. J. Mech. Phys. Solids, 53, 1875-1891. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tagarielli VL, Fleck NA and Deshpande VS (2004). The collapse response of sandwich beams with aluminium face sheets and a metal foam core. Adv. Eng. Mater., 6, 440-443. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Steeves CA and Fleck NA (2005). In-plane Properties of composite laminates with through-thickness pin reinforcement. Int. J. Solids and Structures, 43, 2397-3212. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Radford DD, McShane GJ, Deshpande VS and Fleck NA (2005). The response of clamped sandwich plates with metallic foam cores to simulated blast loading. Int. J. Solids and Structures 43, 2243-2259.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Pedersen CBW, Fleck NA and Ananthasuresh GK (2005). Design of a compliant mechanism to convert an actuator characteristic to a constant output force. ASME Journal of Mechanical Design,128,1101-1112 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Suiker SJ and Fleck NA (2005). Modelling of fatigue crack tunnelling and delamination in layered composites. Composites Part A: applied science and manufacturing, A37,1722-1733. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shergold OA, Fleck NA and King T. (2005). The penetration of a soft solid by a liquid jet, with application to the administration of a needle-free injection. J. Biomechanics, 39,2593-2602. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Qiu X, Deshpande VS and Fleck NA (2005). Impulsive loading of clamped monolithic and sandwich beams over a central patch. J. Mech. Phys. Solids, 53, 1015-1046.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Hutchinson RG, Fleck NA and Cocks ACF (2005). A sintering model for thermal barrier coatings. Acta Materialia 54,1297-1306. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. McShane GJ, Radford DD, Deshpande VS and Fleck NA (2005). The response of clamped sandwich plates with lattice cores subjected to shock loading. Eur. J. Mechanics, A/Solids 25, 215-229. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Borg U, Niordson CF, Fleck NA and Tvergaard V (2005). A viscoplastic strain gradient analysis of materials with voids or inclusions. Submitted to Int. J. Solids and Structures 43(16), 4906-4916. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Hutchinson RG and Fleck NA (2005). The structural performance of the Kagome lattice. J. Mech. Phys. Solids 54(4), 756-782. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Luo JK, Flewitt AJ, Spearing SM, Fleck NA and Milne WI (2004). Three types of planar structure microspring electro-thermal actuators with insulating beam constraints. Journal of Micromechanics and Microengineering, 15, 1527-1535.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Côté F, Deshpande VS, Fleck NA and Evans AG (2005). The compressive and shear responses of corrugated and diamond lattice materials. Int. J. Solids Structures 43, 6220-6242. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Luo JK, Flewitt AJ, Spearing SM, Fleck NA and Milne WI (2005). Comparison of microtweezers based on three lateral thermal actuator configurations. Journal of Micromechanics and Microengineering, 15, 1294-1302.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Luo JK, He JH, Fu YQ, Flewitt AJ, Spearing SM, Fleck NA and Milne WI (2005). Fabrication and characterization of diamond-like carbon/Ni bimorph normally closed microcages. Journal of Micromechanics and Microengineering, 15, 1406-1413.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tagarielli VL, Deshpande VS and Fleck NA (2007). The dynamic response of composite sandwich beams to transverse impact. International Journal of Solids and Structures , 44, 2442-2457.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. McShane GJ, Deshpande VS and Fleck NA (2007). The Underwater Blast Resistance of Metallic Sandwich Beams with Prismatic Lattice Cores. Transactions of the ASME, 74, 352-364.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Srikantha Phani A, Woodhouse J and Fleck NA (2006). Wave propagation in two-dimensional periodic lattices. J. Acoust. Soc. Am., 119, 1995-2005.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Radford DD, McShane GJ, Deshpande VS and Fleck NA (2007). Dynamic Compressive Response of Stainless-Steel Square Honeycombs. Transactions of the ASME, 74, 658-667.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Cote F, Fleck NA and Desphande VS (2007). Fatigue performance of sandwich beams with a pyramidal core. International Journal of Fatigue, 29, 1402-1412.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Athanasios Zisis and Fleck NA (2007). Mechanisms of elastodynamic erosion of electro-beam thermal barrier coatings. International Journal of Mat Res, 98, 1196-1202.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Cote F, Deshpande VS and Fleck NA (2006). The Shear Response of Metallic Square Honeycombs. Journal of Mechanics of Materials and Structures, 1, 1281-1299.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Qiu X (2007). The damage tolerance of elasticbrittle, two-dimensional isotropic lattices. Journal of the Mechanics and Physics of Solids, 55, 562-588.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Borg U and Fleck NA (2007). Strain gradient effects in surface roughening. Modelling and Simulation in Materials Science and Engineering, 15, S1-S12.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tilbrook MT, Deshpande VS and Fleck NA (2006). The impulsive response of sandwich beams: Analytical and numerical investigation of regimes of behaviour. Journal of the Mechanics and Physics of Solids, 54, 2242-2280.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Symons DD and and Fleck NA (2008). The Imperfection Sensitivity of Isotropic Two-Dimensional Elastic Lattices. Journal of Applied Mechanics, 75(5) 051011,1-8.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Srikantha Phani A, Mai SP, Fleck NA and Woodhouse J (2006). A prismatic-core design for a milling machine component. ASME Journal of manufacturing science and engineering. 44(14-15), 4742-4769. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Quintana Alonso I and Fleck NA (2007). Damage tolerance of an elastic-brittle diamond-celled honeycomb. Scripta Materialia, 56, 693-696.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Rubino V, Deshpande VS and Fleck NA (2008). The collapse response of sandwich beams with a Y-frame core subjected to distributed and local loading. International Journal of Mechanical Sciences, 50, 233-246.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Mai SP, Fleck NA and Lu TJ (2007). Optimal design of box-section sandwich beams in three-point bending. International Journal of Solids and Structures, 44, 4742-4769.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. McMeeking RM, Spuskanyuk AV, He MY, Deshpande VS, Fleck NA, Evans AG (2008). An analytic model for the response to water blast of unsupported metallic sandwich panels. International Journal of Solids and Structures, 45, 478-496.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Romijn NER and Fleck NA (2007). The fracture toughness of planar lattices: Imperfection sensitivity. J.Mech.Physics Solids, 55(12), 2538-2564.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Rubino V, Deshpande VS and Fleck NA (2008). The dynamic response of end-clamped sandwich beams with a Y-frame or corrugated core. International Journal of Impact Engineering, 35(8), 829-844.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Quintana Alonso I and Fleck NA (2009). The Damage Tolerance of a Sandwich Panel Containing a Cracked Honeycomb Core. Journal of Applied Mechanics, 76.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Srikantha Phani A and Fleck NA (2008). Elastic Boundary Layers in Two-Dimensional Isotropic Lattices. Journal of Applied Mechanics, 75.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Pane I, Fleck NA, Huber JE and Chu DP (2008). Effect of geometry upon the performance of a thin film ferroelectric capacitor. International Journal of Solids and Structures, 45, 2024-2041.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. McShane GJ, Stewart C, Aronson MT, Wadley HNG, Fleck NA and Deshpande VS (2008). Dynamic rupture of polymermetal bilayer plates. International Journal of Solids and Structures, 45, 4407-4426.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Cote F, Russell BP, Deshpande VS and Fleck NA (2009). The Through-Thickness Compressive Strength of a Composite Sandwich Panel With a Hierarchical Square Honeycomb Sandwich core. J. Applied Mechanics, November 2009, 06100476, 1-8..(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Rubino V, Deshpande VS and Fleck NA (2008). The dynamic response of clamped rectangular Y-frame and corrugated core sandwich plates. European Journal of Mechanics A/Solids, 28, 14-24.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Pane I, Fleck NA, Chu DP and Huber JE (2008). Predicted Performance of Ferroelectric Memory Capacitors under Mechanical Constraint. Ferroelectrics, 370, 219-225.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Mai SP and Fleck NA (2009). Reticulated tubes: effective elastic properties and actuation response.Proceedings of the Royal Society A, 465, 685-708.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Willis JR (2009). A mathematical basis for strain-gradient plasticity theory  Part I:Scalar plastic multiplier. Journal of the Mechanics and Physics of Solids, 57, 161-177.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Cocks ACF (2009). A multi-scale constitutive model for the sintering of an air-plasma-sprayed thermal barrier coating, and its response under hot isostatic pressing. J.Mech.Phys.Solids, 57, 689-705.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Quintana Alonso I and Fleck NA (2010). The damage tolerance of a sandwich panel containing a cracked square lattice core. J Sandwich Structures and Materials,, 12, 139-158.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tagarielli VL, Deshpande VS, Fleck NA (Oct 2008). Prediction of the dynamic response of composite sandwich beams under shock loading. Submitted to International Journal of Impact Engineering.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Kazemahvazi S, Radford D, Deshpande VS and Fleck NA (2007). Dynamic Failure of Clamped Circular Plates Subjected to an Underwater Shock. Journal of Mechanics and Materials Structures, 2.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA and Willis JR (2008). A mathematical basis for strain-gradient plasticity theory. Part II:Tensorial plastic multiplier. Journal of the Mechanics and Physics of Solids, 57, 1045-1057.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Liu QD, Fleck NA, Huber JE and Chu DP (2009). Birefringence measurements of creep near an electrode tip in transparent PLZT. Journal of the European Ceramic Society, 29, 2289-2296.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Pane I, Fleck NA, Chu DP and Huber JE (2009). The influence of mechanical constraint upon the switching of a ferroelectric memory capacitor. European Journal of Mechanics A/Solids, 28, 195-201.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Idiart MI, Deshpande VS, Fleck NA and Willis JR (2009). Size effects in the bending of thin foils. Int. J. of Eng. Sci.,47, 1251-1264. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Comley K and Fleck NA (2009). Deep penetration and liquid injection into adipose tissue. J. Mech. Mater. Struct., 6 (1), (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Xu J, Lu TJ, Hodson HP and Fleck NA (2010). Analysis of thermal dispersion in an array of parallel paltes. International Journal of HEat and Fluid Flow, 31, 57-69.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Danas K, Deshpande VS and Fleck NA (2010). Compliant interfaces: a mechanism for the relaxation of dislocation pile-ups in a sheared single crystal. Int.J.Plasticity, 26, 1792-1805.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tilbrook TM, Deshpande VS and Fleck NA (2009). Underwater blast loading of sandwich beams:regimes of behaviour. Int. J. Solids Structures, 46, 3209-3221.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zhu H, Chu DP, Fleck NA, Rowley SE and Saxena SS (2009). Polarization change in ferroelectric thin film capacitors under external stress. Journal of Applied Physics, 105.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Quintana Alonso I and Fleck NA (2009). Compressive response of a sandwich plate containing a cracked diamond-celled lattice. Journal of the Mechanics and Physics of Solids. 57, 1545-1567. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Quintana Alonso I and Fleck NA (2010). Fracture of brittle lattices - a review. An anthology of ONR sponsored research, Springer, ed. EE Gdoutos. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Quintana Alonso I, Mai SP, Fleck NA, Oakes DCH, Twigg MV (2010). Fracture toughness measurements of a cordierite lattice. Acta Materialia, 58, 201-207. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. McShane GJ, Deshpande VS and Fleck NA (2010). Underwater blast response of free-standing sandwich plates with metallic lattice cores. Int. J. Impact Engineering, 37(11), 1138-1149. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Nachum S, Fleck NA, Ashby MF, Colella A and Matteazzi P (2010). The microstructural basis for the mechanical properties and electrical resistivity of nano crystalline Cu-Al2O3. J. Mat. Sci. and Eng. A, A527, 5065-5071. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tilbrook MT, Radford DD, Deshpande VS, Fleck NA (2007). Dynamic crushing of sandwich panels with prismatic lattice cores. International Journal of Solids and Structures, 44, 6101-6123.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Cote F, Deshpande VS and Fleck NA (2007). Shear fatigue strength of a prismatic diamond sandwich core. Scripta Materialia, 56, 585-588.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tagarielli VL, Fleck, NA, Colella A and Matteazzi P (2010). Mechanical properties and deformation mechanisms of nanocrystalline Fe/Cu 60/40 composites. J.Mat.Sci., 46, 385-393.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Rubino V, Deshpande VS and Fleck NA (2010). The three-point bending of Y-frame and corrugated core sandwich beams. Int.J.Mech.Sci., 52, 485-494.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Comley K and Fleck NA (2010). A micromechanical model for the Young's modulus of adipose tissue. Int.J.Solids and Structures, 47, 2982-2990.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Russell BP, Liu T, Fleck NA and Deshpande VS (2011). Quasi-static three-point bending of carbon fibre sandwich beams with squar honeycomb cores. ASME J.Applied Mechanics, 78(3), 031008.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Cocks ACF and Fleck NA (2010). Constrained sintering of an air-plasma sprayed thermal barrier coating. Acta Materialia, 58, 4233-4244.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bizard ZF, Symons DD, Fleck NA and Duban D (2011). Flow of damp powder in a rotating impervious cone. J. Applied Mechanics, 78(2), 021017-1 to 021017-10. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tagarielli VL and FLeck NA (2011). The shear response of a thin aluminium layer. J. Applied Mechanics, 78, 14505-1 to 14505-3.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Pingle SM, Fleck NA, Deshpande VS and Wadley HNG (2010). Collapse mechanism maps for a hollow pyramidal lattice. Proc. Roy. Soc. A (London), DOI 10.1098/rspa.2010.0329. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Russell BP, Liu T, Fleck NA and Deshpande VS (2012). The soft impact of composite sandwich beams with a square-honeycomb core. Int. J. Impact Engineering, 48, 65-81. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Comley K and Fleck NA (2010). The toughness of adipose tissue: measurements and physical basis. J. Biomechanics, 43, 1823-1826. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Comley K and Fleck NA (2012). The compressive response of porcine adipose tissue from low to high strain rate. Int. J. Impact Engineering, 46, 1-10. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. St-Pierre L, Fleck NA and Deshpande VS (2012). Sandwich beams with corrugated and Y-frame cores: does the back face contribute to the bending response? J. Applied Mech., January 2012, 79, 011002-1 to 011002-13. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Danas K, Deshpande VS and Fleck NA (2012). Predictions of size effects in the indentation of an elasto-plastic solid. J. Mechanics and Physics of Solids, 60, 1605-1625. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Pingle SM, Fleck NA, Deshpande VS and Wadley HNG (2011). Collapse mechanism maps of a hollow pyramidal lattice under shear loading. Int. J. Solids and Structs., 48, 3417-3430. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Wang M, Fleck NA and Evans AG (2011). Elastodynamic erosion of thermal barrier coatings. J. Amer. Ceram. Soc., 94, S160-S167. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Pingle SM, Fleck NA, Wadley HNG and Deshpande VS (2012). Discrete element calculations of the impact of a sand column against rigid structures.Int. J. Impact Engng., 45, 74-89. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. McShane GJ, Pingle SM, Deshpande VS and Fleck NA (2011). Dynamic buckling of an inclined strut. Int. J. Solids Structs. 49(19-20), 2830-2838. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bizard A, Symons DD, Fleck NA and Grimwood C (2012). Design guidelines for a conical centrifugal filter. Chem. Eng. Res. and Design. 91, 348-360 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Liu T, Fleck NA, Deshpande VS and Wadley HNG (2012). The impact of sand slugs against beams and plates: coupled discrete particle/finite element simulations. J. Mech. Phys. Solids. 61(8), 1798-1821 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Russell BP, Kandan K, Deshpande VS and Fleck NA (2013). The high strain rate response of UHMwPE: from fibre to laminate, to appear in Int. J. Impact Engng. 60, 1-9 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Karthikeyan K, Russell BP, Deshpande VS and Fleck NA (2012). Multi-hit armour characterisation of metal-composite bi-layers. J. Mechanics of Materials and Structures. 7(7), 721-734. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Park S, Uth T, Fleck NA, Wadley HNG and Deshpande VS (2012). Sand column impact onto a Kolsky pressure bar. Int. J. Impact Engng. 62 229-242. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Cocks A, Fleck NA, Lampenscherf S (2012). A brick model for asperity sintering and creep of APS TBCs. J. Mech. Phys. Solids 63, 412-431. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Karthikeyan K, Russell BP, Fleck NA, O'Masta M, Wadley HNG and Deshpande VS (2013). The soft impact response of composite laminate beams, submitted to Int. J. Impact Engng. 60, 24-36. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Karthikeyan K, Russell BP, Fleck NA, Wadley HNG and Deshpande VS (2013). The effect of shear strength on the ballistic response of laminated composite plates. Eur. J. Mechanics-Solids/A. 42 pp 35-53 DOI: 10/1016/j.euromechsol.2013.04.0002. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Liu G, Thouless MD, Deshpande VS and Fleck NA (2014). Collapse mechanisms of a UHMWPE laminated beam, to appear in J. Mech. Phys. Solids, 63, 320-335. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. St-Pierre L, Deshpande VS and Fleck NA (2013). The low velocity impact response of sandwich beams with a corrugated core or a Y-frame core. Int. J. Mech. Sci. 91, pp71-80 DOI: 10.1016/j.ijmecsci.2014.02.014 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Khaderi SN, Deshpande VS and Fleck NA (2014). The stiffness and strength of the gyroid lattice. Int. J. Solids and Structures. 51, pp 3866-3877 DOI: 10.1016/j.ijsolstr.2014.06.024 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. McShane GJ, Deshpande VS and Fleck NA (2013). A laboratory-scale buried charge simulator. Int. J. Impact Engng. 62, 210-218.(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Ayas C, Deshpande VS and Fleck NA (2014). A fracture criterion for the notch strength of high strength steels in the presence of Hydrogren. J. Mech Phys. Solids, 63, 80-93(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Ayas C, Deshpande VS and Fleck NA (2013). Hydrogen embrittlement of a bimaterial. submitted to Mechanics of Materials. 80 pp 193-202 DOI: 10.1016/j.mechmat.2014.06.002(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. St-Pierre L, Fleck NA and Deshpande VS (2014). The predicted compressive strength of a pyramidal lattice made from case hardened steel tubes. International Journal of Solids and Structures, 51, 41-52(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Cocks ACF and Lampenscherf S (2014). Thermal shock resistance of air plasma sprayed thermal barrier coatings. J. of the European Ceramic Society./http://dx.doi.org/10.1016/j.jeurceramsoc.2014.01.002 34 pp 2687-2694 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Attwood J, Khaderi S, Karthikeyan K, Fleck NA, O'Masta M, Wadley H, Deshpande VS (2014). The out-of-plane compressive response of Dyneema composites. J. Mech. Phys. Solids, 70, 200-226 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bauer CT, Kroner E, Fleck NA, Arzt E (2015). Hierarchical macroscopic fibrillar adhesives: In-situ study of buckling and adhesion mechanisms on wavy substrates. Bioinspiration & Biomimetics, 10, 066002. pp 1-17. doi.10.10088/1748-3190/10/6/066002. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Hutchinson HW, Willis JR (2014). Guidelines for constructing strain gradient plasticity theories. J.Applied Mechanics , JAM-14-1595 doi: 10.1115/1.4030323. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tan JLY, Deshpande VS, Fleck NA (2015). Failure mechanisms of a notched CFRP laminate under multi-axial loading. Composites Part A: Applied Science and Manufacturing, 77, 56-66. DOI: 10.1098/rsta.2015.0273 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tan JLY, Deshpande VS, Fleck NA (2016). Prediction of strength and damage evolution in notched CFRP laminates under multi-axial loading. Phil.Tans.R.Soc.A, 20150273. http://dx.doi.org/10.1098/rsta.2015.0273 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tankasala H, Deshpande VS, Fleck NA (2015). Crack-tip fields and toughness of two-dimensional elasto-plastic lattices. J.Applied Mechanics , 82 (9), 091004,1-10. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Attwood JP, Fleck NA, Wadley HNG, Deshpande VS (2015). The compressive response of ultra-high molecular weight polyethylene fibres and composites. Int.J.Solids and Structs. 71, 141-155. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Balijepalli RG, Begley MR, Fleck NA, McMeeking RM, Arzt E (2016). Numerical simulation of the edge stress singularity and adhesion strength for compliant mushroom fibril attached to a ridid sustrate. Int.J.Solids and Structs , 85-86, 160-171. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Willis JR (2015). Strain gradient plasticity: energetic or dissipative? Acta Mechanica Sinica , 31(4), 465-472. DOI 10.1007/s10409-015-0468-8. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Khaderi SN, Fleck NA, Arzt E, McMeeking RM (2015). Detachment of an adhered micropillar from a dissimilar substrate. J.Mech.Phys.Solids, 75, 159-183. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, Willis JR (2016). The effective non-linear properties of a composite coating and a composite sandwich layer. Eur.J.Mechanics A, 59, 14-23. DOI: 10/1016/j.euromechsol.2016.02.006. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Ronan W, Deshpande VS, Fleck NA (2016). The tensile ductility of cellular solids: the role of imperfections. Int.J.Solids and Structs. 102-103, pp. 200-213. DOI: 10.1016/j.ijsolstr.2016.10.004(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck NA, McMeeking RM, Kraus T (2015). Convective assembly of a particle monolayer. Langmuir , 31 , 13655-13663. DOI: 10.1021/acs.langmuir.5b03635. Langmuir, 31, pp. 13655-13663 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A., Khaderi, S.N., Arzt, E. and McMeeking, R.M. (2016). Cohesive detachment of an elastic pillar from a dissimilar substrate . J. Mech. and Phys. Solids, 101,30-43. DOI:10.1016/j.jmps.2017.01.001 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Guha, S. Deshpande, V.S. and Fleck, N.A. (2017). Flaw sensitivity in rate-sensitive high strength alloys: an assessment and future research directions . Extreme Mech. Letters , 10,7077. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Khaderi, S.N., Hall, C.E., Steiner, U., Ramamurty, U., Fleck, N.A. and Deshpande, V.S. (2016). The indentation response of Nickel nano double gyroid lattices . Extreme Mech. Letters , 10,15-23. DOI:10.1016/j.eml.2016.08.006 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Raina, A., Deshpande, V.S and Fleck, N.A. (2017). Analysis of electro-permeation of hydrogen in metallic alloys . Phil Trans. Roy. Soc., A. A 375: 20160409. DOI: 10.1098/rsta.2016.0409 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tankasala, H.C. , Deshpande, V.S. and Fleck, N. A. (2017). Tensile response of elastoplastic lattices at finite strain . J. Mech. Phys. Solids , 109,307-330. DOI:10.1016/j.jmps.2017.02.002 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Yu, B., Karthikeyan, K., Deshpande, V.S. and Fleck, N.A. (2017). Perforation Resistance of CFRP Beams to Quasi-static and Ballistic Loading: The Role of Matrix Strength . Int. J. Impact Engin , 108,389-401. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bacca, M., Fleck, N.A and McMeeking, R.M. (2017). A swell toughening strategy for elastomers having surface cracks . Extreme Mech. Letters , 10, 3240. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tankasala, H.C., Deshpande, V.S and Fleck, N.A. (2017). Crack kinking at the tip of a mode I crack in an orthotropic solids . Int. J. Fracture , 207, 181-191. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tan, J.L.Y, Deshpande, V.S. and Fleck, N.A. (2017). The effect of laminate lay-up on the multi-axial notched strength of CFRP panels: Simulation versus experiment . European Journal of Mechanics - A/Solids , 66, 309-321. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Maloney, K, and Fleck, N.A. (2018). Damage Tolerance of an architectured adhesive joint . Int. J. Solids and Struct , 132-133, 9-19. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Martmnez Paqeda, E. and Fleck, N.A. (2018). Crack growth resistance curves in metallic alloys: the role of isotropic versus kinematic hardening . J. Appl. Mech. , 85 (11) , 111002 (6 pages). (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Jessl, S., Beesley, D., Engelke, S., Valentine, C., Stallard, J., Fleck, N.A., Ahmad., S., Cole, M. and De Volder, M. (2018). Carbon Nanotube Conductive Additives for Improved Electrical Properties of Flexible Battery Electrodes . Mat. Sci and Engin. A. , A735 , 269274. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Yu, B., Karthikeyan, K., Deshpande, V.S. and Fleck, N.A. (2018). Perforation of Aluminium Alloy-CFRP Bilayer Plates under Quasi-static and Impact Loading . Int. J. Impact. Eng. , 121 , 106-118. https://doi.org/10.1016/j.ijimpeng.2018.06.011 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Van Loock, F. and N.A. Fleck (2018). Deformation and failure maps for PMMA in uniaxial tension . Polymer , 148 , 159-268. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Maloney, K. and Fleck, N.A. (2018). Toughening strategies in adhesive joints . Int. J. Solids Structs, 158 pp. 66-75 https://doi.org/10.1016/j.ijsolstr.2018.08.028 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Stallard, J.C., Tan, W., Smail, F. R. , Gspann, T. S., Boies, A. M. and Fleck, N. A. (2018). The mechanical and electrical properties of direct-spun carbon nanotube mats. Extreme Mech. Letters, 21 , 65-75. DOI: 10.1016/j.ijsolstr.2018.08.028 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bettscheidera, S., Kraus, T., Norman A. Fleck, N.A. (2018). On the geometric stability of an inorganic nanowire and an organic ligand shell . J. Mech. Phys. Solids , 123, pp. 3-19. DOI: 10.1016/j.jmps.2018.07.017 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Mirzajanzadeh, M., Deshpande, V.S., and Fleck, N.A. (2018). Water Rise in A Cellulose Foam: by Capillary or Diffusional Flow? J. Mech. Phys. Solids , 124 , pp. 206-219. DOI: 10.1016/j.jmps.2018.10.009 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Boyce, A., Tankasala, H.C. and Fleck, N.A. (2018). Indentation of a layer on a foam substrate . Int. J. Mech. Sci., 150 , pp. 379-392. DOI: 10.1016/j.ijmecsci.2018.10.038 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tankasala, H.C., Deshpande, V.S and Fleck, N.A. (2018). Notch sensitivity of orthotropic solids: interaction of tensile and shear damage zones . Int. J. Fracture , 212, 123-142, DOI: 10.1007/s10704-018-0296-5 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Raina, A., Deshpande, V.S., and Fleck, N.A. (2018). Analysis of thermal desorption of hydrogen in metallic alloys . Acta Materialia, , 144, 777-785. DOI: 10.1016/j.actamat.2018.08.012 (download paper) (download supplementary information)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Nakanishi, K., Aria, A.I., Berwind, M.F., Weatherup, R.S., Eberl, C., Hofmann, S. and Fleck, N.A. (2018). Compressive behavior and failure mechanisms of freestanding and composite 3D graphitic foams. Acta Materialia , 159, 187-196.DOI: 10.1016/j.actamat.2018.08.012 (download paper) (download supplementary information)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Yu, B., Khaderi, S.N., Deshpande, V.S. and Fleck, N.A. (2018). The effect of matrix shear strength on the out-of-plane compressive strength of CFRP cross-ply laminates . Int. J. Solids Structs, 139-140, 7995. DOI: 10.1016/j.ijsolstr.2018.01.023 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tan, W., Stallard, J.C., Smail, F.R., Boies, A.M. and Fleck, N.A. (2019). The mechanical and electrical properties of direct-spun carbon nanotube mat-epoxy composites. Carbon, 150, pp. 489-504 DOI:10.1016/j.carbon.2019.04.118
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Martmnez Paqeda, E., Deshpande, V.S. Niordson, C.F. and Fleck, N.A. (2019). The role of plastic strain gradients in the crack growth resistance of metals J. Mech. Phys. Solids , 126, pp. 136-150 DOI:10.1016/j.jmps.2019.02.011 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Martmnez Paqeda, E. and Fleck, N.A. (2019). Mode I crack tip fields: strain gradient plasticity theory versus J2 flow theory European Journal of Mechanics - A/Solids, 75, pp. 381-388 DOI:10.1016/j.euromechsol.2019.02.009 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zhang, X., Tan, W., Smail, F., De Volder. M., Fleck. N.A. and Adam Boies, A. (2018). High-fidelity characterization on anisotropic thermal conductivity of carbon nanotube sheets and on their effects of thermal enhancement of nanocomposites. Nanotechnology , 29, 365708 (10pp), DOI: 10.1088/1361-6528/aacd7b (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Maloney, K. and Fleck, N.A. (2018). Tear resistance of a square-wave joint: experiment versus cohesive zone model. Int. J. Adhesion and Adhesives, 84, pp.9-17. DOI: 10.1016/j.ijadhadh.2018.02.008 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Skovsgaard, S.P.H., Jensen, H.M. and N. A. Fleck, N.A. (2019). Load transfer at a bolted joint in a laminate made from ultra-high molecular weight polyethylene fibres. Int. J. Solids and Structures, 185-186 , pp.182-190 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Seiler, P.E., Tankasala, H.C. and Fleck, N.A. (2019). The role of defects in dictating the strength of brittle honeycombs made by rapid prototyping. Acta Materialia, 171, pp. 190-200. DOI:10.1016/j.actamat.2019.03.036 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Seiler, P.E., Tankasala, H.C. and Fleck, N.A. (2019). Creep failure of honeycombs made by rapid prototyping, Acta Materialia, 178, pp. 122 -134. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tankasala, H.C. and Fleck, N.A. (2019). The crack growth resistance of an elastoplastic lattice, Int. J. Solids and Structs 188-189, pp 233-243. https://doi.org/10.1016/j.ijsolstr.2019.10.007 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bernardo, V., Van Loock, F., Martin-de Leon, J., Fleck, N.A. and Rodriguez-Perez, M.A. (2019). Mechanical properties of PMMA-sepiolite nanocellular materials with a bimodal cellular structure. Macromolecular Materials and Engineering. 304 (7) DOI: 10.1002/mame.201900041 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Van Loock, F., Thouless, M.D. and Fleck, N.A. (2019). Tensile fracture of an adhesive joint: the role of crack length and of material mismatch, J. Mech. Phys. Solids, 130, pp. 330-348. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Martmnez Paqeda, E., Cuesta, I. I. and Fleck, N.A. (2020). Mode II fracture of an elastic-plastic sandwich layer. Journal of Applied Mechanics, March 2020 87(3) 031001,1-11 https://doi.org/10.17863/CAM.43913. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Van Loock, F., Bernardo, V., Rodrmguez Pirez M.A. and Fleck, N.A. (2019). The Mechanics of Solid-State Nanofoaming, Proc. Roy. Soc. Series A A475, 20190339. http://dx.doi.org/10.1098/rspa.2019.0339 <(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Martmn-de Lesn, J., Van Loock, F., Bernardo, V., Fleck, N.A. and Rodrmguez-Pirez, M. A. (2019). The influence of cell size on the mechanical properties of nanocellular PMMA. Polymer, 181, 121805 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Mirzajanzadeh, M., Deshpande, V.S., and Fleck, N.A. (2019). The swelling of cellulose foams due to liquid transport J. Mech. Phys. Solids, 136 https://doi.org/10.1016/j.jmps.2019.103707 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shishvan, S.S., Fleck, N.A., McMeeking, R.M. and Deshpande, V.S. (2020). Dendrites as climbing dislocations in ceramic electrolytes: Initiation of growth, Journal of Power Sources, 456, 227989. https://doi.org/10.1016/j.jpowsour.2020.227989(download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shishvan, S.S., Fleck, N.A., McMeeking, R.M. and Deshpande, V.S. (2020) Growth rate of lithium filaments in ceramic electrolytes Acta Materialia, 196, pp. 444-455 https://doi.org/10.1016/j.actamat.2020.06.060 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bosco., E, Suiker A.S.J., and Fleck, N.A. (2020). Crack channelling mechanisms in brittle coating systems under moisture or temperature gradients, Int J Fract. 225, 130(2020) https://link.springer.com/article/10.1007/s10704-020-00461-3 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Liu, Y., St-Pierre, L., Fleck, N.A., Deshpande, V.S. and Srivastava, A. (2020). High fracture toughness micro-architectured materials J. Mech. Phys. Solids 143, 104060, pp. 1-18. https://doi.org/10.1016/j.jmps.2020.104060 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Prusty, R.K., Narayan, R.L., Scherer, M., Steiner, U., Deshpande, V.S., Fleck, N.A. and Ramamurty, U. (2020). Spherical indentation response of a Ni double gyroid nanolattice Scripta Materialia, 188 (2020) pp. 6468.https://doi.org/10.1016/j.scriptamat.2020.07.011 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Pasta, M. et al (2020). 2020 roadmap on solid state batteries, J. Phys. Energy 2 (2020) 032008. https://iopscience.iop.org/article/10.1088/2515-7655/ab95f4 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Askarinejad, S., Martmnez Paqeda, E., Cuesta, I. and Fleck, N.A (2020). Mode II fracture of an MMA adhesive layer: theory versus experiment, Eur. J. Solid Mechanics A -- to appear (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Askarinejad, S., Thouless, M.D. and Fleck, N.A (2020). Failure of a pre-cracked epoxy sandwich layer in shear. Eur. J. Solid Mechanics A 85 104134. https://doi.org/10.1016/j.euromechsol.2020.104134 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Nakanishi, K., Labonte, D., Tomasz Cebo, T., Veigang-Radulescu, V.P., Fan, Y., Brennan, B., Pollard, A.J., Hofmann, S. and Fleck, N.A. (2020). Mechanical properties of the hollow-wall graphene gyroid lattice, Acta Mater., 201 pp.254-265, DOI: 10.1016/j.actamat.2020.09.077 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bosco., E, Suiker A.S.J., and Fleck, N.A. (2020). Moisture-induced cracking in a flexural bilayer with application to historical paintings Theor. and Appl. Fract. Mech. 112 102779 https://doi.org/10.1016/j.tafmec.2020.102779 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Seiler, P.E. , Li, K., Deshpande, V.S. and Fleck, N.A. (2021). The influence of strut waviness on the tensile response of lattice materials, Journal of Applied Mechanics, Transactions ASME, 88 ISSN 0021-8936 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Li, K., Seiler, P.E., Deshpande, V.S. and Fleck, N.A. (2021). Regulation of notch sensitivity of lattice materials by strut topology. International Journal of Mechanical Sciences , 192 ISSN 0020-7403 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A. and Willis, J.R. (2021). Steady-state growth of an interfacial crack by corrosion. J. Mech. Phys. Solids, 148, 104286. https://doi.org/10.1016/j.jmps.2020.104268 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zhang, L. and Fleck, N.A. (2021). Molecular dynamics simulations of ultrathin PMMA films. Polymer, 226, 123748. https://doi.org/10.1016/j.polymer.2021.123748 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tankasala, H.C., Deshpande, V.S. and Fleck, N.A. (2021). The in-plane elastic-plastic response of an incompressible, filled honeycomb. J. Mech. Phys. Solids, 155, 104536. https://doi.org/10.1016/j.jmps.2021.104536 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Roy, U., Fleck, N.A. and Deshpande, V.S. (2021). An assessment of a mechanism for void growth in Li anodes. Extreme Mechanics Letters, 46, 101307. https://doi.org/10.1016/j.eml.2021.101307 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tan, W., Joe C. Stallard, J.C., Jo, C., De Volder, M.F.L, Fleck, N.A. (2021). The mechanical and electrochemical properties of polyaniline-coated carbon nanotube mat. J. Energy Storage, 41, 102757. https://doi.org/10.1016/j.est.2021.102757 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shishvan, S.S., Fleck, N.A. and Deshpande, V.S. (2021). The initiation of void growth during stripping of Li electrodes in solid electrolyte cells. J. Power Sources, 488, 229437. https://doi.org/10.1016/j.jpowsour.2020.229437 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Booth, S.G., Nedoma, A.J., Anthonisamy, N.N., Baker, P.J., Boston, R., Bronstein, H., Clarke, S.J., Cussen, E.J., Daramalla, V., De Volder, M., Dutton, S.E., Falkowski, V., Fleck, N.A., Geddes, H., Gollapally, N., Goodwin, A.L., Griffin, J.M., Haworth, A.R., Hayward, M.A., Hull, S., Inkson, B.J., Johnston, B.J., Lu, Z., MacManus-Driscoll, J.L., Martinez De Irujo Labalde, X., McClelland, I., McCombie, K., Murdock, B., Nayak, D., Park, S., Perez, G.E., Pickard, C.J., Piper, L.F.J., Playford, H.Y., Price, S., Scanlon, D/O., Stallard, J.C., Tapia-Ruiz, N., West, A.R., Wheatcroft, L., Wilson, M., Zhang, L, Zhi, X., Zhu, B., Cussen, S. (2021). Perspectives for next generation lithium-ion battery cathode materials. APL Materials , 9, 109201. https://doi/10.1063/5.0051092 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zhao, Y., Deshpande, V.S.D. and Fleck, N.A. (2022). A compliant and low-expansion 2-phase micro-architectured material, with potential application to solid-state Li-ion batteries. J. Mech. Phys. Solids, 158, 104683. https://doi.org/10.1016/j.jmps.2021.104683 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Mobasher, M.E., Taylor, P., Woelke, P.B., Fleck, N. A., Hutchinson, J.W. and Allan Zhong, A. (2022). Modeling the Anchoring and Performance of Downhole Equipment Using an Extended Gurson Model. Eng. Fract. Mech , 261, 108232. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Leronni, A. and Fleck, N.A. (2022). Delamination of a sandwich layer by diffusion of a corrosive species: initiation of growth . J. Mech. Phys. Solids, 160, 104775. https://doi.org/10.1016/j.jmps.2021.104775 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Bettscheider, S., Kraus, T. and Fleck, N.A. (2022). Stabilization of ultrathin nanowires by self-assembly into bundles. Acta Materialia, 231, 117799. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Stallard, J.C., Wheatcroft, L. Booth, S.G., Boston, R., Corr, S.A., De Volder, M.F.L, Inkson, B.J. and Fleck, N.A. (2022). Mechanical properties of cathode materials for lithium-ion batteries. Joule, 6, https://doi.org/10.1016/j.joule.2022.04.001 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Stallard, J.C., Vema, S., Hall, D.S., Dennis, A.R., Penrod, M.E., Grey, C.P., Deshpande, V.S. and Norman A. Fleck, N.A. (2022). Effect of Lithiation upon the Shear Strength of NMC811 Single Crystals. Journal of The Electrochemical Society, 169,040511 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Xu, C., Merryweather, A.J., Pandurangi, S.S., Lun, Z., Hall, D.S., Deshpande, V.S., Fleck, N.A., Schnedermann,C., Rao, A. and Grey, C.P. (2022). Operando visualization of kinetically induced lithium heterogeneities in single-particle layered Ni-rich cathodes. Joule, 6(11),16 November 2022, pp. 2535-2546. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Eumelen, G.J.A.M., Suiker, A.S.J., Bosco, E. and Fleck, N.A. (2022). Analytical model for elasto-plastic indentation of a hemispherical surface inclusion. Int. J. Mech. Sci., 224,107267. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shalchy, F., Carlsson, J., Deshpande, V.S. and Fleck N.A. (2022). Pinching of gel-filled honeycomb. Int. J. Solids and Structures, 257,111728. https://doi.org/10.1016/j.ijsolstr.2022.111728 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Askarinejad, S., Deshpande, V.S. and Fleck, N.A. (2022). Interfacial delamination of a sandwich layer by aqueous corrosion. Corrosion Sci., 203,110356. https://doi.org/10.1016/j.corsci.2022.110356 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Agier, J.A.B., Shishvan, S.S., Fleck, N.A. and Deshpande, V.S.D. (2022). Void growth within Li electrodes in solid electrolyte cells. Acta Materialia, 240,118303. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Carlsson, J., Li, K., Deshpande, V.S. and Fleck N.A. (2022). The in-plane, elastic-plastic response of a filled hexagonal honeycomb at finite strain. J. Mech. Phys. Solids, 168,105047.https://doi.org/10.1016/j.jmps.2022.105047 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Das, R., Deshpande, V.S. and Fleck, N.A. (2022). The transport of water in a cellulose foam. Extreme Mechanics Letters , 57,101897. https://doi.org/10.1016/j.eml.2022.101897 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Raina, A., Deshpande, V.S., Martmnez-Paqeda, E, and Fleck, N.A. (2023). Analysis of hydrogen diffusion in the three stage electro-permeation test. Continuum Mech. Thermodyn., https://doi.org/10.1007/s00161-023-01237-5 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Carlsson, J. Deshpande, V.S. and Fleck, N.A. (2023). The compressive response of the filled Kelvin foam. Eur. J. Solid Mechanics A., https:doi.org/10.1016/j.euromechsol.2023.105018 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Pandurangi, S. S, Hall, D.S., Grey, C.P., Deshpande, V.S. and Fleck, N.A. (2023). Chemo-mechanical analysis of lithiation/delithiation of Ni-rich single crystals. J. Electrochem. Soc., 170 050531 DOI 10.1149/1945-7111/acd47e (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shishvan, S.S., Fleck, N.A., McMeeking, R.M. and Deshpande, V.S. (2023). Void growth in metal anodes in solid-state batteries: Recent progress and gaps in understanding. Eur. J. Solid Mechanics A., 100 July-August 2023 104998. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Leronni, A. and Fleck, N.A. (2023). Delamination growth of a sandwich layer by diffusion of a corrosive species. J. Mech. Phys. Solids, 172 105179. https://doi.org/10.1016/j.jmps.2022.105179 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Cheng, L., Deshpande, V.S. and Fleck, N.A. (2023). Effect of water content on the constitutive response of a cellulose foam. Eur. J. Mechanics, A., 100 July-August 2023 104992. https://doi.org/10.1016/j.euromechsol.2023.104992 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Mukherjee, D., Hao, S., Shearing, P. R., McMeeking, R. M., Fleck, N. A. and Deshpande, V. S. (2023). Ingress of Li into Solid Electrolytes: Cracking and Sparsely Filled Cracks. Small Structures https://doi.org/10.1002/sstr.202300022 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Wheatcroft, L., Bird, A., Stallard, J.C., Mitchell, R.L., Booth, S.G., Nedoma, A. J., de Volder, M.F.L., Cussen, S.A., Fleck, N.A. and Inkson, B.J. (2023). Fracture Testing of Lithium-Ion Battery Cathode Secondary Particles in-situ inside the Scanning Electron Microscope. Batteries and Supercaps,6, e20230003, pp. 1-10. https://doi.org/10.1002/batt.202300032 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shishvan, S.S., Fleck, N.A., McMeeking, R.M. and Deshpande, V.S. (2023). Vacancy diffusion and its consequences for void growth at the interface of a stripping metal electrode and solid electrolyte Electrochimica Acta, 467, 1 November 2023, 143081. https://doi.org/10.1016/j.electacta.2023.143081 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shishvan, S.S., Fleck, N.A., McMeeking, R.M. and Deshpande, V.S. (2024). Cracking and associated volume expansion of NMC811 secondary particles. Journal of Power Sources 588, 233745 https://doi.org/10.1016/j.jpowsour.2023.233745 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Stallard, J.C., Vema, S., Grey, C.P., Deshpande, V.S. and N.A. Fleck, N.A. (2023). The strength of a constrained lithium layer, Acta Mat.,260,, 1 November 2023, 119313,https://doi.org/10.1016/j.actamat.2023.119313 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Leronni, A., Deshpande, V.S. and Fleck, N.A. (2023). Size effects in a power law creeping layer under compression or shear, and implications for deformation mechanisms of lithium films. J. Mech. Phys. Solids,83, , February 2024, 105505. https://doi.org/10.1016/j.jmps.2023.105505 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Carlsson, J., Kuswoyo, A., Shaikeea, A. and Fleck, N.A. (2023). Compression of filled, open-cell, 3D-printed Kelvin lattices, Mechanics of Materials,188,, January 2024, 104851. https://doi.org/10.1016/j.mechmat.2023.104851 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Konstantinou, C., Martmnez-Paqeda, E., Biscontin, G. and Fleck, N.A. (2023). Fracture of bio-cemented sands. Extreme Mechanics. Letters, 64, November 2023, 102086 https://doi.org/10.1016/j.eml.2023.102086. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shishvan, S.S., Fleck, N.A., McMeeking, R.M. and Deshpande, V.S. (2024). Failure mechanisms at the Li anode/solid electrolyte interface during Li stripping. Mechanics of Materials 193, 104990 https://doi.org/10.1016/j.mechmat.2024.104990 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Pandurangi, S.S., Grey, C.P., Deshpande, V.S. and Fleck, N.A. (2024). The chemo-mechanics of initiation of crack advance in Niobium Tungsten Oxide single crystals due to delithiation. J. Mech. Phys. Solids,190, 10572. https://doi.org/10.1016/j.jmps.2024.105724 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Das, R., Deshpande, V.S. and Fleck, N.A. (2024). Imbibation of water into a cellulose foam: the kinetics. J. Mech. Phys. Solids,191, 105763. https://doi.org/10.1016/j.jmps.2024.105763 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Das, R., Deshpande, V.S. and Fleck, N.A. (2025). Capillary rise in a packing of glass spheres. J. Mech. Phys. Solids,196, 105963. https://doi.org/10.1016/j.jmps.2024.105963 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A. (2025). Brittle fracture revisited for a butt weld under a residual stress field. Theoretical and Applied Fracture Mechanics,139, Part B, 105103, ISSN 0167-8442 https://doi.org/10.1016/j.tafmec.2025.105103 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Roach, A.M., Zhu, W., Vema, S., McMeeking, R. M., Grey, C. P., Deshpande, V. S., Fleck, N.A. (2025). Void growth in the lithium anode of a solid state battery, Eur. J Mechanics A/Solids,113, 105710, https://doi.org/10.1016/j.euromechsol.2025.1057103 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. McMeeking, R.M., Begley, M. R., Fleck, N.A., and Deshpande, V. S. (2025). Vacancy diffusion during stripping of metal electrodes. J. Electrochem. Soc.,172, 100518, DOI 10.1149/1945-7111/ae0f5b (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Phani A. S. and Fleck, N.A. (2025). On Rayleigh waves in elastic lattices. Proc. A 1 November 2025,481, (2326): 20250520. https://doi.org/10.1098/rspa.2025.0520 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Lun, Z., Merryweather, A.J., Mahadevegowda A., Pandurangi, S. S., Xu, C., Fairclough, S., Deshpande V. S., Fleck, N. A., Ducati, C., Christoph Schnedermann C., Akshay Rao, A. and Grey C.P. (2025). Operando single-particle imaging reveals that asymmetric ion flux contributes to capacity degradation in aged Ni-rich layered cathode. Energy Environ. Sci.,18,4097-4107. DOI: 10.1039/D5EE00267B (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A. and Hutchinson, J.W. (2026). Shear band localization in finite strain deformation theory with strain gradient effects. J. Mech. and Phys. of Solids, 206 106371. https://doi.org/10.1016/j.jmps.2025.106371 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Hart, A., Lu, X., Englezou, G., Wheatcroft, G., Patel. C., Stallard, J.C., Booth, S.G., Stothard, C., Fleck, N.A., Ebbens, S., Inkson, B.J. Cussen, S., Cumming, D. and Nedoma, A. (2026). Effect of binder viscosity on the rheology of cathode slurries and performance of lithium-ion battery half cells. J. Mater. Chem. A., DOI: 10.1039/D5TA07131C (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zhu, W. and Fleck, N.A. (2026). Dynamic shear lag with application to joints and composites. Int. J. Impact Eng, 213, 105691, https://doi.org/10.1016/j.ijimpeng.2026.105691. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sedajová, V., Horwitz, G., Han, J., Merryweather, A. J., Phillips, G. S., Deshpande, V. S., Fleck, N. A., Rao, A., & Grey, C. P. (2026). Interparticle Communication and Lithium Dynamics in Faceted Nickel-Rich NMC Cathodes. Journal of the American Chemical Society, 148, Article 4. https://doi.org/10.1021/jacs.5c15171 (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. | Books | Journals & Books | Conference Papers | Other Publications | Top | International Conference Proceedings (peer reviewed) Fleck, N A and Smith, R A. Accelerated fatigue crack growth in a low strength steel. Proceedings, Seeco '83 - Digital techniques in fatigue, pp 190-196, London, March 28-30, 1983.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A and Hooley, T. Accelerated fatigue crack growth in a low strength steel. Proceedings, Seeco '83 - Digital techniques in fatigue, pp 309-316, London, March 28-30, 1983.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A and Smith, R A. A discussion of mechanisms of accelerated and retarded fatigue crack growth. Advance in Fracture Research, Seventh International Conference on Fracture, Delhi, December 1984.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A. Fatigue crack growth - the complications. Thirty Years of Fatigue Crack Growth Symposium, Cambridge, England, September 1984, ed. R A Smith, 1986.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Wright, S C, Liu, J H and Stronge, W J. Ballistic perforation of polycarbonate sheet and its high strain rate response. J. de Physique Colloque C3,49, pp 145-149, September 1988.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Soutis, C, Smith, P A and Fleck, N A. Investigation of the compressive strength of fibre reinforced plastics. Proceedings of Phase Interactions in Composite Materials, University of Patras, 22-27 August 1988, Patras, Greece. Omega Scientific, Oxford, pp 327-344.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Wright, S C, Liu, J H and Stronge, W J (1988). Penetration response of polycarbonate plates. Proc. 7th Int. Conf. on Deformation, Yield and Fracture of Polymers, 11-14 April 1988, Churchill College, Cambridge, UK, pp 24/1-24/4.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A and Newman, J C (1988). Analysis of crack closure under plane strain conditions. Int. Conf. on Mechanics of Fatigue Crack Closure, 1-2 May 1986, Charleston, S Carolina, ed. J C Newman Jr and W Elber, ASTM STP 982.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A (1989). Creep fracture under remote shear. Proc. Euro. Colloq. 239 on Mechanics of Creep Brittle Materials, 15-17 August 1988, Leicester University, Elsevier Applied Science, ed. A C F Cocks and A R S Ponter, pp 290-309.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Wright, S C and Harding, J (1989). Deformation and fracture of polycarbonate at high strain rate. Proc. 4th Int. Conf. on the Mechanical Properties of Materials at High Rates of Strain, Oxford, 19-22 March 1989, ed. J Harding, Inst. of Physics Conf. Series No 102, pp 73-80.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Jelf, M, Soutis, C and Fleck, N A (1990). Notched compression failure of carbon-fibre PEEK Laminates. 3rd Int. Symp. on Composites, Patras, Greece, 20-24 August 1990, Amatec Publications, pp 204-215.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Soutis, C and Fleck, N A (1990). Compressive fatigue damage in T800/924C carbon fibre-epoxy laminates with an open hole. 4th European Conference on Composite Materials. ECCM4, Stuttgart, 25-28 September 1990.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Soutis, C and Fleck, N A (1991). Notch sensitivity of composite laminates loaded in compression. Presented at Applied Solid Mechanics-4, University of Leicester, 3-5 April 1991, ed. A R S Ponter, Elsevier Applied Science Publishers.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Sutcliffe, M P F and Fleck, N A (1992). Compressive failure of notched carbon-fibre epoxy laminates. Presented at the ECCM Composites Testing and Standardisation Conference, Amsterdam, 8-10 September 1992.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Garton, D A, Kang, K J, Fleck, N A and Ashby, M F (1992). Materials selection for minimum weight fatigue design. Technological Concepts and Numerical Analysis of Fatigue, 25-27 May 1992, University of Birmingham, England. Proceedings edited by A F Blom and C J Beevers, EMAS, England.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Budiansky, B and Slaughter, W S (1992). Compressive failure mechanisms in composites. US Air Force/Navy Mechanics of Composites Review, 27-28 October 1992, Wright-Patterson Air Force Base, Ohio.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Slaughter, W S and Fleck, N A (1993). Microbuckling of fibre composites. Paper presented at SES/ASME/ASCE meeting, Charlottesville, University of Virginia, 6-9 June 1993, ASME AMD-162 on Mechanics of Thick Composites, ed. Y S Rajapakse.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Akisanya, A R, Cocks, A C F and Fleck, N A (1994). The role of contact-contact interactionin the densification of powders. Proceedings 1994 World Congress on Powder Metallurgy, Paris, 6-9 June 1994, ed. D. Bouvard, A Jinka, C Levaillant and J Besson.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A (1994). Development of anisotropy in powder compaction. Proceedings IUTAM Symposium on Microstructure-Property Interactions in Composite Materials, 22-25 August 1994, Aalborg, Denmark, ed. R Pyrz, pp 101-112.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Akisanya, A R and Fleck, N A (1995). Stress singularities at the free edge of a bi-material strip. 2nd Int. Conf. on Composites in Engineering, ICCE/2, 21-24 August 1995, New Orleans, USA.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A, Storakers, B, and McMeeking, R M (1997). The viscoplastic compaction of powders. IUTAM Symposium on Mechanics of Granular Flow and Powder Compaction, 15-17 July 1996, Cambridge, England. Eds. N A Fleck and A C F Cocks, Kluwer Academic Publishers, Amsterdam.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shu, J Y, Fleck, N A and King, W E (1997). Bicrystals with strain gradient effects. Proceedings of the Materials Research Symposium,458, pp 295-300.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A and Hutchinson, J W (1998). A discussion of strain gradient plasticity theories, and application to shear bands. IUTAM Symposium on Materials Instabilities in Solids, June 1997, Delft. Eds. R de Borst and E van der Giessen, publ. John Wiley & Sons, pp. 507-520.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A and Shu, J Y (1998). Strain gradient plasticity. Proceedings 19th Riso International Symposium on Materials Science: Modelling of Structure and Mechanics of Materials from Microstructure to Product, ed. O E Pederson. 7-11 September 1998, Riso International Lab., Roskilde, Denmark.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Mesarovic, S Dj., Fleck, N A and Twed, J (1998). Micromechanics of powder compaction. Presented at World Congress on Powder Processin, Granada, Spain, October 1998.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Steeves, C.A. and Fleck, N.A. Z-pinned Composite Laminates: Knockdown in Compressive Strength, presented at the 5th International Conference on Deformation and Fracture of Composites, 18-19 March 1999, Institute of Materials, London, ed. J.M. Hodgkinson, IOM Communications Ltd..
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Olurin, O.B., Fleck, N. A. and Ashby, M.F. Fatigue of an aluminium alloy foam. Presented at Metfoam '99, Fraunhofer Institute for Manufacturing Advanced Materials, Bremen, 14-16 June 1999, ed. by J. Banhart, M. F. Ashby and N. A. Fleck
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Harte, A-M., Fleck, N. A. and Ashby, M.F. Sandwich panel design using aluminium alloy foams. Presented at Metfoam '99, Fraunhofer Institute for Manufacturing Advanced Materials, Bremen, 14-16 June 1999, ed. by J. Banhart, M. F. Ashby and N. A. Fleck
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Deshpande, V.S. and Fleck, N. A. Multi-axial yield of aluminium alloy foams. Presented at Metfoam '99, Fraunhofer Institute for Manufacturing Advanced Materials, Bremen, 14-16 June 1999, ed. by J. Banhart, M. F. Ashby and N. A. Fleck.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Schmidt, I. and Fleck, N.A. Fracture toughness of honeycombs. Presented at Metfoam '99, Fraunhofer Institute for Manufacturing Advanced Materials, Bremen, 14-16 June 1999, ed. by J. Banhart, M. F. Ashby and N. A. Fleck.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Redanz, P. and Fleck, N.A. IUTAM Symposium on Theoretical and Numerical Methods in Continuum Mechanics of Porous Materials, Stuttgart, September 5-10, 1999
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Steeves, C.A. and Fleck, N.A. In-plane properties of CFRP laminates containing through-thickness reinforcing rods (Z-pins), presented at ICCM-12, Paris, 5-9 July 1999, ed. Alain Vautrain. CD Rom published by 3W.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A. Micromechanisms of compressive failure in composites, Proceedings of the 3rd. Nordic Meeting on Materials and Mechanics, Aalborg, 8-11 May 2000, ed. R. Pyrz.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Huber, J.E. and Fleck, N.A. Multiaxial models and experiments with ferroelectrics. "Smart Structures 2000", 6-9 March 2000, Newport Beach, California USA. Proc. of SPIE Vol. 3992, Ed. Lynch, C.S.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Steeves, C.A. and Fleck, N.A. Failure modes in sandwich beams with composite face-sheets and PVC foam cores, Winter annual meeting, Orlando, Florida, 6-10 November 2000.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Schmidt, I. and Fleck, N.A. (2000). Crack growth resistance of metal foams. 10th. Int. Conf. Fracture, 3-7 December 2001 in Honolulu, Hawaii.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Peerlings, R.H.J. and Fleck, N.A. (2001). Enriched effective modelling of elastic periodic composites. ECCM-2001, European Conference on Computational Mechanics, June 26-29, Cracow, Poland.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N. A., Chen, C. and Ashby, M.F. (2001). Size effects in the fracture of metallic foams, presented at the 2nd. Int. Conf. On Cellular Metals and Metal Foaming Technology, Metfoam 2001, 18-20 June 2001, organised by J. Banhart, M F Ashby and N A Fleck, Fraunhofer Institute, Bremen, Germany.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Chen, C., Fleck, N. A. and Ashby, M.F. (2001). Numerical predictions of the creep response of sandwich beams with a metallic foam core. Presented at the 2nd. Int. Conf. On Cellular Metals and Metal Foaming Technology, Metfoam 2001, 18-20 June 2001, organised by J. Banhart, M F Ashby and N A Fleck, Fraunhofer Institute, Bremen, Germany.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zupan, M., Fleck, N. A. and Ashby, M. F. (2002). The collapse and energy absorption of egg-box panels, TMS Annual Meeting, Seattle, Washington, February 2002.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N. A., Ashby, M.F. and Deshpande, V.S.D. (2002). The topology of cellular structures. C R Calladine Festschrift, Cambridge, September 2002.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Huber, J.E., Shieh, J. and Fleck, N.A. (2002). Multi-axial response of hard and soft ferroelectrics under stress and electric field. In: Smart Structures and Materials 2002 (San Diego, 17-21 March 2002) Active Materials, Behaviour and Mechanics. Ed. Lynch, C.S., Proceedings of SPIE, 4699, pp.133-142.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shieh, Fleck, N.A. and Huber, J.E. (2002). Observations of fatigue crack growth in ferroelectrics under electrical loading. In: Smart Structures and Materials 2002 (San Diego, 17-21 March 2002) Active Materials, Behaviour and Mechanics. Ed. Lynch, C.S., Proceedings of SPIE, 4699, pp.51-63.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Deshpande V S and Fleck N A (2003). Blast Resistance of Sandwich Beams. Presented at sixth international conference on sandwich structures, Fort Lauderdale, Florida, ed. L. A. Carlsson, Y. D.S. Rajapakse and J. R. Vinson.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Tagarielli, V L, Fleck, N A and Deshpande, V S (2003). The collapse response of sandwich beams with aluminium face sheets and a metal foam core in three-point bending. Metfoam 2003, Technical University of Berlin, 23-25 June 2003, ed. by J. Banhart, N. A. Fleck and A. Mortensen. Verlag MIT Publishing.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Shergold, O A and Fleck, N A (2003). A mechanics model of skin penetration. Proc. Of IMECE'03, 2003 ASME Int. Mech. Eng. Congress and Exposition, Washington, DC, Nov. 16-21, 2003. Paper number IMECE2003-42157.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Suiker, A.S.J. and Fleck, N.A. (2005). Failure mechanisms in brittle laminates. Int. Conf. Fracture, Turin, Italy, March 2005.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Luo, J. K., He, JU.H., Flewitt, A., Moore, D. F., Spearing, S.M., Fleck, N.A. and Milne, W.I. (2004). Development of All Metal Electro-Thermal Actuator and its Applications. Proc. SPIE, 5344, 201 (2004) San Jose, CA.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Luo, J. K., Flewitt, Spearing, S.M., Fleck, N.A. and Milne, W.I. (2004). Modelling of Microspring thermal actuator. In Proc. of NSTI-Nanotech 2004, Vol.1, p.355-358, March/2004, Boston.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A. (2004). An overview of the mechanical properties of foams and periodic lattice materials. Symposium on Cellular Metals and Polymers, Fuerth, 12-14 October, 2004. ed. R F Singer, Neue Materialien, Fuerth, Germany. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N.A. (2004). The resistance of metallic sandwich beams with lattice cores to under-water shock loading. Proceedings of ACAM2005, the 4th Australasian Congress on Applied Mechanics, published by the Institute of Materials Engineering Australasia Ltd. 2005, ed. by M. Xie, A. Mouritz, A A khatibi, C Gardiner and W K Chiu, Melbourne, Australia, 16-18 February 2005. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Meo F, Merlo A, Rodriguez M, Brunner B, Fleck NA, Lu TJ, Mai SP, Srikantha Phani A, Woodhouse J (2007). Advanced Hybrid Mechatronic Materials for Ultra Precise and High Performance Machining Systems Design. I*PROMS Conference on Innovative Production Machines and Systems, 2-13 July 2007.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Zhu H, Chu DP, Fleck NA, Pane I, Huber JE and Natori E (2007). Polarization Change of Pztn Ferroelectric Thin Films Under Uniform In-Plane Tensile Stress. International Symposium on INtegrated Ferroelectrics, ISIF 2007, Bordeaux, France, May 8-12 2007.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Quintana Alonso I and Fleck NA (2008). The damage tolerance of a sandwich panel containing a cracked square honeycomb core. Presented at the 8th Int. Conf. on Sandwich Structures, University of Porto, Portugal, 6-8 May 2008. (download paper)
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. | Books | Journals & Books | Conference Papers | Other Publications | Top | Other Publications Fleck, N A (1982). The use of compliance and electrical resistance techniques to characterise fatigue crack closure. Cambridge University Engineering Department Report, CUED/C-MATS/TR.89.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Fleck, N A (1992). Materials Data Book for Part I of course of Cambridge University Engineering Department.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Kang, K J, Garton, D A and Fleck, N A (1992). Compilation of fatigue design data. CUED/C-MATS/TR.199, July 1992.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Xin, X J, Sutcliffe, M P F, Fleck, N A and Curtis, P T (1995). Composite Designer: a users manual. CUED/C-MATS/TR.226, August 1995.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Murphy, A M, Ashby, M F and Fleck, N A (1998). Metallography and image analysis of metallic foams. CUED/C-MICROMECH/TR.1, December 1997.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Liu, D. and Fleck, N.A. (1999). User's manual II for finite element code flash for fibre microbuckling, Cambridge University Engineering Dept., CUED/C-MICROMECH/TR.29, November 1999.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Chen, C. and Fleck, N.A. (2000). A creep model for polymeric foams, CUED/C-MICROMECH/TR.32, July 2000.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Davy, C.A., Fleck, N.A. and Bolton, M.D. (2002). The collapse behaviour of a sugar aggregate, CUED/C-MICROMECH/TR.57, July 2002.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. Steeves, C. and Fleck, N.A. (2002). Minimum weight design of composite sandwich beams with a foam core. CUED/C-MICROMECH/TR.63, November 2002.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
+
+1. European Patent Application: Hybrid coating that is water-repellent and humidity-proof for reinforced composite polymer materials deposited through PECVD. PCT/IT2007000604, filed on 3 September 2007.
+
+    게시 페이지: <https://www.fleckmech.org/publications.shtml>
 
 ## University of Cambridge — Shery Huang
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 8건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.101Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: https://biointerface.eng.cam.ac.uk/
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://biointerface.eng.cam.ac.uk/featured-publications>
+
+1. Synthesizing vascular trees at speed Yan Yan Shery Huang and Lining Arnold Ju Science (2025) https://www.science.org/stoken/author-tokens/ST-2678/full
+
+    게시 페이지: <https://biointerface.eng.cam.ac.uk/featured-publications>
+
+1. Cryopreservation of In Vitro Human Tissue Models Yaqi Sheng, Yan Yan Shery Huang Nature Review Bioengineering (2024) https://rdcu.be/dYEXt
+
+    게시 페이지: <https://biointerface.eng.cam.ac.uk/featured-publications>
+
+1. Imperceptible augmentation of living systems with organic bioelectronic fibres Wenyu Wang, Yifei Pan, Yuan Shui, Tawfique Hasan, Iek Man Lei, Stanley Gong Sheng Ka, Thierry Savin, Santiago Velasco-Bosom, Yang Cao, Susannah B. P. McLaren, Yuze Cao, Fengzhu Xiong, George G. Malliaras & Yan Yan Shery Huang* Nature Electronics, 2024 https://www.nature.com/articles/s41928-024-01174-4
+
+    게시 페이지: <https://biointerface.eng.cam.ac.uk/featured-publications>
+
+1. Sustainable electronic textiles towards scalable commercialization HaoTian Harvey Shi, Yifei Pan, Lin Xu, Xueming Feng, Wenyu Wang, Prasad Potluri, Liangbing Hu, Tawfique Hasan & Yan Yan Shery Huang Nature Materials, 2023, https://doi.org/10.1038/s41563-023-01615-z
+
+    게시 페이지: <https://biointerface.eng.cam.ac.uk/featured-publications>
+
+1. 3D printed biomimetic cochleae and machine learning co-modelling provides clinical informatics for cochlear implant patients Lei, IM and Jiang, C and Lei, CL and Rosalie de Rijk, S and Tam, YC and Swords, C and Sutcliffe, MPF and Malliaras, GG and Bance, M and Huang, YYS. Nature Communications, 2021, vol 12. https://doi.org/10.1038/s41467-021-26491-6
+
+    게시 페이지: <https://biointerface.eng.cam.ac.uk/featured-publications>
+
+1. Inflight fiber printing toward array and 3D optoelectronic and sensing architectures Wang, W and Ouaras, K and Rutz, AL and Li, X and Gerigk, M and Naegele, TE and Malliaras, GG and Huang, YYS. Science Advances, 2020, vol. 6, no. 40. https://doi.org/10.1126/sciadv.aba0931
+
+    게시 페이지: <https://biointerface.eng.cam.ac.uk/featured-publications>
+
+1. Multi‐Tissue Organoid Engineering: Bio‐assembling Macro‐Scale, Lumenized Airway Tubes of Defined Shape via Multi‐Organoid Patterning and Fusion (Adv. Sci. 9/2021) Liu, Y and Dabrowska, C and Mavousian, A and Strauss, B and Meng, F and Mazzaglia, C and Ouaras, K and Macintosh, C and Terentjev, E and Lee, JH and Huang, YYS Advanced Science, 2021, vol. 9, no. 8. https://doi.org/10.1002/advs.202170046
+
+    게시 페이지: <https://biointerface.eng.cam.ac.uk/featured-publications>
+
+1. On-chip perivascular niche supporting stemness of patient-derived glioma cells in a serum-free, flowable culture Gerigk, M and Bulstrode, H and Shi, HTH and Tönisen, F and Cerutti, C and Morrison, G and Rowitch, D and Huang, YYS. Lab on a Chip, 2021, vol 21. https://doi.org/10.1039/D1LC00271F
+
+    게시 페이지: <https://biointerface.eng.cam.ac.uk/featured-publications>
 
 ## University of Cambridge — Hugh Hunt
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/hemh1>
 
 출처: <http://www3.eng.cam.ac.uk/~hemh1/publicat.htm>
 
@@ -3505,9 +5477,13 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.105Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://www-edc.eng.cam.ac.uk/people/alj3.html
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/alj3>
+
+출처: <http://www-edc.eng.cam.ac.uk/people/alj3.html>
 
 ## University of Cambridge — Alexandre Kabla
 
@@ -3813,49 +5789,319 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.109Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/tk291>
 
 ## University of Cambridge — Robin Langley
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.112Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/rsl21>
 
 ## University of Cambridge — Athina Markaki
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 64건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.114Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://www-memti.eng.cam.ac.uk/
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://www-memti.eng.cam.ac.uk/node/70>
+
+출처: <https://www-memti.eng.cam.ac.uk/node/67>
+
+1. Edited Book Chapters Journal Papers AW Justin, MA Al Fahad, F Cammarata, CT Goh, Y Lai, Y Sun, D Trajkovski, A Petchey, NK Ramakrishnan, A Winskell, A Segonds-Pichon, MA Genain, M Goddard, S Sinha, K Saeb-Parsy, AE Markaki (2026), “Evaluation of Densified Collagen Tubes as an Interposition Graft in Abdominal Aorta”, submitted.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. F Cammarata, MA Al Fahad, S Melamed, D Trajkovski, J Chadwick, A Winkel, M Goddard, K Franze, K Saeb-Parsy, MP Alcolea, AW Justin, AE Markaki (2026), "Modulating Fibrillogenesis Enhances the Biofunctionality of Dense Collagen Hydrogels", Cell Biomaterials, 100612. https://doi.org/10.1016/j.celbio.2026.100612.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. J Ong, G Gibbons, YS Lim, L Zhou, J Zhao, AW Justin, F Cammarata, R Rajarethinam, C Limegrover, S Sinha, A Lakatos, FJ Rouhani, YY Dan, AE Markaki (2026), "A clinically defined and xeno-free hydrogel system for regenerative medicine", Materials Futures 5(3) 035401. https://doi.org/10.1088/2752-5724/ae4e4d.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. J Ong, JJ Zhao, C Swift, AE Markaki (2025), "Biopolymers for Liver Tissue Engineering: A Systematic Review", Gels 11, 525. https://doi.org/10.3390/gels11070525E.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. EE Brown, AA. Guy, NA. Holroyd, PW Sweeney, L Gourmet, H Coleman, C Walsh, AE Markaki, R Shipley, R Rajendram, S Walker-Samuel (2024), Physics-informed deep generative learning for quantitative assessment of the retina, Nature Communications, 15, 6859. https://doi.org/10.1038/s41467-024-50911-y.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AW Justin, F Cammarata, AA Guy, SR Estevez, S Burgess, H Davaapil, A Stavropoulou-Tatla, J Ong, AG Jacob, K Saeb-Parsy, S Sinha, AE Markaki (2023), "Densified collagen tubular grafts for human tissue replacement and disease modelling applications", Biomaterials Advances, 145, 213245. https://doi.org/10.1016/j.bioadv.2022.213245.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. A Stavropoulou Tatla, AW Justin, C Watts, AE Markaki (2021), "A vascularized tumoroid model for human glioblastoma angiogenesis", Scientific Reports, 11, 19550. https://doi.org/10.1038/s41598-021-98911-y.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. R Rezk, BZ Jia, A Wendler, I Dimov, C Watts, AE Markaki, K Franze, AJ Kabla (2020), "Spatial heterogeneity of cell-matrix adhesive forces predicts human glioblastoma migration", Neuro-Oncology Advances, 2(1), vdaa081. https://doi.org/10.1093/noajnl/vdaa081.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. J Ong, J Zhao, G Katarivas Levy, J Macdonald, AW Justin, AE Markaki (2020), "Functionalisation of a Heat-Derived and Bio-Inert Albumin Hydrogel with Extracellular Matrix by Air Plasma Treatment", Scientific Reports, 10, 12429. https://doi.org/10.1038/s41598-020-69301-7.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. Z Li, LR de Souza,C Litina, AE Markaki, A Al-Tabbaa (2020), "A novel biomimetic design of a 3D vascular structure for self-healing in cementitious materials using Murray's law", Materials and Design, 190,108572, doi: 10.1016/j.matdes.2020.108572.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. D Iandolo D, J Sheard, G Katarivas Levy, C Pitsalidis C, E Tan, A Dennis, JS Kim, AE Markaki, D Widera, R Owens (2020), "3D biomimetic and electroactive scaffolds for human neural crest-derived stem cell expansion and osteogenic differentiation", MRS Communications, 179–187. https://doi.org/10.1557/mrc.2020.10
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AA Guy, AW Justin, DM Aguilar-Garza, AE Markaki (2020), "3D Printable Vascular Networks Generated by Accelerated Constrained Constructive Optimization for Tissue Engineering", IEEE Transactions on Biomedical Engineering, 67(6) pp. 1650-1663, doi: 10.1109/TBME.2019.2942313.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. Z Li, LR de Souza,C Litina, AE Markaki, A Al-Tabbaa (2019), "Feasibility of Using 3D Printed Polyvinyl Alcohol (PVA) for Creating Self-Healing Vascular Tunnels in Cement System", Materials, 12, 3872, doi: 10.3390/ma12233872.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. G Katarivas Levy, J Ong, MA Birch, AW Justin, AE Markaki (2019), "Albumin-Enriched Fibrin Hydrogel Embedded in Active Ferromagnetic Networks Improves Osteoblast Differentiation and Vascular Self-Organisation", Polymers, 11, 1743.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. J Ong, J Zhao, AW Justin, AE Markaki (2019), "Albumin-based Hydrogels for Regenerative Engineering and Cell Transplantation", Biotechnology and Bioengineering, 116, pp. 3457-3468: doi: 10.1002/bit.27167.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. G Katarivas Levy, MA Birch, RA Brooks, S Neelakantan, AE Markaki (2019), "Stimulation of Human Osteoblast Diﬀerentiation in Magneto-Mechanically Actuated Ferromagnetic Fiber Networks", Journal of Clinical Medicine, 8(10), 1522, doi:10.3390/jcm8101522.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. OC Tysoe, AW Justin et al (2019), "Isolation and Propagation of Primary Human Cholangiocyte Organoids for the Generation of Bio-engineered Biliary Tissue", Nature Protocols, 14, pp. 1884–1925, doi:10.1038/s41596-019-0168-0.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. A Berdichevski, MA Birch, AE Markaki (2019), "Collagen scaffolds with tailored pore geometry for building three-dimensional vascular networks", Materials Letters, 248, pp. 93-96.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AW Justin, K Saeb-Parsy, AE Markaki, L. Vallier, F. Sampaziotis (2018), "Advances in the Generation of Bioengineered Bile Ducts", BBA - Molecular Basis of Disease, pp. 1532-1538.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. JM Sobral, TW Clyne, R Rezk, AE Markaki (2017), "Control over Fine Scale Terrace Structures induced on Polycrystalline Pd by Simple Heat Treatments in Air", Surface and Coatings Technology, 326, Part A, pp. 327-335.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. F Sampaziotis, AW Justin et al (2017), "Reconstruction of the Mouse Extrahepatic Biliary Tree using Primary Human Extrahepatic Cholangiocyte Organoids", Nature Medicine, 23, pp. 954–963.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. MC Varley, AE Markaki, RA Brooks (2017), "Effect of Rotation on Scaffold Motion and Cell Growth in Rotating Bioreactors", Tissue Engineering Part A, 23(11-12), pp. 522-534.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. JM Sobral, TW Clyne, R Rezk, AE Markaki (2017), "Nano-terracing on Polycrystalline Palladium induced via Simple Heat Treatment", Scripta Materialia, 130, pp. 17-21.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AW Justin, RA Brooks, AE Markaki (2016),"Multi-casting Approach for Vascular Networks in Cellularized Hydrogels", Journal of Royal Society Interface, 13: 20160768.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. MC Varley, S Neelakantan, TW Clyne, J Dean, RA Brooks, AE Markaki (2016), "Cell Structure, Stiffness and Permeability of Freeze-dried Collagen Scaffolds in Dry and Hydrated States", Acta Biomaterialia, 33, pp. 166-175.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. JM Sobral, VN Malheiro, TW Clyne, J Harris, R Rezk, WO'Neill, AE Markaki (2016), "An Accelerated Buoyancy Adhesion Assay combined with 3-D Morphometric Analysis for Assessing Osteoblast Adhesion on Microgrooved Substrata", Journal of the Mechanical Behaviour of Biomedical Materials, 60, pp. 22-37.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. S Bagherifard, DJ Hickey, AC de Luca, VN Malheiro, AE Markaki, M Guagliano, TJ Webster (2015),"The Influence of Nanostructured Features on Bacterial Adhesion and Bone Cell Functions on Severely Shot Peened 316L Stainless Steel", Biomaterials, 73, pp. 185-197.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. RL Spear, A Symeonidou, JN Skepper, RA Brooks, AE Markaki (2015), "Fibrin affects Short-term In Vitro Human Mesenchymal Stromal Cell Responses to Magneto-active Fibre Networks", Biomaterials & Biomechanics in Biomedical Engineering, 2(3), pp. 143-157, 10.12989/bme.2015.2.3.143.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. S Neelakantan, JC Tan, AE Markaki (2015), "Out-of-plane Auxeticity in Sintered Fibre Network Mats", Scripta Materialia, 106, pp. 30-33.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AC de Luca, M Zink, A Weidt, SG Mayr, AE Markaki (2015), "Effect of Microgrooved Surface Topography on Osteoblast Maturation and Protein Adsorption", Journal of Biomedical Materials Research: Part A, 103(8), pp. 2689-700.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. RL Spear, B Srigengan, S Neelakantan, W Bosbach, RA Brooks, AE Markaki (2015), "Physical and Biological Characterisation of Ferromagnetic Fibre Networks: Effect of Fibrin Deposition on Short-term In Vitro Responses of Human Osteoblasts", Tissue Engineering Part A, 21(3-4), pp. 463-474.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AE Markaki and AW Justin (2014), "Magneto-Active Scaffold for Stimulation of Bone Growth”, Invited Review, Special Issue on Smart Materials, Materials Science & Engineering, 30 (13a), pp. 1590-1598.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. S Neelakantan, W Bosbach, J Woodhouse, AE Markaki (2014), "Characterisation and Deformation Response of Orthotropic Fibre Networks with Auxetic Out-Of-Plane Behaviour", Acta Materialia, 66, pp. 326-339.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. VN Malheiro, JN Skepper, RA Brooks, AE Markaki (2013), "In vitro Osteoblast Response to Ferritic Stainless Steel Fibre Networks for Magneto-Active Layers on Implants", Journal of Biomedical Materials Research: Part A, 101(6), pp. 1588-1598.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. RL Spear, RA Brooks, AE Markaki (2013), "Short-term In vitro Responses of Human Peripheral Blood Monocytes to Ferritic Stainless Steel Fibre Networks", Journal of Biomedical Materials Research: Part A, 101(5), pp. 1456-1463.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. VN Malheiro, RL Spear, RA Brooks, AE Markaki (2011), “Osteoblast and Monocyte Responses to 444 Ferritic Stainless Steel intended for a Magneto-Mechanically Actuated Fibrous Scaffold”, Biomaterials, 32(29), pp. 6883-6892.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. D Tsarouchas & AE Markaki (2011), “Extraction of Fibre Network Architecture by X-ray Tomography and Prediction of Elastic Properties using an Affine Analytical Model”, Acta Materialia, 59(18) pp. 6989-7002.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. HJ Griffiths, AE Markaki, CA Collier, TW Clyne (2011), “Cell Adhesion to Plasma Electrolytic Oxidation (PEO) Titania Coatings, Assessed using a Centrifuging Technique”, Journal of the Mechanical Behaviour of Biomedical Materials, 4(8), pp. 2103-2112.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. SR Pemberton, EK Oberg, J Dean, D Tsarouchas, AE Markaki, L Marston, TW Clyne (2011), “The Fracture Energy of Metal Fibre Reinforced Ceramic Composites (MFCs)”, Composites Science & Technology, 71(3), pp. 266-275.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. J Pfetzing, M F-X Wagner, R Zarnetta, J Frenzel, G Eggeler, AE Markaki, J Wheeler, TW Clyne (2010), “Nanoindentation of a Pseudoelastic NiTiFe Shape Memory Alloy”, Advanced Engineering Materials, 12(1-2), pp. 13-19.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AE Markaki, KM Knowles, RA Oliver and A Gholinia (2009), “Surface Terracing on Ferritic Stainless-Steel Fibres and Potential Relevance to In-Vitro Cell Growth”, Philosophical Magazine, 89(26), pp.2285-2303.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. P Brown, L Marston, J Dean, JC Tan, AE Markaki and TW Clyne (2007), "Stainless Steel Sandwich", Materials World, 15(2), pp.26-28.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. TW Clyne, IO Golosnoy, JC Tan and AE Markaki (2006), “Porous Materials for Thermal Management under Extreme Conditions”, Phil. Trans. Roy. Soc. A: Mathematical, Physical & Eng. Sci., 364, pp.125-146.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. TW Clyne, AE Markaki and JC Tan (2005) “Mechanical and Magnetic Properties of Metal Fibre Networks, with and without a Polymeric Matrix”, Composites Science & Technology, 20th Anniversary Special Issue, 65(15-16), pp. 2492-2499.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AE Markaki and TW Clyne (2005), “Magneto-Mechanical Actuation of Bonded Ferromagnetic Fibre Arrays”, Acta Materialia, 53(3), pp. 877-889.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AE Markaki and TW Clyne (2004), “Magneto-Mechanical Stimulation of Bone Growth in A Bonded Array of Ferromagnetic Fibres”, Biomaterials, 25(19), pp. 4805-4815.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. A.E. Markaki, V. Gergely, A. Cockburn, T.W. Clyne (2003), “Production of a Highly Porous Material by Liquid Phase Sintering of Short Ferritic Stainless Steel Fibres and a Preliminary Study of its Mechanical Behaviour”, Composites Science & Technology, 63(16), pp. 2345-2351.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. A.E. Markaki and T.W. Clyne (2003), “Mechanics of Thin Ultra-Light Stainless Steel Sandwich Sheet Material: Part I - Stiffness”, Acta Materialia, 51(5), pp. 1341-1350.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AE Markaki and TW Clyne (2003), “Mechanics of Thin Ultra-Light Stainless Steel Sandwich Sheet Material: Part II – Resistance to Delamination”, Acta Materialia, 51(5), pp. 1351-1357.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AE Markaki and TW Clyne (2002), “Energy Absorption During Failure of Layered Metal Foam / Ceramic Composites”, Materials Science & Engineering, A323, pp. 260-269.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. VD Papachristos, CN Panagopoulos, LW Christoffersen & A Markaki (2001), “Young’s Modulus, Hardness and Scratch Adhesion of Ni-P-W Multilayered Alloy Coating Produced by Pulse Plating”, Thin Solid Films, 396, 174-183.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AE Markaki and TW Clyne (2001), “The Effect of Cell Wall Microstructure on the Deformation and Fracture of Aluminium-Based Foams”, Acta Materialia, 49(9), pp. 1677-1686.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. AE Markaki and TW Clyne (2000), “Characterisation of Impact Response of Metallic Foam / Ceramic Laminates", Materials Science & Technology, 16(7-8), pp. 785-791.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. CN Panagopoulos, AE Markaki, PE Agathocleous (1998), “Excimer Laser Treatment of Nickel-Coated Cast Iron”, Materials Science & Engineering, A241(1-2), pp. 226-232.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. CN Panagopoulos, A Markaki & E Hontzopoulos (1997), “Excimer Laser Treatment of Copper-Coated Mild Steel”, Journal of Materials Science, 32(6), pp. 1425-1430.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/journal-papers-1>
+
+1. A Symeonidou, RL Spear, RA Brooks and AE Markaki (2013), "Human Mesenchymal Stem Cell Response to 444 Ferritic Stainless Steel Networks", in MRS Online Proceedings Library, Volume 1569, http://dx.doi.org/10.1557/opl.2013.795, pp 73-78.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/conference-papers-1>
+
+1. RL Spear, RA Brooks and AE Markaki (2012), "Short-term Cytotoxic and Inflammatory Responses of Human Monocytes to Stainless Steel Fibre Networks", in MRS Online Proceedings Library, Volume 1417, http://dx.doi.org/10.1557/opl.2012.745, mrsf11-1417-kk03-36.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/conference-papers-1>
+
+1. CA Collier, JM Paillard, AE Markaki, JA Curran, HJ Griffiths, TW Clyne (2009), "In Vitro Human Osteoblast Responses to Titanium Oxide-Based Surfaces with Varying Topology and Composition", in Materials Research Society Conference Proceedings Structure-Property Relationships in Biomineralized and Biomimetric Composites, Volume 1187, 14-17 April, San Francisco, USA, pp. 77-82.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/conference-papers-1>
+
+1. HJ Griffiths, JG Harvey, J Dean, JA Curran, AE Markaki, TW Clyne (2008), “Characterisation of Cell Adhesion to Substrate Materials and the Resistance to Enzymatic and Mechanical Cell-Removal”, in Materials Research Society Conference Proceedings, Volume 1097E, 24-28 March, San Francisco, California, USA.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/conference-papers-1>
+
+1. AE Markaki and TW Clyne (2004), “Magneto-Mechanical Bone Growth Stimulation”, Proc. SPIE International Symposium on Smart Materials Nano-, and Micro-Smart Systems, Biomedical Applications of Micro- and Nanoengineering II, Sydney, Australia, SPIE-INT Society Optical Engineering, D.V. Nicolau (ed), 5651, pp. 61-67.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/conference-papers-1>
+
+1. AE Markaki, SA Westgate & TW Clyne (2002), “The Stiffness and Weldability of an Ultra-light Steel Sandwich Sheet Material with a Fibrous Metal Core”, Proc. 3rd Global Symp. Materials Processing & Manufacturing: Processing & Properties of Lightweight Cellular Metals & Structures, TMS Meeting, Seattle, USA, A.K. Ghosh, T.H. Sanders and T.D. Claar (eds), pp.15-24.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/conference-papers-1>
+
+1. T Wierzbicki, M Doyoyo & AE Markaki (2001), “Redefining the Concept of Stress - Strain Curve for Foams”, MetFoam '01, Bremen, Germany, J. Banhart, M.F. Ashby and N.A. Fleck (eds.), Verlag MIT Publishing, pp. 449-454.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/conference-papers-1>
+
+1. AE Markaki and TW Clyne (1999), “The Effect of Impact Velocity on Deformation of Layered Metal Foam / Ceramic Composites”, MetFoam '99, Bremen, Germany, J. Banhart, M.F. Ashby and N.A. Fleck (eds.), Verlag MIT Publishing, pp. 359-364.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/conference-papers-1>
+
+1. AE Markaki and TW Clyne (1999), “Energy Absorption During Flexural Failure of Layered Metal Foam / Ceramic Composites”, Proceedings of the Twelfth International Conference on Composite Materials (ICCM-12), Paris, T. Massard and A. Vautrin (eds.), Woodhead, paper 587.
+
+    게시 페이지: <https://www-memti.eng.cam.ac.uk/publications/conference-papers-1>
 
 ## University of Cambridge — John Miles
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.116Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/jcm91>
 
 ## University of Cambridge — Ashwin Seshia
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.118Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Publications: https://scholar.google.com/citations?user=4zYpg5kAAAAJ
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/aas41>
 
 ## University of Cambridge — Steven Barrett
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:52:37.520Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Department research-group page inspected beyond profile; no publication list or personal lab navigation exposed. Further official lab discovery remains pending; not full-site attempted.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/srhb2>
 
 ## University of Cambridge — James Ward
 
@@ -3941,9 +6187,11 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.125Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/aw942>
 
 ## University of Cambridge — Jim Woodhouse
 
@@ -4031,57 +6279,77 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.129Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/thwm100>
 
 ## University of Cambridge — Thomas Bohne
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.131Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/tmb35>
 
 ## University of Cambridge — Alexandra Brintrup
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.133Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: https://www.ifm.eng.cam.ac.uk/people/ab702/
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/ab702>
+
+출처: <https://www.ifm.eng.cam.ac.uk/people/ab702/>
 
 ## University of Cambridge — Ronan Daly
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.135Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://www.ifm.eng.cam.ac.uk/research/fiam/
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/rd439>
+
+출처: <http://www.ifm.eng.cam.ac.uk/research/fiam/>
 
 ## University of Cambridge — Michael De Volder
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.137Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://www.ifm.eng.cam.ac.uk/people/mfld2/
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/mfld2>
+
+출처: <http://www.ifm.eng.cam.ac.uk/people/mfld2/>
 
 ## University of Cambridge — Cyrille Dunant
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.139Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Publications: https://orcid.org/0000-0001-5176-4439
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/cfd30>
 
 ## University of Cambridge — Peter Davidson
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:52:37.525Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Discovered Fluids: https://www.eng.cam.ac.uk/node/40 / Department research-group page inspected beyond profile; no publication list or personal lab navigation exposed. Further official lab discovery remains pending; not full-site attempted.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/pad3>
 
 ## University of Cambridge — Steve Evans
 
@@ -4803,33 +7071,47 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.145Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/lm367>
 
 ## University of Cambridge — James Moultrie
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.146Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://www.ifm.eng.cam.ac.uk/people/jm329/
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/jm329>
+
+출처: <http://www.ifm.eng.cam.ac.uk/people/jm329/>
 
 ## University of Cambridge — Andy Neely
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.148Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://www.ifm.eng.cam.ac.uk/people/adn1000
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/adn1000>
+
+출처: <http://www.ifm.eng.cam.ac.uk/people/adn1000>
 
 ## University of Cambridge — Bill O'Neill
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.149Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://www.ifm.eng.cam.ac.uk/people/wo207/
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/wo207>
+
+출처: <http://www.ifm.eng.cam.ac.uk/people/wo207/>
 
 ## University of Cambridge — Eoin O'Sullivan
 
@@ -4989,33 +7271,47 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.153Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://www.ifm.eng.cam.ac.uk/people/aknp2/ / Discovered Asset Management research group: https://www.ifm.eng.cam.ac.uk/research/asset-management/
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/aknp2>
+
+출처: <http://www.ifm.eng.cam.ac.uk/people/aknp2/>
+
+출처: <https://www.ifm.eng.cam.ac.uk/research/asset-management/>
 
 ## University of Cambridge — Rob Phaal
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.155Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://www.ifm.eng.cam.ac.uk/people/rp108/
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/rp108>
+
+출처: <http://www.ifm.eng.cam.ac.uk/people/rp108/>
 
 ## University of Cambridge — Martin Sparkes
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.157Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/mrs46>
 
 ## University of Cambridge — Ann Dowling
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:57:39.631Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Discovered Fluids: https://www.eng.cam.ac.uk/node/40 / Research-group route inspected beyond department profile. Fluids group has no publication list or personal lab link. Further discovery pending; stage not marked full_site_attempted.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/apd1>
 
 ## University of Cambridge — Jag Srai
 
@@ -5231,47 +7527,263 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.162Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: https://www.eng.cam.ac.uk/profiles/ftu20
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/ftu20>
 
 ## University of Cambridge — Chander Velu
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 50건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.164Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Personal website: http://www.ifm.eng.cam.ac.uk/people/cv236/
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <http://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Books Velu, C., Norman, K., Zhu, Y., Putra, F. and Noble, C. (2025). The Business of Quantum Technologies: From Theory to Innovation Strategy. Palgrave Macmillan.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Journal Articles Moktar, Z., Ben Hadj, F. and Velu, C. (2026). Early-Stage Business Models for Commercializing University Technology in the Cleantech Industry, Technology Forecasting and Social Change, 229, 124393
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Lobo, L., Paul, D. and Velu, C. (2025). GPS timekeeping is increasingly vulnerable: here’s how to deliver future-proofed time. Nature, 645(8081), 585-588. Shareable version
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Chen,Y.P., Velu, C. and McFarlane, D (2024). Robot Adoption and Profitability: The Opportunities and Challenges Ahead. IEEE Engineering Management Review, 52(6), 8-14.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Rama Murthy, S., Sousa-Zomer, T.T., Minshall, T., Velu, C., Kazantsev, N. and McFarlane, D., (2024). Elastic manufacturing: provisioning and deprovisioning production capacity to vary product volume and mix. International Journal of Operations & Production Management., 44(11), 1893-1917
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Chen,Y.P., Velu, C. and McFarlane, D (2024). The Effect of Robot Adoption on Profit Margins. IEEE Transactions on Engineering Management, 71, 8951-8963.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C. and F. H. Putra. (2023). How to introduce quantum computers without slowing economic growth, Nature, 619 (7970), 461-464. Shareable version
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Pattinson, S., J. Nicholson, M. Ehret, C. Velu and P. Ryan. (2023). Innovation Ecosystems in B2B contexts: Owning the Space, Industrial Marketing Management, 108, A1-A9.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C. and S. Iyer. (2021). Learning From Near Misses from Covid 19, Proceedings of the National Academy of Sciences, 118(40), e2108269118.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Fan, J., D. Friedman, J. Gair, S. Iyer, B. Redlicki and C. Velu. (2021). A Simulation Study of How Religious Fundamentalism Takes Root. Journal of Economic Behavior and Organization, 192, 465-481.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Wannakrairoj, W. and C. Velu. (2021). Productivity Growth and Business Model Innovation. Economics Letters, 199, 109679, 1-5.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Park, H., P. Ritala and C. Velu (2021) Discovering and Managing Interdependence with Customer-Entrepreneurs, British Journal of Management 32(1): 124-146.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Klöckner, M., S. Kurpjuweit, C. Velu and S. Wagner. (2020). Does Blockchain for 3D Printing Offer Opportunities for Business Model Innovation, Research Technology Management, July-August, 18-27.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Koebnick, P., C. Velu and D. McFarlane. (2020). Preparing for Industry 4.0: Digital Business Model Innovation in the Food and Beverage Industry, International Journal of Mechatronics and Manufacturing Systems, 13(1), 59-88.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Glew, R. and Velu. C. (2020). Malaysianization and the Barlow Boustead Estates Agency, Journal of the Malaysian Branch of the Royal Asiatic Society, 93(1), 318, 43-66.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Pac, F., S. Savin and C. Velu (2018) When to Adopt an Innovation: Nash Equilibria in a Competitive Diffusion Framework, European Journal of Operations Management, 271(3), 968-984.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C. (2017) A Systems Perspective on Business Model Evolution: The Case of an Agricultural Informational Service Provider in India, Long Range Planning, 50(5), 603-620.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Martinez, V., A. Neely, C. Velu, S. Leinster-Evans and D. Bisessar (2017) Exploring the Journey to Services, International Journal of Production Economics, 192, 66-80.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C and A. Jacob. (2016) Business Model Innovation and Owner-Managers: The Moderating Role of Competition, R&D Management, 46(3), 451-463.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C. (2016) Evolutionary or Revolutionary Business Model Innovation Through Coopetition? The Role of Dominance in Network Markets, Industrial Marketing Management, 53, 124-135.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C. (2015) Knowledge Management Capabilities of Lead Firms in Innovation Ecosystems, AMS Review, 5(3-4), 123-141.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Wang, J., S. Madnick, X. Lee, J. Alstott and C. Velu (2015) Effect of Media Usage Selection on Social Mobilization Speed: Facebook vs e-mail, PLOS ONE, 10(9): e0134811.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Alstott, J., S. Madnick and C. Velu. (2014) Homophily and the Speed of Social Mobilization: The Effect of Acquired and Ascribed Traits, PLOS ONE, 9(4): e95140.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C., S. Madnick and M. Van Alstyne. (2014) Centralizing Data Management with Considerations of Uncertainty and Information-based Flexibility, Journal of Management Information Systems, 30(3), 179-212.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Iyer, S., C. Velu and A. Mumit. (2014) Communication and Marketing of Services by Religious Organizations in India, Journal of Business Research, 67(2), 59-67.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C and P. Stiles. (2013) Managing Decision-Making and Cannibalization for Parallel Business Models, Long Range Planning, 46(6), 443-458.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C and M. Khanna. (2013) Business Model Innovation in India, Journal of Indian Business Research, 5(3), 156-170.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C. (2012) Entrepreneurship and Innovation in Financial Institutions, Quantitative Finance, 12(6), 831-837 (Lead article).
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C., S. Iyer and J. Gair. (2012) Dominance and Innovation: A Returns-Based Beliefs Approach, Applied Stochastic Models in Business and Industry, 28, 261-284.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Iyer, S. and C. Velu. (2006) Real Options and Demographic Decisions, Journal of Development Economics, 80, 39-58.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Rama Murthy, S., Huang, J. and Velu, C., 2023. Business Model Innovation in Additive Manufacturing Equipment Sector. In Springer Handbook of Additive Manufacturing (pp. 43-54). Cham: Springer International Publishing.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Said, F., Page, A., Salter, L., Velu, C. (2022). Intangible Capital and Reorientation of Manufacturing During a Pandemic. In Gallitto, E., Massi, M., Harrison, P., eds., Consumption, Production, and Entrepreneurship in the Time of Coronovirus, Palgrave Macmillan.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Hao, J., S. Hicks, C. Popper, and C. Velu. (2020). Realizing the Full Potential of Digital Transformation: Three Areas of Focus, in Metselaar, J, eds,. Strategic Management in the Age of Digital Transformation, Proud Pen.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C. (2020) Business Model Cohesiveness Scorecard: Implications of Digitization for Business Model Innovation, in Nambisan, S., Lyytinen, K. and Yoo, Y., eds., Handbook of Digital Innovation (UK: Edward Elgar, 2020).
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C. (2018) Coopetition and Business Models, in Chiambaretto, P., Czakon, W., Anne-Sophie Fernandez, A and Le Roy, F. Handbook of Coopetition Strategies in the Routledge Companion on Coopetition Strategy, Routledge.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C. (2015) Institutions and Collaborative Innovation, in Viardot, E. and A. Brem. Adoption of Innovation – Balancing Internal and External Stakeholders in the Marketing of Innovation, Springer.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C. (2015) Institutions and Collaborative Innovation, in Viardot, E. and A. Brem. Adoption of Innovation – Balancing Internal and External Stakeholders in the Marketing of Innovation, Springer. Other Publications Velu, C. (2025). Quantum Leap, The Economist, 13 December.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Gebel, L, Velu, C and Vidal-Puig, A. (2024). Small Really is Beautiful in University Science Research, Financial Times, 16 September.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C and S. Iyer. (2023). The Business of Economics, The Economist, 20 April.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C., Putra, F., Geurtsen, E., Norman, K. and Noble, C. (2022). Adoption of Quantum Technologies and Business Model Innovation. Institute for Manufacturing, University of Cambridge
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Popper, C and C. Velu. (2021). The Impact of the Pandemic on Digital Transformation, Conference Board Report.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Hao, J., Hicks, S., Popper, C. and Velu, C. (2020). Realizing the Full Potential of Digital Transformation, Conference Board Report.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C., Pooya, G., and Dalzell-Payne, P. (2019). Targeting the Full Value of Digital Disruption, Cambridge and IBM Report
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C (2018). Solving the Productivity Paradox, Manufacturing Leadership Journal, Aug, 23-27.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Meeks, G and C. Velu. (2018) Ten years from the crash: time to row back on financial regulation and compliance? LSE Business Review, August.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C., P.A. Smart and M. Phillips. (2016). The Imperative for Business Model Innovation: A Research and Practice Perspective, White paper by University of Cambridge and University of Exeter.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Barrett, M., C. Velu, R. Kohli, O. Salge and D. Simoes-Brown. (2011) Making the Transition to Collaborative Innovation: Issues of Readiness, Trust and Governance, National Endowment for the Science, Technology and the Arts (NESTA) Business Briefing, May.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Milward, S and C. Velu (2010). Market Channels and Business Models for Rural Areas, Effective Executive, 13(6): 10-21.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C. and S. Prakash. (2010). Reuters Market Light: Business Model Innovation for Growth, Effective Executive, 13(2): 78-83.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
+
+1. Velu, C and L. Yu (2008). How do Indian Banks Go Global?, Effective Executive, 11(1): 64-79.
+
+    게시 페이지: <https://www.ifm.eng.cam.ac.uk/people/cv236/>
 
 ## University of Cambridge — Mohamed Zaki
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:24.166Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/mehyz2>
 
 ## University of Cambridge — Ricardo Garcia Mayoral
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:57:39.639Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Discovered Fluids: https://www.eng.cam.ac.uk/node/40 / Discovered Publications List (Google Scholar): https://scholar.google.co.uk/citations?user=SoYCQQsAAAAJ / Research-group route inspected beyond department profile. Fluids group has no publication list or personal lab link. Further discovery pending; stage not marked full_site_attempted.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/rg471>
 
 ## University of Cambridge — Chez Hall
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:57:39.647Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Research-group route inspected beyond department profile. Whittle Laboratory Research topics followed; author all-years publications still not found. Further discovery pending; stage not marked full_site_attempted.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www.eng.cam.ac.uk/profiles/cah1003>
 
 ## University of Cambridge — Simone Hochgreb
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:57:39.651Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official profile visited. Publications/lab follow-up pending; no completeness claim. / Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38 / Discovered Personal website: http://www3.eng.cam.ac.uk/~sh372 / Discovered Publications: https://orcid.org/0000-0001-7192-4786 / Attempted http://www3.eng.cam.ac.uk/~sh372: Selector "body" not found / Official personal lab fully navigated across 27 linked home, bio, projects, diagnostic and combustion topic pages. Bio Publications links only ORCID and Google Scholar; no official-site citation list exposed. Raw pages preserved. Earlier missing-main automation error recovered with body locator; not a site blocker.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://www3.eng.cam.ac.uk/~sh372/>
+
+출처: <https://www.eng.cam.ac.uk/profiles/sh372>
+
+출처: <http://www3.eng.cam.ac.uk/~sh372:>
 

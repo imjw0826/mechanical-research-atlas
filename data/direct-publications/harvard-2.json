@@ -4,14 +4,10 @@
   "pi": "Boris Kozinsky",
   "lab_name": null,
   "lab_url": "https://mir.g.harvard.edu/",
-  "publication_urls": [],
-  "accessed_at": "2026-11-12T13:55:42.023Z",
-  "coverage_notes": [
-    "Official identity/affiliation visible text preserved; roster identity not auto-corrected.",
-    "Official MIR laboratory homepage Publications link opens Google Scholar. Research menu inspected; no official-site full publication list exposed. Scholar excluded as aggregate source."
+  "publication_urls": [
+    "https://mir.g.harvard.edu/",
+    "https://seas.harvard.edu/person/boris-kozinsky"
   ],
-  "status": "partial",
-  "papers": [],
   "visible_txt_path": "/Users/garden/Documents/formyresearch/data/direct-publications/harvard-2.visible.txt",
   "source_pages": [
     {
@@ -20,5 +16,14 @@
       "visible_txt": "/Users/garden/Documents/formyresearch/data/direct-publications/harvard-2.visible.txt"
     }
   ],
-  "investigation_stage": "full_site_attempted"
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Official identity/affiliation visible text preserved; roster identity not auto-corrected.",
+    "Official MIR laboratory homepage Publications link opens Google Scholar. Research menu inspected; no official-site full publication list exposed. Scholar excluded as aggregate source."
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "status": "partial",
+  "papers": []
 }

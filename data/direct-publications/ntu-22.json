@@ -5,22 +5,134 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp00485?ST_EMAILID=mkakhor",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00485?ST_EMAILID=mkakhor",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik",
-      "identity_evidence": "Prof Khor Khiam Aik",
-      "affiliation_evidence": "Fellowships & Awards",
-      "website_links": []
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Electrochemical study of a planar solid oxide fuel cell: Role of support structures",
+      "year": 2008,
+      "citation_raw": "Patcharavorachot, Y., Arpornwichanop, A., & Chuachuensuk, A. (2008). Electrochemical study of a planar solid oxide fuel cell: Role of support structures. Journal of Power Sources, 177(2), 254-261.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "An air‐stable densely packed phosphorene–graphene composite toward advanced lithium storage properties",
+      "year": 2016,
+      "citation_raw": "Zhang, Y., Wang, H., Luo, Z., Tan, H. T., Li, B., Sun, S., ... & Yan, Q. (2016). An air‐stable densely packed phosphorene–graphene composite toward advanced lithium storage properties. Advanced Energy Materials, 6(12), 1600453.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Tensile properties, tension–tension fatigue and biological response of polyetheretherketone–hydroxyapatite composites for load-bearing orthopedic implants",
+      "year": 2003,
+      "citation_raw": "Bakar, M. A., Cheng, M. H. W., Tang, S. M., Yu, S. C., Liao, K., Tan, C. T., ... & Cheang, P. (2003). Tensile properties, tension–tension fatigue and biological response of polyetheretherketone–hydroxyapatite composites for load-bearing orthopedic implants. Biomaterials, 24(13), 2245-2250.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Performance evaluation of anode-supported solid oxide fuel cells with thin film YSZ electrolyte",
+      "year": 2004,
+      "citation_raw": "Leng, Y. J., Chan, S. H., Khor, K. A., & Jiang, S. P. (2004). Performance evaluation of anode-supported solid oxide fuel cells with thin film YSZ electrolyte. International Journal of Hydrogen Energy, 29(10), 1025-1033.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Low-temperature SOFC with thin film GDC electrolyte prepared in situ by solid-state reaction, Solid State Ionics",
+      "year": 2004,
+      "citation_raw": "Leng, Y. J., Chan, S. H., Jiang, S. P., & Khor, K. A. (2004). Low-temperature SOFC with thin film GDC electrolyte prepared in situ by solid-state reaction. Solid State Ionics, 170(1-2), 9-15.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "In vitro studies of plasma-sprayed hydroxyapatite/Ti-6Al-4V composite coatings in simulated body fluid (SBF)",
+      "year": 2003,
+      "citation_raw": "Gu, Y. W., Khor, K. A., & Cheang, P. (2003). In vitro studies of plasma-sprayed hydroxyapatite/Ti-6Al-4V composite coatings in simulated body fluid (SBF). Biomaterials, 24(9), 1603-1611.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Addressing processing problems associated with plasma spraying of hydroxyapatite coatings",
+      "year": 1996,
+      "citation_raw": "Cheang, P., & Khor, K. A. (1996). Addressing processing problems associated with plasma spraying of hydroxyapatite coatings. Biomaterials, 17(5), 537-544.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Temperature driven morphological changes of chemically precipitated hydroxyapatite nanoparticles, Langmuir",
+      "year": 2004,
+      "citation_raw": "Kumar, R., Prakash, K. H., Cheang, P., & Khor, K. A. (2004). Temperature driven morphological changes of chemically precipitated hydroxyapatite nanoparticles. Langmuir, 20(13), 5196-5200.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Effects of residual stress on the performance of plasma sprayed functionally graded ZrO2/NiCoCrAlY coatings",
+      "year": 2000,
+      "citation_raw": "Khor K.A., & Gu Y.W. (2000). Effects of residual stress on the performance of plasma sprayed functionally graded ZrO2/NiCoCrAlY coatings. Materials Science and Engineering: A, 277(1-2), 64-76.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "High-performance low-temperature solid oxide fuel cell with novel BSCF cathode",
+      "year": 2006,
+      "citation_raw": "Liu, Q. L., Khor, K. A., & Chan, S. H. (2006). High-performance low-temperature solid oxide fuel cell with novel BSCF cathode. Journal of Power Sources, 161(1), 123-128.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "tribological and biological properties of novel 45S5 Bioglass® composites reinforced with in situ reduced graphene oxide",
+      "year": 2017,
+      "citation_raw": "Li, Z., Khun, N. W., Tang, X. Z., Liu, E., & Khor, K. A. (2017). Mechanical, tribological and biological properties of novel 45S5 Bioglass® composites reinforced with in situ reduced graphene oxide. journal of the mechanical behavior of biomedical materials, 65, 77-89.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Multifunctional 0D–2D Ni2P nanocrystals–black phosphorus heterostructure",
+      "year": 2017,
+      "citation_raw": "Luo, Z. Z., Zhang, Y., Zhang, C., Tan, H. T., Li, Z., Abutaha, A., ... & Yan, Q. (2017). Multifunctional 0D–2D Ni2P nanocrystals–black phosphorus heterostructure. Advanced Energy Materials, 7(2), 1601285.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "The 2016 thermal spray roadmap",
+      "year": 2016,
+      "citation_raw": "Vardelle, A., Moreau, C., Akedo, J., Ashrafizadeh, H., Berndt, C. C., Berghaus, J. O., ... & Vuoristo, P. (2016). The 2016 thermal spray roadmap. Journal of thermal spray technology, 25(8), 1376-1440.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Enhanced thermoelectric performance of solution-derived bismuth telluride based nanocomposites via liquid-phase Sintering",
+      "year": 2016,
+      "citation_raw": "Zhang, C., de la Mata, M., Li, Z., Belarre, F. J., Arbiol, J., Khor, K. A., ... & Xiong, Q. (2016). Enhanced thermoelectric performance of solution-derived bismuth telluride based nanocomposites via liquid-phase Sintering. Nano Energy, 30, 630-638.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Optical and biological properties of transparent nanocrystalline hydroxyapatite obtained through spark plasma sintering",
+      "year": 2016,
+      "citation_raw": "Li, Z., Thompson, B. C., Dong, Z., & Khor, K. A. (2016). Optical and biological properties of transparent nanocrystalline hydroxyapatite obtained through spark plasma sintering. Materials Science and Engineering: C, 69, 956-966.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Rapid fabrication of dense 45S5 Bioglass® compacts through spark plasma sintering and evaluation of their in vitro biological properties",
+      "year": 2016,
+      "citation_raw": "Li, Z., Thompson, B. C., Hu, H., & Khor, K. A. (2016). Rapid fabrication of dense 45S5 Bioglass® compacts through spark plasma sintering and evaluation of their in vitro biological properties. Biomedical Materials, 11(6), 065006.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Higher in-flight particle velocities enhance in vitro tribological behavior of plasma sprayed hydroxyapatite coatings, Tribology International",
+      "year": 2016,
+      "citation_raw": "Khun, N. W., Li, Z., Khor, K. A., & Cizek, J. (2016). Higher in-flight particle velocities enhance in vitro tribological behavior of plasma sprayed hydroxyapatite coatings. Tribology International, 103, 496-503.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Comparative study on the corrosion resistance of Al–Cr–Fe alloy containing quasicrystals and pure Al",
+      "year": 2016,
+      "citation_raw": "Li, R. T., Murugan, V. K., Dong, Z. L., & Khor, K. A. (2016). Comparative study on the corrosion resistance of Al–Cr–Fe alloy containing quasicrystals and pure Al. Journal of Materials Science & Technology, 32(10), 1054-1058.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "Tuneable electrochromism in weavable carbon nanotube/polydiacetylene yarns, Carbon",
+      "year": 2016,
+      "citation_raw": "Hansen, R. V., Zhong, L., Khor, K. A., Zheng, L., & Yang, J. (2016). Tuneable electrochromism in weavable carbon nanotube/polydiacetylene yarns. Carbon, 106, 110-117.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    },
+    {
+      "title": "A review of transmission electron microscopy of quasicrystals—how are atoms arranged?",
+      "year": 2016,
+      "citation_raw": "Li, R., Li, Z., Dong, Z., & Khor, K. A. (2016). A review of transmission electron microscopy of quasicrystals—how are atoms arranged?. Crystals, 6(9), 105.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications"
+    }
+  ]
 }

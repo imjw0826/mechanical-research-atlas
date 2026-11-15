@@ -3,10 +3,13 @@
   "university_key": "oxford",
   "pi": "Jack Umenberger",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:52:18.281Z",
-  "coverage_notes": [
+  "lab_url": "https://eng.ox.ac.uk/people/jack-umenberger",
+  "publication_urls": [
+    "https://umenberger.github.io/publications"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume.",
     {
       "discovered_links": [
@@ -31,6 +34,129 @@
       }
     }
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Shortest paths in graphs of convex sets",
+      "year": 2024,
+      "citation_raw": "[arXiv] Shortest paths in graphs of convex sets Tobia Marcucci, Jack Umenberger, Pablo A. Parrilo, Russ Tedrake. SIAM Journal on Optimization, 2024.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "Globally Convergent Policy Search for Output Estimation",
+      "year": 2022,
+      "citation_raw": "[arXiv] Globally Convergent Policy Search for Output Estimation Jack Umenberger, Max Simchowitz, Juan C. Perdomo, Kaiqing Zhang, Russ Tedrake. NeurIPS, 2022.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "Stabilizing Dynamical Systems via Policy Gradient Methods",
+      "year": 2021,
+      "citation_raw": "[OpenReview] [arXiv] Stabilizing Dynamical Systems via Policy Gradient Methods Juan C. Perdomo, Jack Umenberger, Max Simchowitz. 2021.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "Identifying External Contacts from Joint Torque Measurements on Serial Robotic Arms and Its Limitations",
+      "year": 2021,
+      "citation_raw": "[NeurIPS] Identifying External Contacts from Joint Torque Measurements on Serial Robotic Arms and Its Limitations Tao Pang, Jack Umenberger, Russ Tedrake. ICRA, 2021.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "Robust exploration in linear quadratic reinforcement learning",
+      "year": 2019,
+      "citation_raw": "[arXiv] Robust exploration in linear quadratic reinforcement learning Jack Umenberger, Mina Ferizbegovic, Thomas B. Schön, Håkan Hjalmarsson. NeurIPS, 2019.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "[neurips] [arXiv] [poster] [code]",
+      "year": 2019,
+      "citation_raw": "[neurips] [arXiv] [poster] [code] Distributed identification of contracting and monotone network dynamics Max Revay, Jack Umenberger, Ian R. Manchester. 2019.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "On the smoothness of nonlinear system identification",
+      "year": 2019,
+      "citation_raw": "[arXiv] On the smoothness of nonlinear system identification Antônio H. Ribeiro, Koen Tiels, Jack Umenberger, Thomas B. Schön and Luis A. Aguirre. 2019.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "Bayesian identification of state-space models via adaptive thermostats",
+      "year": 2019,
+      "citation_raw": "[arXiv] Bayesian identification of state-space models via adaptive thermostats Jack Umenberger, Thomas B. Schön, Fredrik Lindsten. IEEE CDC, 2019.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "Learning robust LQ-controllers using application oriented exploration",
+      "year": 2019,
+      "citation_raw": "Learning robust LQ-controllers using application oriented exploration Mina Ferizbegovic, Jack Umenberger, Håkan Hjalmarsson, Thomas B. Schön. IEEE CSL/CDC, 2019.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "Nonlinear input design as optimal control of a Hamiltonian system",
+      "year": 2019,
+      "citation_raw": "[IEEE] [pdf] Nonlinear input design as optimal control of a Hamiltonian system Jack Umenberger, Thomas B. Schön. IEEE CSL/CDC, 2019. [IEEE]",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "Convex Bounds for Equation Error in Stable Nonlinear Identification",
+      "year": 2018,
+      "citation_raw": "[arXiv] Convex Bounds for Equation Error in Stable Nonlinear Identification Jack Umenberger, Ian R. Manchester. IEEE CSL/CDC, 2018.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "[IEEE] [pdf] [bib] [code]",
+      "year": 2018,
+      "citation_raw": "[IEEE] [pdf] [bib] [code] Learning convex bounds for linear quadratic control policy synthesis Jack Umenberger, Thomas B. Schön. NeurIPS/NIPS 2018.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "[arXiv] [bib] [poster] [video]",
+      "year": 2018,
+      "citation_raw": "[arXiv] [bib] [poster] [video] Specialized Interior Point Algorithm for Stable Nonlinear System Identification Jack Umenberger, Ian R. Manchester. IEEE TAC 2018.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "[IEEE] [arXiv] [bib] [code]",
+      "year": 2018,
+      "citation_raw": "[IEEE] [arXiv] [bib] [code] Maximum likelihood identification of stable linear dynamical systems Jack Umenberger, Johan Wågberg, Ian R. Manchester, Thomas B. Schön. Automatica, 2018.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "[ScienceDirect] [pdf] [bib]",
+      "year": 2017,
+      "citation_raw": "[ScienceDirect] [pdf] [bib] Identification of externally positive systems Christian Grussler, Jack Umenberger, Ian R. Manchester. CDC, 2017.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "[IEEE] [pdf] [bib]",
+      "year": 2017,
+      "citation_raw": "[IEEE] [pdf] [bib] Convex identification of stable dynamical systems Jack Umenberger. PhD thesis, 2017.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "[IEEE] [pdf] [bib]",
+      "year": 2016,
+      "citation_raw": "[IEEE] [pdf] [bib] Specialized algorithm for identification of stable linear systems using Lagrangian relaxation Jack Umenberger, Ian R. Manchester. ACC, 2016.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "[IEEE] [pdf] [bib]",
+      "year": 2015,
+      "citation_raw": "[IEEE] [pdf] [bib] On identification via EM with latent disturbances and Lagrangian relaxation Jack Umenberger, Johan Wågberg, Ian R. Manchester, Thomas B. Schön. SYSID, 2015.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "[ScienceDirect] [pdf] [bib]",
+      "year": 2014,
+      "citation_raw": "[ScienceDirect] [pdf] [bib] Real-time planning with primitives for dynamic walking over uneven terrain Ian R. Manchester, Jack Umenberger. ICRA, 2014.",
+      "source_url": "https://umenberger.github.io/publications"
+    },
+    {
+      "title": "System identification and control of a small-scale paramotor",
+      "year": 2013,
+      "citation_raw": "[IEEE] [bib] System identification and control of a small-scale paramotor Jack Umenberger, Ali H. Göktogan. ICRA, 2013.",
+      "source_url": "https://umenberger.github.io/publications"
+    }
+  ]
 }

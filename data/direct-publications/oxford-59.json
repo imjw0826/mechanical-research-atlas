@@ -3,30 +3,17 @@
   "university_key": "oxford",
   "pi": "David Howey",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:50:34.436Z",
-  "coverage_notes": [
-    "Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume.",
-    {
-      "discovered_links": [
-        {
-          "text": "Battery Intelligence Lab",
-          "url": "https://howey.eng.ox.ac.uk/"
-        }
-      ]
-    },
-    {
-      "identity_evidence": {
-        "url": "https://eng.ox.ac.uk/people/david-howey",
-        "visible_name_line": "David Howey MA MEng PhD FIEEE",
-        "following_lines": [
-          "PROFESSOR",
-          "Professor of Engineering Science"
-        ]
-      }
-    }
+  "lab_url": "https://eng.ox.ac.uk/people/david-howey",
+  "publication_urls": [
+    "https://eng.ox.ac.uk/people/david-howey",
+    "https://howey.eng.ox.ac.uk/",
+    "https://battery-intelligence-lab.github.io/publications/"
   ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
   "status": "partial",
   "papers": []
 }

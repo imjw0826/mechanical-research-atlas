@@ -5,7 +5,11 @@
   "lab_name": null,
   "lab_url": "https://sandlab.mit.edu/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/sapsis@MIT.EDU"
+    "https://sandlab.mit.edu/",
+    "https://meche.mit.edu/people/faculty/sapsis@MIT.EDU",
+    "http://sandlab.mit.edu/index.php/publications",
+    "https://sandlab.mit.edu/publications-list/",
+    "https://www.climatechange.ai/papers/neurips2022/65"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/sapsis@MIT.EDU",
   "discovered_links": [
@@ -35,11 +39,8 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
-    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
   "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
   "status": "partial",
   "papers": []

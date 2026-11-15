@@ -5,56 +5,63 @@
   "lab_name": null,
   "lab_url": "https://www.ntu.edu.sg/sj-ntu/our-people/lab-management",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "visibleTXT": "/Users/garden/Documents/formyresearch/data/direct-publications/ntu-1.visible.txt",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00652",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli",
-      "identity_evidence": "Prof Alessandro Romagnoli",
-      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
-      "website_links": [
-        {
-          "label": "Website",
-          "url": "https://www.linkedin.com/in/alessandro-romagnoli-71289233/?originalSubdomain=sg"
-        },
-        {
-          "label": "Website",
-          "url": "https://scholar.google.com.sg/citations?user=D8IpDBAAAAAJ&hl=en"
-        },
-        {
-          "label": "Website",
-          "url": "https://www.scopus.com/authid/detail.uri?authorId=36137836700"
-        },
-        {
-          "label": "Website",
-          "url": "http://www.medsventure.com"
-        }
-      ]
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.",
-    "Actual browser traversal of MEDS company homepage/About navigation and official SJ-NTU laboratory Management page. No Publications navigation found; further thermal-energy-group discovery remains unresolved. No repository papers imported.",
-    {
-      "source_page_manifest": [
-        {
-          "source_url": "https://www.medsventure.com/",
-          "captured_at": "2026-11-12T13:52:28.602Z",
-          "note": "Profile-linked company website; navigation contains no Publications section."
-        },
-        {
-          "source_url": "https://www.ntu.edu.sg/sj-ntu/our-people/lab-management",
-          "captured_at": "2026-11-12T13:52:28.633Z",
-          "note": "Official corporate laboratory Management and Admin page with Romagnoli co-director identity and site navigation."
-        }
-      ],
-      "visible_txt": "/Users/garden/Documents/formyresearch/data/direct-publications/ntu-1.visible.txt"
-    }
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "A comprehensive review on sub-zero temperature cold thermal energy storage materials, technologies, and applications: State of the art and recent developments",
+      "year": 2021,
+      "citation_raw": "L. Yang**, U. Villalobos, B. Akhmetov, A. Gil, J.O. Khor, A, Palacios, Y. Li, Y. Ding, L.F. Cabeza, W.L. Tan, A. Romagnoli, “A comprehensive review on sub-zero temperature cold thermal energy storage materials, technologies, and applications: State of the art and recent developments”, APPLIED ENERGY, 116555, 2021",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications"
+    },
+    {
+      "title": "Innovative cryogenic Phase Change Material (PCM) based cold thermal energy storage for Liquid Air Energy Storage (LAES) – Numerical dynamic modelling and experimental study of a packed bed unit",
+      "year": 2021,
+      "citation_raw": "A. Tafone, E. Borri, L.F.. Cabeza, A. Romagnoli, Innovative cryogenic Phase Change Material (PCM) based cold thermal energy storage for Liquid Air Energy Storage (LAES) – Numerical dynamic modelling and experimental study of a packed bed unit, APPLIED ENERGY, 301., 117417, 2021",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications"
+    },
+    {
+      "title": "Optimized integration of Hydrogen technologies in Island energy systems",
+      "year": 2021,
+      "citation_raw": "Nastasi, B., Mazzoni, S., Groppi, D., Garcia, D.A., Optimized integration of Hydrogen technologies in Island energy systems, RENEWABLE ENERGY, 174, 850-864, 2021",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications"
+    },
+    {
+      "title": "Thermal performance enhancement of eutectic PCM laden with functionalised graphene nanoplatelets for an efficient solar absorption cooling storage system",
+      "year": 2021,
+      "citation_raw": "R.P. Singh**, J.Y. Sze, S.C. Kaushik, D. Rakshit, A. Romagnoli, “Thermal performance enhancement of eutectic PCM laden with functionalised graphene nanoplatelets for an efficient solar absorption cooling storage system”, JOURNAL OF ENERGY STORAGE, 33, 102092, 2021",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications"
+    },
+    {
+      "title": "New parametric performance maps for a novel sizing and selection methodology of a Liquid Air Energy Storage System",
+      "year": 2019,
+      "citation_raw": "A. Tafone*, E. Borri, G. Comodi, A. Romagnoli, “New parametric performance maps for a novel sizing and selection methodology of a Liquid Air Energy Storage System”, APPLIED ENERGY, Vol. 250, pp. 1641-1656, 2019",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications"
+    },
+    {
+      "title": "Energy storage technologies as techno-economic parameters for master-planning and optimal dispatch in smart multi energy systems",
+      "year": 2019,
+      "citation_raw": "Mazzoni S., Ooi S., Nastasi B., Romagnoli, A. (2019). Energy storage technologies as techno-economic parameters for master-planning and optimal dispatch in smart multi energy systems. Applied Energy , 254, 113682.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications"
+    },
+    {
+      "title": "Thermal power fluctuations in waste heat to power systems: an overview on the challenges and current solutions",
+      "year": 2018,
+      "citation_raw": "M. Jimenez-Arreola*, R. Pili, F. al Magro, S. Rajoo, A. Romagnoli, “Thermal power fluctuations in waste heat to power systems: an overview on the challenges and current solutions”, APPLIED THERMAL ENGINEERING, Vol.134, pp. 576-584, 2018",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications"
+    },
+    {
+      "title": "Application of material assessment methodology in latent heat thermal energy storage for waste heat recovery",
+      "year": 2017,
+      "citation_raw": "H.X. Xu*, A. Romagnoli, J.Y. Sze, X. Py, “Application of material assessment methodology in latent heat thermal energy storage for waste heat recovery”, APPLIED ENERGY, Vol.187, pp. 281-290, 2017",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications"
+    }
+  ]
 }

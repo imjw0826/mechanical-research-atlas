@@ -8,9 +8,9 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
 출처: <https://meche.mit.edu/people/faculty/rohan@mit.edu>
 
@@ -286,17 +286,21 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:50:07.075Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/wardle@mit.edu>
 
 ## MIT — Christopher Wiernicki
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:50:08.235Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/profcjw@mit.edu>
 
 ## MIT — Amos Winter
 
@@ -1172,13 +1176,773 @@
 
 ## MIT — Xuanhe Zhao
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 190건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/zhaox@mit.edu>
+출처: <http://zhao.mit.edu/all-papers/>
+
+1. 196. Xiao-Yun Yan, Shucong Li, Won Jun Song, Runze Li, Aarosh Dahal, Bastien F. G. Aymon, Haodong Hu, Deep K. Malu, Gabriella E. Carreira, Jingjing Wu, Gengxi Lu, Bolei Deng, Jiayi Liu, Siqin Yu, Shu Wang, Eric Lu, Hyunhee Lee, Hui Xu, Anqi Chen, Yuxing Yao, James H. Zhang, Chen Gong, Yiyuan Sun, Jeong-Yun Sun, David A. Weitz, Casey O’Brien, Yuhang Hu, Zachary P. Smith, Aditya Kumar and Xuanhe Zhao. Air-permeable hydrogels through viscoelastic phase separation of aerogels, Nature 655, 372-382 (2026). MIT NEWS
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 194. Carlos D. Díaz-Marín, Chad T. Wilson, Won Jun Song, Xiao-Yun Yan, Yuran Shi, Shucong Li, Chang Liu, Emily Lin, Yang Zhong, Lorenzo Masetti and Xuanhe Zhao*. Long-term stability of moisture-capturing hydrogels by preventing metal-mediated degradation, Nature communications 17, Article number: 3783 (2026)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 193. Gengxi Lu, SeongHyeon Kim, Xiaoyu Chen, Yushun Zeng, Dian Li, Shu Wang, Baoqiang Liu, Shucong Li, Runze Li, Bolei Deng, Junhang Zhang, Chen Gong, Anantha P. Chandrakasan, Qifa Zhou, and Xuanhe Zhao*. Hand racking using wearable wrist imaging, Nature electronics 9 426-440, (2026). MIT News
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 192. Nicolas Castro, Ronald Heisser, Maheera Bawa, Bastien Aymon, Sarah Wu, Annika Marschner, Sonika Kohli, Angel Bu, Laura Rosado, Martin Culpepper, Xuanhe Zhao, and Ritu Raman*. Biohybrid Tendons Enhance the Power-to-Weight Ratio and Modularity of Muscle-Powered Robots. Advanced Science, e12680 (2026).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 191. Chase M. Hartquist, Sanketh Challagulla, Shu Wang, Bolei Deng, Gareth H. McKinley, and Xuanhe Zhao*. Extraordinarily high fractocohesive lengths in polymer-like networks. Mathematics and Mechanics of Solids, 10812865261420397 (2026).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 192. Nicolas Castro, Ronald Heisser, Maheera Bawa, Bastien Aymon, Sarah Wu, Annika Marschner, Sonika Kohli, Angel Bu, Laura Rosado, Martin Culpepper, Xuanhe Zhao, and Ritu Raman*. Biohybrid Tendons Enhance the Power-to-Weight Ratio and Modularity of Muscle-Powered Robots. Advanced Science, e12680 (2026). 191. Chase M. Hartquist, Sanketh Challagulla, Shu Wang, Bolei Deng, Gareth H. McKinley, and Xuanhe Zhao*. Extraordinarily high fractocohesive lengths in polymer-like networks. Mathematics and Mechanics of Solids, 10812865261420397 (2026). 190. Shu Wang, Weikang Xian, Chase M. Hartquist, Ying Li* and Xuanhe Zhao*. The Loop-Opening Model for the Intrinsic Fracture Energy of Elastomers. Macromolecules 58, 6709-6717 (2025).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 189. Nicolas Castro#, Ronald Heisser, Maheera Bawa, Bastien Aymon, Sarah Wu, Annika Marschner, Sonika Kohli, Angel Bu, Laura Rosado, Martin Culpepper, Xuanhe Zhao, and Ritu Raman*. Biohybrid Tendons Enhance the Power-to-Weight Ratio and Modularity of Muscle-Powered Robots. Advanced Science, e12680 (2025). MIT News.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 189. Nicolas Castro#, Ronald Heisser, Maheera Bawa, Bastien Aymon, Sarah Wu, Annika Marschner, Sonika Kohli, Angel Bu, Laura Rosado, Martin Culpepper, Xuanhe Zhao, and Ritu Raman*. Biohybrid Tendons Enhance the Power-to-Weight Ratio and Modularity of Muscle-Powered Robots. Advanced Science, e12680 (2025). MIT News. 188. Hyunmin Moon#, Bastien FG Aymon, Jue Deng, Tao Zhou, Vincent Prevosto, Fan Wang, Jingjing Wu*, and Xuanhe Zhao*. Adhesive nonfibrotic bioelectronic interfaces on diverse peripheral nerves for long-term functional neuromodulation. Science Advances 11, eadz3668 (2025). MIT News.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 187. Chang Liu#, Xiao-Yun Yan#, Shucong Li#, Hongshi Zhang, Bolei Deng, Nicholas X. Fang, Youssef Habibi, Shihchi Chen and Xuanhe Zhao*. A metre-scale vertical origami hydrogel panel for atmospheric water harvesting in Death Valley. Nature Water 3, 714-722 (2025). MIT News.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 186. Chase Hartquist#, Shu Wang#, Qiaodong Cui, Wojciech Matusik, Bolei Deng*, and Xuanhe Zhao*. Scaling Law for Intrinsic Fracture Energy of Diverse Stretchable Networks. Physics Review X 15, 011002 (2025). MIT News. Physics Synopsis.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 185. Chase M. Hartquist, Shu Wang, Bolei Deng, Haley K. Beech, Stephen L. Craig, Bradley D. Olsen, Michael Rubinstein, and Xuanhe Zhao*. Fracture of polymer-like networks with hybrid bond strengths. Journal of the Mechanics and Physics of Solids 195, 105931 (2025).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 185. Chase M. Hartquist, Shu Wang, Bolei Deng, Haley K. Beech, Stephen L. Craig, Bradley D. Olsen, Michael Rubinstein, and Xuanhe Zhao*. Fracture of polymer-like networks with hybrid bond strengths. Journal of the Mechanics and Physics of Solids 195, 105931 (2025). 184. Chase Hartquist, Shu Wang, and Xuanhe Zhao*. Local volume changes in deformed elastomers with mobile chains, Proceedings of the National Academy of Sciences 121, e2410811121 (2024).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 183. Chase M. Hartquist, Buxuan Li, James H. Zhang, Zhaohan Yu, Guangxin Lv, Jungwoo Shin, Svetlana V. Boriskina, Gang Chen*, Xuanhe Zhao*, and Shaoting Lin*, Reversible two-way tuning of thermal conductivity in an end-linked star-shaped thermoset, nature communications 15, 5590 (2024).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 182. Chonghe Wang, and Xuanhe Zhao. See how your body works in real time—wearable ultrasound is on its way, Nature 630, 817-819 (2024).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 181. Jue Deng, Jingjing Wu, Xiaoyu Chen, Tiffany L. Sarrafian, Claudia E. Varela, William Whyte, Chuan Fei Guo, Ellen T Roche, Leigh G. Griffiths*, Hyunwoo Yuk*, Christoph S. Nabzdyk*, Xuanhe Zhao*, A bioadhesive pacing lead for atraumatic cardiac monitoring and stimulation in rodent and porcine models, Science Translational Medicine 16, eado9003 (2024).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 181. Jue Deng, Jingjing Wu, Xiaoyu Chen, Tiffany L. Sarrafian, Claudia E. Varela, William Whyte, Chuan Fei Guo, Ellen T Roche, Leigh G. Griffiths*, Hyunwoo Yuk*, Christoph S. Nabzdyk*, Xuanhe Zhao*, A bioadhesive pacing lead for atraumatic cardiac monitoring and stimulation in rodent and porcine models, Science Translational Medicine 16, eado9003 (2024). 180. Shu Wang, Chase M. Hartquist, Bolei Deng, and Xuanhe Zhao*, A Loop-Opening Model for the Intrinsic Fracture Energy of PolymerNetworks, Macromolecules 57, 6069 – 6075 (2024).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 179. Manisha Singh, Debbie L Teodorescu, Meagan Rowlett, Sophie X Wang, Mercedes Balcells, Clara Park, Bruno Bernardo, Sian McGarel, Charlotte Reeves, Mandeep R Mehra, Xuanhe Zhao, Hyunwoo Yuk, Ellen T Roche, A Tunable Soft Silicone Bioadhesive for Secure Anchoring of Diverse Medical Devices to Wet Biological Tissue, Advanced Materials 36, 2307288 (2024).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 178. Stephanie Fuchs, Julia S Caserto, Qingsheng Liu, Kecheng Wang, Kaavian Shariati, Chase M Hartquist, Xuanhe Zhao, Minglin Ma, A Glucose‐responsive Cannula for Automated and Electronics‐free Insulin Delivery, Advanced Materials 36, 2403594 (2024).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 177. Camilo Duque Londono, Seth F Cones, Jue Deng, Jingjing Wu, Hyunwoo Yuk, David E Guza, T Aran Mooney, Xuanhe Zhao Bioadhesive interface for marine sensors on diverse soft fragile species, Nature Communications 15, 2958 (2024).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 176. Jingjing Wu, Jue Deng, Georgios Theocharidis, Tiffany L. Sarrafian, Leigh G. Griffiths, Roderick T. Bronson, Aristidis Veves, Jianzhu Chen, Hyunwoo Yuk* and Xuanhe Zhao*, Adhesive anti-fibrotic interfaces on diverse organs, Nature 630, 360-367 (2024).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 175. Hsiao- Chuan Liu*, Yushun Zeng, Chen Gong, Xiaoyu Chen, Piotr Kijanka, Junhang Zhang, Yuri Genyk, Hisham Tchelepi, Chonghe Wang, Qifa Zhou*, Xuanhe Zhao*, Wearable bioadhesive ultrasound shear wave elastography, Science Advances 10, eadk8426 (2024)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 174. Sarah J. Wu, Jingjing Wu, Samuel J. Kaser, Heejung Roh, Ruth D. Shiferaw, Hyunwoo Yuk*, Xuanhe Zhao*, A 3D printable tissue adhesive, Nature Communications 15, 1215 (2024)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 173. Chase M. Hartquist#, Shaoting Lin#, James H. Zhang, Shu Wang, Michael Rubinstein*, Xuanhe Zhao*, An elastomer with ultrahigh strain-induced crystallization, Science Advances. 9, eadj0411 (2023)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 172. Bolei Deng, Shu Wang, Chase Hartquist, Xuanhe Zhao*, Nonlocal Intrinsic Fracture Energy of Polymerlike Networks, Phys. Rev. Lett. 131, 228102 (2023)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 171. Sarah Wu*, Xuanhe Zhao*, Bioadhesive Technology Platforms, Chemical Reviews (2023)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 170. Xinyue Liu*, Siyuan Rao*, Weixuan Chen, Kayla Felix, Jiahua Ni, Atharva Sahasrabudhe, Shaoting Lin, Qianbin Wang, Yuanyuan Liu, Zhigang He, Jingyi Xu, Sizhe Huang, Eunji Hong, Todd Yau, Polina Anikeeva* & Xuanhe Zhao*, Fatigue-resistant hydrogel optical fibers enable peripheral nerve optogenetics during locomotion, Nature Methods 20, 1802–1809 (2023)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 170. Xinyue Liu*, Siyuan Rao*, Weixuan Chen, Kayla Felix, Jiahua Ni, Atharva Sahasrabudhe, Shaoting Lin, Qianbin Wang, Yuanyuan Liu, Zhigang He, Jingyi Xu, Sizhe Huang, Eunji Hong, Todd Yau, Polina Anikeeva* & Xuanhe Zhao*, Fatigue-resistant hydrogel optical fibers enable peripheral nerve optogenetics during locomotion, Nature Methods 20, 1802–1809 (2023) 169. Amir Hossein Rahmati, Rong Jia, Kai Tan, Liping Liu, Xuanhe Zhao, Qian Deng, Pradeep Sharma*, Giant magnetoelectricity in soft materials using hard magnetic soft materials, Materials Today Physics 31, 100969 (2023)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 168. Amir Hossein Rahmati, Rong Jia, Kai Tan, Xuanhe Zhao, Qian Deng, Liping Liu, Pradeep Sharma*, Theory of hard magnetic soft materials to create magnetoelectricity, Journal of the Mechanics and Physics of Solids 171, 105136 (2023)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 167. Yifei Luo et al, Technology Roadmap for Flexible Sensors, ACS Nano 17, 5211–5295 (2023)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 166. Xuanhe Zhao*, A bioadhesive robot to activate muscles, Nature Materials 22, 149–150 (2023)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 165. Tao Zhou#, Hyunwoo Yuk#*, Faqi Hu, JingJing Wu, Fajuan Tian, Heejung Roh, Zequn Shen, Guoying Gu, Jingkun Xu, Baoyang Lu*, Xuanhe Zhao*, 3D printable high-performance conducting polymer hydrogel for all-hydrogel bioelectronic interfaces, Nature Materials 22, 895–902 (2023). Nature Materials Perspective, MIT News
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 164. Di Wang#, Sushila Maharjan#, Xiao Kuang#, Zixuan Wang, Luis S. Mille, Ming Tao, Peng Yu, Xia Cao, Liming Lian, Li Lv, Jacqueline Jialu He, Guosheng Tang, Hyunwoo Yuk, C. Keith Ozaki*, Xuanhe Zhao*, Yu Shrike Zhang*, Microfluidic bioprinting of tough hydrogel-based vascular conduits for functional blood vessels, Science Advances 8(43), eabq6900 (2022).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 164. Di Wang#, Sushila Maharjan#, Xiao Kuang#, Zixuan Wang, Luis S. Mille, Ming Tao, Peng Yu, Xia Cao, Liming Lian, Li Lv, Jacqueline Jialu He, Guosheng Tang, Hyunwoo Yuk, C. Keith Ozaki*, Xuanhe Zhao*, Yu Shrike Zhang*, Microfluidic bioprinting of tough hydrogel-based vascular conduits for functional blood vessels, Science Advances 8(43), eabq6900 (2022). 163. Shaoting Lin, Camilo Duque Londono, Dongchang Zheng, Xuanhe Zhao*, An extreme toughening mechanism for soft materials, Soft Matter 18, 5742-5749 (2022).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 162. Chonghe Wang#, Xiaoyu Chen#, Liu Wang, Mitsutoshi Makihata, Hsiao-Chuan Liu, Tao Zhou, Xuanhe Zhao*, Bioadhesive ultrasound for long-term continuous imaging of diverse organs, Science 377, 2605 (2022). Science Perspective, Altmetric score, MIT News, MIT Spotlight, Summary Video, STAT report.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 161. Shaoting Lin, Xuanhe Zhao*, Nanostructured Artificial-Muscle Fibers, Nature Nanotechnology 17, 677–678 (2022).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 160. Hyunwoo Yuk*, Jingjing Wu, Xuanhe Zhao*, Hydrogel Interfaces for Merging Humans and Machines, Nature Review Materials, 7, 935–952 (2022).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 159. Georgios Theocharidis#, Hyunwoo Yuk*#, Heejung Roh#, Liu Wang#, Ikram Mezghani, Jingjing Wu, Antonios Kafanas, Mauricio Contreras, Brandon Sumpio, Zhuqing Li, Enya Wang, Lihong Chen, Chuan Fei Guo, Navin Jayaswal, Xanthi-Leda Katopodi, Nikolaos Kalavros, Christoph S. Nabzdyk, Ioannis S. Vlachos, Aristidis Veves*, Xuanhe Zhao*, A strain-programmed patch for the healing of diabetic wounds, Nature Biomedical Engineering (2022).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 159. Georgios Theocharidis#, Hyunwoo Yuk*#, Heejung Roh#, Liu Wang#, Ikram Mezghani, Jingjing Wu, Antonios Kafanas, Mauricio Contreras, Brandon Sumpio, Zhuqing Li, Enya Wang, Lihong Chen, Chuan Fei Guo, Navin Jayaswal, Xanthi-Leda Katopodi, Nikolaos Kalavros, Christoph S. Nabzdyk, Ioannis S. Vlachos, Aristidis Veves*, Xuanhe Zhao*, A strain-programmed patch for the healing of diabetic wounds, Nature Biomedical Engineering (2022). 158. Yoonho Kim, Emily Genevriere, Pablo Harker, Jaehun Choe, Marcin Balicki, Robert W Regenhardt, Justin Vranic, Adam Dmytriw, Aman Patel, Xuanhe Zhao*, Telerobotic neurovascular interventions with magnetic manipulation, Science Robotics 7, eabg9907 (2022). MIT News. Summary Video.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 157. Xinyue Liu, Maria Eugenia Inda, Yong Lai, Timothy K. Lu, and Xuanhe Zhao*, Engineered Living Hydrogels, Advanced Materials 202201326 (2022).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 156. Liu Wang, Chuan Fei Guo, Xuanhe Zhao*, Magnetic soft continuum robots with contact forces, Extreme Mechanics Letters 51, 101604 (2022).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 155. Dongchang Zheng#, Shaoting Lin#, Jiahua Ni, Xuanhe Zhao*, Fracture and fatigue of entangled and unentangled polymer networks, Extreme Mechanics Letters 51, 101608 (2022).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 154. Jingjing Wu#, Hyunwoo Yuk#*, Tiffany L. Sarrafian, Chuan Fei Guo, Leigh G. Griffiths*, Christoph S. Nabzdyk*, Xuanhe Zhao*, An off-the-shelf bioadhesive patch for sutureless repair of gastrointestinal defects, Science Translational Medicine 14, eabh2857 (2022).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 153. Yoonho Kim*, Xuanhe Zhao*, Magnetic Soft Materials and Robots, Chemical Reviews 122 (5) 5317-5364 (2022). LaTeX version
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 152. Philipp Rothemund, Yoonho Kim, Ronald H. Heisser, Xuanhe Zhao, Robert F. Shepherd & Christoph Keplinger*, “Shaping the future of robotics through materials innovation," Nature Materials 20, 1582–1587 (2021).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 151. Guoying Gu#*, Ningbin Zhang#, Haipeng Xu, Shaoting Lin, Yang Yu, Guohong Chai, Lisen Ge, Houle Yang, Qiwen Shao, Xinjun Sheng, Xiangyang Zhu#*, Xuanhe Zhao#*, A soft neuroprosthetic hand providing simultaneous myoelectric control and tactile feedback, Nature Biomedical Engineering (2021). MIT News. MIT Spotlight.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 150. Hyunwoo Yuk#*, Jingjing Wu#, Tiffany L. Sarrafian, Xinyu Mao, Claudia E. Varela, Ellen T. Roche, Leigh G. Griffiths, Christoph S. Nabzdyk*, Xuanhe Zhao*, Rapid and coagulation-independent haemostatic sealing by a paste inspired by barnacle glue, Nature Biomedical Engineering 5, 1131–1142 (2021). MIT News. MIT Spotlight.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 151. Guoying Gu#*, Ningbin Zhang#, Haipeng Xu, Shaoting Lin, Yang Yu, Guohong Chai, Lisen Ge, Houle Yang, Qiwen Shao, Xinjun Sheng, Xiangyang Zhu#*, Xuanhe Zhao#*, A soft neuroprosthetic hand providing simultaneous myoelectric control and tactile feedback, Nature Biomedical Engineering (2021). MIT News. MIT Spotlight. 150. Hyunwoo Yuk#*, Jingjing Wu#, Tiffany L. Sarrafian, Xinyu Mao, Claudia E. Varela, Ellen T. Roche, Leigh G. Griffiths, Christoph S. Nabzdyk*, Xuanhe Zhao*, Rapid and coagulation-independent haemostatic sealing by a paste inspired by barnacle glue, Nature Biomedical Engineering 5, 1131–1142 (2021). MIT News. MIT Spotlight. 149. Shaoting Lin*, Yueying Yang, Jiahua Ni, Yoichiro Tsurimaki, Xinyue Liu, Baoyang Lu, Yaodong Tu, Jiawei Zhou, Xuanhe Zhao*, Gang Chen*, Stretchable Anti-Fogging Tapes for Diverse Transparent Materials, Advanced Functional Materials 31, 2103551 (2021).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 148. Shaoting Lin, Jiahua Ni, Dongchang Zheng, Xuanhe Zhao*, Fracture and fatigue of ideal polymer networks, Extreme Mechanics Letter 48, 101399 (2021).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 147. Liu Wang, Dongchang Zheng, Pablo Harker, Aman B. Patel, Chuan Fei Guo, and Xuanhe Zhao*, Evolutionary design of magnetic soft continuum robots, Proceedings of the National Academy of Sciences 118, e2021922118 (2021).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 146. Seongjun Park#, Hyunwoo Yuk#, Ruike Zhao, Yeong Shin Yim, Eyob W. Woldeghebriel, Jeewoo Kang, Andres Canales, Yoel Fink, Gloria B. Choi, Xuanhe Zhao*, Polina Anikeeva*, Adaptive and multifunctional hydrogel hybrid probes for long-term sensing and modulation of neural activity, Nature Communications 18, 3435 (2021).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 145. Xinyue Liu#, Yang, Yueying#, Maria Eugenia Inda#, Shaoting Lin, Jingjing Wu, Yoonho Kim, Xiaoyu Chen, Dacheng Ma, Timothy K. Lu, Xuanhe Zhao*, Magnetic Living Hydrogels for Intestinal Localization, Retention, and Diagnosis, Advanced Functional Materials 31, 2010918 (2021).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 144. Jiahua Ni#, Shaoting Lin#, Zhao Qin, David Veysset, Xinyue Liu, Yuchen Sun, Alex J Hsieh, Raul Radovitzky, Keith A Nelson, Xuanhe Zhao*, Strong fatigue-resistant nanofibrous hydrogels inspired by lobster underbelly, Matter 4, 1919-1934 (2021).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 143. Xuanhe Zhao*, Xiaoyu Chen#, Hyunwoo Yuk#, Shaoting Lin#, Xinyue Liu, and German Parada, Soft Materials by Design: Unconventional Polymer Networks Give Extreme Properties, Chemical Reviews 121, 4309–4372 (2021).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 142. Grace S.S. Goon, Omar Labban, Zi Hao Foo, Xuanhe Zhao, John H. Lienhard*, Deformation-induced cleaning of organically fouled membranes: Fundamentals and techno-economic assessment for spiral-wound membranes, Journal of Membrane Science 626, 119169 (2021).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 141. Tzu-Chieh Tang#*, Eléonore Tham#, Xinyue Liu#, Kevin Yehl, Alexis J. Rovner, Hyunwoo Yuk, Cesar de la Fuente-Nunez, Farren J. Isaacs, Xuanhe Zhao* & Timothy K. Lu*, Hydrogel-based biocontainment of bacteria for continuous sensing and computation, Nature Chemical Biology 17, 724–731(2021).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 140. Sarah J. Wu#, Hyunwoo Yuk#, Jingjing Wu, Christoph S. Nabzdyk, Xuanhe Zhao*, A Multifunctional Origami Patch for Minimally Invasive Tissue Sealing, Advanced Materials 33, 2007667 (2021).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 141. Tzu-Chieh Tang#*, Eléonore Tham#, Xinyue Liu#, Kevin Yehl, Alexis J. Rovner, Hyunwoo Yuk, Cesar de la Fuente-Nunez, Farren J. Isaacs, Xuanhe Zhao* & Timothy K. Lu*, Hydrogel-based biocontainment of bacteria for continuous sensing and computation, Nature Chemical Biology 17, 724–731(2021). 140. Sarah J. Wu#, Hyunwoo Yuk#, Jingjing Wu, Christoph S. Nabzdyk, Xuanhe Zhao*, A Multifunctional Origami Patch for Minimally Invasive Tissue Sealing, Advanced Materials 33, 2007667 (2021). 139. Shaoting Lin, Xuanhe Zhao*, Fracture of polymer networks with diverse topological defects, Physical Review E 102, 052503, (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 138. Erqian Dong, Zhongchang Song, Yu Zhang*, Shahrzad Ghaffari Mosanenzadeh , Qi He, Xuanhe Zhao, Nicholas X. Fang*, Bioinspired metagel with broadband tunable impedance matching, Science Advances 6, eabb3641 (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 137. Jue Deng#, Hyunwoo Yuk#, Jingjing Wu, Claudia E. Varela, Xiaoyu Chen, Ellen T. Roche, Chuan Fei Guo*, Xuanhe Zhao*, Electrical bioadhesive interface for bioelectronics, Nature Materials 20, 229–236 (2021). Published online 28 September 2020.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 136. Jiawei Zhou, Shaoting Lin, Hongxia Zeng, Ji Liu, Buxuan Li, Yanfei Xu, Xuanhe Zhao*, Gang Chen*, Dynamic intermolecular interactions through hydrogen bonding of water promote heat conduction in hydrogels, Material Horizons 7, 2936-2943 (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 135. German Parada#, Yan Yu#, William Riley, Sarah Lojovich, Diane Tshikudi, Qing Ling, Yefang Zhang, Jiaxin Wang, Lei Ling, Yueying Yang, Seemantini Nadkarni, Christoph Nabzdyk#*, Xuanhe Zhao*, Ultrathin and Robust Hydrogel Coatings on Cardiovascular Medical Devices to Mitigate Thromboembolic and Infectious Complications, Advanced Healthcare Materials 9, 2001116 (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 135. German Parada#, Yan Yu#, William Riley, Sarah Lojovich, Diane Tshikudi, Qing Ling, Yefang Zhang, Jiaxin Wang, Lei Ling, Yueying Yang, Seemantini Nadkarni, Christoph Nabzdyk#*, Xuanhe Zhao*, Ultrathin and Robust Hydrogel Coatings on Cardiovascular Medical Devices to Mitigate Thromboembolic and Infectious Complications, Advanced Healthcare Materials 9, 2001116 (2020). 134. Sui Zhang*, Shaoting Lin, Xuanhe Zhao, Rohit Karnik*, Thermodynamic analysis and material design to enhance chemo-mechanical coupling in hydrogels for energy harvesting from salinity gradients, Journal of Applied Physics 128, 044701 (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 133. Xiaoyu Chen#, Hyunwoo Yuk#, Jingjing Wu, Christoph S. Nabzdyk, Xuanhe Zhao*, Instant tough bioadhesive with triggerable benign detachment, Proceedings of the National Academy of Sciences 117, 15497-15503 (2020). SM and Videos. MIT News. MIT Spotlight.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 132. Liu Wang#, Yoonho Kim#, Chuanfei Guo, Xuanhe Zhao*, Hard-magnetic elastica, Journal of the Mechanics and Physics of Solids 142, 104045 (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 131. Xuanhe Zhao*, EML webinar overview: Extreme mechanics of soft materials for merging human-machine intelligence, Extreme Mechanics Letters 39, 100784 (2020). Webinar video on YouTube and Weibo.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 130. Yunwei Mao#, Qi He#, Xuanhe Zhao*, Designing complex architectured materials with generative adversarial networks, Science Advances 6, eaaz4169 (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 129. Hyunwoo Yuk#, Baoyang Lu#, Shen Lin, Kai Qu, Jingkun Xu, Jianhong Luo, Xuanhe Zhao*, 3D printing of conducting polymers, Nature Communications 11, 1604 (2020). MIT News, Behind the Paper.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 128. Akihisa Inoue#, Hyunwoo Yuk#, Baoyang Lu, Xuanhe Zhao*, Strong adhesion of wet conducting polymers on diverse substrates, Science Advances 6, eaay5394 (2020). MIT News.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 127. Ji Liu#, Shaoting Lin#, Xinyue Liu#, Zhao Qin#, Yueying Yang, Jianfeng Zang*, Xuanhe Zhao*, Fatigue-resistant adhesion of hydrogels, Nature Communications 11, 1071 (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 126. Clara Park, Yiling Fan, Gregor Hager, Hyunwoo Yuk, Manisha Singh, Allison Rojas, Aamir Hameed, Mossab Saeed, Nikolay V. Vasilyev, Terry W. J. Steele, Xuanhe Zhao, Christopher T. Nguyen* and Ellen T. Roche*, An organosynthetic dynamic heart model with enhanced biomimicry guided by cardiac diffusion tensor imaging, Science Robotics 5, eaay9106 (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 126. Clara Park, Yiling Fan, Gregor Hager, Hyunwoo Yuk, Manisha Singh, Allison Rojas, Aamir Hameed, Mossab Saeed, Nikolay V. Vasilyev, Terry W. J. Steele, Xuanhe Zhao, Christopher T. Nguyen* and Ellen T. Roche*, An organosynthetic dynamic heart model with enhanced biomimicry guided by cardiac diffusion tensor imaging, Science Robotics 5, eaay9106 (2020). 125. Xinyue Liu, Ji Liu, Shaoting Lin, Xuanhe Zhao*, Hydrogel machines, Materials Today 36, 102-124 (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 124. Ningning Bai#, Liu Wang#, Qi Wang, Jue Deng, Yan Wang, Peng Lu, Jun Huang, Gang Li, Yuan Zhang, Junlong Yang, Kewei Xie, Xuanhe Zhao, Chuan Fei Guo*, Graded intrafillable architecture-based iontronic pressure sensor with ultra-broad-range high sensitivity, Nature Communications 11, 209 (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 123. Xinyu Mao, Hyunwoo Yuk, Xuanhe Zhao*, Hydration and swelling of dry polymers for wet adhesion, Journal of the Mechanics and Physics of Solids 137, 103863 (2020).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 122. Xuanhe Zhao*, Yoonho Kim, Soft microbots controlled by nanomagnets, Nature 575, 58-59 (2019) ABAQUS Code and Discussion.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 121. Yoonho Kim, German A. Parada, Shengduo Liu, Xuanhe Zhao*, Ferromagnetic soft continuum robots, Science Robotics 4, eaax7329 (2019). ABAQUS Code and Discussion, MIT News, MIT Spotlight, Nature Highlight (Web), Nature Highlight (Paper).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 120. Jiliang Hu, Yiwei Li, Yukun Hao, Tianqi Zheng, Satish K. Gupta, German Alberto Parada, Huayin Wu, Shaoting Lin, Shida Wang, Xuanhe Zhao, Robert D. Goldman, Shengqiang Cai, and Ming Guo*, High stretchability, strength, and toughness of living cells enabled by hyperelastic vimentin intermediate filaments, Proceedings of the National Academy of Sciences 116, 17175-17180 (2019).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 120. Jiliang Hu, Yiwei Li, Yukun Hao, Tianqi Zheng, Satish K. Gupta, German Alberto Parada, Huayin Wu, Shaoting Lin, Shida Wang, Xuanhe Zhao, Robert D. Goldman, Shengqiang Cai, and Ming Guo*, High stretchability, strength, and toughness of living cells enabled by hyperelastic vimentin intermediate filaments, Proceedings of the National Academy of Sciences 116, 17175-17180 (2019). 119. Bianca Giovanardi, Adam A. Sliwiak, Anwar Koshakji, Shaoting Lin, Xuanhe Zhao, Raúl Radovitzky*, A path-following simulation-based study of elastic instabilities in nearly-incompressible confined cylinders under tension, Journal of the Mechanics and Physics of Solids 131, 252-275 (2019).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 118. Shaoting Lin#, Ji Liu#, Xinyue Liu, Xuanhe Zhao*, Muscle-like fatigue-resistant hydrogels by mechanical training, Proceedings of the National Academy of Sciences 116, 10244-10249 (2019).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 117. Yan Yu#, Hyunwoo Yuk#, German A. Parada#, You Wu, Xinyue Liu, Christoph S. Nabzdyk, Kamal Youcef-Toumi, Jianfeng Zang, Xuanhe Zhao*, Multifunctional “Hydrogel Skins” on Diverse Polymers with Arbitrary Shapes, Advanced Materials 31, 1807101 (2019).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 116. Hyunwoo Yuk#, Baoyang Lu#, Xuanhe Zhao*, Hydrogel Bioelectronics, Chemical Society Review 48, 1642-1667 (2019).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 114. Ruike Zhao#, Yoonho Kim#, Shawn A. Chester, Pradeep Sharma, Xuanhe Zhao*, Mechanics of hard-magnetic soft materials, Journal of the Mechanics and Physics of Solids 124, 244-263 (2019). ABAQUS Code and Discussion.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 113. Shaoting Lin#, Xinyue Liu#, Ji Liu#, Hyunwoo Yuk, Hyun-Chae Loh, German A. Parada, Charles Settens, Jake Song, Admir Masic, Gareth H. McKinley, Xuanhe Zhao*, Anti-fatigue-fracture hydrogels, Science Advances 5, eaau8528 (2019).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 112. Baoyang Lu#, Hyunwoo Yuk#, Shaoting Lin, Nannan Jian, Kai Qu, Jingkun Xu, Xuanhe Zhao*, Pure PEDOT:PSS hydrogels, Nature Communications 10, 1043 (2019).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 110. Xinyue Liu, Christoph Steiger, Shaoting Lin, German A. Parada, Ji Liu, Hon Fai Chan, Hyunwoo Yuk, Nhi V. Phan, Joy Collins, Siddartha Tamang, Giovanni Traverso, Xuanhe Zhao*, Ingestible hydrogel device, Nature Communications 10, 493 (2019).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 104. Kai Zhang#, Chu Ma#, Qi He#, Shaoting Lin, Yi Chen, Yu Zhang, Nicholas X. Fang*, and Xuanhe Zhao*, Metagel with Broadband Tunable Acoustic Properties Over Air–Water–Solid Ranges, Advanced Functional Materials 29, 1903699 (2019).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 111. Guoying Gu*, Jiang Zou, Ruike Zhao, Xuanhe Zhao*, Xiangyang Zhu*, Soft Wall-Climbing Robots, Science Robotics 3, eaat2874 (2018).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 109. Evgenia Р. Gilshteyn, Shaoting Lin, Vladislav A. Kondrashov, Daria S. Kopylova, Alexey P. Tsapenko, Anton S. Anisimov, John A. Hart, Xuanhe Zhao, Albert G. Nasibulin*, A one-step method of hydrogel modification by single-walled carbon nanotubes for highly stretchable and transparent electronics, ACS Appl. Mater. Interfaces 10, 28069 (2018).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 108. Moffat, K.L., Goon, K., Moutos, F.T., Estes, B.T., Oswald, S.J., Zhao, X. and Guilak, F., Composite Cellularized Structures Created from an Interpenetrating Polymer Network Hydrogel Reinforced by a 3D Woven Scaffold. Macromolecular Bioscience 18, 1800140 (2018).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 107. Jaewoo Shim#, Sang-Hoon Bae#, Wei Kong#, Kuan Qiao#, Daniel Nezich, Ruike Zhao, Suresh Sundram, Xin Li, Kyusang Lee, Jagadeesh Moodera, Xuanhe Zhao, Christopher Hinkle, Abdallah Ougazzaden, and Jeehwan Kim*, Controlled crack propagation for atomic precision handling of wafer-scale two-dimensional materials, Science 362, 665 (2018).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 105. Hon Fai Chan, Ruike Zhao, German A. Parada, Kam W. Leong, Linda G. Griffith, Xuanhe Zhao*, Folding Artificial Mucosa with Cell-Laden Hydrogels Guided by Mechanics Models, Proceedings of the National Academy of Sciences 115, 7503 (2018). SI.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 103. Yoonho Kim#, Hunwoo Yuk#, Ruike Zhao#, Shawn Chester and Xuanhe Zhao*, Printing ferromagnetic domains for untethered fast-transforming soft materials, Nature 558, 274-279 (2018) MIT Video, Nature Video, MIT News, Nature News, MIT Spotlight, Behind the Paper, ABAQUS Code and Discussion.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 102. Ruike Zhao, Shaoting Lin, Hyunwoo Yuk, and Xuanhe Zhao*, Kirigami enhances film adhesion, Soft Matter 14, 2515 (2018). MIT Spotlight.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 99. German A. Parada, Xuanhe Zhao*, Ideal reversible polymer networks, Soft Matter 14, 5186 (2018).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 98. Shaoting Lin, Yunwei Mao, Hyunwoo Yuk, Xuanhe Zhao*, Material-Stiffening Suppresses Elastic Fingering and Fringe Instabilities, International Journal of Solids and Structures 139, 96-104 (2018).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 101. Xinyue Liu, Hyunwoo Yuk, Shaoting Lin, German Alberto Parada, Tzu-Chieh Tang, Eléonore Tham, César de la Fuente, Timothy K. Lu, Xuanhe Zhao*, 3D Printing of Living Responsive Materials and Devices, Advanced Materials, 1704821 (2017). SI, MIT report. MIT Spotlight. News. Video Abstract. Advanced Materials front cover.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 100. Xuanhe Zhao*, Designing Toughness and Strength for Soft Materials, Proceedings of the National Academy of Sciences 114, 8138-8140 (2017)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 97. German A. Parada, Hyunwoo Yuk, Xinyue Liu, Alex J. Hsieh, and Xuanhe Zhao*, Impermeable Robust Hydrogels via Hybrid Lamination, Advanced Healthcare Materials 6, 1700520 (2017). MIT report. MIT Frontpage Spotlight. Boston.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 96. Hyunwoo Yuk, Xuanhe Zhao*, A New 3D Printing Strategy by Harnessing Deformation, Instability and Fracture of Viscoelastic Inks, Advanced Materials 30, 1704028 (2018). SI.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 95. Shaoting Lin, Yunwei Mao, Raul Radovitzky, Xuanhe Zhao*, Instabilities in Confined Elastic Layers under Tension: Fringe, Fingering and Cavitation, Journal of the Mechanics and Physics of Solids 106, 229 (2017).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 94. Shengyou Yang, Xuanhe Zhao, and Pradeep Sharma*, Avoiding the pull-ininstability of a dielectric elastomer ﬁlm and the potential for increased actuation and energy harvesting, Soft Matter 13, 4552-4558 (2017).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 93. Ruike Zhao, Xuanhe Zhao*, Multimodal Surface Instabilities in Curved Film-Substrate Structures, Journal of Applied Mechanics 84, 081001 (2017).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 91. Yunwei Mao, Shaoting Lin, Xuanhe Zhao, Lallit Anand*, A large deformation viscoelastic model for double-network hydrogels, Journal of the Mechanics and Physics of Solids 100, 103–130 (2017).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 90. Xinyue Liu, Tzu-Chieh Tang, Eleonore Tham, Hyunwoo Yuk, Shaoting Lin, Timothy K. Lu*, Xuanhe Zhao*, Stretchable Living Materials and Devices with Hydrogel-Elastomer Hybrids Hosting Programmed Cells, Proceedings of the National Academy of Sciences 114, 2200–2205 (2017). News. MIT report.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 89. W. Wang, L. Yao, C. Y. Cheng, T. Zhang, H. Atsumi, G. Wang, L. Wang, O. anilionyte, H. Steiner, J. Ou, K. Zhou, C. Wawrousek, K. Petrecca, R. Karnik, X. Zhao*, D. I. C. Wang*, H. Ishii*, Harnessing the Hygroscopic and Biofluorescent Behaviors of Genetically-Tractable Microbial Cells to Design Bio-hybrid Wearables, Science Advances 3, e1601984 (2017). MIT News. Video.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 89. W. Wang, L. Yao, C. Y. Cheng, T. Zhang, H. Atsumi, G. Wang, L. Wang, O. anilionyte, H. Steiner, J. Ou, K. Zhou, C. Wawrousek, K. Petrecca, R. Karnik, X. Zhao*, D. I. C. Wang*, H. Ishii*, Harnessing the Hygroscopic and Biofluorescent Behaviors of Genetically-Tractable Microbial Cells to Design Bio-hybrid Wearables, Science Advances 3, e1601984 (2017). MIT News. Video. 87. Hyunwoo Yuk, Shaoting Lin, Chu Ma, Mahdi Takaffoli, Nicholas X. Fang, Xuanhe Zhao*, Hydraulic hydrogel actuators and robots optically and sonically camouflaged in water, Nature Communications 8, 14230 (2017). News. MIT report. Video.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 84. Mark A. Gonzalez, Joseph Simon, Ali Ghoorchian, Zachary Scholl, Shaoting Lin, Michael Rubinstein, Piotr Marszalek, Ashutosh Chilkoti, Gabriel P. López*, and Xuanhe Zhao*, Strong, tough, stretchable and self-adhesive hydrogels from intrinsically unstructured proteins, Advanced Materials, 1604743 (2017).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 84. Mark A. Gonzalez, Joseph Simon, Ali Ghoorchian, Zachary Scholl, Shaoting Lin, Michael Rubinstein, Piotr Marszalek, Ashutosh Chilkoti, Gabriel P. López*, and Xuanhe Zhao*, Strong, tough, stretchable and self-adhesive hydrogels from intrinsically unstructured proteins, Advanced Materials, 1604743 (2017). 82. Teng Zhang, Hyunwoo Yuk, Xuanhe Zhao*, Tough and Tunable Adhesion of Hydrogels: Experiments and Models, Acta Mechanica Sinica 33, 543 (2017)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 88. Jingjing Guo, Xinyue Liu, Nan Jiang, Ali K. Yetisen, Hyunwoo Yuk, Changxi Yang, Ali Khademhosseini, Xuanhe Zhao, and Seok-Hyun Yun*, Highly Stretchable, Strain Sensing Hydrogel Optical Fibers, Advanced Materials, 28, 10244 (2016) MIT spotlight, MIT News, Fox News
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 86. Shaoting Lin, Tal Cohen, Teng Zhang, Hyunwoo Yuk, Rohan Abeyaratne, Xuanhe Zhao*, Fringe Instability in Constrained Soft Elastic Layers, Soft Matter, 12, 8899 (2016)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 85. Hyunwoo Yuk, Teng Zhang, German Alberto Parada, Xinyue Liu, Xuanhe Zhao*, Skin-Inspired Hydrogel-Elastomer Hybrids, Nature Communications, 7, 12028 (2016), MIT Spotlight; MIT News; MIT Video; Boston Magazine
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 83. Phanindhar Shivapooja, Changyong Cao, Beatriz Orihuela, Vrad Levering, Xuanhe Zhao, Daniel Rittschof, Gabriel P. López*, Incorporation of Silicone Oil into Elastomers Enhances Barnacle Detachment by Active Surface Strain, Biofouling, 32, 1017-1028 (2016)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 81. Mahdi Takaffoli, Teng Zhang, David Parks, Xuanhe Zhao*, Mechanochemically Responsive Viscoelastic Elastomers, Journal of Applied Mechanics, 83, 071007 (2016)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 80. Qiming Wang*, Xuanhe Zhao*, Beyond Wrinkle: Multimodal Surface Instabilities for Multifunctional Patterning, MRS Bulletin, 41, 115 (2016) Invited review
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 77.Vrad Levering, Changyong Cao, Phanindhar Shivapooja, Howard Levinson, Xuanhe Zhao* and Gabriel P. López*, Urinary catheter capable of repeated on-demand removal of infectious biofilms via active deformation, Biomaterials, 77, 77-86 (2016)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 76. Hyunwoo Yuk, Teng Zhang, Shaoting Lin, German Alberto Parada, Xuanhe Zhao*, Tough Bonding of Hydrogels to Diverse Nonporous Surfaces, Nature Materials, 15, 190-196 (2016)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 79. Shaoting Lin#, Hyunwoo Yuk#, Teng Zhang#, Hyunwoo Koo, Cunjiang Yu and Xuanhe Zhao*, Stretchable Hydrogel Electronics and Devices, Advanced Materials, 28, 4497–4505(2016)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 78. N Pugno*, M Buehler, X Zhao, Soft Nanomaterials, Journal of Materials Research, 30, 1 (2015)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 75. Changyong Cao, Yaying Feng, Jianfeng Zang, Gabriel P. Lopez and Xuanhe Zhao*, Tunable Lotus-Leaf and Rose-Petal Effects via Graphene Paper Origami, Extreme Mechanics Letters, 4, 18 (2015)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 74. Sungmin Hong#, Dalton Sycks#, Hon Fai Chan#, Shaoting Lin, Gabriel P. Lopez, Farshid Guilak, Kam W. Leong, and Xuanhe Zhao*, 3D Printing of Highly Stretchable and Tough Hydrogels into Complex, Cellularized Structures, Advance Materials, 27, 4035 (2015) Supporting Information
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 73. A Ghoorchian, J.R. Simon, B. Bharti, W. Han, X. Zhao, A. Chilkoti, G.P. López*, Bio-inspired Reversibly-Crosslinked Hydrogels Comprising Polypeptide Micelles Exhibit Enhanced Mechanical Properties, Advanced Functional Materials, 25, 3122 (2015) Supporting Information
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 72. Phanindhar Shivapooja, Qiming Wang, Daniel Rittschof, Xuanhe Zhao, and Gabriel P. López*, Dynamic surface deformation of silicone elastomers for management of marine biofouling: laboratory and field studies using pneumatic actuation, Biofouling, 31, 265 (2015)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 71. Qiming Wang, Gregory R. Gossweiler, Stephen L. Craig, Xuanhe Zhao*, Mechanics of Mechanochemically Responsive Elastomers, Journal of the Mechanics and Physics of Solids, 82, 320–344 (2015).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 70. Teng Zhang, Shaoting Lin, Hyunwoo Yuk, Xuanhe Zhao*, Predicting Fracture Energies and Crack-Tip Fields of Soft Tough Materials, Extreme Mechanics Letters, 4, 1 (2015) SI
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 66. Qiming Wang, Xuanhe Zhao*, A Three-Dimensional Phase Diagram of Growth-Induced Surface Instabilities, Scientific Reports, 5, 8887 (2015) Supporting Information
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 69. Shaoting Lin#, Yihao Zhou#, Xuanhe Zhao*, Designing Extremely Resilient and Tough Hydrogels via Delayed Dissipation, Extreme Mechanics Letters, 1, 70-75 (2014)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 68. Qiming Wang, Gregory R. Gossweiler, Stephen L. Craig*, Xuanhe Zhao*, Cephalopod-inspired Design of Electro-mechano-chemically Responsive Elastomers for On-demand Fluorescent Patterning, Nature Communications, 5, 4899 (2014). Supporting Information, Nature News, Washington Post, Wall Street Journal, The Slate, MIT Featured News, MIT Today's Spotlight
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 68. Qiming Wang, Gregory R. Gossweiler, Stephen L. Craig*, Xuanhe Zhao*, Cephalopod-inspired Design of Electro-mechano-chemically Responsive Elastomers for On-demand Fluorescent Patterning, Nature Communications, 5, 4899 (2014). Supporting Information, Nature News, Washington Post, Wall Street Journal, The Slate, MIT Featured News, MIT Today's Spotlight 67. Jianfeng Zang#, Changyong Cao#, Yaying Feng#, Jie Liu, Xuanhe Zhao*, Stretchable and High-Performance Supercapacitors with Crumpled Graphene Paper, Scientific Reports, 4, 6492 (2014) Supporting Information
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 65. Shaoting Lin, Changyong Cao, Qiming Wang, Mark Gonzalez, John E. Dolbow, Xuanhe Zhao*,Design of Stiff, Tough and Stretchy Hydrogel Composites via Nanoscale Hybrid Crosslinking and Macroscale Fiber Reinforcement, Soft Matter, 10, 7519, (2014) Supporting Information, Most read articles of Soft Matter in July and August 2014.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 64. Qiming Wang, Dominick Robinson, and Xuanhe Zhao*, On-Demand Hierarchical Patterning with Electric Fields, Applied Physics Letters, 104, 231605 (2014).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 63. Zachary Kean, Jennifer Hawk, Shaoting Lin, Xuanhe Zhao, Rint Sijbesma, Stephen Craig*, Increasing the maximum achievable strain of a covalent polymer gel through the addition of mechanically invisible cross-links, Advanced Materials, 26, 6013–6018 (2014)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 61. Vrad Levering#, Qiming Wang#, Phanindhar Shivapooja, Xuanhe Zhao*, Gabriel P. López*, Soft Robotic Concepts in Catheter Design: an On-demand Fouling-release Urinary Catheter, Advanced Healthcare Materials, 3, 1588-1596 (2014). Supporting Information.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 60. Gregory R. Gossweiler, Gihan B. Hewage, Gerardo Soriano, Qiming Wang, Garrett W. Welshofer, Xuanhe Zhao, Stephen L. Craig*, Reversible and Repeatable Mechanochemical Activation of Covalent Bonds in an Elastic Solid, ACS Macro Lett., 3, 216-219 (2014). Highlight on Nature Chemistry.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 59. Nathaniel Huebsch, Evi Lippens, Kangwon Lee, Manav Mehta, Christopher Madl, Maria Xu, Xuanhe Zhao, Ovijit Chaudhuri, Catia Verbeke, Woo Seob Kim, Karen Alim, Akiko Mammoto, Donald Ingber, Georg Duda, David Mooney*, Matrix Elasticity Controls Bone Formation by Transplanted Stem Cells, Nature Materials 14, pages 1269–1277 (2015) Supporting Information
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 58. Sungmin Hong, Youngmee Jung, Ringo Yen, Kam W Leong, George A Truskey*, and Xuanhe Zhao*, Magenetoactive Sponges for Dynamic Control of Microfluidic Flow Patterns in Microphysiological Systems, Lab on a Chip, 14, 514-521 (2014) Supporting Information.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 57. Xuanhe Zhao*, Multi-scale Multi-mechanism Design of Tough Hydrogels: Building Dissipation into Stretchy Networks, Soft Matter, 10, 672 (2014) Most read articles of Soft Matter in Jan and Feb 2014.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 56. Changyong Cao, Hon Fai Chan, Jianfeng Zang, Kam W. Leong, Xuanhe Zhao*, Harnessing Localized Ridges for High-Aspect-Ratio Hierarchical Patterns with Dynamic Tunability and Multifunctionality, Advanced Materials, 26, 1633 (2014) Supporting Information, Video 1, Selected as Cover of Advanced Materials, Featured on 1,100 Words.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 54. Qiming Wang, Xuanhe Zhao*, Phase Diagrams of Instabilities in Compressed Film-Substrate Systems, Journal of Applied Mechanics, 81, 051004 (2014)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 47. Nathaniel Huebsch#, Cathal Kearney#, Xuanhe Zhao#, Jaeyun Kim, Christine Cezar, Zhigang Suo and David J Mooney*, Ultrasound-triggered disruption and self-healing of reversibly-crosslinked hydrogels for drug delivery and enhanced chemotherapy, Proceedings of the National Academy of Sciences, 111, 9762-9767 (2014).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 38. Qiming Wang, Anirudh C. Mohan, Michelle L. Oyen, Xuanhe Zhao*, Separating Viscoelasticity and Poroelasticity of Gels with Different Length and Time Scales, Acta Mechanica Sinica, 30, 20 (2014)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 47. Nathaniel Huebsch#, Cathal Kearney#, Xuanhe Zhao#, Jaeyun Kim, Christine Cezar, Zhigang Suo and David J Mooney*, Ultrasound-triggered disruption and self-healing of reversibly-crosslinked hydrogels for drug delivery and enhanced chemotherapy, Proceedings of the National Academy of Sciences, 111, 9762-9767 (2014). 38. Qiming Wang, Anirudh C. Mohan, Michelle L. Oyen, Xuanhe Zhao*, Separating Viscoelasticity and Poroelasticity of Gels with Different Length and Time Scales, Acta Mechanica Sinica, 30, 20 (2014) 55. Qiming Wang, Xuanhe Zhao*, Creasing-Wrinkling Transition in Elastomer Films under Electric Fields, Physical Review E, 88, 042403 (2013) Supporting Information, Video 1
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 53. George Truskey*, Hardean Achneck, Nenad Bursac, Hon Fai Chan, Cindy Cheng, Cristina Fernandez, Sungmin Hong, Youngmee Jung, Tim Koves, William Kraus, Kam Leong, Lauran Madden, William Reichert, Xuanhe Zhao, Design Considerations for an Integrated Microphysiological Muscle Tissue for Drug and Tissue Toxicity Testing, Stem Cell Research & Therapy, 4, S10 (2013)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 53. George Truskey*, Hardean Achneck, Nenad Bursac, Hon Fai Chan, Cindy Cheng, Cristina Fernandez, Sungmin Hong, Youngmee Jung, Tim Koves, William Kraus, Kam Leong, Lauran Madden, William Reichert, Xuanhe Zhao, Design Considerations for an Integrated Microphysiological Muscle Tissue for Drug and Tissue Toxicity Testing, Stem Cell Research & Therapy, 4, S10 (2013) 52. Changyong Cao, Xuanhe Zhao*, Tunable Stiffness of Electrorheological Elastomers by Designing Mesostructures, Applied Physics Letters, 103, 041901 (2013)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 51. Harold S. Park*, Qiming Wang, Xuanhe Zhao, Patrick A. Klein, Electromechanical Instability on Dielectric Polymer Surface: Modeling and Experiment, Computer Methods in Applied Mechanics and Engineering, 260, 40 (2013).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 50. I-Chien Liao, Franklin T. Moutos, Bradley T. Estes, Xuanhe Zhao*, Farshid Guilak*, Composite three-dimensional woven scaffolds with interpenetrating network hydrogels to create functional synthetic articular cartilage, Advanced Functional Materials, 47, 5833-5839 (2013) Selected as Cover of Advanced Functional Materials; Reported by Economic Times, AZoM, R&D Magazine, Duke Today, Medical Design Technology, Pratt News,
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 49. Jianghong Wu, Jianfeng Zang, Aaron R. Rathmell, Xuanhe Zhao*, Benjamin J. Wiley*, Reversible Sliding in Networks of Nanowires, Nanoletters, 13, 2381 (2013) Supporting Information
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 48. Daniel Strange, Timothy Fletcher, Khaow Tonsomboon, Helen Brawn, Xuanhe Zhao, and Michelle Oyen*, Separating poroviscoelastic deformation mechanisms in hydrogels. Applied Physics Letters, 102, 031913 (2013).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 46. Jianfeng Zang, Seunghwa Ryu, Nicola Pugno, Qiming Wang, Qing Tu, Markus J. Buehler, Xuanhe Zhao*, Multifunctionality and Control of the Crumpling and Unfolding of Large-Area Graphene, Nature Materials, 12, 321 (2013) Selected as Top 10 Uses for the World's Strongest Material by Discovery News, Reported by ScienceWorld Report, AZoNano, and MRS Materials 360
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 43. Darinka D Klumpers, Xuanhe Zhao, David J Mooney, Theo H. Smit*, Cellular Traction Forces in 3D Tissue Constructs Lead to Patterning and Spatially Regulated Differentiation, Integrative Biology, 5, 1174 (2013)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 44. Qiming Wang , Xiaofan Niu , Qibing Pei , Michael Dickey, Xuanhe Zhao*, Electromechanical Instabilities of Thermoplastics: Theory and In Situ Observation, Applied Physics Letters, 101, 141911 (2012). Supporting Information, Video 1.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 42. Jeong-Yun Sun, Xuanhe Zhao, Widusha R. K. Illeperuma, Ovijit Chaudhuri, Kyu Hwan Oh, David J. Mooney, Joost J. Vlassak, Zhigang Suo*, Highly stretchable and tough hydrogels, Nature, 489, 133 (2012) Supporting Information, Video 1, Video 2, Video 3, Nature News
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 41. Qiming Wang, Mukarram Tahir, Jianfeng Zang, and Xuanhe Zhao*, Dynamic Electrostatic Lithography: Multiscale On-demand Patterning on Large-Area Curved Surfaces, Advanced Materials, 24, 1947?951 (2012) Advanced Materials Frontispiece, BBC Focus Magzine, MIT Technology Review (Chinese version)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 40. Qiming Wang, Zhigang Suo, Xuanhe Zhao*, Bursting Drops in Solid Dielectrics Caused by High Voltages, Nature Communications, 3, 1157 (2012). Supporting Information, Video 1, Video 2, Video 3. Featured Image of Nature Communications, MRS Materials 360, Physics Today
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 39. Jianfeng Zang, Xuanhe Zhao, Yanping Cao*, John W. Hutchinson*, Localized Ridge Wrinkling of Stiff Films on Compliant Substrates, Journal of the Mechanics and Physics of Solids, 60, 1265 (2012)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 36. Xuanhe Zhao*, A Theory for Large Deformation and Damage of Interpenetrating Polymer Networks, Journal of the Mechanics and Physics of Solids, 60, 319 (2012)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 37. Lin Zhang, Qiming Wang, Xuanhe Zhao*, Mechanical Constraints Enhance Electrical Energy Densities of Soft Dielectrics, Applied Physics Letter, 99, 171906 (2011) Supporting Information.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 35. Qiming Wang, Mukarram Tahir, Lin Zhang, Xuanhe Zhao*, Electro-creasing Instability in Deformed Polymers: Experiment and Theory, Soft Matter,7, 6583 (2011)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 34. Qiming Wang, Lin Zhang, Xuanhe Zhao*, Creasing to Cratering instability in polymers under ultrahigh electric fields, Physical Review Letters, 106, 118301 (2011). Supporting Information, Video 1.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 33. Soo Jin Adrian Koh, Tiefeng Li, Jinxiong Zhou, Xuanhe Zhao, Wei Hong, Jian Zhu, Zhigang Suo*, Mechanisms of large actuation strain in dielectric elastomers, Journal of Polymer Science Part B: Polymer Physics, 49, 504 (2011)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 32. Xuanhe Zhao, Soo Jin Adrian Koh, and Zhigang Suo*. Nonequilibrium thermodynamics of dielectric elastomers. International Journal of Applied Mechanics. 3, 203-217 (2011).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 29. Xuanhe Zhao, Jaeyun Kim, Christine Cezar, Nathaniel Huebsch,Kangwon Lee, Kamal Bouhadir, and David Mooney*, Active Scaffolds for On-demand Drug and Cell Delivery, Proceedings of the National Academy of Sciences. 108, 67 (2011). Supporting Information, Video 1, Video 2, Video 3, and Video 4. Research highlight by Nature, Research highlight by Nature Materials, and Research highlght by PNAS.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 31. Shengqiang Cai, Yuhang Hu, Xuanhe Zhao, and Zhigang Suo*. Poroelasticity of a covalently crosslinked alginate hydrogel under compression. Journal of Applied Physics.108, 113514 (2010)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 30. Sarah Vella, Xin Chen, Samuel Thomas, Xuanhe Zhao, Zhigang Suo, George Whitesides*, The Determination of the Location of Contact Electrification-Induced Discharge Events, Journal of Physical Chemistry C. 114, 20885 (2010)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 28. Xuanhe Zhao and Zhigang Suo*, Theory of dielectric elastomers capable of giant deformation of actuation, Physical Review Letters 104, 178302 (2010)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 27. Philseok Kim, Lauren D. Zarzar, Xuanhe Zhao, Alexander Sidorenko, Joanna Aizenberg*, Microbristle in gels: Toward all-polymer reconfigurable hybrid surfaces, Soft Matter, 6, 750 (2010) Selected as Cover of Soft Matter
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 26. Yuhang Hu, Xuanhe Zhao, Joost Vlassak, Zhigang Suo*, Using indentation to characterize the poroelasticity of gels. Applied Physics Letters 96, 121904 (2010).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 25. Romain Marcombe, Shengqiang Cai, Wei Hong, Xuanhe Zhao, Yuri Lapusta, Zhigang Suo*, A theory of constrained swelling of a pH-sensitive hydrogel. Soft Matter 6, 784-793 (2010).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 23. Wei Hong, Xuanhe Zhao, Zhigang Suo*, Large deformation and electrochemistry of polyelectrolyte gels. Journal of the Mechanics and Physics of Solids 58, 558-577 (2010).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 22. Yuhang Hu, Xuanhe Zhao, Zhigang Suo*, Averting cracks caused by insertion reaction in lithium-ion batteries. Journal of Materials Research 25, 1007(2010).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 15. Xuanhe Zhao, Nathaniel D. Huebsch, David J. Mooney, Zhigang Suo*, Stress-relaxation behavior in gels with ionic and covalent crosslinks. Journal of Applied Physics 107, 063509 (2010).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 24. Wei Hong, Xuanhe Zhao, Zhigang Suo*, Formation of creases on the surfaces of elastomers and gels. Applied Physics Letters 95, 111901 (2009).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 21. Xuanhe Zhao, Zhigang Suo*, Electromechanical instability in semicrystalline polymers. Applied Physics Letters 95, 031904 (2009).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 20. Soo Jin Adrian Koh, Xuanhe Zhao, and Zhigang Suo*, Maximal energy that can be converted by a dielectric elastomer generator. Applied Physics Letters 94, 262902 (2009).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 19. Xin Zhou, Xuanhe Zhao, Zhigang Suo, Chen Zou, J. Runt, Sheng Liu, Shihai Zhang, Q.M. Zhang*, Electrical breakdown and ultrahigh electrical energy density in poly(vinylidene fluoride-hexafluoropropylene) copolymer. Applied Physics Letters 94, 162901 (2009).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 18. Xuanhe Zhao, Zhigang Suo*, Method to analyze programmable deformation of dielectric elastomer layers. Applied Physics Letters, 93, 251902 (2008).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 17. Tianhu He, Xuanhe Zhao and Zhigang Suo*, Equilibrium and stability of dielectric elastomer membranes undergoing inhomogeneous deformation. Journal of Applied Physics, 106, 083522 (2009).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 16. Jiaping Zhang, Xuanhe Zhao, Zhigang Suo, Hanqing Jiang*, A finite element method for transient analysis of concurrent large deformation and mass transport in gels. Journal of Applied Physics, 105, 093522 (2009).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 14. Xuanhe Zhao, Zhigang Suo*, Electrostriction in elastic dielectrics undergoing large deformation. Journal of Applied Physics, 104, 123530 (2008).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 13. Mickael Moscardo, Xuanhe Zhao, Zhigang Suo*, Yuri Lapusta, On designing dielectric elastomer actuators. Journal of Applied Physics 104, 093503 (2008).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 12. Xuanhe Zhao, Wei Hong, Zhigang Suo*, Inhomogeneous and anisotropic equilibrium state of a swollen hydrogel containing a hard core. Applied Physics Letters 92, 051904 (2008).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 11. Wei Hong, Xuanhe Zhao, Zhigang Suo*, Drying-induced bifurcation in a hydrogel-actuated nanostructure. Journal of Applied Physics 104, 084905 (2008).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 10. Wei Hong, Xuanhe Zhao, Jinxiong Zhou and Zhigang Suo*, A theory of coupled diffusion and large deformation in polymeric gels. Journal of the Mechanics and Physics of Solids 56, 1779-1793 (2008). Top 10 Cited articles published in the last five years on JMPS.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 9. Xuanhe Zhao, Wei Hong and Zhigang Suo*, Stretching and polarizing a dielectric gel immersed in a solvent. International Journal of Solids and Structures. 45, 4021-4031 (2008).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 8. Xuanhe Zhao, Zhigang Suo*, Method to analyze electromechanical stability of dielectric elastomers, Applied Physics Letters 91, 061921 (2007).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 7. Jinxiong Zhou, Wei Hong, Xuanhe Zhao, Zhiqian Zhang and Zhigang Suo*, Propagation of instability in dielectric elastomers. International Journal of Solids and Structures 45, 3739-3750 (2008).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 6. Xuanhe Zhao, Wei Hong and Zhigang Suo*, Electromechanical coexistent states and hysteresis in dielectric elastomers, Physical Review B 76,134113 (2007).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 5. Zhigang Suo*, Xuanhe Zhao and William H. Greene, A nonlinear field theory of deformable dielectrics. Journal of the Mechanics and Physics of Solids, 56, 467-286 (2008) Top 10 Cited articles published in the last five years on JMPS.
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 4. Xuanhe Zhao, Yugong Wu*, Zhigang Fan, Fei Li, Three-dimensional simulations of the complex dielectric properties of random composites by finite element method, Journal of Applied Physics 95, 8110 (2004)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 3. Zhigang Fan, Yugong Wu*, Xuanhe Zhao, Yuzhu Lu, Simulation of polycrystalline structure with Voronoi diagram in Laguerre geometry based on random closed packing of spheres, Computational Materials Science 29, 301 (2004)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 2. Xuanhe Zhao, and Yugong Wu*, Evaluation of the fitting efficiency of General Effective Medium equation and its modification, Journal of Materials Science 39, 291 (2004).
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
+
+1. 1. Yugong Wu*, Xuanhe Zhao, Fei Li, Zhigang Fan, Evaluation of mixing rules for dielectric constants of composite dielectrics by MC-FEM calculation on 3D cubic lattice, Journal of Electroceramics 11, 227 (2003)
+
+    게시 페이지: <http://zhao.mit.edu/all-papers/>
 
 ## MIT — Raphael Zufferey
 
@@ -1218,47 +1982,521 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:47:56.545Z
-
-수집 범위: Official MechE profile inspected. Full laboratory publications navigation and extraction not yet completed; resume from saved discovered_links. No inference from roster beyond identifying requested subject. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
-
-## MIT — Mark Bathe
-
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
-
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://meche.mit.edu/people/faculty/mbathe@mit.edu>
+출처: <https://meche.mit.edu/people/faculty/xbarrett@mit.edu>
+
+## MIT — Mark Bathe
+
+ · 논문·원고 75건 · 기타 성과 0건 · 상태: partial
+
+확인일: 2026-11-15T07:07:46.309678+00:00
+
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Kim HM, Omer M, Knappe GA, McMullen P, Le DA, Pasupathy A, Anderson DG, Bathe M. Programmable Lipid Functionalization of Nucleic Acid Nanoparticles Modulates Liver Cell-Type Targeting. ACS Appl Mater Interfaces. 2026;18(13):18721-18739. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Shah A, Lee XK, Li K, Knappe GA, Bathe M, Barbastathis G, Doyle PS. Interpretable Deep Learning for Single-Molecule Nanopore Fingerprinting Using Physics-Guided Preprocessing. ACS Sens. 2026 [Epub ahead of print]. doi:10.1021/acssensors.5c04784. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Berleant JD, Banal JL, Rao DK, Bathe M. Enabling global-scale nucleic acid repositories through versatile, scalable biochemical selection from room-temperature archives. Nat Commun. 2026;17:2807. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Romanov A, Knappe GA, Ronsard L, Cottrell CA, Zhang YJ, Suh H, Duhamel L, Omer M, Chapman AP, Spivakovsky K, Skog P, Flynn CT, Lee JH, Kalyuzhniy O, Liguori A, Parsons MF, Lewis VR, Canales J, Reizis B, Tingle RD, Schiffner T, Schief WR, Lingwood D, Bathe M, Irvine DJ. DNA origami vaccines program antigen-focused germinal centers. Science. 2026;391(6785):eadx6291. SCHOLAR ARTICLE MIT NEWS
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Scott MN, Banal JL, Chen WJ, Brooks C, Wang X, Hart SM, Dodin A, Bathe M, Willard AP, Schlau-Cohen GS. Transport of Delocalized Excitons through DNA-Based Molecular Photonic Wires. ACS Nano. 2025;19(44). doi:10.1021/acsnano.5c11986. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Wei W, Mo Q, Chen C, Bathe M, Hernandez R. DNA Origami Nanostructures Observed in Transmission Electron Microscopy Images can be Characterized through Convolutional Neural Networks. J Chem Inf Model. 2025;65:6526-6536. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Knappe GA, Gorman J, Bigley AN, Harvey SP, Bathe M. Heterovalent Click Reactions on DNA Origami. Bioconjug Chem. 2025;36:476-485. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Romanov A, Knappe GA, Ronsard L, Suh H, Omer M, Chapman AP, Lewis VR, Spivakovsky K, Canales J, Reizis B, Tingle RD, Cottrell CA, Schiffner T, Lingwood D, Bathe M, Irvine DJ. DNA origami vaccines program antigen-focused germinal centers. bioRxiv [Preprint]. 2025. doi:10.1101/2025.02.21.639354. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Luo X, Ranno L, Sverko T, Lee JY, Sbalbi N, Jones A, Chen C, Bawendi MG, Hu J, Macfarlane RJ, Bathe M. DNA origami directed integration of colloidal nanophotonic materials with silicon photonics. bioRxiv [Preprint]. 2025. doi:10.1101/2025.01.23.634416. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Chen C, Luo X, Bathe M. Versatile Dehydration-Assisted Functionalization of Quantum Dots and Rods. Angew Chem Int Ed Engl. 2024;63:e202410247. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Falkovich R, Aryal S, Wang J, Sheng M, Bathe M. Synaptic composition, activity, mRNA translation and dynamics in combined single-synapse profiling using multimodal imaging. bioRxiv [Preprint]. 2024. doi:10.1101/2024.10.28.620504. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Ofoegbu PC, Knappe GA, Romanov A, Draper BE, Bathe M, Jarrold MF. Charge Detection Mass Spectrometry Enables Molecular Characterization of Nucleic Acid Nanoparticles. ACS Nano. 2024;18:23301-23309. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Rouskin S, Allan M, Aruda J, Plung J, Grote S, Martin Y, de Lajarte A, Bathe M. Discovery and Quantification of Long-Range RNA Base Pairs in Coronavirus Genomes with SEARCH-MaP and SEISMIC-RNA. Res Sq [Preprint]. 2024. doi:10.21203/rs.3.rs-4814547/v1. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Wei X, Chen C, Popov AV, Bathe M, Hernandez R. Binding Site Programmable Self-Assembly of 3D Hierarchical DNA Origami Nanostructures. J Phys Chem A. 2024;128(25):4999-5008. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Kim HM, Bathe M. Force-free activation of Notch with DNA origami. Trends Genet. 2024. doi:10.1016/j.tig.2024.03.001. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Berleant JD, Banal JL, Rao DK, Bathe M. Scalable search of massively pooled nucleic acid samples enabled by a molecular database query language. medRxiv [Preprint]. 2024. doi:10.1101/2024.04.12.24305660. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Gorman J, Hart SM, John T, Castellanos MA, Harris D, Parsons MF, Banal JL, Willard AP, Schlau-Cohen GS, Bathe M. Sculpting photoproducts with DNA origami. Chem. 2024. doi:10.1016/j.chempr.2024.03.007. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Wamhoff EC, Ronsard L, Feldman J, Knappe GA, Hauser BM, Romanov A, Case JB, Sanapala S, Lam EC, St Denis KJ, Boucau J, Barczak AK, Balazs AB, Diamond MS, Schmidt AG, Lingwood D, Bathe M. Enhancing antibody responses by multivalent antigen display on thymus-independent DNA origami scaffolds. Nat Commun. 2024;15:795. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Hart SM, Gorman J, Bathe M, Schlau-Cohen GS. Engineering exciton dynamics with synthetic DNA scaffolds. Acc Chem Res. 2023;56:2051. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Wamhoff EC, Knappe GA, Burds AA, Du RR, Neun B, Difilippantonio S, Sanders C, Edmondson E, Matta JL, Dobrovolskaia MA, Bathe M. Evaluation of non-modified wireframe DNA origami for acute toxicity and biodistribution in mice. ACS Appl Bio Mater. 2023;6:1960. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Sheridan K, Berleant J, Bathe M, Condon A, Williams VV. Factorization and pseudofactorization of weighted graphs. Discrete Appl Math. 2023;337:81. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Berleant J, Sheridan K, Condon A, Williams VV, Bathe M. Isometric Hamming embeddings of weighted graphs. Discrete Appl Math. 2023;332:119. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Parsons MF, Allan MF, Li S, Shepherd TR, Ratanalert S, Zhang S, Pullen KM, Chiu W, Rouskin S, Bathe M. 3D RNA-scaffolded wireframe origami. Nat Commun. 2023;14:382. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Knappe GA, Wamhoff EC, Bathe M. Functionalizing DNA origami to investigate and interact with biological systems. Nat Rev Mater. 2023;8:123. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Du RR, Cedrone E, Romanov A, Falkovich R, Dobrovolskaia MA, Bathe M. Innate immune stimulation using 3D wireframe DNA origami. ACS Nano. 2022;16:20340. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Wamhoff EC, Romanov A, Huang H, Read BJ, Ginsburg E, Knappe GA, Kim HM, Farrell NP, Irvine DJ, Bathe M. Controlling nuclease degradation of wireframe DNA origami with minor groove binders. ACS Nano. 2022;16:8954. SCHOLAR ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Wang X, Li S, Jun H, John T, Zhang K, Fowler H, Doye JPK, Chiu W, Bathe M. Planar wireframe 2D origami. Sci Adv. 2022;8:eabn0039. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Lan TCT, Allan MF, Malsick LE, Woo JZ, Zhu C, Zhang F, Khandwala S, Nyeo SSY, Sun Y, Guo JU, Bathe M, Näär A, Griffiths A, Rouskin S. Secondary structural ensembles of the SARS-CoV-2 RNA genome in infected cells. Nat Commun. 2022;13:1128. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Wei X, Chen C, Zhao Y, Harazinska E, Bathe M, Hernandez R. Molecular structure of single-stranded DNA on the ZnS surface of quantum dots. ACS Nano. 2022;16:6666. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Wang X, Jun H, Bathe M. Programming 2D supramolecular assemblies with wireframe DNA origami. J Am Chem Soc. 2022;144:4403. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Hart SM, Wang X, Guo J, Bathe M, Schlau-Cohen GS. Tuning optical absorption and emission using strongly coupled dimers in programmable DNA scaffolds. J Phys Chem Lett. 2022;13:1863. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Afonin KA, Dobrovolskaia MA, Ke W, Grodzinski P, Bathe M. Critical review of nucleic acid nanotechnology to identify gaps and inform a strategy for accelerated clinical translation. Adv Drug Deliv Rev. 2022;181:114081. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Banal JL, Bathe M. Scalable nucleic acid storage and retrieval using barcoded microcapsules. ACS Appl Mater Interfaces. 2021;13:49729. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Knappe GA, Wamhoff EC, Read BJ, Irvine DJ, Bathe M. In situ covalent functionalization of DNA origami virus-like particles. ACS Nano. 2021;15:14316. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bathe M, Hernandez R, Komiyama T, Machiraju R, Neogi S. Autonomous Computing Materials. ACS Nano. 2021;15:3586. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Hart SM, Chen WJ, Banal JL, Bricker WP, Dodin A, Markova L, Vyborna Y, Willard AP, Häner R, Bathe M, Schlau-Cohen GS. Engineering couplings for exciton transport using synthetic DNA scaffolds. Chem. 2021;7:752. ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Danielson E, Perez de Arce K, Cimini BA, Wamhoff EC, Singh S, Cottrell JR, Carpenter AE, Bathe M. Molecular diversity of glutamatergic and GABAergic synapses from multiplexed fluorescence imaging. eNeuro. 2021;8:ENEURO.0286-20.2020. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Afonin KA, Dobrovolskaia MA, Church G, Bathe M. Opportunities, barriers, and a strategy for overcoming translational challenges to therapeutic nucleic acid nanotechnology. ACS Nano. 2020;14:9221. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Dobrovolskaia MA, Bathe M. Opportunities and challenges for the clinical translation of structured DNA assemblies as gene therapeutic delivery and vaccine vectors. WIREs Nanomed Nanobiotechnol. 2021;13:e1657. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Hart SM, Banal JL, Bathe M, Schlau-Cohen GS. Identification of non-radiative decay pathways in Cy3. J Phys Chem Lett. 2020;11:5000. ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Guo SM, Veneziano R, Gordonov S, Li L, Danielson E, Perez de Arce K, Park D, Kulesa AB, Wamhoff EC, Blainey PC, Boyden ES, Cottrell JR, Bathe M. Multiplexed and high-throughput neuronal fluorescence imaging with diffusible probes. Nat Commun. 2019;10:4377. PUBMED ARTICLE MIT NEWS NIH DIRECTORS BLOG
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Wamhoff EC, Banal JL, Bricker WP, Parsons MF, Veneziano R, Stone MB, Jun H, Wang X, Bathe M. Programming structured DNA assemblies to probe biophysical processes. Annu Rev Biophys. 2019;48:395. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Shepherd TR, Du RR, Huang H, Wamhoff EC, Bathe M. Bioproduction of pure, kilobase-scale single-stranded DNA. Sci Rep. 2019;9:6121. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Jun H, Shepherd TR, Zhang K, Bricker WP, Li S, Chiu W, Bathe M. Automated sequence design of 3D polyhedral wireframe DNA origami with honeycomb edges. ACS Nano. 2019;13:2083. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bathe M, Chrisey LA, Herr DJC, Lin Q, Rasic D, Woolley AT, Zadegan R, Zhirnov VV. Roadmap on biological pathways for electronic nanofabrication and materials. Nano Futures. 2019;3:012001. ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Holec PV, Berleant J, Bathe M, Birnbaum ME. A Bayesian framework for high-throughput T cell receptor pairing. Bioinformatics. 2019;35(1):118-127. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bricker WP, Banal JL, Stone MB, Bathe M. Molecular model of J-aggregated pseudoisocyanine fibers. J Chem Phys. 2018;149:024905. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bathe M, Guo SM, Li L, Veneziano R, Gordonov S, Cottrell JR. Multiplexed imaging of neuronal synapses using nucleic acid probe exchange. Protocol Exchange. 2018. doi:10.1038/protex.2018.066. PROTOCOL
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bathe M, Rothemund PWK. DNA Nanotechnology: A foundation for programmable nanoscale materials. MRS Bull. 2017;42:882. ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Boulais E, Sawaya NRP, Veneziano R, Andreoni A, Banal JL, Kondo T, Mandal S, Lin S, Schlau-Cohen GS, Woodbury NW, Yan H, Aspuru-Guzik A, Bathe M. Programmed coherent coupling in a synthetic DNA-based excitonic circuit. Nat Mater. 2018;17:159. PUBMED ARTICLE MIT NEWS NEWSWEEK
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Banal JL, Kondo T, Veneziano R, Bathe M, Schlau-Cohen GS. Photophysics of J-aggregate-mediated energy transfer on DNA. J Phys Chem Lett. 2017;8:5827. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Cunningham PD, Bricker WP, Diaz SA, Medintz IL, Bathe M, Melinger JS. Optical determination of the electronic coupling and intercalation geometry of Thiazole Orange homodimer in DNA. J Chem Phys. 2017;147:055101. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Veneziano R, Ratanalert S, Zhang K, Zhang F, Yan H, Chiu W, Bathe M. Designer nanoscale DNA assemblies programmed from the top down. Science. 2016;352:1534. PUBMED ARTICLE MIT NEWS
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Wang P, Gaitanaros S, Lee S, Bathe M, Shih WM, Ke Y. Programming self-assembly of DNA origami honeycomb lattices and plasmonic metamaterials. J Am Chem Soc. 2016;138:7733. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Sedeh RS, Pan K, Adendorff MR, Hallatschek O, Bathe KJ, Bathe M. Computing nonequilibrium conformational dynamics of structured nucleic acid assemblies. J Chem Theory Comput. 2016;12:261. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Monnier N, Barry Z, Park HY, Su KC, Katz ZB, English BP, Dey A, Pan K, Cheeseman IM, Singer RH, Bathe M. Inferring transient particle transport dynamics in live cells. Nat Methods. 2015;12:838. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Sun G, Guo SM, Teh C, Korzh V, Bathe M, Wohland T. Bayesian model selection applied to the analysis of FCS data of fluorescent proteins in vitro and in vivo. Anal Chem. 2015;87:4326. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Sun W, Boulais E, Hakobyan Y, Wang WL, Guan A, Bathe M, Yin P. Casting inorganic structures with DNA molds. Science. 2014;346:1258361. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Guo SM, Bag N, Mishra A, Wohland T, Bathe M. Bayesian total internal reflection fluorescence correlation spectroscopy reveals hIAPP-induced plasma membrane domain organization in live cells. Biophys J. 2014;106:190. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Johnson-Buck A, Nangreave J, Kim DN, Bathe M, Yan H, Walter NG. Super-resolution fingerprinting detects chemical reactions and idiosyncrasies of single DNA pegboards. Nano Lett. 2013;13:728. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Schmidt JC, Arthanari H, Boeszoermenyi A, Dashkevich NM, Wilson-Kubalek EM, Monnier N, Markus M, Oberer M, Milligan RA, Bathe M, Wagner G, Grishchuk EL, Cheeseman IM. The kinetochore-bound Ska1 complex tracks depolymerizing microtubules by binding to curved protofilaments. Dev Cell. 2012;23:968. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Monnier N, Guo SM, Mori M, He J, Lenart P, Bathe M. Bayesian approach to MSD-based analysis of particle motion in live cells. Biophys J. 2012;103:616. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Guo SM, He J, Monnier N, Sun G, Wohland T, Bathe M. Bayesian approach to the analysis of fluorescence correlation spectroscopy data II: Application to simulated and in vitro data. Anal Chem. 2012;84:3880. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. He J, Guo SM, Bathe M. Bayesian approach to the analysis of fluorescence correlation spectroscopy data I: Theory. Anal Chem. 2012;84:3871. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Strehle D, Schnauss J, Heussinger C, Alvarado J, Bathe M, Käs J, Gentry B. Transiently crosslinked F-actin bundles. Eur Biophys J. 2011;40:93. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Sedeh RS, Fedorov AA, Fedorov EV, Ono S, Matsumura F, Almo SC, Bathe M. Structure, evolutionary conservation, and conformational dynamics of Homo sapiens fascin-1, an F-actin crosslinking protein. J Mol Biol. 2010;400:589. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Sedeh RS, Bathe M, Bathe KJ. The subspace iteration method in protein normal mode analysis. J Comput Chem. 2010;31:66. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bathe M, Heussinger C, Claessens MMAE, Bausch AR, Frey E. Cytoskeletal bundle mechanics. Biophys J. 2008;94:2955. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bathe M, Rutledge GC, Grodzinsky AJ, Tidor B. Osmotic pressure of aqueous chondroitin sulfate solution: A molecular modeling investigation. Biophys J. 2005;89:2357. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bathe M, Rutledge GC, Grodzinsky AJ, Tidor B. A coarse-grained molecular model for glycosaminoglycans: Application to chondroitin, chondroitin sulfate, and hyaluronic acid. Biophys J. 2005;88:3870. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bathe M, Grodzinsky AJ, Tidor B, Rutledge GC. Optimal linearized Poisson-Boltzmann theory applied to the simulation of flexible polyelectrolytes in solution. J Chem Phys. 2004;121:7557. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Kaazempur-Mofrad MR, Bathe M, Karcher H, Younis HF, Seong HC, Shim EB, Chan RC, Hinton DP, Isasi AG, Upadhyaya A, Powers MJ, Griffith LG, Kamm RD. Role of simulation in understanding biological systems. Comput Struct. 2003;81 PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bathe M, Rutledge GC. Inverse Monte Carlo procedure for conformation determination of macromolecules. J Comput Chem. 2003;24:876. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bathe M, Shirai A, Doerschuk CM, Kamm RD. Neutrophil transit times through pulmonary capillaries: The effects of capillary geometry and fMLP-stimulation. Biophys J. 2002;83:1917. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
+
+1. Bathe M, Kamm RD. A fluid-structure interaction finite element analysis of pulsatile blood flow through a compliant stenotic artery. J Biomech Eng. 1999;121:361. PUBMED ARTICLE
+
+    게시 페이지: <http://bathebionano.org/bathe-bionanolab-publications/>
 
 ## MIT — Kaitlyn Becker
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:47:58.633Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected. Full laboratory publications navigation and extraction not yet completed; resume from saved discovered_links. No inference from roster beyond identifying requested subject. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/kait@mit.edu>
 
 ## MIT — Michael Richard Benjamin
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <http://oceanai.mit.edu/mikerb/>
 
 출처: <https://meche.mit.edu/people/faculty/mikerb@mit.edu>
 
 ## MIT — Irmgard Bischofberger
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 42건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/irmgard@mit.edu>
+출처: <https://www.mitfluidslab.com/publications>
+
+1. Contact us Delamination and out-of-plane deformation in drying colloidal suspensions P. Lilin, W. van Rees, M. Ibrahim, I. Bischofberger, Soft Matter, 22, 3429 (2026)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. Nonlinear elasticity and transition to macroscopic irreversibility in composite hydrogels I. Dellatolas, T. Divoux, E. Del Gado, I. Bischofberger, Soft Matter, 22, 2290 (2026)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. M.A. Fardin, T. Divoux, S. Lee, I. Bischofberger, Annu. Rev. Fluid Mech., 58:275–300 (2026)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. M.A. Fardin, T. Divoux, S. Lee, I. Bischofberger, Annu. Rev. Fluid Mech., 58:275–300 (2026) Permeability-selectivity trade-off for a universal leaky channel inspired by mobula filters X. Mao, I. Bischofberger, A.E. Hosoi, PNAS, 121 (50) e2410018121 (2024)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. Crack densification in drying colloidal suspensions P. Lilin, M. Ibrahim, I. Bischofberger, Sci. Adv., 10, eadp3746 (2024)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. L. Molefe, M. Casiulis, T. Gao, S. Rajesh, I. Tiwari, F. Wardani, I. Bischofberger, E. Tang, Phys. Rev. E, 110, 010001 (2024)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. L. Molefe, M. Casiulis, T. Gao, S. Rajesh, I. Tiwari, F. Wardani, I. Bischofberger, E. Tang, Phys. Rev. E, 110, 010001 (2024) Fracture and relaxation in dense cornstarch suspensions P. Lilin, J.E. Elkhoury, I.R. Peters, I. Bischofberger, PNAS Nexus, 3, 1 (2024)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. Flow-induced periodic chiral structures in an achiral nematic liquid crystal Q. Zhang, W. Wang, S. Zhou, R. Zhang, I. Bischofberger, Nat. Commun., 15, 7 (2024)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. I. Dellatolas, M. Bantawa, B. Damerau, M. Guo, T. Divoux, E. Del Gado, I. Bischofberger, ACS Nano, 17, 21, 20939 (2023)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. B. Saintyves, R. Pic, L. Mahadevan, I. Bischofberger, Phys. Rev. Lett., 131, 118202 (2023)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. B. Saintyves, R. Pic, L. Mahadevan, I. Bischofberger, Phys. Rev. Lett., 131, 118202 (2023) Particle focusing in a wavy channel X. Mao, I. Bischofberger, A.E. Hosoi, J. Fluid Mech., 968, A25 (2023)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. S. Ettinger, C. Fernández-Rico, A. Hooshanginejad, M. Ibrahim, B. McMillan, S. Nath, N. Vriend, I. Bischofberger, Phys. Rev. E, 108, 010001 (2023)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. S. Yamani, Y. Raj, T.A. Zaki, G.H. McKinley, I. Bischofberger, Phys. Rev. Fluids, 8, 064610 (2023)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. S. Yamani, Y. Raj, T.A. Zaki, G.H. McKinley, I. Bischofberger, Phys. Rev. Fluids, 8, 064610 (2023) Dendritic patterns from shear-enhanced anisotropy in nematic liquid crystals Q. Zhang, S. Zhou, R. Zhang, I. Bischofberger, Sci. Adv., 9 (2), eabq6820 (2023)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. I. Bischofberger, R. Castañeda-Priego, R. Cerbino, L. Cipelletti, E. Del Gado, A. Fernandez-Nieves, Front. Phys. 11:1173632 (2023)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. I. Bischofberger, R. Castañeda-Priego, R. Cerbino, L. Cipelletti, E. Del Gado, A. Fernandez-Nieves, Front. Phys. 11:1173632 (2023) Shattered to pieces: cracks in drying drops P. Lilin, I. Bischofberger, Phys. Rev. Fluids, 7, 110505 (2022)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. S. Alqatari, T.E. Videbæk, S.R. Nagel, A.E. Hosoi, I. Bischofberger, Phys. Rev. Fluids, 7, 110504 (2022)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. O. Shishkov, A. Blonder, S. Gowen, T.J. Jones, M. Jouanlanne, Q. Zhang, E. Del Gado, I. Bischofberger, Phys. Rev. E, 106, 050001 (2022)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. O. Shishkov, A. Blonder, S. Gowen, T.J. Jones, M. Jouanlanne, Q. Zhang, E. Del Gado, I. Bischofberger, Phys. Rev. E, 106, 050001 (2022) Yield precursor in primary creep of colloidal gels J.H. Cho, I. Bischofberger, Soft Matter, 18, 7612 (2022)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. Lasting effects of discontinuous shear thickening in cornstarch suspensions upon flow cessation J.H. Cho, A.H. Griese, I.R. Peters, I. Bischofberger, Phys. Rev. Fluids, 7, 063302 (2022)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. Criteria for Crack Formation and Air Invasion in Drying Colloidal Suspensions P. Lilin, I. Bischofberger, Langmuir, 38, 24, 7442 (2022)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. B. Ge, Q. Zhang, R. Zhang, J.-T. Lin, P.-H. Tseng, C.-W. Chang, C.-Y. Dong, R. Zhou, Z. Yaqoob, I. Bischofberger, P.T.C. So, ACS Photonics, 8, 3440 (2021)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. P. Bourrianne, P. Lilin, G. Sintès, T. Nîrca, G.H. McKinley, I. Bischofberger, Soft Matter, 17, 8832 (2021)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. Q. Zhang, B. Ge, R. Zhang, Z. Yaqoob, P.T.C. So, I. Bischofberger, PNAS, 118, 35, e2108361118 (2021)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. S. Yamani, B. Keshavarz, Y. Raj, T.A. Zaki, G.H. McKinley, I. Bischofberger, Phys. Rev. Lett., 127, 074501 (2021)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. S. Yamani, B. Keshavarz, Y. Raj, T.A. Zaki, G.H. McKinley, I. Bischofberger, Phys. Rev. Lett., 127, 074501 (2021) Two Modes of Cluster Dynamics Govern the Viscoelasticity of Colloidal Gels J.H. Cho, I. Bischofberger, Phys. Rev. E, 103, 032609 (2021)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. Growth morphology and symmetry selection of interfacial instabilities in anisotropic environments Q. Zhang, M.A. Amooie, M.Z. Bazant, I. Bischofberger, Soft Matter, 17, 1202 (2021)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. Blooming flowers from drying drops P. Lilin, P. Bourrianne, G. Sintès, I. Bischofberger, Phys. Rev. Fluids, 5, 110511 (2020)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. S. Alqatari, T.E. Videbæk, S.R. Nagel, A.E. Hosoi, I. Bischofberger, Sci. Adv., 6, eabd6605 (2020)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. T. Divoux, A. Shukla, B. Marsit, Y. Kaloga, I. Bischofberger, Phys. Rev. Lett., 124, 248006 (2020)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. T. Divoux, A. Shukla, B. Marsit, Y. Kaloga, I. Bischofberger, Phys. Rev. Lett., 124, 248006 (2020) Emergence of Multiscale Dynamics in Colloidal Gels J.H. Cho, R. Cerbino, I. Bischofberger, Phys. Rev. Lett., 124, 088005 (2020)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. D.C.E. Calzolari, I. Bischofberger, F. Nazzani, V. Trappe, J. Rheol., 61(4), 817-831 (2017)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. J.W. Rocks, N. Pashine, I. Bischofberger, C.P. Goodrich, A.J. Liu, S.R. Nagel, PNAS, 114, 2520-2525 (2017)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. J.W. Rocks, N. Pashine, I. Bischofberger, C.P. Goodrich, A.J. Liu, S.R. Nagel, PNAS, 114, 2520-2525 (2017) Fluid instabilities that mimic animal growth I. Bischofberger, S.R. Nagel, Phys. Today, 69, 70-71 (2016)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. I. Bischofberger, B. Ray, J.F. Morris, T. Lee, S.R. Nagel, Soft Matter, 12, 3013-3020 (2016)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. I. Bischofberger, B. Ray, J.F. Morris, T. Lee, S.R. Nagel, Soft Matter, 12, 3013-3020 (2016) New aspects in the phase behaviour of poly-N-isopropyl acrylamide: systematic temperature dependent shrinking of PNiPAM assemblies well beyond the LCST I. Bischofberger, V. Trappe, Sci. Rep. 5, 15520 (2015)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. An island of stability in a sea of fingers: emergent large-scale features of the viscous flow instability I. Bischofberger, R. Ramachandran, S.R. Nagel, Soft Matter, 11, 7428-7432 (2015)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. Fingering versus stability in the limit of zero interfacial tension I. Bischofberger, R. Ramachandran, S.R. Nagel, Nat. Commun. 5:5265 (2014)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. Co-nonsolvency of PNiPAM at the transition between solvation mechanisms I. Bischofberger, D.C.E. Calzolari, V. Trappe, Soft Matter, 10, 8288-8295 (2014)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. I. Bischofberger, D.C.E. Calzolari, P. De Los Rios, I. Jelezarov, V. Trappe, Sci. Rep. 4, 4377 (2014)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. I. Bischofberger, D.C.E. Calzolari, P. De Los Rios, I. Jelezarov, V. Trappe, Sci. Rep. 4, 4377 (2014) Seeing the invisible - Air vortices around a splashing drop I. Bischofberger, K.W. Mauser, S.R. Nagel, Phys. Fluids 25, 091110 (2013)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
+
+1. D.A. Sessoms, I. Bischofberger, L. Cipelletti, V. Trappe, Phil. Trans. Royal Society A 367, 5013 (2009)
+
+    게시 페이지: <https://www.mitfluidslab.com/publications>
 
 ## MIT — Svetlana Boriskina
 
@@ -1376,7 +2614,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -2455,7 +3693,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -2465,9 +3703,11 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:48:27.526Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/jacopo@mit.edu>
 
 ## MIT — Gang Chen
 
@@ -2865,9 +4105,11 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:48:30.651Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/cfotini@mit.edu>
 
 ## MIT — Jung-Hoon Chun
 
@@ -2997,9 +4239,11 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://culpepper.mit.edu/>
 
 출처: <https://meche.mit.edu/people/faculty/mculpepp@MIT.EDU>
 
@@ -3007,47 +4251,883 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:48:34.884Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/joedarcy@mit.edu>
 
 ## MIT — Andrew Akerson
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
 출처: <https://meche.mit.edu/people/faculty/akerson@mit.edu>
 
 ## MIT — Domitilla Del Vecchio
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 207건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/ddv@MIT.EDU>
+출처: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Jichi Wang, Eduardo D. Sontag, and Domitilla Del Vecchio American Control Conference 2026 May 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. I. Ruolo, E. Lu and D. Del Vecchio American Control Conference 2026 May 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Bruno and D. Del Vecchio npc Systems Biology and Applications 2026 Mar 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Hengyu Wang and Domitilla Del Vecchio IEEE Conf. on Decision and Control 2026 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. K. Aravind-Manoj and D. Del Vecchio Cell Systems 2025 Dec 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Domitilla Del Vecchio Computational and Structural Biotechnology Journal 2025 Sep 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Palacios, S. Bruno, E. Salibi, R. Weiss, I. Goodchild-Michelman, A. Kane, K. Ilia, and D. Del Vecchio Cell Genomics 2025 Sep 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Nicholas Nolan, Emma L. Peterman, Kate E. Galloway, Eduardo D. Sontag, and Domitilla Del Vecchio Proc. of IEEE Conference on Decision and Control 2025 Aug 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Simone Bruno, Yi Fu, Felipe A. Campos, Domitilla Del Vecchio, and Ruth J. Williams Journal of Mathematical Biology 2025 Jul 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Palacios, J. J. Collins, and D. Del Vecchio Current Opinion in Biotechnology 2025 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Guaranteeing System-level Properties in Genetic Circuits Subject to Context Effects Inigo X. Incer, Ayush Pandey, Nicholas Nolan, Emma L. Peterman, Kate E. Galloway, Eduardo D. Sontag, and Domitilla Del Vecchio 2024 Aug 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. Du, S. Bruno, K. Overholt, S. Palacios, H.-H. Huang, C. Barajas, B. Gross, C. Lee, H. K. Evile, N. Rufino de Sousa, A. G. Rothfuchs, and D. Del Vecchio Biosensors and Bioelectronics: X 2024 May 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Simone Bruno, Felipe A. Campos, Yi Fu, Domitilla Del Vecchio, Ruth J. Williams SIAM Journal on Applied Dynamical Systems 2024 May 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Competition for binding targets results in paradoxical effects for simultaneous activator and repressor action M. Ali Al-Radhawi, Krishna Manoj, Dhruv Jatkar, Alon Duvall, Domitilla Del Vecchio, and Eduardo D. Sontag 2024 Mar 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. N. Nolan, MT Laub, and D. Del Vecchio Proc. American Control Conference 2024 Mar 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Bruno, T. Schlaeger, and D. Del Vecchio npj Systems Biology and Applications 2023 Nov 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Katherine Ilia, Nika Shakiba, Trevor Bingham, Ross D. Jones, Michael M. Kaminski, Eliezer Aravera, Simone Bruno, Sebastian Palacios, Ron Weiss, James J. Collins, Domitilla Del Vecchio*, Thorsten M. Schlaeger* Science Advances 2023 Oct 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. T. Grunberg and D. Del Vecchio IEEE Conference on Decision and Control 2023 Jul 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Hirsch, T. Grunberg, and D. Del Vecchio IEEE Conference on Decision and Control 2023 Jul 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. C. E. Celeste Junior, I. Di Loreto, T. W. Grunberg, M. D. Di Benedetto, A. Borri, and D. Del Vecchio IEEE Conference on Decision and Control 2023 Jul 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Ted Grunberg and Domitilla Del Vecchio SIAM Journal on Applied Dynamical Systems 2023 Apr 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Felipe A. Campos*, Simone Bruno*, Yi Fu, Domitilla Del Vecchio, and Ruth J. Williams Bulletin of Mathematical Biology 2023 Feb 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Bruno, R. Williams, and D. Del Vecchio Journal Mathematics of Control, Signals, and Systems 2023 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Ukjin Kwon, Hsin-Ho Huang, Jorge L. Chavez, Kathryn Beabout, Svetlana Harbaugh, and Domitilla Del Vecchio Nucleic Acids Research 2023 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. C. Barajas, HH. Huang, J. Gibson, L. Sandoval, and D. Del Vecchio Nature Communications 2022 Oct 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Bruno, R. Williams, and D. Del Vecchio Mathematics of Control, Signals, and Systems 2022 Sep 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Bruno, R. Williams, and D. Del Vecchio European Control Conference 2022 Mar 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R.D. Jones, Y. Qian, K. Ilia, B. Wang, M.T. Laub, D. Del Vecchio*, R. Weiss* Nature Communications 2022 Feb 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. K. Ilia and D. Del Vecchio GEN Biotechnology 2022 Feb 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Bruno, R. Williams, and D. Del Vecchio PLOS Computational Biology 2022 Feb 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Bruno, R. Williams, and D. Del Vecchio IEEE CDC 2022 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. T. Grunberg and D. Del Vecchio IEEE CDC 2022 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. C. McBride and D. Del Vecchio ACS Synthetic Biology 2021 Oct 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. C. McBride, T. Grunberg, and D. Del Vecchio Current Opinion in Systems Biology 2021 Jul 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. N. Shakiba, R. D. Jones, R. Weiss, and D. Del Vecchio Cell Systems 2021 May 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Y. Qian and D. Del Vecchio IEEE Trans. on Control of Network Systems 2021 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H-H. Huang*, M. Bellato*, Y. QIan, P. Cardenas, L. Pasotti, P. Magni, and D. Del Vecchio Nature Communications 2021 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. D. Jones, Y. Qian, V. Siciliano, B. DiAndreth, J. Huh, R. Weiss, and D. Del Vecchio Nature Communications 2020 Aug 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. U. Kwan, M. Naghnaeian, and D. Del Vecchio Proc. IEEE Conf. on Decision and Control 2020 Jul 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. C. Barajas and D. Del Vecchio PLOS Comput. Biol. 2020 Jul 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Shah and D. Del Vecchio IEEE Transactions on Network Science and Engineering 2020 Jun 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. C. McBride and D. Del Vecchio Proc. of American Control Conference 2020 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. F. Ratti, M. Magarini, and D. D. Vecchio NANOCOM: The ACM International Conference on Nanoscale Computing and Communication 2020 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. T. Grunberg and D. Del Vecchio Current Opinion in Biotechnology 2019 Nov 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. C. McBride and D. Del Vecchio Automatica 2019 Oct 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. C. McBride, R. Shah, and D. Del Vecchio Proc. of the IEEE 2019 Apr 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. M. Ali Al-Radhawi, D. Del Vecchio, and E. D. Sontag PLOS Comput. Biol. 2019 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Ukjin Kwon, Mohammad Naghnaeian and Domitilla Del Vecchio Proc of American Control Conference 2019 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Carlos Barajas and Domitilla Del Vecchio Proc of American Control Conference 2019 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Simone Bruno, M. Ali Al-Radhawi, Eduardo D. Sontag, and Domitilla Del Vecchio Proc of American Control Conference 2019 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. T. Grunberg and D. Del Vecchio IEEE CDC, Accepted 2019 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H-H. Huang*, Y. Qian*, and D. Del Vecchio Nature Communications 2018 Dec 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. C. McBride and D. Del Vecchio IEEE Conf. on Decision and Control 2018 Aug 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. M. Ali Al-Radhawi, N. S. Kumar, E. D. Sontag, and D. Del Vecchio IEEE Conf. on Decision and Control 2018 Aug 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Y. Qian and D. Del Vecchio IEEE Conf. on Decision and Control 2018 Aug 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. P. Chen, Y. Qian, and D. Del Vecchio IEEE Conf. on Decision and Control 2018 Aug 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Shah and D. Del Vecchio IEEE Conf. on Decision and Control 2018 Aug 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, Y. Qian, R. M. Murray, and E. D. Sontag IFAC Annual Reviews in Control 2018 May 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Y. Qian and D. Del Vecchio IEEE Control Systems Letters 2018 May 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Y. Qian, T. Grunberg, and D. Del Vecchio Proc. American Control Conf. 2018 Mar 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. N. Herath and D. Del Vecchio Journal of Chemical Physics 2018 Feb 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Y. Qian and D. Del Vecchio Journal of Royal Soc. Interface 2018 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. Abdallah and D. Del Vecchio Methods in Molecular Biology, Springer Nature 2018 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. N. Herath and D. Del Vecchio IEEE Trans. on Aut. Control 2018 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Y. Qian and D. Del Vecchio Workshop Emerging Applications of Control and Systems Theory (EACST) 2017 Sep 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. M. Ali, E. D. Sontag, and D. Del Vecchio q-Bio Conference 2017 Aug 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Y. Qian, C. McBride, and D. Del Vecchio Annual Reviews in Control, Robotics, and Autonomous Systems 2017 Aug 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Ross Jones, Y. Qian, Ron Weiss, and Domitilla Del Vecchio SEED Conference 2017 Jul 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. E. Yeung, A. J. Dy, K. B. Martin, A. H. Ng, D. Del Vecchio, J. L. Beck6, J. J. Collins, and R. M. Murray Cell Systems 2017 Jun 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. Ahn and D. Del Vecchio IEEE Trans. Automatic Control 2017 Jun 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Shah and D. Del Vecchio Biophysical Journal 2017 Jun 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. C. McBride and D. Del Vecchio Proc. IFAC World Congress 2017 Mar 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Y. Qian, H-H. Huang, J. Jimenez, and D. Del Vecchio ACS Synthetic Biology 2017 Mar 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, H. Abdallah, Y. Qian, and J. J. Collins Cell Systems 2016 Nov 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Lee, J.W., Gyorgy, A., Cameron, D.E., Pyenson, N., Choi, K.R., Way, J.C., Silver, P.A., Del Vecchio, D., and Collins, J.J. Molecular Cell 2016 Jun 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, Y. Qian, and A. Dy Journal of the Royal Society Interface 2016 Jun 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Ross Jones, Y. Qian, Velia Siciliano, Domitilla Del Vecchio, and Ron Weiss Mammalian Synthetic Biology Workshop 3.0 2016 May 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. E. Dallal, A. Colombo, D. Del Vecchio, and S. Lafortune Discrete Event Dynamic Systems 2016 Apr 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. Ahn and D. Del Vecchio, ACM Proc. of Hybrid Systems: Computation and Control, 2016 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Shah and D. Del Vecchio, Proc. of to European Control Conference, 2016 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. Abdallah, Y. Qian, and D. Del Vecchio, Proc. of American Control Conference, 2016 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. N. Kumar and D. Del Vecchio, Proc. of American Control Conference 2016 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. N. Herath and D. Del Vecchio Proc. of American Control Conference, 2016 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Hohener, G. Huang, and D. Del Vecchio Proc. of IEEE Conference on Decision and Control, 2016 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. d. Hoehener and D. Del Vecchio, Proc. of IEEE Conference on Decision and Control, 2016 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Y. Qian and D. Del Vecchio Proc. of IEEE Conference on Decision and Control 2016 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. N. Herath and D. Del Vecchio Proc. of IEEE Conference on Decision and Control, 2016 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. M. Forghani, J. McNew, D. Hoehener, and D. Del Vecchio, IEEE Tsans. on Automation Science and Engineering, 2015 Nov 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Gyorgy, J. Jimenez, J. Yazbek, H.-H. Huang, H. Chung, R. Weiss and D. Del Vecchio, Biophysical Journal, 2015 Jun 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Bresch-Pietri and D. Del Vecchio Automatica, 2015 May 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and R. M. Murray In Encyclopedia of Systems and Control, Baillieul, John, Samad, Tariq (Eds.), Springer 2015 Mar 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Y. Qian, H-H. Huang, and D. Del Vecchio. SEED Conference 2015 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. Ahn and D. Del Vecchio . IROS Conference 2015 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Y. Qian and D. Del Vecchio Proc. of American Control Conference, 2015 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. N. Herath, A. Hamadeh, and D. Del Vecchio Proc. of American Control Conference, 2015 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Hoehener, P. A. Green, and D. Del Vecchio, Proc. of American Control Conference 2015 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. M. Forghani, J. McNew, D. Hoehener, and D. Del Vecchio Proc. of American Control Conference, 2015 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. Ahn, A Rizzi, A. Colombo and D. Del Vecchio, Proc. of IROS, 2015 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Hamadeh, E. D. Sontag and D. Del Vecchio Proc. of IEEE Conference on Decision and Control, 2015 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Mou and D. Del Vecchio Proc. of IEEE Conference on Decision and Control, 2015 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. MR Hafner, D Cunningham, L Caminiti, D Del Vecchio US Patent 8,965,676 2015 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Colombo and D. Del Vecchio IEEE Trans. Aut. Control 2014 Nov 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. K. Nilgiriwala, J. Jimenez, P. M. Rivera, and D. Del Vecchio ACS Synthetic Biology 2014 Oct 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and R. M. Murray Textbook 2014 Oct 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Mishra, P. M. Rivera-Ortiz, A. Lin, D. Del Vecchio(*), and R. Weiss(*) [(*)=co-corresponding authors ] Nature Biotechnology 2014 Sep 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Gyorgy and D. Del Vecchio, PLOS Computational Biology, DOI: 10.1371/journal.pcbi.1003486 2014 Mar 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Hamadeh and D. Del Vecchio Proc. IEEE Conf. on Decision and Control 2014 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Gyorgy and D. Del Vecchio. Proc. IEEE Conf. on Decision and Control, 2014 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. P. M. Rivera and D. Del Vecchio Proc. IEEE Conf. on Decision and Control, 2014 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Bresh-Pietri and D. Del Vecchio Proc. American Control Conference, 2014 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. Ahn and D. Del Vecchio Proc. American Control Conference, 2014 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. N. Herath and D. Del Vecchio Proc. American Control Conference, 2014 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. P. M. Rivera and D. Del Vecchio. Proc. American Control Conference 2014 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Gyorgy, J. Jimenez, D. Del Vecchio SEED Conference 2014 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. L. Caminiti, E. Quisenberry, C. Peplin, D. Del Vecchio, and R. Verma. U.S. Patent 8639437, 2014 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio IFAC Reviews in Control, Vol 37(2):333-345 2013 Dec 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Jayanthi, K. Nilgiriwala, and D. Del Vecchio ACS Synthetic Biology 2013 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. M. Hafner, D. Cunningham, L. Caminiti, and D. Del Vecchio, IEEE Trans. Intelligent Transportation Systems 2013 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Ghaemi and D. Del Vecchio IEEE Trans. Automatic Control 2013 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Gyorgy and D. Del Vecchio International Conference on Systems Biology 2013 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Mishra, P. M. Rivera-Ortiz, D. Del Vecchio, and R. Weiss International Conference on Systems Biology, 2013 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. E. Dallal, A. Colombo, D. Del Vecchio and S. Lafortune. Proc. American Control Conference, 2013 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. P. M. Rivera and D. Del Vecchio. Proc. American Control Conference 2013 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio Proc. IFAC Symposium on Nonlinear Control Systems (NOLCOS) 2013 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. L. Bruni, A. Colombo, and D. Del Vecchio Proc. IEEE Conference on Decision and Control 2013 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Gyorgy and D. Del Vecchio. . Proc. IEEE Conference on Decision and Control 2013 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. E. Dallal, A. Colombo, D. Del Vecchio, and S. Lafortune Proc. IEEE Conference on Decision and Control 2013 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Jayanthi and D. Del Vecchio, PLoS ONE 2012 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and J-J. Slotine IEEE Trans. Aut. Control 2012 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Organizer: D. Del Vecchio American Control Conference 2012 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Jayanthi and D. Del Vecchio The 5th Annual q-bio Conference on Cellular Information Processing, 2012 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. K. Nilgiriwala, P. M. Rivera, and D. Del Vecchio. International Conference on Systems Biology 2012 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Gyorgy and D. Del Vecchio International Conference on Systems Biology, 2012 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Colombo and D. Del Vecchio . Hybrid Systems: Computation and Control, 2012 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Ghaemi and D. Del Vecchio Proc. American Control Conference 2012 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Gyorgy and D. Del Vecchio. Proc. IEEE Conf. on Decision and Control 2012 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Jayanthi and D. Del Vecchio SB5.0: The 5th International Meeting on Synthetic Biology 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Verma and D. Del Vecchio. Proc. IEEE Conf. on Decision and Control 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Ghaemi and D. Del Vecchio. Proc. IEEE Conf. on Decision and Control, 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Colombo and D. Del Vecchio Proc. IEEE Conf. on Decision and Control, 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. R. Ossareh and D. Del Vecchio Proc. IEEE Conf. on Decision and Control 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and J-J. Slotine Proc. IEEE Conf. on Decision and Control, 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Verma and D. Del Vecchio. Proc. of International IEEE Conference on Intelligent Transportation Systems 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. M. Hafner, D. Cunningham, L. Caminiti, and D. Del Vecchio Proc. of World Congress on Intelligent Transport Systems 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Jayanthi, A. Rosenberg, and D. Del Vecchio Proc. American Control Conference, 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio IEEE Biomedical Circuits & Systems Conference, 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. Colombo and D. Del Vecchio. IEEE/ACM Second International Conference on Cyber-Physical Systems 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio 33rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. P. Jiang, A. C. Ventura, S. Merajver, E. D. Sontag, A. J. Ninfa, and D. Del Vecchio. The 5th Annual q-bio Conference on Cellular Information Processing, 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Jayanthi and D. Del Vecchio IEEE Trans. Aut. Control, vol. 56(4), pages 748-761 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio In Design and Analysis of Bio-molecular Circuits, H. Koeppl, D. Densmore, M. di Bernardo, G. Setti 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. M. Hafner and D. Del Vecchio, SIAM J. on Control and Optimization, 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Verma and D. Del Vecchio, IEEE Robotics and Automation Magazine, Vol. 18, Issue 3, page(s) 44 – 54 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. R. Ossareh, A. C. Ventura, S. D. Merajver, and D. Del Vecchio, Biophysical Journal, vol. 100(7):1617-1626 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Verma and D. Del Vecchio IEEE Trans. Aut. Control, 2011 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. C. Ventura, P. Jiang, L. Van Wassenhove, D. Del Vecchio, S. D. Merajver, and A. J. Ninfa, Proc. Natl. Acad. Sci. USA, vol. 107(22), pages 10032-10037 2010 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. R. Ossareh, A. C. Ventura, S. D. Merajver, and D. Del Vecchio. International Conference on Systems Biology 2010 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. P. Jiang, A. C. Ventura, S. D. Merajver, A. J. Ninfa, and D. Del Vecchio. International Conference on Systems Biology, 2010 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Jayanthi and D. Del Vecchio. Proc. of IEEE International Symposium on Circuits and Systems (ISCAS), 2010 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. A. C. Ventura, P. Jiang, L. Van Wassenhove, A. J. Ninfa, S. D. Merajver, and D. Del Vecchio. Proc. of Dynamic Systems and Control Conference 2010 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. J. Duperret, M. Hafner, and D. Del Vecchio. Proc. of IEEE/RSJ International Conference on Intelligent Robots and Systems, 2010 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Verma and D. Del Vecchio. Proc. of IEEE Conference on Decision and Control, 2010 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio International Journal of Robust and Nonlinear Control–Special Issue, vol. 19(14), pages 1581-1602, 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and E. D. Sontag Special Issue of the European Journal of Control, vol. 15 (3-4), 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. P. Varadarajan and D. Del Vecchio. IEEE Transactions on Nanobioscience, 8(3):281-9 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Ghaemi, J. Sun, P. Iglesias, and D. Del Vecchio. BMC Systems Biology, 3:95, 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and E. D. Sontag In Control Theory and Systems Biology, P. A. Iglesias and B. P. Ingalls (Eds), pages 101-124, The MI 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, Institute for Biological Engineering Conference 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio Second Workshop on Numerical Software Verification 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and E. D. Sontag. Proc. of European Control Conference (ECC), 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, M. Malisoff, and R. Verma Proc. of American Control Conference 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. V. Desaraju, H. C. Ro, M. Yang, E. Tay, S. Roth, D. Del Vecchio Proc. of International Conference on Robotics and Automation (ICRA) 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. E. Franco, D. Del Vecchio and R. M. Murray. Proc. of IEEE Conference on Decision and Control, 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. S. Jayanthi and D. Del Vecchio. Proc. of IEEE Conference on Decision and Control 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Verma and D. Del Vecchio. Proc. of IEEE Conference on Decision and Control, 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. M. Hafner and D. Del Vecchio. Proc. of IEEE Conference on Decision and Control, 2009 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and S. Jayanthi. Proc. of IEEE Conference on Decision and Control 2008 Dec 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Verma, D. Del Vecchio, and H. Fathy. Proc. of the Dynamic Systems and Control Conference, 2008 Oct 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, A. J. Ninfa, and E. D. Sontag Proc. of American Control Conference, 2008 Jun 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Verma, D. Del Vecchio, and H. Fathy. IEEE/ASME Transactions on Mechatronics, vol. 13(1), pp. 46-57 2008 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, A. J. Ninfa, and E. D. Sontag Nature/EMBO Molecular Systems Biology, 4:161 2008 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio. Systems & Control Letters, pages 842-850 2008 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and R. M. Murray In Cooperative Control of Distributed Multi-Agent Systems, J. Shamma (Ed), pages 377-407, John Wiley 2008 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. R. Ghaemi and D. Del Vecchio. Proc. of IEEE Conference on Decision and Control 2007 Dec 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio. Proc. of IEEE Conference on Decision and Control 2007 Dec 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and E.D. Sontag Proc. of American Control Conference, 2007 Jul 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio Proc. of American Control Conference 2007 Jul 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio Proc. of Conference on Decision and Control 2007 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, A. J. Ninfa, and E. D. Sontag International Conference on Systems Biology 2007 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. Organizer: D. Del Vecchio Contributors: Jean-Francois Raskin (Computer Science Dept., Universite Libre de Bruxelles), Georgios E. Fainekos and G Pappas (GRASP Lab, Upenn), Edward A. Lee (EECS, UC Berkeley), Derek Caveney and Lorenzo Caminiti (Toyota Tech Proc. of Conference on Decision and Control, 2007 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, R. M. Murray, and E. Klavins Automatica, vol. 42, pp. 271-285 2006 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and N. Petit. Journal of Process Control, vol. 15, pp. 771-784 2005 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. H. El Samad, D. Del Vecchio, and M. Khammash. Proc. of American Control Conference, 2005 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and R.M. Murray. Hybrid Systems: Computation a nd Control, 2005 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and R.M. Murray. Proc. of IFAC 2005 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and R. M. Murray. Hybrid Systems: Computation and Control 2004 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. M. B. Reiser, J. S. Humbert, M. J. Dunlop, D. Del Vecchio, R. M. Murray, M. H. Dickinson. Proc. of American Control Conference(Winner of best student paper competition) 2004 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. C. L. Walton, D. Del Vecchio, and R. M. Murray. Proc. of International Conference of Robotics and Automation 2004 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and R.M. Murray. Proc. of IEEE Conference on Decision and Control, 2004 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, R. Marino, and P. Tomei European Journal of Control, vol. 9, Nb. 5 2003 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, R. M. Murray, and P. Perona. Automatica, vol. 39(12), pp. 2085-2098 2003 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, R. M. Murray, and P. Perona Proc of. American Control Conference 2003 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, R. M. Murray, and P. Perona. Proc. of European Control Conference 2003 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio and E. Klavins. Proc of IEEE Conference on Decision and Control, 2003 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, R. Marino, and P. Tomei. International Journal of Adaptive Control and Signal Processing, vol. 16, pp. 635-652 2002 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, R. M. Murray, and P. Perona Proc. of IFAC 2002 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
+
+1. D. Del Vecchio, R. Marino, and P. Tomei Proc. of American Control Conference 2001 Jan 01
+
+    게시 페이지: <https://sites.mit.edu/ddvlab/publications/>
 
 ## MIT — Sili Deng
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://deng.mit.edu/>
 
 출처: <https://meche.mit.edu/people/faculty/silideng@mit.edu>
+
+출처: <https://deng.mit.edu/publications.html>
 
 ## MIT — Elazer Edelman
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:48:37.976Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/ere@mit.edu>
 
 ## MIT — Daniel Frey
 
@@ -3149,13 +5229,337 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Betar Gallant
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 81건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/bgallant@mit.edu>
+출처: <https://gallant.mit.edu/publications/>
+
+1. H. Gao, K. Yoshinaga, K. J. Steinberg, T. M. Swager, and B. M. Gallant AENM, 2023, DOI: 10.1002/aenm.202301751
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. G.M. Hobold, C. Wang, K. J. Steinberg, Y. Li, and B. M. Gallant Nature Energy, 2024, 9, 580-591
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. M. Melemed, D. A. Skiba, K. J. Steinberg, K.-H. Kim, and B. M. Gallant The Journal of Physical Chemistry C 2023, DOI: 10.1021/acs.jpcc.3c03800
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. G. Leverick, E. M. Bernhardt, A. I. Ismail, J. H. Law, A. Arifutzzaman, M. K. Aroua, and B. M. Gallant ACS Catalysis 2023, 13, 12322–12337. Doi: 10.1021/acscatal.3c02500
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. F.-Y. Kuo, S. E. Jerng, and B. M. Gallant ACS Central Science 2023, DOI: 10.1021/acscentsci.3c00692
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. F.-Y. Kuo, G. H. Byun & B. M. Gallant Electrolyte Effects on N-Heterocyclic Imines as the Redox Sorbent for Electrochemical CO2 Capture ACS Cent. Sci., 2026
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. K. Steinberg, S. N. Ross, B. M. Gallant Origins of Divergent Cycling Trajectories of Lithium Metal Anodes Revealed by Titration Methods Chem. Mater., 2026, 38 (17): 9021–9031.
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. Sevilla, K. S. Jiang, G. H. Byun, S. D. Hellright, H. Gao & B. M. Gallant Quantifying capacity loss modes of Li metal anodes upon deep stripping in primary batteries with fluorinated catholytes Journal of the Electrochemical Society, 2026, 173 130515
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. G. H. Byun, L. Bromberg, B. M. Gallant, H. Seo & T. A. Hatton Continuous CO2 capture with photochemical release in a slug flow reactor ACS Energy Letters, 2026, 11 (6): 4496–4503.
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. F.-Y. Kuo, A. Obi, G. Junor & B. M. Gallant Oxygen-Tolerant Electrochemical CO2 Capture Using N-Heterocyclic Imines with Superstoichiometric Release Per Electron Nature Energy, 2026, 11, 1132–1140 (2026)
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. Tavasoli, B. M. Gallant & T. A. Hatton Feasibility and Design of Distributed Carbon Dioxide Capture Networks in Urban Environments ACS Sustainable Chem. Eng., 2026, 14 (1): 7–24.
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. E. M. Bernhardt, G. Leverick & B. M. Gallant Modulating Ammonium-Driven Hydrogen Evolution on Silver Electrodes in Amine-CO2 Capture Solutions ACS Energy Lett., 2026, 11 (1): 598–605
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. J.B. Waugh, M. Redko, X. Jin, G. Muldoon, E. Kovrigin, B.M. Gallant, Y. Li, G. Liu, & J. Muldoon Overcoming Misconceptions in Lithium Metal Polymer Electrolyte Batteries Energy & Environmental Science, 2025, 18, 9312-9323
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. D.A. Skiba, A. Melemed, & B.M. Gallant Correlated Calorimetric and Potentiometric Titration Elucidates Quantitative Lithium Cation Coordination Thermodynamics J. Am. Chem. Soc., 2025, 147, 41, 37144–37156
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. G.H. Byun, G. Leverick, L. Cartocci, T.A. Hatton, & B.M. Gallant CO2 Capture Characteristics of Electrochemically Generated Li2O in Molten Eutectic LiNO3–KNO3 at Moderate Temperature Energy & Fuels, 2025, 39, 18935–18945
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. K. Steinberg, W. Bao, K. Ryu, Y.S. Meng, B.M. Gallant Deciphering Unresolved Materials in Quantitative Analysis of Lithium Metal Solid Electrolyte Interphases ACS Energy Letters, 2025, 10, 4269-4276
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. J.H. Law, A.I. Ismail, G. Leverick, E.M. Bernhardt, A.M. Kassim, F. Hussin, B.M. Gallant, M.K. Aroua Thermodynamic Modeling of Aqueous Amine-Electrolyte Solvents for CO2 Absorption Greenhouse Gases: Science and Technology, 2025, 15, 381-393
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A.M. Melemed, D.A. Skiba, K.S. Jiang, G.H. Byun, B.M. Gallant Gas Evolution Markers of Dynamic Solid Electrolyte Interphase Formation on Calcium in a Borohydride-Based Electrolyte Electrochimica Acta, 2025, 526, 146170
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. K.S. Jiang, K-H. Kim, B.M. Gallant How reliable is coin-cell-based ranking of Li anode Coulombic efficiency? Joule, 2025, 9, 101963
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. Sevilla, H. Gao, K. Steinberg, and B. M. Gallant Rate Capability of Fluorinated Catholyte-Based Li Primary Batteries Governed by Interfacial and Bulk Li+ Transport Journal of Electrochemical Society, 2024, 171, 11, 110505
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. B. M. Gallant Mapping the uncharted interface Nature Energy, 2024, 9, 1185-1186
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. K. Steinberg and B. M. Gallant Revealing the Role of Lithium Carbonate at Lithium Metal Anodes Through Study of Gas-Reacted Interphases Journal of the Electrochemical Society, 2024, 171, 8, 080530
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. G.M. Hobold, C. Wang, K. J. Steinberg, Y. Li, and B. M. Gallant High Lithium Oxide Prevalence in the Lithium Solid–Electrolyte Interphase for High Coulombic Efficiency Nature Energy, 2024, 9, 580-591
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. M. Melemed, D. A. Skiba, K. J. Steinberg, K.-H. Kim, and B. M. Gallant Impact of Differential Ca2+ Coordination in Borohydride-Based Electrolyte Blends on Calcium Electrochemistry and SEI Formation The Journal of Physical Chemistry C, 2023, 127, 40, 19886–19899
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. R. B. Church, H. Gao, B. M. Gallant, and A. J. Hart Thick Architected Silicon Composite Battery Electrodes Using Honeycomb Patterned Carbon Nanotube Forests Journal of the Electrochemical Society, 2023, 170, 9, 090543
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. G. Leverick, E. M. Bernhardt, A. I. Ismail, J. H. Law, A. Arifutzzaman, M. K. Aroua, and B. M. Gallant Uncovering the Active Species in Amine-Mediated CO2 Reduction to CO on Ag ACS Catalysis 2023, 13, 12322–12337
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. F.-Y. Kuo, S. E. Jerng, and B. M. Gallant Dual Salt Cation-Swing Process for Electrochemical CO2 Separation ACS Central Science 2023, 9, 9, 1750–1757
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. H. Gao, K. Yoshinaga, K. J. Steinberg, T. M. Swager, and B. M. Gallant Cascade Defluorination of Perfluoroalkylated Catholytes Unlocks High Lithium Primary Battery Capacities Advanced Energy Materials, 2023, 13, 32, 2301751
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. K.-H. Kim, G. M. Hobold, K. J. Steinberg, and B. M. Gallant Confinement Effects of Hollow Structured Pt–Rh Electrocatalysts toward Complete Ethanol Electrooxidation ACS Nano, 2023, 17, 14, 14176–14188
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. D. Degoulange, R. Pandya, M. Deschamps, D. A. Skiba, B. M. Gallant, S. Gigan, H. B. de Aguiar and A. Grimaud Direct Imaging of Micrometer Thick Interfaces in Salt-Salt Aqueous Biphasic Systems Proceedings of the National Academy of Sciences, 2023, 120, e2220662120
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. G. M. Hobold, K.-H. Kim, and B. M. Gallant Beneficial vs. Inhibiting Passivation by the Native Lithium Solid Electrolyte Interphase Revealed by Electrochemical Li+ Exchange Energy & Environmental Science, 2023, 16, 2247-2261
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. R. Sevilla, H. Gao, K. J. Steinberg, and B. M. Gallant Elucidating Concentration-Dependent Energy Limitations in Li Primary Battery Fluoro-organosulfur Catholytes Journal of Physical Chemistry C, 2023, 127, 4, 1722-1732
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. H. Gao, A. R. Sevilla, G. M. Hobold, A. M. Melemed, R. Guo, S. C. Jones, and B. M. Gallant Fluoro-organosulfur catholytes to boost lithium primary battery energy Proceedings of the National Academy of Sciences, 2022, 119, e2121440119
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. R. Guo, K.-H. Kim and B. M. Gallant Impact of LiF Particle Morphology on Overpotential and Structure of Li Metal Deposition Journal of the Electrochemical Society, 2022, 169, 100523
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. M. Rahimi, A. Khurram, T. A. Hatton and B. M. Gallant Electrochemical carbon capture processes for mitigation of CO2 emissions Chem Soc Rev, 2022, 51, 8676-8695
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. G. M. Hobold, and B. M. Gallant Quantifying Capacity Loss Mechanisms of Li Metal Anodes beyond Inactive Li° ACS Energy Letters, 2022, 7, 3458-3466
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. K. S. Jiang, G. M. Hobold, R. Guo, K. H. Kim, A. M. Melemed, D. Wang, L. Zuin, and B. M. Gallant Probing the Functionality of LiFSI Structural Derivatives as Additives for Li Metal Anodes ACS Energy Letters, 2022, 7, 3378-3385
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. M. Diederichsen, R. Sharifian, J. S. Kang, Y. Liu, S. Kim, B. M. Gallant, D. Vermaas and T. A. Hatton Electrochemical methods for carbon dioxide separations Nature Reviews Methods Primers, 2022, 2, 68
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. S. E. Jerng and B. M. Gallant Electrochemical reduction of CO2 in the captured state using aqueous or nonaqueous amines iScience, 2022, 25, 7, 104558
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. O. Pfeiffer, A. Khurram, E. A. Olivetti and B. M. Gallant Life cycle assessment of CO2 conversion and storage in metal-CO2 electrochemical cells Journal of Industrial Ecology, 2022, 26, 1306-1317
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. H. Gao, A. Sevilla, B. M. Gallant Lithium primary batteries employing multi-electron carbon-fluorine bond cleavage in perfluoroalkylated reactants Journal of the Electrochemical Society, 2022, 169, 030535
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. M. Melemed, D. A. Skiba, B. M. Gallant Toggling calcium plating activity and reversibility through modulation of Ca2+ speciation in borohydride-based electrolytes Journal of Physical Chemistry C, 2022, 126, 892–902
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. R. Guo, G. M. Hobold, B. M. Gallant The ionic interphases of the lithium anode in solid state batteries Current Opinion in Solid State and Materials Science, 2022, 26, 100973
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. G. M. Hobold, J. Lopez, R. Guo, N. Minafra, A. Banerjee, Y. S. Meng, Y. Shao-Horn, and B. M. Gallant Moving beyond 99.9% Coulombic efficiency for lithium anodes in liquid electrolytes Nature Energy, 2021, 6, 951-960
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. H. Gao, M. He, R. Guo and B. M. Gallant Electrochemical fluoridation of manganese oxide by perfluorinated-gas conversion for Li-ion cathodes Batteries & Supercaps, 2021, 4, 1771
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. L. Droguet, G. M. Hobold, M. F. Lagadec, R. Guo, C. Lethien, M. Hallot, O. Fontaine, J.-M. Tarascon, B. M. Gallant, and A. Grimaud Can an inorganic coating serve as stable SEI for aqueous superconcentrated electrolytes? ACS Energy Letters, 2021, 6, 2575-2583
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. K. H. Kim, J. Oh, C. H. Jung, M. Kim, B. M. Gallant and S. H. Hong A novel solid solution Mn1-xVxP anode with tunable alloying/insertion hybrid electrochemical reaction for high performance lithium ion batteries Energy Storage Materials, 2021, 41, 310-320
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. R. Iwata, Lenan Zhang, Kyle L. Wilke, Shuai Gong, Mingfu He, Betar M. Gallant, Evelyn N. Wang Bubble growth and departure modes on wettable/non-wettable porous foams in alkaline water splitting Joule, 2021, 5, 887-900
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. B. M. Gallant Breaking down hidden barriers Nature Energy, 2021, 6, 13–14, News & Views
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. R. Guo, D. Wang, L. Zuin, and B. M. Gallant Reactivity and evolution of ionic phases in the lithium solid-electrolyte interphase ACS Energy Letters, 2021, 6, 877-885
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. M. Melemed and Betar M. Gallant Electrochemical Signatures of Interface-Dominated Behavior in the Testing of Calcium Foil Anodes Journal of the Electrochemical Society, 2020, 167, 140543
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. H. Gao, and B.M. Gallant Advances in the chemistry and applications of alkali-metal–gas batteries Nature Reviews Chemistry, 2020, 4, 566-583
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. Khurram, H. Gao, and B.M. Gallant Effects of operating temperature on amine-mediated CO2 capture and conversion in Li cells Journal of Physical Chemistry C, 2020, 124, 35, 18877-18885
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. J. Huang, L.A. Blanquer, J. Bonefacino, E.R. Logan, D.A. Dalla Corte, C. Delacourt, B.M. Gallant, S.T. Boles, J.R. Dahn, H.-Y. Tam, and J.M. Tarascon Operando decoding of chemical and thermal events in commercial Na(Li)-ion cells via optical sensors Nature Energy, 2020, 5, 674-683
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. R. Guo, and B.M. Gallant Li2O solid electrolyte interphase: probing transport properties at the chemical potential of lithium Chemistry of Materials, 2020, 32, 13, 5525-5533
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. Melemed, A. Khurram, and B.M. Gallant Current understanding of nonaqueous electrolytes for calcium‐based batteries Batteries & Supercaps, 2020 3, 7, 570-580. Cover Feature
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. G.M. Hobold, A. Khurram, and B.M. Gallant Operando gas monitoring of solid electrolyte interphase reactions on lithium Chemistry of Materials, 2020, 32, 2341-2352
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. M. He, R. Guo, G.M. Hobold, H. Gao, and B.M. Gallant The intrinsic behavior of lithium fluoride in solid electrolyte interphases on lithium Proceedings of the National Academy of Sciences, 2020, 117, 73-79, Highlighted in Nature Energy
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. V. Giordani, D. Tozier, J. Uddin, H. Tan, B.M. Gallant, B.D. McCloskey, J.R. Greer, G.V. Chase, and D. Addison Rechargeable-Battery Chemistry Based on Lithium Oxide Growth Through Nitrate Anion Redox Nature Chemistry, 2019, 11, 1133-1138
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. Khurram, Y. Yin, L. Yan, L. Zhao, and B.M. Gallant Governing Role of Solvent on Discharge Activity in Lithium-CO2 Batteries Journal of Physical Chemistry Letters, 2019, 10, 6679-6687
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. Khurram, L. Yan, Y. Yin, L. Zhao, and B.M. Gallant Promoting Amine-Activated Electrochemical CO2 Conversion with Alkali Salts Journal of Physical Chemistry C, 2019, 123, 18222-18231
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. H. Gao, Y. Li, R. Guo, and B.M. Gallant Controlling Fluoride‐Forming Reactions for Improved Rate Capability in Lithium‐Perfluorinated Gas Conversion Batteries Advanced Energy Materials, 2019, 1900393
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. A. Khurram, M. He and B.M. Gallant Tailoring the discharge reaction in Li-CO2 batteries through incorporation of CO2 capture chemistry Joule, 2018, 2, 2649-2666
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. M. He, Y. Li, R. Guo, and B.M. Gallant Electrochemical conversion of nitrogen trifluoride as a gas-to-solid cathode in Li batteries Journal of Physical Chemistry Letters, 2018, 9, 4700-4706
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. Y. Li, A. Khurram, and B.M. Gallant A high-capacity lithium-gas battery based on sulfur fluoride conversion Journal of Physical Chemistry C, 2018, 122, 7128-7138
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. V. Giordani, D. Tozier, H. Tan, C.M. Burke, B.M. Gallant, J. Uddin, J.R. Greer, B.D. McCloskey, G. Chase, and D. Addison A molten salt lithium-oxygen battery [publisher link] Journal of the American Chemical Society, 2016, 138, 2656-2663
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. Xu, B.M. Gallant, P.U. Wunderlich, T. Lohmann, J.R. Greer 3-dimensional Au microlattices as positive electrodes for Li-O2 batteries [publisher link] ACS Nano, 2015, 9, 5876-5883
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. B.M. Gallant, X.W. Gu, D.Z. Chen, J.R. Greer and N.S. Lewis Tailoring of interfacial mechanical shear strength by surface chemical modification of silicon microwires embedded in Nafion membranes [publisher link] ACS Nano, 2015, 9, 5143-5153
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. B.M. Gallant, S.W. Lee, T. Kawaguchi, P.T. Hammond, and Y. Shao-Horn Electrochemical performance of layer-by-layer assembled multiwalled carbon nanotube electrodes in nonaqueous cells [publisher link] Journal of The Electrochemical Society, 2014, 161, A1625-A1633
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. Horstmann, B. M. Gallant, R. R. Mitchell, W. G. Bessler, Y. Shao-Horn and M.Z. Bazant Rate-dependent morphology of Li2O2 growth in Li-O2 batteries [publisher link] Journal of Physical Chemistry Letters, 2013, 4, 4217-4222
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. M.N. Hyder, ‡ B. M. Gallant ‡ N. J. Shah, Y. Shao-Horn and P.T. Hammond Synthesis of highly stable sub-8 nm TiO2 nanoparticles and their multilayer electrodes of TiO2/MWNT for electrochemical applications [publisher link] Nano Letters, 2013, 13, 4610 – 4619
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. B. M. Gallant, D.G. Kwabi, R.R. Mitchell, C.V. Thompson and Y. Shao-Horn Influence of Li2O2 morphology on oxygen reduction and oxygen evolution kinetics in Li-O2 batteries [publisher link] Energy & Environmental Science, 2013, 6, 2518 – 2528
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. L. Zhong, R.R. Mitchell, Y. Liu, B. M. Gallant, C.V. Thompson, J.Y. Huang, S. Mao and Y. Shao-Horn In-situ Transmission Electron Microscopy observations of electrochemical oxidation of Li2O2 [publisher link] Nano Letters, 2013, 13, 2209-2214
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. R.R. Mitchell, B.M. Gallant, Y. Shao-Horn and C.V. Thompson Mechanisms of morphological evolution of Li2O2 particles during electrochemical growth [publisher link] Journal of Physical Chemistry Letters, 2013, 4, 1060 – 1064
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. Y.-C. Lu, ‡ B.M. Gallant, ‡ D.G. Kwabi, J.R. Harding, R.R. Mitchell, M.S. Whittingham and Y. Shao-Horn Lithium-oxygen batteries: Bridging mechanistic understanding and battery performance [publisher link] Energy & Environmental Science, 2013, 6, 750-768
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. B.M. Gallant, R.R. Mitchell, D.G. Kwabi, J. Zhou, L. Zuin, C.V. Thompson and Y. Shao-Horn Chemical and morphological changes of Li-O2 batteries upon cycling [publisher link] Journal of Physical Chemistry C, 2012, 116, 20800
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. H.R. Byon, ‡ B.M. Gallant, ‡ S.W. Lee and Y. Shao-Horn Role of oxygen functional groups in carbon nanotube / graphene freestanding electrodes for high performance lithium batteries [publisher link] Adv. Funct. Mater. 2012, 23, 1037 – 1045
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. S. W. Lee, ‡ B.M. Gallant, ‡ Y. Lee, N. Yoshida, D.Y. Kim, Y. Yamada, S. Noda, A. Yamada and Y. Shao-Horn Self-standing positive electrodes of oxidized few-walled carbon nanotubes for light-weight and high-power lithium batteries [publisher link] Energy Environ. Sci. 2012, 5, 5437
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. R.R. Mitchell, ‡ B.M. Gallant, ‡ C.V. Thompson and Y. Shao-Horn All-carbon nanofiber electrodes for high-energy rechargeable Li-O2 batteries [publisher link] Energy Environ. Sci. 2011, 4, 2952
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. S.W. Lee, B.M. Gallant, H.R. Byon, P.T. Hammond and Y. Shao-Horn Nanostructured carbon-based electrodes: Bridging the gap between thin-ﬁlm lithium-ion batteries and electrochemical capacitors [publisher link] Energy Environ. Sci. 2011, 4, 1972
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
+
+1. S.W. Lee, N. Yabuuchi, B.M. Gallant, S. Chen, B.S. Kim, P.T. Hammond and Y. Shao-Horn High-power lithium batteries from functionalized carbon nanotube electrodes [publisher link] Nature Nanotech. 2010, 5, 531
+
+    게시 페이지: <https://gallant.mit.edu/publications/>
 
 ## MIT — Ahmed Ghoniem
 
@@ -3435,7 +5839,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -3443,13 +5847,193 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Ming Guo
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 45건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/guom@mit.edu>
+출처: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Intercellular flow dominates the poroelasticity of multicellular tissues Authors: Fan Liu, Bo Gao, Liran Lei, Shuainan Liu, Hui Li*, and Ming Guo* Nature Physics 1-8 (2025)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Topology and Nuclear Size Determine Cell Packing on Growing Lung Spheroid Authors: Wenhui Tang, Jessie Huang, Adrian F Pegoraro, James H Zhang, Yiwen Tang, Darrell N Kotton, Dapeng Bi, Ming Guo* Physical Review X 15, 011067 (2025)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Volumetric compression for engineering living systems Authors: Yiwei Li* and Ming Guo* Nature Reviews Bioengineering 2(12), 1023-1038 (2024)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Learning collective cell migratory dynamics from a static snapshot with graph neural networks Authors: Haiqian Yang*, Florian Meyer, Shaoxun Huang, Liu Yang, Cristiana Lungu, Monilola A. Olayioye, Markus J. Buehler, and Ming Guo* PRX Life 2(4), 043010 (2024)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: An interpenetrating-network theory of the cytoskeletal networks in living cells Authors: Haiqian Yang*, Thomas Henzel, Eric M. Stewart, Ming Guo* Journal of the Mechanics and Physics of Solids Volume 189 (2024)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Local response and emerging nonlinear elastic length scale in biopolymer matrices Authors: Haiqian Yang, Estelle Berthier, Chenghai Li, Pierre Ronceray, Yu Long Han, Chase P. Broedersz, Shengqiang Cai, and Ming Guo* PNAS 120(23) e2304666120 (2023)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Collective curvature sensing and fluidity in three-dimensional multicellular systems Authors: Wenhui Tang, Amit Das, Adrian F. Pegoraro, Yu Long Han, Jessie Huang, David A. Roberts, Haiqian Yang, Jeffrey J. Fredberg, Darrell N. Kotton, Dapeng Bi, Ming Guo* Nature Physics 18, pages1371–1378 (2022)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Bulk Electroporation for Intracellular Delivery Directly Driven by Mechanical Stimulus Authors: Fan Liu*, Ze Yang, Rui Yao, Hui Li, Jia Cheng, Ming Guo* ACS nano 16, 11, 19363–19372 (2022)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Volumetric compression develops noise-driven single cell heterogeneity Authors: Xing Zhao, Jiliang Hu, Yiwei Li*, Ming Guo* PNAS 118 (51) e2110550118 (2021)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Configurational fingerprints of multicellular living systems Authors: Haiqian Yang, Adrian Pegoraro, Yulong Han, Wenhui Tang, Rohan Abeyaratne, Max Bi, Ming Guo* PNAS 118(44) e2109168118 (2021)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Optical tweezer measurements of asymptotic nonlinearities in complex fluids Authors: Satish Gupta, Kyle Lennon, Mary Joens, Hari Bandi, Martijn Van Galen, YuLong Han, Wenhui Tang, Yiwei Li, Steven Wasserman, James Swan, Ming Guo* Phys. Rev. E 104, 064604 (2021)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Cancer-cell stiffening via cholesterol depletion enhances adoptive T-cell immunotherapy Authors: Kewen Lei, Armand Kurum, Murat Kaynak, Lucia Bonati, Yulong Han, Veronika Cencen, Min Gao, Yu-Qing Xie, Yugang Guo, Mélanie Hannebelle, Yangping Wu, Guanyu Zhou, Ming Guo, Georg Fantner, Mahmut Sakar, Li Tang Nature Biomedical Engineering 5, 1411–1425 (2021)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: The cell as matter: Connecting molecular biology to cellular functions Authors: Yiwei Li, Wenhui Tang, Ming Guo* Matter 6(4) 1863-1891 (2021)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Nonlinear elasticity of biological basement membrane revealed by rapid inflation and deflation Authors: Hui Li, Yue Zheng, Yu Long Han, Shengqiang Cai, Ming Guo* PNAS 118 (11) e2022422118 (2021)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: The epithelial-mesenchymal transition and the cytoskeleton in bioengineered systems Authors: Susan E Leggett, Alex M Hruska, Ming Guo, Ian Y Wong Cell Communication and Signaling 119 (1) 1-24 (2021)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Generation of the compression-induced dedifferentiated adipocytes (CiDAs) using hypertonic medium Authors: Yiwei Li, Angelo S. Mao, Bo Ri Seo, Xing Zhao, Satish Kumar Gupta, Maorong Chen, Yu Long Han, Ting-Yu Shih, David J. Mooney, Ming Guo* Bio-protocol 11(4) e3920-e3920 (2021)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Insights from nanotechnology in COVID-19 treatment Authors: Zhongmin Tang, Xingcai Zhang, Yiqing Shu, Ming Guo, Han Zhang, Wei Tao Nanotoday 36, 101019 (2021)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Volumetric compression induces intracellular crowding to control intestinal organoid growth via Wnt/β-catenin signaling Authors: Yiwei Li, Maorong Chen, Jiliang Hu, Ren Sheng, Qirong Lin, Xi He, Ming Guo* Cell Stem Cell 28 (1), 63-78 (2021)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: In Pursuit of Designing Multicellular Engineered Living Systems: A Fluid Mechanical Perspective Authors: Jean Carlos Serrano, Satish Kumar Gupta, Roger D Kamm, Ming Guo* Annual Review of Fluid Mechanics 53, 411-437 (2021)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Gap junctions amplify spatial variations in cell volume in proliferating tumor spheroids Authors: Eoin McEvoy, Yu Long Han, Ming Guo, Vivek B Shenoy Nature Communications 11 (1), 1-11 (2020)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Fighting immune cold and reprogramming immunosuppressive tumor microenvironment with red blood cell membrane-camouflaged nanobullets Authors: Zhe Yang, Di Gao, Xiaoqing Guo, Lin Jin, Juanjuan Zheng, Ying Wang, Shuojia Chen, Xuewei Zheng, Li Zeng, Ming Guo, Xingcai Zhang, Zhongmin Tian ACS nano 14 (12), 17442-17457 (2020)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Compression-induced dedifferentiation of adipocytes promotes tumor progression Authors: Yiwei Li, Angelo S Mao, Bo Ri Seo, Xing Zhao, Satish Kumar Gupta, Maorong Chen, Yu Long Han, Ting-Yu Shih, David J Mooney, Ming Guo* Science advances 6 (4), eaax5611 (2020)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Cell swelling, softening and invasion in a three-dimensional breast cancer model Authors: Yu Long Han, Adrian F Pegoraro, Hui Li, Kaifu Li, Yuan Yuan, Guoqiang Xu, Zichen Gu, Jiawei Sun, Yukun Hao, Satish Kumar Gupta, Yiwei Li, Wenhui Tang, Hua Kang, Lianghong Teng, Jeffrey J Fredberg, Ming Guo* Nature physics 16 (1), 101-108 (2020)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Quantification of Cell-Matrix Interaction in 3D Using Optical Tweezers Authors: Satish Kumar Gupta, Jiawei Sun, Yu Long Han, Chenglin Lyu, Tianlei He, Ming Guo* Multi-scale Extracellular Matrix Mechanics and Mechanobiology 283-310 (2020)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: High stretchability, strength, and toughness of living cells enabled by hyperelastic vimentin intermediate filaments Authors: Jiliang Hu, Yiwei Li, Yukun Hao, Tianqi Zheng, Satish K Gupta, German Alberto Parada, Huayin Wu, Shaoting Lin, Shida Wang, Xuanhe Zhao, Robert D Goldman, Shengqiang Cai, Ming Guo* PNAS 116 (35), 17175-17180 (2019)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Helical nanofiber yarn enabling highly stretchable engineered microtissue Authors: Yiwei Li, Fengyun Guo, Yukun Hao, Satish Kumar Gupta, Jiliang Hu, Yaqiong Wang, Nü Wang, Yong Zhao, Ming Guo* PNAS 116 (19), 9245-9250 (2019)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Natural hydrogel in American lobster: A soft armor with high toughness and strength Authors: Jinrong Wu, Zhao Qin, Liangliang Qu, Hao Zhang, Fei Deng, Ming Guo* Acta biomaterialia 88, 102-110 (2019)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Anisotropic mechanics and dynamics of a living mammalian cytoplasm Authors: Satish Kumar Gupta, Yiwei Li, Ming Guo* Soft Matter 15 (2), 190-199 (2019)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Fracture mechanics modeling of popping event during daughter cell separation Authors: Yuxuan Jiang, Xudong Liang, Ming Guo, Yanping Cao, Shengqiang Cai Biomechanics and modeling in mechanobiology 17 (4), 1131-1137 (2018)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Cell contraction induces long-ranged stress stiffening in the extracellular matrix Authors: Yu Long Han, Pierre Ronceray, Guoqiang Xu, Andrea Malandrino, Roger D Kamm, Martin Lenz, Chase P Broedersz, Ming Guo* PNAS 115 (16), 4075-4080 (2018)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Cell volume change through water efflux impacts cell stiffness and stem cell fate Authors: Ming Guo, Adrian F Pegoraro, Angelo Mao, Enhua H Zhou, Praveen R Arany, Yulong Han, Dylan T Burnette, Mikkel H Jensen, Karen E Kasza, Jeffrey R Moore, Frederick C Mackintosh, Jeffrey J Fredberg, David J Mooney, Jennifer Lippincott-Schwartz, David A Weitz PNAS 114 (41), E8618-E8627 (2017)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Equilibrium and out-of-equilibrium mechanics of living mammalian cytoplasm Authors: Satish Kumar Gupta, Ming Guo* Journal of the Mechanics and Physics of Solids 107, 284-293 (2017)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Size-and speed-dependent mechanical behavior in living mammalian cytoplasm Authors: Jiliang Hu, Somaye Jafari, Yulong Han, Alan J Grodzinsky, Shengqiang Cai, Ming Guo* PNAS 114 (36), 9529-9534 (2017)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Rapid assembly of large scale transparent circuit arrays using PDMS nanofilm shaped coffee ring Authors: Yiwei Li, Weixia Zhang, Jiliang Hu, Yachao Wang, Xiaojun Feng, Wei Du, Ming Guo, Bi‐Feng Liu Advanced Functional Materials 27 (11), 1606045 (2017)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Title: Methods for determining the cellular functions of vimentin intermediate filaments Authors: Karen M Ridge, Dale Shumaker, Amélie Robert, Caroline Hookway, Vladimir I Gelfand, Paul A Janmey, Jason Lowery, Ming Guo, David A Weitz, Edward Kuczmarski, Robert D Goldman Methods in enzymology 568, 389-426 (2016)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Activity-driven fluctuations in living cells. É Fodor#, M Guo#, NS Gov, P Visco, DA Weitz, F van Wijland EPL (Europhysics Letters) 110 (4), 48005 (2015)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Alpha-actinin binding kinetics modulate cellular dynamics and force generation AJ Ehrlicher, R Krishnan, M Guo, CM Bidan, DA Weitz, MR Pollak Proceedings of the National Academy of Sciences 112 (21), 6619-6624 (2015)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Probing the stochastic, motor-driven properties of the cytoplasm using force spectrum microscopy Ming Guo, Allen J Ehrlicher, Mikkel H Jensen, Malte Renz, Jeffrey R Moore, Robert D Goldman, Jennifer Lippincott-Schwartz, Frederick C Mackintosh, David A Weitz Cell 158 (4), 822-832 (2014)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Identifying directional persistence in intracellular particle motion using Hidden Markov Models M Röding, M Guo, DA Weitz, M Rudemo, A Särkkä Mathematical biosciences 248, 140-145 (2014)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Thermally switched release from nanoparticle colloidosomes S Zhou, J Fan, SS Datta, M Guo, X Guo, DA Weitz Advanced Functional Materials 23 (47), 5925-5929 (2013)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. The role of vimentin intermediate filaments in cortical and cytoplasmic mechanics Ming Guo, Allen J Ehrlicher, Saleemulla Mahammad, Hilary Fabich, Mikkel H Jensen, Jeffrey R Moore, Jeffrey J Fredberg, Robert D Goldman, David A Weitz Biophysical journal 105 (7), 1562-1568 (2013)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Reactions in double emulsions by flow-controlled coalescence of encapsulated drops Haosheng Chen, Yuanjin Zhao, Jiang Li, Ming Guo, Jiandi Wan, David A Weitz, Howard A Stone Lab on a Chip 11 (14), 2312-2315 (2011)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Changes in leaf photosynthetic characteristics and water use efficiency along with tree height of 4 tree species C He, J Li, M Guo, Y Wu, C Chen Acta Ecologica Sinica 28 (7), 3008-3016 (2008)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Changes of Leaf Morphological, Anatomical Structure and Carbon Isotope Ratio with the Height of the Wangtian Tree (Parashorea chinensis) in Xishuangbanna, China CX He, JY Li, P Zhou, M Guo, QS Zheng Journal of integrative plant biology 50 (2), 168-173 (2008)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
+
+1. Meniscus-climbing behavior and its minimum free-energy mechanism Y Yu, M Guo, X Li, QS Zheng Langmuir 23 (21), 10546-10550 (2007)
+
+    게시 페이지: <https://guom70.wixsite.com/mysite-1/publication>
 
 ## MIT — Nicolas Hadjiconstantinou
 
@@ -3915,25 +6499,35 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:47:47.611Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected. Full laboratory publications navigation and extraction not yet completed; resume from saved discovered_links. No inference from roster beyond identifying requested subject. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/TRAKYLAS@MIT.EDU>
 
 ## MIT — John Hart
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://mechanosynthesis.mit.edu/>
 
 출처: <https://meche.mit.edu/people/faculty/ajhart@mit.edu>
+
+출처: <https://mechanosynthesis.mit.edu/publications/>
+
+출처: <http://web.mit.edu/lmp>
+
+출처: <http://pergatory.mit.edu/>
 
 ## MIT — Douglas Hart
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -3941,13 +6535,37 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Asegun Henry
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 6건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/ase@mit.edu>
+출처: <https://ase.mit.edu/publications/page/3/>
+
+1. Mahiro Kato, Asegun Henry, Samuel Graham, Duc Hong Doan, Kazuyoshi Fushinobu International Journal of Numerical Methods for Heat & Fluid Containment materials for liquid tin at 1350 °C as a heat transfer fluid for high temperature concentrated solar power Y. Zhang, Y. Cai, S. H. Hwang, G. Wilk, A. DeAngelis, A. Henry, K. H. Sandhage (2018)
+
+    게시 페이지: <https://ase.mit.edu/publications/page/3/>
+
+1. Design of a High Temperature (1,350°C) Solar Receiver Based on a Liquid Metal Heat Transfer Fluid: Sensitivity Analysis A. DeAngelis, H. R. Seyf, R. Berman, G. Schmidt, D. Moore, A. Henry (2018)
+
+    게시 페이지: <https://ase.mit.edu/publications/page/3/>
+
+1. Estimating the cost of high temperature liquid metal based concentrated solar power G. Wilk, A. DeAngelis, A. Henry (2018)
+
+    게시 페이지: <https://ase.mit.edu/publications/page/3/>
+
+1. The Importance of Phonons with Negative Phase Quotient in Disordered Solids H. R. Seyf, W. Lv, A. Rohskopf and A. Henry (2017)
+
+    게시 페이지: <https://ase.mit.edu/publications/page/3/>
+
+1. Phonon optimized interatomic potential for aluminum M. G. Muraleedharan, A. Rohskopf, V. Yang and A. Henry (2017)
+
+    게시 페이지: <https://ase.mit.edu/publications/page/3/>
+
+1. H. R. Seyf, L. Yates, T. L. Bougher, S. Graham, B. A. Cola, T. Detchprohm, M-H. Ji, J. Kim, R. Dupuis, W. Lv, A. Henry (2017)
+
+    게시 페이지: <https://ase.mit.edu/publications/page/3/>
 
 ## MIT — Neville Hogan
 
@@ -5509,7 +8127,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -5595,13 +8213,1297 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — John Leonard
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 321건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU>
+출처: <https://marinerobotics.mit.edu/publications>
+
+1. J. Fu, Y. Du, K. Singh, J. B. Tenenbaum, and J. J. Leonard, “NeuSE: Neural SE(3)-Equivariant Embedding for Long-Term Object-Based SLAM,” Intl. J. of Robotics Research, vol. 45, no. 1, pp. 159–189, 2026.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. Yang, J. Hong, J. J. Leonard, and Y. Girdhar, “ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting,” arXiv preprint arXiv:2604.11992, 2026.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Hong, R. Choi, and J. J. Leonard, “Semantic Enhancement for Object SLAM with Heterogeneous Multimodal Large Language Model Agents,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2025.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Z. Lu, J. Ye, and J. Leonard, “3DGS-CD: 3D Gaussian Splatting-Based Change Detection for Physical Object Rearrangement,” IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2662–2669, 2025.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. Singh and J. Leonard, “Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2025, pp. 1706–1712.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. Yang, J. J. Leonard, and Y. Girdhar, “SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2025, pp. 7632–7638.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Bonnel, A. Vardi, J. Leonard, and S. E. Dosso, “From Geoacoustic Inversion to Seabed Tomography Using a Distributed Network of Sources and Receivers,” The Journal of the Acoustical Society of America, vol. 157, no. 4_Supplement, p. A196, 2025.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Z. Chen, H. Chang, H. Bao, R. Choi, A. Yu, R.-Z. Qiu, Y. Ravan, J. J. Leonard, X. Wang, P. Isola, Y. Wang, and G. Yang, “The Neverwhere Visual Parkour Benchmark Suite.” 2025.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Y. Zhang, H. S. Sawhney, and J. J. Leonard, “ShapeICP: Iterative Category-Level Object Pose and Shape Estimation from Depth,” IEEE Robotics and Automation Letters, 2025.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. Doherty, A. Papalia, Y. Huang, D. Rosen, B. Englot, and J. Leonard, “MAC: Graph Sparsification by Maximizing Algebraic Connectivity,” arXiv preprint arXiv:2403.19879, 2024.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Papalia, Y. Tian, D. M. Rosen, J. P. How, and J. J. Leonard, “An Overview of the Burer-Monteiro Method for Certifiable Robot Perception,” arXiv preprint arXiv:2410.00117, 2024.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Papalia, A. Fishberg, B. W. O’Neill, J. P. How, D. M. Rosen, and J. J. Leonard, “Certifiably Correct Range-Aided SLAM,” IEEE Trans. Robotics, vol. 40, pp. 4265–4283, 2024.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. Singh, T. Magoun, and J. J. Leonard, “LOSS-SLAM: Lightweight Open-Set Semantic Simultaneous Localization and Mapping,” arXiv preprint arXiv:2404.04377, 2024.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. Singh, J. Hong, N. R. Rypkema, and J. J. Leonard, “Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2024.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Turrisi, H. Huang, F. Strömstad, J. Morrison, A. Papalia, J. Leonard, and M. R. Benjamin, “The Spurdog AUV: A Field Configurable and Optionally A-Sized Low-Cost AUV,” in IEEE/OES Autonomous Underwater Vehicles Symposium, 2024, pp. 1–6.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Yu, G. Yang, R. Choi, Y. Ravan, J. Leonard, and P. Isola, “Learning Visual Parkour from Generated Images,” in 8th Annual Conference on Robot Learning (CoRL), 2024.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Vardi, P. H. Dahl, D. Dall’Osto, D. Knobles, P. Wilson, J. Leonard, and J. Bonnel, “Estimation of the Spatial Variability of the New England Mud Patch Geoacoustic Properties Using a Distributed Array of Hydrophones and Deep Learning,” The Journal of the Acoustical Society of America, vol. 156, no. 6, pp. 4229–4241, 2024.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Flynn, B. W. O’Neill, D. P. Hart, and J. J. Leonard, “A Comparative Analysis of Maneuvering Strategies for Cooperative Range-based Localization,” in OCEANS 2023-Limerick, 2023.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Fu, Y. Du, K. Singh, J. B. Tenenbaum, and J. J. Leonard, “NeuSE: Neural SE (3)-Equivariant Embedding for Consistent Spatial Understanding with Objects,” in Proceedings of Robotics: Science and Systems (RSS), 2023.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Q. Huang and J. J. Leonard, “GAPSLAM: Blending Gaussian Approximation and Particle Filters for Real-Time Non-Gaussian SLAM,” IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2023.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Q. Huang, J. DeGol, V. Fragoso, S. N. Sinha, and J. J. Leonard, “Optimizing fiducial marker placement for improved visual localization,” IEEE Robotics and Automation Letters, vol. 8, no. 5, pp. 2756–2763, 2023.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Papalia, A. Fishberg, B. W. O’Neill, J. P. How, D. M. Rosen, and J. J. Leonard, “Certifiably Correct Range-Aided SLAM,” arXiv preprint arXiv:2302.11614, 2023.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Papalia, J. Morales, K. J. Doherty, D. M. Rosen, and J. J. Leonard, “SCORE: A second-order conic initialization for range-aided SLAM,” in 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023, pp. 10637–10644.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Rosinol, J. J. Leonard, and L. Carlone, “NeRF-SLAM: Real-time dense monocular slam with neural radiance fields,” IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2023.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Rosinol, J. J. Leonard, and L. Carlone, “Probabilistic volumetric fusion for dense monocular SLAM,” in Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2023, pp. 3097–3105.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. Singh, N. Rypkema, and J. Leonard, “Attention-based Self-Supervised Hierarchical Semantic Segmentation for Underwater Imagery,” in OCEANS 2023-Limerick, 2023.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Y. Zhang, O. A. Severinsen, J. J. Leonard, L. Carlone, and K. Khosoussi, “Data-Association-Free Landmark-based SLAM,” arXiv preprint arXiv:2302.13264, 2023.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. J. Doherty, D. M. Rosen, and J. J. Leonard, “Performance guarantees for spectral initialization in rotation averaging and pose-graph SLAM,” in 2022 International Conference on Robotics and Automation (ICRA), 2022, pp. 5608–5614.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. J. Doherty, D. M. Rosen, and J. J. Leonard, “Spectral measurement sparsification for pose-graph SLAM,” in 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, pp. 01–08.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. J. Doherty, Z. Lu, K. Singh, and J. J. Leonard, “Discrete-continuous smoothing and mapping,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 12395–12402, 2022.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Fu, Y. Du, K. Singh, J. B. Tenenbaum, and J. J. Leonard, “Robust Change Detection Based on Neural Descriptor Fields,” in 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, pp. 2817–2824.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Fu, C. Lin, Y. Taguchi, A. Cohen, Y. Zhang, S. Mylabathula, and J. J. Leonard, “PlaneSDF-Based Change Detection for Long-Term Dense Mapping,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 9667–9674, 2022.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Q. Huang, A. Papalia, and J. J. Leonard, “Nested Sampling for Non-Gaussian Inference in SLAM Factor Graphs,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 9232–9239, 2022.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Q. Huang, C. Pu, K. Khosoussi, D. M. Rosen, D. Fourie, J. P. How, and J. J. Leonard, “Incremental non-Gaussian inference for SLAM using normalizing flows,” IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1458–1475, 2022.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Z. Lu, Y. Zhang, K. Doherty, O. A. Severinsen, E. Yang, and J. Leonard, “SLAM-Supported Self-Training for 6D Object Pose Estimation,” arXiv preprint arXiv:2203.04424, 2022.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. W. O’Neill, J. R. Pelletier, S. Calvert, A. Papalia, J. J. Leonard, L. Freitag, and E. Gallimore, “Loosely-Coupled Human-Robot Teams for Enhanced Undersea Operations,” in OCEANS 2022, Hampton Roads, 2022.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Papalia, N. Thumma, and J. Leonard, “Prioritized Planning for Cooperative Range-Only Localization in Multi-Robot Networks,” in 2022 International Conference on Robotics and Automation (ICRA), 2022, pp. 10753–10759.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. R. Pelletier, B. W. O’Neill, J. J. Leonard, L. Freitag, and E. Gallimore, “AUV-Assisted Diver Navigation,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 10208–10215, 2022.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. V. Amblard, T. P. Osedach, A. Croux, A. Speck, and J. J. Leonard, “Lidar-Monocular Surface Reconstruction Using Line Segments,” IEEE Intl. Conf. on Robotics and Automation (ICRA), 2021.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Fu, Q. Huang, K. Doherty, Y. Wang, and J. J. Leonard, “A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM,” in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. X. Huang, S. G. McGill, J. A. DeCastro, L. Fletcher, J. J. Leonard, B. C. Williams, and G. Rosman, “CARPAL: Confidence-aware intent recognition for parallel autonomy,” IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 4433–4440, 2021.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Q. Huang, C. Pu, D. Fourie, K. Khosoussi, J. P. How, and J. J. Leonard, “NF-iSAM: Incremental Smoothing and Mapping via Normalizing Flows,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2021.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Z. Lu, Q. Huang, K. Doherty, and J. J. Leonard, “Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM,” in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. M. Rosen, K. J. Doherty, A. Terán Espinoza, and J. J. Leonard, “Advances in inference and representation for simultaneous localization and mapping,” Annual Review of Control, Robotics, and Autonomous Systems, vol. 4, pp. 215–242, 2021.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Y. Zhang and J. J. Leonard, “A Front-End for Dense Monocular SLAM using a Learned Outlier Mask Prior,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2021.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Y. Zhang and J. J. Leonard, “Bootstrapped Self-Supervised Training with Monocular Video for Semantic Segmentation and Depth Estimation,” in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. T. P. Osedach, K. Singh, P. V. Texeira, J. Arber, A. Levesque, C. Chahbazia, D. Jain, B. Englot, J. J. Leonard, S. Vannuffelen, and S. Ossian, “Proxy Platform for Underwater Inspection, Maintenance, and Repair,” in Proc. of the IEEE/MTS OCEANS Conf. and Exhibition, 2020.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. Doherty, D. Baxter, E. Schneeweiss, and J. Leonard, “Probabilistic Data Association via Mixture Models for Robust Semantic SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2020.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. E. M. Fischell, A. R. Kroo, and B. W. O’Neill, “Single-Hydrophone Low-Cost Underwater Vehicle Swarming,” IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 354–361, 2020.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. Fourie, N. R. Rypkema, P. V. Teixeira, S. Claassens, E. Fischell, and J. Leonard, “Towards Real-Time Non-Gaussian SLAM for Underdetermined Navigation,” in 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 4438–4445.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. X. Huang, S. McGill, J. DeCastro, L. Fletcher, J. Leonard, B. Williams, and G. Rosman, “DiversityGAN: Diversity-Aware Vehicle Motion Prediction via Latent Semantic Sampling,” in IEEE Robotics and Automation Letters, 2020.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, D. A. Mindell, and E. L. Stayton, “Autonomous Vehicles, Mobility, and Employment Policy: The Roads Ahead.” MIT Work of the Future, 2020.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. D. Martin, K. Doherty, C. Cyr, B. Englot, and J. Leonard, “Variational Filtering with Copula Models for SLAM,” in 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 5066–5073.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Papalia and J. Leonard, “Network Localization Based Planning for Autonomous Underwater Vehicles with Inter-Vehicle Ranging,” in IEEE/OES Autonomous Underwater Vehicles Symposium, 2020, pp. 1–6.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Y. Cheung, D. Fourie, N. R. Rypkema, P. V. Teixeira, H. Schmidt, and J. Leonard, “Non-Gaussian SLAM utilizing Synthetic Aperture Sonar,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2019, pp. 3457–3463.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. Doherty, D. Fourie, and J. Leonard, “Multimodal Semantic SLAM with Probabilistic Data Association,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2019, pp. 2419–2425.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. Fourie, P. V. Teixeira, and J. J. Leonard, “Non-Parametric Mixed-Manifold Products Using Multiscale Kernel Densities.,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2019, pp. 6656–6662.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. X. Huang, S. G. McGill, J. A. DeCastro, B. C. Williams, L. Fletcher, J. J. Leonard, and G. Rosman, “Diversity-aware vehicle motion prediction via latent semantic sampling,” in arXiv preprint arXiv:1911.12736, 2019.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. G. McGill, G. Rosman, T. Ort, A. Pierson, I. Gilitschenski, B. Araki, L. Fletcher, S. Karaman, D. Rus, and J. J. Leonard, “Probabilistic Risk Metrics for Navigating Occluded Intersections,” IEEE Robotics and Automation Letters, vol. 4, no. 4, pp. 4322–4329, 2019.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. Pillai and J. Leonard, “Self-Supervised Visual Place Recognition Learning in Mobile Robots,” in arXiv preprint arXiv:1905.04453, 2019.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. M. Rosen, L. Carlone, A. S. Bandeira, and J. J. Leonard, “SE-Sync: A certifiably correct algorithm for synchronization over the special Euclidean group,” The International Journal of Robotics Research, vol. 38, no. 2-3, pp. 95–125, 2019.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. P. N. V. Teixeira, D. Fourie, M. Kaess, and J. J. Leonard, “Dense, Sonar-Based Reconstruction of Underwater Scenes,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2019, pp. 8060–8066.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. Woerner, M. R. Benjamin, M. Novitzky, and J. J. Leonard, “Quantifying protocol evaluation for autonomous collision avoidance,” Autonomous Robots, vol. 43, no. 4, pp. 967–991, 2019.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Straub, O. Freifeld, G. Rosman, J. J. Leonard, and J. W. F. III, “The Manhattan Frame Model: Manhattan World Inference in the Space of Surface Normals,” IEEE Trans. Pattern Anal. Machine Intell., vol. 40, no. 1, pp. 235–249, Jan. 2018.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. G. Huang, K. Eckenhoff, and J. Leonard, “Optimal-state-constraint EKF for visual-inertial navigation,” 2018, pp. 125–139.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. L. Paull, M. Seto, J. J. Leonard, and H. Li, “Probabilistic cooperative mobile robot area coverage and its application to autonomous seabed mapping,” in Intl. J. of Robotics Research, 2018, vol. 37, no. 1, pp. 21–45.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. L. Paull, M. Seto, S. Saeedi, and J. J. Leonard, “Navigation for Underwater Vehicles,” in Encyclopedia of Robotics, Berlin, Heidelberg: Springer Berlin Heidelberg, 2018, pp. 1–15.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. T. P. Setterfield, D. W. Miller, J. J. Leonard, and A. Saenz-Otero, “Mapping and determining the center of mass of a rotating object using a moving observer,” The International Journal of Robotics Research, vol. 37, no. 1, pp. 83–103, 2018.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. T. P. Setterfield, D. W. Miller, A. Saenz-Otero, E. Frazzoli, and J. J. Leonard, “Inertial Properties Estimation of a Passive On-orbit Object Using Polhode Analysis,” in Journal of Guidance, Control, and Dynamics, 2018, vol. 41, no. 10, pp. 2214–2231.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. P. V. Teixeira, M. Kaess, F. S. Hover, and J. J. Leonard, “Multibeam Data Processing for Underwater Mapping,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2018, pp. 1877–1884.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. Fourie, S. D. Claassens, S. Pillai, R. Mata, and J. J. Leonard, “Centralized graph databases for mobile Robotics,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Singapore, 2017, pp. 6331–6337.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. F. Naser, D. Dorhout, S. Proulx, S. Pendleton, H. Andersen, W. Schwarting, J. Alonso-Mora, L. Paull, S. Karaman, R. Tedrake, J. Leonard, and D. Rus, “A Parallel Autonomy Research Platform.” IEEE, pp. 933–940, June 2017.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. L. Paull, J. Tani, H. Ahn, J. Alonso-Mora, L. Carlone, M. Cap, Y. F. Chen, C. Choi, J. Dusek, Y. Fang, D. Hoehener, S.-Y. Liu, M. Novitzky, I. F. Okuyama, J. Pazis, G. Rosman, V. Varricchio, H.-C. Wang, D. Yershov, H. Zhao, M. Benjamin, C. Carr, M. Zuber, S. Karaman, E. Frazzoli, D. D. Vecchio, D. Rus, J. How, J. Leonard, and A. Censi, “Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2017.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Y. Latif, G. Huang, J. J. Leonard, and J. A. Neira, “Sparse optimization for robust and efficient loop closing,” Robotics and Autonomous Systems, vol. 93, pp. 13–26, 2017.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Y. Latif, G. Huang, J. Leonard, and J. Neira, “Sparse optimization for robust and efficient loop closing,” in Robotics and Autonomous Systems, 2017, vol. 93, pp. 13–26.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. Mu, L. Paull, A. Agha-mohammadi, J. Leonard, and J. How, “Two-Stage Focused Inference for Resource-Constrained Minimal Collision Navigation,” IEEE Trans. Robotics, vol. 33, no. 1, pp. 124–140, 2017.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. L. Paull, J. Tani, H. Ahn, J. Alonso-Mora, L. Carlone, M. Cap, Y. F. Chen, C. Choi, J. Dusek, Y. Fang, D. Hoehener, S.-Y. Liu, M. Novitzky, I. F. Okuyama, J. Pazis, G. Rosman, V. Varricchio, H.-C. Wang, D. Yershov, H. Zhao, M. Benjamin, C. Carr, M. Zuber, S. Karaman, E. Frazzoli, D. D. Vecchio, D. Rus, J. How, J. Leonard, and A. Censi, “Duckietown: an open, inexpensive and flexible platform for autonomy education and research,” 2017, pp. 1497–1504.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. Pillai and J. Leonard, “Towards Visual Ego-motion Learning in Robots,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2017, pp. 5533–5540.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. Pillai and J. Leonard, “Self-Supervised Place Recognition in Mobile Robots,” in IROS 2017 Learning for Localization and Mapping Workshop, 2017.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. T. P. Setterfield, D. Miller, A. Saenz-Otero, and J. J. Leonard, “Smoothing-Based Estimation of an Inspector Satellite Trajectory Relative to a Passive Object,” in IEEE Aerospace, 2017, pp. 1–11.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Straub, R. Cabezas, J. Leonard, and J. W. F. III, “Direction-aware semi-dense SLAM,” in arXiv preprint arXiv:1709.05774, 2017.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. Woerner, M. Novitzky, M. R. Benjamin, and J. J. Leonard, “Legibility and predictability of protocol-constrained motion: Evaluating human-robot ship interactions under COLREGS collision avoidance requirements,” in Robotics Science and Systems, 2017.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. Fourie, J. J. Leonard, and M. Kaess, “A Nonparametric Belief Solution to the Bayes Tree,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems, IROS, Daejeon, Korea, 2016, pp. 2189–2196.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. L. Paull and G. H. J. J. Leonard, “A Unified Resource-Constrained Framework for Graph SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2016, pp. 1346–1353.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. Rosen, J. Mason, and J. J. Leonard, “Towards Lifelong Feature-Based Mapping in Semi-Static Environments,” in International Conference on Robotics and Automation (ICRA), 2016, pp. 1063–1070.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Anderson, E. Fischell, T. Howe, T. Miller, A. Parrales-Salinas, N. Rypkema, D. Barrett, M. Benjamin, A. Brennen, M. DeFillipo, J. J. Leonard, L. Paull, H. Schmidt, N. Wang, and A. Yaari, “An Overview of MIT-Olin’s Approach in the AUVSI RobotX Competition,” 2016, pp. 61–80.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. G. Huang, K. Eckenhoff, and J. Leonard, “Optimal-State-Constraint EKF for Visual-Inertial Navigation,” in Proceedings of the Second International Symposium of Robotics Research, 2016.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and A. Bahr, “Autonomous Underwater Vehicle Navigation,” in Springer Handbook of Ocean Engineering, M. R. Dhanak and N. I. Xiros, Eds. Springer, 2016, pp. 341–358.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. Lowry, N. Sünderhauf, P. Newman, J. J. Leonard, D. Cox, P. Corke, and M. J. Milford, “Visual place recognition: A survey,” in IEEE Trans. Robotics, 2016, vol. 32, no. 1, pp. 1–19.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. Mu, M. Giamou, L. Paull, A.-akbar Agha-mohammadi, J. J. Leonard, and J. P. How, “Information-based Active SLAM via Topological Feature Graphs,” in 55th IEEE Int. Conference on Decision and Control, 2016, pp. 5583–5590.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. Mu, S.-Y. Liu, L. Paull, J. Leonard, and J. How, “SLAM with Objects using a Nonparametric Pose Graph,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2016, pp. 4602–4609.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. Pillai, S. Ramalingam, and J. J. Leonard, “High-Performance and Tunable Stereo Reconstruction,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2016, pp. 3188–3195.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. M. Rosen, L. Carlone, A. S. Bandeira, and J. J. Leonard, “A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group,” in Intl. Workshop on the Algorithmic Foundations of Robotics, WAFR, 2016.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. C. Stachniss, J. J. Leonard, and S. Thrun, “Simultaneous Localization and Mapping,” in Springer Handbook of Robotics, Second Edition, B. Siciliano and O. Khatib, Eds. Springer, 2016, pp. 1153–1176.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Tani, L. Paull, M. T. Zuber, D. Rus, J. How, J. Leonard, and A. Censi, “Duckietown: an innovative way to teach autonomy,” in International Conference EduRobotics 2016, 2016, pp. 104–121.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. P. V. Teixeira, M. Kaess, F. S. Hover, and J. J. Leonard, “Underwater Inspection using Sonar-based Volumetric Submaps,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2016, pp. 4288–4295.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K. L. Woerner, M. R. Benjamin, M. Novitzky, and J. J. Leonard, “Collision avoidance road test for COLREGS-constrained autonomous vehicles,” in OCEANS 2016 MTS/IEEE Monterey, 2016, pp. 1–6.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. L. Carlone, D. M. Rosen, G. C. Calafiore, J. J. Leonard, and F. Dellaert, “Lagrangian Duality in 3D SLAM: Verification Techniques and Optimal Solutions,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Hamburg, Germany, 2015.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Straub, B. Nishchal, J. Leonard, and J. W. F. III, “Real-Time Manhattan World Rotation Estimation in 3D,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Hamburg, Germany, 2015, pp. 1913–1920.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. Wang, C. Finn, L. Paull, M. Kaess, R. Rosenholtz, S. Teller, and J. Leonard, “Bridging Text Spotting and SLAM with Junction Features,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Hamburg, Germany, 2015.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. Mu, A.-akbar Agha-mohammadi, L. Paull, M. Graham, J. How, and J. Leonard, “Two-Stage Focused Inference for Resource-Constrained Collision-Free Navigation,” in Proceedings of Robotics: Science and Systems, Rome, Italy, 2015.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. Pillai and J. J. Leonard, “Monocular SLAM Supported Object Recognition,” in Robotics: Science and Systems (RSS), 2015.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Finman, L. Paull, and J. J. Leonard, “Toward Object-based Place Recognition in Dense RGB-D Maps,” in ICRA workshop on visual place recognition in changing environments, 2015.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. L. Paull, G. Huang, M. Seto, and J. J. Leonard, “Communication-Constrained Multi-AUV Cooperative SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. Rosen, C. DuHadway, and J. J. Leonard, “A Convex Relaxation for Approximate Global Optimization in Simultaneous Localization and Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015, pp. 5822–5829.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. T. Steiner, G. Huang, and J. J. Leonard, “Location Utility-based Map Reduction,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015, pp. 479–486.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. P. Corcoran, T. J. Steiner, M. Bertolotto, and J. J. Leonard, “Appearance-based SLAM in a Network Space,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015, pp. 5791–5798.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Finman, L. Paull, and J. J. Leonard, “Toward object-based place recognition in dense rgb-d maps,” in ICRA Workshop Visual Place Recognition in Changing Environments, Seattle, WA, 2015, vol. 76.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. G. Huang, M. Kaess, and J. J. Leonard, “Consistent Unscented Incremental Smoothing for Multi-robot Cooperative Target Tracking,” Robotics and Autonomous Systems, vol. 69, pp. 52–67, 2015.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. G. Huang, M. Kaess, and J. J. Leonard, “Consistent unscented incremental smoothing for multi-robot cooperative target tracking,” in Robotics and autonomous systems, 2015, vol. 69, pp. 52–67.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. Mu, A.-akbar Agha-mohammadi, L. Paull, M. Graham, J. How, and J. Leonard, “Two-stage focused inference for resource-constrained collision-free navigation,” 2015.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. Nams, M. L. Seto, and J. J. Leonard, “On-line adaptation of underwater acoustic transmission rates to optimize communications for collaborative AUV missions,” 2015, pp. 1–8.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. L. Paull, G. Huang, M. Seto, and J. J. Leonard, “Communication-constrained multi-AUV cooperative SLAM,” 2015, pp. 509–516.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. Pillai and J. Leonard, “Monocular slam supported object recognition,” in arXiv preprint arXiv:1506.01732, 2015.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Salvato, R. Finman, and J. Leonard, “Multi-Volume High Resolution RGB-D Mapping with Dynamic Volume Placement,” in arXiv preprint arXiv:1511.07106, 2015.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. E. Tweddle, A. Saenz‐Otero, J. J. Leonard, and D. W. Miller, “Factor Graph Modeling of Rigid‐body Dynamics for Localization, Mapping, and Parameter Estimation of a Spinning Object in Space,” in Journal of Field Robotics, 2015, vol. 32, no. 6, pp. 897–933.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. VanMiddlesworth, M. Kaess, F. Hover, and J. J. Leonard, “Mapping 3D underwater environments with smoothed submaps,” 2015, pp. 17–30.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. T. Whelan, M. Kaess, H. Johannsson, M. Fallon, J. J. Leonard, and J. McDonald, “Real-time large scale dense RGB-D SLAM with volumetric fusion,” Intl. J. of Robotics Research, vol. 34, no. 4-5, pp. 598–626, 2015.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. K.-T. Yu, J. Leonard, and A. Rodriguez, “Shape and pose recovery from planar pushing,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2015, pp. 1208–1215.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. M. Rosen, M. Kaess, and J. J. Leonard, “RISE: An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation,” IEEE Trans. Robotics, vol. 30, no. 5, pp. 1091–1108, Oct. 2014.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. Y. Latif, G. Huang, J. Leonard, and J. Neira, “An Online Sparsity-Cognizant Loop-Closure Algorithm for Visual Navigation,” in Robotics: Science and Systems (RSS), Berkeley, CA, 2014.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Finman, T. Whelan, M. Kaess, and J. J. Leonard, “Efficient Incremental Map Segmentation in Dense RGB-D Maps,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2014, pp. 5488–5494.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Finman, T. Whelan, L. Paull, and J. J. Leonard, “Physical Words for Place Recognition in Dense RGB-D Maps,” in ICRA workshop on visual place recognition in changing environments, 2014.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. G. Huang, M. Kaess, and J. J. Leonard, “Towards consistent visual-inertial navigation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2014, pp. 4926–4933.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Straub, G. Rosman, O. Freifed, J. J. Leonard, and J. W. Fisher, “A Mixture of Manhattan Frames: Beyond the Manhattan World,” in Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on, Portland, OR, 2014, pp. 3770–3777.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. P. Corcoran, M. Bertolotto, and J. Leonard, “Cognitively adequate topological robot localization and mapping,” 2014, pp. 17–24.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. W. Kaeli, J. J. Leonard, and H. Singh, “Visual summaries for low-bandwidth semantic mapping with autonomous underwater vehicles,” 2014, pp. 1–7.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. C. Leedekerken, M. F. Fallon, and J. J. Leonard, “Mapping complex marine environments with autonomous surface craft,” 2014, pp. 525–539.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. L. Paull, M. Seto, and J. J. Leonard, “Decentralized Cooperative Trajectory Estimation for Autonomous Underwater Vehicles,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2014, pp. 184–191.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. M. Rosen, G. Huang, and J. J. Leonard, “Inference over heterogeneous finite-/infinite-dimensional systems using factor graphs and Gaussian processes,” 2014, pp. 1261–1268.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. Tweddle, T. P. Setterfield, A. Saenz-Otero, D. W. Miller, and J. Leonard., “Experimental Evaluation of On-board, Visual Mapping of an Object Spinning in Micro-Gravity aboard the International Space Station,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2014, pp. 2333–2340.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. Tweddle, A. Saenz-Otero, D. W. Miller, and J. Leonard., “Factor Graph Modeling of Rigid-Body Dynamics for Localization, Mapping and Parameter Estimation of a Spinning Object in Space,” J. of Field Robotics, vol. 32, no. 6, pp. 897–933, 2014.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. Wei, W. Lu, P. Zhu, G. Huang, J. Leonard, and S. Ferrari, “Visibility-based motion planning for active target tracking and localization,” in Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2014, pp. 76–82.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. T. Whelan, M. Kaess, R. Finman, M. Fallon, H. Johannsson, J. J. Leonard, and J. McDonald, “3D mapping, localisation and object retrieval using low cost robotic platforms: A robotic search engine for the real-world,” RSS Workshop, 2014.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. Williams, V. Indelman, M. Kaess, J. J. L. R. Roberts, and F. Dellaert, “Concurrent filtering and smoothing: A parallel architecture for real-time navigation and full smoothing,” Intl. J. of Robotics Research, vol. 33, no. 12, pp. 1544–1568, 2014.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. VanMiddlesworth, M. Kaess, F. S. Hover, and J. J. Leonard, “Mapping 3D Underwater Environments with Smoothed Submaps,” in Field and Service Robotics, Brisbane, Australia, 2013.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. T. Whelan, M. Kaess, J. J. Leonard, and J. B. McDonald, “Deformation-based Loop Closure for Large Scale Dense RGB-D SLAM,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Tokyo, Japan, 2013, pp. 548–555.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. McDonald, M. Kaess, C. Cadena, J. Neira, and J. J. Leonard, “Real-time 6-DOF Multi-session Visual SLAM over Large Scale Environments,” J. of Robotics and Autonomous Systems, vol. 61, no. 10, pp. 1144–1158, Oct. 2013.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Finman, T. Whelan, M. Kaess, and J. Leonard, “Toward Lifelong Object Segmentation from Change Detection in Dense RGB-D Maps,” in European Conference on Mobile Robotics, Barcelona, Spain, 2013.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. G. Huang, R. Truax, M. Kaess, and J. J. Leonard, “Unscented iSAM: A Consistent Incremental Solution to Cooperative Localization and Target Tracking,” in Proc. of European Conference on Mobile Robots (ECMR), Barcelona, Spain, 2013, pp. 248–254.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. G. Huang, M. Kaess, and J. J. Leonard, “Consistent Sparsification for Graph Optimization,” in Proc. of European Conference on Mobile Robots (ECMR), Barcelona, Spain, 2013, pp. 150–157.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. G. Huang, M. Kaess, J. Leonard, and S. Roumeliotis, “Analytically-Selected Multi- Hypothesis Incremental MAP Estimation,” in International Conference on Acoustics, Speech, and Signal Processing, British Columbia, Canada, 2013, pp. 6481–6485.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. Johannsson, M. Kaess, M. F. Fallon, and J. J. Leonard, “Temporally Scalable Visual SLAM using a Reduced Pose Graph,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Karlsruhe, Germany, 2013, pp. 54–61.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. M. Rosen, M. Kaess, and J. J. Leonard, “Robust Incremental Online Inference Over Sparse Factor Graphs: Beyond the Gaussian Case,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Karlsruhe, Germany, 2013, pp. 1025–1032.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. T. Whelan, H. Johannsson, M. Kaess, J. J. Leonard, and J. B. McDonald, “Robust Real-Time Visual Odometry for Dense RGB-D Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Karlsruhe, Germany, 2013, pp. 5724–5731.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. R. Benjamin, H. Schmidt, P. M. Newman, and J. J. Leonard, “Autonomy for unmanned marine vehicles with MOOS-IvP,” 2013, pp. 47–90.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. F. Fallon, H. Johannsson, M. Kaess, J. Folkesson, H. McClelland, B. J. Englot, F. S. Hover, and J. J. Leonard, “Simultaneous Localization and Mapping in Marine Environments,” in Marine Robot Autonomy, M. Seto, Ed. Springer, 2013.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. F. Fallon, J. Folkesson, H. McClelland, and J. J. Leonard, “Relocating Underwater Features Autonomously Using Sonar-Based SLAM,” in IEEE Journal of Oceanic Engineering, 2013, vol. 38, no. 3, pp. 500–513.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Fallon, H. Johannsson, M. Kaess, and J. J. Leonard, “The MIT Stata Center Dataset,” in Intl. J. of Robotics Research, 2013, vol. 32, no. 14, pp. 1695–1699.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. F. Fallon, H. Johannsson, M. Kaess, J. Folkesson, H. McClelland, B. J. Englot, F. S. Hover, and J. J. Leonard, “Simultaneous localization and mapping in marine environments,” 2013, pp. 329–372.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. M. Rosen and J. J. Leonard, “Nonparametric density estimation for learning noise distributions in mobile robotics,” in 1st Workshop on Robust and Multimodal Inference in Factor Graphs, ICRA, 2013.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. F. S. Hover, R. M. Eustice, A. Kim, B. J. Englot, H. Johannsson, M. Kaess, and J. J. Leonard, “Advanced Perception, Navigation and Planning for Autonomous In-Water Ship Hull Inspection,” Intl. J. of Robotics Research, vol. 31, no. 12, pp. 1445–1464, Oct. 2012.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Walcott-Bryant, M. Kaess, H. Johannsson, and J. J. Leonard, “Dynamic Pose Graph SLAM: Long-term Mapping in Low Dynamic Environments,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Vilamoura, Portugal, 2012.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. Johannsson, M. Kaess, M. F. Fallon, and J. J. Leonard, “Temporally Scalable Visual SLAM using a Reduced Pose Graph,” in RSS Workshop on Long-term Operation of Autonomous Robotic Systems in Changing Environments, Sydney, Australia, 2012, Available as MIT CSAIL Technical Report MIT-CSAIL-TR-2012-013.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Kaess, S. Williams, V. Indelman, R. Roberts, J. J. Leonard, and F. Dellaert, “Concurrent Filtering and Smoothing,” in Intl. Conf. on Information Fusion (FUSION), Singapore, 2012, pp. 1300–1307.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. T. Whelan, M. Kaess, M. F. Fallon, H. Johannsson, J. J. Leonard, and J. B. McDonald, “Kintinuous: Spatially Extended KinectFusion,” in RSS Workshop on RGB-D: Advanced Reasoning with Depth Cameras, Sydney, Australia, 2012.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. F. Fallon, H. Johannsson, and J. J. Leonard, “Efficient Scene Simulation for Robust Monte Carlo Localization using an RGB-D Camera,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2012, pp. 1663–1670.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. M. Rosen, M. Kaess, and J. J. Leonard, “An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), St. Paul, MN, 2012, pp. 1262–1269.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Kaess, H. Johannsson, R. Roberts, V. Ila, J. J. Leonard, and F. Dellaert, “iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree,” Intl. J. of Robotics Research, vol. 31, no. 2, pp. 216–235, Feb. 2012.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Bahr, J. J. Leonard, and A. Martinoli, “Dynamic Positioning of Beacon Vehicles for Coop- erative Underwater Navigation,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Algarve, Portugal, 2012, pp. 3760–3767.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Walcott-Bryant, M. Kaess, H. Johannsson, and J. J. Leonard, “Dynamic pose graph SLAM: Long-term mapping in low dynamic environments,” 2012, pp. 1871–1878.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. F. Fallon, H. Johannsson, J. Brookshire, S. Teller, and J. J. Leonard, “Sensor fusion for flexible human-portable building-scale mapping,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2012, pp. 4405–4412.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. F. Fallon, H. Johannsson, M. Kaess, D. M. Rosen, E. Muggler, and J. J. Leonard, “Mapping the MIT stata center: Large-scale integrated visual and RGB-D SLAM,” in RSS Workshop on RGB-D: Advanced Reasoning with Depth Cameras, 2012.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. McDonald, M. Kaess, C. Cadena, J. Neira, and J. J. Leonard, “6-DOF Multi-session Visual SLAM using Anchor Nodes,” in European Conf. on Mobile Robotics (ECMR), Orbero, Sweden, 2011, pp. 69–76.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. C. Cadena, J. McDonald, J. Leonard, and J. Neira, “Place Recognition using Near and Far Visual Information,” in Proceedings of the 18th IFAC World Congress, 2011, vol. 18, no. 1, pp. 6822–6828.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. F. Fallon, M. Kaess, H. Johannsson, and J. J. Leonard, “Efficient AUV navigation fusing acoustic ranging and side-scan sonar,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2011, pp. 2398–2405.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Kaess, H. Johannsson, R. Roberts, V. Ila, J. J. Leonard, and F. Dellaert, “iSAM2: Incremental Smoothing and Mapping with Fluid Relinearization and Incremental Variable Reordering,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Shanghai, China, 2011, pp. 3281–3288.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Truax, R. Platt, and J. Leonard, “Identifying Object Pose and Parameters from 3D Laser Point Clouds,” in Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), Shanghai, China, 2011.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Folkesson and J. Leonard, “Autonomy through SLAM for an Underwater Robot,” Robotics Research, pp. 55–70, 2011.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Truax, R. Platt, and J. Leonard, “Using prioritized relaxations to locate objects in points clouds for manipulation,” 2011, pp. 2091–2097.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. C. Leedekerken, M. F. Fallon, and J. J. Leonard, “Mapping Complex Marine Environments with Autonomous Surface Craft,” in Intl. Sym. on Experimental Robotics (ISER), Delhi, India, 2010.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Benjamin, H. Schmidt, P. Newman, and J. J. Leonard, “Nested Autonomy for Unmanned Marine Vehicles with MOOS-IvP,” J. of Field Robotics, vol. 27, no. 6, pp. 834–875, Nov. 2010.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. S. Huang, M. Antone, E. Olson, L. Fletcher, D. Moore, S. Teller, and J. Leonard, “A High-rate, Heterogeneous Data Set From The DARPA Urban Challenge,” Intl. J. of Robotics Research, vol. 29, pp. 1595–1601, Nov. 2010.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. F. Fallon, G. Papadopoulos, J. J. Leonard, and N. M. Patrikalakis, “Cooperative AUV Navigation using a Single Maneuvering Surface Craft,” Intl. J. of Robotics Research, vol. 29, no. 12, pp. 1461–1474, Oct. 2010.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. Johannsson, M. Kaess, B. Englot, F. Hover, and J. J. Leonard, “Imaging Sonar-Aided Navigation for Autonomous Underwater Harbor Surveillance,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Taipei, Taiwan, 2010, pp. 4396–4403.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. G. Papadopoulos, M. F. Fallon, J. J. Leonard, and N. M. Patrikalakis, “Cooperative localization of marine vehicles using nonlinear state estimation,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Taipei, Taiwan, 2010, pp. 4874–4879.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. F. Fallon, G. Papadopoulos, and J. J. Leonard, “A Measurement Distribution Framework for Cooperative Navigation using multiple AUVs,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2010, pp. 4803–4808.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Kaess, H. Johannsson, B. Englot, F. Hover, and J. J. Leonard, “Towards Autonomous Ship Hull Inspection using the Bluefin HAUV,” in Symposium on Technology and the Mine Problem, Naval Postgraduate School, Monterey, CA, 2010.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. Kim, M. Kaess, L. Fletcher, J. J. Leonard, A. Bachrach, N. Roy, and S. Teller, “Multiple Relative Pose Graphs for Robust Cooperative Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Anchorage, Alaska, 2010, pp. 3185–3192.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. F. Fallon, G. Papadopoulos, and J. J. Leonard, “Cooperative AUV navigation using a single surface craft,” 2010, pp. 331–340.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. S. Huang, M. Antone, E. Olson, L. Fletcher, D. Moore, S. Teller, and J. Leonard, “A high-rate, heterogeneous data set from the DARPA urban challenge,” in The International Journal of Robotics Research, 2010, vol. 29, no. 13, pp. 1595–1601.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. F. Fallon, G. Papadopoulos, and J. J. Leonard, “Cooperative AUV Navigation using a Single Surface Craft,” in Field and Service Robotics, 2009.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Bahr, M. Walter, and J. J. Leonard, “Consistent cooperative localization,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2009, pp. 3415–3422.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Bahr, J. J. Leonard, and M. F. Fallon, “Cooperative Localization for Autonomous Underwater Vehicles,” Intl. J. of Robotics Research, vol. 28, no. 6, pp. 714–728, 2009.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Leonard, J. How, S. Teller, M. Berger, S. Campbell, G. Fiore, L. Fletcher, E. Frazzoli, A. Huang, S. Karaman, O. Koch, Y. Kuwata, D. Moore, E. Olson, S. Peters, J. Teo, R. Truax, M. Walter, D. Barrett, A. Epstein, K. Maheloni, K. Moyer, T. Jones, R. Buckley, M. Antone, R. Galejs, S. Krishnamurthy, and J. Williams, “A perception-driven autonomous urban vehicle,” 2009, pp. 163–230.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. C. Moore, A. S. Huang, M. Walter, E. Olson, L. Fletcher, J. Leonard, and S. Teller, “Simultaneous Local and Global State Estimation for Robotic Navigation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2009, pp. 3794–3799.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Walter, F. Hover, and J. Leonard, “SLAM for ship hull inspection using exactly sparse extended information filters,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2008, pp. 1463–1470.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Bahr and J. J. Leonard, “Cooperative Localization for Autonomous Underwater Vehicles,” in Experimental Robotics, Rio de Janeiro, Brasil, 2008, pp. 387–395.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. C. Detweiler, J. Leonard, D. Rus, and S. Teller, “Passive mobile robot localization within a fixed beacon field,” Algorithmic Foundation of Robotics VII, pp. 425–440, 2008.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. L. Fletcher, S. Teller, E. Olson, D. Moore, Y. Kuwata, J. How, J. Leonard, I. Miller, M. Campbell, D. Huttenlocher, and others, “The MIT–Cornell collision and why it happened,” Journal of Field Robotics, vol. 25, no. 10, pp. 775–807, 2008.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Folkesson, J. Leederkerken, R. Williams, A. Patrikalakis, and J. Leonard, “A feature based navigation system for an autonomous underwater robot,” in Field and Service Robotics, 2008, vol. 42, pp. 105–114.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Holmberg, J. Leonard, D. King, and M. Cotting, “Flying qualities specifications and design standards for unmanned air vehicles,” 2008, p. 6555.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. C. Leedekerken, R. Williams, and J. Leonard, “Short-Baseline Acoustic Tracking with Autonomous Surface Vehicles,” in IFAC Proceedings Volumes, 2008, vol. 41, no. 1, pp. 218–223.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Leonard, J. How, S. Teller, M. Berger, S. Campbell, G. Fiore, L. Fletcher, E. Frazzoli, A. Huang, S. Karaman, and others, “A perception-driven autonomous urban vehicle,” J. of Field Robotics, vol. 25, no. 10, pp. 727–774, 2008.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. J. Shafer, M. R. Benjamin, J. J. Leonard, and J. Curcio, “Autonomous cooperation of heterogeneous platforms for sea-based search tasks,” in OCEANS 2008, 2008, pp. 1–10.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. Thrun and J. J. Leonard, “Simultaneous Localization and Mapping,” in Springer Handbook of Robotics, B. Siciliano and O. Khatib, Eds. Springer, 2008.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Folkesson, J. Leedekerken, R. Williams, and J. Leonard, “Feature Tracking for Underwater Navigation using Sonar,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), San Diego, CA, 2007, pp. 3678–3684.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. E. Olson, J. Leonard, and S. Teller, “Spatially-Adaptive Learning Rates for Online Incremental SLAM,” in Robotics: Science and Systems (RSS), 2007.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. Bahr and J. J. Leonard, “Minimizing Trilateration Errors in the Presence of Noisy Landmarks,” in European Conference on Mobile Robots, 2007, pp. 48–53.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. N. Roy, J. Leonard, U.-M. O’Reilly, D. Rus, and S. Teller, “The Experience of Teaching Software Development in a Robotics Project Course,” in Proc. 3rd Int’l CDIO Conf., Cambridge, Mass, 2007.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. R. Walter, R. M. Eustice, and J. J. Leonard, “Exactly sparse extended information filters for feature-based SLAM,” Intl. J. of Robotics Research, vol. 26, no. 4, pp. 335–359, 2007.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Walter, R. Eustice, and J. Leonard, “A provably consistent method for imposing sparsity in feature-based SLAM information filters,” 2007, pp. 214–234.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. R. Walter, R. M. Eustice, and J. J. Leonard, “Exactly sparse extended information filters for feature-based SLAM,” in The International Journal of Robotics Research, 2007, vol. 26, no. 4, pp. 335–359.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. M. Eustice, H. Singh, J. J. Leonard, and M. R. Walter, “Visually Mapping the RMS Titanic: Conservative Covariance Estimates for SLAM Information Filters,” Intl. J. of Robotics Research, vol. 25, no. 12, pp. 1223–1242, Dec. 2006.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. M. Eustice, H. Singh, and J. J. Leonard, “Exactly Sparse Delayed-State Filters for View-Based SLAM,” IEEE Trans. Robotics, vol. 22, no. 6, pp. 1100–1114, Dec. 2006.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. E. Olson, J. J. Leonard, and S. Teller, “Robust Range-Only Beacon Localization,” IEEE Journal of Oceanic Engineering, vol. 31, no. 4, pp. 949–958, Oct. 2006.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. E. Olson, J. Leonard, and S. Teller, “Fast Iterative Alignment of Pose Graphs with Poor Initial Estimates,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2006, pp. 2262–2269.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. R. Benjamin, J. A. Curcio, J. J. Leonard, and P. M. Newman, “Navigation of unmanned marine vehicles in accordance with the rules of the road,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2006, pp. 3581–3587.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. R. Benjamin, J. J. Leonard, J. A. Curcio, and P. M. Newman, “A method for protocol‐based collision avoidance between autonomous marine surface craft,” in Journal of Field Robotics, 2006, vol. 23, no. 5, pp. 333–346.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. Eickstedt, M. Benjamin, H. Schmidt, and J. Leonard, “Adaptive tracking of underwater targets with autonomous sensor networks,” in Journal of Underwater Acoustics, 2006, vol. 56, no. 2, pp. 465–495.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. P. Eickstedt, M. R. Benjamin, H. Schmidt, and J. J. Leonard, “Adaptive control of heterogeneous marine sensor platforms in an autonomous sensor network,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2006, pp. 5514–5521.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. C. Leedekerken, J. J. Leonard, M. C. Bosse, and A. Balasuriya, “Real-time Obstacle Avoidance and Mapping for AUVs Operating in Complex Environments,” Proceedings of the Seventh International Symposium on Technology and the Mine Problem: May 2-4, 2006, Naval Postgraduate School, vol. 1, p. 35, 2006.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. C. Leedekerken, R. Williams, and J. J. Leonard, “Short-Baseline Acoustic Tracking with Autonomous Surface Vehicles,” in Proceedings of the 2008 IFAC Workshop Navigation, Guidance, and Control of Underwater Vehicles, Limerick, Ireland, 2006.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Rikoski, J. Leonard, P. Newman, and H. Schmidt, “Trajectory sonar perception in the ligurian sea,” Experimental Robotics IX, pp. 557–570, 2006.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Walter, R. Eustice, and J. Leonard, “A Provably Consistent Method for Imposing Exact Sparsity in Feature-based SLAM Information Filters,” in Proceedings of the International Symposium of Robotics Research (ISRR), San Francisco, CA, 2005, pp. 214–234.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Eustice, H. Singh, J. Leonard, M. Walter, and R. Ballard, “Visually Navigating the RMS Titanic with SLAM Information Filters,” in Robotics: Science and Systems (RSS), 2005, pp. 57–64.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. E. Olson, M. Walter, S. Teller, and J. J. Leonard, “Single-Cluster Spectral Graph Partitioning for Robotics Applications,” in Proceedings of Robotics: Science and Systems, Cambridge, USA, 2005, pp. 265–272.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Curcio, J. Leonard, and A. Patrikalakis, “SCOUT-a low cost autonomous surface platform for research in cooperative autonomy,” 2005, pp. 725–729.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Curcio, J. Leonard, J. Vaganay, A. Patrikalakis, A. Bahr, D. Battle, H. Schmidt, and M. Grund, “Experiments in moving baseline navigation using autonomous surface craft,” 2005, pp. 730–735.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Dragone, R. O’Donoghue, J. J. Leonard, G. O’Hare, B. Duffy, A. Patrikalakis, and J. Leederkerken, “Robot soccer anywhere: achieving persistent autonomous navigation, mapping, and object vision tracking in dynamic environments,” 2005, vol. 5827, pp. 255–264.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Eustice, H. Singh, and J. Leonard, “Exactly Sparse Delayed State Filters,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Barcelona, Spain, 2005, pp. 2417–2424.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Eustice, M. Walter, and J. Leonard, “Sparse extended information filters: Insights into sparsification,” in Intelligent Robots and Systems, 2005.(IROS 2005). 2005 IEEE/RSJ International Conference on, 2005, pp. 3281–3288.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. P. M. Newman, J. J. Leonard, and R. J. Rikoski, “Towards constant-time SLAM on an autonomous underwater vehicle using synthetic aperture sonar,” Robotics Research, pp. 409–420, 2005.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Walter and J. Leonard, “An Experimental Investigation of Cooperative SLAM,” in Proceedings of the Fifth IFAC Symposium on Intelligent Autonomous Vehicles, Lisbon, Portugal, 2004.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. E. Olson, J. J. Leonard, and S. Teller, “Robust Range-only Beacon Localization,” in AUV 2004, 2004.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Vaganay, J. J. Leonard, J. A. Curcio, and J. S. Willcox, “Experimental Validation of the Moving Long Base Line Navigation Concept,” in Autonomous Underwater Vehicles, 2004 IEEE/OES, 2004, pp. 59–65.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Bosse, P. Newman, J. Leonard, and S. Teller, “Simultaneous Localization and Map Building in Large-Scale Cyclic Environments Using the Atlas Framework,” in Intl. J. of Robotics Research, 2004, vol. 23, no. 12, pp. 1113–1139.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. Moore, J. Leonard, D. Rus, and S. Teller, “Robust distributed network localization with noisy range measurements,” in Proceedings of the 2nd international conference on Embedded networked sensor systems, 2004, pp. 50–61.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. Schmidt, J. Leonard, J. R. Edwards, and T. C. Liu, “Sub-seabed mapping using AUV-based multistatic acoustic sensing and adaptive control,” in International congress on the applications of recent advances in underwater detection and survey techniques to underwater archaeology, 2004.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Walter and J. Leonard, “An experimental investigation of cooperative SLAM,” in Proceedings of the Fifth IFAC/EURON Symposium on Intelligent Autonomous Vehicles,(Lisbon, Portugal), 2004.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. P. Newman and J. Leonard, “Pure range-only sub-sea SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2003, vol. 2, pp. 1921–1926.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Bosse, P. Newman, J. Leonard, and S. Teller, “An Atlas Framework for Scalable Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2003, pp. 1899–1906.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Bosse, R. Rikoski, J. Leonard, and S. Teller, “Vanishing points and three-dimensional lines from omni-directional video,” The Visual Computer, vol. 19, no. 6, pp. 417–430, 2003.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and P. M. Newman, “Consistent, Convergent, and Constant-time SLAM,” in International Joint Conference on Artificial Intelligence, 2003, vol. 18, pp. 1143–1150.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Leonard, P. Newman, R. Rikoski, J. Neira, and J. Tardós, “Towards robust data association and feature modeling for concurrent mapping and localization,” Robotics Research, pp. 7–20, 2003.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Leonard and P. Newman, “Consistent, convergent, and constant-time SLAM,” 2003, pp. 1143–1150.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. P. Newman, M. Bosse, and J. Leonard, “Autonomous Feature-based Exploration,” in Proc. IEEE Int. Conf. Robotics and Automation, 2003, vol. 1, pp. 1234–1240.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. P. Newman, J. J. Leonard, and R. Rikoski, “Towards constant-time SLAM on an autonomous underwater vehicle using synthetic aperture sonar,” in Proceedings of the eleventh international symposium on robotics research, Sienna, Italy, 2003.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Rikoski and J. Leonard, “Sonar Trajectory Perception,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Taiwan, 2003, vol. 1, pp. 963–970.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, R. R. Rikoski, P. M. Newman, and M. Bosse, “Mapping Partially Observable Features from Multiple Uncertain Vantage Points,” Intl. J. of Robotics Research, vol. 7, no. 3, pp. 943–975, Oct. 2002.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Bosse, R. Rikoski, J. Leonard, and S. Teller, “Vanishing Points and 3D Lines from Omnidirectional Video,” in International Conference on Image Processing, Rochester, NY, 2002.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. P. Newman, J. Leonard, J. Neira, and J. Tardós, “Explore and Return: Experimental Validation of Real Time Concurrent Mapping and Localization,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Washington, DC, 2002, pp. 1802–1809.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. R. Rikoski, J. Leonard, and P. Newman, “Stochastic Mapping Frameworks,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Washington, DC, 2002, pp. 426–433.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. D. Tardós, J. Neira, P. M. Newman, and J. J. Leonard, “Robust mapping and localization in indoor environments using sonar data,” in Intl. J. of Robotics Research, 2002, vol. 21, no. 4, pp. 311–330.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. W. Fenwick, P. M. Newman, and J. J. Leonard, “Cooperative concurrent mapping and localization,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2002, vol. 2, pp. 1810–1817.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Stojanovic, L. Freitag, J. Leonard, and P. A. N. P. Newman, “A network protocol for multiple AUV localization,” 2002, vol. 1, pp. 604–611.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, P. M. Newman, J. W. Fenwick, and R. J. Rikoski, “Concurrent Mapping and Localization for Multiple Autonomous Underwater Vehicles,” in GOATS Workshop, 2001.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and R. J. Rikoski, “Incorporation of delayed decision making into stochastic mapping,” 2001, pp. 533–542.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and H. J. S. Feder, “Decoupled stochastic mapping,” IEEE J. of Oceanic Eng., vol. 26, no. 4, pp. 561–571, 2001.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and H. J. S. Feder, “Decoupled stochastic mapping [for mobile robot & auv navigation],” in IEEE Journal of Oceanic Engineering, 2001, vol. 26, no. 4, pp. 561–571.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and R. Rikoski, “Incorporation of delayed decision making into stochastic mapping,” in Experimental Robotics VII, D. Rus and S. Singh, Eds. Springer-Verlag, 2001.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, R. Carpenter, and H. J. S. Feder, “Stochastic mapping using forward look sonar,” Robotica, vol. 19, pp. 467–480, 2001.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. H. Lim and J. J. Leonard, “Mobile robot relocation from echolocation constraints,” IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 22, no. 9, pp. 1035–1041, Sept. 2000.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, “Cooperative mapping and navigation for multiple unmanned underwater vehicles,” in International Unmanned Undersea Vehicle Symposium, Naval Undersea Warfare Center, Newport, RI, 2000.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. A. Bennett and J. J. Leonard, “A behavior-based approach to adaptive feature detection and following with autonomous underwater vehicles,” in IEEE Journal of Oceanic Engineering, 2000, vol. 25, no. 2, pp. 213–226.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. T. F. Fulton, C. J. Cassidy, R. G. Stokey, and J. J. Leonard, “Navigation sensor data fusion for the AUV REMUS,” in Proceedings of the Symposium on Underwater Robotic Technology, World Automation Congress, Hawaii, 2000.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Leonard and H. Feder, “Experimental analysis of adaptive concurrent mapping and localization using sonar,” in Experimental Robotics VI, 2000, vol. 250, pp. 297–306.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and H. J. S. Feder, “A computationally efficient method for large-scale concurrent mapping and localization,” Snowbird, Utah, 2000, pp. 169–176.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, “Large-scale concurrent mapping and localization,” in Proceedings of SPIE, 2000, vol. 4196, p. 370.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. H. Lim and J. J. Leonard, “Mobile robot relocation from echolocation constraints,” in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2000, vol. 22, no. 9, pp. 1035–1041.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. B. Bennett and J. J. Leonard, “Feature-relative navigation of an autonomous underwater vehicle,” in Proc. Int. Symp. on Unmanned Untethered Submersible Technology, 1999.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, R. N. Carpenter, and H. J. S. Feder, “Stochastic Mapping Using Forward Look Sonar,” in International Conference on Field and Service Robotics, Pittsburgh, Pennsylvania, 1999, pp. 69–74.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Adaptive Mobile Robot Navigation and Mapping,” in The International Journal of Robotics Research, 1999, vol. 18, no. 7, pp. 650–668.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. J. S. Feder and J. J. Leonard, “Decoupled Stochastic Mapping, Part II: Performance Analysis,” in IEEE Transactions on Robotics and Automation, 1999.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Neira, J. D. Tardós, J. Horn, and G. Schmidt, “Fusing range and intensity images for mobile robot localization,” in IEEE Transactions on robotics and automation, 1999, vol. 15, no. 1, pp. 76–84.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. C. M. Smith, H. J. S. Feder, and J. J. Leonard, “Multiple Target Tracking with Navigation Uncertainty,” in IEEE Int Conference on Decision and Control (CDC), Tampa, FL, 1998, vol. 1, pp. 760–761.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Adaptive concurrent mapping and localization using sonar,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Victoria, B.C., Canada, 1998, vol. 2, pp. 892–898.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Vaganay, J. G. Bellingham, and J. J. Leonard, “Comparison of Fix Computation and Filtering for Autonomous Acoustic Navigation,” International Journal of Systems Science, vol. 29, no. 10, pp. 1111–1122, Oct. 1998.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Adaptive Sensing for Terrain Aided Navigation,” in IEEE Oceans, Nice, France, 1998, pp. 336–341.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Incorporating Environmental Measurements in Navigation,” 1998, pp. 115–122.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and H. J. S. Feder, “Feature localization and classification from echolocation constraints with navigation uncertainty,” in The Journal of the Acoustical Society of America, 1998, vol. 104, no. 3, pp. 1837–1838.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. C. M. Smith, J. J. Leonard, and H. J. S. Feder, “Making Difficult Decisions Autonomously: The Impact of Integrated Mapping and Navigation,” 1998, pp. 123–132.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. C. M. Smith, J. J. Leonard, A. A. Bennett, and C. Shaw, “Feature-based concurrent mapping and localization for AUVs,” in OCEANS ’97. MTS/IEEE Conference Proceedings, 1997, vol. 2, pp. 896–901.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and C. M. Smith, “Sensor data fusion in marine robotics,” in Proceedings of the International Society of Offshore and Polar Engineering, 1997.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. A. Moran, J. J. Leonard, and C. Chryssostomidis, “Curved Shape Reconstruction Using Multiple Hypothesis Tracking,” IEEE journal of Oceanic Engineering, vol. 22, no. 4, pp. 625–638, 1997.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. C. M. Smith and J. J. Leonard, “A multiple-hypothesis approach to concurrent mapping and localization for autonomous underwater vehicles,” in International Conference on Field and Service Robotics, 1997, pp. 237–244.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. C. M. Smith, J. J. Leonard, A. A. Bennett, and C. Shaw, “Concurrent Mapping and Localization for Autonomous Underwater Vehicles,” in Undersea Defence Technology, 1997, pp. 338–342.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. T. Tuohy, J. J. Leonard, and J. G. Bellingham, “Map based navigation for autonomous underwater vehicles,” in Oceanographic Literature Review, 1997, vol. 12, no. 44, p. 1571.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Vaganay, J. G. Bellingham, and J. J. Leonard, “Outlier Rejection for Autonomous Acoustic Navigation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 1996, pp. 2174–2181.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. T. Tuohy, J. J. Leonard, J. G. Bellingham, N. M. Patrikalakis, and C. Chryssostomidis, “Map Based Navigation for Autonomous Underwater Vehicles,” International Journal of Offshore and Polar Engineering, vol. 6, no. 1, pp. 9–18, Mar. 1996.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. A.Bennett and J. J. Leonard, “Autonomous mapping with an AUV: an approach for ground truthing of remote sensing data,” in OCEANS’96. MTS/IEEE.’Prospects for the 21st Century’. Conference Proceedings, 1996, vol. 3, pp. 1099–1104.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. H. Kim, B. A. Moran, J. J. Leonard, J. G. Bellingham, and S. T. Tuohy, “Experiments in remote monitoring and control of autonomous underwater vehicles,” in IEEE Oceans, 1996, pp. 411–416.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. D. K. Atwood, J. J. Leonard, J. G. Bellingham, and B. A. Moran, “An acoustic navigation system for multi-vehicle operations,” in International Symposium on Unmanned Untethered Submersible Technology, 1995, pp. 202–208.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. A. B. Bennett, J. J. Leonard, and J. G. Bellingham, “Bottom Following for Survey Class Autonomous Underwater Vehicles,” in Proc Int Symp on Unmanned Untethered Submersible Technology, 1995, pp. 327–336.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, S. T. Tuohy, J. G. Bellingham, B. A. Moran, J. H. Kim, H. Schmidt, N. M. Patrikalakis, and C. Chryssostomidis, “Virtual Environments for AUV Development and Ocean Exploration,” in Proc. Int. Symp. on Unmanned Untethered Submersible Technology, 1995, pp. 436–443.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, B. A. Moran, I. J. Cox, and M. L. Miller, “Underwater Sonar Data Fusion Using an Efficient Multiple Hypothesis Algorithm,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 1995, pp. 2995–3002.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. G. Bellingham, J. J. Leonard, J. Vaganay, C. Goudey, D. Atwood, T. Consi, J. Bales, H. Schmidt, and C. Chryssostomidis, “AUV Operations in the Arctic,” in Proceedings of the Sea Ice Mechanics and Arctic Modeling Workshop, Anchorage, Alaska, USA, 1995, pp. 25–28.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. H. Kim, J. J. Leonard, J. G. Bellingham, B. A. Moran, and S. T. Tuohy, “Remote Communication for Monitoring and Control of Autonomous Underwater Vehicles,” in IEEE OCEANS, 1995, vol. 96, p. 1.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. N. M. Patrikalakis, C. Chryssostomidis, S. T. Tuohy, J. G. Bellingham, J. J. Leonard, J. W. Bales, and J. W. Yoon., “Virtual environments for ocean exploration and visualization,” in Workshop on Computer Graphics Technology in the Exploration of the Sea, Rostock, Germany, 1995.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. G. Bellingham and J. J. Leonard, “Task Configuration with Layered Control,” in Proceedings of the IARP 2nd Workshop on Mobile Robots for Subsea Environments, Monterey, CA, USA, 1994, pp. 193–302.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. I. Cox and J. Leonard, “Modeling a dynamic environment using a Bayesian multiple hypothesis approach,” Artificial Intelligence, pp. 311–344, Apr. 1994.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Bellingham, C. Goudey, T. Consi, J. Bales, D. Atwood, J. J. Leonard, and C. Chryssostomidis, “Odyssey II: A Second Generation Survey AUV,” in IEEE Symposium on Autonomous Underwater Vehicle Technology, Cambridge, MA, 1994, pp. 148–156.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. I. J. Cox and J. J. Leonard, “Unsupervised Learning for Mobile Robot Navigation using Probabilistic Data Association,” in Proceedings of the workshop on Computational learning theory and natural learning systems (vol 2): intersections between theory and experiment: intersections between theory and experiment, 1994, pp. 297–319.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. I. J. Cox and J. J. Leonard, “Modeling a dynamic environment using a Bayesian multiple hypothesis approach,” Artificial Intelligence, vol. 66, no. 2, pp. 311–344, 1994.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. G. Bellingham, C. Chryssostomidis, M. Deffenbaugh, J. J. Leonard, and H. Schmidt, “Arctic Under-Ice Survey Operations,” in Proc Int Symp on Unmanned Untethered Submersible Technology, 1993, pp. 50–59.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, B. A. Moran, I. J. Cox, and M. L. Miller, “Underwater Sonar Data Fusion Using all Efficient Multiple Hypothesis Algorithm,” in IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, 1993, vol. 1, no. 3, pp. 2995–2995.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and J. G. Bellingham, “Directed-sensing strategies for feature-relative navigation,” in Proc. SPIE, 1993, vol. 2059, pp. 120–129.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, C. Chryssostomidis, and B. A. Moran, “Shape reconstruction from high‐frequency sonar data for robotic tasks,” in The Journal of the Acoustical Society of America, 1993, vol. 93, no. 4, pp. 2340–2340.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. B. A. Moran, J. J. Leonard, and C. Chryssostomidis, “Geometric Shape from Sonar Ranging,” in Proc. Int. Symp. on Unmanned Untethered Submersible Technology, 1993, pp. 370–383.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. S. T. Tuohy, N. M. Patrikalakis, J. J. Leonard, J. G. Bellingham, and C. Chryssostomidis, “AUV navigation using geophysical maps with uncertainty,” in INTERNATIONAL SYMPOSIUM ON UNMANNED UNTETHERED SUBMERSIBLE TECHNOLOGY, 1993, pp. 265–265.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, H. F. Durrant-Whyte, and I. J. Cox, “Dynamic Map Building for an Autonomous Mobile Robot,” Intl. J. of Robotics Research, vol. 11, no. 4, pp. 286–298, Aug. 1992.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. C. Brown, H. Durrant-Whyte, J. Leonard, B. Rao, and B. Steer, “Distributed Data Fusion Using Kalman Filtering: A Robotics Application,” in Data Fusion in Robotics and Machine Intelligence, 1992, pp. 267–309.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. F. Durrant-Whyte and J. J. Leonard, “Modeling Sonar Sensors,” in The Robotics Review II, MIT Press, 1992, pp. 145–151.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and H. F. Durrant-Whyte, Directed Sonar Sensing for Mobile Robot Navigation. Boston: Kluwer Academic Publishers, 1992.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and H. F. Durrant-Whyte, “A Sonar Sensor Model,” 1992, pp. 13–50.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and B. A. Moran, “Sonar Data Fusion for 3-D Scene Reconstruction,” in SPIE Sensor Fusion V, 1992, vol. 1828, pp. 144–155.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and H. F. Durrant-Whyte, “Mobile Robot Localization by Tracking Geometric Beacons,” IEEE Trans Robotics and Automation, vol. 7, no. 3, pp. 376–382, June 1991.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. I. J. Cox and J. J. Leonard, “Temporal Integration of Multiple Sensor Observations for Dynamic World Modeling: A Multiple Hypothesis Approach,” in International Workshop on Information Processing for Autonomous Mobile Robots: Theory and Application, Munich, Germany, 1991.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. I. J. Cox and J. J. Leonard, “Probabilistic Data Association for Dynamic World Modeling: A Multiple Hypothesis Approach,” 1991, pp. 1287–1294.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Leonard and H. D.-W. I. J. Cox, “ENGLAND USA,” in Autonomous Mobile Robots: Perception, mapping, and navigation, 1991, vol. 1, p. 331.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, “Sonar interpretation using regions of constant depth (RCDs),” in IEE Colloquium on Robot Sensors, 1991, pp. 1/1–1/4.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and H. F. Durrant-Whyte, “Simultaneous Map Building and Localization for an Autonomous Mobile Robot,” in Proc IEEE Int Workshop on Intelligent Robots and Systems, 1991, vol. 3, pp. 1442–1447.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Brady, H. Durrant-Whyte, H. Huosheng, J. Leonard, P. Probert, and B. S. Y. Rao, “Sensor-based control of AGVs,” Computing & Control Engineering Journal, vol. 1, no. 2, pp. 64–70, 1990.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and H. F. Durrant-Whyte, “Application of multi-target tracking to sonar-based mobile robot navigation,” in 29th IEEE Int. Conference on Decision and Control, 1990, pp. 3118–3123.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. Leonard and H. F. Durrant-Whyte, “Mobile robot localization by tracking geometric constraints,” in IEEE Conference on Decision and Control, 1990.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard, I. J. Cox, and H. F. Durrant-Whyte, “Dynamic Map Building for an Autonomous Mobile Robot,” in Proc. IEEE Int. Workshop on Intelligent Robots and Systems, 1990, pp. 89–96.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. J. Leonard and H. F. Durrant-Whyte, “Active Sensor Control for Mobile Robotics,” in IARP Int. Conf. on Multi-Sensor Fusion and Environment Modelling, Toulouse, France, 1989.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. M. Brady, H. Durrant-Whyte, H. Hu, J. Leonard, P. Probert, and B. Rao, “Sensor-based Control of AGV’s,” in IARP 1st Workshop on Domestic Robots and 2nd Workshop on Medical and Healthcare Robotics, 1989, Also published in \em Int. Workshop on Sensorial Integration for Industrial Robots, Zaragoza, Spain, November, 1989, and \em IEE Computing and Control Journal, March 1990.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. C. Brown, H. Durrant-Whyte, J. Leonard, and B. Rao, “Centralized and Decentralized Kalman Filter Techniques for Tracking, Navigation, and Control,” in DARPA Image Understanding Workshop, 1989, pp. 651–675.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. H. F. Durrant-Whyte and J. J. Leonard, “Navigation by Correlating Geometric Sensor Data,” in Proc. IEEE Int. Workshop on Intelligent Robots and Systems, 1989.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
+
+1. J. O. H. N. J. LEONARD and H. U. G. H. F. DURRANT-WHYTE, “Active Sensor Control for Mobile Robotics,” in IARP Int Conf on Multi-Sensor Fusion and Environment Modelling, 1989.
+
+    게시 페이지: <https://marinerobotics.mit.edu/publications>
 
 ## MIT — Pierre Lermusiaux
 
@@ -7265,9 +11167,11 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:49:13.374Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/johnhliu@mit.edu>
 
 ## MIT — Anuradha M Annaswamy
 
@@ -8094,9 +11998,11 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:49:14.339Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/yuming@mit.edu>
 
 ## MIT — Seth Lloyd
 
@@ -8192,15 +12098,17 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:49:16.594Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/maclean2@mit.edu>
 
 ## MIT — Nicholas Makris
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -8248,9 +12156,11 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:49:19.743Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/wojciech@mit.edu>
 
 ## MIT — Gareth McKinley
 
@@ -8344,19 +12254,295 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Stefanie Mueller
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 69건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/mueller_@mit.edu>
+출처: <https://hcie.csail.mit.edu/publications.html>
+
+1. Faraz Faruqi, Amira Abdel-Rahman, Leandra Tejedor, Martin Nisser, Jiaji Li, Vrushank Phadnis, Varun Jampani, Neil Gershenfeld, Megan Hofmann, Stefanie Mueller MechStyle: Augmenting Generative AI with Mechanical Simulation to Create Stylized and Structurally Viable 3D Models In Proceedings of SCF 2025
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Ticha Sethapakdi, Maxine Perroni-Scharf, Mingming Li, Jiaji Li, Justin Solomon, Arvind Satyanarayan, Stefanie Mueller. FabObscura: Computational Design and Fabrication for Interactive Barrier-Grid Animations In Proceedings of UIST 2025
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Marwa AlAlawi, Regina Zheng, Sooyeon Ahn, Katherine Yan, Ticha Sethapakdi, Junyi Zhu, Stefanie Mueller Meta-antenna: Mechanically Frequency Reconfigurable Metamaterial Antennas In Proceedings of UIST 2025
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Maxine Perroni-Scharf, Jennifer Xiao, Cole Paulin, Zhi Ray Wang, Ticha Sethapakdi, Muhammad Abdullah, Patrick Baudisch, Stefanie Mueller SustainaPrint: Making the Most of Eco-Friendly Filaments In Proceedings of UIST 2025.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Faraz Faruqi, Maxine Perroni-Scharf, Jaskaran Singh Walia, Yunyi Zhu, Shuyue Feng, Donald Degraen, Stefanie Mueller TactStyle: Generating Tactile Textures with Generative AI for Digital Fabrication In Proceedings of CHI 2025.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Jiaji Li, Shuyue Feng, Maxine Perroni-Scharf, Yujia Liu, Emily Guan, Guanyun Wang, Stefanie Mueller Xstrings: 3D Printing Cable-driven Mechanism for Actuation, Deformation, and Manipulation In Proceedings of CHI 2025. [Best Paper Honorable Mention]
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Ticha Sethapakdi, Paris Myers, Tianyu Yu, Juliana Covarrubias, Mackenzie Leake, Stefanie Mueller Thermochromorph: Dynamic Relief Printing with Thermochromic Inks. In Proceedings of SIGGRAPH Asia Art Papers 2024.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Yunyi Zhu, Cedric Honnet, Yixiao Kang, Junyi Zhu, Angelina J Zheng, Kyle Heinz, Grace Tang, Luca Musk, Michael Wessely, Stefanie Mueller. PortaChrome: A Portable Contact Light Source for Integrated Re-Programmable Multi-Color Textures. In Proceedings of UIST 2024.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Mehmet Ozdemir, Marwa AlAlawi, Mustafa Doga Dogan, Jose Francisco Martinez Castro, Stefanie Mueller, Zjenja Doubrovski Speed-Modulated Ironing: A Method for High-Resolution Shade and Texture Gradients in Single-Material 3D Printing In Proceedings of UIST 2024 [Best Demo Nominee].
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Ruowang Zhang, Stefanie Mueller, Gilbert Louis Bernstein, Adriana Schulz, Mackenzie Leake. WasteBanned: Supporting Zero Waste Fashion Design Through Linked Edits. In Proceedings of UIST 2024.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Mustafa Doga Dogan, Vivian Hsinyueh Chan, Richard Qi, Grace Tang, Thijs Roumen, Stefanie Mueller StructCode: Leveraging Fabrication Artifacts to Store Data in Laser-Cut Objects. In Proceedings of SCF 2023.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Faraz Faruqi, Ahmed Katary, Tarik Hasic, Amira Abdel-Rahman, Nayeemur Rahman, Leandra Tejedor, Mackenzie Leake, Megan Hofmann, Stefanie Mueller. Style2Fab: Functionality-Aware Segmentation for Fabricating Personalized 3D Models with Generative AI. In Proceedings of UIST 2023.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Mustafa Doga Dogan, Raul Garcia-Martin, Patrick William Haertel, Jamison John O'Keefe, Ahmad Taka, Akarsh Aurora, Raul Sanchez-Reillo, Stefanie Mueller. BrightMarker: 3D Printed Fluorescent Markers for Object Tracking In Proceedings of UIST 2023.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Ticha Sethapakdi, Laura Huang, Vivian Chan, Lung-Pan Cheng, Fernando Dall'Agnol, Mackenzie Leake, Stefanie Mueller. Polagons: Designing and Fabricating Polarized Light Mosaics with User-Defined Color-Changing Behaviors In Proceedings of CHI 2023.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Donghyeon Ko, Yoonji Kim, Junyi Zhu, Michael Wessely, Stefanie Mueller. FlexBoard: A Flexible Breadboard for Interaction Prototyping on Curved and Deformable Surfaces In Proceedings of CHI 2023.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Marwa AlAlawi, Noah Pacik-Nelson, Junyi Zhu, Ben Greenspan, Andrew Doan, Brandon Wong, Benjamin Owen-Block, Shanti Mickens, Wilhelm Schoeman, Michael Wessely, Andreea Danielescu, Stefanie Mueller. MechSense: A Design and Fabrication Pipeline for Integrating Rotary Encoders into 3D Printed Mechanisms In Proceedings of CHI 2023.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Mackenzie Leake, Kathryn Jin, Abe Davis, Stefanie Mueller. InStitches: Augmenting Sewing Patterns with Personalized Material-Efficient Practice In Proceedings of CHI 2023.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Junyi Zhu, Yuxuan Lei, Aashini Shah, Gila Schein, Hamid Ghaednia, Joseph H. Schwab, Casper Harteveld, Stefanie Mueller. MuscleRehab: Improving Unsupervised Physical Rehabilitation by Monitoring and Visualizing Muscle Engagement In Proceedings of UIST 2022.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Martin Nisser, Yashaswini Makaram, Faraz Faruqi, Ryo Suzuki, Stefanie Mueller. Selective Self-Assembly using Re-Programmable Magnetic Pixels. In Proceedings of IROS 2022.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Martin Nisser, Yashaswini Makaram, Lucian Covarrubias, Amadou Bah, Faraz Faruqi, Ryo Suzuki, Stefanie Mueller. Mixels: Fabricating Interfaces using Programmable Magnetic Pixels. In Proceedings of UIST 2022.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Martin Nisser, Leon Cheng, Yashaswini Makaram, Ryo Suzuki, Stefanie Mueller. ElectroVoxel: Electromagnetically Actuated Pivoting for Scalable Modular Self-Reconfigurable Robots. In Proceedings of ICRA 2022.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Mustafa Doga Dogan, Ahmad Taka, Michael Lu, Yunyi Zhu, Akshat Kumar, Aakar Gupta, Stefanie Mueller. InfraredTags: Embedding Invisible AR Markers and Barcodes Using Low-Cost, Infrared-Based 3D Printing and Imaging Tools. In Proceedings of CHI 2022. [Best Demo Nominee]
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Dishita Turakhia, Stefanie Mueller, Kayla DesPortes. Identifying Game Mechanics for Integrating Fabrication Activities within Existing Digital Games. In Proceedings of CHI 2022.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Jiani Zeng*, Honghao Deng*, Yunyi Zhu*, Michael Wessely, Axel Kilian, Stefanie Mueller. Lenticular Objects: 3D Printed Objects with Lenticular Lens Surfaces that Can Change their Appearance Depending on the Viewpoint. In Proceedings of UIST 2021. [* equal contribution]
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Mustafa Doga Dogan, Varnika Sinha, Steven Vidal Acevedo Colon, Kaan Akşit, Stefanie Mueller. SensiCut: Material-Aware Laser Cutting Using Speckle Sensing. In Proceedings of UIST 2021.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Jun Gong, Olivia Seow, Cedric Honnet, Jack Forman, Stefanie Mueller. MetaSense: Integrating Sensing Capabilities into Mechanical Metamaterial. In Proceedings of UIST 2021.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Joseph H. Schwab, Stefanie Mueller. EIT-kit: An Electrical Impedance Tomography Toolkit for Health and Motion Sensing In Proceedings of UIST 2021.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Dishita Turakhia, Andrew Wong, Yini Qi, Lotta-Gili Blumberg, Yoonji Kim, Stefanie Mueller. Adapt2Learn: A Toolkit for Configuring the Learning Algorithm for Adaptive Physical Tools for Motor-Skill Learning In Proceedings of DIS 2021.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Dishita Turakhia, Harrison Mitchell Allen, Kayla DesPortes, Stefanie Mueller. FabO: Integrating Fabrication with a Player's Gameplay in Existing Digital Games In Proceedings of C&C 2021.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Ticha Sethapakdi, Daniel Anderson, Adrian Reginald Chua Sy, Stefanie Mueller. Fabricaide: Fabrication-Aware Design for 2D Cutting Machines. In Proceedings of CHI 2021.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Martin Nisser, Christina Chen Liao, Yuchen Chai, Aradhana Adhikari, Steve Hodges, Stefanie Mueller. LaserFactory: An Electromechanical Assembly and Fabrication Platform Integrated with a Laser Cutter to make Functional Devices and Robots. In Proceedings of CHI 2021.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Michael Wessely, Yuhua Jin, Cattalyya Nuengsigkapian, Aleksei Kashapov, Isabel P. S. Qamar, Dzmitry Tsetserukou, Stefanie Mueller. ChromoUpdate: Locally Updating Photochromic Multi-Color Textures for Fast Design Iterations. In Proceedings of CHI 2021.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Dishita Turakhia, Yini Qi, Lotta-Gili Blumberg, Andrew Wong, Stefanie Mueller. Can Physical Tools that Adapt their Shape based on a Learner's Performance Help in Motor Skill Training? In Proceedings of TEI 2021.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Michael Wessely, Stefanie Mueller. MorphSensor: A 3D Electronic Design Tool for Reforming Sensor Modules In Proceedings of UIST 2020.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. CurveBoards: Integrating Breadboards into Physical Objects to Prototype Function in the Context of Form In Proceedings of CHI 2020.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Sprayable User Interfaces: Prototyping Large-Scale Interactive Surfaces with Sensors and Displays. In Proceedings of CHI 2020.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Mustafa Doga Dogan, Faraz Faruqi, Andrew Day Churchill, Kenneth Friedman, Leon Cheng, Sriram Subramanian, Stefanie Mueller. G-ID: Identifying 3D Prints Using Slicing Parameters. In Proceedings of CHI 2020.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Ollie Hanton, Michael Wessely, Stefanie Mueller, Mike Fraser, Anne Roudaut. ProtoSpray: Combining 3D Printing and Spraying to Create Objects with Interactive Displays. In Proceedings of CHI 2020. [Best Paper Nominee]
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Yasaman Tahouni, Isabel Qamar, Stefanie Mueller. NURBSforms: A Modular Shape-Changing Interface for Prototyping Curved Surfaces. In Proceedings of TEI 2020.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Junichi Yamaoka, Mustafa Doga Dogan, Katarina Bulovic, Kazuya Saito, Yoshihiro Kawahara, Yasuaki Kakehi, Stefanie Mueller. FoldTronics: Creating 3D Objects with Integrated Electronics Using Foldable Honeycomb Structures. In Proceedings of CHI 2019.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Martin Nisser, Junyi Zhu, Tianye Chen, Katarina Bulovic, Parinya Punpongsanon, Stefanie Mueller. Sequential Support: 3D Printing Dissolvable Support Material for Time-Dependent Mechanisms. In Proceedings of TEI 2019.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Francois Guimbretiere, Patrick Baudisch. FormFab: Continuous Interactive Fabrication. In Proceedings of TEI 2019.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Paul Worgan, Kevin Reuss, Stefanie Mueller. Integrating Electronic Components into Deformable Objects Based on User Interaction Data. In Proceedings of TEI 2019.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Xiuming Zhang, Tianfan Xue, Tali Dekel, Andrew Owens, Jiajun Wu, Stefanie Mueller, William Freeman. MoSculp: Interactive Visualization of Shape and Time. In Proceedings of UIST 2018.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Parinya Punpongsanon, Xin Wen, David Kim, Stefanie Mueller. ColorMod: Recoloring 3D Printed Objects using Photochromic Inks. In Proceedings of CHI 2018.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Stefanie Mueller, Patrick Baudisch, François Guimbretière. RoMA: Interactive Fabrication with Augmented Reality and a Robotic 3D Printer. In Proceedings of CHI 2018.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Stefanie Mueller, Patrick Baudisch Linespace: A Sensemaking Platform for the Blind. In Proceedings of CHI 2016.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. David Eickhoff, Stefanie Mueller, Patrick Baudisch. Destructive Games: Creating Value by Destroying Valuable Physical Objects. In Proceedings of CHI 2016.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Udayan Umapathi, Hsiang-Ting Chen, Stefanie Mueller, Ludwig Wall, Anna Seufert, Patrick Baudisch. LaserStacker: Fabricating 3D Objects by Laser Cutting and Welding. In Proceedings of UIST 2015.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Stefan Neubert, Patrick Baudisch. Patching Physical Objects. In Proceedings of UIST 2015.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Stefanie Mueller, Patrick Baudisch. Protopiper: Physically Sketching Room-Sized Objects at Actual Scale. In Proceedings of UIST 2015.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Dustin Beyer, Serafima Gurevich, Stefanie Mueller, Hsiang-Ting Chen, Patrick Baudisch. Platener: Low-Fidelity Fabrication of 3D Objects by Substituting 3D Print with Laser-Cut Plates. In Proceedings of CHI 2015. [Best Paper Nominee]
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Scotty: Relocating Physical Objects Across Distances Using Destructive Scanning, Encryption, and 3D Printing. In Proceedings of TEI 2015.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. François Guimbretière, Patrick Baudisch. WirePrint: 3D Printed Previews for Fast Prototyping. In Proceedings of UIST 2014.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Stefanie Mueller, Tobias Mohr, Kerstin Guenther, Johannes Frohnhofen, Patrick Baudisch. faBrickation: Fast 3D printing of Functional Objects With Building Blocks. In Proceedings of CHI 2014. [Best Paper Nominee]
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Stefanie Mueller, Pedro Lopes, Patrick Baudisch. Interactive Construction: Interactive Fabrication of Functional Mechanical Devices. In Proceedings of UIST 2012.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. CapStones and ZebraWidgets: Sensing Stacks of Building Blocks, Dials and Sliders on Capacitive Touch Screens. In Proceedings of CHI 2012.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Kexin Wang, Yitong Sun, Ticha Sethapakdi, Tianyu Yu, Yixin Wang, Stefanie Mueller !nteractivesPub: Redistributing Author and Reader Effort through Interactive Academic Authoring In Proceedings of the Extended Abstracts of CHI 2026.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Marwa AlAlawi, Kexin Wang, Regina Zheng, Adelene Chan, Martin Feick, Stefanie Mueller Ori-TENG: 3D Printed Origami Tessellations as Triboelectric Nanogenerators for Self-powered Sensing and Energy Harvesting In Adjunct Proceedings of UIST 2025 [Best Poster Nominee].
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Mingming Li, Jiaji Li, Haotian Chen, Dingning Cao, Karla Sahin, Stefanie Mueller. Integrating Motion Sensing into 3D-Printed Bending Structures In Adjunct Proceedings of UIST 2025.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Dishita Turakhia, Peiling Jiang, Stefanie Mueller. The Reflective Make-AR In-Action: Using Augmented Reality for Reflection-based Learning of Makerskills In Proceedings of CHI Late Breaking Work 2023.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Dishita Turakhia, David Ludgin, Stefanie Mueller, Kayla DesPortes. What Can We Learn From Educators About Teaching in Makerspaces? In Proceedings of CHI Late Breaking Work 2023.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Xinyi Yang*, Katarina Bulovic*, Susanna Chen*, Junyi Zhu, Stefanie Mueller. Azimuth Calculation and Telecommunication between VR Headset and Smartphones for Nearby Interaction In Proceedings of TEI 2023 Work in Progress [* equal contribution].
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Xinyi Yang, Martin Nisser, Stefanie Mueller. CompuMat: A Computational Composite Material for Tangible Interaction In Proceedings of TEI 2023 Work in Progress
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Xinyi Yang*, Lauren Niu*, Martin Nisser, Stefanie Mueller. PullupStructs: Digital Fabrication for Folding Structures via Pull-up Nets In Proceedings of TEI 2023 Work in Progress [* equal contribution].
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Isabel P. S. Qamar, Sabina W. Chen, Dimitri Tskhovrebadze, Paolo Boni, Faraz Faruqi, Michael Wessely, Stefanie Mueller. ChromoPrint: A Multi-Color 3D Printer Based on a Reprogrammable Photochromic Resin In Adjunct Proceedings of CHI 2022 Late Breaking Work.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Faraz Faruqi, Kenneth Friedman, Leon Cheng, Michael Wessely, Sriram Subramanian, Stefanie Mueller. SliceHub: Augmenting Shared 3D Model Repositories with Slicing Results for 3D Printing In Adjunct Proceedings of CHI 2022 Late Breaking Work.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. Dishita Turakhia, Paulo Blikstein, Nathan Holbert, Marcelo Worsley, Jennifer Jacobs, Fraser Anderson, Jun Gong, Kayla DesPortes, Stefanie Mueller. Reimagining Systems for Learning Hands-on Creative and Maker Skills. CHI 2022 Workshop.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
+
+1. DOI PDF Details Conference Schedule Since 2017 © MIT CSAIL (HCI Engineering group) [redesign by moji ]. All Rights Reserved.
+
+    게시 페이지: <https://hcie.csail.mit.edu/publications.html>
 
 ## MIT — David Parks
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -8366,9 +12552,11 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:49:24.084Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/patera@mit.edu>
 
 ## MIT — Brian Anthony
 
@@ -8829,9 +13017,11 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:49:25.129Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/NMP@MIT.EDU>
 
 ## MIT — Thomas Peacock
 
@@ -9141,23 +13331,387 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Carlos Portela
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 35건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/cportela@mit.edu>
+출처: <https://portela.mit.edu/publications/>
+
+1. Reconfigurable architected material systems inspired by feather shaft mechanics P. S. Dasika, Y. Zhang, S. Dhulipala, L. Wu, C. M. Portela & P. D. Zavattieri npj Metamaterials (2026)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Entanglement-driven responses through multiscale 3D-printed knits B. Cline, C. Bai, S. Jeong, L. Xu , Y. Wang, J. U. Surjadi , C. M. Portela, T. Chen PNAS (2026)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Microneedle array platforms for drug delivery and biomarker sensing: From skin mechanics guided design to scalable manufacture for clinical utility J. Zhou, L. Wu, M. Wyttenbach, R. Lennon, Y. Liu, M. Christian, S. Scherr, M. Charara, R. Kommalapati, J. Blum, E. Chatzilakou, A. Schlueter, F. Theobald, L. Valenti, K. Kosuda, G. B. Jacobson, M. Kwon, S. Ding, C. Quinn, C. Rosen, I. C. Springall, K. TM Tran, J. Tian, A. K. Yetisen, A. Jaklenec, N. Shalabi, J. Li, Z. Kang, R. Farra, M. Kendall, J. H. Park, J. DeSimone, R. F. Donnelly, J. Wang, J. J. Mistilis, M. R Prausnitz, J. C. Birchall, S. A. Coulman, A. J. Hart, C. M Portela, R. Langer, G. Francese, G. Traverso Journal of Controlled Release (2026)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Quasi-Static to Supersonic Energy Absorption of Nanoarchitected Tubulanes and Schwarzites P. Serles, A. Maguire, T. Butruille, J. Lem, S. Yang, P. G. Demingos, S. Choukir, M. Haché, B. Kumral, K. Jia, C. Jia, Y. Zou, C. V. Singh, C. M. Portela, J. Lou, P. M. Ajayan, T. Filleter Advanced Functional Materials (2026)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Magnetically responsive microprintable soft nanocomposites with tunable nanoparticle loading R. M. Sun, A. Y. Chen, Y. Ji, E. M. Stewart, D. W. Yee, C. M. Portela Matter (2026)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Design framework for programmable three-dimensional woven metamaterials M. Carton, J. U. Surjadi, B. F. G. Aymon, L. Xu, C. M. Portela Nature Communications (2026)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Curvature-Guided Mechanics and Design of Spinodal andShell-Based Architected Materials S. Dhulipala, C. M. Portela Journal of the Mechanics and Physics of Solids (2025)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Mechanics of micro-architected carbon-and polymer-based interpenetrating phase composites A. Y. Chen, C. M. Portela International Journal of Solids and Structures (2025)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Data-Efficient Discovery of Hyperelastic TPMS Metamaterials with Extreme Energy Dissipation M. Perroni-Scharf, Z. Ferguson, T. Butruille, C. M. Portela, M. K. Luković SIGGRAPH Conference Papers (2025)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Generative inverse design of metamaterials with functional responses by interpretable learning W. Chen, R. Sun, D. Lee, C. M. Portela, W. Chen Advanced Intelligent Systems (2025)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Mechanical Behavior of Nanocluster-Based Nanocomposites Made Using Two-Photon Lithography J. Kulikowski, D. Delghandi, C. Wu, S. D. Figueroa, W. S. Cunningham, D. S. Gianola, C. M. Portela, X. W. Gu ACS Applied Materials & Interfaces (2025)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Double-network-inspired mechanical metamaterials J. U. Surjadi, B. F. G. Aymon, M. Carton, C. M Portela Nature Materials (2025)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Ultrahigh specific strength by Bayesian optimization of carbon nanolattices P. Serles, J. Yeo, M. Haché, P. G. Demingos, J. Kong, P. Kiefer, S. Dhulipala, B. Kumral, K. Jia, S. Yang, T. Feng, C. Jia, P. M. Ajayan, C. M. Portela, M. Wegener, J. Howe, C. V. Singh, Y. Zou, S. Ryu, T. Filleter Advanced Materials (2025)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Enabling three-dimensional architected materials across length scales and timescales J. U. Surjadi & C. M. Portela Nature Materials (2025)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Experiment-informed finite-strain inverse design of spinodal metamaterials P. Thakolkaran, M. Espinal, S. Dhulipala, S. Kumar, C. M. Portela Extreme Mechanics Letters (2025)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Tailored ultrasound propagation in microscale metamaterials via inertia design R. Sun, J. Lem, Y. Kai, W. DeLima, C. M. Portela Science Advances (2024)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Decoupling particle-impact dissipation mechanisms in 3D architected materials T. Butruille, J. C. Crone & C. M. Portela PNAS (2024)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Dynamic diagnosis of metamaterials through laser-induced vibrational signatures Y. Kai, S. Dhulipala, R. Sun, J. Lem, W. DeLima, T. Pezeril & C. M. Portela Nature (2023)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Tunable Mechanical Response of Self-Assembled Nanoparticle Superlattices S. Dhulipala, D.W. Yee, Z. Zhou, R. Sun, J.E. Andrade, R.J. Macfarlane, C.M. Portela Nano Letters (2023)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Predicting the influence of geometric imperfections on the mechanical response of 2D and 3D periodic trusses R.N. Glaesener, S. Kumar, C. Lestringant, T. Butruille, C.M. Portela, D.M. Kochmann Acta Materialia (2023)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Sequential metamaterials with alternating Poisson’s ratios A. Farzaneh, N. Pawar, C.M. Portela, J.B. Hopkins Nature Communications (2022)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Poroelastic micro lattices for underwater wave focusing G. Kim, C.M. Portela, P. Celli, A. Palermo, C. Daraio Extreme Mechanics Letters (2021)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Supersonic impact resilience of nanoarchitected carbon C.M. Portela, B.W. Edwards, D. Veysset, Y. Sun, K.A. Nelson, D.M. Kochmann, J.R. Greer Nature Materials (2021)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Pushing and Pulling on Ropes: Hierarchical Woven Materials W. P. Moestopo, A. J. Mateos, R. M. Fuller, J. R. Greer, & C. M. Portela (2020)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. C. M. Portela, A. Vidyasagar, S. Krödel, T. Weissenbach, D. W. Yee, J. R. Greer, & D. M. Kochmann (2020)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. X. Xia, A. Afshar, H. Yang, C. M. Portela, D. M. Kochmann, C. V. Di Leo, & J. R. Greer (2019)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. link – https://www.nature.com/articles/s41586-019-1538-z Computationally efficient design of directionally compliant metamaterials L. A. Shaw, F. Sun, C. M. Portela, R. I. Barranco, J. R. Greer, & J. B. Hopkins (2019)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. link – https://www.nature.com/articles/s41467-018-08049-1 Approaches for Efficient Modeling of the Mechanical Response of Complex Periodic Truss Architectures C. Portela, G. Phlipot, J. Greer, & D. Kochmann (2019)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. link – https://www.research-collection.ethz.ch/handle/20.500.11850/407451 Fabrication, Mechanical Characterization, and Modeling of 3D Architected Materials upon Static and Dynamic Loading C. M. G. Portela (2019)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Additive manufacturing of 3D nano-architected metals A. Vyatskikh, S. Delalande, A. Kudo, X. Zhang, C. M. Portela, & J. R. Greer (2018)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. link – https://www.nature.com/articles/s41467-018-03071-9 Impact of node geometry on the effective stiffness of non-slender three-dimensional truss lattice architectures C. M. Portela, J. R. Greer, & D. M. Kochmann (2018)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. link – https://www.sciencedirect.com/science/article/pii/S2352431618300725 Ultralow Thermal Conductivity and Mechanical Resilience of Architected Nanolattices N. G. Dou, R. A. Jagt, C. M. Portela, J. R. Greer, & A. J. Minnich (2018)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. link – https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.8b01191 Fabrication and design of composites with architected layers C. Portela, A. Vyatskikh, & J. R. Greer (2018)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. L. R. Meza, G. P. Phlipot, C. M. Portela, A. Maggi, L. C. Montemayor, A. Comella, D. M. Kochmann, & J. R. Greer (2017)
+
+    게시 페이지: <https://portela.mit.edu/publications/>
+
+1. Acta Materialia link – https://www.sciencedirect.com/science/article/pii/S1359645417307073 Portela Research Group © 2021 All Rights Reserved
+
+    게시 페이지: <https://portela.mit.edu/publications/>
 
 ## MIT — Ritu Raman
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 56건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/ritur@mit.edu>
+출처: <https://ramanlab.mit.edu/publications/>
+
+1. Journal Articles *co-first, +corresponding 51. Heisser, R.H., Afsar, O.K., Sawyney, P., Castro, N., Lee, I., Marschner, A., and Raman, R.+, (2026). Biohybrid toggle switches: leveraging bistability in muscle-actuated machines. BioRxiv. #corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 50. Bawa, M., Berman, A., Schwendeman, L., Afghah, F., Johnson, S., and Raman, R.+, (2026). 2D skeletal muscle thin film actuators enhance efficiency of biohybrid robots. Advanced Functional Materials. #corresponding || MIT News Feature
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 49. Floryan, M., Cordiale, A., Jensen, H, Chen, J., Guo, Z., Vinayak, V., Kheiri, S, Raman, R., Shenoy, V., Cambria, E., and Kamm, R.D., (2026). IntravChip: a vascularized and perfused microfluidic model of the primary tumor microenvironment to collect intravasated tumor cells. Biofabrication.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 48. Kheiri, S.*, Shah, J.*, Chai, P., Venkatesh, S.A., Flynn, R.A., Kamm, R.D.,, and Raman, R.+, (2026). 4D force patterning enables spatial control of angiogenesis. Proceedings of the National Academy of Sciences. #corresponding || MIT News Feature
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 47. Berman, A., Lee, I., and Raman, R.+, (2026). Compliant In Vitro Bioelectronics: Biohybrid Device Design Strategies with Materials and Structures. Extreme Mechanics Letters.#corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 46. Schwendeman, L.*, Bu, A.*, Kohli, S., Afghah, F., Rossy, T., and Raman, R.+, (2026). Limb-on-a-Chip: an all-hydrogel platform for scalable and reproducible engineering of neuromuscular tissues. Cell Biomaterials. #corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 45. Heisser, R.H., Raman, R., and Shepherd, R.F., (2026). The co-development of soft robotics and assistive technology. Science Robotics.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 44. Afghah, F., Kheiri, S., Ladd, A., Ye, F., McCoy, V., Bai, J., Kohli, S., Zanderigo, G., de Lima, G., and Raman, R.+, (2026). Advancing bioink homogeneity in extrusion 3D bioprinting with active in situ magnetic mixing. Device. #corresponding || MIT News Feature
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 43. Lee, I.*, Berman, A.*, and Raman, R.+, (2026). Using electronics to build biohybrid robots with physical intelligence. Nature Electronics. #corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 42. Chai, P., Kheiri, S., Kuo, A., Shah, J., Kageler, L., Ge, R., Perr, J., Porat, J., Lebedenko, C., Dias, J.M.L., Yankova, E., Rai, S.K., Watkins, C.P., Hristov, P., Tzelepis, K., Hla, T., Raman, R., Calo, E., Esko, J.D., and Flynn, R.A., (2026). GlycoRNA complexed with heparan sulfate regulates VEGF-A signalling. Nature.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 41. Chaikof, E. L., Chen, J., Gillette, M.U., Boyer, L.A., Deans, T.L., Li, P., Hilton, I.B., Daniels, K., Goyal, Y., Mei, Y., Linghu, C., Loveless, T.B., Truong, D.M., Blatchley, M.R., Gu, M., Bashor, C.J., Yang, J.H., Raman, R., Reddy, A.B., Saha, K., Davis, J., Gupta, K., Gao, X., Galloway, K.E. (2025). Integrating synthetic biology to understand and engineer the heart, lung, blood, and sleep systems. Cell Systems.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 42. Chai, P., Kheiri, S., Kuo, A., Shah, J., Kageler, L., Ge, R., Perr, J., Porat, J., Lebedenko, C., Dias, J.M.L., Yankova, E., Rai, S.K., Watkins, C.P., Hristov, P., Tzelepis, K., Hla, T., Raman, R., Calo, E., Esko, J.D., and Flynn, R.A., (2026). GlycoRNA complexed with heparan sulfate regulates VEGF-A signalling. Nature. 41. Chaikof, E. L., Chen, J., Gillette, M.U., Boyer, L.A., Deans, T.L., Li, P., Hilton, I.B., Daniels, K., Goyal, Y., Mei, Y., Linghu, C., Loveless, T.B., Truong, D.M., Blatchley, M.R., Gu, M., Bashor, C.J., Yang, J.H., Raman, R., Reddy, A.B., Saha, K., Davis, J., Gupta, K., Gao, X., Galloway, K.E. (2025). Integrating synthetic biology to understand and engineer the heart, lung, blood, and sleep systems. Cell Systems. 40. Heisser, R.H., Bu, A., Schwendeman, L., Rossy, T., and Raman, R.+, (2025). Physiological and functional characterization for high-throughput optogenetic skeletal muscle exercise assays. Bioengineering and Translational Medicine.#corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 39. Castro, N., Bawa, M., Aymon, B., Wu, S., Marschner, A., Kohli, S., Rosado, L., Culpepper, M., Zhao, X., and Raman, R.+, (2025). Biohybrid tendons enhance the power-to-weight ratio and modularity of muscle-powered robots. Advanced Science. #corresponding || MIT News Feature
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 38. Zanderigo, G.*, Afghah, F.*, Colosimo, B.# and Raman, R.+, (2025). Modular and AI-Driven In Situ Monitoring Platform for Real-Time Process Analysis in Embedded Bioprinting. Device, 3(11). #corresponding || MIT News Feature
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 37. Raman, R.+, Chen, X., and Zhao, X., (2025). Introduction: Soft Robotics. Chemical Reviews, 125(11).#corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 36. Cedillo-Servin, G., Essa, A., Rossy, T., Teixeira, S., Sage, F., Domingues, R.M.A., Raman, R., and Castilho, M., (2025). Meta-adaptive biomaterials: multiscale, spatiotemporal organization and actuation in engineered tissues. Trends in Biotechnology, 43(11).
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 35. Heisser, R., Bawa, M., Shah, J., Bu, A., and Raman, R.+, (2025). Soft biological actuators for meter-scale homeostatic biohybrid robots. Chemical Reviews, 125(7). +corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 34. Rossy, T.*, Schwendeman, L.*, Kohli, S., Bawa, M., Umashankar, P., Habba, R., Tchaicheeyan, O., Lesman, A., and Raman, R.+, (2025). Leveraging microtopography to pattern multi-oriented muscle actuators. Biomaterials Science, 13(11). *Cover, +corresponding || MIT News Feature
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 33. Rivnay, J, Raman, R., Robinson, J.T., Schreib, C., Cohen-Karni, T., Galloway, K.E., and Veiseh, O., (2025). Integrating bioelectronics with cell-based synthetic biology. Nature Reviews Bioengineering, 3(4).
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 32. Garcia-Gonzalez, D., Raman, R., Schurle, S., and Tay, A.K.P., (2024). Magnetic actuation for mechanomedicine. Advanced Intelligent Systems, 7(2).
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 31. Bu, A., Afghah, F., Castro, N., Bawa, M., Kohli, S., Shah, K., Rios, B., Butty, V., and Raman, R.+, (2024). Actuating extracellular matrices decouple the mechanical and biochemical effects of muscle contraction on motor neurons. Advanced Healthcare Materials, 14(6). *Cover, +corresponding || MIT News Feature
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 30. Bawa, M., Raman, R.+, (2024). Taking control: steering the future of biohybrid robots. Science Robotics, 9(94). +corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 29. Raman, R.+, (2024). Pedagogy in bioengineering: pipettes, practice and patience. Nature Reviews Bioengineering, 2(12). +corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 28. Raman, R.+ and Laschi, C.+, (2024). Soft robotics for human health. Device, 2(7). +corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 27. Raman, R.+, (2024). Biofabrication of living actuators. Annual Review of Biomedical Engineering, 26(1), pp.223-245. +corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 26. Hatano, R., Smith, A., Raman, R., Zamora, J.E., Bashir, R., and McCloskey, K.E., (2024). Comparing fabrication techniques for engineered cardiac tissue. Journal of Biomedical Materials Research: Part A, 112(11).
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 25. Lynch, N.*, Castro, N*, Sheehan, T., Rosado, L., Rios, B., Culpepper, M., and Raman, R.+, (2024). Enhancing and decoding the performance of muscle actuators with flexures. Advanced Intelligent Systems, 6(7). *Cover, +corresponding || MIT News Feature
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 24. Rios, B.*, Bu, A.*, Sheehan, T., Kobeissi, H., Kohli, S., Shah, K., Lejeune, E., and Raman, R.+, (2023). Mechanically programming anisotropy in engineered muscle with actuating extracellular matrices. Device, 1(4). *Cover, +corresponding || Github || MIT News Feature
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 23. Rousseau, R.*, Raman, R.*,+ , Tamir, T.*, Bu, A., Srinivasan, S., Lynch, N., Langer, R., White, F.M., and Cima, M.J., (2023). Actuated tissue engineered muscle grafts restore functional mobility after volumetric muscle loss. Biomaterials, 302, p.122317. *co-first, +corresponding || MIT News Feature
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 22. Filippi, M., Yasa, O., Kamm, R.D., Raman, R., and Katzschmann, R., (2022). Will microfluidics enable functionally integrated bio-hybrid robots? Proceedings of the National Academy of Sciences, 119(35), p.e2200741119.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 21. Aydin, O.*, Passaro, A*., Raman, R.*, Spellicy, S.*, Weinberg, R.P., Kamm, R.D., Sample, M., Truskey, G.A., Zartman, J., Dar, R.D., Palacios, S., Wang, J., Tordoff, J., Montserrat, N., Bashir, R., Saif, M.T.A., and Weiss, R., (2022). Principles for the design of multicellular engineered living systems. APL Bioengineering, 6(1). *co-first
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 22. Filippi, M., Yasa, O., Kamm, R.D., Raman, R., and Katzschmann, R., (2022). Will microfluidics enable functionally integrated bio-hybrid robots? Proceedings of the National Academy of Sciences, 119(35), p.e2200741119. 21. Aydin, O.*, Passaro, A*., Raman, R.*, Spellicy, S.*, Weinberg, R.P., Kamm, R.D., Sample, M., Truskey, G.A., Zartman, J., Dar, R.D., Palacios, S., Wang, J., Tordoff, J., Montserrat, N., Bashir, R., Saif, M.T.A., and Weiss, R., (2022). Principles for the design of multicellular engineered living systems. APL Bioengineering, 6(1). *co-first 20. Raman, R.+, (2021). Engineered neuromuscular actuators for medicine, meat, and machines. MRS Bulletin, 46(6), pp.522-533.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 19. Aguado, B., …, Raman, R.,… and Cranford, S., (2021). 35 challenges in materials science being tackled by PIs under 35(ish) in 2021. Matter, 4(12), pp.3804-3810. +corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 18. Raman, R.*, Rousseau, E.B.*, Wade, M., Tong, A., Cotler, M.J., Kuang, J., Lugo, A.A., Zhang, E., Graybiel, A.M., White, F.M., Langer, R., and Cima, M., (2020). Platform for micro-invasive membrane-free biochemical sampling of brain interstitial fluid. Science Advances, 6(39), p.eabb0657. *co-first
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 17. Raman, R., Hua, T., Gwynne, D., Collins, J., Tamang, S., Soares, V., Esfandiary, T., Zhou, J., Pajovic, S., Hayward, A., Langer, R., and Traverso, G., (2019). Light-degradable hydrogels as dynamic triggers in gastrointestinal applications. Science Advances, 6(3), p.eaay0065. || MIT News Feature
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 16. Raman, R.+ and Langer, R., (2019). Biohybrid Design Gets Personal: New Materials for Patient-Specific Therapy. Advanced Materials, 32(13), p.1901969. *Cover +corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 15. Raman, R.+, 2019. Modeling muscle: A biohybrid machine offers insight into muscle growth, adaptation, and repair. Science, 363(6431). *Sartorius & Science Prize Essay +corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 14. Grant, L.*, Raman, R.*, Cvetkovic, C., Ferrall-Fairbanks, M.C., Pagan Diaz, G. Hadley, P., Platt, M.O., and Bashir, R., (2018). Long-term cryopreservation and revival of tissue engineered skeletal muscle. Tissue Engineering: Part A, 25(13-14), pp.1023-1036. *co-first
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 13. Raman, R., Cvetkovic, C., and Bashir, R., 2017. A Modular Approach to Design, Fabrication, and Characterization of Muscle-Powered Biological Machines. Nature Protocols, 12(3), pp.519-533. *Cover
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 12. Raman, R., Grant, L., Seo, Y., Cvetkovic, C., Gapinske, M., Palasz, A., Dabbous, H., Kong, H., Perez-Pinera, P., and Bashir, R., 2017. Damage, Healing and Remodeling in Optogenetic Skeletal Muscle Bioactuators. Advanced Healthcare Materials. 6(12). *Cover
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 11. Cvetkovic, C., Rich, M.H., Raman, R., Kong, H., and Bashir, R., 2017. A 3D-Printed Platform for Modular Neuromuscular Motor Units. Microsystems and Nanoengineering. 3, pp. 17015.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 10. Ricotti, L., Trimmer, B., Feinberg, A.W., Raman, R., Parker, K.K., Bashir, R., Sitti, M., Martel, S., Dario, P., and Menciassi, A., 2017. Biohybrid actuators for robotics: A review of devices actuated by living cells. Science Robotics, 2(12).
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 9. Raman, R.+ and Bashir, R., 2017. Biomimicry, Biofabrication, and Biohybrid Systems: The Emergence and Evolution of Biological Design. Advanced Healthcare Materials. +corresponding
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 8. Raman, R., Mitchell, M., Perez-Pinera, P., Bashir, R., and Destefano, L., 2016. Design and Integration of a Problem-Based Biofabrication Course into an Undergraduate Biomedical Engineering Curriculum. Journal of Biological Engineering, 10(1), pp.10-18.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 7. Raman, R., Cvetkovic, C., Uzel, S.G.M., Platt, R.J., Sengupta, P., Kamm, R.D., and Bashir, R., 2016. Optogenetic skeletal muscle-powered adaptive biological machines. Proceedings of the National Academy of Sciences, 113(13), pp.3497-3502.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 6. Raman, R.*, Clay, N.E.*, Sen, S., Melhem, M., Qin, E., Kong, H., and Bashir, R., 2016. 3D Printing Enables Separation of Orthogonal Functions within a Hydrogel Particle. Biomedical Microdevices, 18(3), pp.1-7. *co-first
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 5. Raman, R., Bhaduri, B., Mir, M., Shkumatov, A., Lee, M.K., Popescu, G., Kong, H., and Bashir, R., 2015. High‐Resolution Projection Microstereolithography for Patterning of Neovasculature. Advanced Healthcare Materials, 5(5). *Cover
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 4. Neiman, J.A.S., Raman, R., Chan, V., Rhoads, M.G., Raredon, M.S.B., Velazquez, J.J., Dyer, R.L., Bashir, R., Hammond, P.T., and Griffith, L.G., 2015. Photopatterning of hydrogel scaffolds coupled to filter materials using stereolithography for perfused 3D culture of hepatocytes. Biotechnology and Bioengineering, 112(4), pp.777-787.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 3. Cvetkovic, C.*, Raman, R.*, Chan, V., Williams, B.J., Tolish, M., Bajaj, P., Sakar, M.S., Asada, H.H., Saif, M.T.A., and Bashir, R., 2014. Three-dimensionally printed biological machines powered by skeletal muscle. Proceedings of the National Academy of Sciences, 111(28), pp.10125-10130. *co-first
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 2. Chan, V., Raman, R., Cvetkovic, C., and Bashir, R., 2013. Enabling microscale and nanoscale approaches for bioengineered cardiac tissue. ACS Nano, 7(3), pp.1830-1837.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 1. Dorvel, B., Damhorst, G., Chan, V., Shim, J., Banerjee, S., Cvetkovic, C., Raman, R., and Bashir, R., 2013. Research Highlights: Highlights from the last year in nanomedicine. Nanomedicine, 8(1), pp.13-15.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 1. Raman, R. and Bashir, R. “Stereolithographic 3D Bioprinting for Biomedical Applications”, 3D Biofabrication for Biomedical and Translational Research, 2015.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 4. Provisional: Raman, R., Afghah, S.F. The Massachusetts Institute of Technology. Advancing ink homogeneity in extrusion printing with active in situ mixing. U.S. Provisional Application No. 63/878,491. 3. Application: Raman, R., Culpepper, M., Lynch, N., Castro, N., Rosado, L., and Margetts, A. The Massachusetts Institute of Technology. Compliant mechanism for enhancing and/or decoding performance of tissues. PCT/US2025/021700. 2. Issued: Bashir, R., Raman, R., and Cvetkovic, C., The Board of Trustees of the University of Illinois, 2021. Muscle-powered biological machines. U.S. Patent No. 10,906,169.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. 1. Issued: Bashir, R., Chan, V., Raman, R., and Cvetkovic, C., The Board of Trustees of the University of Illinois, 2018. Locomotive biological machines. U.S. Patent No. 10,156,560.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. Doctoral Dissertation Raman, R., “3D Printed Muscle-Powered Bio-Bots“, University of Illinois at Urbana-Champaign, 2016.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
+
+1. Masters Thesis Raman, R., “3D Microfabrication of Biological Machines“, University of Illinois at Urbana-Champaign, 2013.
+
+    게시 페이지: <https://ramanlab.mit.edu/publications/>
 
 ## MIT — Ellen Roche
 
@@ -9201,7 +13755,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -9211,11 +13765,19 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
+출처: <https://sandlab.mit.edu/>
+
 출처: <https://meche.mit.edu/people/faculty/sapsis@MIT.EDU>
+
+출처: <http://sandlab.mit.edu/index.php/publications>
+
+출처: <https://sandlab.mit.edu/publications-list/>
+
+출처: <https://www.climatechange.ai/papers/neurips2022/65>
 
 ## MIT — Sanjay Sarma
 
@@ -11510,9 +16072,11 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:49:46.330Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/JJS@MIT.EDU>
 
 ## MIT — Peter So
 
@@ -11648,39 +16212,113 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Loza Tadesse
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 15건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/lozat@mit.edu>
+출처: <https://tadesselab.mit.edu/publications/>
+
+출처: <https://tadesselab.mit.edu/publications/?query-32-page=3>
+
+출처: <https://tadesselab.mit.edu/publications/?query-32-page=2>
+
+1. Nucleic acid turnover and lipid remodeling distinguish T cell activation and exhaustion states via label-free Raman spectroscopy Marissa MoralesSrilakshmi PremachandranShruthi RavichandranLoza F Tadesse ACS Sensors 2026 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/>
+
+1. Nano-engineered surface enhanced Raman spectroscopy substrates for probing tissue-material interactions Connie M. WangRoberta M. SabinoAditya GargAhmed E. SalihLoza F TadesseElazer R. Edelman Nano Letters 2026 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/>
+
+1. Towards Breath Based Diagnostics via Water-mediated Capture of Synthetic Breath Biomarkers in SERS-active Plasmonic Nanogaps Aditya GargMarissa MoralesAashini ShahDaniel KimMing LeiSahil PatelJia DongSeleem BadawySangeeta BhatiaLoza F Tadesse Nano Letters 2026 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/>
+
+1. SpectroGen: A physically informed generative artificial intelligence for accelerated cross-modality spectroscopic materials characterization Yanmin ZhuLoza F Tadesse Matter 2026 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/>
+
+1. From Genotype to Phenotype: Raman Spectroscopy and Machine Learning for Label-Free Single-Cell Analysis Yirui ZhangKai ChangBabatunde OgunladeLiam HerndonLoza F TadesseAmanda R KiraneJennifer A Dionne ACS Nano 2024 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/>
+
+1. Cooperative enhancement of the nonlinear optical response in conjugated energetic materials: A TD-DFT study Andrew E. SifainLoza F TadesseJosiah A. BjorgaardDavid E. ChavezOleg V. PrezhdoR. Jason ScharffSergei Tretiak The Journal of Chemical Physics 146 2017 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/?query-32-page=3>
+
+1. Effect of Transition Metal Oxide Cathodes on the Oxygen Evolution Reaction in Li–O2 Batteries Dahyun OhKumar VirwaniLoza F TadesseMark JurichNagaphani AetukuriLeslie E ThompsonHo-Cheol KimDonald S Bethune The Journal of Physical Chemistry C 121 2017 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/?query-32-page=3>
+
+1. Sharpness-Aware Minimization (SAM) Improves Classification Accuracy of Bacterial Raman Spectral Data Enabling Portable Diagnostics Kaitlin ZarenoJarett DewburySiamak SorooshyariHossein MobahiLoza F Tadesse ICLR 5th Workshop on practical ML for limited/low resource settings 2024 Conference
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/?query-32-page=2>
+
+1. Label-free, real-time, whole-cell response monitoring with liquid Raman spectroscopy Loza F TadesseJack HuAmr AE SalehStefanie S JeffreyJennifer A Dionne Filed, Appl. No.: PCT/US2021/048668.2021 2023 Patent
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/?query-32-page=2>
+
+1. More than magnetic isolation: Dynabeads as strong Raman reporters toward simultaneous capture and identification of targets Jongwan LeeMarissa McDonaldNikiwe MhlangaJeon Woong KangRohit KarnikLoza F Tadesse Journal of Raman Spectroscopy 2023 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/?query-32-page=2>
+
+1. Combining acoustic bioprinting with AI-assisted Raman spectroscopy for high-throughput identification of bacteria in blood Fareeha SafirNhat VuLoza F TadesseKamyar FirouziNiaz BanaeiStefanie S JeffreyAmr AE SalehButrus (Pierre) T Khuri-YakubJennifer A Dionne Nano Letters 23 2023 Conference
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/?query-32-page=2>
+
+1. Plasmonic and Electrostatic Interactions Enable Uniformly Enhanced Liquid Bacterial Surface-Enhanced Raman Scattering (SERS) Loza F TadesseChi-Sing HoDong-Hua ChenHamed AramiNiaz BanaeiSanjiv S. GambhirStefanie S JeffreyAmr AE SalehJennifer Dionne Nano letters 20 2020 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/?query-32-page=2>
+
+1. Toward rapid infectious disease diagnosis with advances in surface-enhanced Raman spectroscopy Loza F TadesseFareeha SafirChi-Sing HoXimena HasbachButrus (Pierre) T Khuri-YakubStefanie S JeffreyAmr AE SalehJennifer Dionne The Journal of Chemical Physics 152 2020 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/?query-32-page=2>
+
+1. Nanophotonic platforms for chiral sensing and separation Michelle L. SolomonAmr AE SalehLisa V. PoulikakosJohn M. AbendrothLoza F TadesseJennifer A Dionne Accounts of chemical research 53 2020 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/?query-32-page=2>
+
+1. Biotemplating pores with size and shape diversity for Li-oxygen Battery Cathodes Dahyun OhCagla Ozgit-AkgunEsin AkcaLeslie E ThompsonLoza F TadesseHo-Cheol KimGökhan DemirciRobert D. MillerHareem Maune Scientific reports 7 2017 Journal Article
+
+    게시 페이지: <https://tadesselab.mit.edu/publications/?query-32-page=2>
 
 ## MIT — Haoning Tang
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://reconfigurablephotonics.mit.edu/>
 
 출처: <https://meche.mit.edu/people/faculty/haoning@mit.edu>
+
+출처: <https://reconfigurablephotonics.mit.edu/publications.html>
+
+출처: <https://meche.mit.edu/>
 
 ## MIT — Alexandra H Techet
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:49:51.883Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/ahtechet@mit.edu>
 
 ## MIT — Russ Tedrake
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:49:52.995Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/russt@mit.edu>
 
 ## MIT — Federico Tessari
 
@@ -11714,31 +16352,869 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Navid Azizan
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 20건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/azizan@mit.edu>
+출처: <https://azizan.mit.edu/>
+
+1. Research Highlights Newton Matching for Generative Modeling: A Unified Framework for Fine-Tuning and Sampling DiRecT: Safe Diffusion-Based Planning via Receding-Horizon Denoising, Neural Information Processing Systems (NeurIPS), 2026
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization, IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2026 [Featured on MIT News]
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies, International Conference on Machine Learning (ICML), 2026 [Selected as Spotlight; Top 2%]
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. PS2-RL: Provably Safe, Yet Scalable Reinforcement Learning, Neural Information Processing Systems (NeurIPS), 2026 [Selected as Spotlight; Top 1%]
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. HardNet++: Nonlinear Constraint Enforcement in Neural Networks, IEEE Control Systems Letters (L-CSS), 2026
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. LMI-Net: Linear Matrix Inequality–Constrained Neural Networks via Differentiable Projection Layers Learning Dissipative Chaotic Dynamics with Boundedness Guarantees, Proceedings of the National Academy of Sciences (PNAS), 2026
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Uncertainty Quantification in Detection Transformers: Object-Level Calibration and Image-Level Reliability, IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2026
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Personalized Collaborative Learning with Affinity-Based Variance Reduction, International Conference on Learning Representations (ICLR), 2026
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. HardNet: Hard-Constrained Neural Networks with Universal Approximation Guarantees, Journal of Machine Learning Research (JMLR), 2026; Short version in NeurIPS Constrained Machine Learning Workshop, 2025 [Selected as Oral; Top 6%]
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. On the Role of Transformer Feed-Forward Layers in Nonlinear In-Context Learning, Journal of Machine Learning Research (JMLR), 2026; Short version in Algorithmic Learning Theory (ALT), 2026, and NeurIPS Transformers Workshop, 2025 [Selected as Spotlight; Top 4%]
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection, Journal of Machine Learning Research (JMLR), 2026
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Online Learning for Equilibrium Pricing in Markets under Incomplete Information, Operations Research (OR), 2026 [2025 INFORMS JFIG Paper Competition Finalist]; Short version in IEEE Conference on Decision and Control (CDC), 2023
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Know What You Don't Know: Uncertainty Calibration of Process Reward Models [Featured on MIT News], Neural Information Processing Systems (NeurIPS), 2025
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Activation-Informed Merging of Large Language Models, Neural Information Processing Systems (NeurIPS), 2025
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Safe Multi-Agent Reinforcement Learning with Convergence to Generalized Nash Equilibrium Differentially Private Synthetic Data Generation for Relational Databases, Journal of Machine Learning Research (JMLR), 2026 [Winner of the 2026 MIT Prize for Open Data]
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Quantifying Representation Reliability in Self-Supervised Learning Models, Uncertainty in Artificial Intelligence (UAI), 2024 [Featured on MIT News]; Short version in Robotics: Systems and Science (RSS) Safe Autonomy Workshop, 2023 [Selected as Spotlight]
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. A Unified Approach to Controlling Implicit Regularization via Mirror Descent, Journal of Machine Learning Research (JMLR), 2023
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Mirror Descent Maximizes Generalized Margin and Can Be Implemented Efficiently, Neural Information Processing Systems (NeurIPS), 2022
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Data-Driven Control with Inherent Lyapunov Stability, IEEE Conference on Decision and Control (CDC), 2023
+
+    게시 페이지: <https://azizan.mit.edu/>
+
+1. Distributed Linear Solvers and Data Heterogeneity, SIAM Journal on Mathematics of Data Science (SIMODS), 2026; Short version in IEEE Conference on Decision and Control (CDC), 2023
+
+    게시 페이지: <https://azizan.mit.edu/>
 
 ## MIT — Tian Tian
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:49:55.071Z
-
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
-
-## MIT — Giovanni Traverso
-
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
-
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://meche.mit.edu/people/faculty/cgt20@mit.edu>
+출처: <https://meche.mit.edu/people/faculty/TIANTIAN@mit.edu>
+
+## MIT — Giovanni Traverso
+
+ · 논문·원고 189건 · 기타 성과 0건 · 상태: partial
+
+확인일: 2026-11-15T07:07:46.309678+00:00
+
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://www.l4te.org/publications/>
+
+1. Mehmet Girayhan Say, Ada Erus, Leeban Morgan, Yubin Cai, Injoo Moon, Young-Geun Park, Brady DeBruyn, Ziliang Kang, Krishna Parvataneni, Outman Akouissi, Olivia Girand, Siheng Sean You, Andrew Pettinari, Ashley Guevara, Benedict Laidlaw, Kailyn Schmidt, Niora Fabian, Alison Hayward, and Giovanni Traverso.. Bioresorbable batteries for transient ingestible bioelectronics. Nature Chemical Engineering. 2026 September 21. doi:10.1038/s44286-026-00443-7.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Farhad Javid, Sahab Babaee, Jasmine Quigley, Ameya Kirtane, Hormoz Mazdiyasni, Jaimie Rogner, Cody Cleveland, Taylor Bensel, Vance Soares, Joy E. Collins, Kaitlyn Hess, Shane McDonnell, Alison M. Hayward, Robert Langer, and Giovanni Traverso.. An ingestible origami-inspired metamaterial for prolonged oral delivery of therapeutics. Nature Communications. 2026 July 27. doi:10.1038/s41467-026-76028-y.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jiachi Zhou, Lei Wu, Minna Wyttenbach, Ray Lennon, Yue Liu, Mary Christian, Sebastian Scherr, Mohammad Charara, Rishi Kommalapati, Jeremy Blum, Eleni Chatzilakou, Anna Schlueter, Frank Theobald, Livio Valenti, Kathryn Kosuda, Gunilla B Jacobson, Minju Kwon, Shichao Ding, Charlotte Quinn, Carter Rosen, Isabela Castillo Springall, Khanh T M Tran, Jinbi Tian, Ali Kemal Yetisen, Ana Jaklenec, Nabil Shalabi, Jason Li, Ziliang Kang, Robert Farra, Mark Kendall, Jung-Hwan Park, Joseph DeSimone, Ryan F Donnelly, Joseph Wang, Jessica Joyce Mistilis, Mark R Prausnitz, James C Birchall, Sion A Coulman, A John Hart, Carlos M Portela, Robert Langer, Giancarlo Francese, Giovanni Traverso. Microneedle array platforms for drug delivery and biomarker sensing: From skin mechanics guided design to scalable manufacture for clinical utility. Journal of Controlled Release. 2026 May 4. doi:10.1016/j.jconrel.2026.114980.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Christina Karavasili, Ian D Connolly, Sanghyun Park, Hannah Boyce, Charmaine Chang, Ashley Guevara, Joshua Morimoto, Niora Fabian, Miguel Jimenez, Golda S Gershanok, Ganesh M Shankar, Giovanni Traverso. Propellant-free intrawound antibiotic foam for intraoperative antimicrobial prophylaxis. Drug Delivery and Translational Research. 2026 April 28. doi:10.1007/s13346-026-02138-1.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jiachi Zhou, Lei Wu, Minna Wyttenbach, Ray Lennon, Yue Liu, Mary Christian, Sebastian Scherr, Mohammad Charara, Rishi Kommalapati, Jeremy Blum, Eleni Chatzilakou, Anna Schlueter, Frank Theobald, Livio Valenti, Kathryn Kosuda, Gunilla B Jacobson, Minju Kwon, Shichao Ding, Charlotte Quinn, Carter Rosen, Isabela Castillo Springall, Khanh T M Tran, Jinbi Tian, Ali Kemal Yetisen, Ana Jaklenec, Nabil Shalabi, Jason Li, Ziliang Kang, Robert Farra, Mark Kendall, Jung-Hwan Park, Joseph DeSimone, Ryan F Donnelly, Joseph Wang, Jessica Joyce Mistilis, Mark R Prausnitz, James C Birchall, Sion A Coulman, A John Hart, Carlos M Portela, Robert Langer, Giancarlo Francese, Giovanni Traverso. Microneedle array platforms for drug delivery and biomarker sensing: From skin mechanics guided design to scalable manufacture for clinical utility. Journal of Controlled Release. 2026 May 4. doi:10.1016/j.jconrel.2026.114980. Christina Karavasili, Ian D Connolly, Sanghyun Park, Hannah Boyce, Charmaine Chang, Ashley Guevara, Joshua Morimoto, Niora Fabian, Miguel Jimenez, Golda S Gershanok, Ganesh M Shankar, Giovanni Traverso. Propellant-free intrawound antibiotic foam for intraoperative antimicrobial prophylaxis. Drug Delivery and Translational Research. 2026 April 28. doi:10.1007/s13346-026-02138-1. Anita Dey Barsukova, Lindong Weng, Katarzyna Szymanska-Vandendriessche, Michael Scott, Robert Langer, Giovanni Traverso. Cryopreservation of stem cell-derived aggregates for type 1 diabetes cell therapy: Considerations and challenges. Journal of Controlled Release. 2026 April 10. doi:10.1016/j.jconrel.2026.114914.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jack Cook, Hyemin S Lee, Kathryn Le, Junxian Guo, Giovanni Traverso, Anantha P Chandrakasan, Song Han. Adaptive Block-Scaled Data Types. arXiv. 2026 March 30. doi:10.48550/arXiv.2603.28765.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Xinwei Wei, John B Buse, Hongming Chen, Tejal A Desai, Molly M Stevens, Giovanni Traverso, Robert Langer, Zhen Gu. Towards intelligent and miniaturized drug delivery devices. Nature. 2026 March 26. doi:10.1038/s41586-026-10221-3.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Seán Kilroy, Neelesh A Patankar, Walter W Chan, Giovanni Traverso, Eoin D O’Cearbhaill. A Soft-Robotic Biomimetic Benchtop Model for Esophageal Motility Simulation. Nature Communications. 2026 March 12. doi:10.1038/s41467-026-70260-2.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Benjamin N Muller, Avi J Patel, Giovanni Traverso, Sara M Hashmi. Fluidic-Enabled Formation of EGaIn Capsules and Droplets With Tunable Surface Chemistry and Electromechanics. Small. 2026 March 5. doi:10.1002/smll.73329.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Giovanni Traverso, Paul Sheehan, Ahmad Bahai, Robert Langer, Anantha Chandrakasan. The potential of miniaturized ingestible electronics. Nature Electronics. 2026 January 30. doi:10.1038/s41928-025-01561-5.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Mehmet Girayhan Say, Siheng Sean You, Yubin Cai, Ada Erus, Injoo Moon, Benjamin Muller, Felipe Vielba-Gomez, Arina Zadvornaya, Andrew Pettinari, Kailyn Schmidt, Niora Fabian, Alison Hayward, Peter Chai, Giovanni Traverso. Bioresorbable RFID capsule for assessing medication adherence. Nature Communications. 2026 January 8. doi:10.1038/s41467-025-67551-5.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Mehmet Girayhan Say, Siheng Sean You, Yubin Cai, Ada Erus, Injoo Moon, Benjamin Muller, Felipe Vielba-Gomez, Arina Zadvornaya, Andrew Pettinari, Kailyn Schmidt, Niora Fabian, Alison Hayward, Peter Chai, Giovanni Traverso. Bioresorbable RFID capsule for assessing medication adherence. Nature Communications. 2026 January 8. doi:10.1038/s41467-025-67551-5. Helena Almeida, Cecília Cristelo, Juliana Viegas, Giovanni Traverso, Bruno Sarmento, José Das Neves. Gastrointestinal distribution of engineered biodegradable urease-powered nanomotors. Acta Biomaterialia. 2025 November 13. doi:10.1016/j.actbio.2025.10.004.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Maria Kanelli, Anthony C. Yu, Derrian Susilo, Olivia Petropulos, Kadryn Kadasia, Luis Sandoval, Ashley Hudson, Davin Sim, Caroline Dial, Maria Buzo Mena, Jia Liang, Edgardo Rivera, Luke Sepich, Kurt Hollfelder, James Wright, Thomas Von Erlach, Alison Hayward, Kimberly A. Gaspie, Sarah M. Barron, Molly Pombo, Raviteja Reddy Basani, Matthew Lanchantin, Aaron Lopes, Stephen Pizzo, Vasu Sethuraman, Rahul Dhanda, Robert Langer, Giovanni Traverso. Enhanced macromolecule bioavailability in rats and pigs using an in situ forming synthetic epithelial lining. Journal of Controlled Release. 2025 October 16. doi:10.1016/j.jconrel.2025.114338.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. J. Chen, A. Alexiev, A. Sergnese, N. Fabian, A. Pettinari, Y. Cai, V. Perepelook, K. Schmidt, A. Hayward, A. Guevara, B. Laidlaw, I. Moon, B. Markowitz, I. Ballinger, Z. Yang, C. Rosen, N. Shalabi, S. Owyang, G. Traverso. An ingestible capsule for luminance-based diagnosis of mesenteric ischemia. Science Robotics. 2025 October 22. doi:10.1126/scirobotics.adx1367.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. In Yeop Jeon, Young Min Jeon, Ji Hye Choi, Somin Lee, Minyoung Kim, Jung Hyun Kim, Jong Seung Lee, Jangsun Hwang, Daun Jeong, Gwennyth A. Carroll, Adam Wentworth, Kisuk Yang, Seongjun Park, Kevin A. Raskin, Woo Young Jang, Giovanni Traverso, Jung Seung Lee. In situ printing of biodegradable implant for healing critical-sized bone defect. Device. 2025 September 5. doi:10.1016/j.device.2025.100873.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Alvin Chan, Ameya R. Kirtane, Qing Rui Qu, Xisha Huang, Jonathan Woo, Deepak A. Subramanian, Rajib Dey, Rika Semalty, Joshua D. Bernstock, Taksim Ahmed, Rowan Honeywell, Charles Hanhurst, Isaac Diaz Becdach, Leah S. Prizant, Ashley K. Brown, Hao Song, Justin Law Cobb, Louis B. DeRidder, Bruna Santos, Miguel Jimenez, Michelle Sun, Yuebin Huang, Ceara Byrne, Giovanni Traverso. Designing lipid nanoparticles using a transformer-based neural network. Nature Nanotechnology. 2025 August 15. doi:10.1038/s41565-025-01975-4.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Shriya Srinivasan, Marc-Joseph Antonini, Amro Alshareef, Atharva Sahasrabudhe, Josh Jenkins, Keiko Ishida, Johannes Kuosmanen, Alison Hayward, Seokkee Min, Robert Langer, Polina Anikeeva, Giovanni Traverso. Gastrointestinal neuroprosthesis for motility and metabolic neuromodulation. Nature Communications. 2025 August 10. doi:10.1038/s41467-025-62413-6.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Alvin Chan, Ameya R. Kirtane, Qing Rui Qu, Xisha Huang, Jonathan Woo, Deepak A. Subramanian, Rajib Dey, Rika Semalty, Joshua D. Bernstock, Taksim Ahmed, Rowan Honeywell, Charles Hanhurst, Isaac Diaz Becdach, Leah S. Prizant, Ashley K. Brown, Hao Song, Justin Law Cobb, Louis B. DeRidder, Bruna Santos, Miguel Jimenez, Michelle Sun, Yuebin Huang, Ceara Byrne, Giovanni Traverso. Designing lipid nanoparticles using a transformer-based neural network. Nature Nanotechnology. 2025 August 15. doi:10.1038/s41565-025-01975-4. Shriya Srinivasan, Marc-Joseph Antonini, Amro Alshareef, Atharva Sahasrabudhe, Josh Jenkins, Keiko Ishida, Johannes Kuosmanen, Alison Hayward, Seokkee Min, Robert Langer, Polina Anikeeva, Giovanni Traverso. Gastrointestinal neuroprosthesis for motility and metabolic neuromodulation. Nature Communications. 2025 August 10. doi:10.1038/s41467-025-62413-6. Yining Xu, Daniel J Drucker, Giovanni Traverso, Ana Beloqui. Innovative Molecules and Delivery Technologies Enabling the Future of GLP-1-based Therapies. Endocrine Reviews. 2025 August 4. doi:10.1210/endrev/bnaf027.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ziliang Kang, Johanna A. Gomez, Alisa Meishan Ross, Ameya R. Kirtane, Ming Zhao, Yubin Cai, Fu Xing Chen, Corona L. Chen, Isaac Diaz Becdach, Rajib Dey, Andrei Russel Ismael, Injoo Moon, Yiyuan Yang, Benjamin N. Muller, Mehmet Girayhan Say, Andrew Pettinari, Jason Kobrin, Joshua Morimoto, Ted Smierciak, Aaron Lopes, Ayten Ebru Erdogan, Matt Murphy, Niora Fabian, Ashley Guevara, Benedict Laidlaw, Kailyn Schmidt, Alison M. Hayward, Alexandra H. Techet, Christopher P. Kenaley, Giovanni Traverso. Mechanical underwater adhesive devices for soft substrates. Nature. 2025 July 23. doi:10.1038/s41586-025-09304-4.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ziliang Kang, Johanna A. Gomez, Alisa Meishan Ross, Ameya R. Kirtane, Ming Zhao, Yubin Cai, Fu Xing Chen, Corona L. Chen, Isaac Diaz Becdach, Rajib Dey, Andrei Russel Ismael, Injoo Moon, Yiyuan Yang, Benjamin N. Muller, Mehmet Girayhan Say, Andrew Pettinari, Jason Kobrin, Joshua Morimoto, Ted Smierciak, Aaron Lopes, Ayten Ebru Erdogan, Matt Murphy, Niora Fabian, Ashley Guevara, Benedict Laidlaw, Kailyn Schmidt, Alison M. Hayward, Alexandra H. Techet, Christopher P. Kenaley, Giovanni Traverso. Mechanical underwater adhesive devices for soft substrates. Nature. 2025 July 23. doi:10.1038/s41586-025-09304-4. Leslie Citrome, Nayana Nagaraj, Giovanni Traverso, Todd Dumas, Richard Scranton. Long-acting oral weekly risperidone (LYN-005) for schizophrenia in the USA (STARLYNG-1): a multicentre, open-label, non-randomised phase 3 trial. The Lancet Psychiatry. 2025 July 1. doi:10.1016/S2215-0366(25)00135-X.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Julia Ding, Nabil Shalabi, Colin Tracey, Julian Maldonado, Manish Gala, Niora Fabian, Andrew Pettinari, Giovanni Traverso. Colon insufflation and visualization management using a novel rectal seal device. iGIE. 2025 May 30. doi:10.1016/j.igie.2025.05.004.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jason Li, Benjamin G Clark, Parmiss Khosravi, Colin Cotter, Jia Y Liang, Susan R Ling, Yuyan Su, Kent J Qi, Flavia Codreanu, Ethan D’Orio, Ivy Tianqin Tan, Julia E Green, Katarzyna Murawska, Aaron Lopes, Benjamin N Muller, Alison M Hayward, Niora Fabian, Andrew Pettinari, Kailyn Schmidt, Benedict Laidlaw, Maria Platero, Ashley Guevara, Joshua D Bernstock, Stephanie Y Owyang, Peter R Chai, Robert Langer, Giovanni Traverso. Monolithic Shape-Shifting Absorbable Implants for Long-Term Contraception. bioRxiv. 2025 May 23. doi:10.1101/2025.05.18.654764.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. So-Yoon Yang, Deniz Umut Yildirim, Saransh Sharma, Donghyeon Han, Rishabh Mittal, Husna Ellis, Jaehong Jung, Eunseok Lee, Yubin Cai, Giovanni Traverso, Anantha P Chandrakasan. A Fully-Integrated Wireless Ingestible Drug Delivery Chip with Electrochemical Energy Harvesting and pH-Based MPPT. 2025 IEEE Custom Integrated Circuits Conference. 2025 April 13. doi:10.1109/CICC63670.2025.10983564.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jason Li, Benjamin G Clark, Parmiss Khosravi, Colin Cotter, Jia Y Liang, Susan R Ling, Yuyan Su, Kent J Qi, Flavia Codreanu, Ethan D’Orio, Ivy Tianqin Tan, Julia E Green, Katarzyna Murawska, Aaron Lopes, Benjamin N Muller, Alison M Hayward, Niora Fabian, Andrew Pettinari, Kailyn Schmidt, Benedict Laidlaw, Maria Platero, Ashley Guevara, Joshua D Bernstock, Stephanie Y Owyang, Peter R Chai, Robert Langer, Giovanni Traverso. Monolithic Shape-Shifting Absorbable Implants for Long-Term Contraception. bioRxiv. 2025 May 23. doi:10.1101/2025.05.18.654764. So-Yoon Yang, Deniz Umut Yildirim, Saransh Sharma, Donghyeon Han, Rishabh Mittal, Husna Ellis, Jaehong Jung, Eunseok Lee, Yubin Cai, Giovanni Traverso, Anantha P Chandrakasan. A Fully-Integrated Wireless Ingestible Drug Delivery Chip with Electrochemical Energy Harvesting and pH-Based MPPT. 2025 IEEE Custom Integrated Circuits Conference. 2025 April 13. doi:10.1109/CICC63670.2025.10983564. Seung Ho Lee, Roemer Pott Hofstede, Adrián Noriega De La Colina, John H Gunton, Joshua D Bernstock, Giovanni Traverso. Implantable systems for neurological chronotherapy. Advanced Drug Delivery Reviews. 2025 April 3. doi:10.1016/j.addr.2025.115574.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Deepak A Subramanian, Ameya R Kirtane, Georgia N White, Dylan E Freitas, Keiko Ishida, Josh Jenkins, Andrew Pettinari, Josh Morimoto, Nina Fitzgerald, Giovanni Traverso. Identification and Validation of Small Molecules with Mucin-Selective Regiospecific Binding in the Gastrointestinal Tract. bioRxiv. 2025 April 5. doi:10.1101/2025.03.31.646052.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Deepak A Subramanian, Ameya R Kirtane, Georgia N White, Dylan E Freitas, Keiko Ishida, Josh Jenkins, Andrew Pettinari, Josh Morimoto, Nina Fitzgerald, Giovanni Traverso. Identification and Validation of Small Molecules with Mucin-Selective Regiospecific Binding in the Gastrointestinal Tract. bioRxiv. 2025 April 5. doi:10.1101/2025.03.31.646052. The Cancer Journal 31(2):e0764, March/April 2025. | DOI: 10.1097/PPO.0000000000000764
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Vivian R. Feig, Sanghyun Park, Pier Giuseppe Rivano, Jinhee Kim, Benjamin Muller, Ashka Patel, Caroline Dial, Sofia Gonzalez, Hannah Carlisle, Flavia Codreanu, Aaron Lopes, Ayten E. Erdogan, Niora Fabian, Ashley Guevara, Andrew Pettinari, Jason Li, Jia Liang, Gary W. Liu, Mark W. Tibbitt, Giovanni Traverso. Self-aggregating long-acting injectable microcrystals. Nature Chemical Engineering. 2025 March 24. doi:10.1038/s44286-025-00194-x.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Stephen W. Linderman, Louis Deridder, Lucía Sanjurjo, Michael B. Foote, María José Alonso, Ameya R. Kirtane, Robert Langer, Giovanni Traverso. Enhancing immunotherapy with tumour-responsive nanomaterials. Nature Reviews Clinical Oncology. 2025 March 6. doi:10.1038/s41571-025-01000-6.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ameya R. Kirtane, Jianling Bi, Netra U. Rajesh, Chaoyang Tang, Miguel Jimenez, Emily Witt, Megan K. McGovern, Arielle B. Cafi, Samual J. Hatfield, Lauren Rosenstock, Sarah L. Becker, Nicole Machado, Veena Venkatachalam, Dylan Freitas, Xisha Huang, Alvin Chan, Aaron Lopes, Hyunjoon Kim, Nayoon Kim, Joy E. Collins, Michelle E. Howard, Srija Manchkanti, Theodore S. Hong, James D. Byrne, Giovanni Traverso. Radioprotection of healthy tissue via nanoparticle-delivered mRNA encoding for a damage-suppressor protein found in tardigrades. Nature Biomedical Engineering. 2025 February 26. doi:10.1038/s41551-025-01360-5.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Binbin Ying, Kewang Nan, Qing Zhu, Tom Khuu, Hana Ro, Sophia Qin, Shubing Wang, Karen Jiang, Yonglin Chen, Guangyu Bao, Josh Jenkins, Andrew Pettinari, Johannes Kuosmanen, Keiko Ishida, Niora Fabian, Aaron Lopes, Flavia Codreanu, Joshua Morimoto, Jason Li, Alison Hayward, Robert Langer, Giovanni Traverso. An electroadhesive hydrogel interface prolongs porcine gastrointestinal mucosal theranostics. Science Translational Medicine. 2025 February 26. doi:10.1126/scitranslmed.adq1975.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ameya R. Kirtane, Jianling Bi, Netra U. Rajesh, Chaoyang Tang, Miguel Jimenez, Emily Witt, Megan K. McGovern, Arielle B. Cafi, Samual J. Hatfield, Lauren Rosenstock, Sarah L. Becker, Nicole Machado, Veena Venkatachalam, Dylan Freitas, Xisha Huang, Alvin Chan, Aaron Lopes, Hyunjoon Kim, Nayoon Kim, Joy E. Collins, Michelle E. Howard, Srija Manchkanti, Theodore S. Hong, James D. Byrne, Giovanni Traverso. Radioprotection of healthy tissue via nanoparticle-delivered mRNA encoding for a damage-suppressor protein found in tardigrades. Nature Biomedical Engineering. 2025 February 26. doi:10.1038/s41551-025-01360-5. Binbin Ying, Kewang Nan, Qing Zhu, Tom Khuu, Hana Ro, Sophia Qin, Shubing Wang, Karen Jiang, Yonglin Chen, Guangyu Bao, Josh Jenkins, Andrew Pettinari, Johannes Kuosmanen, Keiko Ishida, Niora Fabian, Aaron Lopes, Flavia Codreanu, Joshua Morimoto, Jason Li, Alison Hayward, Robert Langer, Giovanni Traverso. An electroadhesive hydrogel interface prolongs porcine gastrointestinal mucosal theranostics. Science Translational Medicine. 2025 February 26. doi:10.1126/scitranslmed.adq1975. Siheng Sean You, Max Schober, Soufyane Ben-Ayed, Sahab Babaee, Stephanie Owyang, Josh Jenkins, Peter R. Chai, Giovanni Traverso. Personalized Kirigami Strain Sensors for in vivo Applications. Advanced Intelligent Systems. 2025 February 25. doi:10.1002/aisy.202400886.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jianling Bi, Emily Witt, Megan K. McGovern, Arielle B. Cafi, Sri Naga Swetha Tunuguntla, Alicia T. Cotoia, Juan Antonio Raygoza Garay, Kyle R. Balk, Lilly Boge, Samual Hatfield, Ryan Courtney, Juan Du, Carlos H. F. Chan, Yi Huang, Vanessa A. Voltarelli, Matthew G. Smith, Adam Mailloux, Dustin E. Bosch, Michael S. Tift, Leo E. Otterbein, James D. Byrne. Potentiating the effect of immunotherapy in pancreatic cancer using gas-entrapping materials. Biomaterials. 2025 January 11. doi:10.1016/j.biomaterials.2025.123097.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Emily Witt, Emily B. Petersen, Eyas Alzayadneh, Ryan J. Courtney, Marc J. Brouillette, Qi Wang, Maxwell Y. Sakyi, Nicole A. D. Watson, Dominic Rivas, Jianling Bi, Lindsey Culver, Kyle Balk, Colin Reis, Slyn Uaroon, Kaitlyn A. McClintic, Samual Hatfield, Kristan S. Worthington, Edward A. Sander, Giovanni Traverso, Leo E. Otterbein, Jessica E. Goetz, Douglas C. Fredericks, James D. Byrne. Composite Hyaluronic Acid Gas-Entrapping Materials to Promote Wound Healing. ACS Biomacromolecules. 2025 January 2. doi:10.1021/acs.biomac.4c00904.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Anita Dey Barsukova, Ahmad Mujtaba Jebran, Naomi Lynch, Amit Galgali, Andrea Moncada, Lauren Sakerka, Cody Cotner, Sonya Davey, Vivek Nimgaonkar, Binbin Ying, Keegan Mendez, Giovanni Traverso. A Better Way to Visualize the Cervix: a Low-Cost Cervical Cancer Screening Device for LMIC Settings. ASME Journal of Medical Devices. 2024 December 11. doi:10.1115/1.4067171.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Christina Karavasili, Hannah Boyce, Julianna Blanco, Thomas Young, Ian D. Connolly, Sanghyun Park, Joshua D. Bernstock, Miguel Jimenez, Ziliang Kang, Ben Muller, Seokkee Min, Adam Wentworth, Declan Gwynne, Niora Fabian, Yuyan Su, Ming Zhao, Ganesh M. Shankar, Giovanni Traverso. 3D-printed antibiotic-eluting pedicle screws for antimicrobial prophylaxis in instrumented spinal fusion. Cell Reports Physical Science. 2024 December 18. doi:10.1016/j.xcrp.2024.102320.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Neil Zixun Jia, Tanner J. Packham, Gabriella Ulloa, Ziying Zhang, Alexandra C. Lee, Yuehe Mao, Agustin G. Valdes Martinez, Grace Peng, Yongyan Crystal Liang, Cecile Leclerc, Olivia B. McGrath, Kai Maier, Laura Huang, Rostam Reifschneider, Johannes Kuosmanen, Josh Jenkins, Andrew Pettinari, Alison M. Hayward, Niora Fabian, Giovanni Traverso. OSIRIS: Oscillating satiety induction and regulation intragastric system. Device. 2024 December 3. doi:10.1016/j.device.2024.100624.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. G. Arrick, D. Sticker, A. Ghazal, Y. Lu, T. Duncombe, D. Gwynne, B. Mouridsen, J. Wainer, J. P. H. Jepsen, T. S. Last, D. Schultz, K. Hess, E. Medina De Alba, S. Min, M. Poulsen, C. Anker, P. Karandikar, H. D. Pedersen, J. Collins, N. E. Egecioglu, S. Tamang, C. Cleveland, K. Ishida, A. H. Uhrenfeldt, J. Kuosmanen, M. Pereverzina, A. Hayward, R. K. Kirk, S. You, C. M. Dalsgaard, S. B. Gunnarsson, I. Patsi, A. Bohr, A. Azzarello, M. R. Frederiksen, P. Herskind, J. Li, N. Roxhed, U. L. Rahbek, J. J. Water, S. T. Buckley, G. Traverso. Cephalopod-inspired jetting devices for gastrointestinal drug delivery. Nature. 2024 November 20. doi:10.1038/s41586-024-08202-5.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Neil Zixun Jia, Tanner J. Packham, Gabriella Ulloa, Ziying Zhang, Alexandra C. Lee, Yuehe Mao, Agustin G. Valdes Martinez, Grace Peng, Yongyan Crystal Liang, Cecile Leclerc, Olivia B. McGrath, Kai Maier, Laura Huang, Rostam Reifschneider, Johannes Kuosmanen, Josh Jenkins, Andrew Pettinari, Alison M. Hayward, Niora Fabian, Giovanni Traverso. OSIRIS: Oscillating satiety induction and regulation intragastric system. Device. 2024 December 3. doi:10.1016/j.device.2024.100624. G. Arrick, D. Sticker, A. Ghazal, Y. Lu, T. Duncombe, D. Gwynne, B. Mouridsen, J. Wainer, J. P. H. Jepsen, T. S. Last, D. Schultz, K. Hess, E. Medina De Alba, S. Min, M. Poulsen, C. Anker, P. Karandikar, H. D. Pedersen, J. Collins, N. E. Egecioglu, S. Tamang, C. Cleveland, K. Ishida, A. H. Uhrenfeldt, J. Kuosmanen, M. Pereverzina, A. Hayward, R. K. Kirk, S. You, C. M. Dalsgaard, S. B. Gunnarsson, I. Patsi, A. Bohr, A. Azzarello, M. R. Frederiksen, P. Herskind, J. Li, N. Roxhed, U. L. Rahbek, J. J. Water, S. T. Buckley, G. Traverso. Cephalopod-inspired jetting devices for gastrointestinal drug delivery. Nature. 2024 November 20. doi:10.1038/s41586-024-08202-5. Hen-Wei Huang, Jack Chen, Philipp Rupp, Claas Ehmke, Peter R. Chai, Riya Dhar, Ian Ballinger, Giovanni Traverso. Cost-Effective Blimp for Autonomous and Continuous Vital Signs Monitoring. IEEE International Conference on Advanced Intelligent Mechatronics. 2024 July 15. doi:10.1109/AIM55361.2024.10637226.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Kewang Nan, Kiwan Wong, Dengfeng Li, Binbin Ying, James C. McRae, Vivian R. Feig, Shubing Wang, Ningjie Du, Yuelong Liang, Qijiang Mao, Enjie Zhou, Yonglin Chen, Lei Sang, Kuanming Yao, Jingkun Zhou, Jian Li, Joshua Jenkins, Keiko Ishida, Johannes Kuosmanen, Wiam Abdalla Mohammed Madani, Alison Hayward, Khalil B. Ramadi, Xinge Yu, Giovanni Traverso. An ingestible, battery-free, tissue-adhering robotic interface for non-invasive and chronic electrostimulation of the gut. Nature Communications. 2024 August 8. doi:10.1038/s41467-024-51102-5.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Christina Karavasili, Thomas Young, Joshua Francis, Julianna Blanco, Nicholas Mancini, Charmaine Chang, Joshua D. Bernstock, Ian D. Connolly, Ganesh M. Shankar, Giovanni Traverso. Local drug delivery challenges and innovations in spinal neurosurgery. Journal of Controlled Release. 2024 November 12. doi:10.1016/j.jconrel.2024.10.055.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Anita Dey Barsukova, Ahmad Mujtaba Jebran, Naomi Lynch, Amit Galgali, Andrea Moncada, Lauren Sakerka, Cody Cotner, Sonya Davey, Vivek Nimgaonkar, Binbin Ying, Keegan Mendez, Giovanni Traverso. A Better Way to Visualize the Cervix: a Low-Cost Cervical Cancer Screening Device for LMIC Settings . ASME Journal of Medical Devices. 2024 November 15. doi:10.1115/1.4067171.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Christina Karavasili, Thomas Young, Joshua Francis, Julianna Blanco, Nicholas Mancini, Charmaine Chang, Joshua D. Bernstock, Ian D. Connolly, Ganesh M. Shankar, Giovanni Traverso. Local drug delivery challenges and innovations in spinal neurosurgery. Journal of Controlled Release. 2024 November 12. doi:10.1016/j.jconrel.2024.10.055. Anita Dey Barsukova, Ahmad Mujtaba Jebran, Naomi Lynch, Amit Galgali, Andrea Moncada, Lauren Sakerka, Cody Cotner, Sonya Davey, Vivek Nimgaonkar, Binbin Ying, Keegan Mendez, Giovanni Traverso. A Better Way to Visualize the Cervix: a Low-Cost Cervical Cancer Screening Device for LMIC Settings . ASME Journal of Medical Devices. 2024 November 15. doi:10.1115/1.4067171. Vivian Rachel Feig, Sufeng Zhang, Ashka Patel, Bruna Santos, Ziliang Kang, Sharmeel Wasan, Ana Beloqui, Giovanni Traverso. Designing for medication adherence in inflammatory bowel disease: multi-disciplinary approaches for self-administrable biotherapeutics. Lancet. 2024 November 1. doi:10.1016/j.eclinm.2024.102850.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Hen-Wei Huang, Peter R. Chai, Seungho Lee, Tom Kerssemakers, Ali Imani, Jack Chen, Marco Heim, Jessica Y. Bo, Adam Wentworth, Fokion T. Sanoudos-Dramaliotis, Ian Ballinger, Saurav Maji, Matt Murphy, Alexander Alexiev, Gloria H. Kang, Niora Fabian, Josh Jenkins, Andrew Pettinari, Keiko Ishida, Jason Li, Siheng Sean You, Alison M. Hayward, Anantha Chandrakasan, Giovanni Traverso. An implantable system for opioid safety. Device. 2024 October 18. doi:10.1016/j.device.2024.100517.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jian Li, Shengxin Jia, Dengfeng Li, Lung Chow, Qiang Zhang, Yiyuan Yang, Xiao Bai, Qingao Qu, Yuyu Gao, Zhiyuan Li, Zongze Li, Rui Shi, Binbin Zhang, Ya Huang, Xinyu Pan, Yue Hu, Zhan Gao, Jingkun Zhou, WooYoung Park, Xingcan Huang, Hongwei Chu, Zhenlin Chen, Hu Li, Pengcheng Wu, Guangyao Zhao, Kuanming Yao, Muhamed Hadzipasic, Joshua D. Bernstock, Ganesh M. Shankar, Kewang Nan, Xinge Yu, Giovanni Traverso. Wearable bio-adhesive metal detector array (BioMDA) for spinal implants. Nature Communications. 2024 September 6. doi:10.1038/s41467-024-51987-2.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Shriya S Srinivasan, Sabrina Liu, Ryo Hotta, Sukhada Bhave, Amro Alshareef, Binbin Ying, George Selsing, Johannes Kuosmanen, Keiko Ishida, Joshua Jenkins, Wiam Abdalla Mohammed Madani, Alison Hayward, Niora Fabian, Allan M Goldstein, Giovanni Traverso. Luminal electrophysiological neuroprofiling system for gastrointestinal neuromuscular diseases. Device. 2024 July 19. doi:10.1016/j.device.2024.100400.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Miguel Jimenez, Johanna L’Heureux, Emily Kolaya, Gary W. Liu, Kyle B. Martin, Husna Ellis, Alfred Dao, Margaret Yang, Zachary Villaverde, Afeefah Khazi-Syed, Qinhao Cao, Niora Fabian, Joshua Jenkins, Nina Fitzgerald, Christina Karavasili, Benjamin Muller, James D. Byrne, Giovanni Traverso. Synthetic extremophiles via species-specific formulations improve microbial therapeutics. Nature Materials. 2024 July 5. doi:10.1038/s41563-024-01937-6.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Shriya S Srinivasan, Sabrina Liu, Ryo Hotta, Sukhada Bhave, Amro Alshareef, Binbin Ying, George Selsing, Johannes Kuosmanen, Keiko Ishida, Joshua Jenkins, Wiam Abdalla Mohammed Madani, Alison Hayward, Niora Fabian, Allan M Goldstein, Giovanni Traverso. Luminal electrophysiological neuroprofiling system for gastrointestinal neuromuscular diseases. Device. 2024 July 19. doi:10.1016/j.device.2024.100400. Miguel Jimenez, Johanna L’Heureux, Emily Kolaya, Gary W. Liu, Kyle B. Martin, Husna Ellis, Alfred Dao, Margaret Yang, Zachary Villaverde, Afeefah Khazi-Syed, Qinhao Cao, Niora Fabian, Joshua Jenkins, Nina Fitzgerald, Christina Karavasili, Benjamin Muller, James D. Byrne, Giovanni Traverso. Synthetic extremophiles via species-specific formulations improve microbial therapeutics. Nature Materials. 2024 July 5. doi:10.1038/s41563-024-01937-6. Corrine Ying Xuan Chua, Miguel Jimenez, Maedeh Mozneb, Giovanni Traverso, Ray Lugo, Arun Sharma, Clive N Svendsen, William R Wagner, Robert Langer, Alessandro Grattoni. Advanced material technologies for space and terrestrial medicine. Nature Reviews Materials. 2024 June 3. doi:10.1038/s41578-024-00691-0.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jesse George-Akpenyi, Benjamin Lahner, Seung Hyeon Shim, Carly Smith, Nakul Singh, Matt Murphy, Leroy Sibanda, Giovanni Traverso, Nevan C. Hanumara. A mechanical device for precise self-administration of ocular drugs. Human Factors in Healthcare. 2024 June 1. doi:10.1016/j.hfh.2024.100074.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Benjamin N. Muller, Vivian R. Feig, Nicholas S. Colella, Giovanni Traverso, Sara M. Hashmi. Thiol coordination softens liquid metal particles to improve on-demand conductivity. ACS Nano. 2024 May 14. doi:10.1021/acsnano.4c01988.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Siheng Sean You, Adam Gierlach, Paul Schmidt, George Selsing, Injoo Moon, Keiko Ishida, Josh Jenkins, Wiam A. M. Madani, So-Yoon Yang, Hen-Wei Huang, Stephanie Owyang, Alison Hayward, Anantha P. Chandrakasan, Giovanni Traverso. An ingestible device for gastric electrophysiology. Nature Electronics. 2024 May 6. doi:10.1038/s41928-024-01160-w.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Louis B. DeRidder, Kyle A. Hare, Aaron Lopes, Josh Jenkins, Nina Fitzgerald, Emmeline MacPherson, Niora Fabian, Josh Morimoto, Jacqueline N. Chu, Ameya R. Kirtane, Wiam Madani, Keiko Ishida, Johannes L.P. Kuosmanen, Naomi Zecharias, Christopher M. Colangelo, Hen-Wei Huang, Makaya Chilekwa, Nikhil B. Lal, Shriya S. Srinivasan, Alison M. Hayward, Brian M. Wolpin, David Trumper, Troy Quast, Douglas A. Rubinson, Robert Langer, Giovanni Traverso. Closed-loop automated drug infusion regulator: A clinically translatable, closed-loop drug delivery system for personalized drug dosing. Med Journal. 2024 April 24. doi:10.1016/j.medj.2024.03.020.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Siheng Sean You, Adam Gierlach, Paul Schmidt, George Selsing, Injoo Moon, Keiko Ishida, Josh Jenkins, Wiam A. M. Madani, So-Yoon Yang, Hen-Wei Huang, Stephanie Owyang, Alison Hayward, Anantha P. Chandrakasan, Giovanni Traverso. An ingestible device for gastric electrophysiology. Nature Electronics. 2024 May 6. doi:10.1038/s41928-024-01160-w. Louis B. DeRidder, Kyle A. Hare, Aaron Lopes, Josh Jenkins, Nina Fitzgerald, Emmeline MacPherson, Niora Fabian, Josh Morimoto, Jacqueline N. Chu, Ameya R. Kirtane, Wiam Madani, Keiko Ishida, Johannes L.P. Kuosmanen, Naomi Zecharias, Christopher M. Colangelo, Hen-Wei Huang, Makaya Chilekwa, Nikhil B. Lal, Shriya S. Srinivasan, Alison M. Hayward, Brian M. Wolpin, David Trumper, Troy Quast, Douglas A. Rubinson, Robert Langer, Giovanni Traverso. Closed-loop automated drug infusion regulator: A clinically translatable, closed-loop drug delivery system for personalized drug dosing. Med Journal. 2024 April 24. doi:10.1016/j.medj.2024.03.020. Helena Almeida, Giovanni Traverso, Bruno Sarmento, José Das Neves. Nanoscale anisotropy for biomedical applications. Nature Reviews Bioengineering. 2024 April 19. doi:10.1038/s44222-024-00169-2.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Emily Witt, Alexander J. Leach, Jianling Bi, Samual Hatfield, Alicia T. Cotoia, Megan K. McGovern, Arielle B. Cafi, Ashley C. Rhodes, Austin N. Cook, Slyn Uaroon, Bishal Parajuli, Jinhee Kim, Vivian Feig, Alexandra Scheiflinger, Ikenna Nwosu, Miguel Jimenez, Mitchell C. Coleman, Marisa R. Buchakjian, Dustin E. Bosch, Michael S. Tift, Giovanni Traverso, Leo E. Otterbein, James D. Byrne. Modulation of diabetic wound healing using carbon monoxide gas-entrapping materials. Device. 2024 March 12. doi:10.1016/j.device.2024.100320.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Shriya S Srinivasan, Julien Dosso, Hen-Wei Huang, George Selsing, Amro Alshareef, Johannes Kuosmanen, Keiko Ishida, Joshua Jenkins, Wiam Abdalla Mohammed Madani, Alison Hayward, Giovanni Traverso. An ingestible self-propelling device for intestinal reanimation. Science Robotics. 2024 February 28. doi:10.1126/scirobotics.adh817.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Gary W. Liu, Matthew J. Pickett, Johannes L. P. Kuosmanen, Keiko Ishida, Wiam A. M. Madani, Georgia N. White, Joshua Jenkins, Sanghyun Park, Vivian R. Feig, Miguel Jimenez, Christina Karavasili, Nikhil B. Lal, Matt Murphy, Aaron Lopes, Joshua Morimoto, Nina Fitzgerald, Jaime H. Cheah, Christian K. Soule, Niora Fabian, Alison Hayward, Robert Langer, Giovanni Traverso. Drinkable in situ-forming tough hydrogels for gastrointestinal therapeutics. Nature. 2024 February 27. doi:10.1038/s41563-024-01811-5.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Yunhua Shi, Daniel Reker, James D. Byrne, Ameya R. Kirtane, Kaitlyn Hess, Zhuyi Wang, Natsuda Navamajiti, Cameron C. Young, Zachary Fralish, Zilu Zhang, Aaron Lopes, Vance Soares, Jacob Wainer, Thomas von Erlach, Lei Miao, Robert Langer, Giovanni Traverso. Screening oral drugs for their interactions with intestinal transportome via porcine tissue explants and machine learning. Nature Bioengineering. 2024 February 20. doi:10.1038/s41551-023-01128-9.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Gary W. Liu, Matthew J. Pickett, Johannes L. P. Kuosmanen, Keiko Ishida, Wiam A. M. Madani, Georgia N. White, Joshua Jenkins, Sanghyun Park, Vivian R. Feig, Miguel Jimenez, Christina Karavasili, Nikhil B. Lal, Matt Murphy, Aaron Lopes, Joshua Morimoto, Nina Fitzgerald, Jaime H. Cheah, Christian K. Soule, Niora Fabian, Alison Hayward, Robert Langer, Giovanni Traverso. Drinkable in situ-forming tough hydrogels for gastrointestinal therapeutics. Nature. 2024 February 27. doi:10.1038/s41563-024-01811-5. Yunhua Shi, Daniel Reker, James D. Byrne, Ameya R. Kirtane, Kaitlyn Hess, Zhuyi Wang, Natsuda Navamajiti, Cameron C. Young, Zachary Fralish, Zilu Zhang, Aaron Lopes, Vance Soares, Jacob Wainer, Thomas von Erlach, Lei Miao, Robert Langer, Giovanni Traverso. Screening oral drugs for their interactions with intestinal transportome via porcine tissue explants and machine learning. Nature Bioengineering. 2024 February 20. doi:10.1038/s41551-023-01128-9. Yubing Hu, Eleni Chatzilakou, Zhisheng Pan, Giovanni Traverso, Ali K Yetisen. Microneedle Sensors for Point-of-Care Diagnostics. Advanced Science. 2024 January 15. doi:10.1002/advs.202306560.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Shriya S. Srinivasan, Amro Alshareef, Alexandria Hwang, Ceara Byrne, Johannes Kuosmanen, Keiko Ishida, Joshua Jenkins, Sabrina Liu, Wiam Abdalla Mohammed Madani, Alison M. Hayward, Niora Fabian, Giovanni Traverso. A vibrating ingestible bioelectric stimulator modulates gastric stretch receptors for illusory satiety. Science Advances. 2023 December 22. doi:10.1126/sciadv.adj3003.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Shriya S Srinivasan, Amro Alshareef, Alexandria Hwang, Ceara Byrne, Johannes Kuosmanen, Keiko Ishida, Joshua Jenkins, Sabrina Liu, Adam Gierlach, Wiam Abdalla Mohammed Madani, Alison M Hayward, Niora Fabian, Giovanni Traverso. A vibrating ingestible bioelectronic stimulator modulates gastric stretch receptors for illusory satiety. Science Advances. 2023 December 22. doi:10.1126/sciadv.adj3003.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jianling Bi, Emily Witt, Megan K. McGovern, Arielle B. Cafi, Lauren L. Rosenstock, Anna B. Pearson, Timothy J. Brown, Thomas B. Karasic, Lucas C. Absler, Srija Machkanti, Hannah Boyce, David Gallo, Sarah L. Becker, Keiko Ishida, Joshua Jenkins, Alison Hayward, Alexandra Scheiflinger, Kellie L. Bodeker, Ritesh Kumar, Scott K. Shaw, Salma K. Jabbour, Vitor A. Lira, Michael D. Henry, Michael S. Tift, Leo E. Otterbein, Giovanni Traverso, James D. Byrne. Oral Carbon Monoxide Enhances Autophagy Modulation in Prostate, Pancreatic and Lung Cancers. Advanced Science. 2023 December 12. doi:10.1002/advs.202308346.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Giovanni Traverso, Victor Finomore Jr., James Mahoney III, Justin Kupec, Robert Stansbury, Daniel Bacher, Benjamin Pless, Shannon Schuetz, Alison Hayward, Robert Langer. First-in-Human Trial of an Ingestible Vitals-Monitoring Pill. Device. 2023 November 17. doi:10.1016/j.device.2023.100125.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Avik Som, Jan-Georg Rosenboom, Eric Wehrenberg-Klee, Alana Chandler, Gabrielle Ndakwah, Eric Chen, Jack Suggs, Joshua Morimoto, Jonathan Kim, Abdul Rehman Mustafa, Asier Marcos-Vidal, Florian J. Fintelmann, Arijit Basu, Robert Langer, Giovanni Traverso, Umar Mahmood. Percutaneous Intratumoral Immunoadjuvant Gel Increases the Abscopal Effect of Cryoablation for Checkpoint Inhibitor Resistant Cancer. Advanced Healthcare Materials. 2023 October 23. doi:10.1002/adhm.202301848.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ameya R Kirtane, Chaoyang Tang, Dylan Freitas, Joshua D Bernstock, Giovanni Traverso. Challenges and opportunities in the development of mucosal mRNA vaccines. Current Opinion in Immunology. 2023 September 28. doi:10.1016/j.coi.2023.102388.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Natsuda Navamajiti, Apolonia Gardner, Ruonan Cao, Yutaro Sugimoto, Jee Won Yang, Aaron Lopes, Nhi V. Phan, Joy Collins, Tiffany Hua, Siriporn Damrongsakkul, Sorada Kanokpanont, Christoph Steiger, Daniel Reker, Robert Langer, Giovanni Traverso. Silk Fibroin-Based Coatings for Pancreatin-Dependent Drug Delivery. Journal of Pharmaceutical Sciences. 2023 September 10. doi:10.1016/j.xphs.2023.09.001.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Hyunjoon Kim, Ameya R. Kirtane, Na Yoon Kim, Netra Unni Rajesh, Chaoyang Tang, Keiko Ishida, Alison M. Hayward, Robert Langer, Giovanni Traverso. Gastrointestinal Delivery of an mRNA Vaccine Using Immunostimulatory Polymeric Nanoparticles. The AAPS Journal. 2023 August 17. doi:10.1208/s12248-023-00844-z.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Eva Remlova, Vivian Rachel Feig, Ziliang Kang, Ashka Patel, Ian Ballinger, Anna Ginzburg, Johannes Kuosmanen, Niora Fabian, Keiko Ishida, Joshua Jenkins, Alison Hayward, Giovanni Traverso. Activated Metals to Generate Heat for Biomedical Applications. ACS Materials Letters. 2023 August 16. doi:10.1021/acsmaterialslett.3c00581.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Saeed Abbasalizadeh, Sahab Babaee, Reza Kowsari-Esfahan, Zahra Mazidi, Yichao Shi, Jake Wainer, Joaquim M. S. Cabral, Robert Langer, Giovanni Traverso, Hossein Baharvand. Continuous Production of Highly Functional Vascularized Hepatobiliary Organoids from Pluripotent Stem Cells Using Scalable Microfluidic Platform. Advanced Functional Materials. 2023 August 4. doi:10.1002/adfm.202210233.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Christina Karavasili, Sahab Babaee, Shruti Kutty, Jacqueline N. Chu, Seokkee Min, Nina Fitzgerald, Joshua Morimoto, Nicoletta Inverardi, Giovanni Traverso. Modular Titratable Polypills for Personalized Medicine and Simplification of Complex Medication Regimens. Advanced Healthcare Materials. 2023 August 1. doi:10.1002/adhm.202301101.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Saeed Abbasalizadeh, Sahab Babaee, Reza Kowsari-Esfahan, Zahra Mazidi, Yichao Shi, Jake Wainer, Joaquim M. S. Cabral, Robert Langer, Giovanni Traverso, Hossein Baharvand. Continuous Production of Highly Functional Vascularized Hepatobiliary Organoids from Pluripotent Stem Cells Using Scalable Microfluidic Platform. Advanced Functional Materials. 2023 August 4. doi:10.1002/adfm.202210233. Christina Karavasili, Sahab Babaee, Shruti Kutty, Jacqueline N. Chu, Seokkee Min, Nina Fitzgerald, Joshua Morimoto, Nicoletta Inverardi, Giovanni Traverso. Modular Titratable Polypills for Personalized Medicine and Simplification of Complex Medication Regimens. Advanced Healthcare Materials. 2023 August 1. doi:10.1002/adhm.202301101. Crystan McLymore, Hen-Wei Huang, Blake R Smith, David Werder, James D Byrne, Giovanni Traverso. Real-Time In Situ Radiation Detection for Mitigating Injury to the Gastrointestinal Tract. IEEE. 2023 July 31. doi:10.1109/NEMS57332.2023.10190941.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. M. E. Inda-Webb, M. Jimenez, Q. Liu, N. V. Phan, J. Ahn, C. Steiger, A. Wentworth, A. Riaz, T. Zirtiloglu, K. Wong, K. Ishida, N. Fabian, J. Jenkins, J. Kuosmanen, W. Madani, R. McNally, Y. Lai, A. Hayward, M. Mimee, P. Nadeau, A. P. Chandrakasan, G. Traverso, R. T. Yazicigil, T. K. Lu. Sub-1.4 cm3 Capsule for Detecting Labile Inflammatory Biomarkers in Situ. Nature. 2023 July 26. doi:10.1038/s41586-023-06369-x.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Shriya S. Srinivasan, Lisa Gfrerer, Paramesh Karandikar, Avik Som, Amro Alshareef, Sabrina Liu, Haley Higginbotham, Keiko Ishida, Alison Hayward, Sanjeeva P. Kalva, Robert Langer, Giovanni Traverso. Adaptive conductive electrotherapeutic scaffolds for enhanced peripheral nerve regeneration and stimulation. Med Journal. 2023 June 19. doi:10.1016/j.medj.2023.05.007.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ying Li, Jung Seung Lee, Ameya R. Kirtane, Mengyuan Li, Charles William Coffey III, Kaitlyn Hess, Aaron Lopes, Joy Collins, Siddartha Tamang, Keiko Ishida, Alison Hayward, Jacob Wainer, Adam J. Wentworth, Giovanni Traverso. Enzyme-Triggered Intestine-Specific Targeting Adhesive Platform for Universal Oral Drug Delivery. Advanced Healthcare Materials. 2023 June 14. doi:10.1002/adhm.202301033.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jung Seung Lee, Hyunjoon Kim, Gwennyth Carroll, Gary W. Liu, Ameya R. Kirtane, Alison Hayward, Adam Wentworth, Aaron Lopes, Joy Collins, Siid Tamang, Keiko Ishida, Kaitlyn Hess, Junwei Li, Sufeng Zhang, Giovanni Traverso. A multi-functional decellularized gut suture platform. Matter. 2023 May 16. doi:10.1016/j.matt.2023.04.015.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ying Li, Jung Seung Lee, Ameya R. Kirtane, Mengyuan Li, Charles William Coffey III, Kaitlyn Hess, Aaron Lopes, Joy Collins, Siddartha Tamang, Keiko Ishida, Alison Hayward, Jacob Wainer, Adam J. Wentworth, Giovanni Traverso. Enzyme-Triggered Intestine-Specific Targeting Adhesive Platform for Universal Oral Drug Delivery. Advanced Healthcare Materials. 2023 June 14. doi:10.1002/adhm.202301033. Jung Seung Lee, Hyunjoon Kim, Gwennyth Carroll, Gary W. Liu, Ameya R. Kirtane, Alison Hayward, Adam Wentworth, Aaron Lopes, Joy Collins, Siid Tamang, Keiko Ishida, Kaitlyn Hess, Junwei Li, Sufeng Zhang, Giovanni Traverso. A multi-functional decellularized gut suture platform. Matter. 2023 May 16. doi:10.1016/j.matt.2023.04.015. Hen-Wei Huang, Naitik Khandelwal, Tom Kerssemakers, Ian Ballinger, Giovanni Traverso. Power optimization in Battery-Powered Micro-Motors. IEEE. 2023 May 8. doi:10.1109/CBS55922.2023.10115384.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Saransh Sharma, Khalil B. Ramadi, Nikhil H. Poole, Shriya S. Srinivasan, Keiko Ishida, Johannes Kuosmanen, Josh Jenkins, Fatemeh Aghlmand, Margaret B. Swift, Mikhail G. Shapiro, Giovanni Traverso, Azita Emami. Location-aware ingestible microdevices for wireless monitoring of gastrointestinal dynamics. Nature Electronics. 2023 February 13. doi:10.1038/s41928-023-00916-0.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Saransh Sharma, Khalil B. Ramadi, Nikhil H. Poole, Shriya S. Srinivasan, Keiko Ishida, Johannes Kuosmanen, Josh Jenkins, Fatemeh Aghlmand, Margaret B. Swift, Mikhail G. Shapiro, Giovanni Traverso, Azita Emami. Location-aware ingestible microdevices for wireless monitoring of gastrointestinal dynamics. Nature Electronics. 2023 February 13. doi:10.1038/s41928-023-00916-0. Taksim Ahmed, Dylan Freitas, Xisha Huang, Qing Rui Simon Qu, Giovanni Traverso, Ameya Kirtane. Physical methods to overcome tissue barriers in vaccine delivery. Vaccine Insights. 2023 February 7. doi:10.18609/vac/2023.050.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jianling Bi, Emily Witt, Vanessa A. Voltarelli, Vivian R. Feig, Veena Venkatachalam, Hannah Boyce, Megan McGovern, Wade R. Gutierrez, Jeffrey D. Rytlewski, Kate R. Bowman, Ashley C. Rhodes, Austin N. Cook, Benjamin N. Muller, Matthew G. Smith, Alexis Rebecca Ramos, Heena Panchal, Rebecca D. Dodd, Michael D. Henry, Adam Mailloux, Giovanni Traverso, Leo E. Otterbein, James D. Byrne. Low‐Cost, High‐Pressure‐Synthesized Oxygen‐Entrapping Materials to Improve Treatment of Solid Tumors. Advanced Science. 2023 February 2. doi:10.1002/advs.202205995.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. David J. Segar, Joshua D. Bernstock, Omar Arnaout, Wenya Linda Bi, Gregory K. Friedman, Robert Langer, Giovanni Traverso, Sumientra M. Rampersad. Modeling of intracranial tumor treating fields for the treatment of complex high-grade gliomas. Scientific Reports. 2023 January 30. doi:10.1038/s41598-023-28769-9.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Hen-Wei Huang, Philip Rupp, Jack Chen, Abhijay Kemkar, Naitik Khandelwal, Ian Ballinger, Peter Chai, Giovanni Traverso. Cost-Effective Solution of Remote Photoplethysmography Capable of Real-Time, Multi-Subject Monitoring with Social Distancing. IEEE Sensors. 2022 December 8. doi:10.1109/sensors52175.2022.9967120.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Hen-Wei Huang, Philip Rupp, Jack Chen, Abhijay Kemkar, Naitik Khandelwal, Ian Ballinger, Peter Chai, Giovanni Traverso. Cost-Effective Solution of Remote Photoplethysmography Capable of Real-Time, Multi-Subject Monitoring with Social Distancing. IEEE Sensors. 2022 December 8. doi:10.1109/sensors52175.2022.9967120. Hen-Wei Huang, David de Gruijl, Philip Fritz, Abhijay Kemkar, Ian Ballinger, George Selsing, Peter Ray Chai, Giovanni Traverso. Encapsulation of Gas Sensors to Operate in the Gastrointestinal Tract for Continuous Monitoring. IEEE Sensors. 2022 December 8. doi:10.1109/sensors52175.2022.9967279.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jessica Y. Bo, Hen-Wei Huang, Alvin Chan, Giovanni Traverso. Pretraining ECG Data with Adversarial Masking Improves Model Generalizability for Data-Scarce Tasks. arXiv. 2022 November 15. doi:10.48550/arXiv.2211.07889.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Peter R Chai, Phillip Rupp, Hen-Wei Huang, Jack Chen, Clint Vaz, Anjali Sinha, Claas Ehmke, Akhil Thomas, Farah Dadabhoy, Jia Y Liang, Adam B Landman, George Player, Kevin Slattery, Giovanni Traverso. Acceptance of a computer vision facilitated protocol to measure adherence to face mask use: a single-site, observational cohort study among hospital staff. BMJ Open. 2022 November 9. doi:10.1136/bmjopen-2022-062707.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Vivian R. Feig, Eva Remlova, Benjamin Muller, Johannes L. P. Kuosmanen, Nikhil Lal, Anna Ginzburg, Kewang Nan, Ashka Patel, Ahmad Mujtaba Jebran, Meghana Prabhu Bantwal, Niora Fabian, Keiko Ishida, Joshua Jenkins, Jan-Georg Rosenboom, Sanghyun Park, Wiam Madani, Alison Hayward, Giovanni Traverso. Actively triggerable metals via liquid metal embrittlement for biomedical applications. Advanced Materials. 2022 November 2. doi:10.1002/adma.202208227.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Shriya S. Srinivasan, Amro Alshareef, Alexandria V. Hwang, Ziliang Kang, Johannes Kuosmanen, Keiko Ishida, Joshua Jenkins, Sabrina Liu, Wiam Abdalla Mohammed Madani, Jochen Lennerz, Alison Hayward, Josh Morimoto, Nina Fitzgerald, Robert Langer, Giovanni Traverso. RoboCap: Robotic mucus-clearing capsule for enhanced drug delivery in the gastrointestinal tract. Science Robotics. 2022 September 28. doi:10.1126/scirobotics.abp9066.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Kewang Nan, Vivian R. Feig, Binbin Ying, Julia G. Howarth, Ziliang Kang, Yiyuan Yang, Giovanni Traverso. Mucosa-interfacing electronics. Nature Reviews Materials. 2022 September 14. doi:10.1038/s41578-022-00477-2.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Hen–Wei Huang, Claas Ehmke, Christoph Steiger, Ian Ballinger, Miguel Jimenez, Nhi Phan, Haoying Sun, Keiko Ishida, Johannes Kuosmanen, Josh Jenkins, Joshua Korzenik, Alison Hayward, Giovanni Traverso. In Situ Detection of Gastrointestinal Inflammatory Biomarkers Using Electrochemical Gas Sensors. IEEE Engineering in Medicine & Biology Society (EMBC). 2022 September 8. doi:10.1109/EMBC48229.2022.9871468.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Yunhua Shi, Chih-Hsin Lin, Daniel Reker, Christoph Steiger, Kaitlyn Hess, Joy E. Collins, Siddartha Tamang, Keiko Ishida, Aaron Lopes, Jacob Wainer, Alison M. Hayward, Chad Walesky, Wolfram Goessling, Giovanni Traverso. A machine learning liver-on-a-chip system for safer drug formulation. bioRxiv. 2022 September 6. doi:10.1101/2022.09.05.506668.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Hyunjoon Kim, Seung Ho Lee, Adam Wentworth, Sahab Babaee, Kaitlyn Wong, Joy E. Collins, Jacqueline Chu, Keiko Ishida, Johannes Kuosmanen, Joshua Jenkins, Kaitlyn Hess, Aaron Lopes, Joshua Morimoto, Qianqian Wan, Shaunak V. Potdar, Ronan McNally, Caitlynn Tov, Na Yoon Kim, Alison Hayward, Daniel Wollin, Giovanni Traverso. Biodegradable ring-shaped implantable device for intravesical therapy of bladder disorders. Biomaterials. 2022 September 1. doi:10.1016/j.biomaterials.2022.121703.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Yunhua Shi, Chih-Hsin Lin, Daniel Reker, Christoph Steiger, Kaitlyn Hess, Joy E. Collins, Siddartha Tamang, Keiko Ishida, Aaron Lopes, Jacob Wainer, Alison M. Hayward, Chad Walesky, Wolfram Goessling, Giovanni Traverso. A machine learning liver-on-a-chip system for safer drug formulation. bioRxiv. 2022 September 6. doi:10.1101/2022.09.05.506668. Hyunjoon Kim, Seung Ho Lee, Adam Wentworth, Sahab Babaee, Kaitlyn Wong, Joy E. Collins, Jacqueline Chu, Keiko Ishida, Johannes Kuosmanen, Joshua Jenkins, Kaitlyn Hess, Aaron Lopes, Joshua Morimoto, Qianqian Wan, Shaunak V. Potdar, Ronan McNally, Caitlynn Tov, Na Yoon Kim, Alison Hayward, Daniel Wollin, Giovanni Traverso. Biodegradable ring-shaped implantable device for intravesical therapy of bladder disorders. Biomaterials. 2022 September 1. doi:10.1016/j.biomaterials.2022.121703. Alex Abramson, Morten Revsgaard Frederiksen, Andreas Vegge, Brian Jensen, Mette Poulsen, Brian Mouridsen, Mikkel Oliver Jespersen, Rikke Kaae Kirk, Jesper Windum, František Hubálek, Jorrit J. Water, Johannes Fels, Stefán B. Gunnarsson, Adam Bohr, Ellen Marie Straarup, Mikkel Wennemoes Hvitfeld Ley, Xiaoya Lu, Jacob Wainer, Joy Collins, Siddartha Tamang, Keiko Ishida, Alison Hayward, Peter Herskind, Stephen T. Buckley, Niclas Roxhed, Robert Langer, Ulrik Rahbek, Giovanni Traverso. Oral delivery of systemic monoclonal antibodies, peptides, and small molecules using gastric auto-injectors. Nature Biotechnology. 2022 August 30. doi:10.1038/s41587-021-01024-0.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Qijun Liu, Miguel Jimenez, Maria Eugenia Inda, Arslan Riaz, Timur Zirtiloglu, Anantha P. Chandrakasan, Timothy K. Lu, Giovanni Traverso, Phillip Nadeau, Rabia Tugce Yazicigil. A Threshold-Based Bioluminescence Detector with a CMOS-Integrated Photodiode Array in 65 nm for a Multi-Diagnostic Ingestible Capsule. IEEE Journal of Solid-State Circuits. 2022 August 25. doi:10.1109/JSSC.2022.3197465.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Qijun Liu, Miguel Jimenez, Maria Eugenia Inda, Arslan Riaz, Timur Zirtiloglu, Anantha P. Chandrakasan, Timothy K. Lu, Giovanni Traverso, Phillip Nadeau, Rabia Tugce Yazicigil. A Threshold-Based Bioluminescence Detector with a CMOS-Integrated Photodiode Array in 65 nm for a Multi-Diagnostic Ingestible Capsule. IEEE Journal of Solid-State Circuits. 2022 August 25. doi:10.1109/JSSC.2022.3197465. Deepak A. Subramanian, Robert Langer, Giovanni Traverso. Mucus interaction to improve gastrointestinal retention and pharmacokinetics of orally administered nano-drug delivery systems. Nature Nanotechnology. 2022 August 6. doi:10.1186/s12951-022-01539-x.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. James D. Byrne, David Gallo, Hannah Boyce, Sarah L. Becker, Kristi M. Kezar, Alicia T. Cotoia, Vivian R. Feig, Aaron Lopes, Eva Csizmadia, Maria Serena Longhi, Jung Seung Lee, Hyunjoon Kim, Adam J. Wentworth, Sidharth Shankar, Ghee Rye Lee, Jianling Bi, Emily Witt, Keiko Ishida, Alison Hayward, Johannes L. P. Kuosmanen, Josh Jenkins, Jacob Wainer, Aya Aragon, Kaitlyn Wong, Christoph Steiger, William R. Jeck, Dustin E. Bosch, Mitchell C. Coleman, Douglas R. Spitz, Michael Tift, Robert Langer, Leo E. Otterbein, Giovanni Traverso. Delivery of therapeutic carbon monoxide by gas-entrapping materials. Science Translational Medicine. 2022 June 29. doi:10.1126/scitranslmed.abl4135.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ameya R. Kirtane, Christina Karavasili, Aniket Wahane, Dylan Freitas, Katelyn Booz, Dao Thi Hong Le, Tiffany Hua, Stephen Scala, Aaron Lopes, Kaitlyn Hess, Joy Collins, Siddartha Tamang, Keiko Ishida, Johannes L. P. Kuosmanen, Netra Unni Rajesh, Nhi V. Phan, Junwei Li, Annlyse Krogmann, Jochen K. Lennerz, Alison Hayward, Robert Langer, Giovanni Traverso. Development of oil-based gels as versatile drug delivery systems for pediatric applications. Science Advances. 2022 May 27. doi:10.1126/sciadv.abm8478.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. James Byrne, Christoph Steiger, Jakob Wollborn, Giovanni Traverso. Delivery Systems and Noncarrier Formulations. Carbon Monoxide in Drug Discovery: Basics, Pharmacology, and Therapeutic Potential. 2022 May 7. doi:10.1002/9781119783435.ch11.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Hen-Wei Huang, Jack Chen, Peter R. Chai, Claas Ehmke, Philipp Rupp, Farah Z. Dadabhoy, Annie Feng, Canchen Li, Akhil J. Thomas, Marco da Silva, Edward W. Boyer, Giovanni Traverso. Mobile Robotic Platform for Contactless Vital Sign Monitoring. Cyborg and Bionic Systems. 2022 April 30. doi:10.34133/2022/9780497.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Cameron C. Young, James D. Byrne, Adam J. Wentworth, Joy E. Collins, Jacqueline N. Chu, Giovanni Traverso. Respirators in Healthcare: Material, Design, Regulatory, Environmental, and Economic Considerations for Clinical Efficacy. Global Challenges. 2022 April 12. doi:10.1002/gch2.202200001.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Brenden Butters, Álvaro Fernández-Galiana, Daniel Wollin, Giovanni Traverso, Alexander Slocum, John Petrozza. A Retractable Six-Prong Laparoscopic Grasper for Laparoscopic Myomectomy. Journal of Medical Devices. 2022 March 31. doi:10.1115/1.4054013.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Kewang Nan, Sahab Babaee, Walter W. Chan, Johannes L. P. Kuosmanen, Vivian R. Feig, Yiyue Luo, Shriya S. Srinivasan, Christina M. Patterson, Ahmad Mujtaba Jebran, Giovanni Traverso. Low-cost gastrointestinal manometry via silicone-liquid-metal pressure transducers resembling a quipu. Nature Biomedical Engineering. 2022 March 21. doi:10.1038/s41551-022-00859-5.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Alex Abramson, Ameya R. Kirtane, Yunhua Shi, Grace Zhong, Joy E. Collins, Siddartha Tamang, Keiko Ishida, Alison Hayward, Jacob Wainer, Netra Unni Rajesh, Xiaoya Lu, Yuan Gao, Paramesh Karandikar, Chaoyang Tang, Aaron Lopes, Aniket Wahane, Daniel Reker, Morten Revsgaard Frederiksen, Brian Jensen, Robert Langer, Giovanni Traverso. Oral mRNA delivery using capsule-mediated gastrointestinal tissue injections. Matter. 2022 January 31. doi:10.1016/j.matt.2021.12.022.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Hen-Wei Huang, Siheng Sean You, Luca Di Tizio, Canchen Li, Erin Raftery, Claas Ehmke, Christoph Steiger, Junwei Li, Adam Wentworth, Ian Ballinger, Declan Gwynne, Kewang Nan, Jia Y. Liang, Jason Li, James D. Byrne, Joy Collins, Siddartha Tamang, Keiko Ishida, Florencia Halperin, Giovanni Traverso. An automated all-in-one system for carbohydrate tracking, glucose monitoring, and insulin delivery. Journal of Controlled Release. 2022 January 22. doi:10.1016/j.jconrel.2022.01.001.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Alex Abramson, Ameya R. Kirtane, Yunhua Shi, Grace Zhong, Joy E. Collins, Siddartha Tamang, Keiko Ishida, Alison Hayward, Jacob Wainer, Netra Unni Rajesh, Xiaoya Lu, Yuan Gao, Paramesh Karandikar, Chaoyang Tang, Aaron Lopes, Aniket Wahane, Daniel Reker, Morten Revsgaard Frederiksen, Brian Jensen, Robert Langer, Giovanni Traverso. Oral mRNA delivery using capsule-mediated gastrointestinal tissue injections. Matter. 2022 January 31. doi:10.1016/j.matt.2021.12.022. Hen-Wei Huang, Siheng Sean You, Luca Di Tizio, Canchen Li, Erin Raftery, Claas Ehmke, Christoph Steiger, Junwei Li, Adam Wentworth, Ian Ballinger, Declan Gwynne, Kewang Nan, Jia Y. Liang, Jason Li, James D. Byrne, Joy Collins, Siddartha Tamang, Keiko Ishida, Florencia Halperin, Giovanni Traverso. An automated all-in-one system for carbohydrate tracking, glucose monitoring, and insulin delivery. Journal of Controlled Release. 2022 January 22. doi:10.1016/j.jconrel.2022.01.001. Jan-Georg Rosenboom, Robert Langer, Giovanni Traverso. Bioplastics for a circular economy. Nature Reviews Materials. 2022 January 20. doi:10.1038/s41578-021-00407-8.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Wei Chen, Jacob Wainer, Si Won Ryoo, Xiaoyue Qi, Rong Chang, Jason Li, Seung Ho Lee, Seokkee Min, Adam Wentworth, Joy E. Collins, Siddartha Tamang, Keiko Ishida, Alison Hayward, Robert Langer, Giovanni Traverso. Dynamic omnidirectional adhesive microneedle system for oral macromolecular drug delivery. Science Advances. 2022 January 5. doi:10.1126/sciadv.abk1792.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Marion M. France, Tony del Rio, Hannah Travers, Erin Raftery, Robert Langer, Giovanni Traverso, Carl M. Schoellhammer. Platform for the Delivery of Unformulated RNA In Vivo. Journal of Pharmaceutical Sciences. 2021 December 12. doi:10.1016/j.xphs.2021.12.008.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Seung Ho Lee, Qianqian Wan, Adam Wentworth, Ian Ballinger, Keiko Ishida, Joy E. Collins, Siddartha Tamang, Hen-Wei Huang, Canchen Li, Kaitlyn Hess, Aaron Lopes, Ameya R. Kirtane, Jung Seung Lee, Sejun Lee, Wei Chen, Kaitlyn Wong, George Selsing, Hyunjoon Kim, Stephen T. Buckley, Alison Hayward, Robert Langer, Giovanni Traverso. Implantable system for chronotherapy. Science Advances. 2021 November 26. doi:10.1126/sciadv.abj4624.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jacqueline N. Chu, Joy E. Collins, Tina T. Chen, Peter R. Chai, Farah Dadabhoy, James D. Byrne, Adam Wentworth, Ian A. DeAndrea-Lazarus, Christopher J. Moreland, Jaime A. B. Wilson, Alicia Booth, Omkar Ghenand, Chin Hur, Giovanni Traverso. Patient and Health Care Worker Perceptions of Communication and Ability to Identify Emotion When Wearing Standard and Transparent Masks. JAMA Network Open. 2021 November 22. doi:10.1001/jamanetworkopen.2021.35386.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Seung Ho Lee, Qianqian Wan, Adam Wentworth, Ian Ballinger, Keiko Ishida, Joy E. Collins, Siddartha Tamang, Hen-Wei Huang, Canchen Li, Kaitlyn Hess, Aaron Lopes, Ameya R. Kirtane, Jung Seung Lee, Sejun Lee, Wei Chen, Kaitlyn Wong, George Selsing, Hyunjoon Kim, Stephen T. Buckley, Alison Hayward, Robert Langer, Giovanni Traverso. Implantable system for chronotherapy. Science Advances. 2021 November 26. doi:10.1126/sciadv.abj4624. Jacqueline N. Chu, Joy E. Collins, Tina T. Chen, Peter R. Chai, Farah Dadabhoy, James D. Byrne, Adam Wentworth, Ian A. DeAndrea-Lazarus, Christopher J. Moreland, Jaime A. B. Wilson, Alicia Booth, Omkar Ghenand, Chin Hur, Giovanni Traverso. Patient and Health Care Worker Perceptions of Communication and Ability to Identify Emotion When Wearing Standard and Transparent Masks. JAMA Network Open. 2021 November 22. doi:10.1001/jamanetworkopen.2021.35386. Jacqueline N. Chu, Giovanni Traverso. Foundations of gastrointestinal-based drug delivery and future developments. Nature Reviews Gastroenterology & Hepatology. 2021 November 16. doi:10.1038/s41575-021-00539-w.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Christoph Steiger, Nhi V. Phan, Hen-Wei Huang, Haoying Sun, Jacqueline N. Chu, Daniel Reker, Declan Gwynne, Joy Collins, Siddartha Tamang, Rebecca McManus, Aaron Lopes, Alison Hayward, Rebecca M. Baron, Edy Y. Kim, Giovanni Traverso. Dynamic Monitoring of Systemic Biomarkers with Gastric Sensors. Advanced Science. 2021 October 28. doi:10.1002/advs.202102861.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ethel D Weld, Jacqueline Astemborski, Gregory D Kirk, Mark S Sulkowski, Stephanie Katz, Richard Rothman, Sunil S Solomon, Gail V Matthews, Yu Hsiang Hsieh, Malvika Verma, Giovanni Traverso, Susan Swindells, Andrew Owen, Jordan Feld, Charles Flexner, Shruti H Mehta, David L Thomas. Preferences of persons with or at risk for hepatitis C for long-acting treatments. Clinical Infectious Diseases. 2021 October 26. doi:10.1093/cid/ciab913.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Christoph Steiger, Nhi V. Phan, Hen-Wei Huang, Haoying Sun, Jacqueline N. Chu, Daniel Reker, Declan Gwynne, Joy Collins, Siddartha Tamang, Rebecca McManus, Aaron Lopes, Alison Hayward, Rebecca M. Baron, Edy Y. Kim, Giovanni Traverso. Dynamic Monitoring of Systemic Biomarkers with Gastric Sensors. Advanced Science. 2021 October 28. doi:10.1002/advs.202102861. Ethel D Weld, Jacqueline Astemborski, Gregory D Kirk, Mark S Sulkowski, Stephanie Katz, Richard Rothman, Sunil S Solomon, Gail V Matthews, Yu Hsiang Hsieh, Malvika Verma, Giovanni Traverso, Susan Swindells, Andrew Owen, Jordan Feld, Charles Flexner, Shruti H Mehta, David L Thomas. Preferences of persons with or at risk for hepatitis C for long-acting treatments. Clinical Infectious Diseases. 2021 October 26. doi:10.1093/cid/ciab913. Samantha G Palace, Kyra E Fryling, Ying Li, Adam J Wentworth, Giovanni Traverso, Yonatan H Grad. Identification of bile acid and fatty acid species as candidate rapidly bactericidal agents for topical treatment of gonorrhea. Journal of Antimicrobial Chemotherapy. 2021 September 15. doi:10.1093/jac/dkab217.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jacqueline Chu, Omkar Ghenand, Joy Collins, James Byrne, Adam Wentworth, Peter R. Chai, Farah Dadabhoy, Chin Hur, Giovanni Traverso. Thinking green: modelling respirator reuse strategies to reduce cost and waste. BMJ Open. 2021 July 18. doi:10.1136/bmjopen-2021-048687.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Sahab Babaee, Yichao Shi, Saeed Abbasalizadeh, Siddartha Tamang, Kaitlyn Hess, Joy E Collins, Keiko Ishida, Aaron Lopes, Michael Williams, Mazen Albaghdadi, Alison M Hayward, Giovanni Traverso. Kirigami-inspired stents for sustained local delivery of therapeutics. Nature Materials. 2021 June 14. doi:10.1038/s41563-021-01031-1.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Sahab Babaee, Yichao Shi, Saeed Abbasalizadeh, Siddartha Tamang, Kaitlyn Hess, Joy E Collins, Keiko Ishida, Aaron Lopes, Michael Williams, Mazen Albaghdadi, Alison M Hayward, Giovanni Traverso. Kirigami-inspired stents for sustained local delivery of therapeutics. Nature Materials. 2021 June 14. doi:10.1038/s41563-021-01031-1. Jack Chen, Hen-Wei Huang, Philipp Rupp, Anjali Sinha, Claas Ehmke, Giovanni Traverso. Closed-loop Region of Interest Enabling High Spatial and Temporal Resolutions in Objection Detection and Tracking via Wireless Camera. IEEE Access. 2021 June 14. doi:10.1109/ACCESS.2021.3086499.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. James D. Byrne, Cameron C. Young, Jacqueline N. Chu, Jennifer Pursley, Mu Xian Chen, Adam J. Wentworth, Annie Feng, Ameya R. Kirtane, Kyla A. Remillard, Cindy I. Hancox, Mandar S. Bhagwat, Nicole Machado, Tiffany Hua, Siddartha M. Tamang, Joy E. Collins, Keiko Ishida, Alison Hayward, Sarah L. Becker, Samantha K. Edgington, Jonathan D. Schoenfeld, William R. Jeck, Chin Hur, Giovanni Traverso. Personalized radiation attenuating materials for gastrointestinal mucosal protection. Advanced Science. 2021 April 27. doi:10.1002/advs.202100510.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. James D. Byrne, Cameron C. Young, Jacqueline N. Chu, Jennifer Pursley, Mu Xian Chen, Adam J. Wentworth, Annie Feng, Ameya R. Kirtane, Kyla A. Remillard, Cindy I. Hancox, Mandar S. Bhagwat, Nicole Machado, Tiffany Hua, Siddartha M. Tamang, Joy E. Collins, Keiko Ishida, Alison Hayward, Sarah L. Becker, Samantha K. Edgington, Jonathan D. Schoenfeld, William R. Jeck, Chin Hur, Giovanni Traverso. Personalized radiation attenuating materials for gastrointestinal mucosal protection. Advanced Science. 2021 April 27. doi:10.1002/advs.202100510. Jason Zhang, Tan Nguyen, Benjamin Potsaid, Vijaysekhar Jayaraman, Christopher Burgner, Siyu Chen, Jinxi Li, Kaicheng Liang, Alex Cable, Giovanni Traverso, Hiroshi Mashimo, James G Fujimoto. Multi-MHz MEMS-VCSEL swept-source optical coherence tomography for endoscopic structural and angiographic imaging with miniaturized brushless motor probes. Biomedical Optics Express. 2021 April 1. doi:10.1364/BOE.420394.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Daniel Reker, Yulia Rybakova, Ameya R. Kirtane, Ruonan Cao, Jee Won Yang, Natsuda Navamajiti, Apolonia Gardner, Rosanna M. Zhang, Tina Esfandiary, Johanna L’Heureux, Thomas von Erlach, Elena M. Smekalova, Dominique Leboeuf, Kaitlyn Hess, Aaron Lopes, Jaimie Rogner, Joy Collins, Siddartha M. Tamang, Keiko Ishida, Paul Chamberlain, DongSoo Yun, Abigail Lytton-Jean, Christian K. Soule, Jaime H. Cheah, Alison M. Hayward, Robert Langer, Giovanni Traverso. Computationally guided high-throughput design of self-assembling drug nanoparticles. Nature Nanotechnology. 2021 March 25. doi:10.1038/s41565-021-00870-y.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Daniel Reker, Yulia Rybakova, Ameya R. Kirtane, Ruonan Cao, Jee Won Yang, Natsuda Navamajiti, Apolonia Gardner, Rosanna M. Zhang, Tina Esfandiary, Johanna L’Heureux, Thomas von Erlach, Elena M. Smekalova, Dominique Leboeuf, Kaitlyn Hess, Aaron Lopes, Jaimie Rogner, Joy Collins, Siddartha M. Tamang, Keiko Ishida, Paul Chamberlain, DongSoo Yun, Abigail Lytton-Jean, Christian K. Soule, Jaime H. Cheah, Alison M. Hayward, Robert Langer, Giovanni Traverso. Computationally guided high-throughput design of self-assembling drug nanoparticles. Nature Nanotechnology. 2021 March 25. doi:10.1038/s41565-021-00870-y. Cláudia Azevedo, Jan Terje Andersen, Giovanni Traverso, Bruno Sarmento. The potential of porcine ex vivo platform for intestinal permeability screening of FcRn-targeted drugs. European Journal of Pharmaceutics and Biopharmaceutics. 2021 March 23. doi:10.1016/j.ejpb.2021.03.009.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ameya R. Kirtane, Malvika Verma, Paramesh Karandikar, Jennifer Furin, Robert Langer, Giovanni Traverso. Nanotechnology approached for global infectious diseases. Nature Nanotechnology. 2021 March 22. doi:10.1038/s41565-021-00866-8.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Peter R. Chai, Farah Z. Dadabhoy, Hen-Wei Huang, Jacqueline N. Chu, Annie Feng, Hien M. Le, Joy Collins, Marco da Silva, Marc Raibert, Chin Hur, Edward W. Boyer, Giovanni Traverso. Assessment of the Acceptability and Feasibility of Using Mobile Robotic Systems for Patient Evaluation. JAMA Network Open. 2021 March 4. doi:10.1001/jamanetworkopen.2021.0667.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. So-Yoon Yang, Vitor Sencadas, Siheng Sean You, Neil Zi-Xun Jia, Shriya Sruthi Srinivasan, Hen-Wei Huang, Abdelsalam Elrefaey Ahmed, Jia Ying Liang, Giovanni Traverso. Powering implantable and ingestible electronics. Advanced Functional Materials. 2021 February 4. doi:10.1002/adfm.202009289.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ester Caffarel-Salvador, Soyoung Kim, Vance Soares, Ryan Yu Tian, Sarah R. Stern, Daniel Minahan, Raissa Yona, Xiaoya Lu, Fauziah R. Zakaria, Joy Collins, Jacob Wainer, Jessica Wong, Rebecca McManus, Siddartha Tamang, Shane McDonnell, Keiko Ishida, Alison Hayward, Xiewen Liu, František Hubálek, Johannes Fels, Andreas Vegge, Morten Revsgaard Frederiksen, Ulrik Rahbek, Tadayuki Yoshitake, James Fujimoto, Niclas Roxhed, Robert Langer, Giovanni Traverso. A microneedle platform for buccal macromolecule delivery. Science Advances. 2021 January 22. doi:10.1126/sciadv.abe2620.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Christoph Steiger, Nhi V. Phan, Haoying Sun, Hen-Wei Huang, Kaitlyn Hess, Aaron Lopes, Joshua Korzenik, Robert Langer, Giovanni Traverso. Controlled Delivery of Bile Acids to the Colon. Clinical and Translational Gastroenterology. 2020 December 1. doi:10.14309/ctg.0000000000000229.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Robert Langer, Ana Jaklenec, Giovanni Traverso, Daniel Hartman. From Molecule to Patient: A Biotech Perspective. Clinical Pharmacology & Therapeutics. 2020 November 20. doi:10.1002/cpt.1676.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Adam J. Wentworth, James D. Byrne, Sirma Orguc, Joanna Sands, Saurav Maji, Caitlynn Tov, Sahab Babaee, Hen-Wei Huang, Hannah Boyce, Peter R. Chai, Seokkee Min, Canchen Li, Jacqueline N. Chu, Avik Som, Sarah L. Becker, Manish Gala, Anantha Chandrakasan, Giovanni Traverso. Prospective Evaluation of the Transparent, Elastomeric, Adaptable, Long-lasting (TEAL) Respirator. ACS Pharmacology & Translational Science. 2020 November 10. doi:10.1021/acsptsci.0c00157.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Adam J. Wentworth, James D. Byrne, Sirma Orguc, Joanna Sands, Saurav Maji, Caitlynn Tov, Sahab Babaee, Hen-Wei Huang, Hannah Boyce, Peter R. Chai, Seokkee Min, Canchen Li, Jacqueline N. Chu, Avik Som, Sarah L. Becker, Manish Gala, Anantha Chandrakasan, Giovanni Traverso. Prospective Evaluation of the Transparent, Elastomeric, Adaptable, Long-lasting (TEAL) Respirator. ACS Pharmacology & Translational Science. 2020 November 10. doi:10.1021/acsptsci.0c00157. Daniel Reker, Steven M. Blum, Peter Wade, Christoph Steiger & Giovanni Traverso. Historical evolution and provider awareness of inactive ingredients in oral medications. Pharmaceutical Research. 2020 October 29. doi:10.1007/s11095-020-02953-2.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Khalil B. Ramadi, Shriya S. Srinivasan, Giovanni Traverso. Electroceuticals in the Gastrointestinal Tract. Trends in Pharmacological Sciences. 2020 October 27. doi:10.1016/j.tips.2020.09.014.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ming Li, Ameya R Kirtane, Juri Kiyokawa, Hiroaki Nagashima, Aaron Lopes, Zain A Tirmizi, Christine K Lee, Giovanni Traverso, Daniel P Cahill, Hiroaki Wakimoto. Local Targeting of NAD+ Salvage Pathway Alters the Immune Tumor Microenvironment and Enhances Checkpoint Immunotherapy in Glioblastoma. Cancer Research. 2020 September 30. doi:10.1158/0008-5472.CAN-20-1094.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Alex Abramson, David Dellal, Yong Lin Kong, Jianlin Zhou, Yuan Gao, Joy Collins, Siddartha Tamang, Jacob Wainer, Rebecca McManus, Alison Hayward, Morten Revsgaard Frederiksen, Jorrit J Water, Brian Jensen, Niclas Roxhed, Robert Langer, Giovanni Traverso. Ingestible transiently anchoring electronics for microstimulation and conductive signaling. Science Advances. 2020 August 28. doi:10.1126/sciadv.abc6681.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Junwei Li, Thomas Wang, Ameya R. Kirtane, Yunhua Shi, Alexis Jones, Zaina Moussa, Aaron Lopes, Joy Collins, Siddartha M. Tamang, Kaitlyn Hess, Rameen Shakur, Paramesh Karandikar, Jung Seung Lee, Hen-Wei Huang, Alison Hayward, Giovanni Traverso. Gastrointestinal synthetic epithelial linings. Science Translational Medicine. 2020 August 26. doi:10.1126/scitranslmed.abc0441.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Hen-Wei Huang, Peter Chai, Claas Ehmke, Gene Merewether, Fara Dadabhoy, Annie Feng, Akhil John Thomas, Canchen Li, Marco da Silva, Marc H. Raibert, Edward W. Boyer, Giovanni Traverso. Agile mobile robotic platform for contactless vital signs monitoring. Institute of Electrical and Electronics Engineers. 2020 August 18. doi:10.36227/techrxiv.12811982.v1.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. James D. Byrne, Ramean Shakur, Joy E. Collins, Sarah Becker, Cameron C. Young, Hannah Boyce, Giovanni Traverso. Prophylaxis with tetracyclines in ARDS: Potential therapy for COVID-19-induced ARDS?. medRxiv. 2020 July 28. doi:10.1101/2020.07.22.20154542.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. James D Byrne, Adam J Wentworth, Peter R Chai, Hen-Wei Huang, Sahab Babaee, Canchen Li, Sarah L Becker, Caitlynn Tov, Seokkee Min, Giovanni Traverso. Injection Molded Autoclavable, Scalable, Conformable (iMASC) system for aerosol-based protection. BMJ Open. 2020 July 7. doi:10.1136/bmjopen-2020-039120.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. James D. Byrne, Ramean Shakur, Joy E. Collins, Sarah Becker, Cameron C. Young, Hannah Boyce, Giovanni Traverso. Prophylaxis with tetracyclines in ARDS: Potential therapy for COVID-19-induced ARDS?. medRxiv. 2020 July 28. doi:10.1101/2020.07.22.20154542. James D Byrne, Adam J Wentworth, Peter R Chai, Hen-Wei Huang, Sahab Babaee, Canchen Li, Sarah L Becker, Caitlynn Tov, Seokkee Min, Giovanni Traverso. Injection Molded Autoclavable, Scalable, Conformable (iMASC) system for aerosol-based protection. BMJ Open. 2020 July 7. doi:10.1136/bmjopen-2020-039120. Neil Zixun Jia, David Mejorado, Spyros Poullados, Hyemin Bae, Giovanni Traverso, Roger Dias, Nevan Hanumara. Design of a Wearable System to Capture Physiological Data to Monitor Surgeons’ Stress During Surgery. IEEE Engineering in Medicine & Biology Conference (EMBC). 2020 July 1. doi:10.1109/EMBC44109.2020.9176180.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Sufeng Zhang, Won Joon Cho, Amy T. Jin, Lie Yun Kok, Yunhua Shi, David E. Heller, Young-Ah Lucy Lee, Yixuan Zhou, Xi Xie, Joshua R. Korzenik, Jochen K. Lennerz, Giovanni Traverso. Heparin-Coated Albumin Nanoparticles for Drug Combination in Targeting Inflamed Intestine. Advanced Healthcare Materials. 2020 June 29. doi:10.1002/adhm.202000536.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Shriya S. Srinivasan, Khalil B. Ramadi, Francesco Vicario, Declan Gwynne, Alison Hayward, David Lagier, Robert Langer, Joseph J. Frassica, Rebecca M. Baron, Giovanni Traverso. A rapidly deployable individualized system for augmenting ventilator capacity. Science Translational Medicine. 2020 June 24. doi:10.1126/scitranslmed.abb9401.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Sufeng Zhang, Won Joon Cho, Amy T. Jin, Lie Yun Kok, Yunhua Shi, David E. Heller, Young-Ah Lucy Lee, Yixuan Zhou, Xi Xie, Joshua R. Korzenik, Jochen K. Lennerz, Giovanni Traverso. Heparin-Coated Albumin Nanoparticles for Drug Combination in Targeting Inflamed Intestine. Advanced Healthcare Materials. 2020 June 29. doi:10.1002/adhm.202000536. Shriya S. Srinivasan, Khalil B. Ramadi, Francesco Vicario, Declan Gwynne, Alison Hayward, David Lagier, Robert Langer, Joseph J. Frassica, Rebecca M. Baron, Giovanni Traverso. A rapidly deployable individualized system for augmenting ventilator capacity. Science Translational Medicine. 2020 June 24. doi:10.1126/scitranslmed.abb9401. Sahab Babaee, Simo Pajovic, Ahmad Rafsanjani, Yichao Shi, Katia Bertoldi & Giovanni Traverso . Bioinspired kirigami metasurfaces as assistive shoe grips. Nature Biomedical Engineering. 2020 June 1. doi:10.1038/s41551-020-0564-3.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Malvika Verma, Jacqueline N Chu, John A F Salama, Mohammed T Faiz, Feyisope Eweje, Declan Gwynne, Aaron Lopes, Kaitlyn Hess, Vance Soares, Christoph Steiger, Rebecca McManus, Ryan Koeppen, Tiffany Hua, Alison Hayward, Joy Collins, Siddartha M Tamang, Keiko Ishida, Jonathan B Miller, Stephanie Katz, Alexander H Slocum, Mark S Sulkowski, David L Thomas, Robert Langer, Giovanni Traverso. Development of a long-acting direct-acting antiviral system for hepatitis C virus treatment in swine. Proceedings of the National Academy of Sciences. 2020 May 18. doi:10.1073/pnas.2004746117.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Thomas von Erlach, Sarah Saxton, Yunhua Shi, Daniel Minahan, Daniel Reker, Farhad Javid, Young-Ah Lucy Lee, Carl Schoellhammer, Tina Esfandiary, Cody Cleveland, Lucas Booth, Jiaqi Lin, Hannah Levy, Sophie Blackburn, Alison Hayward, Robert Langer & Giovanni Traverso. Robotically handled whole-tissue culture system for the screening oral drug formulations. Nature Biomedical Engineering. 2020 April 27. doi:10.1038/s41551-020-0545-6.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. John H. Lee,Giovanni Traverso,David Ibarra-Zarate,Duane S. Boning,Brian W. Anthony. Ex Vivo and In Vivo Imaging Study of Ultrasound Capsule Endoscopy (UCE). ASME Journal of Medical Devices. 2020 March 18. doi:10.1115/1.4046352.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Daniel Reker, Yunhua Shi, Ameya R Kirtane, Kaitlyn Hess, Grace J Zhong, Evan Crane, Chih-Hsin Lin, Robert Langer, Giovanni Traverso. Machine Learning Uncovers Food- and Excipient-Drug Interactions. Cell Reports. 2020 March 17. doi:10.1016/j.celrep.2020.02.094.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ritu Raman, Tiffany Hua, Declan Gwynne, Joy Collins, Siddartha Tamang, Jianlin Zhou, Tina Esfandiary, Vance Soares, Simo Pajovic, Alison Hayward, Robert Langer, Giovanni Traverso. Light-degradable hydrogels as dynamic triggers for gastrointestinal applications. Science Advances. 2020 January 17. doi:10.1126/sciadv.aay0065.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ameya R. Kirtane, Tiffany Hua, Alison Hayward, Ambika Bajpayee, Aniket Wahane, Aaron Lopes, Taylor Bensel, Lihong Ma, Frank Z. Stanczyk, Sierra Brooks, Declan Gwynne, Jacob Wainer, Joy Collins, Siddartha M. Tamang, Robert Langer, Giovanni Traverso. A once-a-month oral contraceptive. Science Translational Medicine. 2019 December 4. doi:10.1126/scitranslmed.aay2602.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Alex Abramson, Ester Caffarel-Salvador, Vance Soares, Daniel Minahan, Ryan Yu Tian, Xiaoya Lu, David Dellal, Yuan Gao, Soyoung Kim, Jacob Wainer, Joy Collins, Siddartha Tamang, Alison Hayward, Tadayuki Yoshitake, Hsiang-Chieh Lee, James Fujimoto, Johannes Fels, Morten Revsgaard Frederiksen, Ulrik Rahbek, Niclas Roxhed, Robert Langer & Giovanni Traverso . A Luminal unfolding microneedle injector for oral delivery of macromolecules. Nature Medicine. 2019 October 7. doi:10.1038/s41591-019-0598-9.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Yan Pang, Jinyao Liu, Zaina L. Moussa, Joy E. Collins, Shane McDonnell, Alison M. Hayward, Kunal Jajoo, Robert Langer, Giovanni Traverso. Endoscopically-injectable shear-thinning hydrogels facilitating polyp removal. Advanced Science. 2019 July 30. doi:10.1002/advs.201901041.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Marion M. France, Tony del Rio, Hannah Travers, Erin Raftery, Katherine Xu, Robert Langer, Giovanni Traverso, Jochen K. Lennerz, Carl M. Schoellhammer. Ultra-Rapid Drug Delivery in the Oral Cavity using Ultrasound. Journal of Controlled Release. 2019 April 27. doi:10.1016/j.jconrel.2019.04.037.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Miguel Jimenez, Robert Langer, Giovanni Traverso. Microbial therapeutics: New opportunities for drug delivery. Journal of Experimental Medicine. 2019 April 26. doi:10.1084/jem.20190609.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Alex Abramson, Florencia Halperin, Jane Kim, Giovanni Traverso. Quantifying the value of orally delivered biologic therapies: A cost-effectiveness analysis of oral semaglutide. Journal of Pharmaceutical Sciences. 2019 April 26. doi:10.1016/j.xphs.2019.04.022.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Sahab Babaee, Simo Pajovic, Ameya R. Kirtane, Jiuyun Shi, Ester Caffarel-Salvador, Kaitlyn Hess, Joy E. Collins, Siddartha Tamang, Aniket V. Wahane, Alison M. Hayward, Hormoz Mazdiyasni, Robert Langer, Giovanni Traverso. Temperature-responsive biometamaterials for gastrointestinal applications. Science Translational Medicine. 2019 April 17. doi:10.1126/scitranslmed.aau8581.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Daniel Reker, Steven M. Blum, Christoph Steiger, Kevin E. Anger, Jamie M. Sommer, John Fanikos, Giovanni Traverso. Inactive ingredients in oral medications. Science Translational Medicine. 2019 March 13. doi:10.1126/scitranslmed.aau6753.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Malvika Verma, Karan Vishwanath, Feyisope Eweje, Niclas Roxhed, Tyler Grant, Macy Castaneda, Christoph Steiger, Hormoz Mazdiyasni, Taylor Bensel, Daniel Minahan, Vance Soares, John A. F. Salama, Aaron Lopes, Kaitlyn Hess, Cody Cleveland, Daniel J. Fulop, Alison Hayward, Joy Collins, Siddartha M. Tamang, Tiffany Hua, Chinonyelum Ikeanyi, Gal Zeidman, Elizabeth Mule, Sooraj Boominathan, Ellena Popova, Jonathan B. Miller, Andrew M. Bellinger, David Collins, Dalia Leibowitz, Shelly Batra, Sandeep Ahuja, Manju Bajiya, Sonali Batra, Rohit Sarin, Upasna Agarwal, Sunil D. Khaparde, Neeraj K. Gupta, Deepak Gupta, Anuj K. Bhatnagar, Kamal K. Chopra, Nandini Sharma, Ashwani Khanna, Jayeeta Chowdhury, Robert Stoner, Alexander H. Slocum, Michael J. Cima, Jennifer Furin, Robert Langer, Giovanni Traverso. A gastric resident drug delivery system for prolonged gram-level dosing of tuberculosis treatment. Science Translational Medicine. 2019 March 13. doi:10.1126/scitranslmed.aau6267.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Alex Abramson, Ester Caffarel-Salvador, Minsoo Khang, David Dellal, David Silverstein, Yuan Gao, Morten Revsgaard Frederiksen, Andreas Vegge, František Hubálek, Jorrit J. Water, Anders V. Friderichsen, Johannes Fels, Rikke Kaae Kirk, Cody Cleveland, Joy Collins, Siddartha Tamang, Alison Hayward, Tomas Landh, Stephen T. Buckley, Niclas Roxhed, Ulrik Rahbek, Robert Langer, Giovanni Traverso. An ingestible self-orienting system for oral delivery of macromolecules. Science. 2019 February 8. doi:10.1126/science.aau2277.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Xinyue Liu, Christoph Steiger, Shaoting Lin, German Alberto Parada, Ji Liu, Hon Fai Chan, Hyunwoo Yuk, Nhi V. Phan, Joy Collins, Siddartha Tamang, Giovanni Traverso & Xuanhe Zhao . Ingestible Hydrogel Device. Nature Communications. 2019 January 30. doi:10.1038/s41467-019-08355-2.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Yong Lin Kong, Xingyu Zou, Caitlin A. McCandler, Ameya R. Kirtane, Shen Ning, Jianlin Zhou, Abubakar Abid, Mousa Jafari, Jaimie Rogner, Daniel Minahan, Joy E. Collins, Shane McDonnell, Cody Cleveland, Taylor Bensel, Siid Tamang, Graham Arrick, Alla Gimbel, Tiffany Hua, Udayan Ghosh, Vance Soares, Nancy Wang, Aniket Wahane, Alison Hayward, Shiyi Zhang, Brian R. Smith, Robert Langer, Giovanni Traverso . 3D Printed Gastric Resident Electronics. Advanced Materials Technologies. 2018 December 13. doi:10.1002/admt.201800490.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Alison Hayward, Taylor Bensel, Hormoz Mazdiyasni, Jaimie Rogner, Ameya R. Kirtane, Young-Ah Lucy Lee, Tiffany Hua, Ambika Bajpayee, Joy Collins, Shane McDonnell, Cody Cleveland, Aaron Lopes, Aniket Wahane, Robert Langer & Giovanni Traverso . Scalable Gastric Resident Systems for Veterinary Applications. Scientific Reports. 2018 August 7. doi:10.1038/s41598-018-30212-3.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ganesh M. Shankar, Ameya R. Kirtane, Julie J. Miller, Hormoz Mazdiyasni, Jaimie Rogner, Tammy Tai, Erik A. Williams, Fumi Higuchi, Tareq A. Juratli, Kensuke Tateishi, Mara V. A. Koerner, Shilpa S. Tummala, Alexandria L. Fink, Tristan Penson, Stephen P. Schmidt, Gregory R. Wojtkiewicz, Aymen Baig, Joshua M. Francis, Mikael L. Rinne, Julie M. Batten, Tracy T. Batchelor, Priscilla K. Brastianos, William T. Curry Jr., Fred G. Barker II, Justin T. Jordan, A. John Iafrate, Andrew S. Chi, Jochen K. Lennerz, Matthew Meyerson, Robert Langer, Hiroaki Wakimoto, Giovanni Traverso, Daniel P. Cahill. Genotype-targeted local therapy of glioma. Proceedings of the National Academy of Sciences. 2018 August 6. doi:10.1073/pnas.1805751115.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Alison Hayward, Taylor Bensel, Hormoz Mazdiyasni, Jaimie Rogner, Ameya R. Kirtane, Young-Ah Lucy Lee, Tiffany Hua, Ambika Bajpayee, Joy Collins, Shane McDonnell, Cody Cleveland, Aaron Lopes, Aniket Wahane, Robert Langer & Giovanni Traverso . Scalable Gastric Resident Systems for Veterinary Applications. Scientific Reports. 2018 August 7. doi:10.1038/s41598-018-30212-3. Ganesh M. Shankar, Ameya R. Kirtane, Julie J. Miller, Hormoz Mazdiyasni, Jaimie Rogner, Tammy Tai, Erik A. Williams, Fumi Higuchi, Tareq A. Juratli, Kensuke Tateishi, Mara V. A. Koerner, Shilpa S. Tummala, Alexandria L. Fink, Tristan Penson, Stephen P. Schmidt, Gregory R. Wojtkiewicz, Aymen Baig, Joshua M. Francis, Mikael L. Rinne, Julie M. Batten, Tracy T. Batchelor, Priscilla K. Brastianos, William T. Curry Jr., Fred G. Barker II, Justin T. Jordan, A. John Iafrate, Andrew S. Chi, Jochen K. Lennerz, Matthew Meyerson, Robert Langer, Hiroaki Wakimoto, Giovanni Traverso, Daniel P. Cahill. Genotype-targeted local therapy of glioma. Proceedings of the National Academy of Sciences. 2018 August 6. doi:10.1073/pnas.1805751115. Mark Mimee, Phillip Nadeau, Alison Hayward, Sean Carim, Sarah Flanagan, Logan Jerger, Joy Collins, Shane McDonnell, Richard Swartwout, Robert J. Citorik, Vladimir Bulović, Robert Langer, Giovanni Traverso, Anantha P. Chandrakasan, Timothy K. Lu. An ingestible bacterial-electronic system to monitor gastrointestinal health. Science. 2018 May 25. doi:10.1126/science.aas9315.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ameya R. Kirtane, Omar Abouzid, Daniel Minahan, Taylor Bensel, Alison L. Hill, Christian Selinger, Anna Bershteyn, Morgan Craig, Shirley S. Mo, Hormoz Mazdiyasni, Cody Cleveland, Jaimie Rogner, Young-Ah Lucy Lee, Lucas Booth, Farhad Javid, Sarah J. Wu, Tyler Grant, Andrew M. Bellinger, Boris Nikolic, Alison Hayward, Lowell Wood, Philip A. Eckhoff, Martin A. Nowak, Robert Langer, Giovanni Traverso. Development of an oral once-weekly drug delivery system for HIV antiretroviral therapy. Nature Communications. 2018 January 9. doi:10.1038/s41467-017-02294-6.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Angela M. DiCiccio, Young-Ah Lucy Lee, Dean L. Glettig, Elizabeth S.E. Walton, Eva L. de la Serna, Veronica A. Montgomery, Tyler M. Grant, Robert Langer, Giovanni Traverso. Caffeine-catalyzed gels. Biomaterials. 2018 January 1. doi:10.1016/j.biomaterials.2018.04.010.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ameya R. Kirtane, Omar Abouzid, Daniel Minahan, Taylor Bensel, Alison L. Hill, Christian Selinger, Anna Bershteyn, Morgan Craig, Shirley S. Mo, Hormoz Mazdiyasni, Cody Cleveland, Jaimie Rogner, Young-Ah Lucy Lee, Lucas Booth, Farhad Javid, Sarah J. Wu, Tyler Grant, Andrew M. Bellinger, Boris Nikolic, Alison Hayward, Lowell Wood, Philip A. Eckhoff, Martin A. Nowak, Robert Langer, Giovanni Traverso. Development of an oral once-weekly drug delivery system for HIV antiretroviral therapy. Nature Communications. 2018 January 9. doi:10.1038/s41467-017-02294-6. Angela M. DiCiccio, Young-Ah Lucy Lee, Dean L. Glettig, Elizabeth S.E. Walton, Eva L. de la Serna, Veronica A. Montgomery, Tyler M. Grant, Robert Langer, Giovanni Traverso. Caffeine-catalyzed gels. Biomaterials. 2018 January 1. doi:10.1016/j.biomaterials.2018.04.010. Sufeng Zhang, Robert Langer, Giovanni Traverso. Nanoparticulate Drug Delivery Systems Targeting Inflammation for Treatment of Inflammatory Bowel Disease. Nano Today. 2017 October 27. doi:10.1016/j.nantod.2017.08.006.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Carl M Schoellhammer, Yiyun Chen, Cody Cleveland, Daniel Minahan, Taylor Bensel, June Y Park, Sarah Saxton, Young-Ah Lucy Lee, Lucas Booth, Robert Langer, Giovanni Traverso. Defining Optimal Permeant Characteristics for Ultrasound-Mediated Gastrointestinal Delivery. Journal of Controlled Release. 2017 October 16. doi:10.1016/j.jconrel.2017.10.023.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Canan Dagdeviren, Farhad Javid, Pauline Joe, Thomas von Erlach, Taylor Bensel, Zijun Wei, Sarah Saxton, Cody Cleveland, Lucas Booth, Shane McDonnell, Joy Collins, Alison Hayward, Robert Langer, Giovanni Traverso. Flexible Piezoelectric Devices for Gastrointestinal Motility Sensing. Nature Biomedical Engineering. 2017 October 10. doi:10.1038/s41551-017-0140-7.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Carl M Schoellhammer, Yiyun Chen, Cody Cleveland, Daniel Minahan, Taylor Bensel, June Y Park, Sarah Saxton, Young-Ah Lucy Lee, Lucas Booth, Robert Langer, Giovanni Traverso. Defining Optimal Permeant Characteristics for Ultrasound-Mediated Gastrointestinal Delivery. Journal of Controlled Release. 2017 October 16. doi:10.1016/j.jconrel.2017.10.023. Canan Dagdeviren, Farhad Javid, Pauline Joe, Thomas von Erlach, Taylor Bensel, Zijun Wei, Sarah Saxton, Cody Cleveland, Lucas Booth, Shane McDonnell, Joy Collins, Alison Hayward, Robert Langer, Giovanni Traverso. Flexible Piezoelectric Devices for Gastrointestinal Motility Sensing. Nature Biomedical Engineering. 2017 October 10. doi:10.1038/s41551-017-0140-7. Ashok Kakkar, Giovanni Traverso, Omid C. Farokhzad, Ralph Weissleder, Robert Langer. Evolution of macromolecular complexity in drug delivery systems. Nat Rev Chem. 2017 August 9. doi:10.1038/s41570-017-0063.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Jinyao Liu, Yan Pang, Shiyi Zhang, Cody Cleveland, Xiaolei Yin, Lucas Booth, Jiaqi Lin, Young-Ah Lucy Lee, Hormoz Mazdiyasni, Sarah Saxton, Ameya R. Kirtane, Thomas von Erlach, Jaimie Rogner, Robert Langer, Giovanni Traverso. Triggerable tough hydrogels for gastric resident dosage forms. Nature Communications. 2017 July 25. doi:10.1038/s41467-017-00144-z.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Abubakar Abid, Jonathan M. O’Brien, Taylor Bensel, Cody Cleveland, Lucas Booth, Brian R. Smith, Robert Langer, Giovanni Traverso. Wireless Power Transfer to Millimeter-Sized Gastrointestinal Electronics Validated in a Swine Model. Scientific Reports. 2017 April 27. doi:10.1038/srep46745.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Phillip Nadeau, Dina El-Damak, Dean Glettig, Yong Lin Kong, Stacy Mo, Cody Cleveland, Lucas Booth, Niclas Roxhed, Robert Langer, Anantha P. Chandrakasan, Giovanni Traverso. Prolonged energy harvesting for ingestible devices. Nature Biomedical Engineering. 2017 February 6. doi:10.1038/s41551-016-0022.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Carl M. Schoellhammer, Gregory Y. Lauwers, Jeremy A. Goettel, Matthias A. Oberli, Cody Cleveland, June Y. Park, Daniel Minahan, Yiyun Chen, Daniel G. Anderson, Ana Jaklenec, Scott B. Snapper, Robert Langer, Giovanni Traverso. Ultrasound-Mediated Delivery of RNA to Colonic Mucosa of Live Mice. Gastroenterology. 2017 January 13. doi:10.1053/j.gastro.2017.01.002.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Andrew M Bellinger, Mousa Jafari, Tyler M Grant, Shiyi Zhang, Hannah C Slater, Edward A Wenger, Stacy Mo, Young-Ah Lucy Lee, Hormoz Mazdiyasni, Lawrence Kogan, Ross Barman, Cody Cleveland, Lucas Booth, Taylor Bensel, Daniel Minahan, Haley M Hurowitz, Tammy Tai, Johanna Daily, Boris Nikolic, Lowell Wood, Philip A Eckhoff, Robert Langer, Giovanni Traverso. Oral Ultra Long-Acting Drug Delivery: Single Encounter Ivermectin for Malaria Elimination. Science Translational Medicine. 2016 November 16. doi:10.1126/scitranslmed.aag2374.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Andrew M Bellinger, Mousa Jafari, Tyler M Grant, Shiyi Zhang, Hannah C Slater, Edward A Wenger, Stacy Mo, Young-Ah Lucy Lee, Hormoz Mazdiyasni, Lawrence Kogan, Ross Barman, Cody Cleveland, Lucas Booth, Taylor Bensel, Daniel Minahan, Haley M Hurowitz, Tammy Tai, Johanna Daily, Boris Nikolic, Lowell Wood, Philip A Eckhoff, Robert Langer, Giovanni Traverso. Oral Ultra Long-Acting Drug Delivery: Single Encounter Ivermectin for Malaria Elimination. Science Translational Medicine. 2016 November 16. doi:10.1126/scitranslmed.aag2374. Hsiang-Chieh Lee, Osman Oguz Ahsen, Kaicheng Liang, Zhao Wang, Cody Cleveland, Lucas Booth, Benjamin Potsaid, Vijaysekhar Jayaraman, Alex E. Cable, Hiroshi Mashimo, Robert Langer, Giovanni Traverso, James G. Fujimoto. Circumferential optical coherence tomography angiography imaging of the swine esophagus using a micromotor balloon catheter. Biomed Opt Express. 2016 August 1. doi:10.1364/BOE.7.002927.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Young-Ah Lucy Lee, Shiyi Zhang, Jiaqi Lin, Robert Langer, Giovanni Traverso. A Janus Mucoadhesive and Omniphobic Device for Gastrointestinal Retention. Adv Healthcare Mater. 2016 April 6. doi:10.1002/adhm.201501036.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ana I. Robles, Giovanni Traverso, Ming Zhang, Nicholas J. Roberts, Mohammed A. Khan, Christine Joseph, Gregory Y. Lauwers, Florin M. Selaru, Maria Popoli, Meredith E. Pittman, Xiquan Ke, Ralph H. Hruban, Stephen J. Meltzer, Kenneth W. Kinzler, Bert Vogelstein, Curtis C. Harris, Nickolas Papadopoulos. Whole-exome Sequencing analyses of Inflammatory Bowel Disease-associated Colorectal Cancer. Gastroenterology. 2016 January 4. doi:10.1053/j.gastro.2015.12.036.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. G. Traverso, G. Ciccarelli, S. Schwartz, T. Hughes, T. Boettcher, R. Barman, R. Langer, A. Swiston. Physiologic Status Monitoring via the Gastrointestinal Tract. PLoS One. 2015 November 18. doi:10.1371/journal.pone.0141666.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Carl M. Schoellhammer, Avi Schroeder, Ruby Maa, Gregory Yves Lauwers, Albert Swiston, Michael Zervas, Ross Barman, Angela M. DiCiccio, William R. Brugge, Daniel G. Anderson, Daniel Blankschtein, Robert Langer, Giovanni Traverso. Ultrasound-Mediated Gastrointestinal Drug Delivery. Science Translational Medicine. 2015 October 21. doi:10.1126/scitranslmed.aaa5937.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Sufeng Zhang, Joerg Ermann, Marc D. Succi, Allen Zhou, Matthew J. Hamilton, Bonnie Cao, Joshua R. Korzenik, Jonathan N. Glickman, Praveen K. Vemula, Laurie H. Glimcher, Giovanni Traverso, Robert Langer, Jeffrey M. Karp. An Inflammation-targeted Hydrogel for Local Drug Delivery in Inflammatory Bowel Disease. Science Translational Medicine. 2015 August 12. doi:10.1126/scitranslmed.aaa5657.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Shiyi Zhang, Andrew M. Bellinger, Dean L. Glettig, Ross Barman, Young-Ah Lucy Lee, Jiahua Zhu, Cody Cleveland, Veronica A. Montgomery, Li Gu, Landon D. Nash, Duncan J. Maitland, Robert Langer, Giovanni Traverso. Development of an Enteric Elastomer for Safe Gastric Devices: a pH-responsive Supramolecular Polymer Gel. Nature Materials. 2015 July 27. doi:10.1038/nmat4355.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Sufeng Zhang, Joerg Ermann, Marc D. Succi, Allen Zhou, Matthew J. Hamilton, Bonnie Cao, Joshua R. Korzenik, Jonathan N. Glickman, Praveen K. Vemula, Laurie H. Glimcher, Giovanni Traverso, Robert Langer, Jeffrey M. Karp. An Inflammation-targeted Hydrogel for Local Drug Delivery in Inflammatory Bowel Disease. Science Translational Medicine. 2015 August 12. doi:10.1126/scitranslmed.aaa5657. Shiyi Zhang, Andrew M. Bellinger, Dean L. Glettig, Ross Barman, Young-Ah Lucy Lee, Jiahua Zhu, Cody Cleveland, Veronica A. Montgomery, Li Gu, Landon D. Nash, Duncan J. Maitland, Robert Langer, Giovanni Traverso. Development of an Enteric Elastomer for Safe Gastric Devices: a pH-responsive Supramolecular Polymer Gel. Nature Materials. 2015 July 27. doi:10.1038/nmat4355. Kaicheng Liang, Giovanni Traverso, Hsiang-Chieh Lee, Osman Oguz Ahsen, Zhao Wang, Benjamin Potsaid, Michael Giacomelli, Vijaysekhar Jayaraman, Ross Barman, Alex Cable, Hiroshi Mashimo, Robert Langer, James G. Fujimoto. Ultrahigh speed en face OCT capsule for endoscopic imaging. Biomedical Optics Express. 2015 April 1. doi:10.1364/BOE.6.001146.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Bryan Laulicht, Giovanni Traverso, Vikram Deshpande, Robert Langer, Jeffrey M Karp. Simple battery armor to protect against gastrointestinal injury from accidental ingestion. Proceedings of the National Academy of Sciences. 2014 November 3. doi:10.1073/pnas.1404651111.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Giovanni Traverso, Carl M. Schoellhammer, Avi Schroeder, Ruby Maa, Gregory Y. Lauwers, Baris E. Polat, Daniel G. Anderson, Daniel Blankschtein, Robert Langer. Microneedles for Drug Delivery via the Gastrointestinal Tract. J Pharm Sci. 2014 September 22. doi:10.1002/jps.24182.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Vicente Parot, Daryl Lim, German Gonzalez, Giovanni Traverso, Norman S. Nishioka, Benjamin J. Vakoc, Nicholas J. Durr. Photometric stereo endoscopy. J Biomed Opt. 2013 July 17. doi:10.1117/1.JBO.18.7.076017.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Zhenghe Wang, Jordan M Cummins, Dong Shen, Daniel P Cahill, Prasad V Jallepalli, Tian-Li Wang, D Williams Parsons, Giovanni Traverso, Mark Awad, Natalie Silliman, Janine Ptak, Steve Szabo, James K V Willson, Sanford D Markowitz, Michael L Goldberg, Roger Karess, Kenneth W Kinzler, Bert Vogelstein, Victor E Velculescu, Christoph Lengauer. Three classes of genes mutated in colorectal cancers with chromosomal instability. Cancer Res. 2004 May 1. doi:10.1158/0008-5472.CAN-03-2073.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Giovanni Traverso, Chetan Bettegowda, Jürgen Kraus, Michael R Speicher, Kenneth W Kinzler, Bert Vogelstein, Christoph Lengauer. Hyper-recombination and genetic instability in BLM-deficient epithelial cells. Cancer Res. 2003 December 15. (2003) 63 (24): 8578–8581. https://pubmed.ncbi.nlm.nih.gov/14695165/
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Giovanni Traverso, Chetan Bettegowda, Jürgen Kraus, Michael R Speicher, Kenneth W Kinzler, Bert Vogelstein, Christoph Lengauer. Hyper-recombination and genetic instability in BLM-deficient epithelial cells. Cancer Res. 2003 December 15. (2003) 63 (24): 8578–8581. https://pubmed.ncbi.nlm.nih.gov/14695165/ Giovanni Traverso, Frank Diehl, Robin Hurst, Anthony Shuber, Duncan Whitney, Constance Johnson, Bernard Levin, Kenneth W Kinzler, Bert Vogelstein. Multicolor in vitro translation. Nature Biotechnology. 2003 August 10. doi:10.1038/nbt857.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Devin Dressman, Hai Yan, Giovanni Traverso, Kenneth W. Kinzler, Bert Vogelstein. Transforming single DNA molecules into fluorescent magnetic particles for detection and enumeration of genetic variations. Proceedings of the National Academy of Sciences. 2003 July 11. doi:10.1073/pnas.1133470100.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Giovanni Traverso, Anthony Shuber, Louise Olsson, Bernard Levin, Constance Johnson, Stanley R Hamilton, Kevin Boynton, Kenneth W Kinzler, Bert Vogelstein. Detection of proximal colorectal cancers through analysis of faecal DNA. Lancet. 2002 February 2. doi:10.1016/S0140-6736(02)07591-8.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Giovanni Traverso, Anthony Shuber, Bernard Levin, Constance Johnson, Louise Olsson, David J. Schoetz Jr., Stanley R. Hamilton, Kevin Boynton, Kenneth W. Kinzler, Bert Vogelstein. Detection of APC mutations in fecal DNA from patients with colorectal tumors. New England Journal of Medicine. 2002 January 31. doi:10.1056/NEJMoa012294.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Giovanni Traverso, Anthony Shuber, Louise Olsson, Bernard Levin, Constance Johnson, Stanley R Hamilton, Kevin Boynton, Kenneth W Kinzler, Bert Vogelstein. Detection of proximal colorectal cancers through analysis of faecal DNA. Lancet. 2002 February 2. doi:10.1016/S0140-6736(02)07591-8. Giovanni Traverso, Anthony Shuber, Bernard Levin, Constance Johnson, Louise Olsson, David J. Schoetz Jr., Stanley R. Hamilton, Kevin Boynton, Kenneth W. Kinzler, Bert Vogelstein. Detection of APC mutations in fecal DNA from patients with colorectal tumors. New England Journal of Medicine. 2002 January 31. doi:10.1056/NEJMoa012294. J R Howe, J L Bair, M G Sayed, M E Anderson, F A Mitros, G M Petersen, V E Velculescu, G Traverso, B Vogelstein. Germline mutations of the gene encoding bone morphogenetic protein receptor 1A in juvenile polyposis. Nat Genet. 2001 June 28. doi:10.1038/88919.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Seung Myung Dong, Giovanni Traverso, Constance Johnson, Li Geng, Reyna Favis, Kevin Boynton, Kenji Hibi, Steven N. Goodman, Matthew D’Allessio, Philip Paty, Stanley R. Hamilton, David Sidransky, Francis Barany, Bernard Levin, Anthony Shuber, Kenneth W. Kinzler, Bert Vogelstein, Jin Jen. Detecting colorectal cancer in stool with the use of multiple genetic targets. J Natl Cancer Inst. 2001 June 6. doi:10.1093/jnci/93.11.858.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Ie-Ming Shih, Tian-Li Wang, Giovanni Traverso, Kathy Romans, Stanley R. Hamilton, Shmuel Ben-Sasson, Kenneth W. Kinzler, Bert Vogelstein. Top-down morphogenesis of colorectal tumors. Proceedings of the National Academy of Sciences. 2001 February 20. doi:10.1073/pnas.051629398.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Brad St. Croix, Carlo Rago, Victor Velculescu, Giovanni Traverso, Katharine E. Romans, Elizabeth Montgomery, Anita Lal, Gregory J. Riggins, Christoph Lengauer, Bert Vogelstein, Kenneth W. Kinzler. Genes expressed in human tumor endothelium. Science. 2000 August 18. doi:10.1126/science.289.5482.1197.
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. Brad St. Croix, Carlo Rago, Victor Velculescu, Giovanni Traverso, Katharine E. Romans, Elizabeth Montgomery, Anita Lal, Gregory J. Riggins, Christoph Lengauer, Bert Vogelstein, Kenneth W. Kinzler. Genes expressed in human tumor endothelium. Science. 2000 August 18. doi:10.1126/science.289.5482.1197. J C Lin, S W Scherer, L Tougas, G Traverso, L C Tsui, I L Andrulis, S Jothy, M Park. Detailed deletion mapping with a refined physical map of 7q31 localizes a putative tumor suppressor gene for breast cancer in the region of MET. Oncogene. 1996 November 7. PMID: 8934547. https://pubmed.ncbi.nlm.nih.gov/8934547/
+
+    게시 페이지: <https://www.l4te.org/publications/>
+
+1. E. Belloni, M. Muenke, E. Roessler, G. Traverso, J. Siegel-Bartelt, A. Frumkin, H.F. Mitchell, H. Donis-Keller, C. Helms, A.V. Hing, H.H.Q. Heng, B. Koop, D. Martindale, J.M. Rommens, L.-C. Tsui, S.W. Scherer. Identification of Sonic hedgehog as a candidate gene responsible for holoprosencephaly. Nature Genetics. 1996 November 1. doi:10.1038/ng1196-353.
+
+    게시 페이지: <https://www.l4te.org/publications/>
 
 ## MIT — Michael Triantafyllou
 
@@ -12342,13 +17818,213 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Wim van Rees
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 50건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/wvanrees@mit.edu>
+출처: <https://vanreeslab.mit.edu/publications/>
+
+1. A fourth order sharp immersed method for the incompressible Navier-Stokes equations with stationary and moving boundaries and interfaces. Ji, X.; Nigel Shen, C.; and van Rees, W. M. Journal of Computational Physics, 556: 114806. July 2026.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. A fourth order sharp immersed method for the incompressible Navier-Stokes equations with stationary and moving boundaries and interfaces. Ji, X.; Nigel Shen, C.; and van Rees, W. M. Journal of Computational Physics, 556: 114806. July 2026. Paper doi link bibtex 2025 (2)
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. A parametric LSTM neural network for predicting flow field dynamics across a design space. Karbasian, H. R.; and van Rees, W. M. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 481(2307): 20240055. 2025.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. A high-order immersed finite-difference discretization for solving linear and nonlinear elasticity problems. Gabbard, J.; and van Rees , W. M. Computer Methods in Applied Mechanics and Engineering, 446: 118269. 2025.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. A high-order immersed finite-difference discretization for solving linear and nonlinear elasticity problems. Gabbard, J.; and van Rees , W. M. Computer Methods in Applied Mechanics and Engineering, 446: 118269. 2025. Paper doi link bibtex 2024 (7)
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Lattice Green’s Functions for High-Order Finite Difference Stencils. Gabbard, J.; and van Rees, W. M. SIAM Journal on Numerical Analysis, 62(1): 25-47. January 2024.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. A high-order finite difference method for moving immersed domain boundaries and material interfaces. Gabbard, J.; and van Rees, W. M. Journal of Computational Physics, 507: 112979. April 2024.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Vortex bursting and associated twist dynamics on helical vortex tubes and vortex rings. Ji, L.; and van Rees, W. M. Journal of Fluid Mechanics, 986: A34. May 2024.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. High-Fidelity CFD Verification Workshop 2024: Post-Workshop Mesh Motion Summary. Wukie, N. A.; Fidkowski, K.; Persson, P.; Fujimoto, T. R.; Wang, Z. J.; Gabbard, J.; and van Rees, W. M. . July 2024.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. High-Fidelity CFD Verification Workshop 2024: Post-Workshop Mesh Motion Summary. Wukie, N. A.; Fidkowski, K.; Persson, P.; Fujimoto, T. R.; Wang, Z. J.; Gabbard, J.; and van Rees, W. M. . July 2024. Paper doi link bibtex Effect of curvature variations on the hydrodynamic performance of heaving and pitching foils. van Rees, W. M. Theoretical and Computational Fluid Dynamics. August 2024.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Spheroidal harmonics for generalizing the morphological decomposition of closed parametric surfaces. Shaqfa, M.; and van Rees, W. M. Construction and Building Materials, 454: 138967. October 2024.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Spheroidal harmonics for generalizing the morphological decomposition of closed parametric surfaces. Shaqfa, M.; and van Rees, W. M. Construction and Building Materials, 454: 138967. October 2024. Paper Si doi link bibtex Hydrodynamic forces on a side-by-side ellipse pair with and without relative motion. Rhodes, P.; and van Rees, W. M. Flow, 4: E27. November 2024.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. . Karbasian, H.; and van Rees, W. M. A Deep-Learning Surrogate Model Approach for Optimization of Morphing Airfoils. January 2023.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. . Gabbard, J.; and van Rees, W. M. A High-Order 3D Immersed Interface Finite Difference Method for the Advection-Diffusion Equation. January 2023.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. A sharp immersed method for 2D flow-body interactions using the vorticity-velocity Navier-Stokes equations. Ji, X.; Gabbard, J.; and van Rees, W. M. Journal of Computational Physics, 494: 112513. December 2023.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Multiscale Heterogeneous Polymer Composites for High Stiffness 4D Printed Electrically Controllable Multifunctional Structures. Morales Ferrer, J. M.; Sánchez Cruz, R. E.; Caplan, S.; van Rees, W. M.; and Boley, J. W. Advanced Materials,2307858. 2023.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Multiscale Heterogeneous Polymer Composites for High Stiffness 4D Printed Electrically Controllable Multifunctional Structures. Morales Ferrer, J. M.; Sánchez Cruz, R. E.; Caplan, S.; van Rees, W. M.; and Boley, J. W. Advanced Materials,2307858. 2023. Paper Si doi link bibtex 2022 (4)
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Bursting on a vortex tube with initial axial core-size perturbations. Ji, L.; and van Rees, W. M. Physical Review Fluids, 7: 044704. April 2022.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. An immersed interface method for the 2D vorticity-velocity Navier-Stokes equations with multiple bodies. Gabbard, J.; Gillis, T.; Chatelain, P.; and van Rees, W. M. Journal of Computational Physics, 464: 111339. 2022.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. MURPHY—A Scalable Multiresolution Framework for Scientific Computing on 3D Block-Structured Collocated Grids. Gillis, T.; and van Rees, W. M. SIAM Journal on Scientific Computing, 44(5): C367–C398. September 2022.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Determination of Optimal Shot Peen Forming Patterns Using the Theory of Non-Euclidean Plates. Sushitskii, V.; van Rees, W. M.; Levesque, M.; and Gosselin, F. P. Journal of Manufacturing Science and Engineering, 145(3). December 2022.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Determination of Optimal Shot Peen Forming Patterns Using the Theory of Non-Euclidean Plates. Sushitskii, V.; van Rees, W. M.; Levesque, M.; and Gosselin, F. P. Journal of Manufacturing Science and Engineering, 145(3). December 2022. Paper doi link bibtex 2021 (1)
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Effect of leading-edge curvature actuation on flapping fin performance. Fernandez-Gutierrez, D.; and van Rees, W. M. Journal of Fluid Mechanics, 921. July 2021.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Effect of leading-edge curvature actuation on flapping fin performance. Fernandez-Gutierrez, D.; and van Rees, W. M. Journal of Fluid Mechanics, 921. July 2021. Paper Si doi link bibtex 2020 (5)
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Poisson's ratio and residual strain of freestanding ultra-thin films. Cuddalorepatta, G. K.; van Rees, W. M.; Han, L.; Pantuso, D.; Mahadevan, L.; and Vlassak, J. J. Journal of the Mechanics and Physics of Solids, 137: 103821. 2020.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Coordinated crawling via reinforcement learning. Mishra, S.; van Rees, W. M.; and Mahadevan, L. Journal of The Royal Society Interface, 17(169): 20200198. August 2020.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Elastohydrodynamic Scaling Law for Heart Rates. Virot, E.; Spandan, V.; Niu, L.; van Rees, W. M.; and Mahadevan, L. Physical Review Letters, 125(5). July 2020.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Locomotion of a rotating cylinder pair with periodic gaits at low Reynolds numbers. Ji, L.; and van Rees, W. M. Physics of Fluids, 32(10): 103102. October 2020.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Locomotion of a rotating cylinder pair with periodic gaits at low Reynolds numbers. Ji, L.; and van Rees, W. M. Physics of Fluids, 32(10): 103102. October 2020. Paper doi link bibtex Vortex bursting. van Rees, W. M. Physical Review Fluids, 5: 110504. November 2020.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Shape-shifting structured lattices via multimaterial 4D printing. Boley*, J. W.; van Rees*, W. M.; Lissandrello, C.; Horenstein, M. N.; Truby, R. L.; Kotikian, A.; Lewis, J. A.; and Mahadevan, L. Proceedings of the National Academy of Sciences. 2019.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Shape-shifting structured lattices via multimaterial 4D printing. Boley*, J. W.; van Rees*, W. M.; Lissandrello, C.; Horenstein, M. N.; Truby, R. L.; Kotikian, A.; Lewis, J. A.; and Mahadevan, L. Proceedings of the National Academy of Sciences. 2019. Paper Appendix doi link bibtex 2018 (2)
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Mechanics of biomimetic 4D printed structures. van Rees, W. M.; Matsumoto, E. A.; Gladman, A. S.; Lewis, J. A.; and Mahadevan, L. Soft Matter, 14(43): 8771–8779. 2018.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Physical simulation of environmentally induced thin shell deformation. Chen, H.; Sastry, A.; van Rees, W. M.; and Vouga, E. ACM Transactions on Graphics, 37(4): 1–13. 2018.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Physical simulation of environmentally induced thin shell deformation. Chen, H.; Sastry, A.; van Rees, W. M.; and Vouga, E. ACM Transactions on Graphics, 37(4): 1–13. 2018. Paper doi link bibtex 2017 (3)
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Complete measurement of helicity and its dynamics in vortex tubes. Scheeler, M.; van Rees, W. M.; Kedia, H.; Kleckner, D.; and Irvine, W. T. M. Science, 357: 487–491. 2017.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Growth patterns for shape-shifting elastic bilayers. van Rees, W. M.; Vouga, E.; and Mahadevan, L. Proceedings of the National academy of Sciences of the United States of America. 2017.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Synchronisation through learning for two self- propelled swimmers. Novati, G.; Verma, S.; Alexeev, D.; Rossinelli, D.; van Rees, W. M.; and Koumoutsakos, P. Bioinspiration & Biomimetics, 12(3): 036001. 2017.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Synchronisation through learning for two self- propelled swimmers. Novati, G.; Verma, S.; Alexeev, D.; Rossinelli, D.; van Rees, W. M.; and Koumoutsakos, P. Bioinspiration & Biomimetics, 12(3): 036001. 2017. Paper doi link bibtex 2015 (4)
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Optimal morphokinematics for undulatory swimmers at intermediate Reynolds numbers. van Rees, W. M.; Gazzola, M.; and Koumoutsakos, P. Journal of Fluid Mechanics, 775: 178–188. 2015.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. MRAG-I2D: Multi-resolution adapted grids for remeshed vortex methods on multicore architectures. Rossinelli, D.; Hejazialhosseini, B.; van Rees, W. M.; Gazzola, M.; Bergdorf, M.; and Koumoutsakos, P. Journal of Computational Physics, 288: 1–18. 2015.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Self-propulsion of a counter-rotating cylinder pair in a viscous fluid. van Rees, W. M.; Novati, G.; and Koumoutsakos, P. Physics of Fluids, 27(6): 063102. June 2015.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Quantitative flow analysis of swimming dynamics with coherent Lagrangian vortices. Huhn, F.; van Rees, W. M.; Gazzola, M.; Rossinelli, D.; Haller, G.; and Koumoutsakos, P. Chaos, 25(8): 087405. August 2015.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Quantitative flow analysis of swimming dynamics with coherent Lagrangian vortices. Huhn, F.; van Rees, W. M.; Gazzola, M.; Rossinelli, D.; Haller, G.; and Koumoutsakos, P. Chaos, 25(8): 087405. August 2015. Paper doi link bibtex 2014 (2)
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Optimal shapes for anguilliform swimmers at intermediate Reynolds numbers. van Rees, W. M.; Gazzola, M.; and Koumoutsakos, P. Journal of Fluid Mechanics, 722: R3. April 2013.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Optimal shapes for anguilliform swimmers at intermediate Reynolds numbers. van Rees, W. M.; Gazzola, M.; and Koumoutsakos, P. Journal of Fluid Mechanics, 722: R3. April 2013. Paper doi link bibtex 2012 (2)
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. C-start: optimal start of larval fish. Gazzola, M.; van Rees, W. M.; and Koumoutsakos, P. Journal of Fluid Mechanics, 698: 5–18. February 2012.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. . van Rees, W. M.; Hussain, F.; and Koumoutsakos, P. Physics of Fluids, 24(7): 75105. 2012.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. . van Rees, W. M.; Hussain, F.; and Koumoutsakos, P. Physics of Fluids, 24(7): 75105. 2012. Paper doi link bibtex 2011 (2)
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. Simulations of single and multiple swimmers with non-divergence free deforming geometries. Gazzola, M.; Chatelain, P.; van Rees, W. M.; and Koumoutsakos, P. Journal of Computational Physics, 230(19): 7093–7114. August 2011.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
+
+1. A comparison of vortex and pseudo-spectral methods for the simulation of periodic vortical flows at high Reynolds numbers. van Rees, W. M.; Leonard, A.; Pullin, D.; and Koumoutsakos, P. Journal of Computational Physics, 230(8): 2794–2805. April 2011.
+
+    게시 페이지: <https://vanreeslab.mit.edu/publications/>
 
 ## MIT — J Kim Vandiver
 
@@ -12478,19 +18154,417 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Kripa Varanasi
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 80건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://meche.mit.edu/people/faculty/kripa@mit.edu>
+출처: <https://varanasi.mit.edu/publications/>
+
+1. A Fluidic-Shear Device for Minimally Disruptive, Site-Selective Collection of Viable Cells from Excised Fallopian-Tube Tissue Avalle, D., Vandereydt, B., Parks, S. M., Peng, H., Stone, R., Belcher, A. M., & Varanasi, K. K., Device Featured: MIT News, Inside Precision Medicine
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Electrochemically Driven Sorbent-Mediated Recovery of CO2 in Marine Inorganic Carbon Extraction Processes Nitzsche, M. P., Massen-Hane, M., Su, A., Varanasi, K. K., Hatton, A. T., ACS Environmental Science & Technology
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Direct Magnesium Recovery from Ocean Waters Using Bismuth Electrochemistry Kim, D. J., Dickhardt, F. J., Schillinger, C., Massen-Hane, M., Nitzsche, M. P., Tsakiris, N., Varanasi, K. K., Hatton, A. T., ACS Energy Letters Featured: ACS News
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Bismuth-Driven Flow-Through pH Swing Architecture for Membrane-Free Electrochemical Marine Carbon Removal Koh-Bell, A., Rufer, S., Dickhardt, F. J., Kim, D. J., Tsakiris, N., Nitzsche, M. P., Hatton, A. T., Varanasi, K. K., ACS Electrochemistry.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Aerophilic Debubbling Vandereydt, B., Nath, S., & Varanasi, K. K., Proceedings of the National Academy of Sciences (PNAS).
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Alternating Electrochemical Redox-Cycling on Nanocomposite Biointerface for High-Efficiency Enzyme-Free Cell Detachment McCue, C., Lee, W.H., Vandereydt, B., Avalle, D., Kang, J., Rufer, S., Atari, A., Dickhardt, F.J., Nitzsche, M., Parks, S. and Tseng, Y.Y., & Varanasi, K. K., ACS Nano Featured: MIT News | PhysOrg
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Non-Laplacian Air-Gap Electrostatics for High-Field Oil-Water Nanoemulsion Separation Panat, S., Rufer, S., Lee, W.H., Jayaprakash, V., Agarwal, S. and Varanasi, K.K., Science Advances.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Bubble-Driven Cell Detachment Vandereydt, B., Blanc, B., & Varanasi, K. K., Science Advances, Featured: Science Advances Front Cover | MIT News
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Carbonate/Hydroxide Separation Boosts CO2 Absorption Rate and Electrochemical Release Efficiency Rufer, S., Joseph, T., Aamer, Z., & Varanasi, K. K., ACS Energy Letters. Featured: Cover | MIT News |
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Enhancing Spray Retention using Cloaked Droplets to Reduce Pesticide Pollution Jayaprakash, V., Rufer, S., Panat, S., & Varanasi, K. K., Soft Matter. Featured: Soft Matter Front Cover | MIT News | Michigan Farm News | Rural Radio Network | ASME News
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Design of Antibiofouling Lubricant-Impregnated Surfaces Robust to Cell-Growth-Induced Instability Kang, H. E. D., Costalonga, M., Vandereydt, B., & Varanasi, K. K., Langmuir.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Mitigating Hydrogen Ingress with Thin Cloaking Liquid Barrier Films Khan, S., Toparli, C., Yildiz, B., & Varanasi, K. K., ACS Applied Engineering Materials.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Enhanced Electrostatic Dust Removal from Solar Panels Using Transparent Conductive Nano‐Textured Surfaces Dickhardt, F.J., Panat, S. and Varanasi, K.K., Small.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Machine learning-guided discovery of gas evolving electrode bubble inactivation Lake, J.R., Rufer, S., James, J., Pruyne, N., Scourtas, A., Schwarting, A., Ambadkar, A., Foster, I., Blaiszik, B., and Varanasi, K. K., Nanoscale. Featured: Cover | Nanoscale Most Popular 2025 Articles | MIT News
+
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Hierarchically Conductive Electrodes Unlock Stable and Scalable CO2 Electrolysis Rufer, S., Nitzsche, M. P., Garimella, S., Lake, J. R., and Varanasi, K. K., Nature Communications. Featured: Top 2024 MIT News Stories | MIT News | eeNews Europe
+
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Ocean Alkalinity Enhancement Dickhardt, F. J., Hatton, A. T., Varanasi, K. K.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Thermodynamics of Electrochemical Marine Inorganic Carbon Removal Dickhardt, F.J., Nitzsche, M.P., Rufer, S., Hatton, T.A. and Varanasi, K.K., Environmental Science & Technology.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Crystal Patterning from Aqueous Solutions via Solutal Instabilities McBride, S. A., Atis, S., Pahlavan, A. A., and Varanasi, K. K., ACS Applied Materials & Interfaces, Cover Article.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Reducing Cancer Cell Adhesion using Microtextured Surfaces McCue, C., Atari, A., Parks, S., Tseng, Y. Y., & Varanasi, K. K. Small, Cover Article.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Biofilm formation of Pseudomonas aeruginosa in spaceflight is minimized on lubricant impregnated surfaces Flores, P., McBride, S. A., Galazka, J. M., Varanasi, K. K., & Zea, L., Nature Partner Journal Microgravity.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Externally Tunable, Low Power Electrostatic Control of Cell Adhesion with Nanometric High‐k Dielectric Films Leon, V. J., Blanc, B., Sonnert, S. D., and Varanasi, K. K., Advanced Functional Materials. Cover Article
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Self-ejection of Salts and other Foulants from Superhydrophobic Surfaces to Enable Sustainable Anti-fouling Samantha A. McBride, John R. Lake, and Kripa K. Varanasi. The Journal of Chemical Physics.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Asymmetric chloride-mediated electrochemical process for CO2 removal from oceanwater Seoni Kim, Michael Nitzsche, Simon B Rufer, Jack R. Lake, Kripa K. Varanasi, and T. Alan Hatton. Energy & Environmental Science.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Impact of Bubbles on Electrochemically Active Surface Area of Microtextured Gas-Evolving Electrodes Jack R. Lake, Álvaro Moreno Soto, and Kripa K. Varanasi. Langmuir, Cover Article.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Transient Effects Caused by Gas Depletion during Carbon Dioxide Electroreduction Álvaro Moreno Soto, Jack R. Lake, and Kripa K. Varanasi. Langmuir
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Levitation of fizzy drops Divya Panchanathan, Philippe Bourrianne, Philippe Nicollier, Abhijatmedhi Chottratanapituk, Kripa K. Varanasi and Gareth H. McKinley. Science Advances.
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Differences between Colloidal and Crystalline Evaporative Deposits Samantha A. McBride, Racheal Skye, and Kripa K. Varanasi. Langmuir (Cover Article)
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Lubricant-Impregnated Surfaces for Mitigating Asphaltene Deposition Henri-Louis Girard, Philippe Bourrianne, Mohsen Yeganeh, Robert E. Cohen, Gareth H. McKinley, and Kripa K. Varanasi. ACS Applied Materials & Interfaces
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Asphaltene Adsorption on Functionalized Solids Henri-Louis Girard, Philippe Bourrianne, Dayong Chen, Aditya Jaishankar, Jessica L. Vreeland, Robert E. Cohen, Kripa K. Varanasi, Gareth H. McKinley. Langmuir
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Microstructured Ceramic-Coated Carbon Nanotube Surfaces for High Heat Flux Pool Boiling Hangbo Zhao, Susmita Dash, Navdeep Singh Dhillon, Sanha Kim, Bethany Lettiere, Kripa K. Varanasi and A. John Hart. ACS Applied Nano Materials
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Evaporative Crystallization of Spirals Samantha A. McBride, Susmita Dash, Sami Khan and Kripa K. Varanasi. Langmuir (Cover Article)
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Low-Voltage Surface Electrocoalescence Enabled by High-K Dielectrics and Surfactant Bilayers for Oil–Water Separation Ingrid F. Guha, Kripa K. Varanasi. ACS Applied Material Interfaces
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Grafted Nanofilms Promote Dropwise Condensation of Low-Surface-Tension Fluids for High-Performance Heat Exchangers Karim Khalil, Dan Soto, Taylor Farnham, Adam Paxson, Asli Ugur Katmis, Karen Gleason, Kripa K.Varanasi. Joule
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Study of the relationship between the crystal structure and micro-nano morphology of anodized stainless steels Yuehua Cui, Adam T. Paxson, Xianghua Zhang, Qiang Tu, and Kripa K. Varanasi. Electrochemistry Communications
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Synthetic Butterfly Scale Surfaces with Compliance-Tailored Anisotropic Drop Adhesion Hangbo Zhao, Sei Jin Park, Brian R. Solomon, Sanha Kim, Dan Soto, Adam T. Paxson, Kripa K. Varanasi, and A. John Hart. Advanced Materials
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Mobility of Yield Stress Fluids on Lubricant-Impregnated Surfaces Leonid Rapoport, Brian R. Solomon, and Kripa K. Varanasi. ACS Applied Materials Interfaces
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Enhancing the Performance of Viscous Electrode-Based Flow Batteries Using Lubricant-Impregnated Surfaces Brian R. Solomon, Xinwei Chen, Leonid Rapoport, Ahmed Helal, Gareth H. McKinley, Yet-Ming Chiang, and Kripa K. Varanasi, ACS Applied Energy Materials
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Design of a Spaceflight Biofilm Experiment Luis Zea, Zeena Nisar, Phil Rubin, Marta Cortesão, Jiaqi Luo, Samantha A. McBride, Ralf Moeller, David Klaus, Daniel Müller, Kripa K. Varanasi, Frank Muecklich, and Louis Stodieck. Acta Astronautica
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Short‐Fluorinated iCVD Coatings for Nonwetting Fabrics Dan Soto, Asli Ugur, Taylor A. Farnham, Karen K. Gleason, and Kripa K. Varanasi, Advanced Functional Materials
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Decreasing Hydroxylation Affinity of La(1-x)SrxMnO3 Perovskites to Promote Oxygen Reduction Electrocatalysis Kelsey A. Stoerzinger, Wesley T. Hong, Xiao Renshaw Wang, Reshma R. Rao, Srinivas Bengaluru Subramanyam, Changjian Li, Ariando, T. Venkatesan, Qiang Liu, Ethan J. Crumlin, Kripa K Varanasi, and Yang Shao-Horn, Chemistry of Materials
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Creating Nanoscale Emulsions Using Condensation Ingrid F. Guha, Sushant Anand, and Kripa K. Varanasi, Nature Communications
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Kinetics of Photoinduced Wettability Switching on Nanoporous Titania Surfaces under Oil Divya Panchanathan, Gibum Kwon, Talal F. Qahtan, Mohammad A. Gondal, Kripa K. Varanasi, and Gareth H. McKinley, Advanced Materials Interfaces
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Visible Light Guided Manipulation of Liquid Wettability on Photoresponsive Surfaces Gibum Kwon, Divya Panchanathan, Seyed Reza Mahmoudi, Mohammed A. Gondal , Gareth H. McKinley, and Kripa K. Varanasi, Nature Communication
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Designing Ultra-Low Hydrate Adhesion Surfaces by Interfacial Spreading of Water-Immiscible Barrier Films Arindam Das, Taylor A. Farnham, Srinivas Bengaluru Subramanyam, and Kripa K. Varanasi. ACS Applied Materials and Interfaces (Cover Article)
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Lubricant-Impregnated Surfaces, Chapter from the Book “Non-wettable Surfaces : Theory, Preparation and Applications” Brian R. Solomon, Srinivas Bengaluru Subramanyam, Taylor A. Farnham, Karim S. Khalil, Sushant Anand and Kripa K. Varanasi, From the book Non-wettable Surfaces : Theory, Preparation and Applications
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Solvent-induced crystallization of a polycarbonate surface and texture copying by polydimethylsiloxane for improved surface hydrophobicity B. S. Yilbas, H. Ali, N. Al-Aqeeli, M. Khaled, N. Abu-Dheir, and Kripa K. Varanasi, Journal of Applied Polymer Science
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Surface and wetting characteristics of textured bisphenol-A based polycarbonate surfaces: Acetone-induced crystallization texturing methods Ahmed Owais, Mazen M. Khaled, Bekir S. Yilbas, Numan Abu-Dheir, Kripa K. Varanasi, Kamal Y. Toumi, Journal of Applied Polymer Science
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Influence of dust and mud on the optical, chemical, and mechanical properties of a pv protective glass Bekir Sami. Yilbas, Haider Ali, Mazen M. Khaled, Nasser Al-Aqeeli, Numan Abu-Dheir, and Kripa K. Varanasi, Scientific Reports
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Critical heat flux maxima during boiling crisis on textured surfaces Navdeep S. Dhillon, Jacopo Buongiorno, Kripa K. Varanasi, Nature Communications
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Sustaining dry surfaces under water Paul R. Jones, Xiuqing Hao, Eduardo R. Cruz-Chu, Konrad Rykaczewski, Krishanu Nandy,Thomas M. Schutzius, Kripa K. Varanasi, Constantine M. Megaridis, Jens H. Walther, Petros Koumoutsakos, Horacio D. Espinosa, Neelesh A. Patankar, Scientific Reports
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Reactivity of Perovskites with Water: Role of Hydroxylation in Wetting and Implications for Oxygen Electrocatalysis Kelsey A. Stoerzinger, Wesley T. Hong, Gisele Azimi, Livia Giordano, Yueh-Lin Lee, Ethan J. Crumlin, Michael D. Biegalski, Hendrik Bluhm, Kripa K. Varanasi, and Yang Shao-Horn, Langmuir
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Low-Dimensional Conduction Mechanisms in Highly Conductive and Transparent Conjugated Polymers Asli Ugur, Ferhat Katmis, Mingda Li, Lijun Wu, Yimei Zhu, Kripa K. Varanasi, and Karen K. Gleason. Advanced Materials (Cover Article)
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Characteristics of laser textured silicon surface and effect of mud adhesion on hydrophobicity B.S. Yilbas, H. Ali, M. Khaled, N. Al-Aqeeli, N. Abu-Dheir, K.K. Varanasi, Applied Surface Science
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Inverted Leidenfrost-like Effect during Condensation Ramchandra Narhe, Sushant Anand, Konrad Rykaczewski, Marie-Gabrielle Medici, Wenceslao González-Viñas, Kripa K. Varanasi, and Daniel Beysens, Langmuir
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. How Droplets Nucleate and Grow on Liquids and Liquid Impregnated Surfaces Sushant Anand, Konrad Rykaczewski, Srinivas B. Subramanyam, Daniel Beysens, and Kripa K. Varanasi, Soft Matter
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Wetting and other physical characteristics of polycarbonate surface textured using laser ablation B.S. Yilbas, M. Khaled, N. Abu-Dheir, N. Al-Aqeeli, S.A.M. Said, A.O.M. Ahmed, K.K. Varanasi, and Y.K. Toumi, Applied Surface Science
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Drag Reduction using Lubricant-Impregnated Surfaces in Viscous Laminar Flow Brian R. Solomon, Karim S. Khalil, and Kripa K. Varanasi Langmuir
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Active surfaces: Ferrofluid-impregnated surfaces for active manipulation of droplets Karim S. Khalil, Seyed Reza Mahmoudi, Numan Abu-dheir, and Kripa K. Varanasi Applied Physics Letter
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Study of Factors Governing Oil–Water Separation Process Using TiO2 Films Prepared by Spray Deposition of Nanoparticle Dispersions Mohammed A. Gondal, Muhammad S. Sadullah, Mohamed A. Dastageer, Gareth H. McKinley, Divya Panchanathan, and Kripa K. Varanasi ACS Applied Materials & Interfaces
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Separating Oil-Water Nanoemulsions using Flux-Enhanced Hierarchical Membranes Brian R. Solomon, Md. Nasim Hyder & Kripa K. Varanasi. Scientific Reports
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Different Shades of Oxide: From Nanoscale Wetting Mechanisms to Contact Printing of Gallium-Based Liquid Metals Kyle Doudrick, Shanliangzi Liu, Eva M. Mutunga, Kate L. Klein, Viraj Damle, Kripa K. Varanasi, and Konrad Rykaczewski Langmuir
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Dropwise Condensation of Low Surface Tension Fluids on Omniphobic Surfaces Konrad Rykaczewski, Adam T. Paxson, Matthew Staymates, Marlon L. Walker, Xiaoda Sun, Sushant Anand, Siddarth Srinivasan, Gareth H. McKinley, Jeff Chinn, John Henry J. Scott, and Kripa K. Varanasi Scientific Reports
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Plasmon Resonance Enhanced Photocatalysis Under Visible Light with Au/Cu–TiO2 Nanoparticles: Removal Cr (VI) from Water as a Case of Study M.A. Gondal, M.A. Dastageer, S.G. Rashid, S.M. Zubair, M.A. Ali, D.H. Anjum, J.H. Lienhard, G.H. Mckinley, K.K. Varanasi Science of Advanced Materials
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Sol–Gel Synthesis of Au/Cu-TiO2 Nanocomposite and Their Morphological and Optical Properties M.A. Gondal, S.G. Rashid, M.A. Dastageer, S.M. Zubair, M.A. Ali, J.H. Lienhard, G.H. McKinley, and K.K. Varanasi IEEE Photonics Journal
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Reducing the contact time of a bouncing drop James C. Bird, Rajeev Dhiman, Hyuk-Min KwoN, and Kripa K. Varanasi Nature (Cover Article). Featured in Innovation in Textiles
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Electrostatic precursor films Seyed Reza Mahmoudi, Kazimierz Adamiak, G. S. Peter Castle and Kripa K. Varanasi, Soft Matter
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Mechanism of Frost Formation on Lubricant-Impregnated Surfaces K. Rykaczewski, S. Anand, S. B. Subramanyam, and K. K. Varanasi, Langmuir
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Visualization of contact line motion on hydrophobic textures K. M. Smyth, A. T. Paxson, H-M Kwon, K. K. Varanasi, Surface Innovations
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Self-similarity of contact line depinning from textured surfaces A. T. Paxson & K. K. Varanasi, Nature Communications
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Hydrophobicity of rare-earth oxide ceramics Gisele Azimi, Rajeev Dhiman, Hyuk-Min Kwon, Adam T. Paxson & Kripa K. Varanasi. Nature Materials
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Enhanced Condensation on Lubricant-Impregnated Nanotextured Surfaces Sushant Anand, Adam Paxson, Rajeev Dhiman, Jonathan D. Smith and Kripa K. Varanasi. ACS Nano
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Direct Imaging of Complex Nano- to Microscale Interfaces Involving Solid, Liquid, and Gas Phases Konrad Rykaczewski, T. Landin, M. L. Walker, J. Henry, J. Scott and Kripa Varanasi. ACS Nano
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Hydrate-Phobic Surfaces: Fundamental Studies in Clathrate Hydrate Adhesion Reduction Dave Smith, Adam J. Meuler, Harrison L. Bralower, Rama Venkatesan, Sivakumar Subramanian, Robert E. Cohen, Gareth H. McKinley, and Kripa K. Varanasi. Physical Chemistry Chemical Physics
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Hierarchical Polymeric Textures via Solvent-Induced Phase Transformation: a Single-Step Production of Large-Area Superhydrophobic Surfaces Y. H. Cui, A. T. Paxson, K. M. Smyth, and K. K. Varanasi. ACS Colloids & Surfaces A: Physiochemical and Engineering Aspects
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Size-Dependent Thermal Oxidation of Copper: Single-Step Synthesis of Hierarchical Nanostructures C. J. Love, J. D. Smith, Y. H. Cui, and K. K. Varanasi. Nanoscale
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Rapid Deceleration-Driven Wetting Transition during Pendant Drop Deposition on Superhydrophobic Surfaces H. Kwon, A. T. Paxson, K. K. Varanasi, and N. A. Patankar. Physical Review Letters
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Frost Formation and Ice Adhesion on Superhydrophobic Surfaces K. K. Varanasi, T. Deng, J. D. Smith, M. Hsu, and N. Bhate, Applied Physics Letters
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Relationships between Water Wettability and Ice Adhesion A. J. Meuler, J. D. Smith, K. K. Varanasi, J. Mabry, G. H. McKinley, and R. E. Cohen, ACS Applied Materials and Interfaces
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Spatial Control in the Heterogeneous Nucleation of Water K. K. Varanasi, M. Hsu, N. Bhate, W. Yang, and T. Deng, Applied Physics Letters
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
+
+1. Nonwetting of Impinging Droplets on Textured Surfaces T. Deng, K.K. Varanasi, M. Hsu, N. Bhate, C. Keimel, J. Stein, and M. Blohm, Applied Physics Letters
+
+    연도는 사이트의 분류 제목 기준이며, 개별 게재연도는 미표기입니다.
+    게시 페이지: <https://varanasi.mit.edu/publications/>
 
 ## MIT — David Wallace
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -12586,7 +18660,9 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:50:05.402Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage. / Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meche.mit.edu/people/faculty/sherwang@mit.edu>
 

@@ -5,7 +5,7 @@
   "lab_name": null,
   "lab_url": "https://sites.mit.edu/ddvlab/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/ddv@MIT.EDU"
+    "https://sites.mit.edu/ddvlab/publications/"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/ddv@MIT.EDU",
   "discovered_links": [
@@ -43,12 +43,1252 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
-    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "American Control Conference",
+      "year": 2026,
+      "citation_raw": "Jichi Wang, Eduardo D. Sontag, and Domitilla Del Vecchio American Control Conference 2026 May 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "American Control Conference",
+      "year": 2026,
+      "citation_raw": "I. Ruolo, E. Lu and D. Del Vecchio American Control Conference 2026 May 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "npc Systems Biology and Applications",
+      "year": 2026,
+      "citation_raw": "S. Bruno and D. Del Vecchio npc Systems Biology and Applications 2026 Mar 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Hengyu Wang and Domitilla Del Vecchio",
+      "year": 2026,
+      "citation_raw": "Hengyu Wang and Domitilla Del Vecchio IEEE Conf. on Decision and Control 2026 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2025 Dec 01",
+      "year": 2025,
+      "citation_raw": "K. Aravind-Manoj and D. Del Vecchio Cell Systems 2025 Dec 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Domitilla Del Vecchio",
+      "year": 2025,
+      "citation_raw": "Domitilla Del Vecchio Computational and Structural Biotechnology Journal 2025 Sep 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2025 Sep 01",
+      "year": 2025,
+      "citation_raw": "S. Palacios, S. Bruno, E. Salibi, R. Weiss, I. Goodchild-Michelman, A. Kane, K. Ilia, and D. Del Vecchio Cell Genomics 2025 Sep 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2025,
+      "citation_raw": "Nicholas Nolan, Emma L. Peterman, Kate E. Galloway, Eduardo D. Sontag, and Domitilla Del Vecchio Proc. of IEEE Conference on Decision and Control 2025 Aug 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Journal of Mathematical Biology",
+      "year": 2025,
+      "citation_raw": "Simone Bruno, Yi Fu, Felipe A. Campos, Domitilla Del Vecchio, and Ruth J. Williams Journal of Mathematical Biology 2025 Jul 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Current Opinion in Biotechnology",
+      "year": 2025,
+      "citation_raw": "S. Palacios, J. J. Collins, and D. Del Vecchio Current Opinion in Biotechnology 2025 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Guaranteeing System-level Properties in Genetic Circuits Subject to Context Effects",
+      "year": 2024,
+      "citation_raw": "Guaranteeing System-level Properties in Genetic Circuits Subject to Context Effects Inigo X. Incer, Ayush Pandey, Nicholas Nolan, Emma L. Peterman, Kate E. Galloway, Eduardo D. Sontag, and Domitilla Del Vecchio 2024 Aug 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Biosensors and Bioelectronics: X",
+      "year": 2024,
+      "citation_raw": "H. Du, S. Bruno, K. Overholt, S. Palacios, H.-H. Huang, C. Barajas, B. Gross, C. Lee, H. K. Evile, N. Rufino de Sousa, A. G. Rothfuchs, and D. Del Vecchio Biosensors and Bioelectronics: X 2024 May 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "SIAM Journal on Applied Dynamical Systems",
+      "year": 2024,
+      "citation_raw": "Simone Bruno, Felipe A. Campos, Yi Fu, Domitilla Del Vecchio, Ruth J. Williams SIAM Journal on Applied Dynamical Systems 2024 May 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Competition for binding targets results in paradoxical effects for simultaneous activator and repressor action",
+      "year": 2024,
+      "citation_raw": "Competition for binding targets results in paradoxical effects for simultaneous activator and repressor action M. Ali Al-Radhawi, Krishna Manoj, Dhruv Jatkar, Alon Duvall, Domitilla Del Vecchio, and Eduardo D. Sontag 2024 Mar 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. American Control Conference",
+      "year": 2024,
+      "citation_raw": "N. Nolan, MT Laub, and D. Del Vecchio Proc. American Control Conference 2024 Mar 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "npj Systems Biology and Applications",
+      "year": 2023,
+      "citation_raw": "S. Bruno, T. Schlaeger, and D. Del Vecchio npj Systems Biology and Applications 2023 Nov 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2023 Oct 01",
+      "year": 2023,
+      "citation_raw": "Katherine Ilia, Nika Shakiba, Trevor Bingham, Ross D. Jones, Michael M. Kaminski, Eliezer Aravera, Simone Bruno, Sebastian Palacios, Ron Weiss, James J. Collins, Domitilla Del Vecchio*, Thorsten M. Schlaeger* Science Advances 2023 Oct 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Conference on Decision and Control",
+      "year": 2023,
+      "citation_raw": "T. Grunberg and D. Del Vecchio IEEE Conference on Decision and Control 2023 Jul 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Conference on Decision and Control",
+      "year": 2023,
+      "citation_raw": "D. Hirsch, T. Grunberg, and D. Del Vecchio IEEE Conference on Decision and Control 2023 Jul 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Conference on Decision and Control",
+      "year": 2023,
+      "citation_raw": "C. E. Celeste Junior, I. Di Loreto, T. W. Grunberg, M. D. Di Benedetto, A. Borri, and D. Del Vecchio IEEE Conference on Decision and Control 2023 Jul 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Ted Grunberg and Domitilla Del Vecchio",
+      "year": 2023,
+      "citation_raw": "Ted Grunberg and Domitilla Del Vecchio SIAM Journal on Applied Dynamical Systems 2023 Apr 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Bulletin of Mathematical Biology",
+      "year": 2023,
+      "citation_raw": "Felipe A. Campos*, Simone Bruno*, Yi Fu, Domitilla Del Vecchio, and Ruth J. Williams Bulletin of Mathematical Biology 2023 Feb 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Journal Mathematics of Control, Signals, and Systems",
+      "year": 2023,
+      "citation_raw": "S. Bruno, R. Williams, and D. Del Vecchio Journal Mathematics of Control, Signals, and Systems 2023 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Nucleic Acids Research",
+      "year": 2023,
+      "citation_raw": "Ukjin Kwon, Hsin-Ho Huang, Jorge L. Chavez, Kathryn Beabout, Svetlana Harbaugh, and Domitilla Del Vecchio Nucleic Acids Research 2023 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2022 Oct 01",
+      "year": 2022,
+      "citation_raw": "C. Barajas, HH. Huang, J. Gibson, L. Sandoval, and D. Del Vecchio Nature Communications 2022 Oct 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Mathematics of Control, Signals, and Systems",
+      "year": 2022,
+      "citation_raw": "S. Bruno, R. Williams, and D. Del Vecchio Mathematics of Control, Signals, and Systems 2022 Sep 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "European Control Conference",
+      "year": 2022,
+      "citation_raw": "S. Bruno, R. Williams, and D. Del Vecchio European Control Conference 2022 Mar 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2022 Feb 01",
+      "year": 2022,
+      "citation_raw": "R.D. Jones, Y. Qian, K. Ilia, B. Wang, M.T. Laub, D. Del Vecchio*, R. Weiss* Nature Communications 2022 Feb 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2022 Feb 01",
+      "year": 2022,
+      "citation_raw": "K. Ilia and D. Del Vecchio GEN Biotechnology 2022 Feb 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "PLOS Computational Biology",
+      "year": 2022,
+      "citation_raw": "S. Bruno, R. Williams, and D. Del Vecchio PLOS Computational Biology 2022 Feb 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2022 Jan 01",
+      "year": 2022,
+      "citation_raw": "S. Bruno, R. Williams, and D. Del Vecchio IEEE CDC 2022 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2022 Jan 01",
+      "year": 2022,
+      "citation_raw": "T. Grunberg and D. Del Vecchio IEEE CDC 2022 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "ACS Synthetic Biology",
+      "year": 2021,
+      "citation_raw": "C. McBride and D. Del Vecchio ACS Synthetic Biology 2021 Oct 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Current Opinion in Systems Biology",
+      "year": 2021,
+      "citation_raw": "C. McBride, T. Grunberg, and D. Del Vecchio Current Opinion in Systems Biology 2021 Jul 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2021 May 01",
+      "year": 2021,
+      "citation_raw": "N. Shakiba, R. D. Jones, R. Weiss, and D. Del Vecchio Cell Systems 2021 May 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Trans. on Control of Network Systems",
+      "year": 2021,
+      "citation_raw": "Y. Qian and D. Del Vecchio IEEE Trans. on Control of Network Systems 2021 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2021 Jan 01",
+      "year": 2021,
+      "citation_raw": "H-H. Huang*, M. Bellato*, Y. QIan, P. Cardenas, L. Pasotti, P. Magni, and D. Del Vecchio Nature Communications 2021 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2020 Aug 01",
+      "year": 2020,
+      "citation_raw": "R. D. Jones, Y. Qian, V. Siciliano, B. DiAndreth, J. Huh, R. Weiss, and D. Del Vecchio Nature Communications 2020 Aug 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conf. on Decision and Control",
+      "year": 2020,
+      "citation_raw": "U. Kwan, M. Naghnaeian, and D. Del Vecchio Proc. IEEE Conf. on Decision and Control 2020 Jul 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "PLOS Comput. Biol",
+      "year": 2020,
+      "citation_raw": "C. Barajas and D. Del Vecchio PLOS Comput. Biol. 2020 Jul 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Transactions on Network Science and Engineering",
+      "year": 2020,
+      "citation_raw": "R. Shah and D. Del Vecchio IEEE Transactions on Network Science and Engineering 2020 Jun 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2020,
+      "citation_raw": "C. McBride and D. Del Vecchio Proc. of American Control Conference 2020 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "NANOCOM: The ACM International Conference on Nanoscale Computing and Communication",
+      "year": 2020,
+      "citation_raw": "F. Ratti, M. Magarini, and D. D. Vecchio NANOCOM: The ACM International Conference on Nanoscale Computing and Communication 2020 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Current Opinion in Biotechnology",
+      "year": 2019,
+      "citation_raw": "T. Grunberg and D. Del Vecchio Current Opinion in Biotechnology 2019 Nov 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2019 Oct 01",
+      "year": 2019,
+      "citation_raw": "C. McBride and D. Del Vecchio Automatica 2019 Oct 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of the IEEE",
+      "year": 2019,
+      "citation_raw": "C. McBride, R. Shah, and D. Del Vecchio Proc. of the IEEE 2019 Apr 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "PLOS Comput. Biol",
+      "year": 2019,
+      "citation_raw": "M. Ali Al-Radhawi, D. Del Vecchio, and E. D. Sontag PLOS Comput. Biol. 2019 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc of American Control Conference",
+      "year": 2019,
+      "citation_raw": "Ukjin Kwon, Mohammad Naghnaeian and Domitilla Del Vecchio Proc of American Control Conference 2019 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Carlos Barajas and Domitilla Del Vecchio",
+      "year": 2019,
+      "citation_raw": "Carlos Barajas and Domitilla Del Vecchio Proc of American Control Conference 2019 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc of American Control Conference",
+      "year": 2019,
+      "citation_raw": "Simone Bruno, M. Ali Al-Radhawi, Eduardo D. Sontag, and Domitilla Del Vecchio Proc of American Control Conference 2019 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE CDC, Accepted",
+      "year": 2019,
+      "citation_raw": "T. Grunberg and D. Del Vecchio IEEE CDC, Accepted 2019 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2018 Dec 01",
+      "year": 2018,
+      "citation_raw": "H-H. Huang*, Y. Qian*, and D. Del Vecchio Nature Communications 2018 Dec 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Conf. on Decision and Control",
+      "year": 2018,
+      "citation_raw": "C. McBride and D. Del Vecchio IEEE Conf. on Decision and Control 2018 Aug 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Conf. on Decision and Control",
+      "year": 2018,
+      "citation_raw": "M. Ali Al-Radhawi, N. S. Kumar, E. D. Sontag, and D. Del Vecchio IEEE Conf. on Decision and Control 2018 Aug 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Conf. on Decision and Control",
+      "year": 2018,
+      "citation_raw": "Y. Qian and D. Del Vecchio IEEE Conf. on Decision and Control 2018 Aug 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Conf. on Decision and Control",
+      "year": 2018,
+      "citation_raw": "P. Chen, Y. Qian, and D. Del Vecchio IEEE Conf. on Decision and Control 2018 Aug 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Conf. on Decision and Control",
+      "year": 2018,
+      "citation_raw": "R. Shah and D. Del Vecchio IEEE Conf. on Decision and Control 2018 Aug 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IFAC Annual Reviews in Control",
+      "year": 2018,
+      "citation_raw": "D. Del Vecchio, Y. Qian, R. M. Murray, and E. D. Sontag IFAC Annual Reviews in Control 2018 May 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Control Systems Letters",
+      "year": 2018,
+      "citation_raw": "Y. Qian and D. Del Vecchio IEEE Control Systems Letters 2018 May 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. American Control Conf",
+      "year": 2018,
+      "citation_raw": "Y. Qian, T. Grunberg, and D. Del Vecchio Proc. American Control Conf. 2018 Mar 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Journal of Chemical Physics",
+      "year": 2018,
+      "citation_raw": "N. Herath and D. Del Vecchio Journal of Chemical Physics 2018 Feb 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Journal of Royal Soc. Interface",
+      "year": 2018,
+      "citation_raw": "Y. Qian and D. Del Vecchio Journal of Royal Soc. Interface 2018 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Methods in Molecular Biology, Springer Nature",
+      "year": 2018,
+      "citation_raw": "H. Abdallah and D. Del Vecchio Methods in Molecular Biology, Springer Nature 2018 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Trans. on Aut. Control",
+      "year": 2018,
+      "citation_raw": "N. Herath and D. Del Vecchio IEEE Trans. on Aut. Control 2018 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Workshop Emerging Applications of Control and Systems Theory (EACST)",
+      "year": 2017,
+      "citation_raw": "Y. Qian and D. Del Vecchio Workshop Emerging Applications of Control and Systems Theory (EACST) 2017 Sep 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2017 Aug 01",
+      "year": 2017,
+      "citation_raw": "M. Ali, E. D. Sontag, and D. Del Vecchio q-Bio Conference 2017 Aug 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Annual Reviews in Control, Robotics, and Autonomous Systems",
+      "year": 2017,
+      "citation_raw": "Y. Qian, C. McBride, and D. Del Vecchio Annual Reviews in Control, Robotics, and Autonomous Systems 2017 Aug 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2017 Jul 01",
+      "year": 2017,
+      "citation_raw": "Ross Jones, Y. Qian, Ron Weiss, and Domitilla Del Vecchio SEED Conference 2017 Jul 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2017 Jun 01",
+      "year": 2017,
+      "citation_raw": "E. Yeung, A. J. Dy, K. B. Martin, A. H. Ng, D. Del Vecchio, J. L. Beck6, J. J. Collins, and R. M. Murray Cell Systems 2017 Jun 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Trans. Automatic Control",
+      "year": 2017,
+      "citation_raw": "H. Ahn and D. Del Vecchio IEEE Trans. Automatic Control 2017 Jun 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2017 Jun 01",
+      "year": 2017,
+      "citation_raw": "R. Shah and D. Del Vecchio Biophysical Journal 2017 Jun 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IFAC World Congress",
+      "year": 2017,
+      "citation_raw": "C. McBride and D. Del Vecchio Proc. IFAC World Congress 2017 Mar 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "ACS Synthetic Biology",
+      "year": 2017,
+      "citation_raw": "Y. Qian, H-H. Huang, J. Jimenez, and D. Del Vecchio ACS Synthetic Biology 2017 Mar 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2016 Nov 01",
+      "year": 2016,
+      "citation_raw": "D. Del Vecchio, H. Abdallah, Y. Qian, and J. J. Collins Cell Systems 2016 Nov 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2016 Jun 01",
+      "year": 2016,
+      "citation_raw": "Lee, J.W., Gyorgy, A., Cameron, D.E., Pyenson, N., Choi, K.R., Way, J.C., Silver, P.A., Del Vecchio, D., and Collins, J.J. Molecular Cell 2016 Jun 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Journal of the Royal Society Interface",
+      "year": 2016,
+      "citation_raw": "D. Del Vecchio, Y. Qian, and A. Dy Journal of the Royal Society Interface 2016 Jun 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Mammalian Synthetic Biology Workshop 3.0",
+      "year": 2016,
+      "citation_raw": "Ross Jones, Y. Qian, Velia Siciliano, Domitilla Del Vecchio, and Ron Weiss Mammalian Synthetic Biology Workshop 3.0 2016 May 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Discrete Event Dynamic Systems",
+      "year": 2016,
+      "citation_raw": "E. Dallal, A. Colombo, D. Del Vecchio, and S. Lafortune Discrete Event Dynamic Systems 2016 Apr 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "of Hybrid Systems: Computation and Control",
+      "year": 2016,
+      "citation_raw": "H. Ahn and D. Del Vecchio, ACM Proc. of Hybrid Systems: Computation and Control, 2016 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of to European Control Conference",
+      "year": 2016,
+      "citation_raw": "R. Shah and D. Del Vecchio, Proc. of to European Control Conference, 2016 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2016,
+      "citation_raw": "H. Abdallah, Y. Qian, and D. Del Vecchio, Proc. of American Control Conference, 2016 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2016,
+      "citation_raw": "N. Kumar and D. Del Vecchio, Proc. of American Control Conference 2016 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2016,
+      "citation_raw": "N. Herath and D. Del Vecchio Proc. of American Control Conference, 2016 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2016,
+      "citation_raw": "D. Hohener, G. Huang, and D. Del Vecchio Proc. of IEEE Conference on Decision and Control, 2016 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2016,
+      "citation_raw": "d. Hoehener and D. Del Vecchio, Proc. of IEEE Conference on Decision and Control, 2016 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2016,
+      "citation_raw": "Y. Qian and D. Del Vecchio Proc. of IEEE Conference on Decision and Control 2016 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2016,
+      "citation_raw": "N. Herath and D. Del Vecchio Proc. of IEEE Conference on Decision and Control, 2016 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Tsans. on Automation Science and Engineering",
+      "year": 2015,
+      "citation_raw": "M. Forghani, J. McNew, D. Hoehener, and D. Del Vecchio, IEEE Tsans. on Automation Science and Engineering, 2015 Nov 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2015 Jun 01",
+      "year": 2015,
+      "citation_raw": "A. Gyorgy, J. Jimenez, J. Yazbek, H.-H. Huang, H. Chung, R. Weiss and D. Del Vecchio, Biophysical Journal, 2015 Jun 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2015 May 01",
+      "year": 2015,
+      "citation_raw": "D. Bresch-Pietri and D. Del Vecchio Automatica, 2015 May 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "In Encyclopedia of Systems and Control, Baillieul, John, Samad, Tariq (Eds.), Springer",
+      "year": 2015,
+      "citation_raw": "D. Del Vecchio and R. M. Murray In Encyclopedia of Systems and Control, Baillieul, John, Samad, Tariq (Eds.), Springer 2015 Mar 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2015 Jan 01",
+      "year": 2015,
+      "citation_raw": "Y. Qian, H-H. Huang, and D. Del Vecchio. SEED Conference 2015 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IROS Conference",
+      "year": 2015,
+      "citation_raw": "H. Ahn and D. Del Vecchio . IROS Conference 2015 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2015,
+      "citation_raw": "Y. Qian and D. Del Vecchio Proc. of American Control Conference, 2015 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2015,
+      "citation_raw": "N. Herath, A. Hamadeh, and D. Del Vecchio Proc. of American Control Conference, 2015 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2015,
+      "citation_raw": "D. Hoehener, P. A. Green, and D. Del Vecchio, Proc. of American Control Conference 2015 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2015,
+      "citation_raw": "M. Forghani, J. McNew, D. Hoehener, and D. Del Vecchio Proc. of American Control Conference, 2015 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IROS",
+      "year": 2015,
+      "citation_raw": "H. Ahn, A Rizzi, A. Colombo and D. Del Vecchio, Proc. of IROS, 2015 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2015,
+      "citation_raw": "A. Hamadeh, E. D. Sontag and D. Del Vecchio Proc. of IEEE Conference on Decision and Control, 2015 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2015,
+      "citation_raw": "S. Mou and D. Del Vecchio Proc. of IEEE Conference on Decision and Control, 2015 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "US Patent 8,965,676",
+      "year": 2015,
+      "citation_raw": "MR Hafner, D Cunningham, L Caminiti, D Del Vecchio US Patent 8,965,676 2015 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Trans. Aut. Control",
+      "year": 2014,
+      "citation_raw": "A. Colombo and D. Del Vecchio IEEE Trans. Aut. Control 2014 Nov 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "ACS Synthetic Biology",
+      "year": 2014,
+      "citation_raw": "K. Nilgiriwala, J. Jimenez, P. M. Rivera, and D. Del Vecchio ACS Synthetic Biology 2014 Oct 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2014 Oct 01",
+      "year": 2014,
+      "citation_raw": "D. Del Vecchio and R. M. Murray Textbook 2014 Oct 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Del Vecchio(*), and R, Weiss(*)\\n \\n [(*)=co-corresponding authors ]",
+      "year": 2014,
+      "citation_raw": "D. Mishra, P. M. Rivera-Ortiz, A. Lin, D. Del Vecchio(*), and R. Weiss(*)\\n \\n [(*)=co-corresponding authors ] Nature Biotechnology 2014 Sep 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "PLOS Computational Biology, DOI: 10.1371/journal.pcbi.1003486",
+      "year": 2014,
+      "citation_raw": "A. Gyorgy and D. Del Vecchio, PLOS Computational Biology, DOI: 10.1371/journal.pcbi.1003486 2014 Mar 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conf. on Decision and Control",
+      "year": 2014,
+      "citation_raw": "A. Hamadeh and D. Del Vecchio Proc. IEEE Conf. on Decision and Control 2014 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conf. on Decision and Control",
+      "year": 2014,
+      "citation_raw": "A. Gyorgy and D. Del Vecchio. Proc. IEEE Conf. on Decision and Control, 2014 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conf. on Decision and Control",
+      "year": 2014,
+      "citation_raw": "P. M. Rivera and D. Del Vecchio Proc. IEEE Conf. on Decision and Control, 2014 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. American Control Conference",
+      "year": 2014,
+      "citation_raw": "D. Bresh-Pietri and D. Del Vecchio Proc. American Control Conference, 2014 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. American Control Conference",
+      "year": 2014,
+      "citation_raw": "H. Ahn and D. Del Vecchio Proc. American Control Conference, 2014 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. American Control Conference",
+      "year": 2014,
+      "citation_raw": "N. Herath and D. Del Vecchio Proc. American Control Conference, 2014 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. American Control Conference",
+      "year": 2014,
+      "citation_raw": "P. M. Rivera and D. Del Vecchio. Proc. American Control Conference 2014 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2014 Jan 01",
+      "year": 2014,
+      "citation_raw": "A. Gyorgy, J. Jimenez, D. Del Vecchio SEED Conference 2014 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "U.S. Patent 8639437",
+      "year": 2014,
+      "citation_raw": "L. Caminiti, E. Quisenberry, C. Peplin, D. Del Vecchio, and R. Verma. U.S. Patent 8639437, 2014 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2013,
+      "citation_raw": "D. Del Vecchio IFAC Reviews in Control, Vol 37(2):333-345 2013 Dec 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "ACS Synthetic Biology",
+      "year": 2013,
+      "citation_raw": "S. Jayanthi, K. Nilgiriwala, and D. Del Vecchio ACS Synthetic Biology 2013 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Trans. Intelligent Transportation Systems",
+      "year": 2013,
+      "citation_raw": "M. Hafner, D. Cunningham, L. Caminiti, and D. Del Vecchio, IEEE Trans. Intelligent Transportation Systems 2013 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Trans. Automatic Control",
+      "year": 2013,
+      "citation_raw": "R. Ghaemi and D. Del Vecchio IEEE Trans. Automatic Control 2013 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "International Conference on Systems Biology",
+      "year": 2013,
+      "citation_raw": "A. Gyorgy and D. Del Vecchio International Conference on Systems Biology 2013 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "International Conference on Systems Biology",
+      "year": 2013,
+      "citation_raw": "D. Mishra, P. M. Rivera-Ortiz, D. Del Vecchio, and R. Weiss International Conference on Systems Biology, 2013 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. American Control Conference",
+      "year": 2013,
+      "citation_raw": "E. Dallal, A. Colombo, D. Del Vecchio and S. Lafortune. Proc. American Control Conference, 2013 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. American Control Conference",
+      "year": 2013,
+      "citation_raw": "P. M. Rivera and D. Del Vecchio. Proc. American Control Conference 2013 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2013,
+      "citation_raw": "D. Del Vecchio Proc. IFAC Symposium on Nonlinear Control Systems (NOLCOS) 2013 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conference on Decision and Control",
+      "year": 2013,
+      "citation_raw": "L. Bruni, A. Colombo, and D. Del Vecchio Proc. IEEE Conference on Decision and Control 2013 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conference on Decision and Control",
+      "year": 2013,
+      "citation_raw": "A. Gyorgy and D. Del Vecchio. . Proc. IEEE Conference on Decision and Control 2013 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conference on Decision and Control",
+      "year": 2013,
+      "citation_raw": "E. Dallal, A. Colombo, D. Del Vecchio, and S. Lafortune Proc. IEEE Conference on Decision and Control 2013 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2012 Jan 01",
+      "year": 2012,
+      "citation_raw": "S. Jayanthi and D. Del Vecchio, PLoS ONE 2012 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Trans. Aut. Control",
+      "year": 2012,
+      "citation_raw": "D. Del Vecchio and J-J. Slotine IEEE Trans. Aut. Control 2012 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Organizer: D. Del Vecchio",
+      "year": 2012,
+      "citation_raw": "Organizer: D. Del Vecchio American Control Conference 2012 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "The 5th Annual q-bio Conference on Cellular Information Processing",
+      "year": 2012,
+      "citation_raw": "S. Jayanthi and D. Del Vecchio The 5th Annual q-bio Conference on Cellular Information Processing, 2012 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "International Conference on Systems Biology",
+      "year": 2012,
+      "citation_raw": "K. Nilgiriwala, P. M. Rivera, and D. Del Vecchio. International Conference on Systems Biology 2012 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "International Conference on Systems Biology",
+      "year": 2012,
+      "citation_raw": "A. Gyorgy and D. Del Vecchio International Conference on Systems Biology, 2012 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Hybrid Systems: Computation and Control",
+      "year": 2012,
+      "citation_raw": "A. Colombo and D. Del Vecchio . Hybrid Systems: Computation and Control, 2012 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. American Control Conference",
+      "year": 2012,
+      "citation_raw": "R. Ghaemi and D. Del Vecchio Proc. American Control Conference 2012 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conf. on Decision and Control",
+      "year": 2012,
+      "citation_raw": "A. Gyorgy and D. Del Vecchio. Proc. IEEE Conf. on Decision and Control 2012 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "SB5.0: The 5th International Meeting on Synthetic Biology",
+      "year": 2011,
+      "citation_raw": "S. Jayanthi and D. Del Vecchio SB5.0: The 5th International Meeting on Synthetic Biology 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conf. on Decision and Control",
+      "year": 2011,
+      "citation_raw": "R. Verma and D. Del Vecchio. Proc. IEEE Conf. on Decision and Control 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conf. on Decision and Control",
+      "year": 2011,
+      "citation_raw": "R. Ghaemi and D. Del Vecchio. Proc. IEEE Conf. on Decision and Control, 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conf. on Decision and Control",
+      "year": 2011,
+      "citation_raw": "A. Colombo and D. Del Vecchio Proc. IEEE Conf. on Decision and Control, 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conf. on Decision and Control",
+      "year": 2011,
+      "citation_raw": "H. R. Ossareh and D. Del Vecchio Proc. IEEE Conf. on Decision and Control 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. IEEE Conf. on Decision and Control",
+      "year": 2011,
+      "citation_raw": "D. Del Vecchio and J-J. Slotine Proc. IEEE Conf. on Decision and Control, 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of International IEEE Conference on Intelligent Transportation Systems",
+      "year": 2011,
+      "citation_raw": "R. Verma and D. Del Vecchio. Proc. of International IEEE Conference on Intelligent Transportation Systems 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of World Congress on Intelligent Transport Systems",
+      "year": 2011,
+      "citation_raw": "M. Hafner, D. Cunningham, L. Caminiti, and D. Del Vecchio Proc. of World Congress on Intelligent Transport Systems 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. American Control Conference",
+      "year": 2011,
+      "citation_raw": "S. Jayanthi, A. Rosenberg, and D. Del Vecchio Proc. American Control Conference, 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2011,
+      "citation_raw": "D. Del Vecchio IEEE Biomedical Circuits & Systems Conference, 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE/ACM Second International Conference on Cyber-Physical Systems",
+      "year": 2011,
+      "citation_raw": "A. Colombo and D. Del Vecchio. IEEE/ACM Second International Conference on Cyber-Physical Systems 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2011,
+      "citation_raw": "D. Del Vecchio 33rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "The 5th Annual q-bio Conference on Cellular Information Processing",
+      "year": 2011,
+      "citation_raw": "P. Jiang, A. C. Ventura, S. Merajver, E. D. Sontag, A. J. Ninfa, and D. Del Vecchio. The 5th Annual q-bio Conference on Cellular Information Processing, 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Trans. Aut. Control, vol. 56(4), pages 748-761",
+      "year": 2011,
+      "citation_raw": "S. Jayanthi and D. Del Vecchio IEEE Trans. Aut. Control, vol. 56(4), pages 748-761 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2011,
+      "citation_raw": "D. Del Vecchio In Design and Analysis of Bio-molecular Circuits, H. Koeppl, D. Densmore, M. di Bernardo, G. Setti 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "on Control and Optimization",
+      "year": 2011,
+      "citation_raw": "M. Hafner and D. Del Vecchio, SIAM J. on Control and Optimization, 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Robotics and Automation Magazine, Vol. 18, Issue 3, page(s) 44 – 54",
+      "year": 2011,
+      "citation_raw": "R. Verma and D. Del Vecchio, IEEE Robotics and Automation Magazine, Vol. 18, Issue 3, page(s) 44 – 54 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Biophysical Journal, vol. 100(7):1617-1626",
+      "year": 2011,
+      "citation_raw": "H. R. Ossareh, A. C. Ventura, S. D. Merajver, and D. Del Vecchio, Biophysical Journal, vol. 100(7):1617-1626 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Trans. Aut. Control",
+      "year": 2011,
+      "citation_raw": "R. Verma and D. Del Vecchio IEEE Trans. Aut. Control, 2011 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. Natl. Acad. Sci. USA, vol. 107(22), pages 10032-10037",
+      "year": 2010,
+      "citation_raw": "A. C. Ventura, P. Jiang, L. Van Wassenhove, D. Del Vecchio, S. D. Merajver, and A. J. Ninfa, Proc. Natl. Acad. Sci. USA, vol. 107(22), pages 10032-10037 2010 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "International Conference on Systems Biology",
+      "year": 2010,
+      "citation_raw": "H. R. Ossareh, A. C. Ventura, S. D. Merajver, and D. Del Vecchio. International Conference on Systems Biology 2010 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "International Conference on Systems Biology",
+      "year": 2010,
+      "citation_raw": "P. Jiang, A. C. Ventura, S. D. Merajver, A. J. Ninfa, and D. Del Vecchio. International Conference on Systems Biology, 2010 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE International Symposium on Circuits and Systems (ISCAS)",
+      "year": 2010,
+      "citation_raw": "S. Jayanthi and D. Del Vecchio. Proc. of IEEE International Symposium on Circuits and Systems (ISCAS), 2010 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of Dynamic Systems and Control Conference",
+      "year": 2010,
+      "citation_raw": "A. C. Ventura, P. Jiang, L. Van Wassenhove, A. J. Ninfa, S. D. Merajver, and D. Del Vecchio. Proc. of Dynamic Systems and Control Conference 2010 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE/RSJ International Conference on Intelligent Robots and Systems",
+      "year": 2010,
+      "citation_raw": "J. Duperret, M. Hafner, and D. Del Vecchio. Proc. of IEEE/RSJ International Conference on Intelligent Robots and Systems, 2010 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2010,
+      "citation_raw": "R. Verma and D. Del Vecchio. Proc. of IEEE Conference on Decision and Control, 2010 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2009,
+      "citation_raw": "D. Del Vecchio International Journal of Robust and Nonlinear Control–Special Issue, vol. 19(14), pages 1581-1602, 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Special Issue of the European Journal of Control, vol. 15 (3-4)",
+      "year": 2009,
+      "citation_raw": "D. Del Vecchio and E. D. Sontag Special Issue of the European Journal of Control, vol. 15 (3-4), 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE Transactions on Nanobioscience, 8(3):281-9",
+      "year": 2009,
+      "citation_raw": "P. Varadarajan and D. Del Vecchio. IEEE Transactions on Nanobioscience, 8(3):281-9 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "2009 Jan 01",
+      "year": 2009,
+      "citation_raw": "R. Ghaemi, J. Sun, P. Iglesias, and D. Del Vecchio. BMC Systems Biology, 3:95, 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "In Control Theory and Systems Biology, P. A, Iglesias and B. P, Ingalls (Eds)",
+      "year": 2009,
+      "citation_raw": "D. Del Vecchio and E. D. Sontag In Control Theory and Systems Biology, P. A. Iglesias and B. P. Ingalls (Eds), pages 101-124, The MI 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2009,
+      "citation_raw": "D. Del Vecchio, Institute for Biological Engineering Conference 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2009,
+      "citation_raw": "D. Del Vecchio Second Workshop on Numerical Software Verification 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of European Control Conference (ECC)",
+      "year": 2009,
+      "citation_raw": "D. Del Vecchio and E. D. Sontag. Proc. of European Control Conference (ECC), 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2009,
+      "citation_raw": "D. Del Vecchio, M. Malisoff, and R. Verma Proc. of American Control Conference 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of International Conference on Robotics and Automation (ICRA)",
+      "year": 2009,
+      "citation_raw": "V. Desaraju, H. C. Ro, M. Yang, E. Tay, S. Roth, D. Del Vecchio Proc. of International Conference on Robotics and Automation (ICRA) 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2009,
+      "citation_raw": "E. Franco, D. Del Vecchio and R. M. Murray. Proc. of IEEE Conference on Decision and Control, 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2009,
+      "citation_raw": "S. Jayanthi and D. Del Vecchio. Proc. of IEEE Conference on Decision and Control 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2009,
+      "citation_raw": "R. Verma and D. Del Vecchio. Proc. of IEEE Conference on Decision and Control, 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2009,
+      "citation_raw": "M. Hafner and D. Del Vecchio. Proc. of IEEE Conference on Decision and Control, 2009 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2008,
+      "citation_raw": "D. Del Vecchio and S. Jayanthi. Proc. of IEEE Conference on Decision and Control 2008 Dec 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of the Dynamic Systems and Control Conference",
+      "year": 2008,
+      "citation_raw": "R. Verma, D. Del Vecchio, and H. Fathy. Proc. of the Dynamic Systems and Control Conference, 2008 Oct 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2008,
+      "citation_raw": "D. Del Vecchio, A. J. Ninfa, and E. D. Sontag Proc. of American Control Conference, 2008 Jun 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "IEEE/ASME Transactions on Mechatronics, vol. 13(1), pp. 46-57",
+      "year": 2008,
+      "citation_raw": "R. Verma, D. Del Vecchio, and H. Fathy. IEEE/ASME Transactions on Mechatronics, vol. 13(1), pp. 46-57 2008 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Nature/EMBO Molecular Systems Biology, 4:161",
+      "year": 2008,
+      "citation_raw": "D. Del Vecchio, A. J. Ninfa, and E. D. Sontag Nature/EMBO Molecular Systems Biology, 4:161 2008 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2008,
+      "citation_raw": "D. Del Vecchio. Systems & Control Letters, pages 842-850 2008 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "In Cooperative Control of Distributed Multi-Agent Systems, J. Shamma (Ed), pages 377-407, John Wiley",
+      "year": 2008,
+      "citation_raw": "D. Del Vecchio and R. M. Murray In Cooperative Control of Distributed Multi-Agent Systems, J. Shamma (Ed), pages 377-407, John Wiley 2008 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2007,
+      "citation_raw": "R. Ghaemi and D. Del Vecchio. Proc. of IEEE Conference on Decision and Control 2007 Dec 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2007,
+      "citation_raw": "D. Del Vecchio. Proc. of IEEE Conference on Decision and Control 2007 Dec 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2007,
+      "citation_raw": "D. Del Vecchio and E.D. Sontag Proc. of American Control Conference, 2007 Jul 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2007,
+      "citation_raw": "D. Del Vecchio Proc. of American Control Conference 2007 Jul 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "D. Del Vecchio",
+      "year": 2007,
+      "citation_raw": "D. Del Vecchio Proc. of Conference on Decision and Control 2007 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "International Conference on Systems Biology",
+      "year": 2007,
+      "citation_raw": "D. Del Vecchio, A. J. Ninfa, and E. D. Sontag International Conference on Systems Biology 2007 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of Conference on Decision and Control",
+      "year": 2007,
+      "citation_raw": "Organizer: D. Del Vecchio Contributors: Jean-Francois Raskin (Computer Science Dept., Universite Libre de Bruxelles), Georgios E. Fainekos and G Pappas (GRASP Lab, Upenn), Edward A. Lee (EECS, UC Berkeley), Derek Caveney and Lorenzo Caminiti (Toyota Tech Proc. of Conference on Decision and Control, 2007 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Automatica, vol. 42, pp. 271-285",
+      "year": 2006,
+      "citation_raw": "D. Del Vecchio, R. M. Murray, and E. Klavins Automatica, vol. 42, pp. 271-285 2006 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Journal of Process Control, vol. 15, pp. 771-784",
+      "year": 2005,
+      "citation_raw": "D. Del Vecchio and N. Petit. Journal of Process Control, vol. 15, pp. 771-784 2005 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2005,
+      "citation_raw": "H. El Samad, D. Del Vecchio, and M. Khammash. Proc. of American Control Conference, 2005 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Hybrid Systems: Computation a nd Control",
+      "year": 2005,
+      "citation_raw": "D. Del Vecchio and R.M. Murray. Hybrid Systems: Computation a nd Control, 2005 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IFAC",
+      "year": 2005,
+      "citation_raw": "D. Del Vecchio and R.M. Murray. Proc. of IFAC 2005 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Hybrid Systems: Computation and Control",
+      "year": 2004,
+      "citation_raw": "D. Del Vecchio and R. M. Murray. Hybrid Systems: Computation and Control 2004 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference(Winner of best student paper competition)",
+      "year": 2004,
+      "citation_raw": "M. B. Reiser, J. S. Humbert, M. J. Dunlop, D. Del Vecchio, R. M. Murray, M. H. Dickinson. Proc. of American Control Conference(Winner of best student paper competition) 2004 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of International Conference of Robotics and Automation",
+      "year": 2004,
+      "citation_raw": "C. L. Walton, D. Del Vecchio, and R. M. Murray. Proc. of International Conference of Robotics and Automation 2004 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IEEE Conference on Decision and Control",
+      "year": 2004,
+      "citation_raw": "D. Del Vecchio and R.M. Murray. Proc. of IEEE Conference on Decision and Control, 2004 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "European Journal of Control, vol. 9, Nb. 5",
+      "year": 2003,
+      "citation_raw": "D. Del Vecchio, R. Marino, and P. Tomei European Journal of Control, vol. 9, Nb. 5 2003 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Automatica, vol. 39(12), pp. 2085-2098",
+      "year": 2003,
+      "citation_raw": "D. Del Vecchio, R. M. Murray, and P. Perona. Automatica, vol. 39(12), pp. 2085-2098 2003 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc of. American Control Conference",
+      "year": 2003,
+      "citation_raw": "D. Del Vecchio, R. M. Murray, and P. Perona Proc of. American Control Conference 2003 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of European Control Conference",
+      "year": 2003,
+      "citation_raw": "D. Del Vecchio, R. M. Murray, and P. Perona. Proc. of European Control Conference 2003 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc of IEEE Conference on Decision and Control",
+      "year": 2003,
+      "citation_raw": "D. Del Vecchio and E. Klavins. Proc of IEEE Conference on Decision and Control, 2003 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "International Journal of Adaptive Control and Signal Processing, vol. 16, pp. 635-652",
+      "year": 2002,
+      "citation_raw": "D. Del Vecchio, R. Marino, and P. Tomei. International Journal of Adaptive Control and Signal Processing, vol. 16, pp. 635-652 2002 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of IFAC",
+      "year": 2002,
+      "citation_raw": "D. Del Vecchio, R. M. Murray, and P. Perona Proc. of IFAC 2002 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    },
+    {
+      "title": "Proc. of American Control Conference",
+      "year": 2001,
+      "citation_raw": "D. Del Vecchio, R. Marino, and P. Tomei Proc. of American Control Conference 2001 Jan 01",
+      "source_url": "https://sites.mit.edu/ddvlab/publications/"
+    }
+  ]
 }

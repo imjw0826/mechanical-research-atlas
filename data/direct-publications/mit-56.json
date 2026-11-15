@@ -5,7 +5,7 @@
   "lab_name": null,
   "lab_url": "https://marinerobotics.mit.edu/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU"
+    "https://marinerobotics.mit.edu/publications"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU",
   "discovered_links": [
@@ -27,13 +27,1936 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
-    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete.",
-    "Official profile heading records PI as John Leonard; original roster PI John J Leonard. Official source: https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU"
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "NeuSE: Neural SE(3)-Equivariant Embedding for Long-Term Object-Based SLAM",
+      "year": 2026,
+      "citation_raw": "J. Fu, Y. Du, K. Singh, J. B. Tenenbaum, and J. J. Leonard, “NeuSE: Neural SE(3)-Equivariant Embedding for Long-Term Object-Based SLAM,” Intl. J. of Robotics Research, vol. 45, no. 1, pp. 159–189, 2026.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting",
+      "year": 2026,
+      "citation_raw": "D. Yang, J. Hong, J. J. Leonard, and Y. Girdhar, “ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting,” arXiv preprint arXiv:2604.11992, 2026.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Semantic Enhancement for Object SLAM with Heterogeneous Multimodal Large Language Model Agents",
+      "year": 2025,
+      "citation_raw": "J. Hong, R. Choi, and J. J. Leonard, “Semantic Enhancement for Object SLAM with Heterogeneous Multimodal Large Language Model Agents,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2025.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "3DGS-CD: 3D Gaussian Splatting-Based Change Detection for Physical Object Rearrangement",
+      "year": 2025,
+      "citation_raw": "Z. Lu, J. Ye, and J. Leonard, “3DGS-CD: 3D Gaussian Splatting-Based Change Detection for Physical Object Rearrangement,” IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2662–2669, 2025.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching",
+      "year": 2025,
+      "citation_raw": "K. Singh and J. Leonard, “Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2025, pp. 1706–1712.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model",
+      "year": 2025,
+      "citation_raw": "D. Yang, J. J. Leonard, and Y. Girdhar, “SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2025, pp. 7632–7638.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "From Geoacoustic Inversion to Seabed Tomography Using a Distributed Network of Sources and Receivers",
+      "year": 2025,
+      "citation_raw": "J. Bonnel, A. Vardi, J. Leonard, and S. E. Dosso, “From Geoacoustic Inversion to Seabed Tomography Using a Distributed Network of Sources and Receivers,” The Journal of the Acoustical Society of America, vol. 157, no. 4_Supplement, p. A196, 2025.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "The Neverwhere Visual Parkour Benchmark Suite",
+      "year": 2025,
+      "citation_raw": "Z. Chen, H. Chang, H. Bao, R. Choi, A. Yu, R.-Z. Qiu, Y. Ravan, J. J. Leonard, X. Wang, P. Isola, Y. Wang, and G. Yang, “The Neverwhere Visual Parkour Benchmark Suite.” 2025.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "ShapeICP: Iterative Category-Level Object Pose and Shape Estimation from Depth",
+      "year": 2025,
+      "citation_raw": "Y. Zhang, H. S. Sawhney, and J. J. Leonard, “ShapeICP: Iterative Category-Level Object Pose and Shape Estimation from Depth,” IEEE Robotics and Automation Letters, 2025.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "MAC: Graph Sparsification by Maximizing Algebraic Connectivity",
+      "year": 2024,
+      "citation_raw": "K. Doherty, A. Papalia, Y. Huang, D. Rosen, B. Englot, and J. Leonard, “MAC: Graph Sparsification by Maximizing Algebraic Connectivity,” arXiv preprint arXiv:2403.19879, 2024.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "An Overview of the Burer-Monteiro Method for Certifiable Robot Perception",
+      "year": 2024,
+      "citation_raw": "A. Papalia, Y. Tian, D. M. Rosen, J. P. How, and J. J. Leonard, “An Overview of the Burer-Monteiro Method for Certifiable Robot Perception,” arXiv preprint arXiv:2410.00117, 2024.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Certifiably Correct Range-Aided SLAM",
+      "year": 2024,
+      "citation_raw": "A. Papalia, A. Fishberg, B. W. O’Neill, J. P. How, D. M. Rosen, and J. J. Leonard, “Certifiably Correct Range-Aided SLAM,” IEEE Trans. Robotics, vol. 40, pp. 4265–4283, 2024.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "LOSS-SLAM: Lightweight Open-Set Semantic Simultaneous Localization and Mapping",
+      "year": 2024,
+      "citation_raw": "K. Singh, T. Magoun, and J. J. Leonard, “LOSS-SLAM: Lightweight Open-Set Semantic Simultaneous Localization and Mapping,” arXiv preprint arXiv:2404.04377, 2024.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments",
+      "year": 2024,
+      "citation_raw": "K. Singh, J. Hong, N. R. Rypkema, and J. J. Leonard, “Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2024.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "The Spurdog AUV: A Field Configurable and Optionally A-Sized Low-Cost AUV",
+      "year": 2024,
+      "citation_raw": "R. Turrisi, H. Huang, F. Strömstad, J. Morrison, A. Papalia, J. Leonard, and M. R. Benjamin, “The Spurdog AUV: A Field Configurable and Optionally A-Sized Low-Cost AUV,” in IEEE/OES Autonomous Underwater Vehicles Symposium, 2024, pp. 1–6.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Learning Visual Parkour from Generated Images",
+      "year": 2024,
+      "citation_raw": "A. Yu, G. Yang, R. Choi, Y. Ravan, J. Leonard, and P. Isola, “Learning Visual Parkour from Generated Images,” in 8th Annual Conference on Robot Learning (CoRL), 2024.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Estimation of the Spatial Variability of the New England Mud Patch Geoacoustic Properties Using a Distributed Array of Hydrophones and Deep Learning",
+      "year": 2024,
+      "citation_raw": "A. Vardi, P. H. Dahl, D. Dall’Osto, D. Knobles, P. Wilson, J. Leonard, and J. Bonnel, “Estimation of the Spatial Variability of the New England Mud Patch Geoacoustic Properties Using a Distributed Array of Hydrophones and Deep Learning,” The Journal of the Acoustical Society of America, vol. 156, no. 6, pp. 4229–4241, 2024.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Comparative Analysis of Maneuvering Strategies for Cooperative Range-based Localization",
+      "year": 2023,
+      "citation_raw": "M. Flynn, B. W. O’Neill, D. P. Hart, and J. J. Leonard, “A Comparative Analysis of Maneuvering Strategies for Cooperative Range-based Localization,” in OCEANS 2023-Limerick, 2023.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "NeuSE: Neural SE (3)-Equivariant Embedding for Consistent Spatial Understanding with Objects",
+      "year": 2023,
+      "citation_raw": "J. Fu, Y. Du, K. Singh, J. B. Tenenbaum, and J. J. Leonard, “NeuSE: Neural SE (3)-Equivariant Embedding for Consistent Spatial Understanding with Objects,” in Proceedings of Robotics: Science and Systems (RSS), 2023.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "GAPSLAM: Blending Gaussian Approximation and Particle Filters for Real-Time Non-Gaussian SLAM",
+      "year": 2023,
+      "citation_raw": "Q. Huang and J. J. Leonard, “GAPSLAM: Blending Gaussian Approximation and Particle Filters for Real-Time Non-Gaussian SLAM,” IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2023.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Optimizing fiducial marker placement for improved visual localization",
+      "year": 2023,
+      "citation_raw": "Q. Huang, J. DeGol, V. Fragoso, S. N. Sinha, and J. J. Leonard, “Optimizing fiducial marker placement for improved visual localization,” IEEE Robotics and Automation Letters, vol. 8, no. 5, pp. 2756–2763, 2023.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Certifiably Correct Range-Aided SLAM",
+      "year": 2023,
+      "citation_raw": "A. Papalia, A. Fishberg, B. W. O’Neill, J. P. How, D. M. Rosen, and J. J. Leonard, “Certifiably Correct Range-Aided SLAM,” arXiv preprint arXiv:2302.11614, 2023.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "SCORE: A second-order conic initialization for range-aided SLAM",
+      "year": 2023,
+      "citation_raw": "A. Papalia, J. Morales, K. J. Doherty, D. M. Rosen, and J. J. Leonard, “SCORE: A second-order conic initialization for range-aided SLAM,” in 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023, pp. 10637–10644.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "NeRF-SLAM: Real-time dense monocular slam with neural radiance fields",
+      "year": 2023,
+      "citation_raw": "A. Rosinol, J. J. Leonard, and L. Carlone, “NeRF-SLAM: Real-time dense monocular slam with neural radiance fields,” IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2023.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Probabilistic volumetric fusion for dense monocular SLAM",
+      "year": 2023,
+      "citation_raw": "A. Rosinol, J. J. Leonard, and L. Carlone, “Probabilistic volumetric fusion for dense monocular SLAM,” in Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2023, pp. 3097–3105.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Attention-based Self-Supervised Hierarchical Semantic Segmentation for Underwater Imagery",
+      "year": 2023,
+      "citation_raw": "K. Singh, N. Rypkema, and J. Leonard, “Attention-based Self-Supervised Hierarchical Semantic Segmentation for Underwater Imagery,” in OCEANS 2023-Limerick, 2023.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Data-Association-Free Landmark-based SLAM",
+      "year": 2023,
+      "citation_raw": "Y. Zhang, O. A. Severinsen, J. J. Leonard, L. Carlone, and K. Khosoussi, “Data-Association-Free Landmark-based SLAM,” arXiv preprint arXiv:2302.13264, 2023.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Performance guarantees for spectral initialization in rotation averaging and pose-graph SLAM",
+      "year": 2022,
+      "citation_raw": "K. J. Doherty, D. M. Rosen, and J. J. Leonard, “Performance guarantees for spectral initialization in rotation averaging and pose-graph SLAM,” in 2022 International Conference on Robotics and Automation (ICRA), 2022, pp. 5608–5614.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Spectral measurement sparsification for pose-graph SLAM",
+      "year": 2022,
+      "citation_raw": "K. J. Doherty, D. M. Rosen, and J. J. Leonard, “Spectral measurement sparsification for pose-graph SLAM,” in 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, pp. 01–08.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Discrete-continuous smoothing and mapping",
+      "year": 2022,
+      "citation_raw": "K. J. Doherty, Z. Lu, K. Singh, and J. J. Leonard, “Discrete-continuous smoothing and mapping,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 12395–12402, 2022.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Robust Change Detection Based on Neural Descriptor Fields",
+      "year": 2022,
+      "citation_raw": "J. Fu, Y. Du, K. Singh, J. B. Tenenbaum, and J. J. Leonard, “Robust Change Detection Based on Neural Descriptor Fields,” in 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, pp. 2817–2824.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "PlaneSDF-Based Change Detection for Long-Term Dense Mapping",
+      "year": 2022,
+      "citation_raw": "J. Fu, C. Lin, Y. Taguchi, A. Cohen, Y. Zhang, S. Mylabathula, and J. J. Leonard, “PlaneSDF-Based Change Detection for Long-Term Dense Mapping,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 9667–9674, 2022.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Nested Sampling for Non-Gaussian Inference in SLAM Factor Graphs",
+      "year": 2022,
+      "citation_raw": "Q. Huang, A. Papalia, and J. J. Leonard, “Nested Sampling for Non-Gaussian Inference in SLAM Factor Graphs,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 9232–9239, 2022.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Incremental non-Gaussian inference for SLAM using normalizing flows",
+      "year": 2022,
+      "citation_raw": "Q. Huang, C. Pu, K. Khosoussi, D. M. Rosen, D. Fourie, J. P. How, and J. J. Leonard, “Incremental non-Gaussian inference for SLAM using normalizing flows,” IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1458–1475, 2022.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "SLAM-Supported Self-Training for 6D Object Pose Estimation",
+      "year": 2022,
+      "citation_raw": "Z. Lu, Y. Zhang, K. Doherty, O. A. Severinsen, E. Yang, and J. Leonard, “SLAM-Supported Self-Training for 6D Object Pose Estimation,” arXiv preprint arXiv:2203.04424, 2022.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Loosely-Coupled Human-Robot Teams for Enhanced Undersea Operations",
+      "year": 2022,
+      "citation_raw": "B. W. O’Neill, J. R. Pelletier, S. Calvert, A. Papalia, J. J. Leonard, L. Freitag, and E. Gallimore, “Loosely-Coupled Human-Robot Teams for Enhanced Undersea Operations,” in OCEANS 2022, Hampton Roads, 2022.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Prioritized Planning for Cooperative Range-Only Localization in Multi-Robot Networks",
+      "year": 2022,
+      "citation_raw": "A. Papalia, N. Thumma, and J. Leonard, “Prioritized Planning for Cooperative Range-Only Localization in Multi-Robot Networks,” in 2022 International Conference on Robotics and Automation (ICRA), 2022, pp. 10753–10759.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "AUV-Assisted Diver Navigation",
+      "year": 2022,
+      "citation_raw": "J. R. Pelletier, B. W. O’Neill, J. J. Leonard, L. Freitag, and E. Gallimore, “AUV-Assisted Diver Navigation,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 10208–10215, 2022.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Lidar-Monocular Surface Reconstruction Using Line Segments",
+      "year": 2021,
+      "citation_raw": "V. Amblard, T. P. Osedach, A. Croux, A. Speck, and J. J. Leonard, “Lidar-Monocular Surface Reconstruction Using Line Segments,” IEEE Intl. Conf. on Robotics and Automation (ICRA), 2021.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM",
+      "year": 2021,
+      "citation_raw": "J. Fu, Q. Huang, K. Doherty, Y. Wang, and J. J. Leonard, “A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM,” in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "CARPAL: Confidence-aware intent recognition for parallel autonomy",
+      "year": 2021,
+      "citation_raw": "X. Huang, S. G. McGill, J. A. DeCastro, L. Fletcher, J. J. Leonard, B. C. Williams, and G. Rosman, “CARPAL: Confidence-aware intent recognition for parallel autonomy,” IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 4433–4440, 2021.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "NF-iSAM: Incremental Smoothing and Mapping via Normalizing Flows",
+      "year": 2021,
+      "citation_raw": "Q. Huang, C. Pu, D. Fourie, K. Khosoussi, J. P. How, and J. J. Leonard, “NF-iSAM: Incremental Smoothing and Mapping via Normalizing Flows,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2021.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM",
+      "year": 2021,
+      "citation_raw": "Z. Lu, Q. Huang, K. Doherty, and J. J. Leonard, “Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM,” in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Advances in inference and representation for simultaneous localization and mapping",
+      "year": 2021,
+      "citation_raw": "D. M. Rosen, K. J. Doherty, A. Terán Espinoza, and J. J. Leonard, “Advances in inference and representation for simultaneous localization and mapping,” Annual Review of Control, Robotics, and Autonomous Systems, vol. 4, pp. 215–242, 2021.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Front-End for Dense Monocular SLAM using a Learned Outlier Mask Prior",
+      "year": 2021,
+      "citation_raw": "Y. Zhang and J. J. Leonard, “A Front-End for Dense Monocular SLAM using a Learned Outlier Mask Prior,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2021.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Bootstrapped Self-Supervised Training with Monocular Video for Semantic Segmentation and Depth Estimation",
+      "year": 2021,
+      "citation_raw": "Y. Zhang and J. J. Leonard, “Bootstrapped Self-Supervised Training with Monocular Video for Semantic Segmentation and Depth Estimation,” in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Proxy Platform for Underwater Inspection, Maintenance, and Repair",
+      "year": 2020,
+      "citation_raw": "T. P. Osedach, K. Singh, P. V. Texeira, J. Arber, A. Levesque, C. Chahbazia, D. Jain, B. Englot, J. J. Leonard, S. Vannuffelen, and S. Ossian, “Proxy Platform for Underwater Inspection, Maintenance, and Repair,” in Proc. of the IEEE/MTS OCEANS Conf. and Exhibition, 2020.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Probabilistic Data Association via Mixture Models for Robust Semantic SLAM",
+      "year": 2020,
+      "citation_raw": "K. Doherty, D. Baxter, E. Schneeweiss, and J. Leonard, “Probabilistic Data Association via Mixture Models for Robust Semantic SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2020.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Single-Hydrophone Low-Cost Underwater Vehicle Swarming",
+      "year": 2020,
+      "citation_raw": "E. M. Fischell, A. R. Kroo, and B. W. O’Neill, “Single-Hydrophone Low-Cost Underwater Vehicle Swarming,” IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 354–361, 2020.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Towards Real-Time Non-Gaussian SLAM for Underdetermined Navigation",
+      "year": 2020,
+      "citation_raw": "D. Fourie, N. R. Rypkema, P. V. Teixeira, S. Claassens, E. Fischell, and J. Leonard, “Towards Real-Time Non-Gaussian SLAM for Underdetermined Navigation,” in 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 4438–4445.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "DiversityGAN: Diversity-Aware Vehicle Motion Prediction via Latent Semantic Sampling",
+      "year": 2020,
+      "citation_raw": "X. Huang, S. McGill, J. DeCastro, L. Fletcher, J. Leonard, B. Williams, and G. Rosman, “DiversityGAN: Diversity-Aware Vehicle Motion Prediction via Latent Semantic Sampling,” in IEEE Robotics and Automation Letters, 2020.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Autonomous Vehicles, Mobility, and Employment Policy: The Roads Ahead",
+      "year": 2020,
+      "citation_raw": "J. J. Leonard, D. A. Mindell, and E. L. Stayton, “Autonomous Vehicles, Mobility, and Employment Policy: The Roads Ahead.” MIT Work of the Future, 2020.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Variational Filtering with Copula Models for SLAM",
+      "year": 2020,
+      "citation_raw": "J. D. Martin, K. Doherty, C. Cyr, B. Englot, and J. Leonard, “Variational Filtering with Copula Models for SLAM,” in 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 5066–5073.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Network Localization Based Planning for Autonomous Underwater Vehicles with Inter-Vehicle Ranging",
+      "year": 2020,
+      "citation_raw": "A. Papalia and J. Leonard, “Network Localization Based Planning for Autonomous Underwater Vehicles with Inter-Vehicle Ranging,” in IEEE/OES Autonomous Underwater Vehicles Symposium, 2020, pp. 1–6.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Non-Gaussian SLAM utilizing Synthetic Aperture Sonar",
+      "year": 2019,
+      "citation_raw": "M. Y. Cheung, D. Fourie, N. R. Rypkema, P. V. Teixeira, H. Schmidt, and J. Leonard, “Non-Gaussian SLAM utilizing Synthetic Aperture Sonar,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2019, pp. 3457–3463.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Multimodal Semantic SLAM with Probabilistic Data Association",
+      "year": 2019,
+      "citation_raw": "K. Doherty, D. Fourie, and J. Leonard, “Multimodal Semantic SLAM with Probabilistic Data Association,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2019, pp. 2419–2425.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Non-Parametric Mixed-Manifold Products Using Multiscale Kernel Densities",
+      "year": 2019,
+      "citation_raw": "D. Fourie, P. V. Teixeira, and J. J. Leonard, “Non-Parametric Mixed-Manifold Products Using Multiscale Kernel Densities.,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2019, pp. 6656–6662.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Diversity-aware vehicle motion prediction via latent semantic sampling",
+      "year": 2019,
+      "citation_raw": "X. Huang, S. G. McGill, J. A. DeCastro, B. C. Williams, L. Fletcher, J. J. Leonard, and G. Rosman, “Diversity-aware vehicle motion prediction via latent semantic sampling,” in arXiv preprint arXiv:1911.12736, 2019.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Probabilistic Risk Metrics for Navigating Occluded Intersections",
+      "year": 2019,
+      "citation_raw": "S. G. McGill, G. Rosman, T. Ort, A. Pierson, I. Gilitschenski, B. Araki, L. Fletcher, S. Karaman, D. Rus, and J. J. Leonard, “Probabilistic Risk Metrics for Navigating Occluded Intersections,” IEEE Robotics and Automation Letters, vol. 4, no. 4, pp. 4322–4329, 2019.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Self-Supervised Visual Place Recognition Learning in Mobile Robots",
+      "year": 2019,
+      "citation_raw": "S. Pillai and J. Leonard, “Self-Supervised Visual Place Recognition Learning in Mobile Robots,” in arXiv preprint arXiv:1905.04453, 2019.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "SE-Sync: A certifiably correct algorithm for synchronization over the special Euclidean group",
+      "year": 2019,
+      "citation_raw": "D. M. Rosen, L. Carlone, A. S. Bandeira, and J. J. Leonard, “SE-Sync: A certifiably correct algorithm for synchronization over the special Euclidean group,” The International Journal of Robotics Research, vol. 38, no. 2-3, pp. 95–125, 2019.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Dense, Sonar-Based Reconstruction of Underwater Scenes",
+      "year": 2019,
+      "citation_raw": "P. N. V. Teixeira, D. Fourie, M. Kaess, and J. J. Leonard, “Dense, Sonar-Based Reconstruction of Underwater Scenes,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2019, pp. 8060–8066.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Quantifying protocol evaluation for autonomous collision avoidance",
+      "year": 2019,
+      "citation_raw": "K. Woerner, M. R. Benjamin, M. Novitzky, and J. J. Leonard, “Quantifying protocol evaluation for autonomous collision avoidance,” Autonomous Robots, vol. 43, no. 4, pp. 967–991, 2019.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "The Manhattan Frame Model: Manhattan World Inference in the Space of Surface Normals",
+      "year": 2018,
+      "citation_raw": "J. Straub, O. Freifeld, G. Rosman, J. J. Leonard, and J. W. F. III, “The Manhattan Frame Model: Manhattan World Inference in the Space of Surface Normals,” IEEE Trans. Pattern Anal. Machine Intell., vol. 40, no. 1, pp. 235–249, Jan. 2018.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Optimal-state-constraint EKF for visual-inertial navigation",
+      "year": 2018,
+      "citation_raw": "G. Huang, K. Eckenhoff, and J. Leonard, “Optimal-state-constraint EKF for visual-inertial navigation,” 2018, pp. 125–139.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Probabilistic cooperative mobile robot area coverage and its application to autonomous seabed mapping",
+      "year": 2018,
+      "citation_raw": "L. Paull, M. Seto, J. J. Leonard, and H. Li, “Probabilistic cooperative mobile robot area coverage and its application to autonomous seabed mapping,” in Intl. J. of Robotics Research, 2018, vol. 37, no. 1, pp. 21–45.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Navigation for Underwater Vehicles",
+      "year": 2018,
+      "citation_raw": "L. Paull, M. Seto, S. Saeedi, and J. J. Leonard, “Navigation for Underwater Vehicles,” in Encyclopedia of Robotics, Berlin, Heidelberg: Springer Berlin Heidelberg, 2018, pp. 1–15.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Mapping and determining the center of mass of a rotating object using a moving observer",
+      "year": 2018,
+      "citation_raw": "T. P. Setterfield, D. W. Miller, J. J. Leonard, and A. Saenz-Otero, “Mapping and determining the center of mass of a rotating object using a moving observer,” The International Journal of Robotics Research, vol. 37, no. 1, pp. 83–103, 2018.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Inertial Properties Estimation of a Passive On-orbit Object Using Polhode Analysis",
+      "year": 2018,
+      "citation_raw": "T. P. Setterfield, D. W. Miller, A. Saenz-Otero, E. Frazzoli, and J. J. Leonard, “Inertial Properties Estimation of a Passive On-orbit Object Using Polhode Analysis,” in Journal of Guidance, Control, and Dynamics, 2018, vol. 41, no. 10, pp. 2214–2231.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Multibeam Data Processing for Underwater Mapping",
+      "year": 2018,
+      "citation_raw": "P. V. Teixeira, M. Kaess, F. S. Hover, and J. J. Leonard, “Multibeam Data Processing for Underwater Mapping,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2018, pp. 1877–1884.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Centralized graph databases for mobile Robotics",
+      "year": 2017,
+      "citation_raw": "D. Fourie, S. D. Claassens, S. Pillai, R. Mata, and J. J. Leonard, “Centralized graph databases for mobile Robotics,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Singapore, 2017, pp. 6331–6337.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Parallel Autonomy Research Platform",
+      "year": 2017,
+      "citation_raw": "F. Naser, D. Dorhout, S. Proulx, S. Pendleton, H. Andersen, W. Schwarting, J. Alonso-Mora, L. Paull, S. Karaman, R. Tedrake, J. Leonard, and D. Rus, “A Parallel Autonomy Research Platform.” IEEE, pp. 933–940, June 2017.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research",
+      "year": 2017,
+      "citation_raw": "L. Paull, J. Tani, H. Ahn, J. Alonso-Mora, L. Carlone, M. Cap, Y. F. Chen, C. Choi, J. Dusek, Y. Fang, D. Hoehener, S.-Y. Liu, M. Novitzky, I. F. Okuyama, J. Pazis, G. Rosman, V. Varricchio, H.-C. Wang, D. Yershov, H. Zhao, M. Benjamin, C. Carr, M. Zuber, S. Karaman, E. Frazzoli, D. D. Vecchio, D. Rus, J. How, J. Leonard, and A. Censi, “Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2017.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Sparse optimization for robust and efficient loop closing",
+      "year": 2017,
+      "citation_raw": "Y. Latif, G. Huang, J. J. Leonard, and J. A. Neira, “Sparse optimization for robust and efficient loop closing,” Robotics and Autonomous Systems, vol. 93, pp. 13–26, 2017.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Sparse optimization for robust and efficient loop closing",
+      "year": 2017,
+      "citation_raw": "Y. Latif, G. Huang, J. Leonard, and J. Neira, “Sparse optimization for robust and efficient loop closing,” in Robotics and Autonomous Systems, 2017, vol. 93, pp. 13–26.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Two-Stage Focused Inference for Resource-Constrained Minimal Collision Navigation",
+      "year": 2017,
+      "citation_raw": "B. Mu, L. Paull, A. Agha-mohammadi, J. Leonard, and J. How, “Two-Stage Focused Inference for Resource-Constrained Minimal Collision Navigation,” IEEE Trans. Robotics, vol. 33, no. 1, pp. 124–140, 2017.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Duckietown: an open, inexpensive and flexible platform for autonomy education and research",
+      "year": 2017,
+      "citation_raw": "L. Paull, J. Tani, H. Ahn, J. Alonso-Mora, L. Carlone, M. Cap, Y. F. Chen, C. Choi, J. Dusek, Y. Fang, D. Hoehener, S.-Y. Liu, M. Novitzky, I. F. Okuyama, J. Pazis, G. Rosman, V. Varricchio, H.-C. Wang, D. Yershov, H. Zhao, M. Benjamin, C. Carr, M. Zuber, S. Karaman, E. Frazzoli, D. D. Vecchio, D. Rus, J. How, J. Leonard, and A. Censi, “Duckietown: an open, inexpensive and flexible platform for autonomy education and research,” 2017, pp. 1497–1504.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Towards Visual Ego-motion Learning in Robots",
+      "year": 2017,
+      "citation_raw": "S. Pillai and J. Leonard, “Towards Visual Ego-motion Learning in Robots,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2017, pp. 5533–5540.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Self-Supervised Place Recognition in Mobile Robots",
+      "year": 2017,
+      "citation_raw": "S. Pillai and J. Leonard, “Self-Supervised Place Recognition in Mobile Robots,” in IROS 2017 Learning for Localization and Mapping Workshop, 2017.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Smoothing-Based Estimation of an Inspector Satellite Trajectory Relative to a Passive Object",
+      "year": 2017,
+      "citation_raw": "T. P. Setterfield, D. Miller, A. Saenz-Otero, and J. J. Leonard, “Smoothing-Based Estimation of an Inspector Satellite Trajectory Relative to a Passive Object,” in IEEE Aerospace, 2017, pp. 1–11.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Direction-aware semi-dense SLAM",
+      "year": 2017,
+      "citation_raw": "J. Straub, R. Cabezas, J. Leonard, and J. W. F. III, “Direction-aware semi-dense SLAM,” in arXiv preprint arXiv:1709.05774, 2017.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Legibility and predictability of protocol-constrained motion: Evaluating human-robot ship interactions under COLREGS collision avoidance requirements",
+      "year": 2017,
+      "citation_raw": "K. Woerner, M. Novitzky, M. R. Benjamin, and J. J. Leonard, “Legibility and predictability of protocol-constrained motion: Evaluating human-robot ship interactions under COLREGS collision avoidance requirements,” in Robotics Science and Systems, 2017.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Nonparametric Belief Solution to the Bayes Tree",
+      "year": 2016,
+      "citation_raw": "D. Fourie, J. J. Leonard, and M. Kaess, “A Nonparametric Belief Solution to the Bayes Tree,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems, IROS, Daejeon, Korea, 2016, pp. 2189–2196.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Unified Resource-Constrained Framework for Graph SLAM",
+      "year": 2016,
+      "citation_raw": "L. Paull and G. H. J. J. Leonard, “A Unified Resource-Constrained Framework for Graph SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2016, pp. 1346–1353.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Towards Lifelong Feature-Based Mapping in Semi-Static Environments",
+      "year": 2016,
+      "citation_raw": "D. Rosen, J. Mason, and J. J. Leonard, “Towards Lifelong Feature-Based Mapping in Semi-Static Environments,” in International Conference on Robotics and Automation (ICRA), 2016, pp. 1063–1070.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "An Overview of MIT-Olin’s Approach in the AUVSI RobotX Competition",
+      "year": 2016,
+      "citation_raw": "A. Anderson, E. Fischell, T. Howe, T. Miller, A. Parrales-Salinas, N. Rypkema, D. Barrett, M. Benjamin, A. Brennen, M. DeFillipo, J. J. Leonard, L. Paull, H. Schmidt, N. Wang, and A. Yaari, “An Overview of MIT-Olin’s Approach in the AUVSI RobotX Competition,” 2016, pp. 61–80.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Optimal-State-Constraint EKF for Visual-Inertial Navigation",
+      "year": 2016,
+      "citation_raw": "G. Huang, K. Eckenhoff, and J. Leonard, “Optimal-State-Constraint EKF for Visual-Inertial Navigation,” in Proceedings of the Second International Symposium of Robotics Research, 2016.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Autonomous Underwater Vehicle Navigation",
+      "year": 2016,
+      "citation_raw": "J. J. Leonard and A. Bahr, “Autonomous Underwater Vehicle Navigation,” in Springer Handbook of Ocean Engineering, M. R. Dhanak and N. I. Xiros, Eds. Springer, 2016, pp. 341–358.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Visual place recognition: A survey",
+      "year": 2016,
+      "citation_raw": "S. Lowry, N. Sünderhauf, P. Newman, J. J. Leonard, D. Cox, P. Corke, and M. J. Milford, “Visual place recognition: A survey,” in IEEE Trans. Robotics, 2016, vol. 32, no. 1, pp. 1–19.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Information-based Active SLAM via Topological Feature Graphs",
+      "year": 2016,
+      "citation_raw": "B. Mu, M. Giamou, L. Paull, A.-akbar Agha-mohammadi, J. J. Leonard, and J. P. How, “Information-based Active SLAM via Topological Feature Graphs,” in 55th IEEE Int. Conference on Decision and Control, 2016, pp. 5583–5590.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "SLAM with Objects using a Nonparametric Pose Graph",
+      "year": 2016,
+      "citation_raw": "B. Mu, S.-Y. Liu, L. Paull, J. Leonard, and J. How, “SLAM with Objects using a Nonparametric Pose Graph,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2016, pp. 4602–4609.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "High-Performance and Tunable Stereo Reconstruction",
+      "year": 2016,
+      "citation_raw": "S. Pillai, S. Ramalingam, and J. J. Leonard, “High-Performance and Tunable Stereo Reconstruction,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2016, pp. 3188–3195.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group",
+      "year": 2016,
+      "citation_raw": "D. M. Rosen, L. Carlone, A. S. Bandeira, and J. J. Leonard, “A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group,” in Intl. Workshop on the Algorithmic Foundations of Robotics, WAFR, 2016.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Simultaneous Localization and Mapping",
+      "year": 2016,
+      "citation_raw": "C. Stachniss, J. J. Leonard, and S. Thrun, “Simultaneous Localization and Mapping,” in Springer Handbook of Robotics, Second Edition, B. Siciliano and O. Khatib, Eds. Springer, 2016, pp. 1153–1176.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Duckietown: an innovative way to teach autonomy",
+      "year": 2016,
+      "citation_raw": "J. Tani, L. Paull, M. T. Zuber, D. Rus, J. How, J. Leonard, and A. Censi, “Duckietown: an innovative way to teach autonomy,” in International Conference EduRobotics 2016, 2016, pp. 104–121.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Underwater Inspection using Sonar-based Volumetric Submaps",
+      "year": 2016,
+      "citation_raw": "P. V. Teixeira, M. Kaess, F. S. Hover, and J. J. Leonard, “Underwater Inspection using Sonar-based Volumetric Submaps,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2016, pp. 4288–4295.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Collision avoidance road test for COLREGS-constrained autonomous vehicles",
+      "year": 2016,
+      "citation_raw": "K. L. Woerner, M. R. Benjamin, M. Novitzky, and J. J. Leonard, “Collision avoidance road test for COLREGS-constrained autonomous vehicles,” in OCEANS 2016 MTS/IEEE Monterey, 2016, pp. 1–6.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Lagrangian Duality in 3D SLAM: Verification Techniques and Optimal Solutions",
+      "year": 2015,
+      "citation_raw": "L. Carlone, D. M. Rosen, G. C. Calafiore, J. J. Leonard, and F. Dellaert, “Lagrangian Duality in 3D SLAM: Verification Techniques and Optimal Solutions,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Hamburg, Germany, 2015.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Real-Time Manhattan World Rotation Estimation in 3D",
+      "year": 2015,
+      "citation_raw": "J. Straub, B. Nishchal, J. Leonard, and J. W. F. III, “Real-Time Manhattan World Rotation Estimation in 3D,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Hamburg, Germany, 2015, pp. 1913–1920.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Bridging Text Spotting and SLAM with Junction Features",
+      "year": 2015,
+      "citation_raw": "H. Wang, C. Finn, L. Paull, M. Kaess, R. Rosenholtz, S. Teller, and J. Leonard, “Bridging Text Spotting and SLAM with Junction Features,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Hamburg, Germany, 2015.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Two-Stage Focused Inference for Resource-Constrained Collision-Free Navigation",
+      "year": 2015,
+      "citation_raw": "B. Mu, A.-akbar Agha-mohammadi, L. Paull, M. Graham, J. How, and J. Leonard, “Two-Stage Focused Inference for Resource-Constrained Collision-Free Navigation,” in Proceedings of Robotics: Science and Systems, Rome, Italy, 2015.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Monocular SLAM Supported Object Recognition",
+      "year": 2015,
+      "citation_raw": "S. Pillai and J. J. Leonard, “Monocular SLAM Supported Object Recognition,” in Robotics: Science and Systems (RSS), 2015.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Toward Object-based Place Recognition in Dense RGB-D Maps",
+      "year": 2015,
+      "citation_raw": "R. Finman, L. Paull, and J. J. Leonard, “Toward Object-based Place Recognition in Dense RGB-D Maps,” in ICRA workshop on visual place recognition in changing environments, 2015.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Communication-Constrained Multi-AUV Cooperative SLAM",
+      "year": 2015,
+      "citation_raw": "L. Paull, G. Huang, M. Seto, and J. J. Leonard, “Communication-Constrained Multi-AUV Cooperative SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Convex Relaxation for Approximate Global Optimization in Simultaneous Localization and Mapping",
+      "year": 2015,
+      "citation_raw": "D. Rosen, C. DuHadway, and J. J. Leonard, “A Convex Relaxation for Approximate Global Optimization in Simultaneous Localization and Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015, pp. 5822–5829.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Location Utility-based Map Reduction",
+      "year": 2015,
+      "citation_raw": "T. Steiner, G. Huang, and J. J. Leonard, “Location Utility-based Map Reduction,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015, pp. 479–486.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Appearance-based SLAM in a Network Space",
+      "year": 2015,
+      "citation_raw": "P. Corcoran, T. J. Steiner, M. Bertolotto, and J. J. Leonard, “Appearance-based SLAM in a Network Space,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015, pp. 5791–5798.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Toward object-based place recognition in dense rgb-d maps",
+      "year": 2015,
+      "citation_raw": "R. Finman, L. Paull, and J. J. Leonard, “Toward object-based place recognition in dense rgb-d maps,” in ICRA Workshop Visual Place Recognition in Changing Environments, Seattle, WA, 2015, vol. 76.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Consistent Unscented Incremental Smoothing for Multi-robot Cooperative Target Tracking",
+      "year": 2015,
+      "citation_raw": "G. Huang, M. Kaess, and J. J. Leonard, “Consistent Unscented Incremental Smoothing for Multi-robot Cooperative Target Tracking,” Robotics and Autonomous Systems, vol. 69, pp. 52–67, 2015.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Consistent unscented incremental smoothing for multi-robot cooperative target tracking",
+      "year": 2015,
+      "citation_raw": "G. Huang, M. Kaess, and J. J. Leonard, “Consistent unscented incremental smoothing for multi-robot cooperative target tracking,” in Robotics and autonomous systems, 2015, vol. 69, pp. 52–67.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Two-stage focused inference for resource-constrained collision-free navigation",
+      "year": 2015,
+      "citation_raw": "B. Mu, A.-akbar Agha-mohammadi, L. Paull, M. Graham, J. How, and J. Leonard, “Two-stage focused inference for resource-constrained collision-free navigation,” 2015.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "On-line adaptation of underwater acoustic transmission rates to optimize communications for collaborative AUV missions",
+      "year": 2015,
+      "citation_raw": "D. Nams, M. L. Seto, and J. J. Leonard, “On-line adaptation of underwater acoustic transmission rates to optimize communications for collaborative AUV missions,” 2015, pp. 1–8.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Communication-constrained multi-AUV cooperative SLAM",
+      "year": 2015,
+      "citation_raw": "L. Paull, G. Huang, M. Seto, and J. J. Leonard, “Communication-constrained multi-AUV cooperative SLAM,” 2015, pp. 509–516.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Monocular slam supported object recognition",
+      "year": 2015,
+      "citation_raw": "S. Pillai and J. Leonard, “Monocular slam supported object recognition,” in arXiv preprint arXiv:1506.01732, 2015.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Multi-Volume High Resolution RGB-D Mapping with Dynamic Volume Placement",
+      "year": 2015,
+      "citation_raw": "M. Salvato, R. Finman, and J. Leonard, “Multi-Volume High Resolution RGB-D Mapping with Dynamic Volume Placement,” in arXiv preprint arXiv:1511.07106, 2015.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Factor Graph Modeling of Rigid‐body Dynamics for Localization, Mapping, and Parameter Estimation of a Spinning Object in Space",
+      "year": 2015,
+      "citation_raw": "B. E. Tweddle, A. Saenz‐Otero, J. J. Leonard, and D. W. Miller, “Factor Graph Modeling of Rigid‐body Dynamics for Localization, Mapping, and Parameter Estimation of a Spinning Object in Space,” in Journal of Field Robotics, 2015, vol. 32, no. 6, pp. 897–933.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Mapping 3D underwater environments with smoothed submaps",
+      "year": 2015,
+      "citation_raw": "M. VanMiddlesworth, M. Kaess, F. Hover, and J. J. Leonard, “Mapping 3D underwater environments with smoothed submaps,” 2015, pp. 17–30.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Real-time large scale dense RGB-D SLAM with volumetric fusion",
+      "year": 2015,
+      "citation_raw": "T. Whelan, M. Kaess, H. Johannsson, M. Fallon, J. J. Leonard, and J. McDonald, “Real-time large scale dense RGB-D SLAM with volumetric fusion,” Intl. J. of Robotics Research, vol. 34, no. 4-5, pp. 598–626, 2015.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Shape and pose recovery from planar pushing",
+      "year": 2015,
+      "citation_raw": "K.-T. Yu, J. Leonard, and A. Rodriguez, “Shape and pose recovery from planar pushing,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2015, pp. 1208–1215.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "RISE: An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation",
+      "year": 2014,
+      "citation_raw": "D. M. Rosen, M. Kaess, and J. J. Leonard, “RISE: An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation,” IEEE Trans. Robotics, vol. 30, no. 5, pp. 1091–1108, Oct. 2014.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "An Online Sparsity-Cognizant Loop-Closure Algorithm for Visual Navigation",
+      "year": 2014,
+      "citation_raw": "Y. Latif, G. Huang, J. Leonard, and J. Neira, “An Online Sparsity-Cognizant Loop-Closure Algorithm for Visual Navigation,” in Robotics: Science and Systems (RSS), Berkeley, CA, 2014.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Efficient Incremental Map Segmentation in Dense RGB-D Maps",
+      "year": 2014,
+      "citation_raw": "R. Finman, T. Whelan, M. Kaess, and J. J. Leonard, “Efficient Incremental Map Segmentation in Dense RGB-D Maps,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2014, pp. 5488–5494.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Physical Words for Place Recognition in Dense RGB-D Maps",
+      "year": 2014,
+      "citation_raw": "R. Finman, T. Whelan, L. Paull, and J. J. Leonard, “Physical Words for Place Recognition in Dense RGB-D Maps,” in ICRA workshop on visual place recognition in changing environments, 2014.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Towards consistent visual-inertial navigation",
+      "year": 2014,
+      "citation_raw": "G. Huang, M. Kaess, and J. J. Leonard, “Towards consistent visual-inertial navigation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2014, pp. 4926–4933.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Mixture of Manhattan Frames: Beyond the Manhattan World",
+      "year": 2014,
+      "citation_raw": "J. Straub, G. Rosman, O. Freifed, J. J. Leonard, and J. W. Fisher, “A Mixture of Manhattan Frames: Beyond the Manhattan World,” in Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on, Portland, OR, 2014, pp. 3770–3777.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Cognitively adequate topological robot localization and mapping",
+      "year": 2014,
+      "citation_raw": "P. Corcoran, M. Bertolotto, and J. Leonard, “Cognitively adequate topological robot localization and mapping,” 2014, pp. 17–24.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Visual summaries for low-bandwidth semantic mapping with autonomous underwater vehicles",
+      "year": 2014,
+      "citation_raw": "J. W. Kaeli, J. J. Leonard, and H. Singh, “Visual summaries for low-bandwidth semantic mapping with autonomous underwater vehicles,” 2014, pp. 1–7.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Mapping complex marine environments with autonomous surface craft",
+      "year": 2014,
+      "citation_raw": "J. C. Leedekerken, M. F. Fallon, and J. J. Leonard, “Mapping complex marine environments with autonomous surface craft,” 2014, pp. 525–539.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Decentralized Cooperative Trajectory Estimation for Autonomous Underwater Vehicles",
+      "year": 2014,
+      "citation_raw": "L. Paull, M. Seto, and J. J. Leonard, “Decentralized Cooperative Trajectory Estimation for Autonomous Underwater Vehicles,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2014, pp. 184–191.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Inference over heterogeneous finite-/infinite-dimensional systems using factor graphs and Gaussian processes",
+      "year": 2014,
+      "citation_raw": "D. M. Rosen, G. Huang, and J. J. Leonard, “Inference over heterogeneous finite-/infinite-dimensional systems using factor graphs and Gaussian processes,” 2014, pp. 1261–1268.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Experimental Evaluation of On-board, Visual Mapping of an Object Spinning in Micro-Gravity aboard the International Space Station",
+      "year": 2014,
+      "citation_raw": "B. Tweddle, T. P. Setterfield, A. Saenz-Otero, D. W. Miller, and J. Leonard., “Experimental Evaluation of On-board, Visual Mapping of an Object Spinning in Micro-Gravity aboard the International Space Station,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2014, pp. 2333–2340.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Factor Graph Modeling of Rigid-Body Dynamics for Localization, Mapping and Parameter Estimation of a Spinning Object in Space",
+      "year": 2014,
+      "citation_raw": "B. Tweddle, A. Saenz-Otero, D. W. Miller, and J. Leonard., “Factor Graph Modeling of Rigid-Body Dynamics for Localization, Mapping and Parameter Estimation of a Spinning Object in Space,” J. of Field Robotics, vol. 32, no. 6, pp. 897–933, 2014.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Visibility-based motion planning for active target tracking and localization",
+      "year": 2014,
+      "citation_raw": "H. Wei, W. Lu, P. Zhu, G. Huang, J. Leonard, and S. Ferrari, “Visibility-based motion planning for active target tracking and localization,” in Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2014, pp. 76–82.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "3D mapping, localisation and object retrieval using low cost robotic platforms: A robotic search engine for the real-world",
+      "year": 2014,
+      "citation_raw": "T. Whelan, M. Kaess, R. Finman, M. Fallon, H. Johannsson, J. J. Leonard, and J. McDonald, “3D mapping, localisation and object retrieval using low cost robotic platforms: A robotic search engine for the real-world,” RSS Workshop, 2014.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Concurrent filtering and smoothing: A parallel architecture for real-time navigation and full smoothing",
+      "year": 2014,
+      "citation_raw": "S. Williams, V. Indelman, M. Kaess, J. J. L. R. Roberts, and F. Dellaert, “Concurrent filtering and smoothing: A parallel architecture for real-time navigation and full smoothing,” Intl. J. of Robotics Research, vol. 33, no. 12, pp. 1544–1568, 2014.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Mapping 3D Underwater Environments with Smoothed Submaps",
+      "year": 2013,
+      "citation_raw": "M. VanMiddlesworth, M. Kaess, F. S. Hover, and J. J. Leonard, “Mapping 3D Underwater Environments with Smoothed Submaps,” in Field and Service Robotics, Brisbane, Australia, 2013.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Deformation-based Loop Closure for Large Scale Dense RGB-D SLAM",
+      "year": 2013,
+      "citation_raw": "T. Whelan, M. Kaess, J. J. Leonard, and J. B. McDonald, “Deformation-based Loop Closure for Large Scale Dense RGB-D SLAM,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Tokyo, Japan, 2013, pp. 548–555.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Real-time 6-DOF Multi-session Visual SLAM over Large Scale Environments",
+      "year": 2013,
+      "citation_raw": "J. McDonald, M. Kaess, C. Cadena, J. Neira, and J. J. Leonard, “Real-time 6-DOF Multi-session Visual SLAM over Large Scale Environments,” J. of Robotics and Autonomous Systems, vol. 61, no. 10, pp. 1144–1158, Oct. 2013.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Toward Lifelong Object Segmentation from Change Detection in Dense RGB-D Maps",
+      "year": 2013,
+      "citation_raw": "R. Finman, T. Whelan, M. Kaess, and J. Leonard, “Toward Lifelong Object Segmentation from Change Detection in Dense RGB-D Maps,” in European Conference on Mobile Robotics, Barcelona, Spain, 2013.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Unscented iSAM: A Consistent Incremental Solution to Cooperative Localization and Target Tracking",
+      "year": 2013,
+      "citation_raw": "G. Huang, R. Truax, M. Kaess, and J. J. Leonard, “Unscented iSAM: A Consistent Incremental Solution to Cooperative Localization and Target Tracking,” in Proc. of European Conference on Mobile Robots (ECMR), Barcelona, Spain, 2013, pp. 248–254.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Consistent Sparsification for Graph Optimization",
+      "year": 2013,
+      "citation_raw": "G. Huang, M. Kaess, and J. J. Leonard, “Consistent Sparsification for Graph Optimization,” in Proc. of European Conference on Mobile Robots (ECMR), Barcelona, Spain, 2013, pp. 150–157.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Analytically-Selected Multi- Hypothesis Incremental MAP Estimation",
+      "year": 2013,
+      "citation_raw": "G. Huang, M. Kaess, J. Leonard, and S. Roumeliotis, “Analytically-Selected Multi- Hypothesis Incremental MAP Estimation,” in International Conference on Acoustics, Speech, and Signal Processing, British Columbia, Canada, 2013, pp. 6481–6485.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Temporally Scalable Visual SLAM using a Reduced Pose Graph",
+      "year": 2013,
+      "citation_raw": "H. Johannsson, M. Kaess, M. F. Fallon, and J. J. Leonard, “Temporally Scalable Visual SLAM using a Reduced Pose Graph,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Karlsruhe, Germany, 2013, pp. 54–61.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Robust Incremental Online Inference Over Sparse Factor Graphs: Beyond the Gaussian Case",
+      "year": 2013,
+      "citation_raw": "D. M. Rosen, M. Kaess, and J. J. Leonard, “Robust Incremental Online Inference Over Sparse Factor Graphs: Beyond the Gaussian Case,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Karlsruhe, Germany, 2013, pp. 1025–1032.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Robust Real-Time Visual Odometry for Dense RGB-D Mapping",
+      "year": 2013,
+      "citation_raw": "T. Whelan, H. Johannsson, M. Kaess, J. J. Leonard, and J. B. McDonald, “Robust Real-Time Visual Odometry for Dense RGB-D Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Karlsruhe, Germany, 2013, pp. 5724–5731.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Autonomy for unmanned marine vehicles with MOOS-IvP",
+      "year": 2013,
+      "citation_raw": "M. R. Benjamin, H. Schmidt, P. M. Newman, and J. J. Leonard, “Autonomy for unmanned marine vehicles with MOOS-IvP,” 2013, pp. 47–90.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Simultaneous Localization and Mapping in Marine Environments",
+      "year": 2013,
+      "citation_raw": "M. F. Fallon, H. Johannsson, M. Kaess, J. Folkesson, H. McClelland, B. J. Englot, F. S. Hover, and J. J. Leonard, “Simultaneous Localization and Mapping in Marine Environments,” in Marine Robot Autonomy, M. Seto, Ed. Springer, 2013.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Relocating Underwater Features Autonomously Using Sonar-Based SLAM",
+      "year": 2013,
+      "citation_raw": "M. F. Fallon, J. Folkesson, H. McClelland, and J. J. Leonard, “Relocating Underwater Features Autonomously Using Sonar-Based SLAM,” in IEEE Journal of Oceanic Engineering, 2013, vol. 38, no. 3, pp. 500–513.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "The MIT Stata Center Dataset",
+      "year": 2013,
+      "citation_raw": "M. Fallon, H. Johannsson, M. Kaess, and J. J. Leonard, “The MIT Stata Center Dataset,” in Intl. J. of Robotics Research, 2013, vol. 32, no. 14, pp. 1695–1699.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Simultaneous localization and mapping in marine environments",
+      "year": 2013,
+      "citation_raw": "M. F. Fallon, H. Johannsson, M. Kaess, J. Folkesson, H. McClelland, B. J. Englot, F. S. Hover, and J. J. Leonard, “Simultaneous localization and mapping in marine environments,” 2013, pp. 329–372.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Nonparametric density estimation for learning noise distributions in mobile robotics",
+      "year": 2013,
+      "citation_raw": "D. M. Rosen and J. J. Leonard, “Nonparametric density estimation for learning noise distributions in mobile robotics,” in 1st Workshop on Robust and Multimodal Inference in Factor Graphs, ICRA, 2013.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Advanced Perception, Navigation and Planning for Autonomous In-Water Ship Hull Inspection",
+      "year": 2012,
+      "citation_raw": "F. S. Hover, R. M. Eustice, A. Kim, B. J. Englot, H. Johannsson, M. Kaess, and J. J. Leonard, “Advanced Perception, Navigation and Planning for Autonomous In-Water Ship Hull Inspection,” Intl. J. of Robotics Research, vol. 31, no. 12, pp. 1445–1464, Oct. 2012.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Dynamic Pose Graph SLAM: Long-term Mapping in Low Dynamic Environments",
+      "year": 2012,
+      "citation_raw": "A. Walcott-Bryant, M. Kaess, H. Johannsson, and J. J. Leonard, “Dynamic Pose Graph SLAM: Long-term Mapping in Low Dynamic Environments,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Vilamoura, Portugal, 2012.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Temporally Scalable Visual SLAM using a Reduced Pose Graph",
+      "year": 2012,
+      "citation_raw": "H. Johannsson, M. Kaess, M. F. Fallon, and J. J. Leonard, “Temporally Scalable Visual SLAM using a Reduced Pose Graph,” in RSS Workshop on Long-term Operation of Autonomous Robotic Systems in Changing Environments, Sydney, Australia, 2012, Available as MIT CSAIL Technical Report MIT-CSAIL-TR-2012-013.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Concurrent Filtering and Smoothing",
+      "year": 2012,
+      "citation_raw": "M. Kaess, S. Williams, V. Indelman, R. Roberts, J. J. Leonard, and F. Dellaert, “Concurrent Filtering and Smoothing,” in Intl. Conf. on Information Fusion (FUSION), Singapore, 2012, pp. 1300–1307.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Kintinuous: Spatially Extended KinectFusion",
+      "year": 2012,
+      "citation_raw": "T. Whelan, M. Kaess, M. F. Fallon, H. Johannsson, J. J. Leonard, and J. B. McDonald, “Kintinuous: Spatially Extended KinectFusion,” in RSS Workshop on RGB-D: Advanced Reasoning with Depth Cameras, Sydney, Australia, 2012.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Efficient Scene Simulation for Robust Monte Carlo Localization using an RGB-D Camera",
+      "year": 2012,
+      "citation_raw": "M. F. Fallon, H. Johannsson, and J. J. Leonard, “Efficient Scene Simulation for Robust Monte Carlo Localization using an RGB-D Camera,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2012, pp. 1663–1670.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation",
+      "year": 2012,
+      "citation_raw": "D. M. Rosen, M. Kaess, and J. J. Leonard, “An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), St. Paul, MN, 2012, pp. 1262–1269.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree",
+      "year": 2012,
+      "citation_raw": "M. Kaess, H. Johannsson, R. Roberts, V. Ila, J. J. Leonard, and F. Dellaert, “iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree,” Intl. J. of Robotics Research, vol. 31, no. 2, pp. 216–235, Feb. 2012.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Dynamic Positioning of Beacon Vehicles for Coop- erative Underwater Navigation",
+      "year": 2012,
+      "citation_raw": "A. Bahr, J. J. Leonard, and A. Martinoli, “Dynamic Positioning of Beacon Vehicles for Coop- erative Underwater Navigation,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Algarve, Portugal, 2012, pp. 3760–3767.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Dynamic pose graph SLAM: Long-term mapping in low dynamic environments",
+      "year": 2012,
+      "citation_raw": "A. Walcott-Bryant, M. Kaess, H. Johannsson, and J. J. Leonard, “Dynamic pose graph SLAM: Long-term mapping in low dynamic environments,” 2012, pp. 1871–1878.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Sensor fusion for flexible human-portable building-scale mapping",
+      "year": 2012,
+      "citation_raw": "M. F. Fallon, H. Johannsson, J. Brookshire, S. Teller, and J. J. Leonard, “Sensor fusion for flexible human-portable building-scale mapping,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2012, pp. 4405–4412.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Mapping the MIT stata center: Large-scale integrated visual and RGB-D SLAM",
+      "year": 2012,
+      "citation_raw": "M. F. Fallon, H. Johannsson, M. Kaess, D. M. Rosen, E. Muggler, and J. J. Leonard, “Mapping the MIT stata center: Large-scale integrated visual and RGB-D SLAM,” in RSS Workshop on RGB-D: Advanced Reasoning with Depth Cameras, 2012.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "6-DOF Multi-session Visual SLAM using Anchor Nodes",
+      "year": 2011,
+      "citation_raw": "J. McDonald, M. Kaess, C. Cadena, J. Neira, and J. J. Leonard, “6-DOF Multi-session Visual SLAM using Anchor Nodes,” in European Conf. on Mobile Robotics (ECMR), Orbero, Sweden, 2011, pp. 69–76.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Place Recognition using Near and Far Visual Information",
+      "year": 2011,
+      "citation_raw": "C. Cadena, J. McDonald, J. Leonard, and J. Neira, “Place Recognition using Near and Far Visual Information,” in Proceedings of the 18th IFAC World Congress, 2011, vol. 18, no. 1, pp. 6822–6828.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Efficient AUV navigation fusing acoustic ranging and side-scan sonar",
+      "year": 2011,
+      "citation_raw": "M. F. Fallon, M. Kaess, H. Johannsson, and J. J. Leonard, “Efficient AUV navigation fusing acoustic ranging and side-scan sonar,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2011, pp. 2398–2405.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "iSAM2: Incremental Smoothing and Mapping with Fluid Relinearization and Incremental Variable Reordering",
+      "year": 2011,
+      "citation_raw": "M. Kaess, H. Johannsson, R. Roberts, V. Ila, J. J. Leonard, and F. Dellaert, “iSAM2: Incremental Smoothing and Mapping with Fluid Relinearization and Incremental Variable Reordering,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Shanghai, China, 2011, pp. 3281–3288.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Identifying Object Pose and Parameters from 3D Laser Point Clouds",
+      "year": 2011,
+      "citation_raw": "R. Truax, R. Platt, and J. Leonard, “Identifying Object Pose and Parameters from 3D Laser Point Clouds,” in Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), Shanghai, China, 2011.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Autonomy through SLAM for an Underwater Robot",
+      "year": 2011,
+      "citation_raw": "J. Folkesson and J. Leonard, “Autonomy through SLAM for an Underwater Robot,” Robotics Research, pp. 55–70, 2011.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Using prioritized relaxations to locate objects in points clouds for manipulation",
+      "year": 2011,
+      "citation_raw": "R. Truax, R. Platt, and J. Leonard, “Using prioritized relaxations to locate objects in points clouds for manipulation,” 2011, pp. 2091–2097.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Mapping Complex Marine Environments with Autonomous Surface Craft",
+      "year": 2010,
+      "citation_raw": "J. C. Leedekerken, M. F. Fallon, and J. J. Leonard, “Mapping Complex Marine Environments with Autonomous Surface Craft,” in Intl. Sym. on Experimental Robotics (ISER), Delhi, India, 2010.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Nested Autonomy for Unmanned Marine Vehicles with MOOS-IvP",
+      "year": 2010,
+      "citation_raw": "M. Benjamin, H. Schmidt, P. Newman, and J. J. Leonard, “Nested Autonomy for Unmanned Marine Vehicles with MOOS-IvP,” J. of Field Robotics, vol. 27, no. 6, pp. 834–875, Nov. 2010.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A High-rate, Heterogeneous Data Set From The DARPA Urban Challenge",
+      "year": 2010,
+      "citation_raw": "A. S. Huang, M. Antone, E. Olson, L. Fletcher, D. Moore, S. Teller, and J. Leonard, “A High-rate, Heterogeneous Data Set From The DARPA Urban Challenge,” Intl. J. of Robotics Research, vol. 29, pp. 1595–1601, Nov. 2010.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Cooperative AUV Navigation using a Single Maneuvering Surface Craft",
+      "year": 2010,
+      "citation_raw": "M. F. Fallon, G. Papadopoulos, J. J. Leonard, and N. M. Patrikalakis, “Cooperative AUV Navigation using a Single Maneuvering Surface Craft,” Intl. J. of Robotics Research, vol. 29, no. 12, pp. 1461–1474, Oct. 2010.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Imaging Sonar-Aided Navigation for Autonomous Underwater Harbor Surveillance",
+      "year": 2010,
+      "citation_raw": "H. Johannsson, M. Kaess, B. Englot, F. Hover, and J. J. Leonard, “Imaging Sonar-Aided Navigation for Autonomous Underwater Harbor Surveillance,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Taipei, Taiwan, 2010, pp. 4396–4403.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Cooperative localization of marine vehicles using nonlinear state estimation",
+      "year": 2010,
+      "citation_raw": "G. Papadopoulos, M. F. Fallon, J. J. Leonard, and N. M. Patrikalakis, “Cooperative localization of marine vehicles using nonlinear state estimation,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Taipei, Taiwan, 2010, pp. 4874–4879.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Measurement Distribution Framework for Cooperative Navigation using multiple AUVs",
+      "year": 2010,
+      "citation_raw": "M. F. Fallon, G. Papadopoulos, and J. J. Leonard, “A Measurement Distribution Framework for Cooperative Navigation using multiple AUVs,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2010, pp. 4803–4808.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Towards Autonomous Ship Hull Inspection using the Bluefin HAUV",
+      "year": 2010,
+      "citation_raw": "M. Kaess, H. Johannsson, B. Englot, F. Hover, and J. J. Leonard, “Towards Autonomous Ship Hull Inspection using the Bluefin HAUV,” in Symposium on Technology and the Mine Problem, Naval Postgraduate School, Monterey, CA, 2010.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Multiple Relative Pose Graphs for Robust Cooperative Mapping",
+      "year": 2010,
+      "citation_raw": "B. Kim, M. Kaess, L. Fletcher, J. J. Leonard, A. Bachrach, N. Roy, and S. Teller, “Multiple Relative Pose Graphs for Robust Cooperative Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Anchorage, Alaska, 2010, pp. 3185–3192.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Cooperative AUV navigation using a single surface craft",
+      "year": 2010,
+      "citation_raw": "M. F. Fallon, G. Papadopoulos, and J. J. Leonard, “Cooperative AUV navigation using a single surface craft,” 2010, pp. 331–340.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A high-rate, heterogeneous data set from the DARPA urban challenge",
+      "year": 2010,
+      "citation_raw": "A. S. Huang, M. Antone, E. Olson, L. Fletcher, D. Moore, S. Teller, and J. Leonard, “A high-rate, heterogeneous data set from the DARPA urban challenge,” in The International Journal of Robotics Research, 2010, vol. 29, no. 13, pp. 1595–1601.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Cooperative AUV Navigation using a Single Surface Craft",
+      "year": 2009,
+      "citation_raw": "M. F. Fallon, G. Papadopoulos, and J. J. Leonard, “Cooperative AUV Navigation using a Single Surface Craft,” in Field and Service Robotics, 2009.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Consistent cooperative localization",
+      "year": 2009,
+      "citation_raw": "A. Bahr, M. Walter, and J. J. Leonard, “Consistent cooperative localization,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2009, pp. 3415–3422.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Cooperative Localization for Autonomous Underwater Vehicles",
+      "year": 2009,
+      "citation_raw": "A. Bahr, J. J. Leonard, and M. F. Fallon, “Cooperative Localization for Autonomous Underwater Vehicles,” Intl. J. of Robotics Research, vol. 28, no. 6, pp. 714–728, 2009.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A perception-driven autonomous urban vehicle",
+      "year": 2009,
+      "citation_raw": "J. Leonard, J. How, S. Teller, M. Berger, S. Campbell, G. Fiore, L. Fletcher, E. Frazzoli, A. Huang, S. Karaman, O. Koch, Y. Kuwata, D. Moore, E. Olson, S. Peters, J. Teo, R. Truax, M. Walter, D. Barrett, A. Epstein, K. Maheloni, K. Moyer, T. Jones, R. Buckley, M. Antone, R. Galejs, S. Krishnamurthy, and J. Williams, “A perception-driven autonomous urban vehicle,” 2009, pp. 163–230.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Simultaneous Local and Global State Estimation for Robotic Navigation",
+      "year": 2009,
+      "citation_raw": "D. C. Moore, A. S. Huang, M. Walter, E. Olson, L. Fletcher, J. Leonard, and S. Teller, “Simultaneous Local and Global State Estimation for Robotic Navigation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2009, pp. 3794–3799.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "SLAM for ship hull inspection using exactly sparse extended information filters",
+      "year": 2008,
+      "citation_raw": "M. Walter, F. Hover, and J. Leonard, “SLAM for ship hull inspection using exactly sparse extended information filters,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2008, pp. 1463–1470.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Cooperative Localization for Autonomous Underwater Vehicles",
+      "year": 2008,
+      "citation_raw": "A. Bahr and J. J. Leonard, “Cooperative Localization for Autonomous Underwater Vehicles,” in Experimental Robotics, Rio de Janeiro, Brasil, 2008, pp. 387–395.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Passive mobile robot localization within a fixed beacon field",
+      "year": 2008,
+      "citation_raw": "C. Detweiler, J. Leonard, D. Rus, and S. Teller, “Passive mobile robot localization within a fixed beacon field,” Algorithmic Foundation of Robotics VII, pp. 425–440, 2008.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "The MIT–Cornell collision and why it happened",
+      "year": 2008,
+      "citation_raw": "L. Fletcher, S. Teller, E. Olson, D. Moore, Y. Kuwata, J. How, J. Leonard, I. Miller, M. Campbell, D. Huttenlocher, and others, “The MIT–Cornell collision and why it happened,” Journal of Field Robotics, vol. 25, no. 10, pp. 775–807, 2008.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A feature based navigation system for an autonomous underwater robot",
+      "year": 2008,
+      "citation_raw": "J. Folkesson, J. Leederkerken, R. Williams, A. Patrikalakis, and J. Leonard, “A feature based navigation system for an autonomous underwater robot,” in Field and Service Robotics, 2008, vol. 42, pp. 105–114.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Flying qualities specifications and design standards for unmanned air vehicles",
+      "year": 2008,
+      "citation_raw": "J. Holmberg, J. Leonard, D. King, and M. Cotting, “Flying qualities specifications and design standards for unmanned air vehicles,” 2008, p. 6555.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Short-Baseline Acoustic Tracking with Autonomous Surface Vehicles",
+      "year": 2008,
+      "citation_raw": "J. C. Leedekerken, R. Williams, and J. Leonard, “Short-Baseline Acoustic Tracking with Autonomous Surface Vehicles,” in IFAC Proceedings Volumes, 2008, vol. 41, no. 1, pp. 218–223.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A perception-driven autonomous urban vehicle",
+      "year": 2008,
+      "citation_raw": "J. Leonard, J. How, S. Teller, M. Berger, S. Campbell, G. Fiore, L. Fletcher, E. Frazzoli, A. Huang, S. Karaman, and others, “A perception-driven autonomous urban vehicle,” J. of Field Robotics, vol. 25, no. 10, pp. 727–774, 2008.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Autonomous cooperation of heterogeneous platforms for sea-based search tasks",
+      "year": 2008,
+      "citation_raw": "A. J. Shafer, M. R. Benjamin, J. J. Leonard, and J. Curcio, “Autonomous cooperation of heterogeneous platforms for sea-based search tasks,” in OCEANS 2008, 2008, pp. 1–10.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Simultaneous Localization and Mapping",
+      "year": 2008,
+      "citation_raw": "S. Thrun and J. J. Leonard, “Simultaneous Localization and Mapping,” in Springer Handbook of Robotics, B. Siciliano and O. Khatib, Eds. Springer, 2008.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Feature Tracking for Underwater Navigation using Sonar",
+      "year": 2007,
+      "citation_raw": "J. Folkesson, J. Leedekerken, R. Williams, and J. Leonard, “Feature Tracking for Underwater Navigation using Sonar,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), San Diego, CA, 2007, pp. 3678–3684.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Spatially-Adaptive Learning Rates for Online Incremental SLAM",
+      "year": 2007,
+      "citation_raw": "E. Olson, J. Leonard, and S. Teller, “Spatially-Adaptive Learning Rates for Online Incremental SLAM,” in Robotics: Science and Systems (RSS), 2007.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Minimizing Trilateration Errors in the Presence of Noisy Landmarks",
+      "year": 2007,
+      "citation_raw": "A. Bahr and J. J. Leonard, “Minimizing Trilateration Errors in the Presence of Noisy Landmarks,” in European Conference on Mobile Robots, 2007, pp. 48–53.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "The Experience of Teaching Software Development in a Robotics Project Course",
+      "year": 2007,
+      "citation_raw": "N. Roy, J. Leonard, U.-M. O’Reilly, D. Rus, and S. Teller, “The Experience of Teaching Software Development in a Robotics Project Course,” in Proc. 3rd Int’l CDIO Conf., Cambridge, Mass, 2007.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Exactly sparse extended information filters for feature-based SLAM",
+      "year": 2007,
+      "citation_raw": "M. R. Walter, R. M. Eustice, and J. J. Leonard, “Exactly sparse extended information filters for feature-based SLAM,” Intl. J. of Robotics Research, vol. 26, no. 4, pp. 335–359, 2007.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A provably consistent method for imposing sparsity in feature-based SLAM information filters",
+      "year": 2007,
+      "citation_raw": "M. Walter, R. Eustice, and J. Leonard, “A provably consistent method for imposing sparsity in feature-based SLAM information filters,” 2007, pp. 214–234.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Exactly sparse extended information filters for feature-based SLAM",
+      "year": 2007,
+      "citation_raw": "M. R. Walter, R. M. Eustice, and J. J. Leonard, “Exactly sparse extended information filters for feature-based SLAM,” in The International Journal of Robotics Research, 2007, vol. 26, no. 4, pp. 335–359.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Visually Mapping the RMS Titanic: Conservative Covariance Estimates for SLAM Information Filters",
+      "year": 2006,
+      "citation_raw": "R. M. Eustice, H. Singh, J. J. Leonard, and M. R. Walter, “Visually Mapping the RMS Titanic: Conservative Covariance Estimates for SLAM Information Filters,” Intl. J. of Robotics Research, vol. 25, no. 12, pp. 1223–1242, Dec. 2006.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Exactly Sparse Delayed-State Filters for View-Based SLAM",
+      "year": 2006,
+      "citation_raw": "R. M. Eustice, H. Singh, and J. J. Leonard, “Exactly Sparse Delayed-State Filters for View-Based SLAM,” IEEE Trans. Robotics, vol. 22, no. 6, pp. 1100–1114, Dec. 2006.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Robust Range-Only Beacon Localization",
+      "year": 2006,
+      "citation_raw": "E. Olson, J. J. Leonard, and S. Teller, “Robust Range-Only Beacon Localization,” IEEE Journal of Oceanic Engineering, vol. 31, no. 4, pp. 949–958, Oct. 2006.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Fast Iterative Alignment of Pose Graphs with Poor Initial Estimates",
+      "year": 2006,
+      "citation_raw": "E. Olson, J. Leonard, and S. Teller, “Fast Iterative Alignment of Pose Graphs with Poor Initial Estimates,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2006, pp. 2262–2269.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Navigation of unmanned marine vehicles in accordance with the rules of the road",
+      "year": 2006,
+      "citation_raw": "M. R. Benjamin, J. A. Curcio, J. J. Leonard, and P. M. Newman, “Navigation of unmanned marine vehicles in accordance with the rules of the road,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2006, pp. 3581–3587.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A method for protocol‐based collision avoidance between autonomous marine surface craft",
+      "year": 2006,
+      "citation_raw": "M. R. Benjamin, J. J. Leonard, J. A. Curcio, and P. M. Newman, “A method for protocol‐based collision avoidance between autonomous marine surface craft,” in Journal of Field Robotics, 2006, vol. 23, no. 5, pp. 333–346.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Adaptive tracking of underwater targets with autonomous sensor networks",
+      "year": 2006,
+      "citation_raw": "D. Eickstedt, M. Benjamin, H. Schmidt, and J. Leonard, “Adaptive tracking of underwater targets with autonomous sensor networks,” in Journal of Underwater Acoustics, 2006, vol. 56, no. 2, pp. 465–495.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Adaptive control of heterogeneous marine sensor platforms in an autonomous sensor network",
+      "year": 2006,
+      "citation_raw": "D. P. Eickstedt, M. R. Benjamin, H. Schmidt, and J. J. Leonard, “Adaptive control of heterogeneous marine sensor platforms in an autonomous sensor network,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2006, pp. 5514–5521.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Real-time Obstacle Avoidance and Mapping for AUVs Operating in Complex Environments",
+      "year": 2006,
+      "citation_raw": "J. C. Leedekerken, J. J. Leonard, M. C. Bosse, and A. Balasuriya, “Real-time Obstacle Avoidance and Mapping for AUVs Operating in Complex Environments,” Proceedings of the Seventh International Symposium on Technology and the Mine Problem: May 2-4, 2006, Naval Postgraduate School, vol. 1, p. 35, 2006.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Short-Baseline Acoustic Tracking with Autonomous Surface Vehicles",
+      "year": 2008,
+      "citation_raw": "J. C. Leedekerken, R. Williams, and J. J. Leonard, “Short-Baseline Acoustic Tracking with Autonomous Surface Vehicles,” in Proceedings of the 2008 IFAC Workshop Navigation, Guidance, and Control of Underwater Vehicles, Limerick, Ireland, 2006.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Trajectory sonar perception in the ligurian sea",
+      "year": 2006,
+      "citation_raw": "R. Rikoski, J. Leonard, P. Newman, and H. Schmidt, “Trajectory sonar perception in the ligurian sea,” Experimental Robotics IX, pp. 557–570, 2006.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Provably Consistent Method for Imposing Exact Sparsity in Feature-based SLAM Information Filters",
+      "year": 2005,
+      "citation_raw": "M. Walter, R. Eustice, and J. Leonard, “A Provably Consistent Method for Imposing Exact Sparsity in Feature-based SLAM Information Filters,” in Proceedings of the International Symposium of Robotics Research (ISRR), San Francisco, CA, 2005, pp. 214–234.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Visually Navigating the RMS Titanic with SLAM Information Filters",
+      "year": 2005,
+      "citation_raw": "R. Eustice, H. Singh, J. Leonard, M. Walter, and R. Ballard, “Visually Navigating the RMS Titanic with SLAM Information Filters,” in Robotics: Science and Systems (RSS), 2005, pp. 57–64.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Single-Cluster Spectral Graph Partitioning for Robotics Applications",
+      "year": 2005,
+      "citation_raw": "E. Olson, M. Walter, S. Teller, and J. J. Leonard, “Single-Cluster Spectral Graph Partitioning for Robotics Applications,” in Proceedings of Robotics: Science and Systems, Cambridge, USA, 2005, pp. 265–272.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "SCOUT-a low cost autonomous surface platform for research in cooperative autonomy",
+      "year": 2005,
+      "citation_raw": "J. Curcio, J. Leonard, and A. Patrikalakis, “SCOUT-a low cost autonomous surface platform for research in cooperative autonomy,” 2005, pp. 725–729.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Experiments in moving baseline navigation using autonomous surface craft",
+      "year": 2005,
+      "citation_raw": "J. Curcio, J. Leonard, J. Vaganay, A. Patrikalakis, A. Bahr, D. Battle, H. Schmidt, and M. Grund, “Experiments in moving baseline navigation using autonomous surface craft,” 2005, pp. 730–735.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Robot soccer anywhere: achieving persistent autonomous navigation, mapping, and object vision tracking in dynamic environments",
+      "year": 2005,
+      "citation_raw": "M. Dragone, R. O’Donoghue, J. J. Leonard, G. O’Hare, B. Duffy, A. Patrikalakis, and J. Leederkerken, “Robot soccer anywhere: achieving persistent autonomous navigation, mapping, and object vision tracking in dynamic environments,” 2005, vol. 5827, pp. 255–264.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Exactly Sparse Delayed State Filters",
+      "year": 2005,
+      "citation_raw": "R. Eustice, H. Singh, and J. Leonard, “Exactly Sparse Delayed State Filters,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Barcelona, Spain, 2005, pp. 2417–2424.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Sparse extended information filters: Insights into sparsification",
+      "year": 2005,
+      "citation_raw": "R. Eustice, M. Walter, and J. Leonard, “Sparse extended information filters: Insights into sparsification,” in Intelligent Robots and Systems, 2005.(IROS 2005). 2005 IEEE/RSJ International Conference on, 2005, pp. 3281–3288.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Towards constant-time SLAM on an autonomous underwater vehicle using synthetic aperture sonar",
+      "year": 2005,
+      "citation_raw": "P. M. Newman, J. J. Leonard, and R. J. Rikoski, “Towards constant-time SLAM on an autonomous underwater vehicle using synthetic aperture sonar,” Robotics Research, pp. 409–420, 2005.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "An Experimental Investigation of Cooperative SLAM",
+      "year": 2004,
+      "citation_raw": "M. Walter and J. Leonard, “An Experimental Investigation of Cooperative SLAM,” in Proceedings of the Fifth IFAC Symposium on Intelligent Autonomous Vehicles, Lisbon, Portugal, 2004.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Robust Range-only Beacon Localization",
+      "year": 2004,
+      "citation_raw": "E. Olson, J. J. Leonard, and S. Teller, “Robust Range-only Beacon Localization,” in AUV 2004, 2004.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Experimental Validation of the Moving Long Base Line Navigation Concept",
+      "year": 2004,
+      "citation_raw": "J. Vaganay, J. J. Leonard, J. A. Curcio, and J. S. Willcox, “Experimental Validation of the Moving Long Base Line Navigation Concept,” in Autonomous Underwater Vehicles, 2004 IEEE/OES, 2004, pp. 59–65.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Simultaneous Localization and Map Building in Large-Scale Cyclic Environments Using the Atlas Framework",
+      "year": 2004,
+      "citation_raw": "M. Bosse, P. Newman, J. Leonard, and S. Teller, “Simultaneous Localization and Map Building in Large-Scale Cyclic Environments Using the Atlas Framework,” in Intl. J. of Robotics Research, 2004, vol. 23, no. 12, pp. 1113–1139.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Robust distributed network localization with noisy range measurements",
+      "year": 2004,
+      "citation_raw": "D. Moore, J. Leonard, D. Rus, and S. Teller, “Robust distributed network localization with noisy range measurements,” in Proceedings of the 2nd international conference on Embedded networked sensor systems, 2004, pp. 50–61.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Sub-seabed mapping using AUV-based multistatic acoustic sensing and adaptive control",
+      "year": 2004,
+      "citation_raw": "H. Schmidt, J. Leonard, J. R. Edwards, and T. C. Liu, “Sub-seabed mapping using AUV-based multistatic acoustic sensing and adaptive control,” in International congress on the applications of recent advances in underwater detection and survey techniques to underwater archaeology, 2004.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "An experimental investigation of cooperative SLAM",
+      "year": 2004,
+      "citation_raw": "M. Walter and J. Leonard, “An experimental investigation of cooperative SLAM,” in Proceedings of the Fifth IFAC/EURON Symposium on Intelligent Autonomous Vehicles,(Lisbon, Portugal), 2004.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Pure range-only sub-sea SLAM",
+      "year": 2003,
+      "citation_raw": "P. Newman and J. Leonard, “Pure range-only sub-sea SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2003, vol. 2, pp. 1921–1926.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "An Atlas Framework for Scalable Mapping",
+      "year": 2003,
+      "citation_raw": "M. Bosse, P. Newman, J. Leonard, and S. Teller, “An Atlas Framework for Scalable Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2003, pp. 1899–1906.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Vanishing points and three-dimensional lines from omni-directional video",
+      "year": 2003,
+      "citation_raw": "M. Bosse, R. Rikoski, J. Leonard, and S. Teller, “Vanishing points and three-dimensional lines from omni-directional video,” The Visual Computer, vol. 19, no. 6, pp. 417–430, 2003.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Consistent, Convergent, and Constant-time SLAM",
+      "year": 2003,
+      "citation_raw": "J. J. Leonard and P. M. Newman, “Consistent, Convergent, and Constant-time SLAM,” in International Joint Conference on Artificial Intelligence, 2003, vol. 18, pp. 1143–1150.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Towards robust data association and feature modeling for concurrent mapping and localization",
+      "year": 2003,
+      "citation_raw": "J. Leonard, P. Newman, R. Rikoski, J. Neira, and J. Tardós, “Towards robust data association and feature modeling for concurrent mapping and localization,” Robotics Research, pp. 7–20, 2003.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Consistent, convergent, and constant-time SLAM",
+      "year": 2003,
+      "citation_raw": "J. Leonard and P. Newman, “Consistent, convergent, and constant-time SLAM,” 2003, pp. 1143–1150.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Autonomous Feature-based Exploration",
+      "year": 2003,
+      "citation_raw": "P. Newman, M. Bosse, and J. Leonard, “Autonomous Feature-based Exploration,” in Proc. IEEE Int. Conf. Robotics and Automation, 2003, vol. 1, pp. 1234–1240.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Towards constant-time SLAM on an autonomous underwater vehicle using synthetic aperture sonar",
+      "year": 2003,
+      "citation_raw": "P. Newman, J. J. Leonard, and R. Rikoski, “Towards constant-time SLAM on an autonomous underwater vehicle using synthetic aperture sonar,” in Proceedings of the eleventh international symposium on robotics research, Sienna, Italy, 2003.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Sonar Trajectory Perception",
+      "year": 2003,
+      "citation_raw": "R. Rikoski and J. Leonard, “Sonar Trajectory Perception,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Taiwan, 2003, vol. 1, pp. 963–970.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Mapping Partially Observable Features from Multiple Uncertain Vantage Points",
+      "year": 2002,
+      "citation_raw": "J. J. Leonard, R. R. Rikoski, P. M. Newman, and M. Bosse, “Mapping Partially Observable Features from Multiple Uncertain Vantage Points,” Intl. J. of Robotics Research, vol. 7, no. 3, pp. 943–975, Oct. 2002.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Vanishing Points and 3D Lines from Omnidirectional Video",
+      "year": 2002,
+      "citation_raw": "M. Bosse, R. Rikoski, J. Leonard, and S. Teller, “Vanishing Points and 3D Lines from Omnidirectional Video,” in International Conference on Image Processing, Rochester, NY, 2002.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Explore and Return: Experimental Validation of Real Time Concurrent Mapping and Localization",
+      "year": 2002,
+      "citation_raw": "P. Newman, J. Leonard, J. Neira, and J. Tardós, “Explore and Return: Experimental Validation of Real Time Concurrent Mapping and Localization,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Washington, DC, 2002, pp. 1802–1809.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Stochastic Mapping Frameworks",
+      "year": 2002,
+      "citation_raw": "R. Rikoski, J. Leonard, and P. Newman, “Stochastic Mapping Frameworks,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Washington, DC, 2002, pp. 426–433.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Robust mapping and localization in indoor environments using sonar data",
+      "year": 2002,
+      "citation_raw": "J. D. Tardós, J. Neira, P. M. Newman, and J. J. Leonard, “Robust mapping and localization in indoor environments using sonar data,” in Intl. J. of Robotics Research, 2002, vol. 21, no. 4, pp. 311–330.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Cooperative concurrent mapping and localization",
+      "year": 2002,
+      "citation_raw": "J. W. Fenwick, P. M. Newman, and J. J. Leonard, “Cooperative concurrent mapping and localization,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2002, vol. 2, pp. 1810–1817.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A network protocol for multiple AUV localization",
+      "year": 2002,
+      "citation_raw": "M. Stojanovic, L. Freitag, J. Leonard, and P. A. N. P. Newman, “A network protocol for multiple AUV localization,” 2002, vol. 1, pp. 604–611.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Concurrent Mapping and Localization for Multiple Autonomous Underwater Vehicles",
+      "year": 2001,
+      "citation_raw": "J. J. Leonard, P. M. Newman, J. W. Fenwick, and R. J. Rikoski, “Concurrent Mapping and Localization for Multiple Autonomous Underwater Vehicles,” in GOATS Workshop, 2001.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Incorporation of delayed decision making into stochastic mapping",
+      "year": 2001,
+      "citation_raw": "J. J. Leonard and R. J. Rikoski, “Incorporation of delayed decision making into stochastic mapping,” 2001, pp. 533–542.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Decoupled stochastic mapping",
+      "year": 2001,
+      "citation_raw": "J. J. Leonard and H. J. S. Feder, “Decoupled stochastic mapping,” IEEE J. of Oceanic Eng., vol. 26, no. 4, pp. 561–571, 2001.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Decoupled stochastic mapping [for mobile robot & auv navigation]",
+      "year": 2001,
+      "citation_raw": "J. J. Leonard and H. J. S. Feder, “Decoupled stochastic mapping [for mobile robot & auv navigation],” in IEEE Journal of Oceanic Engineering, 2001, vol. 26, no. 4, pp. 561–571.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Incorporation of delayed decision making into stochastic mapping",
+      "year": 2001,
+      "citation_raw": "J. J. Leonard and R. Rikoski, “Incorporation of delayed decision making into stochastic mapping,” in Experimental Robotics VII, D. Rus and S. Singh, Eds. Springer-Verlag, 2001.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Stochastic mapping using forward look sonar",
+      "year": 2001,
+      "citation_raw": "J. J. Leonard, R. Carpenter, and H. J. S. Feder, “Stochastic mapping using forward look sonar,” Robotica, vol. 19, pp. 467–480, 2001.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Mobile robot relocation from echolocation constraints",
+      "year": 2000,
+      "citation_raw": "J. H. Lim and J. J. Leonard, “Mobile robot relocation from echolocation constraints,” IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 22, no. 9, pp. 1035–1041, Sept. 2000.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Cooperative mapping and navigation for multiple unmanned underwater vehicles",
+      "year": 2000,
+      "citation_raw": "J. J. Leonard, “Cooperative mapping and navigation for multiple unmanned underwater vehicles,” in International Unmanned Undersea Vehicle Symposium, Naval Undersea Warfare Center, Newport, RI, 2000.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A behavior-based approach to adaptive feature detection and following with autonomous underwater vehicles",
+      "year": 2000,
+      "citation_raw": "A. A. Bennett and J. J. Leonard, “A behavior-based approach to adaptive feature detection and following with autonomous underwater vehicles,” in IEEE Journal of Oceanic Engineering, 2000, vol. 25, no. 2, pp. 213–226.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Navigation sensor data fusion for the AUV REMUS",
+      "year": 2000,
+      "citation_raw": "T. F. Fulton, C. J. Cassidy, R. G. Stokey, and J. J. Leonard, “Navigation sensor data fusion for the AUV REMUS,” in Proceedings of the Symposium on Underwater Robotic Technology, World Automation Congress, Hawaii, 2000.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Experimental analysis of adaptive concurrent mapping and localization using sonar",
+      "year": 2000,
+      "citation_raw": "J. Leonard and H. Feder, “Experimental analysis of adaptive concurrent mapping and localization using sonar,” in Experimental Robotics VI, 2000, vol. 250, pp. 297–306.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A computationally efficient method for large-scale concurrent mapping and localization",
+      "year": 2000,
+      "citation_raw": "J. J. Leonard and H. J. S. Feder, “A computationally efficient method for large-scale concurrent mapping and localization,” Snowbird, Utah, 2000, pp. 169–176.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Large-scale concurrent mapping and localization",
+      "year": 2000,
+      "citation_raw": "J. J. Leonard, “Large-scale concurrent mapping and localization,” in Proceedings of SPIE, 2000, vol. 4196, p. 370.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Mobile robot relocation from echolocation constraints",
+      "year": 2000,
+      "citation_raw": "J. H. Lim and J. J. Leonard, “Mobile robot relocation from echolocation constraints,” in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2000, vol. 22, no. 9, pp. 1035–1041.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Feature-relative navigation of an autonomous underwater vehicle",
+      "year": 1999,
+      "citation_raw": "A. B. Bennett and J. J. Leonard, “Feature-relative navigation of an autonomous underwater vehicle,” in Proc. Int. Symp. on Unmanned Untethered Submersible Technology, 1999.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Stochastic Mapping Using Forward Look Sonar",
+      "year": 1999,
+      "citation_raw": "J. J. Leonard, R. N. Carpenter, and H. J. S. Feder, “Stochastic Mapping Using Forward Look Sonar,” in International Conference on Field and Service Robotics, Pittsburgh, Pennsylvania, 1999, pp. 69–74.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Adaptive Mobile Robot Navigation and Mapping",
+      "year": 1999,
+      "citation_raw": "H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Adaptive Mobile Robot Navigation and Mapping,” in The International Journal of Robotics Research, 1999, vol. 18, no. 7, pp. 650–668.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Decoupled Stochastic Mapping, Part II: Performance Analysis",
+      "year": 1999,
+      "citation_raw": "H. J. S. Feder and J. J. Leonard, “Decoupled Stochastic Mapping, Part II: Performance Analysis,” in IEEE Transactions on Robotics and Automation, 1999.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Fusing range and intensity images for mobile robot localization",
+      "year": 1999,
+      "citation_raw": "J. Neira, J. D. Tardós, J. Horn, and G. Schmidt, “Fusing range and intensity images for mobile robot localization,” in IEEE Transactions on robotics and automation, 1999, vol. 15, no. 1, pp. 76–84.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Multiple Target Tracking with Navigation Uncertainty",
+      "year": 1998,
+      "citation_raw": "C. M. Smith, H. J. S. Feder, and J. J. Leonard, “Multiple Target Tracking with Navigation Uncertainty,” in IEEE Int Conference on Decision and Control (CDC), Tampa, FL, 1998, vol. 1, pp. 760–761.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Adaptive concurrent mapping and localization using sonar",
+      "year": 1998,
+      "citation_raw": "H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Adaptive concurrent mapping and localization using sonar,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Victoria, B.C., Canada, 1998, vol. 2, pp. 892–898.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Comparison of Fix Computation and Filtering for Autonomous Acoustic Navigation",
+      "year": 1998,
+      "citation_raw": "J. Vaganay, J. G. Bellingham, and J. J. Leonard, “Comparison of Fix Computation and Filtering for Autonomous Acoustic Navigation,” International Journal of Systems Science, vol. 29, no. 10, pp. 1111–1122, Oct. 1998.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Adaptive Sensing for Terrain Aided Navigation",
+      "year": 1998,
+      "citation_raw": "H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Adaptive Sensing for Terrain Aided Navigation,” in IEEE Oceans, Nice, France, 1998, pp. 336–341.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Incorporating Environmental Measurements in Navigation",
+      "year": 1998,
+      "citation_raw": "H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Incorporating Environmental Measurements in Navigation,” 1998, pp. 115–122.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Feature localization and classification from echolocation constraints with navigation uncertainty",
+      "year": 1998,
+      "citation_raw": "J. J. Leonard and H. J. S. Feder, “Feature localization and classification from echolocation constraints with navigation uncertainty,” in The Journal of the Acoustical Society of America, 1998, vol. 104, no. 3, pp. 1837–1838.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Making Difficult Decisions Autonomously: The Impact of Integrated Mapping and Navigation",
+      "year": 1998,
+      "citation_raw": "C. M. Smith, J. J. Leonard, and H. J. S. Feder, “Making Difficult Decisions Autonomously: The Impact of Integrated Mapping and Navigation,” 1998, pp. 123–132.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Feature-based concurrent mapping and localization for AUVs",
+      "year": 1997,
+      "citation_raw": "C. M. Smith, J. J. Leonard, A. A. Bennett, and C. Shaw, “Feature-based concurrent mapping and localization for AUVs,” in OCEANS ’97. MTS/IEEE Conference Proceedings, 1997, vol. 2, pp. 896–901.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Sensor data fusion in marine robotics",
+      "year": 1997,
+      "citation_raw": "J. J. Leonard and C. M. Smith, “Sensor data fusion in marine robotics,” in Proceedings of the International Society of Offshore and Polar Engineering, 1997.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Curved Shape Reconstruction Using Multiple Hypothesis Tracking",
+      "year": 1997,
+      "citation_raw": "B. A. Moran, J. J. Leonard, and C. Chryssostomidis, “Curved Shape Reconstruction Using Multiple Hypothesis Tracking,” IEEE journal of Oceanic Engineering, vol. 22, no. 4, pp. 625–638, 1997.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A multiple-hypothesis approach to concurrent mapping and localization for autonomous underwater vehicles",
+      "year": 1997,
+      "citation_raw": "C. M. Smith and J. J. Leonard, “A multiple-hypothesis approach to concurrent mapping and localization for autonomous underwater vehicles,” in International Conference on Field and Service Robotics, 1997, pp. 237–244.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Concurrent Mapping and Localization for Autonomous Underwater Vehicles",
+      "year": 1997,
+      "citation_raw": "C. M. Smith, J. J. Leonard, A. A. Bennett, and C. Shaw, “Concurrent Mapping and Localization for Autonomous Underwater Vehicles,” in Undersea Defence Technology, 1997, pp. 338–342.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Map based navigation for autonomous underwater vehicles",
+      "year": 1997,
+      "citation_raw": "S. T. Tuohy, J. J. Leonard, and J. G. Bellingham, “Map based navigation for autonomous underwater vehicles,” in Oceanographic Literature Review, 1997, vol. 12, no. 44, p. 1571.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Outlier Rejection for Autonomous Acoustic Navigation",
+      "year": 1996,
+      "citation_raw": "J. Vaganay, J. G. Bellingham, and J. J. Leonard, “Outlier Rejection for Autonomous Acoustic Navigation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 1996, pp. 2174–2181.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Map Based Navigation for Autonomous Underwater Vehicles",
+      "year": 1996,
+      "citation_raw": "S. T. Tuohy, J. J. Leonard, J. G. Bellingham, N. M. Patrikalakis, and C. Chryssostomidis, “Map Based Navigation for Autonomous Underwater Vehicles,” International Journal of Offshore and Polar Engineering, vol. 6, no. 1, pp. 9–18, Mar. 1996.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Autonomous mapping with an AUV: an approach for ground truthing of remote sensing data",
+      "year": 1996,
+      "citation_raw": "A. A.Bennett and J. J. Leonard, “Autonomous mapping with an AUV: an approach for ground truthing of remote sensing data,” in OCEANS’96. MTS/IEEE.’Prospects for the 21st Century’. Conference Proceedings, 1996, vol. 3, pp. 1099–1104.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Experiments in remote monitoring and control of autonomous underwater vehicles",
+      "year": 1996,
+      "citation_raw": "J. H. Kim, B. A. Moran, J. J. Leonard, J. G. Bellingham, and S. T. Tuohy, “Experiments in remote monitoring and control of autonomous underwater vehicles,” in IEEE Oceans, 1996, pp. 411–416.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "An acoustic navigation system for multi-vehicle operations",
+      "year": 1995,
+      "citation_raw": "D. K. Atwood, J. J. Leonard, J. G. Bellingham, and B. A. Moran, “An acoustic navigation system for multi-vehicle operations,” in International Symposium on Unmanned Untethered Submersible Technology, 1995, pp. 202–208.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Bottom Following for Survey Class Autonomous Underwater Vehicles",
+      "year": 1995,
+      "citation_raw": "A. B. Bennett, J. J. Leonard, and J. G. Bellingham, “Bottom Following for Survey Class Autonomous Underwater Vehicles,” in Proc Int Symp on Unmanned Untethered Submersible Technology, 1995, pp. 327–336.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Virtual Environments for AUV Development and Ocean Exploration",
+      "year": 1995,
+      "citation_raw": "J. J. Leonard, S. T. Tuohy, J. G. Bellingham, B. A. Moran, J. H. Kim, H. Schmidt, N. M. Patrikalakis, and C. Chryssostomidis, “Virtual Environments for AUV Development and Ocean Exploration,” in Proc. Int. Symp. on Unmanned Untethered Submersible Technology, 1995, pp. 436–443.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Underwater Sonar Data Fusion Using an Efficient Multiple Hypothesis Algorithm",
+      "year": 1995,
+      "citation_raw": "J. J. Leonard, B. A. Moran, I. J. Cox, and M. L. Miller, “Underwater Sonar Data Fusion Using an Efficient Multiple Hypothesis Algorithm,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 1995, pp. 2995–3002.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "AUV Operations in the Arctic",
+      "year": 1995,
+      "citation_raw": "J. G. Bellingham, J. J. Leonard, J. Vaganay, C. Goudey, D. Atwood, T. Consi, J. Bales, H. Schmidt, and C. Chryssostomidis, “AUV Operations in the Arctic,” in Proceedings of the Sea Ice Mechanics and Arctic Modeling Workshop, Anchorage, Alaska, USA, 1995, pp. 25–28.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Remote Communication for Monitoring and Control of Autonomous Underwater Vehicles",
+      "year": 1995,
+      "citation_raw": "J. H. Kim, J. J. Leonard, J. G. Bellingham, B. A. Moran, and S. T. Tuohy, “Remote Communication for Monitoring and Control of Autonomous Underwater Vehicles,” in IEEE OCEANS, 1995, vol. 96, p. 1.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Virtual environments for ocean exploration and visualization",
+      "year": 1995,
+      "citation_raw": "N. M. Patrikalakis, C. Chryssostomidis, S. T. Tuohy, J. G. Bellingham, J. J. Leonard, J. W. Bales, and J. W. Yoon., “Virtual environments for ocean exploration and visualization,” in Workshop on Computer Graphics Technology in the Exploration of the Sea, Rostock, Germany, 1995.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Task Configuration with Layered Control",
+      "year": 1994,
+      "citation_raw": "J. G. Bellingham and J. J. Leonard, “Task Configuration with Layered Control,” in Proceedings of the IARP 2nd Workshop on Mobile Robots for Subsea Environments, Monterey, CA, USA, 1994, pp. 193–302.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Modeling a dynamic environment using a Bayesian multiple hypothesis approach",
+      "year": 1994,
+      "citation_raw": "I. Cox and J. Leonard, “Modeling a dynamic environment using a Bayesian multiple hypothesis approach,” Artificial Intelligence, pp. 311–344, Apr. 1994.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Odyssey II: A Second Generation Survey AUV",
+      "year": 1994,
+      "citation_raw": "J. Bellingham, C. Goudey, T. Consi, J. Bales, D. Atwood, J. J. Leonard, and C. Chryssostomidis, “Odyssey II: A Second Generation Survey AUV,” in IEEE Symposium on Autonomous Underwater Vehicle Technology, Cambridge, MA, 1994, pp. 148–156.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Unsupervised Learning for Mobile Robot Navigation using Probabilistic Data Association",
+      "year": 1994,
+      "citation_raw": "I. J. Cox and J. J. Leonard, “Unsupervised Learning for Mobile Robot Navigation using Probabilistic Data Association,” in Proceedings of the workshop on Computational learning theory and natural learning systems (vol 2): intersections between theory and experiment: intersections between theory and experiment, 1994, pp. 297–319.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Modeling a dynamic environment using a Bayesian multiple hypothesis approach",
+      "year": 1994,
+      "citation_raw": "I. J. Cox and J. J. Leonard, “Modeling a dynamic environment using a Bayesian multiple hypothesis approach,” Artificial Intelligence, vol. 66, no. 2, pp. 311–344, 1994.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Arctic Under-Ice Survey Operations",
+      "year": 1993,
+      "citation_raw": "J. G. Bellingham, C. Chryssostomidis, M. Deffenbaugh, J. J. Leonard, and H. Schmidt, “Arctic Under-Ice Survey Operations,” in Proc Int Symp on Unmanned Untethered Submersible Technology, 1993, pp. 50–59.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Underwater Sonar Data Fusion Using all Efficient Multiple Hypothesis Algorithm",
+      "year": 1993,
+      "citation_raw": "J. J. Leonard, B. A. Moran, I. J. Cox, and M. L. Miller, “Underwater Sonar Data Fusion Using all Efficient Multiple Hypothesis Algorithm,” in IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, 1993, vol. 1, no. 3, pp. 2995–2995.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Directed-sensing strategies for feature-relative navigation",
+      "year": 1993,
+      "citation_raw": "J. J. Leonard and J. G. Bellingham, “Directed-sensing strategies for feature-relative navigation,” in Proc. SPIE, 1993, vol. 2059, pp. 120–129.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Shape reconstruction from high‐frequency sonar data for robotic tasks",
+      "year": 1993,
+      "citation_raw": "J. J. Leonard, C. Chryssostomidis, and B. A. Moran, “Shape reconstruction from high‐frequency sonar data for robotic tasks,” in The Journal of the Acoustical Society of America, 1993, vol. 93, no. 4, pp. 2340–2340.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Geometric Shape from Sonar Ranging",
+      "year": 1993,
+      "citation_raw": "B. A. Moran, J. J. Leonard, and C. Chryssostomidis, “Geometric Shape from Sonar Ranging,” in Proc. Int. Symp. on Unmanned Untethered Submersible Technology, 1993, pp. 370–383.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "AUV navigation using geophysical maps with uncertainty",
+      "year": 1993,
+      "citation_raw": "S. T. Tuohy, N. M. Patrikalakis, J. J. Leonard, J. G. Bellingham, and C. Chryssostomidis, “AUV navigation using geophysical maps with uncertainty,” in INTERNATIONAL SYMPOSIUM ON UNMANNED UNTETHERED SUBMERSIBLE TECHNOLOGY, 1993, pp. 265–265.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Dynamic Map Building for an Autonomous Mobile Robot",
+      "year": 1992,
+      "citation_raw": "J. J. Leonard, H. F. Durrant-Whyte, and I. J. Cox, “Dynamic Map Building for an Autonomous Mobile Robot,” Intl. J. of Robotics Research, vol. 11, no. 4, pp. 286–298, Aug. 1992.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Distributed Data Fusion Using Kalman Filtering: A Robotics Application",
+      "year": 1992,
+      "citation_raw": "C. Brown, H. Durrant-Whyte, J. Leonard, B. Rao, and B. Steer, “Distributed Data Fusion Using Kalman Filtering: A Robotics Application,” in Data Fusion in Robotics and Machine Intelligence, 1992, pp. 267–309.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Modeling Sonar Sensors",
+      "year": 1992,
+      "citation_raw": "H. F. Durrant-Whyte and J. J. Leonard, “Modeling Sonar Sensors,” in The Robotics Review II, MIT Press, 1992, pp. 145–151.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Directed Sonar Sensing for Mobile Robot Navigation, Boston: Kluwer Academic Publishers",
+      "year": 1992,
+      "citation_raw": "J. J. Leonard and H. F. Durrant-Whyte, Directed Sonar Sensing for Mobile Robot Navigation. Boston: Kluwer Academic Publishers, 1992.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "A Sonar Sensor Model",
+      "year": 1992,
+      "citation_raw": "J. J. Leonard and H. F. Durrant-Whyte, “A Sonar Sensor Model,” 1992, pp. 13–50.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Sonar Data Fusion for 3-D Scene Reconstruction",
+      "year": 1992,
+      "citation_raw": "J. J. Leonard and B. A. Moran, “Sonar Data Fusion for 3-D Scene Reconstruction,” in SPIE Sensor Fusion V, 1992, vol. 1828, pp. 144–155.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Mobile Robot Localization by Tracking Geometric Beacons",
+      "year": 1991,
+      "citation_raw": "J. J. Leonard and H. F. Durrant-Whyte, “Mobile Robot Localization by Tracking Geometric Beacons,” IEEE Trans Robotics and Automation, vol. 7, no. 3, pp. 376–382, June 1991.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Temporal Integration of Multiple Sensor Observations for Dynamic World Modeling: A Multiple Hypothesis Approach",
+      "year": 1991,
+      "citation_raw": "I. J. Cox and J. J. Leonard, “Temporal Integration of Multiple Sensor Observations for Dynamic World Modeling: A Multiple Hypothesis Approach,” in International Workshop on Information Processing for Autonomous Mobile Robots: Theory and Application, Munich, Germany, 1991.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Probabilistic Data Association for Dynamic World Modeling: A Multiple Hypothesis Approach",
+      "year": 1991,
+      "citation_raw": "I. J. Cox and J. J. Leonard, “Probabilistic Data Association for Dynamic World Modeling: A Multiple Hypothesis Approach,” 1991, pp. 1287–1294.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "ENGLAND USA",
+      "year": 1991,
+      "citation_raw": "J. Leonard and H. D.-W. I. J. Cox, “ENGLAND USA,” in Autonomous Mobile Robots: Perception, mapping, and navigation, 1991, vol. 1, p. 331.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Sonar interpretation using regions of constant depth (RCDs)",
+      "year": 1991,
+      "citation_raw": "J. J. Leonard, “Sonar interpretation using regions of constant depth (RCDs),” in IEE Colloquium on Robot Sensors, 1991, pp. 1/1–1/4.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Simultaneous Map Building and Localization for an Autonomous Mobile Robot",
+      "year": 1991,
+      "citation_raw": "J. J. Leonard and H. F. Durrant-Whyte, “Simultaneous Map Building and Localization for an Autonomous Mobile Robot,” in Proc IEEE Int Workshop on Intelligent Robots and Systems, 1991, vol. 3, pp. 1442–1447.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Sensor-based control of AGVs",
+      "year": 1990,
+      "citation_raw": "M. Brady, H. Durrant-Whyte, H. Huosheng, J. Leonard, P. Probert, and B. S. Y. Rao, “Sensor-based control of AGVs,” Computing & Control Engineering Journal, vol. 1, no. 2, pp. 64–70, 1990.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Application of multi-target tracking to sonar-based mobile robot navigation",
+      "year": 1990,
+      "citation_raw": "J. J. Leonard and H. F. Durrant-Whyte, “Application of multi-target tracking to sonar-based mobile robot navigation,” in 29th IEEE Int. Conference on Decision and Control, 1990, pp. 3118–3123.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Mobile robot localization by tracking geometric constraints",
+      "year": 1990,
+      "citation_raw": "J. Leonard and H. F. Durrant-Whyte, “Mobile robot localization by tracking geometric constraints,” in IEEE Conference on Decision and Control, 1990.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Dynamic Map Building for an Autonomous Mobile Robot",
+      "year": 1990,
+      "citation_raw": "J. J. Leonard, I. J. Cox, and H. F. Durrant-Whyte, “Dynamic Map Building for an Autonomous Mobile Robot,” in Proc. IEEE Int. Workshop on Intelligent Robots and Systems, 1990, pp. 89–96.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Active Sensor Control for Mobile Robotics",
+      "year": 1989,
+      "citation_raw": "J. J. Leonard and H. F. Durrant-Whyte, “Active Sensor Control for Mobile Robotics,” in IARP Int. Conf. on Multi-Sensor Fusion and Environment Modelling, Toulouse, France, 1989.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Sensor-based Control of AGV’s",
+      "year": 1990,
+      "citation_raw": "M. Brady, H. Durrant-Whyte, H. Hu, J. Leonard, P. Probert, and B. Rao, “Sensor-based Control of AGV’s,” in IARP 1st Workshop on Domestic Robots and 2nd Workshop on Medical and Healthcare Robotics, 1989, Also published in \\em Int. Workshop on Sensorial Integration for Industrial Robots, Zaragoza, Spain, November, 1989, and \\em IEE Computing and Control Journal, March 1990.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Centralized and Decentralized Kalman Filter Techniques for Tracking, Navigation, and Control",
+      "year": 1989,
+      "citation_raw": "C. Brown, H. Durrant-Whyte, J. Leonard, and B. Rao, “Centralized and Decentralized Kalman Filter Techniques for Tracking, Navigation, and Control,” in DARPA Image Understanding Workshop, 1989, pp. 651–675.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Navigation by Correlating Geometric Sensor Data",
+      "year": 1989,
+      "citation_raw": "H. F. Durrant-Whyte and J. J. Leonard, “Navigation by Correlating Geometric Sensor Data,” in Proc. IEEE Int. Workshop on Intelligent Robots and Systems, 1989.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    },
+    {
+      "title": "Active Sensor Control for Mobile Robotics",
+      "year": 1989,
+      "citation_raw": "J. O. H. N. J. LEONARD and H. U. G. H. F. DURRANT-WHYTE, “Active Sensor Control for Mobile Robotics,” in IARP Int Conf on Multi-Sensor Fusion and Environment Modelling, 1989.",
+      "source_url": "https://marinerobotics.mit.edu/publications"
+    }
+  ]
 }

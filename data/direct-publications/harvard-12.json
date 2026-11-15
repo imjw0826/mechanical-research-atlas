@@ -5,13 +5,751 @@
   "lab_name": null,
   "lab_url": "https://aziz.seas.harvard.edu/",
   "publication_urls": [
-    "https://aziz.seas.harvard.edu/publications"
+    "https://aziz.seas.harvard.edu/publications",
+    "https://aziz.seas.harvard.edu/publications?page=1",
+    "https://aziz.seas.harvard.edu/publications?page=0",
+    "https://aziz.seas.harvard.edu/publications?page=2",
+    "https://joss.theoj.org/papers/10.21105/joss.06537",
+    "https://aziz.seas.harvard.edu/publications?page=4",
+    "https://aziz.seas.harvard.edu/publications?page=6",
+    "https://aziz.seas.harvard.edu/publications?page=8",
+    "https://aziz.seas.harvard.edu/publications?page=3",
+    "https://aziz.seas.harvard.edu/publications?page=5",
+    "https://aziz.seas.harvard.edu/publications?page=7",
+    "https://aziz.seas.harvard.edu/publications?page=13"
   ],
-  "accessed_at": "2026-11-11T13:50:51.768Z",
-  "coverage_notes": [
-    "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
-    "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
-  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 32개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 12개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "The Independence of Nanopattern Formation and Stress Evolution During Low-Energy Ar+ Bombardment of Si",
+      "year": 2026,
+      "citation_raw": "Haojin Li, Benli Jiang, Faith Hines, Wei-Jing Chen, Anubhav Wadehra, Walter Mendoza, Aviva Harman, Christina Wan, Derek Qin, Peco Myint, Jiaqi Tang, Joy C. Perkinson, Michael J. Aziz, and Karl F. Ludwig Jr. 2026. “The Independence of Nanopattern Formation and Stress Evolution During Low-Energy Ar+ Bombardment of Si”. Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions With Materials and Atoms",
+      "source_url": "https://aziz.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Evaluation of Highly Stable Redox‑active Materials for Aqueous Organic Redox Flow Batteries Using Static Cells",
+      "year": 2025,
+      "citation_raw": "Jordan D. Sosa and Michael J. Aziz. 2025. “Evaluation of Highly Stable Redox‑active Materials for Aqueous Organic Redox Flow Batteries Using Static Cells”. MRS Energy & Sustainability, 12",
+      "source_url": "https://aziz.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Print-and-Plate Architected Electrodes for Electrochemical Transformations Under Flow",
+      "year": 2025,
+      "citation_raw": "Dylan M. Barber, Sofía Edgar, Michael S. Emanuel, Michael D. Nelwood, Bok Yeop Ahn, Benito Román-Manso, Thomas Cochard, Justin Platero, Kiana Amini, Chris H. Rycroft, Shmuel Rubinstein, Michael J. Aziz, and Jennifer A. Lewis. 2025. “Print-and-Plate Architected Electrodes for Electrochemical Transformations Under Flow”. Advanced Functional Materials",
+      "source_url": "https://aziz.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Electrochemical Acid–base Generators for Decoupled Carbon Management",
+      "year": 2025,
+      "citation_raw": "Dawei Xi, Zheng Yang, Michael Emanuel, Panlin Zhao, and Michael Aziz. 2025. “Electrochemical Acid–base Generators for Decoupled Carbon Management”. Energy & Environmental Science",
+      "source_url": "https://aziz.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ion Pairing Enhances Hydroquinone Stability Toward Oxygen in Aqueous Electrochemical Carbon Dioxide Capture",
+      "year": 2025,
+      "citation_raw": "Abdulrahman M. Alfaraidi, Nina Ni, Jordan Sosa, Sara Lia, Mayar Alhelaili, Nathan Faialaga, Nawal M. Alghoraibi, Husain H. Al Naji, Ammar H. Alahmed, Aqil Jamal, Michael J. Aziz, and Richard Liu. 2025. “Ion Pairing Enhances Hydroquinone Stability Toward Oxygen in Aqueous Electrochemical Carbon Dioxide Capture”. Nature Communications",
+      "source_url": "https://aziz.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Confinement of Organic Molecules in Microporous Electrodes for Enhanced Energy Storage",
+      "year": 2025,
+      "citation_raw": "Jordan D. Sosa, Arunraj Balaji-Wright, Jintao Wu, Luana Cristina Italiano Faria, Abdulrahman M. Alfaraidi, Kyumin Lee, Matthew E. Suss, Ali Mani, Filipe Camargo Dalmatti Alves Lima, Frank Nelson Crespilho, and Michael J. Aziz. 2025. “Confinement of Organic Molecules in Microporous Electrodes for Enhanced Energy Storage”. ACS Applied Energy Materials",
+      "source_url": "https://aziz.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Direct Air Capture of CO2 in an Electrochemical Hybrid Flow Cell With a Spatially Isolated Phenazine Electrode",
+      "year": 2025,
+      "citation_raw": "Xinyu Jin, Shijian Jin, Lu Li, Roy G. Gordon, Pan Wang, Michael J. Aziz, and Yunlong Ji. 2025. “Direct Air Capture of CO2 in an Electrochemical Hybrid Flow Cell With a Spatially Isolated Phenazine Electrode”. Nature Energy",
+      "source_url": "https://aziz.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Electrifying Industrial Hydrogen Peroxide Production via Soft Interfacial Molecular Mediation",
+      "year": 2025,
+      "citation_raw": "Dawei Xi, Yuheng Wu, Yuli Li, Zifei Yan, Richard Liu, and Michael J. Aziz. 2025. “Electrifying Industrial Hydrogen Peroxide Production via Soft Interfacial Molecular Mediation”. Nature Chemistry",
+      "source_url": "https://aziz.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Evaluation of Highly Stable Redox-Active Materials for Aqueous Organic Redox Flow Batteries Using Static Cells",
+      "year": 2025,
+      "citation_raw": "Jordan D. Sosa and Michael J. Aziz. 2025. “Evaluation of Highly Stable Redox-Active Materials for Aqueous Organic Redox Flow Batteries Using Static Cells”. MRS Energy & Sustainability",
+      "source_url": "https://aziz.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Reduced Flow Battery Capacity Fade from Mixed Redox-Active Organics Beyond the Rule of Mixtures",
+      "year": 2025,
+      "citation_raw": "Kyumin Lee, Kiana Amini, and Michael J. Aziz. 2025. “Reduced Flow Battery Capacity Fade from Mixed Redox-Active Organics Beyond the Rule of Mixtures”. ACS Energy Letters",
+      "source_url": "https://aziz.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Electrochemically Induced CO2 Capture Enabled by Aqueous Quinone Flow Chemistry",
+      "year": 2024,
+      "citation_raw": "Yan Jing, Kiana Amini, Dawei Xi, Shijian Jin, Abdulrahman Alfaraidi, Emily Kerr, Roy Gordon, and Michael Aziz. 2024. “Electrochemically Induced CO2 Capture Enabled by Aqueous Quinone Flow Chemistry”. ACS Energy Letters, 9, Pp. 3526–3535",
+      "source_url": "https://aziz.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Mild PH-Decoupling Aqueous Flow Battery With Practical PH Recovery",
+      "year": 2024,
+      "citation_raw": "Dawei Xi, Abdulrahman M. Alfaraidi, Jinxu Gao, Thomas Cochard, Luana C. I. Faria, Zheng Yang, Thomas Y. George, Taobo Wang, Roy G. Gordon, Richard Y. Liu, and Michael J. Aziz. 2024. “Mild PH-Decoupling Aqueous Flow Battery With Practical PH Recovery”. Nature Energy",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "In Situ Techniques for Aqueous Quinone-Mediated Electrochemical Carbon Capture and Release",
+      "year": 2024,
+      "citation_raw": "Kiana Amini, Thomas Cochard, Yan Jing, Jordan Sosa, Dawei Xi, Maia Alberts, Michael Emanuel, Emily Kerr, Roy Gordon, and Michael Aziz. 2024. “In Situ Techniques for Aqueous Quinone-Mediated Electrochemical Carbon Capture and Release”. Nature Chemical Engineering",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "200-Fold Lifetime Extension of 2,6-Dihydroxyanthraquinone During Flow Battery Operation",
+      "year": 2024,
+      "citation_raw": "Meisam Bahari, Yan Jing, Shijian Jin, Marc-Antoni Goulet, Tatsuhiro Tsukamoto, Roy G. Gordon, and Michael J. Aziz. 2024. “200-Fold Lifetime Extension of 2,6-Dihydroxyanthraquinone During Flow Battery Operation”. ACS Applied Materials & Interfaces",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Leveraging Temperature-Dependent (Electro)Chemical Kinetics for High-Throughput Flow Battery Characterization",
+      "year": 2024,
+      "citation_raw": "Eric M. Fell, Thomas Y. George, Yan Jing, Roy G. Gordon, and Michael J. Aziz. 2024. “Leveraging Temperature-Dependent (Electro)Chemical Kinetics for High-Throughput Flow Battery Characterization”. Journal of the Electrochemical Society, 171, Pp. 040501",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Bicarbonate-Carbonate Selectivity through Nanofiltration for Direct Air Capture of Carbon Dioxide",
+      "year": 2024,
+      "citation_raw": "Anatoly Rinberg and Michael J. Aziz. 2024. “Bicarbonate-Carbonate Selectivity through Nanofiltration for Direct Air Capture of Carbon Dioxide”. ACS ES&T Engineering",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Self-Gelling Quinone-Based Wearable Microbattery",
+      "year": 2024,
+      "citation_raw": "Thiago Bertaglia, Emily F. Kerr, Graziela C. Sedenho, Andrew A. Wong, Rafael N. P. Colombo, Lucyano J. A. Macedo, Rodrigo M. Iost, Luana C. I. Faria, Filipe C. D. A. Lima, Gabriel B. M. Teobaldo, Cristiano L. P. Oliveira, Michael J. Aziz, Roy G. Gordon, and Frank N. Crespilho. 2024. “Self-Gelling Quinone-Based Wearable Microbattery”. Advanced Materials Technologies, Pp. 2400623",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "RFBzero: A Python Package for Zero-Dimensional Simulation of Redox Flow Battery Cycling",
+      "year": 2024,
+      "citation_raw": "Eric M. Fell, Jeremy A. Fell, and Michael J. Aziz. 2024. “RFBzero: A Python Package for Zero-Dimensional Simulation of Redox Flow Battery Cycling”. The Journal of Open Source Software, 9, 98, Pp. 6537",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Influence of Crossover on Capacity Fade of Symmetric Redox Flow Cells",
+      "year": 2024,
+      "citation_raw": "Thomas George, Eric Fell, Kyumin Lee, Michael Emanuel, and Michael Aziz. 2024. “Influence of Crossover on Capacity Fade of Symmetric Redox Flow Cells”. Energy Advances",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Molecular Mechanism and Electrostatic Effect Enabling Symmetric All-Quinone Aqueous Redox Flow Batteries",
+      "year": 2024,
+      "citation_raw": "José Eduardo Santos Clarindo, Rafael Neri Prystaj Colombo, Graziela Cristina Sedenho, Luana Cristina Italiano Faria, Thiago Bertaglia, Filipe Camargo Dalmatti Alves Lima, Roberto Silva Gomes, Michael J. Aziz, and Frank Nelson Crespilho. 2024. “Molecular Mechanism and Electrostatic Effect Enabling Symmetric All-Quinone Aqueous Redox Flow Batteries”. ACS Sustainable Chemistry & Engineering",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Single-Membrane PH-Decoupling Aqueous Batteries Using Proton-Coupled Electrochemistry for PH Recovery",
+      "year": 2024,
+      "citation_raw": "Dawei Xi, Zheng Yang, Abdulrahman M. Alfaraidi, Yan Jing, Roy G. Gordon, and Michael J. Aziz. 2024. “Single-Membrane PH-Decoupling Aqueous Batteries Using Proton-Coupled Electrochemistry for PH Recovery”. Energy Advances",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Electrochemical Hydrogen Storage under Ambient Conditions in Aqueous-Soluble Organics",
+      "year": 2024,
+      "citation_raw": "Taobo Wang, Dawei Xi, and Michael J. Aziz. 2024. “Electrochemical Hydrogen Storage under Ambient Conditions in Aqueous-Soluble Organics”. ACS Applied Energy Materials",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Acid–base Concentration Swing for Direct Aircapture of Carbon Dioxide",
+      "year": 2024,
+      "citation_raw": "Anatoly Rinberg and Michael J. Aziz. 2024. “Acid–base Concentration Swing for Direct Aircapture of Carbon Dioxide”. Energy Advances",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Quantitative Local State of Charge Mapping by Operando Electrochemical Fluorescence Microscopy in Porous Electrodes",
+      "year": 2024,
+      "citation_raw": "Anton M. Graf, Thomas Cochard, Kiana Amini, Michael S. Emanuel, Shmuel M. Rubinstein, and Michael J. Aziz. 2024. “Quantitative Local State of Charge Mapping by Operando Electrochemical Fluorescence Microscopy in Porous Electrodes”. Energy Advances",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Long-Term Stability of Ferri- Ferrocyanide As an Electroactive Component for Redox Flow Battery Applications: On the Origin of Apparent Capacity Fade",
+      "year": 2023,
+      "citation_raw": "Eric M. Fell, Diana De Porcellinis, Yan Jing, Valeria Gutierrez-Venegas, Thomas Y. George, Roy G. Gordon, Sergio Granados-Focil, and Michael J. Aziz. 2023. “Long-Term Stability of Ferri- Ferrocyanide As an Electroactive Component for Redox Flow Battery Applications: On the Origin of Apparent Capacity Fade”. Journal of the Electrochemical Society, 170, Pp. 070525",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "High Energy Density Aqueous Flow Battery Utilizing Extremely Stable, Branching-Induced High-Solubility Anthraquinone Near Neutral PH",
+      "year": 2023,
+      "citation_raw": "Emily F. Kerr, Zhijiang Tang, Thomas Y. George, Shijian Jin, Eric M. Fell, Kiana Amini, Yan Jing, Min Wu, Roy G. Gordon, and Michael J. Aziz. 2023. “High Energy Density Aqueous Flow Battery Utilizing Extremely Stable, Branching-Induced High-Solubility Anthraquinone Near Neutral PH”. ACS Energy Letters, 8, Pp. 600-607",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "An Extremely Stable, Highly Soluble Monosubstituted Anthraquinone for Aqueous Redox Flow Batteries",
+      "year": 2023,
+      "citation_raw": "Kiana Amini, Emily F. Kerr, Thomas Y. George, Abdulrahman M. Alfaraidi, Yan Jing, Tatsuhiro Tsukamoto, Roy G. Gordon, and Michael J. Aziz. 2023. “An Extremely Stable, Highly Soluble Monosubstituted Anthraquinone for Aqueous Redox Flow Batteries”. Advanced Functional Materials, Pp. 2211338",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Sulfonated Diels-Alder Poly(phenylene) Membrane for Efficient Ion-Selective Transport in Aqueous Metalorganic and Organic Redox Flow Batteries",
+      "year": 2023,
+      "citation_raw": "Brian H. Robb, Thomas Y. George, Casey M. Davis, Zhijiang Tang, Cy H. Fujimoto, Michael J. Aziz, and Michael P. Marshak. 2023. “Sulfonated Diels-Alder Poly(phenylene) Membrane for Efficient Ion-Selective Transport in Aqueous Metalorganic and Organic Redox Flow Batteries”. Journal of the Electrochemical Society, 170, Pp. 030515",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Size and Charge Effects on Crossover of Flow Battery Reactants Evaluated by Quinone Permeabilities Through Nafion",
+      "year": 2023,
+      "citation_raw": "Thomas Y. George, Emily F. Kerr, Naphtal O. Haya, Abdulrahman M. Alfaraidi, Roy G. Gordon, and Michael J. Aziz. 2023. “Size and Charge Effects on Crossover of Flow Battery Reactants Evaluated by Quinone Permeabilities Through Nafion”. Journal of the Electrochemical Society, 170, Pp. 040509",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Aqueous Organic Flow Batteries",
+      "year": 2023,
+      "citation_raw": "Yan Jing, Roy G. Gordon, and Michael J. Aziz. 2023. “Aqueous Organic Flow Batteries”. In Redox Flow Batteries. From Fundamentals to Applications. Vol. 2. Weinheim: Wiley-WCH",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Pathways to High-Power-Density Redox Flow Batteries",
+      "year": 2023,
+      "citation_raw": "Kiana Amini, Amit N. Shocron, Matthew E. Suss, and Michael J. Aziz. 2023. “Pathways to High-Power-Density Redox Flow Batteries”. ACS Energy Letters, 8, Pp. 3526-35",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "High-Throughput Electrochemical Characterization of Aqueous Organic Redox Flow Battery Active Material",
+      "year": 2023,
+      "citation_raw": "Eric M. Fell and Michael J. Aziz. 2023. “High-Throughput Electrochemical Characterization of Aqueous Organic Redox Flow Battery Active Material”. Journal of the Electrochemical Society, 170, 10, Pp. 100507",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "A Phenazine-Based High-Capacity and High-Stability Electrochemical CO2 Capture Cell With Coupled Electricity Storage",
+      "year": 2023,
+      "citation_raw": "Shuai Pang, Shijian Jin, Fengcun Yang, Maia Alberts, Lu Li, Dawei Xi, Roy G. Gordon, Pan Wang, Michael J. Aziz, and Yunlong Ji. 2023. “A Phenazine-Based High-Capacity and High-Stability Electrochemical CO2 Capture Cell With Coupled Electricity Storage”. Nature Energy",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Membrane-Electrolyte System Approach to Understanding Ionic Conductivity and Crossover in Alkaline Flow Cells",
+      "year": 2023,
+      "citation_raw": "Thomas Y. George, Isabelle C. Thomas, Naphtal O. Haya, John P. Deneen, Cliffton Wang, and Michael J. Aziz. 2023. “Membrane-Electrolyte System Approach to Understanding Ionic Conductivity and Crossover in Alkaline Flow Cells”. ACS Applied Materials & Interfaces",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Electrochemical Performance of Mixed Redox-Active Organic Molecules in Redox Flow Batteries",
+      "year": 2023,
+      "citation_raw": "Kiana Amini, Yan Jing, Jinxu Gao, Jordan Sosa, Roy Gordon, and Michael Aziz. 2023. “Electrochemical Performance of Mixed Redox-Active Organic Molecules in Redox Flow Batteries”. Journal of the Electrochemical Society, 170, Pp. 120535",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "RFBzero: A Python package for zero-dimensional simulation of redox flow battery cycling",
+      "year": 2024,
+      "citation_raw": "Fell et al., (2024). RFBzero: A Python package for zero-dimensional simulation of redox flow battery cycling. Journal of Open Source Software, 9(98), 6537, https://doi.org/10.21105/joss.06537",
+      "source_url": "https://joss.theoj.org/papers/10.21105/joss.06537"
+    },
+    {
+      "title": null,
+      "year": 2024,
+      "citation_raw": "@article{Fell2024, doi = {10.21105/joss.06537}, url = {https://doi.org/10.21105/joss.06537}, year = {2024}, publisher = {The Open Journal}, volume = {9}, number = {98}, pages = {6537}, author = {Fell, Eric M. and Fell, Jeremy A. and Aziz, Michael J.}, title = {RFBzero: A Python package for zero-dimensional simulation of redox flow battery cycling}, journal = {Journal of Open Source Software} }",
+      "source_url": "https://joss.theoj.org/papers/10.21105/joss.06537"
+    },
+    {
+      "title": "Carrier Dynamics and Absorption Properties of Gold-Hyperdoped Germanium: Insight Into Tailoring Defect Energetics",
+      "year": 2021,
+      "citation_raw": "Sashini Senali Dissanayake, Naheed Ferdous, Hemi H. Gandhi, David Pastor, Tuan T. Tran, Jim Williams, Michael J. Aziz, Eric Mazur, Elif Ertekin, and Meng-Ju Sher. 2021. “Carrier Dynamics and Absorption Properties of Gold-Hyperdoped Germanium: Insight Into Tailoring Defect Energetics”. Physical Review Applied",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Direct Visualization of Electrochemical Reactions and Heterogeneous Transport Within Porous Electrodes in Operando by Fluorescence Microscopy",
+      "year": 2021,
+      "citation_raw": "Andrew A. Wong, Shmuel M. Rubinstein, and Michael J. Aziz. 2021. “Direct Visualization of Electrochemical Reactions and Heterogeneous Transport Within Porous Electrodes in Operando by Fluorescence Microscopy”. Cell Reports Physical Science, 2, 100388",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Functioning Water-Insoluble Ferrocenes for Aqueous Organic Flow Battery via Host–Guest Inclusion",
+      "year": 2021,
+      "citation_raw": "Yuanyuan Li, Ziang Xu, Yahua Liu, Shijian Jin, Eric M. Fell, Baoguo Wang, Roy G. Gordon, Michael J. Aziz, Zhengjin Yang, and Tongwen Xu. 2021. “Functioning Water-Insoluble Ferrocenes for Aqueous Organic Flow Battery via Host–Guest Inclusion”. ChemSusChem, 14, Pp. 745-52",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Gold-Hyperdoped Germanium With Room-Temperature Sub-Band-Gap Optoelectronic Response",
+      "year": 2020,
+      "citation_raw": "Hemi H. Gandhi, David Pastor, Tuan T. Tran, Kalchmair, L.A. Smilie, Jonathan Mailoa, Ruggero Milazzo, Enrico Napolitani, Marco Loncar, J. S. Williams, Michael J. Aziz, and Mazur E. 2020. “Gold-Hyperdoped Germanium With Room-Temperature Sub-Band-Gap Optoelectronic Response”. Physical Review Applied, 14, 064051, Pp. 1-11",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "PH Swing Cycle for CO2 Capture Electrochemically Driven through Proton-Coupled Electron Transfer",
+      "year": 2020,
+      "citation_raw": "Shijian Jin, Min Wu, Roy G. Gordon, Michael J. Aziz, and David G. Kwabi. 2020. “PH Swing Cycle for CO2 Capture Electrochemically Driven through Proton-Coupled Electron Transfer”. Energy & Environmental Science",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "In Situ Electrosynthesis of Anthraquinone Electrolytes in Aqueous Flow Batteries",
+      "year": 2020,
+      "citation_raw": "Yan Jing, Min Wu, Andrew Wong, Eric Fell, Shijian Jin, Daniel Pollack, Emily Kerr, Roy G. Gordon, and Michael J. Aziz. 2020. “In Situ Electrosynthesis of Anthraquinone Electrolytes in Aqueous Flow Batteries”. Green Chemistry, 22, Pp. 6084-92",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Chalcogen-Hyperdoped Germanium for Short-Wavelength Infrared Photodetection",
+      "year": 2020,
+      "citation_raw": "Hemi H. Gandhi, David Pastor, Tuan T. Tran, S. Kalchmair, L.A. Smillie, Jonathan P. Mailoa, Ruggero Milazzo, Enrico Napolitani, Marko Loncar, James S. Williams, Michael J. Aziz, and Eric Mazur. 2020. “Chalcogen-Hyperdoped Germanium for Short-Wavelength Infrared Photodetection”. AIP Advances, 10, 7, Pp. 075028",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Extremely Stable Anthraquinone Negolytes Synthesized from Common Precursors",
+      "year": 2020,
+      "citation_raw": "Min Wu, Yan Jing, Andrew Wong, Eric Fell, Shijian Jin, Zhijiang Tang, Roy G. Gordon, and Michael J. Aziz. 2020. “Extremely Stable Anthraquinone Negolytes Synthesized from Common Precursors”. Chem, 6, Pp. 1432-42",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Method for Comparing Porous Carbon Electrode Performance in Redox Flow Batteries",
+      "year": 2020,
+      "citation_raw": "Andrew Wong and Michael J. Aziz. 2020. “Method for Comparing Porous Carbon Electrode Performance in Redox Flow Batteries”. Journal of the Electrochemical Society, 167, Pp. 110542",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Near Neutral PH Redox Flow Battery With Low Permeability and Long-Lifetime Phosphonated Viologen Active Species",
+      "year": 2020,
+      "citation_raw": "Shijian Jin, Eric M. Fell, Lucia Vina-Lopez, Yan Jing, P. Winston Michalak, Roy G. Gordon, and Michael J. Aziz. 2020. “Near Neutral PH Redox Flow Battery With Low Permeability and Long-Lifetime Phosphonated Viologen Active Species”. Advanced Energy Materials, 2000100, Pp. 1-10",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Electrolyte Lifetime in Aqueous Organic Redox Flow Batteries: A Critical Review",
+      "year": 2020,
+      "citation_raw": "David G. Kwabi, Yunlong Ji, and Michael J. Aziz. 2020. “Electrolyte Lifetime in Aqueous Organic Redox Flow Batteries: A Critical Review”. Chemical Reviews",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "On Lifetime and Cost of Redox-Active Organics for Aqueous Flow Batteries",
+      "year": 2020,
+      "citation_raw": "Fikile R. Brushett, Michael J. Aziz, and Kara E. Rodby. 2020. “On Lifetime and Cost of Redox-Active Organics for Aqueous Flow Batteries”. ACS Energy Letters, 5, Pp. 879-84",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "PH Swing Cycle for CO2 Capture Electrochemically Driven through Proton-Coupled Electron Transfer",
+      "year": 2019,
+      "citation_raw": "David G. Kwabi and Michael J. Aziz. 2019. “PH Swing Cycle for CO2 Capture Electrochemically Driven through Proton-Coupled Electron Transfer”. ChemRxiv",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "A Phosphonate-Functionalized Quinone Redox Flow Battery at Near-Neutral PH With Record Capacity Retention Rate",
+      "year": 2019,
+      "citation_raw": "Yunlong Ji, Marc-Antoni Goulet, Daniel A. Pollack, David G. Kwabi, Shijian Jin, Diana De Porcellinis, Emily F. Kerr, Roy G. Gordon, and Michael J. Aziz. 2019. “A Phosphonate-Functionalized Quinone Redox Flow Battery at Near-Neutral PH With Record Capacity Retention Rate”. Advanced Energy Materials, 1900039, Pp. 1-7",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Potential Revenue and Breakeven of Energy Storage Systems in PJM Energy Markets",
+      "year": 2018,
+      "citation_raw": "Salle Maurício B. C., Taina N. Gadotti, Michael J. Aziz, and William W. Hogan. 2018. “Potential Revenue and Breakeven of Energy Storage Systems in PJM Energy Markets”. Environmental Science and Pollution Research, Pp. 1-12",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Ion-Induced Nanopatterning of Silicon: Toward a Predictive Model",
+      "year": 2018,
+      "citation_raw": "Scott A. Norris and Michael J. Aziz. 2018. “Ion-Induced Nanopatterning of Silicon: Toward a Predictive Model”. Applied Physics Reviews, 6, 011311, Pp. 1-27",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "The Effect of Interdigitated Channel and Land Dimensions on Flow Cell Performance",
+      "year": 2018,
+      "citation_raw": "Michael R. Gerhardt, Andrew A. Wong, and Michael J. Aziz. 2018. “The Effect of Interdigitated Channel and Land Dimensions on Flow Cell Performance”. Journal of The Electrochemical Society, 165, 11, Pp. A2625-A2643",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Alkaline Quinone Flow Battery With Long Lifetime at PH 12",
+      "year": 2018,
+      "citation_raw": "David G. Kwabi, Kaixiang Lin, Yunlong Ji, Emily F. Kerr, Marc-Antoni Goulet, Diana De Porcellinis, Daniel P. Tabor, Daniel A. Pollack, Aspuru-Guzik Alán, Roy G. Gordon, and Michael J. Aziz. 2018. “Alkaline Quinone Flow Battery With Long Lifetime at PH 12”. Joule, 2, Pp. 1894-1906",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Rational Evaluation and Cycle Life Improvement of Quinone-Based Aqueous Flow Batteries Guided by In-Line Optical Spectrophotometry",
+      "year": 2018,
+      "citation_raw": "David G. Kwabi, Andrew A. Wong, and Michael J. Aziz. 2018. “Rational Evaluation and Cycle Life Improvement of Quinone-Based Aqueous Flow Batteries Guided by In-Line Optical Spectrophotometry”. Journal of The Electrochemical Society, 165, 9, Pp. A1770-A1776",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Flow Battery Molecular Reactant Stability Determined by Symmetric Cell Cycling Methods",
+      "year": 2018,
+      "citation_raw": "Marc-Antoni Goulet and Michael J. Aziz. 2018. “Flow Battery Molecular Reactant Stability Determined by Symmetric Cell Cycling Methods”. Journal of The Electrochemical Society, 165, 7, Pp. A1466-A1477",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Communication—Sulfonated Poly (ether Ether Ketone) As Cation Exchange Membrane for Alkaline Redox Flow Batteries",
+      "year": 2018,
+      "citation_raw": "D. De Porcellinis, B. Mecheri, A. D’Epifanio, S. Licoccia, S. Granados-Focil, and M. J. Aziz. 2018. “Communication—Sulfonated Poly (ether Ether Ketone) As Cation Exchange Membrane for Alkaline Redox Flow Batteries”. Journal of The Electrochemical Society, 165, 5, Pp. A1137-A1139",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "High Level Active N+ Doping of Strained Germanium through Co-Implantation and Nanosecond Pulsed Laser Melting",
+      "year": 2018,
+      "citation_raw": "David Pastor, Hemi H. Gandhi, Corentin P. Monmeyran, Austin J. Akey, Ruggero Milazzo, Yan Cai, Enrico Napolitani, Russell M. Gwilliam, Iain F. Crowe, Jurgen Michel, L. C. Kimerling, Anuradha Agarwal, Eric Mazur, and Michael J. Aziz. 2018. “High Level Active N+ Doping of Strained Germanium through Co-Implantation and Nanosecond Pulsed Laser Melting”. Journal of Applied Physics, 123, 165101, Pp. 1-6",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Sawtooth Structure Formation under Nonlinear-Regime Ion Bombardment",
+      "year": 2018,
+      "citation_raw": "Joy C. Perkinson, Jennifer M. Swenson, Alexander DeMasi, Christa Wagenbach, Jr. Karl F. Ludwig, Scott A. Norris, and Michael J. Aziz. 2018. “Sawtooth Structure Formation under Nonlinear-Regime Ion Bombardment”. Journal of Physics: Condensed Matter, 30, 29, Pp. 1-9",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Au-Rich Filamentary Behavior and Associated Subband Gap Optical Absorption in Hyperdoped Si",
+      "year": 2017,
+      "citation_raw": "W. Yang, A.J. Akey, L.A. Smillie, J. P. Mailoa, B. C. Johnson, J. C. McCallum, D. Macdonald, T. Buonassisi, M. J. Aziz, and J. S. Williams. 2017. “Au-Rich Filamentary Behavior and Associated Subband Gap Optical Absorption in Hyperdoped Si”. Physical Review Materials, 1, 074602, Pp. 1-10",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Comparison of Capacity Retention Rates During Cycling of Quinone-Bromide Flow Batteries",
+      "year": 2016,
+      "citation_raw": "Michael R. Gerhardt, Eugene S. Beh, Liuchuan Tong, Roy G. Gordon, and Michael J. Aziz. 2016. “Comparison of Capacity Retention Rates During Cycling of Quinone-Bromide Flow Batteries”. MRS Advances, Pp. 1–8",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Ion-Beam Synthesis and Thermal Stability of Highly Tin-Concentrated Germanium – Tin Alloys",
+      "year": 2016,
+      "citation_raw": "Tuan T. Tran, Hemi H. Gandhi, David Pastor, Michael J. Aziz, and J. S. Williams. 2016. “Ion-Beam Synthesis and Thermal Stability of Highly Tin-Concentrated Germanium – Tin Alloys”. Materials Science in Semiconductor Processing, 62, Pp. 192–195",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Designing Steep, Sharp Patterns on Uniformly Ion-Bombarded Surfaces",
+      "year": 2016,
+      "citation_raw": "Joy C. Perkinson, Michael J. Aziz, Michael P. Brenner, and Miranda Holmes-Cerfon. 2016. “Designing Steep, Sharp Patterns on Uniformly Ion-Bombarded Surfaces”. Proceedings of the National Academy of Sciences, 113, 41",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Anthraquinone Derivatives in Aqueous Flow Batteries",
+      "year": 2016,
+      "citation_raw": "M. R. Gerhardt, Q. Chen, and M. J. Aziz. 2016. “Anthraquinone Derivatives in Aqueous Flow Batteries”. Advanced Energy Materials, Pp. 1601488",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Effect of Layer Thickness on Device Response of Silicon Heavily Supersaturated With Sulfur",
+      "year": 2016,
+      "citation_raw": "David Hutchinson, Jay Mathews, Joseph T. Sullivan, Austin J. Akey, Michael J. Aziz, Tonio Buonassisi, Peter D. Persans, and Jeffrey Warrender. 2016. “Effect of Layer Thickness on Device Response of Silicon Heavily Supersaturated With Sulfur”. AIP Advances, 6, 055307",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Solid-Phase Epitaxy",
+      "year": 2015,
+      "citation_raw": "Brett C. Johnson, Jeffrey C. McCallum, and Michael J. Aziz. 2015. “Solid-Phase Epitaxy”. In Handbook of Crystal Growth, 2nd ed., III part A:Pp. 317-63. Boston, MA: Elsevier",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Potential Arbitrage Revenue of Energy Storage Systems in PJM During 2014",
+      "year": 2016,
+      "citation_raw": "M. B. C. Salles, M. J. Aziz, and W. W. Hogan. 2015. “Potential Arbitrage Revenue of Energy Storage Systems in PJM During 2014”. In 2016 IEEE Power & Energy Society General Meeting. Boston, MA",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Simultaneous High Crystallinity and Sub-Bandgap Optical Absorptance in Hyperdoped Black Silicon Using Nanosecond Laser Annealing",
+      "year": 2015,
+      "citation_raw": "Benjamin Franta, David Pastor, Hemi H. Gandhi, Paul H. Rekemeyer, Silvija Gradecak, Michael J. Aziz, and Eric Mazur. 2015. “Simultaneous High Crystallinity and Sub-Bandgap Optical Absorptance in Hyperdoped Black Silicon Using Nanosecond Laser Annealing”. Journal of Applied Physics, 118, Pp. 22503",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Alkaline Quinone Flow Battery",
+      "year": 2015,
+      "citation_raw": "Kaixiang Lin, Qing Chen, Michael R. Gerhardt, Liuchuan Tong, Sang Bok Kim, Louise Eisenach, Alvaro W. Valle, David Hardee, Roy G. Gordon, Michael J. Aziz, and Michael P. Marshak. 2015. “Alkaline Quinone Flow Battery”. Science, 349, 6255, Pp. 1529-32",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Cycling Analysis of a Quinone-Bromide Redox Flow Battery",
+      "year": 2015,
+      "citation_raw": "Qing Chen, Louise Eisenach, and Michael J. Aziz. 2015. “Cycling Analysis of a Quinone-Bromide Redox Flow Battery”. Journal of The Electrochemical Society, 163, 1, Pp. A5057-A5063",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Single-Phase Filamentary Cellular Breakdown via Laser-Induced Solute Segregation",
+      "year": 2015,
+      "citation_raw": "Austin J. Akey, Daniel Recht, J. S. Williams, Michael J. Aziz, and Tonio Buonassisi. 2015. “Single-Phase Filamentary Cellular Breakdown via Laser-Induced Solute Segregation”. Advanced Functional Materials, 25, 29",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "A Quinone-Bromide Flow Battery With 1 W Cm2 Power Density",
+      "year": 2015,
+      "citation_raw": "Qing Chen, Michael R. Gerhardt, Lauren Hartle, and Michael J. Aziz. 2015. “A Quinone-Bromide Flow Battery With 1 W Cm2 Power Density”. Journal of the Electrochemical Society",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "A Highly Soluble Iron-Based Posolyte Species With High Redox Potential for Aqueous Redox Flow Batteries",
+      "year": 2023,
+      "citation_raw": "Jinxu Gao, Kyumin Lee, Kiana Amini, Roy G. Gordon, Theodore A. Betley, and Michael J. Aziz. 2023. “A Highly Soluble Iron-Based Posolyte Species With High Redox Potential for Aqueous Redox Flow Batteries”. Advanced Functional Materials, Pp. 2310140",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "An Extremely Stable and Soluble NH2 Substituted Anthraquinone Electrolyte for Aqueous Redox Flow Batteries",
+      "year": 2023,
+      "citation_raw": "Abdulrahman M. Alfaraidi, Dawei Xi, Nina Ni, Thomas Y. George, Tatsuhiro Tsukamoto, Roy G. Gordon, Michael J. Aziz, and Richard Y. Liu. 2023. “An Extremely Stable and Soluble NH2 Substituted Anthraquinone Electrolyte for Aqueous Redox Flow Batteries”. ACS Applied Energy Materials",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Reversible CO2 Capture and On-Demand Release by an Acidity-Matched Organic Photoswitch",
+      "year": 2023,
+      "citation_raw": "Abdulrahman M. Alfaraidi, Bryan Kudisch, Nina Ni, Jayden Thomas, Thomas Y. George, Khashayar Rajabimoghadam, Haihui Joy Jiang, Daniel G. Nocera, Michael J. Aziz, and Richard Y. Liu. 2023. “Reversible CO2 Capture and On-Demand Release by an Acidity-Matched Organic Photoswitch”. Journal of the American Chemical Society",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Anthraquinone Flow Battery Reactants With Nonhydrolyzable Water-Solubilizing Chains Introduced via a Generic Cross-Coupling Method",
+      "year": 2022,
+      "citation_raw": "Yan Jing, Eric M. Fell, Min Wu, Shijian Jin, Yunlong Ji, Daniel A. Pollack, Zhijiang Tang, Dian Ding, Meisam Bahari, Marc-Antoni Goulet, Tatsuhiro Tsukamoto, Roy G. Gordon, and Michael J. Aziz. 2022. “Anthraquinone Flow Battery Reactants With Nonhydrolyzable Water-Solubilizing Chains Introduced via a Generic Cross-Coupling Method”. ACS Energy Letters, 7, 1, Pp. 226-35",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Highly Stable, Low Redox Potential Quinone for Aqueous Flow Batteries",
+      "year": 2022,
+      "citation_raw": "Min Wu, Meisam Bahari, Yan Jing, Kiana Amini, Eric M. Fell, Thomas Y. George, Roy G. Gordon, and Michael J. Aziz. 2022. “Highly Stable, Low Redox Potential Quinone for Aqueous Flow Batteries”. Batteries & Supercaps, Pp. e202200009",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Low Energy Carbon Capture via Electrochemically Induced PH Swing With Electrochemical Rebalancing",
+      "year": 2022,
+      "citation_raw": "Shijian Jin, Min Wu, Yan Jing, Roy G. Gordon, and Michael J. Aziz. 2022. “Low Energy Carbon Capture via Electrochemically Induced PH Swing With Electrochemical Rebalancing”. Nature Communications, 13, Pp. 2140",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "In Situ Electrochemical Recomposition of Decomposed Redox-Active Species in Aqueous Organic Flow Batteries",
+      "year": 2022,
+      "citation_raw": "Yan Jing, Evan Wenbo Zhao, Marc-Antoni Goulet, Meisam Bahari, Eric M. Fell, Shijian Jin, Ali Davoodi, Erlendur Jonsson, Min Wu, Clare P. Grey, Roy G. Gordon, and Michael J. Aziz. 2022. “In Situ Electrochemical Recomposition of Decomposed Redox-Active Species in Aqueous Organic Flow Batteries”. Nature Chemistry",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "The Poor Academic’s DC-Offset for Reversing Polarity in Electrochemical Cells: Application to Redox Flow Cells",
+      "year": 2022,
+      "citation_raw": "Kiana Amini, Eric M. Fell, and Michael J. Aziz. 2022. “The Poor Academic’s DC-Offset for Reversing Polarity in Electrochemical Cells: Application to Redox Flow Cells”. Journal of the Electrochemical Society, 169, Pp. 090527",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "A Co-Design Framework for Wind Energy Integrated With Storage",
+      "year": 2022,
+      "citation_raw": "Michael J. Aziz, Dennice F. Gayme, Kathryn Johnson, Janelle Knox-Hayes, Perry Li, Eric Loth, Lucy Y. Pao, Donald R. Sadoway, Jessica Smith, and Sonya Smitke. 2022. “A Co-Design Framework for Wind Energy Integrated With Storage”. Joule, 6, 9, Pp. 1995-2015",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "A High Potential, Low Capacity Fade Rate Iron Complex Posolyte for Aqueous Organic Flow Batteries",
+      "year": 2022,
+      "citation_raw": "Jinxu Gao, Kiana Amini, Thomas Y. George, Yan Jing, Tatsuhiro Tsukamoto, Dawei Xi, Roy G. Gordon, and Michael J. Aziz. 2022. “A High Potential, Low Capacity Fade Rate Iron Complex Posolyte for Aqueous Organic Flow Batteries”. Advanced Energy Materials, Pp. 2202444",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Alkalinity Concentration Swing for Direct Air Capture of Carbon Dioxide",
+      "year": 2021,
+      "citation_raw": "Anatoly Rinberg, Andrew M. Bergman, Daniel P. Schrag, and Michael J. Aziz. 2021. “Alkalinity Concentration Swing for Direct Air Capture of Carbon Dioxide”. ChemSusChem, 14, 20, Pp. 4439-53",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "High-Performance Anthraquinone With Potentially Low Cost for Aqueous Redox Flow Batteries",
+      "year": 2021,
+      "citation_raw": "Min Wu, Meisam Bahari, Eric M. Fell, Roy G. Gordon, and Michael J. Aziz. 2021. “High-Performance Anthraquinone With Potentially Low Cost for Aqueous Redox Flow Batteries”. Journal of Materials Chemistry A, 47",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Effect of Molecular Structure of Quinones and Carbon Electrode Surfaces on the Interfacial Electron Transfer Process",
+      "year": 2020,
+      "citation_raw": "Graziela C. Sedenho, Diana De Porcellinis, Yan Jing, Emily Kerr, Luis Martin Mejia-Mendoza, Vazquez-Mayagoitia Álvaro, Alan Aspuru-Guzik, Roy G. Gordon, Frank N. Crespilho, and Michael J. Aziz. 2020. “Effect of Molecular Structure of Quinones and Carbon Electrode Surfaces on the Interfacial Electron Transfer Process”. ACS Applied Energy Materials, 3, Pp. 1933-43",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Evidence for Vacancy Trapping in Au-Hyperdoped Si Following Pulsed Laser Melting",
+      "year": 2019,
+      "citation_raw": "W. Yang, N. Ferdous, P. J. Simpson, J. M. Gaudet, Q. Hudspeth, P. K. Chow, J. M. Warrender, A.J. Akey, M. J. Aziz, E. Ertekin, and J. S. Williams. 2019. “Evidence for Vacancy Trapping in Au-Hyperdoped Si Following Pulsed Laser Melting”. APL Materials, 7, Pp. 101124",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Molecular Engineering of an Alkaline Naphthoquinone Flow Battery",
+      "year": 2019,
+      "citation_raw": "Liuchuan Tong, Marc-Antoni Goulet, Daniel P. Tabor, Emily F. Kerr, Diana De Porcellinis, Eric M. Fell, Alan Aspuru-Guzik, Roy G. Gordon, and Michael J. Aziz. 2019. “Molecular Engineering of an Alkaline Naphthoquinone Flow Battery”. ACS Energy Letters, 4, 8, Pp. 1880-87",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Non-Corrosive, Low-Toxicity Gel-Based Microbattery from Organic and Organometallic Molecules",
+      "year": 2019,
+      "citation_raw": "Frank N. Crespilho, Graziela C. Sedenho, Diana De Porcellinis, Emily Kerr, Sergio Granados-Focil, Roy G. Gordon, and M. J. Aziz. 2019. “Non-Corrosive, Low-Toxicity Gel-Based Microbattery from Organic and Organometallic Molecules”. Journal of Materials Chemistry A, 7, Pp. 24784-87",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Mapping the Frontiers of Quinone Stability in Aqueous Media: Implications for Organic Aqueous Redox Flow Batteries",
+      "year": 2019,
+      "citation_raw": "Daniel P. Tabor, Rafael Gómez-Bombarelli, Liuchuan Tong, Roy G. Gordon, Michael J. Aziz, and Aspuru-Guzik Alań. 2019. “Mapping the Frontiers of Quinone Stability in Aqueous Media: Implications for Organic Aqueous Redox Flow Batteries”. Journal of Materials Chemistry A, 7, 20, Pp. 12833-41",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Atomistic Mechanisms for the Thermal Relaxation of Au-Hyperdoped Si",
+      "year": 2019,
+      "citation_raw": "Yang, Hudspeth, Chow, J. M. Warrender, Ferdous, E. Ertekin, G. Malladi, A.J. Akey, M. J. Aziz, and J. S. Williams. 2019. “Atomistic Mechanisms for the Thermal Relaxation of Au-Hyperdoped Si”. Physical Review Applied, 12, 2, Pp. 024015",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "A Long Lifetime Aqueous Organic Solar Flow Battery",
+      "year": 2019,
+      "citation_raw": "Wenjie Li, Emily Kerr, Marc-Antoni Goulet, Hui-Chun Fu, Yuzhou Zhao, Ying Yang, Atilla Veyssal, Jr-Hau He, Roy G. Gordon, Michael J. Aziz, and Song Jin. 2019. “A Long Lifetime Aqueous Organic Solar Flow Battery”. Advanced Energy Materials, 9, 31, Pp. 1900918",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Symmetric All-Quinone Aqueous Battery",
+      "year": 2019,
+      "citation_raw": "Liuchuan Tong, Yan Jing, Roy G. Gordon, and Michael J. Aziz. 2019. “Symmetric All-Quinone Aqueous Battery”. ACS Applied Energy Materials, 2, 6, Pp. 4016-21",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "A Water-Miscible Quinone Flow Battery With High Volumetric Capacity and Energy Density",
+      "year": 2019,
+      "citation_raw": "Shijian Jin, Yan Jing, David G. Kwabi, Yunlong Ji, Liuchuan Tong, Diana De Porcellinis, Marc-Antoni Goulet, Daniel A. Pollack, Roy G. Gordon, and M. J. Aziz. 2019. “A Water-Miscible Quinone Flow Battery With High Volumetric Capacity and Energy Density”. ACS Energy Letters, 4, Pp. 1342-48",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "A High Voltage Aqueous Zinc–Organic Hybrid Flow Battery",
+      "year": 2019,
+      "citation_raw": "Minjoon Park, Eugene S. Beh, Eric M. Fell, Yan Jing, Emily F. Kerr, Diana De Porcellinis, Marc-Antoni Goulet, Jaechan Ryu, Andrew A. Wong, Roy G. Gordon, Jaephil Cho, and Michael J. Aziz. 2019. “A High Voltage Aqueous Zinc–Organic Hybrid Flow Battery”. Advanced Energy Materials, 1900694, Pp. 1-8",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "A Long Lifetime All-Organic Aqueous Flow Battery Utilizing TMAP-TEMPO Radical",
+      "year": 2019,
+      "citation_raw": "Yahua Liu, Marc-Antoni Goulet, Liuchuan Tong, Yazhi Liu, Yunlong Ji, Liang Wu, Roy G. Gordon, Michael J. Aziz, Zhengjin Yang, and Tongwen Xu. 2019. “A Long Lifetime All-Organic Aqueous Flow Battery Utilizing TMAP-TEMPO Radical”. Chem, 5, Pp. 1-10",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Extending the Lifetime of Organic Flow Batteries via Redox State Management",
+      "year": 2019,
+      "citation_raw": "Marc-Antoni Goulet, Liuchuan Tong, Daniel A. Pollack, Daniel P. Tabor, Susan A. Odom, Aspuru-Guzik Alań, Eugene E. Kwan, Roy G. Gordon, and Michael J. Aziz. 2019. “Extending the Lifetime of Organic Flow Batteries via Redox State Management”. Journal of the American Chemical Society, 141, 20, Pp. 8014-19",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Breakeven Analysis of Energy Storage Systems in PJM Energy Markets",
+      "year": 2017,
+      "citation_raw": "Mauricio B. Salles, Tania N. Gadotti, Michael J. Aziz, and William W. Hogan. 2017. “Breakeven Analysis of Energy Storage Systems in PJM Energy Markets”. 6th International Conference on Renewable Energy Research and Application, Pp. 395-400",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Alkaline Benzoquinone Aqueous Flow Battery for Large-Scale Storage of Electrical Energy",
+      "year": 2017,
+      "citation_raw": "Zhengjin Yang, Liuchuan Tong, Daniel P. Tabor, Marc-Antoni Goulet, Diana De Porcellinis, Aspuru-Guzik Alán, Roy G. Gordon, and Michael J. Aziz. 2017. “Alkaline Benzoquinone Aqueous Flow Battery for Large-Scale Storage of Electrical Energy”. Advanced Energy Materials, 1702056, Pp. 1-9",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "UV-Vis Spectrophotometry of Quinone Flow Battery Electrolyte for In-Situ Monitoring and Improved Electrochemical Modeling of Potential and Quinhydrone Formation",
+      "year": 2017,
+      "citation_raw": "Liuchuan Tong, Qing Chen, Andrew A. Wong, Gómez-Bombarelli Rafa, Alan Aspuru-Guzik, Roy G. Gordon, and Michael J. Aziz. 2017. “UV-Vis Spectrophotometry of Quinone Flow Battery Electrolyte for In-Situ Monitoring and Improved Electrochemical Modeling of Potential and Quinhydrone Formation”. Physical Chemistry Chemical Physics, 19, Pp. 31684-91",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Thermodynamic Analysis of Three Compressed Air Energy Storage Systems: Conventional, Adiabatic, and Hydrogen-Fueled",
+      "year": 2017,
+      "citation_raw": "Hossein Safaei and Michael J. Aziz. 2017. “Thermodynamic Analysis of Three Compressed Air Energy Storage Systems: Conventional, Adiabatic, and Hydrogen-Fueled”. Energies, 10, 1020",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Potential Arbitrage Revenue of Energy Storage Systems in PJM",
+      "year": 2017,
+      "citation_raw": "Mauricio B. C. Salles, Junling Huang, Michael J. Aziz, and William W. Hogan. 2017. “Potential Arbitrage Revenue of Energy Storage Systems in PJM”. Energies, 10, 1100",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Direct Visualization of Electrochemical Reactions and Comparison of Commercial Carbon Papers in Operando by Fluorescence Microscopy Using a Quinone-Based Flow Cell",
+      "year": 2017,
+      "citation_raw": "Andrew A. Wong, Michael J. Aziz, and Shmuel M. Rubinstein. 2017. “Direct Visualization of Electrochemical Reactions and Comparison of Commercial Carbon Papers in Operando by Fluorescence Microscopy Using a Quinone-Based Flow Cell”. ECS Transactions, 77",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Distinguishing Physical Mechanisms Using GISAXS Experiments and Linear Theory: The Importance of High Wavenumbers",
+      "year": 2017,
+      "citation_raw": "Soctt A. Norris, Joy C. Perkinson, Mahsa Mokhtarzadeh, Eitan Anzenberg, Michael J. Aziz, and Karl F. Ludwig. 2017. “Distinguishing Physical Mechanisms Using GISAXS Experiments and Linear Theory: The Importance of High Wavenumbers”. Scientific Reports, 7, 2016, Pp. 1-12",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Dissection of the Voltage Losses of an Acidic Quinone Redox Flow Battery",
+      "year": 2017,
+      "citation_raw": "Qing Chen, Michael R. Gerhardt, and Michael J. Aziz. 2017. “Dissection of the Voltage Losses of an Acidic Quinone Redox Flow Battery”. Journal of The Electrochemical Society, 164, 6, Pp. A1126-A1132",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "A Neutral PH Aqueous Organic Organometallic Redox Flow Battery With Extremely High Capacity Retention",
+      "year": 2017,
+      "citation_raw": "Eugene S. Beh, Diana De Porcellinis, Rebecca L. Gracia, Kay T. Xia, Roy G. Gordon, and Michael J. Aziz. 2017. “A Neutral PH Aqueous Organic Organometallic Redox Flow Battery With Extremely High Capacity Retention”. ACS Energy Letters, 2, Pp. 639-44",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Suppression of Ion-Implantation Induced Porosity in Germanium by a Silicon Dioxide Capping Layer",
+      "year": 2016,
+      "citation_raw": "Tuan T. Tran, Huda S. Alkhaldi, Hemi H. Gandhi, David Pastor, Larissa Q. Huston, Jennifer Wong-Leung, Michael J. Aziz, and J. S. Williams. 2016. “Suppression of Ion-Implantation Induced Porosity in Germanium by a Silicon Dioxide Capping Layer”. Applied Physics Letters, 109, 082106",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "A Redox Flow Battery With an Alloxazine-Based Organic Electrolyte",
+      "year": 2016,
+      "citation_raw": "Kaixiang Lin, R. Gomez-Bombarelli, Eugene S. Beh, Liuchuan Tong, Qing Chen, A.W. Valle, A. Aspuru-Guzik, Roy G. Gordon, and Michael J. Aziz. 2016. “A Redox Flow Battery With an Alloxazine-Based Organic Electrolyte”. Nature Energy, 1, 16102",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Synthesis of Ge1-XSnx Alloys by Ion Implantation and Pulsed Laser Melting: Towards a Group IV Direct Bandgap Material",
+      "year": 2016,
+      "citation_raw": "T.T. Tran, D. Pastor, H.H. Ghandi, L.A. Smillie, A.J. Akey, M. J. Aziz, and S.J. Williams. 2016. “Synthesis of Ge1-XSnx Alloys by Ion Implantation and Pulsed Laser Melting: Towards a Group IV Direct Bandgap Material”. Journal of Applied Physics, 119, 183102",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Mass Redistribution Causes the Structural Richness of Ion-Irradiated Surfaces",
+      "year": 2011,
+      "citation_raw": "Charbel S. Madi, Eitan Anzenberg, Jr. Karl F. Ludwig, and Michael J. Aziz. 2011. “Mass Redistribution Causes the Structural Richness of Ion-Irradiated Surfaces”. Physical Review Letters, 106, 066101",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Fabrication and Sub-Band-Gap Absorption of Single Crystal Si Supersaturated With Se by Pulsed Laser Mixing",
+      "year": 2010,
+      "citation_raw": "M. Tabbal, T. Kim, D.N. Woolf, B. Shin, and M. J. Aziz. 2010. “Fabrication and Sub-Band-Gap Absorption of Single Crystal Si Supersaturated With Se by Pulsed Laser Mixing”. Appl. Phys. A, 98, 589-594",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Fabrication and Sub-Bandgap Optical Properties of Silicon Supersaturated With Chalcogens by Ion Implantation and Pulsed Laser Melting",
+      "year": 2010,
+      "citation_raw": "B.P. Bob, A. Kohno, S. Charnvanichborikarn, J. M. Warrender, I. Umezu, M. Tabbal, J. S. Williams, and M. J. Aziz. 2010. “Fabrication and Sub-Bandgap Optical Properties of Silicon Supersaturated With Chalcogens by Ion Implantation and Pulsed Laser Melting”. J. Appl. Phys., 107, 123506",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Nanopore Fabrication in Amorphous Si: Viscous Flow Model and Comparison to Experiment",
+      "year": 2010,
+      "citation_raw": "H. B. George, Y. Tang, X. Chen, J. Li, J.W. Hutchinson, J.A. Golovchenko, and M. J. Aziz. 2010. “Nanopore Fabrication in Amorphous Si: Viscous Flow Model and Comparison to Experiment”. J. Appl. Phys., 108, 014310",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Ion Sculpting of Nanopores in Amorphous Metals, Semiconductors, and Insulators",
+      "year": 2010,
+      "citation_raw": "H. B. George, D.P. Hoogerheide, C.S. Madi, D.C. Bell, J.A. Golovchenko, and M. J. Aziz. 2010. “Ion Sculpting of Nanopores in Amorphous Metals, Semiconductors, and Insulators”. Appl. Phys. Lett., 96, 263111",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Heat Flow Model for Pulsed Laser Melting and Rapid Solidification of Ion Implanted GaAs",
+      "year": 2010,
+      "citation_raw": "T. Kim, M.R. Pillai, M. J. Aziz, M.A. Scarpulla, O.D. Dubon, K.M. Yu, J.W. Beeman, and M.C. Ridgway. 2010. “Heat Flow Model for Pulsed Laser Melting and Rapid Solidification of Ion Implanted GaAs”. J. Appl. Phys., 108, 013508",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Room-Temperature Photoresponse of Schottky Photodiodes Based on GaN_xAs_1-X Synthesized by Ion Implantation and Pulsed Laser Melting",
+      "year": 2010,
+      "citation_raw": "W. Yi, T. Kim, I. Shalish, M. Loncar, M. J. Aziz, and V. Narayanamurti. 2010. “Room-Temperature Photoresponse of Schottky Photodiodes Based on GaN_xAs_1-X Synthesized by Ion Implantation and Pulsed Laser Melting”. Appl. Phys. Lett., 97, 151103",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Alloy Oxide Electrocatalysts for Regenerative Hydrogen-Halogen Fuel Cell",
+      "year": 2010,
+      "citation_raw": "S.K. Mondal, J. Rugolo, and M. J. Aziz. 2010. “Alloy Oxide Electrocatalysts for Regenerative Hydrogen-Halogen Fuel Cell”. Mater. Res. Soc. Symp. Proc., 1311, GG10.9",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Electrochemical Acceleration of Chemical Weathering for Carbon Capture and Sequestration",
+      "year": 2009,
+      "citation_raw": "K.Z. House, C.H. House, D.P. Schrag, and M. J. Aziz. 2009. “Electrochemical Acceleration of Chemical Weathering for Carbon Capture and Sequestration”. Energy Procedia, 1, 4953",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Linear Dynamics of Ion Sputtered Surfaces: Instability, Stability and Bifurcations",
+      "year": 2009,
+      "citation_raw": "B. Davidovich, M. J. Aziz, and M.P. Brenner. 2009. “Linear Dynamics of Ion Sputtered Surfaces: Instability, Stability and Bifurcations”. J. Phys. Cond. Matt., 21, 224019",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "From Crater Functions to PDEs: A New Approach to Ion Bombardment Induced Nonequilibrium Pattern Formation",
+      "year": 2009,
+      "citation_raw": "S.A. Norris, M.P. Brenner, and M. J. Aziz. 2009. “From Crater Functions to PDEs: A New Approach to Ion Bombardment Induced Nonequilibrium Pattern Formation”. J. Phys. Cond. Matt., 21, 224017",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Linear Stability and Instability Patterns in Ion- Sputtered Silicon",
+      "year": 2009,
+      "citation_raw": "C.S. Madi, H. B. George, and M. J. Aziz. 2009. “Linear Stability and Instability Patterns in Ion- Sputtered Silicon”. J. Phys. Cond. Matt., 21, 224010",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    }
+  ]
 }

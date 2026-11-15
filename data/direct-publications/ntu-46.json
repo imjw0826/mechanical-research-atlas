@@ -5,27 +5,26 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp00686",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Pang-Hock-Lye-John/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00686",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Pang-Hock-Lye-John",
-      "identity_evidence": "Prof Pang Hock Lye, John",
-      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
-      "website_links": [
-        {
-          "label": "Website",
-          "url": "https://scholar.google.com/citations?hl=en&user=XdQ3cewAAAAJ"
-        }
-      ]
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Z Zhang, NSK Ho, Y Zhou, JHL Pang*. Fatigue life prediction of additive manufactured IN718 via physics-guided machine learning framework. Materials Letters, 140604",
+      "year": 2025,
+      "citation_raw": "Z Zhang, NSK Ho, Y Zhou, JHL Pang*. Fatigue life prediction of additive manufactured IN718 via physics-guided machine learning framework. Materials Letters, 140604 Z Wu, Y Zhou, NSK Ho, T Liu, JHL Pang*. Influence of part placement on defect distribution and fatigue failure mechanism in laser powder bed fused 316 L stainless steel. Materials Letters, 140105 NSK Ho, I Pivdiablyk, R Shandro, R Hauteville, S Brzuchacz, JHL Pang*. Fatigue qualification analysis of a wire arc additively manufactured block and pressure vessel using ER70S-6 wire feedstock material. The The International Journal of Advanced Manufacturing Technology (2025) 141:6347–6370",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Pang-Hock-Lye-John/selectedpublications"
+    },
+    {
+      "title": "High-speed laser metal deposited tungsten carbide-Inconel 625 coating with refined microstructure and enhanced wear for high temperature performance",
+      "year": 2025,
+      "citation_raw": "J Wang, NA Subramaniam, EZE Tan, JHL Pang*. High-speed laser metal deposited tungsten carbide-Inconel 625 coating with refined microstructure and enhanced wear for high temperature performance. The International Journal of Advanced Manufacturing Technology (2025) 140:6807–6827",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Pang-Hock-Lye-John/selectedpublications"
+    }
+  ]
 }

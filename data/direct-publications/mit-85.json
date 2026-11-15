@@ -5,7 +5,9 @@
   "lab_name": null,
   "lab_url": "https://tadesselab.mit.edu/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/lozat@mit.edu"
+    "https://tadesselab.mit.edu/publications/",
+    "https://tadesselab.mit.edu/publications/?query-32-page=3",
+    "https://tadesselab.mit.edu/publications/?query-32-page=2"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/lozat@mit.edu",
   "discovered_links": [
@@ -31,12 +33,100 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
-    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Nucleic acid turnover and lipid remodeling distinguish T cell activation and exhaustion states via label-free Raman spectroscopy",
+      "year": 2026,
+      "citation_raw": "Nucleic acid turnover and lipid remodeling distinguish T cell activation and exhaustion states via label-free Raman spectroscopy Marissa MoralesSrilakshmi PremachandranShruthi RavichandranLoza F Tadesse ACS Sensors 2026 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/"
+    },
+    {
+      "title": "Nano-engineered surface enhanced Raman spectroscopy substrates for probing tissue-material interactions",
+      "year": 2026,
+      "citation_raw": "Nano-engineered surface enhanced Raman spectroscopy substrates for probing tissue-material interactions Connie M. WangRoberta M. SabinoAditya GargAhmed E. SalihLoza F TadesseElazer R. Edelman Nano Letters 2026 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/"
+    },
+    {
+      "title": "Towards Breath Based Diagnostics via Water-mediated Capture of Synthetic Breath Biomarkers in SERS-active Plasmonic Nanogaps",
+      "year": 2026,
+      "citation_raw": "Towards Breath Based Diagnostics via Water-mediated Capture of Synthetic Breath Biomarkers in SERS-active Plasmonic Nanogaps Aditya GargMarissa MoralesAashini ShahDaniel KimMing LeiSahil PatelJia DongSeleem BadawySangeeta BhatiaLoza F Tadesse Nano Letters 2026 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/"
+    },
+    {
+      "title": "SpectroGen: A physically informed generative artificial intelligence for accelerated cross-modality spectroscopic materials characterization",
+      "year": 2026,
+      "citation_raw": "SpectroGen: A physically informed generative artificial intelligence for accelerated cross-modality spectroscopic materials characterization Yanmin ZhuLoza F Tadesse Matter 2026 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/"
+    },
+    {
+      "title": "From Genotype to Phenotype: Raman Spectroscopy and Machine Learning for Label-Free Single-Cell Analysis",
+      "year": 2024,
+      "citation_raw": "From Genotype to Phenotype: Raman Spectroscopy and Machine Learning for Label-Free Single-Cell Analysis Yirui ZhangKai ChangBabatunde OgunladeLiam HerndonLoza F TadesseAmanda R KiraneJennifer A Dionne ACS Nano 2024 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/"
+    },
+    {
+      "title": "Cooperative enhancement of the nonlinear optical response in conjugated energetic materials: A TD-DFT study",
+      "year": 2017,
+      "citation_raw": "Cooperative enhancement of the nonlinear optical response in conjugated energetic materials: A TD-DFT study Andrew E. SifainLoza F TadesseJosiah A. BjorgaardDavid E. ChavezOleg V. PrezhdoR. Jason ScharffSergei Tretiak The Journal of Chemical Physics 146 2017 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/?query-32-page=3"
+    },
+    {
+      "title": "Effect of Transition Metal Oxide Cathodes on the Oxygen Evolution Reaction in Li–O2 Batteries",
+      "year": 2017,
+      "citation_raw": "Effect of Transition Metal Oxide Cathodes on the Oxygen Evolution Reaction in Li–O2 Batteries Dahyun OhKumar VirwaniLoza F TadesseMark JurichNagaphani AetukuriLeslie E ThompsonHo-Cheol KimDonald S Bethune The Journal of Physical Chemistry C 121 2017 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/?query-32-page=3"
+    },
+    {
+      "title": "Sharpness-Aware Minimization (SAM) Improves Classification Accuracy of Bacterial Raman Spectral Data Enabling Portable Diagnostics",
+      "year": 2024,
+      "citation_raw": "Sharpness-Aware Minimization (SAM) Improves Classification Accuracy of Bacterial Raman Spectral Data Enabling Portable Diagnostics Kaitlin ZarenoJarett DewburySiamak SorooshyariHossein MobahiLoza F Tadesse ICLR 5th Workshop on practical ML for limited/low resource settings 2024 Conference",
+      "source_url": "https://tadesselab.mit.edu/publications/?query-32-page=2"
+    },
+    {
+      "title": "Loza F TadesseJack HuAmr AE SalehStefanie S JeffreyJennifer A Dionne",
+      "year": 2023,
+      "citation_raw": "Label-free, real-time, whole-cell response monitoring with liquid Raman spectroscopy Loza F TadesseJack HuAmr AE SalehStefanie S JeffreyJennifer A Dionne Filed, Appl. No.: PCT/US2021/048668.2021 2023 Patent",
+      "source_url": "https://tadesselab.mit.edu/publications/?query-32-page=2"
+    },
+    {
+      "title": "More than magnetic isolation: Dynabeads as strong Raman reporters toward simultaneous capture and identification of targets",
+      "year": 2023,
+      "citation_raw": "More than magnetic isolation: Dynabeads as strong Raman reporters toward simultaneous capture and identification of targets Jongwan LeeMarissa McDonaldNikiwe MhlangaJeon Woong KangRohit KarnikLoza F Tadesse Journal of Raman Spectroscopy 2023 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/?query-32-page=2"
+    },
+    {
+      "title": "Combining acoustic bioprinting with AI-assisted Raman spectroscopy for high-throughput identification of bacteria in blood",
+      "year": 2023,
+      "citation_raw": "Combining acoustic bioprinting with AI-assisted Raman spectroscopy for high-throughput identification of bacteria in blood Fareeha SafirNhat VuLoza F TadesseKamyar FirouziNiaz BanaeiStefanie S JeffreyAmr AE SalehButrus (Pierre) T Khuri-YakubJennifer A Dionne Nano Letters 23 2023 Conference",
+      "source_url": "https://tadesselab.mit.edu/publications/?query-32-page=2"
+    },
+    {
+      "title": "Plasmonic and Electrostatic Interactions Enable Uniformly Enhanced Liquid Bacterial Surface-Enhanced Raman Scattering (SERS)",
+      "year": 2020,
+      "citation_raw": "Plasmonic and Electrostatic Interactions Enable Uniformly Enhanced Liquid Bacterial Surface-Enhanced Raman Scattering (SERS) Loza F TadesseChi-Sing HoDong-Hua ChenHamed AramiNiaz BanaeiSanjiv S. GambhirStefanie S JeffreyAmr AE SalehJennifer Dionne Nano letters 20 2020 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/?query-32-page=2"
+    },
+    {
+      "title": "Toward rapid infectious disease diagnosis with advances in surface-enhanced Raman spectroscopy",
+      "year": 2020,
+      "citation_raw": "Toward rapid infectious disease diagnosis with advances in surface-enhanced Raman spectroscopy Loza F TadesseFareeha SafirChi-Sing HoXimena HasbachButrus (Pierre) T Khuri-YakubStefanie S JeffreyAmr AE SalehJennifer Dionne The Journal of Chemical Physics 152 2020 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/?query-32-page=2"
+    },
+    {
+      "title": "Nanophotonic platforms for chiral sensing and separation",
+      "year": 2020,
+      "citation_raw": "Nanophotonic platforms for chiral sensing and separation Michelle L. SolomonAmr AE SalehLisa V. PoulikakosJohn M. AbendrothLoza F TadesseJennifer A Dionne Accounts of chemical research 53 2020 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/?query-32-page=2"
+    },
+    {
+      "title": "Biotemplating pores with size and shape diversity for Li-oxygen Battery Cathodes",
+      "year": 2017,
+      "citation_raw": "Biotemplating pores with size and shape diversity for Li-oxygen Battery Cathodes Dahyun OhCagla Ozgit-AkgunEsin AkcaLeslie E ThompsonLoza F TadesseHo-Cheol KimGökhan DemirciRobert D. MillerHareem Maune Scientific reports 7 2017 Journal Article",
+      "source_url": "https://tadesselab.mit.edu/publications/?query-32-page=2"
+    }
+  ]
 }

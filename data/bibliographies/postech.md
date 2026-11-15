@@ -3996,47 +3996,315 @@ Brain-Robot-Artificial Intelligence Intergrated System Lab · 논문·원고 15�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:55:04.535Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Attempted https://photonics.postech.ac.kr/publications error Error: net::ERR_HTTP_RESPONSE_CODE_FAILURE / Official department profile returned HTTP 404; no lab site identified in this continuation. Profile-only attempt, not full_site_attempted. / Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://photonics.postech.ac.kr/publications>
 
 ## POSTECH — 박성민
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:55:04.521Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Attempted https://me.postech.ac.kr/ko/page/professor26 error Error: Selector "body" not found / Actual official lab publication page visited; visible text saved. Conservative quoted-title extraction only. Full category/pagination/detail and publication-status verification remains incomplete. / Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://me.postech.ac.kr/ko/page/professor26>
 
 ## POSTECH — 박재성
 
-나노 입자 및 소포 연구실 · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+나노 입자 및 소포 연구실 · 논문·원고 44건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:55:04.526Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete. / Actual official lab publication page visited; visible text saved. Conservative quoted-title extraction only. Full category/pagination/detail and publication-status verification remains incomplete. / Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://npv.postech.ac.kr/npv/pub/Journal.do>
 
+1. Cell-engineered virus-mimetic nanovesicles for vaccination C Han, S Kim, J Park Journal of Extracellular Vesicles 2024
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Cellular Membrane-Derived Nanovesicles Expressing hCD64 S Kim, J Lee, J Park ACS Applied Bio Materials 2024
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Characterization of EV and VLP by single vesicle analysis C Han, M Kang, J Park... Sensors and Actuators B: Chemical 2023
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. MSC-derived EV in cisplatin nephrotoxicity model EJ Kwon, J Park, S Kim Int. J. Mol. Sci. 2023
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Methods to analyze EV at single particle level Y Kwon, J Park Micro and Nano Systems Letters 2022
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Extracellular vesicles generated using bioreactors for AKI H Kang, Y Bae, J Park... Advanced Healthcare Materials 2022
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Single-vesicle imaging and tetraspanin profiling C Han, H Kang, J Yi... Journal of Extracellular Vesicles 2021
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Multifluorescence single extracellular vesicle analysis S Cho, J Yi, J Park... ACS Nano 2021
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Immunostaining EV based on ATPS for tetraspanins J Lee, Y Kwon, J Park ACS Applied Bio Materials 2021
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Heterogeneous subcellular origin of nanovesicles H Lee, H Kang, J Park... ACS Biomaterials Science & Engineering 2020
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. MSC engineered nanovesicles for skin wound closure C Han, D Jeong, J Park... ACS Biomaterials Science & Engineering 2019
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Minimal information for studies of extracellular vesicles 2018 (MISEV2018) C Thery, KW Witwer, E Aikawa... Journal of Extracellular Vesicles 2018
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Cancer-derived exosomes trigger endothelial to mesenchymal transition JH Yeon, HE Jeong, H Seo... Acta Biomaterialia 2018
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Analysis of extracellular vesicles using coffee ring H Jeong, C Han, J Park... ACS Applied Materials & Interfaces 2018
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Modulation of nanoparticle separation by contact angle J Yi, H Jeong, J Park Micro and Nano Systems Letters 2018
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Methods to isolate extracellular vesicles for diagnosis H Kang, J Kim, J Park Micro and Nano Systems Letters 2017
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Cell-engineered nanovesicle as a surrogate inducer J Kim, C Han, J Park... Advanced Healthcare Materials 2017
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Isolation of EV from blood plasma using electrophoretic migration S Cho, W Jo, Y Heo... Sensors and Actuators B: Chemical 2016
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. PROSTATE-SPECIFIC EV AS A NOVEL BIOMARKER YH Park, HW Shin, J Park... The Journal of Urology 2016
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Self-Renewal of Bone Marrow Stem Cells by ES-Nanovesicles W Jo, D Jeong, J Park Advanced Healthcare Materials 2016
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Thermal conductivity of biological cells and disease state BK Park, Y Woo, J Park... Journal of Applied Physics 2016
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Gram-negative and Gram-positive bacterial extracellular vesicles JH Kim, J Lee, J Park, YS Gho
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Generation of nanovesicles with sliced cellular membrane fragments J Yoon, W Jo, D Jeong... Biomaterials 2015
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Bacterial protoplast-derived nanovesicles as vaccine delivery OY Kim, SC Jang, J Park... Nano Letters 2015
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Microfluidic fabrication of nanovesicles as endogenous RNA carriers W Jo, D Jeong, J Kim... Lab on a Chip 2014
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Nanovesicles engineered from ES cells for cell proliferation D Jeong, W Jo, J Yoon... Biomaterials 2014
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Bioinspired exosome-mimetic nanovesicles for targeted delivery SC Jang, OY Kim, CM Yoon... ACS Nano 2013
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Thermal conductivity of single biological cells BK Park, N Yi, J Park, D Kim Applied Physics Letters 2013
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Effect of PCL/PLGA/collagen scaffolds on stem cells JH Shim, AJ Kim, J Park... J. Mater. Sci. Mater. Med. 2013
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Monitoring protein denaturation using thermal conductivity BK Park, J Park, D Kim Int. J. Biol. Macromol. 2013
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Microfluidic filtration system to isolate extracellular vesicles from blood RT Davies, J Kim, SC Jang... Lab on a Chip 2012
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Formation of liposomes using a 3D flow focusing device RT Davies, D Kim, J Park Journal of Micromechanics and Microengineering 2012
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Measurement of thermal conductivity of picoliter samples BK Park, N Yi, J Park Review of Scientific Instruments 2012
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Development of a hybrid scaffold with synthetic biomaterials JH Shim, JY Kim, M Park... Biofabrication 2011
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Influences of electric field on living cells in droplets DJ Im, J Noh, NW Yi, J Park Biomicrofluidics 2011
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Thermal conductivity of bovine serum albumin denaturation BK Park, N Yi, J Park... Applied Physics Letters 2011
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Oxygen transport prediction in tissue-engineered scaffold TY Kang, HW Kang, J Park... Acta Biomaterialia 2011
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Three-omega method to measure liquid thermal properties BK Park, J Park, D Kim Review of Scientific Instruments 2010
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Roll-to-roll production of 30-inch graphene films S Bae, JS Park, Y Zheng... Nature Nanotechnology 2010
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Homogeneous differentiation of hepatocyte-like cells CH Cho, N Parashurama... The FASEB Journal 2008
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. A microfluidic ATP-bioluminescence sensor SJ Lee, JS Park, HI Jung Sensors and Actuators B: Chemical 2008
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Microchannel bioreactors for bioartificial liver support J Park, M Toner, AW Tilles Microfluidics and Nanofluidics 2006
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Bent-beam electrothermal actuators-Part I L Que, JS Park, YB Gianchandani Journal of Microelectromechanical Systems 2001
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
+1. Bent-beam electrothermal actuators-Part II JS Park, LL Chu, AD Oliver... Journal of Microelectromechanical Systems 2001
+
+    게시 페이지: <https://npv.postech.ac.kr/npv/pub/Journal.do>
+
 ## POSTECH — 박형규
 
-에너지 및 지속가능성 지향 나노과학연구실 · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+에너지 및 지속가능성 지향 나노과학연구실 · 논문·원고 8건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:55:04.533Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete. / Actual official lab publication page visited; visible text saved. Conservative quoted-title extraction only. Full category/pagination/detail and publication-status verification remains incomplete. / Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://nets.postech.ac.kr/Adminnets/pub/domestics.do>
+출처: <https://me.postech.ac.kr/ko/page/professor11>
+
+1. NETS 연구실은 에너지와 청정기술 응용분야에 적용할 수 있는 나노과학을 연구하며, 궁극적으로 에너지 및 지속가능성 면에서의 기술혁신에 이바지하려 한다. 1차원 및 2차원 물질로 구성된복합체 멤브레인, 나노수력학, 광전공학 및 전기화학 플랫폼을 설계하고 분석하여 저차원 공간애서의 특별한 물질 전달 현상을 이해하고, 이를 에너지, 환경, 바이오, 센서 분야 등에 응용하고자 한다. 저차원 공간의 전달현상에 대한 이해를 바탕으로 표면증강 라만분광법 기반의 초고감도 화학종 센싱기법에 기반한 생화합물징의 감지, 또는 리튬-물 배터리를 통한 에너지 및 수소생산과 같은 주제를 연구함으로써, 최종적으로 글로벌 에너지 및 지속가능성 문제 해결에 기여하는 기초공학적 지식을 창출한다. MAJOR RESEARCH ACHIEVEMENTS Fast mass transport through sub-2-nm-wide CNT interior (cover article of Science 2006)
+
+    게시 페이지: <https://me.postech.ac.kr/ko/page/professor11>
+
+1. Facile, diameter-selective synthesis of vertically aligned CNT arrays via temperature-gradient chemical vapor deposition and catalyst engineering (RSC Advances 2013; Scientific Reports 2017)
+
+    게시 페이지: <https://me.postech.ac.kr/ko/page/professor11>
+
+1. Gompertzian kinetics in the graphene synthesis on copper (Nano Letters 2013)
+
+    게시 페이지: <https://me.postech.ac.kr/ko/page/professor11>
+
+1. Ultimate mass permeation across atomically thin porous graphene and invention of its enlarged-scale manufacturing (Science 2014; Science Advances 2018)
+
+    게시 페이지: <https://me.postech.ac.kr/ko/page/professor11>
+
+1. Invention of CNT-scaffolded surface-enhanced Raman spectroscopy for ultrasensitive chemical detection (cover article of Advanced Matererials 2013)
+
+    게시 페이지: <https://me.postech.ac.kr/ko/page/professor11>
+
+1. Polymerization protocol of nanofilm from a porous scaffold of CNT buckypaper and porous graphene (ACS Applied Matererials & Interfaces 2018; Science Advances 2018)
+
+    게시 페이지: <https://me.postech.ac.kr/ko/page/professor11>
+
+1. Lamellar membrane having subnanometric channels out of 2D materials stacking (Nano Letters 2017)
+
+    게시 페이지: <https://me.postech.ac.kr/ko/page/professor11>
+
+1. Femtomolar ultrasensitive chemical sensor via surface enhanced Raman spectroscopy (cover article of Advanced Ma - terials 2013)
+
+    게시 페이지: <https://me.postech.ac.kr/ko/page/professor11>
 
 ## POSTECH — 신동일
 
-데이터 기반 고체역학 연구실 (Data-driven Solid mechanics Laboratory) · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+데이터 기반 고체역학 연구실 (Data-driven Solid mechanics Laboratory) · 논문·원고 14건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:55:39.024Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete. / Actual official lab publication page visited; visible text saved. Quoted-title subset only where available. Unquoted titles, additional categories and pagination remain incomplete. / Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. International Journals Quasicrystal Architected Nanomechanical Resonators via Data-Driven Design 2026 Extreme Mechanics Letters, 89, 102528
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. Dongil Shin* Microstructure-based Variational Deep Material Networks for Robust Uncertainty Quantification in Materials Digital Twins 2026 npj Computational Materials 2026, 12, 261
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. and Rémi M. Dingreville U-net Architected Deep Material Network Training with Microstructure Local Field Information 2026 Computational Mechanics
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. https://doi.org/10.1007/s00466-025-02744-9 Micropolar deep material network 2025 Computer Methods in Applied Mechanics and Engineering, 446, 118329
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. Remi Dingreville* Deep material network for thermal conductivity problems: Application to woven composites 2024 Computer Methods in Applied Mechanics and Engineering, 431, 117279
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. Remi Dingreville* Centimeter-scale nanomechanical resonators 2024 Nature Communications, 15(1), 4255
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. Richard A. Norte* A deep material network approach for predicting the thermomechanical response of composites 2024 Composites Part B: Engineering, 272, 111177
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. Gang-Won Jang* High-Strength Amorphous Silicon Carbide for Nanomechanics 2024 Advanced Materials, 36(5), 2306513
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. Selected as the Cover Picture: https://onlinelibrary.wiley.com/doi/10.1002/adma.202470034 Beating Ringdowns of Near-Degenerate Mechanical Resonances 2023 Physical Review Applied, 20, 024053
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. Richard A. Norte* Deep material network via a quilting strategy: Visualization for explainability and recursive training for improved accuracy 2023 npj Computational Materials, 9(1), 128
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. Spiderweb nanomechanical resonators via Bayesian optimization: inspired by nature and guided by machine learning 2022 Advanced Materials, 34(3), 2106248
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. Miguel A. Bessa* Richard A. Norte* Wiley, Top Downloaded Article published in 2021
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. A novel space-constrained vehicle suspension mechanism synthesized by a systematic design process employing topology optimization 2020 Structural and Multidisciplinary Optimization, 62(3), 1497-1517
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
+
+1. One-dimensional analysis of thin-walled beams with diaphragms and its application to optimization for stiffness reinforcement 2017 Computational Mechanics, 61(3), 1-19
+
+    게시 페이지: <https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do>
 
 ## POSTECH — 신원동
 
@@ -4072,17 +4340,23 @@ Brain-Robot-Artificial Intelligence Intergrated System Lab · 논문·원고 15�
 
 에너지-나노 통합 설계 및 생산 연구실 · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:55:39.030Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete. / Actual official lab publication page visited; visible text saved. Quoted-title subset only where available. Unquoted titles, additional categories and pagination remain incomplete. / Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://me.postech.ac.kr/ko/page/professor27>
 
 ## POSTECH — 유동현
 
 유동 물리 및 공학 연구실 · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:55:39.032Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete. / Actual official lab publication page visited; visible text saved. Quoted-title subset only where available. Unquoted titles, additional categories and pagination remain incomplete. / Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://fpe.postech.ac.kr/fpe/index.do>
+
+출처: <https://me.postech.ac.kr/ko/page/professor12>
 
 출처: <https://fpe.postech.ac.kr/fpe/pub/international-journal.do>
 
@@ -4746,9 +5020,15 @@ Extreme Mechanics 연구실 · 논문·원고 56건 · 기타 성과 0건 · 상
 
 나노 및 바이오멤스 연구실 · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:56:19.332Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Attempted https://biomems.postech.ac.kr/web/ error Error: Selector "body" not found / Department profile linked BioMEMS hostname; actual destination redirects to old mechanical department website rather than lab publications. No papers extracted. / Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://me.postech.ac.kr/ko/page/professor16>
+
+출처: <https://biomems.postech.ac.kr/web/>
+
+출처: <https://biomems.postech.ac.kr/web/?top=announcement&sub=notice&category=5&key=detail&code=6153>
 
 ## POSTECH — 장진아Jinah
 
@@ -8037,7 +8317,13 @@ Multifunctional Materials & Micro/nanosystems Laboratory · 논문·원고 85건
 
 초소형기전공학연구실 · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:54:14.424Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Attempted https://mnt.postech.ac.kr/web/ error Error: Selector "body" not found / Official department profile linked mnt.postech.ac.kr; actual lab website navigation attempted. See captured response; no publication records extracted. / Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://me.postech.ac.kr/ko/page/professor06>
+
+출처: <https://mnt.postech.ac.kr/web/>
+
+출처: <https://mnt.postech.ac.kr/web/?top=announcement&sub=notice&category=5&key=detail&code=6153>
 

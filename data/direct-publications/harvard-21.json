@@ -5,13 +5,669 @@
   "lab_name": null,
   "lab_url": "https://www.manoharan.seas.harvard.edu/",
   "publication_urls": [
-    "https://www.manoharan.seas.harvard.edu/publications"
+    "https://www.manoharan.seas.harvard.edu/publications",
+    "https://www.manoharan.seas.harvard.edu/publications?page=0",
+    "https://www.manoharan.seas.harvard.edu/publications?page=1",
+    "https://www.manoharan.seas.harvard.edu/publications?page=9",
+    "https://www.manoharan.seas.harvard.edu/publications?page=2",
+    "https://www.manoharan.seas.harvard.edu/publications?page=4",
+    "https://www.manoharan.seas.harvard.edu/publications?page=6",
+    "https://www.manoharan.seas.harvard.edu/publications?page=8",
+    "https://www.manoharan.seas.harvard.edu/publications?page=3",
+    "https://www.manoharan.seas.harvard.edu/publications?page=5",
+    "https://www.manoharan.seas.harvard.edu/publications?page=7"
   ],
-  "accessed_at": "2026-11-11T13:51:32.088Z",
-  "coverage_notes": [
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
     "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 11개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Extracellular Uncoating of Bacteriophage MS2",
+      "year": 2025,
+      "citation_raw": "Paine, A. W.; Garmann, R. F.; Manoharan, V. N. Extracellular Uncoating of Bacteriophage MS2. Journal of Molecular Biology 2025, in press. https://doi.org/10.1016/j.jmb.2025.169316.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Tavera-Vázquez, A., Montalvan-Sorrosa, D",
+      "year": 2025,
+      "citation_raw": "Publisher's version Tavera-Vázquez, A.; Montalvan-Sorrosa, D.; Perez-Lemus, G. R.; Rodriguez-Lopez, O. E.; Martinez-Gonzalez, J. A.; Manoharan, V. N.; de Pablo, J. J. Microplate Active Migration Emerging From Light-Induced Phase Transitions in a Nematic Liquid Crystal. Advanced Functional Materials 2025, 35 (30). https://doi.org/10.1002/adfm.202504046.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Measuring Intramolecular Connectivity in Long RNA Molecules Using Two-Dimensional DNA Patch–probe Arrays",
+      "year": 2025,
+      "citation_raw": "Publisher's version Chiang, T. K.; Kimchi, O.; Dhaliwal, H. K.; Villarreal, D. A.; Vasquez, F. F.; Manoharan, V. N.; Brenner, M. P.; Garmann, R. F. Measuring Intramolecular Connectivity in Long RNA Molecules Using Two-Dimensional DNA Patch–probe Arrays. Nucleic Acids Research 2025, 53 (11). https://doi.org/10.1093/nar/gkaf469.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Inferring Interaction Potentials from Stochastic Particle Trajectories",
+      "year": 2025,
+      "citation_raw": "Publisher's version King, E. M.; Engel, M. C.; Martin, C.; Sunol, A. M.; Zhu, Q.-Z.; Schoenholz, S. S.; Manoharan, V. N.; Brenner, M. P. Inferring Interaction Potentials from Stochastic Particle Trajectories. Physical Review Research 2025, 7 (2). https://doi.org/10.1103/PhysRevResearch.7.023075.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Disassembly of Virus-Like Particles and the Stabilizing Role of the Nucleic Acid Cargo",
+      "year": 2025,
+      "citation_raw": "Publisher's version Paine, A. W.; Hagan, M. F.; Manoharan, V. N. Disassembly of Virus-Like Particles and the Stabilizing Role of the Nucleic Acid Cargo. The Journal of Physical Chemistry B 2025, 129 (5). https://doi.org/10.1021/acs.jpcb.4c07215.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Colloidal Crystallization on Cones",
+      "year": 2025,
+      "citation_raw": "Publisher's version Sun, J. H.; Zhang, G. H.; Plummer, A.; Martin, C.; Tanjeem, N.; Nelson, D.; Manoharan, V. N. Colloidal Crystallization on Cones. Physical Review Letters 2025, 134 (1). https://doi.org/10.1103/PhysRevLett.134.018201.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "and Weaving Microscale Fibers With Capillary Forces",
+      "year": 2024,
+      "citation_raw": "Sherif, A.; Faaborg, M. W.; Zeng, C.; Brenner, M. P.; Manoharan, V. N. Braiding, Twisting, and Weaving Microscale Fibers With Capillary Forces. Soft Matter 2024, 20 (15). https://doi.org/10.1039/D3SM01732J.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Effect of Coat-Protein Concentration on the Self-Assembly of Bacteriophage MS2 Capsids Around RNA",
+      "year": 2024,
+      "citation_raw": "Publisher's version Williams, L. A.; Neophytou, A.; Garmann, R. F.; Chakrabarti, R.; Manoharan, V. N. Effect of Coat-Protein Concentration on the Self-Assembly of Bacteriophage MS2 Capsids Around RNA. Nanoscale 2024.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Precise Characterization of Nanometer-Scale Systems Using Interferometric Scattering Microscopy and Bayesian Analysis",
+      "year": 2023,
+      "citation_raw": "Wit, X. M.; Paine, A. W.; Martin, C.; Goldfain, A. M.; Garmann, R. F.; Manoharan, V. N. Precise Characterization of Nanometer-Scale Systems Using Interferometric Scattering Microscopy and Bayesian Analysis. Applied Optics 2023, 62 (27), 7205-7215.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Geometric Frustration of Hard-Disk Packings on Cones",
+      "year": 2023,
+      "citation_raw": "Publisher's Version Sun, J. H.; Plummer, A.; Zhang, G. H.; Nelson, D.; Manoharan, V. N. Geometric Frustration of Hard-Disk Packings on Cones. Physical Review E 2023, 108 (5), 054608.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "3D-Printed Machines That Manipulate Microscopic Objects Using Capillary Forces",
+      "year": 2022,
+      "citation_raw": "Zeng, C.; Faaborg, M. W.; Sherif, A.; Falk, M. J.; Hajian, R.; Xiao, M.; Hartig, K.; Bar-Sinai, Y.; Brenner, M. 3D-Printed Machines That Manipulate Microscopic Objects Using Capillary Forces. Nature 2022, 611, 68-73.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Voltage-Tunable Elastomer Composites That Use Shape Instabilities for Rapid Structural Color Changes",
+      "year": 2022,
+      "citation_raw": "Publisher's Version Xiao, M.; Mao, J.; Kollosche, M.; Hwang, V.; Clarke, D.; Manoharan, V. N. Voltage-Tunable Elastomer Composites That Use Shape Instabilities for Rapid Structural Color Changes. Materials Horizons 2022, 9 (7), 1954-1961.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Programming Directed Motion With DNA-Grafted Particles",
+      "year": 2022,
+      "citation_raw": "Gehrels, E. W.; Rogers, W. B.; Zeravcic, Z.; Manoharan, V. N. Programming Directed Motion With DNA-Grafted Particles. ACS Nano 2022, 16 (6), 9195-9202.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Predicting the Structural Colors of Films of Disordered Photonic Balls",
+      "year": 2022,
+      "citation_raw": "Publisher's Version Stephenson, A. B.; Xiao, M.; Hwang, V.; Qu, L.; Odorisio, P. A.; Burke, M.; Task, K.; Deisenroth, T.; Barkley, S.; Darji, R. H.; Manoharan, V. N. Predicting the Structural Colors of Films of Disordered Photonic Balls. ACS Photonics 2022, 10 (1), 58-70.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Single-Particle Studies of the Effects of RNA-Protein Interactions on the Self-Assembly of RNA Virus Particles",
+      "year": 2022,
+      "citation_raw": "Publisher's Version Garmann, R. F.; Goldfain, A. M.; Tanimoto, C. R.; Beren, C. E.; Vasquez, F. F.; Villareal, D. A.; Knobler, C. M.; Gelbart, W. M.; Manoharan, V. N. Single-Particle Studies of the Effects of RNA-Protein Interactions on the Self-Assembly of RNA Virus Particles. Proceedings of the National Academy of Sciences 2022, 119 (39), e2206292119.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "In-Line Holographic Microscopy With Model-Based Analysis",
+      "year": 2022,
+      "citation_raw": "Publisher's Version Martin, C.; Altman, L. E.; Rawat, S.; Wang, A.; Grier, D. G.; Manoharan, V. N. In-Line Holographic Microscopy With Model-Based Analysis. Nature Reviews Methods Primers 2022, 2 (1), 83.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Polyhedral Plasmonic Nanoclusters through Multi-Step Colloidal Chemistry",
+      "year": 2021,
+      "citation_raw": "Tanjeem, N.; Chomette, C.; Schade, N. B.; Ravaine, S.; Duguet, E.; Treguer-Delapierre, M.; Manoharan, V. N. Polyhedral Plasmonic Nanoclusters through Multi-Step Colloidal Chemistry. Materials Horizons 2021, 8 (2), 565-570.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Self-Assembly of Patchy Colloidal Rods into Photonic Crystals Robust to Stacking Faults",
+      "year": 2021,
+      "citation_raw": "Publisher's Version Neophytou, A.; Manoharan, V. N.; Chakrabarti, D. Self-Assembly of Patchy Colloidal Rods into Photonic Crystals Robust to Stacking Faults. ACS nano 2021, 15 (2), 2668-2678.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Designing Angle-Independent Structural Colors Using Monte Carlo Simulations of Multiple Scattering",
+      "year": 2021,
+      "citation_raw": "Publisher's Version Hwang, V.; Stephenson, A. B.; Barkley, S.; Brandt, S.; Xiao, M.; Aizenberg, J.; Manoharan, V. N. Designing Angle-Independent Structural Colors Using Monte Carlo Simulations of Multiple Scattering. Proceedings of the National Academy of Sciences 2021, 118 (4), e2015551118.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Improving Holographic Particle Characterization by Modeling Spherical Aberration",
+      "year": 2021,
+      "citation_raw": "Martin, C.; Leahy, B.; Manoharan, V. N. Improving Holographic Particle Characterization by Modeling Spherical Aberration. Optics Express 2021, 29 (12), 18212-18223.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Investigating the Trade-off Between Color Saturation and Angle-Independence in Photonic Glasses",
+      "year": 2021,
+      "citation_raw": "Publisher's Version Xiao, M.; Stephenson, A. B.; Neophytou, A.; Hwang, V.; Chakrabarti, D.; Manoharan, V. N. Investigating the Trade-off Between Color Saturation and Angle-Independence in Photonic Glasses. Optics Express 2021, 29 (14), 21212-21224.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Geometrical Frustration and Defect Formation in Growth of Colloidal Nanoparticle Crystals on a Cylinder: Implications for Assembly of Chiral Nanomaterials",
+      "year": 2021,
+      "citation_raw": "Publisher's Version Tanjeem, N.; Wilkin, W. H.; Beller, D.; Rycroft, C. H.; Manoharan, V. N. Geometrical Frustration and Defect Formation in Growth of Colloidal Nanoparticle Crystals on a Cylinder: Implications for Assembly of Chiral Nanomaterials. ACS Applied Nano Materials 2021, 4 (10), 10682-10691.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Modulating and Addressing Interactions in Polymer Colloids Using Light",
+      "year": 2020,
+      "citation_raw": "Gehrels, E. W.; Klein, E. D.; Manoharan, V. N. Modulating and Addressing Interactions in Polymer Colloids Using Light. Materials Horizons 2020, 7 (2), 586-591.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Surfactant-Assisted Synthesis of Uniform Titania Microspheres and Their Clusters",
+      "year": 2008,
+      "citation_raw": "Yu, H. K.; Yi, G.-R.; Kang, J.-H.; Cho, Y.-S.; Manoharan, V.; Pine, D.; Yang, S.-M. Surfactant-Assisted Synthesis of Uniform Titania Microspheres and Their Clusters. Chemistry of Materials 2008, 20 (8), 2704-2710.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Manoharan, V. N",
+      "year": 2006,
+      "citation_raw": "Manoharan, V. N. Colloidal Spheres Confined by Liquid Droplets: Geometry, Physics, and Physical Chemistry. Solid State Communications 2006, 139 (11-12), 557-561.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Self-Organization of Bidisperse Colloids in Water Droplets",
+      "year": 2005,
+      "citation_raw": "Cho, Y.-S.; Yi, G.-R.; Lim, J.-M.; Kim, S.-H.; Manoharan, V.; Pine, D.; Yang, S.-M. Self-Organization of Bidisperse Colloids in Water Droplets. Journal of the American Chemical Society 2005, 127 (4), 15968-15975.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Large Depth-of-Field Tracking of Colloidal Spheres in Holographic Microscopy by Modeling the Objective Lens",
+      "year": 2020,
+      "citation_raw": "Leahy, B.; Alexander, R.; Martin, C.; Barkley, S.; Manoharan, V. N. Large Depth-of-Field Tracking of Colloidal Spheres in Holographic Microscopy by Modeling the Objective Lens. Optics Express 2020, 28 (2), 1061-1075.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Effects of Multiple Scattering on Angle-Independent Structural Color in Disordered Colloidal Materials",
+      "year": 2020,
+      "citation_raw": "Publisher's Version Hwang, V.; Stephenson, A. B.; Magkiriadou, S.; Park, J.-G.; Manoharan, V. N. Effects of Multiple Scattering on Angle-Independent Structural Color in Disordered Colloidal Materials. Physical Review E 2020, 101 (1), 012614.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Tracking and Analyzing the Brownian Motion of Nano-Objects Inside Hollow Core Fibers",
+      "year": 2020,
+      "citation_raw": "Publisher's Version Forster, R.; Weidlich, S.; Nissen, M.; Wieduwilt, T.; Kolbelke, J.; Goldfain, A. M.; Chiang, T. K.; Garmann, R. F.; Manoharan, V. N.; Lahini, Y.; Schmidt, M. A. Tracking and Analyzing the Brownian Motion of Nano-Objects Inside Hollow Core Fibers. ACS Sensors 2020, 5 (3), 879-886.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Precise Measurements in Digital Holographic Microscopy by Modeling the Optical Train",
+      "year": 2020,
+      "citation_raw": "Publisher's Version Alexander, R.; Leahy, B.; Manoharan, V. N. Precise Measurements in Digital Holographic Microscopy by Modeling the Optical Train. Journal of Applied Physics 2020, 128 (6).",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Controlled Assembly of Icosahedral Colloidal Clusters for Structural Coloration",
+      "year": 2020,
+      "citation_raw": "Publisher's Version Kim, C.; Jung, K.; Yu, J. W.; Park, S.; Kim, S.-H.; Lee, W. B.; Hwang, H.; Manoharan, V. N.; Moon, J. H. Controlled Assembly of Icosahedral Colloidal Clusters for Structural Coloration. Chemistry of Materials 2020, 32 (22), 9704-9712.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Active Colloidal Particles in Emulsion Droplets: A Model System for the Cytoplasm",
+      "year": 2019,
+      "citation_raw": "Horowitz, V. R.; Chambers, Z. C.; Gozen, I.; Dimiduk, T. G.; Manoharan, V. N. Active Colloidal Particles in Emulsion Droplets: A Model System for the Cytoplasm. The European Physical Journal Special Topics 2019, 227, 2413-2424.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Solution‐Processable Photonic Inks of Mie‐Resonant Hollow Carbon–Silica Nanospheres",
+      "year": 2019,
+      "citation_raw": "Publisher's Version Kim, S.-H.; Hwang, V.; Lee, S. G.; Ha, J.-W.; Manoharan, V. N.; Yi, G.-R. Solution‐Processable Photonic Inks of Mie‐Resonant Hollow Carbon–Silica Nanospheres. Small 2019, 15 (23), 1900931.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Holographic Microscopy With Python and HoloPy",
+      "year": 2019,
+      "citation_raw": "Publisher's Version Barkley, S.; Dimiduk, T. G.; Fung, J.; Kaz, D. M.; Manoharan, V. N.; McGorty, R.; Perry, R. W.; Wang, A. Holographic Microscopy With Python and HoloPy. Computing in Science & Engineering 2019, 22 (5), 72-82.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Random Sequential Adsorption of Spheres on a Cylinder",
+      "year": 2019,
+      "citation_raw": "Publisher's Version Memet, E.; Tanjeem, N.; Greboval, C.; Manoharan, V. N.; Mahadevan, L. Random Sequential Adsorption of Spheres on a Cylinder. Europhysics Letters 2019, 127 (3), 38004.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Before the Breach: Interactions Between Colloidal Particles and Liquid Interfaces at Nanoscale Separations",
+      "year": 2019,
+      "citation_raw": "Publisher's Version Wang, A.; Zwanikken, J. W.; Kaz, D. M.; McGorty, R.; Goldfain, A. M.; Rogers, W. B.; Manoharan, V. N. Before the Breach: Interactions Between Colloidal Particles and Liquid Interfaces at Nanoscale Separations. Physical Review E 2019, 100 (4), 042605.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Measurements of the Self-Assembly Kinetics of Individual Viral Capsids Around Their RNA Genome",
+      "year": 2019,
+      "citation_raw": "Publisher's Version Garmann, R. F.; Goldfain, A. M.; Manoharan, V. N. Measurements of the Self-Assembly Kinetics of Individual Viral Capsids Around Their RNA Genome. Proceedings of the National Academy of Sciences 2019, 116 (45), 22485-22490.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Using DNA Strand Displacement to Control Interactions in DNA-Grafted Colloids",
+      "year": 2018,
+      "citation_raw": "Gehrels, E. W.; Rogers, W. B.; Manoharan, V. N. Using DNA Strand Displacement to Control Interactions in DNA-Grafted Colloids. Soft Matter 2018, 14 (6), 969-984.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Dynamic Measurements of the Position, Orientation, and DNA Content of Individual Unlabeled Bacteriophages",
+      "year": 2016,
+      "citation_raw": "Goldfain, A.; Garmann, R.; Jin, Y.; Lahini, Y.; Manoharan, V. N. Dynamic Measurements of the Position, Orientation, and DNA Content of Individual Unlabeled Bacteriophages. The Journal of Physical Chemistry B 2016, 120 (26), 6130–6138.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Using DNA to Program the Self-Assembly of Colloidal Nanoparticles and Microparticles",
+      "year": 2016,
+      "citation_raw": "Rogers, W. B.; Shih, W. M.; Manoharan, V. N. Using DNA to Program the Self-Assembly of Colloidal Nanoparticles and Microparticles. Nature Reviews Materials 2016.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Segregation of “isotope” Particles Within Colloidal Molecules",
+      "year": 2016,
+      "citation_raw": "Segregation of “isotope” Particles Within Colloidal Molecules. Soft Matter 2016, 12 (11), 2868-2876.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Perry and Manoharan - 201",
+      "year": 2016,
+      "citation_raw": "Perry and Manoharan - 201... Chomette, C.; Duguet, E.; Mornet, S.; Yammine, E.; Manoharan, V. N.; Schade, N. B.; Hubert, C.; Ravaine, S.; Perro, A.; Treguer-Delapierre, M. Templated Growth of Gold Satellites on Dimpled Silica Cores. Faraday Discussions 2016, 191, 105-116. https://doi.org/10.1039/C6FD00022C.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Colloidal Particle Adsorption at Liquid Interfaces: Capillary Driven Dynamics and Thermally Activated Kinetics",
+      "year": 2016,
+      "citation_raw": "Rahmani, A. M.; Wang, A.; Manoharan, V. N.; Colosqui, C. E. Colloidal Particle Adsorption at Liquid Interfaces: Capillary Driven Dynamics and Thermally Activated Kinetics. Soft Matter 2016, 12 (30), 6365-6372.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Contact-Line Pinning Controls How Quickly Colloidal Particles Equilibrate With Liquid Interfaces",
+      "year": 2016,
+      "citation_raw": "Wang, A.; McGorty, R.; Kaz, D. M.; Manoharan, V. N. Contact-Line Pinning Controls How Quickly Colloidal Particles Equilibrate With Liquid Interfaces. Soft Matter 2016, 12 (43), 8958-8967.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Label-Free Tracking of Single Viruses and Weakly Scattering Nanoparticles in a Nanofluidic Optical Fiber",
+      "year": 2015,
+      "citation_raw": "Faez, S.; Latin, Y.; Weidlich, S.; Garmann, R. F.; Wondraczek, K.; Zeisberger, M.; Schmidt, M. A.; Orrit, M.; Manoharan, V. N. Fast, Label-Free Tracking of Single Viruses and Weakly Scattering Nanoparticles in a Nanofluidic Optical Fiber. ACS Nano 2015, 9 (12), 12349-12357.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Manoharan, V. N",
+      "year": 2015,
+      "citation_raw": "Manoharan, V. N. Colloids at Interfaces: Pinned Down. Nature Materials 2015, 14 (9), 869-870.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Celebrating Soft Matter’s 10th Anniversary: Testing the Foundations of Classical Entropy: Colloid Experiments",
+      "year": 2015,
+      "citation_raw": "Manoharan_NatureMaterials... Cates, M. E.; Manoharan, V. N. Celebrating Soft Matter’s 10th Anniversary: Testing the Foundations of Classical Entropy: Colloid Experiments. Soft Matter 2015, 11 (33), 6538-6546.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Cates and Manoharan - 201",
+      "year": 2015,
+      "citation_raw": "Cates and Manoharan - 201... Manoharan, V. N. Colloidal Matter: Packing, Geometry, and Entropy. Science 2015, 349 (6251), 1253751.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "A Simple RNA-DNA Scaffold Templates the Assembly of Monofunctional Virus-Like Particles",
+      "year": 2015,
+      "citation_raw": "manoharan-science-2015-po... Garmann, R. F.; Sportsman, R.; Beren, C.; Manoharan, V. N.; Knobler, C. M.; Gelbart, W. M. A Simple RNA-DNA Scaffold Templates the Assembly of Monofunctional Virus-Like Particles. JACS 2015, 137 (24), 7584–7587.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Two-Dimensional Clusters of Colloidal Spheres: Ground States, Excited States, and Structural Rearrangements, Phys, Rev, Lett",
+      "year": 2015,
+      "citation_raw": "Perry, R. W.; Holmes-Cerfon, M. C.; Brenner, M.; Manoharan, V. N. Two-Dimensional Clusters of Colloidal Spheres: Ground States, Excited States, and Structural Rearrangements. Phys. Rev. Lett. 2015, 114 (22), 228301.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Using the Discrete Dipole Approximation and Holographic Microscopy to Measure Rotational Dynamics of Non-Spherical Colloidal Particles",
+      "year": 2014,
+      "citation_raw": "Wang, A.; Dimiduk, T.; Fung, J.; Razavi, S.; Kretzschmar, I.; Chaudhary, K.; Manoharan, V. Using the Discrete Dipole Approximation and Holographic Microscopy to Measure Rotational Dynamics of Non-Spherical Colloidal Particles. Journal of Quantitative Spectroscopy and Radiative Transfer 2014, 146, 499–509.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Random-Subset Fitting of Digital Holograms for Fast Three-Dimensional Particle Tracking [Invited]",
+      "year": 2014,
+      "citation_raw": "Publisher's Version Dimiduk, T.; Perry, R.; Fung, J.; Manoharan, V. Random-Subset Fitting of Digital Holograms for Fast Three-Dimensional Particle Tracking [Invited]. Applied Optics 2014, 53 (27), G177-G183.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Photonic Balls Containing a Microstructure of Core-Shell Particles Exhibiting Angularly-Independent Structural Color",
+      "year": 2014,
+      "citation_raw": "Publisher's Version Manoharan, V.; Magkiriadou, S.; Park, J.-G. Photonic Balls Containing a Microstructure of Core-Shell Particles Exhibiting Angularly-Independent Structural Color, 2014.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Glycans Pattern the Phase Behaviour of Lipid Membranes",
+      "year": 2013,
+      "citation_raw": "Bala Subramaniam, A.; Guidotti, G.; Manoharan, V. N.; Stone, H. A. Glycans Pattern the Phase Behaviour of Lipid Membranes. Nature Materials 2013, 12, 128-133.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Relaxation Dynamics of Colloidal Particles at Liquid Interfaces",
+      "year": 2013,
+      "citation_raw": "BalaSubramaniam_NatureMat... Wang, A.; Kaz, D.; McGorty, R.; Manoharan, V. Relaxation Dynamics of Colloidal Particles at Liquid Interfaces. AIP Conference Proceedings, 2013, 1518, 336-343.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Tetrahedral Colloidal Clusters from Random Parking of Bidisperse Spheres",
+      "year": 2013,
+      "citation_raw": "Publisher's Version Schade, N.; Holmes-Cerfon, M.; Chen, E.; Aronzon, D.; Collins, J.; Fan, J.; Capasso, F.; Manoharan, V. Tetrahedral Colloidal Clusters from Random Parking of Bidisperse Spheres . Physical Review Letters 2013, 110 (14), 148303.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Holographic Measurements of Anisotropic Three-Dimensional Diffusion of Colloidal Clusters",
+      "year": 2013,
+      "citation_raw": "Publisher's Version Fung, J.; Manoharan, V. Holographic Measurements of Anisotropic Three-Dimensional Diffusion of Colloidal Clusters . Physical Review E 2013, 88 (2), 020302.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Measuring the 3D Dynamics of Multiple Colloidal Particles With Digital Holographic Microscopy",
+      "year": 2013,
+      "citation_raw": "Publisher's Version Fung, J. Measuring the 3D Dynamics of Multiple Colloidal Particles With Digital Holographic Microscopy, 2013.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Highly Spherical Monocrystalline Gold Particles for Precision Plasmonics . ACS Nano 2013",
+      "year": 2013,
+      "citation_raw": "Publisher's Version Lee, Y.-J.; Schade, N.; Sun, L.; Fan, J.; Bae, D. R.; Mariscal, M.; Lee, G.; Capasso, F.; Sacanna, S.; Manoharan, V.; Yi, G.-R. Ultrasmooth, Highly Spherical Monocrystalline Gold Particles for Precision Plasmonics . ACS Nano 2013, 7 (12), 11064-11070.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Generalization of the Optical Theorem for Light Scattering from a Particle at a Planar Interface",
+      "year": 2013,
+      "citation_raw": "Publisher's Version Small, A.; Fung, J.; Manoharan, V. Generalization of the Optical Theorem for Light Scattering from a Particle at a Planar Interface . Journal of the Optical Society of America A 2013, 30 (12), 2519-2525.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Using the Discrete Dipole Approximation and Holographic Microscopy to Measure Rotational Dynamics of Non-Spherical Colloidal Particles",
+      "year": 2013,
+      "citation_raw": "Publisher's Version Wang, A.; Dimiduk, T.; Fung, J.; Razavi, S.; Kretzschmar, I.; Chaudhary, K.; Manoharan, V. Using the Discrete Dipole Approximation and Holographic Microscopy to Measure Rotational Dynamics of Non-Spherical Colloidal Particles . Journal of Quantitative Spectroscopy and Radiative Transfer 2013, 146, 499–509.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "In Digital Holography and Three-Dimensional Imaging 2010 (OSA Topical Meeting), Optical Society of America: Miami, FL",
+      "year": 2010,
+      "citation_raw": "Dimiduk, T.; Kosheleva, E.; Kaz, D.; McGorty, R.; Gardel, E.; Manoharan, V. A Simple, Inexpensive Holographic Microscope. In Digital Holography and Three-Dimensional Imaging 2010 (OSA Topical Meeting); Optical Society of America: Miami, FL, 2010; p. Paper JMA38.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "The Free-Energy Landscape of Clusters of Attractive Hard Spheres",
+      "year": 2010,
+      "citation_raw": "add_circle_outline The Free-Energy Landscape of Clusters of Attractive Hard Spheres. Science 2010, 327 (5965), 560-563.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Digital Holographic Microscopy for 3D Imaging of Complex Fluids and Biological Systems",
+      "year": 2010,
+      "citation_raw": "Publisher's Version Manoharan, V. Digital Holographic Microscopy for 3D Imaging of Complex Fluids and Biological Systems. Frontiers of Engineering: Reports on Leading-edge Engineering from the 2009 Symposium, 2010, 5-12.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "Publisher's Version Fan, J.; Wu, C.; Bao, K.; Bao, J.; Bardhan, R.; Halas, N.; Manoharan, V.; Nordlander, P.; Shvets, G.; Capasso, F. Self-Assembled Plasmonic Nanoparticle Clusters. Science 2010, 328 (5982), 1135-1138.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Colloidal Self-Assembly at an Interface",
+      "year": 2010,
+      "citation_raw": "Publisher's Version McGorty, R.; Fung, J.; Kaz, D.; Manoharan, V. Colloidal Self-Assembly at an Interface. Materials Today 2010, 13 (6), 34-42.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Fano-Like Interference in Self-Assembled Plasmonic Quadrumer Clusters",
+      "year": 2010,
+      "citation_raw": "Publisher's Version Fan, J.; Bao, K.; Wu, C.; Bao, J.; Bardhan, R.; Halas, N.; Manoharan, V.; Shvets, G.; Nordlander, P.; Capasso, F. Fano-Like Interference in Self-Assembled Plasmonic Quadrumer Clusters . Nano Letters 2010, 10 (11), 4680-4685.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Bulk Synthesis of Polymer-Inorganic Colloidal Clusters",
+      "year": 2010,
+      "citation_raw": "Publisher's Version Perro, A.; Manoharan, V. Bulk Synthesis of Polymer-Inorganic Colloidal Clusters . Langmuir 2010, 26 (24), 18669-18675.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Self-Assembly of Polyhedral Hybrid Colloidal Particles",
+      "year": 2009,
+      "citation_raw": "Perro, A.; Duguet, E.; Ravaine, S.; Manoharan, V. N. Self-Assembly of Polyhedral Hybrid Colloidal Particles. MRS Proceedings, 2009, 1135, 1135-CC06.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Minimal Energy Clusters of Hard Spheres With Short Range Attractions",
+      "year": 2009,
+      "citation_raw": "Arkus, N.; Manoharan, V. N.; Brenner, M. Minimal Energy Clusters of Hard Spheres With Short Range Attractions. Physical Review Letters 2009, 103 (11), 118303-4.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Design and Synthesis of Model Transparent Aqueous Colloids With Optimal Scattering Properties",
+      "year": 2009,
+      "citation_raw": "Perro, A.; Meng, G.; Fung, J.; Manoharan, V. Design and Synthesis of Model Transparent Aqueous Colloids With Optimal Scattering Properties. Langmuir 2009, 25 (19), 11295-11298.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "RNA Folding and Hydrolysis Terms Explain ATP-Independence of RNA Interference in Human Systems",
+      "year": 2009,
+      "citation_raw": "Publisher's Version Ali, N.; Manoharan, V. N. RNA Folding and Hydrolysis Terms Explain ATP-Independence of RNA Interference in Human Systems. Oligonucleotides 2009, 19 (4), 341-346.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Measuring Dynamics and Interactions of Colloidal Particles With Digital Holographic Microscopy",
+      "year": 2008,
+      "citation_raw": "McGorty, R.; Fung, J.; Kaz, D.; Ahn, S.; Manoharan, V. N. Measuring Dynamics and Interactions of Colloidal Particles With Digital Holographic Microscopy. In Digital Holography and Three-Dimensional Imaging Proceedings; Optical Society of America Technical Digest (CD): St. Petersburg, Florida, 2008; Vol. paper DTuB1.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Gehrels, E. W",
+      "year": 2018,
+      "citation_raw": "Gehrels, E. W. Responsive and Dynamic Systems from DNA-Mediated Colloidal Interactions, 2018.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Physical Interpretation of the Partition Function for Colloidal Clusters",
+      "year": 2018,
+      "citation_raw": "gehrels-dissertation-2018... Klein, E. D.; Perry, R. W.; Manoharan, V. N. Physical Interpretation of the Partition Function for Colloidal Clusters. Physical Review E 2018, 98 (3), 032608.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Nanoparticle Assembly: A Perspective and Some Unanswered Questions",
+      "year": 2017,
+      "citation_raw": "Kumar, S. K.; Kumaraswamy, G.; Prasad, B. L. V.; Bandyopadhyaya, R.; Granick, S.; Gang, O.; Manoharan, V. N.; Frenkel, D.; Kotov, N. A. Nanoparticle Assembly: A Perspective and Some Unanswered Questions. Current Science 2017, 112 (8), 1635-1641.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Core–shell Colloidal Particles With Dynamically Tunable Scattering Properties",
+      "year": 2017,
+      "citation_raw": "Publisher's Version Meng, G.; Manoharan, V. N.; Perro, A. Core–shell Colloidal Particles With Dynamically Tunable Scattering Properties. Soft Matter 2017, 13 (37), 6293-6296.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Photonic-Crystal Hydrogels With a Rapidly Tunable Stop Band and High Reflectivity across the Visible",
+      "year": 2017,
+      "citation_raw": "Park, J.-G.; Rogers, W. B.; Magiriadou, S.; Kodger, T.; Kim, S.-H.; Kim, Y.-S.; Manoharan, V. N. Photonic-Crystal Hydrogels With a Rapidly Tunable Stop Band and High Reflectivity across the Visible. Optical Materials Express 2017, 7 (1), 253-263.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "United States Patent 9541674: Photonic Balls Containing a Microstructure of Core-Shell Particles Exhibiting Angularly-Independent Structural Color",
+      "year": 2017,
+      "citation_raw": "Manoharan, V.; Magkiriadou, S.; Park, J.-G. United States Patent 9541674: Photonic Balls Containing a Microstructure of Core-Shell Particles Exhibiting Angularly-Independent Structural Color, 2017.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Tréguer-Delapierre, M., Schade, N. B",
+      "year": 2017,
+      "citation_raw": "Publisher's Version Chomette, C.; Tréguer-Delapierre, M.; Schade, N. B.; Manoharan, V. N.; Lambert, O.; Taveau, J.-C.; Ravaine, S.; Duguet, E. Colloidal Alchemy: Conversion of Polystyrene Nanoclusters into Gold. ChemNanoMat 2017, 3 (3), 160-163.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Inverse Photonic Glasses by Packing Bidisperse Hollow Microspheres With Uniform Cores",
+      "year": 2017,
+      "citation_raw": "Kim, S.-H.; Magkiriadou, S.; Rhee, D. K.; Lee, D. S.; Yoo, P. J.; Manoharan, V. N.; Yi, G.-R. Inverse Photonic Glasses by Packing Bidisperse Hollow Microspheres With Uniform Cores. ACS Applied Materials & Interfaces 2017, 9 (28), 24155-24160.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Effects of Contact-Line Pinning on the Adsorption of Nonspherical Colloids at Liquid Interfaces",
+      "year": 2017,
+      "citation_raw": "Wang, A.; Rogers, W. B.; Manoharan, V. N. Effects of Contact-Line Pinning on the Adsorption of Nonspherical Colloids at Liquid Interfaces. Physical Review Letters 2017, 119 (10), 108004.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Colloquium: Toward Living Matter With Colloidal Particles",
+      "year": 2017,
+      "citation_raw": "Zeravcic, Z.; Manoharan, V. N.; Brenner, M. P. Colloquium: Toward Living Matter With Colloidal Particles. Reviews of Modern Physics 2017, 89 (3), 031001.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Coli Runs and Tumbles With Scattering Solutions and Digital Holographic Microscopy",
+      "year": 2016,
+      "citation_raw": "Wang, A.; Garmann, R. F.; Manoharan, V. N. Tracking E. Coli Runs and Tumbles With Scattering Solutions and Digital Holographic Microscopy. Optics Express 2016, 24 (21), 23719–23725. https://doi.org/10.1364/OE.24.023719.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Bayesian Approach to Analyzing Holograms of Colloidal Particles",
+      "year": 2016,
+      "citation_raw": "Dimiduk, T. G.; Manoharan, V. N. Bayesian Approach to Analyzing Holograms of Colloidal Particles. Optics Express 2016, 24 (21), 24045–24060. https://doi.org/10.1364/OE.24.024045.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Osmotic-Pressure-Mediated Control of Structural Colors of Photonic Capsules",
+      "year": 2015,
+      "citation_raw": "Choi, T. M.; Park, J.-G.; Kim, Y.-S.; Manoharan, V. N.; Kim, S.-H. Osmotic-Pressure-Mediated Control of Structural Colors of Photonic Capsules. Chemistry of Materials 2015, 27 (3), 1014–1020.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Programming Colloidal Phase Transitions With DNA Strand Displacement",
+      "year": 2015,
+      "citation_raw": "Choi_ChemMater_2015-Suppl... Rogers, W. B.; Manoharan, V. Programming Colloidal Phase Transitions With DNA Strand Displacement. Science 2015, 347 (6222), 639-642.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": null,
+      "year": 2015,
+      "citation_raw": "rogers-science-2015-postp... Magkiriadou, S. Structural Color From Colloidal Glasses, 2015.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Schade, N. B",
+      "year": 2015,
+      "citation_raw": "Publisher's Version Schade, N. B. Self-Assembly of Plasmonic Nanoclusters for Optical Metafluids, 2015.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Size Limits of Self-Assembled Colloidal Structures Made Using Specific Interactions",
+      "year": 2014,
+      "citation_raw": "Zeravcic, Z.; Manoharan, V. N.; Brenner, M. Size Limits of Self-Assembled Colloidal Structures Made Using Specific Interactions. PNAS 2014, 111 (45), 15918 – 15923.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Full-Spectrum Photonic Pigments With Non-Iridescent Structural Colors through Colloidal Assembly",
+      "year": 2014,
+      "citation_raw": "Zeravcic_PNAS_2014-Suppor... Park, J.-G.; Kim, S.-H.; Magkiriadou, S.; Choi, T. M.; Kim, Y.-S.; Manoharan, V. Full-Spectrum Photonic Pigments With Non-Iridescent Structural Colors through Colloidal Assembly. Angewandte Chemie International Edition 2014, 53 (11), 2899-2903.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Synchronized Reinjection and Coalescence of Droplets in Microfluidics",
+      "year": 2014,
+      "citation_raw": "Publisher's Version Lee, M.; Collins, J.; Aubrecht, D.; Sperling, R.; Solomon, L.; Ha, J.-W.; Yi, G.-R.; Weitz, D.; Manoharan, V. Synchronized Reinjection and Coalescence of Droplets in Microfluidics. Lab on a Chip 2014, 14 (3), 509-513.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Breaking Trade-Offs Between Translucency and Diffusion in Particle-Doped Films",
+      "year": 2014,
+      "citation_raw": "Publisher's Version Rogers, W. B.; Corbett, M.; Magkiriadou, S.; Guarillof, P.; Manoharan, V. Breaking Trade-Offs Between Translucency and Diffusion in Particle-Doped Films. Optical Materials Express 2014, 4 (12), 2621-2631.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Osmotic-Pressure-Controlled Concentration of Colloidal Particles in Thin-Shelled Capsules",
+      "year": 2014,
+      "citation_raw": "Publisher's Version Kim, S.-H.; Park, J.-G.; Choi, T. M.; Manoharan, V.; Weitz, D. Osmotic-Pressure-Controlled Concentration of Colloidal Particles in Thin-Shelled Capsules . Nature Communications 2014, 5, 3068.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Elastic Instability of a Crystal Growing on a Curved Surface",
+      "year": 2014,
+      "citation_raw": "Publisher's Version Meng, G.; Paulose, J.; Nelson, D.; Manoharan, V. Elastic Instability of a Crystal Growing on a Curved Surface . Science 2014, 343 (6171), 634-637.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Absence of Red Structural Color in Photonic Glasses, Bird Feathers, and Certain Beetles",
+      "year": 2014,
+      "citation_raw": "Publisher's Version Magkiriadou, S.; Park, J.-G.; Kim, Y.-S.; Manoharan, V. Absence of Red Structural Color in Photonic Glasses, Bird Feathers, and Certain Beetles. Physical Review E 2014, 90, 062302.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Physical Ageing of the Contact Line on Colloidal Particles at Liquid Interfaces",
+      "year": 2012,
+      "citation_raw": "Kaz, D.; McGorty, R.; Mani, M.; Brenner, M.; Manoharan, V. Physical Ageing of the Contact Line on Colloidal Particles at Liquid Interfaces . Nature Materials 2012, 11 (2), 138-142.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Real-Space Studies of the Structure and Dynamics of Self-Assembled Colloidal Clusters",
+      "year": 2012,
+      "citation_raw": "Publisher's Version Perry, R. W.; Meng, G.; Dimiduk, T.; Fung, J.; Manoharan, V. N. Real-Space Studies of the Structure and Dynamics of Self-Assembled Colloidal Clusters. Faraday Discussions 2012, 159 (1), 211-234.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Disordered Packings of Core-Shell Particles With Angle-Independent Structural Colors",
+      "year": 2012,
+      "citation_raw": "Magkiriadou, S.; Park, J.-G.; Kim, Y.-S.; Manoharan, V. Disordered Packings of Core-Shell Particles With Angle-Independent Structural Colors . Optical Materials Express 2012, 2 (10), 1343-1352.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Plasmonic Mode Engineering With Templated Self-Assembled Nanoclusters",
+      "year": 2012,
+      "citation_raw": "Publisher's Version Fan, J.; Bao, K.; Sun, L.; Bao, J.; Manoharan, V.; Nordlander, P.; Capasso, F. Plasmonic Mode Engineering With Templated Self-Assembled Nanoclusters . Nano Letters 2012, 12 (10), 5318-5324.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Colloids With Valence and Specific Directional Bonding",
+      "year": 2012,
+      "citation_raw": "Publisher's Version Wang, Y.; Wang, Y.; Breed, D.; Manoharan, V.; Feng, L.; Hollingsworth, A.; Weck, M.; Pine, D. Colloids With Valence and Specific Directional Bonding . Nature 2012, 491 (7422), 51-55.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Imaging Multiple Colloidal Particles by Fitting Electromagnetic Scattering Solutions to Digital Holograms",
+      "year": 2012,
+      "citation_raw": "Publisher's Version Fung, J.; Perry, R.; Dimiduk, T.; Manoharan, V. Imaging Multiple Colloidal Particles by Fitting Electromagnetic Scattering Solutions to Digital Holograms . Journal of Quantitative Spectroscopy and Radiative Transfer 2012, 113 (18), 2482-2489.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Molecular Forces and Self Assembly: In Colloid",
+      "year": 2011,
+      "citation_raw": "Manoharan, V. Molecular Forces and Self Assembly: In Colloid, Nano Sciences and Biology (Book Review) . Physics Today 2011, 64 (2), 48.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "and Vibrational Dynamics in Colloids With Digital Holographic Microscopy",
+      "year": 2011,
+      "citation_raw": "Publisher's Version Fung, J.; Martin, E.; Perry, R.; Kaz, D.; McGorty, R.; Manoharan, V. Measuring Translational, Rotational, and Vibrational Dynamics in Colloids With Digital Holographic Microscopy . Optics Express 2011, 19 (9), 8051-8065.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Colloidal Particles at Fluid Interfaces and the Interface of Colloidal Fluids",
+      "year": 2011,
+      "citation_raw": "add_circle_outline Colloidal Particles at Fluid Interfaces and the Interface of Colloidal Fluids , 2011.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "DNA-Enabled Self-Assembly of Plasmonic Nanoclusters",
+      "year": 2011,
+      "citation_raw": "add_circle_outline DNA-Enabled Self-Assembly of Plasmonic Nanoclusters. Nano Letters 2011, 11 (11), 4859-4864.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Deriving Finite Sphere Packings . SIAM Journal on Discrete Mathematics 2011",
+      "year": 2011,
+      "citation_raw": "Publisher's Version Arkus, N.; Manoharan, V.; Brenner, M. Deriving Finite Sphere Packings . SIAM Journal on Discrete Mathematics 2011, 25 (4), 1860.",
+      "source_url": "https://www.manoharan.seas.harvard.edu/publications?page=7"
+    }
+  ]
 }

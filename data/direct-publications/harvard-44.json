@@ -5,13 +5,216 @@
   "lab_name": null,
   "lab_url": "https://hankyang.seas.harvard.edu/",
   "publication_urls": [
-    "https://hankyang.seas.harvard.edu/publications/"
+    "https://hankyang.seas.harvard.edu/publications/",
+    "https://computationalrobotics.seas.harvard.edu/publications"
   ],
-  "accessed_at": "2026-11-11T13:53:33.481Z",
-  "coverage_notes": [
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
     "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Factorization-free Orthogonal Projection onto the Positive Semidefinite Cone with Composite Polynomial Filtering",
+      "year": 2025,
+      "citation_raw": "Factorization-free Orthogonal Projection onto the Positive Semidefinite Cone with Composite Polynomial Filtering Kang, Shucheng, Han, Haoyu, Groudiev, Antoine, and Yang, Heng arXiv preprint arXiv:2507.09165 2025",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "On the Surprising Robustness of Sequential Convex Optimization for Contact-Implicit Motion Planning",
+      "year": 2025,
+      "citation_raw": "On the Surprising Robustness of Sequential Convex Optimization for Contact-Implicit Motion Planning Li, Yulin, Han, Haoyu, Kang, Shucheng, Ma, Jun, and Yang, Heng In Robotics: Science and Systems (RSS) 2025",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Global Contact-Rich Planning with Sparsity-Rich Semidefinite Relaxations",
+      "year": 2025,
+      "citation_raw": "Global Contact-Rich Planning with Sparsity-Rich Semidefinite Relaxations Kang, Shucheng, Liu, Guorui, and Yang, Heng In Robotics: Science and Systems (RSS) 2025",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Building Rome with Convex Optimization",
+      "year": 2025,
+      "citation_raw": "Building Rome with Convex Optimization Han, Haoyu, and Yang, Heng In Robotics: Science and Systems (RSS) 2025",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Control-oriented Clustering of Visual Latent Representation",
+      "year": 2025,
+      "citation_raw": "Control-oriented Clustering of Visual Latent Representation Qi, Han, Yin, Haocheng, and Yang, Heng In International Conference on Learning Representations (ICLR) 2025",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Fast and Certifiable Trajectory Optimization",
+      "year": 2024,
+      "citation_raw": "Fast and Certifiable Trajectory Optimization Kang, Shucheng, Xu, Xiaoyang, Sarva, Jay, Liang, Ling, and Yang, Heng In International Workshop on the Algorithmic Foundations of Robotics 2024",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning",
+      "year": 2024,
+      "citation_raw": "Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning Muppidi, Aneesh, Zhang, Zhiyu, and Yang, Heng In Conference on Neural Information Processing Systems (NeurIPS) 2024",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation",
+      "year": 2023,
+      "citation_raw": "Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation Yang, Heng, and Pavone, Marco In IEEE Conf. on Computer Vision and Pattern Recognition (CVPR) 2023",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization",
+      "year": 2022,
+      "citation_raw": "Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization Yang, Heng, and Carlone, Luca IEEE Trans. Pattern Anal. Machine Intell. 2022",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Self-supervised geometric perception",
+      "year": 2021,
+      "citation_raw": "Self-supervised geometric perception Yang, Heng, Dong, Wei, Carlone, Luca, and Koltun, Vladlen In IEEE Conf. on Computer Vision and Pattern Recognition (CVPR) 2021",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Graduated non-convexity for robust spatial perception: From non-minimal solvers to global outlier rejection",
+      "year": 2020,
+      "citation_raw": "Graduated non-convexity for robust spatial perception: From non-minimal solvers to global outlier rejection Yang, Heng, Antonante, Pasquale, Tzoumas, Vasileios, and Carlone, Luca IEEE Robotics and Automation Letters 2020",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Teaser: Fast and certifiable point cloud registration",
+      "year": 2020,
+      "citation_raw": "Teaser: Fast and certifiable point cloud registration Yang, Heng, Shi, Jingnan, and Carlone, Luca IEEE Transactions on Robotics 2020",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "A quaternion-based certifiably optimal solution to the Wahba problem with outliers",
+      "year": 2019,
+      "citation_raw": "A quaternion-based certifiably optimal solution to the Wahba problem with outliers Yang, Heng, and Carlone, Luca In Intl. Conf. on Computer Vision (ICCV) 2019",
+      "source_url": "https://hankyang.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "BEACON: Cross-Domain Co-Training of Generative Robot Policies via Best-Effort Adaptation",
+      "year": 2026,
+      "citation_raw": "NeurIPS BEACON: Cross-Domain Co-Training of Generative Robot Policies via Best-Effort Adaptation Conference on Neural Information Processing Systems (NeurIPS) 2026 Antong Zhang, Han Qi, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Compose by Focus: Scene Graph-based Atomic Skills",
+      "year": 2026,
+      "citation_raw": "ICRA Compose by Focus: Scene Graph-based Atomic Skills International Conference on Robotics and Automation (ICRA) 2026 Han Qi, Changhe Chen, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Inference-Time Enhancement of Generative Robot Policies via Predictive World Modeling",
+      "year": 2026,
+      "citation_raw": "PROJECT RA-L Inference-Time Enhancement of Generative Robot Policies via Predictive World Modeling IEEE Robotics and Automation Letters (RA-L) 2026 Han Qi, Haocheng Yin, Aris Zhu, Yilun Du, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator",
+      "year": 2026,
+      "citation_raw": "ICML Non-Uniform Noise-to-Signal Ratio in the REINFORCE Policy-Gradient Estimator International Conference on Machine Learning (ICML) 2026 Haoyu Han, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Provable Edge-of-Stability for Adam on a One-Dimensional Quadratic",
+      "year": 2026,
+      "citation_raw": "NeurIPS OPT Provable Edge-of-Stability for Adam on a One-Dimensional Quadratic International OPT Workshop on Optimization for Machine Learning 2026 Yiman Fong, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Sparse Variable Projection in Robotic Perception: Exploiting Separable Structure for Efficient Nonlinear Optimization",
+      "year": 2026,
+      "citation_raw": "ICRA Sparse Variable Projection in Robotic Perception: Exploiting Separable Structure for Efficient Nonlinear Optimization International Conference on Robotics and Automation (ICRA) 2026 Alan Papalia, Nikolas Sanderson, Haoyu Han, Heng Yang, Hanumant Singh, Michael Everett",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Tempered Sequential Monte Carlo for Trajectory and Policy Optimization with Differentiable Dynamics",
+      "year": 2026,
+      "citation_raw": "Tempered Sequential Monte Carlo for Trajectory and Policy Optimization with Differentiable Dynamics Robotics: Science and Systems (RSS) 2026 Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Adapting Conformal Prediction to Distribution Shifts Without Labels",
+      "year": 2025,
+      "citation_raw": "Adapting Conformal Prediction to Distribution Shifts Without Labels Conference on Uncertainty in Artificial Intelligence 2025 Kevin Kasa, Zhiyu Zhang, Heng Yang, Graham W. Taylor",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Global Contact-Rich Planning with Sparsity-Rich Semidefinite Relaxations",
+      "year": 2025,
+      "citation_raw": "Global Contact-Rich Planning with Sparsity-Rich Semidefinite Relaxations Robotics: Science and Systems 2025 Shucheng Kang, Guorui Liu, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "On the Surprising Robustness of Sequential Convex Optimization for Contact-Implicit Motion Planning",
+      "year": 2025,
+      "citation_raw": "On the Surprising Robustness of Sequential Convex Optimization for Contact-Implicit Motion Planning Robotics: Science and Systems 2025 Yulin Li, Haoyu Han, Shucheng Kang, Jun Ma, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Online Aggregation of Trajectory Predictors",
+      "year": 2025,
+      "citation_raw": "PROJECT ICRA Online Aggregation of Trajectory Predictors International Conference on Robotics and Automation (ICRA) 2025 Alex Tong, Apoorva Sharma, Sushant Veer, Marco Pavone, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Sparse Polynomial Optimization with Unbounded Sets",
+      "year": 2025,
+      "citation_raw": "SIOPT Sparse Polynomial Optimization with Unbounded Sets SIAM Journal on Optimization 2025 Lei Huang, Shucheng Kang, Jie Wang, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "CLOSURE: Fast Quantification of Pose Uncertainty Sets",
+      "year": 2024,
+      "citation_raw": "CLOSURE: Fast Quantification of Pose Uncertainty Sets Robotics: Science and Systems 2024 Yihuai Gao, Yukai Tang, Han Qi, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Discounted Adaptive Online Prediction",
+      "year": 2024,
+      "citation_raw": "ICML Discounted Adaptive Online Prediction International Conference on Machine Learning (ICML) 2024 Zhiyu Zhang, David Bombara, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Fast and Certifiable Trajectory Optimization",
+      "year": 2024,
+      "citation_raw": "Fast and Certifiable Trajectory Optimization International Workshop on the Algorithmic Foundations of Robotics (WAFR) 2024 Shucheng Kang, Xiaoyang Xu, Jay Sarva, Ling Liang, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning",
+      "year": 2024,
+      "citation_raw": "PROJECT NeurIPS Fast TRAC: A Parameter-Free Optimizer for Lifelong Reinforcement Learning Conference on Neural Information Processing Systems (NeurIPS) 2024 Aneesh Muppidi, Zhiyu Zhang, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Improving Adaptive Online Learning Using Refined Discretization",
+      "year": 2024,
+      "citation_raw": "Improving Adaptive Online Learning Using Refined Discretization International Conference on Algorithmic Learning Theory (ALT) 2024 Zhiyu Zhang, Heng Yang, Ashok Cutkosky, Ioannis Ch Paschalidis",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth",
+      "year": 2024,
+      "citation_raw": "RA-L SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth IEEE Robotics and Automation Letters (RA-L) 2024 Xihang Yu, Heng Yang",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation",
+      "year": 2023,
+      "citation_raw": "CVPR Highlight Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation IEEE Conf. on Computer Vision and Pattern Recognition (CVPR) 2023 Heng Yang, Marco Pavone",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Verification and Synthesis of Robust Control Barrier Functions: Multilevel Polynomial Optimization and Semidefinite Relaxation",
+      "year": 2023,
+      "citation_raw": "Verification and Synthesis of Robust Control Barrier Functions: Multilevel Polynomial Optimization and Semidefinite Relaxation IEEE Conference on Decision and Control (CDC) 2023 Shucheng Kang, Yuxiao Chen, Heng Yang, Marco Pavone",
+      "source_url": "https://computationalrobotics.seas.harvard.edu/publications"
+    }
+  ]
 }

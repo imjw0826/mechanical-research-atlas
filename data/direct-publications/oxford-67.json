@@ -3,10 +3,13 @@
   "university_key": "oxford",
   "pi": "James Kwan",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:50:57.900Z",
-  "coverage_notes": [
+  "lab_url": "https://eng.ox.ac.uk/people/james-kwan",
+  "publication_urls": [
+    "https://www.kwanrg.org/publications"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume.",
     {
       "discovered_links": [
@@ -27,6 +30,237 @@
       }
     }
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Paradigmatic demonstration of sonochemical carbon dioxide reduction proceeded over Cu-based catalysts",
+      "year": 2025,
+      "citation_raw": "Xia, Dong, Yi Qin, Yagya N. Regmi, Laurie A. King, and James Kwan. \"Paradigmatic demonstration of sonochemical carbon dioxide reduction proceeded over Cu-based catalysts.\" Journal of CO2 Utilization 102 (2025): 103220.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Standardized benchmarking of advanced oxidation processes for tetracycline degradation with life cycle assessment and economic evaluation",
+      "year": 2025,
+      "citation_raw": "Zong, Zhiyuan, Yihao Huang, James Kwan, and Nicholas P. Hankins. \"Standardized benchmarking of advanced oxidation processes for tetracycline degradation with life cycle assessment and economic evaluation.\" Chemical Engineering Journal (2025): 170664.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Catalytic Ammonia Decomposition Using Single High-Frequency Ultrasound",
+      "year": 2025,
+      "citation_raw": "Hou, Xuelan, Changsheng Chen, Lincan Fang, Jiasi Li, Yihao Huang, Ye Zhu, James Kwan, and Shik Chi Edman Tsang. \"Catalytic Ammonia Decomposition Using Single High-Frequency Ultrasound.\" The Journal of Physical Chemistry C 129, no. 35 (2025): 15571-15577.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "The Roles of Hydroxyl Radicals and Superoxide in Oxidizing Aqueous Benzyl Alcohol Under Ultrasound Irradiation",
+      "year": 2025,
+      "citation_raw": "Fischer, Ari F., Teseer Bahry, Zhangyue Xie, Roberto Batista da Silva Junior, Kaicheng Qian, Renhong Li, James Kwan et al. \"The Roles of Hydroxyl Radicals and Superoxide in Oxidizing Aqueous Benzyl Alcohol Under Ultrasound Irradiation.\" ChemSusChem 18, no. 11 (2025): e202500097.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Broadening the sonochemistry horizon: hurdles and challenges to address in cavitation",
+      "year": 2025,
+      "citation_raw": "Preso, Davide Bernardo, Ivan Smirnov, Mohamad Salimi, and James Kwan. \"Broadening the sonochemistry horizon: hurdles and challenges to address in cavitation.\" Current Opinion in Chemical Engineering 48 (2025): 101128.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Ultrasound-driven seawater splitting catalysed by TiO2 for hydrogen production",
+      "year": 2025,
+      "citation_raw": "Wong, Cherie CY, Davide Bernardo Preso, Yi Qin, Pankaj S. Sinhmar, Zhiyuan Zong, and James Kwan. \"Ultrasound-driven seawater splitting catalysed by TiO2 for hydrogen production.\" International Journal of Hydrogen Energy 111 (2025): 723-734.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Localized Oxidative Catalytic Reactions Triggered by Cavitation Bubbles Confinement on Copper Oxide Microstructured Particles",
+      "year": 2025,
+      "citation_raw": "Mahendran, Valarmathi, Quang Thang Trinh, Xie Zhangyue, Umesh Jonnalagadda, Tim Gould, Nam‐Trung Nguyen, James Kwan et al. \"Localized Oxidative Catalytic Reactions Triggered by Cavitation Bubbles Confinement on Copper Oxide Microstructured Particles.\" Angewandte Chemie International Edition 64, no. 6 (2025): e202416543.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Catalytic ultrasound-driven synthesis of syngas from CO 2 saturated water",
+      "year": 2025,
+      "citation_raw": "Chen, Lina, Yi Qin, Claire T. Coulthard, Zoë R. Turner, Chunping Chen, James Kwan, and Dermot O’Hare. \"Catalytic ultrasound-driven synthesis of syngas from CO 2 saturated water.\" Energy & Environmental Science 18, no. 11 (2025): 5389-5396.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Boosting energy efficiency and selectivity of glucose oxidation toward glucuronic acid in high-frequency ultrasound using multicavity CuO catalytic cavitation agents",
+      "year": 2025,
+      "citation_raw": "Xie, Zhangyue, Valarmathi Mahendran, Umesh S. Jonnalagadda, Qianwenhao Fan, Xiaoqian Su, Ari F. Fischer, Mingwu Tan et al. \"Boosting energy efficiency and selectivity of glucose oxidation toward glucuronic acid in high-frequency ultrasound using multicavity CuO catalytic cavitation agents.\" Green Chemistry 27, no. 3 (2025): 573-585.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Harnessing ultrasound‐derived hydroxyl radicals for the selective oxidation of aldehyde functions",
+      "year": 2024,
+      "citation_raw": "Fischer, Ari F., Teseer Bahry, Zhangyue Xie, Kaicheng Qian, Renhong Li, James Kwan, François Jerome et al. \"Harnessing ultrasound‐derived hydroxyl radicals for the selective oxidation of aldehyde functions.\" ChemSusChem 17, no. 24 (2024): e202400838.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Black titanium oxide: synthesis, modification, characterization, physiochemical properties, and emerging applications for energy conversion and storage, and environmental sustainability",
+      "year": 2024,
+      "citation_raw": "Hou, Xuelan, Yiyang Li, Hang Zhang, Peter D. Lund, James Kwan, and Shik Chi Edman Tsang. \"Black titanium oxide: synthesis, modification, characterization, physiochemical properties, and emerging applications for energy conversion and storage, and environmental sustainability.\" Chemical Society Reviews (2024).",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Active and highly durable supported catalysts for proton exchange membrane electrolysers",
+      "year": 2024,
+      "citation_raw": "Belami, Debora, Matthew Lindley, Umesh S. Jonnalagadda, Annie Mae Goncalves Bullock, Qianwenhao Fan, Wen Liu, Sarah J. Haigh, James Kwan, Yagya N. Regmi, and Laurie A. King. \"Active and highly durable supported catalysts for proton exchange membrane electrolysers.\" EES catalysis 2, no. 5 (2024): 1139-1151.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Efficient sonochemical catalytic degradation of tetracycline using TiO2 fractured nanoshells",
+      "year": 2023,
+      "citation_raw": "Zong, Z., Gilbert, E., Wong, C. C., Usadi, L., Qin, Y., Huang, Y., ... & Kwan, J. (2023). Efficient sonochemical catalytic degradation of tetracycline using TiO2 fractured nanoshells. Ultrasonics Sonochemistry, 106669.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Enhancement of sonochemical production of hydroxyl radicals from pulsed cylindrically converging ultrasound waves",
+      "year": 2023,
+      "citation_raw": "Wong, C. C., Raymond, J. L., Usadi, L. N., Zong, Z., Walton, S. C., Sedgwick, A. C., & Kwan, J. (2023). Enhancement of sonochemical production of hydroxyl radicals from pulsed cylindrically converging ultrasound waves. Ultrasonics Sonochemistry, 99, 106559.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Fluorescence-based chemical tools for monitoring ultrasound-induced hydroxyl radical production in aqueous solution and in cells",
+      "year": 2023,
+      "citation_raw": "Wong, C. C., Sun, L. L., Liu, M. J., Stride, E., Raymond, J. L., Han, H. H., Kwan, J. & Sedgwick, A. C. (2023). Fluorescence-based chemical tools for monitoring ultrasound-induced hydroxyl radical production in aqueous solution and in cells. Chemical Communications, 59(29), 4328-4331.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Unsupported gold nanocones as sonocatalytic agents with enhanced catalytic properties",
+      "year": 2021,
+      "citation_raw": "Su, X., Jonnalagadda, U. S., Bharatula, L. D., & Kwan, J. J. (2021). Unsupported gold nanocones as sonocatalytic agents with enhanced catalytic properties. Ultrasonics sonochemistry, 79, 105753.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Initiator-Free Photohydrogelation of Linear Coumarin-Containing Poly (ethylene glycol) Methacrylates and Study of Ultrasound-Triggered Gel Breakdown",
+      "year": 2021,
+      "citation_raw": "Eng, Y.J., Xu, J., Sugiarto, S., Jonnalagadda, U.S., Ang, W., Lee, J.H.C., Kwan, J.J. and Nguyen, T.M., (2021). Initiator-Free Photohydrogelation of Linear Coumarin-Containing Poly (ethylene glycol) Methacrylates and Study of Ultrasound-Triggered Gel Breakdown. ACS Applied Polymer Materials, 3(8), pp.4264-4274.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Ultrasonic Implantation and Imaging of Sound-Sensitive Theranostic Agents for the Treatment of Arterial Inflammation",
+      "year": 2021,
+      "citation_raw": "Su, X., Rakshit, M., Das, P., Gupta, I., Das, D., Pramanik, M., Ng, K. W., & Kwan, J. J. (2021). Ultrasonic Implantation and Imaging of Sound-Sensitive Theranostic Agents for the Treatment of Arterial Inflammation. ACS Applied Materials & Interfaces.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Investigating the Acoustic Response and Contrast Enhancement of Drug-Loadable PLGA Microparticles with Various Shapes and Morphologies, Ultrasound in Medicine & Biology",
+      "year": 2021,
+      "citation_raw": "Gupta, I., Su, X., Jonnalagadda, U. S., Das, D., Pramanik, M., & Kwan, J. J. (2021). Investigating the Acoustic Response and Contrast Enhancement of Drug-Loadable PLGA Microparticles with Various Shapes and Morphologies. Ultrasound in Medicine & Biology.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Nanostructured TiO2 cavitation agents for dual-modal sonophotocatalysis with pulsed ultrasound",
+      "year": 2021,
+      "citation_raw": "Jonnalagadda, U. S., Su, X., & Kwan, J. J. (2021). Nanostructured TiO2 cavitation agents for dual-modal sonophotocatalysis with pulsed ultrasound. Ultrasonics Sonochemistry, 105530.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Improved therapeutic antibody delivery to xenograft tumors using cavitation nucleated by gas-entrapping nanoparticles, Future Medicine Nanomedicine",
+      "year": 2021,
+      "citation_raw": "Grundy, M., Bau, L., Hill, C., Paverd, C., Mannaris, C., Kwan, J. J., Crake, C., Coviello, C., Coussios, C., & Carlisle, R. (2021). Improved therapeutic antibody delivery to xenograft tumors using cavitation nucleated by gas-entrapping nanoparticles. Future Medicine Nanomedicine",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Influence of high intensity focused ultrasound on the microstructure and c-di-GMP signaling of Pseudomonas aeruginosa biofilms, Frontiers in Microbiology",
+      "year": 2020,
+      "citation_raw": "Bharatula, L. D., Marsili, E., Rice, S. A., & Kwan, J. J. (2020). Influence of high intensity focused ultrasound on the microstructure and c-di-GMP signaling of Pseudomonas aeruginosa biofilms. Frontiers in Microbiology, 11, 3198.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Complementary Effects of Porosigen and Stabiliser on the Structure of Hollow Porous Poly (lactic-co-glycolic acid) Microparticles",
+      "year": 2020,
+      "citation_raw": "Su, X., Gupta, I., Jonnalagadda, U., & Kwan, J. (2020). Complementary Effects of Porosigen and Stabiliser on the Structure of Hollow Porous Poly (lactic-co-glycolic acid) Microparticles. ACS Applied Polymer Materials.",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "J.H.C, Lee, X, Liu, A, Goto",
+      "year": 2020,
+      "citation_raw": "U.S. Jonnalagadda; T.M. Nguyen; F. Li; J.H.C. Lee; X. Liu; A. Goto; J.J. Kwan,”Sol–Gel Transitions of Comb‐Like Polymethacrylate Copolymers by Mechano‐Thermal Stimuli in Water”, Macromolecular Chemistry and Physics, 2020, 2000088. https://doi.org/10.1002/macp.202000088",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Impedimetric detection of Pseudomonas aeruginosa attachment on flexible ITO-coated polyethylene terephthalate substrates",
+      "year": 2020,
+      "citation_raw": "L.D. Bharatula; E. Marsili; J.J. Kwan, “Impedimetric detection of Pseudomonas aeruginosa attachment on flexible ITO-coated polyethylene terephthalate substrates”, Electrochimica Acta, Volume 332, 1 February 2020, 135390",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "”Remote targeted implantation of sound-sensitive biodegradable multi-cavity microparticles with focused ultrasound”, Scientific Reports",
+      "year": 2019,
+      "citation_raw": "X. Su; R.G. Thomas; L.D. Bharatula; J.J. Kwan, ”Remote targeted implantation of sound-sensitive biodegradable multi-cavity microparticles with focused ultrasound”, Scientific Reports, 9, Article number: 9612, 2019",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Biomedical applications for Gas-Stabilizing Solid Cavitation Agents",
+      "year": 2019,
+      "citation_raw": "R.G. Thomas; U.S. Jonnalagadda; J.J. Kwan, “Biomedical applications for Gas-Stabilizing Solid Cavitation Agents”, Langmuir, 2019",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Ultra-high Speed Imaging of Cavitation Dynamics from Nanocups",
+      "year": 2016,
+      "citation_raw": "J.J. Kwan; G. Lajoinie; E. Stride; M. Versluis; C.C. Coussios, “Ultra-high Speed Imaging of Cavitation Dynamics from Nanocups”, Physical Review Applied, 2016: 6 (4), 044004",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Ultrasound-propelled Nanocups for Drug Delivery",
+      "year": 2015,
+      "citation_raw": "J.J. Kwan; R. Myers; C.M. Coviello; S.M. Graham; A. Shah; R. Carlisle; E. Stride; C.C. Coussios, “Ultrasound-propelled Nanocups for Drug Delivery”, Small, 2015",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Ultrasound-induced Inertial Cavitation from Gas-stabilizing Nanoparticles",
+      "year": 2015,
+      "citation_raw": "J.J. Kwan; S.M. Graham; R. Myers; R. Carlisle; E. Stride; C.C. Coussios, “Ultrasound-induced Inertial Cavitation from Gas-stabilizing Nanoparticles”, Physical Review E, 2015",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Lipid Monolayer Collapse and Microbubble Stability",
+      "year": 2012,
+      "citation_raw": "J.J. Kwan and M.A. Borden, “Lipid Monolayer Collapse and Microbubble Stability”, Advances in Colloid and Interface Science, 2012: 183-4; pp 82 – 99",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Theranostic Oxygen Delivery Using Ultrasound and Microbubbles",
+      "year": 2012,
+      "citation_raw": "J.J. Kwan; M. Kaya; M.A. Borden; P.A. Dayton, “Theranostic Oxygen Delivery Using Ultrasound and Microbubbles”, Theranostics, 2012",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Lipid Monolayer Dilatational Mechanics during Microbubble Gas Exchange",
+      "year": 2012,
+      "citation_raw": "J.J. Kwan and M.A. Borden, “Lipid Monolayer Dilatational Mechanics during Microbubble Gas Exchange”, Soft Matter, 2012: 8; pp. 4756 – 66",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Effect of Anesthesia Carrier Gas on In Vivo Circulation Times of Ultrasound Microbubble Contrast Agents in Rats",
+      "year": 2011,
+      "citation_raw": "L. Mullin; R. Gessner; J.J. Kwan; M. Kaya; M.A. Borden; P.A. Dayton, “Effect of Anesthesia Carrier Gas on In Vivo Circulation Times of Ultrasound Microbubble Contrast Agents in Rats”, Contrast Media and Molecular Imaging, 2011: 6; pp. 126 – 3",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Effect of Microbubble Size on Fundamental Mode High Frequency Ultrasound Imaging in Mice",
+      "year": 2010,
+      "citation_raw": "S. Sirsi; J. Feshitan; J.J. Kwan; M.A. Borden, “Effect of Microbubble Size on Fundamental Mode High Frequency Ultrasound Imaging in Mice”, Ultrasound in Medicine and Biology, 2010: 36; 935 – 48",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Microbubble Dissolution in a Multigas Environment",
+      "year": 2010,
+      "citation_raw": "J.J. Kwan and M.A. Borden, “Microbubble Dissolution in a Multigas Environment”, Langmuir, 2010: 26; pp. 6542 – 48",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Microbubble Size Isolation by Differential Centrifugation",
+      "year": 2009,
+      "citation_raw": "J. Feshitan; C.C. Chen; J.J. Kwan; M.A. Borden, “Microbubble Size Isolation by Differential Centrifugation”, Journal of Colloid and Interface Sciences, 2009: 329; pp. 316 – 24",
+      "source_url": "https://www.kwanrg.org/publications"
+    },
+    {
+      "title": "Specialty Chemicals AME IAF-PP Grant [Co-I] (2018 - 2021)",
+      "year": 2021,
+      "citation_raw": "Specialty Chemicals AME IAF-PP Grant [Co-I] (2018 - 2021)",
+      "source_url": "https://www.kwanrg.org/publications"
+    }
+  ]
 }

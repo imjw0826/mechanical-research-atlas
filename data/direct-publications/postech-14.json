@@ -7,20 +7,287 @@
   "publication_urls": [
     "https://npv.postech.ac.kr/npv/pub/Journal.do"
   ],
-  "accessed_at": "2026-11-12T13:55:04.526Z",
-  "coverage_notes": [
-    "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete.",
-    "Actual official lab publication page visited; visible text saved. Conservative quoted-title extraction only. Full category/pagination/detail and publication-status verification remains incomplete.",
-    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
-  ],
-  "status": "partial",
-  "papers": [],
   "investigation_stage": "full_site_attempted",
   "source_page_manifest": [
     {
       "url": "https://npv.postech.ac.kr/npv/pub/Journal.do",
       "capture_kind": "browser_snapshot",
       "characters": 14719
+    }
+  ],
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete.",
+    "Actual official lab publication page visited; visible text saved. Conservative quoted-title extraction only. Full category/pagination/detail and publication-status verification remains incomplete.",
+    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Cell-engineered virus-mimetic nanovesicles for vaccination",
+      "year": 2024,
+      "citation_raw": "Cell-engineered virus-mimetic nanovesicles for vaccination C Han, S Kim, J Park Journal of Extracellular Vesicles 2024",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Cellular Membrane-Derived Nanovesicles Expressing hCD64",
+      "year": 2024,
+      "citation_raw": "Cellular Membrane-Derived Nanovesicles Expressing hCD64 S Kim, J Lee, J Park ACS Applied Bio Materials 2024",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Characterization of EV and VLP by single vesicle analysis",
+      "year": 2023,
+      "citation_raw": "Characterization of EV and VLP by single vesicle analysis C Han, M Kang, J Park... Sensors and Actuators B: Chemical 2023",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "MSC-derived EV in cisplatin nephrotoxicity model",
+      "year": 2023,
+      "citation_raw": "MSC-derived EV in cisplatin nephrotoxicity model EJ Kwon, J Park, S Kim Int. J. Mol. Sci. 2023",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Methods to analyze EV at single particle level",
+      "year": 2022,
+      "citation_raw": "Methods to analyze EV at single particle level Y Kwon, J Park Micro and Nano Systems Letters 2022",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Extracellular vesicles generated using bioreactors for AKI",
+      "year": 2022,
+      "citation_raw": "Extracellular vesicles generated using bioreactors for AKI H Kang, Y Bae, J Park... Advanced Healthcare Materials 2022",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Single-vesicle imaging and tetraspanin profiling",
+      "year": 2021,
+      "citation_raw": "Single-vesicle imaging and tetraspanin profiling C Han, H Kang, J Yi... Journal of Extracellular Vesicles 2021",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Multifluorescence single extracellular vesicle analysis",
+      "year": 2021,
+      "citation_raw": "Multifluorescence single extracellular vesicle analysis S Cho, J Yi, J Park... ACS Nano 2021",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Immunostaining EV based on ATPS for tetraspanins",
+      "year": 2021,
+      "citation_raw": "Immunostaining EV based on ATPS for tetraspanins J Lee, Y Kwon, J Park ACS Applied Bio Materials 2021",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Heterogeneous subcellular origin of nanovesicles",
+      "year": 2020,
+      "citation_raw": "Heterogeneous subcellular origin of nanovesicles H Lee, H Kang, J Park... ACS Biomaterials Science & Engineering 2020",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "MSC engineered nanovesicles for skin wound closure",
+      "year": 2019,
+      "citation_raw": "MSC engineered nanovesicles for skin wound closure C Han, D Jeong, J Park... ACS Biomaterials Science & Engineering 2019",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Journal of Extracellular Vesicles",
+      "year": 2018,
+      "citation_raw": "Minimal information for studies of extracellular vesicles 2018 (MISEV2018) C Thery, KW Witwer, E Aikawa... Journal of Extracellular Vesicles 2018",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Cancer-derived exosomes trigger endothelial to mesenchymal transition",
+      "year": 2018,
+      "citation_raw": "Cancer-derived exosomes trigger endothelial to mesenchymal transition JH Yeon, HE Jeong, H Seo... Acta Biomaterialia 2018",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Analysis of extracellular vesicles using coffee ring",
+      "year": 2018,
+      "citation_raw": "Analysis of extracellular vesicles using coffee ring H Jeong, C Han, J Park... ACS Applied Materials & Interfaces 2018",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Modulation of nanoparticle separation by contact angle",
+      "year": 2018,
+      "citation_raw": "Modulation of nanoparticle separation by contact angle J Yi, H Jeong, J Park Micro and Nano Systems Letters 2018",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Methods to isolate extracellular vesicles for diagnosis",
+      "year": 2017,
+      "citation_raw": "Methods to isolate extracellular vesicles for diagnosis H Kang, J Kim, J Park Micro and Nano Systems Letters 2017",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Cell-engineered nanovesicle as a surrogate inducer",
+      "year": 2017,
+      "citation_raw": "Cell-engineered nanovesicle as a surrogate inducer J Kim, C Han, J Park... Advanced Healthcare Materials 2017",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Isolation of EV from blood plasma using electrophoretic migration",
+      "year": 2016,
+      "citation_raw": "Isolation of EV from blood plasma using electrophoretic migration S Cho, W Jo, Y Heo... Sensors and Actuators B: Chemical 2016",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "PROSTATE-SPECIFIC EV AS A NOVEL BIOMARKER",
+      "year": 2016,
+      "citation_raw": "PROSTATE-SPECIFIC EV AS A NOVEL BIOMARKER YH Park, HW Shin, J Park... The Journal of Urology 2016",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Self-Renewal of Bone Marrow Stem Cells by ES-Nanovesicles",
+      "year": 2016,
+      "citation_raw": "Self-Renewal of Bone Marrow Stem Cells by ES-Nanovesicles W Jo, D Jeong, J Park Advanced Healthcare Materials 2016",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Thermal conductivity of biological cells and disease state",
+      "year": 2016,
+      "citation_raw": "Thermal conductivity of biological cells and disease state BK Park, Y Woo, J Park... Journal of Applied Physics 2016",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Gram-negative and Gram-positive bacterial extracellular vesicles",
+      "year": null,
+      "citation_raw": "Gram-negative and Gram-positive bacterial extracellular vesicles JH Kim, J Lee, J Park, YS Gho",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Generation of nanovesicles with sliced cellular membrane fragments",
+      "year": 2015,
+      "citation_raw": "Generation of nanovesicles with sliced cellular membrane fragments J Yoon, W Jo, D Jeong... Biomaterials 2015",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Bacterial protoplast-derived nanovesicles as vaccine delivery",
+      "year": 2015,
+      "citation_raw": "Bacterial protoplast-derived nanovesicles as vaccine delivery OY Kim, SC Jang, J Park... Nano Letters 2015",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Microfluidic fabrication of nanovesicles as endogenous RNA carriers",
+      "year": 2014,
+      "citation_raw": "Microfluidic fabrication of nanovesicles as endogenous RNA carriers W Jo, D Jeong, J Kim... Lab on a Chip 2014",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Nanovesicles engineered from ES cells for cell proliferation",
+      "year": 2014,
+      "citation_raw": "Nanovesicles engineered from ES cells for cell proliferation D Jeong, W Jo, J Yoon... Biomaterials 2014",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Bioinspired exosome-mimetic nanovesicles for targeted delivery",
+      "year": 2013,
+      "citation_raw": "Bioinspired exosome-mimetic nanovesicles for targeted delivery SC Jang, OY Kim, CM Yoon... ACS Nano 2013",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Thermal conductivity of single biological cells",
+      "year": 2013,
+      "citation_raw": "Thermal conductivity of single biological cells BK Park, N Yi, J Park, D Kim Applied Physics Letters 2013",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Effect of PCL/PLGA/collagen scaffolds on stem cells",
+      "year": 2013,
+      "citation_raw": "Effect of PCL/PLGA/collagen scaffolds on stem cells JH Shim, AJ Kim, J Park... J. Mater. Sci. Mater. Med. 2013",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Monitoring protein denaturation using thermal conductivity",
+      "year": 2013,
+      "citation_raw": "Monitoring protein denaturation using thermal conductivity BK Park, J Park, D Kim Int. J. Biol. Macromol. 2013",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Microfluidic filtration system to isolate extracellular vesicles from blood",
+      "year": 2012,
+      "citation_raw": "Microfluidic filtration system to isolate extracellular vesicles from blood RT Davies, J Kim, SC Jang... Lab on a Chip 2012",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Formation of liposomes using a 3D flow focusing device",
+      "year": 2012,
+      "citation_raw": "Formation of liposomes using a 3D flow focusing device RT Davies, D Kim, J Park Journal of Micromechanics and Microengineering 2012",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Measurement of thermal conductivity of picoliter samples",
+      "year": 2012,
+      "citation_raw": "Measurement of thermal conductivity of picoliter samples BK Park, N Yi, J Park Review of Scientific Instruments 2012",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Development of a hybrid scaffold with synthetic biomaterials",
+      "year": 2011,
+      "citation_raw": "Development of a hybrid scaffold with synthetic biomaterials JH Shim, JY Kim, M Park... Biofabrication 2011",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Influences of electric field on living cells in droplets",
+      "year": 2011,
+      "citation_raw": "Influences of electric field on living cells in droplets DJ Im, J Noh, NW Yi, J Park Biomicrofluidics 2011",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Thermal conductivity of bovine serum albumin denaturation",
+      "year": 2011,
+      "citation_raw": "Thermal conductivity of bovine serum albumin denaturation BK Park, N Yi, J Park... Applied Physics Letters 2011",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Oxygen transport prediction in tissue-engineered scaffold",
+      "year": 2011,
+      "citation_raw": "Oxygen transport prediction in tissue-engineered scaffold TY Kang, HW Kang, J Park... Acta Biomaterialia 2011",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Three-omega method to measure liquid thermal properties",
+      "year": 2010,
+      "citation_raw": "Three-omega method to measure liquid thermal properties BK Park, J Park, D Kim Review of Scientific Instruments 2010",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Roll-to-roll production of 30-inch graphene films",
+      "year": 2010,
+      "citation_raw": "Roll-to-roll production of 30-inch graphene films S Bae, JS Park, Y Zheng... Nature Nanotechnology 2010",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Homogeneous differentiation of hepatocyte-like cells",
+      "year": 2008,
+      "citation_raw": "Homogeneous differentiation of hepatocyte-like cells CH Cho, N Parashurama... The FASEB Journal 2008",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "A microfluidic ATP-bioluminescence sensor",
+      "year": 2008,
+      "citation_raw": "A microfluidic ATP-bioluminescence sensor SJ Lee, JS Park, HI Jung Sensors and Actuators B: Chemical 2008",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Microchannel bioreactors for bioartificial liver support",
+      "year": 2006,
+      "citation_raw": "Microchannel bioreactors for bioartificial liver support J Park, M Toner, AW Tilles Microfluidics and Nanofluidics 2006",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Bent-beam electrothermal actuators-Part I",
+      "year": 2001,
+      "citation_raw": "Bent-beam electrothermal actuators-Part I L Que, JS Park, YB Gianchandani Journal of Microelectromechanical Systems 2001",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
+    },
+    {
+      "title": "Bent-beam electrothermal actuators-Part II",
+      "year": 2001,
+      "citation_raw": "Bent-beam electrothermal actuators-Part II JS Park, LL Chu, AD Oliver... Journal of Microelectromechanical Systems 2001",
+      "source_url": "https://npv.postech.ac.kr/npv/pub/Journal.do"
     }
   ]
 }

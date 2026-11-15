@@ -7,11 +7,84 @@
   "publication_urls": [
     "https://weitzlab.seas.harvard.edu/publications/"
   ],
-  "accessed_at": "2026-11-11T13:52:34.674Z",
-  "coverage_notes": [
-    "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
-    "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
-  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "One-step nanoprecipitation of polymeric nanoparticles with tunable size, uniformity, shape and surface function",
+      "year": 2026,
+      "citation_raw": "Download 2026 citations Sun, D.; Chen, J.; Luo, C.; Zheng, Y.; Wang, X.; Guo, B.; Weitz, D. A..; Chen, D. One-step nanoprecipitation of polymeric nanoparticles with tunable size, uniformity, shape and surface function. Chemical Engineering Science 2026,326, 123557. One-step nanoprecipitation of polymeric nanoparticles with tunable size, uniformity, shape and surface function Publisher's Version One-step nanoprecipitation of polymeric nanoparticles with tunable size, uniformity, shape and surface function",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Implantable living materials autonomously deliver therapeutics using contained engineered bacteria",
+      "year": 2026,
+      "citation_raw": "Harimoto, T.; Quevedo, F. H.; Zillig, J.; Schreiber, S.; Wu, Y.; Ahn, C. H.; To, T.; Thakur, R.; Tatara, A. M.; Kang, S.; Chen, Z.; Lafuente-Gómez, N.; Hanan, B.; Pauer, A.; Lightbown, S.; Weitz, D. A.; Mooney, D. J. Implantable living materials autonomously deliver therapeutics using contained engineered bacteria. Science 2026, 392, 6799. Implantable living materials autonomously deliver therapeutics using contained engineered bacteria Publisher's Version Implantable living materials autonomously deliver therapeutics using contained engineered bacteria",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Rapid fabrication of solvent-compatible NOA 81 microfluidic devices for double-emulsion microfluidics",
+      "year": 2026,
+      "citation_raw": "Garry, R.; Sincari, V.; Xu, W.; Dhande, A.; Weitz, D. A. Rapid fabrication of solvent-compatible NOA 81 microfluidic devices for double-emulsion microfluidics. Lab Chip 2026. Rapid fabrication of solvent-compatible NOA 81 microfluidic devices for double-emulsion microfluidics Publisher's Version Rapid fabrication of solvent-compatible NOA 81 microfluidic devices for double-emulsion microfluidics",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Preparation of water-core capsules by one-step nanoprecipitation",
+      "year": 2026,
+      "citation_raw": "Kang, T.; Chen, J.; Sun, D.; Weitz, D.A.; Chen, D. Preparation of water-core capsules by one-step nanoprecipitation. Colloids and Surfaces A: Physicochemical and Engineering Aspects 2026,742, 140455. Preparation of water-core capsules by one-step nanoprecipitation Publisher's Version Preparation of water-core capsules by one-step nanoprecipitation",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Green Oil-in-Water Nanoemulsions for Delivery of Phytochemicals With Pesticidal Activity for Sustainable Food Production and Safety",
+      "year": 2026,
+      "citation_raw": "de Carvalho, A. P. A.; Weitz, D. A.; Conte-Junior, C. A. Green Oil-in-Water Nanoemulsions for Delivery of Phytochemicals With Pesticidal Activity for Sustainable Food Production and Safety . Comprehensive Reviews in Food Science and Food Safety 2026, 25, 3. Green Oil-in-Water Nanoemulsions for Delivery of Phytochemicals With Pesticidal Activity for Sustainable Food Production and Safety Publisher's Version Green Oil-in-Water Nanoemulsions for Delivery of Phytochemicals With Pesticidal Activity for Sustainable Food Production and Safety",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Mechanical performance of hybrid polymer–lipid vesicles with leaflet asymmetry engineered using microfluidics",
+      "year": 2026,
+      "citation_raw": "Huang, Y.; Manafirad, A.; Matoori, S.; Arriaga, L. R.; Sun, S.; Chen, A.; Yang, X.; Dinsmore, A. D.; Mooney, D. J.; Weitz, D. A. Mechanical performance of hybrid polymer–lipid vesicles with leaflet asymmetry engineered using microfluidics. Proceedings of the National Academy of Sciences 2026, 123, 10. Mechanical performance of hybrid polymer–lipid vesicles with leaflet asymmetry engineered using microfluidics Publisher's Version Mechanical performance of hybrid polymer–lipid vesicles with leaflet asymmetry engineered using microfluidics",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Squeaking at soft–rigid frictional interfaces",
+      "year": 2026,
+      "citation_raw": "Djellouli, A.; aAlbertini, G.; Wilt, J.; Tournat, V.; Weitz, D. A.; Rubinstein, S.; Bertoldi, K. Squeaking at soft–rigid frictional interfaces. Nature 2026, 650, 891–897. Squeaking at soft–rigid frictional interfaces Publisher's Version Squeaking at soft–rigid frictional interfaces",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "High-sensitivity, protein-independent detection of dsDNA sequences",
+      "year": 2026,
+      "citation_raw": "Yan, J.; Bhadane, R.; Xu, W.; Ran, M.; Ma, X.; Li, Y.; Jahnke, K.; Ma, X.; Salo-Ahen, O. M. H.; Kostiainen, M. A.; Weitz, D. A.; Zhang, H. High-sensitivity, protein-independent detection of dsDNA sequences. Proceedings of the National Academy of Sciences 2026, 123, 6. High-sensitivity, protein-independent detection of dsDNA sequences Publisher's Version High-sensitivity, protein-independent detection of dsDNA sequences",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Effects of polymer solutions on hydraulic fracture",
+      "year": 2026,
+      "citation_raw": "Du, Y.; Cochard, T.; Svetlizky, I.; Yuan, C.; Song, Y.; Xiao, L.; Weitz, D. A. Effects of polymer solutions on hydraulic fracture. Phys. Rev. Res. 2026, 8, 013083. Effects of polymer solutions on hydraulic fracture Publisher's Version Effects of polymer solutions on hydraulic fracture",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Engineering the biophysical properties of lipid nanostructures for drug delivery",
+      "year": 2026,
+      "citation_raw": "Menge, J.; Yang, C.; Weitz, D.A.; Jahnke, K. Engineering the biophysical properties of lipid nanostructures for drug delivery. Communications Materials 2026, 7, 25. Engineering the biophysical properties of lipid nanostructures for drug delivery Publisher's Version Engineering the biophysical properties of lipid nanostructures for drug delivery",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "A droplet microfluidics-based platform for generating target-specific, natively-paired immune libraries and identifying potent and developable antibodies",
+      "year": 2026,
+      "citation_raw": "Ramasubramanian, A.; Deveney, B. T.; Clark, S. A.; Boutin, P.; Keepseagle, K.; Riahi, S.; Lao, T.; Salemi, M.; Kathuria, S.; Amengual-Rigo, P.; Dimova, D.; Marcovici, L.; Hopke, J.; Newton, J.; Mix, K.; Kramer, K.; Erasimus, H.; Furtmann, N.; Mottet, G.; Suslov, N.; Mahendra, A.; Pemmaraju, S. R.; Chowdhury, P. S.; Weitz, D. A.; Heyman, J. A. A droplet microfluidics-based platform for generating target-specific, natively-paired immune libraries and identifying potent and developable antibodies. Scientific Reports 2026, 16, 3684. A droplet microfluidics-based platform for generating target-specific, natively-paired immune libraries and identifying potent and developable antibodies Publisher's Version A droplet microfluidics-based platform for generating target-specific, natively-paired immune libraries and identifying potent and developable antibodies",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "A Biomaterials with droplet microfluidics",
+      "year": 2026,
+      "citation_raw": "Ou, Y. and Han, Z. and Cai, S. and Heck, J. R. and Toprakcioglu, Z. and Yu, Z. and Weitz, D. A. and Knowles, T. P. J. A Biomaterials with droplet microfluidics. Nature Reviews Bioengineering 2026, 4, 353–370. A Biomaterials with droplet microfluidics Publisher's Version A Biomaterials with droplet microfluidics",
+      "source_url": "https://weitzlab.seas.harvard.edu/publications/"
+    }
+  ]
 }

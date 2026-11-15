@@ -5,7 +5,7 @@
   "lab_name": null,
   "lab_url": "https://www.mitfluidslab.com/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/irmgard@mit.edu"
+    "https://www.mitfluidslab.com/publications"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/irmgard@mit.edu",
   "discovered_links": [
@@ -67,12 +67,262 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official MechE profile inspected. Full laboratory publications navigation and extraction not yet completed; resume from saved discovered_links. No inference from roster beyond identifying requested subject.",
-    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Delamination and out-of-plane deformation in drying colloidal suspensions",
+      "year": 2026,
+      "citation_raw": "Contact us Delamination and out-of-plane deformation in drying colloidal suspensions P. Lilin, W. van Rees, M. Ibrahim, I. Bischofberger, Soft Matter, 22, 3429 (2026)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Nonlinear elasticity and transition to macroscopic irreversibility in composite hydrogels",
+      "year": 2026,
+      "citation_raw": "Nonlinear elasticity and transition to macroscopic irreversibility in composite hydrogels I. Dellatolas, T. Divoux, E. Del Gado, I. Bischofberger, Soft Matter, 22, 2290 (2026)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2026,
+      "citation_raw": "M.A. Fardin, T. Divoux, S. Lee, I. Bischofberger, Annu. Rev. Fluid Mech., 58:275–300 (2026)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Permeability-selectivity trade-off for a universal leaky channel inspired by mobula filters",
+      "year": 2024,
+      "citation_raw": "M.A. Fardin, T. Divoux, S. Lee, I. Bischofberger, Annu. Rev. Fluid Mech., 58:275–300 (2026) Permeability-selectivity trade-off for a universal leaky channel inspired by mobula filters X. Mao, I. Bischofberger, A.E. Hosoi, PNAS, 121 (50) e2410018121 (2024)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Crack densification in drying colloidal suspensions",
+      "year": 2024,
+      "citation_raw": "Crack densification in drying colloidal suspensions P. Lilin, M. Ibrahim, I. Bischofberger, Sci. Adv., 10, eadp3746 (2024)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2024,
+      "citation_raw": "L. Molefe, M. Casiulis, T. Gao, S. Rajesh, I. Tiwari, F. Wardani, I. Bischofberger, E. Tang, Phys. Rev. E, 110, 010001 (2024)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Fracture and relaxation in dense cornstarch suspensions",
+      "year": 2024,
+      "citation_raw": "L. Molefe, M. Casiulis, T. Gao, S. Rajesh, I. Tiwari, F. Wardani, I. Bischofberger, E. Tang, Phys. Rev. E, 110, 010001 (2024) Fracture and relaxation in dense cornstarch suspensions P. Lilin, J.E. Elkhoury, I.R. Peters, I. Bischofberger, PNAS Nexus, 3, 1 (2024)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Flow-induced periodic chiral structures in an achiral nematic liquid crystal",
+      "year": 2024,
+      "citation_raw": "Flow-induced periodic chiral structures in an achiral nematic liquid crystal Q. Zhang, W. Wang, S. Zhou, R. Zhang, I. Bischofberger, Nat. Commun., 15, 7 (2024)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "I. Dellatolas, M. Bantawa, B. Damerau, M. Guo, T. Divoux, E. Del Gado, I. Bischofberger, ACS Nano, 17, 21, 20939 (2023)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "B. Saintyves, R. Pic, L. Mahadevan, I. Bischofberger, Phys. Rev. Lett., 131, 118202 (2023)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Particle focusing in a wavy channel",
+      "year": 2023,
+      "citation_raw": "B. Saintyves, R. Pic, L. Mahadevan, I. Bischofberger, Phys. Rev. Lett., 131, 118202 (2023) Particle focusing in a wavy channel X. Mao, I. Bischofberger, A.E. Hosoi, J. Fluid Mech., 968, A25 (2023)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Fernández-Rico, A, Hooshanginejad, M, Ibrahim, B, McMillan, S, Nath, N, Vriend, I, Bischofberger, Phys, Rev, E",
+      "year": 2023,
+      "citation_raw": "S. Ettinger, C. Fernández-Rico, A. Hooshanginejad, M. Ibrahim, B. McMillan, S. Nath, N. Vriend, I. Bischofberger, Phys. Rev. E, 108, 010001 (2023)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "S. Yamani, Y. Raj, T.A. Zaki, G.H. McKinley, I. Bischofberger, Phys. Rev. Fluids, 8, 064610 (2023)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Dendritic patterns from shear-enhanced anisotropy in nematic liquid crystals",
+      "year": 2023,
+      "citation_raw": "S. Yamani, Y. Raj, T.A. Zaki, G.H. McKinley, I. Bischofberger, Phys. Rev. Fluids, 8, 064610 (2023) Dendritic patterns from shear-enhanced anisotropy in nematic liquid crystals Q. Zhang, S. Zhou, R. Zhang, I. Bischofberger, Sci. Adv., 9 (2), eabq6820 (2023)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Castañeda-Priego, R, Cerbino, L, Cipelletti, E, Del Gado, A, Fernandez-Nieves, Front, Phys",
+      "year": 2023,
+      "citation_raw": "I. Bischofberger, R. Castañeda-Priego, R. Cerbino, L. Cipelletti, E. Del Gado, A. Fernandez-Nieves, Front. Phys. 11:1173632 (2023)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Shattered to pieces: cracks in drying drops",
+      "year": 2022,
+      "citation_raw": "I. Bischofberger, R. Castañeda-Priego, R. Cerbino, L. Cipelletti, E. Del Gado, A. Fernandez-Nieves, Front. Phys. 11:1173632 (2023) Shattered to pieces: cracks in drying drops P. Lilin, I. Bischofberger, Phys. Rev. Fluids, 7, 110505 (2022)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Videbæk, S.R, Nagel, A.E, Hosoi, I, Bischofberger, Phys, Rev",
+      "year": 2022,
+      "citation_raw": "S. Alqatari, T.E. Videbæk, S.R. Nagel, A.E. Hosoi, I. Bischofberger, Phys. Rev. Fluids, 7, 110504 (2022)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "O. Shishkov, A. Blonder, S. Gowen, T.J. Jones, M. Jouanlanne, Q. Zhang, E. Del Gado, I. Bischofberger, Phys. Rev. E, 106, 050001 (2022)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Yield precursor in primary creep of colloidal gels",
+      "year": 2022,
+      "citation_raw": "O. Shishkov, A. Blonder, S. Gowen, T.J. Jones, M. Jouanlanne, Q. Zhang, E. Del Gado, I. Bischofberger, Phys. Rev. E, 106, 050001 (2022) Yield precursor in primary creep of colloidal gels J.H. Cho, I. Bischofberger, Soft Matter, 18, 7612 (2022)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Lasting effects of discontinuous shear thickening in cornstarch suspensions upon flow cessation",
+      "year": 2022,
+      "citation_raw": "Lasting effects of discontinuous shear thickening in cornstarch suspensions upon flow cessation J.H. Cho, A.H. Griese, I.R. Peters, I. Bischofberger, Phys. Rev. Fluids, 7, 063302 (2022)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Criteria for Crack Formation and Air Invasion in Drying Colloidal Suspensions",
+      "year": 2022,
+      "citation_raw": "Criteria for Crack Formation and Air Invasion in Drying Colloidal Suspensions P. Lilin, I. Bischofberger, Langmuir, 38, 24, 7442 (2022)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "B. Ge, Q. Zhang, R. Zhang, J.-T. Lin, P.-H. Tseng, C.-W. Chang, C.-Y. Dong, R. Zhou, Z. Yaqoob, I. Bischofberger, P.T.C. So, ACS Photonics, 8, 3440 (2021)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Sintès, T. Nîrca, G.H, McKinley, I, Bischofberger, Soft Matter",
+      "year": 2021,
+      "citation_raw": "P. Bourrianne, P. Lilin, G. Sintès, T. Nîrca, G.H. McKinley, I. Bischofberger, Soft Matter, 17, 8832 (2021)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "P.T.C, So, I, Bischofberger, PNAS",
+      "year": 2021,
+      "citation_raw": "Q. Zhang, B. Ge, R. Zhang, Z. Yaqoob, P.T.C. So, I. Bischofberger, PNAS, 118, 35, e2108361118 (2021)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "S. Yamani, B. Keshavarz, Y. Raj, T.A. Zaki, G.H. McKinley, I. Bischofberger, Phys. Rev. Lett., 127, 074501 (2021)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Two Modes of Cluster Dynamics Govern the Viscoelasticity of Colloidal Gels",
+      "year": 2021,
+      "citation_raw": "S. Yamani, B. Keshavarz, Y. Raj, T.A. Zaki, G.H. McKinley, I. Bischofberger, Phys. Rev. Lett., 127, 074501 (2021) Two Modes of Cluster Dynamics Govern the Viscoelasticity of Colloidal Gels J.H. Cho, I. Bischofberger, Phys. Rev. E, 103, 032609 (2021)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Growth morphology and symmetry selection of interfacial instabilities in anisotropic environments",
+      "year": 2021,
+      "citation_raw": "Growth morphology and symmetry selection of interfacial instabilities in anisotropic environments Q. Zhang, M.A. Amooie, M.Z. Bazant, I. Bischofberger, Soft Matter, 17, 1202 (2021)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Blooming flowers from drying drops",
+      "year": 2020,
+      "citation_raw": "Blooming flowers from drying drops P. Lilin, P. Bourrianne, G. Sintès, I. Bischofberger, Phys. Rev. Fluids, 5, 110511 (2020)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Videbæk, S.R, Nagel, A.E, Hosoi, I, Bischofberger, Sci, Adv",
+      "year": 2020,
+      "citation_raw": "S. Alqatari, T.E. Videbæk, S.R. Nagel, A.E. Hosoi, I. Bischofberger, Sci. Adv., 6, eabd6605 (2020)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "T. Divoux, A. Shukla, B. Marsit, Y. Kaloga, I. Bischofberger, Phys. Rev. Lett., 124, 248006 (2020)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Emergence of Multiscale Dynamics in Colloidal Gels",
+      "year": 2020,
+      "citation_raw": "T. Divoux, A. Shukla, B. Marsit, Y. Kaloga, I. Bischofberger, Phys. Rev. Lett., 124, 248006 (2020) Emergence of Multiscale Dynamics in Colloidal Gels J.H. Cho, R. Cerbino, I. Bischofberger, Phys. Rev. Lett., 124, 088005 (2020)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2017,
+      "citation_raw": "D.C.E. Calzolari, I. Bischofberger, F. Nazzani, V. Trappe, J. Rheol., 61(4), 817-831 (2017)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2017,
+      "citation_raw": "J.W. Rocks, N. Pashine, I. Bischofberger, C.P. Goodrich, A.J. Liu, S.R. Nagel, PNAS, 114, 2520-2525 (2017)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Fluid instabilities that mimic animal growth",
+      "year": 2016,
+      "citation_raw": "J.W. Rocks, N. Pashine, I. Bischofberger, C.P. Goodrich, A.J. Liu, S.R. Nagel, PNAS, 114, 2520-2525 (2017) Fluid instabilities that mimic animal growth I. Bischofberger, S.R. Nagel, Phys. Today, 69, 70-71 (2016)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2016,
+      "citation_raw": "I. Bischofberger, B. Ray, J.F. Morris, T. Lee, S.R. Nagel, Soft Matter, 12, 3013-3020 (2016)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "New aspects in the phase behaviour of poly-N-isopropyl acrylamide: systematic temperature dependent shrinking of PNiPAM assemblies well beyond the LCST",
+      "year": 2015,
+      "citation_raw": "I. Bischofberger, B. Ray, J.F. Morris, T. Lee, S.R. Nagel, Soft Matter, 12, 3013-3020 (2016) New aspects in the phase behaviour of poly-N-isopropyl acrylamide: systematic temperature dependent shrinking of PNiPAM assemblies well beyond the LCST I. Bischofberger, V. Trappe, Sci. Rep. 5, 15520 (2015)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "An island of stability in a sea of fingers: emergent large-scale features of the viscous flow instability",
+      "year": 2015,
+      "citation_raw": "An island of stability in a sea of fingers: emergent large-scale features of the viscous flow instability I. Bischofberger, R. Ramachandran, S.R. Nagel, Soft Matter, 11, 7428-7432 (2015)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Fingering versus stability in the limit of zero interfacial tension",
+      "year": 2014,
+      "citation_raw": "Fingering versus stability in the limit of zero interfacial tension I. Bischofberger, R. Ramachandran, S.R. Nagel, Nat. Commun. 5:5265 (2014)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Co-nonsolvency of PNiPAM at the transition between solvation mechanisms",
+      "year": 2014,
+      "citation_raw": "Co-nonsolvency of PNiPAM at the transition between solvation mechanisms I. Bischofberger, D.C.E. Calzolari, V. Trappe, Soft Matter, 10, 8288-8295 (2014)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "D.C.E, Calzolari, P, De Los Rios, I, Jelezarov, V, Trappe, Sci, Rep",
+      "year": 2014,
+      "citation_raw": "I. Bischofberger, D.C.E. Calzolari, P. De Los Rios, I. Jelezarov, V. Trappe, Sci. Rep. 4, 4377 (2014)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Seeing the invisible - Air vortices around a splashing drop",
+      "year": 2013,
+      "citation_raw": "I. Bischofberger, D.C.E. Calzolari, P. De Los Rios, I. Jelezarov, V. Trappe, Sci. Rep. 4, 4377 (2014) Seeing the invisible - Air vortices around a splashing drop I. Bischofberger, K.W. Mauser, S.R. Nagel, Phys. Fluids 25, 091110 (2013)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    },
+    {
+      "title": "Royal Society A 367",
+      "year": 2009,
+      "citation_raw": "D.A. Sessoms, I. Bischofberger, L. Cipelletti, V. Trappe, Phil. Trans. Royal Society A 367, 5013 (2009)",
+      "source_url": "https://www.mitfluidslab.com/publications"
+    }
+  ]
 }

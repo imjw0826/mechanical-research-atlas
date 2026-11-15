@@ -5,13 +5,907 @@
   "lab_name": null,
   "lab_url": "https://hugroup.seas.harvard.edu/",
   "publication_urls": [
-    "https://hugroup.seas.harvard.edu/publications"
+    "https://hugroup.seas.harvard.edu/publications",
+    "https://hugroup.seas.harvard.edu/conference-papers",
+    "https://hugroup.seas.harvard.edu/publications?page=1",
+    "https://hugroup.seas.harvard.edu/publications?page=0",
+    "https://hugroup.seas.harvard.edu/publications?page=2",
+    "https://hugroup.seas.harvard.edu/publications?page=12",
+    "https://hugroup.seas.harvard.edu/publications?page=4",
+    "https://hugroup.seas.harvard.edu/publications?page=6",
+    "https://hugroup.seas.harvard.edu/publications?page=8",
+    "https://hugroup.seas.harvard.edu/publications?page=10",
+    "https://hugroup.seas.harvard.edu/publications?page=3",
+    "https://hugroup.seas.harvard.edu/publications?page=5",
+    "https://hugroup.seas.harvard.edu/publications?page=7",
+    "https://hugroup.seas.harvard.edu/publications?page=9",
+    "https://hugroup.seas.harvard.edu/publications?page=11"
   ],
-  "accessed_at": "2026-11-11T13:51:22.302Z",
-  "coverage_notes": [
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
     "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 15개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Electrical Manipulation of Telecom Color Centers in Silicon",
+      "year": 2024,
+      "citation_raw": "Day, Aaron M., Madison Sutula, Jonathan R. Dietz, Alexander Raun, Denis D. Sukachev, Mihir K. Bhaskar, and Evelyn L. Hu. 2024. “Electrical Manipulation of Telecom Color Centers in Silicon”. Nature Communications 15: 4722.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Spin-Acoustic Control of Silicon Vacancies in 4H Silicon Carbide",
+      "year": 2023,
+      "citation_raw": "Dietz, Jonathan R., Boyang Jiang, Aaron M. Day, Sunil A. Bhave, and Evelyn L. Hu. 2023. “Spin-Acoustic Control of Silicon Vacancies in 4H Silicon Carbide”. Nature Electronics, 1-7.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Laser Writing of Spin Defects in Nanophotonic Cavities",
+      "year": 2023,
+      "citation_raw": "Day, Aaron M., Jonathan R. Dietz, Madison Sutula, Matthew Yeh, and Evelyn L. Hu. 2023. “Laser Writing of Spin Defects in Nanophotonic Cavities”. Nature Materials, 1-7.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "GaN Magic Angle Laser in a Merged Moire Photonic Crystal",
+      "year": 2023,
+      "citation_raw": "Raun, Alexander, Haoning Tang, Xueqi Ni, Eric Mazur, and Evelyn L. Hu. 2023. “GaN Magic Angle Laser in a Merged Moire Photonic Crystal”. ACS Photonics 10 (9): 3001-7.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Three-Dimensional Reconfigurable Optical Singularities in Bilayer Photonic Crystals",
+      "year": 2023,
+      "citation_raw": "Ni, X. 2023. “Three-Dimensional Reconfigurable Optical Singularities in Bilayer Photonic Crystals.”. Physical Review Letters 132 (7): 073804.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Deterministic Creation of Strained Color Centers in Nanostructures via High-Stress Thin Films",
+      "year": 2023,
+      "citation_raw": "Panday, A. 2023. “Deterministic Creation of Strained Color Centers in Nanostructures via High-Stress Thin Films.”. Applied Physics Letters 123 (24): 244001.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Optical and Strain Stabilization of Point Defects in Silicon Carbide",
+      "year": 2022,
+      "citation_raw": "Dietz, Jonathan R., and Evelyn L. Hu. 2022. “Optical and Strain Stabilization of Point Defects in Silicon Carbide”. Applied Physics Letters 120 (18): 184001.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Development of Quantum Interconnects (QuICs) for Next-Generation Information Technologies",
+      "year": 2021,
+      "citation_raw": "Hu, Awschalom, and al. 2021. “Development of Quantum Interconnects (QuICs) for Next-Generation Information Technologies”. PRX Quantum 2 (1).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Enhanced Cavity Coupling to Silicon Vacancies in 4H Silicon Carbide Using Laser Irradiation and Thermal Annealing",
+      "year": 2021,
+      "citation_raw": "Gadalla, Mena N., Andrew S. Greenspon, Rodrick Kuate Defo, Xingyu Zhang, and Evelyn L. Hu. 2021. “Enhanced Cavity Coupling to Silicon Vacancies in 4H Silicon Carbide Using Laser Irradiation and Thermal Annealing”. Proceedings of the National Academy of Sciences 118 (12).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Imaging of Surface Plasmon Polaritons and Spoof Plasmons in Low-Loss Highly Metallic Titanium Nitride Thin Films in Visible and Infrared Regimes",
+      "year": 2020,
+      "citation_raw": "Gadalla, Mena, Chaudhary Kundan, Federico Capasso, and Evelyn Hu. 2020. “Imaging of Surface Plasmon Polaritons and Spoof Plasmons in Low-Loss Highly Metallic Titanium Nitride Thin Films in Visible and Infrared Regimes”. Optics Express 28 (10): 14536-46.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Purcell Enhancement of a Single Silicon Carbide Color Center With Coherent Spin Control",
+      "year": 2020,
+      "citation_raw": "Crook, Alexander L., Christopher P. Anderson, Kevin C. Miao, Alexandre Bourassa, Hope Lee, Sam L. Bayliss, David O. Bracher, et al. 2020. “Purcell Enhancement of a Single Silicon Carbide Color Center With Coherent Spin Control”. NanoLetters 20 (5): 3427-34.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Magnetic Field Fingerprinting of Integrated-Circuit Activity With a Quantum Diamond Microscope",
+      "year": 2020,
+      "citation_raw": "Turner, M., N. Langelier, R. Bainbridge, D. Walters, S. Meesala, T. Babinec, P. Kehauas, et al. 2020. “Magnetic Field Fingerprinting of Integrated-Circuit Activity With a Quantum Diamond Microscope”. Physical Review Applied 14 (014097).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "The Optical Fiber Conference and Exhibition, Los Angeles",
+      "year": 2017,
+      "citation_raw": "Conference Papers Talks The Optical Fiber Conference and Exhibition, Los Angeles, March 2017",
+      "source_url": "https://hugroup.seas.harvard.edu/conference-papers"
+    },
+    {
+      "title": "‘Quantum dot lasers grown on (001) Si substrate for integration with amorphous Si waveguides’, Y, Wan, Q, Li, AY Liu, Y, Geng, J, Norman, WW Chow, AC Gossard, JE Bowers, EL Hu, KM Lau",
+      "year": 2017,
+      "citation_raw": "‘Quantum dot lasers grown on (001) Si substrate for integration with amorphous Si waveguides’, Y. Wan, Q. Li, AY Liu, Y. Geng, J. Norman, WW Chow, AC Gossard, JE Bowers, EL Hu, KM Lau Conference on Ultrafast Optics, San Francisco, February 2017",
+      "source_url": "https://hugroup.seas.harvard.edu/conference-papers"
+    },
+    {
+      "title": "‘Reusable titanium nitride plasmonic microstructures for intracellular delivery’, A, Raun, N, Saklayen, CM Zgrabik, DI Vulis, M, Madrid, WL Shen, EL Hu, E Mazur",
+      "year": 2017,
+      "citation_raw": "‘Reusable titanium nitride plasmonic microstructures for intracellular delivery’, A. Raun, N. Saklayen, CM Zgrabik, DI Vulis, M. Madrid, WL Shen, EL Hu, E Mazur Conference on Novel In-plane Semic. Lasers, San Francisco, February 2017",
+      "source_url": "https://hugroup.seas.harvard.edu/conference-papers"
+    },
+    {
+      "title": "‘InAs quantum dot Micro-disk lasers grown on (001) Si emitting at communication wavelengths’, KM Lau , Q, Li, Y, Wan, Q, Li, AY Liu, AC Gossard, JE Bowers, EL Hu",
+      "year": 2016,
+      "citation_raw": "‘InAs quantum dot Micro-disk lasers grown on (001) Si emitting at communication wavelengths’, KM Lau , Q. Li, Y. Wan, Q. Li, AY Liu, AC Gossard, JE Bowers, EL Hu CLEO, San Jose, June 2016",
+      "source_url": "https://hugroup.seas.harvard.edu/conference-papers"
+    },
+    {
+      "title": "‘Microwave-Assisted Spectroscopy Technique for Studying Charge State in Nitrogen-Vacancy Ensembles in Diamond’",
+      "year": 2020,
+      "citation_raw": "Craik, DPL Aude, P. Kehayias, Andrew S. Greenspon, Xinghu Zhang, J. M. Schloss, E. Bauch, CA Hart, Hu, and R. L. Walsworth. 2020. “‘Microwave-Assisted Spectroscopy Technique for Studying Charge State in Nitrogen-Vacancy Ensembles in Diamond’ ”. Physical Review Applied 14 (1): 1-17.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Ultralow Threshold Blue Quantum Dot Lasers: What’s the True Recipe for Success?",
+      "year": 2020,
+      "citation_raw": "Raun, and Hu. 2020. “Ultralow Threshold Blue Quantum Dot Lasers: What’s the True Recipe for Success?”. Nanophotonics 10 (1).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Imaging of Surface Plasmon Polaritons in Low-Loss Highly Metallic Titanium Nitride Thin Films in Visible and Infrared Regimes",
+      "year": 2020,
+      "citation_raw": "Gadalla, Mena. 2020. “Imaging of Surface Plasmon Polaritons in Low-Loss Highly Metallic Titanium Nitride Thin Films in Visible and Infrared Regimes.”. Optics Express 28 (10): 14536-46.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Excitation of Strong Localized Surface Plasmon Resonances in Highly Metallic Titanium Nitride Nano-Antennas for Stable Performance at Elevated Temperatures",
+      "year": 2019,
+      "citation_raw": "Gadalla, Mena N., Andrew S. Greenspon, Michele Tamagnone, Federico Capasso, and Evelyn L. Hu. 2019. “Excitation of Strong Localized Surface Plasmon Resonances in Highly Metallic Titanium Nitride Nano-Antennas for Stable Performance at Elevated Temperatures”. ACS Applied Nanomaterials.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Phononic Band Structure Engineering for High-Q Gigahertz Surface Acoustic Wave Resonators on Lithium Niobate",
+      "year": 2019,
+      "citation_raw": "“Phononic Band Structure Engineering for High-Q Gigahertz Surface Acoustic Wave Resonators on Lithium Niobate”. 2019. Physical Review Applied 2 (1).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Robust Lanthanide Emitters in Polyelectrolyte Thin Films for Photonic Applications",
+      "year": 2018,
+      "citation_raw": "Greenspon, Andrew S., Brandt Marceaux, and Evelyn L. Hu. 2018. “Robust Lanthanide Emitters in Polyelectrolyte Thin Films for Photonic Applications”. Nanotechnology 29 (7): 075302.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Ultra-Low-Threshold InGaN GaN Quantum Dot Micro-Ring Lasers",
+      "year": 2018,
+      "citation_raw": "Wang, Danqing, Tongtong Zhu, Rachel A. Oliver, and Evelyn L. Hu. 2018. “Ultra-Low-Threshold InGaN GaN Quantum Dot Micro-Ring Lasers”. Optics Letters 43 (4): 799-802.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Energetics and Kinetics of Vacancy Defects in 4H-SiC",
+      "year": 2018,
+      "citation_raw": "Defo, Rodrick Kuate, Xingyu Zhang, David Bracher, Gunn Kim, Evelyn Hu, and Efthimios Kaxiras. 2018. “Energetics and Kinetics of Vacancy Defects in 4H-SiC”. Physical Review B 98 (10): 104103.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Selective Purcell Enhancement of Two Closely Linked Zero-Phonon Transitions of a Silicon Carbide Color Center",
+      "year": 2017,
+      "citation_raw": "Bracher, David, Xingyu Zhang, and Evelyn Hu. 2017. “Selective Purcell Enhancement of Two Closely Linked Zero-Phonon Transitions of a Silicon Carbide Color Center”. Proceedings of the National Academy of Sciences 114 (16): 4060-65.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Continuous-Wave Optically Pumped 1.55 Mm InAs InAlGaAs Quantum Dot Microdisk Lasers Epitaxially Grown on Silicon",
+      "year": 2017,
+      "citation_raw": "Shi, B., S. Zhu, Q. Li, Y. Wan, E. Hu, and K. Lau. 2017. “Continuous-Wave Optically Pumped 1.55 Mm InAs InAlGaAs Quantum Dot Microdisk Lasers Epitaxially Grown on Silicon”. ACS Photonics 4 (2): 204-10.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "1.55 Mm Band Low-Threshold Continuous-Wave Lasing from InAs InAlGaAs Quantum Dot Microdisks",
+      "year": 2017,
+      "citation_raw": "Shi, B., S. Zhu, Q. Li, Y. Wan, E. Hu, and K. Lau. 2017. “1.55 Mm Band Low-Threshold Continuous-Wave Lasing from InAs InAlGaAs Quantum Dot Microdisks”. Optics Letters 42 (4): 679-82.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "1.55 Mm Room-Temperature Lasing from Subwavelength Quantum-Dot Microdisks Directly Grown on (001) Si",
+      "year": 2017,
+      "citation_raw": "Shi, B., S. Zhu, Q. Li, Y. Wan, E. Hu, and K. Lau. 2017. “1.55 Mm Room-Temperature Lasing from Subwavelength Quantum-Dot Microdisks Directly Grown on (001) Si”. Applied Physics Letters 110 (12).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Templated Growth of Diamond Optical Resonators via Plasma-Enhanced Chemical Vapor Deposition",
+      "year": 2016,
+      "citation_raw": "Zhang, X., and E. L. Hu. 2016. “Templated Growth of Diamond Optical Resonators via Plasma-Enhanced Chemical Vapor Deposition”. Applied Physics Letters 109 (8). doi:http://dx.doi.org/10.1063/1.4961536.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Nonlinear Refractory Plasmonics With Titanium Nitride Nanoantennas",
+      "year": 2016,
+      "citation_raw": "Gui, Lili, Shahin Bagheri, Nikolai Strohfeldt, Mario Hentschel, Christine M. Zgrabik, Bernd Metzger, Heiko Linnenbank, Evelyn L. Hu, and Harald Giessen. 2016. “Nonlinear Refractory Plasmonics With Titanium Nitride Nanoantennas”. Nano Letters 16 (9): 5708-13. doi:10.1021/acs.nanolett.6b02376.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Fabrication of High-Quality Nanobeam Photonic Crystal Cavities in 4H Silicon Carbide With Embedded Color Center",
+      "year": 2016,
+      "citation_raw": "Bracher, DO, and Hu. 2016. “Fabrication of High-Quality Nanobeam Photonic Crystal Cavities in 4H Silicon Carbide With Embedded Color Center”. In Advances in Photonics of Quantum Computing, Memory, and Communication. Vol. 9762. SPIE.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Fabrication of High-Quality Nanobeam Photonic Crystal Cavities in 4H Silicon Carbide With Embedded Color Center",
+      "year": 2016,
+      "citation_raw": "Bracher, DO, and Hu. 2016. “Fabrication of High-Quality Nanobeam Photonic Crystal Cavities in 4H Silicon Carbide With Embedded Color Center”. In Advances in Photonics of Quantum Computing, Memory, and Communication. Vol. 9762. SPIE. picture_as_pdf 2016_409_bracher_spie.pdf",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Optically Pumped 1.3 Um Room-Temperature InAs Quantum-Dot Micro-Disk Lasers Directly Grown on (001) Silicon",
+      "year": 2016,
+      "citation_raw": "Wan, Y., Q. Li, A. Liu, A. Gossard, J. Bowers, E. Hu, and K. Lau. 2016. “Optically Pumped 1.3 Um Room-Temperature InAs Quantum-Dot Micro-Disk Lasers Directly Grown on (001) Silicon”. Optics Letters 4 (7): 1664-7.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Sub-Wavelength InAs Quantum Dot Micro-Disk Lasers Epitaxially Grown on Exact Si (001) Substrates",
+      "year": 2016,
+      "citation_raw": "Wan, Y., Q. Li, A. Liu, A. Gossard, J. Bowers, E. Hu, and K. Lau. 2016. “Sub-Wavelength InAs Quantum Dot Micro-Disk Lasers Epitaxially Grown on Exact Si (001) Substrates”. Applied Physics Letters 109 (1).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Temperature Characteristics of Epitaxially Grown InAs Quantum Dot Micro-Disk Lasers on Silicon for On-Chip Light Sources",
+      "year": 2016,
+      "citation_raw": "Wan, Y., Q. Li, A. Gossard, J. Bowers, E. Hu, and K. Lau. 2016. “Temperature Characteristics of Epitaxially Grown InAs Quantum Dot Micro-Disk Lasers on Silicon for On-Chip Light Sources”. Applied Physics Letters 109 (1).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Nonlinear Refractory Plasmonics With Titanium Nitride Nanoantennas",
+      "year": 2016,
+      "citation_raw": "Gui, L., S. Bagheri, N. Strohfeldt, M. Hentschel, C. Zgrabik, B. Metzger, H. Linnenbank, E. Hu, and H. Giessen. 2016. “Nonlinear Refractory Plasmonics With Titanium Nitride Nanoantennas”. NanoLetters 16 (9): 5708-13.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "1.3 Mm InAs Quantum-Dot Micro-Disk Lasers on V-Groove Patterned and Unpatterned (001) Silicon",
+      "year": 2016,
+      "citation_raw": "Li, Q., Y. Wan, A. Liu, A. Gossard, J. Bowers, E. Hu, and K. Lau. 2016. “1.3 Mm InAs Quantum-Dot Micro-Disk Lasers on V-Groove Patterned and Unpatterned (001) Silicon”. Optics Express 24 (18).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Optimization of Sputtered Titanium Nitride As a Tunable Metal for Plasmonic Applications",
+      "year": 2015,
+      "citation_raw": "Zgrabik, Christine M., and Evelyn L. Hu. (December) 2015. “Optimization of Sputtered Titanium Nitride As a Tunable Metal for Plasmonic Applications”. Opt. Mater. Express 5 (12). OSA: 2786–2797. doi:10.1364/OME.5.002786.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Hybrid Plasmonic Photonic Crystal Cavity for Enhancing Emission from Near-Surface Nitrogen Vacancy Centers in Diamond",
+      "year": 2015,
+      "citation_raw": "Cui, Shanying, Xingyu Zhang, Tsung-Li Liu, Jonathan Lee, David Bracher, Kenichi Ohno, David Awschalom, and Evelyn Hu. 2015. “Hybrid Plasmonic Photonic Crystal Cavity for Enhancing Emission from Near-Surface Nitrogen Vacancy Centers in Diamond”. ACS Photonics 2: 465-69. doi:10.1021/ph500469e.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Reduced Plasma-Induced Damage to Near-Surface Nitrogen-Vacancy Centers in Diamond",
+      "year": 2015,
+      "citation_raw": "Cui, Shanying, Andrew Greenspon, Kenichi Ohno, Bryan Myers, Ania Bleszynski Jayich, David Awschalom, and Evelyn Hu. 2015. “Reduced Plasma-Induced Damage to Near-Surface Nitrogen-Vacancy Centers in Diamond”. Nano Letters 15: 2887-91. doi:10.1021/acs.nanolett.5b00457.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Room-Temperature Photoenhanced Wet Etching of GaN",
+      "year": 1996,
+      "citation_raw": "Minsky, MS, White, and Hu. (March) 1996. “Room-Temperature Photoenhanced Wet Etching of GaN”. APPLIED PHYSICS LETTERS 68: 1531-33. doi:10.1063/1.115689.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "ANOMALOUS ANDREEV CONDUCTANCE IN INAS-ALSB QUANTUM-WELL STRUCTURES WITH NB ELECTRODES",
+      "year": 1992,
+      "citation_raw": "Nguyen, Kroemer, and Hu. (November) 1992. “ANOMALOUS ANDREEV CONDUCTANCE IN INAS-ALSB QUANTUM-WELL STRUCTURES WITH NB ELECTRODES”. PHYSICAL REVIEW LETTERS 69: 2847-50. doi:10.1103/PhysRevLett.69.2847.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "A SELF-CONSISTENT SOLUTION OF SCHRODINGER-POISSON EQUATIONS USING A NONUNIFORM MESH",
+      "year": 1990,
+      "citation_raw": "Tan, IH, GL SNIDER, LD CHANG, and Hu. (October) 1990. “A SELF-CONSISTENT SOLUTION OF SCHRODINGER-POISSON EQUATIONS USING A NONUNIFORM MESH”. JOURNAL OF APPLIED PHYSICS 68: 4071-76. doi:10.1063/1.346245.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Increased Negatively Charged Nitrogen-Vacancy Centers in Fluorinated Diamond",
+      "year": 2013,
+      "citation_raw": "Cui, Shanying, and Evelyn Hu. 2013. “Increased Negatively Charged Nitrogen-Vacancy Centers in Fluorinated Diamond”. Applied Physics Letters 103 (5): 051603-7.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Aqueous Epitaxial Growth of {ZnO} on Single Crystalline Au Microplates",
+      "year": 2013,
+      "citation_raw": "Joo, John, Kathryn Greenberg, Mor Baram, David Clarke, and Evelyn Hu. 2013. “Aqueous Epitaxial Growth of {ZnO} on Single Crystalline Au Microplates”. Crystal Growth & Design 13: 986–991. doi:10.1021/cg301582a.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Fabrication of Thin Diamond Membranes for Photonic Applications",
+      "year": 2013,
+      "citation_raw": "Lee, Jonathan, Andrew Magyar, David Bracher, Igor Aharonovich, and Evelyn Hu. 2013. “Fabrication of Thin Diamond Membranes for Photonic Applications”. Diamond and Related Materials 33: 45-48.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Photoluminescent {SiC} Tetrapods",
+      "year": 2013,
+      "citation_raw": "Magyar, Andrew, Igor Aharonovich, Mor Baram, and Evelyn Hu. 2013. “Photoluminescent {SiC} Tetrapods”. Nano Letters 13: 1210–1215. doi:10.1021/nl304665y.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Low Threshold, Room-Temperature Microdisk Lasers in the Blue Spectral Range",
+      "year": 2013,
+      "citation_raw": "Aharonovich, Igor, Alexander Woolf, Kasey Russell, Tongtong Zhu, Nan Niu, Menno Kappers, Rachel Oliver, and Evelyn Hu. 2013. “Low Threshold, Room-Temperature Microdisk Lasers in the Blue Spectral Range”. APPLIED PHYSICS LETTERS 103 (2).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Viral-Assisted Assembly and Photoelectric Response of Individual Au CdSe Core-Shell Nanowires",
+      "year": 2012,
+      "citation_raw": "Joo, John, Juan Hodelin, Evelyn Hu, and Elaine Haberer. (December) 2012. “Viral-Assisted Assembly and Photoelectric Response of Individual Au CdSe Core-Shell Nanowires”. MATERIALS LETTERS 89: 347-50. doi:10.1016/j.matlet.2012.09.001.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "A Full Free Spectral Range Tuning of P-I-N Doped Gallium Nitride Microdisk Cavity",
+      "year": 2012,
+      "citation_raw": "Niu, Nan, Tsung-Li Liu, Igor Aharonovich, Kasey Russell, Alexander Woolf, Thomas Sadler, Haitham El-Ella, Menno Kappers, Rachel Oliver, and Evelyn Hu. (October) 2012. “A Full Free Spectral Range Tuning of P-I-N Doped Gallium Nitride Microdisk Cavity”. APPLIED PHYSICS LETTERS 101. doi:10.1063/1.4744947.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Ultrafast All-Optical Switching by Single Photons",
+      "year": 2012,
+      "citation_raw": "Volz, Thomas, Andreas Reinhard, Martin Winger, Antonio Badolato, Kevin Hennessy, Evelyn Hu, and Atac Imamoglu. (September) 2012. “Ultrafast All-Optical Switching by Single Photons”. NATURE PHOTONICS 6: 605-9. doi:10.1038/NPHOTON.2012.181.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Large Spontaneous Emission Enhancement in Plasmonic Nanocavities",
+      "year": 2012,
+      "citation_raw": "Russell, Kasey, Tsung-Li Liu, Shanying Cui, and Evelyn Hu. (July) 2012. “Large Spontaneous Emission Enhancement in Plasmonic Nanocavities”. NATURE PHOTONICS 6: 459-62. doi:10.1038/NPHOTON.2012.112.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Measuring the Mode Volume of Plasmonic Nanocavities Using Coupled Optical Emitters",
+      "year": 2012,
+      "citation_raw": "Russell, Kasey, Kitty Yeung, and Evelyn Hu. (June) 2012. “Measuring the Mode Volume of Plasmonic Nanocavities Using Coupled Optical Emitters”. PHYSICAL REVIEW B 85. doi:10.1103/PhysRevB.85.245445.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Coupling of Silicon-Vacancy Centers to a Single Crystal Diamond Cavity",
+      "year": 2012,
+      "citation_raw": "Lee, Jonathan, Igor Aharonovich, Andrew Magyar, Fabian Rol, and Evelyn Hu. (April) 2012. “Coupling of Silicon-Vacancy Centers to a Single Crystal Diamond Cavity”. OPTICS EXPRESS 20: 8891-97.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "High Extraction Efficiency GaN-Based Photonic-Crystal Light-Emitting Diodes: Comparison of Extraction Lengths Between Surface and Embedded Photonic Crystals",
+      "year": 2010,
+      "citation_raw": "Matioli, Elison, Blaise Fleury, Elizabeth Rangel, Thiago Melo, Evelyn Hu, James Speck, and Claude Weisbuch. 2010. “High Extraction Efficiency GaN-Based Photonic-Crystal Light-Emitting Diodes: Comparison of Extraction Lengths Between Surface and Embedded Photonic Crystals”. APPLIED PHYSICS EXPRESS 3. doi:10.1143/APEX.3.032103.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Ambient Pressure, Low-Temperature Synthesis and Characterization of Colloidal InN Nanocrystals",
+      "year": 2010,
+      "citation_raw": "Hsieh, Jennifer, Dong Soo Yun, Evelyn Hu, and Angela Belcher. 2010. “Ambient Pressure, Low-Temperature Synthesis and Characterization of Colloidal InN Nanocrystals”. JOURNAL OF MATERIALS CHEMISTRY 20: 1435-37. doi:10.1039/b922196d.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Explanation of Photon Correlations in the Far-Off-Resonance Optical Emission from a Quantum-Dot-Cavity System",
+      "year": 2009,
+      "citation_raw": "Winger, Martin, Thomas Volz, Guillaume Tarel, Stefano Portolan, Antonio Badolato, Kevin Hennessy, Evelyn Hu, et al. (November) 2009. “Explanation of Photon Correlations in the Far-Off-Resonance Optical Emission from a Quantum-Dot-Cavity System”. PHYSICAL REVIEW LETTERS 103. doi:10.1103/PhysRevLett.103.207403.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Enhanced Photogenerated Carrier Collection in Hybrid Films of Bio-Templated Gold Nanowires and Nanocrystalline CdSe",
+      "year": 2009,
+      "citation_raw": "Haberer, Elaine, John Joo, Juan Hodelin, and Evelyn Hu. (October) 2009. “Enhanced Photogenerated Carrier Collection in Hybrid Films of Bio-Templated Gold Nanowires and Nanocrystalline CdSe”. NANOTECHNOLOGY 20. doi:10.1088/0957-4484/20/41/415206.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Growth of Embedded Photonic Crystals for GaN-Based Optoelectronic Devices",
+      "year": 2009,
+      "citation_raw": "Matioli, Elison, Stacia Keller, Feng Wu, Yong-Seok Choi, Evelyn Hu, James Speck, and Claude Weisbuch. (July) 2009. “Growth of Embedded Photonic Crystals for GaN-Based Optoelectronic Devices”. JOURNAL OF APPLIED PHYSICS 106. doi:10.1063/1.3174385.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Observation of Whispering Gallery Modes in Nonpolar M-Plane GaN Microdisks",
+      "year": 2009,
+      "citation_raw": "Tamboli, Adele, Mathew Schmidt, Asako Hirai, Steven DenBaars, and Evelyn Hu. (June) 2009. “Observation of Whispering Gallery Modes in Nonpolar M-Plane GaN Microdisks”. APPLIED PHYSICS LETTERS 94. doi:10.1063/1.3160550.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Photoelectrochemical Etching of P-Type GaN Heterostructures",
+      "year": 2009,
+      "citation_raw": "Tamboli, Adele, Asako Hirai, Shuji Nakamura, Steven DenBaars, and Evelyn Hu. (April) 2009. “Photoelectrochemical Etching of P-Type GaN Heterostructures”. APPLIED PHYSICS LETTERS 94. doi:10.1063/1.3120545.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Smooth Top-Down Photoelectrochemical Etching of M-Plane GaN",
+      "year": 2009,
+      "citation_raw": "Tamboli, Adele, Mathew Schmidt, Siddharth Rajan, James Speck, Umesh Mishra, Steven DenBaars, and Evelyn Hu. 2009. “Smooth Top-Down Photoelectrochemical Etching of M-Plane GaN”. JOURNAL OF THE ELECTROCHEMICAL SOCIETY 156: H47-H51. doi:10.1149/1.3005978.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Photoelectrochemical Undercut Etching of M-Plane GaN for Microdisk Applications",
+      "year": 2009,
+      "citation_raw": "Tamboli, Adele, Mathew Schmidt, Asako Hirai, Steven DenBaars, and Evelyn Hu. 2009. “Photoelectrochemical Undercut Etching of M-Plane GaN for Microdisk Applications”. JOURNAL OF THE ELECTROCHEMICAL SOCIETY 156: H767-H771. doi:10.1149/1.3184156.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Quantum Dot Spectroscopy Using Cavity Quantum Electrodynamics",
+      "year": 2008,
+      "citation_raw": "Winger, Martin, Antonio Badolato, Kevin Hennessy, Evelyn Hu, and Atac Imamoglu. (November) 2008. “Quantum Dot Spectroscopy Using Cavity Quantum Electrodynamics”. PHYSICAL REVIEW LETTERS 101. doi:10.1103/PhysRevLett.101.226808.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Cavity QED Effects With Single Quantum Dots",
+      "year": 2008,
+      "citation_raw": "Badolato, Antonio, Martin Winger, Kevin Hennessy, Evelyn Hu, and Atac Imamoglu. (October) 2008. “Cavity QED Effects With Single Quantum Dots”. COMPTES RENDUS PHYSIQUE 9: 850-56. doi:10.1016/j.crhy.2008.10.015.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Directional Emission Control and Increased Light Extraction in GaN Photonic Crystal Light Emitting Diodes",
+      "year": 2008,
+      "citation_raw": "McGroddy, David, Matioli, Iza, Nakamura, DenBaars, Speck, Weisbuch, and Hu. (September) 2008. “Directional Emission Control and Increased Light Extraction in GaN Photonic Crystal Light Emitting Diodes”. APPLIED PHYSICS LETTERS 93. doi:10.1063/1.2978068.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Wavelength- and Material-Dependent Absorption in GaAs and AlGaAs Microcavities",
+      "year": 2007,
+      "citation_raw": "Michael, Srinivasan, Johnson, Painter, Lee, Hennessy, Kim, and Hu. (January) 2007. “Wavelength- and Material-Dependent Absorption in GaAs and AlGaAs Microcavities”. APPLIED PHYSICS LETTERS 90. doi:10.1063/1.2435608.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Broadband Notch Filters Based on Quasi-2-D Photonic Crystal Waveguides for InP-Based Monolithic Photonic-Integrated Circuits",
+      "year": 2006,
+      "citation_raw": "Davanco, Marcelo, Aimin Xing, James Raring, Evelyn Hu, and Daniel Blumenthal. (November) 2006. “Broadband Notch Filters Based on Quasi-2-D Photonic Crystal Waveguides for InP-Based Monolithic Photonic-Integrated Circuits”. IEEE JOURNAL OF SELECTED TOPICS IN QUANTUM ELECTRONICS 12: 1164-74. doi:10.1109/JSTQE.2006.879568.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Tuning Photonic Nanocavities by Atomic Force Microscope Nano-Oxidation",
+      "year": 2006,
+      "citation_raw": "Hennessy, Hoegerle, Hu, Badolato, and Imamoglu. (July) 2006. “Tuning Photonic Nanocavities by Atomic Force Microscope Nano-Oxidation”. APPLIED PHYSICS LETTERS 89. doi:10.1063/1.2236954.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Structural Defects in Si-Doped III-V Nitrides",
+      "year": 2006,
+      "citation_raw": "Zakharov, Dmitri, Zuzanna Liliental-Weber, Yan Gao, and Evelyn Hu. (July) 2006. “Structural Defects in Si-Doped III-V Nitrides”. JOURNAL OF ELECTRONIC MATERIALS 35: 1543-46. doi:10.1007/s11664-006-0146-5.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Compact Broadband Photonic Crystal Filters With Reduced Back-Reflections for Monolithic InP-Based Photonic Integrated Circuits",
+      "year": 2006,
+      "citation_raw": "Davanco, AM Xing, JW Raring, Hu, and DJ Blumenthal. (May) 2006. “Compact Broadband Photonic Crystal Filters With Reduced Back-Reflections for Monolithic InP-Based Photonic Integrated Circuits”. IEEE PHOTONICS TECHNOLOGY LETTERS 18: 1155-57. doi:10.1109/LPT.2006.874729.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Self-Tuned Quantum Dot Gain in Photonic Crystal Lasers",
+      "year": 2006,
+      "citation_raw": "Strauf, Hennessy, Rakher, YS Choi, Badolato, LC Andreani, Hu, Petroff, and Bouwmeester. (March) 2006. “Self-Tuned Quantum Dot Gain in Photonic Crystal Lasers”. PHYSICAL REVIEW LETTERS 96. doi:10.1103/PhysRevLett.96.127404.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Photonic-Crystal GaN Light-Emitting Diodes With Tailored Guided Modes Distribution",
+      "year": 2006,
+      "citation_raw": "David, Fujii, Sharma, McGroddy, Nakamura, SP DenBaars, Hu, Weisbuch, and Benisty. (February) 2006. “Photonic-Crystal GaN Light-Emitting Diodes With Tailored Guided Modes Distribution”. APPLIED PHYSICS LETTERS 88. doi:10.1063/1.2171475.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Nano-Patterned Liquid Metal Electrode for the Synthesis of Novel Prussian Blue Nanotubes and Nanowires",
+      "year": 2006,
+      "citation_raw": "Ravindran, KV Singh, GTS Andavan, Ozkan, Gao, Hu, and CS Ozkan. (February) 2006. “Nano-Patterned Liquid Metal Electrode for the Synthesis of Novel Prussian Blue Nanotubes and Nanowires”. NANOTECHNOLOGY 17: 714-18. doi:10.1088/0957-4484/17/3/016.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Frequency Control of Photonic Crystal Membrane Resonators by Monolayer Deposition",
+      "year": 2006,
+      "citation_raw": "Strauf, Rakher, Carmeli, Hennessy, Meier, Badolato, MJA DeDood, et al. (January) 2006. “Frequency Control of Photonic Crystal Membrane Resonators by Monolayer Deposition”. APPLIED PHYSICS LETTERS 88. doi:10.1063/1.2164922.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Visible Resonant Modes in GaN-Based Photonic Crystal Membrane Cavities",
+      "year": 2006,
+      "citation_raw": "Meier, Hennessy, ED Haberer, Sharma, YS Choi, McGroddy, Keller, SP DenBaars, Nakamura, and Hu. (January) 2006. “Visible Resonant Modes in GaN-Based Photonic Crystal Membrane Cavities”. APPLIED PHYSICS LETTERS 88. doi:10.1063/1.2166680.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "GaN Blue Photonic Crystal Membrane Nanocavities",
+      "year": 2005,
+      "citation_raw": "Choi, YS, Hennessy, Sharma, Haberer, Gao, SP DenBaars, Nakamura, Hu, and Meier. (December) 2005. “GaN Blue Photonic Crystal Membrane Nanocavities”. APPLIED PHYSICS LETTERS 87. doi:10.1063/1.2147713.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Spin Dynamics in Electrochemically Charged CdSe Quantum Dots",
+      "year": 2005,
+      "citation_raw": "Stern, NP, Poggio, MH Bartl, Hu, GD Stucky, and Awschalom. (October) 2005. “Spin Dynamics in Electrochemically Charged CdSe Quantum Dots”. PHYSICAL REVIEW B 72. doi:10.1103/PhysRevB.72.161303.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Removal of Thick (> 100 Nm) InGaN Layers for Optical Devices Using Band-Gap-Selective Photoelectrochemical Etching",
+      "year": 2004,
+      "citation_raw": "Haberer, ED, Sharma, AR Stonas, Nakamura, SP DenBaars, and Hu. (August) 2004. “Removal of Thick (> 100 Nm) InGaN Layers for Optical Devices Using Band-Gap-Selective Photoelectrochemical Etching”. APPLIED PHYSICS LETTERS 85: 762-64. doi:10.1063/1.1776615.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Activated 3-Dimensional Titania Nanostructures for Optoelectronic and Photonic Applications",
+      "year": 2004,
+      "citation_raw": "Bartl, MH, KL Frindell, Hu, and GD Stucky. (August) 2004. “Activated 3-Dimensional Titania Nanostructures for Optoelectronic and Photonic Applications.”. ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 228: U27.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "InP Photonic Crystal Membrane Structures: Fabrication Accuracy and Optical Performance",
+      "year": 2004,
+      "citation_raw": "Xing, AM, Darvanco, DJ Blumenthal, and Hu. (July) 2004. “InP Photonic Crystal Membrane Structures: Fabrication Accuracy and Optical Performance”. APPLIED PHYSICS LETTERS 85: 522-24. doi:10.1063/1.1776336.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Roughening Hexagonal Surface Morphology on Laser Lift-off (LLO) N-Face GaN With Simple Photo-Enhanced Chemical Wet Etching",
+      "year": 2004,
+      "citation_raw": "Gao, Fujii, Sharma, Fujito, SP DenBaars, Nakamura, and Hu. (May) 2004. “Roughening Hexagonal Surface Morphology on Laser Lift-off (LLO) N-Face GaN With Simple Photo-Enhanced Chemical Wet Etching”. JAPANESE JOURNAL OF APPLIED PHYSICS PART 2-LETTERS & EXPRESS LETTERS 43: L637-L639. doi:10.1143/JJAP.43.L637.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Dislocation- and Crystallographic-Dependent Photoelectrochemical Wet Etching of Gallium Nitride",
+      "year": 2004,
+      "citation_raw": "Gao, MD Craven, Speck, SP DenBaars, and Hu. (April) 2004. “Dislocation- and Crystallographic-Dependent Photoelectrochemical Wet Etching of Gallium Nitride”. APPLIED PHYSICS LETTERS 84: 3322-24. doi:10.1063/1.1719281.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Increase in the Extraction Efficiency of GaN-Based Light-Emitting Diodes via Surface Roughening",
+      "year": 2004,
+      "citation_raw": "Fujii, Gao, Sharma, Hu, SP DenBaars, and Nakamura. (February) 2004. “Increase in the Extraction Efficiency of GaN-Based Light-Emitting Diodes via Surface Roughening”. APPLIED PHYSICS LETTERS 84: 855-57. doi:10.1063/1.1645992.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Lasing Emission of InGaAs Quantum Dot Microdisk Diodes",
+      "year": 2004,
+      "citation_raw": "Zhang, LD, and Hu. (January) 2004. “Lasing Emission of InGaAs Quantum Dot Microdisk Diodes”. IEEE PHOTONICS TECHNOLOGY LETTERS 16: 6-8. doi:10.1109/LPT.2003.818920.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Fabrication of InP-Based Two-Dimensional Photonic Crystal Membrane",
+      "year": 2004,
+      "citation_raw": "Xing, Davanco, DJ Blumenthal, and Hu. (January) 2004. “Fabrication of InP-Based Two-Dimensional Photonic Crystal Membrane”. JOURNAL OF VACUUM SCIENCE & TECHNOLOGY B 22: 70-73. doi:10.1116/1.1635848.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Square-Lattice Photonic Crystal Microcavities for Coupling to Single InAs Quantum Dots",
+      "year": 2003,
+      "citation_raw": "Hennessy, Reese, Badolato, Wang, Imamoglu, Petroff, Hu, Jin, Shi, and DW Prather. (November) 2003. “Square-Lattice Photonic Crystal Microcavities for Coupling to Single InAs Quantum Dots”. APPLIED PHYSICS LETTERS 83: 3650-52. doi:10.1063/1.1623319.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Fabrication of High Q Square-Lattice Photonic Crystal Microcavities",
+      "year": 2003,
+      "citation_raw": "Hennessy, Reese, Badolato, Wang, Imamoglu, Petroff, and Hu. (November) 2003. “Fabrication of High Q Square-Lattice Photonic Crystal Microcavities”. JOURNAL OF VACUUM SCIENCE & TECHNOLOGY B 21: 2918-21. doi:10.1116/1.1629298.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "N-AlGaAs/P-GaAs/N-GaN/Heterojunction/Bipolar/Transistor/Wafer-Fused/at/550-750/Degrees/C",
+      "year": 2003,
+      "citation_raw": "Estrada, Huntington, Stonas, Xing, Mishra, DenBaars, Coldren, and Hu. (July) 2003. “N-AlGaAs/P-GaAs/N-GaN/Heterojunction/Bipolar/Transistor/Wafer-Fused/at/550-750/Degrees/C”. APPLIED PHYSICS LETTERS 83: 560-62. doi:10.1063/1.1592887.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Cavity-Quantum Electrodynamics With Quantum Dots",
+      "year": 2003,
+      "citation_raw": "Kiraz, Reese, Gayral, LD Zhang, WV Schoenfeld, BD Gerardot, Petroff, Hu, and Imamoglu. (April) 2003. “Cavity-Quantum Electrodynamics With Quantum Dots”. JOURNAL OF OPTICS B-QUANTUM AND SEMICLASSICAL OPTICS 5: 129-37. doi:10.1088/1464-4266/5/2/303.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Fabrication of High-Q Nanobeam Photonic Crystals in Epitaxially Grown 4H-SiC",
+      "year": 2015,
+      "citation_raw": "Bracher, David O., and Evelyn L. Hu. 2015. “Fabrication of High-Q Nanobeam Photonic Crystals in Epitaxially Grown 4H-SiC”. Nano Letters 15 (9): 6202-7. doi:10.1021/acs.nanolett.5b02542.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Ultra-Low Threshold Gallium Nitride Photonic Crystal Nanobeam Laser",
+      "year": 2015,
+      "citation_raw": "Niu, Nan, Alexander Woolf, Danqing Wang, Tongtong Zhu, Qimin Quan, Rachel A. Oliver, and Evelyn L. Hu. 2015. “Ultra-Low Threshold Gallium Nitride Photonic Crystal Nanobeam Laser”. Appl. Phys. Lett. 106 (23).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Large-Area Fabrication of TiN Nanoantenna Arrays for Refractory Plasmonics in the Mid-Infrared by Femtosecond Direct Laser Writing and Interference Lithography",
+      "year": 2015,
+      "citation_raw": "Bagheri, S., C. Zgrabik, T. Gissibl, A. Tittl, F. Sterl, R. Walter, A. Berrier, et al. 2015. “Large-Area Fabrication of TiN Nanoantenna Arrays for Refractory Plasmonics in the Mid-Infrared by Femtosecond Direct Laser Writing and Interference Lithography”. Optical Materials Express 5 (11): 2625-33.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Large-Area Fabrication of TiN Nanoantenna Arrays for Refractory Plasmonics in the Mid-Infrared by Femtosecond Direct Laser Writing and Interference Lithography",
+      "year": 2015,
+      "citation_raw": "Bagheri, S., C. Zgrabik, T. Gissibl, A. Tittl, F. Sterl, R. Walter, A. Berrier, et al. 2015. “Large-Area Fabrication of TiN Nanoantenna Arrays for Refractory Plasmonics in the Mid-Infrared by Femtosecond Direct Laser Writing and Interference Lithography”. Optical Materials Express 5 (11): 2625-33. picture_as_pdf 2015_408_tin_antennas.pdf",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Two-Dimensional Hybrid Photonic Plasmonic Crystal Cavities",
+      "year": 2014,
+      "citation_raw": "Liu, Tsung-Li, Kasey Russell, Shanying Cui, and Evelyn Hu. 2014. “Two-Dimensional Hybrid Photonic Plasmonic Crystal Cavities”. Optics Express 22 (7): 8219-25.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "The Structure–function Relationships of a Natural Nanoscale Photonic Device in Cuttlefish Chromatophores",
+      "year": 2014,
+      "citation_raw": "Deravi, Leila, Andrew Magyar, Sean Sheehy, George Bell, Lydia Mathger, Stephen Senft, Trevor Wardill, et al. 2014. “The Structure–function Relationships of a Natural Nanoscale Photonic Device in Cuttlefish Chromatophores”. Journal of The Royal Society Interface 11 (93).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Deterministic Coupling of Delta-Doped Nitrogen Vacancy Centers to a Nanobeam Photonic Crystal Cavity",
+      "year": 2014,
+      "citation_raw": "Lee, Jonathan, David Bracher, Shanying Cui, Kenichi Ohno, Claire McLellan, Xingyu Zhang, Paolo Andrich, et al. 2014. “Deterministic Coupling of Delta-Doped Nitrogen Vacancy Centers to a Nanobeam Photonic Crystal Cavity”. Applied Physics Letters 105 (26).",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "John Joo Thesis Defense",
+      "year": 2013,
+      "citation_raw": "add_circle_outline Publisher's Version “John Joo Thesis Defense”. (May) 2013.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Homoepitaxial Growth of Single Crystal Diamond Membranes for Quantum Information Processing",
+      "year": 2012,
+      "citation_raw": "Aharonovich, Igor, Jonathan Lee, Andrew Magyar, Bob Buckley, Christopher Yale, David Awschalom, and Evelyn Hu. (March) 2012. “Homoepitaxial Growth of Single Crystal Diamond Membranes for Quantum Information Processing”. ADVANCED MATERIALS 24: OP54-OP59. doi:10.1002/adma.201103932.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Strongly Correlated Photons on a Chip",
+      "year": 2012,
+      "citation_raw": "Reinhard, Andreas, Thomas Volz, Martin Winger, Antonio Badolato, Kevin Hennessy, Evelyn Hu, and Atac Imamoglu. (February) 2012. “Strongly Correlated Photons on a Chip”. NATURE PHOTONICS 6: 93-96. doi:10.1038/NPHOTON.2011.321.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Controlled Tuning of Whispering Gallery Modes of GaN InGaN Microdisk Cavities",
+      "year": 2011,
+      "citation_raw": "Aharonovich, Igor, Nan Niu, Fabian Rol, Kasey Russell, Alexander Woolf, Haitham El-Ella, Menno Kappers, Rachel Oliver, and Evelyn Hu. (September) 2011. “Controlled Tuning of Whispering Gallery Modes of GaN InGaN Microdisk Cavities”. APPLIED PHYSICS LETTERS 99. doi:10.1063/1.3640211.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Fabrication of Thin, Luminescent, Single-Crystal Diamond Membranes",
+      "year": 2011,
+      "citation_raw": "Magyar, Andrew, Jonathan Lee, Andi Limarga, Igor Aharonovich, Fabian Rol, David Clarke, Mengbing Huang, and Evelyn Hu. (August) 2011. “Fabrication of Thin, Luminescent, Single-Crystal Diamond Membranes”. APPLIED PHYSICS LETTERS 99. doi:10.1063/1.3628463.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Lasing Properties of InP (Ga0.51In0.49)P Quantum Dots in Microdisk Cavities",
+      "year": 2011,
+      "citation_raw": "Witzany, Rossbach, Schulz, Jetter, Michler, Liu, Hu, Wiersig, and Jahnke. (May) 2011. “Lasing Properties of InP (Ga0.51In0.49)P Quantum Dots in Microdisk Cavities”. PHYSICAL REVIEW B 83. doi:10.1103/PhysRevB.83.205305.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "InGaN Super-Lattice Growth for Fabrication of Quantum Dot Containing Microdisks",
+      "year": 2011,
+      "citation_raw": "El-Ella, Rol, Collins, Kappers, Taylor, Hu, and Oliver. (April) 2011. “InGaN Super-Lattice Growth for Fabrication of Quantum Dot Containing Microdisks”. JOURNAL OF CRYSTAL GROWTH 321: 113-19. doi:10.1016/j.jcrysgro.2011.02.012.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Dislocation Density-Dependent Quality Factors in InGaN Quantum Dot Containing Microdisks",
+      "year": 2011,
+      "citation_raw": "El-Ella, Rol, Kappers, Russell, Hu, and Oliver. (March) 2011. “Dislocation Density-Dependent Quality Factors in InGaN Quantum Dot Containing Microdisks”. APPLIED PHYSICS LETTERS 98. doi:10.1063/1.3567545.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Directionality Control through Selective Excitation of Low-Order Guided Modes in Thin-Film InGaN Photonic Crystal Light-Emitting Diodes",
+      "year": 2011,
+      "citation_raw": "Rangel, Elizabeth, Elison Matioli, Yong-Seok Choi, Claude Weisbuch, James Speck, and Evelyn Hu. (February) 2011. “Directionality Control through Selective Excitation of Low-Order Guided Modes in Thin-Film InGaN Photonic Crystal Light-Emitting Diodes”. APPLIED PHYSICS LETTERS 98. doi:10.1063/1.3554417.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Gap-Mode Plasmonic Nanocavity",
+      "year": 2010,
+      "citation_raw": "Russell, Kasey, and Evelyn Hu. (October) 2010. “Gap-Mode Plasmonic Nanocavity”. APPLIED PHYSICS LETTERS 97. doi:10.1063/1.3505154.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Interplay of Cavity Thickness and Metal Absorption in Thin-Film InGaN Photonic Crystal Light-Emitting Diodes",
+      "year": 2010,
+      "citation_raw": "Rangel, Elizabeth, Elison Matioli, Hung-Tse Chen, Yong-Seok Choi, Claude Weisbuch, James Speck, and Evelyn Hu. (August) 2010. “Interplay of Cavity Thickness and Metal Absorption in Thin-Film InGaN Photonic Crystal Light-Emitting Diodes”. APPLIED PHYSICS LETTERS 97. doi:10.1063/1.3480421.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Measurement of Extraction and Absorption Parameters in GaN-Based Photonic-Crystal Light-Emitting Diodes",
+      "year": 2010,
+      "citation_raw": "Matioli, Elison, Blaise Fleury, Elizabeth Rangel, Evelyn Hu, James Speck, and Claude Weisbuch. (March) 2010. “Measurement of Extraction and Absorption Parameters in GaN-Based Photonic-Crystal Light-Emitting Diodes”. JOURNAL OF APPLIED PHYSICS 107. doi:10.1063/1.3309837.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "High Extraction Efficiency Light-Emitting Diodes Based on Embedded Air-Gap Photonic-Crystals",
+      "year": 2010,
+      "citation_raw": "Matioli, Elison, Elizabeth Rangel, Micheal Iza, Blaise Fleury, Nathan Pfaff, James Speck, Evelyn Hu, and Claude Weisbuch. (January) 2010. “High Extraction Efficiency Light-Emitting Diodes Based on Embedded Air-Gap Photonic-Crystals”. APPLIED PHYSICS LETTERS 96. doi:10.1063/1.3293442.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Microtubule-Based Gold Nanowires and Nanowire Arrays",
+      "year": 2008,
+      "citation_raw": "Zhou, Jing, Yao Gao, Alfredo Martinez-Molares, Xiaoye Jing, Dong Yan, Joseph Lau, Toshikazu Hamasaki, et al. (September) 2008. “Microtubule-Based Gold Nanowires and Nanowire Arrays”. SMALL 4: 1507-15. doi:10.1002/smll.200701187.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "GaN/InGaN/Light/Emitting/Diodes/With/Embedded/Photonic/Crystal/Obtained/by/Lateral/Epitaxial/Overgrowth",
+      "year": 2008,
+      "citation_raw": "David, Aurelien, Brendan Moran, Kelly McGroddy, Elison Matioli, Evelyn Hu, Steven DenBaars, Shuji Nakamura, and Claude Weisbuchb. (March) 2008. “GaN/InGaN/Light/Emitting/Diodes/With/Embedded/Photonic/Crystal/Obtained/by/Lateral/Epitaxial/Overgrowth”. APPLIED PHYSICS LETTERS 92. doi:10.1063/1.2898513.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Fabrication and Characterization of Two-Dimensional Photonic Crystal Microcavities in Nanocrystalline Diamond",
+      "year": 2007,
+      "citation_raw": "Wang, Hanson, Awschalom, Hu, Feygelson, Yang, and Butler. (November) 2007. “Fabrication and Characterization of Two-Dimensional Photonic Crystal Microcavities in Nanocrystalline Diamond”. APPLIED PHYSICS LETTERS 91. doi:10.1063/1.2813023.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Synthesis, Characterization, and Optical Properties of Ordered Arrays of III-Nitride Nanocrystals",
+      "year": 2007,
+      "citation_raw": "Bhaviripudi, Sreekar, Jifa Qi, Evelyn Hu, and Angela Belcher. (November) 2007. “Synthesis, Characterization, and Optical Properties of Ordered Arrays of III-Nitride Nanocrystals”. NANO LETTERS 7: 3512-17. doi:10.1021/nl072129d.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Gallium-Nitride-Based Microcavity Light-Emitting Diodes With Air-Gap Distributed Bragg Reflectors",
+      "year": 2007,
+      "citation_raw": "Sharma, Rajat, Yong-Seok Choi, Chiou-Fu Wang, Aurelien David, Claude Weisbuch, Shuji Nakamura, and Evelyn Hu. (November) 2007. “Gallium-Nitride-Based Microcavity Light-Emitting Diodes With Air-Gap Distributed Bragg Reflectors”. APPLIED PHYSICS LETTERS 91. doi:10.1063/1.2805028.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "2.5 Lambda Microcavity InGaN Light-Emitting Diodes Fabricated by a Selective Dry-Etch Thinning Process",
+      "year": 2007,
+      "citation_raw": "Choi, Yong-Seok, Michael Iza, Elison Matioli, Gregor Koblmueller, James Speck, Claude Weisbuch, and Evelyn Hu. (August) 2007. “2.5 Lambda Microcavity InGaN Light-Emitting Diodes Fabricated by a Selective Dry-Etch Thinning Process”. APPLIED PHYSICS LETTERS 91. doi:10.1063/1.2769397.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Evolution of the Onset of Coherence in a Family of Photonic Crystal Nanolasers",
+      "year": 2007,
+      "citation_raw": "Choi, Rakher, Hennessy, Strauf, Badolato, Petroff, Bouwmeester, and Hu. (July) 2007. “Evolution of the Onset of Coherence in a Family of Photonic Crystal Nanolasers”. APPLIED PHYSICS LETTERS 91. doi:10.1063/1.2751131.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Fabrication of Suspended Single Crystal Diamond Devices by Electrochemical Etch",
+      "year": 2007,
+      "citation_raw": "Wang, Hu, Yang, and Butler. (May) 2007. “Fabrication of Suspended Single Crystal Diamond Devices by Electrochemical Etch”. JOURNAL OF VACUUM SCIENCE & TECHNOLOGY B 25: 730-33. doi:10.1116/1.2731327.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Dispersive Phase Response in Optical Waveguide-Resonator System",
+      "year": 2007,
+      "citation_raw": "Choi, Davanco, Lee, Wang, Mack, Blumenthal, and Hu. (May) 2007. “Dispersive Phase Response in Optical Waveguide-Resonator System”. APPLIED PHYSICS LETTERS 90. doi:10.1063/1.2737913.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Quantum Nature of a Strongly Coupled Single Quantum Dot-Cavity System",
+      "year": 2007,
+      "citation_raw": "Hennessy, Badolato, Winger, Gerace, Atatuere, Gulde, Faelt, Hu, and Imamoglu. (February) 2007. “Quantum Nature of a Strongly Coupled Single Quantum Dot-Cavity System”. NATURE 445: 896-99. doi:10.1038/nature05586.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Observation of Whispering Gallery Modes in Nanocrystalline Diamond Microdisks",
+      "year": 2007,
+      "citation_raw": "Wang, Choi, Lee, Hu, Yang, and Butler. (February) 2007. “Observation of Whispering Gallery Modes in Nanocrystalline Diamond Microdisks”. APPLIED PHYSICS LETTERS 90. doi:10.1063/1.2709626.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Room-Temperature Continuous-Wave Lasing in GaN InGaN Microdisks",
+      "year": 2007,
+      "citation_raw": "Tamboli, Adele, Elaine Haberer, Rajat Sharma, Kwan Lee, Shuji Nakamura, and Evelyn Hu. (January) 2007. “Room-Temperature Continuous-Wave Lasing in GaN InGaN Microdisks”. NATURE PHOTONICS 1: 61-64. doi:10.1038/nphoton.2006.52.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Transmission Measurement of Tapered Single-Line Defect Photonic Crystal Waveguides",
+      "year": 2005,
+      "citation_raw": "Xing, AM, Davanco, DJ Blumenthal, and Hu. (October) 2005. “Transmission Measurement of Tapered Single-Line Defect Photonic Crystal Waveguides”. IEEE PHOTONICS TECHNOLOGY LETTERS 17: 2092-94. doi:10.1109/LPT.2005.856418.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Photonic Bands in Two-Dimensionally Patterned Multimode GaN Waveguides for Light Extraction",
+      "year": 2005,
+      "citation_raw": "David, Meier, Sharma, FS Diana, SP DenBaars, Hu, Nakamura, Weisbuch, and Benisty. (September) 2005. “Photonic Bands in Two-Dimensionally Patterned Multimode GaN Waveguides for Light Extraction”. APPLIED PHYSICS LETTERS 87. doi:10.1063/1.2039987.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Photon Statistics from Coupled Quantum Dots",
+      "year": 2005,
+      "citation_raw": "Gerardot, BD, Strauf, MJA DeDood, AM Bychkov, Badolato, Hennessy, Hu, Bouwmeester, and Petroff. (September) 2005. “Photon Statistics from Coupled Quantum Dots”. PHYSICAL REVIEW LETTERS 95. doi:10.1103/PhysRevLett.95.137403.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Vertically Oriented GaN-Based Air-Gap Distributed Bragg Reflector Structure Fabricated Using Band-Gap-Selective Photoelectrochemical Etching",
+      "year": 2005,
+      "citation_raw": "Sharma, ED Haberer, Meier, Hu, and Nakamura. (August) 2005. “Vertically Oriented GaN-Based Air-Gap Distributed Bragg Reflector Structure Fabricated Using Band-Gap-Selective Photoelectrochemical Etching”. APPLIED PHYSICS LETTERS 87. doi:10.1063/1.2008380.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Programmable Assembly of Nanoarchitectures Using Genetically Engineered Viruses",
+      "year": 2005,
+      "citation_raw": "Huang, CY Chiang, SK Lee, Gao, Hu, De Yoreo, and AM Belcher. (July) 2005. “Programmable Assembly of Nanoarchitectures Using Genetically Engineered Viruses”. NANO LETTERS 5: 1429-34. doi:10.1021/nl050795d.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Tuning Photonic Crystal Nanocavity Modes by Wet Chemical Digital Etching",
+      "year": 2005,
+      "citation_raw": "Hennessy, Badolato, Tamboli, Petroff, Hu, Atature, Dreiser, and Imamoglu. (July) 2005. “Tuning Photonic Crystal Nanocavity Modes by Wet Chemical Digital Etching”. APPLIED PHYSICS LETTERS 87. doi:10.1063/1.1992656.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Detailed Characterization of Slow and Dispersive Propagation Near a Mini-Stop-Band of an InP Photonic Crystal Waveguide",
+      "year": 2005,
+      "citation_raw": "Davanco, AM Xing, Raring, Hu, and DJ Blumenthal. (June) 2005. “Detailed Characterization of Slow and Dispersive Propagation Near a Mini-Stop-Band of an InP Photonic Crystal Waveguide.”. OPTICS EXPRESS 13: 4931-38. doi:10.1364/OPEX.13.004931.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Deterministic Coupling of Single Quantum Dots to Single Nanocavity Modes",
+      "year": 2005,
+      "citation_raw": "Badolato, Hennessy, Atature, Dreiser, Hu, Petroff, and Imamoglu. (May) 2005. “Deterministic Coupling of Single Quantum Dots to Single Nanocavity Modes”. SCIENCE 308: 1158-61. doi:10.1126/science.1109815.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Optimization of AlGaN GaN Current Aperture Vertical Electron Transistor (CAVET) Fabricated by Photoelectrochemical Wet Etching",
+      "year": 2004,
+      "citation_raw": "Gao, Ben-Yaacov, UK Mishra, and Hu. (December) 2004. “Optimization of AlGaN GaN Current Aperture Vertical Electron Transistor (CAVET) Fabricated by Photoelectrochemical Wet Etching”. JOURNAL OF APPLIED PHYSICS 96: 6925-27. doi:10.1063/1.1806281.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Free-Standing, Optically Pumped, GaN InGaN Microdisk Lasers Fabricated by Photoelectrochemical Etching",
+      "year": 2004,
+      "citation_raw": "Haberer, ED, Sharma, Meier, AR Stonas, Nakamura, SP DenBaars, and Hu. (November) 2004. “Free-Standing, Optically Pumped, GaN InGaN Microdisk Lasers Fabricated by Photoelectrochemical Etching”. APPLIED PHYSICS LETTERS 85: 5179-81. doi:10.1063/1.1829167.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Optical Properties of Single InAs Quantum Dots in Close Proximity to Surfaces",
+      "year": 2004,
+      "citation_raw": "Wang, Badolato, Wilson-Rae, Petroff, Hu, Urayama, and Imamoglu. (October) 2004. “Optical Properties of Single InAs Quantum Dots in Close Proximity to Surfaces”. APPLIED PHYSICS LETTERS 85: 3423-25. doi:10.1063/1.1806251.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Dye-Activated Hybrid Organic Inorganic Mesostructured Titania Waveguides",
+      "year": 2004,
+      "citation_raw": "Bartl, MH, SW Boettcher, Hu, and GD Stucky. (September) 2004. “Dye-Activated Hybrid Organic Inorganic Mesostructured Titania Waveguides”. JOURNAL OF THE AMERICAN CHEMICAL SOCIETY 126: 10826-27. doi:10.1021/ja0480771.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Wafer-Fused AlGaAs GaAs GaN Heterojunction Bipolar Transistor",
+      "year": 2003,
+      "citation_raw": "Estrada, HL Xing, Stonas, Huntington, Mishra, DenBaars, Coldren, and Hu. (February) 2003. “Wafer-Fused AlGaAs GaAs GaN Heterojunction Bipolar Transistor”. APPLIED PHYSICS LETTERS 82: 820-22. doi:10.1063/1.1541946.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Lasing from InGaAs Quantum Dots in an Injection Microdisk",
+      "year": 2003,
+      "citation_raw": "Zhang, LD, and Hu. (January) 2003. “Lasing from InGaAs Quantum Dots in an Injection Microdisk”. APPLIED PHYSICS LETTERS 82: 319-21. doi:10.1063/1.1538312.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "AlGaN/GaN/Current/Aperture/Vertical/Electron/Transistors/Fabricated/by/Photoelectrochemical/Wet/Etching",
+      "year": 2003,
+      "citation_raw": "Gao, AR Stonas, Ben-Yaacov, Mishra, SP DenBaars, and Hu. (January) 2003. “AlGaN/GaN/Current/Aperture/Vertical/Electron/Transistors/Fabricated/by/Photoelectrochemical/Wet/Etching”. ELECTRONICS LETTERS 39: 148-49. doi:10.1049/el:20030018.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Microstructure of GaAs GaN Interfaces Produced by Direct Wafer Fusion",
+      "year": 2002,
+      "citation_raw": "Jasinski, Liliental-Weber, Estrada, and Hu. (October) 2002. “Microstructure of GaAs GaN Interfaces Produced by Direct Wafer Fusion”. APPLIED PHYSICS LETTERS 81: 3152-54. doi:10.1063/1.1515116.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Coherent Coupling Dynamics in a Quantum-Dot Microdisk Laser",
+      "year": 2002,
+      "citation_raw": "Young, DK, Zhang, Awschalom, and Hu. (August) 2002. “Coherent Coupling Dynamics in a Quantum-Dot Microdisk Laser”. PHYSICAL REVIEW B 66. doi:10.1103/PhysRevB.66.081307.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Photon Correlation Spectroscopy of a Single Quantum Dot",
+      "year": 2002,
+      "citation_raw": "Kiraz, Falth, Becher, Gayral, WV Schoenfeld, Petroff, Zhang, Hu, and Imamoglu. (April) 2002. “Photon Correlation Spectroscopy of a Single Quantum Dot”. PHYSICAL REVIEW B 65. doi:10.1103/PhysRevB.65.161303.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Cavity-Quantum Electrodynamics Using a Single InAs Quantum Dot in a Microdisk Structure",
+      "year": 2001,
+      "citation_raw": "Kiraz, Michler, Becher, Gayral, Imamoglu, LD Zhang, Hu, WV Schoenfeld, and Petroff. (June) 2001. “Cavity-Quantum Electrodynamics Using a Single InAs Quantum Dot in a Microdisk Structure”. APPLIED PHYSICS LETTERS 78: 3932-34. doi:10.1063/1.1379987.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Spin Coherence and Dephasing in GaN",
+      "year": 2001,
+      "citation_raw": "Beschoten, Johnston-Halperin, DK Young, Poggio, JE Grimaldi, Keller, SP DenBaars, UK Mishra, Hu, and Awschalom. (March) 2001. “Spin Coherence and Dephasing in GaN”. PHYSICAL REVIEW B 63: art. no.-121202. doi:10.1103/PhysRevB.63.121202.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "A Quantum Dot Single-Photon Turnstile Device",
+      "year": 2000,
+      "citation_raw": "Michler, Kiraz, Becher, WV Schoenfeld, Petroff, LD Zhang, Hu, and Imamoglu. (December) 2000. “A Quantum Dot Single-Photon Turnstile Device”. SCIENCE 290: 2282+. doi:10.1126/science.290.5500.2282.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Selection of Peptides With Semiconductor Binding Specificity for Directed Nanocrystal Assembly",
+      "year": 2000,
+      "citation_raw": "Whaley, SR, DS English, Hu, PF Barbara, and AM Belcher. (June) 2000. “Selection of Peptides With Semiconductor Binding Specificity for Directed Nanocrystal Assembly”. NATURE 405: 665-68.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Emission Mechanisms of Bulk GaN and InGaN Quantum Wells Prepared by Lateral Epitaxial Overgrowth",
+      "year": 1999,
+      "citation_raw": "Chichibu, SF, Marchand, MS Minsky, Keller, PT Fini, JP Ibbetson, SB Fleischer, et al. (March) 1999. “Emission Mechanisms of Bulk GaN and InGaN Quantum Wells Prepared by Lateral Epitaxial Overgrowth”. APPLIED PHYSICS LETTERS 74: 1460-62. doi:10.1063/1.123581.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Effective Band Gap Inhomogeneity and Piezoelectric Field in InGaN GaN Multiquantum Well Structures",
+      "year": 1998,
+      "citation_raw": "Chichibu, SF, AC Abare, MS Minsky, Keller, SB Fleischer, JE Bowers, Hu, et al. (October) 1998. “Effective Band Gap Inhomogeneity and Piezoelectric Field in InGaN GaN Multiquantum Well Structures”. APPLIED PHYSICS LETTERS 73: 2006-8. doi:10.1063/1.122350.",
+      "source_url": "https://hugroup.seas.harvard.edu/publications?page=11"
+    }
+  ]
 }

@@ -3,15 +3,20 @@
   "university_key": "stanford",
   "pi": "Marc Levenston",
   "lab_name": "Soft Tissue Biomechanics Laboratory (STBL)",
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:53:43.435Z",
-  "coverage_notes": [
+  "lab_url": "http://design.stanford.edu/spdl/",
+  "publication_urls": [
+    "http://design.stanford.edu/spdl/"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Official department lab directory lists Marc Levenston under STBL, not Smart Product Design Laboratory. Evidence: https://me.stanford.edu/research-impact/labs",
     "Verified lab website not identified on official profile; lab discovery pending.",
     "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending.",
     "Official roster destination SPDL Home Page opened. Automation body selector failed; this is a tool limitation, not a blocked website. Publications not reached, no full-site stage assigned."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
   "status": "partial",
   "papers": []
 }

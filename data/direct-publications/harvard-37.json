@@ -7,11 +7,543 @@
   "publication_urls": [
     "https://vijay.seas.harvard.edu/publications"
   ],
-  "accessed_at": "2026-11-11T13:52:56.843Z",
-  "coverage_notes": [
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
     "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Machine Learning Systems",
+      "year": 2026,
+      "citation_raw": "PDF → IEEE Micro 2026 Machine Learning Systems Breaking Tiny Machine Learning: Why Quantized Neural Networks Need Domain-Specific Security Analysis.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2026,
+      "citation_raw": "PDF → CoRR 2026 Machine Learning Systems See it to Place it: Evolving Macro Placements with Vision-Language Models.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2025,
+      "citation_raw": "PDF → NeurIPS 2025 Machine Learning Systems Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2025,
+      "citation_raw": "PDF → Nat. Mac. Intell. 2025 Machine Learning Systems Materiality and risk in the age of pervasive AI sensors.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2025,
+      "citation_raw": "PDF → HPCA 2025 Computer Architecture Machine Learning Systems MLPerf Power: Benchmarking the Energy Efficiency of Machine Learning Systems from &#956;Watts to MWatts for Sustainable AI.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2025,
+      "citation_raw": "PDF → IEEE Des. Test 2025 Machine Learning Systems Robust Methods for Deep-Learning Training.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2024,
+      "citation_raw": "PDF → CoRR 2024 Machine Learning Systems Materiality and Risk in the Age of Pervasive AI Sensors.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2024,
+      "citation_raw": "PDF → CoRR 2024 Computer Architecture Machine Learning Systems MLPerf Power: Benchmarking the Energy Efficiency of Machine Learning Systems from Microwatts to Megawatts for Sustainable AI.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2024,
+      "citation_raw": "PDF → IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2024 Machine Learning Systems Autonomous Agents Silent Data Corruption in Robot Operating System: A Case for End-to-End System-Level Fault Analysis Using Autonomous UAVs.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2024,
+      "citation_raw": "PDF → AAAI Spring Symposia 2024 Computer Architecture Machine Learning Systems TinyML4D: Scaling Embedded Machine Learning Education in the Developing World.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2023,
+      "citation_raw": "PDF → ACM J. Emerg. Technol. Comput. Syst. 2023 Machine Learning Systems An Electro-Photonic System for Accelerating Deep Neural Networks.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2023,
+      "citation_raw": "PDF → NeurIPS 2023 Machine Learning Systems DataPerf: Benchmarks for Data-Centric AI Development.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2023,
+      "citation_raw": "PDF → IEEE Trans. Neural Networks Learn. Syst. 2023 Machine Learning Systems Deep Reinforcement Learning for Cyber Security.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots",
+      "year": 2023,
+      "citation_raw": "PDF → ISCA 2023 Computer Architecture Autonomous Agents RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2023,
+      "citation_raw": "PDF → IEEE Micro 2023 Machine Learning Systems Special Issue on TinyML.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "VaPr: Variable-Precision Tensors to Accelerate Robot Motion Planning",
+      "year": 2023,
+      "citation_raw": "PDF → IROS 2023 Autonomous Agents VaPr: Variable-Precision Tensors to Accelerate Robot Motion Planning.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "VaPr: Variable-Precision Tensors to Accelerate Robot Motion Planning",
+      "year": 2023,
+      "citation_raw": "PDF → CoRR 2023 Autonomous Agents VaPr: Variable-Precision Tensors to Accelerate Robot Motion Planning.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2022,
+      "citation_raw": "PDF → IEEE Des. Test 2022 Computer Architecture Machine Learning Systems A Survey on Machine Learning Accelerators and Evolutionary Hardware Platforms.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2022,
+      "citation_raw": "PDF → CoRR 2022 Machine Learning Systems Autonomous Agents FastML Science Benchmarks: Accelerating Real-Time Scientific Edge Machine Learning.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "GRiD: GPU-Accelerated Rigid Body Dynamics with Analytical Gradients",
+      "year": 2022,
+      "citation_raw": "PDF → ICRA 2022 Computer Architecture GRiD: GPU-Accelerated Rigid Body Dynamics with Analytical Gradients.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "RobotCore: An Open Architecture for Hardware Acceleration in ROS 2",
+      "year": 2022,
+      "citation_raw": "PDF → IROS 2022 Computer Architecture Autonomous Agents RobotCore: An Open Architecture for Hardware Acceleration in ROS 2.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "RobotCore: An Open Architecture for Hardware Acceleration in ROS 2",
+      "year": 2022,
+      "citation_raw": "PDF → CoRR 2022 Computer Architecture Autonomous Agents RobotCore: An Open Architecture for Hardware Acceleration in ROS 2.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Robotic Computing on FPGAs: Current Progress, Research Challenges, and Opportunities",
+      "year": 2022,
+      "citation_raw": "PDF → AICAS 2022 Computer Architecture Autonomous Agents Robotic Computing on FPGAs: Current Progress, Research Challenges, and Opportunities.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Robotic Computing on FPGAs: Current Progress, Research Challenges, and Opportunities",
+      "year": 2022,
+      "citation_raw": "PDF → CoRR 2022 Computer Architecture Autonomous Agents Robotic Computing on FPGAs: Current Progress, Research Challenges, and Opportunities.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2022,
+      "citation_raw": "PDF → NeurIPS 2022 Machine Learning Systems The Dollar Street Dataset: Images Representing the Geographic and Socioeconomic Diversity of the World.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2022,
+      "citation_raw": "PDF → AICAS 2022 Machine Learning Systems Autonomous Agents Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2022,
+      "citation_raw": "PDF → CoRR 2022 Machine Learning Systems Autonomous Agents Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA",
+      "year": 2021,
+      "citation_raw": "PDF → IEEE Robotics Autom. Lett. 2021 Computer Architecture Autonomous Agents Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2021,
+      "citation_raw": "PDF → Mach. Learn. 2021 Machine Learning Systems Autonomous Agents Air Learning: a deep reinforcement learning gym for autonomous aerial robot visual navigation.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "AutoSoC: Automating Algorithm-SOC Co-design for Aerial Robots",
+      "year": 2021,
+      "citation_raw": "PDF → CoRR 2021 Autonomous Agents AutoSoC: Automating Algorithm-SOC Co-design for Aerial Robots.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Erratum to &#34;Predictive Guardbanding: Program-Driven Timing Margin Reduction for GPUs&#34;",
+      "year": 2021,
+      "citation_raw": "PDF → IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2021 Computer Architecture Erratum to &#34;Predictive Guardbanding: Program-Driven Timing Margin Reduction for GPUs&#34;.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2021,
+      "citation_raw": "PDF → ICML 2021 Machine Learning Systems Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2021,
+      "citation_raw": "PDF → CoRR 2021 Machine Learning Systems Autonomous Agents Machine Learning-Based Automated Design Space Exploration for Autonomous Aerial Robots.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2021,
+      "citation_raw": "PDF → NeurIPS Datasets and Benchmarks 2021 Machine Learning Systems MLPerf Tiny Benchmark.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2021,
+      "citation_raw": "PDF → NeurIPS Datasets and Benchmarks 2021 Machine Learning Systems Multilingual Spoken Words Corpus.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Predictive Guardbanding: Program-Driven Timing Margin Reduction for GPUs",
+      "year": 2021,
+      "citation_raw": "PDF → IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2021 Computer Architecture Predictive Guardbanding: Program-Driven Timing Margin Reduction for GPUs.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity",
+      "year": 2021,
+      "citation_raw": "PDF → DAC 2021 Autonomous Agents RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity",
+      "year": 2021,
+      "citation_raw": "PDF → CoRR 2021 Autonomous Agents RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Sniffy Bug: A Fully Autonomous Swarm of Gas-Seeking Nano Quadcopters in Cluttered Environments",
+      "year": 2021,
+      "citation_raw": "PDF → IROS 2021 Autonomous Agents Sniffy Bug: A Fully Autonomous Swarm of Gas-Seeking Nano Quadcopters in Cluttered Environments.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2021,
+      "citation_raw": "PDF → NeurIPS Datasets and Benchmarks 2021 Machine Learning Systems The People's Speech: A Large-Scale Diverse English Speech Recognition Dataset for Commercial Usage.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "The Role of Compute in Autonomous Micro Aerial Vehicles: Optimizing for Mission Time and Energy Efficiency",
+      "year": 2021,
+      "citation_raw": "PDF → ACM Trans. Comput. Syst. 2021 Computer Architecture Autonomous Agents The Role of Compute in Autonomous Micro Aerial Vehicles: Optimizing for Mission Time and Energy Efficiency.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2021,
+      "citation_raw": "PDF → IEEE Micro 2021 Computer Architecture Machine Learning Systems The Vision Behind MLPerf: Understanding AI Inference Performance.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Tiny Robot Learning (tinyRL) for Source Seeking on a Nano Quadcopter",
+      "year": 2021,
+      "citation_raw": "PDF → ICRA 2021 Autonomous Agents Tiny Robot Learning (tinyRL) for Source Seeking on a Nano Quadcopter.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2021,
+      "citation_raw": "PDF → CoRR 2021 Machine Learning Systems Widening Access to Applied Machine Learning with TinyML.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2020,
+      "citation_raw": "PDF → CoRR 2020 Machine Learning Systems AI Tax: The Hidden Cost of AI Data Center Applications.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2020,
+      "citation_raw": "PDF → HPCA 2020 Computer Architecture Machine Learning Systems Missing the Forest for the Trees: End-to-End AI Application Performance in Edge Data Centers.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2020,
+      "citation_raw": "PDF → IEEE Micro 2020 Computer Architecture Machine Learning Systems MLPerf: An Industry Standard Benchmark Suite for Machine Learning Performance.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2020,
+      "citation_raw": "PDF → IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2020 Computer Architecture Machine Learning Systems Voltage-Stacked Power Delivery Systems: Reliability, Efficiency, and Power Management.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2019,
+      "citation_raw": "PDF → ACM Trans. Comput. Syst. 2019 Machine Learning Systems AI Tax: The Hidden Cost of AI Data Center Applications.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2019,
+      "citation_raw": "PDF → IEEE Comput. Archit. Lett. 2019 Computer Architecture Machine Learning Systems Asymmetric Resilience for Accelerator-Rich Systems.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2019,
+      "citation_raw": "PDF → CoRR 2019 Machine Learning Systems GLADAS: Gesture Learning for Advanced Driver Assistance Systems.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2019,
+      "citation_raw": "PDF → VEE 2019 Computer Architecture Machine Learning Systems Tail latency in node.js: energy efficient turbo boosting for long latency requests in event-driven web services.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2018,
+      "citation_raw": "PDF → IEEE Micro 2018 Machine Learning Systems Domain-Specific Approximation for Object Detection.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2018,
+      "citation_raw": "PDF → DAC 2018 Computer Architecture Machine Learning Systems Efficient and reliable power delivery in voltage-stacked manycore system with hybrid charge-recycling regulators.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2018,
+      "citation_raw": "PDF → IEEE Micro 2018 Machine Learning Systems Two Billion Devices and Counting.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Voltage-Stacked GPUs: A Control Theory Driven Cross-Layer Solution for Practical Voltage Stacking in GPUs",
+      "year": 2018,
+      "citation_raw": "PDF → MICRO 2018 Computer Architecture Autonomous Agents Voltage-Stacked GPUs: A Control Theory Driven Cross-Layer Solution for Practical Voltage Stacking in GPUs.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2017,
+      "citation_raw": "PDF → IEEE Micro 2017 Machine Learning Systems Autonomous Agents Cognitive Computing Safety: The New Horizon for Reliability / The Design and Evolution of Deep Learning Workloads.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Flying IoT: Toward Low-Power Vision in the Sky",
+      "year": 2017,
+      "citation_raw": "PDF → IEEE Micro 2017 Computer Architecture Flying IoT: Toward Low-Power Vision in the Sky.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2017,
+      "citation_raw": "PDF → DAC 2017 Machine Learning Systems Ivory: Early-Stage Design Space Exploration Tool for Integrated Voltage Regulators.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Optimizing General-Purpose CPUs for Energy-Efficient Mobile Web Computing",
+      "year": 2017,
+      "citation_raw": "PDF → ACM Trans. Comput. Syst. 2017 Computer Architecture Optimizing General-Purpose CPUs for Energy-Efficient Mobile Web Computing.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2017,
+      "citation_raw": "PDF → CGO 2017 Machine Learning Systems Proceedings of the 2017 International Symposium on Code Generation and Optimization, CGO 2017, Austin, TX, USA, February 4-8, 2017",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Storage on Your SmartPhone Uses More Energy Than You Think",
+      "year": 2017,
+      "citation_raw": "PDF → HotStorage 2017 Computer Architecture Storage on Your SmartPhone Uses More Energy Than You Think.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ti-States: Power Management in Active Timing Margin Processors",
+      "year": 2017,
+      "citation_raw": "PDF → IEEE Micro 2017 Computer Architecture Ti-States: Power Management in Active Timing Margin Processors.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "GreenWeb: language extensions for energy-efficient mobile web computing",
+      "year": 2016,
+      "citation_raw": "PDF → PLDI 2016 Computer Architecture GreenWeb: language extensions for energy-efficient mobile web computing.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Mobile CPU's rise to power: Quantifying the impact of generational mobile CPU design trends on performance, energy, and user satisfaction",
+      "year": 2016,
+      "citation_raw": "PDF → HPCA 2016 Computer Architecture Mobile CPU's rise to power: Quantifying the impact of generational mobile CPU design trends on performance, energy, and user satisfaction.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2016,
+      "citation_raw": "PDF → IEEE Micro 2016 Machine Learning Systems On the Internet of Things.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Event-based scheduling for energy-efficient QoS (eQoS) in mobile Web applications",
+      "year": 2015,
+      "citation_raw": "PDF → HPCA 2015 Computer Architecture Event-based scheduling for energy-efficient QoS (eQoS) in mobile Web applications.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "GPU voltage noise: Characterization and hierarchical smoothing of spatial and temporal voltage noise interference in GPU architectures",
+      "year": 2015,
+      "citation_raw": "PDF → HPCA 2015 Computer Architecture GPU voltage noise: Characterization and hierarchical smoothing of spatial and temporal voltage noise interference in GPU architectures.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2015,
+      "citation_raw": "PDF → MICRO 2015 Machine Learning Systems Microarchitectural implications of event-driven server-side web applications.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Safe limits on voltage reduction efficiency in GPUs: a direct measurement approach",
+      "year": 2015,
+      "citation_raw": "PDF → MICRO 2015 Computer Architecture Safe limits on voltage reduction efficiency in GPUs: a direct measurement approach.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "The Role of the CPU in Energy-Efficient Mobile Web Browsing",
+      "year": 2015,
+      "citation_raw": "PDF → IEEE Micro 2015 Computer Architecture The Role of the CPU in Energy-Efficient Mobile Web Browsing.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Exploiting Webpage Characteristics for Energy-Efficient Mobile Web Browsing",
+      "year": 2014,
+      "citation_raw": "PDF → IEEE Comput. Archit. Lett. 2014 Computer Architecture Exploiting Webpage Characteristics for Energy-Efficient Mobile Web Browsing.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2014,
+      "citation_raw": "PDF → ISLPED 2014 Computer Architecture Machine Learning Systems GPUVolt: modeling and characterizing voltage noise in GPU architectures.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "GPUWattch: enabling energy optimizations in GPGPUs",
+      "year": 2013,
+      "citation_raw": "PDF → ISCA 2013 Computer Architecture GPUWattch: enabling energy optimizations in GPGPUs.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2013,
+      "citation_raw": "PDF → HPCA 2013 Computer Architecture Machine Learning Systems High-performance and energy-efficient mobile web browsing on big/little systems.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Reliability-Aware Microarchitecture Design",
+      "year": 2013,
+      "citation_raw": "PDF → IEEE Micro 2013 Computer Architecture Reliability-Aware Microarchitecture Design.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Resilient Architecture Design for Voltage Variation",
+      "year": 2013,
+      "citation_raw": "PDF → Unknown Venue 2013 Computer Architecture Resilient Architecture Design for Voltage Variation",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Mobile processors for energy-efficient web search",
+      "year": 2011,
+      "citation_raw": "PDF → ACM Trans. Comput. Syst. 2011 Computer Architecture Mobile processors for energy-efficient web search.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Resilient Architectures via Collaborative Design: Maximizing Commodity Processor Performance in the Presence of Variations",
+      "year": 2011,
+      "citation_raw": "PDF → IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 2011 Computer Architecture Resilient Architectures via Collaborative Design: Maximizing Commodity Processor Performance in the Presence of Variations.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Voltage Noise in Production Processors",
+      "year": 2011,
+      "citation_raw": "PDF → IEEE Micro 2011 Computer Architecture Voltage Noise in Production Processors.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2010,
+      "citation_raw": "PDF → ACM Trans. Archit. Code Optim. 2010 Machine Learning Systems Eliminating voltage emergencies via software-guided code transformations.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2010,
+      "citation_raw": "PDF → IEEE Micro 2010 Machine Learning Systems Predicting Voltage Droops Using Recurring Program and Microarchitectural Event Activity.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Voltage Smoothing: Characterizing and Mitigating Voltage Noise in Production Processors via Software-Guided Thread Scheduling",
+      "year": 2010,
+      "citation_raw": "PDF → MICRO 2010 Computer Architecture Voltage Smoothing: Characterizing and Mitigating Voltage Noise in Production Processors via Software-Guided Thread Scheduling.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "An event-guided approach to reducing voltage noise in processors",
+      "year": 2009,
+      "citation_raw": "PDF → DATE 2009 Computer Architecture An event-guided approach to reducing voltage noise in processors.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "PLR: A Software Approach to Transient Fault Tolerance for Multicore Architectures",
+      "year": 2009,
+      "citation_raw": "PDF → IEEE Trans. Dependable Secur. Comput. 2009 Computer Architecture Autonomous Agents PLR: A Software Approach to Transient Fault Tolerance for Multicore Architectures.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Machine Learning Systems",
+      "year": 2009,
+      "citation_raw": "PDF → HPCA 2009 Machine Learning Systems Voltage emergency prediction: Using signatures to reduce operating margins.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Persistent Code Caching: Exploiting Code Reuse Across Executions and Applications",
+      "year": 2007,
+      "citation_raw": "PDF → CGO 2007 Autonomous Agents Persistent Code Caching: Exploiting Code Reuse Across Executions and Applications.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Dynamic-Compiler-Driven Control for Microprocessor Energy and Performance",
+      "year": 2006,
+      "citation_raw": "PDF → IEEE Micro 2006 Computer Architecture Autonomous Agents Dynamic-Compiler-Driven Control for Microprocessor Energy and Performance.",
+      "source_url": "https://vijay.seas.harvard.edu/publications"
+    }
+  ]
 }

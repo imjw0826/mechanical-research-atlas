@@ -4,21 +4,26 @@
   "pi": "Juan G. Santiago",
   "lab_name": "Microfluidics Laboratory",
   "lab_url": "https://microfluidics.stanford.edu/",
-  "publication_urls": [],
-  "accessed_at": "2026-11-12T13:54:46.344Z",
-  "coverage_notes": [
-    "Publication links discovered: ",
-    "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending.",
-    "Actual publication page inspected in browser. All visible source text saved; conservative citation containers extracted. Remaining nested pages, pagination and field parsing not yet fully verified.",
-    "Official Publications link redirects to Google Scholar, an excluded aggregate source. No publications imported; official publication list not reached."
+  "publication_urls": [
+    "https://microfluidics.stanford.edu/"
   ],
-  "status": "partial",
-  "papers": [],
   "source_page_manifest": [
     {
       "url": "https://scholar.google.com/citations?hl=en&user=sT29z7QAAAAJ&view_op=list_works&sortby=pubdate",
       "captured_at": "2026-11-12T13:54:46.344Z",
       "visible_text_file": "stanford-28.visible.txt"
     }
-  ]
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Publication links discovered: ",
+    "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending.",
+    "Actual publication page inspected in browser. All visible source text saved; conservative citation containers extracted. Remaining nested pages, pagination and field parsing not yet fully verified.",
+    "Official Publications link redirects to Google Scholar, an excluded aggregate source. No publications imported; official publication list not reached."
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "status": "partial",
+  "papers": []
 }

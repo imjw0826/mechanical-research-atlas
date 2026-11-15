@@ -3,15 +3,10 @@
   "university_key": "mit",
   "pi": "Triantaphyllos R Akylas",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:47:47.611Z",
-  "coverage_notes": [
-    "Official MechE profile inspected. Full laboratory publications navigation and extraction not yet completed; resume from saved discovered_links. No inference from roster beyond identifying requested subject.",
-    "Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block."
+  "lab_url": "https://meche.mit.edu/people/faculty/TRAKYLAS@MIT.EDU",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/TRAKYLAS@MIT.EDU"
   ],
-  "status": "partial",
-  "papers": [],
   "profile_url": "https://meche.mit.edu/people/faculty/TRAKYLAS@MIT.EDU",
   "discovered_links": [
     {
@@ -54,5 +49,15 @@
       "text": "",
       "url": "http://www.mit.edu/"
     }
-  ]
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Official MechE profile inspected. Full laboratory publications navigation and extraction not yet completed; resume from saved discovered_links. No inference from roster beyond identifying requested subject.",
+    "Official faculty profile uses alternate Meet the People layout, not Faculty Details. Profile reachable; publication retrieval remains pending, not an access block."
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "status": "partial",
+  "papers": []
 }

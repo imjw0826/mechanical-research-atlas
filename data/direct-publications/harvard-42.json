@@ -4,12 +4,348 @@
   "pi": "Shriya Srinivasan",
   "lab_name": null,
   "lab_url": "https://bioniclab.seas.harvard.edu/",
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:53:28.385Z",
-  "coverage_notes": [
+  "publication_urls": [
+    "https://bioniclab.seas.harvard.edu/publications/"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Lab homepage preserved; full publication path not yet resolved.",
     "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "npj Digital Medicine",
+      "year": 2026,
+      "citation_raw": "R. Mondal, L. Zhu, A. Muneer, H. Al-Isa, J. Ramesh, A. Purohit, B. Ranger, D. Lagier, S. Kumar, V. Arora, A. Sharma, P. Bare, N. Kothari, S. Srinivasan npj Digital Medicine 2026 Directed functional reinnervation to curb nociception and enable sensation",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2026 American Academy of Pain Medicine consensus guidelines on neuromodulation technologies and neurocomputer interfaces for pain management and functional recovery",
+      "year": 2026,
+      "citation_raw": "L. Zhu, B. R. Johnston, V. Tereshenko, J. D. Bernstock, S. C. Liu, A. M. Madinger, P. M. Pariseau, A. S. Dowlatshahi, K. R. Eberlin, S. S. Srinivasan iScience 2026 American Academy of Pain Medicine consensus guidelines on neuromodulation technologies and neurocomputer interfaces for pain management and functional recovery",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2026 Transforming healthcare through in-body bioelectronic systems",
+      "year": 2026,
+      "citation_raw": "T. Emerick, K. E. Vorenkamp, V. T. Francio, S. Srinivasan, P. Singla, J. Castellanos, F. M. Ahadian, Z. Chen, A. L. Gianlorenco, D. Sarno, N. Sehgal, N. Murthy, A. M. Barreveld Pain Medicine 2026 Transforming healthcare through in-body bioelectronic systems",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2026 A platform for near real-time and multiplexed monitoring of cerebral fluid biomarkers and flow in neurocritical care",
+      "year": 2026,
+      "citation_raw": "S. Ceto, S. Elshove, M. Wu, K. Ramadi, C. Tondera, I. Minev, S. Srinivasan, K. Lee, M. Gora, J. Rogers, C. Kathe, & T. Hudson Nature Communications 2026 A platform for near real-time and multiplexed monitoring of cerebral fluid biomarkers and flow in neurocritical care",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Science Translational Medicine",
+      "year": 2025,
+      "citation_raw": "F. Keyvani, L. M. Muller, N. Fudge, B.Maclean, A. Saini, J. Khatri, T. Kriesen, M. Wittstock, F. Gessler, R. Langer, J. D. Bernstock, S. Srinivasan, & M. Poudineh Science Translational Medicine 2025 Leveraging Interventional Radiology Techniques for Minimally Invasive Neuromodulation",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Journal of Vascular and Interventional Radiology",
+      "year": 2025,
+      "citation_raw": "P. Pariseau, M. Halac, S. Iqbal, S. Srinivasan Journal of Vascular and Interventional Radiology 2025 Gastrointestinal neuroprosthesis for motility and metabolic neuromodulation",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2025 Gastrointestinal neuromuscular interfaces: Bioelectronic device design for gastrointestinal motility",
+      "year": 2025,
+      "citation_raw": "S. Srinivasan, M. Antonini, A. Alshareef, A. Sahasrabudhe, S. Jenkins, K. Ishida, J. Kuosmanen, A. Hayward, S. Min, R. Langer, P. Anikeeva, G. Traverso Nature Communications 2025 Gastrointestinal neuromuscular interfaces: Bioelectronic device design for gastrointestinal motility",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2025 Unlocking the Gut’s Brain with Ingestible Bioelectronics",
+      "year": 2025,
+      "citation_raw": "K. Liu, A.E. Biju, A. Alshareef, S. Liu, B. Kuo, S. Srinivasan Device 2025 Unlocking the Gut’s Brain with Ingestible Bioelectronics",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Shadid,, A, Azadian, B, Mayrsohn, A, Kwon, Z, Hirani, U, Osuagwu, J, Bird, C, Gilligan, B, Darnall, K, Williams, W. M, Hooten, S, Srinivasan",
+      "year": 2025,
+      "citation_raw": "S. Hirani, P. Vu, M. Halac, S. Bohacek, B. Benkli, D. Jevotovsky, J. Vega, A. Hirani, V. Orhurhu, C. Odonkor, J. Ehrenfeld, I. Shadid,, A. Azadian, B. Mayrsohn, A. Kwon, Z. Hirani, U. Osuagwu, J. Bird, C. Gilligan, B. Darnall, K. Williams, W. M. Hooten, S. Srinivasan Pain Medicine 2025 The Case for Neurosurgical Intervention in Cancer Neuroscience",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2024 Luminal electrophysiological neuroprofiling system for gastrointestinal neuromuscular diseases",
+      "year": 2024,
+      "citation_raw": "J. Bernstock, J. V. E. Gerstl, J. A. Chen, B. R. Johnston, L. F Nonnenbroich, L. Spanehl, F. A Gessler, P. A. Valdes, Y. Lu, S. S. Srinivasan, T. R. Smith, P. Peruzzi, J. D. Rolston, S. Stone, E. A. Chiocca Neurosurgery 2024 Luminal electrophysiological neuroprofiling system for gastrointestinal neuromuscular diseases",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2024 Resting state neurophysiology of agonist–antagonist myoneural interface in persons with transtibial amputation",
+      "year": 2024,
+      "citation_raw": "S. S. Srinivasan, S. Liu, R. Hotta, S. Bhave, A. Alshareef, B. Ying, G. Selsing, J. Kuosmanen, K. Ishida, S. Jenkins, W. A. M. Madani, A. Hayward, N. Fabian, A. M. Goldstein, G. Traverso Device 2024 Resting state neurophysiology of agonist–antagonist myoneural interface in persons with transtibial amputation",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2024 Closed-loop automated drug infusion regulator: A clinically translatable, closed-loop drug delivery system for personalized drug dosing",
+      "year": 2024,
+      "citation_raw": "L. A. Chicos, D. Rangaprakash, S. S. Srinivasan, S. Gutierrez-Arango, H. Song, R. L. Barry & H. M. Herr Scientific Reports 2024 Closed-loop automated drug infusion regulator: A clinically translatable, closed-loop drug delivery system for personalized drug dosing",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2024 Transient, Image-Guided Gel-Dissection for Percutaneous Thermal Ablation",
+      "year": 2024,
+      "citation_raw": "S. S. Srinivasan, A. Venkatasubramanian, R. North, P. Konrad Neuromodulation 2024 Transient, Image-Guided Gel-Dissection for Percutaneous Thermal Ablation",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Advanced Healthcare Materials",
+      "year": 2024,
+      "citation_raw": "K. Liu, M. Russo, J. S. Ellis, J. DiCapua, D. Wu, S. Smolinski-Zhao, S. Kalva, R. S. Arellano, Z. Irani, R. Uppot, S. W. Linderman, R. Gupta, J. Aizenberg, S. Srinivasan, A. Som Advanced Healthcare Materials 2024 Leveraging next-generation materials for cancer neuroscience therapies in the central nervous system",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Nature Review Materials",
+      "year": 2024,
+      "citation_raw": "J. D. Bernstock, B. R. Johnston, G. K. Friedman, E. A. Chiocca, R. Langer, S. S. Srinivasan Nature Review Materials 2024 An ingestible self-propelling device for intestinal reanimation",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2023 A Vibrating Ingestible BioElectronic Stimulator Modulates Gastric Stretch Receptors for Illusory Satiety",
+      "year": 2023,
+      "citation_raw": "S. S. Srinivasan, J. Dosso, H. Huang, G. Selsing, A. Alshareef, J. Kuosmanen, K. Ishida, J. Jenkins, W. A. M. Madani, A. Hayward, G. Traverso Science Robotics 2023 A Vibrating Ingestible BioElectronic Stimulator Modulates Gastric Stretch Receptors for Illusory Satiety.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2023 Digitization and access-conscious engineering increase access to prostheses",
+      "year": 2023,
+      "citation_raw": "S. S. Srinivasan, A. Alshareef, A. Hwang, C. Bryne, J. Kuosmann, K. Ishida, J. Jenkins, S. Liu, W. A. M. Madani, A. M. Hayward, N. Fabian, G. Traverso Science Advances 2023 Digitization and access-conscious engineering increase access to prostheses.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2023 Implantable microdevices for treating brain tumors",
+      "year": 2023,
+      "citation_raw": "A. Cherian, S. Srinivasan Nature Bioengineering 2023 Implantable microdevices for treating brain tumors.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2023 Actuated tissue engineered muscle grafts restore functional mobility after volumetric muscle loss",
+      "year": 2023,
+      "citation_raw": "A. G. Yearley, R. V. Patel, S. E. Blitz, S. Park, A. M. Madinger, J. Li, B. R. Johnston, P. P. Peruzzi, S. Lee, S. S. Srinivasan, J. D. Bernstock Device 2023 Actuated tissue engineered muscle grafts restore functional mobility after volumetric muscle loss.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2023 Transplanted ENSCs form functional connections with intestinal smooth muscle and restore colonic motility in nNOS-deficient mice",
+      "year": 2023,
+      "citation_raw": "E. Rousseau, R. Raman, T. Tamir, A. Bu, S. Srinivasan, N. Lynch, R. Langer, F. M. White, M. J. Cima Biomaterials 2023 Transplanted ENSCs form functional connections with intestinal smooth muscle and restore colonic motility in nNOS-deficient mice.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Stem Cell Research & Therapy",
+      "year": 2023,
+      "citation_raw": "R. Hotta, A. Rahman, S. Bhave, R. Stavely, W. Pan, S. Srinivasan, G. de Couto, L Rodriguez-Borlado, R. Myers, A. J. Burns, A. M. Goldstein Stem Cell Research & Therapy 2023 Adaptive conductive electrotherapeutic scaffolds for enhanced peripheral nerve regeneration and stimulation.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2022 Low-cost gastrointestinal manometry via silicone–liquid-metal pressure transducers resembling a quipu",
+      "year": 2022,
+      "citation_raw": "S. Sharma, K. Ramadi, N. Poole, S. S. Srinivasan, K. Ishida, J. Kuosmanen, J. Jenkins, F. Aghlmand, M. Swift, M. Shapiro, G. Traverso, A. Emami. Nature Electronics 2022 Low-cost gastrointestinal manometry via silicone–liquid-metal pressure transducers resembling a quipu.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Nature Biomedical Engineering",
+      "year": 2022,
+      "citation_raw": "K. Nan, S. Babaee, W. W. Chan, J. L. P. Kuosmanen, V. R. Feig, Y. Luo, S. S. Srinivasan, C. M. Patterson, A. M. Jebran, G. Traverso. Nature Biomedical Engineering 2022 RoboCap: Robotic mucus-clearing capsule for enhanced drug delivery in the gastrointestinal tract.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2022 Agonist-antagonist muscle strain in the residual limb preserves motor control and perception after amputation",
+      "year": 2022,
+      "citation_raw": "S. S. Srinivasan, A. Alshareef., A. V. Hwang, J. Kuosmanen, K. Ishida, J. Jenkins, S. Liu, W. A. M. Madani, A. Lopes, J. Morimoto, R. Langer, G. Traverso. Science Robotics 2022 Agonist-antagonist muscle strain in the residual limb preserves motor control and perception after amputation.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2022 A cutaneous mechanoneural interface for neuroprosthetic feedback",
+      "year": 2022,
+      "citation_raw": "H. Song, E. A. Israel, S. Gutierrez-Arango, A. C. Teng, S. S. Srinivasan, L. E. Freed, H. M. Herr Communications Medicine 2022 A cutaneous mechanoneural interface for neuroprosthetic feedback.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Nature Biomedical Engineering",
+      "year": 2022,
+      "citation_raw": "S. S. Srinivasan, H. M. Herr Nature Biomedical Engineering 2022 Respiratory Care Innovation in Times of Crisis.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Journal of Emergency Nursing",
+      "year": 2021,
+      "citation_raw": "S. S. Srinivasan, R. Mondal, K. B. Ramadi Journal of Emergency Nursing 2021 Powering implantable and ingestible electronics.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Advanced Functional Materials",
+      "year": 2021,
+      "citation_raw": "S. Yang, V. Sencadas, S. Sean You, N. Z. Jia, S. S. Srinivasan, H. Huang, A. E. Ahmed, J. Y. Liang, G. Traverso Advanced Functional Materials 2021 Magnetomicrometry.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2021 Pre-emptive Innovation Infrastructure for Medical Emergencies: Accelerating Healthcare Innovation in the Wake of a Global Pandemic",
+      "year": 2021,
+      "citation_raw": "C. R. Taylor, S. S. Srinivasan, S. H. Yeon, M. K. O’Donnell, T. J. Roberts, H. M. Herr Science Robotics 2021 Pre-emptive Innovation Infrastructure for Medical Emergencies: Accelerating Healthcare Innovation in the Wake of a Global Pandemic.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Frontiers in Digital Health",
+      "year": 2021,
+      "citation_raw": "K. B. Ramadi, S. S. Srinivasan Frontiers in Digital Health 2021 A crisis-responsive framework for medical device development applied to the COVID-19 pandemic.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Frontiers in Digital Health",
+      "year": 2021,
+      "citation_raw": "M. Antonini, D. Plana, S. S. Srinivasan, L. Atta, A. Achanta, H. Yang, A. K. Cramer, J. Freake, M. S. Sinha, S. H. Yu, N. R. LeBoeuf, B. Linville-Engler, P. K. Sorger Frontiers in Digital Health 2021 Neural interfacing architecture enables enhanced motor control and residual limb functionality post-amputation.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Proceedings of the National Academy of Sciences",
+      "year": 2021,
+      "citation_raw": "S. S. Srinivasan, S. Gutierrez-Arango, A. C. Teng, E. Israel, H. Song, Z. K. Bailey, M. J. Carty, L. E. Freed, H. M. Herr Proceedings of the National Academy of Sciences 2021 Agonist-antagonist myoneural interfaces in above-knee amputation preserve distal joint function and perception.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Annals of Surgery",
+      "year": 2021,
+      "citation_raw": "S. S. Srinivasan, H. M. Herr, T. R. Clites, S. Gutierrez-Arango, A. Teng, L. Beltran, H. Song, E. Israel, M. J. Carty Annals of Surgery 2021 Reinventing extremity amputation in the era of functional limb restoration.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Annals of Surgery",
+      "year": 2020,
+      "citation_raw": "H. M. Herr, T. R. Clites, S. S. Srinivasan, S. G. Talbot, G. A. Dumanian, P. S. Cederna, M. J. Carty Annals of Surgery 2020 Agonist-antagonist myoneural interface amputation preserves proprioceptive sensorimotor neurophysiology in lower limbs.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Science Translational Medicine",
+      "year": 2020,
+      "citation_raw": "S. S. Srinivasan, G. Tuckute, J. Zou, S. Gutierrez-Arango, H. Song, R. L. Barry, H. M. Herr Science Translational Medicine 2020 Electroceuticals in the Gastrointestinal Tract.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Trends in Pharmaceutical Sciences",
+      "year": 2020,
+      "citation_raw": "K. Ramadi, S. S. Srinivasan, G. Traverso Trends in Pharmaceutical Sciences 2020 Pressure based MRI-compatible muscle fascicle length and joint angle estimation.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Journal of Neuroengineering and Rehabilitation",
+      "year": 2020,
+      "citation_raw": "H. Song, E. Israel, S. S. Srinivasan, H. M. Herr Journal of Neuroengineering and Rehabilitation 2020 A rapidly deployable individualized system for augmenting ventilator capacity.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Science Translational Medicine",
+      "year": 2019,
+      "citation_raw": "S. S. Srinivasan, K. B. Ramadi, F. Vicario, D. Gwynne, A. Hayward, D. Lagier, R. Langer, J. J. Frassica, R. M. Baron, G. Traverso Science Translational Medicine 2019 Democratizing innovation through grass-roots entrepreneurship: lessons from efforts to address the opioid epidemic in the United States.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "BMJ Global Health",
+      "year": 2019,
+      "citation_raw": "S. S. Srinivasan, K. B. Ramadi, A. Ippolito, R. Atun BMJ Global Health 2019 Retinal supplementation augments optogenetic stimulation efficacy in vivo.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Journal of Neural Engineering",
+      "year": 2019,
+      "citation_raw": "S. S. Srinivasan, B. Schelhaas, B. Maimon, H. Song, H. M. Herr Journal of Neural Engineering 2019 Caprine models of the agonist-antagonist myoneural interface implemented at the above-and below-knee amputation levels.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Plastic and Reconstructive Surgery",
+      "year": 2019,
+      "citation_raw": "T. R. Clites, M. J. Carty, S. S. Srinivasan, S. G. Talbot, R. Brånemark, H. M. Herr Plastic and Reconstructive Surgery 2019 Health diplomacy through health entrepreneurship: using hackathons to address Palestinian-Israeli health concerns.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "BMJ Global Health",
+      "year": 2019,
+      "citation_raw": "K. B. Ramadi, S. S. Srinivasan, R. Atun BMJ Global Health 2019 Polyimide electrode-based electrical stimulation impedes early stage muscle graft regeneration.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Frontiers in Neurology",
+      "year": 2019,
+      "citation_raw": "S. S. Srinivasan, K. Vyas, M. McAvoy, P. Calvaresi, O. F. Khan, R. Langer, D. G. Anderson, H. M. Herr Frontiers in Neurology 2019 Towards functional restoration for persons with limb amputation: A dual-stage implementation of regenerative agonist-antagonist myoneural interfaces.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2019 Gold Nanoparticle-Based Fluorescent Theranostics for Real-Time Image-Guided Assessment of DNA Damage and Repair",
+      "year": 2019,
+      "citation_raw": "S. S. Srinivasan, M. Diaz, M. Carty, H. M. Herr Scientific Reports 2019 Gold Nanoparticle-Based Fluorescent Theranostics for Real-Time Image-Guided Assessment of DNA Damage and Repair.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "International Journal of Molecular Sciences",
+      "year": 2018,
+      "citation_raw": "S. S. Srinivasan, R. Seenivasan, A. Condie, S. L. Gerson, Y. Wang, C. Burda International Journal of Molecular Sciences 2018 Closed-loop functional optogenetic stimulation.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2018 The Ewing amputation: The first human implementation of the agonist-antagonist myoneural interface",
+      "year": 2018,
+      "citation_raw": "S. S. Srinivasan, B. E. Maimon, M. Diaz, H. Song, H. M. Herr; Nature Communications 2018 The Ewing amputation: The first human implementation of the agonist-antagonist myoneural interface.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Plastic and Reconstructive Surgery Global Open",
+      "year": 2018,
+      "citation_raw": "T. R. Clites, H. M. Herr, S. S. Srinivasan, A. N. Zorzos, M. J. Carty Plastic and Reconstructive Surgery Global Open 2018 Optogenetic peripheral nerve immunogenicity.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2018 Spectrally distinct channelrhodopsins for two-colour optogenetic peripheral nerve stimulation",
+      "year": 2018,
+      "citation_raw": "B. E. Maimon, M. Diaz, E. Revol, A. M. Schneider, B. Leaker, C. E. Varela, S. S. Srinivasan, M. B. Weber, H. M. Herr Scientific Reports 2018 Spectrally distinct channelrhodopsins for two-colour optogenetic peripheral nerve stimulation.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Nature Biomedical Engineering",
+      "year": 2018,
+      "citation_raw": "B. E. Maimon, K. Sparks, S. S. Srinivasan, A. N. Zorzos, H. M. Herr Nature Biomedical Engineering 2018 Design of a precision medication dispenser: Preventing overdose by increasing accuracy and precision of dosage.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Journal of Translational Engineering in Health and Medicine",
+      "year": 2018,
+      "citation_raw": "S. S. Srinivasan, S. N. R. Kantareddy, E. A. Nkwate, P. Meka, I. Chang, N. C. Hanumara, K. B. Ramadi Journal of Translational Engineering in Health and Medicine 2018 Proprioception from a neurally controlled lower-extremity prosthesis.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Science Translational Medicine",
+      "year": 2017,
+      "citation_raw": "T. R. Clites, M. J. Carty, J. B. Ullauri, M. E. Carney, L. M. Mooney, J. Duval, S. S. Srinivasan, H. M. Herr Science Translational Medicine 2017 On prosthetic control: A regenerative agonist-antagonist myoneural interface.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "2017 Transdermal optogenetic peripheral nerve stimulation",
+      "year": 2017,
+      "citation_raw": "S. S. Srinivasan, M. J. Carty, P. W. Calvaresi, T. R. Clites, B. E. Maimon, C. R. Taylor, A. N. Zorzos, H. M. Herr Science Robotics 2017 Transdermal optogenetic peripheral nerve stimulation.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Journal of Neural Engineering",
+      "year": 2017,
+      "citation_raw": "B. E. Maimon, A. N. Zorzos, R. Bendell, A. Harding, M. Fahmi, S. S. Srinivasan, P. Calvaresi, H. M. Herr Journal of Neural Engineering 2017 A murine model of a novel surgical architecture for proprioceptive muscle feedback and its potential application to control of advanced limb prostheses.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Journal of Neural Engineering",
+      "year": 2015,
+      "citation_raw": "T. R. Clites, M. J. Carty, S. S. Srinivasan, A. N. Zorzos, H. M. Herr Journal of Neural Engineering. 2015 Control of surface ligand density on PEGylated gold nanoparticles for optimized cancer cell uptake.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    },
+    {
+      "title": "Particle & Particle Systems Characterization",
+      "year": 2014,
+      "citation_raw": "H. Liu, T. L. Doane, Y. Cheng, F. Lu, S. S. Srinivasan, J. Zhu, C. Burda Particle & Particle Systems Characterization 2014 Observation and Photophysical Characterization of Silicon Phthalocyanine J‐Aggregate Dimers in Aqueous Solutions.",
+      "source_url": "https://bioniclab.seas.harvard.edu/publications/"
+    }
+  ]
 }

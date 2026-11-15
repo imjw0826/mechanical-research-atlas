@@ -5,27 +5,68 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp01315?ST_EMAILID=cqlai",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01315?ST_EMAILID=cqlai",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Lai-Changquan",
-      "identity_evidence": "Asst Prof Lai Changquan",
-      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
-      "website_links": [
-        {
-          "label": "Website",
-          "url": "https://personal.ntu.edu.sg/cqlai/"
-        }
-      ]
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Electrolyte additive for improving anodic stability in aqueous Zn-ion batteries, J",
+      "year": 2025,
+      "citation_raw": "Y. Guo, Y.Z. Lye, I.P. Seetoh, G.Y. Lim, W.X. Tan, C.Q. Lai, Electrolyte additive for improving anodic stability in aqueous Zn-ion batteries, J. Mater. Chem. A 13 (2025) 31604–31613. https://doi.org/10.1039/D5TA04246A.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications"
+    },
+    {
+      "title": "A science directed progressive neural network for multimodal prediction of elastoplastic behavior in composite materials, Compos",
+      "year": 2025,
+      "citation_raw": "D. Saha, L. Sun, C.Q. Lai, A science directed progressive neural network for multimodal prediction of elastoplastic behavior in composite materials, Compos. Part Appl. Sci. Manuf. 199 (2025) 109179. https://doi.org/10.1016/j.compositesa.2025.109179.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications"
+    },
+    {
+      "title": "Enhanced strength and delayed necking of architected metametals additively manufactured via laser sheet fusion, Addit, Manuf",
+      "year": 2025,
+      "citation_raw": "D.K.J. Lim, C.H. Cai, T.Z. Hsu, C.Q. Lai, Enhanced strength and delayed necking of architected metametals additively manufactured via laser sheet fusion, Addit. Manuf. 109 (2025) 104879. https://doi.org/10.1016/j.addma.2025.104879",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications"
+    },
+    {
+      "title": "Isotropic metamaterial stiffness beyond Hashin-Shtrikman upper bound, J, Mech, Phys",
+      "year": 2025,
+      "citation_raw": "M.K. Singh, C.Q. Lai, Isotropic metamaterial stiffness beyond Hashin-Shtrikman upper bound, J. Mech. Phys. Solids 200 (2025) 106130. https://doi.org/10.1016/j.jmps.2025.106130.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications"
+    },
+    {
+      "title": "Polydopamine Assisted Electroless Deposition of Strongly Adhesive NiFe Films for Flexible Spintronics",
+      "year": 2025,
+      "citation_raw": "A.K. Ramesh, X. Chen, I.P. Seetoh, G.Y. Lim, W.X. Tan, V. Thirunavukkarasu, T. Jin, W.S. Lew, C. Lai, Polydopamine Assisted Electroless Deposition of Strongly Adhesive NiFe Films for Flexible Spintronics, ACS Appl. Mater. Interfaces 17 (2025) 12805–12817. https://doi.org/10.1021/acsami.4c19118 .",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications"
+    },
+    {
+      "title": "D.K.J, Lim, J, Singham, C, Qi, C.Q, Lai, Compound nested lattices with programmable isotropy and elastic stiffness up to the theoretical limit, Compos, Part B Eng",
+      "year": 2024,
+      "citation_raw": "F. Jiang, I.P. Seetoh, H. Lee, G.Y. Lim, D.K.J. Lim, J. Singham, C. Qi, C.Q. Lai, Compound nested lattices with programmable isotropy and elastic stiffness up to the theoretical limit, Compos. Part B Eng. 284 (2024) 111656. https://doi.org/10.1016/j.compositesb.2024.111656.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications"
+    },
+    {
+      "title": "J.S.D, Jangam, C.Q, Lai, Adhesive and alloying properties of dual purpose polyfurfuryl alcohol binder for binder jet additive manufacturing of steel, Addit, Manuf",
+      "year": 2024,
+      "citation_raw": "W.X. Tan, P.-J. Chiang, L.P. Tan, R.V. Ramanujan, M.J. Tan, A. Ong, J.S.D. Jangam, C.Q. Lai, Adhesive and alloying properties of dual purpose polyfurfuryl alcohol binder for binder jet additive manufacturing of steel, Addit. Manuf. 86 (2024) 104212. https://doi.org/10.1016/j.addma.2024.104212.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications"
+    },
+    {
+      "title": "Mechanical properties of additively manufactured kraft paper lattices and paper-epoxy interpenetrating phase composites for polymer foam replacement",
+      "year": 2023,
+      "citation_raw": "G. Y. Lim, R. J. X. Kuek, J. Teo, I. P. Seetoh, and C. Q. Lai, “Mechanical properties of additively manufactured kraft paper lattices and paper-epoxy interpenetrating phase composites for polymer foam replacement,” Addit. Manuf., vol. 77, p. 103816, Sep. 2023, doi: 10.1016/j.addma.2023.103816.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "Hu, E., Seetoh, I.P. & *Lai, C. Q. Machine Learning Assisted Investigation of Defect Influence on the Mechanical Properties of Additively Manufactured Architected Materials. Int. J. Mech. Sci. 221, 107190 (2022). https://doi.org/10.1016/j.ijmecsci.2022.107190",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications"
+    }
+  ]
 }

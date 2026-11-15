@@ -3,16 +3,692 @@
   "university_key": "nus",
   "pi": "LEE Poh Seng",
   "lab_name": null,
-  "lab_url": null,
+  "lab_url": "https://blog.nus.edu.sg/coolestlab/",
   "publication_urls": [
     "https://blog.nus.edu.sg/coolestlab/publications/"
   ],
-  "accessed_at": "2026-11-11T13:56:09.549Z",
-  "coverage_notes": [
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Official page heading: CoolestLAB / HOME",
     "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
     "Publication page visible text captured; structured extraction pending."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "“Thermohydraulic analysis of a new fin pattern derived from topology optimized heat sink structures“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER",
+      "year": 2020,
+      "citation_raw": "Zeng, S., Sun, Q., & Lee, P. S. (2020). “Thermohydraulic analysis of a new fin pattern derived from topology optimized heat sink structures“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER, 147, 16 pages.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Thermal modelling and optimization of low-grade waste heat driven ejector refrigeration system incorporating a direct ejector model“",
+      "year": 2020,
+      "citation_raw": "Riaz, F., Lee, P. S., & Chou, S. K. (2020). “Thermal modelling and optimization of low-grade waste heat driven ejector refrigeration system incorporating a direct ejector model“. Applied Thermal Engineering, 167.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Thermal modelling and optimization of low-grade waste heat driven ejector refrigeration system incorporating a direct ejector model“",
+      "year": 2019,
+      "citation_raw": "Riaz, F., Lee, P. S., & Chou, S. K. (2020). “Thermal modelling and optimization of low-grade waste heat driven ejector refrigeration system incorporating a direct ejector model“. Applied Thermal Engineering, 167. DOI:10.1016/j.applthermaleng.2019.114710 Kumar, S., Sarkar, M., Singh, P. K., & Lee, P. S. (2019). “Study of thermal and hydraulic performance of air cooled minichannel heatsink with novel geometries“. International Communications in Heat and Mass Transfer, 103, 31-42.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Thermal and hydraulic analysis of aluminium oblique-tube condenser coils with plain fins manufactured by controlled atmosphere brazing“. INTERNATIONAL JOURNAL OF REFRIGERATION-REVUE INTERNATIONALE DU FROID",
+      "year": 2019,
+      "citation_raw": "Lewpiriyawong, N., Khoo, K. L., Sun, C., & Lee, P. S. (2019). “Thermal and hydraulic analysis of aluminium oblique-tube condenser coils with plain fins manufactured by controlled atmosphere brazing“. INTERNATIONAL JOURNAL OF REFRIGERATION-REVUE INTERNATIONALE DU FROID, 101, 81-89.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Experimental study of flow boiling in a hybrid microchannel-microgap heat sink“",
+      "year": 2019,
+      "citation_raw": "Mathew, J., Lee, P. S., Wu, T., & Yap, C. R. (2019). “Experimental study of flow boiling in a hybrid microchannel-microgap heat sink“. International Journal of Heat and Mass Transfer, 135, 1167-1191.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Numerical investigation of thermal and hydraulic performances of a condenser coil with oblique-shaped tubes“. INTERNATIONAL JOURNAL OF REFRIGERATION-REVUE INTERNATIONALE DU FROID",
+      "year": 2019,
+      "citation_raw": "Khoo, K. L., Lewpiriyawong, N., Sun, C., & Lee, P. S. (2019). “Numerical investigation of thermal and hydraulic performances of a condenser coil with oblique-shaped tubes“. INTERNATIONAL JOURNAL OF REFRIGERATION-REVUE INTERNATIONALE DU FROID, 103, 42-50.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Numerical investigation of thermal and hydraulic performance in novel oblique geometry using nanofluid“. NUMERICAL HEAT TRANSFER PART A-APPLICATIONS",
+      "year": 2019,
+      "citation_raw": "Tiwary, B., Kumar, R., Lee, P. S., & Singh, P. K. (2019). “Numerical investigation of thermal and hydraulic performance in novel oblique geometry using nanofluid“. NUMERICAL HEAT TRANSFER PART A-APPLICATIONS, 76(7), 533-551.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Topology optimization of liquid-cooled microchannel heat sinks: An experimental and numerical study“",
+      "year": 2019,
+      "citation_raw": "Zeng, S., & Lee, P. S. (2019). “Topology optimization of liquid-cooled microchannel heat sinks: An experimental and numerical study“. International Journal of Heat and Mass Transfer, 142.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“A numerical and experimental investigation of heat transfer and fluid flow characteristics of an air-cooled oblique-finned heat sink“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER",
+      "year": 2018,
+      "citation_raw": "Kanargi, B., Lee, P. S., & Yap, C. (2018). “A numerical and experimental investigation of heat transfer and fluid flow characteristics of an air-cooled oblique-finned heat sink“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER, 116, 393-416.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Heat Exchanger Improvement Via Curved Microfluidic Channels: Impacts of Cross-Sectional Geometry and Dean Vortex Strength“. JOURNAL OF HEAT TRANSFER-TRANSACTIONS OF THE ASME",
+      "year": 2018,
+      "citation_raw": "Marshall, S. D., Li, B., Arayanarakool, R., Lee, P. S., Balasubramaniam, L., & Chen, P. C. Y. (2018). “Heat Exchanger Improvement Via Curved Microfluidic Channels: Impacts of Cross-Sectional Geometry and Dean Vortex Strength“. JOURNAL OF HEAT TRANSFER-TRANSACTIONS OF THE ASME, 140(1), 9 pages.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Mathematical modelling and performance evaluation of a desiccant coated fin-tube heat exchanger“. APPLIED ENERGY",
+      "year": 2018,
+      "citation_raw": "Jagirdar, M., & Lee, P. S. (2018). “Mathematical modelling and performance evaluation of a desiccant coated fin-tube heat exchanger“. APPLIED ENERGY, 212, 401-415.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Experimental and numerical investigation of a mini channel forced air heat sink designed by topology optimization“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER",
+      "year": 2018,
+      "citation_raw": "Zeng, S., Kanargi, B., & Lee, P. S. (2018). “Experimental and numerical investigation of a mini channel forced air heat sink designed by topology optimization“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER, 121, 663-679.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Numerical Study of Heat Transfer Enhancement of Roll-to-Roll Microchannel Heat Exchangers“. JOURNAL OF HEAT TRANSFER-TRANSACTIONS OF THE ASME",
+      "year": 2018,
+      "citation_raw": "Wang, H., Balasubramaniam, L., Marshall, S. D., Jin, X., Arayanarakool, R., Lee, P. S., & Chen, P. C. Y. (2018). “Numerical Study of Heat Transfer Enhancement of Roll-to-Roll Microchannel Heat Exchangers“. JOURNAL OF HEAT TRANSFER-TRANSACTIONS OF THE ASME, 140(6), 8 pages.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Optimization of a fluid distribution manifold: Mechanical design, numerical studies, fabrication, and experimental verification“",
+      "year": 2018,
+      "citation_raw": "Wang, H., Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Jin, X., Lee, P. S., & Chen, P. C. Y. (2018). “Optimization of a fluid distribution manifold: Mechanical design, numerical studies, fabrication, and experimental verification“. International Journal of Fluid Machinery and Systems, 11(3), 244-254.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Rapid Prototyping of Polymer-Based Rolled-Up Microfluidic Devices“. MICROMACHINES",
+      "year": 2018,
+      "citation_raw": "Arayanarakool, R., See, H. H., Marshall, S. D., Virik, N. S., Wang, H., Lee, P. S., & Chen, P. C. Y. (2018). “Rapid Prototyping of Polymer-Based Rolled-Up Microfluidic Devices“. MICROMACHINES, 9(10), 11 pages.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Thermal enhancement of fin and tube heat exchanger with guiding channels and topology optimisation“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER",
+      "year": 2018,
+      "citation_raw": "Sun, C., Lewpiriyawong, N., Khoo, K. L., Zeng, S., & Lee, P. S. (2018). “Thermal enhancement of fin and tube heat exchanger with guiding channels and topology optimisation“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER, 127, 1001-1013.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“A diagnostic tool for detection of flow-regimes in a microchannel using transient wall temperature signal“",
+      "year": 2017,
+      "citation_raw": "Jagirdar, M., & Lee, P. S. (2017). “A diagnostic tool for detection of flow-regimes in a microchannel using transient wall temperature signal“. Applied Energy, 185, 2232-2244.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“A numerical and experimental investigation of heat transfer and fluid flow characteristics of a cross-connected alternating converging–diverging channel heat sink“",
+      "year": 2017,
+      "citation_raw": "Kanargi, O. B., Lee, P. S., & Yap, C. (2017). “A numerical and experimental investigation of heat transfer and fluid flow characteristics of a cross-connected alternating converging–diverging channel heat sink“. International Journal of Heat and Mass Transfer, 106, 449-464.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“A pump-free microfluidic 3D perfusion platform for the efficient differentiation of human hepatocyte-like cells“. BIOTECHNOLOGY AND BIOENGINEERING",
+      "year": 2017,
+      "citation_raw": "Ong, L. J. Y., Chong, L. H., Jin, L., Singh, P. K., Lee, P. S., Yu, H., . . . & Toh, Y. -C. (2017). “A pump-free microfluidic 3D perfusion platform for the efficient differentiation of human hepatocyte-like cells“. BIOTECHNOLOGY AND BIOENGINEERING, 114(10), 2360-2370.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Impact of cross-sectional geometry on mixing performance of spiral microfluidic channels characterized by swirling strength of Dean-vortices“. JOURNAL OF MICROMECHANICS AND MICROENGINEERING",
+      "year": 2017,
+      "citation_raw": "Balasubramaniam, L., Arayanarakool, R., Marshall, S. D., Li, B., Lee, P. S., & Chen, P. C. Y. (2017). “Impact of cross-sectional geometry on mixing performance of spiral microfluidic channels characterized by swirling strength of Dean-vortices“. JOURNAL OF MICROMECHANICS AND MICROENGINEERING, 27(9), 11 pages.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Methods and techniques of improving experimental testing for microfluidic heat sinks“. CASE STUDIES IN THERMAL ENGINEERING",
+      "year": 2017,
+      "citation_raw": "Marshall, S. D., Balasubramaniam, L., Arayanarakool, R., Li, B., Lee, P. S., & Chen, P. C. Y. (2017). “Methods and techniques of improving experimental testing for microfluidic heat sinks“. CASE STUDIES IN THERMAL ENGINEERING, 10, 227-233.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Study of transient heat transfer and synchronized flow visualizations during sub-cooled flow boiling in a small aspect ratio microchannel“",
+      "year": 2016,
+      "citation_raw": "Jagirdar, M., & Lee, P. S. (2016). “Study of transient heat transfer and synchronized flow visualizations during sub-cooled flow boiling in a small aspect ratio microchannel“. International Journal of Multiphase Flow, 83, 254-266.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Effects of varying oblique angles on flow boiling heat transfer and pressure characteristics in oblique-finned microchannels“",
+      "year": 2016,
+      "citation_raw": "Law, M., Kanargi, O. B., & Lee, P. S. (2016). “Effects of varying oblique angles on flow boiling heat transfer and pressure characteristics in oblique-finned microchannels“. International Journal of Heat and Mass Transfer, 100, 646-660.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Investigations on the influence of flow migration on flow and heat transfer in oblique fin microchannel array“",
+      "year": 2016,
+      "citation_raw": "Mou, N., Lee, Y. J., Lee, P. S., Singh, P. K., & Khan, S. A. (2016). “Investigations on the influence of flow migration on flow and heat transfer in oblique fin microchannel array“. Journal of Heat Transfer, 138(10).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "Investigation of fluid flow and heat transfer in wavy micro-channels with alternating secondary branches",
+      "year": 2016,
+      "citation_raw": "Chiam, Z. L., Lee, P. S., Singh, P. K., & Mou, N. (2016). “Investigation of fluid flow and heat transfer in wavy micro-channels with alternating secondary branches”. International Journal of Heat and Mass Transfer, 101, 1316-1330.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Effects of varying secondary channel widths on flow boiling heat transfer and pressure characteristics in oblique-finned microchannels“",
+      "year": 2016,
+      "citation_raw": "Law, M., & Lee, P. S. (2016). “Effects of varying secondary channel widths on flow boiling heat transfer and pressure characteristics in oblique-finned microchannels“. International Journal of Heat and Mass Transfer, 101, 313-326.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "S. A. (2016) “Coupled equivalent circuit models for fluid flow and heat transfer in large connected microchannel networks – The case of oblique fin heat exchangers, “",
+      "year": 2016,
+      "citation_raw": "Mou, N., Lee, P. S., & Khan, S. A. (2016) “Coupled equivalent circuit models for fluid flow and heat transfer in large connected microchannel networks – The case of oblique fin heat exchangers. “, International Journal of Heat and Mass Transfer 102, pp. 1056-1072.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "A parametric investigation of heat transfer and friction characteristics in cylindrical oblique fin minichannel heat sink“",
+      "year": 2015,
+      "citation_raw": "Fan, Y., Lee, P. S., Jin, L. W., Chua, B. W., & Zhang, D. C. (2015).” Corrigendum to “A parametric investigation of heat transfer and friction characteristics in cylindrical oblique fin minichannel heat sink“” [Int. J. Heat Mass Transfer 68 (2014) 567-584]. International Journal of Heat and Mass Transfer, 88, 101.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2015. “Flow boiling instability characteristics in expanding silicon microgap heat sink“",
+      "year": 2015,
+      "citation_raw": "Alam Tamanna, Poh Seng Lee, 2015. “Flow boiling instability characteristics in expanding silicon microgap heat sink“, International Journal of Heat and Mass Transfer 89, pp. 390-405.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2015. “A comparative study of experimental flow boiling heat transfer and pressure characteristics in straight- and oblique-finned microchannels“",
+      "year": 2015,
+      "citation_raw": "Matthew Law, Poh-Seng Lee, 2015. “A comparative study of experimental flow boiling heat transfer and pressure characteristics in straight- and oblique-finned microchannels“, International Journal of Heat and Mass Transfer 85, pp. 797-810.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2015. “Flow boiling heat transfer and pressure drop characteristics in expanding silicon microgap heat sink“",
+      "year": 2015,
+      "citation_raw": "Alam Tamanna, Poh Seng Lee, 2015. “Flow boiling heat transfer and pressure drop characteristics in expanding silicon microgap heat sink“, International Journal of Heat and Mass Transfer 82, pp. 1-15.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2015. “Fluid flow and heat transfer investigations on enhanced microchannel heat sink using oblique fins with parametric study“",
+      "year": 2015,
+      "citation_raw": "Yong Jiun Lee, Pawan K. Singh, Poh Seng Lee, 2015. “Fluid flow and heat transfer investigations on enhanced microchannel heat sink using oblique fins with parametric study“, International Journal of Heat and Mass Transfer 81, pp. 325-336.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2015. “Fluid flow and heat transfer investigations on enhanced microchannel heat sink using oblique fins with parametric study“",
+      "year": 2015,
+      "citation_raw": "Yong Jiun Lee, Pawan K. Singh, Poh Seng Lee, 2015. “Fluid flow and heat transfer investigations on enhanced microchannel heat sink using oblique fins with parametric study“, International Journal of Heat and Mass Transfer 81, pp. 325-336. DOI: 10.1016/j.ijheatmasstransfer.2014.10.018 Vedharaj, S., Vallinayagam, R., Yang, W. M., Saravanan, C. G., & Lee, P. S. (2015). “Optimization of combustion bowl geometry for the operation of kapok biodiesel – Diesel blends in a stationary diesel engine“. FUEL, 139, 561-567.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Performance Emission and Economic Analysis of Preheated CNSL Biodiesel as an Alternate Fuel for a Diesel Engine“. INTERNATIONAL JOURNAL OF GREEN ENERGY",
+      "year": 2015,
+      "citation_raw": "Vedharaj, S., Vallinayagam, R., Yang, W. M., Chou, S. K., Chua, K. J. E., & Lee, P. S. (2015). “Performance Emission and Economic Analysis of Preheated CNSL Biodiesel as an Alternate Fuel for a Diesel Engine“. INTERNATIONAL JOURNAL OF GREEN ENERGY, 12(4), 359-367.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Thermal Transport in Oblique Finned Micro/Minichannels“",
+      "year": 2015,
+      "citation_raw": "Fan Yan, Poh Seng Lee, Pawan Kumar Singh, Yong Jiun Lee, “Thermal Transport in Oblique Finned Micro/Minichannels“, in Springer Briefs in Applied Sciences and Technology, vol. 12. Springer, 2015.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2014. “Enhanced transport phenomenon in small scales using chaotic advection near resonance“",
+      "year": 2014,
+      "citation_raw": "H Ghaedamini, PS Lee, CJ Teo, 2014. “Enhanced transport phenomenon in small scales using chaotic advection near resonance“, International Journal of Heat and Mass Transfer 77, pp. 802-808.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2014. “Experimental investigation of flow boiling heat transfer in novel oblique-finned microchannels“",
+      "year": 2014,
+      "citation_raw": "Matthew Law, Poh-Seng Lee, Karthik Balasubramanian, 2014. “Experimental investigation of flow boiling heat transfer in novel oblique-finned microchannels“, International Journal of Heat and Mass Transfer 76, pp. 419-431.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2014. “Investigation on the influence of edge effect on flow and temperature uniformities in cylindrical oblique-finned minichannel array“",
+      "year": 2014,
+      "citation_raw": "Yan Fan, Poh Seng Lee, Beng Wah Chua, 2014. “Investigation on the influence of edge effect on flow and temperature uniformities in cylindrical oblique-finned minichannel array“, International Journal of Heat and Mass Transfer 70, pp. 651-663.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "Yan Fan,Poh Seng Lee, Li-Wen Jin, Beng Wah Chua",
+      "year": 2014,
+      "citation_raw": "Yan Fan,Poh Seng Lee, Li-Wen Jin, Beng Wah Chua, 2014. “Experimental investigation on heat transfer and pressure drop of a novel cylindrical oblique fin heat sink“, International Journal of Thermal Sciences 76, pp. 1-10.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2014. “A parametric investigation of heat transfer and friction characteristics in cylindrical oblique fin minichannel heat sink“",
+      "year": 2014,
+      "citation_raw": "Yan Fan, Poh Seng Lee, Li-Wen Jin, Beng Wah Chua, Ding-Cai Zhang, 2014. “A parametric investigation of heat transfer and friction characteristics in cylindrical oblique fin minichannel heat sink“, International Journal of Heat and Mass Transfer 68, pp. 567-584.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Ultra-thin minichannel LCP for EV battery thermal management“. APPLIED ENERGY",
+      "year": 2014,
+      "citation_raw": "Jin, L. W., Lee, P. S., Kong, X. X., Fan, Y., & Chou, S. K. (2014). “Ultra-thin minichannel LCP for EV battery thermal management“. APPLIED ENERGY, 113, 1786-1794.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Effect of adding 1,4-Dioxane with kapok biodiesel on the characteristics of a diesel engine“. APPLIED ENERGY",
+      "year": 2014,
+      "citation_raw": "Vedharaj, S., Vallinayagam, R., Yang, W. M., Chou, S. K., & Lee, P. S. (2014). “Effect of adding 1,4-Dioxane with kapok biodiesel on the characteristics of a diesel engine“. APPLIED ENERGY, 136, 1166-1173. DOI:10.1016/j.apenergy.2014.04.012",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Pine oil-biodiesel blends: A double biofuel strategy to completely eliminate the use of diesel in a diesel engine“. APPLIED ENERGY",
+      "year": 2014,
+      "citation_raw": "Vallinayagam, R., Vedharaj, S., Yang, W. M., Lee, P. S., Chua, K. J. E., & Chou, S. K. (2014). “Pine oil-biodiesel blends: A double biofuel strategy to completely eliminate the use of diesel in a diesel engine“. APPLIED ENERGY, 130, 466-473.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Experimental study and empirical correlation development of fuel properties of waste cooking palm biodiesel and its diesel blends at elevated temperatures“. RENEWABLE ENERGY",
+      "year": 2014,
+      "citation_raw": "Fahd, M. E. A., Lee, P. -S., Chou, S. K., Yang, W., & Yap, C. (2014). “Experimental study and empirical correlation development of fuel properties of waste cooking palm biodiesel and its diesel blends at elevated temperatures“. RENEWABLE ENERGY, 68, 282-288.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Flow boiling in microgap channels: experiment, visualization and analysis“",
+      "year": 2013,
+      "citation_raw": "Tamanna Alam, Poh Seng Lee, Li-Wen Jin, “Flow boiling in microgap channels: experiment, visualization and analysis“, in Springer Briefs in Applied Sciences and Technology, vol. 10. Springer, 2013.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2013. “Flow boiling heat transfer and pressure drop in stepped fin microchannels“",
+      "year": 2013,
+      "citation_raw": "K. Balasubramanian, P. S. Lee, S. K. Chou, C. J. Teo, 2013. “Flow boiling heat transfer and pressure drop in stepped fin microchannels“, International Journal of Heat and Mass Transfer 67, pp. 234–252.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2013. “Experimental investigation of flow boiling heat transfer and instabilities in straight microchannels“",
+      "year": 2013,
+      "citation_raw": "K. Balasubramanian, M. Jagirdar, P. S. Lee, S. K. Chou, C. J. Teo, 2013. “Experimental investigation of flow boiling heat transfer and instabilities in straight microchannels“, International Journal of Heat and Mass Transfer 66, pp. 655–671.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2013. “Effects of surface roughness on flow boiling in silicon microgap heat sinks“",
+      "year": 2013,
+      "citation_raw": "Tamanna Alam, Poh Seng Lee, Christopher R. Yap, 2013. “Effects of surface roughness on flow boiling in silicon microgap heat sinks“, International Journal of Heat and Mass Transfer 64, pp. 28-41.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2013. “Numerical study of fluid flow and heat transfer in the enhanced microchannel with oblique fins“",
+      "year": 2013,
+      "citation_raw": "Y.J. Lee, P.S. Lee, S.K. Chou, 2013. “Numerical study of fluid flow and heat transfer in the enhanced microchannel with oblique fins“, Journal of Heat Transfer 135 (4).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2013. “Hotspot mitigating with obliquely finned microchannel heat sink – an experimental study“",
+      "year": 2013,
+      "citation_raw": "Yong Jiun Lee, Poh Seng Lee, and Siaw Kiang Chou, 2013. “Hotspot mitigating with obliquely finned microchannel heat sink – an experimental study“, IEEE Transactions on Packaging and Manufacturing Technology (99).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2013. “A simulation and experimental study of fluid flow and heat transfer on cylindrical oblique-finned heat sink“",
+      "year": 2013,
+      "citation_raw": "Chang Quan Lai, Trong Thi Mai, H. Zheng, P.S. Lee, K.C. Leong, et al., 2013. “A simulation and experimental study of fluid flow and heat transfer on cylindrical oblique-finned heat sink“, International Journal of Heat and Mass Transfer 61, pp. 62-72.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2013. “A comparative study of flow boiling heat transfer and pressure drop characteristics in microgap and microchannel heat sink and an evaluation of microgap heat sink for hotspot mitigation“",
+      "year": 2013,
+      "citation_raw": "Tamanna Alam, Poh Seng Lee, Christopher R. Yap, Liwen Jin, 2013. “A comparative study of flow boiling heat transfer and pressure drop characteristics in microgap and microchannel heat sink and an evaluation of microgap heat sink for hotspot mitigation“, International Journal of Heat and Mass Transfer 58, pp. 335-347.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2013. “Influence of nanoscale geometry on the dynamics of wicking into a rough surface“",
+      "year": 2013,
+      "citation_raw": "Chang Quan Lai, Trong Thi Mai, H. Zheng, P.S. Lee, K.C. Leong, et al., 2013. “Influence of nanoscale geometry on the dynamics of wicking into a rough surface“, Applied Physics Letters 5 (102).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2012. “Experimental investigation and flow visualization to determine the optimum dimension range of microgap heat sink“",
+      "year": 2012,
+      "citation_raw": "Tamanna Alam, Poh Seng Lee, Christopher R. Yap, Liwen Jin, 2012. “Experimental investigation and flow visualization to determine the optimum dimension range of microgap heat sink“, International Journal of Heat and Mass Transfer 55 (2012), pp. 7623-7634.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2012. “Dynamics of wicking in silicon nanopillars fabricated with interference lithography and metal-assisted chemical etching“, Langmuir",
+      "year": 2012,
+      "citation_raw": "Mai, T.T., Lai, C.Q., Zheng, H., Balasubramanian, K., Leong, K.C., Lee, P.S., Lee, C., Choi, W.K., 2012. “Dynamics of wicking in silicon nanopillars fabricated with interference lithography and metal-assisted chemical etching“, Langmuir, 28 (31), pp. 11465-11471.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2012. “Dynamics of wicking in silicon nanopillars fabricated with interference lithography and metal-assisted chemical etching“, Langmuir",
+      "year": 2012,
+      "citation_raw": "Mai, T.T., Lai, C.Q., Zheng, H., Balasubramanian, K., Leong, K.C., Lee, P.S., Lee, C., Choi, W.K., 2012. “Dynamics of wicking in silicon nanopillars fabricated with interference lithography and metal-assisted chemical etching“, Langmuir, 28 (31), pp. 11465-11471. DOI: 10.1021/la302262g Fahd, M.E.A., Wenming, Y., Lee, P.S., Chou, S.K., Yap, C.R., 2012. “Experimental",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2012. “Ultra-thin minichannel LCP for EVs battery thermal management“",
+      "year": 2012,
+      "citation_raw": "L.W. Jin, P.S. Lee, Y. Fan, S.K. Chou, 2012. “Ultra-thin minichannel LCP for EVs battery thermal management“, International Conference of Applied Energy, 4-9 July 2012.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2012. “Experimental investigation on novel cylindrical oblique finned heat sink“",
+      "year": 2012,
+      "citation_raw": "Y. Fan, P.S. Lee, B.W. Chua, L.W. Jin, 2012. “Experimental investigation on novel cylindrical oblique finned heat sink“, International Conference of Applied Energy, 4-9 July 2012.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2012. “Enhanced thermal transport in microchannel using oblique fins“",
+      "year": 2012,
+      "citation_raw": "Y.J. Lee, P.S. Lee, S.K. Chou, 2012. “Enhanced thermal transport in microchannel using oblique fins“. Journal of Heat Transfer 134 (10) .",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2012. “Experimental investigation of local flow boiling heat transfer and pressure drop characteristics in microgap channel“",
+      "year": 2012,
+      "citation_raw": "Tamanna Alam, Poh Seng Lee, Christopher R. Yap, Liwen Jin, 2012. “Experimental investigation of local flow boiling heat transfer and pressure drop characteristics in microgap channel“. International Journal of Multiphase Flow 42 (2012) 164-174.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2012. “Experimental study and high speed visualization of flow boiling characteristics in silicon microgap heat sink“",
+      "year": 2012,
+      "citation_raw": "Tamanna Alam, Poh Seng Lee, Christopher R. Yap, Liwen Jin, 2012. “Experimental study and high speed visualization of flow boiling characteristics in silicon microgap heat sink“, ASME 2012 International Mechanical Engineering Congress & Exposition, 9-15 November 2012.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "K. Balasubramanian , P. S. Lee, L. W. Jin, S. K. Chou, C. J. Teo, S. Gao, 2011. “Experimental",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "Experimental investigations of flow boiling heat transfer and pressure drop in straight and expanding microchannels – A comparative study",
+      "year": 2011,
+      "citation_raw": "K. Balasubramanian , P. S. Lee, L. W. Jin, S. K. Chou, C. J. Teo, S. Gao, 2011. “Experimental investigations of flow boiling heat transfer and pressure drop in straight and expanding microchannels – A comparative study”, International Journal of Thermal Sciences, 50 (2011) 2413-2421.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "Enhanced heat transfer and reduced pressure drop using stepped fin microchannels",
+      "year": 2011,
+      "citation_raw": "K. Balasubramanian , P. S. Lee, L. W. Jin, S. K. Chou, C. J. Teo, S. Gao, 2011. Enhanced heat transfer and reduced pressure drop using stepped fin microchannels, 13th Electronics Packaging Technology Conference, EPTC 2011, IEEE 978-1-4577-1982-0/11, pp 653-659.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "Enhanced heat transfer and reduced pressure drop using stepped fin microchannels",
+      "year": 2011,
+      "citation_raw": "K. Balasubramanian , P. S. Lee, L. W. Jin, S. K. Chou, C. J. Teo, S. Gao, 2011. Enhanced heat transfer and reduced pressure drop using stepped fin microchannels, 13th Electronics Packaging Technology Conference, EPTC 2011, IEEE 978-1-4577-1982-0/11, pp 653-659. DOI: 10.1109/EPTC.2011.6184500 Tamanna Alam, Poh Seng Lee, Christopher R. Yap, Liwen Jin, 2011. “Experimental",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "investigation of microgap cooling technology for minimizing temperature",
+      "year": 2011,
+      "citation_raw": "investigation of microgap cooling technology for minimizing temperature gradient and mitigating hotspots in electronic devices”, 13th Electronics Packaging Technology Conference, EPTC 2011, pp 530-535.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2010. “Heat transfer characteristics during flow boiling in parallel and oblique finned microchannels“, Proc",
+      "year": 2010,
+      "citation_raw": "K. Balasubramanian, P. S. Lee, M N A Hawlader, S. Gao, 2010. “Heat transfer characteristics during flow boiling in parallel and oblique finned microchannels“, Proc. of 12th International Conference on Electronics Materials and Packaging (EMAP 2010), 25-27 October 2010, Singapore.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "K. Balasubramanian, P. S. Lee, M N A Hawlader, S. Gao, 2010. “Pressure",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "and oblique finned microchannels – A comparative study“",
+      "year": 2010,
+      "citation_raw": "and oblique finned microchannels – A comparative study“, 12th Electronics Packaging Technology Conference, EPTC 2010, IEEE art. no. 5702647, pp. 273-278.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2008. “Infrared micro-particle image velocimetry measurements and predictions of flow distribution in a microchannel heat sink“",
+      "year": 2008,
+      "citation_raw": "Jones, B. J., Lee, P. S., and Garimella, S. V., 2008. “Infrared micro-particle image velocimetry measurements and predictions of flow distribution in a microchannel heat sink“, International Journal of Heat and Mass Transfer, Vol. 51 (7-8): 1877-1887.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2008. “Saturated flow boiling heat transfer and pressure drop in silicon microchannel arrays“",
+      "year": 2008,
+      "citation_raw": "Lee, P. S., and Garimella, S. V., 2008. “Saturated flow boiling heat transfer and pressure drop in silicon microchannel arrays“, International Journal of Heat and Mass Transfer, Vol. 51 (3-4): 789-806.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2008. “Saturated flow boiling heat transfer and pressure drop in silicon microchannel arrays“",
+      "year": 2008,
+      "citation_raw": "Lee, P. S., and Garimella, S. V., 2008. “Saturated flow boiling heat transfer and pressure drop in silicon microchannel arrays“, International Journal of Heat and Mass Transfer, Vol. 51 (3-4): 789-806. DOI: 10.1016/j.ijheatmasstransfer.2007.04.019 Prior to 2008",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2006. “Thermally developing flow and heat transfer in rectangular microchannels of different aspect ratios“",
+      "year": 2006,
+      "citation_raw": "Lee, P. S., and Garimella, S. V., 2006. “Thermally developing flow and heat transfer in rectangular microchannels of different aspect ratios“, International Journal of Heat and Mass Transfer, 49 (17), 3060-3067.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2005. “Experimental investigation of heat transfer in microchannels“",
+      "year": 2005,
+      "citation_raw": "Lee, P. S., Garimella, S. V., and Liu, D., 2005. “Experimental investigation of heat transfer in microchannels“, International Journal of Heat and Mass Transfer, 48 (9), 1688-1704.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2005. “Prediction of onset of nucleate boiling in microchannels“",
+      "year": 2005,
+      "citation_raw": "Liu, D., Lee, P. S., and Garimella, S. V., 2005. “Prediction of onset of nucleate boiling in microchannels“, International Journal of Heat and Mass Transfer, 48 (25), 5134-5149.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2005. “Nucleate boiling in microchannels“",
+      "year": 2005,
+      "citation_raw": "Liu, D., Lee, P. S., and Garimella, S. V., 2005. “Nucleate boiling in microchannels“, Journal of Heat Transfer, 127 (8), 803.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Flow boiling stability improvement with periodic stepped fin microchannel heat sink“",
+      "year": 2019,
+      "citation_raw": "Mathew, J., Lee, P. S., Wu, T., & Yap, C. (2019). “Flow boiling stability improvement with periodic stepped fin microchannel heat sink“. In InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITHERM Vol. 2019-May (pp. 1098-1106).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Numerical study of a new rack layout for better cold air distribution and reduced fan power“",
+      "year": 2019,
+      "citation_raw": "Xiong, X., Fulpagare, Y., Sun, C., & Lee, P. S. (2019). “Numerical study of a new rack layout for better cold air distribution and reduced fan power“. In InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITHERM Vol. 2019-May (pp. 399-404).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Pool Boiling Heat Transfer Enhancement with Porous Fin Arrays Manufactured by Selective Laser Melting“",
+      "year": 2019,
+      "citation_raw": "Wu, T., Lee, P. S., Mathew, J., Sun, C. -N., & Aw, B. L. (2019). “Pool Boiling Heat Transfer Enhancement with Porous Fin Arrays Manufactured by Selective Laser Melting“. In PROCEEDINGS OF THE 2019 EIGHTEENTH IEEE INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS (ITHERM 2019) (pp. 1107-1114).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“A Header Design Method for Target Flow Distribution among Parallel Channels Based on Topology Optimization“",
+      "year": 2018,
+      "citation_raw": "Zeng, S., & Lee, P. S. (2018). “A Header Design Method for Target Flow Distribution among Parallel Channels Based on Topology Optimization“. In Proceedings of the 17th InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITherm 2018 (pp. 156-163).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“EVALUATION OF HEAT TRANSFER PERFORMANCE OF A SPIRAL MICROFLUIDIC HEATSINK AND HEAT EXCHANGER DEVICE“",
+      "year": 2018,
+      "citation_raw": "Virik, N. S., Marshall, S. D., Arayanarakool, R., See, H. H., Wang, H., & Lee, P. S. (2018). “EVALUATION OF HEAT TRANSFER PERFORMANCE OF A SPIRAL MICROFLUIDIC HEATSINK AND HEAT EXCHANGER DEVICE“. In PROCEEDINGS OF THE ASME 16TH INTERNATIONAL CONFERENCE ON NANOCHANNELS, MICROCHANNELS, AND MINICHANNELS, 2018 (pp. 8 pages).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Analysis of Low-Grade Waste Heat Driven Systems for Cooling and Power for Tropical Climate“, In J, Yan, S. K, Chou, H, Li, & V, Nian (Eds.)",
+      "year": 2017,
+      "citation_raw": "Riaz, F., Lee, P. S., Chou, S. K., Ranjan, R., Tay, C. S., & Chen, Soe, T. (2017). “Analysis of Low-Grade Waste Heat Driven Systems for Cooling and Power for Tropical Climate“. In J. Yan, S. K. Chou, H. Li, & V. Nian (Eds.), LEVERAGING ENERGY TECHNOLOGIES AND POLICY OPTIONS FOR LOW CARBON CITIES Vol. 143 (pp. 389-395).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Heat transfer characteristics of a polymer-based roll-to-roll microchannel heat exchanger“",
+      "year": 2017,
+      "citation_raw": "Wang, H., Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Virik, N. S., Lee, P. S., & Chen, P. C. Y. (2017). “Heat transfer characteristics of a polymer-based roll-to-roll microchannel heat exchanger“. In Proceedings of the World Congress on Mechanical, Chemical, and Material Engineering.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Air Dehumidification Using Desiccant Coated Oblique Fin Plate Frame Structure“",
+      "year": 2017,
+      "citation_raw": "Jagirdar, M., Lee, P. S., & Chen, Ho, G. W. (2017). “Air Dehumidification Using Desiccant Coated Oblique Fin Plate Frame Structure“. In 2017 ASHRAE WINTER CONFERENCE PAPERS (pp. 8 pages).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Numerical Study of Fluid Flow in Different Manifold Configurations for Vanadium Redox Flow Battery“",
+      "year": 2017,
+      "citation_raw": "Law, M., Lee, P. S., Han, M., Chen, N., & Liu, L. (2017). “Numerical Study of Fluid Flow in Different Manifold Configurations for Vanadium Redox Flow Battery“. In PROCEEDINGS OF THE 2017 SIXTEENTH IEEE INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS ITHERM 2017 (pp. 1056-1061).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Heat Exchanger Improvement via Curved",
+      "year": 2017,
+      "citation_raw": "Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Li, B., Lee, P. S., & Chen, P. C. Y. (2017). “Heat Exchanger Improvement via Curved, Angular and Wavy Microfluidic Channels: A Comparison of Numerical and Experimental Results“. In PROCEEDINGS OF THE SIXTEENTH INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS ITHERM 2017 (pp. 585-592).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Investigation of Mass Transport in a Spiral Microfluidic Network with an Expansion Chamber“",
+      "year": 2017,
+      "citation_raw": "Arayanarakool, R., Balasubramaniam, L., Marshall, S. D., Heng, W., Li, B., Lee, P. S., & Chen, P. C. Y. (2017). “Investigation of Mass Transport in a Spiral Microfluidic Network with an Expansion Chamber“. In PROCEEDINGS OF THE SIXTEENTH INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS ITHERM 2017 (pp. 105-109).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Numerical Simulation for Optimizing the Design of a Commonly-used Fluid Distributor to Enhance Uniform Distribution and Reduce Dead Zones“",
+      "year": 2017,
+      "citation_raw": "Wang, H., Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Li, B., Lee, P. S., & Chen, P. C. Y. (2017). “Numerical Simulation for Optimizing the Design of a Commonly-used Fluid Distributor to Enhance Uniform Distribution and Reduce Dead Zones“. In PROCEEDINGS OF THE 2017 SIXTEENTH IEEE INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS ITHERM 2017 (pp. 1139-1144).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Heat exchanger improvement via curved microfluidic channels part 1: Impact of cross-sectional geometry and channel design on heat transfer enhancement“",
+      "year": 2016,
+      "citation_raw": "Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Li, B., Lee, P. S., & Chen, P. C. Y. (2016). “Heat exchanger improvement via curved microfluidic channels part 1: Impact of cross-sectional geometry and channel design on heat transfer enhancement“. In ASME 2016 5th International Conference on Micro/Nanoscale Heat and Mass Transfer, MNHMT 2016 Vol. 2.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Study of performance impact by thermo-hydraulic developing entrance in spiral microchannel with CFD analysis“",
+      "year": 2016,
+      "citation_raw": "Li, B., Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Lee, P. S., & Chen, P. C. Y. (2016). “Study of performance impact by thermo-hydraulic developing entrance in spiral microchannel with CFD analysis“. In ASME 2016 5th International Conference on Micro/Nanoscale Heat and Mass Transfer, MNHMT 2016 Vol. 2.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Heat exchanger improvement via curved microfluidic channels part 2: Investigation into heat transfer enhancement due to the dynamics of dean vortices“",
+      "year": 2016,
+      "citation_raw": "Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Li, B., Lee, P. S., & Chen, P. C. Y. (2016). “Heat exchanger improvement via curved microfluidic channels part 2: Investigation into heat transfer enhancement due to the dynamics of dean vortices“. In ASME 2016 5th International Conference on Micro/Nanoscale Heat and Mass Transfer, MNHMT 2016 Vol. 2.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Mixing enhancement in spiral microchannels“",
+      "year": 2016,
+      "citation_raw": "Balasubramaniam, L., Arayanarakool, R., Marshall, S. D., Li, B., Lee, P. S., & Chen, P. C. Y. (2016). “Mixing enhancement in spiral microchannels“. In ASME 2016 5th International Conference on Micro/Nanoscale Heat and Mass Transfer, MNHMT 2016 Vol. 2.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Enhancing mass and heat transfer by Dean vortices and chaotic advection in a spiral microchannel with 3D obstruction structure“",
+      "year": 2016,
+      "citation_raw": "Arayanarakool, R., Balasubramaniam, L., Li, B., Maulod, S. M. B., Marshall, S. D., Heng, W., . . . Chen, P. C. Y. (2016). “Enhancing mass and heat transfer by Dean vortices and chaotic advection in a spiral microchannel with 3D obstruction structure“. In 20th International Conference on Miniaturized Systems for Chemistry and Life Sciences, MicroTAS 2016 (pp. 1497-1498",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Enhanced air-side performance of finned tube heat exchanger with oval obstacles for residential air-conditioning systems-numerical approach“",
+      "year": 2016,
+      "citation_raw": "Lewpiriyawong, N., Sun, C., Khoo, K. L., Lee, P. S., & Chou, S. K. (2016). “Enhanced air-side performance of finned tube heat exchanger with oval obstacles for residential air-conditioning systems-numerical approach“. In Proceedings of the 15th InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITherm 2016 (pp. 633-638).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Numerical modeling and thermal enhancement of finned tube heat exchanger with guiding channel and fusiform configurations“",
+      "year": 2016,
+      "citation_raw": "Sun, C., Lewpiriyawong, N., Khoo, K. L., Lee, P. S., & Chou, S. K. (2016). “Numerical modeling and thermal enhancement of finned tube heat exchanger with guiding channel and fusiform configurations“. In Proceedings of the 15th InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITherm 2016 (pp. 1099-1106).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Numerical investigation of the thermal-hydraulic performance of finned oblique-shaped tube heat exchanger“",
+      "year": 2016,
+      "citation_raw": "Khoo, K. L., Sun, C., Lewpiriyawong, N., Lee, P. S., & Chou, S. K. (2016). “Numerical investigation of the thermal-hydraulic performance of finned oblique-shaped tube heat exchanger“. In Proceedings of the 15th InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITherm 2016 (pp. 625-632).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Transient evolution of heat transfer performance during flow boiling in a microchannel“",
+      "year": 2015,
+      "citation_raw": "Jagirdar, M., & Lee, P. S. (2015). “Transient evolution of heat transfer performance during flow boiling in a microchannel“. In ASME 2015 13th International Conference on Nanochannels, Microchannels, and Minichannels, ICNMM 2015, collocated with the ASME 2015 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“CFD analysis of an air-cooled planar heat sink with cross connected alternating converging-diverging channels“",
+      "year": 2015,
+      "citation_raw": "Kanargi, O. B., Yap, C., & Lee, P. S. (2015). “CFD analysis of an air-cooled planar heat sink with cross connected alternating converging-diverging channels“. In ASME 2015 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems, InterPACK 2015, collocated with the ASME 2015 13th International Conference on Nanochannels, Microchannels, and Minichannels Vol. 1.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Temperature Transients for Detection of Flow-regimes in a Mini/Microchannel“",
+      "year": 2015,
+      "citation_raw": "Jagirdar, M., & Lee, P. S. (2015). “Temperature Transients for Detection of Flow-regimes in a Mini/Microchannel“. In Energy Procedia Vol. 75 (pp. 2055-2060).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Numerical Investigation of Cross-Connected Alternating Converging-Diverging Channels“",
+      "year": 2015,
+      "citation_raw": "Kanargi, O. B., Law, M., Yap, C., & Lee, P. S. (2015). “Numerical Investigation of Cross-Connected Alternating Converging-Diverging Channels“. In Energy Procedia Vol. 75 (pp. 3230-3238).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Comparative Study of Temperature and Pressure Instabilities during Flow Boiling in Straight-and 10°Oblique-Finned Microchannels“",
+      "year": 2015,
+      "citation_raw": "Law, M., & Lee, P. S. (2015). “Comparative Study of Temperature and Pressure Instabilities during Flow Boiling in Straight-and 10°Oblique-Finned Microchannels“. In Energy Procedia Vol. 75 (pp. 3105-3112).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "2014. “Forced pulsatile flow to provoke chaotic advection in wavy walled microchannel heat sinks“",
+      "year": 2014,
+      "citation_raw": "H Ghaedamini, PS Lee, CJ Teo, 2014. “Forced pulsatile flow to provoke chaotic advection in wavy walled microchannel heat sinks“, 2014 IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), pp. 680-687.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Methodology for more accurate assessment of heat loss in microchannel flow boiling“",
+      "year": 2014,
+      "citation_raw": "Jagirdar, M., & Lee, P. S. (2014). “Methodology for more accurate assessment of heat loss in microchannel flow boiling“. In Proceedings of the 16th Electronics Packaging Technology Conference, EPTC 2014 (pp. 630-634).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Investigation of flow boiling characteristics in expanding silicon microgap heat sink“",
+      "year": 2014,
+      "citation_raw": "Tamanna, A., & Lee, P. S. (2014). “Investigation of flow boiling characteristics in expanding silicon microgap heat sink“. In Thermomechanical Phenomena in Electronic Systems -Proceedings of the Intersociety Conference (pp. 458-465).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "” A simplified ‘effective circuit fluid flow model for forced convection in oblique fin configuration“",
+      "year": 2014,
+      "citation_raw": "Mou, N., Lee, P. S., & Khan, S. A. (2014).” A simplified ‘effective circuit fluid flow model for forced convection in oblique fin configuration“. In ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE) Vol. 8A.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Forced Pulsatile Flow to Provoke Chaotic Advection in Wavy Walled Microchannel Heat Sinks“",
+      "year": 2014,
+      "citation_raw": "Ghaedamini, H., Lee, P. S., & Teo, C. J. (2014). “Forced Pulsatile Flow to Provoke Chaotic Advection in Wavy Walled Microchannel Heat Sinks“. In 2014 IEEE INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS (ITHERM) (pp. 680-687).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "Balasubramanian, K. and Lee, P. –S., 2012. “Two-phase stepped fin microchannel heat sink for enhanced heat transfer and reduced pressure drop“, PCT Patent Application No.: PCT/SG2012/000416.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "P. -S. and Chang, S. C",
+      "year": 2005,
+      "citation_raw": "Lee, P. -S. and Chang, S. C., 2005. “Method for the mitigation of hot spots in integrated circuits“, United States Patent Application Number 11/198683, European Patent Application Number 06076370.3-1235 (Multi-countries).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "P. -S. and Garimella, S. V",
+      "year": 2007,
+      "citation_raw": "Lee, P. -S. and Garimella, S. V., 2007. “Hot-spot thermal management with flow modulation in a microchannel heat sink“, United States Patent 7,277,284, European Patent Application (Germany).",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Flow Boiling in Microgap Channels: Experiment, Visualization and Analysis“",
+      "year": 2013,
+      "citation_raw": "Alam, T., Lee, P. S.,& Jin, L. (2013). “Flow Boiling in Microgap Channels: Experiment, Visualization and Analysis“, In SpringerBriefs in Applied Sciences and Technology.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Thermal transport in oblique finned micro/minichannels“",
+      "year": 2015,
+      "citation_raw": "Fan, Y., Lee, P. S., Singh, P. K.,& Lee, Y. J. (2015). “Thermal transport in oblique finned micro/minichannels“, In SpringerBriefs in Applied Sciences and Technology.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    },
+    {
+      "title": "“Flow Boiling in Expanding Microchannels“",
+      "year": 2017,
+      "citation_raw": "Alam, T.,& Lee, P. S. (2017). “Flow Boiling in Expanding Microchannels“, In SpringerBriefs in Applied Sciences and Technology.",
+      "source_url": "https://blog.nus.edu.sg/coolestlab/publications/"
+    }
+  ]
 }

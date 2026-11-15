@@ -8,29 +8,103 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:54:14.903Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: A Senthil KUMAR / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile. / Candidate official CORE lab rejected after People identifies Zhang Hongying as PI. A Senthil Kumar own lab publication site remains unresolved; not a completed full-site attempt.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://cde.nus.edu.sg/me/staff/kumar-a-senthil-2/>
 
 ## National University of Singapore — FUH Ying Hsi, Jerry
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:56:07.653Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: FUH Ying Hsi, Jerry / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile. / Official profile identifies AM.NUS co-directorship. Actual AM.NUS home and Research / Centre Projects navigated; no Publications item shown. Research projects are not publication records. Individual full-publication list unresolved.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://am.nus.edu.sg/centre-projects/>
+출처: <https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/>
+
+1. 1. D Ye, GS Hong, Y Zhang, K Zhu, JYH Fuh, “Defect detection in selective laser melting technology by acoustic signals with deep belief networks”, The International Journal of Advanced Manufacturing Technology, 1-11, 2018
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/>
+
+1. 2. S Chang, L Li, L Lu, JYH Fuh, “Selective Laser Sintering of Porous Silica Enabled by Carbon Additive”, Materials 10 (11), 1313, 2017 (invited)
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/>
+
+1. 3. Y Wu, J Fuh, YS Wong, J Sun, “A hybrid electrospinning and electrospraying 3D printing for tissue engineered scaffolds”, Rapid Prototyping Journal 23 (6), 1011-1019, 2017
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/>
+
+1. 4. Y Wu, B Wu, S Vijayavenkataraman, Y San Wong, JYH Fuh, “Crimped fiber with controllable patterns fabricated via electrohydrodynamic jet printing”, Materials & Design 131, 384-393, 1, 2017
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/>
+
+1. 5. S Vijayavenkataraman, Z Shuo, JYH Fuh, WF Lu, “Design of three-dimensional scaffolds with tunable matrix stiffness for directing stem cell lineage specification: An in silico study”,Bioengineering 4 (3), 66 1, 2017
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/>
+
+1. 6. S Vijayavenkataraman, JYH Fuh, WF Lu, “3D printing and 3D bioprinting in pediatrics, Bioengineering” 4 (3), 63, 2017 (invited)
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/>
+
+1. 6. S Vijayavenkataraman, JYH Fuh, WF Lu, “3D printing and 3D bioprinting in pediatrics, Bioengineering” 4 (3), 63, 2017 (invited) Books: 1. Lu C，J Y H Fuh*，Y S Wong，Collaborative Product Assembly Design and Assembly Planning: Methodologies and Applications，Cambridge: Woodhead Publishing Ltd，2013
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/>
+
+1. 2. Fuh, J Y H, Y F Zhang, A Y C Nee and M W Fu, Computer-aided injection mould design and manufacture. New York: Marcel Dekker, Inc., June 2004, pp.380 (ISBN: 0-8247-5118-3)
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/>
+
+1. 3. Lu, L, J Y H Fuh and Y S Wong, Laser-induced materials and processes for rapid prototyping. United States: Kluwer Academic Publishers, Boston, June 2001, pp.260 (ISBN: 0-7923-7400-2)
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/>
 
 ## National University of Singapore — Gianmarco MENGALDO
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:55:53.822Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: Welcome to Mengaldo's MathEXLab / Welcome to Mengaldo's MathEXLab / Latest News / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / Publication page visible text captured; structured extraction pending.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://www.mathexlab.com/publications/>
+
+1. Emma Andrews, Keane Ong, Luwei Xiao, Leonardo Pesce, Jiawen Wei, Gianmarco Mengaldo preprint DOI 10.5281/zenodo.21127002 2026 Language models for environmental, social, and governance analysis: A review
+
+    게시 페이지: <https://www.mathexlab.com/publications/>
+
+1. Kelvin Du, Rui Mao, Frank Xing, Gianmarco Mengaldo, Erik Cambria Information Processing & Management 2026 Cited by 2
+
+    게시 페이지: <https://www.mathexlab.com/publications/>
+
+1. A hybrid two-level MCMC framework to accelerate posterior mean estimation with deep learning surrogates for bayesian inverse problems Juntao Yang, Jeff Adie, Simon See, Adriano Gualandi, Gianmarco Mengaldo Journal of Computational Physics 2026 Explainable AI: Learning from the Learners
+
+    게시 페이지: <https://www.mathexlab.com/publications/>
+
+1. Keane Ong, Wei Dai, Carol Li, Dewei Feng, Hengzhi Li, Jingyao Wu, Jiaee Cheong, Rui Mao, Gianmarco Mengaldo, Erik Cambria, Paul Pu Liang 2026 Cited by 2
+
+    게시 페이지: <https://www.mathexlab.com/publications/>
+
+1. Xin Wang, Jianda Chen, Juntao Yang, Jeff Adie, Simon See, Kalli Furtado, Chen Chen, Troy Arcomano, Romit Maulik, Wei Xue, Gianmarco Mengaldo npj Climate and Atmospheric Science 2026 Cited by 4
+
+    게시 페이지: <https://www.mathexlab.com/publications/>
+
+1. Intelligence is Physical: Energy, Information, & a Thermodynamically Grounded Theory of Minds & Machines Melvin Chen, Erik Cambria, Cecilia Laschi, Gianmarco Mengaldo 2025 AI4X Roadmap: Artificial Intelligence for the advancement of scientific pursuit and its future directions
+
+    게시 페이지: <https://www.mathexlab.com/publications/>
+
+1. A comprehensive review on financial explainable AI Wei Jie Yeo, Wihan Van Der Heever, Rui Mao, Erik Cambria, Ranjan Satapathy, Gianmarco Mengaldo Artificial Intelligence Review 2025 Cited by 138
+
+    게시 페이지: <https://www.mathexlab.com/publications/>
+
+1. The Curious Case Of A NACA 0012 Airfoil: Are We Learning Something New? Rasha Al Jahdali, Lisandro Dalcin, Gianmarco Mengaldo, Matteo Parsani 12th International Conference on Fluid Flow, Heat and Mass Transfer, FFHMT 2025 2025 AI Adoption Phases in Business Intelligence: From Outsourcing to Human-Centered Systems
+
+    게시 페이지: <https://www.mathexlab.com/publications/>
+
+1. Erik Cambria, Rui Mao, Frank Xing, Gianmarco Mengaldo Proceedings of IEEE SSCI 2025 Cited by 2
+
+    게시 페이지: <https://www.mathexlab.com/publications/>
 
 ## National University of Singapore — Guillaume A SARTORETTI
 
@@ -76,55 +150,679 @@
 
 ## National University of Singapore — Jianshu ZHOU
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 10건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:00.033Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: Jianshu ZHOU / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://cde.nus.edu.sg/me/staff/jianshu-zhou/>
+
+1. 10 Selected Publications (* denotes corresponding author of Jianshu Zhou) [1] Zhou J, Chen W, Huang J, Liang B, Liu Y, Tomizuka M. Programmable Locking Cells (PLC) for Modular Robots With High Stiffness Tunability and Morphological Adaptability. IEEE Transactions on Robotics. 2025 Oct 28;41:6460-77.
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/jianshu-zhou/>
+
+1. [2] Zhou J, Huang J, Dou Q, Abbeel P, Liu Y. A dexterous and compliant (DexCo) hand based on soft hydraulic actuation for human-inspired fine in-hand manipulation. IEEE Transactions on Robotics. 2024 Nov 28;41:666-86.
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/jianshu-zhou/>
+
+1. [3] Zhou J, Liang B, Huang J, Zhang H, Zhang I, Wang Y, Abbeel P, Tomizuka M. Singularity-Avoidant Motion Mappings for Pose-Tracking Teleoperation with Operational Jacobian Analysis. IEEE/ASME Transactions on Mechatronics. 2026.
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/jianshu-zhou/>
+
+1. [4] Zhou J, Huang J, Liang B, Zhang X, Ma X, Tomizuka M. Prismatic-Bending Transformable (PBT) Joint for a Modular, Foldable Manipulator With Enhanced Reachability and Dexterity. IEEE/ASME Transactions on Mechatronics. 2025 May 29;30(4):2936-2955.
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/jianshu-zhou/>
+
+1. [5] Zhou J, Huang J, Ma X, Lee A, Kosuge K, Liu YH. Design, modeling, and control of soft syringes enabling two pumping modes for pneumatic robot applications. IEEE/ASME Transactions on Mechatronics. 2024 Jan 9;29(2):889-901.
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/jianshu-zhou/>
+
+1. [6] Zhou J, Chen W, Cao H, He Q, Liu Y. Antagonistic pump with multiple pumping modes for on-demand soft robot actuation and control. IEEE/ASME Transactions on Mechatronics. 2023 Dec 27;29(5):3252-64.
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/jianshu-zhou/>
+
+1. [7] Zhou J, Cao H, Chen W, Cheng SS, Liu YH. Bioinspired soft wrist based on multicable jamming with hybrid motion and stiffness control for dexterous manipulation. IEEE/ASME Transactions on Mechatronics. 2022 Dec 2;28(3):1256-67.
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/jianshu-zhou/>
+
+1. [8] Zhou J, Shu J, Pan T, Zhu P, An J, Zhang H, Huang J, Kaur U, Ma X, Tomizuka M. Everything-Grasping Gripper: A Universal Gripper with Synergistic Suction–Grasping Capabilities for Cross-Scale and Cross-State Manipulation. Soft Robotics. 2025 Dec 3:21695172251400144.
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/jianshu-zhou/>
+
+1. [9] Zhou J, Chen Y, Hu Y, Wang Z, Li Y, Gu G, Liu Y. Adaptive variable stiffness particle phalange for robust and durable robotic grasping. Soft robotics. 2020 Dec 1;7(6):743-57.
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/jianshu-zhou/>
+
+1. [10] Huang, J., Chen, K., Zhou, J*., Lin, X., Abbeel, P., Dou, Q., Liu, Y. Dih-tele: Dexterous in-hand teleoperation framework for learning multiobjects manipulation with tactile sensing. IEEE/ASME Transactions on Mechatronics. 2025 Feb 21;30(5):3840-3851.
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/jianshu-zhou/>
 
 ## National University of Singapore — Karl Erik BIRGERSSON
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:00.984Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: Karl Erik BIRGERSSON / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://cde.nus.edu.sg/me/staff/birgersson-karl-erik/>
 
 ## National University of Singapore — KHOO Boo Cheong
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:03.114Z
-
-수집 범위: Official page heading: KHOO Boo Cheong / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
-
-## National University of Singapore — KOH Yee Kan
-
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
-
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.nus.edu.sg/about>
+출처: <https://cde.nus.edu.sg/me/staff/khoo-boo-cheong-2/>
+
+## National University of Singapore — KOH Yee Kan
+
+ · 논문·원고 32건 · 기타 성과 0건 · 상태: partial
+
+확인일: 2026-11-15T07:07:46.309678+00:00
+
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (31) Hongkun Li, Riley Hanus, Carlos Polanco, Andreas Zeidler, Gregor Koblmüller, Yee Kan Koh, and Lucas Lindsay, GaN thermal transport limited by the interplay of dislocations and size effects, Physical Review B, 102, 014313 (2020).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (30) Zheng, Weidong, Bin Huang, and Yee Kan Koh. Ultralow Thermal Conductivity and Thermal Diffusivity of Graphene/Metal Heterostructures through Scarcity of Low-Energy Modes in Graphene. ACS Applied Materials & Interfaces 12, no. 8 (2020): 9572-9579.
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (29) Zeng, Qingsheng, Bo Sun, Kezhao Du, Weiyun Zhao, Peng Yu, Chao Zhu, Juan Xia et al. Highly anisotropic thermoelectric properties of black phosphorus crystals. 2D Materials 6, no. 4 (2019): 045009.
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (28) Sun, Bo, Georg Haunschild, Carlos Polanco, Lucas Lindsay, Gregor Koblmüller, and Yee Kan Koh. Dislocation-induced thermal transport anisotropy in single-crystal group-III nitride films. Nature materials 18, no. 2 (2019): 136-140.
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (27) Li, Hongkun, Weidong Zheng, and Yee Kan Koh. Anisotropic model with truncated linear dispersion for lattice and interfacial thermal transport in layered materials. Physical Review Materials 2, no. 12 (2018): 123802.
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (26) Zheng, Weidong, Bin Huang, Hongkun Li, and Yee Kan Koh. Achieving huge thermal conductance of metallic nitride on graphene through enhanced elastic and inelastic phonon transmission. ACS applied materials & interfaces 10, no. 41 (2018): 35487-35494.
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (25) Jiang, Puqing, Lucas Lindsay, Xi Huang, and Yee Kan Koh. Interfacial phonon scattering and transmission loss in> 1 µm thick silicon-on-insulator thin films. Physical Review B 97, no. 19 (2018): 195308.
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (25) Huang, Bin, and Yee Kan Koh. Negligible electronic contribution to heat transfer across intrinsic metal/graphene interfaces. Advanced Materials Interfaces 4, no. 20 (2017): 1700559.
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (24) Sun, Bo, Xiaokun Gu, Qingsheng Zeng, Xi Huang, Yuexiang Yan, Zheng Liu, Ronggui Yang, and Yee Kan Koh, Temperature dependence of anisotropic thermal conductivity tensor of bulk black phosphorus, Advanced Materials 29.3 (2017).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (23) Kerdsongpanya, Sit, Olle Hellman, Bo Sun, Yee Kan Koh, Jun Lu, Ngo Van Nong, Sergei I. Simak, Björn Alling, and Per Eklund. Phonon thermal conductivity of scandium nitride for thermoelectrics from first-principles calculations and thin-film growth. Physical Review B 96, no. 19 (2017): 195417.
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (22) Yee Kan Koh, Austin S. Lyons, Myung-Ho Bae, Vincent E. Dorgan, David G. Cahill, Eric Pop, and Bin Huang, Role of Remote Interfacial Phonon (RIP) Scattering in Heat Transport Across Graphene/SiO2 Interfaces, Nano Lett. 16, 6b01709 (2016).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (21) Sit Kerdsongpanya,Bo Sun,Fredrik Eriksson,Jens Jensen,Jun Lu,Yee Kan Koh, Ngo Van Nong, Benjamin Balke,Bj?rn Alling1,and Per Eklund. Experimental and theoretical investigation of Cr1-xScxN solid solutions for thermoelectrics, J. Appl. Phys. 120, 215103 (2016).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (20) Puqing Jiang, Lucas Lindsay, and Yee Kan Koh, The role of low-energy phonons with mean-free-paths >0.8 um in heat conduction in silicon, J. Appl. Phys. 119, 245705 (2016).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (19) Puqing Jiang, Bin Huang, and Yee Kan Koh, Accurate Measurements of Cross-plane Thermal Conductivity of Thin Films by Dual-Frequency Time-Domain Thermoreflectance (TDTR), Rev. Sci. Instrum. 87, 075101 (2016).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (18) Bo Sun, and Yee Kan Koh, Understanding and eliminating artifact signals from diffusely scattered pump beam in measurements of rough samples by time-domain thermoreflectance (TDTR), Rev. Sci. Instrum. 87,064901(2016).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (17) James (Zijian) Ju, Bo Sun, Georg Haunschild, Bernhard Loitsch, Benedikt Stoib, Martin S Brandt, Martin Stutzmann, Yee Kan Koh, and Gregor Koblmuller, Thermoelectric properties of In-rich InGaN and InN/InGaN superlattices, AIP Adv. 6, 045216 (2016).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (16) Bin Huang and Yee Kan Koh, Improved topological conformity enhances heat conduction across metal contacts on transferred graphene, Carbon 105, 268 (2016).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (15) Olivier Cometto, Bo Sun, Siu Hon Tsang, Xi Huang, Yee Kan Koh, and Edwin Hang Tong Teo, Vertically self-ordered orientation of nanocrystalline hexagonal boron nitride thin films for enhanced thermal characteristics, Nanoscale 7, 18984 (2015).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (14) Yee Kan Koh, D. G. Cahill, and Bo Sun, Nonlocal theory for heat transport at high frequencies, Phys. Rev. B 90, 205412 (2014).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (13) Yee Kan Koh, Myung-Ho Bae, D. G. Cahill, and Eric Pop, Reliably Counting Atomic Planes of Few-Layer Graphene (n>4), ACS Nano 5, 269 (2011).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (12) Yee Kan Koh, Myung-Ho Bae, D. G. Cahill, and Eric Pop, Heat conduction across monolayer and few-layer graphenes, Nano Lett. 10, 4363 (2010).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (11) Y. Wang, J. Y. Park, Yee Kan Koh, and D. G. Cahill, Thermoreflectance of metal transducers for time-domain thermoreflectance, J. Appl. Phys. 108, 043507 (2010). (selected for the Sept 2010 issue of Virtual Journal of Ultrafast Science.)
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (10) A. I. Persson*, Yee Kan Koh*, D. G. Cahill, L. Samuelson, and H. Linke, Thermal conductance of InAs nanowire composites, Nano Lett. 9, 4484 (2009).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (9) Yee Kan Koh, C. J. Vineis, S. D. Calawa, M. P. Walsh, and D. G. Cahill, Lattice thermal conductivity of nanostructured thermoelectric materials based on PbTe, Appl. Phys. Lett. 94, 153101 (2009).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (8) Yee Kan Koh, S. L. Singer, W. Kim, J. M. O. Zide, H. Lu, D. G. Cahill, A. Majumdar, and A. C. Gossard, Comparison of the 3ω method and time-domain thermoreflectance for measurements of the cross-plane thermal conductivity of epitaxial semiconductors, J. Appl. Phys. 105, 054303 (2009).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (7) V. Rawat, Yee Kan Koh, D. G. Cahill, and T. D. Sands, Thermal conductivity of (Zr,W)N/ScN metal/semiconductor multilayers and superlattices, J. Appl. Phys. 105, 024909 (2009).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (6) Yee Kan Koh, Y. Cao, D. G. Cahill, and D. Jena, Heat-transport mechanisms in superlattices, Adv. Funct. Mater. 19, 610 (2009).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (5) K. Kang, Yee Kan Koh, C. Chiritescu, X. Zheng, and D. G. Cahill, Two-tint pump-probe measurements using a femtosecond laser oscillator and sharp-edged optical filters, Rev. Sci. Instrum. 79, 114901 (2008).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (4) Z. Wang, D. G. Cahill, J. A. Carter, Yee Kan Koh, A. Lagutchev, N.-H. Seong, and D. D. Dlott, Ultrafast dynamics of heat flow across molecules, Chem. Phys. 350, 31 (2008).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (3) M. Highland, B. C. Gundrum, Yee Kan Koh, R. S. Averback, D. G. Cahill, V. C. Elarde, J. J. Coleman, D. A. Walko, and E. C. Landahl, Ballistic-phonon heat conduction at the nanoscale as revealed by time-resolved x-ray diffraction and time-domain thermoreflectance, Phys. Rev. B 76, 075337 (2007).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (2) Yee Kan Koh and D. G. Cahill, Frequency dependence of the thermal conductivity of semiconductor alloys, Phys. Rev. B 76, 075207 (2007).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
+
+1. (1) Z. Wang, J. A. Carter, A. Lagutchev, Yee Kan Koh, N.-H. Seong, D. G. Cahill, and D. D. Dlott, Ultrafast flash thermal conductance of molecular chains, Science 317, 787 (2007).
+
+    게시 페이지: <https://blog.nus.edu.sg/mpekyk/publications/>
 
 ## National University of Singapore — LEE Heow Pueh
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:08.073Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: BLOG OF HP LEE / World Noise Map / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <http://blog.nus.edu.sg/mpeleehp/>
 
 ## National University of Singapore — LEE Poh Seng
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 112건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:09.549Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: CoolestLAB / HOME / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / Publication page visible text captured; structured extraction pending.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Zeng, S., Sun, Q., & Lee, P. S. (2020). “Thermohydraulic analysis of a new fin pattern derived from topology optimized heat sink structures“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER, 147, 16 pages.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Riaz, F., Lee, P. S., & Chou, S. K. (2020). “Thermal modelling and optimization of low-grade waste heat driven ejector refrigeration system incorporating a direct ejector model“. Applied Thermal Engineering, 167.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Riaz, F., Lee, P. S., & Chou, S. K. (2020). “Thermal modelling and optimization of low-grade waste heat driven ejector refrigeration system incorporating a direct ejector model“. Applied Thermal Engineering, 167. DOI:10.1016/j.applthermaleng.2019.114710 Kumar, S., Sarkar, M., Singh, P. K., & Lee, P. S. (2019). “Study of thermal and hydraulic performance of air cooled minichannel heatsink with novel geometries“. International Communications in Heat and Mass Transfer, 103, 31-42.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Lewpiriyawong, N., Khoo, K. L., Sun, C., & Lee, P. S. (2019). “Thermal and hydraulic analysis of aluminium oblique-tube condenser coils with plain fins manufactured by controlled atmosphere brazing“. INTERNATIONAL JOURNAL OF REFRIGERATION-REVUE INTERNATIONALE DU FROID, 101, 81-89.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Mathew, J., Lee, P. S., Wu, T., & Yap, C. R. (2019). “Experimental study of flow boiling in a hybrid microchannel-microgap heat sink“. International Journal of Heat and Mass Transfer, 135, 1167-1191.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Khoo, K. L., Lewpiriyawong, N., Sun, C., & Lee, P. S. (2019). “Numerical investigation of thermal and hydraulic performances of a condenser coil with oblique-shaped tubes“. INTERNATIONAL JOURNAL OF REFRIGERATION-REVUE INTERNATIONALE DU FROID, 103, 42-50.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Tiwary, B., Kumar, R., Lee, P. S., & Singh, P. K. (2019). “Numerical investigation of thermal and hydraulic performance in novel oblique geometry using nanofluid“. NUMERICAL HEAT TRANSFER PART A-APPLICATIONS, 76(7), 533-551.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Zeng, S., & Lee, P. S. (2019). “Topology optimization of liquid-cooled microchannel heat sinks: An experimental and numerical study“. International Journal of Heat and Mass Transfer, 142.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Kanargi, B., Lee, P. S., & Yap, C. (2018). “A numerical and experimental investigation of heat transfer and fluid flow characteristics of an air-cooled oblique-finned heat sink“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER, 116, 393-416.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Marshall, S. D., Li, B., Arayanarakool, R., Lee, P. S., Balasubramaniam, L., & Chen, P. C. Y. (2018). “Heat Exchanger Improvement Via Curved Microfluidic Channels: Impacts of Cross-Sectional Geometry and Dean Vortex Strength“. JOURNAL OF HEAT TRANSFER-TRANSACTIONS OF THE ASME, 140(1), 9 pages.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Jagirdar, M., & Lee, P. S. (2018). “Mathematical modelling and performance evaluation of a desiccant coated fin-tube heat exchanger“. APPLIED ENERGY, 212, 401-415.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Zeng, S., Kanargi, B., & Lee, P. S. (2018). “Experimental and numerical investigation of a mini channel forced air heat sink designed by topology optimization“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER, 121, 663-679.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Wang, H., Balasubramaniam, L., Marshall, S. D., Jin, X., Arayanarakool, R., Lee, P. S., & Chen, P. C. Y. (2018). “Numerical Study of Heat Transfer Enhancement of Roll-to-Roll Microchannel Heat Exchangers“. JOURNAL OF HEAT TRANSFER-TRANSACTIONS OF THE ASME, 140(6), 8 pages.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Wang, H., Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Jin, X., Lee, P. S., & Chen, P. C. Y. (2018). “Optimization of a fluid distribution manifold: Mechanical design, numerical studies, fabrication, and experimental verification“. International Journal of Fluid Machinery and Systems, 11(3), 244-254.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Arayanarakool, R., See, H. H., Marshall, S. D., Virik, N. S., Wang, H., Lee, P. S., & Chen, P. C. Y. (2018). “Rapid Prototyping of Polymer-Based Rolled-Up Microfluidic Devices“. MICROMACHINES, 9(10), 11 pages.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Sun, C., Lewpiriyawong, N., Khoo, K. L., Zeng, S., & Lee, P. S. (2018). “Thermal enhancement of fin and tube heat exchanger with guiding channels and topology optimisation“. INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER, 127, 1001-1013.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Jagirdar, M., & Lee, P. S. (2017). “A diagnostic tool for detection of flow-regimes in a microchannel using transient wall temperature signal“. Applied Energy, 185, 2232-2244.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Kanargi, O. B., Lee, P. S., & Yap, C. (2017). “A numerical and experimental investigation of heat transfer and fluid flow characteristics of a cross-connected alternating converging–diverging channel heat sink“. International Journal of Heat and Mass Transfer, 106, 449-464.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Ong, L. J. Y., Chong, L. H., Jin, L., Singh, P. K., Lee, P. S., Yu, H., . . . & Toh, Y. -C. (2017). “A pump-free microfluidic 3D perfusion platform for the efficient differentiation of human hepatocyte-like cells“. BIOTECHNOLOGY AND BIOENGINEERING, 114(10), 2360-2370.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Balasubramaniam, L., Arayanarakool, R., Marshall, S. D., Li, B., Lee, P. S., & Chen, P. C. Y. (2017). “Impact of cross-sectional geometry on mixing performance of spiral microfluidic channels characterized by swirling strength of Dean-vortices“. JOURNAL OF MICROMECHANICS AND MICROENGINEERING, 27(9), 11 pages.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Marshall, S. D., Balasubramaniam, L., Arayanarakool, R., Li, B., Lee, P. S., & Chen, P. C. Y. (2017). “Methods and techniques of improving experimental testing for microfluidic heat sinks“. CASE STUDIES IN THERMAL ENGINEERING, 10, 227-233.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Jagirdar, M., & Lee, P. S. (2016). “Study of transient heat transfer and synchronized flow visualizations during sub-cooled flow boiling in a small aspect ratio microchannel“. International Journal of Multiphase Flow, 83, 254-266.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Law, M., Kanargi, O. B., & Lee, P. S. (2016). “Effects of varying oblique angles on flow boiling heat transfer and pressure characteristics in oblique-finned microchannels“. International Journal of Heat and Mass Transfer, 100, 646-660.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Mou, N., Lee, Y. J., Lee, P. S., Singh, P. K., & Khan, S. A. (2016). “Investigations on the influence of flow migration on flow and heat transfer in oblique fin microchannel array“. Journal of Heat Transfer, 138(10).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Chiam, Z. L., Lee, P. S., Singh, P. K., & Mou, N. (2016). “Investigation of fluid flow and heat transfer in wavy micro-channels with alternating secondary branches”. International Journal of Heat and Mass Transfer, 101, 1316-1330.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Law, M., & Lee, P. S. (2016). “Effects of varying secondary channel widths on flow boiling heat transfer and pressure characteristics in oblique-finned microchannels“. International Journal of Heat and Mass Transfer, 101, 313-326.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Mou, N., Lee, P. S., & Khan, S. A. (2016) “Coupled equivalent circuit models for fluid flow and heat transfer in large connected microchannel networks – The case of oblique fin heat exchangers. “, International Journal of Heat and Mass Transfer 102, pp. 1056-1072.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Fan, Y., Lee, P. S., Jin, L. W., Chua, B. W., & Zhang, D. C. (2015).” Corrigendum to “A parametric investigation of heat transfer and friction characteristics in cylindrical oblique fin minichannel heat sink“” [Int. J. Heat Mass Transfer 68 (2014) 567-584]. International Journal of Heat and Mass Transfer, 88, 101.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Alam Tamanna, Poh Seng Lee, 2015. “Flow boiling instability characteristics in expanding silicon microgap heat sink“, International Journal of Heat and Mass Transfer 89, pp. 390-405.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Matthew Law, Poh-Seng Lee, 2015. “A comparative study of experimental flow boiling heat transfer and pressure characteristics in straight- and oblique-finned microchannels“, International Journal of Heat and Mass Transfer 85, pp. 797-810.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Alam Tamanna, Poh Seng Lee, 2015. “Flow boiling heat transfer and pressure drop characteristics in expanding silicon microgap heat sink“, International Journal of Heat and Mass Transfer 82, pp. 1-15.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Yong Jiun Lee, Pawan K. Singh, Poh Seng Lee, 2015. “Fluid flow and heat transfer investigations on enhanced microchannel heat sink using oblique fins with parametric study“, International Journal of Heat and Mass Transfer 81, pp. 325-336.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Yong Jiun Lee, Pawan K. Singh, Poh Seng Lee, 2015. “Fluid flow and heat transfer investigations on enhanced microchannel heat sink using oblique fins with parametric study“, International Journal of Heat and Mass Transfer 81, pp. 325-336. DOI: 10.1016/j.ijheatmasstransfer.2014.10.018 Vedharaj, S., Vallinayagam, R., Yang, W. M., Saravanan, C. G., & Lee, P. S. (2015). “Optimization of combustion bowl geometry for the operation of kapok biodiesel – Diesel blends in a stationary diesel engine“. FUEL, 139, 561-567.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Vedharaj, S., Vallinayagam, R., Yang, W. M., Chou, S. K., Chua, K. J. E., & Lee, P. S. (2015). “Performance Emission and Economic Analysis of Preheated CNSL Biodiesel as an Alternate Fuel for a Diesel Engine“. INTERNATIONAL JOURNAL OF GREEN ENERGY, 12(4), 359-367.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Fan Yan, Poh Seng Lee, Pawan Kumar Singh, Yong Jiun Lee, “Thermal Transport in Oblique Finned Micro/Minichannels“, in Springer Briefs in Applied Sciences and Technology, vol. 12. Springer, 2015.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. H Ghaedamini, PS Lee, CJ Teo, 2014. “Enhanced transport phenomenon in small scales using chaotic advection near resonance“, International Journal of Heat and Mass Transfer 77, pp. 802-808.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Matthew Law, Poh-Seng Lee, Karthik Balasubramanian, 2014. “Experimental investigation of flow boiling heat transfer in novel oblique-finned microchannels“, International Journal of Heat and Mass Transfer 76, pp. 419-431.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Yan Fan, Poh Seng Lee, Beng Wah Chua, 2014. “Investigation on the influence of edge effect on flow and temperature uniformities in cylindrical oblique-finned minichannel array“, International Journal of Heat and Mass Transfer 70, pp. 651-663.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Yan Fan,Poh Seng Lee, Li-Wen Jin, Beng Wah Chua, 2014. “Experimental investigation on heat transfer and pressure drop of a novel cylindrical oblique fin heat sink“, International Journal of Thermal Sciences 76, pp. 1-10.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Yan Fan, Poh Seng Lee, Li-Wen Jin, Beng Wah Chua, Ding-Cai Zhang, 2014. “A parametric investigation of heat transfer and friction characteristics in cylindrical oblique fin minichannel heat sink“, International Journal of Heat and Mass Transfer 68, pp. 567-584.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Jin, L. W., Lee, P. S., Kong, X. X., Fan, Y., & Chou, S. K. (2014). “Ultra-thin minichannel LCP for EV battery thermal management“. APPLIED ENERGY, 113, 1786-1794.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Vedharaj, S., Vallinayagam, R., Yang, W. M., Chou, S. K., & Lee, P. S. (2014). “Effect of adding 1,4-Dioxane with kapok biodiesel on the characteristics of a diesel engine“. APPLIED ENERGY, 136, 1166-1173. DOI:10.1016/j.apenergy.2014.04.012
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Vallinayagam, R., Vedharaj, S., Yang, W. M., Lee, P. S., Chua, K. J. E., & Chou, S. K. (2014). “Pine oil-biodiesel blends: A double biofuel strategy to completely eliminate the use of diesel in a diesel engine“. APPLIED ENERGY, 130, 466-473.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Fahd, M. E. A., Lee, P. -S., Chou, S. K., Yang, W., & Yap, C. (2014). “Experimental study and empirical correlation development of fuel properties of waste cooking palm biodiesel and its diesel blends at elevated temperatures“. RENEWABLE ENERGY, 68, 282-288.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Tamanna Alam, Poh Seng Lee, Li-Wen Jin, “Flow boiling in microgap channels: experiment, visualization and analysis“, in Springer Briefs in Applied Sciences and Technology, vol. 10. Springer, 2013.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. K. Balasubramanian, P. S. Lee, S. K. Chou, C. J. Teo, 2013. “Flow boiling heat transfer and pressure drop in stepped fin microchannels“, International Journal of Heat and Mass Transfer 67, pp. 234–252.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. K. Balasubramanian, M. Jagirdar, P. S. Lee, S. K. Chou, C. J. Teo, 2013. “Experimental investigation of flow boiling heat transfer and instabilities in straight microchannels“, International Journal of Heat and Mass Transfer 66, pp. 655–671.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Tamanna Alam, Poh Seng Lee, Christopher R. Yap, 2013. “Effects of surface roughness on flow boiling in silicon microgap heat sinks“, International Journal of Heat and Mass Transfer 64, pp. 28-41.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Y.J. Lee, P.S. Lee, S.K. Chou, 2013. “Numerical study of fluid flow and heat transfer in the enhanced microchannel with oblique fins“, Journal of Heat Transfer 135 (4).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Yong Jiun Lee, Poh Seng Lee, and Siaw Kiang Chou, 2013. “Hotspot mitigating with obliquely finned microchannel heat sink – an experimental study“, IEEE Transactions on Packaging and Manufacturing Technology (99).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Chang Quan Lai, Trong Thi Mai, H. Zheng, P.S. Lee, K.C. Leong, et al., 2013. “A simulation and experimental study of fluid flow and heat transfer on cylindrical oblique-finned heat sink“, International Journal of Heat and Mass Transfer 61, pp. 62-72.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Tamanna Alam, Poh Seng Lee, Christopher R. Yap, Liwen Jin, 2013. “A comparative study of flow boiling heat transfer and pressure drop characteristics in microgap and microchannel heat sink and an evaluation of microgap heat sink for hotspot mitigation“, International Journal of Heat and Mass Transfer 58, pp. 335-347.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Chang Quan Lai, Trong Thi Mai, H. Zheng, P.S. Lee, K.C. Leong, et al., 2013. “Influence of nanoscale geometry on the dynamics of wicking into a rough surface“, Applied Physics Letters 5 (102).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Tamanna Alam, Poh Seng Lee, Christopher R. Yap, Liwen Jin, 2012. “Experimental investigation and flow visualization to determine the optimum dimension range of microgap heat sink“, International Journal of Heat and Mass Transfer 55 (2012), pp. 7623-7634.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Mai, T.T., Lai, C.Q., Zheng, H., Balasubramanian, K., Leong, K.C., Lee, P.S., Lee, C., Choi, W.K., 2012. “Dynamics of wicking in silicon nanopillars fabricated with interference lithography and metal-assisted chemical etching“, Langmuir, 28 (31), pp. 11465-11471.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Mai, T.T., Lai, C.Q., Zheng, H., Balasubramanian, K., Leong, K.C., Lee, P.S., Lee, C., Choi, W.K., 2012. “Dynamics of wicking in silicon nanopillars fabricated with interference lithography and metal-assisted chemical etching“, Langmuir, 28 (31), pp. 11465-11471. DOI: 10.1021/la302262g Fahd, M.E.A., Wenming, Y., Lee, P.S., Chou, S.K., Yap, C.R., 2012. “Experimental
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. L.W. Jin, P.S. Lee, Y. Fan, S.K. Chou, 2012. “Ultra-thin minichannel LCP for EVs battery thermal management“, International Conference of Applied Energy, 4-9 July 2012.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Y. Fan, P.S. Lee, B.W. Chua, L.W. Jin, 2012. “Experimental investigation on novel cylindrical oblique finned heat sink“, International Conference of Applied Energy, 4-9 July 2012.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Y.J. Lee, P.S. Lee, S.K. Chou, 2012. “Enhanced thermal transport in microchannel using oblique fins“. Journal of Heat Transfer 134 (10) .
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Tamanna Alam, Poh Seng Lee, Christopher R. Yap, Liwen Jin, 2012. “Experimental investigation of local flow boiling heat transfer and pressure drop characteristics in microgap channel“. International Journal of Multiphase Flow 42 (2012) 164-174.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Tamanna Alam, Poh Seng Lee, Christopher R. Yap, Liwen Jin, 2012. “Experimental study and high speed visualization of flow boiling characteristics in silicon microgap heat sink“, ASME 2012 International Mechanical Engineering Congress & Exposition, 9-15 November 2012.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. K. Balasubramanian , P. S. Lee, L. W. Jin, S. K. Chou, C. J. Teo, S. Gao, 2011. “Experimental
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. K. Balasubramanian , P. S. Lee, L. W. Jin, S. K. Chou, C. J. Teo, S. Gao, 2011. “Experimental investigations of flow boiling heat transfer and pressure drop in straight and expanding microchannels – A comparative study”, International Journal of Thermal Sciences, 50 (2011) 2413-2421.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. K. Balasubramanian , P. S. Lee, L. W. Jin, S. K. Chou, C. J. Teo, S. Gao, 2011. Enhanced heat transfer and reduced pressure drop using stepped fin microchannels, 13th Electronics Packaging Technology Conference, EPTC 2011, IEEE 978-1-4577-1982-0/11, pp 653-659.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. K. Balasubramanian , P. S. Lee, L. W. Jin, S. K. Chou, C. J. Teo, S. Gao, 2011. Enhanced heat transfer and reduced pressure drop using stepped fin microchannels, 13th Electronics Packaging Technology Conference, EPTC 2011, IEEE 978-1-4577-1982-0/11, pp 653-659. DOI: 10.1109/EPTC.2011.6184500 Tamanna Alam, Poh Seng Lee, Christopher R. Yap, Liwen Jin, 2011. “Experimental
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. investigation of microgap cooling technology for minimizing temperature gradient and mitigating hotspots in electronic devices”, 13th Electronics Packaging Technology Conference, EPTC 2011, pp 530-535.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. K. Balasubramanian, P. S. Lee, M N A Hawlader, S. Gao, 2010. “Heat transfer characteristics during flow boiling in parallel and oblique finned microchannels“, Proc. of 12th International Conference on Electronics Materials and Packaging (EMAP 2010), 25-27 October 2010, Singapore.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. K. Balasubramanian, P. S. Lee, M N A Hawlader, S. Gao, 2010. “Pressure
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. and oblique finned microchannels – A comparative study“, 12th Electronics Packaging Technology Conference, EPTC 2010, IEEE art. no. 5702647, pp. 273-278.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Jones, B. J., Lee, P. S., and Garimella, S. V., 2008. “Infrared micro-particle image velocimetry measurements and predictions of flow distribution in a microchannel heat sink“, International Journal of Heat and Mass Transfer, Vol. 51 (7-8): 1877-1887.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Lee, P. S., and Garimella, S. V., 2008. “Saturated flow boiling heat transfer and pressure drop in silicon microchannel arrays“, International Journal of Heat and Mass Transfer, Vol. 51 (3-4): 789-806.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Lee, P. S., and Garimella, S. V., 2008. “Saturated flow boiling heat transfer and pressure drop in silicon microchannel arrays“, International Journal of Heat and Mass Transfer, Vol. 51 (3-4): 789-806. DOI: 10.1016/j.ijheatmasstransfer.2007.04.019 Prior to 2008
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Lee, P. S., and Garimella, S. V., 2006. “Thermally developing flow and heat transfer in rectangular microchannels of different aspect ratios“, International Journal of Heat and Mass Transfer, 49 (17), 3060-3067.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Lee, P. S., Garimella, S. V., and Liu, D., 2005. “Experimental investigation of heat transfer in microchannels“, International Journal of Heat and Mass Transfer, 48 (9), 1688-1704.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Liu, D., Lee, P. S., and Garimella, S. V., 2005. “Prediction of onset of nucleate boiling in microchannels“, International Journal of Heat and Mass Transfer, 48 (25), 5134-5149.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Liu, D., Lee, P. S., and Garimella, S. V., 2005. “Nucleate boiling in microchannels“, Journal of Heat Transfer, 127 (8), 803.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Mathew, J., Lee, P. S., Wu, T., & Yap, C. (2019). “Flow boiling stability improvement with periodic stepped fin microchannel heat sink“. In InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITHERM Vol. 2019-May (pp. 1098-1106).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Xiong, X., Fulpagare, Y., Sun, C., & Lee, P. S. (2019). “Numerical study of a new rack layout for better cold air distribution and reduced fan power“. In InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITHERM Vol. 2019-May (pp. 399-404).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Wu, T., Lee, P. S., Mathew, J., Sun, C. -N., & Aw, B. L. (2019). “Pool Boiling Heat Transfer Enhancement with Porous Fin Arrays Manufactured by Selective Laser Melting“. In PROCEEDINGS OF THE 2019 EIGHTEENTH IEEE INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS (ITHERM 2019) (pp. 1107-1114).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Zeng, S., & Lee, P. S. (2018). “A Header Design Method for Target Flow Distribution among Parallel Channels Based on Topology Optimization“. In Proceedings of the 17th InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITherm 2018 (pp. 156-163).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Virik, N. S., Marshall, S. D., Arayanarakool, R., See, H. H., Wang, H., & Lee, P. S. (2018). “EVALUATION OF HEAT TRANSFER PERFORMANCE OF A SPIRAL MICROFLUIDIC HEATSINK AND HEAT EXCHANGER DEVICE“. In PROCEEDINGS OF THE ASME 16TH INTERNATIONAL CONFERENCE ON NANOCHANNELS, MICROCHANNELS, AND MINICHANNELS, 2018 (pp. 8 pages).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Riaz, F., Lee, P. S., Chou, S. K., Ranjan, R., Tay, C. S., & Chen, Soe, T. (2017). “Analysis of Low-Grade Waste Heat Driven Systems for Cooling and Power for Tropical Climate“. In J. Yan, S. K. Chou, H. Li, & V. Nian (Eds.), LEVERAGING ENERGY TECHNOLOGIES AND POLICY OPTIONS FOR LOW CARBON CITIES Vol. 143 (pp. 389-395).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Wang, H., Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Virik, N. S., Lee, P. S., & Chen, P. C. Y. (2017). “Heat transfer characteristics of a polymer-based roll-to-roll microchannel heat exchanger“. In Proceedings of the World Congress on Mechanical, Chemical, and Material Engineering.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Jagirdar, M., Lee, P. S., & Chen, Ho, G. W. (2017). “Air Dehumidification Using Desiccant Coated Oblique Fin Plate Frame Structure“. In 2017 ASHRAE WINTER CONFERENCE PAPERS (pp. 8 pages).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Law, M., Lee, P. S., Han, M., Chen, N., & Liu, L. (2017). “Numerical Study of Fluid Flow in Different Manifold Configurations for Vanadium Redox Flow Battery“. In PROCEEDINGS OF THE 2017 SIXTEENTH IEEE INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS ITHERM 2017 (pp. 1056-1061).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Li, B., Lee, P. S., & Chen, P. C. Y. (2017). “Heat Exchanger Improvement via Curved, Angular and Wavy Microfluidic Channels: A Comparison of Numerical and Experimental Results“. In PROCEEDINGS OF THE SIXTEENTH INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS ITHERM 2017 (pp. 585-592).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Arayanarakool, R., Balasubramaniam, L., Marshall, S. D., Heng, W., Li, B., Lee, P. S., & Chen, P. C. Y. (2017). “Investigation of Mass Transport in a Spiral Microfluidic Network with an Expansion Chamber“. In PROCEEDINGS OF THE SIXTEENTH INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS ITHERM 2017 (pp. 105-109).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Wang, H., Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Li, B., Lee, P. S., & Chen, P. C. Y. (2017). “Numerical Simulation for Optimizing the Design of a Commonly-used Fluid Distributor to Enhance Uniform Distribution and Reduce Dead Zones“. In PROCEEDINGS OF THE 2017 SIXTEENTH IEEE INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS ITHERM 2017 (pp. 1139-1144).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Li, B., Lee, P. S., & Chen, P. C. Y. (2016). “Heat exchanger improvement via curved microfluidic channels part 1: Impact of cross-sectional geometry and channel design on heat transfer enhancement“. In ASME 2016 5th International Conference on Micro/Nanoscale Heat and Mass Transfer, MNHMT 2016 Vol. 2.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Li, B., Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Lee, P. S., & Chen, P. C. Y. (2016). “Study of performance impact by thermo-hydraulic developing entrance in spiral microchannel with CFD analysis“. In ASME 2016 5th International Conference on Micro/Nanoscale Heat and Mass Transfer, MNHMT 2016 Vol. 2.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Marshall, S. D., Arayanarakool, R., Balasubramaniam, L., Li, B., Lee, P. S., & Chen, P. C. Y. (2016). “Heat exchanger improvement via curved microfluidic channels part 2: Investigation into heat transfer enhancement due to the dynamics of dean vortices“. In ASME 2016 5th International Conference on Micro/Nanoscale Heat and Mass Transfer, MNHMT 2016 Vol. 2.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Balasubramaniam, L., Arayanarakool, R., Marshall, S. D., Li, B., Lee, P. S., & Chen, P. C. Y. (2016). “Mixing enhancement in spiral microchannels“. In ASME 2016 5th International Conference on Micro/Nanoscale Heat and Mass Transfer, MNHMT 2016 Vol. 2.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Arayanarakool, R., Balasubramaniam, L., Li, B., Maulod, S. M. B., Marshall, S. D., Heng, W., . . . Chen, P. C. Y. (2016). “Enhancing mass and heat transfer by Dean vortices and chaotic advection in a spiral microchannel with 3D obstruction structure“. In 20th International Conference on Miniaturized Systems for Chemistry and Life Sciences, MicroTAS 2016 (pp. 1497-1498
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Lewpiriyawong, N., Sun, C., Khoo, K. L., Lee, P. S., & Chou, S. K. (2016). “Enhanced air-side performance of finned tube heat exchanger with oval obstacles for residential air-conditioning systems-numerical approach“. In Proceedings of the 15th InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITherm 2016 (pp. 633-638).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Sun, C., Lewpiriyawong, N., Khoo, K. L., Lee, P. S., & Chou, S. K. (2016). “Numerical modeling and thermal enhancement of finned tube heat exchanger with guiding channel and fusiform configurations“. In Proceedings of the 15th InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITherm 2016 (pp. 1099-1106).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Khoo, K. L., Sun, C., Lewpiriyawong, N., Lee, P. S., & Chou, S. K. (2016). “Numerical investigation of the thermal-hydraulic performance of finned oblique-shaped tube heat exchanger“. In Proceedings of the 15th InterSociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems, ITherm 2016 (pp. 625-632).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Jagirdar, M., & Lee, P. S. (2015). “Transient evolution of heat transfer performance during flow boiling in a microchannel“. In ASME 2015 13th International Conference on Nanochannels, Microchannels, and Minichannels, ICNMM 2015, collocated with the ASME 2015 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Kanargi, O. B., Yap, C., & Lee, P. S. (2015). “CFD analysis of an air-cooled planar heat sink with cross connected alternating converging-diverging channels“. In ASME 2015 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems, InterPACK 2015, collocated with the ASME 2015 13th International Conference on Nanochannels, Microchannels, and Minichannels Vol. 1.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Jagirdar, M., & Lee, P. S. (2015). “Temperature Transients for Detection of Flow-regimes in a Mini/Microchannel“. In Energy Procedia Vol. 75 (pp. 2055-2060).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Kanargi, O. B., Law, M., Yap, C., & Lee, P. S. (2015). “Numerical Investigation of Cross-Connected Alternating Converging-Diverging Channels“. In Energy Procedia Vol. 75 (pp. 3230-3238).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Law, M., & Lee, P. S. (2015). “Comparative Study of Temperature and Pressure Instabilities during Flow Boiling in Straight-and 10°Oblique-Finned Microchannels“. In Energy Procedia Vol. 75 (pp. 3105-3112).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. H Ghaedamini, PS Lee, CJ Teo, 2014. “Forced pulsatile flow to provoke chaotic advection in wavy walled microchannel heat sinks“, 2014 IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), pp. 680-687.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Jagirdar, M., & Lee, P. S. (2014). “Methodology for more accurate assessment of heat loss in microchannel flow boiling“. In Proceedings of the 16th Electronics Packaging Technology Conference, EPTC 2014 (pp. 630-634).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Tamanna, A., & Lee, P. S. (2014). “Investigation of flow boiling characteristics in expanding silicon microgap heat sink“. In Thermomechanical Phenomena in Electronic Systems -Proceedings of the Intersociety Conference (pp. 458-465).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Mou, N., Lee, P. S., & Khan, S. A. (2014).” A simplified ‘effective circuit fluid flow model for forced convection in oblique fin configuration“. In ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE) Vol. 8A.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Ghaedamini, H., Lee, P. S., & Teo, C. J. (2014). “Forced Pulsatile Flow to Provoke Chaotic Advection in Wavy Walled Microchannel Heat Sinks“. In 2014 IEEE INTERSOCIETY CONFERENCE ON THERMAL AND THERMOMECHANICAL PHENOMENA IN ELECTRONIC SYSTEMS (ITHERM) (pp. 680-687).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Balasubramanian, K. and Lee, P. –S., 2012. “Two-phase stepped fin microchannel heat sink for enhanced heat transfer and reduced pressure drop“, PCT Patent Application No.: PCT/SG2012/000416.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Lee, P. -S. and Chang, S. C., 2005. “Method for the mitigation of hot spots in integrated circuits“, United States Patent Application Number 11/198683, European Patent Application Number 06076370.3-1235 (Multi-countries).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Lee, P. -S. and Garimella, S. V., 2007. “Hot-spot thermal management with flow modulation in a microchannel heat sink“, United States Patent 7,277,284, European Patent Application (Germany).
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Alam, T., Lee, P. S.,& Jin, L. (2013). “Flow Boiling in Microgap Channels: Experiment, Visualization and Analysis“, In SpringerBriefs in Applied Sciences and Technology.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Fan, Y., Lee, P. S., Singh, P. K.,& Lee, Y. J. (2015). “Thermal transport in oblique finned micro/minichannels“, In SpringerBriefs in Applied Sciences and Technology.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
+
+1. Alam, T.,& Lee, P. S. (2017). “Flow Boiling in Expanding Microchannels“, In SpringerBriefs in Applied Sciences and Technology.
+
+    게시 페이지: <https://blog.nus.edu.sg/coolestlab/publications/>
 
 ## National University of Singapore — BAEK Jihyun
 
@@ -275,67 +973,437 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:14.304Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: LENG Siew Bing, Gerard / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://cde.nus.edu.sg/me/staff/leng-siew-bing-gerard/>
 
 ## National University of Singapore — LI Rong
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:29.973Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: LI Rong / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://cde.nus.edu.sg/me/staff/rong-li/>
 
 ## National University of Singapore — LIM Kian Meng
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:31.826Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: Lim Kian Meng's Homepage / Menu / Lim Kian Meng / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <http://blog.nus.edu.sg/limkm>
 
 ## National University of Singapore — LIU Chang (Will)
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 24건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:33.990Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: STEMS Lab / Sustainable Technologies with Engineered Soft Matter / About Lab / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / Publication page visible text captured; structured extraction pending.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://will-liu.me/publications/>
+
+1. 24. Yuchen Li, Ying-Ru Qiu, Jinsha Liao, Helios Y. Li, Zhouyuntong Liu, Yuxiang Chen, Mao Yu, Lizhi Xu, Chang Liu, Jefferson Zhe Liu, Jian-Feng Li, Weishu Liu, Yao-Hui Wang, Nicholas X. Fang, Modulating thermo-diffusion/galvanic coupling via ion speciation engineering enables high-performance ionic thermoelectric cells, Nature Communications, 17 (2026)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 23. Chang Liu*, Xiao-Yun Yan*, Shucong Li*, Hongshi Zhang, Bolei Deng, Nicholas X. Fang, Youssef Habibi, Shih-Chi Chen, Xuanhe Zhao, A metre-scale vertical origami hydrogel panel for atmospheric water harvesting in Death Valley, Nature Water, 3, 714–722 (2025)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 22. Zhiguang Liu, Minkun Cai, Shenda Hong, Junli Shi, Sai Xie, Chang Liu, Huifeng Du, James D. Morin, Gang Li, Liu Wang, Hong Wang, Ke Tang, Nicholas X. Fang, Chuan Fei Guo, Data-driven inverse design of flexible pressure sensors, Proceedings of the National Academy of Sciences, 121(28), e2320222121 (2024)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 22. Zhiguang Liu, Minkun Cai, Shenda Hong, Junli Shi, Sai Xie, Chang Liu, Huifeng Du, James D. Morin, Gang Li, Liu Wang, Hong Wang, Ke Tang, Nicholas X. Fang, Chuan Fei Guo, Data-driven inverse design of flexible pressure sensors, Proceedings of the National Academy of Sciences, 121(28), e2320222121 (2024) 21. Chang Liu, Sijia Wang, Shien-Ping Feng, Nicholas X Fang, Portable green energy out of the blue: hydrogel-based energy conversion devices, Soft Science, 3(1), 10 (2023)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 20. Chang Liu, Qikai Li, Sijia Wang, Weishu Liu, Nicholas X Fang, Shien-Ping Feng, Ion regulation in double-network hydrogel module with ultrahigh thermopower for low-grade heat harvesting, Nano Energy, 92, 106738 (2022)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 19. Chang Liu, Sijia Wang, Xun Wang, Jianjun Mao, Yue Chen, Nicholas X Fang, Shien-Ping Feng, Hydrovoltaic energy harvesting from moisture flow using an ionic polymer-hydrogel-carbon composite, Energy & Environmental Science, 15, 2489-2498 (2022)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 18. Jianan Chen, Zhenyu Wang, Jianjun Mao, Chang Liu, Yue Chen, Zhouguang Lu, Shien-Ping Feng, Bimetallic Ag-Cu nanosheets assembled flower-like structure for oxygen reduction reaction, Journal of Alloys and Compounds, 856, 157379 (2021)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 17. Lei Wang*, Rui Cheng*, Chang Liu*, MC Ma, Wentao Wang, Gu Yang, ong, Michael Kwok Hi Leung, Fude Liu, Shien-Ping Feng, Trielectrolyte aluminum-air cell with high stability and voltage beyond 2.2 V, Materials Today Physics, 14, 100242 (2020)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 16. Jianan Chen, Zhenyu Wang, Hyeonseok Lee, Jianjun Mao, Craig A. Grimes, Chang Liu, Mingyang Zhang, Zhouguang Lu, Yue Chen, Shien-Ping Feng, Efficient electroreduction of CO2 to CO by Ag-decorated S-doped g-C3N4/CNT nanocomposites at industrial scale current density, Materials Today Physics, 12, 100176 (2020)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 16. Jianan Chen, Zhenyu Wang, Hyeonseok Lee, Jianjun Mao, Craig A. Grimes, Chang Liu, Mingyang Zhang, Zhouguang Lu, Yue Chen, Shien-Ping Feng, Efficient electroreduction of CO2 to CO by Ag-decorated S-doped g-C3N4/CNT nanocomposites at industrial scale current density, Materials Today Physics, 12, 100176 (2020) 15. Chun Cheng, Yawen Dai, Jie Yu, Chang Liu, Sijia Wang, Shien Ping Feng, Meng Ni, Review of liquid-based systems to recover low-grade waste heat for electrical energy generation, Energy & Fuels, 35(1), 161-175 (2020)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 14. Chang Liu, Qichen Song, Jianan Chen, Xinhao Li, Jingxuan Cai, Zhouguang Lu, Wendi Li, Nicholas X Fang, Shien-Ping Feng, Electromagnetic and Chemical Enhancements of Surface-Enhanced Raman Scattering Spectra from Cu2O Hexagonal Nanoplates, Advanced Materials Interfaces, 6(17), 1900534 (2019)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 13. Xun Wang, Yu-Ting Huang, Chang Liu, Kaiyu Mu, Ka Ho Li, Sijia Wang, Yuan Yang, Lei Wang, Chia-Hung Su, Shien-Ping Feng, Direct thermal charging cell for converting low-grade heat to electricity, Nature communications, 10(1), 1-8 (2019)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 13. Xun Wang, Yu-Ting Huang, Chang Liu, Kaiyu Mu, Ka Ho Li, Sijia Wang, Yuan Yang, Lei Wang, Chia-Hung Su, Shien-Ping Feng, Direct thermal charging cell for converting low-grade heat to electricity, Nature communications, 10(1), 1-8 (2019) [HKU News] 12. Xin-Hao Li*, Chang Liu*, Shien-Ping Feng, Nicholas Xuanlai Fang, Broadband light management with thermochromic hydrogel microparticles for smart windows, Joule, 3(1), 290-302 (2019)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. [Nature, News and Views] [Science Daily] 11. Jianan Chen*, Chang Liu*, Yu-Ting Huang, Hyeonseok Lee, Shien-Ping Feng, Study of the growth mechanisms of nanoporous Ag flowers for non-enzymatic glucose detection, Nanotechnology, 29(50), 505501 (2018)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 10. Nga Yu Hau, Peixian Yang, Chang Liu, Jian Wang, Po-Heng Lee, Shien-Ping Feng, Aminosilane-assisted electrodeposition of gold nanodendrites and their catalytic properties, Scientific reports, 7(1), 1-10 (2017)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 9. Peng Zhai, Yuechen Wang, Chang Liu, Xun Wang, Shien-Ping Feng, Electric-Field-Tunable Conductivity in Graphene/Water and Graphene/Ice Systems, Small, 13(39), 1701149 (2017)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 8. Chang Liu, Ya-Huei Chang, Jianan Chen, Shien-Ping Feng, Electrochemical synthesis of Cu2O concave octahedrons with high-index facets and enhanced photoelectrochemical activity, ACS applied materials & interfaces, 9(44), 39027-39033 (2017)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 7. Ya-Huei Chang*, Chang Liu*, Sergei Rouvimov, Tengfei Luo, Shien-Ping Feng, Electrochemical synthesis to convert a Ag film into Ag nanoflowers with high electrocatalytic activity, Chemical Communications, 53(50), 6752-6755 (2017)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 6. Ya-Huei Chang, Chang Liu, Shien-Ping Feng, Electrochemical fabrication of metal nanostructures by using a hydrophilic/hydrophobic sponge-like NiOOH/Ni (OH) 2 template, Thin Solid Films, 603, 1-7 (2016)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 5. Chang Liu, Hyeonseok Lee, Ya-Huei Chang, Shien-Ping Feng, The study of electrical conductivity and diffusion behavior of water-based and ferro/ferricyanide-electrolyte-based alumina nanofluids, Journal of colloid and interface science, 469, 17-24 (2016)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 4. Peng Zhai, Chih-Chi Lee, Ya-Huei Chang, Chang Liu, Tzu-Chien Wei, Shien-Ping Feng, A significant improvement in the electrocatalytic stability of N-doped graphene nanosheets used as a counter electrode for [Co (bpy) 3] 3+/2+ based porphyrin-sensitized solar cells, ACS Applied Materials & Interfaces, 7(3), 2116-2123 (2015)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 3. Yuming Chen, Chang Liu, Xiaoxuan Sun, Han Ye, Chunshun Cheung, Limin Zhou, Recycled diesel carbon nanoparticles for nanostructured battery anodes, Journal of Power Sources, 275, 26-31 (2015)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 2. Ya-Huei Chang, Nga Yu Hau, Chang Liu, Yu-Ting Huang, Chien-Cheng Li, Kaimin Shih, Shien-Ping Feng, A short-range ordered-disordered transition of a NiOOH/Ni (OH) 2 pair induces switchable wettability, Nanoscale, 6(24), 15309-15315 (2014)
+
+    게시 페이지: <https://will-liu.me/publications/>
+
+1. 1. Haijun Su, Mingyang Zhang, Ya-Huei Chang, Peng Zhai, Nga Yu Hau, Yu-Ting Huang, Chang Liu, Ai Kah Soh, Shien-Ping Feng, Highly conductive and low cost Ni-PET flexible substrate for efficient dye-sensitized solar cells, ACS Applied Materials & Interfaces, 6(8), 5577-5584 (2014)
+
+    게시 페이지: <https://will-liu.me/publications/>
 
 ## National University of Singapore — LOH Wai Lam
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:38.588Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: LOH Wai Lam / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://cde.nus.edu.sg/me/staff/loh-wai-lam-2/>
 
 ## National University of Singapore — Manoj GUPTA
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:40.463Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: Manoj GUPTA / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://cde.nus.edu.sg/me/staff/gupta-manoj-2/>
 
 ## National University of Singapore — Marcelo H ANG Jr
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:42.198Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <http://guppy.mpe.nus.edu.sg/~mpeangh>
 
 ## National University of Singapore — ONG Chong Jin
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 65건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:47.286Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Invited Presentation on Robust Control to Minghsin University of Science and Technology, (12 to 17 November 2007).
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Invited Presentation to Robotics Institute, Harbin Institute of Technology, China (from 21 to 24 December 2009) on Robust Controller Design.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Invited Presentation to School of Automation, Beijing Information Science and Technology University, (22 to 25 November 2009).
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Invited speaker for for Asia Pacific Magnetic Research Conference, 2013.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Invited Presentation on Model Predictive Control at Imperial College of Science and Technology in 2014.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Keynote speaker on Control Conference in Northwestern Polytechnic University in Xi'an, China July, 2019.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Selected Publications on Control Theory and MPC Dongdong Qin, ChongJin Ong, Andong Liu, Wen-an Zhang, Li Yu Event-triggered distributed predictive control for multi-agent systems with stability constraints, Automatica, Volume 178, August 2025, 112358
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Yibo Gao and Chong Jin Ong, Circular Formation of General Linear Agents using Output Feedback, Conference of Decision and Control, Singapore, December 2023.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Zheming Wang, Raphaël M. Jungers, Chong-Jin Ong, Computation of invariant sets via immersion for discrete-time nonlinear systems, Automatica Volume 147, January 2023, 110686
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Chong Jin Ong and Ilyada Canyakmaz, Consensus of Network of Unstable Homogeneous Linear Systems, Conference of Decision and Control, Cancun, December 2022.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Chong Jin Ong and Bonan Hou, Consensus of Heterogeneous Multi-agent system with input constraints, Automatica Vol. 134, December 2021, 109895.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Zheming Wang, Raphaël M. Jungers, Chong-Jin Ong, Computation of the maximal invariant set of discrete-time linear systems subject to a class of non-convex constraints, Automatica Volume 125, March 2021.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Quanyi Liang, Chong Jin Ong, Zhikun She, On the Asymptotic Stability of Directed Nonlinear Multiagent Network via Nonlinear Control Protocol, 21st IFAC World Congress, IFAC-PapersOnLine, Volume 53, Issue 2, 2020, Pages 2933-2937
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Quanyi Liang, Chong Jin Ong, Zhikun She, Sum-of-squares–based consensus verification for directed networks with nonlinear protocols, Int. J. of Robust and Nonlinear Control, Volume30, Issue4, Pages 1719-1732, March 2020
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Chong Jin Ong, Djati Wibowo Djamari and Bonan Hou, A Governor Approach for Consensus of Heterogeneous Systems with Constraints under a Switching Network, Automatica Vol. 122 December 2020 .
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Zheming Wang and Chong Jin Ong Accelerated Distributed MPC of Linear Discrete-Time Systems with Coupled Constraints, IEEE Transaction on Automatic Control, Vol. 63, No. 11, Pages 3838-3849, 2018
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Zheming Wang and Chong Jin Ong Speeding up finite-time consensus via minimal polynomial of a weighted graph - a numerical approach, Automatica Vol. 93, Pages 415-421, 2018
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Zheming Wang and Chong Jin Ong Distributed Model Predictive Control of Linear Discrete-Time Systems with Local and Global Constraints Automatica,Vol. 81, July 2017, Pages 184-195
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Chong-Jin Ong, Zheming Wang, Masood Dehghan Model Predictive Control for Switching Systems with Dwell-time Restriction IEEE Transactions on Automatic Control, Vol. 61, No. 12, page 4189-4195, December 2016.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Zheming Wang, Chong Jin Ong, Distributed MPC of Constrained Linear Systems with Time-varying Terminal Sets Systems and Control Letters, Volume 88, February 2016, Pages 14-23.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Chong Jin Ong, Reducing variables of Model Predictive Control of Linear System via Singular Value Decomposition Technical Report C13-001, Dept. of Mechanical Engineering. A shortened version appears in Systems and Control Letters, Volume 71, September 2014, Pages 62-68.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Masood Dehghan, Chong Jin Ong, Computations of Mode-dependent Dwell Times for Discrete-Time Switching System Automatica, vol. 49, Issue 6, June 2013 pp 1804-1808.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Masood Dehghan, Chong Jin Ong, Characterization and computation of disturbance invariant sets for switched linear systems with dwell time restriction Automatica, vol. 48, Issue 9, September 2012, Pages 2175-2181.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Masood Dehghan, Chong-Jin Ong, Discrete-time switching linear system with constraints: characterization and computation of invariant sets under dwell-time consideration, Automatica, vol. 48, Issue 5, May 2012, Pages 964-969.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C. Wang and C.J. Ong, Constraint-admissible sets for systems with soft constraints and their application in Model Predictive Control International Journal of Robust and Nonlinear Control, Volume 22, Issue 11, pages 1229-1243, 25 July 2012.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. E. G. Gilbert and C.J. Ong, Constrained Linear Systems with Hard Constraints and Disturbances: An Extended Command Governor with Large Domain of Attraction, Automatica, Volume 47, Issue 2, February 2011, Pages 334-340
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C. Wang and C.J. Ong, Distributed Model Predictive Control of Dynamically Decoupled Systems with Coupled Cost, Automatica, Vol. 46, Issue 12, December 2010, Pages 2053-2058
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C. Wang, C.J. Ong and M. Sim, Model Predictive Control using Segregated Disturbance Feedback, IEEE Transactions of Automatic Control, 55, no. 4 (2010): 831-840, 2010
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. D. Sui, C.J. Ong and L Feng, A framework for multiple robust explicit MPC controllers for linear systems, , International Journal of Control, Vol. 82 no. 8, pp. 1414-1422, 2009
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C. Wang, C.J. Ong and M. Sim, Convergence properties of Constrained Linear System under MPC control law using affine disturbance feedback, Technical Report C09-001, Dept. of Mechanical Engineering, a shortened version appears in Automatica, Vol. 45, no. 7 pp. 1715-1720, 2009
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. D. Sui, L Feng, C.J. Ong and M. Hovd, Decomposition Principle in Model Predictive Control for Linear Systems with Bounded Disturbances, Automatica, Vol 45, no. 8, 2009
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. D. Sui, L Feng and C.J. Ong, Interpolated robust time-optimal controllers for linear systems, IET Control Theory and Applications, 2 no. 3, pp. 219-227, 2008
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C. Wang, C.J. Ong and M. Sim, Constrained linear system with disturbance: stability under disturbance feedback Automatica, Vol. 44, no. 10, 2008
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. D. Sui and C.J. Ong, Constrained Piecewise Linear Systems with Disturbance: Controller Design via Convex Invariant Sets, International Journal of Robust and Nonlinear Control, 18, no. 13, pp 1327-1347, 2007.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C.J. Ong and E. G. Gilbert, Constrained Linear Systems with disturbances: Enlargement of Their Maximal Invariant Sets by Nonlinear Feedback, Proceedings of 2006 American Control Conference, Minneapolis, June 14-16, 2006.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. D. Sui and C.J. Ong, Multimode Model Predictive Controller for theconstrained linear system with bounded disturbances, Proceedings of 2006 American Control Conference, Minneapolis, June 14-16, 2006.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C.J. Ong and E. G. Gilbert, The Minimal Disturbance Invariant Set: Outer Approximations via Its Partial Sums, Vol. 42, pp 1563-1568, Automatica 2006.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C.J. Ong, D. Sui and E. G. Gilbert, Enlarging the Terminal Region of Nonlinear Model Predictive Control using the Support Vector Machine Method,Vol. 42, pp. 1011-1016 Automatica 2006.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C.J. Ong, Z. Zhang, E.G. Gilbert and S. Keerthi, Stability Region for Constrained Nonlinear Systems and Their Functional Characterization via Support-Vector-Machine Learning, Automatica Vol. 40, No.11, 1955-1964, 2004.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. J.B. Yang and C.J. Ong, Feature Selection using Probabilistic Prediction of Support Vector Regression, IEEE Transactions of Neural Networks, 22, no. 6, 2011.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. J.B. Yang and C.J. Ong, Determination of Global Minima of Some Common Validation Functions in Support Vector Machine, IEEE Transactions of Neural Networks, 22, no. 4, pp 654-659, 2011.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C.J. Ong, S.Y. Shao and J.B. Yang, An Improved Algorithm for the Solution of the regularization Path of Support Vector Machine, Technical Report C09-002, Dept. of Mechanical Engineering. A shortened version appears in IEEE Transactions on Neural Networks, Vol. 21, No. 3, pp451-462, 2010. More information, including a matlab implementation, on the method can be found here.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. J.B. Yang, K.Q. Shen, C.J. Ong and X.P. Li, , Feature Selection for MLP Neural Network: The use of Random Permutation of Probabilistic Outputs , IEEE Transactions of Neural Network, Vol. 20, no. 12, pp. 1911-1922, 2009.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. S. Shao, K. Shen, C. J. Ong, E P V Wilder-smith and X. P. Li, Automatic EEG Artifact Removal: A Weighted Support-Vector-Machine Approach With Error Correction. IEEE Transactions on Biomedical Engineering, Vol.56, no. 2, pp 336-344, 2009.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. K. Q. Shen, X. P. Li, C. J. Ong, S. R. shao and E. P. V. Wilder-smith, EEG-based Mental Fatigue Measurement using Multi-Class Support Vector Machines with Confidence Estimate, Clinical Neurophysiology, 119/7, pp 1524-1533, 2008
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. K. Q. Shen, C.J. Ong, X. P. Li and E. P. V. Wilder-Smith, Feature Selection via Sentivity Analysis of SVM probabilistic outputs, Machine Learning Vol. 70, No.1 January 2008.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. K. Q. Shen, C. J. Ong, X P Li, H. Zheng and E. P. V Wilder-smith, A Feature Selection Method for Multi-Level Mental Fatigue EEG Classification, IEEE Transactions on Biomedical Engineering, Vol. 54, no. 7, pp 1231-1237, 2007.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. L.J. Cao, S.S. Keerthi, C.J. Ong, U. Periyathamby, X.J. Fu, H.P. Lee and J.Q. Zhang, Parallel Sequential Minimal Optimization for the Optimization for the Training of Support Vector Machines, IEEE Transactions on Neural Networks, Vol. 17 No. 4, July 2006.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. W. Chu, C.J. Ong and S.S. Keerthi, An Improved Conjugate Gradient Scheme to the Solution of Least Squares SVM, IEEE Transactions on Neural Network, Vol. 16, No. 2, 498-500, 2005
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. W. Chu, S.S. Keethi, C.J. Ong and Zoubin Ghahramani, Bayesian Support Vector Machines for Feature Ranking and Selection, Features Extractions, Foundations and Applications, Springer Verlag, 2005.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. M. Lee, S. Keerthi, C.J. Ong and D. DeCoste, An efficient method for Computing Leave-One-Out Error in Support Vector Machines with Guassian Kernels, IEEE Transactions on Neural Network, Vol. 15, No. pp 750-757, 2004.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. W. Chu, S.S. Keerthi and C.J. Ong, Bayesian support vector regression using a unified loss function, IEEE Transactions on Neural Networks, Vol. 15, no. 1,pp 29-44, 2004.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. W. Chu, S.S. Keerthi and C.J. Ong, Bayesian Trigonometric Support Vector Classifier, Neural Computation, 15, pp 2227-2254, September 2003.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. W. Chu, S.S. Keerthi and C.J. Ong, Bayesian Trigonometric Support Vector Classifier, Neural Computation, 15, pp 2227-2254, September 2003. Selected Publications on Proximal Distance Computation and Path Planning CJ Ong and EG Gilbert, Fast Versions of the Gilbert-Johnson-Keerthi Distance Algorithm: Additional Results and Comparisons, IEEE Transactions on Robotics and Automation, Vol. 17, No. 4, 2001.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C. J. Ong, E Huang and SM Hong, A Fast Growth Distance Algorithm for Incremental Motions, IEEE Transactions on Robotics and Automation, Vol. 16, No.6, 2000
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. S. Sathiya Keerthi, CJ Ong, Eugene Huang and EG Gilbert, "EquiDistance Diagram - A New Roadmap Method for Path Planning", Proc. IEEE Conf. on Robotics and Automation, pp682-687, May 1999. More information on this work can be found here.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C.J. Ong and E.G. Gilbert, Robot Path Planning with Penetration Growth Distance, Journal of Robotic Systems 15(2) pp. 57-74 1998
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C.J. Ong, On the Quantification of Penetration between General Objects, The International Journal of Robotics Research, Vol.16, No.3. 1997
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C. J. Ong, Computation of Penetration Between Smooth Convex Objects in Three-Dimensional Space, Journal of Robotic Systems, Vol. 13, No.5. 1996
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C.J. Ong and EG Gilbert, Growth Distances: New Measures for Object Separation and Penetration, IEEE Transactions on Robotics and Automation, Vol. 12, No. 6, Dec 1996
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Selected Publications on Control for Flexible System and Others Hu, G S, C J Ong and C L Teo, Minimum-time control of crane with simultaneous traverse and hoist. Journal of Optimization Theory and Applications, 120, no. 2, 2004
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. E.P. Chew, C.J. Ong and K.H. Lim, Variable Period Adaptive Genetic Algorithm, International Journal on Computers and Industrial Engineering, Vol. 42, 2-4, pp 353-360, June 2002
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. G.S. Hu, C.J. Ong and C.L. Teo, An enhanced transcribing scheme for the numerical solution of a class of optimal control problems, Engineering Optimization Vol. 34, No. 2, 2002.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. Teo, C L, C J Ong and M Xu, Pulse input sequences for residual vibration reduction, Journal of Sound and Vibration, 211, no. 2 pp 157-177 1998.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
+
+1. C. J. Ong, Y.S.Wong, H.T.Loh and X.G.Hong, An Optimization Approach for Biarc Curve-Fitting of B-Spline, Computer-Aided Design, Vol. 28, No.12, 1996.
+
+    게시 페이지: <https://sites.google.com/view/ongcjhome/publications-and-seminars>
 
 ## National University of Singapore — ONG Soh Khim
 
@@ -2288,29 +3356,237 @@
 
 ## National University of Singapore — SHIN Sunmi
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 51건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:52.992Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: About / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / Publication page visible text captured; structured extraction pending.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Shin, R. Chen "Thermal transport measurements of nanostructures using suspended micro-devices", Book Chapter in 'Nanoscale Energy Transport', Ed. B. Liao, IOP Publishing, (2020)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. M. Zebarjadi, G. Chen, Z. Ren, S. Shin, R. Chen, J. P. Heremens, B. Wiendlocha, H. Jin, B. Wang, and Q. Zhang "Engineering of Materials", Book Chapter in 'Advanced Thermoelectrics: Materials, Contacts, Devices, and Systems', Taylor & Francis, (2018)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. J. Wang, H. Li, and S. Shin†, "High performance wearable thermoelectric coolers with 3D structural thermoelectric pillars", npj Thermal Science and Engineering 1 (1), 3 (2026)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. H. Wang, Y. Wan, S. Owyong, E. T. C. Lim, A. Goel, A. Shi, Z. Lu, T. H. Nguyen, H. W. Kua†, S. Shin†and A. Lin†, “Toward low-carbon construction: Nature-inspired internal patterns for thermal insulation in lightweight concrete component cast using 3D-printed formwork”, Energy and Buildings, 116944 (2026)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. Y. Cai, L. Zhang, S. Feng, W. Feng, R.-T. Wen, S. Shin and L. Guo, “Nonequilibrium anlaysis in metal transducer-assisted acoustic deformation potential characterization of semiconductors”, International Journal of Heat and Mass Transfer, 257, 128220 (2026)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Sim, S. Li, W. Cai, B. Yu, X. Ju, J. Cao, Z. Dong, X. Yin, S. Shin, Y. Luo, D. Chi, A. Suwardi, H. K. Ng and J. Wu, "Strategic Mobility Engineering in 2D Semiconductor-based FETs for Enhanced Electronic Devices", Advanced Science, e09170 (2025)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. Y.-M. Zhao, X. Zhang, C. Zhang, S. Shin† and L. Shen†, "Dual-channel phonon transport in two-dimensional materials with low thermal conductivity", Physical Review B, 112, 125406 (2025)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. Y. Wen, J. Cho, L. Yu, Y.-M. Zhao, J. Wang, L. Shen, G. Qin, S. M. Yoon†, J. Lim† and S. Shin†, "Thermal Conductivity of Individual Single-Crystalline F16CuPc Nanoribbons", Nanoscale, 17, 20982 (2025)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Li, R. E. Mohan, J. Wang, H.S. Chu†, and S. Shin†, "Quasi-ballistic Heat Conduction of Long-range Surface Phonon Polaritons Coupled to Thermal Reservoirs", ACS Nano, 19 (22) (2025)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. Z. Chen, Y. Wen, Y. Xu, D. Li, Q. Le, S. Shin† and J. Ouyang†, "A Solid Polymer Film with Giant Thermoelectric Properties by Polar Level Splitting with an Organic Donor", Adv. Func. Mater. 2424378 (2025)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. Z. Li†, X. Chen, D. Liu, Y Zhou, D. Pan† and S. Shin†, "Recent advances in polymer-based composites for thermal management and electromagnetic wave absorption", Advanced Composites and Hybrid Materials, 8 (2), 210 (2025)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. D. Pan, Z. Han, J. Lei, Y. Niu, H. Liu, S. Shin, C. Liu and Z. Guo, "Core-shell structured BN/SiO2 nanofiber membrane featuring with dual-effect thermal management and flame retardancy for extreme space thermal protection", Science Bulletin, 70(5) (2025)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. P. Banerjee, J. Huang, J. Lombardo, S. B. Ambade, R. B. Ambade, T. H. Han, S. Kulkarni, S. Sengupta, Z. Rosenzwieg, H. Fairbrother, S. Li, S. Shin and D. Madan, "Scalable and environmentally friendly MXene-tetrahedrites for next-generation flexible thermoelectrics", Journal of Materials Chemistry A, 13, 654 (2025)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. M. Du, Y. Wen, Z. Chen, Y. Xu, J. Qin, H. Cheng, Y. Du, K. Zhang, S. Shin and J. Ouyang, "A Polymer Film with Very High Seebeck Coefficient and Overall Thermoelectric Properties by Secondary Doping, Dedoping Engineering and Ionic Energy Filtering", Adv. Func. Mater., 2411815 (2025)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. H. Wang, S. Owyong, A. Shi, S. Shin, T. H. Nguyen and A. Lin, "Investigating on Thermal insulation in Concrete Partition Wall with Insulation-material-infilled Voronoi Sections: Feature Impact Analysis and Efficient Assessment Approach", Journal of Building Engineering, 96, 110437 (2024)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. Y.-M. Zhao, Z. Wang, J. Zhou, C. Zhang, S. Shin† and L. Shen†, "Effects of loosely bound electrons and electron-phonon interaction on thermoelectric properties of electrene", Journal of Materials Chemistry C, 12, 14496 (2024)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. J. Wang, Y. Wen, D. Pan, S. Lin, A. Chinnappan, Q. He, C. Liu, Z. Huang, S. Cai, S. Ramakrishna and S. Shin†, "High thermal conductive liquid crystal elastomer nanofibers", Nano Letters, 24, 32, 9990 (2024)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. W.-Q. Wang, S. Li, X.-D. Guo, Y.-L. He† and S. Shin†, "Enhancing cold energy harvest with daytime passive radiative cooling and phase change materials integration: A numerical exploration", Applied Thermal Engineering, 249, 123449 (2024)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Li, J. Wang, Y. Wen and S. Shin†, "Long propagating polaritonic heat transfer: shaping radiation to conduction", ACS Nano, 18, 22, 14779 (2024)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. D. Ji, P. Li, P. Im, S. Shin† and J. Kim†, "Thermal interface hydrogel composites mechanically compliant with skins", Adv. Func. Mater., 2402144 (2024)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. Z. Feng, W. Tan, Z. Kin, Y.-J. Chen, Z. Zhong, L. Zhang, S. Sun, J. Tang, Y. Jiang, P.-H. Wu, J. Cheng, B. Miao, H. Diing, D. Wang, Y. Zhu, L. Guo, S. Shin, G.-H. Ma, D. Hou, S.-Y. Huang, “Anomalous Nernst effect induced terahertz emission in a single ferromagnetic film”, Nano Letters, 3, 17 (2023)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. P. Ding, Y. Zhu, Z. Han, L. Li, L. Zhang, Y. Cai, D. J. Singh, L. Zhang, W. Zhang, S. Shin, J. Yang, W. Liu and L. Guo, "Coherent acoustic phonon dynamics facilitating acoustic deformation potential characterization of Mg3Sb2", Physical Review B, 108, 064310 (2023)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. H. Wang, S. Shin and A. Lin, "Bayesian-based optimization of concrete infill pattern for enhancing thermal insulation performance", Developments in the Built Environment, 15, 100210 (2023)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. Y. Zhao, C. Zhang, S. Shin† and L. Shen†, "Thermal conductivity of sliding bilayer h-BN and its manipulation with strain and layer confinement", Journal of Materials Chemistry C 11 (32), 11082 (2023)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Li and S. Shin†, "Long-range polaritonic heat conduction in asymmetric surrounding media", Journal of Applied Physics, 130 (23) (2023)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Li, R. E. Simpson and S. Shin†, "Enhanced far-field coherent thermal emission using mid-infrared bilayer metasurface", Nanoscale, 15 (39), 15965 (2023) - Invited for Nanoscale 2024 Emerging Investigators Collection
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. Y. Cai, L. Zhang, Y. He, W. She, W. Cai, Y. Wang, Y. Gan, Y. Liu, C. Cheng, J. Zhang, S. Shin† and L. Guo†, "Violet phosphorous with high-index and low-loss: A promising candidate for nanophotonics applications", Applied Physics Letters, 123, 023102 (2023)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. P. Liu, Y. Wen, C. F. Siah, M. E. Pam, B. Xu, A. V.-Y. Thean, Y. K. Lim† and S. Shin†, "A dual-domain 3ω method for measuring the in-plane thermal conductivity of high-conductive thin films", Applied Physics Letters, 122, 25 (2023) - Featured in 2023 APL Rising Stars Collection
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. H. Zhang, Z. Feng, G. Li, L. Zhang, X. Chen, H. Bai, S. Sun, J. Tang, J. Zhang, F. Han, H. Yang, W. Tan, Y. Chen, F. Hu, J. Cai, L. Guo, S. Shin, W. Zhao, B. Shen, J. Sun, "Tuning terahertz emission generated by anomalous Nernst effect in ferromagnetic metal", Applied Physics Reviews, 10, 1 (2023)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. L. Zhang, Y. Cai, L. Li, W. Feng, R.-T. Wen, S. Shin†, L. Guo†, "Metal transducer-assisted acoustic deformation potential characterization via coherent acoustic phonon dynamics", Photoacoustics, 30, 100489 (2023)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. D. Ji, P. Im, S. Shin, J. Kim, "Specimen Geometry Effect on Experimental Tensile Mechanical Properties of Tough Hydrogels", Materials, 16 (2), 785 (2023)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. J. Zheng, Y. Kodera, X. Xu, S. Shin, K. M. Chung, T. Imai, R. V Ihnfeldt, J. E Garay, R. Chen, "Suppressing thermal conductivity of nano-grained thermoelectric material using acoustically hard nanoparticles", Journal of Applied Physics, 130 (23), 235106 (2021)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Shin* and R. Chen*, "Cool textile", Joule 5 (9), 2258 (2021) - Invited Preview Article
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Shin and R. Chen, "Plasmonically enahnced thermal radiation by means of surface phonon polaritons", Physical Review Applied, 14, 064013 (2020)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. R. Shrestha, Y. Luan, X. Luo, S. Shin, T. Zhang, P. Smith, W. Gong, M. Bockstaller, T. Luo, R. Chen, K. Hippalgaonkar, S. Shen, "Dual-mode solid-state thermal rectification", Nature Communications, 11, 1 (2020)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. R. Hu, Y. Liu, S. Shin, S. Huang, X. Ren, W. Shu, J. Cheng, G. Tao, W. Xu, R. Chen, X. Luo "Emerging Materials and Strategies for Personal Thermal Management", Adv. Energy Mater. 1903921 (2020) - Invited Review
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Hong, S. Shin, and R. Chen, "An Adaptive and Wearable Thermal Camouflage Device", Adv. Func. Mater., 1904815 (2020)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. R. Shrestha,* Y. Luan,* S. Shin, T. Zhang, W. Gong, M. Bockstaller, T. Luo, R. Chen, K. Hippalgaonkar, and S. Shen, “High-Contrast and Reversible Polymer Thermal Regulator by Structural Phase Transition”, Science Advances, 5 : eaax3777 (2019)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Shin,* Q. Wang,* J. Luo, and R. Chen, "Advanced Materials for High-Temperature Thermal Transport", Adv. Func. Mater., 1904815 (2019) - Invited Review
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Shin, M. Elzouka, R. Prasher, and R. Chen, "Far-Field Coherent Thermal Emission from Polaritonic Resonance in Individual Anisotropic Nanoribbons", Nature Communications, 10:1377 (2019)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Shin, S. Hong, and R. Chen, "Hollow Photonic Structures of Transparent Conducting Oxide with Selective and Tunable Absorptance", Applied Thermal Engineering, 145, 416 (2018)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Shin, J. W. Roh, H.-S. Kim, and R. Chen, "Role of Surfactant on Thermoelectric Behaviors of Organic-Inorganic Composites", Journal of Applied Physics, 123, 205106 (2018)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Shin, R. Kumar, J. W. Roh, D.-S. Ko, H.-S. Kim, S. I. Kim, L. Yin, S. M. Schlossberg, S. Cui, J.-M. You, S. Kwon, J. Zheng, J. Wang, and R. Chen, "High-Performance Screen-Printed Thermoelectric Films on Fabrics", Scientific Reports, 7, 7317 (2017) - Selected in the Top 100 Scientific Reports Physics papers in 2017
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. T. K. Kim, B. VanSaders, E. Caldwell, S. Shin, Z. Liu, S. Jin, and R. Chen, "Copper-alloyed spinel black oxides and tandem-structured solar absorbing layers for high-temperature concentrating solar power systems", Solar Energy, 132, 257 (2016)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. M.-J. Park, J.-Y. Jung, S. Shin, J.-W. Song, Y.-H. Nam, D.-H. Kim, and J.-H. Lee, "Photoelectrochemical oxygen evolution improved by a thin Al2O3 interlayer in a NiOx/n-Si photoanode", Thin Solid Films, 599, 54 (2016)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. J.-W. Song, Y.-H. Nam, M.-J. Park, S. Shin, R. B. Wehrspohn, and J.-H. Lee, "Hydroxyl functionalization improves the surface passivation of nanostructured silicon solar cells degraded by epitaxial regrowth", RSC Advances, 5 (49), 39177 (2015)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Shin,* J.-Y. Jung,* M.-J. Park, J.-W. Song and J.-H. Lee, “Catalyst-free hydrogen evolution of Si photocathode by thermovoltage-driven solar water splitting”, J. Power Sources, 279, 151-156 (2015)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. J.-W. Song, J.-Y. Jung, H.-D. Um, X. Li, M.-J. Park, Y.-H. Nam, S. Shin, T.-J. Park, R. B. Wehrspohn and J.-H. Lee, “Degradation mechanism of Al2O3 passivation in nanostructured Si solar cells”, Adv. Mater. Interfaces, 15, 1400010 (2014)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. K.-T. Park,* S. Shin,* A. S. Tazebay, H.-D. Um, J.-Y. Jung, S.-W. Jee, M.-W. Oh, S.-D. Partk, B. Yoo, C. Yu and J.-H. Lee, “Lossless hybridization between photovoltaic and thermoelectric devices”, Sci. Rep., 3, 1-6 (2013)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. S. Shin, J.-Y. Jung, K.-T. Park, H.-D. Um, S.-W. Jee, Y.-H. Nam and J.-H. Lee, “A novel wrap-around metal contact optimized for radial p-n junction Si wire solar cells”, Energy & Environ. Sci., 6 (6), 1756-1760 (2013)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
+
+1. Y.-H. Nam, H.-D. Um, K.-T. Park, S. Shin, J.-W. Baek, M.-J. Park, J.-Y. Jung, K. Zhou, S.-W. Jee, Z. Guo and J.-H. Lee, “Multi-layer Coating of SiO2 Nanoparticles to Enhance Light Absorption by Si Solar Cells”, J. Kor. Phy. Soc., 60, 1944-1948 (2012)
+
+    게시 페이지: <https://sites.google.com/view/heatlabatnus/publications>
 
 ## National University of Singapore — SHU Chang
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:56.198Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: SHU Chang / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://cde.nus.edu.sg/me/staff/shu-chang/>
 
 ## National University of Singapore — SING Swee Leong
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:56:57.108Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: Welcome to SING Lab / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / Publication page visible text captured; structured extraction pending.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://thesinglab.com/>
 
 출처: <https://thesinglab.com/publications>
 
@@ -2324,21 +3600,163 @@
 
 ## National University of Singapore — TAN Xipeng
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 25건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:00.289Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: Tan Research Group / Home / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / Publication page visible text captured; structured extraction pending.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://xptan.com/publications/>
 
+1. X.P. Tan*, Y.H. Kok, Y.J. Tan, M. Descoins, D. Mangelinck, S.B. Tor, K.F. Leong, C.K. Chua. Graded microstructure and mechanical properties of additive manufactured Ti-6Al-4V via electron beam melting. Acta Materialia 97 (2015): 1-16.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. Z.J. Sun, X.P. Tan*, S.B. Tor, W.Y. Yeong. Selective laser melting of stainless steel 316L with low porosity and high build rates. Materials & Design 104 (2016): 197-204.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. X.P. Tan*, Y.J. Tan, C.S.L. Chow, S.B. Tor, W.Y. Yeong. Metallic powder-bed based 3D printing of cellular scaffolds for orthopaedic implants: A state-of-the-art review on manufacturing, topological design, mechanical properties and biocompatibility. Materials Science and Engineering C 76 (2017): 1328-1343.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. Z. Sun, X.P. Tan*, S.B. Tor, C.K. Chua. Simultaneously enhanced strength and ductility for 3D-printed stainless steel 316L by selective laser melting. NPG Asia Materials 10 (2018) 127-136.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. Y. Kok, X.P. Tan*, P. Wang, M.L.S. Nai, N.H. Loh, E. Liu, S.B. Tor. Anisotropy and heterogeneity of microstructure and mechanical properties in metal additive manufacturing: A critical review. Materials & Design 139 (2018): 565-586.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. C. Wang, X.P. Tan*, S.B. Tor, C.S. Lim. Machine learning in additive manufacturing: state-of-the-art and perspectives. Additive Manufacturing 36 (2020) 101538.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. Z. Sun, X.P. Tan*, C. Wang, M. Desoins, D. Mangelinck, S.B. Tor, E.A. Jagle, S. Zaefferer, D. Raabe. Reducing hot tearing by grain boundary segregation engineering in additive manufacturing: example of an AlxCoCrFeNi high-entropy alloy. Acta Materialia (2021) 116505.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. P. Kumar, S. Huang, D.H. Cook, K. Chen, U. Ramamurty, X.P. Tan*, R.O. Ritchie*. A strong fracture-resistant high-entropy alloy with nano-bridged honeycomb microstructure intrinsically toughened by 3D-printing. Nature Communications 15 (1), 841, 2024.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. J.S. Bae, K.H. Lim, S. Chandra, X.P. Tan*, GD Sim*. Exploring the High-Temperature Tensile Behavior of Additively Manufactured 316L Stainless Steel with Fine Equiaxed Grains. Journal of Materials Research and Technology 36 9790-9802, 2025
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. K.H. Lim, J.S. Bae, S. Chandra, K.H. Ryou, P.P. Choi, X.P. Tan, GD Sim*. Exceptional Creep Resistance of Additively Manufactured 316L Stainless Steel via Unprecedented Early Laves Phase Formation. Materials Science and Engineering: A 148006, 2025
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. Y. An, Y. Liu, S. Liu, B. Zhang, G. Yang, C. Zhang, X.P. Tan, J. Ding*, E. Ma. Additive manufacturing of a strong and ductile oxygen-doped NbTiZr medium-entropy alloy. Materials Features 4 (1) 015001, 2025
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. S. Chandra, C. Wang, S.B. Tor, U. Ramamurty, X.P. Tan*. Powder-size driven facile microstructure control in powder-fusion metal additive manufacturing processes. Nature Communications 15 (1) 3094, 2024
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. R. Cui, L. Wang*, Y. Su*, B. Li, L. Yao, B. Wang, L. Luo, R. Chen, J. Guo, X.P. Tan*. Multiscale microstructure containing nanometer-scale precipitations and stacking faults yields a high-strength Al-5Cu alloy by electron beam freeform fabrication. Acta Materialia 266, 119682, 2024
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. N. Marrani, C. Gao, R.Q. Tan, X.P. Tan*. Homogenization heat treatment and tribological properties of in situ alloyed NiTiCu by laser powder‐bed fusion. Advanced Engineering Materials (2024): 2401335. (Invited)
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. Y. Guo, H. Su, H. Gao, Z. Shen, P. Yang, Y. Liu, D. Zhao, Z. Zhang, M. Guo, X.P. Tan. Microstructural origins of enhanced work hardening and ductility in laser powder-bed fusion 3D-printed AlCoCrFeNi2. 1 eutectic high-entropy alloys. International Journal of Plasticity 179 (2024): 104050.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. C. Wang, S. Chandra, S. Huang, S.B. Tor, X.P. Tan*. Unraveling process-microstructure-property correlations in powder-bed fusion additive manufacturing through information-rich surface features with deep learning. Journal of Materials Processing Technology 311, 117804, 2023
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. S. Chandra, X.P. Tan*, P. Kumar, U. Ramamurty. Part geometry-driven crystallographic texture control in a 3D-printed austenitic steel–a strategy for near-monocrystalline microstructure generation. Scripta Materialia 226, 115255, 2023
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. C. Jia, F. Chen*, X.P. Tan, Y. He, Y. Wu, Q. Shen. Understanding high-temperature corrosion behavior of an AlN/Mo functionally graded material exposed to Li/LiF-LiCl-LiBr vapor. Corrosion Science 220, 111297, 2023
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. R. Tosi, C.L.A. Leung*, X.P. Tan*, E. Muzangaza, M.M. Attallah. Revealing the microstructural evolution of electron beam powder bed fusion and hot isostatic pressing Ti-6Al-4V in-situ shelling samples using X-ray computed tomography. Additive Manufacturing 57, 102962, 2022
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. R. Tosi, E. Muzangaza, X.P. Tan*, D. Wimpenny, M.M. Attallah. Hybrid electron beam powder bed fusion additive manufacturing of Ti-6Al-4V: processing, microstructure, and mechanical properties. Metallurgical and Materials Transactions A, 1-15, 2022.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. P. Wang*, X.P. Tan, M.L.S. Nai, J. Wu, J. Wei. Deformation induced nanoscale twinning improves strength and ductility in additively manufactured titanium alloys. Materials Science and Engineering A, 142568, 2022.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. S. Tekumalla, R. Tosi, X.P. Tan, M. Seita. Directed energy deposition and characterization of high-speed steels with high vanadium content. Additive Manufacturing Letters, 100029, 2022.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. G. Zhou, Y. Zhang, W. Pantleon, J. Kou, U. Ramamurty, X.P. Tan, S. Luo, W. He, C.-S. Ku, C.-Y. Chiang, N. Tamura, K. Chen*. Quantification of room temperature strengthening of laser shock peened Ni-based superalloy using synchrotron microdiffraction. Materials & Design 221, 110948, 2022
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. S. Chandra, X.P. Tan*, R.L. Narayan, C. Wang, S.B. Tor, G. Seet. A generalised hot cracking criterion for nickel-based single crystal superalloys additively manufactured by electron beam melting. Additive Manufacturing (2020) 101633.
+
+    게시 페이지: <https://xptan.com/publications/>
+
+1. X.P. Tan*, Y.H. Kok, W.Q. Toh, Y.J. Tan, M. Descoins, D. Mangelinck, S.B. Tor, K.F. Leong, C.K. Chua. Revealing martensitic transformation and α/β interface evolution in electron beam melting 3D-printed Ti-6Al-4V. Scientific Reports 6 (2016): 26039.
+
+    게시 페이지: <https://xptan.com/publications/>
+
 ## National University of Singapore — TAN Yu Jun
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 10건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:06.631Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://www.yujuntan.com/>
+
+1. Speak at the Italian Embassy on International Day of Women and Girls in Science Tsinghua Mechano-X Workshop 2026 at Bali
+
+    게시 페이지: <https://yujuntan.com/>
+
+1. 2026 What a flex: Swimming robot propelled by lab-grown muscle hits record speed – NUS News
+
+    게시 페이지: <https://yujuntan.com/>
+
+1. 2026 From Kombucha fermentation to green electronics – Advanced Science news
+
+    게시 페이지: <https://yujuntan.com/>
+
+1. 2025 Superhero material could reshape future tech – CDE news
+
+    게시 페이지: <https://yujuntan.com/>
+
+1. 2025 Marvel-ous science: The self-healing material that could change tech – MEDICUS
+
+    게시 페이지: <https://yujuntan.com/>
+
+1. 2025 Designing Soft Magnetic Materials for Soft Robotics and Wearables – NUS research features
+
+    게시 페이지: <https://yujuntan.com/>
+
+1. 2023 Intelligent and Sustainable Materials for Soft Robotics – NUS research features
+
+    게시 페이지: <https://yujuntan.com/>
+
+1. 2021 MIT Technology Review Innovators Under 35 Asia Pacific (TR35 – Pioneers) – link
+
+    게시 페이지: <https://yujuntan.com/>
+
+1. Team leader to a team of 5 in 3D printing of an Orchid jewellery using EBM (materials: Ti6Al4V) 2013 Commendation Prize (Fashion) Singapore International Fashion 3D Printing Competitions
+
+    게시 페이지: <https://yujuntan.com/>
+
+1. 2013 FMC Technologies Book Prize (Academic Year 2012/2013) – Highest aggregate mark in “Materials Engineering”
+
+    게시 페이지: <https://yujuntan.com/>
 
 ## National University of Singapore — TAY Eng Hock, Francis
 
@@ -2352,27 +3770,413 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:18.394Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: TAY Tong-Earn / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://cde.nus.edu.sg/me/staff/tay-tong-earn/>
 
 ## National University of Singapore — TEO Chiang Juay
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:20.534Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <http://blog.nus.edu.sg/teocj/>
 
 ## National University of Singapore — THIAN Eng San
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 94건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:23.631Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: BIOMAT / BIOMAT / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / Publication page visible text captured; structured extraction pending.
+수집 범위: 공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://blog.nus.edu.sg/mpetes/publications/>
+출처: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+출처: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+출처: <https://blog.nus.edu.sg/mpetes/publications/journals/2001-2/>
+
+출처: <https://blog.nus.edu.sg/mpetes/publications/journals/2002-2/>
+
+1. P.N. Lim, S.Y. Tong, Z. Zhao, E.S. Thian. Development of suitable material suspension system for depositing bioactive coatings via drop-on-demand micro-dispensing technique. 30th International Symposium on Ceramics in Medicine, Nagoya, Japan, 26th October – 29th October 2018
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. P.N. Lim, B. Ho, E.S. Thian. Functional tissue engineering of bone by combating bioactivity with antimicrobial property in a silver, silicon co-substituted apatite. 2017 Tissue Engineering and Regenerative Medicine International Society – Asia Pacific Meeting, Nantong, China, 21st September – 24th September 2017
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. X. Qiu, P.N. Lim, E.S. Thian. Development of suitable material suspension system for depositing bioactive coatings via drop-on-demand micro-dispensing technique. 9th International Conference on Materials for Advanced Technologies, Singapore, 18th June – 23rd June 2017
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Z. Wang, P.N. Lim, S.Y. Tong, W. Wang, E.S. Thian. Micropatterning poly(ε-caprolactone)/Ag,Si co-substituted nanohydroxyapatite hybrid membranes with enhanced mechanical properties and bioactivity for tendon tissue engineering. 27th International Symposium on Ceramics in Medicine, Bali, Indonesia, 27th October 2015 – 29th October 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, L. Chang, P.N. Lim, B. Ho. Bi-functional apatite coatings for enhanced bioactivity and reduced bacterial growth. 11th Pacific Rim Conference on Ceramic and Glass Technology, Jeju, Korea, 30th August – 4th September 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Z. Wang, S.Y. Tong, P.N. Lim, W. Wang, E.S. Thian. Hybrid Ag,Si co-substituted nanohydroxyapatite/poly(ε-caprolactone) micropatterned films for tendon tissue engineering. 11th Pacific Rim Conference on Ceramic and Glass Technology, Jeju, Korea, 30th August – 4th September 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Feng, J.L. Li, J.Y.H. Fuh, W. Wang, B.Y. Tay, E.S. Thian. 3D porous polymeric scaffolds with controlled microfiber orientation for meniscal tissue engineering. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Z. Wang, R.N. Lam, W. Wang, M.H. Hong, E.S. Thian. Development of multi-lamellae scaffold with three-dimensional geometric anisotropy and interconnected porosity for tendon tissue engineering. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. P.N. Lim, W. Wang, B. Ho, E.S. Thian. Enhancement of bone differentiation properties of nanosize silver-substituted apatite through substitution of silicon for bone tissue engineering. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Y.M. Tan, X.H. Sim, S.H. Lim, B.Y. Tay, M.W. Lee, E.S. Thian. Functional organic chitosan-based grapefruit seed extract hybrid films: enhancing the hydrophobicity for extended food packaging applications. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Y.M. Tan, S.H. Lim, B.Y. Tay, M.W. Lee, E.S. Thian. An investigation on the effect of miscibility on the microstructure and mechanical properties of polyethylene/chitosan composite films. 31st International Conference of the Polymer Processing Society, Jeju, Korea, 7th June – 11th June 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, P.N. Lim, B. Ho, B.Y. Tay, W. Wang. Effect of surface silver ions towards inhibiting bacterial growth on apatite. 26th International Symposium on Ceramics in Medicine, Barcelona, Spain, 6th November – 8th November 2014
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, J.L. Li, J. Feng, P.N. Lim, J.Y.H. Fuh, J. Sun, G.S. Hong, Y.S. Wong, W. Wang, B.Y. Tay. Biomimetic meniscal scaffolds for enhanced cartilage tissue engineering. 2014 Tissue Engineering and Regenerative Medicine International Society – Asia Pacific Meeting, Daegu, Korea, 24th September – 27th September 2014
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Y.M. Tan, S.H. Lim, M.W. Lee, B.Y. Tay, E.S. Thian. Functional chitosan-based grapefruit seed extract composite films for applications in food packaging technology. 6th International Symposium on Functional Materials, Singapore 4th August – 7th August 2014
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. P.N. Lim, L. Chang, B. Ho, B.Y. Tay, C. Choong, E.S. Thian. Development of next generation bone graft material: silicon and silver co-substituted apatite with bi-functional properties. Materials Research Society Fall Meeting, Boston, USA 1st December – 6th December 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Y. Wu, A.S. Fawzy, J. Sun, J.Y.H. Fuh, E.S. Thian. Biofabrication of PCL and PCL/Chitosan scaffolds via electrohydrodynamic-jetting (or E-jet printing) for dentin and periodontal healing. International Symposium on Nano Science and Technology, Tainan, Taiwan 15th November – 16th November 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. S.S. Dinachali, J. Dumond, M.S.M. Saifullah, K.K. Ansah-Antwi, R. Ganesan, E.S. Thian, C. He. Towards waferscale nanostructuring of oxides using step-and-flash imprint lithography. 26th International Microprocesses and Nanotechnology Conference, Sapporo, Japan 5th November – 7th November 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. J. Feng, M. Chong, J. Chan, Z.Y. Zhang, S.H. Teoh, E.S. Thian. Cell-loaded ceramic based microbeads for direct bone implant science. 10th Pacific Rim Conference on Ceramic and Glass Technology, San Diego, USA, 2nd June – 7th June 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. S.S. Dinachali, J. Dumond, M.S.M. Saifullah, R. Ganesan, E.S. Thian, C. He. Direct nanopatterning of Al2O3 via step and flash imprint lithography (S-FIL). Surface Canada 2013, Ontario, Canada, 7th May – 11th May 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Q. Zhang, Z. Wang, S.H. Teoh, J. Li, L. Ren, E.S. Thian. Synthesis of nitric-oxide-releasing S-nitrosothiol-modified gelatin-siloxane nanoparticles. 6th East Asian Pacific Student Workshop on Nano-Biomedical Engineering, Singapore, 23rd March – 24th March 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. S.S. Dinachali, M.S.M. Saifullah, R. Ganesan, E.S. Thian, C. He. A new approach for direct patterning of oxides. 5th IEEE International Nanoelectronics Conference, Singapore, 2nd January – 4th January 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. S.S. Dinachali, M.S.M. Saifullah, R. Ganesan, E.S. Thian, C. He. A universal scheme for direct thermal nanoimprint lithography of oxides. 11th International Conference on Nanoimprint and Nanoprint Technology, California, USA, 24th October – 26th October 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, J. Feng, M. Chong, J. Chan, Z.Y. Zhang, S.H. Teoh. Apatite-based microcarriers for bone tissue engineering. 24th International Symposium on Ceramics in Medicine, Fukuoka, Japan, 21st October – 24th October 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. P.N. Lim, E.Y. Teo, B. Ho, B.Y. Tay, E.S. Thian. Silver-substituted hydroxyapatite: a potential bone substitute material for postoperative infection treatment. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. J. Sun, L. Chang, E.S. Thian, J.L. Li, J.Y.H. Fuh, G.S. Hong, Y.S. Wong, E.J.W. Wang. Bio-inspired organic-inorganic composite coatings for implants via a micro-dispensing technique. 10th Asia-Pacific Conference on Materials Processing, Jinan, China, 14th June – 17th June 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. P.N. Lim, Z. Shi, B.Y. Tay, K.G. Neoh, E.S. Thian. Silver/silicon co-substituted hydroxyapatite: a potential biomaterial with antibacterial and bioactive properties. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Q. Zhang, Z. Wang, J. Lim, E.Y. Teo, L. Ren, C.N. Lee, J. Li, E.S. Thian, S.H. Teoh. Nitric-oxide-releasing system based on gelatin-siloxane nanoparticles for cardiovascular applications. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Z. Wang, J. Lim, Q. Zhang, S.K. Chong, E.Y. Teo, Z.Y. Zhang, M.H. Hong, J. Chan, E.S. Thian, S.H. Teoh. Direct cellular contact and alignment of human fetal mesenchymal stem cell and umbilical vein endothelial cell based on micro-patterned porous polycaprolactone film for tissue engineering applications. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. L. Chang, E.S. Thian, J. Sun, J.Y.H. Fuh. Synthesis and characterization of functionally-graded nano-hydroxyapatite/titania bioactive coating via drop-on-demand technique. International Symposium on Nanoscience and Technology, Tainan, Taiwan, 18th November – 19th November 2011
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, L. Chang, B. Gurucharan, J. Sun, J.Y.H. Fuh, W. Wang. Chemically-modified calcium phosphate coatings via drop-on-demand inkjet printing. Taiwan Association for Coating and Thin Films Technology Conference, Kenting, Taiwan, 20th November – 23rd November 2011
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, P.N. Lim, Z. Shi, B.Y. Tay, K.G. Neoh. Silver-doped apatite as a bioactive and an antimicrobial bone material. 23rd International Symposium on Ceramics in Medicine, Istanbul, Turkey, 6th November – 9th November 2011
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. L. Chang, E.S. Thian, J. Sun, J.Y.H. Fuh, W. Wang. Micro-dispensing of nano-hydroxyapatite (nHA) thin film coating on biomedical implants. 9th Cross-Strait Workshop on Manufacturing Technology, Chengdu, China, 18th October – 19th October 2011
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. P.N. Lim, J.Y.E. Tong, B.Y. Tay, C.M. Chan, E.S. Thian. Physicochemical stability of chemically-modified nanoapatites sintered at different temperatures. Defence Science Research Conference and Expo, Singapore, 3rd August – 6th August 2011
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. L. Chang, E.S. Thian, J. Sun, J.Y.H. Fuh, W. Wang,. Micro-dispensing of nano-hydroxyapatite (nHA) thin coating on biomedical implants. 6th International Conference on Materials for Advanced Technologies, Singapore, 26th June – 1st July 2011
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. P.N. Lim, B.Y. Tay, C.M. Chan, E.S. Thian. Silver/silicon co-substituted nanohydroxyapatite: a novel bone material for biomedical applications. 6th International Conference on Materials for Advanced Technologies, Singapore, 26th June – 1st July 2011
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. J. Sun, J.H. Ng, J.Y.H. Fuh, Y.S. Wong, E.S. Thian, R. Yang, K.K. Tan. Fabrication of electronics devices with multi-material drop-on-demand dispensing system. 6th International Conference on Manufacturing Automation, Hong Kong, China, 13th December – 15th December 2010
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, Z. Ahmad, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, W. Bonfield, S.M. Best. Nanostructured apatites deposited by electrohydrodynamic atomization for bone tissue engineering. 5th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2009
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, J. Huang, Z.H. Barber, S.M. Best, W. Bonfield. Silicon-substituted hydroxyapatite coating enhances surface wettability on titanium substrate for improved cell response. 2nd Asian Biomaterials Congress, Singapore, 26th June – 27th June 2009
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, Z. Ahmad, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, W. Bonfield, S.M. Best. Effect of material chemistry of electrosprayed nanophase substituted apatites on osteoblast response. 8th World Biomaterials Congress, Amsterdam, The Netherlands, 28th May – 1st June 2008
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Z. Ahmad, E.S. Thian, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, W. Bonfield, S.M. Best. Processing of biomaterials via the electrohydrodynamic route. 8th World Biomaterials Congress, Amsterdam, The Netherlands, 28th May – 1st June 2008
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Z. Yang, E.S. Thian, R.A. Brooks, N. Rushton, S.M. Best, R. Cameron. Biological evaluation of a novel a-tricalcium phosphate/poly(D,L-lactide-co-glycolide) nanocomposite. 8th World Biomaterials Congress, Amsterdam, The Netherlands, 28th May – 1st June 2008
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, Z. Ahmad, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, W. Bonfield, S.M. Best. Electrosprayed nanoapatite: a new generation of bioactive material. 20th International Symposium on Ceramics in Medicine, Nantes, France, 24th October – 26th October 2007
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Z. Yang, E.S. Thian, R.A. Brooks, N. Rushton, S.M. Best, R. Cameron. Apatite formation on an a-tricalcium phosphate/poly(D,L-lactide-co-glycolide) nanocomposite. 20th International Symposium on Ceramics in Medicine, Nantes, France, 24th October – 26th October 2007
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, Z. Ahmad, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, S.M. Best, W. Bonfield. Electrosprayed nanohydroxyapatite patterns for guided osteoblast response. 21st European Conference on Biomaterials, Brighton, UK, 9th September – 13th September 2007
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Z. Yang, E.S. Thian, R.A. Brooks, N. Rushton, S.M. Best, R. Cameron. Tricalcium phosphate/poly(D,L-lactide-co-glycolide) (a-TCP/PLGA) nanocomposite: an in-vitro study. 21st European Conference on Biomaterials, Brighton, UK, 9th September – 13th September 2007
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, Z. Ahmad, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, W. Bonfield, S.M. Best. Electrosprayed line patterns: a possible route for directing cellular activity. 4th International Conference on Materials for Advanced Technologies, Singapore, 1st July – 6th July 2007
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, J. Huang, S.M. Best, Z.H. Barber, W. Bonfield. Surface wettability enhances osteoblast adhesion on silicon-substituted hydroxyapatite thin films. 19th International Symposium on Ceramics in Medicine, Chengdu, China, 10th October – 13th October 2006
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. Z. Yang, E.S. Thian, S.M. Best, R.E. Cameron. A novel way of dispersing fine ceramic particles in PLGA matrix. 19th International Symposium on Ceramics in Medicine, Chengdu, China, 10th October – 13th October 2006
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. X. Fu, J. Huang, E.S. Thian, S.M. Best, W. Bonfield. Three-dimensional characterization of the microstructure of bioglass/polyethylene composite by X-ray microtomography. 19th International Symposium on Ceramics in Medicine, Chengdu, China, 10th October – 13th October 2006
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, J. Huang, S.M. Best, Z.H. Barber, W. Bonfield. Nanostructured apatite coatings for rapid bone repair. 18th International Symposium on Ceramics in Medicine, Kyoto, Japan, 5th December – 8th December 2005
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, J. Huang, S.M. Best, Z.H. Barber, W. Bonfield. Future development in bioactive coatings: what’s new. 3rd International Conference on Materials for Advanced Technologies & 9th International Conference on Advanced Materials, Singapore, 3rd July – 8th July 2005
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, J. Huang, S.M. Best, Z.H. Barber, W. Bonfield. Fast-apatite forming ability of magnetron co-sputtered silicon-containing hydroxyapatite (Si-HA) thin films. 17th International Symposium on Ceramics in Medicine, New Orleans, USA, 8th December – 12th December 2004
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, J. Huang, S.M. Best, Z.H. Barber, W. Bonfield. A novel way of producing silicon-containing hydroxyapatite (Si-HA) thin films. 7th World Biomaterials Congress, Sydney, Australia, 17th May – 21st May 2004
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. E.S. Thian, J. Huang, S.M. Best, W. Bonfield. Fabrication of hydroxyapatite ceramics via a modified slip casting route. 16th International Symposium on Ceramics in Medicine, Porto, Portugal, 6th November – 9th November 2003
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. J.E.W. Anders, C.S. Goh, E.S. Thian. Influence of process parameters on reaction products during self-propagating high-temperature synthesis of porous NiTi. 2nd International Conference on Advanced Materials Processing, Singapore, 2nd December – 4th December 2002
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/oral/>
+
+1. K. Wang, P.N. Lim, Z.Wang, E.S. Thian. Optimum blend of poly(e-caprolactone)/chitosan-based antibacterial composite. 30th International Symposium on Ceramics in Medicine, Nagoya, Japan, 26th October – 29th October 2018
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. S.Y. Tong, P.N. Lim, Z.Wang, E.S. Thian. A novel mechanically blended biodegradable composite with antibacterial efficiency. 30th International Symposium on Ceramics in Medicine, Nagoya, Japan, 26th October – 29th October 2018
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. S.Y. Tong, Z. Wang, P.N. Lim, E.S. Thian. Improved antimicrobial performance of a novel mechanically blended biodegradable polymer blend. 5th Tissue Engineering and Regenerative Medicine World Congress, Kyoto, Japan. 4th September – 7th September 2018
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. P.N. Lim, S.Y. Tong, Z. Zhao, B. Ho, W. Wang, E.S. Thian. Silver, silicon co-substituted hydroxyapatite in mediating bacteria-cell competition for enhanced tissue regeneration. 5th Tissue Engineering and Regenerative Medicine World Congress, Kyoto, Japan. 4th September – 7th September 2018
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. P.N. Lim, B. Ho, E.S. Thian. Antibacterial efficacy of silver, silicon co-substituted apatite against Pseudomonas aeruginosa. Materials Science & Technology 2017 Conference & Exhibition, Pennsylvnia, USA. 8th October – 12th October 2017
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. Z. Wang, B.T.H. Koh, W.J. Lee, W. Wang, M. Hong, P.N. Lim, L.S. Park, M. Kim, E.S. Thian. Physical anisotropy of biomaterials to modulate cell morphogenesis in vivo for tendon regeneration. Materials Science & Technology 2017 Conference & Exhibition, Pennsylvnia, USA. 8th October – 12th October 2017
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. Z. Wang, R.N. Lam, W. Wang, M. Hong, E.S. Thian. Development of three-dimensional tendon scaffolds with highly interconnected porosity and multi-lamellae geometry cues. 27th International Symposium on Ceramics in Medicine, Bali, Indonesia, 27th October – 29th October 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. S.Y. Tong, P.N. Lim, Z. Yang, E.S. Thian. Physicochemical characterisation and dissolution properties of selenium-substituted nanoapatite. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. Y. Wu, Z. Wang, J.Y.H. Fuh, Y.S. Wong, W. Wang, E.S. Thian. Three-dimensional fibrous scaffold with geometric anisotropy and enhanced mechanical properties for tendon tissue engineering. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. R.N. Lam, Z. Wang, W. Wang, M.H. Hong, E.S. Thian. Fabrication of tubular tendon scaffold using direct laser microengineering and thermally uniaxial stretching. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. S.S. Dinachali, W. Bai, K.H. Tu, H.K. Choi, J. Zhang, C.A. Ross, M.S.M. Saifullah, E.S. Thian, C. He. Thermo-solvent annealing of block copolymer thin films. 4th Molecular Materials Meeting, Singapore 14th January – 16th January 2014
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. S.S. Dinachali, J. Dumond, M.S.M. Saifullah, K.K. Ansah-Antwi, R. Ganesan, E.S. Thian, C. He. Large area direct nanopatterning of oxides using step-and-flash imprint lithography. 12th International Conference on Nanoimprint and Nanoprint Technology, Barcelona, Spain 21st October – 23rd October 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. Y. Cai, J. Li, H.C. Tan, E.S. Thian, J.Y.H. Fuh, B.Y. Tay, W. Wang. Meniscal scaffold fabricated via an improved E-jetting printing system. 8th Combined Meeting of Orthopaedic Research Societies, Venice, Italy, 13th October – 16th October 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. Y.M. Tan, S.H. Lim, M.W. Lee, B.Y. Tay, E.S. Thian. Biopolymer-based composite thin films: Applications in food packaging technology. SIMTech Postgraduate Research Poster Exhibition, Singapore, 16th August 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. P.N. Lim, B. Ho, B.Y. Tay, C. Choong, E.S. Thian. Development of next generation bone substitute material: silicon and silver co-substituted apatite with bi-functional properties. SIMTech Postgraduate Research Poster Exhibition, Singapore, 16th August 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. S.S. Dinachali, M.S.M. Saifullah, R. Ganesan, E.S. Thian, C. He. A universal scheme for direct thermal nanoimprint lithography of oxides. SPIE Advanced Lithography, California, USA, 24th February – 28th February 2013
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. P.N. Lim, B. Ho, B.Y. Tay, E.S. Thian. Evaluation on the antibacterial capability of silver-substituted hydroxyapatite for implant-associated infection. SIMTech Postgraduate Research Poster Exhibition, Singapore, 7th September 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. E.S. Thian, J. Feng, Z.Y. Zhang, M. Chong, S.H. Teoh, J. Chan. Apatite microbeads as a means for stem cell expansion, 3rd Tissue Engineering and Regenerative Medicine World Congress, Vienna, Austria, 5th September – 8th September 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. Y.M. Tan, P.N. Lim, E.S. Thian. Synthesis and characterisation of magnesium-substituted hydroxyapatite for tissue engineering applications. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. Y. Cai J.L. Li, C.K. Poh, H.C. Tan, E.S. Thian, J.Y.H. Fuh, J. Sun, G.S. Hong, Y.S. Wong, B.Y. Tay, W. Wang. Polydopamine-inspired biomineralization of 3D polycaprolactone scaffold for bone tissue engineering. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. Q. Zhang, S.H. Goh, Z. Wang, J. Lim, E.Y. Teo, J. Li, E.S. Thian, S.H. Teoh. Properties of physical crosslinked polyvinyl alcohol hydrogel for controlled release of nitric-oxide-releasing nanoparticles. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. L. Chang, J. Lee, S. Maleksaeedi, B.Y. Tay, E.S. Thian. Dip-coated nano-hydroxyapatite films on metallic 3D scaffold. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. J. Feng, Z.Y. Zhang, M. Chong, J. Chan, S.H. Teoh, E.S. Thian. Apatite microcarriers as a potential bone tissue engineering solution. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. J.L. Li, Y. Cai, G.S. Hong, J.Y.H. Fuh, J. Sun, Y.S. Wong, Q. Wu, B.Y. Tay, W. Wang, E.S. Thian. Biodegradable polymeric scaffold fabrication using an improved E-jetting printing system. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. Z. Wang, Q. Zhang, J. Lim, E.Y. Teo, M.H. Hong, J. Chan, E.S. Thian, S.H. Teoh. Bioresorbable 3D micro-topographical structures for vascular cellular pattern and differentiation control. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. Q. Zhang, S.H. Goh, J. Lim, Z. Wang, E.S. Thian, J. Li, S.H. Teoh. Physical properties of freeze-thawed polyvinyl alcohol hydrogel for cartilage tissue engineering applications. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. Z. Wang, Y.S. Ho, J. Lim, Q. Zhang, E.S. Thian, J. Chan, M.H. Hong, S.H. Teoh. Highly orientated 3D micro-topographical structures for potential bone tissue engineering applications: A degradation study. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. E.S. Thian, P.N. Lim, B. Ho, E.Y. Teo, B.Y. Tay. The effect of silver concentration on antimicrobial property of silver-substituted apatite. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. J.L. Li, J. Sun, J.Y.H. Fuh, G.S. Hong, Y.S. Wong, B.Y. Tay, W. Wang, E.S. Thian. Fiber alignment using an improved E-jetting printing system for cell sheet fabrication. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. L. Chang, E.S. Thian, J. Sun, J.Y.H. Fuh, G.S. Hong, W. Wang. Compositional-graded titania/nanohydroxyapatite bioactive coating via a micro-dispensing technique. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. P.N. Lim, B.Y. Tay, B. Ho, C.M. Chan, E.S. Thian. Silver/silicon co-substituted hydroxyapatite: a new generation of functional biomaterial. SIMTEch Postgraduate Research Poster Exhibition, Singapore, 23rd September 2011
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. E.S. Thian, L.Y. Lee, Z.Y. Zhang, J. Chan, S.H. Teoh. Chemically-modified apatites as healthy bone materials. International Bone-Tissue-Engineering Congress, Hannover, Germany, 7th – 10th October 2010
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. E.S. Thian, P.N. Lim, L.Y. Lee, Z.Y. Zhang, B.Y. Tay, J. Chan, S.H. Teoh. Nanostructured substituted apatites for bone tissue engineering. MRS-S Trilateral Conference on Advances in Nanoscience: Energy, Water and Healthcare, Singapore, 11th – 13th August 2010
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/conferences/poster/>
+
+1. E.S. Thian, K.A. Khor, N.H. Loh, S.B. Tor, Processing of HA-coated Ti-6A1-4V by a ceramic slurry approach: an in-vitro study. Biomaterials 22 (11) (2001) 1225-1232
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/journals/2001-2/>
+
+1. E.S. Thian, N.H. Loh, K.A. Khor, S.B. Tor. Effects of debinding parameters on powder injection molded Ti-6A1-4V/HA composite parts. Advanced Powder Technology 12 (3) (2001) 361-370
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/journals/2001-2/>
+
+1. E.S. Thian, N.H. Loh, K.A. Khor, S.B. Tor. In vitro behavior of sintered powder injection molded Ti-6A1-4V/HA. Journal of Biomedical Materials Research (Applied Biomaterials) 63 (2) (2002) 79-87
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/journals/2002-2/>
+
+1. E.S. Thian, N.H. Loh, K.A. Khor, S.B. Tor, Microstructures and mechanical properties of powder injection molded Ti-6A1-4V/HA powder. Biomaterials 23 (14) (2002) 2927-2938
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/journals/2002-2/>
+
+1. E.S. Thian, N.H. Loh, K.A. Khor, S.B. Tor, Ti-6A1-4V/HA composite feedstock for injection molding. Material Letters, 56 (4) (2002) 522-532
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/journals/2002-2/>
+
+1. E.S. Thian, N.H. Loh, K.A. Khor, S.B. Tor. Dilation of Ti-6A1-4V/HA composite parts. Advanced Composites Letters, 11 (2) (2002) 73-77
+
+    게시 페이지: <https://blog.nus.edu.sg/mpetes/publications/journals/2002-2/>
 
 ## National University of Singapore — CHEW Chee Meng
 
@@ -2866,41 +4670,657 @@
 
 ## National University of Singapore — Vincent TAN
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 16건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:27.346Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: Vincent TAN / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. BEng and MEng, National University of Singapore (1994)
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. Impact mechanics and ballistics Selected Publications J Zhi, K Raju, TE Tay, VBC Tan, Transient multi-scale analysis with micro-inertia effects using Direct FE2 method, Computational Mechanics, 67(6), p1645-1660, 2021
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. K Raju, TE Tay, VBC Tan, A review of the FE 2 method for composites, Multiscale and Multidisciplinary Modeling, Experiments and Design, p1-24, 2021
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. E Chew, JL Liu, TE Tay, LQN Tran, VBC Tan, Improving the mechanical properties of natural fibre reinforced laminates composites through Biomimicry, Composite Structures, 258, 113208, 2021
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. VBC Tan, K Raju, HP Lee, Direct FE2 for concurrent multilevel modelling of heterogeneous structures, Computer Methods in Applied Mechanics and Engineering, 360, 112694, 2020
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. JL Liu, HP Lee, TE Tay, VBC Tan, Healable bio-inspired helicoidal laminates, Composites Part A: Applied Science and Manufacturing, 137, 106024, 2020
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. JL Liu, HP Lee, VBC Tan, Effects of inter-ply angles on the failure mechanisms in bioinspired helicoidal laminates, Composites Science and Technology, 165, p282-289, 2018
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. AK Singh, BY Chen, VBC Tan, TE Tay, HP Lee, Finite element modeling of nonlinear acoustics/ultrasonics for the detection of closed delaminations in composites, Ultrasonics, 74, p89-98, 2017
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. JS Shang, NHH Ngern, VBC Tan, Crustacean-inspired helicoidal laminates, Composites Science and Technology, 128, p222-232, 2016
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. ZC Su, VBC Tan, TE Tay, 3D multiscale simulation of a silicon slider on a PE substrate, Computational materials science, 94, p240-244, 2014
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. S Song, Y Chen, Y, ZC Su, C Quan, VBC Tan, Multiscale modeling of damage progression in nylon 6/clay nanocomposites, Composites science and technology, 100, p189-197, 2014
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. XS Sun, VBC Tan, Y Chen, LB Tan, RK Jaiman, TE Tay, Stress analysis of multi-layered hollow anisotropic composite cylindrical structures using a homogenization method, Acta Mechanica, 225(6), p1649-1672, 2014
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. Y Chen, JYH Chia, ZC Su, TE Tay, VBC Tan, Molecular modeling of epoxide-amine systems: Topological cure conversion limit and its influence on material properties, Polymer, 55(23), p6124-6131, 2014
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. L Dai, M Minn, N Satyanarayana, DK Sinha, VBC Tan, Identifying the mechanisms of polymer friction through molecular dynamics simulation, Langmuir, 27(24), p14861-14867, 2011
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. L Dai, CH Sow, CT Lim, WCD Cheong, VBC Tan, Numerical investigations into the tensile behavior of TiO2 nanowires: structural deformation, mechanical properties, and size effects, Nano letters, 9(2), p576-582, 2009
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
+
+1. VBC Tan, XS Zeng, M Deng, KM Lim, TE Tay, Multiscale modeling of polymers–the pseudo amorphous cell, Computer methods in applied mechanics and engineering, 197, p536-554, 2008
+
+    게시 페이지: <https://cde.nus.edu.sg/me/staff/tan-vincent/>
 
 ## National University of Singapore — WANG Hao, Victor
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:29.279Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: Hybrid Manufacturing & Ultraprecision Machining / Menu / Effects Of Differential Plasticity On Thermally Enhanced Machining Of Calcium Fluoride / Graphene Nanosheets Networking: A Novel Material Design Strategy To Enhance Ultra-Precision Machining Of Titanium Alloys And Composites / Dynamic Response In High Strain Rate Deformation Of Stainless Steel 316L Fabricated By Selective Laser Melting / Post navigation / PREVIOUS POSTS / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / Publication page visible text captured; structured extraction pending.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <http://blog.nus.edu.sg/mpewhao/>
 
 출처: <https://blog.nus.edu.sg/mpewhao/publications/>
 
+출처: <https://blog.nus.edu.sg/mpewhao/category/new-publications/>
+
 ## National University of Singapore — YAN Wentao
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 136건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.
-
-출처: <https://blog.nus.edu.sg/yanwt/files/2023/08/1692181072553.png>
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://blog.nus.edu.sg/yanwt/2023/08/16/some-most-downloaded-read-papers-in-journals-from-our-group/>
+
+출처: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. Some most downloaded/read papers in journals from our group mpeyanw Uncategorized August 16, 2023 0 Comment
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/2023/08/16/some-most-downloaded-read-papers-in-journals-from-our-group/>
+
+1. Our recent papers are among the most downloaded/read papers in Acta Materialia, JMPS, and Materials Research Letters! ← 2023 Spring Festival at Prof. Yan’s home
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/2023/08/16/some-most-downloaded-read-papers-in-journals-from-our-group/>
+
+1. [145] Zixu Guo, Yang Li, Lei Fan, Shiwei Wu, Daijun Hu, Guochen Peng, Feng Lin, Yong-Wei Zhang, Yilun Xu*, Wentao Yan*, Trigonometric Gradient Microstructures in Additively Manufactured Single Crystals Enable Strength-Ductility Synergy and Programmable Performance. Nature Communications, 2025, 16(1): 9936.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. Since Joining NUS [145] Zixu Guo, Yang Li, Lei Fan, Shiwei Wu, Daijun Hu, Guochen Peng, Feng Lin, Yong-Wei Zhang, Yilun Xu*, Wentao Yan*, Trigonometric Gradient Microstructures in Additively Manufactured Single Crystals Enable Strength-Ductility Synergy and Programmable Performance. Nature Communications, 2025, 16(1): 9936. [144] Yinghong Yu, Zeshi Yang, Xinlin Qing, Wenjun Ge*, Wentao Yan, Towards health monitoring of laser powder bed fusion using acoustic emissions: identify manufacturing parameters. Journal of Intelligent Manufacturing, 2025: 1-18.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [143] Zixu Guo, Xiaochong Lu, Guochen Peng, Daijun Hu, Dawei Huang, Xiaojun Yan, Fionn PE Dunne, Huajian Gao, Yong-Wei Zhang, Wentao Yan*, Yilun Xu*, Beyond first-cycle damage: Mechanistic drivers of fatigue crack nucleation in single crystals. Journal of the Mechanics and Physics of Solids, 2025: 106393.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [143] Zixu Guo, Xiaochong Lu, Guochen Peng, Daijun Hu, Dawei Huang, Xiaojun Yan, Fionn PE Dunne, Huajian Gao, Yong-Wei Zhang, Wentao Yan*, Yilun Xu*, Beyond first-cycle damage: Mechanistic drivers of fatigue crack nucleation in single crystals. Journal of the Mechanics and Physics of Solids, 2025: 106393. [142] Qinlei Luan, Haifeng Zhang, Wennuo Gong, Wenjun Yuan*, Fei Chen, Wentao Yan, Modeling and analysis of non-isothermal viscoelastic polymer flow in fused filament fabrication. Progress in Additive Manufacturing, 2025: 1-18.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [141] Shixiang Zhou, Yijing Zhao, Xiao Guo, Udeshwari Jamwal, Pon Janani Sugumaran, Sreekanth Ginnaram, Wentao Yan, Jun Ding*, Yong Yang*, Corrosion-resistant and heat-dissipative SiOC ultralight lattice for high-temperature EMI shielding. Additive Manufacturing, 2025: 104964.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [140] Kun Li*, Ming Zhang, Zhenlin Zhang, Peng Jin, Yong Wang, Wentao Yan, Liang Zhu*, David Z Zhang, Lawrence E Murr, High performance realization of functionally graded materials based on integrated optimal design and additive manufacturing: A review. International Materials Reviews, 2025, 70(6): 497-547.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [139] Erlei Li, Wentao Yan*, Binder-powder interactions in binder jetting: Binder drying, layer shifting, and inter-layer binding. Additive Manufacturing, 2025: 104951.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [138] Xiaohui Qin, Chenliang Chu, Jiaqi Duan, Shiwei Wu, Shiyu Liu, Taoqian Chen, Weiping Chen, Yan Long, Zhiqiang Fu*, Wentao Yan*, Simultaneous Improvement of Ductility and Corrosion Resistance for a L12-Strengthened High-Entropy Alloy Achieved by Binder Jet 3D Printing and Aging. Advanced Engineering Materials, 2025: 2501385.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [137] Jiasen Han, Shuhao Wang, Wenjun Ge, Hui Chen*, Yajing Sun, Yuxiang Ai, Weihao Yuan, Siyuan Ruan, Weiming Niu, Haiou Yang, Shuo Yin, Wentao Yan, Xin Lin*, Non-contact ultrasound to assist laser additive manufacturing.Nature Communications, 2025, 16(1): 7613.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [135] Yu Tang, Chenyi Fang, Xin Xu, Feng Li, Lei Fan, Di Zhu, Jun Ding, Joseph Imbrogno, Sui Zhang*, Wentao Yan*, A 3D-printed hierarchical chimney for high-yield solar evaporation. Energy & Environmental Science, 2025, 18(17): 8220-8231.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [134] Yang Liu, Daijun Hu, Mingliang Wang, Kang Wang, Yanan Fu, Shenbao Jin, Bingkun Zou, Yuhan Ju, Wentao Yan*, Y Morris Wang*, Di Zhang*, Zan Li*, Exceptional Strengthening via Nanostructure Engineering in Additively Manufactured Aluminum Alloys. Nano Letters, 2025, 25(31): 12081-12090.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [133] Zixin Liu, Yongqiang Yang, Di Wang*, Wenjun Ge*, Wentao Yan, Spattering trajectory, residing pattern and trap ratio under various gas flow conditions in large-scale laser powder bed fusion: Experiment and simulation. Journal of Materials Processing Technology, 2025: 118995.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [132] Dao Kun Lim*, Derik Rudd, Kian Guan Khoo, Faxing Che, Venkata Rama Satya Pradeep Vempaty, Wen How Sim, Harjashan Veer Singh, Wentao Yan, Yeow Kheng Lim, An integrated nanoindentation-finite element analysis approach for fracture toughness characterization and yield strength prediction in semiconductor thin films. Materials & Design, 2025: 114437.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [131] Zhenhua Zhang, Zixu Guo, Quanquan Han, Daijun Hu, Shiwei Wu, Haiyang Fan, Erlei Li, Ming Li, Yilun Xu, Shoufeng Yang, Chuanzhen Huang, Wentao Yan*, Anomalous anisotropy in an additively manufactured solid-solution-strengthened superalloy from room to elevated temperatures. International Journal of Plasticity, 2025: 104409.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [131] Zhenhua Zhang, Zixu Guo, Quanquan Han, Daijun Hu, Shiwei Wu, Haiyang Fan, Erlei Li, Ming Li, Yilun Xu, Shoufeng Yang, Chuanzhen Huang, Wentao Yan*, Anomalous anisotropy in an additively manufactured solid-solution-strengthened superalloy from room to elevated temperatures. International Journal of Plasticity, 2025: 104409. [130] Junchen Liu, Shiwei Wu, Chengyuan Zhu, Xiaohui Qin, Wentao Yan, Zhiqiang Fu*, Bimodal precipitate-strengthened NiCoCrMoW multi-principal element alloy synergizing strength-ductility at ambient and cryogenic temperatures. Journal of Alloys and Compounds, 2025: 181756.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [128] Pin Lu, Zixu Guo, Xueling Fan, Yilun Xu, Yong-Wei Zhang, Wentao Yan*, Coupled modeling of rafting behaviour in nickel-based single crystal superalloys. International Journal of Mechanical Sciences, 2025: 110383.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [127] Ge Wang, Yin Zhang, Jian Liu, Wen Chen, Kang Wang, Bo Cui, Bingkun Zou, Qiubao Ouyang, Yanming Zhang, Zhaoyang Hu, Lu Wang, Wentao Yan, Shenbao Jin, Jun Ding, Y. Morris Wang, Ting Zhu, Zan Li*, Di Zhang*, Evan Ma*, Dispersion hardening using amorphous nanoparticles deployed via additive manufacturing. Nature Communications, 2025, 16(1): 3589.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [127] Ge Wang, Yin Zhang, Jian Liu, Wen Chen, Kang Wang, Bo Cui, Bingkun Zou, Qiubao Ouyang, Yanming Zhang, Zhaoyang Hu, Lu Wang, Wentao Yan, Shenbao Jin, Jun Ding, Y. Morris Wang, Ting Zhu, Zan Li*, Di Zhang*, Evan Ma*, Dispersion hardening using amorphous nanoparticles deployed via additive manufacturing. Nature Communications, 2025, 16(1): 3589. [126] Yang Liu, Zhaoyang Hu, Lu Wang, Zirong Zhai, Wentao Yan*, Zan Li*, A new mechanism for laser absorption in high-reflectivity metal powder beds modified with ceramic particles. Journal of Applied Physics, 2025, 137(13).
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [125] Shuo Qu, Liqiang Wang, Shengbiao Zhang, Chenfeng Yang, Hou Yi Chia, Gengbo Wu, Zongxin Hu, Junhao Ding, Wentao Yan, Yang Zhang, Chi Hou Chan, Wen Chen*, Yang Lu*, Xu Song*, Oxide-dispersion-enabled laser additive manufacturing of high-resolution copper. Nature Communications, 2025, 16(1): 3234.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [124] Zixu Guo, Xiaochong Lu, Chaitanya Paramatmuni, Huajian Gao, Fionn P.E. Dunne, Wentao Yan*, Yong-Wei Zhang*, Yilun Xu*, Slip system-resolved GNDs and SEDs: A multi-scale framework for predicting crack nucleation in single-crystal metals. Acta Materialia, 2025(288): 120853.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [123] Haifeng Zhang, Dongjie Liu, Fei Chen, Wenjun Yuan, Wentao Yan, Mechanisms of elastoviscoplastic polymer flows in material extrusion additive manufacturing. International Journal of Mechanical Sciences, 2025: 110139.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [122] Jinxi Chen, Xi Wang, Tao Wang, Jia Li, Hou Yi Chia, Haoming Liang, Shibo Xi, Shunchang Liu, Xiao Guo, Renjun Guo, Zhenrong Jia, Xinxing Yin, Qilin Zhou, Yuduan Wang, Zhuojie Shi, Haoyu Zhou, Donny Lai, Mingsheng Zhang, Zhenxiang Xing, Wan Ru Leow, Wentao Yan, Yi Hou*, Determining the bonding–degradation trade-off at heterointerfaces for increased efficiency and stability of perovskite solar cells. Nature Energy, 2025(10). 181-190
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [122] Jinxi Chen, Xi Wang, Tao Wang, Jia Li, Hou Yi Chia, Haoming Liang, Shibo Xi, Shunchang Liu, Xiao Guo, Renjun Guo, Zhenrong Jia, Xinxing Yin, Qilin Zhou, Yuduan Wang, Zhuojie Shi, Haoyu Zhou, Donny Lai, Mingsheng Zhang, Zhenxiang Xing, Wan Ru Leow, Wentao Yan, Yi Hou*, Determining the bonding–degradation trade-off at heterointerfaces for increased efficiency and stability of perovskite solar cells. Nature Energy, 2025(10). 181-190 [121] Yuxiang Ai, Jiasen Han, Yuanxi Huang, Kuitong Yang, Yang Zhou, Hui Chen, Xin Lin, Wentao Yan, Near α titanium alloy Ti60 with equiaxed β grain fabricated by laser direct energy deposition assisted with ultrasound. Materials & Design,2025(252). 113768
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [120] Yanming Zhang, Shiwei Wu, Zixu Guo, Guochen Peng, Lu Wang, Wentao Yan*, Defects caused by powder spattering and entrainment in laser powder bed fusion process: High-fidelity modeling of gas, melt pool and powder dynamics. Acta Materialia, 2025(288). 120816
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [119] Qingchen Deng, Fan Chen, Lu Wang, Ziyi Liu, Qianye Wu, Zhiyu Chang, Yujuan Wu*, Wentao Yan*, Liming Peng, Wenjiang Ding, Exceptional strength paired with increased cold cracking susceptibility in laser powder bed fusion of a Mg-RE alloy. Journal of Materials Science & Technology, 2025(213). 300-314
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [118] Zhonglin Shen, Haijun Su, Minghui Yu, Yang Cao, Yinuo Guo, Hao Jiang, Yuan Liu, Xiang Li, Dong Dong, Peixin Yang, Zhuo Zhang, Min Guo, Wentao Yan, Unveiling exotic multi-scale microstructure transformation and crack formation mechanisms in eutectic ceramic composite by laser powder bed fusion. Composites Part B: Engineering, 2025(288). 111883
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [119] Qingchen Deng, Fan Chen, Lu Wang, Ziyi Liu, Qianye Wu, Zhiyu Chang, Yujuan Wu*, Wentao Yan*, Liming Peng, Wenjiang Ding, Exceptional strength paired with increased cold cracking susceptibility in laser powder bed fusion of a Mg-RE alloy. Journal of Materials Science & Technology, 2025(213). 300-314 [118] Zhonglin Shen, Haijun Su, Minghui Yu, Yang Cao, Yinuo Guo, Hao Jiang, Yuan Liu, Xiang Li, Dong Dong, Peixin Yang, Zhuo Zhang, Min Guo, Wentao Yan, Unveiling exotic multi-scale microstructure transformation and crack formation mechanisms in eutectic ceramic composite by laser powder bed fusion. Composites Part B: Engineering, 2025(288). 111883 [117] Daijun Hu, Nicolò Grilli,Wentao Yan*, From process to property: multi-physics modeling of dislocation dynamics and microscale damage in metal additive manufacturing. Computational Mechanics, 2024. 1:21.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [116] Lu Wang, Zixu Guo, Guochen Peng, Shiwei Wu, Yanming Zhang, Wentao Yan*, Evaporation-induced composition evolution in metal additive manufacturing. Advanced Functional Materials, 2024. 2412071
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [115] Shixiang Zhou, Yijing Zhao, Kaixi Zhang, Yanran Xun, Xueyu Tao, Wentao Yan, Wei Zhai, Jun Ding, Impact-resistant supercapacitor by hydrogel-infused lattice. Nature Communications, 2024(15). 6481
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [114] Weinian Guo, Liting Yang, Ping Xu, Shaoying Li, Wentao Yan, Zhongling Shen, Shuguang Yao, Chengxing Yang, Crashworthiness analysis of okra biomimetic corrugated multi-cellular structure. International Journal of Mechanical Sciences, 2024(280). 109459
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [113] Shi Dai, Daijun Hu, Nicolò Grilli*, Shaohua Zou, Zichen Deng*, Wentao Yan*, Anisotropic and high-temperature deformation behavior of additively manufactured AlSi10Mg: Experiments and microscale modeling. Additive Manufacturing, 2024(89). 104285
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [112] Yunlong Li, Xin Lin*, Zhanyong Zhao, Wentao Yan*, Jun Yu, Peikang Bai, Investigation on the composite effect of Zr and Cr on oxidation behavior and fracture toughness of Nb-Ti-Si-based alloys manufactured by directed energy deposition. Materials Characterization, 2024(214). 114078
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [111] Zhaoyang Hu, Wentao Yan*, Data-driven modeling of process-structure-property relationships in metal additive manufacturing. npj Advanced Manufacturing, 2024(1). 3
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [110] Shahryar Mooraj, Xizhen Dong, Shengbiao Zhang, Yanming Zhang, Jie Ren, Shuai Guan, Chenyang Li, Rameshwari Naorem, Nicolas Argibay, Wei Chen, Wentao Yan, Dierk Raabe, Zhongji Sun, Wen Chen, Crack mitigation in additively manufactured AlCrFe2Ni2 high-entropy alloys through engineering phase transformation pathway. Communications Materials, 2024(5). 101
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [110] Shahryar Mooraj, Xizhen Dong, Shengbiao Zhang, Yanming Zhang, Jie Ren, Shuai Guan, Chenyang Li, Rameshwari Naorem, Nicolas Argibay, Wei Chen, Wentao Yan, Dierk Raabe, Zhongji Sun, Wen Chen, Crack mitigation in additively manufactured AlCrFe2Ni2 high-entropy alloys through engineering phase transformation pathway. Communications Materials, 2024(5). 101 [109] Hou Yi Chia, Yanming Zhang, Lu Wang, Wentao Yan*, Unveiling gas–liquid metal reactions in metal additive manufacturing: High-fidelity modeling validated with experiments. Acta Materialia, 2024(275). 120029
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [108] Jianying Wang, Hailin Yang, Zhilin Liu, Lei Fan, Wentao Yan, Dong Qiu, M.W. Fu, Compositional regulation in additive manufacturing of precipitation-hardening (CoCrNi)94Ti3Al3 medium-entropy superalloy: Cellular structure stabilization and strength enhancement. Composite Part B: Engineering, 2024(281): 111570.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [107] Daijun Hu, Zixu Guo, Nicolò Grilli, Aloysius Tay, Zhen Lu, Wentao Yan*, Understanding the strain localization in additively manufactured materials: Micro-scale tensile tests and crystal plasticity modeling. International Journal of Plasticity, 2024(177): 103981.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [106] Zixu Guo, Ziyuan Song, Haohao Liu, Daijun Hu, Dawei Huang, Xiaojun Yan*, Wentao Yan*, A dislocation-based damage-coupled constitutive model for single crystal superalloy: Unveiling the effect of secondary orientation on creep life of circular hole. International Journal of Plasticity, 2024(173): 103874.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [105] Shixiang Zhou, Yijing Zhao, Yanran Xun, Zhicheng Wei, Yong Yang, Wentao Yan, Jun Ding, Programmable and modularized gas sensor integrated by 3D printing. Chemical Reviews, 2024(124): 3608–3643.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [104] Yinghang Liu, Zhe Song, Yi Guo, Gaoming Zhu, Yunhao Fan, Huamiao Wang, Wentao Yan, Xiaoqin Zeng, Leyun Wang, Simultaneously enhancing strength and ductility of LPBF Ti alloy via trace Y2O3 nanoparticle addition. Journal of Materials Science & Technology, 2024(191): 146-156.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [103] Jianzhao Wu, Chaoyong Zhang, Amanda Giam, Hou Yi Chia, Huajun Cao, Wenjun Ge, Wentao Yan, Physics-assisted transfer learning metamodels to predict bead geometry and carbon emission in laser butt welding. Applied Energy, 2024(359): 122682.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [102] Haifeng Zhang, Fanghua Ye, Fei Chen, Wenjun Yuan*, Wentao Yan*, Numerical investigation on the viscoelastic polymer flow in material extrusion additive manufacturing. Additive Manufacturing, 2024: 103992.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [101] Changyong Liu*, Chenggang Zheng, Shengwu Zhang, Yang Liu, Qi Cheng, Zhiyuan Liu, Zhangwei Chen, Liang-Han Chien*, Wentao Yan*, Machine learning-assisted high precision predictive modelling of convective heat transfer in fluid channels fabricated by laser powder bed fusion. International Journal of Thermal Sciences, 2024(197): 108826.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [101] Changyong Liu*, Chenggang Zheng, Shengwu Zhang, Yang Liu, Qi Cheng, Zhiyuan Liu, Zhangwei Chen, Liang-Han Chien*, Wentao Yan*, Machine learning-assisted high precision predictive modelling of convective heat transfer in fluid channels fabricated by laser powder bed fusion. International Journal of Thermal Sciences, 2024(197): 108826. [100] Lu Wang, Qilin Guo, Lianyi Chen*, Wentao Yan*, In-situ experimental and high-fidelity modelling tools to advance understanding of metal additive manufacturing. International Journal of Machine Tools and Manufacture, 2023: 104077.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [99] Wenchao Ke, Wentao Yan, JP Oliveira, Bowen Pang, Long Chen, Yiming Wu, FB Teshome, Jiajia Shen, Liwei Wang, Caiwang Tan, Bei Peng, Xiaoguo Song, Zhi Zeng, Thermal-fluid behavior, microstructure and mechanical properties in liquid bridge transfer mode during directed energy deposition-arc additive manufacturing – Insights using NiTi as a model alloy. Additive Manufacturing, 2023:103807.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [98] Jie Gao, Xiaofei Cao, Mi Xiao, Zhiqiang Yang, Xiaoqiang Zhou, Ying Li, Liang Gao, Wentao Yan, Timon Rabczuk, Yiu-Wing Mai, Rational designs of mechanical metamaterials: Formulations, architectures, tessellations and prospects. Materials Science and Engineering: R: Reports, 2023(156): 100775.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [97] Zixin Liu, Yongqiang Yang*, Di Wang, Ziyu Chen, Wentao Yan*, Correlation between the scan strategy, residing spatter distribution, and parts quality in laser powder bed fusion. Materials & Design, 2023: 112317.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [96] Zeshi Yang, Yanming Zhang, Wentao Yan*. High-fidelity modeling of binder-powder interactions in binder jetting: Binder flow and powder dynamics. Acta Materialia, 2023:119298.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [94] Shiwei Wu, Hou Yi Chia, Tianlong Zhang, Yuefei Jia, Yongkun Mu, Qing Zhang, Yung Zhen Lek, Daijun Hu, Lei Fan, Wentao Yan*. A precipitation-strengthened high-entropy alloy with high (Al+ Ti) content for laser powder bed fusion: Synergizing intrinsic hot-cracking resistance and ultrahigh strength. Acta Materialia, 2023:119193.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [93] Lu Wang, Shuhao Wang, Yanming Zhang, Wentao Yan*. Multi-phase flow simulation of powder streaming in laser-based directed energy deposition. International Journal of Heat and Mass Transfer, 2023 (212): 124240.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [92] Jiuxin Ning, Xiaodong Wang*, Hailong Huang, Shuhao Wang, Wentao Yan*. Topology optimized novel additively manufactured heat sink: Experiments and numerical simulations. Energy Conversion and Management, 2023 (286): 117024.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [91] Ge Wang^, Yanming Zhang^, Bingkun Zou^, Yang Liu, Shiqi Zheng, Xiaochun Li, Wentao Yan*, Zan Li*, Y Morris Wang*, Enhanced plasticity due to melt pool flow induced uniform dispersion of reinforcing particles in additively manufactured metallic composites. International Journal of Plasticity, 2023 (164): 103591.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [90] Ziyuan Xie, Fan Chen, Lu Wang, Wenjun Ge, Wentao Yan, Data-driven prediction of keyhole features in metal additive manufacturing based on physics-based simulation. Journal of Intelligent Manufacturing, 2023.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [89] Hou Yi Chia, Lu Wang, Wentao Yan*, Influence of oxygen content on melt pool dynamics in metal additive manufacturing: High-fidelity modeling with experimental validation. Acta Materialia, 2023:118824.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [88] Yuefei Jia, Shiwei Wu, Yongkun Mu, Long Xu, Chang Ren, Kang Sun, Jun Yi, Yandong Jia, Wentao Yan, Gang Wang, Efficient coarse‐Grained superplasticity of a gigapascal lightweight refractory medium entropy alloy. Advanced Science, 2023.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [87] Yuefei Jia, Chang Ren, Shiwei Wu, Yongkun Mu, Long Xu, Yandong Jia, Wentao Yan, Jun Yi, Gang Wang, Multistage strain-hardening behavior of ultrastrong and ductile lightweight refractory complex-concentrated alloys. Journal of Materials Science & Technology, 2023.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [86] Daijun Hu, Nicolò Grilli, Wentao Yan*, Dislocation structures formation induced by thermal stress in additive manufacturing: Multiscale crystal plasticity modeling of dislocation transport. Journal of the Mechanics and Physics of Solids, 2023: 105235.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [85] Wenchao Ke, Zhi Zeng*, JP Oliveira, Bei Peng, Jiajia Shen, Caiwang Tan, Xiaoguo Song, Wentao Yan*, Heat transfer and melt flow of keyhole, transition and conduction modes in laser beam oscillating welding. International Journal of Heat and Mass Transfer, 2023, 203: 123821.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [84] Bingkun Zou, Lei Wang, Yanming Zhang, Yang Liu, Qiubao Ouyang, Shenbao Jin, Di Zhang, Wentao Yan*, Zan Li*, Enhanced strength and ductility of metal composites with intragranularly dispersed reinforcements by additive manufacturing. Materials Research Letters, 2023, 11(5): 360-366.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [83] Hou Yi Chia, Jianzhao Wu, Xinzhi Wang, Wentao Yan*, Process parameter optimization of metal additive manufacturing: a review and outlook. Journal of Materials Informatics, 2022, 2(4): 16.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [82] Zhihe Yang, Zeshi Yang, Hui Chen, Wentao Yan*, 3D printing of short fiber reinforced composites via material extrusion: Fiber breakage. Additive Manufacturing, 2022(58): 103067
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [81] Dafan Du, Lu Wang, Anping Dong*, Wentao Yan*, Guoliang Zhu, Baode Sun, Promoting the densification and grain refinement with assistance of static magnetic field in laser powder bed fusion. International Journal of Machine Tools and Manufacture, 2022, 183: 103965.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [80] Shuhao Wang, Jinsheng Ning, Lida Zhu, Zhichao Yang, Wentao Yan, Yichao Dun, Pengsheng Xue, Peihua Xu, Susmita Bose, Amit Bandyopadhyay, Role of porosity defects in metal 3D printing: Formation mechanisms, impacts on properties and mitigation strategies. Materials Today, 2022.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [79] Yinghong Yu, Xiyue Cui, Zhihong Liang, Xinlin Qing*, Wentao Yan*, Monitoring of three-dimensional resin flow front using hybrid piezoelectric-fiber sensor network in a liquid composite molding process. Composites Science and Technology, 2022: 109712.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [78] Ziyou Yang, Hui Fang, Kangning Jin, Jingshan He, Wenjun Ge, Wentao Yan, Modeling of microstructure evolution coupled with molten pool oscillation during electron beam welding of an Al-Cu alloy. International Journal of Heat and Mass Transfer, 2022(189): 122735
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [77] Yanming Zhang, Yefeng Yu, Lu Wang, Yang Li, Feng Lin, Wentao Yan*, Dispersion of reinforcing micro-particles in the powder bed fusion additive manufacturing of metal matrix composites. Acta Materialia, 2022: 118086
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [76] Gwendolyn Lim, Zeshi Yang, Yi Hou, Pon Janani Sugumaran, Zhi Qiao, Jun Ding, Wentao Yan*, Yong Yang*, Direct Ink Writing for High Efficiency Microwave Attenuation with Nanofibers Alignment, ACS Applied Materials & Interfaces. 2022
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [75] Yingjie Zhang, Wentao Yan, Xiaojun Peng, Zhangdong Chen, Zimeng Jiang, Di Wang. Investigation into the optical emission of features for powder-bed fusion AM process monitoring, The International Journal of Advanced Manufacturing Technology. 2022
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [74] Yajing Sun, Pengcheng Zhai, Jiuxin Ning, Chenggang Zheng, Shengwu Zhang, Xi Zhao, Changyong Liu, Wentao Yan*, An integrated system of thermoelectric modules and 3D-printed sinusoidal-corrugated spiral-plate heat exchanger, Energy Conversion and Management, 2022. 267, 115885
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [73] Yingjie Zhang, Wentao Yan*, Applications of machine learning in metal powder-bed fusion process monitoring and control: status and challenges, Journal of Intelligent Manufacturing. 2022
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [72] Zhichao Yang, Shuhao Wang, Lida Zhu*, Bo Xin, Wentao Yan*, Manipulating molten pool dynamics during metal 3D printing by ultrasound, Applied Physical Reviews. 2022. 9(2): 021416
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [71] Yefeng Yu, Lu Wang, Hongxin Li, Jun Zhou, Wentao Yan*, Feng Lin*, Impact of fluid flow on the dendrite growth and possible CET in additive manufacturing: numerical modeling, Additive Manufacturing. 2022. 55: 102832
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [70] Daijun Hu, Nicolò Grilli, Lu Wang, Min Yang, Wentao Yan*, Microscale residual stresses in additively manufactured stainless steel: Computational simulation, Journal of the Mechanics and Physics of Solids, 2022: 104822.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [69] Sheng Zhang, Minglu Ding, Lu Wang, Wenjun Ge, Wentao Yan, Laser powder bed fusion of diamond/N6 MMCs enabled by Ni-Ti coated diamond particles. Materials & Design, 2022: 110635
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [68] Hui Chen, Tan Cheng, Zhongwei Li, Qingsong Wei*, Wentao Yan*, Is high-speed powder spreading really unfavourable for the part quality of laser powder bed fusion additive manufacturing?, Acta Materialia, 2022. 117901
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [67] Hui Chen, Yajing Sun, Weihao Yuan, Shengyong Pang, Wentao Yan*, Yusheng Shi, A Review on Discrete Element Method Simulation in Laser Powder Bed Fusion Additive Manufacturing, Chinese Journal of Mechanical Engineering: Additive Manufacturing Frontiers. 2022, 1(1): 100017
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [66] Jiuxin Ning, Xiaodong Wang, Yajing Sun, Chenggang Zheng, Shengwu Zhang, Xi Zhao, Changyong Liu*, Wentao Yan*, Experimental and numerical investigation of additively manufactured novel compact plate-fin heat exchanger, International Journal of Heat and Mass Transfer, 2022. 190: 122818
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [65] Ziyou Yang, Hui Fang, Kangning Jin, Jingshan He, Wenjun Ge*, Wentao Yan, Modeling of microstructure evolution coupled with molten pool oscillation during electron beam welding of an Al-Cu alloy, International Journal of Heat and Mass Transfer, 2022. 189: 122735
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [64] Lin He, Shiwei Wu, Anping Dong, Haibin Tang, Dafan Du, Baode Sun, Wentao Yan*, Selective Laser Melting of Dense and Crack-free AlCoCrFeNi2.1 Eutectic High Entropy Alloy: synergizing strength and ductility, Journal of Materials Science & Technology, 2022. 117: 133-145
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [63] Hui Chen, Yingjie Zhang, Amanda Giam, Wentao Yan*, Experimental and computational study on thermal and fluid behaviours of powder layer during selective laser melting additive manufacturing, Additive Manufacturing, 2022: 102645.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [62] Fan Chen, Min Yang, Wentao Yan*, Data-driven prognostic model for temperature field in additive manufacturing based on the high-fidelity thermal-fluid flow simulation, Computer Methods in Applied Mechanics and Engineering, 2022.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [61] Lu Wang, Yanming Zhang, Hou Yi Chia, Wentao Yan*, Mechanism of the keyhole pore formation during metal additive manufacturing, npj Computational Materials, 2021.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [60] Yingjie Zhang, Wentao Yan, Geok-Soon Hong, Jerry Ying Hsi Fuh, Di Wang, Xin Lin, Dongsen Ye, Data fusion analysis in the powder-bed fusion AM process monitoring by Dempster-Shafer evidence theory, Rapid Prototyping Journal. 2021.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [59] Hui Chen, Wentao Yan*, Dynamic behaviours of powder particles in selective laser melting additive manufacturing, Chinese Journal of Theoretical and Applied Mechanics, 2021. 53(12): 1-11 (invited paper in Chinese)
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [57] Yunlong Li, Xin Lin*, Yunlong Hu, Wentao Yan*, Jerry Ying Hsi Fuh, Hongbiao Dong, Weidong Huang, Precipitation behavior of Nb-Si-based in-situ composite manufactured by laser directed energy deposition, Scripta Materialia. 2022 (207): 114288.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [56] Min Yang, Lu Wang, Wentao Yan*, Phase-field modeling of grain evolution in additive manufacturing with addition of reinforcing particles, Additive Manufacturing. 2021 (47): 102286.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [55] Haijun Huang, LingQin, Haibin Tang, Da Shu*, Wentao Yan*, Baode Sun, Jiawei Mi*, Ultrasound cavitation induced nucleation in metal solidification: an analytical model and validation, Ultrasonics Sonochemistry. 2021: 105832.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [54] Yefeng Yu, Wentao Yan*, Feng Lin*, Understanding the formation process of shrinkage pores with a 3D dendrite growth model: from casting to additive manufacturing, Computational Mechanics. 2022 (69): 133-149
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [53] Yefeng Yu, Yang Li, Feng Lin*, Wentao Yan*, A multi-grid Cellular Automaton model for simulating dendrite growth, Additive Manufacturing. 2021 (47): 102284
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [51] Zan Li^, Yinan Cui^, Wentao Yan^, Di Zhang, Yan Fang, Yujie Chen, Qian Yu, Ge Wang, Heng Ouyang, Chen Fan, Qiang Guo, Ding-Bang Xiong, Shenbao Jin, Gang Sha, Nasr Ghoniem, Ze Zhang, Y Morris Wang, Enhanced strengthening and hardening via self-stabilized dislocation network in additively manufactured metals, Materials Today. 2021(50): 79-88.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [51] Zan Li^, Yinan Cui^, Wentao Yan^, Di Zhang, Yan Fang, Yujie Chen, Qian Yu, Ge Wang, Heng Ouyang, Chen Fan, Qiang Guo, Ding-Bang Xiong, Shenbao Jin, Gang Sha, Nasr Ghoniem, Ze Zhang, Y Morris Wang, Enhanced strengthening and hardening via self-stabilized dislocation network in additively manufactured metals, Materials Today. 2021(50): 79-88. [50] Lu Wang, Wentao Yan*, A thermoelectric magnetohydrodynamics model for laser based metal additive manufacturing, Physical Review Applied. 2021 (15): 064051.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [49] Shuai Chang, Yu Zhang, Bangmin Zhang, Xun Cao, Lei Zhang, Xiaolei Huang*, Wanheng Lu, Chun Yee Aaron Ong, Shuang Yuan, Chaojiang Li, Yizhong Huang, Kaiyang Zeng, Liqun Li, Wentao Yan,* Jun Ding*, Conductivity Modulation of 3D-printed Shellular Electrodes through Embedding Nanocrystalline Intermetallics into Amorphous Matrix for Ultrahigh-current Oxygen Evolution, Advanced Energy Materials, 2021
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [49] Shuai Chang, Yu Zhang, Bangmin Zhang, Xun Cao, Lei Zhang, Xiaolei Huang*, Wanheng Lu, Chun Yee Aaron Ong, Shuang Yuan, Chaojiang Li, Yizhong Huang, Kaiyang Zeng, Liqun Li, Wentao Yan,* Jun Ding*, Conductivity Modulation of 3D-printed Shellular Electrodes through Embedding Nanocrystalline Intermetallics into Amorphous Matrix for Ultrahigh-current Oxygen Evolution, Advanced Energy Materials, 2021 [48] Yicheng Han, Lu Wang, Wentao Yan*, Numerical modeling of laser powder bed fusion of metallic glasses: prediction of crystallization, Journal of Micromechanics and Molecular Physics, 2021.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [46] Min Yang, Lu Wang, Wentao Yan*, Phase-field modeling of grain evolutions in additive manufacturing from nucleation, growth, to coarsening, npj Computational Materials, 2021. 7:56
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [45] Shuhao Wang, Lida Zhu, Yichao Dun, Jerry Fuh, Wentao Yan*, Multi-physics modeling of direct energy deposition process of thin-walled structures: defect analysis, Computational Mechanics, 2021. 67:1229-1242
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [44] Hui Chen, Wei Zhu, Haibin Tang, Wentao Yan*, Oriented structure of short fiber reinforced polymer composites processed by selective laser sintering: the role of powder-spreading process, International Journal of Machine Tool and Manufacture, 2021. 163: 103703
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [43] Feiyu Xiong, Chenyang Huang, Orion L. Kafka, Yanping Lian, Wentao Yan, Mingji Chen, Daining Fang, Grain growth prediction in selective electron beam melting of Ti-6Al-4V with a cellular automaton method, Materials & Design. 2021. 199: 109410
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [42] Haibin Tang, Haijun Huang, Changyong Liu, Wentao Yan*, Multi-Scale modelling of structure-property relationship in additively manufactured metallic materials, International Journal of Mechanical Sciences. 2020. 194, 106185
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [41] Lu Wang, Yanming Zhang, Wentao Yan*, Evaporation Model for Keyhole Dynamics during additive manufacturing of metal, Physical Review Applied. 2020. 14, 064039
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [39] Fan Chen, Wentao Yan*, High-fidelity Modelling of thermal stress for additive manufacturing by linking thermal-fluid and mechanical models, Materials & Design. 2020. 109185
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [38] Haibin Tang, Zhangxing Chen, Hongyi Xu, Zhao Liu, Qingping Sun, Guowei Zhou, Wentao Yan, Weijian Han, Xuming Su, Computational Micromechanics Model based Failure Criteria for Chopped Carbon Fiber Sheet Molding Compound Composites, Composites Science and Technology. 2020 108400
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [37] Wentao Yan*, Weixin Ma, Yongxing Shen. Powder sintering mechanisms during the pre-heating procedure of the electron beam selective melting: computational modeling and experiments, Materials Today Communications. 2020. 101579.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [35] C Xie, MH Xiang, JK Du, WT Yan, LJ Shen, JK Chen, XD Shu, QH Fang, Asymmetric yield effect evolving with internal variables during continuous large deformations and its FEM validation, International Journal of Plasticity, 2020. 102723
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [33] Dongrong Liu, Shuhao Wang, Wentao Yan*, Grain structure evolution in transition-mode melting in direct energy deposition, Materials & Design. 2020. 108919
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [32] Hui Chen, Wentao Yan*, Spattering and denudation in laser powder bed fusion process: Multiphase flow modelling, Acta Materialia. 2020. 196: 154-167
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [31] Ge Wang, Heng Ouyang, Fan Chen, Qiang Guo, Zhiqiang Li, Wentao Yan*, Zan Li*. The origin of high-density dislocations in additively manufactured metals, Materials Research Letters, 2020. 8:8, 283-290
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [30] Hui Chen, Yuxiang Chen, Yin Liu, Qingsong Wei*, Yusheng Shi, Wentao Yan*, Packing quality of powder layer during counter-rolling-type powder spreading process in additive manufacturing, International Journal of Machine Tool and Manufacture, 2020. 153: 103553
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [29] Jie Gao, Mi Xiao, Liang Gao, Jinhui Yan, Wentao Yan, Isogeometric topology optimization for computational design of re-entrant and chiral auxetic composites, Computer Methods in Applied Mechanics and Engineering, 2020. 362
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [28] Shuhao Wang, Lida Zhu, Jerry Ying Hsi Fuh, Haiquan Zhang, and Wentao Yan*. Multi-physics modeling and Gaussian process regression analysis of cladding track geometry for direct energy deposition, Optics and Lasers in Engineering, 2020. 127: 105950.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [27] Hao Wu, Ping Zou, Wentao Yan, Jian Cao, Kornel F.Ehmann, Micro wave patterns by vibrating-lens assisted laser machining, Journal of Materials Processing Technology. 2019 Sep 28: 116424.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [26] Hui Chen, Qingsong Wei, Yingjie Zhang, Fan Chen, Yusheng Shi, Wentao Yan*, Deposition mechanisms of powder-spreading process of powder bed-based additive manufacturing: experimental test and particulate scale simulations, Acta Materialia. 2019. 179: 158-171
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [25] Lin He, Yimin Gao, Yefei Li, Zhiwei Liu, Weiyao Zhang, Wentao Yan, Effect of Rare Earth Y Addition on the Microstructure and Mechanical Properties of Ti(C,N)-304ss Cermets, Journal of Alloys and Compounds, 2019, 806: 1-10
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [24] Lin He, Yimin Gao*, Yefei Li, Zhiwei Liu, Wei Yuan, Wenqing Chen, Wentao Yan*. Effect of TiB2/WC addition on the oxidation behavior of Ti(C,N)-304ss cermets during the early oxidation stage, Corrosion Science, 2019
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [23] S Mohammad H Hojjatzadeh, Niranjan D Parab, Wentao Yan, Qilin Guo, Lianghua Xiong, Cang Zhao, Minglei Qu, Luis I Escano, Xianghui Xiao, Kamel Fezzaa, Wes Everhart, Tao Sun, Lianyi Chen. Pore elimination mechanisms during 3D printing of metals, Nature Communications. 2019;10(1):3088.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [22] Ya Qian, Wentao Yan, Feng Lin, Data Mining for Mesoscopic Simulation of Electron Beam Selective Melting, Engineering, 2019, 5 (4): 746-754
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [21] Lin He, Yimin Gao*, Yefei Li, Zhiwei Liu, Wenyan Zhai, Wei Yuan, Wenqing Chen, Wentao Yan*, An effective way to solve the abnormal oxidation behavior of Fe in Ti(C,N)-304ss cermet, Corrosion Science, 2019, 108118
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [20] Lin He, Qingkun Liu, Yimin Gao*, Yefei Li, Zhiwei Liu, Wenyan Zhai, Changmeng Zhou, Wei Yuan, Wenqing Chen, Wentao Yan*. Abnormal oxidation behavior of Fe in Ti (C, N)-304ss cermet during early oxidation stage, Journal of Alloys and Compounds, 2019. 790: 20-26.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [19] Sarah J. Wolff, Zhengtao Gan, Stephen Lin, Jennifer L. Bennett, Wentao Yan, Gregory Hyatt, Kornel F. Ehmann, Gregory J. Wagner, Wing Kam Liu, and Jian Cao. Experimentally validated predictions of thermal history and microhardness in laser-deposited Inconel 718 on carbon steel, Additive Manufacturing, 2019. 27: 540-551.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [18] Ruishan Xie, Gaoqiang Chen, Yue Zhao, Shuai Zhang, Wentao Yan, Xin Lin, and Qingyu Shi. In-situ observation and numerical simulation on the transient strain and distortion prediction during additive manufacturing, Journal of Manufacturing Processes, 2019. 38: 494-501.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [17] Ya Qian, Wentao Yan, Feng Lin, Parametric Study and Surface Morphology Analysis of Electron Beam Selective Melting Mesoscopic Simulations of Powder Bed Fusion: Research Progresses and Conditions, Rapid Prototyping Journal, 2018. 24 (9), 1586-1598
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [16] Zekun Wang, Wentao Yan, Wing Kam Liu, Moubin Liu, Powder-Scale Multi-physics Modeling of Multi-layer Multi-track Selective Laser Melting with Sharp Interface Capturing Method, Computational Mechanics, 2019, 63(4): 649-661.
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [15] Wentao Yan^, Yanping Lian^, Cheng Yu^, Orion Kafka^, Zeliang Liu, Wing Kam Liu, Gregory Wagner, An integrated Process-Structure-Property modeling framework for additive manufacturing, Computer Methods in Applied Mechanics and Engineering, 2018. 339: 184-204
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [14] Wentao Yan, Stephen Lin, Orion Kafka, Yanping Lian, Cheng Yu, Zeliang Liu, Jinhui Yan, Sarah Wolff, Hao Wu, Ebot Ndip-Agbor, Mojtaba Mozaffar, Kornel Ehmann, Jian Cao, Gregory Wagner, Wing Kam Liu, Data-driven multi-scale multi-physics models to derive process–structure–property relationships for additive manufacturing, Computational Mechanics, 2018. 61(5): 521-541
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [15] Wentao Yan^, Yanping Lian^, Cheng Yu^, Orion Kafka^, Zeliang Liu, Wing Kam Liu, Gregory Wagner, An integrated Process-Structure-Property modeling framework for additive manufacturing, Computer Methods in Applied Mechanics and Engineering, 2018. 339: 184-204 [14] Wentao Yan, Stephen Lin, Orion Kafka, Yanping Lian, Cheng Yu, Zeliang Liu, Jinhui Yan, Sarah Wolff, Hao Wu, Ebot Ndip-Agbor, Mojtaba Mozaffar, Kornel Ehmann, Jian Cao, Gregory Wagner, Wing Kam Liu, Data-driven multi-scale multi-physics models to derive process–structure–property relationships for additive manufacturing, Computational Mechanics, 2018. 61(5): 521-541 [13] Jinhui Yan, Wentao Yan, Stephen Lin, Gregory Wagner, A novel fully coupled formulation for gas-liquid-solid thermal fluid flows with applications to melting process, Computer Methods in Applied Mechanics and Engineering, 2018. 336: 444-470
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [12] Yanping Lian, Stephen Lin, Wentao Yan, Wing Kam Liu, Gregory Wagner, A parallelized 3D cellular automaton model for grain growth during additive manufacturing. Computational Mechanics, 2018. 61(5): 543-558
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [11] Wentao Yan, Ya Qian, Wenjun Ge, Stephen Lin, Gregory Wagner, Feng Lin, Wing Kam Liu, Meso-scale modeling of multiple-layer fabrication process in Selective Electron Beam Melting: inter-layer/track voids formation, Materials & Design, 2018. 141: 210-219
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [9] Wentao Yan, Ya Qian, Weixin Ma, Bin Zhou, Yongxing Shen, Feng Lin, Modeling and experimental validation of electron beam selective melting process, Engineering, 2017. 3(5): 701-707 (invited feature article by Chinese Academy of Engineering)
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [7] Wentao Yan, Dafa Jiang, Xiao Yuan, Bin Zhou, Feng Lin, A novel design of a high-strength high-temperature graphite die, Journal of Process Mechanical Engineering, online, 2017
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [6] Wentao Yan, Wenjun Ge, Ya Qian, Stephen Lin, Gregory Wagner, Feng Lin, Wing Kam Liu, Multiphysics modeling of single/multiple-track defect mechanisms in electron beam selective melting, Acta Materialia, 2017. 134: 324-333. doi:10.1016/j.actamat.2017.05.061
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [5] Wentao Yan, Ya Qian, Feng Lin, Research Progress of Multi-Scale Multi-Physics Modeling for Selective Melting Process, Aeronautical Manufacturing Technology, 2017, 529(10): 50-58 (Invited feature article, in Chinese)
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [4] Wentao Yan, Feng Lin, Self-correction method of out-of-plane motions in two-dimensional digital image correlation, Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, online, 2016
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [3] Wentao Yan, Wenjun Ge, Jacob Smith, Stephen Lin, Orion Kafka, Feng Lin, Wing Kam Liu, Multiscale modeling of electron beam melting of functionally graded materials, Acta Materialia, 2016. 115: 403-412
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [2] Jacob Smith, Wei Xiong, Wentao Yan, Stephen Lin, Puikei Cheng, Orion Kafka. Gregory Wagner. Jian Cao, Wing Kam Liu, Linking process, structure, property, and performance for metal-based additive manufacturing: computational approaches with experimental support. Computational Mechanics, 2016. 57(4):583-610. doi:10.1007/s00466-015-1240-4
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
+
+1. [2] Jacob Smith, Wei Xiong, Wentao Yan, Stephen Lin, Puikei Cheng, Orion Kafka. Gregory Wagner. Jian Cao, Wing Kam Liu, Linking process, structure, property, and performance for metal-based additive manufacturing: computational approaches with experimental support. Computational Mechanics, 2016. 57(4):583-610. doi:10.1007/s00466-015-1240-4 [1] Wentao Yan, Jacob Smith, Wenjun Ge, Feng Lin, Wing Kam Liu, Multiscale modeling of electron beam and substrate interaction: a new heat source model. Computational Mechanics. 2015. 56 (2): 265-276
+
+    게시 페이지: <https://blog.nus.edu.sg/yanwt/publications/>
 
 ## National University of Singapore — YANG Wenming
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:35.055Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: Green and Sustainable Transportation and Power Generation Laboratory / Home / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / Publication page visible text captured; structured extraction pending.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <http://blog.nus.edu.sg/yangwm/home/>
 
 출처: <https://blog.nus.edu.sg/yangwm/publications/>
 
@@ -3260,21 +5680,591 @@
 
 ## National University of Singapore — ZHANG Huangwei
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 142건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:43.644Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: The Laboratory for Energy Innovation / Main menu / Group Member / Archives / Meta / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / Publication page visible text captured; structured extraction pending.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://blog.nus.edu.sg/huangwei/publications/>
+출처: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, M., An, B., Li, P., Sun, M., Wang, T., Sun, J., Wang, Y., & Zhang, H., (2026). Ignition characteristics of a supersonic combustor with parallel dual combustion zones. AIAA Journal, accepted. doi.org/10.2514/1.J065894
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Wang, Y., Xie, S., Sun, J., Shan, R., Shaik, S. M., & Zhang, H. (2026). Effects of Soret diffusion and thermal stratification on ignition and flame propagation in cryogenic hydrogen/air mixtures. Fuel, 407. doi:10.1016/j.fuel.2025.137387
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Wang, Y., Li, S., Xie, S., & Zhang, H. (2026). Wedge-stabilized oblique detonation in n-dodecane spray considering flight altitude effects. Fuel, 405. doi:10.1016/j.fuel.2025.136730
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, S., & Zhang, H. (2026). Simulation of single ammonia droplet combustion at elevated pressures. Combustion and Flame, 283. doi:10.1016/j.combustflame.2025.114534
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xie, S., Ma, P., Li, J., Rojas Chávez, S. B., Soni, S. K., Hu, H., & Zhang, H. (2026). Numerical study of laminar premixed ammonia/air flames enriched with nitrogen oxides. Combustion and Flame, 283. doi:10.1016/j.combustflame.2025.114518
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, P., Zhang, Y. F., Chen, Z., & Zhang, H. (2026). Combustion of micro aluminum particle suspension behind an incident shock wave. International Journal of Multiphase Flow, 194. doi:10.1016/j.ijmultiphaseflow.2025.105429
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Ding, H., Zhang, P., Li, S., Chavez, S. B. R., Zhang, H., Ai, F., . . . Zhang, H. (2025). Multistage combustion and reaction coupling of micro-sized aluminum particles in hot steam. Applications in Energy and Combustion Science, 24. doi:10.1016/j.jaecs.2025.100423
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Liu, C., Zhang, Y. F., & Zhang, H. (2025). Multiphysical modelling of selective laser melting: Metal phase change effects. Thermal Science and Engineering Progress, 68. doi:10.1016/j.tsep.2025.104309
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Ma, P., Xie, S., Li, J., Chavez, S. B. R., Hu, H., & Zhang, H. (2025). Extinction limit and NO/N2O formation of methanol/ammonia counterflow diffusion flames under elevated conditions. Combustion and Flame, 282. doi:10.1016/j.combustflame.2025.114520
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, J., Zhang, H., & Yang, J. (2025). Experimental study on expanding hydrogen/air turbulent premixed flames under high turbulence intensities. Combustion and Flame, 282. doi:10.1016/j.combustflame.2025.114521
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, P., Xu, Y., Zhang, H., & Chen, Z. (2025). Unsteady dynamics and mode transitions in hybrid hydrogen–aluminum detonations. Combustion and Flame, 281. doi:10.1016/j.combustflame.2025.114438
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Sun, J., Wang, Y., Shaik, S. M., & Zhang, H. (2025). Numerical investigation of detonation initiation and propagation in non-uniformly cracked ammonia and air mixtures. Combustion and Flame, 281. doi:10.1016/j.combustflame.2025.114439
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Hu, H., Li, M., & Zhang, H. (2025). Dynamic surrogate-assisted particle swarm optimization for chemical kinetic mechanisms. Computers and Chemical Engineering, 202. doi:10.1016/j.compchemeng.2025.109294
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Yang, Z., Chen, Z., Zhang, N., Zhou, Y., Luo, D., Jin, T., & Zhang, H. (2025). Time-dependent evolution of morphologies and lattice defects in hydrothermal synthesized ceria-zirconia solid solutions for catalytic combustion of diesel soot. Fuel Processing Technology, 276. doi:10.1016/j.fuproc.2025.108294
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xie, S., & Zhang, H. (2025). On the extinction and burning limits of stretched premixed ammonia flames at elevated pressures. Combustion and Flame, 279. doi:10.1016/j.combustflame.2025.114248
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Lu, J., Liu, E., Liu, X., Cao, C., Xie, S., Li, S., & Zhang, H. (2025). Simulations of n-dodecane spray flames in a model gas turbine combustor: Low-temperature chemistry effects. Fuel, 394. doi:10.1016/j.fuel.2025.135061
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Cao, W., Wang, F., Weng, C., & Zhang, H. (2025). The role of isolators in two-phase kerosene/air rotating detonation engines. Defence Technology, 49, 260-274. doi:10.1016/j.dt.2025.02.023
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Shi, W., Wang, Z., Zhang, H., Zhang, Y., Zhang, Z., & Zhao, X. (2025). The reduced mechanism of ammonia/hydrogen mixture for detonation. International Journal of Hydrogen Energy, 139, 481-495. doi:10.1016/j.ijhydene.2025.05.174
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Liu, Z., Bin, S., Chen, S., Jiang, J., Zhang, Y., Shi, X., . . . Li, Y. (2025). Insights into combustion and emission characteristics of ammonia co-firing with hydrogen-rich gas for gas turbine applications. Energy, 324. doi:10.1016/j.energy.2025.135967
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, M., Hu, H., Lu, L., & Zhang, H. (2025). Development of compact mechanism for lithium-ion battery venting gas fires using Cantera ordinary differential equation neural network algorithm. Applications in Energy and Combustion Science, 22. doi:10.1016/j.jaecs.2025.100326
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, S., Li, S., Xie, S., Xu, Y., Gao, K., & Zhang, H. (2025). Numerical simulations of direct detonation initiation and propagation in methane/air mixtures containing coal particles. Combustion and Flame, 275. doi:10.1016/j.combustflame.2025.114120
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Ding, Y., Lu, L., & Zhang, H. (2025). Multi-physics simulation and risk analysis of internal thermal runaway propagation in lithium-ion batteries. eTransportation, 24. doi:10.1016/j.etran.2025.100427
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, J., Li, S., Meng, Q., Li, S., & Zhang, H. (2025). Detonative wavelets in quasi-detonations with fine coal char particles. Combustion and Flame, 275. doi:10.1016/j.combustflame.2025.114101
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Meng, Q., Li, S., Xu, Y., & Zhang, H. (2025). Droplet fragmentation effects on detonations in n-dodecane mists. Combustion and Flame, 273. doi:10.1016/j.combustflame.2024.113944
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, S., & Zhang, H. (2025). Theoretical analysis of quasi-steady evaporation in compositionally distinct droplet pairs. Combustion and Flame, 272. doi:10.1016/j.combustflame.2024.113894
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Lin, W., Zhang, W., An, Z., Wang, J., Huang, Z., & Zhang, H. (2025). Effects of combustor wall temperature on the outer recirculation zone combustion modes transition in lean premixed DME/air swirling flames. Fuel, 381. doi:10.1016/j.fuel.2024.133231
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Hu, H., & Zhang, H. (2025). Two-stage optimization for chemical kinetic mechanisms with improved deep reinforcement learning. Proceedings of the Combustion Institute, 41. doi:10.1016/j.proci.2025.105953
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xie, S., Zirwes, T., & Zhang, H. (2025). Effects of reactant stratification on the propagation, NOx formation and fuel slip of ammonia/air flames. Proceedings of the Combustion Institute, 41. doi:10.1016/j.proci.2025.105954
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Sun, J., Shaik, S. M., Bo Nguyen, V., & Zhang, H. (2025). Detonation chemistry and propagation characteristics in partially cracked ammonia. Proceedings of the Combustion Institute, 41. doi:10.1016/j.proci.2025.105910
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xie, S., Zirwes, T., & Zhang, H. (2025). Effects of reactant stratification on the propagation, NOx formation and fuel slip of ammonia/air flames. Proceedings of the Combustion Institute, 41. doi:10.1016/j.proci.2025.105954 Sun, J., Shaik, S. M., Bo Nguyen, V., & Zhang, H. (2025). Detonation chemistry and propagation characteristics in partially cracked ammonia. Proceedings of the Combustion Institute, 41. doi:10.1016/j.proci.2025.105910 Wang, Z., Gou, X., Meng, Q., & Zhang, H.* (2024). Effects of water sprays on hydrogen autoignition in heated air. Process Safety and Environmental Protection. Accepted and In Press.
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, J., Li, S., Li, S., & Zhang, H.* (2024). Autoignition of premixed hydrogen/air mixtures with uniformly dispersed carbon particles. International Journal of Hydrogen Energy. Accepted and In Press.
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Hu, X., Yum Z., Tao, L., Zhang, H.*, & Li, S. (2024). Bouncing dynamics of binary equal-sized high-viscosity molten glass droplets in head-on collisions. Physics of Fluids. Accepted and In Press.
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Wang, Y., Li, S., Guo, H., & Zhang, H. (2024). Heat release multiplicity and subcritical-supercritical droplet transition in autoignition of n-dodecane sprays under detonation-relevant conditions. International Journal of Heat and Mass Transfer, 235. doi:1016/j.ijheatmasstransfer.2024.126147
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Ding, Y., Lu, L., & Zhang, H. (2024). BatteryFOAM: A comprehensive electrochemical-electrical-thermal solver with OpenFOAM for computational battery dynamics. Applied Energy, 376. doi:1016/j.apenergy.2024.124145
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Ding, Y., Lu, L., & Zhang, H. (2024). Simulation of lithium-ion battery thermal runaway considering active material volume fraction effect. International Journal of Thermal Sciences, 206. doi:1016/j.ijthermalsci.2024.109336
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, S., & Zhang, H. (2024). Theoretical insights into transient gas and liquid phase effects on the evaporation and autoignition of stationary droplets. Combustion and Flame, 268. doi:1016/j.combustflame.2024.113626
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, P., Cao, C., & Zhang, H. (2024). Micron-sized aluminum particle combustion under elevated gas condition: Equivalence ratio effect. Applications In Energy and Combustion Science, 19, 11 pages. doi:1016/j.jaecs.2024.100283
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xie, S., & Zhang, H. (2024). Existence and chemistry of stretched ammonia/hydrogen weak flames at elevated pressures. Combustion and Flame, 266. doi:1016/j.combustflame.2024.113528
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xu, Y., Li, S., Meng, Q., Zhang, J., & Zhang, H. (2024). Direct initiation of hydrogen detonation in fine water sprays. Physics of Fluids, 36(8), 11 pages. doi:1063/5.0223655
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Hu, X., Li, H., Zhang, H., Li, S., Xu, C., & Xie, N. (2024). Numerical study of head-on collisions between two glass microsphere droplets. International Journal of Heat and Fluid Flow, 107. doi:1016/j.ijheatfluidflow.2024.109376
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhu, R., Huang, Z., Xu, C., Fang, X., Zhang, H., & Davy, M. (2024). Large eddy simulation of a supersonic lifted hydrogen flame: Impacts of Lewis, turbulent Schmidt and Prandtl numbers. Physics of Fluids, 36(7), 18 pages. doi:1063/5.0214630
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. You, B., Li, S., Zheng, H., Li, S., & Zhang, H. (2024). Numerical investigation of nanosecond plasma-assisted ignition in blast furnace gas. Fuel, 365. doi:1016/j.fuel.2024.131244
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xu, Y., & Zhang, H. (2024). Hydrogen explosion and detonation mitigation by water sprays: A mini review. International Journal of Hydrogen Energy, 66, 242-257. doi:1016/j.ijhydene.2024.04.050
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, S., & Zhang, H. (2024). Analysis of two interactive burning droplets with different temperatures. Journal of Fluid Mechanics, 986, 32 pages. doi:1017/jfm.2024.265
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Meng, Q., Xu, C., Zhang, L., & Zhang, H. (2024). Simulations of n-dodecane/oxygen/nitrogen cellular detonations. Acta Astronautica, 218, 221-231. doi:1016/j.actaastro.2024.02.034
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, Y., Zhang, H., Yao, R., & Li, Z. (2024). Development on risk assessment model of urban ventilation based on COVID-19 pollution——A case study of an innovation base in Chongqing. Building and Environment, 255. doi:1016/j.buildenv.2024.111431
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, Y., Yao, R., Zhang, H., & Du, C. (2024). Exploring on the prediction model of human skin temperature and rectal temperature under heat stress. Building and Environment, 254. doi:1016/j.buildenv.2024.111373
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, P., & Zhang, H. (2024). Instabilities of a circular moderately dense particle cloud impacted by an incident shock. International Journal of Multiphase Flow, 174. doi:1016/j.ijmultiphaseflow.2024.104787
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H., Ng, H. D., Chen, Z., & Wen, J. (2024). Hydrogen flame and detonation physics. PHYSICS OF FLUIDS, 36(3), 3 pages. doi:1063/5.0203273
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, P., Zhang, H., & Zhang, Y. F. (2024). Kinetic studies of ignition of coal char particle suspension in hot air. Fuel, 357. doi:1016/j.fuel.2023.129977
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Wang, Z., Gou, X., & Zhang, H. (2024). Explosion limit of hydrogen/oxygen mixture with water vapor addition. International Journal of Hydrogen Energy, 50, 772-781. doi:1016/j.ijhydene.2023.06.321
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Wang, F., Weng, C., & Zhang, H.* (2023). Semi-confined layered kerosene/air two-phase detonations bounded by nitrogen gas. Combustion and Flame, 258. doi:1016/j.combustflame.2023.113104
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Huang, Z., Xu, Y., Li, S., Meng, Q., & Zhang, H.* (2023). Detailed simulations of one-dimensional detonation propagation in dilute n-heptane spray and air mixtures. Physics Of Fluids, 35(12), 12 pages. doi:1063/5.0173991
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, S., Zhang, J., Xie, S., Gao, K., & Zhang, H.* (2023). Autoignition of methane/coal particle/air mixture under constant-volume conditions. Combustion and Flame, 258. doi:1016/j.combustflame.2023.113111
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, S., Zhang, H.*, & Law, C. K. (2023). Analysis of evaporation and autoignition of droplet clouds with a unit cell model considering transient evaporating boundary layer. International Journal Of Heat And Mass Transfer, 214, 19 pages. doi:1016/j.ijheatmasstransfer.2023.124239
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Guo, H., Meng, Q., Xu, Y., & Zhang, H.* (2023). Autoignition of two-phase n-heptane/air mixtures behind an oblique shock: Insights into spray oblique detonation initiation. Combustion and Flame, 256. doi:1016/j.combustflame.2023.112992
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Jia, X., Xu, Y., Zheng, H., & Zhang, H.* (2023). Direct detonation initiation in hydrogen/air mixture: effects of compositional gradient and hotspot condition. Journal Of Fluid Mechanics, 970, 29 pages. doi:1017/jfm.2023.512
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xu, Y., Zhang, P., Meng, Q., Li, S., & Zhang, H.* (2023). Transmission of hydrogen detonation across a curtain of dilute inert particles. Combustion and Flame, 254. doi:1016/j.combustflame.2023.112834
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, S., Zhang, H.*, & Law, C. K. (2023). Gas-phase transient effects on droplet evaporation and ignition. Combustion and Flame, 254. doi:1016/j.combustflame.2023.112840
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Liu, E., Lu, J., Cao, C., Liu, X.*, Zheng, H., & Zhang, H.* (2023). Analysis of flame instability in low-emission tower-type gas turbine combustor with multi-stage methane injection. Fuel, 344. doi:1016/j.fuel.2023.128108
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xu, X., Wang, Y.*, Lu, L., & Zhang, H.* (2023). Impedance analysis of PEG plasticized PEO-based composite polymer electrolytes for sodium-ion batteries. Functional Materials Letters, 16(3-4). doi:1142/S1793604723400167
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Ding, Y., Lu, L., & Zhang, H.* (2023). Battery material thermal instability and side reaction for lithium-ion battery thermal runaway: A short review. Functional Materials Letters, 16(3-4). doi:1142/S1793604723400106
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xu, X., Wang, Y.*, Yi, Q., Wang, X., Camacho, R. A. P., Kungl, H., . . . Lu, L.*, & Zhang, H.* (2023). Ion Conduction in Composite Polymer Electrolytes: Potential Electrolytes for Sodium-Ion Batteries. CHEMSUSCHEM, 16(8), 18 pages. doi:1002/cssc.202202152
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Meng, Q., Zhao, M., Xu, Y., Zhang, L., & Zhang, H.* (2023). Structure and dynamics of spray detonation in n-heptane droplet/vapor/air mixtures. Combustion and Flame, 249. doi:1016/j.combustflame.2022.112603
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, Q., & Zhang, H.* (2023). Spark-ignited kernel dynamics in fine ethanol sprays and their relations with minimum ignition energy. Combustion and Flame, 249. doi:1016/j.combustflame.2023.112622
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Shi, J., Zhang, P., Xu, Y., Ren, W., & Zhang, H.* (2023). Effects of dilute coal char particle suspensions on propagating methane detonation wave. Combustion and Flame, 249. doi:1016/j.combustflame.2023.112618
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, P., Zhang, H.*, Zhang, Y. F., Li, S., & Meng, Q. (2023). Modeling particle collisions in moderately dense curtain impacted by an incident shock wave. Physics Of Fluids, 35(2), 19 pages. doi:1063/5.0138088
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Yang, Z.*, Chen, Z., Huang, Y., Zhang, N., Li, Y., & Zhang, H.* (2023). Rational design of hierarchically micrometer scaled macro-mesoporous ceria-zirconia composites for enhancing diesel soot catalytic combustion performance. Molecular Catalysis, 535. doi:1016/j.mcat.2022.112825
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, S., Yao, Q.*, Law, C. K., Zhuo, J., & Zhang, H. (2023). Structure and generation mechanism of blue whirls. Proceedings of the Combustion Institute, 39(3), 3725-3733. doi:1016/j.proci.2022.10.003
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Guo, H., Xu, Y., Zheng, H., & Zhang, H.* (2023). Ignition limit and shock-to-detonation transition mode of n -heptane/air mixture in high-speed wedge flows. Proceedings Of the Combustion Institute, 39(4), 4771-4780. doi:1016/j.proci.2022.08.082
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, Q., & Zhang, H.* (2023). Forced ignition and oscillating flame propagation in fine ethanol sprays. PROCEEDINGS OF THE COMBUSTION INSTITUTE, 39(2), 2599-2608. doi:1016/j.proci.2022.07.125
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Jin, S., Xu, C., Zheng, H., & Zhang, H.* (2023). Detailed chemistry modeling of rotating detonations with dilute n-heptane sprays and preheated air. Proceedings Of the Combustion Institute, 39(4), 4761-4769. doi:1016/j.proci.2022.08.075
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Gao, B., Zhang, N., Zhang, H., Qiu, R., Chen, Z., Li, Y., & Yang, Z.* (2022). Effects of platinum high-Temperature redispersion on Pt/Al2O3 diesel oxidation catalyst for nitric oxide oxidation and its reaction pathway. Journal of Environmental Chemical Engineering, 10(6). doi:1016/j.jece.2022.108669
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, Q., Shu, C., & Zhang, H.* (2022). On the evolution of fuel droplet evaporation zone and its interaction with flame front in ignition of spray flames. Combustion Theory And Modelling, 26(7), 1131-1158. doi:1080/13647830.2021.2002416
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xu, Y., & Zhang, H.* (2022). Interactions between a propagating detonation wave and circular water cloud in hydrogen/air mixture. Combustion and Flame, 245. doi:1016/j.combustflame.2022.112369
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Giusti, A.*, Zhang, H., Kypraiou, A. M., Allison, P. M., & Mastorakos, E. (2022). Numerical investigation of the response of turbulent swirl non-premixed flames to air flow oscillations. International Journal of Spray and Combustion Dynamics, 14(3-4), 229-237. doi:1177/17568277221114944
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Wang, Y., Li, S., Wang, Y., Yu, D.*, Zhang, H., & Chen, Z. (2022). Analysis of the ignition of hydrogen/air mixtures induced by a hot particle. Physical Chemistry Chemical Physics, 24(35), 21188-21197. doi:1039/d2cp02409h
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Huang, Z., & Zhang, H.* (2022). Ignition and deflagration-to-detonation transition modes in ethylene/air mixtures behind a reflected shock. Physics Of Fluids, 34(8), 15 pages. doi:1063/5.0103013
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xu, Y., & Zhang, H.* (2022). Pulsating propagation and extinction of hydrogen detonations in ultrafine water sprays. Combustion and Flame, 241. doi:1016/j.combustflame.2022.112086
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Guo, H., Xu, Y., Li, S., & Zhang, H.* (2022). On the evolutions of induction zone structure in wedge-stabilized oblique detonation with water mist flows. Combustion and Flame, 241. doi:1016/j.combustflame.2022.112122
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhu, R., Fang, X.*, Xu, C., Zhao, M., Zhang, H., & Davy, M. (2022). Pulsating one-dimensional detonation in ammonia-hydrogen-air mixtures. International Journal of Hydrogen Energy, 47(50), 21517-21536. doi:1016/j.ijhydene.2022.04.265
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Wang, F., Zhang, H., Bai, Q.*, & Weng, C. (2022). Numerical simulations of vapor kerosene/air rotating detonation engines with different slot inlet configurations. Acta Astronautica, 194, 286-300. doi:1016/j.actaastro.2022.02.015
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Shi, J., Xu, Y., Ren, W., & Zhang, H.* (2022). Critical condition and transient evolution of methane detonation extinction by fine water droplet curtains. Fuel, 315, 14 pages. doi:1016/j.fuel.2022.123133
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Jin, S., Zhang, H.*, Zhao, N., & Zheng, H. (2022). Simulations of rotating detonation combustion with in–situ evaporating bi-disperse n-heptane sprays. Fuel, 314, 15 pages. doi:1016/j.fuel.2021.123087
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Huang, Z., Cleary, M. J., Ren, Z., & Zhang, H.* (2022). Large eddy simulation of a supersonic lifted hydrogen flame with sparse-Lagrangian multiple mapping conditioning approach. Combustion and Flame, 238, 15 pages. doi:1016/j.combustflame.2021.111756
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Yu, Z., & Zhang, H.* (2022). End-gas autoignition and knocking combustion of ammonia/hydrogen/air mixtures in a confined reactor. International Journal of Hydrogen Energy, 47(13), 8585-8602. doi:1016/j.ijhydene.2021.12.181
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Huang, Y., He, X.*, Zhang, H.*, Zhu, Z., & Zhu, H. (2022). Flame stability optimization of cavity primary air-jet form in an augmentor. Energy, 239, 13 pages. doi:1016/j.energy.2021.121801
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhao, Y. S.*, Zhang, H. W., & Zhang, J. (2022). Effects of dynamic micro vortex generator on shock wave boundary layer Interactions. Tuijin Jishu/Journal of Propulsion Technology, 43(1), 94-102. doi:13675/j.cnki.tjjs.200305 [in Chinese]
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, G., Zhang, H.*, & Chen, L. (2021). Large eddy simulation and finite-volume conditional moment closure modelling of a turbulent lifted H2/N2 flame. International Journal Of Hydrogen Energy, 46(80), 40120-40142. doi:1016/j.ijhydene.2021.09.209
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhao, M., & Zhang, H.* (2021). Rotating detonative combustion in partially pre-vaporized dilute n-heptane sprays: Droplet size and equivalence ratio effects. Fuel, 304, 15 pages. doi:1016/j.fuel.2021.121481
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Chen, Z., Luo, D., Zhang, H., Zhang, N., Li, J., Gao, B., . . . Yang, Z.* (2021). Reaction pathway of nitric oxide oxidation on nano-sized Pt/SiO2 catalysts for diesel exhaust purification. Molecular Catalysis, 516, 9 pages. doi:1016/j.mcat.2021.111991
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Xu, Y., Zhao, M., & Zhang, H.* (2021). Extinction of incident hydrogen/air detonation in fine water sprays. Physics Of Fluids, 33(11), 19 pages. doi:1063/5.0071405
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Liu, Y. Y., Yang, L. M., Shu, C.*, & Zhang, H. (2021). Efficient high-order radial basis-function-based differential quadrature-finite volume method for incompressible flows on unstructured grids. Physical Review E, 104(4), 16 pages. doi:1103/PhysRevE.104.045312
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhu, Z., Huang, Y.*, Zhang, H., & He, X.* (2021). Combustion performance in a cavity-based combustor under subatmospheric pressure. Fuel, 302, 10 pages. doi:1016/j.fuel.2021.121115
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Yu, Z., & Zhang, H.* (2021). Reaction front development from ignition spots in n-heptane/air mixtures: Low-temperature chemistry effects induced by ultrafine water droplet evaporation. Physics Of Fluids, 33(8), 17 pages. doi:1063/5.0061486
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhao, M., Chen, Z. X., Zhang, H.*, & Swaminathan, N. (2021). Large Eddy simulation of a supersonic lifted hydrogen flame with perfectly stirred reactor model. Combustion and Flame, 230, 18 pages. doi:1016/j.combustflame.2021.111441
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Huang, Y., He, X.*, Zhang, H.*, Wei, J., & Sng, D. W. M. (2021). Spark ignition and stability limits of spray kerosene flames under subatmospheric pressure conditions. Aerospace Science and Technology, 114, 12 pages. doi:1016/j.ast.2021.106734
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Liu, Y. Y.*, Shu, C.*, Zhang, H. W., Yang, L. M., & Lee, C.* (2021). An efficient high-order least square-based finite difference-finite volume method for solution of compressible Navier-Stokes equations on unstructured grids. Computers & Fluids, 222, 17 pages. doi:1016/j.compfluid.2021.104926
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Liu, Y. Y., Shu, C.*, Zhang, H. W., & Yang, L. M. (2021). A high-order implicit least square-based finite difference-finite volume method for incompressible flows on unstructured grids. Physics of Fluids, 33(5), 19 pages. doi:1063/5.0047192
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Meng, Q., Zhao, M., Zheng, H., & Zhang, H.* (2021). Eulerian-Lagrangian modelling of rotating detonative combustion in partially pre-vaporized n-heptane sprays with hydrogen addition. Fuel, 290, 17 pages. doi:1016/j.fuel.2020.119808
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhao, M., Ren, Z., & Zhang, H.* (2021). Pulsating detonative combustion in n-heptane/air mixtures under off-stoichiometric conditions. Combustion and Flame, 226, 285-301. doi:1016/j.combustflame.2020.12.012
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Meng, Q., Zhao, N., & Zhang, H.* (2021). On the distributions of fuel droplets and in situ vapor in rotating detonation combustion with prevaporized n-heptane sprays. Physics of Fluids, 33(4), 16 pages. doi:1063/5.0045222
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhao, M., Cleary, M. J., & Zhang, H.* (2021). Combustion mode and wave multiplicity in rotating detonative combustion with separate reactant injection. Combustion and Flame, 225, 291-304. doi:1016/j.combustflame.2020.11.001
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Huang, Z., Zhao, M., Xu, Y., Li, G., & Zhang, H.* (2021). Eulerian-Lagrangian modelling of detonative combustion in two-phase gas-droplet mixtures with OpenFOAM: Validations and verifications. Fuel, 286, 16 pages. doi:1016/j.fuel.2020.119402
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. HE, Z., JIANG, Z., ZHANG, H., & CHEN, W.* (2021). Analytical method of nonlinear coupled constitutive relations for rarefied non-equilibrium flows. Chinese Journal of Aeronautics, 34(2), 136-153. doi:1016/j.cja.2020.06.023
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhu, R., Zhao, M., & Zhang, H.* (2021). Numerical simulation of flame acceleration and deflagration-to-detonation transition in ammonia-hydrogen-oxygen mixtures. International Journal of Hydrogen Energy, 46(1), 1273-1287. doi:1016/j.ijhydene.2020.09.227
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Wang, Y., Zhang, H., Zirwes, T., Zhang, F., Bockhorn, H., & Chen, Z.* (2021). Ignition of dimethyl ether/air mixtures by hot particles: Impact of low temperature chemical reactions. Proceedings of the Combustion Institute, 38(2), 2459-2466. doi:1016/j.proci.2020.06.254
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Yu, Z., Zhang, H.*, & Dai, P. (2021). Autoignition and detonation development induced by temperature gradient in n-C7H16/air/H2O mixtures. Physics of Fluids, 33(1), 15 pages. doi:1063/5.0038125
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Liu, Y., Yang, L., Shu, C.*, & Zhang, H. (2021). A Multi-Dimensional Shock-Capturing Limiter for High-Order Least Square-Based Finite Difference-Finite Volume Method on Unstructured Grids. Advances In Applied Mathematics and Mechanics, 13(3), 671-700. doi:4208/aamm.OA-2020-0255
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H.*, Zhao, M., & Huang, Z. (2020). Large eddy simulation of turbulent supersonic hydrogen flames with OpenFOAM. Fuel, 282, 15 pages. doi:1016/j.fuel.2020.118812
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Liu, Y. Y., Yang, L. M., Shu, C.*, & Zhang, H. W. (2020). Three-dimensional high-order least square-based finite difference-finite volume method on unstructured grids. Physics of Fluids, 32(12), 19 pages. doi:1063/5.0032089
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, Q., Zhang, H.*, & Shu, C. (2020). Propagation of weakly stretched premixed spherical spray flames in localized homogeneous and heterogeneous reactants. Physics of Fluids, 32(12), 17 pages. doi:1063/5.0031638
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, Q., Zhang, H.*, & Shu, C. (2020). Propagation of heterogeneous and homogeneous planar flames in fuel droplet mists. International Journal of Multiphase Flow, 133, 14 pages. doi:1016/j.ijmultiphaseflow.2020.103452
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Huang, Z., & Zhang, H.* (2020). On the interactions between a propagating shock wave and evaporating water droplets. Physics of Fluids, 32(12), 14 pages. doi:1063/5.0035968
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhao, M., & Zhang, H.* (2020). Large eddy simulation of non-reacting flow and mixing fields in a rotating detonation engine. Fuel, 280, 16 pages. doi:1016/j.fuel.2020.118534
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Huang, Z., Cleary, M. J., & Zhang, H.* (2020). Application of the sparse-Lagrangian multiple mapping conditioning approach to a model supersonic combustor. Physics of Fluids, 32(10), 14 pages. doi:1063/5.0026654
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhao, M., & Zhang, H.* (2020). Origin and chaotic propagation of multiple rotating detonation waves in hydrogen/air mixtures. Fuel, 275, 15 pages. doi:1016/j.fuel.2020.117986
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, Q., Liu, C., Zhang, H.*, Wang, M., & Chen, Z. (2020). Initiation and propagation of spherical premixed flames with inert solid particles. Combustion Theory and Modelling, 24(4), 606-631. doi:1080/13647830.2020.1725135
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Huang, Z., & Zhang, H.* (2020). Investigations of autoignition and propagation of supersonic ethylene flames stabilized by a cavity. Applied Energy, 265, 13 pages. doi:1016/j.apenergy.2020.114795
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhuang, Y., Li, Q., Dai, P.*, & Zhang, H.* (2020). Autoignition and detonation characteristics of n-heptane/air mixture with water droplets. Fuel, 266, 12 pages. doi:1016/j.fuel.2020.117077
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhuang, Y.*, & Zhang, H.* (2020). On flame bifurcation and multiplicity in consistently propagating spherical flame and droplet evaporation fronts. International Journal of Multiphase Flow, 125, 16 pages. doi:1016/j.ijmultiphaseflow.2020.103220
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Huang, Z.*, Zhao, M., & Zhang, H.* (2020). Modelling n-heptane dilute spray flames in a model supersonic combustor fueled by hydrogen. Fuel, 264, 14 pages. doi:1016/j.fuel.2019.116809
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Liu, Y. Y., Shu, C.*, Zhang, H. W., & Yang, L. M. (2020). A high order least square-based finite difference-finite volume method with lattice Boltzmann flux solver for simulation of incompressible flows on unstructured grids. Journal of Computational Physics, 401, 23 pages. doi:1016/j.jcp.2019.109019
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Huang, Z., & Zhang, H.* (2020). Numerical investigations of mixed supersonic and subsonic combustion modes in a model combustor. International Journal of Hydrogen Energy, 45(1), 1045-1060. doi:1016/j.ijhydene.2019.10.193
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhao, M., Li, J. -M., Teo, C. J., Khoo, B. C., & Zhang, H.* (2020). Effects of Variable Total Pressures on Instability and Extinction of Rotating Detonation Combustion. Flow Turbulence and Combustion, 104(1), 261-290. doi:1007/s10494-019-00050-y
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Liu, Y. Y., Zhang, H. W., Yang, L. M., & Shu, C.* (2019). High-order least-square-based finite-difference-finite-volume method for simulation of incompressible thermal flows on arbitrary grids. Physical Review E, 100(6), 20 pages. doi:1103/PhysRevE.100.063308
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhuang, Y.*, & Zhang, H.* (2019). Effects of water droplet evaporation on initiation, propagation and extinction of premixed spherical flames. International Journal of Multiphase Flow, 117, 114-129. doi:1016/j.ijmultiphaseflow.2019.05.005
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Li, H., Zhang, H., & Chen, Z.* (2019). Effects of endothermic chain-branching reaction on spherical flame initiation and propagation. Combustion Theory and Modelling, 23(3), 496-514. doi:1080/13647830.2018.1555338
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H.*, & Mastorakos, E. (2019). LES/CMC Modelling of a Gas Turbine Model Combustor with Quick Fuel Mixing. Flow Turbulence and Combustion, 102(4), 909-930. doi:1007/s10494-018-9988-1
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H.*, Giusti, A., & Mastorakos, E. (2019). LES/CMC modelling of ignition and flame propagation in a non-premixed methane jet. Proceedings of the Combustion Institute, 37(2), 2125-2132. doi:1016/j.proci.2018.09.031
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H.*, & Mastorakos, E. (2019). LES/CMC Modelling of a Gas Turbine Model Combustor with Quick Fuel Mixing. Flow Turbulence and Combustion, 102(4), 909-930. doi:1007/s10494-018-9988-1 Zhang, H.*, Giusti, A., & Mastorakos, E. (2019). LES/CMC modelling of ignition and flame propagation in a non-premixed methane jet. Proceedings of the Combustion Institute, 37(2), 2125-2132. doi:1016/j.proci.2018.09.031 Zhang, H.* (2018). Effects of Wall Heat Loss on Swirl-Stabilized Nonpremixed Flames With Localized Extinction. Journal Of Engineering For Gas Turbines And Power-Transactions of the ASME, 140(12), 12 pages. doi:1115/1.4040516
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H.*, & Chen, Z. (2018). Bifurcation and extinction limit of stretched premixed flames with chain-branching intermediate kinetics and radiative loss. Combustion Theory and Modelling, 22(3), 531-553. doi:1080/13647830.2018.1430380
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H.*, & Mastorakos, E. (2017). Modelling local extinction in Sydney swirling non-premixed flames with LES/CMC. Proceedings of the Combustion Institute, 36(2), 1669-1676. doi:1016/j.proci.2016.07.051
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H.*, Garmory, A., Cavaliere, D. E., & Mastorakos, E. (2015). Large Eddy Simulation/Conditional Moment Closure modeling of swirl-stabilized non-premixed flames with local extinction. Proceedings of the Combustion Institute, 35, 1167-1174. doi:1016/j.proci.2014.05.052
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H.*, & Chen, Z. (2014). Effects of heat conduction and radical quenching on premixed stagnation flame stabilised by a wall (vol 18, p. 185, 2014). Combustion Theory and Modelling, 18(1), 185. doi:1080/13647830.2013.818824
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H.*, & Chen, Z. (2013). Effects of heat conduction and radical quenching on premixed stagnation flame stabilised by a wall. Combustion Theory and Modelling, 17(4), 682-706. doi:1080/13647830.2013.792393
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Bai, B., Chen, Z.*, Zhang, H., & Chen, S. (2013). Flame propagation in a tube with wall quenching of radicals. Combustion And Flame, 160(12), 2810-2819. doi:1016/j.combustflame.2013.07.008
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H., Guo, P., & Chen, Z.* (2013). Outwardly Propagating Spherical Flames with Thermally Sensitive Intermediate Kinetics and Radiative Loss. Combustion Science and Technology, 185(2), 226-248. doi:1080/00102202.2012.715607
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H.*, Guo, P., & Chen, Z.* (2013). Critical condition for the ignition of reactant mixture by radical deposition. Proceedings of the Combustion Institute, 34, 3267-3275. doi:1016/j.proci.2012.06.035
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H. W.*, Guo, P., & Chen, Z. (2012). Studies on the mechanism of radical ignition of premixed gas. Kung Cheng Je Wu Li Hsueh Pao/Journal of Engineering Thermophysics, 33(12), 2219-2222. [in Chinese]
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H. W.*, Guo, P., & Chen, Z. (2012). Studies on the mechanism of radical ignition of premixed gas. Kung Cheng Je Wu Li Hsueh Pao/Journal of Engineering Thermophysics, 33(12), 2219-2222. [in Chinese] Zhang, H.*, & Chen, Z*. (2011). Spherical flame initiation and propagation with thermally sensitive intermediate kinetics. Combustion and Flame, 158(8), 1520-1531. doi:1016/j.combustflame.2010.12.031
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
+
+1. Zhang, H. W.*, & Chen, Z. (2011). Effects of Lewis numbers of fuel and radical on the ignition of premixed gases. Kung Cheng Je Wu Li Hsueh Pao/Journal of Engineering Thermophysics, 32(7), 1249-1252. [in Chinese]
+
+    게시 페이지: <https://blog.nus.edu.sg/huangwei/journal-publication/>
 
 ## National University of Singapore — ZHANG Yunfeng
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:57:46.194Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: ZHANG Yunfeng / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://cde.nus.edu.sg/me/staff/zhang-yunfeng/>
 
 ## National University of Singapore — ZHOU Guangya
 
@@ -3550,9 +6540,11 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:53:53.042Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile. / Actual official FPOD lab home and Research pages navigated. Navigation offers Home, News and Events, Research, Our Team; News submenu checked. No Publications list or citations exposed in Research text. No claim of complete publication coverage.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://research.nus.edu.sg/fpod>
 
 출처: <https://research.nus.edu.sg/fpod/research-page-template/>
 
@@ -3560,9 +6552,11 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:56:07.646Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official page heading: Christina LIM Y H / Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive. / No exact Publications/Papers navigation link resolved in captured profile. / Official profile lacks lab/publication link. No full lab-site investigation completed in this run.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://cde.nus.edu.sg/me/staff/lim-christina-y-h/>
 
 ## National University of Singapore — CHUA Kian Jon, Ernest
 

@@ -5,38 +5,39 @@
   "lab_name": null,
   "lab_url": "https://www3.ntu.edu.sg/home/zfan/",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Fan-Zheng-David/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "visibleTXT": "/Users/garden/Documents/formyresearch/data/direct-publications/ntu-12.visible.txt",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00451",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Fan-Zheng-David",
-      "identity_evidence": "Assoc Prof Fan Zheng, David",
-      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
-      "website_links": [
-        {
-          "label": "Website",
-          "url": "http://www3.ntu.edu.sg/home/zfan/"
-        }
-      ]
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.",
-    "Official lab homepage -> Research -> Publications traversed. All full-list links point to excluded Google Scholar aggregator. Selected on-page citations omit titles; no invented paper records imported.",
-    {
-      "source_page_manifest": [
-        {
-          "source_url": "https://www3.ntu.edu.sg/home/zfan/webpage/research.html",
-          "note": null
-        }
-      ],
-      "visible_txt": "/Users/garden/Documents/formyresearch/data/direct-publications/ntu-12.visible.txt"
-    }
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "A cellular sound-absorbing metasurface with subwavelength thickness",
+      "year": 2019,
+      "citation_raw": "Articles (Journal) Articles (Journal) Alexandru Crivoi, Danylo Lisevych, Zheng Fan. (2019). A cellular sound-absorbing metasurface with subwavelength thickness. Journal of the Acoustical Society of America, 146(4), 2788.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Fan-Zheng-David/selectedpublications"
+    },
+    {
+      "title": "Groove-structured meta-surface for patterned sub-diffraction sound focusing",
+      "year": 2019,
+      "citation_raw": "Jian Chen, Zeqing Sun, Zheng Fan. (2019). Groove-structured meta-surface for patterned sub-diffraction sound focusing. Applied Physics Letters, 114, 254102.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Fan-Zheng-David/selectedpublications"
+    },
+    {
+      "title": "Health monitoring of composite structural features via a time-reversal imaging technique",
+      "year": 2018,
+      "citation_raw": "Xudong Yu, Zheng Fan. (2018). Health monitoring of composite structural features via a time-reversal imaging technique. The 7th Asia-Pacific Workshop on Structural Health Monitoring.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Fan-Zheng-David/selectedpublications"
+    },
+    {
+      "title": "Investigation on Higher-Order Guided Ultrasonic Waves in a Welded Plate",
+      "year": 2018,
+      "citation_raw": "Xudong Yu, Peng Zuo, Zheng Fan. (2018). Investigation on Higher-Order Guided Ultrasonic Waves in a Welded Plate. The 45th Annual Review of Progress in Quantitative Nondestructive Evaluation.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Fan-Zheng-David/selectedpublications"
+    }
+  ]
 }

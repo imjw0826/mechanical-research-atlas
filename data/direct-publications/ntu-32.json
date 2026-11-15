@@ -5,22 +5,44 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp00889?ST_EMAILID=SKLIU",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00889?ST_EMAILID=SKLIU",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Liu-Shukui",
-      "identity_evidence": "Dr Liu Shukui",
-      "affiliation_evidence": "Lecturer, School of Mechanical & Aerospace Engineering",
-      "website_links": []
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Critical Review of the Revised IMO-MEPC76 Guidelines for Assessing the Minimum Propulsion Power of Ships in View of the Reduction of Green House Gas Emissions",
+      "year": 2022,
+      "citation_raw": "Liu S.K., Papanikolaou A. and Shang B.G. (2022). “Critical Review of the Revised IMO-MEPC76 Guidelines for Assessing the Minimum Propulsion Power of Ships in View of the Reduction of Green House Gas Emissions”, Ocean Engineering.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications"
+    },
+    {
+      "title": "On the Effect of Biofouling on the Minimum Propulsion Power of Ships for Safe Navigation in Realistic Conditions",
+      "year": 2021,
+      "citation_raw": "Liu S.K., Papanikolaou A. Bezunartea-Barrio A., Shang B.G. and Sreedharan M. (2021). On the Effect of Biofouling on the Minimum Propulsion Power of Ships for Safe Navigation in Realistic Conditions. Journal of Biofouling.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications"
+    },
+    {
+      "title": "Experimental and Numerical Studies on Linear and Nonlinear Seakeeping Phenomena of the DTC Ship in Regular Waves, Ship Technology Research (SCHIFFSTECHNIK)",
+      "year": 2021,
+      "citation_raw": "Liu S.K., Sprenger F., Papanikolaou A., Dafermos G., and Zaraphonitis G. (2021). Experimental and Numerical Studies on Linear and Nonlinear Seakeeping Phenomena of the DTC Ship in Regular Waves. Ship Technology Research (SCHIFFSTECHNIK), Vol. 68(1).",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications"
+    },
+    {
+      "title": "Rational processing of monitored ship voyage data for improved operation",
+      "year": 2020,
+      "citation_raw": "Liu S.K., Low M.C., Low W.C., Chen H.L., Shang B.G. and Papanikolaou A. (2020). Rational processing of monitored ship voyage data for improved operation. Applied Ocean Research.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications"
+    },
+    {
+      "title": "Regression analysis of experimental data for added resistance in waves of arbitrary heading and development of a semi-empirical formula, Ocean Engineering",
+      "year": 2020,
+      "citation_raw": "Liu S.K. and Papanikolaou A. (2020). Regression analysis of experimental data for added resistance in waves of arbitrary heading and development of a semi-empirical formula. Ocean Engineering.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications"
+    }
+  ]
 }

@@ -3,16 +3,20 @@
   "university_key": "nus",
   "pi": "SING Swee Leong",
   "lab_name": null,
-  "lab_url": null,
+  "lab_url": "https://thesinglab.com/",
   "publication_urls": [
+    "https://thesinglab.com/",
     "https://thesinglab.com/publications"
   ],
-  "accessed_at": "2026-11-11T13:56:57.108Z",
-  "coverage_notes": [
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Official page heading: Welcome to SING Lab",
     "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
     "Publication page visible text captured; structured extraction pending."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
   "status": "partial",
   "papers": []
 }

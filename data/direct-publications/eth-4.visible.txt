@@ -1,0 +1,375 @@
+=== https://mero.ethz.ch/publications.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Medical Robotics Lab
+Main Navigation
+News
+The Group
+People
+Education
+Research
+Publications
+(active)
+Search
+Departments
+ETH Zurich
+D-MAVT
+IRIS
+Medical Robotics Lab
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Publications sorted by year
+2026
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2026
+Advancing minimally invasive precision surgery in large open cavities with robotic flexible endoscopy
+Michelle Mattille, Alexandre Mesot, Miriam Weisskopf, Nicole Ochsenbein-Kölble, Ueli Moehrlen, Bradley Nelson and Quentin Boehler
+Science Robotics, vol. 11: no. 118, pp. eaed1470, AAAS, 2026.
+external page:
+DOI: 10.1126/scirobotics.aed1470
+external page:
+Research Collection
+Abstract 
+
+Flexible robots hold great promise for enhancing minimally invasive surgery (MIS) by providing superior dexterity, precise control, and safe tissue interaction. Yet, translating these advantages into endoscopic interventions in large open cavities remains challenging. The lack of anatomical constraints and the inherent flexibility of such devices complicate their control, and the limited field of view of endoscopes restricts situational awareness. We present a robotic platform designed to overcome these challenges and demonstrate its potential in fetoscopic laser coagulation—a complex MIS procedure typically performed only by highly experienced surgeons. Our system combines a magnetically actuated flexible endoscope with teleoperated and semi-autonomous navigation capabilities for performing targeted laser ablations. To enhance surgical awareness, the platform reconstructs real-time mosaics of the endoscopic scene, providing an extended and continuous visual context. The ability of this system to address the key limitations of MIS in open spaces is validated in vivo in an ovine model.
+
+Investigating workload and usability of remote magnetic navigation for catheter ablation
+Florian Heemeyer, Leonardo E. Guido Lopez, Miguel E. Jáuregui Abularach, Beatriz Sanz Verdejo, Quentin Boehler, Oliver Brinkmann, José L. Merino and Bradley Nelson
+International Journal of Computer Assisted Radiology and Surgery, vol. 21: no. 3, pp. 651-660, Springer, 2026.
+external page:
+DOI: 10.1007/s11548-025-03558-z
+external page:
+Research Collection
+Abstract 
+
+Purpose: Robotic systems for catheter ablation have been in clinical use for many years. While their impact on the clinical outcome and procedure times is well studied, aspects like usability and operator workload have received limited attention in the literature. Reduced workload and stress levels benefit the operator’s mental and physical health, and can also lower the risk of errors and ultimately improve patient safety. The aim of this study is to investigate the workload and usability of remote magnetic navigation compared to conventional manual navigation. Methods: We performed a user study with eight electrophysiologists. Each participant performed identical in-vitro navigation tasks replicating those found in pulmonary vein isolation using both manual and magnetic navigation. Magnetic navigation experiments were performed using the Navion, a mobile electromagnetic navigation system. Results: Magnetic navigation significantly improved usability ( p < 0.02) and workload ( p < 0.01) compared to manual navigation, measured using the System Usability Scale (magnetic: 85.6 ± 9.3 vs. manual: 75.0 ± 17.8) and NASA Task Load Index (magnetic: 72.4 ± 13.5 vs. manual: 45.8 ± 16.7). Additionally, task completion times were shorter ( p < 0.01) with magnetic navigation (284.6 ± 80.7 s) compared to manual navigation (411.0 ± 123.7 s). Conclusion: The findings of this study suggest that remote magnetic navigation using the Navion significantly improves operator experiences in terms of workload and usability, reinforcing the case for wider adoption of well-designed robotic systems in cardiac electrophysiology labs.
+
+A Transnasal Endoscope for Robotically Assisted Gastroscopy
+Alexandre Mesot, Michelle Mattille, Sean Lyttle, Shannon M. Chan, Philip W.Y. Chiu, Quentin Boehler and Bradley Nelson
+Advanced Robotics Research, pp. e70174, Wiley-VCH, 2026.
+external page:
+DOI: 10.1002/adrr.70174
+external page:
+Research Collection
+Abstract 
+
+A robotic transnasal endoscope (TNE) is developed to improve minimally invasive access to the upper gastrointestinal (GI) tract and support early cancer detection. The device is 4.25 mm in diameter and is designed to be compatible with transnasal access while preserving diagnostic and interventional capability achievable with bigger peroral access devices. The distal segment incorporates permanent magnets that enable precise remote manipulation through externally applied magnetic fields. A tendon‐driven variable stiffness mechanism provides high compliance during navigation and controlled stiffening for enhanced pushability, stability, and shape control. The feasibility of using the TNE for upper GI endoscopy is demonstrated through in vitro and in vivo evaluations. The robotic TNE achieves full navigation of the upper GI tract, including retroflexions, pyloric passage, duodenal access, and tissue biopsy. Robust maneuverability is maintained across stiffness states, confirming reliable control during complex motions. This approach has the potential to increase patient acceptance of routine screening and expand access to minimally invasive GI interventions.
+
+A Multidimensional Perspective on Network Conditions in Telesurgery
+Florian Heemeyer, Marco Cina, Ege Cem Kirci, Laurent Vanbever and Quentin Boehler
+Advanced Intelligent Systems, pp. e70546, Wiley, 2026.
+external page:
+DOI: 10.1002/aisy.70546
+external page:
+Research Collection
+Abstract 
+
+Telesurgery enables remote access to surgical care using robotic systems, with performance influenced by the conditions of the network over which the procedure is performed. Existing studies primarily evaluate individual parameters in isolation, such as latency or bandwidth, neglecting that real‐world networks can exhibit multiple impairments simultaneously. In this work, we understand network conditions as a multidimensional space and analyze their combined effects on telesurgical performance. We conducted a pilot user study using in vitro neurovascular navigation tasks performed remotely with an electromagnetic navigation system across varying levels of latency, bandwidth, jitter, and packet loss. We investigated how performance degrades under worsening network conditions and employed response surface methodology to identify significant parameters and interactions. Results show that degraded network conditions lead to reduced perceived feasibility, longer completion times, and higher overshoot. Performance depends on multiple parameters and their interactions, with latency and packet loss as dominant factors. These findings highlight the importance of multidimensional network characterization for understanding telesurgery performance and its practical deployment. This work provides the foundation for deriving system‐specific network requirements and identifying reliable and safe operating regions for telesurgical robotic systems.
+
+2025
+Parametric Design of Continuum Robots Using Interlocking Ball Joints
+Alexandre Mesot, Quentin Boehler, Florian Heemeyer, Sean Lyttle, Buse Aktaş and Bradley Nelson
+Advanced Intelligent Systems, vol. 7: no. 11, pp. 2500180, Wiley-VCH, 2025.
+external page:
+DOI: 10.1002/aisy.202500180
+external page:
+Research Collection
+Abstract 
+
+Continuum robots are promising systems for minimally invasive surgical procedures, enabling safe and dexterous access to deep regions in the human body. Their design and fabrication can be adapted to a wide range of application‐specific requirements. Unfortunately, the current lack of standardized methods for producing these designs impedes the development and adoption of new continuum robots (CRs). Herein, a parametric design methodology is introduced for producing a wide variety of CRsbased on application‐specific requirements. This approach is based on interlocking ball joint subunits that enable the generation of modular systems. The methodology is demonstrated by designing a magnetically actuated continuum robot for cardiac ablations. The design is generated using an open‐source parametric computer‐aided design toolbox, and prototypes are experimentally validated in vitro and ex vivo, demonstrating the ability of the toolbox to produce functional systems with minimal effort and input from the user.
+
+Design and Optimization of Remagnetization Actuators
+Claas Ehmke, Quentin Boehler, Salvador Pané and Bradley J. Nelson
+IEEE Transactions on Magnetics, vol. 61: no. 8, pp. 8000610, IEEE, 2025.
+external page:
+DOI: 10.1109/tmag.2025.3585420
+external page:
+Research Collection
+Abstract 
+
+Magnetization programming is a promising approach in the field of robotic magnetic navigation in which magnetized devices are manipulated using externally generated magnetic fields. This work explores the design and optimization of remagnetization actuators to dynamically reprogram the magnetization of the devices to be manipulated. The influence of the material and geometry of the magnet to be programmed and of the remagnetization circuit parameters on the performance of the programming are investigated. Performance assessment focuses on maximizing the achievable torque on the magnet and optimizing the dynamics and efficiency of the remagnetization. The key findings of this study are that AlNiCo 9 magnets can deliver superior torque compared to AlNiCo 5, and that using hollow instead of solid cylindrical magnets can improve the remagnetization process with only a limited reduction in its maximum achievable torque. These findings provide an important foundation for advancing the performance and reliability of remagnetization actuators in magnetic control systems.
+
+Orthogonal Pulse-Width-Modulation for Combined Electromagnetic Actuation and Localization
+Denis von Arx, Bradley J. Nelson and Quentin Boehler
+IEEE Robotics and Automation Letters, vol. 10: no. 6, pp. 6424-6431, IEEE, 2025.
+external page:
+DOI: 10.1109/lra.2025.3568324
+external page:
+Research Collection
+Abstract 
+
+Electromagnetic Navigation Systems can be used to remotely guide medical devices such as magnetic catheters or guidewires, holding potential in a variety of minimally invasive surgical applications. This paper introduces a method to simultaneously actuate and localize a tethered magnetic device with embedded sensor pickup coils using a single system. Six-degree-of-freedom localization is achieved by driving the electromagnets of the Electromagnetic Navigation System with mutually orthogonal pulse-width-modulated voltages of different frequencies. The method is demonstrated using a human-scale system composed of three electromagnets to actuate and localize a magnetic catheter prototype with pickup coils embedded at its tip. In this case, the pose is estimated at a rate of 77 Hz, with a typical mean accuracy below 2 mm in position and 2 degrees in orientation.
+
+Telesurgery and the importance of context
+Florian Heemeyer, Quentin Boehler, Min-Soo Kim, Bernard R. Bendok, Evelyn L. Turcotte, H. Hunt Batjer, Ryan D. Madder, Vitor M. Pereira and Bradley Nelson
+Science Robotics, vol. 10: no. 99, pp. eadq0192, AAAS, 2025.
+external page:
+DOI: 10.1126/scirobotics.adq0192
+external page:
+Research Collection
+Abstract 
+
+Telesurgery has the potential to overcome geographical barriers in surgical care, encouraging its deployment in areas with sparse surgical expertise. Despite successful in-human experiments and substantial technological progress, the adoption of telesurgery remains slow. In this Review, we analyze the reasons for this slow adoption. First, we identify various contexts for telesurgery and highlight the vastly different requirements for their realization. We then discuss why procedures with high urgency and skill sparsity are particularly suitable for telesurgery. Last, we summarize key research areas essential for further progress. The goal of this Review is to provide the reader with a comprehensive analysis of the current state of telesurgery research and to provide guidance for faster adoption of this exciting technology.
+
+A Physics-Informed Neural Network for the Calibration of Electromagnetic Navigation Systems
+Pascal Ernst, Simone Gervasoni, Derick Sivakumaran, Enea Masina, David Sargent, Bradley Nelson and Quentin Boehler
+38th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China, pp.5743-5749, Piscataway, NJ: IEEE, October 19-25, 2025.
+external page:
+DOI: 10.1109/iros60139.2025.11246707
+external page:
+Research Collection
+Abstract 
+
+Electromagnetic Navigation Systems enable remote actuation of untethered micro and nanorobots, as well as the precise control of magnetic surgical tools for minimally invasive medical procedures. Accurate modeling of the magnetic fields generated by the electromagnets composing these systems is essential for achieving reliable and precise navigation. Existing modeling approaches either neglect nonlinear effects such as electromagnet saturation or fail to ensure that the field predictions are physically consistent. These limitations can lead to significant prediction errors, particularly in the estimation of field gradients, which directly impacts force calculations. As a result, inaccurate gradient predictions degrade force control performance, limiting the precision of magnetic actuation. In this work, we investigate physics-informed and data-driven modeling techniques to improve the accuracy of magnetic field and gradient predictions. Additionally, we introduce an approach for solving the inverse problem, developing models capable of predicting the required electromagnet currents to generate a desired magnetic field and gradient based on this approach. By incorporating physical constraints into the models, we enhance the predictive accuracy and physical consistency of the field estimates. In the experimental section, we demonstrate the benefits of these methods to enable improved force control in open-loop for untethered robots using a small-scale Electromagnetic Navigation System.
+
+2024
+Fast Rotating Magnetic Fields in Open Workspace Using Resonant Magnetic Actuation Systems With Magnetic Decoupling
+Denis von Arx, Harun Torlakcik, Min-Soo Kim, Salvador Pané, Bradley Nelson and Quentin Boehler
+IEEE Robotics and Automation Letters, vol. 9: no. 6, pp. 5276-5283, IEEE, 2024.
+external page:
+DOI: 10.1109/lra.2024.3391696
+external page:
+Research Collection
+Abstract 
+
+Resonant electromagnetic navigation systems generate controllable oscillating and rotating magnetic fields using resonant electronic networks. This modality holds great potential to control untethered magnetic robots remotely for medical applications using fast rotating magnetic fields. However, the performance of these systems is limited at increasing frequencies due to the effect of mutual inductance between their electromagnets. Various effects can also hinder the accuracy of the field generation at increased frequencies. This work addresses these issues through two main contributions: (1) the use of a magnetic decoupling network to significantly reduce the mutual impedances between the channels of the system, and (2) the use of a real time estimation and control method for the amplitudes and phases of the currents for error-free current tracking. These are demonstrated on a system composed of three electromagnets to generate rotating magnetic fields of up to 424 Hz in frequency in an arbitrary direction in an open workspace. An increase in field strength of up to 225% is demonstrated. The proposed method is used to control a magnetic robotic drill, where a significant improvement in drilling performance is achieved.
+
+Autonomous Magnetic Navigation in Endoscopic Image Mosaics
+Michelle Mattille, Quentin Boehler, Jonas Lussi, Nicole Ochsenbein, Ueli Moehrlen and Bradley Nelson
+Advanced Science, vol. 11: no. 19, pp. 2400980, Wiley-VCH, 2024.
+external page:
+DOI: 10.1002/advs.202400980
+external page:
+Research Collection
+Abstract 
+
+Endoscopes navigate within the human body to observe anatomical structures with minimal invasiveness. A major shortcoming of their use is their narrow field-of-view during navigation in large, hollow anatomical regions. Mosaics of endoscopic images can provide surgeons with a map of the tool's environment. This would facilitate procedures, improve their efficiency, and potentially generate better patient outcomes. The emergence of magnetically steered endoscopes opens the way to safer procedures and creates an opportunity to provide robotic assistance both in the generation of the mosaic map and in navigation within this map. This paper proposes methods to autonomously navigate magnetic endoscopes to 1) generate endoscopic image mosaics and 2) use these mosaics as user interfaces to navigate throughout the explored area. These are the first strategies, which allow autonomous magnetic navigation in large, hollow organs during minimally invasive surgeries. The feasibility of these methods is demonstrated experimentally both in vitro and ex vivo in the context of the treatment of twin-to-twin transfusion syndrome. This minimally invasive procedure is performed in utero and necessitates coagulating shared vessels of twin fetuses on the placenta. A mosaic of the vasculature in combination with autonomous navigation has the potential to significantly facilitate this challenging surgery.
+
+Dexterous helical magnetic robot for improved endovascular access
+Roland Dreyfus, Quentin Boehler, Sean Lyttle, P. Gruber, Jonas Lussi, Christophe Chautems, Simone Gervasoni, Jatta Berberat, Dominic Seibold, Nicole Ochsenbein-Kölble, Michael Reinehr, Miriam Weisskopf, Luca Remonda and Bradley Nelson
+Science Robotics, vol. 9: no. 87, pp. eadh0298, AAAS, 2024.
+external page:
+DOI: 10.1126/scirobotics.adh0298
+external page:
+Research Collection
+Abstract 
+
+Treating vascular diseases in the brain requires access to the affected region inside the body. This is usually accomplished through a minimally invasive technique that involves the use of long, thin devices, such as wires and tubes, that are manually maneuvered by a clinician within the bloodstream. By pushing, pulling, and twisting, these devices are navigated through the tortuous pathways of the blood vessels. The outcome of the procedure heavily relies on the clinician’s skill and the device’s ability to navigate to the affected target region in the bloodstream, which is often inhibited by tortuous blood vessels. Sharp turns require high flexibility, but this flexibility inhibits translation of proximal insertion to distal tip advancement. We present a highly dexterous, magnetically steered continuum robot that overcomes pushability limitations through rotation. A helical protrusion on the device’s surface engages with the vessel wall and translates rotation to forward motion at every point of contact. An articulating magnetic tip allows for active steerability, enabling navigation from the aortic arch to millimeter-sized arteries of the brain. The effectiveness of the magnetic continuum robot has been demonstrated through successful navigation in models of the human vasculature and in blood vessels of a live pig.
+
+Simultaneous Localization and Actuation Using Electromagnetic Navigation Systems
+Denis von Arx, Cedric Fischer, Harun Torlakcik, Salvador Pané, Bradley Nelson and Quentin Boehler
+IEEE Transactions on Robotics, vol. 40, pp. 1292-1308, IEEE, 2024.
+external page:
+DOI: 10.1109/tro.2023.3340324
+external page:
+Research Collection
+Abstract 
+
+Remote magnetic navigation provides a promising approach for improving the maneuverability and safety of surgical tools, such as catheters and endoscopes, in complex anatomies. The lack of existing localization systems compatible with this modality, beyond fluoroscopy and its harmful ionizing radiation, impedes its translation to clinical practice. To address this challenge, we propose a localization method that achieves full pose estimation by superimposing oscillating magnetic fields for localization onto actuation fields generated by an electromagnetic navigation system. The resulting magnetic field is measured using a three-axis magnetic field sensor embedded in the magnetic device to be localized. The method is evaluated on a three-coil system, and simultaneous actuation and localization is demonstrated with a magnetic catheter prototype with a Hall-effect sensor embedded at its tip. We demonstrate position estimation with mean accuracy and precision below 1 mm, and orientation estimation with mean errors below 2 deg at 10 Hz in a workspace of 80 x 80 x 60 mm. This contribution aims to advance the clinical adoption of remote magnetic navigation in minimally invasive surgery.
+
+2023
+Gradiometer-based magnetic localization for medical tools
+Cedric Fischer, Thomas Quirin, Christophe Chautems, Quentin Boehler, Joris Pascal and Bradley Nelson
+IEEE Transactions on Magnetics, vol. 59: no. 2, pp. 5400105, IEEE, 2023.
+external page:
+DOI: 10.1109/TMAG.2022.3206590
+external page:
+Research Collection
+Abstract 
+
+Remote magnetic navigation offers various possibilities for medical interventions. Magnetic catheters can be wirelessly steered with high precision and accuracy through complex structures, as they are generally more dexterous and flexible than their manually steered counterparts. Position feedback is essential for many tasks. However, most commercially available systems do not integrate well with the magnetic navigation systems. As a result, fluoroscopy is still widely used in many interventions despite the known associated health risks. In this study, we propose a localization method that uses multiple Hall sensors to measure the magnetic fields produced by the magnetic navigation system and estimate the full sensor pose without the need for a separate dedicated mapping system. This makes the magnetic navigation system a 2-in-1 system that can be used for simultaneous navigation and localization of a medical tool. We perform an optimization of the sensors’ array design in simulation and investigate the influence of the magnetic fields and gradients on the localization accuracy to provide information on the minimal requirements for a magnetic navigation system for this task.
+
+On the Workspace of Electromagnetic Navigation Systems
+Quentin Boehler, Simone Gervasoni, Samuel Charreyron, Christophe Chautems and Bradley Nelson
+IEEE Transactions on Robotics, vol. 39: no. 1, pp. 791-807, IEEE, 2023.
+external page:
+DOI: 10.1109/tro.2022.3197107
+external page:
+Research Collection
+Abstract 
+
+In remote magnetic navigation, a magnetic navigation system is used to generate magnetic fields to apply mechanical wrenches to steer a magnetic object. This technique can be applied to navigate untethered micro- and nanorobots, as well as tethered magnetic surgical tools for minimally invasive medicine. The design and characterization of these systems have been extensively investigated over the past decade. The determination of the region in space in which these systems can operate has yet to be formalized within the research community. This region is commonly referred to as the “workspace” and constitutes a central concept for any class of robotic system. We focus on magnetic navigation systems comprised of electromagnets and propose a first set of definitions for a magnetic workspace, a methodology to determine it, and evaluation metrics to analyze its characteristics. Our methodology and tools are illustrated with several examples of planar and spatial electromagnetic magnetic navigation systems for both didactic and realistic navigation scenarios.
+
+2022
+A Simulation Framework for Magnetic Continuum Robots
+Roland Dreyfus, Quentin Boehler and Bradley Nelson
+IEEE Robotics and Automation Letters, vol. 7: no. 3, pp. 8370-8376, IEEE, 2022.
+external page:
+DOI: 10.1109/LRA.2022.3187249
+external page:
+Research Collection
+Abstract 
+
+Remote magnetic navigation is a technology used to robotically steer magnetic medical instruments, such as magnetic catheters and guidewires, for minimally invasive surgery. The ability to model and simulate the behavior of these magnetic instruments in complex anatomies is important for their clinical use in many ways. Simulation frameworks can improve their design, characterization, and automatic control capabilities, as well as provide training simulators for physicians. In this work we introduce a new simulation framework that accounts for both magnetic actuation and interactions forces with meshed collision models. The simulations are validated experimentally in planar rigid models using a pre-clinical electromagnetic navigation system. We also demonstrate the use of our framework to build training simulators for two endovascular navigation tasks including the exploration of the aortic arch and the internal carotid artery.
+
+Using Magnetic Fields to Navigate and Simultaneously Localize Catheters in Endoluminal Environments
+Cedric Fischer, Quentin Boehler and Bradley Nelson
+IEEE Robotics and Automation Letters, vol. 7: no. 3, pp. 7217-7223, IEEE, 2022.
+external page:
+DOI: 10.1109/lra.2022.3181420
+external page:
+Research Collection
+Abstract 
+
+Remote magnetic navigation offers an ideal platform for automated catheter navigation. Magnetically guided catheters show great dexterity and can reach locations that are otherwise challenging to access. By automating aspects of catheterization procedures, we can simplify and expedite the procedure to allow surgeons to focus on other critical tasks during the surgery. In this article, we describe an automation strategy that is based on the center line of extracted and registered vascular geometries. Position feedback is accomplished with a Hall-effect sensor embedded near the distal end of the catheter. Sensor measurements are compared to the magnetic field predicted by a linear model of the electromagnetic navigation system. By defining specific magnetic field gradients and applying the known vascular geometry, the magnetic fields can be utilized for the simultaneous navigation and localization of the catheter. This eliminates the need for other external, dedicated mapping systems, and the use of fluoroscopy imaging is minimized. The concept is tested in 2d vascular models and the accuracy of the localization is assessed with overhead camera tracking.
+
+Magnetic concentric tube robots: introduction and analysis
+Quentin Peyron, Quentin Boehler, Patrick Rougeot, Pierre Roux, Bradley Nelson, Nicolas Andreff, Kanty Rabenorosoa and Pierre Renaud
+The International Journal of Robotics Research, vol. 41: no. 4, pp. 418-440, SAGE, 2022.
+external page:
+DOI: 10.1177/02783649211071113
+external page:
+Research Collection
+Abstract 
+
+In this paper, we propose a new type of continuum robot, referred to as a magnetic concentric tube robot (M-CTR), for performing minimally invasive surgery in narrow and difficult-to-access areas. The robot combines concentric tubes and magnetic actuation to benefit from the ‘follow the leader’ behaviour, the dexterity and stability of existing robots, while targeting millimetre-sized external diameters. These three kinematic properties are assessed through numerical and experimental studies performed on a prototype of a M-CTR. They are performed with general forward and inverse kineto-static models of the robot, continuation and bifurcation analysis, and a specific experimental setup. The prototype presents unique capabilities in terms of deployment and active stability management, while its dexterity in terms of tip orientability is also among the best reported for other robots at its scale.
+
+2021
+Modeling Electromagnetic Navigation Systems
+Samuel Charreyron, Quentin Boehler, Byungsoo Kim, Cameron Weibel, Christophe Chautems and Bradley Nelson
+IEEE Transactions on Robotics, vol. 37: no. 4, pp. 1009-1021, IEEE, 2021.
+external page:
+DOI: 10.1109/tro.2020.3047053
+external page:
+Research Collection
+Abstract 
+
+Remote magnetic navigation is used for the manipulation of untethered micro and nanorobots, as well as tethered magnetic surgical tools for minimally invasive medicine. Mathematical modeling of the magnetic fields generated by magnetic navigation systems is a fundamental task in the control of such tools for biomedical applications. In this article, we describe and compare several existing and newly developed methods for representations of continuous magnetic fields using interpolation in the context of remote magnetic navigation. Clinical-scale electromagnetic navigation systems feature nonlinear magnetization and magnetization interactions between electromagnets, which renders accurate magnetic field modeling challenging. We first introduce a method that can adapt existing linear models to correct for nonlinear magnetization, with similar performance to the current state-of-the-art nonlinear model. Furthermore, we present a method based on convolutional neural networks.
+
+2020
+Automated tracheal intubation in an airway manikin using a robotic endoscope: a proof of concept study
+Peter Biro, Phyllis Hofmann, Dave Gage, Quentin Boehler, Christophe Chautems, Julia Braun, Donat R. Spahn and Bradley Nelson
+Anaesthesia, vol. 75: no. 7, pp. 881-886, Wiley-Blackwell, 2020.
+external page:
+DOI: 10.1111/anae.14945
+external page:
+Research Collection
+Abstract 
+
+Robotic endoscope‐automated via laryngeal imaging for tracheal intubation (REALITI) has been developed to enable automated tracheal intubation. This proof‐of‐concept study using a convenience sample of participants, comprised of trained anaesthetists and lay participants with no medical training, assessed the performance of a robotic device for the insertion of a tracheal tube into a manikin. A prototype robotic endoscope device was inserted into the trachea of an airway manikin by seven anaesthetists and seven participants with no medical training. Each individual performed six device insertions into the trachea in manual mode and six in automated mode. The anaesthetists succeeded with 40/42 (95%) manual insertions (median (IQR [range]) 17 (12–26 [4–132]) s) and 40/42 (95%) automated insertions (15 (13–18 [7–25]) s). The non‐trained participants succeeded in 41/42 (98%) manual insertions (median (IQR [range]) 18 (13–21 [8–133]) s) and 42/42 (100%) automated insertions (16 (13–23 [10–58])] s). The duration of insertion did not differ between groups. An effect of increasing experience was observed in both groups in manual mode. A Likert scale for ‘ease of use’ (0 = very difficult to 10 = very easy) showed similar results within the two groups; the mean (SD) was 5.9 (2.1) for the anaesthetists and 6.9 (1.3) for the non‐trained participants. We have successfully performed the first automated tracheal device insertion in a manikin with comparable results in a convenience sample of anaesthetists and lay participants with no medical training.
+
+REALITI: A Robotic Endoscope Automated via Laryngeal Imaging for Tracheal Intubation
+Quentin Boehler, David S. Gage, Phyllis Hofmann, Alexandra Gehring, Christophe Chautems, Donat R. Spahn, Peter Biro and Bradley J. Nelson
+IEEE Transactions on Medical Robotics and Bionics, vol. 2: no. 2, pp. 157-164, IEEE, 2020.
+external page:
+DOI: 10.1109/tmrb.2020.2969291
+external page:
+Research Collection
+Abstract 
+
+Tracheal intubation is considered the gold standard to secure the airway of patients in need of respiratory assistance, yet this procedure relies on the dexterity and experience of the physician to correctly place a tracheal tube into the patient’s trachea. Such a complex procedure may greatly benefit from robotic assistance in order to make the intubation safer and more efficient. We developed the first device to provide such assistance, the REALITI, which stands for Robotic Endoscope Automated via Laryngeal Imaging for Tracheal Intubation. This device allies the automated detection of key anatomical features in an endoscopic image to the robotic steering toward the recognized features in the task of guiding the tracheal tube into its correct position. The pre-clinical prototype presented in this paper has been developed to perform in vitro tracheal inbutation on a standard airway management training manikin. We performed a robust detection of anatomical features to steer the endoscope in a visual servoing fashion. Our prototype has been successfully used to perform automated and manual insertions into the trachea of an airway manikin.
+
+Magnetically Active Cardiac Patches as an Untethered, Non‐Blood Contacting Ventricular Assist Device
+Hongri Gu, Thibaud Bertrand, Quentin Boehler, Christophe Chautems, Nikolay V. Vasilyev and Bradley Nelson
+Advanced Science, vol. 8: no. 1, pp. 2000726, Wiley-VCH, 2020.
+external page:
+DOI: 10.1002/advs.202000726
+external page:
+Research Collection
+Abstract 
+
+Patients suffering from heart failure often require circulatory support using ventricular assist devices (VADs). However, most existing VADs provide nonpulsatile flow, involve direct contact between the blood flow and the device's lumen and moving components, and require a driveline to connect to an external power source. These design features often lead to complications such as gastrointestinal bleeding, device thrombosis, and driveline infections. Here, a concept of magnetically active cardiac patches (MACPs) that can potentially function as non‐blood contacting, untethered pulsatile VADs inside a magnetic actuation system is reported. The MACPs, which are composed of permanent magnets and 3D‐printed patches, are attached to the epicardial surfaces, thus avoiding direct contact with the blood flow. They provide powerful actuation assisting native heart pumping inside a magnetic actuation system. In ex vivo experiments on a healthy pig's heart, it is shown that the ventricular ejection fractions are as high as 37% in the left ventricle and 63% in the right ventricle. Non‐blood contacting, untethered VADs can eliminate the risk of serious complications associated with existing devices, and provide an alternative solution for myocardial training and therapy for patients with heart failure.
+
+2019
+Development of a Robotic Endoscope Automated via Laryngeal Imaging for Tracheal Intubation (REALITI)
+Quentin Boehler, Phyllis Hofmann, D. Gage, A. Gehring, Christophe Chautems, Peter Biro and Bradley Nelson
+12th Hamlyn Symposium on Medical Robotics (2019), London, United Kingdom, pp.99-100, London: The Hamlyn Centre, Imperial College London, June 23-26, 2019.
+external page:
+Research Collection
+2018
+Kinematic Analysis of Magnetic Continuum Robots Using Continuation Method and Bifurcation Analysis
+Quentin Peyron, Quentin Boehler, Kanty Rabenorosoa, Bradley Nelson, Pierre Renaud and Nicolas Andreff
+IEEE Robotics and Automation Letters, vol. 3: no. 4, pp. 3646-3653, IEEE, 2018.
+external page:
+DOI: 10.1109/lra.2018.2855803
+external page:
+Research Collection
+Abstract 
+
+Magnetic continuum robots (m-CR) have grown interest in several applicative contexts that take benefits from their high flexibility and remote control. When submitted to external magnetic fields, m-CR exhibit large elastic deformations, which may lead to a highly nonlinear and complex behavior that is yet difficult to analyze. This letter aims to provide a tool to improve the understanding of m-CR kinematics. To do so, a numerical approach composed of continuation methods and bifurcation analysis is proposed. The numerical tool is first described. Qualitative and quantitative results are further introduced by computing multiple equilibrium branches and bifurcations of m-CR configurations within homogeneous and inhomogeneous magnetic fields. Our simulations are ultimately compared to experimental data using a magnetic navigation system.
+
+Synthesis method for the design of variable stiffness components using prestressed singular elastic systems
+Quentin Boehler, Marc Vedrines, Salih Abdelaziz, Philippe Poignet and Pierre Renaud
+Mechanism and Machine Theory, vol. 121, pp. 598-612, Elsevier, 2018.
+external page:
+DOI: 10.1016/j.mechmachtheory.2017.11.013
+external page:
+Research Collection
+Abstract 
+
+The design of variable stiffness components is of interest in several applicative contexts. One way to provide large stiffness variation is to use antagonistic stiffness in prestressed elastic systems composed of linear springs. Interestingly, such systems can be designed so that the stiffness in specific directions is only controlled by the prestress within the springs. In the absence of an adequate synthesis method, their exploitation for this purpose however relies today solely on the designer ability to find an arrangement of the springs that meet his requirements in terms of antagonistic stiffness variation. In this paper, a method is introduced for the synthesis of variable stiffness components using prestressed elastic systems. This method takes into account the antagonistic stiffness coming from the prestress and thus provides an efficient way to meet user-defined requirements. Several synthesis problems for usual variable stiffness components are assessed. It shows the effectiveness of the method to provide new arrangements suitable for implementations. The ability of the method to identify alternate arrangements for a given problem is also shown to ease the design, notably by introducing an exploration strategy using a predictor-corrector method.
+
+As soon as publications are added in ETH Research Collection, this publications list will populate automatically.
+
+Related content
+News
+The Group
+People
+Education
+Research
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Contact
+Login
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich

@@ -6,13 +6,45 @@
 
 ## Nanyang Technological University — Alessandro Romagnoli
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 8건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications>
+
+1. L. Yang**, U. Villalobos, B. Akhmetov, A. Gil, J.O. Khor, A, Palacios, Y. Li, Y. Ding, L.F. Cabeza, W.L. Tan, A. Romagnoli, “A comprehensive review on sub-zero temperature cold thermal energy storage materials, technologies, and applications: State of the art and recent developments”, APPLIED ENERGY, 116555, 2021
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications>
+
+1. A. Tafone, E. Borri, L.F.. Cabeza, A. Romagnoli, Innovative cryogenic Phase Change Material (PCM) based cold thermal energy storage for Liquid Air Energy Storage (LAES) – Numerical dynamic modelling and experimental study of a packed bed unit, APPLIED ENERGY, 301., 117417, 2021
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications>
+
+1. Nastasi, B., Mazzoni, S., Groppi, D., Garcia, D.A., Optimized integration of Hydrogen technologies in Island energy systems, RENEWABLE ENERGY, 174, 850-864, 2021
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications>
+
+1. R.P. Singh**, J.Y. Sze, S.C. Kaushik, D. Rakshit, A. Romagnoli, “Thermal performance enhancement of eutectic PCM laden with functionalised graphene nanoplatelets for an efficient solar absorption cooling storage system”, JOURNAL OF ENERGY STORAGE, 33, 102092, 2021
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications>
+
+1. A. Tafone*, E. Borri, G. Comodi, A. Romagnoli, “New parametric performance maps for a novel sizing and selection methodology of a Liquid Air Energy Storage System”, APPLIED ENERGY, Vol. 250, pp. 1641-1656, 2019
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications>
+
+1. Mazzoni S., Ooi S., Nastasi B., Romagnoli, A. (2019). Energy storage technologies as techno-economic parameters for master-planning and optimal dispatch in smart multi energy systems. Applied Energy , 254, 113682.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications>
+
+1. M. Jimenez-Arreola*, R. Pili, F. al Magro, S. Rajoo, A. Romagnoli, “Thermal power fluctuations in waste heat to power systems: an overview on the challenges and current solutions”, APPLIED THERMAL ENGINEERING, Vol.134, pp. 576-584, 2018
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications>
+
+1. H.X. Xu*, A. Romagnoli, J.Y. Sze, X. Py, “Application of material assessment methodology in latent heat thermal energy storage for waste heat recovery”, APPLIED ENERGY, Vol.187, pp. 281-290, 2017
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli/selectedpublications>
 
 ## Nanyang Technological University — Du Hejun
 
@@ -24,31 +56,101 @@
 
 ## Nanyang Technological University — Erkan Kayacan
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 8건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:50:43.858Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위:  / Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications>
+
+1. E. Kayacan, H. Ramon and W. Saeys, "Robust Trajectory Tracking Error Model-Based Predictive Control for Unmanned Ground Vehicles," in IEEE/ASME Transactions on Mechatronics, vol. 21, no. 2, pp. 806-814, April 2016, doi: 10.1109/TMECH.2015.2492984.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications>
+
+1. E. Kayacan, E. Kayacan, H. Ramon and W. Saeys, "Learning in Centralized Nonlinear Model Predictive Control: Application to an Autonomous Tractor-Trailer System," in IEEE Transactions on Control Systems Technology, vol. 23, no. 1, pp. 197-205, Jan. 2015, doi: 10.1109/TCST.2014.2321514.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications>
+
+1. Control for String Stability of Cooperative Adaptive Cruise Control Systems," in IEEE Transactions on Intelligent Vehicles, vol. 2, no. 1, pp. 52-61, March 2017, doi: 10.1109/TIV.2017.2708607.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications>
+
+1. E. Kayacan, W. Saeys, H. Ramon, C. Belta and J. M. Peschel, "Experimental Validation of Linear and Nonlinear MPC on an Articulated Unmanned Ground Vehicle," in IEEE/ASME Transactions on Mechatronics, vol. 23, no. 5, pp. 2023-2030, Oct. 2018, doi: 10.1109/TMECH.2018.2854877.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications>
+
+1. Zhang, Z., Kayacan, E., Thompson, B. et al. High precision control and deep learning-based corn stand counting algorithms for agricultural robot. Auton Robot 44, 1289–1302 (2020). https://doi.org/10.1007/s10514-020-09915-y
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications>
+
+1. Kayacan, E., Chowdhary, G. Tracking Error Learning Control for Precise Mobile Robot Path Tracking in Outdoor Environment. J Intell Robot Syst 95, 975–986 (2019). https://doi.org/10.1007/s10846-018-0916-3
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications>
+
+1. E. Kayacan, "Closed-Loop Error Learning Control for Uncertain Nonlinear Systems With Experimental Validation on a Mobile Robot," in IEEE/ASME Transactions on Mechatronics, vol. 24, no. 5, pp. 2397-2405, Oct. 2019, doi: 10.1109/TMECH.2019.2932757.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications>
+
+1. Kayacan E, Young SN, Peschel JM, Chowdhary G. High-precision control of tracked field robots in the presence of unknown traction coefficients. J Field Robotics. 2018; 35: 1050–1062. https://doi.org/10.1002/rob.21794
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Erkan-Kayacan/selectedpublications>
 
 ## Nanyang Technological University — Fan Zheng, David
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 4건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Fan-Zheng-David/selectedpublications>
+
+1. Articles (Journal) Articles (Journal) Alexandru Crivoi, Danylo Lisevych, Zheng Fan. (2019). A cellular sound-absorbing metasurface with subwavelength thickness. Journal of the Acoustical Society of America, 146(4), 2788.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Fan-Zheng-David/selectedpublications>
+
+1. Jian Chen, Zeqing Sun, Zheng Fan. (2019). Groove-structured meta-surface for patterned sub-diffraction sound focusing. Applied Physics Letters, 114, 254102.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Fan-Zheng-David/selectedpublications>
+
+1. Xudong Yu, Zheng Fan. (2018). Health monitoring of composite structural features via a time-reversal imaging technique. The 7th Asia-Pacific Workshop on Structural Health Monitoring.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Fan-Zheng-David/selectedpublications>
+
+1. Xudong Yu, Peng Zuo, Zheng Fan. (2018). Investigation on Higher-Order Guided Ultrasonic Waves in a Welded Plate. The 45th Annual Review of Progress in Quantitative Nondestructive Evaluation.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Fan-Zheng-David/selectedpublications>
 
 ## Nanyang Technological University — Fei Duan
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 5건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Fei-Duan/selectedpublications>
+
+1. Articles (Journal) Articles (Journal) Chenzhen Ji, Zhen Qin, Zhenghua Low, Swapnil Dubey, Fook Hoong Choo, Fei Duan*. (2018). Experimental investigation on the effect of fin length allocation for the PCM melting enhancement. 16th International Heat Transfer Conference.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Fei-Duan/selectedpublications>
+
+1. Chenzhen JI, Zhen Qin, Swapnil Dubey, Fook Hoong Choo, Fei Duan*. (2018). Simulation on PCM melting enhancement with fin length allocations in a rectangular enclosure induced by natural convection. International Journal of Heat and Mass Transfer, .
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Fei-Duan/selectedpublications>
+
+1. C. Ji, Z. Qin, Z. Low, S. Dubey, F.H. Choo, F. Duan. (2018). Non-uniform heat transfer suppression to enhance PCM melting by angled fins. Applied Thermal Engineering, 129, 269-279.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Fei-Duan/selectedpublications>
+
+1. Z. Qin, C. Ji, Z. Low, S. Dubey, F.H. Choo, H. Deng, F. Duan. (2017). Effect of fin location on the latent heat storage: a numerical study. Energy Procedia, 143, 320-326.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Fei-Duan/selectedpublications>
+
+1. C. Ji, Z. Qin, S. Dubey, F.H. Choo, F. Duan. (2017). Three-dimensional Transient Numerical Study on Latent Heat Thermal Storage for Waste Heat Recovery from a Low Temperature Gas Flow. Applied Energy, 205, 1-12.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Fei-Duan/selectedpublications>
 
 ## Nanyang Technological University — Hirotaka Sato
 
@@ -356,21 +458,29 @@ Hirotaka Sato Group · 논문·원고 73건 · 기타 성과 0건 · 상태: com
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp01016>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Hong Li
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00952>
+
+출처: <https://dr.ntu.edu.sg/entities/person/Hong-Li/selectedpublications>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
+
+출처: <https://dr.ntu.edu.sg/>
 
 ## Nanyang Technological University — Hortense Le Ferrand
 
@@ -1709,119 +1819,439 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00167>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — James Wang Ming
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00734?ST_EMAILID=james.wang>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Khor Khiam Aik
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 20건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Patcharavorachot, Y., Arpornwichanop, A., & Chuachuensuk, A. (2008). Electrochemical study of a planar solid oxide fuel cell: Role of support structures. Journal of Power Sources, 177(2), 254-261.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Zhang, Y., Wang, H., Luo, Z., Tan, H. T., Li, B., Sun, S., ... & Yan, Q. (2016). An air‐stable densely packed phosphorene–graphene composite toward advanced lithium storage properties. Advanced Energy Materials, 6(12), 1600453.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Bakar, M. A., Cheng, M. H. W., Tang, S. M., Yu, S. C., Liao, K., Tan, C. T., ... & Cheang, P. (2003). Tensile properties, tension–tension fatigue and biological response of polyetheretherketone–hydroxyapatite composites for load-bearing orthopedic implants. Biomaterials, 24(13), 2245-2250.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Leng, Y. J., Chan, S. H., Khor, K. A., & Jiang, S. P. (2004). Performance evaluation of anode-supported solid oxide fuel cells with thin film YSZ electrolyte. International Journal of Hydrogen Energy, 29(10), 1025-1033.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Leng, Y. J., Chan, S. H., Jiang, S. P., & Khor, K. A. (2004). Low-temperature SOFC with thin film GDC electrolyte prepared in situ by solid-state reaction. Solid State Ionics, 170(1-2), 9-15.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Gu, Y. W., Khor, K. A., & Cheang, P. (2003). In vitro studies of plasma-sprayed hydroxyapatite/Ti-6Al-4V composite coatings in simulated body fluid (SBF). Biomaterials, 24(9), 1603-1611.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Cheang, P., & Khor, K. A. (1996). Addressing processing problems associated with plasma spraying of hydroxyapatite coatings. Biomaterials, 17(5), 537-544.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Kumar, R., Prakash, K. H., Cheang, P., & Khor, K. A. (2004). Temperature driven morphological changes of chemically precipitated hydroxyapatite nanoparticles. Langmuir, 20(13), 5196-5200.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Khor K.A., & Gu Y.W. (2000). Effects of residual stress on the performance of plasma sprayed functionally graded ZrO2/NiCoCrAlY coatings. Materials Science and Engineering: A, 277(1-2), 64-76.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Liu, Q. L., Khor, K. A., & Chan, S. H. (2006). High-performance low-temperature solid oxide fuel cell with novel BSCF cathode. Journal of Power Sources, 161(1), 123-128.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Li, Z., Khun, N. W., Tang, X. Z., Liu, E., & Khor, K. A. (2017). Mechanical, tribological and biological properties of novel 45S5 Bioglass® composites reinforced with in situ reduced graphene oxide. journal of the mechanical behavior of biomedical materials, 65, 77-89.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Luo, Z. Z., Zhang, Y., Zhang, C., Tan, H. T., Li, Z., Abutaha, A., ... & Yan, Q. (2017). Multifunctional 0D–2D Ni2P nanocrystals–black phosphorus heterostructure. Advanced Energy Materials, 7(2), 1601285.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Vardelle, A., Moreau, C., Akedo, J., Ashrafizadeh, H., Berndt, C. C., Berghaus, J. O., ... & Vuoristo, P. (2016). The 2016 thermal spray roadmap. Journal of thermal spray technology, 25(8), 1376-1440.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Zhang, C., de la Mata, M., Li, Z., Belarre, F. J., Arbiol, J., Khor, K. A., ... & Xiong, Q. (2016). Enhanced thermoelectric performance of solution-derived bismuth telluride based nanocomposites via liquid-phase Sintering. Nano Energy, 30, 630-638.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Li, Z., Thompson, B. C., Dong, Z., & Khor, K. A. (2016). Optical and biological properties of transparent nanocrystalline hydroxyapatite obtained through spark plasma sintering. Materials Science and Engineering: C, 69, 956-966.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Li, Z., Thompson, B. C., Hu, H., & Khor, K. A. (2016). Rapid fabrication of dense 45S5 Bioglass® compacts through spark plasma sintering and evaluation of their in vitro biological properties. Biomedical Materials, 11(6), 065006.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Khun, N. W., Li, Z., Khor, K. A., & Cizek, J. (2016). Higher in-flight particle velocities enhance in vitro tribological behavior of plasma sprayed hydroxyapatite coatings. Tribology International, 103, 496-503.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Li, R. T., Murugan, V. K., Dong, Z. L., & Khor, K. A. (2016). Comparative study on the corrosion resistance of Al–Cr–Fe alloy containing quasicrystals and pure Al. Journal of Materials Science & Technology, 32(10), 1054-1058.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Hansen, R. V., Zhong, L., Khor, K. A., Zheng, L., & Yang, J. (2016). Tuneable electrochromism in weavable carbon nanotube/polydiacetylene yarns. Carbon, 106, 110-117.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
+
+1. Li, R., Li, Z., Dong, Z., & Khor, K. A. (2016). A review of transmission electron microscopy of quasicrystals—how are atoms arranged?. Crystals, 6(9), 105.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Khor-Khiam-Aik/selectedpublications>
 
 ## Nanyang Technological University — Kim Mun Sek
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 44건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:51:27.055Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위:  / Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://dr.ntu.edu.sg/entities/person/Mun-Sek-Kim/selectedpublications>
+
+출처: <https://www.munsekkim.com/publications>
+
+1. Mun Sek Kim, Zewen Zhang, Paul E. Rudnicki, Zhiao Yu, Jingyang Wang, Hansen Wang, Solomon T. Oyakhire, Yuelang Chen, Sang Cheol Kim, Wenbo Zhang, David T. Boyle, Xian Kong, Rong Xu, Zhuojun Huang, William Huang, Stacey F. Bent, Lin-Wang Wang, Jian Qin, Zhenan Bao, Yi Cui (2022). Suspension electrolyte with modified Li+ solvation environment for lithium metal batteries. Nature Materials, 21, 445–454
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mun-Sek-Kim/selectedpublications>
+
+1. Articles (Journal) Mun Sek Kim, Zewen Zhang, Paul E. Rudnicki, Zhiao Yu, Jingyang Wang, Hansen Wang, Solomon T. Oyakhire, Yuelang Chen, Sang Cheol Kim, Wenbo Zhang, David T. Boyle, Xian Kong, Rong Xu, Zhuojun Huang, William Huang, Stacey F. Bent, Lin-Wang Wang, Jian Qin, Zhenan Bao, Yi Cui (2022). Suspension electrolyte with modified Li+ solvation environment for lithium metal batteries. Nature Materials, 21, 445–454 Mun Sek Kim, Ji-Hyun Ryu, Deepika, Young Rok Lim, In Wook Nah, Kwang-Ryeol Lee, Lynden A. Archer, Won Il Cho (2018). Langmuir–Blodgett artificial solid-electrolyte interphases for practical lithium metal batteries. Nature Energy, 3, 889–898
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mun-Sek-Kim/selectedpublications>
+
+1. Mun Sek Kim, Deepika, Seung Hun Lee, Min-Seop Kim, Ji-Hyun Ryu, Kwang-Ryeol Lee, Lynden A. Archer, Won Il Cho (2019). Enabling reversible redox reactions in electrochemical cells using protected LiAl intermetallics as lithium metal anodes. Science Advances, 5, eaax5587
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mun-Sek-Kim/selectedpublications>
+
+1. Mun Sek Kim, Jingyang Wang, Wenbo Zhang, Philaphon Sayavong, Zewen Zhang, Solomon T. Oyakhire, Sanzeeda Baig Shuchi, Sang Cheol Kim, Yi Cui, Yuelang Chen, Zhiao Yu, Huaxin Gong, Rong Xu, Junyoung Lee, Il Rok Choi, Jun Ho Lee, Kristin A. Persson, Jian Qin, Zhenan Bao, and Yi Cui (2025). Elucidating the Effects of LiF on Lithium Metal Anodes. Nano Letters, 25, 14625–14634
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mun-Sek-Kim/selectedpublications>
+
+1. Mun Sek Kim, Zewen Zhang, Jingyang Wang, Solomon T. Oyakhire, Sang Cheol Kim, Zhiao Yu, Yuelang Chen, David T. Boyle, Yusheng Ye, Zhuojun Huang, Wenbo Zhang, Rong Xu, Philaphon Sayavong, Stacey F. Bent, Jian Qin, Zhenan Bao, Yi Cui (2023). Revealing the Multifunctions of Li3N in the Suspension Electrolyte for Lithium Metal Batteries. ACS Nano, 17, 3168–3180
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mun-Sek-Kim/selectedpublications>
+
+1. Mun Sek Kim, Jingyang Wang, Wenbo Zhang, Philaphon Sayavong, Zewen Zhang, Solomon T. Oyakhire, Sanzeeda Baig Shuchi, Sang Cheol Kim, Yi Cui, Yuelang Chen, Zhiao Yu, Huaxin Gong, Rong Xu, Junyoung Lee, Il Rok Choi, Jun Ho Lee, Kristin A. Persson, Jian Qin, Zhenan Bao, and Yi Cui (2025). Elucidating the Effects of LiF on Lithium Metal Anodes. Nano Letters, 25, 14625–14634 Mun Sek Kim, Zewen Zhang, Jingyang Wang, Solomon T. Oyakhire, Sang Cheol Kim, Zhiao Yu, Yuelang Chen, David T. Boyle, Yusheng Ye, Zhuojun Huang, Wenbo Zhang, Rong Xu, Philaphon Sayavong, Stacey F. Bent, Jian Qin, Zhenan Bao, Yi Cui (2023). Revealing the Multifunctions of Li3N in the Suspension Electrolyte for Lithium Metal Batteries. ACS Nano, 17, 3168–3180 Mun Sek Kim, Min-Seop Kim, Vandung Do, Young Rok Lim, In Wook Nah, Lynden A. Archer, Won Il Cho (2017). Designing solid-electrolyte interphases for lithium sulfur electrodes using ionic shields. Nano Energy, 41, 573-582
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mun-Sek-Kim/selectedpublications>
+
+1. Mun Sek Kim, Lin Ma, Snehashis Choudhury, Lynden A. Archer (2016). Multifunctional Separator Coatings for High-Performance Lithium–Sulfur Batteries. Advanced Materials Interfaces, 3, 1600450
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mun-Sek-Kim/selectedpublications>
+
+1. Mun Sek Kim, Lin Ma, Snehashis Choudhury. Surya Moganty, Shuya Wei, Lynden A. Archer (2016). Fabricating multifunctional nanoparticle membranes by a fast layer-by-layer Langmuir–Blodgett process: application in lithium–sulfur batteries. Journal of Materials Chemistry A, 4, 14709-14719
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mun-Sek-Kim/selectedpublications>
+
+1. Mun Sek Kim, Ben Hsia, Carlo Carraro, Roya Maboudian (2014). Flexible micro-supercapacitors with high energy density from simple transfer of photoresist-derived porous carbon electrodes. Carbon, 74, 163-169
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mun-Sek-Kim/selectedpublications>
+
+1. Elucidating the Effects of LiF on Lithium Metal Anodes Nano Letters 25(40), 14625-14634 (2025) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Reactive Suspension Electrolytes for Lithium Metal Batteries ACS Energy Letters 10(9), 4252–4259 (2025) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Revealing the multi-functions of Li3N in the suspension electrolyte for lithium metal batteries ACS Nano 17(3), 3168-3180 (2023) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Suspension electrolyte with modified Li+ solvation environment for lithium metal batteries Nature Materials 21, 445-454 (2022) [PDF & SI]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Li-In alloy anode and Nb2CTX2 artificial solid- electrolyte interphase for practical Li metal batteries Journal of Materials Chemistry A 10, 4157-4169 (2022) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Enabling reversible redox reactions in electrochemical cells using protected LiAl intermetallics as lithium metal anodes Science Advances eaax5587 (2019) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Langmuir-Blodgett artificial solid-electrolyte interphases for practical lithium metal batteries Nature Energy 3, 889-898 (2018) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Designing solid-electrolyte interphases for lithium sulfur electrodes using ionic shields Nano Energy 41, 573-582 (2017) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Multifunctional Separator Coatings for High Performance Lithium sulfur Batteries Advanced Materials Interfaces 3, 1600450 (2016) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Fabricating multifunctional nanoparticle membranes by a fast layer-by-layer Langmuir– Blodgett process: application in lithium–sulfur batteries Journal of Materials Chemistry A 4, 14709-14719 (2016) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Flexible micro-supercapacitors with high energy density from simple transfer of photoresist-derived carbon electrodes Carbon 74, 163-169 (2014) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Templated 3D CVD ultrathin graphite networks with controllable geometry: synthesis and application as supercapacitor electrodes ACS Applied Materials & Interfaces 6, 18413-18417 (2014) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. In situ formation of liquid crystal interphase in electrolytes with soft templating effects for aqueous dual-electrode-free batteries Nature Energy 9, 1350-1359 (2024) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Recovery of isolated lithium through discharged state calendar ageing Nature 626, 306-312 (2024) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Solvation-property relationship of lithium-sulphur battery electrolytes Nature Communications 15, 1268 (2024) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Proximity Matters: Interfacial Solvation Dictates Solid Electrolyte Interphase Composition Nano Letters 23(16), 7524-7531 (2023) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. High Entropy Electrolytes for Practical Lithium Metal Batteries Nature Energy 8, 814-826 (2023) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Dissolution of the Solid Electrolyte Interphase and Its Effects on Lithium Metal Anode Cyclability JACS 145(22), 12342-12350 (2023) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Data-driven electrolyte design for lithium metal anodes PNAS 120(10), e2214357120 (2023) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Correlating the formation protocols of solid electrolyte interphases with practical performance metrics in lithium metal batteries ACS Energy Letters 8, 869-877 (2023) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Resolving Current-Dependent Regimes of Electroplating Mechanisms for Fast Charging Lithium Metal Anodes Nano Letters 22(20), 8224-8232 (2022) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Rational solvent molecule tuning for high-performance lithium metal battery electrolytes Nature Energy 7, 94-106 (2022) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Regulating electrodeposition morphology of lithium: towards commercially relevant secondary Li metal batteries Chemical Society Reviews 49(9), 2701-2750 (2020) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Carbon Nitride Phosphorus as an Effective Lithium Polysulfide Adsorbent for Lithium-Sulfur Batteries ACS Applied Materials & Interfaces 11(12), 11431-11441 (2019) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. α-Fe2O3 anchored on porous N doped carbon derived from green microalgae via spray pyrolysis as anode materials for lithium ion batteries Journal of Industrial Engineering Chemistry 69, 39-47 (2019) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Facile and scalable fabrication of high-energy-density sulfur cathodes for pragmatic lithium-sulfur batteries Journal of Power Sources 422, 104-112 (2019) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Stable artificial solid electrolyte interphases for lithium batteries Chemistry of Materials 29, 4181-4189 (2017) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Enhanced Li-S batteries using Amine- functionalized CNT in the Cathode: Electrochemistry and Kinetics of Polysulfide Dissolution ACS Nano 10, 1050-1059 (2015) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Cycling characteristics of high energy density, electrochemically activated porous-carbon supercapacitor electrodes in aqueous electrolytes Journal of Material Chemistry A 1, 10518-10523 (2013) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Photoresist-derived porous carbon for on-chip micro-supercapacitors Carbon 57, 395-400 (2013) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. Silicon carbide nanowires as highly robust electrodes for micro-supercapacitors Journal of Power Sources 230, 298-302 (2013) [PDF]
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. M.S. Kim, B. Hsia, C. Carraro, R. Maboudian Flexible micro-supercapacitors from photoresist-derived carbon electrodes on flexible substrates The 27thInternational Conference (IEEE MEMS 2014, San Francisco, USA), 389-392
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. B. Hsia, S. Wang, M.S. Kim, C. Carraro, R. Maboudian All solid-state micro-supercapacitors using ionogel electrolyte The 17th International Conference (TRANSDUCERS 2013, Barcelona, Spain), 1328-1331
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. M. Vincent, M.S. Kim, C. Carraro, R. Maboudian Silicon carbide nanowires as an electrode material for high-temperature supercapacitor The 25th International Conference (IEEE MEMS 2012, Paris, France), 39-42
+
+    게시 페이지: <https://www.munsekkim.com/publications>
+
+1. B. Hsia, M. Vincent, M.S. Kim, C. Carraro, R. Maboudian Photoresist-derived porous carbon for integrated on-chip energy storage 2012 Hilton Head Solid-State Sensors, Actuators and Microsystems Workshop, 254-255
+
+    게시 페이지: <https://www.munsekkim.com/publications>
 
 ## Nanyang Technological University — Lai Changquan
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications>
+
+1. Y. Guo, Y.Z. Lye, I.P. Seetoh, G.Y. Lim, W.X. Tan, C.Q. Lai, Electrolyte additive for improving anodic stability in aqueous Zn-ion batteries, J. Mater. Chem. A 13 (2025) 31604–31613. https://doi.org/10.1039/D5TA04246A.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications>
+
+1. D. Saha, L. Sun, C.Q. Lai, A science directed progressive neural network for multimodal prediction of elastoplastic behavior in composite materials, Compos. Part Appl. Sci. Manuf. 199 (2025) 109179. https://doi.org/10.1016/j.compositesa.2025.109179.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications>
+
+1. D.K.J. Lim, C.H. Cai, T.Z. Hsu, C.Q. Lai, Enhanced strength and delayed necking of architected metametals additively manufactured via laser sheet fusion, Addit. Manuf. 109 (2025) 104879. https://doi.org/10.1016/j.addma.2025.104879
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications>
+
+1. M.K. Singh, C.Q. Lai, Isotropic metamaterial stiffness beyond Hashin-Shtrikman upper bound, J. Mech. Phys. Solids 200 (2025) 106130. https://doi.org/10.1016/j.jmps.2025.106130.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications>
+
+1. A.K. Ramesh, X. Chen, I.P. Seetoh, G.Y. Lim, W.X. Tan, V. Thirunavukkarasu, T. Jin, W.S. Lew, C. Lai, Polydopamine Assisted Electroless Deposition of Strongly Adhesive NiFe Films for Flexible Spintronics, ACS Appl. Mater. Interfaces 17 (2025) 12805–12817. https://doi.org/10.1021/acsami.4c19118 .
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications>
+
+1. F. Jiang, I.P. Seetoh, H. Lee, G.Y. Lim, D.K.J. Lim, J. Singham, C. Qi, C.Q. Lai, Compound nested lattices with programmable isotropy and elastic stiffness up to the theoretical limit, Compos. Part B Eng. 284 (2024) 111656. https://doi.org/10.1016/j.compositesb.2024.111656.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications>
+
+1. W.X. Tan, P.-J. Chiang, L.P. Tan, R.V. Ramanujan, M.J. Tan, A. Ong, J.S.D. Jangam, C.Q. Lai, Adhesive and alloying properties of dual purpose polyfurfuryl alcohol binder for binder jet additive manufacturing of steel, Addit. Manuf. 86 (2024) 104212. https://doi.org/10.1016/j.addma.2024.104212.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications>
+
+1. G. Y. Lim, R. J. X. Kuek, J. Teo, I. P. Seetoh, and C. Q. Lai, “Mechanical properties of additively manufactured kraft paper lattices and paper-epoxy interpenetrating phase composites for polymer foam replacement,” Addit. Manuf., vol. 77, p. 103816, Sep. 2023, doi: 10.1016/j.addma.2023.103816.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications>
+
+1. Hu, E., Seetoh, I.P. & *Lai, C. Q. Machine Learning Assisted Investigation of Defect Influence on the Mechanical Properties of Additively Manufactured Architected Materials. Int. J. Mech. Sci. 221, 107190 (2022). https://doi.org/10.1016/j.ijmecsci.2022.107190
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lai-Changquan/selectedpublications>
 
 ## Nanyang Technological University — Li Hua
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00511>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Li King Ho, Holden
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00608>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Li Hongying
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Li-Hongying>
+
+출처: <https://dr.ntu.edu.sg/entities/person/Li-Hongying/selectedpublications>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Li Dong
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp02326>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Liang Xuan
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp02364>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Anutosh Chakraborty
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00753>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Lim Zhi Jun
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/76e06a18-76ea-48b3-b6ba-a4e076fdf14d>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
+
+출처: <https://dr.ntu.edu.sg/entities/person/Zhi-Jun-Lim/selectedpublications>
+
+출처: <https://dr.ntu.edu.sg/>
 
 ## Nanyang Technological University — Liu Lerwen
 
@@ -1833,81 +2263,1119 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
 ## Nanyang Technological University — Liu Shukui
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 5건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications>
+
+1. Liu S.K., Papanikolaou A. and Shang B.G. (2022). “Critical Review of the Revised IMO-MEPC76 Guidelines for Assessing the Minimum Propulsion Power of Ships in View of the Reduction of Green House Gas Emissions”, Ocean Engineering.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications>
+
+1. Liu S.K., Papanikolaou A. Bezunartea-Barrio A., Shang B.G. and Sreedharan M. (2021). On the Effect of Biofouling on the Minimum Propulsion Power of Ships for Safe Navigation in Realistic Conditions. Journal of Biofouling.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications>
+
+1. Liu S.K., Sprenger F., Papanikolaou A., Dafermos G., and Zaraphonitis G. (2021). Experimental and Numerical Studies on Linear and Nonlinear Seakeeping Phenomena of the DTC Ship in Regular Waves. Ship Technology Research (SCHIFFSTECHNIK), Vol. 68(1).
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications>
+
+1. Liu S.K., Low M.C., Low W.C., Chen H.L., Shang B.G. and Papanikolaou A. (2020). Rational processing of monitored ship voyage data for improved operation. Applied Ocean Research.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications>
+
+1. Liu S.K. and Papanikolaou A. (2020). Regression analysis of experimental data for added resistance in waves of arbitrary heading and development of a semi-empirical formula. Ocean Engineering.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Liu-Shukui/selectedpublications>
 
 ## Nanyang Technological University — Lum Guo Zhan
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 35건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+출처: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. Ng, C. S. X., Yeo, Y. X., Foo, N. Y. W., Radhakrishnanm, K. and Lum, G. Z.^ (^Corresponding Author). (2026). Miniature soft robot with magnetically reprogrammable surgical functions, Advanced Materials, e23056.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+1. Zheng, L., Yang, Z., Zhou, A., Tai, K. and Lum, G. Z.^ (^Corresponding Author). (2025). From Fourier topology representation to optimal robot: evolution of an ultrahigh performance XYθz nanopositioner, Communications Engineering, 4(1), 146.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+1. Yang, Z., Xu, C., Lee, J. and Lum, G. Z.^ (^Corresponding Author). (2024). Magnetic Miniature Soft Robot with Reprogrammable Drug-Dispensing Functionalities: Toward Advanced Targeted Combination Therapy, Advanced Materials, 36(48), 2408750. (Selected for Inside Back Cover)
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+1. Zhou, A., Xu, C., Kanitthamniyom, P., Ng, C. S. X., G. J., Lim., W. S., Lew., S. V., Zhang, X., Lum, G. Z.~, and Zhang, Y. (~Ph.D. Advisor of First and Second Authors). (2022). Magnetic Soft Millirobots 3D Printed by Circulating Vat Photopolymerization to Manipulate Droplets Containing Hazardous Agents for In Vitro Diagnostics. Advanced Materials, 34(15), 2200061.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+1. Xu, C., Yang, Z., Tan, S. W., K., Li, J. and Lum, G. Z.^ (^Corresponding Author).(2022). Magnetic miniature actuators with six-degrees-of-freedom multimodal soft-bodied locomotion. Advanced Intelligent Systems, 2100259. (Selected for Inside Back Cover)
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+1. Xu, C., Yang, Z., and Lum, G. Z.^ (^Corresponding Author). (2021). Small-scale magnetic actuators with optimal six degrees-of-freedom. Advanced Materials, 33(23), 2100170. (Selected for Front Cover)
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+1. Dong, X.+, Lum, G. Z.+, Hu, W.+, Zhang, R., Ren, Z., Onck, P. R., and Sitti, M. (+Co-First Authors). (2020). Bioinspired cilia arrays with programmable nonreciprocal motion and metachronal coordination. Science Advances, 6(45), eabc9323.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+1. Ng, C. S. X., Tan, M. W. M., Xu, C., Yang, Z., Lee, P. S., and Lum G. Z.^ (^Corresponding Author). (2020). Locomotion of miniature soft robots. Advanced Materials, 33(19), 2003558.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+1. Hines, L., Peterson, K., Lum, G. Z., and Sitti, M. (2017). Soft actuators for small-scale robotics. Advanced Materials, 29(13), 1603483.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+1. Lum, G. Z.+, Ye, Z.+, Dong, X.+, Marvi, H., Erin, O., Hu, W., and Sitti, M. (+Co-First Authors). (2016). Shape-programmable magnetic soft matter. Proceedings of National Academy of Sciences of the United States of America, 113(41), E6007-E6015.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+1. Ye, Z.+, Lum, G. Z.+, Sukho, S., Rich, S., and Sitti, M. (+Co-First Authors). (2016). Phase change of gallium enables highly reversible and switchable adhesion, Advanced Materials, 28(25), 5088-5092. (Selected for Frontispiece Cover)
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lum-Guo-Zhan/selectedpublications>
+
+1. G. D. Goh, G. L. Goh, Z. Lyu, M. Z. Ariffin, W. Y. Yeong, G. Z. Lum, D. Campolo, B. S. Han, H. Y. A. Wong, "3D Printing of Robotic Soft Grippers: Toward Smart Actuation and Sensing", Advanced Materials Technologies, June 2022, 2101672. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. A. Zhou, C. Xu, P. Kanitthamniyom, C. S. X. Ng, G. J. Lim, W. S. Lew, S. Vasoo, X. Zhang, G. Z. Lum, Y. Zhang, "Magnetic soft millirobots 3D printed by circulating vat photopolymerization to manipulate droplets containing hazardous agents for in vitro diagnostics", Advanced Materials, February 2022. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. C. Xu, Z. Yang, S. W. K. Tan, J. Li and G. Z. Lum#, "Magnetic miniature actuators with six-degrees-of-freedom multimodal soft-bodied locomotion", Advanced Intelligent Systems, January 2022, Page 2100259. (Selected for Inside Back Cover) [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. Y. Zhang*#, A. Zhou*, S. Chen, G. Z. Lum# and X. Zhang#, "A perspective on magnetic microfluidics: Towards an intelligent future", Biomicrofluidics, Vol. 16, January 2022, Page 011301. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. C. S. X. Ng and G. Z. Lum#, "Untethered soft robots for future planetary explorations?" Advanced Intelligent Systems, July 2021, Page 2100106. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. C. Xu, Z. Yang and G. Z. Lum#, "Small-scale magnetic actuators with optimal six degrees-of-freedom", Advanced Materials, Vol. 33, no. 23, June 2021, Page 2100170. (Selected for Front Cover) [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. C. S. X. Ng*, M. W. M. Tan*, C. Xu*, Z. Yang*, P. S. Lee and G. Z. Lum#, "Locomotion of miniature soft robots", Advanced Materials, Vol. 33, no. 19, May 2021, Page 2003558. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. X. Dong*, G. Z. Lum*, W. Hu*, R. Zhang, Z. Ren, P. R. Onck and M. Sitti, "Bioinspired cilia arrays with programmable nonreciprocal motion and metachronal coordination", Science Advances, Vol. 6, no. 45, November 2020, Page abc9323. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. H. Marvi#, G. Z. Lum# and I. D. Walker#, "Opportunities and Challenges in Soft Robotics", Advanced Intelligent Systems, Vol. 2, no. 6, June 2020, Page 2000072. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. W. Hu*, G. Z. Lum*, M. Mastrangeli and M. Sitti, "Small-scale soft-bodied robot with multimodal locomotion", Nature, vol. 554, no. 7690, February 2018, Pages 81-85. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. L. Hines, K. Peterson, G. Z. Lum and M. Sitti, "Soft actuators for small-scale robotics", Advanced Materials, vol. 29, no. 13, April 2017, Page 1603483. (Invited Review Paper) [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. G. Z. Lum*, Z. Ye*, X. Dong*, H. Marvi, O. Erin, W. Hu and M. Sitti, "Shape-programmable magnetic soft matter", Proceedings of National Academy of Sciences, vol. 113, no. 41, September 2016, Pages E6007-E6015. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. Z. Ye*, G. Z. Lum*, S. Sukho, S. Rich and M. Sitti, "Phase change of gallium enables highly reversible and switchable adhesion", Advanced Materials, vol. 28, no. 25, May 2016, Pages 5088-5092. (Selected for Frontispiece Cover) [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. E. Diller*, J. Giltinan*, G. Z. Lum*, Z. Ye and M. Sitti, "Six-degree-of-freedom magnetic actuation for wireless microrobotics", International Journal of Robotics Research, vol. 35, no. 1-3, January 2016, Pages 114-128. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. G. Z. Lum, T. J. Teo, G. L. Yang, S. H. Yeo and M. Sitti, "Structural optimization for flexure-based parallel mechanisms - towards achieving optimal dynamic and stiffness properties", Precision Engineering, vol. 42, October 2015, Pages 195-207. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. G. Z. Lum, T. J. Teo, G. L. Yang, S. H. Yeo and M. Sitti, "Integrating classical mechanism synthesis and modern topological optimization technique for stiffness-oriented design of multiple degrees-of-freedom flexure-based parallel mechanisms", Precision Engineering, vol. 39, January 2015, Pages 125-133. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. E. Diller, J. Zhuang, G. Z. Lum, M. R. Edwards and M. Sitti, "Continuously distributed magnetization profile for millimeter-scale elastomeric undulatory swimming", Applied Physics Letter, vol. 104, no. 17, April 2014, Page 174101. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. G. Z. Lum, M. T. Pham, T. J. Teo, G. Yang, S. H. Yang and M. Sitti, “An X-Y-Theta flexure mechanism with optimal stiffness properties”, IEEE International Conference on Advanced Intelligent Mechatronics, Munich, Germany, July 2017, pp. 1103-1110. [pdf]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. G. Z. Lum, E. Diller, and M. Sitti, "Structural optimization method towards synthesis of small scale flexure-based mobile grippers", IEEE International Conference on Robotics and Automation, Hong Kong, China, May 2014, pp. 2339-2344. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. G. Z. Lum, T. J. Teo, G. L. Yang, S. H. Yeo and M. Sitti, "A novel hybrid topological and structural optimization method to design a 3-DOF planar motion compliant mechanism", IEEE/ASME International Conference on Advanced Intelligent Mechatronics, Wollongong, Australia, July 2013, pp. 247-254. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. T. J. Teo, G. Z. Lum, G. L. Yang, S. H. Yeo and M. Sitti, "Geometrical-based approach for flexure mechanism design", 13th International Conference of European Society for Precision Engineering and Nanotechnology, Berlin, Germany, May 2013, pp. 184-187. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. G. Z. Lum, T. J. Teo, G. L. Yang, S. H. Yeo and M. Sitti, "Topological optimization for continuum compliant mechanisms via morphological evolution of traditional mechanisms", 4th International Conference on Computational Methods, Gold Coast, Australia, Nov 2012, pp. 2008-2014. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. G. Z. Lum, Z. Ye and M. Sitti, "Shape-programmable magnetic soft matter", European Patent, Filed on June 2016, File no. MI 0104-5135-BC-JK. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
+
+1. Z. Ye, G. Z. Lum and M. Sitti, "Phase change of gallium enables highly reversible and switchable adhesion", European Patent, Filed on February 2016, File no. MI 0104-5132-BC-JK. [link]
+
+    게시 페이지: <https://sites.google.com/site/ntuminiaturesoftroboticslab/publications>
 
 ## Nanyang Technological University — Lyu Chen
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 197건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+출처: <https://lvchen.wixsite.com/automan/publications>
+
+1. Z. Huang, H. Liu, J. Wu, C. Lv, Conditional Predictive Behavior Planning With Inverse Reinforcement Learning for Human-Like Autonomous Driving, IEEE Transactions on Intelligent Transportation Systems, 2023.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. X. He, C. Lv, Robotic Control in Adversarial and Sparse Reward Environments: A Robust Goal-Conditioned Reinforcement Learning Approach, IEEE Transactions on Artificial Intelligence, 2023.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. P. Hang, C. Huang, Z. Hu, C. Lv, Decision Making for Connected Automated Vehicles at Urban Intersections Considering Social and Individual Benefits, IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 11, pp. 22549-22562, 2022.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. J. Wu, Z. Huang, W. Huang and C. Lv, Prioritized Experience-Based Reinforcement Learning With Human Guidance for Autonomous Driving, IEEE Transactions on Neural Networks and Learning Systems, 2022.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. X. Mo, Z. Huang, Y. Xing and C. Lv, Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network, IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 9554-9567, 2022.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. Z. Huang, J. Wu and C. Lv, Efficient Deep Reinforcement Learning With Imitative Expert Priors for Autonomous Driving, IEEE Transactions on Neural Networks and Learning Systems, 2022.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. C. Lv, Y. Li, Y. Xing, C. Huang, D. Cao, Y. Zhao, Y. Liu. Human–Machine Collaboration for Automated Driving Using an Intelligent Two-Phase Haptic Interface. Advanced Intelligent Systems, 2021.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. P. Hang, C. Lv, Y. Xing, C. Huang, Z. Hu. Human-Like Decision Making for Autonomous Driving: A Noncooperative Game Theoretic Approach, IEEE Transactions on Intelligent Transportation Systems, 2020.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. Y. Xing, C. Lv, et al. Driver Activity Recognition for Intelligent Vehicles: A Deep Learning Approach, IEEE Trans. on Vehicular Technology, 68(6), 5379 - 5390, 2019.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. Y. Xing, C. Lv, et al. Driver Lane Change Intention Inference for Intelligent Vehicles: Framework, Survey, and Challenges, IEEE Transactions on Vehicular Technology, vol. 68, no. 5, pp. 4377-4390, 2019.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. C. Lv, X. Hu, A. Sangiovanni-Vincentelli, et al. Driving-style-based co-design optimization of an automated electric vehicle: a cyber-physical system approach. IEEE Trans. on Industrial Electronics, 66(4), 2965-2975, 2019.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. C. Lv, D Cao, et al. Simultaneous observation of hybrid states for cyber-physical systems: a case study of electric vehicle powertrain. IEEE Trans. on Cybernetics, 48(8): 2357-2367, 2018.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. C. Lv, Y. Xing, et al. Levenberg-marquardt backpropagation training of multilayer neural networks for state estimation of a safety critical cyber-physical system, IEEE Trans. on Industrial Informatics, 14(8): 3436-3446, 2018.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Lyu-Chen/selectedpublications>
+
+1. 12 Granted Patents, and 5 International Patent Applications. Book 1. Y. Xing, C. Lv, D. Cao. “Advanced Driver Intention Inference”, Elsevier, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. 2. C. Lv, Y. Xing, J. Zhang, D. Cao. "Cyber-Physical Vehicle Systems: Methodology and Applications", Morgan & Claypool Publishers, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. 3. P. Hang, C. Lv, X. Chen. “Human-Like Decision Making and Control for Autonomous Driving”, CRC Press, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. 4. Z. Hu, C. Lv. “Vision-Based Human Activity Recognition”. Springer Nature, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. 1. C. Lv, D Cao. “Brake Blending Control of Electric Vehicles” as a Chapter in the book “Modelling, Dynamics and Control of Electrified Vehicles”, Edited by Hui Zhang, Dongpu Cao, Haiping Du, Elsevier, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. 2. H Wang, Y Huang, H He, C. Lv, W Liu, A Khajepour. “Energy Management of Hybrid Electric Vehicles” as a Chapter in the book “Modelling, Dynamics and Control of Electrified Vehicles”, Elsevier, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. 1. C. Lv. “Co-design Optimization of Intelligent Electric Vehicles”, VTS Mobile World (IEEE Vehicular Technology Society newsletter), July Issue, 2019. (Invited by IEEE VTS Vice President Prof Loïc Boulon) Link
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J148. H. Liu, Z. Huang, W. Huang, H. Yang, X. Mo, C. Lv, Hybrid-Prediction Integrated Planning for Autonomous Driving, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J147. H. Yang, Y. Zhou, J. Wu, H. Liu, L. Yang, C. Lv, Human-Guided Continual Learning for Personalized Decision-Making of Autonomous Driving, IEEE Transactions on Intelligent Transportation Systems, 2025.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J146. X. He, J. Wu, Z. Huang, Z. Hu, J. Wang, A. Sangiovanni-Vincentelli, C. Lv, Fear-Neuro-Inspired Reinforcement Learning for Safe Autonomous Driving, IEEE Transactions on Pattern Analysis and Machine Intelligence, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J145. J. Wu, Y. Zhou, H. Yang, Z. Huang, C. Lv, Human-Guided Reinforcement Learning With Sim-to-Real Transfer for Autonomous Navigation, IEEE Transactions on Pattern Analysis and Machine Intelligence, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J144. H. Yang, L. Liu, Z. Hu, A.T. Nguyen, T. M. Guerra, C. Lv, Quantitative Identification of Driver Distraction: A Weakly Supervised Contrastive Learning Approach, IEEE Transactions on Intelligent Transportation Systems, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J143. W. Huang, Y. Zhou, X. He, C. Lv, Goal-Guided Transformer-Enabled Reinforcement Learning for Efficient Autonomous Navigation, IEEE Transactions on Intelligent Transportation Systems, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J142. L. Yang, H. Yang, B. Hu, Y. Wang, C. Lv, A Robust Driver Emotion Recognition Method Based on High-Purity Feature Separation, IEEE Transactions on Intelligent Transportation Systems, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J141. Z. Huang, H. Liu, J. Wu, C. Lv, Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving, IEEE Transactions on Neural Networks and Learning Systems, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J140. P. Hang, Y. Zhang, C. Lv, Brain-Inspired Modeling and Decision-Making for Human-Like Autonomous Driving in Mixed Traffic Environment, IEEE Transactions on Intelligent Transportation Systems, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J139. Z. Wang, C. Lv, F.Y. Wang. A New Era of Intelligent Vehicles and Intelligent Transportation Systems: Digital Twins and Parallel Intelligence. IEEE Transactions on Intelligent Vehicles, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J138. Z. Huang, H. Liu, J. Wu, C. Lv, Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-Like Autonomous Driving, IEEE Transactions on Intelligent Transportation Systems, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J137. X. Mo, Y. Xing, H. Liu, C. Lv, Map-Adaptive Multimodal Trajectory Prediction Using Hierarchical Graph Neural Networks, IEEE Robotics and Automation Letters, 8(6): 3685-3692, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J136. X. Mo and C. Lv, Predictive Neural Motion Planner for Autonomous Driving Using Graph Networks, IEEE Transactions on Intelligent Vehicles, vol. 8, no. 2, pp. 1983-1993, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J135. X. He and C. Lv, Robotic Control in Adversarial and Sparse Reward Environments: A Robust Goal-Conditioned Reinforcement Learning Approach, IEEE Transactions on Artificial Intelligence, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J134. X. He, C. Lv, Towards Energy-Efficient Autonomous Driving: A Multi-Objective Reinforcement Learning Approach, IEEE/CAA Journal of Automatica Sinica, 10(5): 1329-1331, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J133. T. Yang, C. Murguia, D. Nešić, C. Lv, A Robust CACC Scheme Against Cyberattacks Via Multiple Vehicle-to-Vehicle Networks, IEEE Transactions on Vehicular Technology, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J132. H. Chen and C. Lv, Online Learning-Informed Feedforward-Feedback Controller Synthesis for Path Tracking of Autonomous Vehicles," IEEE Transactions on Intelligent Vehicles, in press, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J131. P. Hang, C. Huang, Z. Hu, C. Lv, Decision Making for Connected Automated Vehicles at Urban Intersections Considering Social and Individual Benefits, IEEE Transactions on Intelligent Transportation Systems, in press, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J130. Z. Hu, Y. Zhang, Q. Li, C. Lv, A Novel Heterogeneous Network for Modeling Driver Attention With Multi-Level Visual Content, IEEE Transactions on Intelligent Transportation Systems, in press, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J129. C. Xu, W. Zhao, C. Wang, T. Cui, C. Lv, Driving Behavior Modeling and Characteristic Learning for Human-like Decision-Making in Highway, IEEE Transactions on Intelligent Vehicles, vol. 8, no. 2, pp. 1994-2005, 2023.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J128. H. Chen, S. Lou, C. Lv, Hybrid physics-data-driven online modelling: Framework, methodology and application to electric vehicles, Mechanical Systems and Signal Processing, in press, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J127. Z. Hu, S. Lou, Y. Xing, X. Wang, D. Cao and C. Lv, Review and Perspectives on Driver Digital Twin and Its Enabling Technologies for Intelligent Vehicles, IEEE Transactions on Intelligent Vehicles, in press, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J126. H. Chen, C. Lv, RHONN-Modeling-Based Predictive Safety Assessment and Torque Vectoring for Holistic Stabilization of Electrified Vehicles, IEEE/ASME Transactions on Mechatronics, in press, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J125. J. Wu, Z. Huang, W. Huang, C. Lv, "Prioritized Experience-Based Reinforcement Learning with Human Guidance for Autonomous Driving," IEEE Transactions on Neural Networks and Learning Systems, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J124. J. Wu, Z. Huang, C. Lv, Uncertainty-Aware Model-Based Reinforcement Learning: Methodology and Application in Autonomous Driving," IEEE Transactions on Intelligent Vehicles, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J123. J. Wu, Z. Huang, Z. Hu, C. Lv. Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for End-to-end Autonomous Driving, Engineering, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J122. Hang P, Lou B, C. Lv. Nonlinear Predictive Motion Control for Autonomous Mobile Robots Considering Active Fault-Tolerant Control and Regenerative Braking. Sensors. 22(10): 3939, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J121. H. Chen, J. Zhang and C. Lv, RHONN Modelling-enabled Nonlinear Predictive Control for Lateral Dynamics Stabilization of An In-wheel Motor Driven Vehicle, IEEE Transactions on Vehicular Technology, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J120. P. Hang, C. Huang, Z. Hu, C. Lv, Driving Conflict Resolution of Autonomous Vehicles at Unsignalized Intersections: A Differential Game Approach, IEEE/ASME Transactions on Mechatronics, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J119. Pang, B., Low, K. H., C. Lv. Adaptive conflict resolution for multi-UAV 4D routes optimization using stochastic fractal search algorithm. Transportation Research Part C: Emerging Technologies, 139, 103666, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J118. Hang, P., Zhang, Y., de Boer, N, C. Lv, Conflict Resolution for Connected Automated Vehicles at Unsignalized Roundabouts Considering Personalized Driving Behaviours. Green Energy and Intelligent Transportation, 100003, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J117. X. He, H. Yang, Z. Hu, C. Lv. Robust Lane Change Decision Making for Autonomous Vehicles: An Observation Adversarial Reinforcement Learning Approach, IEEE Transactions on Intelligent Vehicles, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J116. C. Lu, C. Lv, J. Gong, W. Wang, D. Cao, FY. Wang. Instance-Level Knowledge Transfer for Data-Driven Driver Model Adaptation With Homogeneous Domains, IEEE Transactions on Intelligent Transportation Systems, in press,2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J115. Cao, D., Wang, X., Li, L., C. Lv, Na, X., Xing, Y., Li, X., Li, Y., Chen, Y. and Wang, F.Y. Future directions of intelligent vehicles: Potentials, possibilities, and perspectives. IEEE Transactions on Intelligent Vehicles, 7(1), 7-10, 2022
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J114. Huang, C., Du, H., Zhao, W., Zhao, Y., Yan, F., C. Lv. Advanced Sensing and Control for Connected and Automated Vehicles. Sensors, 22(4), 1538, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J113. Z. Hu, Y. Zhang, Q. Li, C. Lv, Human–machine telecollaboration accelerates the safe deployment of large-scale autonomous robots during the Covid-19 pandemic, Frontiers in Robotics and AI, 104, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J112. Z. Hu, Y. Xing, W. Gu, D. Cao, C. Lv, Driver Anomaly Quantification for Intelligent Vehicles: A Contrastive Learning Approach with Representation Clustering, IEEE Transactions on Intelligent Vehicles, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J111. X. Mo, Z. Huang, Y. Xing, C. Lv, Multi-Agent Trajectory Prediction with Heterogeneous Edge-Enhanced Graph Attention Network.IEEE Transactions on Intelligent Transportation Systems, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J110. C. Xu, W. Zhao, J. Liu, C. Wang, C. Lv. An Integrated Decision-Making Framework for Highway Autonomous Driving Using Combined Learning and Rule-based Algorithm. IEEE Transactions on Vehicular Technology, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J109. Z. Huang, J. Wu, C. Lv. Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving. IEEE Transactions on Neural Networks and Learning Systems, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J108. Yang, L., Babayi Semiromi, M., Xing, Y., C. Lv, Brighton, J. and Zhao, Y. The Identification of Non-Driving Activities with Associated Implication on the Take-Over Process. Sensors, 22(1), 42, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J107. Z. Hu, Y. Zhang, Y. Xing, Y. Zhao, D. Cao, C. Lv. Towards Human-Centered Automated Driving: A Novel Spatial-Temporal Vision Transformer-Enabled Head Tracker, IEEE Vehicular Technology Magazine, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J106. Y. Zhang, P. Hang, C. Huang, C. Lv, Human-like Interactive Behavior Generation for Autonomous Vehicles: A Bayesian Game-theoretic Approach with Turing Test, Advanced Intelligent Systems, 2022, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J105. Gao, H., C. Lv, Zhang, T., Zhao, H., Jiang, L., Zhou, J., Liu, Y., Huang, Y. and Han. A Structure Constraint Matrix Factorization Framework for Human Behavior Segmentation. IEEE Transactions on Cybernetics, 2021, in press
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J104. Wang, Y., C. Lv, Yan, Y., Peng, P., Wang, F., Xu, L. and Yin, G. An Integrated Scheme for Coefficient Estimation of Tire Road Friction with mass parameter mismatch under Complex driving scenarios. IEEE Transactions on Industrial Electronics, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J103. Han, J., Zhang, J., He, C., C. Lv, Li, C., Hou, X. and Ji, Y. Adaptive distributed finite‐time fault‐tolerant controller for cooperative braking of the vehicle platoon. IET Intelligent Transport Systems, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J102. C. Huang, H. Hang, J. Zhang, P. Hang, Z. Hu, C. Lv. Human-Machine Cooperative Trajectory Planning and Tracking for Safe Automated Driving, IEEE Transactions on Intelligent Transportation Systems, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J101. C. Huang, P. Hang, Z. Hu, C. Lv. Collision-Probability-Aware Human-Machine Cooperative Planning for Safe Automated Driving IEEE Transactions on Vehicular Technology, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J100. D. Zhang, C. Lv, T. Yang, P. Hang. Cyber-Attack Detection for Autonomous Driving Using Vehicle Dynamic State Estimation. Automotive Innovation, 4(3), pp.262-273, 2021.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J99. T. Yang, C. Lv. A Secure Sensor Fusion Framework for Connected and Automated Vehicles under Sensor Attacks, IEEE Internet of Things Journal, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J98. L. Yang, X. Shan, C. Lv, J. Brighton, Y. Zhao, Learning spatio-temporal representations with a dual-stream 3D residual network for non-driving activity recognition, IEEE Transactions on Industrial Electronics, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J97. T. Yang, C. Lv. Secure Estimation and Attack Isolation for Connected and Automated Driving in the Presence of Malicious Vehicles, IEEE Transactions on Vehicular Technology, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J95. Y. Xing, C. Lv, D. Cao, E. Velenis, Multi-scale driver behavior modeling based on deep spatial-temporal representation for intelligent vehicles. Transportation Research Part C: Emerging Technologies, 130, p.103288, 2021.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J94. A.T. Nguyen, J.J. Rath, C. Lv, T.M. Guerra, and J. Lauber. Human-Machine Shared Driving Control for Semi-Autonomous Vehicles Using Level of Cooperativeness. Sensors, 21(14), p.4647, 2021.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J93. Z. Huang, J. Wu, C. Lv. Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning, IEEE Transactions on Intelligent Transportation Systems, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J92. Y. Xing, C. Lv, D. Cao, P. Hang. Toward human-vehicle collaboration: Review and perspectives on human-centered collaborative automated driving. Transportation Research Part C: Emerging Technologies 128 (2021): 103199.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J91. T. Yang, C. Murguia, C. Lv, D. Nešić, C. Huang. On Joint Reconstruction of State and Input-Output Injection Attacks for Nonlinear Systems. IEEE Control Systems Letters, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J89. H. Wang, B. Lu, J. Li, Y. Xing, C. Lv, D. Cao, J. Li, J. Zhang, E. Hashemi, Risk Assessment and Mitigation in Local Path Planning for Autonomous Vehicles with LSTM based Predictive Model, IEEE Transactions on Automation Science and Engineering, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J88. Y. Wang, Q. Liu, E. Mihankhah, C. Lv, D. Wang. Detection and Isolation of Sensor Attacks for Autonomous Vehicles: Framework, Algorithms and Validation, IEEE Transactions on Intelligent Transportation Systems, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J87. C. Huang, H. Huang, P. Hang, H. Gao, J. Wu, Z. Huang, C. Lv. Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving, IEEE Transactions on Vehicular Technology, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J86. P. Hang, C. Huang, Z. Hu, Y. Xing, C. Lv. Decision Making of Connected Automated Vehicles at An Unsignalized Roundabout Considering Personalized Driving Behaviours, IEEE Transactions on Vehicular Technology, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J85. P. Hang, C. Lv, C. Huang, Y. Xing, Z. Hu. Cooperative Decision Making of Connected Automated Vehicles at Multi-lane Merging Zone: A Coalitional Game Approach. IEEE Transactions on Intelligent Transportation Systems, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J84. C. Huang, C. Lv, P. Hang, Z. Hu, Y. Xing. Human-Machine Adaptive Shared Control for Safe Automated Driving under Automation Degradation. IEEE Intelligent Transportation Systems Magazine, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J83. Y. Xing, C. Lv, Y. Liu, Y. Zhao, D. Cao, S. Kawahara. Hybrid-Learning-Based Driver Steering Intention Prediction using Neuromuscular Dynamics. IEEE Transactions on Industrial Electronics, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J82. Z. Hu, C. Lv, P. Hang, C. Huang, Y. Xing. Data-driven Estimation of Driver Attention using Calibration-free Eye Gaze and Scene Features. IEEE Transactions on Industrial Electronics, 2021, in press. (ESI Highly Cited Paper)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J81. C. Huang, C. Lv, P. Hang, Y. Xing. Towards Safe and Personalized Autonomous Driving: Decision-Making and Motion Control with DPF and CDT Techniques. IEEE/ASME Transactions on Mechatronics, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J80. Y. Xing, C. Lv, X. Mo, Z. Hu, C.Huang, P. Hang. Toward Safe and Smart Mobility: Energy-Aware Deep Learning for Driving Behavior Analysis and Prediction of Connected Vehicles. IEEE Transactions on Intelligent Transportation Systems, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J79. Z. Hu, Y. Xing, C. Lv, P. Hang, J. Liu. Deep Convolutional Neural Network-based Bernoulli Heatmap for Head Pose Estimation. Neurocomputing, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J78. C. Lv, Y. Li, Y. Xing, C. Huang, D. Cao, Y. Zhao, Y. Liu. Human–Machine Collaboration for Automated Driving Using an Intelligent Two-Phase Haptic Interface. Advanced Intelligent Systems, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J77. C. Zhang, Y. Zhang, Z. Huang, C. Lv, et al, Real-time optimization of energy management strategy for fuel cell vehicles using Inflated 3D Inception long short-term memory network-based speed prediction. IEEE Transactions on Vehicular Technology, 2021, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J76. P. Hang, C. Lv, C. Huang, J. Cai, Z. Hu, Y. Xing. An Integrated Framework of Decision Making and Motion Planning for Autonomous Vehicles Considering Social Behaviors. IEEE Transactions on Vehicular Technology, 2020, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J75. Y. Zhang, Z. Huang, C. Zhang, C. Lv, et al, Improved short-term speed prediction using spatiotemporal-vision-based deep neural network for intelligent fuel cell vehicles, IEEE Transactions on Industrial Informatics, 2020, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J74. P. Hang, C. Lv, Y. Xing, C. Huang, Z. Hu. Human-Like Decision Making for Autonomous Driving: A Noncooperative Game Theoretic Approach, IEEE Transactions on Intelligent Transportation Systems, 2020, in press. (ESI Highly Cited Paper)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J73. Y. Xing, C. Lv, Y. Zhao, Y. Liu, D. Cao, S. Kawahara. Pattern Recognition and Characterization of Upper Limb Neuromuscular Dynamics During Driver-Vehicle Interactions, iScience, 23(9): 101541, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J72. M. Al-Sharman, D.Murdoch, D. Cao, C. Lv, Y. Zweiri, D. Rayside, W. Melek. "A Sensorless State Estimation for A Safety-Oriented Cyber-Physical System in Urban Driving: Deep Learning Approach." IEEE/CAA Journal of Automatica Sinica, 8(1), 169-178, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J71. Z. Huang, C. Lv, Y. Xing, J. Wu. Multi-modal Sensor Fusion-Based Deep Neural Network for End-to-end Autonomous Driving with Scene Understanding, IEEE Sensors Journal, 2020, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J70. C. Huang, C. Lv, F. Naghdy, H. Du, A Reference-Free Approach for Mitigating Human-Machine Conflicts in Shared Control of Automated Vehicles, IET Control Theory and Applications, 2020, 14(18), 2752- 2763, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J69. H. Wang, Y. Huang, A. Khajepour, D. Cao, C. Lv, Ethical Decision-Making Platform in Autonomous Vehicles with Lexicographic Optimization based Model Predictive Controller, IEEE Transactions on Vehicular Technology, 69(8), 8164-8175, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J68. Y. Wu, K.H. Low, C. Lv. Cooperative Path Planning for Heterogeneous Unmanned Vehicles in a Search-and-Track Mission Aiming at an Underwater Target, IEEE Transactions on Vehicular Technology, 69(6), 6782-6787 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J67. F. Yan, K. Wang, B. Zou, L. Tang, W. Li, C. Lv, LiDAR-based Multi-Task Road Perception Network for Autonomous Vehicles, IEEE Access, 8, 86753-86764, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J66. Y. Xing, C. Lv, et al. An Ensemble Deep Learning Approach for Driver Lane Change Intention Inference, Transportation Research Part C, 115: 102615, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J65. L Tang , F Yan, B Zou, K Wang, C. Lv, An Improved Kinematic Model Predictive Control for High Speed Path Tracking of Autonomous Vehicles, IEEE Access, 8: 51400-51413, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J64. J Hu, D Liu, C Du, F Yan, C. Lv, Intelligent Energy Management Strategy of Hybrid Energy Storage System for Electric Vehicle Based on Driving Pattern Recognition, Energy, 198, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J63. Y. Xing, C. Lv, D. Cao, C. Lu. Energy Oriented Driving Behavior Analysis and Personalized Prediction of Vehicle States with Joint Time Series Modeling, Applied Energy, 261, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J62. Y. Xing, C. Lv, D. Cao. Personalized Vehicle Trajectory Prediction Based on Joint Time Series Modeling for Connected Vehicles, IEEE Transactions on Vehicular Technology, 69(2), 1341-1352, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J61. Y. Xing, C. Lv. Dynamic State Estimation for the Advanced Brake System of Electric Vehicles by using Deep Recurrent Neural Networks, IEEE Transactions on Industrial Electronics, 2019.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J60. G. Li, Y. Chen, C. Lv, D. Tao, D. Cao, B. Cheng. Key techniques of semantic analysis of driving behavior in decision making of autonomous vehicles. Journal of Automotive Safety and Energy, 10(4): 391-412, 2019. (In Chinese)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J59. Wang K, Yan F, Zou B, Tang L, Yuan Q, Lv C. Occlusion-Free Road Segmentation Leveraging Semantics for Autonomous Vehicles. Sensors. 19(21), 4711, 2019.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J58. C. Lu, J. Gong, C. Lv, et al., A Personalized Behavior Learning System for Human-Like Longitudinal Speed Control of Autonomous Vehicles, Sensors, 19(17), 3672, 2019.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J57. B. Liu, Z. Ding, C. Lv, Distributed training for multi-layer neural networks by consensus, IEEE Transactions on Neural Networks and Learning Systems, 31(5), 1771-1778, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J56. Z. Huang, C. Zhang, T. Zeng, C. Lv, S.H. Chan. Modeling and energy management of a photovoltaic-fuel cell-battery hybrid electric vehicle, Energy Storage, 1(3), e61, 2019.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J54. Y. Xing, C. Lv, et al. Driver Activity Recognition for Intelligent Vehicles: A Deep Learning Approach, IEEE Trans. on Vehicular Technology, 68(6), 5379 - 5390, 2019. (ESI Highly Cited Paper)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J53. Y Xing, C. Lv, et al. Driver Lane Change Intention Inference for Intelligent Vehicles: Framework, Survey, and Challenges, IEEE Trans. on Vehicular Technology, 68(5), 4377-4390, 2019.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J52. Ji, X., Yang, K., Na, X., C. Lv, et al. Feedback Game-based Shared Control Scheme Design for Emergency Collision Avoidance: A Fuzzy-LQR Approach. Journal of Dynamic Systems, Measurement, and Control, 141 (8), 081005, 2019.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J51. He, X., Liu, Y., C. Lv, et al. Emergency steering control of autonomous vehicle for collision avoidance and stabilisation. Vehicle System Dynamics, 57(8), 1163-1187, 2019.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J50. Hu, X., Li, Y., C. Lv, Liu, Y. Optimal energy management and sizing of a dual motor-driven electric powertrain. IEEE Trans. on Power Electronics, 34(8), 7489-7501, 2019.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J49. C. Lv, X. Hu, A. Sangiovanni-Vincentelli, et al. Driving-style-based co-design optimization of an automated electric vehicle: a cyber-physical system approach. IEEE Trans. on Industrial Electronics, 66(4), 2965-2975, 2019. (ESI Highly Cited Paper)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J48. Ji, X., Yang, K., Na, X., C. Lv, Liu, Y. Shared steering torque control for lane change assistance: a stochastic game-theoretic approach. IEEE Trans. on Industrial Electronics, 66(4), 3093-3105, 2019.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J47. Y Li, C. Lv, et al. High-precision modulation of a novel brake-by-wire system: control synthesis and experimental validation, IEEE/ASME Trans. on Mechatronics, 23(6), 2599 - 2608, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J46. C. Lv, D Cao, et al. Simultaneous observation of hybrid states for cyber-physical systems: a case study of electric vehicle powertrain. IEEE Trans. on Cybernetics, 48(8): 2357-2367, 2018. (ESI Hot Paper, Highly Cited Paper)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J45. C. Lv, D Cao, et al. Characterization of driver neuromuscular dynamics for human-automation collaboration design of automated vehicles, IEEE/ASME Trans. on Mechatronics, 23(6), 2558-2567, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J43. C. Lv, Y Xing, D Cao, et al. Hybrid-learning-based classification and quantitative inference of driver braking intensity of an electrified vehicle. IEEE Trans. on Vehicular Technology, 67(7): 5718-5729, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J42. C. Lv, Y. Xing, et al. Levenberg-marquardt backpropagation training of multilayer neural networks for state estimation of a safety critical cyber-physical system, IEEE Trans. on Industrial Informatics, 14(8): 3436-3446, 2018. (ESI Hot Paper, Highly Cited Paper)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J41. C. Lv, D Cao, et al. Analysis of Autopilot Disengagements Occurring During Autonomous Vehicle Testing. IEEE/CAA Journal of Automatica Sinica, 5(1): 58-68, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J40. L Li, C. Lv, et al, Retrieving common discretionary lane changing characteristics from trajectories, IEEE Trans. on Vehicular Technology, 67(3): 2014-2024, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J36. Y Xing, C. Lv, et al. Identification and analysis of driver postures for in-vehicle driving activities and secondary tasks recognition, IEEE Trans. on Computational Social Systems, 5(1): 95-108, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J35. B Ma, C. Lv, et al, Estimation of road adhesion coefficient based on tire aligning torque distribution. ASME Journal of Dynamic Systems, Measurement, and Control, 140(5): 051010, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J34. Guo H, Song L, Liu J, Wang FY, Cao D, Chen H, C. Lv, Luk PC. Hazard-evaluation-oriented moving horizon parallel steering control for driver-automation collaboration during automated driving. IEEE/CAA Journal of Automatica Sinica. 5(6):1062-73, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J33. Y Xing, C. Lv, et al. Dynamic integration and online evaluation of vision-based lane detection algorithms, IEEE Trans. on Vehicular Technology, IET Intelligent Transport Systems, 13(1), 55-62, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J32. Guo H, Yin Z, Cao D, Chen H, C. Lv. A Review of Estimation for Vehicle Tire-Road Interactions Toward Automated Driving. IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2018, in press.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J31. X. Ji, X. Na, C. Lv, et al. Interactive control paradigm based robust lateral stability controller design for autonomous automobile path tracking with uncertain disturbance: a dynamic game approach, IEEE Trans. on Vehicular Technology, 67(8), 6906-6920, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J30. C. Lu, H. Wang, C. Lv, et al. Learning driver-specific behaviour for overtaking: a combined learning framework, IEEE Trans. on Vehicular Technology, 67(8), 6788- 6802, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J29. Y. Liu, Q. Liu, M. Zheng, C. Lv, X. Ji. A study on objective evaluation of vehicle steering comfort based on driver’s electromyogram and movement trajectory. IEEE Trans. on Human-Machine Systems, 48(1): 41-49, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J28. Ji X, He X, C. Lv, Liu Y, Wu J. Adaptive-neural-network-based robust lateral motion control for autonomous vehicle at driving limits. Control Engineering Practice. 76: 41-53, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J27. H Guo, H Chen, D Cao, C. Lv. Vehicle Dynamic States Estimation: State of the Art and Perspectives, IEEE/CAA Journal of Automatica Sinica, 5(2), 418-431, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J26. X. Ji, X. He, C. Lv, et al. A vehicle stability control strategy with adaptive neural network sliding mode theory based on system uncertainty approximation. Vehicle System Dynamics, 56(6):923-46, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J25. Y Xing, C. Lv, et al. Advances in Vision-Based Lane Detection: Algorithms, Integration, Assessment, and Perspectives on ACP-based Parallel Vision, IEEE/CAA Journal of Automatica Sinica, 5(3): 645-61, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J24. H Guo, J Liu, H Chen, D Cao, R Yu, C. Lv. Dual-envelop-oriented moving horizon path tracking control for fully automated vehicles, Mechatronics, 50: 422-433, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J23. C. Lv, H Wang, D Cao. High-precision hydraulic pressure control based on linear pressure-drop modulation in valve critical equilibrium state. IEEE Trans. on Industrial Electronics, 64(10): 7984-7993, 2017. (ESI Highly Cited Paper)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J21. Y Zhao, L Görne, IM Yuen, D Cao, M Sullman, D Auger, C. Lv, et al. An orientation sensor-based head tracking system for driver behaviour monitoring. Sensors, 17(11): 2692, 2017.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J20. C. Lv, D Cao, et al. Cyber-physical system based optimisation framework for intelligent powertrain control. SAE International Journal of Commercial Vehicles, 10(1), 2017.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J19. H Wang, Y Huang, C. Lv, A. Khajepour. A Global Optimal Energy Management System for Hybrid Electric off-road Vehicles. SAE International Journal of Commercial Vehicles 10, no. 2017-01-0425, 2017.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J18. Y Li, J Zhang, C. Lv, et al., Coordinated control of the steering system and distributed motors for comprehensive optimization of dynamics performance and energy consumption for an electric vehicle, Proceedings of the Inst. of Mechanical Engineers, Part D: Journal of Automobile Engineering, 231(12): 1605-1626, 2017. Most Cited Paper 2019, IMechE Part D: JAuto, UK)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J16. C. Lv, J Zhang, et al., Robust control of regenerative and hydraulic brakes for enhancing directional stability of an electric vehicle during straight-line braking, SAE Int. J. of Alternative Powertrains, 2016-01-1669, 5, 2016.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J15. Y Li, J Zhang, C. Lv, et al., Comprehensive optimization of dynamics performance and energy consumption for an electric vehicle via coordinated control of SBW and FIWMA, SAE International Journal of Passenger Cars - Mechanical Systems, 2016-01-0457, 9: 90-98, 2016.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J14. Y Yuan, J Zhang, C. Lv, et al., Design and performance analysis of a novel regenerative braking system for electrified passenger vehicles, SAE International Journal of Materials & Manufacturing, 9(3), 699-706, 2016.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J13. C. Lv, J Zhang, et al., Novel control algorithm of braking energy regeneration system for an electric vehicle during safety–critical driving maneuvers, Energy Conversion and Management, 106: 520-529, 2015.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J12. C. Lv, J Zhang, et al., Mode-switching-based active control of powertrain system with nonlinear backlash and flexibility for electric vehicle during regenerative deceleration, Proc Inst of Mechanical Engineers, Part D: Journal of Automobile Engineering, 229(11): 1429-1442, 2015. (Most Cited Paper 2018, IMechE Part D: JAuto, UK)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J11. C. Lv, J Zhang, et al., Synthesis of a hybrid-observer-based active controller for compensating powertrain backlash nonlinearity of an electric vehicle during regenerative braking, SAE International Journal of Alternative Powertrains, 4(1), doi:10.4271/2015-01-1225, 2015.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J10. C. Lv, J Zhang, et al., Mechanism analysis and evaluation methodology of regenerative braking contribution to energy efficiency improvement of electrified vehicles, Energy Conversion and Management, 92:469-482, 2015. (ESI Highly Cited Paper)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J9. C. Lv, J Zhang, et al., Extended-kalman-filter-based regenerative and friction blended braking control for electric vehicle equipped with axle motor considering damping and elastic properties of electric powertrain, Vehicle System Dynamics, 52(11):1372-1388, 2014.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J8. C. Lv, J Zhang, et al., Hardware-in-the-loop simulation of pressure-difference-limiting modulation of the hydraulic brake for regenerative braking control of electric vehicles, Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, 228(6):649-662, 2014.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J6. J Zhang, C. Lv, et al., Study on a linear relationship between limited pressure difference and coil current of on-off valve and its influential factors, ISA Transactions, 53:150-161, 2014. (NSK Sino-Japan Friendship Outstanding Mechanical Engineering Paper Prize)
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J5. J Zhang, Yutong Li, C. Lv, New regenerative braking control strategy for rear-driven electrified minivans, Energy Conversion and Management, 82:135-145, 2014.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J4. J Zhang, C. Lv, et al., Hybrid propulsion and hybrid braking technologies of electrified vehicles: Status and prospect. Journal of Automotive Safety and Energy, 3: 209-233, 2014.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J3. J Zhang, C. Lv, et al., Braking energy regeneration control of a fuel cell hybrid electric bus, Energy Conversion and Management, 76:1117-1124, 2013.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. J1. J Zhang, D Kong, C. Lv, X Chen, Optimization of control strategy for regenerative braking of electrified bus equipped with ABS, Proc IMechE, Part D: J. Automobile Engineering, 226(4): 494-506, 2012.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C47. J. Wu, W. Huang, N. de Boer, Y. Mo, X. He, C. Lv, Safe Decision-making for Lane-change of Autonomous Vehicles via Human Demonstration-aided Reinforcement Learning, IEEE International Intelligent Transportation Systems Conference (ITSC), Macau, SAR, China, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C46. Z. Huang, X. Mo, C. Lv, ReCoAt: A Deep Learning-based Framework for Multi-Modal Motion Prediction in Autonomous Driving Application, IEEE International Intelligent Transportation Systems Conference (ITSC), Macau, SAR, China, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C45. X. Mo, Z. Huang, C. Lv, Stochastic Multi-Modal Interaction Prediction For Urban Driving, IEEE International Intelligent Transportation Systems Conference (ITSC), Macau, SAR, China, 2022.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C44. Z. Zhang, SW Lye, C. Lv, Human-Guided Safe and Efficient Trajectory Replanning for Unmanned Aerial Vehicles, International Conference on Control Automation and Diagnosis, 2022, Lisbon, Portugal.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C43. H. Liu, Z. Huang, C. Lv, Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving, IEEE Intelligent Vehicles Symposium, 2022, Aachen, Germany.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C42. Z. Huang, X. Mo, C. Lv, Multi-Modal Motion Prediction with Transformer-Based Neural Network for Autonomous Driving, IEEE International Conference on Robotics and Automation (ICRA), 2022, USA.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C41. H. Chen, W. Huang, C. Lv. A Hybrid Approach Combining LSTM Networks and Kinematic Rules for Vehicle Velocity Estimation. SAE Technical Paper, No. 2022-01-0157, 2022, USA.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C40. X. Mo, Y. Xing and C. Lv, Graph and Recurrent Neural Network-based Vehicle Trajectory Prediction For Highway Driving, IEEE International Intelligent Transportation Systems Conference (ITSC), Indianapolis, USA, 2021.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C37. J. Cai, P. Hang, C. Lv. Game Theoretic Modeling and Decision Making for Connected Vehicle Interactions at Urban Intersections, IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2021.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C36. P. Hang, C. Lv, C. Huang, Y. Xing, Z. Hu, J. Cai. Human-like Lane-change Decision Making for Automated Driving with a Game Theoretic Approach, 4th CAA International Conference on Vehicular Control and Intelligence (CVCI), 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C35. X. Mo, Y. Xing and C. Lv, "Interaction-Aware Trajectory Prediction of Connected Vehicles using CNN-LSTM Networks," IECON 2020 The 46th Annual Conference of the IEEE Industrial Electronics Society, Singapore, 2020, pp. 5057-5062.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C34. Anh-Tu Nguyen, Jagat Jyoti Rath, C. Lv, Thierry-Marie Guerra Human-Machine Shared Control for Semi-Autonomous Vehicles Using Level of Cooperativeness, IEEE International Conference on Systems, Man and Cybernetics (SMC), 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C33. Y Xing, C. Lv, Y. Liu, Y. Zhao, D. Cao, Continuous Driver Steering Intention Prediction Considering Neuromuscular Dynamics and Driving Postures, IEEE International Conference on Systems, Man and Cybernetics (SMC), 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C32. C Huang, P Hang, J Wu, A.T. Nguyen, C. Lv, Reference-Free Human-Automation Shared Control for Obstacle Avoidance of Automated Vehicles, IEEE International Conference on Systems, Man and Cybernetics (SMC), 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C31. Y Xing, Z Hu, Z Huang, C. Lv, D Cao, Efstathios Velenis, Multi-Scale Driver Behaivors Reasoning System for Intelligent Vehicles Based on a Joint Deep Learning Framework, IEEE International Conference on Systems, Man and Cybernetics (SMC), 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C30. X. Mo, Y. Xing, C. Lv. Interaction-Aware Trajectory Prediction of Connected Vehicles using CNN-LSTM Networks, 46th Annual Conference on IEEE Industrial Electronics Society, IECON 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C29. B. Liu, Z. Ding, C. Lv. Platoon Control of Connected Autonomous Vehicles: A Distributed Reinforcement Learning Method by Consensus, 21st IFAC World Congress, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C28. C. Huang, H. Huang, C. Lv. LMI-based Nonlinear State Observer for Vehicle Motion Tracking in Lane Change Manoeuvre, IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC), 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C27. Y Xing, C. Huang, C. Lv. Driver-automation collaboration for automated vehicles: a review of human-centered shared control, The 31st IEEE Intelligent Vehicles Symposium, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C26. Y Xing, C Huang, C Lv, Y Liu, H Wang, D Cao, A Personalized Deep Learning Approach for Trajectory Prediction of Connected Vehicles, SAE 2020World Congress, 2020-01-0759, USA, 2020.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C25. Hu Q., Guo G., Wang H., Tang M., Lv C., Cao D. How to Define the Passenger’s Hazard Perception Level by Combining Subjective and Objective Measures?. In: Stephanidis C. (eds) HCI International 2019 – Late Breaking Papers. HCII 2019. Lecture Notes in Computer Science, vol 11786. Springer, Cham.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C24. Y. Li, C. Lv, J. Xue. A Novel Predictive Haptic Control for Machine-to-Human Takeover of Automated Vehicles. The 30th IEEE Intelligent Vehicles Symposium, 2019.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C23. Q. Liu, Y Mo, X Mo, C. Lv, M. Ehsan, D. Wang. Secure Pose Estimation for Autonomous Vehicles under Cyber Attacks. The 30th IEEE Intelligent Vehicles Symposium, 2019.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C22. Yang, C., C. Lv, Shu, H., et al. Driving-Style-Oriented Multi-Objective Optimal Control of an Electric Vehicle. IFAC-PapersOnLine, 51(31), 274-278, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C21. Peng, X., Zhan, Z., C. Lv, et al. Estimation of Driver's Attention Level Based on Correlation Analysis of Movements. 10th International Conference on Intelligent Human-Machine Systems and Cybernetics, IEEE, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C20. C. Lv, H. Wang, et al. A Novel Control Framework of Haptic Take-Over System for Automated Vehicles. The 29th IEEE Intelligent Vehicles Symposium, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C19. B Zhao, C. Lv, T Hofman, M Steinbuch. Improved driving cycle synthesis for powertrain design and control. The 29th IEEE Intelligent Vehicles Symposium, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C17. B. Zhao, C. Lv, T. Hofman, M. Steinbuch, et al, Design Optimization of a transmission system for an electric vehicle considering dynamic regenerative braking efficiency, SAE 2018 World Congress, 2018-01-0819, USA, 2018.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C16. C. Lv, H Wang, et al. Characterisation of driver neuromuscular dynamics for haptic take-over system design for automated vehicles. 43rd Annual Conference on IEEE Industrial Electronics Society, IECON 2017.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C15. C.W. Lin, C. Lv, et al. Multi-Point Turn Decision Making Framework for Human-Like Automated Driving, 20th Int. Conf. on Intelligent Transportation Systems, ITSC 2017.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C14. M Holland, C. Lv, D. Cao, Virtual Test Design and Automated Analysis of Lane Keeping Assistance Systems in Accordance with Euro NCAP Test Protocols. SAE 2017 World Congress, No. 2017-01-0429, USA, 2017.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C13. Y Xing, C. Lv, Dongpu Cao, Recognizing driver braking intention with vehicle data using unsupervised learning methods, SAE 2017 World Congress, No. 2017-01-0433, Detroit, USA, 2017.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C11. H Wang, Y Huang, A Khajepour, H He, C. Lv. MPC-based power management strategy for a series hybrid electric tracked bulldozer, IEEE International Conference on Industrial Technology, 2017, Toronto, Canada.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C10. C. Lv, J Zhang, A Sangiovanni-Vincentelli, et al., Design optimization of the control system for the powertrain of an electric vehicle: A Cyber-Physical System Approach, IEEE International Conference on Mechatronics and Automation, 2015, Beijing, China.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C9. J Zhang, A Bertaux, C. Lv, Yutong Li, New compact EHBS, increasing regenerative efficiency at low vehicle speed, IEEE International Conference on Mechatronics and Automation, 2015, Beijing, China.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C8. J Zhang, Y Yuan, C. Lv, Modeling and analysis of regenerative braking system for electric vehicle based on AMESim, IEEE International Conference on Mechatronics and Automation, 2015, Beijing, China.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C7. Z Zhang, J Zhang, C. Lv, Research on control strategy of electric-hydraulic hybrid anti-lock braking system of an electric passenger car, IEEE Intelligent Vehicles Symposium, 2015, Seoul, Korea.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C4. Y Li, J Zhang, C. Lv, Research of regenerative braking system for electrified buses equipped with a brake resistor, IEEE Vehicle Power and Propulsion Conference, 2013, Beijing.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C2. X Yue, J Zhang, C. Lv, et al., Computational simulation on VSC based on PID coordinated control algorithm and differential brake, IEEE Vehicle Power and Propulsion Conference, 2012, Seoul, Korea.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
+
+1. C1. C. Lv, J Zhang, Research of parameter design and matching of powertrain system in plug-in hybrid electric vehicle, IEEE Int. Conference on Electric Information and Control Engineering, 2011, 2490-2493.
+
+    게시 페이지: <https://lvchen.wixsite.com/automan/publications>
 
 ## Nanyang Technological University — Marcos
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 4건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Marcos/selectedpublications>
+
+1. Articles (Journal) Articles (Journal) Pei Yen Tan, Marcos, Yu Liu. (2020). Modelling bacterial chemotaxis for indirectly binding attractants. Journal of Theoretical Biology, 487, 110120.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Marcos/selectedpublications>
+
+1. Jiyu Li, Ya Liu, Jifeng Ren, Benjamin Zikai Tay, Tao Luo, Lei Fan, Dong Sun, Guannan Luo, Denvid Lau, Marcos and Raymond H. W. Lam. (2020). Antibody-coated microstructures for selective isolation of immune cells in blood. Lab on a Chip, 20(6), 1072-1082.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Marcos/selectedpublications>
+
+1. Koh JBY, Shen X, Marcos. (2018). Supervised Learning to Predict Sperm Sorting by Magnetophoresis. Magnetochemistry, 4, 31.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Marcos/selectedpublications>
+
+1. Tian Fook Kong, Xinhui Shen, Marcos and Chun Yang. (2017). Lab-on-chip microfluidic impedance measurement for laminar flow ratio sensing and differential conductivity difference detection. Applied Physics Letters, 110(23), 233501.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Marcos/selectedpublications>
 
 ## Nanyang Technological University — Marvin Carl May
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:52:05.939Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위:  / Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://dr.ntu.edu.sg/entities/person/Marvin-Carl-May>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
+
+출처: <https://dr.ntu.edu.sg/entities/person/Marvin-Carl-May/selectedpublications>
 
 ## Nanyang Technological University — Mir Feroskhan
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 5건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications>
+
+1. Articles (Journal) Articles (Journal) Ajanic E, Feroskhan M, Mintchev S, Noca F, Floreano D. (2020). Bioinspired wing and tail morphing extends drone flight capabilities. Science Robotics.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications>
+
+1. Kornatowski PM, Feroskhan M, Stewart WJ, Floreano D. (2020). Downside Up:Rethinking Parcel Position for Aerial Delivery. IEEE Robotics and Automation Letters.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications>
+
+1. Kornatowski PM, Feroskhan M, Stewart WJ, Floreano D. (2020). A Morphing Cargo Drone for Safe Flight in Proximity of Humans. IEEE Robotics and Automation Letters.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications>
+
+1. Huang, Y., Zhu, M., Zheng, Z. and Feroskhan, M. (2019). Fixed-time Autonomous Shipboard Landing Control of a Helicopter with External Disturbances. Aerospace Science and Technology, 1-13.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications>
+
+1. Feroskhan, M., Go, T. H. (2018). Performance of Sideslip Perching Maneuver with an Adaptive Gain Control Feature. Aerospace Science and Technology, 78, 648-660.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mir-Feroskhan/selectedpublications>
 
 ## Nanyang Technological University — Mohamed Arif
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 6건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications>
+
+1. Conference Papers Articles (Journal) Mohamed Arif Mohamed, David Wood, and Bing Feng Ng. Adding a simple production term to Reynolds-averaged Navier–Stokes turbulence models for flows over two-dimensional hills. Physics of Fluids, 35(6), 06 2023. 065135.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications>
+
+1. Mohamed A Mohamed, Tze How New, and Bing Feng Ng. Modelling of fire-suppressant injection into engine nacelle for various flight regimes. Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, 2023;237(13):3111-3125., 2023.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications>
+
+1. A Cheawchan, MA Mohamed, BF Ng, and TH New. Flow structures of wishbone vortex generators and their interactions with a backward-facing ramp. Journal of Aerospace Engineering, 36(1):04022120, 2023.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications>
+
+1. MA Mohamed, M Sherry, P du Plessix, DH Wood, and RJ Martinuzzi. Measurements to assess simple rans model behaviour instagnating flow. International Journal of Heat and Fluid Flow, 70:226–236, 2018.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications>
+
+1. MA Mohamed and DH Wood. Modifications to Reynolds-Averaged Navier–Stokes turbulence models for the wind flow over buildings. International Journal of Sustainable Energy, 36(3):225–241, 2017.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications>
+
+1. A Cheawchan, MA Mohamed, BF Ng, and TH New. A numerical investigation on flow past skewed vortex generators ahead of a backward facing ramp. Aerospace Science and Technology, page 107435, 2022
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Mohamed-Arif-Mohamed/selectedpublications>
 
 ## Nanyang Technological University — Moon Seung Ki
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 5건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Moon-Seung-Ki/selectedpublications>
+
+1. Zhang, H., Choi, J.P., Moon, S.K., and Ngo, T.H. (2020). A hybrid multi-objective optimization of aerosol jet printing process via response surface methodology. Additive Manufacturing, 33(May), 101096.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Moon-Seung-Ki/selectedpublications>
+
+1. Sacco, E. and Moon, S.K. (2019). Additive Manufacturing for Space: Status and Promise. International Journal of Advanced Manufacturing Technology, 105(10), 4123-4146.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Moon-Seung-Ki/selectedpublications>
+
+1. Zhang, H., Moon, S.K., and Ngo, T.H. (2019). Hybrid Machine Learning Method to Determine the Optimal Process Operating Window in Aerosol Jet 3D Printing. ACS Applied Materials and Interfaces, 11(19), 17994-18003.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Moon-Seung-Ki/selectedpublications>
+
+1. Kim, S. and Moon, S.K. (2019). Eco-Modular Product Architecture Identification and Assessment for Product Recovery. Journal of Intelligent Manufacturing, 30(1), 383-403.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Moon-Seung-Ki/selectedpublications>
+
+1. Yao, X., Moon, S.K., and Bi, G. (2017). A Hybrid Machine Learning Approach for Additive Manufacturing Design Feature Recommendation. Rapid Prototyping Journal, 23(6), 983-997.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Moon-Seung-Ki/selectedpublications>
 
 ## Nanyang Technological University — Cai Yiyu
 
@@ -1993,99 +3461,405 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00135>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — New Tze How, Daniel
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 22건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Other Research Outputs/Projects Articles (Journal) Song Yanqiao, Xu Bowen and New T.H. (2026) Dynamics of a free rectangular vortex ring generated by an impulsively-driven piston, Journal of Fluid Mechanics, Accepted
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. New T.H., You R.G.Y. and Chan W.L. (2026) Supersonic starting-jet impingements on surface-mounted hemispheres, Physics of Fluids, Vol. 38, No. 2, 026117
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Xu Bowen and New T.H. (2025) Collisions between elliptic vortex rings and inclined walls at key axis-switching stages, Physics of Fluids, Vol. 37, No. 8, 084114
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Lim H.D., Zang B., Ding Junfei, Shi Shengxian, and New T.H. (2025) On the formation of side jets from V-notched nozzle jets under strong forcing, Physical Review Fluids, Vol. 10, 034701
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. New T.H., You R.G.Y. and Chan W.L. (2025) Supersonic starting jet impingements upon hemispherical concavities, Physics of Fluids, Vol. 37, No. 3, 036104
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Xu Bowen and New T.H. (2025) Collisions of elliptic vortex rings upon flat walls, Journal of Fluid Mechanics, Vol. 1011, A19
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. New T.H., Xu Bowen and Shi Shengxian (2024) Collisions of vortex rings upon hemispheres. Journal of Fluid Mechanics, Vol. 980, A17.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Xu Bowen and New T.H. (2024) Coaxial and non-coaxial collisions between vortex rings and stationary spheres, Physics of Fluids, Vol. 36, No. 11, 114112
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. New T.H., Xu Bowen and Shi Shengxian (2024) Transient skin friction behaviour associated with vortex ring impinging upon hemispheres. Physics of Fluids, Vol. 36, No. 5, 054101
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. New T.H., Yeo K.W.B., Koh J.Y. and Long J. (2024) Flow transitions of vortex rings colliding head-on with contaminated air-water interfaces, Physics of Fluids, Vol. 36, No. 1, 014112
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Cheawchan A., Mohamed M.A., Ng B.F. and New T.H. (2022) A numerical investigation on flow past skewed vortex generators ahead of a backward facing ramp, Aerospace Science and Technology, Vol. 123, 107435
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. New T.H., Gotama G.J. and U S Vevek (2021) A large-eddy simulation study on vortex-ring collision upon round cylinders. Physics of Fluids, Vol. 33, No. 9, 094101
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. New T.H., Long J., Zang B. and Shi Shengxian (2020) Collisions of vortex-rings upon V-walls. Journal of Fluid Mechanics, Vol. 899, A2
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Lim H.D., New T.H., Mariani R. and Cui Y.D. (2019) Effects of bevelled nozzles on standoff shocks in supersonic impinging jets, Aerospace Science and Technology, Vol. 94, 105371
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Wei X.F., Mariani R., Chua L.P., Lim H.D., Lu Z.B. and New T.H. (2019) Mitigation of under-expanded supersonic jet noise through stepped nozzles, Journal of Sound and Vibration, Vol. 459, 114875
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. U S Vevek, Zang B. and New T.H. (2019) Adaptive mapping for high order WENO methods, Journal of Computational Physics, Vol. 381, pp. 162-188
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. New T.H. and Zang B. (2017) Head-on collisions of vortex-rings upon round cylinders. Journal of Fluid Mechanics, Vol. 833, pp. 648-676
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Zang B. and New T.H. (2017) Near-field dynamics of parallel jets in cross-flow, Physics of Fluids, Vol. 29, 035103
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Wu Jie and New T.H. (2017) An investigation on supersonic bevelled nozzle jets, Aerospace Science and Technology, Vol. 63, pp. 278-293
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Long J. and New T.H. (2016) Vortex dynamics and wall shear stress behaviour associated with an elliptic jet impinging upon a flat plate, Experiments in Fluids, Vol. 57, 121
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. New T.H., Shi S. and Zang B. (2016) Some observations on vortex-ring collisions upon inclined surface, Experiments in Fluids, Vol. 57, 109
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
+
+1. Ng B.F., New T.H. and Palacios R. (2016) Effects of leading-edge tubercles on wing flutter speeds, Bioinspiration & Biomimetics, Vol. 11, 036003
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/New-Tze-How-Daniel/selectedpublications>
 
 ## Nanyang Technological University — Ng Bing Feng​
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp01026?ST_EMAILID=BINGFENG>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Ng Teng Yong
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00106?ST_EMAILID=mtyng>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Ng Yin Kwee, Eddie
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://journals.sagepub.com/page/tct/collections/call-for-papers/biomedical-advances-in-cancer-detection-diagnosis-treatment>
 
 ## Nanyang Technological University — Ooi Kim Tiow
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 18건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Tong, B. Y., Wong, T. N., & Ooi, K. T. (2001). Closed-loop pulsating heat pipe. Applied Thermal Engineering, 21(18), 1845-1862.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Xu, B., Ooti, K. T., Wong, N. T., & Choi, W. K. (2000). Experimental investigation of flow friction for liquid flow in microchannels. International Communications in Heat and Mass Transfer, 27(8), 1165-1176.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Gao, Y., Wong, T. N., Yang, C., & Ooi, K. T. (2005). Two-fluid electroosmotic flow in microchannels. Journal of Colloid and Interface Science, 284(1), 306-314.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Chong, S. H., Ooi, K. T., & Wong, T. N. (2002). Optimisation of single and double layer counter flow microchannel heat sinks. Applied Thermal Engineering, 22(14), 1569-1585.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Xu, B., Ooi, K. T., Mavriplis, C., & Zaghloul, M. E. (2002). Evaluation of viscous dissipation in liquid flow in microchannels. Journal of Micromechanics and Microengineering, 13(1), 53-57.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Das, R., & Ooi, K. T. (2013). Predicting multiple combination of parameters for designing a porous fin subjected to a given temperature requirement. Energy Conversion and Management, 66, 211-219.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Ooi, K. T., & Wong, T. N. (1997). A computer simulation of a rotary compressor for household refrigerators. Applied Thermal Engineering, 17(1), 65-78.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Gao, Y., Wong, T. N., Yang, C., & Ooi, K. T. (2005). Transient two-liquid electroosmotic flow with electric charges at the interface. Colloids and Surfaces A: Physicochemical and Engineering Aspects, 266(1-3), 117-128.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Ooi, K. T. (2005). Design optimization of a rolling piston compressor for refrigerators. Applied Thermal Engineering, 25(5-6), 813-829.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Teh, Y. L., & Ooi, K. T. (2009). Theoretical study of a novel refrigeration compressor–Part I: Design of the revolving vane (RV) compressor and its frictional losses. International Journal of Refrigeration, 32(5), 1092-1102.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Shao, H., Xu, Z., Liang, Z., Zhao, Q., Ooi, K. T., & Wang, Y. (2022). Numerical investigation on the thermal-hydraulic performance of separated structure steam generator with different tube arrangements. Annals of Nuclear Energy, 171, 109034.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Choo, W. C., & Ooi, K. T. (2022). Analysis of the novel multi-vane Revolving Vane compressor–Investigation of vane chattering phenomenon through instantaneous working chamber pressure measurements. International Journal of Refrigeration, 134, 207-218.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Heng, K. R., Ooi, K. T., & Chan, W. K. (2022). Experimental study of an oil-free swing vane compressor. International Journal of Refrigeration, 134, 95-104.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Choo, W. C., & Ooi, K. T. (2021). Analysis of the novel multi-vane Revolving Vane compressor–Theoretical modelling and experimental investigations. International Journal of Refrigeration, 131, 592-603.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Aw, K. T., & Ooi, K. T. (2021). Leakage study of a lubricant-free revolving vane compressor. International Journal of Refrigeration, 124, 122-133.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Pradeep Shakya and Kim Tiow Ooi. (2020). Introduction to Coupled Vane compressor: mathematical modelling with validation (https://doi.org/10.1016/j.ijrefrig.2020.01.027). International Journal of Refrigeration, 117, 23-32.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Zi Hao Foo, Kai Xian Cheng, AikLing Goh, KimTiow Ooi. (2018). Single-phase convective heat transfer performance of wavy microchannels in macro geometry. Applied Thermal Engineering, 141, 675-687.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
+
+1. Chong, WH (Chong, Wen Han); Huang, Y (Huang, Yi); Wong, TN (Wong, Teck Neng); Ooi, KT (Ooi, Kim Tiow); Zhu, GP (Zhu, Gui-Ping). (2018). Magnetic Nanorobots, Generating Vortexes Inside Nanoliter Droplets for Effective Mixing. Advanced Materials Technologies, 3(4), 1700312.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ooi-Kim-Tiow/selectedpublications>
 
 ## Nanyang Technological University — Pang Hock Lye, John
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 2건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Pang-Hock-Lye-John/selectedpublications>
+
+1. Z Zhang, NSK Ho, Y Zhou, JHL Pang*. Fatigue life prediction of additive manufactured IN718 via physics-guided machine learning framework. Materials Letters, 140604 Z Wu, Y Zhou, NSK Ho, T Liu, JHL Pang*. Influence of part placement on defect distribution and fatigue failure mechanism in laser powder bed fused 316 L stainless steel. Materials Letters, 140105 NSK Ho, I Pivdiablyk, R Shandro, R Hauteville, S Brzuchacz, JHL Pang*. Fatigue qualification analysis of a wire arc additively manufactured block and pressure vessel using ER70S-6 wire feedstock material. The The International Journal of Advanced Manufacturing Technology (2025) 141:6347–6370
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Pang-Hock-Lye-John/selectedpublications>
+
+1. J Wang, NA Subramaniam, EZE Tan, JHL Pang*. High-speed laser metal deposited tungsten carbide-Inconel 625 coating with refined microstructure and enhanced wear for high temperature performance. The International Journal of Advanced Manufacturing Technology (2025) 140:6807–6827
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Pang-Hock-Lye-John/selectedpublications>
 
 ## Nanyang Technological University — Paulo Jorge Da Silva Bartolo
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 20건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Recent and selected publications: Silva, E.P., Huang, B., Helaehil, J.V., Nalesso, P.R., Bagne, L., Oliveira, M.A., Albiazetti, G.C., Aldalbahi, A., Mendonça, F.A., Bartolo, P.J. – “In-vivo study of conductive 3D printed PCL/MWCNTs scaffolds with electrical stimulation for bone tissue engineering”, Bio-Design and Manufacturing, 4, 190, 2021
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Wang, W, Chen, J.X., Hou, Y., Bartolo, P.J., Chiang, W.H. – “Investigations of graphene and nitrogen-doped graphene enhanced polycaprolactone 3D scaffolds for bone tissue engineering”, Nanomaterials, 11, 929, 2021
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Hou, Y., Wang, W., Bartolo, P.J. – “A concise review on the role of selenium for bone cancer applications”, Bone, 149, 115974, 2021
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Ding, J., Zou, Q., Qu, S., Bartolo, P., Song, X., Wang, C.L. – “STL-free design and manufacturing paradigm for high-precision powder bed fusion”, CIRP Annals Manufacturing Technology, 70, 167, 2021
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Vyas, C., Zhang, J., Ovrebo, O., Huang, B., Roberts, I., Setty, M., Allardyce, B., Haugen, H., Rajkhowa, R., Bartolo, P.J. – “3D printing of silk microparticle reinforced polycaprolactone scaffolds for tissue engineering applications”, Materials Science and Engineering C, 118, 111433, 2021
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Tao, Y., Hinduja, S., Heinemann, R., Gomes, A., Bartolo, PJ. – “A study of physico-mechanical properties of hollow glass bubble, jute fibre and rubber powder reinforced polypropylene compounds with and without MuCell technology for lightweight applications”, Polymers, 12, 2664, 2020
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Daskalakis, E., Liu, F., Huang, B., Acar, A.A., Cooper, G., Weightman, A., Blunn, G., Koç, B., Bartolo, P.J. – “Investigating the influence of architecture and material composition of 3D printed anatomical design scaffolds for large bone defects”, International Journal of Bioprinting, 7, 44, 2021
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Pereira, R., Lourenço, B.N., Bartolo, P.J., Granja, P.L. – “Bioprinting a multifuctional bioink to engineer clickable 3D cellular niches with tunable matrix microenvironment cues”, Advanced Healthcare Materials, 10, 2001176, 2021
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Zhu, M., Lu, D., Lian, Q., Wu, S., Wang, W., Lyon, L.A., Wang, W., Bartolo, P., Dickinson, M., Saunders, B.R. – “Highly swelling pH-responsive microgels for dual mode near infra-red fluorescence reporting and imaging”, Nanoscale Advances, 2, 4261, 2020
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Lu, Z., Wang, W., Zhang, J., Bartolo, P.J., Gong, H., Li, J. – “Electrospun Poly(L-lactic acid)-Dopamine-SiO2 fibrous membrane for bone regeneration”, Materials Science and Engineering C, 117, 111359, 2020
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Huang, B., Aslan, E., Vyas, C., Jiang, Z., Daskalakis, E., Jiao, M., Aldalbahi, A., Bartolo, P.J. – “Engineered dual-scale poly(-caprolactone) scaffolds using 3D printing and rotational electrospinning for bone tissue engineering”, Additive Manufacturing, 36, 101452, 2020
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Craveiro, F., Nazarian, S., Bartolo, H., Bartolo, P.J., Duarte, J.P. – “An automated system for 3D printing functionally graded concrete-based materials”, Additive Manufacturing, 33, 101146, 2020
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Hou, Y., Wang, Bartolo, P.J. – “Investigating the effect of carbon nanomaterials reinforcing poly(e-caprolactone) scaffolds for bone repair applications”, International Journal of Bioprinting, 6, 206, 2020
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Huang, B., Vyas, C., Byun, J.J., El-Newehy, M., Huang, Z., Bartolo, P.J. – “Aligned multi-walled carbon nanotubes and nanohydroxyapatite in 3D printed polycaprolactone scaffold stimulates osteogenic differentiation”, Materials Science and Engineering C, 108, 110374, 2020
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Zhu, M., Lu, D., Wu, S., Lian, Q., Wang, W., Lyon, A., Wang, W., Bartolo, P.J., Saunders, B.R. – “Using green emitting pH-responsive nanogels to report environmental changes within hydrogels: a nanoprobe for versatile sensing”, Nanoscale, 11, 11383, 2019
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Liu, F., Mishbak, H., Bartolo, P.J. – “Hybrid polycaprolactone/hydrogel scaffold fabrication and in-process plasma treatment using PABS”, International Journal of Bioprinting, 5, 1, 2019
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Wang, W., Passarini, J.R., Nalesso, P.R., Musson, D., Cornish, J., Mendonça, F., Caetano, G., Bartolo, P.J. – “Engineered 3D printed poly(e-caprolactone)/graphene scaffolds for bone tissue engineering, Materials Science and Engineering C, 100, 759, 2019
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Craveiro, F., Duarte, J., Bartolo, H., Bartolo, P.J. – “Review on additive manufacturing as an enabling technology for digital construction: a perspective on Construction 4.0”, Automation in Construction, 103, 251, 2019
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Huang, B., Vyas, C., Roberts, I., Poutrel, Q.A., Chiang, W.H., Blaker, J.J., Huang, Z., Bartolo, P. – “Fabrication and characterisation of 3D printed MWCNT composite porous scaffolds for bone regeneration”, Materials Science and Engineering C, 98, 266, 2019
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
+
+1. Pereira, R.F., Sousa, A., Barrias, C.C., Bartolo, P.J., Granja, P.L. – “A single-component hydrogel bioink for bioprinting of bioengineered 3D constructs for dermal tissue engineering”, Materials Horizons, 5, 1100, 2018
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Paulo-Jorge-Da-Silva-Bartolo/selectedpublications>
 
 ## Nanyang Technological University — Phee Soo Jay, Louis
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00081>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Punit Kumar
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 12건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:52:54.149Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위:  / Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. P. Kumar, D. Cook, W. Wang, P. Borges, A. M. Minor, M. Asta, R. O. Ritchie*, “Fracture behavior of high-entropy alloys: Resistance to fracture from strain hardening and softening,” Matter, 8-4 (2025), DOI: https://doi.org/10.1016/j.matt.2025.102042.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. D. H. Cook#, P. Kumar#, C. H. Belcher, M. Payne, P. Borges, W. Wang, F. Walsh, A. Devaraj, M. Zhang, M. Asta, A. M. Minor, D. Apelian, E. J. Lavernia, R. O. Ritchie, “Kink bands promote exceptional fracture resistance in a NbTaTiHf refractory medium-entropy alloy,” Science 384, 178–184 (2024). DOI: https://www.science.org/doi/10.1126/science.adn2428.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. P. Kumar, H. Sheng, D. H. Cook, K. Chen, U. Ramamurty, X. Tan, R. O. Ritchie*, “A strong fracture-resistant high-entropy alloy with nano-bridged honeycomb microstructure: A critical role of 3D printing in promoting strength without compromising toughness,” Nature Communications 15(1) (2024), 841. DOI: https://doi.org/10.1038/s41467-024-45178-2.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. P. Kumar, M. Michalek, D. H. Cook, H. Sheng, K. B. Lau, P. Wang, M. Zhang, A. M. Minor, U. Ramamurty, R. O. Ritchie*, “On the strength and fracture toughness of an additive manufactured CrCoNi medium-entropy alloy,” Acta Materialia 258 (2023), 119249. DOI: https://doi.org/10.1016/j.actamat.2023.119249.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. P. Kumar, X. Gou, D. H. Cook, N. J. Morrison, M. I. Payne, W. Wang, M. Zhang, M. Asta, A. M. Minor, R. Cao, Y. Li, R. O. Ritchie*, “Degradation of the mechanical properties of NbMoTaW refractory high-entropy alloy in tension,” Acta Materialia, 279, 120297 (2024). DOI: https://doi.org/10.1016/j.actamat.2024.120297.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. P. Kumar, S. J. Kim, Q. Yu, J. Ell, M. Zhang, Y. Yang, J. Y. Kim, H. Park, A. M. Minor, E. S. Park, R. O. Ritchie*, “Compressive vs. tensile yield and fracture toughness behavior of a body-centered cubic refractory high-entropy superalloy Al0.5Nb1.25Ta1.25TiZr at temperatures from ambient to 1200°C,” Acta Materialia 245 (2023), 118620. DOI: https://doi.org/10.1016/j.actamat.2022.118620.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. X. Xu#, P. Kumar#, R. Cao, Q. Ye, Y. Chu, Y. Tian, Y. Li*, R. O. Ritchie*, “Exceptional cryogenic-to-ambient impact toughness of a low carbon micro-alloyed steel with a multi-heterogeneous structure,” Acta Materialia 274, 120019 (2024). DOI: https://doi.org/10.1016/j.actamat.2024.120019.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. S Huang*, P. Kumar, W. Y. Yeong, R. L. Narayan, U. Ramamurty, “Fracture Behavior of Laser Powder Bed Fusion Fabricated Ti41Nb via In-situ Alloying,” Acta Materialia, vol. 225 (2021) 117593. DOI: https://doi.org/10.1016/j.actamat.2021.117593.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. T.H. Becker, P. Kumar, U. Ramamurty*, “Fracture and fatigue in additively manufactured metals,” Acta Materialia, vol. 219 (2021) 117240. DOI: https://doi.org/10.1016/j.actamat.2021.117240.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. P. Kumar, R. Jayaraj, J. Suryawanshi, U.R. Satwik, J. McKinnell, U. Ramamurty*, “Fatigue strength of additively manufactured 316L austenitic stainless steel,” Acta Materialia (2020), vol. 199 (2020) 225-239. DOI: https://doi.org/10.1016/j.actamat.2020.08.033.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. P. Kumar, U. Ramamurty*, “Microstructural optimization through heat treatment for enhancing the fracture toughness and fatigue crack growth resistance of selective laser melted Ti–6Al–4V alloy,” Acta Materialia, vol. 169 (2019) 45–59. DOI: https://doi.org/10.1016/j.actamat.2019.03.003
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+1. P. Kumar, O. Prakash, U. Ramamurty*, “Micro-and meso-structures and their influence on mechanical properties of selectively laser melted Ti-6Al-4V,” Acta Materialia, vol. 154 (2018) 246–260. DOI: https://doi.org/10.1016/j.actamat.2018.05.044.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
 
 ## Nanyang Technological University — Chai Gin Boay
 
@@ -2099,207 +3873,331 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00150>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Sameer Alam
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00160?ST_EMAILID=sameeralam>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Seah Leong Keey
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00717>
+
+출처: <https://dr.ntu.edu.sg/entities/person/Seah-Leong-Keey/selectedpublications>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Sellakkutti Rajendran
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp01043?ST_EMAILID=msrajendran>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Shen Xinhui
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp02188>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Shu Dong Wei, David
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00949?ST_EMAILID=mdshu>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Shu Jian Jun
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00895>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Song Binyang
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:53:33.312Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위:  / Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://dr.ntu.edu.sg/entities/person/Binyang-Song/selectedpublications>
+
+1. Binyang Song, Chenyang Yuan, Frank Permenter, Nikos Arechiga, Faez Ahmed. Data-driven Car Drag Coefficient Prediction with Depth and Normal Renderings. Journal of Mechanical Design. Kristen Edwards, Binyang Song (Co-first), Jaron Porciello, Mark Engelbert, Carolyn Huang, Faez Ahmed. ADVISE: AI-accelerated Design of Evidence Synthesis for Global Development. Journal of Mechanical Design. Binyang Song, Rui Zhou, Faez Ahmed. Multi-modal Learning in Engineering Design: a Review and Future Directions. Journal of Computing and Information Science in Engineering, 2023.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Binyang-Song/selectedpublications>
+
+1. Binyang Song, Scarlett Miller, Faez Ahmed. AEML: Attention-Enhanced Multimodal Learning for Conceptual Design Evaluation. Journal of Mechanical Design. Journal of Mechanical Design, 145(4) (2023): 0414105.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Binyang-Song/selectedpublications>
+
+1. Binyang Song, Joshua Gyory, Guanglu Zhang, Gary Stump, Nicolas Soria Zurita, Corey Balon, Simon Miller, Michael Yukish, Jonathan Cagan^, Christopher McComb^. Decoding the Agility of Human-Artificial Intelligence Hybrid Teams on Complex Problem Solving. Design Studies, 79(3) (2022).
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Binyang-Song/selectedpublications>
+
+1. Shuo Jiang, Serhad Sarica, Binyang Song, Jie Hu, Jianxi Luo. Patent Data for Engineering Design: A Critical Review and Future Directions. Journal of Computing and Information Science in Engineering. 22(6) (2022).
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Binyang-Song/selectedpublications>
+
+1. Binyang Song, Nicolas Soria Zurita, Hannah Nolte*, Harshika Singh, Jonathan Cagan, Christopher McComb. When Faced with Increasing Complexity: The Effectiveness of AI Assistance for Drone Design. Journal of Mechanical Design, 144(2) (2021): 021701.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Binyang-Song/selectedpublications>
+
+1. Serhad Sarica, Binyang Song, Jianxi Luo, Kristin Wood. Idea Generation with Technology Semantic Network. Artificial Intelligence for Engineering Design, Analysis and Manufacturing (AIEDAM), 35(3) (2021): pp265-283.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Binyang-Song/selectedpublications>
+
+1. Guanglu Zhang, Nicolas Soria Zurita, Gary Stump, Binyang Song, Jonathan Cagan, and Christopher McComb^, 2021. Data on the design and operation of drones by both individuals and teams. Data in Brief, 36, p.107008.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Binyang-Song/selectedpublications>
+
+1. Binyang Song, Bowen Yan, Giorgio Triulzi, Jeffrey Alstott, Jianxi Luo. Overlay Technology Space Map for Analyzing Design Knowledge Base of a Technology Domain: The Case of Hybrid Electric Vehicles. Research in Engineering Design, 30 (2019), pp405-423.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Binyang-Song/selectedpublications>
+
+1. Binyang Song, Jianxi Luo, Kristin Wood. Data-Driven Function Network Analysis for Product Platform Planning: a Case Study of Spherical Rolling Robots. Journal of Mechanical Design, 141(2) (2019): 021101.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Binyang-Song/selectedpublications>
 
 ## Nanyang Technological University — Sridhar Idapalapati
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp01087>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Su Pei-Chen
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 4건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Su-Pei-Chen/selectedpublications>
+
+1. Articles (Journal) Articles (Journal) Jong Dae Baek, Chen-Chiang Yu, and Pei-Chen Su*. (2016). Mechanically Reinforced Silicon Nano Thin Film Array for Low Temperature Solid Oxide Fuel Cells. Nano Letters, .
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Su-Pei-Chen/selectedpublications>
+
+1. Jong Dae Baek, Yongjin Yoon, Wonyoung Lee, and Pei-Chen Su*. (2015). Circular Membrane for Nano Thin Film Micro Solid Oxide Fuel Cells with Enhanced Mechanical Stability. Energy & Environmental Science, 8, 3374 (IF=20.523).
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Su-Pei-Chen/selectedpublications>
+
+1. Kang-Yu Liu, Liangdong Fan, Chen-Chiang Yu, Pei-Chen Su*. (2015). Thermal stability and performance enhancement of nano-porous platinum cathode in solid oxide fuel cells by nanoscale ZrO2 capping. Electrochemistry Communications, 56, 65–69 (IF=4.847).
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Su-Pei-Chen/selectedpublications>
+
+1. Chen-Chiang Yu, Sanwi Kim, Jong Dae Baek, Yong Li, Pei-Chen Su*, and Taek-Soo Kim*. (2015). Direct Observation of Nanoscale Pt Electrode Agglomeration at the Triple Phase Boundary. ACS Applied Materials and Interfaces, 7(11), 6036 (IF= 6.723).
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Su-Pei-Chen/selectedpublications>
 
 ## Nanyang Technological University — Chan Siew Hwa
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:54:36.717Z
-
-수집 범위:  / Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported. / Actual HCSREL expert page and Publications route traversed. It is a broad sustainability lab; no Chan-specific list established and no aggregator/repository records imported. PI-specific hydrogen/fuel-cell group publication discovery remains needed. / 
-
-출처: <https://hcsrel.com/publications>
-
-## Nanyang Technological University — Sunil Chandrakant Joshi
-
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
-
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://hcsrel.com>
+
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00804>
+
+출처: <https://hcsrel.com/publications>
+
+출처: <https://dr.ntu.edu.sg/entities/person/Chan-Siew-Hwa>
+
+## Nanyang Technological University — Sunil Chandrakant Joshi
+
+ · 논문·원고 5건 · 기타 성과 0건 · 상태: partial
+
+확인일: 2026-11-15T07:07:46.309678+00:00
+
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications>
+
+1. Joshi S.C., S.K. Bhudolia. (2014). Microwave–thermal technique for energy and time efficient curing of carbon fiber reinforced polymer prepreg composites. Journal of Composite Materials, 48, 3035-3048.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications>
+
+1. Joshi, S.C., Chen, X. (2011). Time-Variant Simulation of Multi-Material Thermal Pultrusion. Applied Composite Materials, in press(in press), 1-14.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications>
+
+1. Ali M., Joshi S.C.,. (2011). Impact Damage Resistance of CFRP Prepreg Laminates with Dispersed CSP Particles into Ply Interfaces. International Journal of Damage Mechanics, online(before print).
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications>
+
+1. Joshi Sunil C., Dikshit V. (2011). Enhancing Interlaminar Fracture Characteristics of Woven CFRP prepreg Composites through CNT dispersion. Journal of Composite Materials, 46, 665-675.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications>
+
+1. Jin Zhanli, Sunil Chandrakant Joshi, Nesamani Gilbert Justin Jose, Chan Poh Keong, Ying Teck Mun, Paul, Goh Cher Hiang. (2010). Data Analysis and Correlation for Thermal Balance Test on a Micro-Satellite Model. Heat Transfer Engineering, 31(3), 222-233.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications>
 
 ## Nanyang Technological University — Tai Kang
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp01104>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Tan Ming Jen
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00696>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Tay Yiwei, Daniel
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/entities/person/Yi-Wei-Daniel-Tay>
+
+출처: <https://dr.ntu.edu.sg/entities/person/Yi-Wei-Daniel-Tay/selectedpublications>
+
+출처: <https://dr.ntu.edu.sg/>
 
 ## Nanyang Technological University — Tran Anh Tuan
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:54:13.074Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위:  / Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00438>
+
+출처: <https://dr.ntu.edu.sg/entities/person/Tuan-TRAN>
+
+출처: <https://www.ctfluids.com>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Upadrasta Ramamurty
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00754?ST_EMAILID=uram>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Vidya Badrinarayanan
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp02487>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Wan Man Pun
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00637>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Wang Yifan
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp01291>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Wong Teck Neng
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00661>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Chen Chun-Hsien
 
@@ -2313,99 +4211,187 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp01079>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Xiao Zhongmin
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00819>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Xie Ming
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00965>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Xue Nan
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 17건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:54:53.402Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위:  / Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+
+출처: <https://xlift.org/papers>
+
+1. 17. N. Xue, L. A. Wilen, R. W. Style, E. R. Dufresne, Droplets sliding on soft solids shed elastocapillary rails, Soft Matter, 2025.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 16. A. Słowińska*, N. Xue*, L. Liu*, J. K. Nunes, P. Sznajder, H. A. Stone, M. Ekiel-Jeżewska, Highly elastic fibers in a shear flow can form double helices, New Journal of Physics, 2024. (*equal contribution)
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 15. N. Xue, R. Long, E. R. Dufresne, R. W. Style, Elastomers fail from the edge, Physical Review X, 2024.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 14. S. Sun, N. Xue, S. Aime, H. Kim, J. Tang, G. H. McKinley, H. A. Stone, and D. A. Weitz, Anomalous crystalline ordering of particles in a viscoelastic fluid under high shear, Proceedings of the National Academy of Sciences, 2023.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 13. P. R. Kaneelil, A. A. Pahlavan, N. Xue, and H. A. Stone, Three-dimensional self-similarity of coalescing viscous drops in the thin-film regime, Physical Review Letters, 2022.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 12. A. Słowińska, N. Xue, P. Sznajder, J. K. Nunes, H. A. Stone, M. Ekiel-Jeżewska, Short-time 3D dynamics of flexible fibers in shear flow, New Journal of Physics, 2022.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 11. N. Xue, H. A. Stone, Gravitational drainage on a vertical substrate of a narrow width, Physical Review Fluids, 2022.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 10. A. Giri, N. Biswas, D. L. Chase, N. Xue, M. Abkarian, S. Mendez, S. Saha, H. A. Stone, Colliding respiratory jets as a mechanism of air exchange and pathogen transport during conversations, Journal of Fluid Mechanics, 2022.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 9. N. Xue, J. K. Nunes, H. A. Stone, Shear-induced migration of confined flexible fibers, Soft Matter, 2022.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 8. P. Bourrianne, N. Xue, J. K. Nunes, M. Abkarian, H. A. Stone, Quantifying the effect of a mask on expiratory flows, Physical Review Fluids, 2021.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 7. N. Xue, H. A. Stone, Draining and spreading along geometries that cause converging flows: Viscous gravity currents on a downward-pointing cone and a bowl-shaped hemisphere, Physical Review Fluids, 2021.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 6. M. Abkarian, S. Mendez, N. Xue, F. Yang, H. A. Stone, Speech can produce jet-like transport relevant to asymptomatic spreading of virus, Proceedings of the National Academy of Sciences, 2020.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 5. N. Xue, H. A. Stone, Self-similar draining near a vertical edge, Physical Review Letters, 2020.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 4. N. Xue, M. Y. Pack, H. A. Stone, Marangoni-driven film climbing on a draining pre-wetted film, Journal of Fluid Mechanics, 2020.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 3. N. Xue, S. Khodaparast, H. A. Stone, Fountain mixing in a filling box at low Reynolds numbers, Physical Review Fluids, 2019.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 2. N. Xue, S. Khodaparast, L. Zhu, J. K. Nunes, H. Kim, H. A. Stone, Laboratory layered latte, Nature Communications, 2017.
+
+    게시 페이지: <https://xlift.org/papers/>
+
+1. 2. N. Xue, S. Khodaparast, L. Zhu, J. K. Nunes, H. Kim, H. A. Stone, Laboratory layered latte, Nature Communications, 2017. [DOI Link] · [Nature research highlights] · [The New York Times] 1. N. Xue, W. Shuai, S. Sun, D. Quéré, Q. Zheng, Strongly metastable assemblies of particles at liquid interfaces, Langmuir, 2014.
+
+    게시 페이지: <https://xlift.org/papers/>
 
 ## Nanyang Technological University — Yang Chun, Charles
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00303>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Yang Jianfei
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp01917>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Yap Fook Fah
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00941>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Yeo Song Huat
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00793>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Yeong Wai Yee
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00184>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Zhou Kun
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T16:03:18.807321+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
-출처: <https://www.addtoany.com/share>
+출처: <https://dr.ntu.edu.sg/cris/rp/rp00922>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Chen I-Ming
 
@@ -2421,9 +4407,15 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:54:53.911Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위:  / Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://dr.ntu.edu.sg/entities/person/Zeynep-Duygu-Tekler>
+
+출처: <https://zeynepduygutekler.github.io/>
+
+출처: <https://dr.ntu.edu.sg/explore/researchoutputs>
 
 ## Nanyang Technological University — Domenico Campolo
 

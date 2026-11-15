@@ -3,16 +3,583 @@
   "university_key": "nus",
   "pi": "THIAN Eng San",
   "lab_name": null,
-  "lab_url": null,
+  "lab_url": "http://blog.nus.edu.sg/mpetes/",
   "publication_urls": [
-    "https://blog.nus.edu.sg/mpetes/publications/"
+    "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/",
+    "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/",
+    "https://blog.nus.edu.sg/mpetes/publications/journals/2001-2/",
+    "https://blog.nus.edu.sg/mpetes/publications/journals/2002-2/"
   ],
-  "accessed_at": "2026-11-11T13:57:23.631Z",
-  "coverage_notes": [
-    "Official page heading: BIOMAT / BIOMAT",
-    "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
-    "Publication page visible text captured; structured extraction pending."
-  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Development of suitable material suspension system for depositing bioactive coatings via drop-on-demand micro-dispensing technique",
+      "year": 2018,
+      "citation_raw": "P.N. Lim, S.Y. Tong, Z. Zhao, E.S. Thian. Development of suitable material suspension system for depositing bioactive coatings via drop-on-demand micro-dispensing technique. 30th International Symposium on Ceramics in Medicine, Nagoya, Japan, 26th October – 29th October 2018",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Functional tissue engineering of bone by combating bioactivity with antimicrobial property in a silver, silicon co-substituted apatite",
+      "year": 2017,
+      "citation_raw": "P.N. Lim, B. Ho, E.S. Thian. Functional tissue engineering of bone by combating bioactivity with antimicrobial property in a silver, silicon co-substituted apatite. 2017 Tissue Engineering and Regenerative Medicine International Society – Asia Pacific Meeting, Nantong, China, 21st September – 24th September 2017",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Development of suitable material suspension system for depositing bioactive coatings via drop-on-demand micro-dispensing technique",
+      "year": 2017,
+      "citation_raw": "X. Qiu, P.N. Lim, E.S. Thian. Development of suitable material suspension system for depositing bioactive coatings via drop-on-demand micro-dispensing technique. 9th International Conference on Materials for Advanced Technologies, Singapore, 18th June – 23rd June 2017",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Micropatterning poly(ε-caprolactone)/Ag,Si co-substituted nanohydroxyapatite hybrid membranes with enhanced mechanical properties and bioactivity for tendon tissue engineering",
+      "year": 2015,
+      "citation_raw": "Z. Wang, P.N. Lim, S.Y. Tong, W. Wang, E.S. Thian. Micropatterning poly(ε-caprolactone)/Ag,Si co-substituted nanohydroxyapatite hybrid membranes with enhanced mechanical properties and bioactivity for tendon tissue engineering. 27th International Symposium on Ceramics in Medicine, Bali, Indonesia, 27th October 2015 – 29th October 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Bi-functional apatite coatings for enhanced bioactivity and reduced bacterial growth",
+      "year": 2015,
+      "citation_raw": "E.S. Thian, L. Chang, P.N. Lim, B. Ho. Bi-functional apatite coatings for enhanced bioactivity and reduced bacterial growth. 11th Pacific Rim Conference on Ceramic and Glass Technology, Jeju, Korea, 30th August – 4th September 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Hybrid Ag,Si co-substituted nanohydroxyapatite/poly(ε-caprolactone) micropatterned films for tendon tissue engineering",
+      "year": 2015,
+      "citation_raw": "Z. Wang, S.Y. Tong, P.N. Lim, W. Wang, E.S. Thian. Hybrid Ag,Si co-substituted nanohydroxyapatite/poly(ε-caprolactone) micropatterned films for tendon tissue engineering. 11th Pacific Rim Conference on Ceramic and Glass Technology, Jeju, Korea, 30th August – 4th September 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "J.Y.H, Fuh, W, Wang, B.Y, Tay, E.S, Thian",
+      "year": 2015,
+      "citation_raw": "Feng, J.L. Li, J.Y.H. Fuh, W. Wang, B.Y. Tay, E.S. Thian. 3D porous polymeric scaffolds with controlled microfiber orientation for meniscal tissue engineering. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Development of multi-lamellae scaffold with three-dimensional geometric anisotropy and interconnected porosity for tendon tissue engineering",
+      "year": 2015,
+      "citation_raw": "Z. Wang, R.N. Lam, W. Wang, M.H. Hong, E.S. Thian. Development of multi-lamellae scaffold with three-dimensional geometric anisotropy and interconnected porosity for tendon tissue engineering. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Enhancement of bone differentiation properties of nanosize silver-substituted apatite through substitution of silicon for bone tissue engineering",
+      "year": 2015,
+      "citation_raw": "P.N. Lim, W. Wang, B. Ho, E.S. Thian. Enhancement of bone differentiation properties of nanosize silver-substituted apatite through substitution of silicon for bone tissue engineering. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Functional organic chitosan-based grapefruit seed extract hybrid films: enhancing the hydrophobicity for extended food packaging applications",
+      "year": 2015,
+      "citation_raw": "Y.M. Tan, X.H. Sim, S.H. Lim, B.Y. Tay, M.W. Lee, E.S. Thian. Functional organic chitosan-based grapefruit seed extract hybrid films: enhancing the hydrophobicity for extended food packaging applications. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "An investigation on the effect of miscibility on the microstructure and mechanical properties of polyethylene/chitosan composite films",
+      "year": 2015,
+      "citation_raw": "Y.M. Tan, S.H. Lim, B.Y. Tay, M.W. Lee, E.S. Thian. An investigation on the effect of miscibility on the microstructure and mechanical properties of polyethylene/chitosan composite films. 31st International Conference of the Polymer Processing Society, Jeju, Korea, 7th June – 11th June 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Effect of surface silver ions towards inhibiting bacterial growth on apatite",
+      "year": 2014,
+      "citation_raw": "E.S. Thian, P.N. Lim, B. Ho, B.Y. Tay, W. Wang. Effect of surface silver ions towards inhibiting bacterial growth on apatite. 26th International Symposium on Ceramics in Medicine, Barcelona, Spain, 6th November – 8th November 2014",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "J.Y.H, Fuh, J, Sun, G.S, Hong, Y.S, Wong, W, Wang, B.Y, Tay, Biomimetic meniscal scaffolds for enhanced cartilage tissue engineering",
+      "year": 2014,
+      "citation_raw": "E.S. Thian, J.L. Li, J. Feng, P.N. Lim, J.Y.H. Fuh, J. Sun, G.S. Hong, Y.S. Wong, W. Wang, B.Y. Tay. Biomimetic meniscal scaffolds for enhanced cartilage tissue engineering. 2014 Tissue Engineering and Regenerative Medicine International Society – Asia Pacific Meeting, Daegu, Korea, 24th September – 27th September 2014",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Functional chitosan-based grapefruit seed extract composite films for applications in food packaging technology",
+      "year": 2014,
+      "citation_raw": "Y.M. Tan, S.H. Lim, M.W. Lee, B.Y. Tay, E.S. Thian. Functional chitosan-based grapefruit seed extract composite films for applications in food packaging technology. 6th International Symposium on Functional Materials, Singapore 4th August – 7th August 2014",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Development of next generation bone graft material: silicon and silver co-substituted apatite with bi-functional properties",
+      "year": 2013,
+      "citation_raw": "P.N. Lim, L. Chang, B. Ho, B.Y. Tay, C. Choong, E.S. Thian. Development of next generation bone graft material: silicon and silver co-substituted apatite with bi-functional properties. Materials Research Society Fall Meeting, Boston, USA 1st December – 6th December 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "J.Y.H, Fuh, E.S, Thian, Biofabrication of PCL and PCL/Chitosan scaffolds via electrohydrodynamic-jetting (or E-jet printing) for dentin and periodontal healing",
+      "year": 2013,
+      "citation_raw": "Y. Wu, A.S. Fawzy, J. Sun, J.Y.H. Fuh, E.S. Thian. Biofabrication of PCL and PCL/Chitosan scaffolds via electrohydrodynamic-jetting (or E-jet printing) for dentin and periodontal healing. International Symposium on Nano Science and Technology, Tainan, Taiwan 15th November – 16th November 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "M.S.M, Saifullah, K.K, Ansah-Antwi, R, Ganesan, E.S, Thian, C, He, Towards waferscale nanostructuring of oxides using step-and-flash imprint lithography",
+      "year": 2013,
+      "citation_raw": "S.S. Dinachali, J. Dumond, M.S.M. Saifullah, K.K. Ansah-Antwi, R. Ganesan, E.S. Thian, C. He. Towards waferscale nanostructuring of oxides using step-and-flash imprint lithography. 26th International Microprocesses and Nanotechnology Conference, Sapporo, Japan 5th November – 7th November 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Cell-loaded ceramic based microbeads for direct bone implant science",
+      "year": 2013,
+      "citation_raw": "J. Feng, M. Chong, J. Chan, Z.Y. Zhang, S.H. Teoh, E.S. Thian. Cell-loaded ceramic based microbeads for direct bone implant science. 10th Pacific Rim Conference on Ceramic and Glass Technology, San Diego, USA, 2nd June – 7th June 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "M.S.M, Saifullah, R, Ganesan, E.S, Thian, C, He",
+      "year": 2013,
+      "citation_raw": "S.S. Dinachali, J. Dumond, M.S.M. Saifullah, R. Ganesan, E.S. Thian, C. He. Direct nanopatterning of Al2O3 via step and flash imprint lithography (S-FIL). Surface Canada 2013, Ontario, Canada, 7th May – 11th May 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Synthesis of nitric-oxide-releasing S-nitrosothiol-modified gelatin-siloxane nanoparticles",
+      "year": 2013,
+      "citation_raw": "Q. Zhang, Z. Wang, S.H. Teoh, J. Li, L. Ren, E.S. Thian. Synthesis of nitric-oxide-releasing S-nitrosothiol-modified gelatin-siloxane nanoparticles. 6th East Asian Pacific Student Workshop on Nano-Biomedical Engineering, Singapore, 23rd March – 24th March 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "M.S.M, Saifullah, R, Ganesan, E.S, Thian, C, He, A new approach for direct patterning of oxides",
+      "year": 2013,
+      "citation_raw": "S.S. Dinachali, M.S.M. Saifullah, R. Ganesan, E.S. Thian, C. He. A new approach for direct patterning of oxides. 5th IEEE International Nanoelectronics Conference, Singapore, 2nd January – 4th January 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "M.S.M, Saifullah, R, Ganesan, E.S, Thian, C, He",
+      "year": 2012,
+      "citation_raw": "S.S. Dinachali, M.S.M. Saifullah, R. Ganesan, E.S. Thian, C. He. A universal scheme for direct thermal nanoimprint lithography of oxides. 11th International Conference on Nanoimprint and Nanoprint Technology, California, USA, 24th October – 26th October 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Apatite-based microcarriers for bone tissue engineering",
+      "year": 2012,
+      "citation_raw": "E.S. Thian, J. Feng, M. Chong, J. Chan, Z.Y. Zhang, S.H. Teoh. Apatite-based microcarriers for bone tissue engineering. 24th International Symposium on Ceramics in Medicine, Fukuoka, Japan, 21st October – 24th October 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Silver-substituted hydroxyapatite: a potential bone substitute material for postoperative infection treatment",
+      "year": 2012,
+      "citation_raw": "P.N. Lim, E.Y. Teo, B. Ho, B.Y. Tay, E.S. Thian. Silver-substituted hydroxyapatite: a potential bone substitute material for postoperative infection treatment. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "J.Y.H, Fuh, G.S, Hong, Y.S, Wong",
+      "year": 2012,
+      "citation_raw": "J. Sun, L. Chang, E.S. Thian, J.L. Li, J.Y.H. Fuh, G.S. Hong, Y.S. Wong, E.J.W. Wang. Bio-inspired organic-inorganic composite coatings for implants via a micro-dispensing technique. 10th Asia-Pacific Conference on Materials Processing, Jinan, China, 14th June – 17th June 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Silver/silicon co-substituted hydroxyapatite: a potential biomaterial with antibacterial and bioactive properties",
+      "year": 2012,
+      "citation_raw": "P.N. Lim, Z. Shi, B.Y. Tay, K.G. Neoh, E.S. Thian. Silver/silicon co-substituted hydroxyapatite: a potential biomaterial with antibacterial and bioactive properties. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Nitric-oxide-releasing system based on gelatin-siloxane nanoparticles for cardiovascular applications",
+      "year": 2012,
+      "citation_raw": "Q. Zhang, Z. Wang, J. Lim, E.Y. Teo, L. Ren, C.N. Lee, J. Li, E.S. Thian, S.H. Teoh. Nitric-oxide-releasing system based on gelatin-siloxane nanoparticles for cardiovascular applications. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Direct cellular contact and alignment of human fetal mesenchymal stem cell and umbilical vein endothelial cell based on micro-patterned porous polycaprolactone film for tissue engineering applications",
+      "year": 2012,
+      "citation_raw": "Z. Wang, J. Lim, Q. Zhang, S.K. Chong, E.Y. Teo, Z.Y. Zhang, M.H. Hong, J. Chan, E.S. Thian, S.H. Teoh. Direct cellular contact and alignment of human fetal mesenchymal stem cell and umbilical vein endothelial cell based on micro-patterned porous polycaprolactone film for tissue engineering applications. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "J.Y.H, Fuh, Synthesis and characterization of functionally-graded nano-hydroxyapatite/titania bioactive coating via drop-on-demand technique",
+      "year": 2011,
+      "citation_raw": "L. Chang, E.S. Thian, J. Sun, J.Y.H. Fuh. Synthesis and characterization of functionally-graded nano-hydroxyapatite/titania bioactive coating via drop-on-demand technique. International Symposium on Nanoscience and Technology, Tainan, Taiwan, 18th November – 19th November 2011",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "J.Y.H, Fuh, W, Wang",
+      "year": 2011,
+      "citation_raw": "E.S. Thian, L. Chang, B. Gurucharan, J. Sun, J.Y.H. Fuh, W. Wang. Chemically-modified calcium phosphate coatings via drop-on-demand inkjet printing. Taiwan Association for Coating and Thin Films Technology Conference, Kenting, Taiwan, 20th November – 23rd November 2011",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Silver-doped apatite as a bioactive and an antimicrobial bone material",
+      "year": 2011,
+      "citation_raw": "E.S. Thian, P.N. Lim, Z. Shi, B.Y. Tay, K.G. Neoh. Silver-doped apatite as a bioactive and an antimicrobial bone material. 23rd International Symposium on Ceramics in Medicine, Istanbul, Turkey, 6th November – 9th November 2011",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "J.Y.H, Fuh, W, Wang, Micro-dispensing of nano-hydroxyapatite (nHA) thin film coating on biomedical implants",
+      "year": 2011,
+      "citation_raw": "L. Chang, E.S. Thian, J. Sun, J.Y.H. Fuh, W. Wang. Micro-dispensing of nano-hydroxyapatite (nHA) thin film coating on biomedical implants. 9th Cross-Strait Workshop on Manufacturing Technology, Chengdu, China, 18th October – 19th October 2011",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "J.Y.E, Tong, B.Y, Tay, C.M, Chan, E.S, Thian",
+      "year": 2011,
+      "citation_raw": "P.N. Lim, J.Y.E. Tong, B.Y. Tay, C.M. Chan, E.S. Thian. Physicochemical stability of chemically-modified nanoapatites sintered at different temperatures. Defence Science Research Conference and Expo, Singapore, 3rd August – 6th August 2011",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "J.Y.H, Fuh, W, Wang,, Micro-dispensing of nano-hydroxyapatite (nHA) thin coating on biomedical implants",
+      "year": 2011,
+      "citation_raw": "L. Chang, E.S. Thian, J. Sun, J.Y.H. Fuh, W. Wang,. Micro-dispensing of nano-hydroxyapatite (nHA) thin coating on biomedical implants. 6th International Conference on Materials for Advanced Technologies, Singapore, 26th June – 1st July 2011",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Silver/silicon co-substituted nanohydroxyapatite: a novel bone material for biomedical applications",
+      "year": 2011,
+      "citation_raw": "P.N. Lim, B.Y. Tay, C.M. Chan, E.S. Thian. Silver/silicon co-substituted nanohydroxyapatite: a novel bone material for biomedical applications. 6th International Conference on Materials for Advanced Technologies, Singapore, 26th June – 1st July 2011",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "J.Y.H, Fuh, Y.S, Wong, E.S, Thian, R, Yang, K.K, Tan",
+      "year": 2010,
+      "citation_raw": "J. Sun, J.H. Ng, J.Y.H. Fuh, Y.S. Wong, E.S. Thian, R. Yang, K.K. Tan. Fabrication of electronics devices with multi-material drop-on-demand dispensing system. 6th International Conference on Manufacturing Automation, Hong Kong, China, 13th December – 15th December 2010",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Nanostructured apatites deposited by electrohydrodynamic atomization for bone tissue engineering",
+      "year": 2009,
+      "citation_raw": "E.S. Thian, Z. Ahmad, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, W. Bonfield, S.M. Best. Nanostructured apatites deposited by electrohydrodynamic atomization for bone tissue engineering. 5th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2009",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Silicon-substituted hydroxyapatite coating enhances surface wettability on titanium substrate for improved cell response",
+      "year": 2009,
+      "citation_raw": "E.S. Thian, J. Huang, Z.H. Barber, S.M. Best, W. Bonfield. Silicon-substituted hydroxyapatite coating enhances surface wettability on titanium substrate for improved cell response. 2nd Asian Biomaterials Congress, Singapore, 26th June – 27th June 2009",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Effect of material chemistry of electrosprayed nanophase substituted apatites on osteoblast response",
+      "year": 2008,
+      "citation_raw": "E.S. Thian, Z. Ahmad, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, W. Bonfield, S.M. Best. Effect of material chemistry of electrosprayed nanophase substituted apatites on osteoblast response. 8th World Biomaterials Congress, Amsterdam, The Netherlands, 28th May – 1st June 2008",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Processing of biomaterials via the electrohydrodynamic route",
+      "year": 2008,
+      "citation_raw": "Z. Ahmad, E.S. Thian, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, W. Bonfield, S.M. Best. Processing of biomaterials via the electrohydrodynamic route. 8th World Biomaterials Congress, Amsterdam, The Netherlands, 28th May – 1st June 2008",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Biological evaluation of a novel a-tricalcium phosphate/poly(D,L-lactide-co-glycolide) nanocomposite",
+      "year": 2008,
+      "citation_raw": "Z. Yang, E.S. Thian, R.A. Brooks, N. Rushton, S.M. Best, R. Cameron. Biological evaluation of a novel a-tricalcium phosphate/poly(D,L-lactide-co-glycolide) nanocomposite. 8th World Biomaterials Congress, Amsterdam, The Netherlands, 28th May – 1st June 2008",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Electrosprayed nanoapatite: a new generation of bioactive material",
+      "year": 2007,
+      "citation_raw": "E.S. Thian, Z. Ahmad, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, W. Bonfield, S.M. Best. Electrosprayed nanoapatite: a new generation of bioactive material. 20th International Symposium on Ceramics in Medicine, Nantes, France, 24th October – 26th October 2007",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Apatite formation on an a-tricalcium phosphate/poly(D,L-lactide-co-glycolide) nanocomposite",
+      "year": 2007,
+      "citation_raw": "Z. Yang, E.S. Thian, R.A. Brooks, N. Rushton, S.M. Best, R. Cameron. Apatite formation on an a-tricalcium phosphate/poly(D,L-lactide-co-glycolide) nanocomposite. 20th International Symposium on Ceramics in Medicine, Nantes, France, 24th October – 26th October 2007",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Electrosprayed nanohydroxyapatite patterns for guided osteoblast response",
+      "year": 2007,
+      "citation_raw": "E.S. Thian, Z. Ahmad, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, S.M. Best, W. Bonfield. Electrosprayed nanohydroxyapatite patterns for guided osteoblast response. 21st European Conference on Biomaterials, Brighton, UK, 9th September – 13th September 2007",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Tricalcium phosphate/poly(D,L-lactide-co-glycolide) (a-TCP/PLGA) nanocomposite: an in-vitro study",
+      "year": 2007,
+      "citation_raw": "Z. Yang, E.S. Thian, R.A. Brooks, N. Rushton, S.M. Best, R. Cameron. Tricalcium phosphate/poly(D,L-lactide-co-glycolide) (a-TCP/PLGA) nanocomposite: an in-vitro study. 21st European Conference on Biomaterials, Brighton, UK, 9th September – 13th September 2007",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Electrosprayed line patterns: a possible route for directing cellular activity",
+      "year": 2007,
+      "citation_raw": "E.S. Thian, Z. Ahmad, J. Huang, M.J. Edirisinghe, S.N. Jayasinghe, D.C. Ireland, R.A. Brooks, N. Rushton, W. Bonfield, S.M. Best. Electrosprayed line patterns: a possible route for directing cellular activity. 4th International Conference on Materials for Advanced Technologies, Singapore, 1st July – 6th July 2007",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Surface wettability enhances osteoblast adhesion on silicon-substituted hydroxyapatite thin films",
+      "year": 2006,
+      "citation_raw": "E.S. Thian, J. Huang, S.M. Best, Z.H. Barber, W. Bonfield. Surface wettability enhances osteoblast adhesion on silicon-substituted hydroxyapatite thin films. 19th International Symposium on Ceramics in Medicine, Chengdu, China, 10th October – 13th October 2006",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "A novel way of dispersing fine ceramic particles in PLGA matrix",
+      "year": 2006,
+      "citation_raw": "Z. Yang, E.S. Thian, S.M. Best, R.E. Cameron. A novel way of dispersing fine ceramic particles in PLGA matrix. 19th International Symposium on Ceramics in Medicine, Chengdu, China, 10th October – 13th October 2006",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Three-dimensional characterization of the microstructure of bioglass/polyethylene composite by X-ray microtomography",
+      "year": 2006,
+      "citation_raw": "X. Fu, J. Huang, E.S. Thian, S.M. Best, W. Bonfield. Three-dimensional characterization of the microstructure of bioglass/polyethylene composite by X-ray microtomography. 19th International Symposium on Ceramics in Medicine, Chengdu, China, 10th October – 13th October 2006",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Nanostructured apatite coatings for rapid bone repair",
+      "year": 2005,
+      "citation_raw": "E.S. Thian, J. Huang, S.M. Best, Z.H. Barber, W. Bonfield. Nanostructured apatite coatings for rapid bone repair. 18th International Symposium on Ceramics in Medicine, Kyoto, Japan, 5th December – 8th December 2005",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Future development in bioactive coatings: what’s new",
+      "year": 2005,
+      "citation_raw": "E.S. Thian, J. Huang, S.M. Best, Z.H. Barber, W. Bonfield. Future development in bioactive coatings: what’s new. 3rd International Conference on Materials for Advanced Technologies & 9th International Conference on Advanced Materials, Singapore, 3rd July – 8th July 2005",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Fast-apatite forming ability of magnetron co-sputtered silicon-containing hydroxyapatite (Si-HA) thin films",
+      "year": 2004,
+      "citation_raw": "E.S. Thian, J. Huang, S.M. Best, Z.H. Barber, W. Bonfield. Fast-apatite forming ability of magnetron co-sputtered silicon-containing hydroxyapatite (Si-HA) thin films. 17th International Symposium on Ceramics in Medicine, New Orleans, USA, 8th December – 12th December 2004",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "A novel way of producing silicon-containing hydroxyapatite (Si-HA) thin films",
+      "year": 2004,
+      "citation_raw": "E.S. Thian, J. Huang, S.M. Best, Z.H. Barber, W. Bonfield. A novel way of producing silicon-containing hydroxyapatite (Si-HA) thin films. 7th World Biomaterials Congress, Sydney, Australia, 17th May – 21st May 2004",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Fabrication of hydroxyapatite ceramics via a modified slip casting route",
+      "year": 2003,
+      "citation_raw": "E.S. Thian, J. Huang, S.M. Best, W. Bonfield. Fabrication of hydroxyapatite ceramics via a modified slip casting route. 16th International Symposium on Ceramics in Medicine, Porto, Portugal, 6th November – 9th November 2003",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Influence of process parameters on reaction products during self-propagating high-temperature synthesis of porous NiTi",
+      "year": 2002,
+      "citation_raw": "J.E.W. Anders, C.S. Goh, E.S. Thian. Influence of process parameters on reaction products during self-propagating high-temperature synthesis of porous NiTi. 2nd International Conference on Advanced Materials Processing, Singapore, 2nd December – 4th December 2002",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/oral/"
+    },
+    {
+      "title": "Optimum blend of poly(e-caprolactone)/chitosan-based antibacterial composite",
+      "year": 2018,
+      "citation_raw": "K. Wang, P.N. Lim, Z.Wang, E.S. Thian. Optimum blend of poly(e-caprolactone)/chitosan-based antibacterial composite. 30th International Symposium on Ceramics in Medicine, Nagoya, Japan, 26th October – 29th October 2018",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "A novel mechanically blended biodegradable composite with antibacterial efficiency",
+      "year": 2018,
+      "citation_raw": "S.Y. Tong, P.N. Lim, Z.Wang, E.S. Thian. A novel mechanically blended biodegradable composite with antibacterial efficiency. 30th International Symposium on Ceramics in Medicine, Nagoya, Japan, 26th October – 29th October 2018",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Improved antimicrobial performance of a novel mechanically blended biodegradable polymer blend",
+      "year": 2018,
+      "citation_raw": "S.Y. Tong, Z. Wang, P.N. Lim, E.S. Thian. Improved antimicrobial performance of a novel mechanically blended biodegradable polymer blend. 5th Tissue Engineering and Regenerative Medicine World Congress, Kyoto, Japan. 4th September – 7th September 2018",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "silicon co-substituted hydroxyapatite in mediating bacteria-cell competition for enhanced tissue regeneration",
+      "year": 2018,
+      "citation_raw": "P.N. Lim, S.Y. Tong, Z. Zhao, B. Ho, W. Wang, E.S. Thian. Silver, silicon co-substituted hydroxyapatite in mediating bacteria-cell competition for enhanced tissue regeneration. 5th Tissue Engineering and Regenerative Medicine World Congress, Kyoto, Japan. 4th September – 7th September 2018",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Antibacterial efficacy of silver, silicon co-substituted apatite against Pseudomonas aeruginosa",
+      "year": 2017,
+      "citation_raw": "P.N. Lim, B. Ho, E.S. Thian. Antibacterial efficacy of silver, silicon co-substituted apatite against Pseudomonas aeruginosa. Materials Science & Technology 2017 Conference & Exhibition, Pennsylvnia, USA. 8th October – 12th October 2017",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "B.T.H, Koh, W.J, Lee, W, Wang, M, Hong, P.N, Lim, L.S, Park, M, Kim, E.S, Thian",
+      "year": 2017,
+      "citation_raw": "Z. Wang, B.T.H. Koh, W.J. Lee, W. Wang, M. Hong, P.N. Lim, L.S. Park, M. Kim, E.S. Thian. Physical anisotropy of biomaterials to modulate cell morphogenesis in vivo for tendon regeneration. Materials Science & Technology 2017 Conference & Exhibition, Pennsylvnia, USA. 8th October – 12th October 2017",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Development of three-dimensional tendon scaffolds with highly interconnected porosity and multi-lamellae geometry cues",
+      "year": 2015,
+      "citation_raw": "Z. Wang, R.N. Lam, W. Wang, M. Hong, E.S. Thian. Development of three-dimensional tendon scaffolds with highly interconnected porosity and multi-lamellae geometry cues. 27th International Symposium on Ceramics in Medicine, Bali, Indonesia, 27th October – 29th October 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Physicochemical characterisation and dissolution properties of selenium-substituted nanoapatite",
+      "year": 2015,
+      "citation_raw": "S.Y. Tong, P.N. Lim, Z. Yang, E.S. Thian. Physicochemical characterisation and dissolution properties of selenium-substituted nanoapatite. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "J.Y.H, Fuh, Y.S, Wong, W, Wang, E.S, Thian, Three-dimensional fibrous scaffold with geometric anisotropy and enhanced mechanical properties for tendon tissue engineering",
+      "year": 2015,
+      "citation_raw": "Y. Wu, Z. Wang, J.Y.H. Fuh, Y.S. Wong, W. Wang, E.S. Thian. Three-dimensional fibrous scaffold with geometric anisotropy and enhanced mechanical properties for tendon tissue engineering. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Fabrication of tubular tendon scaffold using direct laser microengineering and thermally uniaxial stretching",
+      "year": 2015,
+      "citation_raw": "R.N. Lam, Z. Wang, W. Wang, M.H. Hong, E.S. Thian. Fabrication of tubular tendon scaffold using direct laser microengineering and thermally uniaxial stretching. 8th International Conference on Materials for Advanced Technologies, Singapore, 28th June – 3rd July 2015",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "M.S.M, Saifullah, E.S, Thian, C, He, Thermo-solvent annealing of block copolymer thin films",
+      "year": 2014,
+      "citation_raw": "S.S. Dinachali, W. Bai, K.H. Tu, H.K. Choi, J. Zhang, C.A. Ross, M.S.M. Saifullah, E.S. Thian, C. He. Thermo-solvent annealing of block copolymer thin films. 4th Molecular Materials Meeting, Singapore 14th January – 16th January 2014",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "M.S.M, Saifullah, K.K, Ansah-Antwi, R, Ganesan, E.S, Thian, C, He, Large area direct nanopatterning of oxides using step-and-flash imprint lithography",
+      "year": 2013,
+      "citation_raw": "S.S. Dinachali, J. Dumond, M.S.M. Saifullah, K.K. Ansah-Antwi, R. Ganesan, E.S. Thian, C. He. Large area direct nanopatterning of oxides using step-and-flash imprint lithography. 12th International Conference on Nanoimprint and Nanoprint Technology, Barcelona, Spain 21st October – 23rd October 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "J.Y.H, Fuh, B.Y, Tay, W, Wang, Meniscal scaffold fabricated via an improved E-jetting printing system",
+      "year": 2013,
+      "citation_raw": "Y. Cai, J. Li, H.C. Tan, E.S. Thian, J.Y.H. Fuh, B.Y. Tay, W. Wang. Meniscal scaffold fabricated via an improved E-jetting printing system. 8th Combined Meeting of Orthopaedic Research Societies, Venice, Italy, 13th October – 16th October 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Biopolymer-based composite thin films: Applications in food packaging technology, SIMTech Postgraduate Research Poster Exhibition, Singapore",
+      "year": 2013,
+      "citation_raw": "Y.M. Tan, S.H. Lim, M.W. Lee, B.Y. Tay, E.S. Thian. Biopolymer-based composite thin films: Applications in food packaging technology. SIMTech Postgraduate Research Poster Exhibition, Singapore, 16th August 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Development of next generation bone substitute material: silicon and silver co-substituted apatite with bi-functional properties, SIMTech Postgraduate Research Poster Exhibition, Singapore",
+      "year": 2013,
+      "citation_raw": "P.N. Lim, B. Ho, B.Y. Tay, C. Choong, E.S. Thian. Development of next generation bone substitute material: silicon and silver co-substituted apatite with bi-functional properties. SIMTech Postgraduate Research Poster Exhibition, Singapore, 16th August 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "M.S.M, Saifullah, R, Ganesan, E.S, Thian, C, He",
+      "year": 2013,
+      "citation_raw": "S.S. Dinachali, M.S.M. Saifullah, R. Ganesan, E.S. Thian, C. He. A universal scheme for direct thermal nanoimprint lithography of oxides. SPIE Advanced Lithography, California, USA, 24th February – 28th February 2013",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Evaluation on the antibacterial capability of silver-substituted hydroxyapatite for implant-associated infection, SIMTech Postgraduate Research Poster Exhibition, Singapore",
+      "year": 2012,
+      "citation_raw": "P.N. Lim, B. Ho, B.Y. Tay, E.S. Thian. Evaluation on the antibacterial capability of silver-substituted hydroxyapatite for implant-associated infection. SIMTech Postgraduate Research Poster Exhibition, Singapore, 7th September 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Apatite microbeads as a means for stem cell expansion",
+      "year": 2012,
+      "citation_raw": "E.S. Thian, J. Feng, Z.Y. Zhang, M. Chong, S.H. Teoh, J. Chan. Apatite microbeads as a means for stem cell expansion, 3rd Tissue Engineering and Regenerative Medicine World Congress, Vienna, Austria, 5th September – 8th September 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Synthesis and characterisation of magnesium-substituted hydroxyapatite for tissue engineering applications",
+      "year": 2012,
+      "citation_raw": "Y.M. Tan, P.N. Lim, E.S. Thian. Synthesis and characterisation of magnesium-substituted hydroxyapatite for tissue engineering applications. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "J.Y.H, Fuh, J, Sun, G.S, Hong, Y.S, Wong, B.Y, Tay, W, Wang",
+      "year": 2012,
+      "citation_raw": "Y. Cai J.L. Li, C.K. Poh, H.C. Tan, E.S. Thian, J.Y.H. Fuh, J. Sun, G.S. Hong, Y.S. Wong, B.Y. Tay, W. Wang. Polydopamine-inspired biomineralization of 3D polycaprolactone scaffold for bone tissue engineering. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Properties of physical crosslinked polyvinyl alcohol hydrogel for controlled release of nitric-oxide-releasing nanoparticles",
+      "year": 2012,
+      "citation_raw": "Q. Zhang, S.H. Goh, Z. Wang, J. Lim, E.Y. Teo, J. Li, E.S. Thian, S.H. Teoh. Properties of physical crosslinked polyvinyl alcohol hydrogel for controlled release of nitric-oxide-releasing nanoparticles. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Dip-coated nano-hydroxyapatite films on metallic 3D scaffold",
+      "year": 2012,
+      "citation_raw": "L. Chang, J. Lee, S. Maleksaeedi, B.Y. Tay, E.S. Thian. Dip-coated nano-hydroxyapatite films on metallic 3D scaffold. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Apatite microcarriers as a potential bone tissue engineering solution",
+      "year": 2012,
+      "citation_raw": "J. Feng, Z.Y. Zhang, M. Chong, J. Chan, S.H. Teoh, E.S. Thian. Apatite microcarriers as a potential bone tissue engineering solution. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "J.Y.H, Fuh, J, Sun, Y.S, Wong, Q, Wu, B.Y, Tay, W, Wang, E.S, Thian, Biodegradable polymeric scaffold fabrication using an improved E-jetting printing system",
+      "year": 2012,
+      "citation_raw": "J.L. Li, Y. Cai, G.S. Hong, J.Y.H. Fuh, J. Sun, Y.S. Wong, Q. Wu, B.Y. Tay, W. Wang, E.S. Thian. Biodegradable polymeric scaffold fabrication using an improved E-jetting printing system. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Bioresorbable 3D micro-topographical structures for vascular cellular pattern and differentiation control",
+      "year": 2012,
+      "citation_raw": "Z. Wang, Q. Zhang, J. Lim, E.Y. Teo, M.H. Hong, J. Chan, E.S. Thian, S.H. Teoh. Bioresorbable 3D micro-topographical structures for vascular cellular pattern and differentiation control. 1st International Conference of Young Researchers on Advanced Materials, Singapore, 1st July – 6th July 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Physical properties of freeze-thawed polyvinyl alcohol hydrogel for cartilage tissue engineering applications",
+      "year": 2012,
+      "citation_raw": "Q. Zhang, S.H. Goh, J. Lim, Z. Wang, E.S. Thian, J. Li, S.H. Teoh. Physical properties of freeze-thawed polyvinyl alcohol hydrogel for cartilage tissue engineering applications. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Highly orientated 3D micro-topographical structures for potential bone tissue engineering applications: A degradation study",
+      "year": 2012,
+      "citation_raw": "Z. Wang, Y.S. Ho, J. Lim, Q. Zhang, E.S. Thian, J. Chan, M.H. Hong, S.H. Teoh. Highly orientated 3D micro-topographical structures for potential bone tissue engineering applications: A degradation study. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "The effect of silver concentration on antimicrobial property of silver-substituted apatite",
+      "year": 2012,
+      "citation_raw": "E.S. Thian, P.N. Lim, B. Ho, E.Y. Teo, B.Y. Tay. The effect of silver concentration on antimicrobial property of silver-substituted apatite. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "J.Y.H, Fuh, G.S, Hong, Y.S, Wong, B.Y, Tay, W, Wang, E.S, Thian, Fiber alignment using an improved E-jetting printing system for cell sheet fabrication",
+      "year": 2012,
+      "citation_raw": "J.L. Li, J. Sun, J.Y.H. Fuh, G.S. Hong, Y.S. Wong, B.Y. Tay, W. Wang, E.S. Thian. Fiber alignment using an improved E-jetting printing system for cell sheet fabrication. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "J.Y.H, Fuh, G.S, Hong, W, Wang, Compositional-graded titania/nanohydroxyapatite bioactive coating via a micro-dispensing technique",
+      "year": 2012,
+      "citation_raw": "L. Chang, E.S. Thian, J. Sun, J.Y.H. Fuh, G.S. Hong, W. Wang. Compositional-graded titania/nanohydroxyapatite bioactive coating via a micro-dispensing technique. 9th World Biomaterials Congress, Chengdu, China, 1st June – 5th June 2012",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Silver/silicon co-substituted hydroxyapatite: a new generation of functional biomaterial, SIMTEch Postgraduate Research Poster Exhibition, Singapore",
+      "year": 2011,
+      "citation_raw": "P.N. Lim, B.Y. Tay, B. Ho, C.M. Chan, E.S. Thian. Silver/silicon co-substituted hydroxyapatite: a new generation of functional biomaterial. SIMTEch Postgraduate Research Poster Exhibition, Singapore, 23rd September 2011",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Chemically-modified apatites as healthy bone materials, International Bone-Tissue-Engineering Congress, Hannover, Germany",
+      "year": 2010,
+      "citation_raw": "E.S. Thian, L.Y. Lee, Z.Y. Zhang, J. Chan, S.H. Teoh. Chemically-modified apatites as healthy bone materials. International Bone-Tissue-Engineering Congress, Hannover, Germany, 7th – 10th October 2010",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Nanostructured substituted apatites for bone tissue engineering",
+      "year": 2010,
+      "citation_raw": "E.S. Thian, P.N. Lim, L.Y. Lee, Z.Y. Zhang, B.Y. Tay, J. Chan, S.H. Teoh. Nanostructured substituted apatites for bone tissue engineering. MRS-S Trilateral Conference on Advances in Nanoscience: Energy, Water and Healthcare, Singapore, 11th – 13th August 2010",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/conferences/poster/"
+    },
+    {
+      "title": "Processing of HA-coated Ti-6A1-4V by a ceramic slurry approach: an in-vitro study",
+      "year": 2001,
+      "citation_raw": "E.S. Thian, K.A. Khor, N.H. Loh, S.B. Tor, Processing of HA-coated Ti-6A1-4V by a ceramic slurry approach: an in-vitro study. Biomaterials 22 (11) (2001) 1225-1232",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/journals/2001-2/"
+    },
+    {
+      "title": "Effects of debinding parameters on powder injection molded Ti-6A1-4V/HA composite parts",
+      "year": 2001,
+      "citation_raw": "E.S. Thian, N.H. Loh, K.A. Khor, S.B. Tor. Effects of debinding parameters on powder injection molded Ti-6A1-4V/HA composite parts. Advanced Powder Technology 12 (3) (2001) 361-370",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/journals/2001-2/"
+    },
+    {
+      "title": "In vitro behavior of sintered powder injection molded Ti-6A1-4V/HA",
+      "year": 2002,
+      "citation_raw": "E.S. Thian, N.H. Loh, K.A. Khor, S.B. Tor. In vitro behavior of sintered powder injection molded Ti-6A1-4V/HA. Journal of Biomedical Materials Research (Applied Biomaterials) 63 (2) (2002) 79-87",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/journals/2002-2/"
+    },
+    {
+      "title": "Microstructures and mechanical properties of powder injection molded Ti-6A1-4V/HA powder",
+      "year": 2002,
+      "citation_raw": "E.S. Thian, N.H. Loh, K.A. Khor, S.B. Tor, Microstructures and mechanical properties of powder injection molded Ti-6A1-4V/HA powder. Biomaterials 23 (14) (2002) 2927-2938",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/journals/2002-2/"
+    },
+    {
+      "title": "Ti-6A1-4V/HA composite feedstock for injection molding",
+      "year": 2002,
+      "citation_raw": "E.S. Thian, N.H. Loh, K.A. Khor, S.B. Tor, Ti-6A1-4V/HA composite feedstock for injection molding. Material Letters, 56 (4) (2002) 522-532",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/journals/2002-2/"
+    },
+    {
+      "title": "Dilation of Ti-6A1-4V/HA composite parts",
+      "year": 2002,
+      "citation_raw": "E.S. Thian, N.H. Loh, K.A. Khor, S.B. Tor. Dilation of Ti-6A1-4V/HA composite parts. Advanced Composites Letters, 11 (2) (2002) 73-77",
+      "source_url": "https://blog.nus.edu.sg/mpetes/publications/journals/2002-2/"
+    }
+  ]
 }

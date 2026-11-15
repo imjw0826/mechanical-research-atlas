@@ -825,9 +825,19 @@ Dynamic Design Lab (DDL) · 논문·원고 20건 · 기타 성과 0건 · 상태
 
 Eaton Lab · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:53:38.459Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official department lab directory lists John Eaton under Eaton Lab, not Dynamic Design Lab. Evidence: https://me.stanford.edu/research-impact/labs / Verified lab website not identified on official profile; lab discovery pending. / PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending. / Roster associates Eaton with Gerdes Dynamic Design Lab; PI identity mismatch. No papers assigned, publication investigation incomplete.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <http://ddl.stanford.edu/>
+
+출처: <https://ddl.stanford.edu/publications>
+
+출처: <https://ddl.stanford.edu/publications/recent-publications/driver-assistance-and-augmentation-systems>
+
+출처: <https://ddl.stanford.edu/publications/recent-publications/ethical-decision-making-autonomous-vehicles>
+
+출처: <https://ddl.stanford.edu/publications/book-chapter/implementable-ethics-autonomous-vehicles-2015>
 
 ## Stanford University — Matthias Ihme
 
@@ -2629,9 +2639,11 @@ Feig Lab · 논문·원고 35건 · 기타 성과 0건 · 상태: partial
 
 Flow Physics and Aeroacoustics Laboratory (FPAL) · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:53:57.222Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Publication links discovered: / PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending. / Official site inspected but publication list not reached; not marked full_site_attempted.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://fpal.stanford.edu/>
 
 ## Stanford University — Wendy Gu
 
@@ -2958,17 +2970,29 @@ Hanson Research Group · 논문·원고 20건 · 기타 성과 0건 · 상태: p
 
 Heterogeneous Combustion Lab · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:54:11.650Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official department lab directory lists R.E. Mitchell under Heterogeneous Combustion Lab, not Hanson Research Group. Evidence: https://me.stanford.edu/research-impact/labs / Verified lab website not identified on official profile; lab discovery pending. / PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending. / Actual publication page inspected in browser. All visible source text saved; conservative citation containers extracted. Remaining nested pages, pagination and field parsing not yet fully verified. / PI/lab identity mismatch: roster points to a different PI lab. Captured source retained but no papers attributed to this PI.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://hanson.stanford.edu/>
+
+출처: <https://hanson.stanford.edu/publications-0>
+
+출처: <https://me.stanford.edu/groups/thermosciences-group>
+
+출처: <https://hanson.stanford.edu/publications-0?page=1>
+
+출처: <https://meintranet.stanford.edu/design-group-intranet>
 
 ## Stanford University — Steve Jones
 
 High Performance Computing Center (HPCC) · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:54:13.103Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Publication links discovered: / PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending. / Official site inspected but publication list not reached; not marked full_site_attempted.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://hpcc.stanford.edu/>
 
 ## Stanford University — Natalie Larson
 
@@ -3276,9 +3300,13 @@ Assistive Robotics and Manipulation Laboratory (ARM) · 논문·원고 37건 · 
 
 Life Design Lab · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:54:16.398Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Publication links discovered: / PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending. / Official site inspected but publication list not reached; not marked full_site_attempted.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://lifedesignlab.stanford.edu/>
+
+출처: <https://share.hsforms.com/12VNB77yKSY60BhiikNN7fw4uqeq>
 
 ## Stanford University — Ellen Kuhl
 
@@ -4861,27 +4889,11 @@ Living Matter Lab · 논문·원고 313건 · 기타 성과 0건 · 상태: part
 
 Magic Laboratory · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:54:22.811Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Publication links discovered: https://web.stanford.edu/group/magiclab/publications.html | https://www.nature.com/articles/s44221-025-00477-w | https://pubs.acs.org/doi/10.1021/acsenergylett.5c01542 | https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00644 | https://ieeexplore.ieee.org/document/10342763 | https://doi.org/10.1088/1748-9326/acf603 | https://www.nature.com/articles/s41467-023-39647-3 | https://www.nature.com/articles/s41560-023-01306-8 | https://www.nature.com/articles/s41467-023-39304-9 / PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending. / Actual publication page inspected in browser. All visible source text saved; conservative citation containers extracted. Remaining nested pages, pagination and field parsing not yet fully verified.
-
-출처: <https://web.stanford.edu/group/magiclab/publications.html>
-
-출처: <https://www.nature.com/articles/s44221-025-00477-w>
-
-출처: <https://pubs.acs.org/doi/10.1021/acsenergylett.5c01542>
-
-출처: <https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00644>
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
 출처: <https://ieeexplore.ieee.org/document/10342763>
-
-출처: <https://doi.org/10.1088/1748-9326/acf603>
-
-출처: <https://www.nature.com/articles/s41467-023-39647-3>
-
-출처: <https://www.nature.com/articles/s41560-023-01306-8>
-
-출처: <https://www.nature.com/articles/s41467-023-39304-9>
 
 ## Stanford University — Ali Mani
 
@@ -8018,17 +8030,21 @@ Micro Structures and Sensors Lab · 논문·원고 284건 · 기타 성과 0건 
 
 Microfluidics Laboratory · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:54:46.344Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Publication links discovered: / PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending. / Actual publication page inspected in browser. All visible source text saved; conservative citation containers extracted. Remaining nested pages, pagination and field parsing not yet fully verified. / Official Publications link redirects to Google Scholar, an excluded aggregate source. No publications imported; official publication list not reached.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://microfluidics.stanford.edu/>
 
 ## Stanford University — Hai Wang
 
 NanoEnergy Lab · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:54:49.432Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Publication links discovered: / PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending. / Actual publication page inspected in browser. All visible source text saved; conservative citation containers extracted. Remaining nested pages, pagination and field parsing not yet fully verified. / Official Publications link redirects to Google Scholar, an excluded aggregate source. No publications imported; official publication list not reached.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://nanoenergy.stanford.edu/>
 
 ## Stanford University — Steven Hartley Collins
 
@@ -11099,17 +11115,21 @@ SHAPE Lab · 논문·원고 95건 · 기타 성과 0건 · 상태: partial
 
 Smart Product Design Laboratory (SPDL) · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:53:41.597Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Attempted URL http://design.stanford.edu/spdl/; error Error: Selector "body" not found / Official roster destination SPDL Home Page opened. Automation body selector failed; this is a tool limitation, not a blocked website. Publications not reached, no full-site stage assigned.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <http://design.stanford.edu/spdl/>
 
 ## Stanford University — Marc Levenston
 
 Soft Tissue Biomechanics Laboratory (STBL) · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-11T13:53:43.435Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official department lab directory lists Marc Levenston under STBL, not Smart Product Design Laboratory. Evidence: https://me.stanford.edu/research-impact/labs / Verified lab website not identified on official profile; lab discovery pending. / PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending. / Official roster destination SPDL Home Page opened. Automation body selector failed; this is a tool limitation, not a blocked website. Publications not reached, no full-site stage assigned.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <http://design.stanford.edu/spdl/>
 
 ## Stanford University — Mark A. Cappelli
 
@@ -18427,9 +18447,13 @@ Collaborative Haptics and Robotics in Medicine Lab (CHARM Lab) · 논문·원고
 
 Darve Research Group · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T13:53:38.373Z
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: Official department lab directory separates d’Arbeloff Undergraduate Research and Teaching Lab from Darve Research Group; roster incorrectly associates Eric Darve with teaching lab. Evidence: https://me.stanford.edu/research-impact/labs / Publication links discovered: / PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending. / Official roster destination redirects to authenticated intranet login; publication list not reached.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+
+출처: <https://meintranet.stanford.edu/user/login?destination=/student-intranet>
+
+출처: <https://meintranet.stanford.edu/faculty/darbeloff-undergraduate-research-and-teaching-lab>
 
 ## Stanford University — Reinhold Dauskardt
 

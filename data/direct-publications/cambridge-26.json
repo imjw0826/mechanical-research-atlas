@@ -4,15 +4,58 @@
   "pi": "Jonathan Cullen",
   "lab_name": null,
   "lab_url": "https://www.refficiency.org/author/jon/",
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:56:24.080Z",
-  "coverage_notes": [
-    "Official profile visited. Publications/lab follow-up pending; no completeness claim.",
-    "Discovered Personal website: https://www.refficiency.org/author/jon/",
-    "Discovered Publications: https://scholar.google.com/citations?hl=en&user=3-ct8FoAAAAJ",
-    "Followed profile-linked official/personal site: https://www.refficiency.org/author/jon/",
-    "Publication follow-up link Publications: https://www.refficiency.org/category/publications/"
+  "publication_urls": [
+    "https://www.refficiency.org/category/publications/",
+    "https://www.refficiency.org/category/publications/page/3/"
   ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Industrial energy efficiency and decarbonisation via electrification and hydrogen",
+      "year": 2026,
+      "citation_raw": "Industrial energy efficiency and decarbonisation via electrification and hydrogen Laura Prestwich April 14, 2026",
+      "source_url": "https://www.refficiency.org/category/publications/"
+    },
+    {
+      "title": "Building stock archetype and modelling (BSAM) framework for coupled material-energy‑carbon assessment",
+      "year": 2026,
+      "citation_raw": "Building stock archetype and modelling (BSAM) framework for coupled material-energy‑carbon assessment Laura Prestwich April 2, 2026",
+      "source_url": "https://www.refficiency.org/category/publications/"
+    },
+    {
+      "title": "Ten years on: Are raw material criticality assessments making more sense?",
+      "year": 2026,
+      "citation_raw": "Ten years on: Are raw material criticality assessments making more sense? Laura Prestwich February 26, 2026",
+      "source_url": "https://www.refficiency.org/category/publications/"
+    },
+    {
+      "title": "China’s role in the UK energy transition: from mine to technology",
+      "year": 2026,
+      "citation_raw": "China’s role in the UK energy transition: from mine to technology Laura Prestwich February 4, 2026",
+      "source_url": "https://www.refficiency.org/category/publications/"
+    },
+    {
+      "title": "Reducing uncertainties in greenhouse gas emissions from chemical production",
+      "year": 2024,
+      "citation_raw": "Reducing uncertainties in greenhouse gas emissions from chemical production Luke Cullen March 26, 2024",
+      "source_url": "https://www.refficiency.org/category/publications/page/3/"
+    },
+    {
+      "title": "A critical review of plastics and circularity in automotive supply chains",
+      "year": 2023,
+      "citation_raw": "A critical review of plastics and circularity in automotive supply chains Jonathan Cullen October 25, 2023",
+      "source_url": "https://www.refficiency.org/category/publications/page/3/"
+    },
+    {
+      "title": "Mapping material use and embodied carbon in UK construction",
+      "year": 2023,
+      "citation_raw": "Mapping material use and embodied carbon in UK construction Joanna Wakeling July 12, 2023",
+      "source_url": "https://www.refficiency.org/category/publications/page/3/"
+    }
+  ]
 }

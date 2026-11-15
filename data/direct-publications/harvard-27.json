@@ -5,13 +5,1027 @@
   "lab_name": null,
   "lab_url": "https://designbiophysicsgroup.seas.harvard.edu/",
   "publication_urls": [
-    "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    "https://designbiophysicsgroup.seas.harvard.edu/publications",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=0",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9",
+    "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
   ],
-  "accessed_at": "2026-11-11T13:52:07.999Z",
-  "coverage_notes": [
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
     "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 15개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Entropy-Driven Denaturation Enables Sustainable Protein Regeneration through Rapid Gel-Solid Transition",
+      "year": 2025,
+      "citation_raw": "164 ., Wang Y, Liu J, Peters MM, Ishii R, Wang D, Chowdhury S, Parker KK, and Shakhnovich EI. 2025. “Entropy-Driven Denaturation Enables Sustainable Protein Regeneration through Rapid Gel-Solid Transition”. Nature Communications, 16, 6907",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Biomimetic Hierarchical Fibrous Hydrogels With High Alignment and Flaw Insensitivity",
+      "year": 2025,
+      "citation_raw": "163 ., Yang H, Wang Y, Jang Y, Shani K, Jiao Q, Peters MM, Parker KK, and Vlassak JJ. 2025. “Biomimetic Hierarchical Fibrous Hydrogels With High Alignment and Flaw Insensitivity”. Matter, 8, 6",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Virally Delivered CMYA5 Enhances the Assembly of Cardiac Dyads",
+      "year": 2025,
+      "citation_raw": "162 ., Lu F, Liou C, Ma Q, Wu Z, Xue B, Xia Y, Xia S, Trembley MA, Ponek A, Xie W, Shani K, Bortolin RH, Prondzynski M, Berkson P, Zhang X, Naya FJ, Bedi KC, Margulies KB, Zhang D, Parker KK, and Pu WT. 2025. “Virally Delivered CMYA5 Enhances the Assembly of Cardiac Dyads”. Nature Biomedical Engineering , 8, 9, Pp. 109-26",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Dysregulation of N-Terminal Acetylation Causes Cardiac Arrhythmia and Cardiomyopathy",
+      "year": 2025,
+      "citation_raw": "161 ., Yoshinaga D, Craven I, Feng R, Prondzynski M, Shani K, Tharani Y, Mayourian J, Joseph M, Walker D, Bortolin RH, Carreon CK, Boss B, Upton S, Parker KK, Pu WT, and Bezzerides VJ. 2025. “Dysregulation of N-Terminal Acetylation Causes Cardiac Arrhythmia and Cardiomyopathy”. Nature Communications, 16, 3604",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A Cardiac Microphysiological System for Studying Ca2+ Propagation via Non-Genetic Optical Stimulation",
+      "year": 2025,
+      "citation_raw": "160 ., Florindi C, Jang Y, Shani K, Moretti P, Bertarelli C, Lanzani G, Parker KK, Lodola F, and . 2025. “A Cardiac Microphysiological System for Studying Ca2+ Propagation via Non-Genetic Optical Stimulation”. Journal of Visualized Experiments, 217",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Bioinspired Design of a Tissue-Engineered Ray With Machine Learning",
+      "year": 2025,
+      "citation_raw": "159 ., Zimmerman JF, Drennan DJ, Ikeda J, Jin Q, Ardoña HAM, Kim SL, Ishii R, and Parker KK. 2025. “Bioinspired Design of a Tissue-Engineered Ray With Machine Learning”. Science Robotics, 10, 99",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Toward Functional Biointerfaces With Origami-on-a-Chip",
+      "year": 2024,
+      "citation_raw": "158., Romero AI, Jin Q, Parker KK, Alexander J, Wolfrum B, and Teshima TF. 2024. “Toward Functional Biointerfaces With Origami-on-a-Chip”. Advanced Intelligent Systems, 6, 9",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Efficient and Reproducible Generation of Human IPSC-Derived Cardiomyocytes and Cardiac Organoids in Stirred Suspension Systems",
+      "year": 2024,
+      "citation_raw": "157., Prondzynski M, Berkson P, Trembley MA, Tharani Y, Shani K, Bortolin RH, Sweat ME, Mayourian J, Yucel D, Cordoves AM, Gabbin B, Hou C, Anyanwu NJ, Nawar F, Cotton J, Milosh J, Walker D, Zhang Y, Lu F, Liu X, Parker KK, Bezzerides VJ, and Pu WT. 2024. “Efficient and Reproducible Generation of Human IPSC-Derived Cardiomyocytes and Cardiac Organoids in Stirred Suspension Systems”. Nature Communications, 15, 5929",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Self-Organizing Behaviors of Cardiovascular Cells on Synthetic Nanofiber Scaffolds",
+      "year": 2023,
+      "citation_raw": "picture_as_pdf Efficient and reproducibl... 156., Peters M, Brister J, Tang E, Zhang F, , Trackey P, Bone Z, Zimmerman JF, Jin Q, Burpo JF, and Parker KK. 2023. “Self-Organizing Behaviors of Cardiovascular Cells on Synthetic Nanofiber Scaffolds”. APL Bioengineering, 7, 4",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Impact Response of Advance Combat Helmet Pad Systems",
+      "year": 2023,
+      "citation_raw": "155., Rodriguez-Millan M, Rubio I, Burpo FJ, Olmedo A, Loya JA, Parker KK, and Miguélez MH. 2023. “Impact Response of Advance Combat Helmet Pad Systems”. International Journal of Impact Engineering, 181",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Experimental and Numerical Analyses of Ballistic Resistance Evaluation of Combat Helmet Using Hybrid III Headform",
+      "year": 2023,
+      "citation_raw": "154., Rodriguez-Millan M, Rubio I, Burpo FJ, Tse KM, Olmedo A, Loya JA, Parker KK, and Miguélez MH. 2023. “Experimental and Numerical Analyses of Ballistic Resistance Evaluation of Combat Helmet Using Hybrid III Headform”. International Journal of Impact Engineering, 179",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Spatiotemporal Cell Junction Assembly in Human IPSC-CM Models of Arrhythmogenic Cardiomyopathy",
+      "year": 2023,
+      "citation_raw": "153., Kim SL, Trembley M, Lee KY, Choi S, MacQueen LA, Zimmerman JF, H.C. de Wit L, Shani K, Henze D, Drennan D, Saifee S, Loh LJ, Liu X, Parker KK, and Pu WT. 2023. “Spatiotemporal Cell Junction Assembly in Human IPSC-CM Models of Arrhythmogenic Cardiomyopathy”. Stem Cell Reports, 18, Pp. 1-16",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications"
+    },
+    {
+      "title": "On-Demand Heart Valve Manufacturing Using Focused Rotary Jet Spinning",
+      "year": 2023,
+      "citation_raw": "151., Motta S, Peters M, Chantre C, Chang H, Cera L, Liu Q, Cordoves E, Fioretta E, Zaytseva P, Cesarovic N, Emmert M, Hoerstrup S, and Parker KK. 2023. “On-Demand Heart Valve Manufacturing Using Focused Rotary Jet Spinning”. Matter, 6, 6, Pp. 1860-79",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Light-Triggered Cardiac Microphysiological Model",
+      "year": 2023,
+      "citation_raw": "picture_as_pdf on-demand_heart_valve_man... 150., , Shani K, Ardoña HAM, Zimmerman JF, , Lee KY, Jin Q, Bertarelli C, Parker KK, and Lanzani G. 2023. “Light-Triggered Cardiac Microphysiological Model”. APL Bioengineering , 7, 2",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Recreating the Heart’s Helical Structure-Function Relationship With Focused Rotary Jet Spinning",
+      "year": 2022,
+      "citation_raw": "149., Chang H, Liu Q, Zimmerman JF, Lee KY, Jin Q, Peters M, Rosnach M, Choi S, Kim SL, Ardoña HAM, MacQueen LA, Chantre C, Motta S, Cordoves E, and Parker KK. 2022. “Recreating the Heart’s Helical Structure-Function Relationship With Focused Rotary Jet Spinning”. Science, 377, 6602, Pp. 180-85",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Cellular and Engineered Organoids for Cardiovascular Models",
+      "year": 2022,
+      "citation_raw": "147 ., Thomas D, Choi S, Alamana C, Parker KK, and Wu JC. 2022. “Cellular and Engineered Organoids for Cardiovascular Models”. Circulation Research, 130, 12, Pp. 1780-1802",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "High-Throughput Coating With Biodegradable Anitmicrobial Pullulan Fibres Extends Shelf Life and Reduces Weight Loss in an Avocado",
+      "year": 2022,
+      "citation_raw": "148., Chang H, Xu J, MacQueen LA, Aytac Z, Peters M, Zimmerman JF, Xu T, Demokritou P, and Parker KK. 2022. “High-Throughput Coating With Biodegradable Anitmicrobial Pullulan Fibres Extends Shelf Life and Reduces Weight Loss in an Avocado”. Nature Food, 3, Pp. 428-36",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Differential Modulation of Endothelial Cytoplasmic Protrusions After Exposure to Graphene-Family Nanomaterials",
+      "year": 2022,
+      "citation_raw": "146 ., Herdeline Ann M. Ardoña, John F. Zimmerman, Kevin Shani, Su Hwan Kim, Feyisayo Eweje, Dimitrios Bitounis, Dorsa Parviz, Evan Casalino, Michael Strano, Philip Demokritou, and Kevin Kit Parker. 2022. “Differential Modulation of Endothelial Cytoplasmic Protrusions After Exposure to Graphene-Family Nanomaterials”. NanoImpact, 26",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "An Autonomously Swimming Biohybrid Fish Designed With Human Cardiac Biophysics",
+      "year": 2022,
+      "citation_raw": "145 ., Lee KY, Park SJ, Matthews DG, Kim SL, Marquez CA, Zimmerman JF, Ardoña HAM, Kleber AG, Lauder G, and Parker KK. 2022. “An Autonomously Swimming Biohybrid Fish Designed With Human Cardiac Biophysics”. Science, 375, 6581, Pp. 639–647",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "An Extracellular Matrix-Liposome Composite, a Novel Extracellular Matrix Delivery System for Accelerated Tissue Regeneration",
+      "year": 2021,
+      "citation_raw": "144 ., Lee KY, Nguyen HT, Setiawati A, Nam S-J, Kim M, Ko I-G, Jung WH, Parker KK, Kim C-J, and Shin KW. 2021. “An Extracellular Matrix-Liposome Composite, a Novel Extracellular Matrix Delivery System for Accelerated Tissue Regeneration”. Advanced Healthcare Materials",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Prednisolone Rescues Duchenne Muscular Dystrophy Phenotypes in Human Pluripotent Stem Cell–Derived Skeletal Muscle in Vitro",
+      "year": 2021,
+      "citation_raw": "143 ., Ziad AT, Zimmerman JF, Rao J, Sieiro D, McNamara HM, Cherrier T, Rodriguez-delaRosa A, Hick-Colin A, Bousson F, Fugier-Schmucker C, Marchianoi F, Habermanni B, Chala J, Nesmith AP, Gapon, Svetlana, Wagner E, Gupta VA, Bassel-Dubyk R, Olsonk EN, Cohen AE, and Parker KK. 2021. “Prednisolone Rescues Duchenne Muscular Dystrophy Phenotypes in Human Pluripotent Stem Cell–Derived Skeletal Muscle in Vitro”. Proceedings of the National Academy of Sciences of the United States of America, 118, 28, Pp. 1-12",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Building Biomimetic Potency Tests for Islet Transplantation",
+      "year": 2021,
+      "citation_raw": "142 ., Glieberman AL, Pope BD, Melton DA, and Parker KK. 2021. “Building Biomimetic Potency Tests for Islet Transplantation”. Diabetes, 70, 2, Pp. 347-63",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Welcome to Biophysics Reviews, a Big Tent for the Biophysics Community",
+      "year": 2020,
+      "citation_raw": "141 ., Parker KK, Longobardi L, and Sulicz A. 2020. “Welcome to Biophysics Reviews, a Big Tent for the Biophysics Community”. Biophysics Reviews, 1, 1, Pp. 010401",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Fattening Chips: Hypertrophy, Feeding, and Fasting of Human White Adipocytes in Vitro",
+      "year": 2020,
+      "citation_raw": "139 ., Pope BD, Warren CR, Dahl MO, Pizza CV, Henze DE, Sinatra NR, Gonzalez GM, Chang H, Liu Q, Gleiberman AL, Ferrier JP, Cowan CA, and Parker KK. 2020. “Fattening Chips: Hypertrophy, Feeding, and Fasting of Human White Adipocytes in Vitro”. Lab on a Chip, 22",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Endothelial Extracellular Vesicles Contain Protective Proteins and Rescue Ischemia-Reperfusion Injury in a Human Heart-on-Chip",
+      "year": 2020,
+      "citation_raw": "140 ., Yadid M, Lind JU, Herdeline AMA, Sheehy SP, Dickinson LE, Eweje F, Bastings MCB, Pope B, O’Connor BB, Straubhaar JR, Kleb Budnik B, Kleber AG, and Parker KK. 2020. “Endothelial Extracellular Vesicles Contain Protective Proteins and Rescue Ischemia-Reperfusion Injury in a Human Heart-on-Chip”. Science Translational Medicine, 12, 565",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Biomimetic and Estrogenic Fibers Promote Tissue Repair in Mice and Human Skin via Estrogen Receptor β",
+      "year": 2020,
+      "citation_raw": "138 ., Ahn S, Chantre CO, Ardoña HAM, Gonzalez GM, Campbell PH, and Parker KK. 2020. “Biomimetic and Estrogenic Fibers Promote Tissue Repair in Mice and Human Skin via Estrogen Receptor β”. Biomaterials, 255, Pp. 120149",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Development of Biodegradable and Antimicrobial Electrospun Zein Fibers for Food Packaging",
+      "year": 2020,
+      "citation_raw": "137 ., Aytac Z, Huang R, Vaze N, Xu T, Eitzer BD, Krol W, MacQueen LA, Chang H, Bousfield DW, Chan-Park MB, Ng KW, Parker KK, White JC, and Demokritou P. 2020. “Development of Biodegradable and Antimicrobial Electrospun Zein Fibers for Food Packaging”. ACS Sustainable Chemistry & Engineering, 8, 40, Pp. 15354-65",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Next-Generation Tissue-Engineered Heart Valves With Repair, Remodelling and Regeneration Capacity",
+      "year": 2020,
+      "citation_raw": "136 ., Fioretta ES, Motta SE, Lintas Valentina, Loerakker S, Parker KK, Baaijens FPT, Falk V, Hoerstrup SP, and Emmert MY. 2020. “Next-Generation Tissue-Engineered Heart Valves With Repair, Remodelling and Regeneration Capacity”. Nature Reviews Cardiology, 18, Pp. 92–116",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Para-Aramid Fiber Sheets for Simultaneous Mechanical and Thermal Protection in Extreme Environments",
+      "year": 2020,
+      "citation_raw": "135 ., Gonzalez GM, Ward J, Song J, Swana K, Fossey SA, Palmer JL, Zhang FW, Lucian VM, Cera L, Zimmerman JF, Burpo FJ, and Parker KK. 2020. “Para-Aramid Fiber Sheets for Simultaneous Mechanical and Thermal Protection in Extreme Environments”. Matter, 3, 3, Pp. 742-58",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Some Data Is Hard To Get-Some Data You Have to Be Hard to Get",
+      "year": 2020,
+      "citation_raw": "134 . and K. K. Parker. 2020. “Some Data Is Hard To Get-Some Data You Have to Be Hard to Get”. Matter, 3, 3, Pp. 623–627",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Proteomic and Metabolomic Characterization of Human Neurovascular Unit Cells in Response to Methamphetamine",
+      "year": 2020,
+      "citation_raw": "133 ., Herland A, Maoz BM, Fitzgerald EA, Grevesse T, Vidoudez C, Sheehy SP, Budnik N, Dauth S, Mannix R, Budnik B, Parker KK, and Ingber DE. 2020. “Proteomic and Metabolomic Characterization of Human Neurovascular Unit Cells in Response to Methamphetamine”. Advanced Biosystems, 4, 9, Pp. e1900230",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "A Bioinspired and Hierarchically Structured Shape-Memory Material",
+      "year": 2020,
+      "citation_raw": "132 ., Cera L, Gonzalez GM, Liu Q, Choi S, Chantre CO, Lee J, Gabardi R, Choi MC, Shin K, and Parker KK. 2020. “A Bioinspired and Hierarchically Structured Shape-Memory Material”. Nature Materials, 20, Pp. 242–249",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "The Role of Extracellular Matrix in Normal and Pathological Pregnancy: Future Applications of Microphysiological Systems in Reproductive Medicine",
+      "year": 2020,
+      "citation_raw": "130 ., O’Connor BB, Pope B, Peters MM, Ris-Stalpers C, and Parker KK. 2020. “The Role of Extracellular Matrix in Normal and Pathological Pregnancy: Future Applications of Microphysiological Systems in Reproductive Medicine”. Experimental Biology and Medicine, 245, 13, Pp. 1163-74",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Continuous Formation of Ultrathin, Strong Collagen Sheets With Tunable Anisotropy and Compaction",
+      "year": 2020,
+      "citation_raw": "131 ., Malladi S, Miranda-Nieves D, Leng L, Grainger SJ, Tarabanis C, Nesmith AP, Kosaraju R, Haller CA, Parker KK, Chaikof EL, and Guenther A. 2020. “Continuous Formation of Ultrathin, Strong Collagen Sheets With Tunable Anisotropy and Compaction”. ACS Biomaterials Science & Engineering, 6, 7, Pp. 4236-46",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Human Brain Microvascular Endothelial Cell Pairs Model Tissue-Level Blood–brain Barrier Function",
+      "year": 2020,
+      "citation_raw": "129 ., O’Connor BB, Grevesse T, Zimmerman JF, Ardoña HAM, Jimenez JA, Bitounis D, Demokritou P, and Parker KK. 2020. “Human Brain Microvascular Endothelial Cell Pairs Model Tissue-Level Blood–brain Barrier Function”. Integrative Biology, 2, 3, Pp. 64-79",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Extracellular Matrix, Mechanotransduction and Structural Hierarchies in Heart Tissue Engineering",
+      "year": 2007,
+      "citation_raw": "13 ., Parker KK, and Donald Ingber. 2007. “Extracellular Matrix, Mechanotransduction and Structural Hierarchies in Heart Tissue Engineering”. Philosophical Transactions of the Royal Society B: Biological Sciences, 362, 1484, Pp. 1267-79",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Microtubules Can Bear Enhanced Compressive Loads in Living Cells Because of Lateral Reinforcement",
+      "year": 2006,
+      "citation_raw": "10 ., Brangwynne CP, Mackintosh FC, Kumar S, Geisse NA, Talbot J, Mahadevan L, Parker KK, Ingber DE, and Weitz DA. 2006. “Microtubules Can Bear Enhanced Compressive Loads in Living Cells Because of Lateral Reinforcement.”. Journal of Cell Biology, 173, 5, Pp. 733-41",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Symmetry-Breaking in Mammalian Cell Cohort Migration During Tissue Pattern Formation: Role of Random-Walk Persistence",
+      "year": 2005,
+      "citation_raw": "9 ., Huang S, Brangwynne CP, Parker KK, and Ingber DE. 2005. “Symmetry-Breaking in Mammalian Cell Cohort Migration During Tissue Pattern Formation: Role of Random-Walk Persistence”. Cell Motil Cytoskeleton, 6, 61, Pp. 201-13",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Stretch-Induced Ventricular Arrhythmias During Acute Ischemia and Reperfusion",
+      "year": 2004,
+      "citation_raw": "8 ., Parker KK, Lavelle JA, Taylor LK, Wang Z, and Hansen DE. 2004. “Stretch-Induced Ventricular Arrhythmias During Acute Ischemia and Reperfusion”. J Appl Physiol, 97, 1, Pp. 377-83. doi:https://doi.org/10.1152/japplphysiol.01235.2001",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Analytical Model for Predicting Mechanotransduction Effects in Engineered Cardiac Tissue",
+      "year": 2003,
+      "citation_raw": "7 ., Latimer DC, Roth BJ, and Parker KK. 2003. “Analytical Model for Predicting Mechanotransduction Effects in Engineered Cardiac Tissue.”. Tissue Engineering, 9, 2, Pp. 283-89",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Directional Control of Lamellipodia Extension by Constraining Cell Shape and Orienting Cell Tractional Forces",
+      "year": 2002,
+      "citation_raw": "5 ., Parker KK, Brock AL, Brangwynne C, Mannix RJ, Wang N, Ostuni E, Geisse NA, Adams JC, Whitesides GM, and Ingber DE. 2002. “Directional Control of Lamellipodia Extension by Constraining Cell Shape and Orienting Cell Tractional Forces”. Federation of American Societies for Experimental Biology (FASEB), 16, 10, Pp. 1195-1204",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Cardiomyocyte Cultures With Controlled Macroscopic Anisotropy: A Model for Functional Electrophysiological Studies of Cardiac Muscle",
+      "year": 2002,
+      "citation_raw": "6 ., Bursac N, Parker KK, Iravanian S, and Tung L. 2002. “Cardiomyocyte Cultures With Controlled Macroscopic Anisotropy: A Model for Functional Electrophysiological Studies of Cardiac Muscle”. Circulation Research, 99, 12, Pp. e45-e54",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "The Effects of Tubulin-Binding Agents on Stretch-Induced Ventricular Arrhythmias",
+      "year": 2001,
+      "citation_raw": "4 ., Parker KK, Taylor LK, Atkinson JB, Hansen DE, and Wikswo JP Jr. 2001. “The Effects of Tubulin-Binding Agents on Stretch-Induced Ventricular Arrhythmias”. European Journal of Pharmacology, 417, 1-2, Pp. 131-40",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Stretch-Induced Ventricular Arrhythmias During Acute Ischemia and Reperfusion",
+      "year": 2001,
+      "citation_raw": "3 ., Parker KK, Lavelle JA, Taylor LK, Wang Z, and Hansen DE. 2001. “Stretch-Induced Ventricular Arrhythmias During Acute Ischemia and Reperfusion”. Journal of Applied Physiology, 97, 1, Pp. 377-83",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Symmetry Breaking in Cultured Mammalian Cells",
+      "year": 2001,
+      "citation_raw": "2 ., Brangwynne C, Huang S, Parker KK, Ingber DE, and Ostuni E. 2001. “Symmetry Breaking in Cultured Mammalian Cells”. In Vitro Cellular & Developmental Biology - Animal, 36, 9, Pp. 563-65",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "A Model of the Magnetic Fields Created by Single Motor Unit Compound Action Potentials in Skeletal Muscle",
+      "year": 1997,
+      "citation_raw": "1., Parker KK, and Wikswo JP Jr. 1997. “A Model of the Magnetic Fields Created by Single Motor Unit Compound Action Potentials in Skeletal Muscle.”. IEEE Trans Biomed Eng., 44, 10, Pp. 948-57",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Inkjet-Printed Carbon Nanotubes for Fabricating a Spoof Fingerprint on Paper",
+      "year": 2019,
+      "citation_raw": "116 ., Soum V, Park S, Brilian AI, Kim Y, Ryu MY, Brazell T, Burpo FJ, Parker KK, Kwon OS, and Shin K. 2019. “Inkjet-Printed Carbon Nanotubes for Fabricating a Spoof Fingerprint on Paper”. American Chemical Society Omega, 4, 5, Pp. 8626-31",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Scatter Enhanced Phase Contrast Microscopy for Discriminating Mechanisms of Active Nanoparticle Transport in Living Cells",
+      "year": 2019,
+      "citation_raw": "115 ., Zimmerman JF, Ardoña HAM, Pyrgiotakis G, Dong J, Moudgil B, Demokritou P, and Parker KK. 2019. “Scatter Enhanced Phase Contrast Microscopy for Discriminating Mechanisms of Active Nanoparticle Transport in Living Cells”. Nanoletters, 19, 2, Pp. 793-804",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Designer Assays for Your Sick, Subdivided Heart",
+      "year": 2019,
+      "citation_raw": "114 . and Parker KK. 2019. “Designer Assays for Your Sick, Subdivided Heart”. Cell, 176, 4, Pp. 684-85",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "A Tissue-Engineered Scale Model of the Heart Ventricle",
+      "year": 2018,
+      "citation_raw": "113 ., MacQueen LA, Sheehy SP, Chantre CO, Zimmerman JF, Pasqualini FS, Liu X, Goss JA, Campbell PH, Gonzalez GM, Park SJ, Capulli AK, Ferrier JP, Kosar TF, Mahadevan L, Pu WT, and Parker KK. 2018. “A Tissue-Engineered Scale Model of the Heart Ventricle”. Nature Biomedical Engineering, 2, 12, Pp. 930-41",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "A Viscoelastic Beam Theory of Polymer Jets With Application to Rotary Jet Spinning",
+      "year": 2018,
+      "citation_raw": "112 ., Liu Q, and Parker KK. 2018. “A Viscoelastic Beam Theory of Polymer Jets With Application to Rotary Jet Spinning”. Extreme Mechanics Letters, 25, Pp. 37-44",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "A Linked Organ-on-Chip Model of the Human Neurovascular Unit Reveals the Metabolic Coupling of Endothelial and Neuronal Cells",
+      "year": 2018,
+      "citation_raw": "111 ., Maoz BM, Herland A, Fitzgerald EA, Grevesse T, Vidoudez C, Pacheco AR, Sheehy SP, Park TE, Dauth S, Mannix R, Budnik N, Shores K, Cho A, Nawroth JC, Segrè D, Budnik B, Ingber DE, and Parker KK. 2018. “A Linked Organ-on-Chip Model of the Human Neurovascular Unit Reveals the Metabolic Coupling of Endothelial and Neuronal Cells”. Nature Biotechnology, 36, 9, Pp. 865-74",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Mussel-Inspired 3D Fiber Scaffolds for Heart-on-a-Chip Toxicity Studies of Engineered Nanomaterials",
+      "year": 2018,
+      "citation_raw": "110 ., Ahn S, Ardoña HAM, Lind JU, Eweje F, Kim SL, Gonzalez GM, Liu Q, Zimmerman JF, Pyrgiotakis G, Zhang Z, Beltran-Huarac J, Carpinone P, Moudgil BM, Demokritou P, and Parker KK. 2018. “Mussel-Inspired 3D Fiber Scaffolds for Heart-on-a-Chip Toxicity Studies of Engineered Nanomaterials”. Anal Bioanal Chem, 410, 24, Pp. 6141-54",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Nanofiber-Reinforced Soft Fluidic Micro-Actuators",
+      "year": 2018,
+      "citation_raw": "109 ., Sinatra NR, Ranzani T, Vlassak JJ, Parker KK, and Wood RJ. 2018. “Nanofiber-Reinforced Soft Fluidic Micro-Actuators”. Journal of Micromechanics and Microengineering, 28, 8, Pp. 84002",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Photosynthetic Artificial Organelles Sustain and Control ATP-Dependent Reactions in a Protocellular System",
+      "year": 2018,
+      "citation_raw": "108 ., Lee KY, Park S-J, Lee KA, Kim S-H, Kim H, Meroz Y, Mahadevan L, Jung K-H, Ahn TK, and Parker KK. 2018. “Photosynthetic Artificial Organelles Sustain and Control ATP-Dependent Reactions in a Protocellular System”. Nature Biotechnology, 36, 6, Pp. 530-35",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Production-Scale Fibronectin Nanofibers Promote Wound Closure and Tissue Repair in a Dermal Mouse Model",
+      "year": 2018,
+      "citation_raw": "107 ., Chantre CO, Campbell PH, Golecki HM, Buganza AT, Capulli AK, Deravi LF, Dauth S, Sheehy SP, Paten JA, Gledhill K, Doucet YS, Abaci HE, Ahn S, Pope BD, Ruberti JW, Hoerstrup SP, Christiano AM, and Parker KK. 2018. “Production-Scale Fibronectin Nanofibers Promote Wound Closure and Tissue Repair in a Dermal Mouse Model”. Biomaterials, 166, 1, Pp. 96-108",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Soy Protein Cellulose Nanofiber Scaffolds Mimicking Skin Extracellular Matrix for Enhanced Wound Healing",
+      "year": 2018,
+      "citation_raw": "106 ., Ahn S, Chantre CO, Gannon AR, Lind JU, Campbell PH, Grevesse T, O’Connor BB, and Parker KK. 2018. “Soy Protein Cellulose Nanofiber Scaffolds Mimicking Skin Extracellular Matrix for Enhanced Wound Healing”. Advanced Healthcare Materials, 7, 9, Pp. e1701175",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Traction Force Microscopy of Engineered Cardiac Tissues",
+      "year": 2018,
+      "citation_raw": "picture_as_pdf Soy Protein/Cellulose Nan... 105 ., Pasqualini FS, Agarwal A, O’Connor BB, Liu Q, Sheehy SP, and Parker KK. 2018. “Traction Force Microscopy of Engineered Cardiac Tissues”. PLOS One, 13, 3",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Instrumented Cardiac Microphysiological Devices via Multimaterial Three-Dimensional Printing",
+      "year": 2017,
+      "citation_raw": "92 ., Lind JU, Busbee TA, Valentine AD, Pasqualini FS, Yuhan H, Yadid M, Park SJ, Kotikian A, Nesmith AP, Campbell PH, Vlassak JJ, Lewis JA, and Kevin Kit Parker. 2017. “Instrumented Cardiac Microphysiological Devices via Multimaterial Three-Dimensional Printing”. Nature Materials, 16, 3, Pp. 303-8",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Design and Fabrication of Fibrous Nanomaterials Using Pull Spinning",
+      "year": 2017,
+      "citation_raw": "91 ., Deravi LF, Sinatra NR, Chantre CO, Nesmith AP, Yuan H, Deravi SK, Goss JA, MacQueen LA, Badrossamy MR, Gonzalez GM, Phillips MD, and Parker KK. 2017. “Design and Fabrication of Fibrous Nanomaterials Using Pull Spinning”. Macromolecular Materials and Engineering, 302, 3, Pp. 1600404",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Organ Chips: Quality Assurance Systems in Regenerative Medicine",
+      "year": 2017,
+      "citation_raw": "90 ., Pasqualini FS, Emmert MY, Parker KK, and Hoerstrup SP. 2017. “Organ Chips: Quality Assurance Systems in Regenerative Medicine”. Clinical Pharmacology & Therapeutics, 101, 1, Pp. 31-34",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Mechanotransduction and Metabolism in Cardiomyocyte Microdomains",
+      "year": 2016,
+      "citation_raw": "89 ., Pasqualini FS, Nesmith AP, Horton RE, Sheehy SP, and Parker KK. 2016. “Mechanotransduction and Metabolism in Cardiomyocyte Microdomains”. BioMed Research International, 2016, 4081638, Pp. 1-17",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Matched-Comparative Modeling of Normal and Diseased Human Airway Responses Using a Microengineered Breathing Lung Chip",
+      "year": 2016,
+      "citation_raw": "88 ., Benam KH, Novak R, Nawroth J, Hirano-Kobayashi M, Ferrante TC, Choe Y, Prantil-Baun R, Weaver JC, Bahinski A, Parker KK, and Ingber DE. 2016. “Matched-Comparative Modeling of Normal and Diseased Human Airway Responses Using a Microengineered Breathing Lung Chip”. Cell Systems, 3, 5, Pp. 456-66",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "A Human in Vitro Model of Duchenne Muscular Dystrophy Muscle Formation and Contractility",
+      "year": 2016,
+      "citation_raw": "87 ., Nesmith AP, Wagner MA, Pasqualini FS, O’Connor BB, Pincus MJ, August PR, and Parker KK. 2016. “A Human in Vitro Model of Duchenne Muscular Dystrophy Muscle Formation and Contractility”. The Journal of Cell Biology, 215, 1, Pp. 47-56",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Acute Pergolide Exposure Stiffens Engineered Valve Interstitial Cell Tissues and Reduced Contractility in Vitro",
+      "year": 2016,
+      "citation_raw": "83 ., Capulli AK, MacQueen LA, O’Connor BB, Dauth S, and Parker KK. 2016. “Acute Pergolide Exposure Stiffens Engineered Valve Interstitial Cell Tissues and Reduced Contractility in Vitro”. Cardiovascular Pathology, 25, 4, Pp. 316-24",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Phototactic Guidance of a Tissue-Engineered Soft-Robotic Ray",
+      "year": 2016,
+      "citation_raw": "82 ., Park SJ, Gazzola M, Park KS, Park S, DiSanto V, Blevins EL, Lind JU, Campbell PH, Dauth S, Capulli AK, Pasqualini FS, Ahn S, Cho A, Yuan H, Maoz BM, Vijaykumar R, Choi JW, Deisseroth K, Lauder GV, Mahadevan L, and Parker KK. 2016. “Phototactic Guidance of a Tissue-Engineered Soft-Robotic Ray”. Science, 353, 6295, Pp. 158-62",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Extracellular Matrix Protein Expression Is Brain Region Dependent",
+      "year": 2016,
+      "citation_raw": "80 ., Dauth S, Grevesse T, Pantazopoulos H, Campbell PH, Maoz BM, Berretta S, and Parker KK. 2016. “Extracellular Matrix Protein Expression Is Brain Region Dependent”. The Journal of Comparative Neurology, 524, 7, Pp. 1309-36",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Laminar Ventricular Myocardium on a Microelectrode Array-Based Chip",
+      "year": 2016,
+      "citation_raw": "81 ., Kujala VJ, Pasqualini FS, Goss JA, Nawroth JC, and Parker KK. 2016. “Laminar Ventricular Myocardium on a Microelectrode Array-Based Chip”. Journal of Materials Chemistry B, 4, 20, Pp. 3534-43",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Coupling Primary and Stem Cell-Derived Cardiomyocytes in an in Vitro Model of Cardiac Cell Therapy",
+      "year": 2016,
+      "citation_raw": "79 ., Aratyn-Schaus Y, Pasqualini FS, Yuan H, McCain ML, Ye GJ, Sheehy SP, Campbell PH, and Parker KK. 2016. “Coupling Primary and Stem Cell-Derived Cardiomyocytes in an in Vitro Model of Cardiac Cell Therapy”. Journal of Cell Biology, 212, 4, Pp. 389–397",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Angiotensin II Induced Cardiac Dysfunction on a Chip",
+      "year": 2016,
+      "citation_raw": "78 ., Horton RE, Yadid M, McCain, ML, Sheehy SP, Pasqualini FS, Park SJ, Cho A, Campbell P, and Parker KK. 2016. “Angiotensin II Induced Cardiac Dysfunction on a Chip.”. PLOS ONE, 1, 1, Pp. e0146415",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Engineering Hybrid Polymer-Protein Super-Aligned Nanofibers via Rotary Jet Spinning",
+      "year": 2014,
+      "citation_raw": "59 ., Badrossamay MR, Balachandran K, Capulli AK, Golecki HM, Agarwal A, Goss JA, Kim H, Shin K, and Parker KK. 2014. “Engineering Hybrid Polymer-Protein Super-Aligned Nanofibers via Rotary Jet Spinning”. Biomaterials, 35, 10, Pp. 3188-97",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Human Airway Musculature on a Chip: An in Vitro Model of Allergic Asthmatic Bronchoconstriction and Bronchodilation",
+      "year": 2014,
+      "citation_raw": "67 ., Nesmith AP, Agarwal A, McCain ML, and Parker KK. 2014. “Human Airway Musculature on a Chip: An in Vitro Model of Allergic Asthmatic Bronchoconstriction and Bronchodilation”. Lab Chip, 14, 20, Pp. 3925-36",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Matrix Elasticity Regulates the Optimal Cardiac Myocyte Shape for Contractility",
+      "year": 2014,
+      "citation_raw": "62 ., McCain ML, Yuan H, Pasqualini FS, Campbell PH, and Parker KK. 2014. “Matrix Elasticity Regulates the Optimal Cardiac Myocyte Shape for Contractility”. American Journal of Physiology-Heart and Circulatory Physiology, 306, 11, Pp. H1525-H1539",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Micromolded Gelatin Hydrogels for Extended Culture of Engineered Cardiac Tissues",
+      "year": 2014,
+      "citation_raw": "64 ., McCain ML, Agarwal A, Nesmith HW, Nesmith AP, and Parker KK. 2014. “Micromolded Gelatin Hydrogels for Extended Culture of Engineered Cardiac Tissues”. Biomaterials, 35, 21, Pp. 5462-71",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Effect of Solvent Evaporation on Fiber Morphology in Rotary Jet Spinning",
+      "year": 2014,
+      "citation_raw": "68 ., Golecki HM, Yuan H, Glavin C, Potter B, Badrossamay MR, Goss JA, Phillips MD, and Parker KK. 2014. “Effect of Solvent Evaporation on Fiber Morphology in Rotary Jet Spinning”. Langmuir, 30, 44, Pp. 13369-74",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "The Role of Mechanotransduction on Vascular Smooth Muscle Myocytes Cytoskeleton and Contractile Function",
+      "year": 2014,
+      "citation_raw": "65 ., Ye GJ, Nesmith AP, and Parker KK. 2014. “The Role of Mechanotransduction on Vascular Smooth Muscle Myocytes Cytoskeleton and Contractile Function”. Anatomical Record, 297, 9, Pp. 1758-69",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Three-Dimensional Paper-Based Model for Cardiac Ischemia",
+      "year": 2014,
+      "citation_raw": "63 ., Mosadegh B, Dabiri BE, Lockett MR, Derda R, Campbell P, Parker KK, and Whitesides GM. 2014. “Three-Dimensional Paper-Based Model for Cardiac Ischemia”. Advanced Healthcare Materials, 3, 7, Pp. 1036-43",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Approaching the in Vitro Clinical Trial: Engineering Organs on Chips",
+      "year": 2014,
+      "citation_raw": "66 ., Capulli AK, Tian K, Mehandru N, Bukhta A, Choudhury SF, Suchyta M, and Parker KK. 2014. “Approaching the in Vitro Clinical Trial: Engineering Organs on Chips”. Lab Chip, 14, 17, Pp. 3181-6",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Modeling the Mitochondrial Cardiomyopathy of Barth Syndrome With Induced Pluripotent Stem Cell and Heart-on-Chip Technologies",
+      "year": 2014,
+      "citation_raw": "61 ., Wang G, McCain ML, Yang L, He A, Pasqualini FS, Agarwal A, Yuan H, Jiang D, Zhang D, Zangi L, Geva J, Roberts AE, Ma Q, Ding J, Chen J, Wang DZ, Li K, Wang J, Wanders RJ, Kulik W, Vaz FM, Laflamme MA, Murry CE, Chien KR, Kelley RI, Church GM, Parker KK, and Pu WT. 2014. “Modeling the Mitochondrial Cardiomyopathy of Barth Syndrome With Induced Pluripotent Stem Cell and Heart-on-Chip Technologies”. Nature Medicine, 20, 6, Pp. 616-23",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "The Structure-Function Relationships of a Natural Nanoscale Photonic Device in Cuttlefish Chromatophores",
+      "year": 2014,
+      "citation_raw": "57 ., Deravi LF, Magyar AP, Sheehy SP, Bell GRR, Mäthger LM, Senfta SL, Wardill TJ, Lane WS, Kuzirian AM, Hanlon RT, Hu EL, and Parker KK. 2014. “The Structure-Function Relationships of a Natural Nanoscale Photonic Device in Cuttlefish Chromatophores”. Journal of The Royal Society Interface, 11, 93, Pp. 20130942",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "The Contractile Strength of Vascular Smooth Muscle Myocytes Is Shape Dependent",
+      "year": 2014,
+      "citation_raw": "58 ., Ye GJC, Aratyn-Schaus Y, Aratyn-Schaus Y, Nesmith AP, Pasqualini FS, Alford PW, and Parker KK. 2014. “The Contractile Strength of Vascular Smooth Muscle Myocytes Is Shape Dependent”. Integrative Biology, 6, 2, Pp. 152-63",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Quality Metrics for Stem Cell-Derived Cardiac Myocytes",
+      "year": 2014,
+      "citation_raw": "60 ., Sheehy SP, Pasqualini F, Grosberg A, Park SJ, Yvonne Aratyn-Schaus Y, and Parker KK. 2014. “Quality Metrics for Stem Cell-Derived Cardiac Myocytes”. Stem Cell Reports, 6, 23, Pp. 282-94",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Connexin43 Ablation in Foetal Atrial Myocytes Decreases Electrical Coupling, Partner Connexins, and Sodium Current",
+      "year": 2012,
+      "citation_raw": "42 ., Desplantez T, McCain ML, Beauchamp P, Rigoli G, Rothen-Rutishauser B, Parker KK, and Kleber AG. 2012. “Connexin43 Ablation in Foetal Atrial Myocytes Decreases Electrical Coupling, Partner Connexins, and Sodium Current”. Cardiovascular Research, 94, 1, Pp. 58-65",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Electrical Coupling and Propagation in Engineered Ventricular Myocardium With Heterogeneous Expression of Connexin43",
+      "year": 2012,
+      "citation_raw": "43 ., Beauchamp P, Desplantez T, McCain ML, Li W, Asimaki A, Rigoli G, Parker KK, Saffitz JE, and Kleber AG. 2012. “Electrical Coupling and Propagation in Engineered Ventricular Myocardium With Heterogeneous Expression of Connexin43”. 111.259705Circulation Research, 110, 11, Pp. 1445-53",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "The Contribution of Cellular Mechanotransduction to Cardiomyocyte Form and Function",
+      "year": 2012,
+      "citation_raw": "49 ., Sheehy SP, Grosberg A, and Parker KK. 2012. “The Contribution of Cellular Mechanotransduction to Cardiomyocyte Form and Function”. Biomechanics and Modeling in Mechanobiology, 11, 8, Pp. 1227-39",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Controlling the Contractile Strength of Engineered Cardiac Muscle by Hierarchal Tissue Architecture",
+      "year": 2012,
+      "citation_raw": "46 ., Feinberg AW, Alford PW, Jin H, Ripplinger CM, Werdich AA, Sheehy SP, Grosberg A, and Parker KK. 2012. “Controlling the Contractile Strength of Engineered Cardiac Muscle by Hierarchal Tissue Architecture”. Biomaterials, 33, 23, Pp. 5732-41",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Cell-to-Cell Coupling in Engineered Pairs of Rat Ventricular Cardiomyocytes: Relation Between Cx43 Immunofluorescence and Intercellular Electrical Conductance",
+      "year": 2012,
+      "citation_raw": "40 ., McCain ML, Desplantez T, Geisse NA, Rothen-Rutishauser B, Oberer H, Parker KK, and Kleber AG. 2012. “Cell-to-Cell Coupling in Engineered Pairs of Rat Ventricular Cardiomyocytes: Relation Between Cx43 Immunofluorescence and Intercellular Electrical Conductance”. American Journal of Physiology-Heart and Circulatory Physiology, 302, 2, Pp. H443-H450",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "A Tissue-Engineered Jellyfish With Biomimetic Propulsion",
+      "year": 2012,
+      "citation_raw": "47 ., Nawroth JC, Lee H, Feinberg AW, Ripplinger CM, McCain ML, Grosberg A, Dabiri JO, and Parker KK. 2012. “A Tissue-Engineered Jellyfish With Biomimetic Propulsion”. Nature Biotechnology, 30, 8, Pp. 792-97",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Ensembles of Engineered Cardiac Tissues for Physiological and Pharmacological Study: Heart on a Chip",
+      "year": 2011,
+      "citation_raw": "39 ., Grosberg A, Alford PW, McCain ML, and Parker KK. 2011. “Ensembles of Engineered Cardiac Tissues for Physiological and Pharmacological Study: Heart on a Chip”. Lab Chip, 11, 24, Pp. 4165-73",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Cyclic Strain Induces Dual-Mode Endothelial-Mesenchymal Transformation of the Cardiac Valve",
+      "year": 2011,
+      "citation_raw": "38 ., Balachandran K, Alford PW, Wylie-Sears J, Goss JA, Grosberg A, Bischoff J, Aikawa E, Levine RA, and Parker KK. 2011. “Cyclic Strain Induces Dual-Mode Endothelial-Mesenchymal Transformation of the Cardiac Valve”. Proceedings of the National Academy of Sciences, 108, 50, Pp. 19943-48",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Hierarchical Architecture Influences Calcium Dynamics in Engineered Cardiac Muscle",
+      "year": 2011,
+      "citation_raw": "31 ., Pong T, Adams WJ, Bray MA, Feinberg AW, Sheehy SP, Werdich AA, and Parker KK. 2011. “Hierarchical Architecture Influences Calcium Dynamics in Engineered Cardiac Muscle”. Publisher, 236, 3, Pp. 366-73",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Blast-Induced Phenotypic Switching in Cerebral Vasospasm",
+      "year": 2011,
+      "citation_raw": "34 ., Alford PW, Dabiri BE, Goss JA, Hemphill MA, Brigham MD, and Parker KK. 2011. “Blast-Induced Phenotypic Switching in Cerebral Vasospasm”. Proceedings Of The National Academy Of Sciences Of The United States Of America, 108, 31, Pp. 12705-10",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Self-Organization of Muscle Cell Structure and Function",
+      "year": 2011,
+      "citation_raw": "30 ., Grosberg A, Kuo P-L, Guo C-L, Geisse NA, Bray M-A, Adams WJ, Sheehy SP, and Parker KK. 2011. “Self-Organization of Muscle Cell Structure and Function”. PLOS Computational Biology, 7, 2, Pp. e1001088",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Nanowired Three-Dimensional Cardiac Patches",
+      "year": 2011,
+      "citation_raw": "35 ., Dvir T, Timko BP, Brigham MD, , Karajanagi SS, Levy O, Jin H, Kevin Kit Parker, Langer R, and Kohane DS. 2011. “Nanowired Three-Dimensional Cardiac Patches”. Nat Nanotechnol, 6, 11, Pp. 720-25",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Optimization of Electroactive Hydrogel Actuators",
+      "year": 2010,
+      "citation_raw": "23 ., O’Grady M, Kuo P, and Parker KK. 2010. “Optimization of Electroactive Hydrogel Actuators”. ACS Applied Materials & Interfaces, 2, 2, Pp. 343-46",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Computational Modeling of Muscular Thin Films for Cardiac Repair",
+      "year": 2009,
+      "citation_raw": "19 ., Bol M, Reese S, Parker KK, and Kuhl K. 2009. “Computational Modeling of Muscular Thin Films for Cardiac Repair”. Computational Mechanics, 4, 43, Pp. 535-44",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Control of Myocyte Remodeling in Vitro With Engineered Substrates",
+      "year": 2009,
+      "citation_raw": "21 ., Geisse NA, Sheehy SP, and Parker KK. 2009. “Control of Myocyte Remodeling in Vitro With Engineered Substrates”. In Vitro Cellular & Developmental Biology. Animal., 45, 7, Pp. 343-50",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Generation of Functional Ventricular Heart Muscle from Mouse Ventricular Progenitor Cells",
+      "year": 2009,
+      "citation_raw": "22 ., Domian IJ, Chiravuri M, Meer P, Feinberg AW, Shi X, Shao Y, Wu SM, Parker KK, and Chien KR. 2009. “Generation of Functional Ventricular Heart Muscle from Mouse Ventricular Progenitor Cells”. Science, 326, 5951, Pp. 426-29",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Time-Warped Comparison of Gene Expression in Adaptive and Maladaptive Cardiac Hypertrophy",
+      "year": 2009,
+      "citation_raw": "20 ., Sheehy SP, Huang S, and Parker KK. 2009. “Time-Warped Comparison of Gene Expression in Adaptive and Maladaptive Cardiac Hypertrophy”. Publisher, 2, 2, Pp. 116-24",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Sarcomere Alignment Is Regulated by Myocyte Shape",
+      "year": 2008,
+      "citation_raw": "17 ., Bray MA, Sheehy SP, and Parker KK. 2008. “Sarcomere Alignment Is Regulated by Myocyte Shape”. Cell Motil Cytoskeleton, 65, issueNumber, Pp. 641-51",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Dynamic Control of Protein-Protein Interactions",
+      "year": 2008,
+      "citation_raw": "15 ., O’Grady ML, and Parker KK. 2008. “Dynamic Control of Protein-Protein Interactions”. Langmuir, 24, 1, Pp. 316-22",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Myofibrillar Architecture in Engineered Cardiac Myocytes",
+      "year": 2008,
+      "citation_raw": "16 ., Parker KK, Tan J, Chen CS, and Tung L. 2008. “Myofibrillar Architecture in Engineered Cardiac Myocytes”. Circulation Research, 103, 4, Pp. 340-42",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Cardiogenesis and the Complex Biology of Regenerative Cardiovascular Medicine",
+      "year": 2008,
+      "citation_raw": "18 ., Chien KR, Domain IJ, and Parker KK. 2008. “Cardiogenesis and the Complex Biology of Regenerative Cardiovascular Medicine.”. Science, 322, 5907, Pp. 1494-97",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Multidimensional Detection and Analysis of Ca2+ Sparks in Cardiac Myocytes",
+      "year": 2007,
+      "citation_raw": "12 ., Bray MA, Geisse NA, and Parker KK. 2007. “Multidimensional Detection and Analysis of Ca2+ Sparks in Cardiac Myocytes”. Biophysical Journal, 92, 12, Pp. 4433-43",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Engineering Design of a Cardiac Myocyte",
+      "year": 2007,
+      "citation_raw": "11 ., Adams WJ, Pong T, Geisse NA, Sheehy S, and Parker KK. 2007. “Engineering Design of a Cardiac Myocyte”. Journal of Computer-Aided Materials Design, 14, 1, Pp. 19-29",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Muscular Thin Films for Building Actuators and Powering Devices",
+      "year": 2007,
+      "citation_raw": "14 ., Feinberg AW, Feigel A, Shevkoplyas SS, Sheehy S, Whitesides GM, and Parker KK. 2007. “Muscular Thin Films for Building Actuators and Powering Devices”. Science, 7, 317, Pp. 1366-70",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Quantitative Prediction of Human Pharmacokinetic Responses to Drugs via Fluidically Coupled Vascularized Organ Chips",
+      "year": 2020,
+      "citation_raw": "128 ., Herland A, Maoz BM, Das D, Somayaji MR, Prantil-Baun R, Novak R, Cronce M, Huffstater T, Jeanty SSF, Ingram M, Chalkiadaki A, Chou DB, Marquez S, Delahanty A, Jalili-Firoozinezhad S, Sontheimer-Phelps A, Swenor B, Levy O, Parker KK, Przekwas A, and Ingber DE. 2020. “Quantitative Prediction of Human Pharmacokinetic Responses to Drugs via Fluidically Coupled Vascularized Organ Chips”. Nature Biomedical Engineering, 4, 4, Pp. 421-36",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Mapping 2D- and 3D-Distributions of Metal Metal Oxide Nanoparticles Within Cleared Human Ex Vivo Skin Tissues",
+      "year": 2020,
+      "citation_raw": "picture_as_pdf Quantitative prediction o... 125 ., Touloumes GJ, Ardoña HAM, Casalino EK, Zimmerman JF, Chantre CO, Bitounis D, Demokritou P, and Parker KK. 2020. “Mapping 2D- and 3D-Distributions of Metal Metal Oxide Nanoparticles Within Cleared Human Ex Vivo Skin Tissues”. Nanoimpact, 17",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Robotic Fluidic Coupling and Interrogation of Multiple Vascularied Organ Chips",
+      "year": 2020,
+      "citation_raw": "127 ., Novak R, Ingram M, Marquez S, Das D, Delahanty A, Herland A, Maoz BM, Jeanty SSF, Somayaji MR, Burt M, Calamari E, Chalkiadaki A, Cho A, Choe Y, Chou DB, Cronce M, Dauth S, Divic T, Fernandez-Alcon J, Ferrante T, Ferrier J, Fitzgerald EA, Fleming R, Jalili-Firoozinezhad S, Grevesse T, Goss JA, Hamkins-Indik T, Henry O, Hinojosa C, Huffstater T, Jang KJ, Kujala V, Leng L, Mannix R, Milton Y, Nawroth J, Nestor BA, Ng CF, O’Connor B, Park TE, Sanchez H, Sliz J, Sontheimer-Phelps A, Swenor B, Thompson G, Touloumes GJ, Tranchemontagne Z, Wen N, Yadid M, Bahinski A, Hamilton GA, Levner D, Levy O, Przekwas A, Prantil-Baun R, Parker KK, and Ingber DE. 2020. “Robotic Fluidic Coupling and Interrogation of Multiple Vascularied Organ Chips”. Nature Biomedical Engineering, 4, 4, Pp. 407-20",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Inhibition of MTOR Signaling Enhances Maturation of Cardiomyocytes Derived from Human Induced Pluripotent Stem Cells via P53-Induced Quiescence",
+      "year": 2020,
+      "citation_raw": "126 ., Garbern JC, Helman A, Sereda R, Sarikhani M, Ahmed A, Escalante GO, Ogurlu R, Kim SL, Zimmerman JF, Cho A, MacQueen LM, Bezzerides VJ, Parker KK, Melton DA, and Lee RT. 2020. “Inhibition of MTOR Signaling Enhances Maturation of Cardiomyocytes Derived from Human Induced Pluripotent Stem Cells via P53-Induced Quiescence”. Circulation, 141, 4, Pp. 285-300",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Porous Biomimetic Hyaluronic Acid and Extracellular Matrix Protein Nanofiber Scaffolds for Accelerated Cutaneous Tissue Repair",
+      "year": 2019,
+      "citation_raw": "124 ., Chantre CO, Gonzalez GM, Ahn S, Cera L, Campbell PH, Hoerstrup SP, and Parker KK. 2019. “Porous Biomimetic Hyaluronic Acid and Extracellular Matrix Protein Nanofiber Scaffolds for Accelerated Cutaneous Tissue Repair”. American Chemical Society Applied Materials & Interfaces, 11, 49, Pp. 45498-510",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Quantifying the Effects of Engineered Nanomaterials on Endothelial Cell Architecture and Vascular Barrier Integrity Using a Cell Pair Model",
+      "year": 2019,
+      "citation_raw": "122 ., Eweje F, Ardoña HAM, Zimmerman JF, O’Connor BB, Ahn S, Grevesse T, Rivera KN, Demokritou P, and Parker KK. 2019. “Quantifying the Effects of Engineered Nanomaterials on Endothelial Cell Architecture and Vascular Barrier Integrity Using a Cell Pair Model”. Nanoscale, 11, 38, Pp. 17878-93",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Muscle Tissue Engineering in Fibrous Gelatin: Implications for Meat Analogs",
+      "year": 2019,
+      "citation_raw": "123 ., MacQueen LM, Alver CG, Chantre CO, Ahn S, Cera L, Gonzalez GM, O’Connor BB, Drennan DJ, Peters MM, Motta SE, Zimmerman JF, and Parker KK. 2019. “Muscle Tissue Engineering in Fibrous Gelatin: Implications for Meat Analogs”. Npj Science of Food, 3, 20",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Synchronized Stimulation and Continuous Insulin Sensing in a Microfluidic Human Islet on a Chip Designed for Scalable Manufacturing",
+      "year": 2019,
+      "citation_raw": "120 ., Gleiberman AL, Pope BD, Zimmerman JF, Liu Q, Ferrier JP, Kenty JHR, Schrell AM, Mukhitov N, Shores KL, Tepole AB, Melton DA, Roper MG, and Parker KK. 2019. “Synchronized Stimulation and Continuous Insulin Sensing in a Microfluidic Human Islet on a Chip Designed for Scalable Manufacturing”. Lab Chip, 19, 18, Pp. 2993-3010",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Alfalfa Nanofibers for Dermal Wound Healing",
+      "year": 2019,
+      "citation_raw": "121 ., Ahn S, Ardoña HAM, Campbell PH, Gonzalez GM, and Parker KK. 2019. “Alfalfa Nanofibers for Dermal Wound Healing”. American Chemical Society Applied Materials & Interfaces, 11, 37, Pp. 33535-47",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Ultragentle Manipulatoin of Delicate Structures Using a Soft Robotic Gripper",
+      "year": 2019,
+      "citation_raw": "119 ., Sinatra NR, Teeple CB, Vogt DM, Parker KK, Gruber DG, and Wood RJ. 2019. “Ultragentle Manipulatoin of Delicate Structures Using a Soft Robotic Gripper”. Science Robotics, 4, 33",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Insights Into the Pathogenesis of Catecholaminergic Polymorphic Ventricular Tachycardia From Engineered Human Heart Tissue",
+      "year": 2019,
+      "citation_raw": "118 ., Park SJ, Zhang D, Qi Y, Li Y, Lee KY, Bezzerides VJ, Yang P, Xia S, Kim SL, Liu X, Lu F, Pasqualini FS, Campbell PH, Geva J, Roberts A, Kleber AG, Abrams DJ, Pu WT, and Parker KK. 2019. “Insights Into the Pathogenesis of Catecholaminergic Polymorphic Ventricular Tachycardia From Engineered Human Heart Tissue”. Circulation, 140, 5, Pp. 390-404",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Engineering Biomimetic and Instructive Materials for Wound Healing and Regeneration",
+      "year": 2019,
+      "citation_raw": "117 ., Chantre CO, Hoerstrup SP, and Parker KK. 2019. “Engineering Biomimetic and Instructive Materials for Wound Healing and Regeneration”. Current Opinion in Biomedical Engineering, 10, Pp. 97-106",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Automated Fabrication of Photopatterned Gelatin Hydrogels for Organ-on-Chips Applications",
+      "year": 2018,
+      "citation_raw": "103 ., Nawroth JC, Scudder LL, Halvorson RT, Tresback J, Ferrier JP, Sheehy SP, Cho A, Kannan S, Sunyovszki I, Goss JA, Campbell PH, and Parker KK. 2018. “Automated Fabrication of Photopatterned Gelatin Hydrogels for Organ-on-Chips Applications”. Biofabrication, 10, 2, Pp. 25004",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Formation of Multi-Component Extracellular Matrix Protein Fibers",
+      "year": 2018,
+      "citation_raw": "104 ., Seungkuk Ahn, Keel Yong Lee, Kwanwoo Shin, and Parker KK. 2018. “Formation of Multi-Component Extracellular Matrix Protein Fibers”. Scientific Reports, 8, 1, Pp. 1913",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Myofibrils in Cardiomyocytes Tend to Assemble Along the Maximal Principle Stress Directions",
+      "year": 2017,
+      "citation_raw": "102 ., Yuan H, Marzban B, and Parker KK. 2017. “Myofibrils in Cardiomyocytes Tend to Assemble Along the Maximal Principle Stress Directions”. Journal of Biomechanical Engineering, 139, 12, Pp. 1210101–1210108",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Toward Improved Myocardial Maturity in an Organ-on-Chip Platform With Immature Cardiac Myocytes",
+      "year": 2017,
+      "citation_raw": "100 ., Sheehy SP, Grosberg A, Qin P, Behm DJ, Ferrier JP, Eagleson MA, Nesmith AP, Krull D, Falls JG, Campbell PH, McCain ML, Willette RN, Hu E, and Parker KK. 2017. “Toward Improved Myocardial Maturity in an Organ-on-Chip Platform With Immature Cardiac Myocytes”. Experimental Biology and Medicine, 242, 17, Pp. 1643-56",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Biohybrid Actuators for Robotics: A Review of Devices Actuated by Living Cells",
+      "year": 2017,
+      "citation_raw": "101 ., Ricotti L, Trimmer B, Feinberg AW, Raman R, Parker KK, Bashir R, Sitti M, Martel S, Dario P, and Menciassi A. 2017. “Biohybrid Actuators for Robotics: A Review of Devices Actuated by Living Cells”. Science, 2, 12, Pp. eaaq0495",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Cardiac Microphysiological Devices With Flexible Thin-Film Sensors for Higher-Throughput Drug Screening",
+      "year": 2017,
+      "citation_raw": "99 ., Lind JU, Yadid M, Perkins I, O’Connor BB, Eweje F, Chantre CO, Hemphill HA, Yuan H, Campbell PH, Vlassak JJ, and Kevin Kit Parker. 2017. “Cardiac Microphysiological Devices With Flexible Thin-Film Sensors for Higher-Throughput Drug Screening”. Lab Chip, 17, 21, Pp. 3692-3703",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Comparative Analysis of Poly-Glycolic Acid-Based Hybrid Polymer Starter Matrices for in Vitro Tissue Engineering",
+      "year": 2017,
+      "citation_raw": "98 ., Generali M, Kehl D, Capulli AK, Parker KK, Hoerstrup SP, and Weber B. 2017. “Comparative Analysis of Poly-Glycolic Acid-Based Hybrid Polymer Starter Matrices for in Vitro Tissue Engineering”. Colloids and Surfaces B: Biointerfaces, 1, 158, Pp. 203-12",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "JetValve: Rapid Manufacturing of Biohybrid Scaffolds for Biomimetic Heart Valve Replacement",
+      "year": 2017,
+      "citation_raw": "95 ., Capulli AK, Emmert MY, Pasqualini FS, Kehl D, Caliskan E, Lind JU, Sheehy SP, Park SJ, Ahn S, Weber B, Goss JA, Hoerstrup SP, and Parker KK. 2017. “JetValve: Rapid Manufacturing of Biohybrid Scaffolds for Biomimetic Heart Valve Replacement”. Biomaterials, 133, Pp. 229-41",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Organs-on-Chips With Combined Multi-Electrode Array and Transepithelial Electrical Resistance Measurement Capabilities",
+      "year": 2017,
+      "citation_raw": "96 ., Maoz BM, Herland A, Henry OYF, Leineweber WD, Yadid M, Doyle J, Mannix R, Kujala VJ, Fitzgerald EA, Parker KK, and Ingber DE. 2017. “Organs-on-Chips With Combined Multi-Electrode Array and Transepithelial Electrical Resistance Measurement Capabilities”. Lab Chip, 17, 13, Pp. 2294-2302",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Fabrication of Millimeter-Long Carbon Tubular Nanostructures Using the Self-Rolling Process Inherent in Elastic Protein Layers",
+      "year": 2017,
+      "citation_raw": "97 ., Ko H, Deravi LF, Park SJ, Jang J, Lee T, Kang C, Lee JS, Parker KK, and Shin K. 2017. “Fabrication of Millimeter-Long Carbon Tubular Nanostructures Using the Self-Rolling Process Inherent in Elastic Protein Layers”. Advanced Materials, 29, 31, Pp. 1701732",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Safety and Efficacy of Cardiopoietic Stem Cells in the Treatment of Post-Infarction Left-Ventricular Dysfunction – From Cardioprotection to Functional Repair in a Translational Pig Infarction Model",
+      "year": 2017,
+      "citation_raw": "94 ., Emmert MY, Wolint P, Jakab A, Sheehy SP, Pasqualini FS, Nguyen TD, Hilbe M, Seifert B, Weber B, Brokopp CE, Macejovska D, Caliskan E, Eckardstein A, Schwartlander R, Vogel V, Falk V, Parker KK, Gyöngyösi M, and Hoerstrup SP. 2017. “Safety and Efficacy of Cardiopoietic Stem Cells in the Treatment of Post-Infarction Left-Ventricular Dysfunction – From Cardioprotection to Functional Repair in a Translational Pig Infarction Model”. Biomaterials, 122, Pp. 48-62",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Neurons Derived from Different Brain Regions Are Inherently Different in Vitro: A Novel Multiregional Brain-on-a-Chip",
+      "year": 2017,
+      "citation_raw": "93 ., Dauth S, Maoz BM, Sheehy SP, Hemphill MA, Murty T, Macedonia MK, Greer AM, Budnik B, and Parker KK. 2017. “Neurons Derived from Different Brain Regions Are Inherently Different in Vitro: A Novel Multiregional Brain-on-a-Chip”. Journal of Neurophysiology, 117, 3, Pp. 1320-41",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Production of Synthetic, Para-Aramid and Biopolymer Nanofibers by Immersion Rotary Jet-Spinning",
+      "year": 2016,
+      "citation_raw": "86 ., Gonzalez GM, MacQueen LA, Lind JU, Fitzgibbons SA, Chantre CO, Huggler I, Golecki HM, Goss JA, and Parker KK. 2016. “Production of Synthetic, Para-Aramid and Biopolymer Nanofibers by Immersion Rotary Jet-Spinning”. Macromolecular Materials and Engineering, 302, 1, Pp. 1600365",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Microenvironmental Control of Adipocyte Fate and Function",
+      "year": 2016,
+      "citation_raw": "84 ., Pope BD, Warren CR, Parker KK, and Cowan CA. 2016. “Microenvironmental Control of Adipocyte Fate and Function”. Trends in Cell Biology, 26, 10, Pp. 745-55",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Fibrous Scaffolds for Building Hearts and Heart Parts",
+      "year": 2015,
+      "citation_raw": "77 ., Capulli AK, MacQueen LA, Sheehy SP, and Parker KK. 2015. “Fibrous Scaffolds for Building Hearts and Heart Parts”. Advanced Drug Delivery Reviews, 96, Pp. 83-102",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Cytoskeletal Prestress Regulates Nuclear Shape and Stiffness in Cardiac Myocytes",
+      "year": 2015,
+      "citation_raw": "76 ., Lee H, Adams WJ, Alford PW, McCain ML, Feinberg AW, Sheehy SP, Goss JA, and Parker KK. 2015. “Cytoskeletal Prestress Regulates Nuclear Shape and Stiffness in Cardiac Myocytes”. Experimental Biology and Medicine, 240, 11, Pp. 1543-54",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Self-Organizing Large-Scale Extracellular-Matrix Protein Networks",
+      "year": 2015,
+      "citation_raw": "74 ., Ahn S, Deravi LF, Park SJ, Dabiri BE, Kim JS, Parker KK, and Shin K. 2015. “Self-Organizing Large-Scale Extracellular-Matrix Protein Networks”. Advanced Materials, 27, 18, Pp. 2838-45",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Diagnostic Tools for Evaluating the Impact of Focal Axonal Swellings Arising in Neurodegenerative Diseases and Or Traumatic Brain Injury",
+      "year": 2015,
+      "citation_raw": "75 ., Maia PD, Hemphill MA, Zehnder B, Zhang C, Parker KK, and Kutz JN. 2015. “Diagnostic Tools for Evaluating the Impact of Focal Axonal Swellings Arising in Neurodegenerative Diseases and Or Traumatic Brain Injury”. Journal of Neuroscience Methods, 30, 253, Pp. 233-43",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Self-Organizing Largescale Extracellular-Matrix Protein Networks",
+      "year": 2015,
+      "citation_raw": "74 ., Ahn S, Deravi LF, Park SJ, Dabiri BE, Kim JS, Kevin Kit Parker, and Shin K. 2015. “Self-Organizing Largescale Extracellular-Matrix Protein Networks”. Advanced Materials, 27, 18, Pp. 2838-45",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Engineered in Vitro Disease Models",
+      "year": 2015,
+      "citation_raw": "69 ., Benam KH, Dauth S, Hassell B, Herland A, Jain A, Jang KJ, Karalis K, Kim HJ, MacQueen L, Mahmoodian R, Musah S, Torisawa YS, Meer AD, Villenave R, Yadid M, and Parker KK. 2015. “Engineered in Vitro Disease Models”. Annual Review of Pathology: Mechanisms of Disease, 10, Pp. 195-262",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Opposite Rheological Properties of Neuronal Microcompartments Predict Axonal Vulnerability in Brain Injury",
+      "year": 2015,
+      "citation_raw": "72 ., Grevesse T, Dabiri BE, Parker KK, and Gabriele S. 2015. “Opposite Rheological Properties of Neuronal Microcompartments Predict Axonal Vulnerability in Brain Injury”. Scientific Reports, 30, 5, Pp. 9475",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Metrics for Assessing Cytoskeletal Orientational Correlations and Consistency",
+      "year": 2015,
+      "citation_raw": "73 ., Drew NK, Eagleson MA, Baldo DB Jr, Parker KK, and Grosberg A. 2015. “Metrics for Assessing Cytoskeletal Orientational Correlations and Consistency”. Public Library of Science Computational Biology, 11, 4, Pp. e1004190",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Traumatic Brain Injury and the Neuronal Microenvironment: A Potential Role for Neuropathological Mechanotransduction",
+      "year": 2015,
+      "citation_raw": "71 ., Hemphill MA, Dauth S, Yu CJ, Dabiri BE, and Parker KK. 2015. “Traumatic Brain Injury and the Neuronal Microenvironment: A Potential Role for Neuropathological Mechanotransduction”. Neuron, 86, 6, Pp. 1177-92",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Structural Phenotyping of Stem Cell Derived Cardiomyocytes",
+      "year": 2015,
+      "citation_raw": "70 ., Pasqualini FS, Sheehy SP, Agarwal A, Aratyn-Schaus Y, and Parker KK. 2015. “Structural Phenotyping of Stem Cell Derived Cardiomyocytes”. Stem Cell Reports, 4, 3, Pp. 340-7",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Micropatterning Alginate Substrates for In Vitro Cardiovascular Muscle on a Chip",
+      "year": 2013,
+      "citation_raw": "54 ., Agarwal A, Farouz Y, Nesmith AP, Deravi LF, McCain ML, and Parker KK. 2013. “Micropatterning Alginate Substrates for In Vitro Cardiovascular Muscle on a Chip”. Advanced Functional Materials, 23, 30, Pp. 3738-46",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Microfluidic Heart on a Chip for Higher Throughput Pharmacological Studies",
+      "year": 2013,
+      "citation_raw": "55 ., Agarwal A, Goss JA, Cho A, McCain ML, and Parker KK. 2013. “Microfluidic Heart on a Chip for Higher Throughput Pharmacological Studies”. Lab on a Chip, 13, 18, Pp. 3599-608",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Recapitulating Maladaptive, Multiscale Remodeling of Failing Myocardium on a Chip",
+      "year": 2013,
+      "citation_raw": "53 ., McCain ML, Sheehy SP, Grosberg A, Goss JA, and Parker KK. 2013. “Recapitulating Maladaptive, Multiscale Remodeling of Failing Myocardium on a Chip”. Proceedings of the National Academy of Sciences of the United States of America, 110, 24, Pp. 9770-75",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Protein-Based Textiles: Bio-Inspired and Bio-Derived Materials for Medical and Non-Medical Applications",
+      "year": 2013,
+      "citation_raw": "52 ., Deravi LF, Golecki HM, and Parker KK. 2013. “Protein-Based Textiles: Bio-Inspired and Bio-Derived Materials for Medical and Non-Medical Applications”. Journal of Chemical and Biological Interfaces, 1, 1, Pp. 25-34",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Design Standards for Engineered Tissues",
+      "year": 2013,
+      "citation_raw": "56 ., Nawroth JC, and Parker KK. 2013. “Design Standards for Engineered Tissues”. Biotechnology Advances, 31, 5, Pp. 632-7",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "A Potential Role for Integrin Signaling in Mechanoelectrical Feedback",
+      "year": 2012,
+      "citation_raw": "-, Dabiri BE, Lee H, and Parker KK. 2012. “A Potential Role for Integrin Signaling in Mechanoelectrical Feedback”. Progress in Biophysics &Molecular Biology, 110, 43864, Pp. 196-203",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Cooperative Coupling of Cell-Matrix and Cell–cell Adhesions in Cardiac Muscle",
+      "year": 2012,
+      "citation_raw": "McCain ML, Lee H, Aratyn-Schaus Y, Kléber AG, and Kevin Kit Parker. 2012. “Cooperative Coupling of Cell-Matrix and Cell–cell Adhesions in Cardiac Muscle”. PNAS, 109, 25, Pp. 9881-86",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Cooperative Coupling of Cell-Matrix and Cell-Cell Adhesions in Cardiac Muscle",
+      "year": 2012,
+      "citation_raw": "45 ., McCain ML, Lee H, Aratyn-Schaus Y, Kléber AG, and Parker KK. 2012. “Cooperative Coupling of Cell-Matrix and Cell-Cell Adhesions in Cardiac Muscle”. Proceedings of the National Academy of Sciences of the United States of America, 109, 25, Pp. 9881-86",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Muscle on a Chip: In Vitro Contractility Assays for Smooth and Striated Muscle",
+      "year": 2012,
+      "citation_raw": "44 ., Grosberg A, Nesmith AP, Goss JA, Brigham MD, McCain ML, and Parker KK. 2012. “Muscle on a Chip: In Vitro Contractility Assays for Smooth and Striated Muscle”. Journal of Pharmacological and Toxicological Methods, 65, 3, Pp. 126-35",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Myocyte Shape Regulates Lateral Registry of Sarcomeres and Contractility",
+      "year": 2012,
+      "citation_raw": "51 ., Kuo P, Lee H, Bray MA, Geisse NA, Huang YT, Adams WJ, Sheehy SP, and Parker KK. 2012. “Myocyte Shape Regulates Lateral Registry of Sarcomeres and Contractility”. American Journal of Pathology, 101, 6, Pp. 2030-7",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Modeling of Cardiac Muscle Thin Films: Pre-Stretch, Passive and Active Behavior",
+      "year": 2012,
+      "citation_raw": "41 ., Shim J, Grosberg A, Nawroth JC, Parker KK, and Bertoldi K. 2012. “Modeling of Cardiac Muscle Thin Films: Pre-Stretch, Passive and Active Behavior”. Journal of Biomechanics, 45, 5, Pp. 832-41",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Differential Contributions of Conformation Extension and Domain Unfolding to Properties of Fibronectin Nanotexiles",
+      "year": 2012,
+      "citation_raw": "50 ., Deravi LF, Su T, Paten JA, Ruberti JW, Bertoldi K, and Parker KK. 2012. “Differential Contributions of Conformation Extension and Domain Unfolding to Properties of Fibronectin Nanotexiles”. Nano Letters, 12, 11, Pp. 5587-92",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Nanowired Three-Dimensional Cardiac Patches",
+      "year": 2011,
+      "citation_raw": "35 ., Dvir T, Timko BP, Brigham MD, Naik SR, Karajanagi SS, Levy O, Jin H, and Parker KK. 2011. “Nanowired Three-Dimensional Cardiac Patches”. Nature Nanotechnology, 6, 11, Pp. 720-25",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Vascular Smooth Muscle Contractility Depends on Cell Shape",
+      "year": 2011,
+      "citation_raw": "36 ., Alford PW, Nesmith AP, Seywerd JN, Grosberg A, and Parker KK. 2011. “Vascular Smooth Muscle Contractility Depends on Cell Shape”. Integrative Biology, 3, 11, Pp. 1063-70",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "A Simple Model for Nanofiber Formation by Rotary Jet-Spinning",
+      "year": 2011,
+      "citation_raw": "37 ., Mellado P, McIlwee HA, Badrossamay MR, Goss JA, Mahadevan L, and Parker KK. 2011. “A Simple Model for Nanofiber Formation by Rotary Jet-Spinning”. Applied Physics Letters, 99, 20, Pp. 203107",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "A Possible Role for Integrin Signaling in Diffuse Axonal Injury",
+      "year": 2011,
+      "citation_raw": "33 ., Hemphill MA, Dabiri BE, Gabriele S, Kerscher L, Franck C, Goss JA, Alford PW, and Parker KK. 2011. “A Possible Role for Integrin Signaling in Diffuse Axonal Injury”. PLOS ONE, 6, 7, Pp. e22899",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Mechanotransduction: The Role of Mechanical Stress, Myocyte Shape, and Cytoskeletal Architecture on Cardiac Function",
+      "year": 2011,
+      "citation_raw": "32 ., McCain ML, and Parker KK. 2011. “Mechanotransduction: The Role of Mechanical Stress, Myocyte Shape, and Cytoskeletal Architecture on Cardiac Function”. Pflügers Archiv - European Journal of Physiology, 462, 1, Pp. 89–104",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Surface-Initiated Assembly of Protein Nanofabrics",
+      "year": 2010,
+      "citation_raw": "25 ., Feinberg AW, and Kevin Kit Parker. 2010. “Surface-Initiated Assembly of Protein Nanofabrics”. Nanoletters, 10, 6, Pp. 2184-91",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Nuclear Morphology and Deformation in Engineered Cardiac Myocytes and Tissues",
+      "year": 2010,
+      "citation_raw": "27 ., Bray MA, Adams WJ, Geisse NA, Feinberg AW, Sheehy SP, and Parker KK. 2010. “Nuclear Morphology and Deformation in Engineered Cardiac Myocytes and Tissues”. Biomaterials, 31, 19, Pp. 5143-50",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "A Multiscale Model for Eccentric and Concentric Cardiac Growth through Sarcomerogenesis",
+      "year": 2010,
+      "citation_raw": "28 ., Göktepe S, Abilez OJ, Parker KK, and Kuhl E. 2010. “A Multiscale Model for Eccentric and Concentric Cardiac Growth through Sarcomerogenesis”. Publisher, 265, 3, Pp. 433-42",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Biohybrid Thin Films for Measuring Contractility in Engineered Cardiovascular Muscle",
+      "year": 2010,
+      "citation_raw": "24 ., Alford PW, Feinburn AW, Sheehy SP, and Parker KK. 2010. “Biohybrid Thin Films for Measuring Contractility in Engineered Cardiovascular Muscle.”. Biomaterials, 31, 13, Pp. 3613-21",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Nanofiber Assembly by Rotary Jet Spinning",
+      "year": 2010,
+      "citation_raw": "26 ., Badrossamay MR, McIlwee HA, Goss JA, and Parker KK. 2010. “Nanofiber Assembly by Rotary Jet Spinning”. Publisher, 10, 6, Pp. 2257-61",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Surface-Initiated Assembly of Protein Nanofabrics",
+      "year": 2010,
+      "citation_raw": "25 ., Feinberg AW, and Parker KK. 2010. “Surface-Initiated Assembly of Protein Nanofabrics”. Nanoletters, 10, 6, Pp. 2184-91",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Hierarchical Wrinkling Patterns",
+      "year": 2010,
+      "citation_raw": "29 ., Vandeparre H, Gabriele S, Brau F, Gay C, and Parker KK. 2010. “Hierarchical Wrinkling Patterns”. Soft Matter, 6, 22, Pp. 5751-56",
+      "source_url": "https://designbiophysicsgroup.seas.harvard.edu/publications?page=11"
+    }
+  ]
 }

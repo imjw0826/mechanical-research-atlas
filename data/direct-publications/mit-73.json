@@ -5,7 +5,7 @@
   "lab_name": null,
   "lab_url": "https://ramanlab.mit.edu/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/ritur@mit.edu"
+    "https://ramanlab.mit.edu/publications/"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/ritur@mit.edu",
   "discovered_links": [
@@ -67,11 +67,7 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
-  "status": "partial",
-  "papers": [],
+  "previous_coverage_notes": "게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
   "dropped_low_confidence": [
     {
       "title": "MIT Technology Review 35 Innovators Under 35",
@@ -90,6 +86,347 @@
       "year": 2019,
       "citation_raw": "2019, AAAS IF/THEN Ambassador for Women in Science",
       "source_url": "https://meche.mit.edu/people/faculty/ritur@mit.edu"
+    }
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Biohybrid toggle switches: leveraging bistability in muscle-actuated machines, BioRxiv, #corresponding",
+      "year": 2026,
+      "citation_raw": "Journal Articles *co-first, +corresponding 51. Heisser, R.H., Afsar, O.K., Sawyney, P., Castro, N., Lee, I., Marschner, A., and Raman, R.+, (2026). Biohybrid toggle switches: leveraging bistability in muscle-actuated machines. BioRxiv. #corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "2D skeletal muscle thin film actuators enhance efficiency of biohybrid robots",
+      "year": 2026,
+      "citation_raw": "50. Bawa, M., Berman, A., Schwendeman, L., Afghah, F., Johnson, S., and Raman, R.+, (2026). 2D skeletal muscle thin film actuators enhance efficiency of biohybrid robots. Advanced Functional Materials. #corresponding || MIT News Feature",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "IntravChip: a vascularized and perfused microfluidic model of the primary tumor microenvironment to collect intravasated tumor cells, Biofabrication",
+      "year": 2026,
+      "citation_raw": "49. Floryan, M., Cordiale, A., Jensen, H, Chen, J., Guo, Z., Vinayak, V., Kheiri, S, Raman, R., Shenoy, V., Cambria, E., and Kamm, R.D., (2026). IntravChip: a vascularized and perfused microfluidic model of the primary tumor microenvironment to collect intravasated tumor cells. Biofabrication.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "4D force patterning enables spatial control of angiogenesis",
+      "year": 2026,
+      "citation_raw": "48. Kheiri, S.*, Shah, J.*, Chai, P., Venkatesh, S.A., Flynn, R.A., Kamm, R.D.,, and Raman, R.+, (2026). 4D force patterning enables spatial control of angiogenesis. Proceedings of the National Academy of Sciences. #corresponding || MIT News Feature",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Compliant In Vitro Bioelectronics: Biohybrid Device Design Strategies with Materials and Structures",
+      "year": 2026,
+      "citation_raw": "47. Berman, A., Lee, I., and Raman, R.+, (2026). Compliant In Vitro Bioelectronics: Biohybrid Device Design Strategies with Materials and Structures. Extreme Mechanics Letters.#corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Limb-on-a-Chip: an all-hydrogel platform for scalable and reproducible engineering of neuromuscular tissues",
+      "year": 2026,
+      "citation_raw": "46. Schwendeman, L.*, Bu, A.*, Kohli, S., Afghah, F., Rossy, T., and Raman, R.+, (2026). Limb-on-a-Chip: an all-hydrogel platform for scalable and reproducible engineering of neuromuscular tissues. Cell Biomaterials. #corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "The co-development of soft robotics and assistive technology",
+      "year": 2026,
+      "citation_raw": "45. Heisser, R.H., Raman, R., and Shepherd, R.F., (2026). The co-development of soft robotics and assistive technology. Science Robotics.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Advancing bioink homogeneity in extrusion 3D bioprinting with active in situ magnetic mixing, Device, #corresponding || MIT News Feature",
+      "year": 2026,
+      "citation_raw": "44. Afghah, F., Kheiri, S., Ladd, A., Ye, F., McCoy, V., Bai, J., Kohli, S., Zanderigo, G., de Lima, G., and Raman, R.+, (2026). Advancing bioink homogeneity in extrusion 3D bioprinting with active in situ magnetic mixing. Device. #corresponding || MIT News Feature",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Using electronics to build biohybrid robots with physical intelligence",
+      "year": 2026,
+      "citation_raw": "43. Lee, I.*, Berman, A.*, and Raman, R.+, (2026). Using electronics to build biohybrid robots with physical intelligence. Nature Electronics. #corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "GlycoRNA complexed with heparan sulfate regulates VEGF-A signalling",
+      "year": 2026,
+      "citation_raw": "42. Chai, P., Kheiri, S., Kuo, A., Shah, J., Kageler, L., Ge, R., Perr, J., Porat, J., Lebedenko, C., Dias, J.M.L., Yankova, E., Rai, S.K., Watkins, C.P., Hristov, P., Tzelepis, K., Hla, T., Raman, R., Calo, E., Esko, J.D., and Flynn, R.A., (2026). GlycoRNA complexed with heparan sulfate regulates VEGF-A signalling. Nature.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Integrating synthetic biology to understand and engineer the heart, lung, blood, and sleep systems, Cell Systems",
+      "year": 2025,
+      "citation_raw": "41. Chaikof, E. L., Chen, J., Gillette, M.U., Boyer, L.A., Deans, T.L., Li, P., Hilton, I.B., Daniels, K., Goyal, Y., Mei, Y., Linghu, C., Loveless, T.B., Truong, D.M., Blatchley, M.R., Gu, M., Bashor, C.J., Yang, J.H., Raman, R., Reddy, A.B., Saha, K., Davis, J., Gupta, K., Gao, X., Galloway, K.E. (2025). Integrating synthetic biology to understand and engineer the heart, lung, blood, and sleep systems. Cell Systems.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "GlycoRNA complexed with heparan sulfate regulates VEGF-A signalling",
+      "year": 2025,
+      "citation_raw": "42. Chai, P., Kheiri, S., Kuo, A., Shah, J., Kageler, L., Ge, R., Perr, J., Porat, J., Lebedenko, C., Dias, J.M.L., Yankova, E., Rai, S.K., Watkins, C.P., Hristov, P., Tzelepis, K., Hla, T., Raman, R., Calo, E., Esko, J.D., and Flynn, R.A., (2026). GlycoRNA complexed with heparan sulfate regulates VEGF-A signalling. Nature. 41. Chaikof, E. L., Chen, J., Gillette, M.U., Boyer, L.A., Deans, T.L., Li, P., Hilton, I.B., Daniels, K., Goyal, Y., Mei, Y., Linghu, C., Loveless, T.B., Truong, D.M., Blatchley, M.R., Gu, M., Bashor, C.J., Yang, J.H., Raman, R., Reddy, A.B., Saha, K., Davis, J., Gupta, K., Gao, X., Galloway, K.E. (2025). Integrating synthetic biology to understand and engineer the heart, lung, blood, and sleep systems. Cell Systems. 40. Heisser, R.H., Bu, A., Schwendeman, L., Rossy, T., and Raman, R.+, (2025). Physiological and functional characterization for high-throughput optogenetic skeletal muscle exercise assays. Bioengineering and Translational Medicine.#corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Biohybrid tendons enhance the power-to-weight ratio and modularity of muscle-powered robots",
+      "year": 2025,
+      "citation_raw": "39. Castro, N., Bawa, M., Aymon, B., Wu, S., Marschner, A., Kohli, S., Rosado, L., Culpepper, M., Zhao, X., and Raman, R.+, (2025). Biohybrid tendons enhance the power-to-weight ratio and modularity of muscle-powered robots. Advanced Science. #corresponding || MIT News Feature",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Modular and AI-Driven In Situ Monitoring Platform for Real-Time Process Analysis in Embedded Bioprinting, Device",
+      "year": 2025,
+      "citation_raw": "38. Zanderigo, G.*, Afghah, F.*, Colosimo, B.# and Raman, R.+, (2025). Modular and AI-Driven In Situ Monitoring Platform for Real-Time Process Analysis in Embedded Bioprinting. Device, 3(11). #corresponding || MIT News Feature",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Introduction: Soft Robotics",
+      "year": 2025,
+      "citation_raw": "37. Raman, R.+, Chen, X., and Zhao, X., (2025). Introduction: Soft Robotics. Chemical Reviews, 125(11).#corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Meta-adaptive biomaterials: multiscale, spatiotemporal organization and actuation in engineered tissues, Trends in Biotechnology",
+      "year": 2025,
+      "citation_raw": "36. Cedillo-Servin, G., Essa, A., Rossy, T., Teixeira, S., Sage, F., Domingues, R.M.A., Raman, R., and Castilho, M., (2025). Meta-adaptive biomaterials: multiscale, spatiotemporal organization and actuation in engineered tissues. Trends in Biotechnology, 43(11).",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Soft biological actuators for meter-scale homeostatic biohybrid robots",
+      "year": 2025,
+      "citation_raw": "35. Heisser, R., Bawa, M., Shah, J., Bu, A., and Raman, R.+, (2025). Soft biological actuators for meter-scale homeostatic biohybrid robots. Chemical Reviews, 125(7). +corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Leveraging microtopography to pattern multi-oriented muscle actuators",
+      "year": 2025,
+      "citation_raw": "34. Rossy, T.*, Schwendeman, L.*, Kohli, S., Bawa, M., Umashankar, P., Habba, R., Tchaicheeyan, O., Lesman, A., and Raman, R.+, (2025). Leveraging microtopography to pattern multi-oriented muscle actuators. Biomaterials Science, 13(11). *Cover, +corresponding || MIT News Feature",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Integrating bioelectronics with cell-based synthetic biology",
+      "year": 2025,
+      "citation_raw": "33. Rivnay, J, Raman, R., Robinson, J.T., Schreib, C., Cohen-Karni, T., Galloway, K.E., and Veiseh, O., (2025). Integrating bioelectronics with cell-based synthetic biology. Nature Reviews Bioengineering, 3(4).",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Magnetic actuation for mechanomedicine",
+      "year": 2024,
+      "citation_raw": "32. Garcia-Gonzalez, D., Raman, R., Schurle, S., and Tay, A.K.P., (2024). Magnetic actuation for mechanomedicine. Advanced Intelligent Systems, 7(2).",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Actuating extracellular matrices decouple the mechanical and biochemical effects of muscle contraction on motor neurons",
+      "year": 2024,
+      "citation_raw": "31. Bu, A., Afghah, F., Castro, N., Bawa, M., Kohli, S., Shah, K., Rios, B., Butty, V., and Raman, R.+, (2024). Actuating extracellular matrices decouple the mechanical and biochemical effects of muscle contraction on motor neurons. Advanced Healthcare Materials, 14(6). *Cover, +corresponding || MIT News Feature",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Taking control: steering the future of biohybrid robots",
+      "year": 2024,
+      "citation_raw": "30. Bawa, M., Raman, R.+, (2024). Taking control: steering the future of biohybrid robots. Science Robotics, 9(94). +corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Pedagogy in bioengineering: pipettes, practice and patience",
+      "year": 2024,
+      "citation_raw": "29. Raman, R.+, (2024). Pedagogy in bioengineering: pipettes, practice and patience. Nature Reviews Bioengineering, 2(12). +corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Soft robotics for human health, Device",
+      "year": 2024,
+      "citation_raw": "28. Raman, R.+ and Laschi, C.+, (2024). Soft robotics for human health. Device, 2(7). +corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Biofabrication of living actuators",
+      "year": 2024,
+      "citation_raw": "27. Raman, R.+, (2024). Biofabrication of living actuators. Annual Review of Biomedical Engineering, 26(1), pp.223-245. +corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Comparing fabrication techniques for engineered cardiac tissue",
+      "year": 2024,
+      "citation_raw": "26. Hatano, R., Smith, A., Raman, R., Zamora, J.E., Bashir, R., and McCloskey, K.E., (2024). Comparing fabrication techniques for engineered cardiac tissue. Journal of Biomedical Materials Research: Part A, 112(11).",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Enhancing and decoding the performance of muscle actuators with flexures",
+      "year": 2024,
+      "citation_raw": "25. Lynch, N.*, Castro, N*, Sheehan, T., Rosado, L., Rios, B., Culpepper, M., and Raman, R.+, (2024). Enhancing and decoding the performance of muscle actuators with flexures. Advanced Intelligent Systems, 6(7). *Cover, +corresponding || MIT News Feature",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Mechanically programming anisotropy in engineered muscle with actuating extracellular matrices, Device",
+      "year": 2023,
+      "citation_raw": "24. Rios, B.*, Bu, A.*, Sheehan, T., Kobeissi, H., Kohli, S., Shah, K., Lejeune, E., and Raman, R.+, (2023). Mechanically programming anisotropy in engineered muscle with actuating extracellular matrices. Device, 1(4). *Cover, +corresponding || Github || MIT News Feature",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Actuated tissue engineered muscle grafts restore functional mobility after volumetric muscle loss",
+      "year": 2023,
+      "citation_raw": "23. Rousseau, R.*, Raman, R.*,+ , Tamir, T.*, Bu, A., Srinivasan, S., Lynch, N., Langer, R., White, F.M., and Cima, M.J., (2023). Actuated tissue engineered muscle grafts restore functional mobility after volumetric muscle loss. Biomaterials, 302, p.122317. *co-first, +corresponding || MIT News Feature",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Will microfluidics enable functionally integrated bio-hybrid robots? Proceedings of the National Academy of Sciences",
+      "year": 2022,
+      "citation_raw": "22. Filippi, M., Yasa, O., Kamm, R.D., Raman, R., and Katzschmann, R., (2022). Will microfluidics enable functionally integrated bio-hybrid robots? Proceedings of the National Academy of Sciences, 119(35), p.e2200741119.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Principles for the design of multicellular engineered living systems, APL Bioengineering",
+      "year": 2022,
+      "citation_raw": "21. Aydin, O.*, Passaro, A*., Raman, R.*, Spellicy, S.*, Weinberg, R.P., Kamm, R.D., Sample, M., Truskey, G.A., Zartman, J., Dar, R.D., Palacios, S., Wang, J., Tordoff, J., Montserrat, N., Bashir, R., Saif, M.T.A., and Weiss, R., (2022). Principles for the design of multicellular engineered living systems. APL Bioengineering, 6(1). *co-first",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Will microfluidics enable functionally integrated bio-hybrid robots? Proceedings of the National Academy of Sciences",
+      "year": 2021,
+      "citation_raw": "22. Filippi, M., Yasa, O., Kamm, R.D., Raman, R., and Katzschmann, R., (2022). Will microfluidics enable functionally integrated bio-hybrid robots? Proceedings of the National Academy of Sciences, 119(35), p.e2200741119. 21. Aydin, O.*, Passaro, A*., Raman, R.*, Spellicy, S.*, Weinberg, R.P., Kamm, R.D., Sample, M., Truskey, G.A., Zartman, J., Dar, R.D., Palacios, S., Wang, J., Tordoff, J., Montserrat, N., Bashir, R., Saif, M.T.A., and Weiss, R., (2022). Principles for the design of multicellular engineered living systems. APL Bioengineering, 6(1). *co-first 20. Raman, R.+, (2021). Engineered neuromuscular actuators for medicine, meat, and machines. MRS Bulletin, 46(6), pp.522-533.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "35 challenges in materials science being tackled by PIs under 35(ish) in 2021, Matter",
+      "year": 2021,
+      "citation_raw": "19. Aguado, B., …, Raman, R.,… and Cranford, S., (2021). 35 challenges in materials science being tackled by PIs under 35(ish) in 2021. Matter, 4(12), pp.3804-3810. +corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Platform for micro-invasive membrane-free biochemical sampling of brain interstitial fluid",
+      "year": 2020,
+      "citation_raw": "18. Raman, R.*, Rousseau, E.B.*, Wade, M., Tong, A., Cotler, M.J., Kuang, J., Lugo, A.A., Zhang, E., Graybiel, A.M., White, F.M., Langer, R., and Cima, M., (2020). Platform for micro-invasive membrane-free biochemical sampling of brain interstitial fluid. Science Advances, 6(39), p.eabb0657. *co-first",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Light-degradable hydrogels as dynamic triggers in gastrointestinal applications",
+      "year": 2019,
+      "citation_raw": "17. Raman, R., Hua, T., Gwynne, D., Collins, J., Tamang, S., Soares, V., Esfandiary, T., Zhou, J., Pajovic, S., Hayward, A., Langer, R., and Traverso, G., (2019). Light-degradable hydrogels as dynamic triggers in gastrointestinal applications. Science Advances, 6(3), p.eaay0065. || MIT News Feature",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Biohybrid Design Gets Personal: New Materials for Patient-Specific Therapy",
+      "year": 2019,
+      "citation_raw": "16. Raman, R.+ and Langer, R., (2019). Biohybrid Design Gets Personal: New Materials for Patient-Specific Therapy. Advanced Materials, 32(13), p.1901969. *Cover +corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Modeling muscle: A biohybrid machine offers insight into muscle growth, adaptation, and repair",
+      "year": 2019,
+      "citation_raw": "15. Raman, R.+, 2019. Modeling muscle: A biohybrid machine offers insight into muscle growth, adaptation, and repair. Science, 363(6431). *Sartorius & Science Prize Essay +corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Long-term cryopreservation and revival of tissue engineered skeletal muscle, Tissue Engineering: Part A",
+      "year": 2018,
+      "citation_raw": "14. Grant, L.*, Raman, R.*, Cvetkovic, C., Ferrall-Fairbanks, M.C., Pagan Diaz, G. Hadley, P., Platt, M.O., and Bashir, R., (2018). Long-term cryopreservation and revival of tissue engineered skeletal muscle. Tissue Engineering: Part A, 25(13-14), pp.1023-1036. *co-first",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "2017. A Modular Approach to Design, Fabrication, and Characterization of Muscle-Powered Biological Machines",
+      "year": 2017,
+      "citation_raw": "13. Raman, R., Cvetkovic, C., and Bashir, R., 2017. A Modular Approach to Design, Fabrication, and Characterization of Muscle-Powered Biological Machines. Nature Protocols, 12(3), pp.519-533. *Cover",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Healing and Remodeling in Optogenetic Skeletal Muscle Bioactuators",
+      "year": 2017,
+      "citation_raw": "12. Raman, R., Grant, L., Seo, Y., Cvetkovic, C., Gapinske, M., Palasz, A., Dabbous, H., Kong, H., Perez-Pinera, P., and Bashir, R., 2017. Damage, Healing and Remodeling in Optogenetic Skeletal Muscle Bioactuators. Advanced Healthcare Materials. 6(12). *Cover",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "2017. A 3D-Printed Platform for Modular Neuromuscular Motor Units, Microsystems and Nanoengineering",
+      "year": 2017,
+      "citation_raw": "11. Cvetkovic, C., Rich, M.H., Raman, R., Kong, H., and Bashir, R., 2017. A 3D-Printed Platform for Modular Neuromuscular Motor Units. Microsystems and Nanoengineering. 3, pp. 17015.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Biohybrid actuators for robotics: A review of devices actuated by living cells",
+      "year": 2017,
+      "citation_raw": "10. Ricotti, L., Trimmer, B., Feinberg, A.W., Raman, R., Parker, K.K., Bashir, R., Sitti, M., Martel, S., Dario, P., and Menciassi, A., 2017. Biohybrid actuators for robotics: A review of devices actuated by living cells. Science Robotics, 2(12).",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "and Biohybrid Systems: The Emergence and Evolution of Biological Design",
+      "year": 2017,
+      "citation_raw": "9. Raman, R.+ and Bashir, R., 2017. Biomimicry, Biofabrication, and Biohybrid Systems: The Emergence and Evolution of Biological Design. Advanced Healthcare Materials. +corresponding",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Design and Integration of a Problem-Based Biofabrication Course into an Undergraduate Biomedical Engineering Curriculum",
+      "year": 2016,
+      "citation_raw": "8. Raman, R., Mitchell, M., Perez-Pinera, P., Bashir, R., and Destefano, L., 2016. Design and Integration of a Problem-Based Biofabrication Course into an Undergraduate Biomedical Engineering Curriculum. Journal of Biological Engineering, 10(1), pp.10-18.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": null,
+      "year": 2016,
+      "citation_raw": "7. Raman, R., Cvetkovic, C., Uzel, S.G.M., Platt, R.J., Sengupta, P., Kamm, R.D., and Bashir, R., 2016. Optogenetic skeletal muscle-powered adaptive biological machines. Proceedings of the National Academy of Sciences, 113(13), pp.3497-3502.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "2016. 3D Printing Enables Separation of Orthogonal Functions within a Hydrogel Particle, Biomedical Microdevices",
+      "year": 2016,
+      "citation_raw": "6. Raman, R.*, Clay, N.E.*, Sen, S., Melhem, M., Qin, E., Kong, H., and Bashir, R., 2016. 3D Printing Enables Separation of Orthogonal Functions within a Hydrogel Particle. Biomedical Microdevices, 18(3), pp.1-7. *co-first",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "High‐Resolution Projection Microstereolithography for Patterning of Neovasculature",
+      "year": 2015,
+      "citation_raw": "5. Raman, R., Bhaduri, B., Mir, M., Shkumatov, A., Lee, M.K., Popescu, G., Kong, H., and Bashir, R., 2015. High‐Resolution Projection Microstereolithography for Patterning of Neovasculature. Advanced Healthcare Materials, 5(5). *Cover",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "J.A.S., Raman, R., Chan, V",
+      "year": 2015,
+      "citation_raw": "4. Neiman, J.A.S., Raman, R., Chan, V., Rhoads, M.G., Raredon, M.S.B., Velazquez, J.J., Dyer, R.L., Bashir, R., Hammond, P.T., and Griffith, L.G., 2015. Photopatterning of hydrogel scaffolds coupled to filter materials using stereolithography for perfused 3D culture of hepatocytes. Biotechnology and Bioengineering, 112(4), pp.777-787.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "M.T.A., and Bashir, R",
+      "year": 2014,
+      "citation_raw": "3. Cvetkovic, C.*, Raman, R.*, Chan, V., Williams, B.J., Tolish, M., Bajaj, P., Sakar, M.S., Asada, H.H., Saif, M.T.A., and Bashir, R., 2014. Three-dimensionally printed biological machines powered by skeletal muscle. Proceedings of the National Academy of Sciences, 111(28), pp.10125-10130. *co-first",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Enabling microscale and nanoscale approaches for bioengineered cardiac tissue",
+      "year": 2013,
+      "citation_raw": "2. Chan, V., Raman, R., Cvetkovic, C., and Bashir, R., 2013. Enabling microscale and nanoscale approaches for bioengineered cardiac tissue. ACS Nano, 7(3), pp.1830-1837.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Research Highlights: Highlights from the last year in nanomedicine, Nanomedicine",
+      "year": 2013,
+      "citation_raw": "1. Dorvel, B., Damhorst, G., Chan, V., Shim, J., Banerjee, S., Cvetkovic, C., Raman, R., and Bashir, R., 2013. Research Highlights: Highlights from the last year in nanomedicine. Nanomedicine, 8(1), pp.13-15.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Stereolithographic 3D Bioprinting for Biomedical Applications",
+      "year": 2015,
+      "citation_raw": "1. Raman, R. and Bashir, R. “Stereolithographic 3D Bioprinting for Biomedical Applications”, 3D Biofabrication for Biomedical and Translational Research, 2015.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Provisional: Raman, R., Afghah, S.F, The Massachusetts Institute of Technology, Advancing ink homogeneity in extrusion printing with active in situ mixing, U.S",
+      "year": 2021,
+      "citation_raw": "4. Provisional: Raman, R., Afghah, S.F. The Massachusetts Institute of Technology. Advancing ink homogeneity in extrusion printing with active in situ mixing. U.S. Provisional Application No. 63/878,491. 3. Application: Raman, R., Culpepper, M., Lynch, N., Castro, N., Rosado, L., and Margetts, A. The Massachusetts Institute of Technology. Compliant mechanism for enhancing and/or decoding performance of tissues. PCT/US2025/021700. 2. Issued: Bashir, R., Raman, R., and Cvetkovic, C., The Board of Trustees of the University of Illinois, 2021. Muscle-powered biological machines. U.S. Patent No. 10,906,169.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "Issued: Bashir, R., Chan, V",
+      "year": 2018,
+      "citation_raw": "1. Issued: Bashir, R., Chan, V., Raman, R., and Cvetkovic, C., The Board of Trustees of the University of Illinois, 2018. Locomotive biological machines. U.S. Patent No. 10,156,560.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "“3D Printed Muscle-Powered Bio-Bots“, University of Illinois at Urbana-Champaign",
+      "year": 2016,
+      "citation_raw": "Doctoral Dissertation Raman, R., “3D Printed Muscle-Powered Bio-Bots“, University of Illinois at Urbana-Champaign, 2016.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
+    },
+    {
+      "title": "“3D Microfabrication of Biological Machines“, University of Illinois at Urbana-Champaign",
+      "year": 2013,
+      "citation_raw": "Masters Thesis Raman, R., “3D Microfabrication of Biological Machines“, University of Illinois at Urbana-Champaign, 2013.",
+      "source_url": "https://ramanlab.mit.edu/publications/"
     }
   ]
 }

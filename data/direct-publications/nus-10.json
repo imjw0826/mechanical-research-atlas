@@ -5,17 +5,8 @@
   "lab_name": null,
   "lab_url": "https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/",
   "publication_urls": [
-    "https://am.nus.edu.sg/centre-projects/"
+    "https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/"
   ],
-  "accessed_at": "2026-11-12T13:56:07.653Z",
-  "coverage_notes": [
-    "Official page heading: FUH Ying Hsi, Jerry",
-    "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
-    "No exact Publications/Papers navigation link resolved in captured profile.",
-    "Official profile identifies AM.NUS co-directorship. Actual AM.NUS home and Research / Centre Projects navigated; no Publications item shown. Research projects are not publication records. Individual full-publication list unresolved."
-  ],
-  "status": "partial",
-  "papers": [],
   "source_page_manifest": [
     {
       "url": "https://am.nus.edu.sg/centre-projects/",
@@ -23,5 +14,71 @@
       "accessed_at": "2026-11-12T13:56:07.653Z"
     }
   ],
-  "investigation_stage": "full_site_attempted"
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Official page heading: FUH Ying Hsi, Jerry",
+    "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
+    "No exact Publications/Papers navigation link resolved in captured profile.",
+    "Official profile identifies AM.NUS co-directorship. Actual AM.NUS home and Research / Centre Projects navigated; no Publications item shown. Research projects are not publication records. Individual full-publication list unresolved."
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Defect detection in selective laser melting technology by acoustic signals with deep belief networks",
+      "year": 2018,
+      "citation_raw": "1. D Ye, GS Hong, Y Zhang, K Zhu, JYH Fuh, “Defect detection in selective laser melting technology by acoustic signals with deep belief networks”, The International Journal of Advanced Manufacturing Technology, 1-11, 2018",
+      "source_url": "https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/"
+    },
+    {
+      "title": "Selective Laser Sintering of Porous Silica Enabled by Carbon Additive",
+      "year": 2017,
+      "citation_raw": "2. S Chang, L Li, L Lu, JYH Fuh, “Selective Laser Sintering of Porous Silica Enabled by Carbon Additive”, Materials 10 (11), 1313, 2017 (invited)",
+      "source_url": "https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/"
+    },
+    {
+      "title": "A hybrid electrospinning and electrospraying 3D printing for tissue engineered scaffolds",
+      "year": 2017,
+      "citation_raw": "3. Y Wu, J Fuh, YS Wong, J Sun, “A hybrid electrospinning and electrospraying 3D printing for tissue engineered scaffolds”, Rapid Prototyping Journal 23 (6), 1011-1019, 2017",
+      "source_url": "https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/"
+    },
+    {
+      "title": "Crimped fiber with controllable patterns fabricated via electrohydrodynamic jet printing",
+      "year": 2017,
+      "citation_raw": "4. Y Wu, B Wu, S Vijayavenkataraman, Y San Wong, JYH Fuh, “Crimped fiber with controllable patterns fabricated via electrohydrodynamic jet printing”, Materials & Design 131, 384-393, 1, 2017",
+      "source_url": "https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/"
+    },
+    {
+      "title": "Design of three-dimensional scaffolds with tunable matrix stiffness for directing stem cell lineage specification: An in silico study",
+      "year": 2017,
+      "citation_raw": "5. S Vijayavenkataraman, Z Shuo, JYH Fuh, WF Lu, “Design of three-dimensional scaffolds with tunable matrix stiffness for directing stem cell lineage specification: An in silico study”,Bioengineering 4 (3), 66 1, 2017",
+      "source_url": "https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/"
+    },
+    {
+      "title": "3D printing and 3D bioprinting in pediatrics, Bioengineering",
+      "year": 2017,
+      "citation_raw": "6. S Vijayavenkataraman, JYH Fuh, WF Lu, “3D printing and 3D bioprinting in pediatrics, Bioengineering” 4 (3), 63, 2017 (invited)",
+      "source_url": "https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/"
+    },
+    {
+      "title": "3D printing and 3D bioprinting in pediatrics, Bioengineering",
+      "year": 2013,
+      "citation_raw": "6. S Vijayavenkataraman, JYH Fuh, WF Lu, “3D printing and 3D bioprinting in pediatrics, Bioengineering” 4 (3), 63, 2017 (invited) Books: 1. Lu C，J Y H Fuh*，Y S Wong，Collaborative Product Assembly Design and Assembly Planning: Methodologies and Applications，Cambridge: Woodhead Publishing Ltd，2013",
+      "source_url": "https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/"
+    },
+    {
+      "title": "A Y C Nee and M W Fu, Computer-aided injection mould design and manufacture, New York: Marcel Dekker, Inc",
+      "year": 2004,
+      "citation_raw": "2. Fuh, J Y H, Y F Zhang, A Y C Nee and M W Fu, Computer-aided injection mould design and manufacture. New York: Marcel Dekker, Inc., June 2004, pp.380 (ISBN: 0-8247-5118-3)",
+      "source_url": "https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/"
+    },
+    {
+      "title": "J Y H Fuh and Y S Wong",
+      "year": 2001,
+      "citation_raw": "3. Lu, L, J Y H Fuh and Y S Wong, Laser-induced materials and processes for rapid prototyping. United States: Kluwer Academic Publishers, Boston, June 2001, pp.260 (ISBN: 0-7923-7400-2)",
+      "source_url": "https://cde.nus.edu.sg/me/staff/fuh-ying-hsi-jerry-2/"
+    }
+  ]
 }

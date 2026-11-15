@@ -4,11 +4,71 @@
   "pi": "Andreas Güntner",
   "lab_name": "Homepage",
   "lab_url": "https://hsl.ethz.ch/",
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:57:11.314Z",
-  "coverage_notes": [
+  "publication_urls": [
+    "https://hsl.ethz.ch/publications"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Official directory/profile/lab visited. Structured paper extraction and remaining year/category/pagination navigation pending."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Selective, Stable and Humidity-Robust NO₂ Sensing at Room Temperature with Porous WS₂ Films",
+      "year": 2025,
+      "citation_raw": "Selective, Stable and Humidity-Robust NO₂ Sensing at Room Temperature with Porous WS₂ Films Simone Hersberger, Michael Pereira Martins, Seina Fassbind and Andreas Güntner ACS Sensors, vol. 10: no. 11, pp. 8596-8605, American Chemical Society, 2025.",
+      "source_url": "https://hsl.ethz.ch/publications.html"
+    },
+    {
+      "title": "Photothermal Annealing-Enabled Millisecond Synthesis of Carbon Nanoonions and Simultaneous Single-Atom Functionalization",
+      "year": 2025,
+      "citation_raw": "Photothermal Annealing-Enabled Millisecond Synthesis of Carbon Nanoonions and Simultaneous Single-Atom Functionalization Dogyeong Jeon, Hamin Shin, Jun-Hwe Cha, HongHui Kim, Seohak Park, Jaewan Ahn, Su-Ho Cho, Chungseong Park, Dong-Ha Kim, Euichul Shin, Hionsuck Baik, Jihan Kim, Sung-Yool Choi and Il-Doo Kim ACS Nano, vol. 19: no. 38, pp. 34235-34247, American Chemical Society, 2025.",
+      "source_url": "https://hsl.ethz.ch/publications.html"
+    },
+    {
+      "title": "Neuromorphic Circuit for Temporal Odor Encoding in Turbulent Environments",
+      "year": 2025,
+      "citation_raw": "Neuromorphic Circuit for Temporal Odor Encoding in Turbulent Environments Shavika Rastogi, Nik Dennler, Michael Schmuker and André van Schaik IEEE Sensors Journal, vol. 25: no. 18, pp. 35622-35630, IEEE, 2025.",
+      "source_url": "https://hsl.ethz.ch/publications.html"
+    },
+    {
+      "title": "Alternate-day fasting elicits larger changes in fat mass than time-restricted eating in adults without obesity – A randomized clinical trial",
+      "year": 2025,
+      "citation_raw": "Alternate-day fasting elicits larger changes in fat mass than time-restricted eating in adults without obesity – A randomized clinical trial Nina Derron, Andreas Güntner, Ines Weber, Julia Braun, İlker Ö. Koska, Alaa Othman, Leonie Mönch, Arnold von Eckardstein, Milo A. Puhan, Felix Beuschlein, Michel Hochuli, Nicola Zamboni, Roman Guggenberger and Philipp A. Gerber Clinical Nutrition, vol. 53, pp. 212-221, Elsevier, 2025.",
+      "source_url": "https://hsl.ethz.ch/publications.html"
+    },
+    {
+      "title": "Microbial and antimicrobial resistance diagnostics by gas sensors and machine learning",
+      "year": 2025,
+      "citation_raw": "Microbial and antimicrobial resistance diagnostics by gas sensors and machine learning Mehmet Berk Bilgin, Hamin Shin, Catherine R. Jutzeler, Thomas M. Kessler, Emma Slack, Adrian Egli and Andreas Güntner Cell Biomaterials, vol. 1: no. 7, pp. 100125, Cell Press, 2025.",
+      "source_url": "https://hsl.ethz.ch/publications.html"
+    },
+    {
+      "title": "Revealing Polymorph-Specific Transduction in WO3 during Acetone Sensing",
+      "year": 2025,
+      "citation_raw": "Revealing Polymorph-Specific Transduction in WO3 during Acetone Sensing Matteo D'Andria, Meng Yin, Stefan Neuhauser, Vlasios Mavrantzas, Ying Chen, Ken Suzuki and Andreas Güntner arXiv, pp. 2508.03510, Ithaca, NY: Cornell University, 2025.",
+      "source_url": "https://hsl.ethz.ch/publications.html"
+    },
+    {
+      "title": "Room temperature NO2 chemiresistive sensing with porous WS2 films",
+      "year": 2025,
+      "citation_raw": "Room temperature NO2 chemiresistive sensing with porous WS2 films Simone Hersberger, Michael Pereira Martins, Selina Fassbind and Andreas Güntner ChemRxiv, Cambridge: Cambridge University Press, 2025.",
+      "source_url": "https://hsl.ethz.ch/publications.html"
+    },
+    {
+      "title": "Palladium Aerogel-Enabled Flexible Hydrogen Sensors: An Insight into Structural Origins of Chemiresistive Performance",
+      "year": 2025,
+      "citation_raw": "Palladium Aerogel-Enabled Flexible Hydrogen Sensors: An Insight into Structural Origins of Chemiresistive Performance Jaewan Ahn, Hamin Shin, Minhyun Kim, Jaehyun Ko, Seongcheol Ahn, Dong-Ha Kim and Il-Doo Kim ACS Nano, vol. 19: no. 21, pp. 20257-20268, American Chemical Society, 2025.",
+      "source_url": "https://hsl.ethz.ch/publications.html"
+    },
+    {
+      "title": "Template-Free Synthesis of Highly Porous Metal Nitride Architectures for Electronics and Molecular Sensing",
+      "year": 2025,
+      "citation_raw": "Template-Free Synthesis of Highly Porous Metal Nitride Architectures for Electronics and Molecular Sensing Adrien Baut, Michael Pereira Martins and Andreas Güntner Small Structures, vol. 6: no. 6, pp. 2500044, Wiley-VCH, 2025.",
+      "source_url": "https://hsl.ethz.ch/publications.html"
+    }
+  ]
 }

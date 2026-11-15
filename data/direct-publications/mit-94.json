@@ -5,7 +5,7 @@
   "lab_name": null,
   "lab_url": "https://vanreeslab.mit.edu/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/wvanrees@mit.edu"
+    "https://vanreeslab.mit.edu/publications/"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/wvanrees@mit.edu",
   "discovered_links": [
@@ -35,11 +35,7 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
-  "status": "partial",
-  "papers": [],
+  "previous_coverage_notes": "게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
   "dropped_low_confidence": [
     {
       "title": "2020 US Department of Energy Office of Science Early Career Research Program",
@@ -52,6 +48,311 @@
       "year": 2019,
       "citation_raw": "2019 Winner, Gallery of Fluid Motion, DFD-APS (poster category)",
       "source_url": "https://meche.mit.edu/people/faculty/wvanrees@mit.edu"
+    }
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "A fourth order sharp immersed method for the incompressible Navier-Stokes equations with stationary and moving boundaries and interfaces, Ji, X",
+      "year": 2026,
+      "citation_raw": "A fourth order sharp immersed method for the incompressible Navier-Stokes equations with stationary and moving boundaries and interfaces. Ji, X.; Nigel Shen, C.; and van Rees, W. M. Journal of Computational Physics, 556: 114806. July 2026.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper doi link bibtex",
+      "year": 2025,
+      "citation_raw": "A fourth order sharp immersed method for the incompressible Navier-Stokes equations with stationary and moving boundaries and interfaces. Ji, X.; Nigel Shen, C.; and van Rees, W. M. Journal of Computational Physics, 556: 114806. July 2026. Paper doi link bibtex 2025 (2)",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "A parametric LSTM neural network for predicting flow field dynamics across a design space, Karbasian, H. R",
+      "year": 2025,
+      "citation_raw": "A parametric LSTM neural network for predicting flow field dynamics across a design space. Karbasian, H. R.; and van Rees, W. M. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 481(2307): 20240055. 2025.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "A high-order immersed finite-difference discretization for solving linear and nonlinear elasticity problems, Gabbard",
+      "year": 2025,
+      "citation_raw": "A high-order immersed finite-difference discretization for solving linear and nonlinear elasticity problems. Gabbard, J.; and van Rees , W. M. Computer Methods in Applied Mechanics and Engineering, 446: 118269. 2025.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper doi link bibtex",
+      "year": 2024,
+      "citation_raw": "A high-order immersed finite-difference discretization for solving linear and nonlinear elasticity problems. Gabbard, J.; and van Rees , W. M. Computer Methods in Applied Mechanics and Engineering, 446: 118269. 2025. Paper doi link bibtex 2024 (7)",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Lattice Green’s Functions for High-Order Finite Difference Stencils, Gabbard",
+      "year": 2024,
+      "citation_raw": "Lattice Green’s Functions for High-Order Finite Difference Stencils. Gabbard, J.; and van Rees, W. M. SIAM Journal on Numerical Analysis, 62(1): 25-47. January 2024.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "A high-order finite difference method for moving immersed domain boundaries and material interfaces, Gabbard",
+      "year": 2024,
+      "citation_raw": "A high-order finite difference method for moving immersed domain boundaries and material interfaces. Gabbard, J.; and van Rees, W. M. Journal of Computational Physics, 507: 112979. April 2024.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Vortex bursting and associated twist dynamics on helical vortex tubes and vortex rings, Ji, L",
+      "year": 2024,
+      "citation_raw": "Vortex bursting and associated twist dynamics on helical vortex tubes and vortex rings. Ji, L.; and van Rees, W. M. Journal of Fluid Mechanics, 986: A34. May 2024.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "High-Fidelity CFD Verification Workshop 2024: Post-Workshop Mesh Motion Summary, Wukie, N. A",
+      "year": 2024,
+      "citation_raw": "High-Fidelity CFD Verification Workshop 2024: Post-Workshop Mesh Motion Summary. Wukie, N. A.; Fidkowski, K.; Persson, P.; Fujimoto, T. R.; Wang, Z. J.; Gabbard, J.; and van Rees, W. M. . July 2024.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper doi link bibtex",
+      "year": 2024,
+      "citation_raw": "High-Fidelity CFD Verification Workshop 2024: Post-Workshop Mesh Motion Summary. Wukie, N. A.; Fidkowski, K.; Persson, P.; Fujimoto, T. R.; Wang, Z. J.; Gabbard, J.; and van Rees, W. M. . July 2024. Paper doi link bibtex Effect of curvature variations on the hydrodynamic performance of heaving and pitching foils. van Rees, W. M. Theoretical and Computational Fluid Dynamics. August 2024.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Spheroidal harmonics for generalizing the morphological decomposition of closed parametric surfaces, Shaqfa, M",
+      "year": 2024,
+      "citation_raw": "Spheroidal harmonics for generalizing the morphological decomposition of closed parametric surfaces. Shaqfa, M.; and van Rees, W. M. Construction and Building Materials, 454: 138967. October 2024.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper Si doi link bibtex",
+      "year": 2024,
+      "citation_raw": "Spheroidal harmonics for generalizing the morphological decomposition of closed parametric surfaces. Shaqfa, M.; and van Rees, W. M. Construction and Building Materials, 454: 138967. October 2024. Paper Si doi link bibtex Hydrodynamic forces on a side-by-side ellipse pair with and without relative motion. Rhodes, P.; and van Rees, W. M. Flow, 4: E27. November 2024.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "and van Rees, W. M. A Deep-Learning Surrogate Model Approach for Optimization of Morphing Airfoils",
+      "year": 2023,
+      "citation_raw": ". Karbasian, H.; and van Rees, W. M. A Deep-Learning Surrogate Model Approach for Optimization of Morphing Airfoils. January 2023.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "and van Rees",
+      "year": 2023,
+      "citation_raw": ". Gabbard, J.; and van Rees, W. M. A High-Order 3D Immersed Interface Finite Difference Method for the Advection-Diffusion Equation. January 2023.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "A sharp immersed method for 2D flow-body interactions using the vorticity-velocity Navier-Stokes equations, Ji, X",
+      "year": 2023,
+      "citation_raw": "A sharp immersed method for 2D flow-body interactions using the vorticity-velocity Navier-Stokes equations. Ji, X.; Gabbard, J.; and van Rees, W. M. Journal of Computational Physics, 494: 112513. December 2023.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Multiscale Heterogeneous Polymer Composites for High Stiffness 4D Printed Electrically Controllable Multifunctional Structures, Morales Ferrer",
+      "year": 2023,
+      "citation_raw": "Multiscale Heterogeneous Polymer Composites for High Stiffness 4D Printed Electrically Controllable Multifunctional Structures. Morales Ferrer, J. M.; Sánchez Cruz, R. E.; Caplan, S.; van Rees, W. M.; and Boley, J. W. Advanced Materials,2307858. 2023.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper Si doi link bibtex",
+      "year": 2022,
+      "citation_raw": "Multiscale Heterogeneous Polymer Composites for High Stiffness 4D Printed Electrically Controllable Multifunctional Structures. Morales Ferrer, J. M.; Sánchez Cruz, R. E.; Caplan, S.; van Rees, W. M.; and Boley, J. W. Advanced Materials,2307858. 2023. Paper Si doi link bibtex 2022 (4)",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Bursting on a vortex tube with initial axial core-size perturbations, Ji, L",
+      "year": 2022,
+      "citation_raw": "Bursting on a vortex tube with initial axial core-size perturbations. Ji, L.; and van Rees, W. M. Physical Review Fluids, 7: 044704. April 2022.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "An immersed interface method for the 2D vorticity-velocity Navier-Stokes equations with multiple bodies, Gabbard",
+      "year": 2022,
+      "citation_raw": "An immersed interface method for the 2D vorticity-velocity Navier-Stokes equations with multiple bodies. Gabbard, J.; Gillis, T.; Chatelain, P.; and van Rees, W. M. Journal of Computational Physics, 464: 111339. 2022.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "MURPHY—A Scalable Multiresolution Framework for Scientific Computing on 3D Block-Structured Collocated Grids, Gillis, T",
+      "year": 2022,
+      "citation_raw": "MURPHY—A Scalable Multiresolution Framework for Scientific Computing on 3D Block-Structured Collocated Grids. Gillis, T.; and van Rees, W. M. SIAM Journal on Scientific Computing, 44(5): C367–C398. September 2022.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Determination of Optimal Shot Peen Forming Patterns Using the Theory of Non-Euclidean Plates, Sushitskii, V",
+      "year": 2022,
+      "citation_raw": "Determination of Optimal Shot Peen Forming Patterns Using the Theory of Non-Euclidean Plates. Sushitskii, V.; van Rees, W. M.; Levesque, M.; and Gosselin, F. P. Journal of Manufacturing Science and Engineering, 145(3). December 2022.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper doi link bibtex",
+      "year": 2021,
+      "citation_raw": "Determination of Optimal Shot Peen Forming Patterns Using the Theory of Non-Euclidean Plates. Sushitskii, V.; van Rees, W. M.; Levesque, M.; and Gosselin, F. P. Journal of Manufacturing Science and Engineering, 145(3). December 2022. Paper doi link bibtex 2021 (1)",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Effect of leading-edge curvature actuation on flapping fin performance, Fernandez-Gutierrez, D",
+      "year": 2021,
+      "citation_raw": "Effect of leading-edge curvature actuation on flapping fin performance. Fernandez-Gutierrez, D.; and van Rees, W. M. Journal of Fluid Mechanics, 921. July 2021.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper Si doi link bibtex",
+      "year": 2020,
+      "citation_raw": "Effect of leading-edge curvature actuation on flapping fin performance. Fernandez-Gutierrez, D.; and van Rees, W. M. Journal of Fluid Mechanics, 921. July 2021. Paper Si doi link bibtex 2020 (5)",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Poisson's ratio and residual strain of freestanding ultra-thin films, Cuddalorepatta, G. K",
+      "year": 2020,
+      "citation_raw": "Poisson's ratio and residual strain of freestanding ultra-thin films. Cuddalorepatta, G. K.; van Rees, W. M.; Han, L.; Pantuso, D.; Mahadevan, L.; and Vlassak, J. J. Journal of the Mechanics and Physics of Solids, 137: 103821. 2020.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Coordinated crawling via reinforcement learning, Mishra, S",
+      "year": 2020,
+      "citation_raw": "Coordinated crawling via reinforcement learning. Mishra, S.; van Rees, W. M.; and Mahadevan, L. Journal of The Royal Society Interface, 17(169): 20200198. August 2020.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Elastohydrodynamic Scaling Law for Heart Rates, Virot, E",
+      "year": 2020,
+      "citation_raw": "Elastohydrodynamic Scaling Law for Heart Rates. Virot, E.; Spandan, V.; Niu, L.; van Rees, W. M.; and Mahadevan, L. Physical Review Letters, 125(5). July 2020.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Locomotion of a rotating cylinder pair with periodic gaits at low Reynolds numbers, Ji, L",
+      "year": 2020,
+      "citation_raw": "Locomotion of a rotating cylinder pair with periodic gaits at low Reynolds numbers. Ji, L.; and van Rees, W. M. Physics of Fluids, 32(10): 103102. October 2020.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper doi link bibtex",
+      "year": 2020,
+      "citation_raw": "Locomotion of a rotating cylinder pair with periodic gaits at low Reynolds numbers. Ji, L.; and van Rees, W. M. Physics of Fluids, 32(10): 103102. October 2020. Paper doi link bibtex Vortex bursting. van Rees, W. M. Physical Review Fluids, 5: 110504. November 2020.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Shape-shifting structured lattices via multimaterial 4D printing, Boley*",
+      "year": 2019,
+      "citation_raw": "Shape-shifting structured lattices via multimaterial 4D printing. Boley*, J. W.; van Rees*, W. M.; Lissandrello, C.; Horenstein, M. N.; Truby, R. L.; Kotikian, A.; Lewis, J. A.; and Mahadevan, L. Proceedings of the National Academy of Sciences. 2019.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper Appendix doi link bibtex",
+      "year": 2018,
+      "citation_raw": "Shape-shifting structured lattices via multimaterial 4D printing. Boley*, J. W.; van Rees*, W. M.; Lissandrello, C.; Horenstein, M. N.; Truby, R. L.; Kotikian, A.; Lewis, J. A.; and Mahadevan, L. Proceedings of the National Academy of Sciences. 2019. Paper Appendix doi link bibtex 2018 (2)",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Mechanics of biomimetic 4D printed structures, van Rees, W. M",
+      "year": 2018,
+      "citation_raw": "Mechanics of biomimetic 4D printed structures. van Rees, W. M.; Matsumoto, E. A.; Gladman, A. S.; Lewis, J. A.; and Mahadevan, L. Soft Matter, 14(43): 8771–8779. 2018.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Physical simulation of environmentally induced thin shell deformation, Chen, H",
+      "year": 2018,
+      "citation_raw": "Physical simulation of environmentally induced thin shell deformation. Chen, H.; Sastry, A.; van Rees, W. M.; and Vouga, E. ACM Transactions on Graphics, 37(4): 1–13. 2018.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper doi link bibtex",
+      "year": 2017,
+      "citation_raw": "Physical simulation of environmentally induced thin shell deformation. Chen, H.; Sastry, A.; van Rees, W. M.; and Vouga, E. ACM Transactions on Graphics, 37(4): 1–13. 2018. Paper doi link bibtex 2017 (3)",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Complete measurement of helicity and its dynamics in vortex tubes, Scheeler, M",
+      "year": 2017,
+      "citation_raw": "Complete measurement of helicity and its dynamics in vortex tubes. Scheeler, M.; van Rees, W. M.; Kedia, H.; Kleckner, D.; and Irvine, W. T. M. Science, 357: 487–491. 2017.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Growth patterns for shape-shifting elastic bilayers, van Rees, W. M",
+      "year": 2017,
+      "citation_raw": "Growth patterns for shape-shifting elastic bilayers. van Rees, W. M.; Vouga, E.; and Mahadevan, L. Proceedings of the National academy of Sciences of the United States of America. 2017.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Synchronisation through learning for two self- propelled swimmers, Novati, G",
+      "year": 2017,
+      "citation_raw": "Synchronisation through learning for two self- propelled swimmers. Novati, G.; Verma, S.; Alexeev, D.; Rossinelli, D.; van Rees, W. M.; and Koumoutsakos, P. Bioinspiration & Biomimetics, 12(3): 036001. 2017.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper doi link bibtex",
+      "year": 2015,
+      "citation_raw": "Synchronisation through learning for two self- propelled swimmers. Novati, G.; Verma, S.; Alexeev, D.; Rossinelli, D.; van Rees, W. M.; and Koumoutsakos, P. Bioinspiration & Biomimetics, 12(3): 036001. 2017. Paper doi link bibtex 2015 (4)",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Optimal morphokinematics for undulatory swimmers at intermediate Reynolds numbers, van Rees, W. M",
+      "year": 2015,
+      "citation_raw": "Optimal morphokinematics for undulatory swimmers at intermediate Reynolds numbers. van Rees, W. M.; Gazzola, M.; and Koumoutsakos, P. Journal of Fluid Mechanics, 775: 178–188. 2015.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "MRAG-I2D: Multi-resolution adapted grids for remeshed vortex methods on multicore architectures, Rossinelli, D",
+      "year": 2015,
+      "citation_raw": "MRAG-I2D: Multi-resolution adapted grids for remeshed vortex methods on multicore architectures. Rossinelli, D.; Hejazialhosseini, B.; van Rees, W. M.; Gazzola, M.; Bergdorf, M.; and Koumoutsakos, P. Journal of Computational Physics, 288: 1–18. 2015.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Self-propulsion of a counter-rotating cylinder pair in a viscous fluid, van Rees, W. M",
+      "year": 2015,
+      "citation_raw": "Self-propulsion of a counter-rotating cylinder pair in a viscous fluid. van Rees, W. M.; Novati, G.; and Koumoutsakos, P. Physics of Fluids, 27(6): 063102. June 2015.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Quantitative flow analysis of swimming dynamics with coherent Lagrangian vortices, Huhn, F",
+      "year": 2015,
+      "citation_raw": "Quantitative flow analysis of swimming dynamics with coherent Lagrangian vortices. Huhn, F.; van Rees, W. M.; Gazzola, M.; Rossinelli, D.; Haller, G.; and Koumoutsakos, P. Chaos, 25(8): 087405. August 2015.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper doi link bibtex",
+      "year": 2014,
+      "citation_raw": "Quantitative flow analysis of swimming dynamics with coherent Lagrangian vortices. Huhn, F.; van Rees, W. M.; Gazzola, M.; Rossinelli, D.; Haller, G.; and Koumoutsakos, P. Chaos, 25(8): 087405. August 2015. Paper doi link bibtex 2014 (2)",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Optimal shapes for anguilliform swimmers at intermediate Reynolds numbers, van Rees, W. M",
+      "year": 2013,
+      "citation_raw": "Optimal shapes for anguilliform swimmers at intermediate Reynolds numbers. van Rees, W. M.; Gazzola, M.; and Koumoutsakos, P. Journal of Fluid Mechanics, 722: R3. April 2013.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper doi link bibtex",
+      "year": 2012,
+      "citation_raw": "Optimal shapes for anguilliform swimmers at intermediate Reynolds numbers. van Rees, W. M.; Gazzola, M.; and Koumoutsakos, P. Journal of Fluid Mechanics, 722: R3. April 2013. Paper doi link bibtex 2012 (2)",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "C-start: optimal start of larval fish, Gazzola, M",
+      "year": 2012,
+      "citation_raw": "C-start: optimal start of larval fish. Gazzola, M.; van Rees, W. M.; and Koumoutsakos, P. Journal of Fluid Mechanics, 698: 5–18. February 2012.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "van Rees, W. M",
+      "year": 2012,
+      "citation_raw": ". van Rees, W. M.; Hussain, F.; and Koumoutsakos, P. Physics of Fluids, 24(7): 75105. 2012.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Paper doi link bibtex",
+      "year": 2011,
+      "citation_raw": ". van Rees, W. M.; Hussain, F.; and Koumoutsakos, P. Physics of Fluids, 24(7): 75105. 2012. Paper doi link bibtex 2011 (2)",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "Simulations of single and multiple swimmers with non-divergence free deforming geometries, Gazzola, M",
+      "year": 2011,
+      "citation_raw": "Simulations of single and multiple swimmers with non-divergence free deforming geometries. Gazzola, M.; Chatelain, P.; van Rees, W. M.; and Koumoutsakos, P. Journal of Computational Physics, 230(19): 7093–7114. August 2011.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
+    },
+    {
+      "title": "A comparison of vortex and pseudo-spectral methods for the simulation of periodic vortical flows at high Reynolds numbers, van Rees, W. M",
+      "year": 2011,
+      "citation_raw": "A comparison of vortex and pseudo-spectral methods for the simulation of periodic vortical flows at high Reynolds numbers. van Rees, W. M.; Leonard, A.; Pullin, D.; and Koumoutsakos, P. Journal of Computational Physics, 230(8): 2794–2805. April 2011.",
+      "source_url": "https://vanreeslab.mit.edu/publications/"
     }
   ]
 }

@@ -5,27 +5,44 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp00157",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00157",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi",
-      "identity_evidence": "Assoc Prof Sunil C. Joshi",
-      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
-      "website_links": [
-        {
-          "label": "Website",
-          "url": "https://scholar.google.com/citations?user=TTTwcqIAAAAJ&hl=en"
-        }
-      ]
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Microwave–thermal technique for energy and time efficient curing of carbon fiber reinforced polymer prepreg composites",
+      "year": 2014,
+      "citation_raw": "Joshi S.C., S.K. Bhudolia. (2014). Microwave–thermal technique for energy and time efficient curing of carbon fiber reinforced polymer prepreg composites. Journal of Composite Materials, 48, 3035-3048.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications"
+    },
+    {
+      "title": "Time-Variant Simulation of Multi-Material Thermal Pultrusion",
+      "year": 2011,
+      "citation_raw": "Joshi, S.C., Chen, X. (2011). Time-Variant Simulation of Multi-Material Thermal Pultrusion. Applied Composite Materials, in press(in press), 1-14.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications"
+    },
+    {
+      "title": "Impact Damage Resistance of CFRP Prepreg Laminates with Dispersed CSP Particles into Ply Interfaces",
+      "year": 2011,
+      "citation_raw": "Ali M., Joshi S.C.,. (2011). Impact Damage Resistance of CFRP Prepreg Laminates with Dispersed CSP Particles into Ply Interfaces. International Journal of Damage Mechanics, online(before print).",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications"
+    },
+    {
+      "title": "Enhancing Interlaminar Fracture Characteristics of Woven CFRP prepreg Composites through CNT dispersion",
+      "year": 2011,
+      "citation_raw": "Joshi Sunil C., Dikshit V. (2011). Enhancing Interlaminar Fracture Characteristics of Woven CFRP prepreg Composites through CNT dispersion. Journal of Composite Materials, 46, 665-675.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications"
+    },
+    {
+      "title": "Data Analysis and Correlation for Thermal Balance Test on a Micro-Satellite Model, Heat Transfer Engineering",
+      "year": 2010,
+      "citation_raw": "Jin Zhanli, Sunil Chandrakant Joshi, Nesamani Gilbert Justin Jose, Chan Poh Keong, Ying Teck Mun, Paul, Goh Cher Hiang. (2010). Data Analysis and Correlation for Thermal Balance Test on a Micro-Satellite Model. Heat Transfer Engineering, 31(3), 222-233.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Sunil-C-Joshi/selectedpublications"
+    }
+  ]
 }

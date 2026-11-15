@@ -4,14 +4,169 @@
   "pi": "Quentin Boehler",
   "lab_name": "Homepage",
   "lab_url": "https://mero.ethz.ch/",
-  "publication_urls": [],
-  "accessed_at": "2026-11-12T13:56:03.250Z",
-  "coverage_notes": [
-    "Official Publications states: As soon as publications are added in ETH Research Collection, this publications list will populate automatically. No citations displayed. News excluded."
+  "publication_urls": [
+    "https://mero.ethz.ch/publications.html"
   ],
-  "status": "partial",
-  "papers": [],
   "source_page_manifest": [],
   "visible_text_file": "eth-4.visible.txt",
-  "investigation_stage": "full_site_attempted"
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Official Publications states: As soon as publications are added in ETH Research Collection, this publications list will populate automatically. No citations displayed. News excluded."
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Advancing minimally invasive precision surgery in large open cavities with robotic flexible endoscopy",
+      "year": 2026,
+      "citation_raw": "Advancing minimally invasive precision surgery in large open cavities with robotic flexible endoscopy Michelle Mattille, Alexandre Mesot, Miriam Weisskopf, Nicole Ochsenbein-Kölble, Ueli Moehrlen, Bradley Nelson and Quentin Boehler Science Robotics, vol. 11: no. 118, pp. eaed1470, AAAS, 2026.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Investigating workload and usability of remote magnetic navigation for catheter ablation",
+      "year": 2026,
+      "citation_raw": "Investigating workload and usability of remote magnetic navigation for catheter ablation Florian Heemeyer, Leonardo E. Guido Lopez, Miguel E. Jáuregui Abularach, Beatriz Sanz Verdejo, Quentin Boehler, Oliver Brinkmann, José L. Merino and Bradley Nelson International Journal of Computer Assisted Radiology and Surgery, vol. 21: no. 3, pp. 651-660, Springer, 2026.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "A Transnasal Endoscope for Robotically Assisted Gastroscopy",
+      "year": 2026,
+      "citation_raw": "A Transnasal Endoscope for Robotically Assisted Gastroscopy Alexandre Mesot, Michelle Mattille, Sean Lyttle, Shannon M. Chan, Philip W.Y. Chiu, Quentin Boehler and Bradley Nelson Advanced Robotics Research, pp. e70174, Wiley-VCH, 2026.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "A Multidimensional Perspective on Network Conditions in Telesurgery",
+      "year": 2026,
+      "citation_raw": "A Multidimensional Perspective on Network Conditions in Telesurgery Florian Heemeyer, Marco Cina, Ege Cem Kirci, Laurent Vanbever and Quentin Boehler Advanced Intelligent Systems, pp. e70546, Wiley, 2026.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Parametric Design of Continuum Robots Using Interlocking Ball Joints",
+      "year": 2025,
+      "citation_raw": "Parametric Design of Continuum Robots Using Interlocking Ball Joints Alexandre Mesot, Quentin Boehler, Florian Heemeyer, Sean Lyttle, Buse Aktaş and Bradley Nelson Advanced Intelligent Systems, vol. 7: no. 11, pp. 2500180, Wiley-VCH, 2025.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Design and Optimization of Remagnetization Actuators",
+      "year": 2025,
+      "citation_raw": "Design and Optimization of Remagnetization Actuators Claas Ehmke, Quentin Boehler, Salvador Pané and Bradley J. Nelson IEEE Transactions on Magnetics, vol. 61: no. 8, pp. 8000610, IEEE, 2025.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Orthogonal Pulse-Width-Modulation for Combined Electromagnetic Actuation and Localization",
+      "year": 2025,
+      "citation_raw": "Orthogonal Pulse-Width-Modulation for Combined Electromagnetic Actuation and Localization Denis von Arx, Bradley J. Nelson and Quentin Boehler IEEE Robotics and Automation Letters, vol. 10: no. 6, pp. 6424-6431, IEEE, 2025.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Telesurgery and the importance of context",
+      "year": 2025,
+      "citation_raw": "Telesurgery and the importance of context Florian Heemeyer, Quentin Boehler, Min-Soo Kim, Bernard R. Bendok, Evelyn L. Turcotte, H. Hunt Batjer, Ryan D. Madder, Vitor M. Pereira and Bradley Nelson Science Robotics, vol. 10: no. 99, pp. eadq0192, AAAS, 2025.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "A Physics-Informed Neural Network for the Calibration of Electromagnetic Navigation Systems",
+      "year": 2025,
+      "citation_raw": "A Physics-Informed Neural Network for the Calibration of Electromagnetic Navigation Systems Pascal Ernst, Simone Gervasoni, Derick Sivakumaran, Enea Masina, David Sargent, Bradley Nelson and Quentin Boehler 38th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China, pp.5743-5749, Piscataway, NJ: IEEE, October 19-25, 2025.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Fast Rotating Magnetic Fields in Open Workspace Using Resonant Magnetic Actuation Systems With Magnetic Decoupling",
+      "year": 2024,
+      "citation_raw": "Fast Rotating Magnetic Fields in Open Workspace Using Resonant Magnetic Actuation Systems With Magnetic Decoupling Denis von Arx, Harun Torlakcik, Min-Soo Kim, Salvador Pané, Bradley Nelson and Quentin Boehler IEEE Robotics and Automation Letters, vol. 9: no. 6, pp. 5276-5283, IEEE, 2024.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Autonomous Magnetic Navigation in Endoscopic Image Mosaics",
+      "year": 2024,
+      "citation_raw": "Autonomous Magnetic Navigation in Endoscopic Image Mosaics Michelle Mattille, Quentin Boehler, Jonas Lussi, Nicole Ochsenbein, Ueli Moehrlen and Bradley Nelson Advanced Science, vol. 11: no. 19, pp. 2400980, Wiley-VCH, 2024.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Dexterous helical magnetic robot for improved endovascular access",
+      "year": 2024,
+      "citation_raw": "Dexterous helical magnetic robot for improved endovascular access Roland Dreyfus, Quentin Boehler, Sean Lyttle, P. Gruber, Jonas Lussi, Christophe Chautems, Simone Gervasoni, Jatta Berberat, Dominic Seibold, Nicole Ochsenbein-Kölble, Michael Reinehr, Miriam Weisskopf, Luca Remonda and Bradley Nelson Science Robotics, vol. 9: no. 87, pp. eadh0298, AAAS, 2024.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Simultaneous Localization and Actuation Using Electromagnetic Navigation Systems",
+      "year": 2024,
+      "citation_raw": "Simultaneous Localization and Actuation Using Electromagnetic Navigation Systems Denis von Arx, Cedric Fischer, Harun Torlakcik, Salvador Pané, Bradley Nelson and Quentin Boehler IEEE Transactions on Robotics, vol. 40, pp. 1292-1308, IEEE, 2024.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Gradiometer-based magnetic localization for medical tools",
+      "year": 2023,
+      "citation_raw": "Gradiometer-based magnetic localization for medical tools Cedric Fischer, Thomas Quirin, Christophe Chautems, Quentin Boehler, Joris Pascal and Bradley Nelson IEEE Transactions on Magnetics, vol. 59: no. 2, pp. 5400105, IEEE, 2023.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "On the Workspace of Electromagnetic Navigation Systems",
+      "year": 2023,
+      "citation_raw": "On the Workspace of Electromagnetic Navigation Systems Quentin Boehler, Simone Gervasoni, Samuel Charreyron, Christophe Chautems and Bradley Nelson IEEE Transactions on Robotics, vol. 39: no. 1, pp. 791-807, IEEE, 2023.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "A Simulation Framework for Magnetic Continuum Robots",
+      "year": 2022,
+      "citation_raw": "A Simulation Framework for Magnetic Continuum Robots Roland Dreyfus, Quentin Boehler and Bradley Nelson IEEE Robotics and Automation Letters, vol. 7: no. 3, pp. 8370-8376, IEEE, 2022.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Using Magnetic Fields to Navigate and Simultaneously Localize Catheters in Endoluminal Environments",
+      "year": 2022,
+      "citation_raw": "Using Magnetic Fields to Navigate and Simultaneously Localize Catheters in Endoluminal Environments Cedric Fischer, Quentin Boehler and Bradley Nelson IEEE Robotics and Automation Letters, vol. 7: no. 3, pp. 7217-7223, IEEE, 2022.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Magnetic concentric tube robots: introduction and analysis",
+      "year": 2022,
+      "citation_raw": "Magnetic concentric tube robots: introduction and analysis Quentin Peyron, Quentin Boehler, Patrick Rougeot, Pierre Roux, Bradley Nelson, Nicolas Andreff, Kanty Rabenorosoa and Pierre Renaud The International Journal of Robotics Research, vol. 41: no. 4, pp. 418-440, SAGE, 2022.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Modeling Electromagnetic Navigation Systems",
+      "year": 2021,
+      "citation_raw": "Modeling Electromagnetic Navigation Systems Samuel Charreyron, Quentin Boehler, Byungsoo Kim, Cameron Weibel, Christophe Chautems and Bradley Nelson IEEE Transactions on Robotics, vol. 37: no. 4, pp. 1009-1021, IEEE, 2021.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Automated tracheal intubation in an airway manikin using a robotic endoscope: a proof of concept study",
+      "year": 2020,
+      "citation_raw": "Automated tracheal intubation in an airway manikin using a robotic endoscope: a proof of concept study Peter Biro, Phyllis Hofmann, Dave Gage, Quentin Boehler, Christophe Chautems, Julia Braun, Donat R. Spahn and Bradley Nelson Anaesthesia, vol. 75: no. 7, pp. 881-886, Wiley-Blackwell, 2020.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "REALITI: A Robotic Endoscope Automated via Laryngeal Imaging for Tracheal Intubation",
+      "year": 2020,
+      "citation_raw": "REALITI: A Robotic Endoscope Automated via Laryngeal Imaging for Tracheal Intubation Quentin Boehler, David S. Gage, Phyllis Hofmann, Alexandra Gehring, Christophe Chautems, Donat R. Spahn, Peter Biro and Bradley J. Nelson IEEE Transactions on Medical Robotics and Bionics, vol. 2: no. 2, pp. 157-164, IEEE, 2020.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Magnetically Active Cardiac Patches as an Untethered, Non‐Blood Contacting Ventricular Assist Device",
+      "year": 2020,
+      "citation_raw": "Magnetically Active Cardiac Patches as an Untethered, Non‐Blood Contacting Ventricular Assist Device Hongri Gu, Thibaud Bertrand, Quentin Boehler, Christophe Chautems, Nikolay V. Vasilyev and Bradley Nelson Advanced Science, vol. 8: no. 1, pp. 2000726, Wiley-VCH, 2020.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Development of a Robotic Endoscope Automated via Laryngeal Imaging for Tracheal Intubation (REALITI)",
+      "year": 2019,
+      "citation_raw": "Development of a Robotic Endoscope Automated via Laryngeal Imaging for Tracheal Intubation (REALITI) Quentin Boehler, Phyllis Hofmann, D. Gage, A. Gehring, Christophe Chautems, Peter Biro and Bradley Nelson 12th Hamlyn Symposium on Medical Robotics (2019), London, United Kingdom, pp.99-100, London: The Hamlyn Centre, Imperial College London, June 23-26, 2019.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Kinematic Analysis of Magnetic Continuum Robots Using Continuation Method and Bifurcation Analysis",
+      "year": 2018,
+      "citation_raw": "Kinematic Analysis of Magnetic Continuum Robots Using Continuation Method and Bifurcation Analysis Quentin Peyron, Quentin Boehler, Kanty Rabenorosoa, Bradley Nelson, Pierre Renaud and Nicolas Andreff IEEE Robotics and Automation Letters, vol. 3: no. 4, pp. 3646-3653, IEEE, 2018.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    },
+    {
+      "title": "Synthesis method for the design of variable stiffness components using prestressed singular elastic systems",
+      "year": 2018,
+      "citation_raw": "Synthesis method for the design of variable stiffness components using prestressed singular elastic systems Quentin Boehler, Marc Vedrines, Salih Abdelaziz, Philippe Poignet and Pierre Renaud Mechanism and Machine Theory, vol. 121, pp. 598-612, Elsevier, 2018.",
+      "source_url": "https://mero.ethz.ch/publications.html"
+    }
+  ]
 }

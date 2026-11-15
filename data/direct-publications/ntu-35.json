@@ -5,27 +5,38 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp01062",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Marcos/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01062",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Marcos",
-      "identity_evidence": "Assoc Prof Marcos",
-      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
-      "website_links": [
-        {
-          "label": "Website",
-          "url": "https://personal.ntu.edu.sg/marcos"
-        }
-      ]
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Modelling bacterial chemotaxis for indirectly binding attractants",
+      "year": 2020,
+      "citation_raw": "Articles (Journal) Articles (Journal) Pei Yen Tan, Marcos, Yu Liu. (2020). Modelling bacterial chemotaxis for indirectly binding attractants. Journal of Theoretical Biology, 487, 110120.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Marcos/selectedpublications"
+    },
+    {
+      "title": "Antibody-coated microstructures for selective isolation of immune cells in blood, Lab on a Chip",
+      "year": 2020,
+      "citation_raw": "Jiyu Li, Ya Liu, Jifeng Ren, Benjamin Zikai Tay, Tao Luo, Lei Fan, Dong Sun, Guannan Luo, Denvid Lau, Marcos and Raymond H. W. Lam. (2020). Antibody-coated microstructures for selective isolation of immune cells in blood. Lab on a Chip, 20(6), 1072-1082.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Marcos/selectedpublications"
+    },
+    {
+      "title": "Supervised Learning to Predict Sperm Sorting by Magnetophoresis",
+      "year": 2018,
+      "citation_raw": "Koh JBY, Shen X, Marcos. (2018). Supervised Learning to Predict Sperm Sorting by Magnetophoresis. Magnetochemistry, 4, 31.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Marcos/selectedpublications"
+    },
+    {
+      "title": "Lab-on-chip microfluidic impedance measurement for laminar flow ratio sensing and differential conductivity difference detection",
+      "year": 2017,
+      "citation_raw": "Tian Fook Kong, Xinhui Shen, Marcos and Chun Yang. (2017). Lab-on-chip microfluidic impedance measurement for laminar flow ratio sensing and differential conductivity difference detection. Applied Physics Letters, 110(23), 233501.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Marcos/selectedpublications"
+    }
+  ]
 }

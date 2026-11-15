@@ -5,7 +5,7 @@
   "lab_name": null,
   "lab_url": "https://gallant.mit.edu/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/bgallant@mit.edu"
+    "https://gallant.mit.edu/publications/"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/bgallant@mit.edu",
   "discovered_links": [
@@ -27,12 +27,496 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
-    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "H. Gao, K. Yoshinaga, K. J. Steinberg, T. M. Swager, and B. M. Gallant AENM, 2023, DOI: 10.1002/aenm.202301751",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": null,
+      "year": 2024,
+      "citation_raw": "G.M. Hobold, C. Wang, K. J. Steinberg, Y. Li, and B. M. Gallant Nature Energy, 2024, 9, 580-591",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Gallant The Journal of Physical Chemistry C 2023",
+      "year": 2023,
+      "citation_raw": "A. M. Melemed, D. A. Skiba, K. J. Steinberg, K.-H. Kim, and B. M. Gallant The Journal of Physical Chemistry C 2023, DOI: 10.1021/acs.jpcc.3c03800",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Gallant ACS Catalysis 2023",
+      "year": 2023,
+      "citation_raw": "G. Leverick, E. M. Bernhardt, A. I. Ismail, J. H. Law, A. Arifutzzaman, M. K. Aroua, and B. M. Gallant ACS Catalysis 2023, 13, 12322–12337. Doi: 10.1021/acscatal.3c02500",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "-Y, Kuo, S. E, Jerng, and B. M",
+      "year": 2023,
+      "citation_raw": "F.-Y. Kuo, S. E. Jerng, and B. M. Gallant ACS Central Science 2023, DOI: 10.1021/acscentsci.3c00692",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Electrolyte Effects on N-Heterocyclic Imines as the Redox Sorbent for Electrochemical CO2 Capture",
+      "year": 2026,
+      "citation_raw": "F.-Y. Kuo, G. H. Byun & B. M. Gallant Electrolyte Effects on N-Heterocyclic Imines as the Redox Sorbent for Electrochemical CO2 Capture ACS Cent. Sci., 2026",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Origins of Divergent Cycling Trajectories of Lithium Metal Anodes Revealed by Titration Methods",
+      "year": 2026,
+      "citation_raw": "K. Steinberg, S. N. Ross, B. M. Gallant Origins of Divergent Cycling Trajectories of Lithium Metal Anodes Revealed by Titration Methods Chem. Mater., 2026, 38 (17): 9021–9031.",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Quantifying capacity loss modes of Li metal anodes upon deep stripping in primary batteries with fluorinated catholytes",
+      "year": 2026,
+      "citation_raw": "A. Sevilla, K. S. Jiang, G. H. Byun, S. D. Hellright, H. Gao & B. M. Gallant Quantifying capacity loss modes of Li metal anodes upon deep stripping in primary batteries with fluorinated catholytes Journal of the Electrochemical Society, 2026, 173 130515",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Continuous CO2 capture with photochemical release in a slug flow reactor",
+      "year": 2026,
+      "citation_raw": "G. H. Byun, L. Bromberg, B. M. Gallant, H. Seo & T. A. Hatton Continuous CO2 capture with photochemical release in a slug flow reactor ACS Energy Letters, 2026, 11 (6): 4496–4503.",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Oxygen-Tolerant Electrochemical CO2 Capture Using N-Heterocyclic Imines with Superstoichiometric Release Per Electron",
+      "year": 2026,
+      "citation_raw": "F.-Y. Kuo, A. Obi, G. Junor & B. M. Gallant Oxygen-Tolerant Electrochemical CO2 Capture Using N-Heterocyclic Imines with Superstoichiometric Release Per Electron Nature Energy, 2026, 11, 1132–1140 (2026)",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Feasibility and Design of Distributed Carbon Dioxide Capture Networks in Urban Environments",
+      "year": 2026,
+      "citation_raw": "A. Tavasoli, B. M. Gallant & T. A. Hatton Feasibility and Design of Distributed Carbon Dioxide Capture Networks in Urban Environments ACS Sustainable Chem. Eng., 2026, 14 (1): 7–24.",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Modulating Ammonium-Driven Hydrogen Evolution on Silver Electrodes in Amine-CO2 Capture Solutions",
+      "year": 2026,
+      "citation_raw": "E. M. Bernhardt, G. Leverick & B. M. Gallant Modulating Ammonium-Driven Hydrogen Evolution on Silver Electrodes in Amine-CO2 Capture Solutions ACS Energy Lett., 2026, 11 (1): 598–605",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Overcoming Misconceptions in Lithium Metal Polymer Electrolyte Batteries",
+      "year": 2025,
+      "citation_raw": "J.B. Waugh, M. Redko, X. Jin, G. Muldoon, E. Kovrigin, B.M. Gallant, Y. Li, G. Liu, & J. Muldoon Overcoming Misconceptions in Lithium Metal Polymer Electrolyte Batteries Energy & Environmental Science, 2025, 18, 9312-9323",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Correlated Calorimetric and Potentiometric Titration Elucidates Quantitative Lithium Cation Coordination Thermodynamics",
+      "year": 2025,
+      "citation_raw": "D.A. Skiba, A. Melemed, & B.M. Gallant Correlated Calorimetric and Potentiometric Titration Elucidates Quantitative Lithium Cation Coordination Thermodynamics J. Am. Chem. Soc., 2025, 147, 41, 37144–37156",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "CO2 Capture Characteristics of Electrochemically Generated Li2O in Molten Eutectic LiNO3–KNO3 at Moderate Temperature",
+      "year": 2025,
+      "citation_raw": "G.H. Byun, G. Leverick, L. Cartocci, T.A. Hatton, & B.M. Gallant CO2 Capture Characteristics of Electrochemically Generated Li2O in Molten Eutectic LiNO3–KNO3 at Moderate Temperature Energy & Fuels, 2025, 39, 18935–18945",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Deciphering Unresolved Materials in Quantitative Analysis of Lithium Metal Solid Electrolyte Interphases",
+      "year": 2025,
+      "citation_raw": "K. Steinberg, W. Bao, K. Ryu, Y.S. Meng, B.M. Gallant Deciphering Unresolved Materials in Quantitative Analysis of Lithium Metal Solid Electrolyte Interphases ACS Energy Letters, 2025, 10, 4269-4276",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Thermodynamic Modeling of Aqueous Amine-Electrolyte Solvents for CO2 Absorption",
+      "year": 2025,
+      "citation_raw": "J.H. Law, A.I. Ismail, G. Leverick, E.M. Bernhardt, A.M. Kassim, F. Hussin, B.M. Gallant, M.K. Aroua Thermodynamic Modeling of Aqueous Amine-Electrolyte Solvents for CO2 Absorption Greenhouse Gases: Science and Technology, 2025, 15, 381-393",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Gas Evolution Markers of Dynamic Solid Electrolyte Interphase Formation on Calcium in a Borohydride-Based Electrolyte",
+      "year": 2025,
+      "citation_raw": "A.M. Melemed, D.A. Skiba, K.S. Jiang, G.H. Byun, B.M. Gallant Gas Evolution Markers of Dynamic Solid Electrolyte Interphase Formation on Calcium in a Borohydride-Based Electrolyte Electrochimica Acta, 2025, 526, 146170",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "How reliable is coin-cell-based ranking of Li anode Coulombic efficiency?",
+      "year": 2025,
+      "citation_raw": "K.S. Jiang, K-H. Kim, B.M. Gallant How reliable is coin-cell-based ranking of Li anode Coulombic efficiency? Joule, 2025, 9, 101963",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Rate Capability of Fluorinated Catholyte-Based Li Primary Batteries Governed by Interfacial and Bulk Li+ Transport",
+      "year": 2024,
+      "citation_raw": "A. Sevilla, H. Gao, K. Steinberg, and B. M. Gallant Rate Capability of Fluorinated Catholyte-Based Li Primary Batteries Governed by Interfacial and Bulk Li+ Transport Journal of Electrochemical Society, 2024, 171, 11, 110505",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "B. M. Gallant",
+      "year": 2024,
+      "citation_raw": "B. M. Gallant Mapping the uncharted interface Nature Energy, 2024, 9, 1185-1186",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Revealing the Role of Lithium Carbonate at Lithium Metal Anodes Through Study of Gas-Reacted Interphases",
+      "year": 2024,
+      "citation_raw": "K. Steinberg and B. M. Gallant Revealing the Role of Lithium Carbonate at Lithium Metal Anodes Through Study of Gas-Reacted Interphases Journal of the Electrochemical Society, 2024, 171, 8, 080530",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "High Lithium Oxide Prevalence in the Lithium Solid–Electrolyte Interphase for High Coulombic Efficiency",
+      "year": 2024,
+      "citation_raw": "G.M. Hobold, C. Wang, K. J. Steinberg, Y. Li, and B. M. Gallant High Lithium Oxide Prevalence in the Lithium Solid–Electrolyte Interphase for High Coulombic Efficiency Nature Energy, 2024, 9, 580-591",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Impact of Differential Ca2+ Coordination in Borohydride-Based Electrolyte Blends on Calcium Electrochemistry and SEI Formation",
+      "year": 2023,
+      "citation_raw": "A. M. Melemed, D. A. Skiba, K. J. Steinberg, K.-H. Kim, and B. M. Gallant Impact of Differential Ca2+ Coordination in Borohydride-Based Electrolyte Blends on Calcium Electrochemistry and SEI Formation The Journal of Physical Chemistry C, 2023, 127, 40, 19886–19899",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Thick Architected Silicon Composite Battery Electrodes Using Honeycomb Patterned Carbon Nanotube Forests",
+      "year": 2023,
+      "citation_raw": "R. B. Church, H. Gao, B. M. Gallant, and A. J. Hart Thick Architected Silicon Composite Battery Electrodes Using Honeycomb Patterned Carbon Nanotube Forests Journal of the Electrochemical Society, 2023, 170, 9, 090543",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Uncovering the Active Species in Amine-Mediated CO2 Reduction to CO on Ag",
+      "year": 2023,
+      "citation_raw": "G. Leverick, E. M. Bernhardt, A. I. Ismail, J. H. Law, A. Arifutzzaman, M. K. Aroua, and B. M. Gallant Uncovering the Active Species in Amine-Mediated CO2 Reduction to CO on Ag ACS Catalysis 2023, 13, 12322–12337",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Dual Salt Cation-Swing Process for Electrochemical CO2 Separation",
+      "year": 2023,
+      "citation_raw": "F.-Y. Kuo, S. E. Jerng, and B. M. Gallant Dual Salt Cation-Swing Process for Electrochemical CO2 Separation ACS Central Science 2023, 9, 9, 1750–1757",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Cascade Defluorination of Perfluoroalkylated Catholytes Unlocks High Lithium Primary Battery Capacities",
+      "year": 2023,
+      "citation_raw": "H. Gao, K. Yoshinaga, K. J. Steinberg, T. M. Swager, and B. M. Gallant Cascade Defluorination of Perfluoroalkylated Catholytes Unlocks High Lithium Primary Battery Capacities Advanced Energy Materials, 2023, 13, 32, 2301751",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Confinement Effects of Hollow Structured Pt–Rh Electrocatalysts toward Complete Ethanol Electrooxidation",
+      "year": 2023,
+      "citation_raw": "K.-H. Kim, G. M. Hobold, K. J. Steinberg, and B. M. Gallant Confinement Effects of Hollow Structured Pt–Rh Electrocatalysts toward Complete Ethanol Electrooxidation ACS Nano, 2023, 17, 14, 14176–14188",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Direct Imaging of Micrometer Thick Interfaces in Salt-Salt Aqueous Biphasic Systems",
+      "year": 2023,
+      "citation_raw": "D. Degoulange, R. Pandya, M. Deschamps, D. A. Skiba, B. M. Gallant, S. Gigan, H. B. de Aguiar and A. Grimaud Direct Imaging of Micrometer Thick Interfaces in Salt-Salt Aqueous Biphasic Systems Proceedings of the National Academy of Sciences, 2023, 120, e2220662120",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Beneficial vs. Inhibiting Passivation by the Native Lithium Solid Electrolyte Interphase Revealed by Electrochemical Li+ Exchange",
+      "year": 2023,
+      "citation_raw": "G. M. Hobold, K.-H. Kim, and B. M. Gallant Beneficial vs. Inhibiting Passivation by the Native Lithium Solid Electrolyte Interphase Revealed by Electrochemical Li+ Exchange Energy & Environmental Science, 2023, 16, 2247-2261",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Elucidating Concentration-Dependent Energy Limitations in Li Primary Battery Fluoro-organosulfur Catholytes",
+      "year": 2023,
+      "citation_raw": "A. R. Sevilla, H. Gao, K. J. Steinberg, and B. M. Gallant Elucidating Concentration-Dependent Energy Limitations in Li Primary Battery Fluoro-organosulfur Catholytes Journal of Physical Chemistry C, 2023, 127, 4, 1722-1732",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Fluoro-organosulfur catholytes to boost lithium primary battery energy",
+      "year": 2022,
+      "citation_raw": "H. Gao, A. R. Sevilla, G. M. Hobold, A. M. Melemed, R. Guo, S. C. Jones, and B. M. Gallant Fluoro-organosulfur catholytes to boost lithium primary battery energy Proceedings of the National Academy of Sciences, 2022, 119, e2121440119",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Impact of LiF Particle Morphology on Overpotential and Structure of Li Metal Deposition",
+      "year": 2022,
+      "citation_raw": "R. Guo, K.-H. Kim and B. M. Gallant Impact of LiF Particle Morphology on Overpotential and Structure of Li Metal Deposition Journal of the Electrochemical Society, 2022, 169, 100523",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Electrochemical carbon capture processes for mitigation of CO2 emissions",
+      "year": 2022,
+      "citation_raw": "M. Rahimi, A. Khurram, T. A. Hatton and B. M. Gallant Electrochemical carbon capture processes for mitigation of CO2 emissions Chem Soc Rev, 2022, 51, 8676-8695",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Quantifying Capacity Loss Mechanisms of Li Metal Anodes beyond Inactive Li°",
+      "year": 2022,
+      "citation_raw": "G. M. Hobold, and B. M. Gallant Quantifying Capacity Loss Mechanisms of Li Metal Anodes beyond Inactive Li° ACS Energy Letters, 2022, 7, 3458-3466",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Probing the Functionality of LiFSI Structural Derivatives as Additives for Li Metal Anodes",
+      "year": 2022,
+      "citation_raw": "K. S. Jiang, G. M. Hobold, R. Guo, K. H. Kim, A. M. Melemed, D. Wang, L. Zuin, and B. M. Gallant Probing the Functionality of LiFSI Structural Derivatives as Additives for Li Metal Anodes ACS Energy Letters, 2022, 7, 3378-3385",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Electrochemical methods for carbon dioxide separations",
+      "year": 2022,
+      "citation_raw": "M. Diederichsen, R. Sharifian, J. S. Kang, Y. Liu, S. Kim, B. M. Gallant, D. Vermaas and T. A. Hatton Electrochemical methods for carbon dioxide separations Nature Reviews Methods Primers, 2022, 2, 68",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Electrochemical reduction of CO2 in the captured state using aqueous or nonaqueous amines",
+      "year": 2022,
+      "citation_raw": "S. E. Jerng and B. M. Gallant Electrochemical reduction of CO2 in the captured state using aqueous or nonaqueous amines iScience, 2022, 25, 7, 104558",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Life cycle assessment of CO2 conversion and storage in metal-CO2 electrochemical cells",
+      "year": 2022,
+      "citation_raw": "O. Pfeiffer, A. Khurram, E. A. Olivetti and B. M. Gallant Life cycle assessment of CO2 conversion and storage in metal-CO2 electrochemical cells Journal of Industrial Ecology, 2022, 26, 1306-1317",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Lithium primary batteries employing multi-electron carbon-fluorine bond cleavage in perfluoroalkylated reactants",
+      "year": 2022,
+      "citation_raw": "H. Gao, A. Sevilla, B. M. Gallant Lithium primary batteries employing multi-electron carbon-fluorine bond cleavage in perfluoroalkylated reactants Journal of the Electrochemical Society, 2022, 169, 030535",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Toggling calcium plating activity and reversibility through modulation of Ca2+ speciation in borohydride-based electrolytes",
+      "year": 2022,
+      "citation_raw": "A. M. Melemed, D. A. Skiba, B. M. Gallant Toggling calcium plating activity and reversibility through modulation of Ca2+ speciation in borohydride-based electrolytes Journal of Physical Chemistry C, 2022, 126, 892–902",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "The ionic interphases of the lithium anode in solid state batteries",
+      "year": 2022,
+      "citation_raw": "R. Guo, G. M. Hobold, B. M. Gallant The ionic interphases of the lithium anode in solid state batteries Current Opinion in Solid State and Materials Science, 2022, 26, 100973",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Moving beyond 99.9% Coulombic efficiency for lithium anodes in liquid electrolytes",
+      "year": 2021,
+      "citation_raw": "G. M. Hobold, J. Lopez, R. Guo, N. Minafra, A. Banerjee, Y. S. Meng, Y. Shao-Horn, and B. M. Gallant Moving beyond 99.9% Coulombic efficiency for lithium anodes in liquid electrolytes Nature Energy, 2021, 6, 951-960",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Electrochemical fluoridation of manganese oxide by perfluorinated-gas conversion for Li-ion cathodes",
+      "year": 2021,
+      "citation_raw": "H. Gao, M. He, R. Guo and B. M. Gallant Electrochemical fluoridation of manganese oxide by perfluorinated-gas conversion for Li-ion cathodes Batteries & Supercaps, 2021, 4, 1771",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Can an inorganic coating serve as stable SEI for aqueous superconcentrated electrolytes?",
+      "year": 2021,
+      "citation_raw": "L. Droguet, G. M. Hobold, M. F. Lagadec, R. Guo, C. Lethien, M. Hallot, O. Fontaine, J.-M. Tarascon, B. M. Gallant, and A. Grimaud Can an inorganic coating serve as stable SEI for aqueous superconcentrated electrolytes? ACS Energy Letters, 2021, 6, 2575-2583",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "A novel solid solution Mn1-xVxP anode with tunable alloying/insertion hybrid electrochemical reaction for high performance lithium ion batteries",
+      "year": 2021,
+      "citation_raw": "K. H. Kim, J. Oh, C. H. Jung, M. Kim, B. M. Gallant and S. H. Hong A novel solid solution Mn1-xVxP anode with tunable alloying/insertion hybrid electrochemical reaction for high performance lithium ion batteries Energy Storage Materials, 2021, 41, 310-320",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Bubble growth and departure modes on wettable/non-wettable porous foams in alkaline water splitting",
+      "year": 2021,
+      "citation_raw": "R. Iwata, Lenan Zhang, Kyle L. Wilke, Shuai Gong, Mingfu He, Betar M. Gallant, Evelyn N. Wang Bubble growth and departure modes on wettable/non-wettable porous foams in alkaline water splitting Joule, 2021, 5, 887-900",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "B. M. Gallant",
+      "year": 2021,
+      "citation_raw": "B. M. Gallant Breaking down hidden barriers Nature Energy, 2021, 6, 13–14, News & Views",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Reactivity and evolution of ionic phases in the lithium solid-electrolyte interphase",
+      "year": 2021,
+      "citation_raw": "R. Guo, D. Wang, L. Zuin, and B. M. Gallant Reactivity and evolution of ionic phases in the lithium solid-electrolyte interphase ACS Energy Letters, 2021, 6, 877-885",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Electrochemical Signatures of Interface-Dominated Behavior in the Testing of Calcium Foil Anodes",
+      "year": 2020,
+      "citation_raw": "A. M. Melemed and Betar M. Gallant Electrochemical Signatures of Interface-Dominated Behavior in the Testing of Calcium Foil Anodes Journal of the Electrochemical Society, 2020, 167, 140543",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Advances in the chemistry and applications of alkali-metal–gas batteries",
+      "year": 2020,
+      "citation_raw": "H. Gao, and B.M. Gallant Advances in the chemistry and applications of alkali-metal–gas batteries Nature Reviews Chemistry, 2020, 4, 566-583",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Effects of operating temperature on amine-mediated CO2 capture and conversion in Li cells",
+      "year": 2020,
+      "citation_raw": "A. Khurram, H. Gao, and B.M. Gallant Effects of operating temperature on amine-mediated CO2 capture and conversion in Li cells Journal of Physical Chemistry C, 2020, 124, 35, 18877-18885",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Operando decoding of chemical and thermal events in commercial Na(Li)-ion cells via optical sensors",
+      "year": 2020,
+      "citation_raw": "J. Huang, L.A. Blanquer, J. Bonefacino, E.R. Logan, D.A. Dalla Corte, C. Delacourt, B.M. Gallant, S.T. Boles, J.R. Dahn, H.-Y. Tam, and J.M. Tarascon Operando decoding of chemical and thermal events in commercial Na(Li)-ion cells via optical sensors Nature Energy, 2020, 5, 674-683",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Li2O solid electrolyte interphase: probing transport properties at the chemical potential of lithium",
+      "year": 2020,
+      "citation_raw": "R. Guo, and B.M. Gallant Li2O solid electrolyte interphase: probing transport properties at the chemical potential of lithium Chemistry of Materials, 2020, 32, 13, 5525-5533",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Current understanding of nonaqueous electrolytes for calcium‐based batteries",
+      "year": 2020,
+      "citation_raw": "A. Melemed, A. Khurram, and B.M. Gallant Current understanding of nonaqueous electrolytes for calcium‐based batteries Batteries & Supercaps, 2020 3, 7, 570-580. Cover Feature",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Operando gas monitoring of solid electrolyte interphase reactions on lithium",
+      "year": 2020,
+      "citation_raw": "G.M. Hobold, A. Khurram, and B.M. Gallant Operando gas monitoring of solid electrolyte interphase reactions on lithium Chemistry of Materials, 2020, 32, 2341-2352",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "The intrinsic behavior of lithium fluoride in solid electrolyte interphases on lithium",
+      "year": 2020,
+      "citation_raw": "M. He, R. Guo, G.M. Hobold, H. Gao, and B.M. Gallant The intrinsic behavior of lithium fluoride in solid electrolyte interphases on lithium Proceedings of the National Academy of Sciences, 2020, 117, 73-79, Highlighted in Nature Energy",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Rechargeable-Battery Chemistry Based on Lithium Oxide Growth Through Nitrate Anion Redox",
+      "year": 2019,
+      "citation_raw": "V. Giordani, D. Tozier, J. Uddin, H. Tan, B.M. Gallant, B.D. McCloskey, J.R. Greer, G.V. Chase, and D. Addison Rechargeable-Battery Chemistry Based on Lithium Oxide Growth Through Nitrate Anion Redox Nature Chemistry, 2019, 11, 1133-1138",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Governing Role of Solvent on Discharge Activity in Lithium-CO2 Batteries",
+      "year": 2019,
+      "citation_raw": "A. Khurram, Y. Yin, L. Yan, L. Zhao, and B.M. Gallant Governing Role of Solvent on Discharge Activity in Lithium-CO2 Batteries Journal of Physical Chemistry Letters, 2019, 10, 6679-6687",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Promoting Amine-Activated Electrochemical CO2 Conversion with Alkali Salts",
+      "year": 2019,
+      "citation_raw": "A. Khurram, L. Yan, Y. Yin, L. Zhao, and B.M. Gallant Promoting Amine-Activated Electrochemical CO2 Conversion with Alkali Salts Journal of Physical Chemistry C, 2019, 123, 18222-18231",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Controlling Fluoride‐Forming Reactions for Improved Rate Capability in Lithium‐Perfluorinated Gas Conversion Batteries",
+      "year": 2019,
+      "citation_raw": "H. Gao, Y. Li, R. Guo, and B.M. Gallant Controlling Fluoride‐Forming Reactions for Improved Rate Capability in Lithium‐Perfluorinated Gas Conversion Batteries Advanced Energy Materials, 2019, 1900393",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Tailoring the discharge reaction in Li-CO2 batteries through incorporation of CO2 capture chemistry",
+      "year": 2018,
+      "citation_raw": "A. Khurram, M. He and B.M. Gallant Tailoring the discharge reaction in Li-CO2 batteries through incorporation of CO2 capture chemistry Joule, 2018, 2, 2649-2666",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Electrochemical conversion of nitrogen trifluoride as a gas-to-solid cathode in Li batteries",
+      "year": 2018,
+      "citation_raw": "M. He, Y. Li, R. Guo, and B.M. Gallant Electrochemical conversion of nitrogen trifluoride as a gas-to-solid cathode in Li batteries Journal of Physical Chemistry Letters, 2018, 9, 4700-4706",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "A high-capacity lithium-gas battery based on sulfur fluoride conversion",
+      "year": 2018,
+      "citation_raw": "Y. Li, A. Khurram, and B.M. Gallant A high-capacity lithium-gas battery based on sulfur fluoride conversion Journal of Physical Chemistry C, 2018, 122, 7128-7138",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "A molten salt lithium-oxygen battery [publisher link]",
+      "year": 2016,
+      "citation_raw": "V. Giordani, D. Tozier, H. Tan, C.M. Burke, B.M. Gallant, J. Uddin, J.R. Greer, B.D. McCloskey, G. Chase, and D. Addison A molten salt lithium-oxygen battery [publisher link] Journal of the American Chemical Society, 2016, 138, 2656-2663",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "3-dimensional Au microlattices as positive electrodes for Li-O2 batteries [publisher link]",
+      "year": 2015,
+      "citation_raw": "Xu, B.M. Gallant, P.U. Wunderlich, T. Lohmann, J.R. Greer 3-dimensional Au microlattices as positive electrodes for Li-O2 batteries [publisher link] ACS Nano, 2015, 9, 5876-5883",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Tailoring of interfacial mechanical shear strength by surface chemical modification of silicon microwires embedded in Nafion membranes [publisher link]",
+      "year": 2015,
+      "citation_raw": "B.M. Gallant, X.W. Gu, D.Z. Chen, J.R. Greer and N.S. Lewis Tailoring of interfacial mechanical shear strength by surface chemical modification of silicon microwires embedded in Nafion membranes [publisher link] ACS Nano, 2015, 9, 5143-5153",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Electrochemical performance of layer-by-layer assembled multiwalled carbon nanotube electrodes in nonaqueous cells [publisher link]",
+      "year": 2014,
+      "citation_raw": "B.M. Gallant, S.W. Lee, T. Kawaguchi, P.T. Hammond, and Y. Shao-Horn Electrochemical performance of layer-by-layer assembled multiwalled carbon nanotube electrodes in nonaqueous cells [publisher link] Journal of The Electrochemical Society, 2014, 161, A1625-A1633",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Rate-dependent morphology of Li2O2 growth in Li-O2 batteries [publisher link]",
+      "year": 2013,
+      "citation_raw": "Horstmann, B. M. Gallant, R. R. Mitchell, W. G. Bessler, Y. Shao-Horn and M.Z. Bazant Rate-dependent morphology of Li2O2 growth in Li-O2 batteries [publisher link] Journal of Physical Chemistry Letters, 2013, 4, 4217-4222",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Synthesis of highly stable sub-8 nm TiO2 nanoparticles and their multilayer electrodes of TiO2/MWNT for electrochemical applications [publisher link]",
+      "year": 2013,
+      "citation_raw": "M.N. Hyder, ‡ B. M. Gallant ‡ N. J. Shah, Y. Shao-Horn and P.T. Hammond Synthesis of highly stable sub-8 nm TiO2 nanoparticles and their multilayer electrodes of TiO2/MWNT for electrochemical applications [publisher link] Nano Letters, 2013, 13, 4610 – 4619",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Influence of Li2O2 morphology on oxygen reduction and oxygen evolution kinetics in Li-O2 batteries [publisher link]",
+      "year": 2013,
+      "citation_raw": "B. M. Gallant, D.G. Kwabi, R.R. Mitchell, C.V. Thompson and Y. Shao-Horn Influence of Li2O2 morphology on oxygen reduction and oxygen evolution kinetics in Li-O2 batteries [publisher link] Energy & Environmental Science, 2013, 6, 2518 – 2528",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "In-situ Transmission Electron Microscopy observations of electrochemical oxidation of Li2O2 [publisher link]",
+      "year": 2013,
+      "citation_raw": "L. Zhong, R.R. Mitchell, Y. Liu, B. M. Gallant, C.V. Thompson, J.Y. Huang, S. Mao and Y. Shao-Horn In-situ Transmission Electron Microscopy observations of electrochemical oxidation of Li2O2 [publisher link] Nano Letters, 2013, 13, 2209-2214",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Mechanisms of morphological evolution of Li2O2 particles during electrochemical growth [publisher link]",
+      "year": 2013,
+      "citation_raw": "R.R. Mitchell, B.M. Gallant, Y. Shao-Horn and C.V. Thompson Mechanisms of morphological evolution of Li2O2 particles during electrochemical growth [publisher link] Journal of Physical Chemistry Letters, 2013, 4, 1060 – 1064",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Lithium-oxygen batteries: Bridging mechanistic understanding and battery performance [publisher link]",
+      "year": 2013,
+      "citation_raw": "Y.-C. Lu, ‡ B.M. Gallant, ‡ D.G. Kwabi, J.R. Harding, R.R. Mitchell, M.S. Whittingham and Y. Shao-Horn Lithium-oxygen batteries: Bridging mechanistic understanding and battery performance [publisher link] Energy & Environmental Science, 2013, 6, 750-768",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Chemical and morphological changes of Li-O2 batteries upon cycling [publisher link]",
+      "year": 2012,
+      "citation_raw": "B.M. Gallant, R.R. Mitchell, D.G. Kwabi, J. Zhou, L. Zuin, C.V. Thompson and Y. Shao-Horn Chemical and morphological changes of Li-O2 batteries upon cycling [publisher link] Journal of Physical Chemistry C, 2012, 116, 20800",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Role of oxygen functional groups in carbon nanotube / graphene freestanding electrodes for high performance lithium batteries [publisher link]",
+      "year": 2012,
+      "citation_raw": "H.R. Byon, ‡ B.M. Gallant, ‡ S.W. Lee and Y. Shao-Horn Role of oxygen functional groups in carbon nanotube / graphene freestanding electrodes for high performance lithium batteries [publisher link] Adv. Funct. Mater. 2012, 23, 1037 – 1045",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Self-standing positive electrodes of oxidized few-walled carbon nanotubes for light-weight and high-power lithium batteries [publisher link]",
+      "year": 2012,
+      "citation_raw": "S. W. Lee, ‡ B.M. Gallant, ‡ Y. Lee, N. Yoshida, D.Y. Kim, Y. Yamada, S. Noda, A. Yamada and Y. Shao-Horn Self-standing positive electrodes of oxidized few-walled carbon nanotubes for light-weight and high-power lithium batteries [publisher link] Energy Environ. Sci. 2012, 5, 5437",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "All-carbon nanofiber electrodes for high-energy rechargeable Li-O2 batteries [publisher link]",
+      "year": 2011,
+      "citation_raw": "R.R. Mitchell, ‡ B.M. Gallant, ‡ C.V. Thompson and Y. Shao-Horn All-carbon nanofiber electrodes for high-energy rechargeable Li-O2 batteries [publisher link] Energy Environ. Sci. 2011, 4, 2952",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "Nanostructured carbon-based electrodes: Bridging the gap between thin-ﬁlm lithium-ion batteries and electrochemical capacitors [publisher link]",
+      "year": 2011,
+      "citation_raw": "S.W. Lee, B.M. Gallant, H.R. Byon, P.T. Hammond and Y. Shao-Horn Nanostructured carbon-based electrodes: Bridging the gap between thin-ﬁlm lithium-ion batteries and electrochemical capacitors [publisher link] Energy Environ. Sci. 2011, 4, 1972",
+      "source_url": "https://gallant.mit.edu/publications/"
+    },
+    {
+      "title": "High-power lithium batteries from functionalized carbon nanotube electrodes [publisher link]",
+      "year": 2010,
+      "citation_raw": "S.W. Lee, N. Yabuuchi, B.M. Gallant, S. Chen, B.S. Kim, P.T. Hammond and Y. Shao-Horn High-power lithium batteries from functionalized carbon nanotube electrodes [publisher link] Nature Nanotech. 2010, 5, 531",
+      "source_url": "https://gallant.mit.edu/publications/"
+    }
+  ]
 }

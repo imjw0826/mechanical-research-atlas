@@ -5,7 +5,7 @@
   "lab_name": null,
   "lab_url": "https://portela.mit.edu/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/cportela@mit.edu"
+    "https://portela.mit.edu/publications/"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/cportela@mit.edu",
   "discovered_links": [
@@ -29,12 +29,220 @@
   "discovered_publication_links": [],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
-    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Reconfigurable architected material systems inspired by feather shaft mechanics",
+      "year": 2026,
+      "citation_raw": "Reconfigurable architected material systems inspired by feather shaft mechanics P. S. Dasika, Y. Zhang, S. Dhulipala, L. Wu, C. M. Portela & P. D. Zavattieri npj Metamaterials (2026)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Entanglement-driven responses through multiscale 3D-printed knits",
+      "year": 2026,
+      "citation_raw": "Entanglement-driven responses through multiscale 3D-printed knits B. Cline, C. Bai, S. Jeong, L. Xu , Y. Wang, J. U. Surjadi , C. M. Portela, T. Chen PNAS (2026)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Microneedle array platforms for drug delivery and biomarker sensing: From skin mechanics guided design to scalable manufacture for clinical utility",
+      "year": 2026,
+      "citation_raw": "Microneedle array platforms for drug delivery and biomarker sensing: From skin mechanics guided design to scalable manufacture for clinical utility J. Zhou, L. Wu, M. Wyttenbach, R. Lennon, Y. Liu, M. Christian, S. Scherr, M. Charara, R. Kommalapati, J. Blum, E. Chatzilakou, A. Schlueter, F. Theobald, L. Valenti, K. Kosuda, G. B. Jacobson, M. Kwon, S. Ding, C. Quinn, C. Rosen, I. C. Springall, K. TM Tran, J. Tian, A. K. Yetisen, A. Jaklenec, N. Shalabi, J. Li, Z. Kang, R. Farra, M. Kendall, J. H. Park, J. DeSimone, R. F. Donnelly, J. Wang, J. J. Mistilis, M. R Prausnitz, J. C. Birchall, S. A. Coulman, A. J. Hart, C. M Portela, R. Langer, G. Francese, G. Traverso Journal of Controlled Release (2026)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Quasi-Static to Supersonic Energy Absorption of Nanoarchitected Tubulanes and Schwarzites",
+      "year": 2026,
+      "citation_raw": "Quasi-Static to Supersonic Energy Absorption of Nanoarchitected Tubulanes and Schwarzites P. Serles, A. Maguire, T. Butruille, J. Lem, S. Yang, P. G. Demingos, S. Choukir, M. Haché, B. Kumral, K. Jia, C. Jia, Y. Zou, C. V. Singh, C. M. Portela, J. Lou, P. M. Ajayan, T. Filleter Advanced Functional Materials (2026)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Magnetically responsive microprintable soft nanocomposites with tunable nanoparticle loading",
+      "year": 2026,
+      "citation_raw": "Magnetically responsive microprintable soft nanocomposites with tunable nanoparticle loading R. M. Sun, A. Y. Chen, Y. Ji, E. M. Stewart, D. W. Yee, C. M. Portela Matter (2026)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Design framework for programmable three-dimensional woven metamaterials",
+      "year": 2026,
+      "citation_raw": "Design framework for programmable three-dimensional woven metamaterials M. Carton, J. U. Surjadi, B. F. G. Aymon, L. Xu, C. M. Portela Nature Communications (2026)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Curvature-Guided Mechanics and Design of Spinodal andShell-Based Architected Materials",
+      "year": 2025,
+      "citation_raw": "Curvature-Guided Mechanics and Design of Spinodal andShell-Based Architected Materials S. Dhulipala, C. M. Portela Journal of the Mechanics and Physics of Solids (2025)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Mechanics of micro-architected carbon-and polymer-based interpenetrating phase composites",
+      "year": 2025,
+      "citation_raw": "Mechanics of micro-architected carbon-and polymer-based interpenetrating phase composites A. Y. Chen, C. M. Portela International Journal of Solids and Structures (2025)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Data-Efficient Discovery of Hyperelastic TPMS Metamaterials with Extreme Energy Dissipation",
+      "year": 2025,
+      "citation_raw": "Data-Efficient Discovery of Hyperelastic TPMS Metamaterials with Extreme Energy Dissipation M. Perroni-Scharf, Z. Ferguson, T. Butruille, C. M. Portela, M. K. Luković SIGGRAPH Conference Papers (2025)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Generative inverse design of metamaterials with functional responses by interpretable learning",
+      "year": 2025,
+      "citation_raw": "Generative inverse design of metamaterials with functional responses by interpretable learning W. Chen, R. Sun, D. Lee, C. M. Portela, W. Chen Advanced Intelligent Systems (2025)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Mechanical Behavior of Nanocluster-Based Nanocomposites Made Using Two-Photon Lithography",
+      "year": 2025,
+      "citation_raw": "Mechanical Behavior of Nanocluster-Based Nanocomposites Made Using Two-Photon Lithography J. Kulikowski, D. Delghandi, C. Wu, S. D. Figueroa, W. S. Cunningham, D. S. Gianola, C. M. Portela, X. W. Gu ACS Applied Materials & Interfaces (2025)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Double-network-inspired mechanical metamaterials",
+      "year": 2025,
+      "citation_raw": "Double-network-inspired mechanical metamaterials J. U. Surjadi, B. F. G. Aymon, M. Carton, C. M Portela Nature Materials (2025)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Ultrahigh specific strength by Bayesian optimization of carbon nanolattices",
+      "year": 2025,
+      "citation_raw": "Ultrahigh specific strength by Bayesian optimization of carbon nanolattices P. Serles, J. Yeo, M. Haché, P. G. Demingos, J. Kong, P. Kiefer, S. Dhulipala, B. Kumral, K. Jia, S. Yang, T. Feng, C. Jia, P. M. Ajayan, C. M. Portela, M. Wegener, J. Howe, C. V. Singh, Y. Zou, S. Ryu, T. Filleter Advanced Materials (2025)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Enabling three-dimensional architected materials across length scales and timescales",
+      "year": 2025,
+      "citation_raw": "Enabling three-dimensional architected materials across length scales and timescales J. U. Surjadi & C. M. Portela Nature Materials (2025)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Experiment-informed finite-strain inverse design of spinodal metamaterials",
+      "year": 2025,
+      "citation_raw": "Experiment-informed finite-strain inverse design of spinodal metamaterials P. Thakolkaran, M. Espinal, S. Dhulipala, S. Kumar, C. M. Portela Extreme Mechanics Letters (2025)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Tailored ultrasound propagation in microscale metamaterials via inertia design",
+      "year": 2024,
+      "citation_raw": "Tailored ultrasound propagation in microscale metamaterials via inertia design R. Sun, J. Lem, Y. Kai, W. DeLima, C. M. Portela Science Advances (2024)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Decoupling particle-impact dissipation mechanisms in 3D architected materials",
+      "year": 2024,
+      "citation_raw": "Decoupling particle-impact dissipation mechanisms in 3D architected materials T. Butruille, J. C. Crone & C. M. Portela PNAS (2024)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Dynamic diagnosis of metamaterials through laser-induced vibrational signatures",
+      "year": 2023,
+      "citation_raw": "Dynamic diagnosis of metamaterials through laser-induced vibrational signatures Y. Kai, S. Dhulipala, R. Sun, J. Lem, W. DeLima, T. Pezeril & C. M. Portela Nature (2023)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Tunable Mechanical Response of Self-Assembled Nanoparticle Superlattices",
+      "year": 2023,
+      "citation_raw": "Tunable Mechanical Response of Self-Assembled Nanoparticle Superlattices S. Dhulipala, D.W. Yee, Z. Zhou, R. Sun, J.E. Andrade, R.J. Macfarlane, C.M. Portela Nano Letters (2023)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Predicting the influence of geometric imperfections on the mechanical response of 2D and 3D periodic trusses",
+      "year": 2023,
+      "citation_raw": "Predicting the influence of geometric imperfections on the mechanical response of 2D and 3D periodic trusses R.N. Glaesener, S. Kumar, C. Lestringant, T. Butruille, C.M. Portela, D.M. Kochmann Acta Materialia (2023)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Sequential metamaterials with alternating Poisson’s ratios",
+      "year": 2022,
+      "citation_raw": "Sequential metamaterials with alternating Poisson’s ratios A. Farzaneh, N. Pawar, C.M. Portela, J.B. Hopkins Nature Communications (2022)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Poroelastic micro lattices for underwater wave focusing",
+      "year": 2021,
+      "citation_raw": "Poroelastic micro lattices for underwater wave focusing G. Kim, C.M. Portela, P. Celli, A. Palermo, C. Daraio Extreme Mechanics Letters (2021)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Supersonic impact resilience of nanoarchitected carbon",
+      "year": 2021,
+      "citation_raw": "Supersonic impact resilience of nanoarchitected carbon C.M. Portela, B.W. Edwards, D. Veysset, Y. Sun, K.A. Nelson, D.M. Kochmann, J.R. Greer Nature Materials (2021)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Pushing and Pulling on Ropes: Hierarchical Woven Materials",
+      "year": 2020,
+      "citation_raw": "Pushing and Pulling on Ropes: Hierarchical Woven Materials W. P. Moestopo, A. J. Mateos, R. M. Fuller, J. R. Greer, & C. M. Portela (2020)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Krödel, T, Weissenbach, D. W, Yee",
+      "year": 2020,
+      "citation_raw": "C. M. Portela, A. Vidyasagar, S. Krödel, T. Weissenbach, D. W. Yee, J. R. Greer, & D. M. Kochmann (2020)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "X. Xia, A. Afshar, H. Yang, C. M. Portela, D. M. Kochmann, C. V. Di Leo, & J. R. Greer (2019)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "link – https://www.nature.com/articles/s41586-019-1538-z",
+      "year": 2019,
+      "citation_raw": "link – https://www.nature.com/articles/s41586-019-1538-z Computationally efficient design of directionally compliant metamaterials L. A. Shaw, F. Sun, C. M. Portela, R. I. Barranco, J. R. Greer, & J. B. Hopkins (2019)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "link – https://www.nature.com/articles/s41467-018-08049-1",
+      "year": 2019,
+      "citation_raw": "link – https://www.nature.com/articles/s41467-018-08049-1 Approaches for Efficient Modeling of the Mechanical Response of Complex Periodic Truss Architectures C. Portela, G. Phlipot, J. Greer, & D. Kochmann (2019)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "link – https://www.research-collection.ethz.ch/handle/20.500.11850/407451",
+      "year": 2019,
+      "citation_raw": "link – https://www.research-collection.ethz.ch/handle/20.500.11850/407451 Fabrication, Mechanical Characterization, and Modeling of 3D Architected Materials upon Static and Dynamic Loading C. M. G. Portela (2019)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "Additive manufacturing of 3D nano-architected metals",
+      "year": 2018,
+      "citation_raw": "Additive manufacturing of 3D nano-architected metals A. Vyatskikh, S. Delalande, A. Kudo, X. Zhang, C. M. Portela, & J. R. Greer (2018)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "link – https://www.nature.com/articles/s41467-018-03071-9",
+      "year": 2018,
+      "citation_raw": "link – https://www.nature.com/articles/s41467-018-03071-9 Impact of node geometry on the effective stiffness of non-slender three-dimensional truss lattice architectures C. M. Portela, J. R. Greer, & D. M. Kochmann (2018)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "link – https://www.sciencedirect.com/science/article/pii/S2352431618300725",
+      "year": 2018,
+      "citation_raw": "link – https://www.sciencedirect.com/science/article/pii/S2352431618300725 Ultralow Thermal Conductivity and Mechanical Resilience of Architected Nanolattices N. G. Dou, R. A. Jagt, C. M. Portela, J. R. Greer, & A. J. Minnich (2018)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "link – https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.8b01191",
+      "year": 2018,
+      "citation_raw": "link – https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.8b01191 Fabrication and design of composites with architected layers C. Portela, A. Vyatskikh, & J. R. Greer (2018)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": null,
+      "year": 2017,
+      "citation_raw": "L. R. Meza, G. P. Phlipot, C. M. Portela, A. Maggi, L. C. Montemayor, A. Comella, D. M. Kochmann, & J. R. Greer (2017)",
+      "source_url": "https://portela.mit.edu/publications/"
+    },
+    {
+      "title": "link – https://www.sciencedirect.com/science/article/pii/S1359645417307073",
+      "year": 2021,
+      "citation_raw": "Acta Materialia link – https://www.sciencedirect.com/science/article/pii/S1359645417307073 Portela Research Group © 2021 All Rights Reserved",
+      "source_url": "https://portela.mit.edu/publications/"
+    }
+  ]
 }

@@ -6,18 +6,18 @@
 
 | 대학 | 대상 | 전체목록 조사 시도 | 전체 게시 목록 수집 | 후속 조사 필요 | 접근 제한 | 미수집 | 게시 기록 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| University of Cambridge | 64 | 16 | 0 | 64 | 0 | 0 | 1,006 |
-| Delft University of Technology | 59 | 1 | 0 | 53 | 6 | 0 | 1,076 |
-| ETH Zurich | 43 | 36 | 6 | 35 | 1 | 1 | 6,098 |
-| Harvard University | 54 | 19 | 6 | 48 | 0 | 0 | 2,549 |
+| University of Cambridge | 64 | 61 | 0 | 64 | 0 | 0 | 1,599 |
+| Delft University of Technology | 59 | 3 | 0 | 53 | 6 | 0 | 1,575 |
+| ETH Zurich | 43 | 41 | 6 | 35 | 1 | 1 | 6,339 |
+| Harvard University | 54 | 54 | 6 | 48 | 0 | 0 | 6,494 |
 | Imperial College London | 57 | 4 | 0 | 57 | 0 | 0 | 1,543 |
-| MIT | 107 | 86 | 3 | 104 | 0 | 0 | 2,782 |
-| Nanyang Technological University | 80 | 68 | 1 | 74 | 5 | 0 | 522 |
-| National University of Singapore | 49 | 16 | 2 | 43 | 4 | 0 | 1,256 |
-| University of Oxford | 140 | 11 | 2 | 138 | 0 | 0 | 2,466 |
-| POSTECH | 26 | 25 | 0 | 26 | 0 | 0 | 1,920 |
+| MIT | 107 | 106 | 3 | 104 | 0 | 0 | 4,263 |
+| Nanyang Technological University | 80 | 76 | 1 | 74 | 5 | 0 | 986 |
+| National University of Singapore | 49 | 45 | 2 | 43 | 4 | 0 | 1,991 |
+| University of Oxford | 140 | 36 | 2 | 138 | 0 | 0 | 2,799 |
+| POSTECH | 26 | 26 | 0 | 26 | 0 | 0 | 1,986 |
 | Seoul National University | 34 | 34 | 21 | 12 | 1 | 0 | 6,963 |
-| Stanford University | 42 | 32 | 3 | 39 | 0 | 0 | 4,243 |
+| Stanford University | 42 | 42 | 3 | 39 | 0 | 0 | 4,243 |
 | KAIST | 60 | 54 | 11 | 45 | 4 | 0 | 9,318 |
 
 [수집한 논문 목록](direct-publications.md)

@@ -1,136 +1,704 @@
-=== https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU
-MIT MechE
+=== https://marinerobotics.mit.edu/publications
+Marine Robotics Group
+MIT Computer Science and Artificial Intelligence Lab
 Home
+Research
 People
-Leonard, John J
-menu
- 
-Professor
-John Leonard
-Samuel C. Collins Professor
-Professor of Mechanical Engineering
-Associate Department Head for Education
-INTERESTS
-Navigation and mapping for autonomous mobile robots
-long-term visual simultaneous localization and mapping in dynamic environments
-self-driving autonomous cars
- 
-ROOM
-3-246
- 
-
-Massachusetts Institute of Technology
-
-77 Massachusetts Avenue
-
-Cambridge, Massachusetts 02139
-
- 
-email
-website
- 
-617.253.5305
- Download CV
- 
-ASSOCIATED RESEARCH AREAS
-mechanics
-design
-controls
-energy
-ocean
-bioengineering
-nano
-Administrative Contact
-Kober, Emma
-ecrist@mit.edu
-Professor Leonard News + Media
-Better autonomous “reasoning” at tricky intersections
-
-MIT and Toyota researchers have designed a new model to help autonomous vehicles determine when it’s safe to merge into traffic at intersections with obstructed views.
-
-READ MORE
-Multi-university effort will advance materials, define the future of mobility
-
-Three MIT-affiliated research teams will receive about $10M in funding as part of a $35M materials science discovery program launched by the Toyota Research Institute (TRI).
-
-READ MORE
-Talking Shop with Professor John Leonard
-
-Professor John Leonard talks shop about why we aren't as close to falling asleep at the wheel as we think.
-
-READ MORE
-FACULTY DETAILS
-Bio
-Education
-Research Interests
-Online Data
-Honors/Awards
-Related Experience
-Memberships
- 
-Professional Service
-MIT Service
-Teaching
 Publications
-Patents
-Education
-1987
-
-UNIVERSITY OF PENNSYLVANIA
-
-B.Eng.
+2026
+J. Fu, Y. Du, K. Singh, J. B. Tenenbaum, and J. J. Leonard, “NeuSE: Neural SE(3)-Equivariant Embedding for Long-Term Object-Based SLAM,” Intl. J. of Robotics Research, vol. 45, no. 1, pp. 159–189, 2026.
+BibTeX
+D. Yang, J. Hong, J. J. Leonard, and Y. Girdhar, “ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting,” arXiv preprint arXiv:2604.11992, 2026.
+E-Print, BibTeX
+2025
+J. Hong, R. Choi, and J. J. Leonard, “Semantic Enhancement for Object SLAM with Heterogeneous Multimodal Large Language Model Agents,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2025.
+BibTeX
+Z. Lu, J. Ye, and J. Leonard, “3DGS-CD: 3D Gaussian Splatting-Based Change Detection for Physical Object Rearrangement,” IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2662–2669, 2025.
+BibTeX
+K. Singh and J. Leonard, “Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2025, pp. 1706–1712.
+BibTeX
+D. Yang, J. J. Leonard, and Y. Girdhar, “SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2025, pp. 7632–7638.
+BibTeX
+J. Bonnel, A. Vardi, J. Leonard, and S. E. Dosso, “From Geoacoustic Inversion to Seabed Tomography Using a Distributed Network of Sources and Receivers,” The Journal of the Acoustical Society of America, vol. 157, no. 4_Supplement, p. A196, 2025.
+BibTeX
+Z. Chen, H. Chang, H. Bao, R. Choi, A. Yu, R.-Z. Qiu, Y. Ravan, J. J. Leonard, X. Wang, P. Isola, Y. Wang, and G. Yang, “The Neverwhere Visual Parkour Benchmark Suite.” 2025.
+BibTeX
+Y. Zhang, H. S. Sawhney, and J. J. Leonard, “ShapeICP: Iterative Category-Level Object Pose and Shape Estimation from Depth,” IEEE Robotics and Automation Letters, 2025.
+BibTeX
+2024
+K. Doherty, A. Papalia, Y. Huang, D. Rosen, B. Englot, and J. Leonard, “MAC: Graph Sparsification by Maximizing Algebraic Connectivity,” arXiv preprint arXiv:2403.19879, 2024.
+E-Print, BibTeX
+A. Papalia, Y. Tian, D. M. Rosen, J. P. How, and J. J. Leonard, “An Overview of the Burer-Monteiro Method for Certifiable Robot Perception,” arXiv preprint arXiv:2410.00117, 2024.
+E-Print, BibTeX
+A. Papalia, A. Fishberg, B. W. O’Neill, J. P. How, D. M. Rosen, and J. J. Leonard, “Certifiably Correct Range-Aided SLAM,” IEEE Trans. Robotics, vol. 40, pp. 4265–4283, 2024.
+BibTeX
+K. Singh, T. Magoun, and J. J. Leonard, “LOSS-SLAM: Lightweight Open-Set Semantic Simultaneous Localization and Mapping,” arXiv preprint arXiv:2404.04377, 2024.
+E-Print, BibTeX
+K. Singh, J. Hong, N. R. Rypkema, and J. J. Leonard, “Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2024.
+BibTeX
+R. Turrisi, H. Huang, F. Strömstad, J. Morrison, A. Papalia, J. Leonard, and M. R. Benjamin, “The Spurdog AUV: A Field Configurable and Optionally A-Sized Low-Cost AUV,” in IEEE/OES Autonomous Underwater Vehicles Symposium, 2024, pp. 1–6.
+BibTeX
+A. Yu, G. Yang, R. Choi, Y. Ravan, J. Leonard, and P. Isola, “Learning Visual Parkour from Generated Images,” in 8th Annual Conference on Robot Learning (CoRL), 2024.
+E-Print, BibTeX
+A. Vardi, P. H. Dahl, D. Dall’Osto, D. Knobles, P. Wilson, J. Leonard, and J. Bonnel, “Estimation of the Spatial Variability of the New England Mud Patch Geoacoustic Properties Using a Distributed Array of Hydrophones and Deep Learning,” The Journal of the Acoustical Society of America, vol. 156, no. 6, pp. 4229–4241, 2024.
+BibTeX
+2023
+M. Flynn, B. W. O’Neill, D. P. Hart, and J. J. Leonard, “A Comparative Analysis of Maneuvering Strategies for Cooperative Range-based Localization,” in OCEANS 2023-Limerick, 2023.
+BibTeX
+J. Fu, Y. Du, K. Singh, J. B. Tenenbaum, and J. J. Leonard, “NeuSE: Neural SE (3)-Equivariant Embedding for Consistent Spatial Understanding with Objects,” in Proceedings of Robotics: Science and Systems (RSS), 2023.
+BibTeX
+Q. Huang and J. J. Leonard, “GAPSLAM: Blending Gaussian Approximation and Particle Filters for Real-Time Non-Gaussian SLAM,” IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2023.
+BibTeX
+Q. Huang, J. DeGol, V. Fragoso, S. N. Sinha, and J. J. Leonard, “Optimizing fiducial marker placement for improved visual localization,” IEEE Robotics and Automation Letters, vol. 8, no. 5, pp. 2756–2763, 2023.
+BibTeX
+A. Papalia, A. Fishberg, B. W. O’Neill, J. P. How, D. M. Rosen, and J. J. Leonard, “Certifiably Correct Range-Aided SLAM,” arXiv preprint arXiv:2302.11614, 2023.
+BibTeX
+A. Papalia, J. Morales, K. J. Doherty, D. M. Rosen, and J. J. Leonard, “SCORE: A second-order conic initialization for range-aided SLAM,” in 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023, pp. 10637–10644.
+BibTeX
+A. Rosinol, J. J. Leonard, and L. Carlone, “NeRF-SLAM: Real-time dense monocular slam with neural radiance fields,” IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2023.
+BibTeX
+A. Rosinol, J. J. Leonard, and L. Carlone, “Probabilistic volumetric fusion for dense monocular SLAM,” in Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2023, pp. 3097–3105.
+BibTeX
+K. Singh, N. Rypkema, and J. Leonard, “Attention-based Self-Supervised Hierarchical Semantic Segmentation for Underwater Imagery,” in OCEANS 2023-Limerick, 2023.
+BibTeX
+Y. Zhang, O. A. Severinsen, J. J. Leonard, L. Carlone, and K. Khosoussi, “Data-Association-Free Landmark-based SLAM,” arXiv preprint arXiv:2302.13264, 2023.
+BibTeX
+2022
+K. J. Doherty, D. M. Rosen, and J. J. Leonard, “Performance guarantees for spectral initialization in rotation averaging and pose-graph SLAM,” in 2022 International Conference on Robotics and Automation (ICRA), 2022, pp. 5608–5614.
+BibTeX
+K. J. Doherty, D. M. Rosen, and J. J. Leonard, “Spectral measurement sparsification for pose-graph SLAM,” in 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, pp. 01–08.
+BibTeX
+K. J. Doherty, Z. Lu, K. Singh, and J. J. Leonard, “Discrete-continuous smoothing and mapping,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 12395–12402, 2022.
+BibTeX
+J. Fu, Y. Du, K. Singh, J. B. Tenenbaum, and J. J. Leonard, “Robust Change Detection Based on Neural Descriptor Fields,” in 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, pp. 2817–2824.
+BibTeX
+J. Fu, C. Lin, Y. Taguchi, A. Cohen, Y. Zhang, S. Mylabathula, and J. J. Leonard, “PlaneSDF-Based Change Detection for Long-Term Dense Mapping,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 9667–9674, 2022.
+BibTeX
+Q. Huang, A. Papalia, and J. J. Leonard, “Nested Sampling for Non-Gaussian Inference in SLAM Factor Graphs,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 9232–9239, 2022.
+DOI, BibTeX
+Q. Huang, C. Pu, K. Khosoussi, D. M. Rosen, D. Fourie, J. P. How, and J. J. Leonard, “Incremental non-Gaussian inference for SLAM using normalizing flows,” IEEE Transactions on Robotics, vol. 39, no. 2, pp. 1458–1475, 2022.
+BibTeX
+Z. Lu, Y. Zhang, K. Doherty, O. A. Severinsen, E. Yang, and J. Leonard, “SLAM-Supported Self-Training for 6D Object Pose Estimation,” arXiv preprint arXiv:2203.04424, 2022.
+BibTeX
+B. W. O’Neill, J. R. Pelletier, S. Calvert, A. Papalia, J. J. Leonard, L. Freitag, and E. Gallimore, “Loosely-Coupled Human-Robot Teams for Enhanced Undersea Operations,” in OCEANS 2022, Hampton Roads, 2022.
+BibTeX
+A. Papalia, N. Thumma, and J. Leonard, “Prioritized Planning for Cooperative Range-Only Localization in Multi-Robot Networks,” in 2022 International Conference on Robotics and Automation (ICRA), 2022, pp. 10753–10759.
+E-Print, BibTeX
+J. R. Pelletier, B. W. O’Neill, J. J. Leonard, L. Freitag, and E. Gallimore, “AUV-Assisted Diver Navigation,” IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 10208–10215, 2022.
+DOI, BibTeX
+2021
+V. Amblard, T. P. Osedach, A. Croux, A. Speck, and J. J. Leonard, “Lidar-Monocular Surface Reconstruction Using Line Segments,” IEEE Intl. Conf. on Robotics and Automation (ICRA), 2021.
+BibTeX
+J. Fu, Q. Huang, K. Doherty, Y. Wang, and J. J. Leonard, “A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM,” in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
+E-Print, BibTeX
+X. Huang, S. G. McGill, J. A. DeCastro, L. Fletcher, J. J. Leonard, B. C. Williams, and G. Rosman, “CARPAL: Confidence-aware intent recognition for parallel autonomy,” IEEE Robotics and Automation Letters, vol. 6, no. 3, pp. 4433–4440, 2021.
+E-Print, BibTeX
+Q. Huang, C. Pu, D. Fourie, K. Khosoussi, J. P. How, and J. J. Leonard, “NF-iSAM: Incremental Smoothing and Mapping via Normalizing Flows,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2021.
+E-Print, BibTeX
+Z. Lu, Q. Huang, K. Doherty, and J. J. Leonard, “Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM,” in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
+E-Print, BibTeX
+D. M. Rosen, K. J. Doherty, A. Terán Espinoza, and J. J. Leonard, “Advances in inference and representation for simultaneous localization and mapping,” Annual Review of Control, Robotics, and Autonomous Systems, vol. 4, pp. 215–242, 2021.
+Web link, E-Print, BibTeX
+Y. Zhang and J. J. Leonard, “A Front-End for Dense Monocular SLAM using a Learned Outlier Mask Prior,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2021.
+E-Print, BibTeX
+Y. Zhang and J. J. Leonard, “Bootstrapped Self-Supervised Training with Monocular Video for Semantic Segmentation and Depth Estimation,” in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
+E-Print, BibTeX
+2020
+T. P. Osedach, K. Singh, P. V. Texeira, J. Arber, A. Levesque, C. Chahbazia, D. Jain, B. Englot, J. J. Leonard, S. Vannuffelen, and S. Ossian, “Proxy Platform for Underwater Inspection, Maintenance, and Repair,” in Proc. of the IEEE/MTS OCEANS Conf. and Exhibition, 2020.
+E-Print, DOI, BibTeX
+K. Doherty, D. Baxter, E. Schneeweiss, and J. Leonard, “Probabilistic Data Association via Mixture Models for Robust Semantic SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2020.
+E-Print, BibTeX
+E. M. Fischell, A. R. Kroo, and B. W. O’Neill, “Single-Hydrophone Low-Cost Underwater Vehicle Swarming,” IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 354–361, 2020.
+DOI, BibTeX
+D. Fourie, N. R. Rypkema, P. V. Teixeira, S. Claassens, E. Fischell, and J. Leonard, “Towards Real-Time Non-Gaussian SLAM for Underdetermined Navigation,” in 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 4438–4445.
+E-Print, BibTeX
+X. Huang, S. McGill, J. DeCastro, L. Fletcher, J. Leonard, B. Williams, and G. Rosman, “DiversityGAN: Diversity-Aware Vehicle Motion Prediction via Latent Semantic Sampling,” in IEEE Robotics and Automation Letters, 2020.
+BibTeX
+J. J. Leonard, D. A. Mindell, and E. L. Stayton, “Autonomous Vehicles, Mobility, and Employment Policy: The Roads Ahead.” MIT Work of the Future, 2020.
+E-Print, BibTeX
+J. D. Martin, K. Doherty, C. Cyr, B. Englot, and J. Leonard, “Variational Filtering with Copula Models for SLAM,” in 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 5066–5073.
+E-Print, BibTeX
+A. Papalia and J. Leonard, “Network Localization Based Planning for Autonomous Underwater Vehicles with Inter-Vehicle Ranging,” in IEEE/OES Autonomous Underwater Vehicles Symposium, 2020, pp. 1–6.
+BibTeX
+2019
+M. Y. Cheung, D. Fourie, N. R. Rypkema, P. V. Teixeira, H. Schmidt, and J. Leonard, “Non-Gaussian SLAM utilizing Synthetic Aperture Sonar,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2019, pp. 3457–3463.
+E-Print, BibTeX
+K. Doherty, D. Fourie, and J. Leonard, “Multimodal Semantic SLAM with Probabilistic Data Association,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2019, pp. 2419–2425.
+E-Print, BibTeX
+D. Fourie, P. V. Teixeira, and J. J. Leonard, “Non-Parametric Mixed-Manifold Products Using Multiscale Kernel Densities.,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2019, pp. 6656–6662.
+E-Print, BibTeX
+X. Huang, S. G. McGill, J. A. DeCastro, B. C. Williams, L. Fletcher, J. J. Leonard, and G. Rosman, “Diversity-aware vehicle motion prediction via latent semantic sampling,” in arXiv preprint arXiv:1911.12736, 2019.
+E-Print, BibTeX
+S. G. McGill, G. Rosman, T. Ort, A. Pierson, I. Gilitschenski, B. Araki, L. Fletcher, S. Karaman, D. Rus, and J. J. Leonard, “Probabilistic Risk Metrics for Navigating Occluded Intersections,” IEEE Robotics and Automation Letters, vol. 4, no. 4, pp. 4322–4329, 2019.
+E-Print, BibTeX
+S. Pillai and J. Leonard, “Self-Supervised Visual Place Recognition Learning in Mobile Robots,” in arXiv preprint arXiv:1905.04453, 2019.
+E-Print, BibTeX
+D. M. Rosen, L. Carlone, A. S. Bandeira, and J. J. Leonard, “SE-Sync: A certifiably correct algorithm for synchronization over the special Euclidean group,” The International Journal of Robotics Research, vol. 38, no. 2-3, pp. 95–125, 2019.
+E-Print, BibTeX
+P. N. V. Teixeira, D. Fourie, M. Kaess, and J. J. Leonard, “Dense, Sonar-Based Reconstruction of Underwater Scenes,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2019, pp. 8060–8066.
+E-Print, BibTeX
+K. Woerner, M. R. Benjamin, M. Novitzky, and J. J. Leonard, “Quantifying protocol evaluation for autonomous collision avoidance,” Autonomous Robots, vol. 43, no. 4, pp. 967–991, 2019.
+E-Print, BibTeX
+2018
+J. Straub, O. Freifeld, G. Rosman, J. J. Leonard, and J. W. F. III, “The Manhattan Frame Model: Manhattan World Inference in the Space of Surface Normals,” IEEE Trans. Pattern Anal. Machine Intell., vol. 40, no. 1, pp. 235–249, Jan. 2018.
+E-Print, BibTeX
+G. Huang, K. Eckenhoff, and J. Leonard, “Optimal-state-constraint EKF for visual-inertial navigation,” 2018, pp. 125–139.
+BibTeX
+L. Paull, M. Seto, J. J. Leonard, and H. Li, “Probabilistic cooperative mobile robot area coverage and its application to autonomous seabed mapping,” in Intl. J. of Robotics Research, 2018, vol. 37, no. 1, pp. 21–45.
+E-Print, BibTeX
+L. Paull, M. Seto, S. Saeedi, and J. J. Leonard, “Navigation for Underwater Vehicles,” in Encyclopedia of Robotics, Berlin, Heidelberg: Springer Berlin Heidelberg, 2018, pp. 1–15.
+Web link, DOI, BibTeX
+T. P. Setterfield, D. W. Miller, J. J. Leonard, and A. Saenz-Otero, “Mapping and determining the center of mass of a rotating object using a moving observer,” The International Journal of Robotics Research, vol. 37, no. 1, pp. 83–103, 2018.
+E-Print, BibTeX
+T. P. Setterfield, D. W. Miller, A. Saenz-Otero, E. Frazzoli, and J. J. Leonard, “Inertial Properties Estimation of a Passive On-orbit Object Using Polhode Analysis,” in Journal of Guidance, Control, and Dynamics, 2018, vol. 41, no. 10, pp. 2214–2231.
+E-Print, BibTeX
+P. V. Teixeira, M. Kaess, F. S. Hover, and J. J. Leonard, “Multibeam Data Processing for Underwater Mapping,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2018, pp. 1877–1884.
+E-Print, BibTeX
+2017
+D. Fourie, S. D. Claassens, S. Pillai, R. Mata, and J. J. Leonard, “Centralized graph databases for mobile Robotics,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Singapore, 2017, pp. 6331–6337.
+E-Print, BibTeX
+F. Naser, D. Dorhout, S. Proulx, S. Pendleton, H. Andersen, W. Schwarting, J. Alonso-Mora, L. Paull, S. Karaman, R. Tedrake, J. Leonard, and D. Rus, “A Parallel Autonomy Research Platform.” IEEE, pp. 933–940, June 2017.
+E-Print, BibTeX
+L. Paull, J. Tani, H. Ahn, J. Alonso-Mora, L. Carlone, M. Cap, Y. F. Chen, C. Choi, J. Dusek, Y. Fang, D. Hoehener, S.-Y. Liu, M. Novitzky, I. F. Okuyama, J. Pazis, G. Rosman, V. Varricchio, H.-C. Wang, D. Yershov, H. Zhao, M. Benjamin, C. Carr, M. Zuber, S. Karaman, E. Frazzoli, D. D. Vecchio, D. Rus, J. How, J. Leonard, and A. Censi, “Duckietown: an Open, Inexpensive and Flexible Platform for Autonomy Education and Research,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2017.
+BibTeX
+Y. Latif, G. Huang, J. J. Leonard, and J. A. Neira, “Sparse optimization for robust and efficient loop closing,” Robotics and Autonomous Systems, vol. 93, pp. 13–26, 2017.
+BibTeX
+Y. Latif, G. Huang, J. Leonard, and J. Neira, “Sparse optimization for robust and efficient loop closing,” in Robotics and Autonomous Systems, 2017, vol. 93, pp. 13–26.
+E-Print, BibTeX
+B. Mu, L. Paull, A. Agha-mohammadi, J. Leonard, and J. How, “Two-Stage Focused Inference for Resource-Constrained Minimal Collision Navigation,” IEEE Trans. Robotics, vol. 33, no. 1, pp. 124–140, 2017.
+E-Print, BibTeX
+L. Paull, J. Tani, H. Ahn, J. Alonso-Mora, L. Carlone, M. Cap, Y. F. Chen, C. Choi, J. Dusek, Y. Fang, D. Hoehener, S.-Y. Liu, M. Novitzky, I. F. Okuyama, J. Pazis, G. Rosman, V. Varricchio, H.-C. Wang, D. Yershov, H. Zhao, M. Benjamin, C. Carr, M. Zuber, S. Karaman, E. Frazzoli, D. D. Vecchio, D. Rus, J. How, J. Leonard, and A. Censi, “Duckietown: an open, inexpensive and flexible platform for autonomy education and research,” 2017, pp. 1497–1504.
+E-Print, BibTeX
+S. Pillai and J. Leonard, “Towards Visual Ego-motion Learning in Robots,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2017, pp. 5533–5540.
+E-Print, BibTeX
+S. Pillai and J. Leonard, “Self-Supervised Place Recognition in Mobile Robots,” in IROS 2017 Learning for Localization and Mapping Workshop, 2017.
+BibTeX
+T. P. Setterfield, D. Miller, A. Saenz-Otero, and J. J. Leonard, “Smoothing-Based Estimation of an Inspector Satellite Trajectory Relative to a Passive Object,” in IEEE Aerospace, 2017, pp. 1–11.
+E-Print, BibTeX
+J. Straub, R. Cabezas, J. Leonard, and J. W. F. III, “Direction-aware semi-dense SLAM,” in arXiv preprint arXiv:1709.05774, 2017.
+E-Print, BibTeX
+K. Woerner, M. Novitzky, M. R. Benjamin, and J. J. Leonard, “Legibility and predictability of protocol-constrained motion: Evaluating human-robot ship interactions under COLREGS collision avoidance requirements,” in Robotics Science and Systems, 2017.
+E-Print, BibTeX
+2016
+D. Fourie, J. J. Leonard, and M. Kaess, “A Nonparametric Belief Solution to the Bayes Tree,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems, IROS, Daejeon, Korea, 2016, pp. 2189–2196.
+E-Print, BibTeX
+L. Paull and G. H. J. J. Leonard, “A Unified Resource-Constrained Framework for Graph SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2016, pp. 1346–1353.
+E-Print, BibTeX
+D. Rosen, J. Mason, and J. J. Leonard, “Towards Lifelong Feature-Based Mapping in Semi-Static Environments,” in International Conference on Robotics and Automation (ICRA), 2016, pp. 1063–1070.
+E-Print, BibTeX
+A. Anderson, E. Fischell, T. Howe, T. Miller, A. Parrales-Salinas, N. Rypkema, D. Barrett, M. Benjamin, A. Brennen, M. DeFillipo, J. J. Leonard, L. Paull, H. Schmidt, N. Wang, and A. Yaari, “An Overview of MIT-Olin’s Approach in the AUVSI RobotX Competition,” 2016, pp. 61–80.
+E-Print, BibTeX
+C. Cadena, L. Carlone, H. Carrillo, Y. Latif, D. Scaramuzza, J. Neira, I. Reid, and J. J. Leonard, “Past, present, and future of simultaneous localization and mapping: Toward the robust-perception age,” in IEEE Transactions on robotics, 2016, vol. 32, no. 6, pp. 1309–1332.
+E-Print, BibTeX
+C. D. C. Lerma, L. Carlone, H. Carrillo, Y. Latif, D. Scaramuzza, J. Neira, I. Reid, and J. Leonard, “Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age,” IEEE Trans. Robotics, 2016.
+BibTeX
+G. Huang, K. Eckenhoff, and J. Leonard, “Optimal-State-Constraint EKF for Visual-Inertial Navigation,” in Proceedings of the Second International Symposium of Robotics Research, 2016.
+BibTeX
+J. J. Leonard and A. Bahr, “Autonomous Underwater Vehicle Navigation,” in Springer Handbook of Ocean Engineering, M. R. Dhanak and N. I. Xiros, Eds. Springer, 2016, pp. 341–358.
+E-Print, BibTeX
+S. Lowry, N. Sünderhauf, P. Newman, J. J. Leonard, D. Cox, P. Corke, and M. J. Milford, “Visual place recognition: A survey,” in IEEE Trans. Robotics, 2016, vol. 32, no. 1, pp. 1–19.
+E-Print, BibTeX
+B. Mu, M. Giamou, L. Paull, A.-akbar Agha-mohammadi, J. J. Leonard, and J. P. How, “Information-based Active SLAM via Topological Feature Graphs,” in 55th IEEE Int. Conference on Decision and Control, 2016, pp. 5583–5590.
+E-Print, BibTeX
+B. Mu, S.-Y. Liu, L. Paull, J. Leonard, and J. How, “SLAM with Objects using a Nonparametric Pose Graph,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2016, pp. 4602–4609.
+E-Print, BibTeX
+S. Pillai, S. Ramalingam, and J. J. Leonard, “High-Performance and Tunable Stereo Reconstruction,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2016, pp. 3188–3195.
+E-Print, BibTeX
+D. M. Rosen, L. Carlone, A. S. Bandeira, and J. J. Leonard, “A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group,” in Intl. Workshop on the Algorithmic Foundations of Robotics, WAFR, 2016.
+BibTeX
+C. Stachniss, J. J. Leonard, and S. Thrun, “Simultaneous Localization and Mapping,” in Springer Handbook of Robotics, Second Edition, B. Siciliano and O. Khatib, Eds. Springer, 2016, pp. 1153–1176.
+E-Print, BibTeX
+J. Tani, L. Paull, M. T. Zuber, D. Rus, J. How, J. Leonard, and A. Censi, “Duckietown: an innovative way to teach autonomy,” in International Conference EduRobotics 2016, 2016, pp. 104–121.
+E-Print, BibTeX
+P. V. Teixeira, M. Kaess, F. S. Hover, and J. J. Leonard, “Underwater Inspection using Sonar-based Volumetric Submaps,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2016, pp. 4288–4295.
+E-Print, BibTeX
+K. L. Woerner, M. R. Benjamin, M. Novitzky, and J. J. Leonard, “Collision avoidance road test for COLREGS-constrained autonomous vehicles,” in OCEANS 2016 MTS/IEEE Monterey, 2016, pp. 1–6.
+E-Print, BibTeX
+2015
+L. Carlone, D. M. Rosen, G. C. Calafiore, J. J. Leonard, and F. Dellaert, “Lagrangian Duality in 3D SLAM: Verification Techniques and Optimal Solutions,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Hamburg, Germany, 2015.
+E-Print, BibTeX
+J. Straub, B. Nishchal, J. Leonard, and J. W. F. III, “Real-Time Manhattan World Rotation Estimation in 3D,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Hamburg, Germany, 2015, pp. 1913–1920.
+E-Print, BibTeX
+H. Wang, C. Finn, L. Paull, M. Kaess, R. Rosenholtz, S. Teller, and J. Leonard, “Bridging Text Spotting and SLAM with Junction Features,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Hamburg, Germany, 2015.
+E-Print, BibTeX
+B. Mu, A.-akbar Agha-mohammadi, L. Paull, M. Graham, J. How, and J. Leonard, “Two-Stage Focused Inference for Resource-Constrained Collision-Free Navigation,” in Proceedings of Robotics: Science and Systems, Rome, Italy, 2015.
+BibTeX
+S. Pillai and J. J. Leonard, “Monocular SLAM Supported Object Recognition,” in Robotics: Science and Systems (RSS), 2015.
+BibTeX
+R. Finman, L. Paull, and J. J. Leonard, “Toward Object-based Place Recognition in Dense RGB-D Maps,” in ICRA workshop on visual place recognition in changing environments, 2015.
+BibTeX
+L. Paull, G. Huang, M. Seto, and J. J. Leonard, “Communication-Constrained Multi-AUV Cooperative SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015.
+BibTeX
+D. Rosen, C. DuHadway, and J. J. Leonard, “A Convex Relaxation for Approximate Global Optimization in Simultaneous Localization and Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015, pp. 5822–5829.
+E-Print, BibTeX
+T. Steiner, G. Huang, and J. J. Leonard, “Location Utility-based Map Reduction,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015, pp. 479–486.
+E-Print, BibTeX
+P. Corcoran, T. J. Steiner, M. Bertolotto, and J. J. Leonard, “Appearance-based SLAM in a Network Space,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2015, pp. 5791–5798.
+E-Print, BibTeX
+R. Finman, L. Paull, and J. J. Leonard, “Toward object-based place recognition in dense rgb-d maps,” in ICRA Workshop Visual Place Recognition in Changing Environments, Seattle, WA, 2015, vol. 76.
+E-Print, BibTeX
+G. Huang, M. Kaess, and J. J. Leonard, “Consistent Unscented Incremental Smoothing for Multi-robot Cooperative Target Tracking,” Robotics and Autonomous Systems, vol. 69, pp. 52–67, 2015.
+BibTeX
+G. Huang, M. Kaess, and J. J. Leonard, “Consistent unscented incremental smoothing for multi-robot cooperative target tracking,” in Robotics and autonomous systems, 2015, vol. 69, pp. 52–67.
+E-Print, BibTeX
+B. Mu, A.-akbar Agha-mohammadi, L. Paull, M. Graham, J. How, and J. Leonard, “Two-stage focused inference for resource-constrained collision-free navigation,” 2015.
+E-Print, BibTeX
+D. Nams, M. L. Seto, and J. J. Leonard, “On-line adaptation of underwater acoustic transmission rates to optimize communications for collaborative AUV missions,” 2015, pp. 1–8.
+BibTeX
+L. Paull, G. Huang, M. Seto, and J. J. Leonard, “Communication-constrained multi-AUV cooperative SLAM,” 2015, pp. 509–516.
+E-Print, BibTeX
+S. Pillai and J. Leonard, “Monocular slam supported object recognition,” in arXiv preprint arXiv:1506.01732, 2015.
+E-Print, BibTeX
+M. Salvato, R. Finman, and J. Leonard, “Multi-Volume High Resolution RGB-D Mapping with Dynamic Volume Placement,” in arXiv preprint arXiv:1511.07106, 2015.
+E-Print, BibTeX
+B. E. Tweddle, A. Saenz‐Otero, J. J. Leonard, and D. W. Miller, “Factor Graph Modeling of Rigid‐body Dynamics for Localization, Mapping, and Parameter Estimation of a Spinning Object in Space,” in Journal of Field Robotics, 2015, vol. 32, no. 6, pp. 897–933.
+BibTeX
+M. VanMiddlesworth, M. Kaess, F. Hover, and J. J. Leonard, “Mapping 3D underwater environments with smoothed submaps,” 2015, pp. 17–30.
+E-Print, BibTeX
+T. Whelan, M. Kaess, H. Johannsson, M. Fallon, J. J. Leonard, and J. McDonald, “Real-time large scale dense RGB-D SLAM with volumetric fusion,” Intl. J. of Robotics Research, vol. 34, no. 4-5, pp. 598–626, 2015.
+E-Print, BibTeX
+K.-T. Yu, J. Leonard, and A. Rodriguez, “Shape and pose recovery from planar pushing,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2015, pp. 1208–1215.
+E-Print, BibTeX
+2014
+D. M. Rosen, M. Kaess, and J. J. Leonard, “RISE: An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation,” IEEE Trans. Robotics, vol. 30, no. 5, pp. 1091–1108, Oct. 2014.
+E-Print, DOI, BibTeX
+Y. Latif, G. Huang, J. Leonard, and J. Neira, “An Online Sparsity-Cognizant Loop-Closure Algorithm for Visual Navigation,” in Robotics: Science and Systems (RSS), Berkeley, CA, 2014.
+E-Print, BibTeX
+R. Finman, T. Whelan, M. Kaess, and J. J. Leonard, “Efficient Incremental Map Segmentation in Dense RGB-D Maps,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2014, pp. 5488–5494.
+E-Print, BibTeX
+R. Finman, T. Whelan, L. Paull, and J. J. Leonard, “Physical Words for Place Recognition in Dense RGB-D Maps,” in ICRA workshop on visual place recognition in changing environments, 2014.
+E-Print, BibTeX
+G. Huang, M. Kaess, and J. J. Leonard, “Towards consistent visual-inertial navigation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2014, pp. 4926–4933.
+E-Print, BibTeX
+J. Straub, G. Rosman, O. Freifed, J. J. Leonard, and J. W. Fisher, “A Mixture of Manhattan Frames: Beyond the Manhattan World,” in Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on, Portland, OR, 2014, pp. 3770–3777.
+E-Print, BibTeX
+P. Corcoran, M. Bertolotto, and J. Leonard, “Cognitively adequate topological robot localization and mapping,” 2014, pp. 17–24.
+BibTeX
+J. W. Kaeli, J. J. Leonard, and H. Singh, “Visual summaries for low-bandwidth semantic mapping with autonomous underwater vehicles,” 2014, pp. 1–7.
+E-Print, BibTeX
+J. C. Leedekerken, M. F. Fallon, and J. J. Leonard, “Mapping complex marine environments with autonomous surface craft,” 2014, pp. 525–539.
+E-Print, BibTeX
+L. Paull, M. Seto, and J. J. Leonard, “Decentralized Cooperative Trajectory Estimation for Autonomous Underwater Vehicles,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2014, pp. 184–191.
+E-Print, BibTeX
+D. M. Rosen, G. Huang, and J. J. Leonard, “Inference over heterogeneous finite-/infinite-dimensional systems using factor graphs and Gaussian processes,” 2014, pp. 1261–1268.
+E-Print, BibTeX
+B. Tweddle, T. P. Setterfield, A. Saenz-Otero, D. W. Miller, and J. Leonard., “Experimental Evaluation of On-board, Visual Mapping of an Object Spinning in Micro-Gravity aboard the International Space Station,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2014, pp. 2333–2340.
+BibTeX
+B. Tweddle, A. Saenz-Otero, D. W. Miller, and J. Leonard., “Factor Graph Modeling of Rigid-Body Dynamics for Localization, Mapping and Parameter Estimation of a Spinning Object in Space,” J. of Field Robotics, vol. 32, no. 6, pp. 897–933, 2014.
+BibTeX
+H. Wei, W. Lu, P. Zhu, G. Huang, J. Leonard, and S. Ferrari, “Visibility-based motion planning for active target tracking and localization,” in Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2014, pp. 76–82.
+E-Print, BibTeX
+T. Whelan, M. Kaess, R. Finman, M. Fallon, H. Johannsson, J. J. Leonard, and J. McDonald, “3D mapping, localisation and object retrieval using low cost robotic platforms: A robotic search engine for the real-world,” RSS Workshop, 2014.
+E-Print, BibTeX
+S. Williams, V. Indelman, M. Kaess, J. J. L. R. Roberts, and F. Dellaert, “Concurrent filtering and smoothing: A parallel architecture for real-time navigation and full smoothing,” Intl. J. of Robotics Research, vol. 33, no. 12, pp. 1544–1568, 2014.
+E-Print, BibTeX
+2013
+M. VanMiddlesworth, M. Kaess, F. S. Hover, and J. J. Leonard, “Mapping 3D Underwater Environments with Smoothed Submaps,” in Field and Service Robotics, Brisbane, Australia, 2013.
+BibTeX
+T. Whelan, M. Kaess, J. J. Leonard, and J. B. McDonald, “Deformation-based Loop Closure for Large Scale Dense RGB-D SLAM,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Tokyo, Japan, 2013, pp. 548–555.
+E-Print, BibTeX
+J. McDonald, M. Kaess, C. Cadena, J. Neira, and J. J. Leonard, “Real-time 6-DOF Multi-session Visual SLAM over Large Scale Environments,” J. of Robotics and Autonomous Systems, vol. 61, no. 10, pp. 1144–1158, Oct. 2013.
+E-Print, BibTeX
+R. Finman, T. Whelan, M. Kaess, and J. Leonard, “Toward Lifelong Object Segmentation from Change Detection in Dense RGB-D Maps,” in European Conference on Mobile Robotics, Barcelona, Spain, 2013.
+E-Print, BibTeX
+G. Huang, R. Truax, M. Kaess, and J. J. Leonard, “Unscented iSAM: A Consistent Incremental Solution to Cooperative Localization and Target Tracking,” in Proc. of European Conference on Mobile Robots (ECMR), Barcelona, Spain, 2013, pp. 248–254.
+E-Print, BibTeX
+G. Huang, M. Kaess, and J. J. Leonard, “Consistent Sparsification for Graph Optimization,” in Proc. of European Conference on Mobile Robots (ECMR), Barcelona, Spain, 2013, pp. 150–157.
+E-Print, BibTeX
+G. Huang, M. Kaess, J. Leonard, and S. Roumeliotis, “Analytically-Selected Multi- Hypothesis Incremental MAP Estimation,” in International Conference on Acoustics, Speech, and Signal Processing, British Columbia, Canada, 2013, pp. 6481–6485.
+E-Print, BibTeX
+H. Johannsson, M. Kaess, M. F. Fallon, and J. J. Leonard, “Temporally Scalable Visual SLAM using a Reduced Pose Graph,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Karlsruhe, Germany, 2013, pp. 54–61.
+E-Print, BibTeX
+D. M. Rosen, M. Kaess, and J. J. Leonard, “Robust Incremental Online Inference Over Sparse Factor Graphs: Beyond the Gaussian Case,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Karlsruhe, Germany, 2013, pp. 1025–1032.
+E-Print, BibTeX
+T. Whelan, H. Johannsson, M. Kaess, J. J. Leonard, and J. B. McDonald, “Robust Real-Time Visual Odometry for Dense RGB-D Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Karlsruhe, Germany, 2013, pp. 5724–5731.
+E-Print, BibTeX
+M. R. Benjamin, H. Schmidt, P. M. Newman, and J. J. Leonard, “Autonomy for unmanned marine vehicles with MOOS-IvP,” 2013, pp. 47–90.
+BibTeX
+M. F. Fallon, H. Johannsson, M. Kaess, J. Folkesson, H. McClelland, B. J. Englot, F. S. Hover, and J. J. Leonard, “Simultaneous Localization and Mapping in Marine Environments,” in Marine Robot Autonomy, M. Seto, Ed. Springer, 2013.
+BibTeX
+M. F. Fallon, J. Folkesson, H. McClelland, and J. J. Leonard, “Relocating Underwater Features Autonomously Using Sonar-Based SLAM,” in IEEE Journal of Oceanic Engineering, 2013, vol. 38, no. 3, pp. 500–513.
+E-Print, BibTeX
+M. Fallon, H. Johannsson, M. Kaess, and J. J. Leonard, “The MIT Stata Center Dataset,” in Intl. J. of Robotics Research, 2013, vol. 32, no. 14, pp. 1695–1699.
+E-Print, BibTeX
+M. F. Fallon, H. Johannsson, M. Kaess, J. Folkesson, H. McClelland, B. J. Englot, F. S. Hover, and J. J. Leonard, “Simultaneous localization and mapping in marine environments,” 2013, pp. 329–372.
+E-Print, BibTeX
+D. M. Rosen and J. J. Leonard, “Nonparametric density estimation for learning noise distributions in mobile robotics,” in 1st Workshop on Robust and Multimodal Inference in Factor Graphs, ICRA, 2013.
+E-Print, BibTeX
+2012
+F. S. Hover, R. M. Eustice, A. Kim, B. J. Englot, H. Johannsson, M. Kaess, and J. J. Leonard, “Advanced Perception, Navigation and Planning for Autonomous In-Water Ship Hull Inspection,” Intl. J. of Robotics Research, vol. 31, no. 12, pp. 1445–1464, Oct. 2012.
+E-Print, BibTeX
+A. Walcott-Bryant, M. Kaess, H. Johannsson, and J. J. Leonard, “Dynamic Pose Graph SLAM: Long-term Mapping in Low Dynamic Environments,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Vilamoura, Portugal, 2012.
+BibTeX
+H. Johannsson, M. Kaess, M. F. Fallon, and J. J. Leonard, “Temporally Scalable Visual SLAM using a Reduced Pose Graph,” in RSS Workshop on Long-term Operation of Autonomous Robotic Systems in Changing Environments, Sydney, Australia, 2012, Available as MIT CSAIL Technical Report MIT-CSAIL-TR-2012-013.
+BibTeX
+M. Kaess, S. Williams, V. Indelman, R. Roberts, J. J. Leonard, and F. Dellaert, “Concurrent Filtering and Smoothing,” in Intl. Conf. on Information Fusion (FUSION), Singapore, 2012, pp. 1300–1307.
+E-Print, BibTeX
+T. Whelan, M. Kaess, M. F. Fallon, H. Johannsson, J. J. Leonard, and J. B. McDonald, “Kintinuous: Spatially Extended KinectFusion,” in RSS Workshop on RGB-D: Advanced Reasoning with Depth Cameras, Sydney, Australia, 2012.
+E-Print, BibTeX
+M. F. Fallon, H. Johannsson, and J. J. Leonard, “Efficient Scene Simulation for Robust Monte Carlo Localization using an RGB-D Camera,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2012, pp. 1663–1670.
+E-Print, BibTeX
+D. M. Rosen, M. Kaess, and J. J. Leonard, “An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), St. Paul, MN, 2012, pp. 1262–1269.
+E-Print, BibTeX
+M. Kaess, H. Johannsson, R. Roberts, V. Ila, J. J. Leonard, and F. Dellaert, “iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree,” Intl. J. of Robotics Research, vol. 31, no. 2, pp. 216–235, Feb. 2012.
+E-Print, BibTeX
+A. Bahr, J. J. Leonard, and A. Martinoli, “Dynamic Positioning of Beacon Vehicles for Coop- erative Underwater Navigation,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Algarve, Portugal, 2012, pp. 3760–3767.
+E-Print, BibTeX
+A. Walcott-Bryant, M. Kaess, H. Johannsson, and J. J. Leonard, “Dynamic pose graph SLAM: Long-term mapping in low dynamic environments,” 2012, pp. 1871–1878.
+E-Print, BibTeX
+M. F. Fallon, H. Johannsson, J. Brookshire, S. Teller, and J. J. Leonard, “Sensor fusion for flexible human-portable building-scale mapping,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2012, pp. 4405–4412.
+E-Print, BibTeX
+M. F. Fallon, H. Johannsson, M. Kaess, D. M. Rosen, E. Muggler, and J. J. Leonard, “Mapping the MIT stata center: Large-scale integrated visual and RGB-D SLAM,” in RSS Workshop on RGB-D: Advanced Reasoning with Depth Cameras, 2012.
+E-Print, BibTeX
+2011
+J. McDonald, M. Kaess, C. Cadena, J. Neira, and J. J. Leonard, “6-DOF Multi-session Visual SLAM using Anchor Nodes,” in European Conf. on Mobile Robotics (ECMR), Orbero, Sweden, 2011, pp. 69–76.
+E-Print, BibTeX
+C. Cadena, J. McDonald, J. Leonard, and J. Neira, “Place Recognition using Near and Far Visual Information,” in Proceedings of the 18th IFAC World Congress, 2011, vol. 18, no. 1, pp. 6822–6828.
+BibTeX
+M. F. Fallon, M. Kaess, H. Johannsson, and J. J. Leonard, “Efficient AUV navigation fusing acoustic ranging and side-scan sonar,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2011, pp. 2398–2405.
+E-Print, BibTeX
+M. Kaess, H. Johannsson, R. Roberts, V. Ila, J. J. Leonard, and F. Dellaert, “iSAM2: Incremental Smoothing and Mapping with Fluid Relinearization and Incremental Variable Reordering,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Shanghai, China, 2011, pp. 3281–3288.
+E-Print, BibTeX
+R. Truax, R. Platt, and J. Leonard, “Identifying Object Pose and Parameters from 3D Laser Point Clouds,” in Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), Shanghai, China, 2011.
+BibTeX
+J. Folkesson and J. Leonard, “Autonomy through SLAM for an Underwater Robot,” Robotics Research, pp. 55–70, 2011.
+E-Print, BibTeX
+R. Truax, R. Platt, and J. Leonard, “Using prioritized relaxations to locate objects in points clouds for manipulation,” 2011, pp. 2091–2097.
+E-Print, BibTeX
+2010
+J. C. Leedekerken, M. F. Fallon, and J. J. Leonard, “Mapping Complex Marine Environments with Autonomous Surface Craft,” in Intl. Sym. on Experimental Robotics (ISER), Delhi, India, 2010.
+BibTeX
+M. Benjamin, H. Schmidt, P. Newman, and J. J. Leonard, “Nested Autonomy for Unmanned Marine Vehicles with MOOS-IvP,” J. of Field Robotics, vol. 27, no. 6, pp. 834–875, Nov. 2010.
+E-Print, BibTeX
+A. S. Huang, M. Antone, E. Olson, L. Fletcher, D. Moore, S. Teller, and J. Leonard, “A High-rate, Heterogeneous Data Set From The DARPA Urban Challenge,” Intl. J. of Robotics Research, vol. 29, pp. 1595–1601, Nov. 2010.
+BibTeX
+M. F. Fallon, G. Papadopoulos, J. J. Leonard, and N. M. Patrikalakis, “Cooperative AUV Navigation using a Single Maneuvering Surface Craft,” Intl. J. of Robotics Research, vol. 29, no. 12, pp. 1461–1474, Oct. 2010.
+E-Print, DOI, BibTeX
+H. Johannsson, M. Kaess, B. Englot, F. Hover, and J. J. Leonard, “Imaging Sonar-Aided Navigation for Autonomous Underwater Harbor Surveillance,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Taipei, Taiwan, 2010, pp. 4396–4403.
+E-Print, BibTeX
+G. Papadopoulos, M. F. Fallon, J. J. Leonard, and N. M. Patrikalakis, “Cooperative localization of marine vehicles using nonlinear state estimation,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Taipei, Taiwan, 2010, pp. 4874–4879.
+E-Print, BibTeX
+M. F. Fallon, G. Papadopoulos, and J. J. Leonard, “A Measurement Distribution Framework for Cooperative Navigation using multiple AUVs,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2010, pp. 4803–4808.
+E-Print, BibTeX
+M. Kaess, H. Johannsson, B. Englot, F. Hover, and J. J. Leonard, “Towards Autonomous Ship Hull Inspection using the Bluefin HAUV,” in Symposium on Technology and the Mine Problem, Naval Postgraduate School, Monterey, CA, 2010.
+E-Print, BibTeX
+B. Kim, M. Kaess, L. Fletcher, J. J. Leonard, A. Bachrach, N. Roy, and S. Teller, “Multiple Relative Pose Graphs for Robust Cooperative Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Anchorage, Alaska, 2010, pp. 3185–3192.
+E-Print, BibTeX
+M. F. Fallon, G. Papadopoulos, and J. J. Leonard, “Cooperative AUV navigation using a single surface craft,” 2010, pp. 331–340.
+E-Print, BibTeX
+A. S. Huang, M. Antone, E. Olson, L. Fletcher, D. Moore, S. Teller, and J. Leonard, “A high-rate, heterogeneous data set from the DARPA urban challenge,” in The International Journal of Robotics Research, 2010, vol. 29, no. 13, pp. 1595–1601.
+E-Print, BibTeX
+2009
+M. F. Fallon, G. Papadopoulos, and J. J. Leonard, “Cooperative AUV Navigation using a Single Surface Craft,” in Field and Service Robotics, 2009.
+BibTeX
+A. Bahr, M. Walter, and J. J. Leonard, “Consistent cooperative localization,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2009, pp. 3415–3422.
+E-Print, BibTeX
+A. Bahr, J. J. Leonard, and M. F. Fallon, “Cooperative Localization for Autonomous Underwater Vehicles,” Intl. J. of Robotics Research, vol. 28, no. 6, pp. 714–728, 2009.
+E-Print, BibTeX
+J. Leonard, J. How, S. Teller, M. Berger, S. Campbell, G. Fiore, L. Fletcher, E. Frazzoli, A. Huang, S. Karaman, O. Koch, Y. Kuwata, D. Moore, E. Olson, S. Peters, J. Teo, R. Truax, M. Walter, D. Barrett, A. Epstein, K. Maheloni, K. Moyer, T. Jones, R. Buckley, M. Antone, R. Galejs, S. Krishnamurthy, and J. Williams, “A perception-driven autonomous urban vehicle,” 2009, pp. 163–230.
+E-Print, BibTeX
+D. C. Moore, A. S. Huang, M. Walter, E. Olson, L. Fletcher, J. Leonard, and S. Teller, “Simultaneous Local and Global State Estimation for Robotic Navigation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2009, pp. 3794–3799.
+E-Print, BibTeX
+2008
+M. Walter, F. Hover, and J. Leonard, “SLAM for ship hull inspection using exactly sparse extended information filters,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2008, pp. 1463–1470.
+BibTeX
+A. Bahr and J. J. Leonard, “Cooperative Localization for Autonomous Underwater Vehicles,” in Experimental Robotics, Rio de Janeiro, Brasil, 2008, pp. 387–395.
+BibTeX
+C. Detweiler, J. Leonard, D. Rus, and S. Teller, “Passive mobile robot localization within a fixed beacon field,” Algorithmic Foundation of Robotics VII, pp. 425–440, 2008.
+BibTeX
+L. Fletcher, S. Teller, E. Olson, D. Moore, Y. Kuwata, J. How, J. Leonard, I. Miller, M. Campbell, D. Huttenlocher, and others, “The MIT–Cornell collision and why it happened,” Journal of Field Robotics, vol. 25, no. 10, pp. 775–807, 2008.
+E-Print, BibTeX
+J. Folkesson, J. Leederkerken, R. Williams, A. Patrikalakis, and J. Leonard, “A feature based navigation system for an autonomous underwater robot,” in Field and Service Robotics, 2008, vol. 42, pp. 105–114.
+E-Print, BibTeX
+J. Holmberg, J. Leonard, D. King, and M. Cotting, “Flying qualities specifications and design standards for unmanned air vehicles,” 2008, p. 6555.
+BibTeX
+J. C. Leedekerken, R. Williams, and J. Leonard, “Short-Baseline Acoustic Tracking with Autonomous Surface Vehicles,” in IFAC Proceedings Volumes, 2008, vol. 41, no. 1, pp. 218–223.
+E-Print, BibTeX
+J. Leonard, J. How, S. Teller, M. Berger, S. Campbell, G. Fiore, L. Fletcher, E. Frazzoli, A. Huang, S. Karaman, and others, “A perception-driven autonomous urban vehicle,” J. of Field Robotics, vol. 25, no. 10, pp. 727–774, 2008.
+DOI, BibTeX
+A. J. Shafer, M. R. Benjamin, J. J. Leonard, and J. Curcio, “Autonomous cooperation of heterogeneous platforms for sea-based search tasks,” in OCEANS 2008, 2008, pp. 1–10.
+E-Print, BibTeX
+S. Thrun and J. J. Leonard, “Simultaneous Localization and Mapping,” in Springer Handbook of Robotics, B. Siciliano and O. Khatib, Eds. Springer, 2008.
+BibTeX
+2007
+J. Folkesson, J. Leedekerken, R. Williams, and J. Leonard, “Feature Tracking for Underwater Navigation using Sonar,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), San Diego, CA, 2007, pp. 3678–3684.
+E-Print, BibTeX
+E. Olson, J. Leonard, and S. Teller, “Spatially-Adaptive Learning Rates for Online Incremental SLAM,” in Robotics: Science and Systems (RSS), 2007.
+E-Print, BibTeX
+A. Bahr and J. J. Leonard, “Minimizing Trilateration Errors in the Presence of Noisy Landmarks,” in European Conference on Mobile Robots, 2007, pp. 48–53.
+E-Print, BibTeX
+N. Roy, J. Leonard, U.-M. O’Reilly, D. Rus, and S. Teller, “The Experience of Teaching Software Development in a Robotics Project Course,” in Proc. 3rd Int’l CDIO Conf., Cambridge, Mass, 2007.
+E-Print, BibTeX
+M. R. Walter, R. M. Eustice, and J. J. Leonard, “Exactly sparse extended information filters for feature-based SLAM,” Intl. J. of Robotics Research, vol. 26, no. 4, pp. 335–359, 2007.
+BibTeX
+M. Walter, R. Eustice, and J. Leonard, “A provably consistent method for imposing sparsity in feature-based SLAM information filters,” 2007, pp. 214–234.
+E-Print, BibTeX
+M. R. Walter, R. M. Eustice, and J. J. Leonard, “Exactly sparse extended information filters for feature-based SLAM,” in The International Journal of Robotics Research, 2007, vol. 26, no. 4, pp. 335–359.
+E-Print, BibTeX
+2006
+R. M. Eustice, H. Singh, J. J. Leonard, and M. R. Walter, “Visually Mapping the RMS Titanic: Conservative Covariance Estimates for SLAM Information Filters,” Intl. J. of Robotics Research, vol. 25, no. 12, pp. 1223–1242, Dec. 2006.
+E-Print, BibTeX
+R. M. Eustice, H. Singh, and J. J. Leonard, “Exactly Sparse Delayed-State Filters for View-Based SLAM,” IEEE Trans. Robotics, vol. 22, no. 6, pp. 1100–1114, Dec. 2006.
+E-Print, DOI, BibTeX
+E. Olson, J. J. Leonard, and S. Teller, “Robust Range-Only Beacon Localization,” IEEE Journal of Oceanic Engineering, vol. 31, no. 4, pp. 949–958, Oct. 2006.
+E-Print, BibTeX
+E. Olson, J. Leonard, and S. Teller, “Fast Iterative Alignment of Pose Graphs with Poor Initial Estimates,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2006, pp. 2262–2269.
+E-Print, BibTeX
+M. R. Benjamin, J. A. Curcio, J. J. Leonard, and P. M. Newman, “Navigation of unmanned marine vehicles in accordance with the rules of the road,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2006, pp. 3581–3587.
+E-Print, BibTeX
+M. R. Benjamin, J. J. Leonard, J. A. Curcio, and P. M. Newman, “A method for protocol‐based collision avoidance between autonomous marine surface craft,” in Journal of Field Robotics, 2006, vol. 23, no. 5, pp. 333–346.
+E-Print, BibTeX
+D. Eickstedt, M. Benjamin, H. Schmidt, and J. Leonard, “Adaptive tracking of underwater targets with autonomous sensor networks,” in Journal of Underwater Acoustics, 2006, vol. 56, no. 2, pp. 465–495.
+E-Print, BibTeX
+D. P. Eickstedt, M. R. Benjamin, H. Schmidt, and J. J. Leonard, “Adaptive control of heterogeneous marine sensor platforms in an autonomous sensor network,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), 2006, pp. 5514–5521.
+E-Print, BibTeX
+J. C. Leedekerken, J. J. Leonard, M. C. Bosse, and A. Balasuriya, “Real-time Obstacle Avoidance and Mapping for AUVs Operating in Complex Environments,” Proceedings of the Seventh International Symposium on Technology and the Mine Problem: May 2-4, 2006, Naval Postgraduate School, vol. 1, p. 35, 2006.
+BibTeX
+J. C. Leedekerken, R. Williams, and J. J. Leonard, “Short-Baseline Acoustic Tracking with Autonomous Surface Vehicles,” in Proceedings of the 2008 IFAC Workshop Navigation, Guidance, and Control of Underwater Vehicles, Limerick, Ireland, 2006.
+BibTeX
+R. Rikoski, J. Leonard, P. Newman, and H. Schmidt, “Trajectory sonar perception in the ligurian sea,” Experimental Robotics IX, pp. 557–570, 2006.
+E-Print, BibTeX
+2005
+M. Walter, R. Eustice, and J. Leonard, “A Provably Consistent Method for Imposing Exact Sparsity in Feature-based SLAM Information Filters,” in Proceedings of the International Symposium of Robotics Research (ISRR), San Francisco, CA, 2005, pp. 214–234.
+BibTeX
+R. Eustice, H. Singh, J. Leonard, M. Walter, and R. Ballard, “Visually Navigating the RMS Titanic with SLAM Information Filters,” in Robotics: Science and Systems (RSS), 2005, pp. 57–64.
+E-Print, BibTeX
+E. Olson, M. Walter, S. Teller, and J. J. Leonard, “Single-Cluster Spectral Graph Partitioning for Robotics Applications,” in Proceedings of Robotics: Science and Systems, Cambridge, USA, 2005, pp. 265–272.
+E-Print, BibTeX
+J. Curcio, J. Leonard, and A. Patrikalakis, “SCOUT-a low cost autonomous surface platform for research in cooperative autonomy,” 2005, pp. 725–729.
+E-Print, BibTeX
+J. Curcio, J. Leonard, J. Vaganay, A. Patrikalakis, A. Bahr, D. Battle, H. Schmidt, and M. Grund, “Experiments in moving baseline navigation using autonomous surface craft,” 2005, pp. 730–735.
+E-Print, BibTeX
+M. Dragone, R. O’Donoghue, J. J. Leonard, G. O’Hare, B. Duffy, A. Patrikalakis, and J. Leederkerken, “Robot soccer anywhere: achieving persistent autonomous navigation, mapping, and object vision tracking in dynamic environments,” 2005, vol. 5827, pp. 255–264.
+E-Print, BibTeX
+R. Eustice, H. Singh, and J. Leonard, “Exactly Sparse Delayed State Filters,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Barcelona, Spain, 2005, pp. 2417–2424.
+E-Print, BibTeX
+R. Eustice, M. Walter, and J. Leonard, “Sparse extended information filters: Insights into sparsification,” in Intelligent Robots and Systems, 2005.(IROS 2005). 2005 IEEE/RSJ International Conference on, 2005, pp. 3281–3288.
+E-Print, BibTeX
+P. M. Newman, J. J. Leonard, and R. J. Rikoski, “Towards constant-time SLAM on an autonomous underwater vehicle using synthetic aperture sonar,” Robotics Research, pp. 409–420, 2005.
+BibTeX
+2004
+M. Walter and J. Leonard, “An Experimental Investigation of Cooperative SLAM,” in Proceedings of the Fifth IFAC Symposium on Intelligent Autonomous Vehicles, Lisbon, Portugal, 2004.
+BibTeX
+E. Olson, J. J. Leonard, and S. Teller, “Robust Range-only Beacon Localization,” in AUV 2004, 2004.
+BibTeX
+J. Vaganay, J. J. Leonard, J. A. Curcio, and J. S. Willcox, “Experimental Validation of the Moving Long Base Line Navigation Concept,” in Autonomous Underwater Vehicles, 2004 IEEE/OES, 2004, pp. 59–65.
+E-Print, BibTeX
+M. Bosse, P. Newman, J. Leonard, and S. Teller, “Simultaneous Localization and Map Building in Large-Scale Cyclic Environments Using the Atlas Framework,” in Intl. J. of Robotics Research, 2004, vol. 23, no. 12, pp. 1113–1139.
+E-Print, BibTeX
+D. Moore, J. Leonard, D. Rus, and S. Teller, “Robust distributed network localization with noisy range measurements,” in Proceedings of the 2nd international conference on Embedded networked sensor systems, 2004, pp. 50–61.
+E-Print, BibTeX
+H. Schmidt, J. Leonard, J. R. Edwards, and T. C. Liu, “Sub-seabed mapping using AUV-based multistatic acoustic sensing and adaptive control,” in International congress on the applications of recent advances in underwater detection and survey techniques to underwater archaeology, 2004.
+E-Print, BibTeX
+M. Walter and J. Leonard, “An experimental investigation of cooperative SLAM,” in Proceedings of the Fifth IFAC/EURON Symposium on Intelligent Autonomous Vehicles,(Lisbon, Portugal), 2004.
+E-Print, BibTeX
+2003
+P. Newman and J. Leonard, “Pure range-only sub-sea SLAM,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2003, vol. 2, pp. 1921–1926.
+E-Print, BibTeX
+M. Bosse, P. Newman, J. Leonard, and S. Teller, “An Atlas Framework for Scalable Mapping,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2003, pp. 1899–1906.
+E-Print, BibTeX
+M. Bosse, R. Rikoski, J. Leonard, and S. Teller, “Vanishing points and three-dimensional lines from omni-directional video,” The Visual Computer, vol. 19, no. 6, pp. 417–430, 2003.
+E-Print, BibTeX
+J. J. Leonard and P. M. Newman, “Consistent, Convergent, and Constant-time SLAM,” in International Joint Conference on Artificial Intelligence, 2003, vol. 18, pp. 1143–1150.
+BibTeX
+J. Leonard, P. Newman, R. Rikoski, J. Neira, and J. Tardós, “Towards robust data association and feature modeling for concurrent mapping and localization,” Robotics Research, pp. 7–20, 2003.
+E-Print, BibTeX
+J. Leonard and P. Newman, “Consistent, convergent, and constant-time SLAM,” 2003, pp. 1143–1150.
+E-Print, BibTeX
+P. Newman, M. Bosse, and J. Leonard, “Autonomous Feature-based Exploration,” in Proc. IEEE Int. Conf. Robotics and Automation, 2003, vol. 1, pp. 1234–1240.
+BibTeX
+P. Newman, J. J. Leonard, and R. Rikoski, “Towards constant-time SLAM on an autonomous underwater vehicle using synthetic aperture sonar,” in Proceedings of the eleventh international symposium on robotics research, Sienna, Italy, 2003.
+E-Print, BibTeX
+R. Rikoski and J. Leonard, “Sonar Trajectory Perception,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Taiwan, 2003, vol. 1, pp. 963–970.
+BibTeX
+2002
+J. J. Leonard, R. R. Rikoski, P. M. Newman, and M. Bosse, “Mapping Partially Observable Features from Multiple Uncertain Vantage Points,” Intl. J. of Robotics Research, vol. 7, no. 3, pp. 943–975, Oct. 2002.
+E-Print, BibTeX
+M. Bosse, R. Rikoski, J. Leonard, and S. Teller, “Vanishing Points and 3D Lines from Omnidirectional Video,” in International Conference on Image Processing, Rochester, NY, 2002.
+BibTeX
+P. Newman, J. Leonard, J. Neira, and J. Tardós, “Explore and Return: Experimental Validation of Real Time Concurrent Mapping and Localization,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Washington, DC, 2002, pp. 1802–1809.
+E-Print, BibTeX
+R. Rikoski, J. Leonard, and P. Newman, “Stochastic Mapping Frameworks,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), Washington, DC, 2002, pp. 426–433.
+E-Print, BibTeX
+J. D. Tardós, J. Neira, P. M. Newman, and J. J. Leonard, “Robust mapping and localization in indoor environments using sonar data,” in Intl. J. of Robotics Research, 2002, vol. 21, no. 4, pp. 311–330.
+E-Print, BibTeX
+J. W. Fenwick, P. M. Newman, and J. J. Leonard, “Cooperative concurrent mapping and localization,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 2002, vol. 2, pp. 1810–1817.
+E-Print, BibTeX
+M. Stojanovic, L. Freitag, J. Leonard, and P. A. N. P. Newman, “A network protocol for multiple AUV localization,” 2002, vol. 1, pp. 604–611.
+E-Print, BibTeX
+2001
+J. J. Leonard, P. M. Newman, J. W. Fenwick, and R. J. Rikoski, “Concurrent Mapping and Localization for Multiple Autonomous Underwater Vehicles,” in GOATS Workshop, 2001.
+E-Print, BibTeX
+J. J. Leonard and R. J. Rikoski, “Incorporation of delayed decision making into stochastic mapping,” 2001, pp. 533–542.
+E-Print, BibTeX
+J. J. Leonard and H. J. S. Feder, “Decoupled stochastic mapping,” IEEE J. of Oceanic Eng., vol. 26, no. 4, pp. 561–571, 2001.
+BibTeX
+J. J. Leonard and H. J. S. Feder, “Decoupled stochastic mapping [for mobile robot & auv navigation],” in IEEE Journal of Oceanic Engineering, 2001, vol. 26, no. 4, pp. 561–571.
+E-Print, BibTeX
+J. J. Leonard and R. Rikoski, “Incorporation of delayed decision making into stochastic mapping,” in Experimental Robotics VII, D. Rus and S. Singh, Eds. Springer-Verlag, 2001.
+BibTeX
+J. J. Leonard, R. Carpenter, and H. J. S. Feder, “Stochastic mapping using forward look sonar,” Robotica, vol. 19, pp. 467–480, 2001.
+E-Print, BibTeX
+2000
+J. H. Lim and J. J. Leonard, “Mobile robot relocation from echolocation constraints,” IEEE Trans. Pattern Analysis and Machine Intelligence, vol. 22, no. 9, pp. 1035–1041, Sept. 2000.
+BibTeX
+J. J. Leonard, “Cooperative mapping and navigation for multiple unmanned underwater vehicles,” in International Unmanned Undersea Vehicle Symposium, Naval Undersea Warfare Center, Newport, RI, 2000.
+BibTeX
+A. A. Bennett and J. J. Leonard, “A behavior-based approach to adaptive feature detection and following with autonomous underwater vehicles,” in IEEE Journal of Oceanic Engineering, 2000, vol. 25, no. 2, pp. 213–226.
+BibTeX
+T. F. Fulton, C. J. Cassidy, R. G. Stokey, and J. J. Leonard, “Navigation sensor data fusion for the AUV REMUS,” in Proceedings of the Symposium on Underwater Robotic Technology, World Automation Congress, Hawaii, 2000.
+BibTeX
+J. Leonard and H. Feder, “Experimental analysis of adaptive concurrent mapping and localization using sonar,” in Experimental Robotics VI, 2000, vol. 250, pp. 297–306.
+E-Print, BibTeX
+J. J. Leonard and H. J. S. Feder, “A computationally efficient method for large-scale concurrent mapping and localization,” Snowbird, Utah, 2000, pp. 169–176.
+E-Print, BibTeX
+J. J. Leonard, “Large-scale concurrent mapping and localization,” in Proceedings of SPIE, 2000, vol. 4196, p. 370.
+BibTeX
+J. H. Lim and J. J. Leonard, “Mobile robot relocation from echolocation constraints,” in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2000, vol. 22, no. 9, pp. 1035–1041.
+E-Print, BibTeX
+1999
+A. B. Bennett and J. J. Leonard, “Feature-relative navigation of an autonomous underwater vehicle,” in Proc. Int. Symp. on Unmanned Untethered Submersible Technology, 1999.
+BibTeX
+J. J. Leonard, R. N. Carpenter, and H. J. S. Feder, “Stochastic Mapping Using Forward Look Sonar,” in International Conference on Field and Service Robotics, Pittsburgh, Pennsylvania, 1999, pp. 69–74.
+BibTeX
+H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Adaptive Mobile Robot Navigation and Mapping,” in The International Journal of Robotics Research, 1999, vol. 18, no. 7, pp. 650–668.
+E-Print, BibTeX
+H. J. S. Feder and J. J. Leonard, “Decoupled Stochastic Mapping, Part II: Performance Analysis,” in IEEE Transactions on Robotics and Automation, 1999.
+BibTeX
+J. Neira, J. D. Tardós, J. Horn, and G. Schmidt, “Fusing range and intensity images for mobile robot localization,” in IEEE Transactions on robotics and automation, 1999, vol. 15, no. 1, pp. 76–84.
+E-Print, BibTeX
+1998
+C. M. Smith, H. J. S. Feder, and J. J. Leonard, “Multiple Target Tracking with Navigation Uncertainty,” in IEEE Int Conference on Decision and Control (CDC), Tampa, FL, 1998, vol. 1, pp. 760–761.
+BibTeX
+H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Adaptive concurrent mapping and localization using sonar,” in IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS), Victoria, B.C., Canada, 1998, vol. 2, pp. 892–898.
+E-Print, BibTeX
+J. Vaganay, J. G. Bellingham, and J. J. Leonard, “Comparison of Fix Computation and Filtering for Autonomous Acoustic Navigation,” International Journal of Systems Science, vol. 29, no. 10, pp. 1111–1122, Oct. 1998.
+BibTeX
+H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Adaptive Sensing for Terrain Aided Navigation,” in IEEE Oceans, Nice, France, 1998, pp. 336–341.
+E-Print, BibTeX
+H. J. S. Feder, J. J. Leonard, and C. M. Smith, “Incorporating Environmental Measurements in Navigation,” 1998, pp. 115–122.
+E-Print, BibTeX
+J. J. Leonard and H. J. S. Feder, “Feature localization and classification from echolocation constraints with navigation uncertainty,” in The Journal of the Acoustical Society of America, 1998, vol. 104, no. 3, pp. 1837–1838.
+BibTeX
+C. M. Smith, J. J. Leonard, and H. J. S. Feder, “Making Difficult Decisions Autonomously: The Impact of Integrated Mapping and Navigation,” 1998, pp. 123–132.
+E-Print, BibTeX
+1997
+C. M. Smith, J. J. Leonard, A. A. Bennett, and C. Shaw, “Feature-based concurrent mapping and localization for AUVs,” in OCEANS ’97. MTS/IEEE Conference Proceedings, 1997, vol. 2, pp. 896–901.
+E-Print, DOI, BibTeX
+J. J. Leonard and C. M. Smith, “Sensor data fusion in marine robotics,” in Proceedings of the International Society of Offshore and Polar Engineering, 1997.
+E-Print, BibTeX
+B. A. Moran, J. J. Leonard, and C. Chryssostomidis, “Curved Shape Reconstruction Using Multiple Hypothesis Tracking,” IEEE journal of Oceanic Engineering, vol. 22, no. 4, pp. 625–638, 1997.
+E-Print, BibTeX
+C. M. Smith and J. J. Leonard, “A multiple-hypothesis approach to concurrent mapping and localization for autonomous underwater vehicles,” in International Conference on Field and Service Robotics, 1997, pp. 237–244.
+E-Print, BibTeX
+C. M. Smith, J. J. Leonard, A. A. Bennett, and C. Shaw, “Concurrent Mapping and Localization for Autonomous Underwater Vehicles,” in Undersea Defence Technology, 1997, pp. 338–342.
+E-Print, BibTeX
+S. T. Tuohy, J. J. Leonard, and J. G. Bellingham, “Map based navigation for autonomous underwater vehicles,” in Oceanographic Literature Review, 1997, vol. 12, no. 44, p. 1571.
+BibTeX
+1996
+J. Vaganay, J. G. Bellingham, and J. J. Leonard, “Outlier Rejection for Autonomous Acoustic Navigation,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 1996, pp. 2174–2181.
+E-Print, BibTeX
+S. T. Tuohy, J. J. Leonard, J. G. Bellingham, N. M. Patrikalakis, and C. Chryssostomidis, “Map Based Navigation for Autonomous Underwater Vehicles,” International Journal of Offshore and Polar Engineering, vol. 6, no. 1, pp. 9–18, Mar. 1996.
+BibTeX
+A. A.Bennett and J. J. Leonard, “Autonomous mapping with an AUV: an approach for ground truthing of remote sensing data,” in OCEANS’96. MTS/IEEE.’Prospects for the 21st Century’. Conference Proceedings, 1996, vol. 3, pp. 1099–1104.
+BibTeX
+J. H. Kim, B. A. Moran, J. J. Leonard, J. G. Bellingham, and S. T. Tuohy, “Experiments in remote monitoring and control of autonomous underwater vehicles,” in IEEE Oceans, 1996, pp. 411–416.
+BibTeX
+1995
+D. K. Atwood, J. J. Leonard, J. G. Bellingham, and B. A. Moran, “An acoustic navigation system for multi-vehicle operations,” in International Symposium on Unmanned Untethered Submersible Technology, 1995, pp. 202–208.
+BibTeX
+A. B. Bennett, J. J. Leonard, and J. G. Bellingham, “Bottom Following for Survey Class Autonomous Underwater Vehicles,” in Proc Int Symp on Unmanned Untethered Submersible Technology, 1995, pp. 327–336.
+BibTeX
+J. J. Leonard, S. T. Tuohy, J. G. Bellingham, B. A. Moran, J. H. Kim, H. Schmidt, N. M. Patrikalakis, and C. Chryssostomidis, “Virtual Environments for AUV Development and Ocean Exploration,” in Proc. Int. Symp. on Unmanned Untethered Submersible Technology, 1995, pp. 436–443.
+BibTeX
+J. J. Leonard, B. A. Moran, I. J. Cox, and M. L. Miller, “Underwater Sonar Data Fusion Using an Efficient Multiple Hypothesis Algorithm,” in IEEE Intl. Conf. on Robotics and Automation (ICRA), 1995, pp. 2995–3002.
+BibTeX
+J. G. Bellingham, J. J. Leonard, J. Vaganay, C. Goudey, D. Atwood, T. Consi, J. Bales, H. Schmidt, and C. Chryssostomidis, “AUV Operations in the Arctic,” in Proceedings of the Sea Ice Mechanics and Arctic Modeling Workshop, Anchorage, Alaska, USA, 1995, pp. 25–28.
+E-Print, BibTeX
+J. H. Kim, J. J. Leonard, J. G. Bellingham, B. A. Moran, and S. T. Tuohy, “Remote Communication for Monitoring and Control of Autonomous Underwater Vehicles,” in IEEE OCEANS, 1995, vol. 96, p. 1.
+E-Print, BibTeX
+N. M. Patrikalakis, C. Chryssostomidis, S. T. Tuohy, J. G. Bellingham, J. J. Leonard, J. W. Bales, and J. W. Yoon., “Virtual environments for ocean exploration and visualization,” in Workshop on Computer Graphics Technology in the Exploration of the Sea, Rostock, Germany, 1995.
+BibTeX
+1994
+J. G. Bellingham and J. J. Leonard, “Task Configuration with Layered Control,” in Proceedings of the IARP 2nd Workshop on Mobile Robots for Subsea Environments, Monterey, CA, USA, 1994, pp. 193–302.
+E-Print, BibTeX
+I. Cox and J. Leonard, “Modeling a dynamic environment using a Bayesian multiple hypothesis approach,” Artificial Intelligence, pp. 311–344, Apr. 1994.
+BibTeX
+J. Bellingham, C. Goudey, T. Consi, J. Bales, D. Atwood, J. J. Leonard, and C. Chryssostomidis, “Odyssey II: A Second Generation Survey AUV,” in IEEE Symposium on Autonomous Underwater Vehicle Technology, Cambridge, MA, 1994, pp. 148–156.
+E-Print, BibTeX
+I. J. Cox and J. J. Leonard, “Unsupervised Learning for Mobile Robot Navigation using Probabilistic Data Association,” in Proceedings of the workshop on Computational learning theory and natural learning systems (vol 2): intersections between theory and experiment: intersections between theory and experiment, 1994, pp. 297–319.
+BibTeX
+I. J. Cox and J. J. Leonard, “Modeling a dynamic environment using a Bayesian multiple hypothesis approach,” Artificial Intelligence, vol. 66, no. 2, pp. 311–344, 1994.
+BibTeX
+1993
+J. G. Bellingham, C. Chryssostomidis, M. Deffenbaugh, J. J. Leonard, and H. Schmidt, “Arctic Under-Ice Survey Operations,” in Proc Int Symp on Unmanned Untethered Submersible Technology, 1993, pp. 50–59.
+BibTeX
+J. J. Leonard, B. A. Moran, I. J. Cox, and M. L. Miller, “Underwater Sonar Data Fusion Using all Efficient Multiple Hypothesis Algorithm,” in IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, 1993, vol. 1, no. 3, pp. 2995–2995.
+BibTeX
+J. J. Leonard and J. G. Bellingham, “Directed-sensing strategies for feature-relative navigation,” in Proc. SPIE, 1993, vol. 2059, pp. 120–129.
+BibTeX
+J. J. Leonard, C. Chryssostomidis, and B. A. Moran, “Shape reconstruction from high‐frequency sonar data for robotic tasks,” in The Journal of the Acoustical Society of America, 1993, vol. 93, no. 4, pp. 2340–2340.
+BibTeX
+B. A. Moran, J. J. Leonard, and C. Chryssostomidis, “Geometric Shape from Sonar Ranging,” in Proc. Int. Symp. on Unmanned Untethered Submersible Technology, 1993, pp. 370–383.
+BibTeX
+S. T. Tuohy, N. M. Patrikalakis, J. J. Leonard, J. G. Bellingham, and C. Chryssostomidis, “AUV navigation using geophysical maps with uncertainty,” in INTERNATIONAL SYMPOSIUM ON UNMANNED UNTETHERED SUBMERSIBLE TECHNOLOGY, 1993, pp. 265–265.
+E-Print, BibTeX
+1992
+J. J. Leonard, H. F. Durrant-Whyte, and I. J. Cox, “Dynamic Map Building for an Autonomous Mobile Robot,” Intl. J. of Robotics Research, vol. 11, no. 4, pp. 286–298, Aug. 1992.
+E-Print, BibTeX
+C. Brown, H. Durrant-Whyte, J. Leonard, B. Rao, and B. Steer, “Distributed Data Fusion Using Kalman Filtering: A Robotics Application,” in Data Fusion in Robotics and Machine Intelligence, 1992, pp. 267–309.
+BibTeX
+H. F. Durrant-Whyte and J. J. Leonard, “Modeling Sonar Sensors,” in The Robotics Review II, MIT Press, 1992, pp. 145–151.
+BibTeX
+J. J. Leonard and H. F. Durrant-Whyte, Directed Sonar Sensing for Mobile Robot Navigation. Boston: Kluwer Academic Publishers, 1992.
+BibTeX
+J. J. Leonard and H. F. Durrant-Whyte, “A Sonar Sensor Model,” 1992, pp. 13–50.
+BibTeX
+J. J. Leonard and B. A. Moran, “Sonar Data Fusion for 3-D Scene Reconstruction,” in SPIE Sensor Fusion V, 1992, vol. 1828, pp. 144–155.
+BibTeX
+H. F. Durrant-Whyte and J. J. Leonard, “Modeling Sonar Sensors,” in The Robotics Review II, MIT Press, 1992, pp. 145–151.
+BibTeX
 1991
-
-UNIVERSITY OF OXFORD
-
-Ph.D.
-at MechE
-Community Excellence
-Contact
-Apply
-Sitemap
-Privacy
-Accessibility
-Credits
-Toggle High Contrast
-Student Resources
-MechE Academic Dashboard
-MechE Undergrad Portal
-Online 2A Contract
-SB Thesis Information
-Grad Student Resources
-Online Grad Card
-ODGE Petition
-On-Line Thesis Submission
-Zoom Instructions for Virtual Defenses
-Guide to Graduate Study
-MIT's Mind & Hand Book
-Staff Resources
-Room Reservations
-MechE Resources
-Edit My Profile 
-
-Follow our research.
-Or, just follow us.
-
-Facebook
+J. J. Leonard and H. F. Durrant-Whyte, “Mobile Robot Localization by Tracking Geometric Beacons,” IEEE Trans Robotics and Automation, vol. 7, no. 3, pp. 376–382, June 1991.
+E-Print, BibTeX
+I. J. Cox and J. J. Leonard, “Temporal Integration of Multiple Sensor Observations for Dynamic World Modeling: A Multiple Hypothesis Approach,” in International Workshop on Information Processing for Autonomous Mobile Robots: Theory and Application, Munich, Germany, 1991.
+BibTeX
+I. J. Cox and J. J. Leonard, “Probabilistic Data Association for Dynamic World Modeling: A Multiple Hypothesis Approach,” 1991, pp. 1287–1294.
+BibTeX
+J. Leonard and H. D.-W. I. J. Cox, “ENGLAND USA,” in Autonomous Mobile Robots: Perception, mapping, and navigation, 1991, vol. 1, p. 331.
+BibTeX
+J. J. Leonard, “Sonar interpretation using regions of constant depth (RCDs),” in IEE Colloquium on Robot Sensors, 1991, pp. 1/1–1/4.
+BibTeX
+J. J. Leonard and H. F. Durrant-Whyte, “Simultaneous Map Building and Localization for an Autonomous Mobile Robot,” in Proc IEEE Int Workshop on Intelligent Robots and Systems, 1991, vol. 3, pp. 1442–1447.
+E-Print, BibTeX
+1990
+M. Brady, H. Durrant-Whyte, H. Huosheng, J. Leonard, P. Probert, and B. S. Y. Rao, “Sensor-based control of AGVs,” Computing & Control Engineering Journal, vol. 1, no. 2, pp. 64–70, 1990.
+E-Print, BibTeX
+J. J. Leonard and H. F. Durrant-Whyte, “Application of multi-target tracking to sonar-based mobile robot navigation,” in 29th IEEE Int. Conference on Decision and Control, 1990, pp. 3118–3123.
+E-Print, BibTeX
+J. Leonard and H. F. Durrant-Whyte, “Mobile robot localization by tracking geometric constraints,” in IEEE Conference on Decision and Control, 1990.
+BibTeX
+J. J. Leonard, I. J. Cox, and H. F. Durrant-Whyte, “Dynamic Map Building for an Autonomous Mobile Robot,” in Proc. IEEE Int. Workshop on Intelligent Robots and Systems, 1990, pp. 89–96.
+BibTeX
+1989
+J. J. Leonard and H. F. Durrant-Whyte, “Active Sensor Control for Mobile Robotics,” in IARP Int. Conf. on Multi-Sensor Fusion and Environment Modelling, Toulouse, France, 1989.
+BibTeX
+M. Brady, H. Durrant-Whyte, H. Hu, J. Leonard, P. Probert, and B. Rao, “Sensor-based Control of AGV’s,” in IARP 1st Workshop on Domestic Robots and 2nd Workshop on Medical and Healthcare Robotics, 1989, Also published in \em Int. Workshop on Sensorial Integration for Industrial Robots, Zaragoza, Spain, November, 1989, and \em IEE Computing and Control Journal, March 1990.
+BibTeX
+C. Brown, H. Durrant-Whyte, J. Leonard, and B. Rao, “Centralized and Decentralized Kalman Filter Techniques for Tracking, Navigation, and Control,” in DARPA Image Understanding Workshop, 1989, pp. 651–675.
+BibTeX
+H. F. Durrant-Whyte and J. J. Leonard, “Navigation by Correlating Geometric Sensor Data,” in Proc. IEEE Int. Workshop on Intelligent Robots and Systems, 1989.
+BibTeX
+J. O. H. N. J. LEONARD and H. U. G. H. F. DURRANT-WHYTE, “Active Sensor Control for Mobile Robotics,” in IARP Int Conf on Multi-Sensor Fusion and Environment Modelling, 1989.
+BibTeX
+H. F. Durrant-Whyte and J. J. Leonard, “Navigation by Correlating Geometric Sensor Data,” in Proc IEEE Int Workshop on Intelligent Robots and Systems, 1989.
+BibTeX
  
-Twitter
- 
-YouTube
- 
-Instagram
- 
-Linkedin
 
-Sign up for our monthly newsletter
-
-Visit MechE
-
+MIT Marine Robotics Group
+Computer Science and Artificial Intelligence Laboratory
 Massachusetts Institute of Technology
+32 Vassar Street, Cambridge MA 02139
+Accessibility
 
-Department of Mechanical Engineering
 
-77 Massachusetts Avenue, Room 3-174
-
-Cambridge, Massachusetts 02139

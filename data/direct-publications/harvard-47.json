@@ -4,12 +4,798 @@
   "pi": "Frank N Keutsch",
   "lab_name": null,
   "lab_url": "https://www.keutschgroup.com/frank-keutsch",
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:53:40.480Z",
-  "coverage_notes": [
+  "publication_urls": [
+    "https://www.keutschgroup.com/publications"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Lab homepage preserved; full publication path not yet resolved.",
     "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Chemical Imaging of Individual Stratospheric Particles Sampled Over North America",
+      "year": 2025,
+      "citation_raw": "\"Chemical Imaging of Individual Stratospheric Particles Sampled Over North America,\" S. Sharpe, Y. Li, S. Benjemia, F. Rivera-Adorno, T. Olayemi, J Ese, X. Shen, M. Fraund, R. Moffet, N. Lata, Z. Cheng, S. China, C. Homeyer, J. Dykema, M. Marcus, J. Wang, D. Cziczo, F. N. Keutsch, and A. Laskin. Environ. Sci.: Atmos., 6, 1, 47–60, https://doi.org/10.1039/d5ea00127g (2025).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Trade-Offs between Sulfuric Acid Aerosol Precursors for Stratospheric Aerosol Geoengineering",
+      "year": 2026,
+      "citation_raw": "\"Trade-Offs between Sulfuric Acid Aerosol Precursors for Stratospheric Aerosol Geoengineering,\" J. Franke, W. Smith, A. Slavens, F. N. Keutsch, F. Yu, D. Keith, Environ. Sci. Technol., https://doi.org/10.1021/acs.est.5c15172 (2026).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Stratospheric aerosol perturbation by tropospheric biomass burning and deep convection",
+      "year": 2025,
+      "citation_raw": "\"Stratospheric aerosol perturbation by tropospheric biomass burning and deep convection,\" X. Shen, J. L. Jacquot, Y. Li, S. A. L. Sharpe, J. A. Dykema, G. P. Schill, K. P. Bowman, C. R. Homeyer, M. Fraund, R. C. Moffet, T. E. Olayemi, J. V. Pittman, F. A. Rivera-Adorno, D. M. Murphy, J. B. Smith, A. Laskin, F. N. Keutsch, and D. J. Cziczo, Nat. Geosci. 18, 1109–1116, https://doi.org/10.1038/s41561-025-01821-1 (2025).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Sources, concentrations, and seasonal variations of VOC and aerosol particles in downtown Munich in 2023/24",
+      "year": 2025,
+      "citation_raw": "\"Sources, concentrations, and seasonal variations of VOC and aerosol particles in downtown Munich in 2023/24,\" Y. Li, H. Zhang, X. Shi, Y. Li, S. Abou-Rizk, J. Smith, Z. An, A. Wenzel, J. Song, T. Leisner, F. N. Keutsch, J. Chen, and H. Saathoff, EGUsphere, https://doi.org/10.5194/egusphere-2025-5191 (2025).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Enhanced Radiative Cooling by Large Aerosol Particles from Pyrocumulonimbus",
+      "year": 2025,
+      "citation_raw": "\"Enhanced Radiative Cooling by Large Aerosol Particles from Pyrocumulonimbus, \" Y. Li, J. Dykema, D. Peterson, X. Feng, X. Shen, N. June, M. Fromm, T. McHardy, J. Jacquot, J. Pittman, B. Daube, S. Wofsy, J. Dean-Day, A. Rapp, K. Bowman, D. Cziczo, L. Mickley, J. Pierce and F. N. Keutsch, Sci. Adv. 11, eadw6526, https://doi.org/10.1126/sciadv.adw6526 (2025).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere",
+      "year": 2025,
+      "citation_raw": "\"Conditions necessary for chlorine activation in the midlatitude summer lower stratosphere,\" L. V. Howar, R. J. Salawitch, D. M. Wilmouth, E. J. Hintsa, J. S. Hare, T. F. Hanisco, J. M. St.Clair, E. R. Delaria, E. L. Atlas, S. Schauffler, K. R. Smith, J. B. Smith, B. D. Hall, F. L. Moore, J. V. Pittman, B. Daube, T. P. Bui, Y. Li, F. N. Keutsch, D. S. Sayres, S. C. Wofsy, J. Dean-Day, S. Donnelly, V. A. Treadaway, J. G. Anderson, C. R. Homeyer and K. P. Bowman, Journal of Geophysical Research: Atmospheres, 130, e2025JD043786, https://doi.org/10.1029/2025JD043786 (2025).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Changes in Volatile Organic Compound Composition from an Oxidation-based Air Cleaner",
+      "year": 2025,
+      "citation_raw": "\"Changes in Volatile Organic Compound Composition from an Oxidation-based Air Cleaner,\" Q. Ye, I. Albores, S. Frey, E. Helstrom, J. Krechmer, Y. Li, J. Shutter, J. Cox, M. Canagaratna, F. N. Keutsch, and J. Kroll, ACS EST Air, 2, 12, 2991–2999, https://doi.org/10.1021/acsestair.5c00294 (2025).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project",
+      "year": 2025,
+      "citation_raw": "\"The Dynamics and Chemistry of the Summer Stratosphere (DCOTSS) Project,\" K. P. Bowman, F. N. Keutsch, C. R. Homeyer, D. S. Sayres, J. B. Smith, D. M. Wilmouth, J. G. Anderson, E. L. Atlas, E. Apel, K. Bedka, T. P. Bui, D. Cziczo, B. Daube, E. R. Delaria, J. Dykema, T. F. Hanisco, R. Hannun, B. Hall, E. Hintsa, L. Howar, D. F. Hurst, J. L. Jacquot, A. Laskin, Y. Li, Chuntao Liu, F. Moore, G. Mullendore, P. Newman, A. K. Pandit, A. D. Rapp, R. J. Salawitch, X. Shen, J. M. St. Clair, R. Ueyama, J.-P. Vernier, and S. C. Wofsy, Bull. Amer. Meteor. Soc., BAMS-D-24-0177.1, https://doi.org/10.1175/BAMS-D-24-0177.1 (2025).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Injecting solid particles into the stratosphere could mitigate global warming but currently entails great uncertainties",
+      "year": 2025,
+      "citation_raw": "\"Injecting solid particles into the stratosphere could mitigate global warming but currently entails great uncertainties,\" S. Vattioni, T. Peter, R. Weber, J. A. Dykema, B. Luo, A. Stenke, A. Feinberg, T. Sukhodolov, F. N. Keutsch, M. Ammann, C. Vockenhuber, M. Döbeli, G. A. Kelesidis, and G. Chiodo, Commun. Earth Environ. 6, 132, https://doi.org/10.1038/s43247-025-02038-1 (2025).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Molecular and seasonal characteristics of organic vapors in urban Beijing: insights from Vocus-PTR measurements",
+      "year": 2024,
+      "citation_raw": "\"Molecular and seasonal characteristics of organic vapors in urban Beijing: insights from Vocus-PTR measurements,\" Z. An, R. Yin, X. Zhao, X. Li, Y. Li, Y. Yuan, J. Guo, Y. Zhao, X. Li, D. Li, Y. Li, D. Wang, C. Yan, K. He, D. R. Worsnop, F. N. Keutsch, and J. Jiang, Atmos. Chem. Phys., 24, 13793-13810, https://doi.org/10.5194/acp-24-13793-2024 (2024).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "A fully coupled solid-particle microphysics scheme for stratospheric aerosol injections within the aerosol–chemistry–climate model SOCOL-AERv2",
+      "year": 2024,
+      "citation_raw": "\"A fully coupled solid-particle microphysics scheme for stratospheric aerosol injections within the aerosol–chemistry–climate model SOCOL-AERv2,\" S. Vattioni, R. Weber, A. Feinberg, A. Stenke, J. A. Dykema, B. Luo, G. A. Kelesidis, C. A. Bruun, T. Sukhodolov, F. N. Keutsch, T. Peter, and G. Chiodo, Geosci. Model Dev., 17, 7767–7793, https://doi.org/10.5194/gmd-17-7767-2024 (2024).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Microphysical Interactions Determine the Effectiveness of Solar Radiation Modification via Stratospheric Solid Particle Injection",
+      "year": 2024,
+      "citation_raw": "\"Microphysical Interactions Determine the Effectiveness of Solar Radiation Modification via Stratospheric Solid Particle Injection,\" S. Vattioni, S. Käslin, J. Dykema, L. Beiping, T. Sukhodolov, J. Sedlacek, F. Keutsch, T. Peter, and G. Chiodo, Geophys. Res. Lett., 51, e2024GL110575, https://doi.org/10.1029/2024GL110575 (2024).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Leaf-Level Bidirectional Exchange of Formaldehyde on Deciduous and Evergreen Tree Saplings",
+      "year": 2024,
+      "citation_raw": "\"Leaf-Level Bidirectional Exchange of Formaldehyde on Deciduous and Evergreen Tree Saplings,\" J. D. Shutter, J. L. Cox, F. N. Keutsch, ACS Earth Space Chem., 8, 4, 723–733, https://doi.org/10.1021/acsearthspacechem.3c00325 (2024).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Chemical Impact of Stratospheric Alumina Particle Injection for Solar Radiation Modification and Related Uncertainties",
+      "year": 2024,
+      "citation_raw": "\"Chemical Impact of Stratospheric Alumina Particle Injection for Solar Radiation Modification and Related Uncertainties,\" S. Vattioni, B. Luo, A. Feinberg, A. Stenke, C. Vockenhuber, R. Weber, J. Dykema, U. Krieger, M. Ammann, F. Keutsch, T. Peter, G. Chiodo, Geophys. Res. Lett., 50, e2023GL105889, https://doi.org/10.1029/2023GL105889 (2024).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Enhanced Organic Nitrate Formation from Peroxy Radicals in the Condensed Phase",
+      "year": 2024,
+      "citation_raw": "\"Enhanced Organic Nitrate Formation from Peroxy Radicals in the Condensed Phase,\" V. P. Barber, L. N. LeMar, Y. Li, J. W. Zheng, F. N. Keutsch, J. H. Kroll, Environ. Sci. Technol. Lett., 10 ,11, 9, 975–980, https://doi.org/10.1021/acs.estlett.4c00473 (2024).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Injecting solid particles into the stratosphere could mitigate global warming but currently entails great uncertainties",
+      "year": 2025,
+      "citation_raw": "\"Injecting solid particles into the stratosphere could mitigate global warming but currently entails great uncertainties,\" S. Vattioni, T. Peter, R. Weber, J. A. Dykema, B. Luo, A. Stenke, A. Feinberg, T. Sukhodolov, F. N. Keutsch, M. Amman, C. Vockenhuber, M Döbeli, G.A. Kelesidis, and G. Chiodo, Commun Earth Environ 6, 132, https://doi.org/10.1038/s43247-025-02038-1 (2025).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Stratospheric injection of solid particles reduces side effects on circulation and climate compared to SO2 injections",
+      "year": 2025,
+      "citation_raw": "\"Stratospheric injection of solid particles reduces side effects on circulation and climate compared to SO2 injections,\" F. Stefanetti, S. Vattioni, J. A. Dykema, G. Chiodo, J. Sedlacek, F. N. Keutsch, and Timofei Sukhodolov, Environ. Res.: Climate 3 045028, https://doi.org/10.1088/2752-5295/ad9f93 (2025).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "In situ measurements of perturbations to stratospheric aerosol and modeled ozone and radiative impacts following the 2021 La Soufrière eruption",
+      "year": 2023,
+      "citation_raw": "\"In situ measurements of perturbations to stratospheric aerosol and modeled ozone and radiative impacts following the 2021 La Soufrière eruption,\" Y. Li, C. Pedersen, J. Dykema, J.-P. Vernier, S. Vattioni, A. K. Pandit, A. Stenke, E. Asher, T. Thornberry, M. A. Todt, T. P. Bui, J. Dean-Day, and F. N. Keutsch, Atmos. Chem. Phys., 23, 15351–15364, https://doi.org/10.5194/acp-23-15351-2023 (2023).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Sources of Formaldehyde in U.S. Oil and Gas Production Regions",
+      "year": 2023,
+      "citation_raw": "\"Sources of Formaldehyde in U.S. Oil and Gas Production Regions,\" B. Dix, M. Li, E. Roosenbrand, C. Francoeur, S. S. Brown, J. B. Gilman, T. F. Hanisco, F. Keutsch, A. Koss, B. M. Lerner, J. Peischl, J. M. Roberts, T. B. Ryerson, J. M. St. Clair, P. R. Veres, Ca. Warneke, R. J. Wild, G. M. Wolfe, B. Yuan, J. P. Veefkind, P. F. Levelt, B. C. McDonald, and J. de Gouw, ACS Earth Space Chem., https://doi.org/10.1021/acsearthspacechem.3c00203 (2023).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Indoor Air Quality Implications of Germicidal 222 nm Light",
+      "year": 2023,
+      "citation_raw": "\"Indoor Air Quality Implications of Germicidal 222 nm Light,\" V. Barber, M. Goss, L. F. Deloya, L. LeMar, Y. Li, E. Helstrom, M. Canagaratna, F. Keutsch, J. Kroll, Environmental Science & Technology, https://doi.org/10.1021/acs.est.3c05680 (2023).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Predicting Real Refractive Index of Organic Aerosols From Elemental Composition",
+      "year": 2023,
+      "citation_raw": "\"Predicting Real Refractive Index of Organic Aerosols From Elemental Composition,\" Y. Li , B. Bai, J. Dykema, N. Shin, A. T. Lambe, Q. Chen, M. Kuwata, N. L. Ng, F. N. Keutsch, and P. Liu, Geophys. Res. Lett., 50, e2023GL103446, https://doi.org/10.1029/2023GL103446 (2023).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "OH, HO2, and RO2 radical chemistry in a rural forest environment: measurements, model comparisons, and evidence of a missing radical sink",
+      "year": 2023,
+      "citation_raw": "\"OH, HO2, and RO2 radical chemistry in a rural forest environment: measurements, model comparisons, and evidence of a missing radical sink,\" B. Bottorff, M. M. Lew, Y. Woo, P. Rickly, M. D. Rollings, B. Deming, D. C. Anderson, E. Wood, H. D. Alwe, D. B. Millet, A. Weinheimer, G. Tyndall, J. Ortega, S. Dusanter, T. Leonardis, J. Flynn, M. Erickson, S. Alvarez, J. C. Rivera-Rios, J. D. Shutter, F. Keutsch, D. Helmig, W. Wang, H. M. Allen, J. H. Slade, P. B. Shepson, S. Bertman, and P. S. Stevens, Atmos. Chem. Phys., 23, 10287–10311, https://doi.org/10.5194/acp-23-10287-2023 (2023).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Spatiotemporal modeling of air pollutant concentrations in Germany using machine learning",
+      "year": 2023,
+      "citation_raw": "\"Spatiotemporal modeling of air pollutant concentrations in Germany using machine learning,\" V. Balamurugan, J. Chen, A. Wenzel, F. N. Keutsch, Atmos. Chem. Phys., 23, 10267–10285, https://doi.org/10.5194/egusphere-2023-463 (2023).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Secondary Formation of Submicron and Supermicron Organic and Inorganic Aerosols in a Highly Polluted Urban Area",
+      "year": 2023,
+      "citation_raw": "\"Secondary Formation of Submicron and Supermicron Organic and Inorganic Aerosols in a Highly Polluted Urban Area,\" Y. Zheng, R. Miao, Q. Zhang, Y. Li, X. Cheng, K. Liao, T. K. Koenig, Y. Ge, L. Tang, D. Shang, M. Hu, S. Chen, Q. Chen. Atmos. Chem. and Phys., 22, no. 16, 11175-11195, https://doi.org/10.1029/2022JD037865 (2023).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Product distribution, kinetics, and aerosol formation from the OH oxidation of dimethyl sulfide under different RO2 regimes",
+      "year": 2022,
+      "citation_raw": "\"Product distribution, kinetics, and aerosol formation from the OH oxidation of dimethyl sulfide under different RO2 regimes,\" Q. Ye, M. B. Goss, J. E. Krechmer, F. Majluf, A.Zaytsev, Y. Li, J.R. Roscioli, M. Canagaratna, F. N. Keutsch, C. L. Heald, J. H. Kroll. Atmos. Chem. Phys., 22, no. 12, 7741-7760, https://doi.org/10.5194/acp-22-16003-2022 (2022).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Evaluating the Impact of Chemical Complexity and Horizontal Resolution on Tropospheric Ozone Over the Conterminous US With a Global Variable Resolution Chemistry Model",
+      "year": 2022,
+      "citation_raw": "“Evaluating the Impact of Chemical Complexity and Horizontal Resolution on Tropospheric Ozone Over the Conterminous US With a Global Variable Resolution Chemistry Model,” R. H. Schwantes, F. G. Lacey, S. Tilmes, L. K. Emmons, P. H. Lauritzen, S. Walters, P. Callaghan, C. M. Zarzycki, M. C. Barth, D. S. Jo, J. T. Bacmeister, R. B. Neale, F. Vitt, E. Kluzek, B. Roozitalab, S. R. Hall, K. Ullmann, C. Warneke, J. Peischl, I. B. Pollack, F Flocke, G. M. Wolfe, T. F. Hanisco, F. N. Keutsch, J. Kaiser, T. P. V. Bui, J. L. Jimenez, P. Campuzano-Jost, E. C. Apel, R. S. Hornbrook, A. J. Hills, B. Yuan, and A. Wisthaler. Journal of Advances in Modeling Earth Systems, 14, e2021MS002889, https://doi.org/10.1029/2021MS002889 (2022).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Secondary PM2.5 decreases significantly less than NO2 emission reductions during COVID lockdown in Germany",
+      "year": 2022,
+      "citation_raw": "“Secondary PM2.5 decreases significantly less than NO2 emission reductions during COVID lockdown in Germany,” Balamurugan, V., Chen, J., Qu, Z., Bi, X., and Keutsch, F. N., Atmos. Chem. Phys., 22, 7105–7129, https://doi.org/10.5194/acp-22-7105-2022, (2022).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Catalytic role of formaldehyde in particulate matter formation",
+      "year": 2022,
+      "citation_raw": "\"Catalytic role of formaldehyde in particulate matter formation\" E. Dovrou, K. H. Bates, J. M. Moch, L. J. Mickley, D. J. Jacob, and F. N. Keutsch, PNAS, 119(6), https://doi.org/10.1073/pnas.2113265119 (2022).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Reconciling Observed and Predicted Tropical Rainforest OH Concentrations",
+      "year": 2022,
+      "citation_raw": "\"Reconciling Observed and Predicted Tropical Rainforest OH Concentrations\" D. Jeong, R. Seco, L. Emmons, R. Schwantes, Y. Liu, K. A. McKinney, S. T. Martin, F. N. Keutsch, D. Gu, A. B. Guenther, O. Vega, J. Tota, R. A. F. Souza, S. R. Springston, T. B. Watson, and S. Kim, J. Geophys. Res. Atmos., 127, https://doi.org/10.1029/2020JD032901 (2022).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Composition dependence of stratospheric aerosol shortwave radiative forcing in northern midlatitudes",
+      "year": 2021,
+      "citation_raw": "\"Composition dependence of stratospheric aerosol shortwave radiative forcing in northern midlatitudes,\" Y. Li, J. Dykema, T. Deshler, F. N. Keutsch. Geophysical Research Letters, https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094427 (2021).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Real-Time Laboratory Measurements of VOC Emissions, Removal Rates, and Byproduct Formation from Consumer-Grade Oxidation-Based Air Cleaners",
+      "year": 2021,
+      "citation_raw": "“Real-Time Laboratory Measurements of VOC Emissions, Removal Rates, and Byproduct Formation from Consumer-Grade Oxidation-Based Air Cleaners.” Q. Ye, J. Krechmer, J. Shutter, V. Barber, Y. Li, E. Helstrom, L. Franco, J. Cox, A. Hrdina, M. Goss, N. Tahsini, M. Canagaratna, F. Keutsch, and J. Kroll. Environmental Science & Technology Letters. https://pubs.acs.org/doi/full/10.1021/acs.estlett.1c00773 (2021).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "Shutter, J.D.; Keutsch, F.N. Biosphere-Atmosphere Interactions, ACS In-Focus eBook Series, https://doi.org/10.1021/acsinfocus.7e5007 (2021).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Towards a chemical mechanism of the oxidation of aqueous sulfur dioxide via isoprene hydroxyl hydroperoxides (ISOPOOH)",
+      "year": 2021,
+      "citation_raw": "\"Towards a chemical mechanism of the oxidation of aqueous sulfur dioxide via isoprene hydroxyl hydroperoxides (ISOPOOH)\" E. Dovrou, K. H. Bates, J. C. Rivera-Rios, J. L. Cox, J. D. Shutter, and F. N. Keutsch, Atmos. Chem. Phys., 21, 8999–9008, https://doi.org/10.5194/acp-21-8999-2021 (2021).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "What are the different measures of mobility telling us about surface transportation CO2 emissions during the COVID-19 pandemic?",
+      "year": 2021,
+      "citation_raw": "“What are the different measures of mobility telling us about surface transportation CO2 emissions during the COVID-19 pandemic?,” J. Gensheimer, A. J. Turner, A. Shekhar, A. Wenzel, F. N. Keutsch, and J. Chen, J. Geophys. Res. Atmos. 126, https://doi.org/10.1029/2021JD034664 (2021).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Unmanned aerial vehicle measurements of volatile organic compounds over a subtropical forest in China and implications for emission heterogeneity",
+      "year": 2021,
+      "citation_raw": "“Unmanned aerial vehicle measurements of volatile organic compounds over a subtropical forest in China and implications for emission heterogeneity.” Y. Li, B. Liu, J. Ye, T. Jia, R. B. Khuzestani, J. Y. Sun, X. Cheng, Y. Zheng, X. Li, C. Wu, J. Xin, Z. Wu, M. A. Tomoto, K. McKinney, S. Martin, Y. J. Li, and Q. Chen. ACS Earth and Space Chemistry, https://pubs.acs.org/doi/abs/10.1021/acsearthspacechem.0c00271 (2021).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Application of chemical derivatization techniques combined with chemical ionization mass spectrometry to detect stabilized Criegee intermediates and peroxy radicals in the gas phase",
+      "year": 2020,
+      "citation_raw": "“Application of chemical derivatization techniques combined with chemical ionization mass spectrometry to detect stabilized Criegee intermediates and peroxy radicals in the gas phase,” A. Zaytsev, M. Breitenlechner, A. Novelli, H. Fuchs, D. A. Knopf, J. H. Kroll and F. N. Keutsch, Atmos. Measur. Techniques Discussion, https://doi.org/10.5194/amt-2020-335 (2020).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Experimental reaction rates constrain estimates of ozone response to calcium carbonate geoengineering",
+      "year": 2020,
+      "citation_raw": "“Experimental reaction rates constrain estimates of ozone response to calcium carbonate geoengineering,” Z. Dai, D. K. Weisenstein, F. N. Keutsch, D. W. Keith, Comm. Earth &. Environ. 1, Article number 63, https://doi.org/10.1038/s43247-020-00058-7 (2020).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Contrasting Reactive Organic Carbon Observations in the Southeast United States (SOAS) and Southern California (CalNex)",
+      "year": 2020,
+      "citation_raw": "“Contrasting Reactive Organic Carbon Observations in the Southeast United States (SOAS) and Southern California (CalNex),” C. L. Heald, J. DeGouw, A. H. Goldstein, A.B. Guenther, P. L. Hayes, W. W. Hu, G. Isaacman-Wertz, J. L. Jimenez, F. N. Keutsch, A. R. Koss, P. K. Misztal, B. Rappenglueck, J. M. Roberts, P. S. Stevens, R. A. Washenfelder, C. Warneke, C. J. Young, Environ. Sci. Techol., 54, 14293-14935, https://10.1021/acs.est.0c05027 (2020).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns",
+      "year": 2020,
+      "citation_raw": "“Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns,” L. Zhu, G. González Abad, C. R. Nowlan, C. Chan Miller, K. Chance, E. C. Apel, J. P. DiGangi, A. Fried, T. F. Hanisco, L. Hu, J. Kaiser, F. N. Keutsch, W. Permar, J. M. St. Clair, G. M. Wolfe, Atmos. Chem. Phys., 20, 12329-12345, https://doi.org/10.5194/acp-20-12329-2020 (2020).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Global importance of hydroxymethanesulfonate in ambient particulate matter: Implications for air quality",
+      "year": 2020,
+      "citation_raw": "\"Global importance of hydroxymethanesulfonate in ambient particulate matter: Implications for air quality,\" Moch, J. M.,Dovrou, E., Mickley, L. J., Keutsch, F. N., Liu, Z., Wang, Y., Dombek, T. L., Kuwata, M., Budisulistriorini, S. H., Liudongqing, Y., Decesari, S., Paglione, M., Alexander, B., Shao, J., Munger, J. W., Jacob, D. J., J. Geophys. Res. Atmospheres, https://doi.org/10.1029/2020JD032706 (2020).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Aqueous-Pase Decomposition of Isoprene Hydroxy Hydroperoxide and Hydroxyl Radical Formation by Fenton-like Reactions with Iron Ions",
+      "year": 2020,
+      "citation_raw": "\"Aqueous-Pase Decomposition of Isoprene Hydroxy Hydroperoxide and Hydroxyl Radical Formation by Fenton-like Reactions with Iron Ions,\" T. Fang, P. S. J. Lakey, J. C. Rivera-Rios, F. N. Keutsch, and M. Shiraiwa, J. Phys. Chem. https://doi.org/10.1021/acs.jpca.0c02094 (2020).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Dimensionality-reduction techniques for complex mass spectrometric datasets: application to laboratory atmospheric organic oxidation experiments",
+      "year": 2020,
+      "citation_raw": "\"Dimensionality-reduction techniques for complex mass spectrometric datasets: application to laboratory atmospheric organic oxidation experiments,\" A. R. Koss, M. R. Canagaratna, A. Zaytsev, J. E. Krechmer, M. Breitenlechner, K. J. Nihill, C. Y. Lim, J. C. Rowe, J. R. Roscioli, F. N. Keutsch, and J. H. Kroll, Atmos. Chem. Phys. 20, 1021-1041, https://www.atmos-chem-phys-discuss.net/acp-2019-469 (2020).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns",
+      "year": 2019,
+      "citation_raw": "\"Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns,\" L. Zhu, G. González Abad, C. R. Nowlan, C. Chan Miller, K. Chance, E. C. Apel, J. P. DiGangi, A. Fried, T. F. Hanisco, L. Hu, J. Kaiser, F. N. Keutsch, W. Permar, J. M. St. Clair, G. M. Wolfe, Atmos. Chem. Phys., 20, 12329–12345, https://doi.org/10.5194/acp-20-12329-2020 (2019).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Validity and limitations of simple reaction kinetics to calculate concentrations of organic compounds from ion counts in PTR-MS",
+      "year": 2019,
+      "citation_raw": "\"Validity and limitations of simple reaction kinetics to calculate concentrations of organic compounds from ion counts in PTR-MS,\" Holzinger, R., Acton, W. J. F., Bloss, W. J., Breitenlechner, M., Crilley, L. R., Dusanter, S., Gonin, M., Gros, V., Keutsch, F. N., Kiendler-Scharr, A., Kramer, L. J., Krechmer, J. E., Languille, B., Locoge, N., Lopez-Hilfiker, F., Materić, D., Moreno, S., Nemitz, E., Quéléver, L. L. J., Sarda Esteve, R., Sauvage, S., Schallhart, S., Sommariva, R., Tillmann, R., Wedel, S., Worton, D. R., Xu, K., and Zaytsev, A., Atmos. Meas. Tech., 12, 6193–6208, https://doi.org/10.5194/amt-12-6193-2019 (2019).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Mechanistic study of the formation of ring-retaining and ring-opening products from the oxidation of aromatic compounds under urban atmospheric conditions",
+      "year": 2019,
+      "citation_raw": "\"Mechanistic study of the formation of ring-retaining and ring-opening products from the oxidation of aromatic compounds under urban atmospheric conditions,\" Zaytsev, A., Koss, A. R., Breitenlechner, M., Krechmer, J. E., Nihill, K. J., Lim, C. Y., Rowe, J. C., Cox, J. L., Moss, J., Roscioli, J. R., Canagaratna, M. R., Worsnop, D. R., Kroll, J. H., and Keutsch, F. N., Atmos. Chem. Phys., 19, 15117–15129, https://doi.org/10.5194/acp-19-15117-2019 (2019).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Single-particle experiments measuring humidity and inorganic salt effects on gas-particle partitioning of butenedial",
+      "year": 2019,
+      "citation_raw": "\"Single-particle experiments measuring humidity and inorganic salt effects on gas-particle partitioning of butenedial,\" Birdsall, A. W., Hensley, J. C., Kotowitz, P. S., Huisman, A. J., and Keutsch, F. N., Atmos. Chem. Phys., 19, 14195–14209, https://doi.org/10.5194/acp-19-14195-2019 (2019).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "A new laser-based and ultra-portable gas sensor for indoor and outdoor formaldehyde (HCHO) monitoring",
+      "year": 2019,
+      "citation_raw": "\"A new laser-based and ultra-portable gas sensor for indoor and outdoor formaldehyde (HCHO) monitoring,\" Shutter, J. D., Allen, N. T., Hanisco, T. F., Wolfe, G. M., St. Clair, J. M., and Keutsch, F. N., Atmos. Meas. Tech., 12, 6079–6089, https://doi.org/10.5194/amt-12-6079-2019 (2019).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Sulfate Formation via Cloud Processing from Isoprene Hydroxyl Hydroperoxides (ISOPOOH)",
+      "year": 2019,
+      "citation_raw": "\"Sulfate Formation via Cloud Processing from Isoprene Hydroxyl Hydroperoxides (ISOPOOH)\" Dovrou, E., Rivera-Rios, J. C., Bates, K. H., Keutsch, F. N., Environ. Sci. Technol., 53, 12476-12484, https://doi.org/10.1021/acs.est.9b04645 (2019).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Measurement techniques for identifying and quantifying hydroxymethanesulfonate (HMS) in an aqueous matrix and particulate matter using aerosol mass spectrometry and ion chromatography",
+      "year": 2019,
+      "citation_raw": "\"Measurement techniques for identifying and quantifying hydroxymethanesulfonate (HMS) in an aqueous matrix and particulate matter using aerosol mass spectrometry and ion chromatography\" Dovrou, E., Lim, C. Y., Canagaratna, M. R., Kroll, J. H., Worsnop, D. R., and Keutsch, F. N., Atmos. Meas. Tech., 12, 5303–5315, https://doi.org/10.5194/amt-12-5303-2019 (2019).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Using collision-induced dissociation to constrain sensitivity of ammonia chemical ionization mass spectrometry (NH4+ CIMS) to oxygenated volatile organic compounds",
+      "year": 2019,
+      "citation_raw": "\"Using collision-induced dissociation to constrain sensitivity of ammonia chemical ionization mass spectrometry (NH4+ CIMS) to oxygenated volatile organic compounds\" Zaytsev, A., Breitenlechner, M., Koss, A. R., Lim, C. Y., Rowe, J. C., Kroll, J. H., and Keutsch, F. N., Atmos. Meas. Tech., 12, 1861–1870, https://doi.org/10.5194/amt-12-1861-2019 (2019).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Contribution of hydroxymethane sulfonate to ambient particulate matter: A potential explanation for high particulate sulfur during severe winter haze in Beijing",
+      "year": 2018,
+      "citation_raw": "\"Contribution of hydroxymethane sulfonate to ambient particulate matter: A potential explanation for high particulate sulfur during severe winter haze in Beijing\" Moch, J. M., Dovrou, E., Mickley, L. J., Keutsch, F. N., Cheng, Y., Jacob, D. J., Jiang, J., Li, M., Munger, J. W., Qiao, X. and Zhang, Q., Geophys. Res. Lett., doi:10.1029/2018GL079309 (2018)",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Electrodynamic balance–mass spectrometry of single particles as a new platform for atmospheric chemistry research",
+      "year": 2018,
+      "citation_raw": "\"Electrodynamic balance–mass spectrometry of single particles as a new platform for atmospheric chemistry research\" A. W. Birdsall, U. K. Krieger, F. N. Keutsch, Atm. Meas. Tech. Discuss. 11, 33-47 doi:10.5194/amt-11-33-2018 (2018)",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Emissions of Glyoxal and Other Carbonyl Compounds from Agricultural Biomass Burning Plumes Sampled by Aircraft",
+      "year": 2017,
+      "citation_raw": "“Emissions of Glyoxal and Other Carbonyl Compounds from Agricultural Biomass Burning Plumes Sampled by Aircraft” K. J. Zarzana, K.-E. Min, R. A. Washenfelder, J. Kaiser, M. Krawiec-Thayer, J. Peischl, J. A. Neuman, J. B. Nowak, N. L. Wagner, W. P. Dube, J. M. St. Clair, G. M. Wolfe, T. F. Hanisco, F. N. Keutsch, T. B. Ryerson, and S. S. Brown*, Environ. Sci. Technol. 51, 11761-11170 doi:10.1021/acs.est.7b03517 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Atmospheric chemistry and the biosphere: general discussion",
+      "year": 2017,
+      "citation_raw": "“Atmospheric chemistry and the biosphere: general discussion” A. Archibald, S. Arnold, L. Bejan, S. Brown, M. Brüggemann, L. J. Carpenter, W. Collins, M. Evans, B. Finlayson-Pitts, C. George, M. Hastings, D. Heard, C. N. Hewitt, G. Isaacman-VanWertz, M. Kalberer, F. Keutsch, A. Kiendler-Scharr, D. Knopf, J. Lelieveld, E. Marais, A. Petzold, A. Ravishankara, J. Reid, G. Rovelli, C. Scott, T. Sherwen, D. Shindell, L. Tinel, N. Unger, A. Wahner, T. J. Wallington, J. Williams, P. Young and A. Zelenyuk, Faraday Discuss., 200, 195, doi:10.1039/C7FD90038D (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Polloneite, a new complex Pb(-Ag)-As-Sb sulfosalt from the Pollone mine, Apuan Alps, Tuscany, Italy",
+      "year": 2017,
+      "citation_raw": "“Polloneite, a new complex Pb(-Ag)-As-Sb sulfosalt from the Pollone mine, Apuan Alps, Tuscany, Italy,” D. Topa*, F. N. Keutsch, E. Makovicky, U. Kolitsch and W. Paar, Min. Mag., 81, 1303-1322, doi:10.1180/minmag.2017.081.003 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Observations of VOC emissions and photochemical products over US oil- and gas-producing regions using high-resolution H3O+ CIMS (PTR-ToF-MS)",
+      "year": 2017,
+      "citation_raw": "“Observations of VOC emissions and photochemical products over US oil- and gas-producing regions using high-resolution H3O+ CIMS (PTR-ToF-MS),” A. Koss, B. Yuan, C. Warneke*, J. B. Gilman, B. M. Lerner, P. R. Veres, J. Peischl, S. Eilerman, R. Wild, S. S. Brown, C. R. Thompson, T. Ryerson, T. Hanisco, G. M. Wolfe, J. M. St. Clair, M. Thayer, F. N. Keutsch, S. Murphy and J. A. de Gouw, Atmos. Meas. Tech., 10, 2941-2968, doi.org/10.5194/amt-10-2941-2017 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Transition from high- to low-NOxcontrol of night-time oxidation in the southeastern US",
+      "year": 2017,
+      "citation_raw": "“Transition from high- to low-NOxcontrol of night-time oxidation in the southeastern US,” P. M. Edwards, K. C. Aikin,W. P. Dube, J. L. Fry, J. B. Gilman, J. A. de Gouw, M. G. Graus, T. F. Hanisco, J. Holloway, G. Hübler, J. Kaiser, F. N. Keutsch, B. M. Lerner, J. A. Neuman, D. D. Parrish, J. Peischl, I. B. Pollack, A. R. Ravishankara, J. M. Roberts, T. B. Ryerson, M. Trainer, P. R. Veres, G. M.Wolfe, C. Warneke and S. S. Brown*, Environ. Nat. Geoscience, ASAP doi: 10.1038/NGEO2976 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Impact of evolving isoprene mechanisms on simulated formaldehyde: An inter-comparison supported by in situ observations from SENEX",
+      "year": 2017,
+      "citation_raw": "“Impact of evolving isoprene mechanisms on simulated formaldehyde: An inter-comparison supported by in situ observations from SENEX,” M. R. Marvin*, G. M. Wolfe, R. J. Salawitch, T. P. Canty, S. J. Roberts, K. R. Travis, K. C. Aikin, J. A. de Gouw, M. Graus, T. F. Hanisco, J. S. Holloway, Gerhard Hübler, J. Kaiser,F. N. Keutsch, J. Peischl, I. B. Pollack, J. M. Roberts, T. B. Ryerson, P. R. Veres, C. Warneke, Atmos. Environ. 164, 325-336, doi.org/10.1016/j.atmosenv.2017.05.049 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Glyoxal yield from isoprene oxidation and relation to formaldehyde: chemical mechanism, constraints from SENEX aircraft observations, and interpretation of OMI satellite data",
+      "year": 2017,
+      "citation_raw": "“Glyoxal yield from isoprene oxidation and relation to formaldehyde: chemical mechanism, constraints from SENEX aircraft observations, and interpretation of OMI satellite data,” C. C. Miller, D. J. Jacob*, E. A. Marais, K. Yu, K. R. Travis, P. S. Kim, J. A. Fisher, L. Zhu, G. M. Wolfe, T. F. Hanisco, F. N. Keutsch, J. Kaiser, K.-E. Min, S. S. Brown, R. A. Washenfelder, G. G. Abad and K. Chance, Atmos. Chem. Phys. 17, 8725-8738, doi.org/10.5194/acp-17-8725-2017 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Formaldehyde (HCHO) As a Hazardous Air Pollutant: Mapping Surface Air Concentrations from Satellite and Inferring Cancer Risks in the United States",
+      "year": 2017,
+      "citation_raw": "“Formaldehyde (HCHO) As a Hazardous Air Pollutant: Mapping Surface Air Concentrations from Satellite and Inferring Cancer Risks in the United States,” L. Zhu*, D. J. Jacob, F. N. Keutsch, L. J. Mickley, R. Scheffe, M. Strum. G. G. Abad, K. Chance, K. Yang, B. Rappenglück, D. B. Millet, M. Baasandorj, L. Jaegle, and V. Shah, Environ. Sci. Technol. 51, doi:10.1021/acs.est.7b01356 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "The Essential Role for Laboratory Studies in Atmospheric Chemistry",
+      "year": 2017,
+      "citation_raw": "“The Essential Role for Laboratory Studies in Atmospheric Chemistry,” J. B. Burkholder*, J. P. D. Abbatt*, I. Barnes, J. M. Roberts, M. L. Melamed, M. Ammann, A. K. Bertram, C. D. Cappa, A. G. Carlton, L. J. Carpenter, J. N. Crowley, Y. Dubowski, C. George, D. E. Heard, H. Herrmann, F. N. Keutsch, J. H. Kroll, V. F. McNeill, N. L. Ng, S. A. Nizkorodov, J. J. Orlando, C. J. Percival, B. Picquet-Varrault, Y. Rudich, P. W. Seakins, J. D. Surratt, H. Tanimoto, J. A. Thornton, Z. Tong, G. S. Tyndall, A. Wahner, C. J. Wechsler, K. R. Wilson, and P. J. Ziemann, Environ. Sci. Technol. 51, 2519-2528 doi:10.1021/acs.est.6b04947 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Technical note: Conversion of isoprene hydroxy hydroperoxides (ISOPOOHs) on metal environmental simulation chamber walls",
+      "year": 2017,
+      "citation_raw": "“Technical note: Conversion of isoprene hydroxy hydroperoxides (ISOPOOHs) on metal environmental simulation chamber walls,” A.-K. Bernhammer, M. Breitenlechner, F. N. Keutsch and A. Hansel and CLOUD team, Atmos. Phys. Chem. 17, 4052-4062, doi:10.5194/acp-17-4053-2017 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Qualitative and quantitative analysis of atmospheric organosulfates in Centreville, Alabama",
+      "year": 2017,
+      "citation_raw": "“Qualitative and quantitative analysis of atmospheric organosulfates in Centreville, Alabama,” A. P. S. Hettiyadura, T. Jazarathne, K. Baumann, A. H. Goldstein, J. A. de Gouw, A. Koss, F. N. Keutsch, K. Skog, and E. A. Stone*, Atmos. Phys. Chem. 17, 1343-1359, doi: 10.5194/acp-17-1343-2017 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "The Green Ocean Amazon Experiment (GoAmazon2014/5) Observes Pollution Affecting Gases, Aerosols, Clouds, and Rainfall over the Rain Forest",
+      "year": 2016,
+      "citation_raw": "“The Green Ocean Amazon Experiment (GoAmazon2014/5) Observes Pollution Affecting Gases, Aerosols, Clouds, and Rainfall over the Rain Forest,” S. T. Martin*, P. Artaxo, L. Machado, A. O. Manzi, R. A. F. Souza, C. Schumacher, J. Wang, T. Biscaro, J. Brito, A. Calheiros, K. Jardine, A. Medeiros, B. Portela, S. S. de Sá, K. Adachi, A. C. Aiken, R. Albrecht, L. Alexander, M. O. Andreae, H. M. J. Barbosa, P. Buseck, D. Chand, J. M. Comstock, D. A. Day, M. Dubey, J. Fan, J. Fast, G. Fisch, E. Fortner, S. Giangrande, M. Gilles, A. H. Goldstein, A. Guenther, J. Hubbe, M. Jensen, J. L. Jimenez, F. N. Keutsch, S. Kim, C. Kuang, A. Laskin, K. McKinney, F. Mei, M. Miller, R. Nascimento, T. Pauliquevis, M. Pekour, J. Peres, T. Petäjä, C. Pöhlker, U. Pöschl, L. Rizzo, B. Schmid, J. E. Shilling, M. A. Silva Dias, J. N. Smith, J. M. Tomlinson, J. Tóta, M. Wendisch Bull. Am. Met. Soc., doi: 10.1175/BAMS-D-15-00221.1 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Spryite, Ag8(As3+0.5As5+0.5)S6: structure determination and inferred absence of superionic conduction of the first As3+‑bearing argyrodite",
+      "year": 2017,
+      "citation_raw": "“Spryite, Ag8(As3+0.5As5+0.5)S6: structure determination and inferred absence of superionic conduction of the first As3+‑bearing argyrodite,” L. Bindi*, F. N. Keutsch, M. Morana, and F. Zaccarini, Phys. Chem. Minerals, accepted, doi: 10.1007/s00269-016-0838-1 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Molecular composition and volatility of isoprene photochemical oxidation secondary organic aerosol under low- and high-NOx conditions",
+      "year": 2017,
+      "citation_raw": "“Molecular composition and volatility of isoprene photochemical oxidation secondary organic aerosol under low- and high-NOx conditions,” E. L. D’Ambro, B. H. Lee, J. Liu, J. E. Shilling, C. J. Gaston, F. D. Lopez-Hilfiker, S. Schobesberger, R. A. Zaveri, C. Mohr, A. Lutz, Z. Zhang, A. Gold, J. D. Surratt, J. C. Rivera-Rios, F. N. Keutsch, and J. A. Thornton* Atmos. Chem. Phys., 17, 159-174, doi:10.5194/acp-17-159-2017 (2017).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Testing Atmospheric Oxidation in an Alabama Forest",
+      "year": 2016,
+      "citation_raw": "“Testing Atmospheric Oxidation in an Alabama Forest,” P. A. Feiner, W. H. Brune*, D. O. Miller, L. Zhang, R. C. Cohen, P. S. Romer, A. H. Goldstein, F. N. Keutsch, K. M. Skog, P. O. Wennberg, T. B. Nguyen, A. P. Teng, J. DeGouw, A. Koss, R. J. Wild, S. S. Brown, A. Guenther, E. Edgerton, K. Baumann and J. K. FryJ. Atmos. Sci., 73, 4699-4710, doi: 10.1175/JAS-D-16-0044.1 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Isoprene Suppression of New Particle Formation: Potential Mechanism and Implications",
+      "year": 2016,
+      "citation_raw": "“Isoprene Suppression of New Particle Formation: Potential Mechanism and Implications,” S-H. Lee*, J. Ulin, A. B. Guenther, J. A. de Gouw, F. Yu, A. B. Nadykto, J. Herb, N. L. Ng, A. Kross, W. H. Brune, K. Baumann, V. P. Kanawade, F. N. Keutsch, A. Nenes, K. Olsen, A. Goldstein, Q. Ouyang J. Geophys. Res.Atmos., doi: 10.1002/2016JD024844 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Stratospheric solar geoengineering without ozone loss",
+      "year": 2016,
+      "citation_raw": "“Stratospheric solar geoengineering without ozone loss,” D. W. Keith*, D. K. Weisenstein, J. A. Dykema and F. N. Keutsch Proc. Natl. Acad. Sci. USA,doi: 10.1073/pnas.1615572113 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Efficient Isoprene Secondary Organic Aerosol Formation from a Non- IEPOX Pathway",
+      "year": 2016,
+      "citation_raw": "“Efficient Isoprene Secondary Organic Aerosol Formation from a Non- IEPOX Pathway,” J. Liu, E. L. D’Ambro, B. H. Lee, F. D. Lopez-Hilfiker, R. A. Zaveri, J. C. Rivera-Rios, F. N. Keutsch, S. Iyer, T. Kurten, Z. Zhang, A. Gold, J. D. Surratt, J.E. Shilling*, and J. A. Thornton* Environ. Sci. Technol., 50, 9872-9880, doi: 10.1021/acs.est.6b01872 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Observational constraints on glyoxal production from isoprene oxidation and its contribution to organic aerosol over the Southeast United States",
+      "year": 2016,
+      "citation_raw": "“Observational constraints on glyoxal production from isoprene oxidation and its contribution to organic aerosol over the Southeast United States,” J. Li, J. Mao*, K.-E. Min, R. A. Washenfelder, S. S. Brown, J. Kaiser, F. N. Keutsch, R. Volkamer, G. M. Wolfe, T. F. Hanisco, I. B. Pollack, T. B. Ryerson, M. Graus, J. B. Gilman, B. M. Lerner, C. Warneke, J. A. de Gouw, A. M. Middlebrook, J. Liao, A. Welti, B. H. Henderson, V. F. McNeill, S. R. Hall, K. Ullmann, L. J. Donner, F. Paulot, and L. W. Horowitz J. Geophys. Res. Atmos., 121, 9849-9861, doi: 10.1002/2016JD025331 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Investigation of a potential HCHO measurement artifact from ISOPOOH",
+      "year": 2016,
+      "citation_raw": "“Investigation of a potential HCHO measurement artifact from ISOPOOH,” J. M. St. Clair,* J. C. Rivera-Rios, J. D. Crounse, E. Praske, M. Kim, G. W Wolfe, F. N. Keutsch, P. O. Wennberg, and T. F. Hanisco Atmos. Meas. Tech. 9, 4561-4568, doi:10.5194/amt-9-4561-2016, (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Improved aerosol radiative properties as a foundation for solar geoengineering risk assessment",
+      "year": 2016,
+      "citation_raw": "“Improved aerosol radiative properties as a foundation for solar geoengineering risk assessment,”J. A. Dykema*, D. W. Keith, and F. N. Keutsch Geophys. Res. Lett., 43, doi:10.1002/2016GL069258 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Speciation of OH reactivity above the canopy of an isoprene-dominated forest",
+      "year": 2016,
+      "citation_raw": "“Speciation of OH reactivity above the canopy of an isoprene-dominated forest,” J. Kaiser*, K. M. Skog, K. Baumann, S. B. Bertman, S. B. Brown, W. H. Brune, J. D. Crounse, J. A. de Gouw, E. S. Edgerton, P. A. Feiner, A. H. Goldstein, A. Koss, P. K. Misztal, T. B. Nguyen, K. F. Olson, J. M. St. Clair, A. P. Teng7, S. Toma, P. O. Wennberg, R. J. Wild, L. Zhang, and F. N. Keutsch Atmos. Chem. Phys., 16, 9349-9359, doi: 10.5194/acp-16-9349-2016 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Ozone production chemistry in the presence of urban plumes",
+      "year": 2016,
+      "citation_raw": "“Ozone production chemistry in the presence of urban plumes,” W. H. Brune*, B. C. Baier, J. Thomas, X. Ren, R. C. Cohen, S. E. Pusede, E. C. Browne, A. H. Goldstein, D. R. Gentner, F. N. Keutsch, J. A. Thornton, S. Harrold, F. D. Lopez-Hilfiker and P. O. Wennberg Farad. Discuss., 189, 169-189, doi: 10.1039/c5fd00204d (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Instrumentation and measurement strategy for the NOAA SENEX aircraft campaign as part of the Southeast Atmosphere Study",
+      "year": 2016,
+      "citation_raw": "“Instrumentation and measurement strategy for the NOAA SENEX aircraft campaign as part of the Southeast Atmosphere Study,” C. Warneke, M. Trainer, J. A. de Gouw, D. D. Parrish, D. W. Fahey, A. R. Ravishankara, A. M. Middlebrook, C. A. Brock, J. M. Roberts, S. S. Brown, J. A. Neuman, B. M. Lerner, D. Lack, D. Law, G. Hübler, I. Pollack, S. Sjostedt, T. B. Ryerson, J. B. Gilman, J. Liao, J. Holloway, J. Peischl, J. B. Nowak, K. C. Aikin, K.-E. Min, R. A. Washenfelder, M. G. Graus, M. Richardson, Milos Z. Markovic, N. L. Wagner, A. Welti, P. R. Veres, P. Edwards, J. P. Schwarz, T. Gordon, W. P. Dube, S. A. McKeen, J. Brioude, R. Ahmadov, A. Bougiatioti, J. J. Lin, A. Nenes, G. M. Wolfe, T. F. Hanisco, B. H. Lee, F. D. Lopez-Hilfiker, J. A. Thornton, F. N. Keutsch, J. Kaiser, J. Mao, and C. D. Hatch. Atmos. Meas. Tech., 9, 3063-3093, doi: 10.5194/amt-9-3063-2016 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Isoprene photochemistry over the Amazon rainforest",
+      "year": 2016,
+      "citation_raw": "“Isoprene photochemistry over the Amazon rainforest,” Y. Liu*, J. Brito, M. R. Dorris, J. C. Rivera-Rios, R. Seco, K. H. Bates, P. Artaxo, S. Duvoisin, F. N. Keutsch, S. Kim, A. H. Goldstein, A. B. Guenther, A. O. Manzi, R. A. F. Souza, S. R. Springston, T. B. Watson, K. A. McKinney, and S. Martin. Proc. Natl. Acad. Sci. USA, 113, 6125-6130, doi: 10.1073/pnas.1524136113 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Evidence for ambient dark aqueous SOA formation in the Po Valley, Italy",
+      "year": 2016,
+      "citation_raw": "“Evidence for ambient dark aqueous SOA formation in the Po Valley, Italy,” A. P. Sullivan*, N. Hodas, B.J. Turpin, K. Skog, F. N. Keutsch, S. Gilardoni, M. Paglione, M. Rinaldi, S. Decesari, M. C. Facchini, L. Poulain, H. Herrmann, A. Wiedensohler, E. Nemitz, M. M. Twigg, and J. L. Collett Jr.Atmos. Chem. Phys., 16, 8905-8018, doi: 10.5194/acp-16-8095-2016 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Understanding isoprene photooxidation using observations and modeling over a subtropical forest in the southeastern US",
+      "year": 2016,
+      "citation_raw": "“Understanding isoprene photooxidation using observations and modeling over a subtropical forest in the southeastern US,” L. Su, E. G. Patton, J. Vilà-Guerau de Arellano, A. B. Guenther, L. Kaser, B. Yuan, F. Xiong, P. B. Shepson, L. Zhang, D. O. Miller, W. H. Brune, K. Baumann, E. Edgerton, A. Weinheimer, P. K. Misztal, J.-H. Park, A. H. Goldstein, K. M. Skog, F. N. Keutsch, and J. E. Mak* Atmos. Chem. Phys., 16, 7725-7741, doi: 10.5194/acp-16-7725-2016, (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Atmospheric fates of Criegee intermediates in the ozonolysis of isoprene",
+      "year": 2016,
+      "citation_raw": "“Atmospheric fates of Criegee intermediates in the ozonolysis of isoprene,” T. B. Nguyen*, G. S. Tyndall, J. D. Crounse, A. P. Teng, K. H. Bates, R. H. Schwantes, M. M. Coggon, L. Zhang, P. Feiner, D.O. Milller, K. M. Skog, J. C. Rivera-Rios, M. Dorris, K. F. Olson, A. Koss, R. J. Wild, S. S. Brown, A. H. Goldstein, J. A. de Gouw, W. H. Brune, F. N. Keutsch, J. H. Seinfeld and P. O. Wennberg Phys. Chem. Chem. Phys., 18, 10241-10254,doi: 10.1039/c6cp00053c, (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Petříčekite, CuSe2, a New Member of the Marcasite Group from the Předbořice Deposit, Central Bohemia Region, Czech Republic",
+      "year": 2016,
+      "citation_raw": "“Petříčekite, CuSe2, a New Member of the Marcasite Group from the Předbořice Deposit, Central Bohemia Region, Czech Republic,” L. Bindi*, H.-J. Förster, G. Grundmann, F. N. Keutsch, C. J. Stanley Minerals 6, 33, doi: 10.3390/min6020033 (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "In situ measurements and modeling of reactive trace gases in a small biomass burning plume",
+      "year": 2016,
+      "citation_raw": "“In situ measurements and modeling of reactive trace gases in a small biomass burning plume,” M. Müller, B. E. Anderson, A. J. Beyersdorf, J. H. Crawford, G. S. Diskin, P. Eichler, A. Fried, F. N. Keutsch, T. Mikoviny, K. L. Thornhill, J. G. Walega, A. J. Weinheimer, M. Yang, R. J. Yokelson, and A. Wisthaler* Atmos. Chem. Phys. 16, 3813-3824, doi: 10.5194/acp-16-3813-2016, (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Formaldehyde production from isoprene oxidation across NOx regimes",
+      "year": 2016,
+      "citation_raw": "“Formaldehyde production from isoprene oxidation across NOx regimes,” G. M. Wolfe*, J. Kaiser, T. F. Hanisco, F. N. Keutsch, J. A. de Gouw, J. B. Gilman, M. Graus, C. D. Hatch, J. Holloway, L. W. Horowitz, B. H. Lee, B. M. Lerner, F. Lopez-Hilifiker, J. Mao, M. R. Marvin, J. Peischl, I. B. Pollack, J. M. Roberts, T. B. Ryerson, J. A. Thornton, P. R. Veres, and C. Warneke Atmos. Chem. Phys. 16, 2597-2610, doi: 10.5194/acp-16-2597-2016, (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Kinetics and Products of the Reaction of the First-Generation Isoprene Hydroxy Hydroperoxide (ISOPOOH) with OH",
+      "year": 2016,
+      "citation_raw": "“Kinetics and Products of the Reaction of the First-Generation Isoprene Hydroxy Hydroperoxide (ISOPOOH) with OH,” J. M. St. Clair,* J. C. Rivera-Rios, J. D. Crounse, H. C. Knap, K. H. Bates, A. P. Teng, S. Jørgensen, H. G. Kjaergaard, F. N. Keutsch, and P. O. Wennberg* J. Phys. Chem. A 120, 1441-1451, doi: 10.1021/acs.jpca.5b06532, (2016).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Formation of Low Volatility Organic Compounds and Secondary Organic Aerosol from Isoprene Hydroxyhydroperoxide Low-NO Oxidation",
+      "year": 2015,
+      "citation_raw": "“Formation of Low Volatility Organic Compounds and Secondary Organic Aerosol from Isoprene Hydroxyhydroperoxide Low-NO Oxidation,” J. E. Krechmer, M. M. Coggon, P. Massoli, T. B. Nguyen, J. D. Crounse, W. Hu, D. A. Day, G. S. Tyndall, D. K. Henze, J. C. Rivera-Rios, J. B. Nowak, J. R. Kimmel, R. L. Mauldin, H. Stark, J. T. Jayne, M. Sipilä, H. Junninen J. M. St. Clair, X. Zhang, P. A. Feiner, L. Zhang, D. O. Miller, W. H. Brune, F. N. Keutsch, P. O. Wennberg, J. H. Seinfeld, D. R. Worsnop, J. L. Jimenez*, and M. R. Canagaratna* Environ. Sci. Technol. 49, 10330-10339, doi: 10.1021/acs.est.5b02031, (2015).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "How much copper can the pearceite structure sustain? The case of cupropearceite from Tsumeb, Namibia",
+      "year": 2015,
+      "citation_raw": "“How much copper can the pearceite structure sustain? The case of cupropearceite from Tsumeb, Namibia,” L. Bindi*, D. Topa, and F. N. Keutsch Periodico di Mineralogia 84, 341-350, doi: 10.2451/2015PM0017, (2015).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Reassessing the ratio of glyoxal to formaldehyde as an indicator of hydrocarbon precursor speciation",
+      "year": 2015,
+      "citation_raw": "“Reassessing the ratio of glyoxal to formaldehyde as an indicator of hydrocarbon precursor speciation,” J. Kaiser*, G. M. Wolfe, K. E. Min, S. S. Brown, C. C. Miller, D. J. Jacob, J. A. deGouw, M. Graus, T. F. Hanisco, J. Holloway, J. Peischl, I. B. Pollack, T. B. Ryerson, C. Warneke, R. A. Washenfelder, and F. N. Keutsch Atmos. Chem. Phys. 15, 7571-7583, doi: 10.5194/acp-15-7571-2015, (2015).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Atmospheric benzenoid emissions from plants rival those from fossil fuels",
+      "year": 2015,
+      "citation_raw": "“Atmospheric benzenoid emissions from plants rival those from fossil fuels,” P. K. Misztal*, C. N. Hewitt, J. Wildt, J. D. Blande, A. S. D. Eller, S. Fares, D. R. Gentner, J.B. Gilman, M. Graus, J. Greenberg, A. B. Guenther, A. Hansel, P. Harley, M. Huang, K. Jardine, T. Karl, L. Kaser, F. N. Keutsch, A. Kiendler-Scharr, E. Kleist, B. M. Lerner, T. Li, J. Mak, A. C. Nölscher, R. Schnitzhofer, V. Sinha, B. Thornton, C. Warneke, F. Wegener, C. Werner, J. Williams, D. R. Worton, N. Yassaa and A.H. Goldstein Sci. Rep. 5, 12064, doi: 10.1038/srep12064, (2015).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Airborne Measurements of the Atmospheric Emissions from a Fuel Ethanol Refinery",
+      "year": 2015,
+      "citation_raw": "“Airborne Measurements of the Atmospheric Emissions from a Fuel Ethanol Refinery,” J. de Gouw*, S. A. Mckeen, K. C. Aikin, C. A. Brock, S. S. Brown, J. B. Gilman, M. Graus, T. Hanisco, J. S. Holloway, J. Kaiser, F. N. Keutsch, B. M. Lerner, J. Liao, M.Z. Markovic, A. M. Middlebrook, K.-E. Min, J. A. Neuman, J. B. Nowak, J. Peischl, I. B. Pollack, J. M. Roberts, T. B. Ryerson, M. Trainer, P. R. Veres, C. Warneke, A. Welti, G. M. Wolfe J. Geophys. Res. 120, 1-13, doi: 10.1002/2015JD023138 (2015).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Instrument intercomparison of glyoxal, methyl glyoxal and NO2 under simulated atmospheric conditions",
+      "year": 2015,
+      "citation_raw": "“Instrument intercomparison of glyoxal, methyl glyoxal and NO2 under simulated atmospheric conditions,” R. Thalman, M. T. Baeza-Romero, S. M. Ball, E. Borrás, M. J. S. Daniels, I. C. A. Goodall, S. B. Henry, T. Karl, F. N. Keutsch, S. Kim, J. Mak, P. S. Monks, A. Muñoz, J. Orlando, S. Peppe, A. R. Rickard, M. Ródenas, P. Sánchez, R. Seco, L. Su, G. Tyndall, M. Vázquez, T. Vera, E. Waxman, and R. Volkamer Atmos. Measur. Techn. 8,1835-1862, doi: 10.5194/amt-8-1835-2015 (2015).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Airborne measurements of organosulfates over the continental US",
+      "year": 2015,
+      "citation_raw": "“Airborne measurements of organosulfates over the continental US,” J. Liao, K. D. Froyd, D. M. Murphy, F. N. Keutsch, G. Yu, P. O. Wennberg, J. St. Clair, J. D. Crounse, A. Wisthaler, T. Mikoviny, J.-L. Jimenez, P. Campuzano Jost, D. A. Day, W. Hu, T. B. Ryerson, I. B. Pollack, J. Peischl, B. E. Anderson, L. D. Ziemba, D. R. Blake, S. Meinardi, G. Diskin, J. Geophys. Res. 120, 2990-3005, doi: 10.1002/2014JD022378 (2015).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Evidence for an unidentified non-photochemical ground-level source of formaldehyde in the Po Valley with potential implications for ozone production",
+      "year": 2015,
+      "citation_raw": "“Evidence for an unidentified non-photochemical ground-level source of formaldehyde in the Po Valley with potential implications for ozone production,” J. B. Kaiser, G. M. Wolfe, B. Bohn, S. Broch, H. Fuchs, L. N. Ganzeveld, S. Gomm, R. Häseler, A. Hofzumahaus, F. Holland, J. Jäger, X. Li, I. Lohse, K. Lu, F. Rohrer, R. Wegener, T. F. Mentel, A. Kiendler-Scharr, A. Wahner and F. N. Keutsch* Atmos. Chem. Phys. 15, 1289-1298, doi: 10.5194/acp-15-1289-2015, (2015).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Conversion of hydroperoxides to carbonyls in field and laboratory instrumentation: observational bias in diagnosing pristine versus anthropogenically-controlled atmospheric chemistry",
+      "year": 2014,
+      "citation_raw": "“Conversion of hydroperoxides to carbonyls in field and laboratory instrumentation: observational bias in diagnosing pristine versus anthropogenically-controlled atmospheric chemistry” J. Rivera-Rios, T. B. Nguyen, J. D, Crounse, W. Jud, J. M. St. Clair, T. Mikoviny, J. B. Gilman, B. M. Lerner, J. B. Kaiser, J. de Gouw, A. Wisthaler, A. Hansel, P. O. Wennberg, J. H. Seinfeld and F. N. Keutsch* Geophys. Res. Lett., 41, 8645-8651, doi: 10.1002/2014GL061919 (2014).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Overview of the Focused Isoprene eXperiments at California Institute of Technology (FIXCIT): mechanistic chamber studies on the oxidation of biogenic compounds",
+      "year": 2014,
+      "citation_raw": "“Overview of the Focused Isoprene eXperiments at California Institute of Technology (FIXCIT): mechanistic chamber studies on the oxidation of biogenic compounds,” T. B. Nguyen, J. D. Crounse, R. H. Schwantes, A. P. Teng, K. H. Bates, X. Zhang, J. M. St. Clair, W. H. Brune, G. S. Tyndall, F. N. Keutsch, J. H. Seinfeld and P. O. Wennberg Atmos. Chem. Phys. 14, 13531-13549 doi: 10.5194/acp-14-13531-2014 (2014).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Aerosol Liquid Water Driven by Anthropogenic Nitrate: Implications for Lifetimes of Water-Soluble Organic Gases and Potential for Secondary Organic Aerosol Formation",
+      "year": 2014,
+      "citation_raw": "“Aerosol Liquid Water Driven by Anthropogenic Nitrate: Implications for Lifetimes of Water-Soluble Organic Gases and Potential for Secondary Organic Aerosol Formation”, N. Hodas*, A. P. Sullivan, K. Skog, F. N. Keutsch, J. L. Collett, S. Decesari, M. C. Facchini, A. G. Carlton, A. Laaksonen, and B. J. Turpin Environ. Sci. Technol. 48, 11127–11136, doi: 10.1021/es5025096 (2014).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Overview of the Manitou Experimental Forest Observatory: Site description and selected science results from 2008-2013",
+      "year": 2014,
+      "citation_raw": "“Overview of the Manitou Experimental Forest Observatory: Site description and selected science results from 2008-2013”, J. Ortega, A. Turnipseed, A. B. Guenther, T. G. Karl, D. A. Day, D. Gochis, J. A. Huffman, A. J. Prenni, E. J. T. Levin, S. M. Kreidenweis, P. J. DeMott, Y. Tobo, E., G. Patton, A. Hodzic, Y. Cui, P. C. Harley, R. S. Hornbrook, E. C. Apel, R. K. Monson, A. S. D. Eller, J. P. Greenberg, M. Barth, P. Campuzano-Jost, B. B. Palm, J. L. Jimenez, A. C. Aiken, M. K. Dubey, C. Geron, J. Offenberg, M. G. Ryan, P. J. Fornwalt, S. C. Pryor, F. N. Keutsch, J. P. DiGangi, A. W. H. Chan, A. H. Goldstein, G. M. Wolfe, S. Kim, L. Kaser, R. Schnitzhofer, A. Hansel, C. A. Cantrell, R. L. Mauldin, J. N. Smith* Atmos. Chem. Phys. 14, 6345-6367, doi: 10.5194/acp-14-6345-2014 (2014).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Intercomparison of Hantzsch and fiber-laser-induced-fluorescence formaldehyde measurements",
+      "year": 2014,
+      "citation_raw": "“Intercomparison of Hantzsch and fiber-laser-induced-fluorescence formaldehyde measurements”, J. Kaiser, X. Li, R. Tillmann, I. Acir, F. Holland, F. Rohrer, R. Wegener, and F. N. Keutsch* Atmos. Meas. Tech. 7, 1571-1580, doi: 10.5194/amt-7-1571-2014 (2014).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Missing Peroxy Radical Sources within a Rural Forest Canopy",
+      "year": 2014,
+      "citation_raw": "“Missing Peroxy Radical Sources within a Rural Forest Canopy”, G. M. Wolfe, C. Cantrell, S. Kim, R. L. Mauldin III, T. Karl, P. Harley, A. Turnipseed, W. Zheng, F. Flocke, E. C. Apel, R. S. Hornbrook, S. R. Hall, K. Ullmann, S. B. Henry, J. P. DiGangi, E. S. Boyle, L. Kaser, R. Schnitzhofer, A. Hansel, M. Grause, Y. Nakashima, Y. Kajii, A. Guenther and F. N. Keutsch* Atmos. Chem. Phys. 14, 4715-4732, doi: 10.5194/acp-14-4715-2014 (2014).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Missing gas-phase source of HONO inferred from Zeppelin measurements in the troposphere",
+      "year": 2014,
+      "citation_raw": "“Missing gas-phase source of HONO inferred from Zeppelin measurements in the troposphere,” X. Li,* F. Rohrer*, A. Hofzumahaus, T. Brauers, R. Häseler, B. Bohn, S. Broch, H. Fuchs, S. Gomm, F. Holland, Julia Jäger, J. Kaiser, F. N. Keutsch, I. Lohse, K. Lu, R. Tillmann, R. Wegener, G. M. Wolfe, T. F. Mentel, A. Kiendler-Scharr, A. Wahner Science, 344, 292-296, doi: 10.1126/science.1248999 (2014).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "On the temperature dependence of organic reactivity, nitrogen oxides, ozone production, and the impact of emission controls in San Joaquin Valley, California",
+      "year": 2014,
+      "citation_raw": "“On the temperature dependence of organic reactivity, nitrogen oxides, ozone production, and the impact of emission controls in San Joaquin Valley, California”, S. E. Pusede, D. R. Gentner, P. J. Wooldridge, E. C. Browne, A. W. Rollins, K.-E. Min, A. R. Russell, J. Thomas, L. Zhang, W. H. Brune, S. B. Henry, J. P. DiGangi, F. N. Keutsch, S. A. Harrold, J. A. Thornton, M. R. Beaver, J. M. St. Clair, P. O. Wennberg, J. Sanders, X. Ren, T. C. VandenBoer, M. Z. Markovic, A. Guha, R. Weber, A. H. Goldstein, R. C. Cohen* Atmos. Chem. Phys. 14, 3373-3395, doi: 10.5194/acp-14-3373-2014 (2014).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Undisturbed and disturbed above canopy ponderosa pine emissions: PTR-TOF-MS measurements and MEGAN 2.1 model results",
+      "year": 2013,
+      "citation_raw": "“Undisturbed and disturbed above canopy ponderosa pine emissions: PTR-TOF-MS measurements and MEGAN 2.1 model results,” L. Kaser, T. Karl, A. Guenther, R. Schnitzhofer, A. Turnipseed, L. Fischer, P. Harley, M. Madronich, D. Gochis, F. N. Keutsch and A. Hansel* Atmos. Chem. Phys. 13, 11935-11947, doi: 10.5194/acp-13-11935-2013 (2013).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "OH and HO2 radical chemistry during PROPHET 2008 and CABINEX 2009 - Part 1: Measurements and model comparison",
+      "year": 2013,
+      "citation_raw": "“OH and HO2 radical chemistry during PROPHET 2008 and CABINEX 2009 - Part 1: Measurements and model comparison,” S. M. Griffith, R. F. Hansen, S. Dusanter, P. S. Stevens,* M. Alaghmand, S. B. Bertman, M. A. Carroll, M. Erickson, M. Galloway, N. Grossberg, J. Hottle, J. Hou, B. T. Jobson, A. Kammrath, F. N. Keutsch, B. L. Lefer, L. H. Mielke, A. O'Brien, P. B. Shepson, M. E. Thurlow, W. Wallace, N. Zhang, and X. Zhou and Atmos. Chem. Phys. 13, 5403-5423, doi: 10.5194/acp-13-5403-2013 (2013).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Evidence and Quantitation of Aromatic Organosulfates in Ambient Aerosols in Lahore, Pakistan",
+      "year": 2013,
+      "citation_raw": "“Evidence and Quantitation of Aromatic Organosulfates in Ambient Aerosols in Lahore, Pakistan,” S. Kundu, T. A. Quraishi, G. Yu, C. Suarez, F. N. Keutsch, and E. A. Stone*, Atmos. Chem. Phys. 13, 4865–4875, doi: 10.5194/acp-13-4865-2013 (2013).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Similarities in STXM-NEXAFS Spectra of Atmospheric Particles and Secondary Organic Aerosol Generated from Glyoxal, α-Pinene, Isoprene, 1,2,4-Trimethylbenzene, and d-Limonene",
+      "year": 2013,
+      "citation_raw": "“Similarities in STXM-NEXAFS Spectra of Atmospheric Particles and Secondary Organic Aerosol Generated from Glyoxal, α-Pinene, Isoprene, 1,2,4-Trimethylbenzene, and d-Limonene,” K. M. Shakya, S. Liu, S. Takahama, L. M. Russell*, F. N. Keutsch, M.M. Galloway, J. E. Shilling, N. Hiranuma, C. Song, H. Kim, S. E. Paulson, L. Pfaffenberger, P. Barmet, J. Slowik, A. Prévôt, J. Dommen, U. Baltensperger, Aerosol Sci. Technol. 47, 543-555, doi: 10.1080/02786826.2013.772950 (2013)",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Comparison of different real time VOC measurements techniques in a ponderosa pine forest",
+      "year": 2013,
+      "citation_raw": "“Comparison of different real time VOC measurements techniques in a ponderosa pine forest,” L. Kaser, T. Karl, R. Schnitzhofer, M. Graus, I. Herdlinger-Blatt, J. P. DiGangi, B. Sive, A. Turnipseed, R. S. Hornbrook, W. Zheng, F. M. Flocke, A. Guenther, F. N. Keutsch, E. Apel, and A. Hansel* Atmos. Chem. Phys. 13, 2893-2906, doi: 10.5194/acp-13-2893-2013 (2013).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Evaluation of HOx sources and cycling using measurement-constrained model calculations in a 2-methyl-3-butene-2-ol (MBO) and monoterpene (MT) dominated ecosystem",
+      "year": 2013,
+      "citation_raw": "“Evaluation of HOx sources and cycling using measurement-constrained model calculations in a 2-methyl-3-butene-2-ol (MBO) and monoterpene (MT) dominated ecosystem,” S. Kim,* G. Wolfe, L. Mauldin, C. Cantrell, A. Guenther, T. Karl, A. Turnipseed, J. Greenberg, S. Hall, K. Ulmann, E. Apel, R. Hornbrook, Y. Kajii, Y. Nakashima, F.N. Keutsch, J.P. DiGangi, S.B. Henry, L. Kaser, R. Schnitzhofer, M. Graus, and A. Hansel W. Zheng, F. Flocke Atmos. Chem. Phys. 13, 2031-2044, doi: 10.5194/acp-13-2031-2013 (2013).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Observations of Glyoxal and Formaldehyde as Metrics for the Anthropogenic Impact on Rural Photochemistry",
+      "year": 2012,
+      "citation_raw": "“Observations of Glyoxal and Formaldehyde as Metrics for the Anthropogenic Impact on Rural Photochemistry,” J. P. DiGangi, S. B. Henry, A. Kammrath, E. S. Boyle, L. Kaser, R. Schnitzhofer, A. Turnipseed, J. H. Park, R. J. Weber, R. S. Hornbrook, C. Cantrell, R. L. Mauldin III, S. Kim, Y. Nakashima, G. M. Wolfe, Y. Kajii, E. Apel, A. H. Goldstein, A. Guenther, T. Karl, A. Hansel, F. N. Keutsch* Atmos. Chem. Phys. 12, 9529-9543, doi: 10.5194/acp-12-9529-2012 (2012).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "In-canopy gas-phase chemistry during the 2009 CABINEX field campaign: Sensitivity of a 1D canopy model to vertical mixing and isoprene chemistry",
+      "year": 2012,
+      "citation_raw": "“In-canopy gas-phase chemistry during the 2009 CABINEX field campaign: Sensitivity of a 1D canopy model to vertical mixing and isoprene chemistry,” A. M. Bryan, S. B. Bertman, M. A. Carroll, S. Dusanter, G. D. Edwards, R. Forkel, S. Griffith, A. B. Guenther, R. F. Hansen, D. Helmig, B. T. Jobson, F. N. Keutsch, B. L. Lefer, S. N. Pressley, P. B. Shepson, P. S. Stevens, and A. L. Steiner,* Atmos. Chem. Phys. 12, 8829-8849, doi: 10.5194/acp-12-8829-2012 (2012).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Insights into hydroxyl measurements and the atmospheric oxidation in a California forest",
+      "year": 2012,
+      "citation_raw": "“Insights into hydroxyl measurements and the atmospheric oxidation in a California forest,” J. Mao,* X. Ren, D. M. Van Duin, R. C. Cohen, J.-H. Park, A. H. Goldstein, F. Paulot, M. Beaver, J. D. Crounse, P. O. Wennberg, J. P. DiGangi, S. B. Henry, F.N. Keutsch, C. Park, G. W. Schade, G. M. Wolfe, J. A. Thornton, W. H. Brune Atmos. Chem. Phys. 12, 8009-8020, doi: 10.5194/acp-12-8009-2012 (2012).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Manganoquadratite, AgMnAsS3, a new manganese bearing sulfosalt from the Uchucchacua polymetallic deposit, Lima Department, Peru: Description and crystal structure",
+      "year": 2012,
+      "citation_raw": "“Manganoquadratite, AgMnAsS3, a new manganese bearing sulfosalt from the Uchucchacua polymetallic deposit, Lima Department, Peru: Description and crystal structure,” P. Bonazzi,* F. N. Keutsch, L. Bindi Am. Mineral. 97, 1199-1205, doi: 10.2138/am.2012.4004 (2012).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Photolysis and OH reactivity of a Proxy for Isoprene-derived Hydroperoxyenals",
+      "year": 2012,
+      "citation_raw": "“Photolysis and OH reactivity of a Proxy for Isoprene-derived Hydroperoxyenals” G. M. Wolfe, J. D. Crounse, J. Parrish, J. St. Clair, T. P. Yoon, P. O. Wennberg, F. N. Keutsch* Phys. Chem. Chem. Phys. 14, 7276-7286, doi: 10.1039/c2cp40388a (2012).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Formation and growth of ultrafine particles from secondary sources in Bakersfield",
+      "year": 2012,
+      "citation_raw": "“Formation and growth of ultrafine particles from secondary sources in Bakersfield,” L. Ahlm, S. Liu, D. A. Day, L. M. Russell,* R. Weber, D. R. Gentner, A. H. Goldstein, J. P. DiGangi, S. B. Henry, F. N. Keutsch, T. C. VandenBoer, M. Z. Markovic, J. G. Murphy, M. R. Beaver, S. Scheller, and W. H. Brune J. Geophys. Res. 117, D00V08, doi: 10.1029/2011JD017144 (2012).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Menchettiite, AgPb2.40Mn1.60Sb3As2S12, a new sulfosalt belonging to the lillianite series from the Uchucchacua polymetallic deposit, Lima Department, Peru",
+      "year": 2012,
+      "citation_raw": "“Menchettiite, AgPb2.40Mn1.60Sb3As2S12, a new sulfosalt belonging to the lillianite series from the Uchucchacua polymetallic deposit, Lima Department, Peru,” L. Bindi, F. N. Keutsch, and P. Bonazzi* Am. Mineral., 97, 440-446 doi: 10.2138/am.2012.3944 (2012).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Quantification of gas-phase glyoxal and methylglyoxal via the Laser-Induced Phosphorescence of (methyl)GLyOxal Spectrometry (LIPGLOS) Method",
+      "year": 2012,
+      "citation_raw": "“Quantification of gas-phase glyoxal and methylglyoxal via the Laser-Induced Phosphorescence of (methyl)GLyOxal Spectrometry (LIPGLOS) Method,” S. B. Henry, A. Kammrath, F. N. Keutsch* Atmos. Meas. Tech. 5, 181-192, doi: 10.5194/amt-5-181-2012 (2012).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Observations and Modeling of Formaldehyde at the PROPHET Mixed Hardwood Forest Site in 2008",
+      "year": 2012,
+      "citation_raw": "“Observations and Modeling of Formaldehyde at the PROPHET Mixed Hardwood Forest Site in 2008,” M. M. Galloway, J. P. DiGangi, J. R. Hottle, A. J. Huisman, L. H. Mielke, M. Alaghmand, P. B. Shepson, J. Weremijewicz, H. Klavon, F. M. McNeal, M. A. Carroll, S. Griffith, R. F. Hansen, P. S. Stevens, S. B. Bertman, and F. N. Keutsch* Atmos. Environ. 49, 403-410, doi: 10.1016/j.atmosenv.2011.09.053 (2012).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Yields of oxidized volatile organic compounds during the OH radical initiated oxidation of isoprene, methyl vinyl ketone, and methacrolein under high-NOx conditions",
+      "year": 2011,
+      "citation_raw": "“Yields of oxidized volatile organic compounds during the OH radical initiated oxidation of isoprene, methyl vinyl ketone, and methacrolein under high-NOx conditions,” M. M. Galloway, A. J. Huisman, L. D. Yee, A. W. H. Chan, C. L. Loza, J. H. Seinfeld, F. N. Keutsch* Atmos. Chem. Phys. 11, 10779-10790, doi: 10.5194/acp-11-10779-2011 (2011).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "First direct measurements of formaldehyde flux via eddy covariance: implications for missing in-canopy formaldehyde sources",
+      "year": 2011,
+      "citation_raw": "“First direct measurements of formaldehyde flux via eddy covariance: implications for missing in-canopy formaldehyde sources,” J. P. DiGangi, E. S. Boyle, T. Karl, P. Harley, A. Turnipseed, S. Kim, C. Cantrell, R. L. Mauldin III, W. Zheng, F. Flocke, S. R. Hall, K. Ullmann, Y. Nakashima, J. B. Paul, G. M. Wolfe, A. R. Desai, Y. Kajii, A. Guenther, and F. N. Keutsch* Atmos. Chem. Phys. 11, 10565-10578, doi: 10.5194/acp-11-10565-2011 (2011).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Analysis of photochemical and dark glyoxal uptake: Implications for SOA formation",
+      "year": 2011,
+      "citation_raw": "“Analysis of photochemical and dark glyoxal uptake: Implications for SOA formation,” M. M. Galloway, C. L. Loza, P. S. Chhabra, A. W. H. Chan, L. D. Yee, J. H. Seinfeld, F. N. Keutsch* Geophys. Res. Lett. 38, L17811, doi: 10.1029/2011GL048514 (2011).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Glyoxal in Aqueous Ammonium Sulfate Solutions: Products, Kinetics and Hydration Effects",
+      "year": 2011,
+      "citation_raw": "“Glyoxal in Aqueous Ammonium Sulfate Solutions: Products, Kinetics and Hydration Effects,” G. Yu, A. Bayer, M. M. Galloway, K. J. Korshavn, C. G. Fry, F. N. Keutsch* Environ. Sci. Technol. 45, 6336-6342, doi: 10.1021/es200989n (2011).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Hydroxycarboxylic Acid-Derived Organosulfates: Synthesis, Stability and Quantification in Ambient Aerosol",
+      "year": 2011,
+      "citation_raw": "“Hydroxycarboxylic Acid-Derived Organosulfates: Synthesis, Stability and Quantification in Ambient Aerosol,” C. N. Olson, M. M. Galloway, G. Yu, C. J. Hedmann, M. R. Lockett, T. P. Yoon, E. A. Stone, L. M. Smith, F. N. Keutsch* Environ. Sci. Technol. 45, 6468-6474, doi: 10.1021/es201039p (2011).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Photochemical modeling of glyoxal at a rural site: observations and analysis from BEARPEX 2007",
+      "year": 2011,
+      "citation_raw": "“Photochemical modeling of glyoxal at a rural site: observations and analysis from BEARPEX 2007,” A. J. Huisman, J. R. Hottle, M. M. Galloway, J. P. DiGangi, K. L. Coens, W. Choi, I. C. Faloon, J. B. Gilman, W. C. Kuster, J. de Gouw, N. C. Bouvier-Brown, A. H. Goldstein, B. W. LaFranchi, R. C. Cohen, G. M. Wolfe, J. A. Thornton, K. S. Docherty, D. K. Farmer, M. J. Cubison, J. L. Jimenez, J. Mao, W. Brune, F. N. Keutsch* Atmos. Chem. Phys. 11, 8883-8897, doi: 10.5194/acp-11-8883-2011 (2011).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "The Chemistry of Atmosphere-Forest Exchange (CAFE) Model – Part 2: Application to BEARPEX-2007 observations",
+      "year": 2011,
+      "citation_raw": "“The Chemistry of Atmosphere-Forest Exchange (CAFE) Model – Part 2: Application to BEARPEX-2007 observations,” G. M. Wolfe, J. A. Thornton*, N. C. Bouvier-Brown, A. H. Goldstein, J.-H. Park, M. McKay, D. M. Matross, J. Mao, W. H. Brune, B. W. LaFranchi, E. C. Browne, K.-E. Min, P. J. Wooldridge, R. C. Cohen, J. D. Crounse, I. C. Faloona, J. B. Gilman, W. C. Kuster, J. A. de Gouw, A. Huisman, and F. N. Keutsch Atmos. Chem. Phys. 11, 1269-1294, doi: 10.5194/acp-11-1269-2011 (2011).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Characterization of Vapor Wall Loss in Laboratory Chambers",
+      "year": 2010,
+      "citation_raw": "“Characterization of Vapor Wall Loss in Laboratory Chambers,” C. L. Loza, A. W. H. Chan, M. M. Galloway, F. N. Keutsch, R. C. Flagan, J. H. Seinfeld* Environ. Sci. Technol. 44, 5074-5078, doi: 10.1021/es100727v (2010).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "The Discreditation of Hastite, the Orthorhombic Dimorph of CoSe2, and Observations on Trogtalite, Cubic CoSe2, from the Type Locality",
+      "year": 2009,
+      "citation_raw": "“The Discreditation of Hastite, the Orthorhombic Dimorph of CoSe2, and Observations on Trogtalite, Cubic CoSe2, from the Type Locality,” F. N. Keutsch*, H. J. Förster, C. J. Stanley, and D. Rhede Can. Mineral. 47, 969-976, doi: 10.3749/canmin.47.4.969 (2009).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Photooxidation of 2-Methyl-3-Buten-2-ol (MBO) as a Potential Source of Secondary Organic Aerosol",
+      "year": 2009,
+      "citation_raw": "“Photooxidation of 2-Methyl-3-Buten-2-ol (MBO) as a Potential Source of Secondary Organic Aerosol,” A. W. H. Chan, M. M. Galloway, A. Kwan, P. S. Chhabra, F. N. Keutsch, P. O. Wennberg, R. Flagan, J. H. Seinfeld* Environ. Sci. Technol. 43, 4647-4652, doi: 10.1021/es802560w (2009).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Fettelite, [Ag6As2S7][Ag10HgAs2S8] from Chañarcillo, Chile: Crystal structure, pseudosymmetry, twinning, and revised chemical formula",
+      "year": 2009,
+      "citation_raw": "“Fettelite, [Ag6As2S7][Ag10HgAs2S8] from Chañarcillo, Chile: Crystal structure, pseudosymmetry, twinning, and revised chemical formula,” L. Bindi*, F. N. Keutsch, C. Francis, and S. Menchetti Am. Mineral. 94, 609-615, doi: 10.2138/am.2009.3096 (2009).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "A Laser Induced Fluorescence Based Instrument for In-Situ Measurements of Atmospheric Formaldehyde",
+      "year": 2009,
+      "citation_raw": "“A Laser Induced Fluorescence Based Instrument for In-Situ Measurements of Atmospheric Formaldehyde,” J. R. Hottle, A. J. Huisman, J. P. DiGangi, A. Kammrath, M. M. Galloway, K. L. Coens, F. N. Keutsch* Environ. Sci. Technol. 43, 790-795, doi: 10.1021/es801621f (2009).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Glyoxal uptake on ammonium sulphate seed aerosol: reaction products and reversibility of uptake under dark and irradiated conditions",
+      "year": 2009,
+      "citation_raw": "“Glyoxal uptake on ammonium sulphate seed aerosol: reaction products and reversibility of uptake under dark and irradiated conditions,” M. M. Galloway, P. S. Chhabra, A. W. H. Chan, J. D. Surratt, R. C. Flagan, J. H. Seinfeld, and F. N. Keutsch* Atmos. Chem. Phys. 9, 3331-3345, doi: 10.5194/acp-9-3331-2009 (2009).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Laser-induced phosphorescence for the in situ detection of glyoxal at part per trillion mixing ratios",
+      "year": 2008,
+      "citation_raw": "“Laser-induced phosphorescence for the in situ detection of glyoxal at part per trillion mixing ratios,” A. J. Huisman, J. R. Hottle, K. L. Coens, J. P. DiGangi, M. G. Galloway, A. Kammrath, F. N. Keutsch* Anal. Chem. 80, 5884-5891, doi: 10.1021/ac800407b (2008).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    },
+    {
+      "title": "Metalliferous Paragenesis of the San José mine Oruro, Bolivia",
+      "year": 2008,
+      "citation_raw": "“Metalliferous Paragenesis of the San José mine Oruro, Bolivia,” F. Keutsch* and M. K. de Brodtkorb* J. South Am. Earth Sci. 25, 485-491, doi: 10.1016/j.jsames.2007.12.003 (2008).",
+      "source_url": "https://www.keutschgroup.com/publications"
+    }
+  ]
 }

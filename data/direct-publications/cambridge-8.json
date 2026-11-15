@@ -3,16 +3,10 @@
   "university_key": "cambridge",
   "pi": "Chez Hall",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-12T13:57:39.647Z",
-  "coverage_notes": [
-    "Official profile visited. Publications/lab follow-up pending; no completeness claim.",
-    "Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38",
-    "Research-group route inspected beyond department profile. Whittle Laboratory Research topics followed; author all-years publications still not found. Further discovery pending; stage not marked full_site_attempted."
+  "lab_url": "https://www.eng.cam.ac.uk/profiles/cah1003",
+  "publication_urls": [
+    "https://www.eng.cam.ac.uk/profiles/cah1003"
   ],
-  "status": "partial",
-  "papers": [],
   "visible_txt_path": "/Users/garden/Documents/formyresearch/data/direct-publications/cambridge-8.visible.txt",
   "source_pages": [
     {
@@ -20,5 +14,16 @@
       "captured_at": "2026-11-12T13:57:39.647Z",
       "visible_txt": "/Users/garden/Documents/formyresearch/data/direct-publications/cambridge-8.visible.txt"
     }
-  ]
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Official profile visited. Publications/lab follow-up pending; no completeness claim.",
+    "Discovered Energy, Fluids and Turbomachinery: https://www.eng.cam.ac.uk/node/38",
+    "Research-group route inspected beyond department profile. Whittle Laboratory Research topics followed; author all-years publications still not found. Further discovery pending; stage not marked full_site_attempted."
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "status": "partial",
+  "papers": []
 }

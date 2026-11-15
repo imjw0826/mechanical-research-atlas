@@ -4,12 +4,1956 @@
   "pi": "Samir Mitragotri",
   "lab_name": null,
   "lab_url": "https://www.mitragotrilab.seas.harvard.edu/",
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:51:36.728Z",
-  "coverage_notes": [
+  "publication_urls": [
+    "https://www.mitragotrilab.seas.harvard.edu/publications"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Lab homepage preserved; full publication path not yet resolved.",
     "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Backpack-carrying macrophage immunotherapy for periodontitis",
+      "year": 2024,
+      "citation_raw": "Backpack-carrying macrophage immunotherapy for periodontitis Nakajima, M.; Kapate, N.; Clegg, J.R.; Ikeda-Imafuku, M.; Park, K.S. … Journal of Controlled Release 2024, 377, 315-323.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "An ionic liquid-based adjuvant for modulating cellular and humoral immune responses",
+      "year": 2024,
+      "citation_raw": "An ionic liquid-based adjuvant for modulating cellular and humoral immune responses Goetz, M.J.; Park, K.S.; Joshi, M.; Gottlieb, A.P.; Dowling, D.J.; Mitragotri, S. Journal of Controlled Release 2024, 376, 632-645.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Hydrogels in the clinic: An update",
+      "year": 2024,
+      "citation_raw": "Hydrogels in the clinic: An update Clegg, J.R.; Adebowale, K.; Zhao, Z.; Mitragotri, S. Bioengineering & Translational Medicine 2024, 9 (6), e10680.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Materials for cell surface engineering",
+      "year": 2024,
+      "citation_raw": "Materials for cell surface engineering Adebowale, K.; Liao, R.; Suja, V.C.; Kapate, N.; Lu, A.; Gao, Y.; Mitragotri, S. Advanced Materials 2024, 36 (43), 2210059.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Choline and geranate ionic liquid for subgingival biofilm control",
+      "year": 2024,
+      "citation_raw": "Choline and geranate ionic liquid for subgingival biofilm control Yan, C.; Nakajima, M.; Ikeda-Imafuku, M.; Yanagawa, M.; Hayatsu, M.; Fukuta, T. … International Journal of Pharmaceutics 2024, 662, 124544.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Localization of Intramuscular mRNA Delivery Using Deep Eutectic‐Lipid Nanocomposites",
+      "year": 2024,
+      "citation_raw": "Localization of Intramuscular mRNA Delivery Using Deep Eutectic‐Lipid Nanocomposites Curreri, A.M.; Dunne, M.; Bibbey, M.G.; Kapate, N.; Kim, J.; Mitragotri, S. Advanced Healthcare Materials 2024, 13 (20), 2400327.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Designing drug delivery systems for cell therapy",
+      "year": 2024,
+      "citation_raw": "Designing drug delivery systems for cell therapy Wang, L.L.W.; Gao, Y.; Feng, Z; Mooney, D.J.; Mitragotri, S. Nature Reviews Bioengineering 2024, 1-16.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Vaccine adjuvants for infectious disease in the clinic",
+      "year": 2024,
+      "citation_raw": "Vaccine adjuvants for infectious disease in the clinic Morgan, G.; Thotathil, N.; Zhao, Z.; Mitragotri, S. Bioengineering & Translational Medicine 2024, 9 (4).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Dendritic Cell Immune Modulation via Polyphenol Membrane Coatings",
+      "year": 2024,
+      "citation_raw": "Dendritic Cell Immune Modulation via Polyphenol Membrane Coatings Janes, M.E.; Park, K.S.; Gottlieb, A.P.; Curreri, A.; Adebowale, K.; Kim, J. … ACS Applied Materials & Interfaces 2024.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Polymer Micropatches as B-Cell Engagers",
+      "year": 2024,
+      "citation_raw": "Polymer Micropatches as B-Cell Engagers Prakash, S.; Kumbhojkar, N.; Gottlieb, A.P.; Park, K.S.; Kapate, N.; Mitragotri, S. ACS Applied Materials & Interfaces 2024.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Polymer Backpack‐Loaded Tissue Infiltrating Monocytes for Treating Cancer",
+      "year": 2024,
+      "citation_raw": "Polymer Backpack‐Loaded Tissue Infiltrating Monocytes for Treating Cancer Kapate, N.; Dunne, M.; Gottlieb, A.P.; Mukherji, M.; Suja, V.C.; Prakash, S. … Advanced Healthcare Materials 2024, 2304144.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Vaccine adjuvants for infectious disease in the clinic",
+      "year": 2024,
+      "citation_raw": "Vaccine adjuvants for infectious disease in the clinic Goetz, M.; Thotathil, N.; Zhao, Z.; Mitragotri, S. Bioengineering & Translational Medicine 2024, e10663.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Locoregional drug delivery for cancer therapy: Preclinical progress and clinical translation",
+      "year": 2024,
+      "citation_raw": "Locoregional drug delivery for cancer therapy: Preclinical progress and clinical translation Shaha, S.; Rodrigues, D.; Mitragotri, S. Journal of Controlled Release 2024, 367, 737-767.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Neutrophils bearing adhesive polymer micropatches as a drug-free cancer immunotherapy",
+      "year": 2024,
+      "citation_raw": "Neutrophils bearing adhesive polymer micropatches as a drug-free cancer immunotherapy Kumbhojkar, N.; Prakash, S.; Fukuta, T.; Adu-Berchie, K.; Kapate, N.; An, R. … Nature Biomedical Engineering 2024, 1-14.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Preclinical characterization of macrophage-adhering gadolinium micropatches for MRI contrast after traumatic brain injury in pigs",
+      "year": 2024,
+      "citation_raw": "Preclinical characterization of macrophage-adhering gadolinium micropatches for MRI contrast after traumatic brain injury in pigs Wang, L.L.W.; Gao, Y.; Chandran Suja, V.; Boucher, M.L.; Shaha, S.; Kapate, N. … Science Translational Medicine 2024, 16 (728), eadk5413.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Activated neutrophils: A next generation cellular immunotherapy",
+      "year": 2024,
+      "citation_raw": "Activated neutrophils: A next generation cellular immunotherapy Kumbhojkar, N.; Mitragotri, S. Bioengineering & Translational Medicine 2024, e10704.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Antibody drug conjugates in the clinic",
+      "year": 2024,
+      "citation_raw": "Antibody drug conjugates in the clinic Udofa, E.; Sankholkar, D.; Mitragotri, S; Zhao, Z. Bioengineering & Translational Medicine 2024, e10677",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Hemostats in the clinic",
+      "year": 2024,
+      "citation_raw": "Hemostats in the clinic Joshi, M.; Zhao, Z.; Mitragotri, S. Bioengineering & Translational Medicine 2024, e10673.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Backpack-mediated anti-inflammatory macrophage cell therapy for the treatment of traumatic brain injury",
+      "year": 2024,
+      "citation_raw": "Backpack-mediated anti-inflammatory macrophage cell therapy for the treatment of traumatic brain injury Kapate, N.; Liao, R.; Sodemann, R.L.; Stinson, T.; Prakash, S; Kumbhojkar, N. … PNAS Nexus 2024, 3 (1), pgad434.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Cancer vaccines in the clinic",
+      "year": 2024,
+      "citation_raw": "Cancer vaccines in the clinic Janes, M.E.; Gottlieb, A.P.; Park, K.S.; Zhao, Z.; Mitragotri, S. Bioengineering & Translational Medicine 2024, 9 (1), e10588.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "PEGylated therapeutics in the clinic",
+      "year": 2024,
+      "citation_raw": "PEGylated therapeutics in the clinic Gao, Y.; Joshi, M.; Zhao, Z.; Mitragotri, S. Bioengineering & Translational Medicine 2024, 9 (1), e10600.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transferrin Receptor‐Targeted Nonspherical Microbubbles for Blood–Brain Barrier Sonopermeation",
+      "year": 2023,
+      "citation_raw": "Transferrin Receptor‐Targeted Nonspherical Microbubbles for Blood–Brain Barrier Sonopermeation Dasgupta, A.; Sun, T.; Rama, E.; Motta, A.; Zhang, Y.; Power, C.; Moeckel, D. … Advanced Materials 2023, 35 (52), 2308150.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Dynamics of macrophage tumor infiltration",
+      "year": 2023,
+      "citation_raw": "Dynamics of macrophage tumor infiltration Adebowale, K.; Guerriero, J.L; Mitragotri, S. Applied Physics Reviews 2023, 10 (4).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A biomimetic chip to assess subcutaneous bioavailability of monoclonal antibodies in humans",
+      "year": 2023,
+      "citation_raw": "A biomimetic chip to assess subcutaneous bioavailability of monoclonal antibodies in humans Chandran Suja, V.; Qi, Q.M.; Halloran, K.; Zhang, J.; Shaha, S.; Prakash, S. … PNAS Nexus 2023, 2 (10), pgad317.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Introduction to Cancer Biology 3",
+      "year": 2023,
+      "citation_raw": "Liposomal Therapy Albadawi, H., Mitragotri, S., & Oklu, R. (2023). Introduction to Cancer Biology 3, 436.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Digital therapeutics in the clinic",
+      "year": 2023,
+      "citation_raw": "Digital therapeutics in the clinic Phan, P., Mitragotri, S., & Zhao, Z. (2023). Bioengineering & Translational Medicine, e10536.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A backpack-based myeloid cell therapy for multiple sclerosis",
+      "year": 2023,
+      "citation_raw": "A backpack-based myeloid cell therapy for multiple sclerosis Kapate, N., Dunne, M., Kumbhojkar, N., Prakash, S., Wang, L.L.W., Graveline, A., … (2023). Proceedings of the National Academy of Sciences 120 (17), e2221535120.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A polymer‐based systemic hemostat for managing uncontrolled bleeding",
+      "year": 2023,
+      "citation_raw": "A polymer‐based systemic hemostat for managing uncontrolled bleeding Gao, Y., Ikeda‐Imafuku, M., Zhao, Z., Joshi, M., & Mitragotri, S. (2023). Bioengineering & Translational Medicine, e10516.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Spotlight on Genetic Kidney Diseases: A Call for Drug Delivery and Nanomedicine Solutions",
+      "year": 2023,
+      "citation_raw": "Spotlight on Genetic Kidney Diseases: A Call for Drug Delivery and Nanomedicine Solutions Trac, N., Ashraf, A., Giblin, J., Prakash, S., Mitragotri, S., & Chung, E.J. (2023). ACS Nano 17 (7), 6165-6177.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Nonspherical ultrasound microbubbles",
+      "year": 2023,
+      "citation_raw": "Nonspherical ultrasound microbubbles Dasgupta, A., Sun, T., Palomba, R., Rama, E., Zhang, Y., Power, C., Moeckel, D., … (2023). Proceedings of the National Academy of Sciences 120 (13), e2218847120.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Alzheimer's and Parkinson's disease therapies in the clinic",
+      "year": 2023,
+      "citation_raw": "Alzheimer's and Parkinson's disease therapies in the clinic Chopade, P., Chopade, N., Zhao, Z. M., Mitragotri, S., Liao, R., & Suja, V. C. (2023). Bioengineering & Translational Medicine, 8(1).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "RNA therapeutics in the clinic",
+      "year": 2023,
+      "citation_raw": "RNA therapeutics in the clinic Curreri, A., Sankholkar, D., Mitragotri, S., & Zhao, Z. (2023). Bioengineering & Translational Medicine, 8(1).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Deep Eutectic Solvents for Subcutaneous Delivery of Protein Therapeutics",
+      "year": 2023,
+      "citation_raw": "Deep Eutectic Solvents for Subcutaneous Delivery of Protein Therapeutics Curreri, A.M., Kim, J., Dunne, M., Angsantikul, P., Goetz, M., Gao, Y., & Mitragotri, S. (2023). Advanced Science 10 (7), 2205389.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Engineering of bioactive nanocomplexes on dental floss for targeted gingival therapy",
+      "year": 2023,
+      "citation_raw": "Engineering of bioactive nanocomplexes on dental floss for targeted gingival therapy Nakajima, M., Nakajima, N., Guo, J., & Mitragotri, S. (2023). Bioengineering & Translational Medicine 8 (2), e10452.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ultrasound‐mediated delivery of flexibility‐tunable polymer drug conjugates for treating glioblastoma",
+      "year": 2023,
+      "citation_raw": "Ultrasound‐mediated delivery of flexibility‐tunable polymer drug conjugates for treating glioblastoma Sun, T., Krishnan, V., Pan, D.C., Filippov, S.K., Ravid, S., Sarode, A., Kim, J., … (2023). Bioengineering & Translational Medicine 8 (2), e10408.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Materials for Cell Surface Engineering",
+      "year": 2023,
+      "citation_raw": "Materials for Cell Surface Engineering Adebowale, K., Liao, R., Suja, V.C., Kapate, N., Lu, A., Gao, Y., & Mitragotri, S. (2023). Advanced Materials, 2210059.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Extracellular matrix degrading enzyme with stroma-targeting peptides enhance the penetration of liposomes into tumors",
+      "year": 2022,
+      "citation_raw": "Extracellular matrix degrading enzyme with stroma-targeting peptides enhance the penetration of liposomes into tumors Ikeda-Imafuku, M., Gao, Y. S., Shaha, S., Wang, L. L. W., Park, K. S., Nakajima, M., Adebowale, O., & Mitragotri, S. (2022). Journal of Controlled Release, 352, 1093-1103.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Modularity of RBC hitchhiking with polymeric nanoparticles: testing the limits of non-covalent adsorption",
+      "year": 2022,
+      "citation_raw": "Modularity of RBC hitchhiking with polymeric nanoparticles: testing the limits of non-covalent adsorption Lenders, V., Escudero, R., Koutsoumpou, X., Alvarez, L. A., Rozenski, J., Soenen, S. J., Zhao, Z. M., Mitragotri, S., Baatsen, P., Allegaert, K., Toelen, J., & Manshian, B. B. (2022). Journal of Nanobiotechnology, 20(1).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Engineering of bioactive nanocomplexes on dental floss for targeted gingival therapy",
+      "year": 2022,
+      "citation_raw": "Engineering of bioactive nanocomplexes on dental floss for targeted gingival therapy Nakajima, M., Nakajima, N., Guo, J. L., & Mitragotri, S. (2022). Bioengineering & Translational Medicine.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A Long-Lasting Skin Protectant Based on CG-101, a Deep Eutectic Solvent Comprising Choline and Geranic Acid",
+      "year": 2022,
+      "citation_raw": "A Long-Lasting Skin Protectant Based on CG-101, a Deep Eutectic Solvent Comprising Choline and Geranic Acid Shevachman, M., Mandal, A., Gelston, K., Mitragotri, S., & Joshi, N. (2022). Global Challenges, 6(11).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ultrasound-mediated delivery of flexibility-tunable polymer drug conjugates for treating glioblastoma",
+      "year": 2022,
+      "citation_raw": "Ultrasound-mediated delivery of flexibility-tunable polymer drug conjugates for treating glioblastoma Sun, T., Krishnan, V., Pan, D. C., Filippov, S. K., Ravid, S., Sarode, A., Kim, J., Zhang, Y. Z., Power, C., Aday, S., Guo, J. L., Karp, J. M., McDannold, N. J., & Mitragotri, S. S. (2022). Bioengineering & Translational Medicine.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Red Blood Cell Anchoring Enables Targeted Transduction and Re-Administration of AAV-Mediated Gene Therapy",
+      "year": 2022,
+      "citation_raw": "Red Blood Cell Anchoring Enables Targeted Transduction and Re-Administration of AAV-Mediated Gene Therapy Zhao, Z. M., Kim, J., Suja, V. C., Kapate, N., Gao, Y. S., Guo, J. L., Muzykantov, V. R., & Mitragotri, S. (2022). Advanced Science, 9(24).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ionic Liquid-Mediated Transdermal Delivery of Thrombosis-Detecting Nanosensors",
+      "year": 2022,
+      "citation_raw": "Ionic Liquid-Mediated Transdermal Delivery of Thrombosis-Detecting Nanosensors Bekdemir, A., Tanner, E. E. L., Kirkpatrick, J., Soleimany, A. P., Mitragotri, S., & Bhatia, S. N. (2022). Adv Healthc Mater, e2102685.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Particle Shape Engineering for Improving Safety and Efficacy of Doxorubicin - a Case Study of Rod-Shaped Carriers in Resistant Small Cell Lung Cancer",
+      "year": 2022,
+      "citation_raw": "Particle Shape Engineering for Improving Safety and Efficacy of Doxorubicin - a Case Study of Rod-Shaped Carriers in Resistant Small Cell Lung Cancer Shukla, S. K., A. Sarode, X. Wang, S. Mitragotri, and V. Gupta. Biomater Adv 137 (Jun 2022): 212850.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Viral vector-based gene therapies in the clinic",
+      "year": 2022,
+      "citation_raw": "Viral vector-based gene therapies in the clinic Zhao, Z.; Anselmo, A. C.; Mitragotri, S. Bioeng Transl Med 2022, 7 (1), e10258.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Imiquimod-gemcitabine nanoparticles harness immune cells to suppress breast cancer",
+      "year": 2022,
+      "citation_raw": "Imiquimod-gemcitabine nanoparticles harness immune cells to suppress breast cancer Singh, B.; Maharjan, S.; Pan, D. C.; Zhao, Z.; Gao, Y.; Zhang, Y. S.; Mitragotri, S. Biomaterials 2022, 280, 121302.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Hyaluronic Acid Nanoparticles for Immunogenic Chemotherapy of Leukemia and T-Cell Lymphoma",
+      "year": 2022,
+      "citation_raw": "Hyaluronic Acid Nanoparticles for Immunogenic Chemotherapy of Leukemia and T-Cell Lymphoma Krishnan, V.; Dharamdasani, V.; Bakre, S.; Dhole, V.; Wu, D.; Budnik, B.; Mitragotri, S. Pharmaceutics 2022, 14 (2).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A deep eutectic-based, self-emulsifying subcutaneous depot system for apomorphine therapy in Parkinson's disease",
+      "year": 2022,
+      "citation_raw": "A deep eutectic-based, self-emulsifying subcutaneous depot system for apomorphine therapy in Parkinson's disease Kim, J.; Gao, Y.; Zhao, Z.; Rodrigues, D.; Tanner, E. E. L.; Ibsen, K.; Sasmal, P. K.; Jaladi, R.; Alikunju, S.; Mitragotri, S. Proc Natl Acad Sci U S A 2022, 119 (9).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Differential Macrophage Responses to Gold Nanostars and Their Implication for Cancer Immunotherapy",
+      "year": 2022,
+      "citation_raw": "Differential Macrophage Responses to Gold Nanostars and Their Implication for Cancer Immunotherapy Kenry; Eschle, B. K.; Andreiuk, B.; Gokhale, P. C.; Mitragotri, S. Adv Ther-Germany 2022, 5 (3).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Nanoparticle Properties Influence Transendothelial Migration of Monocytes",
+      "year": 2022,
+      "citation_raw": "Nanoparticle Properties Influence Transendothelial Migration of Monocytes Habibi, N.; Brown, T. D.; Adu-Berchie, K.; Christau, S.; Raymond, J. E.; Mooney, D. J.; Mitragotri, S.; Lahann, J. Langmuir 2022.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Injectable hyaluronic acid hydrogels encapsulating drug nanocrystals for long-term treatment of inflammatory arthritis",
+      "year": 2022,
+      "citation_raw": "Injectable hyaluronic acid hydrogels encapsulating drug nanocrystals for long-term treatment of inflammatory arthritis Gao, Y.; Vogus, D.; Zhao, Z.; He, W.; Krishnan, V.; Kim, J.; Shi, Y.; Sarode, A.; Ukidve, A.; Mitragotri, S. Bioeng Transl Med 2022, 7 (1), e10245.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Dual Affinity to RBCs and Target Cells (DART) Enhances Both Organ-and Cell Type-Targeting of Intravascular Nanocarriers",
+      "year": 2022,
+      "citation_raw": "Dual Affinity to RBCs and Target Cells (DART) Enhances Both Organ-and Cell Type-Targeting of Intravascular Nanocarriers Ferguson, L. T., Hood, E. D., Shuvaeva, T., Shuvaev, V. V., Basil, M. C., Wang, Z. C., Nong, J., Ma, X. N., Wu, J. C., Myerson, J. W., Marcos-Contreras, O. A., Katzen, J., Carl, J. M., Morrisey, E. E., Cantu, E., Villa, C. H., Mitragotri, S., Muzykantov, V. R., & Brenner, J. S. (2022). ACS Nano, 16(3), 4666-4683.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Systemic tumour suppression via the preferential accumulation of erythrocyte-anchored chemokine-encapsulating nanoparticles in lung metastases",
+      "year": 2021,
+      "citation_raw": "Systemic tumour suppression via the preferential accumulation of erythrocyte-anchored chemokine-encapsulating nanoparticles in lung metastases Zhao, Z.; Ukidve, A.; Krishnan, V.; Fehnel, A.; Pan, D. C.; Gao, Y.; Kim, J.; Evans, M. A.; Mandal, A.; Guo, J.; et al. Nat Biomed Eng 2021, 5 (5), 441-454.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ionic Liquid-Enabled Topical Delivery of Immunomodulators",
+      "year": 2021,
+      "citation_raw": "Ionic Liquid-Enabled Topical Delivery of Immunomodulators Zhao, Z.; Tanner, E. E. L.; Kim, J.; Ibsen, K.; Gao, Y.; Mitragotri, S. ACS Biomater Sci Eng 2021, 7 (6), 2783-2790.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Gemcitabine and doxorubicin in immunostimulatory monophosphoryl lipid A liposomes for treating breast cancer",
+      "year": 2021,
+      "citation_raw": "Gemcitabine and doxorubicin in immunostimulatory monophosphoryl lipid A liposomes for treating breast cancer Wu, D.; Zhao, Z.; Kim, J.; Razmi, A.; Wang, L. L.; Kapate, N.; Gao, Y.; Peng, K.; Ukidve, A.; Mitragotri, S. Bioeng Transl Med 2021, 6 (1), e10188.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Optimized 5-Fluorouridine Prodrug for Co-Loading with Doxorubicin in Clinically Relevant Liposomes",
+      "year": 2021,
+      "citation_raw": "Optimized 5-Fluorouridine Prodrug for Co-Loading with Doxorubicin in Clinically Relevant Liposomes Wu, D.; Vogus, D.; Krishnan, V.; Broto, M.; Pusuluri, A.; Zhao, Z.; Kapate, N.; Mitragotri, S. Pharmaceutics 2021, 13 (1).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Cell therapies in the clinic",
+      "year": 2021,
+      "citation_raw": "Cell therapies in the clinic Wang, L. L.; Janes, M. E.; Kumbhojkar, N.; Kapate, N.; Clegg, J. R.; Prakash, S.; Heavey, M. K.; Zhao, Z.; Anselmo, A. C.; Mitragotri, S. Bioeng Transl Med 2021, 6 (2), e10214.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "The evolution of commercial drug delivery technologies",
+      "year": 2021,
+      "citation_raw": "The evolution of commercial drug delivery technologies Vargason, A. M.; Anselmo, A. C.; Mitragotri, S. Nat Biomed Eng 2021, 5 (9), 951-967.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Overcoming biological barriers to improve solid tumor immunotherapy",
+      "year": 2021,
+      "citation_raw": "Overcoming biological barriers to improve solid tumor immunotherapy Ukidve, A.; Cu, K.; Kumbhojkar, N.; Lahann, J.; Mitragotri, S. Drug Deliv Transl Res 2021, 11 (6), 2276-2301.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Bioinspired particle engineering for non-invasive inhaled drug delivery to the lungs",
+      "year": 2021,
+      "citation_raw": "Bioinspired particle engineering for non-invasive inhaled drug delivery to the lungs Shukla, S. K.; Sarode, A.; Kanabar, D. D.; Muth, A.; Kunda, N. K.; Mitragotri, S.; Gupta, V. Mater Sci Eng C Mater Biol Appl 2021, 128, 112324.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Enhancement of Anticancer Efficacy and Tumor Penetration of Sorafenib by Ionic Liquids",
+      "year": 2021,
+      "citation_raw": "Enhancement of Anticancer Efficacy and Tumor Penetration of Sorafenib by Ionic Liquids Shi, Y.; Zhao, Z.; Peng, K.; Gao, Y.; Wu, D.; Kim, J.; Mitragotri, S. Adv Healthc Mater 2021, 10 (2), e2001455.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A dual macrophage polarizer conjugate for synergistic melanoma therapy",
+      "year": 2021,
+      "citation_raw": "A dual macrophage polarizer conjugate for synergistic melanoma therapy Sallam, M. A.; Wyatt Shields Iv, C.; Prakash, S.; Kim, J.; Pan, D. C.; Mitragotri, S. J Control Release 2021, 335, 333-344.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Formulation-based approaches for dermal delivery of vaccines and therapeutic nucleic acids: Recent advances and future perspectives",
+      "year": 2021,
+      "citation_raw": "Formulation-based approaches for dermal delivery of vaccines and therapeutic nucleic acids: Recent advances and future perspectives Sallam, M. A.; Prakash, S.; Kumbhojkar, N.; Shields, C. W. t.; Mitragotri, S. Bioeng Transl Med 2021, 6 (3), e10215.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Modulation of Gastrointestinal Mucus Properties with Ionic Liquids for Drug Delivery",
+      "year": 2021,
+      "citation_raw": "Modulation of Gastrointestinal Mucus Properties with Ionic Liquids for Drug Delivery Peng, K.; Gao, Y.; Angsantikul, P.; LaBarbiera, A.; Goetz, M.; Curreri, A. M.; Rodrigues, D.; Tanner, E. E. L.; Mitragotri, S. Adv Healthc Mater 2021, 10 (13), e2002192.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Hyaluronic acid-doxorubicin nanoparticles for targeted treatment of colorectal cancer",
+      "year": 2021,
+      "citation_raw": "Hyaluronic acid-doxorubicin nanoparticles for targeted treatment of colorectal cancer Pan, D. C.; Krishnan, V.; Salinas, A. K.; Kim, J.; Sun, T.; Ravid, S.; Peng, K.; Wu, D.; Nurunnabi, M.; Nelson, J. A.; et al. Bioeng Transl Med 2021, 6 (1), e10166.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Topical treatment of periodontitis using an iongel",
+      "year": 2021,
+      "citation_raw": "Topical treatment of periodontitis using an iongel Nakajima, M.; Tanner, E. E. L.; Nakajima, N.; Ibsen, K. N.; Mitragotri, S. Biomaterials 2021, 276, 121069.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Noninvasive Assessment of Epidermal Genomic Markers of UV Exposure in Skin",
+      "year": 2021,
+      "citation_raw": "Noninvasive Assessment of Epidermal Genomic Markers of UV Exposure in Skin Muradova, E.; Patel, N.; Sell, B.; Bittencourt, B. B.; Ojeda, S. S.; Adelmann, C. H.; Cen, L.; Cheng, C. H.; Shen, J.; Davis, C. M.; et al. J Invest Dermatol 2021, 141 (1), 124-131 e122.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Enhancement of elastin expression by transdermal administration of sialidase isozyme Neu2",
+      "year": 2021,
+      "citation_raw": "Enhancement of elastin expression by transdermal administration of sialidase isozyme Neu2 Minami, A.; Fujita, Y.; Goto, J.; Iuchi, A.; Fujita, K.; Mikami, Y.; Shiratori, M.; Ishii, A.; Mitragotri, S.; Iwao, Y.; et al. Sci Rep 2021, 11 (1), 3302.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Hyaluronic acid conjugates for topical treatment of skin cancer lesions",
+      "year": 2021,
+      "citation_raw": "Hyaluronic acid conjugates for topical treatment of skin cancer lesions Krishnan, V.; Peng, K.; Sarode, A.; Prakash, S.; Zhao, Z.; Filippov, S. K.; Todorova, K.; Sell, B. R.; Lujano, O.; Bakre, S.; et al. Sci Adv 2021, 7 (24).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Clinical translation of choline and geranic acid deep eutectic solvent",
+      "year": 2021,
+      "citation_raw": "Clinical translation of choline and geranic acid deep eutectic solvent Ko, J.; Mandal, A.; Dhawan, S.; Shevachman, M.; Mitragotri, S.; Joshi, N. Bioeng Transl Med 2021, 6 (2), e10191.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A Deep Eutectic Solvent-Based Approach to Intravenous Formulation",
+      "year": 2021,
+      "citation_raw": "A Deep Eutectic Solvent-Based Approach to Intravenous Formulation Kim, J.; Shi, Y.; Kwon, C. J.; Gao, Y.; Mitragotri, S. Adv Healthc Mater 2021, 10 (18), e2100585.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Non-spherical micro- and nanoparticles for drug delivery: Progress over 15 years",
+      "year": 2021,
+      "citation_raw": "Non-spherical micro- and nanoparticles for drug delivery: Progress over 15 years Kapate, N.; Clegg, J. R.; Mitragotri, S. Adv Drug Deliv Rev 2021, 177, 113807.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Red blood cells: The metamorphosis of a neglected carrier into the natural mothership for artificial nanocarriers",
+      "year": 2021,
+      "citation_raw": "Red blood cells: The metamorphosis of a neglected carrier into the natural mothership for artificial nanocarriers Glassman, P. M.; Hood, E. D.; Ferguson, L. T.; Zhao, Z.; Siegel, D. L.; Mitragotri, S.; Brenner, J. S.; Muzykantov, V. R. Adv Drug Deliv Rev 2021, 178, 113992.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Covalently Crosslinked Hydrogels via Step-Growth Reactions: Crosslinking Chemistries, Polymers, and Clinical Impact",
+      "year": 2021,
+      "citation_raw": "Covalently Crosslinked Hydrogels via Step-Growth Reactions: Crosslinking Chemistries, Polymers, and Clinical Impact Gao, Y.; Peng, K.; Mitragotri, S. Adv Mater 2021, 33 (25), e2006362.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Recent Advances in Ionic Liquids in Biomedicine",
+      "year": 2021,
+      "citation_raw": "Recent Advances in Ionic Liquids in Biomedicine Curreri, A. M.; Mitragotri, S.; Tanner, E. E. L. Adv Sci (Weinh) 2021, 8 (17), e2004819.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Red Blood Cell Hitchhiking: A Novel Approach for Vascular Delivery of Nanocarriers",
+      "year": 2021,
+      "citation_raw": "Red Blood Cell Hitchhiking: A Novel Approach for Vascular Delivery of Nanocarriers Brenner, J. S.; Mitragotri, S.; Muzykantov, V. R. Annu Rev Biomed Eng 2021, 23, 225-248.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Nanoparticles in the clinic: An update post COVID-19 vaccines",
+      "year": 2021,
+      "citation_raw": "Nanoparticles in the clinic: An update post COVID-19 vaccines Anselmo, A. C.; Mitragotri, S. Bioeng Transl Med 2021, e10246.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ionic Liquids and Deep Eutectic Solvents for Enhanced Delivery of Antibodies in the Gastrointestinal Tract",
+      "year": 2021,
+      "citation_raw": "Ionic Liquids and Deep Eutectic Solvents for Enhanced Delivery of Antibodies in the Gastrointestinal Tract Angsantikul, P., Peng, K. V., Curreri, A. M., Chua, Y., Chen, K. V. Z., Ehondor, J., & Mitragotri, S. (2021). Advanced Functional Materials, 31(44).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Percutaneous liquid ablation agent for tumor treatment and drug delivery",
+      "year": 2021,
+      "citation_raw": "Percutaneous liquid ablation agent for tumor treatment and drug delivery Albadawi, H.; Zhang, Z.; Altun, I.; Hu, J.; Jamal, L.; Ibsen, K. N.; Tanner, E. E. L.; Mitragotri, S.; Oklu, R. Sci Transl Med 2021, 13 (580).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Targeting Strategies for Tissue-Specific Drug Delivery",
+      "year": 2020,
+      "citation_raw": "Targeting Strategies for Tissue-Specific Drug Delivery Zhao, Z.; Ukidve, A.; Kim, J.; Mitragotri, S. Cell 2020, 181 (1), 151-167.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Engineering of Living Cells with Polyphenol-Functionalized Biologically Active Nanocomplexes",
+      "year": 2020,
+      "citation_raw": "Engineering of Living Cells with Polyphenol-Functionalized Biologically Active Nanocomplexes Zhao, Z.; Pan, D. C.; Qi, Q. M.; Kim, J.; Kapate, N.; Sun, T.; Shields, C. W. t.; Wang, L. L.; Wu, D.; Kwon, C. J.; et al. Adv Mater 2020, 32 (49), e2003492.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Topical Application of Exosomes Derived from Human Umbilical Cord Mesenchymal Stem Cells in Combination with Sponge Spicules for Treatment of Photoaging",
+      "year": 2020,
+      "citation_raw": "Topical Application of Exosomes Derived from Human Umbilical Cord Mesenchymal Stem Cells in Combination with Sponge Spicules for Treatment of Photoaging Zhang, K.; Yu, L.; Li, F. R.; Li, X.; Wang, Z.; Zou, X.; Zhang, C.; Lv, K.; Zhou, B.; Mitragotri, S.; et al. Int J Nanomedicine 2020, 15, 2859-2872.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Design principles of drug combinations for chemotherapy",
+      "year": 2020,
+      "citation_raw": "Design principles of drug combinations for chemotherapy Wu, D.; Pusuluri, A.; Vogus, D.; Krishnan, V.; Shields, C. W. t.; Kim, J.; Razmi, A.; Mitragotri, S. J Control Release 2020, 323, 36-46.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Development of inhalable quinacrine loaded bovine serum albumin modified cationic nanoparticles: Repurposing quinacrine for lung cancer therapeutics",
+      "year": 2020,
+      "citation_raw": "Development of inhalable quinacrine loaded bovine serum albumin modified cationic nanoparticles: Repurposing quinacrine for lung cancer therapeutics Vaidya, B.; Kulkarni, N. S.; Shukla, S. K.; Parvathaneni, V.; Chauhan, G.; Damon, J. K.; Sarode, A.; Garcia, J. V.; Kunda, N.; Mitragotri, S.; et al. Int J Pharm 2020, 577, 118995.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ionic liquid-mediated delivery of insulin to buccal mucosa",
+      "year": 2020,
+      "citation_raw": "Ionic liquid-mediated delivery of insulin to buccal mucosa Vaidya, A.; Mitragotri, S. J Control Release 2020, 327, 26-34.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Erythrocyte-driven immunization via biomimicry of their natural antigen-presenting function",
+      "year": 2020,
+      "citation_raw": "Erythrocyte-driven immunization via biomimicry of their natural antigen-presenting function Ukidve, A.; Zhao, Z.; Fehnel, A.; Krishnan, V.; Pan, D. C.; Gao, Y.; Mandal, A.; Muzykantov, V.; Mitragotri, S. Proc Natl Acad Sci U S A 2020, 117 (30), 17727-17736.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ionic-Liquid-Based Safe Adjuvants",
+      "year": 2020,
+      "citation_raw": "Ionic-Liquid-Based Safe Adjuvants Ukidve, A.; Cu, K.; Goetz, M.; Angsantikul, P.; Curreri, A.; Tanner, E. E. L.; Lahann, J.; Mitragotri, S. Adv Mater 2020, 32 (46), e2002990.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Stabilization and Topical Skin Delivery of Framework Nucleic Acids using Ionic Liquids",
+      "year": 2020,
+      "citation_raw": "Stabilization and Topical Skin Delivery of Framework Nucleic Acids using Ionic Liquids Tanner, E. E. L.; Wiraja, C.; Curreri, C. A.; Xu, C. J.; Mitragotri, S. Adv Ther-Germany 2020, 3 (7).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Physical triggering strategies for drug delivery",
+      "year": 2020,
+      "citation_raw": "Physical triggering strategies for drug delivery Sun, T.; Dasgupta, A.; Zhao, Z.; Nurunnabi, M.; Mitragotri, S. Adv Drug Deliv Rev 2020, 158, 36-62.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Harnessing cells to deliver nanoparticle drugs to treat cancer",
+      "year": 2020,
+      "citation_raw": "Harnessing cells to deliver nanoparticle drugs to treat cancer Singh, B.; Mitragotri, S. Biotechnol Adv 2020, 42, 107339.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Materials for Immunotherapy",
+      "year": 2020,
+      "citation_raw": "Materials for Immunotherapy Shields, C. W. t.; Wang, L. L.; Evans, M. A.; Mitragotri, S. Adv Mater 2020, 32 (13), e1901633.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Cellular backpacks for macrophage immunotherapy",
+      "year": 2020,
+      "citation_raw": "Cellular backpacks for macrophage immunotherapy Shields, C. W. t.; Evans, M. A.; Wang, L. L.; Baugh, N.; Iyer, S.; Wu, D.; Zhao, Z.; Pusuluri, A.; Ukidve, A.; Pan, D. C.; et al. Sci Adv 2020, 6 (18), eaaz6579.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Oral delivery of sorafenib through spontaneous formation of ionic liquid nanocomplexes",
+      "year": 2020,
+      "citation_raw": "Oral delivery of sorafenib through spontaneous formation of ionic liquid nanocomplexes Shi, Y.; Zhao, Z.; Gao, Y.; Pan, D. C.; Salinas, A. K.; Tanner, E. E. L.; Guo, J.; Mitragotri, S. J Control Release 2020, 322, 602-609.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Layered self-assemblies for controlled drug delivery: A translational overview",
+      "year": 2020,
+      "citation_raw": "Layered self-assemblies for controlled drug delivery: A translational overview Sarode, A.; Annapragada, A.; Guo, J.; Mitragotri, S. Biomaterials 2020, 242, 119929.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Hyaluronic Acid Conjugates of Vorinostat and Bexarotene for Treatment of Cutaneous Malignancies",
+      "year": 2020,
+      "citation_raw": "Hyaluronic Acid Conjugates of Vorinostat and Bexarotene for Treatment of Cutaneous Malignancies Sallam, M. A., Prakash, S., Krishnan, V., Todorova, K., Mandinova, A., & Mitragotri, S. (2020). Advanced Therapeutics, 3(10).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Multifunctional Synthetic Protein Nanoparticles via Reactive Electrojetting",
+      "year": 2020,
+      "citation_raw": "Multifunctional Synthetic Protein Nanoparticles via Reactive Electrojetting Quevedo, D. F.; Habibi, N.; Gregory, J. V.; Hernandez, Y.; Brown, T. D.; Miki, R.; Plummer, B. N.; Rahmani, S.; Raymond, J. E.; Mitragotri, S.; et al. Macromol Rapid Commun 2020, 41 (23), e2000425.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Reply to Peiretti et al.: Effect of CAGE on fat uptake and food intake",
+      "year": 2020,
+      "citation_raw": "Reply to Peiretti et al.: Effect of CAGE on fat uptake and food intake Nurunnabi, M.; Ibsen, K. N.; Tanner, E. E. L.; Mitragotri, S. Proc Natl Acad Sci U S A 2020, 117 (15), 8249.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "shape, and flexibility influence nanoparticle transport across brain endothelium under flow",
+      "year": 2020,
+      "citation_raw": "Size, shape, and flexibility influence nanoparticle transport across brain endothelium under flow Nowak, M.; Brown, T. D.; Graham, A.; Helgeson, M. E.; Mitragotri, S. Bioeng Transl Med 2020, 5 (2), e10153.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "The Future is Bright",
+      "year": 2020,
+      "citation_raw": "The Future is Bright Mitragotri, S.; Anselmo, A. C. BioTM Buzz (Volume 5, Issue 3): Bioeng Transl Med 2020, 5 (3), e10185.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Treatment of psoriasis with NFKBIZ siRNA using topical ionic liquid formulations",
+      "year": 2020,
+      "citation_raw": "Treatment of psoriasis with NFKBIZ siRNA using topical ionic liquid formulations Mandal, A.; Kumbhojkar, N.; Reilly, C.; Dharamdasani, V.; Ukidve, A.; Ingber, D. E.; Mitragotri, S. Sci Adv 2020, 6 (30), eabb6049.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Hydrogels in the clinic",
+      "year": 2020,
+      "citation_raw": "Hydrogels in the clinic Mandal, A.; Clegg, J. R.; Anselmo, A. C.; Mitragotri, S. Bioeng Transl Med 2020, 5 (2), e10158.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Coupled influences of particle shape, surface property and flow hydrodynamics on rod-shaped colloid transport in porous media",
+      "year": 2020,
+      "citation_raw": "Coupled influences of particle shape, surface property and flow hydrodynamics on rod-shaped colloid transport in porous media Ma, H.; Bolster, C.; Johnson, W. P.; Li, K.; Pazmino, E.; Camacho, K. M.; Anselmo, A. C.; Mitragotri, S. e J Colloid InterfacSci 2020, 577, 471-480.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Correlations Between Skin Barrier Integrity and Delivery of Hydrophilic Molecules in the Presence of Penetration Enhancers",
+      "year": 2020,
+      "citation_raw": "Correlations Between Skin Barrier Integrity and Delivery of Hydrophilic Molecules in the Presence of Penetration Enhancers Lin, X.; Wang, Z.; Ou, H.; Mitragotri, S.; Chen, M. Pharm Res 2020, 37 (6), 100.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Skin Delivery of siRNA Using Sponge Spicules in Combination with Cationic Flexible Liposomes",
+      "year": 2020,
+      "citation_raw": "Skin Delivery of siRNA Using Sponge Spicules in Combination with Cationic Flexible Liposomes Liang, X.; Zhang, J.; Ou, H.; Chen, J.; Mitragotri, S.; Chen, M. Mol Ther Nucleic Acids 2020, 20, 639-648.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Nanoparticles for topical drug delivery: Potential for skin cancer treatment",
+      "year": 2020,
+      "citation_raw": "Nanoparticles for topical drug delivery: Potential for skin cancer treatment Krishnan, V.; Mitragotri, S. Adv Drug Deliv Rev 2020, 153, 87-108.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "The Search for Antifungal Prophylaxis After Artificial Corneal Surgery-An In Vitro Study",
+      "year": 2020,
+      "citation_raw": "The Search for Antifungal Prophylaxis After Artificial Corneal Surgery-An In Vitro Study Kim, S.; Bispo, P. J. M.; Tanner, E. E. L.; Mitragotri, S.; RN, E. S.; Gipson, I.; Chodosh, J.; Behlau, I.; Paschalis, E. I.; Gilmore, M. S.; et al. Cornea 2020, 39 (12), 1547-1555.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Drug delivery to macrophages: A review of targeting drugs and drug carriers to macrophages for inflammatory diseases",
+      "year": 2020,
+      "citation_raw": "Drug delivery to macrophages: A review of targeting drugs and drug carriers to macrophages for inflammatory diseases He, W.; Kapate, N.; Shields, C. W. t.; Mitragotri, S. Adv Drug Deliv Rev 2020, 165-166, 15-40.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Author Correction: Transdermal delivery of nobiletin using ionic liquids",
+      "year": 2020,
+      "citation_raw": "Author Correction: Transdermal delivery of nobiletin using ionic liquids Hattori, T.; Tagawa, H.; Inai, M.; Kan, T.; Kimura, S. I.; Itai, S.; Mitragotri, S.; Iwao, Y. Sci Rep 2020, 10 (1), 3967.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Protein-avoidant ionic liquid (PAIL)-coated nanoparticles to increase bloodstream circulation and drive biodistribution",
+      "year": 2020,
+      "citation_raw": "Protein-avoidant ionic liquid (PAIL)-coated nanoparticles to increase bloodstream circulation and drive biodistribution Hamadani, C. M.; Goetz, M. J.; Mitragotri, S.; Tanner, E. E. L. Sci Adv 2020, 6 (48).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Molecular mechanism of the skin permeation enhancing effect of ethanol: a molecular dynamics study",
+      "year": 2020,
+      "citation_raw": "Molecular mechanism of the skin permeation enhancing effect of ethanol: a molecular dynamics study Gupta, R.; Badhe, Y.; Rai, B.; Mitragotri, S. RSC Adv 2020, 10 (21), 12234-12248.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Permeation of nanoparticles across the intestinal lipid membrane: dependence on shape and surface chemistry studied through molecular simulations",
+      "year": 2020,
+      "citation_raw": "Permeation of nanoparticles across the intestinal lipid membrane: dependence on shape and surface chemistry studied through molecular simulations Gupta, R.; Badhe, Y.; Mitragotri, S.; Rai, B. Nanoscale 2020, 12 (11), 6318-6333.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Programmable Delivery of Synergistic Cancer Drug Combinations Using Bicompartmental Nanoparticles",
+      "year": 2020,
+      "citation_raw": "Programmable Delivery of Synergistic Cancer Drug Combinations Using Bicompartmental Nanoparticles Gregory, J. V.; Vogus, D. R.; Barajas, A.; Cadena, M. A.; Mitragotri, S.; Lahann, J. Adv Healthc Mater 2020, 9 (21), e2000564.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Vascular Drug Delivery Using Carrier Red Blood Cells: Focus on RBC Surface Loading and Pharmacokinetics",
+      "year": 2020,
+      "citation_raw": "Vascular Drug Delivery Using Carrier Red Blood Cells: Focus on RBC Surface Loading and Pharmacokinetics Glassman, P. M.; Villa, C. H.; Ukidve, A.; Zhao, Z.; Smith, P.; Mitragotri, S.; Russell, A. J.; Brenner, J. S.; Muzykantov, V. R. Pharmaceutics 2020, 12 (5).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A polymer-based systemic hemostatic agent",
+      "year": 2020,
+      "citation_raw": "A polymer-based systemic hemostatic agent Gao, Y.; Sarode, A.; Kokoroskos, N.; Ukidve, A.; Zhao, Z.; Guo, S.; Flaumenhaft, R.; Gupta, A. S.; Saillant, N.; Mitragotri, S. Sci Adv 2020, 6 (31), eaba0588.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Investigating the potential use of an ionic liquid (1-Butyl-1-methylpyrrolidinium bis(trifluoromethylsulfonyl)imide) as an anti-fungal treatment against the amphibian chytrid fungus, Batrachochytrium dendrobatidis",
+      "year": 2020,
+      "citation_raw": "Investigating the potential use of an ionic liquid (1-Butyl-1-methylpyrrolidinium bis(trifluoromethylsulfonyl)imide) as an anti-fungal treatment against the amphibian chytrid fungus, Batrachochytrium dendrobatidis DiRenzo, G. V.; Chen, R.; Ibsen, K.; Toothman, M.; Miller, A. J.; Gershman, A.; Mitragotri, S.; Briggs, C. J. PLoS One 2020, 15 (4), e0231811.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Topical delivery of siRNA into skin using ionic liquids",
+      "year": 2020,
+      "citation_raw": "Topical delivery of siRNA into skin using ionic liquids Dharamdasani, V.; Mandal, A.; Qi, Q. M.; Suzuki, I.; Bentley, M.; Mitragotri, S. J Control Release 2020, 323, 475-482.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Delivery Strategies for Skin: Comparison of Nanoliter Jets, Needles and Topical Solutions",
+      "year": 2020,
+      "citation_raw": "Delivery Strategies for Skin: Comparison of Nanoliter Jets, Needles and Topical Solutions Cu, K.; Bansal, R.; Mitragotri, S.; Fernandez Rivas, D. Ann Biomed Eng 2020, 48 (7), 2028-2039.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Effect of Nanoparticle Composition, Size, Shape, and Stiffness on Penetration Across the Blood-Brain Barrier",
+      "year": 2020,
+      "citation_raw": "Effect of Nanoparticle Composition, Size, Shape, and Stiffness on Penetration Across the Blood-Brain Barrier Brown, T. D.; Habibi, N.; Wu, D.; Lahann, J.; Mitragotri, S. ACS Biomater Sci Eng 2020, 6 (9), 4916-4928.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Amphiphilic Polyacrylamide Excipients Lead to a Record-Breaking Fast-Acting Insulin",
+      "year": 2020,
+      "citation_raw": "Amphiphilic Polyacrylamide Excipients Lead to a Record-Breaking Fast-Acting Insulin Angsantikul, P.; Mitragotri, S. Trends Pharmacol Sci 2020, 41 (10), 681-684.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Effect of physicochemical and surface properties on in vivo fate of drug nanocarriers",
+      "year": 2019,
+      "citation_raw": "Effect of physicochemical and surface properties on in vivo fate of drug nanocarriers Zhao, Z.; Ukidve, A.; Krishnan, V.; Mitragotri, S. Adv Drug Deliv Rev 2019, 143, 3-21.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Erythrocyte leveraged chemotherapy (ELeCt): Nanoparticle assembly on erythrocyte surface to combat lung metastasis",
+      "year": 2019,
+      "citation_raw": "Erythrocyte leveraged chemotherapy (ELeCt): Nanoparticle assembly on erythrocyte surface to combat lung metastasis Zhao, Z.; Ukidve, A.; Gao, Y.; Kim, J.; Mitragotri, S. Sci Adv 2019, 5 (11), eaax9250.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Skin delivery of hyaluronic acid by the combined use of sponge spicules and flexible liposomes",
+      "year": 2019,
+      "citation_raw": "Skin delivery of hyaluronic acid by the combined use of sponge spicules and flexible liposomes Zhang, C.; Zhang, K.; Zhang, J.; Ou, H.; Duan, J.; Zhang, S.; Wang, D.; Mitragotri, S.; Chen, M. Biomater Sci 2019, 7 (4), 1299-1310.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Cyclodextrin modified erlotinib loaded PLGA nanoparticles for improved therapeutic efficacy against non-small cell lung cancer",
+      "year": 2019,
+      "citation_raw": "Cyclodextrin modified erlotinib loaded PLGA nanoparticles for improved therapeutic efficacy against non-small cell lung cancer Vaidya, B.; Parvathaneni, V.; Kulkarni, N. S.; Shukla, S. K.; Damon, J. K.; Sarode, A.; Kanabar, D.; Garcia, J. V.; Mitragotri, S.; Muth, A.; et al. Int J Biol Macromol 2019, 122, 338-347.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "The Influence of Water on Choline-Based Ionic Liquids",
+      "year": 2019,
+      "citation_raw": "The Influence of Water on Choline-Based Ionic Liquids Tanner, E. E. L.; Piston, K. M.; Ma, H.; Ibsen, K. N.; Nangia, S.; Mitragotri, S. ACS Biomater Sci Eng 2019, 5 (7), 3645-3653.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Design Principles of Ionic Liquids for Transdermal Drug Delivery",
+      "year": 2019,
+      "citation_raw": "Design Principles of Ionic Liquids for Transdermal Drug Delivery Tanner, E. E. L.; Curreri, A. M.; Balkaran, J. P. R.; Selig-Wober, N. C.; Yang, A. B.; Kendig, C.; Fluhr, M. P.; Kim, N.; Mitragotri, S. Adv Mater 2019, 31 (27), e1901103.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Mechanistic study of transdermal delivery of macromolecules assisted by ionic liquids",
+      "year": 2019,
+      "citation_raw": "Mechanistic study of transdermal delivery of macromolecules assisted by ionic liquids Qi, Q. M.; Mitragotri, S. J Control Release 2019, 311-312, 162-169.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Immunological consequences of chemotherapy: Single drugs, combination therapies and nanoparticle-based treatments",
+      "year": 2019,
+      "citation_raw": "Immunological consequences of chemotherapy: Single drugs, combination therapies and nanoparticle-based treatments Pusuluri, A.; Wu, D.; Mitragotri, S. J Control Release 2019, 305, 130-154.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Role of synergy and immunostimulation in design of chemotherapy combinations: An analysis of doxorubicin and camptothecin",
+      "year": 2019,
+      "citation_raw": "Role of synergy and immunostimulation in design of chemotherapy combinations: An analysis of doxorubicin and camptothecin Pusuluri, A.; Krishnan, V.; Wu, D.; Shields, C. W. t.; Wang, L. W.; Mitragotri, S. Bioeng Transl Med 2019, 4 (2), e10129.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Treating Tumors at Low Drug Doses Using an Aptamer-Peptide Synergistic Drug Conjugate",
+      "year": 2019,
+      "citation_raw": "Treating Tumors at Low Drug Doses Using an Aptamer-Peptide Synergistic Drug Conjugate Pusuluri, A.; Krishnan, V.; Lensch, V.; Sarode, A.; Bunyan, E.; Vogus, D. R.; Menegatti, S.; Soh, H. T.; Mitragotri, S. Angew Chem Int Ed Engl 2019, 58 (5), 1437-1441.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Oral ionic liquid for the treatment of diet-induced obesity",
+      "year": 2019,
+      "citation_raw": "Oral ionic liquid for the treatment of diet-induced obesity Nurunnabi, M.; Ibsen, K. N.; Tanner, E. E. L.; Mitragotri, S. Proc Natl Acad Sci U S A 2019, 116 (50), 25042-25047.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Shape-based separation of synthetic microparticles",
+      "year": 2019,
+      "citation_raw": "Shape-based separation of synthetic microparticles Mage, P. L.; Csordas, A. T.; Brown, T.; Klinger, D.; Eisenstein, M.; Mitragotri, S.; Hawker, C.; Soh, H. T. Nat Mater 2019, 18 (1), 82-89.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "On the issue of transparency and reproducibility in nanomedicine",
+      "year": 2019,
+      "citation_raw": "On the issue of transparency and reproducibility in nanomedicine Leong, H. S.; Butler, K. S.; Brinker, C. J.; Azzawi, M.; Conlan, S.; Dufes, C.; Owen, A.; Rannard, S.; Scott, C.; Chen, C.; et al. Nat Nanotechnol 2019, 14 (7), 629-635.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Publisher Correction: On the issue of transparency and reproducibility in nanomedicine",
+      "year": 2019,
+      "citation_raw": "Publisher Correction: On the issue of transparency and reproducibility in nanomedicine Leong, H. S.; Butler, K. S.; Brinker, C. J.; Azzawi, M.; Conlan, S.; Dufes, C.; Owen, A.; Rannard, S.; Scott, C.; Chen, C.; et al. Nat Nanotechnol 2019, 14 (8), 811.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Nanocrystals: A perspective on translational research and clinical studies",
+      "year": 2019,
+      "citation_raw": "Nanocrystals: A perspective on translational research and clinical studies Jarvis, M.; Krishnan, V.; Mitragotri, S. Bioeng Transl Med 2019, 4 (1), 5-16.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transdermal delivery of nobiletin using ionic liquids",
+      "year": 2019,
+      "citation_raw": "Transdermal delivery of nobiletin using ionic liquids Hattori, T.; Tagawa, H.; Inai, M.; Kan, T.; Kimura, S. I.; Itai, S.; Mitragotri, S.; Iwao, Y. Sci Rep 2019, 9 (1), 20191.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Effect of Chemical Permeation Enhancers on Skin Permeability: In silico screening using Molecular Dynamics simulations",
+      "year": 2019,
+      "citation_raw": "Effect of Chemical Permeation Enhancers on Skin Permeability: In silico screening using Molecular Dynamics simulations Gupta, R.; Dwadasi, B. S.; Rai, B.; Mitragotri, S. Sci Rep 2019, 9 (1), 1456.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Shape effect in active targeting of nanoparticles to inflamed cerebral endothelium under static and flow conditions",
+      "year": 2019,
+      "citation_raw": "Shape effect in active targeting of nanoparticles to inflamed cerebral endothelium under static and flow conditions Da Silva-Candal, A.; Brown, T.; Krishnan, V.; Lopez-Loureiro, I.; Avila-Gomez, P.; Pusuluri, A.; Perez-Diaz, A.; Correa-Paz, C.; Hervella, P.; Castillo, J.; et al. J Control Release 2019, 309, 94-105.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A microfluidic model of human brain (muHuB) for assessment of blood brain barrier",
+      "year": 2019,
+      "citation_raw": "A microfluidic model of human brain (muHuB) for assessment of blood brain barrier Brown, T. D.; Nowak, M.; Bayles, A. V.; Prabhakarpandian, B.; Karande, P.; Lahann, J.; Helgeson, M. E.; Mitragotri, S. Bioeng Transl Med 2019, 4 (2), e10126.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Intestinal iontophoresis from mucoadhesive patches: a strategy for oral delivery",
+      "year": 2019,
+      "citation_raw": "Intestinal iontophoresis from mucoadhesive patches: a strategy for oral delivery Banerjee, A.; Chen, R.; Arafin, S.; Mitragotri, S. J Control Release 2019, 297, 71-78.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Nanoparticles in the clinic: An update",
+      "year": 2019,
+      "citation_raw": "Nanoparticles in the clinic: An update Anselmo, A. C.; Mitragotri, S. Bioeng Transl Med 2019, 4 (3), e10143.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Non-invasive delivery strategies for biologics",
+      "year": 2019,
+      "citation_raw": "Non-invasive delivery strategies for biologics Anselmo, A. C.; Gokarn, Y.; Mitragotri, S. Nat Rev Drug Discov 2019, 18 (1), 19-40.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transdermal immunomodulation: Principles, advances and perspectives",
+      "year": 2018,
+      "citation_raw": "Transdermal immunomodulation: Principles, advances and perspectives Zhao, Z.; Ukidve, A.; Dasgupta, A.; Mitragotri, S. Adv Drug Deliv Rev 2018, 127, 3-19.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Controlling Complex Nanoemulsion Morphology Using Asymmetric Cosurfactants for the Preparation of Polymer Nanocapsules",
+      "year": 2018,
+      "citation_raw": "Controlling Complex Nanoemulsion Morphology Using Asymmetric Cosurfactants for the Preparation of Polymer Nanocapsules Zhang, M.; Corona, P. T.; Ruocco, N.; Alvarez, D.; Malo de Molina, P.; Mitragotri, S.; Helgeson, M. E. Langmuir 2018, 34 (3), 978-990.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Schedule dependent synergy of gemcitabine and doxorubicin: Improvement of in vitro efficacy and lack of in vitro-in vivo correlation",
+      "year": 2018,
+      "citation_raw": "Schedule dependent synergy of gemcitabine and doxorubicin: Improvement of in vitro efficacy and lack of in vitro-in vivo correlation Vogus, D. R.; Pusuluri, A.; Chen, R.; Mitragotri, S. Bioeng Transl Med 2018, 3 (1), 49-57.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transdermal insulin delivery using choline-based ionic liquids (CAGE)",
+      "year": 2018,
+      "citation_raw": "Transdermal insulin delivery using choline-based ionic liquids (CAGE) Tanner, E. E. L.; Ibsen, K. N.; Mitragotri, S. J Control Release 2018, 286, 137-144.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Nanoparticle Properties Modulate Their Attachment and Effect on Carrier Red Blood Cells",
+      "year": 2018,
+      "citation_raw": "Nanoparticle Properties Modulate Their Attachment and Effect on Carrier Red Blood Cells Pan, D. C.; Myerson, J. W.; Brenner, J. S.; Patel, P. N.; Anselmo, A. C.; Mitragotri, S.; Muzykantov, V. Sci Rep 2018, 8 (1), 1615.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Engineering clinical translation-Introduction to Special Issue Dedicated to 2017 Bioengineering and Translational Medicine Conference",
+      "year": 2018,
+      "citation_raw": "Engineering clinical translation-Introduction to Special Issue Dedicated to 2017 Bioengineering and Translational Medicine Conference Kannan, R. M.; Mitragotri, S. Bioeng Transl Med 2018, 3 (2), 73.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Engineering clinical translation-Introduction to Special Issue Dedicated to 2017 Bioengineering and Translational Medicine Conference",
+      "year": 2018,
+      "citation_raw": "Engineering clinical translation-Introduction to Special Issue Dedicated to 2017 Bioengineering and Translational Medicine Conference Kannan, R. M.; Mitragotri, S. Bioeng Transl Med 2018, 3 (3), 185.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Detachment of ligands from nanoparticle surface under flow and endothelial cell contact: Assessment using microfluidic devices",
+      "year": 2018,
+      "citation_raw": "Detachment of ligands from nanoparticle surface under flow and endothelial cell contact: Assessment using microfluidic devices Jarvis, M.; Arnold, M.; Ott, J.; Krishnan, V.; Pant, K.; Prabhakarpandian, B.; Mitragotri, S. Bioeng Transl Med 2018, 3 (2), 148-155.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Mechanism of Antibacterial Activity of Choline-Based Ionic Liquids (CAGE)",
+      "year": 2018,
+      "citation_raw": "Mechanism of Antibacterial Activity of Choline-Based Ionic Liquids (CAGE) Ibsen, K. N.; Ma, H.; Banerjee, A.; Tanner, E. E. L.; Nangia, S.; Mitragotri, S. ACS Biomater Sci Eng 2018, 4 (7), 2370-2379.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Macrophage-mediated delivery of light activated nitric oxide prodrugs with spatial, temporal and concentration control",
+      "year": 2018,
+      "citation_raw": "Macrophage-mediated delivery of light activated nitric oxide prodrugs with spatial, temporal and concentration control Evans, M. A.; Huang, P. J.; Iwamoto, Y.; Ibsen, K. N.; Chan, E. M.; Hitomi, Y.; Ford, P. C.; Mitragotri, S. Chem Sci 2018, 9 (15), 3729-3741.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Influence of particle size and shape on their margination and wall-adhesion: implications in drug delivery vehicle design across nano-to-micro scale",
+      "year": 2018,
+      "citation_raw": "Influence of particle size and shape on their margination and wall-adhesion: implications in drug delivery vehicle design across nano-to-micro scale Cooley, M.; Sarode, A.; Hoore, M.; Fedosov, D. A.; Mitragotri, S.; Sen Gupta, A. Nanoscale 2018, 10 (32), 15350-15364.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Red blood cell-hitchhiking boosts delivery of nanocarriers to chosen organs by orders of magnitude",
+      "year": 2018,
+      "citation_raw": "Red blood cell-hitchhiking boosts delivery of nanocarriers to chosen organs by orders of magnitude Brenner, J. S.; Pan, D. C.; Myerson, J. W.; Marcos-Contreras, O. A.; Villa, C. H.; Patel, P.; Hekierski, H.; Chatterjee, S.; Tao, J. Q.; Parhiz, H.; et al. Nat Commun 2018, 9 (1), 2684.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ionic liquids for oral insulin delivery",
+      "year": 2018,
+      "citation_raw": "Ionic liquids for oral insulin delivery Banerjee, A.; Ibsen, K.; Brown, T.; Chen, R.; Agatemor, C.; Mitragotri, S. Proc Natl Acad Sci U S A 2018, 115 (28), 7296-7301.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Reply to Rogers and Gurau: Definitions of ionic liquids and deep eutectic solvents",
+      "year": 2018,
+      "citation_raw": "Reply to Rogers and Gurau: Definitions of ionic liquids and deep eutectic solvents Banerjee, A.; Ibsen, K.; Brown, T.; Chen, R.; Agatemor, C.; Mitragotri, S. Proc Natl Acad Sci U S A 2018, 115 (47), E11000-E11001.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ionic liquids for addressing unmet needs in healthcare",
+      "year": 2018,
+      "citation_raw": "Ionic liquids for addressing unmet needs in healthcare Agatemor, C.; Ibsen, K. N.; Tanner, E. E. L.; Mitragotri, S. Bioeng Transl Med 2018, 3 (1), 7-25.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Skin Delivery of Hydrophilic Biomacromolecules Using Marine Sponge Spicules",
+      "year": 2017,
+      "citation_raw": "Skin Delivery of Hydrophilic Biomacromolecules Using Marine Sponge Spicules Zhang, S.; Ou, H.; Liu, C.; Zhang, Y.; Mitragotri, S.; Wang, D.; Chen, M. Mol Pharm 2017, 14 (9), 3188-3200.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Synthesis of Oil-Laden Poly(ethylene glycol) Diacrylate Hydrogel Nanocapsules from Double Nanoemulsions",
+      "year": 2017,
+      "citation_raw": "Synthesis of Oil-Laden Poly(ethylene glycol) Diacrylate Hydrogel Nanocapsules from Double Nanoemulsions Zhang, M.; Nowak, M.; Malo de Molina, P.; Abramovitch, M.; Santizo, K.; Mitragotri, S.; Helgeson, M. E. Langmuir 2017, 33 (24), 6116-6126.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Bypassing adverse injection reactions to nanoparticles through shape modification and attachment to erythrocytes",
+      "year": 2017,
+      "citation_raw": "Bypassing adverse injection reactions to nanoparticles through shape modification and attachment to erythrocytes Wibroe, P. P.; Anselmo, A. C.; Nilsson, P. H.; Sarode, A.; Gupta, V.; Urbanics, R.; Szebeni, J.; Hunter, A. C.; Mitragotri, S.; Mollnes, T. E.; et al. Nat Nanotechnol 2017, 12 (6), 589-594.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A hyaluronic acid conjugate engineered to synergistically and sequentially deliver gemcitabine and doxorubicin to treat triple negative breast cancer",
+      "year": 2017,
+      "citation_raw": "A hyaluronic acid conjugate engineered to synergistically and sequentially deliver gemcitabine and doxorubicin to treat triple negative breast cancer Vogus, D. R.; Evans, M. A.; Pusuluri, A.; Barajas, A.; Zhang, M.; Krishnan, V.; Nowak, M.; Menegatti, S.; Helgeson, M. E.; Squires, T. M.; et al. J Control Release 2017, 267, 191-202.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Introduction to Special Issue: 2016 Translational Medicine and Bioengineering Conference",
+      "year": 2017,
+      "citation_raw": "Introduction to Special Issue: 2016 Translational Medicine and Bioengineering Conference Rege, K.; Mitragotri, S. Bioeng Transl Med 2017, 2 (2), 137-138.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Engineering live cell surfaces with functional polymers via cytocompatible controlled radical polymerization",
+      "year": 2017,
+      "citation_raw": "Engineering live cell surfaces with functional polymers via cytocompatible controlled radical polymerization Niu, J.; Lunn, D. J.; Pusuluri, A.; Yoo, J. I.; O'Malley, M. A.; Mitragotri, S.; Soh, H. T.; Hawker, C. J. Nat Chem 2017, 9 (6), 537-545.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Drug Delivery Research for the Future: Expanding the Nano Horizons and Beyond",
+      "year": 2017,
+      "citation_raw": "Drug Delivery Research for the Future: Expanding the Nano Horizons and Beyond Mitragotri, S.; Lammers, T.; Bae, Y. H.; Schwendeman, S.; De Smedt, S.; Leroux, J. C.; Peer, D.; Kwon, I. C.; Harashima, H.; Kikuchi, A.; et al. J Control Release 2017, 246, 183-184.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Influence of Particle Geometry on Gastrointestinal Transit and Absorption following Oral Administration",
+      "year": 2017,
+      "citation_raw": "Influence of Particle Geometry on Gastrointestinal Transit and Absorption following Oral Administration Li, D.; Zhuang, J.; He, H.; Jiang, S.; Banerjee, A.; Lu, Y.; Wu, W.; Mitragotri, S.; Gan, L.; Qi, J. ACS Appl Mater Interfaces 2017, 9 (49), 42492-42502.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Microfluidic co-culture devices to assess penetration of nanoparticles into cancer cell mass",
+      "year": 2017,
+      "citation_raw": "Microfluidic co-culture devices to assess penetration of nanoparticles into cancer cell mass Jarvis, M.; Arnold, M.; Ott, J.; Pant, K.; Prabhakarpandian, B.; Mitragotri, S. Bioeng Transl Med 2017, 2 (3), 268-277.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Intestinal micropatches for oral insulin delivery",
+      "year": 2017,
+      "citation_raw": "Intestinal micropatches for oral insulin delivery Banerjee, A.; Wong, J.; Gogoi, R.; Brown, T.; Mitragotri, S. J Drug Target 2017, 25 (7), 608-615.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Intestinal patch systems for oral drug delivery",
+      "year": 2017,
+      "citation_raw": "Intestinal patch systems for oral drug delivery Banerjee, A.; Mitragotri, S. Curr Opin Pharmacol 2017, 36, 58-65.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transdermal Protein Delivery Using Choline and Geranate (CAGE) Deep Eutectic Solvent",
+      "year": 2017,
+      "citation_raw": "Transdermal Protein Delivery Using Choline and Geranate (CAGE) Deep Eutectic Solvent Banerjee, A.; Ibsen, K.; Iwao, Y.; Zakrewsky, M.; Mitragotri, S. Adv Healthc Mater 2017, 6 (15).",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Impact of particle elasticity on particle-based drug delivery systems",
+      "year": 2017,
+      "citation_raw": "Impact of particle elasticity on particle-based drug delivery systems Anselmo, A. C.; Mitragotri, S. Adv Drug Deliv Rev 2017, 108, 51-67.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Therapeutic RNAi robed with ionic liquid moieties as a simple, scalable prodrug platform for treating skin disease",
+      "year": 2016,
+      "citation_raw": "Therapeutic RNAi robed with ionic liquid moieties as a simple, scalable prodrug platform for treating skin disease Zakrewsky, M.; Mitragotri, S. J Control Release 2016, 242, 80-88.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Choline and Geranate Deep Eutectic Solvent as a Broad-Spectrum Antiseptic Agent for Preventive and Therapeutic Applications",
+      "year": 2016,
+      "citation_raw": "Choline and Geranate Deep Eutectic Solvent as a Broad-Spectrum Antiseptic Agent for Preventive and Therapeutic Applications Zakrewsky, M.; Banerjee, A.; Apte, S.; Kern, T. L.; Jones, M. R.; Sesto, R. E.; Koppisch, A. T.; Fox, D. T.; Mitragotri, S. Adv Healthc Mater 2016, 5 (11), 1282-1289.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Red blood cells: Supercarriers for drugs, biologicals, and nanoparticles and inspiration for advanced delivery systems",
+      "year": 2016,
+      "citation_raw": "Red blood cells: Supercarriers for drugs, biologicals, and nanoparticles and inspiration for advanced delivery systems Villa, C. H.; Anselmo, A. C.; Mitragotri, S.; Muzykantov, V. Adv Drug Deliv Rev 2016, 106 (Pt A), 88-103.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "The Effect of Polymeric Nanoparticles on Biocompatibility of Carrier Red Blood Cells",
+      "year": 2016,
+      "citation_raw": "The Effect of Polymeric Nanoparticles on Biocompatibility of Carrier Red Blood Cells Pan, D.; Vargas-Morales, O.; Zern, B.; Anselmo, A. C.; Gupta, V.; Zakrewsky, M.; Mitragotri, S.; Muzykantov, V. PLoS One 2016, 11 (3), e0152074.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Non-affinity factors modulating vascular targeting of nano- and microcarriers",
+      "year": 2016,
+      "citation_raw": "Non-affinity factors modulating vascular targeting of nano- and microcarriers Myerson, J. W.; Anselmo, A. C.; Liu, Y.; Mitragotri, S.; Eckmann, D. M.; Muzykantov, V. R. Adv Drug Deliv Rev 2016, 99 (Pt A), 97-112.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "De Novo Design of Skin-Penetrating Peptides for Enhanced Transdermal Delivery of Peptide Drugs",
+      "year": 2016,
+      "citation_raw": "De Novo Design of Skin-Penetrating Peptides for Enhanced Transdermal Delivery of Peptide Drugs Menegatti, S.; Zakrewsky, M.; Kumar, S.; De Oliveira, J. S.; Muraski, J. A.; Mitragotri, S. Adv Healthc Mater 2016, 5 (5), 602-609.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Delivery of Exenatide and Insulin Using Mucoadhesive Intestinal Devices",
+      "year": 2016,
+      "citation_raw": "Delivery of Exenatide and Insulin Using Mucoadhesive Intestinal Devices Gupta, V.; Hwang, B. H.; Doshi, N.; Banerjee, A.; Anselmo, A. C.; Mitragotri, S. Ann Biomed Eng 2016, 44 (6), 1993-2007.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "DAFODIL: A novel liposome-encapsulated synergistic combination of doxorubicin and 5FU for low dose chemotherapy",
+      "year": 2016,
+      "citation_raw": "DAFODIL: A novel liposome-encapsulated synergistic combination of doxorubicin and 5FU for low dose chemotherapy Camacho, K. M.; Menegatti, S.; Vogus, D. R.; Pusuluri, A.; Fuchs, Z.; Jarvis, M.; Zakrewsky, M.; Evans, M. A.; Chen, R.; Mitragotri, S. J Control Release 2016, 229, 154-162.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Low-molecular-weight polymer-drug conjugates for synergistic anticancer activity of camptothecin and doxorubicin combinations",
+      "year": 2016,
+      "citation_raw": "Low-molecular-weight polymer-drug conjugates for synergistic anticancer activity of camptothecin and doxorubicin combinations Camacho, K. M.; Menegatti, S.; Mitragotri, S. Nanomedicine (Lond) 2016, 11 (9), 1139-1151.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Role of nanoparticle size, shape and surface chemistry in oral drug delivery",
+      "year": 2016,
+      "citation_raw": "Role of nanoparticle size, shape and surface chemistry in oral drug delivery Banerjee, A.; Qi, J.; Gogoi, R.; Wong, J.; Mitragotri, S. J Control Release 2016, 238, 176-185.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Intestinal mucoadhesive devices for oral delivery of insulin",
+      "year": 2016,
+      "citation_raw": "Intestinal mucoadhesive devices for oral delivery of insulin Banerjee, A.; Lee, J.; Mitragotri, S. Bioeng Transl Med 2016, 1 (3), 338-346.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Nanoparticles in the clinic",
+      "year": 2016,
+      "citation_raw": "Nanoparticles in the clinic Anselmo, A. C.; Mitragotri, S. Bioeng Transl Med 2016, 1 (1), 10-29.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Nucleic acid delivery into skin for the treatment of skin disease: Proofs-of-concept, potential impact, and remaining challenges",
+      "year": 2015,
+      "citation_raw": "Nucleic acid delivery into skin for the treatment of skin disease: Proofs-of-concept, potential impact, and remaining challenges Zakrewsky, M.; Kumar, S.; Mitragotri, S. J Control Release 2015, 219, 445-456.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ultrasonic delivery of silica-gold nanoshells for photothermolysis of sebaceous glands in humans: Nanotechnology from the bench to clinic",
+      "year": 2015,
+      "citation_raw": "Ultrasonic delivery of silica-gold nanoshells for photothermolysis of sebaceous glands in humans: Nanotechnology from the bench to clinic Paithankar, D.; Hwang, B. H.; Munavalli, G.; Kauvar, A.; Lloyd, J.; Blomgren, R.; Faupel, L.; Meyer, T.; Mitragotri, S. J Control Release 2015, 206, 30-36.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Accelerating the Translation of Nanomaterials in Biomedicine",
+      "year": 2015,
+      "citation_raw": "Accelerating the Translation of Nanomaterials in Biomedicine Mitragotri, S.; Anderson, D. G.; Chen, X.; Chow, E. K.; Ho, D.; Kabanov, A. V.; Karp, J. M.; Kataoka, K.; Mirkin, C. A.; Petrosko, S. H.; et al. ACS Nano 2015, 9 (7), 6644-6654.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Synthesis and characterization of a self-fluorescent hyaluronic acid-based gel for dermal applications",
+      "year": 2015,
+      "citation_raw": "Synthesis and characterization of a self-fluorescent hyaluronic acid-based gel for dermal applications Menegatti, S.; Ruocco, N.; Kumar, S.; Zakrewsky, M.; Sanchez De Oliveira, J.; Helgeson, M. E.; Leal, G. L.; Mitragotri, S. Adv Healthc Mater 2015, 4 (15), 2297-2305.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Peptides as skin penetration enhancers: mechanisms of action",
+      "year": 2015,
+      "citation_raw": "Peptides as skin penetration enhancers: mechanisms of action Kumar, S.; Zakrewsky, M.; Chen, M.; Menegatti, S.; Muraski, J. A.; Mitragotri, S. J Control Release 2015, 199, 168-178.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Enhanced epidermal localization of topically applied steroids using SPACE peptide",
+      "year": 2015,
+      "citation_raw": "Enhanced epidermal localization of topically applied steroids using SPACE peptide Kumar, S.; Chen, M.; Anselmo, A. C.; Muraski, J. A.; Mitragotri, S. Drug Deliv Transl Res 2015, 5 (5), 523-530.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Shape and size-dependent immune response to antigen-carrying nanoparticles",
+      "year": 2015,
+      "citation_raw": "Shape and size-dependent immune response to antigen-carrying nanoparticles Kumar, S.; Anselmo, A. C.; Banerjee, A.; Zakrewsky, M.; Mitragotri, S. J Control Release 2015, 220 (Pt A), 141-148.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Topical delivery of Cyclosporine A into the skin using SPACE-peptide",
+      "year": 2015,
+      "citation_raw": "Topical delivery of Cyclosporine A into the skin using SPACE-peptide Chen, M.; Kumar, S.; Anselmo, A. C.; Gupta, V.; Slee, D. H.; Muraski, J. A.; Mitragotri, S. J Control Release 2015, 199, 190-197.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Synergistic antitumor activity of camptothecin-doxorubicin combinations and their conjugates with hyaluronic acid",
+      "year": 2015,
+      "citation_raw": "Synergistic antitumor activity of camptothecin-doxorubicin combinations and their conjugates with hyaluronic acid Camacho, K. M.; Kumar, S.; Menegatti, S.; Vogus, D. R.; Anselmo, A. C.; Mitragotri, S .J Control Release 2015, 210, 198-207.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Elasticity of nanoparticles influences their blood circulation, phagocytosis, endocytosis, and targeting",
+      "year": 2015,
+      "citation_raw": "Elasticity of nanoparticles influences their blood circulation, phagocytosis, endocytosis, and targeting Anselmo, A. C.; Zhang, M.; Kumar, S.; Vogus, D. R.; Menegatti, S.; Helgeson, M. E.; Mitragotri, S. ACS Nano 2015, 9 (3), 3169-3177.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A Review of Clinical Translation of Inorganic Nanoparticles",
+      "year": 2015,
+      "citation_raw": "A Review of Clinical Translation of Inorganic Nanoparticles Anselmo, A. C.; Mitragotri, S. AAPS J 2015, 17 (5), 1041-1054.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Exploiting shape, cellular-hitchhiking and antibodies to target nanoparticles to lung endothelium: Synergy between physical, chemical and biological approaches",
+      "year": 2015,
+      "citation_raw": "Exploiting shape, cellular-hitchhiking and antibodies to target nanoparticles to lung endothelium: Synergy between physical, chemical and biological approaches Anselmo, A. C.; Kumar, S.; Gupta, V.; Pearce, A. M.; Ragusa, A.; Muzykantov, V.; Mitragotri, S. Biomaterials 2015, 68, 1-8.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Monocyte-mediated delivery of polymeric backpacks to inflamed tissues: a generalized strategy to deliver drugs to treat inflammation",
+      "year": 2015,
+      "citation_raw": "Monocyte-mediated delivery of polymeric backpacks to inflamed tissues: a generalized strategy to deliver drugs to treat inflammation Anselmo, A. C.; Gilbert, J. B.; Kumar, S.; Gupta, V.; Cohen, R. E.; Rubner, M. F.; Mitragotri, S. J Control Release 2015, 199, 29-36.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ionic liquids as a class of materials for transdermal delivery and pathogen neutralization",
+      "year": 2014,
+      "citation_raw": "Ionic liquids as a class of materials for transdermal delivery and pathogen neutralization Zakrewsky, M.; Lovejoy, K. S.; Kern, T. L.; Miller, T. E.; Le, V.; Nagy, A.; Goumas, A. M.; Iyer, R. S.; Del Sesto, R. E.; Koppisch, A. T.; et al. Proc Natl Acad Sci U S A 2014, 111 (37), 13313-13318.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "MoS(2) field-effect transistor for next-generation label-free biosensors",
+      "year": 2014,
+      "citation_raw": "MoS(2) field-effect transistor for next-generation label-free biosensors Sarkar, D.; Liu, W.; Xie, X.; Anselmo, A. C.; Mitragotri, S.; Banerjee, K. ACS Nano 2014, 8 (4), 3992-4003.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Overcoming the challenges in administering biopharmaceuticals: formulation and delivery strategies",
+      "year": 2014,
+      "citation_raw": "Overcoming the challenges in administering biopharmaceuticals: formulation and delivery strategies Mitragotri, S.; Burke, P. A.; Langer, R. Nat Rev Drug Discov 2014, 13 (9), 655-672.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Vascular targeting of nanocarriers: perplexing aspects of the seemingly straightforward paradigm",
+      "year": 2014,
+      "citation_raw": "Vascular targeting of nanocarriers: perplexing aspects of the seemingly straightforward paradigm Howard, M.; Zern, B. J.; Anselmo, A. C.; Shuvaev, V. V.; Mitragotri, S.; Muzykantov, V. ACS Nano 2014, 8 (5), 4100-4132.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Topical delivery of siRNA into skin using SPACE-peptide carriers",
+      "year": 2014,
+      "citation_raw": "Topical delivery of siRNA into skin using SPACE-peptide carriers Chen, M.; Zakrewsky, M.; Gupta, V.; Anselmo, A. C.; Slee, D. H.; Muraski, J. A.; Mitragotri, S. J Control Release 2014, 179, 33-41.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Topical delivery of hyaluronic acid into skin using SPACE-peptide carriers",
+      "year": 2014,
+      "citation_raw": "Topical delivery of hyaluronic acid into skin using SPACE-peptide carriers Chen, M.; Gupta, V.; Anselmo, A. C.; Muraski, J. A.; Mitragotri, S. J Control Release 2014, 173, 67-74.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Challenges associated with Penetration of Nanoparticles across Cell and Tissue Barriers: A Review of Current Status and Future Prospects",
+      "year": 2014,
+      "citation_raw": "Challenges associated with Penetration of Nanoparticles across Cell and Tissue Barriers: A Review of Current Status and Future Prospects Barua, S.; Mitragotri, S. Nano Today 2014, 9 (2), 223-243.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Platelet-like nanoparticles: mimicking shape, flexibility, and surface biology of platelets to target vascular injuries",
+      "year": 2014,
+      "citation_raw": "Platelet-like nanoparticles: mimicking shape, flexibility, and surface biology of platelets to target vascular injuries Anselmo, A. C.; Modery-Pawlowski, C. L.; Menegatti, S.; Kumar, S.; Vogus, D. R.; Tian, L. L.; Chen, M.; Squires, T. M.; Sen Gupta, A.; Mitragotri, S. ACS Nano 2014, 8 (11), 11243-11253.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "An overview of clinical and commercial impact of drug delivery systems",
+      "year": 2014,
+      "citation_raw": "An overview of clinical and commercial impact of drug delivery systems Anselmo, A. C.; Mitragotri, S. J Control Release 2014, 190, 15-28.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Cell-mediated delivery of nanoparticles: taking advantage of circulatory cells to target nanoparticles",
+      "year": 2014,
+      "citation_raw": "Cell-mediated delivery of nanoparticles: taking advantage of circulatory cells to target nanoparticles Anselmo, A. C.; Mitragotri, S. J Control Release 2014, 190, 531-541.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Synthesis of protein-based, rod-shaped particles from spherical templates using layer-by-layer assembly",
+      "year": 2013,
+      "citation_raw": "Synthesis of protein-based, rod-shaped particles from spherical templates using layer-by-layer assembly Zhou, Z.; Anselmo, A. C.; Mitragotri, S. Adv Mater 2013, 25 (19), 2723-2727.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Diagnostic opportunities based on skin biomarkers",
+      "year": 2013,
+      "citation_raw": "Diagnostic opportunities based on skin biomarkers Paliwal, S.; Hwang, B. H.; Tsai, K. Y.; Mitragotri, S. Eur J Pharm Sci 2013, 50 (5), 546-556.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Approaches to synthetic platelet analogs",
+      "year": 2013,
+      "citation_raw": "Approaches to synthetic platelet analogs Modery-Pawlowski, C. L.; Tian, L. L.; Pan, V.; McCrae, K. R.; Mitragotri, S.; Sen Gupta, A. Biomaterials 2013, 34 (2), 526-541.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Using shape effects to target antibody-coated nanoparticles to lung and brain endothelium",
+      "year": 2013,
+      "citation_raw": "Using shape effects to target antibody-coated nanoparticles to lung and brain endothelium Kolhar, P.; Anselmo, A. C.; Gupta, V.; Pant, K.; Prabhakarpandian, B.; Ruoslahti, E.; Mitragotri, S. Proc Natl Acad Sci U S A 2013, 110 (26), 10753-10758.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Optimized lysis buffer reagents for solubilization and preservation of proteins from cells and tissues",
+      "year": 2013,
+      "citation_raw": "Optimized lysis buffer reagents for solubilization and preservation of proteins from cells and tissues Hwang, B. H.; Tsai, K. Y.; Mitragotri, S. Drug Deliv Transl Res 2013, 3 (5), 428-436.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Mucoadhesive intestinal devices for oral delivery of salmon calcitonin",
+      "year": 2013,
+      "citation_raw": "Mucoadhesive intestinal devices for oral delivery of salmon calcitonin Gupta, V.; Hwang, B. H.; Lee, J.; Anselmo, A. C.; Doshi, N.; Mitragotri, S. J Control Release 2013, 172 (3), 753-762.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A permeation enhancer for increasing transport of therapeutic macromolecules across the intestine",
+      "year": 2013,
+      "citation_raw": "A permeation enhancer for increasing transport of therapeutic macromolecules across the intestine Gupta, V.; Hwang, B. H.; Doshi, N.; Mitragotri, S. J Control Release 2013, 172 (2), 541-549.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Permeation of insulin, calcitonin and exenatide across Caco-2 monolayers: measurement using a rapid, 3-day system",
+      "year": 2013,
+      "citation_raw": "Permeation of insulin, calcitonin and exenatide across Caco-2 monolayers: measurement using a rapid, 3-day system Gupta, V.; Doshi, N.; Mitragotri, S. PLoS One 2013, 8 (2), e57136.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Particle shape enhances specificity of antibody-displaying nanoparticles",
+      "year": 2013,
+      "citation_raw": "Particle shape enhances specificity of antibody-displaying nanoparticles Barua, S.; Yoo, J. W.; Kolhar, P.; Wakankar, A.; Gokarn, Y. R.; Mitragotri, S. Proc Natl Acad Sci U S A 2013, 110 (9), 3270-3275.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Synergistic targeting of cell membrane, cytoplasm, and nucleus of cancer cells using rod-shaped nanoparticles",
+      "year": 2013,
+      "citation_raw": "Synergistic targeting of cell membrane, cytoplasm, and nucleus of cancer cells using rod-shaped nanoparticles Barua, S.; Mitragotri, S. ACS Nano 2013, 7 (11), 9558-9570.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Multifunctional nanoparticles for drug delivery and molecular imaging",
+      "year": 2013,
+      "citation_raw": "Multifunctional nanoparticles for drug delivery and molecular imaging Bao, G.; Mitragotri, S.; Tong, S. Annu Rev Biomed Eng 2013, 15, 253-282.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Delivering nanoparticles to lungs while avoiding liver and spleen through adsorption on red blood cells",
+      "year": 2013,
+      "citation_raw": "Delivering nanoparticles to lungs while avoiding liver and spleen through adsorption on red blood cells Anselmo, A. C.; Gupta, V.; Zern, B. J.; Pan, D.; Zakrewsky, M.; Muzykantov, V.; Mitragotri, S. ACS Nano 2013, 7 (12), 11129-11137.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Glycosylation facilitates transdermal transport of macromolecules",
+      "year": 2012,
+      "citation_raw": "Glycosylation facilitates transdermal transport of macromolecules Pino, C. J.; Gutterman, J. U.; Vonwil, D.; Mitragotri, S.; Shastri, V. P. Proc Natl Acad Sci U S A 2012, 109 (52), 21283-21288.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Endocytic pathway rapidly delivers internalized molecules to lysosomes: an analysis of vesicle trafficking, clustering and mass transfer",
+      "year": 2012,
+      "citation_raw": "Endocytic pathway rapidly delivers internalized molecules to lysosomes: an analysis of vesicle trafficking, clustering and mass transfer Pangarkar, C.; Dinh, A. T.; Mitragotri, S. J Control Release 2012, 162 (1), 76-83.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Sampling of disease biomarkers from skin for theranostic applications",
+      "year": 2012,
+      "citation_raw": "Sampling of disease biomarkers from skin for theranostic applications Ogura, M.; Paliwal, S.; Mitragotri, S. Drug Deliv Transl Res 2012, 2 (2), 87-94.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Materials for drug delivery: innovative solutions to address complex biological hurdles",
+      "year": 2012,
+      "citation_raw": "Materials for drug delivery: innovative solutions to address complex biological hurdles Mitragotri, S.; Lahann, J. Adv Mater 2012, 24 (28), 3717-3723.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Spontaneous shape reconfigurations in multicompartmental microcylinders",
+      "year": 2012,
+      "citation_raw": "Spontaneous shape reconfigurations in multicompartmental microcylinders Lee, K. J.; Yoon, J.; Rahmani, S.; Hwang, S.; Bhaskar, S.; Mitragotri, S.; Lahann, J. Proc Natl Acad Sci U S A 2012, 109 (40), 16057-16062.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Mucociliary clearance of micro- and nanoparticles is independent of size, shape and charge--an ex vivo and in silico approach",
+      "year": 2012,
+      "citation_raw": "Mucociliary clearance of micro- and nanoparticles is independent of size, shape and charge--an ex vivo and in silico approach Kirch, J.; Guenther, M.; Doshi, N.; Schaefer, U. F.; Schneider, M.; Mitragotri, S.; Lehr, C. M. J Control Release 2012, 159 (1), 128-134.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Delivery systems for intradermal vaccination",
+      "year": 2012,
+      "citation_raw": "Delivery systems for intradermal vaccination Kim, Y. C.; Jarrahian, C.; Zehrung, D.; Mitragotri, S.; Prausnitz, M. R. Curr Top Microbiol Immunol 2012, 351, 77-112.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A reagent to facilitate protein recovery from cells and tissues",
+      "year": 2012,
+      "citation_raw": "A reagent to facilitate protein recovery from cells and tissues Hwang, B. H.; Doshi, N.; Tsai, K. Y.; Mitragotri, S. Drug Deliv Transl Res 2012, 2 (5), 297-304.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Platelet mimetic particles for targeting thrombi in flowing blood",
+      "year": 2012,
+      "citation_raw": "Platelet mimetic particles for targeting thrombi in flowing blood Doshi, N.; Orje, J. N.; Molins, B.; Smith, J. W.; Mitragotri, S.; Ruggeri, Z. M. Adv Mater 2012, 24 (28), 3864-3869.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "bioengineered and biomimetic drug delivery carriers",
+      "year": 2011,
+      "citation_raw": "Bio-inspired, bioengineered and biomimetic drug delivery carriers Yoo, J. W.; Irvine, D. J.; Discher, D. E.; Mitragotri, S. Nat Rev Drug Discov 2011, 10 (7), 521-535.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Adaptive micro and nanoparticles: temporal control over carrier properties to facilitate drug delivery",
+      "year": 2011,
+      "citation_raw": "Adaptive micro and nanoparticles: temporal control over carrier properties to facilitate drug delivery Yoo, J. W.; Doshi, N.; Mitragotri, S. Adv Drug Deliv Rev 2011, 63 (14-15), 1247-1256.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Designing micro- and nano-particles for treating rheumatoid arthritis",
+      "year": 2011,
+      "citation_raw": "Designing micro- and nano-particles for treating rheumatoid arthritis Mitragotri, S.; Yoo, J. W. Arch Pharm Res 2011, 34 (11), 1887-1897.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Mathematical models of skin permeability: an overview",
+      "year": 2011,
+      "citation_raw": "Mathematical models of skin permeability: an overview Mitragotri, S.; Anissimov, Y. G.; Bunge, A. L.; Frasch, H. F.; Guy, R. H.; Hadgraft, J.; Kasting, G. B.; Lane, M. E.; Roberts, M. S. Int J Pharm 2011, 418 (1), 115-129.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Delivery of polymeric particles into skin using needle-free liquid jet injectors",
+      "year": 2011,
+      "citation_raw": "Delivery of polymeric particles into skin using needle-free liquid jet injectors Michinaka, Y.; Mitragotri, S. J Control Release 2011, 153 (3), 249-254.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Polymer nanoneedle-mediated intracellular drug delivery",
+      "year": 2011,
+      "citation_raw": "Polymer nanoneedle-mediated intracellular drug delivery Kolhar, P.; Doshi, N.; Mitragotri, S. Small 2011, 7 (14), 2094-2100.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Effect of surfactant mixtures on skin structure and barrier properties",
+      "year": 2011,
+      "citation_raw": "Effect of surfactant mixtures on skin structure and barrier properties James-Smith, M. A.; Hellner, B.; Annunziato, N.; Mitragotri, S. Ann Biomed Eng 2011, 39 (4), 1215-1223.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Delivery of siRNA and other macromolecules into skin and cells using a peptide enhancer",
+      "year": 2011,
+      "citation_raw": "Delivery of siRNA and other macromolecules into skin and cells using a peptide enhancer Hsu, T.; Mitragotri, S. Proc Natl Acad Sci U S A 2011, 108 (38), 15816-15821.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Cell-based drug delivery devices using phagocytosis-resistant backpacks",
+      "year": 2011,
+      "citation_raw": "Cell-based drug delivery devices using phagocytosis-resistant backpacks Doshi, N.; Swiston, A. J.; Gilbert, J. B.; Alcaraz, M. L.; Cohen, R. E.; Rubner, M. F.; Mitragotri, S. Adv Mater 2011, 23 (12), H105-109.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Polymer particles that switch shape in response to a stimulus",
+      "year": 2010,
+      "citation_raw": "Polymer particles that switch shape in response to a stimulus Yoo, J. W.; Mitragotri, S. Proc Natl Acad Sci U S A 2010, 107 (25), 11205-11210.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Endocytosis and Intracellular Distribution of PLGA Particles in Endothelial Cells: Effect of Particle Geometry",
+      "year": 2010,
+      "citation_raw": "Endocytosis and Intracellular Distribution of PLGA Particles in Endothelial Cells: Effect of Particle Geometry Yoo, J. W.; Doshi, N.; Mitragotri, S. Macromol Rapid Commun 2010, 31 (2), 142-148.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Factors that control the circulation time of nanoparticles in blood: challenges, solutions and future prospects",
+      "year": 2010,
+      "citation_raw": "Factors that control the circulation time of nanoparticles in blood: challenges, solutions and future prospects Yoo, J. W.; Chambers, E.; Mitragotri, S. Curr Pharm Des 2010, 16 (21), 2298-2307.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Polymer particle shape independently influences binding and internalization by macrophages",
+      "year": 2010,
+      "citation_raw": "Polymer particle shape independently influences binding and internalization by macrophages Sharma, G.; Valenta, D. T.; Altman, Y.; Harvey, S.; Xie, H.; Mitragotri, S.; Smith, J. W. J Control Release 2010, 147 (3), 408-412.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Rapid sampling of molecules via skin for diagnostic and forensic applications",
+      "year": 2010,
+      "citation_raw": "Rapid sampling of molecules via skin for diagnostic and forensic applications Paliwal, S.; Ogura, M.; Mitragotri, S. Pharm Res 2010, 27 (7), 1255-1263.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "One-step acquisition of functional biomolecules from tissues",
+      "year": 2010,
+      "citation_raw": "One-step acquisition of functional biomolecules from tissues Paliwal, S.; Ogura, M.; Mitragotri, S. Proc Natl Acad Sci U S A 2010, 107 (33), 14627-14632.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ultrasound-enhanced drug transport and distribution in the brain",
+      "year": 2010,
+      "citation_raw": "Ultrasound-enhanced drug transport and distribution in the brain Liu, Y.; Paliwal, S.; Bankiewicz, K. S.; Bringas, J. R.; Heart, G.; Mitragotri, S.; Prausnitz, M. R. AAPS PharmSciTech 2010, 11 (3), 1005-1017.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transcutaneous immunization: an overview of advantages, disease targets, vaccines, and delivery technologies",
+      "year": 2010,
+      "citation_raw": "Transcutaneous immunization: an overview of advantages, disease targets, vaccines, and delivery technologies Karande, P.; Mitragotri, S. Annu Rev Chem Biomol Eng 2010, 1, 175-201.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Flow and adhesion of drug carriers in blood vessels depend on their shape: a study using model synthetic microvascular networks",
+      "year": 2010,
+      "citation_raw": "Flow and adhesion of drug carriers in blood vessels depend on their shape: a study using model synthetic microvascular networks Doshi, N.; Prabhakarpandian, B.; Rea-Ramsey, A.; Pant, K.; Sundaram, S.; Mitragotri, S. J Control Release 2010, 146 (2), 196-200.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Macrophages recognize size and shape of their targets",
+      "year": 2010,
+      "citation_raw": "Macrophages recognize size and shape of their targets Doshi, N.; Mitragotri, S. PLoS One 2010, 5 (4), e10051.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Needle-shaped polymeric particles induce transient disruption of cell membranes",
+      "year": 2010,
+      "citation_raw": "Needle-shaped polymeric particles induce transient disruption of cell membranes Doshi, N.; Mitragotri, S. J R Soc Interface 2010, 7 Suppl 4, S403-410.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Novel topical microbicides through combinatorial strategies",
+      "year": 2010,
+      "citation_raw": "Novel topical microbicides through combinatorial strategies Arora, A.; Mitragotri, S. Pharm Res 2010, 27 (7), 1264-1272.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Multicomponent chemical enhancer formulations for transdermal drug delivery: more is not always better",
+      "year": 2010,
+      "citation_raw": "Multicomponent chemical enhancer formulations for transdermal drug delivery: more is not always better Arora, A.; Kisak, E.; Karande, P.; Newsam, J.; Mitragotri, S. J Control Release 2010, 144 (2), 175-180",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Dynamic control of needle-free jet injection",
+      "year": 2009,
+      "citation_raw": "Dynamic control of needle-free jet injection Stachowiak, J. C.; Li, T. H.; Arora, A.; Mitragotri, S.; Fletcher, D. A. J Control Release 2009, 135 (2), 104-112.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Physical approaches to biomaterial design",
+      "year": 2009,
+      "citation_raw": "Physical approaches to biomaterial design Mitragotri, S.; Lahann, J. Nat Mater 2009, 8 (1), 15-23.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Enhancement of transdermal drug delivery via synergistic action of chemicals",
+      "year": 2009,
+      "citation_raw": "Enhancement of transdermal drug delivery via synergistic action of chemicals Karande, P.; Mitragotri, S. Biochim Biophys Acta 2009, 1788 (11), 2362-2373.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transcutaneous immunization using common chemicals",
+      "year": 2009,
+      "citation_raw": "Transcutaneous immunization using common chemicals Karande, P.; Arora, A.; Pham, T. K.; Stevens, D.; Wojicki, A.; Mitragotri, S. J Control Release 2009, 138 (2), 134-140.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Red blood cell-mimicking synthetic biomaterial particles",
+      "year": 2009,
+      "citation_raw": "Red blood cell-mimicking synthetic biomaterial particles Doshi, N.; Zahr, A. S.; Bhaskar, S.; Lahann, J.; Mitragotri, S. Proc Natl Acad Sci U S A 2009, 106 (51), 21495-21499.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Shape induced inhibition of phagocytosis of polymer particles",
+      "year": 2009,
+      "citation_raw": "Shape induced inhibition of phagocytosis of polymer particles Champion, J. A.; Mitragotri, S. Pharm Res 2009, 26 (1), 244-249.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Mechanistic analysis of chemical permeation enhancers for oral drug delivery",
+      "year": 2008,
+      "citation_raw": "Mechanistic analysis of chemical permeation enhancers for oral drug delivery Whitehead, K.; Mitragotri, S. Pharm Res 2008, 25 (6), 1412-1419.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Safe and effective permeation enhancers for oral drug delivery",
+      "year": 2008,
+      "citation_raw": "Safe and effective permeation enhancers for oral drug delivery Whitehead, K.; Karr, N.; Mitragotri, S. Pharm Res 2008, 25 (8), 1782-1788.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Discovery of synergistic permeation enhancers for oral drug delivery",
+      "year": 2008,
+      "citation_raw": "Discovery of synergistic permeation enhancers for oral drug delivery Whitehead, K.; Karr, N.; Mitragotri, S. J Control Release 2008, 128 (2), 128-133.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Therapeutic opportunities in biological responses of ultrasound",
+      "year": 2008,
+      "citation_raw": "Therapeutic opportunities in biological responses of ultrasound Paliwal, S.; Mitragotri, S. Ultrasonics 2008, 48 (4), 271-278.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Low-frequency sonophoresis: current status and future prospects",
+      "year": 2008,
+      "citation_raw": "Low-frequency sonophoresis: current status and future prospects Ogura, M.; Paliwal, S.; Mitragotri, S. Adv Drug Deliv Rev 2008, 60 (10), 1218-1223.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Role of particle size in phagocytosis of polymeric microspheres",
+      "year": 2008,
+      "citation_raw": "Role of particle size in phagocytosis of polymeric microspheres Champion, J. A.; Walker, A.; Mitragotri, S. Pharm Res 2008, 25 (8), 1815-1821.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Micro-scale devices for transdermal drug delivery",
+      "year": 2008,
+      "citation_raw": "Micro-scale devices for transdermal drug delivery Arora, A.; Prausnitz, M. R.; Mitragotri, S. Int J Pharm 2008, 364 (2), 227-236.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Synergistic effects of chemical enhancers on skin permeability: a case study of sodium lauroylsarcosinate and sorbitan monolaurate",
+      "year": 2007,
+      "citation_raw": "Synergistic effects of chemical enhancers on skin permeability: a case study of sodium lauroylsarcosinate and sorbitan monolaurate Karande, P.; Jain, A.; Arora, A.; Ho, M. J.; Mitragotri, S. Eur J Pharm Sci 2007, 31 (1), 1-7.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Identification of peptide ligands facilitating nanoparticle attachment to erythrocytes",
+      "year": 2007,
+      "citation_raw": "Identification of peptide ligands facilitating nanoparticle attachment to erythrocytes Hall, S. S.; Mitragotri, S.; Daugherty, P. S. Biotechnol Prog 2007, 23 (3), 749-754.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Modeling of pattern regulation in melanophores",
+      "year": 2007,
+      "citation_raw": "Modeling of pattern regulation in melanophores Dinh, A. T.; Theofanous, T.; Mitragotri, S. J Theor Biol 2007, 244 (1), 141-153.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Understanding intracellular transport processes pertinent to synthetic gene delivery via stochastic simulations and sensitivity analyses",
+      "year": 2007,
+      "citation_raw": "Understanding intracellular transport processes pertinent to synthetic gene delivery via stochastic simulations and sensitivity analyses Dinh, A. T.; Pangarkar, C.; Theofanous, T.; Mitragotri, S. Biophys J 2007, 92 (3), 831-846.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Particle shape: a new design parameter for micro- and nanoscale drug delivery carriers",
+      "year": 2007,
+      "citation_raw": "Particle shape: a new design parameter for micro- and nanoscale drug delivery carriers Champion, J. A.; Katare, Y. K.; Mitragotri, S. J Control Release 2007, 121 (1-2), 3-9.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Making polymeric micro- and nanoparticles of complex shapes",
+      "year": 2007,
+      "citation_raw": "Making polymeric micro- and nanoparticles of complex shapes Champion, J. A.; Katare, Y. K.; Mitragotri, S. Proc Natl Acad Sci U S A 2007, 104 (29), 11901-11904.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Long circulating nanoparticles via adhesion on red blood cells: mechanism and extended circulation",
+      "year": 2007,
+      "citation_raw": "Long circulating nanoparticles via adhesion on red blood cells: mechanism and extended circulation. Chambers, E.; Mitragotri, S. Exp Biol Med (Maywood) 2007, 232 (7), 958-966.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Needle-free delivery of macromolecules across the skin by nanoliter-volume pulsed microjets",
+      "year": 2007,
+      "citation_raw": "Needle-free delivery of macromolecules across the skin by nanoliter-volume pulsed microjets Arora, A.; Hakim, I.; Baxter, J.; Rathnasingham, R.; Srinivasan, R.; Fletcher, D. A.; Mitragotri, S. Proc Natl Acad Sci U S A 2007, 104 (11), 4255-4260.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ultrasound-induced cavitation: applications in drug and gene delivery",
+      "year": 2006,
+      "citation_raw": "Ultrasound-induced cavitation: applications in drug and gene delivery Paliwal, S.; Mitragotri, S. Expert Opin Drug Deliv 2006, 3 (6), 713-726.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Low-frequency sonophoresis: ultrastructural basis for stratum corneum permeability assessed using quantum dots",
+      "year": 2006,
+      "citation_raw": "Low-frequency sonophoresis: ultrastructural basis for stratum corneum permeability assessed using quantum dots Paliwal, S.; Menon, G. K.; Mitragotri, S. J Invest Dermatol 2006, 126 (5), 1095-1101.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Evaluation of chemical enhancers in the transdermal delivery of lidocaine",
+      "year": 2006,
+      "citation_raw": "Evaluation of chemical enhancers in the transdermal delivery of lidocaine Lee, P. J.; Ahmad, N.; Langer, R.; Mitragotri, S.; Prasad Shastri, V. Int J Pharm 2006, 308 (1-2), 33-39.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Relationships between skin's electrical impedance and permeability in the presence of chemical enhancers",
+      "year": 2006,
+      "citation_raw": "Relationships between skin's electrical impedance and permeability in the presence of chemical enhancers Karande, P.; Jain, A.; Mitragotri, S. J Control Release 2006, 110 (2), 307-313.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Insights into synergistic interactions in binary mixtures of chemical permeation enhancers for transdermal drug delivery",
+      "year": 2006,
+      "citation_raw": "Insights into synergistic interactions in binary mixtures of chemical permeation enhancers for transdermal drug delivery Karande, P.; Jain, A.; Mitragotri, S. J Control Release 2006, 115 (1), 85-93.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Theory of spatial patterns of intracellular organelles",
+      "year": 2006,
+      "citation_raw": "Theory of spatial patterns of intracellular organelles Dinh, A. T.; Pangarkar, C.; Theofanous, T.; Mitragotri, S. Biophys J 2006, 90 (10), L67-69.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Role of target geometry in phagocytosis",
+      "year": 2006,
+      "citation_raw": "Role of target geometry in phagocytosis Champion, J. A.; Mitragotri, S. Proc Natl Acad Sci U S A 2006, 103 (13), 4930-4934.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Needle-free liquid jet injections: mechanisms and applications",
+      "year": 2006,
+      "citation_raw": "Needle-free liquid jet injections: mechanisms and applications Baxter, J.; Mitragotri, S. Expert Rev Med Devices 2006, 3 (5), 565-574.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Low-frequency ultrasound as a transcutaneous immunization adjuvant",
+      "year": 2005,
+      "citation_raw": "Low-frequency ultrasound as a transcutaneous immunization adjuvant Tezel, A.; Paliwal, S.; Shen, Z.; Mitragotri, S. Vaccine 2005, 23 (29), 3800-3807.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Dynamics and spatial organization of endosomes in mammalian cells",
+      "year": 2005,
+      "citation_raw": "Dynamics and spatial organization of endosomes in mammalian cells Pangarkar, C.; Dinh, A. T.; Mitragotri, S. Phys Rev Lett 2005, 95 (15), 158101.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Induction of cancer-specific cytotoxicity towards human prostate and skin cells using quercetin and ultrasound",
+      "year": 2005,
+      "citation_raw": "Induction of cancer-specific cytotoxicity towards human prostate and skin cells using quercetin and ultrasound Paliwal, S.; Sundaram, J.; Mitragotri, S. Br J Cancer 2005, 92 (3), 499-502.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Design principles of chemical penetration enhancers for transdermal drug delivery",
+      "year": 2005,
+      "citation_raw": "Design principles of chemical penetration enhancers for transdermal drug delivery Karande, P.; Jain, A.; Ergun, K.; Kispersky, V.; Mitragotri, S. Proc Natl Acad Sci U S A 2005, 102 (13), 4688-4693.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A model for intracellular trafficking of adenoviral vectors",
+      "year": 2005,
+      "citation_raw": "A model for intracellular trafficking of adenoviral vectors Dinh, A. T.; Theofanous, T.; Mitragotri, S. Biophys J 2005, 89 (3), 1574-1588.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Jet-induced skin puncture and its impact on needle-free jet injections: experimental studies and a predictive model",
+      "year": 2005,
+      "citation_raw": "Jet-induced skin puncture and its impact on needle-free jet injections: experimental studies and a predictive model Baxter, J.; Mitragotri, S. J Control Release 2005, 106 (3), 361-373.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Oral delivery of macromolecules using intestinal patches: applications for insulin delivery",
+      "year": 2004,
+      "citation_raw": "Oral delivery of macromolecules using intestinal patches: applications for insulin delivery Whitehead, K.; Shen, Z.; Mitragotri, S. J Control Release 2004, 98 (1), 37-45.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Topical delivery of anti-sense oligonucleotides using low-frequency sonophoresis",
+      "year": 2004,
+      "citation_raw": "Topical delivery of anti-sense oligonucleotides using low-frequency sonophoresis Tezel, A.; Dokka, S.; Kelly, S.; Hardee, G. E.; Mitragotri, S. Pharm Res 2004, 21 (12), 2219-2225.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Investigations of needle-free jet injections",
+      "year": 2004,
+      "citation_raw": "Investigations of needle-free jet injections Schramm-Baxter, J. R.; Mitragotri, S. Conf Proc IEEE Eng Med Biol Soc 2004, 2004, 3543-3546.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Needle-free jet injections: dependence of jet penetration and dispersion in the skin on jet power",
+      "year": 2004,
+      "citation_raw": "Needle-free jet injections: dependence of jet penetration and dispersion in the skin on jet power Schramm-Baxter, J.; Mitragotri, S. J Control Release 2004, 97 (3), 527-535.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Jet injection into polyacrylamide gels: investigation of jet injection mechanics",
+      "year": 2004,
+      "citation_raw": "Jet injection into polyacrylamide gels: investigation of jet injection mechanics Schramm-Baxter, J.; Katrencik, J.; Mitragotri, S. J Biomech 2004, 37 (8), 1181-1188.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Current status and future potential of transdermal drug delivery",
+      "year": 2004,
+      "citation_raw": "Current status and future potential of transdermal drug delivery Prausnitz, M. R.; Mitragotri, S.; Langer, R. Nat Rev Drug Discov 2004, 3 (2), 115-124.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Low-frequency sonophoresis: a review",
+      "year": 2004,
+      "citation_raw": "Low-frequency sonophoresis: a review Mitragotri, S.; Kost, J. Adv Drug Deliv Rev 2004, 56 (5), 589-601.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Discovery of transdermal penetration enhancers by high-throughput screening",
+      "year": 2004,
+      "citation_raw": "Discovery of transdermal penetration enhancers by high-throughput screening Karande, P.; Jain, A.; Mitragotri, S. Nat Biotechnol 2004, 22 (2), 192-197.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Prolonged circulation of large polymeric nanoparticles by non-covalent adsorption on erythrocytes",
+      "year": 2004,
+      "citation_raw": "Prolonged circulation of large polymeric nanoparticles by non-covalent adsorption on erythrocytes Chambers, E.; Mitragotri, S. J Control Release 2004, 100 (1), 111-119.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Description of transdermal transport of hydrophilic solutes during low-frequency sonophoresis based on a modified porous pathway model",
+      "year": 2003,
+      "citation_raw": "Description of transdermal transport of hydrophilic solutes during low-frequency sonophoresis based on a modified porous pathway model Tezel, A.; Sens, A.; Mitragotri, S. J Pharm Sci 2003, 92 (2), 381-393.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "On the origin of size-dependent tortuosity for permeation of hydrophilic solutes across the stratum corneum",
+      "year": 2003,
+      "citation_raw": "On the origin of size-dependent tortuosity for permeation of hydrophilic solutes across the stratum corneum Tezel, A.; Mitragotri, S. J Control Release 2003, 86 (1), 183-186.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Interactions of inertial cavitation bubbles with stratum corneum lipid bilayers during low-frequency sonophoresis",
+      "year": 2003,
+      "citation_raw": "Interactions of inertial cavitation bubbles with stratum corneum lipid bilayers during low-frequency sonophoresis Tezel, A.; Mitragotri, S. Biophys J 2003, 85 (6), 3502-3512.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "An experimental and theoretical analysis of ultrasound-induced permeabilization of cell membranes",
+      "year": 2003,
+      "citation_raw": "An experimental and theoretical analysis of ultrasound-induced permeabilization of cell membranes Sundaram, J.; Mellein, B. R.; Mitragotri, S. Biophys J 2003, 84 (5), 3087-3101.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A reversibly switching surface",
+      "year": 2003,
+      "citation_raw": "A reversibly switching surface Lahann, J.; Mitragotri, S.; Tran, T. N.; Kaido, H.; Sundaram, J.; Choi, I. S.; Hoffer, S.; Somorjai, G. A.; Langer, R. Science 2003, 299 (5605), 371-374.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Dependence of skin permeability on contact area",
+      "year": 2003,
+      "citation_raw": "Dependence of skin permeability on contact area Karande, P.; Mitragotri, S. Pharm Res 2003, 20 (2), 257-263.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Synergistic effect of low-frequency ultrasound and surfactants on skin permeability",
+      "year": 2002,
+      "citation_raw": "Synergistic effect of low-frequency ultrasound and surfactants on skin permeability Tezel, A.; Sens, A.; Tuchscherer, J.; Mitragotri, S. J Pharm Sci 2002, 91 (1), 91-100.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Investigations of the role of cavitation in low-frequency sonophoresis using acoustic spectroscopy",
+      "year": 2002,
+      "citation_raw": "Investigations of the role of cavitation in low-frequency sonophoresis using acoustic spectroscopy Tezel, A.; Sens, A.; Mitragotri, S. J Pharm Sci 2002, 91 (2), 444-453.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Incorporation of lipophilic pathways into the porous pathway model for describing skin permeabilization during low-frequency sonophoresis",
+      "year": 2002,
+      "citation_raw": "Incorporation of lipophilic pathways into the porous pathway model for describing skin permeabilization during low-frequency sonophoresis Tezel, A.; Sens, A.; Mitragotri, S. J Control Release 2002, 83 (1), 183-188.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A theoretical analysis of low-frequency sonophoresis: dependence of transdermal transport pathways on frequency and energy density",
+      "year": 2002,
+      "citation_raw": "A theoretical analysis of low-frequency sonophoresis: dependence of transdermal transport pathways on frequency and energy density Tezel, A.; Sens, A.; Mitragotri, S. Pharm Res 2002, 19 (12), 1841-1846.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Porous resins as a cavitation enhancer for low-frequency sonophoresis",
+      "year": 2002,
+      "citation_raw": "Porous resins as a cavitation enhancer for low-frequency sonophoresis Terahara, T.; Mitragotri, S.; Langer, R. J Pharm Sci 2002, 91 (3), 753-759.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Dependence of low-frequency sonophoresis on ultrasound parameters; distance of the horn and intensity",
+      "year": 2002,
+      "citation_raw": "Dependence of low-frequency sonophoresis on ultrasound parameters; distance of the horn and intensity Terahara, T.; Mitragotri, S.; Kost, J.; Langer, R. Int J Pharm 2002, 235 (1-2), 35-42.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Intestinal patches for oral drug delivery",
+      "year": 2002,
+      "citation_raw": "Intestinal patches for oral drug delivery Shen, Z.; Mitragotri, S. Pharm Res 2002, 19 (4), 391-395.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transdermal drug delivery by jet injectors: energetics of jet formation and penetration",
+      "year": 2002,
+      "citation_raw": "Transdermal drug delivery by jet injectors: energetics of jet formation and penetration Schramm, J.; Mitragotri, S. Pharm Res 2002, 19 (11), 1673-1679.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "High throughput screening of transdermal formulations",
+      "year": 2002,
+      "citation_raw": "High throughput screening of transdermal formulations Karande, P.; Mitragotri, S. Pharm Res 2002, 19 (5), 655-660.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Frequency dependence of sonophoresis",
+      "year": 2001,
+      "citation_raw": "Frequency dependence of sonophoresis Tezel, A.; Sens, A.; Tuchscherer, J.; Mitragotri, S. Pharm Res 2001, 18 (12), 1694-1700.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Theoretical description of transdermal transport of hydrophilic permeants: application to low-frequency sonophoresis",
+      "year": 2001,
+      "citation_raw": "Theoretical description of transdermal transport of hydrophilic permeants: application to low-frequency sonophoresis Tang, H.; Mitragotri, S.; Blankschtein, D.; Langer, R. J Pharm Sci 2001, 90 (5), 545-568.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transdermal delivery of heparin and low-molecular weight heparin using low-frequency ultrasound",
+      "year": 2001,
+      "citation_raw": "Transdermal delivery of heparin and low-molecular weight heparin using low-frequency ultrasound Mitragotri, S.; Kost, J. Pharm Res 2001, 18 (8), 1151-1156.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Synergistic effect of low-frequency ultrasound and sodium lauryl sulfate on transdermal transport",
+      "year": 2000,
+      "citation_raw": "Synergistic effect of low-frequency ultrasound and sodium lauryl sulfate on transdermal transport Mitragotri, S.; Ray, D.; Farrell, J.; Tang, H.; Yu, B.; Kost, J.; Blankschtein, D.; Langer, R. J Pharm Sci 2000, 89 (7), 892-900.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Low-frequency sonophoresis: a noninvasive method of drug delivery and diagnostics",
+      "year": 2000,
+      "citation_raw": "Low-frequency sonophoresis: a noninvasive method of drug delivery and diagnostics Mitragotri, S.; Kost, J. Biotechnol Prog 2000, 16 (3), 488-492.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Determination of threshold energy dose for ultrasound-induced transdermal drug transport",
+      "year": 2000,
+      "citation_raw": "Determination of threshold energy dose for ultrasound-induced transdermal drug transport Mitragotri, S.; Farrell, J.; Tang, H.; Terahara, T.; Kost, J.; Langer, R. J Control Release 2000, 63 (1-2), 41-52.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transdermal extraction of analytes using low-frequency ultrasound",
+      "year": 2000,
+      "citation_raw": "Transdermal extraction of analytes using low-frequency ultrasound Mitragotri, S.; Coleman, M.; Kost, J.; Langer, R. Pharm Res 2000, 17 (4), 466-470.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Analysis of ultrasonically extracted interstitial fluid as a predictor of blood glucose levels",
+      "year": 2000,
+      "citation_raw": "Analysis of ultrasonically extracted interstitial fluid as a predictor of blood glucose levels Mitragotri, S.; Coleman, M.; Kost, J.; Langer, R. J Appl Physiol (1985) 2000, 89 (3), 961-966.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Combined effect of low-frequency ultrasound and iontophoresis: applications for transdermal heparin delivery",
+      "year": 2000,
+      "citation_raw": "Combined effect of low-frequency ultrasound and iontophoresis: applications for transdermal heparin delivery Le, L.; Kost, J.; Mitragotri, S. Pharm Res 2000, 17 (9), 1151-1154.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transdermal monitoring of glucose and other analytes using ultrasound",
+      "year": 2000,
+      "citation_raw": "Transdermal monitoring of glucose and other analytes using ultrasound Kost, J.; Mitragotri, S.; Gabbay, R. A.; Pishko, M.; Langer, R. Nat Med 2000, 6 (3), 347-350.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "An analysis of the size selectivity of solute partitioning, diffusion, and permeation across lipid bilayers",
+      "year": 1999,
+      "citation_raw": "An analysis of the size selectivity of solute partitioning, diffusion, and permeation across lipid bilayers. Mitragotri, S.; Johnson, M. E.; Blankschtein, D.; Langer, R. Biophys J 1999, 77 (3), 1268-1283.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "An explanation for the variation of the sonophoretic transdermal transport enhancement from drug to drug",
+      "year": 1997,
+      "citation_raw": "An explanation for the variation of the sonophoretic transdermal transport enhancement from drug to drug. Mitragotri, S.; Blankschtein, D.; Langer, R. J Pharm Sci 1997, 86 (10), 1190-1192.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Transdermal drug delivery using low-frequency sonophoresis",
+      "year": 1996,
+      "citation_raw": "Transdermal drug delivery using low-frequency sonophoresis. Mitragotri, S.; Blankschtein, D.; Langer, R. Pharm Res 1996, 13 (3), 411-420.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Synergistic effect of electric field and ultrasound on transdermal transport",
+      "year": 1996,
+      "citation_raw": "Synergistic effect of electric field and ultrasound on transdermal transport. Kost, J.; Pliquett, U.; Mitragotri, S.; Yamamoto, A.; Langer, R.; Weaver, J. Pharm Res 1996, 13 (4), 633-638.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Synergistic effects of chemical enhancers and therapeutic ultrasound on transdermal drug delivery",
+      "year": 1996,
+      "citation_raw": "Synergistic effects of chemical enhancers and therapeutic ultrasound on transdermal drug delivery. Johnson, M. E.; Mitragotri, S.; Patel, A.; Blankschtein, D.; Langer, R. J Pharm Sci 1996, 85 (7), 670-679.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "A mechanistic study of ultrasonically-enhanced transdermal drug delivery",
+      "year": 1995,
+      "citation_raw": "A mechanistic study of ultrasonically-enhanced transdermal drug delivery. Mitragotri, S.; Edwards, D. A.; Blankschtein, D.; Langer, R. J Pharm Sci 1995, 84 (6), 697-706.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Ultrasound-mediated transdermal protein delivery",
+      "year": 1995,
+      "citation_raw": "Ultrasound-mediated transdermal protein delivery. Mitragotri, S.; Blankschtein, D.; Langer, R. Science 1995, 269 (5225), 850-853.",
+      "source_url": "https://www.mitragotrilab.seas.harvard.edu/publications"
+    }
+  ]
 }

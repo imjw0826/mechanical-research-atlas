@@ -14392,9 +14392,9 @@ Smart Materials & Energy Laboratory (SMILE Lab) · 논문·원고 87건 · 기�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-12T14:25:28.765068+00:00
+확인일: 2026-11-15T07:07:46.309678+00:00
 
-수집 범위: 공식 연구실 사이트(Google Sites)에 논문 목록 페이지가 없음. 홈·Researches 페이지만 확인.
+수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
 출처: <https://sites.google.com/view/rslab-kaist/>
 

@@ -3,16 +3,10 @@
   "university_key": "postech",
   "pi": "박성민",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-12T13:55:04.521Z",
-  "coverage_notes": [
-    "Attempted https://me.postech.ac.kr/ko/page/professor26 error Error: Selector \"body\" not found",
-    "Actual official lab publication page visited; visible text saved. Conservative quoted-title extraction only. Full category/pagination/detail and publication-status verification remains incomplete.",
-    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  "lab_url": "https://me.postech.ac.kr/ko/page/professor26",
+  "publication_urls": [
+    "https://me.postech.ac.kr/ko/page/professor26"
   ],
-  "status": "partial",
-  "papers": [],
   "investigation_stage": "full_site_attempted",
   "source_page_manifest": [
     {
@@ -30,5 +24,15 @@
       "capture_kind": "browser_snapshot",
       "characters": 1730
     }
-  ]
+  ],
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Attempted https://me.postech.ac.kr/ko/page/professor26 error Error: Selector \"body\" not found",
+    "Actual official lab publication page visited; visible text saved. Conservative quoted-title extraction only. Full category/pagination/detail and publication-status verification remains incomplete.",
+    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "status": "partial",
+  "papers": []
 }

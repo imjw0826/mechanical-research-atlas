@@ -5,7 +5,7 @@
   "lab_name": null,
   "lab_url": "https://azizan.mit.edu/",
   "publication_urls": [
-    "https://meche.mit.edu/people/faculty/azizan@mit.edu"
+    "https://azizan.mit.edu/"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/azizan@mit.edu",
   "discovered_links": [
@@ -117,12 +117,130 @@
   "discovered_publication_links": [],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official MechE profile inspected. Full laboratory publications navigation and extraction not yet completed; resume from saved discovered_links. No inference from roster beyond identifying requested subject.",
-    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Newton Matching for Generative Modeling: A Unified Framework for Fine-Tuning and Sampling",
+      "year": 2026,
+      "citation_raw": "Research Highlights Newton Matching for Generative Modeling: A Unified Framework for Fine-Tuning and Sampling DiRecT: Safe Diffusion-Based Planning via Receding-Horizon Denoising, Neural Information Processing Systems (NeurIPS), 2026",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization",
+      "year": 2026,
+      "citation_raw": "HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization, IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2026 [Featured on MIT News]",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies",
+      "year": 2026,
+      "citation_raw": "Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies, International Conference on Machine Learning (ICML), 2026 [Selected as Spotlight; Top 2%]",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "PS2-RL: Provably Safe, Yet Scalable Reinforcement Learning",
+      "year": 2026,
+      "citation_raw": "PS2-RL: Provably Safe, Yet Scalable Reinforcement Learning, Neural Information Processing Systems (NeurIPS), 2026 [Selected as Spotlight; Top 1%]",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "HardNet++: Nonlinear Constraint Enforcement in Neural Networks",
+      "year": 2026,
+      "citation_raw": "HardNet++: Nonlinear Constraint Enforcement in Neural Networks, IEEE Control Systems Letters (L-CSS), 2026",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "LMI-Net: Linear Matrix Inequality–Constrained Neural Networks via Differentiable Projection Layers",
+      "year": 2026,
+      "citation_raw": "LMI-Net: Linear Matrix Inequality–Constrained Neural Networks via Differentiable Projection Layers Learning Dissipative Chaotic Dynamics with Boundedness Guarantees, Proceedings of the National Academy of Sciences (PNAS), 2026",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Uncertainty Quantification in Detection Transformers: Object-Level Calibration and Image-Level Reliability",
+      "year": 2026,
+      "citation_raw": "Uncertainty Quantification in Detection Transformers: Object-Level Calibration and Image-Level Reliability, IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2026",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Personalized Collaborative Learning with Affinity-Based Variance Reduction",
+      "year": 2026,
+      "citation_raw": "Personalized Collaborative Learning with Affinity-Based Variance Reduction, International Conference on Learning Representations (ICLR), 2026",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "HardNet: Hard-Constrained Neural Networks with Universal Approximation Guarantees",
+      "year": 2026,
+      "citation_raw": "HardNet: Hard-Constrained Neural Networks with Universal Approximation Guarantees, Journal of Machine Learning Research (JMLR), 2026; Short version in NeurIPS Constrained Machine Learning Workshop, 2025 [Selected as Oral; Top 6%]",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "On the Role of Transformer Feed-Forward Layers in Nonlinear In-Context Learning",
+      "year": 2026,
+      "citation_raw": "On the Role of Transformer Feed-Forward Layers in Nonlinear In-Context Learning, Journal of Machine Learning Research (JMLR), 2026; Short version in Algorithmic Learning Theory (ALT), 2026, and NeurIPS Transformers Workshop, 2025 [Selected as Spotlight; Top 4%]",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection",
+      "year": 2026,
+      "citation_raw": "Optimizing Attention with Mirror Descent: Generalized Max-Margin Token Selection, Journal of Machine Learning Research (JMLR), 2026",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Online Learning for Equilibrium Pricing in Markets under Incomplete Information, Operations Research (OR)",
+      "year": 2026,
+      "citation_raw": "Online Learning for Equilibrium Pricing in Markets under Incomplete Information, Operations Research (OR), 2026 [2025 INFORMS JFIG Paper Competition Finalist]; Short version in IEEE Conference on Decision and Control (CDC), 2023",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Know What You Don't Know: Uncertainty Calibration of Process Reward Models [Featured on MIT News]",
+      "year": 2025,
+      "citation_raw": "Know What You Don't Know: Uncertainty Calibration of Process Reward Models [Featured on MIT News], Neural Information Processing Systems (NeurIPS), 2025",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Activation-Informed Merging of Large Language Models",
+      "year": 2025,
+      "citation_raw": "Activation-Informed Merging of Large Language Models, Neural Information Processing Systems (NeurIPS), 2025",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Safe Multi-Agent Reinforcement Learning with Convergence to Generalized Nash Equilibrium",
+      "year": 2026,
+      "citation_raw": "Safe Multi-Agent Reinforcement Learning with Convergence to Generalized Nash Equilibrium Differentially Private Synthetic Data Generation for Relational Databases, Journal of Machine Learning Research (JMLR), 2026 [Winner of the 2026 MIT Prize for Open Data]",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Quantifying Representation Reliability in Self-Supervised Learning Models, Uncertainty in Artificial Intelligence (UAI)",
+      "year": 2024,
+      "citation_raw": "Quantifying Representation Reliability in Self-Supervised Learning Models, Uncertainty in Artificial Intelligence (UAI), 2024 [Featured on MIT News]; Short version in Robotics: Systems and Science (RSS) Safe Autonomy Workshop, 2023 [Selected as Spotlight]",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "A Unified Approach to Controlling Implicit Regularization via Mirror Descent",
+      "year": 2023,
+      "citation_raw": "A Unified Approach to Controlling Implicit Regularization via Mirror Descent, Journal of Machine Learning Research (JMLR), 2023",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Mirror Descent Maximizes Generalized Margin and Can Be Implemented Efficiently",
+      "year": 2022,
+      "citation_raw": "Mirror Descent Maximizes Generalized Margin and Can Be Implemented Efficiently, Neural Information Processing Systems (NeurIPS), 2022",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Data-Driven Control with Inherent Lyapunov Stability",
+      "year": 2023,
+      "citation_raw": "Data-Driven Control with Inherent Lyapunov Stability, IEEE Conference on Decision and Control (CDC), 2023",
+      "source_url": "https://azizan.mit.edu/"
+    },
+    {
+      "title": "Distributed Linear Solvers and Data Heterogeneity",
+      "year": 2026,
+      "citation_raw": "Distributed Linear Solvers and Data Heterogeneity, SIAM Journal on Mathematics of Data Science (SIMODS), 2026; Short version in IEEE Conference on Decision and Control (CDC), 2023",
+      "source_url": "https://azizan.mit.edu/"
+    }
+  ]
 }

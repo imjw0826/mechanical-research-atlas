@@ -5,13 +5,17 @@
   "lab_name": null,
   "lab_url": "https://biodesign.seas.harvard.edu/",
   "publication_urls": [
-    "https://biodesign.seas.harvard.edu/"
+    "https://biodesign.seas.harvard.edu/",
+    "https://seas.harvard.edu/person/conor-walsh",
+    "https://biodesign.seas.harvard.edu/selectedpublications",
+    "https://biodesign.seas.harvard.edu/publications",
+    "https://wiki.harvard.edu/confluence/display/seasbiodesign/Biodesign+Lab+Home"
   ],
-  "accessed_at": "2026-11-11T13:52:30.964Z",
-  "coverage_notes": [
-    "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
-    "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
-  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 28개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
   "status": "partial",
   "papers": []
 }

@@ -5,22 +5,38 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp01085",
   "publication_urls": [
-    "https://www.addtoany.com/share"
+    "https://dr.ntu.edu.sg/entities/person/Su-Pei-Chen/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01085",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Su-Pei-Chen",
-      "identity_evidence": "Assoc Prof Su Pei-Chen",
-      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
-      "website_links": []
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
-  ],
-  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Mechanically Reinforced Silicon Nano Thin Film Array for Low Temperature Solid Oxide Fuel Cells",
+      "year": 2016,
+      "citation_raw": "Articles (Journal) Articles (Journal) Jong Dae Baek, Chen-Chiang Yu, and Pei-Chen Su*. (2016). Mechanically Reinforced Silicon Nano Thin Film Array for Low Temperature Solid Oxide Fuel Cells. Nano Letters, .",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Su-Pei-Chen/selectedpublications"
+    },
+    {
+      "title": "Circular Membrane for Nano Thin Film Micro Solid Oxide Fuel Cells with Enhanced Mechanical Stability",
+      "year": 2015,
+      "citation_raw": "Jong Dae Baek, Yongjin Yoon, Wonyoung Lee, and Pei-Chen Su*. (2015). Circular Membrane for Nano Thin Film Micro Solid Oxide Fuel Cells with Enhanced Mechanical Stability. Energy & Environmental Science, 8, 3374 (IF=20.523).",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Su-Pei-Chen/selectedpublications"
+    },
+    {
+      "title": "Thermal stability and performance enhancement of nano-porous platinum cathode in solid oxide fuel cells by nanoscale ZrO2 capping",
+      "year": 2015,
+      "citation_raw": "Kang-Yu Liu, Liangdong Fan, Chen-Chiang Yu, Pei-Chen Su*. (2015). Thermal stability and performance enhancement of nano-porous platinum cathode in solid oxide fuel cells by nanoscale ZrO2 capping. Electrochemistry Communications, 56, 65–69 (IF=4.847).",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Su-Pei-Chen/selectedpublications"
+    },
+    {
+      "title": "Direct Observation of Nanoscale Pt Electrode Agglomeration at the Triple Phase Boundary",
+      "year": 2015,
+      "citation_raw": "Chen-Chiang Yu, Sanwi Kim, Jong Dae Baek, Yong Li, Pei-Chen Su*, and Taek-Soo Kim*. (2015). Direct Observation of Nanoscale Pt Electrode Agglomeration at the Triple Phase Boundary. ACS Applied Materials and Interfaces, 7(11), 6036 (IF= 6.723).",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Su-Pei-Chen/selectedpublications"
+    }
+  ]
 }

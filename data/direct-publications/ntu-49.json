@@ -3,28 +3,88 @@
   "university_key": "ntu",
   "pi": "Punit Kumar",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:52:54.149Z",
-  "coverage_notes": [
-    {
-      "profile_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar",
-      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar",
-      "identity_evidence": "Asst Prof Punit Kumar",
-      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
-      "website_links": [
-        {
-          "label": "Website",
-          "url": "https://medhalab.github.io/team/index.html"
-        },
-        {
-          "label": "Website",
-          "url": "https://scholar.google.co.in/citations?user=fh5Z0eYAAAAJ&hl=en"
-        }
-      ]
-    },
-    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported."
+  "lab_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar",
+  "publication_urls": [
+    "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
   ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Fracture behavior of high-entropy alloys: Resistance to fracture from strain hardening and softening",
+      "year": 2025,
+      "citation_raw": "P. Kumar, D. Cook, W. Wang, P. Borges, A. M. Minor, M. Asta, R. O. Ritchie*, “Fracture behavior of high-entropy alloys: Resistance to fracture from strain hardening and softening,” Matter, 8-4 (2025), DOI: https://doi.org/10.1016/j.matt.2025.102042.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    },
+    {
+      "title": "Kink bands promote exceptional fracture resistance in a NbTaTiHf refractory medium-entropy alloy",
+      "year": 2024,
+      "citation_raw": "D. H. Cook#, P. Kumar#, C. H. Belcher, M. Payne, P. Borges, W. Wang, F. Walsh, A. Devaraj, M. Zhang, M. Asta, A. M. Minor, D. Apelian, E. J. Lavernia, R. O. Ritchie, “Kink bands promote exceptional fracture resistance in a NbTaTiHf refractory medium-entropy alloy,” Science 384, 178–184 (2024). DOI: https://www.science.org/doi/10.1126/science.adn2428.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    },
+    {
+      "title": "A strong fracture-resistant high-entropy alloy with nano-bridged honeycomb microstructure: A critical role of 3D printing in promoting strength without compromising toughness",
+      "year": 2024,
+      "citation_raw": "P. Kumar, H. Sheng, D. H. Cook, K. Chen, U. Ramamurty, X. Tan, R. O. Ritchie*, “A strong fracture-resistant high-entropy alloy with nano-bridged honeycomb microstructure: A critical role of 3D printing in promoting strength without compromising toughness,” Nature Communications 15(1) (2024), 841. DOI: https://doi.org/10.1038/s41467-024-45178-2.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    },
+    {
+      "title": "On the strength and fracture toughness of an additive manufactured CrCoNi medium-entropy alloy",
+      "year": 2023,
+      "citation_raw": "P. Kumar, M. Michalek, D. H. Cook, H. Sheng, K. B. Lau, P. Wang, M. Zhang, A. M. Minor, U. Ramamurty, R. O. Ritchie*, “On the strength and fracture toughness of an additive manufactured CrCoNi medium-entropy alloy,” Acta Materialia 258 (2023), 119249. DOI: https://doi.org/10.1016/j.actamat.2023.119249.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    },
+    {
+      "title": "Degradation of the mechanical properties of NbMoTaW refractory high-entropy alloy in tension",
+      "year": 2024,
+      "citation_raw": "P. Kumar, X. Gou, D. H. Cook, N. J. Morrison, M. I. Payne, W. Wang, M. Zhang, M. Asta, A. M. Minor, R. Cao, Y. Li, R. O. Ritchie*, “Degradation of the mechanical properties of NbMoTaW refractory high-entropy alloy in tension,” Acta Materialia, 279, 120297 (2024). DOI: https://doi.org/10.1016/j.actamat.2024.120297.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    },
+    {
+      "title": "Compressive vs. tensile yield and fracture toughness behavior of a body-centered cubic refractory high-entropy superalloy Al0.5Nb1.25Ta1.25TiZr at temperatures from ambient to 1200°C",
+      "year": 2023,
+      "citation_raw": "P. Kumar, S. J. Kim, Q. Yu, J. Ell, M. Zhang, Y. Yang, J. Y. Kim, H. Park, A. M. Minor, E. S. Park, R. O. Ritchie*, “Compressive vs. tensile yield and fracture toughness behavior of a body-centered cubic refractory high-entropy superalloy Al0.5Nb1.25Ta1.25TiZr at temperatures from ambient to 1200°C,” Acta Materialia 245 (2023), 118620. DOI: https://doi.org/10.1016/j.actamat.2022.118620.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    },
+    {
+      "title": "Exceptional cryogenic-to-ambient impact toughness of a low carbon micro-alloyed steel with a multi-heterogeneous structure",
+      "year": 2024,
+      "citation_raw": "X. Xu#, P. Kumar#, R. Cao, Q. Ye, Y. Chu, Y. Tian, Y. Li*, R. O. Ritchie*, “Exceptional cryogenic-to-ambient impact toughness of a low carbon micro-alloyed steel with a multi-heterogeneous structure,” Acta Materialia 274, 120019 (2024). DOI: https://doi.org/10.1016/j.actamat.2024.120019.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    },
+    {
+      "title": "Fracture Behavior of Laser Powder Bed Fusion Fabricated Ti41Nb via In-situ Alloying",
+      "year": 2021,
+      "citation_raw": "S Huang*, P. Kumar, W. Y. Yeong, R. L. Narayan, U. Ramamurty, “Fracture Behavior of Laser Powder Bed Fusion Fabricated Ti41Nb via In-situ Alloying,” Acta Materialia, vol. 225 (2021) 117593. DOI: https://doi.org/10.1016/j.actamat.2021.117593.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    },
+    {
+      "title": "Fracture and fatigue in additively manufactured metals",
+      "year": 2021,
+      "citation_raw": "T.H. Becker, P. Kumar, U. Ramamurty*, “Fracture and fatigue in additively manufactured metals,” Acta Materialia, vol. 219 (2021) 117240. DOI: https://doi.org/10.1016/j.actamat.2021.117240.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    },
+    {
+      "title": "Fatigue strength of additively manufactured 316L austenitic stainless steel",
+      "year": 2020,
+      "citation_raw": "P. Kumar, R. Jayaraj, J. Suryawanshi, U.R. Satwik, J. McKinnell, U. Ramamurty*, “Fatigue strength of additively manufactured 316L austenitic stainless steel,” Acta Materialia (2020), vol. 199 (2020) 225-239. DOI: https://doi.org/10.1016/j.actamat.2020.08.033.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    },
+    {
+      "title": "Microstructural optimization through heat treatment for enhancing the fracture toughness and fatigue crack growth resistance of selective laser melted Ti–6Al–4V alloy",
+      "year": 2019,
+      "citation_raw": "P. Kumar, U. Ramamurty*, “Microstructural optimization through heat treatment for enhancing the fracture toughness and fatigue crack growth resistance of selective laser melted Ti–6Al–4V alloy,” Acta Materialia, vol. 169 (2019) 45–59. DOI: https://doi.org/10.1016/j.actamat.2019.03.003",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    },
+    {
+      "title": "Micro-and meso-structures and their influence on mechanical properties of selectively laser melted Ti-6Al-4V",
+      "year": 2018,
+      "citation_raw": "P. Kumar, O. Prakash, U. Ramamurty*, “Micro-and meso-structures and their influence on mechanical properties of selectively laser melted Ti-6Al-4V,” Acta Materialia, vol. 154 (2018) 246–260. DOI: https://doi.org/10.1016/j.actamat.2018.05.044.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications"
+    }
+  ]
 }

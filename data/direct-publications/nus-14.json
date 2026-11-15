@@ -3,14 +3,80 @@
   "university_key": "nus",
   "pi": "Jianshu ZHOU",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:56:00.033Z",
-  "coverage_notes": [
+  "lab_url": "https://cde.nus.edu.sg/me/staff/jianshu-zhou/",
+  "publication_urls": [
+    "https://cde.nus.edu.sg/me/staff/jianshu-zhou/"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Official page heading: Jianshu ZHOU",
     "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
     "No exact Publications/Papers navigation link resolved in captured profile."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "10 Selected Publications",
+      "year": 2025,
+      "citation_raw": "10 Selected Publications (* denotes corresponding author of Jianshu Zhou) [1] Zhou J, Chen W, Huang J, Liang B, Liu Y, Tomizuka M. Programmable Locking Cells (PLC) for Modular Robots With High Stiffness Tunability and Morphological Adaptability. IEEE Transactions on Robotics. 2025 Oct 28;41:6460-77.",
+      "source_url": "https://cde.nus.edu.sg/me/staff/jianshu-zhou/"
+    },
+    {
+      "title": "Liu Y. A dexterous and compliant (DexCo) hand based on soft hydraulic actuation for human-inspired fine in-hand manipulation",
+      "year": 2024,
+      "citation_raw": "[2] Zhou J, Huang J, Dou Q, Abbeel P, Liu Y. A dexterous and compliant (DexCo) hand based on soft hydraulic actuation for human-inspired fine in-hand manipulation. IEEE Transactions on Robotics. 2024 Nov 28;41:666-86.",
+      "source_url": "https://cde.nus.edu.sg/me/staff/jianshu-zhou/"
+    },
+    {
+      "title": "Singularity-Avoidant Motion Mappings for Pose-Tracking Teleoperation with Operational Jacobian Analysis",
+      "year": 2026,
+      "citation_raw": "[3] Zhou J, Liang B, Huang J, Zhang H, Zhang I, Wang Y, Abbeel P, Tomizuka M. Singularity-Avoidant Motion Mappings for Pose-Tracking Teleoperation with Operational Jacobian Analysis. IEEE/ASME Transactions on Mechatronics. 2026.",
+      "source_url": "https://cde.nus.edu.sg/me/staff/jianshu-zhou/"
+    },
+    {
+      "title": "Prismatic-Bending Transformable (PBT) Joint for a Modular, Foldable Manipulator With Enhanced Reachability and Dexterity",
+      "year": 2025,
+      "citation_raw": "[4] Zhou J, Huang J, Liang B, Zhang X, Ma X, Tomizuka M. Prismatic-Bending Transformable (PBT) Joint for a Modular, Foldable Manipulator With Enhanced Reachability and Dexterity. IEEE/ASME Transactions on Mechatronics. 2025 May 29;30(4):2936-2955.",
+      "source_url": "https://cde.nus.edu.sg/me/staff/jianshu-zhou/"
+    },
+    {
+      "title": null,
+      "year": 2024,
+      "citation_raw": "[5] Zhou J, Huang J, Ma X, Lee A, Kosuge K, Liu YH. Design, modeling, and control of soft syringes enabling two pumping modes for pneumatic robot applications. IEEE/ASME Transactions on Mechatronics. 2024 Jan 9;29(2):889-901.",
+      "source_url": "https://cde.nus.edu.sg/me/staff/jianshu-zhou/"
+    },
+    {
+      "title": "Antagonistic pump with multiple pumping modes for on-demand soft robot actuation and control",
+      "year": 2023,
+      "citation_raw": "[6] Zhou J, Chen W, Cao H, He Q, Liu Y. Antagonistic pump with multiple pumping modes for on-demand soft robot actuation and control. IEEE/ASME Transactions on Mechatronics. 2023 Dec 27;29(5):3252-64.",
+      "source_url": "https://cde.nus.edu.sg/me/staff/jianshu-zhou/"
+    },
+    {
+      "title": "Bioinspired soft wrist based on multicable jamming with hybrid motion and stiffness control for dexterous manipulation",
+      "year": 2022,
+      "citation_raw": "[7] Zhou J, Cao H, Chen W, Cheng SS, Liu YH. Bioinspired soft wrist based on multicable jamming with hybrid motion and stiffness control for dexterous manipulation. IEEE/ASME Transactions on Mechatronics. 2022 Dec 2;28(3):1256-67.",
+      "source_url": "https://cde.nus.edu.sg/me/staff/jianshu-zhou/"
+    },
+    {
+      "title": "Everything-Grasping Gripper: A Universal Gripper with Synergistic Suction–Grasping Capabilities for Cross-Scale and Cross-State Manipulation",
+      "year": 2025,
+      "citation_raw": "[8] Zhou J, Shu J, Pan T, Zhu P, An J, Zhang H, Huang J, Kaur U, Ma X, Tomizuka M. Everything-Grasping Gripper: A Universal Gripper with Synergistic Suction–Grasping Capabilities for Cross-Scale and Cross-State Manipulation. Soft Robotics. 2025 Dec 3:21695172251400144.",
+      "source_url": "https://cde.nus.edu.sg/me/staff/jianshu-zhou/"
+    },
+    {
+      "title": "Adaptive variable stiffness particle phalange for robust and durable robotic grasping",
+      "year": 2020,
+      "citation_raw": "[9] Zhou J, Chen Y, Hu Y, Wang Z, Li Y, Gu G, Liu Y. Adaptive variable stiffness particle phalange for robust and durable robotic grasping. Soft robotics. 2020 Dec 1;7(6):743-57.",
+      "source_url": "https://cde.nus.edu.sg/me/staff/jianshu-zhou/"
+    },
+    {
+      "title": "Dih-tele: Dexterous in-hand teleoperation framework for learning multiobjects manipulation with tactile sensing",
+      "year": 2025,
+      "citation_raw": "[10] Huang, J., Chen, K., Zhou, J*., Lin, X., Abbeel, P., Dou, Q., Liu, Y. Dih-tele: Dexterous in-hand teleoperation framework for learning multiobjects manipulation with tactile sensing. IEEE/ASME Transactions on Mechatronics. 2025 Feb 21;30(5):3840-3851.",
+      "source_url": "https://cde.nus.edu.sg/me/staff/jianshu-zhou/"
+    }
+  ]
 }

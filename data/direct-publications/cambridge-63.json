@@ -3,13 +3,319 @@
   "university_key": "cambridge",
   "pi": "Chander Velu",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:56:24.164Z",
-  "coverage_notes": [
+  "lab_url": "https://www.eng.cam.ac.uk/profiles/cv236",
+  "publication_urls": [
+    "http://www.ifm.eng.cam.ac.uk/people/cv236/"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Official profile visited. Publications/lab follow-up pending; no completeness claim.",
     "Discovered Personal website: http://www.ifm.eng.cam.ac.uk/people/cv236/"
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "The Business of Quantum Technologies: From Theory to Innovation Strategy, Palgrave Macmillan",
+      "year": 2025,
+      "citation_raw": "Books Velu, C., Norman, K., Zhu, Y., Putra, F. and Noble, C. (2025). The Business of Quantum Technologies: From Theory to Innovation Strategy. Palgrave Macmillan.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Early-Stage Business Models for Commercializing University Technology in the Cleantech Industry, Technology Forecasting and Social Change",
+      "year": 2026,
+      "citation_raw": "Journal Articles Moktar, Z., Ben Hadj, F. and Velu, C. (2026). Early-Stage Business Models for Commercializing University Technology in the Cleantech Industry, Technology Forecasting and Social Change, 229, 124393",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "GPS timekeeping is increasingly vulnerable: here’s how to deliver future-proofed time",
+      "year": 2025,
+      "citation_raw": "Lobo, L., Paul, D. and Velu, C. (2025). GPS timekeeping is increasingly vulnerable: here’s how to deliver future-proofed time. Nature, 645(8081), 585-588. Shareable version",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Robot Adoption and Profitability: The Opportunities and Challenges Ahead",
+      "year": 2024,
+      "citation_raw": "Chen,Y.P., Velu, C. and McFarlane, D (2024). Robot Adoption and Profitability: The Opportunities and Challenges Ahead. IEEE Engineering Management Review, 52(6), 8-14.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Elastic manufacturing: provisioning and deprovisioning production capacity to vary product volume and mix",
+      "year": 2024,
+      "citation_raw": "Rama Murthy, S., Sousa-Zomer, T.T., Minshall, T., Velu, C., Kazantsev, N. and McFarlane, D., (2024). Elastic manufacturing: provisioning and deprovisioning production capacity to vary product volume and mix. International Journal of Operations & Production Management., 44(11), 1893-1917",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "The Effect of Robot Adoption on Profit Margins",
+      "year": 2024,
+      "citation_raw": "Chen,Y.P., Velu, C. and McFarlane, D (2024). The Effect of Robot Adoption on Profit Margins. IEEE Transactions on Engineering Management, 71, 8951-8963.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "How to introduce quantum computers without slowing economic growth",
+      "year": 2023,
+      "citation_raw": "Velu, C. and F. H. Putra. (2023). How to introduce quantum computers without slowing economic growth, Nature, 619 (7970), 461-464. Shareable version",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Innovation Ecosystems in B2B contexts: Owning the Space, Industrial Marketing Management",
+      "year": 2023,
+      "citation_raw": "Pattinson, S., J. Nicholson, M. Ehret, C. Velu and P. Ryan. (2023). Innovation Ecosystems in B2B contexts: Owning the Space, Industrial Marketing Management, 108, A1-A9.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Learning From Near Misses from Covid 19",
+      "year": 2021,
+      "citation_raw": "Velu, C. and S. Iyer. (2021). Learning From Near Misses from Covid 19, Proceedings of the National Academy of Sciences, 118(40), e2108269118.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "A Simulation Study of How Religious Fundamentalism Takes Root",
+      "year": 2021,
+      "citation_raw": "Fan, J., D. Friedman, J. Gair, S. Iyer, B. Redlicki and C. Velu. (2021). A Simulation Study of How Religious Fundamentalism Takes Root. Journal of Economic Behavior and Organization, 192, 465-481.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Productivity Growth and Business Model Innovation",
+      "year": 2021,
+      "citation_raw": "Wannakrairoj, W. and C. Velu. (2021). Productivity Growth and Business Model Innovation. Economics Letters, 199, 109679, 1-5.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Velu (2021) Discovering and Managing Interdependence with Customer-Entrepreneurs",
+      "year": 2021,
+      "citation_raw": "Park, H., P. Ritala and C. Velu (2021) Discovering and Managing Interdependence with Customer-Entrepreneurs, British Journal of Management 32(1): 124-146.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Does Blockchain for 3D Printing Offer Opportunities for Business Model Innovation, Research Technology Management, July-August",
+      "year": 2020,
+      "citation_raw": "Klöckner, M., S. Kurpjuweit, C. Velu and S. Wagner. (2020). Does Blockchain for 3D Printing Offer Opportunities for Business Model Innovation, Research Technology Management, July-August, 18-27.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Preparing for Industry 4.0: Digital Business Model Innovation in the Food and Beverage Industry",
+      "year": 2020,
+      "citation_raw": "Koebnick, P., C. Velu and D. McFarlane. (2020). Preparing for Industry 4.0: Digital Business Model Innovation in the Food and Beverage Industry, International Journal of Mechatronics and Manufacturing Systems, 13(1), 59-88.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Malaysianization and the Barlow Boustead Estates Agency",
+      "year": 2020,
+      "citation_raw": "Glew, R. and Velu. C. (2020). Malaysianization and the Barlow Boustead Estates Agency, Journal of the Malaysian Branch of the Royal Asiatic Society, 93(1), 318, 43-66.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Velu (2018) When to Adopt an Innovation: Nash Equilibria in a Competitive Diffusion Framework",
+      "year": 2018,
+      "citation_raw": "Pac, F., S. Savin and C. Velu (2018) When to Adopt an Innovation: Nash Equilibria in a Competitive Diffusion Framework, European Journal of Operations Management, 271(3), 968-984.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "C. (2017) A Systems Perspective on Business Model Evolution: The Case of an Agricultural Informational Service Provider in India, Long Range Planning",
+      "year": 2017,
+      "citation_raw": "Velu, C. (2017) A Systems Perspective on Business Model Evolution: The Case of an Agricultural Informational Service Provider in India, Long Range Planning, 50(5), 603-620.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Bisessar (2017) Exploring the Journey to Services",
+      "year": 2017,
+      "citation_raw": "Martinez, V., A. Neely, C. Velu, S. Leinster-Evans and D. Bisessar (2017) Exploring the Journey to Services, International Journal of Production Economics, 192, 66-80.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "(2016) Business Model Innovation and Owner-Managers: The Moderating Role of Competition, R&D Management",
+      "year": 2016,
+      "citation_raw": "Velu, C and A. Jacob. (2016) Business Model Innovation and Owner-Managers: The Moderating Role of Competition, R&D Management, 46(3), 451-463.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "C. (2016) Evolutionary or Revolutionary Business Model Innovation Through Coopetition? The Role of Dominance in Network Markets, Industrial Marketing Management",
+      "year": 2016,
+      "citation_raw": "Velu, C. (2016) Evolutionary or Revolutionary Business Model Innovation Through Coopetition? The Role of Dominance in Network Markets, Industrial Marketing Management, 53, 124-135.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "C. (2015) Knowledge Management Capabilities of Lead Firms in Innovation Ecosystems",
+      "year": 2015,
+      "citation_raw": "Velu, C. (2015) Knowledge Management Capabilities of Lead Firms in Innovation Ecosystems, AMS Review, 5(3-4), 123-141.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Velu (2015) Effect of Media Usage Selection on Social Mobilization Speed: Facebook vs e-mail, PLOS ONE",
+      "year": 2015,
+      "citation_raw": "Wang, J., S. Madnick, X. Lee, J. Alstott and C. Velu (2015) Effect of Media Usage Selection on Social Mobilization Speed: Facebook vs e-mail, PLOS ONE, 10(9): e0134811.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "(2014) Homophily and the Speed of Social Mobilization: The Effect of Acquired and Ascribed Traits, PLOS ONE",
+      "year": 2014,
+      "citation_raw": "Alstott, J., S. Madnick and C. Velu. (2014) Homophily and the Speed of Social Mobilization: The Effect of Acquired and Ascribed Traits, PLOS ONE, 9(4): e95140.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "(2014) Centralizing Data Management with Considerations of Uncertainty and Information-based Flexibility",
+      "year": 2014,
+      "citation_raw": "Velu, C., S. Madnick and M. Van Alstyne. (2014) Centralizing Data Management with Considerations of Uncertainty and Information-based Flexibility, Journal of Management Information Systems, 30(3), 179-212.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "(2014) Communication and Marketing of Services by Religious Organizations in India",
+      "year": 2014,
+      "citation_raw": "Iyer, S., C. Velu and A. Mumit. (2014) Communication and Marketing of Services by Religious Organizations in India, Journal of Business Research, 67(2), 59-67.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "(2013) Managing Decision-Making and Cannibalization for Parallel Business Models, Long Range Planning",
+      "year": 2013,
+      "citation_raw": "Velu, C and P. Stiles. (2013) Managing Decision-Making and Cannibalization for Parallel Business Models, Long Range Planning, 46(6), 443-458.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "(2013) Business Model Innovation in India",
+      "year": 2013,
+      "citation_raw": "Velu, C and M. Khanna. (2013) Business Model Innovation in India, Journal of Indian Business Research, 5(3), 156-170.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "C. (2012) Entrepreneurship and Innovation in Financial Institutions, Quantitative Finance",
+      "year": 2012,
+      "citation_raw": "Velu, C. (2012) Entrepreneurship and Innovation in Financial Institutions, Quantitative Finance, 12(6), 831-837 (Lead article).",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "(2012) Dominance and Innovation: A Returns-Based Beliefs Approach",
+      "year": 2012,
+      "citation_raw": "Velu, C., S. Iyer and J. Gair. (2012) Dominance and Innovation: A Returns-Based Beliefs Approach, Applied Stochastic Models in Business and Industry, 28, 261-284.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "(2006) Real Options and Demographic Decisions",
+      "year": 2006,
+      "citation_raw": "Iyer, S. and C. Velu. (2006) Real Options and Demographic Decisions, Journal of Development Economics, 80, 39-58.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Business Model Innovation in Additive Manufacturing Equipment Sector",
+      "year": 2023,
+      "citation_raw": "Rama Murthy, S., Huang, J. and Velu, C., 2023. Business Model Innovation in Additive Manufacturing Equipment Sector. In Springer Handbook of Additive Manufacturing (pp. 43-54). Cham: Springer International Publishing.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Intangible Capital and Reorientation of Manufacturing During a Pandemic, In Gallitto, E",
+      "year": 2022,
+      "citation_raw": "Said, F., Page, A., Salter, L., Velu, C. (2022). Intangible Capital and Reorientation of Manufacturing During a Pandemic. In Gallitto, E., Massi, M., Harrison, P., eds., Consumption, Production, and Entrepreneurship in the Time of Coronovirus, Palgrave Macmillan.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Realizing the Full Potential of Digital Transformation: Three Areas of Focus, in Metselaar, J, eds,, Strategic Management in the Age of Digital Transformation, Proud Pen",
+      "year": 2020,
+      "citation_raw": "Hao, J., S. Hicks, C. Popper, and C. Velu. (2020). Realizing the Full Potential of Digital Transformation: Three Areas of Focus, in Metselaar, J, eds,. Strategic Management in the Age of Digital Transformation, Proud Pen.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "C. (2020) Business Model Cohesiveness Scorecard: Implications of Digitization for Business Model Innovation, in Nambisan, S",
+      "year": 2020,
+      "citation_raw": "Velu, C. (2020) Business Model Cohesiveness Scorecard: Implications of Digitization for Business Model Innovation, in Nambisan, S., Lyytinen, K. and Yoo, Y., eds., Handbook of Digital Innovation (UK: Edward Elgar, 2020).",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "C. (2018) Coopetition and Business Models, in Chiambaretto, P",
+      "year": 2018,
+      "citation_raw": "Velu, C. (2018) Coopetition and Business Models, in Chiambaretto, P., Czakon, W., Anne-Sophie Fernandez, A and Le Roy, F. Handbook of Coopetition Strategies in the Routledge Companion on Coopetition Strategy, Routledge.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "C. (2015) Institutions and Collaborative Innovation, in Viardot, E. and A, Brem, Adoption of Innovation – Balancing Internal and External Stakeholders in the Marketing of Innovation",
+      "year": 2015,
+      "citation_raw": "Velu, C. (2015) Institutions and Collaborative Innovation, in Viardot, E. and A. Brem. Adoption of Innovation – Balancing Internal and External Stakeholders in the Marketing of Innovation, Springer.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "C. (2015) Institutions and Collaborative Innovation, in Viardot, E. and A, Brem, Adoption of Innovation – Balancing Internal and External Stakeholders in the Marketing of Innovation",
+      "year": 2025,
+      "citation_raw": "Velu, C. (2015) Institutions and Collaborative Innovation, in Viardot, E. and A. Brem. Adoption of Innovation – Balancing Internal and External Stakeholders in the Marketing of Innovation, Springer. Other Publications Velu, C. (2025). Quantum Leap, The Economist, 13 December.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Small Really is Beautiful in University Science Research, Financial Times",
+      "year": 2024,
+      "citation_raw": "Gebel, L, Velu, C and Vidal-Puig, A. (2024). Small Really is Beautiful in University Science Research, Financial Times, 16 September.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "The Business of Economics, The Economist",
+      "year": 2023,
+      "citation_raw": "Velu, C and S. Iyer. (2023). The Business of Economics, The Economist, 20 April.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Adoption of Quantum Technologies and Business Model Innovation, Institute for Manufacturing, University of Cambridge",
+      "year": 2022,
+      "citation_raw": "Velu, C., Putra, F., Geurtsen, E., Norman, K. and Noble, C. (2022). Adoption of Quantum Technologies and Business Model Innovation. Institute for Manufacturing, University of Cambridge",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "The Impact of the Pandemic on Digital Transformation",
+      "year": 2021,
+      "citation_raw": "Popper, C and C. Velu. (2021). The Impact of the Pandemic on Digital Transformation, Conference Board Report.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Realizing the Full Potential of Digital Transformation",
+      "year": 2020,
+      "citation_raw": "Hao, J., Hicks, S., Popper, C. and Velu, C. (2020). Realizing the Full Potential of Digital Transformation, Conference Board Report.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Targeting the Full Value of Digital Disruption, Cambridge and IBM Report",
+      "year": 2019,
+      "citation_raw": "Velu, C., Pooya, G., and Dalzell-Payne, P. (2019). Targeting the Full Value of Digital Disruption, Cambridge and IBM Report",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Solving the Productivity Paradox",
+      "year": 2018,
+      "citation_raw": "Velu, C (2018). Solving the Productivity Paradox, Manufacturing Leadership Journal, Aug, 23-27.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "(2018) Ten years from the crash: time to row back on financial regulation and compliance? LSE Business Review, August",
+      "year": 2018,
+      "citation_raw": "Meeks, G and C. Velu. (2018) Ten years from the crash: time to row back on financial regulation and compliance? LSE Business Review, August.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "The Imperative for Business Model Innovation: A Research and Practice Perspective, White paper by University of Cambridge and University of Exeter",
+      "year": 2016,
+      "citation_raw": "Velu, C., P.A. Smart and M. Phillips. (2016). The Imperative for Business Model Innovation: A Research and Practice Perspective, White paper by University of Cambridge and University of Exeter.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "(2011) Making the Transition to Collaborative Innovation: Issues of Readiness, Trust and Governance",
+      "year": 2011,
+      "citation_raw": "Barrett, M., C. Velu, R. Kohli, O. Salge and D. Simoes-Brown. (2011) Making the Transition to Collaborative Innovation: Issues of Readiness, Trust and Governance, National Endowment for the Science, Technology and the Arts (NESTA) Business Briefing, May.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Market Channels and Business Models for Rural Areas, Effective Executive",
+      "year": 2010,
+      "citation_raw": "Milward, S and C. Velu (2010). Market Channels and Business Models for Rural Areas, Effective Executive, 13(6): 10-21.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "Reuters Market Light: Business Model Innovation for Growth, Effective Executive",
+      "year": 2010,
+      "citation_raw": "Velu, C. and S. Prakash. (2010). Reuters Market Light: Business Model Innovation for Growth, Effective Executive, 13(2): 78-83.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    },
+    {
+      "title": "How do Indian Banks Go Global?",
+      "year": 2008,
+      "citation_raw": "Velu, C and L. Yu (2008). How do Indian Banks Go Global?, Effective Executive, 11(1): 64-79.",
+      "source_url": "https://www.ifm.eng.cam.ac.uk/people/cv236/"
+    }
+  ]
 }

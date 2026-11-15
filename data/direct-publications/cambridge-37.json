@@ -3,13 +3,404 @@
   "university_key": "cambridge",
   "pi": "Athina Markaki",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:56:24.114Z",
-  "coverage_notes": [
+  "lab_url": "https://www.eng.cam.ac.uk/profiles/am253",
+  "publication_urls": [
+    "https://www-memti.eng.cam.ac.uk/node/70",
+    "https://www-memti.eng.cam.ac.uk/node/67"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Official profile visited. Publications/lab follow-up pending; no completeness claim.",
     "Discovered Personal website: http://www-memti.eng.cam.ac.uk/"
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Evaluation of Densified Collagen Tubes as an Interposition Graft in Abdominal Aorta",
+      "year": 2026,
+      "citation_raw": "Edited Book Chapters Journal Papers AW Justin, MA Al Fahad, F Cammarata, CT Goh, Y Lai, Y Sun, D Trajkovski, A Petchey, NK Ramakrishnan, A Winskell, A Segonds-Pichon, MA Genain, M Goddard, S Sinha, K Saeb-Parsy, AE Markaki (2026), “Evaluation of Densified Collagen Tubes as an Interposition Graft in Abdominal Aorta”, submitted.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Modulating Fibrillogenesis Enhances the Biofunctionality of Dense Collagen Hydrogels",
+      "year": 2026,
+      "citation_raw": "F Cammarata, MA Al Fahad, S Melamed, D Trajkovski, J Chadwick, A Winkel, M Goddard, K Franze, K Saeb-Parsy, MP Alcolea, AW Justin, AE Markaki (2026), \"Modulating Fibrillogenesis Enhances the Biofunctionality of Dense Collagen Hydrogels\", Cell Biomaterials, 100612. https://doi.org/10.1016/j.celbio.2026.100612.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "A clinically defined and xeno-free hydrogel system for regenerative medicine",
+      "year": 2026,
+      "citation_raw": "J Ong, G Gibbons, YS Lim, L Zhou, J Zhao, AW Justin, F Cammarata, R Rajarethinam, C Limegrover, S Sinha, A Lakatos, FJ Rouhani, YY Dan, AE Markaki (2026), \"A clinically defined and xeno-free hydrogel system for regenerative medicine\", Materials Futures 5(3) 035401. https://doi.org/10.1088/2752-5724/ae4e4d.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Biopolymers for Liver Tissue Engineering: A Systematic Review",
+      "year": 2025,
+      "citation_raw": "J Ong, JJ Zhao, C Swift, AE Markaki (2025), \"Biopolymers for Liver Tissue Engineering: A Systematic Review\", Gels 11, 525. https://doi.org/10.3390/gels11070525E.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "S Walker-Samuel (2024), Physics-informed deep generative learning for quantitative assessment of the retina",
+      "year": 2024,
+      "citation_raw": "EE Brown, AA. Guy, NA. Holroyd, PW Sweeney, L Gourmet, H Coleman, C Walsh, AE Markaki, R Shipley, R Rajendram, S Walker-Samuel (2024), Physics-informed deep generative learning for quantitative assessment of the retina, Nature Communications, 15, 6859. https://doi.org/10.1038/s41467-024-50911-y.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Densified collagen tubular grafts for human tissue replacement and disease modelling applications",
+      "year": 2023,
+      "citation_raw": "AW Justin, F Cammarata, AA Guy, SR Estevez, S Burgess, H Davaapil, A Stavropoulou-Tatla, J Ong, AG Jacob, K Saeb-Parsy, S Sinha, AE Markaki (2023), \"Densified collagen tubular grafts for human tissue replacement and disease modelling applications\", Biomaterials Advances, 145, 213245. https://doi.org/10.1016/j.bioadv.2022.213245.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "A vascularized tumoroid model for human glioblastoma angiogenesis",
+      "year": 2021,
+      "citation_raw": "A Stavropoulou Tatla, AW Justin, C Watts, AE Markaki (2021), \"A vascularized tumoroid model for human glioblastoma angiogenesis\", Scientific Reports, 11, 19550. https://doi.org/10.1038/s41598-021-98911-y.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Spatial heterogeneity of cell-matrix adhesive forces predicts human glioblastoma migration",
+      "year": 2020,
+      "citation_raw": "R Rezk, BZ Jia, A Wendler, I Dimov, C Watts, AE Markaki, K Franze, AJ Kabla (2020), \"Spatial heterogeneity of cell-matrix adhesive forces predicts human glioblastoma migration\", Neuro-Oncology Advances, 2(1), vdaa081. https://doi.org/10.1093/noajnl/vdaa081.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Functionalisation of a Heat-Derived and Bio-Inert Albumin Hydrogel with Extracellular Matrix by Air Plasma Treatment",
+      "year": 2020,
+      "citation_raw": "J Ong, J Zhao, G Katarivas Levy, J Macdonald, AW Justin, AE Markaki (2020), \"Functionalisation of a Heat-Derived and Bio-Inert Albumin Hydrogel with Extracellular Matrix by Air Plasma Treatment\", Scientific Reports, 10, 12429. https://doi.org/10.1038/s41598-020-69301-7.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "A novel biomimetic design of a 3D vascular structure for self-healing in cementitious materials using Murray's law",
+      "year": 2020,
+      "citation_raw": "Z Li, LR de Souza,C Litina, AE Markaki, A Al-Tabbaa (2020), \"A novel biomimetic design of a 3D vascular structure for self-healing in cementitious materials using Murray's law\", Materials and Design, 190,108572, doi: 10.1016/j.matdes.2020.108572.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "3D biomimetic and electroactive scaffolds for human neural crest-derived stem cell expansion and osteogenic differentiation",
+      "year": 2020,
+      "citation_raw": "D Iandolo D, J Sheard, G Katarivas Levy, C Pitsalidis C, E Tan, A Dennis, JS Kim, AE Markaki, D Widera, R Owens (2020), \"3D biomimetic and electroactive scaffolds for human neural crest-derived stem cell expansion and osteogenic differentiation\", MRS Communications, 179–187. https://doi.org/10.1557/mrc.2020.10",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "3D Printable Vascular Networks Generated by Accelerated Constrained Constructive Optimization for Tissue Engineering",
+      "year": 2020,
+      "citation_raw": "AA Guy, AW Justin, DM Aguilar-Garza, AE Markaki (2020), \"3D Printable Vascular Networks Generated by Accelerated Constrained Constructive Optimization for Tissue Engineering\", IEEE Transactions on Biomedical Engineering, 67(6) pp. 1650-1663, doi: 10.1109/TBME.2019.2942313.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Feasibility of Using 3D Printed Polyvinyl Alcohol (PVA) for Creating Self-Healing Vascular Tunnels in Cement System",
+      "year": 2019,
+      "citation_raw": "Z Li, LR de Souza,C Litina, AE Markaki, A Al-Tabbaa (2019), \"Feasibility of Using 3D Printed Polyvinyl Alcohol (PVA) for Creating Self-Healing Vascular Tunnels in Cement System\", Materials, 12, 3872, doi: 10.3390/ma12233872.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Albumin-Enriched Fibrin Hydrogel Embedded in Active Ferromagnetic Networks Improves Osteoblast Differentiation and Vascular Self-Organisation",
+      "year": 2019,
+      "citation_raw": "G Katarivas Levy, J Ong, MA Birch, AW Justin, AE Markaki (2019), \"Albumin-Enriched Fibrin Hydrogel Embedded in Active Ferromagnetic Networks Improves Osteoblast Differentiation and Vascular Self-Organisation\", Polymers, 11, 1743.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Albumin-based Hydrogels for Regenerative Engineering and Cell Transplantation",
+      "year": 2019,
+      "citation_raw": "J Ong, J Zhao, AW Justin, AE Markaki (2019), \"Albumin-based Hydrogels for Regenerative Engineering and Cell Transplantation\", Biotechnology and Bioengineering, 116, pp. 3457-3468: doi: 10.1002/bit.27167.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Stimulation of Human Osteoblast Diﬀerentiation in Magneto-Mechanically Actuated Ferromagnetic Fiber Networks",
+      "year": 2019,
+      "citation_raw": "G Katarivas Levy, MA Birch, RA Brooks, S Neelakantan, AE Markaki (2019), \"Stimulation of Human Osteoblast Diﬀerentiation in Magneto-Mechanically Actuated Ferromagnetic Fiber Networks\", Journal of Clinical Medicine, 8(10), 1522, doi:10.3390/jcm8101522.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Isolation and Propagation of Primary Human Cholangiocyte Organoids for the Generation of Bio-engineered Biliary Tissue",
+      "year": 2019,
+      "citation_raw": "OC Tysoe, AW Justin et al (2019), \"Isolation and Propagation of Primary Human Cholangiocyte Organoids for the Generation of Bio-engineered Biliary Tissue\", Nature Protocols, 14, pp. 1884–1925, doi:10.1038/s41596-019-0168-0.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Collagen scaffolds with tailored pore geometry for building three-dimensional vascular networks",
+      "year": 2019,
+      "citation_raw": "A Berdichevski, MA Birch, AE Markaki (2019), \"Collagen scaffolds with tailored pore geometry for building three-dimensional vascular networks\", Materials Letters, 248, pp. 93-96.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Advances in the Generation of Bioengineered Bile Ducts",
+      "year": 2018,
+      "citation_raw": "AW Justin, K Saeb-Parsy, AE Markaki, L. Vallier, F. Sampaziotis (2018), \"Advances in the Generation of Bioengineered Bile Ducts\", BBA - Molecular Basis of Disease, pp. 1532-1538.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Control over Fine Scale Terrace Structures induced on Polycrystalline Pd by Simple Heat Treatments in Air",
+      "year": 2017,
+      "citation_raw": "JM Sobral, TW Clyne, R Rezk, AE Markaki (2017), \"Control over Fine Scale Terrace Structures induced on Polycrystalline Pd by Simple Heat Treatments in Air\", Surface and Coatings Technology, 326, Part A, pp. 327-335.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Reconstruction of the Mouse Extrahepatic Biliary Tree using Primary Human Extrahepatic Cholangiocyte Organoids",
+      "year": 2017,
+      "citation_raw": "F Sampaziotis, AW Justin et al (2017), \"Reconstruction of the Mouse Extrahepatic Biliary Tree using Primary Human Extrahepatic Cholangiocyte Organoids\", Nature Medicine, 23, pp. 954–963.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Effect of Rotation on Scaffold Motion and Cell Growth in Rotating Bioreactors",
+      "year": 2017,
+      "citation_raw": "MC Varley, AE Markaki, RA Brooks (2017), \"Effect of Rotation on Scaffold Motion and Cell Growth in Rotating Bioreactors\", Tissue Engineering Part A, 23(11-12), pp. 522-534.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Nano-terracing on Polycrystalline Palladium induced via Simple Heat Treatment",
+      "year": 2017,
+      "citation_raw": "JM Sobral, TW Clyne, R Rezk, AE Markaki (2017), \"Nano-terracing on Polycrystalline Palladium induced via Simple Heat Treatment\", Scripta Materialia, 130, pp. 17-21.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Multi-casting Approach for Vascular Networks in Cellularized Hydrogels",
+      "year": 2016,
+      "citation_raw": "AW Justin, RA Brooks, AE Markaki (2016),\"Multi-casting Approach for Vascular Networks in Cellularized Hydrogels\", Journal of Royal Society Interface, 13: 20160768.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Cell Structure, Stiffness and Permeability of Freeze-dried Collagen Scaffolds in Dry and Hydrated States",
+      "year": 2016,
+      "citation_raw": "MC Varley, S Neelakantan, TW Clyne, J Dean, RA Brooks, AE Markaki (2016), \"Cell Structure, Stiffness and Permeability of Freeze-dried Collagen Scaffolds in Dry and Hydrated States\", Acta Biomaterialia, 33, pp. 166-175.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "An Accelerated Buoyancy Adhesion Assay combined with 3-D Morphometric Analysis for Assessing Osteoblast Adhesion on Microgrooved Substrata",
+      "year": 2016,
+      "citation_raw": "JM Sobral, VN Malheiro, TW Clyne, J Harris, R Rezk, WO'Neill, AE Markaki (2016), \"An Accelerated Buoyancy Adhesion Assay combined with 3-D Morphometric Analysis for Assessing Osteoblast Adhesion on Microgrooved Substrata\", Journal of the Mechanical Behaviour of Biomedical Materials, 60, pp. 22-37.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "The Influence of Nanostructured Features on Bacterial Adhesion and Bone Cell Functions on Severely Shot Peened 316L Stainless Steel",
+      "year": 2015,
+      "citation_raw": "S Bagherifard, DJ Hickey, AC de Luca, VN Malheiro, AE Markaki, M Guagliano, TJ Webster (2015),\"The Influence of Nanostructured Features on Bacterial Adhesion and Bone Cell Functions on Severely Shot Peened 316L Stainless Steel\", Biomaterials, 73, pp. 185-197.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Fibrin affects Short-term In Vitro Human Mesenchymal Stromal Cell Responses to Magneto-active Fibre Networks",
+      "year": 2015,
+      "citation_raw": "RL Spear, A Symeonidou, JN Skepper, RA Brooks, AE Markaki (2015), \"Fibrin affects Short-term In Vitro Human Mesenchymal Stromal Cell Responses to Magneto-active Fibre Networks\", Biomaterials & Biomechanics in Biomedical Engineering, 2(3), pp. 143-157, 10.12989/bme.2015.2.3.143.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Out-of-plane Auxeticity in Sintered Fibre Network Mats",
+      "year": 2015,
+      "citation_raw": "S Neelakantan, JC Tan, AE Markaki (2015), \"Out-of-plane Auxeticity in Sintered Fibre Network Mats\", Scripta Materialia, 106, pp. 30-33.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Effect of Microgrooved Surface Topography on Osteoblast Maturation and Protein Adsorption",
+      "year": 2015,
+      "citation_raw": "AC de Luca, M Zink, A Weidt, SG Mayr, AE Markaki (2015), \"Effect of Microgrooved Surface Topography on Osteoblast Maturation and Protein Adsorption\", Journal of Biomedical Materials Research: Part A, 103(8), pp. 2689-700.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Physical and Biological Characterisation of Ferromagnetic Fibre Networks: Effect of Fibrin Deposition on Short-term In Vitro Responses of Human Osteoblasts",
+      "year": 2015,
+      "citation_raw": "RL Spear, B Srigengan, S Neelakantan, W Bosbach, RA Brooks, AE Markaki (2015), \"Physical and Biological Characterisation of Ferromagnetic Fibre Networks: Effect of Fibrin Deposition on Short-term In Vitro Responses of Human Osteoblasts\", Tissue Engineering Part A, 21(3-4), pp. 463-474.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Magneto-Active Scaffold for Stimulation of Bone Growth",
+      "year": 2014,
+      "citation_raw": "AE Markaki and AW Justin (2014), \"Magneto-Active Scaffold for Stimulation of Bone Growth”, Invited Review, Special Issue on Smart Materials, Materials Science & Engineering, 30 (13a), pp. 1590-1598.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Characterisation and Deformation Response of Orthotropic Fibre Networks with Auxetic Out-Of-Plane Behaviour",
+      "year": 2014,
+      "citation_raw": "S Neelakantan, W Bosbach, J Woodhouse, AE Markaki (2014), \"Characterisation and Deformation Response of Orthotropic Fibre Networks with Auxetic Out-Of-Plane Behaviour\", Acta Materialia, 66, pp. 326-339.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "In vitro Osteoblast Response to Ferritic Stainless Steel Fibre Networks for Magneto-Active Layers on Implants",
+      "year": 2013,
+      "citation_raw": "VN Malheiro, JN Skepper, RA Brooks, AE Markaki (2013), \"In vitro Osteoblast Response to Ferritic Stainless Steel Fibre Networks for Magneto-Active Layers on Implants\", Journal of Biomedical Materials Research: Part A, 101(6), pp. 1588-1598.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Short-term In vitro Responses of Human Peripheral Blood Monocytes to Ferritic Stainless Steel Fibre Networks",
+      "year": 2013,
+      "citation_raw": "RL Spear, RA Brooks, AE Markaki (2013), \"Short-term In vitro Responses of Human Peripheral Blood Monocytes to Ferritic Stainless Steel Fibre Networks\", Journal of Biomedical Materials Research: Part A, 101(5), pp. 1456-1463.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Osteoblast and Monocyte Responses to 444 Ferritic Stainless Steel intended for a Magneto-Mechanically Actuated Fibrous Scaffold",
+      "year": 2011,
+      "citation_raw": "VN Malheiro, RL Spear, RA Brooks, AE Markaki (2011), “Osteoblast and Monocyte Responses to 444 Ferritic Stainless Steel intended for a Magneto-Mechanically Actuated Fibrous Scaffold”, Biomaterials, 32(29), pp. 6883-6892.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Extraction of Fibre Network Architecture by X-ray Tomography and Prediction of Elastic Properties using an Affine Analytical Model",
+      "year": 2011,
+      "citation_raw": "D Tsarouchas & AE Markaki (2011), “Extraction of Fibre Network Architecture by X-ray Tomography and Prediction of Elastic Properties using an Affine Analytical Model”, Acta Materialia, 59(18) pp. 6989-7002.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Cell Adhesion to Plasma Electrolytic Oxidation (PEO) Titania Coatings, Assessed using a Centrifuging Technique",
+      "year": 2011,
+      "citation_raw": "HJ Griffiths, AE Markaki, CA Collier, TW Clyne (2011), “Cell Adhesion to Plasma Electrolytic Oxidation (PEO) Titania Coatings, Assessed using a Centrifuging Technique”, Journal of the Mechanical Behaviour of Biomedical Materials, 4(8), pp. 2103-2112.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "The Fracture Energy of Metal Fibre Reinforced Ceramic Composites (MFCs)",
+      "year": 2011,
+      "citation_raw": "SR Pemberton, EK Oberg, J Dean, D Tsarouchas, AE Markaki, L Marston, TW Clyne (2011), “The Fracture Energy of Metal Fibre Reinforced Ceramic Composites (MFCs)”, Composites Science & Technology, 71(3), pp. 266-275.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Nanoindentation of a Pseudoelastic NiTiFe Shape Memory Alloy",
+      "year": 2010,
+      "citation_raw": "J Pfetzing, M F-X Wagner, R Zarnetta, J Frenzel, G Eggeler, AE Markaki, J Wheeler, TW Clyne (2010), “Nanoindentation of a Pseudoelastic NiTiFe Shape Memory Alloy”, Advanced Engineering Materials, 12(1-2), pp. 13-19.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Surface Terracing on Ferritic Stainless-Steel Fibres and Potential Relevance to In-Vitro Cell Growth",
+      "year": 2009,
+      "citation_raw": "AE Markaki, KM Knowles, RA Oliver and A Gholinia (2009), “Surface Terracing on Ferritic Stainless-Steel Fibres and Potential Relevance to In-Vitro Cell Growth”, Philosophical Magazine, 89(26), pp.2285-2303.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Stainless Steel Sandwich",
+      "year": 2007,
+      "citation_raw": "P Brown, L Marston, J Dean, JC Tan, AE Markaki and TW Clyne (2007), \"Stainless Steel Sandwich\", Materials World, 15(2), pp.26-28.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Porous Materials for Thermal Management under Extreme Conditions",
+      "year": 2006,
+      "citation_raw": "TW Clyne, IO Golosnoy, JC Tan and AE Markaki (2006), “Porous Materials for Thermal Management under Extreme Conditions”, Phil. Trans. Roy. Soc. A: Mathematical, Physical & Eng. Sci., 364, pp.125-146.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Mechanical and Magnetic Properties of Metal Fibre Networks, with and without a Polymeric Matrix",
+      "year": 2005,
+      "citation_raw": "TW Clyne, AE Markaki and JC Tan (2005) “Mechanical and Magnetic Properties of Metal Fibre Networks, with and without a Polymeric Matrix”, Composites Science & Technology, 20th Anniversary Special Issue, 65(15-16), pp. 2492-2499.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Magneto-Mechanical Actuation of Bonded Ferromagnetic Fibre Arrays",
+      "year": 2005,
+      "citation_raw": "AE Markaki and TW Clyne (2005), “Magneto-Mechanical Actuation of Bonded Ferromagnetic Fibre Arrays”, Acta Materialia, 53(3), pp. 877-889.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Magneto-Mechanical Stimulation of Bone Growth in A Bonded Array of Ferromagnetic Fibres",
+      "year": 2004,
+      "citation_raw": "AE Markaki and TW Clyne (2004), “Magneto-Mechanical Stimulation of Bone Growth in A Bonded Array of Ferromagnetic Fibres”, Biomaterials, 25(19), pp. 4805-4815.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Production of a Highly Porous Material by Liquid Phase Sintering of Short Ferritic Stainless Steel Fibres and a Preliminary Study of its Mechanical Behaviour",
+      "year": 2003,
+      "citation_raw": "A.E. Markaki, V. Gergely, A. Cockburn, T.W. Clyne (2003), “Production of a Highly Porous Material by Liquid Phase Sintering of Short Ferritic Stainless Steel Fibres and a Preliminary Study of its Mechanical Behaviour”, Composites Science & Technology, 63(16), pp. 2345-2351.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Mechanics of Thin Ultra-Light Stainless Steel Sandwich Sheet Material: Part I - Stiffness",
+      "year": 2003,
+      "citation_raw": "A.E. Markaki and T.W. Clyne (2003), “Mechanics of Thin Ultra-Light Stainless Steel Sandwich Sheet Material: Part I - Stiffness”, Acta Materialia, 51(5), pp. 1341-1350.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Mechanics of Thin Ultra-Light Stainless Steel Sandwich Sheet Material: Part II – Resistance to Delamination",
+      "year": 2003,
+      "citation_raw": "AE Markaki and TW Clyne (2003), “Mechanics of Thin Ultra-Light Stainless Steel Sandwich Sheet Material: Part II – Resistance to Delamination”, Acta Materialia, 51(5), pp. 1351-1357.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Energy Absorption During Failure of Layered Metal Foam / Ceramic Composites",
+      "year": 2002,
+      "citation_raw": "AE Markaki and TW Clyne (2002), “Energy Absorption During Failure of Layered Metal Foam / Ceramic Composites”, Materials Science & Engineering, A323, pp. 260-269.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Young’s Modulus, Hardness and Scratch Adhesion of Ni-P-W Multilayered Alloy Coating Produced by Pulse Plating",
+      "year": 2001,
+      "citation_raw": "VD Papachristos, CN Panagopoulos, LW Christoffersen & A Markaki (2001), “Young’s Modulus, Hardness and Scratch Adhesion of Ni-P-W Multilayered Alloy Coating Produced by Pulse Plating”, Thin Solid Films, 396, 174-183.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "The Effect of Cell Wall Microstructure on the Deformation and Fracture of Aluminium-Based Foams",
+      "year": 2001,
+      "citation_raw": "AE Markaki and TW Clyne (2001), “The Effect of Cell Wall Microstructure on the Deformation and Fracture of Aluminium-Based Foams”, Acta Materialia, 49(9), pp. 1677-1686.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Characterisation of Impact Response of Metallic Foam / Ceramic Laminates",
+      "year": 2000,
+      "citation_raw": "AE Markaki and TW Clyne (2000), “Characterisation of Impact Response of Metallic Foam / Ceramic Laminates\", Materials Science & Technology, 16(7-8), pp. 785-791.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Excimer Laser Treatment of Nickel-Coated Cast Iron",
+      "year": 1998,
+      "citation_raw": "CN Panagopoulos, AE Markaki, PE Agathocleous (1998), “Excimer Laser Treatment of Nickel-Coated Cast Iron”, Materials Science & Engineering, A241(1-2), pp. 226-232.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Excimer Laser Treatment of Copper-Coated Mild Steel",
+      "year": 1997,
+      "citation_raw": "CN Panagopoulos, A Markaki & E Hontzopoulos (1997), “Excimer Laser Treatment of Copper-Coated Mild Steel”, Journal of Materials Science, 32(6), pp. 1425-1430.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/journal-papers-1"
+    },
+    {
+      "title": "Human Mesenchymal Stem Cell Response to 444 Ferritic Stainless Steel Networks",
+      "year": 2013,
+      "citation_raw": "A Symeonidou, RL Spear, RA Brooks and AE Markaki (2013), \"Human Mesenchymal Stem Cell Response to 444 Ferritic Stainless Steel Networks\", in MRS Online Proceedings Library, Volume 1569, http://dx.doi.org/10.1557/opl.2013.795, pp 73-78.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/conference-papers-1"
+    },
+    {
+      "title": "Short-term Cytotoxic and Inflammatory Responses of Human Monocytes to Stainless Steel Fibre Networks",
+      "year": 2012,
+      "citation_raw": "RL Spear, RA Brooks and AE Markaki (2012), \"Short-term Cytotoxic and Inflammatory Responses of Human Monocytes to Stainless Steel Fibre Networks\", in MRS Online Proceedings Library, Volume 1417, http://dx.doi.org/10.1557/opl.2012.745, mrsf11-1417-kk03-36.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/conference-papers-1"
+    },
+    {
+      "title": "In Vitro Human Osteoblast Responses to Titanium Oxide-Based Surfaces with Varying Topology and Composition",
+      "year": 2009,
+      "citation_raw": "CA Collier, JM Paillard, AE Markaki, JA Curran, HJ Griffiths, TW Clyne (2009), \"In Vitro Human Osteoblast Responses to Titanium Oxide-Based Surfaces with Varying Topology and Composition\", in Materials Research Society Conference Proceedings Structure-Property Relationships in Biomineralized and Biomimetric Composites, Volume 1187, 14-17 April, San Francisco, USA, pp. 77-82.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/conference-papers-1"
+    },
+    {
+      "title": "Characterisation of Cell Adhesion to Substrate Materials and the Resistance to Enzymatic and Mechanical Cell-Removal",
+      "year": 2008,
+      "citation_raw": "HJ Griffiths, JG Harvey, J Dean, JA Curran, AE Markaki, TW Clyne (2008), “Characterisation of Cell Adhesion to Substrate Materials and the Resistance to Enzymatic and Mechanical Cell-Removal”, in Materials Research Society Conference Proceedings, Volume 1097E, 24-28 March, San Francisco, California, USA.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/conference-papers-1"
+    },
+    {
+      "title": "Magneto-Mechanical Bone Growth Stimulation",
+      "year": 2004,
+      "citation_raw": "AE Markaki and TW Clyne (2004), “Magneto-Mechanical Bone Growth Stimulation”, Proc. SPIE International Symposium on Smart Materials Nano-, and Micro-Smart Systems, Biomedical Applications of Micro- and Nanoengineering II, Sydney, Australia, SPIE-INT Society Optical Engineering, D.V. Nicolau (ed), 5651, pp. 61-67.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/conference-papers-1"
+    },
+    {
+      "title": "The Stiffness and Weldability of an Ultra-light Steel Sandwich Sheet Material with a Fibrous Metal Core",
+      "year": 2002,
+      "citation_raw": "AE Markaki, SA Westgate & TW Clyne (2002), “The Stiffness and Weldability of an Ultra-light Steel Sandwich Sheet Material with a Fibrous Metal Core”, Proc. 3rd Global Symp. Materials Processing & Manufacturing: Processing & Properties of Lightweight Cellular Metals & Structures, TMS Meeting, Seattle, USA, A.K. Ghosh, T.H. Sanders and T.D. Claar (eds), pp.15-24.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/conference-papers-1"
+    },
+    {
+      "title": "Redefining the Concept of Stress - Strain Curve for Foams",
+      "year": 2001,
+      "citation_raw": "T Wierzbicki, M Doyoyo & AE Markaki (2001), “Redefining the Concept of Stress - Strain Curve for Foams”, MetFoam '01, Bremen, Germany, J. Banhart, M.F. Ashby and N.A. Fleck (eds.), Verlag MIT Publishing, pp. 449-454.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/conference-papers-1"
+    },
+    {
+      "title": "The Effect of Impact Velocity on Deformation of Layered Metal Foam / Ceramic Composites",
+      "year": 1999,
+      "citation_raw": "AE Markaki and TW Clyne (1999), “The Effect of Impact Velocity on Deformation of Layered Metal Foam / Ceramic Composites”, MetFoam '99, Bremen, Germany, J. Banhart, M.F. Ashby and N.A. Fleck (eds.), Verlag MIT Publishing, pp. 359-364.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/conference-papers-1"
+    },
+    {
+      "title": "Energy Absorption During Flexural Failure of Layered Metal Foam / Ceramic Composites",
+      "year": 1999,
+      "citation_raw": "AE Markaki and TW Clyne (1999), “Energy Absorption During Flexural Failure of Layered Metal Foam / Ceramic Composites”, Proceedings of the Twelfth International Conference on Composite Materials (ICCM-12), Paris, T. Massard and A. Vautrin (eds.), Woodhead, paper 587.",
+      "source_url": "https://www-memti.eng.cam.ac.uk/publications/conference-papers-1"
+    }
+  ]
 }

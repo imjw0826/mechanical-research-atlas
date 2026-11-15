@@ -3,13 +3,73 @@
   "university_key": "cambridge",
   "pi": "Shery Huang",
   "lab_name": null,
-  "lab_url": null,
-  "publication_urls": [],
-  "accessed_at": "2026-11-11T13:56:24.101Z",
-  "coverage_notes": [
+  "lab_url": "https://www.eng.cam.ac.uk/profiles/yysh2",
+  "publication_urls": [
+    "https://biointerface.eng.cam.ac.uk/featured-publications"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Official profile visited. Publications/lab follow-up pending; no completeness claim.",
     "Discovered Personal website: https://biointerface.eng.cam.ac.uk/"
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Synthesizing vascular trees at speed",
+      "year": 2025,
+      "citation_raw": "Synthesizing vascular trees at speed Yan Yan Shery Huang and Lining Arnold Ju Science (2025) https://www.science.org/stoken/author-tokens/ST-2678/full",
+      "source_url": "https://biointerface.eng.cam.ac.uk/featured-publications"
+    },
+    {
+      "title": "Cryopreservation of In Vitro Human Tissue Models",
+      "year": 2024,
+      "citation_raw": "Cryopreservation of In Vitro Human Tissue Models Yaqi Sheng, Yan Yan Shery Huang Nature Review Bioengineering (2024) https://rdcu.be/dYEXt",
+      "source_url": "https://biointerface.eng.cam.ac.uk/featured-publications"
+    },
+    {
+      "title": "Imperceptible augmentation of living systems with organic bioelectronic fibres",
+      "year": 2024,
+      "citation_raw": "Imperceptible augmentation of living systems with organic bioelectronic fibres Wenyu Wang, Yifei Pan, Yuan Shui, Tawfique Hasan, Iek Man Lei, Stanley Gong Sheng Ka, Thierry Savin, Santiago Velasco-Bosom, Yang Cao, Susannah B. P. McLaren, Yuze Cao, Fengzhu Xiong, George G. Malliaras & Yan Yan Shery Huang* Nature Electronics, 2024 https://www.nature.com/articles/s41928-024-01174-4",
+      "source_url": "https://biointerface.eng.cam.ac.uk/featured-publications"
+    },
+    {
+      "title": "Sustainable electronic textiles towards scalable commercialization",
+      "year": 2023,
+      "citation_raw": "Sustainable electronic textiles towards scalable commercialization HaoTian Harvey Shi, Yifei Pan, Lin Xu, Xueming Feng, Wenyu Wang, Prasad Potluri, Liangbing Hu, Tawfique Hasan & Yan Yan Shery Huang Nature Materials, 2023, https://doi.org/10.1038/s41563-023-01615-z",
+      "source_url": "https://biointerface.eng.cam.ac.uk/featured-publications"
+    },
+    {
+      "title": "3D printed biomimetic cochleae and machine learning co-modelling provides clinical informatics for cochlear implant patients",
+      "year": 2021,
+      "citation_raw": "3D printed biomimetic cochleae and machine learning co-modelling provides clinical informatics for cochlear implant patients Lei, IM and Jiang, C and Lei, CL and Rosalie de Rijk, S and Tam, YC and Swords, C and Sutcliffe, MPF and Malliaras, GG and Bance, M and Huang, YYS. Nature Communications, 2021, vol 12. https://doi.org/10.1038/s41467-021-26491-6",
+      "source_url": "https://biointerface.eng.cam.ac.uk/featured-publications"
+    },
+    {
+      "title": "Inflight fiber printing toward array and 3D optoelectronic and sensing architectures",
+      "year": 2020,
+      "citation_raw": "Inflight fiber printing toward array and 3D optoelectronic and sensing architectures Wang, W and Ouaras, K and Rutz, AL and Li, X and Gerigk, M and Naegele, TE and Malliaras, GG and Huang, YYS. Science Advances, 2020, vol. 6, no. 40. https://doi.org/10.1126/sciadv.aba0931",
+      "source_url": "https://biointerface.eng.cam.ac.uk/featured-publications"
+    },
+    {
+      "title": "Multi‐Tissue Organoid Engineering: Bio‐assembling Macro‐Scale, Lumenized Airway Tubes of Defined Shape via Multi‐Organoid Patterning and Fusion (Adv. Sci. 9/2021)",
+      "year": 2021,
+      "citation_raw": "Multi‐Tissue Organoid Engineering: Bio‐assembling Macro‐Scale, Lumenized Airway Tubes of Defined Shape via Multi‐Organoid Patterning and Fusion (Adv. Sci. 9/2021) Liu, Y and Dabrowska, C and Mavousian, A and Strauss, B and Meng, F and Mazzaglia, C and Ouaras, K and Macintosh, C and Terentjev, E and Lee, JH and Huang, YYS Advanced Science, 2021, vol. 9, no. 8. https://doi.org/10.1002/advs.202170046",
+      "source_url": "https://biointerface.eng.cam.ac.uk/featured-publications"
+    },
+    {
+      "title": "On-chip perivascular niche supporting stemness of patient-derived glioma cells in a serum-free, flowable culture",
+      "year": 2021,
+      "citation_raw": "On-chip perivascular niche supporting stemness of patient-derived glioma cells in a serum-free, flowable culture Gerigk, M and Bulstrode, H and Shi, HTH and Tönisen, F and Cerutti, C and Morrison, G and Rowitch, D and Huang, YYS. Lab on a Chip, 2021, vol 21. https://doi.org/10.1039/D1LC00271F",
+      "source_url": "https://biointerface.eng.cam.ac.uk/featured-publications"
+    },
+    {
+      "title": "Glioblastoma multiforme (GBM) is the most common and the most aggressive type of primary brain malignancy. Glioblastoma stem-like cells (GSCs) can migrate in vascular niches within or away from the tumour mass, increasing tumour resistance to treatments and contributing to relapses. To study individual GSC migration and their interactions with the perivasculature of the tumour microenvironment, there is a need to develop a human organotypic in vitro model. Herein, we demonstrated a perivascular niche-on-a-chip, in a serum-free condition with gravity-driven flow, that supported the stemness of patient-derived GSCs and foetal neural stem cells grown in a three-dimensional environment (3D)",
+      "year": 2024,
+      "citation_raw": "Glioblastoma multiforme (GBM) is the most common and the most aggressive type of primary brain malignancy. Glioblastoma stem-like cells (GSCs) can migrate in vascular niches within or away from the tumour mass, increasing tumour resistance to treatments and contributing to relapses. To study individual GSC migration and their interactions with the perivasculature of the tumour microenvironment, there is a need to develop a human organotypic in vitro model. Herein, we demonstrated a perivascular niche-on-a-chip, in a serum-free condition with gravity-driven flow, that supported the stemness of patient-derived GSCs and foetal neural stem cells grown in a three-dimensional environment (3D). Biofabrication and biomanufacturing in Ireland and the UK Bio-Design and Manufacturing (2024); Link to publication: https://link.springer.com/article/10.1007/s42242-024-00316-z",
+      "source_url": "https://biointerface.eng.cam.ac.uk/featured-publications"
+    }
+  ]
 }

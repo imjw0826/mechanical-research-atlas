@@ -3,16 +3,70 @@
   "university_key": "nus",
   "pi": "Gianmarco MENGALDO",
   "lab_name": null,
-  "lab_url": null,
+  "lab_url": "https://www.mathexlab.com/",
   "publication_urls": [
     "https://www.mathexlab.com/publications/"
   ],
-  "accessed_at": "2026-11-11T13:55:53.822Z",
-  "coverage_notes": [
-    "Official page heading: Welcome to Mengaldo's MathEXLab / Welcome to Mengaldo's MathEXLab / Latest News",
-    "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
-    "Publication page visible text captured; structured extraction pending."
-  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "preprint DOI 10.5281/zenodo.21127002",
+      "year": 2026,
+      "citation_raw": "Emma Andrews, Keane Ong, Luwei Xiao, Leonardo Pesce, Jiawen Wei, Gianmarco Mengaldo preprint DOI 10.5281/zenodo.21127002 2026 Language models for environmental, social, and governance analysis: A review",
+      "source_url": "https://www.mathexlab.com/publications/"
+    },
+    {
+      "title": "Information Processing & Management",
+      "year": 2026,
+      "citation_raw": "Kelvin Du, Rui Mao, Frank Xing, Gianmarco Mengaldo, Erik Cambria Information Processing & Management 2026 Cited by 2",
+      "source_url": "https://www.mathexlab.com/publications/"
+    },
+    {
+      "title": "A hybrid two-level MCMC framework to accelerate posterior mean estimation with deep learning surrogates for bayesian inverse problems",
+      "year": 2026,
+      "citation_raw": "A hybrid two-level MCMC framework to accelerate posterior mean estimation with deep learning surrogates for bayesian inverse problems Juntao Yang, Jeff Adie, Simon See, Adriano Gualandi, Gianmarco Mengaldo Journal of Computational Physics 2026 Explainable AI: Learning from the Learners",
+      "source_url": "https://www.mathexlab.com/publications/"
+    },
+    {
+      "title": "Cited by 2",
+      "year": 2026,
+      "citation_raw": "Keane Ong, Wei Dai, Carol Li, Dewei Feng, Hengzhi Li, Jingyao Wu, Jiaee Cheong, Rui Mao, Gianmarco Mengaldo, Erik Cambria, Paul Pu Liang 2026 Cited by 2",
+      "source_url": "https://www.mathexlab.com/publications/"
+    },
+    {
+      "title": "npj Climate and Atmospheric Science",
+      "year": 2026,
+      "citation_raw": "Xin Wang, Jianda Chen, Juntao Yang, Jeff Adie, Simon See, Kalli Furtado, Chen Chen, Troy Arcomano, Romit Maulik, Wei Xue, Gianmarco Mengaldo npj Climate and Atmospheric Science 2026 Cited by 4",
+      "source_url": "https://www.mathexlab.com/publications/"
+    },
+    {
+      "title": "Intelligence is Physical: Energy, Information, & a Thermodynamically Grounded Theory of Minds & Machines",
+      "year": 2025,
+      "citation_raw": "Intelligence is Physical: Energy, Information, & a Thermodynamically Grounded Theory of Minds & Machines Melvin Chen, Erik Cambria, Cecilia Laschi, Gianmarco Mengaldo 2025 AI4X Roadmap: Artificial Intelligence for the advancement of scientific pursuit and its future directions",
+      "source_url": "https://www.mathexlab.com/publications/"
+    },
+    {
+      "title": "A comprehensive review on financial explainable AI",
+      "year": 2025,
+      "citation_raw": "A comprehensive review on financial explainable AI Wei Jie Yeo, Wihan Van Der Heever, Rui Mao, Erik Cambria, Ranjan Satapathy, Gianmarco Mengaldo Artificial Intelligence Review 2025 Cited by 138",
+      "source_url": "https://www.mathexlab.com/publications/"
+    },
+    {
+      "title": "The Curious Case Of A NACA 0012 Airfoil: Are We Learning Something New?",
+      "year": 2025,
+      "citation_raw": "The Curious Case Of A NACA 0012 Airfoil: Are We Learning Something New? Rasha Al Jahdali, Lisandro Dalcin, Gianmarco Mengaldo, Matteo Parsani 12th International Conference on Fluid Flow, Heat and Mass Transfer, FFHMT 2025 2025 AI Adoption Phases in Business Intelligence: From Outsourcing to Human-Centered Systems",
+      "source_url": "https://www.mathexlab.com/publications/"
+    },
+    {
+      "title": "Proceedings of IEEE SSCI",
+      "year": 2025,
+      "citation_raw": "Erik Cambria, Rui Mao, Frank Xing, Gianmarco Mengaldo Proceedings of IEEE SSCI 2025 Cited by 2",
+      "source_url": "https://www.mathexlab.com/publications/"
+    }
+  ]
 }

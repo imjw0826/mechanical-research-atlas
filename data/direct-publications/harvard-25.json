@@ -5,13 +5,197 @@
   "lab_name": null,
   "lab_url": "https://venky.seas.harvard.edu/",
   "publication_urls": [
-    "https://venky.seas.harvard.edu/publications/"
+    "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
   ],
-  "accessed_at": "2026-11-11T13:52:00.004Z",
-  "coverage_notes": [
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
     "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
     "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
   ],
+  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Technicians are key to scientific progress",
+      "year": 2025,
+      "citation_raw": "“Technicians are key to scientific progress.” Narayanamurti, V. and Currall, S.C. Nature, Vol. 641 (May 8,2025) 309-310.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "A framework and methodology for analyzing technology spillover processes with an application in solar photovoltaics",
+      "year": 2024,
+      "citation_raw": "“A framework and methodology for analyzing technology spillover processes with an application in solar photovoltaics.” Kolesnikov, S., Goldstein, A. P., Sun, B., Chan, G., Narayanamurti, V., & Anadon, L. D. (2024). Technovation, 134, 103048.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "How technoscientific knowledge advances: A Bell-Labs-inspired architecture",
+      "year": 2024,
+      "citation_raw": "“How technoscientific knowledge advances: A Bell-Labs-inspired architecture.” Narayanamurti, Venkatesh, and Tsao, Jeffrey Y. Research Policy 53.4 (2024): 104983.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "“We Must Sustain America’s Big Tech Engines of Innovation“. Narayanamurti, V. & Currall, S.C. (2023). The Hill, 24 March.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Three common misconceptions about the nature and nurture of research",
+      "year": 2023,
+      "citation_raw": "“Three common misconceptions about the nature and nurture of research” Narayanamurti, Venkatesh, and Tsao, Jeffrey Y. (2023). Nature Reviews Physics Vol.5.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "“Technoscientific Research: A Missing Term in R&D Discourse“,The National Academies of Sciences Engineering Medicine",
+      "year": 2022,
+      "citation_raw": "Narayanamurti, Venkatesh, “Technoscientific Research: A Missing Term in R&D Discourse“,The National Academies of Sciences Engineering Medicine, January 18, 2022.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "The CHIPS and Science Act: An Inflection Point for Technological Leadership?",
+      "year": 2022,
+      "citation_raw": "“The CHIPS and Science Act: An Inflection Point for Technological Leadership?” Currall, S.C. and Narayanamurti, V. (2022a).",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Issues in Science and Technology 39, no",
+      "year": 2022,
+      "citation_raw": "Issues in Science and Technology 39, no. 1 (Fall 2022): 39-42.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Fostering Innovation to Strengthen US Competitiveness through the National Science Foundation",
+      "year": 2022,
+      "citation_raw": "“Fostering Innovation to Strengthen US Competitiveness through the National Science Foundation.” Currall, S.C. & Narayanamurti, V. (2022b). Issues in Science and Technology, 16 May 2022.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Genesis of Technological Revolutions",
+      "year": 2021,
+      "citation_raw": "“Genesis of Technological Revolutions”, Narayanamurti, Venkatesh and Tsao, Jeffrey Y. Harvard University Press, Cambridge, MA 2021.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Genesis of Technological Revolutions",
+      "year": 2020,
+      "citation_raw": "“Genesis of Technological Revolutions”, Narayanamurti, Venkatesh and Tsao, Jeffrey Y. Harvard University Press, Cambridge, MA 2021. “Illuminating homes with LED’s in India: Rapid market creation towards low-carbon technology transition in a developing country”, A.S. Kamat, R. Khosla, and V.Narayanamurti htpp://doi.org/10.1016/j.erss.2020.101488 or Energy Research &Social Science 66 (2020) 101488",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Why matter matters: How technology characteristics shape the strategic framing of technologies",
+      "year": 2020,
+      "citation_raw": "“Why matter matters: How technology characteristics shape the strategic framing of technologies”, Hoppmann, Joern, Anadon, Laura Diaz, and Narayanamurti, Venkatesh. Research Policy 49 (2020) 103882",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Urban waste to energy recovery assessment simulations for developing countries",
+      "year": 2020,
+      "citation_raw": "“Urban waste to energy recovery assessment simulations for developing countries”, Siddiqi, A, Haraguchi, M. and Narayanamurti, V. World Development 131 (2020) 104949",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Our national experiment in clean energy just turned 10",
+      "year": 2019,
+      "citation_raw": "“Our national experiment in clean energy just turned 10” Goldstein, Anna P and Narayanamurti, Venkatesh The Hill, October26, 2019",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Two threats to U.S Science",
+      "year": 2019,
+      "citation_raw": "“Two threats to U.S Science”, Alberts, Bruce and Narayanamurti, Venkatesh in Science V.364,p.613, 17 May 2019",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Stochastic cost-benefit analysis of urban-waste to energy systems”, Haraguchi, Masahiro, Siddiqi, Afreen and Narayanamurti, Venkatesh",
+      "year": 2019,
+      "citation_raw": "Stochastic cost-benefit analysis of urban-waste to energy systems”, Haraguchi, Masahiro, Siddiqi, Afreen and Narayanamurti, Venkatesh, Journal of Cleaner Production v.224, 2019, pp751-765",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "J.Y. invited paper MRS Journal on Energy and Sustainability",
+      "year": 2018,
+      "citation_raw": "Narayanamurti, V. and Tsao, J.Y. invited paper MRS Journal on Energy and Sustainability, v.5, 2018 ,pp1-8 doi:10.1557/mre.2018.9",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Simultaneous Pursuit of Discovery and Invention in the U.S. Department of Energy",
+      "year": 2018,
+      "citation_raw": "Narayanamurti, V. and Tsao, J.Y. invited paper MRS Journal on Energy and Sustainability, v.5, 2018 ,pp1-8 doi:10.1557/mre.2018.9 “Simultaneous Pursuit of Discovery and Invention in the U.S. Department of Energy,” Goldstein, A. P., and Narayanamurti, V. Research Policy,V.47,issue8,2018,pp1505-1512",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Desalination,” Li, Z., Siddiqi, S",
+      "year": 2018,
+      "citation_raw": "Desalination,” Li, Z., Siddiqi, S., Anadon, L.D. and Narayanamurti, V. Renewable and Sustainable Energy Reviews 82.3 February 2018: 3833-3847.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Six principles for energy innovation",
+      "year": 2017,
+      "citation_raw": "“Six principles for energy innovation,” Chan, Gabriel, Goldstein, Anna P., Bin-Nun, A., Anadon, L.D., and Narayanamurti, V. Nature 552, no. 7683. 2017: 25-27.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Engineering research: An underinvested-in weak link in the energy innovation ecosystem",
+      "year": 2017,
+      "citation_raw": "“Engineering research: An underinvested-in weak link in the energy innovation ecosystem,” Narayanamurti, V. MRS Bulletin, 42(12), 2017, pp.877-877.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Engineering research: An underinvested-in weak link in the energy innovation ecosystem",
+      "year": 2017,
+      "citation_raw": "“Engineering research: An underinvested-in weak link in the energy innovation ecosystem,” Narayanamurti, V. MRS Bulletin, 42(12), 2017, pp.877-877. “A Case Study of a World-class Research Project Accomplished in China: Discovery of the Anomalous Quarter Hall Effect,” Huang, J., Shi, D., Lan, X., and Narayanamurti, V. NSR Issue 3.4. February 2017.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Science and Engineering Education in the GCC: Challenges and Transformations",
+      "year": 2016,
+      "citation_raw": "“Science and Engineering Education in the GCC: Challenges and Transformations,” Siddiqi, A., Anadon, L.D., Narayanamurti, V. Higher Education in the GCC: Linkages and Independence, edited by Dale F. Eickelman and Rogaia Mustafa AbuSharaf. Berlin: Gerlach Press, 2016.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Cycles of Invention and Discovery: Rethinking the Endless Frontier",
+      "year": 2016,
+      "citation_raw": "“Cycles of Invention and Discovery: Rethinking the Endless Frontier,” Narayanamurti, V. and Odumosu, T. Harvard University Press, Cambridge, MA 2016.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "The Pressing Energy Innovation Challenge of the U.S. National Labs",
+      "year": 2016,
+      "citation_raw": "“The Pressing Energy Innovation Challenge of the U.S. National Labs,” Anadon, L.D., Chan, G., Bin-Nun, A.Y., Narayanamurti, V. Nature Energy 2016.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "The social science of creativity and research practice: Physical scientists, take notice",
+      "year": 2015,
+      "citation_raw": "“The social science of creativity and research practice: Physical scientists, take notice,” Odumosu, T., Tsao, J.Y., Narayanamurti, V. Physics Today Commentary: November 2015.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Transforming U.S. Energy Innovation",
+      "year": 2014,
+      "citation_raw": "“Transforming U.S. Energy Innovation,” Anadon, Laura Diaz, Matthew Bunn, and Venkatesh Narayanamurti, eds., Cambridge, UK: Cambridge University Press. July 2014.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Basic/applied research dichotomy",
+      "year": 2013,
+      "citation_raw": "“Basic/applied research dichotomy,” V. Narayanamurti, T. Odumosu, L. Vinsel, Issues in Science and Technology 29:16. Summer 2013.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "ARISE2: Unleashing America’s Research and Innovation Enterprise",
+      "year": 2013,
+      "citation_raw": "“ARISE2: Unleashing America’s Research and Innovation Enterprise,” Narayanamurti, V., Yamamoto, K., Andrews, N., et. al. Cambridge, MA, American Academy of Arts and Sciences, 2013.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    },
+    {
+      "title": "Transforming Energy Innovation",
+      "year": 2009,
+      "citation_raw": "“Transforming Energy Innovation,” Narayanamurti, V., Anadon, L.D., Sagar, A. D. Issues in Science and Technology, Fall 2009, 57-64.",
+      "source_url": "https://venky.seas.harvard.edu/research/recent-publications-and-testimony-2025/"
+    }
+  ]
 }
