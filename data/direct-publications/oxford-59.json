@@ -5,15 +5,74 @@
   "lab_name": null,
   "lab_url": "https://eng.ox.ac.uk/people/david-howey",
   "publication_urls": [
-    "https://eng.ox.ac.uk/people/david-howey",
-    "https://howey.eng.ox.ac.uk/",
     "https://battery-intelligence-lab.github.io/publications/"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
-  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:16:05.726725+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Taeho Jung - Application of concentrated solution theory and core potential to ion exchange media",
+      "year": 2023,
+      "citation_raw": "Taeho Jung - Application of concentrated solution theory and core potential to ion exchange media, 2023.",
+      "source_url": "https://battery-intelligence-lab.github.io/publications/"
+    },
+    {
+      "title": "The challenge and opportunity of battery lifetime prediction from field data",
+      "year": 2021,
+      "citation_raw": "Recent article highlights Sulzer, V., Mohtat, P., et al., “The challenge and opportunity of battery lifetime prediction from field data”, Joule, 2021. Publisher copy - please contact us if you want the pdf sent to you. Author accepted manuscript.",
+      "source_url": "https://battery-intelligence-lab.github.io/publications/"
+    },
+    {
+      "title": "Automated feature extraction and selection for data-driven models of rapid battery capacity fade and end of life",
+      "year": 2021,
+      "citation_raw": "S. Greenbank and D.A. Howey, “Automated feature extraction and selection for data-driven models of rapid battery capacity fade and end of life”. IEEE Transactions on Industrial Informatics, in press, 2021. Publisher copy or Pre-print",
+      "source_url": "https://battery-intelligence-lab.github.io/publications/"
+    },
+    {
+      "title": "Unlocking extra value from grid batteries using advanced models",
+      "year": 2021,
+      "citation_raw": "Reniers, J.M., Mulder, G. and Howey, D. A., “Unlocking extra value from grid batteries using advanced models”, Journal of Power Sources, 487:229355, 2021. Publisher copy or Pre-print",
+      "source_url": "https://battery-intelligence-lab.github.io/publications/"
+    },
+    {
+      "title": "Combining non-parametric and parametric models for stable and computationally efficient battery health estimation",
+      "year": 2020,
+      "citation_raw": "Aitio, A. and Howey, D.A. “Combining non-parametric and parametric models for stable and computationally efficient battery health estimation”, Proceedings of the ASME 2020 Dynamic Systems and Control Conference. Publisher copy or Pre-print",
+      "source_url": "https://battery-intelligence-lab.github.io/publications/"
+    },
+    {
+      "title": "Investigation of Path‐Dependent Degradation in Lithium‐Ion Batteries",
+      "year": 2020,
+      "citation_raw": "Raj, T., Wang, A.A., Monroe, C.W., and Howey, D.A., “Investigation of Path‐Dependent Degradation in Lithium‐Ion Batteries”, Batteries and Supercaps, 3(12), 1377-1385, 2020. Open access publisher copy",
+      "source_url": "https://battery-intelligence-lab.github.io/publications/"
+    },
+    {
+      "title": "Bayesian parameter estimation applied to the Li-ion battery single particle model with electrolyte dynamics",
+      "year": 2020,
+      "citation_raw": "Aitio, A., Marquis, S.G., Ascencio, P., and Howey, D.A., “Bayesian parameter estimation applied to the Li-ion battery single particle model with electrolyte dynamics”, IFAC-PapersOnLine, 53(2), 12497-12504, 2020. Publisher copy or Pre-print",
+      "source_url": "https://battery-intelligence-lab.github.io/publications/"
+    },
+    {
+      "title": "Battery health prediction under generalized conditions using a Gaussian process transition model",
+      "year": 2019,
+      "citation_raw": "Richardson, R.R., Osborne, M.A., and Howey D.A. “Battery health prediction under generalized conditions using a Gaussian process transition model”, Journal of Energy Storage vol. 23, 2019. Open access publisher copy",
+      "source_url": "https://battery-intelligence-lab.github.io/publications/"
+    },
+    {
+      "title": "Review and performance comparison of mechanical-chemical degradation models for lithium-ion batteries",
+      "year": 2019,
+      "citation_raw": "Reniers, J.M., Mulder, G., and Howey, D.A. “Review and performance comparison of mechanical-chemical degradation models for lithium-ion batteries”. Journal of The Electrochemical Society, vol. 166, num. 14, pp. A3189-A3200, 2019. Open access publisher copy",
+      "source_url": "https://battery-intelligence-lab.github.io/publications/"
+    },
+    {
+      "title": "Identifiability and Parameter Estimation of the Single Particle Lithium-Ion Battery Model",
+      "year": 2019,
+      "citation_raw": "Bizeray, A.M., Kim, J-H.,Duncan, S.R., and Howey D.A., “Identifiability and Parameter Estimation of the Single Particle Lithium-Ion Battery Model”, IEEE Transactions on Control Systems Technology, vol. 27, num. 5, 2019. Publisher copy or Pre-print",
+      "source_url": "https://battery-intelligence-lab.github.io/publications/"
+    }
+  ]
 }

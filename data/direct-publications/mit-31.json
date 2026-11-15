@@ -5,8 +5,6 @@
   "lab_name": null,
   "lab_url": "https://deng.mit.edu/",
   "publication_urls": [
-    "https://deng.mit.edu/",
-    "https://meche.mit.edu/people/faculty/silideng@mit.edu",
     "https://deng.mit.edu/publications.html"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/silideng@mit.edu",
@@ -29,7 +27,7 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
   "dropped_low_confidence": [
     {
       "title": "Gordon Wu Prize for Excellence, Princeton University",
@@ -50,8 +48,507 @@
       "source_url": "https://meche.mit.edu/people/faculty/silideng@mit.edu"
     }
   ],
-  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:16:05.726725+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Development and validation of a retuning-free skeletal mechanism for NH3/H2/Air combustion",
+      "year": 2027,
+      "citation_raw": "B.C. Koenig, S. Deng, Development and validation of a retuning-free skeletal mechanism for NH3/H2/Air combustion, Combustion and Flame 295 (2027) 115335. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Techno-economic assessment and GHG emissions assessment of synthetic LNG production via low carbon power-to-gas (PtoG) pathway",
+      "year": 2026,
+      "citation_raw": "M. Bhat, E. Lin, G. Ibrahim, B. Lin, W. Wu, B. H. Gebreslassie, A. M. Bala, S. Deng, G. Zang, Techno-economic assessment and GHG emissions assessment of synthetic LNG production via low carbon power-to-gas (PtoG) pathway, Energy Conversion and Management 369 (2026) 122046. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Uncertainty-aware differentiable spectroscopy for multi-line temperature and multi-species tomography in an ammonia/methane-fueled McKenna burner",
+      "year": 2026,
+      "citation_raw": "N. Tricard, S. Shanbhogue, M. Cherry, Z. Chen, C. Guerra-Garcia, A. Ghoniem, S. Deng, Uncertainty-aware differentiable spectroscopy for multi-line temperature and multi-species tomography in an ammonia/methane-fueled McKenna burner, Proceedings of the Combustion Institute 42 (2026) 106721. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Developing multi-field sparse reconstruction digital twins: A study in ammonia combustor",
+      "year": 2026,
+      "citation_raw": "L. Wang, J. Chen, A. Piscopo, A. Parente, S. Deng, Developing multi-field sparse reconstruction digital twins: A study in ammonia combustor, Proceedings of the Combustion Institute 42 (2026) 106421. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "augmented combustion scientist",
+      "year": 2026,
+      "citation_raw": "A. Parente, Z. X. Chen, S. Deng, The “augmented combustion scientist”: Shifting from data-driven science to agentic AI, Proceedings of the Combustion Institute 42 (2026) 106304. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Competing mechanisms governing combustion behavior in carbon-additive energetic materials",
+      "year": 2026,
+      "citation_raw": "H. Choi, S. Kim, S. Deng, Competing mechanisms governing combustion behavior in carbon-additive energetic materials, Proceedings of the Combustion Institute 42 (2026) 106245. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Kolmogorov–Arnold chemical reaction neural networks for learning pressure-dependent kinetic rate laws",
+      "year": 2026,
+      "citation_raw": "B.C. Koenig, S. Deng, Kolmogorov–Arnold chemical reaction neural networks for learning pressure-dependent kinetic rate laws, Proceedings of the Combustion Institute 42 (2026) 106425. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Model inversion and uncertainty quantification for chemical kinetics and thermal properties in combustion waves",
+      "year": 2026,
+      "citation_raw": "S. Kim, S. Deng, Model inversion and uncertainty quantification for chemical kinetics and thermal properties in combustion waves, Journal of Computational Physics 562 (2026) 115016. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Interwoven phase stabilization in Ni-rich cathode material via nanoparticle-seeded synthesis",
+      "year": 2026,
+      "citation_raw": "C. Zhang, J. Zhang, J. Wang, M. Bhat, S. Deng, Interwoven phase stabilization in Ni-rich cathode material via nanoparticle-seeded synthesis, ACS Applied Materials & Interfaces 18 (2026) 24378-24386. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Learning continuous state of charge dependent thermal decomposition kinetics for Li-ion cathodes using Kolmogorov–Arnold Chemical Reaction Neural Networks (KA-CRNNs)",
+      "year": 2026,
+      "citation_raw": "B. C. Koenig, S. Deng, Learning continuous state of charge dependent thermal decomposition kinetics for Li-ion cathodes using Kolmogorov–Arnold Chemical Reaction Neural Networks (KA-CRNNs), Journal of Energy Storage 158 (2026) 121853. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Rapid and single-step synthesis of carbon–silicon composites using a continuous aerosol approach",
+      "year": 2026,
+      "citation_raw": "S. Modi, J. Zhang, N. Ziebarth, S. Deng, Pratim Biswas, Rapid and single-step synthesis of carbon–silicon composites using a continuous aerosol approach, Carbon 253 (2026) 121410. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Building digital twin for 3D multi-field reconstruction and optimization of industrial-scale combustion systems",
+      "year": 2026,
+      "citation_raw": "L. Wang, Y. Li, S. Deng, Building digital twin for 3D multi-field reconstruction and optimization of industrial-scale combustion systems, Engineering 59 (2026) 197-214. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Learning multi-physical system on a unified manifold by collaboratively fused features",
+      "year": 2026,
+      "citation_raw": "L. Wang, Z. Chen, Y. Li, R. Deng, R. Zhang, Y. Luo, L. Lu, S. Deng, Learning multi-physical system on a unified manifold by collaboratively fused features, Engineering Applications of Artificial Intelligence 170 (2026) 114178. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Modeling lithium methyl carbonate decomposition kinetics in the lithium-ion battery SEI under thermal runaway",
+      "year": 2026,
+      "citation_raw": "B. C. Koenig*, M. Kim*, J. Hong, S. Deng, Modeling lithium methyl carbonate decomposition kinetics in the lithium-ion battery SEI under thermal runaway, Chemical Engineering Journal 533 (2026) 174724. *Equal contribution (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Review on preprocessing strategies, deactivation, thermal safety, and future perspectives in lithium-ion battery recycling",
+      "year": 2026,
+      "citation_raw": "Z. Zhan, X. Li, R. Roy, M. Cremer, A. Chiodo, C. Hui, S. Deng, D. Keisar, A. Fry, B. Lillie, M. Nichols, A. Fernando, P. LaTour, K. Alderson, J. Pearson, T. Hortin, J. Wendt, Review on preprocessing strategies, deactivation, thermal safety, and future perspectives in lithium-ion battery recycling, Energy & Fuels 2026, 40, 3, 1474-1496. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Chemical reaction neural networks for semi-detailed kinetic schemes including the influence of inorganics and secondary reactions during cellulose pyrolysis",
+      "year": 2026,
+      "citation_raw": "C. Chi, A. Dernbecher, K. P. R. Subramanian, J. J. Rico, A. Dieguez-Alonso, S. Adhikari, S. Deng, D. Thevenin, Chemical reaction neural networks for semi-detailed kinetic schemes including the influence of inorganics and secondary reactions during cellulose pyrolysis, Energy Conversion and Management 348 Part B (2026) 120655. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Neural ordinary differential equations (ODEs) for smooth, high-accuracy isotherm reconstruction, interpolation, and extrapolation",
+      "year": 2025,
+      "citation_raw": "E. Lin, E. Wang, S. Deng, Neural ordinary differential equations (ODEs) for smooth, high-accuracy isotherm reconstruction, interpolation, and extrapolation, npj Computational Materials 11 (2025) 348. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Combustion waves and flame stability in nanocomposites",
+      "year": 2025,
+      "citation_raw": "S. Kim, A. Wang, J. Z. Wen, S. Deng, Combustion waves and flame stability in nanocomposites, ACS Nano 19 (2025) 31790–31798. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Scientific machine learning in combustion for discovery, simulation, and control",
+      "year": 2025,
+      "citation_raw": "S. Deng, L. Wang, S. Kim, B. C. Koenig, Scientific machine learning in combustion for discovery, simulation, and control, Proceedings of the Combustion Institute 41 (2025) 105796. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "LeanKAN: a parameter-lean Kolmogorov-Arnold network layer with improved memory efficiency and convergence behavior",
+      "year": 2025,
+      "citation_raw": "B. C. Koenig, S. Kim, S. Deng, LeanKAN: a parameter-lean Kolmogorov-Arnold network layer with improved memory efficiency and convergence behavior, Neural Networks 192 (2025) 107883. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Unified physio-thermodynamic descriptors via learned CO2 adsorption properties in metal-organic frameworks",
+      "year": 2025,
+      "citation_raw": "E. Lin, Y. Zhong, G. Chen, S. Deng, Unified physio-thermodynamic descriptors via learned CO2 adsorption properties in metal-organic frameworks, npj Computational Materials 11 (2025) 225. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Hybrid physics-machine learning model for multispecies and temperature inference from FTIR spectra: Application to ammonia flames",
+      "year": 2025,
+      "citation_raw": "Z. Chen, N. Tricard, S. Deng, Hybrid physics-machine learning model for multispecies and temperature inference from FTIR spectra: Application to ammonia flames, Proceedings of the Combustion Institute 41 (2025) 105811. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "ChemKANs for combustion chemistry modeling and acceleration",
+      "year": 2025,
+      "citation_raw": "B. C. Koenig*, S. Kim*, S. Deng, ChemKANs for combustion chemistry modeling and acceleration, Physical Chemistry Chemical Physics 27 (2025) 17313-17330. *Equal contribution (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "In situ mitigation of calcination-introduced surface damage of single crystal nickel-rich cathode materials",
+      "year": 2025,
+      "citation_raw": "J. Zhang, C. Zhang, A.N. Penn, Y. Huang, S. Deng, In situ mitigation of calcination-introduced surface damage of single crystal nickel-rich cathode materials, ACS Nano 19 (2025) 16967-16979. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Progress in computational methods and mechanistic insights on the growth of carbon nanotubes",
+      "year": 2025,
+      "citation_raw": "L. Wang, N. Tricard, Z. Chen, S. Deng, Progress in computational methods and mechanistic insights on the growth of carbon nanotubes, Nanoscale 17 (2025) 11812-11863. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Comprehensive thermal-kinetic uncertainty quantification of lithium-ion battery thermal runaway via bayesian chemical reaction neural networks",
+      "year": 2025,
+      "citation_raw": "B.C. Koenig, P. Zhao, S. Deng, Comprehensive thermal-kinetic uncertainty quantification of lithium-ion battery thermal runaway via bayesian chemical reaction neural networks, Chemical Engineering Journal 507 (2025) 160402. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Microstructural thermal zones in reaction of nanoenergetics",
+      "year": 2024,
+      "citation_raw": "B. Cha*, A. Wang*, S. Kim*, J.-P. Hickey, S. Deng, J. Z. Wen, Microstructural thermal zones in reaction of nanoenergetics, ACS Applied Materials & Interfaces 16 (2024) 66099-66107. *Equal contribution (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2024,
+      "citation_raw": "S. Kim, S. Deng, Learning reaction-transport coupling from thermal waves, Nature Communications 15 9930 (2024). (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "3-D full-field reconstruction of chemically reacting flow towards high-dimension conditions through machine learning",
+      "year": 2024,
+      "citation_raw": "L. Wang*, R. Deng*, R. Zhang, Y. Luo, S. Deng, 3-D full-field reconstruction of chemically reacting flow towards high-dimension conditions through machine learning, Chemical Engineering Journal 499 (2024) 156435. *Equal contribution (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "KAN-ODEs: Kolmogorov-Arnold network ordinary differential equations for learning dynamical systems and hidden physics",
+      "year": 2024,
+      "citation_raw": "B.C. Koenig*, S. Kim*, S. Deng, KAN-ODEs: Kolmogorov-Arnold network ordinary differential equations for learning dynamical systems and hidden physics, Computer Methods in Applied Mechanics and Engineering 432 (2024) 117397. *Equal contribution (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Fast QoI-oriented Bayesian experimental design with unified neural response surfaces for kinetic uncertainty reduction",
+      "year": 2024,
+      "citation_raw": "H. Chen, Q. Li, S. Deng, Fast QoI-oriented Bayesian experimental design with unified neural response surfaces for kinetic uncertainty reduction, Energy & Fuels 2024 Energy and Fuels Rising Stars, Energy and Fuels 38 (2024) 15630-15641. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Thermal interaction of inert additives in energetic materials",
+      "year": 2024,
+      "citation_raw": "G. Tsai*, S. Kim*, S. Deng, Thermal interaction of inert additives in energetic materials, Proceedings of the Combustion Institute 40 (2024) 105459. *Equal contribution (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Uncertain lithium-ion cathode kinetic decomposition modeling via Bayesian chemical reaction neural networks",
+      "year": 2024,
+      "citation_raw": "B.C. Koenig, H. Chen, Q. Li, P. Zhao, S. Deng, Uncertain lithium-ion cathode kinetic decomposition modeling via Bayesian chemical reaction neural networks, Proceedings of the Combustion Institute 40 (2024) 105243. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Mixtures recomposition by neural nets: A multidisciplinary overview",
+      "year": 2024,
+      "citation_raw": "A. Nicolle, S. Deng, M. Ihme, N. Kuzhagaliyeva, E. A. Ibrahim, A. Farooq, Mixtures recomposition by neural nets: A multidisciplinary overview, Journal of Chemical Information and Modeling 64 (2024) 597-620. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Multi-component precursor droplet evaporation in spray synthesis of cathode materials",
+      "year": 2024,
+      "citation_raw": "M. Bhat*, S. Luo*, J. Zhang, C. Zhang, B. Zhou, S. Deng, Multi-component precursor droplet evaporation in spray synthesis of cathode materials, Chemical Engineering Journal 479 (2024) 147417. *Equal contribution (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Significant catalyst savings and reaction kinetics enhancement for catalytic micro-combustors via non-uniform catalyst segmentation",
+      "year": 2023,
+      "citation_raw": "E. Lin, C. T. Wilson, A. Leroy, S. Deng, Significant catalyst savings and reaction kinetics enhancement for catalytic micro-combustors via non-uniform catalyst segmentation, Chemical Engineering Journal 476 (2023) 146627. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Multi-target active subspaces generated using a neural network for computationally efficient turbulent combustion kinetic uncertainty quantification in the flamelet regime",
+      "year": 2023,
+      "citation_raw": "B.C. Koenig, S. Deng, Multi-target active subspaces generated using a neural network for computationally efficient turbulent combustion kinetic uncertainty quantification in the flamelet regime, Combustion and Flame 258 (2023) 113015. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Accommodating physical reaction schemes in DSC cathode thermal stability analysis using chemical reaction neural networks",
+      "year": 2023,
+      "citation_raw": "B.C. Koenig, P. Zhao, S. Deng, Accommodating physical reaction schemes in DSC cathode thermal stability analysis using chemical reaction neural networks, Journal of Power Sources 581 (2023) 233443. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Inference of chemical kinetics and thermodynamic properties from constant-volume combustion of energetic materials",
+      "year": 2023,
+      "citation_raw": "S. Kim, S. Deng, Inference of chemical kinetics and thermodynamic properties from constant-volume combustion of energetic materials, Chemical Engineering Journal 469 (2023) 143779. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Kinetics parameter optimization of hydrocarbon fuels via neural ordinary differential equations",
+      "year": 2023,
+      "citation_raw": "X. Su, W. Ji, J. An, Z. Ren, S. Deng, C.K. Law, Kinetics parameter optimization of hydrocarbon fuels via neural ordinary differential equations, Combustion and Flame 251 (2023) 112732. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Bayesian chemical reaction neural network for autonomous kinetic uncertainty quantification",
+      "year": 2023,
+      "citation_raw": "Q. Li, H. Chen, B. C. Koenig, S. Deng, Bayesian chemical reaction neural network for autonomous kinetic uncertainty quantification, Physical Chemistry Chemical Physics 25 (2023) 3707-3717. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Ultrafast materials synthesis and manufacturing techniques for emerging energy and environmental applications",
+      "year": 2023,
+      "citation_raw": "X. Hu, D. Zuo, S. Cheng, S. Chen, Y. Liu, W. Bao, S. Deng, S. J. Harris, J. Wan, Ultrafast materials synthesis and manufacturing techniques for emerging energy and environmental applications, Chemical Society Reviews 52 (2023) 1103-1128. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Effects of the preheating temperature on flame-assisted spray pyrolysis of nickel-rich cathode materials",
+      "year": 2023,
+      "citation_raw": "J. Zhang, V.L. Muldoon, S. Deng, Effects of the preheating temperature on flame-assisted spray pyrolysis of nickel-rich cathode materials, Proceedings of the Combustion Institute 39 (2023) 1165-1173. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Using shock tube species time-histories in Bayesian parameter estimation: Effective independent-data number and target selection",
+      "year": 2023,
+      "citation_raw": "H. Chen, W. Ji, S. Cassady, A.M. Ferris, R.K. Hanson, S. Deng, Using shock tube species time-histories in Bayesian parameter estimation: Effective independent-data number and target selection, Proceedings of the Combustion Institute 39 (2023) 5299-5308. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Kinetic subspace investigation using neural network for uncertainty quantification in nonpremixed flamelets",
+      "year": 2023,
+      "citation_raw": "B.C. Koenig, W. Ji, S. Deng, Kinetic subspace investigation using neural network for uncertainty quantification in nonpremixed flamelets, Proceedings of the Combustion Institute 39 (2023) 5229-5238. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Burning structures and propagation mechanisms of nanothermites",
+      "year": 2023,
+      "citation_raw": "S. Kim, A.A. Johns, J.Z. Wen, S. Deng, Burning structures and propagation mechanisms of nanothermites, Proceedings of the Combustion Institute 39 (2023) 3593-3604. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Acid-in-Clay electrolyte for wide-temperature-range and long-cycle proton batteries",
+      "year": 2022,
+      "citation_raw": "S. Wang, H. Jiang, Y. Dong, D. Clarkson, H. Zhu, C.M. Settens, Y. Ren, T. Nguyen, F. Han, W. Fan, S.Y. Kim, J. Zhang, W. Xue, S.K. Sandstrom, G. Xu, E. Tekoglu, M. Li, S. Deng, Q. Liu, S.G. Greenbaum, X. Ji, T. Gao, J. Li, Acid-in-Clay electrolyte for wide-temperature-range and long-cycle proton batteries, Advanced Materials 34 (2022) 2202063. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "SGD-based optimization in modeling combustion kinetics: Case studies in tuning mechanistic and hybrid kinetic models",
+      "year": 2022,
+      "citation_raw": "W. Ji, X. Su, B. Pang, Y. Li, Z. Ren, S. Deng, SGD-based optimization in modeling combustion kinetics: Case studies in tuning mechanistic and hybrid kinetic models, Fuel 324 (2022) 124560. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Accelerated synthesis of Li(Ni0.8Co0.1Mn0.1)O2 cathode materials using flame-assisted spray pyrolysis and additives",
+      "year": 2022,
+      "citation_raw": "J. Zhang, V.L. Muldoon, S. Deng, Accelerated synthesis of Li(Ni0.8Co0.1Mn0.1)O2 cathode materials using flame-assisted spray pyrolysis and additives, Journal of Power Sources 528 (2022) 231244. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Crude glycerol and glycerol as fuels and fuel additives in combustion applications",
+      "year": 2022,
+      "citation_raw": "J. Zhang, Y. Wang, V.L. Muldoon, S. Deng, Crude glycerol and glycerol as fuels and fuel additives in combustion applications, Renewable and Sustainable Energy Reviews 159 (2022) 112206. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Autonomous kinetic modeling of biomass pyrolysis using chemical reaction neural networks",
+      "year": 2022,
+      "citation_raw": "W. Ji, F. Richter, M.J. Gollner, S. Deng, Autonomous kinetic modeling of biomass pyrolysis using chemical reaction neural networks, Combustion and Flame 240 (2022) 111992. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "X. Su, W. Ji, L. Zhang, W. Wu, Z. Ren, S. Deng, Neural differential equations for inverse modeling in model combustors, Proceedings of the ASME International Mechanical Engineering Congress & Exhibition 2021, IMECE2021-69657 (2021). (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "W. Ji, J. Zanders, J.-W. Park, S. Deng, Data-driven approaches to learn Hychem models, Proceedings of the ASME International Combustion Engine Division Fall Technical Conference 2021, ICEF2021-67925 (2021). (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "X. Liang, Y. Wang, Y. Chen, S. Deng, Advances in emission regulations and emission control technologies for internal combustion engines, SAE Journal of Sustainable Transportation, Energy, Environment & Policy 2 (2021). (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Stiff-PINN: Physics-Informed Neural Network for stiff chemical kinetics",
+      "year": 2021,
+      "citation_raw": "W. Ji, W. Qiu, Z. Shi, S. Pan, S. Deng, Stiff-PINN: Physics-Informed Neural Network for stiff chemical kinetics, Journal of Physical Chemistry A 125 (2021) 8098-8106. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "S. Kim, W. Ji, S. Deng, Y. Ma, C. Rackauckas, Stiff neural ordinary differential equations, Chaos 31, 093122 (2021). (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "H. Zhao, D. Lu, J. Wang, W. Tu, D. Wu, S.W. Koh, P. Gao, Z.J. Xu, S. Deng, Y. Zhou, B. You, H. Li, Raw biomass electroreforming coupled to green hydrogen generation, Nature Communications 12, 2008 (2021). (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Autonomous discovery of unknown reaction pathways from data by Chemical Reaction Neural Network",
+      "year": 2021,
+      "citation_raw": "W. Ji, S. Deng, Autonomous discovery of unknown reaction pathways from data by Chemical Reaction Neural Network, Journal of Physical Chemistry A 125 (2021) 1082-1092. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Impacts of lubricating oil and its formulations on diesel engine particle characteristics",
+      "year": 2021,
+      "citation_raw": "Y. Wang, Y. Chen, X. Liang, P. Tan, S. Deng, Impacts of lubricating oil and its formulations on diesel engine particle characteristics, Combustion and Flame 225 (2021) 48-56. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "https://doi.org/10.1038/s41560-020-0662-1. (Link) * Cover page",
+      "year": 2020,
+      "citation_raw": "S. Ou, X. He, W. Ji, W. Chen, L. Sui, Y. Gan, Z. Lu, Z. Lin, S. Deng, S. Przesmitzki, J. Bouchard, Machine learning model to project the impact of COVID-19 on US motor gasoline demand, Nature Energy (2020). https://doi.org/10.1038/s41560-020-0662-1. (Link) * Cover page",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Dependence of kinetic sensitivity direction in premixed flames",
+      "year": 2020,
+      "citation_raw": "W. Ji, T. Zhang, Z. Ren, S. Deng, Dependence of kinetic sensitivity direction in premixed flames, Combustion and Flame 220 (2020) 16-22. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Synergistically chemical and thermal coupling between graphene oxide and graphene fluoride for enhancing aluminum combustion",
+      "year": 2020,
+      "citation_raw": "Y. Jiang*, S. Deng*, S. Hong*, S. Tiwari, H. Chen, K. Nomura, R.K. Kalia, A. Nakano, P. Vashishta, M.R. Zachariah, X.L. Zheng, Synergistically chemical and thermal coupling between graphene oxide and graphene fluoride for enhancing aluminum combustion, ACS Applied Materials & Interfaces 12 (2020) 7451-7458. *Equal contribution (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "On autoignition mode under variable thermodynamic state of internal combustion engines",
+      "year": 2020,
+      "citation_raw": "J. Pan, L. Chen, H. Wei, D. Feng, S. Deng, G. Shu, On autoignition mode under variable thermodynamic state of internal combustion engines, International Journal of Engine Research 21 (2020) 856-865. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Experimental effective metal oxides to enhance boron combustion",
+      "year": 2019,
+      "citation_raw": "S. Huang, S. Deng, Y. Jiang, X.L. Zheng, Experimental effective metal oxides to enhance boron combustion, Combustion and Flame 205 (2019) 278-285. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "S.K.Y, Tang, X.L, Zheng, Modified micro-emulsion synthesis of highly dispersed Al/PVDF composites with enhanced combustion properties",
+      "year": 2019,
+      "citation_raw": "S. Huang, M. Pan, S. Deng, Y. Jiang, J. Zhao, B. Levy-Wendt, S.K.Y. Tang, X.L. Zheng, Modified micro-emulsion synthesis of highly dispersed Al/PVDF composites with enhanced combustion properties, Advanced Engineering Materials (2019) 1801330. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Energetic performance of optically activated aluminum/graphene oxide composites",
+      "year": 2018,
+      "citation_raw": "Y. Jiang*, S. Deng*, S. Hong*, J. Zhao, S. Huang, C.-C. Wu, J.L. Gottfried, K. Nomura, Y. Li, S. Tiwari, R.K. Kalia, P. Vashishta, A. Nakano, X.L. Zheng, Energetic performance of optically activated aluminum/graphene oxide composites, ACS Nano 12 (2018) 11366-11345. *Equal contribution (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Tuning the morphological, ignition and combustion properties of micron-Al/CuO thermites through different synthesis approaches",
+      "year": 2018,
+      "citation_raw": "S. Deng*, Y. Jiang*, S. Huang, X. Shi, J. Zhao, X.L. Zheng, Tuning the morphological, ignition and combustion properties of micron-Al/CuO thermites through different synthesis approaches, Combustion and Flame 195 (2018) 303-310. *Equal contribution (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Facile thermal and optical ignition of silicon nanoparticles and micron particles",
+      "year": 2017,
+      "citation_raw": "S. Huang, V.S. Parimi, S. Deng, S. Lingamneni, X.L. Zheng, Facile thermal and optical ignition of silicon nanoparticles and micron particles, Nano Letters 17 (2017) 5925-5930. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Electroless deposition and ignition properties of Si/Fe2O3 core/shell nanothermites",
+      "year": 2017,
+      "citation_raw": "S. Huang*, S. Deng*, Y. Jiang, J. Zhao, X.L. Zheng, Electroless deposition and ignition properties of Si/Fe2O3 core/shell nanothermites, ACS Omega 2 (2017) 3596-3600. *Equal contribution (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Ignition and extinction of strained nonpremixed cool flames at elevated pressures",
+      "year": 2017,
+      "citation_raw": "S. Deng, D. Han, C.K. Law, Ignition and extinction of strained nonpremixed cool flames at elevated pressures, Combustion and Flame 176 (2017) 143-150. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Hydrodynamic and chemical effects of hydrogen addition on soot evolution in turbulent nonpremixed bluff body ethylene flames",
+      "year": 2017,
+      "citation_raw": "S. Deng, M.E. Mueller, Q.N. Chan, N.H. Qamar, B.B. Dally, Z.T. Alwahabi, G.J. Nathan, Hydrodynamic and chemical effects of hydrogen addition on soot evolution in turbulent nonpremixed bluff body ethylene flames, Proceedings of the Combustion Institute 36 (2017) 807-814. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Laminar flame propagation and nonpremixed stagnation ignition of toluene and xylenes",
+      "year": 2017,
+      "citation_raw": "D. Han, S. Deng, W. Liang, P. Zhao, F. Wu, Z. Huang, C.K. Law, Laminar flame propagation and nonpremixed stagnation ignition of toluene and xylenes, Proceedings of the Combustion Institute 36 (2017) 479-489. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Flame dynamics in oscillating flows under autoignitive conditions",
+      "year": 2016,
+      "citation_raw": "S. Deng, P. Zhao, M.E. Mueller, C.K. Law, Flame dynamics in oscillating flows under autoignitive conditions, Combustion and Flame 168 (2016) 75-82. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Stabilization of laminar nonpremixed DME/air coflow flames at elevated temperatures and pressures",
+      "year": 2015,
+      "citation_raw": "S. Deng, P. Zhao, M.E. Mueller, C.K. Law, Stabilization of laminar nonpremixed DME/air coflow flames at elevated temperatures and pressures, Combustion and Flame 162 (2015) 4471-4478. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Autoignition-affected stabilization of laminar nonpremixed DME/air coflow flames",
+      "year": 2015,
+      "citation_raw": "S. Deng, P. Zhao, M.E. Mueller, C.K. Law, Autoignition-affected stabilization of laminar nonpremixed DME/air coflow flames, Combustion and Flame 162 (2015) 3437-3445. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Initiation and propagation of laminar premixed cool flames",
+      "year": 2015,
+      "citation_raw": "P. Zhao, W. Liang, S. Deng, C.K. Law, Initiation and propagation of laminar premixed cool flames, Fuel 166 (2015) 477-487. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Sooting limits of nonpremixed n-heptane, n-butanol, and methyl butanoate flames: Experimental determination and mechanistic analysis",
+      "year": 2014,
+      "citation_raw": "S. Deng, J.A. Koch, M.E. Mueller, C.K. Law, Sooting limits of nonpremixed n-heptane, n-butanol, and methyl butanoate flames: Experimental determination and mechanistic analysis, Fuel 136 (2014) 122-129. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "NTC-affected ignition and low-temperature flames in nonpremixed DME/air counterflow",
+      "year": 2014,
+      "citation_raw": "S. Deng, P. Zhao, D. Zhu, C.K. Law, NTC-affected ignition and low-temperature flames in nonpremixed DME/air counterflow, Combustion and Flame 161 (2014) 1993-1997. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Direct synthesis of nanostructured TiO2 films with controlled morphologies by stagnation swirl flames",
+      "year": 2012,
+      "citation_raw": "Y. Zhang, S. Li, S. Deng, Q. Yao, S.D. Tse, Direct synthesis of nanostructured TiO2 films with controlled morphologies by stagnation swirl flames, Journal of Aerosol Science 44 (2012) 71-82. (Link)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Experimental studies on TiO2 nanoparticles in a swirl-stabilized stagnation flame",
+      "year": 2011,
+      "citation_raw": "S. Deng, S. Li, S.D. Tse, J. Wang, Y. Tao, Q. Yao, Experimental studies on TiO2 nanoparticles in a swirl-stabilized stagnation flame, Journal of Engineering Thermophysics 32 (2011) 157-160. (In Chinese)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Sintering behavior of TiO2 particles in a premixed stagnation flame",
+      "year": 2011,
+      "citation_raw": "J. Wang, Y. Tao, Y. Zhang, S. Deng, S. Li, Q. Yao, Sintering behavior of TiO2 particles in a premixed stagnation flame, Journal of Engineering Thermophysics 32 (2011) 875-878. (In Chinese)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Potassium deactivation and regeneration method of V2O5-WO3/TiO2 SCR catalyst\"",
+      "year": 2009,
+      "citation_raw": "D. Yun, S. Deng, Q. Song, Q. Yao, Potassium deactivation and regeneration method of V2O5-WO3/TiO2 SCR catalyst\", Research of Environmental Sciences 6 (2009) 730-735. (In Chinese)",
+      "source_url": "https://deng.mit.edu/publications.html"
+    },
+    {
+      "title": "Deng Energy and Nanotechnology Group (DENG)",
+      "year": 2018,
+      "citation_raw": "Deng Energy and Nanotechnology Group (DENG) Accessibility Copyright © 2018 Sili Deng",
+      "source_url": "https://deng.mit.edu/publications.html"
+    }
+  ]
 }

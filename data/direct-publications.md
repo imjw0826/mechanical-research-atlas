@@ -2,7 +2,7 @@
 
 웹페이지 메뉴·다른 섹션이 섞인 것으로 의심되는 57개 항목은 검수 전까지 이 목록에서 제외하고 원본 조사 파일에 보존했습니다.
 
-연구실 조사 기록 814개 · 게시 항목을 확보한 연구실 589개 · 연구실별 논문·원고 기록 50,099건
+연구실 조사 기록 814개 · 게시 항목을 확보한 연구실 596개 · 연구실별 논문·원고 기록 52,073건
 
 **수집·검수 진행 중입니다.** 아래의 complete는 해당 사이트의 게시 목록 수집 상태이며, 전체 대학 조사 완료나 교수의 평생 전체 논문을 보증하는 표시는 아닙니다.
 
@@ -12,16 +12,16 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
 [대학별 조사 진행 현황](direct-publications-progress.md)
 
-- [University of Cambridge: 1,599개 게시 기록](bibliographies/cambridge.md)
+- [University of Cambridge: 1,604개 게시 기록](bibliographies/cambridge.md)
 - [Delft University of Technology: 1,575개 게시 기록](bibliographies/delft.md)
 - [ETH Zurich: 6,339개 게시 기록](bibliographies/eth.md)
-- [Harvard University: 6,494개 게시 기록](bibliographies/harvard.md)
+- [Harvard University: 7,760개 게시 기록](bibliographies/harvard.md)
 - [Imperial College London: 1,543개 게시 기록](bibliographies/imperial.md)
 - [KAIST: 9,318개 게시 기록](bibliographies/kaist.md)
-- [MIT: 4,263개 게시 기록](bibliographies/mit.md)
-- [Nanyang Technological University: 986개 게시 기록](bibliographies/ntu.md)
-- [National University of Singapore: 1,991개 게시 기록](bibliographies/nus.md)
-- [University of Oxford: 2,799개 게시 기록](bibliographies/oxford.md)
+- [MIT: 4,692개 게시 기록](bibliographies/mit.md)
+- [Nanyang Technological University: 1,247개 게시 기록](bibliographies/ntu.md)
+- [National University of Singapore: 1,994개 게시 기록](bibliographies/nus.md)
+- [University of Oxford: 2,809개 게시 기록](bibliographies/oxford.md)
 - [POSTECH: 1,986개 게시 기록](bibliographies/postech.md)
 - [Seoul National University: 6,963개 게시 기록](bibliographies/snu.md)
 - [Stanford University: 4,243개 게시 기록](bibliographies/stanford.md)
@@ -30,7 +30,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -40,7 +40,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -633,7 +633,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -643,7 +643,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -653,7 +653,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -663,7 +663,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -677,7 +677,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -687,7 +687,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -697,7 +697,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -707,7 +707,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -721,7 +721,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -735,7 +735,7 @@ Aside 브라우저로 확인한 Publications/Papers 페이지의 게시 목록�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -2049,7 +2049,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -2061,7 +2061,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -2193,7 +2193,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -2203,13 +2203,15 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
 ## University of Cambridge — Jonathan Cullen
 
- · 논문·원고 7건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 12건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+수집 범위: 공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://www.refficiency.org/category/publications/>
+
+출처: <https://www.refficiency.org/category/publications/page/2/>
 
 출처: <https://www.refficiency.org/category/publications/page/3/>
 
@@ -2229,6 +2231,26 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
     게시 페이지: <https://www.refficiency.org/category/publications/>
 
+1. Material circularity in the UK’s foundation industries Laura Prestwich December 22, 2025
+
+    게시 페이지: <https://www.refficiency.org/category/publications/page/2/>
+
+1. A systematic review of resilience in the critical minerals supply chains, needed for the low-carbon energy transition Mehrnoosh Heydari October 17, 2025
+
+    게시 페이지: <https://www.refficiency.org/category/publications/page/2/>
+
+1. Assessing minimum energy requirements and emissions for different raw material compositions in clinker production Laura Prestwich July 25, 2025
+
+    게시 페이지: <https://www.refficiency.org/category/publications/page/2/>
+
+1. A robust framework for estimating theoretical minimum energy requirements for industrial processes Jonathan Cullen April 10, 2025
+
+    게시 페이지: <https://www.refficiency.org/category/publications/page/2/>
+
+1. Connected, complex, and carbonized: The country archetypes of the petrochemicals sector Laura Prestwich January 7, 2025
+
+    게시 페이지: <https://www.refficiency.org/category/publications/page/2/>
+
 1. Reducing uncertainties in greenhouse gas emissions from chemical production Luke Cullen March 26, 2024
 
     게시 페이지: <https://www.refficiency.org/category/publications/page/3/>
@@ -2245,7 +2267,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -3559,7 +3581,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -3569,7 +3591,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -3579,7 +3601,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 464건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -5445,7 +5467,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 8건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -5487,7 +5509,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -5499,7 +5521,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -5811,7 +5833,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -5821,7 +5843,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -5831,7 +5853,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 64건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -6099,7 +6121,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6109,7 +6131,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6119,7 +6141,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6209,7 +6231,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6301,7 +6323,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6311,7 +6333,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6321,7 +6343,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6333,7 +6355,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6345,7 +6367,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6357,7 +6379,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6367,7 +6389,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7093,7 +7115,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7103,7 +7125,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7115,7 +7137,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7127,7 +7149,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7293,7 +7315,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7307,7 +7329,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7319,7 +7341,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7329,7 +7351,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7549,7 +7571,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7559,7 +7581,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 50건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -7769,7 +7791,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7779,7 +7801,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7789,7 +7811,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -7799,7 +7821,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -8184,7 +8206,7 @@ Bulk Superconductivity Group · 논문·원고 256건 · 기타 성과 0건 · �
 
  · 논문·원고 392건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 11개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -10392,7 +10414,7 @@ Extreme Materials & Mechanics (X2M) · 논문·원고 5건 · 기타 성과 0건
 
  · 논문·원고 107건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 7개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -15365,7 +15387,7 @@ Homepage · 논문·원고 68건 · 기타 성과 0건 · 상태: complete
 
 Homepage · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -15411,7 +15433,7 @@ Homepage · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
 George Haller's Group for Nonlinear Dynamical Systems · 논문·원고 207건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -16251,7 +16273,7 @@ George Haller's Group for Nonlinear Dynamical Systems · 논문·원고 207건 �
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -16265,7 +16287,7 @@ George Haller's Group for Nonlinear Dynamical Systems · 논문·원고 207건 �
 
 Homepage · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -37034,7 +37056,7 @@ Homepage · 논문·원고 433건 · 기타 성과 17건 · 상태: complete
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -37224,7 +37246,7 @@ Homepage · 논문·원고 433건 · 기타 성과 17건 · 상태: complete
 
 Homepage · 논문·원고 25건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -38252,7 +38274,7 @@ Homepage · 논문·원고 25건 · 기타 성과 0건 · 상태: partial
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -42368,7 +42390,7 @@ Computational Mechanics Group · 논문·원고 192건 · 기타 성과 0건 · 
 
 Research Frazzoli · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -46918,11 +46940,11 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
 ## Harvard University — Michael J. Aziz
 
- · 논문·원고 121건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 359건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 연구실 논문 페이지 12개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+수집 범위: 공식 연구실 논문 페이지 32개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://aziz.seas.harvard.edu/publications>
 
@@ -46934,11 +46956,33 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
 출처: <https://joss.theoj.org/papers/10.21105/joss.06537>
 
+출처: <https://aziz.seas.harvard.edu/publications?page=29>
+
 출처: <https://aziz.seas.harvard.edu/publications?page=4>
 
 출처: <https://aziz.seas.harvard.edu/publications?page=6>
 
 출처: <https://aziz.seas.harvard.edu/publications?page=8>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=10>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=12>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=14>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=16>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=18>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=20>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=22>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=24>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=26>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=28>
 
 출처: <https://aziz.seas.harvard.edu/publications?page=3>
 
@@ -46946,7 +46990,25 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
 출처: <https://aziz.seas.harvard.edu/publications?page=7>
 
+출처: <https://aziz.seas.harvard.edu/publications?page=9>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=11>
+
 출처: <https://aziz.seas.harvard.edu/publications?page=13>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=15>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=17>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=19>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=21>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=23>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=25>
+
+출처: <https://aziz.seas.harvard.edu/publications?page=27>
 
 1. Haojin Li, Benli Jiang, Faith Hines, Wei-Jing Chen, Anubhav Wadehra, Walter Mendoza, Aviva Harman, Christina Wan, Derek Qin, Peco Myint, Jiaqi Tang, Joy C. Perkinson, Michael J. Aziz, and Karl F. Ludwig Jr. 2026. “The Independence of Nanopattern Formation and Stress Evolution During Low-Energy Ar+ Bombardment of Si”. Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions With Materials and Atoms
 
@@ -47096,6 +47158,50 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
     게시 페이지: <https://joss.theoj.org/papers/10.21105/joss.06537>
 
+1. E. Nygren, M. J. Aziz, D. Turnbull, J.M. Poate, D.C. Jacobson, and R. Hull. 1985. “The Effect of Pressure on the Solid Phase Epitaxial Regrowth Rate of Si”. Appl. Phys. Lett., 47, Pp. 232-33
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=29>
+
+1. J. Narayan, R.V. James, O.W. Holland, and M. J. Aziz. 1985. “Pulsed Excimer and CO_2 Laser Annealing of Ion Implanted Silicon”. J. Vac. Sci. Technol. A, 3, Pp. 1836-38
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=29>
+
+1. M. J. Aziz, C.W. White, J. Narayan, and B. Stritzker. 1985. “Melting of Crystalline and Amorphous Silicon by Ruby, XeCl and KrF Laser Irradiation”. In Energy Beam-Solid Interactions and Transient Thermal Processing, Pp. 231-36. Paris: Éditions de Physique
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=29>
+
+1. J. Narayan, C.W. White, M. J. Aziz, B. Stritzker, and A. Walthuis. 1985. “Pulsed Excimer (KrF) Laser Melting of Amorphous and Crystalline Silicon Layers”. J. Appl. Phys., 57, Pp. 564-67
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=29>
+
+1. M. J. Aziz, E. Nygren, J.F. Hays, and D. Turnbull. 1985. “Crystal Growth Kinetics of Boron Oxide under Pressure”. J. Appl. Phys., 57, Pp. 2233-42
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=29>
+
+1. M. J. Aziz, J.Y. Tsao, M.O. Thompson, P.S. Peercy, C.W. White, and W.H. Christie. 1985. “A Test of Two Solute Trapping Models”. Mater. Res. Soc. Symp. Proc., 35, Pp. 153-58
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=29>
+
+1. M. J. Aziz. 1984. “Crystal Growth and Solute Trapping”. Mater. Res. Soc. Symp. Proc., 23, Pp. 369-74
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=29>
+
+1. J. Narayan, C.W. White, O.W. Holland, and M. J. Aziz. 1984. “Phase Transformation and Impurity Redistribution During Pulsed Laser Irradiation of Amorphous Silicon Layers”. J. Appl. Phys., 56, Pp. 1821-30
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=29>
+
+1. M. J. Aziz. 1983. “Dissipation-Theory Treatment of the Transition from Diffusion-Controlled to Diffusionless Solidification”. Appl. Phys. Lett., 43, Pp. 552-54
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=29>
+
+1. M. J. Aziz. 1982. “Model for Solute Redistribution During Rapid Solidification”. J. Appl. Phys., 53, Pp. 1158-68
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=29>
+
+1. M. J. Aziz. 1982. “An Atomistic Model of Solute Trapping”. In Rapid Solidification Processing: Principles and Technologies III, Pp. 113-17. Gaithersburg, MD: National Bureau of Standards
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=29>
+
 1. Sashini Senali Dissanayake, Naheed Ferdous, Hemi H. Gandhi, David Pastor, Tuan T. Tran, Jim Williams, Michael J. Aziz, Eric Mazur, Elif Ertekin, and Meng-Ju Sher. 2021. “Carrier Dynamics and Absorption Properties of Gold-Hyperdoped Germanium: Insight Into Tailoring Defect Energetics”. Physical Review Applied
 
     게시 페이지: <https://aziz.seas.harvard.edu/publications?page=4>
@@ -47239,6 +47345,482 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 1. Qing Chen, Michael R. Gerhardt, Lauren Hartle, and Michael J. Aziz. 2015. “A Quinone-Bromide Flow Battery With 1 W Cm2 Power Density”. Journal of the Electrochemical Society
 
     게시 페이지: <https://aziz.seas.harvard.edu/publications?page=8>
+
+1. J.T. Sullivan, C.B. Simmons, J.J. Krich, A.J. Akey, D. Recht, M. J. Aziz, and T. Buonassisi. 2013. “Methodology for Vetting Heavily Doped Semiconductors for Intermediate Band Photovoltaics: A Case Study in Sulfur-Hyperdoped Silicon”. J. Appl. Phys., 114, Pp. 103701
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. I. Umezu, J. M. Warrender, S. Charnvanichborikarn, A. Kohno, J. S. Williams, M. Tabbal, D.G. Papazoglou, X.-C. Zhang, and M. J. Aziz. 2013. “Emergence of Very Broad Infrared Absorption Band by Hyperdoping of Silicon With Chalcogens”. J. Appl. Phys., 113, 213501
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. B. Huskinson and M. J. Aziz. 2013. “Performance Model of a Regenerative Hydrogen-Bromine Fuel Cell for Grid-Scale Energy Storage”. Energy Sci. Tech, 5, 1
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. F. Fabbri, M. J. Smith, D. Recht, M. J. Aziz, S. Grade\v cak, and G. Salviati. 2013. “Depth-Resolved Cathodoluminescence Spectroscopy of Silicon Supersaturated With Sulfur”. Appl. Phys. Lett., 102, 031909
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. Daniel Recht, M. J. Smith, S. Charnvanichborikarn, J.T. Sullivan, M. T. Winkler, J. Mathews, J. M. Warrender, T. Buonassisi, J. S. Williams, S. Grade\v cak, and M. J. Aziz. 2013. “Supersaturating Silicon With Transition Metals by Ion Implantation and Pulsed Laser Melting”. J. Appl. Phys., 114, Pp. 124903
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. S. Nawar, B. Huskinson, and M. J. Aziz. 2013. “Benzoquinone-Hydroquinone Couple for Flow Battery”. Mater. Res. Soc. Symp. Proc., 1491, mrsf12-1491-c08-09
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. L. Bukonte, F. Djurabekova, J. Samela, K. Nordlund, S.A. Norris, and M. J. Aziz. 2013. “Comparison of Molecular Dynamics and Binary Collision Approximation Simulations for Atom Displacement Analysis”. Nucl. Instrum. Meth. B, 297, 23
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. B. Huskinson, S. Nawar, M. R. Gerhardt, and M. J. Aziz. 2013. “Novel Quinone-Based Couples for Flow Batteries”. ECS Trans., 53, 101
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. C.S. Madi and M. J. Aziz. 2012. “Multiple Scattering Causes the Low Energy-Low Angle Constant Wavelength Topographical Instability of Argon Ion Bombarded Silicon Surfaces”. Appl. Surf. Sci., 258, 4112
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. J. Rugolo, B. Huskinson, and M. J. Aziz. 2012. “Model of Performance of a Regenerative Hydrogen Chlorine Fuel Cell for Grid-Scale Electrical Energy Storage”. J. Electrochem. Soc., 159, B133
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. E. Ertekin, M. T. Winkler, D. Recht, A. J. Said, M. J. Aziz, T. Buonassisi, and J. C. Grossman. 2012. “Insulator-to-Metal Transition in Selenium-Hyperdoped Silicon: Observation and Origin”. Phys. Rev. Lett., 108, 026401
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. J. Rugolo and M. J. Aziz. 2012. “Electricity Storage for Intermittent Renewable Sources”. Energy Environ. Sci., 5, 7151
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=10>
+
+1. E.A. Nierop, S. Hormoz, K.Z. House, and M. J. Aziz. 2011. “Effect of Absorption Enthalpy on Temperature-Swing CO2 Separation Process Performance”. Energy Procedia, 4, 1783
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. D.P. Hoogerheide, H. B. George, J.A. Golovchenko, and M. J. Aziz. 2011. “Thermal Activation and Saturation of Ion Beam Sculpting”. J. Appl. Phys., 109, 074312
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. J. Samela, S.A. Norris, K. Nordlund, and M. J. Aziz. 2011. “Optimization of Large Amorphous Silicon and Silica Structures for Molecular Dynamics Simulations of Energetic Impacts”. Nucl. Instr. Meth. Phys. Res. B, 269, 1568
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. J. Rugolo, B. Huskinson, and M. J. Aziz. 2011. “Model of Performance of a Regenerative Hydrogen Chlorine Fuel Cell for Grid-Scale Electrical Energy Storage”. J. Electrochem. Soc., 159, 2
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. S.H. Pan, D. Recht, S. Charnvanichborikarn, J. S. Williams, and M. J. Aziz. 2011. “Enhanced Visible and Near-Infrared Optical Absorption in Silicon Supersaturated With Chalcogens”. Appl. Phys. Lett., 98, 121913
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. M. T. Winkler, D. Recht, M.J. Sher, A. J. Said, E. Mazur, and M. J. Aziz. 2011. “Insulator to Metal Transition in Sulfur-Doped Silicon”. Phys. Rev. Lett., 106, 178701
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. M.C. Dolph, T. Kim, W. Yin, J. Lu, D. Recht, W. Fan, J. Yu, M. J. Aziz, and S.A. Wolf. 2011. “Magnetic Properties of Ion Implanted Ge_1-XMn_x Thin Films Solidified through Pulsed Laser Melting”. J. Appl. Phys., 109, 093917
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. A. J. Said, D. Recht, J.T. Sullivan, J. M. Warrender, T. Buonassisi, P.D. Persans, and M. J. Aziz. 2011. “Extended Infrared Photoresponse and Gain in Chalcogen-Supersaturated Silicon Photodiodes”. Appl. Phys. Lett., 99, 073503
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. P.D. Persans, N.E. Berry, D. Recht, D. Hutchinson, A. J. Said, J. M. Warrender, H. Peterson, A. DiFranzo, C. McGahan, J. Clark, W. Cunningham, and M. J. Aziz. 2011. “Photocarrier Excitation and Transport in Hyperdoped Planar Silicon Devices”. Mat. Res. Soc. Symp. Proc., 1321, mrss11-1321-a08-16
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. J.T. Sullivan, R.G. Wilks, M. T. Winkler, L. Weinhardt, D. Recht, A. J. Said, B. K. Newman, Y. Zhang, M. Blum, S. Krause, W.L. Yang, C. Heske, M. J. Aziz, M. Bär, and T. Buonassisi. 2011. “Soft X-Ray Emission Spectroscopy Studies of the Electronic Structure of Silicon Supersaturated With Sulfur”. Appl. Phys. Lett., 99, 142102
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. I. Umezu, A. Kohno, J. M. Warrender, Y. Takatori, Y. Hirao, S. Nakagawa, S. Sugimura, S. Charnvanichborikarn, J. S. Williams, and M. J. Aziz. 2011. “Strong Mid-Infrared Optical Absorption by Supersaturated Sulfur Doping in Silicon”. AIP Conf. Proc., 1399, 51
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. E. Anzenberg, C.S. Madi, M. J. Aziz, and Jr. K.F. Ludwig. 2011. “Time-Resolved Measurements of Nanoscale Surface Pattern Formation Kinetics in Two Dimensions on Ion Irradiated Si”. Phys. Rev. B, 84, 214108
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=12>
+
+1. R. Asmatulu, A. Karthikeyan, D.C. Bell, S. Ramanathan, and M. J. Aziz. 2009. “Synthesis and Variable Temperature Electrical Conductivity Studies of Highly Ordered TiO_2 Nanotubes”. J. Mat. Sci., 44, 4613
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. D. Recht, F. Capasso, and M. J. Aziz. 2009. “On the Temperature Dependence of Point-Defect-Mediated Luminescence in Silicon”. Appl. Phys. Lett., 94, 251113
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. K.Z. House, C.F. Harvey, M. J. Aziz, and D.P. Schrag. 2009. “The Energy Penalty of Post-Combustion CO_2 Capture and Storage and Its Implications for Retrofitting the U.S. Installed Base”. Energy Environ. Sci., 2, 193
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. M. J. Aziz. 2008. “Film Growth Mechanisms in Pulsed Laser Deposition”. Appl. Phys. A, 93, 579
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. C.S. Madi, B. Davidovitch, H. B. George, S.A. Norris, M.P. Brenner, and M. J. Aziz. 2008. “Multiple Bifurcation Types and the Linear Dynamics of Ion Sputtered Surfaces”. Phys. Rev. Lett., 101, 246102
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. T. Kim, M. J. Aziz, and V. Narayanamurti. 2008. “Two Dimensionally Patterned GaN_xAs_1-X GaAs Nanostructures Using N+ Implantation Followed by Pulsed Laser Melting”. Appl. Phys. Lett., 93, 102117
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. T. Kim, K. Alberi, O.D. Dubon, M. J. Aziz, and V. Narayanamurti. 2008. “Composition Dependence of Schottky Barrier Heights and Band Gap Energies of GaN_xAs_1-X Synthesized by Ion Implantation and Pulsed Laser Melting”. J. Appl. Phys., 104, 113722
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. B. Shin, J.P. Leonard, J.W. McCamy, and M. J. Aziz. 2007. “On the Phase Shift of Reflection High Energy Electron Diffraction Intensity Oscillations During Ge(001) Homoepitaxy by Molecular Beam Epitaxy”. J. Vac. Sci. Technol. A, 25, 221
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. J. Bao, M. Tabbal, T. Kim, S. Charnvanichborikarn, J. S. Williams, M. J. Aziz, and F. Capasso. 2007. “Point Defect Engineered Si Sub-Bandgap Light-Emitting Diode”. Optics Express, 15, 6727
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. W.J. MoberlyChan, D.P. Adams, M. J. Aziz, G. Hobler, and T. Schenkel. 2007. “Fundamentals of FIB Nanostructural Processing: Below, At and Above the Surface”. MRS Bulletin, 32, 5
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. J. M. Warrender and M. J. Aziz. 2007. “Kinetic Energy Effects on Morphology Evolution During Pulsed Laser Deposition of Metal-on-Insulator Films”. Phys. Rev. B, 75, 085433
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. B. Shin and M. J. Aziz. 2007. “Modeling RHEED Intensity Oscillations in Multilayer Epitaxy: Determination of the Ehrlich-Schwoebel Barrier in Ge(001) Homoepitaxy”. Phys. Rev. B, 76, 165408
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=14>
+
+1. D. Margetis, P.-W. Fok, M. J. Aziz, and H.A. Stone. 2006. “Continuum Theory of Nanostructure Decay via a Microscale Condition”. Phys. Rev. Lett., 97, 096102
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. D. Margetis, M. J. Aziz, and H.A. Stone. 2005. “Continuum Approach to Self-Similarity and Scaling in Nanostructure Decay”. Phys. Rev. B, 71, 165432
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. S. Ichim and M. J. Aziz. 2005. “Lateral Templating of Self-Organized Ripple Morphologies During Focused Ion Beam Milling of Ge”. J. Vac. Sci. Technol. B, 23, 1068-1071
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. H.A. Stone, D. Margetis, and M. J. Aziz. 2005. “Grooving of a Grain Boundary by Evaporation-Condensation below the Roughening Transition”. J. Appl. Phys., 97, 113535
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. Y. Zhao, M. J. Aziz, N.R. Zangenberg, and A.N. Larsen. 2005. “Activation Volume for Phosphorus Diffusion in Silicon and Si_0.93Ge_0.07”. Appl. Phys. Lett., 86, 141902
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. C.B. Arnold and M. J. Aziz. 2005. “Unified Kinetic Model of Dopant Segregation During Vapor Phase Growth”. Phys. Rev. B, 72, 195419
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. V. Ramaswamy, T.E. Haynes, C.W. White, W.J. MoberlyChan, S. Roorda, and M. J. Aziz. 2005. “Synthesis of Nearly Monodisperse Embedded Nanoparticles by Separating Nucleation and Growth in Ion Implantation”. Nano Lett., 5, Pp. 373-77
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. M. J. Aziz. 2005. “Introduction to ’A Treatment of the Solute Drag on Moving Grain Boundaries and Phase Interfaces in Binary Alloys’, by M. Hillert and B. Sundman”. In Thermodynamics and Phase Transformations: The Selected Works of Mats Hillert, edited by J. Agren, Y. Brechet, C. Hutchinson, J. Philibert, and G. Purdy, Pp. 401. France: EDP Sciences, Les Ulis Cedex A
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. A. Cuenat, H. B. George, K.-C. Chang, J.M. Blakely, and M. J. Aziz. 2005. “Lateral Templating for Guided Self-Organization of Sputter Morphologies”. Adv. Mater., 17, 2845
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. B. Shin, J.P. Leonard, J.W. McCamy, and M. J. Aziz. 2005. “Comparison of Morphology Evolution of Ge(001) Homoepitaxial Films Grown by Pulsed Laser Deposition and Molecular Beam Epitaxy”. Appl. Phys. Lett., 87, 181916
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. H. H. Chen, O.A. Urquidez, S. Ichim, L. Humberto Rodriguez, M.P. Brenner, and M. J. Aziz. 2005. “Shocks in Ion Sputtering Sharpen Steep Surface Features”. Science, 310, 294
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. H. B. George, A.-D. Brown, M.R. McGrath, J. Erlebacher, and M. J. Aziz. 2005. “Quantifying the Order of Spontaneous Ripple Patterns on Ion-Irradiated Si(111)”. Mater. Res. Soc. Symp. Proc., 908E, OO2.4
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=16>
+
+1. M. J. Aziz. 2003. “Dopant Diffusion under Pressure and Stress”
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. K.M. Yu, W. Walukiewicz, M.A. Scarpulla, O.D. Dubon, J. Wu, J. Jasinski, Z. Liliental-Weber, J.W. Beeman, M.R. Pillai, and M. J. Aziz. 2003. “Synthesis of GaN_xAs_1-X Thin Films by Pulsed Laser Melting and Rapid Thermal Annealing of N^+-Implanted GaAs”. J. Appl. Phys., 94, Pp. 1043-49
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. C.B. Arnold and M. J. Aziz. 2003. “Kinetic Modeling of Dopant and Impurity Surface Segregation During Vapor Phase Growth: Multiple Mechanism Approach”. Mater. Res. Soc. Symp. Proc., 749, W14.3
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. P.W. Voorhees and M. J. Aziz. 2002. “The Effects of a Stress-Dependent Mobility on Interfacial Stability”. In Interfaces for the Twenty-First Century: New Research Directions in Fluid Mechanics and Materials Science, edited by M.K. Smith, M.J. Miksis, G.B. McFadden, G.P. Neitzel, and D.R. Canright. London: Imperial College Press
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. A. Cuenat and M. J. Aziz. 2002. “Spontaneous Pattern Formation from Focused and Unfocused Ion Beam Irradiation”. Mater. Res. Soc. Symp. Proc., 696, Pp. N2.8.1-N2.8.6
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. A.-V. Phan, T. Kaplan, L.J. Gray, W. Barvosa-Carter, and M. J. Aziz. 2002. “Modeling a Growth Instability in Stressed Boron Doped Silicon”
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. K.M. Yu, W. Walukiewicz, J.W. Beeman, M.A. Scarpulla, O.D. Dubon, M.R. Pillai, and M. J. Aziz. 2002. “Enhanced Nitrogen Incorporation by Pulsed Laser Melting of GaN_xAs_1-X Formed by N Implantation”. Appl. Phys. Lett., 80, Pp. 3958-60
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. M. J. Aziz. 2001. “Stress Effects on Defects and Dopant Diffusion in Si”. Mater. Sci. Semicond. Process., 4, Pp. 397-403
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. P.G. Sanders, M.O. Thompson, T.J. Renk, and M. J. Aziz. 2001. “Liquid Titanium Solute Diffusion Measured by Pulsed Ion-Beam Melting”. Metall. Mat. Trans. A, 32, Pp. 2969-74
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. O.D. Dubon, P.G. Evans, M.F. Chisholm, D. A. Muller, J.F. Chervinsky, M. J. Aziz, F. Spaepen, and J.A. Golovchenko. 2001. “Doping by Metal-Mediated Epitaxy: Growth of As Delta-Doped Si Through a Pb Monolayer”. Appl. Phys. Lett., 78, Pp. 1505-7
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. E. Chason, J. Erlebacher, M. J. Aziz, J.A. Floro, and M.B. Sinclair. 2001. “Dynamics of Pattern Formation During Low Energy Ion Bombardment of Si(001)”. Nucl. Instr. Meth. B, 178, Pp. 55-61
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. J.D. Erlebacher, M. J. Aziz, A. Karma, N. Dmitrov, and K. Sieradzki. 2001. “Evolution of Nanoporosity in Dealloying”. Nature, 410, Pp. 450-53
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=18>
+
+1. M. J. Aziz. 2000. “On Kinetically Vs. Energetically Driven Growth Instabilities in Solid and Vapor Phase Epitaxy”. Mater. Res. Soc. Symp. Proc., 618, Pp. 233-41
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=20>
+
+1. D. Turnbull and M. J. Aziz. 2000. “The Tetrahedral Motif in Metal Structures”. In The Science of Alloys for the 21st Century: A Hume-Rothery Celebration, Pp. 179-82. Warrendale, PA: TMS - The Minerals, Metals & Materials Society
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=20>
+
+1. C.B. Arnold, M. J. Aziz, M. Schwarz, and D.M. Herlach. 1999. “Parameter-Free Test of Alloy Dendrite Growth Theory”. Phys. Rev. B, 59, Pp. 334-43
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=20>
+
+1. Y. Zhao, M. J. Aziz, H.-J. Gossmann, S. Mitha, and D. Schiferl. 1999. “Activation Volume for Boron Diffusion in Silicon and Implications for Strained Films”. Appl. Phys. Lett., 74, Pp. 31-33
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=20>
+
+1. J.D. Erlebacher, M. J. Aziz, E. Chason, M.B. Sinclair, and J.A. Floro. 1999. “Spontaneous Pattern Formation on Ion Bombarded Si(001)”. Phys. Rev. Lett., 82, Pp. 2330-33
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=20>
+
+1. Y. Zhao, M. J. Aziz, H.-J. Gossmann, S. Mitha, and D. Schiferl. 1999. “Activation Volume for Antimony Diffusion in Silicon and Implications for Strained Films”. Appl. Phys. Lett., 75, Pp. 941-43
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=20>
+
+1. O.D. Dubon, P.G. Evans, J.F. Chervinsky, F. Spaepen, M. J. Aziz, and J.A. Golovchenko. 1999. “Low-Temperature Si(111) Homoepitaxy and Doping Mediated by a Monolayer of Pb”. Mater. Res. Soc. Symp. Proc., 570, Pp. 45-49
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=20>
+
+1. R.C. Newman, S.G. Corcoran, J.D. Erlebacher, M. J. Aziz, and K. Sieradzki. 1999. “Alloy Corrosion”. MRS Bulletin, 24, 7, Pp. 24-28
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=20>
+
+1. P.G. Sanders and M. J. Aziz. 1999. “Self-Diffusivity of Liquid Silicon Measured by Pulsed Laser Melting”. J. Appl. Phys., 86, Pp. 4258-61
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=20>
+
+1. T. Yoshida, Y. Yamada, N. Suzuki, T. Makino, T. Orii, K. Murakami, D.B. Geohegan, D.H. Lowndes, and M. J. Aziz. 1999. “Crystallinities and Light Emitting Properties of Nanostructured SiGe Alloy Prepared by Pulsed Laser Ablation in Inert Background Gases”
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=20>
+
+1. C.B. Arnold and M. J. Aziz. 1999. “Stoichiometry Issues in Pulsed Laser Deposition of Alloys Grown from Multicomponent Targets”. Appl. Phys. A, 69, Pp. S23-S27
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=20>
+
+1. M. J. Aziz. 1997. “Thermodynamics of Diffusion under Pressure and Stress: Relation to Point Defect Mechanisms”. Appl. Phys. Lett., 70, Pp. 2810-12
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. Y. Zhao, M. J. Aziz, S. Mitha, and D. Schiferl. 1997. “Effect of Pressure on Boron Diffusion in Silicon”. Mater. Res. Soc. Symp. Proc., 442, Pp. 305-10
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. W. Barvosa-Carter and M. J. Aziz. 1997. “Effect of Non-Hydrostatic Stress on Kinetics and Interfacial Roughness During Solid Phase Epitaxial Growth in Si”. Mater. Res. Soc. Symp. Proc., 441, Pp. 75-80
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. J.D. Erlebacher and M. J. Aziz. 1997. “Ion-Sputter Induced Rippling of Si(111)”. Mater. Res. Soc. Symp. Proc., 440, Pp. 461-66
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. J.D. Erlebacher and M. J. Aziz. 1997. “Surface Relaxation Mechanisms in the Morphological Equilibration of Crystal Surfaces”. Mater. Res. Soc. Symp. Proc., 440, Pp. 59-64
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. J.W. McCamy and M. J. Aziz. 1997. “Time-Resolved RHEED Studies of the Growth of Epitaxial ZnSe Films on GaAs by Pulsed Laser Deposition”. Mater. Res. Soc. Symp. Proc., 441, Pp. 621-26
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. M. J. Aziz. 1997. “Nonhydrostatic Stress Effects on Boron Diffusion in Si”. Mater. Res. Soc. Symp. Proc., 469, Pp. 37-46
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. M. J. Aziz, S. Circone, and C.B. Agee. 1997. “Vanishing Atomic Migration Barrier in SiO_2”. Nature, 390, 596-599
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. N. Isono, P. M. Smith, D. Turnbull, and M. J. Aziz. 1996. “Anomalous Diffusion of Fe in Liquid Al Measured by the Pulsed Laser Technique”. Metall. Mat. Trans. A, 27, Pp. 725-30
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. M. J. Aziz. 1996. “Interface Attachment Kinetics in Alloy Solidification”. Metall. Mat. Trans. A, 27, Pp. 671-86
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. S.D. Theiss, F. Spaepen, and M. J. Aziz. 1996. “Pressure-Enhanced Interdiffusion in Amorphous Si Ge Multilayers”. Appl. Phys. Lett., 68, Pp. 1226-28
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. J.A. Kittl, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 1996. “Test of Kinetic Models for Interface Velocity, Temperature, and Solute Trapping in Rapid Solidification”. Mater. Res. Soc. Symp. Proc., 398, Pp. 119-26
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=22>
+
+1. M. J. Aziz. 1994. “Nonequilibrium Interface Kinetics During Rapid Solidification”. Mater. Sci. Eng. A, 178, Pp. 167-70
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. M. J. Aziz. 1994. “Questions and Answers on the Activation Strain”. Mater. Res. Soc. Symp. Proc., 321, Pp. 449-59
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. R. Reitano, P. M. Smith, and M. J. Aziz. 1994. “Trends in Solute Segregation Behavior During Silicon Solidification”. Mater. Res. Soc. Symp. Proc., 321, Pp. 479-84
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. S.D. Theiss, S. Mitha, F. Spaepen, and M. J. Aziz. 1994. “Interdiffusion of Amorphous Si Ge Multilayers Under Hydrostatic Pressure”. Mater. Res. Soc. Symp. Proc., 321, Pp. 59-64
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. S. Mitha, S.D. Theiss, M. J. Aziz, D. Schiferl, and D.B. Poker. 1994. “Effect of Pressure on Arsenic Diffusion in Germanium”. Mater. Res. Soc. Symp. Proc., 325, Pp. 189-94
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. P. M. Smith and M. J. Aziz. 1994. “Solute Trapping in Aluminum Alloys”. Acta Metall. Mater., 42, Pp. 3515-25
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. R. Reitano, P. M. Smith, and M. J. Aziz. 1994. “Solute Trapping of Group III, IV and V Elements in Silicon by Aperiodic Stepwise Growth Mechanism”. J. Appl. Phys., 76, Pp. 1518-29
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. M. J. Aziz. 1994. “Solidification — Rapid Growth Kinetics”. In Encyclopedia of Advanced Materials, Pp. 2187-94. Oxford: Pergamon Press
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. J.A. Kittl, R. Reitano, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 1993. “Time-Resolved Temperature Measurements During Rapid Solidification of Si-As Alloys Induced by Pulsed-Laser Melting”. J. Appl. Phys., 73, Pp. 3725-33
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. P. M. Smith, R. Reitano, and M. J. Aziz. 1993. “Solute Trapping in Metals”. Mater. Res. Soc. Symp. Proc., 279, Pp. 749-55
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. J.A. Kittl, R. Reitano, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 1993. “Congruent Melting Temperatures of Si-As Alloys Measured During Pulsed-Laser Melting and Rapid Solidification”. Mater. Res. Soc. Symp. Proc., 279, Pp. 691-97
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. T. Kaplan, M. J. Aziz, and L.J. Gray. 1993. “Restricted Applicability of Onsager’s Reciprocity Relations to Models of Interface Motion”. J. Chem. Phys., 99, Pp. 8031-37
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=24>
+
+1. D.E. Hoglund, M. J. Aziz, S.R. Stiffler, M.O. Thompson, J.Y. Tsao, and P.S. Peercy. 1991. “Effect of Nonequilibrium Interface Kinetics on Cellular Breakdown of Planar Interface During Rapid Solidification of Si-Sn”. J. Cryst. Growth, 109, Pp. 107-12
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. J.A. Weset, J.T. Manos, and M. J. Aziz. 1991. “Formation of Metastable Disordered Ni_3Al by Pulsed Laser-Induced Rapid Solidification”. Mater. Res. Soc. Symp. Proc., 213, Pp. 859-64
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. M. J. Aziz, P.C. Sabin, and G.-Q. Lu. 1991. “The Activation Strain Tensor: Nonhydrostatic Stress Effects on Crystal Growth Kinetics”. Phys. Rev. B, 44, Pp. 9812-16
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. M. J. Aziz, P.C. Sabin, and G.-Q. Lu. 1991. “Effect of Nonhydrostatic Stress on Crystal Growth Kinetics”. Mater. Res. Soc. Symp. Proc., 202, Pp. 567-72
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. G.-Q. Lu, E. Nygren, and M. J. Aziz. 1991. “Pressure-Enhanced Crystallization Kinetics of Amorphous Si and Ge: Implications for Point Defect Mechanisms”. J. Appl. Phys., 70, Pp. 5323-45
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. G.-Q. Lu, E. Nygren, M. J. Aziz, D. Turnbull, and C.W. White. 1990. “Pressure-Enhanced Solid Phase Epitaxy of Ge”. Appl. Phys. Lett., 56, Pp. 137-39
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. H. A. Atwater, J.A. West, P. M. Smith, M. J. Aziz, J.Y. Tsao, P.S. Peercy, and M.O. Thompson. 1990. “Time-Resolved Measurements of Solidification and Undercooling in Metals and Alloys”. Mater. Res. Soc. Symp. Proc., 157, Pp. 369-75
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. T. Kaplan, M. J. Aziz, and L.J. Gray. 1989. “Application of Onsager’s Reciprocity Relations to Interface Motion During Phase Transformations”. J. Chem. Phys., 90, Pp. 1133-40
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. G. Devaud, M. J. Aziz, and D. Turnbull. 1989. “High Pressure Crystallization of As_2S_3”. J. Non-Cryst. Solids, 109, Pp. 121-28
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. W.J. Boettinger and M. J. Aziz. 1989. “Theory for the Trapping of Disorder and Solute in Intermetallic Phases by Rapid Solidification”. Acta Metallurgica, 37, Pp. 3379-91
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. G.-Q. Lu, E. Nygren, M. J. Aziz, D. Turnbull, and C.W. White. 1989. “Interferrometric Measurement of the Pressure-Enhanced Crystallization Rate of Amorphous Si”. Appl. Phys. Lett., 54, Pp. 2583-85
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. M. J. Aziz and T. Kaplan. 1988. “Continuous Growth Model for Alloy Solidification”. Acta Metall. Mater., 36, Pp. 2335-47
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=26>
+
+1. C.W. White and M. J. Aziz. 1986. “Energy Deposition, Heat Flow, and Rapid Solidification During Laser and Electron Beam Irradiation of Materials”. In Surface Alloying by Ion, Electron, and Laser Beams, Pp. 19-50. Metals Park, Ohio: American Society for Metals
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
+
+1. M. J. Aziz. 1986. “Modeling and Measurements of Solute Trapping”. In Laser Surface Treatment of Metals, Pp. 649-62. The Hague, Netherlands: Martinus Nijhoff Publishers
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
+
+1. M.O. Thompson, P.S. Peercy, J.Y. Tsao, and M. J. Aziz. 1986. “Rapid Solidification Studies of a Model Alloy System”. Appl. Phys. Lett., 49, Pp. 558-60
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
+
+1. J.D. Budai and M. J. Aziz. 1986. “Formation of Icosahedral Al-Mn by Ion Implantation into Oriented Crystalline Films”. Phys. Rev. B, 33, Pp. 2876-78
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
+
+1. M. J. Aziz, J.Y. Tsao, M.O. Thompson, P.S. Peercy, and C.W. White. 1986. “Solute Trapping: Comparison of Theory With Experiment”. Phys. Rev. Lett., 56, Pp. 2489-92
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
+
+1. J.Y. Tsao, M. J. Aziz, M.O. Thompson, and P.S. Peercy. 1986. “Asymmetric Melting and Freezing Kinetics in Silicon”. Phys. Rev. Lett., 56, Pp. 2712-15
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
+
+1. M. J. Aziz and J.D. Budai. 1986. “Precipitation of Icosahedral Al-Mn During Pulsed Laser Melting”. J. Mater. Res., 1, Pp. 401-4
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
+
+1. C.W. White, P.S. Sklad, L.A. Boatner, G.C. Farlow, C.J. McHargue, B.C. Sales, and M. J. Aziz. 1986. “Ion Implantation and Annealing of Crystalline Oxides”. Mater. Res. Soc. Symp. Proc., 60, Pp. 337-44
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
+
+1. M. J. Aziz and C.W. White. 1986. “Solute Trapping in Silicon by Lateral Motion of 111 Ledges”. Phys. Rev. Lett., 57, Pp. 2675-78
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
+
+1. E. Nygren, M. J. Aziz, D. Turnbull, J.F. Hays, J.M. Poate, D.C. Jacobson, and R. Hull. 1985. “Pressure Dependence of Arsenic Diffusivity in Silicon”. Mater. Res. Soc. Symp. Proc., 36, Pp. 77-82
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
+
+1. M. J. Aziz, E. Nygren, W.H. Christie, C.W. White, and D. Turnbull. 1985. “Effect of Pressure on Self Diffusion in Crystalline Silicon”. Mater. Res. Soc. Symp. Proc., 36, Pp. 101-4
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
+
+1. E. Nygren, M. J. Aziz, D. Turnbull, J.M. Poate, D.C. Jacobson, and R. Hull. 1985. “Pressure Dependence of Arsenic Diffusivity in Silicon”. Appl. Phys. Lett., 47, Pp. 105-7
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=28>
 
 1. Jinxu Gao, Kyumin Lee, Kiana Amini, Roy G. Gordon, Theodore A. Betley, and Michael J. Aziz. 2023. “A Highly Soluble Iron-Based Posolyte Species With High Redox Potential for Aqueous Redox Flow Batteries”. Advanced Functional Materials, Pp. 2310140
 
@@ -47384,6 +47966,102 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
     게시 페이지: <https://aziz.seas.harvard.edu/publications?page=7>
 
+1. Y. Ishii, C.S. Madi, M. J. Aziz, and E. Chason. 2015. “Stress Evolution in Si During Low Energy Ion Bombardment”. J. Mater. Res., 29, 24, Pp. 2942-48
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. B. Huskinson, M.P. Marshak, M. R. Gerhardt, and M. J. Aziz. 2014. “Cycling of a Quinone-Bromide Flow Battery for Large-Scale Electrochemical Energy Storage”. ECS Trans., 61, Pp. 27
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. C.B. Simmons, A.J. Akey, J. P. Mailoa, D. Recht, M. J. Aziz, and T. Buonassisi. 2014. “Enhancing the Infrared Photoresponse of Silicon by Controlling the Fermi Level Location Within an Impurity Band”. Adv. Funct. Mater., 24, Pp. 2852-58
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. J. M. Warrender, J. Mathews, D. Recht, M. Smith, S. Grade\v cak, and M. J. Aziz. 2014. “Morphological Stability During Solidification of Silicon Incorporating Metallic Impurities”. J. Appl. Phys., 115, Pp. 163516
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. M.-J. Sher, C.B. Simmons, J.J. Krich, A.J. Akey, M. T. Winkler, D. Recht, T. Buonassisi, M. J. Aziz, and A.M. Lindenberg. 2014. “Picosecond Carrier Recombination Dynamics in Chalcogen-Hyperdoped Silicon”. Appl. Phys. Lett, 105, Pp. 053905
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. J. P. Mailoa, A.J. Akey, C.B. Simmons, D. Hutchinson, J. Mathews, J.T. Sullivan, D. Recht, M. T. Winkler, J. S. Williams, J. M. Warrender, P.D. Persans, M. J. Aziz, and T. Buonassisi. 2014. “Room-Temperature Sub-Band Gap Optoelectronic Response of Hyperdoped Silicon”. Nature Communications, 5, Pp. 3011
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. H. Safaei and M. J. Aziz. 2014. “Thermodynamic Analysis of a Compressed Air Energy Storage Facility Exporting Compression Heat to an External Heat Load”
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. J. Mathews, A.J. Akey, D. Recht, G. Malladi, H. Efstathiadis, M. J. Aziz, and J. M. Warrender. 2014. “On the Limits to Ti Incorporation into Si Using Pulsed Laser Melting”. Appl. Phys. Lett., 104, Pp. 112102
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. J.C. Perkinson, E. Anzenberg, M. J. Aziz, and Jr. K.F. Ludwig. 2014. “Model-Independent Test of the Truncated Crater Function Theory of Surface Morphology Evolution During Ion Bombardment”. Phys. Rev. B, 89, Pp. 115433
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. Brian Huskinson, Michael P. Marshak, Süleyman Er, Michael R. Gerhardt, Cooper J. Galvin, Xudong Chen, Alán Aspuru-Guzik, Roy G. Gordon, and Michael J. Aziz. 2014. “A Metal-Free Organic–inorganic Aqueous Flow Battery”. Edited by Changwon Suh. Nature, 505, Pp. 195-98
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. S.A. Norris, J. Samela, M. Vestberg, K. Nordlund, and M. J. Aziz. 2014. “Crater Functions for Compound Materials: A Route to Parameter Estimation in Coupled-PDE Models of Ion Bombardment”. Nucl. Instrum. Meth. B, 318, Pp. 245-52
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. C.B. Simmons, A.J. Akey, J.J. Krich, J.T. Sullivan, D. Recht, M. J. Aziz, and T. Buonassisi. 2013. “Deactivation of Metastable Single-Crystal Silicon Hyperdoped With Sulfur”. J. Appl. Phys., 114, Pp. 243514
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=9>
+
+1. D. Recht, J.T. Sullivan, R. Reedy, T. Buonassisi, and M. J. Aziz. 2012. “Controlling Dopant Profiles in Hyperdoped Silicon by Modifying Dopant Evaporation Rates During Pulsed Laser Melting”. Appl. Phys. Lett., 100, 112112
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
+1. J.-C. Cheang-Wong, K. Narumi, G.M. Schürmann, M. J. Aziz, and J.A. Golovchenko. 2012. “Tunable Nanometer Electrode Gaps by MeV Ion Irradiation”. Appl. Phys. Lett., 100, 153108
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
+1. M. Holmes-Cerfon, M. J. Aziz, and M.P. Brenner. 2012. “Creating Sharp Features by Colliding Shocks on Uniformly Irradiated Surfaces”. Phys. Rev. B, 85, 165441
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
+1. B. Huskinson, J. Rugolo, S.K. Mondal, and M. J. Aziz. 2012. “A High Power Density, High Efficiency Hydrogen-Chlorine Regenerative Fuel Cell With a Low Precious Metal Content Catalyst”. Energy & Environmental Science, 5, 8690
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
+1. P.D. Persans, N.E. Berry, D. Recht, D. Hutchinson, H. Peterson, J. Clark, S. Charnvanichborikarn, J. S. Williams, A. DiFranzo, M. J. Aziz, and J. M. Warrender. 2012. “Photocarrier Lifetime and Transport in Silicon Supersaturated With Sulfur”. Appl. Phys. Lett., 101, 111105
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
+1. J.C. Perkinson, C.S. Madi, and M. J. Aziz. 2012. “Nanoscale Topographic Pattern Formation on Kr+-Bombarded Germanium Surfaces”. J. Vac. Sci. Technol. A, 31, 021405
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
+1. E. Anzenberg, J.C. Perkinson, C.S. Madi, M. J. Aziz, and Jr. K.F. Ludwig. 2012. “Nanoscale Surface Pattern Formation Kinetics on Germanium Irradiated by Kr+ Ions”. Phys. Rev. B, 86, 245412
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
+1. M. Holmes-Cerfon, W. Zhou, A.L. Bertozzi, M.P. Brenner, and M. J. Aziz. 2012. “Development of Knife-Edge Ridges on Ion-Bombarded Surfaces”. Appl. Phys. Lett., 102, 143109
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
+1. J.T. Sullivan, R.G. Wilks, M. T. Winkler, L. Weinhardt, D. Recht, A. J. Said, B. K. Newman, Y. Zhang, M. Blum, S. Krause, W.L. Yang, C. Heske, M. J. Aziz, M. Bär, and T. Buonassisi. 2011. “Soft X-Ray Emission Spectroscopy Studies of the Electronic Surface of Silicon Supersaturated With Sulfur”. Appl. Phys. Lett., 99, Pp. 142102
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
+1. S.A. Norris, J. Samela, L. Bukonte, M. Backman, F. Djurabekova, K. Nordlund, C.S. Madi, M.P. Brenner, and M. J. Aziz. 2011. “Molecular Dynamics of Single-Particle Impacts Predicts Phase Diagrams for Large Scale Pattern Formation”. Nature Communications, 2, 276
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
+1. C.S. Madi, E. Anzenberg, K.F. Ludwig, and M. J. Aziz. 2011. “Mass Redistribution Causes the Structural Richness of Ion-Irradiated Surfaces”. Phys. Rev. Lett., 106, 066101
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
+1. K. Hartman, J.L. Johnson, M.I. Bertoni, D. Recht, M. J. Aziz, M.A. Scarpulla, and T. Buonassisi. 2011. “SnS Thin-Films by RF Sputtering at Room Temperature”. Thin Solid Films, 519, 7421
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=11>
+
 1. Charbel S. Madi, Eitan Anzenberg, Jr. Karl F. Ludwig, and Michael J. Aziz. 2011. “Mass Redistribution Causes the Structural Richness of Ion-Irradiated Surfaces”. Physical Review Letters, 106, 066101
 
     게시 페이지: <https://aziz.seas.harvard.edu/publications?page=13>
@@ -47432,11 +48110,347 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
     게시 페이지: <https://aziz.seas.harvard.edu/publications?page=13>
 
+1. J. M. Warrender and M. J. Aziz. 2007. “Effect of Deposition Rate on Morphology Evolution of Metal-on-Insulator Films Grown by Pulsed Laser Deposition”. Phys. Rev. B, 76, 045414
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. B. Shin and M. J. Aziz. 2007. “Kinetic Energy Induced Smoothening and Delay of Epitaxial Breakdown in Pulsed Laser Deposition”. Phys. Rev. B, 76, 085431
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. B. Davidovitch, M. J. Aziz, and M.P. Brenner. 2007. “On the Stabilization of Ion Sputtered Surfaces”. Phys. Rev. B, 76, 205420
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. M. Tabbal, M. J. Aziz, C.S. Madi, S. Charnvanichborikarn, J. S. Williams, and T.C. Christidis. 2007. “Excimer Laser Processing of Novel Materials for Optoelectronic and Spintronic Applications”. Photon Processing in Microelectronics and Photonics VI, 6458, 645803
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. M. Tabbal, T.J. Kim, J. M. Warrender, M. J. Aziz, B.L. Cardozo, and R.S. Goldman. 2007. “Formation of Single Crystal Sulfur Supersaturated Silicon-Based Junctions by Pulsed Laser Melting”. J. Vac. Sci. Technol. B, 25, 1847
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. K.Z. House, C.H. House, D.P. Schrag, and M. J. Aziz. 2007. “Electrochemical Acceleration of Chemical Weathering As an Energetically Feasible Approach to Mitigating Anthropogenic Climate Change”. Environ. Sci. Tech, 41, 8464
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. M. J. Aziz, Y. Zhao, H.-J. Gossmann, S. Mitha, S. P. Smith, and D. Schiferl. 2006. “Pressure and Stress Effects on B and Sb Diffusion in Si and Si-Ge Alloys”. Phys. Rev. B, 73, 054101
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. K. Otani, X. Chen, J.W. Hutchinson, J.F. Chervinsky, and M. J. Aziz. 2006. “Three Dimensional Morphology Evolution of SiO_2 Patterned Films Under MeV Ion Irradiation”. J. Appl. Phys., 100, 023535
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. T.G. Kim, J. M. Warrender, and M. J. Aziz. 2006. “Strong Sub-Bandgap Infrared Absorption in Silicon Supersaturated With Sulfur”. Appl. Phys. Lett., 88, 241902
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. Y.-R. Kim, P. Chen, M. J. Aziz, D. Branton, and J.J. Vlassak. 2006. “Focused Ion Beam Induced Deflections of Freestanding Thin Films”. J. Appl. Phys., 100, 104322
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. J.F. Sage, W. Barvosa-Carter, and M. J. Aziz. 2006. “Strain-Stabilized Solid Phase Epitaxy of Si-Ge on Si”. J. Appl. Phys., 99, 113529
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. M. J. Aziz. 2006. “Nanoscale Morphology Control Using Ion Beams”. Matematisk-Fysiske Meddelelser Udg. Af Det Kongelige Danske Videnskabernes Selskab, 52, 187
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=15>
+
+1. D. Margetis, M. J. Aziz, and H.A. Stone. 2004. “Continuum Description of Profile Scaling in Nanostructure Decay”. Phys. Rev. B, 69, 041404
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. C. H. Crouch, J. E. Carey, J. M. Warrender, M. J. Aziz, and E. Mazur. 2004. “Comparison of Structure and Properties of Femtosecond and Nanosecond Laser-Structured Silicon”. Appl. Phys. Lett., 84, 1850
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. M. J. Aziz. 2004. “Tests of Theories for Nonplanar Growth During Rapid Alloy Solidification”. Edited by M. Rappaz
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. W. Barvosa-Carter, M. J. Aziz, A.-V. Phan, T. Kaplan, and L.J. Gray. 2004. “Interfacial Roughening During Solid Phase Epitaxy: Interaction of Dopant, Stress, and Anisotropy Effects”. J. Appl. Phys., 96, Pp. 5462-68
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. J. M. Warrender and M. J. Aziz. 2004. “Evolution of Ag Nanocrystal Films Grown by Pulsed Laser Deposition”. Appl. Phys. A, 79, Pp. 713-16
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. A.D. Brown, H. B. George, M. J. Aziz, and J.D. Erlebacher. 2004. “One and Two-Dimensional Pattern Formation on Ion Sputtered Silicon”. Mater. Res. Soc. Symp. Proc., 792, R7.8
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. J.P. Leonard, M. J. Aziz, T.J. Renk, and M.O. Thompson. 2004. “Solute Diffusion in Liquid Nickel Measured by Pulsed Ion Beam Melting”. Metall. Trans. A, 35, Pp. 2803-7
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. M.A. Scarpulla, O.D. Dubon, K.M. Yu, O. Monteiro, M. Pillai, M. J. Aziz, and M.C. Ridgway. 2003. “Ferromagnetic Ga_1-XMn_xAs Films Produced by Ion Implantation and Pulsed Laser Melting”. Appl. Phys. Lett., 82, Pp. 1251-53
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. J.P. Leonard, B. Shin, J.W. McCamy, and M. J. Aziz. 2003. “Comparison of Growth Morphology in Ge (001) Homoepitaxy Using Pulsed Laser Deposition and MBE”. Mater. Res. Soc. Symp. Proc., 749, W16.11
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. J. M. Warrender and M. J. Aziz. 2003. “Morphological Evolution of Ag Mica Films Grown by Pulsed Laser Deposition”. Mater. Res. Soc. Symp. Proc., 749, W.3.1
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. E. Chason and M. J. Aziz. 2003. “Spontaneous Formation of Patterns on Sputtered Surfaces”. Scripta Materialia, 49, 953
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. W. Zhou, A. Cuenat, and M. J. Aziz. 2003. “Formation of Self-Organized Nanostructures on Ge During Focused Ion Beam Sputtering”. Edited by A.G. Cullis and P.A. Midgley
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=17>
+
+1. W. Barvosa-Carter and M. J. Aziz. 2001. “Time-Resolved Measurements of Stress Effects on Solid-Phase Epitaxy of Intrinsic and Doped Si”. Appl. Phys. Lett., 79, Pp. 356-58
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. Huang, M. J. Aziz, J.W. Hutchinson, A. G. Evans, R. Saha, and W.D. Nix. 2001. “Comparison of Mechanical Properties of Ni_3Al Thin Films in Disordered FCC and Ordered L1_2 Phases”. Acta Materialia, 49, Pp. 2853-61
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. C.B. Arnold and M. J. Aziz. 2001. “Model for Dopant and Impurity Segregation During Vapor Phase Growth”. Mater. Res. Soc. Symp. Proc., 648, Pp. P3.11.1-P3.11.7
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. A.-V. Phan, T. Kaplan, L.J. Gray, D. Adalsteinsson, J.A. Sethian, W. Barvosa-Carter, and M. J. Aziz. 2001. “Modeling a Growth Instability in a Stressed Solid”. Modelling and Simulation in Materials Science and Engineering, 9, Pp. 309-25
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. J. Li, D. Stein, C. McMullan, D. Branton, M. J. Aziz, and J.A. Golovchenko. 2001. “Ion-Beam Sculpting at Nanometre Length Scales”. Nature, 412, Pp. 166-77
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. P.G. Evans, O.D. Dubon, J.F. Chervinsky, M. J. Aziz, F. Spaepen, and J.A. Golovchenko. 2001. “Influence of Surface Termination on the Growth and Evaporation of Pb Layers on As-Terminated Si(111)”. In
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. J.D. Erlebacher, M. J. Aziz, E. Chason, M.B. Sinclair, and J.A. Floro. 2000. “Nonlinear Amplitude Evolution During Spontaneous Patterning of Ion-Bombarded Si(001)”. J. Vac. Sci. Technol. A, 18, Pp. 115-20
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. N. Bernstein, M. J. Aziz, and E. Kaxiras. 2000. “Atomistic Simulations of Solid Phase Epitaxy in Silicon”. Phys. Rev. B, 61, Pp. 6696-6700
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. J.D. Erlebacher, M. J. Aziz, E. Chason, M.B. Sinclair, and J.A. Floro. 2000. “Nonclassical Smoothening of Nano-Scale Surface Corrugations”. Phys. Rev. Lett., 84, Pp. 5800-5803
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. J.F. Sage, W. Barvosa-Carter, and M. J. Aziz. 2000. “Morphological Instability of Growth Fronts Due to Stress-Induced Mobility Variations”. Appl. Phys. Lett., 77, Pp. 516-18
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. J.A. Kittl, P.G. Sanders, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 2000. “Complete Experimental Test for Kinetic Models of Rapid Alloy Solidification”. Acta Materialia, 48, Pp. 4797-4811
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. P.G. Sanders and M. J. Aziz. 2000. “Terrestrial Measurements of Diffusivities in Refractory Melts by Pulsed Melting of Thin Films”
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=19>
+
+1. Y. Zhao, W. Barvosa-Carter, S.D. Theiss, S. Mitha, M. J. Aziz, and D. Schiferl. 1998. “Pressure Measurement at High Temperature Using Ten Sm: YAG Fluorescence Peaks”. J. Appl. Phys., 84, Pp. 4049-59
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. D.E. Hoglund, M.O. Thompson, and M. J. Aziz. 1998. “Experimental Test of Morphological Stability Theory for a Planar Interface During Rapid Solidification”. Phys. Rev. B, 58, Pp. 189-99
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. M. J. Aziz. 1998. “Pressure and Stress Effects on Diffusion in Si”. Defect and Diffusion Forum, 153-155, Pp. 1-10
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. N. Bernstein, M. J. Aziz, and E. Kaxiras. 1998. “The Amorphous-Crystal Interface in Silicon: A Tight-Binding Simulation”. Phys. Rev. B, 58, Pp. 4579-83
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. N. Bernstein, M. J. Aziz, and E. Kaxiras. 1998. “Atomistic Features of the Amorphous-Crystal Interface in Silicon”. Journal of Computer Aided Materials Design, 5, Pp. 55-60
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. W. Barvosa-Carter, M. J. Aziz, L.J. Gray, and T. Kaplan. 1998. “Kinetically Driven Growth Instability in Stressed Solids”. Phys. Rev. Lett., 81, Pp. 1445-48
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. M. J. Aziz. 1998. “Introduction to ’The Molecular Mechanism of Solidification’, by J.W. Cahn, W.B. Hillig and G.W. Sears”. In The Selected Works of John W. Cahn, Eds. W.C. Johnson and W.C. Carter, Pp. 207-9. Warrendale, PA: TMS-AIME
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. M. J. Aziz and F. Spaepen. 1998. “Test of Dendrite Growth Theory and Nucleation of Polytetrahedral Phases from the Melt”
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. J.D. Erlebacher and M. J. Aziz. 1997. “Morphological Equilibration of Rippled and Dimpled Crystal Surfaces: The Role of Terrace-Width Fluctuations”. Surf. Sci., 374, Pp. 427-42
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. M. J. Aziz. 1997. “Experimental Constraints on Nonequilibrium Interface Kinetic Models”. Mater. Sci. Eng. A, 226-228, Pp. 255-60
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. S. Mitha, M. J. Aziz, D. Schiferl, and D.B. Poker. 1997. “Effect of Pressure on As Diffusion in Ge: Evidence Against Simple Vacancy Mechanism”. Defect and Diffusion Forum, 143-147, Pp. 1041-46
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. M. Schwarz, C.B. Arnold, M. J. Aziz, and D.M. Herlach. 1997. “Dendritic Growth Velocity and Diffusive Speed in Solidification of Undercooled Dilute Ni-Zr Melts”. Mater. Sci. Eng. A, 226-228, Pp. 420-24
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=21>
+
+1. C.W. White, J.D. Budai, J.G. Zhu, S.P. Withrow, and M. J. Aziz. 1996. “Ion Beam Synthesis and Stability of GaAs Nanoclusters in Silicon”. Appl. Phys. Lett., 68, Pp. 2389-91
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. S. Mitha, M. J. Aziz, D. Schiferl, and D.B. Poker. 1996. “Activation Volume for Arsenic Diffusion in Germanium”. Appl. Phys. Lett., 69, Pp. 922-24
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. A.J. Stevens, T. Koga, C.B. Agee, M. J. Aziz, and C. M. Lieber. 1996. “Stability of Carbon Nitride Materials at High Pressure and Temperature”. J. Amer. Chem. Soc., 118, Pp. 10900-901
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. J.A. Kittl, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 1995. “Nonequilibrium Partitioning During Rapid Solidification of Si-As Alloys”. J. Cryst. Growth, 148, Pp. 172-82
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. D.P. Brunco, M.O. Thompson, D.E. Hoglund, and M. J. Aziz. 1995. “Germanium Partitioning and Interface Stability During Rapid Solidification of GeSi Alloys”. Mater. Res. Soc. Symp. Proc., 354, Pp. 653-58
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. D.P. Brunco, M.O. Thompson, D.E. Hoglund, M. J. Aziz, and H.-J. Gossman. 1995. “Germanium Partitioning in Silicon During Rapid Solidification”. J. Appl. Phys., 78, Pp. 1575-82
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. W.B. Carter and M. J. Aziz. 1995. “Nonhydrostatic Stress Effects on Solid Phase Epitaxial Growth in Silicon”. Mater. Res. Soc. Proc., 356, Pp. 87-92
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. S.D. Theiss, F. Spaepen, and M. J. Aziz. 1995. “Pressure-Enhanced Interdiffusion in Amorphous Si Ge Multilayers: Implications for Defect-Mediated Diffusion”. Mater. Res. Soc. Symp. Proc., 356, Pp. 15-20
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. J.W. Elmer, M. J. Aziz, L.E. Tanner, P. M. Smith, and M.A. Wall. 1994. “Formation of Bands of Ultrafine Beryllium Particles During Rapid Solidification of Al-Be Alloys: Modeling and Direct Observations”. Acta Metall. Mater., 42, Pp. 1065-80
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. K. Eckler, D.M. Herlach, and M. J. Aziz. 1994. “Search for a Solute-Drag Effect in Dendritic Solidification”. Acta Metall. Mater., 42, Pp. 975-79
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. M. J. Aziz and W.J. Boettinger. 1994. “On the Transition from Short-Range Diffusion-Limited to Collision-Limited Growth in Alloy Solidification”. Acta Metall. Mater., 42, Pp. 527-37
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. J.A. Kittl, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 1994. “Absence of Solute Drag in Solidification”. Appl. Phys. Lett., 64, Pp. 2359-61
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=23>
+
+1. D.P. Brunco, J.A. Kittl, C.E. Otis, P.M. Goodwin, M.O. Thompson, and M. J. Aziz. 1993. “Time-Resolved Temperature Measurements During Pulsed Laser Irradiation Using Thin Film Metal Thermistors”. Rev. Sci. Instrum., 64, Pp. 2615-23
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. M. J. Aziz and D. Turnbull. 1992. “Crystal Growth: Growth Processes”. In Encyclopedia of Science and Technology, Pp. 588-89. New York: McGraw-Hill
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. G. Devaud, C. Hayzelden, M. J. Aziz, and D. Turnbull. 1992. “Growth of Quartz from Amorphous Silica at Ambient Pressure”. J. Non-Cryst. Solids, 134, Pp. 129-32
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. G.-Q. Lu, E. Nygren, and M. J. Aziz. 1992. “Pressure-Enhanced Solid Phase Epitaxy: Implications for Point Defect Mechanisms”. Mater. Res. Soc. Symp. Proc., 205, Pp. 33-38
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. D.E. Hoglund and M. J. Aziz. 1992. “Interface Stability During Rapid Directional Solidification”. Mater. Res. Soc. Symp. Proc., 205, Pp. 325-29
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. K.R. Lee, J.A. West, P. M. Smith, M. J. Aziz, and J.A. Knapp. 1992. “Measurements of T_o Temperatures of Supersaturated Si-As Alloys”. Mater. Res. Soc. Symp. Proc., 205, Pp. 301-6
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. P. M. Smith, J.A. West, and M. J. Aziz. 1992. “Solute Trapping of Ge in Al”. Mater. Res. Soc. Symp. Proc., 205, Pp. 331-36
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. M. J. Aziz. 1992. “The Mechanism of Solid Phase Epitaxy”
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. J.A. West and M. J. Aziz. 1992. “Kinetic Disordering of Intermetallic Compounds through First- and Second-Order Transitions by Rapid Solidification”. In Ordering and Disordering in Alloys, Pp. 23-30. London: Elsevier
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. J.A. West and M. J. Aziz. 1992. “Kinetic Disordering of Intermetallic Compounds by Rapid Solidification”
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. E. Chason and M. J. Aziz. 1991. “Effect of Pressure on Crystallization Kinetics of Cordierite Glass”. J. Non-Cryst. Solids, 130, Pp. 204-10
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. W.J. Boettinger, L.A. Bendersky, J.A. West, M. J. Aziz, and J. Cline. 1991. “Disorder Trapping in Ni_2TiAl”. Mater. Sci. Eng. A, 133, Pp. 592-95
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=25>
+
+1. T. Kaplan, M. J. Aziz, and L.J. Gray. 1988. “Application of Onsager’s Reciprocity Relations to Alloy Solidification”. Mater. Res. Soc. Symp. Proc., 100, Pp. 603-8
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
+1. C.W. White, L.A. Boatner, P.S. Sklad, C.J. McHargue, J. Rankin, G.C. Farlow, and M. J. Aziz. 1988. “Ion Implantation and Annealing of Crystalline Oxides and Ceramic Materials”. Nucl. Instr. Meth. B, 32, 11-22
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
+1. M. J. Aziz. 1988. “Nonequilibrium Interface Kinetics During Rapid Solidification: Theory and Experiment”. Mater. Sci. Eng., 98, Pp. 369-72
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
+1. J.Y. Tsao, M. J. Aziz, P.S. Peercy, and M.O. Thompson. 1988. “Interface Velocity Transients During the Melting of A-Si C-Si Thin Films”. Mater. Res. Soc. Symp. Proc., 100, Pp. 519-24
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
+1. G.-Q. Lu, E. Nygren, M. J. Aziz, D. Turnbull, and C.W. White. 1988. “Time-Resolved Reflectivity Measurement of the Pressure-Enhanced Crystallization Rate of Amorphous Si in a Diamond Anvil Cell”. Mater. Res. Soc. Symp. Proc., 100, Pp. 435-40
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
+1. C.W. White, L.A. Boatner, J. Rankin, and M. J. Aziz. 1987. “Ion Implantation and Annealing of SrTiO_3 and CaTiO_3”. Mater. Res. Soc. Symp. Proc., 93, Pp. 9-14
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
+1. M. J. Aziz, J.Y. Tsao, M.O. Thompson, P.S. Peercy, and C.W. White. 1987. “Velocity and Orientation Dependence of Solute Trapping”. Mater. Res. Soc. Symp. Proc., 57, Pp. 487-97
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
+1. M. J. Aziz. 1987. “Interface Response Functions for Rapid Alloy Solidification: Theory and Experiment”. In Undercooled Alloy Phases. Warrendale, PA: The Metallurgical Society of the AIME
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
+1. L.M. Goldman and M. J. Aziz. 1987. “Aperiodic Stepwise Growth Model for the Velocity and Orientation Dependence of Solute Trapping”. J. Mater. Res., 2, Pp. 524-27
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
+1. M. J. Aziz. 1987. “Nonequilibrium Interface Kinetics During Rapid Solidification”. Mater. Res. Soc. Symp. Proc., 74 and 80, Pp. 31-44 and 25
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
+1. J.Y. Tsao, M. J. Aziz, P.S. Peercy, and M.O. Thompson. 1987. “Transition-State Model for Entropy-Limited Freezing”. Mater. Res. Soc. Symp. Proc., 74, Pp. 117-22
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
+1. C.W. White, L.A. Boatner, P.S. Sklad, C.J. McHargue, S.J. Pennycook, M. J. Aziz, G.C. Farlow, and J. Rankin. 1987. “Ion Implantation and Annealing of Oxides”. Mater. Res. Soc. Symp. Proc., 74, Pp. 357-64
+
+    게시 페이지: <https://aziz.seas.harvard.edu/publications?page=27>
+
 ## Harvard University — Martin Bechthold
 
  · 논문·원고 126건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -47998,7 +49012,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 135건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 13개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -48572,7 +49586,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 260건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -49622,7 +50636,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 105건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -50052,7 +51066,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 67건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -50330,7 +51344,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 146건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 15개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -50952,7 +51966,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -50964,7 +51978,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 285건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -52114,7 +53128,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 107건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 11개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -52572,7 +53586,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 323건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -54284,7 +55298,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 30건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -54414,7 +55428,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 92건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -54792,7 +55806,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 166건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 15개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -55494,7 +56508,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -55508,7 +56522,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 253건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -57423,7 +58437,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 373건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -58925,7 +59939,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 199건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 19개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -59765,31 +60779,899 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
 ## Harvard University — Conor Walsh
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 209건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
-
-출처: <https://biodesign.seas.harvard.edu/>
-
-출처: <https://seas.harvard.edu/person/conor-walsh>
+수집 범위: 공식 연구실 논문 페이지 20개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://biodesign.seas.harvard.edu/selectedpublications>
 
 출처: <https://biodesign.seas.harvard.edu/publications>
 
-출처: <https://wiki.harvard.edu/confluence/display/seasbiodesign/Biodesign+Lab+Home>
+출처: <https://biodesign.seas.harvard.edu/publications?page=0>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=8>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=10>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=16>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=13>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=15>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=17>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+출처: <https://biodesign.seas.harvard.edu/publications?page=25>
+
+1. “Ultra-sensitive and resilient compliant strain gauges for soft machines”, Nature, vol. 587, pp. 219–224, 2020.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Reducing the metabolic rate of walking and running with a versatile, portable exosuit”, Science, vol. 365, no. 6454, pp. 668–672, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Human-in-the-loop optimization of hip assistance with a soft exosuit during walking”, Science Robotics, vol. 3, no. 15, p. eaar5438, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Human-in-the-loop Bayesian optimization of wearable device parameters”, PLOS ONE, vol. 12, no. 9, pp. 1–15, 2017, doi: 10.1371/journal.pone.0184054.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Reducing the metabolic cost of running with a tethered soft exosuit”, Science Robotics, vol. 2, no. 6, p. eaan6708, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Soft robotic sleeve supports heart function”, Science Translational Medicine, vol. 9, no. 373, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Assistance magnitude versus metabolic cost reductions for a tethered multiarticular soft exosuit”, Science Robotics, vol. 2, no. 2, p. eaah4416, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Batch Fabrication of Customizable Silicone-Textile Composite Capacitive Strain Sensors for Human Motion Tracking”, Advanced Materials Technologies, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “A soft robotic exosuit improves walking in patients after stroke”, Science Translational Medicine, vol. 9, no. 400, p. eaai9084, 2017, doi: 10.1126/scitranslmed.aai9084.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Soft robotic ventricular assist device with septal bracing for therapy of heart failure”, Science Robotics, vol. 2, no. 12, 2017, doi: 10.1126/scirobotics.aan6736.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “The Soft Robotics Toolkit: Strategies for Overcoming Obstacles to the Wide Dissemination of Soft-Robotic Hardware”, IEEE Robotics and Automation Magazine, Special Issue on Open Source and Widely Disseminated Robot Hardware, vol. 24, no. 1, pp. 57–64, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Soft Robotic Shoulder Support: Design, Characterization, and Preliminary Testing”, in 15th IEEE International Conference on Rehabilitation Robotics (ICORR), London, July 17-20, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “A biologically-inspired multi-joint soft exosuit that can reduce the energy cost of loaded walking”, Journal of NeuroEngineering and Rehabilitation, vol. 13, no. 1, pp. 1–14, 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Biologic-free mechanically induced muscle regeneration”, Proceedings of the National Academy of Sciences (PNAS), vol. 113, no. 6, pp. 1534–1539, 2016, doi: 10.1073/pnas.1517517113.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Soft Robotic Glove for Combined Assistance and at-Home Rehabilitation”, Robotics and Autonomous Systems (RAS) Special Issue on Wearable Robotics, vol. 73, pp. 135–143, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “A Light-Reflecting Balloon Catheter for Atraumatic Tissue Defect Repair”, Science Translational Medicine, vol. 7, no. 306, p. 306ra149, 2015, doi: 10.1126/scitranslmed.aaa2406.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/selectedpublications>
+
+1. “Minimal-calibration multimodal wearable sensing for long-duration three-dimensional shoulder kinematics”, Nature Sensors, 2026.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. “Hybrid soft–inertial sensing enables stable long-duration shoulder monitoring”, Nature Sensors, 2026.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. “Three-Dimensional Evaluation of Abnormal Upper Extremity Joint Coupling Post-Stroke”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2026.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. “Balancing Biomechanics and Preference in Assistive Device Tuning via Metric-Regularized Optimization”, IEEE Transactions on Biomedical Engineering, 2026.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. “Optimization of an Axial Flux Motor-Cycloid Gear Actuator for Sizing Wearable Robots”, 2026.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. “Enabling Functional Independence: A Scoping Review of Upper Extremity Assistive Devices for Adults With Progressive Neuromuscular Diseases”, 2026.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. L. M. Baker et al., “Estimating braking and propulsion forces during overground running in and out of the lab”, PLOS One, 2025.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. “Fostering Future Innovators: A Pedagogical Approach to Introduce Engineering Design and Robotics in Middle School Science Education”, Science Scope, vol. 48, no. 5, pp. 51–57, 2025.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. “Assistive Technology in ALS: A Scoping Review of Devices for Limb, Trunk, and Neck Weakness”, American Journal of Physical Medicine & Rehabilitation, vol. 104, no. 8, pp. 115–124, 2025.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. “Personalized ML-based wearable robot control improves impaired arm function”, Nature Communications, vol. 16, no. 7091, 2025.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. “On-body textile hysteresis estimation for personalized physical human-robot interaction”, The International Journal of Robotics Research, 2025.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. “Programmable Surface Dimpling of Textile Metamaterials for Aerodynamic Control”, Advanced Materials, vol. 37, no. 40, 2025.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications>
+
+1. “Predicting overstriding with wearable IMUs during treadmill and overground running”, Nature Scientific Reports, vol. 14, no. 6347, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. “Empowering Students in Medical Device Design: An Interdisciplinary Soft Robotics Course”, Biomedical Engineering Education, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. “Surface-Level Muscle Deformation as a Correlate for Joint Torque”, Advanced Materials Technologies, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. “Implementation of a unilateral hip flexion exosuit to aid paretic limb advancementduring inpatient gait retraining for individualspost-stroke: a feasibility study”, Journal of NeuroEngineering and Rehabilitation, vol. 21, no. 121, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. “Estimation of joint torque in dynamic activities using wearable A-mode ultrasound”, Nature Communications, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. “A portable inflatable soft wearable robot to assist theshoulder during industrial work”, Science Robotics, vol. 9, no. 91, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. “A Propulsion Neuroprosthesis Improves Overground Walking in Community-Dwelling Individuals After Stroke”, IEEE Open Journal of Engineering in Medicine and Biology, vol. 5, pp. 563–572, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. “Musculoskeletal models determine the effect of a soft active exosuit on muscle activations and forces during lifting and lowering tasks”, Journal of Biomechanics, vol. 176, no. 112322, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. P. Arens, D. A. Quirk, and C. J. Walsh, “Deep-Learning Based Lumbar Moment Estimation during Exosuit Augmented Lifting with Variable Loading Condition”, BioRob, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. K. Swaminathan et al., “Propulsion Modulation Methods in People Post-Stroke during Resistive Ankle Exosuit Use”, BioRob, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. L. Gionfrida, D. Kim, Y. Jin, C. J. Walsh, and R. D. Howe, “Muscle Architecture Parameters Inferred from Simulated Single-Element Ultrasound Traces”, BioRob, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. “Design and Systematic Evaluation of Power Transmission Efficiency of an Ankle Exoskeleton for Walking Post-Stroke”, IEEE International Conference on Robotics and Automation (ICRA), 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=2>
+
+1. “The SDM Finger: Teaching engineering design through soft robotics”, Science Scope, vol. 43, no. 4, pp. 14–21, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=8>
+
+1. D. G. Schmitz, R. W. Nuckols, S. Lee, B. T. Quinlivan, C. J. Walsh, and D. G. Thelen, “Investigating Changes in Achilles Tendon Load During Walking with Exosuit Assistance.”, he 27th Congress of the International Society of Biomechanics (ISB). 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=8>
+
+1. “Bayesian Optimization of Soft Exosuits Using a Metabolic Estimator Stopping Process.”, in The 36th IEEE International Conference on Robotics and Automation (ICRA), 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=8>
+
+1. “Assisting hand function after spinal cord injury with a fabric-based soft robotic glove”, Journal of NeuroEngineering and Rehabilitation, vol. 15, no. 1, p. 59, 2018, doi: 10.1186/s12984-018-0391-x.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=8>
+
+1. “Towards Alternative Approaches for Coupling of a Soft Robotic Sleeve to the Heart”, Annals of Biomedical Engineering, 2018, doi: 10.1007/s10439-018-2046-2.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=8>
+
+1. “Wearable Robotics for Motion Assistance and Rehabilitation [TC Spotlight]”, IEEE Robotics Automation Magazine, vol. 25, no. 1, pp. 19–28, 2018, doi: 10.1109/MRA.2017.2787222.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=8>
+
+1. “Distal Proprioceptive Sensor for Motion Feedback in Endoscope-Based Modular Robotic Systems”, IEEE Robotics and Automation Letters, vol. 3, no. 1, pp. 171–178, 2018, doi: 10.1109/LRA.2017.2737042.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=8>
+
+1. “Biomechanical mechanisms underlying exosuit-induced improvements in walking economy after stroke”, Journal of Experimental Biology, 2018, doi: 10.1242/jeb.168815.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=8>
+
+1. “A lightweight and efficient portable soft exosuit for paretic ankle assistance in walking after stroke”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=8>
+
+1. “Force Control of Textile-Based Soft Wearable Robots for Mechanotherapy”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=8>
+
+1. “IUSE: A Web-Based Tool for Engineering Design Pedagogy Research”, in 2018 ASEE Annual Conference and Exposition, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=10>
+
+1. “An Evaluation of an Engineering Design Class using Mixed Methods Techniques”, in 2018 ASEE Annual Conference and Exposition, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=10>
+
+1. “Interaction Forces of Soft Fiber Reinforced Bending Actuators”, IEEE/ASME Transactions on Mechatronics, vol. 22, no. 2, pp. 717–727, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=10>
+
+1. “Continuous sweep versus discrete step protocols for studying effects of wearable robot assistance magnitude”, Journal of NeuroEngineering and Rehabilitation, vol. 14, no. 1, p. 72, 2017, doi: 10.1186/s12984-017-0278-2.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=10>
+
+1. “Varying negative work assistance at the ankle with a soft exosuit during loaded walking”, Journal of NeuroEngineering and Rehabilitation, vol. 14, no. 1, p. 62, 2017, doi: 10.1186/s12984-017-0267-5.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=10>
+
+1. “Biomechanical and Physiological Evaluation of Multi-joint Assistance with Soft Exosuits”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 25, no. 2, pp. 119–130, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=10>
+
+1. “Automatic design of fiber-reinforced soft actuators for trajectory matching”, Proceedings of the National Academy of Sciences (PNAS), vol. 114, no. 1, pp. 51–56, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=10>
+
+1. “Toward Medical Devices With Integrated Mechanisms, Sensors, and Actuators Via Printed-Circuit MEMS”, ASME Journal of Medical Devices, vol. 11, no. 1, pp. 011007–011018, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=10>
+
+1. “Self-Assembling, Low-Cost, and Modular mm-Scale Force Sensor”, IEEE Sensors Journal, vol. 16, no. 1, pp. 69–76. [Cover Article], 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=16>
+
+1. “The 2015 Soft Robotics Competition”, IEEE Robotics & Automation Magazine, vol. 23, no. 3, pp. 25–27, 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=16>
+
+1. “A Quasi-Passive Knee Exoskeleton to Assist During Descent”, International Symposium on Wearable Robotics (WeRob) 2016. La Granja, Spain, 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=16>
+
+1. “Using Analytical Modeling to Design Customized Fiber-Reinforced Soft Actuators”, Society of Engineering Science 53rd Annual Technical Meeting. University of Maryland, MD, USA, 2-5 October, 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=16>
+
+1. Y. Ding, F. A. Panizzolo, I. Galiana, C. Siviy, K. G. Holt, and C. J. Walsh, “Effect of Timing of Hip Extension Assistance with IMU-based Iterative Control during Loaded Walking with a Soft Exosuit”, Dynamic Walking. Holly, Michigan, USA, 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=16>
+
+1. “Variability Analysis of Walking with Continuously Increasing Assistance from a Soft Exosuit.”, The 1st Human Movement Variability Conference. 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=16>
+
+1. “Soft Exosuit for Hip Assistance”, Robotics and Autonomous Systems (RAS) Special Issue on Wearable Robotics, vol. 73, pp. 102–110, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=16>
+
+1. “Soft Pressure Sensing Sleeve For Direct Cardiac Compression Device”, in Proceedings of the ASME 2015 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, USA, August 2-5, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=16>
+
+1. “Design And Fabrication Of A Soft Robotic Direct Cardiac Compression Device”, in Proceedings of the ASME 2015 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=16>
+
+1. “Force Transfer Characterization of a Soft Exosuit for Gait Assistance”, in ASME 2015 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, USA, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=16>
+
+1. “A Soft, Wearable, Quantitative Ankle Diagnostic Device”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. “Smart and Connected Actuated Mobile and Sensing Suit to Encourage Motion in Developmentally Delayed Infants”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. “A Soft Robotic Orthosis for Wrist Rehabilitation”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. “Mechanical Programming of Soft Actuators by Varying Fiber Angle”, Soft Robotics, vol. 2, no. 1, pp. 26–32, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. “Soft Wearable Orthotic Device for Assisting Kicking Motion in Developmentally Delayed Infants”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. S. De Rossi et al., “Gait improvements in stroke patients with a soft exosuit”, Gait and Clinical Movement Analysis Society (GCMAS) Meeting. Portland, OR, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. W. Whyte et al., “A Replenishable Cell Delivery System for the Heart”, 4th TERMIS World Congress. Boston, MA, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. “Modelling Geometrically Constrained Fluidic Soft Actuators”, 9th European Solid Mechanics Conference. Madrid, Spain, 6-10 July, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. C. J. Walsh, “Mobility Enhancing Soft Exosuits”, Dynamic Walking. Columbus, OH, USA, July 21-24, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. “The Soft Robotics Toolkit: Shared Resources for Research and Design”, Soft Robotics, vol. 1, no. 3, pp. 224–230, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. “Multi-joint Actuation Platform for Lower Extremity Soft Exosuits”, in 2014 IEEE International Conference on Robotics and Automation (ICRA), Hong Kong, China, 2014, pp. 1327–1334.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. “Biologically Inspired Soft Robot for Thumb Rehabilitation”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=18>
+
+1. “A Monolithic Approach to Fabricating Low-Cost, Millimeter-Scale Multi-Axis Force Sensors for Minimally-Invasive Surgery”, in Inter. Conf. on Robotics and Automation (ICRA), Hong Kong, China, 2014, pp. 1419–1425.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “Optimal Spatial Design of Non-Invasive Magnetic Field-based Localization Systems”, in Inter. Conf. on Robotics and Automation (ICRA), Hong Kong, China, 2014, pp. 3510–3516.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “Cervical Spine Immobilization Device for Emergency Response”, ASME Design of Medical Devices Conference . Minneapolis, MN, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “Shape Deposition Manufacturing of a Soft, Atraumatic, Deployable Surgical Grasper”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “Monolithic Fabrication of Millimeter-Scale Surgical Tools with Integrated Sensing”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “An Intraventricular Soft Robotic Pulsatile Assist Device For Right Ventricular Heart Failure”, ASME Design of Medical Devices Conference . Minneapolis, MN, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “Shared Online Resources to Support On-Demand Design and Fabrication of Soft Robotic Devices”, RobotMakers: The future of digital rapid design and fabrication of robots (RoMa), in conjunction with the 2014 Robotics: Science and Systems Conference. Berkeley, CA, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “Shared Design Tools to Support Research and Development in Soft Robotics”, Advances in Soft Robotics Workshop, in conjunction with the 2014 Robotics: Science and Systems Conference. Berkeley, CA, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “A New Laparoscopic Morcellator Using an Actuated Wire Mesh and Bag”, ASME Journal of Medical Devices, vol. 8, no. 1, p. 011009, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “Soft Elastomeric Actuators with Fiber Reinforcement”, Materials and Research Society (MRS) Fall Meeting & Exhibit. Boston, MA, 2013.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “Towards a Soft Pneumatic Glove for Hand Rehabilitation”, in 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Tokyo, Japan, 2013.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “Force-Sensing Surgical Grasper Enabled by Pop-Up Book MEMS”, in 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Tokyo, Japan, 2013, pp. 2552–2558.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=20>
+
+1. “Smaller and Deeper Lesions Increase the Number of Acquired Scan Series in CT-guided Lung Biopsy”, Journal of Thoracic Imaging, vol. 26, no. 3, pp. 196–203, 2011.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “Characterization of Pre-curved Needles for use in Distal Tip Manipulation Mechanisms”, Proceedings of the 2010 Design of Medical Devices Conference. Minneapolis, MN, USA, 2010.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “Feedback Control of a Patient-Mounted Telerobot using Electromagnetic Tracking of Needle Angle”, Computer Assisted Radiology and Surgery (CARS), vol. 5, no. Suppl. 1. Geneva, Switzerland, June 23-26, pp. S146-S147, 2010.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “Transmission Ratio Based Analysis and Robust Design of Mechanisms”, Precision Engineering, vol. 34, no. 4, pp. 790–797, 2010.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “Women with Anorexia Nervosa: Finite Element and Trabecular Structure Analysis by Using Flat-Panel Volume CT”, Radiology, vol. 257, no. 1, pp. 167–174, 2010.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “Human vs. Robot Operator Error in a Needle-Based Navigation System for Percutaneous Liver Interventions”, in Proc. SPIE, Lake Buena Vista, FL, 2009, p. 72610Y-72610Y-12.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “Development and Evaluation of a New Image-Based User Interface for Robot-Assisted Needle Placements with the Robopsy System”, in Proc. SPIE, Lake Buena Vista, FL, 2009, p. 72610X-72610X-9.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “Dynamic CT Scanner Environment Effects on a DC Electromagnetic Tracking System”, International Journal of Computer Assisted Radiology & Surgery, vol. 4, no. Suppl 1. pp. S339-S340, 2009.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “Engineering, Science and Medicine: Transforming Healthcare”, Royal College of Surgeons in Ireland Student Medical Journal, vol. 1, no. 1, pp. 56–59, 2008.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “A Patient-Mounted, Telerobotic Tool for CT-Guided Percutaneous Interventions”, ASME Journal of Medical Devices, vol. 2, no. 1, 2008.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “Imaging of the Calf Vocal Fold with High Frequency Ultrasound”, The Laryngoscope, vol. 118, no. Oct., pp. 1894–1899, 2008.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “Intra-operative Laryngoscopic Instrument for Characterizing Vocal Fold Visco-elasticity”, Proceedings of the 2nd Frontiers in Biomedical Devices Conference. Irvine, California, 2007.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=24>
+
+1. “Active back exosuits demonstrate positive usability perceptions that drive intention-to-use in the field among logistic warehouse workers”, Applied Ergonomics, vol. 122, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. “Stimulation-Induced Muscle Deformation Measured with A-Mode Ultrasound Correlates with Muscle Fatigue”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. “Preliminary Evaluation of a Soft Wearable Robot for Shoulder Movement Assistance”, IEEE Transactions on Medical Robotics and Bionics, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. “Looking Ahead: Implementing a Robotics Research Lab at a Community College to Support Undergraduate Research”, Advances in Engineering Education, vol. 12, no. 4, 2024.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. “Restoring arm function with a soft robotic wearable for individuals with amyotrophic lateral sclerosis”, Science Translational Medicine, vol. 15, no. 681, 2023.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. “Age-Related Reliability of B-Mode Analysis for Tailored Exosuit Assistance”, Sensors, vol. 23, no. 3, 2023.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. D. A. Quirk et al., “Reducing back exertion and improving confidence of individuals with low back pain with a back exosuit: A feasibility study for use in BACPAC”, Pain Medicine, 2023.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. “In-Situ Measurement of Multi-Axis Torques Applied by Wearable Soft Robots for Shoulder Assistance”, IEEE Transactions on Medical Robotics and Bionics, vol. 5, no. 2, pp. 363–374, 2023.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. “Design and evaluation of an independent 4-week, exosuit-assisted, post-stroke community walking program”, Annals of the New York Academy of Sciences, 2023.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. “Anti-inflammatory therapy enables robot-actuated regeneration of aged muscle ”, Science Robotics, vol. 8, no. 76, 2023.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. “Ankle-targeted exosuit resistance increases paretic propulsion in people post-stroke”, Journal of NeuroEngineering and Rehabilitation, vol. 20, no. 85, 2023.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. D. A. Quirk et al., “Evaluating adaptiveness of an active back exosuit for dynamic lifting and maximum range of motion”, Ergonomics, 2023.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=3>
+
+1. “Indirect measurement of anterior-posterior ground reaction forces using a minimal set of wearable inertial sensors: from healthy to hemiparetic walking”, Journal of NeuroEngineering and Rehailitation, vol. 17, no. 82, 2020.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. “A Soft Inflatable Wearable Robot for Hip Abductor Assistance: Design and Preliminary Assessment”, BioRob, 2020.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. “Mobility related physical and functional losses due to aging and disease - a motivation for lower limb exoskeletons”, Journal of NeuroEngineering and Rehabilitation, vol. 16, no. 1, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. “Comparison of the human-exosuit interaction using ankle moment and ankle positive power inspired walking assistance”, Journal of Biomechanics, vol. 83, no. 23, pp. 76–84, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. “Sew-free anisotropic textile composites for rapid design and manufacturing of soft wearable robots”, Extreme Mechanics Letters, vol. 27, pp. 52–58, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. “Variable Contraction Timing for a Soft Robotic Cardiac Assist Device”, in Hamlyn Symposium on Medical Robotics, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. “Simulating Hemiparetic Gait in Healthy Subjects using TPAD with a Closed-loop Controller”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 27, no. 5, pp. 974–983, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. “Robotic Artificial Muscles: Current Progress and Future Perspectives”, IEEE Transaction on Robitics, pp. 1–21, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. D. Preston et al., “A soft ring oscillator”, Science Robotics, vol. 4, no. 31, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. F. Panizzolo et al., “Metabolic cost adaptations during training with a soft exosuit assisting the hip joint”, Scientific Reports, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. “Soft Robotic Glove with Integrated Sensing for Intuitive Grasping Assistance Post Spinal Cord Injury”, in IEEE Internaional Conference on Robotics and Automation (ICRA), Montreal, Canada, May 20-24, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. “Gait Initiation of New Walkers and the Adult’s Role in Regulating Directionality of the Child’s Body Motion”, Journal of Motor Learning and Development, vol. 7, no. 1, pp. 35–48, 2019.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=7>
+
+1. “A Soft Pneumatic Fabric-Polymer Actuator for Wearable Biomedical Devices: Proof of Concept for Lymphedema Treatment”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “Autonomous and portable soft exosuit for hip extension assistance with online walking and running detection algorithm”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “Autonomous Multi-Joint Soft Exosuit for Assistance with Walking Overground”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “Compliant low profile textile-integrated multi-axis force sensors”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “Growing the Soft Robotics Community Through Knowledge-Sharing Initiatives”, Soft Robotics, vol. 5, no. 2, pp. 119–121, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “A qualitative investigation of design knowledge reuse in project-based mechanical design courses”, European Journal of Engineering Education, pp. 1–16, 2018, doi: 10.1080/03043797.2018.1463196.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “Human-in-the-loop development of soft wearable robots”, Nature Review Materials, vol. 3, pp. 78–80, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “Sustained release of targeted cardiac therapy with a replenishable implantable epicardial reservoir”, Nature Biomedical Engineering, vol. 2, pp. 416–428, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “Exploiting Textile Mechanical Anisotropy for Fabric-Based Pneumatic Actuators”, Soft Robotics, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “Wearable movement sensors for rehabilitation: A focused review of technological and clinical advances”, PM&R, vol. 10, no. 9, pp. S220–232, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “The Development and Evaluation of DEFT, a Web-Based Tool for Engineering Design Education”, IEEE Transaction on Learning Technologies, vol. 11, no. 4, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “Autonomous multi-joint soft exosuit with augmentation-power-based control parameter tuning reduces energy cost of loaded walking”, Journal of NeuroEngineering and Rehabilitation, vol. 15, no. 1, p. 66, 2018.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=9>
+
+1. “Distal Proprioceptive Sensor for Motion Feedback in Endoscope-Based Modular Robotic Systems”, IEEE Robotics and Automation Letters, vol. PP, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=13>
+
+1. “Soft Exosuits Increase Walking Speed and Distance after Stroke”, International Symposium on Wearable Robotics (WeRob). Houston, TX, November 5-8, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=13>
+
+1. “Exosuit-induced improvements in walking after stroke: comprehensive analysis on gait energetics and biomechanics”, International Symposium on Wearable Robotics (WeRob). Houston, TX, November 5-8, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=13>
+
+1. “Approaches to Real-Time Ventricular Wall Strain Measurement for the Control of Soft Robotic Ventricular Assist Devices”, The 9th Hamlyn Symposium on Medical Robotics. London, June 25-28, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=13>
+
+1. “Pop-up-inspired design of a septal anchor for a ventricular assist device”, ASME Design of Medical Devices Conference. Minneapolis, MN, April 11-13, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=13>
+
+1. “An Implantable Extracardiac Soft Robotic Device for the Failing Heart: Mechanical Coupling and Synchronization”, Soft Robotics, vol. 4, no. 3, pp. 241–250, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=13>
+
+1. “Lower limb biomechanical analysis during an unanticipated step on a bump reveals specific adaptations of walking on uneven terrains”, Journal of Experimental Biology, vol. 220, no. 22, pp. 4169–4176, 2017, doi: 10.1242/jeb.161158.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=13>
+
+1. “Highly Sensitive Capacitive-Based Soft Pressure Sensor Based on Conductive Fabric and Micro-porous Dielectric Layer”, Advanced Materials Technologies, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=13>
+
+1. “Autonomous soft exosuit with hip extension assistance for overground walking and jogging”, International Symposium on Wearable Robotics (WeRob). Houston, TX, November 5-8, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=13>
+
+1. “Ankle Optimization with a Soft Exosuit Reduces Metabolic Cost of Loaded Walking”, International Symposium on Wearable Robotics (WeRob). Houston, TX, November 5-8, 2017.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=13>
+
+1. S. Lee, F. Panizzolo, T. Miyatake, D. M. Rossi, C. Siviy, and C. J. Walsh, “Lower limb biomechanical analysis of unanticipated step on a bump”, Dynamic Walking. Holly, Michigan, USA, 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=15>
+
+1. “A soft suction-based end effector for endoluminal tissue manipulation”, The 9th Hamlyn Symposium on Medical Robotics. London, England, 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=15>
+
+1. “IMU-based Iterative Control for Hip Extension Assistance with a Soft Exosuit”, in IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, 2016, pp. 3501–3508.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=15>
+
+1. “Sensory Enhancing Insoles Modify Gait during Inclined Treadmill Walking with Load”, Medicine & Science in Sports & Exercise, vol. 48, no. 5, pp. 860–868, 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=15>
+
+1. L. N. Awad et al., “A soft exosuit for assisting poststroke walking”, 9th World Congress of Neurorehabilitation. Philadelphia, PA, USA, 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=15>
+
+1. “Soft pop-up mechanisms for micro surgical tools: design and characterization of compliant millimeter-scale articulated structures”, in IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, 2016, pp. 750–757.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=15>
+
+1. “Controlling Negative and Positive Power at the Ankle with a Soft Exosuit”, in IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, 2016, pp. 3509–3515.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=15>
+
+1. “Snap-On Robotic Wrist Module for Enhanced Dexterity in Endoscopy”, in IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, 2016, pp. 4398–4405.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=15>
+
+1. “Soft Wearable Robots Can Reduce the Energy Cost of Poststroke Walking: A Proof-of-Concept Study”, Combined Sessions Meeting of the American Physical Therapy Association (APTA CSM). Anaheim, CA, 2016.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=15>
+
+1. “Modeling of Soft Fiber-reinforced Bending Actuators”, IEEE Transactions on Robotics, vol. 31, no. 3, pp. 778–789, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=17>
+
+1. “Robust, low-cost, modular mm-scale distal force sensors for flexible robotic platforms”, Proceedings of the 5th Annual Hamlyn Symposium on Medical Robotics. London, UK, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=17>
+
+1. “Evaluation of a multi-joint soft exosuit for gait assistance”, 7th International Symposium on Adaptive Motion of Animals and Machines (AMAM). Cambridge, MA, USA, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=17>
+
+1. “A Biologically Inspired Soft Exosuit for Walking Assistance”, The International Journal of Robotics Research (IJRR), vol. 34, no. 6, pp. 744–762, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=17>
+
+1. “Shape Deposition Manufacturing of a Soft, Atraumatic, Deployable Surgical Grasper”, ASME Journal of Mechanisms and Robotics, Special Issue: Fabrication of Fully Integrated Robotic Mechanisms, vol. 7, no. 2, pp. 021006–021006, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=17>
+
+1. “Soft Robotic Glove for Hand Rehabilitation and Task Specific Training”, in IEEE International Conference on Robotics and Automation (ICRA), Seattle, Washington, USA, 2015, pp. 2913–2919.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=17>
+
+1. “Multi-joint Soft Exosuit for Gait Assistance”, in IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, 2015, pp. 6197–6204.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=17>
+
+1. “Drug and cell delivery for cardiac regeneration”, Advanced Drug Delivery Reviews, vol. 84, pp. 85–106, 2015, doi: http://dx.doi.org/10.1016/j.addr.2014.08.006.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=17>
+
+1. “Capacitive Soft Strain Sensors via Multicore-Shell Fiber Printing”, Advanced Materials, vol. 27, no. 15, pp. 2440–2446. [Back Cover], 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=17>
+
+1. “An Access-closure Device for Percutaneous Beating Heart Surgery”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2015.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=17>
+
+1. “The Promise of Biomaterial Delivery Vehicles for Improving Stem Cell Retention in the Infarcted Heart”, Cardiovascular Research Foundation 9th International Conference on Cell Therapy and Cardiovascular Disease. New York, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+1. “Cable-driven Finger Exercise Device with Extension Return Springs for Recreating Standard Therapy Exercises”, ASME Journal of Medical Devices, vol. 8, p. 014502, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+1. “A Bioinspired Soft Actuated Material”, Advanced Materials, vol. 26, no. 8, pp. 1200–1206, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+1. “Pneumatic Networks for Soft Robotics that Actuate Rapidly”, Advanced Functional Materials, vol. 24, no. 15, pp. 2163–2170, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+1. “Comparison of biomaterial delivery vehicles for improving acute retention of stem cells in the infarcted heart”, Biomaterials, vol. 35, no. 25, Art. no. 22, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+1. “Compact Robotically Steerable Image-Guided Instrument for Multi-Adjacent-Point (MAP) Targeting”, IEEE Transactions on Robotics, vol. 30, no. 4, pp. 802–815, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+1. “CT-Guided Interventions: Current Practice and Future Directions”, in Intraoperative Imaging and Image-Guided Therapy, New York: Springer, 2014, pp. 173–191. doi: 10.1007/978-1-4614-7657-3_12.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+1. “Wearable Soft Sensing Suit for Human Gait Measurement”, The International Journal of Robotics Research, vol. 33, no. 14, pp. 1748–1764, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+1. “Stronger, Smarter, Softer: Next-Generation Wearable Robots”, IEEE Robotics & Automation Magazine, vol. 21, no. 4, pp. 22–33, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+1. “Mechanical and electrical numerical analysis of soft liquid-embedded deformation sensors analysis”, Extreme Mechanics Letters, vol. 1, pp. 42–46, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+1. “Modeling and Design of Fiber-Reinforced Soft Actuators”, ASME International Mechanical Engineering Congress and Exposition. Montreal, Canada, 14-20 November, 2014.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=19>
+
+1. “Mechanically Programmable Bend Radius for Fiber-Reinforced Soft Actuators”, in 16th International Conference on Advanced Robotics (ICAR), Montevideo, Uruguay, 2013, pp. 1–6.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “Physiological and Pathological Cardiac Motion Generation Using a Soft Robotic Approach”, Materials Research Society (MRS) Fall Meeting. Boston, MA, 2013.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “Smaller, Softer, Safer, Smarter Robots”, Science Translational Medicine, vol. 5, no. 210, p. 210ed19, 2013.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “An MRI Coil Mounted Multi-probe robotic positioner for cryoablation”, in Proceedings of the ASME 2013 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Portland, Oregon, USA, 2013.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “Assured Safety Drill with Bi-stable Bit Retraction Mechanism”, in Proceedings of the ASME 2013 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference IDETC/CIE 2013, Portland, OR, 2013.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “Microsurgical devices by Pop-up Book MEMS”, in Proceedings of the ASME 2013 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference IDETC/CIE 2013, Portland, Oregon, USA, 2013.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “Soft Pneumatic Artificial Muscles with Low Threshold Pressures for Cardiac Compression Device”, in Proceedings of the ASME 2013 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference IDETC/CIE 2013, Portland, OR, 2013.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “Tools for assessing student learning in mechanical design courses”, 9th International CDIO Conference. Cambridge, MA, 2013.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “An assessment of student needs in project-based mechanical design courses”, in 120th ASEE Annual Conference and Exposition (paper and presentation), Atlanta, GA, 2013.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “A Pediatric Robotic Thumb Exoskeleton for at-Home Rehabilitation: The Isolated Orthosis for Thumb Actuation (IOTA)”, in 13th International Conference on Rehabilitation Robotics (ICORR), University of Washington, 2013.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “Biologically-inspired Soft Exosuit”, in 13th International Conference on Rehabilitation Robotics (ICORR), Seattle, WA, 2013, pp. 24–26.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “Soft Wearable Motion Sensing Suit for Lower Limb Biomechanics Measurements”, in 2013 IEEE International Conference on Robotics and Automation (ICRA), Karlsruhe, Germany, 2013, pp. 5309–5316.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=21>
+
+1. “Troublesome knowledge in engineering design courses”, 6th Annual Conference of the National Academy for the Integration of Research, Teaching and Learning, and the 4th Biennial Threshold Concepts Conference. Trinity College Dublin, Ireland, 2012.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+1. “Towards a Compact Robotically Steerable Thermal Ablation Probe”, in Proceedings of the IEEE International Conference on Robotics and Automation, Saint Paul, Minnesota, 2012, pp. 709–714.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+1. “Cranial Drilling Tool with Retracting Drill Bit Upon Skull Penetration”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2012.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+1. “Differential Spring Stiffness Design for Finger Therapy Device: Bio-inspired from Stiff Pathological Finger Joints”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2012.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+1. “Hemodialysis graft resistance adjustment device”, ASME Journal of Medical Devices, vol. 6, pp. 021011–021016, 2012.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+1. “CT-Compatible Medical Drilling Stylet for Percutaneous Interventions”, ASME Journal of Medical Devices, vol. 6, no. 4, p. 041001, 2012.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+1. “Bio-Inspired Design of Soft Robotic Assistive Devices: The Interface of Physics, Biology, and Behavior”, Ecological Psychology, vol. 24, no. 4, pp. 300–327, 2012.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+1. “Design of an Ultrasound Needle Guidance System”, in 33rd Annual International Conference of the IEEE EMBS, Boston, MA, 2011, pp. 8090–8093.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+1. “Design of a robotic tool for percutaneous instrument distal tip repositioning”, in 33rd Annual International Conference of the IEEE EMBS, Boston, MA, 2011, pp. 2097–2100.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+1. “Single Entry Tunneler [SET] for Hemodialysis Graft Procedures”, ASME Design of Medical Devices Conference. Minneapolis, Minnesota, USA, 2011.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+1. “Preliminary evaluation of robotic needle distal tip repositioning”, Proc. SPIE, vol. 7901. San Francisco, CA, USA, January 22-27, p. 790108, 2011. doi: 10.1117/12.876604.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=23>
+
+1. “Evaluation of a Patient-Mounted, Remote Needle Guidance and Insertion System for CT-Guided, Percutaneous Lung Biopsies”, Proceedings of the 2nd Frontiers in Biomedical Devices Conference. Irvine, California, 2007.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=25>
+
+1. “Human Factors Design for Intuitive Operation of a Low-cost, Image-Guided, Tele-Robotic Biopsy Assistant”, in Proceedings of the IEEE Engineering in Medicine and Biology Conference, Lyon, France, 2007, pp. 1257–1260.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=25>
+
+1. “Quasi-Passive Leg Exoskeleton for Load Carrying Augmentation”, International Journal of Humanoid Robotics, Special Issue: Active Exoskeletons, vol. 4, no. 3, pp. 487–506, 2007.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=25>
+
+1. “Development of a Lightweight, Under-actuated Exoskeleton to Assist in Load Carrying in Walking”, in Proceedings of the IEEE International Conference on Robotics and Automation, Orlando, Florida, 2006, pp. 3485–3491.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=25>
+
+1. “An Autonomous, Underactuated Exoskeleton for Load Carrying Augmentation”, in Proc. Inter. Conf. on IROS, Beijing, China, 2006, pp. 1410–1415.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=25>
+
+1. “Remote Needle Guidance System for Percutaneous Image Guided Biopsies”, in Proc. American Society of Mechanical Engineers International Design Engineering and Technical Conferences, Long Beach, California, 2005.
+
+    게시 페이지: <https://biodesign.seas.harvard.edu/publications?page=25>
 
 ## Harvard University — David A. Weitz
 
- · 논문·원고 12건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 831건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://weitzlab.seas.harvard.edu/publications/>
+
+출처: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
 
 1. Download 2026 citations Sun, D.; Chen, J.; Luo, C.; Zheng, Y.; Wang, X.; Guo, B.; Weitz, D. A..; Chen, D. One-step nanoprecipitation of polymeric nanoparticles with tunable size, uniformity, shape and surface function. Chemical Engineering Science 2026,326, 123557. One-step nanoprecipitation of polymeric nanoparticles with tunable size, uniformity, shape and surface function Publisher's Version One-step nanoprecipitation of polymeric nanoparticles with tunable size, uniformity, shape and surface function
 
@@ -59839,11 +61721,3287 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
     게시 페이지: <https://weitzlab.seas.harvard.edu/publications/>
 
+1. “One-step nanoprecipitation of polymeric nanoparticles with tunable size, uniformity, shape and surface function“, Sun, D.; Chen, J.; Luo, C.; Zheng, Y.; Wang, X.; Guo, B.; Weitz, D. A..; Chen, D. Chemical Engineering Science, 326, 123557 (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Implantable living materials autonomously deliver therapeutics using contained engineered bacteria“, Harimoto, T.; Quevedo, F. H.; Zillig, J.; Schreiber, S.; Wu, Y.; Ahn, C. H.; To, T.; Thakur, R.; Tatara, A. M.; Kang, S.; Chen, Z.; Lafuente-Gómez, N.; Hanan, B.; Pauer, A.; Lightbown, S.; Weitz, D. A.; Mooney, D. J. Science, 392, 6799 (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rapid fabrication of solvent-compatible NOA 81 microfluidic devices for double-emulsion microfluidics“, Garry, R.; Sincari, V.; Xu, W.; Dhande, A.; Weitz, D. A. Lab Chip (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Preparation of water-core capsules by one-step nanoprecipitation“, Kang, T.; Chen, J.; Sun, D.; Weitz, D.A.; Chen, D. Colloids and Surfaces A: Physicochemical and Engineering Aspects, 742, 140455 (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Green Oil-in-Water Nanoemulsions for Delivery of Phytochemicals With Pesticidal Activity for Sustainable Food Production and Safety“, de Carvalho, A. P. A.; Weitz, D. A.; Conte-Junior, C. A. Comprehensive Reviews in Food Science and Food Safety, 25, 3 (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Mechanical performance of hybrid polymer–lipid vesicles with leaflet asymmetry engineered using microfluidics“, Huang, Y.; Manafirad, A.; Matoori, S.; Arriaga, L. R.; Sun, S.; Chen, A.; Yang, X.; Dinsmore, A. D.; Mooney, D. J.; Weitz, D. A. Proceedings of the National Academy of Sciences, 123, 10 (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Squeaking at soft–rigid frictional interfaces“, Djellouli, A.; aAlbertini, G.; Wilt, J.; Tournat, V.; Weitz, D. A.; Rubinstein, S.; Bertoldi, K. Nature, 650, 891–897 (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High-sensitivity, protein-independent detection of dsDNA sequences“, Yan, J.; Bhadane, R.; Xu, W.; Ran, M.; Ma, X.; Li, Y.; Jahnke, K.; Ma, X.; Salo-Ahen, O. M. H.; Kostiainen, M. A.; Weitz, D. A.; Zhang, H. Proceedings of the National Academy of Sciences, 123, 6 (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Effects of polymer solutions on hydraulic fracture“, Du, Y.; Cochard, T.; Svetlizky, I.; Yuan, C.; Song, Y.; Xiao, L.; Weitz, D. A. Phys. Rev. Res., 8, 013083 (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Engineering the biophysical properties of lipid nanostructures for drug delivery“, Du, Y.; Cochard, T.; Svetlizky, I.; Yuan, C.; Song, Y.; Xiao, L.; Weitz, D. A. Communications Materials, 7, 25 (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A droplet microfluidics-based platform for generating target-specific, natively-paired immune libraries and identifying potent and developable antibodies“, Ramasubramanian, A.; Deveney, B. T.; Clark, S. A.; Boutin, P.; Keepseagle, K.; Riahi, S.; Lao, T.; Salemi, M.; Kathuria, S.; Amengual-Rigo, P.; Dimova, D.; Marcovici, L.; Hopke, J.; Newton, J.; Mix, K.; Kramer, K.; Erasimus, H.; Furtmann, N.; Mottet, G.; Suslov, N.; Mahendra, A.; Pemmaraju, S. R.; Chowdhury, P. S.; Weitz, D. A.; Heyman, J. A. Scientific Reports, 16, 3684 (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A Biomaterials with droplet microfluidics“, Ou, Y.; Han, Z.; Cai, S.; Heck, J. R.; Toprakcioglu, Z.; Yu, Z.; Weitz, D. A.; Knowles, T. P. J. Nature Reviews Bioengineering, 4, 353–370 (2026).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A droplet microfluidics-based platform for generating target-specific, natively-paired immune libraries and identifying potent and developable antibodies“, Ramasubramanian, A.; Deveney, B. T.; Clark, S. A.; Boutin, P.; Keepseagle, K.; Riahi, S.; Lao, T.; Salemi, M.; Kathuria, S.; Amengual-Rigo, P.; Dimova, D.; Marcovici, L.; Hopke, J.; Newton, J.; Mix, K.; Kramer, K.; Erasimus, H.; Furtmann, N.; Mottet, G.; Suslov, N.; Mahendra, A.; Pemmaraju, S. R.; Chowdhury, P. S.; Weitz, D. A.; Heyman, J. A. Scientific Reports, 16, 3684 (2026). “A Biomaterials with droplet microfluidics“, Ou, Y.; Han, Z.; Cai, S.; Heck, J. R.; Toprakcioglu, Z.; Yu, Z.; Weitz, D. A.; Knowles, T. P. J. Nature Reviews Bioengineering, 4, 353–370 (2026). “Accelerated maturation of branched organoids confined in collagen droplets“, Ruider, I.; Pastucha, A.; Raich, M.K.; Xu, W.; Liu, Y.; Reichert, M.; Weitz, D.A.; Bausch, A.R. Lab on a Chip (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A biocompatible surfactant film for stable microfluidic droplets“, Deveney, B.T.; Heyman, J.A.; Rosenthal, R.G.; Weitz, D.A.; Werner, J.G. Lab on a Chip (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Engineering Asymmetric Nanoscale Vesicles for mRNA and Protein Delivery to Cells“, Yang, C.; Menge, J.; Zhvania, N.; Yu, M.; Yang, H.; Chen, D.; Zheng, Z.; Weitz, D.A.; Jahnke, K. Advanced Functional Materials, 35, 2505738 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Single-Cell Microgel Microrobot for Targeted and Imaging-Guided Cell Therapy“, Wang, X.; Li, W.; Lou, W.; Li, W.; Zhang, L.; Weitz, D.A. CCS Chemistry (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Contact Angle Mapping Using Microdroplets“, Thorne, B.; Xu, J.; Mahavadi, S.C.; Song, Y.-S.; Weitz, D.A. Langmuir, 41, 21869–21877 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Vimentin intermediate filaments as structural and mechanical coordinators of mesenchymal cells“, Guo, M.; Wong, I.Y.; Moore, A.S.; Medalia, O.; Lippincott-Schwartz; Weitz, D.A.; Goldman, R.D. Nat Cell Biol, 27, 1210–1218 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Ultrahigh-Throughput Multiplexed Screening of Purified Protein from Cell-Free Expression Using Droplet Microfluidics“, Chen, A.; Xu, W.; Zhang, X.D.; Lao, J.; Zhao, X.; Milcic, K.; Weitz, D.A. J. Am. Chem. Soc., 147, 28758–28772 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A Sustainable Biotechnology Approach for Mineral Separation“, Yang, G.; Liu, Y.; Devkota, S.R.; Hui, Y.; Zhao, R.; Li, Y.; Weitz, D.A.; Zhao, C.-X. Advanced Functional Materials, e04992 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tough Hybrid Hydrogels with Exceptional Swollen-State Mechanical Robustness via Nanocrystalline Domain Engineering“, Ren, L.; Shi, J.; Liu, S.; Wang, Z.; Qiao, S.; Weitz, D.A.; Zhang, L. Macromolecules, 58, 7975–7985 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Towards Differentiation in Untethered Microactuators: A Soft Fabrication Strategy“, Wilborn, A.M.; Almohammadi, H.; Qu, P.; Wang, Y.; Yang, Y.; Kay, R.; Kim, D; Bertoldi, K.; Weitz, D.A.; Aizenberg, J. Advanced Materials, 2507273 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Physicochemical and Surface Properties of Nanoparticles: Effects on Cellular Pathway and Uptake“, Zhang, J.; Liu, R.; Yang, Z.; Luo, C.; Chen, J.; Guo, B.; Weitz, D.A.; Chen, D. ChemNanoMat, 11, e202500043 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Engineering Liposomes with Cell Membrane Proteins to Disrupt Melanosome Transfer between Cells“, Liu, C.; Liu, Y.; Xue, C.; Yang, C.; Weitz, D.A.; Jahnke, K. ACS Nano, 19, 22988–23000 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamic Poly(amine) Capsules with Reversible pH-Triggered Responsiveness“, Wu, Z.; Werner, J.G.; Weitz, D.A. ACS Appl. Polym. Mater., 7, 7893–7898 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fabrication and mounting of near-critical silicone gels for mechanical testing of colloidal solids“, Terdik, J.Z.; Weitz, D.A.; Spaepen, F. Rev. Sci. Instrum., 96, 053902 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Differential interactions determine anisotropies at interfaces of RNA-based biomolecular condensates“, Erkamp, N.A.; Farag, M.; Qiu, Y.; Qian, D.; Sneideris, T.; Wu, T.; Welsh, T.J.; Ausserwoger, H.; Krug, T.J.; Chauhan, G.; Weitz, D.A.; Lew, M.D.; Knowles, T.P.J.; Pappu, R.V. Nature Communications, 16, 3463 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Cargo Delivery to Cells Using Laser-Irradiated Carbon-Black-Loaded Polydimethylsiloxane“, Shen, W.; Chen, A.; Paink, G.K.; Black, N.; Weitz, D.A.; Mazur, E. ACS Materials Lett., 7, 1754–1759 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Vimentin undergoes liquid–liquid phase separation to form droplets which wet and stabilize actin fibers“, Basu, A.; Krug, T.; du Pont, B.; Huang, Q.; Sun, S.; Adam, S.A.; Goldman, R.D.; Weitz, D.A. PNAS, 122, e2418624122 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Immobilization of BMP-2 in porous hydrogels to spatially regulate osteogenesis“, Meyer, C.; Chen, A.; Weitz, D.A.; Mooney, D.J. Journal of Controlled Release, 379, 944-950 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Recent progress on acoustofluidic manipulation of cells and particles“, Wang, Z.; Xia, J.; Garry, R.; Weitz, D.A.; Li, X. NSO, 4, 20230080 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Enhancing drug solubility through competitive adsorption on silica nanosurfaces with ultrahigh silanol densities“, Xu, Z.; Zhu, C.; Shen, H.; Liu, Y; Tang, J.; Weitz, D.A.; Xu, L. PNAS, 122, e2423426122 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fluorophilic boronic acid copolymer surfactant for stabilization of complex emulsion droplets with fluorinated oil“, Wu, Z.; Deveney, B.T.; Werner, J.G.; Aime, S.; Weitz, D.A. Lab on a Chip, 25, 2315-2319 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Challenges in blood fractionation for cancer liquid biopsy: how can microfluidics assist?“, Salomon, R.; Bazaz, S.R.; Mutafopulos, K.; Gallego-Ortega, D.; Warkiani, M.; Weitz, D.A.; Jin, D. Lab on a Chip, 25, 1097-1127 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Interfacial Engineering of Biocompatible Nanocapsules for Near-Infrared-Triggered Drug Release and Photothermal Therapy“, Xie, Y.; Yang, Z.; Shen, H.; Chen, J.; Weitz, D.A.; Chen, D.; Sheng, J.; Liang, T. Advanced Science, 12, 2410844 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “One-step preparation of biocompatible amphiphilic dimer nanoparticles with tunable particle morphology and surface property for interface stabilization and drug delivery“, Pu, X. ; Liu, R. ; Xie, Y. ; Yang, C. ; Chen, J. ; Guo, B. ; Chao, C. – X. ; Zhao, P. ; Ruan, J. ; Ye, F. ; Weitz, D.A.; Chen, D. Chinese Chemical Letters, 36, 109820 (2025).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Syringable Microcapsules for Sustained, Localized, and Controllable siRNA Delivery“, Liu, Y.; Wang, Y.; Kulkarni, R.A.; Wegiel, L.A.; Lee, B.; Bedingfield, S.K.; Weitz, D.A. ACS Appl. Mater. Interfaces, 17, 187–196 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Jammed Pickering Emulsion Gels“, Zhang, J.; Zheng, Y.; Guo, B.; Sun, D.; Xiao, Y.; Yang, Z.; Liu, R.; Chen, J.; Wu, B.; Zhao, P.; Ruan, J.; Weitz, D.A.; Chen, D. Advanced Science, 11, 2409678 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tuning porosity of macroporous hydrogels enables rapid rates of stress relaxation and promotes cell expansion and migration“, Nerger, B.A.; Kashyap, K.; Deveney, B.T.; Lou, J.; Hanan, B.F.; Liu, Q.; Khalil, A.; Lungjangwad, T.; Cheriyane, M.; Guptac, A.; Jaenisch, R.; Weitz, D. A.; Mahadevan, L.; Mooney, D.J. PNAS, 121, e2410806121 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dramatic droplet deformation through interfacial particles jamming“, Shang, L. ; Xu, K. ; Lu, P. J. ; Abbaspourrad, A. ; Zhao, Y. ; Weitz, D. A. PNAS, 121, e2403953121 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Mechanical testing of colloidal solids with millipascal stress and single-particle strain resolution“, Terdik, J. Z. ; Weitz, D. A. ; Spaepen, F. Physical Review E, 110, 024606 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Self-Assembly of Biocompatible Core-Shell Nanocapsules with Tunable Surface Functionality by Microfluidics for Enhanced Drug Delivery“, Yang, Z. ; Xie, Y. ; Song, J. ; Liu, R. ; Chen, J. ; Weitz, D. A. ; Sheng, J. ; Liang, T. ; Chen, D. Advanced Functional Materials, 34, 2407112 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Targeted whole-genome recovery of single viral species in a complex environmental sample“, Chen, L. ; Chen, A. ; Zhang, X. D. ; Robles, M. T. S. ; Han, H. – S. ; Xiao, Y. ; Xiao, G. ; Pipas, J. M. ; Weitz, D. A. PNAS, 121, e2404727121 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Manipulating the duration of picoinjection controls the injected volume of individual droplets“, Thakur, R. ; Weitz, D. A. Biomicrofluidics, 18, 044102 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stiff hydrogel encapsulation retains mesenchymal stem cell stemness for regenerative medicine“, Li, B. ; Zhang, L. ; Yin, Y. ; Chen, A. ; Seo, B. R. ; Lou, J. ; Mooney, D. J. ; Weitz, D. A. Matter, 7, 3447-3468 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Biomolecular condensates with complex architectures via controlled nucleation“, Erkamp, N. A. ; Verwiel, M. A. M. ; Qian, D. ; Sneideris, T. ; Spaepen, F. A. ; Weitz, D. A. ; Van Hest, J. C. M. ; Knowles, T. P. J. Nature Chemical Engineering, 1, 430-439 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Work hardening in colloidal crystals“, Kim, S. ; Svetlizky, I. ; Weitz, D. A. ; Spaepen, F. Nature, 630, 648-653 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Polysaccharide functionalization reduces lipid vesicle stiffness“, Jahnke, K. ; Pavlovic, M. ; Xu, W. ; Chen, A. ; Knowles, T. P. J. ; Arriaga, L. R. ; Weitz, D. A. PNAS, 121, e2317227121 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Systems and Methods for Continuous Evolution of Enzymes“, Chen, A. ; Zhang, X. D. ; Đelmaš, A. D. ; Weitz, D. A. ; Milcic, K. ChemEurJ, 30, e202400880 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Shell buckling for programmable metafluids“, Djellouli, A. ; Van Raemdonck, B. ; Wang, Y. ; Yang, Y. ; Caillaud, A. ; Weitz, D. A. ; Rubinstein, S. ; Gorissen, B. ; Bertoldi, K. Nature, 628, 545-550 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Surface-Functionalized Microgels as Artificial Antigen-Presenting Cells to Regulate Expansion of T Cells“, Lou, J. ; Meyer, C. ; Vitner, E. B. ; Adu-Berchie, K. ; Dacus, M. T. ; Bovone, G. ; Chen, A. ; To, T. ; Weitz, D. A. ; Mooney, D. J. Advanced Materials, 36, 2309860 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Thin adhesive oil films lead to anomalously stable mixtures of water in oil“, Nannette, C. ; Baudry, J. ; Chen, A. ; Song, Y. – Q. ; Shglabow, A. ; Bremond, N. ; Démoulin, D. ; Walters, J. ; Weitz, D. A. ; Bibette, J. Science, 384, 209-213 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Porous Silicon Nanoparticles Conjugated Magnetite-Chitosan Graphene Oxide Nanoparticles for Effective Removal of Complex Pollutants“, Qu, X. ; Zhang, H. ; Kong, H. ; Chen, D. ; Yang, Z. ; Mäkilä, E. ; Salonen, J. ; Santos, H. A. ; Hai, M. ; Weitz, D. A. Advanced Sustainable Systems, 8, 2300471 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Oil Ganglia Mobility Enhancement by Droplet Formation for Surfactant Flooding in Porous Media“, Haney, B. ; Cochard, T. ; Julien, A. ; Wu, J. ; Davis, R. ; Xiao, L. ; Weitz, D. A. ; Song, Y. – Q. Transport in Porous Media, 151, 585–597 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Laboratory Hydrofractures as Analogs to Tectonic Tremors“, Yuan, C. ; Cochard, T. ; Denolle, M. ; Gomberg, J. ; Wech, A. ; Xiao, L. ; Weitz, D. A. AGU Advances, 5, e2023AV001002 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Propagation of extended fractures by local nucleation and rapid transverse expansion of crack-front distortion“, Cochard, T. ; Svetlizky, I. ; Albertini, G. ; Viesca, R. C. ; Rubinstein, S. M. ; Spaepen, F. ; Yuan, C. ; Denolle, M. ; Song, Y. – Q. ; Xiao, L. ; et al. Nature Physics, 20, 660–665 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Digital Barcodes for High-Throughput Screening“, Yang, Z. ; Chen, J. ; Xiao, Y. ; Yang, C. ; Zhao, C. – X. ; Chen, D. ; Weitz, D. A. Chem & Bio Engineering, 1, 2-12 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Toward the quantification of α-synuclein aggregates with digital seed amplification assays“, Gilboa, T. ; Swank, Z. ; Thakur, R. ; Gould, R. A. ; Ooi, K. H. ; Norman, M. ; Flynn, E. A. ; Seventy, B. T. ; Chen, A. ; Borberg, E. ; et al. PNAS, 121, e2312031121 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Digital droplet RT-LAMP increases speed of SARS-CoV-2 viral RNA detection“, Yuan, Y. ; Ellis, P. ; Tao, Y. ; Bikos, D. A. ; Lovely, E. K. ; Thomas, M. M. ; Wilking, J. N. ; Chang, C. B. ; Ye, F. ; Weitz, D. A. Smart Medicine, 3, e20240008 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Ultrasoft silicone gels with tunable refractive index for traction force microscopy“, Terdik, J. Z. ; Weitz, D. A. ; Spaepen, F. Soft Matter, 20, 4633-4639 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High-throughput direct screening of restriction endonuclease using a microfluidic fluorescence-activated drop sorter based on the SOS response in Escherichia coli“, Zhang, Y. ; Agresti, J. J. ; Zheng, Y. ; Weitz, D. A. Analyst, 149, 3575-3584 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Development and future of droplet microfluidics“, Nan, L. ; Zhang, H. ; Weitz, D. A. ; Shum, H. C. Lab on a Chip, 24, 1135-1153 (2024).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Spatially non-uniform condensates emerge from dynamically arrested phase separation“, Erkamp, N. A. ; Sneideris, T. ; Ausserwöger, H. ; Qian, D. ; Qamar, S. ; Nixon-Abell, J. ; St George-Hyslop, P. ; Schmit, J. D. ; Weitz, D. A. ; Knowles, T. P. J. Nature Communications, 14, 684 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Multichannel Multijunction Droplet Microfluidic Device to Synthesize Hydrogel Microcapsules with Different Core-Shell Structures and Adjustable Core Positions“, Wu, Q.; Huang, X.; Liu, R.; Yang, X.; Xiao, G.; Jiang, N.; Weitz, D. A.; Song, Y. Langmuir, 40, 1950-1960 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The Rapid Generation of Cell-Laden, FACS-CompatibleCollagen Gels“, Xiao, Y.; Huang, Q.; Collins, J. W.; Brouchon, J.; Nelson, J. A.; Niziolek, Z.; O’Neil, A.; Ye, F.; Weitz, D. A.; Heyman, J. A. Organoids, 2, 204-217 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Anomalous crystalline ordering of particles in a viscoelastic fluid under high shear“, Sun, S.; Xue, N.; Aime, S.; Kim, H.; Tang, J.; McKinley, G. H.; Stone, A.; Weitz, D. A. PNAS, 120, e2304272120 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The liquid-to-solid transition of FUS is promoted by the condensate surface“, Shen, Y.; Chen, A.; Wang, W.; Shen, Y.; Ruggeri, F. S.; Aime, S.; Wang, Z.; Qamar, S.; Espinosa, J. R.; Garaizar, A.; et al. PNAS, 120, e2301366120 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Droplet-based high-throughput single microbe RNA sequencing by smRandom-seq“, Xu, Z.; Wang, Y.; Sheng, K.; Rosenthal, R.; Liu, N.; Hua, X.; Zhang, T.; Chen, J.; Song, M.; Lv, Y.; et al. Nature Communications, 14, 5130 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dislocation interactions during plastic relaxation of epitaxial colloidal crystals“, Svetlizky, I.; Kim, S.; Weitz, D. A.; Spaepen, F. Nature Communications, 14, 5760 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Positional influence on cellular transcriptional identity revealed through spatially segmented single-cell transcriptomics“, Morse, D. B.; Michalowski, A. M.; Ceribelli, M.; De Jonghe, J.; Vias, M.; Riley, D.; Davies-Hill, T.; Voss, T.; Pittaluga, S.; Muus, C.; et al. Cell Systems, 14, P464-481 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlled Continuous Evolution of Enzymatic Activity Screened at Ultrahigh Throughput Using Drop-Based Microfluidics“, Rosenthal, R. G.; Zhang, X. D.; Durdic, K. I.; Collins, J. J.; Weitz, D. A. Angewandte Chemie, 62, e202303112 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rock-on-a-chip: “Seeing” the association/disassociation of an adaptive polymer in solutions flowing through porous media“, Zhang, Y.; Zhao, X.; Han, P.; He, T.; Yin, H.; Zhang, L.; Feng, Y.; Weitz, D. A. Lab on a Chip, 23, 2808-2818 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Kinetics of formation of a macroscale binary Coulombic material“, Battat, S.; Nagarkar, A. A.; Spaepen, F.; Weitz, D. A.; Whitesides, G. M. Physical Review Materials, 7, L040401 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Visualization of adaptive polymer flow and displacement in medium-permeable 3D core-on-a-chip“, Zhang, Y.; Zhao, X.-Z.; Han, P.-H.; Zhang, L.-Y.; Weitz, D. A.; Feng, Y.-J. Petroleum Science, 20, 1018–1029 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Melting of a macroscale binary Coulombic crystal“, Battat, S.; Weitz, D. A.; Whitesides, G. M. Soft Matter, 19, 3190–3198 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Matrix viscoelasticity controls spatiotemporal tissue organization“, Elosegui-Artola, A.; Gupta, A.; Najibi, A. J.; Seo, B. R.; Garry, R.; Tringides, C. M.; de Lázaro, I.; Darnell, M.; Gu, W.; Zhou, Q.; et al. Nature Materials, 22, 117–127 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stimuli-Triggered Multishape, Multimode, and Multistep Deformations Designed by Microfluidic 3D Droplet Printing“, Yang, C.; Xiao, Y.; Hu, L.; Chen, J.; Zhao, C.-X.; Zhao, P.; Ruan, J.; Wu, Z.; Yu, H.; Weitz, D. A.; et al. Small, 22, 2207073 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Phase separation-induced nanoprecipitation for making polymer nanoparticles with high drug loading“, Yang, G.; Liu, Y.; Jin, S.; Hui, Y.; Wang, X.; Xu, L.; Chen, D.; Weitz, D. A.; Zhao, C.-X. Aggregate, 4, e314 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Droplet-based transcriptome profiling of individual synapses“, Niu, M.; Cao, W.; Wang, Y.; Zhu, Q.; Luo, J.; Wang, B.; Zheng, H.; Weitz, D. A.; Zong, C. Nature Biotechnology, 41, 1332–1344 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Bioinspired Tough and Strong Fibers with Hierarchical Core-Shell Structure“, Xiao, Y.; Yang, C.; Zhai, X.; Zhao, L.; Zhao, P.; Ruan, J.; Chen, D.; Weitz, D. A.; Liu, K. Advanced Materials Interfaces, 10, 2201962 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Visualization of Flow-Induced Strain Using Structural Color in Channel-Free Polydimethylsiloxane Devices“, Shiba, K.; Zhuang, C.; Minami, K.; Imamura, G.; Tamura, R.; Samitsu, S.; Idei, T.; Yoshikawa, G.; Sun, L.; Weitz, D. A. Advanced Science, 10, 2204310 (2023).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rapid parallel generation of a fluorescently barcoded drop library from a microtiter plate using the plate-interfacing parallel encapsulation (PIPE) chip“, Zath, G. K. ; Sperling, R. A. ; Hoffman, C. W. ; Bikos, D. A. ; Abbasi, R. ; Abate, A. R. ; Weitz, D. A. ; Chang, C. B. Lab on a Chip, 22, 4735-4745 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Multidisciplinary endeavors make future medicine smart“, Shang, L. ; Cao, Y. ; Weitz, D. A. Smart Medicine, 1, e20220031 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “‘Phase transitions’ in bacteria – From structural transitions in free living bacteria to phenotypic transitions in bacteria within biofilms“, Wang, X. ; Blumenfeld, R. ; Feng, X. – Q. ; Weitz, D. A. Physics of Life Reviews, 43, 98-138 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Research Progress in High-Throughput Screening of CO2 Reduction Catalysts“, Wu, Q. ; Pan, M. ; Zhang, S. ; Sun, D. ; Yang, Y. ; Chen, D. ; Weitz, D. A. ; Gao, X. Energies, 15, 6666 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Soft materials evolution and revolution“, Weitz, D. A. Nature Materials, 21, 986-988 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Line optical tweezers as controllable micromachines: techniques and emerging trends“, Shen, Y. ; Weitz, D. A. ; Forde, N. R. ; Shayegan, M. Soft Matter, 18, 5359-5365 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High-throughput, single-microbe genomics with strain resolution, applied to a human gut microbiome“, Zheng, W. ; Zhao, S. ; Yin, Y. ; Zhang, H. ; Needham, D. M. ; Evans, E. D. ; Dai, C. L. ; Lu, P. J. ; Alm, E. J. ; Weitz, D. A. Science, 376, eabm1483 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A high-throughput multiparameter screen for accelerated development and optimization of soluble genetically encoded fluorescent biosensors“, Koveal, D. ; Rosen, P. C. ; Meyer, D. J. ; Diaz-Garcia, C. M. ; Wang, Y. ; Cai, L. – H. ; Chou, P. J. ; Weitz, D. A. ; Yellen, G. Nature Communications, 13, 2919 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Large-scale single-cell encapsulation in microgels through metastable droplet-templating combined with microfluidic-integration“, Zhang, H. ; Zhang, L. ; An, C. ; Zhang, Y. ; Zhao, F. ; Gao, Y. ; Zhang, Y. ; Li, H. ; Zhang, Y. ; Ren, C. ; et al. Biofabrication, 14, 035015 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Adsorption of Polar Species at Crude Oil-Water Interfaces: the Chemoelastic Behavior“, Saad, A. M. ; Aime, S. ; Mahavadi, S. C. ; Song, Y. – Q. ; Yutkin, M. P. ; Weitz, D. A. ; Patzek, T. W. Langmuir, 38, 6523–6530 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Correlation Tracking: Using simulations to interpolate highly correlated particle tracks“, King, E. M. ; Wang, Z. ; Weitz, D. A. ; Spaepen, F. ; Brenner, M. P. Physical Review E, 105, 044608 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dielectrophoretic Characterization of Dynamic Microcapsules and Their Magnetophoretic Manipulation“, Elkeles, T. ; Park, S. ; Werner, J. G. ; Weitz, D. A. ; Yossifon, G. ACS Appl. Mater. Interfaces, 14, 15765–15773 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Regulation of cell attachment, spreading, and migration by hydrogel substrates with independently tunable mesh size“, Xia, J. ; Liu, Z. – Y. ; Han, Z. – Y. ; Yuan, Y. ; Shao, Y. ; Feng, X. – Q. ; Weitz, D. A. Acta Biomaterialia, 141, 178-189 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Vimentin intermediate filaments and filamentous actin form unexpected interpenetrating networks that redefine the cell cortex“, Wu, H. ; Shen, Y. ; Sivagurunathan, S. ; Weber, M. S. ; Adam, S. A. ; Shin, J. H. ; Fredberg, J. J. ; Medalia, O. ; Goldman, R. ; Weitz, D. A. PNAS, 119, e2115217119 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nonlinear Phenomena in Microfluidics“, Battat, S. ; Weitz, D. A. ; Whitesides, G. Chemical Reviews, 122, 6921-6937 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The correlation between cell and nucleus size is explained by an eukaryotic cell growth model“, Wu, Y. ; Pegoraro, A. F. ; Weitz, D. A. ; Janmey, P. ; Sun, S. X. PLOS Computational Biology, 18, e1009400 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Cell-Inspired Hydrogel Microcapsules with a Thin Oil Layer of Enhanced Retention of Highly Reactive Antioxidants“, Chu, J. – O. ; Choi, Y. ; Kim, D. – W. ; Jeong, H. – S. ; Park, J. P. ; Weitz, D. A. ; Kee, S. – J. ; Lee, H. ; Choi, C. – H. ACS Appl. Mater. Interfaces, 14, 2597–2604 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “An outlook on microfluidics: the promise and the challenge“, Battat, S. ; Weitz, D. A. ; Whitesides, G. Lab on a Chip, 22, 530-536 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Local high-density distributions of phospholipids induced by the nucleation and growth of smectic liquid crystals at the interface“, Yang, C. ; Chen, L. ; Zhang, R. ; Chen, D. ; Arriaga, L. R. ; Weitz, D. A. Chinese Chemical Letters, 33, 3973-3976 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Pickering emulsions stabilized by colloidal surfactants: Role of solid particles“, Sun, Z. ; Yan, X. ; Xiao, Y. ; Hu, L. ; Eggersdorfer, M. ; Chen, D. ; Yang, Z. ; Weitz, D. A. Particuology, 64, 153-163 (2022).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Hydrogel Microcapules with a Thin Oil Layer: Smart Triggered Release via Diverse Stimuli,” H.-S. Jeong, E. Kim, C. Nam, Y. Choi, Y.-J. Lee, D.A. Weitz, H. Lee, and C.-H. Choi, Advanced Functional Materials, 31 (18), 2009553 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Advanced microfluidic devices for fabricating multi-structural hydrogel microsphere.“, Chen, Z. ; Lv, Z. ; Zhang, Z. ; Weitz, D. A. ; Zhang, H. ; Zhang, Y. ; Cui, W. Exploration, 1, 20210036 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Programmable microbial ink for 3D printing of living materials produced from genetically engineered protein nanofibers.“, Duraj-Thatte, A. M. ; Manjula-Basavanna, A. ; Rutledge, J. ; Xia, J. ; Hassan, S. ; Sourlis, A. ; Rubio, A. G. ; Lesha, A. ; Zenkl, M. ; Kan, A. ; et al. Nature Communications, 12, 6600 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Synthesis of nanomedicine hydrogel microcapsules by droplet microfluidic process and their pH and temperature dependent release.“, Liu, R. ; Wu, Q. ; Huang, X. ; Zhao, X. ; Chen, X. ; Chen, Y. ; Weitz, D. A. ; Song, Y. RSC Advances, 11, 37814-37823 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Emulsion Designer Using Microfluidic Three-Dimensional Droplet Printing in Droplet.“, Chen, L. ; Xiao, Y. ; Wu, Q. ; Yan, X. ; Zhao, P. ; Ruan, J. ; Shan, J. ; Chen, D. ; Weitz, D. A. ; Ye, F. Small, 17, 2102579 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Effects of Vimentin Intermediate Filaments on the Structure and Dynamics of In Vitro Multicomponent Interpenetrating Cytoskeletal Networks.“, Shen, Y. ; Wu, H. ; Lu, P. J. ; Wang, D. ; Shayegan, M. ; Li, H. ; Shi, W. ; Wang, Z. ; Cai, L. ; Xia, J. ; et al. Physical Review Letters, 127, 108101 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Unexpected scaling of interstitial velocities with permeability due to polymer retention in porous media.“, Parsa, S. ; Zareei, A. ; Santanach-Carreras, E. ; Morris, E. J. ; Amir, A. ; Xiao, L. ; Weitz, D. A. Physical Review Fluids, 6, L082302 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamic Speckle Holography“, Aime, S. ; Sabato, M. ; Xiao, L. ; Weitz, D. A. Physical Review Letters, 127, 088003 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tumorigenic mesenchymal clusters are less sensitive to moderate osmotic stresses due to low amounts of junctional E-cadherin“, Mohammed, D. ; Park, C. Y. ; Fredberg, J. J. ; Weitz, D. A. Scientific Reports, 11, 16279 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Millifluidics, microfluidics, and nanofluidics: manipulating fluids at varying length scales.“, Chen, L. ; Yang, C. ; Xiao, Y. ; Yan, X. ; Hu, L. ; Eggersdorfer, M. ; Chen, D. ; Weitz, D. A. ; Ye, F. Materials Today Nano, 16, 100136 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Attractive Pickering Emulsion Gels“, Wu, B. ; Yang, C. ; Xin, Q. ; Kong, L. ; Eggersdorfer, M. ; Ruan, J. ; Zhao, P. ; Shan, J. ; Liu, K. ; Chen, D. ; et al. Advanced Materials, 33, 2102362 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Linear triglycerol-based fluorosurfactants show high potential for droplet-microfluidics-based biochemical assays.“, Chowdhury, M. S. ; Zheng, W. ; Singh, A. K. ; Ong, I. L. H. ; Hou, Y. ; Heyman, J. A. ; Faghani, A. ; Amstad, E. ; Weitz, D. A. ; Haag, R. Soft Matter, 17, 7260-7267 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microchannel measurements of viscosity for both gases and liquids.“, Shiba, K. ; Li, G. ; Virot, E. ; Yoshikawa, G. ; Weitz, D. A. Lab on a Chip, 21, 2805-2811 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Implications of Quenching-to-Dequenching Switch in Quantitative Cell Uptake and Biodistribution of Dye-Labeled Nanoparticles.“, Yang, G. ; Liu, Y. ; Hui, Y. ; Tengjisi ; Chen, D. ; Weitz, D. A. ; Zhao, C. – X. Angewandte Chemie, 133, 15554-15563 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Sequencing-Based Protein Analysis of Single Extracellular Vesicles.“, Ko, J. ; Wang, Y. ; Sheng, K. ; Weitz, D. A. ; Weissleder, R. ACS Nano, 15, 5631-5638 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Anomalous mechanics of Zn2+-modified fibrin networks.“, Xia, J. ; Cai, L. ; Wu, H. ; Mackintosh, F. C. ; Weitz, D. A. PNAS, 118 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Single-Cell Transcriptomics Reveals a Heterogeneous Cellular Response to BK Virus Infection.“, An, P. ; Cantalupo, P. G. ; Zheng, W. ; Saenz-Robles, M. T. ; Duray, A. M. ; Weitz, D. A. ; Pipas, J. M. Journal of Virology, 95 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A New Ensemble Machine-Learning Framework for Searching Sweet Spots in Shale Reservoirs.“, Tang, J. ; Fan, B. ; Xiao, L. ; Tian, S. ; Zhang, F. ; Zhang, L. ; Weitz, D. A. SPE Journal, 26, 482-497 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Ordered Mesoporous Microcapsules from Double Emulsion Confined Block Copolymer Self-Assembly.“, Werner, J. G. ; Lee, H. ; Wiesner, U. ; Weitz, D. A. ACS Nano, 15, 3490-3499 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The vortex-driven dynamics of droplets within droplets.“, Tiribocchi, A. ; Montessori, A. ; Lauricella, M. ; Bonaccorso, F. ; Succi, S. ; Aime, S. ; Milani, M. ; Weitz, D. A. Nature Communications, 12, 1-10 (2021).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Single Extracellular Vesicle Protein Analysis Using Immuno-Digital Droplet Polymerase Chain Reaction Amplification“, Ko, J. ; Wang, Y. ; Carlson, J. C. T. ; Marquard, A. ; Gungabeesoon, J. ; Charest, A. ; Weitz, D. A. ; Pittet, M. J. ; Weissleder, R. Advanced Biosystems, 4, 1900307 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rapid isolation of antigen-specific B-cells using droplet microfluidics“, Ding, R. ; Hung, K. – C. ; Mitra, A. ; Ung, L. W. ; Lightwood, D. ; Tu, R. ; Starkie, D. ; Cai, L. ; Mazutis, L. ; Chong, S. ; et al. RSC Advances, 10, 27006-27013 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Hydrogel Microcapsules with a Thin Oil Layer: Smart Triggered Release via Diverse Stimuli“, Jeong, H. – S. ; Kim, E. ; Nam, C. ; Choi, Y. ; Lee, Y. – J. ; Weitz, D. A. ; Lee, H. ; Choi, C. – H. Advanced Functional Materials, 31, 2009553 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tunable Nanochannels Connected in Series for Dynamic Control of Multiple Concentration-Polarization Layers and Preconcentrated Molecule Plugs“, Sabbagh, B. ; Stolovicki, E. ; Park, S. ; Weitz, D. A. ; Yossifon, G. Nano Letters, 20, 8524-8533 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic fabrication of Phase-Inverted Microcapsules with Asymmetric Shell Membranes with Graded Porosity“, Wu, Z. ; Werner, J. G. ; Weitz, D. A. ACS Macro Letters, 10, 116-121 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stiffness of the interface between a colloidal body-centered cubic crystal and its liquid“, Hwang, H. ; Weitz, D. A. ; Spaepen, F. PNAS, 117, 25225-25229 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Science and Cooking: Physics Meets Food, From Homemade to Haute Cuisine“, Brenner, M. ; Sorensen, P. ; Weitz, D. W.W. Norton, 1st ed., pp. 320 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Diverse Particle Carriers Prepared by Co-Precipitation and Phase Separation: Formation and Applications“, Sun, Z. ; Wu, B. ; Ren, Y. ; Wang, Z. ; Zhao, C. ‐X. ; Hai, M. ; Weitz, D. A. ; Chen, D. ChemPlusChem, 86, 49-58 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “J-Aggregate-Based FRET Monitoring of Drug Release from Polymer Nanoparticles with High Drug Loading“, Liu, Y. ; Yang, G. ; Jin, S. ; Zhang, R. ; Chen, P. ; Tengjisi, ; Wang, L. ; Chen, D. ; Weitz, D. A. ; Zhao, C. ‐X. Angewandte Chemie, 59, 20065-20074 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universal Statistical Laws for the Velocities of Collective Migrating Cells“, Lin, S. ‐Z. ; Chen, P. ‐C. ; Guan, L. ‐Y. ; Shao, Y. ; Hao, Y. – K. ; Li, Q. ; Li, B. ; Weitz, D. A. ; Feng, X. ‐Q. Advanced Biosystems, 4, 2000065 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Propagation and adsorption of nanoparticles in porous medium as traveling waves“, Gerber, G. ; Weitz, D. A. ; Coussot, P. Physical Review Research, 2, 033074 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Core-Shell Nanohydrogels with Programmable Swelling for Conformance Control in Porous Media“, Zhang, L. ; Abbaspourrad, A. ; Parsa, S. ; Tang, J. ; Cassiola, F. ; Zhang, M. ; Tian, S. ; Dai, C. ; Xiao, L. ; Weitz, D. A. ACS Applied Materials & Interfaces, 12, 34217-34225 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dissolvable Polyacrylamide Beads for High-Throughput Droplet DNA Barcoding“, Wang, Y. ; Cao, T. ; Ko, J. ; Shen, Y. ; Zong, W. ; Sheng, K. ; Cao, W. ; Sun, S. ; Cai, L. ; Zhou, Y. ‐L. ; et al. Advanced Science, 7, 1903463 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stable Polymer Nanoparticles with Exceptionally High Drug Loading by Sequential Nanoprecipitation“, Liu, Y. ; Yang, G. ; Baby, T. ; Tengjisi, ; Chen, D. ; Weitz, D. A. ; Zhao, C. ‐X. Angewandte Chemie, 59, 4720-4728 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The Fourth Decade of Microfluidics“, Kong, T. ; Shum, H. C. ; Weitz, D. A. Small, 16, 2000070 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidics-Assisted Assembly of Injectable Photonic Hydrogels Toward Reflective Cooling“, Zhu, Z. ; Liu, J. – D. ; Liu, C. ; Wu, X. ; Li, Q. ; Chen, S. ; Zhao, X. ; Weitz, D. A. Small, 16, 1903939 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Origin of anomalous polymer-induced fluid displacement in porous media“, Parsa, S. ; Santanach-Carreras, E. ; Xiao, L. ; Weitz, D. A. Physical Review Fluids, 5, 022001 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “MAFG-driven astrocytes promote CNS inflammation“, Wheeler, M. A. ; Clark, I. C. ; Tjon, E. C. ; Li, Z. ; Zandee, S. E. J. ; Couturier, C. P. ; Watson, B. R. ; Scalisi, G. ; Alkwai, S. ; Rothhammer, V. ; et al. Nature, 2020, 593–599 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Selective cell encapsulation, lysis, pico-injection and size-controlled droplet generation using traveling surface acoustic waves in a microfluidic device“, Mutafopulos, K. ; Lu, P. J. ; Garry, R. ; Spink, P. ; Weitz, D. A. Lab on a Chip, 20, 3914–3921 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A High-Throughput Screening System Based on Droplet Microfluidics for Glucose Oxidase Gene Libraries“, Prodanović, R. ; Ung, W. L. ; Đurđić, K. I. ; Fisher, R. ; Weitz, D. A. ; Ostafe, R. molecules, 25, 2418 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stimuli responsive Janus microgels with convertible hydrophilicity for controlled emulsion destabilization“, Haney, B. ; Werner, J. G. ; Weitz, D. A. ; Ramakrishnan, S. Soft Matter, 16, 3613-3620 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Droplet encapsulation improves accuracy of immune cell cytokine capture assays“, Yuan, Y. ; Brouchon, J. ; Calvo-Calle, J. M. ; Xia, J. ; Sun, L. ; Zhang, X. ; Clayton, K. L. ; Ye, F. ; Weitz, D. A. ; Heyman, J. Lab on a Chip, 20, 1513-1520 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Hydrogel microcapsules with photocatalytic nanoparticles for removal of organic pollutants“, Liu, J. ; Chen, H. ; Shi, X. ; Nawar, S. ; Werner, J. ; Huang, G. S. ; Ye, M. ; Weitz, D. A. ; Solovev, A. A. ; Mei, Y. F. Environmental Science Nano, 7, 656-664 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A General Strategy for One-Step Fabrication of Biocompatible Microcapsules with Controlled Active Release“, Sun, Z. ; Yang, C. ; Eggersdorfer, M. ; Cui, J. ; Li, Y. ; Hai, M. ; Chen, D. ; Weitz, D. A. Chinese Chemical Letters, 31, 249-252 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Absorbent-Adsorbates: Large Amphiphilic Janus Microgels as Droplet Stabilizers“, Haney, B. ; Werner, J. G. ; Weitz, D. A. ; Ramakrishnan, S. ACS Applied Materials & Interfaces, 12, 33439-33446 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Single Molecule Protein Detection with Attomolar Sensitivity Using Droplet Digital Enzyme-Linked Immunosorbent Assay“, Cohen, L. ; Cui, N. ; Cai, Y. ; Garden, P. M. ; Li, X. ; Weitz, D. A. ; Walt, D. R. ACS Nano, 14, 9491-9501 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Active Encapsulation in Biocompatible Nanocapsules“, Wu, B. ; Yang, C. ; Li, B. ; Feng, L. ; Hai, M. ; Zhao, C. – X. ; Chen, D. ; Liu, K. ; Weitz, D. A. Small, 16, 2002716 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Effect of divalent cations on the structure and mechanics of vimentin intermediate filaments“, Wu, H. ; Shen, Y. ; Wang, D. ; Herrmann, H. ; Goldman, R. D. ; Weitz, D. A. Biophysical Journal, 119, 55-64 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic Synthesis of Multimode Au@CoFeB-Rg3 Nanomedicines and Their Cytotoxicity and Anti-Tumor Effects“, Zhang, W. ; Zhao, X. ; Yuan, Y. ; Miao, F. ; Li, W. ; Ji, S. ; Huang, X. ; Chen, X. ; Jiang, T. ; Weitz, D. A. ; et al. Chemistry Materials, 32, 5044-5056 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Decoupling the effects of nanopore size and surface roughness on the attachment, spreading and differentiation of bone marrow-derived stem cells“, Xia, J. ; Yuan, Y. ; Wu, H. ; Huang, Y. ; Weitz, D. A. Biomaterials, 248, 120014 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nanoparticle‐Shelled Catalytic Bubble Micromotor“, Adams, L. L. A. ; Lee, D. ; Mei, Y. F. ; Weitz, D. A. ; Solovev, A. A. Advanced Materials Interfaces, 7, 1901583 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Novel nonequilibrium steady states in multiple emulsions“, Tiribocchi, A. ; Montessori, A. ; Aime, S. ; Milani, M. ; Lauricella, M. ; Succi, S. ; Weitz, D. Physics of Fluids, 32, 017102 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Parallelizable microfluidic dropmakers with multilayer geometry for the generation of double emulsions“, Nawar, S. ; Stolaroff, J. K. ; Ye, C. ; Wu, H. ; Nguyen, D. T. ; Xin, F. ; Weitz, D. A. Lab on a Chip, 20, 147–154 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Spontaneous Creation of Anisotropic Polymer Crystals with Orientation-Sensitive Birefringence in Liquid Drops“, Shi, W. ; Chen, X. ; Li, B. ; Weitz, D. A. ACS Applied Materials & Interfaces, 12, 3912-3918 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “DNAzyme-powered nucleic acid release from solid supports“, Cao, T. ; Wang, Y. ; Tao, Y. ; Zhang, L. ; Zhou, Y. – L. ; Zhang, X. – X. ; Heyman, J. A. ; Weitz, D. A. Chemical Communications, 56, 647–650 (2020).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rapid additive-free bacteria lysis using traveling surface acoustic waves in microfluidic channels“, Lu, H. ; Mutafopulos, K. ; Heyman, J. A. ; Spink, P. ; Shen, L. ; Wang, C. ; Franke, T. ; Weitz, D. A. Lab on a Chip, 19, 4064-4070 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Preparation of monodisperse hybrid gel particles with various morphologies via flow rate and temperature control“, Kanai, T. ; Nakai, H. ; Yamada, A. ; Fukuyama, M. ; Weitz, D. A. Soft Matter, 15, 6934-6937 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Traveling surface acoustic wave (TSAW) microfluidic fluorescence activated cell sorter (μFACS)“, Mutafopulos, K. ; Spink, P. ; Lofstrom, C. D. ; Lu, P. J. ; Lu, H. ; Sharpe, J. C. ; Franke, T. ; Weitz, D. A. Lab on a Chip, 19, 2435-2443 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dendronized fluorosurfactant for highly stable water-in-fluorinated oil emulsions with minimal inter-droplet transfer of small molecules“, Chowdhury, M. S. ; Zheng, W. ; Kumari, S. ; Heyman, J. ; Zhang, X. ; Dey, P. ; Weitz, D. A. ; Haag, R. Nature Communications, 10, 1-10 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Self-Limited Accumulation of Colloids in Porous Media“, Gerber, G. ; Bensouda, M. ; Weitz, D. A. ; Coussot, P. Physical Review Letters, 123, 158005 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controllable Fabrication of Inhomogeneous Microcapsules for Triggered Release by Osmotic Pressure“, Zhang, W. ; Qu, L. ; Pei, H. ; Qin, Z. ; Didier, J. ; Wu, Z. ; Bobe, F. ; Ingber, D. E. ; Weitz, D. A. Small, 15, 1903087 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Programmable microencapsulation for enhanced mesenchymal stem cell persistence and immunomodulation“, Mao, A. S. ; Ozkale, B. ; Shah, N. J. ; Vining, K. H. ; Descombes, T. ; Zhang, L. ; Tringides, C. M. ; Wong, S. – W. ; Shin, J. – W. ; et al. Scadden, D. T. Proceedings of the National Academy of Sciences, 116, 15392–15397 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Compression Generated by a 3D Supracellular Actomyosin Cortex Promotes Embryonic Stem Cell Colony Growth and Expression of Nanog and Oct4“, Du, J. ; Fan, Y. ; Guo, Z. ; Wang, Y. ; Zheng, X. ; Huang, C. ; Liang, B. ; Gao, L. ; Cao, Y. ; et al. Chen, Y. Cell Systems, 9, 214-220.e5 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Transparent Impact-Resistant Composite Films with Bioinspired Hierarchical Structure“, Chen, R. ; Liu, J. ; Yang, C. ; Weitz, D. A. ; He, H. ; Li, D. ; Chen, D. ; Liu, K. ; Bai, H. ACS Applied Materials & Interfaces, 11, 23616-23622 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlled co-precipitation of biocompatible colorant-loaded nanoparticles by microfluidics for natural color drinks“, Kong, L. ; Chen, R. ; Wang, X. ; Zhao, C. – X. ; Chen, Q. ; Hai, M. ; Chen, D. ; Yang, Z. ; Weitz, D. A. Lab Chip, 19, 2089-2095 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Direct observation of crystallization and melting with colloids“, Hwang, H. ; Weitz, D. A. ; Spaepen, F. Proc. Natl. Acad. Sci. U.S.A., 116, 1180–1184 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Hydrogel micromotors with catalyst-containing liquid core and shell“, Zhu, H. ; Nawar, S. ; Werner, J. G. ; Liu, J. ; Huang, G. S. ; Mei, Y. F. ; Weitz, D. A. ; Solovev, A. A. J. Phys.: Condens. Matter, 31, 214004 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Jetting to dripping transition: Critical aspect ratio in step emulsifiers“, Montessori, A. ; Lauricella, M. ; Stolovicki, E. ; Weitz, D. A. ; Succi, S. Physics of Fluids, 31, 021703 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Millimeter-Size Pickering Emulsions Stabilized with Janus Microparticles“, Haney, B. ; Chen, D. ; Cai, L. – H. ; Weitz, D. ; Ramakrishnan, S. Langmuir, 35, 4693–4701 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Photothermal-responsive nanosized hybrid polymersome as versatile therapeutics codelivery nanovehicle for effective tumor suppression“, Zhang, H. ; Cui, W. ; Qu, X. ; Wu, H. ; Qu, L. ; Zhang, X. ; Makila, E. ; Salonen, J. ; Zhu, Y. ; Yang, Z. ; et al. Proc. Natl. Acad. Sci. U.S.A., 116, 7744–7749 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Probe Sensitivity to Cortical versus Intracellular Cytoskeletal Network Stiffness“, Vahabikashi, A. ; Park, C. Y. ; Perkumas, K. ; Zhang, Z. ; Deurloo, E. K. ; Wu, H. ; Weitz, D. A. ; Stamer, W. D. ; Goldman, R. D. ; Fredberg, J. J. ; et al. Biophys. J., 116, 518–529 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A simple mix-and-read bacteria detection system based on DNAzyme and molecular beacon“, Cao, T. ; Wang, Y. ; Zhao, L. ; Wang, Y. ; Tao, Y. ; Heyman, J. A. ; Weitz, D. A. ; Zhou, Y. ; Zhang, X. Chem. Commun., 55, 7358-7361 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Single-step assembly of asymmetric vesicles“, Arriaga, L. R. ; Huang, Y. ; Kim, S. – H. ; Aragones, J. L. ; Ziblat, R. ; Koehler, S. A. ; Weitz, D. A. Lab Chip, 19, 749–756 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Single-step microfluidic production of W/O/W double emulsions as templates for β-carotene-loaded giant liposomes formation“, Michelon, M. ; Huang, Y. ; de la Torre, L. G. ; Weitz, D. A. ; Cunha, R. L. Chemical Engineering Journal, 366, 27–32 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Water-Triggered Rapid Release of Biocide with Enhanced Antimicrobial Activity in Biodiesel“, Pei, H. ; Abbaspourrad, A. ; Zhang, W. ; Wu, Z. ; Weitz, D. A. Macromol. Mater. Eng., 304, 1900156 (2019).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Initial growth dynamics of 10 nm nanobubbles in the graphene liquid cell“, Kim, Q. H. ; Shin, D. ; Park, J. ; Weitz, D. A. ; Jhe, W. Appl. Nanosci. (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Macroscopic Self-Assembly: Versatile Hydrogel Ensembles with Macroscopic Multidimensions (Adv. Mater. 52/2018)“, Li, Q. ; Zhang, Y. – W. ; Wang, C. – F. ; Weitz, D. A. ; Chen, S. Adv. Mater., 30, 1870400 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Reduced Graphene Oxide Membrane Induced Robust Structural Colors toward Personal Thermal Management“, Zhu, Z. ; Zhang, J. ; Tong, Y. -long; Peng, G. ; Cui, T. ; Wang, C. – F. ; Chen, S. ; Weitz, D. A. ACS Photonics, 6, 116-122 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Topological aspects of jetting to dripping transition in step emulsifiers“, Montessori, A. ; Lauricella, M. ; Stolovicki, E. ; Weitz, D. ; Succi, S. Physics of Fluids, 31, 021703 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Versatile Hydrogel Ensembles with Macroscopic Multidimensions“, Li, Q. ; Zhang, Y. – W. ; Wang, C. – F. ; Weitz, D. A. ; Chen, S. Adv. Mater., 30, 1803475 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tumor-Vasculature-on-a-Chip for Investigating Nanoparticle Extravasation and Tumor Accumulation“, Wang, H. – F. ; Ran, R. ; Liu, Y. ; Hui, Y. ; Zeng, B. ; Chen, D. ; Weitz, D. A. ; Zhao, C. – X. ACS Nano, 12, 11600–11609 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Determining the Lipid Specificity of Insoluble Protein Transmembrane Domains“, Ziblat, R. ; Weaver, J. ; Arriaga, L. R. ; Chong, S. ; Weitz, D. A. Lab Chip, 18, 3561–3569 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Collective Shape Actuation of Polymer Double Emulsions by Solvent Evaporation“, Shi, W. ; Didier, J. E. ; Ingber, D. E. ; Weitz, D. A. ACS Applied Materials & Interfaces, 10, 31865–31869 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Wetting controls of droplet formation in step emulsification“, Eggersdorfer, M. L. ; Seybold, H. ; Ofner, A. ; Weitz, D. A. ; Studart, A. R. Proceedings of the National Academy of Sciences, 115, 9479–9484 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Evolution on the biophysical fitness landscape of an RNA virus“, Rotem, A. ; Serohijos, A. W. R. ; Chang, C. B. ; Wolfe, J. T. ; Fischer, A. E. ; Mehoke, T. S. ; Zhang, H. ; Tao, Y. ; Ung, W. L. ; Choi, J. – M. ; et al. Mol. Biol. Evol., 35, 2390–2400 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A Versatile Strategy to Fabricate 3D Conductive Frameworks for Lithium Metal Anodes“, Qi, L. – Y. ; Shang, L. ; Chen, X. ; Ye, L. ; Zhang, W. ; Feng, P. ; Zou, W. ; Cao, N. ; Zhou, H. – H. ; Weitz, D. A. ; et al. Adv. Mater. Interfaces, 5, 1800807 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamic Microcapsules with Rapid and Reversible Permeability Switching“, Werner, J. G. ; Deveney, B. T. ; Nawar, S. ; Weitz, D. A. Adv. Funct. Mater., 28, 1803385 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Elucidating the mechanism of step emulsification“, Montessori, A. ; Lauricella, M. ; Succi, S. ; Stolovicki, E. ; Weitz, D. Phys. Rev. Fluids, 3, 072202 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Hydrogel Microcapsules with Dynamic pH-Responsive Properties from Methacrylic Anhydride“, Werner, J. ; Nawar, S. ; Solovev, A. A. ; Weitz, D. A. Macromolecules, 51, 5798-5805 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic fabrication of microparticles for biomedical applications“, Li, W. ; Zhang, L. ; Ge, X. ; Xu, B. ; Zhang, W. ; Qu, L. ; Choi, C. – H. ; Xu, J. ; Zhang, A. ; Lee, H. ; et al. Chem. Soc. Rev., 15, 5646-5683 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Single-cell sequencing leads a new era of proﬁling transcriptomic landscape“, Zhang, H. ; Cui, N. ; Cai, Y. ; Lei, F. ; Weitz, D. A. Journal of Bio-X Research, 1, 2-6 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High-throughput double emulsion-based microfluidic production of hydrogel microspheres with tunable chemical functionalities toward biomolecular conjugation“, Liu, E. Y. ; Jung, S. ; Weitz, D. A. ; Yi, H. ; Choi, C. – H. Lab Chip, 18, 323–334 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Interaction of spin-labeled HPMA-based nanoparticles with human blood plasma proteins – the introduction of protein-corona-free polymer nanomedicine“, Klepac, D. ; Kostkova, H. ; Petrova, S. ; Chytil, P. ; Etrych, T. ; Kereiche, S. ; Raska, I. ; Weitz, D. A. ; Filippov, S. K. Nanoscale, 10, 6194–6204 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic Model Porous Media: Fabrication and Applications“, Anbari, A. ; Chien, H. – T. ; Datta, S. S. ; Deng, W. ; Weitz, D. A. ; Fan, J. Small, 14, 1703575 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rapid Patterning of PDMS Microfluidic Device Wettability Using Syringe-Vacuum-Induced Segmented Flow in Nonplanar Geometry“, Choi, C. – H. ; Lee, H. ; Weitz, D. A. ACS Appl. Mater. Interfaces, 10, 3170–3174 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tissue and cellular rigidity and mechanosensitive signaling activation in Alexander disease“, Wang, L. ; Xia, J. ; Li, J. ; Hagemann, T. L. ; Jones, J. R. ; Fraenkel, E. ; Weitz, D. A. ; Zhang, S. – C. ; Messing, A. ; Feany, M. B. Nat. Commun., 9, 1899 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic Templated Multicompartment Microgels for 3D Encapsulation and Pairing of Single Cells“, Zhang, L. ; Chen, K. ; Zhang, H. ; Pang, B. ; Choi, C. – H. ; Mao, A. S. ; Liao, H. ; Utech, S. ; Mooney, D. J. ; Wang, H. ; et al. Small, 14, 1-8 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Geometric constraints during epithelial jamming“, Atia, L. ; Bi, D. ; Sharma, Y. ; Mitchel, J. A. ; Gweon, B. ; Koehler, S. A. ; DeCamp, S. J. ; Lan, B. ; Kim, J. H. ; Hirsch, R. ; et al. Nature Physics, 14, 613–620 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Surfactant Variations in Porous Media Localize Capillary Instabilities during Haines Jumps“, Edery, Y. ; Berg, S. ; Weitz, D. Physical Review Letters, 120 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Gold nanorods conjugated porous silicon nanoparticles encapsulated in calcium alginate nano hydrogels using microemulsion templates“, Zhang, H. ; Zhu, Y. ; Qu, L. ; Wu, H. ; Kong, H. ; Yang, Z. ; Chen, D. ; Mäkilä, E. ; Salonen, J. ; Santos, H. A. ; et al. Nano Letters, 18, 1448-1453 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Regularized lattice Boltzmann multicomponent models for low capillary and Reynolds microfluidics flows“, Montessori, A. ; Lauricella, M. ; La Rocca, M. ; Succi, S. ; Stolovicki, E. ; Zibalt, R. ; Weitz, D. Computers & Fluids, 167, 33-39 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Throughput enhancement of parallel step emulsifier devices by shear-free and efficient nozzle clearance“, Stolovicki, E. ; Ziblat, R. ; Weitz, D. A. Lab on a Chip, 18, 132-138 (2018).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Reply to the ‘Comment on “Robust Scalable High Throughput Production of Monodisperse Drops“, Amstad, E. ; Weitz, D. A. Lab on a Chip, 17, 2332-2333 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Correction: Double-emulsion drops with ultra-thin shells for capsule templates“, Kim, S. – H. ; Kim, J. W. ; Cho, J. – C. ; Weitz, D. A. Lab on a Chip, 17, 567 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tracking the Structural Deformation of a Sheared Biopolymer Network“, Jawerth, L. M. ; Weitz, D. A. Functional Analysis, Harmonic Analysis, and Image Processing: A Collection of Papers in Honor of Björn Jawerth, 693, 255-269 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Axial Confocal Tomography of Capillary-Contained Colloidal Structures“, Liber, S. R. ; Indech, G. ; van der Wee, E. B. ; Butenko, A. V. ; Kodger, T. E. ; Lu, P. J. ; Schofield, A. B. ; Weitz, D. A. ; van Blaaderen, A. ; Sloutskin, E. Langmuir, 33, 13343–13349 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Biocompatible Amphiphilic Hydrogel–Solid Dimer Particles as Colloidal Surfactants“, Chen, D. ; Amstad, E. ; Zhao, C. – X. ; Cai, L. ; Fan, J. ; Chen, Q. ; Hai, M. ; Koehler, S. ; Zhang, H. ; Liang, F. ; et al. ACS Nano, 11, 11978–11985 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Bioinspired graphene membrane with temperature tunable channels for water gating and molecular separation“, Liu, J. ; Wang, N. ; Yu, L. – J. ; Karton, A. ; Li, W. ; Zhang, W. ; Guo, F. ; Hou, L. ; Cheng, Q. ; Jiang, L. ; et al. Nat. Commun., 8, 2011 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Cell volume change through water efflux impacts cell stiffness and stem cell fate“, Guo, M. ; Pegoraro, A. F. ; Mao, A. ; Zhou, E. H. ; Arany, P. R. ; Han, Y. ; Burnette, D. T. ; Jensen, M. H. ; Kasza, K. E. ; Moore, J. R. ; et al. Proc. Natl. Acad. Sci. U.S.A., 201705179 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlled self-assembly of alginate microgels by rapidly binding molecule pairs“, Hu, Y. ; Mao, A. S. ; Desai, R. M. ; Wang, H. ; Weitz, D. A. ; Mooney, D. J. Lab Chip, 17, 2481–2490 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Deterministic encapsulation of single cells in thin tunable microgels for niche modelling and therapeutic delivery“, Mao, A. S. ; Shin, J. – W. ; Utech, S. ; Wang, H. ; Uzun, O. ; Li, W. ; Cooper, M. ; Hu, Y. ; Zhang, L. ; Weitz, D. A. ; et al. Nat. Mater., 16, 236–243 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dispersing hydrophobic natural colourant β-carotene in shellac particles for enhanced stability and tunable colour“, Chen, D. ; Zhao, C. – X. ; Lagoin, C. ; Hai, M. ; Arriaga, L. R. ; Koehler, S. ; Abbaspourrad, A. ; Weitz, D. A. R. Soc. Open Sci., 4, 170919 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Drying regimes in homogeneous porous media from macro- to nanoscale“, Thiery, J. ; Rodts, S. ; Weitz, D. A. ; Coussot, P. Phys. Rev. Fluids, 2, 074201 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Massively parallel single-nucleus RNA-seq with DroNc-seq“, Habib, N. ; Avraham-Davidi, I. ; Basu, A. ; Burks, T. ; Shekhar, K. ; Hofree, M. ; Choudhury, S. R. ; Aguet, F. ; Gelfand, E. ; Ardlie, K. ; et al. Nat. Methods, 14, 955 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Multistage Transformation and Lattice Fluctuation at AgCl–Ag Interface“, Du, J. S. ; Park, J. ; Kim, Q. H. ; Jhe, W. ; Dravid, V. P. ; Yang, D. ; Weitz, D. A. J. Phys. Chem. Lett., 8, 5853–5860 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Optically reconfigurable chiral microspheres of self-organized helical superstructures with handedness inversion“, Wang, L. ; Chen, D. ; Gutierrez-Cuevas, K. G. ; Bisoyi, H. K. ; Fan, J. ; Zola, R. S. ; Li, G. ; Urbas, A. M. ; Bunning, T. J. ; Weitz, D. A. ; et al. Mater. Horiz., 4, 1190–1195 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Perspective on droplet-based single-cell sequencing“, Weitz, D. A. Lab Chip, 17, 2539 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Polymer Phase Separation in a Microcapsule Shell“, Shi, W. ; Weitz, D. A. Macromolecules, 50, 7681–7686 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Robust mechanobiological behavior emerges in heterogeneous myosin systems“, Egan, P. F. ; Moore, J. R. ; Ehrlicher, A. J. ; Weitz, D. A. ; Schunn, C. ; Cagan, J. ; LeDuc, P. Proc. Natl. Acad. Sci. U.S.A., 114, E8147-E8154 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Local Pore Size Correlations Determine Flow Distributions in Porous Media“, Alim, K. ; Parsa, S. ; Weitz, D. A. ; Brenner, M. P. Physical Review Letters, 119, 144501 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fabrication of Calcium Phosphate-Based Nanocomposites Incorporating DNA Origami, Gold Nanorods, and Anticancer drugs for Biomedical Applications“, Zhang, H. ; Qu, X. ; Chen, H. ; Kong, H. ; Ding, R. ; Chen, D. ; Zhang, X. ; Pei, H. ; Santos, H. A. ; Hai, M. ; et al. Advanced Healthcare Materials, 6, 1700664 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tough Self-Healing Elastomers by Molecular Enforced Integration of Covalent and Reversible Networks“, Wu, J. ; Cai, L. – H. ; Weitz, D. A. Advanced Materials, 29, 1702616 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Mechanical Properties of the Cytoskeleton and Cells“, Pegoraro, A. F. ; Janmey, P. ; Weitz, D. A. Cold Spring Harbor-Perspectives in Biology, 9, 1-12 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Enhanced Surface Acoustic Wave Cell Sorting by 3D Microfluidic-Chip Design“, Ung, W. L. ; Mutafopulos, K. ; Spink, P. ; Rambach, R. W. ; Franke, T. ; Weitz, D. A. Lab on a Chip, 17, 4059-4069 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Triple Junction at the Triple Point Resolved on the Individual Particle Level“, Chaudhuri, M. ; Allahyarov, E. ; Löwen, H. ; Egelhaaf, S. U. ; Weitz, D. A. Phys. Rev. Lett., 119, 128001 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlled Generation of Ultrathin-Shell Double Emulsions and Studies on Their Stability“, Zhao, C. – X. ; Chen, D. ; Hui, Y. ; Weitz, D. A. ; Middelberg, A. P. J. ChemPhysChem, 18, 1393–1399 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Physical limits to biomechanical sensing in disordered fibre networks.“, Beroz, F. ; Jawerth, L. M. ; Münster, S. ; Weitz, D. A. ; Broedersz, C. P. ; Wingreen, N. S. Nature communications, 8, 16096 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Biocompatible microcapsules with a water core templated from single emulsions“, Kong, L. ; Amstad, E. ; Hai, M. ; Ke, X. ; Chen, D. ; Zhao, C. – X. ; Weitz, D. A. Chinese Chemical Letters, 28, 1897-1900 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Creation of Faceted Polyhedral Microgels from Compressed Emulsions“, Fan, J. ; Kim, S. – H. ; Chen, Z. ; Zhou, S. ; Amstad, E. ; Lin, T. ; Weitz, D. A. Small, 13, 1701256 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Osmotic Pressure Triggered Rapid Release of Encapsulated Enzymes with Enhanced Activity“, Zhang, W. ; Abbaspourrad, A. ; Chen, D. ; Campbell, E. ; Zhao, H. ; Li, Y. ; Li, Q. ; Weitz, D. A. Advanced Functional Materials, 27, 1700975 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Parallelization of microfluidic flow-focusing devices“, Amstad, E. ; Chen, X. ; Eggersdorfer, M. ; Cohen, N. ; Kodger, T. E. ; Ren, C. L. ; Weitz, D. A. Physical Review E, 95, 043105 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stable, fluorescent PMMA particles for long-term observation of slow colloidal dynamics“, Kodger, T. E. ; Lu, P. J. ; Wiseman, G. R. ; Weitz, D. A. Langmuir, 33, 6382–6389 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Efficient extraction of oil from droplet microfluidic emulsions“, Haliburton, J. R. ; Kim, S. C. ; Clark, I. C. ; Sperling, R. A. ; Weitz, D. A. ; Abate, A. R. Biomicrofluidics, 11, 034111 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Scaling by shrinking: empowering single-cell’omics’ with microfluidic devices“, Prakadan, S. M. ; Shalek, A. K. ; Weitz, D. A. Nature Reviews Genetics, 18, 345–361 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Ultrafast Nanofiltration through Large-Area Single-layered Graphene Membranes“, Qin, Y. ; Hu, Y. ; Koehler, S. A. ; Cai, L. ; Wen, J. ; Tan, X. ; Xu, W. L. ; Sheng, Q. ; Hou, X. ; Xue, J. ; et al. ACS Applied Materials & Interfaces, 9, 9239–9244 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Preparation of microparticles through co-flowing of partially miscible liquids“, He, Y. ; Battat, S. ; Fan, J. ; Abbaspourrad, A. ; Weitz, D. A. Chemical Engineering Journal, 320, 144-150 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rapid Production of Submicron Drug Substance Particles by Supersonic Spray Drying“, Eggersdorfer, M. L. ; Koren, V. ; Stolovicki, E. ; Amstad, E. ; Weitz, D. A. Crystal Growth & Design, 17, 2046–2053 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “An Intestinal Organ Culture System Uncovers a Role for the Nervous System in Microbe-Immune Crosstalk“, Yissachar, N. ; Zhou, Y. ; Ung, L. ; Lai, N. Y. ; Mohan, J. F. ; Ehrlicher, A. ; Weitz, D. A. ; Kasper, D. L. ; Chiu, I. M. ; Mathis, D. ; et al. Cell, 168, 1135–1148 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Convection Driven Pull-Down Assays in Nanoliter Droplets using Scaffolded Aptamers“, Qu, X. ; Zhang, H. ; Chen, H. ; Aldalbahi, A. ; Li, L. ; Tian, Y. ; Weitz, D. A. ; Pei, H. Analytical Chemistry, 89, 3468–3473 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Direct Observation of Entropic Stabilization of bcc Crystals Near Melting“, Sprakel, J. ; Zaccone, A. ; Spaepen, F. ; Schall, P. ; Weitz, D. A. Physical Review Letters, 118, 088003 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Functional Microcapsules via Thiol- Ene Photopolymerization in Droplet-Based Microfluidics“, Amato, D. V. ; Lee, H. ; Werner, J. G. ; Weitz, D. A. ; Patton, D. L. ACS applied materials & interfaces, 9, 3288–3293 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “An RNA-based signature enables high specificity detection of circulating tumor cells in hepatocellular carcinoma“, Kalinich, M. ; Bhan, I. ; Kwan, T. T. ; Miyamoto, D. T. ; Javaid, S. ; LiCausi, J. A. ; Milner, J. D. ; Hong, X. ; Goyal, L. ; Sil, S. ; et al. Proceedings of the National Academy of Sciences, 114, 1123-1128 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The microfluidic nebulator: production of sub-micrometer sized airborne drops“, Amstad, E. ; Spaepen, F. ; Brenner, M. P. ; Weitz, D. A. Lab on a Chip, 17, 1475-1480 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Collective generation of milliemulsions by step-emulsification“, Huang, X. ; Eggersdorfer, M. ; Wu, J. ; Zhao, C. – X. ; Xu, Z. ; Chen, D. ; Weitz, D. A. RSC Advances, 7, 14932–14938 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Sensitive and predictable separation of microfluidic droplets by size using in-line passive filter“, Ding, R. ; 丁睿骅, ; Ung, W. L. ; Heyman, J. A. ; Weitz, D. A. Biomicrofluidics, 11, 014114 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tandem emulsification for high-throughput production of double emulsions“, Eggersdorfer, M. L. ; Zheng, W. ; Nawar, S. ; Mercandetti, C. ; Ofner, A. ; Leibacher, I. ; Koehler, S. ; Weitz, D. A. Lab on a Chip, 17, 936–942 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic Fabrication of Colloidal Nanomaterials-encapsulated Microcapsules for Biomolecular Sensing“, Xie, X. ; Zhang, W. ; Abbaspourrad, A. ; Ahn, J. ; Bader, A. ; Bose, S. ; Vegas, A. ; Lin, J. ; Tao, J. ; Hang, T. ; et al. Nano Letters, 17, 2015–2020 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Core/Shell Nanocomposites Produced by Superfast Sequential Microfluidic Nanoprecipitation“, Liu, D. ; Zhang, H. ; Cito, S. ; Fan, J. ; Mäkilä, E. M. ; Salonen, J. J. ; Hirvonen, J. ; Sikanen, T. M. ; Weitz, D. A. ; Santos, H. A. Nano Letters, 17, 606–614 (2017).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Versatile, cell and chip friendly method to gel alginate in microfluidic devices“, Hati, A. G. ; Bassett, D. C. ; Ribe, J. M. ; Sikorski, P. ; Weitz, D. A. ; Stokke, B. T. Lab on a Chip, 16, 3718-3727 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Water retention against drying with soft-particle suspensions in porous media“, Keita, E. ; Kodger, T. E. ; Faure, P. ; Rodts, S. ; Weitz, D. A. ; Coussot, P. Physical Review E, 94, 033104 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “One-pot system for synthesis, assembly, and display of functional single-span membrane proteins on oil–water interfaces“, Yunker, P. J. ; Asahara, H. ; Hung, K. – C. ; Landry, C. ; Arriaga, L. R. ; Akartuna, I. ; Heyman, J. ; Chong, S. ; Weitz, D. A. Proceedings of the National Academy of Sciences, 113, 608–613 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stable Ultrathin-Shell Double Emulsions for Controlled Release“, Zhao, C. – X. ; Chen, D. ; Hui, Y. ; Weitz, D. A. ; Middelberg, A. P. J. ChemPhysChem, 17, 1553–1556 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Composite alginate gels for tunable cellular microenvironment mechanics“, Khavari, A. ; Nydén, M. ; Weitz, D. A. ; Ehrlicher, A. J. Scientific reports, 6, 30854 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High-Throughput Step Emulsification for the Production of Functional Materials Using a Glass Microfluidic Device“, Ofner, A. ; Moore, D. G. ; Rühs, P. A. ; Schwendimann, P. ; Eggersdorfer, M. ; Amstad, E. ; Weitz, D. A. ; Studart, A. R. Macromolecular Chemistry and Physics, 218, 1600472 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Imaging grain boundary grooves in hard-sphere colloidal bicrystals“, Maire, E. ; Redston, E. ; Persson Gulda, M. ; Weitz, D. A. ; Spaepen, F. Phys. Rev. E, 94, 042604 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “One-Step Microfluidic Fabrication of Polyelectrolyte Microcapsules in Aqueous Conditions for Protein Release“, Zhang, L. ; Cai, L. – H. ; Lienemann, P. S. ; Rossow, T. ; Polenz, I. ; Vallmajo-Martin, Q. ; Ehrbar, M. ; Na, H. ; Mooney, D. J. ; Weitz, D. A. Angewandte Chemie, 55, 13470-13474 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Robust scalable high throughput production of monodisperse drops“, Amstad, E. ; Chemama, M. ; Eggersdorfer, M. ; Arriaga, L. R. ; Brenner, M. P. ; Weitz, D. A. Lab on a Chip, 16, 4163-4172 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamic sound scattering: Field fluctuation spectroscopy with singly scattered ultrasound in the near and far fields“, Cowan, M. L. ; Page, J. H. ; Norisuye, T. ; Weitz, D. A. The Journal of the Acoustical Society of America, 140, 1992 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Clogging in parallelized tapered microfluidic channels“, Massenburg, S. S. ; Amstad, E. ; Weitz, D. A. Microfluidics and Nanofluidics, 20, 1–5 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fluctuations in the Kinetics of Linear Protein Self-Assembly“, Michaels, T. C. T. ; Dear, A. J. ; Kirkegaard, J. B. ; Saar, K. L. ; Weitz, D. A. ; Knowles, T. P. J. Physical Review Letters, 116, 258103 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stabilization of the Amorphous Structure of Spray-dried Drug Nanoparticles“, Amstad, E. ; Spaepen, F. A. ; Weitz, D. A. The Journal of Physical Chemistry B, 120, 9161–9165 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fluorocarbon Oil Reinforced Triple Emulsion Drops“, Lee, H. ; Choi, C. – H. ; Abbaspourrad, A. ; Wesner, C. ; Caggioni, M. ; Zhu, T. ; Nawar, S. ; Weitz, D. A. Advanced Materials, 28, 8425-8430 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Droplet microfluidics: A tool for biology, chemistry and nanotechnology“, Mashagi, S.; Abbaspourrad, A.; Weitz, D. A.; van Oijen, A.M. TrAC, 82, 118-125 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Optimization and development of a universal flow-based microfluidic gradient generator“, Xu, Z.; Huang, X.; Wang, P.; Wang, H.; Weitz, D.A. Microfluidics and Nanofluidics, 20, 89 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic Fabrication of Pluronic Vesicles with Controlled Permeability“, do Nascimento, D.F.; Arriaga, L.A.; Eggersdorfer, M.; Ziblat, R.; Marques, M. de F.V.; Reynaud, F.; Koehler, S.A.; Weitz, D. A. Langmuir, 32, 5350-5355 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Clonal evolution in patients with chronic lymphocytic leukaemia developing resistance to BTK inhibition“, Burger, J.A.; Landau, D.A.; Taylor-Weiner, A.; Bozic, I.; Zhang, H.; Sarosiek, K.; Wang, L.; Stewart, C.; Fan, J.; Hoellenriegel, J.; Sivina, M.; Dubuc, A.M.; Fraser, C.; Han, Y.; Li, S.; Livak, K.J.; Zou, L.; Wan, Y.; Konoplev, S.; Sougnez, C.; Brown, J.R.; Abruzzo, L.V.; Carter, S.L.; Keating, M.J.; Davids, M.S.; Wierda, W.G.; Cibulskik, K.; Zenz, T.; Werner, L.; Cin, P.D.; Kharchencko, P.; Neuberg, D.; Kantarjian, H.; Lander, E.; Gabriel, S.; O’Brien, S.; Letai, A.; Weitz, D.A.; Nowak, M.A.; Getz, G.; Wu, C.J. Nature Communications, 7, 11589 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “One-step generation of cell-laden microgels using double emulsion drops with a sacrificial ultra-thin oil shell“, Choi, C.-H.; Wang, H.; Lee, H.; Kim, J.H.; Zhang, L.; Mao, A.; Mooney, D.J.; Weitz, D.A. Lab Chip, 16, 1549-1555 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Triple Emulsion Drops with An Ultrathin Water Layer: High Encapsulation Efficiency and Enhanced Cargo Retention in Microcapsules“, Choi, C. – H. ; Lee, H. ; Abbaspourrad, A. ; Kim, J. H. ; Fan, J. ; Caggioni, M. ; Wesner, C. ; Zhu, T. ; Weitz, D. A. Advanced Materials, 28, 3340–3344 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlled Assembly of Heterotypic cells in a Core-Shell Scaffold: Organ in a Droplet“, Chen, Q. ; Utech, S. ; Chen, D. ; Prodanovic, R. M. ; Lin, J. – M. ; Weitz, D. A. Lab on a Chip, 16, 1346-1349 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Injectable Stem Cell-Laden Photocrosslinkable Microspheres Fabricated Using Microfluidics for Rapid Generation of Osteogenic Tissue Constructs“, Zhao, X. ; Liu, S. ; Yildirimer, L. ; Zhao, H. ; Ding, R. ; Wang, H. ; Cui, W. ; Weitz, D. Advanced Functional Materials, 26 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A mix-and-read drop-based in vitro two-hybrid method for screening high-affinity peptide binders“, Cui, N. ; Zhang, H. ; Schneider, N. ; Tao, Y. ; Asahara, H. ; Sun, Z. ; Cai, Y. ; Koehler, S. A. ; de Greef, T. F. A. ; Abbaspourrad, A. ; et al. Scientific reports, 6, 22575 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Chapter Fourteen – Methods for Determining the Cellular Functions of Vimentin Intermediate Filaments“, Ridge, K. M. ; Shumaker, D. ; Robert, A. ; Hookway, C. ; Gelfand, V. I. ; Janmey, P. A. ; Lowery, J. ; Guo, M. ; Weitz, D. A. ; Kuczmarski, E. ; et al. Intermediate Filament Proteins, 568, 389 – 426 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Drying kinetics driven by the shape of the air/water interface in a capillary channel“, Keita, E. ; Koehler, S. A. ; Faure, P. ; Weitz, D. A. ; Coussot, P. The European Physical Journal E, 39, 23 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Encapsulation and Enhanced Retention of Fragrance in Polymer Microcapsules“, Lee, H. ; Choi, C. – H. ; Abbaspourrad, A. ; Wesner, C. ; Caggioni, M. ; Zhu, T. ; Weitz, D. A. ACS Applied Materials & Interfaces, 8, 4007-4013 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Hydrothermal Synthesis and Properties of Hierarchical ZnO and Eu-doped ZnO 3D Structures“, Verissimo, C. ; Abbaspourrad, A. ; Sunter, K. ; Capasso, F. ; Moshkalev, S. ; Weitz, D. une, 13, 15 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Massively parallel sequencing of single cells by epicPCR links functional genes with phylogenetic markers“, Spencer, S. J. ; Tamminen, M. V. ; Preheim, S. P. ; Guo, M. T. ; Briggs, A. W. ; Brito, I. L. ; Weitz, D. A. ; Pitkanen, L. K. ; Vigneault, F. ; Virta, M. P. J. ; et al. ISME JOURNAL, 10, 427-436 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Biocompatible fluorinated polyglycerols for droplet microfluidics as an alternative to PEG-based copolymer surfactants“, Wagner, O. ; Thiele, J. ; Weinhart, M. ; Mazutis, L. ; Weitz, D. A. ; Huck, W. T. S. ; Haag, R. Lab on a Chip, 16, 65–69 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Efficient nematode swimming in a shear thinning colloidal suspension“, Park, J. – S. ; Kim, D. ; Shin, J. H. ; Weitz, D. A. Soft Matter, 12, 1892-1897 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Zinc promotes clot stability by accelerating clot formation and modifying fibrin structure“, Henderson, S. J. ; Xia, J. ; Wu, H. ; Stafford, A. R. ; Leslie, B. A. ; Fredenburgh, J. C. ; Weitz, D. A. ; Weitz, J. I. ; others. Thrombosis and haemostasis, 115, 533-542 (2016).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The Oxford Handbook of Soft Condensed Matter“, Terentjev, E. M. ; Weitz, D. A. Ed. Oxford University Press, 640 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Collective motion of mammalian cell cohorts in 3D“, Sharma, Y. ; Vargas, D. A. ; Pegoraro, A. F. ; Lepzelter, D. ; Weitz, D. A. ; Zaman, M. H. Integrative Biology, 7, 1526–1533 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Crystallization of undercooled liquid fenofibrate“, Amstad, E. ; Spaepen, F. ; Weitz, D. A. Physical Chemistry Chemical Physics, 17, 30158–30161 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Single-cell ChIP-seq reveals cell subpopulations defined by chromatin state“, Rotem, A. ; Ram, O. ; Shoresh, N. ; Sperling, R. A. ; Goren, A. ; Weitz, D. A. ; Bernstein, B. E. Nature biotechnology, 33, 1165–1172 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Color from hierarchy: Diverse optical properties of micron-sized spherical colloidal assemblies“, Vogel, N. ; Utech, S. ; England, G. T. ; Shirman, T. ; Phillips, K. R. ; Koay, N. ; Burgess, I. B. ; Kolle, M. ; Weitz, D. A. ; Aizenberg, J. Proceedings of the National Academy of Sciences, 112, 10845–10850 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Isolation and analysis of rare norovirus recombinants from co-infected mice using drop-based microfluidics“, Zhang, H. ; Cockrell, S. K. ; Kolawole, A. O. ; Rotem, A. ; Serohijos, A. W. R. ; Chang, C. B. ; Tao, Y. ; Mehoke, T. S. ; Han, Y. ; Lin, J. S. ; et al. Journal of virology, JVI–01137 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Label-free single-cell protein quantification using a drop-based mix-and-read system“, Abbaspourrad, A. ; Zhang, H. ; Tao, Y. ; Cui, N. ; Asahara, H. ; Zhou, Y. ; Yue, D. ; Koehler, S. A. ; Ung, W. L. ; Heyman, J. ; et al. Scientific reports, 5, 12756 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic Generation of Monodisperse, Structurally Homogeneous Alginate Microgels for Cell Encapsulation and 3D Cell Culture“, Utech, S. ; Prodanovic, R. ; Mao, A. S. ; Ostafe, R. ; Mooney, D. J. ; Weitz, D. A. Advanced healthcare materials, 4, 1628–1633 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic Production of Alginate Hydrogel Particles for Antibody Encapsulation and Release“, Mazutis, L. ; Vasiliauskas, R. ; Weitz, D. A. Macromolecular Bioscience, 15, 1641-1646 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Monodisperse Emulsion Drop Microenvironments for Bacterial Biofilm Growth“, Chang, C. B. ; Wilking, J. N. ; Kim, S. – H. ; Shum, H. C. ; Weitz, D. A. Small, 11, 3954–3961 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Perfluoroalkyl-Functionalized Hyperbranched Polyglycerol as Pore Forming Agents and Supramolecular Hosts in Polymer Microspheres“, Wagner, O. ; Zieringer, M. ; Duncanson, W. J. ; Weitz, D. A. ; Haag, R. International journal of molecular sciences, 16, 20183–20194 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rapid, targeted and culture-free viral infectivity assay in drop-based microfluidics“, Tao, Y. ; Rotem, A. ; Zhang, H. ; Chang, C. B. ; Basu, A. ; Kolawole, A. O. ; Koehler, S. A. ; Ren, Y. ; Lin, J. S. ; Pipas, J. M. ; et al. Lab on a Chip, 15, 3934–3940 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Scalable single-step microfluidic production of single-core double emulsions with ultra-thin shells“, Arriaga, L. R. ; Amstad, E. ; Weitz, D. A. Lab on a Chip, 15, 3335–3340 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Unjamming and cell shape in the asthmatic airway epithelium“, Park, J. – A. ; Kim, J. H. ; Bi, D. ; Mitchel, J. A. ; Qazvini, N. T. ; Tantisira, K. ; Park, C. Y. ; McGill, M. ; Kim, S. – H. ; Gweon, B. ; et al. Nature materials, 14, 1040–1048 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Whole-Genome Sequencing of a Single Viral Species from a Highly Heterogeneous Sample“, Han, H. – S. ; Cantalupo, P. G. ; Rotem, A. ; Cockrell, S. K. ; Carbonnaux, M. ; Pipas, J. M. ; Weitz, D. A. Angewandte Chemie, 54, 13985-13988 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Artifact-Free Quantification and Sequencing of Rare Recombinant Viruses by Using Drop-Based Microfluidics“, Tao, Y. ; Rotem, A. ; Zhang, H. ; Cockrell, S. K. ; Koehler, S. A. ; Chang, C. B. ; Ung, W. L. ; Cantalupo, P. G. ; Ren, Y. ; Lin, J. S. ; et al. ChemBioChem, 16, 2167-2171 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stress controls the mechanics of collagen networks“, Licup, A. J. ; Münster, S. ; Sharma, A. ; Sheinman, M. ; Jawerth, L. M. ; Fabry, B. ; Weitz, D. A. ; Mackintosh, F. C. Proceedings of the National Academy of Sciences, 112, 9573-9578 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Production of amorphous nanoparticles by supersonic spray-drying with a microfluidic nebulator“, Amstad, E. ; Gopinadhan, M. ; Holtze, C. ; Osuji, C. O. ; Brenner, M. P. ; Spaepen, F. ; Weitz, D. A. Science, 349, 956-960 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Soft Poly(dimethylsiloxane) Elastomers from Architecture-Driven Entanglement Free Design“, Cai, L. – H. ; Kodger, T. E. ; Guerra, R. E. ; Pegoraro, A. F. ; Rubinstein, M. ; Weitz, D. A. Advanced Materials, 27, 5132-5140 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic Fabrication and Micromechanics of Permeable and Impermeable Elastomeric Microbubbles“, Duncanson, W. J. ; Kodger, T. E. ; Babaee, S. ; Gonzalez, G. ; Weitz, D. A. ; Bertoldi, K. Langmuir, 31, 3489-3493 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “3D structure of individual nanocrystals in solution by electron microscopy“, Park, J. ; Elmlund, H. ; Ercius, P. ; Yuk, J. M. ; Limmer, D. T. ; Chen, Q. ; Kim, K. ; Han, S. H. ; Weitz, D. A. ; Zettl, A. ; et al. Science, 349, 290-295 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Direct Observation of Wet Biological Samples by Graphene Liquid Cell Transmission Electron Microscopy“, Park, J. ; Park, H. ; Ercius, P. ; Pegoraro, A. F. ; Xu, C. ; Kim, J. W. ; Han, S. H. ; Weitz, D. A. Nano Letters, 15, 4737-4744 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High-Throughput Single-Cell Labeling (Hi-SCL) for RNA-Seq Using Drop-Based Microfluidics“, Rotem, A. ; Ram, O. ; Shoresh, N. ; Sperling, R. A. ; Schnall-Levin, M. ; Zhang, H. ; Basu, A. ; Bernstein, B. E. ; Weitz, D. A. PLoS ONE, 10, e0116328 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Mechanics and dynamics of reconstituted cytoskeletal systems“, Jensen, M. H. ; Morris, E. J. ; Weitz, D. A. Biochimica et Biophysica Acta (BBA) – Molecular Cell Research, 1853, 3038-3042 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Membrane-Integrated Glass Capillary Device for Preparing Small-Sized Water-in-Oil-in-Water Emulsion Droplets“, Akamatsu, K. ; Kanasugi, S. ; Nakao, S. -ichi; Weitz, D. A. Langmuir, 31, 7166-7172 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Inhibition of Multidrug Resistance of Cancer Cells by Co-Delivery of DNA Nanostructures and Drugs Using Porous Silicon Nanoparticles@Giant Liposomes“, Kong, F. ; Zhang, X. ; Zhang, H. ; Qu, X. ; Chen, D. ; Servos, M. ; Mäkilä, E. ; Salonen, J. ; Santos, H. A. ; Hai, M. ; et al. Advanced Functional Materials, 25, 3330–3340 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Activity-driven fluctuations in living cells“, Fodor, É. ; Guo, M. ; Gov, N. S. ; Visco, P. ; Weitz, D. A. ; van Wijland, F. EPL (Europhysics Letters), 110, 48005 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Alpha-actinin binding kinetics modulate cellular dynamics and force generation“, Ehrlicher, A. J. ; Krishnan, R. ; Guo, M. ; Bidan, C. M. ; Weitz, D. A. ; Pollak, M. R. Proceedings of the National Academy of Sciences, 112, 6619-6624 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Hybrid Microgels with Thermo-Tunable Elasticity for Controllable Cell Confinement“, Hackelbusch, S. ; Rossow, T. ; Steinhilber, D. ; Weitz, D. A. ; Seiffert, S. Advanced Healthcare Materials, 4, 1841-1848 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Structure and Strength of Flocs of Precipitated Calcium Carbonate Induced by Various Polymers Used in Papermaking“, Gaudreault, R. ; Di Cesare, N. ; van de Ven, T. G. M. ; Weitz, D. A. Industrial & Engineering Chemistry Research, 54, 6234-6246 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Droplet Barcoding for Single-Cell Transcriptomics Applied to Embryonic Stem Cells“, Klein, A. M. ; Mazutis, L. ; Akartuna, I. ; Tallapragada, N. ; Veres, A. ; Li, V. ; Peshkin, L. ; Weitz, D. A. ; Kirschner, M. W. Cell, 161, 1187 – 1201 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Highly Parallel Genome-wide Expression Profiling of Individual Cells Using Nanoliter Droplets“, Macosko, E. Z. ; Basu, A. ; Satija, R. ; Nemesh, J. ; Shekhar, K. ; Goldman, M. ; Tirosh, I. ; Bialas, A. R. ; Kamitaki, N. ; Martersteck, E. M. ; et al. Cell, 161, 1202 – 1214 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Control of Emergent Properties at a Correlated Oxide Interface with Graphene“, Zhou, Y. ; Park, J. ; Shi, J. ; Chhowalla, M. ; Park, H. ; Weitz, D. A. ; Ramanathan, S. Nano Letters, 15, 1627-1634 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Anisotropic elasticity of experimental colloidal Wigner crystals“, Russell, E. R. ; Spaepen, F. ; Weitz, D. A. Phys. Rev. E, 91, 032310 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Colloidal Polymers with Controlled Sequence and Branching Constructed from Magnetic Field Assembled Nanoparticles“, Bannwarth, M. B. ; Utech, S. ; Ebert, S. ; Weitz, D. A. ; Crespy, D. ; Landfester, K. ACS Nano, 9, 2720-2728 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Crystallization and reentrant melting of charged colloids in nonpolar solvents“, Kanai, T. ; Boon, N. ; Lu, P. J. ; Sloutskin, E. ; Schofield, A. B. ; Smallenburg, F. ; van Roij, R. ; Dijkstra, M. ; Weitz, D. A. Phys. Rev. E, 91, 030301 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Graphene-templated directional growth of an inorganic nanowire“, Lee, W. C. ; Kim, K. ; Park, J. ; Koo, J. ; Jeong, H. Y. ; Lee, H. ; Weitz, D. A. ; Zettl, A. ; Takeuchi, S. Nature Nanotechnology, 10, 423-428 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A high-throughput drop microfluidic system for virus culture and analysis“, Fischer, A. E. ; Wu, S. K. ; Proescher, J. B. G. ; Rotem, A. ; Chang, C. B. ; Zhang, H. ; Tao, Y. ; Mehoke, T. S. ; Thielen, P. M. ; Kolawole, A. O. ; et al. Journal of Virological Methods, 213, 111-117 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Intermediate filament mechanics in vitro and in the cell: from coiled coils to filaments, fibers and networks“, Köster, S. ; Weitz, D. A. ; Goldman, R. D. ; Aebi, U. ; Herrmann, H. Current Opinion in Cell Biology, 32, 82-91 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Emergent properties of composite semiflexible biopolymer networks“, Jensen, M. H. ; Morris, E. J. ; Goldman, R. D. ; Weitz, D. A. BioArchitecture, 4, 138-143 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microcapsules for Enhanced Cargo Retention and Diversity“, Zieringer, M. A. ; Carroll, N. J. ; Abbaspourrad, A. ; Koehler, S. A. ; Weitz, D. A. Small, 11, 2903-2909 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Polyurea Microcapsules in Microfluidics: Surfactant Control of Soft Membranes“, Polenz, I. ; Weitz, D. A. ; Baret, J. – C. Langmuir, 31, 1127–1134 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Chemically induced coalescence in droplet-based microfluidics“, Akartuna, I. ; Aubrecht, D. M. ; Kodger, T. E. ; Weitz, D. A. Lab Chip, 15, 1140-1144 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Protein Microgels from Amyloid Fibril Networks“, Shimanovich, U. ; Efimov, I. ; Mason, T. O. ; Flagmeier, P. ; Buell, A. K. ; Gedanken, A. ; Linse, S. ; Åkerfeldt, K. S. ; Dobson, C. M. ; Weitz, D. A. ; et al. ACS Nano, 9, 43–51 (2015).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Light-Directing Omnidirectional Circularly Polarized Reflection from Liquid-Crystal Droplets“, Fan, J. ; Li, Y. ; Bisoyi, H. K. ; Zola, R. S. ; Yang, Deng-ke, B. T. J. W. D. A. L. Q. Angewandte Chemie International Edition, 54, 2160-2164 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Osmotic-pressure-controlled concentration of colloidal particles in thin-shelled capsules“, Kim, S. – H. ; Park, J. – G. ; Choi, T. M. ; Manoharan, V. N. ; Weitz, D. A. Nature communications, 5, 3068 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Reply to the ‘Comment on “Wetting-induced formation of controllable monodisperse multiple emulsions in microfluidics”’by J. Guzowski and P. Garstecki, Lab Chip, 2014, 14, DOI: 10.1039/C3LC51229K“, Deng, N. – N. ; Wang, W. ; Ju, X. – J. ; Xie, R. ; Weitz, D. A. ; Chu, L. – Y. Lab on a Chip, 14, 1479–1480 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Platelet bioreactor-on-a-chip“, Thon, J. N. ; Mazutis, L. ; Wu, S. ; Sylman, J. L. ; Ehrlicher, A. ; Machlus, K. R. ; Feng, Q. ; Lu, S. ; Lanza, R. ; Neeves, K. B. ; et al. Blood, 124, 1857–1867 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Sorting drops and cells with acoustics: acoustic microfluidic fluorescence-activated cell sorter“, Schmid, L. ; Weitz, D. A. ; Franke, T. Lab Chip, 14, 3710-3718 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Pattern Formation of Charged Particles in an Electric Field“, Lin, T. ; Rubinstein, S. M. ; Korchev, A. ; Weitz, D. A. Langmuir, 30, 12119-12123 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlling the Morphology of Polyurea Microcapsules Using Microfluidics“, Polenz, I. ; Datta, S. S. ; Weitz, D. A. Langmuir, 30, 13405–13410 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The kitchen as a physics classroom“, Rowat, A. C. ; Sinha, N. N. ; Sörensen, P. M. ; Campàs, O. ; Castells, P. ; Rosenberg, D. ; Brenner, M. P. ; Weitz, D. A. Physics Education, 49, 512 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic Fabrication of Perfluorohexane-Shelled Double Emulsions for Controlled Loading and Acoustic-Triggered Release of Hydrophilic Agents“, Duncanson, W. J. ; Arriaga, L. R. ; Ung, W. L. ; Kopechek, J. ; Porter, T. ; Weitz, D. A. Langmuir, 30, 13765–13770 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Local shear transformations in deformed and quiescent hard-sphere colloidal glasses“, Jensen, K. E. ; Weitz, D. A. ; Spaepen, F. Physical Review E, 90, 042305 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Uncovering the Mechanism of Trapping and Cell Orientation during Neisseria gonorrhoeae Twitching Motility“, Zaburdaev, V. ; Biais, N. ; Schmiedeberg, M. ; Eriksson, J. ; Jonsson, A. – B. ; Sheetz, M. P. ; Weitz, D. A. , 107, 1523 – 1531 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fluctuations in flow produced by competition between apparent wall slip and dilatancy“, Larsen, R. J. ; Kim, J. – W. ; Zukoski, C. F. ; Weitz, D. A. Rheologica Acta, 53, 333-347 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Cross-Kingdom Chemical Communication Drives a Heritable, Mutually Beneficial Prion-Based Transformation of Metabolism“, Jarosz, D. F. ; Brown, J. C. S. ; Walker, G. A. ; Datta, M. S. ; Ung, W. L. ; Lancaster, A. K. ; Rotem, A. ; Chang, A. ; Newby, G. A. ; Weitz, D. A. ; et al. Cell, 158, 1083 – 1093 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic high-throughput culturing of single cells for selection based on extracellular metabolite production or consumption“, Wang, B. L. ; Ghaderi, A. ; Zhou, H. ; Agresti, J. ; Weitz, D. A. ; Fink, G. R. ; Stephanopoulos, G. Nat Biotech, 32, 473 – 478 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidics-assisted engineering of polymeric microcapsules with high encapsulation efficiency for protein drug delivery“, Pessi, J. ; Santos, H. A. ; Miroshnyk, I. ; JoukoYliruusi, ; Weitz, D. A. ; Mirza, S. International Journal of Pharmaceutics, 472, 82 – 87 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Probing the Stochastic, Motor-Driven Properties of the Cytoplasm Using Force Spectrum Microscopy“, Guo, M. ; Ehrlicher, A. J. ; Jensen, M. H. ; Renz, M. ; Moore, J. R. ; Goldman, R. D. ; Lippincott-Schwartz, J. ; Mackintosh, F. C. ; Weitz, D. A. Cell, 158, 822 – 832 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Expansion and rupture of charged microcapsules“, Datta, S. S. ; Abbaspourrad, A. ; Weitz, D. A. Mater. Horiz., 1, 92-95 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Measurement of Flow Velocity and Inference of Liquid Viscosity in a Microfluidic Channel by Fluorescence Photobleaching“, Carroll, N. J. ; Jensen, K. H. ; Parsa, S. ; Holbrook, M. N. ; Weitz, D. A. Langmuir, 30, 4868-4874 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A high-throughput cellulase screening system based on droplet microfluidics“, Ostafe, R. ; Prodanovic, R. ; Ung, W. L. ; Weitz, D. A. ; Fischer, R. Biomicrofluidics, 8, 041102 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fluid breakup during simultaneous two-phase flow through a three-dimensional porous medium“, Datta, S. S. ; Dupin, J. – B. ; Weitz, D. A. Physics of Fluids, 26, 062004 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Photoresponsive Monodisperse Cholesteric Liquid Crystalline Microshells for Tunable Omnidirectional Lasing Enabled by a Visible Light-Driven Chiral Molecular Switch“, Chen, L. ; Li, Y. ; Fan, J. ; Bisoyi, H. K. ; Weitz, D. A. ; Li, Q. Advanced Optical Materials, 2, 845-848 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Ultrathin Shell Double Emulsion Templated Giant Unilamellar Lipid Vesicles with Controlled Microdomain Formation“, Arriaga, L. R. ; Datta, S. S. ; Kim, S. – H. ; Amstad, E. ; Kodger, T. E. ; Monroy, F. ; Weitz, D. A. Small, 10, 950–956 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Spatial Propagation of Protein Polymerization“, Cohen, S. I. A. ; Rajah, L. ; Yoon, C. H. ; Buell, A. K. ; White, D. A. ; Sperling, R. A. ; Vendruscolo, M. ; Terentjev, E. M. ; Dobson, C. M. ; Weitz, D. A. ; et al. Physical Review Letters, 112, 098101 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Mechanism of Calponin Stabilization of Cross-Linked Actin Networks“, Jensen, M. H. ; Morris, E. J. ; Gallant, C. M. ; Morgan, K. G. ; Weitz, D. A. ; Moore, J. R. Biophysical Journal, 106, 793 – 800 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Mobilization of a trapped non-wetting fluid from a three-dimensional porous medium“, Datta, S. S. ; Ramakrishnan, T. S. ; Weitz, D. A. Physics of Fluids, 26, 022002 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fabrication of solid lipid microcapsules containing ascorbic acid using a microfluidic technique“, Comunian, T. A. ; Abbaspourrad, A. ; Favaro-Trindade, C. S. ; Weitz, D. A. Food Chemistry, 152, 271 – 275 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Double Emulsion Templated Solid Microcapsules: Mechanics And Controlled Release“, Datta, S. S. ; Abbaspourrad, A. ; Amstad, E. ; Fan, J. ; Kim, S. – H. ; Romanowsky, M. ; Shum, H. C. ; Sun, B. J. ; Utada, A. S. ; Windbergs, M. ; et al. Advanced Materials, 26, 2205-2218 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Identifying directional persistence in intracellular particle motion using Hidden Markov Models“, Röding, M. ; Guo, M. ; Weitz, D. A. ; Rudemo, M. ; Särkkä, A. Mathematical Biosciences, 248, 140 – 145 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic assembly of multistage porous silicon-lipid vesicles for controlled drug release“, Herranz-Blanco, B. ; Arriaga, L. R. ; Makila, E. ; Correia, A. ; Shrestha, N. ; Mirza, S. ; Weitz, D. A. ; Salonen, J. ; Hirvonen, J. ; Santos, H. A. Lab on a Chip, 14, 1083 – 1086 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Quantifying cell-generated mechanical forces within living embryonic tissues“, Campas, O. ; Mammoto, T. ; Hasso, S. ; Sperling, R. A. ; O’Connell, D. ; Bischof, A. G. ; Maas, R. ; Weitz, D. A. ; Mahadevan, L. ; Ingber, D. E. Nat Meth, 11, 183 – 189 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The microfluidic post-array device: High throughput production of single emulsion drops“, Amstad, E. ; Datta, S. S. ; Weitz, D. A. Lab on a Chip, 14, 705-709 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Synchronized reinjection and coalescence of droplets in microfluidics“, Lee, M. ; Collins, J. W. ; Aubrecht, D. M. ; Sperling, R. A. ; Solomon, L. ; Ha, J. – W. ; Yi, G. – R. ; Weitz, D. A. ; Manoharan, V. N. Lab on a Chip, 14, 509-513 (2014).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The role of vimentin intermediate filaments in cortical and cytoplasmic mechanics“, Guo, M.; Ehrlicher, A. J.; Mahammad, S.; Fabich, H.; Jensen, M. H.; Moore, J. R.; Fredberg, J. J.; Goldman, R. D.; Weitz, D. A. Biophysical journal, 105, 1562-1568 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Biodegradable core-shell carriers for simultaneous encapsulation of synergistic actives“, Windbergs, M.; Zhao, Y.; Heyman, J.; Weitz, D. A. Journal of the American Chemical Society, 135, 7933-7937 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Block-and-break generation of microdroplets with fixed volume“, van Steijn, V.; Korczyk, P. M.; Derzsi, L.; Abate, A. R.; Weitz, D. A.; Garstecki, P. Biomicrofluidics, 7, 024108 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Colloidal particles: Crystals, glasses, and gels“, Lu, P. J.; Weitz, D. A.; Langer, J. S. Annual Review of Condensed Matter Physics, Vol 4, 4, 217-233 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlling release from pH-responsive microcapsules“, Abbaspourrad, A.; Datta, S. S.; Weitz, D. A. Langmuir, 29, 12697-12702 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “DNA sequence analysis with droplet-based microfluidics“, Abate, A. R.; Hung, T.; Sperling, R. A.; Mary, P.; Rotem, A.; Agresti, J. J.; Weiner, M. A.; Weitz, D. A. Lab on a Chip, 13, 4864–4869 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Drainage in a model stratified porous medium“, Datta, S. S.; Weitz, D. A. Epl, 101 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Enhanced-throughput production of polymersomes using a parallelized capillary microfluidic device“, Kim, S.-H.; Kim, J. W.; Kim, D.-H.; Han, S.-H.; Weitz, D. A. Microfluidics and Nanofluidics, 14, 509–514 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fabrication and manipulation of polymeric magnetic particles with magnetorheological fluid“, Rodriguez-Lopez, J.; Shum, H. C.; Elvira, L.; Montero de Espinosa, F.; Weitz, D. A. Journal of Magnetism and Magnetic Materials, 326, 220–224 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fast dynamics and relaxation of colloidal drops during the drying process using multispeckle diffusing wave spectroscopy“, Lee, J. Y.; Hwang, J. W.; Jung, H. W.; Kim, S. H.; Lee, S. J.; Yoon, K.; Weitz, D. A. Langmuir, 29, 861–866 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Formation of polymersomes with double bilayers templated by quadruple emulsions“, Kim, S.-H.; Nam, J.; Kim, J. W.; Kim, D.-H.; Han, S.-H.; Weitz, D. A. Lab on a Chip, 13, 1351–1356 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Gas-core triple emulsions for ultrasound triggered release“, Chen, H.; Li, J.; Wan, J.; Weitz, D. A.; Stone, H. A. Soft Matter, 9, 38–42 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Hole-shell microparticles from controllably evolved double emulsions“, Wang, W.; Zhang, M.-J.; Xie, R.; Ju, X.-J.; Yang, C.; Mou, C.-L.; Weitz, D. A.; Chu, L.-Y. Angewandte Chemie-International Edition, 52, 8084–8087 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Liquid transport facilitated by channels in Bacillus subtilis biofilms“, Wilking, J. N.; Zaburdaev, V.; De Volder, M.; Losick, R.; Brenner, M. P.; Weitz, D. A. Proceedings of the National Academy of Sciences of the United States of America, 110, 848–852 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic fabrication of stable gas-filled microcapsules for acoustic contrast enhancement“, Abbaspourrad, A.; Duncanson, W. J.; Lebedeva, N.; Kim, S.-H.; Zhushma, A. P.; Datta, S. S.; Dayton, P. A.; Sheiko, S. S.; Rubinstein, M.; Weitz, D. A. Langmuir, 29, 12352–12357 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic templated mesoporous silicon-solid lipid microcomposites for sustained drug delivery“, Liu, D.; Herranz-Blanco, B.; Makila, E.; Arriaga, L. R.; Mirza, S.; Weitz, D. A.; Sandler, N.; Salonen, J.; Hirvonen, J.; Santos, H. A. ACS Applied Materials & Interfaces, 5, 12127–12134 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Micron-scale coherence in interphase chromatin dynamics“, Zidovska, A.; Weitz, D. A.; Mitchison, T. J. Proceedings of the National Academy of Sciences of the United States of America, 110, 15555–15560 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microwave dielectric heating of non-aqueous droplets in a microfluidic device for nanoparticle synthesis“, Koziej, D.; Floryan, C.; Sperling, R. A.; Ehrlicher, A. J.; Issadore, D.; Westervelt, R.; Weitz, D. A. Nanoscale, 5, 5468–5475 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Note: A three-dimensional calibration device for the confocal microscope“, Jensen, K. E.; Weitz, D. A.; Spaepen, F. Review of Scientific Instruments, 84, 016108 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nuclear envelope composition determines the ability of neutrophil-type cells to passage through micron-scale constrictions“, Rowat, A. C.; Jaalouk, D. E.; Zwerger, M.; Ung, W. L.; Eydelnant, I. A.; Olins, D. E.; Olins, A. L.; Herrmann, H.; Weitz, D. A.; Lammerding, J. Journal of Biological Chemistry, 288, 8610–8618 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “One step formation of controllable complex emulsions: From functional particles to simultaneous encapsulation of hydrophilic and hydrophobic agents into desired position“, Choi, C.-H.; Weitz, D. A.; Lee, C.-S. Advanced Materials, 25, 2536–2541 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Polymer microcapsules with programmable active release“, Abbaspourrad, A.; Carroll, N. J.; Kim, S.-H.; Weitz, D. A. Journal of the American Chemical Society, 135, 7744–7750 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Polymersomes containing a hydrogel network for high stability and controlled release“, Kim, S.-H.; Kim, J. W.; Kim, D.-H.; Han, S.-H.; Weitz, D. A. Small, 9, 124–131 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rolling particle lithography by soft polymer microparticles“, Di Benedetto, F.; Fasano, V.; Persano, L.; Maruccio, C.; Mele, E.; Potente, G.; Weitz, D. A.; De Lorenzis, L.; Pisignano, D. Soft Matter, 9, 2206–2211 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Single-cell analysis and sorting using droplet-based microfluidics“, Mazutis, L.; Gilbert, J.; Ung, W. L.; Weitz, D. A.; Griffiths, A. D.; Heyman, J. A. Nature Protocols, 8, 870–891 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Spatial fluctuations of fluid velocities in flow through a three-dimensional porous medium“, Datta, S. S.; Chiang, H.; Ramakrishnan, T. S.; Weitz, D. A. Physical Review Letters, 111, 064501 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stimuli-responsive core-shell microcapsules with tunable rates of release by using a depolymerizable poly(phthalaldehyde) membrane“, DiLauro, A. M.; Abbaspourrad, A.; Weitz, D. A.; Phillips, S. T. Macromolecules, 46, 3309–3313 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Strain history dependence of the nonlinear stress response of fibrin and collagen networks“, Munster, S.; Jawerth, L. M.; Leslie, B. A.; Weitz, J. I.; Fabry, B.; Weitz, D. A. Proceedings of the National Academy of Sciences of the United States of America, 110, 12197–12202 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stress-enhanced gelation: A dynamic nonlinearity of elasticity“, Yao, N. Y.; Broedersz, C. P.; Depken, M.; Becker, D. J.; Pollak, M. R.; MacKintosh, F. C.; Weitz, D. A. Physical Review Letters, 110, 018103 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Structure and mechanics of fibrin clots formed under mechanical perturbation“, Muenster, S.; Jawerth, L. M.; Fabry, B.; Weitz, D. A. Journal of Thrombosis and Haemostasis, 11, 557–560 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Surface functionalized hydrophobic porous particles toward water treatment application“, Abbaspourrad, A.; Carroll, N. J.; Kim, S.-H.; Weitz, D. A. Advanced Materials, 25, 3215–3221 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Thermally switched release from nanoparticle colloidosomes“, Zhou, S.; Fan, J.; Datta, S. S.; Guo, M.; Guo, X.; Weitz, D. A. Advanced Functional Materials, 23, 5925–5929 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Transport of charged colloids in a nonpolar solvent“, Lin, T.; Kodger, T. E.; Weitz, D. A. Soft Matter, 9, 5173–5177 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Visualizing multiphase flow and trapped fluid configurations in a model three-dimensional porous medium“, Krummel, A. T.; Datta, S. S.; Muenster, S.; Weitz, D. A. Aiche Journal, 59, 1022–1029 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Wetting-induced formation of controllable monodisperse multiple emulsions in microfluidics“, Deng, N.-N.; Wang, W.; Ju, X.-J.; Xie, R.; Weitz, D. A.; Chu, L.-Y. Lab on a Chip, 13, 4047–4052 (2013).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The conformational state of actin filaments regulates branching by actin-related protein 2/3 (Arp2/3) complex“, Jensen, M. H.; Morris, E. J.; Huang, R.; Rebowski, G.; Dominguez, R.; Weitz, D. A.; Moore, J. R.; Wang, C. – L. A. Journal of Biological Chemistry, 287, 31447-31453 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Asymmetric functionalization of colloidal dimer particles with gold nanoparticles“, Yoon, K.; Lee, D.; Kim, J. W.; Kim, J.; Weitz, D. A. Chemical Communications, 48, 9056-9058 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High throughput production of single core double emulsions in a parallelized microfluidic device“, Romanowsky, M. B.; Abate, A. R.; Rotem, A.; Holtze, C.; Weitz, D. A. Lab on a Chip, 12, 802-807 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Direct visualization of three-dimensional crystallization behavior in microgels“, Muluneh, M.; Weitz, D. A. Physical Review E, 85, 021405 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Does size matter? Elasticity of compressed suspensions of colloidal- and granular-scale microgels“, Menut, P.; Seiffert, S.; Sprakel, J.; Weitz, D. A. Soft Matter, 8, 156-164 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Protein expression, aggregation, and triggered release from polymersomes as artificial cell-like structures“, Martino, C.; Kim, S. – H.; Horsfall, L.; Abbaspourrad, A.; Rosser, S. J.; Cooper, J.; Weitz, D. A. Angewandte Chemie-International Edition, 51, 6416-6420 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Characterizing concentrated, multiply scattering, and actively driven fluorescent systems with confocal differential dynamic microscopy“, Lu, P. J.; Giavazzi, F.; Angelini, T. E.; Zaccarelli, E.; Jargstorff, F.; Schofield, A. B.; Wilking, J. N.; Romanowsky, M. B.; Weitz, D. A.; Cerbino, R. Physical Review Letters, 108, 218103 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Non-coalescence of oppositely charged droplets in pH-sensitive emulsions“, Liu, T.; Seiffert, S.; Thiele, J.; Abate, A. R.; Weitz, D. A.; Richtering, W. Proceedings of the National Academy of Sciences of the United States of America, 109, 384-389 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Structures, stresses, and fluctuations in the delayed failure of colloidal gels“, Lindstrom, S. B.; Kodger, T. E.; Sprakel, J.; Weitz, D. A. Soft Matter, 8, 3657–3664 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Skating on a film of air: Drops impacting on a surface“, Kolinski, J. M.; Rubinstein, S. M.; Mandre, S.; Brenner, M. P.; Weitz, D. A.; Mahadevan, L. Physical Review Letters, 108, 074503 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Surface roughness directed self-assembly of patchy particles into colloidal micelles“, Kraft, D. J.; Ni, R.; Smallenburg, F.; Hermes, M.; Yoon, K.; Weitz, D. A.; van Blaaderen, A.; Groenewold, J.; Dijkstra, M.; Kegel, W. K. Proceedings of the National Academy of Sciences of the United States of America, 109, 10787–10792 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Droplet microfluidics for high-throughput biological assays“, Guo, M. T.; Rotem, A.; Heyman, J. A.; Weitz, D. A. Lab on a Chip, 12, 2146–2155 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic synthesis of advanced microparticles for encapsulation and controlled release“, Duncanson, W. J.; Lin, T.; Abate, A. R.; Seiffert, S.; Shah, R. K.; Weitz, D. A. Lab on a Chip, 12, 2135–2145 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic synthesis of monodisperse porous microspheres with size-tunable pores“, Duncanson, W. J.; Zieringer, M.; Wagner, O.; Wilking, J. N.; Abbaspourrad, A.; Haag, R.; Weitz, D. A. Soft Matter, 8, 10636–10640 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Monodisperse gas-filled microparticles from reactions in double emulsions“, Duncanson, W. J.; Abbaspourrad, A.; Shum, H. C.; Kim, S. – H.; Adams, L. L. A.; Weitz, D. A. Langmuir, 28, 6742–6745 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Measuring the elastic modulus of microgels using microdrops“, Abate, A. R.; Han, L.; Jin, L.; Suo, Z.; Weitz, D. A. Soft Matter, 8, 10032–10035 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Colloidal gelation of oppositely charged particles“, Russell, E. R.; Sprakel, J.; Kodger, T. E.; Weitz, D. A. Soft Matter, 8, 8697–8703 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlled synthesis of cell-laden microgels by radical-free gelation in droplet microfluidics“, Rossow, T.; Heyman, J. A.; Ehrlicher, A. J.; Langhoff, A.; Weitz, D. A.; Haag, R.; Seiffert, S. Journal of the American Chemical Society, 134, 4983–4989 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Drop formation in non-planar microfluidic devices“, Rotem, A.; Abate, A. R.; Utada, A. S.; van Steijn, V.; Weitz, D. A. Lab on a Chip, 12, 4263–4268 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Emulsion templating of poly(lactic acid) particles: Droplet formation behavior“, Vladisavljevic, G. T.; Duncanson, W. J.; Shum, H. C.; Weitz, D. A. Langmuir, 28, 12948–12954 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High-yield cell ordering and deterministic cell-in-droplet encapsulation using Dean flow in a curved microchannel“, Kemna, E. W. M.; Schoeman, R. M.; Wolbers, F.; Vermes, I.; Weitz, D. A.; van den Berg, A. Lab on a Chip, 12, 2881–2887 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Low intensity ultrasound perturbs cytoskeleton dynamics“, Mizrahi, N.; Zhou, E. H.; Lenormand, G.; Krishnan, R.; Weihs, D.; Butler, J. P.; Weitz, D. A.; Fredberg, J. J.; Kimmel, E. Soft Matter, 8, 2438–2443 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic fabrication of water-in-water (w/w) jets and emulsions“, Shum, H. C.; Varnell, J.; Weitz, D. A. Biomicrofluidics, 6, 012808 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Origin of de-swelling and dynamics of dense ionic microgel suspensions“, Romeo, G.; Imperiali, L.; Kim, J. – W.; Fernandez-Nieves, A.; Weitz, D. A. Journal of Chemical Physics, 136, 124905 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Osmotic pressure can regulate matrix gene expression in Bacillus subtilis“, Rubinstein, S. M.; Kolodkin-Gal, I.; Mcloon, A.; Chai, L.; Kolter, R.; Losick, R.; Weitz, D. A. Molecular Microbiology, 86, 426–436 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rapid growth of large, defect-free colloidal crystals“, Jensen, K. E.; Pennachio, D.; Recht, D.; Weitz, D. A.; Spaepen, F. Soft Matter, 9, 320–328 (2012).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Drying of complex suspensions“, Xu, L.; Berges, A.; Lu, P. J.; Studart, A. R.; Schofield, A. B.; Oki, H.; Davies, S.; Weitz, D. A. Physical Review Letters, 104, 128303 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Capillary micromechanics: Measuring the elasticity of microscopic soft objects“, Wyss, H. M.; Franke, T.; Mele, E.; Weitz, D. A. Soft Matter, 6, 4550-4555 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fabrication of polymersomes using double-emulsion templates in glass-coated stamped microfluidic devices“, Thiele, J.; Abate, A. R.; Shum, H. C.; Bachtler, S.; Foerster, S.; Weitz, D. A. Small, 6, 1723-1727 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic melt emulsification for encapsulation and release of actives“, Sun, B. J.; Shum, H. C.; Holtze, C.; Weitz, D. A. ACS Applied Materials & Interfaces, 2, 3411-3416 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The shape of a step structure as a design aspect to control droplet generation in microfluidics“, Sim, S. P. C.; Kang, T. G.; Yobas, L.; Holtze, C.; Weitz, D. A. Journal of Micromechanics and Microengineering, 20, 035010 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Corrugated interfaces in multiphase core-annular flow“, Shum, H. C.; Sauret, A.; Fernandez-Nieves, A.; Stone, H. A.; Weitz, D. A. Physics of Fluids, 22, 082002 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlled fabrication of polymer microgels by polymer-analogous gelation in droplet microfluidics“, Seiffert, S.; Weitz, D. A. Soft Matter, 6, 3184-3190 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic fabrication of smart microgels from macromolecular precursors“, Seiffert, S.; Weitz, D. A. Polymer, 51, 5883-5889 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Monodisperse stimuli-responsive colloidosomes by self-assembly of microgels in droplets“, Shah, R. K.; Kim, J.-W.; Weitz, D. A. Langmuir, 26, 1561-1565 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High-throughput fluorescence detection using an integrated zone-plate array“, Schonbrun, E.; Abate, A. R.; Steinvurzel, P. E.; Weitz, D. A.; Crozier, K. B. Lab on a Chip, 10, 852-856 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Janus microgels produced from functional precursor polymers“, Seiffert, S.; Romanowsky, M. B.; Weitz, D. A. Langmuir, 26, 14842-14847 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Smart microgel capsules from macromolecular precursors“, Seiffert, S.; Thiele, J.; Abate, A. R.; Weitz, D. A. Journal of the American Chemical Society, 132, 6606-6609 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Temperature-controlled transitions between glass, liquid, and gel states in dense p-NIPA suspensions“, Romeo, G.; Fernandez-Nieves, A.; Wyss, H. M.; Acierno, D.; Weitz, D. A. Advanced Materials, 22, 3441-3445 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Functional patterning of PDMS microfluidic devices using integrated chemo-masks“, Romanowsky, M. B.; Heymann, M.; Abate, A. R.; Krummel, A. T.; Fraden, S.; Weitz, D. A. Lab on a Chip, 10, 1521-1524 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Droplet breakup in flow past an obstacle: A capillary instability due to permeability variations“, Protiere, S.; Bazant, M. Z.; Weitz, D. A.; Stone, H. A. Epl, 92, 54002 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Reduction of water evaporation in polymerase chain reaction microfluidic devices based on oscillating-flow“, Polini, A.; Mele, E.; Sciancalepore, A. G.; Girardo, S.; Biasco, A.; Camposeo, A.; Cingolani, R.; Weitz, D. A.; Pisignano, D. Biomicrofluidics, 4, 036502 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Biologically templated photocatalytic nanostructures for sustained light-driven water oxidation“, Nam, Y. S.; Magyar, A. P.; Lee, D.; Kim, J.-W.; Yun, D. S.; Park, H.; Pollom, Thomas S., J.; Weitz, D. A.; Belcher, A. M. Nature Nanotechnology, 5, 340-344 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Biopolymer network geometries: Characterization, regeneration, and elastic properties“, Lindstroem, S. B.; Vader, D. A.; Kulachenko, A.; Weitz, D. A. Physical Review E, 82, 051905 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Divalent cations crosslink vimentin intermediate filament tail domains to regulate network mechanics“, Lin, Y.-C.; Broedersz, C. P.; Rowat, A. C.; Wedig, T.; Herrmann, H.; MacKintosh, F. C.; Weitz, D. A. Journal of Molecular Biology, 399, 637-644 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Origins of elasticity in intermediate filament networks“, Lin, Y.-C.; Yao, N. Y.; Broedersz, C. P.; Herrmann, H.; Mackintosh, F. C.; Weitz, D. A. Physical Review Letters, 104, 058101 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The role of polymer polydispersity in phase separation and gelation in colloid-polymer mixtures“, Lietor-Santos, J. J.; Kim, C.; Lynch, M. L.; Fernandez-Nieves, A.; Weitz, D. A. Langmuir, 26, 3174-3178 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Elasticity of dilatant particle suspensions during flow“, Larsen, R. J.; Kim, J.-W.; Zukoski, C. F.; Weitz, D. A. Physical Review E, 81, 011502 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nanomechanics of vimentin intermediate filament networks“, Koester, S.; Lin, Y.-C.; Herrmann, H.; Weitz, D. A. Soft Matter, 6, 1910-1914 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Actin filament length tunes elasticity of flexibly cross-linked actin networks“, Kasza, K. E.; Broedersz, C. P.; Koenderink, G. H.; Lin, Y. C.; Messner, W.; Millman, E. A.; Nakamura, F.; Stossel, T. P.; MacKintosh, F. C.; Weitz, D. A. Biophysical Journal, 99, 1091-1100 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fabrication of tunable spherical colloidal crystals immobilized in soft hydrogels“, Kanai, T.; Lee, D.; Shum, H. C.; Weitz, D. A. Small, 6, 807-810 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Gel-immobilized colloidal crystal shell with enhanced thermal sensitivity at photonic wavelengths“, Kanai, T.; Lee, D.; Shum, H. C.; Shah, R. K.; Weitz, D. A. Advanced Materials, 22, 4998-+ (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Axial and lateral particle ordering in finite Reynolds number channel flows“, Humphry, K. J.; Kulkarni, P. M.; Weitz, D. A.; Morris, J. F.; Stone, H. A. Physics of Fluids, 22, 081703 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Surface acoustic wave actuated cell sorting (SAWACS)“, Franke, T.; Braunmueller, S.; Schmid, L.; Wixforth, A.; Weitz, D. A. Lab on a Chip, 10, 789-794 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Shear melting of a colloidal glass“, Eisenmann, C.; Kim, C.; Mattsson, J.; Weitz, D. A. Physical Review Letters, 104, 035502 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlled buckling and crumpling of nanoparticle-coated droplets“, Datta, S. S.; Shum, H. C.; Weitz, D. A. Langmuir, 26, 18612-18616 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Arrested fluid-fluid phase separation in depletion systems: Implications of the characteristic length on gel formation and rheology“, Conrad, J. C.; Wyss, H. M.; Trappe, V.; Manley, S.; Miyazaki, K.; Kaufman, L. J.; Schofield, A. B.; Reichman, D. R.; Weitz, D. A. Journal of Rheology, 54, 421-438 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Regulating volume transitions of highly responsive hydrogel scaffolds by adjusting the network properties of microgel building block colloids“, Cho, E. C.; Kim, J.-W.; Hyun, D. C.; Jeong, U.; Weitz, D. A. Langmuir, 26, 3854-3859 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Surface-tension-induced synthesis of complex particles using confined polymeric fluids“, Choi, C.-H.; Lee, J.; Yoon, K.; Tripathi, A.; Stone, H. A.; Weitz, D. A.; Lee, C.-S. Angewandte Chemie-International Edition, 49, 7748-7752 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Cell migration driven by cooperative substrate deformation patterns“, Angelini, T. E.; Hannezo, E.; Trepat, X.; Fredberg, J. J.; Weitz, D. A. Physical Review Letters, 104, 168104 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Ultrahigh-throughput screening in drop-based microfluidics for directed evolution“, Agresti, J. J.; Antipov, E.; Abate, A. R.; Ahn, K.; Rowat, A. C.; Baret, J.-C.; Marquez, M.; Klibanov, A. M.; Griffiths, A. D.; Weitz, D. A. Proceedings of the National Academy of Sciences of the United States of America, 107, 4004-4009 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Patterning microfluidic device wettability using flow confinement“, Abate, A. R.; Thiele, J.; Weinhart, M.; Weitz, D. A. Lab on a Chip, 10, 1774-1776 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High-throughput injection with microfluidics using picoinjectors“, Abate, A. R.; Hung, T.; Mary, P.; Agresti, J. J.; Weitz, D. A. Proceedings of the National Academy of Sciences of the United States of America, 107, 19163-19166 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic sorting with high-speed single-layer membrane valves“, Abate, A. R.; Agresti, J. J.; Weitz, D. A. Applied Physics Letters, 96, 203509 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Anucleate platelets generate progeny“, Schwertz, H.; Koester, S.; Kahr, W. H. A.; Michetti, N.; Kraemer, B. F.; Weitz, D. A.; Blaylock, R. C.; Kraiss, L. W.; Greinacher, A.; Zimmerman, G. A.; et al. Blood, 115, 3801-3809 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A blind spot in confocal reflection microscopy: The dependence of fiber brightness on fiber orientation in imaging biopolymer networks“, Jawerth, L. M.; Muenster, S.; Vader, D. A.; Fabry, B.; Weitz, D. A. Biophysical Journal, 98, L1-L3 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Cross-link-governed dynamics of biopolymer networks“, Broedersz, C. P.; Depken, M.; Yao, N. Y.; Pollak, M. R.; Weitz, D. A.; MacKintosh, F. C. Physical Review Letters, 105, 238101 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Droplet microfluidics for fabrication of non-spherical particles“, Shum, H. C.; Abate, A. R.; Lee, D.; Studart, A. R.; Wang, B.; Chen, C.-H.; Thiele, J.; Shah, R. K.; Krummel, A.; Weitz, D. A. Macromolecular Rapid Communications, 31, 108-118 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Elasticity in ionically cross-linked neurofilament networks“, Yao, N. Y.; Broedersz, C. P.; Lin, Y.-C.; Kasza, K. E.; MacKintosh, F. C.; Weitz, D. A. Biophysical Journal, 98, 2147-2153 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Measurement of nonlinear rheology of cross-linked biopolymer gels“, Broedersz, C. P.; Kasza, K. E.; Jawerth, L. M.; Muenster, S.; Weitz, D. A.; MacKintosh, F. C. Soft Matter, 6, 4120-4127 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The micromechanics of three-dimensional collagen-I gels“, Stein, A. M.; Vader, D. A.; Weitz, D. A.; Sander, L. M. Complexity, 16, 22-28 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stiffness of the crystal-liquid interface in a hard-sphere colloidal system measured from capillary fluctuations“, Ramsteiner, I. B.; Weitz, D. A.; Spaepen, F. Physical Review E, 82, 041603 (2010).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Strain-Induced Alignment in Collagen Gels“, Vader, D.; Kabla, A.; Weitz, D. A.; Mahadevan, L. PLOS One, 4, e5902 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Imaging Techniques for Measuring the Materials Properties of Cells“, Kasza, K. E.; Vader, D.; Koester, S.; Wang, N.; Weitz, D. A. Live Cell Imaging: A Laboratory Manual, (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Functionalized glass coating for PDMS microfluidic devices“, Abate, A. R.; Lee, D.; Holtze, C.; Krummel, A.; Do, T.; Weitz, D. A. Lab-on-a-Chip Technology (Vol. 1): Fabrication and Microfluidics, 1 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Flocculation kinetics of precipitated calcium carbonate“, Gaudreault, R.; Di Cesare, N.; Weitz, D. A.; van de Ven, T. G. M. Colloids and Surfaces, 340, 56–65 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Droplet-Based Microfluidics for Emulsion and Solvent Evaporation Synthesis of Monodisperse Mesoporous Silica Microspheres“, Carroll, N.; Mendez, S.; Edwards, J.; Weitz, D. A.; Petsev, Dimiter, N. Structure and Functional Properties of Colloidal Systems, (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universal behavior of the osmotically compressed cell and its analogy to the colloidal glass transition“, Zhou, E. H.; Trepat, X.; Park, C. Y.; Lenormand, G.; Oliver, M. N.; Mijailovich, S. M.; Hardin, C.; Weitz, D. A.; Butler, J. P.; Fredberg, J. J. PNAS, 106, 10632–10637 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Unjamming a Polymer Glass“, Weitz, D. A. Science, 323, 214–215 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fabrication of monodisperse toroidal particles by polymer solidification in microfluidics“, Wang, B.; Shum, H. C.; Weitz, D. A. Chemphyschem, 10, 641–645 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Swelling kinetics of a microgel shell“, Wahrmund, J.; Kim, J.-W.; Chu, L.-Y.; Wang, C.; Li, Y.; Fernandez-Nieves, A.; Weitz, D. A.; Krokhin, A.; Hu, Z. Macromolecules, 42, 9357–9365 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Physical forces during collective cell migration“, Trepat, X.; Wasserman, M. R.; Angelini, T. E.; Millet, E.; Weitz, D. A.; Butler, J. P.; Fredberg, J. J. Nature Physics, 5, 426–430 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A multi-color fast-switching microfluidic droplet dye laser“, Tang, S. K. Y.; Li, Z.; Abate, A. R.; Agresti, J. J.; Weitz, D. A.; Psaltis, D.; Whitesides, G. M. Lab on a Chip, 9, 2767–2771 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Arrested coalescence of particle-coated droplets into nonspherical supracolloidal structures“, Studart, A. R.; Shum, H. C.; Weitz, D. A. Journal of Physical Chemistry B, 113, 3914–3919 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Double emulsion droplets as microreactors for synthesis of mesoporous hydroxyapatite“, Shum, H. C.; Bandyopadhyay, A.; Bose, S.; Weitz, D. A. Chemistry of Materials, 21, 5548–5555 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Janus supraparticles by induced phase separation of nanoparticles in droplets“, Shah, R. K.; Kim, J.-W.; Weitz, D. A. Advanced Materials, 21, 1949–1953 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dropspots: A picoliter array in a microfluidic device“, Schmitz, C. H. J.; Rowat, A. C.; Koester, S.; Weitz, D. A. Lab on a Chip, 9, 44–49 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tracking lineages of single cells in lines using a microfluidic device“, Rowat, A. C.; Bird, J. C.; Agresti, J. J.; Rando, O. J.; Weitz, D. A. Proceedings of the National Academy of Sciences of the United States of America, 106, 18149–18154 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Understanding epigenetic regulation: Tracking protein levels across multiple generations of cells“, Rowat, A. C.; Weitz, D. A. European Physical Journal-Special Topics, 178, 71–80 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Experimental observation of the crystallization of hard-sphere colloidal particles by sedimentation onto flat and patterned surfaces“, Ramsteiner, I. B.; Jensen, K. E.; Weitz, D. A.; Spaepen, F. Physical Review E, 79, 011403 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Short-time self-diffusion of nearly hard spheres at an oil-water interface“, Peng, Y.; Chen, W.; Fischer, T. M.; Weitz, D. A.; Tong, P. Journal of Fluid Mechanics, 618, 243–261 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Molecular basis of filamin A-FilGAP interaction and its impairment in congenital disorders associated with filamin A mutations“, Nakamura, F.; Heikkinen, O.; Pentikaeinen, O. T.; Osborn, T. M.; Kasza, K. E.; Weitz, D. A.; Kupiainen, O.; Permi, P.; Kilpelaeinen, I.; Ylaenne, J.; et al. Plos One, 4 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Soft colloids make strong glasses“, Mattsson, J.; Wyss, H. M.; Fernandez-Nieves, A.; Miyazaki, K.; Hu, Z.; Reichman, D. R.; Weitz, D. A. Nature, 462, 83–86 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Gravitational compression of colloidal gels“, Lietor-Santos, J. J.; Kim, C.; Lu, P. J.; Fernandez-Nieves, A.; Weitz, D. A. European Physical Journal E, 28, 159–164 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nonspherical colloidosomes with multiple compartments from double emulsions“, Lee, D.; Weitz, D. A. Small, 5, 1932–1935 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Permeability of model stratum corneum lipid membrane measured using quartz crystal microbalance“, Lee, D.; Ashcraft, J. N.; Verploegen, E.; Pashkovski, E.; Weitz, D. A. Langmuir, 25, 5762–5766 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Viscoelastic properties of oxide-coated liquid metals“, Larsen, R. J.; Dickey, M. D.; Whitesides, G. M.; Weitz, D. A. Journal of Rheology, 53, 1305–1326 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “An active biopolymer network controlled by molecular motors“, Koenderink, G. H.; Dogic, Z.; Nakamura, F.; Bendix, P. M.; MacKintosh, F. C.; Hartwig, J. H.; Stossel, T. P.; Weitz, D. A. Proceedings of the National Academy of Sciences of the United States of America, 106, 15192–15197 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Influence of internal capsid pressure on viral infection by phage lambda“, Koester, S.; Evilevitch, A.; Jeembaeva, M.; Weitz, D. A. Biophysical Journal, 97, 1525–1529 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Filamin A is essential for active cell stiffening but not passive stiffening under external force“, Kasza, K. E.; Nakamura, F.; Hu, S.; Kollmannsberger, P.; Bonakdar, N.; Fabry, B.; Stossel, T. P.; Wang, N.; Weitz, D. A. Biophysical Journal, 96, 4326–4335 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nonlinear elasticity of stiff biopolymers connected by flexible linkers“, Kasza, K. E.; Koenderink, G. H.; Lin, Y. C.; Broedersz, C. P.; Messner, W.; Nakamura, F.; Stossel, T. P.; MacKintosh, F. C.; Weitz, D. A. Physical Review E, 79, 041928 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microwave dielectric heating of drops in microfluidic devices“, Issadore, D.; Humphry, K. J.; Brown, K. A.; Sandberg, L.; Weitz, D. A.; Westervelt, R. M. Lab on a Chip, 9, 1701–1706 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Suppression of instabilities in multiphase flow by geometric confinement“, Humphry, K. J.; Ajdari, A.; Fernandez-Nieves, A.; Stone, H. A.; Weitz, D. A. Physical Review E, 79, 056310 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Diffusion through colloidal shells under stress“, Guery, J.; Baudry, J.; Weitz, D. A.; Chaikin, P. M.; Bibette, J. Physical Review E, 79, 060402 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Magneto-mechanical mixing and manipulation of picoliter volumes in vesicles“, Franke, T.; Schmid, L.; Weitz, D. A.; Wixforth, A. Lab on a Chip, 9, 2831–2835 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Surface acoustic wave (SAW) directed droplet flow in microfluidics for PDMS devices“, Franke, T.; Abate, A. R.; Weitz, D. A.; Wixforth, A. Lab on a Chip, 9, 2625–2627 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Electrodes on a budget: Micropatterned electrode fabrication by wet chemical deposition“, Ebina, W.; Rowat, A. C.; Weitz, D. A. Biomicrofluidics, 3, 034104 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nucleation and solidification in static arrays of monodisperse drops“, Edd, J. F.; Humphry, K. J.; Irimia, D.; Weitz, D. A.; Toner, M. Lab on a Chip, 9, 1859–1865 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Janus particles templated from double emulsion droplets generated using microfluidics“, Chen, C.-H.; Shah, R. K.; Abate, A. R.; Weitz, D. A. Langmuir, 25, 4320–4323 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Intracellular transport by active diffusion“, Brangwynne, C. P.; Koenderink, G. H.; MacKintosh, F. C.; Weitz, D. A. Trends in Cell Biology, 19, 423–427 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic assembly of magnetic hydrogel particles with uniformly anisotropic structure“, Chen, C.-H.; Abate, A. R.; Lee, D.; Terentjev, E. M.; Weitz, D. A. Advanced Materials, 21, 3201–3204 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Bacillus subtilis spreads by surfing on waves of surfactant“, Angelini, T. E.; Roper, M.; Kolter, R.; Weitz, D. A.; Brenner, M. P. PNAS, 106, 18109–18113 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fluorescence-activated droplet sorting (FADS): Efficient microfluidic cell sorting based on enzymatic activity“, Baret, J.-C.; Miller, O. J.; Taly, V.; Ryckelynck, M.; El-Harrak, A.; Frenz, L.; Rick, C.; Samuels, M. L.; Hutchison, J. B.; Agresti, J. J.; et al. Lab on a Chip, 9, 1850–1858 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High-order multiple emulsions formed in poly(dimethylsiloxane) microfluidics“, Abate, A. R.; Weitz, D. A. Small, 5, 2030–2032 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Valve-based flow focusing for drop formation“, Abate, A. R.; Romanowsky, M. B.; Agresti, J. J.; Weitz, D. A. Applied Physics Letters, 94, 023503 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Beating Poisson encapsulation statistics using close-packed ordering“, Abate, A. R.; Chen, C.-H.; Agresti, J. J.; Weitz, D. A. Lab on a Chip, 9, 2628–2631 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Impact of inlet channel geometry on microfluidic drop formation“, Abate, A. R.; Poitzsch, A.; Hwang, Y.; Lee, J.; Czerwinska, J.; Weitz, D. A. Physical Review E, 80, 026310 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Orders-of-magnitude performance increases in GPU-accelerated correlation of images from the International Space Station“, Lu, P. J.; Oki, H.; Frey, C. A.; Chamitoff, G. E.; Chiao, L.; Fincke, E. M.; Foale, C. M.; Magnus, S. H.; McArthur, William S., J.; Tani, D. M.; et al. J Real-Time Image Proc, 5, 179–193 (2009).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The Soft Framework of the Cellular Machine“, Weitz, D. A. ; Janmey, P. A. PNAS, 105, 1105-1106 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Gelation as arrested phase separation in short-ranged attractive colloid-polymer mixtures“, Zaccarelli, E. ; Lu, P. J. ; Ciulla, F. ; Weitz, D. A. ; Sciortino, F. Journal of Physics-Condensed Matter, 20, 494242 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamics of drying in 3D porous media“, Xu, L. ; Davies, S. ; Schofield, A. B. ; Weitz, D. A. Physical Review Letters, 101, 094502 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Probing nonlinear rheology with inertio-elastic oscillations“, Yao, N. Y. ; Larsen, R. J. ; Weitz, D. A. Journal of Rheology, 52, 1013-1025 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamic viscoelasticity of actin cross-linked with wild-type and disease-causing mutant alpha-actinin-4“, Ward, S. M. V. ; Weins, A. ; Pollak, M. R. ; Weitz, D. A. Biophysical Journal, 95, 4915-4923 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Absolute instability of a liquid jet in a coflowing stream“, Utada, A. S. ; Fernandez-Nieves, A. ; Gordillo, J. M. ; Weitz, D. A. Physical Review Letters, 100, 014502 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Velocity fluctuations in a low-Reynolds-number fluidized bed“, Tee, S. – Y. ; Mucha, P. J. ; Brenner, M. P. ; Weitz, D. A. Journal of Fluid Mechanics, 596, 467-475 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “An algorithm for extracting the network geometry of three-dimensional collagen gels“, Stein, A. M. ; Vader, D. A. ; Jawerth, L. M. ; Weitz, D. A. ; Sander, L. M. Journal of Microscopy, 232, 463-475 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Double emulsion templated monodisperse phospholipid vesicles“, Shum, H. C. ; Lee, D. ; Yoon, I. ; Kodger, T. ; Weitz, D. A. Langmuir, 24, 7651-7653 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic fabrication of monodisperse biocompatible and biodegradable polymersomes with controlled permeability“, Shum, H. C. ; Kim, J. – W. ; Weitz, D. A. Journal of the American Chemical Society, 130, 9543-9549 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Designer emulsions using microfluidics“, Shah, R. K. ; Shum, H. C. ; Rowat, A. C. ; Lee, D. ; Agresti, J. J. ; Utada, A. S. ; Chu, L. – Y. ; Kim, J. – W. ; Fernandez-Nieves, A. ; Martinez, C. J. ; et al. Materials Today, 11, 18-27 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fabrication of monodisperse thermosensitive microgels and gel capsules in microfluidic devices“, Shah, R. K. ; Kim, J. – W. ; Agresti, J. J. ; Weitz, D. A. ; Chu, L. – Y. Soft Matter, 4, 2303-2309 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Highly anisotropic vorticity aligned structures in a shear thickening attractive colloidal system“, Osuji, C. O. ; Weitz, D. A. Soft Matter, 4, 1388-1392 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Optimal vein density in artificial and real leaves“, Noblin, X. ; Mahadevan, L. ; Coomaraswamy, I. A. ; Weitz, D. A. ; Holbrook, N. M. ; Zwieniecki, M. A. PNAS, 105, 9140-9144 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Shear thickening and scaling of the elastic modulus in a fractal colloidal system with attractive interactions“, Osuji, C. O. ; Kim, C. ; Weitz, D. A. Physical Review E, 77, 060402 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Robust pore size analysis of filamentous networks from three-dimensional confocal microscopy“, Mickel, W. ; Muenster, S. ; Jawerth, L. M. ; Vader, D. A. ; Weitz, D. A. ; Sheppard, A. P. ; Mecke, K. ; Fabry, B. ; Schroeder-Turk, G. E. Biophysical Journal, 95, 6072-6080 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Gelation of particles with short-range attraction“, Lu, P. J. ; Zaccarelli, E. ; Ciulla, F. ; Schofield, A. B. ; Sciortino, F. ; Weitz, D. A. Nature, 453, 499-U4 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Double emulsion-templated nanoparticle colloidosomes with selective permeability“, Lee, D. ; Weitz, D. A. Advanced Materials, 20, 3498-3503 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Drop-based microfluidic devices for encapsulation of single cells“, Koester, S. ; Angile, F. E. ; Duan, H. ; Agresti, J. J. ; Wintner, A. ; Schmitz, C. ; Rowat, A. C. ; Merten, C. A. ; Pisignano, D. ; Griffiths, A. D. ; et al. Lab on a Chip, 8, 1110-1115 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Colloid surfactants for emulsion stabilization“, Kim, J. – W. ; Lee, D. ; Shum, H. C. ; Weitz, D. A. Advanced Materials, 20, 3239-3243 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Biocompatible surfactants for water-in-fluorocarbon emulsions“, Holtze, C. ; Rowat, A. C. ; Agresti, J. J. ; Hutchison, J. B. ; Angile, F. E. ; Schmitz, C. H. J. ; Koster, S. ; Duan, H. ; Humphry, K. J. ; Scanga, R. A. ; et al. Lab on a Chip, 8, 1632-1639 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Mechanical response of cytoskeletal networks“, Gardel, M. L. ; Kasza, K. E. ; Brangwynne, C. P. ; Liu, J. ; Weitz, D. A. ; Correia, J. J. ; Detrich, H. W. Biophysical Tools for Biologists, Vol 2: In Vivo Techniques, 89 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlled encapsulation of single-cells into monodisperse picolitre drops“, Edd, J. F. ; Di Carlo, D. ; Humphry, K. J. ; Koster, S. ; Irimia, D. ; Weitz, D. A. ; Toner, M. Lab on a Chip, 8, 1262-1264 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Eutectic gallium-indium (EGaIn): A liquid metal alloy for the formation of stable structures in microchannels at room temperature“, Dickey, M. D. ; Chiechi, R. C. ; Larsen, R. J. ; Weiss, E. A. ; Weitz, D. A. ; Whitesides, G. M. Advanced Functional Materials, 18, 1097-1104 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Droplet-based microfluidic platforms for the encapsulation and screening of mammalian cells and multicellular organisms“, Clausell-Tormos, J. ; Lieber, D. ; Baret, J. – C. ; El-Harrak, A. ; Miller, O. J. ; Frenz, L. ; Blouwolff, J. ; Humphry, K. J. ; Koster, S. ; Duan, H. ; et al. Chemistry & Biology, 15, 427-437 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Highly responsive hydrogel scaffolds formed by three-dimensional organization of microgel nanoparticles“, Cho, E. C. ; Kim, J. – W. ; Fernandez-Nieves, A. ; Weitz, D. A. Nano Letters, 8, 168-172 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Droplet-based microfluidics for emulsion and solvent evaporation synthesis of monodisperse mesoporous silica microspheres“, Carroll, N. J. ; Rathod, S. B. ; Derbins, E. ; Mendez, S. ; Weitz, D. A. ; Petsev, D. N. Langmuir, 24, 658-661 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Cytoplasmic diffusion: Molecular motors mix it up“, Brangwynne, C. P. ; Koenderink, G. H. ; MacKintosh, F. C. ; Weitz, D. A. Journal of Cell Biology, 183, 583-587 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nonequilibrium microtubule fluctuations in a model cytoskeleton“, Brangwynne, C. P. ; Koenderink, G. H. ; MacKintosh, F. C. ; Weitz, D. A. Physical Review Letters, 100, 118104 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A quantitative analysis of contractility in active cytoskeletal protein networks“, Bendix, P. M. ; Koenderink, G. H. ; Cuvelier, D. ; Dogic, Z. ; Koeleman, B. N. ; Brieher, W. M. ; Field, C. M. ; Mahadevan, L. ; Weitz, D. A. Biophysical Journal, 94, 3126-3136 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Single-layer membrane valves for elastomeric microfluidic devices“, Abate, A. R. ; Weitz, D. A. Applied Physics Letters, 92, 243509 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Glass coating for PDMS microfluidic channels by sol-gel methods“, Abate, A. R. ; Lee, D. ; Do, T. ; Holtze, C. ; Weitz, D. A. Lab on a Chip, 8, 516-518 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Photoreactive coating for high-contrast spatial patterning of microfluidic device wettability“, Abate, A. R. ; Krummel, A. T. ; Lee, D. ; Marquez, M. ; Holtze, C. ; Weitz, D. A. Lab on a Chip, 8, 2157-2160 (2008).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Noninvasive Probing of the Spatial Organization of Polymer Chains in Hydrogels Using Fluorescence Resonance Energy Transfer (FRET)“, Kong, H. J. ; Kim, C. J. ; Huebsch, N. ; Weitz, D. A. ; Mooney, D. J. Journal of the American Chemical Society, 129, 4518-4519 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Strain-rate frequency superposition: A rheological probe of structural relaxation in soft materials“, Wyss, H. M. ; Miyazaki, K. ; Mattsson, J. ; Hu, Z. ; Reichman, D. R. ; Weitz, D. A. Physical Review Letters, 98, 238303 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Short- and long-range correlated motion observed in colloidal glasses and liquids“, Weeks, E. R. ; Crocker, J. C. ; Weitz, D. A. Journal of Physics-Condensed Matter, 19, 205131 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dripping, jetting, drops, and wetting: The magic of microfluidics“, Utada, A. S. ; Chu, L. Y. ; Fernandez-Nieves, A. ; Link, D. R. ; Holtze, C. ; Weitz, D. A. Mrs Bulletin, 32, 702-708 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dripping to jetting transitions in coflowing liquid streams“, Utada, A. S. ; Fernandez-Nieves, A. ; Stone, H. A. ; Weitz, D. A. Physical Review Letters, 99, 094502 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Velocity fluctuations of initially stratified sedimenting spheres“, Tee, S. – Y. ; Mucha, P. J. ; Brenner, M. P. ; Weitz, D. A. Physics of Fluids, 19, 113304 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A Stochastic Model of Glioblastoma Invasion“, Stein, A. M. ; Vader, D. A. ; Sander, L. M. ; Weitz, D. A. Mathematical Modeling of Biological Systems, Vol I: Cellular Biophysics, Regulatory Networks, Development, Biomedicine, and Data Analysis, 31 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Mixing characterization inside microdroplets engineered on a microcoalescer“, Sarrazin, F. ; Prat, L. ; Di Miceli, N. ; Cristobal, G. ; Link, D. R. ; Weitz, D. A. Chemical Engineering Science, 62, 1042-1048 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Structural rearrangements that govern flow in colloidal glasses“, Schall, P. ; Weitz, D. A. ; Spaepen, F. Science, 318, 1895-1899 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Target-locking acquisition with real-time confocal (TARC) microscopy“, Lu, P. J. ; Sims, P. A. ; Oki, H. ; Macarthur, J. B. ; Weitz, D. A. Optics Express, 15, 8702-8712 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Visualizing the strain field in semiflexible polymer networks: Strain fluctuations and nonlinear rheology of F-actin gels“, Liu, J. ; Koenderink, G. H. ; Kasza, K. E. ; MacKintosh, F. C. ; Weitz, D. A. Physical Review Letters, 98, 198304 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Viscoelastic properties of microtubule networks“, Lin, Y. – C. ; Koenderink, G. H. ; MacKintosh, F. C. ; Weitz, D. A. Macromolecules, 40, 7714-7720 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A new microrheometric approach reveals individual and cooperative roles for TGF-beta 1 and IL-1 beta in fibroblast-mediated stiffening of collagen gels“, Leung, L. Y. ; Tian, D. ; Brangwynne, C. P. ; Weitz, D. A. ; Tschumperlin, D. J. Faseb Journal, 21, 2064-2073 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Colloidal assembly route for responsive colloidosomes with tunable permeability“, Kim, J. – W. ; Fernandez-Nieves, A. ; Dan, N. ; Utada, A. S. ; Marquez, M. ; Weitz, D. A. Nano Letters, 7, 2876-2880 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controlled production of emulsion drops using an electric field in a flow-focusing microfluidic device“, Kim, H. ; Luo, D. ; Link, D. ; Weitz, D. A. ; Marquez, M. ; Cheng, Z. Applied Physics Letters, 91, 133106 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fabrication of monodisperse gel shells and functional microgels in microfluidic devices“, Kim, J. – W. ; Utada, A. S. ; Fernandez-Nieves, A. ; Hu, Z. ; Weitz, D. A. Angewandte Chemie-International Edition, 46, 1819-1822 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Gravitational stability of suspensions of attractive colloidal particles“, Kim, C. ; Liu, Y. ; Kuehnle, A. ; Hess, S. ; Viereck, S. ; Danner, T. ; Mahadevan, L. ; Weitz, D. A. Physical Review Letters, 99, 028303 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Uniform nonspherical colloidal particles with tunable shapes“, Kim, J. – W. ; Larsen, R. J. ; Weitz, D. A. Advanced Materials, 19, 2005-2009 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The cell as a material“, Kasza, K. E. ; Rowat, A. C. ; Liu, J. ; Angelini, T. E. ; Brangwynne, C. P. ; Koenderink, G. H. ; Weitz, D. A. Current Opinion in Cell Biology, 19, 101-107 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Novel defect structures in nematic liquid crystal shells“, Fernandez-Nieves, A. ; Vitelli, V. ; Utada, A. S. ; Link, D. R. ; Marquez, M. ; Nelson, D. R. ; Weitz, D. A. Physical Review Letters, 99, 157801 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Topological changes in bipolar nematic droplets under flow“, Fernandez-Nieves, A. ; Link, D. R. ; Marquez, M. ; Weitz, D. A. Physical Review Letters, 98, 087801 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Controllable monodisperse multiple emulsions“, Chu, L. – Y. ; Utada, A. S. ; Shah, R. K. ; Kim, J. – W. ; Weitz, D. A. Angewandte Chemie-International Edition, 46, 8970-8974 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Monodisperse thermoresponsive microgels with tunable volume-phase transition kinetics“, Chu, L. – Y. ; Kim, J. – W. ; Shah, R. K. ; Weitz, D. A. Advanced Functional Materials, 17, 3499-3504 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Force fluctuations and polymerization dynamics of intracellular microtubules“, Brangwynne, C. P. ; MacKintosh, F. C. ; Weitz, D. A. Proceedings of the National Academy of Sciences of the United States of America, 104, 16128-16133 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rheology and microrheology of a microstructured fluid: The gellan gum case“, Caggioni, M. ; Spicer, P. T. ; Blair, D. L. ; Lindberg, S. E. ; Weitz, D. A. Journal of Rheology, 51, 851-865 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Bending dynamics of fluctuating biopolymers probed by automated high-resolution filament tracking“, Brangwynne, C. P. ; Koenderink, G. H. ; Barry, E. ; Dogic, Z. ; MacKintosh, F. C. ; Weitz, D. A. Biophysical Journal, 93, 346-359 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Spinodal decomposition in a model colloid-polymer mixture in microgravity“, Bailey, A. E. ; Poon, W. C. K. ; Christianson, R. J. ; Schofield, A. B. ; Gasser, U. ; Prasad, V. ; Manley, S. ; Segre, P. N. ; Cipelletti, L. ; Meyer, W. V. ; et al. Physical Review Letters, 99, 205701 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Optical manipulation and rotation of liquid crystal drops using high-index fiber-optic tweezers“, Abedin, K. S. ; Kerbage, C. ; Fernandez-Nieves, A. ; Weitz, D. A. Applied Physics Letters, 91, 091119 (2007).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Mechanism for clogging of microchannels“, Wyss, H. M. ; Blair, D. L. ; Morris, J. F. ; Stone, H. A. ; Weitz, D. A. Physical Review E, 74, 061402 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Buckling and crumpling of drying droplets of colloid-polymer suspensions“, Sugiyama, Y. ; Larsen, R. J. ; Kim, J. – W. ; Weitz, D. A. Langmuir, 22, 6024-6030 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microfluidic assembly of homogeneous and janus colloid-filled hydrogel granules“, Shepherd, R. F. ; Conrad, J. C. ; Rhodes, S. K. ; Link, D. R. ; Marquez, M. ; Weitz, D. A. ; Lewis, J. A. Langmuir, 22, 8618-8622 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Visualizing dislocation nucleation by indenting colloidal crystals“, Schall, P. ; Cohen, I. ; Weitz, D. A. ; Spaepen, F. Nature, 440, 319-323 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nonlinear viscoelasticity of metastable complex fluids“, Miyazaki, K. ; Wyss, H. M. ; Weitz, D. A. ; Reichman, D. R. Europhysics Letters, 75, 915-921 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fluids of clusters in attractive colloids“, Lu, P. J. ; Conrad, J. C. ; Wyss, H. M. ; Schofield, A. B. ; Weitz, D. A. Physical Review Letters, 96, 028306 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Electric control of droplets in microfluidic devices“, Link, D. R. ; Grasland-Mongrain, E. ; Duri, A. ; Sarrazin, F. ; Cheng, Z. D. ; Cristobal, G. ; Marquez, M. ; Weitz, D. A. Angewandte Chemie-International Edition, 45, 2556-2560 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microrheology probes length scale dependent rheology“, Liu, J. ; Gardel, M. L. ; Kroy, K. ; Frey, E. ; Hoffman, B. D. ; Crocker, J. C. ; Bausch, A. R. ; Weitz, D. A. Physical Review Letters, 96, 118104 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Synthesis of nonspherical colloidal particles with anisotropic properties“, Kim, J. – W. ; Larsen, R. J. ; Weitz, D. A. Journal of the American Chemical Society, 128, 14374-14377 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Direct imaging of repulsive and attractive colloidal glasses“, Kaufman, L. J. ; Weitz, D. A. Journal of Chemical Physics, 125, 074716 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dewetting instability during the formation of polymersomes from block-copolymer-stabilized double emulsions“, Hayward, R. C. ; Utada, A. S. ; Dan, N. ; Weitz, D. A. Langmuir, 22, 4457-4461 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Irreversible shear-activated aggregation in non-Brownian suspensions“, Guery, J. ; Bertrand, E. ; Rouzeau, C. ; Levitz, P. ; Weitz, D. A. ; Bibette, J. Physical Review Letters, 96, 198301 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Prestressed F-actin networks cross-linked by hinged filamins replicate mechanical properties of cells“, Gardel, M. L. ; Nakamura, F. ; Hartwig, J. H. ; Crocker, J. C. ; Stossel, T. P. ; Weitz, D. A. PNAS, 103, 1762-1767 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stress-dependent elasticity of composite actin networks as a model for cell behavior“, Gardel, M. L. ; Nakamura, F. ; Hartwig, J. ; Crocker, J. C. ; Stossel, T. P. ; Weitz, D. A. Physical Review Letters, 96, 088102 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Polarization dependent Bragg diffraction and electro-optic switching of three-dimensional assemblies of nematic liquid crystal droplets“, Fernandez-Nieves, A. ; Link, D. R. ; Weitz, D. A. Applied Physics Letters, 88, 121911 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamics of fracture in drying suspensions“, Dufresne, E. R. ; Stark, D. J. ; Greenblatt, N. A. ; Cheng, J. X. ; Hutchinson, J. W. ; Mahadevan, L. ; Weitz, D. A. Langmuir, 22, 7144-7147 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microscopic structure and elasticity of weakly aggregated colloidal gels“, Dinsmore, A. D. ; Prasad, V. ; Wong, I. Y. ; Weitz, D. A. Physical Review Letters, 96, 185502 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fast and slow dynamics of the cytoskeleton“, Deng, L. ; Trepat, X. ; Butler, J. P. ; Millet, E. ; Morgan, K. G. ; Weitz, D. A. ; Fredberg, J. J. Nature Materials, 5, 636-640 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Contribution of slow clusters to the bulk elasticity near the colloidal glass transition“, Conrad, J. C. ; Dhillon, P. P. ; Weeks, E. R. ; Reichman, D. R. ; Weitz, D. A. Physical Review Letters, 97, 265701 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Slip, yield, and bands in colloidal crystals under oscillatory shear“, Cohen, I. ; Davidovitch, B. ; Schofield, A. B. ; Brenner, M. P. ; Weitz, D. A. Physical Review Letters, 97, 215502 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microtubules can bear enhanced compressive loads in living cells because of lateral reinforcement“, Brangwynne, C. P. ; MacKintosh, F. C. ; Kumar, S. ; Geisse, N. A. ; Talbot, J. ; Mahadevan, L. ; Parker, K. K. ; Ingber, D. E. ; Weitz, D. A. Journal of Cell Biology, 173, 733-741 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dielectrophoretic manipulation of drops for high-speed microfluidic sorting devices“, Ahn, K. ; Kerbage, C. ; Hunt, T. P. ; Westervelt, R. M. ; Link, D. R. ; Weitz, D. A. Applied Physics Letters, 88, 024104 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Electrocoalescence of drops synchronized by size-dependent flow in microfluidic channels“, Ahn, K. ; Agresti, J. ; Chong, H. ; Marquez, M. ; Weitz, D. A. Applied Physics Letters, 88, 264105 (2006).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dielectrophoretic manipulation of drops for high-speed microfluidic sorting devices“, Ahn, K. ; Kerbage, C. ; Hunt, T. P. ; Westervelt, R. M. ; Link, D. R. ; Weitz, D. A. Applied Physics Letters, 88, 024104 (2006). “Electrocoalescence of drops synchronized by size-dependent flow in microfluidic channels“, Ahn, K. ; Agresti, J. ; Chong, H. ; Marquez, M. ; Weitz, D. A. Applied Physics Letters, 88, 264105 (2006). “Microrheology“, Gardel, M. L. ; Valentine, M. T. ; Weitz, D. A. Microscale Diagnostic Techniques, (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Effect of temperature on carbon-black agglomeration in hydrocarbon liquid with adsorbed dispersant“, Won, Y. Y. ; Meeker, S. P. ; Trappe, V. ; Weitz, D. A. ; Diggs, N. Z. ; Emert, J. I. Langmuir, 21, 924-932 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Mechanical properties of Xenopus egg cytoplasmic extracts“, Valentine, M. T. ; Perlman, Z. E. ; Mitchison, T. J. ; Weitz, D. A. Biophysical Journal, 88, 680-689 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Monodisperse double emulsions generated from a microcapillary device“, Utada, A. S. ; Lorenceau, E. ; Link, D. R. ; Kaplan, P. D. ; Stone, H. A. ; Weitz, D. A. Science, 308, 537-541 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Onset of buckling in drying droplets of colloidal suspensions“, Tsapis, N. ; Dufresne, E. R. ; Sinha, S. S. ; Riera, C. S. ; Hutchinson, J. W. ; Mahadevan, L. ; Weitz, D. A. Physical Review Letters, 94, 018302 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Glasslike arrest in spinodal decomposition as a route to colloidal gelation“, Manley, S. ; Wyss, H. M. ; Miyazaki, K. ; Conrad, J. C. ; Trappe, V. ; Kaufman, L. J. ; Reichman, D. R. ; Weitz, D. A. Physical Review Letters, 95, 238302 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Gravitational collapse of colloidal gels“, Manley, S. ; Skotheim, J. M. ; Mahadevan, L. ; Weitz, D. A. Physical Review Letters, 94, 218302 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Time-dependent strength of colloidal gels“, Manley, S. ; Davidovitch, B. ; Davies, N. R. ; Cipelletti, L. ; Bailey, A. E. ; Christianson, R. J. ; Gasser, U. ; Prasad, V. ; Segre, P. N. ; Doherty, M. P. ; et al. Physical Review Letters, 95, 048302 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Generation of polymerosomes from double-emulsions“, Lorenceau, E. ; Utada, A. S. ; Link, D. R. ; Cristobal, G. ; Joanicot, M. ; Weitz, D. A. Langmuir, 21, 9183-9186 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Glioma expansion in collagen I matrices: Analyzing collagen concentration-dependent growth and motility patterns“, Kaufman, L. J. ; Brangwynne, C. P. ; Kasza, K. E. ; Filippidi, E. ; Gordon, V. D. ; Deisboeck, T. S. ; Weitz, D. A. Biophysical Journal, 89, 635-650 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Charge stabilization in nonpolar solvents“, Hsu, M. F. ; Dufresne, E. R. ; Weitz, D. A. Langmuir, 21, 4881-4887 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Self-assembled shells composed of colloidal particles: Fabrication and characterization“, Hsu, M. F. ; Nikolaides, M. G. ; Dinsmore, A. D. ; Bausch, A. R. ; Gordon, V. D. ; Chen, X. ; Hutchinson, J. W. ; Weitz, D. A. Langmuir, 21, 2963-2970 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tetrahedral calcite crystals facilitate self-assembly at the air-water interface“, Hashmi, S. M. ; Wickman, H. H. ; Weitz, D. A. Physical Review E, 72, 041605 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Optically anisotropic colloids of controllable shape“, Fernandez-Nieves, A. ; Cristobal, G. ; Garces-Chavez, V. ; Spalding, G. C. ; Dholakia, K. ; Weitz, D. A. Advanced Materials, 17, 680-684 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microrheology of cross-linked polyacrylamide networks“, Dasgupta, B. R. ; Weitz, D. A. Physical Review E, 71, 021504 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Weak correlations between local density and dynamics near the glass transition“, Conrad, J. C. ; Starr, F. W. ; Weitz, D. A. Journal of Physical Chemistry B, 109, 21235-21240 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Cytoskeletal remodelling and slow dynamics in the living cell“, Bursac, P. ; Lenormand, G. ; Fabry, B. ; Oliver, M. ; Weitz, D. A. ; Viasnoff, V. ; Butler, J. P. ; Fredberg, J. J. Nature Materials, 4, 557-561 (2005).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Anomalous diffusion probes microstructure dynamics of entangled F-actin networks“, Wong, I. Y. ; Gardel, M. L. ; Reichman, D. R. ; Weeks, E. R. ; Valentine, M. T. ; Bausch, A. R. ; Weitz, D. A. Physical Review Letters, 92, 178101 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “New developments in colloid science“, Weitz, D. A. ; Russel, W. B. Mrs Bulletin, 29, 82-84 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Packing in the spheres“, Weitz, D. A. Science, 303, 968-969 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Colloid surface chemistry critically affects multiple particle tracking measurements of biomaterials“, Valentine, M. T. ; Perlman, Z. E. ; Gardel, M. L. ; Shin, J. H. ; Matsudaira, P. ; Mitchison, T. J. ; Weitz, D. A. Biophysical Journal, 86, 4004-4014 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Relating microstructure to rheology of a bundled and cross-linked F-actin network in vitro“, Shin, J. H. ; Gardel, M. L. ; Mahadevan, L. ; Matsudaira, P. ; Weitz, D. A. PNAS, 101, 9636-9641 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Visualization of dislocation dynamics in colloidal crystals“, Schall, P. ; Cohen, I. ; Weitz, D. A. ; Spaepen, F. Science, 305, 1944-1948 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Swollen vesicles and multiple emulsions from block copolymers“, Nikova, A. T. ; Gordon, V. D. ; Cristobal, G. ; Talingting, M. R. ; Bell, D. C. ; Evans, C. ; Joanicot, M. ; Zasadzinski, J. A. ; Weitz, D. A. Macromolecules, 37, 2215-2218 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A model for velocity fluctuations in sedimentation“, Mucha, P. J. ; Tee, S. Y. ; Weitz, D. A. ; Shraiman, B. I. ; Brenner, M. P. Journal of Fluid Mechanics, 501, 71-104 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Limits to gelation in colloidal aggregation“, Manley, S. ; Cipelletti, L. ; Trappe, V. ; Bailey, A. E. ; Christianson, R. J. ; Gasser, U. ; Prasad, V. ; Segre, P. N. ; Doherty, M. P. ; Sankaran, S. ; et al. Physical Review Letters, 93, 108302 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Geometrically mediated breakup of drops in microfluidic devices“, Link, D. R. ; Anna, S. L. ; Weitz, D. A. ; Stone, H. A. Physical Review Letters, 92, 054503 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dealing with mechanics: Mechanisms of force transduction in cells“, Janmey, P. A. ; Weitz, D. A. Trends in Biochemical Sciences, 29, 364-370 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rheology of binary colloidal structures assembled via specific biological cross-linking“, Hiddessen, A. L. ; Weitz, D. A. ; Hammer, D. A. Langmuir, 20, 6788-6795 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A new device for the generation of microbubbles“, Gordillo, J. M. ; Cheng, Z. D. ; Ganan-Calvo, A. M. ; Marquez, M. ; Weitz, D. A. Physics of Fluids, 16, 2828-2834 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Self-assembled polymer membrane capsules inflated by osmotic pressure“, Gordon, V. D. ; Xi, C. ; Hutchinson, J. W. ; Bausch, A. R. ; Marquez, M. ; Weitz, D. A. Journal of the American Chemical Society, 126, 14117-14122 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Elastic behavior of cross-linked and bundled actin networks“, Gardel, M. L. ; Shin, J. H. ; MacKintosh, F. C. ; Mahadevan, L. ; Matsudaira, P. ; Weitz, D. A. Science, 304, 1301-1305 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Scaling of F-actin network rheology to probe single filament elasticity and dynamics“, Gardel, M. L. ; Shin, J. H. ; MacKintosh, F. C. ; Mahadevan, L. ; Matsudaira, P. A. ; Weitz, D. A. Physical Review Letters, 93, 188102 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Electro-optics of bipolar nematic liquid crystal droplets“, Fernandez-Nieves, A. ; Link, D. R. ; Rudhardt, D. ; Weitz, D. A. Physical Review Letters, 92, 105503 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Shear-induced configurations of confined colloidal suspensions“, Cohen, I. ; Mason, T. G. ; Weitz, D. A. Physical Review Letters, 93, 046001 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Electrostatics for exploring the nature of the hydrogen bonding in polyethylene oxide hydration“, Aray, Y. ; Manuel, M. ; Rodriguez, J. ; Vega, D. ; Simon-Manso, Y. ; Coll, S. ; Gonzalez, C. ; Weitz, D. A. Journal of Physical Chemistry B, 108, 2418-2424 (2004).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Shake-gels: Shear-induced gelation of laponite-PEO mixtures“, Zebrowski, J. ; Prasad, V. ; Zhang, W. ; Walker, L. M. ; Weitz, D. A. Colloids and Surfaces A: Physicochemical and Engineering Aspects, 213, 189-197 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Direct lung delivery of para-aminosalicylic acid by aerosol particles“, Tsapis, N. ; Bennett, D. ; O’Driscoll, K. ; Shea, K. ; Lipp, M. M. ; Fu, K. ; Clarke, R. W. ; Deaver, D. ; Yamins, D. ; Wright, J. ; et al. Tuberculosis, 83, 379-385 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Phase switching of ordered arrays of liquid crystal emulsions“, Rudhardt, D. ; Fernandez-Nieves, A. ; Link, D. R. ; Weitz, D. A. Applied Physics Letters, 82, 2610-2612 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microscopic origin of light scattering in tissue“, Popp, A. K. ; Valentine, M. T. ; Kaplan, P. D. ; Weitz, D. A. Applied Optics, 42, 2871-2880 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universal features of the fluid to solid transition for attractive colloidal particles“, Prasad, V. ; Trappe, V. ; Dinsmore, A. D. ; Segre, P. N. ; Cipelletti, L. ; Weitz, D. A. Faraday Discussions, 123, 1-12 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Engineering asymmetric vesicles“, Pautot, S. ; Frisken, B. J. ; Weitz, D. A. PNAS, 100, 10718-10721 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Production of unilamellar vesicles using an inverted emulsion“, Pautot, S. ; Frisken, B. J. ; Weitz, D. A. Langmuir, 19, 2870-2879 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Spontaneous formation of lipid structures at oil/water lipid interfaces“, Pautot, S. ; Frisken, B. J. ; Cheng, J. X. ; Xie, X. S. ; Weitz, D. A. Langmuir, 19, 10281-10287 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Like-charged particles at liquid interfaces – Reply“, Nikolaides, M. G. ; Bausch, A. R. ; Hsu, M. F. ; Dinsmore, A. D. ; Brenner, M. P. ; Gay, C. ; Weitz, D. A. Nature, 424, 1014 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamics of weakly aggregated colloidal particles“, Kilfoil, M. L. ; Pashkovski, E. E. ; Masters, J. A. ; Weitz, D. A. Philosophical Transactions of the Royal Society of London Series A, 361, 753-764 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Synthesis of voltage-sensitive fluorescence signals from three-dimensional myocardial activation patterns“, Hyatt, C. J. ; Mironov, S. F. ; Wellner, M. ; Berenfeld, O. ; Popp, A. K. ; Weitz, D. A. ; Jalife, J. ; Pertsov, A. M. Biophysical Journal, 85, 2673-2683 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Measuring the mechanical stress induced by an expanding multicellular tumor system: A case study“, Gordon, V. D. ; Valentine, M. T. ; Gardel, M. L. ; Andor-Ardo, D. ; Dennison, S. ; Bogdanov, A. A. ; Weitz, D. A. ; Deisboeck, T. S. Experimental Cell Research, 289, 58-66 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Local order in a supercooled colloidal fluid observed by confocal microscopy“, Gasser, U. ; Schofield, A. ; Weitz, D. A. Journal of Physics: Condensed Matter, 15, S375-S380 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microrheology of entangled F-actin solutions“, Gardel, M. L. ; Valentine, M. T. ; Crocker, J. C. ; Bausch, A. R. ; Weitz, D. A. Physical Review Letters, 91, 158302 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Flow and fracture in drying nanoparticle suspensions“, Dufresne, E. R. ; Corwin, E. I. ; Greenblatt, N. A. ; Ashmore, J. ; Wang, D. Y. ; Dinsmore, A. D. ; Cheng, J. X. ; Xie, X. S. ; Hutchinson, J. W. ; Weitz, D. A. Physical Review Letters, 91, 224501 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universal non-diffusive slow dynamics in aging soft matter“, Cipelletti, L. ; Ramos, L. ; Manley, S. ; Pitard, E. ; Weitz, D. A. ; Pashkovski, E. E. ; Johansson, M. Faraday Discussions, 123, 237-251 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Ordering of water molecules between phospholipid bilayers visualized by coherent anti-Stokes Raman scattering microscopy“, Cheng, J. X. ; Pautot, S. ; Weitz, D. A. ; Xie, X. S. PNAS, 100, 9826-9830 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Grain boundary scars and spherical crystallography“, Bausch, A. R. ; Bowick, M. J. ; Cacciuto, A. ; Dinsmore, A. D. ; Hsu, M. F. ; Nelson, D. R. ; Nikolaides, M. G. ; Travesset, A. ; Weitz, D. A. Science, 299, 1716-1718 (2003).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Size-dependent intracellular immunotargeting of therapeutic cargoes into endothelial cells“, Wiewrodt, R. ; Thomas, A. P. ; Cipelletti, L. ; Christofidou-Solomidou, M. ; Weitz, D. A. ; Feinstein, S. I. ; Schaffer, D. ; Albelda, S. M. ; Koval, M. ; Muzykantov, V. R. Blood, 99, 912-922 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Properties of cage rearrangements observed near the colloidal glass transition“, Weeks, E. R. ; Weitz, D. A. Physical Review Letters, 89, 095704 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Subdiffusion and the cage effect studied near the colloidal glass transition“, Weeks, E. R. ; Weitz, D. A. Chemical Physics, 284, 361-367 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Trojan particles: Large porous carriers of nanoparticles for drug delivery“, Tsapis, N. ; Bennett, D. ; Jackson, B. ; Weitz, D. A. ; Edwards, D. A. PNAS, 99, 12001-12005 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nonuniversal velocity fluctuations of sedimenting particles“, Tee, S. Y. ; Mucha, P. J. ; Cipelletti, L. ; Manley, S. ; Brenner, M. P. ; Segre, P. N. ; Weitz, D. A. Physical Review Letters, 89, 054501 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rheology of defect networks in cholesteric liquid crystals“, Ramos, L. ; Zapotocky, M. ; Lubensky, T. C. ; Weitz, D. A. Physical Review E, 66, 031711 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Electric-field-induced capillary attraction between like-charged particles at liquid interfaces“, Nikolaides, M. G. ; Bausch, A. R. ; Hsu, M. F. ; Dinsmore, A. D. ; Brenner, M. P. ; Weitz, D. A. ; Gay, C. Nature, 420, 299-301 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Electro-optic response and switchable Bragg diffraction for liquid crystals in colloid-templated materials“, Mach, P. ; Wiltzius, P. ; Megens, M. ; Weitz, D. A. ; Lin, K. H. ; Lubensky, T. C. ; Yodh, A. G. Physical Review E, 65, 031720 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Switchable Bragg diffraction from liquid crystal in colloid-templated structures“, Mach, P. ; Wiltzius, P. ; Megens, M. ; Weitz, D. A. ; Lin, K. H. ; Lubensky, T. C. ; Yodh, A. G. Europhysics Letters, 58, 679-685 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Colloidosomes: Selectively permeable capsules composed of colloidal particles“, Dinsmore, A. D. ; Hsu, M. F. ; Nikolaides, M. G. ; Marquez, M. ; Bausch, A. R. ; Weitz, D. A. Science, 298, 1006-1009 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Direct imaging of three-dimensional structure and topology of colloidal gels“, Dinsmore, A. D. ; Weitz, D. A. Journal of Physics-Condensed Matter, 14, 7581-7597 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Diffusing acoustic wave spectroscopy“, Cowan, M. L. ; Jones, I. P. ; Page, J. H. ; Weitz, D. A. Physical Review E, 65, 066605 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microrheology of polyethylene oxide using diffusing wave spectroscopy and single scattering“, Dasgupta, B. R. ; Tee, S. Y. ; Crocker, J. C. ; Frisken, B. J. ; Weitz, D. A. Physical Review E, 65, 051505 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tracking the dynamics of single quantum dots: Beating the optical resolution twice“, Bausch, A. R. ; Weitz, D. A. Journal of Nanoparticle Research, 4, 477-481 (2002).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microrheology of polyethylene oxide using diffusing wave spectroscopy and single scattering“, Dasgupta, B. R. ; Tee, S. Y. ; Crocker, J. C. ; Frisken, B. J. ; Weitz, D. A. Physical Review E, 65, 051505 (2002). “Tracking the dynamics of single quantum dots: Beating the optical resolution twice“, Bausch, A. R. ; Weitz, D. A. Journal of Nanoparticle Research, 4, 477-481 (2002). “Memories of paste“, Weitz, D. A. Nature, 410, 32-33 (2001).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Investigating the microenvironments of inhomogeneous soft materials with multiple particle tracking“, Valentine, M. T. ; Kaplan, P. D. ; Thota, D. ; Crocker, J. C. ; Gisler, T. ; Prud’homme, R. K. ; Beck, M. ; Weitz, D. A. Physical Review E, 64, 061506 (2001).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microscope-based static light-scattering instrument“, Valentine, M. T. ; Popp, A. K. ; Weitz, D. A. ; Kaplan, P. D. Optics Letters, 26, 890-892 (2001).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Microscope-based static light-scattering instrument enables precise measurements of heterogeneous materials“, Valentine, M. T. ; Popp, A. K. ; Kaplan, P. D. ; Weitz, D. A. Optics & Photonics News, 12, 37 (2001).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Jamming phase diagram for attractive particles“, Trappe, V. ; Prasad, V. ; Cipelletti, L. ; Segre, P. N. ; Weitz, D. A. Nature, 411, 772-775 (2001).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “An effective gravitational temperature for sedimentation“, Segre, P. N. ; Liu, F. ; Umbanhowar, P. ; Weitz, D. A. Nature, 409, 594-597 (2001).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Glasslike kinetic arrest at the colloidal-gelation transition“, Segre, P. N. ; Prasad, V. ; Schofield, A. B. ; Weitz, D. A. Physical Review Letters, 86, 6042 (2001).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Patterned colloidal coating using adhesive emulsions“, Ramos, L. ; Weitz, D. A. Langmuir, 17, 2275-2277 (2001).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The effect of solvent and ions on the structure and rheological properties of guar solutions“, Gittings, M. R. ; Cipelletti, L. ; Trappe, V. ; Weitz, D. A. ; In, M. ; Lal, J. Journal of Physical Chemistry A, 105, 9310-9315 (2001).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Real-space imaging of nucleation and growth in colloidal crystallization“, Gasser, U. ; Weeks, E. R. ; Schofield, A. ; Pusey, P. N. ; Weitz, D. A. Science, 292, 258-262 (2001).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Three-dimensional confocal microscopy of colloids“, Dinsmore, A. D. ; Weeks, E. R. ; Prasad, V. ; Levitt, A. C. ; Weitz, D. A. Applied Optics, 40, 4152-4159 (2001).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Three-dimensional direct imaging of structural relaxation near the colloidal glass transition“, Weeks, E. R. ; Crocker, J. C. ; Levitt, A. C. ; Schofield, A. ; Weitz, D. A. Science, 287, 627-631 (2000).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Monodisperse emulsion generation via drop break off in a coflowing stream“, Umbanhowar, P. B. ; Prasad, V. ; Weitz, D. A. Langmuir, 16, 347-351 (2000).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Scaling of the viscoelasticity of weakly attractive particles“, Trappe, V. ; Weitz, D. A. Physical Review Letters, 85, 449 (2000).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Diffusing acoustic wave spectroscopy of fluidized suspensions“, Page, J. H. ; Cowan, M. L. ; Weitz, D. A. Physica B, 279, 130-133 (2000).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rheology of F-actin solutions determined from thermally driven tracer motion“, Mason, T. G. ; Gisler, T. ; Kroy, K. ; Frey, E. ; Weitz, D. A. Journal of Rheology, 44, 917-928 (2000).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Entropically driven colloidal crystallization on patterned surfaces“, Lin, K. H. ; Crocker, J. C. ; Prasad, V. ; Schofield, A. ; Weitz, D. A. ; Lubensky, T. C. ; Yodh, A. G. Physical Review Letters, 85, 1770 (2000).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Assembly of binary colloidal structures via specific biological adhesion“, Hiddessen, A. L. ; Rodgers, S. D. ; Weitz, D. A. ; Hammer, D. A. Langmuir, 16, 9744-9753 (2000).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Structure of guar in solutions of H2O and D2O: An ultra-small-angle light-scattering study“, Gittings, M. R. ; Cipelletti, L. ; Trappe, V. ; Weitz, D. A. ; In, M. ; Marques, C. Journal of Physical Chemistry B, 104, 4381-4386 (2000).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Two-point microrheology of inhomogeneous soft materials“, Crocker, J. C. ; Valentine, M. T. ; Weeks, E. R. ; Gisler, T. ; Kaplan, P. D. ; Yodh, A. G. ; Weitz, D. A. Physical Review Letters, 85, 888 (2000).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Velocity fluctuations in fluidized suspensions probed by ultrasonic correlation spectroscopy“, Cowan, M. L. ; Page, J. H. ; Weitz, D. A. Physical Review Letters, 85, 453 (2000).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universal aging features in the restructuring of fractal colloidal gels“, Cipelletti, L. ; Manley, S. ; Ball, R. C. ; Weitz, D. A. Physical Review Letters, 84, 2275 (2000).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “From Colloidal Aggregation to Spinodal Decomposition in Sticky Emulsions“, Poulin, P. ; Bibette, J. ; Weitz, D. A. Euro. Phys. J., B7, 277 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Energy Velocity of Diffusing Waves in Strongly Scattering Media – Reply“, Schriemer, H. P. ; Cowan, M. L. ; Page, J. H. ; Seng, P. ; Liu, Z. ; Weitz, D. A. Physical Review Letters, 82, 2001 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Light-scattering microscope“, Kaplan, P. D. ; Trappe, V. ; Weitz, D. A. Applied Optics, 38, 4151-4157 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Particle-stabilized defect gel in cholesteric liquid crystals“, Zapotocky, M. ; Ramos, L. ; Poulin, P. ; Lubensky, T. C. ; Weitz, D. A. Science, 283, 209-212 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Surfactant-mediated two-dimensional crystallization of colloidal crystals“, Ramos, L. ; Lubensky, T. C. ; Dan, N. ; Nelson, P. ; Weitz, D. A. Science, 286, 2325-2328 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “From colloidal aggregation to spinodal decomposition in sticky emulsions“, Poulin, P. ; Bibette, J. ; Weitz, D. A. European Physical Journal B, 7, 277-281 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Diffusive transport of acoustic waves in strongly scattering media“, Page, J. H. ; Jones, I. P. ; Schriemer, H. P. ; Cowan, M. L. ; Sheng, P. ; Weitz, D. A. Physica B, 263–264, 37-39 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Viscoelasticity of depletion-induced gels in emulsion-polymer systems“, Meller, A. ; Gisler, T. ; Weitz, D. A. ; Stavans, J. Langmuir, 15, 1918-1922 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Interactions between surfactant-coated surfaces in hydrocarbon liquids containing functionalized polymer dispersant“, Giasson, S. ; Weitz, D. A. ; Israelachvili, J. N. Colloid and Polymer Science, 277, 403-413 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Scaling of the microrheology of semidilute F-actin solutions“, Gisler, T. ; Weitz, D. A. Physical Review Letters, 82, 1606 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Strain hardening of fractal colloidal gels“, Gisler, T. ; Ball, R. ; Weitz, D. A. Physical Review Letters, 82, 1064 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Emulsion glasses: A dynamic light-scattering study“, Gang, H. ; Krall, A. H. ; Cummins, H. Z. ; Weitz, D. A. Physical Review E, 59, 715 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Ultralow-angle dynamic light scattering with a charge coupled device camera based multispeckle, multitau correlator“, Cipelletti, L. ; Weitz, D. A. Review of Scientific Instruments, 70, 3214-3221 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Electrostatic repulsion of positively charged vesicles and negatively charged objects“, Aranda-Espinoza, H. ; Chen, Y. ; Dan, N. ; Lubensky, T. C. ; Nelson, P. ; Ramos, L. ; Weitz, D. A. Science, 285, 394-397 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Wave transport in random media: The ballistic to diffusive transition“, Zhang, Z. Q. ; Jones, I. P. ; Schriemer, H. P. ; Page, J. H. ; Weitz, D. A. ; Sheng, P. Physical Review E, 60, 4843 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Optical microrheology: From gels to cells“, Gisler, T. ; Weitz, D. A. AIP Conference Proceedings, 469 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A light scattering microscope“, Kaplan, P. D. ; Trappe, V. ; Weitz, D. A. Applied Optics, 38, 4151 (1999).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Inverted and multiple nematic emulsions“, Poulin, P. ; Weitz, D. A. Physical Review E, 57, 626 (1998).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Internal dynamics and elasticity of fractal colloidal gels“, Krall, A. H. ; Weitz, D. A. Physical Review Letters, 80, 778 (1998).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rotational diffusion of monodisperse liquid crystal droplets“, Hsu, P. ; Poulin, P. ; Weitz, D. A. Journal of Colloid and Interface Science, 200, 182-184 (1998).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Tracer microrheology in complex fluids“, Gisler, T. ; Weitz, D. A. Current Opinion in Colloid & Interface Science, 3, 586-592 (1998).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rotational diffusion of monodisperse liquid crystal droplets“, Hsu, P. ; Poulin, P. ; Weitz, D. A. Journal of Colloid and Interface Science, 200, 182-184 (1998). “Tracer microrheology in complex fluids“, Gisler, T. ; Weitz, D. A. Current Opinion in Colloid & Interface Science, 3, 586-592 (1998). “Diffusion in a different direction“, Weitz, D. A. Nature, 390, 233-235 (1997).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Energy velocity of diffusing waves in strongly scattering media“, Schriemer, H. P. ; Cowan, M. L. ; Page, J. H. ; Sheng, P. ; Liu, Z. Y. ; Weitz, D. A. Physical Review Letters, 79, 3166-3169 (1997).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Direct measurement of colloidal forces in an anisotropic solvent“, Poulin, P. ; Cabuil, V. ; Weitz, D. A. Physical Review Letters, 79, 4862-4865 (1997).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Novel colloidal interactions in anisotropic fluids“, Poulin, P. ; Stark, H. ; Lubensky, T. C. ; Weitz, D. A. Science, 275, 1770-1773 (1997).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Classical wave propagation in strongly scattering media“, Page, J. H. ; Schriemer, H. P. ; Jones, I. P. ; Sheng, P. ; Weitz, D. A. Physica A, 241, 64-71 (1997).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Diffusing-wave-spectroscopy measurements of viscoelasticity of complex fluids“, Mason, T. G. ; Gang, H. ; Weitz, D. A. Journal of the Optical Society of America A, 14, 139-149 (1997).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Osmotic pressure and viscoelastic shear moduli of concentrated emulsions“, Mason, T. G. ; Lacasse, M. D. ; Grest, G. S. ; Levine, D. ; Bibette, J. ; Weitz, D. A. Physical Review E, 56, 3150-3166 (1997).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamics of density fluctuations in colloidal gels“, Krall, A. H. ; Huang, Z. ; Weitz, D. A. Physica A, 235, 19-33 (1997).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Monodisperse emulsions: Properties and uses“, Mason, T. G. ; Krall, A. H. ; Gang, H. ; Bibette, J. ; Weitz, D. A. Encyclopedia of Emulsion Technology, 4, 299-336 (1996).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Materials – foams flow by stick and slip“, Weitz, D. A. Nature, 381, 475-476 (1996).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Group velocity in strongly scattering media“, Page, J. H. ; Sheng, P. ; Schriemer, H. P. ; Jones, I. ; Jing, X. D. ; Weitz, D. A. Science, 271, 634-637 (1996).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Rheology of complex fluids measured by dynamic light scattering“, Mason, T. G. ; Gang, H. ; Weitz, D. A. Journal of Molecular Structure, 383, 81-90 (1996).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Yielding and flow of monodisperse emulsions“, Mason, T. G. ; Bibette, J. ; Weitz, D. A. Journal of Colloid and Interface Science, 179, 439-448 (1996).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Anomalous viscous loss in emulsions“, Liu, A. J. ; Ramaswamy, S. ; Mason, T. G. ; Gang, H. ; Weitz, D. A. Physical Review Letters, 76, 3017-3020 (1996).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Model for the elasticity of compressed emulsions“, Lacasse, M. D. ; Grest, G. S. ; Levine, D. ; Mason, T. G. ; Weitz, D. A. Physical Review Letters, 76, 3448-3451 (1996).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Scaling of transient hydrodynamic interactions in concentrated suspensions – Reply“, Weitz, D. A. ; Ladd, A. J. C. Physical Review Letters, 75, 2253 (1995).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Adsorption and desorption of a wetting fluid in vycor studied by acoustic and optical techniques“, Page, J. H. ; Liu, J. ; Abeles, B. ; Herbolzheimer, E. ; Deckman, H. W. ; Weitz, D. A. Physical Review E, 52, 2763-2777 (1995).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Experimental test of the diffusion-approximation for multiply scattered sound“, Page, J. H. ; Schriemer, H. P. ; Bailey, A. E. ; Weitz, D. A. Physical Review E, 52, 3106-3114 (1995).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Linear viscoelasticity of colloidal hard-sphere suspensions near the glass-transition“, Mason, T. G. ; Weitz, D. A. Physical Review Letters, 75, 2770-2773 (1995).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Optical measurements of frequency-dependent linear viscoelastic moduli of complex fluids“, Mason, T. G. ; Weitz, D. A. Physical Review Letters, 74, 1250-1253 (1995).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Elasticity of compressed emulsions“, Mason, T. G. ; Bibette, J. ; Weitz, D. A. Physical Review Letters, 75, 2051-2054 (1995).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Experimental evidence for the divergence of a transport coefficient in a quasi-2-dimensional fluid“, Lin, B. H. ; Rice, S. A. ; Weitz, D. A. Physical Review E, 51, 423-429 (1995).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Temporal and spatial dependence of hydrodynamic correlations – Simulation and experiment“, Ladd, A. J. C. ; Gang, H. ; Zhu, J. X. ; Weitz, D. A. Physical Review E, 52, 6550-6572 (1995).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Time-dependent collective diffusion of colloidal particles“, Ladd, A. J. C. ; Gang, H. ; Zhu, J. X. ; Weitz, D. A. Physical Review Letters, 74, 318-321 (1995).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The density of aggregated polystyrene spheres“, Huang, Z. ; Krall, A. H. ; Weitz, D. A. Journal of Colloid and Interface Science, 170, 602-603 (1995).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Thermal fluctuations of the shapes of droplets in dense and compressed emulsions“, Gang, H. ; Krall, A. H. ; Weitz, D. A. Physical Review E, 52, 6289-6302 (1995).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Diffusing-wave spectroscopy and interferometry“, Weitz, D. A. ; Pine, D. J. MRS Bulletin, 19, 39-44 (1994).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Shape fluctuations of interacting fluid droplets“, Gang, H. ; Krall, A. H. ; Weitz, D. A. Physical Review Letters, 73, 3435-3438 (1994).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Scaling of transient hydrodynamic interactions in concentrated suspensions“, Zhu, J. X. ; Durian, D. J. ; Muller, J. ; Weitz, D. A. ; Pine, D. J. Physical Review Letters, 68, 2559-2562 (1992).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Kinetically induced ordering in gelation of emulsions“, Bibette, J. ; Mason, T. G. ; Gang, H. ; Weitz, D. A. Physical Review Letters, 69, 981-984 (1992).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Stability criteria for emulsions“, Bibette, J. ; Morse, D. C. ; Witten, T. A. ; Weitz, D. A. Physical Review Letters, 69, 2439-2442 (1992).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Internal reflection of diffusive light in random media“, Zhu, J. X. ; Pine, D. J. ; Weitz, D. A. Physical Review A, 44, 3948-3959 (1991).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Sound propagation in sodium di-2-ethyl-hexylsulfosuccinate micelles and microemulsions“, Ye, L. ; Weitz, D. A. ; Sheng, P. ; Huang, J. S. Physical Review A, 44, 8249-8263 (1991).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universality laws in coagulation“, Weitz, D. A. ; Lin, M. Y. ; Lindsay, H. M. Chemometrics and Intelligent Laboratory Systems, 10, 133-140 (1991).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Multiple light-scattering probes of foam structure and dynamics“, Durian, D. J. ; Weitz, D. A. ; Pine, D. J. Science, 252, 686-688 (1991).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Scaling behavior in shaving cream“, Durian, D. J. ; Weitz, D. A. ; Pine, D. J. Physical Review A, 44, R7902-R7905 (1991).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The length scale dependence of viscosity approaching the glass transition in glycerol“, Dixon, P. K. ; Nagel, S. R. ; Weitz, D. A. Journal of Chemical Physics, 94, 6924-6925 (1991).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Scaling in Colloid Aggregation“, D.A. Weitz, M.Y. Lin, J.S. Huang, T.A. Witten, S.K. Sinha, J.S. Gethner and R.C. Ball Scaling Phenomena Disordered Systems, ed. R. Pynne and A. Skjeltorp (Plenum, 1991), pp. 171-188 (1991).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Diffusing-wave spectroscopy in a shear flow“, Wu, X. L. ; Pine, D. J. ; Chaikin, P. M. ; Huang, J. S. ; Weitz, D. A. J. Opt. Soc. Am. B, 7, 15-20 (1990).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Hydrodynamic interactions in concentrated suspensions“, Qiu, X. ; Wu, X. L. ; Xue, J. Z. ; Pine, D. J. ; Weitz, D. A. ; Chaikin, P. M. Physical Review Letters, 65, 516-519 (1990).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Diffusing-wave spectroscopy: Dynamic light scattering in the multiple scattering limit“, Pine, D. J. ; Weitz, D. A. ; Zhu, J. X. ; Herbolzheimer, E. Journal De Physique, 51, 2101-2127 (1990).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Novel acoustic excitations in suspensions of hard-sphere colloids“, Liu, J. ; Ye, L. ; Weitz, D. A. ; Ping, S. Physical Review Letters, 65, 2602-2605 (1990).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The structure of fractal colloidal aggregates of finite extent“, Lin, M. Y. ; Klein, R. ; Lindsay, H. M. ; Weitz, D. A. ; Ball, R. C. ; Meakin, P. Journal of Colloid and Interface Science, 137, 263-280 (1990).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universal diffusion-limited colloid aggregation“, Lin, M. Y. ; Lindsay, H. M. ; Weitz, D. A. ; Ball, R. C. ; Klein, R. ; Meakin, P. J. Phys.: Condensed Matter, 2, 3093-3113 (1990).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universal reaction-limited colloid aggregation“, Lin, M. Y. ; Lindsay, H. M. ; Weitz, D. A. ; Ball, R. C. ; Klein, R. ; Meakin, P. Physical Review A, 41, 2005-2020 (1990).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamics and coarsening in 3-dimensional foams“, Durian, D. J. ; Weitz, D. A. ; Pine, D. J. Journal of Physics-Condensed Matter, 2, SA433-SA436 (1990).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamical correlations of multiply scattered light“, Pine, D. J. ; Weitz, D. A. ; Maret, G. ; Wolf, P. E. ; Herbolzheimer, E. ; Chaikin, P. M. Scattering and Localization of Classical Waves in Random Media, 312-372 (1989).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamic rigidity percolation in inverted micelles“, Ye, L. ; Weitz, D. A. ; Sheng, P. ; Bhattacharya, S. ; Huang, J. S. ; Higgins, M. J. Physical Review Letters, 63, 263-266 (1989).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nondiffusive Brownian motion studied by diffusing-wave spectroscopy“, Weitz, D. A. ; Pine, D. J. ; Pusey, P. N. ; Tough, R. J. A. Physical Review Letters, 63, 1747-1750 (1989).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Polarization memory of multiply scattered light“, MacKintosh, F. C. ; Zhu, J. X. ; Pine, D. J. ; Weitz, D. A. Physical Review B, 40, 9342-9345 (1989).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Structure and anisotropy of colloid aggregates“, Lindsay, H. M. ; Klein, R. ; Weitz, D. A. ; Lin, M. Y. ; Meakin, P. Physical Review A, 39, 3112-3119 (1989).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universality in colloid aggregation“, Lin, M. Y. ; Lindsay, H. M. ; Weitz, D. A. ; Ball, R. C. ; Klein, R. ; Meakin, P. Nature, 339, 360-362 (1989).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universality of fractal aggregates as probed by light scattering“, Lin, M. Y. ; Lindsay, H. M. ; Weitz, D. A. ; Ball, R. C. ; Klein, R. ; Meakin, P. Proceedings of the Royal Society of London Series A, Mathematical and Physical Sciences, 423, 71-87 (1989).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Laser Light Scattering as a Probe of Fractal Colloid Aggregates“, D.A. Weitz and M.Y. Lin Proceedings of the NASA Workshop on Laser Light Scattering in Microgravity, ed. by W. Meyer (NASA, Cleveland 1988), pp. 1-11.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Temporal Correlations of Multiply Scattered Light“, D.A. Weitz, D.J. Pine, P.N. Pusey, E. Herbolzheimer and P.M. Chaikin Lectures on Thermodynamics and Statistical Mechanics: Proceedings of the XVIII Winter Meeting on Statistical Physics, eds. A.E. Gonzalez, M. Medina-Noyola and C. Varea (World Sci. Singapore, 1989), pp. 139-150.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Diffusing wave spectroscopy“, Pine, D. J. ; Weitz, D. A. ; Chaikin, P. M. ; Herbolzheimer, E. Physical Review Letters, 60, 1134-1137 (1988).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Effect of rotational diffusion on quasielastic light-scattering from fractal colloid aggregates“, Lindsay, H. M. ; Klein, R. ; Weitz, D. A. ; Lin, M. Y. ; Meakin, P. Physical Review A, 38, 2614-2626 (1988).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Optical properties of aggregate clusters“, Chen, Z. ; Sheng, P. ; Weitz, D. A. ; Lindsay, H. M. ; Lin, M. Y. ; Meakin, P. Physical Review B, 37, 5232-5235 (1988).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Features of diffusing wave spectroscopy“, Pine, D. J. ; Weitz, D. A. ; Chaikin, P. M. ; Herbolzheimer, E. Proceedings of the Topical Meeting on Photon Correlation Techniques and Applications, 36-43 (1988).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Light scattering from fractal colloid aggregates“, Lindsay, H. M. ; Lin, M. Y. ; Weitz, D. A. ; Ball, R. C. ; Klein, R. ; Meakin, P. Proceedings of the Topical Meeting on Photon Correlation Techniques and Applications, 122-131 (1988).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Diffusion of particles in porous media”, Pine, D. J. ; Weitz, D. A. ; Chaikin, P. M. Fractal Aspects of Materials: Disordered Systems, 231-233 (1988).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Scaling of multipole expansion terms from fractal aggregates”, Lindsay, H. M. ; Klein, R. ; Weitz, D. A. ; Lin, M. Y. ; Meakin, P. Fractal Aspects of Materials: Disordered Systems, 263-265 (1988).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universality of colloid aggregation studied by light scattering”, Lin, M. Y. ; Weitz, D. A. ; Lindsay, H. M. ; Klein, R. ; Meakin, P. Fractal Aspects of Materials: Disordered Systems, 299-301 (1988).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Viscous fingering instabilities in porous media“, Stokes, J. P. ; Weitz, D. A. ; Ball, R. C. ; Kushnick, A. P. NATO ASI Series, 167, 139-143 (1987).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Effect of rotational diffusion on quasi-elastic light scattering from fractal clusters“, Lindsay, H. M. ; Klein, R. ; Weitz, D. A. ; Lin, M. Y. ; Meakin, P. NATO ASI Series, 167, 97-101 (1987).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Optical properties of fractal clusters“, Weitz, D. A. ; Stokes, J. P. ; Ball, R. C. ; Kushnick, A. P. AIP Conference Proceedings, 160, 1455 (1987).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamic capillary pressure in porous media: Origin of the viscous-fingering length scale“, Weitz, D. A. ; Stokes, J. P. ; Ball, R. C. ; Kushnick, A. P. Physical Review Letters, 59, 2967-2970 (1987).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Weitz, Lin, Lindsay, and Huang respond“, Weitz, D. A. ; Lin, M. Y. ; Lindsay, H. M. ; Huang, J. S. Physical Review Letters, 58, 1052 (1987).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Comment on “Hydrodynamic behavior of fractal aggregates”“, Pusey, P. N. ; Rarity, J. G. ; Klein, R. ; Weitz, D. A. Physical Review Letters, 59, 2122 (1987).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Properties of fractal colloid aggregates“, Lindsay, H. M. ; Lin, M. Y. ; Weitz, D. A. ; Sheng, P. ; Chen, Z. ; Klein, R. ; Meakin, P. Faraday Discussions, 83, 153-165 (1987).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Competition between shear-melting and Taylor instabilities in colloidal crystals“, Dimeglio, J. M. ; Weitz, D. A. ; Chaikin, P. M. Physical Review Letters, 58, 136-139 (1987).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Universal kinetics in reaction-limited aggregation“, Ball, R. C. ; Weitz, D. A. ; Witten, T. A. ; Leyvraz, F. Physical Review Letters, 58, 274-277 (1987).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fractals and scaling in kinetic colloid aggregation”, Weitz, D. A. ; Lin, M. Y. ; Huang, J. S. Physics of Complex and Supermolecular Fluids (Wiley, New York, 1987), 509-549.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Colloidal crystals”, Chaikin, P. M. ; DiMeglio, J. M. ; Dozier, W. D. ; Lindsay, H. M. ; Weitz, D. A. Physics of Complex and Supermolecular Fluids (Wiley, New York, 1987), 65-81.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Restructuring of fractal aggregates under shear stress”, Lin, M. Y. ; Lindsay, H. M. ; Weitz, D. A. Fractal Aspects of Materials: Disordered Systems (Materials Research Society, Pittsburgh, 1987), 41-43.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Beyond the fractal dimension: Multipole expansion of the structure of aggregate clusters”, Lindsay, H. M. ; Lin, M. Y. ; Weitz, D. A. ; Klein, R. ; Meakin, P. Fractal Aspects of Materials: Disordered Systems (Materials Research Society, Pittsburgh, 1987), 149-151.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Quasielastic light scattering from fractal colloid aggregates: Effects of cluster distribution and rotational diffusion”, Lin, M. Y. ; Lindsay, H. M. ; Weitz, D. A. ; Klein, R. ; Meakin, P. Fractal Aspects of Materials: Disordered Systems (Materials Research Society, Pittsburgh, 1987), 155-157.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Optical properties of fractal clusters“, Sheng, P. ; Chen, Z. ; Weitz, D. A. ; Lindsay, H. M. ; Lin, M. Y. ; Meakin, P. Fractal Aspects of Materials: Disordered Systems (Materials Research Society, Pittsburgh, 1987), 143-145.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamic scaling of cluster-mass distributions in kinetic colloid aggregation“, Weitz, D. A. ; Lin, M. Y. Physical Review Letters, 57, 2037-2040 (1986).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Interfacial stability of immiscible displacement in a porous medium“, Stokes, J. P. ; Weitz, D. A. ; Gollub, J. P. ; Dougherty, A. ; Robbins, M. O. ; Chaikin, P. M. ; Lindsay, H. M. Physical Review Letters, 57, 1718-1721 (1986).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Structure of aggregated gold colloids“, Dimon, P. ; Sinha, S. K. ; Weitz, D. A. ; Safinya, C. R. ; Smith, G. S. ; Varady, W. A. ; Lindsay, H. M. Physical Review Letters, 57, 595-598 (1986).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Surface-enhanced Raman scattering with emphasis on the liquid-solid interface”, Weitz, D. A. ; Moskovits, M. ; Creighton, J. A. Chemistry and Structure at Interfaces: New Laser and Optical Techniques (VCH Publishers, Deerfield Beach, FL, 1986), 197-243.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fractals and scaling in aggregation of colloids”, Lin, M. Y. ; Lindsay, H. M. ; Weitz, D. A. Sino-Japan Bilateral Workshop on Statistical Physics and Condensed Matter Theory (World Scientific Publishing Co., Singapore, 1986), 312-324.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Colloidal aggregation revisited – new insights based on fractal structure and surface-enhanced Raman scattering“, Weitz, D. A. ; Lin, M. Y. ; Sandroff, C. J. Surface Science, 158, 147-164 (1985).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Limits of the fractal dimension for irreversible kinetic aggregation of gold colloids“, Weitz, D. A. ; Huang, J. S. ; Lin, M. Y. ; Sung, J. Physical Review Letters, 54, 1416-1419 (1985).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Periodic structures in driven colloidal crystals“, Weitz, D. A. ; Dozier, W. D. ; Chaikin, P. M. Journal de Physique, 46, 257-268 (1985).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “High-pressure conductivity and structure of HMTSF-TCNQ“, King, H. E. ; Tozer, S. W. ; Safinya, C. R. ; Stokes, J. P. ; Weitz, D. A. ; Bloch, A. N. ; Cowan, D. O. Molecular Crystals and Liquid Crystals, 120, 101-104 (1985).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Structural studies of microcrystalline silicon films produced by sputtering“, Moustakas, T. D. ; Weitz, D. A. ; Prestridge, E. B. ; Freidman, R. Mat. Res. Soc. Symp. Proc., 38, 401-407 (1985).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fractals in colloid aggregation”, Weitz, D. A. ; Lin, M. Y. ; Huang, J. S. ; Sinha, S. K. ; Gethner, J. S. Multiple Scattering of Waves in Random Media and Rough Surfaces (Technomic Publishing Co., Lancaster, PA, 1985), 29-44.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Self-similar structures and the kinetics of aggregation of gold colloids“, Weitz, D. A. ; Huang, J. S. Kinetics of Aggregation and Gelation, 19-28 (1984).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Dynamics of diffusion-limited kinetic aggregation“, Weitz, D. A. ; Huang, J. S. ; Lin, M. Y. ; Sung, J. Physical Review Letters, 53, 1657-1660 (1984).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fractal structures formed by kinetic aggregation of aqueous gold colloids“, Weitz, D. A. ; Oliveria, M. Physical Review Letters, 52, 1433-1436 (1984).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Electrodynamics at rough metal surfaces – photochemistry and luminescence of adsorbates near metal-island films“, Garoff, S. ; Weitz, D. A. ; Alvarez, M. S. ; Gersten, J. I. Journal of Chemical Physics, 81, 5189-5200 (1984).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Luminescent and photochemical properties of molecules near rough metal surfaces“, Garoff, S. ; Weitz, D. A. ; Alvarez, M. S. Journal of Luminescence, 31–32, 930-932 (1984).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Laser desorption mass spectrometry of surface-adsorbed molecules“, Fletcher, R. A. ; Chabay, I. ; Weitz, D. A. ; Chung, J. C. Chemical Physics Letters, 104, 615-619 (1984).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Electromagnetically induced changes in intensities, spectra and temporal behavior of light scattering from molecules on silver island films“, Garoff, S. ; Weitz, D. A. ; Alvarez, M. S. ; Chung, J. C. J. Phys. Colloques, 44, 345-348 (1983).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Surface-enhanced Raman scattering by molecules adsorbed on aqueous copper colloids“, Creighton, J. A. ; Alvarez, M. S. ; Weitz, D. A. ; Garoff, S. ; Kim, M. W. J. Phys. Chem., 87, 4793-4799 (1983).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Charge transfer from tetrathiafulvalene to silver and gold surfaces studied by surface-enhanced Raman scattering“, Sandroff, C. J. ; Weitz, D. A. ; Chung, J. C. ; Herschbach, D. R. J. Phys. Chem., 87, 2127-2133 (1983).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “A comparison of Raman scattering, resonance Raman scattering, and fluorescence from molecules adsorbed on silver island films“, Weitz, D. A. ; Garoff, S. ; Gersten, J. I. ; Nitzan, A. Journal of Electron Spectroscopy and Related Phenomena, 29, 363-370 (1983).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The enhancement of Raman scattering, resonance Raman scattering, and fluorescence from molecules adsorbed on a rough silver surface“, Weitz, D. A. ; Garoff, S. ; Gersten, J. I. ; Nitzan, A. Journal of Chemical Physics, 78, 5324-5338 (1983).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Inelastic Mie scattering from rough metal surfaces“, Weitz, D. A. ; Gramila, T. J. ; Genack, A. Z. Surface Enhanced Raman Scattering, 339-360 (1982).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Excitation spectra of surface-enhanced Raman scattering on silver-island films“, Weitz, D. A. ; Garoff, S. ; Gramila, T. J. Optics Letters, 7, 168-170 (1982).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fluorescent lifetimes of molecules on silver-island films“, Weitz, D. A. ; Garoff, S. ; Hanson, C. D. ; Gramila, T. J. ; Gersten, J. I. Optics Letters, 7, 89-91 (1982).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Photochemistry of molecules adsorbed on silver-island films: effects of the spatially inhomogeneous environment“, Garoff, S. ; Weitz, D. A. ; Alvarez, M. S. Chemical Physics Letters, 93, 283-286 (1982).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Surface-enhanced spectroscopies: Fluorescence and Raman scattering”, Weitz, D. A. ; Garoff, S. Proceedings of the International Conference on Lasers (STS Press, 1982), 55-60.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Spectroscopy of adsorbed molecules using silver-island films”, Weitz, D. A. ; Garoff, S. ; Alvarez, M. S. ; Chung, J. C. Applied Physics B, 28, 230 (1982).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Spectroscopic applications of surface-enhanced Raman scattering”, Garoff, S. ; Weitz, D. A. ; Sandroff, C. J. Raman Spectroscopy: Linear and Nonlinear (John Wiley, 1982), 55-56.
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Fluorescent lifetimes and yields of molecules adsorbed on silver-island films“, Weitz, D. A. ; Garoff, S. ; Hanson, C. D. ; Gramila, T. J. ; Gersten, J. I. Journal of Luminescence, 24–25, 83-86 (1981).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Optical absorption resonances of dye-coated silver-island films“, Garoff, S. ; Weitz, D. A. ; Gramila, T. J. ; Hanson, C. D. Optics Letters, 6, 245-247 (1981).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Anomalous low-frequency Raman scattering from rough metal surfaces and the origin of surface-enhanced Raman scattering“, Weitz, D. A. ; Gramila, T. J. ; Genack, A. Z. ; Gersten, J. I. Physical Review Letters, 45, 355-358 (1980).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Nuclear-quadrupole optical hole burning in the stoichiometric material eup5o14“, Macfarlane, R. M. ; Shelby, R. M. ; Genack, A. Z. ; Weitz, D. A. Optics Letters, 5, 462-464 (1980).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Coherent transients by optical-phase switching – dephasing in LaCl3-Pr3+“, Genack, A. Z. ; Weitz, D. A. ; Macfarlane, R. M. ; Shelby, R. M. ; Schenzle, A. Physical Review Letters, 45, 438-441 (1980).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Inelastic Mie scattering from rough metal surfaces – theory and experiment“, Gersten, J. I. ; Weitz, D. A. ; Gramila, T. J. ; Genack, A. Z. Physical Review B, 22, 4562-4571 (1980).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “Very low-frequency surface-enhanced Raman scattering“, Genack, A. Z. ; Weitz, D. A. ; Gramila, T. J. Surface Science, 101, 381-386 (1980).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
+1. “The role of roughness in surface-enhanced Raman scattering”, Weitz, D. A. ; Gramila, T. J. ; Genack, A. Z. ; Gersten, J. I. J. Opt. Soc. Am., 70, 1411-1412 (1980).
+
+    게시 페이지: <https://weitzlab.seas.harvard.edu/complete-list-publications/>
+
 ## Harvard University — Yilun Du
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -59918,7 +65076,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 368건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -61400,7 +66558,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 88건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -61762,7 +66920,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -61778,7 +66936,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 57건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 5개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -63827,7 +68985,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -64155,7 +69313,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 55건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -64385,7 +69543,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 369건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -65871,7 +71029,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 33건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -66015,7 +71173,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -66029,7 +71187,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -66043,7 +71201,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 130건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -67172,7 +72330,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -67186,7 +72344,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 28건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -67314,7 +72472,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 17건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -70168,7 +75326,7 @@ Kaxiras Research Group · 논문·원고 479건 · 기타 성과 0건 · 상태:
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -93776,7 +98934,7 @@ Smart Materials & Energy Laboratory (SMILE Lab) · 논문·원고 87건 · 기�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -118829,7 +123987,7 @@ in-situ Characterization and Reliability Evaluation Laboratory · 논문·원고
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -119107,7 +124265,7 @@ in-situ Characterization and Reliability Evaluation Laboratory · 논문·원고
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -119117,7 +124275,7 @@ in-situ Characterization and Reliability Evaluation Laboratory · 논문·원고
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -119997,13 +125155,19 @@ in-situ Characterization and Reliability Evaluation Laboratory · 논문·원고
 
 ## MIT — Xuanhe Zhao
 
- · 논문·원고 190건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 288건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+수집 범위: 공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <http://zhao.mit.edu/all-papers/>
+
+출처: <http://zhao.mit.edu/reviews/>
+
+출처: <http://zhao.mit.edu/representative-papers/>
+
+출처: <http://zhao.mit.edu/selected/>
 
 1. 196. Xiao-Yun Yan, Shucong Li, Won Jun Song, Runze Li, Aarosh Dahal, Bastien F. G. Aymon, Haodong Hu, Deep K. Malu, Gabriella E. Carreira, Jingjing Wu, Gengxi Lu, Bolei Deng, Jiayi Liu, Siqin Yu, Shu Wang, Eric Lu, Hyunhee Lee, Hui Xu, Anqi Chen, Yuxing Yao, James H. Zhang, Chen Gong, Yiyuan Sun, Jeong-Yun Sun, David A. Weitz, Casey O’Brien, Yuhang Hu, Zachary P. Smith, Aditya Kumar and Xuanhe Zhao. Air-permeable hydrogels through viscoelastic phase separation of aerogels, Nature 655, 372-382 (2026). MIT NEWS
 
@@ -120765,6 +125929,398 @@ in-situ Characterization and Reliability Evaluation Laboratory · 논문·원고
 
     게시 페이지: <http://zhao.mit.edu/all-papers/>
 
+1. 160 Hydrogel interfaces for merging humans and machines Nature Review Materials 2022 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 157 Engineered Living Hydrogels Advanced Materials 2022 Hydrogels; Living Materials
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 153 Magnetic Soft Materials and Robots [LaTeX version] Chemical Reviews 2022 Soft Robots; Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 152 Shaping the future of robotics through materials innovation Nature Materials 2021 Soft Robots
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 143 Soft Materials by Design: Unconventional Polymer Networks Give Extreme Properties Chemical Reviews 2021 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 125 Hydrogel machines Materials Today 2020 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 122 Soft microbots controlled by nanomagnets Nature 2019 Medical Robots
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 116 Hydrogel Bioelectronics Chemical Society Reviews 2019 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 100 Designing toughness and strength for soft materials Proceedings of the National Academy of Sciences 2017 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 62 Harnessing large deformation and instabilities of soft dielectrics: Theory, experiment, and application Applied Physics Reviews 2014 Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 196 Air-permeable hydrogels through viscoelastic phase separation of aerogels Nature 2026 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 193 Hand tracking using wearable wrist imaging Nature Electronics 2026 Ultrasound
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 186 Scaling Law for Intrinsic Fracture Energy of Diverse Stretchable Networks Physics Review X 2025 Polymer Fracture
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 176 Adhesive anti-fibrotic interfaces on diverse organs Nature 2024 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 172 Nonlocal Intrinsic Fracture Energy of Polymerlike Networks Phys. Rev. Lett. 2023 Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 162 Bioadhesive ultrasound for long-term continuous imaging of diverse organs Science 2022 Bioelectronics; Medical Imaging
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 158 Telerobotic neurovascular interventions with magnetic manipulation Science Robotics 2022 Medical Robots
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 115 Dry Double-sided Tape for Adhesion of Wet Tissues and Devices Nature 2019 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 103 Printing ferromagnetic domains for untethered fast-transforming soft materials Nature 2018 Medical Robots; 3D Printing
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 76 Tough Bonding of Hydrogels to Diverse Nonporous Surfaces Nature Materials 2016 Bioadhesives; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 42 Highly stretchable and tough hydrogels Nature 2012 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 194 Long-term stability of moisture-capturing hydrogels by preventing metal-mediated degradation Nature Communications 2026 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 193 Hand racking using wearable wrist imaging Nature Electronics 2026 Ultrasound
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 188 Adhesive nonfibrotic bioelectronic interfaces on diverse peripheral nerves for long-term functional neuromodulation Science Advances 2025 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 185 Fracture of polymer-like networks with hybrid bond strengths Journal of the Mechanics and Physics of Solids 2025 Polymer Fracture
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 184 Local volume changes in deformed elastomers with mobile chains Proceedings of the National Academy of Sciences 2024 Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 183 Reversible two-way tuning of thermal conductivity in an end-linked star-shaped thermoset Nature Communications 2024 Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 182 See how your body works in real time—wearable ultrasound is on its way Nature 2024 Ultrasound
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 181 A bioadhesive pacing lead for atraumatic cardiac monitoring and stimulation in rodent and porcine models Science Translational Medicine 2024 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 180 A Loop-Opening Model for the Intrinsic Fracture Energy of PolymerNetworks Macromolecules 2024 Polymer Fracture
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 177 Bioadhesive interface for marine sensors on diverse soft fragile species Nature Communications 2024 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 175 Wearable bioadhesive ultrasound shear wave elastography Science Advances 2024 Bioelectronics; Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. Nature Communications 2024 Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 173 An elastomer with ultrahigh strain-induced crystallization Science Advances 2023 Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 170 Fatigue-resistant hydrogel optical fibers enable peripheral nerve optogenetics during locomotion Nature Methods 2023 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 165 3D printable high-performance conducting polymer hydrogel for all-hydrogel bioelectronic interfaces Nature Materials 2023 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 164 Microfluidic bioprinting of tough hydrogel-based vascular conduits for functional blood vessels Science Advances 2022 Hydrogels; 3D Printing
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 154 An off-the-shelf bioadhesive patch for sutureless repair of gastrointestinal defects Science Translational Medicine 2022 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 151 A soft neuroprosthetic hand providing simultaneous myoelectric control and tactile feedback Nature Biomedical Engineering 2021 Medical Robots
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 150 Rapid and coagulation-independent haemostatic sealing by a paste inspired by barnacle glue Nature Biomedical Engineering 2021 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 141 Hydrogel-based biocontainment of bacteria for continuous sensing and computation Nature Chemical Biology 2021 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 140 A Multifunctional Origami Patch for Minimally Invasive Tissue Sealings Advanced Materials 2021 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 139 Fracture of polymer networks with diverse topological defects Physical Review E 2020 Hydrogels; Polymer fracture
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 137 Electrical bioadhesive interface for bioelectronics Nature Materials 2020 Bioadhesives; Bioelectronics
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 133 Instant tough bioadhesive with triggerable benign detachment Proceedings of the National Academy of Sciences 2020 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 132 Hard-magnetic elastica Journal of the Mechanics and Physics of Solids 2020 Medical Robots; Mechanics
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 130 Designing complex architectured materials with generative adversarial networks Science Advances 2020 Architectured Materials; Machine Learning
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 129 3D printing of conducting polymers Nature Communications 2020 Bioelectronics; 3D Printing
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 128 Strong adhesion of wet conducting polymers on diverse substrates Science Advances 2020 Bioelectronics
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 127 Fatigue-resistant adhesion of hydrogels Nature Communications 2020 Bioadhesives; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 123 Hydration and swelling of dry polymers for wet adhesion Journal of the Mechanics and Physics of Solids 2020 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 121 Ferromagnetic soft continuum robots Science Robotics 2019 Medical Robots
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 120 High stretchability, strength, and toughness of living cells enabled by hyperelastic vimentin intermediate filaments Proceedings of the National Academy of Sciences 2019 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 119 A path-following simulation-based study of elastic instabilities in nearly-incompressible confined cylinders under tension Journal of the Mechanics and Physics of Solids 2019 Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 118 Muscle-like fatigue-resistant hydrogels by mechanical training Proceedings of the National Academy of Sciences 2019 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 117 Multifunctional “Hydrogel Skins” on Diverse Polymers with Arbitrary Shapes Advanced Materials 2019 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 114 Mechanics of hard-magnetic soft materials Journal of the Mechanics and Physics of Solids 2019 Medical Robots; Mechanics
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 113 Anti-fatigue-fracture hydrogels Science Advances 2019 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 112 Pure PEDOT:PSS hydrogels Nature Communications 2019 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 111 Soft wall-climbing robot Science Robotics 2018 Dielectric Elastomers
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 110 Ingestible hydrogel device Nature Communications 2019 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 107 Controlled crack propagation for atomic precision handling of wafer-scale two-dimensional materials Science 2018 Thin Films
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 105 Folding artificial mucosa with cell-laden hydrogels guided by mechanics models Proceedings of the National Academy of Sciences 2018 Hydrogels; Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 104 Metagel with Broadband Tunable Acoustic Properties Over Air–Water–Solid Ranges Advanced Functional Materials 2019 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 101 3D Printing of Responsive Living Materials and Devices Advanced Materials 2017 Living Materials; 3D Printing; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 97 Impermeable Robust Hydrogels via Hybrid Lamination Advanced Healthcare Materials 2017 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 96 A New 3D Printing Strategy by Harnessing Deformation, Instability and Fracture of Viscoelastic Inks Advanced Materials 2017 3D Printing
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 95 Instabilities in Confined Elastic Layers under Tension: Fringe, Fingering and Cavitation Journal of the Mechanics and Physics of Solids 2017 Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 91 A large deformation viscoelastic model for double-network hydrogels Journal of the Mechanics and Physics of Solids 2017 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 90 Stretchable Living Materials and Devices with Hydrogel-Elastomer Hybrids Hosting Programmed Cells Proceedings of the National Academy of Sciences 2017 Living Materials; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 89 Harnessing the Hygroscopic and Biofluorescent Behaviors of Genetically-Tractable Microbial Cells to Design Bio-hybrid Wearables Science Advances 2017 Living Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 88 Highly Stretchable, Strain Sensing Hydrogel Optical Fibers Advanced Materials 2016 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 87 Hydraulic hydrogel actuators and robots optically and sonically camouflaged in water Nature Communications 2017 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 85 Skin-inspired hydrogel–elastomer hybrids with robust interfaces and functional microstructures Nature Communications 2016 Bioadhesives; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 84 Strong, tough, stretchable and self-adhesive hydrogels from intrinsically unstructured proteins Advanced Materials 2016 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 79 Stretchable Hydrogel Electronics and Devices Advanced Materials 2015 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 74 3D Printing of Highly Stretchable and Tough Hydrogels into Complex, Cellularized Structures Advanced Materials 2015 3D Printing; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 73 Bio-inspired Reversibly-Crosslinked Hydrogels Comprising Polypeptide Micelles Exhibit Enhanced Mechanical Properties Advanced Functional Materials 2015 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 71 Mechanics of Mechanochemically Responsive Elastomers Journal of the Mechanics and Physics of Solids 2015 Active Materials;
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 70 Predicting Fracture Energies and Crack-Tip Fields of Soft Tough Materials Extreme Mechanics Letters 2015 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 69 Designing Extremely Resilient and Tough Hydrogels via Delayed Dissipation Extreme Mechanics Letters 2014 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 68 Cephalopod-inspired Design of Electro-mechano-chemically Responsive Elastomers for On-demand Fluorescent Patterning Nature Communications 2014 Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 63 Increasing the maximum achievable strain of a covalent polymer gel through the addition of mechanically invisible cross-links Advanced Materials 2014 Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 61 Soft Robotic Concepts in Catheter Design: an On-demand Fouling-release Urinary Catheter Advanced Healthcare Materials 2014 Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 59 Matrix Elasticity Controls Bone Formation by Transplanted Stem Cells Nature Materials 2015 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 56 Harnessing Localized Ridges for High-Aspect-Ratio Hierarchical Patterns with Dynamic Tunability and Multifunctionality Advanced Materials 2014 Thin Films; Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 50 Composite three-dimensional woven scaffolds with interpenetrating network hydrogels to create functional synthetic articular cartilage Advanced Functional Materials 2013 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 49 Reversible Sliding in Networks of Nanowires Nanoletters 2013 Nanowires
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 47 Ultrasound-triggered disruption and self-healing of reversibly-crosslinked hydrogels for drug delivery and enhanced chemotherapy Proceedings of the National Academy of Sciences 2014 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 46 Multifunctionality and Control of the Crumpling and Unfolding of Large-Area Graphene Nature Materials 2013 Thin Films; Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 45 Bioinspired Surfaces with Dynamic Topography for Active Control of Biofouling Advanced Materials 2013 Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 41 Dynamic Electrostatic Lithography: Multiscale On-demand Patterning on Large-Area Curved Surfaces Advanced Materials 2012 Dielectric Elastomers
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 40 Bursting Drops in Solid Dielectrics Caused by High Voltages Nature Communications 2012 Dielectric Elastomers
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 39 Localized Ridge Wrinkling of Stiff Films on Compliant Substrates Journal of the Mechanics and Physics of Solids 2012 Thin Films; Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 36 A Theory for Large Deformation and Damage of Interpenetrating Polymer Networks Journal of the Mechanics and Physics of Solids 2012 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 34 Creasing to Cratering instability in polymers under ultrahigh electric fields Physical Review Letters 2011 Dielectric Elastomers
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 29 Active Scaffolds for On-demand Drug and Cell Delivery Proceedings of the National Academy of Sciences 2011 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 28 Theory of dielectric elastomers capable of giant deformation of actuation Physical Review Letters 2010 Dielectric Elastomers
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
 ## MIT — Raphael Zufferey
 
  · 논문·원고 6건 · 기타 성과 0건 · 상태: partial
@@ -120803,7 +126359,7 @@ in-situ Characterization and Reliability Evaluation Laboratory · 논문·원고
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -120813,7 +126369,7 @@ in-situ Characterization and Reliability Evaluation Laboratory · 논문·원고
 
  · 논문·원고 75건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -121123,7 +126679,7 @@ in-situ Characterization and Reliability Evaluation Laboratory · 논문·원고
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -121133,7 +126689,7 @@ in-situ Characterization and Reliability Evaluation Laboratory · 논문·원고
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -121145,7 +126701,7 @@ in-situ Characterization and Reliability Evaluation Laboratory · 논문·원고
 
  · 논문·원고 42건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -121435,7 +126991,7 @@ in-situ Characterization and Reliability Evaluation Laboratory · 논문·원고
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -122514,7 +128070,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -122524,7 +128080,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -122926,7 +128482,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -123060,7 +128616,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -123072,7 +128628,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -123082,7 +128638,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -123092,7 +128648,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 207건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -123928,23 +129484,351 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Sili Deng
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 83건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
-
-출처: <https://deng.mit.edu/>
-
-출처: <https://meche.mit.edu/people/faculty/silideng@mit.edu>
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, S. Deng, Development and validation of a retuning-free skeletal mechanism for NH3/H2/Air combustion, Combustion and Flame 295 (2027) 115335. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. M. Bhat, E. Lin, G. Ibrahim, B. Lin, W. Wu, B. H. Gebreslassie, A. M. Bala, S. Deng, G. Zang, Techno-economic assessment and GHG emissions assessment of synthetic LNG production via low carbon power-to-gas (PtoG) pathway, Energy Conversion and Management 369 (2026) 122046. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. N. Tricard, S. Shanbhogue, M. Cherry, Z. Chen, C. Guerra-Garcia, A. Ghoniem, S. Deng, Uncertainty-aware differentiable spectroscopy for multi-line temperature and multi-species tomography in an ammonia/methane-fueled McKenna burner, Proceedings of the Combustion Institute 42 (2026) 106721. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. L. Wang, J. Chen, A. Piscopo, A. Parente, S. Deng, Developing multi-field sparse reconstruction digital twins: A study in ammonia combustor, Proceedings of the Combustion Institute 42 (2026) 106421. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. A. Parente, Z. X. Chen, S. Deng, The “augmented combustion scientist”: Shifting from data-driven science to agentic AI, Proceedings of the Combustion Institute 42 (2026) 106304. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. H. Choi, S. Kim, S. Deng, Competing mechanisms governing combustion behavior in carbon-additive energetic materials, Proceedings of the Combustion Institute 42 (2026) 106245. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, S. Deng, Kolmogorov–Arnold chemical reaction neural networks for learning pressure-dependent kinetic rate laws, Proceedings of the Combustion Institute 42 (2026) 106425. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, S. Deng, Model inversion and uncertainty quantification for chemical kinetics and thermal properties in combustion waves, Journal of Computational Physics 562 (2026) 115016. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. C. Zhang, J. Zhang, J. Wang, M. Bhat, S. Deng, Interwoven phase stabilization in Ni-rich cathode material via nanoparticle-seeded synthesis, ACS Applied Materials & Interfaces 18 (2026) 24378-24386. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B. C. Koenig, S. Deng, Learning continuous state of charge dependent thermal decomposition kinetics for Li-ion cathodes using Kolmogorov–Arnold Chemical Reaction Neural Networks (KA-CRNNs), Journal of Energy Storage 158 (2026) 121853. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Modi, J. Zhang, N. Ziebarth, S. Deng, Pratim Biswas, Rapid and single-step synthesis of carbon–silicon composites using a continuous aerosol approach, Carbon 253 (2026) 121410. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. L. Wang, Y. Li, S. Deng, Building digital twin for 3D multi-field reconstruction and optimization of industrial-scale combustion systems, Engineering 59 (2026) 197-214. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. L. Wang, Z. Chen, Y. Li, R. Deng, R. Zhang, Y. Luo, L. Lu, S. Deng, Learning multi-physical system on a unified manifold by collaboratively fused features, Engineering Applications of Artificial Intelligence 170 (2026) 114178. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B. C. Koenig*, M. Kim*, J. Hong, S. Deng, Modeling lithium methyl carbonate decomposition kinetics in the lithium-ion battery SEI under thermal runaway, Chemical Engineering Journal 533 (2026) 174724. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Z. Zhan, X. Li, R. Roy, M. Cremer, A. Chiodo, C. Hui, S. Deng, D. Keisar, A. Fry, B. Lillie, M. Nichols, A. Fernando, P. LaTour, K. Alderson, J. Pearson, T. Hortin, J. Wendt, Review on preprocessing strategies, deactivation, thermal safety, and future perspectives in lithium-ion battery recycling, Energy & Fuels 2026, 40, 3, 1474-1496. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. C. Chi, A. Dernbecher, K. P. R. Subramanian, J. J. Rico, A. Dieguez-Alonso, S. Adhikari, S. Deng, D. Thevenin, Chemical reaction neural networks for semi-detailed kinetic schemes including the influence of inorganics and secondary reactions during cellulose pyrolysis, Energy Conversion and Management 348 Part B (2026) 120655. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. E. Lin, E. Wang, S. Deng, Neural ordinary differential equations (ODEs) for smooth, high-accuracy isotherm reconstruction, interpolation, and extrapolation, npj Computational Materials 11 (2025) 348. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, A. Wang, J. Z. Wen, S. Deng, Combustion waves and flame stability in nanocomposites, ACS Nano 19 (2025) 31790–31798. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, L. Wang, S. Kim, B. C. Koenig, Scientific machine learning in combustion for discovery, simulation, and control, Proceedings of the Combustion Institute 41 (2025) 105796. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B. C. Koenig, S. Kim, S. Deng, LeanKAN: a parameter-lean Kolmogorov-Arnold network layer with improved memory efficiency and convergence behavior, Neural Networks 192 (2025) 107883. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. E. Lin, Y. Zhong, G. Chen, S. Deng, Unified physio-thermodynamic descriptors via learned CO2 adsorption properties in metal-organic frameworks, npj Computational Materials 11 (2025) 225. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Z. Chen, N. Tricard, S. Deng, Hybrid physics-machine learning model for multispecies and temperature inference from FTIR spectra: Application to ammonia flames, Proceedings of the Combustion Institute 41 (2025) 105811. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B. C. Koenig*, S. Kim*, S. Deng, ChemKANs for combustion chemistry modeling and acceleration, Physical Chemistry Chemical Physics 27 (2025) 17313-17330. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Zhang, C. Zhang, A.N. Penn, Y. Huang, S. Deng, In situ mitigation of calcination-introduced surface damage of single crystal nickel-rich cathode materials, ACS Nano 19 (2025) 16967-16979. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. L. Wang, N. Tricard, Z. Chen, S. Deng, Progress in computational methods and mechanistic insights on the growth of carbon nanotubes, Nanoscale 17 (2025) 11812-11863. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, P. Zhao, S. Deng, Comprehensive thermal-kinetic uncertainty quantification of lithium-ion battery thermal runaway via bayesian chemical reaction neural networks, Chemical Engineering Journal 507 (2025) 160402. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B. Cha*, A. Wang*, S. Kim*, J.-P. Hickey, S. Deng, J. Z. Wen, Microstructural thermal zones in reaction of nanoenergetics, ACS Applied Materials & Interfaces 16 (2024) 66099-66107. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, S. Deng, Learning reaction-transport coupling from thermal waves, Nature Communications 15 9930 (2024). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. L. Wang*, R. Deng*, R. Zhang, Y. Luo, S. Deng, 3-D full-field reconstruction of chemically reacting flow towards high-dimension conditions through machine learning, Chemical Engineering Journal 499 (2024) 156435. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig*, S. Kim*, S. Deng, KAN-ODEs: Kolmogorov-Arnold network ordinary differential equations for learning dynamical systems and hidden physics, Computer Methods in Applied Mechanics and Engineering 432 (2024) 117397. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. H. Chen, Q. Li, S. Deng, Fast QoI-oriented Bayesian experimental design with unified neural response surfaces for kinetic uncertainty reduction, Energy & Fuels 2024 Energy and Fuels Rising Stars, Energy and Fuels 38 (2024) 15630-15641. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. G. Tsai*, S. Kim*, S. Deng, Thermal interaction of inert additives in energetic materials, Proceedings of the Combustion Institute 40 (2024) 105459. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, H. Chen, Q. Li, P. Zhao, S. Deng, Uncertain lithium-ion cathode kinetic decomposition modeling via Bayesian chemical reaction neural networks, Proceedings of the Combustion Institute 40 (2024) 105243. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. A. Nicolle, S. Deng, M. Ihme, N. Kuzhagaliyeva, E. A. Ibrahim, A. Farooq, Mixtures recomposition by neural nets: A multidisciplinary overview, Journal of Chemical Information and Modeling 64 (2024) 597-620. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. M. Bhat*, S. Luo*, J. Zhang, C. Zhang, B. Zhou, S. Deng, Multi-component precursor droplet evaporation in spray synthesis of cathode materials, Chemical Engineering Journal 479 (2024) 147417. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. E. Lin, C. T. Wilson, A. Leroy, S. Deng, Significant catalyst savings and reaction kinetics enhancement for catalytic micro-combustors via non-uniform catalyst segmentation, Chemical Engineering Journal 476 (2023) 146627. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, S. Deng, Multi-target active subspaces generated using a neural network for computationally efficient turbulent combustion kinetic uncertainty quantification in the flamelet regime, Combustion and Flame 258 (2023) 113015. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, P. Zhao, S. Deng, Accommodating physical reaction schemes in DSC cathode thermal stability analysis using chemical reaction neural networks, Journal of Power Sources 581 (2023) 233443. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, S. Deng, Inference of chemical kinetics and thermodynamic properties from constant-volume combustion of energetic materials, Chemical Engineering Journal 469 (2023) 143779. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. X. Su, W. Ji, J. An, Z. Ren, S. Deng, C.K. Law, Kinetics parameter optimization of hydrocarbon fuels via neural ordinary differential equations, Combustion and Flame 251 (2023) 112732. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Q. Li, H. Chen, B. C. Koenig, S. Deng, Bayesian chemical reaction neural network for autonomous kinetic uncertainty quantification, Physical Chemistry Chemical Physics 25 (2023) 3707-3717. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. X. Hu, D. Zuo, S. Cheng, S. Chen, Y. Liu, W. Bao, S. Deng, S. J. Harris, J. Wan, Ultrafast materials synthesis and manufacturing techniques for emerging energy and environmental applications, Chemical Society Reviews 52 (2023) 1103-1128. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Zhang, V.L. Muldoon, S. Deng, Effects of the preheating temperature on flame-assisted spray pyrolysis of nickel-rich cathode materials, Proceedings of the Combustion Institute 39 (2023) 1165-1173. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. H. Chen, W. Ji, S. Cassady, A.M. Ferris, R.K. Hanson, S. Deng, Using shock tube species time-histories in Bayesian parameter estimation: Effective independent-data number and target selection, Proceedings of the Combustion Institute 39 (2023) 5299-5308. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, W. Ji, S. Deng, Kinetic subspace investigation using neural network for uncertainty quantification in nonpremixed flamelets, Proceedings of the Combustion Institute 39 (2023) 5229-5238. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, A.A. Johns, J.Z. Wen, S. Deng, Burning structures and propagation mechanisms of nanothermites, Proceedings of the Combustion Institute 39 (2023) 3593-3604. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Wang, H. Jiang, Y. Dong, D. Clarkson, H. Zhu, C.M. Settens, Y. Ren, T. Nguyen, F. Han, W. Fan, S.Y. Kim, J. Zhang, W. Xue, S.K. Sandstrom, G. Xu, E. Tekoglu, M. Li, S. Deng, Q. Liu, S.G. Greenbaum, X. Ji, T. Gao, J. Li, Acid-in-Clay electrolyte for wide-temperature-range and long-cycle proton batteries, Advanced Materials 34 (2022) 2202063. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, X. Su, B. Pang, Y. Li, Z. Ren, S. Deng, SGD-based optimization in modeling combustion kinetics: Case studies in tuning mechanistic and hybrid kinetic models, Fuel 324 (2022) 124560. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Zhang, V.L. Muldoon, S. Deng, Accelerated synthesis of Li(Ni0.8Co0.1Mn0.1)O2 cathode materials using flame-assisted spray pyrolysis and additives, Journal of Power Sources 528 (2022) 231244. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Zhang, Y. Wang, V.L. Muldoon, S. Deng, Crude glycerol and glycerol as fuels and fuel additives in combustion applications, Renewable and Sustainable Energy Reviews 159 (2022) 112206. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, F. Richter, M.J. Gollner, S. Deng, Autonomous kinetic modeling of biomass pyrolysis using chemical reaction neural networks, Combustion and Flame 240 (2022) 111992. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. X. Su, W. Ji, L. Zhang, W. Wu, Z. Ren, S. Deng, Neural differential equations for inverse modeling in model combustors, Proceedings of the ASME International Mechanical Engineering Congress & Exhibition 2021, IMECE2021-69657 (2021). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, J. Zanders, J.-W. Park, S. Deng, Data-driven approaches to learn Hychem models, Proceedings of the ASME International Combustion Engine Division Fall Technical Conference 2021, ICEF2021-67925 (2021). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. X. Liang, Y. Wang, Y. Chen, S. Deng, Advances in emission regulations and emission control technologies for internal combustion engines, SAE Journal of Sustainable Transportation, Energy, Environment & Policy 2 (2021). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, W. Qiu, Z. Shi, S. Pan, S. Deng, Stiff-PINN: Physics-Informed Neural Network for stiff chemical kinetics, Journal of Physical Chemistry A 125 (2021) 8098-8106. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, W. Ji, S. Deng, Y. Ma, C. Rackauckas, Stiff neural ordinary differential equations, Chaos 31, 093122 (2021). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. H. Zhao, D. Lu, J. Wang, W. Tu, D. Wu, S.W. Koh, P. Gao, Z.J. Xu, S. Deng, Y. Zhou, B. You, H. Li, Raw biomass electroreforming coupled to green hydrogen generation, Nature Communications 12, 2008 (2021). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, S. Deng, Autonomous discovery of unknown reaction pathways from data by Chemical Reaction Neural Network, Journal of Physical Chemistry A 125 (2021) 1082-1092. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Y. Wang, Y. Chen, X. Liang, P. Tan, S. Deng, Impacts of lubricating oil and its formulations on diesel engine particle characteristics, Combustion and Flame 225 (2021) 48-56. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Ou, X. He, W. Ji, W. Chen, L. Sui, Y. Gan, Z. Lu, Z. Lin, S. Deng, S. Przesmitzki, J. Bouchard, Machine learning model to project the impact of COVID-19 on US motor gasoline demand, Nature Energy (2020). https://doi.org/10.1038/s41560-020-0662-1. (Link) * Cover page
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, T. Zhang, Z. Ren, S. Deng, Dependence of kinetic sensitivity direction in premixed flames, Combustion and Flame 220 (2020) 16-22. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Y. Jiang*, S. Deng*, S. Hong*, S. Tiwari, H. Chen, K. Nomura, R.K. Kalia, A. Nakano, P. Vashishta, M.R. Zachariah, X.L. Zheng, Synergistically chemical and thermal coupling between graphene oxide and graphene fluoride for enhancing aluminum combustion, ACS Applied Materials & Interfaces 12 (2020) 7451-7458. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Pan, L. Chen, H. Wei, D. Feng, S. Deng, G. Shu, On autoignition mode under variable thermodynamic state of internal combustion engines, International Journal of Engine Research 21 (2020) 856-865. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Huang, S. Deng, Y. Jiang, X.L. Zheng, Experimental effective metal oxides to enhance boron combustion, Combustion and Flame 205 (2019) 278-285. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Huang, M. Pan, S. Deng, Y. Jiang, J. Zhao, B. Levy-Wendt, S.K.Y. Tang, X.L. Zheng, Modified micro-emulsion synthesis of highly dispersed Al/PVDF composites with enhanced combustion properties, Advanced Engineering Materials (2019) 1801330. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Y. Jiang*, S. Deng*, S. Hong*, J. Zhao, S. Huang, C.-C. Wu, J.L. Gottfried, K. Nomura, Y. Li, S. Tiwari, R.K. Kalia, P. Vashishta, A. Nakano, X.L. Zheng, Energetic performance of optically activated aluminum/graphene oxide composites, ACS Nano 12 (2018) 11366-11345. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng*, Y. Jiang*, S. Huang, X. Shi, J. Zhao, X.L. Zheng, Tuning the morphological, ignition and combustion properties of micron-Al/CuO thermites through different synthesis approaches, Combustion and Flame 195 (2018) 303-310. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Huang, V.S. Parimi, S. Deng, S. Lingamneni, X.L. Zheng, Facile thermal and optical ignition of silicon nanoparticles and micron particles, Nano Letters 17 (2017) 5925-5930. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Huang*, S. Deng*, Y. Jiang, J. Zhao, X.L. Zheng, Electroless deposition and ignition properties of Si/Fe2O3 core/shell nanothermites, ACS Omega 2 (2017) 3596-3600. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, D. Han, C.K. Law, Ignition and extinction of strained nonpremixed cool flames at elevated pressures, Combustion and Flame 176 (2017) 143-150. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, M.E. Mueller, Q.N. Chan, N.H. Qamar, B.B. Dally, Z.T. Alwahabi, G.J. Nathan, Hydrodynamic and chemical effects of hydrogen addition on soot evolution in turbulent nonpremixed bluff body ethylene flames, Proceedings of the Combustion Institute 36 (2017) 807-814. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. D. Han, S. Deng, W. Liang, P. Zhao, F. Wu, Z. Huang, C.K. Law, Laminar flame propagation and nonpremixed stagnation ignition of toluene and xylenes, Proceedings of the Combustion Institute 36 (2017) 479-489. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, P. Zhao, M.E. Mueller, C.K. Law, Flame dynamics in oscillating flows under autoignitive conditions, Combustion and Flame 168 (2016) 75-82. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, P. Zhao, M.E. Mueller, C.K. Law, Stabilization of laminar nonpremixed DME/air coflow flames at elevated temperatures and pressures, Combustion and Flame 162 (2015) 4471-4478. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, P. Zhao, M.E. Mueller, C.K. Law, Autoignition-affected stabilization of laminar nonpremixed DME/air coflow flames, Combustion and Flame 162 (2015) 3437-3445. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. P. Zhao, W. Liang, S. Deng, C.K. Law, Initiation and propagation of laminar premixed cool flames, Fuel 166 (2015) 477-487. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, J.A. Koch, M.E. Mueller, C.K. Law, Sooting limits of nonpremixed n-heptane, n-butanol, and methyl butanoate flames: Experimental determination and mechanistic analysis, Fuel 136 (2014) 122-129. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, P. Zhao, D. Zhu, C.K. Law, NTC-affected ignition and low-temperature flames in nonpremixed DME/air counterflow, Combustion and Flame 161 (2014) 1993-1997. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Y. Zhang, S. Li, S. Deng, Q. Yao, S.D. Tse, Direct synthesis of nanostructured TiO2 films with controlled morphologies by stagnation swirl flames, Journal of Aerosol Science 44 (2012) 71-82. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, S. Li, S.D. Tse, J. Wang, Y. Tao, Q. Yao, Experimental studies on TiO2 nanoparticles in a swirl-stabilized stagnation flame, Journal of Engineering Thermophysics 32 (2011) 157-160. (In Chinese)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Wang, Y. Tao, Y. Zhang, S. Deng, S. Li, Q. Yao, Sintering behavior of TiO2 particles in a premixed stagnation flame, Journal of Engineering Thermophysics 32 (2011) 875-878. (In Chinese)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. D. Yun, S. Deng, Q. Song, Q. Yao, Potassium deactivation and regeneration method of V2O5-WO3/TiO2 SCR catalyst", Research of Environmental Sciences 6 (2009) 730-735. (In Chinese)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Deng Energy and Nanotechnology Group (DENG) Accessibility Copyright © 2018 Sili Deng
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
 
 ## MIT — Elazer Edelman
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -124052,7 +129936,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 81건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -124660,7 +130544,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -124670,7 +130554,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 45건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -125320,7 +131204,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -125328,27 +131212,275 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — John Hart
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 64건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
-
-출처: <https://mechanosynthesis.mit.edu/>
-
-출처: <https://meche.mit.edu/people/faculty/ajhart@mit.edu>
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://mechanosynthesis.mit.edu/publications/>
 
-출처: <http://web.mit.edu/lmp>
+1. D.J. Braconnier, E. Okeke, M. Mastronardi, T. Schmitz, A. Shih, L. Mears, T. Kurfess, T. Minshall, H. Taylor, A.J. Hart, J. Liu. Journal of Manufacturing Science and Engineering (in press), 2026.
 
-출처: <http://pergatory.mit.edu/>
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. B. Schagen, C.H. Chen, H. Quinlan, A.J. Hart, S. Gerasimidis. Engineering Structures, 366(Part C):123382 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A. Peraire-Bueno, L.-W. Ahrend, N.S. Diaco, D. de Jong, A.J. Hart. Additive Manufacturing Letters (in press), 2026.
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. R.B. Church, M. Robinson, S. Sand, L. Kong, J.L.M. Rupp, A.J. Hart. Journal of the Electrochemical Society, 173:160523, 2026. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. L. Yang, A.J. Hart, A. Luo. International Journal of Mechanical Sciences, 324:111791, 2026. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. L. Romangsuriat, A. Peraire-Bueno, A.J. Hart, and R.M. Erb. Advanced Functional Materials (in press), 36(53):e76457 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. J. Zhou, L. Wu, M. Wyttenbach, R. Lennon, et al. Journal of Controlled Release, 395: 114980, 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. J. Zhou, L. Wu, M. Wyttenbach, R. Lennon, et al. Journal of Controlled Release, 395: 114980, 2026. [pdf] [doi] Agentic AI in Engineering and Manufacturing: Industry perspectives on utility, adoption, challenges, and opportunities. K.M. Edwards, M. Bauer, C. Jacquillat, A.J. Hart, F. Ahmed. 2026. [arXiv]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. E.E. Martin, W.J. Sawyer, K.S. Westendorff, A.J. Hart, D.L. Plata. Catalysis Science and Technology, 16(8): 2971–2984, 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Thin-film DLP 3D printing of multi-material parts with closed-cell internal voids. B. Sun, N.S. Diaco, X. Chen, C. Dai, A.J. Hart, C.C.L. Wang, Y. Yam. npj Advanced Manufacturing, 3:15, 2026. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Strategic sustainability in additive manufacturing: a comprehensive review. I. Fidan, M. Mahmudov, K. Gee, A.J. Hart, V. Naikwadi, E. Hudson, S. Hasanov. The International Journal of Advanced Manufacturing Technology, 144:6185–6213, 2026. [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Additively manufacturable high-strength aluminum alloys with coarsening-resistant microstructures achieved via rapid solidification. S.M. Taheri-Mousavi, M. Xu, F. Hengsbach, C. Houser, Z. Ge, B. Glaser, S. Wei, M. Schaper, J.M. Lebeau, G.B. Olson, A.J. Hart. Advanced Materials, 38(4):e09507 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. GENCAD-3D: CAD program generation using multimodal latent space alignment and synthetic data balancing. N. Yu, M.F. Alam, A.J. Hart, F. Ahmed. Journal of Mechanical Design, 148(3):031703, 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Dairy barn methane levels and feasibility of thermal catalytic oxidation for net climate benefit. A.C. Parker, W.J. Sawyer, K.A. Riedinger, N.A. Bugher, A.J. Hart, D.L. Plata. Environmental Science & Technology, 59(49):26428–26439, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. 3D printing of poly(methyl methacrylate) by interfacial photopolymerization. P.T. Mahesh, C.A.C. Chazot, R.B. Church, M.N. Durso, C. Thrasher, M.A. Creighton, A.J. Hart. ACS Applied Materials & Interfaces, 17(38):53960–53971, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Automated segmentation and analysis of microscopy images of laser powder bed fusion melt tracks. A, Shah, R. Weissbach, D.A. Griggs, A.J. Hart, E. Ertekin, S. Tawfick. Journal of Manufacturing Processes, 154:61-70, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Radiometric temperature measurement for metal additive manufacturing via temperature emissivity separation. R.W. Penny, A.J. Hart. Additive Manufacturing, 110:104904, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Nanoporous capillary gripper for ultragentle micro-object manipulation. S.J. Kim, T. Kim, H.J. Ryu, J. Jeong, A.J. Hart, S. Kim. Advanced Science, 12(36):e08338, 2025. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. High-strength additively manufacturable Al-Zr-Er-Ni alloys with high as-built ductility and thermal stability Z. Ge, S. Wei, Z. Liu, T. Choma, Ł. Żrodowski, M. De Graef, A.J. Hart, S.M. Taheri-Mousavi. npj Advanced Manufacturing, 2:40, 2025. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. High-fidelity optical monitoring of laser powder bed fusion by aperture division multiplexing. R.W. Penny, Z.W. Kutschke, A.J. Hart. npj Advanced Manufacturing, 2:28, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Dual-wavelength vat photopolymerization with dissolvable, recyclable support structures. N.S. Diaco, C. Thrasher, M. Hughes, K. Zhou, M. Durso, S. Yap, R. Macfarlane, A.J. Hart. Advanced Materials Technologies, 10(17):e00650, 2025. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Rapid exploration of nanoparticle-modified alloys in metal additive manufacturing by combining inkjet printing and laser powder bed fusion. E. Tekoglu, S. Liao, Z.W. Kutschke, A.D. O’Brien, B. Lettiere, J. Li, A.J. Hart. Additive Manufacturing Letters, 14:100315, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Forging nanoparticle superlattices with colloidal metallurgy. C.J. Thrasher, N.J. Murphy-Genao, N.A. Sbalbi, R.L. Li, T. Hueckel, M. Ye, A.J. Hart, R.J. Macfarlane. ACS Nano, 19(22):20753–20764, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Additive manufacturing of strong and ductile In939+TiB2 by laser powder bed fusion. E. Tekoglu, M. Alrizqi, A.D. O’Brien, J. Liu, K. Biggs, S.Y. Kim, A. Penn, I. Sulak, K.P. So, W. Chen, A.J. Hart, J. Li. Materials Science and Engineering: A, 939:148446, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Particle-on-demand electrohydrodynamic printing from a reciprocating tip. J. Jeong, S.J. Kim, S. Kim, A.J. Hart. Journal of Manufacturing Processes, 145:133-141, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Computational design of additively manufacturable, cost-effective, high-strength aluminum alloys exploiting rapid solidification. B.M. Glaser, A.J. Hart, S.M. Taheri-Mousavi. Journal of the Mechanics and Physics of Solids, 200: 106120, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Microwave swelling and exfoliation of continuous carbon nanotube networks for scalable manufacturing of nanocomposites. M.N. Durso, A.J. Hart. ACS Applied Materials and Interfaces, 8(15):7685–7693, 2025. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A rapid experimental workflow for studying melt track scaling in laser powder bed fusion using high-precision metal template substrates. R. Weissbach, R.W. Penny, A.J. Hart. Progress in Additive Manufacturing, 10:8695–8706 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A LEGO®-themed introduction to manufacturing course developed for first-year undergraduate students. J. Liu, D. Braconnier, Z. Zhao, K. Gee, K.P. Becker, A.J. Hart. Manufacturing Letters, 44:1558-1569, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Aerosol synthesis of high-quality single-wall carbon nanotubes through integrated microplasma catalyst generation. W.J. Sawyer, A.J. Hart. Chemical Engineering Journal, 507:160690, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Parametric analysis of relationships among part geometry, build time, and energy consumption for laser powder bed fusion. K. Gee, A.J. Hart. ASME 2024 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, DETC2024-142824, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Superior high-temperature mechanical properties and microstructural features of LPBF-printed In625-based metal matrix composites. E. Tekoglu, J. Bae, H. Kim, K. Lim, J. Liu, S.Y. Kim, A. Penn, W. Chen, A.J. Hart, J. Kang, C. Oh, J Park, F. Sun, S. Kim, G. Sim, J. Li. Materials Today, 80:297-307, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A low-cost, open-source cylindrical Couette rheometer. M. Erni, A.J. Hart, D.L. Trumper, C.E. Owens. Scientific Reports, 14:30187, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Physical properties of industrially produced carbon nanotube yarns for use in structural nanocomposites. M.N. Durso, W.J. Sawyer, A.J. Hart. Composites Part B, 287:111821, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Versatile fabrication of carbon nanotube yarn composites by in situ interfacial polymerization of polyetherimide. M.N. Durso, W.J. Sawyer, A.J. Hart. Composites Part B, 287:111770, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Multivalent polymer-grafted nanoparticles as reinforcing fillers for 3D printable self-healing elastomers. G. Desroches, C. Thrasher, N. Diaco, I. Raji, D. Konkolewicz, A.J. Hart, R. Macfarlane. ACS Materials Letters, 6(9):4175–4182, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A switchable flexible mechanical clutch based on self-amplified friction of interleaved layers. A. Luo, A.J. Hart. Extreme Mechanics Letters, 71:102197, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Exploration of improved, roller-based spreading strategies for cohesive powders in additive manufacturing via coupled DEM-FEM simulations. R. Weissbach, P.M. Praegla, W.A. Wall, A.J. Hart, C. Meier. Powder Technology, 443:119956, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Manufacturing of high-conductivity carbon nanotube fibers and coils by immersed extrusion. C.E. Owens, G.H. McKinley, A.J. Hart. Materials Today, 75:97-111, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. From automation to augmentation: policy and practice to redefine engineering design and manufacturing in the age of next-gen AI. M.F. Alam, A. Lentsch, N. Yu, S. Barmack, S. Kim, D. Acemoglu, A.J. Hart, S. Johnson, F. Ahmed. MIT Press, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Review—Solid and polymer electrolyte materials and related processing methods suitable for three-dimensional battery architectures. R.B. Church, A.J. Hart. Journal of The Electrochemical Society, 171(4):0512, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Rationally designing the supramolecular interfaces of nanoparticle superlattices with multivalent polymers. C. Thrasher, F. Jia, D. Yee, J. Kubiak, Y. Wang, M. Lee, M. Onoda, A.J. Hart, R. Macfarlane. JACS, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A Bayesian sampling approach to constrained optimization of build layouts in additive manufacturing. S. Kim, K. Gee, A.J. Hart. International Journal of Production Research, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Metal matrix composite with superior ductility at 800 °C: 3D printed In718+ZrB2 by laser powder bed fusion. E. Tekoglu, A.D. O’Brien, J. Bae, K. Lim, J. Liu, S. Kavak, Y. Zhang, S.Y. Kim, D. Agaogullari, W. Chen, A.J. Hart, G. Sim, J. Li. Composites Part B: Engineering, 268:111052, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Quantitative analysis of thin metal powder layers via transmission X-ray imaging and discrete element simulation: Blade-based spreading approaches. R.W. Penny, D. Oropeza, P.M. Praegla, R. Weissbach, C. Meier, W.A. Wall, A.J. Hart. Powder Technology, 432:119106, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Quantitative analysis of thin metal powder layers via transmission X-ray imaging and discrete element simulation: Roller-based spreading approaches. R.W. Penny, D. Oropeza, P.M. Praegla, R. Weissbach, C. Meier, W.A. Wall, A.J. Hart. Powder Technology, 432:119105, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Virtual planning of a metal additive manufacturing factory using techno-economic hybrid simulation models. E. Shakirov, H. Quinlan, A.J. Hart. 2023 Winter Simulation Conference, 1327-1338, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Individually addressable, 3D-printed carbon nanotube field emitter arrays for large-area vacuum electronics. C.E. Owens, A. Kachkine, G.H. McKinley, L.F. Velásquez-Garcia, A.J. Hart. 23rd International Conference on Solid-State Sensors, Actuators and Microsystems (IEEE Transducers), 1899-1900, 2023. [pdf]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Comparing machine learning algorithms for non-invasive detection and classification of failure in piezoresistive bone cement via electrical impedance tomography. L. Keiderling, J. Rosendorf, C.E. Owens, K.M. Varadarajan, A.J. Hart, J. Schwab, T.N. Tallman, H. Ghaednia. Review of Scientific Instruments, 94:124103, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Learning at work: Visual learning analytics to upskill aerospace engineers in advanced manufacturing. K. Peppler, J. Huang, M.C. Richey, M. Ginda, K. Börner, H. Quinlan, A.J. Hart. ICLS 2023 Proceedings, 1899-1900, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Process intensification of microplasma nanoparticle synthesis enabled by gas flow design. W.J. Sawyer, A.J. Hart. Chemical Engineering Journal, 477:147111, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Learning to write with the fluid rope trick. G. Chaudhary, S. Christ, A.J. Hart, L. Mahadevan. Soft Matter, 19:8329-8336, 2023. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Thick architected silicon composite battery electrodes using honeycomb patterned carbon nanotube forests. R.B. Church, H. Gao, B.M. Gallant, A.J. Hart. Journal of the Electrochemical Society, 170(9):0543, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Interfacial photopolymerization: a method for light-based printing of thermoplastics. C.A.C. Chazot, M.A. Creighton, A.J. Hart. ACS Applied Materials and Interfaces, 15(25):31009-31019, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. The critical role of fracture in determining the adhesion strength of electroadhesives. A. Luo, R.R. Zhao, J.L. Bassani, A.J. Hart, K.T. Turner. Extreme Mechanics Letters, 63:102062, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Low-profile, large-range compressive strain sensing using micromanufactured CNT micropillar arrays. C. Cao, M.S.H. Boutilier, S. Kim, S.M. Taheri-Mousavi, N. Nayakanti, R. Roberts, C.E. Owens, A.J. Hart. ACS Applied Materials and Interfaces, 15(32):38665-38673, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. 3D-printed, non-planar electron sources for next-generation electron projection lithography. A. Kachkine, C.E. Owens, A.J. Hart, L.F. Velasquez-Garcia. IEEE International Vacuum Nanoelectronics Conference, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Strengthening additively manufactured Inconel 718 through in-situ formation of nanocarbides and silicides. E. Tekoglu, A.D. O’Brien, J. Liu, B. Wang, S. Kavak, Y. Zhang, S.Y. Kim, S. Wang, D. Agaogullari, W. Chen, A.J. Hart, J. Li. Additive Manufacturing, 67:103478, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Scalable, versatile synthesis of ultrathin polyetherimide films and coatings via interfacial polymerization. C.A.C. Chazot, C.J. Thrasher, A. Peraire-Bueno, M.N. Durso, R.J. Macfarlane, A.J. Hart. Advanced Functional Materials, 33(24):2214566, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Laser additive manufacturing for infrastructure repair: A case study of a deteriorated steel bridge beam. S. Zhang, P. Hou, J. Kang, T. Li, S. Mooraj, Y. Ren, A.J. Hart, S. Gerasimidis, W. Chen. Materials Science and Technology, 154:149-158, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Ultrathin high-mobility SWCNT transistors with electrodes printed by nanoporous stamp flexography. D. Mariappan, S. Kim, J. Zhao, H. Zhao, U. Muecke, K. Gleason, T. Akinwande, A.J. Hart. ACS Applied Nanomaterials, 6(7):5075-5080, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Additive manufacturing of flexible 3D surface electrodes for electrostatic adhesion control and smart robotic gripping. D.G. Kim, H. Je, A.J. Hart, S. Kim. Friction, 11:1974-1986, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A damped double dipole antenna for UHF RFID sensing in the frequency domain. A. Peraire-Bueno, A.J. Hart. IEEE Sensors Journal, 23(4):3710-3716, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A physics-based modeling framework to assess the cost scaling of additive manufacturing, with application to laser powder bed fusion. K. Gee, S. Kim, H. Quinlan, A.J. Hart. Rapid Prototyping Journal, 29(5):1355-2546, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
 
 ## MIT — Douglas Hart
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -125358,7 +131490,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 6건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -126948,7 +133080,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -127036,7 +133168,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 321건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -129988,7 +136120,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -130819,7 +136951,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -130919,7 +137051,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -130929,7 +137061,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -130977,7 +137109,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -131077,7 +137209,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 69건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -131363,7 +137495,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -131373,7 +137505,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -131838,7 +137970,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -132154,7 +138286,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 35건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -132304,7 +138436,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 56건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -132576,7 +138708,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -132584,21 +138716,751 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Themistoklis Sapsis
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 184건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
-
-출처: <https://sandlab.mit.edu/>
-
-출처: <https://meche.mit.edu/people/faculty/sapsis@MIT.EDU>
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <http://sandlab.mit.edu/index.php/publications>
 
 출처: <https://sandlab.mit.edu/publications-list/>
 
-출처: <https://www.climatechange.ai/papers/neurips2022/65>
+1. BAYESIAN ANALYSIS AND OPTIMAL EXPERIMENTAL DESIGN Theory-Algorithms E. Pickering, T. Sapsis, Information FOMO: The unhealthy fear of missing out on information. A method for removing misleading data for healthier models, Submitted, (2023) (14 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. J. Zhang, L. Cammarata, C. Squires, T. P. Sapsis, and C. Uhler, Active learning for optimal intervention design in causal models, Nature Machine Intelligence, (2023) [pdf] Featured on the MIT News.
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. E. Pickering, S. Guth, G. Karniadakis, T. Sapsis, Discovering and forecasting extreme events via active learning in neural operators, Nature Computational Science, 2 (2022) 833-843. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Blanchard, Optimal criteria and their asymptotic form for data selection in data-driven reduced-order modeling with Gaussian process regression, Philosophical Transcations of the Royal Society A, 380 (2022) 20210197 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Output-weighted optimal sampling for Bayesian experimental design and rare-event quantification, SIAM/ASA Journal of Uncertainty Quantification, 9 (2021) 564-592. [code] [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Rudy, T. Sapsis, Sparse methods for automatic relevance determination, Physica D, 418 (2021) 132843 (16 pages). [code] [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Bayesian optimization with output-weighted optimal sampling, Journal of Computational Physics, 425 (2021) 109901 (16 pages). [code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, Output-weighted optimal sampling for Bayesian regression and rare event statistics using few samples, Proceedings of the Royal Society A, 476 (2020) 20190834 (24 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Mohamad, T. Sapsis, A sequential sampling strategy for extreme event statistics in nonlinear dynamical systems, Proceedings of the National Academy of Sciences, 115 (2018) 11138-11143. [open access link] [supporting information]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, E. Katsidoniotaki, T. Sapsis, Statistical modeling of fully nonlinear hydrodynamic loads on offshore wind turbine foundations using wave episodes and targeted CFD simulations through active sampling (2023), Wind Energy, In Press (36 pages). [pdf].
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Hammond, T. Sapsis, Reduced order modeling of hydrodynamic interactions between a submarine and unmanned underwater vehicle using non-myopic multi-fidelity active learning, Journal of Ocean Engineering, 288 (2023) 116016. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Y. Yang, A. Blanchard, T. Sapsis, P. Perdikaris, Output-weighted sampling for multi-armed bandits with extreme payoffs, Proceedings of the Royal Society A, 478 (2022) 20210781 (17 pages). [code] [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, G. C. Maceda, D. Fan, Y. Li, Y. Zhou, B. Noack, T. Sapsis, Bayesian optimization for active flow control, Acta Mechanica Sinica, 37 (2022) 1786-1798. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Informative path planning for anomaly detection in environment exploration and monitoring, Ocean Engineering, (2021) 43 110242 (10 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, New perspectives for the prediction and statistical quantification of extreme events in high-dimensional dynamical systems, Philosophical Transactions of the Royal Society A, 376 (2018) 20170133 (18 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, Physics-based probing and prediction of extreme events, SIAM News, 51 (2018) 1. [link] [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Rudy, T. Sapsis, Output-weighted and relative entropy loss functions for deep learning precursors of extreme events, Physica D,443 (2023) 133570 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Bayesian optimization with output-weighted importance sampling, Journal of Computational Physics, 425 (2021) 109901 (16 pages). [code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, T. Sapsis, Machine learning predictors of extreme events occurring in complex dynamical systems, Entropy, 21 (2019) 925 (18 pages). [Code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, A variational approach to probing extreme events in turbulent dynamical systems, Science Advances, 3:e1701533 (2017) (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. W. Cousins, T. Sapsis, Reduced order precursors of rare events in unidirectional nonlinear water waves, Journal of Fluid Mechanics, 790 (2016) 368-388. [pdf] Featured as MIT spotlight. Reported by The Economist.
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. W. Cousins, T. Sapsis, Quantification and prediction of extreme events in a one-dimensional nonlinear dispersive wave model, Physica D, 280-281 (2014) 48-58. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Barthel, T. Sapsis, Harnessing the instability mechanisms in airfoil flow for the data-driven forecasting of extreme events, American Institute of Aeronautics and Astronautics (AIAA) Journal, 61 (2023). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Rudy, T. Sapsis, Prediction of intermittent fluctuations from surface pressure measurements on a turbulent airfoil, American Institute of Aeronautics and Astronautics (AIAA) Journal, 60 (2022) 4174-4190. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. P. Blonigan, M. Farazmand, T. Sapsis, Are extreme dissipation events predictable in turbulent fluid flows?, Physical Review Fluids, 4 (2019) 044606 (21 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, Closed-loop adaptive control of extreme events in a turbulent flow, Physical Review E, 100 (2019) 033110 (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. W. Cousins, M. Onorato, A. Chabchoub, T. Sapsis, Predicting ocean rogue waves from point measurements: an experimental study, Physical Review E, 99 (2019) 032201 (9 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Z. Y. Wan, P. Vlachas, P. Koumoutsakos, T. Sapsis, Data-assisted reduced-order modeling of extreme events in complex dynamical systems, PLOS One, 24 May (2018) (22 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, Reduced-order prediction of rogue waves in two dimensional water waves, Journal of Computational Physics, 340 (2017) 418-434. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, Dynamical indicators for the prediction of bursting phenomena in high-dimensional systems, Physical Review E, 94 (2016) 032212 (15 pages). [pdf] Featured on the Physical Review E: Kaleidoscope.
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. W. Cousins, T. Sapsis, The unsteady evolution of localized unidirectional deep water wave groups, Physical Review E, 91 (2015) 063204 (5 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Mowlavi, T. Sapsis, Model order reduction for stochastic dynamical systems with continuous symmetries, SIAM Journal on Scientific Computing, 40 (2018) 1669-1695. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Majda, Statistically accurate low order models for uncertainty quantification in turbulent dynamical systems, Proceedings of the National Academy of Sciences, 110 (2013) 13705-13710.[pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Majda, Blending modified Gaussian closure and non-Gaussian reduced subspace methods for turbulent dynamical systems, Journal of Nonlinear Science, 23 (2013) 1039 (33 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Majda, Blended reduced subspace algorithms for uncertainty quantification of quadratic systems with a stable mean state, Physica D, 258 (2013) 61-76. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, Attractor local dimensionality, nonlinear energy transfers, and finite-time instabilities in stochastic dynamical systems with applications to 2D fluid flows, Proceedings of the Royal Society A, 469 (2013) 20120550 (23 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & P. Lermusiaux, Dynamical criteria for the evolution of the stochastic dimensionality in flows with uncertainty, Physica D, 241 (2012) 60-76. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & P. Lermusiaux, Dynamically orthogonal field equations for continuous stochastic dynamical systems, Physica D, 238 (2009) 2347-2360. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, A. Mojahed, T. Sapsis, Quality measures for the evaluation of machine learning architectures on the quantification of epistemic and aleatoric uncertainties in complex dynamical systems, Computer Methods in Applied Mechanics and Engineering, (2024) In Press (27 pages) [pdf].
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Champenois, T. Sapsis, Machine learning framework for the real-time reconstruction of regional 4D ocean temperature fields from historical reanalysis data and real-time satellite and buoy surface measurements, Physica D, 459 (2024) 134026. [pdf].
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. Babaee, M. Choi, T. Sapsis, G. Karniadakis, A robust bi-orthogonal/dynamically-orthogonal method using the covariance pseudo-inverse with application to stochastic flow problems, Journal of Computational Physics, 344 (2017) 303-319. [pdf].
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Choi, T. Sapsis, G. E. Karniadakis, On the equivalence of dynamically orthogonal and dynamically bi-orthogonal methods: Theory and numerical simulations, Journal of Computational Physics, 270 (2014) 1-20. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Ueckermann, P. Lermusiaux, T. Sapsis, Numerical schemes for dynamically orthogonal equations of stochastic fluid and ocean flows, Journal of Computational Physics, 233 (2013) 272-294. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, and H. A. Dijkstra, Interaction of additive noise and nonlinear dynamics in the double-gyre wind-driven ocean circulation, Journal of Physical Oceanography, 43 (2013) 366-381. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, M. Ueckermann, P. Lermusiaux, Global analysis of Navier-Stokes and Boussinesq stochastic flows using dynamical orthogonality, Journal of Fluid Mechanics, 734 (2013) 83-113. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Choi, T. Sapsis, G. E. Karniadakis, A convergence study for SPDEs using combined polynomial chaos and dynamically-orthogonal schemes, Journal of Computational Physics, 245 (2013) 281-301. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Champenois, T. Sapsis, Machine learning framework for the real-time reconstruction of regional 4D ocean temperature fields from historical reanalysis data and real-time satellite and buoy surface measurements, Physica D, 459 (2024) 134026 (14 pages) . [pdf].
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, N. Parashar, B. Dodov, C. Lessig, T. Sapsis, A multi-scale deep learning framework for projecting weather extremes, Tackling Climate Change with Machine Learning workshop at NeurIPS 2022, New Orleans (12-2022). Best Paper: ML Innovation [pdf] [link]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Z. Wan, B. Dodov, C. Lessig, H. Dijkstra, T. Sapsis, A data-driven framework for the stochastic reconstruction of small-scale features with application to climate data sets, Journal of Computational Physics, 442 (2021) 110484 (24 pages). [movie] [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. J. E. Chen, T. Theurich, M. Krack, T. Sapsis, L. A. Bergman, A. F. Vakakis, Intense cross-scale energy cascades resembling “mechanical turbulence” in harmonically driven strongly nonlinear hierarchical chains of oscillators, Acta Mechanica, 233 (2022) 1289-1305. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, A. Vakakis, Non-reciprocity in nonlinear elastodynamics, Journal of Sound and Vibration, 412 (2018) 326-335. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. O. Gendelman, T. Sapsis, Energy exchange and localization in essentially nonlinear oscillatory systems: Canonical formalism, ASME Journal of Applied Mechanics, 84 (2017) 011009 (9 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, D. Quinn, A. Vakakis, & L. Bergman, Effective stiffening and damping enhancement of structures with strongly nonlinear local attachments, ASME Journal of Vibration & Acoustics, 134 (2012) 011016 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Vakakis, & L. Bergman, Effect of stochasticity on targeted energy transfer from a linear medium to a strongly nonlinear attachment, Probabilistic Engineering Mechanics, 26 (2011) 119-133. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. O. Gendelman, T. Sapsis, A. Vakakis, L. Bergman, Enhanced passive targeted energy transfer in strongly nonlinear mechanical oscillators, Journal of Sound and Vibration, 330 (2011) 1-8. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & A. Vakakis, Subharmonic orbits of a strongly nonlinear oscillator forced by closely spaced harmonics, Journal of Computational and Nonlinear Dynamics, 6 (2011) 011014 (10 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Vakakis, O. Gendelman, L. Bergman, G. Kerschen, & D. Quinn. Efficiency of targeted energy transfers in coupled nonlinear oscillators associated with 1:1 resonance captures: Part II, analytical study, Journal of Sound and Vibration, 325 (2009) 297-320. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. D. Quinn, O. Gendelman, G. Kerschen, T. Sapsis, L. Bergman, & A. Vakakis. Efficiency of targeted energy transfers in coupled nonlinear oscillators associated with 1:1 resonance aaptures: Part I, Journal of Sound and Vibration, 311 (2008) 1228-1248. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Haji, J. Kluger, T. Sapsis, A. Slocum, A symbiotic approach to the design of offshore wind turbines with other energy harvesting systems, Ocean Engineering Journal, 169 (2018) 673-681. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Haji, J. Kluger, J. Carrus, T. Sapsis, A. Slocum, Experimental investigation of hydrodynamic response of an ocean uranium extraction machine attached to a floating wind turbine, International Journal of Offshore and Polar Engineering, 28 (2018) 225-231. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. -K. Joo, T. Sapsis, A moment-equation-copula-closure method for nonlinear vibrational systems subjected to correlated noise, Probabilistic Engineering Mechanics, 46 (2016) 120-132. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. J. Kluger, T. Sapsis, A. Slocum, Robust energy harvesting from walking vibrations by means of nonlinear cantilever beams, Journal of Sound and Vibration, 341 (2015) 174-194. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H.-K. Joo, T. Sapsis, Performance measures for single-degree-of-freedom energy harvesters under stochastic excitation, Journal of Sound and Vibration, 313 (2014) 4695-4710. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. K. Remick, H.-K. Joo, D.M. McFarland, T. Sapsis, L. Bergman, D.D. Quinn, A. Vakakis, Sustained high-frequency energy harvesting through a strongly nonlinear electromechanical system under single and repeated impulsive excitations, Journal of Sound and Vibration, 333 (2014) 3214-3235. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. K. Remick, A. Vakakis, L. Bergman, D. M. McFarland, D. D. Quinn, T. Sapsis, Sustained high-frequency dynamic instability of a nonlinear system of coupled oscillators forced by single or repeated impulses: Theoretical and experimental results, ASME Journal of Vibration & Acoustics, 136 (2013) 011013 (15 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. STATISTICS OF EXTREMES Expositories-Reviews T. Sapsis, Statistics of extreme events in fluid flows and waves, Annual Review of Fluid Mechanics, 53 (2021) 85-111. [free access pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. Arbabi, T. Sapsis, Generative stochastic modeling of strongly nonlinear flows with non-Gaussian statistics, SIAM/ASA Journal of Uncertainty Quantification, 10 (2022) 555-583. [code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, Output-weighted optimal sampling for Bayesian regression and rare event statistics using few samples, Proceedings of the Royal Society A, 476 (2020) 20190834. [Code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Mohamad, T. Sapsis, A sequential sampling strategy for extreme event statistics in nonlinear dynamical systems, Proceedings of the National Academy of Sciences, 115 (2018) 11138-11143. [open access link], [supporting information], Featured on the MIT News.
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Mohamad, W. Cousins, T. Sapsis, A probabilistic decomposition-synthesis method for the quantification of rare events due to internal instabilities, Journal of Computational Physics, 322 (2016) 288-308. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Mohamad, T. Sapsis, Probabilistic description of extreme events in intermittently unstable dynamical systems excited by correlated stochastic processes, SIAM/ASA Journal on Uncertainty Quantification, 3 (2015) 709-736. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, T. Sapsis, Wave episode based Gaussian process regression for extreme event statistics in ship dynamics: Between the Scylla of Karhunen-Loève convergence and the Charybdis of transient features, Ocean Engineering Journal, 266 (2022) 112633 (18 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, T. Sapsis, Probabilistic characterization of the effect of transient stochastic loads on the fatigue-crack nucleation time, Probabilistic Engineering Mechanics, 66 (2021) 103162 (11 pages). [Code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. V. Belenky, D. Glotzer, V. Pipiras, T. Sapsis, Distribution tail structure and extreme value analysis of constrained piecewise linear oscillators, Probabilistic Engineering Mechanics, 57 (2019) 1-13.[pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. -K. Joo, M. Mohamad, T. Sapsis, Heavy-tailed response of structural systems subjected to extreme forcing events, ASME Journal of Computational and Nonlinear Dynamics, 13 (2018) 090914 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. -K. Joo, M. Mohamad, T. Sapsis, Extreme events and their optimal mitigation in nonlinear structural systems excited by stochastic loads: Application to ocean engineering systems, Ocean Engineering Journal, 142 (2017) 145-160. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Mohamad, T. Sapsis, Probabilistic response and rare events in Mathieu’s equation under correlated parametric excitation, Ocean Engineering Journal,120 (2016) 289-297. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Learning the tangent space of dynamical instabilities from data, Chaos, 29 (2019) 113120, Focus Issue: When Machine Learning Meets Complex Systems: Networks, Chaos and Nonlinear Dynamics, (2019) (15 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Analytical description of optimally time-dependent modes for reduced-order modeling of transient instabilities, SIAM Journal on Applied Dynamical Systems, 18 (2019) 1143-1162. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. Babaee, M. Farazmand, G. Haller, T. Sapsis, Reduced-order description of transient instabilities and computation of finite-time Lyapunov exponents, Chaos, 27 (2017) 063103 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. Babaee, T. Sapsis, A minimization principle for the description of time-dependent modes associated with transient instabilities, Proceedings of the Royal Society A, 472 (2016) 20150779 (27 pages). [pdf] Featured on the journal’s cover page.
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, S. Mowlavi, T. Sapsis, Control of linear instabilities by dynamically consistent order reduction on optimally time-dependent modes, Nonlinear Dynamics, 95 (2019) 2745-2764. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Charalampopoulos, T. Sapsis, Uncertainty quantification of turbulent systems via physically consistent and data-informed reduced-order models, Physics of Fluids, 34 (2022) 075120. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Charalampopoulos, T. Sapsis, Machine-learning energy-preserving nonlocal closures for turbulent fluid flows and inertial tracers, Physical Review Fluids, 7 (2022) 024305 (24 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Majda, A statistically accurate modified quasilinar Gaussian closure for uncertainty quantification in turbulent dynamical systems, Physica D, 252 (2013) 34-45. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. D. Venturi, T. Sapsis, H. Cho, and G. E. Karniadakis, A computable evolution equation for the joint response-excitation probability density function of stochastic dynamical systems, Proceedings of the Royal Society A, 468 (2012) 759 (25 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & G. Athanassoulis, New partial differential equations governing the response-excitation joint probability distributions of nonlinear systems under general stochastic excitation, Probabilistic Engineering Mechanics, 23 (2008) 289-306. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Mentzelopoulos, J. Ferrandis, S. Rudy, T. Sapsis, M. Triantafyllou, D. Fan, Data-driven prediction and study of vortex induced vibrations by leveraging hydrodynamic coefficient databases learned from sparse sensors, Ocean Engineering Journal, 266 (2022) 112833 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. D. Eeltink, H. Branger, C. Luneau, Y. He, A. Chabchoub, J. Kasparian, T. S. van den Bremer, T. Sapsis, Nonlinear wave evolution with data-driven breaking, Nature Communications 13 (2022) 2343. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Rudy, D. Fan, J. Ferrandis, T. Sapsis, M. Triantafyllou, Optimized parametric hydrodynamic databases provide accurate response predictions and describe the physics of vortex-induced vibrations, Journal of Fluids and Structures, 112 (2022) 103607.[pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. P. Vlachas, J. Pathak, B. R. Hunt, T. Sapsis, M. Girvan, E. Ott, P. Koumoutsakos, Forecasting of spatio-temporal chaotic dynamics with recurrent neural networks: a comparative study of reservoir computing and backpropagation algorithms, Neural Networks, 126 (2020) 191-217. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. P. Vlachas, W. Byeon, Z. Y. Wan, T. Sapsis, P. Koumoutsakos, Data-driven forecasting of high-dimensional chaotic systems with long-short term memory networks, Proceedings of the Royal Society A, 474 (2018) 20170844 (20 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Z. Y. Wan, T. Sapsis, Reduced-space Gaussian process regression for data-driven probabilistic forecast of chaotic dynamical systems, Physica D, 345 (2017) 40-55. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, Surface waves enhance particle dispersion, Fluids, 4 (2019) (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Z. Y. Wan, T. Sapsis, Machine learning the kinematics of spherical particles in fluid flows, Journal of Fluid Mechanics, 857 (2018) R2 (11 pages). [Code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & G. Haller, Clustering criterion for inertial particles in 2D time-periodic and 3D steady flows, Chaos, 20 (2010) 017515 (11 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. G. Haller & T. Sapsis, Localized instability and attraction along invariant manifolds, SIAM Journal of Applied Dynamical Systems, 9 (2010) 611-633. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & G. Haller, Instabilities in the dynamics of neutrally buoyant particles, Physics of Fluids, 20 (2008) 017102 (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. G. Haller, T. Sapsis, Where do inertial particles go in fluid flows?, Physica D, 237 (2008) 573-583. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Charalampopoulos, S. H. Bryngelson, T. Colonius, T. Sapsis, Hybrid quadrature moment method for accurate and stable representation of non-Gaussian processes applied to bubble dynamics, Phil. Trans. Royal Soc. A, 380 (2022) 20210209 (19 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Atis, M. Leclair, T. Sapsis, T. Peacock, Anisotropic particles focusing effect in complex flows, Physical Review Fluids, 7 (2022) 084503 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Z. Y. Wan, P. Karnakov, P. Koumoutsakos, T. Sapsis, Bubbles in turbulent flows: Data-driven, kinematic models with history terms, International Journal of Multiphase Flows, 129 (2020) 103286 (11 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. N. Aksamit, T. Sapsis, G. Haller, Machine-learning ocean dynamics from Lagrangian drifter trajectories, Journal of Physical Oceanography, 50 (2020) 1179-1196. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Bryngelson, A. Charalampopoulos, T. Sapsis, T. Colonius, A Gaussian moment method and its augmentation via LSTM recurrent neural networks for the statistics of cavitating bubble populations, International Journal of Multiphase Flows, 127 (2020) 103262 (8 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, N. Ouellette, J. Gollub, & G. Haller, Neutrally buoyant particle dynamics in fluid flows: Comparison of Experiments with Lagrangian stochastic models, Physics of Fluids, 23 (2011) 093304 (15 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, J. Peng, & G. Haller, Instabilities on prey dynamics in jellyfish feeding, Bulletin of Mathematical Biology, 73 (2011) 1841-1856. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & G. Haller, Inertial particle dynamics in a hurricane, Journal of the Atmospheric Sciences, 66 (2009) 2481-2492. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Hammond, T. Sapsis, UUV autonomy and control near submarines using actively sampled surrogates, Journal of Ship Research, 67 (2023), 235-251 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. D. Glotzer, V. Pipiras, V. Belenky, K. Weems, T. Sapsis, Distributions and extreme value analysis of critical response rate and split-time metric in nonlinear oscillators with stochastic excitation, Ocean Engineering Journal, 292 (2024) 116538 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Levine, S. Edwards, D. Howard, K. Weems, T. Sapsis, V. Pipiras, Multi-fidelity data-adaptive autonomous seakeeping, Ocean Engineering Journal, 292 (2024) 116322 (13 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. V. Belenky, K. Weems, W.-M. Lin, V. Pipiras, T. Sapsis, Estimation of probability of capsizing with split-time method, Ocean Engineering Journal, 292 (2024) 116452 (27 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Hammond, T. Sapsis, Reduced order modeling of hydrodynamic interactions between a submarine and unmanned underwater vehicle using non-myopic multi-fidelity active learning, Ocean Engineering Journal, 288 (2023) 116016. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Campbell, V. Belenky, V. Pipiras, K. Weems, T. Sapsis, Estimation of probability of large roll angle with envelope peaks over threshold method, Ocean Engineering Journal, 290 (2023), 116296 (16 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Kriezis, C. Chryssostomidis, T. Sapsis, Predicting ship power using machine learning methods, Proceedings of the SNAME Maritime Convention 2022, Houston, Texas, (9 – 2022). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. D. Levine, S. J. Edwards, D. Howard, V. Belenky, K. Weems, T. Sapsis, and V. Pipiras, Data-adaptive autonomous seakeeping, Proceedings of the 34th Symposium on Naval Hydrodynamics Washington, DC, USA (6 – 2022). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, B. Champenois, T. Sapsis, Application of Gaussian process multi-fidelity optimal sampling to ship structural modeling, Proceedings of the 34th Symposium on Naval Hydrodynamics Washington, DC, USA (6 – 2022). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, V. Belenky, K. Weems, V. Pipiras, Deck effects on the statistical structure of the vertical bending moment loads during random waves: an analytical approach, Proceedings of the 34th Symposium on Naval Hydrodynamics Washington, DC, USA (6 – 2022). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. V. Pipiras, D. Howard, V. Belenky, K. Weems and T. Sapsis, Multi-Fidelity Uncertainty Quantification and Reduced-Order Modeling for Extreme Ship Motions and Loads, Proceedings of the 34th Symposium on Naval Hydrodynamics Washington, DC, USA (6 – 2022). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. V. Belenky, K. Weems, V. Pipiras, D. Glotzer, T. Sapsis, Tail structure of roll and metric of capsizing in irregular waves, Proceedings of the 32nd Symposium on Naval Hydrodynamics (2018), Hamburg, Germany (8-2018). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. V. Belenky, D. Glozter, V. Pipiras, T. P. Sapsis, On the tail of nonlinear roll motions, Proceedings of the 15th International Ship Stability Workshop, 13-15 June 2016, Stockholm, Sweden (6-2016). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Submitted manuscripts B. Barthel Sorensen, M. Black, E. Noorani, T. Sapsis, A temporal barrier framework for collision avoidance in multi-agent autonomous aerial vehicles (2026), Submitted. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. K. Metaxas, T. Sapsis, Risk-sensitive learning in population games under extreme events: bifurcations and chaotic dynamics (2026), Submitted. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. M. Wang, B. Barthel Sorensen, T. Sapsis, Generative Prediction-Correction Framework for Long-time Emulations of Spatially-Resolved Climate Extremes (2026), Submitted. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. D. Eamer, S, Stamatelopoulos, A. Y. Elbanhawy, F. Christia, T. P. Sapsis, E. Olivetti, A Generalized Framework for Assessing Cargo Loss Impacts of Alternative Maritime Fuels (2026), Submitted. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. M. Wang, A. Souza, R. Ferrari, T. Sapsis, Stochastic emulators of spatially resolved extreme temperatures of earth system models (2026), Submitted. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. N. Chen, R. Malek-Madani, P. Hassanzadeh, S. N. Stechmann, A, Braverman, H. Christensen, A. Gelb, M. Ghil, D. Giannakis, C. Jones, R. Leung, M. Morzfeld, C. Moser, T. Palmer, C. Sampson, T. Sapsis, T. Shaw, S. Stuart, J. Weare, L. Zanna, An Applied Mathematics Perspective on Modern Geoscience (2026), Submitted.
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2026 I. Thiel, J. Bello-Rivas, I. Kevrekidis, T. Sapsis, Mechanism-Aware Ensemble Conditioning for Data-Limited Emulation of Extreme Events (2026), Proceedings of NeurIPS. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. E. Katsidoniotaki, T. Sapsis, Dynamics-informed deep learning for predicting extreme events (2026), Proceedings of the Royal Society A, In Press. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. K. Chang, T. Sapsis, Extreme Event Aware (η-) Learning (2026), Nature Communications, In Press. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. S. Tang, T. Sapsis, N. Azizan, Learning Dissipative Chaotic Dynamics with Boundedness Guarantees (2026), Proceedings of the National Academy of Sciences, In Press. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Valiaveedu, N. Edmonds, T. Sapsis, Ship’s Ahoy! Developing a Trans-Atlantic Corridor for Nuclear Maritime (2026), ATPL Journal of Transportation, Law Logistics and Policy, In Press. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Champenois, T. Sapsis, Predicting ocean flow from observed Lagrangian trajectories via Bayesian optimization in the latent space of an autoencoder-based reduced-order model (2026), Artificial Intelligence for the Earth Systems, 5, e250124. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Barthel Sorensen, L. Zepeda-Núñez, I. Lopez-Gomez, Z. Y. Wan, R. Carver, F. Sha, T. P. Sapsis, A probabilistic framework for learning non-intrusive corrections to long-time climate simulations from short-time training data (2026), Journal of Advances in Modeling Earth Systems, 18, e2024MS004755. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2025 E. Katsidoniotaki, B. Su, E. Kelasidi, T. Sapsis, Multifidelity digital twin for real-time monitoring of structural dynamics in aquaculture net cages (2025), Scientific Reports, 15 (2025) 44281. [Open Access pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Champenois, T. Sapsis, What are the most informative data points for predicting extreme events?, Nonlinear Dynamics, 113 (2025) 34167. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. D. Kim, T. Sapsis, Forecasting Lift of Airfoil Randomly Maneuvering Under Dynamic Stall Conditions, American Institute of Aeronautics and Astronautics 63 (2025) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. P. Mentzelopoulos, I. Papakalodoukas, D. Fan, T. P. Sapsis, M. S. Triantafyllou, Deep learning vortex-induced vibrations: time-space forecasting with transformers, Journal of Fluids and Structures 137 (2025) 104337 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. Y. Psarellis, T. Sapsis, I. Kevrekidis, Active search for bifurcations, Chaos 35 (2025) 053159 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Champenois, C. Bastidas, B. LaBash, T. Sapsis, Data-Driven Modeling of 4D Ocean and Coastal Acidification in the Massachusetts and Cape Cod Bays from Surface Measurements, Journal of Geophysical Research – Biogeosciences 130 (2025) e2024JG008465 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. E. Katsidoniotaki, S. Guth, M. Göteman, T. P. Sapsis, Reduced order modeling of wave energy systems via sequential Bayesian experimental design and machine learning, Applied Ocean Research, 155 (2025) 104439 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. S. Stamatelopoulos, T. Sapsis, Can diffusion models predict extreme events?, Comput. Methods Appl. Mech. Engrg., 435 (2025) 117589 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. M. Kim, K. O’Connor, V. Pipiras, T. Sapsis, Sampling low-fidelity outputs for estimation of high-fidelity density and its tails, SIAM/ASA Journal of Uncertainty Quantification, 13 (2025) 30 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2024 E. Pickering, T. Sapsis, Information FOMO: The unhealthy fear of missing out on information. A method for removing misleading data for healthier models, Entropy, 26 (2024) 835 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. S. Zhang, B. Harrop, R. Leung, A. Charalampopoulos, B. Barthel Sorensen, W. Xu, and T. Sapsis, A Machine Learning Bias Correction on Large‐Scale Environment of High‐Impact Weather Systems in E3SM Atmosphere Model, Journal of Advances in Modeling Earth Systems, 16, (2024) e2023MS004138 (34 pages) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. P. Mentzelopoulos, E. Prele, D. Fan, J. A. Ferrandis, T. Sapsis, M. S. Triantafyllou, Reconstructing flexible body vortex-induced vibrations using machine-vision and predicting the motions using semi-empirical models informed with transfer learned hydrodynamic coefficients, Journal of Fluid and Structures, 129 (2024) 104154 (13 pages) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. P. Mentzelopoulos, D. Fan; T. P. Sapsis, M. S. Triantafyllou, Variational autoencoders and transformers for multivariate time-series generative modelling and forecasting: applications to vortex-induced vibrations, Ocean Engineering Journal, 310 (2024) 118639 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Barthel Sorensen, A. Charalampopoulos, S. Zhang, B. E. Harrop, L. R. Leung, and T. Sapsis, A non-intrusive machine learning framework for debiasing long-time coarse resolution climate simulations and quantifying rare events statistics, Journal of Advances in Modeling Earth Systems, 16 (2024) e2023MS004122 (29 pages) [pdf] [Featured by the MIT News]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. J. Ferrandis, A. Mentzelopoulos, E. Ronglan, S. Rudy, D. Fan, T. Sapsis, M. Triantafyllou, Improving predictions of vortex induced vibrations via generalizable hydrodynamic databases across several current incidence angles, Journal of Fluids and Structures, 126 (2024) 104086 (21 pages) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. S. Guth, A. Mojahed, T. Sapsis, Quality measures for the evaluation of machine learning architectures on the quantification of epistemic and aleatoric uncertainties in complex dynamical systems, Computer Methods in Applied Mechanics and Engineering, 420 (2024) 116760 (22 pages) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. D. Glotzer, V. Pipiras, V. Belenky, K. Weems, T. Sapsis, Distributions and extreme value analysis of critical response rate and split-time metric in nonlinear oscillators with stochastic excitation, Journal of Ocean Engineering, 292 (2024) 116538 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. M. Levine, S. Edwards, D. Howard, K. Weems, T. Sapsis, V. Pipiras, Multi-fidelity data-adaptive autonomous seakeeping, Journal of Ocean Engineering, 292 (2024) 116322 (13 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. V. Belenky, K. Weems, W.-M. Lin, V. Pipiras, T. Sapsis, Estimation of probability of capsizing with split-time method, Journal of Ocean Engineering, 292 (2024) 116452 (27 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. S. Guth, E. Katsidoniotaki, T. Sapsis, Statistical modeling of fully nonlinear hydrodynamic loads on offshore wind turbine foundations using wave episodes and targeted CFD simulations through active sampling, Wind Energy, 27 (2024) 75-100. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2023 B. Campbell, V. Belenky, V. Pipiras, K. Weems, T. Sapsis, Estimation of probability of large roll angle with envelope peaks over threshold method, Journal of Ocean Engineering, 290 (2023), 116296 (16 pages) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. J. Zhang, L. Cammarata, C. Squires, T. P. Sapsis, and C. Uhler, Active learning for optimal intervention design in causal models, Nature Machine Intelligence, 5 (2023) 1066-1075. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Barthel, T. Sapsis, Harnessing the instability mechanisms in airfoil flow for the data-driven forecasting of extreme events (2023), American Institute of Aeronautics and Astronautics (AIAA) Journal, 61 (2023). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Mentzelopoulos, J. Ferrandis, D. Fan, S. Rudy, T. Sapsis, M. Triantafyllou, Physics-based data-informed prediction of vertical, catenary, and stepped riser vortex induced vibrations, International Journal of Offshore and Polar Engineering, 33 (2023) 367–379. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2022 E. Pickering, S. Guth, G. Karniadakis, T. Sapsis, Discovering and forecasting extreme events via active learning in neural operators, Nature Computational Science, 2 (2022) 833-843. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Mentzelopoulos, J. Ferrandis, S. Rudy, T. Sapsis, M. Triantafyllou, D. Fan, Data-driven prediction and study of vortex induced vibrations by leveraging hydrodynamic coefficient databases learned from sparse sensors, Ocean Engineering Journal, 266 (2022) 112833. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. T. Sapsis, A. Blanchard, Optimal criteria and their asymptotic form for data selection in data-driven reduced-order modeling with Gaussian process regression, Philosophical Transactions of the Royal Society A, 380 (2022) 20210197 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Blanchard, T. Sapsis, Informative path planning for anomaly detection in environment exploration and monitoring, Ocean Engineering, (2022) 43 110242 (10 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2021 S. Guth, T. Sapsis, Probabilistic characterization of the effect of transient stochastic loads on the fatigue-crack nucleation time, Probabilistic Engineering Mechanics, 66 (2021) 103162 (11 pages). [Code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. T. Sapsis, Statistics of extreme events in fluid flows and waves, Annual Review of Fluid Mechanics, 53 (2021) 85-111. [free access pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2020 T. Sapsis, Output-weighted optimal sampling for Bayesian regression and rare event statistics using few samples, Proceedings of the Royal Society A, 476 (2020) 20190834 (24 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Athanassoulis, G. Athanassoulis, M. Ptashnyk, T. Sapsis, Strong solutions for the Alber equation and stability of unidirectional wave spectra, Kinetic and Related Models, 13 (2020) 703-737. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2019 A. Blanchard, T. Sapsis, Learning the tangent space of dynamical instabilities from data, Chaos, 29 (2019) 113120, Focus Issue: When Machine Learning Meets Complex Systems: Networks, Chaos and Nonlinear Dynamics, (2019) (15 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2018 M. Mohamad, T. Sapsis, A sequential sampling strategy for extreme event statistics in nonlinear dynamical systems, Proceedings of the National Academy of Sciences, 115 (2018) 11138-11143. [open access link], [supporting information], Featured on the MIT News.
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2017 M. Farazmand, T. Sapsis, A variational approach to probing extreme events in turbulent dynamical systems, Science Advances, 3:e1701533 (2017) (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Athanassoulis, G. Athanassoulis, T. Sapsis, Localized instabilities of the Wigner equation as a model for the emergence of rogue Waves, J. Ocean Eng. Mar. Energy, 3 (2017) 353-372. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. J.M. Kluger, A.H. Slocum, and T. Sapsis, Ring-based stiffening flexure applied as a load cell with high resolution and large force range, ASME Journal of Mechanical Design, 139 (2017) 103501 (8 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2016 M. Farazmand, T. Sapsis, Dynamical indicators for the prediction of bursting phenomena in high-dimensional systems, Physical Review E, 94 (2016) 032212 (15 pages). [pdf] Featured on the Physical Review E: Kaleidoscope.
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. J. Kluger, T. Sapsis, A. Slocum, A high-resolution and large force-range load cell by means of nonlinear cantilever beams, Precision Engineering, 43 (2016) 241-256. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2015 M. Mohamad, T. Sapsis, Probabilistic description of extreme events in intermittently unstable dynamical systems excited by correlated stochastic processes, SIAM/ASA Journal on Uncertainty Quantification, 3 (2015) 709-736. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. H. -K. Joo, T. Sapsis, Closure schemes for nonlinear bistable systems subjected to correlated Noise: Applications to energy harvesting from water waves, Journal of Ocean and Wind Energy, 2 (2015) 65-72. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Petsakou, T. Sapsis, J. Blau, Circadian rhythms in Rho1 activity regulate neuronal plasticity and network hierarchy, Cell, 162 (2015) 1-13. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2014 A. Majda, D. Qi, T. Sapsis, Blended particle filters for large dimensional chaotic dynamical systems, Proceedings of the National Academy of Sciences, 111 (2014) 7511-7516. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. K. Remick, A. Vakakis, L. Bergman, D. M. McFarland, D. D. Quinn, T. Sapsis, Sustained high-frequency dynamic instability of a nonlinear system of coupled oscillators forced by single or repeated impulses: Theoretical and experimental results, ASME Journal of Vibration & Acoustics, 136 (2014) 011013 (15 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2013 T. Sapsis, A. Majda, Statistically accurate low order models for uncertainty quantification in turbulent dynamical systems, Proceedings of the National Academy of Sciences, 110 (2013) 13705-13710.[pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2012 D. Venturi, T. Sapsis, H. Cho, and G. E. Karniadakis, A computable evolution equation for the joint response-excitation probability density function of stochastic dynamical systems, Proceedings of the Royal Society A, 468 (2012) 759 (25 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2011 T. Sapsis, A. Vakakis, & L. Bergman, Effect of stochasticity on targeted energy transfer from a linear medium to a strongly nonlinear attachment, Probabilistic Engineering Mechanics, 26 (2011) 119-133. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. G. Haller, T. Sapsis, Lagrangian coherent structures and the smallest finite-time Lyapunov exponent, Chaos, 21 (2011) 023115 (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2010 T. Sapsis & G. Haller, Clustering criterion for inertial particles in 2D time-periodic and 3D steady flows, Chaos, 20 (2010) 017515 (11 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2009 T. Sapsis & P. Lermusiaux, Dynamically orthogonal field equations for continuous stochastic dynamical systems, Physica D, 238 (2009) 2347-2360. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2008 T. Sapsis & G. Haller, Instabilities in the dynamics of neutrally buoyant particles, Physics of Fluids, 20 (2008) 017102 (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
 
 ## MIT — Sanjay Sarma
 
@@ -134893,7 +141755,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -135035,7 +141897,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 15건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -135109,7 +141971,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -135125,7 +141987,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -135135,7 +141997,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -135175,7 +142037,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 20건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -135265,7 +142127,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -135275,7 +142137,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 189건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -136641,7 +143503,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 50건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -136977,7 +143839,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 80건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -137385,7 +144247,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -137481,7 +144343,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -137491,7 +144353,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 8건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -137541,7 +144403,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 8건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -137583,7 +144445,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 4건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -137609,7 +144471,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 5건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -137941,7 +144803,7 @@ Hirotaka Sato Group · 논문·원고 73건 · 기타 성과 0건 · 상태: com
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -137953,7 +144815,7 @@ Hirotaka Sato Group · 논문·원고 73건 · 기타 성과 0건 · 상태: com
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -139302,7 +146164,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -139314,7 +146176,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -139326,7 +146188,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 20건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -139416,7 +146278,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 44건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -139604,7 +146466,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -139650,7 +146512,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -139662,7 +146524,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -139674,7 +146536,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -139688,7 +146550,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -139700,7 +146562,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -139712,7 +146574,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -139724,7 +146586,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -139748,7 +146610,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 5건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -139778,7 +146640,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 35건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -139930,7 +146792,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 197건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -140730,7 +147592,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 4건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -140756,7 +147618,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -140770,7 +147632,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 5건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -140800,7 +147662,7 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
  · 논문·원고 6건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -140832,13 +147694,15 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 
 ## Nanyang Technological University — Moon Seung Ki
 
- · 논문·원고 5건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 232건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://dr.ntu.edu.sg/entities/person/Moon-Seung-Ki/selectedpublications>
+
+출처: <https://personal.ntu.edu.sg/skmoon/publication.html>
 
 1. Zhang, H., Choi, J.P., Moon, S.K., and Ngo, T.H. (2020). A hybrid multi-objective optimization of aerosol jet printing process via response surface methodology. Additive Manufacturing, 33(May), 101096.
 
@@ -140859,6 +147723,914 @@ C.J. Huang Research Group · 논문·원고 76건 · 기타 성과 0건 · 상�
 1. Yao, X., Moon, S.K., and Bi, G. (2017). A Hybrid Machine Learning Approach for Additive Manufacturing Design Feature Recommendation. Rapid Prototyping Journal, 23(6), 983-997.
 
     게시 페이지: <https://dr.ntu.edu.sg/entities/person/Moon-Seung-Ki/selectedpublications>
+
+1. - Lee, J. and Moon, S.K., “An Integrated Simulation-Gaussian Process Regression Approach for Performance Prediction in Complex Production Layout under Uncertainty,” ASME Journal of Mechanical Design, Vol. 148, No. 10, p. 102001, 2026.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Khan, M.T., Chen, L*, Yong Z., Tan, M.J., Feng, W., and Moon, S.K., “From Drawings to Decisions: A Hybrid Vision-Language Framework for Parsing 2D Engineering Drawings into Structured Manufacturing Knowledge,” Robotics and Computer-Integrated Manufacturing, Vol. 99, June, p.103186, 2026.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jeon, S., Go, A., Kim, D., Moon, S.K., and Park, S.J., “Intelligent process control and stimulus-responsive 4D transformation in extrusion-based 3D food printing: A critical review,” International Journal of Bioprinting, 2026 (Accepted).
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, J.E., Park, S.J., Park, S.H., Son, Y., Moon, S.K., Park, K., Ha, C.W., “Rapid preheating for extrusion-type additive manufacturing of super-engineering thermoplastics,” Scientific Reports, 2026 (In press).
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H., Choi, J.P., Liu, X., Liang, N., Yu, Y., Kim, Y., Shin, D., Moon, S.K., Yoon, Y.J., “LLM-Inspired Vision Transformer Framework for Intelligent Quality Recognition in Aerosol Jet Printing,” Engineering, 2026 (In press).
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, Y., Lee, J., Kim, S., Moon, S.K., and Lopez, M., “A Hybrid Multi-Criteria Decision-Making Approach for Production Line Configuration based on Product Modularity and Life Cycle,” Journal of Engineering Design, Vol. 37, No. 2, pp. 495–528, 2026.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, K.K., Kim, J.*, Moon, S.K., and Ahn, D.K., “Prediction of the Bead Shape in a Directed Energy Deposition Process Using Machine Learning with Limited Point Data,” International Journal of Precision Engineering and Manufacturing – Green Technology, Vol. 13, No. 1, pp. 124-156, 2026.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Park, S.J., Cho, S., Ng, P.H.N., Lee, J., Kim, J., Jeon, S., Khan, M.T., Chen, L., Wu, Q., and Moon, S.K., “Insights into the industrial applications and future directions of bulk metallic glasses via additive manufacturing,” International Journal of Precision Engineering and Manufacturing, 2026 (In press).
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, J., Park, S.J., Choi, J.P., Jeon, S., Kim, J., and Moon, S.K., “Design Complexity-Driven Optimization of Production Efficiency and Scheduling for Metal-Polymer Hybrid Structures in Additive Manufacturing International Journal of Precision Engineering and Manufacturing – Green Technology, 2026 (In press).
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jeon, S., Kim, J., Go, A., Choi, J.P., Yang, D., and Moon, S.K., “AI-based Mechanical Properties Prediction of Sintering-Aging Combined Effect in Metal-material Extrusion,” International Journal of Precision Engineering and Manufacturing – Green Technology, 2026 (In press).
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Liu, B., Chua, P., Lee, J., Moon, S.K., and Lopez, M., “A digital twin emulator for production performance prediction and optimization using multi-scale ensemble and surrogate models,” Journal of Intelligent Manufacturing, Vol. 37, No. 1, pp. 201-2019, 2026.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jeon, S., Kim, J.K., Park, S.J., Kim, J.Y., Moon, S.K., and Yang, D., “Temperature Dependent Mechanical Properties of End-of-Life Carbon Reinforced Plastics, “International Journal of Precision Engineering and Manufacturing – Green Technology, Vol. 13, pp. 685-701, 2026.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. -Jeon, S., Park, S.J., Moon, S.K., and Yang, D., “Enhanced Mechanical Properties and Reduced Anisotropy of Material Extrusion-Manufactured Short Carbon Fiber-Reinforced Plastic via Cold Isostatic Pressing,” Virtual and Physical Prototyping, Vol. 20, No. 1, p. e2499934, 2025.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H., Yu, Y., Liu, X., Liang, N., Kim, Y., Shin, D., Moon, S.K., and Choi, J.P., “Autonomous printing process optimisation and in-situ anomaly detection in fused deposition modelling using an integrated data-driven approach,” Virtual and Physical Prototyping, Vol. 20, No.1, p. 22545523, 2025.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kariya, S., Hayashi, Y., Issariyapat, A., Umeda, J., Moon, S.K., Chen, B., Li, S., and Kondoh, K., “Microstructures Formation and Strengthening Mechanism of Ultra-Rapidly Solidified Powder Metallurgy Ti-Si Alloys via Hot Rolling Process,” Materials Transactions, Vol. 66, No. 8, pp. 963-964, 2025.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, J., Lee, J.*, Park, S.J., Lee, J., Song, B., and Moon, S.K., “Software-Defined Factory: Paradigm Shift in Manufacturing Towards Industry 5.0,” International Journal of Precision Engineering and Manufacturing – Smart Technology, Vol. 3, No. 2, pp. 201-209, 2025.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Khan, M.T., Chen, L., Ng, Y.H., Feng, W., Tan, N.Y.J., and Moon, S.K., “Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs,” ASME Journal of Computing and Information Science in Engineering, Vol. 25, No. 10, p. 104501, 2025.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Wang, P., Lee, J., Lee, G.S., Moon, S.K., and Lopez, M., “Digital twin driven reconfigurable production line design and optimization in smart factory,” Annals of Operations Research, 2025 (Accepted).
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Park, S.J., Yang, J., Lee, J.H., Hong, S., Moon, S.K., Son, Y., and Park, S.H., “High-strength joining of additive-manufactured polymer and metal parts via warm isostatic pressing: Applications in medical implants and injection moulds,” Virtual and Physical Prototyping, Vol. 20, No. 1, p. e2449566, 2025.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Park, S.J., Choi, J.P., Lee, P.H., and Moon, S.K., “Strategic design and simulation of interfaces for enhanced joint performance in metal-polymer hybrid structures,” Journal of Computational Design and Engineering, Vol. 12, No. 4, pp. 1-13, 2025.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Xie, J., Mutahar Safdar, M., Chen L., Moon, S.K., and Zhao, Y.F., “Audio-visual cross-modality knowledge transfer for machine learning-based in-situ monitoring in laser additive manufacturing,” Additive Manufacturing, Vol. 101, 5 March, p. 104692, 2025.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, J., Chua, P.C, Liu, B., Moon, S.K., and Lopez, M., “A Hybrid Data-Driven Optimization and Decision-Making Approach for a Digital Twin Environment: Towards Customizing Production Platforms,” International Journal of Production Economics, Vol. 279, No. 1, p. 109447, 2025.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H., Cui, L., Lee, P.H., Kim, Y., Moon, S.K., and Choi, J.H., “Data-Driven autonomous printing process optimization and real-time abnormality identification in aerosol jet-deposited droplet morphology,” Virtual and Physical Prototyping, Vol. 19, No. 1, 2024.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Go, A., Jeon, E.S., Moon, S.K., and Park, S.J., “Fabrication of 17-4PH stainless steel by metal material extrusion: Effects of process parameters and heat treatment on physical properties,” Materials & Design, Vol. 248, p.113471, 2024.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, J.H., Park, S.J., Yang, J., Moon, S.K., and Park, J., “Crack Control in Additive Manufacturing by Leveraging Process Parameters and Lattice Design,” Micromachines, Vol. 15, No. 11, p. 1361, 2024.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L., Bi, G., Yao, X., Su, J., Tan, C., Feng, W., Benakis, M., Chew, Y., and Moon, S.K., “In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review,” Journal of Manufacturing Systems, Vol. 24, pp.527-574, 2024.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, H., Seo, J., Baek, A.M.C., Shin, W.Y., Jeon, H, Moon, S.K., Kim, H., Kim, N., and Jung, I.D., “Direct energy deposition for smart micro reactor,” Virtual and Physical Prototyping, Vol. 19, No. 1, e2411024, 2024.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, Y. and Moon, S.K., “Uncertainty quantification of Process-Property-Structure linkage for Fused Filament Fabrication parts,” ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part B: Mechanical Engineering, Vol. 10, No. 3, p. 031102, 2024.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Park, S.J., Lee, J.S., Lee, J.E., Moon, S.K., Son, Y., and Park, S.H., “Influence of nozzle temperature on gas emissions and mechanical properties in material extrusion-based additive manufacturing of super engineering plastics,” International Journal of Precision Engineering and Manufacturing – Green Technology, 2024 (In press).
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L. and Moon, S.K., “In-Situ Defect Detection in Laser-Directed Energy Deposition with Machine Learning and Multi-Sensor Fusion,” Journal of Mechanical Science and Technology, Vol. 38, No. 9, pp. 4477-4484, 2024.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H., Moon, S.K., Jung, M.K., Lee, P.H., Ha, T., and Choi, J.H., “Conductivity and Flexibility Enhancement of Aerosol-Jet-Printed Sensors using a Sliver Nanoparticle Ink with Carbon Nanotubes,” Archives of Metallurgy and Materials, Vol. 69, No. 2, pp. 401-405, 2024.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Han, Y., So, B.J., Kim, H.J., Jeon, J.G., Kim, J.H., Lee, J.H., Shin, G., Baek, J.Y., Kim, H., Lee, M.W., Moon, S.K., Seo, K., Park, S.Y., Jeon, J.G., Shin, H., and Kang, T.J., “Current collectors of Carbon Fiber Reinforced Polymer for Stackable Energy Storage Composites,” Energy Storage Materials, Vol. 64, January, p. 103070, 2024.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Khan, M. T., Wenhe Feng, W., Chen, L., Ng, Y.H., Tan, N.Y.J., and Moon, S.K., “Automatic Feature Recognition and Dimensional Attributes Extraction From CAD Models for Hybrid Additive-Subtractive Manufacturing,” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Washington D.C., USA, August 25-28, 2024, Paper No. IDETC2024- 143107.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, J. and Moon, S.K., “A Hybrid Simulation-Gaussian Process Regression Approach for Performance Prediction and Reconfiguration of Production Layout,” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Washington D.C., USA, August 25-28, 2024, Paper No. IDETC2024-142477.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, J., Chen, L.*, Feng, W., Chew, Y., Moon, S.K., “Single-Track Melt Pool Simulation In Robotic Laser-Directed Energy Deposition Under Speed Inaccuracy,” The 30th International Conference on Computational & Experimental Engineering and Sciences, August 3-6, 2024, Singapore.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chua, P.C., Moon, S.K., Ng, Y.T., and Lopez, M., “Strategic Production Process Design with Additive Manufacturing in a Make-to-stock Environment,” ASME Journal of Manufacturing Science and Engineering, Vol. 145, No. 11, p.111009, 2023.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Park S.J., Lee, J.H., Yang, J., Moon, S.K., Son, Y., and Park, J., “Enhanced Energy Absorption of Additive-Manufactured Ti-6Al-4V Parts via Hybrid Lattice Structures,” Micromachines, Vol.14, p. 1982, 2023.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jerin, W.R., Park, S.J., and Moon, S.K., “A design optimization framework for 3D printed lattice structures,” International Journal of Precision Engineering and Manufacturing – Smart Technology, Vol. 1, No. 2, pp. 145-156, 2023.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L., Yao, X., Tan, C., Su, J., Ng, N.P.H.*, Chew, Y., Liu, K., and Moon, S.K., “Multisensor fusion-based digital twin for localized quality prediction in robotic laser-directed energy deposition,” Robotics and Computer-Integrated Manufacturing Vol. 84, December, p. 102581, 2023.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L., Yao, X., Tan, C., He, W., Su, J., Weng, F., Chew, Y., Ng, N.P.H., and Moon, S.K., “In-situ crack and keyhole pore detection in laser directed energy deposition through acoustic signal and deep learning,” Additive Manufacturing, Vol. 69, 5 May, p. 103547, 2023.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lim, C.H. and Moon, S.K., “A two-phase iterative mathematical programming-based heuristic for a flexible job shop scheduling problem with transportation,” Applied Sciences, Vol. 13, No. 8, p. 5215, 2023.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Ng, N.P.H, Chen, L., and Ahn, D.G., “A novel quality inspection method for aerosol jet printed sensors through infrared imaging and machine learning,” CIRP Annals Manufacturing Technology, Vol. 72, No. 1, pp. 165-168, 2023.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, J., Chua, P.C., Chen, L., Ng, P.H.N., Kim, Y., Wu, Q., Jeon, S., Jung, J., Chang, S., Moon, S.K., “Key Enabling Technologies for Smart Factory in Automotive Industry: Status and Applications,” International Journal of Precision Engineering and Manufacturing – Smart Technology, Vol. 1, No. 1, pp. 93-105, 2023 (Selected Best Paper, January 2023, Korea Society for Precision Engineering).
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L., Ng, N.P.H, Jung, J., and Moon, S.K., “Additive Manufacturing for Automotive Industry: Status, Challenges and Future Perspectives,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Singapore, 18-21 December, 2023.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L., Yao, X., Feng, W., Chew, Y., and Moon, S.K., “Multimodal sensor fusion for Real-time location-dependent defect detection in laser-directed energy deposition,” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Boston, USA, August 20-23, 2023, Paper No. IDETC2023-110284.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L., Ng, N.P.H, Jung, J., and Moon, S.K., “Additive Manufacturing for Automotive Industry: Status, Challenges and Future Perspectives,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Singapore, 18-21 December, 2023. - Chen, L., Yao, X., Feng, W., Chew, Y., and Moon, S.K., “Multimodal sensor fusion for Real-time location-dependent defect detection in laser-directed energy deposition,” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Boston, USA, August 20-23, 2023, Paper No. IDETC2023-110284. - Moon, S.K., Ng, N.P.H, Chen, L., and Ahn, D.G., “A novel quality inspection method for aerosol jet printed sensors through infrared imaging and machine learning,” 72nd CIRP General Assembly, Dublin, Ireland, 20-26 August 2023.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L., Yao, X., Liu, K.; Tan, C., and Moon, S.K., “Multisensor fusion-based digital twin in additive manufacturing for in-situ quality monitoring and defect correction,” 24th International Conference on Engineering Design, Bordeaux, French, 24-28 July 2023
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Beibl, J., Lee, J., Krause, D., and Moon, S.K., “Flexibility - Grand Challenge for Product Design and Production: Review and Status,” 33rd CIRP Design Conference, Sydney, Australia, 17-19 May 2023.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, Y, Choi, J.P., and Moon, S.K., “A data-driven framework to predict fused filament fabrication part properties using surrogate models and multi-objective optimisation,” International Journal of Advanced Manufacturing Technology, Vol. 120, No., 11, pp. 8275-8291, 2022.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L., Yao, X., and Moon, S.K., “In-Situ Acoustic Monitoring of Direct Energy Deposition Process with Deep Learning-Assisted Signal Denoising,” Materials Today: Proceedings, Vol. 70, pp. 136-142, 2022.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Seo, E., Sung, H., Jeon, H., Kim, H., Kim, T., Park, S., Lee, M.S., Moon, S.K., Kim, J.G., Chung, H., Choi, S.-K., Yu, J.-H., Kim, K.Y., Park, S.J., Kim, N., Jung, I.D., “Laser powder bed fusion for AI assisted digital metal components,” Virtual and Physical Prototyping, Vol. 17, No. 4., pp. 806-820, 2022.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Xu, P., Yao, X., Chen, L., Zhao, C., Liu, K., Moon, S.K., and Bi, G., “In-process adaptive dimension correction strategy for laser aided additive manufacturing,” Journal of Materials Processing Technology, Vol. 303, No. 5, p. 1175544, 2022.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chua, P.C., Moon, S.K., Ng, Y.T., and Ng, H.Y., “A Surrogate Model to Predict Production Performance in Digital Twin based Smart Manufacturing,” ASME Journal of Computing and Information Science in Engineering, Vol. 22, No. 3. p. 031007, 2022.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Schwede, L., Greve, E., Krause, D., Otto, K., Moon, S.K., Albers, A., Kirchner, E., Lachmayer, R., Bursac, N., Inkermann, D., Rapp, S., Hausmann, M., and Schneider, J., “How to use the Levers of Modularity properly – Linking Modularization to Economic Targets,” ASME Journal of Mechanical Design, Vol. 144, No. 7, p. 071401, 2022.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Sacco, E. and Moon, S.K., “Guidelines for 3D Printed Spring Using Material Extrusion,” Rapid Prototyping Journal, Vol. 28, No. 3, pp. 409-429, 2022.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Sacco, E. and Moon, S.K., “Modelling the Stiffness of Plastic Springs Manufactured via Additive Manufacturing,” Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, Vol. 236, No. 5, pp. 486-497, 2022.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. -Chen, L., Yao, X., Ng, N.P.H, and Moon, S.K., “In-situ Melt Pool Monitoring of Laser Aided Additive Manufacturing Using Infrared Thermal Imaging,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Kuala Lumpur, Malaysia, December, 7-10, 2022.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. -Chen, L., Yao, X., and Moon, S.K., “Toolpath design for in-process surface defect correction in hybrid additive-subtractive manufacturing,” International Conference Design for 3D Printing, Hybrid, Singapore, 22-23 September 2022.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. -Chua, P.C., Moon, S.K., Ng, Y.T., Ng, H.Y., and Lopez, M., “Discovery of Customized Dispatching rule for Single-Machine Production Scheduling using Deep Reinforcement Learning” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, St. Louis, MO, USA, August 14-17, 2022, Paper No. DETC2022-89829.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, Y., Choi, J.P., and Moon, S.K., “Effect of geometry on the mechanical response of additively manufactured polymer,” Polymer Testing, Vol. 100, August, p. 107245, 2021.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, Y. and Moon, S.K., “Data-driven Design Strategy in Fused Filament Fabrication: Status and Opportunities,” Journal of Computational Design and Engineering, Vol. 8, No.2, pp. 489-509, 2021.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H. and Moon, S.K., “Reviews on machine learning approaches for process optimization in non-contact direct ink writing,” ACS Applied Materials & Interfaces, Vol. 13, No. 45, pp. 53323-53345, 2021.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chua, Z.Y., Moon, S.K., Jiao, L., and Ahn, I.H., “Geometric influence of the laser-based powder bed fusion process in Ti6AL4V and AlSi10Mg,” The International Journal of Advanced Manufacturing Technology, Vol. 114, No.9-10, pp. 3165-3176, 2021.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, Y., and Moon, S.K., “The effect of annealing on additive manufactured ULTEM™ 9085 mechanical properties,” Materials. Vol. 14, No. 11, P. 2907, 2021.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L., Yao, X., Xu. P., Moon, S.K., and Bi, G., “Rapid Surface Defect Identification for Additive Manufacturing with in-situ Point Cloud Processing and Machine Learning,” Virtual and Physical Prototyping, Vol. 16, No. 1, pp. 50-67, 2021.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H., Choi, J.P., Moon, S.K., and Ngo, T.H., “A knowledge transfer framework to support rapid process modeling in aerosol jet printing,” Advanced Engineering Informatics, Vol. 48, April, p. 101264, 2021.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, J., Ha, H., Seol, J.B., Kim, J.G., Seo, E.H., Moon, S.K., Jung, I.D., Sung, H., “Reverse effect of hot isostatic pressing on high-speed selective laser melted Ti-6Al-4V alloy, Materials Science and Engineering A-Structural Materials Properties Microstructure and Processing, Vol. 207, 11 March, p. 140880, 2021.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lei, N., Kareem, M., Moon, S.K., Ciaccio E.J., Acharya, R., and Faust, O., “Hybrid Decision Support to Monitor Atrial Fibrillation for Stroke Prevention,” International Journal of Environmental Research and Public Health, Vol. 18, p. 813, 2021.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jiang, Y., Yao, X., and Moon, S.K., “Phase-Field Crystal Modelling of Deformation Behavior in Grain Growth,” 2nd International Conference of Advanced Surface Enhancement (INCASE), Virtual Conference, 7-8 September 2021.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Seo, E., Kim, N., Moon, S.K., Sung, H., and Jung, I.D., “Effect Of Build Angle On Surface Roughness Of High-speed Selective Laser Melted Ti–6Al–4V Alloy,” 2nd International Conference of Advanced Surface Enhancement (INCASE), Virtual Conference, 7-8 September 2021.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chua, P.C., Moon, S.K., Ng, Y.T., and Ng, H.Y., “Prediction of Production Performance in Smart Manufacturing using Multivariate Adaptive Regression Spline” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Virtual, Online, August 17-19. 2021, Paper No. DETC2021-69632.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H., Choi, J.P., Moon, S.K., and Ngo, T.H., “A multi-objective optimization framework for aerosol jet customized line width printing via small data set and prediction uncertainty,” Journal of Materials Processing Technology, Vol. 285, November, p. 116779, 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L., Yao, X., Chew, Y., Weng, F., Moon, S.K., and Bi, G., “Data-driven adaptive control for laser-based additive manufacturing with automatic controller tuning,” Applied Sciences, Vol. 10, No. 22, p. 7967, 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Wang, B., Zhang, H., Choi, J.P., Moon, S.K., Lee, B., and Koo, J., “A Post-treatment Method to Enhance the Property of Aerosol Jet Printed Electric Circuit on 3D Printed Substrate,” Materials, Vol. 13, No. 24, p. 5602, 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jung, I.D., Shin, D.S., Kim D., Lee, J., Lee, M.S., Son, H.J., Reddy, N.S., Kim, M., Moon, S.K., Kim, K.T., Yu, J.H., Kim, S., N.S. Park, S.J. and Sung, H., “Artificial intelligence for the prediction of tensile properties by using microstructural parameters in high strength steels,” Materialia, Vol. 11, June, p. 100699, 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H., Choi, J.P., Moon, S.K., and Ngo, T.H., “A hybrid multi-objective optimization of aerosol jet printing process via response surface methodology, Additive Manufacturing, Vol. 33, May, p. 101096, 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jung, I.D., Kim, M.S., Lee, J., Sung, H., Choe, J., Son, H.J., Yun, J., Kim, K.B., Kim, M., Lee, S.W., Yang, S., Moon, S.K., Kim, K.T., and Yu, J.H., “Embedding Sensors using Selective Laser Melting for Self-Cognitive Metal Parts,” Additive Manufacturing, Vol. 33, May, p. 101151, 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, S. and Moon, S.K., “A Part Consolidation Design Method for Additive Manufacturing based on Disassembly Complexity,” Applied Sciences, Vol. 10, No. 3, p. 1100, 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H., Moon, S.K., Ngo, T.H., Tou, J., and Mohamed, A.B.M.Y, “Rapid process modeling of the Aerosol Jet printing based on Gaussian process regression with Latin hypercube sampling,” International Journal of Precision Engineering and Manufacturing, Vol.21, No.1, pp. 127-136, 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Hackl, J., Krause, D., Otto, K., Windheim, M., Moon, S.K., Bursac, N., and Lachmayer, R., “Impact of Modularity on a Firm’s Economic Objectives,” ASME, Journal of Mechanical Design, Vol. 142, No., 2, p. 041403, 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, N., Lim, J.J.W., Ying, J. Zhang, H., Moon, S.K., and Choi. J.P., “A customized smart medical mask for healthcare personnel,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Virtual, Online, December 14-17, 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, Y. and Moon, S.K., “Process Characterization for Additively Manufactured ULTEM 9085 using Bayesian Inference,” International Symposium on Precision Engineering and Sustainable Manufacturing (PRESM), Virtual, Online, November 16-18. 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chua, P.C., Moon, S.K., and Ng, Y.T., “Multi-objective Implementation of Additive Manufacturing in Make-to-stock Production” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Virtual, Online, August 17-19. 2020, Paper No. DETC2020-22085.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, L., Yao, X., Xu, P., Moon, S.K., and Bi, G., “Surface monitoring for additive manufacturing with in-situ point cloud processing,” IEEE, The 6th International Conference on Control, Automation and Robotics (ICCAR), Singapore (Virtual, Online), April 20-23, 2020.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H., Moon, S.K., and Ngo, T.H., “Hybrid Machine Learning Method to Determine the Optimal Operating Process Window in Aerosol Jet 3D Printing,” ACS Applied Materials & Interfaces, Vol. 11, No. 19, pp. 17994-18003, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Sacco, E. and Moon, S.K., “Additive Manufacturing for Space: Status and Promise,” The International Journal of Advanced Manufacturing Technology, Vol. 105, No. 10, pp. 4123-4146, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Son, Y., Kim, H., Moon, S.K., and Ahn, I.H., “A New Laser Scan Method for Microstructural Control in Selective Laser Melting Process,” Test Engineering and Management, Vol. 81, Nov.-Dec., pp.221-226, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, T.T, Choi, S., Moon, S.K., and Wang, Y., “Advanced aircraft manufacturing and maintenance using three-dimensional printing,” The International Journal of Advanced Manufacturing Technology, Vol. 105, No. 10, pp.4055-4057, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, S. and Moon, S.K., “Eco-Modular Product Architecture Identification and Assessment for Product Recovery," Journal of Intelligent Manufacturing, Vol.30, No. 1, pp. 383-403, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jiao, L., Chua, Z.Y., Moon, S.K., Song, J., Bi, G., Zheng, H., Lee, B., and Koo, J., “Laser-induced graphene on Additive Manufacturing ULTEM parts,” Nanomaterials Vol. 9, No.1, 90, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Huang, T., Moon, S.K., and Lee, J.M., “A heterostructure of layered double hydroxide wrapped in few-layer carbon with iridium doping for efficient oxygen evolution,” Electrochimica Acta, Vol. 296, 10 February, pp. 590-597, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Okpoti, E.S., Jeong, I., and Moon, S.K., “Decentralized determination of design variables among cooperative designers for multiple product platform design in a product family,” Computers & Industrial Engineering, Vol. 135, 1 September, pp. 601-614, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, B., Bi, G., Chew, Y., Wang, P., Ma, G., Lui, Y., and Moon, S.K., “Comparison of carbon-based reinforcement on laser aided additive manufacturing Inconel 625 composites,” Applied Surface Science, Vol. 490, 1 October, pp. 522-534, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lui, Y., Weng, F., Bi, G., Chew, Y., Lui, S., Ma, G., and Moon, S.K., “Characterization of wear properties of the functionally graded material deposited on cast iron by laser aided additive manufacturing,” The International Journal of Advanced Manufacturing Technology, Vol. 105, No. 10, pp. 4097-4105, 2019 .
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lim, C.H. and Moon, S.K., “A Reusable Scheduling Problem Decomposition Framework for Smart Factories, IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Macau, China, December, 15-18, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Gao, N. and Moon, S.K., “An Integrated Two-Stage Optimization Method for Job-Shop Bottleneck Planning and Scheduling, IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Macau, China, December, 15-18, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Sankowski, O., Otto, K., Moon, S.K., and Krause, D., “PhD Research Learning in Product Architecture Design,” Proceedings of the Design Society: International Conference on Engineering Design (ICED), Delft, The Netherlands, 5 -8 August,, pp. 549-558, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jin, Y.L., Delieva, D., Eom, H.J., Moon, S.K., and Park, Y.R., “Sustainable Development and Corporate Social Responsibility in the Luxury Market,” Global Fashion Management Conference, Paris, France, July 11-14, pp. 236-237, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, Y. and Moon, S.K., “Investigation on the Effect of Annealing on Additive Manufactured ULTEM™ 9085 Mechanical Properties,” International Symposium on Precision Engineering and Sustainable Manufacturing (PRESM), Da Nang, Vietnam, July 10-13, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Wang, B., Ng, N.O.H., Elhaida, B., Hui, H.S., Moon, S.K., “Failure Analysis and Finite Element Simulation for Structural Systems in an Unmanned Aerial Vehicle,” 16th IEEE International Conference on Ubiquitous Robots (UR), Jeju, Korea, June 24-27, 2019.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jiao, L., Chua, Z.Y., Moon, S.K., Song, J., Bi, G., and Zheng, H., “Femtosecond laser produced hydrophobic hierarchical structures on Additive Manufacturing parts,” Nanomaterials, Vol. 8, No. 8, 601, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Yao, X., Moon, S.K., Bi, G, and Wei, J., “A Multi-Material Part Design Framework in Additive Manufacturing," The International Journal of Advanced Manufacturing Technology, Vol. 99, No. 9-12, pp. 2111-2119, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Song, J., Chew, Y., Jiao, L., Yao, X., Moon, S.K., and Bi. G., “Numerical Study of Temperature and Cooling Rate in Selective Laser Melting with Functionally Graded Support Structures,” Additive Manufacturing, Vol. 24, pp. 543-551, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, B., Moon, S.K., Yao, X., Bi, G., Shen, J., Umeda, J., and Kondoh, K., “Comparison Study on Additive Manufacturing (AM) and Powder Metallurgy (PM) AlSi10Mg Alloys, JOM, Vol. 70, No.5, pp. 644-649, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ahn, I.H., Moon, S.K., and Bi, G., “Hole Design Quality Identification in Laser Aided Additive Manufacturing,” Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, Vol. 232, No.5, pp. 909-917, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chang, J., Moon, S.K., Jung, K., Kim, W., Parkinson, M., Freivalds, A., Simpson, T.W., and Baik, S.P., “Glasses-type Wearable Computer Displays: Usability Considerations Examined with a 3D Glasses Case Study,” Ergonomics, Vol. 61, No. 5, pp. 670-681, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Song, J., Chew, Y., .Bi, G., Yao, X., Zhang, B., Bai, J., Moon, S.K., “Numerical and experimental study of laser aided additive manufacturing for melt-pool profile and grain orientation analysis,” Materials and Design, Vol. 137, January, pp. 286-297, 2018
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Wong, T. C.S., Jang, M.K., Moon, S.K., Chua, Z.Y., Zhang, H., and Oh, H., “A Human Centered Design Framework to Support Product-service Systems,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), pp. 545 – 549, Bangkok, Thailand, December, 16-19, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Tan, Y.E., Moon, S.K., Ngo, T.H., Tou, J., and Mohamed, A.B.M.Y., “Predictive Maintenance of a Train System Using Multilayer Perceptron Artificial Neural Network,” IEEE International Conference on Intelligent Rail Transportation, Paper ID:59, pp. 1-5, Singapore, 12 - 14 December 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H., Moon, S.K., Ngo, T.H., Tou, J., and Mohamed, A.B.M.Y., A Hybrid Machine Learning Approach for the Quality Optimization of a 3D Printed Sensor, IEEE International Conference on Intelligent Rail Transportation, Paper ID:62, pp. 1-5, Singapore, 12 - 14 December 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Li, Y.H., Chua, Z.Y., Moon, S.K., Ngo, T.H., Tou, J., and Mohamed, A.B.M.Y., “Finite Element Method and Parametric Study on Material Properties and Friction Coefficients for Design of Mechanical Components,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Quebec City, Canada, August 26-29, Paper No. DETC2018-85866, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, H., Moon, S.K., Ngo, T.H., Tou, J., and Mohamed, A.B.M.Y., “Rapid process modeling of the Aerosol Jet printing based on Gaussian process regression with Latin hypercube sampling,” International Symposium on Precision Engineering and Sustainable Manufacturing, Sapporo, Japan, July 3-7, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Okpoti, E.S., Jeong, I., and Moon, S.K., “Decentralized Determination of Design Variables among Cooperative Designers for a General Aviation Aircraft Product Family,” 2018 INFORMS International Conference, Taipei, Taiwan, June 17-20, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Sacco, E., Chua, Z.Y., and Moon, S.K., “Comparison of Elastic Properties for Different Sample Types Fabricated with Additive Manufacturing,” 3rd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 14-17, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Zhang, Y., Yeon, Y.C., Zheng, G. and Moon, S.K., “Characterization of Mechanical Properties of ULTEM®9085 Using FDM,” 3rd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 14-17, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jiao, L. and Moon, S.K., “Laser Induced Hydrophobicity on the Ti6Al4V Additive Manufacturing Parts,” 3rd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 14-17, 2018.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, S. and Moon, S.K., “Sustainable Product Family Configuration Based on a Platform Strategy,” Journal of Engineering Design, Vol. 28, Nos. 10-12, pp.731-764, 2017.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Yao, X., Moon, S.K., Bi, G., “A Hybrid Machine Learning Approach for Additive Manufacturing Design Feature Recommendation,” Rapid Prototyping Journal, Vol. 23, No. 6, pp. 983-997, 2017.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Yao, X., Moon, S.K., Lee, B.Y., and Bi, G., “Effects of Heat Treatment on Microstructures and Tensile Properties of IN718/TiC Nanocomposite Fabricated by Selective Laser Melting,” International Journal of Precision and Engineering Manufacturing, Vol. 18, No. 12, pp.1693-1701, 2017.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chen, B., Moon, S.K., Yao, X., Bi, G., Shen, J., Umeda, J., and Kondoh, K., “Strength and Strain Hardening of a Selective Laser Melted AlSi10Mg Alloy,” Scripta Materialia, Vol.141, December, pp. 45-49, 2017.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, S. and Moon, S.K., “Sustainable platform identification for product family design,” Journal of Cleaner Production, Vol.143, No.2, pp.567-581, 2017.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Huang, T., Moon, S.K., and Lee, J.M., “Polymer-assisted formation of 3D Pd nanoassemblies: highly active catalysts for formic acid electrooxidation,” Sustainable Energy & Fuels, Vol. 1, No. 3, pp.450-, 457, 2017
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ahn, I.H., Moon, S.K., Hwang, J.H., and Bi, G., “Characteristic Length of the Solidified Melt Pool in Selective Laser Melting Process,” Rapid Prototyping Journal, In press: Vol. 23, No. 2, pp.370-381, 2017.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Yao, X., Moon, S.K., Bi, G., and Son, H., “Commonality and Performance Metrics to Evaluate and Optimize the Design of Additive Manufactured Product Families,” International Journal of Manufacturing Research, Vol. 12, No. 1, pp.44–63, 2017.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Li, Y., Kim, S., Tan, Y.E., Chua, Z.Y., and Ngo, T.H., “Customized Sensors for Structural Health Monitoring in a Train System,” The 2017 World Congress on Advanced in Structural Engineering and Mechanics (ASEM17), Ilsan, Korea, August 28-September 1, 2017.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ko, H. and Moon, S.K., “Contrasting Function with Affordance in Design for Additive Manufacturing,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Cleveland, OH, USA, August 6-9, Paper No.DETC2017-68157, 2017.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, S. and Moon, S.K., “Disassembly Complexity-Driven Module Identification for Additive Manufacturing,” ISPE International Conference on Transdisciplinary Engineering, Singapore, July 10-14, 2017.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lei, N., Yao, X., Moon, S. K., and Bi, G., “An Additive Manufacturing Process Model for Product Family Design,” Journal of Engineering Design, Vol. 27, No. 11, pp. 751-767, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, S., Kyung, G., Lee, J., Moon, S.K., and Park, K.J., “Grasp and index finger reach zone during one-handed smartphone rear interaction: Effects of task type, phone width, and hand length,” Ergonomics, Vol. 59, No., 11, pp. 1462-1472, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ahn, I.H, Moon, S.K., and Hwang, J. H., “An Efficient Way of Investigating the Intrinsic Size Effect in Machining,” Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, Vol. 230, No. 9, pp. 1622-1629, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Otto, K., Hölttä-Otto, K., Simpson, T.W., Krause, D., Ripperda, S., and Moon, S.K., “Global Views on Modular Design Research: Linking Alternative Methods to Support Modular Product Family Structure Design,” ASME Journal of Mechanical Design, Vol. 138, No. 7, pp. 07031, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Yao, X., Moon, S.K., and Bi, G., “A Cost-Driven Design Methodology for Additive Manufactured Variable Platforms in Product Families”, ASME Journal of Mechanical Design, Vol. 138, No. 4, pp. 041701, doi: 10.1115/1.4032504, 2016 (Selected ASME JMD Featured Articles).
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Wu, F., Jeon, J, Moon, S.K., Choi, H.-J., and Son, H., “Voice Coil Navigation Sensor for Flexible Silicone Intubation,” IEEE/ASME Transactions on Mechatronics, Vol. 21, No. 2, pp. 851-859, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, H., Moon, S.K., and Seo, M., “Hybrid layering scanning-projection micro-stereolithography for fabrication of conical microlens array and hollow microneedle array,” Microelectronic Engineering, Vol. 153 (5 March), pp. 15-19, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Baek, J.W. and Moon, S.K., “A production-inventory system with a Markovian service queue and lost sales,” Journal of the Korean Statistical Society, Vol. 45, No. 1, pp. 14-24, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, S., Moon, S.K., Jeon, S.M., and Oh, H.S., “A Disassembly Complexity Assessment Method for Sustainable Product Design,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Bali, Indonesia, December 4-7, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ko, H., Moon, S.K., Wood, K.L., and Oh, H.S., “An Integration of Function- and Affordance-based Methods for Product-service System Utilizing Finite State Automata,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Bali, Indonesia, December 4-7, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Tan, Y.E., Ko, H., Chua, Z.Y., Ngo, T.H., Hwang, J.H., and Baek., J.W., “A Customized 3D Printed Sensor Development Framework for Component Condition Monitoring,” The 18th International Conference on Industrial Engineering (IJIE2016), Seoul, Korea, October 10-12, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chua, Z.Y., Ahn, I.H., and Moon, S.K., “Geometric influence in selective laser melted Ti6Al4V alloy,” The 18th International Conference on Industrial Engineering (IJIE2016), Seoul, Korea, October 10-12, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Baek, J.W., Hwang, J.H., and Moon, S.K., “Effect of 3D Printing Technology in a Production-Manufacturing System: Queueing Theoretic Approach,” The 18th International Conference on Industrial Engineering (IJIE2016), Seoul, Korea, October 10-12, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kanchanasri, P., Moon, S.K., and Jeon, S., “Decision Support System Design for Repair Decision in Remanufacturing,” Proceedings of the International Conference of Logistic and Supply Chain Management System (ICLS2016), Bali, Indonesia, July 27-29, 2016
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Yao, X., Moon, S.K., Bi, G, and Wei, J., “An Additive Manufacturing Resource Allocation Framework for Multi-Material Part Design,” 26th International Conference on Flexible Automation and Intelligent Manufacturing (FAIM2016), Seoul, Korea, June 27-30, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ahn. I., Moon, S.K., Bi, G., and Wei, J. “Influence of the Geometric Factor for The Width of the Contour Scan in Selective Laser Melting,” 2nd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 17-19, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Yao, X., Moon, S.K., and Bi, G., “Multidisciplinary Design Optimization for Additive Manufactured Customized Products,” 2nd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 17-19, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ko. H., Enea, S., Chua, Z.Y., Moon, S.K., and Otto, N.K., “User-Centered Design for Additive Manufacturing as a Customization Strategy,” 2nd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 17-19, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Yao, X., Moon, S.K., Bi, G., and Son, H., “Commonality and Performance Metrics of Product Families Implemented with Additive Manufactured Variable Platforms,” International Conference on Innovative Design and Manufacturing (ICIDM), Auckland, New Zealand, January 24-26, 2016.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ko, H., Moon, S.K., and Otto, N.K., “Design Knowledge Representation to Support Personalised Additive Manufacturing,” Virtual and Physical Prototyping, Vol.10, No.4, pp.217-226, 2015 .
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Park, S.Y, Lee, J.S., Choi, B.H., Ahn, I.H., and Moon, S.K., “Modeling and Observation of Compressive Behaviors of Closed Cellular Structures using Central Voronoi Tessellation Concepts,” International Journal of Precision Engineering and Manufacturing, Vol. 16, No. 12, pp. 2459-2465, 2015.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ahn, I.H., Moon, S.K., and Hwang, J., ‘A Mechanistic Cutting Force Model with Consideration of the Intrinsic and Geometric Size Effects Decoupled,’ International Journal of Advanced Manufacturing Technology, Vol. 81, No. 5, pp.745-753, 2015.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lei, N. and Moon, S.K., “A decision support system for market-driven product positioning and design,” Decision Support Systems, Vol.69, No.1, pp.82-91, 2015.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ma, R., Wang, M., Dam, D. T., Dong, Y., Chen, Y., Moon, S.K., Yoon, Y.J., and Lee, J-M., "Halide ions assisted synthesis of different α-Fe2O3 hollow structures and their lithium ion storage properties," ChemPlusChem, Vol.80, No.3, pp.522-528, March 2015.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ahn, I.H., Moon, S.K., Yoo, J.S., and Oh, H.S., “Quality Control of 3D Printed Parts in Selective Laser Melting Process,” the 18th Quality Management and Organizational Development (QMOD) and the Korean Society for Quality Management (KSQM) International Joint Conference, Seoul, Korea, October 12-14, 2015.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Baek, J.W., Park, J. and Moon, S.K., “Analysis of production/inventory systems integrated with service queues,” the 18th Quality Management and Organizational Development (QMOD) and the Korean Society for Quality Management (KSQM) International Joint Conference, Seoul, Korea, October 12-14, 2015.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Yao, X., Moon, S.K., and Bi, G., “The Additive Manufacturing Process Setting's Feasible Space Exploration and Association with Variable Product Platform Design,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Boston, MA, USA, August 2-5, Paper No.DETC2015-46665, 2015.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, S. and Moon, S.K., “Assessing and generating modules for product recovery in eco-product family development,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Boston, MA, USA, August 2-5, Paper No. DETC2015-47130, 2015.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kanchanasri, P., Moon, S.K., and Ng, G., “Real-time Product Recovery Decision Making Algorithm for Sustainability,” International Conference on Engineering Design, Milan, Italy, July 27-30, 2015
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lei, N.R., Moon, S.K., and Rosen, D.W., “Redefining Product Family Design for Additive Manufacturing,” International Conference on Engineering Design, Milan, Italy, July 27-30, 2015.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kanchanasri, P., Moon, S.K., and Ng, G., “Decision making criteria for sustainable remanufacturing,” 10th International Congress on Logistics and SCM Systems, Chiang Mai, Thailand, July 1-4, 2015
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, S., Tegoeh, T., and Moon, S.K., “Flexible Membrane Wing Warping Using Tendon-Sheath Mechanism,” The 23rd Mediterranean Conference on Control and Automation, Torremolinos, Spain, June 16-19, 2015.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chang, J., Jung, K., Kim, W., Moon, S.K., Freivalds, A., Simpson, T.W., and Baik, S.P., “Effects of Weight Balance on a 3D TV Shutter Type Glasses: Subjective Discomfort and Physical Contact Load on the Nose,” International Journal of Industrial Ergonomics, Vol.44, No.3, pp.801-809, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Yoon, Y.J, Moon, S.K., and Hwang, J., “3D Printing as an Efficient Way for Comparative Study of Biomimetic Structures - Trabecular Bone and Honeycomb,” Journal of Mechanical Science and Technology, Vol.28, No.11, pp.4635-4640, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Wu, F., Moon, S.K., and Son, H.S., “Orientation Measurement based on Magnetic Inductance by Extended Distributed Multi-Pole Model,” Sensors, Vol. 14, No. 7, pp.11504-11521, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Jiao, L.S., Moon, S.K., Ng, E.Y.K., Zheng, H.Y., and Son, H.S., “Influence of substrate heating on hole geometry and spatter area in femtosecond laser drilling of silicon,” Applied Physics Letters, Vol. 104, No. 18, pp. 181902-1-4, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Baek, J.W. and Moon, S.K., "M/M/1 Queue with a Production Inventory System and Lost Sale," Applied Mathematics and Computation, Vol.233 (1 May), pp.534-544, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Park, K.J., and Simpson, T.W., “Platform Design Variable Identification for a Product Family using Multi-objective Particle Swarm Optimization,” Research in Engineering Design, Vol. 25, No. 2, pp. 95-108, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Baek, J.W., Moon, S.K., and Lee, H.W., “A time-dependent busy period queue length formula the M/E_k/1 queue,” Statistics and Probability Letters, Vol.87 (April), pp.98-104, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, S., Moon, S.K., Oh, H.S., Park, T., Choi, H.J., and Son, H., “A Framework to Identify Sustainability Indicators for Product Design,” Industrial Engineering and Engineering Management, IEEE International Conference, Kuala Lumpur, Malaysia, December 9-12, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Tan, Y.E. and Moon, S.K., “Inflatable Wing Design for Micro UAVs using Indirect 3D Printing,” The 11th International Conference on Ubiquitous Robots and Ambient Intelligence, Kuala Lumpur, Malaysia, November 12 - 15, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, S., Baek, J.W., Moon, S.K., and Jeon, S.M., “A New Approach for Product Design by Integrating Assembly and Disassembly Sequence Structure Planning,” The 18th Asia Pacific Symposium on Intelligent and Evolutionary Systems, Singapore, November 10-12, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ng, J., Moon, S.K., Park, T., Tan, W.P., “Intentional and Unintentional Medication Nonadherence – Comparing Older and Younger Adults,” Proceedings of the Human Factors and Ergonomics Society 58th Annual Meeting, Chicago, Illinois, USA, October 27-31, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lei, N.R. and Moon, S.K., “Decision Support Systems Design for Data-driven Management,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Buffalo, New York, USA, August 17-20, Paper No. DETC2014-34871, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ko, H.W., Moon, S.K., Lee, S.W., and Shin, D.M., “A Formal Model of Human Interactions for Service Ecosystem Design,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Buffalo, New York, USA, August 17-20, Paper No. DETC2014-34839, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ling, P. F., Tan, Y. E.*, and Moon, S. K., “Working Principles of 3D Xerography,” 1st International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 26-28, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Ko, H. W., Moon, S. K., and Otto, K., “Customization Design Knowledge Representation to Support Additive Manufacturing,” 1st International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 26-28, 2014.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Oh, H.S., Ventura, J.A., Kim, J.K., and Yoon, Y.J., “Service Reliability Improvement in Manufacturing and Operating Systems”, International Journal of Precision Engineering and Manufacturing, Vol. 14, No. 8, pp. 1401-1406, 2013.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Yoo, J. J.W., Aryasomayajula, A., and Moon, S.K., “An Efficient Branch-and-bound Algorithm for Interface-based Modular Product Design,” Journal of Computing and Information Science in Engineering, ASME, Vol. 13, No. 4, pp. 044502-1-5, 2013.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Oh, H.S., Moon, S.K., and Yoo, J.S., "The Job-Centered PSS Blueprint for Designing a Product-Service System", International Journal of Digital Content Technology and its Applications, Vol. 7, No. 8, pp. 319 ~ 326, 2013.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Oh, H.S., Moon, S.K., and Yoo, J.S., "Service-Oriented FMEA and Grey Relational Analysis Based Approach to Service Reliability Assessment", International Journal of Advancements in Computing Technology, Vol. 5, No. 12, pp. 225 ~ 234, 2013.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kwon, O., Yoon, Y.J., Moon, S.K., Choi, H.J., and Shim, J.H., “Estimation of Singapore's hourly solar radiation using hybrid-Markov transition matrices method,” International Journal of Precision Engineering and Manufacturing, Vol. 14, No. 2, pp. 323-327, 2013.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kim, S. and Moon, S.K., Oh, H.S., Park, T., Kyung, G, and, Park, K.J., “Change Propagation Analysis for Sustainability in Product Design,” Industrial Engineering and Engineering Management, IEEE International Conference, Bangkok, Thailand, December, 10-13, 2013.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lei, N.R., Moon, S. K., and Bi, G., “Additive Manufacturing and Topology Optimization to Support Product Family Design,” Virtual and Rapid Prototyping, Leiria, Portugal, October 1-5, 2013.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lei, N.R. and Moon, S.K., “A decision support system for market segment driven product design,” International Conference on Engineering Design, Seoul, Korea, August 19-22, 2013.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Oh, H.Y., Kim, S., and Hwang, J., “A product-service system design framework using objective-oriented concepts and blueprint,” International Conference on Engineering Design, Seoul, Korea, August 19-22, 2013.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Withanage, C., Moon, S.K., Park, T., and Duc, T.T.H., “Application of dynamic value-attribute modeling in a product family,” International Conference on Engineering Design, Seoul, Korea, August 19-22, 2013.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Oh, H.S., and Kim, S., “A Product-Service System Model for Identifying Design Factors,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Portland, Oregon, August 5-8, Paper No. DETC2013-12543, 2013.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K. and McAdams, D.A., “A Market-based Design Strategy for a Universal Product Family,” ASME Journal of Mechanical Design, Vol. 143, No. 11, pp. 111007, doi:10.1115/1.4007395, 2012.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kokini, C.M., Lee, S., Koubek, R.J., and Moon, S.K., “Considering Context: The Role of Task Characteristics in Users' Perceptions of Usability,” International Journal of Human-Computer Interaction, Vol. 28, No. 9, pp. 543-559, 2012.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lei, N.R. and Moon, S.K., “Objective Product Family Design Analysis Using Self-Organization Map,” IEEE International Conference on Industrial Engineering and Engineering Management, Hong Kong, China, December 10-12, 2012.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chang, J., Jung, K., Moon, S.K., Kim, W., Freivalds, A., Simpson, T.W., and Baik, S.P., “Determination of Optimal Location of Circuit Board and Battery on 3D Glasses by Considering Nose Load and Subjective Discomfort,” Proceedings of the Human Factors and Ergonomics Society 56th Annual Meeting, Boston, MA, USA, October 22-26, 2012.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Oh, H.S., Moon, S.K., and Kim, W., “A Product-Service System Design Framework based on a Business Ecosystem” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Chicago, IL, August 12-15, Paper No. DETC2012/DAC-70731, 2012.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Hwang, J., Moon, S.K., Ho, Y., and Noh, C., “Universal Product Family Design for Human Variability and Aesthetics,” International Applied Human Factors and Ergonomics Conference, San Francisco, CA, July 21-25, 2012.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Oh, H.S., Moon, S.K., and Ventura, J.A., “Service Reliability Evaluation using Fuzzy Failure Mode Effects Analysis and Grey Theory,” Institute of Industrial Engineers (IIE) Asian Conference, Singapore, June 28-30, 2012.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Oh, H.S., Kim, W., and Soo, J.C., “Design Factor Identification for a Product-Service System,” Design Engineering Design Workshop, Seoul and Daejeon, Korea, June 25-27, 2012.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Shu, J., Simpson, T.W., and Kumara, S.R.T., “A Module-based Service Model for Mass Customization: Service Family Design,” IIE Transactions, Vol. 43, No. 3, pp. 153-163, 2011.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Hwang, J., Chang, J., Moon, S.K., and Freivalds, A., “Design and Assessment of Ergonomics of Hand-Powered Pruning Shears Based on Gender-Specific Operating Strategy,” Proceedings of the Human Factors and Ergonomics Society 55th Annual Meeting, Las Vegas, Nevada, September 19-23, 2011.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Chang, J., Hwang, J., Moon, S.K., and Freivalds, A., “Determination of Optimal Grip Span between a Bicycle Handlebar and a Brake Lever by Using a Two-Dimensional Biomechanical Hand Model,” Proceedings of the Human Factors and Ergonomics Society 55th Annual Meeting, Las Vegas, Nevada, September 19-23, 2011.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kokini, C.M., Lee, S., Koubek, R.J., and Moon, S.K., “Effects of mental workload and operator control on perceived usability,” Proceedings of the Human Factors and Ergonomics Society 55th Annual Meeting, Las Vegas, Nevada, September 19-23, 2011.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Park, K.J., and Simpson, T.W., “Platform Strategy for Product Family Design using Particle Swarm Optimization,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Washington, DC, August 29-31, Paper No. DETC2011/DAC-47959, 2011.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “A Methodology for Knowledge Discovery to Support Product Family Design,” Annals of Operations Research, Vol. 174, No. 1, pp. 201-218, 2010.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K. and McAdams, D.A., “A Platform-based Strategic Design Approach for Universal Products,” International Journal of Mass Customization, Vol. 3, No. 3, pp. 227-246, 2010.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Simpson, T.W., and Kumara, S.R.T., "An Agent-based Recommender System for Developing Customized Families of Products," Journal of Intelligent Manufacturing, Vol. 20, No. 6, pp. 649-659, 2009.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Simpson, T.W., Jun Shu, and Kumara, S.R.T., “Service Representation for Capturing and Reusing Design Knowledge in Product and Service Family using Object-Oriented Concepts and an Ontology,” Journal of Engineering Design, Vol. 20, No. 4, pp. 413-431, 2009.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Park, J., Simpson, T.W., and Kumara, S.R.T., “A Dynamic Multi-Agent System Based on a Negotiation Mechanism for Product Family Design,” IEEE Transactions on Automation Science and Engineering, Vol. 5, No. 2, pp. 234-244, 2008.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Simpson, T.W., Shu, J., and Kumara, S.R.T., “A Method for Platform Identification to Support Service Family Design,” International Journal of Services Operations and Informatics, Vol. 3, Nos. 3/4, pp. 294-317, 2008.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, Y.H., Moon, S.K., and Lee, H., “A New Approach for Automated Parts Recognition Using Time Series Analysis and Neural Networks,” Journal of Intelligent Manufacturing, Vol. 8, No. 3, pp. 167-175, 1997.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K. and Simpson, T.W., “Platform Valuation for Product Family Design in Uncertain Market Environments,” AIAA/ISSMO Multidisciplinary Analysis Optimization Conference, Fort Worth, Texas, September 13-15, 2010.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K. and McAdams, D.A., “Universal Family Design Valuation in an Uncertain Market Environment,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Montreal, Quebec, Canada, August 15-18, 2010.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Krupczak J.J., Simpson, T.W., Bertsch, V., Disney, K., Garmire, E., and Moon, S.K., “An Infrastructure to Facilitate the Creation of Courses on Technology and Engineering for Non-Engineers,” Proceedings of the American Society for Engineering Education 2010 Annual Conference, Louisville, KY, June 20-23, 2010.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “A Service based Platform Design Method for Customized Products,” CIRP Industrial Product-Service Systems Conference, Linköping, Sweden, April 14-15, pp. 3-10, 2010 (Keynote).
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K. and McAdams, D.A., “A Design Method for Developing a Universal Product Family in a Dynamic Market Environment,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, San Diego, CA, August 30 – September 2, 2009.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Shu, J., Simpson, T.W., and Kumara, S.R.T., “A Strategic Platform Design Method for Developing Customized Families of Services,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, San Diego, CA, August 30 – September 2, 2009.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Kostovich, V., McAdams, D.A., and Moon, S.K., “Synthesis of User Activity and Product Function to Develop a Universal Design Method,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, San Diego, CA, August 30 – September 2, 2009.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K. and McAdams, D.A., “Universal Product Platform and Family Design for Uncertain Market,” International Conference on Engineering Design, Stanford, CA, August 24-27, 2009.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “Strategic Module-based Platform Design Method for Developing Customized Products in Dynamic and Uncertain Market Environments,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, New York, NY, August 3-6, 2008.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “Knowledge Discovery to Support Service Family Design Using Ontology and Data Mining,” INFORMS Workshop on Artificial Intelligence and Data Mining, Seattle, WA, Nov. 3, 2007.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “Market-based Strategic Platform Design for a Product Family Using a Bayesian Game,” World Conference on Mass Customization & Personalization, MIT Cambridge/Boston, MA, October 7-10, Paper No. 136, 2007.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Chang, X., Terpenny, J., Simpson, T.W., and Kumara, S.R.T., “Toward a Knowledge Support System for Product Family Design,” World Conference on Mass Customization & Personalization, MIT Cambridge/Boston, MA, October 7-10, Paper No. 98, 2007.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “A Process Model and Data Mining to Support Designing Families of Services,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Las Vegas, NV, September 4-7, ASME, Paper No. DETC2007/DAC-34687, 2007.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Alizon, F., Moon, S.K., Shooter, S.B., and Simpson, T.W., “Three Dimensional Design Structure Matrix - DSM3D,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Las Vegas, NV, September 4-7, ASME, Paper No. DETC2007/DAC-34510, 2007.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Sim, J., Shu, J., and Simpson, T.W., “Strategic Module Sharing for Customized Service Family Design Using a Bayesian Game,” IEEE/INFORMS International Conference on Service Operations and Logistics, and Informatics, Philadelphia, PA, August 27-29, pp. 269-274, 2007.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “An Agent-based Recommender System for Customized Families of Products and Services,” Industrial Engineering Research Conference, Nashville, TN, May 19-23, 2007.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “Knowledge Discovery to Support Product Family Design,” INFORMS Workshop on Artificial Intelligence and Data Mining, Pittsburgh, PA, Nov. 4, 2006.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Kumara, S.R.T., and Simpson, T.W., “A Multi-Agent System for Modular Platform Design in a Dynamic Electronic Market Environment,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Philadelphia, PA, September 10-13, ASME, Paper No. DETC2006/CIE-99286, 2006.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Kumara, S.R.T., and Simpson, T.W., “Data Mining and Fuzzy Clustering to Support Product Family Design,” ASME Design Engineering Technical Conferences - Design Automation Conference, Philadelphia, PA, September 10-13, ASME, Paper No. DETC2006/DAC-99287, 2006.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Kumara, S.R.T., and Simpson, T.W., “Knowledge representation for product design Using Techspecs Concept Ontology,” The IEEE International Conference on Information Reuse and Integration, Las Vegas, NV, Aug. 15-17, pp. 241-246, 2005.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Moon, S.K., Maeng, K.S., and Kim, Y.J., “Application of Neural Networks in Development of Vehicle Durability Testing Method,” 30th International Symposium on Automotive Technology and Automation (ISATA), Florence, Italy, June 16-19, Paper No. 97VR041, 1997.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
+
+1. - Lee, Y.H. and Moon, S.K., “An Efficient Algorithm for Part Recognition in Manufacturing Automation,” Proceedings of the 9th Asia Quality Management Symposium, Seoul, Korea, Sept. 28-29, pp. 323-331, 1995.
+
+    게시 페이지: <https://personal.ntu.edu.sg/skmoon/publication.html>
 
 ## Nanyang Technological University — Cai Yiyu
 
@@ -140944,7 +148716,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -140956,7 +148728,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 22건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -141054,7 +148826,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141066,7 +148838,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141076,19 +148848,107 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
 ## Nanyang Technological University — Ng Yin Kwee, Eddie
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 22건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
-출처: <https://journals.sagepub.com/page/tct/collections/call-for-papers/biomedical-advances-in-cancer-detection-diagnosis-treatment>
+출처: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Bibliometrics Articles (Journal) Tan JH, Ng YK, Rajendra Udyavara Acharya, Chee C. (2009). Infrared Thermography on Ocular Surface Temperature: A Review. Infrared Physics and Technology, 52(4), 97-108.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Ng Y.K. (2009). A Review of Thermography as Promising Non-invasive Detection Modality for Breast Tumour. International Journal of Thermal Sciences, 48(5), 849-855.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Ng Y.K., Rajendra Acharya U. (2009). A Review of Remote-sensing Infrared Thermography for Indoor Mass Blind Fever Screening in Containing an Epidemic. IEEE Engineering in Medicine and Biology Magazine, 28(1), 76-83.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Soh and Ng et al, (2020). Automated diagnostic tool for hypertension using convolutional neural network, Computers in Biology and Medicine, Vol. 126, pp. 103999 (7 pages), https://doi.org/10.1016/j.compbiomed.2020.103999
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Saxena and Ng et al, (2020). Relation between neck skin temperature measurement and carotid artery stenosis: in-vitro and in-vivo evaluation, ASME Journal of Biomechanical Engineering. Vol. 142, pp. 114501-1, 8 pages. https://doi.org/10.1115/1.4048423
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Mahnaz and EYK Ng, (2020). Survey of Numerical Bioheat Transfer Modelling for Accurate Skin Surface Measurements. Thermal Science and Engineering Progress Journal, 20, 100681 (10pages), https://doi.org/10.1016/j.tsep.2020.100681
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Saxena and Ng et al, (2020). Cardiac Thermal Pulse at the Neck Skin Surface as a Measure of Stenosis in the Carotid Artery. Thermal Science and Engineering Progress Journal, 100603 (8 pages), https://doi.org/10.1016/j.tsep.2020.100603
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Tee, Ng, Xu (2020). Analysis of transport methodologies for pollutant dispersion modelling in urban environments, Journal of Environmental Chemical Engineering, 8(4): pp. 103937. https://doi.org/10.1016/j.jece.2020.103937
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Saxena, Ng, Lim (2020). Active Dynamic Thermography to Predict the Presence of Stenosis in the Carotid Artery. Computers in Biology and Medicine, Vol. 120, pp. 103718 (9 pages), https://doi.org/10.1016/j.compbiomed.2020.103718
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Kabir and Ng, et al (2020). New analytical wake models based on artificial intelligence and rivalling the benchmark full-rotor CFD predictions under both uniform and ABL inflows, Energy, 193, 116761 (28 pages) https://doi.org/10.1016/j.energy.2019.116761
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Saxena and Ng, (2020). Skin Temperature Maps as a Measure of Carotid Artery Stenosis, Computers in Biology and Medicine, Vol. 116, pp. 103548 (13 pages) https://doi.org/10.1016/j.compbiomed.2019.103548
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Subbhuraam and Ng, et al (2020). Cyrcadia Breast Monitor: A Wearable Breast Health Monitoring Device – A Technology Review, Computer Methods and Programs in Biomedicine, Vol. 197, pp. 105758 (12 pages), https://doi.org/10.1016/j.cmpb.2020.105758
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Jahmunah and Ng, et al (2021), Automated detection of coronary artery disease, myocardial infarction and congestive heart failure using GaborCNN model with ECG signals, Computers in Biology and Medicine, Vol. 134, pp. 104457 (11 pages), https://doi.org/10.1016/j.compbiomed.2021.104457.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Saxena and Ng et al, (2021). A Method to Produce High Contrast Vein Visualization in Active Dynamic Thermography (ADT)", Computers in Biology and Medicine, Vol. 132, pp. 104309 (9 pages), https://doi.org/10.1016/j.compbiomed.2021.104309
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. E.Y.K. Ng, E Pang, (2021), Thermal Elevation on Midriff Skin Surface as a Potential Diagnostic Feature for Abdominal Aortic Aneurysm using Infrared Thermography, International Journal of Thermal Sciences, Vol. 163, pp. 107305 (11 pages) (2021), (IF =3.744, Q1, Rank: 9/130 in ENGINEERING, MECHANICAL) https://doi.org/10.1016/j.ijthermalsci.2021.107305
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Surya S, ...EYK Ng, et al. (2021), Aerodynamic Comparison of Slotted and Non-Slotted Diffuser Casings for Diffuser Augmented Wind Turbines, Renewable and Sustainable Energy Reviews, Q1, (IF: 14.982, Q1, Rank: 1/44 in Green & sustainable science & technology) Vol. 161, June 2022, pp. 112316 (17 pages), https://doi.org/10.1016/j.rser.2022.112316
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. O Mukhmetov, ... EYK Ng, Physics-informed Neural Network for the Prediction of Temperature Distributions in Cancerous Breasts as a Portable AI-based Diagnostic Tool, Computer Methods and Programs in Biomedicine, Vol. 242, pp. 107834 (24 pages), (2023), (IF: 6.521, Q1, Rank: 12/109 in Computer Science, Theory & Methods), https://doi.org/10.1016/j.cmpb.2023.107834.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Y Zhang, E.Y.K. Ng, M Shivansh, The Biffis canal hydrodynamic system performance study of drag-dominant tidal turbine using moment balancing method, Sustainability, Vol. 15(19), (2023), pp. 14187, (24 pages) (IF=3.194, Q2, Rank: 35/67 in Mathematical & Computational Biology), https://doi.org/10.3390/su151914187
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. J. Radhakrishnan, ...EYK Ng, Design Optimization of a Contra-Rotating VAWT: A Comprehensive Study using Taguchi Method and CFD, Energy Conversion and Management, Vol. 298 pp. 117766 (13 pages), (2023), (IF=10.40 Q1, Rank: 3/137 in Mechanics). https://doi.org/10.1016/j.enconman.2023.117766
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Gajendran, M.K.... Ng, E.Y.K., Machine Learning-Based Approach to Wind Turbine Wake Prediction under Yawed Conditions. J. Mar. Sci. Eng. (2023), 11(11), pp. 2111 (21 pages). Special Issue "Advances in Offshore Wind", https://doi.org/10.3390/jmse11112111 (IF: 2.90, Q1, Rank: 4/16 in Engineering, Marine).
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. ME Koh, MKF Wong, E.Y.K. Ng, 2003, Aqua3DNet: Real-time 3D Pose estimation of livestock in aquaculture by monocular machine vision, Aquacultural Engineering, V.103(3), 102367 (14-p.), https://doi.org/10.1016/j.aquaeng.2023.102367.
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
+
+1. Oei, C.W.; Ng, E.Y.K.... Explainable Risk Prediction of Post-Stroke Adverse Mental Outcomes Using Machine Learning Techniques in a Population of 1780 Patients. Sensors, V. 23, 2023, pp. 7946 (12 pages), https://doi.org/10.3390/s23187946
+
+    게시 페이지: <https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications>
 
 ## Nanyang Technological University — Ooi Kim Tiow
 
  · 논문·원고 18건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -141170,7 +149030,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 2건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -141188,7 +149048,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 20건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -141278,7 +149138,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141288,13 +149148,15 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
 ## Nanyang Technological University — Punit Kumar
 
- · 논문·원고 12건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 24건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
+
+출처: <https://medhalab.github.io/publications>
 
 1. P. Kumar, D. Cook, W. Wang, P. Borges, A. M. Minor, M. Asta, R. O. Ritchie*, “Fracture behavior of high-entropy alloys: Resistance to fracture from strain hardening and softening,” Matter, 8-4 (2025), DOI: https://doi.org/10.1016/j.matt.2025.102042.
 
@@ -141344,6 +149206,54 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
     게시 페이지: <https://dr.ntu.edu.sg/entities/person/Punit-Kumar/selectedpublications>
 
+1. Fracture behavior of high-entropy alloys: Resistance to fracture from strain hardening and softening. Matter 8-4 (2025).
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
+1. Kink bands promote exceptional fracture resistance in a NbTaTiHf refractory medium-entropy alloy. Science 384, 178–184 (2024).
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
+1. A strong fracture-resistant high-entropy alloy with nano-bridged honeycomb microstructure: A critical role of 3D printing in promoting strength without compromising toughness. Nature Communications 15(1) (2024), 841.
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
+1. On the strength and fracture toughness of an additive manufactured CrCoNi medium-entropy alloy. Acta Materialia 258 (2023), 119249.
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
+1. Degradation of the mechanical properties of NbMoTaW refractory high-entropy alloy in tension. Acta Materialia 279, 120297 (2024).
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
+1. Compressive vs. tensile yield and fracture toughness behavior of a body-centered cubic refractory high-entropy superalloy Al0.5Nb1.25Ta1.25TiZr at temperatures from ambient to 1200°C. Acta Materialia 245 (2023), 118620.
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
+1. Exceptional cryogenic-to-ambient impact toughness of a low carbon micro-alloyed steel with a multi-heterogeneous structure. Acta Materialia 274, 120019 (2024).
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
+1. Fracture Behavior of Laser Powder Bed Fusion Fabricated Ti41Nb via In-situ Alloying. Acta Materialia 225 (2021), 117593.
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
+1. Fracture and fatigue in additively manufactured metals. Acta Materialia 219 (2021), 117240.
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
+1. Fatigue strength of additively manufactured 316L austenitic stainless steel. Acta Materialia 199 (2020), 225–239.
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
+1. Microstructural optimization through heat treatment for enhancing the fracture toughness and fatigue crack growth resistance of selective laser melted Ti–6Al–4V alloy. Acta Materialia 169 (2019), 45–59.
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
+1. Micro-and meso-structures and their influence on mechanical properties of selectively laser melted Ti-6Al-4V. Acta Materialia 154 (2018), 246–260.
+
+    게시 페이지: <https://medhalab.github.io/publications/>
+
 ## Nanyang Technological University — Chai Gin Boay
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: blocked
@@ -141356,7 +149266,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141368,7 +149278,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141380,7 +149290,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141394,7 +149304,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141406,7 +149316,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141418,7 +149328,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141430,7 +149340,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141442,7 +149352,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -141488,7 +149398,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141500,7 +149410,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 4건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -141526,7 +149436,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141542,7 +149452,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 5건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -141572,7 +149482,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141584,7 +149494,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141596,7 +149506,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141610,7 +149520,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141626,7 +149536,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141638,7 +149548,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141650,7 +149560,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141662,7 +149572,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141674,7 +149584,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141694,7 +149604,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141706,7 +149616,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141718,7 +149628,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141730,7 +149640,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 17건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -141808,7 +149718,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141820,7 +149730,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141832,7 +149742,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141844,7 +149754,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141856,7 +149766,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141868,7 +149778,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -141890,7 +149800,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -142543,7 +150453,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -142553,7 +150463,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -142599,7 +150509,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -142687,7 +150597,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 10건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -142737,7 +150647,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -142747,7 +150657,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -142757,7 +150667,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 32건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -142895,7 +150805,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -142905,7 +150815,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 112건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -143508,7 +151418,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -143518,7 +151428,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -143528,7 +151438,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -143538,7 +151448,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 24건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -143644,7 +151554,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -143654,7 +151564,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -143664,7 +151574,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -143674,7 +151584,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 65건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -145893,7 +153803,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 51건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -146107,7 +154017,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -146117,7 +154027,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -146137,7 +154047,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 25건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -146247,7 +154157,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 10건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -146305,7 +154215,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -146315,7 +154225,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -146325,7 +154235,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 94건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -147207,7 +155117,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 16건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -147279,23 +155189,31 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
 ## National University of Singapore — WANG Hao, Victor
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 3건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
-
-출처: <http://blog.nus.edu.sg/mpewhao/>
-
-출처: <https://blog.nus.edu.sg/mpewhao/publications/>
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://blog.nus.edu.sg/mpewhao/category/new-publications/>
+
+1. Effects Of Differential Plasticity On Thermally Enhanced Machining Of Calcium Fluoride J. Zhan, Y.J. Lee, H. Wang Ceramics International 51 (2025) 12587–12599
+
+    게시 페이지: <https://blog.nus.edu.sg/mpewhao/category/new-publications/>
+
+1. Graphene Nanosheets Networking: A Novel Material Design Strategy To Enhance Ultra-Precision Machining Of Titanium Alloys And Composites Y. Guo, Q. Yan, D. Ma, D. Yan, H. Wang Journal of Materials Processing Technology 339 (2025) 118816
+
+    게시 페이지: <https://blog.nus.edu.sg/mpewhao/category/new-publications/>
+
+1. Dynamic Response In High Strain Rate Deformation Of Stainless Steel 316L Fabricated By Selective Laser Melting Y. Yang, Z. Zheng, Y. Bai, W.F. Lu, H. Wang Materials Science and Engineering: A 929 (2025) 148105
+
+    게시 페이지: <https://blog.nus.edu.sg/mpewhao/category/new-publications/>
 
 ## National University of Singapore — YAN Wentao
 
  · 논문·원고 136건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -147851,7 +155769,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -148217,7 +156135,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 142건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -148795,7 +156713,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -149075,7 +156993,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -149087,7 +157005,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -151765,7 +159683,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -151779,7 +159697,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -151822,7 +159740,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -151933,7 +159851,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -152331,7 +160249,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -152369,7 +160287,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -152842,7 +160760,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -152852,7 +160770,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 20건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -152942,7 +160860,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 266건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -154278,7 +162196,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -154288,7 +162206,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -154298,7 +162216,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -160145,7 +168063,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -160740,7 +168658,7 @@ Artificial Intelligence in Medicine Group · 논문·원고 17건 · 기타 성�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -161812,7 +169730,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -162472,7 +170390,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -162850,7 +170768,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -162889,17 +170807,53 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
 ## University of Oxford — David Howey
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 10건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
-
-출처: <https://eng.ox.ac.uk/people/david-howey>
-
-출처: <https://howey.eng.ox.ac.uk/>
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Taeho Jung - Application of concentrated solution theory and core potential to ion exchange media, 2023.
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Recent article highlights Sulzer, V., Mohtat, P., et al., “The challenge and opportunity of battery lifetime prediction from field data”, Joule, 2021. Publisher copy - please contact us if you want the pdf sent to you. Author accepted manuscript.
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. S. Greenbank and D.A. Howey, “Automated feature extraction and selection for data-driven models of rapid battery capacity fade and end of life”. IEEE Transactions on Industrial Informatics, in press, 2021. Publisher copy or Pre-print
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Reniers, J.M., Mulder, G. and Howey, D. A., “Unlocking extra value from grid batteries using advanced models”, Journal of Power Sources, 487:229355, 2021. Publisher copy or Pre-print
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Aitio, A. and Howey, D.A. “Combining non-parametric and parametric models for stable and computationally efficient battery health estimation”, Proceedings of the ASME 2020 Dynamic Systems and Control Conference. Publisher copy or Pre-print
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Raj, T., Wang, A.A., Monroe, C.W., and Howey, D.A., “Investigation of Path‐Dependent Degradation in Lithium‐Ion Batteries”, Batteries and Supercaps, 3(12), 1377-1385, 2020. Open access publisher copy
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Aitio, A., Marquis, S.G., Ascencio, P., and Howey, D.A., “Bayesian parameter estimation applied to the Li-ion battery single particle model with electrolyte dynamics”, IFAC-PapersOnLine, 53(2), 12497-12504, 2020. Publisher copy or Pre-print
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Richardson, R.R., Osborne, M.A., and Howey D.A. “Battery health prediction under generalized conditions using a Gaussian process transition model”, Journal of Energy Storage vol. 23, 2019. Open access publisher copy
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Reniers, J.M., Mulder, G., and Howey, D.A. “Review and performance comparison of mechanical-chemical degradation models for lithium-ion batteries”. Journal of The Electrochemical Society, vol. 166, num. 14, pp. A3189-A3200, 2019. Open access publisher copy
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Bizeray, A.M., Kim, J-H.,Duncan, S.R., and Howey D.A., “Identifiability and Parameter Estimation of the Single Particle Lithium-Ion Battery Model”, IEEE Transactions on Control Systems Technology, vol. 27, num. 5, 2019. Publisher copy or Pre-print
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
 
 ## University of Oxford — Wes Armour
 
@@ -163177,7 +171131,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 38건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -163684,7 +171638,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -163732,7 +171686,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -164129,7 +172083,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -164204,7 +172158,7 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -164328,7 +172282,7 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -164371,7 +172325,7 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -164497,7 +172451,7 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -168497,17 +176451,19 @@ Brain-Robot-Artificial Intelligence Intergrated System Lab · 논문·원고 15�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
 출처: <https://photonics.postech.ac.kr/publications>
 
+출처: <https://photonics.postech.ac.kr/publications-others>
+
 ## POSTECH — 박성민
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -168517,7 +176473,7 @@ Brain-Robot-Artificial Intelligence Intergrated System Lab · 논문·원고 15�
 
 나노 입자 및 소포 연구실 · 논문·원고 44건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -168703,7 +176659,7 @@ Brain-Robot-Artificial Intelligence Intergrated System Lab · 논문·원고 15�
 
 에너지 및 지속가능성 지향 나노과학연구실 · 논문·원고 8건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -168745,7 +176701,7 @@ Brain-Robot-Artificial Intelligence Intergrated System Lab · 논문·원고 15�
 
 데이터 기반 고체역학 연구실 (Data-driven Solid mechanics Laboratory) · 논문·원고 14건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -168841,7 +176797,7 @@ Brain-Robot-Artificial Intelligence Intergrated System Lab · 논문·원고 15�
 
 에너지-나노 통합 설계 및 생산 연구실 · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -168851,7 +176807,7 @@ Brain-Robot-Artificial Intelligence Intergrated System Lab · 논문·원고 15�
 
 유동 물리 및 공학 연구실 · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -169521,7 +177477,7 @@ Extreme Mechanics 연구실 · 논문·원고 56건 · 기타 성과 0건 · 상
 
 나노 및 바이오멤스 연구실 · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -172818,7 +180774,7 @@ Multifunctional Materials & Micro/nanosystems Laboratory · 논문·원고 85건
 
 초소형기전공학연구실 · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -206614,7 +214570,7 @@ Dynamic Design Lab (DDL) · 논문·원고 20건 · 기타 성과 0건 · 상태
 
 Eaton Lab · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -208428,7 +216384,7 @@ Feig Lab · 논문·원고 35건 · 기타 성과 0건 · 상태: partial
 
 Flow Physics and Aeroacoustics Laboratory (FPAL) · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -208759,7 +216715,7 @@ Hanson Research Group · 논문·원고 20건 · 기타 성과 0건 · 상태: p
 
 Heterogeneous Combustion Lab · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -208777,7 +216733,7 @@ Heterogeneous Combustion Lab · 논문·원고 0건 · 기타 성과 0건 · 상
 
 High Performance Computing Center (HPCC) · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -209089,7 +217045,7 @@ Assistive Robotics and Manipulation Laboratory (ARM) · 논문·원고 37건 · 
 
 Life Design Lab · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -210678,7 +218634,7 @@ Living Matter Lab · 논문·원고 313건 · 기타 성과 0건 · 상태: part
 
 Magic Laboratory · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -213819,7 +221775,7 @@ Micro Structures and Sensors Lab · 논문·원고 284건 · 기타 성과 0건 
 
 Microfluidics Laboratory · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -213829,7 +221785,7 @@ Microfluidics Laboratory · 논문·원고 0건 · 기타 성과 0건 · 상태:
 
 NanoEnergy Lab · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -216904,7 +224860,7 @@ SHAPE Lab · 논문·원고 95건 · 기타 성과 0건 · 상태: partial
 
 Smart Product Design Laboratory (SPDL) · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -216914,7 +224870,7 @@ Smart Product Design Laboratory (SPDL) · 논문·원고 0건 · 기타 성과 0
 
 Soft Tissue Biomechanics Laboratory (STBL) · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -224236,7 +232192,7 @@ Collaborative Haptics and Robotics in Medicine Lab (CHARM Lab) · 논문·원고
 
 Darve Research Group · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 

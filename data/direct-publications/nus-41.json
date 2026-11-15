@@ -5,19 +5,32 @@
   "lab_name": null,
   "lab_url": "http://blog.nus.edu.sg/mpewhao/",
   "publication_urls": [
-    "http://blog.nus.edu.sg/mpewhao/",
-    "https://blog.nus.edu.sg/mpewhao/publications/",
     "https://blog.nus.edu.sg/mpewhao/category/new-publications/"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": [
-    "Official page heading: Hybrid Manufacturing & Ultraprecision Machining / Menu / Effects Of Differential Plasticity On Thermally Enhanced Machining Of Calcium Fluoride / Graphene Nanosheets Networking: A Novel Material Design Strategy To Enhance Ultra-Precision Machining Of Titanium Alloys And Composites / Dynamic Response In High Strain Rate Deformation Of Stainless Steel 316L Fabricated By Selective Laser Melting / Post navigation / PREVIOUS POSTS",
-    "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
-    "Publication page visible text captured; structured extraction pending."
-  ],
-  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:16:05.726725+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Effects Of Differential Plasticity On Thermally Enhanced Machining Of Calcium Fluoride",
+      "year": 2025,
+      "citation_raw": "Effects Of Differential Plasticity On Thermally Enhanced Machining Of Calcium Fluoride J. Zhan, Y.J. Lee, H. Wang Ceramics International 51 (2025) 12587–12599",
+      "source_url": "https://blog.nus.edu.sg/mpewhao/category/new-publications/"
+    },
+    {
+      "title": "Graphene Nanosheets Networking: A Novel Material Design Strategy To Enhance Ultra-Precision Machining Of Titanium Alloys And Composites",
+      "year": 2025,
+      "citation_raw": "Graphene Nanosheets Networking: A Novel Material Design Strategy To Enhance Ultra-Precision Machining Of Titanium Alloys And Composites Y. Guo, Q. Yan, D. Ma, D. Yan, H. Wang Journal of Materials Processing Technology 339 (2025) 118816",
+      "source_url": "https://blog.nus.edu.sg/mpewhao/category/new-publications/"
+    },
+    {
+      "title": "Dynamic Response In High Strain Rate Deformation Of Stainless Steel 316L Fabricated By Selective Laser Melting",
+      "year": 2025,
+      "citation_raw": "Dynamic Response In High Strain Rate Deformation Of Stainless Steel 316L Fabricated By Selective Laser Melting Y. Yang, Z. Zheng, Y. Bai, W.F. Lu, H. Wang Materials Science and Engineering: A 929 (2025) 148105",
+      "source_url": "https://blog.nus.edu.sg/mpewhao/category/new-publications/"
+    }
+  ]
 }

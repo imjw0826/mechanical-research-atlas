@@ -5,7 +5,10 @@
   "lab_name": null,
   "lab_url": "http://zhao.mit.edu/",
   "publication_urls": [
-    "http://zhao.mit.edu/all-papers/"
+    "http://zhao.mit.edu/all-papers/",
+    "http://zhao.mit.edu/reviews/",
+    "http://zhao.mit.edu/representative-papers/",
+    "http://zhao.mit.edu/selected/"
   ],
   "profile_url": "https://meche.mit.edu/people/faculty/zhaox@mit.edu",
   "discovered_links": [
@@ -58,7 +61,7 @@
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": "공식 연구실 논문 페이지 5개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "dropped_low_confidence": [
     {
       "title": "Soft materials and systems: tough adhesive hydrogels, hard-magnetic soft materials, wearable ultrasound, bioelectronics, soft medical robotics",
@@ -68,8 +71,8 @@
       "year_type": "page_section"
     }
   ],
-  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
-  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:16:05.726725+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
   "papers": [
     {
@@ -1211,6 +1214,594 @@
       "year": 2003,
       "citation_raw": "1. Yugong Wu*, Xuanhe Zhao, Fei Li, Zhigang Fan, Evaluation of mixing rules for dielectric constants of composite dielectrics by MC-FEM calculation on 3D cubic lattice, Journal of Electroceramics 11, 227 (2003)",
       "source_url": "http://zhao.mit.edu/all-papers/"
+    },
+    {
+      "title": "Hydrogel interfaces for merging humans and machines",
+      "year": 2022,
+      "citation_raw": "160 Hydrogel interfaces for merging humans and machines Nature Review Materials 2022 Hydrogels",
+      "source_url": "http://zhao.mit.edu/reviews/"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "157 Engineered Living Hydrogels Advanced Materials 2022 Hydrogels; Living Materials",
+      "source_url": "http://zhao.mit.edu/reviews/"
+    },
+    {
+      "title": "Magnetic Soft Materials and Robots [LaTeX version]",
+      "year": 2022,
+      "citation_raw": "153 Magnetic Soft Materials and Robots [LaTeX version] Chemical Reviews 2022 Soft Robots; Active Materials",
+      "source_url": "http://zhao.mit.edu/reviews/"
+    },
+    {
+      "title": "Shaping the future of robotics through materials innovation",
+      "year": 2021,
+      "citation_raw": "152 Shaping the future of robotics through materials innovation Nature Materials 2021 Soft Robots",
+      "source_url": "http://zhao.mit.edu/reviews/"
+    },
+    {
+      "title": "Soft Materials by Design: Unconventional Polymer Networks Give Extreme Properties",
+      "year": 2021,
+      "citation_raw": "143 Soft Materials by Design: Unconventional Polymer Networks Give Extreme Properties Chemical Reviews 2021 Hydrogels",
+      "source_url": "http://zhao.mit.edu/reviews/"
+    },
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "125 Hydrogel machines Materials Today 2020 Hydrogels",
+      "source_url": "http://zhao.mit.edu/reviews/"
+    },
+    {
+      "title": "Soft microbots controlled by nanomagnets",
+      "year": 2019,
+      "citation_raw": "122 Soft microbots controlled by nanomagnets Nature 2019 Medical Robots",
+      "source_url": "http://zhao.mit.edu/reviews/"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "116 Hydrogel Bioelectronics Chemical Society Reviews 2019 Bioelectronics; Hydrogels",
+      "source_url": "http://zhao.mit.edu/reviews/"
+    },
+    {
+      "title": "Designing toughness and strength for soft materials",
+      "year": 2017,
+      "citation_raw": "100 Designing toughness and strength for soft materials Proceedings of the National Academy of Sciences 2017 Hydrogels",
+      "source_url": "http://zhao.mit.edu/reviews/"
+    },
+    {
+      "title": "Harnessing large deformation and instabilities of soft dielectrics: Theory, experiment, and application",
+      "year": 2014,
+      "citation_raw": "62 Harnessing large deformation and instabilities of soft dielectrics: Theory, experiment, and application Applied Physics Reviews 2014 Active Materials",
+      "source_url": "http://zhao.mit.edu/reviews/"
+    },
+    {
+      "title": "Air-permeable hydrogels through viscoelastic phase separation of aerogels",
+      "year": 2026,
+      "citation_raw": "196 Air-permeable hydrogels through viscoelastic phase separation of aerogels Nature 2026 Hydrogels",
+      "source_url": "http://zhao.mit.edu/representative-papers/"
+    },
+    {
+      "title": "Hand tracking using wearable wrist imaging",
+      "year": 2026,
+      "citation_raw": "193 Hand tracking using wearable wrist imaging Nature Electronics 2026 Ultrasound",
+      "source_url": "http://zhao.mit.edu/representative-papers/"
+    },
+    {
+      "title": "Scaling Law for Intrinsic Fracture Energy of Diverse Stretchable Networks",
+      "year": 2025,
+      "citation_raw": "186 Scaling Law for Intrinsic Fracture Energy of Diverse Stretchable Networks Physics Review X 2025 Polymer Fracture",
+      "source_url": "http://zhao.mit.edu/representative-papers/"
+    },
+    {
+      "title": "Adhesive anti-fibrotic interfaces on diverse organs",
+      "year": 2024,
+      "citation_raw": "176 Adhesive anti-fibrotic interfaces on diverse organs Nature 2024 Bioadhesives",
+      "source_url": "http://zhao.mit.edu/representative-papers/"
+    },
+    {
+      "title": "Nonlocal Intrinsic Fracture Energy of Polymerlike Networks",
+      "year": 2023,
+      "citation_raw": "172 Nonlocal Intrinsic Fracture Energy of Polymerlike Networks Phys. Rev. Lett. 2023 Soft Materials",
+      "source_url": "http://zhao.mit.edu/representative-papers/"
+    },
+    {
+      "title": "Bioadhesive ultrasound for long-term continuous imaging of diverse organs",
+      "year": 2022,
+      "citation_raw": "162 Bioadhesive ultrasound for long-term continuous imaging of diverse organs Science 2022 Bioelectronics; Medical Imaging",
+      "source_url": "http://zhao.mit.edu/representative-papers/"
+    },
+    {
+      "title": "Telerobotic neurovascular interventions with magnetic manipulation",
+      "year": 2022,
+      "citation_raw": "158 Telerobotic neurovascular interventions with magnetic manipulation Science Robotics 2022 Medical Robots",
+      "source_url": "http://zhao.mit.edu/representative-papers/"
+    },
+    {
+      "title": "Dry Double-sided Tape for Adhesion of Wet Tissues and Devices",
+      "year": 2019,
+      "citation_raw": "115 Dry Double-sided Tape for Adhesion of Wet Tissues and Devices Nature 2019 Bioadhesives",
+      "source_url": "http://zhao.mit.edu/representative-papers/"
+    },
+    {
+      "title": "Printing ferromagnetic domains for untethered fast-transforming soft materials",
+      "year": 2018,
+      "citation_raw": "103 Printing ferromagnetic domains for untethered fast-transforming soft materials Nature 2018 Medical Robots; 3D Printing",
+      "source_url": "http://zhao.mit.edu/representative-papers/"
+    },
+    {
+      "title": "Tough Bonding of Hydrogels to Diverse Nonporous Surfaces",
+      "year": 2016,
+      "citation_raw": "76 Tough Bonding of Hydrogels to Diverse Nonporous Surfaces Nature Materials 2016 Bioadhesives; Hydrogels",
+      "source_url": "http://zhao.mit.edu/representative-papers/"
+    },
+    {
+      "title": "Highly stretchable and tough hydrogels",
+      "year": 2012,
+      "citation_raw": "42 Highly stretchable and tough hydrogels Nature 2012 Hydrogels",
+      "source_url": "http://zhao.mit.edu/representative-papers/"
+    },
+    {
+      "title": "Long-term stability of moisture-capturing hydrogels by preventing metal-mediated degradation",
+      "year": 2026,
+      "citation_raw": "194 Long-term stability of moisture-capturing hydrogels by preventing metal-mediated degradation Nature Communications 2026 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Hand racking using wearable wrist imaging",
+      "year": 2026,
+      "citation_raw": "193 Hand racking using wearable wrist imaging Nature Electronics 2026 Ultrasound",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Adhesive nonfibrotic bioelectronic interfaces on diverse peripheral nerves for long-term functional neuromodulation",
+      "year": 2025,
+      "citation_raw": "188 Adhesive nonfibrotic bioelectronic interfaces on diverse peripheral nerves for long-term functional neuromodulation Science Advances 2025 Bioadhesives",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Fracture of polymer-like networks with hybrid bond strengths",
+      "year": 2025,
+      "citation_raw": "185 Fracture of polymer-like networks with hybrid bond strengths Journal of the Mechanics and Physics of Solids 2025 Polymer Fracture",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Local volume changes in deformed elastomers with mobile chains",
+      "year": 2024,
+      "citation_raw": "184 Local volume changes in deformed elastomers with mobile chains Proceedings of the National Academy of Sciences 2024 Soft Materials",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Reversible two-way tuning of thermal conductivity in an end-linked star-shaped thermoset",
+      "year": 2024,
+      "citation_raw": "183 Reversible two-way tuning of thermal conductivity in an end-linked star-shaped thermoset Nature Communications 2024 Soft Materials",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "See how your body works in real time—wearable ultrasound is on its way",
+      "year": 2024,
+      "citation_raw": "182 See how your body works in real time—wearable ultrasound is on its way Nature 2024 Ultrasound",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "A bioadhesive pacing lead for atraumatic cardiac monitoring and stimulation in rodent and porcine models",
+      "year": 2024,
+      "citation_raw": "181 A bioadhesive pacing lead for atraumatic cardiac monitoring and stimulation in rodent and porcine models Science Translational Medicine 2024 Bioadhesives",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "A Loop-Opening Model for the Intrinsic Fracture Energy of PolymerNetworks",
+      "year": 2024,
+      "citation_raw": "180 A Loop-Opening Model for the Intrinsic Fracture Energy of PolymerNetworks Macromolecules 2024 Polymer Fracture",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Bioadhesive interface for marine sensors on diverse soft fragile species",
+      "year": 2024,
+      "citation_raw": "177 Bioadhesive interface for marine sensors on diverse soft fragile species Nature Communications 2024 Bioadhesives",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Wearable bioadhesive ultrasound shear wave elastography",
+      "year": 2024,
+      "citation_raw": "175 Wearable bioadhesive ultrasound shear wave elastography Science Advances 2024 Bioelectronics; Soft Materials",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": null,
+      "year": 2024,
+      "citation_raw": "Nature Communications 2024 Soft Materials",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "An elastomer with ultrahigh strain-induced crystallization",
+      "year": 2023,
+      "citation_raw": "173 An elastomer with ultrahigh strain-induced crystallization Science Advances 2023 Soft Materials",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Fatigue-resistant hydrogel optical fibers enable peripheral nerve optogenetics during locomotion",
+      "year": 2023,
+      "citation_raw": "170 Fatigue-resistant hydrogel optical fibers enable peripheral nerve optogenetics during locomotion Nature Methods 2023 Bioelectronics; Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "3D printable high-performance conducting polymer hydrogel for all-hydrogel bioelectronic interfaces",
+      "year": 2023,
+      "citation_raw": "165 3D printable high-performance conducting polymer hydrogel for all-hydrogel bioelectronic interfaces Nature Materials 2023 Bioelectronics; Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Microfluidic bioprinting of tough hydrogel-based vascular conduits for functional blood vessels",
+      "year": 2022,
+      "citation_raw": "164 Microfluidic bioprinting of tough hydrogel-based vascular conduits for functional blood vessels Science Advances 2022 Hydrogels; 3D Printing",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "An off-the-shelf bioadhesive patch for sutureless repair of gastrointestinal defects",
+      "year": 2022,
+      "citation_raw": "154 An off-the-shelf bioadhesive patch for sutureless repair of gastrointestinal defects Science Translational Medicine 2022 Bioadhesives",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "A soft neuroprosthetic hand providing simultaneous myoelectric control and tactile feedback",
+      "year": 2021,
+      "citation_raw": "151 A soft neuroprosthetic hand providing simultaneous myoelectric control and tactile feedback Nature Biomedical Engineering 2021 Medical Robots",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Rapid and coagulation-independent haemostatic sealing by a paste inspired by barnacle glue",
+      "year": 2021,
+      "citation_raw": "150 Rapid and coagulation-independent haemostatic sealing by a paste inspired by barnacle glue Nature Biomedical Engineering 2021 Bioadhesives",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Hydrogel-based biocontainment of bacteria for continuous sensing and computation",
+      "year": 2021,
+      "citation_raw": "141 Hydrogel-based biocontainment of bacteria for continuous sensing and computation Nature Chemical Biology 2021 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "A Multifunctional Origami Patch for Minimally Invasive Tissue Sealings",
+      "year": 2021,
+      "citation_raw": "140 A Multifunctional Origami Patch for Minimally Invasive Tissue Sealings Advanced Materials 2021 Bioadhesives",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Fracture of polymer networks with diverse topological defects",
+      "year": 2020,
+      "citation_raw": "139 Fracture of polymer networks with diverse topological defects Physical Review E 2020 Hydrogels; Polymer fracture",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Electrical bioadhesive interface for bioelectronics",
+      "year": 2020,
+      "citation_raw": "137 Electrical bioadhesive interface for bioelectronics Nature Materials 2020 Bioadhesives; Bioelectronics",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Instant tough bioadhesive with triggerable benign detachment",
+      "year": 2020,
+      "citation_raw": "133 Instant tough bioadhesive with triggerable benign detachment Proceedings of the National Academy of Sciences 2020 Bioadhesives",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Journal of the Mechanics and Physics of Solids",
+      "year": 2020,
+      "citation_raw": "132 Hard-magnetic elastica Journal of the Mechanics and Physics of Solids 2020 Medical Robots; Mechanics",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Designing complex architectured materials with generative adversarial networks",
+      "year": 2020,
+      "citation_raw": "130 Designing complex architectured materials with generative adversarial networks Science Advances 2020 Architectured Materials; Machine Learning",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "3D printing of conducting polymers",
+      "year": 2020,
+      "citation_raw": "129 3D printing of conducting polymers Nature Communications 2020 Bioelectronics; 3D Printing",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Strong adhesion of wet conducting polymers on diverse substrates",
+      "year": 2020,
+      "citation_raw": "128 Strong adhesion of wet conducting polymers on diverse substrates Science Advances 2020 Bioelectronics",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Fatigue-resistant adhesion of hydrogels",
+      "year": 2020,
+      "citation_raw": "127 Fatigue-resistant adhesion of hydrogels Nature Communications 2020 Bioadhesives; Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Hydration and swelling of dry polymers for wet adhesion",
+      "year": 2020,
+      "citation_raw": "123 Hydration and swelling of dry polymers for wet adhesion Journal of the Mechanics and Physics of Solids 2020 Bioadhesives",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Ferromagnetic soft continuum robots",
+      "year": 2019,
+      "citation_raw": "121 Ferromagnetic soft continuum robots Science Robotics 2019 Medical Robots",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "High stretchability, strength, and toughness of living cells enabled by hyperelastic vimentin intermediate filaments",
+      "year": 2019,
+      "citation_raw": "120 High stretchability, strength, and toughness of living cells enabled by hyperelastic vimentin intermediate filaments Proceedings of the National Academy of Sciences 2019 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "A path-following simulation-based study of elastic instabilities in nearly-incompressible confined cylinders under tension",
+      "year": 2019,
+      "citation_raw": "119 A path-following simulation-based study of elastic instabilities in nearly-incompressible confined cylinders under tension Journal of the Mechanics and Physics of Solids 2019 Instabilities",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Muscle-like fatigue-resistant hydrogels by mechanical training",
+      "year": 2019,
+      "citation_raw": "118 Muscle-like fatigue-resistant hydrogels by mechanical training Proceedings of the National Academy of Sciences 2019 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Hydrogel Skins",
+      "year": 2019,
+      "citation_raw": "117 Multifunctional “Hydrogel Skins” on Diverse Polymers with Arbitrary Shapes Advanced Materials 2019 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Journal of the Mechanics and Physics of Solids",
+      "year": 2019,
+      "citation_raw": "114 Mechanics of hard-magnetic soft materials Journal of the Mechanics and Physics of Solids 2019 Medical Robots; Mechanics",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "113 Anti-fatigue-fracture hydrogels Science Advances 2019 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "112 Pure PEDOT:PSS hydrogels Nature Communications 2019 Bioelectronics; Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": null,
+      "year": 2018,
+      "citation_raw": "111 Soft wall-climbing robot Science Robotics 2018 Dielectric Elastomers",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "110 Ingestible hydrogel device Nature Communications 2019 Bioelectronics; Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Controlled crack propagation for atomic precision handling of wafer-scale two-dimensional materials",
+      "year": 2018,
+      "citation_raw": "107 Controlled crack propagation for atomic precision handling of wafer-scale two-dimensional materials Science 2018 Thin Films",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Folding artificial mucosa with cell-laden hydrogels guided by mechanics models",
+      "year": 2018,
+      "citation_raw": "105 Folding artificial mucosa with cell-laden hydrogels guided by mechanics models Proceedings of the National Academy of Sciences 2018 Hydrogels; Instabilities",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Metagel with Broadband Tunable Acoustic Properties Over Air–Water–Solid Ranges",
+      "year": 2019,
+      "citation_raw": "104 Metagel with Broadband Tunable Acoustic Properties Over Air–Water–Solid Ranges Advanced Functional Materials 2019 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "3D Printing of Responsive Living Materials and Devices",
+      "year": 2017,
+      "citation_raw": "101 3D Printing of Responsive Living Materials and Devices Advanced Materials 2017 Living Materials; 3D Printing; Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Impermeable Robust Hydrogels via Hybrid Lamination",
+      "year": 2017,
+      "citation_raw": "97 Impermeable Robust Hydrogels via Hybrid Lamination Advanced Healthcare Materials 2017 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "A New 3D Printing Strategy by Harnessing Deformation, Instability and Fracture of Viscoelastic Inks",
+      "year": 2017,
+      "citation_raw": "96 A New 3D Printing Strategy by Harnessing Deformation, Instability and Fracture of Viscoelastic Inks Advanced Materials 2017 3D Printing",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Journal of the Mechanics and Physics of Solids",
+      "year": 2017,
+      "citation_raw": "95 Instabilities in Confined Elastic Layers under Tension: Fringe, Fingering and Cavitation Journal of the Mechanics and Physics of Solids 2017 Instabilities",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "A large deformation viscoelastic model for double-network hydrogels",
+      "year": 2017,
+      "citation_raw": "91 A large deformation viscoelastic model for double-network hydrogels Journal of the Mechanics and Physics of Solids 2017 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Proceedings of the National Academy of Sciences",
+      "year": 2017,
+      "citation_raw": "90 Stretchable Living Materials and Devices with Hydrogel-Elastomer Hybrids Hosting Programmed Cells Proceedings of the National Academy of Sciences 2017 Living Materials; Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Harnessing the Hygroscopic and Biofluorescent Behaviors of Genetically-Tractable Microbial Cells to Design Bio-hybrid Wearables",
+      "year": 2017,
+      "citation_raw": "89 Harnessing the Hygroscopic and Biofluorescent Behaviors of Genetically-Tractable Microbial Cells to Design Bio-hybrid Wearables Science Advances 2017 Living Materials",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Highly Stretchable, Strain Sensing Hydrogel Optical Fibers",
+      "year": 2016,
+      "citation_raw": "88 Highly Stretchable, Strain Sensing Hydrogel Optical Fibers Advanced Materials 2016 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Hydraulic hydrogel actuators and robots optically and sonically camouflaged in water",
+      "year": 2017,
+      "citation_raw": "87 Hydraulic hydrogel actuators and robots optically and sonically camouflaged in water Nature Communications 2017 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Skin-inspired hydrogel–elastomer hybrids with robust interfaces and functional microstructures",
+      "year": 2016,
+      "citation_raw": "85 Skin-inspired hydrogel–elastomer hybrids with robust interfaces and functional microstructures Nature Communications 2016 Bioadhesives; Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": null,
+      "year": 2016,
+      "citation_raw": "84 Strong, tough, stretchable and self-adhesive hydrogels from intrinsically unstructured proteins Advanced Materials 2016 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": null,
+      "year": 2015,
+      "citation_raw": "79 Stretchable Hydrogel Electronics and Devices Advanced Materials 2015 Bioelectronics; Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "3D Printing of Highly Stretchable and Tough Hydrogels into Complex, Cellularized Structures",
+      "year": 2015,
+      "citation_raw": "74 3D Printing of Highly Stretchable and Tough Hydrogels into Complex, Cellularized Structures Advanced Materials 2015 3D Printing; Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Bio-inspired Reversibly-Crosslinked Hydrogels Comprising Polypeptide Micelles Exhibit Enhanced Mechanical Properties",
+      "year": 2015,
+      "citation_raw": "73 Bio-inspired Reversibly-Crosslinked Hydrogels Comprising Polypeptide Micelles Exhibit Enhanced Mechanical Properties Advanced Functional Materials 2015 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Journal of the Mechanics and Physics of Solids",
+      "year": 2015,
+      "citation_raw": "71 Mechanics of Mechanochemically Responsive Elastomers Journal of the Mechanics and Physics of Solids 2015 Active Materials;",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Predicting Fracture Energies and Crack-Tip Fields of Soft Tough Materials",
+      "year": 2015,
+      "citation_raw": "70 Predicting Fracture Energies and Crack-Tip Fields of Soft Tough Materials Extreme Mechanics Letters 2015 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Designing Extremely Resilient and Tough Hydrogels via Delayed Dissipation",
+      "year": 2014,
+      "citation_raw": "69 Designing Extremely Resilient and Tough Hydrogels via Delayed Dissipation Extreme Mechanics Letters 2014 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Cephalopod-inspired Design of Electro-mechano-chemically Responsive Elastomers for On-demand Fluorescent Patterning",
+      "year": 2014,
+      "citation_raw": "68 Cephalopod-inspired Design of Electro-mechano-chemically Responsive Elastomers for On-demand Fluorescent Patterning Nature Communications 2014 Active Materials",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Increasing the maximum achievable strain of a covalent polymer gel through the addition of mechanically invisible cross-links",
+      "year": 2014,
+      "citation_raw": "63 Increasing the maximum achievable strain of a covalent polymer gel through the addition of mechanically invisible cross-links Advanced Materials 2014 Active Materials",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Soft Robotic Concepts in Catheter Design: an On-demand Fouling-release Urinary Catheter",
+      "year": 2014,
+      "citation_raw": "61 Soft Robotic Concepts in Catheter Design: an On-demand Fouling-release Urinary Catheter Advanced Healthcare Materials 2014 Active Materials",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Matrix Elasticity Controls Bone Formation by Transplanted Stem Cells",
+      "year": 2015,
+      "citation_raw": "59 Matrix Elasticity Controls Bone Formation by Transplanted Stem Cells Nature Materials 2015 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Harnessing Localized Ridges for High-Aspect-Ratio Hierarchical Patterns with Dynamic Tunability and Multifunctionality",
+      "year": 2014,
+      "citation_raw": "56 Harnessing Localized Ridges for High-Aspect-Ratio Hierarchical Patterns with Dynamic Tunability and Multifunctionality Advanced Materials 2014 Thin Films; Instabilities",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Composite three-dimensional woven scaffolds with interpenetrating network hydrogels to create functional synthetic articular cartilage",
+      "year": 2013,
+      "citation_raw": "50 Composite three-dimensional woven scaffolds with interpenetrating network hydrogels to create functional synthetic articular cartilage Advanced Functional Materials 2013 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Reversible Sliding in Networks of Nanowires",
+      "year": 2013,
+      "citation_raw": "49 Reversible Sliding in Networks of Nanowires Nanoletters 2013 Nanowires",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Ultrasound-triggered disruption and self-healing of reversibly-crosslinked hydrogels for drug delivery and enhanced chemotherapy",
+      "year": 2014,
+      "citation_raw": "47 Ultrasound-triggered disruption and self-healing of reversibly-crosslinked hydrogels for drug delivery and enhanced chemotherapy Proceedings of the National Academy of Sciences 2014 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Multifunctionality and Control of the Crumpling and Unfolding of Large-Area Graphene",
+      "year": 2013,
+      "citation_raw": "46 Multifunctionality and Control of the Crumpling and Unfolding of Large-Area Graphene Nature Materials 2013 Thin Films; Instabilities",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Bioinspired Surfaces with Dynamic Topography for Active Control of Biofouling",
+      "year": 2013,
+      "citation_raw": "45 Bioinspired Surfaces with Dynamic Topography for Active Control of Biofouling Advanced Materials 2013 Active Materials",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Dynamic Electrostatic Lithography: Multiscale On-demand Patterning on Large-Area Curved Surfaces",
+      "year": 2012,
+      "citation_raw": "41 Dynamic Electrostatic Lithography: Multiscale On-demand Patterning on Large-Area Curved Surfaces Advanced Materials 2012 Dielectric Elastomers",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Bursting Drops in Solid Dielectrics Caused by High Voltages",
+      "year": 2012,
+      "citation_raw": "40 Bursting Drops in Solid Dielectrics Caused by High Voltages Nature Communications 2012 Dielectric Elastomers",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Journal of the Mechanics and Physics of Solids",
+      "year": 2012,
+      "citation_raw": "39 Localized Ridge Wrinkling of Stiff Films on Compliant Substrates Journal of the Mechanics and Physics of Solids 2012 Thin Films; Instabilities",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Journal of the Mechanics and Physics of Solids",
+      "year": 2012,
+      "citation_raw": "36 A Theory for Large Deformation and Damage of Interpenetrating Polymer Networks Journal of the Mechanics and Physics of Solids 2012 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Creasing to Cratering instability in polymers under ultrahigh electric fields",
+      "year": 2011,
+      "citation_raw": "34 Creasing to Cratering instability in polymers under ultrahigh electric fields Physical Review Letters 2011 Dielectric Elastomers",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Proceedings of the National Academy of Sciences",
+      "year": 2011,
+      "citation_raw": "29 Active Scaffolds for On-demand Drug and Cell Delivery Proceedings of the National Academy of Sciences 2011 Hydrogels",
+      "source_url": "http://zhao.mit.edu/selected/"
+    },
+    {
+      "title": "Theory of dielectric elastomers capable of giant deformation of actuation",
+      "year": 2010,
+      "citation_raw": "28 Theory of dielectric elastomers capable of giant deformation of actuation Physical Review Letters 2010 Dielectric Elastomers",
+      "source_url": "http://zhao.mit.edu/selected/"
     }
   ]
 }

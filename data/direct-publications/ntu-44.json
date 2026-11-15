@@ -5,13 +5,146 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp00847",
   "publication_urls": [
-    "https://journals.sagepub.com/page/tct/collections/call-for-papers/biomedical-advances-in-cancer-detection-diagnosis-treatment"
+    "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
-  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:16:05.726725+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Infrared Thermography on Ocular Surface Temperature: A Review, Infrared Physics and Technology",
+      "year": 2009,
+      "citation_raw": "Bibliometrics Articles (Journal) Tan JH, Ng YK, Rajendra Udyavara Acharya, Chee C. (2009). Infrared Thermography on Ocular Surface Temperature: A Review. Infrared Physics and Technology, 52(4), 97-108.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "A Review of Thermography as Promising Non-invasive Detection Modality for Breast Tumour",
+      "year": 2009,
+      "citation_raw": "Ng Y.K. (2009). A Review of Thermography as Promising Non-invasive Detection Modality for Breast Tumour. International Journal of Thermal Sciences, 48(5), 849-855.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "A Review of Remote-sensing Infrared Thermography for Indoor Mass Blind Fever Screening in Containing an Epidemic",
+      "year": 2009,
+      "citation_raw": "Ng Y.K., Rajendra Acharya U. (2009). A Review of Remote-sensing Infrared Thermography for Indoor Mass Blind Fever Screening in Containing an Epidemic. IEEE Engineering in Medicine and Biology Magazine, 28(1), 76-83.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Automated diagnostic tool for hypertension using convolutional neural network, Computers in Biology and Medicine",
+      "year": 2020,
+      "citation_raw": "Soh and Ng et al, (2020). Automated diagnostic tool for hypertension using convolutional neural network, Computers in Biology and Medicine, Vol. 126, pp. 103999 (7 pages), https://doi.org/10.1016/j.compbiomed.2020.103999",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Relation between neck skin temperature measurement and carotid artery stenosis: in-vitro and in-vivo evaluation",
+      "year": 2020,
+      "citation_raw": "Saxena and Ng et al, (2020). Relation between neck skin temperature measurement and carotid artery stenosis: in-vitro and in-vivo evaluation, ASME Journal of Biomechanical Engineering. Vol. 142, pp. 114501-1, 8 pages. https://doi.org/10.1115/1.4048423",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Survey of Numerical Bioheat Transfer Modelling for Accurate Skin Surface Measurements",
+      "year": 2020,
+      "citation_raw": "Mahnaz and EYK Ng, (2020). Survey of Numerical Bioheat Transfer Modelling for Accurate Skin Surface Measurements. Thermal Science and Engineering Progress Journal, 20, 100681 (10pages), https://doi.org/10.1016/j.tsep.2020.100681",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Cardiac Thermal Pulse at the Neck Skin Surface as a Measure of Stenosis in the Carotid Artery",
+      "year": 2020,
+      "citation_raw": "Saxena and Ng et al, (2020). Cardiac Thermal Pulse at the Neck Skin Surface as a Measure of Stenosis in the Carotid Artery. Thermal Science and Engineering Progress Journal, 100603 (8 pages), https://doi.org/10.1016/j.tsep.2020.100603",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Analysis of transport methodologies for pollutant dispersion modelling in urban environments",
+      "year": 2020,
+      "citation_raw": "Tee, Ng, Xu (2020). Analysis of transport methodologies for pollutant dispersion modelling in urban environments, Journal of Environmental Chemical Engineering, 8(4): pp. 103937. https://doi.org/10.1016/j.jece.2020.103937",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Active Dynamic Thermography to Predict the Presence of Stenosis in the Carotid Artery, Computers in Biology and Medicine",
+      "year": 2020,
+      "citation_raw": "Saxena, Ng, Lim (2020). Active Dynamic Thermography to Predict the Presence of Stenosis in the Carotid Artery. Computers in Biology and Medicine, Vol. 120, pp. 103718 (9 pages), https://doi.org/10.1016/j.compbiomed.2020.103718",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "New analytical wake models based on artificial intelligence and rivalling the benchmark full-rotor CFD predictions under both uniform and ABL inflows",
+      "year": 2020,
+      "citation_raw": "Kabir and Ng, et al (2020). New analytical wake models based on artificial intelligence and rivalling the benchmark full-rotor CFD predictions under both uniform and ABL inflows, Energy, 193, 116761 (28 pages) https://doi.org/10.1016/j.energy.2019.116761",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Skin Temperature Maps as a Measure of Carotid Artery Stenosis, Computers in Biology and Medicine",
+      "year": 2020,
+      "citation_raw": "Saxena and Ng, (2020). Skin Temperature Maps as a Measure of Carotid Artery Stenosis, Computers in Biology and Medicine, Vol. 116, pp. 103548 (13 pages) https://doi.org/10.1016/j.compbiomed.2019.103548",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Cyrcadia Breast Monitor: A Wearable Breast Health Monitoring Device – A Technology Review, Computer Methods and Programs in Biomedicine",
+      "year": 2020,
+      "citation_raw": "Subbhuraam and Ng, et al (2020). Cyrcadia Breast Monitor: A Wearable Breast Health Monitoring Device – A Technology Review, Computer Methods and Programs in Biomedicine, Vol. 197, pp. 105758 (12 pages), https://doi.org/10.1016/j.cmpb.2020.105758",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "et al (2021), Automated detection of coronary artery disease, myocardial infarction and congestive heart failure using GaborCNN model with ECG signals, Computers in Biology and Medicine",
+      "year": 2021,
+      "citation_raw": "Jahmunah and Ng, et al (2021), Automated detection of coronary artery disease, myocardial infarction and congestive heart failure using GaborCNN model with ECG signals, Computers in Biology and Medicine, Vol. 134, pp. 104457 (11 pages), https://doi.org/10.1016/j.compbiomed.2021.104457.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "A Method to Produce High Contrast Vein Visualization in Active Dynamic Thermography (ADT)\", Computers in Biology and Medicine",
+      "year": 2021,
+      "citation_raw": "Saxena and Ng et al, (2021). A Method to Produce High Contrast Vein Visualization in Active Dynamic Thermography (ADT)\", Computers in Biology and Medicine, Vol. 132, pp. 104309 (9 pages), https://doi.org/10.1016/j.compbiomed.2021.104309",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Thermal Elevation on Midriff Skin Surface as a Potential Diagnostic Feature for Abdominal Aortic Aneurysm using Infrared Thermography",
+      "year": 2021,
+      "citation_raw": "E.Y.K. Ng, E Pang, (2021), Thermal Elevation on Midriff Skin Surface as a Potential Diagnostic Feature for Abdominal Aortic Aneurysm using Infrared Thermography, International Journal of Thermal Sciences, Vol. 163, pp. 107305 (11 pages) (2021), (IF =3.744, Q1, Rank: 9/130 in ENGINEERING, MECHANICAL) https://doi.org/10.1016/j.ijthermalsci.2021.107305",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Aerodynamic Comparison of Slotted and Non-Slotted Diffuser Casings for Diffuser Augmented Wind Turbines",
+      "year": 2022,
+      "citation_raw": "Surya S, ...EYK Ng, et al. (2021), Aerodynamic Comparison of Slotted and Non-Slotted Diffuser Casings for Diffuser Augmented Wind Turbines, Renewable and Sustainable Energy Reviews, Q1, (IF: 14.982, Q1, Rank: 1/44 in Green & sustainable science & technology) Vol. 161, June 2022, pp. 112316 (17 pages), https://doi.org/10.1016/j.rser.2022.112316",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Physics-informed Neural Network for the Prediction of Temperature Distributions in Cancerous Breasts as a Portable AI-based Diagnostic Tool, Computer Methods and Programs in Biomedicine",
+      "year": 2023,
+      "citation_raw": "O Mukhmetov, ... EYK Ng, Physics-informed Neural Network for the Prediction of Temperature Distributions in Cancerous Breasts as a Portable AI-based Diagnostic Tool, Computer Methods and Programs in Biomedicine, Vol. 242, pp. 107834 (24 pages), (2023), (IF: 6.521, Q1, Rank: 12/109 in Computer Science, Theory & Methods), https://doi.org/10.1016/j.cmpb.2023.107834.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "E.Y.K, Ng, M Shivansh, The Biffis canal hydrodynamic system performance study of drag-dominant tidal turbine using moment balancing method, Sustainability",
+      "year": 2023,
+      "citation_raw": "Y Zhang, E.Y.K. Ng, M Shivansh, The Biffis canal hydrodynamic system performance study of drag-dominant tidal turbine using moment balancing method, Sustainability, Vol. 15(19), (2023), pp. 14187, (24 pages) (IF=3.194, Q2, Rank: 35/67 in Mathematical & Computational Biology), https://doi.org/10.3390/su151914187",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Design Optimization of a Contra-Rotating VAWT: A Comprehensive Study using Taguchi Method and CFD",
+      "year": 2023,
+      "citation_raw": "J. Radhakrishnan, ...EYK Ng, Design Optimization of a Contra-Rotating VAWT: A Comprehensive Study using Taguchi Method and CFD, Energy Conversion and Management, Vol. 298 pp. 117766 (13 pages), (2023), (IF=10.40 Q1, Rank: 3/137 in Mechanics). https://doi.org/10.1016/j.enconman.2023.117766",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": "Advances in Offshore Wind",
+      "year": 2023,
+      "citation_raw": "Gajendran, M.K.... Ng, E.Y.K., Machine Learning-Based Approach to Wind Turbine Wake Prediction under Yawed Conditions. J. Mar. Sci. Eng. (2023), 11(11), pp. 2111 (21 pages). Special Issue \"Advances in Offshore Wind\", https://doi.org/10.3390/jmse11112111 (IF: 2.90, Q1, Rank: 4/16 in Engineering, Marine).",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": null,
+      "year": 2003,
+      "citation_raw": "ME Koh, MKF Wong, E.Y.K. Ng, 2003, Aqua3DNet: Real-time 3D Pose estimation of livestock in aquaculture by monocular machine vision, Aquacultural Engineering, V.103(3), 102367 (14-p.), https://doi.org/10.1016/j.aquaeng.2023.102367.",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    },
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "Oei, C.W.; Ng, E.Y.K.... Explainable Risk Prediction of Post-Stroke Adverse Mental Outcomes Using Machine Learning Techniques in a Population of 1780 Patients. Sensors, V. 23, 2023, pp. 7946 (12 pages), https://doi.org/10.3390/s23187946",
+      "source_url": "https://dr.ntu.edu.sg/entities/person/Ng-Yin-Kwee/selectedpublications"
+    }
+  ]
 }

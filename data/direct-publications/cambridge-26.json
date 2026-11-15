@@ -6,13 +6,14 @@
   "lab_url": "https://www.refficiency.org/author/jon/",
   "publication_urls": [
     "https://www.refficiency.org/category/publications/",
+    "https://www.refficiency.org/category/publications/page/2/",
     "https://www.refficiency.org/category/publications/page/3/"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": "공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
-  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
-  "coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:16:05.726725+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
   "papers": [
     {
@@ -38,6 +39,36 @@
       "year": 2026,
       "citation_raw": "China’s role in the UK energy transition: from mine to technology Laura Prestwich February 4, 2026",
       "source_url": "https://www.refficiency.org/category/publications/"
+    },
+    {
+      "title": "Material circularity in the UK’s foundation industries",
+      "year": 2025,
+      "citation_raw": "Material circularity in the UK’s foundation industries Laura Prestwich December 22, 2025",
+      "source_url": "https://www.refficiency.org/category/publications/page/2/"
+    },
+    {
+      "title": "A systematic review of resilience in the critical minerals supply chains, needed for the low-carbon energy transition",
+      "year": 2025,
+      "citation_raw": "A systematic review of resilience in the critical minerals supply chains, needed for the low-carbon energy transition Mehrnoosh Heydari October 17, 2025",
+      "source_url": "https://www.refficiency.org/category/publications/page/2/"
+    },
+    {
+      "title": "Assessing minimum energy requirements and emissions for different raw material compositions in clinker production",
+      "year": 2025,
+      "citation_raw": "Assessing minimum energy requirements and emissions for different raw material compositions in clinker production Laura Prestwich July 25, 2025",
+      "source_url": "https://www.refficiency.org/category/publications/page/2/"
+    },
+    {
+      "title": "A robust framework for estimating theoretical minimum energy requirements for industrial processes",
+      "year": 2025,
+      "citation_raw": "A robust framework for estimating theoretical minimum energy requirements for industrial processes Jonathan Cullen April 10, 2025",
+      "source_url": "https://www.refficiency.org/category/publications/page/2/"
+    },
+    {
+      "title": "Connected, complex, and carbonized: The country archetypes of the petrochemicals sector",
+      "year": 2025,
+      "citation_raw": "Connected, complex, and carbonized: The country archetypes of the petrochemicals sector Laura Prestwich January 7, 2025",
+      "source_url": "https://www.refficiency.org/category/publications/page/2/"
     },
     {
       "title": "Reducing uncertainties in greenhouse gas emissions from chemical production",

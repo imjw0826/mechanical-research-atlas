@@ -508,7 +508,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -522,7 +522,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -565,7 +565,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -676,7 +676,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -1074,7 +1074,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -1112,7 +1112,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -1585,7 +1585,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -1595,7 +1595,7 @@
 
  · 논문·원고 20건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -1685,7 +1685,7 @@
 
  · 논문·원고 266건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -3021,7 +3021,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -3031,7 +3031,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -3041,7 +3041,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -8888,7 +8888,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -9483,7 +9483,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -10555,7 +10555,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -11215,7 +11215,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 9건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -11593,7 +11593,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -11632,17 +11632,53 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
 ## University of Oxford — David Howey
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 10건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
-
-출처: <https://eng.ox.ac.uk/people/david-howey>
-
-출처: <https://howey.eng.ox.ac.uk/>
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Taeho Jung - Application of concentrated solution theory and core potential to ion exchange media, 2023.
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Recent article highlights Sulzer, V., Mohtat, P., et al., “The challenge and opportunity of battery lifetime prediction from field data”, Joule, 2021. Publisher copy - please contact us if you want the pdf sent to you. Author accepted manuscript.
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. S. Greenbank and D.A. Howey, “Automated feature extraction and selection for data-driven models of rapid battery capacity fade and end of life”. IEEE Transactions on Industrial Informatics, in press, 2021. Publisher copy or Pre-print
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Reniers, J.M., Mulder, G. and Howey, D. A., “Unlocking extra value from grid batteries using advanced models”, Journal of Power Sources, 487:229355, 2021. Publisher copy or Pre-print
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Aitio, A. and Howey, D.A. “Combining non-parametric and parametric models for stable and computationally efficient battery health estimation”, Proceedings of the ASME 2020 Dynamic Systems and Control Conference. Publisher copy or Pre-print
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Raj, T., Wang, A.A., Monroe, C.W., and Howey, D.A., “Investigation of Path‐Dependent Degradation in Lithium‐Ion Batteries”, Batteries and Supercaps, 3(12), 1377-1385, 2020. Open access publisher copy
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Aitio, A., Marquis, S.G., Ascencio, P., and Howey, D.A., “Bayesian parameter estimation applied to the Li-ion battery single particle model with electrolyte dynamics”, IFAC-PapersOnLine, 53(2), 12497-12504, 2020. Publisher copy or Pre-print
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Richardson, R.R., Osborne, M.A., and Howey D.A. “Battery health prediction under generalized conditions using a Gaussian process transition model”, Journal of Energy Storage vol. 23, 2019. Open access publisher copy
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Reniers, J.M., Mulder, G., and Howey, D.A. “Review and performance comparison of mechanical-chemical degradation models for lithium-ion batteries”. Journal of The Electrochemical Society, vol. 166, num. 14, pp. A3189-A3200, 2019. Open access publisher copy
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
+
+1. Bizeray, A.M., Kim, J-H.,Duncan, S.R., and Howey D.A., “Identifiability and Parameter Estimation of the Single Particle Lithium-Ion Battery Model”, IEEE Transactions on Control Systems Technology, vol. 27, num. 5, 2019. Publisher copy or Pre-print
+
+    게시 페이지: <https://battery-intelligence-lab.github.io/publications/>
 
 ## University of Oxford — Wes Armour
 
@@ -11920,7 +11956,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 38건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -12427,7 +12463,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -12475,7 +12511,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -12872,7 +12908,7 @@ Quantum Device Lab · 논문·원고 55건 · 기타 성과 0건 · 상태: part
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -12947,7 +12983,7 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -13071,7 +13107,7 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -13114,7 +13150,7 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -13240,7 +13276,7 @@ Protean Robotics Lab (PRL) · 논문·원고 5건 · 기타 성과 0건 · 상�
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 

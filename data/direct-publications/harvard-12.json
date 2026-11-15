@@ -10,19 +10,39 @@
     "https://aziz.seas.harvard.edu/publications?page=0",
     "https://aziz.seas.harvard.edu/publications?page=2",
     "https://joss.theoj.org/papers/10.21105/joss.06537",
+    "https://aziz.seas.harvard.edu/publications?page=29",
     "https://aziz.seas.harvard.edu/publications?page=4",
     "https://aziz.seas.harvard.edu/publications?page=6",
     "https://aziz.seas.harvard.edu/publications?page=8",
+    "https://aziz.seas.harvard.edu/publications?page=10",
+    "https://aziz.seas.harvard.edu/publications?page=12",
+    "https://aziz.seas.harvard.edu/publications?page=14",
+    "https://aziz.seas.harvard.edu/publications?page=16",
+    "https://aziz.seas.harvard.edu/publications?page=18",
+    "https://aziz.seas.harvard.edu/publications?page=20",
+    "https://aziz.seas.harvard.edu/publications?page=22",
+    "https://aziz.seas.harvard.edu/publications?page=24",
+    "https://aziz.seas.harvard.edu/publications?page=26",
+    "https://aziz.seas.harvard.edu/publications?page=28",
     "https://aziz.seas.harvard.edu/publications?page=3",
     "https://aziz.seas.harvard.edu/publications?page=5",
     "https://aziz.seas.harvard.edu/publications?page=7",
-    "https://aziz.seas.harvard.edu/publications?page=13"
+    "https://aziz.seas.harvard.edu/publications?page=9",
+    "https://aziz.seas.harvard.edu/publications?page=11",
+    "https://aziz.seas.harvard.edu/publications?page=13",
+    "https://aziz.seas.harvard.edu/publications?page=15",
+    "https://aziz.seas.harvard.edu/publications?page=17",
+    "https://aziz.seas.harvard.edu/publications?page=19",
+    "https://aziz.seas.harvard.edu/publications?page=21",
+    "https://aziz.seas.harvard.edu/publications?page=23",
+    "https://aziz.seas.harvard.edu/publications?page=25",
+    "https://aziz.seas.harvard.edu/publications?page=27"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": "공식 연구실 논문 페이지 32개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
-  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
-  "coverage_notes": "공식 연구실 논문 페이지 12개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 12개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:16:05.726725+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 32개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
   "papers": [
     {
@@ -248,6 +268,72 @@
       "source_url": "https://joss.theoj.org/papers/10.21105/joss.06537"
     },
     {
+      "title": "The Effect of Pressure on the Solid Phase Epitaxial Regrowth Rate of Si",
+      "year": 1985,
+      "citation_raw": "E. Nygren, M. J. Aziz, D. Turnbull, J.M. Poate, D.C. Jacobson, and R. Hull. 1985. “The Effect of Pressure on the Solid Phase Epitaxial Regrowth Rate of Si”. Appl. Phys. Lett., 47, Pp. 232-33",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=29"
+    },
+    {
+      "title": "Pulsed Excimer and CO_2 Laser Annealing of Ion Implanted Silicon",
+      "year": 1985,
+      "citation_raw": "J. Narayan, R.V. James, O.W. Holland, and M. J. Aziz. 1985. “Pulsed Excimer and CO_2 Laser Annealing of Ion Implanted Silicon”. J. Vac. Sci. Technol. A, 3, Pp. 1836-38",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=29"
+    },
+    {
+      "title": "Melting of Crystalline and Amorphous Silicon by Ruby, XeCl and KrF Laser Irradiation",
+      "year": 1985,
+      "citation_raw": "M. J. Aziz, C.W. White, J. Narayan, and B. Stritzker. 1985. “Melting of Crystalline and Amorphous Silicon by Ruby, XeCl and KrF Laser Irradiation”. In Energy Beam-Solid Interactions and Transient Thermal Processing, Pp. 231-36. Paris: Éditions de Physique",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=29"
+    },
+    {
+      "title": "Pulsed Excimer (KrF) Laser Melting of Amorphous and Crystalline Silicon Layers",
+      "year": 1985,
+      "citation_raw": "J. Narayan, C.W. White, M. J. Aziz, B. Stritzker, and A. Walthuis. 1985. “Pulsed Excimer (KrF) Laser Melting of Amorphous and Crystalline Silicon Layers”. J. Appl. Phys., 57, Pp. 564-67",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=29"
+    },
+    {
+      "title": "Crystal Growth Kinetics of Boron Oxide under Pressure",
+      "year": 1985,
+      "citation_raw": "M. J. Aziz, E. Nygren, J.F. Hays, and D. Turnbull. 1985. “Crystal Growth Kinetics of Boron Oxide under Pressure”. J. Appl. Phys., 57, Pp. 2233-42",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=29"
+    },
+    {
+      "title": "A Test of Two Solute Trapping Models",
+      "year": 1985,
+      "citation_raw": "M. J. Aziz, J.Y. Tsao, M.O. Thompson, P.S. Peercy, C.W. White, and W.H. Christie. 1985. “A Test of Two Solute Trapping Models”. Mater. Res. Soc. Symp. Proc., 35, Pp. 153-58",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=29"
+    },
+    {
+      "title": "Crystal Growth and Solute Trapping",
+      "year": 1984,
+      "citation_raw": "M. J. Aziz. 1984. “Crystal Growth and Solute Trapping”. Mater. Res. Soc. Symp. Proc., 23, Pp. 369-74",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=29"
+    },
+    {
+      "title": "Phase Transformation and Impurity Redistribution During Pulsed Laser Irradiation of Amorphous Silicon Layers",
+      "year": 1984,
+      "citation_raw": "J. Narayan, C.W. White, O.W. Holland, and M. J. Aziz. 1984. “Phase Transformation and Impurity Redistribution During Pulsed Laser Irradiation of Amorphous Silicon Layers”. J. Appl. Phys., 56, Pp. 1821-30",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=29"
+    },
+    {
+      "title": "Dissipation-Theory Treatment of the Transition from Diffusion-Controlled to Diffusionless Solidification",
+      "year": 1983,
+      "citation_raw": "M. J. Aziz. 1983. “Dissipation-Theory Treatment of the Transition from Diffusion-Controlled to Diffusionless Solidification”. Appl. Phys. Lett., 43, Pp. 552-54",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=29"
+    },
+    {
+      "title": "Model for Solute Redistribution During Rapid Solidification",
+      "year": 1982,
+      "citation_raw": "M. J. Aziz. 1982. “Model for Solute Redistribution During Rapid Solidification”. J. Appl. Phys., 53, Pp. 1158-68",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=29"
+    },
+    {
+      "title": "An Atomistic Model of Solute Trapping",
+      "year": 1982,
+      "citation_raw": "M. J. Aziz. 1982. “An Atomistic Model of Solute Trapping”. In Rapid Solidification Processing: Principles and Technologies III, Pp. 113-17. Gaithersburg, MD: National Bureau of Standards",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=29"
+    },
+    {
       "title": "Carrier Dynamics and Absorption Properties of Gold-Hyperdoped Germanium: Insight Into Tailoring Defect Energetics",
       "year": 2021,
       "citation_raw": "Sashini Senali Dissanayake, Naheed Ferdous, Hemi H. Gandhi, David Pastor, Tuan T. Tran, Jim Williams, Michael J. Aziz, Eric Mazur, Elif Ertekin, and Meng-Ju Sher. 2021. “Carrier Dynamics and Absorption Properties of Gold-Hyperdoped Germanium: Insight Into Tailoring Defect Energetics”. Physical Review Applied",
@@ -462,6 +548,720 @@
       "year": 2015,
       "citation_raw": "Qing Chen, Michael R. Gerhardt, Lauren Hartle, and Michael J. Aziz. 2015. “A Quinone-Bromide Flow Battery With 1 W Cm2 Power Density”. Journal of the Electrochemical Society",
       "source_url": "https://aziz.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Methodology for Vetting Heavily Doped Semiconductors for Intermediate Band Photovoltaics: A Case Study in Sulfur-Hyperdoped Silicon",
+      "year": 2013,
+      "citation_raw": "J.T. Sullivan, C.B. Simmons, J.J. Krich, A.J. Akey, D. Recht, M. J. Aziz, and T. Buonassisi. 2013. “Methodology for Vetting Heavily Doped Semiconductors for Intermediate Band Photovoltaics: A Case Study in Sulfur-Hyperdoped Silicon”. J. Appl. Phys., 114, Pp. 103701",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Emergence of Very Broad Infrared Absorption Band by Hyperdoping of Silicon With Chalcogens",
+      "year": 2013,
+      "citation_raw": "I. Umezu, J. M. Warrender, S. Charnvanichborikarn, A. Kohno, J. S. Williams, M. Tabbal, D.G. Papazoglou, X.-C. Zhang, and M. J. Aziz. 2013. “Emergence of Very Broad Infrared Absorption Band by Hyperdoping of Silicon With Chalcogens”. J. Appl. Phys., 113, 213501",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Performance Model of a Regenerative Hydrogen-Bromine Fuel Cell for Grid-Scale Energy Storage",
+      "year": 2013,
+      "citation_raw": "B. Huskinson and M. J. Aziz. 2013. “Performance Model of a Regenerative Hydrogen-Bromine Fuel Cell for Grid-Scale Energy Storage”. Energy Sci. Tech, 5, 1",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Depth-Resolved Cathodoluminescence Spectroscopy of Silicon Supersaturated With Sulfur",
+      "year": 2013,
+      "citation_raw": "F. Fabbri, M. J. Smith, D. Recht, M. J. Aziz, S. Grade\\v cak, and G. Salviati. 2013. “Depth-Resolved Cathodoluminescence Spectroscopy of Silicon Supersaturated With Sulfur”. Appl. Phys. Lett., 102, 031909",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Supersaturating Silicon With Transition Metals by Ion Implantation and Pulsed Laser Melting",
+      "year": 2013,
+      "citation_raw": "Daniel Recht, M. J. Smith, S. Charnvanichborikarn, J.T. Sullivan, M. T. Winkler, J. Mathews, J. M. Warrender, T. Buonassisi, J. S. Williams, S. Grade\\v cak, and M. J. Aziz. 2013. “Supersaturating Silicon With Transition Metals by Ion Implantation and Pulsed Laser Melting”. J. Appl. Phys., 114, Pp. 124903",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Benzoquinone-Hydroquinone Couple for Flow Battery",
+      "year": 2013,
+      "citation_raw": "S. Nawar, B. Huskinson, and M. J. Aziz. 2013. “Benzoquinone-Hydroquinone Couple for Flow Battery”. Mater. Res. Soc. Symp. Proc., 1491, mrsf12-1491-c08-09",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Comparison of Molecular Dynamics and Binary Collision Approximation Simulations for Atom Displacement Analysis",
+      "year": 2013,
+      "citation_raw": "L. Bukonte, F. Djurabekova, J. Samela, K. Nordlund, S.A. Norris, and M. J. Aziz. 2013. “Comparison of Molecular Dynamics and Binary Collision Approximation Simulations for Atom Displacement Analysis”. Nucl. Instrum. Meth. B, 297, 23",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Novel Quinone-Based Couples for Flow Batteries",
+      "year": 2013,
+      "citation_raw": "B. Huskinson, S. Nawar, M. R. Gerhardt, and M. J. Aziz. 2013. “Novel Quinone-Based Couples for Flow Batteries”. ECS Trans., 53, 101",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Multiple Scattering Causes the Low Energy-Low Angle Constant Wavelength Topographical Instability of Argon Ion Bombarded Silicon Surfaces",
+      "year": 2012,
+      "citation_raw": "C.S. Madi and M. J. Aziz. 2012. “Multiple Scattering Causes the Low Energy-Low Angle Constant Wavelength Topographical Instability of Argon Ion Bombarded Silicon Surfaces”. Appl. Surf. Sci., 258, 4112",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Model of Performance of a Regenerative Hydrogen Chlorine Fuel Cell for Grid-Scale Electrical Energy Storage",
+      "year": 2012,
+      "citation_raw": "J. Rugolo, B. Huskinson, and M. J. Aziz. 2012. “Model of Performance of a Regenerative Hydrogen Chlorine Fuel Cell for Grid-Scale Electrical Energy Storage”. J. Electrochem. Soc., 159, B133",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Insulator-to-Metal Transition in Selenium-Hyperdoped Silicon: Observation and Origin",
+      "year": 2012,
+      "citation_raw": "E. Ertekin, M. T. Winkler, D. Recht, A. J. Said, M. J. Aziz, T. Buonassisi, and J. C. Grossman. 2012. “Insulator-to-Metal Transition in Selenium-Hyperdoped Silicon: Observation and Origin”. Phys. Rev. Lett., 108, 026401",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Electricity Storage for Intermittent Renewable Sources",
+      "year": 2012,
+      "citation_raw": "J. Rugolo and M. J. Aziz. 2012. “Electricity Storage for Intermittent Renewable Sources”. Energy Environ. Sci., 5, 7151",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Effect of Absorption Enthalpy on Temperature-Swing CO2 Separation Process Performance",
+      "year": 2011,
+      "citation_raw": "E.A. Nierop, S. Hormoz, K.Z. House, and M. J. Aziz. 2011. “Effect of Absorption Enthalpy on Temperature-Swing CO2 Separation Process Performance”. Energy Procedia, 4, 1783",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Thermal Activation and Saturation of Ion Beam Sculpting",
+      "year": 2011,
+      "citation_raw": "D.P. Hoogerheide, H. B. George, J.A. Golovchenko, and M. J. Aziz. 2011. “Thermal Activation and Saturation of Ion Beam Sculpting”. J. Appl. Phys., 109, 074312",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Optimization of Large Amorphous Silicon and Silica Structures for Molecular Dynamics Simulations of Energetic Impacts",
+      "year": 2011,
+      "citation_raw": "J. Samela, S.A. Norris, K. Nordlund, and M. J. Aziz. 2011. “Optimization of Large Amorphous Silicon and Silica Structures for Molecular Dynamics Simulations of Energetic Impacts”. Nucl. Instr. Meth. Phys. Res. B, 269, 1568",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Model of Performance of a Regenerative Hydrogen Chlorine Fuel Cell for Grid-Scale Electrical Energy Storage",
+      "year": 2011,
+      "citation_raw": "J. Rugolo, B. Huskinson, and M. J. Aziz. 2011. “Model of Performance of a Regenerative Hydrogen Chlorine Fuel Cell for Grid-Scale Electrical Energy Storage”. J. Electrochem. Soc., 159, 2",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Enhanced Visible and Near-Infrared Optical Absorption in Silicon Supersaturated With Chalcogens",
+      "year": 2011,
+      "citation_raw": "S.H. Pan, D. Recht, S. Charnvanichborikarn, J. S. Williams, and M. J. Aziz. 2011. “Enhanced Visible and Near-Infrared Optical Absorption in Silicon Supersaturated With Chalcogens”. Appl. Phys. Lett., 98, 121913",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Insulator to Metal Transition in Sulfur-Doped Silicon",
+      "year": 2011,
+      "citation_raw": "M. T. Winkler, D. Recht, M.J. Sher, A. J. Said, E. Mazur, and M. J. Aziz. 2011. “Insulator to Metal Transition in Sulfur-Doped Silicon”. Phys. Rev. Lett., 106, 178701",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Magnetic Properties of Ion Implanted Ge_1-XMn_x Thin Films Solidified through Pulsed Laser Melting",
+      "year": 2011,
+      "citation_raw": "M.C. Dolph, T. Kim, W. Yin, J. Lu, D. Recht, W. Fan, J. Yu, M. J. Aziz, and S.A. Wolf. 2011. “Magnetic Properties of Ion Implanted Ge_1-XMn_x Thin Films Solidified through Pulsed Laser Melting”. J. Appl. Phys., 109, 093917",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Extended Infrared Photoresponse and Gain in Chalcogen-Supersaturated Silicon Photodiodes",
+      "year": 2011,
+      "citation_raw": "A. J. Said, D. Recht, J.T. Sullivan, J. M. Warrender, T. Buonassisi, P.D. Persans, and M. J. Aziz. 2011. “Extended Infrared Photoresponse and Gain in Chalcogen-Supersaturated Silicon Photodiodes”. Appl. Phys. Lett., 99, 073503",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Photocarrier Excitation and Transport in Hyperdoped Planar Silicon Devices",
+      "year": 2011,
+      "citation_raw": "P.D. Persans, N.E. Berry, D. Recht, D. Hutchinson, A. J. Said, J. M. Warrender, H. Peterson, A. DiFranzo, C. McGahan, J. Clark, W. Cunningham, and M. J. Aziz. 2011. “Photocarrier Excitation and Transport in Hyperdoped Planar Silicon Devices”. Mat. Res. Soc. Symp. Proc., 1321, mrss11-1321-a08-16",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Soft X-Ray Emission Spectroscopy Studies of the Electronic Structure of Silicon Supersaturated With Sulfur",
+      "year": 2011,
+      "citation_raw": "J.T. Sullivan, R.G. Wilks, M. T. Winkler, L. Weinhardt, D. Recht, A. J. Said, B. K. Newman, Y. Zhang, M. Blum, S. Krause, W.L. Yang, C. Heske, M. J. Aziz, M. Bär, and T. Buonassisi. 2011. “Soft X-Ray Emission Spectroscopy Studies of the Electronic Structure of Silicon Supersaturated With Sulfur”. Appl. Phys. Lett., 99, 142102",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Strong Mid-Infrared Optical Absorption by Supersaturated Sulfur Doping in Silicon",
+      "year": 2011,
+      "citation_raw": "I. Umezu, A. Kohno, J. M. Warrender, Y. Takatori, Y. Hirao, S. Nakagawa, S. Sugimura, S. Charnvanichborikarn, J. S. Williams, and M. J. Aziz. 2011. “Strong Mid-Infrared Optical Absorption by Supersaturated Sulfur Doping in Silicon”. AIP Conf. Proc., 1399, 51",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Time-Resolved Measurements of Nanoscale Surface Pattern Formation Kinetics in Two Dimensions on Ion Irradiated Si",
+      "year": 2011,
+      "citation_raw": "E. Anzenberg, C.S. Madi, M. J. Aziz, and Jr. K.F. Ludwig. 2011. “Time-Resolved Measurements of Nanoscale Surface Pattern Formation Kinetics in Two Dimensions on Ion Irradiated Si”. Phys. Rev. B, 84, 214108",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=12"
+    },
+    {
+      "title": "Synthesis and Variable Temperature Electrical Conductivity Studies of Highly Ordered TiO_2 Nanotubes",
+      "year": 2009,
+      "citation_raw": "R. Asmatulu, A. Karthikeyan, D.C. Bell, S. Ramanathan, and M. J. Aziz. 2009. “Synthesis and Variable Temperature Electrical Conductivity Studies of Highly Ordered TiO_2 Nanotubes”. J. Mat. Sci., 44, 4613",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "On the Temperature Dependence of Point-Defect-Mediated Luminescence in Silicon",
+      "year": 2009,
+      "citation_raw": "D. Recht, F. Capasso, and M. J. Aziz. 2009. “On the Temperature Dependence of Point-Defect-Mediated Luminescence in Silicon”. Appl. Phys. Lett., 94, 251113",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "The Energy Penalty of Post-Combustion CO_2 Capture and Storage and Its Implications for Retrofitting the U.S. Installed Base",
+      "year": 2009,
+      "citation_raw": "K.Z. House, C.F. Harvey, M. J. Aziz, and D.P. Schrag. 2009. “The Energy Penalty of Post-Combustion CO_2 Capture and Storage and Its Implications for Retrofitting the U.S. Installed Base”. Energy Environ. Sci., 2, 193",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "Film Growth Mechanisms in Pulsed Laser Deposition",
+      "year": 2008,
+      "citation_raw": "M. J. Aziz. 2008. “Film Growth Mechanisms in Pulsed Laser Deposition”. Appl. Phys. A, 93, 579",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "Multiple Bifurcation Types and the Linear Dynamics of Ion Sputtered Surfaces",
+      "year": 2008,
+      "citation_raw": "C.S. Madi, B. Davidovitch, H. B. George, S.A. Norris, M.P. Brenner, and M. J. Aziz. 2008. “Multiple Bifurcation Types and the Linear Dynamics of Ion Sputtered Surfaces”. Phys. Rev. Lett., 101, 246102",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "Two Dimensionally Patterned GaN_xAs_1-X GaAs Nanostructures Using N+ Implantation Followed by Pulsed Laser Melting",
+      "year": 2008,
+      "citation_raw": "T. Kim, M. J. Aziz, and V. Narayanamurti. 2008. “Two Dimensionally Patterned GaN_xAs_1-X GaAs Nanostructures Using N+ Implantation Followed by Pulsed Laser Melting”. Appl. Phys. Lett., 93, 102117",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "Composition Dependence of Schottky Barrier Heights and Band Gap Energies of GaN_xAs_1-X Synthesized by Ion Implantation and Pulsed Laser Melting",
+      "year": 2008,
+      "citation_raw": "T. Kim, K. Alberi, O.D. Dubon, M. J. Aziz, and V. Narayanamurti. 2008. “Composition Dependence of Schottky Barrier Heights and Band Gap Energies of GaN_xAs_1-X Synthesized by Ion Implantation and Pulsed Laser Melting”. J. Appl. Phys., 104, 113722",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "On the Phase Shift of Reflection High Energy Electron Diffraction Intensity Oscillations During Ge(001) Homoepitaxy by Molecular Beam Epitaxy",
+      "year": 2007,
+      "citation_raw": "B. Shin, J.P. Leonard, J.W. McCamy, and M. J. Aziz. 2007. “On the Phase Shift of Reflection High Energy Electron Diffraction Intensity Oscillations During Ge(001) Homoepitaxy by Molecular Beam Epitaxy”. J. Vac. Sci. Technol. A, 25, 221",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "Point Defect Engineered Si Sub-Bandgap Light-Emitting Diode",
+      "year": 2007,
+      "citation_raw": "J. Bao, M. Tabbal, T. Kim, S. Charnvanichborikarn, J. S. Williams, M. J. Aziz, and F. Capasso. 2007. “Point Defect Engineered Si Sub-Bandgap Light-Emitting Diode”. Optics Express, 15, 6727",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "Fundamentals of FIB Nanostructural Processing: Below, At and Above the Surface",
+      "year": 2007,
+      "citation_raw": "W.J. MoberlyChan, D.P. Adams, M. J. Aziz, G. Hobler, and T. Schenkel. 2007. “Fundamentals of FIB Nanostructural Processing: Below, At and Above the Surface”. MRS Bulletin, 32, 5",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "Kinetic Energy Effects on Morphology Evolution During Pulsed Laser Deposition of Metal-on-Insulator Films",
+      "year": 2007,
+      "citation_raw": "J. M. Warrender and M. J. Aziz. 2007. “Kinetic Energy Effects on Morphology Evolution During Pulsed Laser Deposition of Metal-on-Insulator Films”. Phys. Rev. B, 75, 085433",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "Modeling RHEED Intensity Oscillations in Multilayer Epitaxy: Determination of the Ehrlich-Schwoebel Barrier in Ge(001) Homoepitaxy",
+      "year": 2007,
+      "citation_raw": "B. Shin and M. J. Aziz. 2007. “Modeling RHEED Intensity Oscillations in Multilayer Epitaxy: Determination of the Ehrlich-Schwoebel Barrier in Ge(001) Homoepitaxy”. Phys. Rev. B, 76, 165408",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=14"
+    },
+    {
+      "title": "Continuum Theory of Nanostructure Decay via a Microscale Condition",
+      "year": 2006,
+      "citation_raw": "D. Margetis, P.-W. Fok, M. J. Aziz, and H.A. Stone. 2006. “Continuum Theory of Nanostructure Decay via a Microscale Condition”. Phys. Rev. Lett., 97, 096102",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Continuum Approach to Self-Similarity and Scaling in Nanostructure Decay",
+      "year": 2005,
+      "citation_raw": "D. Margetis, M. J. Aziz, and H.A. Stone. 2005. “Continuum Approach to Self-Similarity and Scaling in Nanostructure Decay”. Phys. Rev. B, 71, 165432",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Lateral Templating of Self-Organized Ripple Morphologies During Focused Ion Beam Milling of Ge",
+      "year": 2005,
+      "citation_raw": "S. Ichim and M. J. Aziz. 2005. “Lateral Templating of Self-Organized Ripple Morphologies During Focused Ion Beam Milling of Ge”. J. Vac. Sci. Technol. B, 23, 1068-1071",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Grooving of a Grain Boundary by Evaporation-Condensation below the Roughening Transition",
+      "year": 2005,
+      "citation_raw": "H.A. Stone, D. Margetis, and M. J. Aziz. 2005. “Grooving of a Grain Boundary by Evaporation-Condensation below the Roughening Transition”. J. Appl. Phys., 97, 113535",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Activation Volume for Phosphorus Diffusion in Silicon and Si_0.93Ge_0.07",
+      "year": 2005,
+      "citation_raw": "Y. Zhao, M. J. Aziz, N.R. Zangenberg, and A.N. Larsen. 2005. “Activation Volume for Phosphorus Diffusion in Silicon and Si_0.93Ge_0.07”. Appl. Phys. Lett., 86, 141902",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Unified Kinetic Model of Dopant Segregation During Vapor Phase Growth",
+      "year": 2005,
+      "citation_raw": "C.B. Arnold and M. J. Aziz. 2005. “Unified Kinetic Model of Dopant Segregation During Vapor Phase Growth”. Phys. Rev. B, 72, 195419",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Synthesis of Nearly Monodisperse Embedded Nanoparticles by Separating Nucleation and Growth in Ion Implantation",
+      "year": 2005,
+      "citation_raw": "V. Ramaswamy, T.E. Haynes, C.W. White, W.J. MoberlyChan, S. Roorda, and M. J. Aziz. 2005. “Synthesis of Nearly Monodisperse Embedded Nanoparticles by Separating Nucleation and Growth in Ion Implantation”. Nano Lett., 5, Pp. 373-77",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Introduction to ’A Treatment of the Solute Drag on Moving Grain Boundaries and Phase Interfaces in Binary Alloys’, by M. Hillert and B. Sundman",
+      "year": 2005,
+      "citation_raw": "M. J. Aziz. 2005. “Introduction to ’A Treatment of the Solute Drag on Moving Grain Boundaries and Phase Interfaces in Binary Alloys’, by M. Hillert and B. Sundman”. In Thermodynamics and Phase Transformations: The Selected Works of Mats Hillert, edited by J. Agren, Y. Brechet, C. Hutchinson, J. Philibert, and G. Purdy, Pp. 401. France: EDP Sciences, Les Ulis Cedex A",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Lateral Templating for Guided Self-Organization of Sputter Morphologies",
+      "year": 2005,
+      "citation_raw": "A. Cuenat, H. B. George, K.-C. Chang, J.M. Blakely, and M. J. Aziz. 2005. “Lateral Templating for Guided Self-Organization of Sputter Morphologies”. Adv. Mater., 17, 2845",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Comparison of Morphology Evolution of Ge(001) Homoepitaxial Films Grown by Pulsed Laser Deposition and Molecular Beam Epitaxy",
+      "year": 2005,
+      "citation_raw": "B. Shin, J.P. Leonard, J.W. McCamy, and M. J. Aziz. 2005. “Comparison of Morphology Evolution of Ge(001) Homoepitaxial Films Grown by Pulsed Laser Deposition and Molecular Beam Epitaxy”. Appl. Phys. Lett., 87, 181916",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Shocks in Ion Sputtering Sharpen Steep Surface Features",
+      "year": 2005,
+      "citation_raw": "H. H. Chen, O.A. Urquidez, S. Ichim, L. Humberto Rodriguez, M.P. Brenner, and M. J. Aziz. 2005. “Shocks in Ion Sputtering Sharpen Steep Surface Features”. Science, 310, 294",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Quantifying the Order of Spontaneous Ripple Patterns on Ion-Irradiated Si(111)",
+      "year": 2005,
+      "citation_raw": "H. B. George, A.-D. Brown, M.R. McGrath, J. Erlebacher, and M. J. Aziz. 2005. “Quantifying the Order of Spontaneous Ripple Patterns on Ion-Irradiated Si(111)”. Mater. Res. Soc. Symp. Proc., 908E, OO2.4",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Dopant Diffusion under Pressure and Stress",
+      "year": 2003,
+      "citation_raw": "M. J. Aziz. 2003. “Dopant Diffusion under Pressure and Stress”",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Synthesis of GaN_xAs_1-X Thin Films by Pulsed Laser Melting and Rapid Thermal Annealing of N^+-Implanted GaAs",
+      "year": 2003,
+      "citation_raw": "K.M. Yu, W. Walukiewicz, M.A. Scarpulla, O.D. Dubon, J. Wu, J. Jasinski, Z. Liliental-Weber, J.W. Beeman, M.R. Pillai, and M. J. Aziz. 2003. “Synthesis of GaN_xAs_1-X Thin Films by Pulsed Laser Melting and Rapid Thermal Annealing of N^+-Implanted GaAs”. J. Appl. Phys., 94, Pp. 1043-49",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Kinetic Modeling of Dopant and Impurity Surface Segregation During Vapor Phase Growth: Multiple Mechanism Approach",
+      "year": 2003,
+      "citation_raw": "C.B. Arnold and M. J. Aziz. 2003. “Kinetic Modeling of Dopant and Impurity Surface Segregation During Vapor Phase Growth: Multiple Mechanism Approach”. Mater. Res. Soc. Symp. Proc., 749, W14.3",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "The Effects of a Stress-Dependent Mobility on Interfacial Stability",
+      "year": 2002,
+      "citation_raw": "P.W. Voorhees and M. J. Aziz. 2002. “The Effects of a Stress-Dependent Mobility on Interfacial Stability”. In Interfaces for the Twenty-First Century: New Research Directions in Fluid Mechanics and Materials Science, edited by M.K. Smith, M.J. Miksis, G.B. McFadden, G.P. Neitzel, and D.R. Canright. London: Imperial College Press",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Spontaneous Pattern Formation from Focused and Unfocused Ion Beam Irradiation",
+      "year": 2002,
+      "citation_raw": "A. Cuenat and M. J. Aziz. 2002. “Spontaneous Pattern Formation from Focused and Unfocused Ion Beam Irradiation”. Mater. Res. Soc. Symp. Proc., 696, Pp. N2.8.1-N2.8.6",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Modeling a Growth Instability in Stressed Boron Doped Silicon",
+      "year": 2002,
+      "citation_raw": "A.-V. Phan, T. Kaplan, L.J. Gray, W. Barvosa-Carter, and M. J. Aziz. 2002. “Modeling a Growth Instability in Stressed Boron Doped Silicon”",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Enhanced Nitrogen Incorporation by Pulsed Laser Melting of GaN_xAs_1-X Formed by N Implantation",
+      "year": 2002,
+      "citation_raw": "K.M. Yu, W. Walukiewicz, J.W. Beeman, M.A. Scarpulla, O.D. Dubon, M.R. Pillai, and M. J. Aziz. 2002. “Enhanced Nitrogen Incorporation by Pulsed Laser Melting of GaN_xAs_1-X Formed by N Implantation”. Appl. Phys. Lett., 80, Pp. 3958-60",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Stress Effects on Defects and Dopant Diffusion in Si",
+      "year": 2001,
+      "citation_raw": "M. J. Aziz. 2001. “Stress Effects on Defects and Dopant Diffusion in Si”. Mater. Sci. Semicond. Process., 4, Pp. 397-403",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Liquid Titanium Solute Diffusion Measured by Pulsed Ion-Beam Melting",
+      "year": 2001,
+      "citation_raw": "P.G. Sanders, M.O. Thompson, T.J. Renk, and M. J. Aziz. 2001. “Liquid Titanium Solute Diffusion Measured by Pulsed Ion-Beam Melting”. Metall. Mat. Trans. A, 32, Pp. 2969-74",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Doping by Metal-Mediated Epitaxy: Growth of As Delta-Doped Si Through a Pb Monolayer",
+      "year": 2001,
+      "citation_raw": "O.D. Dubon, P.G. Evans, M.F. Chisholm, D. A. Muller, J.F. Chervinsky, M. J. Aziz, F. Spaepen, and J.A. Golovchenko. 2001. “Doping by Metal-Mediated Epitaxy: Growth of As Delta-Doped Si Through a Pb Monolayer”. Appl. Phys. Lett., 78, Pp. 1505-7",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Dynamics of Pattern Formation During Low Energy Ion Bombardment of Si(001)",
+      "year": 2001,
+      "citation_raw": "E. Chason, J. Erlebacher, M. J. Aziz, J.A. Floro, and M.B. Sinclair. 2001. “Dynamics of Pattern Formation During Low Energy Ion Bombardment of Si(001)”. Nucl. Instr. Meth. B, 178, Pp. 55-61",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Evolution of Nanoporosity in Dealloying",
+      "year": 2001,
+      "citation_raw": "J.D. Erlebacher, M. J. Aziz, A. Karma, N. Dmitrov, and K. Sieradzki. 2001. “Evolution of Nanoporosity in Dealloying”. Nature, 410, Pp. 450-53",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "On Kinetically Vs. Energetically Driven Growth Instabilities in Solid and Vapor Phase Epitaxy",
+      "year": 2000,
+      "citation_raw": "M. J. Aziz. 2000. “On Kinetically Vs. Energetically Driven Growth Instabilities in Solid and Vapor Phase Epitaxy”. Mater. Res. Soc. Symp. Proc., 618, Pp. 233-41",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "The Tetrahedral Motif in Metal Structures",
+      "year": 2000,
+      "citation_raw": "D. Turnbull and M. J. Aziz. 2000. “The Tetrahedral Motif in Metal Structures”. In The Science of Alloys for the 21st Century: A Hume-Rothery Celebration, Pp. 179-82. Warrendale, PA: TMS - The Minerals, Metals & Materials Society",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Parameter-Free Test of Alloy Dendrite Growth Theory",
+      "year": 1999,
+      "citation_raw": "C.B. Arnold, M. J. Aziz, M. Schwarz, and D.M. Herlach. 1999. “Parameter-Free Test of Alloy Dendrite Growth Theory”. Phys. Rev. B, 59, Pp. 334-43",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Activation Volume for Boron Diffusion in Silicon and Implications for Strained Films",
+      "year": 1999,
+      "citation_raw": "Y. Zhao, M. J. Aziz, H.-J. Gossmann, S. Mitha, and D. Schiferl. 1999. “Activation Volume for Boron Diffusion in Silicon and Implications for Strained Films”. Appl. Phys. Lett., 74, Pp. 31-33",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Spontaneous Pattern Formation on Ion Bombarded Si(001)",
+      "year": 1999,
+      "citation_raw": "J.D. Erlebacher, M. J. Aziz, E. Chason, M.B. Sinclair, and J.A. Floro. 1999. “Spontaneous Pattern Formation on Ion Bombarded Si(001)”. Phys. Rev. Lett., 82, Pp. 2330-33",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Activation Volume for Antimony Diffusion in Silicon and Implications for Strained Films",
+      "year": 1999,
+      "citation_raw": "Y. Zhao, M. J. Aziz, H.-J. Gossmann, S. Mitha, and D. Schiferl. 1999. “Activation Volume for Antimony Diffusion in Silicon and Implications for Strained Films”. Appl. Phys. Lett., 75, Pp. 941-43",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Low-Temperature Si(111) Homoepitaxy and Doping Mediated by a Monolayer of Pb",
+      "year": 1999,
+      "citation_raw": "O.D. Dubon, P.G. Evans, J.F. Chervinsky, F. Spaepen, M. J. Aziz, and J.A. Golovchenko. 1999. “Low-Temperature Si(111) Homoepitaxy and Doping Mediated by a Monolayer of Pb”. Mater. Res. Soc. Symp. Proc., 570, Pp. 45-49",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Alloy Corrosion",
+      "year": 1999,
+      "citation_raw": "R.C. Newman, S.G. Corcoran, J.D. Erlebacher, M. J. Aziz, and K. Sieradzki. 1999. “Alloy Corrosion”. MRS Bulletin, 24, 7, Pp. 24-28",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Self-Diffusivity of Liquid Silicon Measured by Pulsed Laser Melting",
+      "year": 1999,
+      "citation_raw": "P.G. Sanders and M. J. Aziz. 1999. “Self-Diffusivity of Liquid Silicon Measured by Pulsed Laser Melting”. J. Appl. Phys., 86, Pp. 4258-61",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Crystallinities and Light Emitting Properties of Nanostructured SiGe Alloy Prepared by Pulsed Laser Ablation in Inert Background Gases",
+      "year": 1999,
+      "citation_raw": "T. Yoshida, Y. Yamada, N. Suzuki, T. Makino, T. Orii, K. Murakami, D.B. Geohegan, D.H. Lowndes, and M. J. Aziz. 1999. “Crystallinities and Light Emitting Properties of Nanostructured SiGe Alloy Prepared by Pulsed Laser Ablation in Inert Background Gases”",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Stoichiometry Issues in Pulsed Laser Deposition of Alloys Grown from Multicomponent Targets",
+      "year": 1999,
+      "citation_raw": "C.B. Arnold and M. J. Aziz. 1999. “Stoichiometry Issues in Pulsed Laser Deposition of Alloys Grown from Multicomponent Targets”. Appl. Phys. A, 69, Pp. S23-S27",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Thermodynamics of Diffusion under Pressure and Stress: Relation to Point Defect Mechanisms",
+      "year": 1997,
+      "citation_raw": "M. J. Aziz. 1997. “Thermodynamics of Diffusion under Pressure and Stress: Relation to Point Defect Mechanisms”. Appl. Phys. Lett., 70, Pp. 2810-12",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Effect of Pressure on Boron Diffusion in Silicon",
+      "year": 1997,
+      "citation_raw": "Y. Zhao, M. J. Aziz, S. Mitha, and D. Schiferl. 1997. “Effect of Pressure on Boron Diffusion in Silicon”. Mater. Res. Soc. Symp. Proc., 442, Pp. 305-10",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Effect of Non-Hydrostatic Stress on Kinetics and Interfacial Roughness During Solid Phase Epitaxial Growth in Si",
+      "year": 1997,
+      "citation_raw": "W. Barvosa-Carter and M. J. Aziz. 1997. “Effect of Non-Hydrostatic Stress on Kinetics and Interfacial Roughness During Solid Phase Epitaxial Growth in Si”. Mater. Res. Soc. Symp. Proc., 441, Pp. 75-80",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Ion-Sputter Induced Rippling of Si(111)",
+      "year": 1997,
+      "citation_raw": "J.D. Erlebacher and M. J. Aziz. 1997. “Ion-Sputter Induced Rippling of Si(111)”. Mater. Res. Soc. Symp. Proc., 440, Pp. 461-66",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Surface Relaxation Mechanisms in the Morphological Equilibration of Crystal Surfaces",
+      "year": 1997,
+      "citation_raw": "J.D. Erlebacher and M. J. Aziz. 1997. “Surface Relaxation Mechanisms in the Morphological Equilibration of Crystal Surfaces”. Mater. Res. Soc. Symp. Proc., 440, Pp. 59-64",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Time-Resolved RHEED Studies of the Growth of Epitaxial ZnSe Films on GaAs by Pulsed Laser Deposition",
+      "year": 1997,
+      "citation_raw": "J.W. McCamy and M. J. Aziz. 1997. “Time-Resolved RHEED Studies of the Growth of Epitaxial ZnSe Films on GaAs by Pulsed Laser Deposition”. Mater. Res. Soc. Symp. Proc., 441, Pp. 621-26",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Nonhydrostatic Stress Effects on Boron Diffusion in Si",
+      "year": 1997,
+      "citation_raw": "M. J. Aziz. 1997. “Nonhydrostatic Stress Effects on Boron Diffusion in Si”. Mater. Res. Soc. Symp. Proc., 469, Pp. 37-46",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Vanishing Atomic Migration Barrier in SiO_2",
+      "year": 1997,
+      "citation_raw": "M. J. Aziz, S. Circone, and C.B. Agee. 1997. “Vanishing Atomic Migration Barrier in SiO_2”. Nature, 390, 596-599",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Anomalous Diffusion of Fe in Liquid Al Measured by the Pulsed Laser Technique",
+      "year": 1996,
+      "citation_raw": "N. Isono, P. M. Smith, D. Turnbull, and M. J. Aziz. 1996. “Anomalous Diffusion of Fe in Liquid Al Measured by the Pulsed Laser Technique”. Metall. Mat. Trans. A, 27, Pp. 725-30",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Interface Attachment Kinetics in Alloy Solidification",
+      "year": 1996,
+      "citation_raw": "M. J. Aziz. 1996. “Interface Attachment Kinetics in Alloy Solidification”. Metall. Mat. Trans. A, 27, Pp. 671-86",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Pressure-Enhanced Interdiffusion in Amorphous Si Ge Multilayers",
+      "year": 1996,
+      "citation_raw": "S.D. Theiss, F. Spaepen, and M. J. Aziz. 1996. “Pressure-Enhanced Interdiffusion in Amorphous Si Ge Multilayers”. Appl. Phys. Lett., 68, Pp. 1226-28",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Test of Kinetic Models for Interface Velocity, Temperature, and Solute Trapping in Rapid Solidification",
+      "year": 1996,
+      "citation_raw": "J.A. Kittl, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 1996. “Test of Kinetic Models for Interface Velocity, Temperature, and Solute Trapping in Rapid Solidification”. Mater. Res. Soc. Symp. Proc., 398, Pp. 119-26",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=22"
+    },
+    {
+      "title": "Nonequilibrium Interface Kinetics During Rapid Solidification",
+      "year": 1994,
+      "citation_raw": "M. J. Aziz. 1994. “Nonequilibrium Interface Kinetics During Rapid Solidification”. Mater. Sci. Eng. A, 178, Pp. 167-70",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Questions and Answers on the Activation Strain",
+      "year": 1994,
+      "citation_raw": "M. J. Aziz. 1994. “Questions and Answers on the Activation Strain”. Mater. Res. Soc. Symp. Proc., 321, Pp. 449-59",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Trends in Solute Segregation Behavior During Silicon Solidification",
+      "year": 1994,
+      "citation_raw": "R. Reitano, P. M. Smith, and M. J. Aziz. 1994. “Trends in Solute Segregation Behavior During Silicon Solidification”. Mater. Res. Soc. Symp. Proc., 321, Pp. 479-84",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Interdiffusion of Amorphous Si Ge Multilayers Under Hydrostatic Pressure",
+      "year": 1994,
+      "citation_raw": "S.D. Theiss, S. Mitha, F. Spaepen, and M. J. Aziz. 1994. “Interdiffusion of Amorphous Si Ge Multilayers Under Hydrostatic Pressure”. Mater. Res. Soc. Symp. Proc., 321, Pp. 59-64",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Effect of Pressure on Arsenic Diffusion in Germanium",
+      "year": 1994,
+      "citation_raw": "S. Mitha, S.D. Theiss, M. J. Aziz, D. Schiferl, and D.B. Poker. 1994. “Effect of Pressure on Arsenic Diffusion in Germanium”. Mater. Res. Soc. Symp. Proc., 325, Pp. 189-94",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Solute Trapping in Aluminum Alloys",
+      "year": 1994,
+      "citation_raw": "P. M. Smith and M. J. Aziz. 1994. “Solute Trapping in Aluminum Alloys”. Acta Metall. Mater., 42, Pp. 3515-25",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Solute Trapping of Group III, IV and V Elements in Silicon by Aperiodic Stepwise Growth Mechanism",
+      "year": 1994,
+      "citation_raw": "R. Reitano, P. M. Smith, and M. J. Aziz. 1994. “Solute Trapping of Group III, IV and V Elements in Silicon by Aperiodic Stepwise Growth Mechanism”. J. Appl. Phys., 76, Pp. 1518-29",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Solidification — Rapid Growth Kinetics",
+      "year": 1994,
+      "citation_raw": "M. J. Aziz. 1994. “Solidification — Rapid Growth Kinetics”. In Encyclopedia of Advanced Materials, Pp. 2187-94. Oxford: Pergamon Press",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Time-Resolved Temperature Measurements During Rapid Solidification of Si-As Alloys Induced by Pulsed-Laser Melting",
+      "year": 1993,
+      "citation_raw": "J.A. Kittl, R. Reitano, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 1993. “Time-Resolved Temperature Measurements During Rapid Solidification of Si-As Alloys Induced by Pulsed-Laser Melting”. J. Appl. Phys., 73, Pp. 3725-33",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Solute Trapping in Metals",
+      "year": 1993,
+      "citation_raw": "P. M. Smith, R. Reitano, and M. J. Aziz. 1993. “Solute Trapping in Metals”. Mater. Res. Soc. Symp. Proc., 279, Pp. 749-55",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Congruent Melting Temperatures of Si-As Alloys Measured During Pulsed-Laser Melting and Rapid Solidification",
+      "year": 1993,
+      "citation_raw": "J.A. Kittl, R. Reitano, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 1993. “Congruent Melting Temperatures of Si-As Alloys Measured During Pulsed-Laser Melting and Rapid Solidification”. Mater. Res. Soc. Symp. Proc., 279, Pp. 691-97",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Restricted Applicability of Onsager’s Reciprocity Relations to Models of Interface Motion",
+      "year": 1993,
+      "citation_raw": "T. Kaplan, M. J. Aziz, and L.J. Gray. 1993. “Restricted Applicability of Onsager’s Reciprocity Relations to Models of Interface Motion”. J. Chem. Phys., 99, Pp. 8031-37",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Effect of Nonequilibrium Interface Kinetics on Cellular Breakdown of Planar Interface During Rapid Solidification of Si-Sn",
+      "year": 1991,
+      "citation_raw": "D.E. Hoglund, M. J. Aziz, S.R. Stiffler, M.O. Thompson, J.Y. Tsao, and P.S. Peercy. 1991. “Effect of Nonequilibrium Interface Kinetics on Cellular Breakdown of Planar Interface During Rapid Solidification of Si-Sn”. J. Cryst. Growth, 109, Pp. 107-12",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "Formation of Metastable Disordered Ni_3Al by Pulsed Laser-Induced Rapid Solidification",
+      "year": 1991,
+      "citation_raw": "J.A. Weset, J.T. Manos, and M. J. Aziz. 1991. “Formation of Metastable Disordered Ni_3Al by Pulsed Laser-Induced Rapid Solidification”. Mater. Res. Soc. Symp. Proc., 213, Pp. 859-64",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "The Activation Strain Tensor: Nonhydrostatic Stress Effects on Crystal Growth Kinetics",
+      "year": 1991,
+      "citation_raw": "M. J. Aziz, P.C. Sabin, and G.-Q. Lu. 1991. “The Activation Strain Tensor: Nonhydrostatic Stress Effects on Crystal Growth Kinetics”. Phys. Rev. B, 44, Pp. 9812-16",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "Effect of Nonhydrostatic Stress on Crystal Growth Kinetics",
+      "year": 1991,
+      "citation_raw": "M. J. Aziz, P.C. Sabin, and G.-Q. Lu. 1991. “Effect of Nonhydrostatic Stress on Crystal Growth Kinetics”. Mater. Res. Soc. Symp. Proc., 202, Pp. 567-72",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "Pressure-Enhanced Crystallization Kinetics of Amorphous Si and Ge: Implications for Point Defect Mechanisms",
+      "year": 1991,
+      "citation_raw": "G.-Q. Lu, E. Nygren, and M. J. Aziz. 1991. “Pressure-Enhanced Crystallization Kinetics of Amorphous Si and Ge: Implications for Point Defect Mechanisms”. J. Appl. Phys., 70, Pp. 5323-45",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "Pressure-Enhanced Solid Phase Epitaxy of Ge",
+      "year": 1990,
+      "citation_raw": "G.-Q. Lu, E. Nygren, M. J. Aziz, D. Turnbull, and C.W. White. 1990. “Pressure-Enhanced Solid Phase Epitaxy of Ge”. Appl. Phys. Lett., 56, Pp. 137-39",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "Time-Resolved Measurements of Solidification and Undercooling in Metals and Alloys",
+      "year": 1990,
+      "citation_raw": "H. A. Atwater, J.A. West, P. M. Smith, M. J. Aziz, J.Y. Tsao, P.S. Peercy, and M.O. Thompson. 1990. “Time-Resolved Measurements of Solidification and Undercooling in Metals and Alloys”. Mater. Res. Soc. Symp. Proc., 157, Pp. 369-75",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "Application of Onsager’s Reciprocity Relations to Interface Motion During Phase Transformations",
+      "year": 1989,
+      "citation_raw": "T. Kaplan, M. J. Aziz, and L.J. Gray. 1989. “Application of Onsager’s Reciprocity Relations to Interface Motion During Phase Transformations”. J. Chem. Phys., 90, Pp. 1133-40",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "High Pressure Crystallization of As_2S_3",
+      "year": 1989,
+      "citation_raw": "G. Devaud, M. J. Aziz, and D. Turnbull. 1989. “High Pressure Crystallization of As_2S_3”. J. Non-Cryst. Solids, 109, Pp. 121-28",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "Theory for the Trapping of Disorder and Solute in Intermetallic Phases by Rapid Solidification",
+      "year": 1989,
+      "citation_raw": "W.J. Boettinger and M. J. Aziz. 1989. “Theory for the Trapping of Disorder and Solute in Intermetallic Phases by Rapid Solidification”. Acta Metallurgica, 37, Pp. 3379-91",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "Interferrometric Measurement of the Pressure-Enhanced Crystallization Rate of Amorphous Si",
+      "year": 1989,
+      "citation_raw": "G.-Q. Lu, E. Nygren, M. J. Aziz, D. Turnbull, and C.W. White. 1989. “Interferrometric Measurement of the Pressure-Enhanced Crystallization Rate of Amorphous Si”. Appl. Phys. Lett., 54, Pp. 2583-85",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "Continuous Growth Model for Alloy Solidification",
+      "year": 1988,
+      "citation_raw": "M. J. Aziz and T. Kaplan. 1988. “Continuous Growth Model for Alloy Solidification”. Acta Metall. Mater., 36, Pp. 2335-47",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=26"
+    },
+    {
+      "title": "Energy Deposition, Heat Flow, and Rapid Solidification During Laser and Electron Beam Irradiation of Materials",
+      "year": 1986,
+      "citation_raw": "C.W. White and M. J. Aziz. 1986. “Energy Deposition, Heat Flow, and Rapid Solidification During Laser and Electron Beam Irradiation of Materials”. In Surface Alloying by Ion, Electron, and Laser Beams, Pp. 19-50. Metals Park, Ohio: American Society for Metals",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
+    },
+    {
+      "title": "Modeling and Measurements of Solute Trapping",
+      "year": 1986,
+      "citation_raw": "M. J. Aziz. 1986. “Modeling and Measurements of Solute Trapping”. In Laser Surface Treatment of Metals, Pp. 649-62. The Hague, Netherlands: Martinus Nijhoff Publishers",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
+    },
+    {
+      "title": "Rapid Solidification Studies of a Model Alloy System",
+      "year": 1986,
+      "citation_raw": "M.O. Thompson, P.S. Peercy, J.Y. Tsao, and M. J. Aziz. 1986. “Rapid Solidification Studies of a Model Alloy System”. Appl. Phys. Lett., 49, Pp. 558-60",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
+    },
+    {
+      "title": "Formation of Icosahedral Al-Mn by Ion Implantation into Oriented Crystalline Films",
+      "year": 1986,
+      "citation_raw": "J.D. Budai and M. J. Aziz. 1986. “Formation of Icosahedral Al-Mn by Ion Implantation into Oriented Crystalline Films”. Phys. Rev. B, 33, Pp. 2876-78",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
+    },
+    {
+      "title": "Solute Trapping: Comparison of Theory With Experiment",
+      "year": 1986,
+      "citation_raw": "M. J. Aziz, J.Y. Tsao, M.O. Thompson, P.S. Peercy, and C.W. White. 1986. “Solute Trapping: Comparison of Theory With Experiment”. Phys. Rev. Lett., 56, Pp. 2489-92",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
+    },
+    {
+      "title": "Asymmetric Melting and Freezing Kinetics in Silicon",
+      "year": 1986,
+      "citation_raw": "J.Y. Tsao, M. J. Aziz, M.O. Thompson, and P.S. Peercy. 1986. “Asymmetric Melting and Freezing Kinetics in Silicon”. Phys. Rev. Lett., 56, Pp. 2712-15",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
+    },
+    {
+      "title": "Precipitation of Icosahedral Al-Mn During Pulsed Laser Melting",
+      "year": 1986,
+      "citation_raw": "M. J. Aziz and J.D. Budai. 1986. “Precipitation of Icosahedral Al-Mn During Pulsed Laser Melting”. J. Mater. Res., 1, Pp. 401-4",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
+    },
+    {
+      "title": "Ion Implantation and Annealing of Crystalline Oxides",
+      "year": 1986,
+      "citation_raw": "C.W. White, P.S. Sklad, L.A. Boatner, G.C. Farlow, C.J. McHargue, B.C. Sales, and M. J. Aziz. 1986. “Ion Implantation and Annealing of Crystalline Oxides”. Mater. Res. Soc. Symp. Proc., 60, Pp. 337-44",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
+    },
+    {
+      "title": "Solute Trapping in Silicon by Lateral Motion of 111 Ledges",
+      "year": 1986,
+      "citation_raw": "M. J. Aziz and C.W. White. 1986. “Solute Trapping in Silicon by Lateral Motion of 111 Ledges”. Phys. Rev. Lett., 57, Pp. 2675-78",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
+    },
+    {
+      "title": "Pressure Dependence of Arsenic Diffusivity in Silicon",
+      "year": 1985,
+      "citation_raw": "E. Nygren, M. J. Aziz, D. Turnbull, J.F. Hays, J.M. Poate, D.C. Jacobson, and R. Hull. 1985. “Pressure Dependence of Arsenic Diffusivity in Silicon”. Mater. Res. Soc. Symp. Proc., 36, Pp. 77-82",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
+    },
+    {
+      "title": "Effect of Pressure on Self Diffusion in Crystalline Silicon",
+      "year": 1985,
+      "citation_raw": "M. J. Aziz, E. Nygren, W.H. Christie, C.W. White, and D. Turnbull. 1985. “Effect of Pressure on Self Diffusion in Crystalline Silicon”. Mater. Res. Soc. Symp. Proc., 36, Pp. 101-4",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
+    },
+    {
+      "title": "Pressure Dependence of Arsenic Diffusivity in Silicon",
+      "year": 1985,
+      "citation_raw": "E. Nygren, M. J. Aziz, D. Turnbull, J.M. Poate, D.C. Jacobson, and R. Hull. 1985. “Pressure Dependence of Arsenic Diffusivity in Silicon”. Appl. Phys. Lett., 47, Pp. 105-7",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=28"
     },
     {
       "title": "A Highly Soluble Iron-Based Posolyte Species With High Redox Potential for Aqueous Redox Flow Batteries",
@@ -680,6 +1480,150 @@
       "source_url": "https://aziz.seas.harvard.edu/publications?page=7"
     },
     {
+      "title": "Stress Evolution in Si During Low Energy Ion Bombardment",
+      "year": 2015,
+      "citation_raw": "Y. Ishii, C.S. Madi, M. J. Aziz, and E. Chason. 2015. “Stress Evolution in Si During Low Energy Ion Bombardment”. J. Mater. Res., 29, 24, Pp. 2942-48",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Cycling of a Quinone-Bromide Flow Battery for Large-Scale Electrochemical Energy Storage",
+      "year": 2014,
+      "citation_raw": "B. Huskinson, M.P. Marshak, M. R. Gerhardt, and M. J. Aziz. 2014. “Cycling of a Quinone-Bromide Flow Battery for Large-Scale Electrochemical Energy Storage”. ECS Trans., 61, Pp. 27",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Enhancing the Infrared Photoresponse of Silicon by Controlling the Fermi Level Location Within an Impurity Band",
+      "year": 2014,
+      "citation_raw": "C.B. Simmons, A.J. Akey, J. P. Mailoa, D. Recht, M. J. Aziz, and T. Buonassisi. 2014. “Enhancing the Infrared Photoresponse of Silicon by Controlling the Fermi Level Location Within an Impurity Band”. Adv. Funct. Mater., 24, Pp. 2852-58",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Morphological Stability During Solidification of Silicon Incorporating Metallic Impurities",
+      "year": 2014,
+      "citation_raw": "J. M. Warrender, J. Mathews, D. Recht, M. Smith, S. Grade\\v cak, and M. J. Aziz. 2014. “Morphological Stability During Solidification of Silicon Incorporating Metallic Impurities”. J. Appl. Phys., 115, Pp. 163516",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Picosecond Carrier Recombination Dynamics in Chalcogen-Hyperdoped Silicon",
+      "year": 2014,
+      "citation_raw": "M.-J. Sher, C.B. Simmons, J.J. Krich, A.J. Akey, M. T. Winkler, D. Recht, T. Buonassisi, M. J. Aziz, and A.M. Lindenberg. 2014. “Picosecond Carrier Recombination Dynamics in Chalcogen-Hyperdoped Silicon”. Appl. Phys. Lett, 105, Pp. 053905",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Room-Temperature Sub-Band Gap Optoelectronic Response of Hyperdoped Silicon",
+      "year": 2014,
+      "citation_raw": "J. P. Mailoa, A.J. Akey, C.B. Simmons, D. Hutchinson, J. Mathews, J.T. Sullivan, D. Recht, M. T. Winkler, J. S. Williams, J. M. Warrender, P.D. Persans, M. J. Aziz, and T. Buonassisi. 2014. “Room-Temperature Sub-Band Gap Optoelectronic Response of Hyperdoped Silicon”. Nature Communications, 5, Pp. 3011",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Thermodynamic Analysis of a Compressed Air Energy Storage Facility Exporting Compression Heat to an External Heat Load",
+      "year": 2014,
+      "citation_raw": "H. Safaei and M. J. Aziz. 2014. “Thermodynamic Analysis of a Compressed Air Energy Storage Facility Exporting Compression Heat to an External Heat Load”",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "On the Limits to Ti Incorporation into Si Using Pulsed Laser Melting",
+      "year": 2014,
+      "citation_raw": "J. Mathews, A.J. Akey, D. Recht, G. Malladi, H. Efstathiadis, M. J. Aziz, and J. M. Warrender. 2014. “On the Limits to Ti Incorporation into Si Using Pulsed Laser Melting”. Appl. Phys. Lett., 104, Pp. 112102",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Model-Independent Test of the Truncated Crater Function Theory of Surface Morphology Evolution During Ion Bombardment",
+      "year": 2014,
+      "citation_raw": "J.C. Perkinson, E. Anzenberg, M. J. Aziz, and Jr. K.F. Ludwig. 2014. “Model-Independent Test of the Truncated Crater Function Theory of Surface Morphology Evolution During Ion Bombardment”. Phys. Rev. B, 89, Pp. 115433",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "A Metal-Free Organic–inorganic Aqueous Flow Battery",
+      "year": 2014,
+      "citation_raw": "Brian Huskinson, Michael P. Marshak, Süleyman Er, Michael R. Gerhardt, Cooper J. Galvin, Xudong Chen, Alán Aspuru-Guzik, Roy G. Gordon, and Michael J. Aziz. 2014. “A Metal-Free Organic–inorganic Aqueous Flow Battery”. Edited by Changwon Suh. Nature, 505, Pp. 195-98",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Crater Functions for Compound Materials: A Route to Parameter Estimation in Coupled-PDE Models of Ion Bombardment",
+      "year": 2014,
+      "citation_raw": "S.A. Norris, J. Samela, M. Vestberg, K. Nordlund, and M. J. Aziz. 2014. “Crater Functions for Compound Materials: A Route to Parameter Estimation in Coupled-PDE Models of Ion Bombardment”. Nucl. Instrum. Meth. B, 318, Pp. 245-52",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Deactivation of Metastable Single-Crystal Silicon Hyperdoped With Sulfur",
+      "year": 2013,
+      "citation_raw": "C.B. Simmons, A.J. Akey, J.J. Krich, J.T. Sullivan, D. Recht, M. J. Aziz, and T. Buonassisi. 2013. “Deactivation of Metastable Single-Crystal Silicon Hyperdoped With Sulfur”. J. Appl. Phys., 114, Pp. 243514",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Controlling Dopant Profiles in Hyperdoped Silicon by Modifying Dopant Evaporation Rates During Pulsed Laser Melting",
+      "year": 2012,
+      "citation_raw": "D. Recht, J.T. Sullivan, R. Reedy, T. Buonassisi, and M. J. Aziz. 2012. “Controlling Dopant Profiles in Hyperdoped Silicon by Modifying Dopant Evaporation Rates During Pulsed Laser Melting”. Appl. Phys. Lett., 100, 112112",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Tunable Nanometer Electrode Gaps by MeV Ion Irradiation",
+      "year": 2012,
+      "citation_raw": "J.-C. Cheang-Wong, K. Narumi, G.M. Schürmann, M. J. Aziz, and J.A. Golovchenko. 2012. “Tunable Nanometer Electrode Gaps by MeV Ion Irradiation”. Appl. Phys. Lett., 100, 153108",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Creating Sharp Features by Colliding Shocks on Uniformly Irradiated Surfaces",
+      "year": 2012,
+      "citation_raw": "M. Holmes-Cerfon, M. J. Aziz, and M.P. Brenner. 2012. “Creating Sharp Features by Colliding Shocks on Uniformly Irradiated Surfaces”. Phys. Rev. B, 85, 165441",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "A High Power Density, High Efficiency Hydrogen-Chlorine Regenerative Fuel Cell With a Low Precious Metal Content Catalyst",
+      "year": 2012,
+      "citation_raw": "B. Huskinson, J. Rugolo, S.K. Mondal, and M. J. Aziz. 2012. “A High Power Density, High Efficiency Hydrogen-Chlorine Regenerative Fuel Cell With a Low Precious Metal Content Catalyst”. Energy & Environmental Science, 5, 8690",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Photocarrier Lifetime and Transport in Silicon Supersaturated With Sulfur",
+      "year": 2012,
+      "citation_raw": "P.D. Persans, N.E. Berry, D. Recht, D. Hutchinson, H. Peterson, J. Clark, S. Charnvanichborikarn, J. S. Williams, A. DiFranzo, M. J. Aziz, and J. M. Warrender. 2012. “Photocarrier Lifetime and Transport in Silicon Supersaturated With Sulfur”. Appl. Phys. Lett., 101, 111105",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Nanoscale Topographic Pattern Formation on Kr+-Bombarded Germanium Surfaces",
+      "year": 2012,
+      "citation_raw": "J.C. Perkinson, C.S. Madi, and M. J. Aziz. 2012. “Nanoscale Topographic Pattern Formation on Kr+-Bombarded Germanium Surfaces”. J. Vac. Sci. Technol. A, 31, 021405",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Nanoscale Surface Pattern Formation Kinetics on Germanium Irradiated by Kr+ Ions",
+      "year": 2012,
+      "citation_raw": "E. Anzenberg, J.C. Perkinson, C.S. Madi, M. J. Aziz, and Jr. K.F. Ludwig. 2012. “Nanoscale Surface Pattern Formation Kinetics on Germanium Irradiated by Kr+ Ions”. Phys. Rev. B, 86, 245412",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Development of Knife-Edge Ridges on Ion-Bombarded Surfaces",
+      "year": 2012,
+      "citation_raw": "M. Holmes-Cerfon, W. Zhou, A.L. Bertozzi, M.P. Brenner, and M. J. Aziz. 2012. “Development of Knife-Edge Ridges on Ion-Bombarded Surfaces”. Appl. Phys. Lett., 102, 143109",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Soft X-Ray Emission Spectroscopy Studies of the Electronic Surface of Silicon Supersaturated With Sulfur",
+      "year": 2011,
+      "citation_raw": "J.T. Sullivan, R.G. Wilks, M. T. Winkler, L. Weinhardt, D. Recht, A. J. Said, B. K. Newman, Y. Zhang, M. Blum, S. Krause, W.L. Yang, C. Heske, M. J. Aziz, M. Bär, and T. Buonassisi. 2011. “Soft X-Ray Emission Spectroscopy Studies of the Electronic Surface of Silicon Supersaturated With Sulfur”. Appl. Phys. Lett., 99, Pp. 142102",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Molecular Dynamics of Single-Particle Impacts Predicts Phase Diagrams for Large Scale Pattern Formation",
+      "year": 2011,
+      "citation_raw": "S.A. Norris, J. Samela, L. Bukonte, M. Backman, F. Djurabekova, K. Nordlund, C.S. Madi, M.P. Brenner, and M. J. Aziz. 2011. “Molecular Dynamics of Single-Particle Impacts Predicts Phase Diagrams for Large Scale Pattern Formation”. Nature Communications, 2, 276",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "Mass Redistribution Causes the Structural Richness of Ion-Irradiated Surfaces",
+      "year": 2011,
+      "citation_raw": "C.S. Madi, E. Anzenberg, K.F. Ludwig, and M. J. Aziz. 2011. “Mass Redistribution Causes the Structural Richness of Ion-Irradiated Surfaces”. Phys. Rev. Lett., 106, 066101",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
+      "title": "SnS Thin-Films by RF Sputtering at Room Temperature",
+      "year": 2011,
+      "citation_raw": "K. Hartman, J.L. Johnson, M.I. Bertoni, D. Recht, M. J. Aziz, M.A. Scarpulla, and T. Buonassisi. 2011. “SnS Thin-Films by RF Sputtering at Room Temperature”. Thin Solid Films, 519, 7421",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=11"
+    },
+    {
       "title": "Mass Redistribution Causes the Structural Richness of Ion-Irradiated Surfaces",
       "year": 2011,
       "citation_raw": "Charbel S. Madi, Eitan Anzenberg, Jr. Karl F. Ludwig, and Michael J. Aziz. 2011. “Mass Redistribution Causes the Structural Richness of Ion-Irradiated Surfaces”. Physical Review Letters, 106, 066101",
@@ -750,6 +1694,510 @@
       "year": 2009,
       "citation_raw": "C.S. Madi, H. B. George, and M. J. Aziz. 2009. “Linear Stability and Instability Patterns in Ion- Sputtered Silicon”. J. Phys. Cond. Matt., 21, 224010",
       "source_url": "https://aziz.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Effect of Deposition Rate on Morphology Evolution of Metal-on-Insulator Films Grown by Pulsed Laser Deposition",
+      "year": 2007,
+      "citation_raw": "J. M. Warrender and M. J. Aziz. 2007. “Effect of Deposition Rate on Morphology Evolution of Metal-on-Insulator Films Grown by Pulsed Laser Deposition”. Phys. Rev. B, 76, 045414",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Kinetic Energy Induced Smoothening and Delay of Epitaxial Breakdown in Pulsed Laser Deposition",
+      "year": 2007,
+      "citation_raw": "B. Shin and M. J. Aziz. 2007. “Kinetic Energy Induced Smoothening and Delay of Epitaxial Breakdown in Pulsed Laser Deposition”. Phys. Rev. B, 76, 085431",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "On the Stabilization of Ion Sputtered Surfaces",
+      "year": 2007,
+      "citation_raw": "B. Davidovitch, M. J. Aziz, and M.P. Brenner. 2007. “On the Stabilization of Ion Sputtered Surfaces”. Phys. Rev. B, 76, 205420",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Excimer Laser Processing of Novel Materials for Optoelectronic and Spintronic Applications",
+      "year": 2007,
+      "citation_raw": "M. Tabbal, M. J. Aziz, C.S. Madi, S. Charnvanichborikarn, J. S. Williams, and T.C. Christidis. 2007. “Excimer Laser Processing of Novel Materials for Optoelectronic and Spintronic Applications”. Photon Processing in Microelectronics and Photonics VI, 6458, 645803",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Formation of Single Crystal Sulfur Supersaturated Silicon-Based Junctions by Pulsed Laser Melting",
+      "year": 2007,
+      "citation_raw": "M. Tabbal, T.J. Kim, J. M. Warrender, M. J. Aziz, B.L. Cardozo, and R.S. Goldman. 2007. “Formation of Single Crystal Sulfur Supersaturated Silicon-Based Junctions by Pulsed Laser Melting”. J. Vac. Sci. Technol. B, 25, 1847",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Electrochemical Acceleration of Chemical Weathering As an Energetically Feasible Approach to Mitigating Anthropogenic Climate Change",
+      "year": 2007,
+      "citation_raw": "K.Z. House, C.H. House, D.P. Schrag, and M. J. Aziz. 2007. “Electrochemical Acceleration of Chemical Weathering As an Energetically Feasible Approach to Mitigating Anthropogenic Climate Change”. Environ. Sci. Tech, 41, 8464",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Pressure and Stress Effects on B and Sb Diffusion in Si and Si-Ge Alloys",
+      "year": 2006,
+      "citation_raw": "M. J. Aziz, Y. Zhao, H.-J. Gossmann, S. Mitha, S. P. Smith, and D. Schiferl. 2006. “Pressure and Stress Effects on B and Sb Diffusion in Si and Si-Ge Alloys”. Phys. Rev. B, 73, 054101",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Three Dimensional Morphology Evolution of SiO_2 Patterned Films Under MeV Ion Irradiation",
+      "year": 2006,
+      "citation_raw": "K. Otani, X. Chen, J.W. Hutchinson, J.F. Chervinsky, and M. J. Aziz. 2006. “Three Dimensional Morphology Evolution of SiO_2 Patterned Films Under MeV Ion Irradiation”. J. Appl. Phys., 100, 023535",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Strong Sub-Bandgap Infrared Absorption in Silicon Supersaturated With Sulfur",
+      "year": 2006,
+      "citation_raw": "T.G. Kim, J. M. Warrender, and M. J. Aziz. 2006. “Strong Sub-Bandgap Infrared Absorption in Silicon Supersaturated With Sulfur”. Appl. Phys. Lett., 88, 241902",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Focused Ion Beam Induced Deflections of Freestanding Thin Films",
+      "year": 2006,
+      "citation_raw": "Y.-R. Kim, P. Chen, M. J. Aziz, D. Branton, and J.J. Vlassak. 2006. “Focused Ion Beam Induced Deflections of Freestanding Thin Films”. J. Appl. Phys., 100, 104322",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Strain-Stabilized Solid Phase Epitaxy of Si-Ge on Si",
+      "year": 2006,
+      "citation_raw": "J.F. Sage, W. Barvosa-Carter, and M. J. Aziz. 2006. “Strain-Stabilized Solid Phase Epitaxy of Si-Ge on Si”. J. Appl. Phys., 99, 113529",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Nanoscale Morphology Control Using Ion Beams",
+      "year": 2006,
+      "citation_raw": "M. J. Aziz. 2006. “Nanoscale Morphology Control Using Ion Beams”. Matematisk-Fysiske Meddelelser Udg. Af Det Kongelige Danske Videnskabernes Selskab, 52, 187",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Continuum Description of Profile Scaling in Nanostructure Decay",
+      "year": 2004,
+      "citation_raw": "D. Margetis, M. J. Aziz, and H.A. Stone. 2004. “Continuum Description of Profile Scaling in Nanostructure Decay”. Phys. Rev. B, 69, 041404",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Comparison of Structure and Properties of Femtosecond and Nanosecond Laser-Structured Silicon",
+      "year": 2004,
+      "citation_raw": "C. H. Crouch, J. E. Carey, J. M. Warrender, M. J. Aziz, and E. Mazur. 2004. “Comparison of Structure and Properties of Femtosecond and Nanosecond Laser-Structured Silicon”. Appl. Phys. Lett., 84, 1850",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Tests of Theories for Nonplanar Growth During Rapid Alloy Solidification",
+      "year": 2004,
+      "citation_raw": "M. J. Aziz. 2004. “Tests of Theories for Nonplanar Growth During Rapid Alloy Solidification”. Edited by M. Rappaz",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Interfacial Roughening During Solid Phase Epitaxy: Interaction of Dopant, Stress, and Anisotropy Effects",
+      "year": 2004,
+      "citation_raw": "W. Barvosa-Carter, M. J. Aziz, A.-V. Phan, T. Kaplan, and L.J. Gray. 2004. “Interfacial Roughening During Solid Phase Epitaxy: Interaction of Dopant, Stress, and Anisotropy Effects”. J. Appl. Phys., 96, Pp. 5462-68",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Evolution of Ag Nanocrystal Films Grown by Pulsed Laser Deposition",
+      "year": 2004,
+      "citation_raw": "J. M. Warrender and M. J. Aziz. 2004. “Evolution of Ag Nanocrystal Films Grown by Pulsed Laser Deposition”. Appl. Phys. A, 79, Pp. 713-16",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "One and Two-Dimensional Pattern Formation on Ion Sputtered Silicon",
+      "year": 2004,
+      "citation_raw": "A.D. Brown, H. B. George, M. J. Aziz, and J.D. Erlebacher. 2004. “One and Two-Dimensional Pattern Formation on Ion Sputtered Silicon”. Mater. Res. Soc. Symp. Proc., 792, R7.8",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Solute Diffusion in Liquid Nickel Measured by Pulsed Ion Beam Melting",
+      "year": 2004,
+      "citation_raw": "J.P. Leonard, M. J. Aziz, T.J. Renk, and M.O. Thompson. 2004. “Solute Diffusion in Liquid Nickel Measured by Pulsed Ion Beam Melting”. Metall. Trans. A, 35, Pp. 2803-7",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Ferromagnetic Ga_1-XMn_xAs Films Produced by Ion Implantation and Pulsed Laser Melting",
+      "year": 2003,
+      "citation_raw": "M.A. Scarpulla, O.D. Dubon, K.M. Yu, O. Monteiro, M. Pillai, M. J. Aziz, and M.C. Ridgway. 2003. “Ferromagnetic Ga_1-XMn_xAs Films Produced by Ion Implantation and Pulsed Laser Melting”. Appl. Phys. Lett., 82, Pp. 1251-53",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Comparison of Growth Morphology in Ge (001) Homoepitaxy Using Pulsed Laser Deposition and MBE",
+      "year": 2003,
+      "citation_raw": "J.P. Leonard, B. Shin, J.W. McCamy, and M. J. Aziz. 2003. “Comparison of Growth Morphology in Ge (001) Homoepitaxy Using Pulsed Laser Deposition and MBE”. Mater. Res. Soc. Symp. Proc., 749, W16.11",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Morphological Evolution of Ag Mica Films Grown by Pulsed Laser Deposition",
+      "year": 2003,
+      "citation_raw": "J. M. Warrender and M. J. Aziz. 2003. “Morphological Evolution of Ag Mica Films Grown by Pulsed Laser Deposition”. Mater. Res. Soc. Symp. Proc., 749, W.3.1",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Spontaneous Formation of Patterns on Sputtered Surfaces",
+      "year": 2003,
+      "citation_raw": "E. Chason and M. J. Aziz. 2003. “Spontaneous Formation of Patterns on Sputtered Surfaces”. Scripta Materialia, 49, 953",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Formation of Self-Organized Nanostructures on Ge During Focused Ion Beam Sputtering",
+      "year": 2003,
+      "citation_raw": "W. Zhou, A. Cuenat, and M. J. Aziz. 2003. “Formation of Self-Organized Nanostructures on Ge During Focused Ion Beam Sputtering”. Edited by A.G. Cullis and P.A. Midgley",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Time-Resolved Measurements of Stress Effects on Solid-Phase Epitaxy of Intrinsic and Doped Si",
+      "year": 2001,
+      "citation_raw": "W. Barvosa-Carter and M. J. Aziz. 2001. “Time-Resolved Measurements of Stress Effects on Solid-Phase Epitaxy of Intrinsic and Doped Si”. Appl. Phys. Lett., 79, Pp. 356-58",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Comparison of Mechanical Properties of Ni_3Al Thin Films in Disordered FCC and Ordered L1_2 Phases",
+      "year": 2001,
+      "citation_raw": "Huang, M. J. Aziz, J.W. Hutchinson, A. G. Evans, R. Saha, and W.D. Nix. 2001. “Comparison of Mechanical Properties of Ni_3Al Thin Films in Disordered FCC and Ordered L1_2 Phases”. Acta Materialia, 49, Pp. 2853-61",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Model for Dopant and Impurity Segregation During Vapor Phase Growth",
+      "year": 2001,
+      "citation_raw": "C.B. Arnold and M. J. Aziz. 2001. “Model for Dopant and Impurity Segregation During Vapor Phase Growth”. Mater. Res. Soc. Symp. Proc., 648, Pp. P3.11.1-P3.11.7",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Modeling a Growth Instability in a Stressed Solid",
+      "year": 2001,
+      "citation_raw": "A.-V. Phan, T. Kaplan, L.J. Gray, D. Adalsteinsson, J.A. Sethian, W. Barvosa-Carter, and M. J. Aziz. 2001. “Modeling a Growth Instability in a Stressed Solid”. Modelling and Simulation in Materials Science and Engineering, 9, Pp. 309-25",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Ion-Beam Sculpting at Nanometre Length Scales",
+      "year": 2001,
+      "citation_raw": "J. Li, D. Stein, C. McMullan, D. Branton, M. J. Aziz, and J.A. Golovchenko. 2001. “Ion-Beam Sculpting at Nanometre Length Scales”. Nature, 412, Pp. 166-77",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Influence of Surface Termination on the Growth and Evaporation of Pb Layers on As-Terminated Si(111)",
+      "year": 2001,
+      "citation_raw": "P.G. Evans, O.D. Dubon, J.F. Chervinsky, M. J. Aziz, F. Spaepen, and J.A. Golovchenko. 2001. “Influence of Surface Termination on the Growth and Evaporation of Pb Layers on As-Terminated Si(111)”. In",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Nonlinear Amplitude Evolution During Spontaneous Patterning of Ion-Bombarded Si(001)",
+      "year": 2000,
+      "citation_raw": "J.D. Erlebacher, M. J. Aziz, E. Chason, M.B. Sinclair, and J.A. Floro. 2000. “Nonlinear Amplitude Evolution During Spontaneous Patterning of Ion-Bombarded Si(001)”. J. Vac. Sci. Technol. A, 18, Pp. 115-20",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Atomistic Simulations of Solid Phase Epitaxy in Silicon",
+      "year": 2000,
+      "citation_raw": "N. Bernstein, M. J. Aziz, and E. Kaxiras. 2000. “Atomistic Simulations of Solid Phase Epitaxy in Silicon”. Phys. Rev. B, 61, Pp. 6696-6700",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Nonclassical Smoothening of Nano-Scale Surface Corrugations",
+      "year": 2000,
+      "citation_raw": "J.D. Erlebacher, M. J. Aziz, E. Chason, M.B. Sinclair, and J.A. Floro. 2000. “Nonclassical Smoothening of Nano-Scale Surface Corrugations”. Phys. Rev. Lett., 84, Pp. 5800-5803",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Morphological Instability of Growth Fronts Due to Stress-Induced Mobility Variations",
+      "year": 2000,
+      "citation_raw": "J.F. Sage, W. Barvosa-Carter, and M. J. Aziz. 2000. “Morphological Instability of Growth Fronts Due to Stress-Induced Mobility Variations”. Appl. Phys. Lett., 77, Pp. 516-18",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Complete Experimental Test for Kinetic Models of Rapid Alloy Solidification",
+      "year": 2000,
+      "citation_raw": "J.A. Kittl, P.G. Sanders, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 2000. “Complete Experimental Test for Kinetic Models of Rapid Alloy Solidification”. Acta Materialia, 48, Pp. 4797-4811",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Terrestrial Measurements of Diffusivities in Refractory Melts by Pulsed Melting of Thin Films",
+      "year": 2000,
+      "citation_raw": "P.G. Sanders and M. J. Aziz. 2000. “Terrestrial Measurements of Diffusivities in Refractory Melts by Pulsed Melting of Thin Films”",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Pressure Measurement at High Temperature Using Ten Sm: YAG Fluorescence Peaks",
+      "year": 1998,
+      "citation_raw": "Y. Zhao, W. Barvosa-Carter, S.D. Theiss, S. Mitha, M. J. Aziz, and D. Schiferl. 1998. “Pressure Measurement at High Temperature Using Ten Sm: YAG Fluorescence Peaks”. J. Appl. Phys., 84, Pp. 4049-59",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Experimental Test of Morphological Stability Theory for a Planar Interface During Rapid Solidification",
+      "year": 1998,
+      "citation_raw": "D.E. Hoglund, M.O. Thompson, and M. J. Aziz. 1998. “Experimental Test of Morphological Stability Theory for a Planar Interface During Rapid Solidification”. Phys. Rev. B, 58, Pp. 189-99",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Pressure and Stress Effects on Diffusion in Si",
+      "year": 1998,
+      "citation_raw": "M. J. Aziz. 1998. “Pressure and Stress Effects on Diffusion in Si”. Defect and Diffusion Forum, 153-155, Pp. 1-10",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "The Amorphous-Crystal Interface in Silicon: A Tight-Binding Simulation",
+      "year": 1998,
+      "citation_raw": "N. Bernstein, M. J. Aziz, and E. Kaxiras. 1998. “The Amorphous-Crystal Interface in Silicon: A Tight-Binding Simulation”. Phys. Rev. B, 58, Pp. 4579-83",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Atomistic Features of the Amorphous-Crystal Interface in Silicon",
+      "year": 1998,
+      "citation_raw": "N. Bernstein, M. J. Aziz, and E. Kaxiras. 1998. “Atomistic Features of the Amorphous-Crystal Interface in Silicon”. Journal of Computer Aided Materials Design, 5, Pp. 55-60",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Kinetically Driven Growth Instability in Stressed Solids",
+      "year": 1998,
+      "citation_raw": "W. Barvosa-Carter, M. J. Aziz, L.J. Gray, and T. Kaplan. 1998. “Kinetically Driven Growth Instability in Stressed Solids”. Phys. Rev. Lett., 81, Pp. 1445-48",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Introduction to ’The Molecular Mechanism of Solidification’, by J.W. Cahn, W.B. Hillig and G.W. Sears",
+      "year": 1998,
+      "citation_raw": "M. J. Aziz. 1998. “Introduction to ’The Molecular Mechanism of Solidification’, by J.W. Cahn, W.B. Hillig and G.W. Sears”. In The Selected Works of John W. Cahn, Eds. W.C. Johnson and W.C. Carter, Pp. 207-9. Warrendale, PA: TMS-AIME",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Test of Dendrite Growth Theory and Nucleation of Polytetrahedral Phases from the Melt",
+      "year": 1998,
+      "citation_raw": "M. J. Aziz and F. Spaepen. 1998. “Test of Dendrite Growth Theory and Nucleation of Polytetrahedral Phases from the Melt”",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Morphological Equilibration of Rippled and Dimpled Crystal Surfaces: The Role of Terrace-Width Fluctuations",
+      "year": 1997,
+      "citation_raw": "J.D. Erlebacher and M. J. Aziz. 1997. “Morphological Equilibration of Rippled and Dimpled Crystal Surfaces: The Role of Terrace-Width Fluctuations”. Surf. Sci., 374, Pp. 427-42",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Experimental Constraints on Nonequilibrium Interface Kinetic Models",
+      "year": 1997,
+      "citation_raw": "M. J. Aziz. 1997. “Experimental Constraints on Nonequilibrium Interface Kinetic Models”. Mater. Sci. Eng. A, 226-228, Pp. 255-60",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Effect of Pressure on As Diffusion in Ge: Evidence Against Simple Vacancy Mechanism",
+      "year": 1997,
+      "citation_raw": "S. Mitha, M. J. Aziz, D. Schiferl, and D.B. Poker. 1997. “Effect of Pressure on As Diffusion in Ge: Evidence Against Simple Vacancy Mechanism”. Defect and Diffusion Forum, 143-147, Pp. 1041-46",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Dendritic Growth Velocity and Diffusive Speed in Solidification of Undercooled Dilute Ni-Zr Melts",
+      "year": 1997,
+      "citation_raw": "M. Schwarz, C.B. Arnold, M. J. Aziz, and D.M. Herlach. 1997. “Dendritic Growth Velocity and Diffusive Speed in Solidification of Undercooled Dilute Ni-Zr Melts”. Mater. Sci. Eng. A, 226-228, Pp. 420-24",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Ion Beam Synthesis and Stability of GaAs Nanoclusters in Silicon",
+      "year": 1996,
+      "citation_raw": "C.W. White, J.D. Budai, J.G. Zhu, S.P. Withrow, and M. J. Aziz. 1996. “Ion Beam Synthesis and Stability of GaAs Nanoclusters in Silicon”. Appl. Phys. Lett., 68, Pp. 2389-91",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Activation Volume for Arsenic Diffusion in Germanium",
+      "year": 1996,
+      "citation_raw": "S. Mitha, M. J. Aziz, D. Schiferl, and D.B. Poker. 1996. “Activation Volume for Arsenic Diffusion in Germanium”. Appl. Phys. Lett., 69, Pp. 922-24",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Stability of Carbon Nitride Materials at High Pressure and Temperature",
+      "year": 1996,
+      "citation_raw": "A.J. Stevens, T. Koga, C.B. Agee, M. J. Aziz, and C. M. Lieber. 1996. “Stability of Carbon Nitride Materials at High Pressure and Temperature”. J. Amer. Chem. Soc., 118, Pp. 10900-901",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Nonequilibrium Partitioning During Rapid Solidification of Si-As Alloys",
+      "year": 1995,
+      "citation_raw": "J.A. Kittl, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 1995. “Nonequilibrium Partitioning During Rapid Solidification of Si-As Alloys”. J. Cryst. Growth, 148, Pp. 172-82",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Germanium Partitioning and Interface Stability During Rapid Solidification of GeSi Alloys",
+      "year": 1995,
+      "citation_raw": "D.P. Brunco, M.O. Thompson, D.E. Hoglund, and M. J. Aziz. 1995. “Germanium Partitioning and Interface Stability During Rapid Solidification of GeSi Alloys”. Mater. Res. Soc. Symp. Proc., 354, Pp. 653-58",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Germanium Partitioning in Silicon During Rapid Solidification",
+      "year": 1995,
+      "citation_raw": "D.P. Brunco, M.O. Thompson, D.E. Hoglund, M. J. Aziz, and H.-J. Gossman. 1995. “Germanium Partitioning in Silicon During Rapid Solidification”. J. Appl. Phys., 78, Pp. 1575-82",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Nonhydrostatic Stress Effects on Solid Phase Epitaxial Growth in Silicon",
+      "year": 1995,
+      "citation_raw": "W.B. Carter and M. J. Aziz. 1995. “Nonhydrostatic Stress Effects on Solid Phase Epitaxial Growth in Silicon”. Mater. Res. Soc. Proc., 356, Pp. 87-92",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Pressure-Enhanced Interdiffusion in Amorphous Si Ge Multilayers: Implications for Defect-Mediated Diffusion",
+      "year": 1995,
+      "citation_raw": "S.D. Theiss, F. Spaepen, and M. J. Aziz. 1995. “Pressure-Enhanced Interdiffusion in Amorphous Si Ge Multilayers: Implications for Defect-Mediated Diffusion”. Mater. Res. Soc. Symp. Proc., 356, Pp. 15-20",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Formation of Bands of Ultrafine Beryllium Particles During Rapid Solidification of Al-Be Alloys: Modeling and Direct Observations",
+      "year": 1994,
+      "citation_raw": "J.W. Elmer, M. J. Aziz, L.E. Tanner, P. M. Smith, and M.A. Wall. 1994. “Formation of Bands of Ultrafine Beryllium Particles During Rapid Solidification of Al-Be Alloys: Modeling and Direct Observations”. Acta Metall. Mater., 42, Pp. 1065-80",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Search for a Solute-Drag Effect in Dendritic Solidification",
+      "year": 1994,
+      "citation_raw": "K. Eckler, D.M. Herlach, and M. J. Aziz. 1994. “Search for a Solute-Drag Effect in Dendritic Solidification”. Acta Metall. Mater., 42, Pp. 975-79",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "On the Transition from Short-Range Diffusion-Limited to Collision-Limited Growth in Alloy Solidification",
+      "year": 1994,
+      "citation_raw": "M. J. Aziz and W.J. Boettinger. 1994. “On the Transition from Short-Range Diffusion-Limited to Collision-Limited Growth in Alloy Solidification”. Acta Metall. Mater., 42, Pp. 527-37",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Absence of Solute Drag in Solidification",
+      "year": 1994,
+      "citation_raw": "J.A. Kittl, M. J. Aziz, D.P. Brunco, and M.O. Thompson. 1994. “Absence of Solute Drag in Solidification”. Appl. Phys. Lett., 64, Pp. 2359-61",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Time-Resolved Temperature Measurements During Pulsed Laser Irradiation Using Thin Film Metal Thermistors",
+      "year": 1993,
+      "citation_raw": "D.P. Brunco, J.A. Kittl, C.E. Otis, P.M. Goodwin, M.O. Thompson, and M. J. Aziz. 1993. “Time-Resolved Temperature Measurements During Pulsed Laser Irradiation Using Thin Film Metal Thermistors”. Rev. Sci. Instrum., 64, Pp. 2615-23",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Crystal Growth: Growth Processes",
+      "year": 1992,
+      "citation_raw": "M. J. Aziz and D. Turnbull. 1992. “Crystal Growth: Growth Processes”. In Encyclopedia of Science and Technology, Pp. 588-89. New York: McGraw-Hill",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Growth of Quartz from Amorphous Silica at Ambient Pressure",
+      "year": 1992,
+      "citation_raw": "G. Devaud, C. Hayzelden, M. J. Aziz, and D. Turnbull. 1992. “Growth of Quartz from Amorphous Silica at Ambient Pressure”. J. Non-Cryst. Solids, 134, Pp. 129-32",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Pressure-Enhanced Solid Phase Epitaxy: Implications for Point Defect Mechanisms",
+      "year": 1992,
+      "citation_raw": "G.-Q. Lu, E. Nygren, and M. J. Aziz. 1992. “Pressure-Enhanced Solid Phase Epitaxy: Implications for Point Defect Mechanisms”. Mater. Res. Soc. Symp. Proc., 205, Pp. 33-38",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Interface Stability During Rapid Directional Solidification",
+      "year": 1992,
+      "citation_raw": "D.E. Hoglund and M. J. Aziz. 1992. “Interface Stability During Rapid Directional Solidification”. Mater. Res. Soc. Symp. Proc., 205, Pp. 325-29",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Measurements of T_o Temperatures of Supersaturated Si-As Alloys",
+      "year": 1992,
+      "citation_raw": "K.R. Lee, J.A. West, P. M. Smith, M. J. Aziz, and J.A. Knapp. 1992. “Measurements of T_o Temperatures of Supersaturated Si-As Alloys”. Mater. Res. Soc. Symp. Proc., 205, Pp. 301-6",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Solute Trapping of Ge in Al",
+      "year": 1992,
+      "citation_raw": "P. M. Smith, J.A. West, and M. J. Aziz. 1992. “Solute Trapping of Ge in Al”. Mater. Res. Soc. Symp. Proc., 205, Pp. 331-36",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "The Mechanism of Solid Phase Epitaxy",
+      "year": 1992,
+      "citation_raw": "M. J. Aziz. 1992. “The Mechanism of Solid Phase Epitaxy”",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Kinetic Disordering of Intermetallic Compounds through First- and Second-Order Transitions by Rapid Solidification",
+      "year": 1992,
+      "citation_raw": "J.A. West and M. J. Aziz. 1992. “Kinetic Disordering of Intermetallic Compounds through First- and Second-Order Transitions by Rapid Solidification”. In Ordering and Disordering in Alloys, Pp. 23-30. London: Elsevier",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Kinetic Disordering of Intermetallic Compounds by Rapid Solidification",
+      "year": 1992,
+      "citation_raw": "J.A. West and M. J. Aziz. 1992. “Kinetic Disordering of Intermetallic Compounds by Rapid Solidification”",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Effect of Pressure on Crystallization Kinetics of Cordierite Glass",
+      "year": 1991,
+      "citation_raw": "E. Chason and M. J. Aziz. 1991. “Effect of Pressure on Crystallization Kinetics of Cordierite Glass”. J. Non-Cryst. Solids, 130, Pp. 204-10",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Disorder Trapping in Ni_2TiAl",
+      "year": 1991,
+      "citation_raw": "W.J. Boettinger, L.A. Bendersky, J.A. West, M. J. Aziz, and J. Cline. 1991. “Disorder Trapping in Ni_2TiAl”. Mater. Sci. Eng. A, 133, Pp. 592-95",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Application of Onsager’s Reciprocity Relations to Alloy Solidification",
+      "year": 1988,
+      "citation_raw": "T. Kaplan, M. J. Aziz, and L.J. Gray. 1988. “Application of Onsager’s Reciprocity Relations to Alloy Solidification”. Mater. Res. Soc. Symp. Proc., 100, Pp. 603-8",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
+    },
+    {
+      "title": "Ion Implantation and Annealing of Crystalline Oxides and Ceramic Materials",
+      "year": 1988,
+      "citation_raw": "C.W. White, L.A. Boatner, P.S. Sklad, C.J. McHargue, J. Rankin, G.C. Farlow, and M. J. Aziz. 1988. “Ion Implantation and Annealing of Crystalline Oxides and Ceramic Materials”. Nucl. Instr. Meth. B, 32, 11-22",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
+    },
+    {
+      "title": "Nonequilibrium Interface Kinetics During Rapid Solidification: Theory and Experiment",
+      "year": 1988,
+      "citation_raw": "M. J. Aziz. 1988. “Nonequilibrium Interface Kinetics During Rapid Solidification: Theory and Experiment”. Mater. Sci. Eng., 98, Pp. 369-72",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
+    },
+    {
+      "title": "Interface Velocity Transients During the Melting of A-Si C-Si Thin Films",
+      "year": 1988,
+      "citation_raw": "J.Y. Tsao, M. J. Aziz, P.S. Peercy, and M.O. Thompson. 1988. “Interface Velocity Transients During the Melting of A-Si C-Si Thin Films”. Mater. Res. Soc. Symp. Proc., 100, Pp. 519-24",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
+    },
+    {
+      "title": "Time-Resolved Reflectivity Measurement of the Pressure-Enhanced Crystallization Rate of Amorphous Si in a Diamond Anvil Cell",
+      "year": 1988,
+      "citation_raw": "G.-Q. Lu, E. Nygren, M. J. Aziz, D. Turnbull, and C.W. White. 1988. “Time-Resolved Reflectivity Measurement of the Pressure-Enhanced Crystallization Rate of Amorphous Si in a Diamond Anvil Cell”. Mater. Res. Soc. Symp. Proc., 100, Pp. 435-40",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
+    },
+    {
+      "title": "Ion Implantation and Annealing of SrTiO_3 and CaTiO_3",
+      "year": 1987,
+      "citation_raw": "C.W. White, L.A. Boatner, J. Rankin, and M. J. Aziz. 1987. “Ion Implantation and Annealing of SrTiO_3 and CaTiO_3”. Mater. Res. Soc. Symp. Proc., 93, Pp. 9-14",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
+    },
+    {
+      "title": "Velocity and Orientation Dependence of Solute Trapping",
+      "year": 1987,
+      "citation_raw": "M. J. Aziz, J.Y. Tsao, M.O. Thompson, P.S. Peercy, and C.W. White. 1987. “Velocity and Orientation Dependence of Solute Trapping”. Mater. Res. Soc. Symp. Proc., 57, Pp. 487-97",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
+    },
+    {
+      "title": "Interface Response Functions for Rapid Alloy Solidification: Theory and Experiment",
+      "year": 1987,
+      "citation_raw": "M. J. Aziz. 1987. “Interface Response Functions for Rapid Alloy Solidification: Theory and Experiment”. In Undercooled Alloy Phases. Warrendale, PA: The Metallurgical Society of the AIME",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
+    },
+    {
+      "title": "Aperiodic Stepwise Growth Model for the Velocity and Orientation Dependence of Solute Trapping",
+      "year": 1987,
+      "citation_raw": "L.M. Goldman and M. J. Aziz. 1987. “Aperiodic Stepwise Growth Model for the Velocity and Orientation Dependence of Solute Trapping”. J. Mater. Res., 2, Pp. 524-27",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
+    },
+    {
+      "title": "Nonequilibrium Interface Kinetics During Rapid Solidification",
+      "year": 1987,
+      "citation_raw": "M. J. Aziz. 1987. “Nonequilibrium Interface Kinetics During Rapid Solidification”. Mater. Res. Soc. Symp. Proc., 74 and 80, Pp. 31-44 and 25",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
+    },
+    {
+      "title": "Transition-State Model for Entropy-Limited Freezing",
+      "year": 1987,
+      "citation_raw": "J.Y. Tsao, M. J. Aziz, P.S. Peercy, and M.O. Thompson. 1987. “Transition-State Model for Entropy-Limited Freezing”. Mater. Res. Soc. Symp. Proc., 74, Pp. 117-22",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
+    },
+    {
+      "title": "Ion Implantation and Annealing of Oxides",
+      "year": 1987,
+      "citation_raw": "C.W. White, L.A. Boatner, P.S. Sklad, C.J. McHargue, S.J. Pennycook, M. J. Aziz, G.C. Farlow, and J. Rankin. 1987. “Ion Implantation and Annealing of Oxides”. Mater. Res. Soc. Symp. Proc., 74, Pp. 357-64",
+      "source_url": "https://aziz.seas.harvard.edu/publications?page=27"
     }
   ]
 }

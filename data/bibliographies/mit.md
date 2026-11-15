@@ -8,7 +8,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -286,7 +286,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -296,7 +296,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -1176,13 +1176,19 @@
 
 ## MIT — Xuanhe Zhao
 
- · 논문·원고 190건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 288건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
+수집 범위: 공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <http://zhao.mit.edu/all-papers/>
+
+출처: <http://zhao.mit.edu/reviews/>
+
+출처: <http://zhao.mit.edu/representative-papers/>
+
+출처: <http://zhao.mit.edu/selected/>
 
 1. 196. Xiao-Yun Yan, Shucong Li, Won Jun Song, Runze Li, Aarosh Dahal, Bastien F. G. Aymon, Haodong Hu, Deep K. Malu, Gabriella E. Carreira, Jingjing Wu, Gengxi Lu, Bolei Deng, Jiayi Liu, Siqin Yu, Shu Wang, Eric Lu, Hyunhee Lee, Hui Xu, Anqi Chen, Yuxing Yao, James H. Zhang, Chen Gong, Yiyuan Sun, Jeong-Yun Sun, David A. Weitz, Casey O’Brien, Yuhang Hu, Zachary P. Smith, Aditya Kumar and Xuanhe Zhao. Air-permeable hydrogels through viscoelastic phase separation of aerogels, Nature 655, 372-382 (2026). MIT NEWS
 
@@ -1944,6 +1950,398 @@
 
     게시 페이지: <http://zhao.mit.edu/all-papers/>
 
+1. 160 Hydrogel interfaces for merging humans and machines Nature Review Materials 2022 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 157 Engineered Living Hydrogels Advanced Materials 2022 Hydrogels; Living Materials
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 153 Magnetic Soft Materials and Robots [LaTeX version] Chemical Reviews 2022 Soft Robots; Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 152 Shaping the future of robotics through materials innovation Nature Materials 2021 Soft Robots
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 143 Soft Materials by Design: Unconventional Polymer Networks Give Extreme Properties Chemical Reviews 2021 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 125 Hydrogel machines Materials Today 2020 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 122 Soft microbots controlled by nanomagnets Nature 2019 Medical Robots
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 116 Hydrogel Bioelectronics Chemical Society Reviews 2019 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 100 Designing toughness and strength for soft materials Proceedings of the National Academy of Sciences 2017 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 62 Harnessing large deformation and instabilities of soft dielectrics: Theory, experiment, and application Applied Physics Reviews 2014 Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/reviews/>
+
+1. 196 Air-permeable hydrogels through viscoelastic phase separation of aerogels Nature 2026 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 193 Hand tracking using wearable wrist imaging Nature Electronics 2026 Ultrasound
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 186 Scaling Law for Intrinsic Fracture Energy of Diverse Stretchable Networks Physics Review X 2025 Polymer Fracture
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 176 Adhesive anti-fibrotic interfaces on diverse organs Nature 2024 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 172 Nonlocal Intrinsic Fracture Energy of Polymerlike Networks Phys. Rev. Lett. 2023 Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 162 Bioadhesive ultrasound for long-term continuous imaging of diverse organs Science 2022 Bioelectronics; Medical Imaging
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 158 Telerobotic neurovascular interventions with magnetic manipulation Science Robotics 2022 Medical Robots
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 115 Dry Double-sided Tape for Adhesion of Wet Tissues and Devices Nature 2019 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 103 Printing ferromagnetic domains for untethered fast-transforming soft materials Nature 2018 Medical Robots; 3D Printing
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 76 Tough Bonding of Hydrogels to Diverse Nonporous Surfaces Nature Materials 2016 Bioadhesives; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 42 Highly stretchable and tough hydrogels Nature 2012 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/representative-papers/>
+
+1. 194 Long-term stability of moisture-capturing hydrogels by preventing metal-mediated degradation Nature Communications 2026 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 193 Hand racking using wearable wrist imaging Nature Electronics 2026 Ultrasound
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 188 Adhesive nonfibrotic bioelectronic interfaces on diverse peripheral nerves for long-term functional neuromodulation Science Advances 2025 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 185 Fracture of polymer-like networks with hybrid bond strengths Journal of the Mechanics and Physics of Solids 2025 Polymer Fracture
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 184 Local volume changes in deformed elastomers with mobile chains Proceedings of the National Academy of Sciences 2024 Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 183 Reversible two-way tuning of thermal conductivity in an end-linked star-shaped thermoset Nature Communications 2024 Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 182 See how your body works in real time—wearable ultrasound is on its way Nature 2024 Ultrasound
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 181 A bioadhesive pacing lead for atraumatic cardiac monitoring and stimulation in rodent and porcine models Science Translational Medicine 2024 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 180 A Loop-Opening Model for the Intrinsic Fracture Energy of PolymerNetworks Macromolecules 2024 Polymer Fracture
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 177 Bioadhesive interface for marine sensors on diverse soft fragile species Nature Communications 2024 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 175 Wearable bioadhesive ultrasound shear wave elastography Science Advances 2024 Bioelectronics; Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. Nature Communications 2024 Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 173 An elastomer with ultrahigh strain-induced crystallization Science Advances 2023 Soft Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 170 Fatigue-resistant hydrogel optical fibers enable peripheral nerve optogenetics during locomotion Nature Methods 2023 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 165 3D printable high-performance conducting polymer hydrogel for all-hydrogel bioelectronic interfaces Nature Materials 2023 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 164 Microfluidic bioprinting of tough hydrogel-based vascular conduits for functional blood vessels Science Advances 2022 Hydrogels; 3D Printing
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 154 An off-the-shelf bioadhesive patch for sutureless repair of gastrointestinal defects Science Translational Medicine 2022 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 151 A soft neuroprosthetic hand providing simultaneous myoelectric control and tactile feedback Nature Biomedical Engineering 2021 Medical Robots
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 150 Rapid and coagulation-independent haemostatic sealing by a paste inspired by barnacle glue Nature Biomedical Engineering 2021 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 141 Hydrogel-based biocontainment of bacteria for continuous sensing and computation Nature Chemical Biology 2021 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 140 A Multifunctional Origami Patch for Minimally Invasive Tissue Sealings Advanced Materials 2021 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 139 Fracture of polymer networks with diverse topological defects Physical Review E 2020 Hydrogels; Polymer fracture
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 137 Electrical bioadhesive interface for bioelectronics Nature Materials 2020 Bioadhesives; Bioelectronics
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 133 Instant tough bioadhesive with triggerable benign detachment Proceedings of the National Academy of Sciences 2020 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 132 Hard-magnetic elastica Journal of the Mechanics and Physics of Solids 2020 Medical Robots; Mechanics
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 130 Designing complex architectured materials with generative adversarial networks Science Advances 2020 Architectured Materials; Machine Learning
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 129 3D printing of conducting polymers Nature Communications 2020 Bioelectronics; 3D Printing
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 128 Strong adhesion of wet conducting polymers on diverse substrates Science Advances 2020 Bioelectronics
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 127 Fatigue-resistant adhesion of hydrogels Nature Communications 2020 Bioadhesives; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 123 Hydration and swelling of dry polymers for wet adhesion Journal of the Mechanics and Physics of Solids 2020 Bioadhesives
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 121 Ferromagnetic soft continuum robots Science Robotics 2019 Medical Robots
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 120 High stretchability, strength, and toughness of living cells enabled by hyperelastic vimentin intermediate filaments Proceedings of the National Academy of Sciences 2019 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 119 A path-following simulation-based study of elastic instabilities in nearly-incompressible confined cylinders under tension Journal of the Mechanics and Physics of Solids 2019 Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 118 Muscle-like fatigue-resistant hydrogels by mechanical training Proceedings of the National Academy of Sciences 2019 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 117 Multifunctional “Hydrogel Skins” on Diverse Polymers with Arbitrary Shapes Advanced Materials 2019 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 114 Mechanics of hard-magnetic soft materials Journal of the Mechanics and Physics of Solids 2019 Medical Robots; Mechanics
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 113 Anti-fatigue-fracture hydrogels Science Advances 2019 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 112 Pure PEDOT:PSS hydrogels Nature Communications 2019 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 111 Soft wall-climbing robot Science Robotics 2018 Dielectric Elastomers
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 110 Ingestible hydrogel device Nature Communications 2019 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 107 Controlled crack propagation for atomic precision handling of wafer-scale two-dimensional materials Science 2018 Thin Films
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 105 Folding artificial mucosa with cell-laden hydrogels guided by mechanics models Proceedings of the National Academy of Sciences 2018 Hydrogels; Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 104 Metagel with Broadband Tunable Acoustic Properties Over Air–Water–Solid Ranges Advanced Functional Materials 2019 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 101 3D Printing of Responsive Living Materials and Devices Advanced Materials 2017 Living Materials; 3D Printing; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 97 Impermeable Robust Hydrogels via Hybrid Lamination Advanced Healthcare Materials 2017 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 96 A New 3D Printing Strategy by Harnessing Deformation, Instability and Fracture of Viscoelastic Inks Advanced Materials 2017 3D Printing
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 95 Instabilities in Confined Elastic Layers under Tension: Fringe, Fingering and Cavitation Journal of the Mechanics and Physics of Solids 2017 Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 91 A large deformation viscoelastic model for double-network hydrogels Journal of the Mechanics and Physics of Solids 2017 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 90 Stretchable Living Materials and Devices with Hydrogel-Elastomer Hybrids Hosting Programmed Cells Proceedings of the National Academy of Sciences 2017 Living Materials; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 89 Harnessing the Hygroscopic and Biofluorescent Behaviors of Genetically-Tractable Microbial Cells to Design Bio-hybrid Wearables Science Advances 2017 Living Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 88 Highly Stretchable, Strain Sensing Hydrogel Optical Fibers Advanced Materials 2016 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 87 Hydraulic hydrogel actuators and robots optically and sonically camouflaged in water Nature Communications 2017 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 85 Skin-inspired hydrogel–elastomer hybrids with robust interfaces and functional microstructures Nature Communications 2016 Bioadhesives; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 84 Strong, tough, stretchable and self-adhesive hydrogels from intrinsically unstructured proteins Advanced Materials 2016 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 79 Stretchable Hydrogel Electronics and Devices Advanced Materials 2015 Bioelectronics; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 74 3D Printing of Highly Stretchable and Tough Hydrogels into Complex, Cellularized Structures Advanced Materials 2015 3D Printing; Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 73 Bio-inspired Reversibly-Crosslinked Hydrogels Comprising Polypeptide Micelles Exhibit Enhanced Mechanical Properties Advanced Functional Materials 2015 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 71 Mechanics of Mechanochemically Responsive Elastomers Journal of the Mechanics and Physics of Solids 2015 Active Materials;
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 70 Predicting Fracture Energies and Crack-Tip Fields of Soft Tough Materials Extreme Mechanics Letters 2015 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 69 Designing Extremely Resilient and Tough Hydrogels via Delayed Dissipation Extreme Mechanics Letters 2014 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 68 Cephalopod-inspired Design of Electro-mechano-chemically Responsive Elastomers for On-demand Fluorescent Patterning Nature Communications 2014 Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 63 Increasing the maximum achievable strain of a covalent polymer gel through the addition of mechanically invisible cross-links Advanced Materials 2014 Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 61 Soft Robotic Concepts in Catheter Design: an On-demand Fouling-release Urinary Catheter Advanced Healthcare Materials 2014 Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 59 Matrix Elasticity Controls Bone Formation by Transplanted Stem Cells Nature Materials 2015 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 56 Harnessing Localized Ridges for High-Aspect-Ratio Hierarchical Patterns with Dynamic Tunability and Multifunctionality Advanced Materials 2014 Thin Films; Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 50 Composite three-dimensional woven scaffolds with interpenetrating network hydrogels to create functional synthetic articular cartilage Advanced Functional Materials 2013 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 49 Reversible Sliding in Networks of Nanowires Nanoletters 2013 Nanowires
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 47 Ultrasound-triggered disruption and self-healing of reversibly-crosslinked hydrogels for drug delivery and enhanced chemotherapy Proceedings of the National Academy of Sciences 2014 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 46 Multifunctionality and Control of the Crumpling and Unfolding of Large-Area Graphene Nature Materials 2013 Thin Films; Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 45 Bioinspired Surfaces with Dynamic Topography for Active Control of Biofouling Advanced Materials 2013 Active Materials
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 41 Dynamic Electrostatic Lithography: Multiscale On-demand Patterning on Large-Area Curved Surfaces Advanced Materials 2012 Dielectric Elastomers
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 40 Bursting Drops in Solid Dielectrics Caused by High Voltages Nature Communications 2012 Dielectric Elastomers
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 39 Localized Ridge Wrinkling of Stiff Films on Compliant Substrates Journal of the Mechanics and Physics of Solids 2012 Thin Films; Instabilities
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 36 A Theory for Large Deformation and Damage of Interpenetrating Polymer Networks Journal of the Mechanics and Physics of Solids 2012 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 34 Creasing to Cratering instability in polymers under ultrahigh electric fields Physical Review Letters 2011 Dielectric Elastomers
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 29 Active Scaffolds for On-demand Drug and Cell Delivery Proceedings of the National Academy of Sciences 2011 Hydrogels
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
+1. 28 Theory of dielectric elastomers capable of giant deformation of actuation Physical Review Letters 2010 Dielectric Elastomers
+
+    게시 페이지: <http://zhao.mit.edu/selected/>
+
 ## MIT — Raphael Zufferey
 
  · 논문·원고 6건 · 기타 성과 0건 · 상태: partial
@@ -1982,7 +2380,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -1992,7 +2390,7 @@
 
  · 논문·원고 75건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -2302,7 +2700,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -2312,7 +2710,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -2324,7 +2722,7 @@
 
  · 논문·원고 42건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -2614,7 +3012,7 @@
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -3693,7 +4091,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -3703,7 +4101,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -4105,7 +4503,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -4239,7 +4637,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -4251,7 +4649,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -4261,7 +4659,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -4271,7 +4669,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 207건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -5107,23 +5505,351 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Sili Deng
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 83건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
-
-출처: <https://deng.mit.edu/>
-
-출처: <https://meche.mit.edu/people/faculty/silideng@mit.edu>
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, S. Deng, Development and validation of a retuning-free skeletal mechanism for NH3/H2/Air combustion, Combustion and Flame 295 (2027) 115335. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. M. Bhat, E. Lin, G. Ibrahim, B. Lin, W. Wu, B. H. Gebreslassie, A. M. Bala, S. Deng, G. Zang, Techno-economic assessment and GHG emissions assessment of synthetic LNG production via low carbon power-to-gas (PtoG) pathway, Energy Conversion and Management 369 (2026) 122046. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. N. Tricard, S. Shanbhogue, M. Cherry, Z. Chen, C. Guerra-Garcia, A. Ghoniem, S. Deng, Uncertainty-aware differentiable spectroscopy for multi-line temperature and multi-species tomography in an ammonia/methane-fueled McKenna burner, Proceedings of the Combustion Institute 42 (2026) 106721. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. L. Wang, J. Chen, A. Piscopo, A. Parente, S. Deng, Developing multi-field sparse reconstruction digital twins: A study in ammonia combustor, Proceedings of the Combustion Institute 42 (2026) 106421. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. A. Parente, Z. X. Chen, S. Deng, The “augmented combustion scientist”: Shifting from data-driven science to agentic AI, Proceedings of the Combustion Institute 42 (2026) 106304. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. H. Choi, S. Kim, S. Deng, Competing mechanisms governing combustion behavior in carbon-additive energetic materials, Proceedings of the Combustion Institute 42 (2026) 106245. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, S. Deng, Kolmogorov–Arnold chemical reaction neural networks for learning pressure-dependent kinetic rate laws, Proceedings of the Combustion Institute 42 (2026) 106425. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, S. Deng, Model inversion and uncertainty quantification for chemical kinetics and thermal properties in combustion waves, Journal of Computational Physics 562 (2026) 115016. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. C. Zhang, J. Zhang, J. Wang, M. Bhat, S. Deng, Interwoven phase stabilization in Ni-rich cathode material via nanoparticle-seeded synthesis, ACS Applied Materials & Interfaces 18 (2026) 24378-24386. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B. C. Koenig, S. Deng, Learning continuous state of charge dependent thermal decomposition kinetics for Li-ion cathodes using Kolmogorov–Arnold Chemical Reaction Neural Networks (KA-CRNNs), Journal of Energy Storage 158 (2026) 121853. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Modi, J. Zhang, N. Ziebarth, S. Deng, Pratim Biswas, Rapid and single-step synthesis of carbon–silicon composites using a continuous aerosol approach, Carbon 253 (2026) 121410. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. L. Wang, Y. Li, S. Deng, Building digital twin for 3D multi-field reconstruction and optimization of industrial-scale combustion systems, Engineering 59 (2026) 197-214. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. L. Wang, Z. Chen, Y. Li, R. Deng, R. Zhang, Y. Luo, L. Lu, S. Deng, Learning multi-physical system on a unified manifold by collaboratively fused features, Engineering Applications of Artificial Intelligence 170 (2026) 114178. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B. C. Koenig*, M. Kim*, J. Hong, S. Deng, Modeling lithium methyl carbonate decomposition kinetics in the lithium-ion battery SEI under thermal runaway, Chemical Engineering Journal 533 (2026) 174724. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Z. Zhan, X. Li, R. Roy, M. Cremer, A. Chiodo, C. Hui, S. Deng, D. Keisar, A. Fry, B. Lillie, M. Nichols, A. Fernando, P. LaTour, K. Alderson, J. Pearson, T. Hortin, J. Wendt, Review on preprocessing strategies, deactivation, thermal safety, and future perspectives in lithium-ion battery recycling, Energy & Fuels 2026, 40, 3, 1474-1496. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. C. Chi, A. Dernbecher, K. P. R. Subramanian, J. J. Rico, A. Dieguez-Alonso, S. Adhikari, S. Deng, D. Thevenin, Chemical reaction neural networks for semi-detailed kinetic schemes including the influence of inorganics and secondary reactions during cellulose pyrolysis, Energy Conversion and Management 348 Part B (2026) 120655. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. E. Lin, E. Wang, S. Deng, Neural ordinary differential equations (ODEs) for smooth, high-accuracy isotherm reconstruction, interpolation, and extrapolation, npj Computational Materials 11 (2025) 348. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, A. Wang, J. Z. Wen, S. Deng, Combustion waves and flame stability in nanocomposites, ACS Nano 19 (2025) 31790–31798. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, L. Wang, S. Kim, B. C. Koenig, Scientific machine learning in combustion for discovery, simulation, and control, Proceedings of the Combustion Institute 41 (2025) 105796. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B. C. Koenig, S. Kim, S. Deng, LeanKAN: a parameter-lean Kolmogorov-Arnold network layer with improved memory efficiency and convergence behavior, Neural Networks 192 (2025) 107883. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. E. Lin, Y. Zhong, G. Chen, S. Deng, Unified physio-thermodynamic descriptors via learned CO2 adsorption properties in metal-organic frameworks, npj Computational Materials 11 (2025) 225. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Z. Chen, N. Tricard, S. Deng, Hybrid physics-machine learning model for multispecies and temperature inference from FTIR spectra: Application to ammonia flames, Proceedings of the Combustion Institute 41 (2025) 105811. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B. C. Koenig*, S. Kim*, S. Deng, ChemKANs for combustion chemistry modeling and acceleration, Physical Chemistry Chemical Physics 27 (2025) 17313-17330. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Zhang, C. Zhang, A.N. Penn, Y. Huang, S. Deng, In situ mitigation of calcination-introduced surface damage of single crystal nickel-rich cathode materials, ACS Nano 19 (2025) 16967-16979. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. L. Wang, N. Tricard, Z. Chen, S. Deng, Progress in computational methods and mechanistic insights on the growth of carbon nanotubes, Nanoscale 17 (2025) 11812-11863. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, P. Zhao, S. Deng, Comprehensive thermal-kinetic uncertainty quantification of lithium-ion battery thermal runaway via bayesian chemical reaction neural networks, Chemical Engineering Journal 507 (2025) 160402. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B. Cha*, A. Wang*, S. Kim*, J.-P. Hickey, S. Deng, J. Z. Wen, Microstructural thermal zones in reaction of nanoenergetics, ACS Applied Materials & Interfaces 16 (2024) 66099-66107. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, S. Deng, Learning reaction-transport coupling from thermal waves, Nature Communications 15 9930 (2024). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. L. Wang*, R. Deng*, R. Zhang, Y. Luo, S. Deng, 3-D full-field reconstruction of chemically reacting flow towards high-dimension conditions through machine learning, Chemical Engineering Journal 499 (2024) 156435. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig*, S. Kim*, S. Deng, KAN-ODEs: Kolmogorov-Arnold network ordinary differential equations for learning dynamical systems and hidden physics, Computer Methods in Applied Mechanics and Engineering 432 (2024) 117397. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. H. Chen, Q. Li, S. Deng, Fast QoI-oriented Bayesian experimental design with unified neural response surfaces for kinetic uncertainty reduction, Energy & Fuels 2024 Energy and Fuels Rising Stars, Energy and Fuels 38 (2024) 15630-15641. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. G. Tsai*, S. Kim*, S. Deng, Thermal interaction of inert additives in energetic materials, Proceedings of the Combustion Institute 40 (2024) 105459. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, H. Chen, Q. Li, P. Zhao, S. Deng, Uncertain lithium-ion cathode kinetic decomposition modeling via Bayesian chemical reaction neural networks, Proceedings of the Combustion Institute 40 (2024) 105243. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. A. Nicolle, S. Deng, M. Ihme, N. Kuzhagaliyeva, E. A. Ibrahim, A. Farooq, Mixtures recomposition by neural nets: A multidisciplinary overview, Journal of Chemical Information and Modeling 64 (2024) 597-620. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. M. Bhat*, S. Luo*, J. Zhang, C. Zhang, B. Zhou, S. Deng, Multi-component precursor droplet evaporation in spray synthesis of cathode materials, Chemical Engineering Journal 479 (2024) 147417. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. E. Lin, C. T. Wilson, A. Leroy, S. Deng, Significant catalyst savings and reaction kinetics enhancement for catalytic micro-combustors via non-uniform catalyst segmentation, Chemical Engineering Journal 476 (2023) 146627. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, S. Deng, Multi-target active subspaces generated using a neural network for computationally efficient turbulent combustion kinetic uncertainty quantification in the flamelet regime, Combustion and Flame 258 (2023) 113015. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, P. Zhao, S. Deng, Accommodating physical reaction schemes in DSC cathode thermal stability analysis using chemical reaction neural networks, Journal of Power Sources 581 (2023) 233443. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, S. Deng, Inference of chemical kinetics and thermodynamic properties from constant-volume combustion of energetic materials, Chemical Engineering Journal 469 (2023) 143779. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. X. Su, W. Ji, J. An, Z. Ren, S. Deng, C.K. Law, Kinetics parameter optimization of hydrocarbon fuels via neural ordinary differential equations, Combustion and Flame 251 (2023) 112732. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Q. Li, H. Chen, B. C. Koenig, S. Deng, Bayesian chemical reaction neural network for autonomous kinetic uncertainty quantification, Physical Chemistry Chemical Physics 25 (2023) 3707-3717. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. X. Hu, D. Zuo, S. Cheng, S. Chen, Y. Liu, W. Bao, S. Deng, S. J. Harris, J. Wan, Ultrafast materials synthesis and manufacturing techniques for emerging energy and environmental applications, Chemical Society Reviews 52 (2023) 1103-1128. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Zhang, V.L. Muldoon, S. Deng, Effects of the preheating temperature on flame-assisted spray pyrolysis of nickel-rich cathode materials, Proceedings of the Combustion Institute 39 (2023) 1165-1173. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. H. Chen, W. Ji, S. Cassady, A.M. Ferris, R.K. Hanson, S. Deng, Using shock tube species time-histories in Bayesian parameter estimation: Effective independent-data number and target selection, Proceedings of the Combustion Institute 39 (2023) 5299-5308. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. B.C. Koenig, W. Ji, S. Deng, Kinetic subspace investigation using neural network for uncertainty quantification in nonpremixed flamelets, Proceedings of the Combustion Institute 39 (2023) 5229-5238. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, A.A. Johns, J.Z. Wen, S. Deng, Burning structures and propagation mechanisms of nanothermites, Proceedings of the Combustion Institute 39 (2023) 3593-3604. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Wang, H. Jiang, Y. Dong, D. Clarkson, H. Zhu, C.M. Settens, Y. Ren, T. Nguyen, F. Han, W. Fan, S.Y. Kim, J. Zhang, W. Xue, S.K. Sandstrom, G. Xu, E. Tekoglu, M. Li, S. Deng, Q. Liu, S.G. Greenbaum, X. Ji, T. Gao, J. Li, Acid-in-Clay electrolyte for wide-temperature-range and long-cycle proton batteries, Advanced Materials 34 (2022) 2202063. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, X. Su, B. Pang, Y. Li, Z. Ren, S. Deng, SGD-based optimization in modeling combustion kinetics: Case studies in tuning mechanistic and hybrid kinetic models, Fuel 324 (2022) 124560. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Zhang, V.L. Muldoon, S. Deng, Accelerated synthesis of Li(Ni0.8Co0.1Mn0.1)O2 cathode materials using flame-assisted spray pyrolysis and additives, Journal of Power Sources 528 (2022) 231244. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Zhang, Y. Wang, V.L. Muldoon, S. Deng, Crude glycerol and glycerol as fuels and fuel additives in combustion applications, Renewable and Sustainable Energy Reviews 159 (2022) 112206. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, F. Richter, M.J. Gollner, S. Deng, Autonomous kinetic modeling of biomass pyrolysis using chemical reaction neural networks, Combustion and Flame 240 (2022) 111992. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. X. Su, W. Ji, L. Zhang, W. Wu, Z. Ren, S. Deng, Neural differential equations for inverse modeling in model combustors, Proceedings of the ASME International Mechanical Engineering Congress & Exhibition 2021, IMECE2021-69657 (2021). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, J. Zanders, J.-W. Park, S. Deng, Data-driven approaches to learn Hychem models, Proceedings of the ASME International Combustion Engine Division Fall Technical Conference 2021, ICEF2021-67925 (2021). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. X. Liang, Y. Wang, Y. Chen, S. Deng, Advances in emission regulations and emission control technologies for internal combustion engines, SAE Journal of Sustainable Transportation, Energy, Environment & Policy 2 (2021). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, W. Qiu, Z. Shi, S. Pan, S. Deng, Stiff-PINN: Physics-Informed Neural Network for stiff chemical kinetics, Journal of Physical Chemistry A 125 (2021) 8098-8106. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Kim, W. Ji, S. Deng, Y. Ma, C. Rackauckas, Stiff neural ordinary differential equations, Chaos 31, 093122 (2021). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. H. Zhao, D. Lu, J. Wang, W. Tu, D. Wu, S.W. Koh, P. Gao, Z.J. Xu, S. Deng, Y. Zhou, B. You, H. Li, Raw biomass electroreforming coupled to green hydrogen generation, Nature Communications 12, 2008 (2021). (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, S. Deng, Autonomous discovery of unknown reaction pathways from data by Chemical Reaction Neural Network, Journal of Physical Chemistry A 125 (2021) 1082-1092. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Y. Wang, Y. Chen, X. Liang, P. Tan, S. Deng, Impacts of lubricating oil and its formulations on diesel engine particle characteristics, Combustion and Flame 225 (2021) 48-56. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Ou, X. He, W. Ji, W. Chen, L. Sui, Y. Gan, Z. Lu, Z. Lin, S. Deng, S. Przesmitzki, J. Bouchard, Machine learning model to project the impact of COVID-19 on US motor gasoline demand, Nature Energy (2020). https://doi.org/10.1038/s41560-020-0662-1. (Link) * Cover page
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. W. Ji, T. Zhang, Z. Ren, S. Deng, Dependence of kinetic sensitivity direction in premixed flames, Combustion and Flame 220 (2020) 16-22. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Y. Jiang*, S. Deng*, S. Hong*, S. Tiwari, H. Chen, K. Nomura, R.K. Kalia, A. Nakano, P. Vashishta, M.R. Zachariah, X.L. Zheng, Synergistically chemical and thermal coupling between graphene oxide and graphene fluoride for enhancing aluminum combustion, ACS Applied Materials & Interfaces 12 (2020) 7451-7458. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Pan, L. Chen, H. Wei, D. Feng, S. Deng, G. Shu, On autoignition mode under variable thermodynamic state of internal combustion engines, International Journal of Engine Research 21 (2020) 856-865. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Huang, S. Deng, Y. Jiang, X.L. Zheng, Experimental effective metal oxides to enhance boron combustion, Combustion and Flame 205 (2019) 278-285. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Huang, M. Pan, S. Deng, Y. Jiang, J. Zhao, B. Levy-Wendt, S.K.Y. Tang, X.L. Zheng, Modified micro-emulsion synthesis of highly dispersed Al/PVDF composites with enhanced combustion properties, Advanced Engineering Materials (2019) 1801330. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Y. Jiang*, S. Deng*, S. Hong*, J. Zhao, S. Huang, C.-C. Wu, J.L. Gottfried, K. Nomura, Y. Li, S. Tiwari, R.K. Kalia, P. Vashishta, A. Nakano, X.L. Zheng, Energetic performance of optically activated aluminum/graphene oxide composites, ACS Nano 12 (2018) 11366-11345. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng*, Y. Jiang*, S. Huang, X. Shi, J. Zhao, X.L. Zheng, Tuning the morphological, ignition and combustion properties of micron-Al/CuO thermites through different synthesis approaches, Combustion and Flame 195 (2018) 303-310. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Huang, V.S. Parimi, S. Deng, S. Lingamneni, X.L. Zheng, Facile thermal and optical ignition of silicon nanoparticles and micron particles, Nano Letters 17 (2017) 5925-5930. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Huang*, S. Deng*, Y. Jiang, J. Zhao, X.L. Zheng, Electroless deposition and ignition properties of Si/Fe2O3 core/shell nanothermites, ACS Omega 2 (2017) 3596-3600. *Equal contribution (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, D. Han, C.K. Law, Ignition and extinction of strained nonpremixed cool flames at elevated pressures, Combustion and Flame 176 (2017) 143-150. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, M.E. Mueller, Q.N. Chan, N.H. Qamar, B.B. Dally, Z.T. Alwahabi, G.J. Nathan, Hydrodynamic and chemical effects of hydrogen addition on soot evolution in turbulent nonpremixed bluff body ethylene flames, Proceedings of the Combustion Institute 36 (2017) 807-814. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. D. Han, S. Deng, W. Liang, P. Zhao, F. Wu, Z. Huang, C.K. Law, Laminar flame propagation and nonpremixed stagnation ignition of toluene and xylenes, Proceedings of the Combustion Institute 36 (2017) 479-489. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, P. Zhao, M.E. Mueller, C.K. Law, Flame dynamics in oscillating flows under autoignitive conditions, Combustion and Flame 168 (2016) 75-82. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, P. Zhao, M.E. Mueller, C.K. Law, Stabilization of laminar nonpremixed DME/air coflow flames at elevated temperatures and pressures, Combustion and Flame 162 (2015) 4471-4478. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, P. Zhao, M.E. Mueller, C.K. Law, Autoignition-affected stabilization of laminar nonpremixed DME/air coflow flames, Combustion and Flame 162 (2015) 3437-3445. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. P. Zhao, W. Liang, S. Deng, C.K. Law, Initiation and propagation of laminar premixed cool flames, Fuel 166 (2015) 477-487. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, J.A. Koch, M.E. Mueller, C.K. Law, Sooting limits of nonpremixed n-heptane, n-butanol, and methyl butanoate flames: Experimental determination and mechanistic analysis, Fuel 136 (2014) 122-129. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, P. Zhao, D. Zhu, C.K. Law, NTC-affected ignition and low-temperature flames in nonpremixed DME/air counterflow, Combustion and Flame 161 (2014) 1993-1997. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Y. Zhang, S. Li, S. Deng, Q. Yao, S.D. Tse, Direct synthesis of nanostructured TiO2 films with controlled morphologies by stagnation swirl flames, Journal of Aerosol Science 44 (2012) 71-82. (Link)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. S. Deng, S. Li, S.D. Tse, J. Wang, Y. Tao, Q. Yao, Experimental studies on TiO2 nanoparticles in a swirl-stabilized stagnation flame, Journal of Engineering Thermophysics 32 (2011) 157-160. (In Chinese)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. J. Wang, Y. Tao, Y. Zhang, S. Deng, S. Li, Q. Yao, Sintering behavior of TiO2 particles in a premixed stagnation flame, Journal of Engineering Thermophysics 32 (2011) 875-878. (In Chinese)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. D. Yun, S. Deng, Q. Song, Q. Yao, Potassium deactivation and regeneration method of V2O5-WO3/TiO2 SCR catalyst", Research of Environmental Sciences 6 (2009) 730-735. (In Chinese)
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
+
+1. Deng Energy and Nanotechnology Group (DENG) Accessibility Copyright © 2018 Sili Deng
+
+    게시 페이지: <https://deng.mit.edu/publications.html>
 
 ## MIT — Elazer Edelman
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -5231,7 +5957,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 81건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -5839,7 +6565,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -5849,7 +6575,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 45건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -6499,7 +7225,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6507,27 +7233,275 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — John Hart
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 64건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
-
-출처: <https://mechanosynthesis.mit.edu/>
-
-출처: <https://meche.mit.edu/people/faculty/ajhart@mit.edu>
+수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <https://mechanosynthesis.mit.edu/publications/>
 
-출처: <http://web.mit.edu/lmp>
+1. D.J. Braconnier, E. Okeke, M. Mastronardi, T. Schmitz, A. Shih, L. Mears, T. Kurfess, T. Minshall, H. Taylor, A.J. Hart, J. Liu. Journal of Manufacturing Science and Engineering (in press), 2026.
 
-출처: <http://pergatory.mit.edu/>
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. B. Schagen, C.H. Chen, H. Quinlan, A.J. Hart, S. Gerasimidis. Engineering Structures, 366(Part C):123382 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A. Peraire-Bueno, L.-W. Ahrend, N.S. Diaco, D. de Jong, A.J. Hart. Additive Manufacturing Letters (in press), 2026.
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. R.B. Church, M. Robinson, S. Sand, L. Kong, J.L.M. Rupp, A.J. Hart. Journal of the Electrochemical Society, 173:160523, 2026. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. L. Yang, A.J. Hart, A. Luo. International Journal of Mechanical Sciences, 324:111791, 2026. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. L. Romangsuriat, A. Peraire-Bueno, A.J. Hart, and R.M. Erb. Advanced Functional Materials (in press), 36(53):e76457 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. J. Zhou, L. Wu, M. Wyttenbach, R. Lennon, et al. Journal of Controlled Release, 395: 114980, 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. J. Zhou, L. Wu, M. Wyttenbach, R. Lennon, et al. Journal of Controlled Release, 395: 114980, 2026. [pdf] [doi] Agentic AI in Engineering and Manufacturing: Industry perspectives on utility, adoption, challenges, and opportunities. K.M. Edwards, M. Bauer, C. Jacquillat, A.J. Hart, F. Ahmed. 2026. [arXiv]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. E.E. Martin, W.J. Sawyer, K.S. Westendorff, A.J. Hart, D.L. Plata. Catalysis Science and Technology, 16(8): 2971–2984, 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Thin-film DLP 3D printing of multi-material parts with closed-cell internal voids. B. Sun, N.S. Diaco, X. Chen, C. Dai, A.J. Hart, C.C.L. Wang, Y. Yam. npj Advanced Manufacturing, 3:15, 2026. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Strategic sustainability in additive manufacturing: a comprehensive review. I. Fidan, M. Mahmudov, K. Gee, A.J. Hart, V. Naikwadi, E. Hudson, S. Hasanov. The International Journal of Advanced Manufacturing Technology, 144:6185–6213, 2026. [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Additively manufacturable high-strength aluminum alloys with coarsening-resistant microstructures achieved via rapid solidification. S.M. Taheri-Mousavi, M. Xu, F. Hengsbach, C. Houser, Z. Ge, B. Glaser, S. Wei, M. Schaper, J.M. Lebeau, G.B. Olson, A.J. Hart. Advanced Materials, 38(4):e09507 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. GENCAD-3D: CAD program generation using multimodal latent space alignment and synthetic data balancing. N. Yu, M.F. Alam, A.J. Hart, F. Ahmed. Journal of Mechanical Design, 148(3):031703, 2026. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Dairy barn methane levels and feasibility of thermal catalytic oxidation for net climate benefit. A.C. Parker, W.J. Sawyer, K.A. Riedinger, N.A. Bugher, A.J. Hart, D.L. Plata. Environmental Science & Technology, 59(49):26428–26439, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. 3D printing of poly(methyl methacrylate) by interfacial photopolymerization. P.T. Mahesh, C.A.C. Chazot, R.B. Church, M.N. Durso, C. Thrasher, M.A. Creighton, A.J. Hart. ACS Applied Materials & Interfaces, 17(38):53960–53971, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Automated segmentation and analysis of microscopy images of laser powder bed fusion melt tracks. A, Shah, R. Weissbach, D.A. Griggs, A.J. Hart, E. Ertekin, S. Tawfick. Journal of Manufacturing Processes, 154:61-70, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Radiometric temperature measurement for metal additive manufacturing via temperature emissivity separation. R.W. Penny, A.J. Hart. Additive Manufacturing, 110:104904, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Nanoporous capillary gripper for ultragentle micro-object manipulation. S.J. Kim, T. Kim, H.J. Ryu, J. Jeong, A.J. Hart, S. Kim. Advanced Science, 12(36):e08338, 2025. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. High-strength additively manufacturable Al-Zr-Er-Ni alloys with high as-built ductility and thermal stability Z. Ge, S. Wei, Z. Liu, T. Choma, Ł. Żrodowski, M. De Graef, A.J. Hart, S.M. Taheri-Mousavi. npj Advanced Manufacturing, 2:40, 2025. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. High-fidelity optical monitoring of laser powder bed fusion by aperture division multiplexing. R.W. Penny, Z.W. Kutschke, A.J. Hart. npj Advanced Manufacturing, 2:28, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Dual-wavelength vat photopolymerization with dissolvable, recyclable support structures. N.S. Diaco, C. Thrasher, M. Hughes, K. Zhou, M. Durso, S. Yap, R. Macfarlane, A.J. Hart. Advanced Materials Technologies, 10(17):e00650, 2025. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Rapid exploration of nanoparticle-modified alloys in metal additive manufacturing by combining inkjet printing and laser powder bed fusion. E. Tekoglu, S. Liao, Z.W. Kutschke, A.D. O’Brien, B. Lettiere, J. Li, A.J. Hart. Additive Manufacturing Letters, 14:100315, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Forging nanoparticle superlattices with colloidal metallurgy. C.J. Thrasher, N.J. Murphy-Genao, N.A. Sbalbi, R.L. Li, T. Hueckel, M. Ye, A.J. Hart, R.J. Macfarlane. ACS Nano, 19(22):20753–20764, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Additive manufacturing of strong and ductile In939+TiB2 by laser powder bed fusion. E. Tekoglu, M. Alrizqi, A.D. O’Brien, J. Liu, K. Biggs, S.Y. Kim, A. Penn, I. Sulak, K.P. So, W. Chen, A.J. Hart, J. Li. Materials Science and Engineering: A, 939:148446, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Particle-on-demand electrohydrodynamic printing from a reciprocating tip. J. Jeong, S.J. Kim, S. Kim, A.J. Hart. Journal of Manufacturing Processes, 145:133-141, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Computational design of additively manufacturable, cost-effective, high-strength aluminum alloys exploiting rapid solidification. B.M. Glaser, A.J. Hart, S.M. Taheri-Mousavi. Journal of the Mechanics and Physics of Solids, 200: 106120, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Microwave swelling and exfoliation of continuous carbon nanotube networks for scalable manufacturing of nanocomposites. M.N. Durso, A.J. Hart. ACS Applied Materials and Interfaces, 8(15):7685–7693, 2025. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A rapid experimental workflow for studying melt track scaling in laser powder bed fusion using high-precision metal template substrates. R. Weissbach, R.W. Penny, A.J. Hart. Progress in Additive Manufacturing, 10:8695–8706 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A LEGO®-themed introduction to manufacturing course developed for first-year undergraduate students. J. Liu, D. Braconnier, Z. Zhao, K. Gee, K.P. Becker, A.J. Hart. Manufacturing Letters, 44:1558-1569, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Aerosol synthesis of high-quality single-wall carbon nanotubes through integrated microplasma catalyst generation. W.J. Sawyer, A.J. Hart. Chemical Engineering Journal, 507:160690, 2025. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Parametric analysis of relationships among part geometry, build time, and energy consumption for laser powder bed fusion. K. Gee, A.J. Hart. ASME 2024 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, DETC2024-142824, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Superior high-temperature mechanical properties and microstructural features of LPBF-printed In625-based metal matrix composites. E. Tekoglu, J. Bae, H. Kim, K. Lim, J. Liu, S.Y. Kim, A. Penn, W. Chen, A.J. Hart, J. Kang, C. Oh, J Park, F. Sun, S. Kim, G. Sim, J. Li. Materials Today, 80:297-307, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A low-cost, open-source cylindrical Couette rheometer. M. Erni, A.J. Hart, D.L. Trumper, C.E. Owens. Scientific Reports, 14:30187, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Physical properties of industrially produced carbon nanotube yarns for use in structural nanocomposites. M.N. Durso, W.J. Sawyer, A.J. Hart. Composites Part B, 287:111821, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Versatile fabrication of carbon nanotube yarn composites by in situ interfacial polymerization of polyetherimide. M.N. Durso, W.J. Sawyer, A.J. Hart. Composites Part B, 287:111770, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Multivalent polymer-grafted nanoparticles as reinforcing fillers for 3D printable self-healing elastomers. G. Desroches, C. Thrasher, N. Diaco, I. Raji, D. Konkolewicz, A.J. Hart, R. Macfarlane. ACS Materials Letters, 6(9):4175–4182, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A switchable flexible mechanical clutch based on self-amplified friction of interleaved layers. A. Luo, A.J. Hart. Extreme Mechanics Letters, 71:102197, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Exploration of improved, roller-based spreading strategies for cohesive powders in additive manufacturing via coupled DEM-FEM simulations. R. Weissbach, P.M. Praegla, W.A. Wall, A.J. Hart, C. Meier. Powder Technology, 443:119956, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Manufacturing of high-conductivity carbon nanotube fibers and coils by immersed extrusion. C.E. Owens, G.H. McKinley, A.J. Hart. Materials Today, 75:97-111, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. From automation to augmentation: policy and practice to redefine engineering design and manufacturing in the age of next-gen AI. M.F. Alam, A. Lentsch, N. Yu, S. Barmack, S. Kim, D. Acemoglu, A.J. Hart, S. Johnson, F. Ahmed. MIT Press, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Review—Solid and polymer electrolyte materials and related processing methods suitable for three-dimensional battery architectures. R.B. Church, A.J. Hart. Journal of The Electrochemical Society, 171(4):0512, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Rationally designing the supramolecular interfaces of nanoparticle superlattices with multivalent polymers. C. Thrasher, F. Jia, D. Yee, J. Kubiak, Y. Wang, M. Lee, M. Onoda, A.J. Hart, R. Macfarlane. JACS, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A Bayesian sampling approach to constrained optimization of build layouts in additive manufacturing. S. Kim, K. Gee, A.J. Hart. International Journal of Production Research, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Metal matrix composite with superior ductility at 800 °C: 3D printed In718+ZrB2 by laser powder bed fusion. E. Tekoglu, A.D. O’Brien, J. Bae, K. Lim, J. Liu, S. Kavak, Y. Zhang, S.Y. Kim, D. Agaogullari, W. Chen, A.J. Hart, G. Sim, J. Li. Composites Part B: Engineering, 268:111052, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Quantitative analysis of thin metal powder layers via transmission X-ray imaging and discrete element simulation: Blade-based spreading approaches. R.W. Penny, D. Oropeza, P.M. Praegla, R. Weissbach, C. Meier, W.A. Wall, A.J. Hart. Powder Technology, 432:119106, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Quantitative analysis of thin metal powder layers via transmission X-ray imaging and discrete element simulation: Roller-based spreading approaches. R.W. Penny, D. Oropeza, P.M. Praegla, R. Weissbach, C. Meier, W.A. Wall, A.J. Hart. Powder Technology, 432:119105, 2024. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Virtual planning of a metal additive manufacturing factory using techno-economic hybrid simulation models. E. Shakirov, H. Quinlan, A.J. Hart. 2023 Winter Simulation Conference, 1327-1338, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Individually addressable, 3D-printed carbon nanotube field emitter arrays for large-area vacuum electronics. C.E. Owens, A. Kachkine, G.H. McKinley, L.F. Velásquez-Garcia, A.J. Hart. 23rd International Conference on Solid-State Sensors, Actuators and Microsystems (IEEE Transducers), 1899-1900, 2023. [pdf]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Comparing machine learning algorithms for non-invasive detection and classification of failure in piezoresistive bone cement via electrical impedance tomography. L. Keiderling, J. Rosendorf, C.E. Owens, K.M. Varadarajan, A.J. Hart, J. Schwab, T.N. Tallman, H. Ghaednia. Review of Scientific Instruments, 94:124103, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Learning at work: Visual learning analytics to upskill aerospace engineers in advanced manufacturing. K. Peppler, J. Huang, M.C. Richey, M. Ginda, K. Börner, H. Quinlan, A.J. Hart. ICLS 2023 Proceedings, 1899-1900, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Process intensification of microplasma nanoparticle synthesis enabled by gas flow design. W.J. Sawyer, A.J. Hart. Chemical Engineering Journal, 477:147111, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Learning to write with the fluid rope trick. G. Chaudhary, S. Christ, A.J. Hart, L. Mahadevan. Soft Matter, 19:8329-8336, 2023. [pdf] [doi] [videos]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Thick architected silicon composite battery electrodes using honeycomb patterned carbon nanotube forests. R.B. Church, H. Gao, B.M. Gallant, A.J. Hart. Journal of the Electrochemical Society, 170(9):0543, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Interfacial photopolymerization: a method for light-based printing of thermoplastics. C.A.C. Chazot, M.A. Creighton, A.J. Hart. ACS Applied Materials and Interfaces, 15(25):31009-31019, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. The critical role of fracture in determining the adhesion strength of electroadhesives. A. Luo, R.R. Zhao, J.L. Bassani, A.J. Hart, K.T. Turner. Extreme Mechanics Letters, 63:102062, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Low-profile, large-range compressive strain sensing using micromanufactured CNT micropillar arrays. C. Cao, M.S.H. Boutilier, S. Kim, S.M. Taheri-Mousavi, N. Nayakanti, R. Roberts, C.E. Owens, A.J. Hart. ACS Applied Materials and Interfaces, 15(32):38665-38673, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. 3D-printed, non-planar electron sources for next-generation electron projection lithography. A. Kachkine, C.E. Owens, A.J. Hart, L.F. Velasquez-Garcia. IEEE International Vacuum Nanoelectronics Conference, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Strengthening additively manufactured Inconel 718 through in-situ formation of nanocarbides and silicides. E. Tekoglu, A.D. O’Brien, J. Liu, B. Wang, S. Kavak, Y. Zhang, S.Y. Kim, S. Wang, D. Agaogullari, W. Chen, A.J. Hart, J. Li. Additive Manufacturing, 67:103478, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Scalable, versatile synthesis of ultrathin polyetherimide films and coatings via interfacial polymerization. C.A.C. Chazot, C.J. Thrasher, A. Peraire-Bueno, M.N. Durso, R.J. Macfarlane, A.J. Hart. Advanced Functional Materials, 33(24):2214566, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Laser additive manufacturing for infrastructure repair: A case study of a deteriorated steel bridge beam. S. Zhang, P. Hou, J. Kang, T. Li, S. Mooraj, Y. Ren, A.J. Hart, S. Gerasimidis, W. Chen. Materials Science and Technology, 154:149-158, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Ultrathin high-mobility SWCNT transistors with electrodes printed by nanoporous stamp flexography. D. Mariappan, S. Kim, J. Zhao, H. Zhao, U. Muecke, K. Gleason, T. Akinwande, A.J. Hart. ACS Applied Nanomaterials, 6(7):5075-5080, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. Additive manufacturing of flexible 3D surface electrodes for electrostatic adhesion control and smart robotic gripping. D.G. Kim, H. Je, A.J. Hart, S. Kim. Friction, 11:1974-1986, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A damped double dipole antenna for UHF RFID sensing in the frequency domain. A. Peraire-Bueno, A.J. Hart. IEEE Sensors Journal, 23(4):3710-3716, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
+
+1. A physics-based modeling framework to assess the cost scaling of additive manufacturing, with application to laser powder bed fusion. K. Gee, S. Kim, H. Quinlan, A.J. Hart. Rapid Prototyping Journal, 29(5):1355-2546, 2023. [pdf] [doi]
+
+    게시 페이지: <https://mechanosynthesis.mit.edu/publications/>
 
 ## MIT — Douglas Hart
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -6537,7 +7511,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 6건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -8127,7 +9101,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -8215,7 +9189,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 321건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -11167,7 +12141,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -11998,7 +12972,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -12098,7 +13072,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -12108,7 +13082,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -12156,7 +13130,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -12256,7 +13230,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 69건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -12542,7 +13516,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -12552,7 +13526,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -13017,7 +13991,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -13333,7 +14307,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 35건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -13483,7 +14457,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 56건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -13755,7 +14729,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -13763,21 +14737,751 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
 ## MIT — Themistoklis Sapsis
 
- · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
+ · 논문·원고 184건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
-수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
-
-출처: <https://sandlab.mit.edu/>
-
-출처: <https://meche.mit.edu/people/faculty/sapsis@MIT.EDU>
+수집 범위: 공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
 출처: <http://sandlab.mit.edu/index.php/publications>
 
 출처: <https://sandlab.mit.edu/publications-list/>
 
-출처: <https://www.climatechange.ai/papers/neurips2022/65>
+1. BAYESIAN ANALYSIS AND OPTIMAL EXPERIMENTAL DESIGN Theory-Algorithms E. Pickering, T. Sapsis, Information FOMO: The unhealthy fear of missing out on information. A method for removing misleading data for healthier models, Submitted, (2023) (14 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. J. Zhang, L. Cammarata, C. Squires, T. P. Sapsis, and C. Uhler, Active learning for optimal intervention design in causal models, Nature Machine Intelligence, (2023) [pdf] Featured on the MIT News.
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. E. Pickering, S. Guth, G. Karniadakis, T. Sapsis, Discovering and forecasting extreme events via active learning in neural operators, Nature Computational Science, 2 (2022) 833-843. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Blanchard, Optimal criteria and their asymptotic form for data selection in data-driven reduced-order modeling with Gaussian process regression, Philosophical Transcations of the Royal Society A, 380 (2022) 20210197 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Output-weighted optimal sampling for Bayesian experimental design and rare-event quantification, SIAM/ASA Journal of Uncertainty Quantification, 9 (2021) 564-592. [code] [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Rudy, T. Sapsis, Sparse methods for automatic relevance determination, Physica D, 418 (2021) 132843 (16 pages). [code] [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Bayesian optimization with output-weighted optimal sampling, Journal of Computational Physics, 425 (2021) 109901 (16 pages). [code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, Output-weighted optimal sampling for Bayesian regression and rare event statistics using few samples, Proceedings of the Royal Society A, 476 (2020) 20190834 (24 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Mohamad, T. Sapsis, A sequential sampling strategy for extreme event statistics in nonlinear dynamical systems, Proceedings of the National Academy of Sciences, 115 (2018) 11138-11143. [open access link] [supporting information]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, E. Katsidoniotaki, T. Sapsis, Statistical modeling of fully nonlinear hydrodynamic loads on offshore wind turbine foundations using wave episodes and targeted CFD simulations through active sampling (2023), Wind Energy, In Press (36 pages). [pdf].
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Hammond, T. Sapsis, Reduced order modeling of hydrodynamic interactions between a submarine and unmanned underwater vehicle using non-myopic multi-fidelity active learning, Journal of Ocean Engineering, 288 (2023) 116016. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Y. Yang, A. Blanchard, T. Sapsis, P. Perdikaris, Output-weighted sampling for multi-armed bandits with extreme payoffs, Proceedings of the Royal Society A, 478 (2022) 20210781 (17 pages). [code] [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, G. C. Maceda, D. Fan, Y. Li, Y. Zhou, B. Noack, T. Sapsis, Bayesian optimization for active flow control, Acta Mechanica Sinica, 37 (2022) 1786-1798. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Informative path planning for anomaly detection in environment exploration and monitoring, Ocean Engineering, (2021) 43 110242 (10 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, New perspectives for the prediction and statistical quantification of extreme events in high-dimensional dynamical systems, Philosophical Transactions of the Royal Society A, 376 (2018) 20170133 (18 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, Physics-based probing and prediction of extreme events, SIAM News, 51 (2018) 1. [link] [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Rudy, T. Sapsis, Output-weighted and relative entropy loss functions for deep learning precursors of extreme events, Physica D,443 (2023) 133570 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Bayesian optimization with output-weighted importance sampling, Journal of Computational Physics, 425 (2021) 109901 (16 pages). [code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, T. Sapsis, Machine learning predictors of extreme events occurring in complex dynamical systems, Entropy, 21 (2019) 925 (18 pages). [Code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, A variational approach to probing extreme events in turbulent dynamical systems, Science Advances, 3:e1701533 (2017) (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. W. Cousins, T. Sapsis, Reduced order precursors of rare events in unidirectional nonlinear water waves, Journal of Fluid Mechanics, 790 (2016) 368-388. [pdf] Featured as MIT spotlight. Reported by The Economist.
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. W. Cousins, T. Sapsis, Quantification and prediction of extreme events in a one-dimensional nonlinear dispersive wave model, Physica D, 280-281 (2014) 48-58. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Barthel, T. Sapsis, Harnessing the instability mechanisms in airfoil flow for the data-driven forecasting of extreme events, American Institute of Aeronautics and Astronautics (AIAA) Journal, 61 (2023). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Rudy, T. Sapsis, Prediction of intermittent fluctuations from surface pressure measurements on a turbulent airfoil, American Institute of Aeronautics and Astronautics (AIAA) Journal, 60 (2022) 4174-4190. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. P. Blonigan, M. Farazmand, T. Sapsis, Are extreme dissipation events predictable in turbulent fluid flows?, Physical Review Fluids, 4 (2019) 044606 (21 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, Closed-loop adaptive control of extreme events in a turbulent flow, Physical Review E, 100 (2019) 033110 (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. W. Cousins, M. Onorato, A. Chabchoub, T. Sapsis, Predicting ocean rogue waves from point measurements: an experimental study, Physical Review E, 99 (2019) 032201 (9 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Z. Y. Wan, P. Vlachas, P. Koumoutsakos, T. Sapsis, Data-assisted reduced-order modeling of extreme events in complex dynamical systems, PLOS One, 24 May (2018) (22 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, Reduced-order prediction of rogue waves in two dimensional water waves, Journal of Computational Physics, 340 (2017) 418-434. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, Dynamical indicators for the prediction of bursting phenomena in high-dimensional systems, Physical Review E, 94 (2016) 032212 (15 pages). [pdf] Featured on the Physical Review E: Kaleidoscope.
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. W. Cousins, T. Sapsis, The unsteady evolution of localized unidirectional deep water wave groups, Physical Review E, 91 (2015) 063204 (5 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Mowlavi, T. Sapsis, Model order reduction for stochastic dynamical systems with continuous symmetries, SIAM Journal on Scientific Computing, 40 (2018) 1669-1695. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Majda, Statistically accurate low order models for uncertainty quantification in turbulent dynamical systems, Proceedings of the National Academy of Sciences, 110 (2013) 13705-13710.[pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Majda, Blending modified Gaussian closure and non-Gaussian reduced subspace methods for turbulent dynamical systems, Journal of Nonlinear Science, 23 (2013) 1039 (33 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Majda, Blended reduced subspace algorithms for uncertainty quantification of quadratic systems with a stable mean state, Physica D, 258 (2013) 61-76. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, Attractor local dimensionality, nonlinear energy transfers, and finite-time instabilities in stochastic dynamical systems with applications to 2D fluid flows, Proceedings of the Royal Society A, 469 (2013) 20120550 (23 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & P. Lermusiaux, Dynamical criteria for the evolution of the stochastic dimensionality in flows with uncertainty, Physica D, 241 (2012) 60-76. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & P. Lermusiaux, Dynamically orthogonal field equations for continuous stochastic dynamical systems, Physica D, 238 (2009) 2347-2360. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, A. Mojahed, T. Sapsis, Quality measures for the evaluation of machine learning architectures on the quantification of epistemic and aleatoric uncertainties in complex dynamical systems, Computer Methods in Applied Mechanics and Engineering, (2024) In Press (27 pages) [pdf].
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Champenois, T. Sapsis, Machine learning framework for the real-time reconstruction of regional 4D ocean temperature fields from historical reanalysis data and real-time satellite and buoy surface measurements, Physica D, 459 (2024) 134026. [pdf].
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. Babaee, M. Choi, T. Sapsis, G. Karniadakis, A robust bi-orthogonal/dynamically-orthogonal method using the covariance pseudo-inverse with application to stochastic flow problems, Journal of Computational Physics, 344 (2017) 303-319. [pdf].
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Choi, T. Sapsis, G. E. Karniadakis, On the equivalence of dynamically orthogonal and dynamically bi-orthogonal methods: Theory and numerical simulations, Journal of Computational Physics, 270 (2014) 1-20. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Ueckermann, P. Lermusiaux, T. Sapsis, Numerical schemes for dynamically orthogonal equations of stochastic fluid and ocean flows, Journal of Computational Physics, 233 (2013) 272-294. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, and H. A. Dijkstra, Interaction of additive noise and nonlinear dynamics in the double-gyre wind-driven ocean circulation, Journal of Physical Oceanography, 43 (2013) 366-381. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, M. Ueckermann, P. Lermusiaux, Global analysis of Navier-Stokes and Boussinesq stochastic flows using dynamical orthogonality, Journal of Fluid Mechanics, 734 (2013) 83-113. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Choi, T. Sapsis, G. E. Karniadakis, A convergence study for SPDEs using combined polynomial chaos and dynamically-orthogonal schemes, Journal of Computational Physics, 245 (2013) 281-301. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Champenois, T. Sapsis, Machine learning framework for the real-time reconstruction of regional 4D ocean temperature fields from historical reanalysis data and real-time satellite and buoy surface measurements, Physica D, 459 (2024) 134026 (14 pages) . [pdf].
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, N. Parashar, B. Dodov, C. Lessig, T. Sapsis, A multi-scale deep learning framework for projecting weather extremes, Tackling Climate Change with Machine Learning workshop at NeurIPS 2022, New Orleans (12-2022). Best Paper: ML Innovation [pdf] [link]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Z. Wan, B. Dodov, C. Lessig, H. Dijkstra, T. Sapsis, A data-driven framework for the stochastic reconstruction of small-scale features with application to climate data sets, Journal of Computational Physics, 442 (2021) 110484 (24 pages). [movie] [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. J. E. Chen, T. Theurich, M. Krack, T. Sapsis, L. A. Bergman, A. F. Vakakis, Intense cross-scale energy cascades resembling “mechanical turbulence” in harmonically driven strongly nonlinear hierarchical chains of oscillators, Acta Mechanica, 233 (2022) 1289-1305. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, A. Vakakis, Non-reciprocity in nonlinear elastodynamics, Journal of Sound and Vibration, 412 (2018) 326-335. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. O. Gendelman, T. Sapsis, Energy exchange and localization in essentially nonlinear oscillatory systems: Canonical formalism, ASME Journal of Applied Mechanics, 84 (2017) 011009 (9 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, D. Quinn, A. Vakakis, & L. Bergman, Effective stiffening and damping enhancement of structures with strongly nonlinear local attachments, ASME Journal of Vibration & Acoustics, 134 (2012) 011016 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Vakakis, & L. Bergman, Effect of stochasticity on targeted energy transfer from a linear medium to a strongly nonlinear attachment, Probabilistic Engineering Mechanics, 26 (2011) 119-133. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. O. Gendelman, T. Sapsis, A. Vakakis, L. Bergman, Enhanced passive targeted energy transfer in strongly nonlinear mechanical oscillators, Journal of Sound and Vibration, 330 (2011) 1-8. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & A. Vakakis, Subharmonic orbits of a strongly nonlinear oscillator forced by closely spaced harmonics, Journal of Computational and Nonlinear Dynamics, 6 (2011) 011014 (10 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Vakakis, O. Gendelman, L. Bergman, G. Kerschen, & D. Quinn. Efficiency of targeted energy transfers in coupled nonlinear oscillators associated with 1:1 resonance captures: Part II, analytical study, Journal of Sound and Vibration, 325 (2009) 297-320. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. D. Quinn, O. Gendelman, G. Kerschen, T. Sapsis, L. Bergman, & A. Vakakis. Efficiency of targeted energy transfers in coupled nonlinear oscillators associated with 1:1 resonance aaptures: Part I, Journal of Sound and Vibration, 311 (2008) 1228-1248. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Haji, J. Kluger, T. Sapsis, A. Slocum, A symbiotic approach to the design of offshore wind turbines with other energy harvesting systems, Ocean Engineering Journal, 169 (2018) 673-681. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Haji, J. Kluger, J. Carrus, T. Sapsis, A. Slocum, Experimental investigation of hydrodynamic response of an ocean uranium extraction machine attached to a floating wind turbine, International Journal of Offshore and Polar Engineering, 28 (2018) 225-231. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. -K. Joo, T. Sapsis, A moment-equation-copula-closure method for nonlinear vibrational systems subjected to correlated noise, Probabilistic Engineering Mechanics, 46 (2016) 120-132. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. J. Kluger, T. Sapsis, A. Slocum, Robust energy harvesting from walking vibrations by means of nonlinear cantilever beams, Journal of Sound and Vibration, 341 (2015) 174-194. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H.-K. Joo, T. Sapsis, Performance measures for single-degree-of-freedom energy harvesters under stochastic excitation, Journal of Sound and Vibration, 313 (2014) 4695-4710. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. K. Remick, H.-K. Joo, D.M. McFarland, T. Sapsis, L. Bergman, D.D. Quinn, A. Vakakis, Sustained high-frequency energy harvesting through a strongly nonlinear electromechanical system under single and repeated impulsive excitations, Journal of Sound and Vibration, 333 (2014) 3214-3235. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. K. Remick, A. Vakakis, L. Bergman, D. M. McFarland, D. D. Quinn, T. Sapsis, Sustained high-frequency dynamic instability of a nonlinear system of coupled oscillators forced by single or repeated impulses: Theoretical and experimental results, ASME Journal of Vibration & Acoustics, 136 (2013) 011013 (15 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. STATISTICS OF EXTREMES Expositories-Reviews T. Sapsis, Statistics of extreme events in fluid flows and waves, Annual Review of Fluid Mechanics, 53 (2021) 85-111. [free access pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. Arbabi, T. Sapsis, Generative stochastic modeling of strongly nonlinear flows with non-Gaussian statistics, SIAM/ASA Journal of Uncertainty Quantification, 10 (2022) 555-583. [code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, Output-weighted optimal sampling for Bayesian regression and rare event statistics using few samples, Proceedings of the Royal Society A, 476 (2020) 20190834. [Code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Mohamad, T. Sapsis, A sequential sampling strategy for extreme event statistics in nonlinear dynamical systems, Proceedings of the National Academy of Sciences, 115 (2018) 11138-11143. [open access link], [supporting information], Featured on the MIT News.
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Mohamad, W. Cousins, T. Sapsis, A probabilistic decomposition-synthesis method for the quantification of rare events due to internal instabilities, Journal of Computational Physics, 322 (2016) 288-308. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Mohamad, T. Sapsis, Probabilistic description of extreme events in intermittently unstable dynamical systems excited by correlated stochastic processes, SIAM/ASA Journal on Uncertainty Quantification, 3 (2015) 709-736. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, T. Sapsis, Wave episode based Gaussian process regression for extreme event statistics in ship dynamics: Between the Scylla of Karhunen-Loève convergence and the Charybdis of transient features, Ocean Engineering Journal, 266 (2022) 112633 (18 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, T. Sapsis, Probabilistic characterization of the effect of transient stochastic loads on the fatigue-crack nucleation time, Probabilistic Engineering Mechanics, 66 (2021) 103162 (11 pages). [Code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. V. Belenky, D. Glotzer, V. Pipiras, T. Sapsis, Distribution tail structure and extreme value analysis of constrained piecewise linear oscillators, Probabilistic Engineering Mechanics, 57 (2019) 1-13.[pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. -K. Joo, M. Mohamad, T. Sapsis, Heavy-tailed response of structural systems subjected to extreme forcing events, ASME Journal of Computational and Nonlinear Dynamics, 13 (2018) 090914 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. -K. Joo, M. Mohamad, T. Sapsis, Extreme events and their optimal mitigation in nonlinear structural systems excited by stochastic loads: Application to ocean engineering systems, Ocean Engineering Journal, 142 (2017) 145-160. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Mohamad, T. Sapsis, Probabilistic response and rare events in Mathieu’s equation under correlated parametric excitation, Ocean Engineering Journal,120 (2016) 289-297. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Learning the tangent space of dynamical instabilities from data, Chaos, 29 (2019) 113120, Focus Issue: When Machine Learning Meets Complex Systems: Networks, Chaos and Nonlinear Dynamics, (2019) (15 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, T. Sapsis, Analytical description of optimally time-dependent modes for reduced-order modeling of transient instabilities, SIAM Journal on Applied Dynamical Systems, 18 (2019) 1143-1162. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. Babaee, M. Farazmand, G. Haller, T. Sapsis, Reduced-order description of transient instabilities and computation of finite-time Lyapunov exponents, Chaos, 27 (2017) 063103 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. H. Babaee, T. Sapsis, A minimization principle for the description of time-dependent modes associated with transient instabilities, Proceedings of the Royal Society A, 472 (2016) 20150779 (27 pages). [pdf] Featured on the journal’s cover page.
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Blanchard, S. Mowlavi, T. Sapsis, Control of linear instabilities by dynamically consistent order reduction on optimally time-dependent modes, Nonlinear Dynamics, 95 (2019) 2745-2764. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Charalampopoulos, T. Sapsis, Uncertainty quantification of turbulent systems via physically consistent and data-informed reduced-order models, Physics of Fluids, 34 (2022) 075120. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Charalampopoulos, T. Sapsis, Machine-learning energy-preserving nonlocal closures for turbulent fluid flows and inertial tracers, Physical Review Fluids, 7 (2022) 024305 (24 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, A. Majda, A statistically accurate modified quasilinar Gaussian closure for uncertainty quantification in turbulent dynamical systems, Physica D, 252 (2013) 34-45. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. D. Venturi, T. Sapsis, H. Cho, and G. E. Karniadakis, A computable evolution equation for the joint response-excitation probability density function of stochastic dynamical systems, Proceedings of the Royal Society A, 468 (2012) 759 (25 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & G. Athanassoulis, New partial differential equations governing the response-excitation joint probability distributions of nonlinear systems under general stochastic excitation, Probabilistic Engineering Mechanics, 23 (2008) 289-306. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Mentzelopoulos, J. Ferrandis, S. Rudy, T. Sapsis, M. Triantafyllou, D. Fan, Data-driven prediction and study of vortex induced vibrations by leveraging hydrodynamic coefficient databases learned from sparse sensors, Ocean Engineering Journal, 266 (2022) 112833 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. D. Eeltink, H. Branger, C. Luneau, Y. He, A. Chabchoub, J. Kasparian, T. S. van den Bremer, T. Sapsis, Nonlinear wave evolution with data-driven breaking, Nature Communications 13 (2022) 2343. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Rudy, D. Fan, J. Ferrandis, T. Sapsis, M. Triantafyllou, Optimized parametric hydrodynamic databases provide accurate response predictions and describe the physics of vortex-induced vibrations, Journal of Fluids and Structures, 112 (2022) 103607.[pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. P. Vlachas, J. Pathak, B. R. Hunt, T. Sapsis, M. Girvan, E. Ott, P. Koumoutsakos, Forecasting of spatio-temporal chaotic dynamics with recurrent neural networks: a comparative study of reservoir computing and backpropagation algorithms, Neural Networks, 126 (2020) 191-217. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. P. Vlachas, W. Byeon, Z. Y. Wan, T. Sapsis, P. Koumoutsakos, Data-driven forecasting of high-dimensional chaotic systems with long-short term memory networks, Proceedings of the Royal Society A, 474 (2018) 20170844 (20 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Z. Y. Wan, T. Sapsis, Reduced-space Gaussian process regression for data-driven probabilistic forecast of chaotic dynamical systems, Physica D, 345 (2017) 40-55. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Farazmand, T. Sapsis, Surface waves enhance particle dispersion, Fluids, 4 (2019) (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Z. Y. Wan, T. Sapsis, Machine learning the kinematics of spherical particles in fluid flows, Journal of Fluid Mechanics, 857 (2018) R2 (11 pages). [Code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & G. Haller, Clustering criterion for inertial particles in 2D time-periodic and 3D steady flows, Chaos, 20 (2010) 017515 (11 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. G. Haller & T. Sapsis, Localized instability and attraction along invariant manifolds, SIAM Journal of Applied Dynamical Systems, 9 (2010) 611-633. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & G. Haller, Instabilities in the dynamics of neutrally buoyant particles, Physics of Fluids, 20 (2008) 017102 (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. G. Haller, T. Sapsis, Where do inertial particles go in fluid flows?, Physica D, 237 (2008) 573-583. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Charalampopoulos, S. H. Bryngelson, T. Colonius, T. Sapsis, Hybrid quadrature moment method for accurate and stable representation of non-Gaussian processes applied to bubble dynamics, Phil. Trans. Royal Soc. A, 380 (2022) 20210209 (19 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Atis, M. Leclair, T. Sapsis, T. Peacock, Anisotropic particles focusing effect in complex flows, Physical Review Fluids, 7 (2022) 084503 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Z. Y. Wan, P. Karnakov, P. Koumoutsakos, T. Sapsis, Bubbles in turbulent flows: Data-driven, kinematic models with history terms, International Journal of Multiphase Flows, 129 (2020) 103286 (11 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. N. Aksamit, T. Sapsis, G. Haller, Machine-learning ocean dynamics from Lagrangian drifter trajectories, Journal of Physical Oceanography, 50 (2020) 1179-1196. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Bryngelson, A. Charalampopoulos, T. Sapsis, T. Colonius, A Gaussian moment method and its augmentation via LSTM recurrent neural networks for the statistics of cavitating bubble populations, International Journal of Multiphase Flows, 127 (2020) 103262 (8 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, N. Ouellette, J. Gollub, & G. Haller, Neutrally buoyant particle dynamics in fluid flows: Comparison of Experiments with Lagrangian stochastic models, Physics of Fluids, 23 (2011) 093304 (15 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, J. Peng, & G. Haller, Instabilities on prey dynamics in jellyfish feeding, Bulletin of Mathematical Biology, 73 (2011) 1841-1856. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis & G. Haller, Inertial particle dynamics in a hurricane, Journal of the Atmospheric Sciences, 66 (2009) 2481-2492. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Hammond, T. Sapsis, UUV autonomy and control near submarines using actively sampled surrogates, Journal of Ship Research, 67 (2023), 235-251 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. D. Glotzer, V. Pipiras, V. Belenky, K. Weems, T. Sapsis, Distributions and extreme value analysis of critical response rate and split-time metric in nonlinear oscillators with stochastic excitation, Ocean Engineering Journal, 292 (2024) 116538 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. Levine, S. Edwards, D. Howard, K. Weems, T. Sapsis, V. Pipiras, Multi-fidelity data-adaptive autonomous seakeeping, Ocean Engineering Journal, 292 (2024) 116322 (13 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. V. Belenky, K. Weems, W.-M. Lin, V. Pipiras, T. Sapsis, Estimation of probability of capsizing with split-time method, Ocean Engineering Journal, 292 (2024) 116452 (27 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Hammond, T. Sapsis, Reduced order modeling of hydrodynamic interactions between a submarine and unmanned underwater vehicle using non-myopic multi-fidelity active learning, Ocean Engineering Journal, 288 (2023) 116016. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. B. Campbell, V. Belenky, V. Pipiras, K. Weems, T. Sapsis, Estimation of probability of large roll angle with envelope peaks over threshold method, Ocean Engineering Journal, 290 (2023), 116296 (16 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. A. Kriezis, C. Chryssostomidis, T. Sapsis, Predicting ship power using machine learning methods, Proceedings of the SNAME Maritime Convention 2022, Houston, Texas, (9 – 2022). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. M. D. Levine, S. J. Edwards, D. Howard, V. Belenky, K. Weems, T. Sapsis, and V. Pipiras, Data-adaptive autonomous seakeeping, Proceedings of the 34th Symposium on Naval Hydrodynamics Washington, DC, USA (6 – 2022). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. S. Guth, B. Champenois, T. Sapsis, Application of Gaussian process multi-fidelity optimal sampling to ship structural modeling, Proceedings of the 34th Symposium on Naval Hydrodynamics Washington, DC, USA (6 – 2022). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. T. Sapsis, V. Belenky, K. Weems, V. Pipiras, Deck effects on the statistical structure of the vertical bending moment loads during random waves: an analytical approach, Proceedings of the 34th Symposium on Naval Hydrodynamics Washington, DC, USA (6 – 2022). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. V. Pipiras, D. Howard, V. Belenky, K. Weems and T. Sapsis, Multi-Fidelity Uncertainty Quantification and Reduced-Order Modeling for Extreme Ship Motions and Loads, Proceedings of the 34th Symposium on Naval Hydrodynamics Washington, DC, USA (6 – 2022). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. V. Belenky, K. Weems, V. Pipiras, D. Glotzer, T. Sapsis, Tail structure of roll and metric of capsizing in irregular waves, Proceedings of the 32nd Symposium on Naval Hydrodynamics (2018), Hamburg, Germany (8-2018). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. V. Belenky, D. Glozter, V. Pipiras, T. P. Sapsis, On the tail of nonlinear roll motions, Proceedings of the 15th International Ship Stability Workshop, 13-15 June 2016, Stockholm, Sweden (6-2016). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications/>
+
+1. Submitted manuscripts B. Barthel Sorensen, M. Black, E. Noorani, T. Sapsis, A temporal barrier framework for collision avoidance in multi-agent autonomous aerial vehicles (2026), Submitted. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. K. Metaxas, T. Sapsis, Risk-sensitive learning in population games under extreme events: bifurcations and chaotic dynamics (2026), Submitted. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. M. Wang, B. Barthel Sorensen, T. Sapsis, Generative Prediction-Correction Framework for Long-time Emulations of Spatially-Resolved Climate Extremes (2026), Submitted. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. D. Eamer, S, Stamatelopoulos, A. Y. Elbanhawy, F. Christia, T. P. Sapsis, E. Olivetti, A Generalized Framework for Assessing Cargo Loss Impacts of Alternative Maritime Fuels (2026), Submitted. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. M. Wang, A. Souza, R. Ferrari, T. Sapsis, Stochastic emulators of spatially resolved extreme temperatures of earth system models (2026), Submitted. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. N. Chen, R. Malek-Madani, P. Hassanzadeh, S. N. Stechmann, A, Braverman, H. Christensen, A. Gelb, M. Ghil, D. Giannakis, C. Jones, R. Leung, M. Morzfeld, C. Moser, T. Palmer, C. Sampson, T. Sapsis, T. Shaw, S. Stuart, J. Weare, L. Zanna, An Applied Mathematics Perspective on Modern Geoscience (2026), Submitted.
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2026 I. Thiel, J. Bello-Rivas, I. Kevrekidis, T. Sapsis, Mechanism-Aware Ensemble Conditioning for Data-Limited Emulation of Extreme Events (2026), Proceedings of NeurIPS. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. E. Katsidoniotaki, T. Sapsis, Dynamics-informed deep learning for predicting extreme events (2026), Proceedings of the Royal Society A, In Press. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. K. Chang, T. Sapsis, Extreme Event Aware (η-) Learning (2026), Nature Communications, In Press. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. S. Tang, T. Sapsis, N. Azizan, Learning Dissipative Chaotic Dynamics with Boundedness Guarantees (2026), Proceedings of the National Academy of Sciences, In Press. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Valiaveedu, N. Edmonds, T. Sapsis, Ship’s Ahoy! Developing a Trans-Atlantic Corridor for Nuclear Maritime (2026), ATPL Journal of Transportation, Law Logistics and Policy, In Press. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Champenois, T. Sapsis, Predicting ocean flow from observed Lagrangian trajectories via Bayesian optimization in the latent space of an autoencoder-based reduced-order model (2026), Artificial Intelligence for the Earth Systems, 5, e250124. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Barthel Sorensen, L. Zepeda-Núñez, I. Lopez-Gomez, Z. Y. Wan, R. Carver, F. Sha, T. P. Sapsis, A probabilistic framework for learning non-intrusive corrections to long-time climate simulations from short-time training data (2026), Journal of Advances in Modeling Earth Systems, 18, e2024MS004755. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2025 E. Katsidoniotaki, B. Su, E. Kelasidi, T. Sapsis, Multifidelity digital twin for real-time monitoring of structural dynamics in aquaculture net cages (2025), Scientific Reports, 15 (2025) 44281. [Open Access pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Champenois, T. Sapsis, What are the most informative data points for predicting extreme events?, Nonlinear Dynamics, 113 (2025) 34167. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. D. Kim, T. Sapsis, Forecasting Lift of Airfoil Randomly Maneuvering Under Dynamic Stall Conditions, American Institute of Aeronautics and Astronautics 63 (2025) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. P. Mentzelopoulos, I. Papakalodoukas, D. Fan, T. P. Sapsis, M. S. Triantafyllou, Deep learning vortex-induced vibrations: time-space forecasting with transformers, Journal of Fluids and Structures 137 (2025) 104337 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. Y. Psarellis, T. Sapsis, I. Kevrekidis, Active search for bifurcations, Chaos 35 (2025) 053159 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Champenois, C. Bastidas, B. LaBash, T. Sapsis, Data-Driven Modeling of 4D Ocean and Coastal Acidification in the Massachusetts and Cape Cod Bays from Surface Measurements, Journal of Geophysical Research – Biogeosciences 130 (2025) e2024JG008465 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. E. Katsidoniotaki, S. Guth, M. Göteman, T. P. Sapsis, Reduced order modeling of wave energy systems via sequential Bayesian experimental design and machine learning, Applied Ocean Research, 155 (2025) 104439 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. S. Stamatelopoulos, T. Sapsis, Can diffusion models predict extreme events?, Comput. Methods Appl. Mech. Engrg., 435 (2025) 117589 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. M. Kim, K. O’Connor, V. Pipiras, T. Sapsis, Sampling low-fidelity outputs for estimation of high-fidelity density and its tails, SIAM/ASA Journal of Uncertainty Quantification, 13 (2025) 30 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2024 E. Pickering, T. Sapsis, Information FOMO: The unhealthy fear of missing out on information. A method for removing misleading data for healthier models, Entropy, 26 (2024) 835 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. S. Zhang, B. Harrop, R. Leung, A. Charalampopoulos, B. Barthel Sorensen, W. Xu, and T. Sapsis, A Machine Learning Bias Correction on Large‐Scale Environment of High‐Impact Weather Systems in E3SM Atmosphere Model, Journal of Advances in Modeling Earth Systems, 16, (2024) e2023MS004138 (34 pages) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. P. Mentzelopoulos, E. Prele, D. Fan, J. A. Ferrandis, T. Sapsis, M. S. Triantafyllou, Reconstructing flexible body vortex-induced vibrations using machine-vision and predicting the motions using semi-empirical models informed with transfer learned hydrodynamic coefficients, Journal of Fluid and Structures, 129 (2024) 104154 (13 pages) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. P. Mentzelopoulos, D. Fan; T. P. Sapsis, M. S. Triantafyllou, Variational autoencoders and transformers for multivariate time-series generative modelling and forecasting: applications to vortex-induced vibrations, Ocean Engineering Journal, 310 (2024) 118639 [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Barthel Sorensen, A. Charalampopoulos, S. Zhang, B. E. Harrop, L. R. Leung, and T. Sapsis, A non-intrusive machine learning framework for debiasing long-time coarse resolution climate simulations and quantifying rare events statistics, Journal of Advances in Modeling Earth Systems, 16 (2024) e2023MS004122 (29 pages) [pdf] [Featured by the MIT News]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. J. Ferrandis, A. Mentzelopoulos, E. Ronglan, S. Rudy, D. Fan, T. Sapsis, M. Triantafyllou, Improving predictions of vortex induced vibrations via generalizable hydrodynamic databases across several current incidence angles, Journal of Fluids and Structures, 126 (2024) 104086 (21 pages) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. S. Guth, A. Mojahed, T. Sapsis, Quality measures for the evaluation of machine learning architectures on the quantification of epistemic and aleatoric uncertainties in complex dynamical systems, Computer Methods in Applied Mechanics and Engineering, 420 (2024) 116760 (22 pages) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. D. Glotzer, V. Pipiras, V. Belenky, K. Weems, T. Sapsis, Distributions and extreme value analysis of critical response rate and split-time metric in nonlinear oscillators with stochastic excitation, Journal of Ocean Engineering, 292 (2024) 116538 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. M. Levine, S. Edwards, D. Howard, K. Weems, T. Sapsis, V. Pipiras, Multi-fidelity data-adaptive autonomous seakeeping, Journal of Ocean Engineering, 292 (2024) 116322 (13 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. V. Belenky, K. Weems, W.-M. Lin, V. Pipiras, T. Sapsis, Estimation of probability of capsizing with split-time method, Journal of Ocean Engineering, 292 (2024) 116452 (27 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. S. Guth, E. Katsidoniotaki, T. Sapsis, Statistical modeling of fully nonlinear hydrodynamic loads on offshore wind turbine foundations using wave episodes and targeted CFD simulations through active sampling, Wind Energy, 27 (2024) 75-100. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2023 B. Campbell, V. Belenky, V. Pipiras, K. Weems, T. Sapsis, Estimation of probability of large roll angle with envelope peaks over threshold method, Journal of Ocean Engineering, 290 (2023), 116296 (16 pages) [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. J. Zhang, L. Cammarata, C. Squires, T. P. Sapsis, and C. Uhler, Active learning for optimal intervention design in causal models, Nature Machine Intelligence, 5 (2023) 1066-1075. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. B. Barthel, T. Sapsis, Harnessing the instability mechanisms in airfoil flow for the data-driven forecasting of extreme events (2023), American Institute of Aeronautics and Astronautics (AIAA) Journal, 61 (2023). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Mentzelopoulos, J. Ferrandis, D. Fan, S. Rudy, T. Sapsis, M. Triantafyllou, Physics-based data-informed prediction of vertical, catenary, and stepped riser vortex induced vibrations, International Journal of Offshore and Polar Engineering, 33 (2023) 367–379. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2022 E. Pickering, S. Guth, G. Karniadakis, T. Sapsis, Discovering and forecasting extreme events via active learning in neural operators, Nature Computational Science, 2 (2022) 833-843. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Mentzelopoulos, J. Ferrandis, S. Rudy, T. Sapsis, M. Triantafyllou, D. Fan, Data-driven prediction and study of vortex induced vibrations by leveraging hydrodynamic coefficient databases learned from sparse sensors, Ocean Engineering Journal, 266 (2022) 112833. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. T. Sapsis, A. Blanchard, Optimal criteria and their asymptotic form for data selection in data-driven reduced-order modeling with Gaussian process regression, Philosophical Transactions of the Royal Society A, 380 (2022) 20210197 (12 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Blanchard, T. Sapsis, Informative path planning for anomaly detection in environment exploration and monitoring, Ocean Engineering, (2022) 43 110242 (10 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2021 S. Guth, T. Sapsis, Probabilistic characterization of the effect of transient stochastic loads on the fatigue-crack nucleation time, Probabilistic Engineering Mechanics, 66 (2021) 103162 (11 pages). [Code][pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. T. Sapsis, Statistics of extreme events in fluid flows and waves, Annual Review of Fluid Mechanics, 53 (2021) 85-111. [free access pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2020 T. Sapsis, Output-weighted optimal sampling for Bayesian regression and rare event statistics using few samples, Proceedings of the Royal Society A, 476 (2020) 20190834 (24 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Athanassoulis, G. Athanassoulis, M. Ptashnyk, T. Sapsis, Strong solutions for the Alber equation and stability of unidirectional wave spectra, Kinetic and Related Models, 13 (2020) 703-737. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2019 A. Blanchard, T. Sapsis, Learning the tangent space of dynamical instabilities from data, Chaos, 29 (2019) 113120, Focus Issue: When Machine Learning Meets Complex Systems: Networks, Chaos and Nonlinear Dynamics, (2019) (15 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2018 M. Mohamad, T. Sapsis, A sequential sampling strategy for extreme event statistics in nonlinear dynamical systems, Proceedings of the National Academy of Sciences, 115 (2018) 11138-11143. [open access link], [supporting information], Featured on the MIT News.
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2017 M. Farazmand, T. Sapsis, A variational approach to probing extreme events in turbulent dynamical systems, Science Advances, 3:e1701533 (2017) (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Athanassoulis, G. Athanassoulis, T. Sapsis, Localized instabilities of the Wigner equation as a model for the emergence of rogue Waves, J. Ocean Eng. Mar. Energy, 3 (2017) 353-372. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. J.M. Kluger, A.H. Slocum, and T. Sapsis, Ring-based stiffening flexure applied as a load cell with high resolution and large force range, ASME Journal of Mechanical Design, 139 (2017) 103501 (8 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2016 M. Farazmand, T. Sapsis, Dynamical indicators for the prediction of bursting phenomena in high-dimensional systems, Physical Review E, 94 (2016) 032212 (15 pages). [pdf] Featured on the Physical Review E: Kaleidoscope.
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. J. Kluger, T. Sapsis, A. Slocum, A high-resolution and large force-range load cell by means of nonlinear cantilever beams, Precision Engineering, 43 (2016) 241-256. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2015 M. Mohamad, T. Sapsis, Probabilistic description of extreme events in intermittently unstable dynamical systems excited by correlated stochastic processes, SIAM/ASA Journal on Uncertainty Quantification, 3 (2015) 709-736. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. H. -K. Joo, T. Sapsis, Closure schemes for nonlinear bistable systems subjected to correlated Noise: Applications to energy harvesting from water waves, Journal of Ocean and Wind Energy, 2 (2015) 65-72. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. A. Petsakou, T. Sapsis, J. Blau, Circadian rhythms in Rho1 activity regulate neuronal plasticity and network hierarchy, Cell, 162 (2015) 1-13. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2014 A. Majda, D. Qi, T. Sapsis, Blended particle filters for large dimensional chaotic dynamical systems, Proceedings of the National Academy of Sciences, 111 (2014) 7511-7516. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. K. Remick, A. Vakakis, L. Bergman, D. M. McFarland, D. D. Quinn, T. Sapsis, Sustained high-frequency dynamic instability of a nonlinear system of coupled oscillators forced by single or repeated impulses: Theoretical and experimental results, ASME Journal of Vibration & Acoustics, 136 (2014) 011013 (15 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2013 T. Sapsis, A. Majda, Statistically accurate low order models for uncertainty quantification in turbulent dynamical systems, Proceedings of the National Academy of Sciences, 110 (2013) 13705-13710.[pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2012 D. Venturi, T. Sapsis, H. Cho, and G. E. Karniadakis, A computable evolution equation for the joint response-excitation probability density function of stochastic dynamical systems, Proceedings of the Royal Society A, 468 (2012) 759 (25 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2011 T. Sapsis, A. Vakakis, & L. Bergman, Effect of stochasticity on targeted energy transfer from a linear medium to a strongly nonlinear attachment, Probabilistic Engineering Mechanics, 26 (2011) 119-133. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. G. Haller, T. Sapsis, Lagrangian coherent structures and the smallest finite-time Lyapunov exponent, Chaos, 21 (2011) 023115 (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2010 T. Sapsis & G. Haller, Clustering criterion for inertial particles in 2D time-periodic and 3D steady flows, Chaos, 20 (2010) 017515 (11 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2009 T. Sapsis & P. Lermusiaux, Dynamically orthogonal field equations for continuous stochastic dynamical systems, Physica D, 238 (2009) 2347-2360. [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
+
+1. 2008 T. Sapsis & G. Haller, Instabilities in the dynamics of neutrally buoyant particles, Physics of Fluids, 20 (2008) 017102 (7 pages). [pdf]
+
+    게시 페이지: <https://sandlab.mit.edu/publications-list/>
 
 ## MIT — Sanjay Sarma
 
@@ -16072,7 +17776,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -16214,7 +17918,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 15건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -16288,7 +17992,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -16304,7 +18008,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -16314,7 +18018,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -16354,7 +18058,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 20건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -16444,7 +18148,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -16454,7 +18158,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 189건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -17820,7 +19524,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 50건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -18156,7 +19860,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 80건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.
 
@@ -18564,7 +20268,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 
@@ -18660,7 +20364,7 @@ Design Computation and Digital Engineering (DeCoDE) Lab · 논문·원고 139건
 
  · 논문·원고 0건 · 기타 성과 0건 · 상태: partial
 
-확인일: 2026-11-15T07:07:46.309678+00:00
+확인일: 2026-11-15T07:16:05.726725+00:00
 
 수집 범위: 공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).
 

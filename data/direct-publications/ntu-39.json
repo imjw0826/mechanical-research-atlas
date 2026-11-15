@@ -5,13 +5,14 @@
   "lab_name": null,
   "lab_url": "https://dr.ntu.edu.sg/cris/rp/rp01083",
   "publication_urls": [
-    "https://dr.ntu.edu.sg/entities/person/Moon-Seung-Ki/selectedpublications"
+    "https://dr.ntu.edu.sg/entities/person/Moon-Seung-Ki/selectedpublications",
+    "https://personal.ntu.edu.sg/skmoon/publication.html"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
-  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
-  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "previous_coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "accessed_at": "2026-11-15T07:16:05.726725+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
   "papers": [
     {
@@ -43,6 +44,1368 @@
       "year": 2017,
       "citation_raw": "Yao, X., Moon, S.K., and Bi, G. (2017). A Hybrid Machine Learning Approach for Additive Manufacturing Design Feature Recommendation. Rapid Prototyping Journal, 23(6), 983-997.",
       "source_url": "https://dr.ntu.edu.sg/entities/person/Moon-Seung-Ki/selectedpublications"
+    },
+    {
+      "title": "An Integrated Simulation-Gaussian Process Regression Approach for Performance Prediction in Complex Production Layout under Uncertainty",
+      "year": 2026,
+      "citation_raw": "- Lee, J. and Moon, S.K., “An Integrated Simulation-Gaussian Process Regression Approach for Performance Prediction in Complex Production Layout under Uncertainty,” ASME Journal of Mechanical Design, Vol. 148, No. 10, p. 102001, 2026.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "From Drawings to Decisions: A Hybrid Vision-Language Framework for Parsing 2D Engineering Drawings into Structured Manufacturing Knowledge",
+      "year": 2026,
+      "citation_raw": "- Khan, M.T., Chen, L*, Yong Z., Tan, M.J., Feng, W., and Moon, S.K., “From Drawings to Decisions: A Hybrid Vision-Language Framework for Parsing 2D Engineering Drawings into Structured Manufacturing Knowledge,” Robotics and Computer-Integrated Manufacturing, Vol. 99, June, p.103186, 2026.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Intelligent process control and stimulus-responsive 4D transformation in extrusion-based 3D food printing: A critical review",
+      "year": 2026,
+      "citation_raw": "- Jeon, S., Go, A., Kim, D., Moon, S.K., and Park, S.J., “Intelligent process control and stimulus-responsive 4D transformation in extrusion-based 3D food printing: A critical review,” International Journal of Bioprinting, 2026 (Accepted).",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Rapid preheating for extrusion-type additive manufacturing of super-engineering thermoplastics",
+      "year": 2026,
+      "citation_raw": "- Lee, J.E., Park, S.J., Park, S.H., Son, Y., Moon, S.K., Park, K., Ha, C.W., “Rapid preheating for extrusion-type additive manufacturing of super-engineering thermoplastics,” Scientific Reports, 2026 (In press).",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "LLM-Inspired Vision Transformer Framework for Intelligent Quality Recognition in Aerosol Jet Printing",
+      "year": 2026,
+      "citation_raw": "- Zhang, H., Choi, J.P., Liu, X., Liang, N., Yu, Y., Kim, Y., Shin, D., Moon, S.K., Yoon, Y.J., “LLM-Inspired Vision Transformer Framework for Intelligent Quality Recognition in Aerosol Jet Printing,” Engineering, 2026 (In press).",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Hybrid Multi-Criteria Decision-Making Approach for Production Line Configuration based on Product Modularity and Life Cycle",
+      "year": 2026,
+      "citation_raw": "- Kim, Y., Lee, J., Kim, S., Moon, S.K., and Lopez, M., “A Hybrid Multi-Criteria Decision-Making Approach for Production Line Configuration based on Product Modularity and Life Cycle,” Journal of Engineering Design, Vol. 37, No. 2, pp. 495–528, 2026.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Prediction of the Bead Shape in a Directed Energy Deposition Process Using Machine Learning with Limited Point Data",
+      "year": 2026,
+      "citation_raw": "- Lee, K.K., Kim, J.*, Moon, S.K., and Ahn, D.K., “Prediction of the Bead Shape in a Directed Energy Deposition Process Using Machine Learning with Limited Point Data,” International Journal of Precision Engineering and Manufacturing – Green Technology, Vol. 13, No. 1, pp. 124-156, 2026.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Insights into the industrial applications and future directions of bulk metallic glasses via additive manufacturing",
+      "year": 2026,
+      "citation_raw": "- Park, S.J., Cho, S., Ng, P.H.N., Lee, J., Kim, J., Jeon, S., Khan, M.T., Chen, L., Wu, Q., and Moon, S.K., “Insights into the industrial applications and future directions of bulk metallic glasses via additive manufacturing,” International Journal of Precision Engineering and Manufacturing, 2026 (In press).",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": null,
+      "year": 2026,
+      "citation_raw": "- Lee, J., Park, S.J., Choi, J.P., Jeon, S., Kim, J., and Moon, S.K., “Design Complexity-Driven Optimization of Production Efficiency and Scheduling for Metal-Polymer Hybrid Structures in Additive Manufacturing International Journal of Precision Engineering and Manufacturing – Green Technology, 2026 (In press).",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "AI-based Mechanical Properties Prediction of Sintering-Aging Combined Effect in Metal-material Extrusion",
+      "year": 2026,
+      "citation_raw": "- Jeon, S., Kim, J., Go, A., Choi, J.P., Yang, D., and Moon, S.K., “AI-based Mechanical Properties Prediction of Sintering-Aging Combined Effect in Metal-material Extrusion,” International Journal of Precision Engineering and Manufacturing – Green Technology, 2026 (In press).",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A digital twin emulator for production performance prediction and optimization using multi-scale ensemble and surrogate models",
+      "year": 2026,
+      "citation_raw": "- Liu, B., Chua, P., Lee, J., Moon, S.K., and Lopez, M., “A digital twin emulator for production performance prediction and optimization using multi-scale ensemble and surrogate models,” Journal of Intelligent Manufacturing, Vol. 37, No. 1, pp. 201-2019, 2026.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "- Jeon, S., Kim",
+      "year": 2026,
+      "citation_raw": "- Jeon, S., Kim, J.K., Park, S.J., Kim, J.Y., Moon, S.K., and Yang, D., “Temperature Dependent Mechanical Properties of End-of-Life Carbon Reinforced Plastics, “International Journal of Precision Engineering and Manufacturing – Green Technology, Vol. 13, pp. 685-701, 2026.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Enhanced Mechanical Properties and Reduced Anisotropy of Material Extrusion-Manufactured Short Carbon Fiber-Reinforced Plastic via Cold Isostatic Pressing",
+      "year": 2025,
+      "citation_raw": "-Jeon, S., Park, S.J., Moon, S.K., and Yang, D., “Enhanced Mechanical Properties and Reduced Anisotropy of Material Extrusion-Manufactured Short Carbon Fiber-Reinforced Plastic via Cold Isostatic Pressing,” Virtual and Physical Prototyping, Vol. 20, No. 1, p. e2499934, 2025.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Autonomous printing process optimisation and in-situ anomaly detection in fused deposition modelling using an integrated data-driven approach",
+      "year": 2025,
+      "citation_raw": "- Zhang, H., Yu, Y., Liu, X., Liang, N., Kim, Y., Shin, D., Moon, S.K., and Choi, J.P., “Autonomous printing process optimisation and in-situ anomaly detection in fused deposition modelling using an integrated data-driven approach,” Virtual and Physical Prototyping, Vol. 20, No.1, p. 22545523, 2025.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Microstructures Formation and Strengthening Mechanism of Ultra-Rapidly Solidified Powder Metallurgy Ti-Si Alloys via Hot Rolling Process",
+      "year": 2025,
+      "citation_raw": "- Kariya, S., Hayashi, Y., Issariyapat, A., Umeda, J., Moon, S.K., Chen, B., Li, S., and Kondoh, K., “Microstructures Formation and Strengthening Mechanism of Ultra-Rapidly Solidified Powder Metallurgy Ti-Si Alloys via Hot Rolling Process,” Materials Transactions, Vol. 66, No. 8, pp. 963-964, 2025.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Software-Defined Factory: Paradigm Shift in Manufacturing Towards Industry 5.0",
+      "year": 2025,
+      "citation_raw": "- Kim, J., Lee, J.*, Park, S.J., Lee, J., Song, B., and Moon, S.K., “Software-Defined Factory: Paradigm Shift in Manufacturing Towards Industry 5.0,” International Journal of Precision Engineering and Manufacturing – Smart Technology, Vol. 3, No. 2, pp. 201-209, 2025.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs",
+      "year": 2025,
+      "citation_raw": "- Khan, M.T., Chen, L., Ng, Y.H., Feng, W., Tan, N.Y.J., and Moon, S.K., “Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs,” ASME Journal of Computing and Information Science in Engineering, Vol. 25, No. 10, p. 104501, 2025.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Digital twin driven reconfigurable production line design and optimization in smart factory",
+      "year": 2025,
+      "citation_raw": "- Wang, P., Lee, J., Lee, G.S., Moon, S.K., and Lopez, M., “Digital twin driven reconfigurable production line design and optimization in smart factory,” Annals of Operations Research, 2025 (Accepted).",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "High-strength joining of additive-manufactured polymer and metal parts via warm isostatic pressing: Applications in medical implants and injection moulds",
+      "year": 2025,
+      "citation_raw": "- Park, S.J., Yang, J., Lee, J.H., Hong, S., Moon, S.K., Son, Y., and Park, S.H., “High-strength joining of additive-manufactured polymer and metal parts via warm isostatic pressing: Applications in medical implants and injection moulds,” Virtual and Physical Prototyping, Vol. 20, No. 1, p. e2449566, 2025.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Strategic design and simulation of interfaces for enhanced joint performance in metal-polymer hybrid structures",
+      "year": 2025,
+      "citation_raw": "- Park, S.J., Choi, J.P., Lee, P.H., and Moon, S.K., “Strategic design and simulation of interfaces for enhanced joint performance in metal-polymer hybrid structures,” Journal of Computational Design and Engineering, Vol. 12, No. 4, pp. 1-13, 2025.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Audio-visual cross-modality knowledge transfer for machine learning-based in-situ monitoring in laser additive manufacturing",
+      "year": 2025,
+      "citation_raw": "- Xie, J., Mutahar Safdar, M., Chen L., Moon, S.K., and Zhao, Y.F., “Audio-visual cross-modality knowledge transfer for machine learning-based in-situ monitoring in laser additive manufacturing,” Additive Manufacturing, Vol. 101, 5 March, p. 104692, 2025.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Hybrid Data-Driven Optimization and Decision-Making Approach for a Digital Twin Environment: Towards Customizing Production Platforms",
+      "year": 2025,
+      "citation_raw": "- Lee, J., Chua, P.C, Liu, B., Moon, S.K., and Lopez, M., “A Hybrid Data-Driven Optimization and Decision-Making Approach for a Digital Twin Environment: Towards Customizing Production Platforms,” International Journal of Production Economics, Vol. 279, No. 1, p. 109447, 2025.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Data-Driven autonomous printing process optimization and real-time abnormality identification in aerosol jet-deposited droplet morphology",
+      "year": 2024,
+      "citation_raw": "- Zhang, H., Cui, L., Lee, P.H., Kim, Y., Moon, S.K., and Choi, J.H., “Data-Driven autonomous printing process optimization and real-time abnormality identification in aerosol jet-deposited droplet morphology,” Virtual and Physical Prototyping, Vol. 19, No. 1, 2024.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Fabrication of 17-4PH stainless steel by metal material extrusion: Effects of process parameters and heat treatment on physical properties",
+      "year": 2024,
+      "citation_raw": "- Go, A., Jeon, E.S., Moon, S.K., and Park, S.J., “Fabrication of 17-4PH stainless steel by metal material extrusion: Effects of process parameters and heat treatment on physical properties,” Materials & Design, Vol. 248, p.113471, 2024.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Crack Control in Additive Manufacturing by Leveraging Process Parameters and Lattice Design",
+      "year": 2024,
+      "citation_raw": "- Lee, J.H., Park, S.J., Yang, J., Moon, S.K., and Park, J., “Crack Control in Additive Manufacturing by Leveraging Process Parameters and Lattice Design,” Micromachines, Vol. 15, No. 11, p. 1361, 2024.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review",
+      "year": 2024,
+      "citation_raw": "- Chen, L., Bi, G., Yao, X., Su, J., Tan, C., Feng, W., Benakis, M., Chew, Y., and Moon, S.K., “In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review,” Journal of Manufacturing Systems, Vol. 24, pp.527-574, 2024.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Direct energy deposition for smart micro reactor",
+      "year": 2024,
+      "citation_raw": "- Kim, H., Seo, J., Baek, A.M.C., Shin, W.Y., Jeon, H, Moon, S.K., Kim, H., Kim, N., and Jung, I.D., “Direct energy deposition for smart micro reactor,” Virtual and Physical Prototyping, Vol. 19, No. 1, e2411024, 2024.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Uncertainty quantification of Process-Property-Structure linkage for Fused Filament Fabrication parts",
+      "year": 2024,
+      "citation_raw": "- Zhang, Y. and Moon, S.K., “Uncertainty quantification of Process-Property-Structure linkage for Fused Filament Fabrication parts,” ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part B: Mechanical Engineering, Vol. 10, No. 3, p. 031102, 2024.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Influence of nozzle temperature on gas emissions and mechanical properties in material extrusion-based additive manufacturing of super engineering plastics",
+      "year": 2024,
+      "citation_raw": "- Park, S.J., Lee, J.S., Lee, J.E., Moon, S.K., Son, Y., and Park, S.H., “Influence of nozzle temperature on gas emissions and mechanical properties in material extrusion-based additive manufacturing of super engineering plastics,” International Journal of Precision Engineering and Manufacturing – Green Technology, 2024 (In press).",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "In-Situ Defect Detection in Laser-Directed Energy Deposition with Machine Learning and Multi-Sensor Fusion",
+      "year": 2024,
+      "citation_raw": "- Chen, L. and Moon, S.K., “In-Situ Defect Detection in Laser-Directed Energy Deposition with Machine Learning and Multi-Sensor Fusion,” Journal of Mechanical Science and Technology, Vol. 38, No. 9, pp. 4477-4484, 2024.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Conductivity and Flexibility Enhancement of Aerosol-Jet-Printed Sensors using a Sliver Nanoparticle Ink with Carbon Nanotubes",
+      "year": 2024,
+      "citation_raw": "- Zhang, H., Moon, S.K., Jung, M.K., Lee, P.H., Ha, T., and Choi, J.H., “Conductivity and Flexibility Enhancement of Aerosol-Jet-Printed Sensors using a Sliver Nanoparticle Ink with Carbon Nanotubes,” Archives of Metallurgy and Materials, Vol. 69, No. 2, pp. 401-405, 2024.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Current collectors of Carbon Fiber Reinforced Polymer for Stackable Energy Storage Composites",
+      "year": 2024,
+      "citation_raw": "- Han, Y., So, B.J., Kim, H.J., Jeon, J.G., Kim, J.H., Lee, J.H., Shin, G., Baek, J.Y., Kim, H., Lee, M.W., Moon, S.K., Seo, K., Park, S.Y., Jeon, J.G., Shin, H., and Kang, T.J., “Current collectors of Carbon Fiber Reinforced Polymer for Stackable Energy Storage Composites,” Energy Storage Materials, Vol. 64, January, p. 103070, 2024.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Automatic Feature Recognition and Dimensional Attributes Extraction From CAD Models for Hybrid Additive-Subtractive Manufacturing",
+      "year": 2024,
+      "citation_raw": "- Khan, M. T., Wenhe Feng, W., Chen, L., Ng, Y.H., Tan, N.Y.J., and Moon, S.K., “Automatic Feature Recognition and Dimensional Attributes Extraction From CAD Models for Hybrid Additive-Subtractive Manufacturing,” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Washington D.C., USA, August 25-28, 2024, Paper No. IDETC2024- 143107.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Hybrid Simulation-Gaussian Process Regression Approach for Performance Prediction and Reconfiguration of Production Layout",
+      "year": 2024,
+      "citation_raw": "- Lee, J. and Moon, S.K., “A Hybrid Simulation-Gaussian Process Regression Approach for Performance Prediction and Reconfiguration of Production Layout,” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Washington D.C., USA, August 25-28, 2024, Paper No. IDETC2024-142477.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Single-Track Melt Pool Simulation In Robotic Laser-Directed Energy Deposition Under Speed Inaccuracy",
+      "year": 2024,
+      "citation_raw": "- Kim, J., Chen, L.*, Feng, W., Chew, Y., Moon, S.K., “Single-Track Melt Pool Simulation In Robotic Laser-Directed Energy Deposition Under Speed Inaccuracy,” The 30th International Conference on Computational & Experimental Engineering and Sciences, August 3-6, 2024, Singapore.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Strategic Production Process Design with Additive Manufacturing in a Make-to-stock Environment",
+      "year": 2023,
+      "citation_raw": "- Chua, P.C., Moon, S.K., Ng, Y.T., and Lopez, M., “Strategic Production Process Design with Additive Manufacturing in a Make-to-stock Environment,” ASME Journal of Manufacturing Science and Engineering, Vol. 145, No. 11, p.111009, 2023.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Enhanced Energy Absorption of Additive-Manufactured Ti-6Al-4V Parts via Hybrid Lattice Structures",
+      "year": 2023,
+      "citation_raw": "- Park S.J., Lee, J.H., Yang, J., Moon, S.K., Son, Y., and Park, J., “Enhanced Energy Absorption of Additive-Manufactured Ti-6Al-4V Parts via Hybrid Lattice Structures,” Micromachines, Vol.14, p. 1982, 2023.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A design optimization framework for 3D printed lattice structures",
+      "year": 2023,
+      "citation_raw": "- Jerin, W.R., Park, S.J., and Moon, S.K., “A design optimization framework for 3D printed lattice structures,” International Journal of Precision Engineering and Manufacturing – Smart Technology, Vol. 1, No. 2, pp. 145-156, 2023.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Multisensor fusion-based digital twin for localized quality prediction in robotic laser-directed energy deposition",
+      "year": 2023,
+      "citation_raw": "- Chen, L., Yao, X., Tan, C., Su, J., Ng, N.P.H.*, Chew, Y., Liu, K., and Moon, S.K., “Multisensor fusion-based digital twin for localized quality prediction in robotic laser-directed energy deposition,” Robotics and Computer-Integrated Manufacturing Vol. 84, December, p. 102581, 2023.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "In-situ crack and keyhole pore detection in laser directed energy deposition through acoustic signal and deep learning",
+      "year": 2023,
+      "citation_raw": "- Chen, L., Yao, X., Tan, C., He, W., Su, J., Weng, F., Chew, Y., Ng, N.P.H., and Moon, S.K., “In-situ crack and keyhole pore detection in laser directed energy deposition through acoustic signal and deep learning,” Additive Manufacturing, Vol. 69, 5 May, p. 103547, 2023.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A two-phase iterative mathematical programming-based heuristic for a flexible job shop scheduling problem with transportation",
+      "year": 2023,
+      "citation_raw": "- Lim, C.H. and Moon, S.K., “A two-phase iterative mathematical programming-based heuristic for a flexible job shop scheduling problem with transportation,” Applied Sciences, Vol. 13, No. 8, p. 5215, 2023.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A novel quality inspection method for aerosol jet printed sensors through infrared imaging and machine learning",
+      "year": 2023,
+      "citation_raw": "- Moon, S.K., Ng, N.P.H, Chen, L., and Ahn, D.G., “A novel quality inspection method for aerosol jet printed sensors through infrared imaging and machine learning,” CIRP Annals Manufacturing Technology, Vol. 72, No. 1, pp. 165-168, 2023.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Key Enabling Technologies for Smart Factory in Automotive Industry: Status and Applications",
+      "year": 2023,
+      "citation_raw": "- Lee, J., Chua, P.C., Chen, L., Ng, P.H.N., Kim, Y., Wu, Q., Jeon, S., Jung, J., Chang, S., Moon, S.K., “Key Enabling Technologies for Smart Factory in Automotive Industry: Status and Applications,” International Journal of Precision Engineering and Manufacturing – Smart Technology, Vol. 1, No. 1, pp. 93-105, 2023 (Selected Best Paper, January 2023, Korea Society for Precision Engineering).",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Additive Manufacturing for Automotive Industry: Status, Challenges and Future Perspectives",
+      "year": 2023,
+      "citation_raw": "- Chen, L., Ng, N.P.H, Jung, J., and Moon, S.K., “Additive Manufacturing for Automotive Industry: Status, Challenges and Future Perspectives,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Singapore, 18-21 December, 2023.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Multimodal sensor fusion for Real-time location-dependent defect detection in laser-directed energy deposition",
+      "year": 2023,
+      "citation_raw": "- Chen, L., Yao, X., Feng, W., Chew, Y., and Moon, S.K., “Multimodal sensor fusion for Real-time location-dependent defect detection in laser-directed energy deposition,” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Boston, USA, August 20-23, 2023, Paper No. IDETC2023-110284.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Additive Manufacturing for Automotive Industry: Status, Challenges and Future Perspectives",
+      "year": 2023,
+      "citation_raw": "- Chen, L., Ng, N.P.H, Jung, J., and Moon, S.K., “Additive Manufacturing for Automotive Industry: Status, Challenges and Future Perspectives,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Singapore, 18-21 December, 2023. - Chen, L., Yao, X., Feng, W., Chew, Y., and Moon, S.K., “Multimodal sensor fusion for Real-time location-dependent defect detection in laser-directed energy deposition,” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Boston, USA, August 20-23, 2023, Paper No. IDETC2023-110284. - Moon, S.K., Ng, N.P.H, Chen, L., and Ahn, D.G., “A novel quality inspection method for aerosol jet printed sensors through infrared imaging and machine learning,” 72nd CIRP General Assembly, Dublin, Ireland, 20-26 August 2023.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Multisensor fusion-based digital twin in additive manufacturing for in-situ quality monitoring and defect correction",
+      "year": 2023,
+      "citation_raw": "- Chen, L., Yao, X., Liu, K.; Tan, C., and Moon, S.K., “Multisensor fusion-based digital twin in additive manufacturing for in-situ quality monitoring and defect correction,” 24th International Conference on Engineering Design, Bordeaux, French, 24-28 July 2023",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Flexibility - Grand Challenge for Product Design and Production: Review and Status",
+      "year": 2023,
+      "citation_raw": "- Beibl, J., Lee, J., Krause, D., and Moon, S.K., “Flexibility - Grand Challenge for Product Design and Production: Review and Status,” 33rd CIRP Design Conference, Sydney, Australia, 17-19 May 2023.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A data-driven framework to predict fused filament fabrication part properties using surrogate models and multi-objective optimisation",
+      "year": 2022,
+      "citation_raw": "- Zhang, Y, Choi, J.P., and Moon, S.K., “A data-driven framework to predict fused filament fabrication part properties using surrogate models and multi-objective optimisation,” International Journal of Advanced Manufacturing Technology, Vol. 120, No., 11, pp. 8275-8291, 2022.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "In-Situ Acoustic Monitoring of Direct Energy Deposition Process with Deep Learning-Assisted Signal Denoising",
+      "year": 2022,
+      "citation_raw": "- Chen, L., Yao, X., and Moon, S.K., “In-Situ Acoustic Monitoring of Direct Energy Deposition Process with Deep Learning-Assisted Signal Denoising,” Materials Today: Proceedings, Vol. 70, pp. 136-142, 2022.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Laser powder bed fusion for AI assisted digital metal components",
+      "year": 2022,
+      "citation_raw": "- Seo, E., Sung, H., Jeon, H., Kim, H., Kim, T., Park, S., Lee, M.S., Moon, S.K., Kim, J.G., Chung, H., Choi, S.-K., Yu, J.-H., Kim, K.Y., Park, S.J., Kim, N., Jung, I.D., “Laser powder bed fusion for AI assisted digital metal components,” Virtual and Physical Prototyping, Vol. 17, No. 4., pp. 806-820, 2022.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "In-process adaptive dimension correction strategy for laser aided additive manufacturing",
+      "year": 2022,
+      "citation_raw": "- Xu, P., Yao, X., Chen, L., Zhao, C., Liu, K., Moon, S.K., and Bi, G., “In-process adaptive dimension correction strategy for laser aided additive manufacturing,” Journal of Materials Processing Technology, Vol. 303, No. 5, p. 1175544, 2022.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Surrogate Model to Predict Production Performance in Digital Twin based Smart Manufacturing",
+      "year": 2022,
+      "citation_raw": "- Chua, P.C., Moon, S.K., Ng, Y.T., and Ng, H.Y., “A Surrogate Model to Predict Production Performance in Digital Twin based Smart Manufacturing,” ASME Journal of Computing and Information Science in Engineering, Vol. 22, No. 3. p. 031007, 2022.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "How to use the Levers of Modularity properly – Linking Modularization to Economic Targets",
+      "year": 2022,
+      "citation_raw": "- Schwede, L., Greve, E., Krause, D., Otto, K., Moon, S.K., Albers, A., Kirchner, E., Lachmayer, R., Bursac, N., Inkermann, D., Rapp, S., Hausmann, M., and Schneider, J., “How to use the Levers of Modularity properly – Linking Modularization to Economic Targets,” ASME Journal of Mechanical Design, Vol. 144, No. 7, p. 071401, 2022.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Guidelines for 3D Printed Spring Using Material Extrusion",
+      "year": 2022,
+      "citation_raw": "- Sacco, E. and Moon, S.K., “Guidelines for 3D Printed Spring Using Material Extrusion,” Rapid Prototyping Journal, Vol. 28, No. 3, pp. 409-429, 2022.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Modelling the Stiffness of Plastic Springs Manufactured via Additive Manufacturing",
+      "year": 2022,
+      "citation_raw": "- Sacco, E. and Moon, S.K., “Modelling the Stiffness of Plastic Springs Manufactured via Additive Manufacturing,” Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, Vol. 236, No. 5, pp. 486-497, 2022.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "In-situ Melt Pool Monitoring of Laser Aided Additive Manufacturing Using Infrared Thermal Imaging",
+      "year": 2022,
+      "citation_raw": "-Chen, L., Yao, X., Ng, N.P.H, and Moon, S.K., “In-situ Melt Pool Monitoring of Laser Aided Additive Manufacturing Using Infrared Thermal Imaging,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Kuala Lumpur, Malaysia, December, 7-10, 2022.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Toolpath design for in-process surface defect correction in hybrid additive-subtractive manufacturing",
+      "year": 2022,
+      "citation_raw": "-Chen, L., Yao, X., and Moon, S.K., “Toolpath design for in-process surface defect correction in hybrid additive-subtractive manufacturing,” International Conference Design for 3D Printing, Hybrid, Singapore, 22-23 September 2022.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Discovery of Customized Dispatching rule for Single-Machine Production Scheduling using Deep Reinforcement Learning",
+      "year": 2022,
+      "citation_raw": "-Chua, P.C., Moon, S.K., Ng, Y.T., Ng, H.Y., and Lopez, M., “Discovery of Customized Dispatching rule for Single-Machine Production Scheduling using Deep Reinforcement Learning” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, St. Louis, MO, USA, August 14-17, 2022, Paper No. DETC2022-89829.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Effect of geometry on the mechanical response of additively manufactured polymer",
+      "year": 2021,
+      "citation_raw": "- Zhang, Y., Choi, J.P., and Moon, S.K., “Effect of geometry on the mechanical response of additively manufactured polymer,” Polymer Testing, Vol. 100, August, p. 107245, 2021.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Data-driven Design Strategy in Fused Filament Fabrication: Status and Opportunities",
+      "year": 2021,
+      "citation_raw": "- Zhang, Y. and Moon, S.K., “Data-driven Design Strategy in Fused Filament Fabrication: Status and Opportunities,” Journal of Computational Design and Engineering, Vol. 8, No.2, pp. 489-509, 2021.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Reviews on machine learning approaches for process optimization in non-contact direct ink writing",
+      "year": 2021,
+      "citation_raw": "- Zhang, H. and Moon, S.K., “Reviews on machine learning approaches for process optimization in non-contact direct ink writing,” ACS Applied Materials & Interfaces, Vol. 13, No. 45, pp. 53323-53345, 2021.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Geometric influence of the laser-based powder bed fusion process in Ti6AL4V and AlSi10Mg",
+      "year": 2021,
+      "citation_raw": "- Chua, Z.Y., Moon, S.K., Jiao, L., and Ahn, I.H., “Geometric influence of the laser-based powder bed fusion process in Ti6AL4V and AlSi10Mg,” The International Journal of Advanced Manufacturing Technology, Vol. 114, No.9-10, pp. 3165-3176, 2021.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "The effect of annealing on additive manufactured ULTEM™ 9085 mechanical properties",
+      "year": 2021,
+      "citation_raw": "- Zhang, Y., and Moon, S.K., “The effect of annealing on additive manufactured ULTEM™ 9085 mechanical properties,” Materials. Vol. 14, No. 11, P. 2907, 2021.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Rapid Surface Defect Identification for Additive Manufacturing with in-situ Point Cloud Processing and Machine Learning",
+      "year": 2021,
+      "citation_raw": "- Chen, L., Yao, X., Xu. P., Moon, S.K., and Bi, G., “Rapid Surface Defect Identification for Additive Manufacturing with in-situ Point Cloud Processing and Machine Learning,” Virtual and Physical Prototyping, Vol. 16, No. 1, pp. 50-67, 2021.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A knowledge transfer framework to support rapid process modeling in aerosol jet printing",
+      "year": 2021,
+      "citation_raw": "- Zhang, H., Choi, J.P., Moon, S.K., and Ngo, T.H., “A knowledge transfer framework to support rapid process modeling in aerosol jet printing,” Advanced Engineering Informatics, Vol. 48, April, p. 101264, 2021.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "- Lee, J., Ha, H., Seol, J.B., Kim, J.G., Seo, E.H., Moon, S.K., Jung, I.D., Sung, H., “Reverse effect of hot isostatic pressing on high-speed selective laser melted Ti-6Al-4V alloy, Materials Science and Engineering A-Structural Materials Properties Microstructure and Processing, Vol. 207, 11 March, p. 140880, 2021.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Hybrid Decision Support to Monitor Atrial Fibrillation for Stroke Prevention",
+      "year": 2021,
+      "citation_raw": "- Lei, N., Kareem, M., Moon, S.K., Ciaccio E.J., Acharya, R., and Faust, O., “Hybrid Decision Support to Monitor Atrial Fibrillation for Stroke Prevention,” International Journal of Environmental Research and Public Health, Vol. 18, p. 813, 2021.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Phase-Field Crystal Modelling of Deformation Behavior in Grain Growth",
+      "year": 2021,
+      "citation_raw": "- Jiang, Y., Yao, X., and Moon, S.K., “Phase-Field Crystal Modelling of Deformation Behavior in Grain Growth,” 2nd International Conference of Advanced Surface Enhancement (INCASE), Virtual Conference, 7-8 September 2021.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Effect Of Build Angle On Surface Roughness Of High-speed Selective Laser Melted Ti–6Al–4V Alloy",
+      "year": 2021,
+      "citation_raw": "- Seo, E., Kim, N., Moon, S.K., Sung, H., and Jung, I.D., “Effect Of Build Angle On Surface Roughness Of High-speed Selective Laser Melted Ti–6Al–4V Alloy,” 2nd International Conference of Advanced Surface Enhancement (INCASE), Virtual Conference, 7-8 September 2021.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Prediction of Production Performance in Smart Manufacturing using Multivariate Adaptive Regression Spline",
+      "year": 2021,
+      "citation_raw": "- Chua, P.C., Moon, S.K., Ng, Y.T., and Ng, H.Y., “Prediction of Production Performance in Smart Manufacturing using Multivariate Adaptive Regression Spline” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Virtual, Online, August 17-19. 2021, Paper No. DETC2021-69632.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A multi-objective optimization framework for aerosol jet customized line width printing via small data set and prediction uncertainty",
+      "year": 2020,
+      "citation_raw": "- Zhang, H., Choi, J.P., Moon, S.K., and Ngo, T.H., “A multi-objective optimization framework for aerosol jet customized line width printing via small data set and prediction uncertainty,” Journal of Materials Processing Technology, Vol. 285, November, p. 116779, 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Data-driven adaptive control for laser-based additive manufacturing with automatic controller tuning",
+      "year": 2020,
+      "citation_raw": "- Chen, L., Yao, X., Chew, Y., Weng, F., Moon, S.K., and Bi, G., “Data-driven adaptive control for laser-based additive manufacturing with automatic controller tuning,” Applied Sciences, Vol. 10, No. 22, p. 7967, 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Post-treatment Method to Enhance the Property of Aerosol Jet Printed Electric Circuit on 3D Printed Substrate",
+      "year": 2020,
+      "citation_raw": "- Wang, B., Zhang, H., Choi, J.P., Moon, S.K., Lee, B., and Koo, J., “A Post-treatment Method to Enhance the Property of Aerosol Jet Printed Electric Circuit on 3D Printed Substrate,” Materials, Vol. 13, No. 24, p. 5602, 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Artificial intelligence for the prediction of tensile properties by using microstructural parameters in high strength steels",
+      "year": 2020,
+      "citation_raw": "- Jung, I.D., Shin, D.S., Kim D., Lee, J., Lee, M.S., Son, H.J., Reddy, N.S., Kim, M., Moon, S.K., Kim, K.T., Yu, J.H., Kim, S., N.S. Park, S.J. and Sung, H., “Artificial intelligence for the prediction of tensile properties by using microstructural parameters in high strength steels,” Materialia, Vol. 11, June, p. 100699, 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "- Zhang, H., Choi",
+      "year": 2020,
+      "citation_raw": "- Zhang, H., Choi, J.P., Moon, S.K., and Ngo, T.H., “A hybrid multi-objective optimization of aerosol jet printing process via response surface methodology, Additive Manufacturing, Vol. 33, May, p. 101096, 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Embedding Sensors using Selective Laser Melting for Self-Cognitive Metal Parts",
+      "year": 2020,
+      "citation_raw": "- Jung, I.D., Kim, M.S., Lee, J., Sung, H., Choe, J., Son, H.J., Yun, J., Kim, K.B., Kim, M., Lee, S.W., Yang, S., Moon, S.K., Kim, K.T., and Yu, J.H., “Embedding Sensors using Selective Laser Melting for Self-Cognitive Metal Parts,” Additive Manufacturing, Vol. 33, May, p. 101151, 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Part Consolidation Design Method for Additive Manufacturing based on Disassembly Complexity",
+      "year": 2020,
+      "citation_raw": "- Kim, S. and Moon, S.K., “A Part Consolidation Design Method for Additive Manufacturing based on Disassembly Complexity,” Applied Sciences, Vol. 10, No. 3, p. 1100, 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Rapid process modeling of the Aerosol Jet printing based on Gaussian process regression with Latin hypercube sampling",
+      "year": 2020,
+      "citation_raw": "- Zhang, H., Moon, S.K., Ngo, T.H., Tou, J., and Mohamed, A.B.M.Y, “Rapid process modeling of the Aerosol Jet printing based on Gaussian process regression with Latin hypercube sampling,” International Journal of Precision Engineering and Manufacturing, Vol.21, No.1, pp. 127-136, 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Impact of Modularity on a Firm’s Economic Objectives",
+      "year": 2020,
+      "citation_raw": "- Hackl, J., Krause, D., Otto, K., Windheim, M., Moon, S.K., Bursac, N., and Lachmayer, R., “Impact of Modularity on a Firm’s Economic Objectives,” ASME, Journal of Mechanical Design, Vol. 142, No., 2, p. 041403, 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A customized smart medical mask for healthcare personnel",
+      "year": 2020,
+      "citation_raw": "- Kim, N., Lim, J.J.W., Ying, J. Zhang, H., Moon, S.K., and Choi. J.P., “A customized smart medical mask for healthcare personnel,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Virtual, Online, December 14-17, 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Process Characterization for Additively Manufactured ULTEM 9085 using Bayesian Inference",
+      "year": 2020,
+      "citation_raw": "- Zhang, Y. and Moon, S.K., “Process Characterization for Additively Manufactured ULTEM 9085 using Bayesian Inference,” International Symposium on Precision Engineering and Sustainable Manufacturing (PRESM), Virtual, Online, November 16-18. 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Multi-objective Implementation of Additive Manufacturing in Make-to-stock Production",
+      "year": 2020,
+      "citation_raw": "- Chua, P.C., Moon, S.K., and Ng, Y.T., “Multi-objective Implementation of Additive Manufacturing in Make-to-stock Production” ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Virtual, Online, August 17-19. 2020, Paper No. DETC2020-22085.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Surface monitoring for additive manufacturing with in-situ point cloud processing",
+      "year": 2020,
+      "citation_raw": "- Chen, L., Yao, X., Xu, P., Moon, S.K., and Bi, G., “Surface monitoring for additive manufacturing with in-situ point cloud processing,” IEEE, The 6th International Conference on Control, Automation and Robotics (ICCAR), Singapore (Virtual, Online), April 20-23, 2020.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Hybrid Machine Learning Method to Determine the Optimal Operating Process Window in Aerosol Jet 3D Printing",
+      "year": 2019,
+      "citation_raw": "- Zhang, H., Moon, S.K., and Ngo, T.H., “Hybrid Machine Learning Method to Determine the Optimal Operating Process Window in Aerosol Jet 3D Printing,” ACS Applied Materials & Interfaces, Vol. 11, No. 19, pp. 17994-18003, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Additive Manufacturing for Space: Status and Promise",
+      "year": 2019,
+      "citation_raw": "- Sacco, E. and Moon, S.K., “Additive Manufacturing for Space: Status and Promise,” The International Journal of Advanced Manufacturing Technology, Vol. 105, No. 10, pp. 4123-4146, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A New Laser Scan Method for Microstructural Control in Selective Laser Melting Process",
+      "year": 2019,
+      "citation_raw": "- Son, Y., Kim, H., Moon, S.K., and Ahn, I.H., “A New Laser Scan Method for Microstructural Control in Selective Laser Melting Process,” Test Engineering and Management, Vol. 81, Nov.-Dec., pp.221-226, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Advanced aircraft manufacturing and maintenance using three-dimensional printing",
+      "year": 2019,
+      "citation_raw": "- Chen, T.T, Choi, S., Moon, S.K., and Wang, Y., “Advanced aircraft manufacturing and maintenance using three-dimensional printing,” The International Journal of Advanced Manufacturing Technology, Vol. 105, No. 10, pp.4055-4057, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Eco-Modular Product Architecture Identification and Assessment for Product Recovery",
+      "year": 2019,
+      "citation_raw": "- Kim, S. and Moon, S.K., “Eco-Modular Product Architecture Identification and Assessment for Product Recovery,\" Journal of Intelligent Manufacturing, Vol.30, No. 1, pp. 383-403, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Laser-induced graphene on Additive Manufacturing ULTEM parts",
+      "year": 2019,
+      "citation_raw": "- Jiao, L., Chua, Z.Y., Moon, S.K., Song, J., Bi, G., Zheng, H., Lee, B., and Koo, J., “Laser-induced graphene on Additive Manufacturing ULTEM parts,” Nanomaterials Vol. 9, No.1, 90, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A heterostructure of layered double hydroxide wrapped in few-layer carbon with iridium doping for efficient oxygen evolution",
+      "year": 2019,
+      "citation_raw": "- Huang, T., Moon, S.K., and Lee, J.M., “A heterostructure of layered double hydroxide wrapped in few-layer carbon with iridium doping for efficient oxygen evolution,” Electrochimica Acta, Vol. 296, 10 February, pp. 590-597, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Decentralized determination of design variables among cooperative designers for multiple product platform design in a product family",
+      "year": 2019,
+      "citation_raw": "- Okpoti, E.S., Jeong, I., and Moon, S.K., “Decentralized determination of design variables among cooperative designers for multiple product platform design in a product family,” Computers & Industrial Engineering, Vol. 135, 1 September, pp. 601-614, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Comparison of carbon-based reinforcement on laser aided additive manufacturing Inconel 625 composites",
+      "year": 2019,
+      "citation_raw": "- Zhang, B., Bi, G., Chew, Y., Wang, P., Ma, G., Lui, Y., and Moon, S.K., “Comparison of carbon-based reinforcement on laser aided additive manufacturing Inconel 625 composites,” Applied Surface Science, Vol. 490, 1 October, pp. 522-534, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Characterization of wear properties of the functionally graded material deposited on cast iron by laser aided additive manufacturing",
+      "year": 2019,
+      "citation_raw": "- Lui, Y., Weng, F., Bi, G., Chew, Y., Lui, S., Ma, G., and Moon, S.K., “Characterization of wear properties of the functionally graded material deposited on cast iron by laser aided additive manufacturing,” The International Journal of Advanced Manufacturing Technology, Vol. 105, No. 10, pp. 4097-4105, 2019 .",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "- Lim, C.H. and Moon, S.K",
+      "year": 2019,
+      "citation_raw": "- Lim, C.H. and Moon, S.K., “A Reusable Scheduling Problem Decomposition Framework for Smart Factories, IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Macau, China, December, 15-18, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "- Gao, N. and Moon, S.K",
+      "year": 2019,
+      "citation_raw": "- Gao, N. and Moon, S.K., “An Integrated Two-Stage Optimization Method for Job-Shop Bottleneck Planning and Scheduling, IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Macau, China, December, 15-18, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "PhD Research Learning in Product Architecture Design",
+      "year": 2019,
+      "citation_raw": "- Sankowski, O., Otto, K., Moon, S.K., and Krause, D., “PhD Research Learning in Product Architecture Design,” Proceedings of the Design Society: International Conference on Engineering Design (ICED), Delft, The Netherlands, 5 -8 August,, pp. 549-558, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Sustainable Development and Corporate Social Responsibility in the Luxury Market",
+      "year": 2019,
+      "citation_raw": "- Jin, Y.L., Delieva, D., Eom, H.J., Moon, S.K., and Park, Y.R., “Sustainable Development and Corporate Social Responsibility in the Luxury Market,” Global Fashion Management Conference, Paris, France, July 11-14, pp. 236-237, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Investigation on the Effect of Annealing on Additive Manufactured ULTEM™ 9085 Mechanical Properties",
+      "year": 2019,
+      "citation_raw": "- Zhang, Y. and Moon, S.K., “Investigation on the Effect of Annealing on Additive Manufactured ULTEM™ 9085 Mechanical Properties,” International Symposium on Precision Engineering and Sustainable Manufacturing (PRESM), Da Nang, Vietnam, July 10-13, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Failure Analysis and Finite Element Simulation for Structural Systems in an Unmanned Aerial Vehicle",
+      "year": 2019,
+      "citation_raw": "- Wang, B., Ng, N.O.H., Elhaida, B., Hui, H.S., Moon, S.K., “Failure Analysis and Finite Element Simulation for Structural Systems in an Unmanned Aerial Vehicle,” 16th IEEE International Conference on Ubiquitous Robots (UR), Jeju, Korea, June 24-27, 2019.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Femtosecond laser produced hydrophobic hierarchical structures on Additive Manufacturing parts",
+      "year": 2018,
+      "citation_raw": "- Jiao, L., Chua, Z.Y., Moon, S.K., Song, J., Bi, G., and Zheng, H., “Femtosecond laser produced hydrophobic hierarchical structures on Additive Manufacturing parts,” Nanomaterials, Vol. 8, No. 8, 601, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Multi-Material Part Design Framework in Additive Manufacturing",
+      "year": 2018,
+      "citation_raw": "- Yao, X., Moon, S.K., Bi, G, and Wei, J., “A Multi-Material Part Design Framework in Additive Manufacturing,\" The International Journal of Advanced Manufacturing Technology, Vol. 99, No. 9-12, pp. 2111-2119, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Numerical Study of Temperature and Cooling Rate in Selective Laser Melting with Functionally Graded Support Structures",
+      "year": 2018,
+      "citation_raw": "- Song, J., Chew, Y., Jiao, L., Yao, X., Moon, S.K., and Bi. G., “Numerical Study of Temperature and Cooling Rate in Selective Laser Melting with Functionally Graded Support Structures,” Additive Manufacturing, Vol. 24, pp. 543-551, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "- Chen, B., Moon, S.K",
+      "year": 2018,
+      "citation_raw": "- Chen, B., Moon, S.K., Yao, X., Bi, G., Shen, J., Umeda, J., and Kondoh, K., “Comparison Study on Additive Manufacturing (AM) and Powder Metallurgy (PM) AlSi10Mg Alloys, JOM, Vol. 70, No.5, pp. 644-649, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Hole Design Quality Identification in Laser Aided Additive Manufacturing",
+      "year": 2018,
+      "citation_raw": "- Ahn, I.H., Moon, S.K., and Bi, G., “Hole Design Quality Identification in Laser Aided Additive Manufacturing,” Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, Vol. 232, No.5, pp. 909-917, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Glasses-type Wearable Computer Displays: Usability Considerations Examined with a 3D Glasses Case Study",
+      "year": 2018,
+      "citation_raw": "- Chang, J., Moon, S.K., Jung, K., Kim, W., Parkinson, M., Freivalds, A., Simpson, T.W., and Baik, S.P., “Glasses-type Wearable Computer Displays: Usability Considerations Examined with a 3D Glasses Case Study,” Ergonomics, Vol. 61, No. 5, pp. 670-681, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Numerical and experimental study of laser aided additive manufacturing for melt-pool profile and grain orientation analysis",
+      "year": 2018,
+      "citation_raw": "- Song, J., Chew, Y., .Bi, G., Yao, X., Zhang, B., Bai, J., Moon, S.K., “Numerical and experimental study of laser aided additive manufacturing for melt-pool profile and grain orientation analysis,” Materials and Design, Vol. 137, January, pp. 286-297, 2018",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Human Centered Design Framework to Support Product-service Systems",
+      "year": 2018,
+      "citation_raw": "- Wong, T. C.S., Jang, M.K., Moon, S.K., Chua, Z.Y., Zhang, H., and Oh, H., “A Human Centered Design Framework to Support Product-service Systems,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), pp. 545 – 549, Bangkok, Thailand, December, 16-19, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Predictive Maintenance of a Train System Using Multilayer Perceptron Artificial Neural Network",
+      "year": 2018,
+      "citation_raw": "- Tan, Y.E., Moon, S.K., Ngo, T.H., Tou, J., and Mohamed, A.B.M.Y., “Predictive Maintenance of a Train System Using Multilayer Perceptron Artificial Neural Network,” IEEE International Conference on Intelligent Rail Transportation, Paper ID:59, pp. 1-5, Singapore, 12 - 14 December 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "- Zhang, H., Moon, S.K",
+      "year": 2018,
+      "citation_raw": "- Zhang, H., Moon, S.K., Ngo, T.H., Tou, J., and Mohamed, A.B.M.Y., A Hybrid Machine Learning Approach for the Quality Optimization of a 3D Printed Sensor, IEEE International Conference on Intelligent Rail Transportation, Paper ID:62, pp. 1-5, Singapore, 12 - 14 December 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Finite Element Method and Parametric Study on Material Properties and Friction Coefficients for Design of Mechanical Components",
+      "year": 2018,
+      "citation_raw": "- Li, Y.H., Chua, Z.Y., Moon, S.K., Ngo, T.H., Tou, J., and Mohamed, A.B.M.Y., “Finite Element Method and Parametric Study on Material Properties and Friction Coefficients for Design of Mechanical Components,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Quebec City, Canada, August 26-29, Paper No. DETC2018-85866, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Rapid process modeling of the Aerosol Jet printing based on Gaussian process regression with Latin hypercube sampling",
+      "year": 2018,
+      "citation_raw": "- Zhang, H., Moon, S.K., Ngo, T.H., Tou, J., and Mohamed, A.B.M.Y., “Rapid process modeling of the Aerosol Jet printing based on Gaussian process regression with Latin hypercube sampling,” International Symposium on Precision Engineering and Sustainable Manufacturing, Sapporo, Japan, July 3-7, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Decentralized Determination of Design Variables among Cooperative Designers for a General Aviation Aircraft Product Family",
+      "year": 2018,
+      "citation_raw": "- Okpoti, E.S., Jeong, I., and Moon, S.K., “Decentralized Determination of Design Variables among Cooperative Designers for a General Aviation Aircraft Product Family,” 2018 INFORMS International Conference, Taipei, Taiwan, June 17-20, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Comparison of Elastic Properties for Different Sample Types Fabricated with Additive Manufacturing",
+      "year": 2018,
+      "citation_raw": "- Sacco, E., Chua, Z.Y., and Moon, S.K., “Comparison of Elastic Properties for Different Sample Types Fabricated with Additive Manufacturing,” 3rd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 14-17, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Characterization of Mechanical Properties of ULTEM®9085 Using FDM",
+      "year": 2018,
+      "citation_raw": "- Zhang, Y., Yeon, Y.C., Zheng, G. and Moon, S.K., “Characterization of Mechanical Properties of ULTEM®9085 Using FDM,” 3rd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 14-17, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Laser Induced Hydrophobicity on the Ti6Al4V Additive Manufacturing Parts",
+      "year": 2018,
+      "citation_raw": "- Jiao, L. and Moon, S.K., “Laser Induced Hydrophobicity on the Ti6Al4V Additive Manufacturing Parts,” 3rd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 14-17, 2018.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Sustainable Product Family Configuration Based on a Platform Strategy",
+      "year": 2017,
+      "citation_raw": "- Kim, S. and Moon, S.K., “Sustainable Product Family Configuration Based on a Platform Strategy,” Journal of Engineering Design, Vol. 28, Nos. 10-12, pp.731-764, 2017.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Hybrid Machine Learning Approach for Additive Manufacturing Design Feature Recommendation",
+      "year": 2017,
+      "citation_raw": "- Yao, X., Moon, S.K., Bi, G., “A Hybrid Machine Learning Approach for Additive Manufacturing Design Feature Recommendation,” Rapid Prototyping Journal, Vol. 23, No. 6, pp. 983-997, 2017.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Effects of Heat Treatment on Microstructures and Tensile Properties of IN718/TiC Nanocomposite Fabricated by Selective Laser Melting",
+      "year": 2017,
+      "citation_raw": "- Yao, X., Moon, S.K., Lee, B.Y., and Bi, G., “Effects of Heat Treatment on Microstructures and Tensile Properties of IN718/TiC Nanocomposite Fabricated by Selective Laser Melting,” International Journal of Precision and Engineering Manufacturing, Vol. 18, No. 12, pp.1693-1701, 2017.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Strength and Strain Hardening of a Selective Laser Melted AlSi10Mg Alloy",
+      "year": 2017,
+      "citation_raw": "- Chen, B., Moon, S.K., Yao, X., Bi, G., Shen, J., Umeda, J., and Kondoh, K., “Strength and Strain Hardening of a Selective Laser Melted AlSi10Mg Alloy,” Scripta Materialia, Vol.141, December, pp. 45-49, 2017.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Sustainable platform identification for product family design",
+      "year": 2017,
+      "citation_raw": "- Kim, S. and Moon, S.K., “Sustainable platform identification for product family design,” Journal of Cleaner Production, Vol.143, No.2, pp.567-581, 2017.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Polymer-assisted formation of 3D Pd nanoassemblies: highly active catalysts for formic acid electrooxidation",
+      "year": 2017,
+      "citation_raw": "- Huang, T., Moon, S.K., and Lee, J.M., “Polymer-assisted formation of 3D Pd nanoassemblies: highly active catalysts for formic acid electrooxidation,” Sustainable Energy & Fuels, Vol. 1, No. 3, pp.450-, 457, 2017",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Characteristic Length of the Solidified Melt Pool in Selective Laser Melting Process",
+      "year": 2017,
+      "citation_raw": "- Ahn, I.H., Moon, S.K., Hwang, J.H., and Bi, G., “Characteristic Length of the Solidified Melt Pool in Selective Laser Melting Process,” Rapid Prototyping Journal, In press: Vol. 23, No. 2, pp.370-381, 2017.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Commonality and Performance Metrics to Evaluate and Optimize the Design of Additive Manufactured Product Families",
+      "year": 2017,
+      "citation_raw": "- Yao, X., Moon, S.K., Bi, G., and Son, H., “Commonality and Performance Metrics to Evaluate and Optimize the Design of Additive Manufactured Product Families,” International Journal of Manufacturing Research, Vol. 12, No. 1, pp.44–63, 2017.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Customized Sensors for Structural Health Monitoring in a Train System",
+      "year": 2017,
+      "citation_raw": "- Moon, S.K., Li, Y., Kim, S., Tan, Y.E., Chua, Z.Y., and Ngo, T.H., “Customized Sensors for Structural Health Monitoring in a Train System,” The 2017 World Congress on Advanced in Structural Engineering and Mechanics (ASEM17), Ilsan, Korea, August 28-September 1, 2017.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Contrasting Function with Affordance in Design for Additive Manufacturing",
+      "year": 2017,
+      "citation_raw": "- Ko, H. and Moon, S.K., “Contrasting Function with Affordance in Design for Additive Manufacturing,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Cleveland, OH, USA, August 6-9, Paper No.DETC2017-68157, 2017.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Disassembly Complexity-Driven Module Identification for Additive Manufacturing",
+      "year": 2017,
+      "citation_raw": "- Kim, S. and Moon, S.K., “Disassembly Complexity-Driven Module Identification for Additive Manufacturing,” ISPE International Conference on Transdisciplinary Engineering, Singapore, July 10-14, 2017.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "An Additive Manufacturing Process Model for Product Family Design",
+      "year": 2016,
+      "citation_raw": "- Lei, N., Yao, X., Moon, S. K., and Bi, G., “An Additive Manufacturing Process Model for Product Family Design,” Journal of Engineering Design, Vol. 27, No. 11, pp. 751-767, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Grasp and index finger reach zone during one-handed smartphone rear interaction: Effects of task type, phone width, and hand length",
+      "year": 2016,
+      "citation_raw": "- Lee, S., Kyung, G., Lee, J., Moon, S.K., and Park, K.J., “Grasp and index finger reach zone during one-handed smartphone rear interaction: Effects of task type, phone width, and hand length,” Ergonomics, Vol. 59, No., 11, pp. 1462-1472, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "An Efficient Way of Investigating the Intrinsic Size Effect in Machining",
+      "year": 2016,
+      "citation_raw": "- Ahn, I.H, Moon, S.K., and Hwang, J. H., “An Efficient Way of Investigating the Intrinsic Size Effect in Machining,” Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, Vol. 230, No. 9, pp. 1622-1629, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Global Views on Modular Design Research: Linking Alternative Methods to Support Modular Product Family Structure Design",
+      "year": 2016,
+      "citation_raw": "- Otto, K., Hölttä-Otto, K., Simpson, T.W., Krause, D., Ripperda, S., and Moon, S.K., “Global Views on Modular Design Research: Linking Alternative Methods to Support Modular Product Family Structure Design,” ASME Journal of Mechanical Design, Vol. 138, No. 7, pp. 07031, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Cost-Driven Design Methodology for Additive Manufactured Variable Platforms in Product Families",
+      "year": 2016,
+      "citation_raw": "- Yao, X., Moon, S.K., and Bi, G., “A Cost-Driven Design Methodology for Additive Manufactured Variable Platforms in Product Families”, ASME Journal of Mechanical Design, Vol. 138, No. 4, pp. 041701, doi: 10.1115/1.4032504, 2016 (Selected ASME JMD Featured Articles).",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Voice Coil Navigation Sensor for Flexible Silicone Intubation",
+      "year": 2016,
+      "citation_raw": "- Wu, F., Jeon, J, Moon, S.K., Choi, H.-J., and Son, H., “Voice Coil Navigation Sensor for Flexible Silicone Intubation,” IEEE/ASME Transactions on Mechatronics, Vol. 21, No. 2, pp. 851-859, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Hybrid layering scanning-projection micro-stereolithography for fabrication of conical microlens array and hollow microneedle array",
+      "year": 2016,
+      "citation_raw": "- Kim, H., Moon, S.K., and Seo, M., “Hybrid layering scanning-projection micro-stereolithography for fabrication of conical microlens array and hollow microneedle array,” Microelectronic Engineering, Vol. 153 (5 March), pp. 15-19, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A production-inventory system with a Markovian service queue and lost sales",
+      "year": 2016,
+      "citation_raw": "- Baek, J.W. and Moon, S.K., “A production-inventory system with a Markovian service queue and lost sales,” Journal of the Korean Statistical Society, Vol. 45, No. 1, pp. 14-24, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Disassembly Complexity Assessment Method for Sustainable Product Design",
+      "year": 2016,
+      "citation_raw": "- Kim, S., Moon, S.K., Jeon, S.M., and Oh, H.S., “A Disassembly Complexity Assessment Method for Sustainable Product Design,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Bali, Indonesia, December 4-7, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "An Integration of Function- and Affordance-based Methods for Product-service System Utilizing Finite State Automata",
+      "year": 2016,
+      "citation_raw": "- Ko, H., Moon, S.K., Wood, K.L., and Oh, H.S., “An Integration of Function- and Affordance-based Methods for Product-service System Utilizing Finite State Automata,” IEEE International Conference of Industrial Engineering and Engineering Management (IEEM), Bali, Indonesia, December 4-7, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Customized 3D Printed Sensor Development Framework for Component Condition Monitoring",
+      "year": 2016,
+      "citation_raw": "- Moon, S.K., Tan, Y.E., Ko, H., Chua, Z.Y., Ngo, T.H., Hwang, J.H., and Baek., J.W., “A Customized 3D Printed Sensor Development Framework for Component Condition Monitoring,” The 18th International Conference on Industrial Engineering (IJIE2016), Seoul, Korea, October 10-12, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Geometric influence in selective laser melted Ti6Al4V alloy",
+      "year": 2016,
+      "citation_raw": "- Chua, Z.Y., Ahn, I.H., and Moon, S.K., “Geometric influence in selective laser melted Ti6Al4V alloy,” The 18th International Conference on Industrial Engineering (IJIE2016), Seoul, Korea, October 10-12, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Effect of 3D Printing Technology in a Production-Manufacturing System: Queueing Theoretic Approach",
+      "year": 2016,
+      "citation_raw": "- Baek, J.W., Hwang, J.H., and Moon, S.K., “Effect of 3D Printing Technology in a Production-Manufacturing System: Queueing Theoretic Approach,” The 18th International Conference on Industrial Engineering (IJIE2016), Seoul, Korea, October 10-12, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Decision Support System Design for Repair Decision in Remanufacturing",
+      "year": 2016,
+      "citation_raw": "- Kanchanasri, P., Moon, S.K., and Jeon, S., “Decision Support System Design for Repair Decision in Remanufacturing,” Proceedings of the International Conference of Logistic and Supply Chain Management System (ICLS2016), Bali, Indonesia, July 27-29, 2016",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "An Additive Manufacturing Resource Allocation Framework for Multi-Material Part Design",
+      "year": 2016,
+      "citation_raw": "- Yao, X., Moon, S.K., Bi, G, and Wei, J., “An Additive Manufacturing Resource Allocation Framework for Multi-Material Part Design,” 26th International Conference on Flexible Automation and Intelligent Manufacturing (FAIM2016), Seoul, Korea, June 27-30, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Influence of the Geometric Factor for The Width of the Contour Scan in Selective Laser Melting",
+      "year": 2016,
+      "citation_raw": "- Ahn. I., Moon, S.K., Bi, G., and Wei, J. “Influence of the Geometric Factor for The Width of the Contour Scan in Selective Laser Melting,” 2nd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 17-19, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Multidisciplinary Design Optimization for Additive Manufactured Customized Products",
+      "year": 2016,
+      "citation_raw": "- Yao, X., Moon, S.K., and Bi, G., “Multidisciplinary Design Optimization for Additive Manufactured Customized Products,” 2nd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 17-19, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "User-Centered Design for Additive Manufacturing as a Customization Strategy",
+      "year": 2016,
+      "citation_raw": "- Ko. H., Enea, S., Chua, Z.Y., Moon, S.K., and Otto, N.K., “User-Centered Design for Additive Manufacturing as a Customization Strategy,” 2nd International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 17-19, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Commonality and Performance Metrics of Product Families Implemented with Additive Manufactured Variable Platforms",
+      "year": 2016,
+      "citation_raw": "- Yao, X., Moon, S.K., Bi, G., and Son, H., “Commonality and Performance Metrics of Product Families Implemented with Additive Manufactured Variable Platforms,” International Conference on Innovative Design and Manufacturing (ICIDM), Auckland, New Zealand, January 24-26, 2016.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Design Knowledge Representation to Support Personalised Additive Manufacturing",
+      "year": 2015,
+      "citation_raw": "- Ko, H., Moon, S.K., and Otto, N.K., “Design Knowledge Representation to Support Personalised Additive Manufacturing,” Virtual and Physical Prototyping, Vol.10, No.4, pp.217-226, 2015 .",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Modeling and Observation of Compressive Behaviors of Closed Cellular Structures using Central Voronoi Tessellation Concepts",
+      "year": 2015,
+      "citation_raw": "- Park, S.Y, Lee, J.S., Choi, B.H., Ahn, I.H., and Moon, S.K., “Modeling and Observation of Compressive Behaviors of Closed Cellular Structures using Central Voronoi Tessellation Concepts,” International Journal of Precision Engineering and Manufacturing, Vol. 16, No. 12, pp. 2459-2465, 2015.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "- Ahn, I.H., Moon, S.K",
+      "year": 2015,
+      "citation_raw": "- Ahn, I.H., Moon, S.K., and Hwang, J., ‘A Mechanistic Cutting Force Model with Consideration of the Intrinsic and Geometric Size Effects Decoupled,’ International Journal of Advanced Manufacturing Technology, Vol. 81, No. 5, pp.745-753, 2015.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A decision support system for market-driven product positioning and design",
+      "year": 2015,
+      "citation_raw": "- Lei, N. and Moon, S.K., “A decision support system for market-driven product positioning and design,” Decision Support Systems, Vol.69, No.1, pp.82-91, 2015.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Halide ions assisted synthesis of different α-Fe2O3 hollow structures and their lithium ion storage properties",
+      "year": 2015,
+      "citation_raw": "- Ma, R., Wang, M., Dam, D. T., Dong, Y., Chen, Y., Moon, S.K., Yoon, Y.J., and Lee, J-M., \"Halide ions assisted synthesis of different α-Fe2O3 hollow structures and their lithium ion storage properties,\" ChemPlusChem, Vol.80, No.3, pp.522-528, March 2015.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Quality Control of 3D Printed Parts in Selective Laser Melting Process",
+      "year": 2015,
+      "citation_raw": "- Ahn, I.H., Moon, S.K., Yoo, J.S., and Oh, H.S., “Quality Control of 3D Printed Parts in Selective Laser Melting Process,” the 18th Quality Management and Organizational Development (QMOD) and the Korean Society for Quality Management (KSQM) International Joint Conference, Seoul, Korea, October 12-14, 2015.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Analysis of production/inventory systems integrated with service queues",
+      "year": 2015,
+      "citation_raw": "- Baek, J.W., Park, J. and Moon, S.K., “Analysis of production/inventory systems integrated with service queues,” the 18th Quality Management and Organizational Development (QMOD) and the Korean Society for Quality Management (KSQM) International Joint Conference, Seoul, Korea, October 12-14, 2015.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "The Additive Manufacturing Process Setting's Feasible Space Exploration and Association with Variable Product Platform Design",
+      "year": 2015,
+      "citation_raw": "- Yao, X., Moon, S.K., and Bi, G., “The Additive Manufacturing Process Setting's Feasible Space Exploration and Association with Variable Product Platform Design,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Boston, MA, USA, August 2-5, Paper No.DETC2015-46665, 2015.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Assessing and generating modules for product recovery in eco-product family development",
+      "year": 2015,
+      "citation_raw": "- Kim, S. and Moon, S.K., “Assessing and generating modules for product recovery in eco-product family development,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Boston, MA, USA, August 2-5, Paper No. DETC2015-47130, 2015.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Real-time Product Recovery Decision Making Algorithm for Sustainability",
+      "year": 2015,
+      "citation_raw": "- Kanchanasri, P., Moon, S.K., and Ng, G., “Real-time Product Recovery Decision Making Algorithm for Sustainability,” International Conference on Engineering Design, Milan, Italy, July 27-30, 2015",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Redefining Product Family Design for Additive Manufacturing",
+      "year": 2015,
+      "citation_raw": "- Lei, N.R., Moon, S.K., and Rosen, D.W., “Redefining Product Family Design for Additive Manufacturing,” International Conference on Engineering Design, Milan, Italy, July 27-30, 2015.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Decision making criteria for sustainable remanufacturing",
+      "year": 2015,
+      "citation_raw": "- Kanchanasri, P., Moon, S.K., and Ng, G., “Decision making criteria for sustainable remanufacturing,” 10th International Congress on Logistics and SCM Systems, Chiang Mai, Thailand, July 1-4, 2015",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Flexible Membrane Wing Warping Using Tendon-Sheath Mechanism",
+      "year": 2015,
+      "citation_raw": "- Lee, S., Tegoeh, T., and Moon, S.K., “Flexible Membrane Wing Warping Using Tendon-Sheath Mechanism,” The 23rd Mediterranean Conference on Control and Automation, Torremolinos, Spain, June 16-19, 2015.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Effects of Weight Balance on a 3D TV Shutter Type Glasses: Subjective Discomfort and Physical Contact Load on the Nose",
+      "year": 2014,
+      "citation_raw": "- Chang, J., Jung, K., Kim, W., Moon, S.K., Freivalds, A., Simpson, T.W., and Baik, S.P., “Effects of Weight Balance on a 3D TV Shutter Type Glasses: Subjective Discomfort and Physical Contact Load on the Nose,” International Journal of Industrial Ergonomics, Vol.44, No.3, pp.801-809, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "3D Printing as an Efficient Way for Comparative Study of Biomimetic Structures - Trabecular Bone and Honeycomb",
+      "year": 2014,
+      "citation_raw": "- Yoon, Y.J, Moon, S.K., and Hwang, J., “3D Printing as an Efficient Way for Comparative Study of Biomimetic Structures - Trabecular Bone and Honeycomb,” Journal of Mechanical Science and Technology, Vol.28, No.11, pp.4635-4640, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Orientation Measurement based on Magnetic Inductance by Extended Distributed Multi-Pole Model",
+      "year": 2014,
+      "citation_raw": "- Wu, F., Moon, S.K., and Son, H.S., “Orientation Measurement based on Magnetic Inductance by Extended Distributed Multi-Pole Model,” Sensors, Vol. 14, No. 7, pp.11504-11521, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Influence of substrate heating on hole geometry and spatter area in femtosecond laser drilling of silicon",
+      "year": 2014,
+      "citation_raw": "- Jiao, L.S., Moon, S.K., Ng, E.Y.K., Zheng, H.Y., and Son, H.S., “Influence of substrate heating on hole geometry and spatter area in femtosecond laser drilling of silicon,” Applied Physics Letters, Vol. 104, No. 18, pp. 181902-1-4, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "M/M/1 Queue with a Production Inventory System and Lost Sale",
+      "year": 2014,
+      "citation_raw": "- Baek, J.W. and Moon, S.K., \"M/M/1 Queue with a Production Inventory System and Lost Sale,\" Applied Mathematics and Computation, Vol.233 (1 May), pp.534-544, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Platform Design Variable Identification for a Product Family using Multi-objective Particle Swarm Optimization",
+      "year": 2014,
+      "citation_raw": "- Moon, S.K., Park, K.J., and Simpson, T.W., “Platform Design Variable Identification for a Product Family using Multi-objective Particle Swarm Optimization,” Research in Engineering Design, Vol. 25, No. 2, pp. 95-108, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A time-dependent busy period queue length formula the M/E_k/1 queue",
+      "year": 2014,
+      "citation_raw": "- Baek, J.W., Moon, S.K., and Lee, H.W., “A time-dependent busy period queue length formula the M/E_k/1 queue,” Statistics and Probability Letters, Vol.87 (April), pp.98-104, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Framework to Identify Sustainability Indicators for Product Design",
+      "year": 2014,
+      "citation_raw": "- Kim, S., Moon, S.K., Oh, H.S., Park, T., Choi, H.J., and Son, H., “A Framework to Identify Sustainability Indicators for Product Design,” Industrial Engineering and Engineering Management, IEEE International Conference, Kuala Lumpur, Malaysia, December 9-12, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Inflatable Wing Design for Micro UAVs using Indirect 3D Printing",
+      "year": 2014,
+      "citation_raw": "- Tan, Y.E. and Moon, S.K., “Inflatable Wing Design for Micro UAVs using Indirect 3D Printing,” The 11th International Conference on Ubiquitous Robots and Ambient Intelligence, Kuala Lumpur, Malaysia, November 12 - 15, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A New Approach for Product Design by Integrating Assembly and Disassembly Sequence Structure Planning",
+      "year": 2014,
+      "citation_raw": "- Kim, S., Baek, J.W., Moon, S.K., and Jeon, S.M., “A New Approach for Product Design by Integrating Assembly and Disassembly Sequence Structure Planning,” The 18th Asia Pacific Symposium on Intelligent and Evolutionary Systems, Singapore, November 10-12, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Intentional and Unintentional Medication Nonadherence – Comparing Older and Younger Adults",
+      "year": 2014,
+      "citation_raw": "- Ng, J., Moon, S.K., Park, T., Tan, W.P., “Intentional and Unintentional Medication Nonadherence – Comparing Older and Younger Adults,” Proceedings of the Human Factors and Ergonomics Society 58th Annual Meeting, Chicago, Illinois, USA, October 27-31, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Decision Support Systems Design for Data-driven Management",
+      "year": 2014,
+      "citation_raw": "- Lei, N.R. and Moon, S.K., “Decision Support Systems Design for Data-driven Management,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Buffalo, New York, USA, August 17-20, Paper No. DETC2014-34871, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Formal Model of Human Interactions for Service Ecosystem Design",
+      "year": 2014,
+      "citation_raw": "- Ko, H.W., Moon, S.K., Lee, S.W., and Shin, D.M., “A Formal Model of Human Interactions for Service Ecosystem Design,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Buffalo, New York, USA, August 17-20, Paper No. DETC2014-34839, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Working Principles of 3D Xerography",
+      "year": 2014,
+      "citation_raw": "- Ling, P. F., Tan, Y. E.*, and Moon, S. K., “Working Principles of 3D Xerography,” 1st International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 26-28, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Customization Design Knowledge Representation to Support Additive Manufacturing",
+      "year": 2014,
+      "citation_raw": "- Ko, H. W., Moon, S. K., and Otto, K., “Customization Design Knowledge Representation to Support Additive Manufacturing,” 1st International Conference on Progress in Additive Manufacturing (Pro-AM), Singapore, May 26-28, 2014.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Service Reliability Improvement in Manufacturing and Operating Systems",
+      "year": 2013,
+      "citation_raw": "- Moon, S.K., Oh, H.S., Ventura, J.A., Kim, J.K., and Yoon, Y.J., “Service Reliability Improvement in Manufacturing and Operating Systems”, International Journal of Precision Engineering and Manufacturing, Vol. 14, No. 8, pp. 1401-1406, 2013.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "An Efficient Branch-and-bound Algorithm for Interface-based Modular Product Design",
+      "year": 2013,
+      "citation_raw": "- Yoo, J. J.W., Aryasomayajula, A., and Moon, S.K., “An Efficient Branch-and-bound Algorithm for Interface-based Modular Product Design,” Journal of Computing and Information Science in Engineering, ASME, Vol. 13, No. 4, pp. 044502-1-5, 2013.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "The Job-Centered PSS Blueprint for Designing a Product-Service System",
+      "year": 2013,
+      "citation_raw": "- Oh, H.S., Moon, S.K., and Yoo, J.S., \"The Job-Centered PSS Blueprint for Designing a Product-Service System\", International Journal of Digital Content Technology and its Applications, Vol. 7, No. 8, pp. 319 ~ 326, 2013.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Service-Oriented FMEA and Grey Relational Analysis Based Approach to Service Reliability Assessment",
+      "year": 2013,
+      "citation_raw": "- Oh, H.S., Moon, S.K., and Yoo, J.S., \"Service-Oriented FMEA and Grey Relational Analysis Based Approach to Service Reliability Assessment\", International Journal of Advancements in Computing Technology, Vol. 5, No. 12, pp. 225 ~ 234, 2013.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Estimation of Singapore's hourly solar radiation using hybrid-Markov transition matrices method",
+      "year": 2013,
+      "citation_raw": "- Kwon, O., Yoon, Y.J., Moon, S.K., Choi, H.J., and Shim, J.H., “Estimation of Singapore's hourly solar radiation using hybrid-Markov transition matrices method,” International Journal of Precision Engineering and Manufacturing, Vol. 14, No. 2, pp. 323-327, 2013.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Change Propagation Analysis for Sustainability in Product Design",
+      "year": 2013,
+      "citation_raw": "- Kim, S. and Moon, S.K., Oh, H.S., Park, T., Kyung, G, and, Park, K.J., “Change Propagation Analysis for Sustainability in Product Design,” Industrial Engineering and Engineering Management, IEEE International Conference, Bangkok, Thailand, December, 10-13, 2013.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Additive Manufacturing and Topology Optimization to Support Product Family Design",
+      "year": 2013,
+      "citation_raw": "- Lei, N.R., Moon, S. K., and Bi, G., “Additive Manufacturing and Topology Optimization to Support Product Family Design,” Virtual and Rapid Prototyping, Leiria, Portugal, October 1-5, 2013.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A decision support system for market segment driven product design",
+      "year": 2013,
+      "citation_raw": "- Lei, N.R. and Moon, S.K., “A decision support system for market segment driven product design,” International Conference on Engineering Design, Seoul, Korea, August 19-22, 2013.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A product-service system design framework using objective-oriented concepts and blueprint",
+      "year": 2013,
+      "citation_raw": "- Moon, S.K., Oh, H.Y., Kim, S., and Hwang, J., “A product-service system design framework using objective-oriented concepts and blueprint,” International Conference on Engineering Design, Seoul, Korea, August 19-22, 2013.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Application of dynamic value-attribute modeling in a product family",
+      "year": 2013,
+      "citation_raw": "- Withanage, C., Moon, S.K., Park, T., and Duc, T.T.H., “Application of dynamic value-attribute modeling in a product family,” International Conference on Engineering Design, Seoul, Korea, August 19-22, 2013.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Product-Service System Model for Identifying Design Factors",
+      "year": 2013,
+      "citation_raw": "- Moon, S.K., Oh, H.S., and Kim, S., “A Product-Service System Model for Identifying Design Factors,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Portland, Oregon, August 5-8, Paper No. DETC2013-12543, 2013.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Market-based Design Strategy for a Universal Product Family",
+      "year": 2012,
+      "citation_raw": "- Moon, S.K. and McAdams, D.A., “A Market-based Design Strategy for a Universal Product Family,” ASME Journal of Mechanical Design, Vol. 143, No. 11, pp. 111007, doi:10.1115/1.4007395, 2012.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Considering Context: The Role of Task Characteristics in Users' Perceptions of Usability",
+      "year": 2012,
+      "citation_raw": "- Kokini, C.M., Lee, S., Koubek, R.J., and Moon, S.K., “Considering Context: The Role of Task Characteristics in Users' Perceptions of Usability,” International Journal of Human-Computer Interaction, Vol. 28, No. 9, pp. 543-559, 2012.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Objective Product Family Design Analysis Using Self-Organization Map",
+      "year": 2012,
+      "citation_raw": "- Lei, N.R. and Moon, S.K., “Objective Product Family Design Analysis Using Self-Organization Map,” IEEE International Conference on Industrial Engineering and Engineering Management, Hong Kong, China, December 10-12, 2012.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Determination of Optimal Location of Circuit Board and Battery on 3D Glasses by Considering Nose Load and Subjective Discomfort",
+      "year": 2012,
+      "citation_raw": "- Chang, J., Jung, K., Moon, S.K., Kim, W., Freivalds, A., Simpson, T.W., and Baik, S.P., “Determination of Optimal Location of Circuit Board and Battery on 3D Glasses by Considering Nose Load and Subjective Discomfort,” Proceedings of the Human Factors and Ergonomics Society 56th Annual Meeting, Boston, MA, USA, October 22-26, 2012.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Product-Service System Design Framework based on a Business Ecosystem",
+      "year": 2012,
+      "citation_raw": "- Oh, H.S., Moon, S.K., and Kim, W., “A Product-Service System Design Framework based on a Business Ecosystem” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Chicago, IL, August 12-15, Paper No. DETC2012/DAC-70731, 2012.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Universal Product Family Design for Human Variability and Aesthetics",
+      "year": 2012,
+      "citation_raw": "- Hwang, J., Moon, S.K., Ho, Y., and Noh, C., “Universal Product Family Design for Human Variability and Aesthetics,” International Applied Human Factors and Ergonomics Conference, San Francisco, CA, July 21-25, 2012.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Service Reliability Evaluation using Fuzzy Failure Mode Effects Analysis and Grey Theory",
+      "year": 2012,
+      "citation_raw": "- Oh, H.S., Moon, S.K., and Ventura, J.A., “Service Reliability Evaluation using Fuzzy Failure Mode Effects Analysis and Grey Theory,” Institute of Industrial Engineers (IIE) Asian Conference, Singapore, June 28-30, 2012.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Design Factor Identification for a Product-Service System",
+      "year": 2012,
+      "citation_raw": "- Moon, S.K., Oh, H.S., Kim, W., and Soo, J.C., “Design Factor Identification for a Product-Service System,” Design Engineering Design Workshop, Seoul and Daejeon, Korea, June 25-27, 2012.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Module-based Service Model for Mass Customization: Service Family Design",
+      "year": 2011,
+      "citation_raw": "- Moon, S.K., Shu, J., Simpson, T.W., and Kumara, S.R.T., “A Module-based Service Model for Mass Customization: Service Family Design,” IIE Transactions, Vol. 43, No. 3, pp. 153-163, 2011.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Design and Assessment of Ergonomics of Hand-Powered Pruning Shears Based on Gender-Specific Operating Strategy",
+      "year": 2011,
+      "citation_raw": "- Hwang, J., Chang, J., Moon, S.K., and Freivalds, A., “Design and Assessment of Ergonomics of Hand-Powered Pruning Shears Based on Gender-Specific Operating Strategy,” Proceedings of the Human Factors and Ergonomics Society 55th Annual Meeting, Las Vegas, Nevada, September 19-23, 2011.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Determination of Optimal Grip Span between a Bicycle Handlebar and a Brake Lever by Using a Two-Dimensional Biomechanical Hand Model",
+      "year": 2011,
+      "citation_raw": "- Chang, J., Hwang, J., Moon, S.K., and Freivalds, A., “Determination of Optimal Grip Span between a Bicycle Handlebar and a Brake Lever by Using a Two-Dimensional Biomechanical Hand Model,” Proceedings of the Human Factors and Ergonomics Society 55th Annual Meeting, Las Vegas, Nevada, September 19-23, 2011.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Effects of mental workload and operator control on perceived usability",
+      "year": 2011,
+      "citation_raw": "- Kokini, C.M., Lee, S., Koubek, R.J., and Moon, S.K., “Effects of mental workload and operator control on perceived usability,” Proceedings of the Human Factors and Ergonomics Society 55th Annual Meeting, Las Vegas, Nevada, September 19-23, 2011.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Platform Strategy for Product Family Design using Particle Swarm Optimization",
+      "year": 2011,
+      "citation_raw": "- Moon, S.K., Park, K.J., and Simpson, T.W., “Platform Strategy for Product Family Design using Particle Swarm Optimization,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Washington, DC, August 29-31, Paper No. DETC2011/DAC-47959, 2011.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Methodology for Knowledge Discovery to Support Product Family Design",
+      "year": 2010,
+      "citation_raw": "- Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “A Methodology for Knowledge Discovery to Support Product Family Design,” Annals of Operations Research, Vol. 174, No. 1, pp. 201-218, 2010.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Platform-based Strategic Design Approach for Universal Products",
+      "year": 2010,
+      "citation_raw": "- Moon, S.K. and McAdams, D.A., “A Platform-based Strategic Design Approach for Universal Products,” International Journal of Mass Customization, Vol. 3, No. 3, pp. 227-246, 2010.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "An Agent-based Recommender System for Developing Customized Families of Products",
+      "year": 2009,
+      "citation_raw": "- Moon, S.K., Simpson, T.W., and Kumara, S.R.T., \"An Agent-based Recommender System for Developing Customized Families of Products,\" Journal of Intelligent Manufacturing, Vol. 20, No. 6, pp. 649-659, 2009.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Service Representation for Capturing and Reusing Design Knowledge in Product and Service Family using Object-Oriented Concepts and an Ontology",
+      "year": 2009,
+      "citation_raw": "- Moon, S.K., Simpson, T.W., Jun Shu, and Kumara, S.R.T., “Service Representation for Capturing and Reusing Design Knowledge in Product and Service Family using Object-Oriented Concepts and an Ontology,” Journal of Engineering Design, Vol. 20, No. 4, pp. 413-431, 2009.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Dynamic Multi-Agent System Based on a Negotiation Mechanism for Product Family Design",
+      "year": 2008,
+      "citation_raw": "- Moon, S.K., Park, J., Simpson, T.W., and Kumara, S.R.T., “A Dynamic Multi-Agent System Based on a Negotiation Mechanism for Product Family Design,” IEEE Transactions on Automation Science and Engineering, Vol. 5, No. 2, pp. 234-244, 2008.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Method for Platform Identification to Support Service Family Design",
+      "year": 2008,
+      "citation_raw": "- Moon, S.K., Simpson, T.W., Shu, J., and Kumara, S.R.T., “A Method for Platform Identification to Support Service Family Design,” International Journal of Services Operations and Informatics, Vol. 3, Nos. 3/4, pp. 294-317, 2008.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A New Approach for Automated Parts Recognition Using Time Series Analysis and Neural Networks",
+      "year": 1997,
+      "citation_raw": "- Lee, Y.H., Moon, S.K., and Lee, H., “A New Approach for Automated Parts Recognition Using Time Series Analysis and Neural Networks,” Journal of Intelligent Manufacturing, Vol. 8, No. 3, pp. 167-175, 1997.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Platform Valuation for Product Family Design in Uncertain Market Environments",
+      "year": 2010,
+      "citation_raw": "- Moon, S.K. and Simpson, T.W., “Platform Valuation for Product Family Design in Uncertain Market Environments,” AIAA/ISSMO Multidisciplinary Analysis Optimization Conference, Fort Worth, Texas, September 13-15, 2010.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Universal Family Design Valuation in an Uncertain Market Environment",
+      "year": 2010,
+      "citation_raw": "- Moon, S.K. and McAdams, D.A., “Universal Family Design Valuation in an Uncertain Market Environment,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Montreal, Quebec, Canada, August 15-18, 2010.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "An Infrastructure to Facilitate the Creation of Courses on Technology and Engineering for Non-Engineers",
+      "year": 2010,
+      "citation_raw": "- Krupczak J.J., Simpson, T.W., Bertsch, V., Disney, K., Garmire, E., and Moon, S.K., “An Infrastructure to Facilitate the Creation of Courses on Technology and Engineering for Non-Engineers,” Proceedings of the American Society for Engineering Education 2010 Annual Conference, Louisville, KY, June 20-23, 2010.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Service based Platform Design Method for Customized Products",
+      "year": 2010,
+      "citation_raw": "- Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “A Service based Platform Design Method for Customized Products,” CIRP Industrial Product-Service Systems Conference, Linköping, Sweden, April 14-15, pp. 3-10, 2010 (Keynote).",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Design Method for Developing a Universal Product Family in a Dynamic Market Environment",
+      "year": 2009,
+      "citation_raw": "- Moon, S.K. and McAdams, D.A., “A Design Method for Developing a Universal Product Family in a Dynamic Market Environment,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, San Diego, CA, August 30 – September 2, 2009.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Strategic Platform Design Method for Developing Customized Families of Services",
+      "year": 2009,
+      "citation_raw": "- Moon, S.K., Shu, J., Simpson, T.W., and Kumara, S.R.T., “A Strategic Platform Design Method for Developing Customized Families of Services,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, San Diego, CA, August 30 – September 2, 2009.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Synthesis of User Activity and Product Function to Develop a Universal Design Method",
+      "year": 2009,
+      "citation_raw": "- Kostovich, V., McAdams, D.A., and Moon, S.K., “Synthesis of User Activity and Product Function to Develop a Universal Design Method,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, San Diego, CA, August 30 – September 2, 2009.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Universal Product Platform and Family Design for Uncertain Market",
+      "year": 2009,
+      "citation_raw": "- Moon, S.K. and McAdams, D.A., “Universal Product Platform and Family Design for Uncertain Market,” International Conference on Engineering Design, Stanford, CA, August 24-27, 2009.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Strategic Module-based Platform Design Method for Developing Customized Products in Dynamic and Uncertain Market Environments",
+      "year": 2008,
+      "citation_raw": "- Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “Strategic Module-based Platform Design Method for Developing Customized Products in Dynamic and Uncertain Market Environments,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, New York, NY, August 3-6, 2008.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Knowledge Discovery to Support Service Family Design Using Ontology and Data Mining",
+      "year": 2007,
+      "citation_raw": "- Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “Knowledge Discovery to Support Service Family Design Using Ontology and Data Mining,” INFORMS Workshop on Artificial Intelligence and Data Mining, Seattle, WA, Nov. 3, 2007.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Market-based Strategic Platform Design for a Product Family Using a Bayesian Game",
+      "year": 2007,
+      "citation_raw": "- Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “Market-based Strategic Platform Design for a Product Family Using a Bayesian Game,” World Conference on Mass Customization & Personalization, MIT Cambridge/Boston, MA, October 7-10, Paper No. 136, 2007.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Toward a Knowledge Support System for Product Family Design",
+      "year": 2007,
+      "citation_raw": "- Moon, S.K., Chang, X., Terpenny, J., Simpson, T.W., and Kumara, S.R.T., “Toward a Knowledge Support System for Product Family Design,” World Conference on Mass Customization & Personalization, MIT Cambridge/Boston, MA, October 7-10, Paper No. 98, 2007.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Process Model and Data Mining to Support Designing Families of Services",
+      "year": 2007,
+      "citation_raw": "- Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “A Process Model and Data Mining to Support Designing Families of Services,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Las Vegas, NV, September 4-7, ASME, Paper No. DETC2007/DAC-34687, 2007.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Three Dimensional Design Structure Matrix - DSM3D",
+      "year": 2007,
+      "citation_raw": "- Alizon, F., Moon, S.K., Shooter, S.B., and Simpson, T.W., “Three Dimensional Design Structure Matrix - DSM3D,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Las Vegas, NV, September 4-7, ASME, Paper No. DETC2007/DAC-34510, 2007.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Strategic Module Sharing for Customized Service Family Design Using a Bayesian Game",
+      "year": 2007,
+      "citation_raw": "- Moon, S.K., Sim, J., Shu, J., and Simpson, T.W., “Strategic Module Sharing for Customized Service Family Design Using a Bayesian Game,” IEEE/INFORMS International Conference on Service Operations and Logistics, and Informatics, Philadelphia, PA, August 27-29, pp. 269-274, 2007.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "An Agent-based Recommender System for Customized Families of Products and Services",
+      "year": 2007,
+      "citation_raw": "- Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “An Agent-based Recommender System for Customized Families of Products and Services,” Industrial Engineering Research Conference, Nashville, TN, May 19-23, 2007.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Knowledge Discovery to Support Product Family Design",
+      "year": 2006,
+      "citation_raw": "- Moon, S.K., Simpson, T.W., and Kumara, S.R.T., “Knowledge Discovery to Support Product Family Design,” INFORMS Workshop on Artificial Intelligence and Data Mining, Pittsburgh, PA, Nov. 4, 2006.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "A Multi-Agent System for Modular Platform Design in a Dynamic Electronic Market Environment",
+      "year": 2006,
+      "citation_raw": "- Moon, S.K., Kumara, S.R.T., and Simpson, T.W., “A Multi-Agent System for Modular Platform Design in a Dynamic Electronic Market Environment,” ASME Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Philadelphia, PA, September 10-13, ASME, Paper No. DETC2006/CIE-99286, 2006.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Data Mining and Fuzzy Clustering to Support Product Family Design",
+      "year": 2006,
+      "citation_raw": "- Moon, S.K., Kumara, S.R.T., and Simpson, T.W., “Data Mining and Fuzzy Clustering to Support Product Family Design,” ASME Design Engineering Technical Conferences - Design Automation Conference, Philadelphia, PA, September 10-13, ASME, Paper No. DETC2006/DAC-99287, 2006.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Knowledge representation for product design Using Techspecs Concept Ontology",
+      "year": 2005,
+      "citation_raw": "- Moon, S.K., Kumara, S.R.T., and Simpson, T.W., “Knowledge representation for product design Using Techspecs Concept Ontology,” The IEEE International Conference on Information Reuse and Integration, Las Vegas, NV, Aug. 15-17, pp. 241-246, 2005.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "Application of Neural Networks in Development of Vehicle Durability Testing Method",
+      "year": 1997,
+      "citation_raw": "- Moon, S.K., Maeng, K.S., and Kim, Y.J., “Application of Neural Networks in Development of Vehicle Durability Testing Method,” 30th International Symposium on Automotive Technology and Automation (ISATA), Florence, Italy, June 16-19, Paper No. 97VR041, 1997.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
+    },
+    {
+      "title": "An Efficient Algorithm for Part Recognition in Manufacturing Automation",
+      "year": 1995,
+      "citation_raw": "- Lee, Y.H. and Moon, S.K., “An Efficient Algorithm for Part Recognition in Manufacturing Automation,” Proceedings of the 9th Asia Quality Management Symposium, Seoul, Korea, Sept. 28-29, pp. 323-331, 1995.",
+      "source_url": "https://personal.ntu.edu.sg/skmoon/publication.html"
     }
   ]
 }

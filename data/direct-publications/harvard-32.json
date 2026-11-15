@@ -5,17 +5,1287 @@
   "lab_name": null,
   "lab_url": "https://biodesign.seas.harvard.edu/",
   "publication_urls": [
-    "https://biodesign.seas.harvard.edu/",
-    "https://seas.harvard.edu/person/conor-walsh",
     "https://biodesign.seas.harvard.edu/selectedpublications",
     "https://biodesign.seas.harvard.edu/publications",
-    "https://wiki.harvard.edu/confluence/display/seasbiodesign/Biodesign+Lab+Home"
+    "https://biodesign.seas.harvard.edu/publications?page=0",
+    "https://biodesign.seas.harvard.edu/publications?page=2",
+    "https://biodesign.seas.harvard.edu/publications?page=8",
+    "https://biodesign.seas.harvard.edu/publications?page=10",
+    "https://biodesign.seas.harvard.edu/publications?page=16",
+    "https://biodesign.seas.harvard.edu/publications?page=18",
+    "https://biodesign.seas.harvard.edu/publications?page=20",
+    "https://biodesign.seas.harvard.edu/publications?page=24",
+    "https://biodesign.seas.harvard.edu/publications?page=3",
+    "https://biodesign.seas.harvard.edu/publications?page=7",
+    "https://biodesign.seas.harvard.edu/publications?page=9",
+    "https://biodesign.seas.harvard.edu/publications?page=13",
+    "https://biodesign.seas.harvard.edu/publications?page=15",
+    "https://biodesign.seas.harvard.edu/publications?page=17",
+    "https://biodesign.seas.harvard.edu/publications?page=19",
+    "https://biodesign.seas.harvard.edu/publications?page=21",
+    "https://biodesign.seas.harvard.edu/publications?page=23",
+    "https://biodesign.seas.harvard.edu/publications?page=25"
   ],
   "investigation_stage": "full_site_attempted",
   "extraction": "auto_heuristic_v1",
-  "previous_coverage_notes": "공식 연구실 논문 페이지 28개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
-  "accessed_at": "2026-11-15T07:07:46.309678+00:00",
-  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-15T07:16:05.726725+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 20개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
   "status": "partial",
-  "papers": []
+  "papers": [
+    {
+      "title": "Ultra-sensitive and resilient compliant strain gauges for soft machines",
+      "year": 2020,
+      "citation_raw": "“Ultra-sensitive and resilient compliant strain gauges for soft machines”, Nature, vol. 587, pp. 219–224, 2020.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Reducing the metabolic rate of walking and running with a versatile, portable exosuit",
+      "year": 2019,
+      "citation_raw": "“Reducing the metabolic rate of walking and running with a versatile, portable exosuit”, Science, vol. 365, no. 6454, pp. 668–672, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Human-in-the-loop optimization of hip assistance with a soft exosuit during walking",
+      "year": 2018,
+      "citation_raw": "“Human-in-the-loop optimization of hip assistance with a soft exosuit during walking”, Science Robotics, vol. 3, no. 15, p. eaar5438, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Human-in-the-loop Bayesian optimization of wearable device parameters",
+      "year": 2017,
+      "citation_raw": "“Human-in-the-loop Bayesian optimization of wearable device parameters”, PLOS ONE, vol. 12, no. 9, pp. 1–15, 2017, doi: 10.1371/journal.pone.0184054.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Reducing the metabolic cost of running with a tethered soft exosuit",
+      "year": 2017,
+      "citation_raw": "“Reducing the metabolic cost of running with a tethered soft exosuit”, Science Robotics, vol. 2, no. 6, p. eaan6708, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Soft robotic sleeve supports heart function",
+      "year": 2017,
+      "citation_raw": "“Soft robotic sleeve supports heart function”, Science Translational Medicine, vol. 9, no. 373, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Assistance magnitude versus metabolic cost reductions for a tethered multiarticular soft exosuit",
+      "year": 2017,
+      "citation_raw": "“Assistance magnitude versus metabolic cost reductions for a tethered multiarticular soft exosuit”, Science Robotics, vol. 2, no. 2, p. eaah4416, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Batch Fabrication of Customizable Silicone-Textile Composite Capacitive Strain Sensors for Human Motion Tracking",
+      "year": 2017,
+      "citation_raw": "“Batch Fabrication of Customizable Silicone-Textile Composite Capacitive Strain Sensors for Human Motion Tracking”, Advanced Materials Technologies, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "A soft robotic exosuit improves walking in patients after stroke",
+      "year": 2017,
+      "citation_raw": "“A soft robotic exosuit improves walking in patients after stroke”, Science Translational Medicine, vol. 9, no. 400, p. eaai9084, 2017, doi: 10.1126/scitranslmed.aai9084.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Soft robotic ventricular assist device with septal bracing for therapy of heart failure",
+      "year": 2017,
+      "citation_raw": "“Soft robotic ventricular assist device with septal bracing for therapy of heart failure”, Science Robotics, vol. 2, no. 12, 2017, doi: 10.1126/scirobotics.aan6736.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "The Soft Robotics Toolkit: Strategies for Overcoming Obstacles to the Wide Dissemination of Soft-Robotic Hardware",
+      "year": 2017,
+      "citation_raw": "“The Soft Robotics Toolkit: Strategies for Overcoming Obstacles to the Wide Dissemination of Soft-Robotic Hardware”, IEEE Robotics and Automation Magazine, Special Issue on Open Source and Widely Disseminated Robot Hardware, vol. 24, no. 1, pp. 57–64, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Soft Robotic Shoulder Support: Design, Characterization, and Preliminary Testing",
+      "year": 2017,
+      "citation_raw": "“Soft Robotic Shoulder Support: Design, Characterization, and Preliminary Testing”, in 15th IEEE International Conference on Rehabilitation Robotics (ICORR), London, July 17-20, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "A biologically-inspired multi-joint soft exosuit that can reduce the energy cost of loaded walking",
+      "year": 2016,
+      "citation_raw": "“A biologically-inspired multi-joint soft exosuit that can reduce the energy cost of loaded walking”, Journal of NeuroEngineering and Rehabilitation, vol. 13, no. 1, pp. 1–14, 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Biologic-free mechanically induced muscle regeneration",
+      "year": 2016,
+      "citation_raw": "“Biologic-free mechanically induced muscle regeneration”, Proceedings of the National Academy of Sciences (PNAS), vol. 113, no. 6, pp. 1534–1539, 2016, doi: 10.1073/pnas.1517517113.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Soft Robotic Glove for Combined Assistance and at-Home Rehabilitation",
+      "year": 2015,
+      "citation_raw": "“Soft Robotic Glove for Combined Assistance and at-Home Rehabilitation”, Robotics and Autonomous Systems (RAS) Special Issue on Wearable Robotics, vol. 73, pp. 135–143, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "A Light-Reflecting Balloon Catheter for Atraumatic Tissue Defect Repair",
+      "year": 2015,
+      "citation_raw": "“A Light-Reflecting Balloon Catheter for Atraumatic Tissue Defect Repair”, Science Translational Medicine, vol. 7, no. 306, p. 306ra149, 2015, doi: 10.1126/scitranslmed.aaa2406.",
+      "source_url": "https://biodesign.seas.harvard.edu/selectedpublications"
+    },
+    {
+      "title": "Minimal-calibration multimodal wearable sensing for long-duration three-dimensional shoulder kinematics",
+      "year": 2026,
+      "citation_raw": "“Minimal-calibration multimodal wearable sensing for long-duration three-dimensional shoulder kinematics”, Nature Sensors, 2026.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Hybrid soft–inertial sensing enables stable long-duration shoulder monitoring",
+      "year": 2026,
+      "citation_raw": "“Hybrid soft–inertial sensing enables stable long-duration shoulder monitoring”, Nature Sensors, 2026.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Three-Dimensional Evaluation of Abnormal Upper Extremity Joint Coupling Post-Stroke",
+      "year": 2026,
+      "citation_raw": "“Three-Dimensional Evaluation of Abnormal Upper Extremity Joint Coupling Post-Stroke”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2026.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Balancing Biomechanics and Preference in Assistive Device Tuning via Metric-Regularized Optimization",
+      "year": 2026,
+      "citation_raw": "“Balancing Biomechanics and Preference in Assistive Device Tuning via Metric-Regularized Optimization”, IEEE Transactions on Biomedical Engineering, 2026.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Optimization of an Axial Flux Motor-Cycloid Gear Actuator for Sizing Wearable Robots",
+      "year": 2026,
+      "citation_raw": "“Optimization of an Axial Flux Motor-Cycloid Gear Actuator for Sizing Wearable Robots”, 2026.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Enabling Functional Independence: A Scoping Review of Upper Extremity Assistive Devices for Adults With Progressive Neuromuscular Diseases",
+      "year": 2026,
+      "citation_raw": "“Enabling Functional Independence: A Scoping Review of Upper Extremity Assistive Devices for Adults With Progressive Neuromuscular Diseases”, 2026.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Estimating braking and propulsion forces during overground running in and out of the lab",
+      "year": 2025,
+      "citation_raw": "L. M. Baker et al., “Estimating braking and propulsion forces during overground running in and out of the lab”, PLOS One, 2025.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Fostering Future Innovators: A Pedagogical Approach to Introduce Engineering Design and Robotics in Middle School Science Education",
+      "year": 2025,
+      "citation_raw": "“Fostering Future Innovators: A Pedagogical Approach to Introduce Engineering Design and Robotics in Middle School Science Education”, Science Scope, vol. 48, no. 5, pp. 51–57, 2025.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Assistive Technology in ALS: A Scoping Review of Devices for Limb, Trunk, and Neck Weakness",
+      "year": 2025,
+      "citation_raw": "“Assistive Technology in ALS: A Scoping Review of Devices for Limb, Trunk, and Neck Weakness”, American Journal of Physical Medicine & Rehabilitation, vol. 104, no. 8, pp. 115–124, 2025.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Personalized ML-based wearable robot control improves impaired arm function",
+      "year": 2025,
+      "citation_raw": "“Personalized ML-based wearable robot control improves impaired arm function”, Nature Communications, vol. 16, no. 7091, 2025.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "On-body textile hysteresis estimation for personalized physical human-robot interaction",
+      "year": 2025,
+      "citation_raw": "“On-body textile hysteresis estimation for personalized physical human-robot interaction”, The International Journal of Robotics Research, 2025.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Programmable Surface Dimpling of Textile Metamaterials for Aerodynamic Control",
+      "year": 2025,
+      "citation_raw": "“Programmable Surface Dimpling of Textile Metamaterials for Aerodynamic Control”, Advanced Materials, vol. 37, no. 40, 2025.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Predicting overstriding with wearable IMUs during treadmill and overground running",
+      "year": 2024,
+      "citation_raw": "“Predicting overstriding with wearable IMUs during treadmill and overground running”, Nature Scientific Reports, vol. 14, no. 6347, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Empowering Students in Medical Device Design: An Interdisciplinary Soft Robotics Course",
+      "year": 2024,
+      "citation_raw": "“Empowering Students in Medical Device Design: An Interdisciplinary Soft Robotics Course”, Biomedical Engineering Education, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Surface-Level Muscle Deformation as a Correlate for Joint Torque",
+      "year": 2024,
+      "citation_raw": "“Surface-Level Muscle Deformation as a Correlate for Joint Torque”, Advanced Materials Technologies, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Implementation of a unilateral hip flexion exosuit to aid paretic limb advancementduring inpatient gait retraining for individualspost-stroke: a feasibility study",
+      "year": 2024,
+      "citation_raw": "“Implementation of a unilateral hip flexion exosuit to aid paretic limb advancementduring inpatient gait retraining for individualspost-stroke: a feasibility study”, Journal of NeuroEngineering and Rehabilitation, vol. 21, no. 121, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Estimation of joint torque in dynamic activities using wearable A-mode ultrasound",
+      "year": 2024,
+      "citation_raw": "“Estimation of joint torque in dynamic activities using wearable A-mode ultrasound”, Nature Communications, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "A portable inflatable soft wearable robot to assist theshoulder during industrial work",
+      "year": 2024,
+      "citation_raw": "“A portable inflatable soft wearable robot to assist theshoulder during industrial work”, Science Robotics, vol. 9, no. 91, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "A Propulsion Neuroprosthesis Improves Overground Walking in Community-Dwelling Individuals After Stroke",
+      "year": 2024,
+      "citation_raw": "“A Propulsion Neuroprosthesis Improves Overground Walking in Community-Dwelling Individuals After Stroke”, IEEE Open Journal of Engineering in Medicine and Biology, vol. 5, pp. 563–572, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Musculoskeletal models determine the effect of a soft active exosuit on muscle activations and forces during lifting and lowering tasks",
+      "year": 2024,
+      "citation_raw": "“Musculoskeletal models determine the effect of a soft active exosuit on muscle activations and forces during lifting and lowering tasks”, Journal of Biomechanics, vol. 176, no. 112322, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Deep-Learning Based Lumbar Moment Estimation during Exosuit Augmented Lifting with Variable Loading Condition",
+      "year": 2024,
+      "citation_raw": "P. Arens, D. A. Quirk, and C. J. Walsh, “Deep-Learning Based Lumbar Moment Estimation during Exosuit Augmented Lifting with Variable Loading Condition”, BioRob, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Propulsion Modulation Methods in People Post-Stroke during Resistive Ankle Exosuit Use",
+      "year": 2024,
+      "citation_raw": "K. Swaminathan et al., “Propulsion Modulation Methods in People Post-Stroke during Resistive Ankle Exosuit Use”, BioRob, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Muscle Architecture Parameters Inferred from Simulated Single-Element Ultrasound Traces",
+      "year": 2024,
+      "citation_raw": "L. Gionfrida, D. Kim, Y. Jin, C. J. Walsh, and R. D. Howe, “Muscle Architecture Parameters Inferred from Simulated Single-Element Ultrasound Traces”, BioRob, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Design and Systematic Evaluation of Power Transmission Efficiency of an Ankle Exoskeleton for Walking Post-Stroke",
+      "year": 2024,
+      "citation_raw": "“Design and Systematic Evaluation of Power Transmission Efficiency of an Ankle Exoskeleton for Walking Post-Stroke”, IEEE International Conference on Robotics and Automation (ICRA), 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "The SDM Finger: Teaching engineering design through soft robotics",
+      "year": 2019,
+      "citation_raw": "“The SDM Finger: Teaching engineering design through soft robotics”, Science Scope, vol. 43, no. 4, pp. 14–21, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Investigating Changes in Achilles Tendon Load During Walking with Exosuit Assistance",
+      "year": 2019,
+      "citation_raw": "D. G. Schmitz, R. W. Nuckols, S. Lee, B. T. Quinlivan, C. J. Walsh, and D. G. Thelen, “Investigating Changes in Achilles Tendon Load During Walking with Exosuit Assistance.”, he 27th Congress of the International Society of Biomechanics (ISB). 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Bayesian Optimization of Soft Exosuits Using a Metabolic Estimator Stopping Process",
+      "year": 2019,
+      "citation_raw": "“Bayesian Optimization of Soft Exosuits Using a Metabolic Estimator Stopping Process.”, in The 36th IEEE International Conference on Robotics and Automation (ICRA), 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Assisting hand function after spinal cord injury with a fabric-based soft robotic glove",
+      "year": 2018,
+      "citation_raw": "“Assisting hand function after spinal cord injury with a fabric-based soft robotic glove”, Journal of NeuroEngineering and Rehabilitation, vol. 15, no. 1, p. 59, 2018, doi: 10.1186/s12984-018-0391-x.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Towards Alternative Approaches for Coupling of a Soft Robotic Sleeve to the Heart",
+      "year": 2018,
+      "citation_raw": "“Towards Alternative Approaches for Coupling of a Soft Robotic Sleeve to the Heart”, Annals of Biomedical Engineering, 2018, doi: 10.1007/s10439-018-2046-2.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Wearable Robotics for Motion Assistance and Rehabilitation [TC Spotlight]",
+      "year": 2018,
+      "citation_raw": "“Wearable Robotics for Motion Assistance and Rehabilitation [TC Spotlight]”, IEEE Robotics Automation Magazine, vol. 25, no. 1, pp. 19–28, 2018, doi: 10.1109/MRA.2017.2787222.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Distal Proprioceptive Sensor for Motion Feedback in Endoscope-Based Modular Robotic Systems",
+      "year": 2018,
+      "citation_raw": "“Distal Proprioceptive Sensor for Motion Feedback in Endoscope-Based Modular Robotic Systems”, IEEE Robotics and Automation Letters, vol. 3, no. 1, pp. 171–178, 2018, doi: 10.1109/LRA.2017.2737042.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Biomechanical mechanisms underlying exosuit-induced improvements in walking economy after stroke",
+      "year": 2018,
+      "citation_raw": "“Biomechanical mechanisms underlying exosuit-induced improvements in walking economy after stroke”, Journal of Experimental Biology, 2018, doi: 10.1242/jeb.168815.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "A lightweight and efficient portable soft exosuit for paretic ankle assistance in walking after stroke",
+      "year": 2018,
+      "citation_raw": "“A lightweight and efficient portable soft exosuit for paretic ankle assistance in walking after stroke”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "Force Control of Textile-Based Soft Wearable Robots for Mechanotherapy",
+      "year": 2018,
+      "citation_raw": "“Force Control of Textile-Based Soft Wearable Robots for Mechanotherapy”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=8"
+    },
+    {
+      "title": "IUSE: A Web-Based Tool for Engineering Design Pedagogy Research",
+      "year": 2018,
+      "citation_raw": "“IUSE: A Web-Based Tool for Engineering Design Pedagogy Research”, in 2018 ASEE Annual Conference and Exposition, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "An Evaluation of an Engineering Design Class using Mixed Methods Techniques",
+      "year": 2018,
+      "citation_raw": "“An Evaluation of an Engineering Design Class using Mixed Methods Techniques”, in 2018 ASEE Annual Conference and Exposition, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Interaction Forces of Soft Fiber Reinforced Bending Actuators",
+      "year": 2017,
+      "citation_raw": "“Interaction Forces of Soft Fiber Reinforced Bending Actuators”, IEEE/ASME Transactions on Mechatronics, vol. 22, no. 2, pp. 717–727, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Continuous sweep versus discrete step protocols for studying effects of wearable robot assistance magnitude",
+      "year": 2017,
+      "citation_raw": "“Continuous sweep versus discrete step protocols for studying effects of wearable robot assistance magnitude”, Journal of NeuroEngineering and Rehabilitation, vol. 14, no. 1, p. 72, 2017, doi: 10.1186/s12984-017-0278-2.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Varying negative work assistance at the ankle with a soft exosuit during loaded walking",
+      "year": 2017,
+      "citation_raw": "“Varying negative work assistance at the ankle with a soft exosuit during loaded walking”, Journal of NeuroEngineering and Rehabilitation, vol. 14, no. 1, p. 62, 2017, doi: 10.1186/s12984-017-0267-5.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Biomechanical and Physiological Evaluation of Multi-joint Assistance with Soft Exosuits",
+      "year": 2017,
+      "citation_raw": "“Biomechanical and Physiological Evaluation of Multi-joint Assistance with Soft Exosuits”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 25, no. 2, pp. 119–130, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Automatic design of fiber-reinforced soft actuators for trajectory matching",
+      "year": 2017,
+      "citation_raw": "“Automatic design of fiber-reinforced soft actuators for trajectory matching”, Proceedings of the National Academy of Sciences (PNAS), vol. 114, no. 1, pp. 51–56, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Toward Medical Devices With Integrated Mechanisms, Sensors, and Actuators Via Printed-Circuit MEMS",
+      "year": 2017,
+      "citation_raw": "“Toward Medical Devices With Integrated Mechanisms, Sensors, and Actuators Via Printed-Circuit MEMS”, ASME Journal of Medical Devices, vol. 11, no. 1, pp. 011007–011018, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=10"
+    },
+    {
+      "title": "Self-Assembling, Low-Cost, and Modular mm-Scale Force Sensor",
+      "year": 2016,
+      "citation_raw": "“Self-Assembling, Low-Cost, and Modular mm-Scale Force Sensor”, IEEE Sensors Journal, vol. 16, no. 1, pp. 69–76. [Cover Article], 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "The 2015 Soft Robotics Competition",
+      "year": 2016,
+      "citation_raw": "“The 2015 Soft Robotics Competition”, IEEE Robotics & Automation Magazine, vol. 23, no. 3, pp. 25–27, 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "A Quasi-Passive Knee Exoskeleton to Assist During Descent",
+      "year": 2016,
+      "citation_raw": "“A Quasi-Passive Knee Exoskeleton to Assist During Descent”, International Symposium on Wearable Robotics (WeRob) 2016. La Granja, Spain, 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Using Analytical Modeling to Design Customized Fiber-Reinforced Soft Actuators",
+      "year": 2016,
+      "citation_raw": "“Using Analytical Modeling to Design Customized Fiber-Reinforced Soft Actuators”, Society of Engineering Science 53rd Annual Technical Meeting. University of Maryland, MD, USA, 2-5 October, 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Effect of Timing of Hip Extension Assistance with IMU-based Iterative Control during Loaded Walking with a Soft Exosuit",
+      "year": 2016,
+      "citation_raw": "Y. Ding, F. A. Panizzolo, I. Galiana, C. Siviy, K. G. Holt, and C. J. Walsh, “Effect of Timing of Hip Extension Assistance with IMU-based Iterative Control during Loaded Walking with a Soft Exosuit”, Dynamic Walking. Holly, Michigan, USA, 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Variability Analysis of Walking with Continuously Increasing Assistance from a Soft Exosuit",
+      "year": 2016,
+      "citation_raw": "“Variability Analysis of Walking with Continuously Increasing Assistance from a Soft Exosuit.”, The 1st Human Movement Variability Conference. 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Soft Exosuit for Hip Assistance",
+      "year": 2015,
+      "citation_raw": "“Soft Exosuit for Hip Assistance”, Robotics and Autonomous Systems (RAS) Special Issue on Wearable Robotics, vol. 73, pp. 102–110, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Soft Pressure Sensing Sleeve For Direct Cardiac Compression Device",
+      "year": 2015,
+      "citation_raw": "“Soft Pressure Sensing Sleeve For Direct Cardiac Compression Device”, in Proceedings of the ASME 2015 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, USA, August 2-5, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Design And Fabrication Of A Soft Robotic Direct Cardiac Compression Device",
+      "year": 2015,
+      "citation_raw": "“Design And Fabrication Of A Soft Robotic Direct Cardiac Compression Device”, in Proceedings of the ASME 2015 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "Force Transfer Characterization of a Soft Exosuit for Gait Assistance",
+      "year": 2015,
+      "citation_raw": "“Force Transfer Characterization of a Soft Exosuit for Gait Assistance”, in ASME 2015 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, USA, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=16"
+    },
+    {
+      "title": "A Soft, Wearable, Quantitative Ankle Diagnostic Device",
+      "year": 2015,
+      "citation_raw": "“A Soft, Wearable, Quantitative Ankle Diagnostic Device”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Smart and Connected Actuated Mobile and Sensing Suit to Encourage Motion in Developmentally Delayed Infants",
+      "year": 2015,
+      "citation_raw": "“Smart and Connected Actuated Mobile and Sensing Suit to Encourage Motion in Developmentally Delayed Infants”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "A Soft Robotic Orthosis for Wrist Rehabilitation",
+      "year": 2015,
+      "citation_raw": "“A Soft Robotic Orthosis for Wrist Rehabilitation”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Mechanical Programming of Soft Actuators by Varying Fiber Angle",
+      "year": 2015,
+      "citation_raw": "“Mechanical Programming of Soft Actuators by Varying Fiber Angle”, Soft Robotics, vol. 2, no. 1, pp. 26–32, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Soft Wearable Orthotic Device for Assisting Kicking Motion in Developmentally Delayed Infants",
+      "year": 2015,
+      "citation_raw": "“Soft Wearable Orthotic Device for Assisting Kicking Motion in Developmentally Delayed Infants”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Gait improvements in stroke patients with a soft exosuit",
+      "year": 2015,
+      "citation_raw": "S. De Rossi et al., “Gait improvements in stroke patients with a soft exosuit”, Gait and Clinical Movement Analysis Society (GCMAS) Meeting. Portland, OR, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "A Replenishable Cell Delivery System for the Heart",
+      "year": 2015,
+      "citation_raw": "W. Whyte et al., “A Replenishable Cell Delivery System for the Heart”, 4th TERMIS World Congress. Boston, MA, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Modelling Geometrically Constrained Fluidic Soft Actuators",
+      "year": 2015,
+      "citation_raw": "“Modelling Geometrically Constrained Fluidic Soft Actuators”, 9th European Solid Mechanics Conference. Madrid, Spain, 6-10 July, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Mobility Enhancing Soft Exosuits",
+      "year": 2015,
+      "citation_raw": "C. J. Walsh, “Mobility Enhancing Soft Exosuits”, Dynamic Walking. Columbus, OH, USA, July 21-24, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "The Soft Robotics Toolkit: Shared Resources for Research and Design",
+      "year": 2014,
+      "citation_raw": "“The Soft Robotics Toolkit: Shared Resources for Research and Design”, Soft Robotics, vol. 1, no. 3, pp. 224–230, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Multi-joint Actuation Platform for Lower Extremity Soft Exosuits",
+      "year": 2014,
+      "citation_raw": "“Multi-joint Actuation Platform for Lower Extremity Soft Exosuits”, in 2014 IEEE International Conference on Robotics and Automation (ICRA), Hong Kong, China, 2014, pp. 1327–1334.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "Biologically Inspired Soft Robot for Thumb Rehabilitation",
+      "year": 2014,
+      "citation_raw": "“Biologically Inspired Soft Robot for Thumb Rehabilitation”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=18"
+    },
+    {
+      "title": "A Monolithic Approach to Fabricating Low-Cost, Millimeter-Scale Multi-Axis Force Sensors for Minimally-Invasive Surgery",
+      "year": 2014,
+      "citation_raw": "“A Monolithic Approach to Fabricating Low-Cost, Millimeter-Scale Multi-Axis Force Sensors for Minimally-Invasive Surgery”, in Inter. Conf. on Robotics and Automation (ICRA), Hong Kong, China, 2014, pp. 1419–1425.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Optimal Spatial Design of Non-Invasive Magnetic Field-based Localization Systems",
+      "year": 2014,
+      "citation_raw": "“Optimal Spatial Design of Non-Invasive Magnetic Field-based Localization Systems”, in Inter. Conf. on Robotics and Automation (ICRA), Hong Kong, China, 2014, pp. 3510–3516.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Cervical Spine Immobilization Device for Emergency Response",
+      "year": 2014,
+      "citation_raw": "“Cervical Spine Immobilization Device for Emergency Response”, ASME Design of Medical Devices Conference . Minneapolis, MN, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Shape Deposition Manufacturing of a Soft, Atraumatic, Deployable Surgical Grasper",
+      "year": 2014,
+      "citation_raw": "“Shape Deposition Manufacturing of a Soft, Atraumatic, Deployable Surgical Grasper”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Monolithic Fabrication of Millimeter-Scale Surgical Tools with Integrated Sensing",
+      "year": 2014,
+      "citation_raw": "“Monolithic Fabrication of Millimeter-Scale Surgical Tools with Integrated Sensing”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "An Intraventricular Soft Robotic Pulsatile Assist Device For Right Ventricular Heart Failure",
+      "year": 2014,
+      "citation_raw": "“An Intraventricular Soft Robotic Pulsatile Assist Device For Right Ventricular Heart Failure”, ASME Design of Medical Devices Conference . Minneapolis, MN, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Shared Online Resources to Support On-Demand Design and Fabrication of Soft Robotic Devices",
+      "year": 2014,
+      "citation_raw": "“Shared Online Resources to Support On-Demand Design and Fabrication of Soft Robotic Devices”, RobotMakers: The future of digital rapid design and fabrication of robots (RoMa), in conjunction with the 2014 Robotics: Science and Systems Conference. Berkeley, CA, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Shared Design Tools to Support Research and Development in Soft Robotics",
+      "year": 2014,
+      "citation_raw": "“Shared Design Tools to Support Research and Development in Soft Robotics”, Advances in Soft Robotics Workshop, in conjunction with the 2014 Robotics: Science and Systems Conference. Berkeley, CA, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "A New Laparoscopic Morcellator Using an Actuated Wire Mesh and Bag",
+      "year": 2014,
+      "citation_raw": "“A New Laparoscopic Morcellator Using an Actuated Wire Mesh and Bag”, ASME Journal of Medical Devices, vol. 8, no. 1, p. 011009, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Soft Elastomeric Actuators with Fiber Reinforcement",
+      "year": 2013,
+      "citation_raw": "“Soft Elastomeric Actuators with Fiber Reinforcement”, Materials and Research Society (MRS) Fall Meeting & Exhibit. Boston, MA, 2013.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Towards a Soft Pneumatic Glove for Hand Rehabilitation",
+      "year": 2013,
+      "citation_raw": "“Towards a Soft Pneumatic Glove for Hand Rehabilitation”, in 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Tokyo, Japan, 2013.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Force-Sensing Surgical Grasper Enabled by Pop-Up Book MEMS",
+      "year": 2013,
+      "citation_raw": "“Force-Sensing Surgical Grasper Enabled by Pop-Up Book MEMS”, in 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Tokyo, Japan, 2013, pp. 2552–2558.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=20"
+    },
+    {
+      "title": "Smaller and Deeper Lesions Increase the Number of Acquired Scan Series in CT-guided Lung Biopsy",
+      "year": 2011,
+      "citation_raw": "“Smaller and Deeper Lesions Increase the Number of Acquired Scan Series in CT-guided Lung Biopsy”, Journal of Thoracic Imaging, vol. 26, no. 3, pp. 196–203, 2011.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Characterization of Pre-curved Needles for use in Distal Tip Manipulation Mechanisms",
+      "year": 2010,
+      "citation_raw": "“Characterization of Pre-curved Needles for use in Distal Tip Manipulation Mechanisms”, Proceedings of the 2010 Design of Medical Devices Conference. Minneapolis, MN, USA, 2010.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Feedback Control of a Patient-Mounted Telerobot using Electromagnetic Tracking of Needle Angle",
+      "year": 2010,
+      "citation_raw": "“Feedback Control of a Patient-Mounted Telerobot using Electromagnetic Tracking of Needle Angle”, Computer Assisted Radiology and Surgery (CARS), vol. 5, no. Suppl. 1. Geneva, Switzerland, June 23-26, pp. S146-S147, 2010.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Transmission Ratio Based Analysis and Robust Design of Mechanisms",
+      "year": 2010,
+      "citation_raw": "“Transmission Ratio Based Analysis and Robust Design of Mechanisms”, Precision Engineering, vol. 34, no. 4, pp. 790–797, 2010.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Women with Anorexia Nervosa: Finite Element and Trabecular Structure Analysis by Using Flat-Panel Volume CT",
+      "year": 2010,
+      "citation_raw": "“Women with Anorexia Nervosa: Finite Element and Trabecular Structure Analysis by Using Flat-Panel Volume CT”, Radiology, vol. 257, no. 1, pp. 167–174, 2010.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Human vs. Robot Operator Error in a Needle-Based Navigation System for Percutaneous Liver Interventions",
+      "year": 2009,
+      "citation_raw": "“Human vs. Robot Operator Error in a Needle-Based Navigation System for Percutaneous Liver Interventions”, in Proc. SPIE, Lake Buena Vista, FL, 2009, p. 72610Y-72610Y-12.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Development and Evaluation of a New Image-Based User Interface for Robot-Assisted Needle Placements with the Robopsy System",
+      "year": 2009,
+      "citation_raw": "“Development and Evaluation of a New Image-Based User Interface for Robot-Assisted Needle Placements with the Robopsy System”, in Proc. SPIE, Lake Buena Vista, FL, 2009, p. 72610X-72610X-9.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Dynamic CT Scanner Environment Effects on a DC Electromagnetic Tracking System",
+      "year": 2009,
+      "citation_raw": "“Dynamic CT Scanner Environment Effects on a DC Electromagnetic Tracking System”, International Journal of Computer Assisted Radiology & Surgery, vol. 4, no. Suppl 1. pp. S339-S340, 2009.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Engineering, Science and Medicine: Transforming Healthcare",
+      "year": 2008,
+      "citation_raw": "“Engineering, Science and Medicine: Transforming Healthcare”, Royal College of Surgeons in Ireland Student Medical Journal, vol. 1, no. 1, pp. 56–59, 2008.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "A Patient-Mounted, Telerobotic Tool for CT-Guided Percutaneous Interventions",
+      "year": 2008,
+      "citation_raw": "“A Patient-Mounted, Telerobotic Tool for CT-Guided Percutaneous Interventions”, ASME Journal of Medical Devices, vol. 2, no. 1, 2008.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Imaging of the Calf Vocal Fold with High Frequency Ultrasound",
+      "year": 2008,
+      "citation_raw": "“Imaging of the Calf Vocal Fold with High Frequency Ultrasound”, The Laryngoscope, vol. 118, no. Oct., pp. 1894–1899, 2008.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Intra-operative Laryngoscopic Instrument for Characterizing Vocal Fold Visco-elasticity",
+      "year": 2007,
+      "citation_raw": "“Intra-operative Laryngoscopic Instrument for Characterizing Vocal Fold Visco-elasticity”, Proceedings of the 2nd Frontiers in Biomedical Devices Conference. Irvine, California, 2007.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=24"
+    },
+    {
+      "title": "Active back exosuits demonstrate positive usability perceptions that drive intention-to-use in the field among logistic warehouse workers",
+      "year": 2024,
+      "citation_raw": "“Active back exosuits demonstrate positive usability perceptions that drive intention-to-use in the field among logistic warehouse workers”, Applied Ergonomics, vol. 122, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Stimulation-Induced Muscle Deformation Measured with A-Mode Ultrasound Correlates with Muscle Fatigue",
+      "year": 2024,
+      "citation_raw": "“Stimulation-Induced Muscle Deformation Measured with A-Mode Ultrasound Correlates with Muscle Fatigue”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Preliminary Evaluation of a Soft Wearable Robot for Shoulder Movement Assistance",
+      "year": 2024,
+      "citation_raw": "“Preliminary Evaluation of a Soft Wearable Robot for Shoulder Movement Assistance”, IEEE Transactions on Medical Robotics and Bionics, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Looking Ahead: Implementing a Robotics Research Lab at a Community College to Support Undergraduate Research",
+      "year": 2024,
+      "citation_raw": "“Looking Ahead: Implementing a Robotics Research Lab at a Community College to Support Undergraduate Research”, Advances in Engineering Education, vol. 12, no. 4, 2024.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Restoring arm function with a soft robotic wearable for individuals with amyotrophic lateral sclerosis",
+      "year": 2023,
+      "citation_raw": "“Restoring arm function with a soft robotic wearable for individuals with amyotrophic lateral sclerosis”, Science Translational Medicine, vol. 15, no. 681, 2023.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Age-Related Reliability of B-Mode Analysis for Tailored Exosuit Assistance",
+      "year": 2023,
+      "citation_raw": "“Age-Related Reliability of B-Mode Analysis for Tailored Exosuit Assistance”, Sensors, vol. 23, no. 3, 2023.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Reducing back exertion and improving confidence of individuals with low back pain with a back exosuit: A feasibility study for use in BACPAC",
+      "year": 2023,
+      "citation_raw": "D. A. Quirk et al., “Reducing back exertion and improving confidence of individuals with low back pain with a back exosuit: A feasibility study for use in BACPAC”, Pain Medicine, 2023.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "In-Situ Measurement of Multi-Axis Torques Applied by Wearable Soft Robots for Shoulder Assistance",
+      "year": 2023,
+      "citation_raw": "“In-Situ Measurement of Multi-Axis Torques Applied by Wearable Soft Robots for Shoulder Assistance”, IEEE Transactions on Medical Robotics and Bionics, vol. 5, no. 2, pp. 363–374, 2023.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Design and evaluation of an independent 4-week, exosuit-assisted, post-stroke community walking program",
+      "year": 2023,
+      "citation_raw": "“Design and evaluation of an independent 4-week, exosuit-assisted, post-stroke community walking program”, Annals of the New York Academy of Sciences, 2023.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Anti-inflammatory therapy enables robot-actuated regeneration of aged muscle",
+      "year": 2023,
+      "citation_raw": "“Anti-inflammatory therapy enables robot-actuated regeneration of aged muscle ”, Science Robotics, vol. 8, no. 76, 2023.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Ankle-targeted exosuit resistance increases paretic propulsion in people post-stroke",
+      "year": 2023,
+      "citation_raw": "“Ankle-targeted exosuit resistance increases paretic propulsion in people post-stroke”, Journal of NeuroEngineering and Rehabilitation, vol. 20, no. 85, 2023.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Evaluating adaptiveness of an active back exosuit for dynamic lifting and maximum range of motion",
+      "year": 2023,
+      "citation_raw": "D. A. Quirk et al., “Evaluating adaptiveness of an active back exosuit for dynamic lifting and maximum range of motion”, Ergonomics, 2023.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Indirect measurement of anterior-posterior ground reaction forces using a minimal set of wearable inertial sensors: from healthy to hemiparetic walking",
+      "year": 2020,
+      "citation_raw": "“Indirect measurement of anterior-posterior ground reaction forces using a minimal set of wearable inertial sensors: from healthy to hemiparetic walking”, Journal of NeuroEngineering and Rehailitation, vol. 17, no. 82, 2020.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "A Soft Inflatable Wearable Robot for Hip Abductor Assistance: Design and Preliminary Assessment",
+      "year": 2020,
+      "citation_raw": "“A Soft Inflatable Wearable Robot for Hip Abductor Assistance: Design and Preliminary Assessment”, BioRob, 2020.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Mobility related physical and functional losses due to aging and disease - a motivation for lower limb exoskeletons",
+      "year": 2019,
+      "citation_raw": "“Mobility related physical and functional losses due to aging and disease - a motivation for lower limb exoskeletons”, Journal of NeuroEngineering and Rehabilitation, vol. 16, no. 1, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Comparison of the human-exosuit interaction using ankle moment and ankle positive power inspired walking assistance",
+      "year": 2019,
+      "citation_raw": "“Comparison of the human-exosuit interaction using ankle moment and ankle positive power inspired walking assistance”, Journal of Biomechanics, vol. 83, no. 23, pp. 76–84, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Sew-free anisotropic textile composites for rapid design and manufacturing of soft wearable robots",
+      "year": 2019,
+      "citation_raw": "“Sew-free anisotropic textile composites for rapid design and manufacturing of soft wearable robots”, Extreme Mechanics Letters, vol. 27, pp. 52–58, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Variable Contraction Timing for a Soft Robotic Cardiac Assist Device",
+      "year": 2019,
+      "citation_raw": "“Variable Contraction Timing for a Soft Robotic Cardiac Assist Device”, in Hamlyn Symposium on Medical Robotics, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Simulating Hemiparetic Gait in Healthy Subjects using TPAD with a Closed-loop Controller",
+      "year": 2019,
+      "citation_raw": "“Simulating Hemiparetic Gait in Healthy Subjects using TPAD with a Closed-loop Controller”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 27, no. 5, pp. 974–983, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Robotic Artificial Muscles: Current Progress and Future Perspectives",
+      "year": 2019,
+      "citation_raw": "“Robotic Artificial Muscles: Current Progress and Future Perspectives”, IEEE Transaction on Robitics, pp. 1–21, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "A soft ring oscillator",
+      "year": 2019,
+      "citation_raw": "D. Preston et al., “A soft ring oscillator”, Science Robotics, vol. 4, no. 31, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Metabolic cost adaptations during training with a soft exosuit assisting the hip joint",
+      "year": 2019,
+      "citation_raw": "F. Panizzolo et al., “Metabolic cost adaptations during training with a soft exosuit assisting the hip joint”, Scientific Reports, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Soft Robotic Glove with Integrated Sensing for Intuitive Grasping Assistance Post Spinal Cord Injury",
+      "year": 2019,
+      "citation_raw": "“Soft Robotic Glove with Integrated Sensing for Intuitive Grasping Assistance Post Spinal Cord Injury”, in IEEE Internaional Conference on Robotics and Automation (ICRA), Montreal, Canada, May 20-24, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Gait Initiation of New Walkers and the Adult’s Role in Regulating Directionality of the Child’s Body Motion",
+      "year": 2019,
+      "citation_raw": "“Gait Initiation of New Walkers and the Adult’s Role in Regulating Directionality of the Child’s Body Motion”, Journal of Motor Learning and Development, vol. 7, no. 1, pp. 35–48, 2019.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "A Soft Pneumatic Fabric-Polymer Actuator for Wearable Biomedical Devices: Proof of Concept for Lymphedema Treatment",
+      "year": 2018,
+      "citation_raw": "“A Soft Pneumatic Fabric-Polymer Actuator for Wearable Biomedical Devices: Proof of Concept for Lymphedema Treatment”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Autonomous and portable soft exosuit for hip extension assistance with online walking and running detection algorithm",
+      "year": 2018,
+      "citation_raw": "“Autonomous and portable soft exosuit for hip extension assistance with online walking and running detection algorithm”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Autonomous Multi-Joint Soft Exosuit for Assistance with Walking Overground",
+      "year": 2018,
+      "citation_raw": "“Autonomous Multi-Joint Soft Exosuit for Assistance with Walking Overground”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Compliant low profile textile-integrated multi-axis force sensors",
+      "year": 2018,
+      "citation_raw": "“Compliant low profile textile-integrated multi-axis force sensors”, in IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Growing the Soft Robotics Community Through Knowledge-Sharing Initiatives",
+      "year": 2018,
+      "citation_raw": "“Growing the Soft Robotics Community Through Knowledge-Sharing Initiatives”, Soft Robotics, vol. 5, no. 2, pp. 119–121, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "A qualitative investigation of design knowledge reuse in project-based mechanical design courses",
+      "year": 2018,
+      "citation_raw": "“A qualitative investigation of design knowledge reuse in project-based mechanical design courses”, European Journal of Engineering Education, pp. 1–16, 2018, doi: 10.1080/03043797.2018.1463196.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Human-in-the-loop development of soft wearable robots",
+      "year": 2018,
+      "citation_raw": "“Human-in-the-loop development of soft wearable robots”, Nature Review Materials, vol. 3, pp. 78–80, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Sustained release of targeted cardiac therapy with a replenishable implantable epicardial reservoir",
+      "year": 2018,
+      "citation_raw": "“Sustained release of targeted cardiac therapy with a replenishable implantable epicardial reservoir”, Nature Biomedical Engineering, vol. 2, pp. 416–428, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Exploiting Textile Mechanical Anisotropy for Fabric-Based Pneumatic Actuators",
+      "year": 2018,
+      "citation_raw": "“Exploiting Textile Mechanical Anisotropy for Fabric-Based Pneumatic Actuators”, Soft Robotics, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Wearable movement sensors for rehabilitation: A focused review of technological and clinical advances",
+      "year": 2018,
+      "citation_raw": "“Wearable movement sensors for rehabilitation: A focused review of technological and clinical advances”, PM&R, vol. 10, no. 9, pp. S220–232, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "The Development and Evaluation of DEFT, a Web-Based Tool for Engineering Design Education",
+      "year": 2018,
+      "citation_raw": "“The Development and Evaluation of DEFT, a Web-Based Tool for Engineering Design Education”, IEEE Transaction on Learning Technologies, vol. 11, no. 4, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Autonomous multi-joint soft exosuit with augmentation-power-based control parameter tuning reduces energy cost of loaded walking",
+      "year": 2018,
+      "citation_raw": "“Autonomous multi-joint soft exosuit with augmentation-power-based control parameter tuning reduces energy cost of loaded walking”, Journal of NeuroEngineering and Rehabilitation, vol. 15, no. 1, p. 66, 2018.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=9"
+    },
+    {
+      "title": "Distal Proprioceptive Sensor for Motion Feedback in Endoscope-Based Modular Robotic Systems",
+      "year": 2017,
+      "citation_raw": "“Distal Proprioceptive Sensor for Motion Feedback in Endoscope-Based Modular Robotic Systems”, IEEE Robotics and Automation Letters, vol. PP, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Soft Exosuits Increase Walking Speed and Distance after Stroke",
+      "year": 2017,
+      "citation_raw": "“Soft Exosuits Increase Walking Speed and Distance after Stroke”, International Symposium on Wearable Robotics (WeRob). Houston, TX, November 5-8, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Exosuit-induced improvements in walking after stroke: comprehensive analysis on gait energetics and biomechanics",
+      "year": 2017,
+      "citation_raw": "“Exosuit-induced improvements in walking after stroke: comprehensive analysis on gait energetics and biomechanics”, International Symposium on Wearable Robotics (WeRob). Houston, TX, November 5-8, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Approaches to Real-Time Ventricular Wall Strain Measurement for the Control of Soft Robotic Ventricular Assist Devices",
+      "year": 2017,
+      "citation_raw": "“Approaches to Real-Time Ventricular Wall Strain Measurement for the Control of Soft Robotic Ventricular Assist Devices”, The 9th Hamlyn Symposium on Medical Robotics. London, June 25-28, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Pop-up-inspired design of a septal anchor for a ventricular assist device",
+      "year": 2017,
+      "citation_raw": "“Pop-up-inspired design of a septal anchor for a ventricular assist device”, ASME Design of Medical Devices Conference. Minneapolis, MN, April 11-13, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "An Implantable Extracardiac Soft Robotic Device for the Failing Heart: Mechanical Coupling and Synchronization",
+      "year": 2017,
+      "citation_raw": "“An Implantable Extracardiac Soft Robotic Device for the Failing Heart: Mechanical Coupling and Synchronization”, Soft Robotics, vol. 4, no. 3, pp. 241–250, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Lower limb biomechanical analysis during an unanticipated step on a bump reveals specific adaptations of walking on uneven terrains",
+      "year": 2017,
+      "citation_raw": "“Lower limb biomechanical analysis during an unanticipated step on a bump reveals specific adaptations of walking on uneven terrains”, Journal of Experimental Biology, vol. 220, no. 22, pp. 4169–4176, 2017, doi: 10.1242/jeb.161158.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Highly Sensitive Capacitive-Based Soft Pressure Sensor Based on Conductive Fabric and Micro-porous Dielectric Layer",
+      "year": 2017,
+      "citation_raw": "“Highly Sensitive Capacitive-Based Soft Pressure Sensor Based on Conductive Fabric and Micro-porous Dielectric Layer”, Advanced Materials Technologies, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Autonomous soft exosuit with hip extension assistance for overground walking and jogging",
+      "year": 2017,
+      "citation_raw": "“Autonomous soft exosuit with hip extension assistance for overground walking and jogging”, International Symposium on Wearable Robotics (WeRob). Houston, TX, November 5-8, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Ankle Optimization with a Soft Exosuit Reduces Metabolic Cost of Loaded Walking",
+      "year": 2017,
+      "citation_raw": "“Ankle Optimization with a Soft Exosuit Reduces Metabolic Cost of Loaded Walking”, International Symposium on Wearable Robotics (WeRob). Houston, TX, November 5-8, 2017.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=13"
+    },
+    {
+      "title": "Lower limb biomechanical analysis of unanticipated step on a bump",
+      "year": 2016,
+      "citation_raw": "S. Lee, F. Panizzolo, T. Miyatake, D. M. Rossi, C. Siviy, and C. J. Walsh, “Lower limb biomechanical analysis of unanticipated step on a bump”, Dynamic Walking. Holly, Michigan, USA, 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "A soft suction-based end effector for endoluminal tissue manipulation",
+      "year": 2016,
+      "citation_raw": "“A soft suction-based end effector for endoluminal tissue manipulation”, The 9th Hamlyn Symposium on Medical Robotics. London, England, 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "IMU-based Iterative Control for Hip Extension Assistance with a Soft Exosuit",
+      "year": 2016,
+      "citation_raw": "“IMU-based Iterative Control for Hip Extension Assistance with a Soft Exosuit”, in IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, 2016, pp. 3501–3508.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Sensory Enhancing Insoles Modify Gait during Inclined Treadmill Walking with Load",
+      "year": 2016,
+      "citation_raw": "“Sensory Enhancing Insoles Modify Gait during Inclined Treadmill Walking with Load”, Medicine & Science in Sports & Exercise, vol. 48, no. 5, pp. 860–868, 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "A soft exosuit for assisting poststroke walking",
+      "year": 2016,
+      "citation_raw": "L. N. Awad et al., “A soft exosuit for assisting poststroke walking”, 9th World Congress of Neurorehabilitation. Philadelphia, PA, USA, 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Soft pop-up mechanisms for micro surgical tools: design and characterization of compliant millimeter-scale articulated structures",
+      "year": 2016,
+      "citation_raw": "“Soft pop-up mechanisms for micro surgical tools: design and characterization of compliant millimeter-scale articulated structures”, in IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, 2016, pp. 750–757.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Controlling Negative and Positive Power at the Ankle with a Soft Exosuit",
+      "year": 2016,
+      "citation_raw": "“Controlling Negative and Positive Power at the Ankle with a Soft Exosuit”, in IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, 2016, pp. 3509–3515.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Snap-On Robotic Wrist Module for Enhanced Dexterity in Endoscopy",
+      "year": 2016,
+      "citation_raw": "“Snap-On Robotic Wrist Module for Enhanced Dexterity in Endoscopy”, in IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, 2016, pp. 4398–4405.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Soft Wearable Robots Can Reduce the Energy Cost of Poststroke Walking: A Proof-of-Concept Study",
+      "year": 2016,
+      "citation_raw": "“Soft Wearable Robots Can Reduce the Energy Cost of Poststroke Walking: A Proof-of-Concept Study”, Combined Sessions Meeting of the American Physical Therapy Association (APTA CSM). Anaheim, CA, 2016.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=15"
+    },
+    {
+      "title": "Modeling of Soft Fiber-reinforced Bending Actuators",
+      "year": 2015,
+      "citation_raw": "“Modeling of Soft Fiber-reinforced Bending Actuators”, IEEE Transactions on Robotics, vol. 31, no. 3, pp. 778–789, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Robust, low-cost, modular mm-scale distal force sensors for flexible robotic platforms",
+      "year": 2015,
+      "citation_raw": "“Robust, low-cost, modular mm-scale distal force sensors for flexible robotic platforms”, Proceedings of the 5th Annual Hamlyn Symposium on Medical Robotics. London, UK, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Evaluation of a multi-joint soft exosuit for gait assistance",
+      "year": 2015,
+      "citation_raw": "“Evaluation of a multi-joint soft exosuit for gait assistance”, 7th International Symposium on Adaptive Motion of Animals and Machines (AMAM). Cambridge, MA, USA, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "A Biologically Inspired Soft Exosuit for Walking Assistance",
+      "year": 2015,
+      "citation_raw": "“A Biologically Inspired Soft Exosuit for Walking Assistance”, The International Journal of Robotics Research (IJRR), vol. 34, no. 6, pp. 744–762, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Shape Deposition Manufacturing of a Soft, Atraumatic, Deployable Surgical Grasper",
+      "year": 2015,
+      "citation_raw": "“Shape Deposition Manufacturing of a Soft, Atraumatic, Deployable Surgical Grasper”, ASME Journal of Mechanisms and Robotics, Special Issue: Fabrication of Fully Integrated Robotic Mechanisms, vol. 7, no. 2, pp. 021006–021006, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Soft Robotic Glove for Hand Rehabilitation and Task Specific Training",
+      "year": 2015,
+      "citation_raw": "“Soft Robotic Glove for Hand Rehabilitation and Task Specific Training”, in IEEE International Conference on Robotics and Automation (ICRA), Seattle, Washington, USA, 2015, pp. 2913–2919.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Multi-joint Soft Exosuit for Gait Assistance",
+      "year": 2015,
+      "citation_raw": "“Multi-joint Soft Exosuit for Gait Assistance”, in IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, 2015, pp. 6197–6204.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Drug and cell delivery for cardiac regeneration",
+      "year": 2015,
+      "citation_raw": "“Drug and cell delivery for cardiac regeneration”, Advanced Drug Delivery Reviews, vol. 84, pp. 85–106, 2015, doi: http://dx.doi.org/10.1016/j.addr.2014.08.006.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "Capacitive Soft Strain Sensors via Multicore-Shell Fiber Printing",
+      "year": 2015,
+      "citation_raw": "“Capacitive Soft Strain Sensors via Multicore-Shell Fiber Printing”, Advanced Materials, vol. 27, no. 15, pp. 2440–2446. [Back Cover], 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "An Access-closure Device for Percutaneous Beating Heart Surgery",
+      "year": 2015,
+      "citation_raw": "“An Access-closure Device for Percutaneous Beating Heart Surgery”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2015.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=17"
+    },
+    {
+      "title": "The Promise of Biomaterial Delivery Vehicles for Improving Stem Cell Retention in the Infarcted Heart",
+      "year": 2014,
+      "citation_raw": "“The Promise of Biomaterial Delivery Vehicles for Improving Stem Cell Retention in the Infarcted Heart”, Cardiovascular Research Foundation 9th International Conference on Cell Therapy and Cardiovascular Disease. New York, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Cable-driven Finger Exercise Device with Extension Return Springs for Recreating Standard Therapy Exercises",
+      "year": 2014,
+      "citation_raw": "“Cable-driven Finger Exercise Device with Extension Return Springs for Recreating Standard Therapy Exercises”, ASME Journal of Medical Devices, vol. 8, p. 014502, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "A Bioinspired Soft Actuated Material",
+      "year": 2014,
+      "citation_raw": "“A Bioinspired Soft Actuated Material”, Advanced Materials, vol. 26, no. 8, pp. 1200–1206, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Pneumatic Networks for Soft Robotics that Actuate Rapidly",
+      "year": 2014,
+      "citation_raw": "“Pneumatic Networks for Soft Robotics that Actuate Rapidly”, Advanced Functional Materials, vol. 24, no. 15, pp. 2163–2170, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Comparison of biomaterial delivery vehicles for improving acute retention of stem cells in the infarcted heart",
+      "year": 2014,
+      "citation_raw": "“Comparison of biomaterial delivery vehicles for improving acute retention of stem cells in the infarcted heart”, Biomaterials, vol. 35, no. 25, Art. no. 22, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Compact Robotically Steerable Image-Guided Instrument for Multi-Adjacent-Point (MAP) Targeting",
+      "year": 2014,
+      "citation_raw": "“Compact Robotically Steerable Image-Guided Instrument for Multi-Adjacent-Point (MAP) Targeting”, IEEE Transactions on Robotics, vol. 30, no. 4, pp. 802–815, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "CT-Guided Interventions: Current Practice and Future Directions",
+      "year": 2014,
+      "citation_raw": "“CT-Guided Interventions: Current Practice and Future Directions”, in Intraoperative Imaging and Image-Guided Therapy, New York: Springer, 2014, pp. 173–191. doi: 10.1007/978-1-4614-7657-3_12.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Wearable Soft Sensing Suit for Human Gait Measurement",
+      "year": 2014,
+      "citation_raw": "“Wearable Soft Sensing Suit for Human Gait Measurement”, The International Journal of Robotics Research, vol. 33, no. 14, pp. 1748–1764, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Stronger, Smarter, Softer: Next-Generation Wearable Robots",
+      "year": 2014,
+      "citation_raw": "“Stronger, Smarter, Softer: Next-Generation Wearable Robots”, IEEE Robotics & Automation Magazine, vol. 21, no. 4, pp. 22–33, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Mechanical and electrical numerical analysis of soft liquid-embedded deformation sensors analysis",
+      "year": 2014,
+      "citation_raw": "“Mechanical and electrical numerical analysis of soft liquid-embedded deformation sensors analysis”, Extreme Mechanics Letters, vol. 1, pp. 42–46, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Modeling and Design of Fiber-Reinforced Soft Actuators",
+      "year": 2014,
+      "citation_raw": "“Modeling and Design of Fiber-Reinforced Soft Actuators”, ASME International Mechanical Engineering Congress and Exposition. Montreal, Canada, 14-20 November, 2014.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=19"
+    },
+    {
+      "title": "Mechanically Programmable Bend Radius for Fiber-Reinforced Soft Actuators",
+      "year": 2013,
+      "citation_raw": "“Mechanically Programmable Bend Radius for Fiber-Reinforced Soft Actuators”, in 16th International Conference on Advanced Robotics (ICAR), Montevideo, Uruguay, 2013, pp. 1–6.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Physiological and Pathological Cardiac Motion Generation Using a Soft Robotic Approach",
+      "year": 2013,
+      "citation_raw": "“Physiological and Pathological Cardiac Motion Generation Using a Soft Robotic Approach”, Materials Research Society (MRS) Fall Meeting. Boston, MA, 2013.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Smaller, Softer, Safer, Smarter Robots",
+      "year": 2013,
+      "citation_raw": "“Smaller, Softer, Safer, Smarter Robots”, Science Translational Medicine, vol. 5, no. 210, p. 210ed19, 2013.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "An MRI Coil Mounted Multi-probe robotic positioner for cryoablation",
+      "year": 2013,
+      "citation_raw": "“An MRI Coil Mounted Multi-probe robotic positioner for cryoablation”, in Proceedings of the ASME 2013 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference, Portland, Oregon, USA, 2013.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Assured Safety Drill with Bi-stable Bit Retraction Mechanism",
+      "year": 2013,
+      "citation_raw": "“Assured Safety Drill with Bi-stable Bit Retraction Mechanism”, in Proceedings of the ASME 2013 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference IDETC/CIE 2013, Portland, OR, 2013.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Microsurgical devices by Pop-up Book MEMS",
+      "year": 2013,
+      "citation_raw": "“Microsurgical devices by Pop-up Book MEMS”, in Proceedings of the ASME 2013 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference IDETC/CIE 2013, Portland, Oregon, USA, 2013.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Soft Pneumatic Artificial Muscles with Low Threshold Pressures for Cardiac Compression Device",
+      "year": 2013,
+      "citation_raw": "“Soft Pneumatic Artificial Muscles with Low Threshold Pressures for Cardiac Compression Device”, in Proceedings of the ASME 2013 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference IDETC/CIE 2013, Portland, OR, 2013.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Tools for assessing student learning in mechanical design courses",
+      "year": 2013,
+      "citation_raw": "“Tools for assessing student learning in mechanical design courses”, 9th International CDIO Conference. Cambridge, MA, 2013.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "An assessment of student needs in project-based mechanical design courses",
+      "year": 2013,
+      "citation_raw": "“An assessment of student needs in project-based mechanical design courses”, in 120th ASEE Annual Conference and Exposition (paper and presentation), Atlanta, GA, 2013.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "A Pediatric Robotic Thumb Exoskeleton for at-Home Rehabilitation: The Isolated Orthosis for Thumb Actuation (IOTA)",
+      "year": 2013,
+      "citation_raw": "“A Pediatric Robotic Thumb Exoskeleton for at-Home Rehabilitation: The Isolated Orthosis for Thumb Actuation (IOTA)”, in 13th International Conference on Rehabilitation Robotics (ICORR), University of Washington, 2013.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Biologically-inspired Soft Exosuit",
+      "year": 2013,
+      "citation_raw": "“Biologically-inspired Soft Exosuit”, in 13th International Conference on Rehabilitation Robotics (ICORR), Seattle, WA, 2013, pp. 24–26.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Soft Wearable Motion Sensing Suit for Lower Limb Biomechanics Measurements",
+      "year": 2013,
+      "citation_raw": "“Soft Wearable Motion Sensing Suit for Lower Limb Biomechanics Measurements”, in 2013 IEEE International Conference on Robotics and Automation (ICRA), Karlsruhe, Germany, 2013, pp. 5309–5316.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=21"
+    },
+    {
+      "title": "Troublesome knowledge in engineering design courses",
+      "year": 2012,
+      "citation_raw": "“Troublesome knowledge in engineering design courses”, 6th Annual Conference of the National Academy for the Integration of Research, Teaching and Learning, and the 4th Biennial Threshold Concepts Conference. Trinity College Dublin, Ireland, 2012.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Towards a Compact Robotically Steerable Thermal Ablation Probe",
+      "year": 2012,
+      "citation_raw": "“Towards a Compact Robotically Steerable Thermal Ablation Probe”, in Proceedings of the IEEE International Conference on Robotics and Automation, Saint Paul, Minnesota, 2012, pp. 709–714.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Cranial Drilling Tool with Retracting Drill Bit Upon Skull Penetration",
+      "year": 2012,
+      "citation_raw": "“Cranial Drilling Tool with Retracting Drill Bit Upon Skull Penetration”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2012.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Differential Spring Stiffness Design for Finger Therapy Device: Bio-inspired from Stiff Pathological Finger Joints",
+      "year": 2012,
+      "citation_raw": "“Differential Spring Stiffness Design for Finger Therapy Device: Bio-inspired from Stiff Pathological Finger Joints”, ASME Design of Medical Devices Conference. Minneapolis, MN, 2012.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Hemodialysis graft resistance adjustment device",
+      "year": 2012,
+      "citation_raw": "“Hemodialysis graft resistance adjustment device”, ASME Journal of Medical Devices, vol. 6, pp. 021011–021016, 2012.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "CT-Compatible Medical Drilling Stylet for Percutaneous Interventions",
+      "year": 2012,
+      "citation_raw": "“CT-Compatible Medical Drilling Stylet for Percutaneous Interventions”, ASME Journal of Medical Devices, vol. 6, no. 4, p. 041001, 2012.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Bio-Inspired Design of Soft Robotic Assistive Devices: The Interface of Physics, Biology, and Behavior",
+      "year": 2012,
+      "citation_raw": "“Bio-Inspired Design of Soft Robotic Assistive Devices: The Interface of Physics, Biology, and Behavior”, Ecological Psychology, vol. 24, no. 4, pp. 300–327, 2012.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Design of an Ultrasound Needle Guidance System",
+      "year": 2011,
+      "citation_raw": "“Design of an Ultrasound Needle Guidance System”, in 33rd Annual International Conference of the IEEE EMBS, Boston, MA, 2011, pp. 8090–8093.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Design of a robotic tool for percutaneous instrument distal tip repositioning",
+      "year": 2011,
+      "citation_raw": "“Design of a robotic tool for percutaneous instrument distal tip repositioning”, in 33rd Annual International Conference of the IEEE EMBS, Boston, MA, 2011, pp. 2097–2100.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Single Entry Tunneler [SET] for Hemodialysis Graft Procedures",
+      "year": 2011,
+      "citation_raw": "“Single Entry Tunneler [SET] for Hemodialysis Graft Procedures”, ASME Design of Medical Devices Conference. Minneapolis, Minnesota, USA, 2011.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Preliminary evaluation of robotic needle distal tip repositioning",
+      "year": 2011,
+      "citation_raw": "“Preliminary evaluation of robotic needle distal tip repositioning”, Proc. SPIE, vol. 7901. San Francisco, CA, USA, January 22-27, p. 790108, 2011. doi: 10.1117/12.876604.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=23"
+    },
+    {
+      "title": "Evaluation of a Patient-Mounted, Remote Needle Guidance and Insertion System for CT-Guided, Percutaneous Lung Biopsies",
+      "year": 2007,
+      "citation_raw": "“Evaluation of a Patient-Mounted, Remote Needle Guidance and Insertion System for CT-Guided, Percutaneous Lung Biopsies”, Proceedings of the 2nd Frontiers in Biomedical Devices Conference. Irvine, California, 2007.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Human Factors Design for Intuitive Operation of a Low-cost, Image-Guided, Tele-Robotic Biopsy Assistant",
+      "year": 2007,
+      "citation_raw": "“Human Factors Design for Intuitive Operation of a Low-cost, Image-Guided, Tele-Robotic Biopsy Assistant”, in Proceedings of the IEEE Engineering in Medicine and Biology Conference, Lyon, France, 2007, pp. 1257–1260.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Quasi-Passive Leg Exoskeleton for Load Carrying Augmentation",
+      "year": 2007,
+      "citation_raw": "“Quasi-Passive Leg Exoskeleton for Load Carrying Augmentation”, International Journal of Humanoid Robotics, Special Issue: Active Exoskeletons, vol. 4, no. 3, pp. 487–506, 2007.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Development of a Lightweight, Under-actuated Exoskeleton to Assist in Load Carrying in Walking",
+      "year": 2006,
+      "citation_raw": "“Development of a Lightweight, Under-actuated Exoskeleton to Assist in Load Carrying in Walking”, in Proceedings of the IEEE International Conference on Robotics and Automation, Orlando, Florida, 2006, pp. 3485–3491.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "An Autonomous, Underactuated Exoskeleton for Load Carrying Augmentation",
+      "year": 2006,
+      "citation_raw": "“An Autonomous, Underactuated Exoskeleton for Load Carrying Augmentation”, in Proc. Inter. Conf. on IROS, Beijing, China, 2006, pp. 1410–1415.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=25"
+    },
+    {
+      "title": "Remote Needle Guidance System for Percutaneous Image Guided Biopsies",
+      "year": 2005,
+      "citation_raw": "“Remote Needle Guidance System for Percutaneous Image Guided Biopsies”, in Proc. American Society of Mechanical Engineers International Design Engineering and Technical Conferences, Long Beach, California, 2005.",
+      "source_url": "https://biodesign.seas.harvard.edu/publications?page=25"
+    }
+  ]
 }
