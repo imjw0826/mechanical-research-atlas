@@ -1,0 +1,2034 @@
+{
+  "university": "ETH Zurich",
+  "university_key": "eth",
+  "pi": "Mirko Meboldt",
+  "lab_name": null,
+  "lab_url": "https://lese.mavt.ethz.ch/",
+  "publication_urls": [
+    "https://pdz.ethz.ch/publications0/journal-articles.html",
+    "https://pdz.ethz.ch/publications0/conference-contributions.html"
+  ],
+  "accessed_at": "2026-11-12T15:15:25.475850+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Automated 3D sheep posture estimation and telemetric pressure synchronization via a markerless computer vision pipeline",
+      "year": 2026,
+      "citation_raw": "Automated 3D sheep posture estimation and telemetric pressure synchronization via a markerless computer vision pipeline Martina Roncoroni, Anthony Podgoršak, Andreas Kaufmann, Fabian Flürenbrock, Nina Eva Trimmel, Markus Florian Oertel, Melanie Zeilinger, Miriam Weisskopf and Marianne Schmid Daners Frontiers in Veterinary Science, vol. 13, Frontiers Media, 2026.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Radial constraint of plastically compressed human dermo-epidermal skin substitutes mitigates in vitro contraction and enhances structural maturity",
+      "year": 2026,
+      "citation_raw": "Radial constraint of plastically compressed human dermo-epidermal skin substitutes mitigates in vitro contraction and enhances structural maturity Luca Pontiggia, Jessica Polak, Vanuchija Someswaran, Roth D. Long, Ueli Moehrlen, Agnes Klar, Mirko Meboldt and Thomas Biedermann Biofabrication, vol. 18: no. 2, pp. 025032, IOP Publishing, 2026.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Cobotic drilling assistant for orthopedic surgery using Gaussian process-based breakthrough detection",
+      "year": 2026,
+      "citation_raw": "Cobotic drilling assistant for orthopedic surgery using Gaussian process-based breakthrough detection Lucas Gimeno, Nils Johnson, Tobias Stauffer, Quentin Lohmeyer and Mirko Meboldt International Journal of Computer Assisted Radiology and Surgery, vol. 21: no. 6, pp. 1161-1170, Springer, 2026.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Experimental Validation of Large Eddy Simulation as a Benchmark for Reynolds-Averaged Navier-Stokes Flow Modeling in a Magnetically Levitated Blood Pump",
+      "year": 2026,
+      "citation_raw": "Experimental Validation of Large Eddy Simulation as a Benchmark for Reynolds-Averaged Navier-Stokes Flow Modeling in a Magnetically Levitated Blood Pump Jonas Abeken, Utku Gülan, Kai von Petersdorff-Campen, Vasileios Charitatos, Marianne Schmid Daners, Mirko Meboldt, Markus Holzner, Diane de Zélicourt and Vartan Kurtcuoglu Annals of Biomedical Engineering, vol. 54: no. 3, pp. 719-736, Springer, 2026.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Assessing Surgical Skill in Orthopaedic Trauma Surgery Training: Behavioral Metrics for Digital Performance Evaluation",
+      "year": 2026,
+      "citation_raw": "Assessing Surgical Skill in Orthopaedic Trauma Surgery Training: Behavioral Metrics for Digital Performance Evaluation Tobias Stauffer, Tiffany Schlegel, Nadine Diwersi, Franz Tillmann, Frank Beeres, Quentin Lohmeyer, Reto Babst and Mirko Meboldt JBJS Open Access, vol. 11: no. 2, pp. e25.00315, Wolters Kluwer Health, 2026.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Automated layout optimization for hybrid additively manufactured hydraulic manifolds",
+      "year": 2025,
+      "citation_raw": "Automated layout optimization for hybrid additively manufactured hydraulic manifolds Urs Christoph Hofmann, Patrick Beutler, Oliver Haselbach and Mirko Meboldt Rapid Prototyping Journal, vol. 31: no. 11, pp. 345-363, Emerald, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Influence of inspiratory resistors on tracheal pressure during ventilation with decelerating flow",
+      "year": 2025,
+      "citation_raw": "Influence of inspiratory resistors on tracheal pressure during ventilation with decelerating flow David Werder, Nikola Stankovic, Mark Oliver Zander, Peter Serfözö, Thomas Otto Erb, Jürg Hammer and Marianne Schmid Daners Intensive Care Medicine – Paediatric and Neonatal, vol. 3: no. 1, pp. 13, Springer, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A patient-specific, 3D printed neurostimulator enabling focal transcranial electrical stimulation and EEG at home",
+      "year": 2025,
+      "citation_raw": "A patient-specific, 3D printed neurostimulator enabling focal transcranial electrical stimulation and EEG at home Mahyar Joodaki, Griffin Rodgers, Alois Hopf, Mathias R. Koller, Raphael Guzman, Emiliano Santarnecchi, Johannes S. Vögerl, Julian Ferchow, Annina Ruffner, Marc Funken, Mirko Meboldt and Bekim Osmani Journal of NeuroEngineering and Rehabilitation, vol. 22: no. 1, pp. 248, Springer, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Robot assistance primitives with force-field guidance for shared task collaboration",
+      "year": 2025,
+      "citation_raw": "Robot assistance primitives with force-field guidance for shared task collaboration Sophokles Ktistakis, Lucas Gimeno, Fatima-Zahra Laftissi, Alexis Hoss, Antonio De Donno and Mirko Meboldt Robotics and Computer-Integrated Manufacturing, vol. 96, pp. 103061, Elsevier, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Augmented Reality Framework to Measure and Analyze Eye–Hand Coordination in Stroke Patients with Unilateral Neglect: Proof-of-Concept Study",
+      "year": 2025,
+      "citation_raw": "Augmented Reality Framework to Measure and Analyze Eye–Hand Coordination in Stroke Patients with Unilateral Neglect: Proof-of-Concept Study Jonathan Becker, Sophokles Ktistakis, Mirko Meboldt, Thomas Nyffeler, Dario Cazzoli and Quentin Lohmeyer JMIR XR and Spatial Computing, vol. 2, pp. e70985, JMIR Publications, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Antagonistic Series Elastic Actuation for a Variable Stiffness Robotic Endoscope",
+      "year": 2025,
+      "citation_raw": "Antagonistic Series Elastic Actuation for a Variable Stiffness Robotic Endoscope Lorin Fasel, Nicolas Gerig, Aschraf Nasrallah Danun, Mirko Meboldt, Raphael Guzman, Philippe C. Cattin and Georg Rauter IEEE/ASME Transactions on Mechatronics, vol. 30: no. 5, pp. 3803-3813, IEEE, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Machine learning-assisted design automation workflow of non-uniform flow distributors for multipass crossflow device",
+      "year": 2025,
+      "citation_raw": "Machine learning-assisted design automation workflow of non-uniform flow distributors for multipass crossflow device Mertcan Kaya, Julian Ferchow, Mirko Meboldt and Christoph Klahn Results in Engineering, vol. 27, pp. 106931, Elsevier, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Assessing students' motivation, learning, and skill transferability in a real-world project: Insights from the ETH Assistive Technology Challenge",
+      "year": 2025,
+      "citation_raw": "Assessing students' motivation, learning, and skill transferability in a real-world project: Insights from the ETH Assistive Technology Challenge Jessica Gantenbein and Roger Gassert ETH Learning and Teaching Journal, vol. 5: no. 1, pp. 34-47, ETH Zurich, Educational Development and Technology, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Where do ICU trainees really look? An eye-tracking analysis of gaze patterns during central venous catheter insertion",
+      "year": 2025,
+      "citation_raw": "Where do ICU trainees really look? An eye-tracking analysis of gaze patterns during central venous catheter insertion Philipp K. Buehler, Pedro David Wendel-Garcia, Mattia Müller, Marc T. Schmidt, Reto A. Schuepbach, Quentin Lohmeyer and Daniel A. Hofmaenner The Journal of Vascular Access, vol. 26: no. 3, pp. 957-965, SAGE, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "VIEshunt: towards a ventricular intelligent and electromechanical shunt for hydrocephalus therapy",
+      "year": 2025,
+      "citation_raw": "VIEshunt: towards a ventricular intelligent and electromechanical shunt for hydrocephalus therapy Fabian Flürenbrock, Leonie Korn, Dominik Schulte, Anthony Podgoršak, Joris Chomarat, Janina Hug, Tiago Hungerland, Caroline Holzer, David Iselin, Luca Krebs, Rosina Weiss, Markus F. Oertel, Lennart Stieglitz, Miriam Weisskopf, Mirko Meboldt, Melanie N. Zeilinger and Marianne Schmid Daners Fluids and Barriers of the CNS, vol. 22: no. 1, pp. 28, BioMed Central, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Automated rigid bodies synthesis for AM compliant mechanisms",
+      "year": 2025,
+      "citation_raw": "Automated rigid bodies synthesis for AM compliant mechanisms Guilain Lang, Julien Rouvinet, Lionel Kiener and Mirko Meboldt Virtual and Physical Prototyping, vol. 20: no. 1, pp. e2551083, Taylor & Francis, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Evaluating effect of manufacturing process on design in metal binder jetting",
+      "year": 2024,
+      "citation_raw": "Evaluating effect of manufacturing process on design in metal binder jetting Urs Christoph Hofmann, Julian Ferchow and Mirko Meboldt Results in Engineering, vol. 24, pp. 103430, Elsevier, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Evaluation of augmented reality training for a navigation device used for CT-guided needle placement",
+      "year": 2024,
+      "citation_raw": "Evaluation of augmented reality training for a navigation device used for CT-guided needle placement Tobias Stauffer, Quentin Lohmeyer, Sabra Melamed, Anika Uhde, Rafael Hostettler, Stephan Wetzel and Mirko Meboldt International Journal of Computer Assisted Radiology and Surgery, vol. 19: no. 12, pp. 2411-2419, Springer, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Performance and Robustness of Physiological Controllers with Integrated Pressure Sensors on Inflow Cannula",
+      "year": 2024,
+      "citation_raw": "Performance and Robustness of Physiological Controllers with Integrated Pressure Sensors on Inflow Cannula Thomas Gwosch, Konstantinos Magkoutas and Marianne Schmid Daners IEEE Transactions on Biomedical Engineering, vol. 71: no. 11, pp. 3204-3212, IEEE, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Speech recognition technology for assessing team debriefing communication and interaction patterns: An algorithmic toolkit for healthcare simulation educators",
+      "year": 2024,
+      "citation_raw": "Speech recognition technology for assessing team debriefing communication and interaction patterns: An algorithmic toolkit for healthcare simulation educators Robin Brutschi, Rui Wang, Michaela Kolbe, Kerrin Weiss, Quentin Lohmeyer and Mirko Meboldt Advances in Simulation, vol. 9: no. 1, pp. 42, BioMed Central, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Advancing quality of laser-based metal powder bed fusion-fabricated filigree sub-millimetre structures: a systematic exploration of a novel hybrid post-processing treatment",
+      "year": 2024,
+      "citation_raw": "Advancing quality of laser-based metal powder bed fusion-fabricated filigree sub-millimetre structures: a systematic exploration of a novel hybrid post-processing treatment Séline Steffanoni, Jonas Keller, Selma Hansal, Wolfgang Hansal, Julian Ferchow and Mirko Meboldt The International Journal of Advanced Manufacturing Technology, vol. 133: no. 11, pp. 5967-5989, Springer, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Automatized self-supervised learning for skin lesion screening",
+      "year": 2024,
+      "citation_raw": "Automatized self-supervised learning for skin lesion screening Vullnet Useini, Stephanie Tanadini-Lang, Quentin Lohmeyer, Mirko Meboldt, Nicolaus Andratschke, Ralph P. Braun and Javier Barranco García Scientific Reports, vol. 14: no. 1, pp. 12697, Nature, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Performance and Reliable Operation of Physiological Controllers Under Various Cardiovascular Models: In Silico and In Vitro Study",
+      "year": 2024,
+      "citation_raw": "Performance and Reliable Operation of Physiological Controllers Under Various Cardiovascular Models: In Silico and In Vitro Study Thomas Gwosch, Konstantinos Magkoutas, David Kaiser and Marianne Schmid Daners ASAIO Journal, vol. 70: no. 6, pp. 485-494, Wolters Kluwer Health, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "OxyHbMeter—a novel bedside medical device for monitoring cell-free hemoglobin in the cerebrospinal fluid—proof of principle",
+      "year": 2024,
+      "citation_raw": "OxyHbMeter—a novel bedside medical device for monitoring cell-free hemoglobin in the cerebrospinal fluid—proof of principle Nikolaos Tachatos, Jan Folkard Willms, Michael Sebastian Gerlt, Kiran Kuruvithadam, Michael Hugelshofer, Kevin Akeret, Jeremy Deuel, Emanuela Keller and Marianne Schmid Daners Frontiers in Medical Technology, vol. 6, pp. 1274058, Frontiers Media, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Corporate Makerspaces: An Empirical Mixed-Method Study of Its Elements and Their Impact on Users and Companies",
+      "year": 2024,
+      "citation_raw": "Corporate Makerspaces: An Empirical Mixed-Method Study of Its Elements and Their Impact on Users and Companies Finn Rieken, Johannes Heck, Mareike Heinzen and Mirko Meboldt Engineering Management Journal, vol. 36: no. 4, pp. 415-435, Taylor & Francis, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Radial matrix constraint influences tissue contraction and promotes maturation of bi-layered skin equivalents",
+      "year": 2024,
+      "citation_raw": "Radial matrix constraint influences tissue contraction and promotes maturation of bi-layered skin equivalents Jessica Polak, David Sachs, Nino Scherrer, Adrian Süess, Huan Liu, Mitchell Levesque, Sabine Werner, Edoardo Mazza, Gaetana Restivo, Mirko Meboldt and Costanza Giampietro Biomaterials Advances, vol. 156, pp. 213702, Elsevier, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A Comparison of Proximal and Tracheal Airway Pressures During Pressure Controlled Ventilation",
+      "year": 2023,
+      "citation_raw": "A Comparison of Proximal and Tracheal Airway Pressures During Pressure Controlled Ventilation Mark O. Zander, Nikola Stankovic, Mirko Meboldt, Thomas O. Erb, Jürg Hammer and Marianne Schmid Daners Respiratory Care, vol. 68: no. 12, pp. 1639-1645, Daedalus, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A compact adjustable hydraulic damper with symmetric high load behavior enabled by selective laser melting",
+      "year": 2023,
+      "citation_raw": "A compact adjustable hydraulic damper with symmetric high load behavior enabled by selective laser melting Emil Heyden, Urs Christoph Hofmann, Mirko Meboldt and Dieter Krause Journal of Low Frequency Noise, Vibration and Active Control, vol. 42: no. 4, pp. 1699-1717, SAGE, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "The influence of upright posture on craniospinal, arteriovenous, and abdominal pressures in a chronic ovine in-vivo trial",
+      "year": 2023,
+      "citation_raw": "The influence of upright posture on craniospinal, arteriovenous, and abdominal pressures in a chronic ovine in-vivo trial Anthony Podgoršak, Nina Eva Trimmel, Markus Florian Oertel, Margarete Arras, Miriam Weisskopf and Marianne Schmid Daners Fluids and Barriers of the CNS, vol. 20, pp. 80, BioMed Central, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "The impact of right ventricular hemodynamics on the performance of a left ventricular assist device in a numerical simulation model",
+      "year": 2023,
+      "citation_raw": "The impact of right ventricular hemodynamics on the performance of a left ventricular assist device in a numerical simulation model Titus L.Z. Thut, Anastasios Petrou, Mirko Meboldt, Marianne Schmid Daners and Markus J. Wilhelm Biomedical Engineering / Biomedizinische Technik, vol. 68: no. 5, pp. 503-510, De Gruyter, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "What we see is what we do: a practical Peripheral Vision-Based HMM framework for gaze-enhanced recognition of actions in a medical procedural task",
+      "year": 2023,
+      "citation_raw": "What we see is what we do: a practical Peripheral Vision-Based HMM framework for gaze-enhanced recognition of actions in a medical procedural task Felix Wang, Thomas Kreiner, Alexander Lutz, Quentin Lohmeyer and Mirko Meboldt User Modeling and User-Adapted Interaction, vol. 33: no. 4, pp. 939-965, Springer, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "In-vitro investigation of endothelial monolayer retention on an inflow VAD cannula inside a beating heart phantom",
+      "year": 2023,
+      "citation_raw": "In-vitro investigation of endothelial monolayer retention on an inflow VAD cannula inside a beating heart phantom Konstantinos Magkoutas, Nafsika Chala, Xi Wu, Dimos Poulikakos, Edoardo Mazza, Mirko Meboldt, Volkmar Falk, Aldo Ferrari, Costanza Giampietro and Marianne Schmid Daners Biomaterials Advances, vol. 152, pp. 213485, Elsevier, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "O₂ permeability of additively manufactured silicone membranes",
+      "year": 2023,
+      "citation_raw": "O₂ permeability of additively manufactured silicone membranes Marcel Gort, Elodie Morlec, Damian Gwerder, Philipp Schuetz, Martin Camenzind and Mirko Meboldt Journal of Applied Polymer Science, vol. 140: no. 30, pp. e54079, Wiley, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Selected design rules for material extrusion-based additive manufacturing of alumina based nozzles and heat exchangers considering limitations in printing, debinding, and sintering",
+      "year": 2023,
+      "citation_raw": "Selected design rules for material extrusion-based additive manufacturing of alumina based nozzles and heat exchangers considering limitations in printing, debinding, and sintering Amir Hadian, Benjamin Morath, Manuel Biedermann, Mirko Meboldt and Frank Jörg Clemens Additive Manufacturing, vol. 75, pp. 103719, Elsevier, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Influence of head-over-body and body-over-head posture on craniospinal, vascular, and abdominal pressures in an acute ovine in-vivo model",
+      "year": 2023,
+      "citation_raw": "Influence of head-over-body and body-over-head posture on craniospinal, vascular, and abdominal pressures in an acute ovine in-vivo model Anthony Podgoršak, Nina Eva Trimmel, Fabian Flürenbrock, Markus Florian Oertel, Margarete Arras, Miriam Weisskopf and Marianne Schmid Daners Fluids and Barriers of the CNS, vol. 20: no. 1, pp. 58, BioMed Central, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "How different augmented reality visualizations for drilling affect trajectory deviation, visual attention, and user experience",
+      "year": 2023,
+      "citation_raw": "How different augmented reality visualizations for drilling affect trajectory deviation, visual attention, and user experience Julian Wolf, Dietmar Luchmann, Quentin Lohmeyer, Mazda Farshad, Philipp Fürnstahl and Mirko Meboldt International Journal of Computer Assisted Radiology and Surgery, vol. 18: no. 8, pp. 1363-1371, Springer, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Genetic algorithm-based optimization framework for control parameters of ventricular assist devices",
+      "year": 2023,
+      "citation_raw": "Genetic algorithm-based optimization framework for control parameters of ventricular assist devices Konstantinos Magkoutas, Leonardo Nunes Rossato, Marco Heim and Marianne Schmid Daners Biomedical Signal Processing and Control, vol. 85, pp. 104788, Elsevier, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Teaching agile hardware development with an open-source engineering simulator: An evaluation with industry participants",
+      "year": 2023,
+      "citation_raw": "Teaching agile hardware development with an open-source engineering simulator: An evaluation with industry participants Daniel Omidvarkarjan, Manfred Hofelich, Jonas Conrad, Christoph Klahn and Mirko Meboldt Computer Applications in Engineering Education, vol. 31: no. 4, pp. 946-962, Wiley, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Effect of antisiphon devices on ventriculoperitoneal shunt drainage dynamics in growing children",
+      "year": 2023,
+      "citation_raw": "Effect of antisiphon devices on ventriculoperitoneal shunt drainage dynamics in growing children Nikolaos Tachatos, Sandra Fernandes Dias, Elisabeth Jehli, Dennis Lübben, Martin Ulrich Schuhmann and Marianne Schmid Daners Journal of Neurosurgery: Pediatrics, vol. 32: no. 1, pp. 50-59, American Association of Neurological Surgeons, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Measuring teamwork for training in healthcare using eye tracking and pose estimation",
+      "year": 2023,
+      "citation_raw": "Measuring teamwork for training in healthcare using eye tracking and pose estimation Kerrin Weiss, Michaela Kolbe, Quentin Lohmeyer and Mirko Meboldt Frontiers in Psychology, vol. 14, pp. 1169940, Frontiers Media, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Continuous Monitoring of Blood Pressure and Vascular Hemodynamic Properties With Miniature Extravascular Hall-Based Magnetic Sensor",
+      "year": 2023,
+      "citation_raw": "Continuous Monitoring of Blood Pressure and Vascular Hemodynamic Properties With Miniature Extravascular Hall-Based Magnetic Sensor Konstantinos Magkoutas, Miriam Weisskopf, Volkmar Falk, Maximilian Y. Emmert, Mirko Meboldt, Nikola Cesarovic and Marianne Schmid Daners JACC: Basic to Translational Science, vol. 8: no. 5, pp. 546-564, Elsevier, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Data-driven resuscitation training using pose estimation",
+      "year": 2023,
+      "citation_raw": "Data-driven resuscitation training using pose estimation Kerrin Elisabeth Weiss, Michaela Kolbe, Andrina Nef, Bastian Grande, Bravin Kalirajan, Mirko Meboldt and Quentin Lohmeyer Advances in Simulation, vol. 8, pp. 12, BioMed Central, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Gait pattern analysis in the home environment as a key factor for the reliable assessment of shunt responsiveness in patients with idiopathic normal pressure hydrocephalus",
+      "year": 2023,
+      "citation_raw": "Gait pattern analysis in the home environment as a key factor for the reliable assessment of shunt responsiveness in patients with idiopathic normal pressure hydrocephalus Sandra Fernandes Dias, Christina Graf, Elisabeth Jehli, Markus Florian Oertel, Julia Mahler, Marianne Schmid Daners and Lennart Henning Stieglitz Frontiers in Neurology, vol. 14, pp. 1126298, Frontiers Media, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A Soft Robotic Actuator System for in vivo Modeling of Normal Pressure Hydrocephalus",
+      "year": 2023,
+      "citation_raw": "A Soft Robotic Actuator System for in vivo Modeling of Normal Pressure Hydrocephalus Fabian Flürenbrock, Luca Rosalia, Anthony Podgoršak, Katherina Sapozhnikov, Nina Eva Trimmel, Miriam Weisskopf, Markus Florian Oertel, Ellen Roche, Melanie N. Zeilinger, Leonie Korn and Marianne Schmid Daners IEEE Transactions on Biomedical Engineering, vol. 71: no. 3, pp. 998-1009, IEEE, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Design of an additively manufactured hydraulic directional spool valve: an industrial case study",
+      "year": 2023,
+      "citation_raw": "Design of an additively manufactured hydraulic directional spool valve: an industrial case study Urs Christoph Hofmann, Matthias Fankhauser, Simon Willen, Dario Inniger, Christoph Klahn, Kaspar Löffel and Mirko Meboldt Virtual and Physical Prototyping, vol. 18: no. 1, pp. e2129699, Taylor & Francis, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "(Non-)linear stiffness customisation of metallic additive manufactured springs",
+      "year": 2023,
+      "citation_raw": "(Non-)linear stiffness customisation of metallic additive manufactured springs Aschraf Nasrallah Danun, Oliver Poole, Edouard Tarter, Patrick Beutler and Mirko Meboldt Virtual and Physical Prototyping, vol. 18: no. 1, pp. e2178941, Taylor & Francis, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Internet on animals: Wi-Fi-enabled devices provide a solution for big data transmission in biologging",
+      "year": 2023,
+      "citation_raw": "Internet on animals: Wi-Fi-enabled devices provide a solution for big data transmission in biologging Timm Wild, Martin Wikelski, Stephen Tyndel, Gustavo Alarcón-Nieto, Barbara C. Klump, Lucy M. Aplin, Mirko Meboldt and Hannah J. Williams Methods in Ecology and Evolution, vol. 14: no. 1, pp. 87-102, Wiley, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Additive manufactured continuum mechanisms based on shape-programmable and micro-sized building blocks",
+      "year": 2023,
+      "citation_raw": "Additive manufactured continuum mechanisms based on shape-programmable and micro-sized building blocks Aschraf Nasrallah Danun, Remo Elmiger, Fabio Leuenberger, Luca Niederhauser, Jan Szlauzys, Lorin Fasel and Mirko Meboldt Virtual and Physical Prototyping, vol. 18: no. 1, pp. e2174146, Taylor & Francis, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Effects of tall man lettering on the visual behaviour of critical care nurses while identifying syringe drug labels: a randomised in situ simulation",
+      "year": 2023,
+      "citation_raw": "Effects of tall man lettering on the visual behaviour of critical care nurses while identifying syringe drug labels: a randomised in situ simulation Quentin Lohmeyer, Cornel Schiess, Pedro David Wendel Garcia, Heidi Petry, Eric Strauch, Andreas Dietsche, Reto A. Schuepbach, Philipp K. Buehler and Daniel A. Hofmaenner BMJ Quality & Safety, vol. 32: no. 1, pp. 26-33, BMJ, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Recognition of Additive Manufacturing Parts Based on Neural Networks and Synthetic Training Data: A Generalized End-to-End Workflow",
+      "year": 2023,
+      "citation_raw": "Recognition of Additive Manufacturing Parts Based on Neural Networks and Synthetic Training Data: A Generalized End-to-End Workflow Jonas Conrad, Simon Rodriguez, Daniel Omidvarkarjan, Julian Ferchow and Mirko Meboldt Applied Sciences, vol. 13: no. 22, pp. 12316, MDPI, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Venous dynamics in anesthetized sheep govern postural‐induced changes in cerebrospinal fluid pressure comparable to those in humans",
+      "year": 2022,
+      "citation_raw": "Venous dynamics in anesthetized sheep govern postural‐induced changes in cerebrospinal fluid pressure comparable to those in humans Nina Eva Trimmel, Anthony Podgoršak, Markus Florian Oertel, Simone Jucker, Margarete Arras, Marianne Schmid Daners and Miriam Weisskopf Physiological Reports, vol. 10: no. 24, pp. e15525, Wiley, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Testing of pandemic ventilators under early and agile development",
+      "year": 2022,
+      "citation_raw": "Testing of pandemic ventilators under early and agile development Nikolaos Tachatos, Nicola Steffen, Mark Zander, Nikola Stankovic, Mirko Meboldt, Thomas O. Erb, Jürg Hammer and Marianne Schmid Daners Frontiers in Medical Technology, vol. 4, pp. 899328, Frontiers Media, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Routing multiple flow channels for additive manufactured parts using iterative cable simulation",
+      "year": 2022,
+      "citation_raw": "Routing multiple flow channels for additive manufactured parts using iterative cable simulation Manuel Biedermann, Patrick Beutler and Mirko Meboldt Additive Manufacturing, vol. 56, pp. 102891, Elsevier, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Physiologic Data-Driven Iterative Learning Control for Left Ventricular Assist Devices",
+      "year": 2022,
+      "citation_raw": "Physiologic Data-Driven Iterative Learning Control for Left Ventricular Assist Devices Konstantinos Magkoutas, Philip Arm, Mirko Meboldt and Marianne Schmid Daners Frontiers in Cardiovascular Medicine, vol. 9, pp. 922387, Frontiers Media, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Automated Knowledge‐Based Design for Additive Manufacturing: A Case Study with Flow Manifolds",
+      "year": 2022,
+      "citation_raw": "Automated Knowledge‐Based Design for Additive Manufacturing: A Case Study with Flow Manifolds Manuel Biedermann, Patrick Beutler and Mirko Meboldt Chemie Ingenieur Technik, vol. 94: no. S 7, pp. 939-947, Wiley-VCH, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Micro-sized open-source and low-cost GPS loggers below 1 g minimise the impact on animals while collecting thousands of fixes",
+      "year": 2022,
+      "citation_raw": "Micro-sized open-source and low-cost GPS loggers below 1 g minimise the impact on animals while collecting thousands of fixes Timm Wild, Jens C. Koblitz, Dina K.N. Dechmann, Christian Dietz, Mirko Meboldt and Martin Wikelski PLoS ONE, vol. 17: no. 6, pp. e0267730, PLOS, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Pressure and Bernoulli-based Flow Measurement via a Tapered Inflow VAD Cannula",
+      "year": 2022,
+      "citation_raw": "Pressure and Bernoulli-based Flow Measurement via a Tapered Inflow VAD Cannula Kai Von Petersdorff-Campen, Matthias Alexander Dupuch, Konstantinos Magkoutas, Mirko Meboldt, Christofer Hierold and Marianne Schmid Daners IEEE Transactions on Biomedical Engineering, vol. 69: no. 5, pp. 1620-1629, IEEE, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Cytotoxic and Inflammatory Effects of Electronic and Traditional Cigarettes on Oral Gingival Cells Using a Novel Automated Smoking Instrument: An In Vitro Study",
+      "year": 2022,
+      "citation_raw": "Cytotoxic and Inflammatory Effects of Electronic and Traditional Cigarettes on Oral Gingival Cells Using a Novel Automated Smoking Instrument: An In Vitro Study Liza L. Ramenzoni, Andreas Schneider, Stephan C. Fox, Michael Meyer, Mirko Meboldt, Thomas Attin and Patrick R. Schmidlin Toxics, vol. 10: no. 4, pp. 179, MDPI, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Design and validation of a sheet metal clamping system for additive manufacturing and post-processing",
+      "year": 2022,
+      "citation_raw": "Design and validation of a sheet metal clamping system for additive manufacturing and post-processing Julian Ferchow, Marvin Bühler, Marcel Schlüssel, Livia Zumofen, Christoph Klahn, Urs Christoph Hofmann, Andreas Kirchheim and Mirko Meboldt The International Journal of Advanced Manufacturing Technology, vol. 119: no. 11-12, pp. 7947-7967, Springer, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Insights Into the Low Rate of In-Pump Thrombosis With the HeartMate 3: Does the Artificial Pulse Improve Washout?",
+      "year": 2022,
+      "citation_raw": "Insights Into the Low Rate of In-Pump Thrombosis With the HeartMate 3: Does the Artificial Pulse Improve Washout? Peng Fang, Jianjun Du, Andrea Boraschi, Silvia Bozzi, Alberto Redaelli, Marianne Schmid Daners, Vartan Kurtcuoglu, Filippo Consolo and Diane de Zélicourt Frontiers in Cardiovascular Medicine, vol. 9, pp. 775780, Frontiers Media, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Designkonfiguratoren: Potenzial für 3D-Druck: Automatisierte Konstruktion für 3D-Druck",
+      "year": 2022,
+      "citation_raw": "Designkonfiguratoren: Potenzial für 3D-Druck: Automatisierte Konstruktion für 3D-Druck Daniel Omidvarkarjan, Patrick Beutler, Simon Ritter and Mirko Meboldt KunststoffXtra, vol. 12: no. 3-4, pp. 26-28, Sigwerb GmbH, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Potential Factors for Poor Reproducibility of In Vitro Hemolysis Testing",
+      "year": 2022,
+      "citation_raw": "Potential Factors for Poor Reproducibility of In Vitro Hemolysis Testing Kai von Petersdorff-Campen, Peter Fischer, Anna Bogdanova and Marianne Schmid Daners ASAIO Journal, vol. 68: no. 3, pp. 384-393, Wolters Kluwer Health, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "The Sheep as a Comprehensive Animal Model to Investigate Interdependent Physiological Pressure Propagation and Multiparameter Influence on Cerebrospinal Fluid Dynamics",
+      "year": 2022,
+      "citation_raw": "The Sheep as a Comprehensive Animal Model to Investigate Interdependent Physiological Pressure Propagation and Multiparameter Influence on Cerebrospinal Fluid Dynamics Nina Eva Trimmel, Anthony Podgoršak, Markus Florian Oertel, Simone Jucker, Margarete Arras, Marianne Schmid Daners and Miriam Weisskopf Frontiers in Neuroscience, vol. 16, pp. 868567, Frontiers Media, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Dual-modality Volume Measurement integrated on a Ventricular Assist Device",
+      "year": 2022,
+      "citation_raw": "Dual-modality Volume Measurement integrated on a Ventricular Assist Device Leonie Korn, Seraina Anne Dual, Jöran Rixen, Mirko Meboldt, Steffen Leonhardt, Marianne Schmid Daners and Marian Walter IEEE Transactions on Biomedical Engineering, vol. 69: no. 3, pp. 1151-1161, IEEE, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "The HEV Ventilator: at the interface between particle physics and biomedical engineering",
+      "year": 2022,
+      "citation_raw": "The HEV Ventilator: at the interface between particle physics and biomedical engineering Jan Buytaert, Paula Collins, Adam Abed Abud, Phil Allport, Antonio Pazos Álvarez, Kazuyoshi Akiba, Oscar Augusto de Aguiar Francisco, Aurelio Bay, Florian Bernard, Sophie Baron, Claudia Bertella, Josef X. Brunner, Themis Bowcock, Martine Buytaert-De Jode, Wiktor Byczynski, Ricardo De Carvalho, Victor Coco, Ruth Collins, Nikola Dikic, Nicolas Dousse, Mirko Meboldt, Marianne Schmid Daners, Derick Sivakumaran, Nicola Steffen, Nikolaos Tachatos and et al. Royal Society Open Science, vol. 9: no. 3, pp. 211519, Royal Society, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Design and validation of integrated clamping interfaces for post-processing and robotic handling in additive manufacturing",
+      "year": 2022,
+      "citation_raw": "Design and validation of integrated clamping interfaces for post-processing and robotic handling in additive manufacturing Julian Ferchow, Dominik Kälin, Gokula Englberger, Marcel Schlüssel, Christoph Klahn and Mirko Meboldt The International Journal of Advanced Manufacturing Technology, vol. 118: no. 11, pp. 3761-3787, Springer, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "An algorithmic approach to determine expertise development using object-related gaze pattern sequences",
+      "year": 2022,
+      "citation_raw": "An algorithmic approach to determine expertise development using object-related gaze pattern sequences Felix S. Wang, Céline Gianduzzo, Mirko Meboldt and Quentin Lohmeyer Behavior Research Methods, vol. 54, pp. 493-507, Springer, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Hemolysis Testing In Vitro: A Review of Challenges and Potential Improvements",
+      "year": 2022,
+      "citation_raw": "Hemolysis Testing In Vitro: A Review of Challenges and Potential Improvements Kai von Petersdorff-Campen and Marianne Schmid Daners ASAIO Journal, vol. 68: no. 1, pp. 3-13, Wolters Kluwer Health, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Intercompartmental communication between the cerebrospinal and adjacent spaces during intrathecal infusions in an acute ovine in-vivo model",
+      "year": 2022,
+      "citation_raw": "Intercompartmental communication between the cerebrospinal and adjacent spaces during intrathecal infusions in an acute ovine in-vivo model Anthony Podgoršak, Nina Eva Trimmel, Markus Florian Oertel, Sara Qvarlander, Margarete Arras, Anders Eklund, Miriam Weisskopf and Marianne Schmid Daners Fluids and Barriers of the CNS, vol. 19: no. 1, pp. 2, BioMed Central, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Does Size Matter for Female Continuous-flow LVAD Recipients? A Translational Approach to a Decade Long Question",
+      "year": 2022,
+      "citation_raw": "Does Size Matter for Female Continuous-flow LVAD Recipients? A Translational Approach to a Decade Long Question Seraina A. Dual, Aditi Nayak, Yingtian Hu, Marianne Schmid Daners, Alanna A. Morris and Jennifer Cowger ASAIO Journal, vol. 68: no. 1, pp. 21-27, Wolters Kluwer Health, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Systematic Design, Control and Parametric Testing of an Automated Resuscitator Bag Mechanical Ventilator",
+      "year": 2021,
+      "citation_raw": "Systematic Design, Control and Parametric Testing of an Automated Resuscitator Bag Mechanical Ventilator Cosima Du Pasquier, Lukas Hewing, Nicola Steffen, Thomas S. Lumpe, Nikolaos Tachatos, Marcel Menner, Marianne Schmid Daners, Andrea Carron, Melanie N. Zeilinger and Kristina Shea Journal of Mechanical Design, vol. 143: no. 12, pp. 125001, American Society of Mechanical Engineers, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Real-Time Ventricular Volume Measured Using the Intracardiac Electromyogram",
+      "year": 2021,
+      "citation_raw": "Real-Time Ventricular Volume Measured Using the Intracardiac Electromyogram Marianne Schmid Daners, Sophie Hall, Simon Sündermann, Nikola Cesarovic, Mareike Kron, Volkmar Falk, Christoph Starck, Mirko Meboldt and Seraina A. Dual ASAIO Journal, vol. 67: no. 12, pp. 1312-1320, Wolters Kluwer Health, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Meet the Authors",
+      "year": 2021,
+      "citation_raw": "Meet the Authors Marianne Schmid Daners and Seraina A. Dual ASAIO Journal, vol. 67: no. 12, pp. 1321-1321, Wolters Kluwer Health, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Automated design of additive manufactured flow components with consideration of overhang constraint",
+      "year": 2021,
+      "citation_raw": "Automated design of additive manufactured flow components with consideration of overhang constraint Manuel Biedermann, Patrick Beutler and Mirko Meboldt Additive Manufacturing, vol. 46, pp. 102119, Elsevier, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Transcatheter Mitral Valve Repair Simulator Equipped with Eye Tracking Based Performance Assessment Capabilities: A Pilot Study",
+      "year": 2021,
+      "citation_raw": "Transcatheter Mitral Valve Repair Simulator Equipped with Eye Tracking Based Performance Assessment Capabilities: A Pilot Study Jan Zimmermann, Mattia Arduini, Luca Vicentini, Francesco Maisano and Mirko Meboldt Cardiovascular Engineering and Technology, vol. 12: no. 5, pp. 530-538, Springer, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Harnessing manufacturing elements to select local process parameters for metal additive manufacturing: A case study on a superconducting solenoid coil",
+      "year": 2021,
+      "citation_raw": "Harnessing manufacturing elements to select local process parameters for metal additive manufacturing: A case study on a superconducting solenoid coil Julian Ferchow, Manuel Johannes Biedermann, Pascal Müller, Bernhard Auchmann, André Brem and Mirko Meboldt Additive Manufacturing, vol. 46, pp. 102140, Elsevier, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Data-Driven Investigation of Gait Patterns in Individuals Affected by Normal Pressure Hydrocephalus",
+      "year": 2021,
+      "citation_raw": "Data-Driven Investigation of Gait Patterns in Individuals Affected by Normal Pressure Hydrocephalus Kiran Kuruvithadam, Marcel Menner, William R. Taylor, Melanie N. Zeilinger, Lennart Stieglitz and Marianne Schmid Daners Sensors, vol. 21: no. 19, pp. 6451, MDPI, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Differing Visual Behavior Between Inexperienced and Experienced Critical Care Nurses While Using a Closed-Loop Ventilation System—A Prospective Observational Study",
+      "year": 2021,
+      "citation_raw": "Differing Visual Behavior Between Inexperienced and Experienced Critical Care Nurses While Using a Closed-Loop Ventilation System—A Prospective Observational Study Philipp K. Buehler, Anique Herling, Nadine Bienefeld, Stephanie Klinzing, Stephan Wegner, Pedro David Wendel Garcia, Michael Karbach, Quentin Lohmeyer, Elisabeth Schaubmayr, Reto A. Schuepbach and Daniel A. Hofmaenner Frontiers in Medicine, vol. 8, pp. 681321, Frontiers Media, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Comparing the effectiveness of augmented reality-based and conventional instructions during single ECMO cannulation training",
+      "year": 2021,
+      "citation_raw": "Comparing the effectiveness of augmented reality-based and conventional instructions during single ECMO cannulation training Julian Wolf, Viviane Wolfer, Maximilian Halbe, Francesco Maisano, Quentin Lohmeyer and Mirko Meboldt International Journal of Computer Assisted Radiology and Surgery, vol. 16: no. 6, pp. 1171-1180, Springer, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Cardiac Output Estimation: Online Implementation for Left Ventricular Assist Device Support",
+      "year": 2021,
+      "citation_raw": "Cardiac Output Estimation: Online Implementation for Left Ventricular Assist Device Support Anastasios Petrou, Menelaos Kanakis, Konstantinos Magkoutas, Bob De Vries, Mirko Meboldt and Marianne Schmid Daners IEEE Transactions on Biomedical Engineering, vol. 68: no. 6, pp. 1990-1998, IEEE, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Object-gaze distance: Quantifying near-peripheral gaze behavior in real-world applications",
+      "year": 2021,
+      "citation_raw": "Object-gaze distance: Quantifying near-peripheral gaze behavior in real-world applications Felix Wang, Julian Wolf, Mazda Farshad, Mirko Meboldt and Quentin Lohmeyer Journal of Eye Movement Research, vol. 14: no. 1, pp. 5, University of Bern, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Building Block Synthesis of Self-Supported Three-Dimensional Compliant Elements for Metallic Additive Manufacturing",
+      "year": 2021,
+      "citation_raw": "Building Block Synthesis of Self-Supported Three-Dimensional Compliant Elements for Metallic Additive Manufacturing Aschraf Nasrallah Danun, Philip Dalla Palma, Christoph Klahn and Mirko Meboldt Journal of Mechanical Design, vol. 143: no. 5, pp. 053301, American Society of Mechanical Engineers, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "In Vitro Testing and Comparison of Additively Manufactured Polymer Impellers for the CentriMag Blood Pump",
+      "year": 2021,
+      "citation_raw": "In Vitro Testing and Comparison of Additively Manufactured Polymer Impellers for the CentriMag Blood Pump Kai von Petersdorff-Campen, Jonas Abeken, Diane de Zélicourt, Vartan Kurtcuoglu, Mirko Meboldt and Marianne Schmid Daners ASAIO Journal, vol. 67: no. 3, pp. 306-313, Wolters Kluwer Health, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A Novel Hybrid Membrane VAD as First Step Toward Hemocompatible Blood Propulsion",
+      "year": 2021,
+      "citation_raw": "A Novel Hybrid Membrane VAD as First Step Toward Hemocompatible Blood Propulsion Aldo Ferrari, Costanza Giampietro, Björn Bachmann, Laura Bernardi, Deon Bezuidenhhout, Paolo Ermanni, Raoul Hopf, Sarah Kitz, Gerald Kress, Christian Loosli, Vita Marina, Mirko Meboldt, Giovanni Pellegrini, Dimos Poulikakos, Mathias Rebholz, Marianne Schmid Daners, Tanja Schmidt, Christoph Starck, Georgios Stefopoulos, Simon Sündermann, Bente Thamsen, Peter Zilla, Evgenij Potapov, Volkmar Falk and Edoardo Mazza Annals of Biomedical Engineering, vol. 49: no. 2, pp. 716-731, Springer, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Eye Tracking Supported Human Factors Testing Improving Patient Training",
+      "year": 2021,
+      "citation_raw": "Eye Tracking Supported Human Factors Testing Improving Patient Training Kerrin Elisabeth Weiss, Christoph Hoermandinger, Marcus Mueller, Marianne Schmid Daners, Evgenij V. Potapov, Volkmar Falk, Mirko Meboldt and Quentin Lohmeyer Journal of Medical Systems, vol. 45, pp. 55, Springer, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Rethinking Co-Extrusion: Additive Manufacturing and Simulation-Based Design as a Duo for Extrusion Dies",
+      "year": 2021,
+      "citation_raw": "Rethinking Co-Extrusion: Additive Manufacturing and Simulation-Based Design as a Duo for Extrusion Dies Manuel Biedermann, Mirko Meboldt, Silvan Walker and Daniel Schwendemann Kunststoffe International, vol. 2021: no. 1, pp. 26-29, Carl Hanser Verlag, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Mapping value clusters of additive manufacturing on design strategies to support part identification and selection",
+      "year": 2021,
+      "citation_raw": "Mapping value clusters of additive manufacturing on design strategies to support part identification and selection Christoph Klahn, Filippo Fontana, Bastian Leutenecker-Twelsiek and Mirko Meboldt Rapid Prototyping Journal, vol. 26: no. 10, pp. 1797-1807, MCB University Press, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Ultrasound-based prediction of interventricular septum positioning during left ventricular support - an experimental study",
+      "year": 2020,
+      "citation_raw": "Ultrasound-based prediction of interventricular septum positioning during left ventricular support - an experimental study Seraina A. Dual, Lucien Anthamatten, Palak Shah, Mirko Meboldt and Marianne Schmid Daners Journal of Cardiovascular Translational Research, vol. 13: no. 6, pp. 1055-1064, Springer, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "The doctor's point of view: eye-tracking as an investigative tool in the extubationprocess in intensive care units: A pilot study",
+      "year": 2020,
+      "citation_raw": "The doctor's point of view: eye-tracking as an investigative tool in the extubationprocess in intensive care units: A pilot study Daniel A. Hofmaenner, Stephanie Klinzing, Giovanna Brandi, Stephan Hess, Quentin Lohmeyer, Katharina Enthofer, Reto A. Schuepbach and Philipp K. Buehler Minerva Anestesiologica, vol. 86: no. 11, pp. 1180-1189, Minerva Medica, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Innovation in der Profil Co-Extrusion",
+      "year": 2020,
+      "citation_raw": "Innovation in der Profil Co-Extrusion Manuel Biedermann, Mirko Meboldt, Silvan Walker and Daniel Schwendemann KunststoffXtra, vol. 2020: no. 11, pp. 18-20, Sigwerb GmbH, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Automated areas of interest analysis for usability studies of tangible screen-based user interfaces using mobile eye tracking",
+      "year": 2020,
+      "citation_raw": "Automated areas of interest analysis for usability studies of tangible screen-based user interfaces using mobile eye tracking Martin Batliner, Stephan Hess, C. Ehrlich-Adám, Quentin Lohmeyer and Mirko Meboldt Artificial intelligence for engineering design, analysis and manufacturing, vol. 34: no. 4, pp. 505-514, Cambridge University Press, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Continuous Heart Volume Monitoring by Fully Implantable Soft Strain Sensor",
+      "year": 2020,
+      "citation_raw": "Continuous Heart Volume Monitoring by Fully Implantable Soft Strain Sensor Seraina A. Dual, Byron Llerena Zambrano, Simon Sündermann, Nikola Cesarovic, Mareike Kron, Konstantinos Magkoutas, Julian Hengsteler, Volkmar Falk, Christoph Starck, Mirko Meboldt, János Vörös and Marianne Schmid Daners Advanced Healthcare Materials, vol. 9: no. 19, pp. 2000855, Wiley, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Control of Ventricular Unloading using an Electrocardiogram‐Synchronized Pulsatile Ventricular Assist Device under High Stroke Ratios",
+      "year": 2020,
+      "citation_raw": "Control of Ventricular Unloading using an Electrocardiogram‐Synchronized Pulsatile Ventricular Assist Device under High Stroke Ratios Konstantinos Magkoutas, Mathias Rebholz, Simon Sündermann, Alessio Alogna, Alessandro Faragli, Volkmar Falk, Mirko Meboldt and Marianne Schmid Daners Artificial Organs, vol. 44: no. 10, pp. E394-E405, Wiley, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Computational design synthesis of additive manufactured multi-flow nozzles",
+      "year": 2020,
+      "citation_raw": "Computational design synthesis of additive manufactured multi-flow nozzles Manuel Biedermann and Mirko Meboldt Additive Manufacturing, vol. 35, pp. 101231, Elsevier, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Flow irregularities from syringe infusion pumps caused by syringe stiction",
+      "year": 2020,
+      "citation_raw": "Flow irregularities from syringe infusion pumps caused by syringe stiction Neris Peduzzi, Martin Batliner, Beate Grass, Philipp K. Buehler, Marianne Schmid Daners, Mirko Meboldt and Markus Weiss Pediatric Anesthesia, vol. 30: no. 8, pp. 885-891, Wiley, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Model of surface roughness and material removal using abrasive flow machining of selective laser melted channels",
+      "year": 2020,
+      "citation_raw": "Model of surface roughness and material removal using abrasive flow machining of selective laser melted channels Julian Ferchow, Harry Baumgartner, Christoph Klahn and Mirko Meboldt Rapid Prototyping Journal, vol. 26: no. 7, pp. 1165-1176, Emerald, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Quantification of Avoidable Radiation Exposure in Interventional Fluoroscopy With Eye Tracking Technology",
+      "year": 2020,
+      "citation_raw": "Quantification of Avoidable Radiation Exposure in Interventional Fluoroscopy With Eye Tracking Technology Jan Michael Zimmermann, Luca Vicentini, David Van Story, Alberto Pozzoli, Maurizio Taramasso, Quentin Lohmeyer, Francesco Maisano and Mirko Meboldt Investigative Radiology, vol. 55: no. 7, pp. 457-462, Lippincott Williams & Wilkins, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Novel augmented physical simulator for the training of transcatheter cardiovascular interventions",
+      "year": 2020,
+      "citation_raw": "Novel augmented physical simulator for the training of transcatheter cardiovascular interventions Jan M. Zimmermann, Oliver J. Steffen, Luca Vicentini, Marianne Schmid Daners, Maurizio Taramasso, Francesco Maisano and Mirko Meboldt Catheterization and Cardiovascular Interventions, vol. 95: no. 6, pp. 1202-1209, Wiley, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Implementation of a design support tool for additive manufacturing using a feature database: an industrial case study",
+      "year": 2020,
+      "citation_raw": "Implementation of a design support tool for additive manufacturing using a feature database: an industrial case study Daniel Omidvarkarjan, Daniele Cipriano, Ralph Rosenbauer, Manuel Biedermann and Mirko Meboldt Progress in Additive Manufacturing, vol. 5: no. 1, pp. 67-73, Springer, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Improving design engineers’ performance through novelly structured design guidelines: a study in and with industry",
+      "year": 2020,
+      "citation_raw": "Improving design engineers’ performance through novelly structured design guidelines: a study in and with industry Benedikt Reimlinger, Quentin Lohmeyer, Ralf Moryson and Mirko Meboldt Forschung im Ingenieurwesen, vol. 84: no. 1, pp. 11-19, Springer, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Posture related in-vitro characterization of a flow regulated MEMS CSF valve",
+      "year": 2020,
+      "citation_raw": "Posture related in-vitro characterization of a flow regulated MEMS CSF valve Nikolaos Tachatos, Eric Chappel, Dimitry Dumont-Fillon, Mirko Meboldt and Marianne Schmid Daners Biomedical Microdevices, vol. 22: no. 1, pp. 21, Springer, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Wearable Inertial Measurement Units for Assessing Gait in Real-World Environments",
+      "year": 2020,
+      "citation_raw": "Wearable Inertial Measurement Units for Assessing Gait in Real-World Environments David Renggli, Christina Graf, Nikolaos Tachatos, Navrag Bhanupratap Singh, Mirko Meboldt, William R. Taylor, Lennart Stieglitz and Marianne Schmid Daners Frontiers in Physiology, vol. 11, pp. 90, Frontiers Media, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Performance comparison of prediction filters for respiratory motion tracking in radiotherapy",
+      "year": 2020,
+      "citation_raw": "Performance comparison of prediction filters for respiratory motion tracking in radiotherapy Alexander Jöhl, Stefanie Ehrbar, Matthias Guckenberger, Stephan Klöck, Mirko Meboldt, Melanie Zeilinger, Stephanie Tanadini-Lang and Marianne Schmid Daners Medical Physics, vol. 47: no. 2, pp. 643-650, Wiley, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Assessment of the Flow Field in the HeartMate 3 Using Three-Dimensional Particle Tracking Velocimetry and Comparison to Computational Fluid Dynamics",
+      "year": 2020,
+      "citation_raw": "Assessment of the Flow Field in the HeartMate 3 Using Three-Dimensional Particle Tracking Velocimetry and Comparison to Computational Fluid Dynamics Bente Thamsen, Utku Gülan, Lena Wiegmann, Christian Loosli, Marianne Schmid Daners, Vartan Kurtcuoglu, Markus Holzner and Mirko Meboldt ASAIO Journal, vol. 66: no. 2, pp. 173-182, Wolters Kluwer Health, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Performance of modern syringe infusion pump assemblies at low infusion rates in the perioperative setting",
+      "year": 2020,
+      "citation_raw": "Performance of modern syringe infusion pump assemblies at low infusion rates in the perioperative setting Martina Baeckert, Martin Batliner, Beate Grass, Philipp K. Buehler, Marianne Schmid Daners, Mirko Meboldt and Markus Weiss British Journal of Anaesthesia, vol. 124: no. 2, pp. 173-182, Elsevier, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Visual Behaviour Strategies of Operators during Catheter-Based Cardiovascular Interventions",
+      "year": 2020,
+      "citation_raw": "Visual Behaviour Strategies of Operators during Catheter-Based Cardiovascular Interventions Jan Zimmermann, Luca Vicentini, Quentin Lohmeyer, Maurizio Taramasso, Francesco Maisano and Mirko Meboldt Journal of Medical Systems, vol. 44: no. 1, pp. 12, Springer, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Value of Eye-Tracking Data for Classification of Information Processing–Intensive Handling Tasks: Quasi-Experimental Study on Cognition and User Interface Design",
+      "year": 2020,
+      "citation_raw": "Value of Eye-Tracking Data for Classification of Information Processing–Intensive Handling Tasks: Quasi-Experimental Study on Cognition and User Interface Design Stephan Wegner, Quentin Lohmeyer, Dimitri Wahlen, Sandra Neumann, Jean-Claude Groebli and Mirko Meboldt JMIR Human Factors, vol. 7: no. 2, pp. e15581, JMIR Publications, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Corporate makerspaces as innovation driver in companies: a literature review-based framework",
+      "year": 2020,
+      "citation_raw": "Corporate makerspaces as innovation driver in companies: a literature review-based framework Finn Rieken, Thomas Boehm, Mareike Heinzen and Mirko Meboldt Journal of Manufacturing Technology Management, vol. 31: no. 1, pp. 91-123, Emerald, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Non-invasive MRI quantification of cerebrospinal fluid dynamics in amyotrophic lateral sclerosis patients",
+      "year": 2020,
+      "citation_raw": "Non-invasive MRI quantification of cerebrospinal fluid dynamics in amyotrophic lateral sclerosis patients Lucas R. Sass, Mohammadreza Khani, Jacob Romm, Marianne Schmid Daners, Kyle McCain, Tavara Freeman, Gregory T. Carter, Douglas L. Weeks, Brian Petersen, Jason Aldred, Dena Wingett and Bryn A. Martin Fluids and Barriers of the CNS, vol. 17: no. 1, pp. 1-14, Springer, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Exploring how design guidelines benefit design engineers: an international and global perspective",
+      "year": 2020,
+      "citation_raw": "Exploring how design guidelines benefit design engineers: an international and global perspective Benedikt Reimlinger, Quentin Lohmeyer, Ralf Moryson and Mirko Meboldt Design Science, vol. 6, pp. e9, Cambridge University Press, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Bender – An Educational Game for Teaching Agile Hardware Development",
+      "year": 2020,
+      "citation_raw": "Bender – An Educational Game for Teaching Agile Hardware Development Daniel Omidvarkarjan, Jonas Conrad, Constantin Herbst, Christoph Klahn and Mirko Meboldt Procedia Manufacturing, vol. 45, pp. 313-318, Elsevier, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Short‐term physiological response to high‐frequency‐actuated pVAD support",
+      "year": 2019,
+      "citation_raw": "Short‐term physiological response to high‐frequency‐actuated pVAD support Mathias Rebholz, Seraina A. Dual, Martin Batliner, Mirko Meboldt and Marianne Schmid Daners Artificial Organs, vol. 43: no. 12, pp. 1170-1181, Wiley, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "High-frequency operation of pulsatile ventricular assist devices: A computational study on circular and elliptically shaped pumps",
+      "year": 2019,
+      "citation_raw": "High-frequency operation of pulsatile ventricular assist devices: A computational study on circular and elliptically shaped pumps Christian Loosli, Stephan Rupp, Bente Thamsen, Mathias Rebholz, Gerald Kress, Mirko Meboldt and Paolo Ermanni The International Journal of Artificial Organs, vol. 42: no. 12, pp. 725-734, SAGE, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Additive Fertigung mit Designautomatisierung",
+      "year": 2019,
+      "citation_raw": "Additive Fertigung mit Designautomatisierung Manuel Biedermann and Mirko Meboldt KunststoffXtra, vol. 2019: no. 12, pp. 9-12, Sigwerb GmbH, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Evaluating Patient Safety And Ease Of Use Of A Novel Connection-Assist Device For Peritoneal Dialysis",
+      "year": 2019,
+      "citation_raw": "Evaluating Patient Safety And Ease Of Use Of A Novel Connection-Assist Device For Peritoneal Dialysis Stephan Hess, Martin Dubach, Mirko Meboldt and Lukas Foggensteiner Patient Preference and Adherence, vol. 13, pp. 1785-1790, Dove Medical Press, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Individualized lightweight structures for biomedical applications using additive manufacturing and carbon fiber patched composites",
+      "year": 2019,
+      "citation_raw": "Individualized lightweight structures for biomedical applications using additive manufacturing and carbon fiber patched composites Ralph Kussmaul, Manuel Biedermann, Georgios A. Pappas, Jónas Grétar Jónasson, Peter Winiger, Markus Zogg, Daniel-Alexander Türk, Mirko Meboldt and Paolo Ermanni Design Science, vol. 5, pp. e20, Cambridge University Press, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "The ideal couch tracking system - Requirements and evaluation of current systems",
+      "year": 2019,
+      "citation_raw": "The ideal couch tracking system - Requirements and evaluation of current systems Alexander Jöhl, Stefanie Ehrbar, Matthias Guckenberger, Stephan Klöck, Andreas Mack, Mirko Meboldt, Melanie Zeilinger, Stephanie Tanadini-Lang and Marianne Schmid Daners Journal of Applied Clinical Medical Physics, vol. 20: no. 10, pp. 152-159, Wiley, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Fabrication of Bioengineered Skin by Injection Molding: A Feasibility Study on Automation",
+      "year": 2019,
+      "citation_raw": "Fabrication of Bioengineered Skin by Injection Molding: A Feasibility Study on Automation Stephan Fox, Jessica Polak, Marianne Schmid Daners and Mirko Meboldt SLAS Technology, vol. 24: no. 5, pp. 506-514, SAGE, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Correction to: Comparison of Flow Estimators for Rotary Blood Pumps: An In Vitro and In Vivo Study",
+      "year": 2019,
+      "citation_raw": "Correction to: Comparison of Flow Estimators for Rotary Blood Pumps: An In Vitro and In Vivo Study Anastasios Petrou, Daniel Kuster, Jongseok Lee, Mirko Meboldt and Marianne Schmid Daners Annals of Biomedical Engineering, vol. 47: no. 8, pp. 1827-1827, Springer, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A comparison of how novice and experienced design engineers benefit from design guidelines",
+      "year": 2019,
+      "citation_raw": "A comparison of how novice and experienced design engineers benefit from design guidelines Benedikt Reimlinger, Quentin Lohmeyer, Ralf Moryson and Mirko Meboldt Design Studies, vol. 63, pp. 204-223, Elsevier, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A versatile hybrid mock circulation for hydraulic investigations of active and passive cardiovascular implants",
+      "year": 2019,
+      "citation_raw": "A versatile hybrid mock circulation for hydraulic investigations of active and passive cardiovascular implants Anastasios Petrou, Marcus Granegger, Mirko Meboldt and Marianne Schmid Daners ASAIO Journal, vol. 65: no. 5, pp. 495-502, Wolters Kluwer Health, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Acute changes in preload and the QRS amplitude in advanced heart failure patients",
+      "year": 2019,
+      "citation_raw": "Acute changes in preload and the QRS amplitude in advanced heart failure patients Seraina A. Dual, Panagiotis Pergantis, Felix Schönrath, Julian Keznickl-Pulst, Volkmar Falk, Mirko Meboldt and Marianne Schmid Daners Biomedical Physics & Engineering Express, vol. 5: no. 4, pp. 045015, IOP Publishing, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Hydraulic characterization of implantable rotary blood pumps",
+      "year": 2019,
+      "citation_raw": "Hydraulic characterization of implantable rotary blood pumps Stefan Boës, Bente Thamsen, Mattia Haas, Marianne Schmid Daners, Mirko Meboldt and Marcus Granegger IEEE Transactions on Biomedical Engineering, vol. 66: no. 6, pp. 1618-1627, IEEE, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Rethinking automated skin fabrication for regeneration: adapting to commercial challenges",
+      "year": 2019,
+      "citation_raw": "Rethinking automated skin fabrication for regeneration: adapting to commercial challenges Stephan C. Fox, Dominik Siallagan, Marianne Schmid Daners and Mirko Meboldt Current Opinion in Biomedical Engineering, vol. 10, pp. 165-173, Elsevier, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Ultrasonic sensor concept to fit a ventricular assist device cannula evaluated using geometrically accurate heart phantoms",
+      "year": 2019,
+      "citation_raw": "Ultrasonic sensor concept to fit a ventricular assist device cannula evaluated using geometrically accurate heart phantoms Seraina A. Dual, Jan Zimmermann, Jürg Neuenschwander, Nicholas H. Cohrs, Natalia Solowjowa, Wendelin J. Stark, Mirko Meboldt and Marianne Schmid Daners Artificial Organs, vol. 43: no. 5, pp. 467-477, Wiley, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A simplified fabrication technique for cellularized high-collagen dermal equivalents",
+      "year": 2019,
+      "citation_raw": "A simplified fabrication technique for cellularized high-collagen dermal equivalents Stephan Cecil Fox, Thomas Biedermann, Jessica Polak, Ernst Reichmann, Marianne Schmid Daners and Mirko Meboldt Biomedical Materials, vol. 14: no. 4, pp. 041001, IOP Publishing, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Long-Term Performance of a Pneumatically Actuated Soft Pump Manufactured by Rubber Compression Molding",
+      "year": 2019,
+      "citation_raw": "Long-Term Performance of a Pneumatically Actuated Soft Pump Manufactured by Rubber Compression Molding A. Xavier Kohll, Nicholas H. Cohrs, Roland Walker, Anastasios Petrou, Michael Loepfe, Marianne Schmid Daners, Volkmar Falk, Mirko Meboldt and Wendelin J. Stark Soft Robotics, vol. 6: no. 2, pp. 206-213, Mary Ann Liebert, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Fluid dynamics in the HeartMate 3: Influence of the artificial pulse feature and residual cardiac pulsation",
+      "year": 2019,
+      "citation_raw": "Fluid dynamics in the HeartMate 3: Influence of the artificial pulse feature and residual cardiac pulsation Lena Wiegmann, Bente Thamsen, Diane De Zélicourt, Marcus Granegger, Stefan Boës, Marianne Schmid Daners, Mirko Meboldt and Vartan Kurtcuoglu Artificial Organs, vol. 43: no. 4, pp. 363-376, Wiley, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "The Effect of Preload Change on QRS Amplitude in Advanced Heart Failure Patients",
+      "year": 2019,
+      "citation_raw": "The Effect of Preload Change on QRS Amplitude in Advanced Heart Failure Patients Panagiotis Pergantis, Seraina A. Dual, Marianne Schmid Daners, Julian Keznickl-Pulst, Felix Schönrath and Volkmar Falk The Journal of Heart and Lung Transplantation, vol. 38: no. 4, pp. S378-S379, Elsevier, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Bioengineered Skin Intended for Skin Disease Modeling",
+      "year": 2019,
+      "citation_raw": "Bioengineered Skin Intended for Skin Disease Modeling Maria Sarkiri, Stephan Fox, Lidy E. Fratila-Apachitei and Amir A. Zadpoor International Journal of Molecular Sciences, vol. 20: no. 6, pp. 1407, MDPI, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Minimally invasive method for the point-of-care quantification of lymphatic vessel function",
+      "year": 2019,
+      "citation_raw": "Minimally invasive method for the point-of-care quantification of lymphatic vessel function Anna K. Polomska, Steven T. Proulx, Davide Brambilla, Daniel Fehr, Mathias Bonmarin, Simon Brändli, Mirko Meboldt, Christian Steuer, Tsvetina Vasileva, Nils Reinke, Jean-Christophe Leroux and Michael Detmar JCI Insight, vol. 4: no. 4, pp. e126515, American Society for Clinical Investigation, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "ELPHA: Dynamically deformable liver phantom for real-time motion-adaptive radiotherapy treatments",
+      "year": 2019,
+      "citation_raw": "ELPHA: Dynamically deformable liver phantom for real-time motion-adaptive radiotherapy treatments Stefanie Ehrbar, Alexander Jöhl, Michael Kühni, Mirko Meboldt, Ece Özkan Elsen, Christine Tanner, Orcun Goksel, Stephan Klöck, Jan Unkelbach, Matthias Guckenberger and Stephanie Tanadini-Lang Medical Physics, vol. 46: no. 2, pp. 839-850, Wiley, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Value-driven clustering of industrial additive manufacturing applications",
+      "year": 2019,
+      "citation_raw": "Value-driven clustering of industrial additive manufacturing applications Filippo Fontana, Christoph Klahn and Mirko Meboldt Journal of Manufacturing Technology Management, vol. 30: no. 2, pp. 366-390, Emerald, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Body motion during dynamic couch tracking with healthy volunteers",
+      "year": 2019,
+      "citation_raw": "Body motion during dynamic couch tracking with healthy volunteers Alexander Jöhl, Marta Bogowicz, Stefanie Ehrbar, Matthias Guckenberger, Stephan Klöck, Mirko Meboldt, Oliver Riesterer, Melanie Zeilinger, Marianne Schmid Daners and Stephanie Tanadini-Lang Physics in Medicine and Biology, vol. 64: no. 1, pp. 015001, IOP Publishing, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Toward a new age of patient centricity? The application of eye-tracking to the development of connected self-injection systems",
+      "year": 2019,
+      "citation_raw": "Toward a new age of patient centricity? The application of eye-tracking to the development of connected self-injection systems Quentin Lohmeyer, Andreas Schneider, Christoph Jordi, Jakob Lange and Mirko Meboldt Expert opinion on drug delivery, vol. 16: no. 2, pp. 163-175, Taylor & Francis, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Design and manufacture of hybrid metal composite structures using functional tooling made by additive manufacturing",
+      "year": 2019,
+      "citation_raw": "Design and manufacture of hybrid metal composite structures using functional tooling made by additive manufacturing Daniel-Alexander Türk, Fabian Rüegg, Manuel Biedermann and Mirko Meboldt Design Science, vol. 5, pp. e16, Cambridge University Press, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Comparison of Flow Estimators for Rotary Blood Pumps: An In Vitro and In Vivo Study",
+      "year": 2018,
+      "citation_raw": "Comparison of Flow Estimators for Rotary Blood Pumps: An In Vitro and In Vivo Study Anastasios Petrou, Daniel Kuster, Jongseok Lee, Mirko Meboldt and Marianne Schmid Daners Annals of Biomedical Engineering, vol. 46: no. 12, pp. 2123-2134, Springer, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Viscosity prediction in a physiologically controlled ventricular assist device",
+      "year": 2018,
+      "citation_raw": "Viscosity prediction in a physiologically controlled ventricular assist device Anastasios Petrou, Menelaos Kanakis, Stefan Boës, Panagiotis Pergantis, Mirko Meboldt and Marianne Schmid Daners IEEE Transactions on Biomedical Engineering, vol. 65: no. 10, pp. 2355-2364, IEEE, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Additive manufacturing of structural cores and washout tooling for autoclave curing of hybrid composite structures",
+      "year": 2018,
+      "citation_raw": "Additive manufacturing of structural cores and washout tooling for autoclave curing of hybrid composite structures Daniel-Alexander Türk, Andreas Ebnöther, Markus Zogg and Mirko Meboldt Journal of Manufacturing Science and Engineering, vol. 140: no. 10, pp. 105001, American Society of Mechanical Engineers, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Improving Usage Metrics for Pay-per-Use Pricing with IoT Technology and Machine Learning",
+      "year": 2018,
+      "citation_raw": "Improving Usage Metrics for Pay-per-Use Pricing with IoT Technology and Machine Learning Timon B. Heinis, Christoph L. Loy and Mirko Meboldt Research-Technology Management, vol. 61: no. 5, pp. 32-40, Taylor & Francis, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Empirical study on innovation motivators and inhibitors of Internet of Things applications for industrial manufacturing enterprises",
+      "year": 2018,
+      "citation_raw": "Empirical study on innovation motivators and inhibitors of Internet of Things applications for industrial manufacturing enterprises Timon B. Heinis, Jan Hilario and Mirko Meboldt Journal of Innovation and Entrepreneurship, vol. 7, pp. 10, Springer, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "3D Printing of Functional Assemblies with Integrated Polymer-Bonded Magnets Demonstrated with a Prototype of a Rotary Blood Pump",
+      "year": 2018,
+      "citation_raw": "3D Printing of Functional Assemblies with Integrated Polymer-Bonded Magnets Demonstrated with a Prototype of a Rotary Blood Pump Kai Von Petersdorff-Campen, Yannick Hauswirth, Julia Carpenter, Andreas Hagmann, Stefan Boës, Marianne Schmid Daners, Dirk Penner and Mirko Meboldt Applied Sciences, vol. 8: no. 8, pp. 1275, MDPI, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "ConVes - the sutureless aortic graft anastomotic device",
+      "year": 2018,
+      "citation_raw": "ConVes - the sutureless aortic graft anastomotic device Seraina A. Dual, Alissa Muller, Stefan Boës, Oliver Brinkmann, Séline Steffanoni, Volkmar Falk, Mirko Meboldt, Marianne Schmid Daners and Simon Sündermann The Annals of Thoracic Surgery, vol. 105: no. 5, pp. 1558-1562, Elsevier, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Cavopulmonary mechanical circulatory support in Fontan patients and the need for physiologic control: A computational study with a closed-loop exercise model",
+      "year": 2018,
+      "citation_raw": "Cavopulmonary mechanical circulatory support in Fontan patients and the need for physiologic control: A computational study with a closed-loop exercise model Marcus Granegger, Martin Schweiger, Marianne Schmid Daners, Mirko Meboldt and Michael Hübler The International Journal of Artificial Organs, vol. 41: no. 5, pp. 261-268, SAGE, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Investigation of the axial gap clearance in a hydrodynamically and passive magnetically levitated rotary blood pump using X-ray radiography",
+      "year": 2018,
+      "citation_raw": "Investigation of the axial gap clearance in a hydrodynamically and passive magnetically levitated rotary blood pump using X-ray radiography Bente Thamsen, Mathieu Plamondon, Marcus Granegger, Marianne Schmid Daners, Rolf Kaufmann, Antonia Neels and Mirko Meboldt Artificial Organs, vol. 42: no. 5, pp. 510-515, Wiley, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Design and manufacturing of high-performance prostheses with additive manufacturing and fiber-reinforced polymers",
+      "year": 2018,
+      "citation_raw": "Design and manufacturing of high-performance prostheses with additive manufacturing and fiber-reinforced polymers Daniel-Alexander Türk, Halldór Einarsson, Christophe Lecomte and Mirko Meboldt Production Engineering - Research and Development, vol. 12: no. 2, pp. 203-213, Springer, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Virtual surgical planning, flow simulation and 3D electro-spinning of patient-specific grafts to optimize Fontan hemodynamics",
+      "year": 2018,
+      "citation_raw": "Virtual surgical planning, flow simulation and 3D electro-spinning of patient-specific grafts to optimize Fontan hemodynamics Dominik Siallagan, Yue-Hin Loke, Laura Olivieri, Justin Opfermann, Chin Siang Ong, Diane de Zélicourt, Anastasios Petrou, Marianne Schmid Daners, Vartan Kurtcuoglu, Mirko Meboldt, Kevin Nelson, Luca Vricella, Jed Johnson, Narutoshi Hibino and Axel Krieger The Journal of Thoracic and Cardiovascular Surgery, vol. 155: no. 4, pp. 1734-1742, Mosby, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Standardized comparison of selected physiological controllers for rotary blood pumps: In-vitro study",
+      "year": 2018,
+      "citation_raw": "Standardized comparison of selected physiological controllers for rotary blood pumps: In-vitro study Anastasios Petrou, Jongseok Lee, Seraina A. Dual, Gregor Ochsner, Mirko Meboldt and Marianne Schmid Daners Artificial Organs, vol. 42: no. 3, pp. E29-E42, Wiley-Blackwell, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Blood Pump Design Variations and Their Influence on Hydraulic Performance and Indicators of Hemocompatibility",
+      "year": 2018,
+      "citation_raw": "Blood Pump Design Variations and Their Influence on Hydraulic Performance and Indicators of Hemocompatibility L. Wiegmann, Stefan Boës, Diane de Zélicourt, Bente Thamsen, Marianne Schmid Daners, Mirko Meboldt and V. Kurtcuoglu Annals of Biomedical Engineering, vol. 46: no. 3, pp. 417-428, Springer, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Mobile Eye Tracking in Engineering Design Education",
+      "year": 2018,
+      "citation_raw": "Mobile Eye Tracking in Engineering Design Education Stephan Hess, Quentin Lohmeyer and Mirko Meboldt Design and Technology Education, vol. 23: no. 2, pp. 86-98, The Design and Technology Association, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Control of the fluid viscosity in a mock circulation",
+      "year": 2018,
+      "citation_raw": "Control of the fluid viscosity in a mock circulation Stefan Boës, Gregor Ochsner, Raffael Amacher, Anastasios Petrou, Mirko Meboldt and Marianne Schmid Daners Artificial Organs, vol. 42: no. 1, pp. 68-77, Wiley-Blackwell, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Automating areas of interest analysis in mobile eye tracking experiments based on machine learning",
+      "year": 2018,
+      "citation_raw": "Automating areas of interest analysis in mobile eye tracking experiments based on machine learning Julian Wolf, Stephan Hess, David Bachmann, Quentin Lohmeyer and Mirko Meboldt Journal of Eye Movement Research, vol. 11: no. 6, pp. 6, Bern Open Publishing, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Promoting user-centricity in short-term ideation workshops",
+      "year": 2018,
+      "citation_raw": "Promoting user-centricity in short-term ideation workshops Johannes Heck, Florian Rittiner, Mirko Meboldt and Martin Steinert International Journal of Design Creativity and Innovation, vol. 6: no. 3-4, pp. 130-145, Inderscience, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Comparison of multi-leaf collimator tracking and treatment-couch tracking during stereotactic body radiation therapy of prostate cancer",
+      "year": 2017,
+      "citation_raw": "Comparison of multi-leaf collimator tracking and treatment-couch tracking during stereotactic body radiation therapy of prostate cancer Stefanie Ehrbar, Simon Schmid, Alexander Jöhl, Stephan Klöck, Matthias Guckenberger, Oliver Riesterer and Stephanie Tanadini-Lang Radiotherapy & Oncology, vol. 125: no. 3, pp. 445-452, Elsevier, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A Novel Multi-objective Physiological Control System for Rotary Left Ventricular Assist Devices",
+      "year": 2017,
+      "citation_raw": "A Novel Multi-objective Physiological Control System for Rotary Left Ventricular Assist Devices Anastasios Petrou, Marcial Monn, Mirko Meboldt and Marianne Schmid Daners Annals of Biomedical Engineering, vol. 45: no. 12, pp. 2899-2910, Springer, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Unconscious physiological response of healthy volunteers to dynamic respiration-synchronized couch motion",
+      "year": 2017,
+      "citation_raw": "Unconscious physiological response of healthy volunteers to dynamic respiration-synchronized couch motion Alexander Jöhl, Marta Bogowicz, Stefanie Ehrbar, Matthias Guckenberger, Stephan Klöck, Mirko Meboldt, Oliver Riesterer, Melanie Zeilinger, Marianne Schmid Daners and Stephanie Tanadini-Lang Radiation Oncology, vol. 12, pp. 189, BioMed Central, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Automated interpretation of eye–hand coordination in mobile eyet racking recordings",
+      "year": 2017,
+      "citation_raw": "Automated interpretation of eye–hand coordination in mobile eyet racking recordings Moritz Mussgnug, Daniel Singer, Quentin Lohmeyer and Mirko Meboldt Künstliche Intelligenz, vol. 31: no. 4, pp. 331-337, Springer, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A Soft Total Artificial Heart - First Concept Evaluation on a Hybrid Mock Circulation",
+      "year": 2017,
+      "citation_raw": "A Soft Total Artificial Heart - First Concept Evaluation on a Hybrid Mock Circulation Nicholas H. Cohrs, Anastasios Petrou, Michael Loepfe, Maria Yliruka, Christoph M. Schumacher, A. Xavier Kohll, Christoph T. Starck, Marianne Schmid Daners, Mirko Meboldt, Volkmar Falk and Wendelin J. Stark Artificial Organs, vol. 41: no. 10, pp. 948-958, Wiley-Blackwell, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Benchmark of the Compactness Potential of Adjustable Stiffness Mechanisms",
+      "year": 2017,
+      "citation_raw": "Benchmark of the Compactness Potential of Adjustable Stiffness Mechanisms Marius Stücheli, Marianne Schmid Daners and Mirko Meboldt Journal of Mechanisms and Robotics, vol. 9: no. 5, pp. 051009, American Society of Mechanical Engineers, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "In Vivo Evaluation of Physiologic Control Algorithms for Left Ventricular Assist Devices Based on Left Ventricular Volume or Pressure",
+      "year": 2017,
+      "citation_raw": "In Vivo Evaluation of Physiologic Control Algorithms for Left Ventricular Assist Devices Based on Left Ventricular Volume or Pressure Gregor Ochsner, Markus J. Wilhelm, Raffael Amacher, Anastasios Petrou, Nikola Cesarovic, Silvan Staufert, Barbara Röhrnbauer, Francesco Maisano, Christofer Hierold, Mirko Meboldt and Marianne Schmid Daners ASAIO Journal, vol. 63: no. 5, pp. 568-577, Wolters Kluwer Health, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Comparison of anti-siphon devices - How do they affect CSF dynamics in supine and upright posture?",
+      "year": 2017,
+      "citation_raw": "Comparison of anti-siphon devices - How do they affect CSF dynamics in supine and upright posture? Manuel Gehlen, Anders Eklund, Vartan Kurtcuoglu, Jan Malm and Marianne Schmid Daners Acta Neurochirurgica, vol. 159: no. 8, pp. 1389-1397, Springer, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Left Ventricular Assist Devices: Challenges Toward Sustaining Long-Term Patient Care",
+      "year": 2017,
+      "citation_raw": "Left Ventricular Assist Devices: Challenges Toward Sustaining Long-Term Patient Care Marianne Schmid Daners, Friedrich Kaufmann, Raffael Amacher, Gregor Ochsner, Markus J. Wilhelm, Aldo Ferrari, Edoardo Mazza, Dimos Poulikakos, Mirko Meboldt and Volkmar Falk Annals of Biomedical Engineering, vol. 45: no. 8, pp. 1836-1851, Springer, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "ITV, mid-ventilation, gating or couch tracking – A comparison of respiratory motion-management techniques based on 4D dose calculations",
+      "year": 2017,
+      "citation_raw": "ITV, mid-ventilation, gating or couch tracking – A comparison of respiratory motion-management techniques based on 4D dose calculations Stefanie Ehrbar, Alexander Jöhl, Adrianna Tartas, Luisa S. Stark, Oliver Riesterer, Stephan Klöck, Matthias Guckenberger and Stephanie Tanadini-Lang Radiotherapy & Oncology, vol. 124: no. 1, pp. 80-88, Elsevier, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Validation of dynamic treatment-couch tracking for prostate SBRT",
+      "year": 2017,
+      "citation_raw": "Validation of dynamic treatment-couch tracking for prostate SBRT Stefanie Ehrbar, Simon Schmid, Alexander Jöhl, Stephan Klöck, Matthias Guckenberger, Oliver Riesterer and Stephanie Tanadini-Lang Medical Physics, vol. 44: no. 6, pp. 2466-2477, Wiley, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A Novel Mean-Value Model of the Cardiovascular System Including a Left Ventricular Assist Device",
+      "year": 2017,
+      "citation_raw": "A Novel Mean-Value Model of the Cardiovascular System Including a Left Ventricular Assist Device Gregor Ochsner, Raffael Amacher and Marianne Schmid Daners Cardiovascular Engineering and Technology, vol. 8: no. 2, pp. 120-130, Springer, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Mechanical characterization of 3D printed polymers for fiber reinforced polymers processing",
+      "year": 2017,
+      "citation_raw": "Mechanical characterization of 3D printed polymers for fiber reinforced polymers processing Daniel Türk, Franco Brenni, Markus Zogg and Mirko Meboldt Materials & Design, vol. 118, pp. 256-265, Elsevier, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Is posture‐related craniospinal compliance shift caused by jugular vein collapse? - A theoretical analysis",
+      "year": 2017,
+      "citation_raw": "Is posture‐related craniospinal compliance shift caused by jugular vein collapse? - A theoretical analysis Manuel Gehlen, Vartan Kurtcuoglu and Marianne Schmid Daners Fluids and Barriers of the CNS, vol. 14: no. 1, pp. 5, BioMed Central, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Performance behavior of prediction filters for respiratory motion compensation in radiotherapy",
+      "year": 2017,
+      "citation_raw": "Performance behavior of prediction filters for respiratory motion compensation in radiotherapy Alexander Jöhl, Yannick Berdou, Matthias Guckenberger, Stephan Klöck, Mirko Meboldt, Melanie Zeilinger, Stephanie Tanadini-Lang and Marianne Schmid Daners Current Directions in Biomedical Engineering, vol. 3: no. 2, pp. 429-432, De Gruyter, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Response of a Physiological Controller for Ventricular Assist Devices during Acute Pathophysiological Events: An in vitro study",
+      "year": 2017,
+      "citation_raw": "Response of a Physiological Controller for Ventricular Assist Devices during Acute Pathophysiological Events: An in vitro study Anastasios Petrou, Panagiotis Pergantis, Gregor Ochsner, Raffael Amacher, Thomas Krabatsch, Volkmar Falk, Mirko Meboldt and Marianne Schmid Daners Biomedical Engineering / Biomedizinische Technik, vol. 62: no. 6, pp. 623-633, De Gruyter, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "A Physiological Controller for Turbodynamic Ventricular Assist Devices Based on Systolic Left Ventricular Pressure",
+      "year": 2016,
+      "citation_raw": "A Physiological Controller for Turbodynamic Ventricular Assist Devices Based on Systolic Left Ventricular Pressure Anastasios Petrou, Gregor Ochsner, Raffael Amacher, Panagiotis Pergantis, Mathias Rebholz, Mirko Meboldt and Marianne Schmid Daners Artificial Organs, vol. 40: no. 9, pp. 842-855, Wiley-Blackwell, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Additive Manufacturing with Composites for Integrated Aircraft Structures",
+      "year": 2016,
+      "citation_raw": "Additive Manufacturing with Composites for Integrated Aircraft Structures Daniel Türk, Ralph Kussmaul, Markus Zogg, Christoph Klahn, Adriaan B. Spierings, Holger Könen, Paolo Ermanni and Mirko Meboldt Journal of Advanced Materials, vol. 3, pp. 55-69, Society for the Advancement of Material and Process Engineering, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Current Challenges in Product Development Processes of Swiss SMEs",
+      "year": 2016,
+      "citation_raw": "Current Challenges in Product Development Processes of Swiss SMEs Johannes Heck and Mirko Meboldt International Journal of Innovation Management, vol. 20: no. 5, pp. 1640009, World Scientific, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "High-frequency operation of a pulsatile VAD – a simulation study",
+      "year": 2016,
+      "citation_raw": "High-frequency operation of a pulsatile VAD – a simulation study Mathias Rebholz, Raffael Amacher, Anastasios Petrou, Mirko Meboldt and Marianne Schmid Daners Biomedical Engineering / Biomedizinische Technik, vol. 62: no. 2, pp. 161-170, De Gruyter, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Blood damage in ventricular assist devices",
+      "year": 2016,
+      "citation_raw": "Blood damage in ventricular assist devices Bente Thamsen, Marcus Granegger and Ulrich Kertzscher The International Journal of Artificial Organs, vol. 39: no. 4, pp. 147-149, Wichtig, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Modeling and Performance Evaluation of a Robotic Treatment Couch for Tumor Tracking",
+      "year": 2016,
+      "citation_raw": "Modeling and Performance Evaluation of a Robotic Treatment Couch for Tumor Tracking Alexander Jöhl, Stephanie Lang, Stefanie Ehrbar, Matthias Guckenberger, Stephan Klöck, Mirko Meboldt and Marianne Schmid Daners Biomedical Engineering / Biomedizinische Technik, vol. 61: no. 5, pp. 557-566, De Gruyter, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Patient Specific Hardware-in-the-Loop Testing of Cerebrospinal Fluid Shunt Systems",
+      "year": 2016,
+      "citation_raw": "Patient Specific Hardware-in-the-Loop Testing of Cerebrospinal Fluid Shunt Systems Manuel Gehlen, Vartan Kurtcuoglu and Marianne Schmid Daners IEEE Transactions on Biomedical Engineering, vol. 63: no. 2, pp. 348-358, IEEE, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Continuous positive airway pressure alters cranial blood flow and cerebrospinal fluid dynamics at the craniovertebral junction",
+      "year": 2015,
+      "citation_raw": "Continuous positive airway pressure alters cranial blood flow and cerebrospinal fluid dynamics at the craniovertebral junction Theresia I. Yiallourou, Marianne Schmid Daners, Vartan Kurtcuoglu, José Haba-Rubio, Raphael Heinzer, Eleonora Fornani, Francesco Santini, Daniel B. Sheffer, Nikolaos Stergiopulos and Bryn A. Martin Interdisciplinary Neurosurgery, vol. 2: no. 3, pp. 152-159, Elsevier, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Innovative Fahrzeugkonzepte für Shanghais letzte Meile",
+      "year": 2015,
+      "citation_raw": "Innovative Fahrzeugkonzepte für Shanghais letzte Meile Andreas Hofer, Erhard Esl, Daniel Türk and Hüttinger Veronika ATZ - Automobiltechnische Zeitschrift, vol. 117: no. 06, pp. 76-81, Springer Automotive Media, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Produktentwicklung mit digitalisierten Technologien: Wertschöpfung durch 3D-gedruckte Serienbauteile im Maschinenbau",
+      "year": 2015,
+      "citation_raw": "Produktentwicklung mit digitalisierten Technologien: Wertschöpfung durch 3D-gedruckte Serienbauteile im Maschinenbau Mirko Meboldt and Christoph Klahn IM und IO, vol. 2015: no. 1, pp. 83-89, IMC, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/journal-articles.html"
+    },
+    {
+      "title": "Evaluating design automation from user input to production - insights from the bike connector tool",
+      "year": 2026,
+      "citation_raw": "Evaluating design automation from user input to production - insights from the bike connector tool Julian Bürkli, Simon Ritter, Patrick Beutler, Urs Christoph Hofmann, Gaspare Stocker, Julian Ferchow and Mirko Meboldt 19th International Design Conference (DESIGN 2026), Cavat, Croatia, pp.497-506,: Cambridge University Press, May 18-21, 2026.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "No-code computer vision model personalization for the recognition of manual assembly tasks",
+      "year": 2025,
+      "citation_raw": "No-code computer vision model personalization for the recognition of manual assembly tasks Jonas Conrad, David Filiberti, Julian Ferchow and Mirko Meboldt 58th CIRP Conference on Manufacturing Systems (CIRP CMD 2025), Enschede, Netherlands, pp.31-36, Amsterdam: Elsevier, April 13-15, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Multi4D: High-Fidelity Dynamic Gaussian Splatting via Multi-Level Competitive Allocation",
+      "year": 2026,
+      "citation_raw": "Multi4D: High-Fidelity Dynamic Gaussian Splatting via Multi-Level Competitive Allocation Rui Wang, Quentin Lohmeyer, Siyu Tang and Mirko Meboldt 19th European Conference on Computer Vision (ECCV 2026), Malmö, Sweden, pp.502-519, Cham: Springer, September 8-12, 2026.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "A Torque Sensor using 3D Printed Conductive TPU",
+      "year": 2026,
+      "citation_raw": "A Torque Sensor using 3D Printed Conductive TPU Tom Stein, Marc Schärer and Mirko Meboldt Eurosensors 2026, Zurich, Switzerland, pp.144-145, Wunstorf: AMA Service GmbH, September 6-9, 2026.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Automated Integration of Surgical Implants Into Digital Twins for Trauma Surgery",
+      "year": 2025,
+      "citation_raw": "Automated Integration of Surgical Implants Into Digital Twins for Trauma Surgery Tobias Stauffer, Manuel Reber, Léon Fellmann, Reto Babst, Mirko Meboldt and Quentin Lohmeyer 28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025), Daejeon, Korea, pp.55-64, Cham: Springer, September 23-27, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "6D Object Pose Tracking for Orthopedic Surgical Training Using Visual-Inertial Sensor Fusion",
+      "year": 2025,
+      "citation_raw": "6D Object Pose Tracking for Orthopedic Surgical Training Using Visual-Inertial Sensor Fusion Maarten Hogenkamp, Tobias Stauffer, Quentin Lohmeyer and Mirko Meboldt 28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025), Daejeon, Korea, pp.13-23, Cham: Springer, September 23-27, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "From text to design: a framework to leverage LLM agents for automated CAD generation",
+      "year": 2025,
+      "citation_raw": "From text to design: a framework to leverage LLM agents for automated CAD generation Aurel Schüpbach, Raul San Miguel, Julian Ferchow and Mirko Meboldt 25th International Conference on Engineering Design (ICED 2025), Dallas, TX, USA, pp.1893-1902, Cambridge: Cambridge University Press, August 11-14, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Safe Active Learning of Cerebrospinal Fluid Dynamics",
+      "year": 2025,
+      "citation_raw": "Safe Active Learning of Cerebrospinal Fluid Dynamics Fabian Flürenbrock, Johannes Köhler, Marianne Schmid Daners and Melanie N. Zeilinger NeurIPS 2025 Workshop on Learning from Time Series for Health (TS4H NeurIPS 2025), San Diego, CA, USA s.l.: OpenReview, December 6, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction",
+      "year": 2025,
+      "citation_raw": "DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction Rui Wang, Quentin Lohmeyer, Mirko Meboldt and Siyu Tang 20th IEEE/CVF International Conference on Computer Vision (ICCV 2025), Honolulu, HI, USA, pp.6294-6303, Piscataway, NJ: IEEE, October 19-23, 2025.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Deep learning-based error recognition in manual cable assembly using synthetic training data",
+      "year": 2024,
+      "citation_raw": "Deep learning-based error recognition in manual cable assembly using synthetic training data Jonas Conrad, Tobias Stauffer, Xuanting Meng, Julian Ferchow and Mirko Meboldt 34th CIRP Design Conference, Cranfield, United Kingdom, pp.239-244, Amsterdam: Elsevier, June 3-5, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Evaluation of the Ultra-High Vacuum Suitability of Laser Powder Bed Fusion Manufactured Stainless Steel 316L",
+      "year": 2023,
+      "citation_raw": "Evaluation of the Ultra-High Vacuum Suitability of Laser Powder Bed Fusion Manufactured Stainless Steel 316L Pascal Romanescu, Daniel Omidvarkarjan, Julian Ferchow and Mirko Meboldt 3rd International Conference on Additive Manufacturing in Products and Applications (AMPA 2023), Lucerne, Switzerland, pp.407-422, Cham: Springer, September 12-14, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Navigating the Unknown: Introduction of an Analysis Metric for the Sprint Plan and Sprint Review in Educational Agile Development Projects",
+      "year": 2024,
+      "citation_raw": "Navigating the Unknown: Introduction of an Analysis Metric for the Sprint Plan and Sprint Review in Educational Agile Development Projects Mark O. Zander and Mirko Meboldt 52nd Annual Conference of the European Society for Engineering Education (SEFI 2024), Lausanne, Switzerland Geneva: Zenodo, September 2-5, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "3rd International Conference on Additive Manufacturing in Products and Applications (AMPA 2023)",
+      "year": 2023,
+      "citation_raw": "external page: Research Collection 3rd International Conference on Additive Manufacturing in Products and Applications (AMPA 2023)",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": null,
+      "year": 2024,
+      "citation_raw": "Klahn, Christoph, Meboldt, Mirko and Ferchow, Julian (Eds.) Cham: Springer, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "MiBOT: A head-worn robot that modulates cardiovascular responses through human-like soft massage",
+      "year": 2024,
+      "citation_raw": "MiBOT: A head-worn robot that modulates cardiovascular responses through human-like soft massage Alice Mylaeus, Stephanie Vogt, Berken Utku Demirel, Marcel Gort, Mirko Meboldt, Manuel Meier and Christian Holz 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Yokohama, Japan, pp.13023-13029, Piscataway, NJ: IEEE, May 13-17, 20224.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Enhanced Design Automation for Hydraulic Manifolds Produced Using Additive Manufacturing",
+      "year": 2024,
+      "citation_raw": "Enhanced Design Automation for Hydraulic Manifolds Produced Using Additive Manufacturing Patrick Beutler, Max Berger, Julian Ferchow and Mirko Meboldt 34th CIRP Design Conference, Cranfield, United Kingdom, pp.162-167, Amsterdam: Elsevier, June 3-5, 2024.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Towards a New Generation of User Support System in Maintenance Operation (IARMO)",
+      "year": 2023,
+      "citation_raw": "Towards a New Generation of User Support System in Maintenance Operation (IARMO) Julian Wolf, Sophokles Ktistakis and Mirko Meboldt Poster presented at the Center for Sustainable Future Mobility Symposium 2023 (CSFM 2023), Zurich, Switzerland, June 6, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Augmented reality: Towards a new generation of user support system in maintenance operation (IARMO)",
+      "year": 2023,
+      "citation_raw": "Augmented reality: Towards a new generation of user support system in maintenance operation (IARMO) Julian Wolf CSFM Symposium 2023, Zurich, Switzerland Zurich: ETH Zurich, Center for Sustainable Future Mobility, June 6, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Miniature Extravascular Aortic Sensor for Continuous Blood Pressure Measurement: In-vivo Validation Under Pathological Conditions",
+      "year": 2023,
+      "citation_raw": "Miniature Extravascular Aortic Sensor for Continuous Blood Pressure Measurement: In-vivo Validation Under Pathological Conditions Konstantinos Magkoutas, Miriam Weisskopf, Volkmar Falk, Maximilian Emmert, Mirko Meboldt, Nikola Cesarovic and Marianne Schmid Daners ASAIO 68th Annual Conference, San Francisco, CA, USA, pp.1-2, Hagerstown, MD: Wolters Kluwer Health, June 14-17, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Comparison of Cardiovascular Models for Validation of Controlled Ventricular Assist Devices",
+      "year": 2023,
+      "citation_raw": "Comparison of Cardiovascular Models for Validation of Controlled Ventricular Assist Devices Thomas Gwosch, Konstantinos Magkoutas and Marianne Schmid Daners ASAIO 68th Annual Conference, San Francisco, CA, USA, pp.155-155, Hagerstown, MD: Wolters Kluwer Health, June 14-17, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Gaze is more than just a point: Rethinking visual attention analysis using peripheral vision-based gaze mapping",
+      "year": 2023,
+      "citation_raw": "Gaze is more than just a point: Rethinking visual attention analysis using peripheral vision-based gaze mapping Felix Wang, Quentin Lohmeyer, Andrew Duchowski and Mirko Meboldt 15th Annual ACM Symposium on Eye Tracking Research and Applications (ETRA 2023), Tübingen, Germany, pp.66 New York, NY: Association for Computing Machinery, May 30 - June 2, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Towards an automated identification of typical walking patterns in NPH patients using wearable sensors",
+      "year": 2022,
+      "citation_raw": "Towards an automated identification of typical walking patterns in NPH patients using wearable sensors Lennart Henning Stieglitz, Sandra Dias, Christina Graf, Elisabeth Jehli, Markus Florian Oertel, Julia Mahler and Marianne Schmid Daners 14th Meeting of the Hydrocephalus Society (Hydrocephalus 2022), Gothenburg, Sweden, pp.104 London: BioMed Central, September 9-12, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Finite state machine for position dependent hydrocephalus shunt therapy",
+      "year": 2022,
+      "citation_raw": "Finite state machine for position dependent hydrocephalus shunt therapy David Iselin, Joris Chomarat, Caroline Holzer, Janina Hug, Tiago Hungerland, Luca Krebs, Rosina Weiss, Fabian Flürenbrock, Leonie Korn, Anthony Podgoršak, Dominik Schulte, Nikolaos Tachatos, Markus Florian Oertel, Lennart Stieglitz, Mirko Meboldt, Melanie Zeilinger and Marianne Schmid Daners 14th Meeting of the Hydrocephalus Society (Hydrocephalus 2022), Gothenburg, Sweden, pp.104 London: BioMed Central, September 9-12, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "POV-Surgery: A Dataset for Egocentric Hand and Tool Pose Estimation During Surgical Activities",
+      "year": 2023,
+      "citation_raw": "POV-Surgery: A Dataset for Egocentric Hand and Tool Pose Estimation During Surgical Activities Rui Wang, Sophokles Ktistakis, Siwei Zhang, Mirko Meboldt and Quentin Lohmeyer 26th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023), Vancouver, Canada, pp.440-450, Cham: Springer, October 8-12, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Semi-Automated Design Workflow for Bolt Clamping Interfaces to Post-Process Additive Manufactured Parts",
+      "year": 2023,
+      "citation_raw": "Semi-Automated Design Workflow for Bolt Clamping Interfaces to Post-Process Additive Manufactured Parts Patrick Beutler, Julian Ferchow, Marcel Schlüssel and Mirko Meboldt 33rd CIRP Design Conference, Sydney, Australia, pp.596-601, Amsterdam: Elsevier, May 17-19, 2023.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "CARD9: Cardiac Contractility Estimation Based on Left Ventricular Pressure: Comparison of Time Series Classifiers and Graph-based Neural Networks",
+      "year": 2022,
+      "citation_raw": "CARD9: Cardiac Contractility Estimation Based on Left Ventricular Pressure: Comparison of Time Series Classifiers and Graph-based Neural Networks Konstantinos Magkoutas, Felix Wang, Oliver Forster, Mirko Meboldt and Marianne Schmid Daners 67th Annual Conference of the American Society for Artificial Internal Organs (ASAIO 2022), Chicago, IL, USA, pp.48-48, Hagerstown, MD: Wolters Kluwer Health, June 8-11, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "P65: Dual-modality Volume Estimation And Its Impact On A Preload-Sensitive Controller",
+      "year": 2022,
+      "citation_raw": "P65: Dual-modality Volume Estimation And Its Impact On A Preload-Sensitive Controller Leonie Korn, Steffen Leonhardt, Melanie Zeilinger, Marianne Schmid Daners and Seraina A. Dual 67th Annual Conference of the American Society for Artificial Internal Organs (ASAIO 2022), Chicago, IL, USA, pp.130-130, Hagerstown, MD: Wolters Kluwer Health, June 8-11, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "BIO8: Cannula Add-On For Pressure And Flow Measurement In VADs",
+      "year": 2022,
+      "citation_raw": "BIO8: Cannula Add-On For Pressure And Flow Measurement In VADs Kai von Petersdorff-Campen, Matthias A. Dupuch, Konstantinos Magkoutas, Christofer Hierold and Marianne Schmid Daners 67th Annual Conference of the American Society for Artificial Internal Organs (ASAIO 2022), Chicago, IL, USA, pp.13-13, Hagerstown, MD: Wolters Kluwer Health, June 8-11, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Automated Design Workflow for Structural Nodes of Space Frame Structures",
+      "year": 2022,
+      "citation_raw": "Automated Design Workflow for Structural Nodes of Space Frame Structures Patrick Beutler, Manuel Biedermann, Urs Christoph Hofmann, Ralph Rosenbauer and Mirko Meboldt 32nd Design in a Changing World (CIRP Design Conference 2022), Paris, France, pp.419-424, Amsterdam: Elsevier, March 28– 30, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Combining Agile Hardware Development with Additive Manufacturing: Implications for a Manufacturing Firm’s Business Model",
+      "year": 2022,
+      "citation_raw": "Combining Agile Hardware Development with Additive Manufacturing: Implications for a Manufacturing Firm’s Business Model Daniel Omidvarkarjan, Robin Streuli, Omid Maghazei, Torbjørn Netland and Mirko Meboldt IFIP International Conference on Advances in Production Management Systems (APMS 2022), Gyeongju, South Korea, pp.302-309, Cham: Springer, September 25-29, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Linking Testing Activities with Success in Agile Development of Physical Products",
+      "year": 2022,
+      "citation_raw": "Linking Testing Activities with Success in Agile Development of Physical Products Martin Batliner, Stefan Boës, Johannes Heck and Mirko Meboldt 32nd CIRP Design Conference (CIRP Design 2022), Paris, France, pp.146-154, Amsterdam: Elsevier, March 28-30, 2022.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "First insights of posture related pressure dynamics in awake and freely moving rats",
+      "year": 2021,
+      "citation_raw": "First insights of posture related pressure dynamics in awake and freely moving rats Simone Schwander, Fabian Flürenbrock, Britta Bausch, Anthony Podgoršak, Petra Seebeck, Melanie Zeilinger and Marianne Schmid Daners 13th Meeting of the International Society for Hydrocephalus and Cerebrospinal Fluid Disorders (Hydrocephalus 2021), Online, pp.O19: BioMed Central, September 10-13, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Small Pre-Implant LV Size Mediates Worse Post-Implant Outcomes in Female CF-LVAD Recipients",
+      "year": 2021,
+      "citation_raw": "Small Pre-Implant LV Size Mediates Worse Post-Implant Outcomes in Female CF-LVAD Recipients Seraina A. Dual, Aditi Nayak, Yingtian Hu, Marianne Schmid Daners, A. Morris and J. Cowger ISHLT 41st Annual Meeting, Online, pp.S100-S100,: Elsevier, April 24-28, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Dust-resistant microthermal mass-flow pitot-tube for fixed-wing drones (UAV)",
+      "year": 2021,
+      "citation_raw": "Dust-resistant microthermal mass-flow pitot-tube for fixed-wing drones (UAV) Julian Ferchow, Stephanie Vogt, Matthias Schibli and Mirko Meboldt 31st CIRP Design Conference 2021 (CIRP Design 2021), Online, pp.409-414, Amsterdam: Elsevier, May 19-21, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Gaze Comes in Handy: Predicting and Preventing Erroneous Hand Actions in AR-Supported Manual Tasks",
+      "year": 2021,
+      "citation_raw": "Gaze Comes in Handy: Predicting and Preventing Erroneous Hand Actions in AR-Supported Manual Tasks Julian Wolf, Quentin Lohmeyer, Christian Holz and Mirko Meboldt 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2021), Bari, Italy, pp.166-175, Piscataway, NJ: IEEE, October 4-8, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "2nd International Conference on Additive Manufacturing in Products and Applications (AMPA 2020)",
+      "year": 2020,
+      "citation_raw": "external page: Research Collection 2nd International Conference on Additive Manufacturing in Products and Applications (AMPA 2020)",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "Meboldt, Mirko and Klahn, Christoph (Eds.) Cham: Springer, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Insights of posture dependent pressure characteristics in five rats",
+      "year": 2021,
+      "citation_raw": "Insights of posture dependent pressure characteristics in five rats Fabian Flürenbrock, Simone Schwander, Anthony Podgoršak, Britta Bausch, Petra Seebeck, Melanie Zeilinger and Marianne Schmid Daners 55th Annual Meeting of the German Society of Biomedical Engineering (BMT 2021), Hannover, Germany, pp.799-802, Berlin: De Gruyter, October 5-7, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Unipolar Amplifier Enabling Measurement of Far-field Intra-cardiac Electromyogram for Blood Pump Control",
+      "year": 2021,
+      "citation_raw": "Unipolar Amplifier Enabling Measurement of Far-field Intra-cardiac Electromyogram for Blood Pump Control Seraina A. Dual, Dominic Jacob, Mirko Meboldt and Marianne Schmid Daners 14th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2021) (virtual), Vienna, Austria, pp.40-48, Setubal: Science and Technology Publications, February 11-13, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Additive Manufactured Break-Out Cores for Composite Production: A Case Study with Motorcycle Parts",
+      "year": 2020,
+      "citation_raw": "Additive Manufactured Break-Out Cores for Composite Production: A Case Study with Motorcycle Parts Manuel Biedermann, Max Widmer and Mirko Meboldt Munich Symposium on Lightweigt Design 2020, Online, pp.63-73, Berlin; Heidelberg: Springer Vieweg, November 17, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Enabling non-engineers to use engineering tools: introducing product development to pupils using knowledge-integrating systems",
+      "year": 2021,
+      "citation_raw": "Enabling non-engineers to use engineering tools: introducing product development to pupils using knowledge-integrating systems Jonas Conrad, Stephan Fox, Phyllis Hofmann, Christoph Klahn and Mirko Meboldt 31st CIRP Design Conference (CIRP Design 2021), Online, pp.265-270, Amsterdam: Elsevier, May 19-21, 2021.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Prediction of Interventricular Septum Positioning During Left Ventricular Support",
+      "year": 2020,
+      "citation_raw": "Prediction of Interventricular Septum Positioning During Left Ventricular Support Marianne Schmid Daners, Lucien Anthamatten, Palak Shah, Mirko Meboldt and Seraina A. Dual ASAIO 66th Annual Conference (virtuel), pp.16-16, Beverly, MA: Wolters Kluwer Health, June 10-13, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Prototyping Strategies for the Agile Development of Additive Manufactured Products: A Case Study from the COVID-19 Pandemic",
+      "year": 2020,
+      "citation_raw": "Prototyping Strategies for the Agile Development of Additive Manufactured Products: A Case Study from the COVID-19 Pandemic Daniel Omidvarkarjan, Ralph Rosenbauer, Daniel Kirschenbaum, Daniele Cipriano, David Ochsner, Harry Woodfin, Christoph Klahn and Mirko Meboldt 31st Symposium Design for X (DFX 2020) (virtual), Online, pp.161-168, Glasgow: The Design Society, September 16-17, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Design Automation and Additive Manufacturing for Anatomically Diversified Medical Simulators",
+      "year": 2020,
+      "citation_raw": "Design Automation and Additive Manufacturing for Anatomically Diversified Medical Simulators Christoph Klahn, Kaspar Bührer, Reto Engeli and Mirko Meboldt 30th CIRP on Design (CIRP Design 2020) (virtual), Pretoria, South Africa, pp.458-463, Amsterdam: Elsevier, May 5-8, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Enabling Electropolishing of Complex Selective Laser Melting Structures",
+      "year": 2020,
+      "citation_raw": "Enabling Electropolishing of Complex Selective Laser Melting Structures Julian Ferchow, Urs Christoph Hofmann and Mirko Meboldt 30th CIRP Design 2020 (CIRP Design 2020) (virtual), Pretoria, South Africa, pp.472-477, Amsterdam: Elsevier, May 5-8, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "The AM Dowel – A Novel Insert for the Integration of Threads into Additive Manufactured Polymer Components",
+      "year": 2020,
+      "citation_raw": "The AM Dowel – A Novel Insert for the Integration of Threads into Additive Manufactured Polymer Components Daniel Omidvarkarjan, Peter Balicki, Harry Baumgartner, Ralph Rosenbauer, Filippo Fontana and Mirko Meboldt 2nd International Conference on Additive Manufacturing in Products and Applications (AMPA 2020), Zurich, Switzerland, pp.391-398, Cham: Springer, September 1-3, 2020.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Investigating the potential of acoustic resonance to extimate left ventricular volume",
+      "year": 2019,
+      "citation_raw": "Investigating the potential of acoustic resonance to extimate left ventricular volume Seraina A. Dual, Roland Dreyfus, Cosmin Roman, Richard Wampler, Mirko Meboldt and Marianne Schmid Daners 26th International Congress on Sound and Vibration (ICSV26), Montreal, Canada, pp.1717-1724, Auburn, AL: International Institute of Acoustics and Vibration, July 7-11, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Gaze Pattern Analysis in the Assessment of Digital Ulcers in Patients with Systemic Sclerosis",
+      "year": 2019,
+      "citation_raw": "Gaze Pattern Analysis in the Assessment of Digital Ulcers in Patients with Systemic Sclerosis Thomas Moser, Quentin Lohmeyer, Mirko Meboldt, Oliver Distler and Mike O. Becker Annual European Congress of Rheumatology, EULAR 2019, Madrid, Spain, pp.1208 London: BMJ, June 12-15, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "SP530: Comparative Usability Evaluation Of A Novel Peritoneal Dialysis Assistance Device Using Mobile Eye Tracking",
+      "year": 2019,
+      "citation_raw": "SP530: Comparative Usability Evaluation Of A Novel Peritoneal Dialysis Assistance Device Using Mobile Eye Tracking Sandra Neumann, Stephan Hess, Dimitri Wahlen and Mirko Meboldt 56th ERA-EDTA Congress 2019, Budapest, Hungary, pp.gfz103.SP530 Oxford: Oxford University Press, June 13-16, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "SP508: Using UV-paint for evaluating touch-contamination of a patient-assistance device for peritoneal dialysis",
+      "year": 2019,
+      "citation_raw": "SP508: Using UV-paint for evaluating touch-contamination of a patient-assistance device for peritoneal dialysis Sandra Neumann, Stephan Hess, Dabaghchian Babek and Mirko Meboldt 56th ERA-EDTA Congress 2019, Budapest, Hungary, pp.gfz103.SP508 Oxford: Oxford University Press, June 13-16, 2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Novel physical high-fidelity simulator for transseptal puncture procedure: changing the learning approach",
+      "year": 2019,
+      "citation_raw": "Novel physical high-fidelity simulator for transseptal puncture procedure: changing the learning approach Jan Michael Zimmermann, Maurizio Taramasso, Luca Vicentini, Oliver J. Steffen, Marianne Schmid Daners, Francesco Maisano and Mirko Meboldt Joint Annual Meeting 2019 of the Swiss Society of Cardiology and the Swiss Society of Cardiac Surgery, Interlaken, Switzerland, pp.w02060 Muttenz: EMH Schweizerischer Ärzteverlag, June 19-21,2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Operators' visual behavior during the transseptal puncture procedure: a new way to learn from the experts",
+      "year": 2019,
+      "citation_raw": "Operators' visual behavior during the transseptal puncture procedure: a new way to learn from the experts Jan Michael Zimmermann, Alberto Pozzoli, Luca Vicentini, Maurizio Taramasso, Quentin Lohmeyer, Francesco Maisano and Mirko Meboldt Joint Annual Meeting 2019 of the Swiss Society of Cardiology and the Swiss Society of Cardiac Surgery, Interlaken, Switzerland, pp.w02060 Muttenz: EMH Schweizerischer Ärzteverlag, June 19-21,2019.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Development and Validation of an Integrated Pitot Tube – Manufactured with Selective Laser Melting and Abrasive Flow Machining",
+      "year": 2018,
+      "citation_raw": "Development and Validation of an Integrated Pitot Tube – Manufactured with Selective Laser Melting and Abrasive Flow Machining Julian Ferchow, Dominik Kläusler and Mirko Meboldt 8th International Systems & Concurrent Engineering for Space Applications Conference (SECESA 2018), Glasgow, United Kingdom Paris: European Space Agency (ESA), September 26-28, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Fully automated, personalized small batch cell culturing bioreactor for regenerative medicine",
+      "year": 2018,
+      "citation_raw": "Fully automated, personalized small batch cell culturing bioreactor for regenerative medicine Dominik Siallagan, Stephan Fox, Marianne Schmid Daners and Mirko Meboldt 5th TERMIS World Congress, Kyoto, Japan, pp.435-435, S.l.: TERMIS, September 4-7, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "A human-derived biomaterial for the automated production of 3D skin models",
+      "year": 2018,
+      "citation_raw": "A human-derived biomaterial for the automated production of 3D skin models Jessica Polak, Stephan Fox, Marianne Schmid Daners and Mirko Meboldt 5th TERMIS World Congress, Kyoto, Japan, pp.202-202, S.l.: Tissue Engineering and Regenerative Medicine International Society, September 4-7, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Individualized and sustainable lightweight structures from Additive Manufacturing and carbon fiber patched composites",
+      "year": 2018,
+      "citation_raw": "Individualized and sustainable lightweight structures from Additive Manufacturing and carbon fiber patched composites Ralph Kussmaul, Manuel Biedermann, Jónas Jónasson, Markus Zogg, Christoph Klahn, Mirko Meboldt and Paolo Ermanni 1st Symposium on Lightweight Design in Product Development (LWD-PD 2018), Zurich, Switzerland, pp.60-62, Zurich: CMASLab, ETH Zurich, June 14-15, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Development of a Novel Connection Device for Patients on Peritoneal Dialysis (PD)",
+      "year": 2018,
+      "citation_raw": "Development of a Novel Connection Device for Patients on Peritoneal Dialysis (PD) Stephan Segerer, Sandra Neumann and Stephan Hess 55th ERA-EDTA Congress 2018, Copenhagen, Denmark, pp.i524-i525, Oxford: Oxford University Press, May 24-27, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Additive Manufacturing in Products and Applications - AMPA2017",
+      "year": 2017,
+      "citation_raw": "external page: Research Collection Additive Manufacturing in Products and Applications - AMPA2017",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": null,
+      "year": 2018,
+      "citation_raw": "Meboldt, Mirko and Klahn, Christoph (Eds.) Cham: Springer, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Overcoming The Limits Of Design: Magnet 3D Printing For Rapid Development Of Turbodynamic Ventricular Assist Devices",
+      "year": 2018,
+      "citation_raw": "Overcoming The Limits Of Design: Magnet 3D Printing For Rapid Development Of Turbodynamic Ventricular Assist Devices Kai von Petersdorff-Campen, Marianne Schmid Daners and Mirko Meboldt 64th Annual Conference of the American Society for Artificial Internal Organs (ASAIO), Washington, DC, USA, pp.34-34, Hagerstown, MD: Wolters Kluwer Health, June 13-16, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Evolution of Design Guidelines for Additive Manufacturing - Highlighting Achievements and Open Issues by Revisiting an Early SLM Aircraft Bracket",
+      "year": 2017,
+      "citation_raw": "Evolution of Design Guidelines for Additive Manufacturing - Highlighting Achievements and Open Issues by Revisiting an Early SLM Aircraft Bracket Christoph Klahn, Daniel Omidvarkarjan and Mirko Meboldt Additive Manufacturing in Products and Applications - AMPA2017, Zurich, Switzerland, pp.3-13, Cham: Springer, September 13-15, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Combining Additive Manufacturing and Carbon Fiber Patched Composites for Individualized and Sustainable Biomedical Applications",
+      "year": 2018,
+      "citation_raw": "Combining Additive Manufacturing and Carbon Fiber Patched Composites for Individualized and Sustainable Biomedical Applications Ralph Kussmaul, Manuel Biedermann, Jónas Jónasson, Daniel Türk, Markus Zogg, Christoph Klahn, Mirko Meboldt and Paolo Ermanni 18th European Conference on Composite Materials (ECCM18), Athens, Greece, pp.3058-3065, Patras: Applied Mechanics Laboratory, June 24-28, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Design automation for additive manufacturing applied to branched fluid structures",
+      "year": 2018,
+      "citation_raw": "Design automation for additive manufacturing applied to branched fluid structures Manuel Biedermann, Manuel Schoen and Mirko Meboldt 29th DfX Symposium 2018, Tutzing, Germany, pp.131-142, Neubiberg: Institut für Technische Produktentwicklung, Universität der Bundeswehr München, September 25-26, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Enabling Graduate Students to Design for Additive Manufacturing through Teaching and Experience Transfer",
+      "year": 2018,
+      "citation_raw": "Enabling Graduate Students to Design for Additive Manufacturing through Teaching and Experience Transfer Julian Ferchow, Christoph Klahn and Mirko Meboldt 20th International Conference on Engineering and Product Design Education (E&PDE 2018), London, United Kingdom, pp.199-204, Glasgow: The Design Society, September 6-7, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Simulation Study Exploring The Potential Of Acoustic Resonance To Measure Left Ventricular Volume",
+      "year": 2018,
+      "citation_raw": "Simulation Study Exploring The Potential Of Acoustic Resonance To Measure Left Ventricular Volume Seraina A. Dual, Cosmin Roman, Mirko Meboldt and Marianne Schmid Daners Annual Meeting of the American Society for Artificial Internal Organs (ASAIO 2018), Washington, DC, USA, pp.73-73, New York, NY: Wolters Kluwer Health, June 13-16.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Applicability of Ultrasonic Sensors to Measure Volume on the Ventricular Assist Device Inlet Cannula",
+      "year": 2018,
+      "citation_raw": "Applicability of Ultrasonic Sensors to Measure Volume on the Ventricular Assist Device Inlet Cannula Seraina A. Dual, Jan Zimmermann, J. Neuenschwander, Nicholas H. Cohrs, N. Solowjowa, Wendelin J. Stark, Mirko Meboldt and Marianne Schmid Daners 64th Annual Conference of the American Society for Artificial Internal Organs (ASAIO), Washington, DC, USA, pp.68-68, Hagerstown, MD: Wolters Kluwer Health, June 13-16, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "In-vivo evaluation of ConVes a novel device for a sutureless aortic graft anastomosis",
+      "year": 2017,
+      "citation_raw": "In-vivo evaluation of ConVes a novel device for a sutureless aortic graft anastomosis Seraina A. Dual, Alissa Muller, Oliver Brinkmann, Stefan Boës, Simon Sündermann, Volkmar Falk, Mirko Meboldt and Marianne Schmid Daners 44th ESAO and 7th IFAO Congress, Vienna, Austria, pp.393-393, Milano: Wichtig, September 6-9, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Fundamental Challenges in Developing Internet of Things Applications for Engineers and Product Designers",
+      "year": 2017,
+      "citation_raw": "Fundamental Challenges in Developing Internet of Things Applications for Engineers and Product Designers Timon Heinis, Carlos Gomes Martinho and Mirko Meboldt 21st International Conference on Engineering Design (ICED 2017), Vancouver, Canada, pp.279-288,, August 21-25, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "The Experience Transfer Model for New Technologies - Application on Design for Additive Manufacturing",
+      "year": 2017,
+      "citation_raw": "The Experience Transfer Model for New Technologies - Application on Design for Additive Manufacturing Bastian Leutenecker-Twelsiek, Julian Ferchow, Christoph Klahn and Mirko Meboldt Additive Manufacturing in Products and Applications (AMPA 2017), Zurich, Switzerland, pp.337-346, Cham: Springer, September 13-15, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Assessing the performance of additive manufacturing applications",
+      "year": 2017,
+      "citation_raw": "Assessing the performance of additive manufacturing applications Daniel-Alexander Türk, Filippo Fontana, Fabian Rüegg, Rajan J. Gill and Mirko Meboldt 21st International Conference on Engineering Design (ICED 17), Vancouver, Canada, pp.259-268, Glasgow: The Design Society, August 21-25, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Temperature Monitoring of an SLM Part with Embedded Sensor",
+      "year": 2017,
+      "citation_raw": "Temperature Monitoring of an SLM Part with Embedded Sensor Philipp Stoll, Bastian Leutenecker-Twelsiek, Adriaan Spierings, Christoph Klahn and Konrad Wegener International Conference on Additive Manufacturing in Products and Applications (AMPA2017), Zurich, Switzerland, pp.273-284, Cham: Springer, September 13-15, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Introducing the SkinCreator – make bioengineered skin available for everyone – a Skintegrity Zurich project",
+      "year": 2017,
+      "citation_raw": "Introducing the SkinCreator – make bioengineered skin available for everyone – a Skintegrity Zurich project Stephan Fox, Thomas Biedermann, Marianne Schmid Daners, Ernst Reichmann and Mirko Meboldt European Chapter Meeting of the Tissue Engineering and Regenerative Medicine International Society 2017 (TERMIS-EU 2017). Personalized Therapies for Regenerative Medicine, Davos, Switzerland, pp.P796 Davos: AO Foundation, June 26-30, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Testing Methodology for Engineering Design Education",
+      "year": 2018,
+      "citation_raw": "Testing Methodology for Engineering Design Education Martin Batliner, Stefan Boës, Timon B. Heinis and Mirko Meboldt 20th International Conference on Engineering and Product Design Education (E&PDE 2018), London, United Kingdom, pp.375-380,: Design Society, September 6-7, 2018.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Selection of High-Variety Components for Selective Laser Sintering: An Industrial Case Study",
+      "year": 2017,
+      "citation_raw": "Selection of High-Variety Components for Selective Laser Sintering: An Industrial Case Study Filippo Fontana, Enrico Marinelli and Mirko Meboldt International Conference on Additive Manufacturing in Products and Applications (AMPA2017), Zurich, Switzerland, pp.238-251, Cham: Springer, September 13-15, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Advantages in Additive Manufacturing for a Medium Format Metrology Camera",
+      "year": 2017,
+      "citation_raw": "Advantages in Additive Manufacturing for a Medium Format Metrology Camera Ralph Rosenbauer, Filippo Fontana, Heidi Hastedt, Thomas Luhmann, David Ochsner, Dirk Rieke-Zapp and Robin Rofallski International Conference on Additive Manufacturing in Products and Applications (AMPA2017), Zurich, Switzerland, pp.296-307, Cham: Springer, September 13-15, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Target Based Analysis - A Model to Analyse Usability Tests Based on Mobile Eye Tracking Recordings",
+      "year": 2017,
+      "citation_raw": "Target Based Analysis - A Model to Analyse Usability Tests Based on Mobile Eye Tracking Recordings Moritz Mussgnug, Aleksandra Sadowska, Ralf Moryson and Mirko Meboldt 21st International Conference on Engineering Design (ICED17), Vancouver, Canada, pp.59-68,: Design Society, August 21-25, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Simplified molding techique for dermal equivalents allows rapid biofabrication and homogenous cell distribution",
+      "year": 2017,
+      "citation_raw": "Simplified molding techique for dermal equivalents allows rapid biofabrication and homogenous cell distribution Stephan Fox, Thomas Biedermann, Jessica Polak, Jimmy Hu, Marianne Schmid Daners, Ernst Reichmann and Mirko Meboldt International Conference on Biofabrication (Biofabrication 2017), Beijing, China, October 15-18, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Impact and assessment of design on higher order benefits",
+      "year": 2016,
+      "citation_raw": "Impact and assessment of design on higher order benefits Christoph Klahn and Filippo Fontana International Conference on Sustainable Smart Manufacturing (S2M 2016), Lisbon, Portugal, pp.237-242, London: CRC Press, October 20-22, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Utilization of Mobile Eye Tracking Data to Improve Engineering Design Education",
+      "year": 2017,
+      "citation_raw": "Utilization of Mobile Eye Tracking Data to Improve Engineering Design Education Stephan Hess, Quentin Lohmeyer and Mirko Meboldt 19th International Conference on Engineering and Product Design Education (E&PDE 2017), Oslo, Norway, pp.2-7, Glasgow: The Design Society, September 7-8, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Performance Evaluation of a Treatment Couch used for Tumor Tracking",
+      "year": 2016,
+      "citation_raw": "Performance Evaluation of a Treatment Couch used for Tumor Tracking Alexander Jöhl, Markus Stäuble, Marcial Monn, Marianne Schmid Daners, Mirko Meboldt, Stephan Klöck and Stephanie Tanadini-Lang Dreiländertagung: Swiss, Austrian and German Societies for Biomedical Engineering, Basel, Switzerland, pp.S102-S102, Berlin: De Gruyter, October 4-6, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Additive Manufacturing with Composites for Integrated Aircraft Structures",
+      "year": 2016,
+      "citation_raw": "Additive Manufacturing with Composites for Integrated Aircraft Structures Daniel Türk, Ralph Kussmaul, Markus Zogg, Christoph Klahn, Adriaan B. Spierings, Holger Könen, Paolo Ermanni and Mirko Meboldt SAMPE Long Beach 2016 Conference and Exhibition, Long Beach, CA, USA, pp.1404-1418, Covina: Society for the Advancement of Material and Process Engineering, May 23-26, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "R-Wave Magnitude: a Control Input for Ventricular Assist Devices",
+      "year": 2016,
+      "citation_raw": "R-Wave Magnitude: a Control Input for Ventricular Assist Devices Seraina A. Dual, Gregor Ochsner, Anastasios Petrou, Raffael Amacher, Markus J. Wilhelm, Mirko Meboldt and Marianne Schmid Daners 8th International Workshop on Biosignal Interpretation (BSI 2016), Osaka, Japan, pp.18-21, Osaka: BSI, November 1-3, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Work density analysis of adjustable stiffness mechanisms",
+      "year": 2016,
+      "citation_raw": "Work density analysis of adjustable stiffness mechanisms Marius Stücheli, André Foehr and Mirko Meboldt 2016 IEEE International Conference on Robotics and Automation, ICRA 2016, Stockholm, Sweden, pp.648-654, Piscataway, NJ: IEEE, May 16-21, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Space Utilization Patterns and Workshop Furniture: Affordances for New Product Development and Design",
+      "year": 2016,
+      "citation_raw": "Space Utilization Patterns and Workshop Furniture: Affordances for New Product Development and Design Florian Rittiner, Johannes Heck, Mirko Meboldt and Martin Steinert 4th International Conference on Design Creativity (ICDC 2016), Atlanta, GA, USA Glasgow: Design Society, November 2-4, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Designing a Power Tool to Show the Potentials of Additive Manufacturing: Effects of Additive Manufacturing on the Product Development Process",
+      "year": 2017,
+      "citation_raw": "Designing a Power Tool to Show the Potentials of Additive Manufacturing: Effects of Additive Manufacturing on the Product Development Process Bastian Leutenecker, Christoph Klahn and Mirko Meboldt 2016 Annual International Solid Freeform Fabrication Symposium (SFF Symp 2016), Austin, TX, USA, August 7-9, 2017.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Multilevel Design Education for Innovation Competencies",
+      "year": 2016,
+      "citation_raw": "Multilevel Design Education for Innovation Competencies Timon B. Heinis, Ina Goller and Mirko Meboldt 26th CIRP Design Conference, Stockholm, Sweden, pp.759-764, Amsterdam: Elsevier, June 15-17, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Design Guidelines for Additive Manufactured Snap-Fit Joints",
+      "year": 2016,
+      "citation_raw": "Design Guidelines for Additive Manufactured Snap-Fit Joints Christoph Klahn, Daniel Singer and Mirko Meboldt 26th CIRP Design Conference 2016, Stockholm, Sweden, pp.264-269, Amsterdam: Elsevier, June 15-17, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Using Personas in Ideation Workshops",
+      "year": 2016,
+      "citation_raw": "Using Personas in Ideation Workshops Florian Rittiner, Johannes Heck, Mirko Meboldt and Martin Steinert International Conference on Design Creativity (ICDC 2016), Atlanta, GA, USA, November 2-4, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Considering Part Orientation in Design for Additive Manufacturing",
+      "year": 2016,
+      "citation_raw": "Considering Part Orientation in Design for Additive Manufacturing Bastian Leutenecker, Christoph Klahn and Mirko Meboldt 26th CIRP Design Conference, Stockholm, Sweden, pp.408-413, Amsterdam: Elsevier, June 15-17, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Exploring Tissue Engineering of Skin for New Automation Technologies",
+      "year": 2016,
+      "citation_raw": "Exploring Tissue Engineering of Skin for New Automation Technologies Stephan Fox, Thomas Biedermann, Marianne Schmid Daners, Ernst Reichmann and Mirko Meboldt 2016 TERMIS - Americas Conference and Exhibition, San Diego, CA, USA, pp.S-57-S-57, New Rochelle, NY: Mary Ann Liebert, December 11-14, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Combining Additive Manufacturing with Advanced Composites for Highly Integrated Robotic Structures",
+      "year": 2016,
+      "citation_raw": "Combining Additive Manufacturing with Advanced Composites for Highly Integrated Robotic Structures Daniel-Alexander Türk, Lukas Triebe and Mirko Meboldt 26th CIRP Design Conference, Stockholm, Sweden, pp.402-407, Amsterdam: Elsevier, June 15-17, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Iteration-based Performance Measurement in the Fuzzy Front End of PDPs",
+      "year": 2016,
+      "citation_raw": "Iteration-based Performance Measurement in the Fuzzy Front End of PDPs Johannes Heck, Florian Rittiner, Martin Steinert and Mirko Meboldt 26th CIRP Design Conference, Stockholm, Sweden, pp.14-19, Amsterdam: Elsevier, June 15-17, 2016.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Hardware-in-the-loop testing of CSF shunts",
+      "year": 2015,
+      "citation_raw": "Hardware-in-the-loop testing of CSF shunts Manuel Gehlen, Vartan Kurtcuoglu and Marianne Schmid Daners Hydrocephalus 2015, Banff, Canada, pp.O2 London: BioMed Central, September 18-21, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Skimming and Scrutinizing: Quantifying Two Basic Patterns of Visual Behavior in Design",
+      "year": 2015,
+      "citation_raw": "Skimming and Scrutinizing: Quantifying Two Basic Patterns of Visual Behavior in Design Quentin Lohmeyer, Moritz Mussgnug and Mirko Meboldt 5th International Conference on Research into Design, ICoRD 2015, Bangalore, India, pp.479-489, New Delhi: Springer India, January 7-9, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "An Adjustable Impedance Element: System Requirements and Design Approach",
+      "year": 2015,
+      "citation_raw": "An Adjustable Impedance Element: System Requirements and Design Approach Tim Bruchmüller, Sebastian Mangold, Sven Matthiesen, Jan Oltmann, Olaf Rasmussen, Dieter Krause, Marius Stücheli and Mirko Meboldt Design for X Symposium 2015, Herrsching, Germany, pp.133-144, Hamburg: TuTech Verlag, TuTech Innovation GmbH, October 7-8, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Conceptualising Ideation Workshops for SMEs",
+      "year": 2015,
+      "citation_raw": "Conceptualising Ideation Workshops for SMEs Johannes Heck, Martin Steinert and Mirko Meboldt 25th CIRP Design Conference Innovative Product Creation, Haifa, Israel, pp.248-253, Amsterdam: Elsevier, March 2-4, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Innovative Winding Method for Electric Motors suitable for High Production Volumes of EVs",
+      "year": 2015,
+      "citation_raw": "Innovative Winding Method for Electric Motors suitable for High Production Volumes of EVs Martin Stöck, Martin Breu, Quentin Lohmeyer and Mirko Meboldt International Conference on Electric Drives Production EDPC 2015, Nürnberg, Germany, September 15-16, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Increasing the Power Density of E-Motors by Innovative Winding Design",
+      "year": 2015,
+      "citation_raw": "Increasing the Power Density of E-Motors by Innovative Winding Design Martin Stöck, Quentin Lohmeyer and Mirko Meboldt 25th CIRP Design Conference Innovative Product Creation, Haifa, Israel, pp.236-241, Amsterdam: Elsevier, March 2-4, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Impact Dimensions of Ideation Workshops on the Capabilities of SMEs",
+      "year": 2015,
+      "citation_raw": "Impact Dimensions of Ideation Workshops on the Capabilities of SMEs Johannes Heck, Florian Rittiner, Martin Steinert and Mirko Meboldt 16th International CINet Conference, Stockholm, Sweden, pp.400-409, Enschede: Continuous Innovation Network, September 13-15, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Combining Additive Manufacturing with CFRP Composites: Design Potentials",
+      "year": 2015,
+      "citation_raw": "Combining Additive Manufacturing with CFRP Composites: Design Potentials Daniel Türk, Andreas Züger, Christoph Klahn and Mirko Meboldt 20th International Conference on Engineering Design (ICED15), Milan, Italy, pp.4-279 Glasgow: Design Society, July 27-30, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Engineering Education for Innovation Competencies",
+      "year": 2015,
+      "citation_raw": "Engineering Education for Innovation Competencies Timon Heinis, Ina Goller and Mirko Meboldt 10. Ingenieurpädagogische Regionaltagung 2015, Eindhoven, Netherlands, pp.17-19, S.l.: Ingenieur-Pädagogische Wissenschaftsgesellschaft (IPW), November 5-7, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Mobile Eye Tracking in Usability Testing: Designers Analysing the User-Product Interaction",
+      "year": 2015,
+      "citation_raw": "Mobile Eye Tracking in Usability Testing: Designers Analysing the User-Product Interaction Moritz Mussgnug, Michael Frederick Waldern and Mirko Meboldt 20th International Conference on Engineering Design (ICED15), Milan, Italy, pp.2-349 Glasgow: Design Society, July 27-30, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Efficient Design Evaluation through the Combination of Numerical and Physical Computations",
+      "year": 2015,
+      "citation_raw": "Efficient Design Evaluation through the Combination of Numerical and Physical Computations André G.C. Foehr, Marius Stücheli and Mirko Meboldt 20th International Conference on Engineering Design (ICED15), Milan, Italy, pp.125-132 Glasgow: Design Society, July 27-30, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Principles Guiding Teams in New Product Development Projects",
+      "year": 2015,
+      "citation_raw": "Principles Guiding Teams in New Product Development Projects Moritz Mussgnug, Stefan Boës and Mirko Meboldt 17th International Conference on Engineering and Product Design Education, EPDE 2015, Loughborough, United Kingdom, pp.56-61, Singapore: The Design Society, September 3-4, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Indicators and Design Strategies for Direct Part Production by Additive Manufacturing",
+      "year": 2015,
+      "citation_raw": "Indicators and Design Strategies for Direct Part Production by Additive Manufacturing Bastian Leutenecker, Christoph Klahn and Mirko Meboldt 20th International Conference on Engineering Design (ICED15), Milan, Italy, pp.4-225 Glasgow: Design Society, July 27-30, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Design Strategies for the Process of Additive Manufacturing",
+      "year": 2015,
+      "citation_raw": "Design Strategies for the Process of Additive Manufacturing Christoph Klahn, Bastian Leutenecker and Mirko Meboldt 25th CIRP Design Conference Innovative Product Creation, Haifa, Israel, pp.230-235, Amsterdam: Elsevier, March 2-4, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Provoking Iterations in Ideation Workshops – An Explorative Study",
+      "year": 2015,
+      "citation_raw": "Provoking Iterations in Ideation Workshops – An Explorative Study Johannes Heck, Martin Steinert and Mirko Meboldt 20th International Conference on Engineering Design (ICED15), Milan, Italy, pp.133-142, Glasgow: Design Society, July 27-30, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "An Evaluation of Innovation Coaching: Do Innovation Teams Profit from Coaching",
+      "year": 2015,
+      "citation_raw": "An Evaluation of Innovation Coaching: Do Innovation Teams Profit from Coaching Ina Goller, Mareike Heinzen and Mirko Meboldt 16th International Continuous Innovation Net Conference CINet 2015, Stockholm, Sweden Stockholm: CINet, September 13-15, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Prototyping and Testing Basic Designs of Centrifugal Microfluidic Platforms for Biomedical Diagnostics",
+      "year": 2015,
+      "citation_raw": "Prototyping and Testing Basic Designs of Centrifugal Microfluidic Platforms for Biomedical Diagnostics Stephan Fox, Quentin Lohmeyer and Mirko Meboldt 20th International Conference on Engineering Design (ICED15), Milan, Italy, pp.341-350, Glasgow: Design Society, July 27-30, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "How We Understand Engineering Drawings: An Eye Tracking Study Investigating Skimming and Scrutinizing Sequences",
+      "year": 2015,
+      "citation_raw": "How We Understand Engineering Drawings: An Eye Tracking Study Investigating Skimming and Scrutinizing Sequences Quentin Lohmeyer and Mirko Meboldt 20th International Conference on Engineering Design (ICED15), Milan, Italy, pp.2-359 Glasgow: Design Society, July 27-30, 2015.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "A Method for the Situation-Specific Evaluation of Product Development Process Models",
+      "year": 2014,
+      "citation_raw": "A Method for the Situation-Specific Evaluation of Product Development Process Models Johannes Heck, Andreas Braun and Mirko Meboldt 13th International Design Conference (DESIGN 2014), Dubrovnik, Croatia, pp.851-862,: Faculty of Mechanical Engineering and Naval Architecture, University of Zagreb; The Design Society; Croatian Society for Mechanical Engineering Design, May 19-22, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Experience the Relevance of Testing in Engineering Design Education",
+      "year": 2014,
+      "citation_raw": "Experience the Relevance of Testing in Engineering Design Education Daniel Türk, Bastian Leutenecker and Mirko Meboldt 10th International CDIO Conference (CDIO 2014), Barcelona, Spain,, pp.76 Barcelona: Universitat Politècnica de Catalunya, June 16-19, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Iterative Creation and Analysis of Generic Ideation Spaces for SMEs",
+      "year": 2014,
+      "citation_raw": "Iterative Creation and Analysis of Generic Ideation Spaces for SMEs Johannes Heck, Katam Al-Falou, Martin Steinert and Mirko Meboldt NordDesign 2014, Espoo, Finland Espoo, Finland: NordDesign, August 27-29, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Design for Additive Manufacturing: Supporting the Substitution of Components in Series Products",
+      "year": 2014,
+      "citation_raw": "Design for Additive Manufacturing: Supporting the Substitution of Components in Series Products Christoph Klahn, Bastian Leutenecker and Mirko Meboldt 24th CIRP Design Conference 2014, Milan, Italy Milano, Italy: Politecnico di Milano, April 14-16, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Einsatz von mobilen Eye Tracking Technologien in der nutzerorientierten Produktentwicklung",
+      "year": 2014,
+      "citation_raw": "Einsatz von mobilen Eye Tracking Technologien in der nutzerorientierten Produktentwicklung Moritz Mussgnug, Quentin Lohmeyer and Mirko Meboldt Entwerfen Entwickeln Erleben (EEE 2014), Dresden, Germany, pp.209-218, Dresden: TUDPress, June 26-27, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Anthropomorphic and Linear Arm Models for Mechanical Power Tool Testing",
+      "year": 2013,
+      "citation_raw": "Anthropomorphic and Linear Arm Models for Mechanical Power Tool Testing Marius Stücheli, Bastian Leutenecker and Mirko Meboldt ASME International Mechanical Engineering Congress and Exposition (IMECE 2013), San Diego, CA, USA, pp.IMECE2013-62696 New York, NY: American Society of Mechanical Engineers, November 15-21, 2013.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Individual and Organizational Acceptance of Systems Engineering Methods: Survey and Recommendations",
+      "year": 2014,
+      "citation_raw": "Individual and Organizational Acceptance of Systems Engineering Methods: Survey and Recommendations Quentin Lohmeyer, Albert Albers, Aline Radimersky and Jan Breitschuh 10th International Symposium on Tools and Methods of Competitive Engineering (TMCE 2014), Budapest, Hungary, pp.1531-1540, Budapest, Hungary: IEEE, May 19-23, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Page 13 loaded",
+      "year": 2014,
+      "citation_raw": "Page 13 loaded 121 – 130 of 161 International Conference on Human Behavior in Design (HBiD 2014)",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Zurich: ETH Zurich, Product Development Group",
+      "year": 2014,
+      "citation_raw": "Meboldt, Mirko, Matthiesen, Sven, Badke-Schaub, Petra and Lohmeyer, Quentin (Eds.) Zurich: ETH Zurich, Product Development Group, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Entwickeln mit Mindcards - mehr Interaktion in kreativen Prozessen",
+      "year": 2014,
+      "citation_raw": "Entwickeln mit Mindcards - mehr Interaktion in kreativen Prozessen Stefan Boës, Moritz Mussgnug, Dominik Noli, Bastian Leutenecker and Mirko Meboldt Entwerfen Entwickeln Erleben (EEE 2014), Dresden, Germany, pp.169-179, Dresden: TUDPress, June 26-27, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "The Mindcard Concept: Increasing Interaction in Small Group Learning Settings",
+      "year": 2014,
+      "citation_raw": "The Mindcard Concept: Increasing Interaction in Small Group Learning Settings Moritz Mussgnug, Stefan Boës, Bastian Leutenecker, Dominik Noli and Mirko Meboldt 16th International Conference on Engineering and Product Design Education (EPDE 2014), Enschede, Netherlands Enschede: EPDE, September 4-5, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Task-Dependent Visual Behaviour of Engineering Designers: An Eye Tracking Experiment",
+      "year": 2014,
+      "citation_raw": "Task-Dependent Visual Behaviour of Engineering Designers: An Eye Tracking Experiment Quentin Lohmeyer, Sven Matthiesen and Mirko Meboldt 13th International Design Conference (DESIGN 2014), Dubrovnik, Croatia, pp.549-558,: Faculty of Mechanical Engineering and Naval Architecture, University of Zagreb; The Design Society; Croatian Society for Mechanical Engineering Design, May 19-22, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Analysing Visual Behaviour in Engineering Design by Eye Tracking Experiments",
+      "year": 2014,
+      "citation_raw": "Analysing Visual Behaviour in Engineering Design by Eye Tracking Experiments Quentin Lohmeyer, Sven Matthiesen, Moritz Mussgnug and Mirko Meboldt 10th International Symposium on Tools and Methods of Competitive Engineering (TMCE 2014), Budapest, Hungary, pp.949-958, Budapest, Hungary: IEEE, May 19-23, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Prototyping with Laser Cutters in Large Engineering Design Classes",
+      "year": 2014,
+      "citation_raw": "Prototyping with Laser Cutters in Large Engineering Design Classes Mirko Meboldt, Quentin Lohmeyer and Bastian Leutenecker 13th International Design Conference (DESIGN 2014), Dubrovnik, Croatia, pp.1411-1420,: Faculty of Mechanical Engineering and Naval Architecture, University of Zagreb; The Design Society; Croatian Society for Mechanical Engineering Design, May 19-22, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "EP-1661: Effect of couch tracking upon volunteers",
+      "year": 2014,
+      "citation_raw": "EP-1661: Effect of couch tracking upon volunteers S. Lang, J. Zeimetz, G. Ochsner, Marianne Schmid Daners, S. Klöck and O. Riesterer European Society for Radiotherapy and Oncology (ESTRO 33), Vienna, Austria, pp.S230 Amsterdam: Elsevier, April 4-8, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "ETH Focus Projects: Successful Approaches for Project-Based Education in Engineering Design",
+      "year": 2014,
+      "citation_raw": "ETH Focus Projects: Successful Approaches for Project-Based Education in Engineering Design Marius Stücheli, Stefan Boës and Mirko Meboldt 16th International Conference on Engineering and Product Design Education, EPDE 2014, Enschede, Netherlands: University of Twente, September 4-5, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Raising Designers' Awareness of User Experience by Mobile Eye Tracking Records",
+      "year": 2014,
+      "citation_raw": "Raising Designers' Awareness of User Experience by Mobile Eye Tracking Records Moritz Mussgnug, Quentin Lohmeyer and Mirko Meboldt 16th International Conference on Engineering and Product Design Education, EPDE 2014, Enschede, Netherlands: University of Twente, September 4-5, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Discovering Concept Patterns in Spatial Design",
+      "year": 2014,
+      "citation_raw": "Discovering Concept Patterns in Spatial Design Katam Al-Falou, Johannes Heck, Carlo Kriesi, Martin Steinert and Mirko Meboldt NordDesign 2014, Espoo, Finland Espoo, Finland: NordDesign, August 27-29, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Physiological Data Acquisition for Deeper Insights into Prototyping",
+      "year": 2014,
+      "citation_raw": "Physiological Data Acquisition for Deeper Insights into Prototyping Carlo Kriesi, Martin Steinert, Mirko Meboldt and Stephanie Balters NordDesign 2014, Espoo, Finland Espoo, Finland: NordDesign, August 27-29, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Visual behavior in task-driven reading of engineering drawings",
+      "year": 2014,
+      "citation_raw": "Visual behavior in task-driven reading of engineering drawings Svetlana Ognjanovic, Quentin Lohmeyer, Christoph Hölscher and Mirko Meboldt International Conference on Human Behavior in Design (HBiD 2014), Ascona, Switzerland Zurich: ETH Zurich, Product Development Group, October 14-17, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Teaching Cross-Disciplinary Collaboration in Design Projects with Engineering and Medical Students",
+      "year": 2014,
+      "citation_raw": "Teaching Cross-Disciplinary Collaboration in Design Projects with Engineering and Medical Students Stephan Fox, Vartan Kurtcuoglu and Mirko Meboldt 16th International Conference on Engineering and Product Design Education (EPDE 2014), Enschede, Netherlands: 16th International Conference on Engineering and Product Design Education (EPDE 2014), September 4-5, 2014.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Mechatronic Machine Elements: On Their Relevance in Cyber-Physical Systems",
+      "year": 2013,
+      "citation_raw": "Mechatronic Machine Elements: On Their Relevance in Cyber-Physical Systems Marius Stücheli and Mirko Meboldt 23rd CIRP Design Conference 2013, Bochum, Germany, pp.263-272, Berlin: Springer, March 11-13, 2013.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Using Eye Tracking in the Research of Human Behaviour in Engineering Design",
+      "year": 2013,
+      "citation_raw": "Using Eye Tracking in the Research of Human Behaviour in Engineering Design Mirko Meboldt, Quentin Lohmeyer and Moritz Mussgnug 2013 International Conference on Advances in Social Science, Management and Human Behaviour (SMHB 2013), Zurich, Switzerland, pp.11-15, Santa Barbara, CA: Institute of Research Engineers and Doctors, October 12-13, 2013.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Analyzing visual strategies of novice and experienced designers by eye tracking application",
+      "year": 2013,
+      "citation_raw": "Analyzing visual strategies of novice and experienced designers by eye tracking application Quentin Lohmeyer, Mirko Meboldt and Sven Matthiesen 15th International Conference on Engineering and Product Design Education (EPDE 2013), Dublin, Ireland, pp.202-207, Dublin: Dublin Institute of Technology, September 5-6, 2013.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Eye Tracking, a Method for Engineering Design Research on Engineers' Behavior while Analyzing Technical Systems",
+      "year": 2013,
+      "citation_raw": "Eye Tracking, a Method for Engineering Design Research on Engineers' Behavior while Analyzing Technical Systems Sven Matthiesen, Mirko Meboldt, Anne Ruckpaul and Moritz Mussgnug 19th International Conference on Engineering Design (ICED13), Seoul, Korea: 19th International Conference on Engineering Design (ICED13), August 19-22, 2013.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "A Robust Manipulation Strategy based on Impedance Control Parameters Changes and Smooth Trajectories",
+      "year": 2013,
+      "citation_raw": "A Robust Manipulation Strategy based on Impedance Control Parameters Changes and Smooth Trajectories Leonardo M. Pedro, Guilherme Fernandes, Marius Stücheli, Adriano A.G. Siqueira and Glauco A.P. Caurin International Conference on Advanced Robotics (ICAR 2013), Montevideo, Uruguay, pp.786-792, Piscataway, NJ: IEEE, November 25-29, 2013.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Cooperation-Focused Education in Mechatronic Engineering Design Projects",
+      "year": 2013,
+      "citation_raw": "Cooperation-Focused Education in Mechatronic Engineering Design Projects Sebastian Schmidt, Quentin Lohmeyer, Stefan Krebs, Sören Hohmann and Sven Matthiesen International Conference on Engineering and Product Design Education (E&PDE 2013), Dublin, Ireland, pp.296-301, Glasgow: Dublin Institute of Technology, September 5-6, 2013.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Design for X",
+      "year": 2013,
+      "citation_raw": "24. Symposium \"Design for X\", Hamburg, Germany, pp.97-106, Hamburg: TuTech Verlag, September 19-20, 2013.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Impart 'Design for Production' Knowledge by Application of Functional Prototyping",
+      "year": 2013,
+      "citation_raw": "Impart 'Design for Production' Knowledge by Application of Functional Prototyping Bastian Leutenecker, Quentin Lohmeyer and Mirko Meboldt International conference on engineering and product design eductaion (EPDE 2013), Dublin, Ireland Dublin: Dublin Institute of Technology, September 5-6, 2013.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "The Dilemma of Managing Iterations in Time‐to-market Development Processes",
+      "year": 2012,
+      "citation_raw": "The Dilemma of Managing Iterations in Time‐to-market Development Processes Mirko Meboldt, Matthiesen S. and Quentin Lohmeyer 2nd International Conference on Modelling and Management of Engineering Processes (MMEP 2012), Cambridge, United Kingdom: University of Cambridge, November 29-30, 2012.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Enabling key competencies by educational project work exemplified by teamwork and cooperation",
+      "year": 2008,
+      "citation_raw": "Enabling key competencies by educational project work exemplified by teamwork and cooperation Albert Albers, Norbert Burkhardt, Tobias Deigendesch and Mirko Meboldt 10th International Conference on Engineering and Product Design Education (EPDE08), Barcelona, Spain, pp.805-810, Barcelona: Artyplan Global Printers, September 4-5, 2008.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Piracy Risk and Measure Analysis",
+      "year": 2008,
+      "citation_raw": "Piracy Risk and Measure Analysis A. Albers, L. Marxen, J. Oerding, M Meboldt and T. Schäffer 7th International Heinz Nixdorf Symposium, Paderborn, Germany, pp.233-244, Paderborn: Universität Paderborn, Heinz Nixdorf Institut, February 20-21, 2008.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Interdisciplinary development based on a comprehensive process model",
+      "year": 2008,
+      "citation_raw": "Interdisciplinary development based on a comprehensive process model A. Alber, C. Sauter and Mirko Meboldt 53rd IWK - Internationales wissenschaftliches Kolloquium, Ilmenau, Deutschland: Technische Universität Ilmenau, September 8-12, 2008.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Information Integration and Cooperation in Product Development by utilization of Wikis",
+      "year": 2008,
+      "citation_raw": "Information Integration and Cooperation in Product Development by utilization of Wikis Albert Albers, Deigendesch Tobias and Mirko Meboldt Seventh International Symposium on Tools and Methods of Competitive Engineering (TCME), Kusadasi, Türkei: Seventh International Symposium on Tools and Methods of Competitive Engineering (TCME), April 21-25, 2008.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Semantic Wikis in knowledge management for multidisciplinary product development",
+      "year": 2007,
+      "citation_raw": "Semantic Wikis in knowledge management for multidisciplinary product development Albert Albers, Christian Sauter, Mirko Meboldt and Tobias Deigendesch 18th international DAAM Symposium; Intelligent Manufacturig & Automation: Focus on Creativity, Responsibility and Ethics of Engineers, Zadar, Croatia, pp.5-6, Vienna: DAAAM International Vienna, October 24-27, 2007.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "iPeMM - Integrated Product Development Process Management Model, based on Systems Engineering and Systematic Problem Solving",
+      "year": 2007,
+      "citation_raw": "iPeMM - Integrated Product Development Process Management Model, based on Systems Engineering and Systematic Problem Solving Albert Albers and Mirko Meboldt 16th International Conference on Engineering Design - ICED 07, Paris, France, pp.DS42_P_537 Castle Cary: Design Society, August 28-31, 2007.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Innovation in Middle size companies: A key factor enhancing success",
+      "year": 2007,
+      "citation_raw": "Innovation in Middle size companies: A key factor enhancing success Albert Albers, N. Burkhardt and Mirko Meboldt 3rd International Conference - Virtual Design and Automation, Poznań, Poland: Virtual Design and Automation Centre, June 28-29, 2007.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Innovation Management: The Karlsruher Model of Product Development",
+      "year": 2007,
+      "citation_raw": "Innovation Management: The Karlsruher Model of Product Development Albert Albers, Jochen Oerding and Mirko Meboldt 2007 European Research in Innovation and Management Alliance (ERIMA07'), Bidart, France, pp.213-218, Bidart: ERIMA Publication, March 15-16, 2007.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Wikis as a cooperation and communication platform within Product Development",
+      "year": 2007,
+      "citation_raw": "Wikis as a cooperation and communication platform within Product Development Albert Albers, Mirko Meboldt, Tobias Deigendesch, Moritz Drammer, Claudia Ellmer and Christian Sauter 16th International Conference on Engineering Design - ICED 07, Paris, France, pp.DS42_P_528 Castle Cary: Design Society, October 28-31, 2007.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "SPALTEN Matrix: Product Development Process on the Basis of Systems Engineering and Systematic Problem Solving",
+      "year": 2007,
+      "citation_raw": "SPALTEN Matrix: Product Development Process on the Basis of Systems Engineering and Systematic Problem Solving A. Albers and M Meboldt 17th CIRP Design Conference, Berlin, Germany, pp.43-52, Berlin: Springer, March 26-28, 2007.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "KALEP - Karlsruher Education Model of Product Development and compentence-oriented education for Engineering Design and Product Development",
+      "year": 2006,
+      "citation_raw": "KALEP - Karlsruher Education Model of Product Development and compentence-oriented education for Engineering Design and Product Development Albert Albers and Mirko Meboldt International Design Research Symposium, Seoul, South Korea: International Design Research Symposium, November 10-11, 2006.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Ein neuer Ansatz zur Produktentwicklung basierend auf Systems Engineering und systematischer Problemlösung",
+      "year": 2006,
+      "citation_raw": "Ein neuer Ansatz zur Produktentwicklung basierend auf Systems Engineering und systematischer Problemlösung A. Albers, N. Burkhardt and M Meboldt 15-Jähriges Jubiläum der Fakultät für deutsche Ingenieure- und Betriebswirtschaftsausbildung (FDIBA), Sofia, Bulgaria: 15-Jähriges Jubiläum der Fakultät für deutsche Ingenieure- und Betriebswirtschaftsausbildung (FDIBA), November 23-25, 2006.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "The Karlsruher Education Model for Product Developement KALEP, in higher education",
+      "year": 2006,
+      "citation_raw": "The Karlsruher Education Model for Product Developement KALEP, in higher education A. Albers, N. Burkhardt and M Meboldt 9th International Design Conference - Design 2006, Dubrovnik, Croatia, pp.1049-1056, Zagreb, Croatia: Faculty of Mechanical Engineering and Naval Architecture, Univ. of Zagreb, 15 - 18 May, 2006.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "A new approach in Product Development, based on Systems Engineering and systematic problem solving",
+      "year": 2006,
+      "citation_raw": "A new approach in Product Development, based on Systems Engineering and systematic problem solving Albert Albers and Mirko Meboldt AEDS 2006 Workshop, Pilsen, Czech Republik, pp.5-12, Pilsen: Univ. of West Bohemia, October 27-28, 2006.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "KaLeP - Karlsruher Lehrmodell für Produktentwicklung",
+      "year": 2006,
+      "citation_raw": "KaLeP - Karlsruher Lehrmodell für Produktentwicklung Albert Albers and Mirko Meboldt Deutsche Gesellschaft für wissenschaftliche Weiterbildung und Fernstudium e.V. (DGWF), Jahrestagung, Wissensmanagement und wissenschaftliche Weiterbildung, Karlsruhe, Germany: Deutschen Gesellschaft für wissenschaftliche Weiterbildung und Fernstudium e.V., September 13-15, 2006.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "SPALTEN problem solving methodology in Product Development",
+      "year": 2005,
+      "citation_raw": "SPALTEN problem solving methodology in Product Development A. Albers, N. Burkhardt and M Meboldt International Conference on Engineering Design (ICED 2005), Melbourne, Australia: International Conference on Engineering Design (ICED 2005), August 15-18, 2005.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    },
+    {
+      "title": "Gründungsrelevanz im akademischen Lehrbetrieb",
+      "year": 2004,
+      "citation_raw": "Gründungsrelevanz im akademischen Lehrbetrieb Albert Albers, N. Burkhardt and Mirko Meboldt 10. EXIST Workshop Entrepreneurship Education, Rostock, Germany: 10. EXIST Workshop Entrepreneurship Education, September 28, 2004.",
+      "source_url": "https://pdz.ethz.ch/publications0/conference-contributions.html"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "박수경 PARK, Sukyung",
+  "lab_name": null,
+  "lab_url": "http://biomech.kaist.ac.kr",
+  "publication_urls": [
+    "https://biomech.kaist.ac.kr/?page_id=137"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Guena Park, and Sukyung Park, Personalized Kinematic Constraint-Based Drift Correction for 3D Golf Swing Trajectory Monitoring with a Wrist-Worn IMU, Scientific Reports (Under Review)",
+      "year": 2026,
+      "citation_raw": "[50] Guena Park, and Sukyung Park, Personalized Kinematic Constraint-Based Drift Correction for 3D Golf Swing Trajectory Monitoring with a Wrist-Worn IMU, Scientific Reports (Under Review) [49] Wooyoung Park, Sanghyeon Ju, Minho Shong, and Sukyung Park, A CGM-Derived Late-Phase Glycemic Response Phenotype During Fasted Moderate-Intensity Running, Scientific Reports (Accepted) [48] Minho Chae, and Sukyung Park, Ground Reaction Force Estimation from a Single Wrist-Worn IMU Using Biomechanics-Informed Deep Learning, IEEE Journal of Biomedical and Health Informatics,2026",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Estimating Actual Striking Forces Using Attenuation Properties of Taekwondo Protectors",
+      "year": 2026,
+      "citation_raw": "[47] Minho Chae, Jonghak Hwang, Woosup Han, Sihyun Ryu, Sangkyoon Park, Sukyung Park, Estimating Actual Striking Forces Using Attenuation Properties of Taekwondo Protectors, PLOS ONE 21(1), 2026",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU Based on Biomechanically-Informed Machine Learning, Scientific Reports",
+      "year": 2025,
+      "citation_raw": "[46] Jinsung Jung, Hyerim Lim, Hyunho Jeong, Sameer Upadhye, Joo H. Kim and Sukyung Park, Estimation of Walking Energy Expenditure using a Single Sacrum-Mounted IMU Based on Biomechanically-Informed Machine Learning, Scientific Reports, 25.15, 2025",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "A Time-Efficient Continuous Ramp Protocol for Data-Driven Walking Energy Expenditure Estimation across Multiple Speeds",
+      "year": 2025,
+      "citation_raw": "[45] Hyunho Jeong, and Sukyung Park, A Time-Efficient Continuous Ramp Protocol for Data-Driven Walking Energy Expenditure Estimation across Multiple Speeds, Journal of NeuroEngineering and Rehabilitation 22.206 ,2025.",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Estimation of the ground reaction forces from a single video camera based on the spring-like center of mass dynamics of human walking",
+      "year": 2020,
+      "citation_raw": "[39] Hyunho Jeong, and Sukyung Park, Estimation of the ground reaction forces from a single video camera based on the spring-like center of mass dynamics of human walking, Journal of Biomechanics, Vol 113, 2020",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Spring-loaded inverted pendulum modeling improves neural network estimation of ground reaction forces",
+      "year": 2020,
+      "citation_raw": "[38] Bumjoon Kim, Hyerim Lim, and Sukyung Park, Spring-loaded inverted pendulum modeling improves neural network estimation of ground reaction forces, Journal of Biomechanics, Vol 113, 2020",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Prediction of Lower Limb Kinetics and Kinematics during Walking by a Single IMU on the Lower Back Using Machine Learning, SENSORS",
+      "year": 2020,
+      "citation_raw": "[37] Hyerim Lim, Bumjoon Kim, and Sukyung Park, Prediction of Lower Limb Kinetics and Kinematics during Walking by a Single IMU on the Lower Back Using Machine Learning, SENSORS, Vol 20, 2020",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "A bipedal compliant walking model generates periodic gait cycles with realistic swing dynamics",
+      "year": 2019,
+      "citation_raw": "[36] Hyerim Lim and Sukyung Park, A bipedal compliant walking model generates periodic gait cycles with realistic swing dynamics, Journal of Biomechanics, Vol 91, pp79-84, 2019",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Estimation of Unmeasured Golf Swing of Arm Based on the Swing Dynamics",
+      "year": 2018,
+      "citation_raw": "[35] Lee, Changwon and Park, Sukyung, Estimation of Unmeasured Golf Swing of Arm Based on the Swing Dynamics, INTERNATIONAL JOURNAL OF PRECISION ENGINEERING AND MANUFACTURING, Vol 19, pp745-751, 2018",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Estimation of unmeasured ground reaction force data based on the oscillatory characteristics of the center of mass during human walking",
+      "year": 2018,
+      "citation_raw": "[34] Hansol X. Ryu and Sukyung Park, Estimation of unmeasured ground reaction force data based on the oscillatory characteristics of the center of mass during human walking, Journal of Biomechanics, Vol 71, pp135-143, 2018",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Kinematics of lower limbs during walking are emulated by springy walking model with a compliantly connected, off-centered curvy foot",
+      "year": 2018,
+      "citation_raw": "[33] Hyerim Lim and Sukyung Park, Kinematics of lower limbs during walking are emulated by springy walking model with a compliantly connected, off-centered curvy foot, Journal of Biomechanics, Vol 71, pp119-126, 2018",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Kang Sw.,Choi H.,Park HI.,Choi BG.,Im HB.,Shin DJ.,Jung YG.,Lee JY.,Park HW.,Park SK. and Roh JS",
+      "year": 2017,
+      "citation_raw": "[32] Kang Sw.,Choi H.,Park HI.,Choi BG.,Im HB.,Shin DJ.,Jung YG.,Lee JY.,Park HW.,Park SK. and Roh JS., The Development of an IMU Integrated Clothes for Postural Monitoring Using Conductive Yarn and Interconnecting Technology, SENSORS, Vol 17(11), 2017",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "The bending stiffness of shoes is beneficial to running energetics if it does not disturb the natural MTP joint flexion",
+      "year": 2017,
+      "citation_raw": "[31] Keonyoung Oh and Sukyung Park, The bending stiffness of shoes is beneficial to running energetics if it does not disturb the natural MTP joint flexion, Journal of Biomechanics, Vol 53, pp127-135, 2017",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "A springy pendulum could describe the swing leg kinetics of human walking",
+      "year": 2016,
+      "citation_raw": "[30] Hyunggwi Song, Heewon Park, and Sukyung Park, A springy pendulum could describe the swing leg kinetics of human walking, Journal of Biomechanics, Vol 49(9), pp1504-1509, 2016",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Computational evaluation of load carriage effects on gait balance stability, Computer Methods in Biomechanics and Bio-medical Engineering",
+      "year": 2016,
+      "citation_raw": "[29] Mummolo, C., Park, S., Mangialardi, L., and Kim, J.H., Computational evaluation of load carriage effects on gait balance stability, Computer Methods in Biomechanics and Bio-medical Engineering, Vol 19(11), pp1127-1136, 2016",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "The compliant walking model with a curvy foot reflecting the position of ankle could reproduce the ankle torque profile",
+      "year": 2015,
+      "citation_raw": "[28] Hyerim Lim, Heewon Park and Sukyung Park, The compliant walking model with a curvy foot reflecting the position of ankle could reproduce the ankle torque profile, Journal of Mechanical Science and Technology, Vol 29(6), pp2307-2311, 2015, IF 0.703",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Estimation of sitting posture using the combination of ground reaction force",
+      "year": 2015,
+      "citation_raw": "[27] Hyeob Choi and Sukyung Park, Estimation of sitting posture using the combination of ground reaction force, Journal of Mechanical Science and Technology, Vol 29(4), pp1657-1662, 2015, IF 0.703",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Countermovement strategy changes with vertical jump height to accommodate feasible force constraints",
+      "year": 2014,
+      "citation_raw": "[26] Seyoung Kim, Sukyung Park, and Sangkyu Choi, Countermovement strategy changes with vertical jump height to accommodate feasible force constraints, Journal of Biomechanics, Vols 47(12), pp3162–3168, 2014, IF 2.496",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "A modeling study of mechanical energetic optimality in incline walking",
+      "year": 2014,
+      "citation_raw": "[25] Keonyoung Oh, Jaekwan Ryu, and Sukyung Park, A modeling study of mechanical energetic optimality in incline walking, Journal of Mechanical Science and Technology, Vols 28(4), pp1393-1401, 2014, IF 0.70",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Resonance-based oscillations could describe human gait mechanics under various loading conditions",
+      "year": 2014,
+      "citation_raw": "[24] Myunghyun Lee, Seyoung Kim, and Sukyung Park, Resonance-based oscillations could describe human gait mechanics under various loading conditions, Journal of Biomechanics, Vols 47(1), pp319–322, 2014, IF 2.496",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Chang Keun Jung and Sukyung Park, Compliant bipedal model with the center of pressure excursion associated with oscillatory behavior of the center of mass reproduces the human gait dynamics",
+      "year": 2014,
+      "citation_raw": "[23] Chang Keun Jung and Sukyung Park, Compliant bipedal model with the center of pressure excursion associated with oscillatory behavior of the center of mass reproduces the human gait dynamics, Journal of Biomechanics, Vols 47(1), pp223–229, 2014, IF 2.496, CT(Web of Science): 0, CT(Google): 0",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Increase of push-off propulsion to compensate heel strike loss during step-to-step transition is limited at faster gait speeds",
+      "year": 2013,
+      "citation_raw": "[22] Heewon Park, Sukyung Park, Increase of push-off propulsion to compensate heel strike loss during step-to-step transition is limited at faster gait speeds, International Journal of Precision Engineering and Manufacturing, Vol. 14(5), pp. 825-829, 2013, IF 1.5",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Spring-like gait mechanics observed during walking in both young and older adults",
+      "year": 2013,
+      "citation_raw": "[21] Hyunhwa Hong, Seyoung Kim, Cheolwoong Kim, Soonhyuck Lee and Sukyung Park, Spring-like gait mechanics observed during walking in both young and older adults, Journal of Biomechanics, Vols 46(1), pp77–82, 2013, IF 2.496",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Equalization Filter Design for Downfiring Flat Television Speakers",
+      "year": 2013,
+      "citation_raw": "[20] Ju-Ho Jung, Jung-Woo Choi, Sukyung Park and Yang-Hann Kim, Equalization Filter Design for Downfiring Flat Television Speakers, Applied Acoustics, 2013, IF 1.068",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "A mechanical model of stereocilia that demonstrates a shift in the high-sensitivity region due to the interplay of a negative stiffness and an adaptation mechanism, Bioinspiration & Biomimetics",
+      "year": 2012,
+      "citation_raw": "[19] Changwon Lee and Sukyung Park, A mechanical model of stereocilia that demonstrates a shift in the high-sensitivity region due to the interplay of a negative stiffness and an adaptation mechanism, Bioinspiration & Biomimetics, Vols 7(4):046013, 2012, IF 2.534",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Effect of awareness about sensory conflict to linear motion perception",
+      "year": 2012,
+      "citation_raw": "[18] Hyeob Choi, Yongwoo Yi, Sukyung Park, Effect of awareness about sensory conflict to linear motion perception, Journal of Biomechanical Science and Engineering, 2012 IF N/A",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Gait strategy changes with acceleration to accommodate the biomechanical constraint on push-off propulsion",
+      "year": 2012,
+      "citation_raw": "[17] Keonyoung Oh, Juhyun Baek, and Sukyungp Park, Gait strategy changes with acceleration to accommodate the biomechanical constraint on push-off propulsion, Journal of Biomechanics, Vol. 45(16), pp. 2920-2926, 2012, IF 2.496",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Perturbation-dependent selection of postural feedback gain and its scaling",
+      "year": 2012,
+      "citation_raw": "[16] Seyoung Kim, Christopher G. Atkeson and Sukyung Park, Perturbation-dependent selection of postural feedback gain and its scaling, Journal of Biomechanics, Vol. 45(8), pp1379–1386, 2012, IF 2.496",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "The oscillatory behavior of the CoM facilitates mechanical energy balance between push-off and heel strike",
+      "year": 2012,
+      "citation_raw": "[15] Seyoung Kim and Sukyung Park, The oscillatory behavior of the CoM facilitates mechanical energy balance between push-off and heel strike, Journal of Biomechanics, Vol. 45(2), 2012, IF 2.496",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Leg stiffness increases with speed to modulate gait frequency and propulsion energy",
+      "year": 2011,
+      "citation_raw": "[14] Seyoung Kim and Sukyung Park, Leg stiffness increases with speed to modulate gait frequency and propulsion energy, Journal of Biomechanics, Vol. 44, pp1253-1258, 2011, IF 2.496, CT(Web of Science): 11, CT(Google): 26",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "A gravitational impulse model predicts collision impulse and mechanical work during a step-to-step transition",
+      "year": 2011,
+      "citation_raw": "[13] Jin Yeom and Sukyung Park, A gravitational impulse model predicts collision impulse and mechanical work during a step-to-step transition, Journal of Biomechanics, Vol. 44: 59-67, 2011, IF 2.496, CT(Web of Science): 9, CT(Google): 19",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "A mechanical model of the gating spring mechanism of stereocilia, J Biomech",
+      "year": 2009,
+      "citation_raw": "[12] Koeun Kim and Sukyung Park, A mechanical model of the gating spring mechanism of stereocilia, J Biomech, Vol. 42: 2158-2164, 2009, IF 2.496",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Postural Feed-back Scaling Deficits in Parkinson’s Disease, J Neurophysiology",
+      "year": 2009,
+      "citation_raw": "[11] Seyoung Kim, Fay B. Horak, Patricia Carlson-Kuhta and Sukyung Park, Postural Feed-back Scaling Deficits in Parkinson’s Disease, J Neurophysiology, Vol. 102: 2010-2920, 2009, IF 3.041, CT(Web of Science): 11, CT(Google): 21",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Effect of reduced cutaneous cues on motion perception and postural control, Exp brain research",
+      "year": 2009,
+      "citation_raw": "[10] Yongwoo Yi and Sukyung Park, Effect of reduced cutaneous cues on motion perception and postural control, Exp brain research, Vol. 195: 361-369, 2009, IF 2.168",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "A Conceptual Model of Micro Inertial Sensor Mimick-ing Amplifying Mechanism of the Hair Cells",
+      "year": 2006,
+      "citation_raw": "[9] Koeun Lim, and Sukyung Park, A Conceptual Model of Micro Inertial Sensor Mimick-ing Amplifying Mechanism of the Hair Cells, Key Engineering Materials, Vol. 326-328: 827-830, 2006, IF N/A",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Human Postural Feedback Response Described by Ei-genvector",
+      "year": 2006,
+      "citation_raw": "[8] Seyoung Kim and Sukyung Park, Human Postural Feedback Response Described by Ei-genvector, Key Engineering Materials, Vol. 326-328: 739-742, 2006, IF N/A",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Roll Rotation Cues Influence Roll Tilt Perception Assayed Using a Somatosensory Technique, J Neurophysiol",
+      "year": 2006,
+      "citation_raw": "[7] Sukyung Park, Claire Gianna-Poulin, F. Owen Black, Scott Wood, and Daniel M. Mer-feld, Roll Rotation Cues Influence Roll Tilt Perception Assayed Using a Somatosensory Technique, J Neurophysiol, Vol. 96: 486-491, 2006, IF 3.041",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Feedback Equilibrium Control During Human Standing, Biol, Cybern",
+      "year": 2005,
+      "citation_raw": "[6] A.V. Alexandrov, A.A. Frolov, F.B. Horak, P. Carlson-Kuhta, and S. Park, Feedback Equilibrium Control During Human Standing, Biol. Cybern. Vol. 93: 309-322, 2005, IF 1.933",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Vestibular Per-ception and Action Employ Qualitatively Different Mechanisms: II. VOR and Percep-tual Responses during Combined Tilt&Translation, J Neurophysiol",
+      "year": 2005,
+      "citation_raw": "[5] D. Merfeld, Sukyung Park, C. Gianna-Poulin, F. Black, and S. Wood, Vestibular Per-ception and Action Employ Qualitatively Different Mechanisms: II. VOR and Percep-tual Responses during Combined Tilt&Translation, J Neurophysiol, Vol. 94: 199-205, 2005, IF 3.041",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Vestibular Per-ception and Action Employ Qualitatively Different Mechanisms: I, Frequency Re-sponse of VOR and Perceptual Responses during Translation and Tilt, J Neurophysiol",
+      "year": 2005,
+      "citation_raw": "[4] D. Merfeld, Sukyung Park, C. Gianna-Poulin, F. Black, and S. Wood, Vestibular Per-ception and Action Employ Qualitatively Different Mechanisms: I. Frequency Re-sponse of VOR and Perceptual Responses during Translation and Tilt, J Neurophysiol, Vol. 94: 186-198, 2005, IF 3.041",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "An Optimal Estimator Model of Multi-Sensory Pro-cessing in Human Postural Control",
+      "year": 2005,
+      "citation_raw": "[3] Sukyung Park and Arthur D. Kuo, An Optimal Estimator Model of Multi-Sensory Pro-cessing in Human Postural Control, Key Engineering Materials, Vol. 277-279: 142-147, 2005, IF N/A",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "The Effect of Initial Lean on the Scaling of Postural Feedback Responses",
+      "year": 2005,
+      "citation_raw": "[2] Sukyung Park, Fay B. Horak, and Arthur D. Kuo, The Effect of Initial Lean on the Scaling of Postural Feedback Responses, Key Engineering Materials Vol. 277-279: 148-154, 2005, IF N/A",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    },
+    {
+      "title": "Postural Feedback Responses Scale with Biomechanical Constraints in Human Standing, Experimental Brain Research",
+      "year": 2004,
+      "citation_raw": "[1] Sukyung Park, Fay B. Horak, and Arthur D. Kuo, Postural Feedback Responses Scale with Biomechanical Constraints in Human Standing, Experimental Brain Research, Vol. 154: 417-427, 2004, IF 2.168, CT(Web of Science): 90, CT(Google): 137",
+      "source_url": "https://biomech.kaist.ac.kr/?page_id=137"
+    }
+  ]
+}

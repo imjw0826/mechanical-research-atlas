@@ -1,0 +1,216 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Pierre Lermusiaux",
+  "lab_name": null,
+  "lab_url": "http://mseas.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://mseas.mit.edu/"
+    }
+  ],
+  "attempted_urls": [],
+  "access_errors": [
+    {
+      "url": "http://mseas.mit.edu/",
+      "reason": "Error: CDP command timeout: Page.navigate"
+    }
+  ],
+  "discovered_publication_links": [],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Terrain-Following Coordinates Ocean Models Users' Workshop",
+      "year": 2001,
+      "citation_raw": "Co-Chairman at the \"Terrain-Following Coordinates Ocean Models Users' Workshop\", August 2001",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Terrain-Following Coordinates Ocean Models Users' Workshop",
+      "year": 2003,
+      "citation_raw": "Co-Chairman at the \"Terrain-Following Coordinates Ocean Models Users' Workshop\", August 2001 Scientific Committee, Automated Ocean Sampling Network-II (AOSN-II), 2002-2003 Co-Leader of the End-to-End Uncertainty Modeling Group, ONR, Arlington, VA, April 2003",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Data Assimilation in Ocean Research",
+      "year": 2003,
+      "citation_raw": "Steering Committee, NSF-ONR Workshop on \"Data Assimilation in Ocean Research\", VA, 2003",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Multi-Scale Modelling: Nested Grid and Unstructured Mesh Approaches",
+      "year": 2008,
+      "citation_raw": "Co-Guest Editor, Ocean Dynamics, Springer. Special issue on “Multi-Scale Modelling: Nested Grid and Unstructured Mesh Approaches”, (2007 - 2008)",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Unstructured Mesh Numerical Modeling of Coastal, Shelf and Ocean Flows",
+      "year": 2009,
+      "citation_raw": "Scientific Committee, 8th International Workshop on “Unstructured Mesh Numerical Modeling of Coastal, Shelf and Ocean Flows”, 16-18 Sep 2009 (2008-2009)",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Multi-scale modelling of coastal, shelf and global ocean dynamics",
+      "year": 2010,
+      "citation_raw": "Co-Guest Editor, Ocean Dynamics, Springer. Special issue on “Multi-scale modelling of coastal, shelf and global ocean dynamics”, (2009 - 2010)",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Multi-scale modelling of coastal, shelf and global ocean dynamics",
+      "year": 2010,
+      "citation_raw": "Co-Guest Editor, Ocean Dynamics, Springer. Special issue on “Multi-scale modelling of coastal, shelf and global ocean dynamics”, (2009 - 2010) Scientific Committee, 42nd International Liege Colloquium on Ocean Dynamics, “Multi-parametric observation and analysis of the Sea” (2009-2010) Chair and Organizer, 9th International workshop on Multiscale (Un)-structured mesh numerical Modeling for coastal, shelf, and global ocean dynamics, MIT (IMUM2010)",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Special issue in honor of Allan R. Robinson",
+      "year": 2011,
+      "citation_raw": "Co-Guest Editor, Dynamics of Atmospheres and Oceans, Elsevier, “Special issue in honor of Allan R. Robinson” Co-Chair of the International NATO Maritime Rapid Environmental Assessment (MREA) conference on “Quantifying, Predicting and Exploiting (QPE) maritime environmental uncertainties” Scientific Committee, 10th International workshop on Multiscale (Un)-structured mesh numerical Modeling for coastal, shelf, and global ocean dynamics (IMUM2011)",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Quantifying, Predicting and Exploiting (QPE) maritime environmental uncertainties",
+      "year": 2010,
+      "citation_raw": "Co-Chair of the International NATO Maritime Rapid Environmental Assessment (MREA) conference on “Quantifying, Predicting and Exploiting (QPE) maritime environmental uncertainties” (2010)",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Ocean Integration in Earth System Prediction Capability Data Assimilation",
+      "year": 2011,
+      "citation_raw": "Co-Chair, International Workshop on “Ocean Integration in Earth System Prediction Capability Data Assimilation”, (27-29 Sep 2011)",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Oceanography of the Continental Shelf and Slope: Pioneer Array Science",
+      "year": 2012,
+      "citation_raw": "Co-organizer, “Oceanography of the Continental Shelf and Slope: Pioneer Array Science” Workshop, SMAST, UMass. (4-5 Jun 2012)",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Developing a U.S. Research Agenda to Advance Sub-seasonal to Seasonal Forecasting",
+      "year": 2015,
+      "citation_raw": "National Research Council, Board on Atmospheric Sciences and Climate, Committee Member for a study on “Developing a U.S. Research Agenda to Advance Sub-seasonal to Seasonal Forecasting” for the next 10 years (Jul 2014 - May 2015)",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Intelligent Systems for Geosciences (IS-GEO)",
+      "year": 2015,
+      "citation_raw": "Advisor to a NSF workshop on “Intelligent Systems for Geosciences (IS-GEO)” (Jan 2015 - Mar 2015)",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "P.F.J, Lermusiaux and T.P, Sapsis",
+      "year": 2013,
+      "citation_raw": "Ueckermann, M.P., P.F.J. Lermusiaux and T.P. Sapsis, 2013. Numerical Schemes for Dynamically Orthogonal Equations of Stochastic Fluid and Ocean Flows. J. Comp. Phys., 233, 272-294, doi: 10.1016/j.jcp.2012.08.041.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "T. and P.F.J, Lermusiaux",
+      "year": 2013,
+      "citation_raw": "Sondergaard, T. and P.F.J. Lermusiaux, 2013a. Data Assimilation with Gaussian Mixture Models using the Dynamically Orthogonal Field Eqns. Part I. Theory and Scheme. Mon. Wea. Rev., 141, 6, 1737-1760, doi:10.1175/MWR-D-11-00295.1.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "T. and P.F.J, Lermusiaux",
+      "year": 2013,
+      "citation_raw": "Sondergaard, T. and P.F.J. Lermusiaux, 2013b. Data Assimilation with Gaussian Mixture Models using the Dynamically Orthogonal Field Equations. Part II: Applications. Mon. Wea. Rev., 141, 6, 1761-1785, doi:10.1175/MWR-D-11-00296.1.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "M.E.G.D., T.F, Duda, L.A. te Raa, T. van Zon, P.J, Haley, Jr",
+      "year": 2013,
+      "citation_raw": "Colin, M.E.G.D., T.F. Duda, L.A. te Raa, T. van Zon, P.J. Haley, Jr., P.F.J. Lermusiaux, W.G. Leslie, C. Mirabito, F.P.A. Lam, A.E. Newhall, Y.-T. Lin, J.F. Lynch, 2013. Time-Evolving Acoustic Propagation Modeling in a Complex Ocean Environment, Proceedings of OCEANS - Bergen, 2013 MTS/IEEE , vol., no., pp.1,9, 10-14 June 2013, doi: 10.1109/OCEANS-Bergen.2013.6608051.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Ueckermann and P.F.J, Lermusiaux",
+      "year": 2013,
+      "citation_raw": "Sapsis, T.P., M.P. Ueckermann and P.F.J. Lermusiaux, 2013. Global Analysis of Navier-Stokes and Boussinesq Stochastic Flows using Dynamical Orthogonality, J. Fluid Mech., 734, 83-113. doi:10.1017/jfm.2013.458.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "P.F.J., J, Schröter, S, Danilov, M, Iskandaranu, N, Pinardi and J, Westerink",
+      "year": 2013,
+      "citation_raw": "Lermusiaux, P.F.J., J. Schröter, S. Danilov, M. Iskandaranu, N. Pinardi and J. Westerink, 2013. Multiscale Modeling of Coastal, Shelf and Global Ocean Dynamics, Ocean Dynamics. 63:1341–1344. DOI: 10.1007/s10236-013-0655-8.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "P.F.J, Lermusiaux, F, Martins and M, Cocco",
+      "year": 2014,
+      "citation_raw": "De Dominicis M., S. Falchetti, F. Trotta, N. Pinardi, L. Giacomelli, E. Napolitano, L. Fazioli, R. Sorgente, P.J. Haley Jr., P.F.J. Lermusiaux, F. Martins and M. Cocco, 2014. A Relocatable Ocean Model in support of environmental emergencies - The Costa Concordia emergency case. Ocean Dynamics, 64, 5:667–688. DOI 10.1007/s10236-014-0705-x",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Integrated Ocean Dynamics and Acoustics",
+      "year": 2014,
+      "citation_raw": "Duda, T.F., Y.-T. Lin, A.E. Newhall, K.R. Helfrich, W.G. Zhang, M. Badiey, P.F.J. Lermusiaux, J.A. Colosi, and J.F. Lynch, 2014. The “Integrated Ocean Dynamics and Acoustics” (IODA) Hybrid Modeling Effort, Proceedings of the international conference on Underwater Acoustics - 2014 (UA2014), 621-628.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "P.F.J, Lermusiaux, M.P, Ueckermann and P.J, Haley, Jr",
+      "year": 2014,
+      "citation_raw": "Lolla, T., P.F.J. Lermusiaux, M.P. Ueckermann and P.J. Haley, Jr., 2014a. Time-Optimal Path Planning in Dynamic Flows using Level Set Equations: Theory and Schemes. Ocean Dynamics. DOI: 10.1007/s10236-014-0757-y.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "and P.F.J, Lermusiaux",
+      "year": 2014,
+      "citation_raw": "Lolla, T., P.J. Haley, Jr. and P.F.J. Lermusiaux, 2014b. Time-Optimal Path Planning in Dynamic Flows using Level Set Equations: Realistic Applications. Ocean Dynamics. DOI: 10.1007/s10236-014-0760-3.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "P.F.J, Lermusiaux, P.J, Haley Jr",
+      "year": 2014,
+      "citation_raw": "Duda T.F., W.G. Zhang, K.R. Helfrich, A.E. Newhall, Y.-T. Lin, J.F. Lynch, P.F.J. Lermusiaux, P.J. Haley Jr., J. Wilkin, 2014. Issues and Progress in the Prediction of Ocean Submesoscale Features and Internal Waves. OCEANS'14 MTS/IEEE.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "Lermusiaux P.F.J, T, Lolla, P.J, Haley, Jr",
+      "year": 2015,
+      "citation_raw": "Lermusiaux P.F.J, T. Lolla, P.J. Haley. Jr., K. Yigit, M.P. Ueckermann, T. Sondergaard and W.G. Leslie, 2015. Science of Autonomy: Time-Optimal Path Planning and Adaptive Sampling for Swarms of Ocean Vehicles. Chapter 11, Springer Handbook of Ocean Engineering: Autonomous Ocean Vehicles, Subsystems and Control, Tom Curtin (Ed.). In press.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": null,
+      "year": 2015,
+      "citation_raw": "Subramani, D.N., Lolla, T., Haley, P.J. Jr. and Lermusiaux, P.F.J., 2015. A Stochastic Optimization Method for Energy-based Path Planning. Dynamic Data-driven Environmental Systems Science (DyDESS) Conference (Eds. Ravela, Sandu et al.), Lecture Notes In Computer Science, Springer, In press.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": null,
+      "year": 2015,
+      "citation_raw": "Haley, P.J., Jr., A. Agarwal, P.F.J. Lermusiaux, 2015. Optimizing Velocities and Transports for Complex Coastal Regions and Archipelagos. Ocean Modeling. In press.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "T. and P.F.J, Lermusiaux",
+      "year": 2015,
+      "citation_raw": "Lolla, T. and P.F.J. Lermusiaux, 2015. A Forward Reachability Equation for Minimum-Time Path Planning in Strong Dynamic Flows. SIAM Journal on Control and Optimization, sub-judice.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "M.P. and P.F.J, Lermusiaux",
+      "year": 2015,
+      "citation_raw": "Ueckermann, M.P. and P.F.J. Lermusiaux, 2015. Hybridizable Discontinuous Galerkin Projection Methods for Navier-Stokes and Boussinesq Equations. Journal of Computational Physics, sub-judice.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    },
+    {
+      "title": "and P.F.J, Lermusiaux",
+      "year": 2015,
+      "citation_raw": "Lolla T., P.J. Haley, Jr. and P.F.J. Lermusiaux, 2015. Path Planning in Complex Multiscale Ocean Flows: Coordination and Dynamic Obstacles, Ocean Modeling, sub-judice.",
+      "source_url": "https://meche.mit.edu/people/faculty/pierrel@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ]
+}

@@ -1,0 +1,1549 @@
+=== https://srl.ethz.ch/publications/journal-articles.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Soft Robotics Lab
+Main Navigation
+Lab News
+The Group
+Open Position
+Research Areas
+Research Platforms
+Education
+Publications
+Partnerships & Spin-offs
+Search
+Departments
+ETH Zurich
+D-MAVT
+IRIS
+Soft Robotics
+Language Selection
+English
+You are here
+Homepage
+Publications
+Journal Articles
+Journal Articles
+
+The group's journal and review articles can be found below. If you are looking for a full list of all type of publications, please visit the parent page.
+
+High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing
+Jaehoon Kim, Boshi An, Lazaros Christoforidis, Michail Papadakis, Victor Kartsch and Robert K. Katzschmann
+IEEE Robotics and Automation Letters, vol. 11: no. 12, pp. 14164-14171, IEEE, 2026.
+external page:
+DOI: 10.1109/lra.2026.3741779
+external page:
+Research Collection
+Abstract 
+
+Dexterous robotic hands require high-speed multimodal sensing across many degrees of freedom, yet existing readout architectures often impose trade-offs between sensor count, wiring complexity, and sampling bandwidth. This paper presents a scalable analog sensor readout architecture based on a serial-in parallel-out (SIPO) shift-register principle. The proposed architecture supports versatile integration of heterogeneous analog-output sensors, scalable expansion using only three signal lines between sensor modules, and fast, configurable sampling. We validate the approach on a tendon-driven robotic hand integrating 16 joint sensor modules and one four-channel tactile sensor module, enabling acquisition of 20 sensor channels at a full-scan rate of 1 kHz, with stable operation up to 1.5 kHz. Joint sensor characterization showed a maximum slope absolute percentage error (APE) of 0.446% and sub-degree estimation error, indicating that the proposed readout system preserves sensing performance. For tactile sensing, LSTM-based models enabled real-time force estimation and contact-location classification at 1 kHz. System-level experiments showed that the joint sensors provided more accurate feedback than motor-based estimation during interaction. Closed-loop experiments further demonstrated improved joint trajectory tracking using joint-sensor feedback and force-controlled object pinching using tactile feedback. The proposed architecture offers a practical path toward sensorized robotic hands for dexterous manipulation.
+
+A Benchmark of Dexterity for Anthropomorphic Robotic Hands
+Davide Liconti, Yuning Zhou, Yasunori Toshimitsu, Ronan Hinchet, Aurel X. Appius and Robert K. Katzschmann
+IEEE Robotics and Automation Letters, vol. 11: no. 11, pp. 13287-13294, IEEE, 2026.
+external page:
+DOI: 10.1109/LRA.2026.3735899
+external page:
+Research Collection
+Abstract 
+
+Dexterity is a central yet ambiguously defined concept in anthropomorphic robotic hands. The term is used inconsistently, with systems evaluated under disparate criteria, making comparisons across designs difficult. This calls for a unified, performance-based definition of dexterity grounded in measurable outcomes rather than proxy metrics. We introduce POMDAR, a benchmark that formalizes dexterity as task performance across a structured set of manipulation and grasping motions, systematically derived from established taxonomies in human motor control. It is implemented in real-world and simulation, with four manipulation configurations: vertical and horizontal configurations, continuous rotation, and pure grasping. The task designs contain mechanical scaffolding to constrain task motion, suppress compensatory strategies, and enable unambiguous measurement. We define a quantitative metric combining task correctness and execution speed, measuring dexterity as throughput. This enables objective, reproducible, and interpretable evaluation across hand designs. POMDAR provides an open-source, standardized, and taxonomy-grounded benchmark for consistent comparison of anthropomorphic robot hands to facilitate the evaluation and optimization of anthropomorphic robotic hands.
+
+Nonlinear spectral modeling and control of soft-robotic muscles from data
+Leonardo Bettini, Amirhossein Kazemipour, Robert K. Katzschmann and George Haller
+Nature Communications, vol. 17: no. 1, pp. 10897, Nature, 2026.
+external page:
+DOI: 10.1038/s41467-026-77664-0
+external page:
+Research Collection
+Abstract 
+
+Artificial muscles are essential for compliant musculoskeletal robotics but complicate control due to nonlinear multiphysics dynamics. Electrohydraulic actuators, a class of soft artificial muscles, offer high performance but exhibit memory effects and hysteresis. Here we present a data-driven reduction and control strategy grounded in spectral submanifold theory. In the adiabatic regime, where inputs vary slowly relative to intrinsic transients, trajectories rapidly converge to a low-dimensional slow manifold. We learn an explicit input-to-output map on this manifold directly from forced-response trajectories, eliminating the need for decay experiments generated by large step inputs, which can induce pronounced hysteretic behavior and are often unrepresentative of normal operating conditions. We deploy the spectral-submanifold-based model for real-time control of an antagonistic electrohydraulic-clutch joint. This approach yields a substantial reduction in tracking error compared to feedback-only and feedforward-only baselines under identical settings. This record-and-control workflow enables rapid characterization and high-performance control of soft muscles and muscle-driven joints without detailed physics-based modeling.
+
+Co-optimized volumetric muscle design for large dynamic deformations in versatile biohybrid robots
+Aiste Balciunaite, Mike Yan Michelis, Miriam Filippi, Pablo Paniagua Hernández, Oncay Yasa and Robert K. Katzschmann
+Nature Communications, vol. 17: no. 1, pp. 10732, Nature, 2026.
+external page:
+DOI: 10.1038/s41467-026-77655-1
+external page:
+Research Collection
+Abstract 
+
+Biohybrid robots use engineered living muscle tissue as actuators, offering self-organization, adaptability, and self-healing. Current designs focus on improving muscle physiology but overlook the interplay between muscle and scaffold in the robot’s function. We present a computational and experimental pipeline to co-optimize the form and function of centimeter-scale bioactuators. Using a soft-body simulation framework, we modeled unified muscle–scaffold systems and applied an evolutionary algorithm and targeted parameter sweeps to maximize range of motion. The resulting bioactuators, fabricated by integrating skeletal muscle tissue with microgrooved hydrogel scaffolds, feature a continuous interface enabling efficient force transmission and large, rapid deformations. They achieved up to an eleven-fold increase in range of motion over previous designs of similar muscle volume, powering robots capable of jumping, swimming, walking, and gripping, and scalable into multi-unit systems. By unifying modeling, optimization, and fabrication, we demonstrate how such a pipeline accelerates the development of high-performance biohybrid robots.
+
+Emerging Frontiers and Technological Challenges in Soft Robotics
+Jiangtao Su, Shun An, Lucia Beccai, Lei Chen, Xingyu Chen, Shengshun Duan, Lioz Etgar, Huajian Gao, Amir D. Gat, Qi Ge, Shang Gong, Cuntai Guan, Robert K. Katzschmann, Cecilia Laschi, Pooi See Lee, Jiaji Li, Yifan Li, Chwee Teck Lim, Qingyang Liu, Ziwei Liu and et al.
+ACS Nano, vol. 20: no. 35, pp. 24135-24167, American Chemical Society, 2026.
+external page:
+DOI: 10.1021/acsnano.6c13106
+external page:
+Research Collection
+Abstract 
+
+Soft robotics is evolving from a field centered on compliant mechanisms toward a broader paradigm of embodied physical intelligence, in which materials, mechanics, sensing, and computation are deeply integrated. Despite rapid progress, major challenges remain in actuation, perception, autonomy, scalability, and real-world deployment. In this Nano Focus article, we highlight emerging frontiers and technological challenges spanning multifunctional materials, distributed sensing, additive manufacturing, artificial intelligence, and biohybrid systems. Advances in nanoscience and nanotechnology increasingly underpin these developments by enabling the integration of sensing, actuation, and adaptive functionalities across length scales. Collectively, these advances are establishing a foundation for intelligent matter, programmable physical intelligence, and life-like adaptive systems.
+
+Integrated by Design: A Hybrid Robotic Palm Fusing a Functionally-Dense Compliant Matrix with an Actuated Skeleton
+Oliver S. Neumann, Lena S. Ewering and Robert K. Katzschmann
+IEEE Robotics and Automation Letters, vol. 11: no. 8, pp. 9915-9921, IEEE, 2026.
+external page:
+DOI: 10.1109/LRA.2026.3703500
+external page:
+Research Collection
+Abstract 
+
+Inspired by the human hand, this work presents a hybrid soft-rigid architecture for a robotic palm to enhance dexterity and robustness. While soft-robotic hands often lack the structural integrity to handle heavy objects, classical rigid designs are sensitive to impacts and frequently neglect the palm's functional role. We bridge that gap by combining soft compliance with skeletal elements for robust force transmission. In our design, rigid metacarpal bones house local actuation and transmission units. These units receive torque from forearm-based motors via flexible shafts to drive tendon actuation. We embed these elements in a 3D-printed silicone matrix, which eliminates the design restrictions of traditional moulding. Ball joints for the thumb and little finger enable the formation of three palmar arches. In experiments, the palm achieved active and passive deformations of 74% and 67%, respectively, relative to its neutral width. This shape adaptability offers practical benefits in confined spaces, where internal palm movements enable new grasping and manipulation techniques previously difficult to achieve with traditional designs.
+
+Machine learning approaches for biomechanical and bioelectrical regulation in developmental tissue engineering
+Miriam Filippi and Robert K. Katzschmann
+Bio-Design and Manufacturing, vol. 9: no. 4, pp. 726-755, Springer, 2026.
+external page:
+DOI: 10.1631/bdm.2500560
+external page:
+Research Collection
+Abstract 
+
+Developmental tissue engineering is increasingly guided by the principles of morphogenesis, cellular self-organization, and dynamic microenvironmental regulation, moving beyond static scaffold design and towards adaptive, development-inspired strategies. Integrating insights from developmental biology has revealed new structural-functional relationships and more robust tissue maturation pathways, thereby unlocking biofabrication strategies that harness intrinsic biological regulatory mechanisms rather than imposing static architectures on engineered tissue. This review examines machine learning (ML) applications to tissue engineering within a developmental context, emphasizing how bioelectric, biomechanical, and morphogenic cues influence cell fate, tissue organization, and adaptive growth. We highlight how data-driven and physics-based models, surrogate modeling, and generative design can integrate complex biological data, simulate evolving microenvironments, and guide experimental biofabrication. Despite these advances, significant challenges remain, such as the integration of heterogeneous and multiscale biological data, limitations in model interpretability and generalizability, and ethical and regulatory considerations regarding data use and artificial intelligence (AI)-guided decision-making in biofabrication applications. Through the coupling of developmental principles with computational tools, ML-driven tissue engineering is nevertheless well positioned to enable more predictive, adaptive, and reproducible paradigms for creating functional living systems.
+
+Sensorized Engineered Tissues with Built-in Thermoregulation and Nutrient Supply
+Antonia Georgopoulou, Jakob Schreiner, Miriam Filippi, Aiste Balciunaite, Robert K. Katzschmann and Esther Amstad
+Advanced Functional Materials, vol. 36: no. 38, pp. e30747, Wiley-VCH, 2026.
+external page:
+DOI: 10.1002/adfm.202530747
+external page:
+Research Collection
+Abstract 
+
+Engineered tissues are widely used to replicate and restore biological structures; however, their functionality critically depends on high cell survival. Cell viability is often compromised when tissues are handled or stored outside controlled environments due to temperature fluctuations and nutrient depletion. While incubators can mitigate these limitations, maintaining stable conditions during handling and transport remains challenging. To address this challenge, we introduce a hydrogel-based tissue engineering scaffold with integrated thermoregulation and nutrient delivery. The scaffold is based on granular hydrogels whose interstitial spaces are functionalized with the conductive polymer poly(3,4-ethylenedioxythiophene) polystyrene sulfonate (PEDOT:PSS), which imparts electronic conductivity, while Zn2⁺ ions enhance ionic conductivity. These additives enable Joule heating, providing control over the substrate temperature. Continuous passive nutrient delivery is achieved by functionalizing the substrate with cell media-loaded polyelectrolyte microfragments. This hydrogel-based platform sustains homeostatic conditions without the need for external incubators, improving cell viability and resilience, which is key, for example, for point-of-care testing and personalized medicine.
+
+General oblique projections for model reduction via spectral submanifolds
+Leonardo Bettini, Amirhossein Kazemipour, Robert K. Katzschmann and George Haller
+Chaos, vol. 36: no. 5, pp. 053122, American Institute of Physics, 2026.
+external page:
+DOI: 10.1063/5.0319241
+external page:
+Research Collection
+Abstract 
+
+Slow spectral submanifolds (SSMs) are low-dimensional, attracting, invariant surfaces in the phase space of a dynamical system that carry the dominant nonlinear dynamics. Nearby trajectories rapidly converge to such slow SSMs and synchronize with its internal dynamics thereby enabling mathematically rigorous model reduction to the SSM. In general, oblique projections are required for optimally associating full trajectories off the SSM to their SSM-reduced counterparts. In this work, we establish a rigorous mathematical mapping of the SSM onto its tangent space via general oblique projections and develop a data-driven procedure to efficiently construct SSM-based reduced-order models using these projections. Our approach applies irrespective of the SSM dimension and assumes only limited trajectory information. We illustrate the method on numerical and experimental examples, including nonlinear beam oscillations and artificial muscle actuators.
+
+Biocompatible Ink Optimization Enables Functional Volumetric Bioprinting With Xolography
+Erik Brauer, Aiste Balciunaite, Matthias R. Kollert, Julian Weihs, Raphael S. Knecht, Rose Behncke, Susanna Quach, Niklas Felix König, Asia Badolato, Stella Monestier, Simone Bersini, Matteo Moretti, Miriam Filippi, René Hägerling, Milad Rezvani, Stefan Hecht, Ansgar Petersen and Robert K. Katzschmann
+Advanced Materials, vol. 38: no. 6, pp. e12058, Wiley-VCH, 2026.
+external page:
+DOI: 10.1002/adma.202512058
+external page:
+Research Collection
+Abstract 
+
+Xolography is a novel linear volumetric manufacturing technique that offers unparalleled precision and speed. Yet, its application to bioprinting remains limited due to insufficient understanding of biocompatibility constraints. Here, this work establishes fundamental design principles for cell-compatible Xolography bioinks by dissecting the effects of extracellular pH, osmolality, and lysosomotropic stress on cell viability and function. By systematically studying the tolerances for these parameters, this work defines a framework for bioink formulations that enables fast, support-free fabrication of complex designs with maintained cell viability and function as validated in different murine and human cell lines, primary human cells and induced pluripotent stem cell (iPSC)-derived cells. These results show that, unlike triethanolamine, BisTris indeed can function as a fully biocompatible co-initiator enabling cell viability beyond 90% as well as uncompromised metabolic activity and differentiation performance when used in a tightly controlled formulation, contrasting previous reports. This work showcases the biomedical potential of the formulation by achieving fibroblast-driven extracellular matrix (ECM) formation, endothelial sprouting from pre-vascularized spheroids, and maintenance of an iPSC-derived hepatocyte differentiation phenotype within Xolography-printed constructs. These advancements transform Xolography into a powerful and foremost reliable bioprinting platform for fabrication of complex, cell-laden structures for versatile applications in tissue engineering, organ-on-a-chip models, and regenerative medicine.
+
+From Lab to Landscape: Environmental Biohybrid Robotics for Ecological Futures
+Miriam Filippi
+Advanced Robotics Research, pp. e202500196, Wiley-VCH, 2026.
+external page:
+DOI: 10.1002/adrr.202500196
+external page:
+Research Collection
+Abstract 
+
+Biohybrid robots merge living cells with synthetic systems, promising to enable sensing, movement, and adaptation beyond the reach of conventional machines. By integrating natural living components, they offer a transformative vision for ecological robotics, capable of interacting with and contributing to natural environments. Yet, most existing biohybrids remain confined to laboratories and controlled culture systems, limiting their potential for real‐world applications. Extending their reach to such scenarios requires embedding physiological, protective, and informational capacities to sustain survival in dynamic habitats. This perspective proposes viewing biohybrid robots not as isolated machines, but as ecological participants whose function emerges from exchanges with their surroundings. However, embracing a creative vision of ecological biohybrid robots means acknowledging both its promise and the formidable steps required to turn it into reality. Thus, key challenges for deploying diverse classes of biohybrids in natural settings are described, considering environmental variability, mobility constraints, and physiological fragility. New conceptual and technological directions are suggested to inspire the field, encouraging researchers to design biohybrids that are not only operationally robust but also ecologically integrated and participatory. Ultimately, the future of biohybrid robotics lies in machines that are not just tools, but active partners in sustaining life on our planet.
+
+Volumetric 3D Printing and Melt‐Electrowriting to Fabricate Implantable Reinforced Cardiac Tissue Patches
+Lewis Scott Jones, Hector Rodriguez Cetina Biefer, Manuel Mekkattu, Quinten Thijssen, Allesio Amicone, Anna Bock, Miriam Weisskopf, Dennis Zorndt, Debora Meier, Li Zheng, Melanie Generali, Robert K. Katzschmann and Omer Dzemali
+Advanced Materials, vol. 37: no. 45, pp. 2504765, Wiley-VCH, 2025.
+external page:
+DOI: 10.1002/adma.202504765
+external page:
+Research Collection
+Abstract 
+
+Cardiac patches to repair myocardial defects require mechanically stable materials that prevent bleeding and can be implanted via suturing. The current clinical standard, bovine pericardial patches (BPPs), serve this purpose but do not degrade or integrate with the myocardium, limiting their long‐term effectiveness. Here, we present the reinforced cardiac tissue patch (RCPatch). This multimaterial patch comprises a stiffness‐tuned, cardiomyocyte‐infiltrated 3D metamaterial and a suturable, hydrogel‐infiltrated mesh to reduce permeability and bleeding. Anisotropic metamaterials are designed and computationally optimized using a generative modeling approach and fabricated from poly(ε‐caprolactone) (PCL) via volumetric 3D printing (VP). The metamaterial supports the infiltration of cardiomyocytes, which are viable and contract in vitro. The implantability and low blood permeability of the patch is enabled by adding a melt‐electrowritten (MEW) mesh infiltrated with a fibrin hydrogel. In an acute large animal trial, the RCPatch was applied on an induced myocardial defect, where it withstood intraventricular blood pressure, prevented bleeding, and enabled hemodynamic restabilization (intraventricular pressure of 81 mmHg before, vs 66 mmHg after implantation). These findings establish a scalable framework for fabricating cardiac tissue patches that integrate mechanical reinforcement with biological function, offering a surgically implantable and future regenerative solution for intraventricular myocardial repair.
+
+PokeFlex: A Real-World Dataset of Volumetric Deformable Objects for Robotics
+Jan Obrist, Miguel Zamora, Hehui Zheng, Ronan Hinchet, Firat Ozdemir, Juan José Zarate, Robert K. Katzschmann and Stelian Coros
+IEEE Robotics and Automation Letters, vol. 10: no. 10, pp. 10586-10593, IEEE, 2025.
+external page:
+DOI: 10.1109/LRA.2025.3600148
+external page:
+Research Collection
+Abstract 
+
+Data-driven methods have shown great potential in solving challenging manipulation tasks; however, their application in the domain of deformable objects has been constrained, in part, by the lack of data. To address this lack, we propose PokeFlex, a dataset featuring real-world multimodal data that is paired and annotated. The modalities include 3D textured meshes, point clouds, RGB images, and depth maps. Such data can be leveraged for several downstream tasks, such as online 3D mesh reconstruction, and it can potentially enable underexplored applications such as the real-world deployment of traditional control methods based on mesh simulations. To deal with the challenges posed by real-world 3D mesh reconstruction, we leverage a professional volumetric capture system that allows complete 360º reconstruction. PokeFlex consists of 18 deformable objects with varying stiffness and shapes. Deformations are generated by dropping objects onto a flat surface or by poking the objects with a robot arm. Interaction wrenches and contact locations are also reported for the latter case. Using different data modalities, we demonstrated a use case for our dataset training models that, given the novelty of the multimodal nature of Pokeflex, constitute the state-of-the-art in multi-object online template-based mesh reconstruction from multimodal data, to the best of our knowledge.
+
+Bioprinting of piezoresistive organohydrogel networks for advanced real-time mechanosensing in engineered tissue models
+Miriam Filippi, Asia Badolato, Antonia Georgopoulou, Diana Mock, Jakob Schreiner, Mike Yan Michelis, Esther Amstad and Robert K. Katzschmann
+Trends in Biotechnology, vol. 43: no. 10, pp. 2509-2538, Cell Press, 2025.
+external page:
+DOI: 10.1016/j.tibtech.2025.05.026
+external page:
+Research Collection
+Abstract 
+
+Understanding biomechanics in 3D cell culture is key to advancing tissue engineering, yet integrating real-time sensing into soft tissues remains a challenge. We developed a stretchable, piezoresistive hydrogel by combining PEDOT:PSS with a polyvinyl alcohol–sodium alginate matrix, optimized for detecting mechanical stimuli. This conductive organohydrogel exhibited a linear strain response. It was co-printed with a muscle cell-laden bioink to fabricate complex tissue architectures, maintaining structural stability and supporting tissue maturation. The embedded conductive hydrogel functioned as a flexible strain sensor, capable of detecting both bulk and localized mechanical inputs, with high sensitivity (0.054 per unit strain) and a strain detection limit of approximately 3%. Sensor data enabled spatial mapping of mechanical forces, offering a new strategy for real-time mechanosensing in engineered tissues. This approach provides a novel solution for integrating soft, biocompatible sensors into living tissues for applications in biomechanics and regenerative medicine.
+
+Magnetic Soft Robots for Targeted Bacterial Delivery and Enhanced Tumor Spheroid Disaggregation
+Tamara Krauss, Öncay Yasa, Vitaly Pustovalov, Miriam Filippi, Salvador Pané and Robert K. Katzschmann
+Advanced Intelligent Systems, vol. 7: no. 10, pp. 2500257, Wiley-VCH, 2025.
+external page:
+DOI: 10.1002/aisy.202500257
+external page:
+Research Collection
+Abstract 
+
+Bacterial cancer therapy has great potential due to the mobility of bacteria within tissues and their active function in tumor localization. However, rapid uncontrolled division and off-target distribution of bacteria hinder their therapeutic use. To enhance the bacteria's targeting ability, bacteria are modified with magnetic materials that respond to external control signals. Nonetheless, this approach still tackles the rapid division of bacteria, their slow locomotion speed, and the control of their localization. Therefore, it is proposed to confine bacteria within a more extensive hydrogel-based platform that can be controlled with external stimuli. Specifically, a millimeter-scale magnetic soft robot incorporating probiotic bacteria is reported, which allows for the rapid, concentrated, and targeted delivery of living therapeutics with external alternating magnetic fields. In addition to remaining viable and multiplying within the hydrogel network, the bacteria escape from the robot after one hour and successfully disrupt colorectal tumor spheroids in vitro. Moreover, this robot demonstrates mobility across rough terrain made up of multiple materials and can target a polyp inside a phantom of the colon. Overall, this magnetic soft robotic platform provides a new strategy for a potential targeted cancer treatment based on the concentrated delivery of tens of millions of bacteria.
+
+Sensor-Embedded Muscle for Closed-Loop Controllable Actuation in Proprioceptive Biohybrid Robots
+Miriam Filippi, Aiste Balciunaite, Antonia Georgopoulou, Pablo Paniagua, Felix Drescher, Minghao Nie, Shoji Takeuchi, Frank Jörg Clemens and Robert K. Katzschmann
+Advanced Intelligent Systems, vol. 7: no. 10, pp. 2400413, Wiley-VCH, 2025.
+external page:
+DOI: 10.1002/aisy.202400413
+external page:
+Research Collection
+Abstract 
+
+Biohybrid robots are soft robots that exploit unique characteristics of biological cells and tissues for motion generation. Skeletal muscle tissue-based bioactuators respond to externally applied stimuli, such as electrical fields. However, current bioactuation systems rely on open-loop control strategies that lack knowledge of the actuator's state. The regulation of output force and position of biohybrid robots requires self-sensing control systems that combine bioactuators with sensors and control paradigms. Herein, a soft, fiber-shaped mechanical sensor based on a piezoresistive composite is proposed that efficiently integrates with engineered skeletal muscle tissue and senses its contracting states in a cell culture environment in the presence of applied electrical fields. After testing the sensor's insulation and biocompatibility, its sensitivity for typical strains (<1%) is characterized, and its ability is proven to detect motions from contractile skeletal muscle tissue constructs. Finally, it is shown that the sensor response can feed an autonomous control system, thus demonstrating the first proprioceptive biohybrid robot that senses and responds to its contraction state. In addition to inspiring implantable systems, biomedical models, and other bioelectronic devices, the proposed technology will confer biohybrids with decisional autonomy, thus driving the paradigm shift between bioactuators and intelligent biohybrid robots.
+
+Bio-hybrids: When Robots Come Alive
+Miriam Filippi and Robert K. Katzschmann
+Advanced Intelligent Systems, vol. 7: no. 10, pp. 2500822, Wiley-VCH, 2025.
+external page:
+DOI: 10.1002/aisy.202500822
+external page:
+Research Collection
+Multicellular muscle-tendon bioprinting of mechanically optimized musculoskeletal bioactuators with enhanced force transmission
+Miriam Filippi, Diana Mock, Judith Fuentes, Mike Yan Michelis, Aiste Balciunaite, Pablo Paniagua, Raoul Hopf, Adina Barteld, Selina Eng, Asia Badolato, Jess Gerrit Snedeker, Maria Guix, Samuel Sánchez and Robert K. Katzschmann
+Science Advances, vol. 11: no. 29, pp. eadv2628, AAAS, 2025.
+external page:
+DOI: 10.1126/sciadv.adv2628
+external page:
+Research Collection
+Abstract 
+
+Biohybrid actuators leveraging living muscle tissue offer the potential to replicate natural motion for biomedical and robotic applications. However, challenges such as limited force output and inefficient force transfer at tissue interfaces persist. The myotendinous junction, a specialized interface connecting muscle to the tendon, plays a critical role in efficient force transmission for movement. Engineering muscle-tendon units in vitro is essential for replicating native musculoskeletal functions in biohybrid actuators. Here, we present a three-dimensionally bioprinted system integrating skeletal muscle tissue with tendon-mimicking anchors containing fibroblasts, forming a biomimetic interdigitated myotendinous junction. Using computational models, we optimized muscle geometries to enhance deformation and force generation. The engineered system improved mechanical stability, myofiber maturation, and force transmission, generating contractile forces of up to 350 micronewtons over a 3-month period. This work highlights how biomimetic designs and mechanical optimization can advance bioactuator technologies for applications in medicine and robotics.
+
+Blurring the lines between printed machines and living robots
+Robert K. Katzschmann and Thomas Jakob Konrad Buchner
+Science Advances, vol. 11: no. 29, pp. eaea2482, AAAS, 2025.
+external page:
+DOI: 10.1126/sciadv.aea2482
+external page:
+Research Collection
+Inverse reinforcement learning for objective discovery in collective behavior of artificial swimmers
+Daniel Wälchli, Pascal Weber, Michail Chatzimanolakis, Robert K. Katzschmann and Petros Koumoutsakos
+Physical Review Fluids, vol. 10: no. 6, pp. 064901, American Physical Society, 2025.
+external page:
+DOI: 10.1103/646F-DT2K
+external page:
+Research Collection
+Abstract 
+
+Collective phenomena in fluid environments exhibit fascinating dynamics, observed in fish schools, bird flocks, and bacteria colonies. What are the benefits for individuals or groups in collective swimming? In this paper, we introduce inverse reinforcement learning (IRL) as a new approach to address this question. In IRL, rewards of individuals or a group are inferred through observations of their states and actions. This is in contrast with forward optimization or reinforcement learning approaches, where an objective is specified and states and actions are inferred. The algorithm is demonstrated for a group of four artificial swimmers in a two-dimensional viscous flow described by the Navier-Stokes equations. We examine the capabilities of IRL in the discovery of group and individual objectives in the collective behavior of the swimmers. We demonstrate the ability to distill a reward function from efficient swimming patterns. The reward functions are interpreted using sensitivity analysis and symbolic regression techniques. In this paper, we use synthetic data for observations and trajectories, generated by a policy that is learned first by performing forward reinforcement learning with the goal of maximizing swimming efficiency. The IRL methodologies are readily applicable to real-world and experimental data of natural swimmers. The study introduces a new direction for bioinspired fluid mechanics by, not a priori specification of objective functions, but discovering them from observations of natural and artificial swimmers.
+
+Model-Based Capacitive Touch Sensing in Soft Robotics: Achieving Robust Tactile Interactions for Artistic Applications
+Carolina Silva-Plata, Carlos Rosel, Barnabas Gavin Cangan, Hosam Alagi, Björn Hein, Robert K. Katzschmann, Rubén Fernández, Yosra Mojtahedi and Stefan Escaida Navarro
+IEEE Robotics and Automation Letters, vol. 10: no. 5, pp. 4596-4603, IEEE, 2025.
+external page:
+DOI: 10.1109/LRA.2025.3539940
+external page:
+Research Collection
+Abstract 
+
+In this letter, we present a touch technology to achieve tactile interactivity for human-robot interaction (HRI) in soft robotics. By combining a capacitive touch sensor with an online solid mechanics simulation provided by the SOFA framework, contact detection is achieved for arbitrary shapes. Furthermore, the implementation of the capacitive touch technology presented here is selectively sensitive to human touch (conductive objects), while it is largely unaffected by the deformations created by the pneumatic actuation of our soft robot. Multi-touch interactions are also possible. We evaluated our approach with an organic soft robotics sculpture that was created by a visual artist. In particular, we evaluate that the touch localization capabilities are robust under the deformation of the device. We discuss the potential this approach has for the arts and entertainment as well as other domains.
+
+Sustainable biofabrication: from bioprinting to AI-driven predictive methods
+Miriam Filippi, Manuel Mekkattu and Robert K. Katzschmann
+Trends in Biotechnology, vol. 43: no. 2, pp. 290-303, Cell Press, 2025.
+external page:
+DOI: 10.1016/j.tibtech.2024.07.002
+external page:
+Research Collection
+Abstract 
+
+Biofabrication is potentially an inherently sustainable manufacturing process of bio-hybrid systems based on biomaterials embedded with cell communities. These bio-hybrids promise to augment the sustainability of various human activities, ranging from tissue engineering and robotics to civil engineering and ecology. However, as routine biofabrication practices are laborious and energetically disadvantageous, our society must refine production and validation processes in biomanufacturing. This opinion highlights the research trends in sustainable material selection and biofabrication techniques. By modeling complex biosystems, the computational prediction will allow biofabrication to shift from an error-trial method to an efficient, target-optimized approach with minimized resource and energy consumption. We envision that implementing bionomic rationality in biofabrication will render bio-hybrid products fruitful for greening human activities.
+
+Robust Learning-Based Control for Uncertain Nonlinear Systems With Validation on a Soft Robot
+Minghao Han, Kiwan Wong, Jacob Euler-Rolle, Lixian Zhang and Robert K. Katzschmann
+IEEE Transactions on Neural Networks and Learning Systems, vol. 36: no. 1, pp. 510-524, IEEE, 2025.
+external page:
+DOI: 10.1109/TNNLS.2023.3328643
+external page:
+Research Collection
+Abstract 
+
+Existing modeling and control methods for real-world systems typically deal with uncertainty and nonlinearity on a case-by-case basis. We present a universal and robust control framework for the general class of uncertain nonlinear systems. Our data-driven deep stochastic Koopman operator (DeSKO) model and robust learning control framework guarantee robust stability. DeSKO learns the uncertainty of dynamical systems by inferring a distribution of observables. The inferred distribution is used in our robust and stabilizing closed-loop controller for dynamical systems. We also develop a model predictive control framework with integral action to compensate for run-time parametric uncertainty, such as manipulating unknown objects. Modeling and control experiments in simulation show that our presented framework is more robust and scalable for robotic systems than state-of-the-art controllers using deep Koopman operators and reinforcement learning (RL) methods. We demonstrate that our method resists previously unseen uncertainties, such as external disturbances, at a magnitude of up to five times the maximum control input. Furthermore, we test our DeSKO-based control framework on a real-world soft robotic arm. It shows that our framework outperforms model-based controllers that have full knowledge of the model parameters, and the controller can conduct object pick-and-place tasks without further training. Our approach opens up new possibilities in robustly managing internal or external uncertainty while controlling high-dimensional nonlinear systems in a learning framework. This approach serves as a foundation to greatly simplify high-level control and decision-making for robots.
+
+Multidirectional Filamented Light Biofabrication Creates Aligned and Contractile Cardiac Tissues
+Lewis Scott Jones, Miriam Filippi, Mike Yan Michelis, Aiste Balciunaite, Öncay Yasa, Gal Aviel, Maria Narciso, Susanne Freedrich, Melanie Generali, Eldad Tzahor and Robert K. Katzschmann
+Advanced Science, vol. 11: no. 47, pp. 2404509, Wiley-VCH, 2024.
+external page:
+DOI: 10.1002/advs.202404509
+external page:
+Research Collection
+Abstract 
+
+Biofabricating 3D cardiac tissues that mimic the native myocardial tissue is a pivotal challenge in tissue engineering. In this study, we fabricate 3D cardiac tissues with controlled, multidirectional cellular alignment and directed or twisting contractility. We show that multidirectional filamented light can be used to biofabricate high-density (up to 60 × 106 cells mL−1) tissues, with directed uniaxial contractility (3.8x) and improved cell-to-cell connectivity (1.6x gap junction expression). Furthermore, by using multidirectional light projection, we can partially overcome cell-induced light attenuation, and fabricate larger tissues with multidirectional cellular alignment. For example, we fabricate a tri-layered myocardium-like tissue and a bi-layered tissue with torsional contractility. The approach provides a new strategy to rapidly fabricate aligned cardiac tissues relevant to regenerative medicine and biohybrid robotics.
+
+Vision-Based Online Key Point Estimation of Deformable Robots
+Hehui Zheng, Sebastian Pinzello, Barnabas Gavin Cangan, Thomas J.K. Buchner and Robert K. Katzschmann
+Advanced Intelligent Systems, vol. 6: no. 10, pp. 2400105, Wiley-VCH, 2024.
+external page:
+DOI: 10.1002/aisy.202400105
+external page:
+Research Collection
+Abstract 
+
+The precise control of soft and continuum robots requires knowledge of their shape, which has, in contrast to classical rigid robots, infinite degrees of freedom. To partially reconstruct the shape, proprioceptive techniques use built-in sensors, resulting in inaccurate results and increased fabrication complexity. Exteroceptive methods so far rely on expensive tracking systems with reflective markers placed on all components, which are infeasible for deformable robots interacting with the environment due to marker occlusion and damage. Here, a regression approach is presented for three-dimensional key point estimation using a convolutional neural network. The proposed approach uses data-driven supervised learning and is capable of online markerless estimation during inference. Two images of a robotic system are captured simultaneously at 25 Hz from different perspectives and fed to the network, which returns for each pair the parameterized key point or piecewise constant curvature shape representations. The proposed approach outperforms markerless state-of-the-art methods by a maximum of 4.5% in estimation accuracy while being more robust and requiring no prior knowledge of the shape. Online evaluations on two types of soft robotic arms and a soft robotic fish demonstrate the method's accuracy and versatility on highly deformable systems.
+
+Sim-to-Real of Soft Robots With Learned Residual Physics
+Junpeng Gao, Mike Yan Michelis, Andrew Spielberg and Robert K. Katzschmann
+IEEE Robotics and Automation Letters, vol. 9: no. 10, pp. 8523-8530, IEEE, 2024.
+external page:
+DOI: 10.1109/LRA.2024.3446287
+external page:
+Research Collection
+Abstract 
+
+Accurately modeling soft robots in simulation is computationally expensive and commonly falls short of representing the real world. This well-known discrepancy, known as the sim-to-real gap, can have several causes, such as coarsely approximated geometry and material models, manufacturing defects, viscoelasticity and plasticity, and hysteresis effects. Residual physics networks learn from real-world data to augment a discrepant model and bring it closer to reality. Here, we present a residual physics method for modeling soft robots with large degrees of freedom. We train neural networks to learn a residual term - the modeling error between simulated and physical systems. Concretely, the residual term is a force applied on the whole simulated mesh, while real position data is collected with only sparse motion markers. The physical prior of the analytical simulation provides a starting point for the residual network, and the combined model is more informed than if physics were learned tabula rasa. We demonstrate our method on 1) a silicone elastomeric beam and 2) a soft pneumatic arm with hard-to-model, anisotropic fiber reinforcements. Our method outperforms traditional system identification up to 60%. We show that residual physics need not be limited to low degrees of freedom but can effectively bridge the sim-to-real gap for high dimensional systems.
+
+Electrohydraulic musculoskeletal robotic leg for agile, adaptive, yet energy-efficient locomotion
+Thomas Jakob Konrad Buchner, Toshihiko Fukushima, Amirhossein Kazemi Pour, Stephan-Daniel Gravert, Manon Prairie, Pascal Romanescu, Philip Arm, Yu Zhang, Xingrui Wang, Steven L. Zhang, Johannes Walter, Christoph Keplinger and Robert K. Katzschmann
+Nature Communications, vol. 15: no. 1, pp. 7634, Nature, 2024.
+external page:
+DOI: 10.1038/s41467-024-51568-3
+external page:
+Research Collection
+Abstract 
+
+Robotic locomotion in unstructured terrain demands an agile, adaptive, and energy-efficient architecture. To traverse such terrains, legged robots use rigid electromagnetic motors and sensorized drivetrains to adapt to the environment actively. These systems struggle to compete with animals that excel through their agile and effortless motion in natural environments. We propose a bio-inspired musculoskeletal leg architecture driven by antagonistic pairs of electrohydraulic artificial muscles. Our leg is mounted on a boom arm and can adaptively hop on varying terrain in an energy-efficient yet agile manner. It can also detect obstacles through capacitive self-sensing. The leg performs powerful and agile gait motions beyond 5 Hz and high jumps up to 40 % of the leg height. Our leg’s tunable stiffness and inherent adaptability allow it to hop over grass, sand, gravel, pebbles, and large rocks using only open-loop force control. The electrohydraulic leg features a low cost of transport (0.73), and while squatting, it consumes only a fraction of the energy (1.2 %) compared to its conventional electromagnetic counterpart. Its agile, adaptive, and energy-efficient properties would open a roadmap toward a new class of musculoskeletal robots for versatile locomotion and operation in unstructured natural environments.
+
+Bioprinting of Stable Bionic Interfaces Using Piezoresistive Hydrogel Organoelectronics
+Antonia Georgopoulou, Miriam Filippi, Lisa Stefani, Felix Drescher, Aiste Balciunaite, Arnaud Scherberich, Robert K. Katzschmann and Frank Jörg Clemens
+Advanced Healthcare Materials, vol. 13: no. 20, pp. 2400051, Wiley-VCH, 2024.
+external page:
+DOI: 10.1002/adhm.202400051
+external page:
+Research Collection
+Abstract 
+
+Bionic tissues offer an exciting frontier in biomedical research by integrating biological cells with artificial electronics, such as sensors. One critical hurdle is the development of artificial electronics that can mechanically harmonize with biological tissues, ensuring a robust interface for effective strain transfer and local deformation sensing. In this study, a highly tissue-integrative, soft mechanical sensor fabricated from a composite piezoresistive hydrogel. The composite not only exhibits exceptional mechanical properties, with elongation at the point of fracture reaching up to 680%, but also maintains excellent biocompatibility across multiple cell types. Furthermore, the material exhibits bioadhesive qualities, facilitating stable cell adhesion to its surface. A unique advantage of the formulation is the compatibility with 3D bioprinting, an essential technique for fabricating stable interfaces. A multimaterial sensorized 3D bionic construct is successfully bioprinted, and it is compared to structures produced via hydrogel casting. In contrast to cast constructs, the bioprinted ones display a high (87%) cell viability, preserve differentiation ability, and structural integrity of the sensor-tissue interface throughout the tissue development duration of 10 d. With easy fabrication and effective soft tissue integration, this composite holds significant promise for various biomedical applications, including implantable electronics and organ-on-a-chip technologies.
+
+A Soft Robotic Morphing Wing for Unmanned Underwater Vehicles
+Andrea Giordano, Liam Achenbach, Daniel Lenggenhager, Fabian Wiesemüller, Roger Vonbank, Claudio Mucignat, André Tristany Farinha, Pham Huy Nguyen, Robert K. Katzschmann, Sophie F. Armanini, Ivan Lunati, Sukho Song and Mirko Kovač
+Advanced Intelligent Systems, vol. 6: no. 6, pp. 2300702, Wiley-VCH, 2024.
+external page:
+DOI: 10.1002/aisy.202300702
+external page:
+Research Collection
+Abstract 
+
+Actuators based on soft elastomers offer significant advantages to the field of robotics, providing greater adaptability, improving collision resilience, and enabling shape-morphing. Thus, soft fluidic actuators have seen an expansion in their fields of application. Closed-cycle hydraulic systems are pressure agnostic, enabling their deployment in extremely high-pressure conditions, such as deep-sea environments. However, soft actuators have not been widely adopted on unmanned underwater vehicle control surfaces for deep-sea exploration due to their unpredictable hydrodynamic behavior when camber-morphing is applied. This study presents the design and characterization of a soft wing and investigates its feasibility for integration into an underwater glider. It is found that the morphing wing enables the glider to adjust the lift-to-drag ratio to adapt to different flow conditions. At the operational angle of attack of 12.5 degrees, the lift-to-drag ratio ranges from -70% to +10% compared to a rigid version. Furthermore, it reduces the need for internal moving parts and increases maneuverability. The findings lay the groundwork for the real-world deployment of soft robotic principles capable of outperforming existing rigid systems. With the herein-described methods, soft morphing capabilities can be enabled on other vehicles.
+
+Multi-tap Resistive Sensing and FEM Modeling enables Shape and Force Estimation in Soft Robots
+Sizhe Tian, Barnabas Gavin Cangan, Stefan Escaida Navarro, Artem Beger, Christian Duriez and Robert K. Katzschmann
+IEEE Robotics and Automation Letters, vol. 9: no. 3, pp. 2830-2837, IEEE, 2024.
+external page:
+DOI: 10.1109/lra.2023.3339434
+external page:
+Research Collection
+Abstract 
+
+We address the challenge of reliable and accurate proprioception in soft robots, specifically soft robots with tight packaging constraints and relying only on internally embedded sensors. While various sensing approaches with single sensors have commonly been tried using a constant curvature assumption, we look into sensing local deformations at multiple sensor locations. In our approach, we multi-tap an off-the-shelf resistive sensor by creating multiple electrical connections onto the resistive layer of the sensor, and we insert the sensor into a soft body. This modification allows us to measure changes in resistance at multiple segments throughout the length of the sensor, providing improved resolution of local deformations in the soft body. These measurements inform a model based on a finite element method (FEM) that estimates the shape of the soft body and the magnitude of an external force acting at a known arbitrary location. Our model-based approach estimates soft body deformation with approximately 3% average relative error while taking into account internal fluidic actuation. Our estimate of external force disturbance has an 11% relative error within a range of 0 to 5 N. For instance, the combined sensing and modeling approach can be integrated into soft manipulation platforms to enable features such as identifying the shape and material properties of an object being grasped. Such manipulators can benefit from the inherent softness and compliance while being fully proprioceptive, relying only on embedded sensing and not on external systems such as motion capture. Such proprioception is essential for the deployment of soft robots in real-world scenarios.
+
+Biohybrid nanointerfaces for neuromodulation
+Miriam Filippi, Aiste Balciunaite and Robert K. Katzschmann
+Nano Today, vol. 54, pp. 102094, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.nantod.2023.102094
+external page:
+Research Collection
+Abstract 
+
+Neural prostheses are bio-hybrid devices that interface electrodes with human tissue to stimulate neurons or record their activity. Conventional neural interfaces require surgical insertion of electrodes into the tissue to form contact with target cells and do not coherently integrate with the surrounding tissue. To overcome these limitations, advanced micro/nano-implants are proposed, which incorporate soft and nanomaterials featuring biophysical responsiveness, biocompatibility, and compliant design. In this review, we describe how stimuli-responsive nanotechnology and deformable materials have contributed to miniaturization, high-resolution operation, and biocompatibility in neuromodulation strategies, with a focus on nanoscaled neurotechnologies that affect neural tissue growth and functionality. We conclude by highlighting future directions for biocompliant and translatable neuromodulation across a combination of nanotransducers, soft implantable materials, and computationally guided interface design.
+
+Low-voltage electrohydraulic actuators for untethered robotics
+Stephan-Daniel Gravert, Elia Varini, Amirhossein Kazemi Pour, Mike Yan Michelis, Thomas Jakob Konrad Buchner, Ronan Hinchet and Robert K. Katzschmann
+Science Advances, vol. 10: no. 1, pp. eadi9319, AAAS, 2024.
+external page:
+DOI: 10.1126/sciadv.adi9319
+external page:
+Research Collection
+Abstract 
+
+Rigid robots can be precise but struggle in environments where compliance, robustness to disturbances, or energy efficiency is crucial. This has led researchers to develop biomimetic robots incorporating soft artificial muscles. Electrohydraulic actuators are promising artificial muscles that perform comparably to mammalian muscles in speed and power density. However, their operation requires several thousand volts. The high voltage leads to bulky and inefficient driving electronics. Here, we present hydraulically amplified low-voltage electrostatic (HALVE) actuators that match mammalian skeletal muscles in average power density (50.5 watts per kilogram) and peak strain rate (971% per second) at a 4.9 times lower driving voltage (1100 volts) compared to the state of the art. HALVE actuators are safe to touch, are waterproof, and exhibit self-clearing properties. We characterize, model, and validate key performance metrics of our actuator. Last, we demonstrate the utility of HALVE actuators on a robotic gripper and a soft robotic swimmer.
+
+Perforated red blood cells enable compressible and injectable hydrogels as therapeutic vehicles
+Öncay Yasa, Fikru M. Tiruneh, Miriam Filippi, Aiste Balciunaite and Robert K. Katzschmann
+Materials Today, vol. 72, pp. 36-46, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.mattod.2023.11.004
+external page:
+Research Collection
+Abstract 
+
+Hydrogels engineered for medical use within the human body need to be delivered in a minimally invasive fashion without altering their biochemical and mechanical properties to maximize their therapeutic outcomes. In this regard, key strategies applied for creating such medical hydrogels include formulating precursor solutions that can be crosslinked in situ with physical or chemical cues following their delivery or forming macroporous hydrogels at sub-zero temperatures via cryogelation prior to their delivery. Here, we present a new class of injectable composite materials with shape recovery ability. The shape recovery is derived from the physical properties of red blood cells (RBCs) that are first modified via hypotonic swelling and then integrated into the hydrogel scaffolds before polymerization. The RBCs’ hypotonic swelling induces the formation of nanometer-sized pores on their cell membranes, which enable fast liquid release under compression. The resulting biocomposite hydrogel scaffolds display high deformability and shape-recovery ability. The scaffolds can repeatedly compress up to ∼87% of their original volumes during injection and subsequent retraction through syringe needles of different sizes; this cycle of injection and retraction can be repeated up to ten times without causing any substantial mechanical damage to the scaffolds. Our biocomposite material system and fabrication approach for injectable materials will be foundational for the minimally invasive delivery of drug-loaded scaffolds, tissue-engineered constructs, and personalized medical platforms that could be administered to the human body with conventional needle-syringe systems.
+
+Acoustic Streaming-Induced Multimodal Locomotion of Bubble-Based Microrobots
+Nima Mahkam, Amirreza Aghakhani, Devin Sheehan, Gaurav Gardi, Robert K. Katzschmann and Metin Sitti
+Advanced Science, vol. 10: no. 35, pp. 2304233, Wiley-VCH, 2023.
+external page:
+DOI: 10.1002/advs.202304233
+external page:
+Research Collection
+Abstract 
+
+Acoustically-driven bubbles at the micron scale can generate strong microstreaming flows in its surrounding fluidic medium. The tunable acoustic streaming strength of oscillating microbubbles and the diversity of the generated flow patterns enable the design of fast-moving microrobots with multimodal locomotion suitable for biomedical applications. The acoustic microrobots holding two coupled microbubbles inside a rigid body are presented; trapped bubbles inside the L-shaped structure with different orifices generate various streaming flows, thus allowing multiple degrees of freedom in locomotion. The streaming pattern and mean streaming speed depend on the intensity and frequency of the acoustic wave, which can trigger four dominant locomotion modes in the microrobot, denoted as translational and rotational, spinning, rotational, and translational modes. Next, the effect of various geometrical and actuation parameters on the control and navigation of the microrobot is investigated. Furthermore, the surface-slipping multimodal locomotion, flow mixing, particle manipulation capabilities, the effective interaction of high flow rates with cells, and subsequent cancerous cell lysing abilities of the proposed microrobot are demonstrated. Overall, these results introduce a design toolbox for the next generation of acoustic microrobots with higher degrees of freedom with multimodal locomotion in biomedical applications.
+
+Vision-controlled jetting for composite systems and robots
+Thomas Jakob Konrad Buchner, Simon Rogler, Stefan Weirich, Yannick Armati, Barnabas Gavin Cangan, Javier Ramos, Scott T. Twiddy, Davide M. Marini, Aaron Weber, Desai Chen, Greg Ellson, Joshua Jacob, Walter Zengerle, Dmitriy Katalichenko, Chetan Keny, Wojciech Matusik and Robert K. Katzschmann
+Nature, vol. 623: no. 7987, pp. 522-530, Nature, 2023.
+external page:
+DOI: 10.1038/s41586-023-06684-3
+external page:
+Research Collection
+Abstract 
+
+Recreating complex structures and functions of natural organisms in a synthetic form is a long-standing goal for humanity. The aim is to create actuated systems with high spatial resolutions and complex material arrangements that range from elastic to rigid. Traditional manufacturing processes struggle to fabricate such complex systems. It remains an open challenge to fabricate functional systems automatically and quickly with a wide range of elastic properties, resolutions, and integrated actuation and sensing channels. We propose an inkjet deposition process called vision-controlled jetting that can create complex systems and robots. Hereby, a scanning system captures the three-dimensional print geometry and enables a digital feedback loop, which eliminates the need for mechanical planarizers. This contactless process allows us to use continuously curing chemistries and, therefore, print a broader range of material families and elastic moduli. The advances in material properties are characterized by standardized tests comparing our printed materials to the state-of-the-art. We directly fabricated a wide range of complex high-resolution composite systems and robots: tendon-driven hands, pneumatically actuated walking manipulators, pumps that mimic a heart and metamaterial structures. Our approach provides an automated, scalable, high-throughput process to manufacture high-resolution, functional multimaterial systems.
+
+Perfusable Biohybrid Designs for Bioprinted Skeletal Muscle Tissue
+Miriam Filippi, Öncay Yasa, Jan Giachino, Reto Graf, Aiste Balciunaite, Lisa Stefani and Robert K. Katzschmann
+Advanced Healthcare Materials, vol. 12: no. 18, pp. 2300151, Wiley-VCH, 2023.
+external page:
+DOI: 10.1002/adhm.202300151
+external page:
+Research Collection
+Abstract 
+
+Engineered, centimeter-scale skeletal muscle tissue (SMT) can mimic muscle pathophysiology to study development, disease, regeneration, drug response, and motion. Macroscale SMT requires perfusable channels to guarantee cell survival, and support elements to enable mechanical cell stimulation and uniaxial myofiber formation. Here, stable biohybrid designs of centimeter-scale SMT are realized via extrusion-based bioprinting of an optimized polymeric blend based on gelatin methacryloyl and sodium alginate, which can be accurately coprinted with other inks. A perfusable microchannel network is designed to functionally integrate with perfusable anchors for insertion into a maturation culture template. The results demonstrate that i) coprinted synthetic structures display highly coherent interfaces with the living tissue, ii) perfusable designs preserve cells from hypoxia all over the scaffold volume, iii) constructs can undergo passive mechanical tension during matrix remodeling, and iv) the constructs can be used to study the distribution of drugs. Extrusion-based multimaterial bioprinting with the inks and design realizes in vitro matured biohybrid SMT for biomedical applications.
+
+An Overview of Soft Robotics
+Öncay Yasa, Yasunori Toshimitsu, Mike Yan Michelis, Lewis Scott Jones, Miriam Filippi, Thomas Jakob Konrad Buchner and Robert K. Katzschmann
+Annual Review of Control, Robotics, and Autonomous Systems, vol. 6, pp. 1-29, Annual Reviews, 2023.
+external page:
+DOI: 10.1146/annurev-control-062322-100607
+external page:
+Research Collection
+Abstract 
+
+Soft robots’ flexibility and compliance give them the potential to outperform traditional rigid-bodied robots while performing multiple tasks in unexpectedly changing environments and conditions. However, soft robots have not yet revealed their full potential since nature is still far more advanced in several areas, such as locomotion and manipulation. To understand what limits their performance and hinders their transition from laboratory to real-world conditions, future studies should focus on understanding the principles behind the design and operation of soft robots. Such studies should also consider the major challenges with regard to complex materials, accurate modeling, advanced control, and intelligent behaviors. As a starting point for such studies, this review provides a current overview of the field by examining the working mechanisms of advanced actuation and sensing modalities, modeling techniques, control strategies, and learning architectures for soft robots. Next, we summarize how these approaches can be applied to create sophisticated soft robots and examine their application areas. Finally, we provide future perspectives on what key challenges should be tackled first to advance soft robotics to truly add value to our society. Expected final online publication date for the Annual Review of Control, Robotics, and Autonomous Systems, Volume 14 is May 2023. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+
+Magnetorheological behavior of thermoplastic elastomeric honeycomb structures fabricated by additive manufacturing
+Somashree Mondal, Robert K. Katzschmann and Frank Jörg Clemens
+Composites Part B: Engineering, vol. 252, pp. 110498, Elsevier, 2023.
+external page:
+DOI: 10.1016/j.compositesb.2023.110498
+external page:
+Research Collection
+Abstract 
+
+3D printing of magnetorheological elastomers (MREs) can potentially create versatile and complex mechanical structures with reversible stiffening properties. Several additive manufacturing (AM) methods, like direct printing and stereolithography (SLA), have been used to achieve magnetic thermoset and elastomer composite structures. For the first time, we demonstrate the use of MREs based on thermoplastic elastomers (TPE) in AM and we investigate their magnetorheological (MR) effect when used in lightweight honeycomb designs. Due to the low shore hardness of TPE, a screw extruder-based printing head is employed to print disk-shaped samples with honeycomb patterns at infill percentages varying from 15% to 50%. In order to compare the MR effect of disks with varying honeycomb infills through a compression method, we investigated the effect of different testing configurations. We observe that different permanent magnet configurations, as it has been used in literature so far, create an additional effect on the measured MR effect of the MRE samples. To eradicate this effect, a test setup with an unpaired permanent magnet configuration is proposed. MRE structures with an infill density of 20% showed, at 1% deformation range, the highest MR effect, almost four times as high as 100% infilled samples. MRE structures with an infill density between 30% and 50% showed a lower MR effect than at 20%, but were still higher than at 100%. We observe in simulations that the magnetic flux density of 100% infilled samples was higher at the edges of the samples and lower at the center. For samples with honeycomb infill, the magnetic flux density was higher at the outer rim of the samples and edges of the walls within the sample, which causes a higher MR effect. Our work demonstrates that the MR effect can be tuned by designing a MRE structure with a honeycomb infill. The honeycomb infill results in lightweight MREs with improved MR effect useful for various downstream applications that require reversible strong stiffening while remaining comparatively lightweight.
+
+Towards a Physics-Based Model for Steerable Eversion Growing Robots
+Zicong Wu, Mikel De Iturrate Reyzabal, S.M. Hadi Sadati, Hongbin Liu, Sebastien Ourselin, Daniel Leff, Robert K. Katzschmann, Kawal Rhode and Christos Bergeles
+IEEE Robotics and Automation Letters, vol. 8: no. 2, pp. 1005-1012, IEEE, 2023.
+external page:
+DOI: 10.1109/LRA.2023.3234823
+external page:
+Research Collection
+Abstract 
+
+Soft robots that grow through eversion/apical extension can effectively navigate fragile environments such as ducts and vessels inside the human body. This letter presents the physics-based model of a miniature steerable eversion growing robot. We demonstrate the robot's growing, steering, stiffening and interaction capabilities. The interaction between two robot-internal components is explored, i.e., a steerable catheter for robot tip orientation, and a growing sheath for robot elongation/retraction. The behavior of the growing robot under different inner pressures and external tip forces is investigated. Simulations are carried out within the SOFA framework. Extensive experimentation with a physical robot setup demonstrates agreement with the simulations. The comparison demonstrates a mean absolute error of 10-20% between simulation and experimental results for curvature values, including catheter-only experiments, sheath-only experiments and full system experiments. To our knowledge, this is the first work to explore physics-based modelling of a tendon-driven steerable eversion growing robot. While our work is motivated by early breast cancer detection through mammary duct inspection and uses our MAMMOBOT robot prototype, our approach is general and relevant to similar growing robots.
+
+Meta-Learning via Classifier(-free) Diffusion Guidance
+Elvis Nava, Seijin Kobayashi, Yifei Yin, Robert K. Katzschmann and Benjamin Grewe
+Transactions on Machine Learning Research, vol. 2023: no. 8, OpenReview, 2023.
+external page:
+Research Collection
+Abstract 
+
+We introduce meta-learning algorithms that perform zero-shot weight-space adaptation of neural network models to unseen tasks. Our methods repurpose the popular generative image synthesis techniques of natural language guidance and diffusion models to generate neural network weights adapted for tasks. We first train an unconditional generative hypernetwork model to produce neural network weights; then we train a second "guidance" model that, given a natural language task description, traverses the hypernetwork latent space to find high-performance task-adapted weights in a zero-shot manner. We explore two alternative approaches for latent space guidance: "HyperCLIP"-based classifier guidance and a conditional Hypernetwork Latent Diffusion Model ("HyperLDM"), which we show to benefit from the classifier-free guidance technique common in image generation. Finally, we demonstrate that our approaches outperform existing multi-task and meta-learning methods in a series of zero-shot learning experiments on our Meta-VQA dataset.
+
+Dynamic Task Space Control Enables Soft Manipulators to Perform Real-World Tasks
+Oliver Fischer, Yasunori Toshimitsu, Amirhossein Kazemi Pour and Robert K. Katzschmann
+Advanced Intelligent Systems, vol. 5: no. 1, pp. 2200024, Wiley-VCH, 2023.
+external page:
+DOI: 10.1002/aisy.202200024
+external page:
+Research Collection
+Abstract 
+
+Dynamic motions are a key feature of robotic arms, enabling them to perform tasks quickly and efficiently. A majority of real-world soft robots rely on a quasistatic control approach, without taking dynamic characteristics into consideration. As a result, robots with this restriction move slowly and are not able to adequately deal with forces, such as handling unexpected perturbations or manipulating objects. A dynamic approach to control and modeling would allow soft robots to move faster and handle external forces more efficiently. In previous studies, different aspects of modeling, dynamic control, and physical implementation have been examined separately, while their combination has yet to be thoroughly investigated. Herein, the accuracy of the dynamic model of the multisegment continuum robot is improved by adding new elements that include variable stiffness and actuation behavior. Then, this improved model is integrated with state-of-the-art system identification and dynamic task space control and experiments are performed to validate this combination on a real-world manipulator. As a means of encouraging future research on dynamic control for soft robotic manipulators, the source code is made available for modeling, control, and system identification, along with the recipes for fabricating the manipulator.
+
+Hydroelastomers: soft, tough, highly swelling composites
+Simon Moser, Yanxia Feng, Öncay Yasa, Stefanie Heyden, Michael Kessler, Esther Amstad, Eric Dufresne, Robert K. Katzschmann and Robert Style
+Soft Matter, vol. 18: no. 37, pp. 7229-7235, Royal Society of Chemistry, 2022.
+external page:
+DOI: 10.1039/d2sm00946c
+external page:
+Research Collection
+Abstract 
+
+Inspired by the cellular design of plant tissue, we present an approach to make versatile, tough, highly water-swelling composites. We embed highly swelling hydrogel particles inside tough, water-permeable, elastomeric matrices. The resulting composites, which we call hydroelastomers, combine the properties of their parent phases. From their hydrogel component, the composites inherit the ability to highly swell in water. From the elastomeric component, the composites inherit excellent stretchability and fracture toughness, while showing little softening as they swell. Indeed, the fracture properties of the composite match those of the best-performing, tough hydrogels, exhibiting fracture energies of up to 10 kJ m(-2). Our composites are straightforward to fabricate, based on widely-available materials, and can easily be molded or extruded to form shapes with complex swelling geometries. Furthermore, there is a large design space available for making hydroelastomers, since one can use any hydrogel as the dispersed phase in the composite, including hydrogels with stimuli-responsiveness. These features make hydroelastomers excellent candidates for use in soft robotics and swelling-based actuation, or as shape-morphing materials, while also being useful as hydrogel replacements in other fields.
+
+Will microfluidics enable functionally integrated biohybrid robots?
+Miriam Filippi, Öncay Yasa, Roger D. Kamm, Ritu Raman and Robert K. Katzschmann
+Proceedings of the National Academy of Sciences of the United States of America, vol. 119: no. 35, pp. e2200741119, National Academy of Sciences, 2022.
+external page:
+DOI: 10.1073/pnas.2200741119
+external page:
+Research Collection
+Abstract 
+
+The next robotics frontier will be led by biohybrids. Capable biohybrid robots require microfluidics to sustain, improve, and scale the architectural complexity of their core ingredient: biological tissues. Advances in microfluidics have already revolutionized disease modeling and drug development, and are positioned to impact regenerative medicine but have yet to apply to biohybrids. Fusing microfluidics with living materials will improve tissue perfusion and maturation, and enable precise patterning of sensing, processing, and control elements. This perspective suggests future developments in advanced biohybrids.
+
+Microfluidic Tissue Engineering and Bio-Actuation
+Miriam Filippi, Thomas Jakob Konrad Buchner, Öncay Yasa, Stefan Weirich and Robert K. Katzschmann
+Advanced Materials, vol. 34: no. 23, pp. 2108427, Wiley-VCH, 2022.
+external page:
+DOI: 10.1002/adma.202108427
+external page:
+Research Collection
+Abstract 
+
+Bio-hybrid technologies aim to replicate the unique capabilities of biological systems that could surpass advanced artificial technologies. Soft bio-hybrid robots consist of synthetic and living materials and have the potential to self-assemble, regenerate, work autonomously, and interact safely with other species and the environment. Cells require a sufficient exchange of nutrients and gases, which is guaranteed by convection and diffusive transport through liquid media. The functional development and long-term survival of biological tissues in vitro can be improved by dynamic flow culture, but only microfluidic flow control can develop tissue with fine structuring and regulation at the microscale. Full control of tissue growth at the microscale will eventually lead to functional macroscale constructs, which are needed as the biological component of soft bio-hybrid technologies. This review summarizes recent progress in microfluidic techniques to engineer biological tissues, focusing on the use of muscle cells for robotic bio-actuation. Moreover, the instances in which bio-actuation technologies greatly benefit from fusion with microfluidics are highlighted, which include: the microfabrication of matrices, biomimicry of cell microenvironments, tissue maturation, perfusion, and vascularization.
+
+Sim-to-Real for Soft Robots Using Differentiable FEM: Recipes for Meshing, Damping, and Actuation
+Mathieu Dubied, Mike Yan Michelis, Andrew Spielberg and Robert K. Katzschmann
+IEEE Robotics and Automation Letters, vol. 7: no. 2, pp. 5015-5022, IEEE, 2022.
+external page:
+DOI: 10.1109/LRA.2022.3154050
+external page:
+Research Collection
+Abstract 
+
+An accurate, physically-based, and differentiable model of soft robots can unlock downstream applications in optimal control. The Finite Element Method (FEM) is an expressive approach for modeling highly deformable structures such as dynamic, elastomeric soft robots. In this paper, we compare virtual robot models simulated using differentiable FEM with measurements from their physical counterparts. In particular, we examine several soft structures with different morphologies: a clamped soft beam under external force, a pneumatically actuated soft robotic arm, and a soft robotic fish tail. We benchmark and analyze different meshing resolutions and elements (tetrahedra and hexahedra), numerical damping, and the efficacy of differentiability for parameter calibration using a simulator based on the fast Differentiable Projective Dynamics (DiffPD). We also advance FEM modeling in application to soft robotics by proposing a predictive model for pneumatic soft robotic actuation. Through our recipes and case studies, we provide strategies and algorithms for matching real-world physics in simulation, making FEM useful for soft robots.
+
+Engineered Magnetic Nanocomposites to Modulate Cellular Function
+Miriam Filippi, Francesca Garello, Öncay Yasa, Jesil Kasamkattil, Arnaud Scherberich and Robert K. Katzschmann
+Small, vol. 18: no. 9, pp. 2104079, Wiley, 2022.
+external page:
+DOI: 10.1002/smll.202104079
+external page:
+Research Collection
+Abstract 
+
+Magnetic nanoparticles (MNPs) have various applications in biomedicine, including imaging, drug delivery and release, genetic modification, cell guidance, and patterning. By combining MNPs with polymers, magnetic nanocomposites (MNCs) with diverse morphologies (core-shell particles, matrix-dispersed particles, microspheres, etc.) can be generated. These MNCs retain the ability of MNPs to be controlled remotely using external magnetic fields. While the effects of these biomaterials on the cell biology are still poorly understood, such information can help the biophysical modulation of various cellular functions, including proliferation, adhesion, and differentiation. After recalling the basic properties of MNPs and polymers, and describing their coassembly into nanocomposites, this review focuses on how polymeric MNCs can be used in several ways to affect cell behavior. A special emphasis is given to 3D cell culture models and transplantable grafts, which are used for regenerative medicine, underlining the impact of MNCs in regulating stem cell differentiation and engineering living tissues. Recent advances in the use of MNCs for tissue regeneration are critically discussed, particularly with regard to their prospective involvement in human therapy and in the construction of advanced functional materials such as magnetically operated biomedical robots.
+
+Slot-Die Coating of an On-the-Shelf Polymer with Increased Dielectric Permittivity for Stack Actuators
+Mihail Iacob, Anand Verma, Thomas Jakob Konrad Buchner, Yauhen Sheima, Robert K. Katzschmann and Dorina M. Opris
+ACS Applied Polymer Materials, vol. 4: no. 1, pp. 150-157, American Chemical Society, 2022.
+external page:
+DOI: 10.1021/acsapm.1c01135
+external page:
+Research Collection
+Abstract 
+
+Nitrile–butadiene rubbers (NBR) have been extensively used as dielectric materials due to their commercial availability, excellent mechanical properties, glass transition temperature below 0 °C, and increased dielectric permittivity owing to the presence of polar nitrile groups. Despite these advantages, their processability is poor and cross-linking into thin films is a challenge. Cross-linking requires long times, temperatures exceeding 160 °C, and an inert atmosphere. Such cross-linking conditions are incompatible with the continuous manufacturing process of stack actuators. Here, we developed an NBR that can be easily processed into thin films, cross-linked fast, and on-demand by UV-induced thiol-ene reaction in the presence of a dimethoxy-2-phenylacetophenone initiator and 2,2′-(ethylenedioxy)diethanethiol cross-linker. The mechanical properties of the NBR can be easily tuned by the amount of cross-linker used. Additionally, a semi-automated manufacturing process for stack actuators is presented. Here, we slot-die coat the dielectric and spray-coat the electrode through a mask. Because of the commercial availability of the starting materials, an easy and robust protocol for cross-linking, and reproducible manufacturing, it can be envisioned that this material has the potential to replace the well-known acrylate film, VHB, which engineers often use to construct dielectric elastomer actuators in different prototype devices.
+
+DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation
+Pingchuan Ma, Tao Du, John Z. Zhang, Kui Wu, Andrew Spielberg, Robert K. Katzschmann and Wojciech Matusik
+ACM Transactions on Graphics, vol. 40: no. 4, pp. 132, Association for Computing Machinery, 2021.
+external page:
+DOI: 10.1145/3450626.3459832
+external page:
+Research Collection
+Abstract 
+
+The computational design of soft underwater swimmers is challenging because of the high degrees of freedom in soft-body modeling. In this paper, we present a differentiable pipeline for co-designing a soft swimmer's geometry and controller. Our pipeline unlocks gradient-based algorithms for discovering novel swimmer designs more efficiently than traditional gradient-free solutions. We propose Wasserstein barycenters as a basis for the geometric design of soft underwater swimmers since it is differentiable and can naturally interpolate between bio-inspired base shapes via optimal transport. By combining this design space with differentiable simulation and control, we can efficiently optimize a soft underwater swimmer's performance with fewer simulations than baseline methods. We demonstrate the efficacy of our method on various design problems such as fast, stable, and energy-efficient swimming and demonstrate applicability to multi-objective design.
+
+Editorial: Soft Robotic Modeling and Control: Bringing Together Articulated Soft Robots and Soft-Bodied Robots
+Cosimo Della Santina, Robert K. Katzschmann, Antonio Bicchi and Daniela Rus
+The International Journal of Robotics Research, vol. 40: no. 1, pp. 3-6, SAGE, 2021.
+external page:
+DOI: 10.1177/0278364921998088
+external page:
+Research Collection
+Model-based dynamic feedback control of a planar soft robot: Trajectory tracking and interaction with the environment
+Cosimo Della Santina, Robert K. Katzschmann, Antonio Bicchi and Daniela Rus
+The International Journal of Robotics Research, vol. 39: no. 4, pp. 490-513, SAGE, 2020.
+external page:
+DOI: 10.1177/0278364919897292
+external page:
+Research Collection
+Abstract 
+
+Leveraging the elastic bodies of soft robots promises to enable the execution of dynamic motions as well as compliant and safe interaction with an unstructured environment. However, the exploitation of these abilities is constrained by the lack of appropriate control strategies. This work tackles for the first time the development of closed-loop dynamic controllers for a continuous soft robot. We present two architectures designed for dynamic trajectory tracking and surface following, respectively. Both controllers are designed to preserve the natural softness of the robot and adapt to interactions with an unstructured environment. The validity of the controllers is proven analytically within the hypotheses of the model. The controllers are evaluated through an extensive series of simulations, and through experiments on a physical soft robot capable of planar motions.
+
+Safe Local Navigation for Visually Impaired Users with a Time-of-Flight and Haptic Feedback Device
+Robert K. Katzschmann, Brandon Araki and Daniela Rus
+IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 26: no. 3, pp. 583-593, IEEE, 2018.
+external page:
+DOI: 10.1109/TNSRE.2018.2800665
+external page:
+Research Collection
+Abstract 
+
+This paper presents ALVU (Array of Lidars and Vibrotactile Units), a contactless, intuitive, hands-free, and discreet wearable device that allows visually impaired users to detect low- and high-hanging obstacles, as well as physical boundaries in their immediate environment. The solution allows for safe local navigation in both confined and open spaces by enabling the user to distinguish free space from obstacles. The device presented is composed of two parts: a sensor belt and a haptic strap. The sensor belt is an array of time-of-flight distance sensors worn around the front of a user's waist, and the pulses of infrared light provide reliable and accurate measurements of the distances between the user and surrounding obstacles or surfaces. The haptic strap communicates the measured distances through an array of vibratory motors worn around the user's upper abdomen, providing haptic feedback. The linear vibration motors are combined with a point-loaded pretensioned applicator to transmit isolated vibrations to the user. We validated the device's capability in an extensive user study entailing 162 trials with 12 blind users. Users wearing the device successfully walked through hallways, avoided obstacles, and detected staircases.
+
+Exploration of underwater life with an acoustically controlled soft robotic fish
+Robert K. Katzschmann, Joseph DelPreto, Robert MacCurdy and Daniela Rus
+Science Robotics, vol. 3: no. 16, pp. eaar3449, AAAS, 2018.
+external page:
+DOI: 10.1126/scirobotics.aar3449
+external page:
+Research Collection
+Abstract 
+
+Closeup exploration of underwater life requires new forms of interaction, using biomimetic creatures that are capable of agile swimming maneuvers, equipped with cameras, and supported by remote human operation. Current robotic prototypes do not provide adequate platforms for studying marine life in their natural habitats. This work presents the design, fabrication, control, and oceanic testing of a soft robotic fish that can swim in three dimensions to continuously record the aquatic life it is following or engaging. Using a miniaturized acoustic communication module, a diver can direct the fish by sending commands such as speed, turning angle, and dynamic vertical diving. This work builds on previous generations of robotic fish that were restricted to one plane in shallow water and lacked remote control. Experimental results gathered from tests along coral reefs in the Pacific Ocean show that the robotic fish can successfully navigate around aquatic life at depths ranging from 0 to 18 meters. Furthermore, our robotic fish exhibits a lifelike undulating tail motion enabled by a soft robotic actuator design that can potentially facilitate a more natural integration into the ocean environment. We believe that our study advances beyond what is currently achievable using traditional thruster-based and tethered autonomous underwater vehicles, demonstrating methods that can be used in the future for studying the interactions of aquatic life and ocean dynamics.
+
+Robust proprioceptive grasping with a soft robot hand
+Bianca S. Homberg, Robert K. Katzschmann, Mehmet R. Dogar and Daniela Rus
+Autonomous Robots, vol. 43: no. 3, pp. 681-696, Springer, 2018.
+external page:
+DOI: 10.1007/s10514-018-9754-1
+external page:
+Research Collection
+Abstract 
+
+This work presents a soft hand capable of robustly grasping and identifying objects based on internal state measurements along with a combined system which autonomously performs grasps. A highly compliant soft hand allows for intrinsic robustness to grasping uncertainties; the addition of internal sensing allows the configuration of the hand and object to be detected. The finger module includes resistive force sensors on the fingertips for contact detection and resistive bend sensors for measuring the curvature profile of the finger. The curvature sensors can be used to estimate the contact geometry and thus to distinguish between a set of grasped objects. With one data point from each finger, the object grasped by the hand can be identified. A clustering algorithm to find the correspondence for each grasped object is presented for both enveloping grasps and pinch grasps. A closed loop system uses a camera to detect approximate object locations. Compliance in the soft hand handles that uncertainty in addition to geometric uncertainty in the shape of the object.
+
+A Recipe for Soft Fluidic Elastomer Robots
+Andrew D. Marchese, Robert K. Katzschmann and Daniela Rus
+Soft Robotics, vol. 2: no. 1, pp. 7-25, Mary Ann Liebert, 2015.
+external page:
+DOI: 10.1089/soro.2014.0022
+external page:
+Research Collection
+Abstract 
+
+This work provides approaches to designing and fabricating soft fluidic elastomer robots. That is, three viable actuator morphologies composed entirely from soft silicone rubber are explored, and these morphologies are differentiated by their internal channel structure, namely, ribbed, cylindrical, and pleated. Additionally, three distinct casting-based fabrication processes are explored: lamination-based casting, retractable-pin-based casting, and lost-wax-based casting. Furthermore, two ways of fabricating a multiple DOF robot are explored: casting the complete robot as a whole and casting single degree of freedom (DOF) segments with subsequent concatenation. We experimentally validate each soft actuator morphology and fabrication process by creating multiple physical soft robot prototypes.
+
+Autonomous Object Manipulation Using a Soft Planar Grasping Manipulator
+Robert K. Katzschmann, Andrew D. Marchese and Daniela Rus
+Soft Robotics, vol. 2: no. 4, pp. 155-164, Mary Ann Liebert, 2015.
+external page:
+DOI: 10.1089/soro.2015.0013
+external page:
+Research Collection
+Abstract 
+
+This paper presents the development of an autonomous motion planning algorithm for a soft planar grasping manipulator capable of grasp-and-place operations by encapsulation with uncertainty in the position and shape of the object. The end effector of the soft manipulator is fabricated in one piece without weakening seams using lost-wax casting instead of the commonly used multi-layer lamination process. The soft manipulation system can grasp randomly positioned objects within its reachable envelope and move them to a desired location without human intervention. The autonomous planning system leverages the compliance and continuum bending of the soft grasping manipulator to achieve repeatable grasps in the presence of uncertainty. A suite of experiments is presented that demonstrates the system's capabilities.
+
+Related content
+Conference Papers
+Thesis Works
+Publications
+Footer
+Search
+Keyword or person
+Follow us
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+
+SRL Contact
+
+Email
+
+Soft Robotics Lab
+8092 Zurich
+Schweiz
+
+
+Soft and Biohybrid Robotics
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+=== https://srl.ethz.ch/publications/conference-papers.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Soft Robotics Lab
+Main Navigation
+Lab News
+The Group
+Open Position
+Research Areas
+Research Platforms
+Education
+Publications
+Partnerships & Spin-offs
+Search
+Departments
+ETH Zurich
+D-MAVT
+IRIS
+Soft Robotics
+Language Selection
+English
+You are here
+Homepage
+Publications
+Conference Papers
+Conference Papers
+
+The group's peer-reviewed conference articles can be found here. If you are looking for a full list of all type of publications, please visit the parent page.
+
+SORS: A Modular, High-Fidelity Simulator for Soft Robots
+Manuel Mekkattu, Mike Yan Michelis and Robert K. Katzschmann
+9th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2026), Kanazawa, Japan, pp.223-230, Piscataway, NJ: IEEE, April 7-12, 2026.
+external page:
+DOI: 10.1109/RoboSoft67810.2026.11522869
+external page:
+Research Collection
+Abstract 
+
+The deployment of complex soft robots requires simulation frameworks that not only capture multi-material interactions, but also translate accurately to real-world performance. Soft robots pose unique modeling challenges due to their large nonlinear deformations, near-incompressible materials, and contact interactions, which complicate both numerical stability and physical accuracy. We present SORS† (Soft Over Rigid Simulator), a versatile, high-fidelity simulator designed to handle these complexities for soft robot applications. Our energy-based finite element framework allows modular extensions, enabling the inclusion of custom-designed material and actuation models. To ensure physically consistent contact handling, we integrate a constrained nonlinear optimization based on sequential quadratic programming, allowing for stable and accurate modeling of contact phenomena. We validate our simulator through a diverse set of real-world experiments, which include cantilever deflection, pressure-actuation of a soft robotic arm, and contact interactions from the PokeFlex dataset. In addition, we demonstrate the framework's utility for control optimization of a soft robotic leg. These tests confirm that our simulator can capture both fundamental material behavior and complex actuation dynamics with physical fidelity. Our approach provides a tool for prototyping next-generation soft robots, filling the gap of extensibility, fidelity, and usability in the soft robotic ecosystem.
+
+Reliable Aerial Manipulation: Combining Visual Tracking with Range Sensing for Robust Grasping
+Marc Blöchlinger, Yasunori Toshimitsu and Robert K. Katzschmann
+42nd IEEE International Conference on Robotics and Automation (ICRA 2025), Atlanta, GA, USA, pp.7519-7525, Piscataway, NJ: IEEE, May 19-23, 2025.
+external page:
+DOI: 10.1109/ICRA55743.2025.11128682
+external page:
+Research Collection
+Abstract 
+
+Reliable object localization is a critical challenge in drone-based aerial manipulation, particularly when objects are outside the camera's field of view. This paper presents a new approach to enhance drone reliability in aerial grasping tasks by integrating a 1D time-of-flight range sensor with a vision-based localization system. The range sensor, positioned beneath the drone, generates a detailed point cloud of the ground beneath the drone, allowing for precise object localization even when the drone hovers directly above the target. By combining visual tracking with realtime distance measurements, our system achieves a 96 % grasp success rate across 128 trials with diverse objects, representing a significant improvement over previous approaches. This method enables zero-shot grasping without prior knowledge of the objects, increasing versatility and robustness in complex, unstructured environments. The open-source software and hardware design of the platform provide a foundation for further research and development in the field of autonomous aerial manipulation.
+
+Stretchable Electrohydraulic Artificial Muscle for Full Motion Ranges in Musculoskeletal Antagonistic Joints
+Amirhossein Kazemi Pour, Ronan Hinchet and Robert K. Katzschmann
+42nd IEEE International Conference on Robotics and Automation (ICRA 2025), Atlanta, GA, USA, pp.6976-6982, Piscataway, NJ: IEEE, May 19-23, 2025.
+external page:
+DOI: 10.1109/ICRA55743.2025.11128116
+external page:
+Research Collection
+Abstract 
+
+Artificial muscles play a crucial role in musculoskeletal robotics and prosthetics to approximate the force-generating functionality of biological muscle. However, current artificial muscle systems are typically limited to either contraction or extension, not both. This limitation hinders the development of fully functional artificial musculoskeletal systems. We address this challenge by introducing an artificial antagonistic muscle system capable of both contraction and extension. Our design integrates non-stretchable electrohydraulic soft actuators (HASELs) with electrostatic clutches within an antagonistic musculoskeletal framework. This configuration enables an antagonistic joint to achieve a full range of motion without displacement loss due to tendon slack. We implement a synchronization method to coordinate muscle and clutch units, ensuring smooth motion profiles and speeds. This approach facilitates seamless transitions between antagonistic muscles at operational frequencies of up to 3.2 Hz. While our prototype utilizes electrohydraulic actuators, this muscle-clutch concept is adaptable to other non-stretchable artificial muscles, such as McKibben actuators, expanding their capability for extension and full range of motion in antagonistic setups. Our design represents a significant advancement in the development of fundamental components for more functional and efficient artificial musculoskeletal systems, bringing their capabilities closer to those of their biological counterparts.
+
+Design Optimization and Evaluation of a Robotic Thumb with Anatomical Geometry and Passive Soft-Tissue Integration
+Daniel Lenggenhager, Stefan Weirich, Phillip Wand and Robert K. Katzschmann
+24th International Conference on Humanoid Robots (HUMANOIDS 2025), Seoul, South Korea, pp.898-905, Piscataway, NJ: IEEE, September 30 - October 2, 2025.
+external page:
+DOI: 10.1109/humanoids65713.2025.11203036
+external page:
+Research Collection
+Abstract 
+
+Robotic hands often struggle to replicate the dexterity and stability of human grasping, particularly in tasks requiring precise thumb opposition or passive compliance. Although most designs approximate the complex trapeziometacarpal (TMC) joint with simplified 2-degree-offreedom mechanisms, they rarely optimize axis placement for anatomical fidelity or evaluate opposition with orientationaware metrics. Likewise, soft tissue structures like the thenar eminence (TE) and first web space (FWS) are frequently omitted or included only cosmetically, limiting ergonomic grip quality. Here, we introduce a design and evaluation workflow for anatomical thumb replication in robotic hands. Using a compact parameter space, a MATLAB framework systematically optimizes TMC joint geometry for human-like motion. To evaluate grasping performance, we propose the Kapandji-plus test, which augments standard reachability assessments with orientation scoring across 17 functional poses. Additionally, we developed 21 novel passive TE and FWS prototypes with varied compliance and geometry, tested using task-oriented quantitative and qualitative metrics. Results show that two optimized joint configurations significantly improve thumb orientation accuracy and Kapandji-plus scores over a baseline configuration. The best-performing TE and FWS designs enhance power and precision grips, with a kirigami-inspired FWS demonstrating repeatable lateral support in manipulation tasks. These components advance anthropomorphic hand design by combining anatomically informed mechanics with task-oriented validation.
+
+An Open-Source Soft Robotic Platform for Autonomous Aerial Manipulation in the Wild
+Erik Bauer, Marc Blöchlinger, Pascal Strauch, Arman Raayatsanati, Curdin Cavelti and Robert K. Katzschmann
+8th Conference on Robot Learning (CoRL 2024), Munich, Germany, pp.3094-3106, Cambridge, MA: PMLR, November 6-9, 2024.
+external page:
+Research Collection
+Abstract 
+
+Aerial manipulation combines the versatility and speed of flying platforms with the functional capabilities of mobile manipulation, which presents significant challenges due to the need for precise localization and control. Traditionally, researchers have relied on off-board perception systems, which are limited to expensive and impractical specially equipped indoor environments. In this work, we introduce a novel platform for autonomous aerial manipulation that exclusively utilizes onboard perception systems. Our platform can perform aerial manipulation in various indoor and outdoor environments without depending on external perception systems. Our experimental results demonstrate the platform's ability to autonomously grasp various objects in diverse settings. This advancement significantly improves the scalability and practicality of aerial manipulation applications by eliminating the need for costly tracking solutions. To accelerate future research, we open source our modern ROS 2 software stack and custom hardware design, making our contributions accessible to the broader research community.
+
+In vitro testing of an artificial muscle for the treatment of incontinence
+Beate Lyko, Stephan-Daniel Gravert, Robert K. Katzschmann and Bert Müller
+SPIE Smart Structures + Nondestructive Evaluation 2024, Long Beach, CA, USA, pp.1294506 Bellingham, WA: SPIE, March 25-27, 2024.
+external page:
+DOI: 10.1117/12.3012817
+external page:
+Research Collection
+Abstract 
+
+The burden of incontinence is profound, affecting individuals both physically and emotionally. Treatment pathways typically progress from conservative measures to surgical interventions, sometimes culminating in the implantation of artificial sphincters. The existing models including the AMS 800ᵀᴹ show high revision rates. Complications such as tissue erosion further underscore the need for innovation in this field. Here, we propose an approach utilizing Hydraulically Amplified Self-healing Electrostatic (HASEL) actuators to develop an advanced artificial urethral sphincter. By employing HASEL actuators arranged in a cuff configuration, we aim to address the limitations of current devices. Initial in vitro testing on porcine urethrae has shown promising results in controlling the water flow at a hydrostatic pressure of 20 cmH₂O, demonstrating the feasibility to mimic sphincter function. This approach holds potential to significantly enhance the quality of life for patients suffering from incontinence as they regain control over their bodies. Further research and clinical trials are warranted to validate the efficacy and safety of this approach.
+
+Sensorized Soft Skin for Dexterous Robotic Hands
+Jana Egli, Benedek Forrai, Thomas Jakob Konrad Buchner, Jiangtao Su, Xiaodong Chen and Robert K. Katzschmann
+41st IEEE International Conference on Robotics and Automation (ICRA 2024), Yokohama, Japan, pp.18127-18133, Piscataway, NJ: IEEE, May 13-17, 2024.
+external page:
+DOI: 10.1109/ICRA57147.2024.10611404
+external page:
+Research Collection
+Abstract 
+
+Conventional industrial robots often use two-fingered grippers or suction cups to manipulate objects or interact with the world. Because of their simplified design, they are unable to reproduce the dexterity of human hands when manipulating a wide range of objects. While the control of humanoid hands evolved greatly, hardware platforms still lack capabilities, particularly in tactile sensing and providing soft contact surfaces. In this work, we present a method that equips the skeleton of a tendon-driven humanoid hand with a soft and sensorized tactile skin. Multi-material 3D printing allows us to iteratively approach a cast skin design which preserves the robot’s dexterity in terms of range of motion and speed. We demonstrate that a soft skin enables firmer grasps and piezoresistive sensor integration enhances the hand’s tactile sensing capabilities.
+
+Leveraging Pretrained Latent Representations for Few-Shot Imitation Learning on an Anthropomorphic Robotic Hand
+Davide Liconti, Yasunori Toshimitsu and Robert K. Katzschmann
+23rd IEEE-RAS International Conference on Humanoid Robots (Humanoids 2024), Nancy, FRANCE, pp.181-188, Piscataway, NJ: IEEE, November 22-24, 2024.
+external page:
+DOI: 10.1109/Humanoids58906.2024.10769883
+external page:
+Research Collection
+Abstract 
+
+In the context of imitation learning applied to anthropomorphic robotic hands, the high complexity of the systems makes learning complex manipulation tasks challenging. However, the numerous datasets depicting human hands in various different tasks could provide us with better knowledge regarding human hand motion. We propose a method to leverage multiple large-scale task-agnostic datasets to obtain latent representations that effectively encode motion subtrajectories that we included in a transformer-based behavior cloning method. Our results demonstrate that employing latent representations yields enhanced performance compared to conventional behavior cloning methods, particularly regarding resilience to errors and noise in perception and proprioception. Furthermore, the proposed approach solely relies on human demonstrations, eliminating the need for teleoperation and, therefore, accelerating the data acquisition process. Accurate inverse kinematics for fingertip retargeting ensures precise transfer from human hand data to the robot, facilitating effective learning and deployment of manipulation policies. Finally, the trained policies have been successfully transferred to a real-world 23Dof robotic system.
+
+A Rapid and Robust Tendon-Driven Robotic Hand for Human-Robot Interactions Playing Rock-Paper-Scissors
+Xiang Deng, Stefan Weirich, Robert K. Katzschmann and Tobias Delbrück
+33rd IEEE International Conference on Robot and Human Interactive Communication (IEEE RO-MAN 2024), Pasadena, CA, USA, pp.2347-2354, Piscataway, NJ: IEEE, August 26-30, 2024.
+external page:
+DOI: 10.1109/RO-MAN60168.2024.10731344
+external page:
+Research Collection
+Abstract 
+
+Rapid human-robot interactions require fast hardware platforms with minimal latency and high reliability. In response, we present a cost-effective, electrically actuated, tendon-driven robotic hand. This hand features a unique spool-free actuation mechanism that achieves a limit-to-limit flexion movement in less than 60 ms, matching human speed. To our knowledge, it is among the fastest electric motor tendon-driven robotic hands available today. The high speed of the robotic hand was successfully demonstrated in public by playing Rock Paper Scissors at a science fair. This research work outlines the design methodology and introduces a simulation-optimization framework that allows users to preview the motion of the hand, quantify the actuation performance, and customize the design parameters prior to fabrication. The proposed actuation mechanism, along with the simulation and optimization tools, illustrates design principles and computational methods applicable to other dynamic human-robot applications that require fast reaction times. The Dextra hand design is available at https://sensorsini.github.io/dextra-robot-hand.
+
+Replicating Human Anatomy with Vision Controlled Jetting – A Pneumatic Musculoskeletal Hand and Forearm
+Thomas Jakob Konrad Buchner, Stefan Weirich, Alexander M. Kübler, Wojciech Matusik and Robert K. Katzschmann
+7th International Conference on Soft Robotics (RoboSoft 2024), San Diego, CA, USA, pp.183-189, Piscataway, NJ: IEEE, April 14-17, 2024.
+external page:
+DOI: 10.1109/ROBOSOFT60065.2024.10522043
+external page:
+Research Collection
+Abstract 
+
+The functional replication and actuation of complex structures inspired by nature is a longstanding goal for humanity. Creating such complex structures combining soft and rigid features and actuating them with artificial muscles would further our understanding of natural kinematic structures. We printed a biomimetic hand in a single print process comprised of a rigid skeleton, soft joint capsules, tendons, and printed touch sensors. We showed it's actuation using electric motors. In this work, we expand on this work by adding a forearm that is also closely modeled after the human anatomy and replacing the hand's motors with 22 independently controlled pneumatic artificial muscles (PAMs). Our thin, high-strain (up to 30.1 %) PAMs match the performance of state-of-the-art artificial muscles at a lower cost. The system showcases human-like dexterity with independent finger movements, demonstrating successful grasping of various objects, ranging from a small, lightweight coin to a large can of 272 g in weight. The performance evaluation, based on fingertip and grasping forces along with finger joint range of motion, highlights the system's potential.
+
+Rotograb: Combining Biomimetic Hands with Industrial Grippers using a Rotating Thumb
+Arnaud Bersier, Matteo Leonforte, Alessio Vanetta, Sarah Lia Andrea Wotke, Andrea Nappi, Yifan Zhou, Sebastiano Oliani, Alexander Kübler and Robert K. Katzschmann
+37th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, United Arab Emirates, pp.5303-5310, Piscataway, NJ: IEEE, October 14-18, 2024.
+external page:
+DOI: 10.1109/iros58592.2024.10802788
+external page:
+Research Collection
+Abstract 
+
+The development of robotic grippers and hands for automation aims to emulate human dexterity without sacrificing the efficiency of industrial grippers. This study introduces Rotograb, a tendon-actuated robotic hand featuring a novel rotating thumb. The aim is to combine the dexterity of human hands with the efficiency of industrial grippers. The rotating thumb enlarges the workspace and allows in-hand manipulation. A novel joint design minimizes movement interference and simplifies kinematics, using a cutout for tendon routing. We integrate teleoperation, using a depth camera for real-time tracking and autonomous manipulation powered by reinforcement learning with proximal policy optimization. Experimental evaluations demonstrate that Rotograb’s rotating thumb greatly improves both operational versatility and workspace. It can handle various grasping and manipulation tasks with objects from the YCB dataset, with particularly good results when rotating objects within its grasp. Rotograb represents a notable step towards bridging the capability gap between human hands and industrial grippers. The tendon-routing and thumb-rotating mechanisms allow for a new level of control and dexterity. Integrating teleoperation and autonomous learning underscores Rotograb’s adaptability and sophistication, promising substantial advancements in both robotics research and practical applications.
+
+Task-defined Pulley Design for Nonlinearly Coupled Tendon-driven Actuation
+Wensi Zhang, Barnabas Gavin Cangan, Thomas Jakob Konrad Buchner, Alexander Kübler, Ramon Asmus and Robert K. Katzschmann
+7th IEEE International Conference on Soft Robotics (RoboSoft 2024), San Diego, CA, USA, pp.220-227, Piscataway, NJ: IEEE, April 14-17, 2024.
+external page:
+DOI: 10.1109/ROBOSOFT60065.2024.10522021
+external page:
+Research Collection
+Abstract 
+
+Coupled actuation is a common strategy for reducing the number of actuators in robots with high degrees of freedom. Coupled actuation leads to an underactuation that lowers system complexity and weight. However, an approach for a controlled nonlinear coupling of multiple tendons does not exist for tendon-driven actuation. We propose a method to enable task-defined non-linearly coupled actuation by designing eccentric pulleys of variable radii. Given a target profile of tendon length changes, we perform piecewise fitting of the target curve to generate a composite pulley geometry. Theoretical verification of the method with 200 randomly generated tendon profiles shows stable results with an average of 2.19 % relative error. In addition, we built a practical demonstration by implementing non-linearly coupled control of a tendon-driven finger. The six tendons that control the robotic finger were all actuated using pulleys connected to a single motor, resulting in a 5.35 % average fingertip orientation tracking error. In conclusion, the pulley-shaping method proposed in this project enables the task-defined nonlinear coupling of multiple degrees of freedom to a single actuator of tendon-driven systems. We believe that the algorithm's generalizability will enable further practical use in tendon-driven dexterous hands, animatronics, manipulators, and legged robots, among various other possible applications.
+
+Self-Sensing Feedback Control of an Electrohydraulic Robotic Shoulder
+Clemens C. Christoph, Amirhossein Kazemi Pour, Michel R. Vogt, Yu Zhang and Robert K. Katzschmann
+41st IEEE International Conference on Robotics and Automation (ICRA 2024), Yokohama, Japan, pp.4679-4685, Piscataway, NJ: IEEE, May 13-17, 2024.
+external page:
+DOI: 10.1109/ICRA57147.2024.10610994
+external page:
+Research Collection
+Abstract 
+
+The human shoulder, with its glenohumeral joint, tendons, ligaments, and muscles, allows for the execution of complex tasks with precision and efficiency. However, current robotic shoulder designs lack the compliance and compactness inherent in their biological counterparts. A major limitation of these designs is their reliance on external sensors like rotary encoders, which restrict mechanical joint design and introduce bulk to the system. To address this constraint, we present a bio-inspired antagonistic robotic shoulder with two degrees of freedom powered by self-sensing hydraulically amplified self-healing electrostatic actuators. Our artificial muscle design decouples the high-voltage electrostatic actuation from the pair of low-voltage self-sensing electrodes. This approach allows for proprioceptive feedback control of trajectories in the task space while eliminating the necessity for any additional sensors. We assess the platform’s efficacy by comparing it to a feedback control based on position data provided by a motion capture system. The study demonstrates closed-loop controllable robotic manipulators based on an inherent self-sensing capability of electrohydraulic actuators. The proposed architecture can serve as a basis for complex musculoskeletal joint arrangements.
+
+Fast Point Cloud to Mesh Reconstruction for Deformable Object Tracking
+Elham Amin Mansour, Hehui Zheng and Robert K. Katzschmann
+4th International Conference on Robotics, Computer Vision and Intelligent Systems (ROBOVIS 2024), Rome, Italy, pp.391-409, Cham: Springer, February 25-27, 2024.
+external page:
+DOI: 10.1007/978-3-031-59057-3_25
+external page:
+Research Collection
+Abstract 
+
+The world around us is full of soft objects we perceive and deform with dexterous hand movements. For a robotic hand to control soft objects, it has to acquire online state feedback of the deforming object. While RGB-D cameras can collect occluded point clouds at a rate of 30Hz, this does not represent a continuously trackable object surface. Hence, in this work, we developed a method that takes as input a template mesh which is the mesh of an object in its non-deformed state and a deformed point cloud of the same object, and then shapes the template mesh such that it matches the deformed point cloud. The reconstruction of meshes from point clouds has long been studied in the field of Computer graphics under 3D reconstruction and 4D reconstruction, however, both lack the speed and generalizability needed for robotics applications. Our model is designed using a point cloud auto-encoder and a Real-NVP architecture. Our trained model can perform mesh reconstruction and tracking at a rate of 58 Hz on a template mesh of 3000 vertices and a deformed point cloud of 5000 points and is generalizable to the deformations of six different object categories which are assumed to be made of soft material in our experiments (scissors, hammer, foam brick, cleanser bottle, orange, and dice). The object meshes are taken from the YCB benchmark dataset. An instance of a downstream application can be the control algorithm for a robotic hand that requires online feedback from the state of the manipulated object which would allow online grasp adaptation in a closed-loop manner. Furthermore, the tracking capacity of our method can help in the system identification of deforming objects in a marker-free approach. In future work, we will extend our trained model to generalize beyond six object categories and additionally to real-world deforming point clouds.
+
+High-Frequency Capacitive Sensing for Electrohydraulic Soft Actuators
+Michel R. Vogt, Maximilian Eberlein, Clemens C. Christoph, Felix Baumann, Fabrice Bourquin, Wim Wende, Fabio Schaub, Amirhossein Kazemi Pour and Robert K. Katzschmann
+37th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, United Arab Emirates, pp.8299-8306, Piscataway, NJ: IEEE, October 14-18, 2024.
+external page:
+DOI: 10.1109/IROS58592.2024.10802777
+external page:
+Research Collection
+Abstract 
+
+The need for compliant and proprioceptive actuators has grown more evident in pursuing more adaptable and versatile robotic systems. Hydraulically Amplified Self-Healing Electrostatic (HASEL) actuators offer distinctive advantages with their inherent softness and flexibility, making them promising candidates for various robotic tasks, including delicate interactions with humans and animals, biomimetic locomotion, prosthetics, and exoskeletons. This has resulted in a growing interest in the capacitive self-sensing capabilities of HASEL actuators to create miniature displacement estimation circuitry that does not require external sensors. However, achieving HASEL self-sensing for actuation frequencies above 1 Hz and with miniature high-voltage power supplies has remained limited. In this paper, we introduce the F-HASEL actuator, which adds an additional electrode pair used exclusively for capacitive sensing to a Peano-HASEL actuator. We demonstrate displacement estimation of the F-HASEL during high-frequency actuation up to 20 Hz and during external loading using miniaturized circuitry comprised of low-cost off-the-shelf components and a miniature high-voltage power supply. Finally, we propose a circuitry to estimate the displacement of multiple F-HASELs and demonstrate it in a wearable application to track joint rotations of a virtual reality user in real-time.
+
+Bilayered Biofabrication Unlocks the Potential of Skeletal Muscle for Biohybrid Soft Robots
+Aiste Balciunaite, Öncay Yasa, Miriam Filippi, Mike Yan Michelis and Robert K. Katzschmann
+7th IEEE International Conference on Soft Robotics (RoboSoft 2024), San Diego, CA, USA, pp.525-530, Piscataway, NJ: IEEE, April 14-17, 2024.
+external page:
+DOI: 10.1109/robosoft60065.2024.10522009
+external page:
+Research Collection
+Abstract 
+
+The emerging field of biohybrid robotics aims to create the next generation of soft and sustainable robots by using engineered biological muscle tissues integrated with soft materials as artificial muscles, called bio-actuators. Both cardiac and skeletal muscle cells can be utilized for biohybrid actuation. Generally, cardiac bio-actuators take the shape of thin cellular films, while locomotive skeletal muscle bio-actuators form bulk tissues. The geometry of a bio-actuator should be optimized for the type of desired motion, e.g., thin film layers are optimal for swimming actuators mimicking fish. Until now, the geometry of skeletal muscle bio-actuators has been constrained to ring- or block-like tissues generally differentiated around a pair of pillars due to the need to oppose the contraction force exerted during the skeletal muscle differentiation process. In this work, we extend the possible geometry of skeletal muscle bio-actuators by demonstrating a bilayered design that mimics the motion of jellyfish. We take advantage of a volumetric printing method, i.e., xolography, which allows us to micropattern poly(ethylene glycol) diacrylate and gelatin methacrylate hydrogels to serve as scaffolds for seeding a layer of the skeletal muscle cell matrix. We demonstrate that the locomotion speed of our bio-actuators is 2.5 × faster than that of previously reported counterparts. In addition, our skeletal bio-actuators outperform most cardiac ones. Further optimization of our bilayer biofabrication for improved reproducibility of the maturation process of the skeletal muscle tissue will pave the way for the next generation of performant skeletal muscle-based actuators for biohybrid robots.
+
+A multi-material robotic finger with integrated proprioceptive and tactile capabilities produced with a circular process
+Antonia Georgopoulou, Stijn Hamelryckx, Kai Junge, Louisa Marie Eckey, Simon Rogler, Robert K. Katzschmann, Josie Hughes and Frank Jörg Clemens
+6th IEEE International Conference on Soft Robotics (RoboSoft 2023), Singapore, pp.10122054 Piscataway, NJ: IEEE, April 3-7, 2023.
+external page:
+DOI: 10.1109/ROBOSOFT55895.2023.10122054
+external page:
+Research Collection
+Abstract 
+
+When developing or designing biomimetic robotic fingers with rigid and soft components and integrated sensors, fabrication is often a bottle-neck when assembling and casting processing techniques are used. This study introduces a thermoplastic multi-material fabrication approach that allows the printing of fingers with incorporated sensing elements in a single shot. Thermoplastics and thermoplastic elastomers based materials have been selected to demonstrate the circular fabrication process. To exhibit the potential of the method, a sensorized multi-material finger was fabricated using polypropylene (PP) for the rigid bone, styrene-based tri-block co-polymer (TPS) for the soft skin and resistive composites based on TPS and carbon black (CB) for the sensing. The 3D printer was equipped with combined pellet- and filament-based extruders to enable the combined fabrication processing of the materials without additional assembling. This allowed the exploration of a range of designs with different geometric and infill properties. To demonstrate the circular process, the fabricated fingers were recycled and the mechanical properties did not result in a visible degradation. The described multi-material fabrication of soft robotic components allows time efficiency of the production method and the reusability of the materials, which contribute to establishing a sustainable circular process in the future.
+
+Autonomous Marker-Less Rapid Aerial Grasping
+Erik Bauer, Barnabas Gavin Cangan and Robert K. Katzschmann
+36th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Detroit, MI, USA, pp.6395-6402, Piscataway, NJ: IEEE, October 1-5, 2023.
+external page:
+DOI: 10.1109/IROS55552.2023.10342033
+external page:
+ Research Collection
+Abstract 
+
+In a future with autonomous robots, visual and spatial perception is of utmost importance for robotic systems. Particularly for aerial robotics, there are many applications where utilizing visual perception is necessary for any real-world scenarios. Robotic aerial grasping using drones promises fast pick-and-place solutions with a large increase in mobility over other robotic solutions. Utilizing Mask R-CNN scene segmentation (detectron2), we propose a vision-based system for autonomous rapid aerial grasping which does not rely on mark-ers for object localization and does not require the appearance of the object to be previously known. Combining segmented images with spatial information from a depth camera, we generate a dense point cloud of the detected objects and perform geometry - based grasp planning to determine grasping points on the objects. In real-world experiments on a dynamically grasping aerial platform, we show that our system can replicate the performance of a motion capture system for object local-ization up to 94.5 % of the baseline grasping success rate. With our results, we show the first use of geometry-based grasping techniques with a flying platform and aim to increase the autonomy of existing aerial manipulation platforms, bringing them further towards real-world applications in warehouses and similar environments.
+
+Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints
+Yasunori Toshimitsu, Benedek Forrai, Barnabas Gavin Cangan, Ulrich Steger, Manuel Knecht, Stefan Weirich and Robert K. Katzschmann
+22nd International Conference on Humanoid Robots (Humanoids 2023), Austin, TX, USA, pp.10375231 Piscataway, NJ: IEEE, December 12-14, 2023.
+external page:
+DOI: 10.1109/HUMANOIDS57100.2023.10375231
+external page:
+Research Collection
+Abstract 
+
+Biomimetic, dexterous robotic hands have the potential to replicate much of the tasks that a human can do, and to achieve status as a general manipulation platform. Recent advances in reinforcement learning (RL) frameworks have achieved remarkable performance in quadrupedal locomotion and dexterous manipulation tasks. Combined with GPU-based highly parallelized simulations capable of simulating thousands of robots in parallel, RL-based controllers have become more scalable and approachable. However, in order to bring RL-trained policies to the real world, we require training frameworks that output policies that can work with physical actuators and sensors as well as a hardware platform that can be manufactured with accessible materials yet is robust enough to run interactive policies. This work introduces the biomimetic tendon-driven Faive Hand and its system architecture, which uses tendon-driven rolling contact joints to achieve a 3D printable, robust high-DoF hand design. We model each element of the hand and integrate it into a GPU simulation environment to train a policy with RL, and achieve zero-shot transfer of a dexterous in-hand sphere rotation skill to the physical robot hand.
+
+Flying Hydraulically Amplified Electrostatic Gripper System for Aerial Object Manipulation
+Dario Tscholl, Stephan-Daniel Gravert, Aurel X. Appius and Robert K. Katzschmann
+20th International Symposium of Robotics Research (ISRR 2022), Geneva, Switzerland, pp.368-383, Cham: Springer, September 25-30, 2022.
+external page:
+DOI: 10.1007/978-3-031-25555-7_25
+external page:
+Research Collection
+Abstract 
+
+Rapid and versatile object manipulation in air is an open challenge. An energy-efficient and adaptive soft gripper combined with an agile aerial vehicle could revolutionize aerial robotic manipulation in areas such as warehousing. This paper presents a bio-inspired gripper powered by hydraulically amplified electrostatic actuators mounted to a quadcopter that can interact safely and naturally with its environment. Our gripping concept is motivated by an eagle's foot. Our custom multi-actuator concept is inspired by a scorpion tail design (consisting of a base electrode with pouches stacked adjacently) and spider-inspired joints (classic pouch motors with a flexible hinge layer). A hybrid of these two designs realizes a higher force output under moderate deflections of up to 25. compared to single-hinge concepts. In addition, sandwiching the hinge layer improves the robustness of the gripper. For the first time, we show that soft manipulation in air is possible using electrostatic actuation. This study demonstrates the potential of untethered hydraulically amplified actuators in aerial robotic manipulation. Our proof of concept opens up the use of hydraulic electrostatic actuators in mobile aerial systems. (https://youtube.com/watch?v=7PmZ8C0Ji08)
+
+Aquarium: A Fully Differentiable Fluid-Structure Interaction Solver for Robotics Applications
+Jeong Hun Lee, Mike Yan Michelis, Robert K. Katzschmann and Zachary Manchester
+40th IEEE Conference on Robotics and Automation (ICRA 2023), London, United Kingdom, pp.11272-11279, Piscataway, NJ: IEEE, May 29 - June 2, 2023.
+external page:
+DOI: 10.1109/ICRA48891.2023.10161494
+external page:
+Research Collection
+Abstract 
+
+We present Aquarium, a differentiable fluid-structure interaction solver for robotics that offers stable simulation, accurately coupled fluid-robot physics in two dimensions, and full differentiability with respect to fluid and robot states and parameters. Aquarium achieves stable simulation with accurate flow physics by directly integrating over the incompressible Navier-Stokes equations using a fully implicit Crank-Nicolson scheme with a second-order finite-volume spatial discretization. The fluid and robot physics are coupled using the immersed-boundary method by formulating the noslip condition as an equality constraint applied directly to the Navier-Stokes system. This choice of coupling allows the fluidstructure interaction to be posed and solved as a nonlinear optimization problem. This optimization-based formulation is then exploited using the implicit-function theorem to compute derivatives. Derivatives can then be passed to downstream gradient-based optimization or learning algorithms. We demonstrate Aquarium's ability to accurately simulate coupled fluid-robot physics with numerous 2D examples, including a cylinder in free stream and a soft robotic fish tail with hardware validation. We also demonstrate Aquarium's ability to provide analytical gradients by performing gradient-based shape-and-gait optimization of an oscillating diamond foil to maximize its generated thrust.
+
+SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction
+Markus Ryll and Robert K. Katzschmann
+39th IEEE International Conference on Robotics and Automation (ICRA 2022), Philadelphia, PA, USA, pp.2010-2016, Piscataway, NJ: IEEE, May 23-27, 2022.
+external page:
+DOI: 10.1109/ICRA46639.2022.9812044
+external page:
+Research Collection
+Abstract 
+
+We present SMORS, the first Soft fully actuated MultirOtoR System for multimodal locomotion. Unlike conventional hexarotors, SMORS is equipped with three rigid and three continuously soft arms, with each arm hosting a propeller. We create a bridge between the fields of soft and aerial robotics by mechanically coupling the actuation of a fully actuated flying platform with the actuation of a soft robotic manipulator. Each rotor is slightly tilted, allowing for full actuation of the platform. The soft components combined with the platform's full actuation allow for a robust interaction, in the form of efficient multimodal locomotion. In this work, we present the dynamical model of the platform, derive a closed-loop control, and present simulation results fortifying the robustness of the platform under a jumping-flying maneuver. We demonstrate in simulations that our multimodal locomotion approach can be more energy-efficient than the flight with a hexarotor.
+
+A Unified and Modular Model Predictive Control Framework for Soft Continuum Manipulators under Internal and External Constraints
+Filippo A. Spinelli and Robert K. Katzschmann
+35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.9393-9400, Piscataway, NJ: IEEE, October 23-27, 2022.
+external page:
+DOI: 10.1109/IROS47612.2022.9981702
+external page:
+Research Collection
+Abstract 
+
+Fluidically actuated soft robots have promising capabilities such as inherent compliance and user safety. The control of soft robots needs to properly handle nonlinear actuation dynamics, motion constraints, workspace limitations, and variable shape stiffness, so having a unique algorithm for all these issues would be extremely beneficial. In this work, we adapt Model Predictive Control (MPC), popular for rigid robots, to a soft robotic arm called SoPrA. We address the challenges that current control methods are facing, by proposing a framework that handles these in a modular manner. While previous work focused on Joint-Space formulations, we show through simulation and experimental results that Task-Space MPC can be successfully implemented for dynamic soft robotic control. We provide a way to couple the Piece-wise Constant Curvature and Augmented Rigid Body Model assumptions with internal and external constraints and actuation dynamics, delivering an algorithm that unites these aspects and optimizes over them. We believe that a MPC implementation based on our approach could be the way to address most of model-based soft robotics control issues within a unified and modular framework, while allowing to include improvements that usually belong to other control domains such as machine learning techniques.
+
+Model-Based Disturbance Estimation for a Fiber-Reinforced Soft Manipulator using Orientation Sensing
+Barnabas Gavin Cangan, Stefan Escaida Navarro, Bai Yang, Yu Zhang, Christian Duriez and Robert K. Katzschmann
+35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.9424-9430, Piscataway, NJ: IEEE, October 23-27, 2022.
+external page:
+DOI: 10.1109/IROS47612.2022.9981637
+external page:
+Research Collection
+Abstract 
+
+To aid in real-world situations, soft robots need to be able to estimate their state and external interactions based on proprioceptive sensors. Estimating disturbances allows a soft robot to perform desirable force control. However, even in the case of rigid manipulators, force estimation at the end-effector is seen as a non-trivial problem. And indeed, current approaches to address this challenge have shortcomings that prevent their general application. They are often based on simplified soft dynamic models, such as the ones relying on a piece-wise constant curvature approximation or matched rigid-body models that do not represent enough details of the problem. This severely limits applications in complex human-robot interaction. Finite element method (FEM) based modeling allows for predictions of soft robot dynamics in a more generic fashion. Here, using the soft robot modeling capabilities of the frame-work SOFA, we built a detailed FEM model of a multi-segment soft continuum robotic arm composed of compliant deformable materials and fiber-reinforced pressurized actuation chambers. In addition, a model for sensors that provide orientation output is presented. This model is used to establish a state observer for the manipulator. The sensor model is adequate for representing the output of flexible bend sensors as well as orientations provided by IMUs or coming from tracking systems, all of which are popular choices in soft robotics. Model parameters were calibrated to match imperfections of the manual fabrication process using physical experiments. We then solve a quadratic programming inverse statics problem to compute the components of external force that explain the pose mismatch. Our experiments show an average force estimation error of around 1.2%. As the methods proposed are generic, these results are encouraging for the task of building soft robots exhibiting complex, reactive, sensor-based behavior that can be deployed in human-centered environments.
+
+Modeling and Control of an Omnidirectional Micro Aerial Vehicle Equipped with a Soft Robotic Arm
+Róbert Szász, Mike Allenspach, Minghao Han, Marco Tognon and Robert K. Katzschmann
+5th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2022), Edinburgh, United Kingdom, pp.186-193, Piscataway, NJ: IEEE, April 4-8, 2022.
+external page:
+DOI: 10.1109/robosoft54090.2022.9762161
+external page:
+Research Collection
+Abstract 
+
+Flying manipulators are aerial drones with attached rigid-bodied robotic arms and belong to the latest and most actively developed research areas in robotics. The rigid nature of these arms often lack compliance, flexibility, and smoothness in movement. This work proposes to use a soft-bodied robotic arm attached to an omnidirectional micro aerial vehicle (OMAV) to leverage the compliant and flexible behavior of the arm, while remaining maneuverable and dynamic thanks to the omnidirectional drone as the floating base. The unification of the arm with the drone poses challenges in the modeling and control of such a combined platform; these challenges are addressed with this work. We propose a unified model for the flying manipulator based on three modeling principles: the Piecewise Constant Curvature (PCC) and Augmented Rigid Body Model (ARBM) hypotheses for modeling soft continuum robots and a floating-base approach borrowed from the traditional rigid-body robotics literature. To demonstrate the validity and usefulness of this parametrisation, a hierarchical model-based feedback controller is implemented. The controller is verified and evaluated in simulation on various dynamical tasks, where the nullspace motions, disturbance recovery, and trajectory tracking capabilities of the platform are examined and validated. The soft flying manipulator platform could open new application fields in aerial construction, goods delivery, human assistance, maintenance, and warehouse automation.
+
+Sim2Real for Soft Robotic Fish via Differentiable Simulation
+John Z. Zhang, Yu Zhang, Pingchuan Ma, Elvis Nava, Tao Du, Philip Arm, Wojciech Matusik and Robert K. Katzschmann
+35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.12598-12605, Piscataway, NJ: IEEE, October 23-27, 2022.
+external page:
+DOI: 10.1109/iros47612.2022.9981338
+external page:
+Research Collection
+Abstract 
+
+Accurate simulation of soft mechanisms under dynamic actuation is critical for the design of soft robots. We address this gap with our differentiable simulation tool by learning the material parameters of our soft robotic fish. On the example of a soft robotic fish, we demonstrate an experimentally-verified, fast optimization pipeline for learning the material parameters from quasi-static data via differentiable simulation and apply it to the prediction of dynamic performance. Our method identifies physically plausible Young's moduli for various soft silicone elastomers and stiff acetal copolymers used in creation of our three different robotic fish tail designs. We show that our method is compatible with varying internal geometry of the actuators, such as the number of hollow cavities. Our framework allows high fidelity prediction of dynamic behavior for composite bi-morph bending structures in real hardware to millimeter-accuracy and within 3% error normalized to actuator length. We provide a differentiable and robust estimate of the thrust force using a neural network thrust predictor; this estimate allows for accurate modeling of our experimental setup measuring bollard pull. This work presents a prototypical hardware and simulation problem solved using our differentiable framework; the framework can be applied to higher dimensional parameter inference, learning control policies, and computational design due to its differentiable character.
+
+DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator
+Minghao Han, Jacob Euler-Rolle and Robert K. Katzschmann
+10th International Conference on Learning Representations (ICLR 2022), Online s.l.: OpenReview, April 25-29, 2022.
+external page:
+Research Collection
+Abstract 
+
+The Koopman operator theory linearly describes nonlinear dynamical systems in a high-dimensional functional space and it allows to apply linear control methods to highly nonlinear systems. However, the Koopman operator does not account for any uncertainty in dynamical systems, causing it to perform poorly in real-world applications. Therefore, we propose a deep stochastic Koopman operator (DeSKO) model in a robust learning control framework to guarantee stability of nonlinear stochastic systems. The DeSKO model captures a dynamical system's uncertainty by inferring a distribution of observables. We use the inferred distribution to design a robust, stabilizing closed-loop controller for a dynamical system. Modeling and control experiments on several advanced control benchmarks show that our framework is more robust and scalable than state-of-the-art deep Koopman operators and reinforcement learning methods. Tested control benchmarks include a soft robotic arm, a legged robot, and a biological gene regulatory network. We also demonstrate that this robust control method resists previously unseen uncertainties, such as external disturbances, with a magnitude of up to five times the maximum control input. Our approach opens up new possibilities in learning control for high-dimensional nonlinear systems while robustly managing internal or external uncertainty.
+
+Planar Modeling and Sim-to-Real of a Tethered Multimaterial Soft Swimmer Driven by Peano-HASELs
+Stephan-Daniel Gravert, Mike Yan Michelis, Simon Rogler, Dario Tscholl, Thomas Jakob Konrad Buchner and Robert K. Katzschmann
+35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.9417-9423, Piscataway, NJ: IEEE, October 23-27, 2022.
+external page:
+DOI: 10.1109/IROS47612.2022.9981192
+external page:
+Research Collection
+Abstract 
+
+Soft robotics has the potential to revolutionize robotic locomotion, in particular, soft robotic swimmers offer a minimally invasive and adaptive solution to explore and preserve our oceans. Unfortunately, current soft robotic swimmers are vastly inferior to evolved biological swimmers, especially in terms of controllability, efficiency, maneuverability, and longevity. Additionally, the tedious iterative fabrication and empirical testing required to design soft robots has hindered their optimization. In this work, we tackle this challenge by providing an efficient and straightforward pipeline for designing and fabricating soft robotic swimmers equipped with electrostatic actuation. We streamline the process to allow for rapid additive manufacturing, and show how a differentiable simulation can be used to match a simplified model to the real deformation of a robotic swimmer. We perform several experiments with the fabricated swimmer by varying the voltage and actuation frequency of the swimmer's antagonistic muscles. We show how the voltage and frequency vary the locomotion speed of the swimmer while moving in liquid oil and observe a clear optimum in forward swimming speed. The differentiable simulation model we propose has various downstream applications, such as control and shape optimization of the swimmer; optimization results can be directly mapped back to the real robot through our sim-to-real matching.
+
+Fast Aquatic Swimmer Optimization with Differentiable Projective Dynamics and Neural Network Hydrodynamic Models
+Elvis Nava, John Z. Zhang, Mike Yan Michelis, Tao Du, Pingchuan Ma, Benjamin F. Grewe, Wojciech Matusik and Robert K. Katzschmann
+39th International Conference on Machine Learning (ICML 2022), Baltimore, MD, USA, pp.16413-16427, Cambridge, MA: PMLR, July 17-23, 2022.
+external page:
+Research Collection
+Abstract 
+
+Aquatic locomotion is a classic fluid-structure interaction (FSI) problem of interest to biologists and engineers. Solving the fully coupled FSI equations for incompressible Navier-Stokes and finite elasticity is computationally expensive. Optimizing robotic swimmer design within such a system generally involves cumbersome, gradient-free procedures on top of the already costly simulation. To address this challenge we present a novel, fully differentiable hybrid approach to FSI that combines a 2D direct numerical simulation for the deformable solid structure of the swimmer and a physics-constrained neural network surrogate to capture hydrodynamic effects of the fluid. For the deformable solid simulation of the swimmer's body, we use state-of-the-art techniques from the field of computer graphics to speed up the finite-element method (FEM). For the fluid simulation, we use a U-Net architecture trained with a physics-based loss function to predict the flow field at each time step. The pressure and velocity field outputs from the neural network are sampled around the boundary of our swimmer using an immersed boundary method (IBM) to compute its swimming motion accurately and efficiently. We demonstrate the computational efficiency and differentiability of our hybrid simulator on a 2D carangiform swimmer. Due to differentiability, the simulator can be used for computational design of controls for soft bodies immersed in fluids via direct gradient-based optimization.
+
+Meta-Learning via Classifier(-free) Guidance
+Elvis Nava, Seijin Kobayashi, Yifei Yin, Robert K. Katzschmann and Benjamin Grewe
+NeurIPS 2022 Workshop on Meta-Learning (MetaLearn 2022), New Orleans, LA, USA s.l.: OpenReview, December 2-9, 2022.
+external page:
+Research Collection
+Abstract 
+
+State-of-the-art meta-learning techniques do not optimize for zero-shot adaptation to unseen tasks, a setting in which humans excel. On the contrary, meta-learning algorithms learn hyperparameters and weight initializations that explicitly optimize for few-shot learning performance. In this work, we take inspiration from recent advances in generative modeling and language-conditioned image synthesis to propose meta-learning techniques that use natural language guidance to achieve higher zero-shot performance compared to the state-of-the-art. We do so by recasting the meta-learning problem as a multi-modal generative modeling problem: given a task, we consider its adapted neural network weights and its natural language description as equivalent multi-modal task representations. We first train an unconditional generative hypernetwork model to produce neural network weights; then we train a second "guidance" model that, given a natural language task description, traverses the hypernetwork latent space to find high-performance task-adapted weights in a zero-shot manner. We explore two alternative approaches for latent space guidance: "HyperCLIP"-based classifier guidance and a conditional Hypernetwork Latent Diffusion Model ("HyperLDM"), which we show to benefit from the classifier-free guidance technique common in image generation. Finally, we demonstrate that our approaches outperform existing meta-learning methods with zero-shot learning experiments on our Meta-VQA dataset, which we specifically constructed to reflect the multi-modal meta-learning setting.
+
+Adaptive Dynamic Sliding Mode Control of Soft Continuum Manipulators
+Amirhossein Kazemi Pour, Oliver Fischer, Yasunori Toshimitsu, Ki Wan Wong and Robert K. Katzschmann
+39th IEEE International Conference on Robotics and Automation (ICRA 2022), Philadelphia, PA, USA, pp.3259-3265, Piscataway, NJ: IEEE, May 23-27, 2022.
+external page:
+DOI: 10.1109/ICRA46639.2022.9811715
+external page:
+Research Collection
+Abstract 
+
+Soft robots are made of compliant materials and perform tasks that are challenging for rigid robots. However, their continuum nature makes it difficult to develop model-based control strategies. This work presents a robust model-based control scheme for soft continuum robots. Our dynamic model is based on the Euler-Lagrange approach, but it uses a more accurate description of the robot's inertia and does not include oversimplified assumptions. Based on this model, we introduce an adaptive sliding mode control scheme, which is robust against model parameter uncertainties and unknown input disturbances. We perform a series of experiments with a physical soft continuum arm to evaluate the effectiveness of our controller at tracking task-space trajectory under different payloads. The tracking performance of the controller is around 38 % more accurate than that of a state-of-the-art controller, i.e., the inverse dynamics method. Moreover, the proposed model-based control design is flexible and can be generalized to any continuum robotic arm with an arbitrary number of segments. With this control strategy, soft robotic object manipulation can become more accurate while remaining robust to disturbances.
+
+Prismatic Soft Actuator Augments the Workspace of Soft Continuum Robots
+Philipp Wand, Oliver Fischer and Robert K. Katzschmann
+35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.12630-12636, Piscataway, NJ: IEEE, October 23-27, 2022.
+external page:
+DOI: 10.1109/IROS47612.2022.9981473
+external page:
+Research Collection
+Abstract 
+
+Soft robots are promising for manipulation tasks thanks to their compliance, safety, and high degree of freedom. However, the commonly used bidirectional continuum segment design means soft robotic manipulators only function in a limited hemispherical workspace. This work increases a soft robotic arm's workspace by designing, fabricating, and controlling an additional soft prismatic actuator at the base of the soft arm. This actuator consists of pneumatic artificial muscles and a piston, making the actuator back-driveable. We increase the task space volume by 116\%, and we are now able to perform manipulation tasks that were previously impossible for soft robots, such as picking and placing objects at different positions on a surface and grabbing an object out of a container. By combining a soft robotic arm with a prismatic joint, we greatly increase the usability of soft robots for object manipulation. This work promotes the use of integrated and modular soft robotic systems for practical manipulation applications in human-centered environments.
+
+RAPTOR: Rapid Aerial Pickup and Transport of Objects by Robots
+Aurel X. Appius, Erik Bauer, Marc Blöchlinger, Aashi Kalra, Robin Oberson, Arman Raayatsanati, Pascal Strauch, Sarath Suresh, Marco von Salis and Robert K. Katzschmann
+35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.349-355, Piscataway, NJ: IEEE, October 23-27, 2022.
+external page:
+DOI: 10.1109/IROS47612.2022.9981668
+external page:
+ Research Collection
+Abstract 
+
+Rapid aerial grasping through robots can lead to many applications that utilize fast and dynamic picking and placing of objects. Rigid grippers traditionally used in aerial manipulators require high precision and specific object geometries for successful grasping. We propose RAPTOR, a quadcopter platform combined with a custom Fin Ray (R) gripper to enable more flexible grasping of objects with different geometries, leveraging the properties of soft materials to increase the contact surface between the gripper and the objects. To reduce the communication latency, we present a new lightweight middleware solution based on Fast DDS (Data Distribution Service) as an alternative to ROS (Robot Operating System). We show that RAPTOR achieves an average of 83% grasping efficacy in a real-world setting for four different object geometries while moving at an average velocity of 1 m/s during grasping. In a high-velocity setting, RAPTOR supports up to four times the payload compared to previous works. Our results highlight the potential of aerial drones in automated warehouses and other manipulation applications where speed, swiftness, and robustness are essential while operating in hard-to-reach places.(1)
+
+RoBoa: Construction and evaluation of a steerable vine robot for search and rescue applications
+Pascal Auf der Maur, Betim Djambazi, Yves Haberthür, Patricia Hörmann, Alexander Kübler, Michael Lustenberger, Samuel Sigrist, Oda Vigen, Julian Förster, Florian Achermann, Elias Hampp, Robert K. Katzschmann and Roland Siegwart
+4th International Conference on Soft Robotics (RoboSoft 2021), Online, pp.15-20, Piscataway, NJ: IEEE, April 12-16, 2021.
+external page:
+DOI: 10.1109/RoboSoft51838.2021.9479192
+external page:
+Research Collection
+Abstract 
+
+RoBoa is a vine-like search and rescue robot that can explore narrow and cluttered environments such as destroyed buildings. The robot assists rescue teams in finding and communicating with trapped people. It employs the principle of vine robots for locomotion, everting the tip of its tube to move forward. Inside the tube, pneumatic actuators enable lateral movement. The head carries sensors and is mounted outside at the tip of the tube. At the back, a supply box contains the rolled up tube and provides pressurized air, power, computation, as well as an interface for the user to interact with the system. A decentralized control scheme was implemented that reduces the required number of cables and takes care of the low-level control of the pneumatic actuators. The design, characterization, and experimental evaluation of the system and its crucial components is shown. The complete prototype is fully functional and was evaluated in a realistic environment of a collapsed building where the remote-controlled robot was able to repeatedly locate a trapped person after a travel distance of about 10m.
+
+SoPrA: Fabrication & Dynamical Modeling of a Scalable Soft Continuum Robotic Arm with Integrated Proprioceptive Sensing
+Yasunori Toshimitsu, Ki Wan Wong, Thomas Jakob Konrad Buchner and Robert K. Katzschmann
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), Online, pp.653-660, New York, NY: IEEE, September 27 - October 1, 2021.
+external page:
+DOI: 10.1109/IROS51168.2021.9636539
+external page:
+Research Collection
+Abstract 
+
+Due to their inherent compliance, soft robots are more versatile than rigid linked robots when they interact with their environment, such as object manipulation or biomimetic motion, and are considered to be the key element in introducing robots to everyday environments. Although various soft robotic actuators exist, past research has focused primarily on designing and analyzing single components. Limited effort has been made to combine each component to create an overall capable, integrated soft robot. Ideally, the behavior of such a robot can be accurately modeled, and its motion within an environment uses its proprioception, without requiring external sensors. This work presents a design and modeling process for a Soft continuum Proprioceptive Arm (SoPrA) actuated by pneumatics. The integrated design is suitable for an analytical model due to its internal capacitive flex sensor for proprioceptive measurements and its fiber-reinforced fluidic elastomer actuators. The proposed analytical dynamical model accounts for the inertial effects of the actuator's mass and the material properties, and predicts in real-time the soft robot's behavior. Our estimation method integrates the analytical model with proprioceptive sensors to calculate external forces, all without relying on an external motion capture system. SoPrA is validated in a series of experiments demonstrating the model's and sensor's accuracy in estimation. SoPrA will enable soft arm manipulation including force sensing while operating in obstructed environments that disallows exteroceptive measurements.
+
+Dynamic Motion Control of Multi-Segment Soft Robots Using Piecewise Constant Curvature Matched with an Augmented Rigid Body Model
+Robert K. Katzschmann, Cosimo Della Santina, Yasunori Toshimitsu, Antonio Bicchi and Daniela Rus
+2nd IEEE International Conference on Soft Robotics (RoboSoft 2019), pp.454-461, Piscataway, NJ: IEEE.
+external page:
+DOI: 10.1109/ROBOSOFT.2019.8722799
+external page:
+Research Collection
+Abstract 
+
+Despite the emergence of many soft-bodied robotic systems, model-based feedback control for soft robots has remained an open challenge. This is largely due to the intrinsic difficulties in designing controllers for systems with infinite dimensions. This work extends our previously proposed formulation for the dynamics of a soft robot from two to three dimensions. The formulation connects the soft robot's dynamic behavior to a rigid-bodied robot with parallel elastic actuation. The matching between the two systems is exact under the hypothesis of Piecewise Constant Curvature. Based on this connection, we introduce a control architecture with the aim of achieving accurate curvature and bending control. This controller accounts for the natural softness of the system moving in three dimensions, and for the dynamic forces acting on the system. The controller is validated in a realistic simulation, together with a kinematic inversion algorithm. The paper also introduces a soft robot capable of three-dimensional motion, that we use to experimentally validate our control strategy. © 2019 IEEE
+
+Soft Robotic Fingers with Embedded Ionogel Sensors and Discrete Actuation Modes for Somatosensitive Manipulation
+Ryan L. Truby, Robert K. Katzschmann, Jennifer A. Lewis and Daniela Rus
+2nd IEEE International Conference on Soft Robotics (RoboSoft 2019), Seoul, South Korea, pp.322-329, Piscataway, NJ: IEEE, April 14-18, 2019.
+external page:
+DOI: 10.1109/ROBOSOFT.2019.8722722
+external page:
+Research Collection
+Abstract 
+
+Soft robotic grippers enable gentle, adaptive, and bioinspired manipulation that is simply not possible using traditional rigid robots. However, it has remained challenging to create multi-degree-of-freedom soft actuators with appropriate sensory capabilities for soft manipulators requiring greater dexterity and closed-loop control. In this work, we use embedded 3D printing to produce soft robotic fingers with discrete actuation modes and integrated ionogel soft sensors that provide proprioceptive and tactile sensing corresponding to each degree of freedom. With new readout electronics that streamline the measurement of sensor resistance, we evaluate the fingers' sensory feedback through free and blocked displacement experiments. We integrate three of our sensorized fingers together to create a soft manipulator with different grasping poses. Finally, we showcase the importance of the fingers' discrete actuation modes and integrated sensors via a closed-loop grasping study. Our methods demonstrate an enabling manufacturing platform that can be adapted to create other soft multi-DOF manipulators requiring somatosensory feedback for a variety of closed-loop and machine learning-based control algorithms. © 2019 IEEE
+
+Dynamically Closed-Loop Controlled Soft Robotic Arm using a Reduced Order Finite Element Model with State Observer
+Robert K. Katzschmann, Maxime Thieffry, Olivier Goury, Alexandre Kruszewski, Thierry-Marie Guerra, Christian Duriez and Daniela Rus
+2nd IEEE International Conference on Soft Robotics (RoboSoft 2019), Seoul, South Korea, pp.717-724, Piscataway, NJ: IEEE, April 14-18, 2019.
+external page:
+DOI: 10.1109/ROBOSOFT.2019.8722804
+external page:
+Research Collection
+Abstract 
+
+This paper presents a computationally efficient method to model and simulate soft robots. Finite element methods enable us to simulate and control soft robots, but require us to work with a large dimensional system. This limits their use in real-time simulation and makes those methods less suitable for control design tools. Using model order reduction, it is possible to create a reduced order system for building controllers and observers. Model reduction errors are taken into account in the design of the low-order feedback, and it is then applied to the large dimensional, unreduced model. The control architecture is based on a linearized model of the robot and enables the control of the robot around this equilibrium point. To show the performance of this control method, pose-to-pose and trajectory tracking experiments are conducted on a pneumatically actuated soft arm. The soft arm has 12 independent interior cavities that can be pressurized and cause the arm to move in three dimensions. The arm is made of a rubber material and is casted through a lost-wax fabrication technique. © 2019 IEEE
+
+Dynamic control of soft robots interacting with the environment
+Cosimo Della Santina, Robert K. Katzschmann, Antonio Bicchi and Daniela Rus
+1st IEEE International Conference on Soft Robotics (RoboSoft 2018), Livorno, Italy, pp.46-53, Piscataway, NJ: IEEE, April 24-28, 2018.
+external page:
+DOI: 10.1109/ROBOSOFT.2018.8404895
+external page:
+Research Collection
+Abstract 
+
+Despite the emergence of many soft-bodied robotic systems, model-based feedback control has remained an open challenge. This is largely due to the intrinsic difficulties in designing controllers for systems with infinite dimensions. In this paper we propose an alternative formulation of the soft robot dynamics which connects the robot's behavior with the one of a rigid bodied robot with elasticity in the joints. The matching between the two system is exact under the common hypothesis of Piecewise Constant Curvature. Based on this connection we introduce two control architectures, with the aim of achieving accurate curvature control and Cartesian regulation of the robot's impedance, respectively. The curvature controller accounts for the natural softness of the system, while the Cartesian controller adapts the impedance of the end effector for interactions with an unstructured environment. This work proposes the first closed loop dynamic controller for a continuous soft robot. The controllers are validated and evaluated on a physical soft robot capable of planar manipulation. © 2018 IEEE.
+
+Enabling Independent Navigation for Visually Impaired People through a Wearable Vision-Based Feedback System
+Hsueh-Cheng Wang, Robert K. Katzschmann, Santani Teng, Brandon Araki, Laura Giarre and Daniela Rus
+IEEE International Conference on Robotics and Automation (ICRA 2017), Singapore, pp.6533-6540, Piscataway, NJ: IEEE, May 29 - June 3, 2017.
+external page:
+DOI: 10.1109/ICRA.2017.7989772
+external page:
+Research Collection
+Abstract 
+
+This work introduces a wearable system to provide situational awareness for blind and visually impaired people. The system includes a camera, an embedded computer and a haptic device to provide feedback when an obstacle is detected. The system uses techniques from computer vision and motion planning to (1) identify walkable space; (2) plan step-by-step a safe motion trajectory in the space, and (3) recognize and locate certain types of objects, for example the location of an empty chair. These descriptions are communicated to the person wearing the device through vibrations. We present results from user studies with low- and high-level tasks, including walking through a maze without collisions, locating a chair, and walking through a crowded environment while avoiding people. © 2017 IEEE.
+
+Printable hydraulics: A method for fabricating robots by 3D co-printing solids and liquids
+Robert MacCurdy, Robert K. Katzschmann, Youbin Kim and Daniela Rus
+2016 IEEE International Conference on Robotics and Automation (ICRA 2016), Stockholm, Sweden, pp.3878-3885, Piscataway, NJ: IEEE, May 16-21, 2018.
+external page:
+Research Collection
+Abstract 
+
+This paper introduces a novel technique for fabricating functional robots using 3D printers. Simultaneously depositing photopolymers and a non-curing liquid allows complex, pre-filled fluidic channels to be fabricated. This new printing capability enables complex hydraulically actuated robots and robotic components to be automatically built, with no assembly required. The technique is showcased by printing linear bellows actuators, gear pumps, soft grippers and a hexapod robot, using a commercially-available 3D printer. We detail the steps required to modify the printer and describe the design constraints imposed by this new fabrication approach. © 2016 IEEE.
+
+Cyclic hydraulic actuation for soft robotic devices
+Robert K. Katzschmann, Austin De Maille, David L. Dorhout and Daniela Rus
+2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), Daejeon, South Korea, pp.3048-3055, Piscataway, NJ: IEEE, October 9-14, 2016.
+external page:
+DOI: 10.1109/IROS.2016.7759472
+external page:
+Research Collection
+Abstract 
+
+Undulating structures are one of the most diverse and successful forms of locomotion in nature, both on ground and in water. This paper presents a comparative study for actuation by undulation in water.We focus on actuating a 1DOF systems with several mechanisms. A hydraulic pump attached to a soft body allows for water movement between two inner cavities, ultimately leading to a flexing actuation in a side-toside manner. The effectiveness of six different, self-contained designs based on centrifugal pump, flexible impeller pump, external gear pump and rotating valves are compared. These hydraulic actuation systems combined with soft test bodies were then measured at a lower and higher oscillation frequency. The deflection characteristics of the soft body, the acoustic noise of the pump and the overall efficiency of the system are recorded. A brushless, centrifugal pump combined with a novel rotating valve performed at both test frequencies as the most efficient pump, producing sufficiently large cyclic body deflections along with the least acoustic noise among all pumps tested. An external gear pump design produced the largest body deflection, but consumes an order of magnitude more power and produced high noise levels. Further refinement remains on determining the suitable oscillation frequencies and inner cavity designs for optimal efficiency and movement. © 2016 IEEE.
+
+A compact acoustic communication module for remote control underwater
+Joseph DelPreto, Robert K. Katzschmann, Robert MacCurdy and Daniela Rus
+10th ACM International Conference on Underwater Networks and Systems (WUWNet 2015), Washington, DC, USA, pp.13 New York, NY: Association for Computing Machinery, October 22-24, 2015.
+external page:
+DOI: 10.1145/2831296.2831337
+external page:
+Research Collection
+Abstract 
+
+This paper describes an end-to-end compact acoustic communication system designed for easy integration into remotely controlled underwater operations. The system supports up to 2048 commands that are encoded as 16 bit words. We present the design, hardware, and supporting algorithms for this system. A pulse-based FSK modulation scheme is presented, along with a method of demodulation requiring minimal processing power that leverages the Goertzel algorithm and dynamic peak detection. We packaged the system together with an intuitive user interface for remotely controlling an autonomous underwater vehicle. We evaluated this system in the pool and in the open ocean. We present the communication data collected during experiments using the system to control an underwater robot. Copyright 2015 ACM.
+
+A soft cube capable of controllable continuous jumping
+Shuguang Li, Robert K. Katzschmann and Daniela Rus
+2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015), Hamburg, Germany, pp.1712-1717, Piscataway, NJ: IEEE, September 28 - October 2, 2015.
+external page:
+DOI: 10.1109/IROS.2015.7353598
+external page:
+Research Collection
+Abstract 
+
+Soft-bodied robots are designed to work in the physical world with a high compliance, while most of them lack in highly dynamic motion. In this paper, we present a soft-bodied jumping robot, which leverages its body's elasticity to achieve a highly dynamic passive bouncing motion after an active jumping motion. This robot has a cubic shape. It is covered by silicone foam, and each of its six faces has an opening to allow for jumping actuation. By winding up and releasing an elastic strip, the robot can jump in two directions at any orientation. We present the design, and fabrication process, and experimental results. By comparing this robot with a rigid version of the robot, we show that this soft-bodied robot can use a single jump to travel longer forward than its rigid counterpart. © 2015 IEEE.
+
+Haptic Identification of Objects using a Modular Soft Robotic Gripper
+Bianca S. Homberg, Robert K. Katzschmann, Mehmet R. Dogar and Daniela Rus
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015), Hamburg, Germany, pp.1698-1705, Piscataway, NJ: IEEE, September 28 - October 17, 2015.
+external page:
+DOI: 10.1109/IROS.2015.7353596
+external page:
+Research Collection
+Abstract 
+
+This work presents a soft hand capable of robustly grasping and identifying objects based on internal state measurements. A highly compliant hand allows for intrinsic robustness to grasping uncertainty, but the specific configuration of the hand and object is not known, leaving undetermined if a grasp was successful in picking up the right object. A soft finger was adapted and combined to form a three finger gripper that can easily be attached to existing robots, for example, to the wrist of the Baxter robot. Resistive bend sensors were added within each finger to provide a configuration estimate sufficient for distinguishing between a set of objects. With one data point from each finger, the object grasped by the gripper can be identified. A clustering algorithm to find the correspondence for each grasped object is presented for both enveloping grasps and pinch grasps. This hand is a first step towards robust proprioceptive soft grasping. © 2015 IEEE
+
+Whole arm planning for a soft and highly compliant 2D robotic manipulator
+Andrew D. Marchese, Robert K. Katzschmann and Daniela Rus
+2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014), Chicago, IL, USA, pp.554-560, Piscataway, NJ: IEEE, September 14-18, 2014.
+external page:
+DOI: 10.1109/IROS.2014.6942614
+external page:
+Research Collection
+Abstract 
+
+Soft continuum manipulators have the advantage of being more compliant and having more degrees of freedom than rigid redundant manipulators. This attribute should allow soft manipulators to autonomously execute highly dexterous tasks. However, current approaches to motion planning, inverse kinematics, and even design limit the capacity of soft manipulators to take full advantage of their inherent compliance. We provide a computational approach to whole arm planning for a soft planar manipulator that advances the arm's end effector pose in task space while simultaneously considering the arm's entire envelope in proximity to a confined environment. The algorithm solves a series of constrained optimization problems to determine locally optimal inverse kinematics. Due to inherent limitations in modeling the kinematics of a highly compliant soft robot and the local optimality of the planner's solutions, we also rely on the increased softness of our newly designed manipulator to accomplish the whole arm task, namely the arm's ability to harmlessly collide with the environment. We detail the design and fabrication of the new modular manipulator as well as the planner's central algorithm. We experimentally validate our approach by showing that the robotic system is capable of autonomously advancing the soft arm through a pipe-like environment in order to reach distinct goal states. © 2014 IEEE.
+
+Hydraulic Autonomous Soft Robotic Fish for 3D Swimming
+Robert K. Katzschmann, Andrew D. Marchese and Daniela Rus
+14th International Symposium on Experimental Robotics (ISER 2014), Marrakech, Morocco, pp.405-420, Cham: Springer, June 15-18, 2014.
+external page:
+DOI: 10.1007/978-3-319-23778-7_27
+external page:
+Research Collection
+Abstract 
+
+This work presents an autonomous soft-bodied robotic fish that is hydraulically actuated and capable of sustained swimming in three dimensions. The design of a fish-like soft body has been extended to deform under hydraulic instead of pneumatic power. Moreover, a new closed-circuit drive system that uses water as a transmission fluid is used to actuate the soft body. Circulation of water through internal body channels provides control over the fish’s caudal fin propulsion and yaw motion. A new fabrication technique for the soft body is described, which allows for arbitrary internal fluidic channels, enabling a wide-range of continuous body deformations. Furthermore, dynamic diving capabilities are introduced through pectoral fins as dive planes. These innovations enable prolonged fish-like locomotion in three dimensions. © Springer International Publishing
+
+Towards online trajectory generation considering robot dynamics and torque limits
+Robert K. Katzschmann, Torsten Kröger, Tamim Asfour and Oussama Khatib
+26th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2013), Tokyo, Japan, pp.5644-5651, Piscataway, NJ: IEEE, November 3-7, 2013.
+external page:
+DOI: 10.1109/IROS.2013.6697174
+external page:
+Research Collection
+Abstract 
+
+Generating robot motion trajectories instantaneously in the moment unforeseen sensor events happen is very essential for many real-world robot applications. Using a previous work on online trajectory generation as a basis, this paper proposes an alternative approach that also considers dynamic models. The former class of algorithms does not take into account dynamically changing acceleration capabilities based on maximum actuator forces/torques. This paper extends target velocity-based algorithms of the previous approach by taking into consideration the entire system dynamics when generating trajectories online within one control cycle (typically 1 ms or less). The extension includes the acceleration capabilities of a robot at every discrete time step assuming constant values for the maximum actuator forces/torques, thus allowing the generation of adaptive trajectory profiles during the motion of the robot. Several real-world experimental results using a seven-degree-of-freedom lightweight robot arm underline the relevance of this extension. © 2013 IEEE
+
+Related content
+Journal Articles
+Thesis Works
+Publications
+Footer
+Search
+Keyword or person
+Follow us
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+
+SRL Contact
+
+Email
+
+Soft Robotics Lab
+8092 Zurich
+Schweiz
+
+
+Soft and Biohybrid Robotics
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+=== https://srl.ethz.ch/publications.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Soft Robotics Lab
+Main Navigation
+Lab News
+The Group
+Open Position
+Research Areas
+Research Platforms
+Education
+Publications
+(active)
+Partnerships & Spin-offs
+Search
+Departments
+ETH Zurich
+D-MAVT
+IRIS
+Soft Robotics
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+
+Explore the publications from the Soft Robotics Lab, showcasing our latest research in bio-inspired robotics, soft materials, advanced control systems, and machine learning. The publications are can be categorized into journal articles, conference papers, and thesis works, which can be accessed through the subpages below.
+
+Childpage navigation
+Journal Articles
+Conference Papers
+Thesis Works
+All Publications of the Soft Robotics Lab
+
+Page 1 loaded
+1 – 10 of 144
+High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing
+Jaehoon Kim, Boshi An, Lazaros Christoforidis, Michail Papadakis, Victor Kartsch and Robert K. Katzschmann
+IEEE Robotics and Automation Letters, vol. 11: no. 12, pp. 14164-14171, IEEE, 2026.
+external page:
+DOI: 10.1109/lra.2026.3741779
+external page:
+Research Collection
+Abstract 
+
+Dexterous robotic hands require high-speed multimodal sensing across many degrees of freedom, yet existing readout architectures often impose trade-offs between sensor count, wiring complexity, and sampling bandwidth. This paper presents a scalable analog sensor readout architecture based on a serial-in parallel-out (SIPO) shift-register principle. The proposed architecture supports versatile integration of heterogeneous analog-output sensors, scalable expansion using only three signal lines between sensor modules, and fast, configurable sampling. We validate the approach on a tendon-driven robotic hand integrating 16 joint sensor modules and one four-channel tactile sensor module, enabling acquisition of 20 sensor channels at a full-scan rate of 1 kHz, with stable operation up to 1.5 kHz. Joint sensor characterization showed a maximum slope absolute percentage error (APE) of 0.446% and sub-degree estimation error, indicating that the proposed readout system preserves sensing performance. For tactile sensing, LSTM-based models enabled real-time force estimation and contact-location classification at 1 kHz. System-level experiments showed that the joint sensors provided more accurate feedback than motor-based estimation during interaction. Closed-loop experiments further demonstrated improved joint trajectory tracking using joint-sensor feedback and force-controlled object pinching using tactile feedback. The proposed architecture offers a practical path toward sensorized robotic hands for dexterous manipulation.
+
+A Benchmark of Dexterity for Anthropomorphic Robotic Hands
+Davide Liconti, Yuning Zhou, Yasunori Toshimitsu, Ronan Hinchet, Aurel X. Appius and Robert K. Katzschmann
+IEEE Robotics and Automation Letters, vol. 11: no. 11, pp. 13287-13294, IEEE, 2026.
+external page:
+DOI: 10.1109/LRA.2026.3735899
+external page:
+Research Collection
+Abstract 
+
+Dexterity is a central yet ambiguously defined concept in anthropomorphic robotic hands. The term is used inconsistently, with systems evaluated under disparate criteria, making comparisons across designs difficult. This calls for a unified, performance-based definition of dexterity grounded in measurable outcomes rather than proxy metrics. We introduce POMDAR, a benchmark that formalizes dexterity as task performance across a structured set of manipulation and grasping motions, systematically derived from established taxonomies in human motor control. It is implemented in real-world and simulation, with four manipulation configurations: vertical and horizontal configurations, continuous rotation, and pure grasping. The task designs contain mechanical scaffolding to constrain task motion, suppress compensatory strategies, and enable unambiguous measurement. We define a quantitative metric combining task correctness and execution speed, measuring dexterity as throughput. This enables objective, reproducible, and interpretable evaluation across hand designs. POMDAR provides an open-source, standardized, and taxonomy-grounded benchmark for consistent comparison of anthropomorphic robot hands to facilitate the evaluation and optimization of anthropomorphic robotic hands.
+
+Nonlinear spectral modeling and control of soft-robotic muscles from data
+Leonardo Bettini, Amirhossein Kazemipour, Robert K. Katzschmann and George Haller
+Nature Communications, vol. 17: no. 1, pp. 10897, Nature, 2026.
+external page:
+DOI: 10.1038/s41467-026-77664-0
+external page:
+Research Collection
+Abstract 
+
+Artificial muscles are essential for compliant musculoskeletal robotics but complicate control due to nonlinear multiphysics dynamics. Electrohydraulic actuators, a class of soft artificial muscles, offer high performance but exhibit memory effects and hysteresis. Here we present a data-driven reduction and control strategy grounded in spectral submanifold theory. In the adiabatic regime, where inputs vary slowly relative to intrinsic transients, trajectories rapidly converge to a low-dimensional slow manifold. We learn an explicit input-to-output map on this manifold directly from forced-response trajectories, eliminating the need for decay experiments generated by large step inputs, which can induce pronounced hysteretic behavior and are often unrepresentative of normal operating conditions. We deploy the spectral-submanifold-based model for real-time control of an antagonistic electrohydraulic-clutch joint. This approach yields a substantial reduction in tracking error compared to feedback-only and feedforward-only baselines under identical settings. This record-and-control workflow enables rapid characterization and high-performance control of soft muscles and muscle-driven joints without detailed physics-based modeling.
+
+Co-optimized volumetric muscle design for large dynamic deformations in versatile biohybrid robots
+Aiste Balciunaite, Mike Yan Michelis, Miriam Filippi, Pablo Paniagua Hernández, Oncay Yasa and Robert K. Katzschmann
+Nature Communications, vol. 17: no. 1, pp. 10732, Nature, 2026.
+external page:
+DOI: 10.1038/s41467-026-77655-1
+external page:
+Research Collection
+Abstract 
+
+Biohybrid robots use engineered living muscle tissue as actuators, offering self-organization, adaptability, and self-healing. Current designs focus on improving muscle physiology but overlook the interplay between muscle and scaffold in the robot’s function. We present a computational and experimental pipeline to co-optimize the form and function of centimeter-scale bioactuators. Using a soft-body simulation framework, we modeled unified muscle–scaffold systems and applied an evolutionary algorithm and targeted parameter sweeps to maximize range of motion. The resulting bioactuators, fabricated by integrating skeletal muscle tissue with microgrooved hydrogel scaffolds, feature a continuous interface enabling efficient force transmission and large, rapid deformations. They achieved up to an eleven-fold increase in range of motion over previous designs of similar muscle volume, powering robots capable of jumping, swimming, walking, and gripping, and scalable into multi-unit systems. By unifying modeling, optimization, and fabrication, we demonstrate how such a pipeline accelerates the development of high-performance biohybrid robots.
+
+Emerging Frontiers and Technological Challenges in Soft Robotics
+Jiangtao Su, Shun An, Lucia Beccai, Lei Chen, Xingyu Chen, Shengshun Duan, Lioz Etgar, Huajian Gao, Amir D. Gat, Qi Ge, Shang Gong, Cuntai Guan, Robert K. Katzschmann, Cecilia Laschi, Pooi See Lee, Jiaji Li, Yifan Li, Chwee Teck Lim, Qingyang Liu, Ziwei Liu and et al.
+ACS Nano, vol. 20: no. 35, pp. 24135-24167, American Chemical Society, 2026.
+external page:
+DOI: 10.1021/acsnano.6c13106
+external page:
+Research Collection
+Abstract 
+
+Soft robotics is evolving from a field centered on compliant mechanisms toward a broader paradigm of embodied physical intelligence, in which materials, mechanics, sensing, and computation are deeply integrated. Despite rapid progress, major challenges remain in actuation, perception, autonomy, scalability, and real-world deployment. In this Nano Focus article, we highlight emerging frontiers and technological challenges spanning multifunctional materials, distributed sensing, additive manufacturing, artificial intelligence, and biohybrid systems. Advances in nanoscience and nanotechnology increasingly underpin these developments by enabling the integration of sensing, actuation, and adaptive functionalities across length scales. Collectively, these advances are establishing a foundation for intelligent matter, programmable physical intelligence, and life-like adaptive systems.
+
+Integrated by Design: A Hybrid Robotic Palm Fusing a Functionally-Dense Compliant Matrix with an Actuated Skeleton
+Oliver S. Neumann, Lena S. Ewering and Robert K. Katzschmann
+IEEE Robotics and Automation Letters, vol. 11: no. 8, pp. 9915-9921, IEEE, 2026.
+external page:
+DOI: 10.1109/LRA.2026.3703500
+external page:
+Research Collection
+Abstract 
+
+Inspired by the human hand, this work presents a hybrid soft-rigid architecture for a robotic palm to enhance dexterity and robustness. While soft-robotic hands often lack the structural integrity to handle heavy objects, classical rigid designs are sensitive to impacts and frequently neglect the palm's functional role. We bridge that gap by combining soft compliance with skeletal elements for robust force transmission. In our design, rigid metacarpal bones house local actuation and transmission units. These units receive torque from forearm-based motors via flexible shafts to drive tendon actuation. We embed these elements in a 3D-printed silicone matrix, which eliminates the design restrictions of traditional moulding. Ball joints for the thumb and little finger enable the formation of three palmar arches. In experiments, the palm achieved active and passive deformations of 74% and 67%, respectively, relative to its neutral width. This shape adaptability offers practical benefits in confined spaces, where internal palm movements enable new grasping and manipulation techniques previously difficult to achieve with traditional designs.
+
+Machine learning approaches for biomechanical and bioelectrical regulation in developmental tissue engineering
+Miriam Filippi and Robert K. Katzschmann
+Bio-Design and Manufacturing, vol. 9: no. 4, pp. 726-755, Springer, 2026.
+external page:
+DOI: 10.1631/bdm.2500560
+external page:
+Research Collection
+Abstract 
+
+Developmental tissue engineering is increasingly guided by the principles of morphogenesis, cellular self-organization, and dynamic microenvironmental regulation, moving beyond static scaffold design and towards adaptive, development-inspired strategies. Integrating insights from developmental biology has revealed new structural-functional relationships and more robust tissue maturation pathways, thereby unlocking biofabrication strategies that harness intrinsic biological regulatory mechanisms rather than imposing static architectures on engineered tissue. This review examines machine learning (ML) applications to tissue engineering within a developmental context, emphasizing how bioelectric, biomechanical, and morphogenic cues influence cell fate, tissue organization, and adaptive growth. We highlight how data-driven and physics-based models, surrogate modeling, and generative design can integrate complex biological data, simulate evolving microenvironments, and guide experimental biofabrication. Despite these advances, significant challenges remain, such as the integration of heterogeneous and multiscale biological data, limitations in model interpretability and generalizability, and ethical and regulatory considerations regarding data use and artificial intelligence (AI)-guided decision-making in biofabrication applications. Through the coupling of developmental principles with computational tools, ML-driven tissue engineering is nevertheless well positioned to enable more predictive, adaptive, and reproducible paradigms for creating functional living systems.
+
+Sensorized Engineered Tissues with Built-in Thermoregulation and Nutrient Supply
+Antonia Georgopoulou, Jakob Schreiner, Miriam Filippi, Aiste Balciunaite, Robert K. Katzschmann and Esther Amstad
+Advanced Functional Materials, vol. 36: no. 38, pp. e30747, Wiley-VCH, 2026.
+external page:
+DOI: 10.1002/adfm.202530747
+external page:
+Research Collection
+Abstract 
+
+Engineered tissues are widely used to replicate and restore biological structures; however, their functionality critically depends on high cell survival. Cell viability is often compromised when tissues are handled or stored outside controlled environments due to temperature fluctuations and nutrient depletion. While incubators can mitigate these limitations, maintaining stable conditions during handling and transport remains challenging. To address this challenge, we introduce a hydrogel-based tissue engineering scaffold with integrated thermoregulation and nutrient delivery. The scaffold is based on granular hydrogels whose interstitial spaces are functionalized with the conductive polymer poly(3,4-ethylenedioxythiophene) polystyrene sulfonate (PEDOT:PSS), which imparts electronic conductivity, while Zn2⁺ ions enhance ionic conductivity. These additives enable Joule heating, providing control over the substrate temperature. Continuous passive nutrient delivery is achieved by functionalizing the substrate with cell media-loaded polyelectrolyte microfragments. This hydrogel-based platform sustains homeostatic conditions without the need for external incubators, improving cell viability and resilience, which is key, for example, for point-of-care testing and personalized medicine.
+
+General oblique projections for model reduction via spectral submanifolds
+Leonardo Bettini, Amirhossein Kazemipour, Robert K. Katzschmann and George Haller
+Chaos, vol. 36: no. 5, pp. 053122, American Institute of Physics, 2026.
+external page:
+DOI: 10.1063/5.0319241
+external page:
+Research Collection
+Abstract 
+
+Slow spectral submanifolds (SSMs) are low-dimensional, attracting, invariant surfaces in the phase space of a dynamical system that carry the dominant nonlinear dynamics. Nearby trajectories rapidly converge to such slow SSMs and synchronize with its internal dynamics thereby enabling mathematically rigorous model reduction to the SSM. In general, oblique projections are required for optimally associating full trajectories off the SSM to their SSM-reduced counterparts. In this work, we establish a rigorous mathematical mapping of the SSM onto its tangent space via general oblique projections and develop a data-driven procedure to efficiently construct SSM-based reduced-order models using these projections. Our approach applies irrespective of the SSM dimension and assumes only limited trajectory information. We illustrate the method on numerical and experimental examples, including nonlinear beam oscillations and artificial muscle actuators.
+
+Biocompatible Ink Optimization Enables Functional Volumetric Bioprinting With Xolography
+Erik Brauer, Aiste Balciunaite, Matthias R. Kollert, Julian Weihs, Raphael S. Knecht, Rose Behncke, Susanna Quach, Niklas Felix König, Asia Badolato, Stella Monestier, Simone Bersini, Matteo Moretti, Miriam Filippi, René Hägerling, Milad Rezvani, Stefan Hecht, Ansgar Petersen and Robert K. Katzschmann
+Advanced Materials, vol. 38: no. 6, pp. e12058, Wiley-VCH, 2026.
+external page:
+DOI: 10.1002/adma.202512058
+external page:
+Research Collection
+Abstract 
+
+Xolography is a novel linear volumetric manufacturing technique that offers unparalleled precision and speed. Yet, its application to bioprinting remains limited due to insufficient understanding of biocompatibility constraints. Here, this work establishes fundamental design principles for cell-compatible Xolography bioinks by dissecting the effects of extracellular pH, osmolality, and lysosomotropic stress on cell viability and function. By systematically studying the tolerances for these parameters, this work defines a framework for bioink formulations that enables fast, support-free fabrication of complex designs with maintained cell viability and function as validated in different murine and human cell lines, primary human cells and induced pluripotent stem cell (iPSC)-derived cells. These results show that, unlike triethanolamine, BisTris indeed can function as a fully biocompatible co-initiator enabling cell viability beyond 90% as well as uncompromised metabolic activity and differentiation performance when used in a tightly controlled formulation, contrasting previous reports. This work showcases the biomedical potential of the formulation by achieving fibroblast-driven extracellular matrix (ECM) formation, endothelial sprouting from pre-vascularized spheroids, and maintenance of an iPSC-derived hepatocyte differentiation phenotype within Xolography-printed constructs. These advancements transform Xolography into a powerful and foremost reliable bioprinting platform for fabrication of complex, cell-laden structures for versatile applications in tissue engineering, organ-on-a-chip models, and regenerative medicine.
+
+Previous
+Next
+Code, Data and Project Websites
+
+Many of our publications come with a dedicated project website, open-source code, and datasets:
+
+external page
+Project page index (srl-ethz.github.io)
+
+external page
+Open-source repositories (github.com/srl-ethz)
+
+Related content
+Lab News
+The Group
+Open Position
+Research Areas
+Research Platforms
+Education
+Partnerships & Spin-offs
+To homepage
+Footer
+Search
+Keyword or person
+Follow us
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+
+SRL Contact
+
+Email
+
+Soft Robotics Lab
+8092 Zurich
+Schweiz
+
+
+Soft and Biohybrid Robotics
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich

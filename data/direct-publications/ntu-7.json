@@ -1,0 +1,48 @@
+{
+  "university": "Nanyang Technological University",
+  "university_key": "ntu",
+  "pi": "Chen Chun-Hsien",
+  "lab_name": null,
+  "lab_url": null,
+  "publication_urls": [],
+  "accessed_at": "2026-11-12T13:54:12.296Z",
+  "coverage_notes": [
+    {
+      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00176",
+      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Chen-Chun-Hsien",
+      "identity_evidence": "Prof Chen Chun-Hsien",
+      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
+      "website_links": [
+        {
+          "label": "Website",
+          "url": "https://www3.ntu.edu.sg/home/mchchen/"
+        },
+        {
+          "label": "Website",
+          "url": "https://personal.ntu.edu.sg/mchchen"
+        }
+      ]
+    },
+    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.",
+    {
+      "source_page_manifest": [
+        {
+          "source_url": "https://personal.ntu.edu.sg/mchchen",
+          "captured_at": "2026-11-12T13:53:34.654Z",
+          "note": "Official personal faculty URL returns HTTP-style 404 error."
+        },
+        {
+          "source_url": "https://www3.ntu.edu.sg/home/mchchen/",
+          "captured_at": "2026-11-12T13:53:34.663Z",
+          "note": "Alternate official faculty host returns removed resource message."
+        }
+      ],
+      "visible_txt": "/Users/garden/Documents/formyresearch/data/direct-publications/ntu-7.visible.txt"
+    }
+  ],
+  "status": "blocked",
+  "papers": [],
+  "investigation_stage": "full_site_attempted",
+  "blocker": "Both official profile-linked faculty URLs unavailable: personal.ntu.edu.sg/mchchen 404 and www3.ntu.edu.sg/home/mchchen removed resource.",
+  "visibleTXT": "/Users/garden/Documents/formyresearch/data/direct-publications/ntu-7.visible.txt"
+}

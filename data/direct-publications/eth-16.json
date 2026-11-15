@@ -1,0 +1,2141 @@
+{
+  "university": "ETH Zurich",
+  "university_key": "eth",
+  "pi": "Patrick Jenny",
+  "lab_name": null,
+  "lab_url": "https://srl.ethz.ch/",
+  "publication_urls": [
+    "https://ifd.ethz.ch/research/group-jenny/publications.html"
+  ],
+  "accessed_at": "2026-11-12T15:15:25.475850+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Potential flow solutions with viscous interface stresses for axisymmetric configurations",
+      "year": 2027,
+      "citation_raw": "Potential flow solutions with viscous interface stresses for axisymmetric configurations Daniel W. Meyer and Louan Presse Engineering Analysis with Boundary Elements, vol. 194, pp. 107131, Elsevier, 2027.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Heat-up, devolatilization, and ignition of coal particles using point-particle direct numerical simulation",
+      "year": 2026,
+      "citation_raw": "Heat-up, devolatilization, and ignition of coal particles using point-particle direct numerical simulation Heinrich Heinzer, Daniel W. Meyer and Patrick Jenny Computers & Fluids, vol. 320, pp. 107281, Elsevier, 2026.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Polydisperse collision kernels in droplet-laden turbulence with implications for rain formation",
+      "year": 2026,
+      "citation_raw": "Polydisperse collision kernels in droplet-laden turbulence with implications for rain formation Lukas A. Codispoti, Daniel W. Meyer and Patrick Jenny Physical Review Fluids, vol. 11: no. 6, pp. 064601, American Physical Society, 2026.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "The influence of energy-containing scales on the distribution of spectral energy transfers",
+      "year": 2026,
+      "citation_raw": "The influence of energy-containing scales on the distribution of spectral energy transfers Arthur Couteau, Panayotis Dimopoulos Eggenschwiler and Patrick Jenny Journal of Fluid Mechanics, vol. 1032, pp. A15, Cambridge University Press, 2026.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Statistical integro-differential fracture model (Sid-FM) for homogenised scalar transport",
+      "year": 2026,
+      "citation_raw": "Statistical integro-differential fracture model (Sid-FM) for homogenised scalar transport Shangyi Cao, Daniel Stalder, Daniel W. Meyer and Patrick Jenny Journal of Fluid Mechanics, vol. 1030, pp. A44, Cambridge University Press, 2026.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Dynamic space-time adaptive volume-of-fluid method for compressible two-phase flows",
+      "year": 2026,
+      "citation_raw": "Dynamic space-time adaptive volume-of-fluid method for compressible two-phase flows Yijun Wang, Jonas Luther, David Jenny and Patrick Jenny Computer Methods in Applied Mechanics and Engineering, vol. 449, pp. 118514, Elsevier, 2026.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Sparse data assimilation for under-resolved large-eddy simulations",
+      "year": 2026,
+      "citation_raw": "Sparse data assimilation for under-resolved large-eddy simulations Justin Plogmann, Oliver Brenner and Patrick Jenny Computer Methods in Applied Mechanics and Engineering, vol. 448, pp. 118421, Elsevier, 2026.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Spectral energy coupling across scales - convective and viscous interactions in turbulent flows",
+      "year": 2026,
+      "citation_raw": "Spectral energy coupling across scales - convective and viscous interactions in turbulent flows Arthur Couteau Doctoral Thesis, Zurich, ETH Zurich, 2026.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Thermal and heat transfer dynamics in high pressure, high aspect ratio hydrogen tank filling processes",
+      "year": 2025,
+      "citation_raw": "Thermal and heat transfer dynamics in high pressure, high aspect ratio hydrogen tank filling processes Arthur Couteau, Henry Raymond Alvarez, Patrick Jenny and Panayotis Dimopoulos Eggenschwiler International Journal of Hydrogen Energy, vol. 194, pp. 152513, Elsevier, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Statistical integro-differential fracture model (Sid-FM) for isolated fractures with variable apertures and lengths",
+      "year": 2025,
+      "citation_raw": "Statistical integro-differential fracture model (Sid-FM) for isolated fractures with variable apertures and lengths Daniel Stalder, Shangyi Cao, Daniel W. Meyer and Patrick Jenny Advances in Water Resources, vol. 206, pp. 105125, Elsevier, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A particle method and adaptive diffusion-based regularization approach for multiphase flow and transport in fractured porous media",
+      "year": 2025,
+      "citation_raw": "A particle method and adaptive diffusion-based regularization approach for multiphase flow and transport in fractured porous media Ranit Monga, Daniel W. Meyer and Patrick Jenny Journal of Hydrology, vol. 661: no. Part A, pp. 133327, Elsevier, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "RAPTOR: Practical Numerical Profiling of Scientific Applications",
+      "year": 2025,
+      "citation_raw": "RAPTOR: Practical Numerical Profiling of Scientific Applications Faveo Hoerold, Ivan R. Ivanov, Akash Dhruv, William S. Moses, Anshu Dubey, Mohamed Wahib and Jens Domke International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2025), St. Louis, MO, USA, pp.661-680, New York, NY: Association for Computing Machinery, November 16-21, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Demonstration of a Mechanical External Biventricular Assist Device for Resuscitative Thoracotomy",
+      "year": 2025,
+      "citation_raw": "Demonstration of a Mechanical External Biventricular Assist Device for Resuscitative Thoracotomy Kristof Sarosi, Thomas Kummer, Thomas Roesgen, Stijn Vandenberghe, Stefanos Demertzis and Patrick Jenny Cardiovascular Engineering and Technology, vol. 16: no. 5, pp. 551-562, Springer, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Fracture Displacement Basis Function (FDBF) method for efficient geomechanical calculations of fractured rock",
+      "year": 2025,
+      "citation_raw": "Fracture Displacement Basis Function (FDBF) method for efficient geomechanical calculations of fractured rock Giulia Conti, Stephan K. Matthäi and Patrick Jenny International Journal of Rock Mechanics and Mining Sciences, vol. 194, pp. 106219, Elsevier, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Prior Aperture Realizations From Far-Field Stress Approximation for Ensemble-Based Data Assimilation in Naturally Fractured Reservoirs",
+      "year": 2025,
+      "citation_raw": "Prior Aperture Realizations From Far-Field Stress Approximation for Ensemble-Based Data Assimilation in Naturally Fractured Reservoirs Michael Alois Liem, Giulia Conti, Stephan Matthai and Patrick Jenny Water Resources Research, vol. 61: no. 9, pp. e2023WR036417, Wiley, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Shape modes and jet formation on ultrasound-driven wall-attached bubbles",
+      "year": 2025,
+      "citation_raw": "Shape modes and jet formation on ultrasound-driven wall-attached bubbles Marco Cattaneo, Louan Presse, Gazendra Shakya, Thomas Renggli, Bratislav Lukić, Anunay Prasanna, Daniel Werner Meyer, Alexander Rack and Outi Supponen Journal of Fluid Mechanics, vol. 1017, pp. A9, Cambridge University Press, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Simulating flow in fractured porous media with spatially varying fracture statistics using a non-local kernel-based model",
+      "year": 2025,
+      "citation_raw": "Simulating flow in fractured porous media with spatially varying fracture statistics using a non-local kernel-based model Shangyi Cao, Daniel Stalder, Daniel W. Meyer and Patrick Jenny Journal of Fluid Mechanics, vol. 1012, pp. A25, Cambridge University Press, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Non-Linear Super-Stencils for turbulence model corrections",
+      "year": 2025,
+      "citation_raw": "Non-Linear Super-Stencils for turbulence model corrections Jonas Luther and Patrick Jenny Communications Physics, vol. 8: no. 1, pp. 233, Nature, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Catalytic and gas-phase combustion of SOFC off-gases over platinum surfaces: an experimental and numerical investigation at pressures up to 8 bar",
+      "year": 2025,
+      "citation_raw": "Catalytic and gas-phase combustion of SOFC off-gases over platinum surfaces: an experimental and numerical investigation at pressures up to 8 bar Vinoth K. Arumugam, Ulrich Doll and John Mantzaras Combustion and Flame, vol. 276, pp. 114167, Elsevier, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Flow patterns and heat transfer characterization during large aspect ratio hydrogen tank filling",
+      "year": 2025,
+      "citation_raw": "Flow patterns and heat transfer characterization during large aspect ratio hydrogen tank filling Arthur Couteau, Panayotis Dimopoulos Eggenschwiler and Patrick Jenny International Journal of Hydrogen Energy, vol. 131, pp. 26-32, Elsevier, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Loosely coupled under-resolved LES/RANS simulation augmented by sparse near-wall measurement",
+      "year": 2025,
+      "citation_raw": "Loosely coupled under-resolved LES/RANS simulation augmented by sparse near-wall measurement Pasha Piroozmand, Oliver Brenner and Patrick Jenny Theoretical and Computational Fluid Dynamics, vol. 39: no. 1, pp. 9, Springer, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Dissecting inertial clustering and sling dynamics in high-Reynolds number particle-laden turbulence",
+      "year": 2025,
+      "citation_raw": "Dissecting inertial clustering and sling dynamics in high-Reynolds number particle-laden turbulence Lukas A. Codispoti, Daniel W. Meyer and Patrick Jenny Physics of Fluids A, vol. 37: no. 1, pp. 015161, American Institute of Physics, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Adaptive conservative time integration for unsteady compressible flow",
+      "year": 2024,
+      "citation_raw": "Adaptive conservative time integration for unsteady compressible flow Jonas Luther, Yijun Wang and Patrick Jenny Journal of Computational Physics, vol. 517, pp. 113324, Elsevier, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Spectral adjoint-based assimilation of sparse data in unsteady simulations of turbulent flows",
+      "year": 2024,
+      "citation_raw": "Spectral adjoint-based assimilation of sparse data in unsteady simulations of turbulent flows Justin Plogmann, Oliver Brenner and Patrick Jenny Physics of Fluids, vol. 36: no. 10, pp. 105130, American Institute of Physics, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Variational assimilation of sparse time-averaged data for efficient adjoint-based optimization of unsteady RANS simulations",
+      "year": 2024,
+      "citation_raw": "Variational assimilation of sparse time-averaged data for efficient adjoint-based optimization of unsteady RANS simulations Justin Plogmann, Oliver Brenner and Patrick Jenny Computer Methods in Applied Mechanics and Engineering, vol. 427, pp. 117052, Elsevier, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A variational data assimilation approach for sparse velocity reference data in coarse RANS simulations through a corrective forcing term",
+      "year": 2024,
+      "citation_raw": "A variational data assimilation approach for sparse velocity reference data in coarse RANS simulations through a corrective forcing term Oliver Brenner, Justin Plogmann, Pasha Piroozmand and Patrick Jenny Computer Methods in Applied Mechanics and Engineering, vol. 427, pp. 117026, Elsevier, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Heat transfer and evaporation processes from the Enskog-Vlasov equation and its moment equations",
+      "year": 2024,
+      "citation_raw": "Heat transfer and evaporation processes from the Enskog-Vlasov equation and its moment equations Henning Struchtrup, Hamidreza Jahandideh, Arthur Couteau and Aldo Frezzotti International Journal of Heat and Mass Transfer, vol. 223, pp. 125238, Elsevier, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Leptomeningeal collaterals regulate reperfusion in ischemic stroke and rescue the brain from futile recanalization",
+      "year": 2024,
+      "citation_raw": "Leptomeningeal collaterals regulate reperfusion in ischemic stroke and rescue the brain from futile recanalization Nadine Felizitas Binder, Mohamad El Amki, Chaim Glück, William Middleham, Anna Maria Reuss, Adrien Bertolo, Patrick Thurner, Thomas Deffieux, Chryso Lambride, Robert Epp, Hannah-Lea Handelsmann, Philipp Baumgartner, Cyrille Orset, Philipp Bethge, Zsolt Kulcsar, Adriano Aguzzi, Mickael Tanter, Franca Schmid, Denis Vivien, Matthias T. Wyss, Michael Weller, Bruno Weber and Susanne Wegener Neuron, vol. 112: no. 9, pp. 1456-1472.e6, Cell Press, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "XFVM modelling of fracture aperture induced by shear and tensile opening",
+      "year": 2024,
+      "citation_raw": "XFVM modelling of fracture aperture induced by shear and tensile opening Giulia Conti, Stephan Matthäi and Patrick Jenny Computational Geosciences, vol. 28: no. 2, pp. 227-239, Springer, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A pore-level 3D lattice Boltzmann simulation of mass transport and reaction in catalytic particles used for methane synthesis",
+      "year": 2024,
+      "citation_raw": "A pore-level 3D lattice Boltzmann simulation of mass transport and reaction in catalytic particles used for methane synthesis Seyyed Meysam Khatoonabadi, Nikolaos I. Prasianakis and John Mantzaras International Journal of Heat and Mass Transfer, vol. 221, pp. 125025, Elsevier, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Consistent treatment of shear failure in embedded discrete fracture models using XFVM",
+      "year": 2024,
+      "citation_raw": "Consistent treatment of shear failure in embedded discrete fracture models using XFVM Giulia Conti, Rajdeep Deb, Stephan K. Matthäi and Patrick Jenny International Journal for Numerical and Analytical Methods in Geomechanics, vol. 48: no. 4, pp. 951-973, Wiley, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Experimental and numerical investigation of high-pressure methane catalytic synthesis from H₂ and CO₂",
+      "year": 2024,
+      "citation_raw": "Experimental and numerical investigation of high-pressure methane catalytic synthesis from H₂ and CO₂ Vinoth K. Arumugam, John Mantzaras, Andreas Gantenbein, Ulrich Doll and Tilman Schildhauer Proceedings of the Combustion Institute, vol. 40: no. 1-4, pp. 105206, Elsevier, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Fast monotonically integrated large eddy simulation solver: validation of a new scalable tool to study and optimize indoor ventilation",
+      "year": 2024,
+      "citation_raw": "Fast monotonically integrated large eddy simulation solver: validation of a new scalable tool to study and optimize indoor ventilation Niklaus M. Leuenberger, Rui Yang, Lukas Münzel, Roberto Verzicco, Detlef Lohse, Lydia Bourouiba and Patrick Jenny Flow, vol. 4, pp. E23, Cambridge University Press, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Advancing the temporal direct deconvolution method with spatial regularization",
+      "year": 2024,
+      "citation_raw": "Advancing the temporal direct deconvolution method with spatial regularization Daniel Oberle, C. David Pruett and Patrick Jenny Physics of Fluids, vol. 36: no. 1, pp. 015159, American Institute of Physics, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Dimensionality reduction for regularization of sparse data-driven RANS simulations",
+      "year": 2023,
+      "citation_raw": "Dimensionality reduction for regularization of sparse data-driven RANS simulations Pasha Piroozmand, Oliver Brenner and Patrick Jenny Journal of Computational Physics, vol. 492, pp. 112404, Elsevier, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Data-driven stochastic particle scheme for collisional plasma simulations",
+      "year": 2023,
+      "citation_raw": "Data-driven stochastic particle scheme for collisional plasma simulations K. Chung, Fei Fei, M.H. Gorji and Patrick Jenny Journal of Computational Physics, vol. 492, pp. 112400, Elsevier, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "The role of leptomeningeal collaterals in redistributing blood flow during stroke",
+      "year": 2023,
+      "citation_raw": "The role of leptomeningeal collaterals in redistributing blood flow during stroke Robert Epp, Chaim Glück, Nadine Felizitas Binder, Mohamad El Amki, Bruno Weber, Susanne Wegener, Patrick Jenny and Franca Schmid PLoS Computational Biology, vol. 19: no. 10, pp. e1011496, PLOS, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Understanding the role of droplet clusters in a reactive mixing layer",
+      "year": 2023,
+      "citation_raw": "Understanding the role of droplet clusters in a reactive mixing layer Philipp Weiss, Daniel W. Meyer and Patrick Jenny Physics of Fluids, vol. 35: no. 10, pp. 105113, American Institute of Physics, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Fast convergence strategy for ambiguous inverse problems based on hierarchical regularization",
+      "year": 2023,
+      "citation_raw": "Fast convergence strategy for ambiguous inverse problems based on hierarchical regularization Robert Epp, Franca Schmid and Patrick Jenny Journal of Computational Physics, vol. 489, pp. 112264, Elsevier, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Tightly coupled hyperbolic treatment of buoyant two-phase flow and transport in porous media",
+      "year": 2023,
+      "citation_raw": "Tightly coupled hyperbolic treatment of buoyant two-phase flow and transport in porous media Patrick Jenny, Rasim Hasanzade and Hamdi Tchelepi Journal of Computational Physics, vol. 489, pp. 112205, Elsevier, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Consistent Dual-Mesh Framework for Hybrid LES/RANS Simulations of Vehicle Exhaust Plumes: Implications for Remote Emission Sensing",
+      "year": 2023,
+      "citation_raw": "A Consistent Dual-Mesh Framework for Hybrid LES/RANS Simulations of Vehicle Exhaust Plumes: Implications for Remote Emission Sensing Justin Plogmann, Panayotis Dimopoulos Eggenschwiler, Charles Pierce and Patrick Jenny 16th International Conference on Engines and Vehicles (ICE 2023), Capri, Naples, Italy, pp.2023-24-0105 Warrenale, PA: SAE International, September 10-14, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Scaling laws for bubble collapse driven by an impulsive shock wave",
+      "year": 2023,
+      "citation_raw": "Scaling laws for bubble collapse driven by an impulsive shock wave Guillaume T. Bokman, Luc Biasiori-Poulanges, Daniel W. Meyer and Outi Supponen Journal of Fluid Mechanics, vol. 967, pp. A33, Cambridge University Press, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Effects of time-filtering the Navier-Stokes equations",
+      "year": 2023,
+      "citation_raw": "Effects of time-filtering the Navier-Stokes equations Daniel Oberle, C. David Pruett and Patrick Jenny Physics of Fluids, vol. 35: no. 6, pp. 065112, American Institute of Physics, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "URANS Simulations of Vehicle Exhaust Plumes with Insight on Remote Emission Sensing",
+      "year": 2023,
+      "citation_raw": "URANS Simulations of Vehicle Exhaust Plumes with Insight on Remote Emission Sensing Justin Plogmann, Christian Stauffer, Panayotis Dimopoulos Eggenschwiler and Patrick Jenny Atmosphere, vol. 14: no. 3, pp. 558, MDPI, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A probabilistic, flux-conservative particle-based framework for transport in fractured porous media",
+      "year": 2023,
+      "citation_raw": "A probabilistic, flux-conservative particle-based framework for transport in fractured porous media Ranit Monga, Rajdeep Deb, Daniel W. Meyer and Patrick Jenny Advances in Water Resources, vol. 172, pp. 104368, Elsevier, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Heterogeneous and Combined Heterogeneous/Homogeneous Combustion Modeling of SOFC Off-Gases",
+      "year": 2023,
+      "citation_raw": "Heterogeneous and Combined Heterogeneous/Homogeneous Combustion Modeling of SOFC Off-Gases Vinoth Kumar Arumugam and John Mantzaras The Journal of Physical Chemistry A, vol. 127: no. 1, pp. 316-328, American Chemical Society, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "High-speed X-ray phase-contrast imaging of single cavitation bubbles near a solid boundary",
+      "year": 2023,
+      "citation_raw": "High-speed X-ray phase-contrast imaging of single cavitation bubbles near a solid boundary Guillaume Thomas Bokman, Luc Biasiori-Poulanges, Bratislav Lukić, Claire Bourquard, Daniel Werner Meyer, Alexander Rack and Outi Supponen Physics of Fluids, vol. 35: no. 1, pp. 013322, American Institute of Physics, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "High-pressure kinetic interactions between CO and H₂ during syngas catalytic combustion on PdO",
+      "year": 2023,
+      "citation_raw": "High-pressure kinetic interactions between CO and H₂ during syngas catalytic combustion on PdO Ran Sui, John Mantzaras, Rolf Bombach and Seyyed Meysam Khatoonabadi Proceedings of the Combustion Institute, vol. 39: no. 4, pp. 5611-5619, Elsevier, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Three-dimensional Lattice Boltzmann Modeling and Simulation of Catalytic Reactions, with Application to Porous Catalytic Particles Used for CO Methanation",
+      "year": 2023,
+      "citation_raw": "Three-dimensional Lattice Boltzmann Modeling and Simulation of Catalytic Reactions, with Application to Porous Catalytic Particles Used for CO Methanation Seyyed Meysam Khatoonabadi Doctoral Thesis, Zurich, ETH Zurich, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Temporal large-eddy simulation based on direct deconvolution",
+      "year": 2023,
+      "citation_raw": "Temporal large-eddy simulation based on direct deconvolution Daniel Oberle Doctoral Thesis, Zurich, ETH Zurich, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Real-time flow measurement system: physics-informed reconstruction and sampling strategy",
+      "year": 2023,
+      "citation_raw": "Real-time flow measurement system: physics-informed reconstruction and sampling strategy Julian Humml, Frank Schaufelberger, Thomas Rösgen and Daniel W. Meyer Flow, vol. 3, pp. E3, Cambridge University Press, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A unified stochastic particle method based on the Bhatnagar-Gross-Krook model for polyatomic gases and its combination with DSMC",
+      "year": 2022,
+      "citation_raw": "A unified stochastic particle method based on the Bhatnagar-Gross-Krook model for polyatomic gases and its combination with DSMC Fei Fei, Yuan Hu and Patrick Jenny Journal of Computational Physics, vol. 471, pp. 111640, Elsevier, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Efficient assimilation of sparse data into RANS-based turbulent flow simulations using a discrete adjoint method",
+      "year": 2022,
+      "citation_raw": "Efficient assimilation of sparse data into RANS-based turbulent flow simulations using a discrete adjoint method Oliver Brenner, Pasha Piroozmand and Patrick Jenny Journal of Computational Physics, vol. 471, pp. 111667, Elsevier, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Lattice Boltzmann modeling and simulation of velocity and concentration slip effects on the catalytic reaction rate of strongly nonequimolar reactions in microflows",
+      "year": 2022,
+      "citation_raw": "Lattice Boltzmann modeling and simulation of velocity and concentration slip effects on the catalytic reaction rate of strongly nonequimolar reactions in microflows Meysam Khatoonabadi, Nikolaos I. Prasianakis and John Mantzaras Physical Review E, vol. 106: no. 6, pp. 065305, American Physical Society, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Jörg Schneider, Marina Jamnicki, Rudolf Leuthold, Lorenz Risch, Martin Risch, Martin Bühler, Adrian Sommer and Alexa Caduff",
+      "year": 2022,
+      "citation_raw": "Hossein Gorji, Ivan Lunati, Fabian Rudolf, Beatriz Vidondo, Wolf-Dietrich Hardt, Patrick Jenny, Doortje Engel, Jörg Schneider, Marina Jamnicki, Rudolf Leuthold, Lorenz Risch, Martin Risch, Martin Bühler, Adrian Sommer and Alexa Caduff Scientific Reports, vol. 12, pp. 19538, Nature, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Numerical modeling and design decisions for aerostatic bearings with relatively large nozzle sizes in Magic-Angle Spinning (MAS) systems",
+      "year": 2022,
+      "citation_raw": "Numerical modeling and design decisions for aerostatic bearings with relatively large nozzle sizes in Magic-Angle Spinning (MAS) systems Rajdeep Deb, Andreas Hunkeler, Dirk Wilhelm, Patrick Jenny and Beat H. Meier Tribology International, vol. 175, pp. 107855, Elsevier, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Embedded Computational Heart Model for External Ventricular Assist Device Investigations",
+      "year": 2022,
+      "citation_raw": "Embedded Computational Heart Model for External Ventricular Assist Device Investigations Thomas Kummer, Simone Rossi, Stijn Vandenberghe, Stefanos Demertzis and Patrick Jenny Cardiovascular Engineering and Technology, vol. 13: no. 5, pp. 764-782, Springer, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Stochastic Particle-Based Framework for Multiphase Flows in Fractured Porous Media",
+      "year": 2022,
+      "citation_raw": "A Stochastic Particle-Based Framework for Multiphase Flows in Fractured Porous Media Ranit Monga, Daniel Werner Meyer and Patrick Jenny 18th European Conference on the Mathematics of Oil Recovery (ECMOR 2022), The Hague, Netherlands, pp.1-15, s.l.: European Association of Geoscientists & Engineers, September 5-7, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "XFVM Modelling of Fracture Aperture induced by Shear and Tensile Opening",
+      "year": 2022,
+      "citation_raw": "XFVM Modelling of Fracture Aperture induced by Shear and Tensile Opening Giulia Conti, Stephan K. Matthai and Patrick Jenny 18th European Conference on the Mathematics of Oil Recovery (ECMOR 2022), The Hague, Netherlands, pp.1-12, s.l.: European Association of Geoscientists & Engineers, September 5-7, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Estimation of Fracture Aperture in Naturally Fractured Reservoirs Using an Ensemble Smoother with Multiple Data Assimilation",
+      "year": 2022,
+      "citation_raw": "Estimation of Fracture Aperture in Naturally Fractured Reservoirs Using an Ensemble Smoother with Multiple Data Assimilation Michael Alois Liem, Stephan K. Matthai and Patrick Jenny 18th European Conference on the Mathematics of Oil Recovery (ECMOR 2022), The Hague, Netherlands, pp.1-18, s.l.: European Association of Geoscientists & Engineers, September 5-7, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Adaptive conservative time integration for transport in fractured porous media",
+      "year": 2022,
+      "citation_raw": "Adaptive conservative time integration for transport in fractured porous media Michael Alois Liem, Stephan Matthai and Patrick Jenny Advances in Water Resources, vol. 165, pp. 104213, Elsevier, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Heat transfer analysis of high pressure hydrogen tank fillings",
+      "year": 2022,
+      "citation_raw": "Heat transfer analysis of high pressure hydrogen tank fillings Arthur Couteau, Panayotis Dimopoulos Eggenschwiler and Patrick Jenny International Journal of Hydrogen Energy, vol. 47: no. 54, pp. 23060-23069, Elsevier, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling multiple scattering transient of an ultrashort laser pulse by spherical particles",
+      "year": 2022,
+      "citation_raw": "Modeling multiple scattering transient of an ultrashort laser pulse by spherical particles Geoffroy Chaussonnet, Loïc Mees, Miloš Šormaz, Patrick Jenny and Philippe M. Bardet Journal of Computational Physics, vol. 457, pp. 110696, Elsevier, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A high-order unified stochastic particle method based on the Bhatnagar-Gross-Krook model for multi-scale gas flows",
+      "year": 2022,
+      "citation_raw": "A high-order unified stochastic particle method based on the Bhatnagar-Gross-Krook model for multi-scale gas flows Fei Fei and Patrick Jenny Computer Physics Communications, vol. 274, pp. 108303, Elsevier, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Temporally adaptive conservative scheme for unsteady compressible flow",
+      "year": 2022,
+      "citation_raw": "Temporally adaptive conservative scheme for unsteady compressible flow Valérie Kulka and Patrick Jenny Journal of Computational Physics, vol. 455, pp. 110918, Elsevier, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Temporal large eddy simulation with lattice Boltzmann methods",
+      "year": 2022,
+      "citation_raw": "Temporal large eddy simulation with lattice Boltzmann methods Stephan Simonis, Daniel Oberle, Maximilian Gaedtke, Patrick Jenny and Mathias J. Krause Journal of Computational Physics, vol. 454, pp. 110991, Elsevier, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Statistical analysis and modeling of particle trajectories in 2-D fractured porous media",
+      "year": 2022,
+      "citation_raw": "Statistical analysis and modeling of particle trajectories in 2-D fractured porous media Ranit Monga, Oliver Brenner, Daniel W. Meyer and Patrick Jenny Advances in Water Resources, vol. 161, pp. 104106, Elsevier, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Molecular beam scattering of a diatomic molecule from a solid surface in case of strong rotational non-equilibrium",
+      "year": 2022,
+      "citation_raw": "Molecular beam scattering of a diatomic molecule from a solid surface in case of strong rotational non-equilibrium Nemanja Andric and Patrick Jenny Physics of Fluids, vol. 34: no. 2, pp. 027101, American Institute of Physics, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Hierarchical regularization of solution ambiguity in underdetermined inverse and optimization problems",
+      "year": 2022,
+      "citation_raw": "Hierarchical regularization of solution ambiguity in underdetermined inverse and optimization problems Robert Epp, Franca Schmid and Patrick Jenny Journal of Computational Physics: X, vol. 13, pp. 100105, Elsevier, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Insights on the interaction of serpentine channels and gas diffusion layer in an operating polymer electrolyte fuel cell: Numerical modeling across scales",
+      "year": 2021,
+      "citation_raw": "Insights on the interaction of serpentine channels and gas diffusion layer in an operating polymer electrolyte fuel cell: Numerical modeling across scales Meysam Khatoonabadi, Mohammad Amin Safi, Nikolaos I. Prasianakis, Jörg Roth, John Mantzaras, Nikolay Kirov and Felix N. Büchi International Journal of Heat and Mass Transfer, vol. 181, pp. 121859, Elsevier, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Smart investment of virus RNA testing resources to enhance Covid-19 mitigation",
+      "year": 2021,
+      "citation_raw": "Smart investment of virus RNA testing resources to enhance Covid-19 mitigation Hossein Gorji, Markus Arnoldini, David F. Jenny, Wolf-Dietrich Hardt and Patrick Jenny PLoS ONE, vol. 16: no. 11, pp. e0259018, PLOS, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "The severity of microstrokes depends on local vascular topology and baseline perfusion",
+      "year": 2021,
+      "citation_raw": "The severity of microstrokes depends on local vascular topology and baseline perfusion Franca Schmid, Giulia Conti, Patrick Jenny and Bruno Weber eLife, vol. 10, pp. e60208, eLife Sciences Publications, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Simulation of intravoxel incoherent perfusion signal using a realistic capillary network of a mouse brain",
+      "year": 2021,
+      "citation_raw": "Simulation of intravoxel incoherent perfusion signal using a realistic capillary network of a mouse brain Valerie Phi Van, Franca Schmid, Georg Spinner, Sebastian Kozerke and Christian Federau NMR in Biomedicine, vol. 34: no. 7, pp. e4528, Wiley, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Lattice Boltzmann model with generalized wall boundary conditions for arbitrary catalytic reactivity",
+      "year": 2021,
+      "citation_raw": "Lattice Boltzmann model with generalized wall boundary conditions for arbitrary catalytic reactivity Meysam Khatoonabadi, Nikolaos I. Prasianakis and John Mantzaras Physical Review E, vol. 103: no. 6, pp. 063303, American Physical Society, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Random Generation of Irregular Natural Flow or Pore Networks",
+      "year": 2021,
+      "citation_raw": "Random Generation of Irregular Natural Flow or Pore Networks Daniel W. Meyer Advances in Water Resources, vol. 152, pp. 103936, Elsevier, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Three dimensional atmospheric entry simulation of a high altitude cometary dustball meteoroid",
+      "year": 2021,
+      "citation_raw": "Three dimensional atmospheric entry simulation of a high altitude cometary dustball meteoroid Lorenz Hulfeld, Stephan Küchlin and Patrick Jenny Astronomy & Astrophysics, vol. 650, pp. A101, EDP Sciences, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Bidirectional astrocytic GLUT1 activation by elevated extracellular K+",
+      "year": 2021,
+      "citation_raw": "Bidirectional astrocytic GLUT1 activation by elevated extracellular K+ Ignacio Fernández-Moncada, Daniel Robles-Maldonado, Pablo Castro, Karin Alegría, Robert Epp, Iván Ruminot and Luis Felipe Barros Glia, vol. 69: no. 4, pp. 1012-1021, Wiley, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "On droplets that cluster and evaporate in reactive turbulence",
+      "year": 2021,
+      "citation_raw": "On droplets that cluster and evaporate in reactive turbulence Philipp Weiss, Sthavishtha R. Bhopalam, Daniel W. Meyer and Patrick Jenny Physics of Fluids, vol. 33: no. 3, pp. 033322, American Institute of Physics, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Heterogeneous and homogeneous combustion of fuel-lean C₃H₈/O₂/N₂ mixtures over rhodium at pressures up to 6 bar",
+      "year": 2021,
+      "citation_raw": "Heterogeneous and homogeneous combustion of fuel-lean C₃H₈/O₂/N₂ mixtures over rhodium at pressures up to 6 bar John Mantzaras, Ran Sui, Chung K. Law and Rolf Bombach Proceedings of the Combustion Institute, vol. 38: no. 4, pp. 6473-6482, Elsevier, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Netflow Python library – A free software tool for the generation and analysis of pore or flow networks",
+      "year": 2021,
+      "citation_raw": "Netflow Python library – A free software tool for the generation and analysis of pore or flow networks Daniel W. Meyer MethodsX, vol. 8, pp. 101592, Elsevier, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "The effect of capillary pumping on the course of cleaning porous materials containing liquid contaminants using supercritical fluids: A pore network study",
+      "year": 2021,
+      "citation_raw": "The effect of capillary pumping on the course of cleaning porous materials containing liquid contaminants using supercritical fluids: A pore network study Jan Krzysztoforski, Karim Khayrat, Marek Henczka and Patrick Jenny Chemical and Process Engineering, vol. 42: no. 4, pp. 349-368, Polish Academy of Sciences, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Homogeneous ignition of H2/CO/O2/N2 mixtures over palladium at pressures up to 8 bar",
+      "year": 2021,
+      "citation_raw": "Homogeneous ignition of H2/CO/O2/N2 mixtures over palladium at pressures up to 8 bar Ran Sui, John Mantzaras, Chung K. Law, Rolf Bombach and Seyyed Meysam Khatoonabadi Proceedings of the Combustion Institute, vol. 38: no. 4, pp. 6583-6591, Elsevier, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Dynamic modelling to identify mitigation strategies for the COVID-19 pandemic",
+      "year": 2021,
+      "citation_raw": "Dynamic modelling to identify mitigation strategies for the COVID-19 pandemic Hossein Gorji, Markus Arnoldini, David F. Jenny, Wolf-Dietrich Hardt and Patrick Jenny Swiss Medical Weekly, vol. 151, pp. w20487, EMH Schweizerischer Ärzteverlag, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A hybrid particle approach based on the unified stochastic particle Bhatnagar-Gross-Krook and DSMC methods",
+      "year": 2021,
+      "citation_raw": "A hybrid particle approach based on the unified stochastic particle Bhatnagar-Gross-Krook and DSMC methods Fei Fei and Patrick Jenny Journal of Computational Physics, vol. 424, pp. 109858, Elsevier, 2021.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Sub-representative elementary volume homogenization of flow in porous media with isolated embedded fractures",
+      "year": 2020,
+      "citation_raw": "Sub-representative elementary volume homogenization of flow in porous media with isolated embedded fractures Patrick Jenny Journal of Fluid Mechanics, vol. 901, pp. A20, Cambridge University Press, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Predicting Vessel Diameter Changes to Up-Regulate Biphasic Blood Flow During Activation in Realistic Microvascular Networks",
+      "year": 2020,
+      "citation_raw": "Predicting Vessel Diameter Changes to Up-Regulate Biphasic Blood Flow During Activation in Realistic Microvascular Networks Robert Epp, Franca Schmid, Bruno Weber and Patrick Jenny Frontiers in Physiology, vol. 11, pp. 566303, Frontiers Media, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "On the mechanical power output required for human running – Insight from an analytical model",
+      "year": 2020,
+      "citation_raw": "On the mechanical power output required for human running – Insight from an analytical model David F. Jenny and Patrick Jenny Journal of Biomechanics, vol. 110, pp. 109948, Elsevier, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Particle Transport Scheme for Embedded Discrete Fracture Models",
+      "year": 2020,
+      "citation_raw": "Particle Transport Scheme for Embedded Discrete Fracture Models Ranit Monga, Rajdep Deb, Daniel W. Meyer and Patrick Jenny 17th European Conference on the Mathematics of Oil Recovery (ECMOR XVII) (virtual), Online Houten: European Association of Geoscientists & Engineers, September 14-17, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Fast Time-Stepping Scheme for Streamline-Based Transport Simulations",
+      "year": 2020,
+      "citation_raw": "Fast Time-Stepping Scheme for Streamline-Based Transport Simulations Fabian Keller and Daniel W. Meyer 17th European Conference on the Mathematics of Oil Recovery (ECMOR XVII) (virtual), Online Houten: European Association of Geoscientists & Engineers, September 14-17, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Two-Stage Ensemble Kalman Filter Approach for Data Assimilation Applied to Flow in Fractured Media",
+      "year": 2020,
+      "citation_raw": "Two-Stage Ensemble Kalman Filter Approach for Data Assimilation Applied to Flow in Fractured Media Michael Alois Liem and Patrick Jenny 17th European Conference on the Mathematics of Oil Recovery (ECMOR XVII) (virtual), Online Houten: European Association of Geoscientists & Engineers, September 14-17, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Extended Finite Volume Method (XFVM) for Flow Induced Tensile Failure in Fractured Reservoirs",
+      "year": 2020,
+      "citation_raw": "Extended Finite Volume Method (XFVM) for Flow Induced Tensile Failure in Fractured Reservoirs Amir Habibabadi, Rajdeep Deb and Patrick Jenny 17th European Conference on the Mathematics of Oil Recovery (ECMOR XVII) (virtual), Online Houten: European Association of Geoscientists & Engineers, September 14-17, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Investigation of gas separation technique based on selective rotational excitation of different species by a laser",
+      "year": 2020,
+      "citation_raw": "Investigation of gas separation technique based on selective rotational excitation of different species by a laser Nemanja Andric and Patrick Jenny Physics of Fluids, vol. 32: no. 8, pp. 087106, American Institute of Physics, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Evaporating droplets in shear turbulence",
+      "year": 2020,
+      "citation_raw": "Evaporating droplets in shear turbulence Philipp Weiss, Valentin Giddey, Daniel W. Meyer and Patrick Jenny Physics of Fluids, vol. 32: no. 7, pp. 073305, American Institute of Physics, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "An extended finite volume method and fixed‐stress approach for modeling fluid injection–induced tensile opening in fractured reservoirs",
+      "year": 2020,
+      "citation_raw": "An extended finite volume method and fixed‐stress approach for modeling fluid injection–induced tensile opening in fractured reservoirs Rajdeep Deb and Patrick Jenny International Journal for Numerical and Analytical Methods in Geomechanics, vol. 44: no. 8, pp. 1128-1144, Wiley, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling tissue perfusion in terms of 1d-3d embedded mixed-dimension coupled problems with distributed sources",
+      "year": 2020,
+      "citation_raw": "Modeling tissue perfusion in terms of 1d-3d embedded mixed-dimension coupled problems with distributed sources Timo Koch, Martin Schneider, Rainer Helmig and Patrick Jenny Journal of Computational Physics, vol. 410, pp. 109370, Elsevier, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Temporal large-eddy simulation based on direct deconvolution",
+      "year": 2020,
+      "citation_raw": "Temporal large-eddy simulation based on direct deconvolution Daniel Oberle, C. David Pruett and Patrick Jenny Physics of Fluids, vol. 32: no. 6, pp. 065112, American Institute of Physics, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Consistent upwinding for sequential fully implicit multiscale compositional simulation",
+      "year": 2020,
+      "citation_raw": "Consistent upwinding for sequential fully implicit multiscale compositional simulation Arthur Moncorgé, Olav Møyner, Hamdi A. Tchelepi and Patrick Jenny Computational Geosciences, vol. 24: no. 2, pp. 533-550, Springer, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Time adaptive conservative finite volume method",
+      "year": 2020,
+      "citation_raw": "Time adaptive conservative finite volume method Patrick Jenny Journal of Computational Physics, vol. 403, pp. 109067, Elsevier, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Flow in bounded and unbounded pore networks with different connectivity",
+      "year": 2019,
+      "citation_raw": "Flow in bounded and unbounded pore networks with different connectivity Daniel W. Meyer and Artur Gomolinski Journal of Hydrology, vol. 577, pp. 123937, Elsevier, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Red blood cells stabilize flow in brain microvascular networks",
+      "year": 2019,
+      "citation_raw": "Red blood cells stabilize flow in brain microvascular networks Franca Schmid, Matthew J. P. Barrett, Dominik Obrist, Bruno Weber and Patrick Jenny PLoS Computational Biology, vol. 15: no. 8, pp. e1007231, PLOS, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Vascular density and distribution in neocortex",
+      "year": 2019,
+      "citation_raw": "Vascular density and distribution in neocortex Franca Schmid, Matthew J.P. Barrett, Patrick Jenny and Bruno Weber NeuroImage, vol. 197, pp. 792-805, Elsevier, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Accurate particle time integration for solving Vlasov-Fokker-Planck equations with specified electromagnetic fields",
+      "year": 2019,
+      "citation_raw": "Accurate particle time integration for solving Vlasov-Fokker-Planck equations with specified electromagnetic fields Patrick Jenny and Hossein Gorji Journal of Computational Physics, vol. 387, pp. 430-445, Elsevier, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Data-based modeling of gas-surface interaction in rarefied gas flow simulations",
+      "year": 2019,
+      "citation_raw": "Data-based modeling of gas-surface interaction in rarefied gas flow simulations Nemanja Andric, Daniel W. Meyer and Patrick Jenny Physics of Fluids, vol. 31: no. 6, pp. 067109, American Institute of Physics, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Controlling the bias error of Fokker-Planck methods for rarefied gas dynamics simulations",
+      "year": 2019,
+      "citation_raw": "Controlling the bias error of Fokker-Planck methods for rarefied gas dynamics simulations Patrick Jenny, Stephan Küchlin and Hossein Gorji Physics of Fluids, vol. 31: no. 6, pp. 062005, American Institute of Physics, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Impact of turbulence forcing schemes on particle clustering",
+      "year": 2019,
+      "citation_raw": "Impact of turbulence forcing schemes on particle clustering Philipp Weiss, Daniel Oberle, Daniel W. Meyer and Patrick Jenny Physics of Fluids, vol. 31: no. 6, pp. 061703, American Institute of Physics, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Particle number control for direct simulation Monte-Carlo methodology using kernel estimates",
+      "year": 2019,
+      "citation_raw": "Particle number control for direct simulation Monte-Carlo methodology using kernel estimates Hossein Gorji, Stephan Küchlin and Patrick Jenny Physics of Fluids, vol. 31: no. 6, pp. 062008, American Institute of Physics, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "The stochastic counterpart of conservation laws with heterogeneous conductivity fields: Application to deterministic problems and uncertainty quantification",
+      "year": 2019,
+      "citation_raw": "The stochastic counterpart of conservation laws with heterogeneous conductivity fields: Application to deterministic problems and uncertainty quantification Amir H. Delgoshaie, Peter W. Glynn, Patrick Jenny and Hamdi A. Tchelepi Journal of Computational Physics: X, vol. 2, pp. 100005, Elsevier, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Novel Gas Separation Technique Based on the Selective Rotational Excitation of Different Species by a Laser: Theory, Modeling and Application",
+      "year": 2019,
+      "citation_raw": "A Novel Gas Separation Technique Based on the Selective Rotational Excitation of Different Species by a Laser: Theory, Modeling and Application Nemanja Andric Doctoral Thesis, Zurich, ETH Zurich, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling three-dimensional scalar mixing with forced one-dimensional turbulence",
+      "year": 2018,
+      "citation_raw": "Modeling three-dimensional scalar mixing with forced one-dimensional turbulence Valentin Giddey, Daniel W. Meyer and Patrick Jenny Physics of Fluids, vol. 30: no. 12, pp. 125103, American Institute of Physics, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Gas concentration polarization and transport mechanism transition near thin polymeric membranes",
+      "year": 2018,
+      "citation_raw": "Gas concentration polarization and transport mechanism transition near thin polymeric membranes Amirhossein Droudian, Mahesh Lokesh, Seul K. Youn and Hyung G. Park Journal of Membrane Science, vol. 567, pp. 1-6, Elsevier, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multifunctional wafer-scale graphene membranes for fast ultrafiltration and high permeation gas separation",
+      "year": 2018,
+      "citation_raw": "Multifunctional wafer-scale graphene membranes for fast ultrafiltration and high permeation gas separation Kyoungjun Choi, Amirhossein Droudian, Roman M. Wyss, Karl-Philipp Schlichting and Hyung Gyu Park Science Advances, vol. 4: no. 11, pp. eaau0476, AAAS, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Approximate multiscale flow solver for unstructured pore networks",
+      "year": 2018,
+      "citation_raw": "Approximate multiscale flow solver for unstructured pore networks Karim Khayrat, Robert Epp and Patrick Jenny Journal of Computational Physics, vol. 372, pp. 62-79, Elsevier, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Sequential fully implicit formulation for compositional simulation using natural variables",
+      "year": 2018,
+      "citation_raw": "Sequential fully implicit formulation for compositional simulation using natural variables Arthur Moncorgé, Hamdi A. Tchelepi and Patrick Jenny Journal of Computational Physics, vol. 371, pp. 690-711, Elsevier, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A flexible temporal velocity model for fast contaminant transport simulations in porous media",
+      "year": 2018,
+      "citation_raw": "A flexible temporal velocity model for fast contaminant transport simulations in porous media Amir H. Delgoshaie, Peter W. Glynn, Patrick Jenny and Hamdi A. Tchelepi Water Resources Research, vol. 54: no. 10, pp. 8500-8513, Wiley, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "The Relation Between Capillary Transit Times and Hemoglobin Saturation Heterogeneity: Part 2: Capillary Networks",
+      "year": 2018,
+      "citation_raw": "The Relation Between Capillary Transit Times and Hemoglobin Saturation Heterogeneity: Part 2: Capillary Networks Adrien Lücker, Timothy W. Secomb, Matthew J.P. Barrett, Bruno Weber and Patrick Jenny Frontiers in Physiology, vol. 9, pp. 1296, Frontiers Media, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Consistent Upwinding for Sequential Fully Implicit Compositional Simulation",
+      "year": 2018,
+      "citation_raw": "Consistent Upwinding for Sequential Fully Implicit Compositional Simulation Arthur Moncorgé, Hamdi A. Tchelepi and Patrick Jenny 16th European Conference on the Mathematics of Oil Recovery (ECMOR XVI), Barcelona, Spain Leipzig: European Association of Geoscientists & Engineers, September 3-6, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Molecular dynamics investigation of energy transfer during gas-surface collisions",
+      "year": 2018,
+      "citation_raw": "Molecular dynamics investigation of energy transfer during gas-surface collisions Nemanja Andric and Patrick Jenny Physics of Fluids, vol. 30: no. 7, pp. 077104, American Institute of Physics, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Automatic mesh refinement and parallel load balancing for Fokker–Planck-DSMC algorithm",
+      "year": 2018,
+      "citation_raw": "Automatic mesh refinement and parallel load balancing for Fokker–Planck-DSMC algorithm Stephan Küchlin and Patrick Jenny Journal of Computational Physics, vol. 363, pp. 140-157, Elsevier, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Enhanced Chemical Separation by Freestanding CNT-Polyamide/Imide Nanofilm Synthesized at the Vapor-Liquid Interface",
+      "year": 2018,
+      "citation_raw": "Enhanced Chemical Separation by Freestanding CNT-Polyamide/Imide Nanofilm Synthesized at the Vapor-Liquid Interface Amirhossein Droudian, Seul Ki Youn, Linda A. Wehner, Roman M. Wyss, Meng Li and Hyung Gyu Park ACS Applied Materials & Interfaces, vol. 10: no. 23, pp. 19305-19310, American Chemical Society, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Temporal Markov Processes for Transport in Porous Media: Random Lattice Networks",
+      "year": 2018,
+      "citation_raw": "Temporal Markov Processes for Transport in Porous Media: Random Lattice Networks Amir H. Delgoshaie, Patrick Jenny and Hamdi A. Tchelepi Water Resources Research, vol. 54: no. 5, pp. 3376-3391, Wiley, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Density estimation with distribution element trees",
+      "year": 2018,
+      "citation_raw": "Density estimation with distribution element trees Daniel W. Meyer Statistics and Computing, vol. 28: no. 3, pp. 609-632, Springer, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "The Relation Between Capillary Transit Times and Hemoglobin Saturation Heterogeneity: Part 1: Theoretical Models",
+      "year": 2018,
+      "citation_raw": "The Relation Between Capillary Transit Times and Hemoglobin Saturation Heterogeneity: Part 1: Theoretical Models Adrien Lücker, Timothy W. Secomb, Bruno Weber and Patrick Jenny Frontiers in Physiology, vol. 9, pp. 420, Frontiers Media, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "An efficient distribution method for nonlinear two-phase flow in highly heterogeneous multidimensional stochastic porous media",
+      "year": 2018,
+      "citation_raw": "An efficient distribution method for nonlinear two-phase flow in highly heterogeneous multidimensional stochastic porous media Fayadhoi Ibrahima, Hamdi A. Tchelepi and Daniel W. Meyer Computational Geosciences, vol. 22: no. 1, pp. 389-412, Springer, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Simple Velocity Random-Walk Model for Macrodispersion in Mildly to Highly Heterogeneous Subsurface Formations",
+      "year": 2018,
+      "citation_raw": "A Simple Velocity Random-Walk Model for Macrodispersion in Mildly to Highly Heterogeneous Subsurface Formations Daniel W. Meyer Advances in Water Resources, vol. 121, pp. 57-67, Elsevier, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Experimental and numerical investigation of fuel-lean H2/CO/air and H2/CH4/air catalytic microreactors",
+      "year": 2018,
+      "citation_raw": "Experimental and numerical investigation of fuel-lean H2/CO/air and H2/CH4/air catalytic microreactors Ran Sui, Et-touhami Es-sebbar, John Mantzaras and Nikolaos I. Prasianakis Combustion Science and Technology, vol. 190: no. 2, pp. 336-362, Taylor & Francis, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Numerical modeling of fluid injection induced shear failure, tensile opening and flow-mechanics coupling",
+      "year": 2018,
+      "citation_raw": "Numerical modeling of fluid injection induced shear failure, tensile opening and flow-mechanics coupling Rajdeep Deb Doctoral Thesis, Zurich, ETH Zurich, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Evaporating droplets in turbulence studied with statistically stationary homogeneous direct numerical simulation",
+      "year": 2018,
+      "citation_raw": "Evaporating droplets in turbulence studied with statistically stationary homogeneous direct numerical simulation Philipp Weiss, Daniel W. Meyer and Patrick Jenny Physics of Fluids, vol. 30: no. 8, pp. 083304, American Institute of Physics, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "(Un)Conditional Sample Generation Based on Distribution Element Trees",
+      "year": 2018,
+      "citation_raw": "(Un)Conditional Sample Generation Based on Distribution Element Trees Daniel W. Meyer Journal of Computational and Graphical Statistics, vol. 27: no. 4, pp. 940-946, Taylor & Francis, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Finite volume-based modeling of flow-induced shear failure along fracture manifolds",
+      "year": 2017,
+      "citation_raw": "Finite volume-based modeling of flow-induced shear failure along fracture manifolds Rajdeep Deb and Patrick Jenny International Journal for Numerical and Analytical Methods in Geomechanics, vol. 41: no. 18, pp. 1922-1942, Wiley-Blackwell, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling wetting-phase relative permeability hysteresis based on subphase evolution",
+      "year": 2017,
+      "citation_raw": "Modeling wetting-phase relative permeability hysteresis based on subphase evolution Karim Khayrat and Patrick Jenny Computational Geosciences, vol. 21: no. 5, pp. 863-875, Springer, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Non-local generalization of Darcy's law based on empirically extracted conductivity kernels",
+      "year": 2017,
+      "citation_raw": "Non-local generalization of Darcy's law based on empirically extracted conductivity kernels Patrick Jenny and Daniel W. Meyer Computational Geosciences, vol. 21: no. 5, pp. 1281-1288, Springer, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling of shear failure in fractured reservoirs with a porous matrix",
+      "year": 2017,
+      "citation_raw": "Modeling of shear failure in fractured reservoirs with a porous matrix Rajdeep Deb and Patrick Jenny Computational Geosciences, vol. 21: no. 5, pp. 1119-1134, Springer, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "From High Pressure to Vacuum Fokker-Planck/DSMC Method for Gas Dynamics at all Knudsen Numbers",
+      "year": 2017,
+      "citation_raw": "From High Pressure to Vacuum Fokker-Planck/DSMC Method for Gas Dynamics at all Knudsen Numbers Patrick Jenny, Stephan Küchlin and Hossein Gorji 14th International Conference on Flow Dynamics (ICFD 2017), Sendai, Japan, November 1-3, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Impact of Gaseous Chemistry in H2–O2–N2 Combustion over Platinum at Fuel-Lean Stoichiometries and Pressures of 1.0–3.5 bar",
+      "year": 2017,
+      "citation_raw": "Impact of Gaseous Chemistry in H2–O2–N2 Combustion over Platinum at Fuel-Lean Stoichiometries and Pressures of 1.0–3.5 bar Ran Sui, John Mantzaras, Et-touhami Es-sebbar, Mohammad A. Safi and Rolf Bombach Energy & Fuels, vol. 31: no. 10, pp. 11448-11459, American Chemical Society, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A multi-scale network method for two-phase flow in porous media",
+      "year": 2017,
+      "citation_raw": "A multi-scale network method for two-phase flow in porous media Karim Khayrat and Patrick Jenny Journal of Computational Physics, vol. 342, pp. 194-210, Elsevier, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Relating recent random walk models with classical perturbation theory for dispersion predictions in the heterogeneous porous subsurface",
+      "year": 2017,
+      "citation_raw": "Relating recent random walk models with classical perturbation theory for dispersion predictions in the heterogeneous porous subsurface Daniel W. Meyer Advances in Water Resources, vol. 105, pp. 227-232, Elsevier, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Homogeneous ignition during fuel-rich H2/O2//N2 combustion in platinum-coated channels at elevated pressures",
+      "year": 2017,
+      "citation_raw": "Homogeneous ignition during fuel-rich H2/O2//N2 combustion in platinum-coated channels at elevated pressures Ran Sui, Et-touhami Es-sebbar, John Mantzaras and Rolf Bombach Combustion and Flame, vol. 180, pp. 184-195, Elsevier, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modified sequential fully implicit scheme for compositional flow simulation",
+      "year": 2017,
+      "citation_raw": "Modified sequential fully implicit scheme for compositional flow simulation Arthur Moncorgé, Hamdi A. Tchelepi and Patrick Jenny Journal of Computational Physics, vol. 337, pp. 98-115, Elsevier, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Zonal Multiscale Finite-Volume framework",
+      "year": 2017,
+      "citation_raw": "Zonal Multiscale Finite-Volume framework Davide Cortinovis and Patrick Jenny Journal of Computational Physics, vol. 337, pp. 84-97, Elsevier, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Vorticity-production mechanisms in shock/mixing-layer interaction problems",
+      "year": 2017,
+      "citation_raw": "Vorticity-production mechanisms in shock/mixing-layer interaction problems Robert C. Tritarelli and Leonhard Kleiser Shock Waves, vol. 27: no. 2, pp. 143-152, Springer, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Depth-dependent flow and pressure characteristics in cortical microvascular networks",
+      "year": 2017,
+      "citation_raw": "Depth-dependent flow and pressure characteristics in cortical microvascular networks Franca Schmid, Philbert S. Tsai, David Kleinfeld, Patrick Jenny and Bruno Weber PLoS Computational Biology, vol. 13: no. 2, pp. e1005392, PLOS, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "An Implicitly Consistent Formulation of a Dual-Mesh Hybrid LES/RANS Method",
+      "year": 2017,
+      "citation_raw": "An Implicitly Consistent Formulation of a Dual-Mesh Hybrid LES/RANS Method Heng Xiao, Jian-Xun Wang and Patrick Jenny Communications in Computational Physics, vol. 21: no. 2, pp. 570-599, Cambridge University Press, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Parallel Fokker–Planck-DSMC algorithm for rarefied gas flow simulation in complex domains at all Knudsen numbers",
+      "year": 2017,
+      "citation_raw": "Parallel Fokker–Planck-DSMC algorithm for rarefied gas flow simulation in complex domains at all Knudsen numbers Stephan Küchlin and Patrick Jenny Journal of Computational Physics, vol. 328, pp. 258-277, Elsevier, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "The relative influence of hematocrit and red blood cell velocity on oxygen transport from capillaries to tissue",
+      "year": 2017,
+      "citation_raw": "The relative influence of hematocrit and red blood cell velocity on oxygen transport from capillaries to tissue Adrien Lücker, Timothy W. Secomb, Bruno Weber and Patrick Jenny Microcirculation, vol. 24: no. 3, pp. e12337, Wiley-Blackwell, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Hetero-/homogeneous combustion of fuel-lean methane/oxygen/nitrogen mixtures over rhodium at pressures up to 12 bar",
+      "year": 2017,
+      "citation_raw": "Hetero-/homogeneous combustion of fuel-lean methane/oxygen/nitrogen mixtures over rhodium at pressures up to 12 bar Ran Sui, John Mantzaras, Rolf Bombach and Alexey Denisov Proceedings of the Combustion Institute, vol. 36: no. 3, pp. 4321-4328, Elsevier, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A comparative experimental and numerical investigation of the heterogeneous and homogeneous combustion characteristics of fuel-rich methane mixtures over rhodium and platinum",
+      "year": 2017,
+      "citation_raw": "A comparative experimental and numerical investigation of the heterogeneous and homogeneous combustion characteristics of fuel-rich methane mixtures over rhodium and platinum Ran Sui, John Mantzaras and Rolf Bombach Proceedings of the Combustion Institute, vol. 36: no. 3, pp. 4313-4320, Elsevier, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Parallel Multilevel Monte Carlo for Two-Phase Flow and Transport in Random Heterogeneous Porous Media With Sampling-Error and Discretization-Error Balancing",
+      "year": 2016,
+      "citation_raw": "Parallel Multilevel Monte Carlo for Two-Phase Flow and Transport in Random Heterogeneous Porous Media With Sampling-Error and Discretization-Error Balancing Florian Müller, Patrick Jenny and Daniel W. Meyer SPE Journal, vol. 21: no. 6, pp. 2027-2037, Society of Petroleum Engineers, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Combustion stability and hetero-/homogeneous chemistry interactions for fuel-lean hydrogen/air mixtures in platinum-coated microchannels",
+      "year": 2016,
+      "citation_raw": "Combustion stability and hetero-/homogeneous chemistry interactions for fuel-lean hydrogen/air mixtures in platinum-coated microchannels Ran Sui and John Mantzaras Combustion and Flame, vol. 173, pp. 370-386, Elsevier, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Mass transfer intensification in the process of membrane cleaning using supercritical fluids",
+      "year": 2016,
+      "citation_raw": "Mass transfer intensification in the process of membrane cleaning using supercritical fluids J. Krzysztoforski, P. Jenny and M. Henczka XXV European Conference on Mixing (MIXING 15), Quebec City, Canada, pp.907-913, New York, NY: Springer, June 26 - July 1, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Application of N-phase algebraic slip model and direct quadrature method of moments to the simulation of air-water flow in vertical risers and bubble column reactor",
+      "year": 2016,
+      "citation_raw": "Application of N-phase algebraic slip model and direct quadrature method of moments to the simulation of air-water flow in vertical risers and bubble column reactor Karol Swiderski, Chidambaram Narayanan and Djamel Lakehal Computers & Chemical Engineering, vol. 90, pp. 151-160, Elsevier, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Pore-scale dispersion: Bridging the gap between microscopic pore structure and the emerging macroscopic transport behavior",
+      "year": 2016,
+      "citation_raw": "Pore-scale dispersion: Bridging the gap between microscopic pore structure and the emerging macroscopic transport behavior Daniel W. Meyer and Branko Bijeljic Physical Review E, vol. 94: no. 1, pp. 013107, American Physical Society, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "An experimental and numerical investigation of the combustion and heat transfer characteristics of hydrogen fueled catalytic microreactors",
+      "year": 2016,
+      "citation_raw": "An experimental and numerical investigation of the combustion and heat transfer characteristics of hydrogen fueled catalytic microreactors Ran Sui, Nikolaos Prasianakis, John Mantzaras, Nithin Mallya, Jürgen Theile, Damien Lagrange and Martin Friess Chemical Engineering Science, vol. 141, pp. 214-230, Elsevier, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Testing the Markov hypothesis in fluid flows",
+      "year": 2016,
+      "citation_raw": "Testing the Markov hypothesis in fluid flows Daniel W. Meyer and Frédéric Saggini Physical Review E, vol. 93: no. 5, pp. 053103, American Physical Society, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling of Flow Induced Shear Failure in Poro-elastic Fractured Media",
+      "year": 2016,
+      "citation_raw": "Modeling of Flow Induced Shear Failure in Poro-elastic Fractured Media Rajdeep Deb and Patrick Jenny 15th European Conference on the Mathematics of Oil Recovery, ECMOR XV, Amsterdam, Netherlands, pp.149-161, Red Hook, NY: Curran, August 29 - September 1, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Robust multiscale finite volume method based iterative schemes",
+      "year": 2016,
+      "citation_raw": "Robust multiscale finite volume method based iterative schemes Davide Cortinovis Doctoral Thesis, Zurich, ETH Zurich, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "THE MODELING AND EXPERIMENTS OF AN ADVANCED OZONATION SYSTEM WITH RADIAL DIFFUSER",
+      "year": 2016,
+      "citation_raw": "THE MODELING AND EXPERIMENTS OF AN ADVANCED OZONATION SYSTEM WITH RADIAL DIFFUSER Karol Swiderski, Bruno Heiniger, Luca Ramoino, Walter Uttinger, Djamel Lakehal and Chidambaram Narayanan International Conference on Multiphase Flow 2016, Firenze, Italy, May 22-27, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Experimental and numerical investigation of catalytic microreactors for hybrid combustion/solar power generation",
+      "year": 2016,
+      "citation_raw": "Experimental and numerical investigation of catalytic microreactors for hybrid combustion/solar power generation Ran Sui, John Mantzaras, Nikolaos Prasianakis and Jürgen Theile 5th International Conference on Structured Catalysts and Reactors (ICOSCAR5), San Sebastián, Spain, June 22-24, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Adaptive Hierarchical Fracture Model for Enhanced Geothermal Systems",
+      "year": 2016,
+      "citation_raw": "Adaptive Hierarchical Fracture Model for Enhanced Geothermal Systems Dimitrios C. Karvounis and Patrick Jenny Multiscale Modeling & Simulation, vol. 14: no. 1, pp. 207-231, SIAM, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Numerical modeling of flow-mechanics coupling in a fractured reservoir with porous matrix",
+      "year": 2016,
+      "citation_raw": "Numerical modeling of flow-mechanics coupling in a fractured reservoir with porous matrix Rajdeep Deb and Patrick Jenny 41st Workshop Geothermal Reservoir Engineering, Stanford, CA, USA, pp.473-481, Red Hook, NY: Curran, February 22-24, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Subphase Approach to Model Hysteretic Two-Phase Flow in Porous Media",
+      "year": 2016,
+      "citation_raw": "Subphase Approach to Model Hysteretic Two-Phase Flow in Porous Media Karim Khayrat and Patrick Jenny Transport in Porous Media, vol. 111: no. 1, pp. 1-25, Springer, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Non-local Generalization of Darcy’s Law Based on Empirically Extracted Conductivity Kernels",
+      "year": 2016,
+      "citation_raw": "Non-local Generalization of Darcy’s Law Based on Empirically Extracted Conductivity Kernels Patrick Jenny and Daniel W. Meyer 15th European Conference on the Mathematics of Oil Recovery (ECMOR XV), Amsterdam, Netherlands Amsterdam: European Association of Geoscientists & Engineers, August 29 - September 1, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Uncertainty Quantification of Two-phase Flow in Heterogeneous Reservoirs Using a Streamline-based Pdf Formulation",
+      "year": 2016,
+      "citation_raw": "Uncertainty Quantification of Two-phase Flow in Heterogeneous Reservoirs Using a Streamline-based Pdf Formulation Fayadhoi Ibrahima, Hamdi A. Tchelepi and Daniel W. Meyer ECMOR XV - 15th European Conference on the Mathematics of Oil Recovery, Amsterdam, Netherlands, August 29 - September 1, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Influence of the gas-surface interaction model on time-dependent rarefied gas simulations",
+      "year": 2016,
+      "citation_raw": "Influence of the gas-surface interaction model on time-dependent rarefied gas simulations Nemanja Andric, M.H. Gorji and Patrick Jenny Vacuum, vol. 128, pp. 244-251, Elsevier, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modelling Relative Permeability Hysteresis Based on Subphase Evolution",
+      "year": 2016,
+      "citation_raw": "Modelling Relative Permeability Hysteresis Based on Subphase Evolution Karim Khayrat and Patrick Jenny 15th European Conference on the Mathematics of Oil Recovery (ECMOR 2016), Delft, Netherlands Delft: European Association of Geoscientists & Engineers, August 29 - September 1, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Predicting field-scale dispersion under realistic conditions with the polar Markovian velocity process model",
+      "year": 2016,
+      "citation_raw": "Predicting field-scale dispersion under realistic conditions with the polar Markovian velocity process model Simon Dünser and Daniel W. Meyer Advances in Water Resources, vol. 92, pp. 271-283, Elsevier, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "New Sequential Scheme for Mixed-implicit Compositional Flow Simulation",
+      "year": 2016,
+      "citation_raw": "New Sequential Scheme for Mixed-implicit Compositional Flow Simulation Arthur Moncorge, Hamdi Tchelepi and Patrick Jenny 15th European Conference on the Mathematics of Oil Recovery, ECMOR XV, Amsterdam, Netherlands Amsterdam: European Association of Geoscientists & Engineers, August 29 - September 1, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "DNS of turbulent convective flow boiling in a channel at RE_tau=400",
+      "year": 2016,
+      "citation_raw": "DNS of turbulent convective flow boiling in a channel at RE_tau=400 Daniel Caviezel, Karol Swiderski, Chidambaram Narayanan and Djamel Lakehal 9th International Conference on Multiphase Flow (ICMF 2016), Firenze, Italy, May 22-27, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Non-local formulation for multiscale flow in porous media",
+      "year": 2015,
+      "citation_raw": "Non-local formulation for multiscale flow in porous media Amir H. Delgoshaie, Daniel W. Meyer, Patrick Jenny and Hamdi A. Tchelepi Journal of Hydrology, vol. 531, pp. 649-654, Elsevier, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Distribution Functions of Saturation for Stochastic Nonlinear Two-Phase Flow",
+      "year": 2015,
+      "citation_raw": "Distribution Functions of Saturation for Stochastic Nonlinear Two-Phase Flow Fayadhoi Ibrahima, Daniel W. Meyer and Hamdi A. Tchelepi Transport in Porous Media, vol. 109: no. 1, pp. 81-107, Springer, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Variance reduction for Fokker-Planck based particle Monte Carlo schemes",
+      "year": 2015,
+      "citation_raw": "Variance reduction for Fokker-Planck based particle Monte Carlo schemes Hossein Gorji, Nemanja Andric and Patrick Jenny Journal of Computational Physics, vol. 295, pp. 644-664, Elsevier, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Microscopic modeling of evaporative heat and mass transfer in porous media with application to fuel cell systems",
+      "year": 2015,
+      "citation_raw": "Microscopic modeling of evaporative heat and mass transfer in porous media with application to fuel cell systems Nikolaos I. Prasianakis, Ran Sui, John Mantzaras and Felix Büchi 7th International Conference on Porous Media & Annual Meeting, Padua, Italy, May 18-21, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Stabilization of a hypersonic boundary layer using a felt-metal porous coating",
+      "year": 2015,
+      "citation_raw": "Stabilization of a hypersonic boundary layer using a felt-metal porous coating R.C. Tritarelli, S.K. Lele and A. Fedorov Journal of Fluid Mechanics, vol. 769, pp. 729-739, Cambridge University Press, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "The impact of capillary dilation on the distribution of red blood cells in artificial networks",
+      "year": 2015,
+      "citation_raw": "The impact of capillary dilation on the distribution of red blood cells in artificial networks Franca Schmid, Johannes Reichold, Bruno Weber and Patrick Jenny American Journal of Physiology. Heart and Circulatory Physiology, vol. 308: no. 7, pp. H733-H742, American Physiological Society, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Fokker-Planck-DSMC algorithm for simulations of rarefied gas flows",
+      "year": 2015,
+      "citation_raw": "Fokker-Planck-DSMC algorithm for simulations of rarefied gas flows M. Hossein Gorji and Patrick Jenny Journal of Computational Physics, vol. 287, pp. 110-129, Elsevier, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A dynamic model of oxygen transport from capillaries to tissue with moving red blood cells",
+      "year": 2015,
+      "citation_raw": "A dynamic model of oxygen transport from capillaries to tissue with moving red blood cells Adrien Lücker, Bruno Weber and Patrick Jenny American Journal of Physiology. Heart and Circulatory Physiology, vol. 308: no. 3, pp. H206-H216, American Physiological Society, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Numerical Modeling of Flow Induced Shear Failure in Fractured Reservoirs",
+      "year": 2015,
+      "citation_raw": "Numerical Modeling of Flow Induced Shear Failure in Fractured Reservoirs Rajdeep Deb and Patrick Jenny 40th Workshop on Geothermal Reservoir Engineering, Stanford, CA, USA, pp.313-324, Red Hook, NY: Curran, January 26-28, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Computer Models for Digital Imaging",
+      "year": 2015,
+      "citation_raw": "Computer Models for Digital Imaging Patrick Jenny, Milos Sormaz and Safer Mourad In Handbook of Digital Imaging, edited by Kriss, Michael, vol. 2 , pp. 1199-1232, Chichester: Wiley, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Numerical Study of Multi-Fluid and Multi-Level Geothermal System Performance",
+      "year": 2015,
+      "citation_raw": "Numerical Study of Multi-Fluid and Multi-Level Geothermal System Performance Martin O. Saar, Thomas A. Buscheck, Patrick Jenny, Nagasree Garapati, Jimmy B. Randolph, Dimitrios C. Karvounis, Mingjie Chen, Yunwei Sun and Jeffrey M. Bielicki World Geothermal Congress 2015, Melbourne, Australia Melbourne, Australia: World Geothermal Congress, April 19-25, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Hydrogen Combustion in Catalytic Microreactors",
+      "year": 2015,
+      "citation_raw": "Hydrogen Combustion in Catalytic Microreactors Ran Sui, Nikolaos I. Prasianakis and John Mantzaras 12th International Conference on Energy for a Clean Environment, Lisbon, Portugal, July 5-9, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Computational Modelling Of Gas–liquid Multiphase Flows With DQMOM And The N-phase Algebraic Slip Model",
+      "year": 2015,
+      "citation_raw": "Computational Modelling Of Gas–liquid Multiphase Flows With DQMOM And The N-phase Algebraic Slip Model Karol Swiderski, D. Caviezel, M. Labois, D. Lakehal and C. Narayanan Multiphase Flow 2015. 8th International Conference on Computational and Experimental Methods in Multiphase and Complex Flow, Valencia, Spain, pp.299-310, Southampton: WIT Press, April 20-22, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Rankine-Hugoniot-Riemann solver for steady multidimensional conservation laws with source terms",
+      "year": 2014,
+      "citation_raw": "Rankine-Hugoniot-Riemann solver for steady multidimensional conservation laws with source terms Halvor Lund, Florian Müller, Bernhard Müller and Patrick Jenny Computers & Fluids, vol. 101, pp. 1-14, Elsevier, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Dynamic Evaluation of Mesh Resolution and Its Application in Hybrid LES/RANS Methods",
+      "year": 2014,
+      "citation_raw": "Dynamic Evaluation of Mesh Resolution and Its Application in Hybrid LES/RANS Methods Heng Xiao, Jianxun Wang and Patrick Jenny Flow, Turbulence and Combustion, vol. 93: no. 1, pp. 141-170, Springer, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Simulating particle collisions in homogeneous turbulence with kinematic simulation: A validation study",
+      "year": 2014,
+      "citation_raw": "Simulating particle collisions in homogeneous turbulence with kinematic simulation: A validation study Daniel W. Meyer and Maximilian L. Eggersdorfer Colloids and Surfaces A: Physicochemical and Engineering Aspects, vol. 454, pp. 57-64, Elsevier, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Solver-based vs. grid-based multilevel Monte Carlo for two phase flow and transport in random heterogeneous porous media",
+      "year": 2014,
+      "citation_raw": "Solver-based vs. grid-based multilevel Monte Carlo for two phase flow and transport in random heterogeneous porous media Florian Müller, Daniel W. Meyer and Patrick Jenny Journal of Computational Physics, vol. 268, pp. 39-50, Elsevier, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Scale analysis of miscible density-driven convection in porous media",
+      "year": 2014,
+      "citation_raw": "Scale analysis of miscible density-driven convection in porous media Patrick Jenny, Joohwa S. Lee, Daniel W. Meyer and Hamdi A. Tchelepi Journal of Fluid Mechanics, vol. 749, pp. 519-541, Cambridge University Press, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "An efficient particle Fokker-Planck algorithm for rarefied gas flows",
+      "year": 2014,
+      "citation_raw": "An efficient particle Fokker-Planck algorithm for rarefied gas flows M. Hossein Gorji and Patrick Jenny Journal of Computational Physics, vol. 262, pp. 325-343, Elsevier, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Heat release and high-temperature gas effects in shock/shear-layer interaction",
+      "year": 2013,
+      "citation_raw": "Heat release and high-temperature gas effects in shock/shear-layer interaction R.C. Tritarelli and L. Kleiser 2nd TRR40 Summer Research Program, Garching, Germany, pp.203-214, Garching: Technische Universität München, Lehrstuhl für Aerodynamik und Strömungsmechanik, July 15 - August 9, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Iterative Galerkin-enriched multiscale finite-volume method",
+      "year": 2014,
+      "citation_raw": "Iterative Galerkin-enriched multiscale finite-volume method D. Cortinovis and P. Jenny Journal of Computational Physics, vol. 277, pp. 248-267, Elsevier, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Application of Compliant Structures for Flight Performance Improvement of Unmanned Aerial Vehicles",
+      "year": 2014,
+      "citation_raw": "Application of Compliant Structures for Flight Performance Improvement of Unmanned Aerial Vehicles Vitaly Dmitriev Doctoral Thesis, Zurich, ETH Zurich, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling of Failure along Predefined Planes in Fractured Reservoirs",
+      "year": 2014,
+      "citation_raw": "Modeling of Failure along Predefined Planes in Fractured Reservoirs Rajdeep Deb and Patrick Jenny Thirty-Ninth Workshop on Geothermal Reservoir Engineering, Stanford, CA, USA Red Hook, NY: Curran, February 24-26, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Fokker-Planck Solution Algorithm for Rarefied Gas Flows and Applications of Complex Gas-Surface Interactions",
+      "year": 2014,
+      "citation_raw": "Fokker-Planck Solution Algorithm for Rarefied Gas Flows and Applications of Complex Gas-Surface Interactions Mohammad Hossein Gorji Doctoral Thesis, Zurich, ETH Zurich, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Efficient and Adaptive Algorithm for Aerodynamic Investigations of Micro Helicopters",
+      "year": 2014,
+      "citation_raw": "Efficient and Adaptive Algorithm for Aerodynamic Investigations of Micro Helicopters Michael Gloor and Patrick Jenny 32nd AIAA Applied Aerodynamics Conference, Atlanta, GA, USA Reston, VA: American Institute of Aeronautics and Astronautics, June 16-20, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A gas-surface interaction kernel for diatomic rarefied gas flows based on the Cercignani-Lampis-Lord model",
+      "year": 2014,
+      "citation_raw": "A gas-surface interaction kernel for diatomic rarefied gas flows based on the Cercignani-Lampis-Lord model M. Hossein Gorji and Patrick Jenny Physics of Fluids, vol. 26: no. 12, pp. 12004, American Institute of Physics, 2014.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Coupling of solvers with non-conforming computational domains in a dual-mesh hybrid LES/RANS framework",
+      "year": 2013,
+      "citation_raw": "Coupling of solvers with non-conforming computational domains in a dual-mesh hybrid LES/RANS framework H. Xiao, Y. Sakai, R. Henniger, Martin Wild and Patrick Jenny Computers & Fluids, vol. 88, pp. 653-662, Elsevier, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multilevel Monte Carlo for two phase flow and Buckley–Leverett transport in random heterogeneous porous media",
+      "year": 2013,
+      "citation_raw": "Multilevel Monte Carlo for two phase flow and Buckley–Leverett transport in random heterogeneous porous media Florian Müller, Patrick Jenny and Daniel W. Meyer Journal of Computational Physics, vol. 250, pp. 685-702, Elsevier, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Accurate and computationally efficient mixing models for the simulation of turbulent mixing with PDF methods",
+      "year": 2013,
+      "citation_raw": "Accurate and computationally efficient mixing models for the simulation of turbulent mixing with PDF methods Daniel W. Meyer and Patrick Jenny Journal of Computational Physics, vol. 247, pp. 192-207, Elsevier, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Device Concept for Demixing of Gas Species based on Excitation of Internal Energy Modes",
+      "year": 2013,
+      "citation_raw": "A Device Concept for Demixing of Gas Species based on Excitation of Internal Energy Modes M. Hossein Gorji and Patrick Jenny 11th International Conference on Nanochannels, Microchannels, and Minichannels (ICNMM 2013), Sapporo, Japan, pp.V001T12A011 New York, NY: American Society of Mechanical Engineers, June 16-19, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Hybrid Fokker-Planck-DSMC Solution Algorithm for the Whole Range of Knudsen Numbers",
+      "year": 2013,
+      "citation_raw": "A Hybrid Fokker-Planck-DSMC Solution Algorithm for the Whole Range of Knudsen Numbers M. Hossein Gorji, Stephan Küchlin and Patrick Jenny 11th International Conference on Nanochannels, Microchannels, and Minichannels (ICNMM 2013), Sapporo, Japan, pp.V001T12A010 New York, NY: American Society of Mechanical Engineers, June 16-19, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Fokker-Planck based kinetic model for diatomic rarefied gas flows",
+      "year": 2013,
+      "citation_raw": "A Fokker-Planck based kinetic model for diatomic rarefied gas flows M. Hossein Gorji and Patrick Jenny Physics of Fluids, vol. 25: no. 6, pp. 062002, American Institute of Physics, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Lattice Boltzmann model for thermal binary-mixture gas flows",
+      "year": 2013,
+      "citation_raw": "Lattice Boltzmann model for thermal binary-mixture gas flows Jinfen Kang, Nikolaos I. Prasianakis and John Mantzaras Physical Review E, vol. 87: no. 5, pp. 053304, American Physical Society, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Simulation of 3D porous media flows with application to polymer electrolyte fuel cells: Ioannis",
+      "year": 2013,
+      "citation_raw": "Simulation of 3D porous media flows with application to polymer electrolyte fuel cells: Ioannis N.I. Prasianakis, T. Rosen, J. Kang, J. Eller, Ioannis Mantzaras and F.N. Büchi Communications in Computational Physics, vol. 13: no. 3, pp. 851-866, Global Science Press, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Joint PDF Closure of Turbulent Premixed Flames",
+      "year": 2013,
+      "citation_raw": "Joint PDF Closure of Turbulent Premixed Flames Matthias L. Hack and Patrick Jenny Flow, Turbulence and Combustion, vol. 90: no. 2, pp. 373-386, Springer, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Energy Extraction from Onflow Inhomogeneity in the Spanwise Direction. A Theoretical Study",
+      "year": 2013,
+      "citation_raw": "Energy Extraction from Onflow Inhomogeneity in the Spanwise Direction. A Theoretical Study Vitaly Dmitriev and Patrick Jenny Journal of Intelligent & Robotic Systems, vol. 69: no. 1-4, pp. 83-89, Springer, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multipurpose synthetic particle image velocimetry",
+      "year": 2013,
+      "citation_raw": "Multipurpose synthetic particle image velocimetry Stephan Küchlin Master Thesis, Zürich, ETH-Zürich, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A fast simulation method for uncertainty quantification of subsurface flow and transport",
+      "year": 2013,
+      "citation_raw": "A fast simulation method for uncertainty quantification of subsurface flow and transport Daniel W. Meyer, Hamdi A. Tchelepi and Patrick Jenny Water Resources Research, vol. 49: no. 5, pp. 2359-2379, Wiley, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A PDF combustion model for turbulent premixed flames",
+      "year": 2013,
+      "citation_raw": "A PDF combustion model for turbulent premixed flames Benjamin T. Zoller, Mathias L. Hack and Patrick Jenny Proceedings of the Combustion Institute, vol. 34, pp. 1421-1428, Elsevier, 2013.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling of turbulent dilute spray combustion",
+      "year": 2012,
+      "citation_raw": "Modeling of turbulent dilute spray combustion Patrick Jenny, Dirk Roekaerts and Nijso Beishuizen Progress in Energy and Combustion Science, vol. 38: no. 6, pp. 846-887, Elsevier, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Accurate and Efficient Simulation of Multiphase Flow in a Heterogeneous Reservoir With Error Estimate and Control in the Multiscale Finite-Volume Framework",
+      "year": 2012,
+      "citation_raw": "Accurate and Efficient Simulation of Multiphase Flow in a Heterogeneous Reservoir With Error Estimate and Control in the Multiscale Finite-Volume Framework Hadi Hajibeygi, Seong Hee Lee and Ivan Lunati SPE Journal, vol. 17: no. 4, pp. 1071-1083, Society of Petroleum Engineers, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Empirical model for target depth estimation used in the time-domain subsurface imaging",
+      "year": 2012,
+      "citation_raw": "Empirical model for target depth estimation used in the time-domain subsurface imaging Miloš Šormaz and Patrick Jenny Journal of the Optical Society of America A, vol. 29: no. 10, pp. 2174-2180, OSA Publishing, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Tissue Metabolism Driven Arterial Tree Generation",
+      "year": 2012,
+      "citation_raw": "Tissue Metabolism Driven Arterial Tree Generation Matthias Schneider, Johannes Reichold, Bruno Weber, Gábor Székely and Sven Hirsch Medical Image Analysis, vol. 16: no. 7, pp. 1397-1414, Elsevier, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modelling of turbulence modulation in particle- or droplet-laden flows",
+      "year": 2012,
+      "citation_raw": "Modelling of turbulence modulation in particle- or droplet-laden flows Daniel W. Meyer Journal of Fluid Mechanics, vol. 706, pp. 251-273, Cambridge University Press, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Near Surface Swimming of Salmonella Typhimurium Explains Target-Site Selection and Cooperative Invasion",
+      "year": 2012,
+      "citation_raw": "Near Surface Swimming of Salmonella Typhimurium Explains Target-Site Selection and Cooperative Invasion Benjamin Misselwitz, Naomi Barrett, Saskia Kreibich, Pascale Vonaesch, Daniel Andritschke, Samuel Rout, Kerstin Weidner, Milos Sormaz, Pascal Songhet, Peter Horvath, Mamta Chabria, Viola Vogel, Doris M. Spori, Patrick Jenny and Wolf-Dietrich Hardt PLoS Pathogens, vol. 8: no. 7, pp. e1002810, PLOS, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Topology and hemodynamics of the cortical cerebrovascular system",
+      "year": 2012,
+      "citation_raw": "Topology and hemodynamics of the cortical cerebrovascular system Sven Hirsch, Johannes Reichold, Matthias Schneider, Gábor Székely and Bruno Weber Journal of Cerebral Blood Flow & Metabolism, vol. 32: no. 6, pp. 952-967, Raven Press, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Coupled Discrete/Continuum Model for Describing Cancer-Therapeutic Transport in the Lung",
+      "year": 2012,
+      "citation_raw": "A Coupled Discrete/Continuum Model for Describing Cancer-Therapeutic Transport in the Lung Karin M. Erbertseder, Johannes Reichold, Bernd Flemisch, Patrick Jenny and Rainer Helmig PLoS ONE, vol. 7: no. 3, pp. e31966, PLOS, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling molecular mixing in a spatially inhomogeneous turbulent flow",
+      "year": 2012,
+      "citation_raw": "Modeling molecular mixing in a spatially inhomogeneous turbulent flow Daniel W. Meyer and Rajdeep Deb Physics of Fluids, vol. 24: no. 2, pp. 025103, American Institute of Physics, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Reactive Parametrized Scalar Profile (R-PSP) Mixing Model for Partially Premixed Combustion",
+      "year": 2012,
+      "citation_raw": "Reactive Parametrized Scalar Profile (R-PSP) Mixing Model for Partially Premixed Combustion Michael Hegetschweiler, Benjamin Zoller and Patrick Jenny Combustion and Flame, vol. 159: no. 2, pp. 734-747, Elsevier, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Consistent Dual-Mesh Framework for Hybrid LES/RANS Modeling",
+      "year": 2012,
+      "citation_raw": "A Consistent Dual-Mesh Framework for Hybrid LES/RANS Modeling Heng Xiao and Patrick Jenny Journal of Computational Physics, vol. 231: no. 4, pp. 1848-1865, Elsevier, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Development of an LB Model for Non-Isothermal Mixture Flows",
+      "year": 2012,
+      "citation_raw": "Development of an LB Model for Non-Isothermal Mixture Flows J. Kang, N.I. Prasianakis and J. Mantzaras 21st Conference on Discrete Simulation of Fluid Dynamics, Bangalore, India, July 23-27, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Transported Probability and Mass Density Function (PDF/MDF) Methods for Uncertainty Assessment and Multi-Scale Problems",
+      "year": 2012,
+      "citation_raw": "Transported Probability and Mass Density Function (PDF/MDF) Methods for Uncertainty Assessment and Multi-Scale Problems Patrick Jenny and Daniel W. Meyer In Numerical analysis of multiscale problems, vol. 83 , pp. 35-65, Berlin: Springer, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Concept for Flapping Annular Wing UAV",
+      "year": 2012,
+      "citation_raw": "Concept for Flapping Annular Wing UAV Vitaly Dmitriev and Patrick Jenny 12th AIAA Aviation Technology, Integration, and Operations (ATIO) Conference and 14th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, Indianapolis, IN, USA, pp.AIAA 2012-5583 Reston, VA: American Institute of Aeronautics and Astronautics, September 17-19, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling of Flow and Transport for EGS Cost Optimization Problems",
+      "year": 2012,
+      "citation_raw": "Modeling of Flow and Transport for EGS Cost Optimization Problems D. Karvounis and P. Jenny Thirty-Seventh Workshop on Geothermal Reservoir Engineering, Stanford, CA, USA, January 30-February 1, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Saturation Dependent Effective Transport Properties of PEFC Gas Diffusion Layers",
+      "year": 2012,
+      "citation_raw": "Saturation Dependent Effective Transport Properties of PEFC Gas Diffusion Layers Tomas Rosén, Jens Eller, Jinfen Kang, Nikolaos I. Prasianakis, John Mantzaras and Felix N. Büchi Journal of the Electrochemical Society, vol. 159: no. 9, pp. F536-F544, The Electrochemical Society, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Energy Extraction from Wind Inhomogeneity by Means of Wing Morphing",
+      "year": 2012,
+      "citation_raw": "Energy Extraction from Wind Inhomogeneity by Means of Wing Morphing Vitaly Dmitriev and Patrick Jenny 12th AIAA Aviation Technology, Integration, and Operations (ATIO) Conference and 14th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, Indianapolis, IN, USA, pp.AIAA 2012-5709 Reston, VA: American Institute of Aeronautics and Astronautics, September 17-19, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Kinetic Model for Gas Mixtures Based on a Fokker-Planck Equation",
+      "year": 2012,
+      "citation_raw": "A Kinetic Model for Gas Mixtures Based on a Fokker-Planck Equation Hossein Gorji and Patrick Jenny Journal of Physics: Conference Series, vol. 362: no. 1, pp. 012042, IOP Publishing, 2012.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Probabilistic collocation and Lagrangian sampling for Advective Tracer Transport in Randomly Heterogeneous Porous Media",
+      "year": 2011,
+      "citation_raw": "Probabilistic collocation and Lagrangian sampling for Advective Tracer Transport in Randomly Heterogeneous Porous Media Florian Müller, Daniel W. Meyer and Patrick Jenny Advances in Water Resources, vol. 34: no. 12, pp. 1527-1538, Elsevier, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Probability density function approach for modelling multi-phase flow with ganglia in porous media",
+      "year": 2011,
+      "citation_raw": "Probability density function approach for modelling multi-phase flow with ganglia in porous media Manav Tyagi and Patrick Jenny Journal of Fluid Mechanics, vol. 688, pp. 219-257, Cambridge University Press, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A hierarchical fracture model for the iterative multiscale finite volume method",
+      "year": 2011,
+      "citation_raw": "A hierarchical fracture model for the iterative multiscale finite volume method Hadi Hajibeygi, Dimitris Karvounis and Patrick Jenny Journal of Computational Physics, vol. 230: no. 24, pp. 8729-8743, Elsevier, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Quantification of subsurface thermal regimes beneath evaporating porous surfaces",
+      "year": 2011,
+      "citation_raw": "Quantification of subsurface thermal regimes beneath evaporating porous surfaces Ebrahim Shahraeeni and Dani Or International Journal of Heat and Mass Transfer, vol. 54: no. 19-20, pp. 4193-4202, Elsevier, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "PDF model for NO calculations with radiation and consistent NO-NO2 chemistry in non-premixed turbulent flames",
+      "year": 2011,
+      "citation_raw": "PDF model for NO calculations with radiation and consistent NO-NO2 chemistry in non-premixed turbulent flames B.T. Zoller, J.M. Allegrini, U. Maas and P. Jenny Combustion and Flame, vol. 158: no. 8, pp. 1591-1601, Elsevier, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Fokker–Planck model for computational studies of monatomic rarefied gas flows",
+      "year": 2011,
+      "citation_raw": "Fokker–Planck model for computational studies of monatomic rarefied gas flows M.H. Gorji, M. Torrilhon and Patrick Jenny Journal of Fluid Mechanics, vol. 680, pp. 574-601, Cambridge University Press, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Aero-Structural Optimization of Morphing Airfoils for Adaptive Wings",
+      "year": 2011,
+      "citation_raw": "Aero-Structural Optimization of Morphing Airfoils for Adaptive Wings Giulio Molinari, Manfred Quack, Vitaly Dmitriev, Manfred Morari, Patrick Jenny and Paolo Ermanni Journal of Intelligent Material Systems and Structures, vol. 22: no. 10, pp. 1075-1089, SAGE, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "High-order finite-difference implementation of the immersed-boundary technique for incompressible flows",
+      "year": 2010,
+      "citation_raw": "High-order finite-difference implementation of the immersed-boundary technique for incompressible flows Giuseppe Bonfigli 10th Institute for Computational Fluid Dynamics (ICFD) Conference, Reading, United Kingdom, pp.2-11, Kidlington: Elsevier, April 12-15, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Probability Density Function Modeling of Multi-Phase Flow in Porous Media with Density-Driven Gravity Currents",
+      "year": 2011,
+      "citation_raw": "Probability Density Function Modeling of Multi-Phase Flow in Porous Media with Density-Driven Gravity Currents Manav Tyagi and Patrick Jenny Transport in Porous Media, vol. 87: no. 2, pp. 603-623, Springer, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "An iterative multiscale finite volume algorithm converging to the exact solution",
+      "year": 2011,
+      "citation_raw": "An iterative multiscale finite volume algorithm converging to the exact solution Ivan Lunati, Manav Tyagi and Seong H. Lee Journal of Computational Physics, vol. 230: no. 5, pp. 1849-1864, Elsevier, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Daniel W. Meyer and Patrick Jenny",
+      "year": 2011,
+      "citation_raw": "Daniel W. Meyer and Patrick Jenny Combustion and Flame, vol. 158: no. 3, pp. 592-592, Elsevier, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Adaptive iterative multiscale finite volume method",
+      "year": 2011,
+      "citation_raw": "Adaptive iterative multiscale finite volume method Hadi Hajibeygi and Patrick Jenny Journal of Computational Physics, vol. 230: no. 3, pp. 628-643, Elsevier, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Accurate and Efficient Simulation of Multiphase Flow in a Heterogeneous Reservoir by Using Error Estimate and Control in the Multiscale Finite-Volume Framework",
+      "year": 2011,
+      "citation_raw": "Accurate and Efficient Simulation of Multiphase Flow in a Heterogeneous Reservoir by Using Error Estimate and Control in the Multiscale Finite-Volume Framework H. Hajibeygi, I. Lunati and S. H. Lee 2011 SPE Reservoir Simulation Symposium, The Woodlands, Texas: Society of Petroleum Engineers, February 21-23, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Joint PDF Closure of Turbulent Premixed Flames",
+      "year": 2011,
+      "citation_raw": "Joint PDF Closure of Turbulent Premixed Flames Mathias L. Hack and Patrick Jenny 7th Mediterranean Combustion Symposium (MCS-11), Sardinia, Italy, pp.TC-15 Sardinia: 7th Mediterranean Combustion Symposium (MCS-11), September 11-15, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Loosely Coupled Hierarchical Fracture Model for the Iterative Multiscale Finite Volume Method",
+      "year": 2011,
+      "citation_raw": "A Loosely Coupled Hierarchical Fracture Model for the Iterative Multiscale Finite Volume Method Hadi Hajibeygi, Dimitris Karvounis and Patrick Jenny 2011 SPE Reservoir Simulation Symposium, The Woodlands, Texas: Society of Petroleum Engineers, February 21-23, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Consistent Dual-Mesh Frame work for Hybrid LES/RANS Modeling",
+      "year": 2011,
+      "citation_raw": "A Consistent Dual-Mesh Frame work for Hybrid LES/RANS Modeling Heng Xiao, Michael Wild and Patrick Jenny 4th Symposium on Hybrid RANS-LES Methods, Beijing, China: Tsinghua University; The Chinese Society of Theoretical and Applied Mechanics (CSTAM); The German Aerospace Center (DLR); EU Project ATAAC Consortium, September 28-30, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Combustion Model to Predict Local and Global Extinction of Partially Premixed Flames",
+      "year": 2011,
+      "citation_raw": "Combustion Model to Predict Local and Global Extinction of Partially Premixed Flames Benjamin T. Zoller and Patrick Jenny 7th Mediterranean Combustion Symposium (MCS-11), Sardinia, Italy, pp.TC-20 Sardinia: 7th Mediterranean Combustion Symposium (MCS-11), September 11-15, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Iterative multiscale finite volume method for multiphase flow in porous media with complex physics",
+      "year": 2011,
+      "citation_raw": "Iterative multiscale finite volume method for multiphase flow in porous media with complex physics Hadi Hajibeygi Doctoral Thesis, Zurich, ETH Zurich, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multiscale finite volume method for non conformal coarse grids arising from faulted porous media",
+      "year": 2011,
+      "citation_raw": "Multiscale finite volume method for non conformal coarse grids arising from faulted porous media Hadi Hajibeygi, Rajdep Deb and Patrick Jenny 2011 SPE Reservoir Simulation Symposium, The Woodlands, Texas: Society of Petroleum Engineers, February 21-23, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Continuous Stochastic Equations for Diatomic Rarefied Gas Flows",
+      "year": 2011,
+      "citation_raw": "Continuous Stochastic Equations for Diatomic Rarefied Gas Flows Hossein Gorji and Patrick Jenny 3rd International GASMEMS Workshop (GASMEMS11), Bertinoro, Italy: GASMEMS, June 9-11, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling of flow and transport in Enhanced Geothermal Systems",
+      "year": 2011,
+      "citation_raw": "Modeling of flow and transport in Enhanced Geothermal Systems Dimitrios Karvounis and Patrick Jenny Thirty-Sixth Workshop on Geothermal Reservoir Engineering, Stanford, CA, USA Stanford, CA: Stanford University, January 31 - February 2, 2011.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A joint velocity-concentration PDF method for tracer flow in heterogeneous porous media",
+      "year": 2010,
+      "citation_raw": "A joint velocity-concentration PDF method for tracer flow in heterogeneous porous media Daniel W. Meyer, Patrick Jenny and Hamdi A. Tchelepi Water Resources Research, vol. 46, pp. W12522, American Geophysical Union, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Contrast improvement by selecting ballistic-photons using polarization gating",
+      "year": 2010,
+      "citation_raw": "Contrast improvement by selecting ballistic-photons using polarization gating Milos Sormaz and Patrick Jenny Optics Express, vol. 18: no. 23, pp. 23746-23755, OSA Publishing, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Thermo-evaporative fluxes from heterogeneous porous surfaces resolved by infrared thermography",
+      "year": 2010,
+      "citation_raw": "Thermo-evaporative fluxes from heterogeneous porous surfaces resolved by infrared thermography Ebrahim Shahraeeni and Dani Or Water Resources Research, vol. 46: no. 9, pp. W09511, American Geophysical Union, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A new particle interaction mixing model for turbulent dispersion and turbulent reactive flows",
+      "year": 2010,
+      "citation_raw": "Erratum: “A new particle interaction mixing model for turbulent dispersion and turbulent reactive flows” [Phys. Fluids 22, 035103 (2010)]",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A new particle interaction mixing model for turbulent dispersion and turbulent reactive flows",
+      "year": 2010,
+      "citation_raw": "Erratum: “A new particle interaction mixing model for turbulent dispersion and turbulent reactive flows” [Phys. Fluids 22, 035103 (2010)] Daniel W. Meyer Physics of Fluids, vol. 22: no. 9, pp. 099903, American Institute of Physics, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Influence of linear birefringence in the computation of scattering phase functions",
+      "year": 2010,
+      "citation_raw": "Influence of linear birefringence in the computation of scattering phase functions Milos Sormaz, Tobias Stamm and Patrick Jenny Journal of Biomedical Optics, vol. 15: no. 5, pp. 055010, SPIE, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A new particle interaction mixing model for turbulent dispersion and turbulent reactive flows",
+      "year": 2010,
+      "citation_raw": "A new particle interaction mixing model for turbulent dispersion and turbulent reactive flows Daniel W. Meyer Physics of Fluids, vol. 22: no. 3, pp. 035103, American Institute of Physics, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A solution algorithm for the fluid dynamic equations based on a stochastic model for molecular motion",
+      "year": 2010,
+      "citation_raw": "A solution algorithm for the fluid dynamic equations based on a stochastic model for molecular motion Patrick Jenny, Manuel Torrilhon and Stefan Heinz Journal of Computational Physics, vol. 229: no. 4, pp. 1077-1098, Elsevier, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Error estimate and control in the MSFV method for multiphase flow in porous media",
+      "year": 2010,
+      "citation_raw": "Error estimate and control in the MSFV method for multiphase flow in porous media Hadi Hajibeygi, Ivan Lunati and Seong H. Lee XVIII International Conference on Computational Methods in Water Resources (CMWR 2010), Barcelona, Spain Barcelona: XVIII International Conference on Computational Methods in Water Resources (CMWR 2010), June 21-24, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Stochastic modeling of polarized light scattering using a Monte Carlo based stencil method",
+      "year": 2010,
+      "citation_raw": "Stochastic modeling of polarized light scattering using a Monte Carlo based stencil method Miloš Šormaz, Tobias Stamm and Patrick Jenny Journal of the Optical Society of America A, vol. 27: no. 5, pp. 1100-1110, OSA Publishing, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Particle-based transport model with Markovian velocity processes for tracer dispersion in highly heterogeneous porous media",
+      "year": 2010,
+      "citation_raw": "Particle-based transport model with Markovian velocity processes for tracer dispersion in highly heterogeneous porous media Daniel W. Meyer and Hamdi A. Tchelepi Water Resources Research, vol. 46, pp. W11552, American Geophysical Union, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Application of the multi-scale-finite-volume method to the simulation of incompressible flows with immersed boundaries",
+      "year": 2008,
+      "citation_raw": "Application of the multi-scale-finite-volume method to the simulation of incompressible flows with immersed boundaries Giuseppe Bonfigli and Patrick Jenny 16th STAB/DGLR Symposium, Aachen, Germany, pp.9-16, Berlin: Springer, November 2-4, 2008.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Multidisciplinary Approach For Wing Airfoil Morphing",
+      "year": 2010,
+      "citation_raw": "A Multidisciplinary Approach For Wing Airfoil Morphing Giulio Molinari, Manfred Quack, Vitaly Dmitriev, Manfred Morari, Patrick Jenny and Paolo Ermanni 21st International Conference on Adaptive Structures and Technologies (ICAST 2010), State College, Pennsylvania, USA: Pennsylvania State University, October 4–6, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Red blood cell distribution in simplified capillary networks",
+      "year": 2010,
+      "citation_raw": "Red blood cell distribution in simplified capillary networks Dominik Obrist, Bruno Weber, Alfred Buck and Patrick Jenny Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, vol. 368: no. 1921, pp. 2897-2918, Royal Society, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Generalized Stochastic Solution Algorithm for Simulations of Rarefied Gas Flows",
+      "year": 2010,
+      "citation_raw": "A Generalized Stochastic Solution Algorithm for Simulations of Rarefied Gas Flows Hossein Gorji and Patrick Jenny 2nd European Conference on Microfluidics (µFlu’10), Toulouse, France: 2nd European Conference on Microfluidics, December 8-10, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Stochastic modeling of light scattering applied in remote sensing and ballistic-photon imaging",
+      "year": 2010,
+      "citation_raw": "Stochastic modeling of light scattering applied in remote sensing and ballistic-photon imaging Miloš Šormaz Doctoral Thesis, Zurich, ETH Zurich, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "PDF-Approach for Modeling Dissolution-Driven Gravity Currents",
+      "year": 2010,
+      "citation_raw": "PDF-Approach for Modeling Dissolution-Driven Gravity Currents Manav Tyagi and Patrick Jenny XVIII International Conference on Computational Methods in Water Resources (CMWR 2010), Barcelona, Spain: International Centre for Numerical Methods in Engineering (CIMNE), June 21-24, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Pore-Scale Analysis of Evaporation and Condensation Dynamics in Porous Media",
+      "year": 2010,
+      "citation_raw": "Pore-Scale Analysis of Evaporation and Condensation Dynamics in Porous Media Ebrahim Shahraeeni and Dani Or Langmuir, vol. 26: no. 17, pp. 13924-13936, American Chemical Society, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Recent Developments in the Multi-Scale-Finite-Volume Procedure",
+      "year": 2009,
+      "citation_raw": "Recent Developments in the Multi-Scale-Finite-Volume Procedure Giuseppe Bonfigli and Patrick Jenny 7th International Conference on Large-Scale Scientific Computing (LSSC 2009), Sozopol, Bulgaria, pp.124-131, Berlin: Springer, June 4-8, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Partially Premixed Turbulent Combustion Model Based on Joint Statistics of Progress Variable, Mixture Fraction, and Scalar Dissipation Rate",
+      "year": 2010,
+      "citation_raw": "Partially Premixed Turbulent Combustion Model Based on Joint Statistics of Progress Variable, Mixture Fraction, and Scalar Dissipation Rate Michael Jakob Hegetschweiler, Christoph Handwerk and Patrick Jenny Combustion Science and Technology, vol. 182: no. 4-6, pp. 480-490, Taylor & Francis, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Error Estimate and Control in the Multiscale Finite-Volume Method for Multiphase Flow in Porous Media",
+      "year": 2010,
+      "citation_raw": "Error Estimate and Control in the Multiscale Finite-Volume Method for Multiphase Flow in Porous Media Hadi Hajibeygi, I. Lunati and S.H. Lee XVIII Conference on Computational Methods in Water Resources (CMWR 2010), Barcelona, Spain: XVIII Conference on Computational Methods in Water Resources (CMWR 2010), June 21-24, 2010.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Unconditionally convergent nonlinear solver for hyperbolic conservation laws with S-shaped flux functions",
+      "year": 2009,
+      "citation_raw": "Unconditionally convergent nonlinear solver for hyperbolic conservation laws with S-shaped flux functions Patrick Jenny, Hamdi A. Tchelepi and Seong H. Lee Journal of Computational Physics, vol. 228: no. 20, pp. 7497-7512, Elsevier, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Vascular graph model to simulate the cerebral blood flow in realistic vascular networks",
+      "year": 2009,
+      "citation_raw": "Vascular graph model to simulate the cerebral blood flow in realistic vascular networks Johannes Reichold, Marco Stampanoni, Anna Lena Keller, Alfred Buck, Patrick Jenny and Bruno Weber Journal of Cerebral Blood Flow & Metabolism, vol. 29: no. 8, pp. 1429-1443, Raven Press, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Improved in vivo two-photon imaging after blood replacement by perfluorocarbon",
+      "year": 2009,
+      "citation_raw": "Improved in vivo two-photon imaging after blood replacement by perfluorocarbon F. Haiss, R. Jolivet, M.T. Wyss, J. Reichold, N.B. Braham, F. Scheffold, M.P. Krafft and B. Weber The Journal of Physiology, vol. 587: no. 13, pp. 3153-3158, Wiley-Blackwell, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "An efficient multi-scale Poisson solver for the incompressible Navier–Stokes equations with immersed boundaries",
+      "year": 2009,
+      "citation_raw": "An efficient multi-scale Poisson solver for the incompressible Navier–Stokes equations with immersed boundaries Giuseppe Bonfigli and Patrick Jenny Journal of Computational Physics, vol. 228: no. 12, pp. 4568-4587, Elsevier, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Stochastic modeling of light scattering with fluorescence using a Monte Carlo based multi-scale approach",
+      "year": 2009,
+      "citation_raw": "Stochastic modeling of light scattering with fluorescence using a Monte Carlo based multi-scale approach Milos Sormaz, Tobias Stamm, Safer Mourad and Patrick Jenny Journal of the Optical Society of America A, vol. 26: no. 6, pp. 1403-1413, OSA Publishing, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Micromixing models for turbulent flows",
+      "year": 2009,
+      "citation_raw": "Micromixing models for turbulent flows Daniel W. Meyer and Patrick Jenny Journal of Computational Physics, vol. 228: no. 4, pp. 1275-1293, Elsevier, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Efficient NO Calculations in Turbulent Non-Premixed Flames Using PDF Methods",
+      "year": 2009,
+      "citation_raw": "Efficient NO Calculations in Turbulent Non-Premixed Flames Using PDF Methods Michael A. Wild, Benjamin T. Zoller, Jonas Allegrini and Patrick Jenny 4th European Combustion Meeting 2009 (ECM 2009), Vienna, Austria Vienna: ECM, April 14-17, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multiscale finite-volume method for parabolic problems arising from compressible multiphase flow in porous media",
+      "year": 2009,
+      "citation_raw": "Multiscale finite-volume method for parabolic problems arising from compressible multiphase flow in porous media Hadi Hajibeygi and Patrick Jenny Journal of Computational Physics, vol. 228: no. 14, pp. 5129-5147, Elsevier, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Self-regulation of red blood cell transport in capillary networks",
+      "year": 2009,
+      "citation_raw": "Self-regulation of red blood cell transport in capillary networks Dominik Obrist, Patrick Jenny, Alfred Buck and Bruno Weber 4th International Congress on Computational Bioengineering including the first European Symposium on Biomedical Integrative Research (ICCB 2009), pp.97-97, Bologna, Italy: DEIS, Alma Mater Studiorum, Università di Bologna, September 16-18, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Dynamic response of turbulent swirling flames to acoustic perturbations",
+      "year": 2009,
+      "citation_raw": "Dynamic response of turbulent swirling flames to acoustic perturbations Giulio Borghesi, Fernando Biagioli and Bruno Schuermans Combustion Theory and Modelling, vol. 13: no. 3, pp. 487-512, Taylor & Francis, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Influence of the discretization order on the accuracy of an immersed-boundary procedure for incompressible flows",
+      "year": 2009,
+      "citation_raw": "Influence of the discretization order on the accuracy of an immersed-boundary procedure for incompressible flows Giuseppe Bonfigli 19th AIAA Computational Fluid Dynamics Conference (AIAA 2009), San Antonio, TX, USA Reston, VA: American Institute of Aeronautics and Astronautics, June 22-25, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling complex wells with the multi-scale finite-volume method",
+      "year": 2009,
+      "citation_raw": "Modeling complex wells with the multi-scale finite-volume method Patrick Jenny and Ivan Lunati Journal of Computational Physics, vol. 228: no. 3, pp. 687-702, Elsevier, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Stochastic modeling of evaporating sprays within a consistent hybrid joint PDF framework",
+      "year": 2009,
+      "citation_raw": "Stochastic modeling of evaporating sprays within a consistent hybrid joint PDF framework Gaurav Anand and Patrick Jenny Journal of Computational Physics, vol. 228: no. 6, pp. 2063-2081, Elsevier, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A mixing model providing joint statistics of scalar and scalar dissipation rate",
+      "year": 2009,
+      "citation_raw": "A mixing model providing joint statistics of scalar and scalar dissipation rate Daniel W. Meyer and Patrick Jenny Proceedings of the Combustion Institute, vol. 32: no. 1, pp. 1613-1620, Elsevier, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Joint Probability Density Function (PDF) Model for Turbulent Premixed Combustion",
+      "year": 2009,
+      "citation_raw": "A Joint Probability Density Function (PDF) Model for Turbulent Premixed Combustion Mathias L. Hack, Julia Schmoker and Patrick Jenny 4th European Combustion Meeting 2009 (ECM 2009), Vienna, Austria, pp.97-97, Vienna: ProcessEng Engineering GmbH, April 14-17, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Time Accurate Numerical Integration Scheme for Stochastic Differential Equations with respect to Joint Statistics",
+      "year": 2009,
+      "citation_raw": "Time Accurate Numerical Integration Scheme for Stochastic Differential Equations with respect to Joint Statistics Michael Jakob Hegetschweiler and Patrick Jenny 4th European Combustion Meeting 2009 (ECM 2009), Vienna, Austria Vienna: ECM, April 14-17, 2009.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Hierarchical effector protein transport by the Salmonella Typhimurium SPI-1 type III secretion system",
+      "year": 2008,
+      "citation_raw": "Hierarchical effector protein transport by the Salmonella Typhimurium SPI-1 type III secretion system Brit Winnen, Markus C. Schlumberger, Alexander Sturm, Kaspar Schüpbach, Stefan Siebenmann, Patrick Jenny and Wolf-Dietrich Hardt PLoS ONE, vol. 3: no. 5, pp. e2178, PLOS, 2008.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multiscale finite-volume method for density-driven flow in porous media",
+      "year": 2008,
+      "citation_raw": "Multiscale finite-volume method for density-driven flow in porous media Ivan Lunati and Patrick Jenny Computational Geosciences, vol. 12: no. 3, pp. 337-350, Springer, 2008.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A stochastic trapping model for non-wetting phase ganglias in two phase flow through porous media",
+      "year": 2008,
+      "citation_raw": "A stochastic trapping model for non-wetting phase ganglias in two phase flow through porous media Manav Tyagi, Patrick Jenny and Hamdi A. Tchelepi 11th European Conference on the Mathematics of Oil Recovery (ECMOR XI), Bergen, Norway Houten: European Association of Geoscientists & Engineers, September 8-11, 2008.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Parallel hybrid particle/finite volume algorithm for transported PDF methods employing sub-time stepping",
+      "year": 2008,
+      "citation_raw": "Parallel hybrid particle/finite volume algorithm for transported PDF methods employing sub-time stepping Benjamin Rembold, Max Grass and Patrick Jenny Computers & Fluids, vol. 37: no. 3, pp. 181-193, Elsevier, 2008.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Iterative multiscale finite-volume method",
+      "year": 2008,
+      "citation_raw": "Iterative multiscale finite-volume method Hadi Hajibeygi, Giuseppe Bonfigli, Marc Andre Hesse and Patrick Jenny Journal of Computational Physics, vol. 227: no. 19, pp. 8604-8621, Elsevier, 2008.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "An improved mixing model providing joint statistics of scalar and scalar dissipation",
+      "year": 2008,
+      "citation_raw": "An improved mixing model providing joint statistics of scalar and scalar dissipation Daniel W. Meyer and Patrick Jenny Combustion and Flame, vol. 155: no. 3, pp. 490-508, Elsevier, 2008.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Lagrangian, stochastic modeling framework for multi-phase flow in porous media",
+      "year": 2008,
+      "citation_raw": "A Lagrangian, stochastic modeling framework for multi-phase flow in porous media Manav Tyagi, Patrick Jenny, Ivan Lunati and Hamdi A. Tchelepi Journal of Computational Physics, vol. 227: no. 13, pp. 6696-6714, Elsevier, 2008.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Predicting Spectral Halftone Measurements for Different Instruments Using a New Multi-Scale Approach",
+      "year": 2008,
+      "citation_raw": "Predicting Spectral Halftone Measurements for Different Instruments Using a New Multi-Scale Approach Milos Sormaz, Safer Mourad, Tobias Stamm and Patrick Jenny 4th European Conference on colour in graphics, imaging, and vision and 10th international symposium on multispectral colour science (CGIV 2008/MCS'08), pp.25-30, Springfield, Va.: Society for Imaging Science & Technology, June 9-13, 2008.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "The Microvascular System of the Striate and Extrastriate Visual Cortex of the Macaque",
+      "year": 2008,
+      "citation_raw": "The Microvascular System of the Striate and Extrastriate Visual Cortex of the Macaque Bruno Weber, Anna L. Keller, Johannes Reichold and Nikos K. Logothetis Cerebral Cortex, vol. 18: no. 10, pp. 2318-2330, Oxford University Press, 2008.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A general multiscale finite-volume method for compressible multiphase flow in porous media",
+      "year": 2008,
+      "citation_raw": "A general multiscale finite-volume method for compressible multiphase flow in porous media Hadi Hajibeygi and Patrick Jenny 11th European Conference on the Mathematics of Oil Recovery (ECMOR XI), Bergen, Norway Houten: European Association of Geoscientists & Engineers, September 8-11, 2008.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Well modeling in the multi scale finite-volume context",
+      "year": 2007,
+      "citation_raw": "Well modeling in the multi scale finite-volume context Patrick Jenny and Ivan Lunati 6th International Congress on Industrial Applied Mathematics (ICIAM07) and GAMM Annual Meeting, Zurich, Switzerland, pp.1024601-1024602, Weinheim: Wiley-VCH, July 16-20, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Embedding quasi laminar 1D flame profiles to model turbulent premixed combustion with a joint PDF method",
+      "year": 2007,
+      "citation_raw": "Embedding quasi laminar 1D flame profiles to model turbulent premixed combustion with a joint PDF method Mathias Leander Hack and Patrick Jenny 6th International Congress on Industrial Applied Mathematics (ICIAM07) and GAMM Annual Meeting, Zurich, Switzerland, pp.4090017-4090018, Weinheim: Wiley-VCH, July 16-20, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling the cerebral blood flow using a linear system approach",
+      "year": 2007,
+      "citation_raw": "Modeling the cerebral blood flow using a linear system approach Johannes Reichold, Bruno Weber, Alfred Buck and Patrick Jenny Sixth International Congress on Industrial Applied Mathematics (ICIAM07) and GAMM Annual Meeting 2007, Zurich, Switzerland, pp.4020027-4020028, Weinheim: Wiley-VCH, July 16-20, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A mixing model providing statistics of the conditional scalar dissipation rate",
+      "year": 2007,
+      "citation_raw": "A mixing model providing statistics of the conditional scalar dissipation rate D.W. Meyer and P. Jenny 6th International Congress on Industrial Applied Mathematics (ICIAM07) and GAMM Annual Meeting, Zurich, Switzerland, pp.4090013-4090014, Weinheim: Wiley-VCH, July 16-20, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Computing light statistics in heterogeneous media based on a mass weighted probability density function method",
+      "year": 2007,
+      "citation_raw": "Computing light statistics in heterogeneous media based on a mass weighted probability density function method Patrick Jenny, Safer Mourad, Tobias Stamm, Markus Vöge and Klaus Simon Journal of the Optical Society of America A, vol. 24: no. 8, pp. 2206-2219, Optical Society of America, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Adaptive multiscale finite-volume framework for reservoir simulation",
+      "year": 2007,
+      "citation_raw": "Adaptive multiscale finite-volume framework for reservoir simulation Hamdi A. Tchelepi, Patrick Jenny, Seong H. Lee and Christian Wolfsteiner SPE Journal, vol. 12: no. 2, pp. 188-195, Society of Petroleum Engineers, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Numerical solution of the incompressible Navier-Stokes equations with explicit integration of the pressure term",
+      "year": 2007,
+      "citation_raw": "Numerical solution of the incompressible Navier-Stokes equations with explicit integration of the pressure term Giuseppe Bonfigli 6th International Congress on Industrial Applied Mathematics (ICIAM07) and GAMM Annual Meeting, Zurich, Switzerland, pp.4100019-4100020, Weinheim: Wiley-VCH, July 16-20, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling the cerebral blood flow using a multiscale finite-volume approach",
+      "year": 2007,
+      "citation_raw": "Modeling the cerebral blood flow using a multiscale finite-volume approach Johannes Reichold, Alfred Buck, Bruno Weber and Patrick Jenny 6th International Congress on Industrial and Applied Mathematics (ICIAM 07), pp.35-1 p., Zürich: ETH, July 16-20, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Secondary instability of crossflow vortices: Validation of the stability theory by direct numerical simulation",
+      "year": 2007,
+      "citation_raw": "Secondary instability of crossflow vortices: Validation of the stability theory by direct numerical simulation Giuseppe Bonfigli and Markus Kloker Journal of Fluid Mechanics, vol. 583, pp. 229-272, Cambridge University Press, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling of turbulent pre-mixed combustion with a joint PDF method",
+      "year": 2007,
+      "citation_raw": "Modeling of turbulent pre-mixed combustion with a joint PDF method Mathias Hack and Patrick Jenny 6th International Congress on Industrial and Applied Mathematics 2007 (ICIAM 07), pp.95-96, Zurich: ETH, July 16-20, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling of non-equilibrium phenomena in multiphase flow in porous media using stochastic particles",
+      "year": 2007,
+      "citation_raw": "Modeling of non-equilibrium phenomena in multiphase flow in porous media using stochastic particles Manav Tyagi, Patrick Jenny and Hamdi Tchelepi 6th International Congress on Industrial and Applied Mathematics 2007 (ICIAM 07), pp.541-541, Zurich: ETH, July 16-20, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Extended flamelet model and improved interaction of chemistry and turbulence for modeling of partially-premixed combustion with a joint PDF method",
+      "year": 2007,
+      "citation_raw": "Extended flamelet model and improved interaction of chemistry and turbulence for modeling of partially-premixed combustion with a joint PDF method Michael Jakob Hegetschweiler and Patrick Jenny ICIAM 07, Zurich, Switzerland, pp.95-95, Zürich: ETH, July 16-20, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Treating highly anisotropic subsurface flow with the multiscale finite-volume method",
+      "year": 2007,
+      "citation_raw": "Treating highly anisotropic subsurface flow with the multiscale finite-volume method Ivan Lunati and Patrick Jenny Multiscale Modeling & Simulation, vol. 6: no. 1, pp. 308-318, SIAM, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Consistent inflow and outflow boundary conditions for transported probability density function methods",
+      "year": 2007,
+      "citation_raw": "Consistent inflow and outflow boundary conditions for transported probability density function methods D. W. Meyer and P. Jenny Journal of Computational Physics, vol. 226: no. 2, pp. 1859-1873, Elsevier, 2007.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Stochastic Particle Method for Nonlinear Hyperbolic Problems",
+      "year": 2006,
+      "citation_raw": "Stochastic Particle Method for Nonlinear Hyperbolic Problems Manav Tyagi, Patrick Jenny, Ivan Lunati and Hamdi Tchelepi 77th Annual Meeting of the Gesellschaft für Angewandte Mathematik und Mechanik, Berlin, Germany, pp.677-678, Weinheim: Wiley-VCH, March 27-31, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "An approach to model partially premixed turbulent combustion with probability density function (PDF) methods",
+      "year": 2006,
+      "citation_raw": "An approach to model partially premixed turbulent combustion with probability density function (PDF) methods M. Hegetschweiler and P. Jenny 77th Annual Meeting of the Gesellschaft für Angewandte Mathematik und Mechanik e.V., Berlin, Germany, pp.521-522, Weinheim: Wiley-VCH, March 27-31, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multi-scale finite-volume method for elliptic problems with heterogeneous coefficients and source terms",
+      "year": 2006,
+      "citation_raw": "Multi-scale finite-volume method for elliptic problems with heterogeneous coefficients and source terms Patrick Jenny and Ivan Lunati 77th Annual Meeting of the Gesellschaft für Angewandte Mathematik und Mechanik e.V., Berlin, Germany, pp.485-486, Weinheim: Wiley-VCH, March 27-31, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A multiblock joint PDF finite-volume hybrid algorithm for the computation of turbulent flows in complex geometries",
+      "year": 2006,
+      "citation_raw": "A multiblock joint PDF finite-volume hybrid algorithm for the computation of turbulent flows in complex geometries B. Rembold, P. Jenny, B. Rembold and P. Jenny Journal of Computational Physics, vol. 220: no. 1, pp. 59-87, Elsevier, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Parameterized Scalar Profile Mixing Model for Turbulent Combustion Simulations",
+      "year": 2006,
+      "citation_raw": "Parameterized Scalar Profile Mixing Model for Turbulent Combustion Simulations D.W. Meyer and P. Jenny 77th Annual Meeting of the Gesellschaft für Angewandte Mathematik und Mechanik, pp.537-538, Weinheim: Wiley-VCH, March 27-31, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Lagrangian Joint PDF Approach for Turbulent Premixed Combustion",
+      "year": 2006,
+      "citation_raw": "A Lagrangian Joint PDF Approach for Turbulent Premixed Combustion Benjamin Rembold and Patrick Jenny 77th Annual Meeting of the Gesellschaft für Angewandte Mathematik und Mechanik, pp.539-540, Weinheim: Wiley-VCH, March 27-31, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Adaptive fully implicit multi-scale finite-volume method for multi-phase flow and transport in heterogeneous porous media",
+      "year": 2006,
+      "citation_raw": "Adaptive fully implicit multi-scale finite-volume method for multi-phase flow and transport in heterogeneous porous media Patrick Jenny, Seong H. Lee and Hamdi A. Tchelepi Journal of Computational Physics, vol. 217: no. 2, pp. 627-641, Elsevier, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multiscale finite-volume method for compressible multiphase flow in porous media",
+      "year": 2006,
+      "citation_raw": "Multiscale finite-volume method for compressible multiphase flow in porous media Ivan Lunati and Patrick Jenny Journal of Computational Physics, vol. 216: no. 2, pp. 616-636, Elsevier, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A mixing model for turbulent flows based on parameterized scalar profiles",
+      "year": 2006,
+      "citation_raw": "A mixing model for turbulent flows based on parameterized scalar profiles D.W. Meyer and P. Jenny Physics of Fluids, vol. 18: no. 3, pp. 035105, American Institute of Physics, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling Light Scattering in Paper for Halftone Print",
+      "year": 2006,
+      "citation_raw": "Modeling Light Scattering in Paper for Halftone Print Patrick Jenny, Markus Voege, Safer Mourad and Tobias Stamm Third European Conference on Color in Graphics, Imaging and Vision, Leeds, United Kingdom Springfield, VA: Society for Imaging Science and Technology, June 19-22, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "The multiscale finite volume method: A flexible tool to model physically complex flow in porous media",
+      "year": 2006,
+      "citation_raw": "The multiscale finite volume method: A flexible tool to model physically complex flow in porous media Ivan Lunati and Patrick Jenny 10th European Conference on the Mathematics of Oil Recovery (ECMOR X), Amsterdam, Netherlands, September 4-7, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multi-scale finite-volume method for stiff elliptic problems",
+      "year": 2006,
+      "citation_raw": "Multi-scale finite-volume method for stiff elliptic problems Patrick Jenny and Ivan Lunati 77th Annual Meeting of the Gesellschaft für Angewandte Mathematik und Mechanik e.V., Berlin, Germany, pp.288-288, Berlin: Gesellschaft für Angewandte Mathematik und Mechanik, March 27-31, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multi-scale approach for multi-phase transport in porous media using stochastic particles",
+      "year": 2006,
+      "citation_raw": "Multi-scale approach for multi-phase transport in porous media using stochastic particles Manav Tyagi, Patrick Jenny, Ivan Lunati and Hamdi A. Tchelepi XVI International Conference on Computational Methods in Water Resources (CMWR XVI), Copenhagen, Denmark, June 19-22, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling interaction of turbulence with premixed combustion using a joint PDF approach",
+      "year": 2006,
+      "citation_raw": "Modeling interaction of turbulence with premixed combustion using a joint PDF approach Patrick Jenny and Benjamin Rembold Conference on Turbulence and Interactions (TI2006), Porquerolles, France, May 29-June 2, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Uncertainty Assessment of Transport in Porous Media Based on a Probability Density Function Method",
+      "year": 2006,
+      "citation_raw": "Uncertainty Assessment of Transport in Porous Media Based on a Probability Density Function Method P. Jenny, H. Tchelepi and D.W. Meyer 10th European Conference on the Mathematics of Oil Recovery, Amsterdam, Netherlands Houten: European Association of Geoscientists & Engineers, September 4-7, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A synthetic study of the worth of transmissivity and head data to delineate groundwater protection zones in braided alluvial aquifers",
+      "year": 2005,
+      "citation_raw": "A synthetic study of the worth of transmissivity and head data to delineate groundwater protection zones in braided alluvial aquifers J. Kerrou, P. Renard, I. Lunati and Harrie-Jan Hendricks Franssen ModelCARE 2005 - International Conference on Calibration and Reliability in Groundwater Modelling, The Hague, Netherlands, pp.220-226, Wallingford: IAHS, June 6-9, 2005.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multi-Scale Approach for Multi-Phase Flow in Porous Media Using Stochastic Particles",
+      "year": 2006,
+      "citation_raw": "Multi-Scale Approach for Multi-Phase Flow in Porous Media Using Stochastic Particles Manav Tyagi, Patrick Jenny, Evan Lunati and Hamdi Tchelepi XVI International Conference on Computational Methods in Water Resources (CMWR-XVI) Copenhagen: Technical University of Denmark, June 19-22, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A multiscale finite-volume method for three-phase flow influenced by gravity",
+      "year": 2006,
+      "citation_raw": "A multiscale finite-volume method for three-phase flow influenced by gravity Ivan Lunati and Patrick Jenny XVI International Conference on Computational Methods in Water Resources (CMWR XVI), Copenhagen, Denmark: XVI International Conference on Computational Methods in Water Resources (CMWR XVI), June 19-22, 2006.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A multigrid algorithm for hybrid joint PDF simulations in complex geometries",
+      "year": 2005,
+      "citation_raw": "A multigrid algorithm for hybrid joint PDF simulations in complex geometries Benjamin Rembold and Patrick Jenny GAMM Annual Meeting 2005, Luxembourg, pp.475-476, Weinheim: Wiley-VCH, March 28 - April 1, 2005.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Mixing Model Based on Parameterized Scalar Profiles",
+      "year": 2005,
+      "citation_raw": "Mixing Model Based on Parameterized Scalar Profiles D.W. Meyer and Patrick Jenny GAMM Annual Meeting 2005, Luxembourg City, Luxembourg, pp.599-600, Oxford: Wiley-VCH, March 28 - April 1, 2005.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A hybrid joint PDF multiblock algorithm for complex turbulent flow applications: Numerical Issues",
+      "year": 2005,
+      "citation_raw": "A hybrid joint PDF multiblock algorithm for complex turbulent flow applications: Numerical Issues Benjamin Rembold and Patrick Jenny 17th AIAA Computational Fluid Dynamics Conference, Toronto, Canada, pp.2122-2132, Reston, VA: American Institute of Aeronautics and Astronautics, June 6-9, 2005.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Adaptive multiscale finite-volume method for multiphase flow and transport in porous media",
+      "year": 2005,
+      "citation_raw": "Adaptive multiscale finite-volume method for multiphase flow and transport in porous media Patrick Jenny, Seong H. Lee and Hamdi A. Tchelepi Multiscale Modeling & Simulation, vol. 3: no. 1, pp. 50-64, SIAM, 2005.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "An adaptive multiphase multiscale finite volume simulator for heterogeneous reservoirs",
+      "year": 2005,
+      "citation_raw": "An adaptive multiphase multiscale finite volume simulator for heterogeneous reservoirs Hamdi A. Tchelepi, Patrick Jenny, Seong H. Lee and Christian Wolfsteiner 19th SPE Reservoir Simulation Symposium, The Woodlands, TX, USA, pp.SPE-93395-MS Richardson, TX: Society of Petroleum Engineers, January 31–February 2, 2005.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multi-block solution algorithm for joint PDF methods",
+      "year": 2004,
+      "citation_raw": "Multi-block solution algorithm for joint PDF methods P. Jenny and B. Rembold GAMM Annual Meeting 2004, Dresden, Germany, pp.510-511, Weinheim: Wiley-VCH, March 21-27, 2004.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Conservative velocity interpolation for PDF methods",
+      "year": 2004,
+      "citation_raw": "Conservative velocity interpolation for PDF methods D.W. Meyer and P. Jenny GAMM Annual Meeting 2004, Dresden, Germany, pp.466-467, Weinheim: Wiley-VCH, March 21-27, 2004.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Effects of pore volume variability on transport phenomena",
+      "year": 2004,
+      "citation_raw": "Effects of pore volume variability on transport phenomena Ivan Lunati, Wolfgang Kinzelbach and Ivan Sorensen Dynamics of Fluids in Fractured Rock Symposium Berkeley, CA: Dynamics of Fluids in Fractured Rock, February 10-12, 2004.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Stochastic mixing model for PDF simulations of turbulent reactive flow",
+      "year": 2004,
+      "citation_raw": "Stochastic mixing model for PDF simulations of turbulent reactive flow Daniel W. Meyer and Patrick Jenny 10th Euromech European Turbulence Conference, Trondheim, Norway, pp.681-684, Barcelona: CIMNE, International Center for Numerical Methods in Engineering, June 29 - July 2, 2004.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multi-scale finite-volume method for multi-phase flow in highly heterogeneous reservoirs",
+      "year": 2004,
+      "citation_raw": "Multi-scale finite-volume method for multi-phase flow in highly heterogeneous reservoirs Patrick Jenny 13th European Conference on Mathematics in Industry (ECMI 2004), Eindhoven, Netherlands Eindhoven: ECMI, June 21–25, 2004.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multi-scale finite-volume method for highly heterogeneous porous media with shale layers",
+      "year": 2004,
+      "citation_raw": "Multi-scale finite-volume method for highly heterogeneous porous media with shale layers Ivan Lunati and Patrick Jenny 9th European Conference on the Mathematics of Oil Recovery (ECMOR IX), Cannes, France Houten: European Association of Geoscientists & Engineers, August 30-September 2, 2004.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Unmatched multiblock grids for simulation of geometrically complex reservoirs",
+      "year": 2004,
+      "citation_raw": "Unmatched multiblock grids for simulation of geometrically complex reservoirs Christian Wolfsteiner, Seong H. Lee, Hamdi Tchelepi, Patrick Jenny and Wen Chen 9th European Conference on the Mathematics of Oil Recovery (ECMOR IX), Cannes, France Houten: European Association of Geoscientists & Engineers, August 30-September 2, 2004.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Multi-scale finite-volume method for elliptic problems in subsurface flow simulation",
+      "year": 2003,
+      "citation_raw": "Multi-scale finite-volume method for elliptic problems in subsurface flow simulation Patrick Jenny, S.H. Lee and Hamdi A. Tchelepi Journal of Computational Physics, vol. 187: no. 1, pp. 47-67, Elsevier, 2003.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "New Developments in Multiblock Reservoir Simulation: Black Oil Modeling, Nonmatching Subdomains and Near-Well Upscaling",
+      "year": 2003,
+      "citation_raw": "New Developments in Multiblock Reservoir Simulation: Black Oil Modeling, Nonmatching Subdomains and Near-Well Upscaling Seong H. Lee, Christian Wolfsteiner, Louis J. Durlofsky, Patrick Jenny and Hamdi A. Tchelepi SPE Reservoir Simulation Symposium, Houston TX, USA, pp.SPE-79682-MS Richardson, TX: Society of Petroleum Engineers, February 3-5, 2003.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Implementation of a flux continuous finite-difference method for stratigraphic, hexahedron grids",
+      "year": 2002,
+      "citation_raw": "Implementation of a flux continuous finite-difference method for stratigraphic, hexahedron grids Seong H. Lee, Hamdi A. Tchelepi, Patrick Jenny and Larry J. DeChant SPE Journal, vol. 7: no. 3, pp. 267-277, Society of Petroleum Engineers, 2002.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A finite-volume method with hexahedral multiblock grids for modeling flow in porous media",
+      "year": 2002,
+      "citation_raw": "A finite-volume method with hexahedral multiblock grids for modeling flow in porous media S. H. Lee, P. Jenny and H. Tchelepi Computational Geosciences, vol. 6: no. 3-4, pp. 353-379, Springer, 2002.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling flow in geometrically complex reservoirs using hexahedral multi-block grids",
+      "year": 2002,
+      "citation_raw": "Modeling flow in geometrically complex reservoirs using hexahedral multi-block grids Patrick Jenny, Christian Wolfsteiner, Seong H. Lee and Louis J. Durlofsky SPE Journal, vol. 7: no. 2, pp. 149-157, Society of Petroleum Engineers, 2002.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Modeling flow in geometrically complex reservoirs using hexahedral multi-block grids",
+      "year": 2002,
+      "citation_raw": "Modeling flow in geometrically complex reservoirs using hexahedral multi-block grids S.H. Lee, Patrick Jenny, Hamdi Tchelepi and Christian Wolfsteiner 8th European Conference on the Mathematics of Oil Recovery (ECMOR VIII), Freiburg, Germany Houten: European Association of Geoscientists & Engineers, September 3-6, 2002.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "PDF simulations of a bluff body stabilized flow",
+      "year": 2001,
+      "citation_raw": "PDF simulations of a bluff body stabilized flow P. Jenny, M. Muradoglu, K. Liu, S. B. Pope and D. A. Caughey Journal of Computational Physics, vol. 169: no. 1, pp. 1-23, Elsevier, 2001.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Improving the reliability of low Mach number flow computations",
+      "year": 1999,
+      "citation_raw": "Improving the reliability of low Mach number flow computations Bernhard Müller and Patrick Jenny 8th International Symposium on Computational Fluid Dynamics, Bremen, Germany, pp.515-528, Tokyo: Japan Society of Computational Fluid Dynamics, September 5-10, 1999.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A Hybrid Algorithm for the Joint PDF Equation of Turbulent Reactive Flows",
+      "year": 2001,
+      "citation_raw": "A Hybrid Algorithm for the Joint PDF Equation of Turbulent Reactive Flows P. Jenny, S. B. Pope, M. Muradoglu and D. A. Caughey Journal of Computational Physics, vol. 166: no. 2, pp. 218-252, Elsevier, 2001.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Convergence acceleration for computing steady state compressible flow at low Mach numbers",
+      "year": 1999,
+      "citation_raw": "Convergence acceleration for computing steady state compressible flow at low Mach numbers P. Jenny and B. Müller Computers & Fluids, vol. 28: no. 8, pp. 951-972, Elsevier, 1999.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A consistent hybrid finite-volume/Particle method for the PDF equations of turbulent reactive flows",
+      "year": 1999,
+      "citation_raw": "A consistent hybrid finite-volume/Particle method for the PDF equations of turbulent reactive flows M. Muradoglu, P. Jenny, S. B. Pope and D. A. Caughey Journal of Computational Physics, vol. 154: no. 2, pp. 342-371, Elsevier, 1999.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Rankine-Hugoniot-Riemann solver and convergence acceleration for low speed combustion",
+      "year": 1999,
+      "citation_raw": "Rankine-Hugoniot-Riemann solver and convergence acceleration for low speed combustion Bernhard Müller and Patrick Jenny 30th Computational Fluid Dynamics [30th annual lecture series in computational fluid dynamics (CFD, Rhode Saint Genèse Rhode Saint Genèse: Von Karman Institute for Fluid Dynamics, March 8-12, 1999.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A New Approach for a Flux Solver Taking into Account Source Terms, Viscous and Multidimensional Effects",
+      "year": 1998,
+      "citation_raw": "A New Approach for a Flux Solver Taking into Account Source Terms, Viscous and Multidimensional Effects Patrick Jenny and Bernhard Müller 7th International Conference on Hyperbolic Problems, Zurich, Switzerland, pp.503-513, Basel: Birkhäuser, February 9-13, 1998.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Rankine-Hugoniot-Riemann solver considering source terms and multidimensional effects",
+      "year": 1998,
+      "citation_raw": "Rankine-Hugoniot-Riemann solver considering source terms and multidimensional effects P. Jenny and B. Müller Journal of Computational Physics, vol. 145: no. 2, pp. 575-610, Elsevier, 1998.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "A new flux solver which considers source terms and multidimensional effects",
+      "year": 1998,
+      "citation_raw": "A new flux solver which considers source terms and multidimensional effects Patrick Jenny and Bernhard Müller 4th ECCOMAS CFD Conference, Athens, Greece, pp.573-578,, 1998.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Correction of Conservative Euler Solvers for Gas Mixtures",
+      "year": 1997,
+      "citation_raw": "Correction of Conservative Euler Solvers for Gas Mixtures P. Jenny, B. Müller and H. Thomann Journal of Computational Physics, vol. 132: no. 1, pp. 91-107, Elsevier, 1997.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Riemann solver for compressible combustion codes",
+      "year": 1996,
+      "citation_raw": "Riemann solver for compressible combustion codes Patrick Jenny, Bernhard Müller and H. Thomann First International Symposium on Finite Volumes for Complex Applications, Rouen, France Paris: Hermès, July 15-18, 1996.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    },
+    {
+      "title": "Correction of multidimensional conservative Euler solvers for gas mixtures",
+      "year": 1995,
+      "citation_raw": "Correction of multidimensional conservative Euler solvers for gas mixtures Patrick Jenny, Bernhard Müller and T. Thomann 6th International Symposium on Computational Fluid Dynamics (ISCFD 1995), Lake Tahoe, NV, USA, pp.503-508, s.l.: s.n., September 4-8, 1995.",
+      "source_url": "https://ifd.ethz.ch/research/group-jenny/publications.html"
+    }
+  ]
+}

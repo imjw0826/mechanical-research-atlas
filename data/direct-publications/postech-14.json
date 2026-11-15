@@ -1,0 +1,26 @@
+{
+  "university": "POSTECH",
+  "university_key": "postech",
+  "pi": "박재성",
+  "lab_name": "나노 입자 및 소포 연구실",
+  "lab_url": "https://npv.postech.ac.kr/npv/index.do",
+  "publication_urls": [
+    "https://npv.postech.ac.kr/npv/pub/Journal.do"
+  ],
+  "accessed_at": "2026-11-12T13:55:04.526Z",
+  "coverage_notes": [
+    "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete.",
+    "Actual official lab publication page visited; visible text saved. Conservative quoted-title extraction only. Full category/pagination/detail and publication-status verification remains incomplete.",
+    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  ],
+  "status": "partial",
+  "papers": [],
+  "investigation_stage": "full_site_attempted",
+  "source_page_manifest": [
+    {
+      "url": "https://npv.postech.ac.kr/npv/pub/Journal.do",
+      "capture_kind": "browser_snapshot",
+      "characters": 14719
+    }
+  ]
+}

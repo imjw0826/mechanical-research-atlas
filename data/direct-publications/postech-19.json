@@ -1,0 +1,26 @@
+{
+  "university": "POSTECH",
+  "university_key": "postech",
+  "pi": "유동현",
+  "lab_name": "유동 물리 및 공학 연구실",
+  "lab_url": "https://fpe.postech.ac.kr/fpe/index.do",
+  "publication_urls": [
+    "https://fpe.postech.ac.kr/fpe/pub/international-journal.do"
+  ],
+  "accessed_at": "2026-11-12T13:55:39.032Z",
+  "coverage_notes": [
+    "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete.",
+    "Actual official lab publication page visited; visible text saved. Quoted-title subset only where available. Unquoted titles, additional categories and pagination remain incomplete.",
+    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  ],
+  "status": "partial",
+  "papers": [],
+  "investigation_stage": "full_site_attempted",
+  "source_page_manifest": [
+    {
+      "url": "https://fpe.postech.ac.kr/fpe/pub/international-journal.do",
+      "capture_kind": "browser_snapshot",
+      "characters": 6790
+    }
+  ]
+}

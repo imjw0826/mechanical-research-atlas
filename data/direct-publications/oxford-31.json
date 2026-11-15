@@ -1,0 +1,42 @@
+{
+  "university": "University of Oxford",
+  "university_key": "oxford",
+  "pi": "Zhanfeng Cui",
+  "lab_name": null,
+  "lab_url": null,
+  "publication_urls": [
+    "https://eng.ox.ac.uk/people/zhanfeng-cui",
+    "https://ibme.ox.ac.uk/research/tissue-engineering/publications/"
+  ],
+  "accessed_at": "2026-11-12T13:54:46.225Z",
+  "coverage_notes": [
+    "Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume.",
+    {
+      "discovered_links": []
+    },
+    {
+      "identity_evidence": {
+        "url": "https://eng.ox.ac.uk/people/zhanfeng-cui",
+        "visible_name_line": "Zhanfeng Cui PhD, DSc, FIChemE, FAIMBE, FREng, FMedSci",
+        "following_lines": [
+          "PROFESSOR",
+          "Donald Pollock Professor of Chemical Engineering"
+        ]
+      }
+    },
+    {
+      "date": "2026-11-12T13:54:46.225Z",
+      "note": "Navigated official research group to IBME Tissue Engineering publication archive page 1. Pagination page 2 and detail links identified. CSS scope selector failed after navigation despite snapshot showing content; this is an automation limitation, not site blocked. Extraction and page 2 remain pending.",
+      "source_page_manifest": [
+        {
+          "url": "https://ibme.ox.ac.uk/research/tissue-engineering/publications/",
+          "category": "Tissue Engineering publication archive page 1 accessibility snapshot",
+          "record_count": null
+        }
+      ]
+    }
+  ],
+  "status": "partial",
+  "papers": [],
+  "investigation_stage": "full_site_attempted"
+}

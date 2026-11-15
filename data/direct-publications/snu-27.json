@@ -1,0 +1,222 @@
+{
+  "university": "Seoul National University",
+  "university_key": "snu",
+  "pi": "임종우",
+  "pi_en": "Lim, Jongwoo",
+  "lab_name": "로봇비전 연구실",
+  "lab_url": "https://sites.google.com/view/snu-rvlab/people/jwlim",
+  "publication_urls": [
+    "https://sites.google.com/view/snu-rvlab/publications"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "LiRS: Linear Relative Scale Constraints for Compact Parameterization of Monocular Visual-Inertial Initialization",
+      "year": 2026,
+      "citation_raw": "Journal Publications Yeongin Yoon, Sangheon Yang and Jongwoo Lim. LiRS: Linear Relative Scale Constraints for Compact Parameterization of Monocular Visual-Inertial Initialization. RA-L 2026, [pdf]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Effect of Contrast Level and Image Format on a Deep Learning Algorithm for the Detection of Pneumothorax with Chest Radiography",
+      "year": 2023,
+      "citation_raw": "Myeong Seong Yoon, Gitaek Kwon, Jaehoon Oh, Jongbin Ryu, Jongwoo Lim, Bo-kyeong Kang, Juncheol Lee, Dong-Kyoon Han, Effect of Contrast Level and Image Format on a Deep Learning Algorithm for the Detection of Pneumothorax with Chest Radiography, Journal of Digital Imaging, Page 1-11, 2023. [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Automatic Segmentation for Favourable Delineation of Ten Wrist Bones on Wrist Radiographs Using Convolutional Neural Network",
+      "year": 2022,
+      "citation_raw": "Bo-kyeong Kang, Yelin Han, Jaehoon Oh, Jongwoo Lim, Jongbin Ryu, Myeong Seong Yoon, Juncheol Lee, Soorack Ryu, Automatic Segmentation for Favourable Delineation of Ten Wrist Bones on Wrist Radiographs Using Convolutional Neural Network, Journal of Personalized Medicine, Vol. 12, Issue: 5, Page 776, 2022, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "End-to-End Learning for Omnidirectional Stereo Matching with Uncertainty Prior",
+      "year": 2021,
+      "citation_raw": "Changhee Won, Jongbin Ryu, and Jongwoo Lim, End-to-End Learning for Omnidirectional Stereo Matching with Uncertainty Prior, in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Vol. 43, Issue: 11, Page 3850-3862, 2021, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Dual aggregated feature pyramid network for multi label classification",
+      "year": 2021,
+      "citation_raw": "Dongjoo Yoon, Jongbin Ryu, and Jongwoo Lim, Dual aggregated feature pyramid network for multi label classification, Pattern Recognition Letters, Vol. 144, Page 75-81, 2021, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Unsupervised Feature Learning for Self-tuning Neural Networks, Nerual Networks",
+      "year": 2021,
+      "citation_raw": "Jongbin Ryu, Ming-Hsuan Yang, Jongwoo Lim, Unsupervised Feature Learning for Self-tuning Neural Networks, Nerual Networks, Vol. 133, Page 103-111, 2021, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Deep learning algorithms for detecting and visualising intussusception on plain abdominal radiography in children: a retrospective multicenter study, Scientific Report",
+      "year": 2020,
+      "citation_raw": "Gitaek Kwon, Jongbin Ryu, Jaehoon Oh, Jongwoo Lim, Bokyeong Kang, Chiwon Ahn, Junwon Bae, Dongkeon Lee, Deep learning algorithms for detecting and visualising intussusception on plain abdominal radiography in children: a retrospective multicenter study, Scientific Report, Vol. 10, Issue: 1, Page 17582, 2020, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Deep learning algorithms for detecting and visualising intussusception on plain abdominal radiography in children: a retrospective multicenter study, Scientific Report",
+      "year": 2020,
+      "citation_raw": "Gitaek Kwon, Jongbin Ryu, Jaehoon Oh, Jongwoo Lim, Bokyeong Kang, Chiwon Ahn, Junwon Bae, Dongkeon Lee, Deep learning algorithms for detecting and visualising intussusception on plain abdominal radiography in children: a retrospective multicenter study, Scientific Report, Vol. 10, Issue: 1, Page 17582, 2020, [link] Hochang Seok, and Jongwoo Lim, ROVINS: Robust Omnidirectional Visual Inertial Navigation System, in IEEE Robotics and Automation Letters (RA-L) with IROS option, Vol. 5, Issue: 4, Page 6225-6232, 2020, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Progressive Feature Matching: Incremental Graph Construction and Optimization",
+      "year": 2020,
+      "citation_raw": "Sehyung Lee, Jongwoo Lim, Il Hong Suh, Progressive Feature Matching: Incremental Graph Construction and Optimization, IEEE Transactions on Image Processing (TIP), vol 29, 6992-7005, 2020, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Longyin Wen, Dawei Du, Zhaowei Cai, Zhen Lei , Ming-Ching Chang, Honggang Qi, Jongwoo Lim , Ming-Hsuan Yang, Siwei Lyu, UA-DETRAC: A new benchmark and protocol for multi-object detection and tracking, Computer Vision and Image Understanding (CVIU), vol193, 102907, [link]",
+      "year": 2019,
+      "citation_raw": "Longyin Wen, Dawei Du, Zhaowei Cai, Zhen Lei , Ming-Ching Chang, Honggang Qi, Jongwoo Lim , Ming-Hsuan Yang, Siwei Lyu, UA-DETRAC: A new benchmark and protocol for multi-object detection and tracking, Computer Vision and Image Understanding (CVIU), vol193, 102907, [link] Shun Zhang, Jia-Bin Huang, Jongwoo Lim, Yihong Gong, Jinjun Wang, Narendra Ahuja, Ming-Hsuan Yang, Tracking Persons-of-Interest via Unsupervised Representation Adaptation, International Journal of Computer Vision (IJCV), vol 128 (1), 96-120, [link] ~2019",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Hedging Deep Features for Visual Tracking",
+      "year": 2019,
+      "citation_raw": "Yuankai Qi, Shengping Zhang, Lei Qin, Qingming Huang, Hongxun Yao, Jongwoo Lim, Ming-Hsuan Yang, Hedging Deep Features for Visual Tracking, in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Vol. 41, Issue: 5, Page 1116-1130, 2019, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Visual-Inertial Odometry with Robust Initialization and Online Scale Estimation",
+      "year": 2018,
+      "citation_raw": "Euntae Hong, and Jongwoo Lim, Visual-Inertial Odometry with Robust Initialization and Online Scale Estimation, Sensors 18.12 (2018): 4287, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Online multi-object tracking via robust collaborative model and sample selection, in Computer Vision and Image Understanding",
+      "year": 2017,
+      "citation_raw": "Mohamed A Naiel, M Omair Ahmad, MNS Swamy, Jongwoo Lim, Ming-Hsuan Yang, Online multi-object tracking via robust collaborative model and sample selection, in Computer Vision and Image Understanding, Vol. 154, Page 94-107, January 2017, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Building a 3-D Line-Based Map Using Stereo SLAM",
+      "year": 2015,
+      "citation_raw": "Guoxuan Zhang, Jin Han Lee, Jongwoo Lim, Il Hong Suh, Building a 3-D Line-Based Map Using Stereo SLAM, in IEEE Transactions on Robotics, Vol. 31, Issue: 6, Page 1364-1377, December 2015, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Optimized projection patterns for stereo systems",
+      "year": 2015,
+      "citation_raw": "Jongwoo Lim, Minsoo Ryu, Optimized projection patterns for stereo systems, in Image and Vision Computing(2015), Vol. 39, Page 10-22, July 2015 [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Robust stereo matching using adaptive random walk with restart algorithm",
+      "year": 2015,
+      "citation_raw": "Sehyung Lee, Jin Han Lee, Jongwoo Lim, Il Hong Suh, Robust stereo matching using adaptive random walk with restart algorithm, in Image and Vision Computing(2015), Vol. 37, Pages 1-11, May 2015, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "in IEEE Transaction on Pattern Analysis and Machine Intelligence(PAMI)",
+      "year": 2015,
+      "citation_raw": "Yi Wu, Jongwoo Lim, Ming-Hsuan Yang, Object Tracking Benchmark, in IEEE Transaction on Pattern Analysis and Machine Intelligence(PAMI), Vol.37 , Issue: 9, Page 1834-1848, January 2015, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Optimized Projection Patterns for Stereo Systems, in Image and Vision Computing",
+      "year": 2015,
+      "citation_raw": "Jongwoo Lim, Minsoo Ryu, Optimized Projection Patterns for Stereo Systems, in Image and Vision Computing, Vol. 39, Page 10-22, July 2015 [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Robust Stereo Matching using Adaptive Random Walk with Restart Algorithm, in Image and Vision Computing",
+      "year": 2015,
+      "citation_raw": "Sehyung Lee, Jin Han Lee, Jongwoo Lim, IL Hong Suh, Robust Stereo Matching using Adaptive Random Walk with Restart Algorithm, in Image and Vision Computing, Vol. 37, Page 1-11, May 2015 [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Online Environment Mapping using Metric-topological Maps",
+      "year": 2012,
+      "citation_raw": "Jongwoo Lim, Jan-Michael Frahm, Marc Pollefeys, Online Environment Mapping using Metric-topological Maps, in The International Journal of Robotics Research, Vol. 31 Issue 12, Page 1394-1408, October 2012 [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "in International Journal of Computer Vision",
+      "year": 2012,
+      "citation_raw": "Vivek Pradeep, Jongwoo Lim, Egomotion Estimation Using Assorted Features, in International Journal of Computer Vision, Vol. 98, Issue 2, Page 202-216, June 2012 [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Incremental Learning for Robust Visual Tracking",
+      "year": 2008,
+      "citation_raw": "David Ross, Jongwoo Lim, Ruei-Sung Lin, Ming-Hsuan Yang, Incremental Learning for Robust Visual Tracking, in International Journal of Computer Vision (Special Issue: Learning for Vision), Vol. 77, No. 1-3, Pg. 125-141, May 2008 [link] [project page]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "GPA-VGGT: Geometry-Preserving Acceleration of VGGT",
+      "year": 2027,
+      "citation_raw": "Muyeol Sung, Jangwon Kim, Jongwoo Lim, GPA-VGGT: Geometry-Preserving Acceleration of VGGT, WACV 2027.",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "PathLift: Depth-Conditioned Metric Lifting for Visual-Navigation Priors",
+      "year": 2026,
+      "citation_raw": "Gwanjun Shin, Hyeongseok Suh, Hongmo Jung, Jongwoo Lim. PathLift: Depth-Conditioned Metric Lifting for Visual-Navigation Priors. CoRL 2026. [link][pdf]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding",
+      "year": 2026,
+      "citation_raw": "Seongmin Jung, Seongho Choi, Gunwoo Jeon, Minsu Cho, Jongwoo Lim. PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding. ECCV 2026, [link] [pdf]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "OmniDS: Dual-Stream Context Fusion for Omnidirectional Depth from Fisheye Cameras",
+      "year": 2026,
+      "citation_raw": "Chaesong Park, Jihyeon Hwang, Muyeol Sung, Jongwoo Lim. OmniDS: Dual-Stream Context Fusion for Omnidirectional Depth from Fisheye Cameras. ECCV 2026, [link] [pdf]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Sc-lane: Slope-aware and consistent road height estimation framework for 3d lane detection",
+      "year": 2025,
+      "citation_raw": "Chaesong Park, Eunbin Seo, Jihyeon Hwang, Jongwoo Lim. Sc-lane: Slope-aware and consistent road height estimation framework for 3d lane detection. ICCV2025, [pdf]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Gramian Attention Heads are Strong yet Efficient Vision Learners",
+      "year": 2023,
+      "citation_raw": "Jongbin Ryu, Dongyoon Han, and Jongwoo Lim, Gramian Attention Heads are Strong yet Efficient Vision Learners, in ICCV 2023, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Meta-Learning for Adaptation of Deep Optical Flow Networks",
+      "year": 2023,
+      "citation_raw": "Chaerin Min, Taehyun Kim, and Jongwoo Lim, Meta-Learning for Adaptation of Deep Optical Flow Networks, in WACV 2023, [link] [pdf]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Online Extrinsic Correction of Multi-Camera Systems by Low-Dimensional Parameterization of Physical Deformation",
+      "year": 2022,
+      "citation_raw": "Sangheon Yang, Jongwoo Lim, Online Extrinsic Correction of Multi-Camera Systems by Low-Dimensional Parameterization of Physical Deformation, in IROS 2022, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Unified Calibration for Multi-camera Multi-LiDAR Systems using a Single Checkerboard",
+      "year": 2020,
+      "citation_raw": "Wonmyung Lee*, Changhee Won*, and Jongwoo Lim, Unified Calibration for Multi-camera Multi-LiDAR Systems using a Single Checkerboard, in IROS 2020 (*: equal contribution), [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Upright and Stabilized Omnidirectional Depth Estimation for Wide-baseline Multi-camera Inertial Systems",
+      "year": 2020,
+      "citation_raw": "Changhee Won, Hochang Seok, and Jongwoo Lim, Upright and Stabilized Omnidirectional Depth Estimation for Wide-baseline Multi-camera Inertial Systems, in CVPR Workshops 2020, [link] [pdf]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "(Best Robot Vision paper Finalist) Changhee Won*, Hochang Seok*, Zhaopeng Cui, Marc Pollefeys, and Jongwoo Lim, OmniSLAM: Omnidirectional Localization and Dense Mapping for Wide-baseline Multi-camera Systems",
+      "year": 2020,
+      "citation_raw": "(Best Robot Vision paper Finalist) Changhee Won*, Hochang Seok*, Zhaopeng Cui, Marc Pollefeys, and Jongwoo Lim, OmniSLAM: Omnidirectional Localization and Dense Mapping for Wide-baseline Multi-camera Systems, in ICRA 2020 (*: equal contribution), [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    },
+    {
+      "title": "Generalized Convolutional Forest Networks for Domain Generalization and Visual Recognition",
+      "year": 2020,
+      "citation_raw": "Jongbin Ryu, GiTaek Kwon, Ming-Hsuan Yang, and Jongwoo Lim, Generalized Convolutional Forest Networks for Domain Generalization and Visual Recognition, in ICLR 2020, [link]",
+      "source_url": "https://sites.google.com/view/snu-rvlab/publications"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Ellen Roche",
+  "lab_name": null,
+  "lab_url": "https://ttdd.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/etr@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/etr@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://ttdd.mit.edu/"
+    },
+    {
+      "text": "Professor David Mooney",
+      "url": "https://www.seas.harvard.edu/directory/mooneyd"
+    },
+    {
+      "text": "Mooney Lab",
+      "url": "https://mooneylab.seas.harvard.edu/"
+    },
+    {
+      "text": "Professor Conor Walsh",
+      "url": "https://www.seas.harvard.edu/directory/walsh"
+    },
+    {
+      "text": "Harvard Biodesign Lab",
+      "url": "https://biodesign.seas.harvard.edu/"
+    },
+    {
+      "text": "Roche et al, Advanced Materials, 2014",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/24227698"
+    },
+    {
+      "text": "Roche and Hastings, Biomaterials, 2014",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/24862441"
+    },
+    {
+      "text": "Hastings and Roche, Advanced Drug Delivery Reviews, 2015",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/25172834"
+    },
+    {
+      "text": "light-reflecting catheter",
+      "url": "https://www.seas.harvard.edu/news/2015/10/uv-light-enabled-catheter-fixes-holes-in-heart-without-invasive-surgery"
+    },
+    {
+      "text": "Roche and Fabozzo, Science Translational Medicine, 2015",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/26400910"
+    },
+    {
+      "text": "Dolan et al, Science Robotics 2019",
+      "url": "https://robotics.sciencemag.org/content/4/33/eaax7043"
+    },
+    {
+      "text": "Horvath et al, Annals of Biomedical Engineering, 2019",
+      "url": "https://link.springer.com/article/10.1007/s10439-018-2046-2"
+    },
+    {
+      "text": "Shirazi et al, Advanced Healthcare Materials, 2019",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adhm.201900228"
+    },
+    {
+      "text": "Fan et al, International Journal of Numerical Methods in Bioengineering, 2019",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.3213"
+    },
+    {
+      "text": "Park et al, Science Robotics,2020",
+      "url": "https://robotics.sciencemag.org/content/5/38/eaay9106.full?ijkey=dNv5SXORyT6fI&keytype=ref&siteid=robotics"
+    },
+    {
+      "text": "https://www.ncbi.nlm.nih.gov/pubmed/?term=ellen+t+roche",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/?term=ellen+t+roche"
+    }
+  ],
+  "attempted_urls": [
+    "https://ttdd.mit.edu/",
+    "https://ttdd.mit.edu/publications/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "Publications",
+      "url": "https://ttdd.mit.edu/publications/"
+    },
+    {
+      "text": "Publications",
+      "url": "https://ttdd.mit.edu/publications/"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Not “dust” any neural stimulator",
+      "year": 2020,
+      "citation_raw": "Roche ET. Not “dust” any neural stimulator. Science Translational Medicine 18 Mar 2020:Vol. 12, Issue 535, eabb2775. DOI: 10.1126/scitranslmed.abb2775.",
+      "source_url": "https://meche.mit.edu/people/faculty/etr@mit.edu"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "Yuk, H., Varela, C.E., Nabzdyk, C.S. et al. Dry double-sided tape for adhesion of wet tissues and devices. Nature 575, 169–174 (2019). https://doi.org/10.1038/s41586-019-1710-5",
+      "source_url": "https://meche.mit.edu/people/faculty/etr@mit.edu"
+    },
+    {
+      "title": "Dolan EB, Varela CE, Mendez K, Whyte W, Levey RE, Robinson ST, Maye E, O’Dwyer J, Beatty A, Rothman A, Fan Y, Hochstein J, Rothenbucher S, Wylie R, Starr JR, Monaghan M, Dockery P, Duffy GP, Roche ET. An actuatable soft reservoir modulates host foreign body response. Science Robotics 4;33;eaax7043 https://doi.org/10.1126/scirobotics.aax7043",
+      "year": 2019,
+      "citation_raw": "Yuk, H., Varela, C.E., Nabzdyk, C.S. et al. Dry double-sided tape for adhesion of wet tissues and devices. Nature 575, 169–174 (2019). https://doi.org/10.1038/s41586-019-1710-5 Dolan EB, Varela CE, Mendez K, Whyte W, Levey RE, Robinson ST, Maye E, O’Dwyer J, Beatty A, Rothman A, Fan Y, Hochstein J, Rothenbucher S, Wylie R, Starr JR, Monaghan M, Dockery P, Duffy GP, Roche ET. An actuatable soft reservoir modulates host foreign body response. Science Robotics 4;33;eaax7043 https://doi.org/10.1126/scirobotics.aax7043 Cobi A, Gray L , Mittmann E, Link S, Hanumara N, Lyatskaya Y, Roche, ET, Slocum A , Zygmanski P (2019). Design of a Reconfigurable Quality Assurance Phantom for Verifying the Spatial Accuracy of Radiosurgery Treatments for Multiple Brain Metastases. Journal of Medical Devices. 13. 10.1115/1.4044402.",
+      "source_url": "https://meche.mit.edu/people/faculty/etr@mit.edu"
+    },
+    {
+      "title": "Nature Biomedical Engineering 2:6:416 https://doi.org/10.1038/s41551-018-0247-5 *co first-authors ** co senior authors",
+      "year": 2019,
+      "citation_raw": "Whyte W*, Roche ET*, Shahrin I, Shirazi RS, Weafer, F, Mendez K, O’Neill HS, Vasilyev NV, McHugh PM, Murphy B, Duffy GP**, Walsh CJ**, and Mooney DJ**, Sustained release of targeted cardiac therapy with a replenishable implanted epicardial reservoir (2019). Nature Biomedical Engineering 2:6:416 https://doi.org/10.1038/s41551-018-0247-5 *co first-authors ** co senior authors",
+      "source_url": "https://meche.mit.edu/people/faculty/etr@mit.edu"
+    },
+    {
+      "title": "Nature Biomedical Engineering 2:6:416 https://doi.org/10.1038/s41551-018-0247-5 *co first-authors ** co senior authors",
+      "year": 2018,
+      "citation_raw": "Whyte W*, Roche ET*, Shahrin I, Shirazi RS, Weafer, F, Mendez K, O’Neill HS, Vasilyev NV, McHugh PM, Murphy B, Duffy GP**, Walsh CJ**, and Mooney DJ**, Sustained release of targeted cardiac therapy with a replenishable implanted epicardial reservoir (2019). Nature Biomedical Engineering 2:6:416 https://doi.org/10.1038/s41551-018-0247-5 *co first-authors ** co senior authors Horvath MA, Varela CE, Dolan EB, Whyte W, Monahan DS, Payne CJ, Wamala IA, Vasilyev NV, Pigula FA, Mooney DJ, Walsh CJ, Duffy GP, Roche ET. Towards Alternative Approaches for Coupling of a Soft Robotic Sleeve to the Heart. Ann Biomed Eng (2018) 46;10;1534-1547https://doi.org/10.1007/s10439-018-2046-2",
+      "source_url": "https://meche.mit.edu/people/faculty/etr@mit.edu"
+    },
+    {
+      "title": "Cezar CA, Roche ET, Vandenburgh HH, G. N. Duda, Walsh CJ, and Mooney DJ. Biologic-free mechanically induced muscle regeneration. PNAS 113 (6), 1534-1539 DOI10.1073/pnas.1517517113",
+      "year": 2015,
+      "citation_raw": "O’Neill HS, Gallagher LB, O’Sullivan J, Whyte W, Curley C, Dolan E, Hameed A, O’Dwyer J, Payne C, O’Reilly D, Ruiz-Hernandez E, Roche ET, F. J. O’Brien, S. A. Cryan, H. Kelly, B. Murphy, and G. P. Duffy. Biomaterial-Enhanced Cell and Drug Delivery: Lessons Learned in the Cardiac Field and Future Perspectives. Advanced Materials 28 (27), 5648-5661. Cezar CA, Roche ET, Vandenburgh HH, G. N. Duda, Walsh CJ, and Mooney DJ. Biologic-free mechanically induced muscle regeneration. PNAS 113 (6), 1534-1539 DOI10.1073/pnas.1517517113. Roche ET, Fabozzo A, Lee Y, Polygerinos P, Friehs I, Schuster L, Casar Berazaluce AM, Cearbhaill ED, Vasilyev NV, Mooney DJ, Karp JM, del Nido, PJ, Walsh CJ. A light reflecting balloon for atraumatic tissue defect closure. Science Translational Medicine (Front cover) 2015: 7(306):149, DOI: 10.1126/scitranslmed.aaa2406",
+      "source_url": "https://meche.mit.edu/people/faculty/etr@mit.edu"
+    },
+    {
+      "title": "Catheter Device for Transmitting and Reflecting Light",
+      "year": 2009,
+      "citation_raw": "\"Catheter Device for Transmitting and Reflecting Light \" US Patent No. 10,588,695 \"Perfusion dilation catheter system and methods of use\", US Patent No. US9480823B2 US Patent 7591198 (grant) Apparatus and System for measuring of particles generated from medical devices or instruments utilized during simulated clinical applications, Issued September 22nd 2009",
+      "source_url": "https://meche.mit.edu/people/faculty/etr@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ]
+}

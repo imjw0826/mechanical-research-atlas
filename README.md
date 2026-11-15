@@ -16,11 +16,27 @@ python3 -m http.server 8000 --directory site
 
 ## 구성
 
-- `site/index.html`: 데이터가 포함된 배포용 웹페이지
+- `site/index.html`: 데이터가 포함된 배포용 웹페이지 (`scripts/build_site.py`가 생성)
 - `site/template.html`: 화면 템플릿
-- `site/data.json`: 집계된 사이트 데이터
-- `scripts/`: 교수 명단 생성, OpenAlex 수집, 데이터 집계 스크립트
+- `site/data.json`: OpenAlex 집계 데이터 (`scripts/aggregate.py`가 생성)
+- `site/pubs/<연구실 id>.json`: 연구실 사이트 게시 논문 전체 목록 (상세 화면에서 필요할 때 불러옴)
+- `scripts/`: 교수 명단 생성, OpenAlex 수집, 데이터 집계, 연구실 사이트 논문 정리 스크립트
 - `data/`: 수집한 공개 연구 데이터와 조사 기록
+  - `data/direct-publications/<대학>-<번호>.json`: 연구실 공식 사이트에서 수집한 논문 목록 (번호는 `roster-<대학>.json` 순서, KAIST는 `kaist-official-roster.json`)
+  - `data/direct-publications/<대학>-<번호>.visible.txt` / `.txt`: 수집 근거가 되는 페이지 화면 텍스트
+  - `data/direct-publications/progress/`: 대학별 작업 메모
+
+## 연구실 사이트 논문 갱신
+
+```sh
+cd scripts
+python3 audit_direct_publications.py      # 저장된 화면 텍스트와 대조
+python3 catalog_direct_publications.py    # data/direct-publications.md, bibliographies/ 생성
+python3 direct_publications_progress.py   # 진행 현황 생성
+python3 build_site.py                     # site/index.html, site/pubs/ 생성
+```
+
+`parse_visible_text.py`는 브라우저에서 저장한 페이지 텍스트를 인용 항목으로 자동 분리합니다. 자동 분리한 기록은 `extraction: auto_heuristic_v1`과 `status: partial`로 표시합니다.
 
 OpenAlex 데이터를 다시 수집하려면 `.env.example`을 `.env`로 복사하고 본인의 API 키를 입력합니다. `.env`는 Git에서 제외됩니다. 기존 웹사이트를 실행하거나 배포할 때는 필요하지 않습니다.
 

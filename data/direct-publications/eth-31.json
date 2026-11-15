@@ -1,0 +1,2051 @@
+{
+  "university": "ETH Zurich",
+  "university_key": "eth",
+  "pi": "Christopher Onder",
+  "lab_name": null,
+  "lab_url": "https://light.ethz.ch/",
+  "publication_urls": [
+    "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+  ],
+  "accessed_at": "2026-11-12T15:15:25.475850+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Game theory in Formula 1: From physical to strategic interactions",
+      "year": 2026,
+      "citation_raw": "Game theory in Formula 1: From physical to strategic interactions Giona Fieni, Marc-Philippe Neumann, Francesca Furia, Alessandro Caucino, Alberto Cerofolini, Vittorio Ravaglioli and Christopher H. Onder European Journal of Control, vol. 91, pp. 101554, Elsevier, 2026.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Game-theoretic Energy Management Strategies With Interacting Agents in Formula 1",
+      "year": 2026,
+      "citation_raw": "Game-theoretic Energy Management Strategies With Interacting Agents in Formula 1 Giona Fieni, Marc-Philippe Neumann, Alessandro Zanardi, Alberto Cerofolini and Christopher H. Onder IEEE Transactions on Vehicular Technology, vol. 75: no. 2, pp. 2195-2208, IEEE, 2026.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Synthesis and SOS-based Stability Verification of a Neural-Network-Based Controller for a Two-wheeled Inverted Pendulum",
+      "year": 2025,
+      "citation_raw": "Synthesis and SOS-based Stability Verification of a Neural-Network-Based Controller for a Two-wheeled Inverted Pendulum Alvaro Detailleur, Dalim Wahby, Guillaume Ducard and Christopher Onder arXiv, pp. 2508.15616, Ithaca, NY: Cornell University, 2025.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Lessons Learned in Research and Development With Porcine Livers and the Clinical Translation—Beating the Organ Clock With Normothermic Machine Perfusion",
+      "year": 2025,
+      "citation_raw": "Lessons Learned in Research and Development With Porcine Livers and the Clinical Translation—Beating the Organ Clock With Normothermic Machine Perfusion Martin Jörg Schuler, Dustin Becker, David Machacek, Fabian Kalt, Rafael Fröhlich, Victor Lopez-Lopez, Christopher Onder, Jose Oberholzer and Dilmurodjon Eshmuminov Clinical Transplantation, vol. 39: no. 8, pp. e70264, Wiley, 2025.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Improved Sum-of-Squares Stability Verification of Neural-Network-Based Controllers",
+      "year": 2025,
+      "citation_raw": "Improved Sum-of-Squares Stability Verification of Neural-Network-Based Controllers Alvaro Detailleur, Guillaume Ducard and Christopher Onder arXiv, pp. 2507.10352, Ithaca, NY: Cornell University, 2025.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Nonlinear Model Reference Adaptive Control (NMRAC) for First-Order Systems",
+      "year": 2025,
+      "citation_raw": "Nonlinear Model Reference Adaptive Control (NMRAC) for First-Order Systems Dalim Wahby, Alvaro Detailleur and Guillaume Ducard 9th International Conference on Control, Automation and Diagnosis (ICCAD 2025), Barcelona, Spain, pp.11099437 Piscataway, NJ: IEEE, July 1-3, 2025.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimization of the energy-comfort trade-off of HVAC systems in electric city buses based on a steady-state model",
+      "year": 2025,
+      "citation_raw": "Optimization of the energy-comfort trade-off of HVAC systems in electric city buses based on a steady-state model Fabio Widmer, Stijn van Dooren and Christopher H. Onder Control Engineering Practice, vol. 154, pp. 106158, Elsevier, 2025.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Comparative Analysis of Linear Quadratic Regulator, Linear and Robust Model Predictive Control on a Two-Wheeled Inverted Pendulum",
+      "year": 2025,
+      "citation_raw": "Comparative Analysis of Linear Quadratic Regulator, Linear and Robust Model Predictive Control on a Two-Wheeled Inverted Pendulum Lorenzo Fici, Dalim Wahby, Alvaro Detailleur and Guillaume Ducard 10th International Conference on Robotics and Automation Engineering (ICRAE 2025), Haikou, China, pp.121-127, Piscataway, NJ: IEEE, November 11-14, 2025.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Formula 1 Race Launch with State-dependent Phase Optimisation",
+      "year": 2025,
+      "citation_raw": "Formula 1 Race Launch with State-dependent Phase Optimisation Marc-Philippe Neumann, Matteo Babin, Giona Fieni, Oliviero Agnelli, Armin Nurkanović, Alberto Cerofolini and Christopher Harald Onder International Journal of Powertrains, Inderscience, 2025.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimization of charging infrastructure and strategy for an electrified public transportation system",
+      "year": 2024,
+      "citation_raw": "Optimization of charging infrastructure and strategy for an electrified public transportation system Mohammad Hossein Moradi, Fabio Widmer, Raymond C. Turin and Christopher H. Onder Energy, vol. 313, pp. 133974, Elsevier, 2024.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Neural Network Design and Training for Longitudinal Flight Control of a Tilt-Rotor Hybrid Vertical Takeoff and Landing Unmanned Aerial Vehicle",
+      "year": 2024,
+      "citation_raw": "Neural Network Design and Training for Longitudinal Flight Control of a Tilt-Rotor Hybrid Vertical Takeoff and Landing Unmanned Aerial Vehicle Guillaume Ducard and Gregorio Carughi Drones, vol. 8: no. 12, pp. 727, MDPI, 2024.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Fast model-based calibration of multiple injections for a CI engine using nonlinear optimal control",
+      "year": 2024,
+      "citation_raw": "Fast model-based calibration of multiple injections for a CI engine using nonlinear optimal control Giordano Moretto, Nicolas Schnell, Jonathan Frey, Yasin Karakaya, Alois Amstutz, Moritz Diehl, Tina Kasper and Christopher Onder Control Engineering Practice, vol. 145, pp. 105848, Elsevier, 2024.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Learning-Based Model Predictive Control for the Energy Management of Hybrid Electric Vehicles Including Driving Mode Decisions",
+      "year": 2024,
+      "citation_raw": "Learning-Based Model Predictive Control for the Energy Management of Hybrid Electric Vehicles Including Driving Mode Decisions David Machacek, Stijn van Dooren, Thomas Huber and Christopher Harald Onder IEEE Transactions on Vehicular Technology, vol. 73: no. 4, pp. 5113-5127, IEEE, 2024.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Energy management of hydrogen hybrid electric vehicles - A potential analysis",
+      "year": 2024,
+      "citation_raw": "Energy management of hydrogen hybrid electric vehicles - A potential analysis David Theodor Machacek, Nazim Ozan Yasar, Thomas Huber and Christopher Harald Onder International Journal of Hydrogen Energy, vol. 58, pp. 1-13, Elsevier, 2024.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Holistic Traction and Thermal Energy Management of Electric City Buses",
+      "year": 2024,
+      "citation_raw": "Holistic Traction and Thermal Energy Management of Electric City Buses Fabio Widmer Doctoral Thesis, Zurich, ETH Zurich, 2024.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Longitudinal Control of a Tilt-rotor VTOL UAV using Incremental Nonlinear Dynamic Inversion",
+      "year": 2024,
+      "citation_raw": "Longitudinal Control of a Tilt-rotor VTOL UAV using Incremental Nonlinear Dynamic Inversion Marco Schlatter, Guillaume Ducard, David Rohr and Christopher Onder 8th International Conference on Control, Automation and Diagnosis (ICCAD 2024), Paris, France, pp.10553973 Piscataway, NJ: IEEE, May 15-17, 2024.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "On the Co-Design of Components and Racing Strategies in Formula 1",
+      "year": 2024,
+      "citation_raw": "On the Co-Design of Components and Racing Strategies in Formula 1 Marc-Philippe Neumann, Gioele Zardini, Alberto Cerofolini and Christopher H. Onder 35th IEEE Intelligent Vehicles Symposium (IV 2024), Jeju Island, Korea, pp.2876-2881, Piscataway, NJ: IEEE, June 2-5, 2024.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A method to quantify the advantages of a variable valve train for CI engines",
+      "year": 2024,
+      "citation_raw": "A method to quantify the advantages of a variable valve train for CI engines Giordano Moretto, Severin Jonathan Hänggi, Andyn Omanovic, Alois Amstutz and Christopher Onder International Journal of Engine Research, vol. 25: no. 1, pp. 3-23, SAGE, 2024.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modular Energy Management for Hybrid Electric Vehicles",
+      "year": 2024,
+      "citation_raw": "Modular Energy Management for Hybrid Electric Vehicles David Machacek Doctoral Thesis, Zurich, ETH Zurich, 2024.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Highly Efficient Year-Round Energy and Comfort Optimization of HVAC Systems in Electric City Buses",
+      "year": 2023,
+      "citation_raw": "Highly Efficient Year-Round Energy and Comfort Optimization of HVAC Systems in Electric City Buses Fabio Widmer, Andreas Ritter, Mathias Achermann, Fabian Büeler, Joshua Bagajo and Christopher H. Onder 22nd IFAC World Congress, Yokohama, Japan, pp.10656-10663, Amsterdam: Elsevier, July 9-14, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Convex modelling for ship speed optimisation",
+      "year": 2023,
+      "citation_raw": "Convex modelling for ship speed optimisation Stijn van Dooren, Pol Duhr and Christopher H. Onder Ocean Engineering, vol. 288, pp. 115947, Elsevier, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Battery health target tracking for HEVs: Closed-loop control approach, simulation framework, and reference trajectory optimization",
+      "year": 2023,
+      "citation_raw": "Battery health target tracking for HEVs: Closed-loop control approach, simulation framework, and reference trajectory optimization Fabio Widmer, Andreas Ritter, Johannes Ritzmann, David Gerber and Christopher H. Onder eTransportation, vol. 17, pp. 100244, Elsevier, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Modular Approach for Diesel Engine Air Path Control Based on Nonlinear MPC",
+      "year": 2023,
+      "citation_raw": "A Modular Approach for Diesel Engine Air Path Control Based on Nonlinear MPC Severin Jonathan Hänggi, Jonathan Frey, Stijn van Dooren, Moritz Diehl and Christopher H. Onder IEEE Transactions on Control Systems Technology, vol. 31: no. 4, pp. 1521-1536, IEEE, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Minimum-Race-Time Energy Allocation Strategies for the Hybrid-Electric Formula 1 Power Unit",
+      "year": 2023,
+      "citation_raw": "Minimum-Race-Time Energy Allocation Strategies for the Hybrid-Electric Formula 1 Power Unit Pol Duhr, Daniele Buccheri, Camillo Balerna, Alberto Cerofolini and Christopher H. Onder IEEE Transactions on Vehicular Technology, vol. 72: no. 6, pp. 7035-7050, IEEE, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "The Faster the Better? Optimal Warm-Up Strategies for a Micro Combined Heat and Power Plant",
+      "year": 2023,
+      "citation_raw": "The Faster the Better? Optimal Warm-Up Strategies for a Micro Combined Heat and Power Plant Tammo Zobel, Andreas Ritter and Christopher H. Onder Energies, vol. 16: no. 10, pp. 4180, MDPI, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal combustion calibration for direct-injection compression-ignition engines using multiple injections",
+      "year": 2023,
+      "citation_raw": "Optimal combustion calibration for direct-injection compression-ignition engines using multiple injections Giordano Moretto, Severin Jonathan Hänggi and Christopher Onder International Journal of Engine Research, vol. 24: no. 4, pp. 1414-1431, SAGE, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Low-level Online Control of the Formula 1 Power Unit with Feedforward Cylinder Deactivation",
+      "year": 2023,
+      "citation_raw": "Low-level Online Control of the Formula 1 Power Unit with Feedforward Cylinder Deactivation Marc-Philippe Neumann, Giona Fieni, Camillo Balerna, Pol Duhr, Alberto Cerofolini and Christopher H. Onder IEEE Transactions on Vehicular Technology, vol. 72: no. 7, pp. 8382-8397, IEEE, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Online Learning for Improved Attitude Control of a Tilt-rotor Hybrid VTOL UAV",
+      "year": 2023,
+      "citation_raw": "Online Learning for Improved Attitude Control of a Tilt-rotor Hybrid VTOL UAV Louis Dezons and Guillaume Ducard 7th International Conference on Control, Automation and Diagnosis (ICCAD 2023), Rome, Italy, pp.10152408 Piscataway, NJ: IEEE, May 10-12, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model-based Calibration of Advanced Combustion Strategies for CI Engines",
+      "year": 2023,
+      "citation_raw": "Model-based Calibration of Advanced Combustion Strategies for CI Engines Giordano Moretto Doctoral Thesis, Zurich, ETH Zurich, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "ZTBus: A Large Dataset of Time-Resolved City Bus Driving Missions",
+      "year": 2023,
+      "citation_raw": "ZTBus: A Large Dataset of Time-Resolved City Bus Driving Missions Fabio Widmer, Andreas Ritter and Christopher H. Onder Scientific Data, vol. 10: no. 1, pp. 687, Nature, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "WCA: A New Efficient Nonlinear Adaptive Control Allocation for Planar Hexacopters",
+      "year": 2023,
+      "citation_raw": "WCA: A New Efficient Nonlinear Adaptive Control Allocation for Planar Hexacopters Guillaume Ducard and Minh-Duc Hua IEEE Access, vol. 11, pp. 37714-37748, IEEE, 2023.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Battery lifetime extension through optimal design and control of traction and heating systems in hybrid drivetrains",
+      "year": 2022,
+      "citation_raw": "Battery lifetime extension through optimal design and control of traction and heating systems in hybrid drivetrains Fabio Widmer, Andreas Ritter, Pol Duhr and Christopher H. Onder eTransportation, vol. 14, pp. 100196, Elsevier, 2022.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal control of real driving emissions",
+      "year": 2022,
+      "citation_raw": "Optimal control of real driving emissions Stijn van Dooren, Pol Duhr, Alois Amstutz and Christopher H. Onder Control Engineering Practice, vol. 127, pp. 105269, Elsevier, 2022.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Multi-Level Model Predictive Control for the Energy Management of Hybrid Electric Vehicles Including Thermal Derating",
+      "year": 2022,
+      "citation_raw": "Multi-Level Model Predictive Control for the Energy Management of Hybrid Electric Vehicles Including Thermal Derating David Machacek, Kerim Barhoumi, Johannes Ritzmann, Thomas Huber and Christopher H. Onder IEEE Transactions on Vehicular Technology, vol. 71: no. 10, pp. 10400-10414, IEEE, 2022.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Long-term stochastic model predictive control for the energy management of hybrid electric vehicles using Pontryagin’s minimum principle and scenario-based optimization",
+      "year": 2022,
+      "citation_raw": "Long-term stochastic model predictive control for the energy management of hybrid electric vehicles using Pontryagin’s minimum principle and scenario-based optimization Andreas Ritter, Fabio Widmer, Pol Duhr and Christopher H. Onder Applied Energy, vol. 322, pp. 119192, Elsevier, 2022.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Claudio Pietro Giovanni Viecelli and Collin Ewald",
+      "year": 2022,
+      "citation_raw": "The non-modifiable factors age, gender, and genetics influence resistance exercise Claudio Pietro Giovanni Viecelli and Collin Ewald Frontiers in Aging, vol. 3, pp. 1005848, Frontiers Media, 2022.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Convex Performance Envelope for Minimum Lap Time Energy Management of Race Cars",
+      "year": 2022,
+      "citation_raw": "Convex Performance Envelope for Minimum Lap Time Energy Management of Race Cars Pol Duhr, Ashwin Sandeep, Alberto Cerofolini and Christopher H. Onder IEEE Transactions on Vehicular Technology, vol. 71: no. 8, pp. 8280-8295, IEEE, 2022.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model Predictive Supervisory Control for Integrated Emission Management of Diesel Engines",
+      "year": 2022,
+      "citation_raw": "Model Predictive Supervisory Control for Integrated Emission Management of Diesel Engines Johannes Ritzmann, Christian Peterhans, Oscar Chinellato, Manuel Gehlen and Christopher Onder Energies, vol. 15: no. 8, pp. 2755, MDPI, 2022.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A causal supervisory control strategy for optimal control of a heavy-duty Diesel engine with SCR aftertreatment",
+      "year": 2022,
+      "citation_raw": "A causal supervisory control strategy for optimal control of a heavy-duty Diesel engine with SCR aftertreatment Stijn van Dooren, Alois Amstutz and Christopher H. Onder Control Engineering Practice, vol. 119, pp. 104982, Elsevier, 2022.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Online Neural Networks Learning and Model Predictive Control Applied to a Tilt-Rotor Unmanned Aerial Vehicle",
+      "year": 2022,
+      "citation_raw": "Online Neural Networks Learning and Model Predictive Control Applied to a Tilt-Rotor Unmanned Aerial Vehicle Gregorio Carughi, Guillaume Ducard and Christopher Onder 17th IEEE International Conference on Control & Automation (ICCA 2022), Naples, Italy, pp.31-37, Piscataway, NJ: IEEE, June 27-30, 2022.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Comparison of Verification Methods for Neural-Network Controllers Using Mixed-Integer Programs",
+      "year": 2022,
+      "citation_raw": "A Comparison of Verification Methods for Neural-Network Controllers Using Mixed-Integer Programs Marcel Dubach and Guillaume J.J. Ducard 7th International Conference on Robotics and Automation Engineering (ICRAE 2022), Singapore, pp.43-48, Piscataway, NJ: IEEE, November 18-20, 2022.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "RTOB SLAM: Real-Time Onboard Laser-Based Localization and Mapping",
+      "year": 2021,
+      "citation_raw": "RTOB SLAM: Real-Time Onboard Laser-Based Localization and Mapping Leonard Bauersfeld and Guillaume Ducard Vehicles, vol. 3: no. 4, pp. 778-789, MDPI, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimization-based online estimation of vehicle mass and road grade: Theoretical analysis and experimental validation",
+      "year": 2021,
+      "citation_raw": "Optimization-based online estimation of vehicle mass and road grade: Theoretical analysis and experimental validation Andreas Ritter, Fabio Widmer, Basil Vetterli and Christopher H. Onder Mechatronics, vol. 80, pp. 102663, Pergamon, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Integrated Emission Management through Variable Engine Calibration",
+      "year": 2021,
+      "citation_raw": "Optimal Integrated Emission Management through Variable Engine Calibration Johannes Ritzmann, Oscar Chinellato, Richard Hutter and Christopher Onder Energies, vol. 14: no. 22, pp. 7606, MDPI, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Control Barrier Functions for Cyber-Physical Systems and Applications to NMPC",
+      "year": 2021,
+      "citation_raw": "Control Barrier Functions for Cyber-Physical Systems and Applications to NMPC Jan Schilliger, Thomas Lew, Spencer M. Richards, Severin Jonathan Hänggi, Marco Pavone and Christopher Onder IEEE Robotics and Automation Letters, vol. 6: no. 4, pp. 8623-8630, IEEE, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Analysis of optimal energy management strategies for the hybrid electric Formula 1 car under consideration of the finite battery size",
+      "year": 2021,
+      "citation_raw": "Analysis of optimal energy management strategies for the hybrid electric Formula 1 car under consideration of the finite battery size Pol Duhr, Maximilian Schaller, Luca Arzilli, Alberto Cerofolini and Christopher H. Onder 38th FISITA 2021 World Congress, Online, September 14-17, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "The potential of heat release rate and cylinder pressure feedback control for conventional and premixed charge compression ignition combustion",
+      "year": 2021,
+      "citation_raw": "The potential of heat release rate and cylinder pressure feedback control for conventional and premixed charge compression ignition combustion Severin Jonathan Hänggi, Giordano Moretto, Thivaharan Albin and Christopher Onder International Journal of Engine Research, vol. 22: no. 9, pp. 3080-3100, SAGE, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "MPC Flight Control for a Tilt-Rotor VTOL Aircraft",
+      "year": 2021,
+      "citation_raw": "MPC Flight Control for a Tilt-Rotor VTOL Aircraft Leonard Bauersfeld, Lukas Spannagl, Guillaume J.J. Ducard and Christopher H. Onder IEEE Transactions on Aerospace and Electronic Systems, vol. 57: no. 4, pp. 2395-2409, IEEE, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Real-Time Graph Construction Algorithm for Probabilistic Predictions in Vehicular Applications",
+      "year": 2021,
+      "citation_raw": "Real-Time Graph Construction Algorithm for Probabilistic Predictions in Vehicular Applications Andreas Ritter, Fabio Widmer, Jen Wei Niam, Philipp Elbert and Christopher Onder IEEE Transactions on Vehicular Technology, vol. 70: no. 6, pp. 5483-5498, IEEE, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Variable smoothing of optimal diesel engine calibration for improved performance and drivability during transient operation",
+      "year": 2021,
+      "citation_raw": "Variable smoothing of optimal diesel engine calibration for improved performance and drivability during transient operation Varun Pandey, Stijn van Dooren, Johannes Ritzmann, Benjamín Pla and Christopher Onder International Journal of Engine Research, vol. 22: no. 6, pp. 1888-1895, SAGE, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Efficient light-duty engine using turbulent jet ignition of lean methane mixtures",
+      "year": 2021,
+      "citation_raw": "Efficient light-duty engine using turbulent jet ignition of lean methane mixtures Patrik Soltic, Thomas Hilfiker and Severin Jonathan Hänggi International Journal of Engine Research, vol. 22: no. 4, pp. 1301-1311, SAGE, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Automated insulin delivery - Continuous blood glucose control during ex situ liver perfusion",
+      "year": 2021,
+      "citation_raw": "Automated insulin delivery - Continuous blood glucose control during ex situ liver perfusion Dustin Becker, Dilmurodjon Eshmuminov, Roman Keller, Lucia Bautista Borrego, Catherine Hagedorn, Muhayyo Duskabilova, Mark W. Tibbitt, Christopher Onder, Pierre-Alain Clavien, Philipp Rudolf von Rohr, Martin Schuler and Max Hefti IEEE Transactions on Biomedical Engineering, vol. 68: no. 4, pp. 1399-1408, IEEE, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Editorial: Advances in Compression Ignition Natural Gas-Diesel Dual-Fuel Engines",
+      "year": 2021,
+      "citation_raw": "Editorial: Advances in Compression Ignition Natural Gas-Diesel Dual-Fuel Engines Hongsheng Guo, Hailin Li, Lino Guzzella and Masahiro Shioji Frontiers in Mechanical Engineering, vol. 7, pp. 642187, Frontiers Media, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modelling three-way catalyticconverter oriented to engine cold-startconditions",
+      "year": 2021,
+      "citation_raw": "Modelling three-way catalyticconverter oriented to engine cold-startconditions Marcelo Real, Raffael Hedinger, Benjamín Pla and Christopher Onder International Journal of Engine Research, vol. 22: no. 2, pp. 640-651, SAGE, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Time-optimal gearshift and energy management strategies for a hybrid electric race car",
+      "year": 2021,
+      "citation_raw": "Time-optimal gearshift and energy management strategies for a hybrid electric race car Pol Duhr, Grigorios Christodoulou, Camillo Balerna, Mauro Salazar, Alberto Cerofolini and Christopher H. Onder Applied Energy, vol. 282, pp. 115980, Elsevier, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Time-optimal Energy Management of the Formula 1 Power Unit with Active Battery Path Constraints",
+      "year": 2021,
+      "citation_raw": "Time-optimal Energy Management of the Formula 1 Power Unit with Active Battery Path Constraints Pol Duhr, Maximilian Schaller, Luca Arzilli, Alberto Cerofolini and Christopher H. Onder European Control Conference (ECC 2021), Online, pp.913-920, Piscataway, NJ: IEEE, June 29 - July 2 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Comparison Between Two PID Neural Network Controller Approaches - Simulation and Discussion",
+      "year": 2021,
+      "citation_raw": "Comparison Between Two PID Neural Network Controller Approaches - Simulation and Discussion Micha Bosshart, Guillaume Ducard and Christopher Onder 5th IEEE International Conference on Control, Automation and Diagnosis (ICCAD 2021), Grenoble, France, pp.9638766 Piscataway, NJ: IEEE, November 3-5, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Time-Optimal Low-Level Control and Gearshift Strategies for the Formula 1 Hybrid Electric Powertrain",
+      "year": 2021,
+      "citation_raw": "Time-Optimal Low-Level Control and Gearshift Strategies for the Formula 1 Hybrid Electric Powertrain Camillo Balerna, Marc-Philippe Neumann, Nicolò Robuschi, Pol Duhr, Alberto Cerofolini, Vittorio Ravaglioli and Christopher Onder Energies, vol. 14: no. 1, pp. 171, MDPI, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Griffin Norris, Guillaume J.J. Ducard and Christopher Onder",
+      "year": 2021,
+      "citation_raw": "Neural Networks for Control: A Tutorial and Survey of Stability-Analysis Methods, Properties, and Discussions Griffin Norris, Guillaume J.J. Ducard and Christopher Onder 2021 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME 2021), Mauritius, pp.864-869, Red Hook, NY: Curran, October 7-8, 2021.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Teaching Nonlinear Model Predictive Control with MATLAB/Simulink and an Internal Combustion Engine Test Bench",
+      "year": 2020,
+      "citation_raw": "Teaching Nonlinear Model Predictive Control with MATLAB/Simulink and an Internal Combustion Engine Test Bench Martin Keller, Dennis Ritter, Lukas Schmitt, Severin Jonathan Hänggi, Christopher Onder, Dirk Abel and Thivaharan Albin 1st Virtual IFAC World Congress (IFAC-V 2020), Online, pp.17190-17197, Kidlington: Elsevier, July 11-17, 2020.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimization Method for the Energy and Emissions Management of a Hybrid Electric Vehicle with an Exhaust Aftertreatment System",
+      "year": 2020,
+      "citation_raw": "Optimization Method for the Energy and Emissions Management of a Hybrid Electric Vehicle with an Exhaust Aftertreatment System Johannes Ritzmann, Georg Lins and Christopher Onder 1st Virtual IFAC World Congress (IFAC-V 2020), Online, pp.13797-13804, Kidlington: Elsevier, July 11-17, 2020.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal low-level control strategies for a high-performance hybrid electric power unit",
+      "year": 2020,
+      "citation_raw": "Optimal low-level control strategies for a high-performance hybrid electric power unit Camillo Balerna, Nicolas Lanzetti, Mauro Salazar, Alberto Cerofolini and Christopher Onder Applied Energy, vol. 276, pp. 115248, Elsevier, 2020.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A control strategy for cylinder deactivation",
+      "year": 2020,
+      "citation_raw": "A control strategy for cylinder deactivation Johannes Ritzmann, Norbert Zsiga, Christian Peterhans and Christopher Onder Control Engineering Practice, vol. 103, pp. 104566, Elsevier, 2020.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "EduBal: An open balancing robot platform for teaching control and system theory",
+      "year": 2020,
+      "citation_raw": "EduBal: An open balancing robot platform for teaching control and system theory Christian-Eike Framing, Raffael Hedinger, Emmanuel Santiago Iglesias, Frank-Josef Heeler and Dirk Abel arXiv, pp. 2005.09304, Ithaca, NY: Cornell University, 2020.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Reduction of Cold-Start Emissions for a Micro Combined Heat and Power Plant",
+      "year": 2020,
+      "citation_raw": "Reduction of Cold-Start Emissions for a Micro Combined Heat and Power Plant Tammo Zobel, Christian Schürch, Konstantinos Boulouchos and Christopher Onder Energies, vol. 13: no. 8, pp. 1862, MDPI, 2020.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Transition Control between Combustion Modes in a Diesel-ignited Gas Engine",
+      "year": 2020,
+      "citation_raw": "Optimal Transition Control between Combustion Modes in a Diesel-ignited Gas Engine Richard Hutter, Severin Jonathan Hänggi, Thivaharan Albin and Christopher H. Onder Control Engineering Practice, vol. 97, pp. 104327, Elsevier, 2020.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Diesel engine calibration using convex modelling of Pareto frontiers",
+      "year": 2020,
+      "citation_raw": "Optimal Diesel engine calibration using convex modelling of Pareto frontiers Stijn Van Dooren, Camillo Balerna, Mauro Salazar, Alois Amstutz and Christopher H. Onder Control Engineering Practice, vol. 96, pp. 104313, Elsevier, 2020.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model Assisted Analysis of the Hepatic Arterial Buffer Response During Ex Vivo Porcine Liver Perfusion",
+      "year": 2020,
+      "citation_raw": "Model Assisted Analysis of the Hepatic Arterial Buffer Response During Ex Vivo Porcine Liver Perfusion Dustin Becker, Max Hefti, Martin Schuler, Lucia Bautista Borrego, Catherine Hagedorn, Xavier Muller, Rolf Graf, Philipp Dutkowski, Mark W. Tibbitt, Christopher Onder, Pierre-Alain Clavien, Dilmurodjon Eshmuminov and Philipp Rudolf von Rohr IEEE Transactions on Biomedical Engineering, vol. 76: no. 3, pp. 667-678, IEEE, 2020.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Data-based modeling for the crank angle resolved CI combustion process",
+      "year": 2020,
+      "citation_raw": "Data-based modeling for the crank angle resolved CI combustion process Jan Schilliger, Nils Keller, Severin Jonathan Hänggi, Thivaharan Albin and Christopher Onder In Data Analysis for Direct Numerical Simulations of Turbulent Combustion, edited by Pitsch, Heinz and Attili, Antonio, pp. 197-213, Cham: Springer, 2020.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A review of synthetic fuels for passenger vehicles",
+      "year": 2019,
+      "citation_raw": "A review of synthetic fuels for passenger vehicles Severin Jonathan Hänggi, Philipp Elbert, Thomas Bütler, Urs Cabalzar, Sinan Teske, Christian Bach and Christopher Onder Energy Reports, vol. 5, pp. 555-569, Elsevier, 2019.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Fuel-Optimal Power Split and Gear Selection Strategies for a Hybrid Electric Vehicle",
+      "year": 2019,
+      "citation_raw": "Fuel-Optimal Power Split and Gear Selection Strategies for a Hybrid Electric Vehicle Johannes Ritzmann, Andreas Christon, Mauro Salazar Villalon and Christopher Onder The 14th International Conference on Engines & Vehicles (ICE 2019), Capri, Italy, pp.2019-24-0205 New York, NY: SAE, September 15-19, 2019.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Minimum Lap Time Control of Hybrid Electric Race Cars in Qualifying Scenarios",
+      "year": 2019,
+      "citation_raw": "Minimum Lap Time Control of Hybrid Electric Race Cars in Qualifying Scenarios Mauro Salazar Villalon, Pol Duhr, Camillo Balerna, Luca Arzilli and Christopher H. Onder IEEE Transactions on Vehicular Technology, vol. 68: no. 8, pp. 7296-7308, IEEE, 2019.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Congestion-Aware Routing Scheme for Autonomous Mobility-On-Demand Systems",
+      "year": 2019,
+      "citation_raw": "A Congestion-Aware Routing Scheme for Autonomous Mobility-On-Demand Systems Mauro Salazar, Matthew Tsao, Izabel Aguiar, Maximilian Schiffer and Marco Pavone 17th European Control Conference (ECC 2019), Naples, Italy, pp.3040-3046, Piscataway, NJ: IEEE, June 25-28, 2019.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model-based iterative learning control strategies for precise trajectory tracking in gasoline engines",
+      "year": 2019,
+      "citation_raw": "Model-based iterative learning control strategies for precise trajectory tracking in gasoline engines Raffael Hedinger, Norbert Zsiga, Mauro Salazar and Christopher Onder Control Engineering Practice, vol. 87, pp. 17-25, Elsevier, 2019.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Low-cost 3D Laser Design and Evaluation with Mapping Techniques Review",
+      "year": 2019,
+      "citation_raw": "Low-cost 3D Laser Design and Evaluation with Mapping Techniques Review Leonard Bauersfeld and Guillaume Ducard IEEE Sensors Applications Symposium (SAS 2019), Sophia Antipolis, France, pp.8706006 New York, NY: IEEE, March 11-13, 2019.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Experimental comparison of efficiency and emission levels of four-cylinder lean-burn passenger car-sized CNG engines with different ignition concepts",
+      "year": 2019,
+      "citation_raw": "Experimental comparison of efficiency and emission levels of four-cylinder lean-burn passenger car-sized CNG engines with different ignition concepts Patrik Soltic, Thomas Hilfiker, Richard Hutter and Severin Jonathan Hänggi Combustion Engines, vol. 176: no. 1, pp. 27-35, Polskie Towarzystwo Naukowe Silników Spalinowych, 2019.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Control-oriented analysis of a lean-burn light-duty natural gas research engine with scavenged pre-chamber ignition",
+      "year": 2019,
+      "citation_raw": "Control-oriented analysis of a lean-burn light-duty natural gas research engine with scavenged pre-chamber ignition Severin Jonathan Hänggi, Thomas Hilfiker, Patrik Soltic, Richard Hutter and Christopher H. Onder Combustion Engines, vol. 176: no. 1, pp. 42-53, Polskie Towarzystwo Naukowe Silników Spalinowych, 2019.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Combustion Rate Shaping for Cycle-to-cycle Control",
+      "year": 2019,
+      "citation_raw": "Combustion Rate Shaping for Cycle-to-cycle Control Giordano Moretto, Severin Jonathan Hänggi, Thivaharan Albin and Christopher H. Onder Symposium for Combustion Control (SCC 2019), Aachen, Germany, pp.97-107, Aachen: dSPACE, June 5-6, 2019.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model Predictive Control of Ride-sharing Autonomous Mobility-on-Demand Systems",
+      "year": 2019,
+      "citation_raw": "Model Predictive Control of Ride-sharing Autonomous Mobility-on-Demand Systems Matthew Tsao, Dejan Milojevic, Claudio Ruch, Mauro Salazar Villalon, Emilio Frazzoli and Marco Pavone International Conference on Robotics and Automation (ICRA 2019), Montreal, Canada, pp.6665-6671, Piscataway, NJ: IEEE, May 20-24, 2019.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Minimum-fuel Engine On/Off Control for the Energy Management of a Hybrid Electric Vehicle via Iterative Linear Programming",
+      "year": 2019,
+      "citation_raw": "Minimum-fuel Engine On/Off Control for the Energy Management of a Hybrid Electric Vehicle via Iterative Linear Programming Nicolò Robuschi, Mauro Salazar, Pol Duhr, Francesco Braghin and Christopher Onder 9th IFAC Symposium on Advances in Automotive Control (AAC 2019), Orléans, France, pp.134-140, Laxenburg: International Federation of Automatic Control (IFAC), June 24–27, 2019.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Equivalent Lap Time Minimization Strategies for a Hybrid Electric Race Car",
+      "year": 2018,
+      "citation_raw": "Equivalent Lap Time Minimization Strategies for a Hybrid Electric Race Car Mauro Salazar Villalon, Camillo Balerna, Eugenio Chisari, Carlo Bussi and Christopher H. Onder 57th IEEE Conference on Decision and Control (CDC 2018), Miami Beach, FL, USA, pp.6125-6131, Piscataway, NJ: IEEE, December 17-19, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Adaptation Algorithms for the Hybrid Electric Powertrain of a Race Car",
+      "year": 2018,
+      "citation_raw": "Adaptation Algorithms for the Hybrid Electric Powertrain of a Race Car Camillo Balerna, Mauro Salazar, Nicolas Lanzetti, Christopher H. Onder and Carlo Bussi 37th FISITA World Automotive Congress (FISITA 2018). Disruptive Technologies for Affordable and Susainable Mobility, Chennai, India, pp.3253-3263, Red Hook, NY: Curran, October 2-5, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Catalytic methane oxidation in the exhaust gas aftertreatment of a lean-burn natural gas engine",
+      "year": 2018,
+      "citation_raw": "Catalytic methane oxidation in the exhaust gas aftertreatment of a lean-burn natural gas engine Richard Hutter, Luca De Libero, Philipp Elbert and Christopher H. Onder Chemical Engineering Journal, vol. 349, pp. 156-167, Elsevier, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "In-Vehicle Realization of Nonlinear MPC for Gasoline Two-Stage Turbocharging Airpath Control",
+      "year": 2018,
+      "citation_raw": "In-Vehicle Realization of Nonlinear MPC for Gasoline Two-Stage Turbocharging Airpath Control Thivaharan Albin, Dennis Ritter, Norman Liberda, Rien Quirynen and Moritz Diehl IEEE Transactions on Control Systems Technology, vol. 26: no. 5, pp. 1606-1618, IEEE, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Nonlinear Model Predictive Control for the Starting Process of a Free-Piston Linear Generator",
+      "year": 2018,
+      "citation_raw": "Nonlinear Model Predictive Control for the Starting Process of a Free-Piston Linear Generator Martin Keller, Bernhard Jochim, Dirk Abel, Joachim Beeckmann, Heinz Pitsch and Thivaharan Albin 5th IFAC Conference on Engine and Powertrain Control, Simulation and Modeling (E-COSM 2018), Changchun, China, pp.632-639, Kidlington: Elsevier, September 20-22, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Benefits of model predictive control for gasoline airpath control",
+      "year": 2018,
+      "citation_raw": "Benefits of model predictive control for gasoline airpath control Thivaharan Albin Science China Information Sciences, vol. 61: no. 7, pp. 070204, Springer, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model-based control of gasoline-controlled auto-ignition",
+      "year": 2018,
+      "citation_raw": "Model-based control of gasoline-controlled auto-ignition Dennis Ritter, Jakob Andert, Dirk Abel and Thivaharan Albin International Journal of Engine Research, vol. 19: no. 2, pp. 189-201, SAGE, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "POMDME as an Alternative Pilot Fuel for Dual-Fuel Engines: Optical Study in a RCEM and Application in an Automotive Size Dual-Fuel Diesel Engine",
+      "year": 2018,
+      "citation_raw": "POMDME as an Alternative Pilot Fuel for Dual-Fuel Engines: Optical Study in a RCEM and Application in an Automotive Size Dual-Fuel Diesel Engine Aleš Srna, Christophe Barro, Kai Herrmann, Fabio Möri, Richard Hutter and Konstantinos Boulouchos SAE 2018 International Powertrains, Fuels and Lubricants Meeting (PFL 2018), Heidelberg, Germany, pp.2018-01-1734 New York, NY: SAE, September 17-19, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "On the Interaction between Autonomous Mobility-on-Demand and Public Transportation Systems",
+      "year": 2018,
+      "citation_raw": "On the Interaction between Autonomous Mobility-on-Demand and Public Transportation Systems Mauro Salazar Villalon, Federico Rossi, Maximilian Schiffer, Christopher H. Onder and Marco Pavone 21st IEEE International Conference on Intelligent Transportation Systems (ITSS 2018), Maui, HI, USA, pp.2262-2269, Piscataway, NJ: IEEE, November 4-7, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Decoupling of consecutive gasoline controlled auto-ignition combustion cycles by field programmable gate array based real-time cylinder pressure analysis",
+      "year": 2018,
+      "citation_raw": "Decoupling of consecutive gasoline controlled auto-ignition combustion cycles by field programmable gate array based real-time cylinder pressure analysis Maximilian Wick, Bastian Lehrheuer, Thivaharan Albin, Jakob Andert and Stefan Pischinger International Journal of Engine Research, vol. 19: no. 2, pp. 153-167, SAGE, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Autoregressive modeling of cycle-to-cycle correlations in homogeneous charge compression ignition combustion",
+      "year": 2018,
+      "citation_raw": "Autoregressive modeling of cycle-to-cycle correlations in homogeneous charge compression ignition combustion Jakob Andert, Maximilian Wick, Bastian Lehrheuer, Thivaharan Albin and Stefan Pischinger International Journal of Engine Research, vol. 19: no. 7, pp. 790-802, SAGE, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Active Flow and Combustion Control 2018",
+      "year": 2018,
+      "citation_raw": "In Active Flow and Combustion Control : Papers Contributed to the Conference “Active Flow and Combustion Control 2018”, September 19–21, 2018, Berlin, Germany, edited by King, Rudibert, vol. 141 , pp. 167-181, Cham: Springer, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Time-optimal Control Strategies for a Hybrid Electric Race Car",
+      "year": 2018,
+      "citation_raw": "Time-optimal Control Strategies for a Hybrid Electric Race Car Soren Ebbesen, Mauro Salazar, Philipp Elbert, Carlo Bussi and Christopher H. Onder IEEE Transactions on Control Systems Technology, vol. 26: no. 1, pp. 233-247, IEEE, 2018.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Adaptive Regelung der Real-Driving-Emissionen von Dieselmotoren",
+      "year": 2017,
+      "citation_raw": "Adaptive Regelung der Real-Driving-Emissionen von Dieselmotoren Philipp Elbert, Alois Amstutz and Christopher Onder MTZ - Motortechnische Zeitschrift, vol. 78: no. 12, pp. 76-83, Springer Vieweg, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Real-time Control Algorithms for a Hybrid Electric Race Car Using a Two-level Model Predictive Control Scheme",
+      "year": 2017,
+      "citation_raw": "Real-time Control Algorithms for a Hybrid Electric Race Car Using a Two-level Model Predictive Control Scheme Mauro Salazar, Camillo Balerna, Philipp Elbert, Fernando P. Grando and Christopher H. Onder IEEE Transactions on Vehicular Technology, vol. 66: no. 12, pp. 10911-10922, IEEE, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Time-optimal Control Policy for a Hybrid Electric Race Car",
+      "year": 2017,
+      "citation_raw": "Time-optimal Control Policy for a Hybrid Electric Race Car Mauro Salazar, Philipp Elbert, Søren Ebbesen, Carlo Bussi and Christopher H. Onder IEEE Transactions on Control Systems Technology, vol. 25: no. 6, pp. 1921-1934, IEEE, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Zünd- und Brennverfahren für mager betriebene Pkw-Erdgasmotoren: Ignition-and combustion concepts for lean operated passenger car natural gas engines",
+      "year": 2017,
+      "citation_raw": "Zünd- und Brennverfahren für mager betriebene Pkw-Erdgasmotoren: Ignition-and combustion concepts for lean operated passenger car natural gas engines Patrik Soltic, Thomas Hilfiker, Severin Jonathan Hänggi, Richard Hutter and Michael Weissner 12th Conference on Gaseous-Fuel Powered Vehicles (FKFS 2017), Stuttgart, Germany, October 24-25, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Adaptive Control of the Real-Driving Emissions of Diesel Engines",
+      "year": 2017,
+      "citation_raw": "Adaptive Control of the Real-Driving Emissions of Diesel Engines Philipp Elbert 10th International Advanced Engine Control Symposium (AECS 2017), Tianjin, China Zurich: ETH Zurich, October 21-22, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Cold-Start Control of a Gasoline Engine",
+      "year": 2017,
+      "citation_raw": "Optimal Cold-Start Control of a Gasoline Engine Raffael Hedinger, Philipp Elbert and Christopher Onder Energies, vol. 10: no. 10, pp. 1548, MDPI, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Low-Load Limit in a Diesel-Ignited Gas Engine",
+      "year": 2017,
+      "citation_raw": "Low-Load Limit in a Diesel-Ignited Gas Engine Richard Hutter, Johannes Ritzmann, Philipp Elbert and Christopher H. Onder Energies, vol. 10: no. 10, pp. 1450, MDPI, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Spray Model Based Phenomenological Combustion Description and Experimental Validation for a Dual Fuel Engine",
+      "year": 2017,
+      "citation_raw": "Spray Model Based Phenomenological Combustion Description and Experimental Validation for a Dual Fuel Engine Christophe Barro, Curdin Nani, Richard Hutter and Konstantinos Boulouchos 13th International Conference on Engines & Vehicle, Capri, Napoli, Italy Warrendale, PA: SAE International, September 10-14, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "In Vivo Evaluation of Physiologic Control Algorithms for Left Ventricular Assist Devices Based on Left Ventricular Volume or Pressure",
+      "year": 2017,
+      "citation_raw": "In Vivo Evaluation of Physiologic Control Algorithms for Left Ventricular Assist Devices Based on Left Ventricular Volume or Pressure Gregor Ochsner, Markus J. Wilhelm, Raffael Amacher, Anastasios Petrou, Nikola Cesarovic, Silvan Staufert, Barbara Röhrnbauer, Francesco Maisano, Christofer Hierold, Mirko Meboldt and Marianne Schmid Daners ASAIO Journal, vol. 63: no. 5, pp. 568-577, Wolters Kluwer Health, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Comparison of anti-siphon devices - How do they affect CSF dynamics in supine and upright posture?",
+      "year": 2017,
+      "citation_raw": "Comparison of anti-siphon devices - How do they affect CSF dynamics in supine and upright posture? Manuel Gehlen, Anders Eklund, Vartan Kurtcuoglu, Jan Malm and Marianne Schmid Daners Acta Neurochirurgica, vol. 159: no. 8, pp. 1389-1397, Springer, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Novel Mean-Value Model of the Cardiovascular System Including a Left Ventricular Assist Device",
+      "year": 2017,
+      "citation_raw": "A Novel Mean-Value Model of the Cardiovascular System Including a Left Ventricular Assist Device Gregor Ochsner, Raffael Amacher and Marianne Schmid Daners Cardiovascular Engineering and Technology, vol. 8: no. 2, pp. 120-130, Springer, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Engine knock margin estimation using in-cylinder pressure measurements",
+      "year": 2017,
+      "citation_raw": "Engine knock margin estimation using in-cylinder pressure measurements Giulio Panzani, Fredrik Östman and Christopher H. Onder IEEE/ASME Transactions on Mechatronics, vol. 22: no. 1, pp. 301-311, IEEE, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Is posture‐related craniospinal compliance shift caused by jugular vein collapse? - A theoretical analysis",
+      "year": 2017,
+      "citation_raw": "Is posture‐related craniospinal compliance shift caused by jugular vein collapse? - A theoretical analysis Manuel Gehlen, Vartan Kurtcuoglu and Marianne Schmid Daners Fluids and Barriers of the CNS, vol. 14: no. 1, pp. 5, BioMed Central, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Engine knock margin control using in-cylinder pressure data: Preliminary results",
+      "year": 2017,
+      "citation_raw": "Engine knock margin control using in-cylinder pressure data: Preliminary results Giulio Panzani, Olga Galluppi, Donald Selmanaj, Sergio Savaresi, Jonatan Rosgren and Christopher H. Onder 56th IEEE Annual Conference on Decision and Control (CDC 2017), Melbourne, Australia, pp.256-261, Piscataway, NJ: IEEE, December 12-15, 2017.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A new method for analysis and design of iterative learning control algorithms in the time-domain",
+      "year": 2016,
+      "citation_raw": "A new method for analysis and design of iterative learning control algorithms in the time-domain Norbert Zsiga, Stijn van Dooren, Philipp Elbert and Christopher H. Onder Control Engineering Practice, vol. 57, pp. 39-49, Elsevier, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Energy saving potential of a battery-assisted fleet of trolley buses",
+      "year": 2016,
+      "citation_raw": "Energy saving potential of a battery-assisted fleet of trolley buses Andreas Ritter, Philipp Elbert and Christopher H. Onder 8th IFAC Symposium on Advances in Automotive Control (AAC 2016), Norrköping, Sweden, pp.377-384, Kidlington: Elsevier, June 20-23, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Systematische Optimierung eines Busses mit seriellem Hybridantrieb",
+      "year": 2016,
+      "citation_raw": "Systematische Optimierung eines Busses mit seriellem Hybridantrieb Philipp Elbert, Martin Widmer, Hans-Jörg Gisler and Christopher H. Onder MTZ - Motortechnische Zeitschrift, vol. 77: no. 5, pp. 68-73, Springer Automotive Media, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Fast and robust adaptation of lookup tables in internal combustion engines: feedback and feedforward controllers designed independently",
+      "year": 2016,
+      "citation_raw": "Fast and robust adaptation of lookup tables in internal combustion engines: feedback and feedforward controllers designed independently Florian Zurbriggen, Tobias Ott and Christopher H. Onder Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, vol. 230: no. 6, pp. 723-735, SAGE, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Diesel Minimal Combustion Control with Constraints in a Diesel-Ignited Gas Engine",
+      "year": 2016,
+      "citation_raw": "Diesel Minimal Combustion Control with Constraints in a Diesel-Ignited Gas Engine Richard Hutter, Florian Zurbriggen and Christopher H. Onder FISITA World Automotive Congress (BEXCO 2016), Busan, Korea, pp.F2016-ESYB-003, September 26-30, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "In vitro comparison of anti-siphon mechanisms under postural changes",
+      "year": 2016,
+      "citation_raw": "In vitro comparison of anti-siphon mechanisms under postural changes Manuel Gehlen, Anders Eklund, Vartan Kurtcuoglu, Jan Malm and Marianne Schmid Daners 8th Meeting of the International Society of Hydrocephalus and Cerebrospinal Fluid Disorders, Cartagena, Colombia, pp.60-60, Cartagena: Hydrocephalus 2016, October 8-10, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modelling of posture-related changes in cerebrospinal fluid dynamics",
+      "year": 2016,
+      "citation_raw": "Modelling of posture-related changes in cerebrospinal fluid dynamics Manuel Gehlen, Vartan Kurtcuoglu and Marianne Schmid Daners 8th Meeting of the International Society for Hydrocephalus and Cerebrospinal 2016, Cartagena, Colombia, October 8-10, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Patient Specific Hardware-in-the-Loop Testing of Cerebrospinal Fluid Shunt Systems",
+      "year": 2016,
+      "citation_raw": "Patient Specific Hardware-in-the-Loop Testing of Cerebrospinal Fluid Shunt Systems Manuel Gehlen, Vartan Kurtcuoglu and Marianne Schmid Daners IEEE Transactions on Biomedical Engineering, vol. 63: no. 2, pp. 348-358, IEEE, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Diesel-Minimal Combustion Control of a Natural Gas-Diesel Engine",
+      "year": 2016,
+      "citation_raw": "Diesel-Minimal Combustion Control of a Natural Gas-Diesel Engine Florian Zurbriggen, Richard Hutter and Christopher Onder Energies, vol. 9: no. 1, pp. 58, MDPI, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Diesel Engine Operating Strategies: PM, NOx and CO2; A Three Dimensional Trade-Off, as opposed to a single-pollutant minimization",
+      "year": 2016,
+      "citation_raw": "Diesel Engine Operating Strategies: PM, NOx and CO2; A Three Dimensional Trade-Off, as opposed to a single-pollutant minimization Christophe Barro, Philipp Elbert, Panagiotis Kyrtatos and Konstantinos Boulouchos 20th ETH Conference on Combustion Generated Nanoparticles, Zurich, Switzerland, pp.5-5, Zurich: ETH Zurich, June 13-16, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Energy and Emission Management of a Diesel Hybrid Electric Vehicle Equipped with a Selective Catalytic Reduction System",
+      "year": 2016,
+      "citation_raw": "Optimal Energy and Emission Management of a Diesel Hybrid Electric Vehicle Equipped with a Selective Catalytic Reduction System Florian Tschopp, Tobias Nüesch, Mu Wang and Christopher H. Onder SAE International Journal of Alternative Powertrains, vol. 5: no. 1, pp. 2548, SAE International, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modelling the posture-related changes in cerebrospinal fluid dynamics",
+      "year": 2016,
+      "citation_raw": "Modelling the posture-related changes in cerebrospinal fluid dynamics Manuel Gehlen, Vartan Kurtcuoglu and Marianne Schmid Daners Virtual Physiological Human (VPH) Conference, Amsterdam, Netherlands, September 26-28, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Analysis of PM and PN in Dual Fuel Engine, Fuelled with Natural Gas and OME",
+      "year": 2016,
+      "citation_raw": "Analysis of PM and PN in Dual Fuel Engine, Fuelled with Natural Gas and OME Christophe Barro, R. Hutter, F. Möri, Konstantinos Boulouchos and J. Burger Poster presented at the 20th ETH Conference on Combustion Generated Nanoparticles, Zürich, Switzerland, June 13-16, 2016.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Hardware-in-the-loop testing of CSF shunts",
+      "year": 2015,
+      "citation_raw": "Hardware-in-the-loop testing of CSF shunts Manuel Gehlen, Vartan Kurtcuoglu and Marianne Schmid Daners Hydrocephalus 2015, Banff, Canada, pp.O2 London: BioMed Central, September 18-21, 2015.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Continuous positive airway pressure alters cranial blood flow and cerebrospinal fluid dynamics at the craniovertebral junction",
+      "year": 2015,
+      "citation_raw": "Continuous positive airway pressure alters cranial blood flow and cerebrospinal fluid dynamics at the craniovertebral junction Theresia I. Yiallourou, Marianne Schmid Daners, Vartan Kurtcuoglu, José Haba-Rubio, Raphael Heinzer, Eleonora Fornani, Francesco Santini, Daniel B. Sheffer, Nikolaos Stergiopulos and Bryn A. Martin Interdisciplinary Neurosurgery, vol. 2: no. 3, pp. 152-159, Elsevier, 2015.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Recursive parameter estimation of exhaust gas oxygen sensors with input-dependent time delay and linear parameters",
+      "year": 2015,
+      "citation_raw": "Recursive parameter estimation of exhaust gas oxygen sensors with input-dependent time delay and linear parameters Michael M. Moser, Christopher H. Onder and Lino Guzzella Control Engineering Practice, vol. 41, pp. 149-163, Elsevier, 2015.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Least Squares Estimation-Based Parameterization Method for a Control-Oriented Model of Selective Catalytic Reduction Systems",
+      "year": 2015,
+      "citation_raw": "A Least Squares Estimation-Based Parameterization Method for a Control-Oriented Model of Selective Catalytic Reduction Systems Mu Wang, Christopher H. Onder and Lino Guzzella International Journal of Powertrains, vol. 4: no. 2, pp. 163-189, Inderscience, 2015.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modelling of the exhaust temperature for diesel engines for start of injection variation",
+      "year": 2015,
+      "citation_raw": "Modelling of the exhaust temperature for diesel engines for start of injection variation Michael Abt, Mu Wang and Christopher H. Onder International Combustion Engines Conferences, London, United Kingdom: Institution of Mechanical Engineers, December 2-3, 2015.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "FVV Herbsttagung 2015, Würzburg, Germany",
+      "year": 2015,
+      "citation_raw": "Emissionsoptimierter Dieselmotor Philipp Elbert, Christophe Barro, Alois Amstutz, Christopher H. Onder and Konstantinos Boulouchos FVV Herbsttagung 2015, Würzburg, Germany, pp.4-45, Frankfurt: Forschungsvereinigung Verbrennungskraftmaschinen e.V., September 29-30, 2015.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "An energy efficient trajectory tracking controller for car-like vehicles using Model Predictive Control",
+      "year": 2015,
+      "citation_raw": "An energy efficient trajectory tracking controller for car-like vehicles using Model Predictive Control Mauro Salazar, Andrea Alessandretti, A. Pedro Aguiar and Colin N. Jones 54th IEEE Conference on Decision and Control (CDC 2015), Osaka, Japan, pp.3675-3680, Piscataway, NJ: IEEE, December 15-18, 2015.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "THE Post Injection: Coalescence of 3D CFD-CMC Simulation, 2D Visualizations in a Constant Volume Chamber and Application in a Modern Passenger Car Diesel Engine",
+      "year": 2015,
+      "citation_raw": "THE Post Injection: Coalescence of 3D CFD-CMC Simulation, 2D Visualizations in a Constant Volume Chamber and Application in a Modern Passenger Car Diesel Engine Christophe Barro, Sushant Pandurangi, Philipp Meyer, Konstantinos Boulouchos, Philipp Elbert and Yuri M. Wright SAE 12th International Conference on Engines & Vehicles, Naples, Italy, pp.2015-24-2515 New York, NY: SAE, September 13-17, 2015.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Design Methodology of Camshaft Driven Charge Valves for Pneumatic Engine Starts",
+      "year": 2012,
+      "citation_raw": "Design Methodology of Camshaft Driven Charge Valves for Pneumatic Engine Starts Stefan M. Moser, Christoph Voser, Christopher H. Onder and Lino Guzzella IFAC Workshop on Engine and Powertrain Control, Simulation and Modeling (E-COSM’12), Rueil-Malmaison, France, pp.179-194, Paris: Editions Technip, October 23-25, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Highly efficient and near zero-emission micro combined heat and power gas engine appropriate for grid balancing",
+      "year": 2015,
+      "citation_raw": "Highly efficient and near zero-emission micro combined heat and power gas engine appropriate for grid balancing P. Vögelin, R. Hutter, C. Schürch, A. Ritter, P. Obrecht, Christopher H. Onder and Konstantinos Boulouchos 9. Dessauer Gasmotoren-Konferenz, Dessau, Germany: WTZ Roßlau, April 16-17, 2015.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Stochastic dynamic programming for the energy management of a serial hybrid electric bus",
+      "year": 2015,
+      "citation_raw": "Stochastic dynamic programming for the energy management of a serial hybrid electric bus Philipp Elbert, Martin Widmer, Hans-Jörg Gisler and Christopher H. Onder International journal of vehicle design, vol. 69: no. 1/2/3/4, pp. 88-112, Inderscience, 2015.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Sensitivity analysis for robust design of building energy systems",
+      "year": 2013,
+      "citation_raw": "Sensitivity analysis for robust design of building energy systems Araz Ashouri, Flavio Petrini, Raffaele Bornatico and Michael J. Benz 8th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES2013), Dubrovnik, Croatia, pp.264-275, Amsterdam: Elsevier, September 22-27, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Synchronized Pulsatile Speed Control of Turbodynamic Left Ventricular Assist Devices: Review and Prospects",
+      "year": 2014,
+      "citation_raw": "Synchronized Pulsatile Speed Control of Turbodynamic Left Ventricular Assist Devices: Review and Prospects Raffael Amacher, Gregor Ochsner and Marianne Schmid Daners Artificial Organs, vol. 38: no. 10, pp. 867-875, Wiley-Blackwell, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Engine On/Off Control for the Energy Management of a Serial Hybrid Electric Bus via Convex Optimization",
+      "year": 2014,
+      "citation_raw": "Engine On/Off Control for the Energy Management of a Serial Hybrid Electric Bus via Convex Optimization Philipp Elbert, Tobias Nüesch, Andreas Ritter, Nikolce Murgovski and Lino Guzzella IEEE Transactions on Vehicular Technology, vol. 63: no. 8, pp. 3549-3559, IEEE, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Control of the Heat Release Rate of an Internal Combustion Engine With Pressure Gradient, Maximum Pressure, and Knock Constraints",
+      "year": 2014,
+      "citation_raw": "Optimal Control of the Heat Release Rate of an Internal Combustion Engine With Pressure Gradient, Maximum Pressure, and Knock Constraints Florian Zurbriggen, Tobias Ott, Christopher H. Onder and Lino Guzzella Journal of Dynamic Systems, Measurement, and Control, vol. 136: no. 6, pp. 061006-1-061006-9, American Society of Mechanical Engineers, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Cascaded control of combustion and pollutant emissions in diesel engines",
+      "year": 2014,
+      "citation_raw": "Cascaded control of combustion and pollutant emissions in diesel engines Frédéric Tschanz, Stephan Zentner, Christopher H. Onder and Lino Guzzella Control Engineering Practice, vol. 29, pp. 176-186, Elsevier, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Effects of Thoratec pulsatile ventricular assist device (PVAD) timing on the abdominal aortic wave intensity pattern",
+      "year": 2014,
+      "citation_raw": "Effects of Thoratec pulsatile ventricular assist device (PVAD) timing on the abdominal aortic wave intensity pattern Silje Ekroll Jahren, Raffael Amacher, Alberto Weber, Henriette Most, Shannon Axiak Flammer, Tobias Traupe, Michael Stoller, Stefano de Marchi and Stijn Vandenberghe American Journal of Physiology. Heart and Circulatory Physiology, vol. 307: no. 8, pp. H1243-H1251, American Physiological Society, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Dynamic Feedforward Control of a Diesel Engine Based on Optimal Transient Compensation Maps",
+      "year": 2014,
+      "citation_raw": "Dynamic Feedforward Control of a Diesel Engine Based on Optimal Transient Compensation Maps Giorgio Mancini, Jonas Asprion, Nicolò Cavina, Christopher H. Onder and Lino Guzzella Energies, vol. 7: no. 8, pp. 5400-5424, MDPI, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A cascaded control structure for air-path control of diesel engines",
+      "year": 2014,
+      "citation_raw": "A cascaded control structure for air-path control of diesel engines Stephan Zentner, Erika Schäfer, Gerald Fast, Christopher H. Onder and Lino Guzzella Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, vol. 228: no. 7, pp. 799-817, SAGE, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Variable Caster Steering",
+      "year": 2014,
+      "citation_raw": "Variable Caster Steering Matthäus B. Alberding, Christopher H. Onder, Frank Sager and Lino Guzzella IEEE Transactions on Vehicular Technology, vol. 63: no. 4, pp. 1513-1529, IEEE, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Equivalent Consumption Minimization Strategy for the Control of Real Driving NOx Emissions of a Diesel Hybrid Electric Vehicle",
+      "year": 2014,
+      "citation_raw": "Equivalent Consumption Minimization Strategy for the Control of Real Driving NOx Emissions of a Diesel Hybrid Electric Vehicle Tobias Nüesch, Alberto Cerofolini, Giorgio Mancini, Nicolò Cavina, Christopher H. Onder and Lino Guzzella Energies, vol. 7: no. 5, pp. 3148-3178, MDPI, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Flow induced by ependymal cilia dominates near-wall cerebrospinal fluid dynamics in the lateral ventricles",
+      "year": 2014,
+      "citation_raw": "Flow induced by ependymal cilia dominates near-wall cerebrospinal fluid dynamics in the lateral ventricles Bercan Siyahhan, Verena Knobloch, Diane de Zélicourt, Mahdi Asgari, Marianne Schmid Daners, Dimos Poulikakos and Vartan Kurtcuoglu Journal of the Royal Society. Interface, vol. 11: no. 94, pp. 20131189, Royal Society, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Analysis of Pressure Head-Flow Loops of Pulsatile Rotodynamic Blood Pumps",
+      "year": 2014,
+      "citation_raw": "Analysis of Pressure Head-Flow Loops of Pulsatile Rotodynamic Blood Pumps Silje E. Jahren, Gregor Ochsner, Fangjun Shu, Raffael Amacher, James F. Antaki and Stijn Vandenberghe Artificial Organs, vol. 38: no. 4, pp. 316-326, Blackwell, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "An Equivalent Emission Minimization Strategy for Causal Optimal Control of Diesel Engines",
+      "year": 2014,
+      "citation_raw": "An Equivalent Emission Minimization Strategy for Causal Optimal Control of Diesel Engines Stephan Zentner, Jonas Asprion, Christopher H. Onder and Lino Guzzella Energies, vol. 7: no. 3, pp. 1230-1250, MDPI, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Numerical optimal control of turbodynamic ventricular assist devices",
+      "year": 2014,
+      "citation_raw": "Numerical optimal control of turbodynamic ventricular assist devices Raffael Amacher, Jonas Asprion, Gregor Ochsner, Hendrik Tevaearai, Markus J. Wilhelm, André Plass, Alois Amstutz, Stijn Vandenberghe and Marianne Schmid Daners Bioengineering, vol. 1: no. 1, pp. 22-46, MDPI, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Convex Optimization for the Energy Management of Hybrid Electric Vehicles Considering Engine Start and Gearshift Costs",
+      "year": 2014,
+      "citation_raw": "Convex Optimization for the Energy Management of Hybrid Electric Vehicles Considering Engine Start and Gearshift Costs Tobias Nüesch, Philipp Elbert, Michael Flankl, Christopher H. Onder and Lino Guzzella Energies, vol. 7: no. 2, pp. 834-856, MDPI, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Using exhaust pressure pulsations to detect deteriorations of oxygen sensor dynamics",
+      "year": 2014,
+      "citation_raw": "Using exhaust pressure pulsations to detect deteriorations of oxygen sensor dynamics Michael M. Moser, Christopher H. Onder and Lino Guzzella Sensors and Actuators B: Chemical, vol. 191, pp. 384-395, Elsevier, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Development and evaluation of a prototype tracking system using the treatment couch",
+      "year": 2014,
+      "citation_raw": "Development and evaluation of a prototype tracking system using the treatment couch Stephanie Lang, Jörg Zeimetz, Gregor Ochsner, Marianne Schmid Daners, Oliver Riesterer and Stephan Klöck Medical Physics, vol. 41: no. 2, pp. 021720, American Institute of Physics, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "EKF based self-adaptive thermal model for a passive house",
+      "year": 2014,
+      "citation_raw": "EKF based self-adaptive thermal model for a passive house Samuel Fux, Araz Ashouri, Michael Benz and Lino Guzzella Energy and Buildings, vol. 68, pp. 811-817, Elsevier, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A framework for the iterative dynamic optimisation of diesel engines: Numerical methods, experimental setup, and first results",
+      "year": 2014,
+      "citation_raw": "A framework for the iterative dynamic optimisation of diesel engines: Numerical methods, experimental setup, and first results Jonas Asprion, Giorgio Mancini, Stephan Zentner, Christopher H. Onder, Nicolò Cavina and Lino Guzzella 1st International Conference on Energy Production and Management in the 21st Century: The Quest for Sustainable Energy, Ekateringburg, Russia, pp.1265-1281, Southampton: WIT Press, April 23-25, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Simultaneous Design and Control of Energy Systems",
+      "year": 2014,
+      "citation_raw": "Simultaneous Design and Control of Energy Systems Araz Ashouri Doctoral Thesis, Zurich, ETH Zurich, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Energy Management for a Diesel Hybrid Electric Vehicle Considering Transient PM and Quasi-Static NOx Emissions",
+      "year": 2014,
+      "citation_raw": "Optimal Energy Management for a Diesel Hybrid Electric Vehicle Considering Transient PM and Quasi-Static NOx Emissions Tobias Nüesch, Mu Wang, Pascal Iseneggger, Christopher H. Onder, Rüdiger Steiner, Pedro Macri-Lassus and Lino Guzzella Control Engineering Practice, vol. 29, pp. 266-276, Elsevier, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A control benchmark on the energy management of a plug-in hybrid electric vehicle",
+      "year": 2014,
+      "citation_raw": "A control benchmark on the energy management of a plug-in hybrid electric vehicle A. Sciarretta, L. Serrao, G. Dewangan, P. Tona, E.N.D. Bergshoeff, Carlos Bordons, L. Charmpa, Philipp Elbert, L. Eriksson, Theo Hofman, M. Hubacher, P. Isenegger, F. Lacandia, B. Laveau, H. Li, D. Marcos, Tobias Nüesch, S. Onori, M. Pisu, J. Rios, E. Silvas, M. Sivertsson, L. Tribioli, A.-J. van der Hoeven and M. Wu Control Engineering Practice, vol. 29, pp. 287-298, Elsevier, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Control of Diesel Engines: Numerical Methods, Applications, and Experimental Validation",
+      "year": 2014,
+      "citation_raw": "Optimal Control of Diesel Engines: Numerical Methods, Applications, and Experimental Validation Jonas Asprion, Oscar Chinellato and Lino Guzzella Mathematical Problems in Engineering, vol. 2014, pp. 286538, Hindawi, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Energy Management of Hybrid Electric Vehicles",
+      "year": 2014,
+      "citation_raw": "Energy Management of Hybrid Electric Vehicles Tobias Nüesch Doctoral Thesis, Zurich, ETH Zurich, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A physiological controller for turbodynamic ventricular assist devices based on a measurement of the left ventricular volume",
+      "year": 2014,
+      "citation_raw": "A physiological controller for turbodynamic ventricular assist devices based on a measurement of the left ventricular volume Gregor Ochsner, Raffael Amacher, Markus J. Wilhelm, Stijn Vandenberghe, Hendrik Tevaearai, André Plass, Alois Amstutz, Volkmar Falk and Marianne Schmid Daners Artificial Organs, vol. 38: no. 7, pp. 527-538, Wiley-Blackwell, 2014.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal design and operation of building services using mixed-integer linear programming techniques",
+      "year": 2013,
+      "citation_raw": "Optimal design and operation of building services using mixed-integer linear programming techniques Araz Ashouri, Samuel S. Fux, Michael J. Benz and Lino Guzzella Energy, vol. 59, pp. 365-376, Elsevier, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Control of ventricular unloading using an electrocardiogram-synchronized Thoratec paracorporeal ventricular assist device",
+      "year": 2013,
+      "citation_raw": "Control of ventricular unloading using an electrocardiogram-synchronized Thoratec paracorporeal ventricular assist device R. Amacher, A. Weber, H. Brinks, S. Axiak, A. Ferreira, Lino Guzzella, T. Carrel, J. Antaki and S. Vandenberghe The Journal of Thoracic and Cardiovascular Surgery, vol. 146: no. 3, pp. 710-717, Mosby, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model-Based Injection and EGR Adaptation and its Impact on Transient Emissions and Drivability of a Diesel Engine",
+      "year": 2013,
+      "citation_raw": "Model-Based Injection and EGR Adaptation and its Impact on Transient Emissions and Drivability of a Diesel Engine Stephan Zentner, Erika Schäfer, Christopher Onder and Lino Guzzella 7th IFAC Symposium on Advances in Automotive Control (AAC 2013), Tokyo, Japan, pp.89-94, Oxford: Elsevier, September 4-7, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Including drag phases in numerical optimal control of diesel engines",
+      "year": 2013,
+      "citation_raw": "Including drag phases in numerical optimal control of diesel engines Jonas Asprion, Christopher Onder and Lino Guzzella 7th IFAC Symposium on Advances in Automotive Control (AAC 2013), Tokyo, Japan, pp.489-494, Oxford: Elsevier, September 4-7, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Surrogate modeling for the fast optimization of energy systems",
+      "year": 2013,
+      "citation_raw": "Surrogate modeling for the fast optimization of energy systems Raffaele Bornatico, J. Hussy, Andreas Witzig and Lino Guzzella Energy, vol. 57, pp. 653-662, Elsevier, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Hybrid-Electric Vehicle with Natural Gas-Diesel Engine",
+      "year": 2013,
+      "citation_raw": "Hybrid-Electric Vehicle with Natural Gas-Diesel Engine Tobias Ott, Christopher H. Onder and Lino Guzzella Energies, vol. 6: no. 7, pp. 3571-3592, MDPI, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Economic and environmental aspects of the component sizing for a stand-alone building energy system: A case study",
+      "year": 2013,
+      "citation_raw": "Economic and environmental aspects of the component sizing for a stand-alone building energy system: A case study Samuel F. Fux, Michael J. Benz and Lino Guzzella Renewable Energy, vol. 55, pp. 438-447, Elsevier, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Implementation of Dynamic Programming for n-Dimensional Optimal Control Problems With Final State Constraints",
+      "year": 2013,
+      "citation_raw": "Implementation of Dynamic Programming for n-Dimensional Optimal Control Problems With Final State Constraints Philipp Valentin Elbert, Soeren Ebbesen and Lino Guzzella IEEE Transactions on Control Systems Technology, vol. 21: no. 3, pp. 924-931, IEEE, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A fast and accurate physics-based model for the NOx emissions of Diesel engines",
+      "year": 2013,
+      "citation_raw": "A fast and accurate physics-based model for the NOx emissions of Diesel engines Jonas Asprion, Oscar Chinellato and Lino Guzzella Applied Energy, vol. 103: no. 3, pp. 221-233, Elsevier, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Intake Manifold Boosting of Turbocharged Spark-Ignited Engines",
+      "year": 2013,
+      "citation_raw": "Intake Manifold Boosting of Turbocharged Spark-Ignited Engines Norbert Zsiga, Christoph Voser, Christopher H. Onder and Lino Guzzella Energies, vol. 6: no. 3, pp. 1746-1763, MDPI, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Novel Interface for Hybrid Mock Circulations to Evaluate Ventricular Assist Devices",
+      "year": 2013,
+      "citation_raw": "A Novel Interface for Hybrid Mock Circulations to Evaluate Ventricular Assist Devices Gregor Ochsner, Raffael Amacher, Alois Amstutz, Andre Plass, Marianne Schmid Daners, Hendrik Tevaearai, Stijn Vandenberghe, Markus J. Wilhelm and Lino Guzzella IEEE Transactions on Biomedical Engineering, vol. 60: no. 2, pp. 507-516, IEEE, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Control of diesel engines using NOx-emission feedback",
+      "year": 2013,
+      "citation_raw": "Control of diesel engines using NOx-emission feedback Frédéric Tschanz, Alois Amstutz, Christopher H. Onder and Lino Guzzella International Journal of Engine Research, vol. 14: no. 1, pp. 45-56, SAGE, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "System Design for a Direct-Boost Turbocharged SI Engine Using a Camshaft Driven Valve",
+      "year": 2012,
+      "citation_raw": "System Design for a Direct-Boost Turbocharged SI Engine Using a Camshaft Driven Valve Christoph Voser, Christopher H. Onder and Lino Guzzella FISITA 2012 World Automotive Congress, Beijing, China, pp.127-138, Heidelberg: Springer, November 27-30, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "From static to dynamic optimisation of Diesel-engine control",
+      "year": 2013,
+      "citation_raw": "From static to dynamic optimisation of Diesel-engine control Jonas Asprion, Oscar Chinellato, Christopher H. Onder and Lino Guzzella 2013 IEEE 52nd Annual Conference on Decision and Control (CDC), Florence, Italy, pp.6824-6829, Piscataway, NJ: IEEE, December 10-13, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Feedback control of particulate matter and nitrogen oxide emissions in diesel engines",
+      "year": 2013,
+      "citation_raw": "Feedback control of particulate matter and nitrogen oxide emissions in diesel engines Frédéric Tschanz, Alois Amstutz, Christopher H. Onder and Lino Guzzella Control Engineering Practice, vol. 21: no. 12, pp. 1809-1820, Elsevier, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Short-term thermal and electric load forecasting in buildings",
+      "year": 2013,
+      "citation_raw": "Short-term thermal and electric load forecasting in buildings Samuel F. Fux, Michael J. Benz, Araz Ashouri and Lino Guzzella CISBAT Conference 2013, Lausanne, September 4-6, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal control of diesel engines: modelling, numerical methods, and applications",
+      "year": 2013,
+      "citation_raw": "Optimal control of diesel engines: modelling, numerical methods, and applications Jonas Asprion Doctoral Thesis, Zurich, ETH Zurich, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Assessment of intracranial dynamics in hydrocephalus: Effects of viscoelasticity on the outcome of infusion tests",
+      "year": 2013,
+      "citation_raw": "Assessment of intracranial dynamics in hydrocephalus: Effects of viscoelasticity on the outcome of infusion tests Simone Bottan, Marianne Schmid Daners, Diane de Zelicourt, Norina Fellner, Dimos Poulikakos and Vartan Kurtcuoglu Journal of Neurosurgery, vol. 119: no. 6, pp. 1511-1519, American Association of Neurological Surgeons, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Independent power supply for commercial vehicle trailers",
+      "year": 2013,
+      "citation_raw": "Independent power supply for commercial vehicle trailers Matthäus B. Alberding, Christopher H. Onder, Lino Guzzella and F. Sager International Journal of Heavy Vehicle Systems, vol. 20: no. 4, pp. 342-360, Inderscience, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Cycle-averaged efficiency of hybrid electric vehicles",
+      "year": 2013,
+      "citation_raw": "Cycle-averaged efficiency of hybrid electric vehicles Tobias Ott, Florian Zurbriggen, Christopher H. Onder and Lino Guzzella Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, vol. 227: no. 1, pp. 78-86, SAGE, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Robust Reference Signal Generator for Synchronized Ventricular Assist Devices",
+      "year": 2013,
+      "citation_raw": "A Robust Reference Signal Generator for Synchronized Ventricular Assist Devices Raffael Amacher, Gregor Ochsner, Antonio Ferreira, Stijn Vandenberghe and Marianne Schmid Daners IEEE Transactions on Biomedical Engineering, vol. 60: no. 8, pp. 2174-2183, IEEE, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal energy management and component sizing of a stand-alone building energy system",
+      "year": 2013,
+      "citation_raw": "Optimal energy management and component sizing of a stand-alone building energy system Samuel F. Fux Doctoral Thesis, Zurich, ETH Zurich, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Emulation of Ventricular Suction in a Hybrid Mock Circulation",
+      "year": 2013,
+      "citation_raw": "Emulation of Ventricular Suction in a Hybrid Mock Circulation Gregor Ochsner, Raffael Amacher and Marianne Schmid Daners European Control Conference (ECC 2013), Zurich, Switzerland, pp.3108-3112, Piscataway, NJ: IEEE, July 17-19, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Steering of semi-trailers",
+      "year": 2013,
+      "citation_raw": "Steering of semi-trailers Matthäus B. Alberding Doctoral Thesis, Zurich, ETH Zurich, 2013.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Engine Downsizing and Electric Hybridization Under Consideration of Cost and Drivabilitiy",
+      "year": 2011,
+      "citation_raw": "Engine Downsizing and Electric Hybridization Under Consideration of Cost and Drivabilitiy Soren Ebbesen, Philipp Elbert and Lino Guzzella International Scientific Conference on Hybrid and Electric Vehicles (RHEVE 2011), Rueil-Malmaison, France, pp.109-116, Paris: Editions Technip, December 6-7, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Combined Optimal Sizing and Control for a Hybrid Tracked Vehicle",
+      "year": 2012,
+      "citation_raw": "Combined Optimal Sizing and Control for a Hybrid Tracked Vehicle Yuan Zou, Fengchun Sun, Xiaosong Hu, Lino Guzzella and Huei Peng Energies, vol. 5: no. 11, pp. 4697-4710, MDPI, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "In-cylinder boosting of turbocharged spark-ignited engines. Part 2: Control and experimental verification",
+      "year": 2012,
+      "citation_raw": "In-cylinder boosting of turbocharged spark-ignited engines. Part 2: Control and experimental verification Christoph Voser, Tobias Ott, Christian Dönitz, Christopher H. Onder and Lino Guzzella Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, vol. 226: no. 11, pp. 1564-1574, SAGE, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Monte Rosa Hütte: Integrierte Haussysteme für optimale Energie- und Stoffbewirtschaftung. Schlussbericht",
+      "year": 2012,
+      "citation_raw": "Monte Rosa Hütte: Integrierte Haussysteme für optimale Energie- und Stoffbewirtschaftung. Schlussbericht Samuel Fux, Benz Michael, Sidler Franz, Menti Urs-Peter, Iwan Plüss and Markus Gwerder pp. 290761, Bern: Bundesamt für Energie BFE, Forschungsprogramm Energie in Gebäuden, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Battery State-of-Health Perceptive Energy Management for Hybrid Electric Vehicles",
+      "year": 2012,
+      "citation_raw": "Battery State-of-Health Perceptive Energy Management for Hybrid Electric Vehicles Soren Ebbesen, Philipp Elbert and Lino Guzzella IEEE Transactions on Vehicular Technology, vol. 61: no. 7, pp. 2893-2900, IEEE, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Topology Optimization for Hybrid Electric Vehicles With Automated Transmissions",
+      "year": 2012,
+      "citation_raw": "Topology Optimization for Hybrid Electric Vehicles With Automated Transmissions Theo Hofman, Søren Ebbesen and Lino Guzzella IEEE Transactions on Vehicular Technology, vol. 61: no. 6, pp. 2442-2451, IEEE, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Cost-optimal design of an ice-storage cooling system using mixed-integer linear programming techniques under various electricity tariff schemes",
+      "year": 2012,
+      "citation_raw": "Cost-optimal design of an ice-storage cooling system using mixed-integer linear programming techniques under various electricity tariff schemes Jan Vetterli and Michael Benz Energy and Buildings, vol. 49, pp. 226-234, Elsevier, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Age-Specific Characteristics and Coupling of Cerebral Arterial Inflow and Cerebrospinal Fluid Dynamics",
+      "year": 2012,
+      "citation_raw": "Age-Specific Characteristics and Coupling of Cerebral Arterial Inflow and Cerebrospinal Fluid Dynamics Marianne Schmid Daners, Verena Knobloch, Michaela Soellinger, Peter Bösiger, Burkhardt Seifert, Lino Guzzella and Vartan Kurtcuoglu PLoS ONE, vol. 7: no. 5, pp. e37502, PLOS, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal sizing of a solar thermal building installation using particle swarm optimization",
+      "year": 2012,
+      "citation_raw": "Optimal sizing of a solar thermal building installation using particle swarm optimization Raffaele Bornatico, Michael Pfeiffer, Andreas Witzig and Lino Guzzella Energy, vol. 41: no. 1, pp. 31-37, Elsevier, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Design methodology of camshaft driven charge valves for pneumatic engine starts",
+      "year": 2012,
+      "citation_raw": "Design methodology of camshaft driven charge valves for pneumatic engine starts Michael Moser, Christoph Voser, Christopher H. Onder and Lino Guzzella 3rd IFAC Workshop on Engine and Powertrain Control, Simulation and Modeling (E-COSM 2012), Rueil-Malmaison, France, pp.33-40, Oxford: Elsevier, October 23-25, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Control of the PM and NOx Emissions in Diesel Engines Using a Virtual Soot Sensor",
+      "year": 2012,
+      "citation_raw": "Control of the PM and NOx Emissions in Diesel Engines Using a Virtual Soot Sensor Frédéric Tschanz, Christophe Barro, Alois Amstutz, Peter Obrecht, Lino Guzzella and Konstantinos Boulouchos 21st Aachen Colloquium Automobile and Engine Technology 2012, Aachen, Germany, pp.1261-1286, Aachen: VKA, October 8-10, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Implementation of comfort constraints in dynamic programming for hybrid vehicle energy management",
+      "year": 2012,
+      "citation_raw": "Implementation of comfort constraints in dynamic programming for hybrid vehicle energy management Maxime Debert, Padovani Thomas M., Guillaume Colin, Yann Chamaillard and Lino Guzzella International journal of vehicle design, vol. 58: no. 2–4, pp. 367-386, Inderscience, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Cost and fuel-optimal selection of HEV topologies using Particle Swarm Optimization and Dynamic Programming",
+      "year": 2012,
+      "citation_raw": "Cost and fuel-optimal selection of HEV topologies using Particle Swarm Optimization and Dynamic Programming Tobias Nüesch, Tobias Ott, Soren Ebbesen and Lino Guzzella 2012 American Control Conference (ACC 2012), Montreal, Canada, pp.1302-1307, Piscataway, NJ: IEEE, June 27-29, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "In-cylinder boosting of turbocharged spark-ignited engines. Part 1: Model-based design of the charge valve",
+      "year": 2012,
+      "citation_raw": "In-cylinder boosting of turbocharged spark-ignited engines. Part 1: Model-based design of the charge valve Christoph Voser, Christian Dönitz, Gregor Ochsner, Christopher H. Onder and Lino Guzzella Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, vol. 226: no. 10, pp. 1408-1418, SAGE, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Particle swarm optimisation for hybrid electric drive-train sizing",
+      "year": 2012,
+      "citation_raw": "Particle swarm optimisation for hybrid electric drive-train sizing Soren Ebbesen, Christian Dönitz and Lino Guzzella The Journal of Supercritical Fluids, vol. 58: no. 2-4, pp. 181-199, Elsevier, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Craniospinal Pressure–Volume Dynamics in Phantom Models",
+      "year": 2012,
+      "citation_raw": "Craniospinal Pressure–Volume Dynamics in Phantom Models Marianne Schmid Daners, Simone Bottan, Lino Guzzella, Dimos Poulikakos and Vartan Kurtcuoglu IEEE Transactions on Biomedical Engineering, vol. 59: no. 12, pp. 3482-3490, IEEE, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Cascaded multivariable control of the combustion in diesel engines",
+      "year": 2012,
+      "citation_raw": "Cascaded multivariable control of the combustion in diesel engines Frédéric Tschanz, Stephan Zentner, Engin Özatay, Christopher H. Onder and Lino Guzzella 3rd IFAC Workshop on Engine and Powertrain Control, Simulation and Modeling (E-COSM 2012), Rueil-Malmaison, France, pp.25-32, Oxford: Elsevier, October 23-25, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal energy management and sizing for hybrid electric vehicles considering transient emissions",
+      "year": 2012,
+      "citation_raw": "Optimal energy management and sizing for hybrid electric vehicles considering transient emissions Tobias Nüesch, Mu Wang, Christoph Voser and Lino Guzzella 3rd IFAC Workshop on Engine and Powertrain Control, Simulation and Modeling (E-COSM 2012), Rueil-Malmaison, France, pp.278-285, Oxford: Elsevier, October 23-25, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Capacitors vs Batteries in a Production Hybrid Electric Bus",
+      "year": 2012,
+      "citation_raw": "Capacitors vs Batteries in a Production Hybrid Electric Bus Hans-Jörg Gisler and Philipp Valentin Elbert 9th Symposium Hybrid and Electric Vehicles, Braunschweig, Germany: IAV Automotive Engineering, February 13-14, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal sizing and control of hybrid electric vehicles",
+      "year": 2012,
+      "citation_raw": "Optimal sizing and control of hybrid electric vehicles Søren Ebbesen Doctoral Thesis, Zürich, ETH, Institute for Dynamic Systems and Control, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Comparing Control Strategies for EV and PHEV Fleets Providing Regulation Ancillary Services",
+      "year": 2012,
+      "citation_raw": "Comparing Control Strategies for EV and PHEV Fleets Providing Regulation Ancillary Services Araz Ashouri, Michael J. Benz and Lino Guzzella 2012 IEEE Multi-Conference on Systems and Control, Dubrovnik, Croatia, pp.739-744, Piscataway, NJ: IEEE, October 3-5, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Generic Particle Swarm Optimization Matlab Function",
+      "year": 2012,
+      "citation_raw": "A Generic Particle Swarm Optimization Matlab Function Soren Ebbesen, Pascal Kiwitz and Lino Guzzella 2012 American Control Conference (ACC 2012), Montreal, Canada, pp.1519-1524, Piscataway, NJ: IEEE, June 27-29, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Fast algorithms for the optimization of energy systems",
+      "year": 2012,
+      "citation_raw": "Fast algorithms for the optimization of energy systems Raffaele G. Bornatico Doctoral Thesis, Zürich, ETH, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Adaptive shunts for cerebrospinal fluid control",
+      "year": 2012,
+      "citation_raw": "Adaptive shunts for cerebrospinal fluid control Marianne Schmid Daners Doctoral Thesis, Zürich, ETH, 2012.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Robustness analysis of a Fourier-based strategy for cylinder-individual air–fuel ratio control",
+      "year": 2011,
+      "citation_raw": "Robustness analysis of a Fourier-based strategy for cylinder-individual air–fuel ratio control Wolfgang Schick, Christopher H. Onder and Lino Guzzella Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, vol. 225: no. 12, pp. 1671-1682, Professional Engineering Publishing, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Series Viscoelastic Actuators Can Match Human Force Perception",
+      "year": 2011,
+      "citation_raw": "Series Viscoelastic Actuators Can Match Human Force Perception Federico Parietti, Gabriel Baud-Bovy, Elia Gatti, Robert Riener, Lino Guzzella and Heike Vallery IEEE/ASME Transactions on Mechatronics, vol. 16: no. 5, pp. 853-860, IEEE, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Validation of the Fuel Saving Potential of Downsized and Supercharged Hybrid Pneumatic Engines Using Vehicle Emulation Experiments",
+      "year": 2011,
+      "citation_raw": "Validation of the Fuel Saving Potential of Downsized and Supercharged Hybrid Pneumatic Engines Using Vehicle Emulation Experiments Christian Dönitz, Christoph Voser, Iulian Vasile, Christopher H. Onder and Lino Guzzella Journal of Engineering for Gas Turbines and Power, vol. 133: no. 9, pp. 092801, American Society of Mechanical Engineers, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Energy-Optimal Control of Plug-in Hybrid Electric Vehicles for Real-World Driving Cycles",
+      "year": 2011,
+      "citation_raw": "Energy-Optimal Control of Plug-in Hybrid Electric Vehicles for Real-World Driving Cycles Stephanie Stockar, Vincenzo Marano, Marcello Canova, Giorgio Rizzoni and Lino Guzzella IEEE Transactions on Vehicular Technology, vol. 60: no. 7, pp. 2949-2962, IEEE, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal semi-active damping of cables with bending stiffness",
+      "year": 2011,
+      "citation_raw": "Optimal semi-active damping of cables with bending stiffness Charles Boston, F. Weber and Lino Guzzella Smart Materials and Structures, vol. 20: no. 5, pp. 055005, IOP Publishing, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model-Based Actuator Trajectories Optimization for a Diesel Engine Using a Direct Method",
+      "year": 2011,
+      "citation_raw": "Model-Based Actuator Trajectories Optimization for a Diesel Engine Using a Direct Method Michael Benz, Markus Hehn, Christopher H. Onder and Lino Guzzella Journal of Engineering for Gas Turbines and Power, vol. 133: no. 3, pp. 032806, American Society of Mechanical Engineers, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Trade-Off Between Fuel Economy and Battery Life for Hybrid Electric Vehicles",
+      "year": 2011,
+      "citation_raw": "Trade-Off Between Fuel Economy and Battery Life for Hybrid Electric Vehicles Soeren Ebbesen and Lino Guzzella 4th Annual Dynamic Systems and Control Conference, Arlington, VA, USA: American Society of Mechanical Engineers, October 31 - November 2, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Untersuchung ausgewählter Solarsysteme durch Abtasten grosser Parameterräume",
+      "year": 2011,
+      "citation_raw": "Untersuchung ausgewählter Solarsysteme durch Abtasten grosser Parameterräume Raffaele Bornatico, Michael Pfeiffer and Andreas Witzig 21. Symposium Thermische Solarenergie, Bad Staffelstein, Germany, pp.400-405, Regensburg: OTTI, May 11-13, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Office Smart Grid: An Automatic Energy Management Systems for Buildings based on Model Predictive Control",
+      "year": 2011,
+      "citation_raw": "Office Smart Grid: An Automatic Energy Management Systems for Buildings based on Model Predictive Control Araz Ashouri, Sebastian Gaulocher and Petr Korba COSY 2011: Special International Conference on Complex Systems: Synergy of Control, Computing & Communications, Ohrid, Macedonia: Society for Electronics, Telecommunications, Automation, and Informatics (ETAI) of the Republic of Macedonia, September 16-20, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Polysun Grundlagen: Übersicht über Numerik und physikalische Modelle",
+      "year": 2011,
+      "citation_raw": "Polysun Grundlagen: Übersicht über Numerik und physikalische Modelle P. Brönner, Andreas Witzig, Michael Pfeiffer and Raffaele Bornatico 21. Symposium Thermische Solarenergie, Bad Staffelstein, Germany, pp.443-448, Regensburg: OTTI, May 11-13, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Economic Viability of Battery Load-Leveling in Hybrid Electric Vehicles using Supercapacitors",
+      "year": 2011,
+      "citation_raw": "Economic Viability of Battery Load-Leveling in Hybrid Electric Vehicles using Supercapacitors Philipp Valentin Elbert, Soeren Ebbesen and Lino Guzzella International scientific conference on hybrid and electric vehicles (RHEVE 2011), Rueil-Malmaison, France Paris: IFP Energies nouvelles (IFPEN), December 6-7, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "An adaptive tuned mass damper based on the emulation of positive and negative stiffness with an MR damper",
+      "year": 2011,
+      "citation_raw": "An adaptive tuned mass damper based on the emulation of positive and negative stiffness with an MR damper F. Weber, Charles Boston and M. Maślanka Smart Materials and Structures, vol. 20: no. 1, pp. 015012, IOP Publishing, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Engine Downsizing and Electric Hybridization Under Consideration of Cost and Drivability",
+      "year": 2011,
+      "citation_raw": "Engine Downsizing and Electric Hybridization Under Consideration of Cost and Drivability Soeren Ebbesen, Philipp Valentin Elbert and Lino Guzzella Poster presented at the International scientific conference on hybrid and electric vehicles (RHEVE 2011), Rueil-Malmaison, France, December 6-7, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Linear Parameter-Varying Control of Nonlinear Systems with Applications to Automotive and Aerospace Controls",
+      "year": 2011,
+      "citation_raw": "Linear Parameter-Varying Control of Nonlinear Systems with Applications to Automotive and Aerospace Controls Hans P. Geering In The control handbook. Part 2, Control systems applications, edited by Levine, William S., pp. 1, Boca Raton, FL: CRC Press, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Design of Building Energy Systems under Parameter Uncertainty",
+      "year": 2011,
+      "citation_raw": "Optimal Design of Building Energy Systems under Parameter Uncertainty Raffaele Bornatico, Samuel Fux and Lino Guzzella Smart Energy Strategies Conference 2011 (SES), Zürich, Switzerland: Smart Energy Strategies Conference 2011 (SES), September 21-23, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Online-Simulationsansätze und modelbasierte Regelung für die dieselmotorischen Schadstoffemissionen: On-line simulation and feedback control of pollutant emissions from Diesel engines",
+      "year": 2011,
+      "citation_raw": "Online-Simulationsansätze und modelbasierte Regelung für die dieselmotorischen Schadstoffemissionen: On-line simulation and feedback control of pollutant emissions from Diesel engines Frédéric Tschanz, Christophe Barro, Alois Amstutz, Patrick Kirchen, Lino Guzzella and Konstantinos Boulouchos 11. Internationales Stuttgarter Symposium Automobil- und Motorentechnik, Stuttgart, Germany: 11. Internationales Stuttgarter Symposium Automobil- und Motorentechnik, February 22–23, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "CleanTech for Sustainable Buildings - From Nano to Urban Scale",
+      "year": 2011,
+      "citation_raw": "International Conference on \"CleanTech for Sustainable Buildings - From Nano to Urban Scale\" (CISBAT 11), Lausanne, Switzerland: International Conference on \"CleanTech for Sustainable Buildings - From Nano to Urban Scale\" (CISBAT 11), September 14-16, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "How Much Fuel Can a Hybrid Electric Vehicle Save?",
+      "year": 2011,
+      "citation_raw": "How Much Fuel Can a Hybrid Electric Vehicle Save? Christopher H. Onder, Tobias Ott and Lino Guzzella International Advanced Mobility Forum (IAMF 2011), Geneva, Switzerland Zürich: Department of Mechanical and Process Engineering, March 8-9, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model-Based Supervisory Control for Energy Optimization of Hybrid-Electric Vehicles",
+      "year": 2011,
+      "citation_raw": "Model-Based Supervisory Control for Energy Optimization of Hybrid-Electric Vehicles Lino Guzzella and Antonio Sciarretta In The Control Handbook: Control System Applications, edited by Levine, William S., pp. 4-1, Boca Raton: CRC Press, 2011.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Explicit optimal control policy and its practical application for hybrid electric powertrains",
+      "year": 2010,
+      "citation_raw": "Explicit optimal control policy and its practical application for hybrid electric powertrains Daniel Ambühl, Olle Sunström, Antonio Sciarretta and Lino Guzzella Control Engineering Practice, vol. 18: no. 12, pp. 1429-1439, Elsevier, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Individual Cylinder Air–Fuel Ratio Control Using Fourier Analysis",
+      "year": 2010,
+      "citation_raw": "Individual Cylinder Air–Fuel Ratio Control Using Fourier Analysis Wolfgang Schick, Christopher H. Onder and Lino Guzzella IEEE Transactions on Control Systems Technology, vol. 19: no. 5, pp. 1204-1213, IEEE, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Adaptive internal model control with application to fueling control",
+      "year": 2010,
+      "citation_raw": "Adaptive internal model control with application to fueling control Daniel Rupp and Lino Guzzella Control Engineering Practice, vol. 18: no. 8, pp. 873-881, Elsevier, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Capacitors vs. batteries in a serial hybrid electric bus",
+      "year": 2010,
+      "citation_raw": "Capacitors vs. batteries in a serial hybrid electric bus Philipp Elbert, Christopher H. Onder and Hans-Jörg Gisler 6th IFAC Symposium on Advances in Automotive Control (AAC 2010), Munich, Germany, pp.252-257, Oxford: Elsevier, July 12-14, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A real-time soot model for emission control of a diesel engine",
+      "year": 2010,
+      "citation_raw": "A real-time soot model for emission control of a diesel engine Frédéric Tschanz, Alois Amstutz, Christopher H. Onder and Lino Guzzella 6th IFAC Symposium on Advances in Automotive Control (AAC 2010), Munich, Germany, pp.222-227, Oxford: Elsevier, July 12-14, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Torque-Assist Hybrid Electric Powertrain Sizing: From Optimal Control Towards a Sizing Law",
+      "year": 2010,
+      "citation_raw": "Torque-Assist Hybrid Electric Powertrain Sizing: From Optimal Control Towards a Sizing Law Olle Sundstroem, Lino Guzzella and Patrik Soltic IEEE Transactions on Control Systems Technology, vol. 18: no. 4, pp. 837-849, IEEE, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Lumped parameter modeling of electrochemical and thermal dynamics in Lithium-Ion batteries",
+      "year": 2010,
+      "citation_raw": "Lumped parameter modeling of electrochemical and thermal dynamics in Lithium-Ion batteries Alexander P. Schmidt, Matthias Bitzer, Árpád W. Imre and Lino Guzzella 6th IFAC Symposium on Advances in Automotive Control (AAC 2010), Munich, Germany, pp.198-203, Oxford: Elsevier, July 12-14, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Predictive energy management for hybrid electric vehicles - Prediction horizon and battery capacity sensitivity",
+      "year": 2010,
+      "citation_raw": "Predictive energy management for hybrid electric vehicles - Prediction horizon and battery capacity sensitivity Maxime Debert, Guillaume Colin, Yann Chamaillard, Lino Guzzella, Ahmed Ketfi-Chérif and Benoit Bellicaud 6th IFAC Symposium on Advances in Automotive Control (AAC 2010), Munich, Germany, pp.270-275, Oxford: Elsevier, July 12-14, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Analysis and control of high sideslip manoeuvres",
+      "year": 2010,
+      "citation_raw": "Analysis and control of high sideslip manoeuvres Christoph Voser, Rami Y. Hindiyeh and Christian Gerdes Vehicle System Dynamics, vol. 48, pp. 317-336, Taylor & Francis, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Introduction to modeling and control of internal combustion engine systems",
+      "year": 2010,
+      "citation_raw": "Introduction to modeling and control of internal combustion engine systems Lino Guzzella and Christopher H. Onder Berlin: Springer, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Correlating Nitrogen Accumulation With Temporal Fuel Cell Performance",
+      "year": 2010,
+      "citation_raw": "Correlating Nitrogen Accumulation With Temporal Fuel Cell Performance Eric A. Müller, Florian Kolb, Lino Guzzella, Anna G. Stefanopoulou and Denise A. McKay Journal of Fuel Cell Science and Technology, vol. 7: no. 2, pp. 021013, American Society of Mechanical Engineers, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Stochastic Optimal Control with Applications in Financial Engineering",
+      "year": 2010,
+      "citation_raw": "Stochastic Optimal Control with Applications in Financial Engineering Hans P. Geering, Florian Herzog and Gabriel Dondi Springer Optimization and Its Applications, vol. 39, pp. 375-408, Springer, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Particle Swarm Optimization for the Optimal Sizing of a Solar Thermal Building Installation",
+      "year": 2010,
+      "citation_raw": "Particle Swarm Optimization for the Optimal Sizing of a Solar Thermal Building Installation Raffaele Bornatico, Michael Pfeiffer, Andreas Witzig and Lino Guzzella 23rd International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2010), Lausanne, Switzerland: 23rd International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2010), June 14-17, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model-based distinction and quantification of capacity loss and rate capability fade in Li-ion batteries",
+      "year": 2010,
+      "citation_raw": "Model-based distinction and quantification of capacity loss and rate capability fade in Li-ion batteries Alexander P. Schmidt, Matthias Bitzer, Arpad W. Imnre and Lino Guzzella Journal of Power Sources, vol. 195: no. 22, pp. 7634-7638, Elsevier, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Polysun Inside: A Universal Platform For Commercial Software and Research Applications",
+      "year": 2010,
+      "citation_raw": "Polysun Inside: A Universal Platform For Commercial Software and Research Applications Andreas Witzig, Urs Stöckli, Patrick Kistler, Raffaele Bornatico and Michael Pfeiffer International Conference on Solar Heating, Cooling and Buildings (EuroSun 2010), Graz, Austria Graz: International Conference on Solar Heating, Cooling and Buildings (EuroSun 2010), September 28 – October 1, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modeling of a disc-type magnetorheological damper",
+      "year": 2010,
+      "citation_raw": "Modeling of a disc-type magnetorheological damper Charles Boston, F. Weber and Lino Guzzella Smart Materials and Structures, vol. 19: no. 4, pp. 045005, IOP Publishing, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "SMAC-FDI: New Active Fault Detection and Isolation Scheme with High Computational Efficiency",
+      "year": 2010,
+      "citation_raw": "SMAC-FDI: New Active Fault Detection and Isolation Scheme with High Computational Efficiency Guillaume Ducard and Hans P. Geering 2010 Conference on Control and Fault-Tolerant Systems (SysTol'2010), Nice, France, pp.30-37, Piscataway, NJ: IEEE, October 6-8, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modelling engine and exhaust temperatures of a mono-fuelled turbocharged compressed-natural-gas engine during warm-up",
+      "year": 2010,
+      "citation_raw": "Modelling engine and exhaust temperatures of a mono-fuelled turbocharged compressed-natural-gas engine during warm-up J.A. Röth and Lino Guzzella Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, vol. 224: no. 1, pp. 99-115, Professional Engineering Publishing, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Das Downsizing-Boost-Konzept auf Basis der pneumatischen Hybridisierung von Ottomotoren",
+      "year": 2010,
+      "citation_raw": "Das Downsizing-Boost-Konzept auf Basis der pneumatischen Hybridisierung von Ottomotoren Lino Guzzella, Christopher H. Onder, Christian Dönitz, Christoph Voser and Iulian Vasile MTZ - Motortechnische Zeitschrift, vol. 71: no. 01, pp. 52-58, Springer Vieweg, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Control-Oriented Modeling of Three-Way Catalytic Converters Using Chemical Equilibrium",
+      "year": 2010,
+      "citation_raw": "Control-Oriented Modeling of Three-Way Catalytic Converters Using Chemical Equilibrium Pascal Kiwic, Christopher H. Onder and Lino Guzzella 33rd FISITA World Automotive Congress 2010, Budapest, Hungary, pp.SC–O–23: International Federation of Automotive Engineering Societies, May 30 - June 4, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "On Implementation of Dynamic Programming for Optimal Control Problems with Final State Constraints",
+      "year": 2008,
+      "citation_raw": "On Implementation of Dynamic Programming for Optimal Control Problems with Final State Constraints Olle Sundström, Daniel Ambühl and Lino Guzzella International Conference on Advances in Hybrid Powertrains, Rueil-Malmaison, France, pp.91-102, Paris: Editions Technip, November 25-26, 2008.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Experiment-driven electrochemical modeling and systematic parameterization for a lithium-ion battery cell",
+      "year": 2010,
+      "citation_raw": "Experiment-driven electrochemical modeling and systematic parameterization for a lithium-ion battery cell Alexander P. Schmidt, Matthias Bitzer, Árpád W. Imre and Lino Guzzella Journal of Power Sources, vol. 195: no. 15, pp. 5071-5080, Elsevier, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Iterative Tuning of Internal Model Controllers With Application to Air/Fuel Ratio Control",
+      "year": 2010,
+      "citation_raw": "Iterative Tuning of Internal Model Controllers With Application to Air/Fuel Ratio Control Daniel Rupp and Lino Guzzella IEEE Transactions on Control Systems Technology, vol. 18: no. 1, pp. 177-184, IEEE, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Engine Emission Modeling Using a Mixed Physics and Regression Approach",
+      "year": 2010,
+      "citation_raw": "Engine Emission Modeling Using a Mixed Physics and Regression Approach Michael Benz, Christopher H. Onder and Lino Guzzella Journal of Engineering for Gas Turbines and Power, vol. 132: no. 4, pp. 042803, American Society of Mechanical Engineers, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Control for Plug-in Hybrid Electric Vehicle Applications",
+      "year": 2010,
+      "citation_raw": "Optimal Control for Plug-in Hybrid Electric Vehicle Applications Stephanie Stockar, Vincenzo Marano, Giorgio Rizzoni and Lino Guzzella 2010 American Control Conference (ACC 2010), Baltimore, MD, USA, pp.5024-5030, Piscataway, NJ: IEEE, June 30 - July 2, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A novel electrochemical battery model for state of charge and state of health estimation",
+      "year": 2010,
+      "citation_raw": "A novel electrochemical battery model for state of charge and state of health estimation Alexander P. Schmidt Berichte aus der Energietechnik, Doctoral Thesis, Aachen, Shaker Verlag, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Transmission-Actuated Energy-Management Strategy",
+      "year": 2010,
+      "citation_raw": "A Transmission-Actuated Energy-Management Strategy Olle Sundström, Patrik Soltic and Lino Guzzella IEEE Transactions on Vehicular Technology, vol. 59: no. 1, pp. 84-92, IEEE, 2010.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Thermoacoustic Instability Suppression by Gain-Delay and H∞ Controllers Designed for Secondary Fuel Injection",
+      "year": 2009,
+      "citation_raw": "Thermoacoustic Instability Suppression by Gain-Delay and H∞ Controllers Designed for Secondary Fuel Injection André S.P. Niederberger, Daniel Fritsche, Konstantinos Boulouchos and Lino Guzzella IEEE Transactions on Control Systems Technology, vol. 17: no. 5, pp. 1028-1042, IEEE, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Analysis and Control of High Sideslip Maneuvers",
+      "year": 2009,
+      "citation_raw": "Analysis and Control of High Sideslip Maneuvers Christoph Voser, Rami Y. Hindiyeh and Christian Gerdes 21st International Symposium on Dynamics of Vehicles on Roads and Tracks 2009 (IAVSD 2009), pp.146-147, Stockholm: KTH, August 17-21, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modeling and Control of Three-Way Catalysts",
+      "year": 2009,
+      "citation_raw": "Modeling and Control of Three-Way Catalysts Roman Jörg Möller Doctoral Thesis, Zurich, ETH, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Rapid start of hybrid pneumatic engines",
+      "year": 2009,
+      "citation_raw": "Rapid start of hybrid pneumatic engines Iulian Vasile, Christian Dönitz, Christoph Voser, Jan Vetterli, Christopher H. Onder and Lino Guzzella 2nd IFAC Workshop on Engine and Powertrain Control, Simulation and Modeling (E-COSM 2009), Rueil-Malmaison, France, pp.95-102, Oxford: Elsevier, November 30 - December 2, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Hybrid pneumatic engines",
+      "year": 2009,
+      "citation_raw": "Hybrid pneumatic engines Christian Dönitz Doctoral Thesis, Zurich, ETH Zurich, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Dynamic Programming for Hybrid Pneumatic Vehicles",
+      "year": 2009,
+      "citation_raw": "Dynamic Programming for Hybrid Pneumatic Vehicles Christian Dönitz, Iulian Vasile, Christopher H. Onder and Lino Guzzella 2009 American Control Conference (ACC 2009), St. Louis, MO, USA, pp.3956-3963, Piscataway, NJ: IEEE, June 10-12, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Emissions-controlled diesel engine",
+      "year": 2009,
+      "citation_raw": "Emissions-controlled diesel engine Ezio Alfieri Doctoral Thesis, Zürich, ETH, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Realizing a Concept for High Efficiency and Excellent Driveability: The Downsized and Supercharged Hybrid Pneumatic Engine",
+      "year": 2009,
+      "citation_raw": "Realizing a Concept for High Efficiency and Excellent Driveability: The Downsized and Supercharged Hybrid Pneumatic Engine Christian Dönitz, Iulian Vasile, Christopher H. Onder and Lino Guzzella In Advanced Hybrid Vehicle Powertrains, pp. 2009-01-1326-2009-01-1326, Warrendale, PA: SAE International, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Investigations on cerebrospinal fluid dynamics",
+      "year": 2009,
+      "citation_raw": "Investigations on cerebrospinal fluid dynamics Matthias A. Schibli Doctoral Thesis, Zurich, ETH Zurich, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Method for Handling Uncertainty in Evolutionary Optimization With an Application to Feedback Control of Combustion",
+      "year": 2009,
+      "citation_raw": "A Method for Handling Uncertainty in Evolutionary Optimization With an Application to Feedback Control of Combustion Nikolaus Hansen, André S.P. Niederberger, Lino Guzzella and Petros Koumoutsakos IEEE Transactions on Evolutionary Computation, vol. 13: no. 1, pp. 180-197, IEEE, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Energy management strategies for hybrid electric vehicles",
+      "year": 2009,
+      "citation_raw": "Energy management strategies for hybrid electric vehicles Daniel Ambühl Doctoral Thesis, Zürich, ETH/ Measurement and Control Laboratory, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modelling and optimizing two- and four-stroke hybrid pneumatic engines",
+      "year": 2009,
+      "citation_raw": "Modelling and optimizing two- and four-stroke hybrid pneumatic engines Christian Dönitz, I. Vasile, Christopher H. Onder and Lino Guzzella Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, vol. 223: no. 2, pp. 255-280, Professional Engineering Publishing, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Nonlinear Hierarchical Control Allocation for Vehicle Yaw Stabilization and Rollover Prevention",
+      "year": 2009,
+      "citation_raw": "Nonlinear Hierarchical Control Allocation for Vehicle Yaw Stabilization and Rollover Prevention Matthäus B. Alberding, Johannes Tjønnås and Tor A. Johansen European Control Conference 2009 (ECC’09) Budapest: European Union Control Association (EUCA), August 23-26, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Navigation-Field Based Semi-Autonomous Non-Holonomic Vehicle-Parking Assistant",
+      "year": 2009,
+      "citation_raw": "A Navigation-Field Based Semi-Autonomous Non-Holonomic Vehicle-Parking Assistant Moritz Benjamin Oetiker, Gion P. Baker and Lino Guzzella IEEE Transactions on Vehicular Technology, vol. 58: no. 3, pp. 1106-1118, IEEE, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal control and design of hybrid-electric vehicles",
+      "year": 2009,
+      "citation_raw": "Optimal control and design of hybrid-electric vehicles Olle Sundström Doctoral Thesis, Zürich, ETH, 2009.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Development of a new design of hip protectors using finite element analysis and mechanical tests",
+      "year": 2008,
+      "citation_raw": "Development of a new design of hip protectors using finite element analysis and mechanical tests Marianne Schmid Daners, Luc Wullschleger, Siegfried Derler and Kai-Uwe Schmitt Medical Engineering & Physics, vol. 30: no. 9, pp. 1186-1192, Elsevier, 2008.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Präziser als Beckham",
+      "year": 2008,
+      "citation_raw": "Präziser als Beckham Ruedi Baumann Tages-Anzeiger, vol. 116, Zürich: Tages-Anzeiger, 2008.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Evolutionary optimization of feedback controllers for thermoacoustic instabilities",
+      "year": 2006,
+      "citation_raw": "Evolutionary optimization of feedback controllers for thermoacoustic instabilities Nikolaus Hansen, Andre S.R. Niederberger, Lino Guzzella and Petros Koumoutsakos IUTAM Symposium on Flow Control and MEMS, London, United Kingdom, pp.311-317, Dordrecht: Springer, September 19-22, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Sensor Selection and Configuration, Case Study Spark Ignited Engine",
+      "year": 2008,
+      "citation_raw": "Optimal Sensor Selection and Configuration, Case Study Spark Ignited Engine Raphaël Suard, Christopher H. Onder and Lino Guzzella SAE 2008 World Congress, pp.125-136, Warrendale, PA: Society of Automotive Engineers, April 14-17, 2008.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Dynamic Model for the Selective Catalytic Reduction of NO with NH3 on Fe-Zeolite Catalysts",
+      "year": 2008,
+      "citation_raw": "Dynamic Model for the Selective Catalytic Reduction of NO with NH3 on Fe-Zeolite Catalysts Anke Schuler, Martin Votsmeier, Stephan Malmberg, Jürgen Gieshoff, A. Drochner, H. Vogel and P. Kiwic SAE 2008 World Congress, pp.571-584, Warrendale, PA: Society of Automotive Engineers, April 14-17, 2008.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Coordinating hundreds of cooperative, autonomous vehicles in warehouses",
+      "year": 2008,
+      "citation_raw": "Coordinating hundreds of cooperative, autonomous vehicles in warehouses Peter R. Wurman, Raffaello D'Andrea and Mick Mountz The fourth Conference on Artificial Intelligence and Interactive Digital Entertainment, pp.9-19, Menlo Park, CA: AAAI, October 22–24, 2008.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "An advanced frequency-domain code for boiling water reactor (BWR) stability analysis and design",
+      "year": 2008,
+      "citation_raw": "An advanced frequency-domain code for boiling water reactor (BWR) stability analysis and design Behrooz Askari Doctoral Thesis, Zürich, ETH, 2008.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Dynamic model of an auto-thermal gasoline fuel processor",
+      "year": 2008,
+      "citation_raw": "Dynamic model of an auto-thermal gasoline fuel processor Thomas R. Boehme, Christopher H. Onder and Lino Guzzella International Journal of Hydrogen Energy, vol. 33: no. 21, pp. 6150-6164, Elsevier, 2008.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Dynamic modeling of auto-thermal gasoline fuel processors",
+      "year": 2008,
+      "citation_raw": "Dynamic modeling of auto-thermal gasoline fuel processors Thomas R. Böhme Doctoral Thesis, Zürich, ETH, Measurement and Control Laboratory, MLK, 2008.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal hybridization in two parallel hybrid electric vehicles using dynamic programming",
+      "year": 2008,
+      "citation_raw": "Optimal hybridization in two parallel hybrid electric vehicles using dynamic programming Olle Sundström, Lino Guzzella and Patrick Soltic 17th IFAC World Congress (IFAC 2008), Seoul, South Korea, pp.4642-4647, Oxford: Elsevier, July 6-11, 2008.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "The world’s most fuel efficient vehicle: Design and development of PAC-Car II",
+      "year": 2007,
+      "citation_raw": "The world’s most fuel efficient vehicle: Design and development of PAC-Car II Santin, Jean-Jacques, Onder, Christopher H., Bernard, Jérôme, Isler, Dominik, Kobler, Pius, Kolb, Florian, Weidmann, Nicolas and Guzzella, Lino Zürich: vdf, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Iterative adaptive air/fuel ratio control",
+      "year": 2007,
+      "citation_raw": "Iterative adaptive air/fuel ratio control Daniel Rupp, Christopher H. Onder and Lino Guzzella 5th IFAC Symposium on Advances in Automotive Control (AAC 2007), Aptos, CA, USA, pp.593-599, Oxford: Elsevier, August 20-22, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "EGR control of pressure-wave supercharged IC engines",
+      "year": 2007,
+      "citation_raw": "EGR control of pressure-wave supercharged IC engines P. Spring, Christopher H. Onder and Lino Guzzella Control Engineering Practice, vol. 15: no. 12, pp. 1520-1532, Elsevier, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal Power Control of Hybrid Fuel Cell Systems for an Accelerated System Warm-up",
+      "year": 2007,
+      "citation_raw": "Optimal Power Control of Hybrid Fuel Cell Systems for an Accelerated System Warm-up Eric A. Müller, Anna G. Stefanopoulou and Lino Guzzella IEEE Transactions on Control Systems Technology, vol. 15: no. 2, pp. 290-305, IEEE, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Path planning by negotiation for decentralized agents",
+      "year": 2007,
+      "citation_raw": "Path planning by negotiation for decentralized agents Oliver Purwin and Raffaello D'Andrea 2007 American Control Conference (ACC 2007), New York, NY, USA, pp.5296-5301, Piscataway, NJ: IEEE, July 9-13, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Vehicle propulsion systems: Introduction to modeling and optimization",
+      "year": 2007,
+      "citation_raw": "Vehicle propulsion systems: Introduction to modeling and optimization Lino Guzzella and Antonio Sciarretta Berlin: Springer, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Multi-Vehicle Cooperative Control Using Mixed Integer Linear Programming",
+      "year": 2007,
+      "citation_raw": "Multi-Vehicle Cooperative Control Using Mixed Integer Linear Programming Matthew G. Earl and Raffaello D'Andrea In Cooperative Control of Distributed Multi-Agent Systems, edited by Shamma, Jeff S., pp. 233-259, Chichester: Wiley, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Heavy Duty Vehicle Emissions Retrofit Kit to reduce NOx emissions by about 50% and the PM emissions by up to 99% without producing any secondary emissions",
+      "year": 2007,
+      "citation_raw": "Heavy Duty Vehicle Emissions Retrofit Kit to reduce NOx emissions by about 50% and the PM emissions by up to 99% without producing any secondary emissions Yves Hohl, Alois Amstutz, Christopher H. Onder and Lino Guzzella Oesterreichische Ingenieur- und Architekten-Zeitschrift, vol. 152: no. 4-6, pp. 143-147, Springer, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Patch Models and Their Applications to Multivehicle Command and Control",
+      "year": 2007,
+      "citation_raw": "Patch Models and Their Applications to Multivehicle Command and Control Venkatesh G. Rao and Raffaello D'Andrea IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), vol. 37: no. 3, pp. 680-691, IEEE, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimized control of a pressure-wave supercharger: A model-based feedforward approach",
+      "year": 2007,
+      "citation_raw": "Optimized control of a pressure-wave supercharger: A model-based feedforward approach Peter Spring, Christopher H. Onder and Lino Guzzella IEEE Transactions on Control Systems Technology, vol. 15: no. 3, pp. 457-464, IEEE, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model‐based detection and isolation of faults due to ageing in the air and fuel paths of common‐rail direct injection diesel engines equipped with a λ and a nitrogen oxides sensor",
+      "year": 2007,
+      "citation_raw": "Model‐based detection and isolation of faults due to ageing in the air and fuel paths of common‐rail direct injection diesel engines equipped with a λ and a nitrogen oxides sensor A. Schilling, A. Amstutz and Lino Guzzella Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, vol. 222: no. 1, pp. 101-117, Professional Engineering Publishing, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A decomposition approach to multi-vehicle cooperative control",
+      "year": 2007,
+      "citation_raw": "A decomposition approach to multi-vehicle cooperative control Matthew G. Earl and Raffaello D'Andrea Robotics and Autonomous Systems, vol. 55: no. 4, pp. 276-291, Elsevier, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Virtual NO sensor for spark-ignition engines",
+      "year": 2007,
+      "citation_raw": "Virtual NO sensor for spark-ignition engines Daniel Brand, Christopher H. Onder and Lino Guzzella International Journal of Engine Research, vol. 8: no. 2, pp. 221-240, Professional Engineering Publ., 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modeling and Control of Advanced Propulsion Systems",
+      "year": 2006,
+      "citation_raw": "Modeling and Control of Advanced Propulsion Systems Lino Guzzella Internaional Conference on New Trends in Engine Control, Simulation and Modelling, Rueil-Malmaison, France, pp.585-594, Paris: Editions Technip, October 2-4, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Control of hybrid electric vehicles",
+      "year": 2007,
+      "citation_raw": "Control of hybrid electric vehicles Antonio Sciarretta and Lino Guzzella IEEE Control Systems, vol. 27: no. 2, pp. 60-70, IEEE, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Structured analysis of piecewise-linear interconnected systems",
+      "year": 2007,
+      "citation_raw": "Structured analysis of piecewise-linear interconnected systems James Fowler and Raffaello D'Andrea International Journal of Robust and Nonlinear Control, vol. 17: no. 18, pp. 1754-1770, Wiley, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model-Based Fuel Optimal Control of Hybrid Electric Vehicle Using Variable Structure Control Systems",
+      "year": 2007,
+      "citation_raw": "Model-Based Fuel Optimal Control of Hybrid Electric Vehicle Using Variable Structure Control Systems X. Wei, Lino Guzzella, V. I. Utkin and Giorgio Rizzoni Journal of Dynamic Systems, Measurement, and Control, vol. 129: no. 1, pp. 13-19, American Society of Mechanical Engineers, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "MTZ - Motortechnische Zeitschrift",
+      "year": 2007,
+      "citation_raw": "Emissionsgeregelte Dieselmotoren Alexander Schilling, Ezio Alfieri, Alois Amstutz and Lino Guzzella MTZ - Motortechnische Zeitschrift, vol. 68: no. 11, pp. 982-989, Springer Vieweg, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Analysis of a kinetic model describing the dynamic operation of a three-way catalyst",
+      "year": 2005,
+      "citation_raw": "Analysis of a kinetic model describing the dynamic operation of a three-way catalyst Roman Möller, Christopher H. Onder, Lino Guzzella, Martin Votsmeier and J. Gieshoff 4th International Conference on Environmental Catalysis (4th ICEC), Heidelberg, Germany, pp.269-275, Amsterdam: Elsevier, June 5–8, 2005.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Causal Operation Strategy for Hybrid Electric Vehicles based on Optimal Control Theory",
+      "year": 2007,
+      "citation_raw": "A Causal Operation Strategy for Hybrid Electric Vehicles based on Optimal Control Theory Daniel Ambühl, Antonio Sciarretta, Christopher H. Onder, Lino Guzzella, S. Sterzing, Klaus Mann, D. Kraft and M. Küsell 4th Symposium Hybrid Vehicles and Energy Management, pp.317-331, Braunschweig: GZVB, February 14-15, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "An optimal control approach to sensorimotor parametrization",
+      "year": 2007,
+      "citation_raw": "An optimal control approach to sensorimotor parametrization Michael Sherback and Raffaello D'Andrea 2007 American Control Conference (ACC 2007), New York, NY, USA, pp.2036-2041, Piscataway, NJ: IEEE, July 9-13, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Abstraction-based command and control with patch models",
+      "year": 2007,
+      "citation_raw": "Abstraction-based command and control with patch models V. G. Rao, S. Goldfarb and Raffaello D'Andrea In Cooperative Control of Distributed Multi-Agent Systems, edited by Shamma, Jeff S., pp. 409-432, Chichester: Wiley, 2007.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Control of an SCR catalytic converter system for a mobile heavy-duty application",
+      "year": 2006,
+      "citation_raw": "Control of an SCR catalytic converter system for a mobile heavy-duty application Christoph M. Schär, Christopher H. Onder and Hans P. Geering IEEE Transactions on Control Systems Technology, vol. 14: no. 4, pp. 641-654, IEEE, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Improved dynamic performance of turbocharged SI engine power trains using clutch actuation",
+      "year": 2006,
+      "citation_raw": "Improved dynamic performance of turbocharged SI engine power trains using clutch actuation Simon A. Frei, Lino Guzzella, Christopher H. Onder and Corrado Nizzola Control Engineering Practice, vol. 14: no. 4, pp. 363-373, Elsevier, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Identification of the relevant parameters of the wall-wetting system extended Kalman filtering",
+      "year": 2006,
+      "citation_raw": "Identification of the relevant parameters of the wall-wetting system extended Kalman filtering Marzio Locatelli, Ezio Alfieri, Christopher H. Onder and Hans P. Geering Control Engineering Practice, vol. 14: no. 3, pp. 235-241, Elsevier, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2006,
+      "citation_raw": "Guzzella, Lino, Hrovat, Davor and Rizzo, Gianfranco (Eds.) Kidlington: Elsevier, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Special issue on advances in automotive control",
+      "year": 2006,
+      "citation_raw": "Special issue on advances in automotive control Lino Guzzella, Davor Hrovat and Gianfranco Rizzo Control Engineering Practice, vol. 14: no. 3, pp. 195-195, Elsevier, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modeling and control of pressure-wave supercharged engine systems",
+      "year": 2006,
+      "citation_raw": "Modeling and control of pressure-wave supercharged engine systems Peter Spring Doctoral Thesis, Zürich, ETH, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "André S.P. Niederberger",
+      "year": 2006,
+      "citation_raw": "Investigations of thermoacoustic oscillations: Modeling, identification and control André S.P. Niederberger Doctoral Thesis, Göttingen, Cuvillier Verlag, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Combined 3D/Lumped Modeling Approach to Ammonia SCR After-Treatment Systems: Application to Mixer Designs",
+      "year": 2006,
+      "citation_raw": "A Combined 3D/Lumped Modeling Approach to Ammonia SCR After-Treatment Systems: Application to Mixer Designs Mikael K. Karlsson, Ulf Wallin, Sten Fredholm, Jonas Jansson, Gert-Ove Wahlstrom, Christoph M. Schaer, Christopher H. Onder and Lino Guzzella SAE 2006 World Congress, pp.2006-01-0469 Warrendale, PA: Society of Automotive Engineers, April 3-6, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Parameterization of fuel cell stack voltage: Issues on sensitivity, cell-to cell variation, and transient response",
+      "year": 2006,
+      "citation_raw": "Parameterization of fuel cell stack voltage: Issues on sensitivity, cell-to cell variation, and transient response Arlette L. Schilter, Denise A. McKay and Anna G. Stefanopoulou 4th International Conference on Fuel Cell Science, Engineering and Technology (FUELCELL 2006), Irvine, CA, USA, pp.307-317, New York, NY: American Society of Mechanical Engineers, June 19-21, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Real-Time Model for the Prediction of the NOx Emissions in DI Diesel Engines",
+      "year": 2006,
+      "citation_raw": "A Real-Time Model for the Prediction of the NOx Emissions in DI Diesel Engines Alexander Schilling, Alois Amstutz, Christopher H. Onder and Lino Guzzella IEEE International Conference on Control Applications, 2006 (CCA 2006), Munich, Germany, pp.2042-2047, Piscataway, NJ: IEEE, October 4-6, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal power management of hybrid fuel cell systems: A feedback strategy to minimize the system's warm-up time",
+      "year": 2006,
+      "citation_raw": "Optimal power management of hybrid fuel cell systems: A feedback strategy to minimize the system's warm-up time Eric A. Müller, Anna G. Stefanopoulou and Lino Guzzella Latsis Symposium 2006, Zurich, Switzerland Zurich: vdf, October 11-13, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A lattice gas model with temperature and buoyancy effects to predict the concentration of pollutant gas released by power plants and traffic sources",
+      "year": 2006,
+      "citation_raw": "A lattice gas model with temperature and buoyancy effects to predict the concentration of pollutant gas released by power plants and traffic sources Antonio Sciarretta Mathematical and Computer Modelling of Dynamical Systems, vol. 12: no. 4, pp. 313-327, Taylor & Francis, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Lino Guzzella and Christopher Onder",
+      "year": 2006,
+      "citation_raw": "Past, present and future of automotive control Lino Guzzella and Christopher Onder A Workshop on the Occasion of Keith Glover’s 60th Birthday, Cambridge, United Kingdom, pp.163-182, Berlin: Springer, April 21-22, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Analysis, Modeling, and Validation for the Thermal Dynamics of a Polymer Electrolyte Membrane Fuel Cell System",
+      "year": 2006,
+      "citation_raw": "Analysis, Modeling, and Validation for the Thermal Dynamics of a Polymer Electrolyte Membrane Fuel Cell System Eric A. Müller and Anna G. Stefanopoulou Journal of Fuel Cell Science and Technology, vol. 3: no. 2, pp. 99-110, American Society of Mechanical Engineers, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model-based feedback control of the air-to-fuel ratio in diesel engines based on an empirical model",
+      "year": 2006,
+      "citation_raw": "Model-based feedback control of the air-to-fuel ratio in diesel engines based on an empirical model Ezio Alfieri, Alois Amstutz, Christopher H. Onder and Lino Guzzella IEEE Conference on Computer-Aided Control Systems Design 2006, Munich, Germany, pp.509-514, Piscataway, NJ: IEEE, October 4-6, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal control of thermal systems: Engineering applications",
+      "year": 2006,
+      "citation_raw": "Optimal control of thermal systems: Engineering applications Eric A. Müller Doctoral Thesis, Zürich, ETH Zurich, Measurement and Control Laboratory, 2006.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Fuel-optimal control of rendezvous maneuvers for passenger cars",
+      "year": 2005,
+      "citation_raw": "Fuel-optimal control of rendezvous maneuvers for passenger cars Antonio Sciarretta and Lino Guzzella at - Automatisierungstechnik, vol. 53: no. 6, pp. 244-250, Oldenbourg, 2005.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Air supply system of a PEMFC stack dynamic model",
+      "year": 2005,
+      "citation_raw": "Air supply system of a PEMFC stack dynamic model Paul Rodatz, Christopher H. Onder and Lino Guzzella Fuel Cells, vol. 5: no. 1, pp. 126-132, Wiley-VCH, 2005.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal power management of an experimental fuel cell/supercapacitor-powered hybrid vehicle",
+      "year": 2005,
+      "citation_raw": "Optimal power management of an experimental fuel cell/supercapacitor-powered hybrid vehicle Paul Rodatz, Giovanni Paganelli, Antonio Sciarretta and Lino Guzzella Control Engineering Practice, vol. 13: no. 1, pp. 41-53, Elsevier, 2005.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Analysis, Modeling, and Validation for the Thermal Dynamics of a Polymer Electrolyte Membrane Fuel Cell System",
+      "year": 2005,
+      "citation_raw": "Analysis, Modeling, and Validation for the Thermal Dynamics of a Polymer Electrolyte Membrane Fuel Cell System Eric A. Müller and Anna G. Stefanopoulou 3rd International Conference on Fuel Cell Science, Engineering and Technology, Ypsilanti, MI, USA, pp.389-404, New York, NY: American Society of Mechanical Engineers, May 23-25, 2005.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Vehicle Propulsion Systems: Introduction to Modeling and Optimization",
+      "year": 2005,
+      "citation_raw": "Vehicle Propulsion Systems: Introduction to Modeling and Optimization Lino Guzzella and Antonio Sciarretta Heidelberg: Springer, 2005.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Estimation of the Instantaneous In-Cylinder Pressure for Control Purposes using Crankshaft Angular Velocity",
+      "year": 2005,
+      "citation_raw": "Estimation of the Instantaneous In-Cylinder Pressure for Control Purposes using Crankshaft Angular Velocity Daniel Brand, Christopher H. Onder and Lino Guzzella SAE Technical Papers, vol. 2005-01-0228, New York, NY: SAE, 2005.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A Reduced 1&1D Model for Optimization Analysis of a PEM Fuel Cell",
+      "year": 2005,
+      "citation_raw": "A Reduced 1&1D Model for Optimization Analysis of a PEM Fuel Cell Daniel Ambühl, N. Anguiano, Marco Sorrentino, Yann Guezennec, Sandip Mazumder and Giorgio Rizzoni ASME 2005 International Mechanical Engineering Congress and Exposition, Orlanda, FL, USA, pp.299-307, New York, NY: American Society of Mechanical Engineers, November 5-11, 2005.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Vehicle propulsion systems: Introduction to modeling and optimization",
+      "year": 2005,
+      "citation_raw": "Vehicle propulsion systems: Introduction to modeling and optimization Lino Guzzella and Antonio Sciarretta Berlin: Springer, 2005.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modeling and active control of thermoacoustic instabilities",
+      "year": 2005,
+      "citation_raw": "Modeling and active control of thermoacoustic instabilities André S.P. Niederberger, Bruno B.H. Schuermans and Lino Guzzella 16th IFAC World Congress (IFAC 2005), Prague, Czech Republic, pp.338-343, Oxford: Elsevier, July 3-8, 2005.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "NOx reduction in the exhaust of mobile heavy-duty diesel engines by urea-SCR",
+      "year": 2003,
+      "citation_raw": "NOx reduction in the exhaust of mobile heavy-duty diesel engines by urea-SCR M. Koebel, M. Elsener, O. Kröcher, C. Schär, R. Röthlisberger, F. Jaussi and M. Mangold 6th Congress on Catalysis and Automotive Pollution Control (CAPoC6), Brussels, Belgium, pp.43-48, Berlin: Springer, October 22-24, 2003.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Optimal control of parallel hybrid electric vehicles",
+      "year": 2004,
+      "citation_raw": "Optimal control of parallel hybrid electric vehicles Antonio Sciarretta, M. Back and Lino Guzzella IEEE Transactions on Control Systems Technology, vol. 12: no. 3, pp. 352-363, IEEE, 2004.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "A real-time optimal control strategy for parallel hybrid vehicles with on-board estimation of the control parameters",
+      "year": 2004,
+      "citation_raw": "A real-time optimal control strategy for parallel hybrid vehicles with on-board estimation of the control parameters Antonio Sciarretta, Lino Guzzella and Michael Back 2004 IFAC Symposium on Advances in Automotive Control (AAC 2004), Salerno, Italy, pp.489-494, Oxford: Elsevier, April 19-23, 2004.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Clean Engine Vehicle A Natural Gas Driven Euro-4/SULEV with 30% Reduced CO2-Emissions",
+      "year": 2004,
+      "citation_raw": "Clean Engine Vehicle A Natural Gas Driven Euro-4/SULEV with 30% Reduced CO2-Emissions Christian Bach, Christian Lämmle, Rolf Bill, Patrik Soltic, David Dyntar, Philippe Janner, Konstantinos Boulouchos, Christopher H. Onder, Tilo Landenfeld, Lutz Kercher, Oliver Seel and Jörg D. Baronick 2004 SAE World Congress, Detroit, MI, USA, pp.2004-01-0645 New York, NY: SAE, March 8-11, 2004.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model-based control of the VGT and EGR in a turbocharged common-rail diesel engine: Theory and passenger car implementation",
+      "year": 2003,
+      "citation_raw": "Model-based control of the VGT and EGR in a turbocharged common-rail diesel engine: Theory and passenger car implementation M. Ammann, Nicholas P. Fekete, Lino Guzzella and Adolf H. Glattfelder 2003 SAE World Congress, Detroit, MI, USA, pp.2003-01-0357 New York, NY: SAE, March 3-6, 2003.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Model-Based Control of an SCR System for a Mobile Application",
+      "year": 2004,
+      "citation_raw": "Model-Based Control of an SCR System for a Mobile Application Christoph M. Schär, Christopher H. Onder, Martin Elsener and Hans P. Geering FISITA 2004 World Automotive Congress, pp.F2004V205 Barcelona: FISITA, May 24-27, 2004.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Modeling and Validation of a Pressure-Wave Supercharger Using a Finite Difference Method",
+      "year": 2004,
+      "citation_raw": "Modeling and Validation of a Pressure-Wave Supercharger Using a Finite Difference Method P. Spring, J. Piechna and Christopher H. Onder 2004 ASME Power Conference, Baltimore, MD, USA, pp.59-71, New York, NY: American Society of Mechanical Engineers, March 30 - April 1, 2004.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Recuperative Throttling of SI Engines for Improved Fuel Economy",
+      "year": 2004,
+      "citation_raw": "Recuperative Throttling of SI Engines for Improved Fuel Economy Lino Guzzella, Michael Betschart, Thomas Fluri, Roberto De Santis, Christopher H. Onder and Theo Auckenthaler SAE Technical Papers, pp. 2004-01-0514, SAE, 2004.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Online Estimation of the Oxygen Storage Level of a Three-Way Catalyst",
+      "year": 2004,
+      "citation_raw": "Online Estimation of the Oxygen Storage Level of a Three-Way Catalyst Theophil S. Auckenthaler, Christopher H. Onder and Hans P. Geering SAE Technical Papers, pp. 2004-01-0525, New York, NY: SAE, 2004.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Performance and driveability optimization of turbocharged engine systems",
+      "year": 2004,
+      "citation_raw": "Performance and driveability optimization of turbocharged engine systems Simon A. Frei Doctoral Thesis, Zürich, ETH, Zürich, 2004.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "An Easily Tunable Wall-Wetting Model for PFI Engines",
+      "year": 2004,
+      "citation_raw": "An Easily Tunable Wall-Wetting Model for PFI Engines Marzio Locatelli, Christopher H. Onder and Hans P. Geering SAE Technical Papers, vol. SAE 2004-01-1461, pp. 1-8, SAE, 2004.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Introduction to Modeling and Control of Internal Combustion Engine Systems",
+      "year": 2004,
+      "citation_raw": "Introduction to Modeling and Control of Internal Combustion Engine Systems Lino Guzzella and Christopher H. Onder pp. 1-300, Berlin: Springer, 2004.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "On the Power Split Control of Parallel Hybrid Vehicles: From Global Optimization towards Real-time Control",
+      "year": 2003,
+      "citation_raw": "On the Power Split Control of Parallel Hybrid Vehicles: From Global Optimization towards Real-time Control Antonio Sciarretta, Lino Guzzella and Christopher H. Onder at - Automatisierungstechnik, vol. 51: no. 5, pp. 195-203, De Gruyter, 2003.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Rule-based and Optimal Control Strategies for Energy Management in Parallel Hybrid Vehicles",
+      "year": 2003,
+      "citation_raw": "Rule-based and Optimal Control Strategies for Energy Management in Parallel Hybrid Vehicles Antonio Sciarretta and Lino Guzzella 6th International Conference on Engines for Automobile (ICE 2003), Capri, Napoli, Italy, pp.60-60, Napoli: S.n., September 14-19, 2003.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Rule-based and optimal control strategies for energy management in parallel hybrid vehicles",
+      "year": 2003,
+      "citation_raw": "Rule-based and optimal control strategies for energy management in parallel hybrid vehicles Antonio Sciarretta and Lino Guzzella 6th International Conference on Engines for Automobile, ICE 2003 Italy: ICE, September 14-19, 2003.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Exhaust-Gas Dynamics Model for Identification Purposes",
+      "year": 2003,
+      "citation_raw": "Exhaust-Gas Dynamics Model for Identification Purposes Marzio Locatelli, Christopher H. Onder and Hans P. Geering SAE 2003 World Congress & Exhibition New York, NY: SAE, March 3-6, 2003.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    },
+    {
+      "title": "Inertial, Resistive and Capacitive Effects in Engine Intake Systems: An Analysis With A Quasi-Propagatory Model",
+      "year": 2003,
+      "citation_raw": "Inertial, Resistive and Capacitive Effects in Engine Intake Systems: An Analysis With A Quasi-Propagatory Model Roberto Cipollone and Antonio Sciarretta 6th International Conference on Engines for Automobile (ICE 2003) Napoli: 6th International Conference on Engines for Automobile (ICE 2003), September 14-19, 2003.",
+      "source_url": "https://idsc.ethz.ch/research-guzzella-onder/publications.html"
+    }
+  ]
+}

@@ -79,6 +79,10 @@ aside.on{transform:none}
 .paper small{color:var(--fg2)}
 .tags{display:flex;flex-wrap:wrap;gap:5px}
 .tag{font-size:12px;padding:1px 8px;background:var(--muted);border-radius:6px;color:var(--fg2)}
+.cite{font-size:12.5px;color:var(--fg2);overflow-wrap:anywhere}
+.dpbtn{height:30px;padding:0 12px;border:1px solid var(--line);background:var(--surface);border-radius:7px;cursor:pointer;justify-self:start}
+.tier.ok{background:var(--accent-soft);color:var(--accent)}
+.bar2{height:8px;border-radius:4px;background:var(--muted);overflow:hidden;display:flex;min-width:120px}.bar2 i{display:block;height:100%}
 ul.notes{margin:0;padding-left:18px;display:grid;gap:7px;max-width:72ch}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 @media (max-width:620px){.hide-sm{display:none}.count{margin-left:0}}
@@ -97,8 +101,8 @@ const fmt=n=>Number(n||0).toLocaleString('ko-KR');
 const areaName=Object.fromEntries(D.areas.map(a=>[a.id,a.name]));
 const uni=Object.fromEntries(D.unis.map(u=>[u.key,u]));
 const safeUrl=u=>/^https?:\/\//.test(u||'')?u:null;
-const views=[['overview','핵심 요약'],['venues','학회·저널'],['labs','연구실'],['universities','대학'],['method','조사 방법']];
-const st={view:'overview',vType:'conference',vArea:'all',vTier:false,lq:'',lUni:'all',lArea:'all',lAll:false,page:0};
+const views=[['overview','핵심 요약'],['venues','학회·저널'],['labs','연구실'],['progress','논문 수집'],['universities','대학'],['method','조사 방법']];
+const st={view:'overview',vType:'conference',vArea:'all',vTier:false,lq:'',lUni:'all',lArea:'all',lAll:false,lDp:false,page:0};
 const tabs=$('#tabs');
 views.forEach(([id,n])=>{const b=document.createElement('button');b.textContent=n;b.role='tab';b.dataset.v=id;b.onclick=()=>{location.hash=id};tabs.append(b)});
 function movePill(){const a=$(`[data-v="${st.view}"]`,tabs),p=$('#pill');a.scrollIntoView({block:'nearest',inline:'nearest'});p.style.width=a.offsetWidth+'px';p.style.transform=`translateX(${a.offsetLeft}px)`;tabs.querySelectorAll('button').forEach(b=>b.setAttribute('aria-selected',b===a))}
@@ -117,7 +121,7 @@ function overview(){
   return `<section data-view="overview">
   <div class="lead"><h1>세계 상위 10개 대학과 서울대·KAIST·POSTECH의 기계공학 연구는 9개 분야로 나뉘고, 분야마다 모이는 학회가 다릅니다</h1>
   <p class="lede">QS ${D.qsYear} 기계·항공·제조공학 순위 기준이며, ${D.since}년 이후 논문을 집계했습니다. 표의 학회는 가장 많은 연구실이 논문을 낸 곳입니다.</p></div>
-  <div class="stats"><div><b>13</b>대학</div><div><b>${fmt(t.labs)}</b>교수·연구실 조사</div><div><b>${fmt(t.scoped)}</b>기계공학 범위로 집계</div><div><b>${fmt(t.papers)}</b>논문</div></div>
+  <div class="stats"><div><b>13</b>대학</div><div><b>${fmt(t.labs)}</b>교수·연구실 조사</div><div><b>${fmt(t.scoped)}</b>기계공학 범위로 집계</div><div><b>${fmt(t.papers)}</b>논문 (OpenAlex)</div><div><b>${fmt(t.dpPapers)}</b>연구실 사이트 게시 논문 (${fmt(t.dpLabs)}개 연구실)</div></div>
   <div class="block"><h2>분야별 대표 학회와 저널</h2><div class="table-box"><table><thead><tr><th>분야</th><th class="num">연구실</th><th>학술대회 (많이 참여한 순)</th><th>저널 (많이 참여한 순)</th></tr></thead><tbody>${rows}</tbody></table></div></div>
   <div class="block"><h2>대학별 연구 비중</h2><p class="sub">각 대학의 집계 논문 중 분야별 비율(%)입니다. 진할수록 비중이 큽니다.</p><div class="table-box"><table class="heat"><thead><tr><th>대학</th>${D.areas.map(a=>`<th>${esc(a.name)}</th>`).join('')}</tr></thead><tbody>${heat}</tbody></table></div></div>
   </section>`}
@@ -133,23 +137,47 @@ function venues(){const vs=venueRows();
   </tbody></table></div>
   <p class="sub">등급: 핵심은 6개 이상 대학과 10개 이상 연구실, 주요는 3개 이상 대학과 5개 이상 연구실이 논문을 낸 곳입니다. 공식 순위가 아니라 이 조사 안에서의 지표입니다. 행을 누르면 사용 대학을 볼 수 있습니다.</p></section>`}
 const PER=40;
-function labRows(){const q=st.lq.trim().toLowerCase();return D.labs.filter(l=>(st.lAll||l.scope)&&(st.lUni==='all'||l.u===st.lUni)&&(st.lArea==='all'||l.area===st.lArea)&&(!q||[l.pi,l.en,l.lab,...l.topics,...l.venues].join(' ').toLowerCase().includes(q)))}
+function labRows(){const q=st.lq.trim().toLowerCase();return D.labs.filter(l=>(st.lAll||l.scope||(st.lDp&&l.dp&&l.dp.n))&&(!st.lDp||(l.dp&&l.dp.n))&&(st.lUni==='all'||l.u===st.lUni)&&(st.lArea==='all'||l.area===st.lArea)&&(!q||[l.pi,l.en,l.lab,...l.topics,...l.venues,...(l.dp?l.dp.recent.map(p=>p.t||''):[])].join(' ').toLowerCase().includes(q)))}
 const statusPill=l=>l.status==='unverified'?'<span class="tier flag">확인 필요</span>':l.status==='unofficial'?'<span class="tier flag">비공식 명단</span>':!l.scope?'<span class="tier major">인접 분야</span>':'';
 function labsTable(){const all=labRows();const pages=Math.max(1,Math.ceil(all.length/PER));st.page=Math.min(st.page,pages-1);const rows=all.slice(st.page*PER,(st.page+1)*PER);
-  return `<div class="table-box"><table><thead><tr><th>교수 / 연구실</th><th>대학</th><th>분야</th><th class="hide-sm">연구 주제</th><th class="num">논문</th><th></th></tr></thead><tbody>
-  ${rows.map(l=>`<tr class="click" data-lab="${esc(l.id)}"><td><div style="font-weight:500">${esc(l.pi)}${l.en?` <span class="sub">${esc(l.en)}</span>`:''}</div>${l.lab?`<div class="sub">${esc(l.lab)}</div>`:''}</td><td style="white-space:nowrap">${esc(uni[l.u].name)}</td><td style="white-space:nowrap">${esc(areaName[l.area]||'–')}</td><td class="hide-sm sub">${esc(l.topics.slice(0,3).join(', '))}</td><td class="num">${l.n}</td><td>${statusPill(l)}</td></tr>`).join('')||'<tr><td colspan="6" class="sub">조건에 맞는 연구실이 없습니다. 필터를 줄여 보세요.</td></tr>'}
+  return `<div class="table-box"><table><thead><tr><th>교수 / 연구실</th><th>대학</th><th>분야</th><th class="hide-sm">연구 주제</th><th class="num" title="OpenAlex 2022년 이후 집계">논문</th><th class="num" title="연구실·교수 공식 사이트 게시 목록">사이트 게시</th><th></th></tr></thead><tbody>
+  ${rows.map(l=>`<tr class="click" data-lab="${esc(l.id)}"><td><div style="font-weight:500">${esc(l.pi)}${l.en?` <span class="sub">${esc(l.en)}</span>`:''}</div>${l.lab?`<div class="sub">${esc(l.lab)}</div>`:''}</td><td style="white-space:nowrap">${esc(uni[l.u].name)}</td><td style="white-space:nowrap">${esc(areaName[l.area]||'–')}</td><td class="hide-sm sub">${esc(l.topics.slice(0,3).join(', '))}</td><td class="num">${l.n}</td><td class="num">${l.dp&&l.dp.n?fmt(l.dp.n):'–'}</td><td>${statusPill(l)}</td></tr>`).join('')||'<tr><td colspan="7" class="sub">조건에 맞는 연구실이 없습니다. 필터를 줄여 보세요.</td></tr>'}
   </tbody></table></div><div class="pager"><span class="count">${fmt(all.length)}개 · ${st.page+1}/${pages}쪽</span><button id="prev" ${st.page?'':'disabled'}>이전</button><button id="next" ${st.page<pages-1?'':'disabled'}>다음</button></div>`}
-function labs(){return `<section data-view="labs"><div class="lead"><h1>연구실 디렉터리</h1><p class="lede">교수 이름, 연구 주제, 학회 이름으로 찾을 수 있습니다. 행을 누르면 최근 논문을 볼 수 있습니다.</p></div>
-  <div class="ctrl"><input class="field" id="lq" type="search" placeholder="예: soft robotics, 터보기계, Journal of Fluid Mechanics" value="${esc(st.lq)}" aria-label="연구실 검색"><select class="field" id="lUni" aria-label="대학 선택"><option value="all">모든 대학</option>${D.unis.map(u=>`<option value="${u.key}" ${st.lUni===u.key?'selected':''}>${esc(u.name)}</option>`).join('')}</select><label class="check"><input type="checkbox" id="lAll" ${st.lAll?'checked':''}>확인 필요·인접 분야 포함</label></div>
+function labs(){return `<section data-view="labs"><div class="lead"><h1>연구실 디렉터리</h1><p class="lede">교수 이름, 연구 주제, 학회 이름으로 찾을 수 있습니다. 행을 누르면 최근 논문과 연구실 사이트에 게시된 논문 목록을 볼 수 있습니다.</p></div>
+  <div class="ctrl"><input class="field" id="lq" type="search" placeholder="예: soft robotics, 터보기계, Journal of Fluid Mechanics" value="${esc(st.lq)}" aria-label="연구실 검색"><select class="field" id="lUni" aria-label="대학 선택"><option value="all">모든 대학</option>${D.unis.map(u=>`<option value="${u.key}" ${st.lUni===u.key?'selected':''}>${esc(u.name)}</option>`).join('')}</select><label class="check"><input type="checkbox" id="lAll" ${st.lAll?'checked':''}>확인 필요·인접 분야 포함</label><label class="check"><input type="checkbox" id="lDp" ${st.lDp?'checked':''}>사이트 게시 논문이 있는 연구실만</label></div>
   <div class="ctrl" id="lAreas">${areaChips(st.lArea,'data-a')}</div><div id="labBody">${labsTable()}</div></section>`}
 function universities(){return `<section data-view="universities"><div class="lead"><h1>조사 대학</h1><p class="lede">학과 페이지와 교수 목록 출처입니다.</p></div>
   <div class="table-box"><table><thead><tr><th class="num">QS</th><th>대학</th><th>조사 단위</th><th class="num">조사</th><th class="num">확인</th><th class="num">집계</th><th>최다 분야</th></tr></thead><tbody>
   ${D.unis.map(u=>{const a=Object.entries(u.areas).sort((x,y)=>y[1]-x[1])[0];const link=safeUrl(u.list)||(u.official?safeUrl(u.url):null);return `<tr><td class="num">${esc(u.qs||'–')}</td><td style="white-space:nowrap;font-weight:500">${esc(u.name)}${u.official?'':' <span class="tier flag">비공식 명단</span>'}</td><td>${link?`<a href="${esc(link)}" target="_blank" rel="noopener">${esc(u.dept)}</a>`:esc(u.dept)}</td><td class="num">${u.labs}</td><td class="num">${u.reliable}</td><td class="num">${u.scoped}</td><td style="white-space:nowrap">${a?esc(areaName[a[0]]):'–'}</td></tr>`}).join('')}
   </tbody></table></div><p class="sub">조사는 명단 인원, 확인은 OpenAlex 저자와 연결된 인원, 집계는 그중 기계공학 관련 논문이 30% 이상인 인원입니다.</p></section>`}
-function method(){const t=D.totals;return `<section data-view="method"><div class="lead"><h1>조사 방법과 한계</h1><p class="lede">조사일은 2026년 11월 9일입니다.</p></div>
- <div class="block"><h2>어떻게 조사했나</h2><ul class="notes"><li>QS World University Rankings by Subject ${D.qsYear}의 Engineering - Mechanical, Aeronautical &amp; Manufacturing 상위 10개 대학과 서울대, KAIST, POSTECH을 대상으로 했습니다.</li><li>교수와 연구실 명단은 각 대학 공식 페이지에서 수집했습니다. 연구실 목록이 따로 없는 대학은 교수별 연구그룹을 한 연구실로 봤습니다.</li><li>논문은 공개 학술 데이터베이스 OpenAlex에서 ${D.since}년 이후의 학술지 논문, 리뷰, 학술대회 논문을 가져왔습니다. 프리프린트와 데이터셋 저장소는 제외했습니다.</li><li>논문은 OpenAlex 주제 분류와 키워드로 9개 분야에 배정했고, 연구실의 분야는 가장 많은 논문이 속한 분야입니다.</li></ul></div>
- <div class="block"><h2>결과를 읽을 때 주의할 점</h2><ul class="notes"><li><b>연구실 사이트를 하나씩 읽지 않았습니다.</b> 연구 주제는 대학 공식 페이지에 있으면 그것을, 없으면 OpenAlex 주제를 표시합니다. 연구실 소개와 다를 수 있습니다.</li><li><b>KAIST 명단은 비공식입니다.</b> 조사 시점에 me.kaist.ac.kr에 접속되지 않아, 소속 표기에 KAIST와 Mechanical Engineering이 있는 논문의 교신·마지막 저자 중 2023년 이후 5편 이상인 사람으로 추정했습니다. 교수가 아닌 연구자가 포함되거나 일부 교수가 빠질 수 있습니다.</li><li><b>동명이인 위험이 있습니다.</b> 이름, 소속, 연구 분야로 저자를 맞췄고, 불확실한 ${fmt(t.labs-t.reliable)}명은 "확인 필요"로 표시해 집계에서 뺐습니다. 집계된 인원에도 오류가 남아 있을 수 있습니다.</li><li><b>학술대회는 저널보다 덜 수록됩니다.</b> 특히 고체역학과 열 분야 학회는 OpenAlex 수록이 적어 실제 위상보다 낮게 나옵니다. 이 분야는 저널 순위를 함께 보세요.</li><li><b>대학별 범위가 다릅니다.</b> Oxford는 학부 전체 교수에서 기계공학 관련 논문이 30% 미만인 사람을 뺐고, Cambridge는 3개 분과의 교수 직함 보유자만 포함해 Dr 호칭의 교수진이 빠졌습니다. Harvard는 재료과학과 기계공학 통합 영역입니다.</li><li>등급은 이 조사 안의 지표이며 공식 순위가 아닙니다. h-index는 OpenAlex 값으로, 오래되고 규모가 큰 저널에 유리합니다.</li></ul></div></section>`}
-const render={overview,venues,labs,universities,method};
+function method(){const t=D.totals;return `<section data-view="method"><div class="lead"><h1>조사 방법과 한계</h1><p class="lede">OpenAlex 집계는 2026년 11월 9일, 연구실 사이트 논문 수집은 ${esc((D.dpProgress||{}).generated||'')} 기준입니다.</p></div>
+ <div class="block"><h2>어떻게 조사했나</h2><ul class="notes"><li>QS World University Rankings by Subject ${D.qsYear}의 Engineering - Mechanical, Aeronautical &amp; Manufacturing 상위 10개 대학과 서울대, KAIST, POSTECH을 대상으로 했습니다.</li><li>교수와 연구실 명단은 각 대학 공식 페이지에서 수집했습니다. 연구실 목록이 따로 없는 대학은 교수별 연구그룹을 한 연구실로 봤습니다.</li><li>논문은 공개 학술 데이터베이스 OpenAlex에서 ${D.since}년 이후의 학술지 논문, 리뷰, 학술대회 논문을 가져왔습니다. 프리프린트와 데이터셋 저장소는 제외했습니다.</li><li>논문은 OpenAlex 주제 분류와 키워드로 9개 분야에 배정했고, 연구실의 분야는 가장 많은 논문이 속한 분야입니다.</li><li>이와 별도로 교수·연구실 공식 사이트의 Publications 페이지를 브라우저로 열어 게시된 논문 목록을 수집했습니다. 이 목록은 분야 집계와 학회 순위에 쓰지 않고, 연구실 상세 화면과 ‘논문 수집’ 탭에서 보여줍니다.</li></ul></div>
+ <div class="block"><h2>결과를 읽을 때 주의할 점</h2><ul class="notes"><li><b>분야·학회 집계는 OpenAlex 기준입니다.</b> 연구 주제는 대학 공식 페이지에 있으면 그것을, 없으면 OpenAlex 주제를 표시합니다. 연구실 소개와 다를 수 있습니다.</li><li><b>KAIST의 OpenAlex 집계 명단은 비공식입니다.</b> 첫 조사 시점에 me.kaist.ac.kr에 접속되지 않아, 소속 표기에 KAIST와 Mechanical Engineering이 있는 논문의 교신·마지막 저자 중 2023년 이후 5편 이상인 사람으로 추정했습니다. 교수가 아닌 연구자가 포함되거나 일부 교수가 빠질 수 있습니다. 연구실 사이트 논문 수집은 이후 확인한 학과 공식 임시 명단을 썼고, 이 명단에만 있는 교수도 연구실 목록에 추가했습니다(‘확인 필요’ 포함 시 표시).</li><li><b>동명이인 위험이 있습니다.</b> 이름, 소속, 연구 분야로 저자를 맞췄고, 불확실한 ${fmt(t.labs-t.reliable)}명은 "확인 필요"로 표시해 집계에서 뺐습니다. 집계된 인원에도 오류가 남아 있을 수 있습니다.</li><li><b>학술대회는 저널보다 덜 수록됩니다.</b> 특히 고체역학과 열 분야 학회는 OpenAlex 수록이 적어 실제 위상보다 낮게 나옵니다. 이 분야는 저널 순위를 함께 보세요.</li><li><b>대학별 범위가 다릅니다.</b> Oxford는 학부 전체 교수에서 기계공학 관련 논문이 30% 미만인 사람을 뺐고, Cambridge는 3개 분과의 교수 직함 보유자만 포함해 Dr 호칭의 교수진이 빠졌습니다. Harvard는 재료과학과 기계공학 통합 영역입니다.</li><li>등급은 이 조사 안의 지표이며 공식 순위가 아닙니다. h-index는 OpenAlex 값으로, 오래되고 규모가 큰 저널에 유리합니다.</li></ul></div></section>`}
+
+const dpStatus={complete:'<span class="tier ok">게시 목록 전체 수집</span>',partial:'<span class="tier major">일부 수집·검수 필요</span>',blocked:'<span class="tier flag">사이트 접근 불가</span>'};
+const paperHtml=p=>{const d=safeUrl(p.d);const t=p.t||'';return `<div class="paper">${t?`<div>${d?`<a href="${esc(d)}" target="_blank" rel="noopener">${esc(t)}</a>`:esc(t)}</div>`:''}<div class="cite">${esc(p.c)}</div><small>${p.y?esc(p.y)+(p.ys?' (목록 분류 연도)':''):'연도 미상'}</small></div>`};
+function dpBlock(l){const p=l.dp;if(!p)return `<div class="block"><h2>연구실 사이트 게시 논문</h2><p class="sub">아직 조사하지 않았습니다.</p></div>`;
+  const src=p.src.map(u=>safeUrl(u)).filter(Boolean);
+  return `<div class="block"><h2>연구실 사이트 게시 논문</h2><div>${dpStatus[p.status]||''} <span class="sub">${fmt(p.n)}건${p.other?` (기타 성과 ${fmt(p.other)}건 별도)`:''}${p.span?` · ${p.span[0]}–${p.span[1]}년`:''}${p.acc?` · ${esc(p.acc)} 확인`:''}</span></div>
+  ${p.auto?'<p class="sub">페이지 텍스트에서 자동으로 나눈 목록입니다. 제목·연도가 틀릴 수 있으니 원문 인용과 출처 페이지를 함께 확인하세요.</p>':''}
+  ${src.length?`<div class="sub">출처: ${src.map((u,i)=>`<a href="${esc(u)}" target="_blank" rel="noopener">페이지 ${i+1}</a>`).join(' · ')}</div>`:''}
+  <div id="dpList">${p.recent.map(paperHtml).join('')||`<p class="sub">${esc(p.note||'게시된 논문을 찾지 못했습니다.')}</p>`}</div>
+  ${p.n>p.recent.length?`<button class="dpbtn" id="dpAll">전체 ${fmt(p.n)}건 보기</button>`:''}</div>`}
+async function loadDp(l){const box=$('#dpList'),btn=$('#dpAll');btn.disabled=true;btn.textContent='불러오는 중…';
+  try{const r=await fetch(`pubs/${encodeURIComponent(l.id)}.json`);if(!r.ok)throw new Error(r.status);const rows=await r.json();
+    btn.outerHTML=`<input class="field" id="dpq" type="search" placeholder="이 연구실 논문에서 검색" aria-label="논문 검색">`;
+    const show=q=>{q=q.trim().toLowerCase();const f=q?rows.filter(p=>(p.c+' '+(p.t||'')).toLowerCase().includes(q)):rows;box.innerHTML=`<p class="sub">${fmt(f.length)}건</p>`+f.map(paperHtml).join('')};
+    show('');$('#dpq').oninput=e=>show(e.target.value)}
+  catch(e){btn.disabled=false;btn.textContent='불러오지 못했습니다. 다시 시도';}}
+function progress(){const P=D.dpProgress||{unis:[],totals:{}};const T=P.totals;
+  const rows=P.unis.map(u=>{const c=u.complete||0,b=u.blocked||0,pe=u.pending||0,w=u.with_entries||0,tg=u.targets||1;const pw=Math.max(0,w-c);const none=Math.max(0,tg-c-pw-b-pe);
+    const seg=(n,col)=>n?`<i style="width:${n/tg*100}%;background:${col}"></i>`:'';
+    return `<tr><td style="white-space:nowrap;font-weight:500">${esc(uni[u.key]?uni[u.key].name:u.key)}</td><td class="num">${u.targets}</td><td class="num">${c}</td><td class="num">${pw}</td><td class="num">${none}</td><td class="num">${b}</td><td class="num">${pe}</td><td class="num">${fmt(u.posted_entries||0)}</td><td class="hide-sm"><div class="bar2">${seg(c,'var(--accent)')}${seg(pw,'rgba(var(--heat),.45)')}${seg(b,'var(--warn)')}</div></td></tr>`}).join('');
+  return `<section data-view="progress"><div class="lead"><h1>연구실 사이트 논문 수집 현황</h1><p class="lede">교수·연구실 공식 사이트의 Publications 페이지를 직접 열어 게시된 논문 목록을 모으고 있습니다. ${esc(P.generated)} 기준입니다.</p></div>
+  <div class="stats"><div><b>${fmt(T.targets)}</b>조사 대상 교수</div><div><b>${fmt(T.with_entries)}</b>논문 목록 확보</div><div><b>${fmt(T.posted_entries)}</b>게시 논문 기록</div><div><b>${fmt(T.pending||0)}</b>미조사</div></div>
+  <div class="table-box"><table><thead><tr><th>대학</th><th class="num">대상</th><th class="num">전체 수집</th><th class="num">일부 수집</th><th class="num" title="교수 프로필만 확인했거나 논문 목록 페이지를 찾지 못함">목록 미확보</th><th class="num">접근 불가</th><th class="num">미조사</th><th class="num">게시 기록</th><th class="hide-sm">진행</th></tr></thead><tbody>${rows}</tbody></table></div>
+  <ul class="notes"><li><b>전체 수집</b>은 사이트에 게시된 목록을 끝까지 확인한 경우입니다. 교수의 평생 전체 논문을 뜻하지는 않습니다.</li><li><b>목록 미확보</b>는 교수 프로필만 확인했거나 사이트에서 논문 목록을 찾지 못한 경우입니다.</li><li><b>일부 수집</b>은 목록 일부만 확보했거나, 페이지 텍스트에서 자동으로 항목을 나눠 아직 사람이 검수하지 않은 경우입니다.</li><li>같은 논문이 여러 연구실 사이트에 실리면 연구실마다 따로 셉니다. 특허·수상·학위논문 등으로 표시된 항목은 논문 수에서 뺐습니다.</li><li>원본 텍스트와 수집 스크립트는 저장소의 <code>data/direct-publications</code>와 <code>scripts</code>에 있습니다.</li></ul></section>`}
+const render={overview,venues,labs,progress,universities,method};
 function draw(){$('#app').innerHTML=render[st.view]();bind();movePill()}
 function bind(){
   document.querySelectorAll('#vAreas .chip').forEach(b=>b.onclick=()=>{st.vArea=b.dataset.a;draw()});
@@ -158,7 +186,7 @@ function bind(){
   const vt=$('#vt');if(vt){vt.querySelectorAll('button').forEach(b=>{if(b.getAttribute('aria-selected')==='true')b.style.cssText='background:var(--surface);box-shadow:0 0 0 .5px var(--line)'})}
   const tier=$('#vTier');if(tier)tier.onchange=()=>{st.vTier=tier.checked;draw()};
   document.querySelectorAll('tr[data-i]').forEach(r=>r.onclick=e=>{if(!e.target.closest('a'))r.querySelector('.expand').classList.toggle('open')});
-  const q=$('#lq');if(q){q.oninput=()=>{st.lq=q.value;st.page=0;refreshLabs()};$('#lUni').onchange=e=>{st.lUni=e.target.value;st.page=0;refreshLabs()};$('#lAll').onchange=e=>{st.lAll=e.target.checked;st.page=0;refreshLabs()};bindLabs()}
+  const q=$('#lq');if(q){q.oninput=()=>{st.lq=q.value;st.page=0;refreshLabs()};$('#lUni').onchange=e=>{st.lUni=e.target.value;st.page=0;refreshLabs()};$('#lAll').onchange=e=>{st.lAll=e.target.checked;st.page=0;refreshLabs()};$('#lDp').onchange=e=>{st.lDp=e.target.checked;st.page=0;refreshLabs()};bindLabs()}
 }
 function refreshLabs(){$('#labBody').innerHTML=labsTable();bindLabs()}
 function bindLabs(){document.querySelectorAll('tr[data-lab]').forEach(r=>r.onclick=()=>openLab(r.dataset.lab));const p=$('#prev'),n=$('#next');if(p){p.onclick=()=>{st.page--;refreshLabs()};n.onclick=()=>{st.page++;refreshLabs()}}}
@@ -169,8 +197,8 @@ function openLab(id){const l=D.labs.find(x=>x.id===id);const url=safeUrl(l.url);
   ${l.topics.length?`<div class="block"><div class="sub">연구 주제 (${l.topicSrc==='official'?'대학 공식 페이지':'OpenAlex 추정'})</div><div class="tags">${l.topics.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div></div>`:''}
   ${l.venues.length?`<div class="block"><div class="sub">자주 낸 학회·저널</div><div>${l.venues.map(esc).join('<br>')}</div></div>`:''}
   ${url?`<a href="${esc(url)}" target="_blank" rel="noopener">연구실·교수 페이지 열기</a>`:''}
-  <div class="block"><h2>최근 논문</h2><div>${l.recent.map(p=>{const d=safeUrl(p.d);return `<div class="paper"><div>${d?`<a href="${esc(d)}" target="_blank" rel="noopener">${esc(p.t)}</a>`:esc(p.t)}</div><small>${esc(p.y)} · ${esc(p.v)}</small></div>`}).join('')||'<p class="sub">표시할 논문이 없습니다. 저자 연결이 불확실하면 논문을 표시하지 않습니다.</p>'}</div></div>`;
-  sheet.classList.add('on');scrim.classList.add('on');sheet.setAttribute('aria-hidden','false');$('#close').onclick=closeLab;$('#close').focus()}
+  <div class="block"><h2>최근 논문</h2><div>${l.recent.map(p=>{const d=safeUrl(p.d);return `<div class="paper"><div>${d?`<a href="${esc(d)}" target="_blank" rel="noopener">${esc(p.t)}</a>`:esc(p.t)}</div><small>${esc(p.y)} · ${esc(p.v)}</small></div>`}).join('')||'<p class="sub">표시할 논문이 없습니다. 저자 연결이 불확실하면 논문을 표시하지 않습니다.</p>'}</div></div>${dpBlock(l)}`;
+  sheet.classList.add('on');scrim.classList.add('on');sheet.setAttribute('aria-hidden','false');$('#close').onclick=closeLab;const dpb=$('#dpAll');if(dpb)dpb.onclick=()=>loadDp(l);$('#close').focus()}
 function closeLab(){sheet.classList.remove('on');scrim.classList.remove('on');sheet.setAttribute('aria-hidden','true');if(lastFocus&&lastFocus.focus)lastFocus.focus()}
 scrim.onclick=closeLab;addEventListener('keydown',e=>{if(e.key==='Escape')closeLab()});
 function route(){const h=location.hash.slice(1);st.view=render[h]?h:'overview';draw();window.scrollTo(0,0)}

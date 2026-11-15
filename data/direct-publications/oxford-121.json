@@ -1,0 +1,670 @@
+{
+  "university": "University of Oxford",
+  "university_key": "oxford",
+  "pi": "Philip Torr",
+  "lab_name": null,
+  "lab_url": "https://eng.ox.ac.uk/people/philip-torr",
+  "publication_urls": [
+    "https://torrvision.com/publication/",
+    "https://torrvision.com/publication/www.feihuzhang.com",
+    "https://torrvision.com/publication/NULL",
+    "https://torrvision.com/publication/publications/2020/Calibration_Focal_Loss_ICML_UDL.pdf",
+    "https://torrvision.com/publication/publications/2020/ICRA2020.pdf",
+    "https://torrvision.com/publication/publications/2020/gdumb.pdf",
+    "https://torrvision.com/publication/publications/2020/ECCV2020-1.pdf",
+    "https://torrvision.com/publication/publications/2020/ECCV2020-2.pdf",
+    "https://torrvision.com/publication/publications/2020/subspace_CL.pdf",
+    "https://torrvision.com/publication/publications/2020/bmvc_final.pdf"
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 10개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Universal In-Context Approximation By Prompting Fully Recurrent Models",
+      "year": 2024,
+      "citation_raw": "Universal In-Context Approximation By Prompting Fully Recurrent Models Aleksandar Petrov, Tom A. Lamb, Alasdair Paren, Philip H.S. Torr, Adel Bibi NeurIPS 2024",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Sample-dependent Adaptive Temperature Scaling for Improved Calibration",
+      "year": 2023,
+      "citation_raw": "Sample-dependent Adaptive Temperature Scaling for Improved Calibration Tom Joy, Francesco Pinto, Ser-Nam Lim, Philip H. S. Torr, Puneet K. Dokania AAAI, 2023",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "YouMVOS: An Actor-Centric Multi-Shot Video Object Segmentation Dataset",
+      "year": 2022,
+      "citation_raw": "YouMVOS: An Actor-Centric Multi-Shot Video Object Segmentation Dataset Donglai Wei, Siddhant Kharbanda, Sarthak Arora, Roshan Roy, Nishant Jain, Akash Palrecha, Tanav Shah, Shray Mathur, Ritik Mathur, Abhijay Kemkar, Anirudh Chakravarthy, Zudi Lin, Won-Dong Jang, Yansong Tang, Song Bai, James Tompkin, Philip HS Torr, Hanspeter Pfister Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training",
+      "year": 2022,
+      "citation_raw": "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training Pau de Jorge, Adel Bibi, Riccardo Volpi, Amartya Sanyal, Philip H. S. Torr, Grégory Rogez, Puneet K. Dokania NeurIPS, 2022",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Combating Adversaries with Anti-Adversaries",
+      "year": 2022,
+      "citation_raw": "Combating Adversaries with Anti-Adversaries Motasem Alfarra, Juan C. Pérez, Ali Thabet, Adel Bibi, Philip H. S. Torr, Bernard Ghanem AAAI, 2022",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "FedSR: A Simple and Effective Domain Generalization Method for Federated Learning",
+      "year": 2022,
+      "citation_raw": "FedSR: A Simple and Effective Domain Generalization Method for Federated Learning A. Tuan Nguyen, Philip H.S. Torr, Ser-Nam Lim NeurIPS, 2022",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Using Hindsight to Anchor Past Knowledge in Continual Learning",
+      "year": 2021,
+      "citation_raw": "Using Hindsight to Anchor Past Knowledge in Continual Learning Arslan Chaudhry, David Lopez-Paz, Albert Gordo, Puneet K. Dokania, Philip H. S. Torr AAAI, 2021",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Separable Flow: Learning Motion Cost Volumes for Optical Flow Estimation",
+      "year": 2021,
+      "citation_raw": "Separable Flow: Learning Motion Cost Volumes for Optical Flow Estimation Feihu Zhang, Oliver J. Woodford, Victor Prisacariu, Philip H.S. Torr International Conference on Computer Vision (ICCV), 2021",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Scaling the Convex Barrier with Active Sets",
+      "year": 2021,
+      "citation_raw": "MURI Scaling the Convex Barrier with Active Sets Harkirat Singh Behl, Alessandro De Palma, Rudy Bunel, Philip H.S. Torr, M. Pawan Kumar International Conference on Learning Representations (ICLR), 2021",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Relating by Contrasting: A Data-efficient Framework for Multimodal DGMs",
+      "year": 2021,
+      "citation_raw": "MURI Relating by Contrasting: A Data-efficient Framework for Multimodal DGMs Yuge Shi, Brooks Paige, Philip H.S. Torr, N. Siddharth International Conference on Learning Representations (ICLR), 2021",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Progressive skeletonization: Trimming more fat from a network at initialization",
+      "year": 2021,
+      "citation_raw": "MURI Progressive skeletonization: Trimming more fat from a network at initialization Pau de Jorge, Amartya Sanyal, Harkirat S. Behl, Philip HS Torr, Gregory Rogez, and Puneet K. Dokania International Conference on Learning Representations (ICLR), 2021",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Deep learning for predicting COVID-19 malignant progression",
+      "year": 2021,
+      "citation_raw": "Deep learning for predicting COVID-19 malignant progression Cong Fang, Song Bai, Qianlan Chen, Yu Zhoua, Liming Xia, Lixin Qin, Shi Gong, Xudong Xie, Chunhua Zhou, Dandan Tu, Changzheng Zhang, Xiaowu Liu, Weiwei Chen, Xiang Bai, Philip H.S.Torr Medical Image Analysis, Volume 72, August 2021, 102096",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Simulation-Based Inference for Global Health Decisions",
+      "year": 2020,
+      "citation_raw": "Simulation-Based Inference for Global Health Decisions Christian Schroeder de Witt, Bradley Gram-Hansen, Nantas Nardelli, Andrew Gambardella, Rob Zinkov, Puneet Dokania, N. Siddharth, Ana Belen Espinosa-Gonzalez, Ara Darzi, Philip Torr, Atılım Günes Baydin ICML Workshop on Machine Learning for Global Health, Thirty-Seventh International Conference on Machine Learning (ICML 2020)",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Real-Time RGB-D Camera Pose Estimation in Novel Scenes Using a Relocalisation Cascade",
+      "year": 2020,
+      "citation_raw": "MURI Real-Time RGB-D Camera Pose Estimation in Novel Scenes Using a Relocalisation Cascade Tommaso Cavallari, Stuart Golodetz, Nicholas A. Lord, Julien Valentin, Victor A. Prisacariu, Luigi Di Stefano, Philip H. S. Torr IEEE Transactions on Pattern Analysis and Machine Intelligence (Volume: 42, Issue: 10, Oct. 1 2020)",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "DGPose:Deep Generative Models for Human Body Analysis",
+      "year": 2020,
+      "citation_raw": "MURI DGPose:Deep Generative Models for Human Body Analysis Rodrigo de Bem, Arnab Ghosh, Thalaiyasingam Ajanthan, Ondrej Miksik*, Adnane Boukhayma, N. Siddharth, Philip H.S. Torr International Journal of Computer Vision (2020) 128:1537–1563",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Calibrating Deep Neural Networks using Focal Loss",
+      "year": 2020,
+      "citation_raw": "Calibrating Deep Neural Networks using Focal Loss Jishnu Mukhoti, Viveka Kulharia, Amartya Sanyal, Stuart Golodetz, Philip H. S. Torr, Puneet K. Dokania Advanced in Neural Information Processing Systems, 2020",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Structured Disentangled Representations",
+      "year": 2019,
+      "citation_raw": "MURI Structured Disentangled Representations Babak Esmaeili, Hao Wu, Sarthak Jain, N. Siddharth, Brooks Paige, Dana H. Brooks, Jennifer Dy, Jan-Willem van de Meent Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Revisiting Reweighted Wake-Sleep for Models with Stochastic Control Flow",
+      "year": 2019,
+      "citation_raw": "MURI Revisiting Reweighted Wake-Sleep for Models with Stochastic Control Flow Tuan Anh Le, Adam R. Kosiorek, N. Siddharth, Yee Whye Teh, Frank Wood Proceedings of the International Conference on Uncertainty in Artificial Intelligence (UAI) Tel Aviv Israel",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Proximal Mean-field for Neural Network Quantization",
+      "year": 2019,
+      "citation_raw": "MURI Proximal Mean-field for Neural Network Quantization Thalaiyasingam Ajanthan, Puneet Kumar Dokania, R. Hartley, Philip H.S. Torr International Conference on Computer Vision 2019",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Meta-learning with differentiable closed-form solvers",
+      "year": 2019,
+      "citation_raw": "MURI Meta-learning with differentiable closed-form solvers Luca Bertinetto, João F. Henriques, Philip H.S. Torr, Andrea Vedaldi International Conference on Learning Representations (ICLR) 2019",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Etalumis:Bringing Probabilistic Programming to Scientific Simulators at Scale",
+      "year": 2019,
+      "citation_raw": "MURI Etalumis:Bringing Probabilistic Programming to Scientific Simulators at Scale Atılım Güneş Baydin , Lei Shao, Wahid Bhimji, Lukas Heinrich, Lawrence Meadows, Jialin Liu, Andreas Munk, Saeid Naderiparizi, Bradley Gram-Hansen, Gilles Louppe, Mingfei Ma, Mingfei Ma, Philip H.S. Torr, Victor Lee, Kyle Cranmer, Prabhat, Frank Wood Proceedings of the International Conference for High Performance Computing Networking Storage and Analysis (SC19)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Efficient Relaxations for Dense CRFs with Sparse Higher-Order Potentials",
+      "year": 2019,
+      "citation_raw": "MURI Efficient Relaxations for Dense CRFs with Sparse Higher-Order Potentials Thomas Joy, Thalaiyasingam Ajanthan, Alban Desmaison, Rudy Bunel, Mathieu Salzmann, Pushmeet Kohli, Philip H.S. Torr, M Pawan Kumar SIAM J. Imaging Sciences 12(1): 287-318",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "BING:Binarized normed gradients for objectness estimation at 300fps",
+      "year": 2019,
+      "citation_raw": "MURI BING:Binarized normed gradients for objectness estimation at 300fps Ming-Ming Cheng, Yun Liu, Wenyu Liu, Ziming Zang, Paul L. Rosin,, Philip H.S. Torr Computational Visual Media 5(1): 3-20",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "A Conditional Deep Generative Model of People in Natural Images",
+      "year": 2019,
+      "citation_raw": "MURI A Conditional Deep Generative Model of People in Natural Images Rodrigo de Bem, Arnab Ghosh, Thalaiyasingam Ajanthan, N. Siddharth, Philip H.S. Torr, Adnane Boukhayma To appear in Winter Conference on Applications of Computer Vision (WACV) 2019",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "With Friends Like These Who Needs Adversaries?",
+      "year": 2018,
+      "citation_raw": "With Friends Like These Who Needs Adversaries? Saumya Jetley*, Nicholas A. Lord*, Philip H.S. Torr Neural Information Processing Systems (NeurIPS) 2018",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Visual Dialogue without Vision or Dialogue",
+      "year": 2018,
+      "citation_raw": "MURI Visual Dialogue without Vision or Dialogue Puneet Kumar Dokania, Philip H.S. Torr, N. Siddharth, Daniela Massiceti NeurIPS 2018 workshop on Critiquing and Correcting Trends in Machine Learning",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Riemannian Walk for Incremental Learning:Understanding Forgetting and Intransigence",
+      "year": 2018,
+      "citation_raw": "Riemannian Walk for Incremental Learning:Understanding Forgetting and Intransigence Arslan Chaudhry, Puneet Kumar Dokania, Thalaiyasingam Ajanthan, Philip H.S. Torr, Arslan Chaudhry, Puneet Kumar Dokania, Thalaiyasingam Ajanthan, Philip H.S. Torr European Conference on Computer Vision (ECCV) 2018",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Revisiting Deep Structured Models for Pixel-Level Labeling with Gradient-Based Inference",
+      "year": 2018,
+      "citation_raw": "MURI Revisiting Deep Structured Models for Pixel-Level Labeling with Gradient-Based Inference Mans Larsson, Anurag Arnab, Shuai Zheng, Philip H.S. Torr, Fredrik Kahl SIAM J. Imaging Sciences (Society for Industrial and Applied Mathematics) vol. 11 no. 4 pp. 2610-2628 2018",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Long-term Tracking in the Wild:A Benchmark",
+      "year": 2018,
+      "citation_raw": "MURI Long-term Tracking in the Wild:A Benchmark Jack Valmadre, Luca Bertinetto, João F. Henriques, Ran Tao, Andrea Vedaldi, Arnold W. M. Smeulders, Philip H.S. Torr, Efstratios Gavves European Conference on Computer Vision (ECCV) 2018",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Learn To Pay Attention",
+      "year": 2018,
+      "citation_raw": "MURI Learn To Pay Attention Saumya Jetley, Nicholas A. Lord, Namhoon Lee, Philip H.S. Torr International Conference on Learning Representations (ICLR)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "FlipDial:A Generative Model for Two-Way Visual Dialogue",
+      "year": 2018,
+      "citation_raw": "MURI FlipDial:A Generative Model for Two-Way Visual Dialogue Daniela Massiceti, N. Siddharth, Puneet Kumar Dokania, Philip H.S. Torr IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Collaborative Large-Scale Dense 3D Reconstruction with Online Inter-Agent Pose Optimisation",
+      "year": 2018,
+      "citation_raw": "MURI Collaborative Large-Scale Dense 3D Reconstruction with Online Inter-Agent Pose Optimisation Stuart Golodetz, Tommaso Cavallari, Nicholas A. Lord, Victor Adrian Prisacariu, David W. Murray, Philip H.S. Torr IEEE Transactions on Visualization and Computer Graphics (TVCG) 24(11) 2018",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "CODE:Coherence Based Decision Boundaries for Feature Correspondence",
+      "year": 2017,
+      "citation_raw": "CODE:Coherence Based Decision Boundaries for Feature Correspondence Wen-Yan Lin, Fan Wang, Ming-Ming Cheng, Sai-Kit Yeung, Philip H.S. Torr, Minh N. Do, Jiangbo Lu IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2017",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "A Semi-supervised Deep Generative Model for Human Body Analysis",
+      "year": 2018,
+      "citation_raw": "MURI A Semi-supervised Deep Generative Model for Human Body Analysis Rodrigo de Bem, Arnab Ghosh, Thalaiyasingam Ajanthan, Ondrej Miksik, N. Siddharth, Philip H.S. Torr European Conference on Computer Vision (ECCV) HBUGEN Workshop 2018",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "On-the-Fly Adaptation of Regression Forests for Online Camera Relocalisation",
+      "year": 2017,
+      "citation_raw": "MURI On-the-Fly Adaptation of Regression Forests for Online Camera Relocalisation Tommaso Cavallari, Stuart Golodetz, Nicholas A. Lord, Julien Valentin, Luigi Di Stefano, Philip H.S. Torr IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2017",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "End-to-end representation learning for Correlation Filter based tracking",
+      "year": 2017,
+      "citation_raw": "MURI End-to-end representation learning for Correlation Filter based tracking Jack Valmadre*, Luca Bertinetto*, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2017",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Efficient Minimization of Higher Order Submodular Functions using Monotonic Boolean Functions",
+      "year": 2017,
+      "citation_raw": "MURI Efficient Minimization of Higher Order Submodular Functions using Monotonic Boolean Functions Srikumar Ramalingam, Chris Russell, Lubor Ladicky, Philip H.S. Torr, Chris Russell, Lubor Ladicky, Philip H.S. Torr Discrete Applied Mathematics",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "DESIRE:Distant Future Prediction in Dynamic Scenes with Interacting Agents",
+      "year": 2017,
+      "citation_raw": "MURI DESIRE:Distant Future Prediction in Dynamic Scenes with Interacting Agents Namhoon Lee, Wongun Choi, Paul Vernaza, Christopher B. Choy, Philip H.S. Torr, Manmohan Chandraker IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2017",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Fully-convolutional siamese networks for object tracking",
+      "year": 2016,
+      "citation_raw": "Fully-convolutional siamese networks for object tracking Luca Bertinetto*, Jack Valmadre*, João F. Henriques*, Andrea Vedaldi, Philip H.S. Torr European Conference on Computer Vision (ECCV) 2016 - workshops",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices",
+      "year": 2015,
+      "citation_raw": "Very High Frame Rate Volumetric Integration of Depth Images on Mobile Devices Olaf Kaehler, Victor Adrian Prisacariu, Carl Yuheng Ren, Xin Sun, Philip H.S. Torr, David W. Murray IEEE Transactions on Visualization and Computer Graphics",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "The Semantic Paintbrush:Interactive 3D Mapping and Recognition in Large Outdoor Spaces",
+      "year": 2015,
+      "citation_raw": "The Semantic Paintbrush:Interactive 3D Mapping and Recognition in Large Outdoor Spaces Vibhav Vineet, Ondrej Miksik, Morten Lidegaard, Ram Prasaath, Matthias Niessner, Stuart Golodetz, Stephen Hicks, Patrick Perez, Shahram Izadi, Philip H.S. Torr Proceedings of the 33nd annual ACM conference on Human factors in computing systems (CHI)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Object Proposal Estimation in Depth Images using Compact 3D Shape Manifolds",
+      "year": 2015,
+      "citation_raw": "Object Proposal Estimation in Depth Images using Compact 3D Shape Manifolds Shuai Zheng, Victor Adrian Prisacariu, Melinos Averkiou, Ming-Ming Cheng, Niloy J. Mitra, Jamie Shotton, Philip H.S. Torr, Carsten Rother German Conference on Pattern Recognition (GCPR)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Exploiting Uncertainty in Regression Forests for Accurate Camera Relocalization",
+      "year": 2015,
+      "citation_raw": "Exploiting Uncertainty in Regression Forests for Accurate Camera Relocalization Julien Valentin, Matthias Niessner, Jamie Shotton, A.W. Fitzgibbon, Shahram Izadi, Philip H.S. Torr IEEE International Conference on Computer Vision and Pattern Recognition (IEEE CVPR)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "ImageSpirit:Verbal Guided Image Parsing",
+      "year": 2014,
+      "citation_raw": "ImageSpirit:Verbal Guided Image Parsing Ming-Ming Cheng, Shuai Zheng, Wen-Yan Lin, Vibhav Vineet, Paul Sturgess, Nigel Crook, Niloy J. Mitra, Philip H.S. Torr ACM Transactions on Graphics",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Global Contrast based Salient Region Detection",
+      "year": 2014,
+      "citation_raw": "Global Contrast based Salient Region Detection Ming-Ming Cheng, Niloy J. Mitra, Xiaolei Huang, Philip H.S. Torr, Shi-Min Hu IEEE TPAMI",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Exploiting projective geometry for view-invariant monocular human motion analysis in man-made environments",
+      "year": 2014,
+      "citation_raw": "Exploiting projective geometry for view-invariant monocular human motion analysis in man-made environments Gregory Rogez, Carlos Orrite, J.J. Guerrero, Philip H.S. Torr Computer Vision and Image Understanding",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Bilateral Functions for Global Motion Modeling",
+      "year": 2014,
+      "citation_raw": "Bilateral Functions for Global Motion Modeling Wen-Yan Lin, Ming-Ming Cheng, Jiangbo Lu, Hongsheng Yang, Minh N. Do, Philip H.S. Torr ECCV - European Conference on Computer Vision",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Urban 3D Semantic Modelling Using Stereo Vision",
+      "year": 2013,
+      "citation_raw": "Urban 3D Semantic Modelling Using Stereo Vision Sunando Sengupta, Eric Greveson, A. Shahrokni, Philip H.S. Torr In Proceedings of IEEE International Conference on Robotics and Automation (ICRA)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Mesh Based Semantic Modelling for Indoor and Outdoor Scenes",
+      "year": 2013,
+      "citation_raw": "Mesh Based Semantic Modelling for Indoor and Outdoor Scenes Julien Valentin, Sunando Sengupta, Jonathan Warrell, A. Shahrokni, Philip H.S. Torr In Proceedings of Computer Vision and Pattern Recognition (CVPR)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Taxonomic Multi-class Prediction and Person Layout using Efficient Structured Ranking",
+      "year": 2012,
+      "citation_raw": "Taxonomic Multi-class Prediction and Person Layout using Efficient Structured Ranking A. Mittal, Matthew B. Blaschko, Andrew Zisserman, Philip H.S. Torr In Proceedings of European Conference on Computer Vision",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "The Light-Path Less Traveled",
+      "year": 2011,
+      "citation_raw": "The Light-Path Less Traveled S. Ramalingham, S. Bouaziz, P. Sturm, Philip H.S. Torr Proceedings IEEE Conference of Computer Vision and Pattern Recognition",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Improved Moves for Truncated Convex Models",
+      "year": 2011,
+      "citation_raw": "Improved Moves for Truncated Convex Models Philip H.S. Torr, M Pawan Kumar, M Pawan Kumar, Olga Veksler, Philip H.S. Torr Journal of Machine Learning Research",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Hand detection using multiple proposals",
+      "year": 2011,
+      "citation_raw": "Hand detection using multiple proposals A. Mittal, Andrew Zisserman, Philip H.S. Torr Proceedings British Machine Vision Conference",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Robust Higher Order Potentials for Enforcing Label Consistency",
+      "year": 2009,
+      "citation_raw": "Robust Higher Order Potentials for Enforcing Label Consistency Pushmeet Kohli, Lubor Ladicky, Philip H.S. Torr, Pushmeet Kohli, Lubor Ladicky, Philip H.S. Torr In Proceedings of the International Journal of Computer Vision",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Global Stereo Reconstruction under Second Order Smoothness Priors",
+      "year": 2009,
+      "citation_raw": "Global Stereo Reconstruction under Second Order Smoothness Priors Oliver Woodford, Philip H.S. Torr, I. Reid, A.W. Fitzgibbon, Oliver Woodford, Philip H.S. Torr, I. Reid, A.W. Fitzgibbon Proceedings IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "An Analysis of Convex Relaxations for MAP Estimation of Discrete MRFs",
+      "year": 2009,
+      "citation_raw": "An Analysis of Convex Relaxations for MAP Estimation of Discrete MRFs V. Kolmogorov, M Pawan Kumar, Philip H.S. Torr, M Pawan Kumar, V. Kolmogorov, Philip H.S. Torr In Journal of Machine Learning Research (JMLR)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "On Partial Optimality in Multi-label MRFs",
+      "year": 2008,
+      "citation_raw": "On Partial Optimality in Multi-label MRFs Pushmeet Kohli, A. Shekhovtsov, V. Kolmogorov, Carsten Rother, Philip H.S. Torr In Proceedings International Conference of Machine Learning (ICML)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "LP-relaxation of binarized energy minimization",
+      "year": 2008,
+      "citation_raw": "LP-relaxation of binarized energy minimization V. Hlavac, Pushmeet Kohli, V. Kolmogorov, A. Shekhovtsov, Carsten Rother, Philip H.S. Torr Research Report CTU--CMP--2007—27, Czech Technical University, update 2008",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "From Visual Query to Visual Portrayal",
+      "year": 2008,
+      "citation_raw": "From Visual Query to Visual Portrayal A. Shahrokni, C. Mei, Philip H.S. Torr, I. Reid In Proceedings of the British Machine Vision Conference",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Computer Vision - ECCV 2008",
+      "year": 2008,
+      "citation_raw": "Computer Vision - ECCV 2008 David A. Forsyth, Philip H.S. Torr, Andrew Zisserman 10th European Conference on Computer Vision, Marseille, France, October 12-18, 2008",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Body Language Based Individual Identification in Video Using Gait and Actions",
+      "year": 2008,
+      "citation_raw": "Body Language Based Individual Identification in Video Using Gait and Actions Yogarajah Pratheepan, Philip H.S. Torr, Joan Condell, M. Prasad In Proceedings of the International Machine Vision and Image Processing Conference",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Using the P^n Potts model with learning methods to segment live cell images",
+      "year": 2007,
+      "citation_raw": "Using the P^n Potts model with learning methods to segment live cell images Chris Russell, Christophe Restif, D. Metaxas, Philip H.S. Torr In IEEE Computer Society Workshop on Mathematical Methods in Biomedical Image Analysis",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "On New View Synthesis Using Multiview Stereo",
+      "year": 2007,
+      "citation_raw": "On New View Synthesis Using Multiview Stereo Oliver Woodford, I. Reid, Philip H.S. Torr, A.W. Fitzgibbon In Proceedings British Machine Vision Conference",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Multi-view stereo via Volumetric Graph-cuts and Occlusion Robust Photo Consistency",
+      "year": 2007,
+      "citation_raw": "Multi-view stereo via Volumetric Graph-cuts and Occlusion Robust Photo Consistency George Vogiatzis, C.H. Esteban, Philip H.S. Torr, R. Cipolla In IEEE Trans Pattern Analysis and Machine Intelligence",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Gaussian Process Latent Variable Models for Human Pose Estimation",
+      "year": 2007,
+      "citation_raw": "Gaussian Process Latent Variable Models for Human Pose Estimation Carl Henrik Ek, Philip H.S. Torr, N. Lawrence In 4th Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Efficient Dense Stereo with Occlusions for New View Synthesis by Four State Dynamic Programming",
+      "year": 2007,
+      "citation_raw": "Efficient Dense Stereo with Occlusions for New View Synthesis by Four State Dynamic Programming Antonio Criminisi, Jamie Shotton, A. Blake, Carsten Rother, Philip H.S. Torr In International Journal of Computer Vision",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Discrete Optimization in Computer Vision",
+      "year": 2007,
+      "citation_raw": "Discrete Optimization in Computer Vision N. Komodakis, Philip H.S. Torr, V. Kolmogorov, Y. Boykov Invited tutorial at Iternational Conference on Computer Vision, ICCV",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "An Analysis of Convex Relaxations for MAP Estimation",
+      "year": 2007,
+      "citation_raw": "An Analysis of Convex Relaxations for MAP Estimation M Pawan Kumar, V. Kolmogorov, Philip H.S. Torr In Neural Information Processing Conference, NIPS",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Regression-Based Human Motion Capture From Voxel Data",
+      "year": 2006,
+      "citation_raw": "Regression-Based Human Motion Capture From Voxel Data Yunda Sun, Matthieu Bray, Arasanathan Thayanantha, B. Yuanand, Philip H.S. Torr In Proceedings British Machine Vision Conference",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Multivariate Relevance Vector Machines for Tracking",
+      "year": 2006,
+      "citation_raw": "Multivariate Relevance Vector Machines for Tracking Arasanathan Thayanantha, R. Navaratnam, Bjorn Stenger, Philip H.S. Torr, R. Cipolla In the Proceedings of the Ninth European Conference on Computer Vision 2006",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "Model-Based Hand Tracking Using a Hierarchical Bayesian Filter",
+      "year": 2006,
+      "citation_raw": "Model-Based Hand Tracking Using a Hierarchical Bayesian Filter Bjorn Stenger, Arasanathan Thayanantha, Philip H.S. Torr, R. Cipolla In IEEE Trans Pattern Analysis and Machine Intelligence",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Maximization of mutual information for offline Thai handwriting recognition",
+      "year": 2006,
+      "citation_raw": "Maximization of mutual information for offline Thai handwriting recognition N. Nopsuwanchai, A. Biem, William Clocksin In IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "International Workshop on the Representation and Use of Prior Knowledge in Vision",
+      "year": 2006,
+      "citation_raw": "International Workshop on the Representation and Use of Prior Knowledge in Vision R. Horaud, C. Schnorr, Philip H.S. Torr, J. Tsostsos In International Workshop on the Representation and Use of Prior Knowledge in Vision (WRUPKV)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Fields of Experts for Image-based Rendering",
+      "year": 2006,
+      "citation_raw": "Fields of Experts for Image-based Rendering Oliver Woodford, I. Reid, Philip H.S. Torr, A.W. Fitzgibbon In Proceedings British Machine Vision Conference",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Template-based hand detection and tracking",
+      "year": 2005,
+      "citation_raw": "Template-based hand detection and tracking R. Cipolla, Bjorn Stenger, Arasanathan Thayanantha, Philip H.S. Torr In Advanced Studies in Biometrics",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Rank Mini Symposium on Machine Understanding of People and their Responses",
+      "year": 2005,
+      "citation_raw": "Rank Mini Symposium on Machine Understanding of People and their Responses J. Mollon, FRS, Philip H.S. Torr",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Multi-view stereo via Volumetric Graph-cuts",
+      "year": 2005,
+      "citation_raw": "Multi-view stereo via Volumetric Graph-cuts George Vogiatzis, Philip H.S. Torr, R. Cipolla In Proceedings of IEEE Conference of Computer Vision and Pattern Recognition",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Hierarchical Part-Based Human Body Pose Estimation",
+      "year": 2005,
+      "citation_raw": "Hierarchical Part-Based Human Body Pose Estimation R. Navaratnam, Philip H.S. Torr, R. Cipolla In Proceedings of British Machine Vision Conference, 2005. (oral).",
+      "source_url": "https://torrvision.com/publication/"
+    },
+    {
+      "title": "British Machine Vision Conference",
+      "year": 2005,
+      "citation_raw": "British Machine Vision Conference William Clocksin, A.W. Fitzgibbon, Philip H.S. Torr In ISBN 1-901725-29-4",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Modelling and Interpretation of Architecture from Several Images",
+      "year": 2004,
+      "citation_raw": "Modelling and Interpretation of Architecture from Several Images Anthony Dick, Philip H.S. Torr, R. Cipolla In International Journal of Computer Vision",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Likelihood Models for Template Matching",
+      "year": 2004,
+      "citation_raw": "Likelihood Models for Template Matching Arasanathan Thayanantha, R. Navaratnam, Philip H.S. Torr, R. Cipolla In Proceedings British Machine Vision Conference",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Interactive Image Segmentation Using an Adaptive GMMRF Model",
+      "year": 2004,
+      "citation_raw": "Interactive Image Segmentation Using an Adaptive GMMRF Model A. Blake, Carsten Rother, M. Brown, Patrick Perez, Philip H.S. Torr In The Eighth European Conference on Computer Vision",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Hand Pose Estimation Using Hierarchical Detection",
+      "year": 2004,
+      "citation_raw": "Hand Pose Estimation Using Hierarchical Detection Bjorn Stenger, Arasanathan Thayanantha, Philip H.S. Torr, R. Cipolla In International Workshop on Human-Computer Interaction",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Geometric Structure Computations from Conics",
+      "year": 2004,
+      "citation_raw": "Geometric Structure Computations from Conics M Pawan Kumar, C.V. Jawahar, P.J. Narayanan In Proceedings of the Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Efficient Face Detection by a Cascaded Reduced Support Vector Expansion",
+      "year": 2004,
+      "citation_raw": "Efficient Face Detection by a Cascaded Reduced Support Vector Expansion S. Romdhani, Philip H.S. Torr, B. Schölkopf, A. Blake In Proceedings of the Royal Society Series A",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Discrete Optimization Methods",
+      "year": 2004,
+      "citation_raw": "Discrete Optimization Methods Y. Boykov, Philip H.S. Torr, R. Zabih Invited tutorial at Eighth European Conference on Computer Vision",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Tracking Articulated Hand Motion using a Kinematic Prior",
+      "year": 2003,
+      "citation_raw": "Tracking Articulated Hand Motion using a Kinematic Prior Arasanathan Thayanantha, Bjorn Stenger, Philip H.S. Torr, R. Cipolla In Proceedings British Machine Vision Conference",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Invariant Fitting of Two View Geometry or 'In Defiance of the eight point algorithm'",
+      "year": 2003,
+      "citation_raw": "Invariant Fitting of Two View Geometry or 'In Defiance of the eight point algorithm' Philip H.S. Torr, A.W. Fitzgibbon, Philip H.S. Torr, A.W. Fitzgibbon In Proceedings British Machine Vision Conference",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "IMPSAC:A synthesis of importance sampling and random sample consensus",
+      "year": 2003,
+      "citation_raw": "IMPSAC:A synthesis of importance sampling and random sample consensus Philip H.S. Torr, C. Davidson In IEEE Trans Pattern Analysis and Machine Intelligence",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Gaze Manipulation for One-to-one Teleconferencing",
+      "year": 2003,
+      "citation_raw": "Gaze Manipulation for One-to-one Teleconferencing Jamie Shotton, Antonio Criminisi, A. Blake, Philip H.S. Torr In IEEE Ninth International Conference on Computer Vision",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "First International Workshop on use of Higher Level Knowledge in Vision",
+      "year": 2003,
+      "citation_raw": "First International Workshop on use of Higher Level Knowledge in Vision F. Dellaert, Philip H.S. Torr, S. B. Kang, R. Cipolla ISBN 0-7695-2049-9",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Efficient Algorithms for Matching. Short Course",
+      "year": 2003,
+      "citation_raw": "Efficient Algorithms for Matching. Short Course D. Huttenlocher, Philip H.S. Torr Invited tutorial at Ninth International Conference on Computer Vision",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Bayesian Tracking using Tree-Based Density Estimation",
+      "year": 2003,
+      "citation_raw": "Bayesian Tracking using Tree-Based Density Estimation Bjorn Stenger, Arasanathan Thayanantha, Philip H.S. Torr, R. Cipolla In IEEE Ninth International Conference on Computer Vision",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Bayesian Stochastic Mesh Optimization for 3D Reconstruction",
+      "year": 2003,
+      "citation_raw": "Bayesian Stochastic Mesh Optimization for 3D Reconstruction George Vogiatzis, Philip H.S. Torr, R. Cipolla In Proceedings British Machine Vision Conference",
+      "source_url": "https://torrvision.com/publication/",
+      "year_type": "page_section"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume.",
+    {
+      "discovered_links": [
+        {
+          "text": "Torr Vision Group",
+          "url": "http://www.robots.ox.ac.uk/~tvg/"
+        }
+      ]
+    },
+    {
+      "identity_evidence": {
+        "url": "https://eng.ox.ac.uk/people/philip-torr",
+        "visible_name_line": "Philip Torr FREng, FRS, DPhil (Oxon)",
+        "following_lines": [
+          "PROFESSOR",
+          "Professor of Engineering Science"
+        ]
+      }
+    }
+  ]
+}

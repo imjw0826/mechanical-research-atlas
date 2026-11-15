@@ -1,0 +1,545 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Gang Chen",
+  "lab_name": null,
+  "lab_url": "https://web.mit.edu/nanoengineering/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://web.mit.edu/nanoengineering"
+    },
+    {
+      "text": "http://www.researcherid.com/rid/J-1325-2014",
+      "url": "http://www.researcherid.com/rid/J-1325-2014"
+    }
+  ],
+  "attempted_urls": [
+    "https://web.mit.edu/nanoengineering/",
+    "https://web.mit.edu/nanoengineering/publications/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "PUBLICATIONS",
+      "url": "https://web.mit.edu/nanoengineering/publications/"
+    },
+    {
+      "text": "publications",
+      "url": "https://web.mit.edu/nanoengineering/publications/"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Nonlocal and Nonequilibrium Heat Conduction in the Vicinity of Nanoparticles",
+      "year": 1996,
+      "citation_raw": "G. Chen, \"Nonlocal and Nonequilibrium Heat Conduction in the Vicinity of Nanoparticles,\" ASME Journal of Heat Transfer, Vol. 118, pp. 539-545, 1996.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Size and Interface Effects on Thermal Conductivity of Superlattices and Periodic Thin-Film Structures",
+      "year": 1997,
+      "citation_raw": "G. Chen, \"Size and Interface Effects on Thermal Conductivity of Superlattices and Periodic Thin-Film Structures,\" ASME Journal of Heat Transfer, Vol. 119, pp. 220-229, 1997.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Thermal Conductivity and Ballistic Phonon Transport in Cross-Plane Direction of Superlattices",
+      "year": 1998,
+      "citation_raw": "G. Chen, \"Thermal Conductivity and Ballistic Phonon Transport in Cross-Plane Direction of Superlattices,\" Physical Review B., Vol. 57, pp. 14958-14973, 1998.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Molecular Dynamics Simulation of Thermal Conductivity of Silicon Nanowires",
+      "year": 1999,
+      "citation_raw": "S.G. Volz and G. Chen, “Molecular Dynamics Simulation of Thermal Conductivity of Silicon Nanowires,” Applied Physics Letters, Vol. 75, pp. 2056-2058, 1999.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Ballistic-Diffusive Heat Conduction Equations",
+      "year": 2001,
+      "citation_raw": "G. Chen, “Ballistic-Diffusive Heat Conduction Equations,” Physical Review Letters, Vol. 85, pp. 2297-2300, 2001.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Partially Coherent Phonon Heat Conduction in Superlattices",
+      "year": 2003,
+      "citation_raw": "B. Yang and G. Chen, “Partially Coherent Phonon Heat Conduction in Superlattices,” Physical Review B, Vol. 67, 195311 (1-4), 2003.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Thermal Conductivity Modeling of Periodic Two-Dimensional Nanocomposites",
+      "year": 2004,
+      "citation_raw": "R.G. Yang and G. Chen, “Thermal Conductivity Modeling of Periodic Two-Dimensional Nanocomposites,” Physical Review B, Vol. 69, 195316, 2004.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "1w, 2w, and 3w methods for Measurements of Thermal Properties",
+      "year": 2005,
+      "citation_raw": "C. Dames and G. Chen, “1w, 2w, and 3w methods for Measurements of Thermal Properties,” Review of Scientific Instruments, Vol. 76, 124902, 2005.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "New Directions for Thermoelectric Materials",
+      "year": 2007,
+      "citation_raw": "M.S. Dresselhaus, G. Chen, M.Y. Tang, R. Yang, H. Lee, D.Z. Wang, Z.F. Ren, J.P. Fleurial, and P. Gogna, “New Directions for Thermoelectric Materials,” Advanced Materials, Vol. 19, pp. 1-12, 2007.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Analysis of Optical Absorption in Silicon Nanowire Arrays for Photovoltaic Applications",
+      "year": 2007,
+      "citation_raw": "L. Hu and G. Chen, “Analysis of Optical Absorption in Silicon Nanowire Arrays for Photovoltaic Applications,” Nano Letters, Vol. 7, pp. 3249-3252, 2007.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Thermal Near-Field Radiative Transfer between Two Spheres",
+      "year": 2008,
+      "citation_raw": "A. Narayanaswamy and G. Chen, “Thermal Near-Field Radiative Transfer between Two Spheres,” Physical Review B, Vol. 77, 075125, 2008.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Spectral Phonon Properties of Silicon Based Molecular Dynamics and Lattice Dynamics Simulations",
+      "year": 2008,
+      "citation_raw": "A. Henry and G. Chen, “Spectral Phonon Properties of Silicon Based Molecular Dynamics and Lattice Dynamics Simulations,” Journal of Computational and Theoretical Nanosciences, Vol. 5, pp. 141-152, 2008.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "High Thermoelectric Performance of Nanostructured Bismuth Antimony Telluride Bulk Alloys",
+      "year": 2008,
+      "citation_raw": "B. Poudel, Q. Hao, Y. Ma, Y.C. Lan, A. Minnich, B. Yu, X. Yan, D.Z. Wang, A. Muto, D/ Vashaee, X.Y. Chen, J.M. Liu, M.S. Dresselhaus, G. Chen, and Z.F. Ren, “High Thermoelectric Performance of Nanostructured Bismuth Antimony Telluride Bulk Alloys,” Science, Vol. 320, pp. 634-638, 2008.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Near–field Radiative Transfer between a Sphere and a Substrate",
+      "year": 2008,
+      "citation_raw": "A. Narayanawamy, S. Shen, and G. Chen, “Near–field Radiative Transfer between a Sphere and a Substrate,” Physical Review B, Vol. 78, 115303, 2008.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "An Optical Pump-Probe Technique for Measuring the Thermal Conductivity of Liquids",
+      "year": 2008,
+      "citation_raw": "A. Schmidt, M. Chiesa, X.Y. Chen, and G. Chen, “An Optical Pump-Probe Technique for Measuring the Thermal Conductivity of Liquids,” Review of Scientific Instruments, Vol. 79, 064902, 2008.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "High Thermal Conductivity of Single Polyethylene Chains Using Molecular Dynamics Simulations",
+      "year": 2008,
+      "citation_raw": "A. Henry and G. Chen, “High Thermal Conductivity of Single Polyethylene Chains Using Molecular Dynamics Simulations,” Physical Review Letters, Vol. 101, 235502, 2008.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Surface Phonon Polaritons Mediated Energy Transfer between Nanoscale Gaps",
+      "year": 2009,
+      "citation_raw": "S. Shen, A. Narayanaswamy, and G. Chen, “Surface Phonon Polaritons Mediated Energy Transfer between Nanoscale Gaps,” Nano Letters, Vol. 9, 2909-2913, 2009.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Experimental Investigation of Heat Conduction Mechanisms in Nanofluids--- Clue on Clustering",
+      "year": 2009,
+      "citation_raw": "J.W. Gao, R.T. Zheng, H. Ohtani, D.S. Zhu, and G. Chen, “Experimental Investigation of Heat Conduction Mechanisms in Nanofluids--- Clue on Clustering,” Nano Letters, Vol. 9, pp. 4128-4132, 2009.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "High Thermal Conductivity Polyethylene Nanofibers",
+      "year": 2010,
+      "citation_raw": "S. Shen, A. Henry, J. Tong, R.T. Zheng, and G. Chen, “High Thermal Conductivity Polyethylene Nanofibers,” Nature Nanotechnology, Vol. 5, pp.251-255, 2010.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Very Low Temperature Membrane Free Desalination by Directional Solvent Extraction",
+      "year": 2011,
+      "citation_raw": "A. Bajpayee, T.F. Luo, A. Muto, and G. Chen, “Very Low Temperature Membrane Free Desalination by Directional Solvent Extraction,” Energy and Environmental Science, Vol. 4, pp.1672-1675, 2011.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "High-performance flat-panel solar thermoelectric generators with large thermal concentration",
+      "year": 2011,
+      "citation_raw": "D. Kraemer, B. Poudel, H.-P. Feng, J.C. Caylor, B. Yu, X. Yan, Y. Ma, X.W. Wang, D.Z. Wang, A. Muto, K. McEnaney, Q. Hao, M. Chiesa, Z.F. Ren, and G. Chen, “High-performance flat-panel solar thermoelectric generators with large thermal concentration,” Nature Materials, Vol. 10, pp. 532-538, 2011.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Theoretical Efficiency of Solar Thermoelectric Generators (STEGs)",
+      "year": 2011,
+      "citation_raw": "G. Chen, “Theoretical Efficiency of Solar Thermoelectric Generators (STEGs),” Journal of Applied Physics, Vol. 109, 104908, 2011.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Power Factor Enhancement by Modulation Doping in P-type Silicon Germanium Alloy",
+      "year": 2011,
+      "citation_raw": "M. Zebarjadi, G. Joshi, A. Minnich, Y. C. Lan , X. W. Wang , G. H. Zhu, G. Chen, and Z. F. Ren, “Power Factor Enhancement by Modulation Doping in P-type Silicon Germanium Alloy,” Nano Letters, Vol. 11, pp.. 2225-2230, 2011.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "A Thermal Conductivity Spectroscopy Technique to Measure Phonon Mean Free Paths",
+      "year": 2011,
+      "citation_raw": "J. Minnich, J. A. Johnson, A. J. Schmidt, K. Esfarjani, M. S. Dresselhaus, K. A. Nelson, and G. Chen, “A Thermal Conductivity Spectroscopy Technique to Measure Phonon Mean Free Paths,” Physical Review Letters, Vol. 107, 095901 (1-4), 2011.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Heat Transport in Silicon from First Principle Calculations",
+      "year": 2011,
+      "citation_raw": "K. Esfarjani, G. Chen, and H. T. Stokes, “Heat Transport in Silicon from First Principle Calculations,” Physical Review B, Vol. 84, 085204, 2011.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Thermal Percolation in Stable Graphite Suspensions",
+      "year": 2012,
+      "citation_raw": "R.T. Zheng, J.W. Gao, J.J. Wang, H.P. Feng, H. Ohtani, J.B. Wang, and G. Chen, “Thermal Percolation in Stable Graphite Suspensions” Nano Letters, Vol. 12, 188-192, 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Efficient Light-trapping in Inverted Nano-Pyramid Thin Crystalline Silicon Membranes for Solar Cell Applications",
+      "year": 2012,
+      "citation_raw": "A. Mavrokefalos, S. E. Han, S. Yerci, M. S. Branham, and G. Chen, “Efficient Light-trapping in Inverted Nano-Pyramid Thin Crystalline Silicon Membranes for Solar Cell Applications,” Nano Letters, Vol. 12, pp. 2792-2796, 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Cloaking Core-Shell Nanoparticles from Conducting Electrons in Solids",
+      "year": 2012,
+      "citation_raw": "B.L. Liao, M. Zebarjadi, K. Esfarjani, and G. Chen, “Cloaking Core-Shell Nanoparticles from Conducting Electrons in Solids,” Physical Review Letter, Vol. 109, 126806, 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Coherent Phonon Heat Conduction in Superlattices",
+      "year": 2012,
+      "citation_raw": "M. N. Luckyanova, J. Garg, K. Esfarjani, A. Jandl, M. T. Bulsara, A.J. Schmidt, A.J. Minnich, M.S. Dresselhaus, E.A. Fitzgerald, and G. Chen, “Coherent Phonon Heat Conduction in Superlattices,” Science, Vol. 338, pp.936-939, 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Enhancing Phonon Transmission across Si/Ge Interface by Atomic Roughness: A First-principles Study with the Green's Function Method",
+      "year": 2012,
+      "citation_raw": "Z.T. Tian, K. Esfarjani, and G. Chen, “Enhancing Phonon Transmission across Si/Ge Interface by Atomic Roughness: A First-principles Study with the Green's Function Method”, Physical Review B, Vol. 86, 235304, 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Direct Measurement of Room Temperature Non-diffusive Thermal Transport Over Micron Distance in a Silicon Membrane",
+      "year": 2013,
+      "citation_raw": "J. A. Johnson, A. A. Maznev, J. Cuffe, J. K. Eliason, A. J. Minnich, T. Kehoe, C. M. Sotomayor Torres, G. Chen, K.A. Nelson, “Direct Measurement of Room Temperature Non-diffusive Thermal Transport Over Micron Distance in a Silicon Membrane,” Physical Review Letters, Vol. 110, 025901, 2013.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "A Simple Differential Steady-State Method to Measure the Thermal Conductivity of Solid Bulk Materials with High Accuracy",
+      "year": 2014,
+      "citation_raw": "D. Kraemer and G. Chen, “A Simple Differential Steady-State Method to Measure the Thermal Conductivity of Solid Bulk Materials with High Accuracy,” Review Scientific Instruments, Vol. 85, 025108, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Resonant bonding leads to low thermal conductivity",
+      "year": 2014,
+      "citation_raw": "S.Y. Lee, K. Esfarjani, T.F. Luo., and G. Chen, “Resonant bonding leads to low thermal conductivity,” Nature Communication, Vol. 5, 3535, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "An electrochemical system for highly efficient harvesting of low-grade heat energy",
+      "year": 2014,
+      "citation_raw": "S.W. Lee, Y. Yang, H.-W. Lee, H. Ghasemi, D. Kraemer, G. Chen, Y. Cui, “An electrochemical system for highly efficient harvesting of low-grade heat energy,” Nature Communication, Vol. 5, 3942, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Solar steam generation by heat localization",
+      "year": 2014,
+      "citation_raw": "H. Ghasemi, A. Marie Marconnet, G. Ni, and G. Chen, “Solar steam generation by heat localization,” Nature Communication, Vol. 5, 4449, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "A Charging-free Electrochemical System for Harvesting Low-grade Heat Energy",
+      "year": 2014,
+      "citation_raw": "Y. Yang, S.W. Lee, H. Ghasemi, X.B. Li, D. Kraemer, J. Wang, Y. Cui, and G. Chen, “A Charging-free Electrochemical System for Harvesting Low-grade Heat Energy,” PNAS, Vol. 111, pp. 17011-17016, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Examining Thermal Transport through a Frequency-domain Representation of Time-domain Thermoreflectance Data",
+      "year": 2014,
+      "citation_raw": "K.C. Collins, A.A. Maznev, J. Cuffe, K.A. Nelson, and G. Chen, “Examining Thermal Transport through a Frequency-domain Representation of Time-domain Thermoreflectance Data”, Review of Scientific Instruments, Vol.85, 124903, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Viscosity and Thermal Conductivity of Graphite Suspensions Near Percolation",
+      "year": 2015,
+      "citation_raw": "L. Ma, J.J. Wang, A. Marconnet, G. McKinley, W. Liu, G. Chen, “Viscosity and Thermal Conductivity of Graphite Suspensions Near Percolation,” Nano Letters, Vol.15, pp.127-133, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Significant Reduction of Lattice Thermal Conductivity by Electron-Phonon Interaction in Silicon with High Carrier Concentrations: a First-Principles Study",
+      "year": 2015,
+      "citation_raw": "B.L. Liao, B. Qiu, J.W. Zhou, S. Huberman, K. Esfarjani, and G. Chen, “Significant Reduction of Lattice Thermal Conductivity by Electron-Phonon Interaction in Silicon with High Carrier Concentrations: a First-Principles Study,” Physical Review Letters, Vol. 114, 115901, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Hydrodynamic phonon transport in suspended graphene,” Nature Communication",
+      "year": 2015,
+      "citation_raw": "S.Y. Lee, D. Broido, K. Esfarjani, and G. Chen, Hydrodynamic phonon transport in suspended graphene,” Nature Communication, Vol. 6, 6290, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Demonstration of High Thermoelectric Conversion Efficiency of MgAgSb-based Material with Hot-Pressed Contacts",
+      "year": 2015,
+      "citation_raw": "D. Kraemer, J.H. Sui, K. McEnaney, H.Z. Zhao, Q. Jie, Z.F. Ren and G. Chen, “Demonstration of High Thermoelectric Conversion Efficiency of MgAgSb-based Material with Hot-Pressed Contacts,” Energy and Environmental Science, Vol. 8 pp.1299-1308, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "15.7% Efficient, 10-μm-Thick Crystalline Silicon Solar Cells Enabled by Periodic Surface Light Trapping Structures",
+      "year": 2015,
+      "citation_raw": "M.S. Branham, W.-C. Hsu, S. Yerci, and G. Chen, “15.7% Efficient, 10-μm-Thick Crystalline Silicon Solar Cells Enabled by Periodic Surface Light Trapping Structures,” Advanced Materials, Vol. 27, 2182, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "First-Principles Simulation of Electron Mean-Free-Path Spectra and Thermoelectric Properties in Silicon",
+      "year": 2015,
+      "citation_raw": "B. Qiu, Z.T. Tian, A. Vallabhaneni, B.L. Liao, J.M. Mendoza, O.D. Restrepo, X.L. Ruan, G. Chen, “First-Principles Simulation of Electron Mean-Free-Path Spectra and Thermoelectric Properties in Silicon,” Eurepean Physics Letters, Vol. 109, 57006, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Near Field Radiative Heat Transfer in Sub-nanometer Regime Using Microscopic Maxwell’s Equations",
+      "year": 2015,
+      "citation_raw": "V. Chiloyan, J. Garg, K. Esfarjani, G. Chen, “Near Field Radiative Heat Transfer in Sub-nanometer Regime Using Microscopic Maxwell’s Equations,” Nature Communication, Vol. 6, 6755, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Infrared-Transparent Visible-Opaque Fabrics for Wearable Personal Thermal Management",
+      "year": 2015,
+      "citation_raw": "J.K. Tong, X.P. Huang, S.V. Boriskina, J. Loomis, Y.F. Xu, and G. Chen, “Infrared-Transparent Visible-Opaque Fabrics for Wearable Personal Thermal Management,” ACS Photonics,\" Vol. 2, pp. 769-778, 2015",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Spectral Mapping of Thermal Conductivity through Nanoscale Ballistic Transport",
+      "year": 2015,
+      "citation_raw": "Y.J. Hu, L.P. Zeng, A.J. Minnich, M.S. Dresselhaus, G. Chen, “Spectral Mapping of Thermal Conductivity through Nanoscale Ballistic Transport,” Nature Nanotechnology, Vol.10, 701–706, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Ab Initio Optimization of Phonon Drag Effect for Lower-temperature Thermoelectric Energy Conversion",
+      "year": 2015,
+      "citation_raw": "J.W. Zhou, B.L. Liao, B. Qiu, S. Huberman, K. Esfarjani, and G. Chen, “Ab Initio Optimization of Phonon Drag Effect for Lower-temperature Thermoelectric Energy Conversion”, Vol. 111 (48) 17011-17016; 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Tailoring ultra-high temperature radiation: the resurrection of the incandescent source",
+      "year": 2016,
+      "citation_raw": "O. Ilic, P. Bermel, G. Chen, J. D. Joannopoulos, I. Celanovic, and M. Soljačić, “Tailoring ultra-high temperature radiation: the resurrection of the incandescent source,” Nature Nanotechnology, Vol. 351, 215, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Steam Generation under One Sun and Ambient Conditions",
+      "year": 2016,
+      "citation_raw": "G. Ni, G. Li, S.V. Boriskina, H.X. Li, W.L. Yang, T.J. Zhang, and G. Chen, “Steam Generation under One Sun and Ambient Conditions,” Nature Energy, Vol 1, No. 16126, DOI: 10.1038/NENERGY.2016.126, August 22, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "First-principles Calculations of Thermal, Electrical, and Thermoelectric Transport Properties of Semiconductors",
+      "year": 2016,
+      "citation_raw": "J.W. Zhou, B.L. Liao, and G. Chen, “First-principles Calculations of Thermal, Electrical, and Thermoelectric Transport Properties of Semiconductors,” Semiconductor Science and Technology, Vol. 31, 043001, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Entropic and Near-Field Improvements of Radiative Cells",
+      "year": 2016,
+      "citation_raw": "W.-C. Hsu, J.K. Tong, B.L. Liao, Y. Huang, S.V. Boriskina, and G. Chen, “Entropic and Near-Field Improvements of Radiative Cells,” Scientific Report, Vol. 6, No. 34837, DOI: 10.1038/srep34837, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Roadmap on Optical Energy Conversion",
+      "year": 2016,
+      "citation_raw": "S.V. Boriskina, M.A. Green, K. Catchpole, E. Yablonovitch, M.C. Beard, Y. Okada, S. Lany, T. Gershon, A. Zakutayev, M.H. Tahersima, V.J. Sorger, M.J. Naughton, K. Kempa, M. Dagenais, Y. Yao, L. Xu, X. Sheng, N.D. Bronstein, J.A. Rogers, A.P. Alivisatos, R.G. Nuzzo, J.M. Gordon, DM. Wu, M.D. Wisser, A. Salleo, J. Dionne, P. Bermel, J.J. Greffer, I. Celanovic, M. Soljacic, A. Manor, C. Rotschild, A. Raman, L.X. Zhu, S.H. Fan, and G. Chen, “Roadmap on Optical Energy Conversion,” Journal of Optics, Vol. 17, Article No. 073004, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Empirical Comparison of Random and Periodic Surface Light-Trapping Structures for Ultrathin Silicon Photovoltaics",
+      "year": 2016,
+      "citation_raw": "M.S. Branham, W.-C. Hsu, S. Yerci, B.R. Hoard, A. Ebong, S.E. Han, and G. Chen, “Empirical Comparison of Random and Periodic Surface Light-Trapping Structures for Ultrathin Silicon Photovoltaics” Advanced Photonic Materials, Vol. 4, pp. 858-863, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Concentrating Solar Thermoelectric Generators with a Peak Efficiency of 7.4%",
+      "year": 2016,
+      "citation_raw": "D. Kraemer, Q. Jie, K. McEnaney, F.Cao, W.S. Sui, L. Weinstein, J. Loomis, Z.F. Ren, and Gang Chen, “Concentrating Solar Thermoelectric Generators with a Peak Efficiency of 7.4%,” Nature Energy, Vol.1, Article No. 16153, DOI: 10.1038/NENERGY.2016.153, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Photo-excited Charge Carriers Suppress sub-THz Phonon mode in Silicon at Room Temperature",
+      "year": 2016,
+      "citation_raw": "B.L. Liao, A. A. Maznev, M.S. Dresselhaus, K.A. Nelson, and G. Chen, “Photo-excited Charge Carriers Suppress sub-THz Phonon mode in Silicon at Room Temperature,” Nature Communications, Vol. 7, Article No. 13174, DOI: 10.1038/ncomms13174, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Tailoring Superconductivity with Quantum Dislocations",
+      "year": 2017,
+      "citation_raw": "Mingda Li, Qichen Song, Te-Huan Liu, Laureen Meroueh, Gerald Mahan, M. S. Dresselhaus, and Gang Chen, “Tailoring Superconductivity with Quantum Dislocations,” Nano Letters, Vol. 17, pp. 4604-4610, 2017.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Molecular engineered conjugated polymer with high thermal conductivity",
+      "year": 2018,
+      "citation_raw": "Yanfei Xu, Xiaoxue Wang, Jiawei Zhou, Bai Song, Jiang Zhang, Elizabeth M. Y Lee, Sam Huberman, Karen K. Gleason, and Gang Chen, “Molecular engineered conjugated polymer with high thermal conductivity,” Science Advances, eear3031, 2018.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Large thermoelectric power factor from crystal symmetry-protected non-bonding orbital",
+      "year": 2018,
+      "citation_raw": "Jiawei Zhou, Hangtian Zhu, Te-Huan Liu, Qichen Song, Ran He, Jun Mao, Bolin Liao, David Singh, Zhifeng Ren, Gang Chen, “Large thermoelectric power factor from crystal symmetry-protected non-bonding orbital,” Nature Communications, 9, 1721, 2018.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Unusual High Thermal Conductivity in Boron Arsenide Bulk Crystals",
+      "year": 2018,
+      "citation_raw": "Fei Tian et al., “Unusual High Thermal Conductivity in Boron Arsenide Bulk Crystals”, Science, 361, 582-585, 2018.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Contactless steam generation and superheating under one sun illumination",
+      "year": 2018,
+      "citation_raw": "Thomas Cooper, Seyed Hadi Zandavi, George Ni, Svetlana V. Boriskina, Gang Chen, “Contactless steam generation and superheating under one sun illumination,” Nature Communications, 9, 5086, 2018.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Phonon Localization in Heat Conduction",
+      "year": 2018,
+      "citation_raw": "M. N. Luckyanova, J. Mendoza, H. Lu, B. Song, S. Huang, J. Zhou1, M. Li, B. J. Kirby, A. J. Grutter, A. A. Puretzky, M. Dresselhaus, A. Gossard, and G. Chen, “Phonon Localization in Heat Conduction,” Science Advances, 4, eeat9460, 2018.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "High Thermoelectric Cooling Performance of n-type Mg3Bi2-Based Materials",
+      "year": 2019,
+      "citation_raw": "Jun Mao, Hangtian Zhu, Zhiwei Ding, Zihang Liu, Geethal Amila Gamage, Gang Chen, and Zhifeng Ren, “High Thermoelectric Cooling Performance of n-type Mg3Bi2-Based Materials,” Science, 365, 495-498, 2019.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Plastic Films with High Thermal Conductivity",
+      "year": 2019,
+      "citation_raw": "Yanfei Xu, Daniel Kraemer, Bai Song, Zhang Jiang, Jiawei Zhou, James Loomis, Jianjian Wang, Mingda Li, Hadi Ghasemi, Xiaopeng Huang, Xiaobo Li and Gang Chen, “Plastic Films with High Thermal Conductivity” Nature Communicatons, 10, 1711, 2019.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Observation of second sound in graphite at temperatures above 100 K",
+      "year": 2019,
+      "citation_raw": "S. Huberman, R. A. Duncan, K. Chen, B. Song, V. Chiloyan, Z. Ding, A.A. Maznev, G. Chen, K. A. Nelson, “Observation of second sound in graphite at temperatures above 100 K,” Science, 364, 375-379, 2019.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Ultrahigh thermal conductivity in isotope-enriched cubic boron nitride",
+      "year": 2020,
+      "citation_raw": "Ke Chen, Bai Song, Navaneetha K. Ravichandran, Qiye Zheng, Xi Chen, Hwijong Lee, Haoran Sun, Sheng Li, Geethal Amila Gamage, Fei Tian, Zhiwei Ding, Qichen Song, Akash Rai, Hanlin Wu, Pawan Koirala, Aaron J. Schmidt, Kenji Watanabe, Bing Lv, Zhifeng Ren, Li Shi, David G. Cahill, Takashi Taniguchi, David Broido, and Gang Chen, “Ultrahigh thermal conductivity in isotope-enriched cubic boron nitride,” Science, 367, 555-559, 2020.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Direct observation of large electron-phonon interaction effect on phonon heat transport",
+      "year": 2020,
+      "citation_raw": "Jiawei Zhou, Hyun D. Shin, Ke Chen, Bai Song, Ryan A. Duncan, Qian Xu, Alexei A. Maznev, Keith A. Nelson, Gang Chen, “Direct observation of large electron-phonon interaction effect on phonon heat transport” Nature Communications, 11, 6040, 2020.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Giant Thermopower of Ionic Gelatin Near Room Temperature",
+      "year": 2020,
+      "citation_raw": "Cheng-Gong Han, Xin Qian, Qikai Li, Biao Deng, Yongbin Zhu, Zhijia Han, Wenqing Zhang, Weichao Wang, Shien-Ping Feng, Gang Chen, Weishu Liu, “Giant Thermopower of Ionic Gelatin Near Room Temperature,” Science, 368, 1091-1098, 2020.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "“Intrinsic non-reciprocal reflectance and violation of Kirchhoff’s law of radiation in planar type-I magnetic Weyl semimetal surfaces",
+      "year": 2020,
+      "citation_raw": "Simo Pajovic, Yoichiro Tsurimaki, Xin Qian, and Gang Chen, ““Intrinsic non-reciprocal reflectance and violation of Kirchhoff’s law of radiation in planar type-I magnetic Weyl semimetal surfaces” Physical Review B, 102, 165417, 2020.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Phonon-Engineered Materials with Extreme Thermal Conductivity",
+      "year": 2021,
+      "citation_raw": "Xin Qian, Jiawei Zhou and Gang Chen, “Phonon-Engineered Materials with Extreme Thermal Conductivity,” Nature Materials, 20, 1188-1202, 2021.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Thermoelectric Cooling Materials",
+      "year": 2021,
+      "citation_raw": "Jun Mao, Gang Chen, and Zhifeng Ren, “Thermoelectric Cooling Materials,” Nature Materials, 20, 454-461, 2021.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Non-Fourier Heat Conduction at the Microscale and Nanoscale",
+      "year": 2021,
+      "citation_raw": "Gang Chen, “Non-Fourier Heat Conduction at the Microscale and Nanoscale,” Nature Review Physics, 3, 555-569, 2021.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Observation of Second Sound in Graphite over 200 K",
+      "year": 2022,
+      "citation_raw": "Zhiwei Ding, Ke Chen, Bai Song, Jungwoo Shin, Alex A. Maznev, Keith A. Nelson, and Gang Chen “Observation of Second Sound in Graphite over 200 K”, Nature Communications, 13, 1-9, 2022.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Perspectives on Molecular-Level Understanding of Thermophysics of Liquids and Future Directions",
+      "year": 2022,
+      "citation_raw": "Gang Chen, “Perspectives on Molecular-Level Understanding of Thermophysics of Liquids and Future Directions,” Journal of Heat Transfer, 144, 010801, 2022.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Donnan Equilibrium Revisited: Coupling between Ion Concentrations, Osmotic Pressure, and Donnan Potential",
+      "year": 2022,
+      "citation_raw": "Gang Chen, “Donnan Equilibrium Revisited: Coupling between Ion Concentrations, Osmotic Pressure, and Donnan Potential” Journal of Micromechanics and Molecular Physics (JMMP), 7, 127-134, 2022.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "On the Molecular Picture and Interfacial Temperature Discontinuity During Evaporation and Condensation",
+      "year": 2022,
+      "citation_raw": "Gang Chen, “On the Molecular Picture and Interfacial Temperature Discontinuity During Evaporation and Condensation” Int. J. Heat Mass Transfer, 191, 122845, 2022.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Thermodynamics of Hydrogel for Applications to Atmospheric Water Harvesting, Evaporation, and Desalination",
+      "year": 2022,
+      "citation_raw": "Gang Chen, “Thermodynamics of Hydrogel for Applications to Atmospheric Water Harvesting, Evaporation, and Desalination.” Physical Chemistry And Chemical Physics, 24, 12329-12345, 2022.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "High ambipolar mobility in cubic boron arsenide",
+      "year": 2022,
+      "citation_raw": "Jungwoo Shin, Geethal Amila Gamage, Zhiwei Ding, Ke Chen, Fei Tian, Xin Qian, Jiawei Zhou, Hwijong Lee, Jianshi Zhou, Li Shi, Thanh Nguyen, Fei Han, Mingda Li, David Broido, Aaron Schmidt, Zhifeng Ren, Gang Chen, “High ambipolar mobility in cubic boron arsenide”, Science, 377, 437-440, 2022.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Graphite Microfluids",
+      "year": 2012,
+      "citation_raw": "Ruiting Zheng, Jinwei Gao and Gang Chen, \"Graphite Microfluids\", US Patent No. 8,192,643, February, 5, 2012,",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "System and Method for Thermal Process Including a Thermoelectric Heat Pump and Internal Heat Exchanger",
+      "year": 2011,
+      "citation_raw": "Gang Chen, Christine Junior, and Juergen Koehler, “System and Method for Thermal Process Including a Thermoelectric Heat Pump and Internal Heat Exchanger,” MIT Case No. 13865, August, 2009, Provisional Patent Application Filed. Utility Patent: USSN 12/950,504 filed November 19, 2010. Patent allowed, October, 2011.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "System and Method for Thermal Process Including a Thermoelectric Heat Pump and Internal Heat Exchanger",
+      "year": 2013,
+      "citation_raw": "Gang Chen, Christine Junior, and Juergen Koehler, “System and Method for Thermal Process Including a Thermoelectric Heat Pump and Internal Heat Exchanger,” MIT Case No. 13865, August, 2009, Provisional Patent Application Filed. Utility Patent: USSN 12/950,504 filed November 19, 2010. Patent allowed, October, 2011. Hsien-Ping, Gang Chen, Bo Yu, Zhifeng Ren, Shuo Chen, and Bed Poudel, “Metal Deposition Using Seed Layers,” US Patent No. Patent No. 8,580,100, Nov. 12, 2013.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Thermoelectric materials and methods for synthesis thereof",
+      "year": 2015,
+      "citation_raw": "Zhifeng Ren, Qinyong Zhang, Qian Zhang, and Gang Chen, “Thermoelectric materials and methods for synthesis thereof”, US 9,099,601, August 4, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Methods of Synthesizing Thermoelectric Materials",
+      "year": 2016,
+      "citation_raw": "Gang Chen, Shuo Chen, Weishu Liu, Zhifeng Ren, Hui Wang, Hengzhi Wang and Bo Yu, “Methods of Synthesizing Thermoelectric Materials,” US Patent No. 9306145, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    },
+    {
+      "title": "Electrochemical Sysems and Methods for Harversting Heat Energy",
+      "year": 2016,
+      "citation_raw": "Seok Woo Lee, Yuan Yang, Hadi Ghasemi, Gang Chen and Yi Cui, “Electrochemical Sysems and Methods for Harversting Heat Energy,” US Patent Allowed 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/gchen2@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ]
+}

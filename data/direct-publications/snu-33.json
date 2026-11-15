@@ -1,0 +1,186 @@
+{
+  "university": "Seoul National University",
+  "university_key": "snu",
+  "pi": "한경원",
+  "pi_en": "Han, Amy Kyungwon",
+  "lab_name": "헬스케어 로보틱스 연구실",
+  "lab_url": "https://hero.snu.ac.kr/",
+  "publication_urls": [
+    "https://hero.snu.ac.kr/publications"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "3D Pose Estimation of Epidural Catheter Markers based on a Single-View 2D X-ray Fluoroscopy",
+      "year": 2026,
+      "citation_raw": "Jegyeong Ryu, Jae Chul Koh, Amy Kyungwon Han*, and Deukhee Lee*, “3D Pose Estimation of Epidural Catheter Markers based on a Single-View 2D X-ray Fluoroscopy,” Journal of Computational Design and Engineering (2026)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "FlexSeal: Passive Pinhole Valve Suction for PneuNet Gripper with One-way Flow Object Attachment and Release",
+      "year": 2026,
+      "citation_raw": "Nam Phuong Dam, Jiyeop Kim, Amy Kyungwon Han, and Van Anh Ho, “FlexSeal: Passive Pinhole Valve Suction for PneuNet Gripper with One-way Flow Object Attachment and Release,” RoboSoft 2026 (2026)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Device-driven cyclic compression of the superior vena cava as a preload reduction strategy to improve cardiac function in heart failure: a pilot feasibility study",
+      "year": 2026,
+      "citation_raw": "Jeongwon Kim, Yongjin Kim, Jeonghyeon Lee, Domin Cho, Chang Jun Lee, Jae Hang Lee, Joon Seo Lim, Amy Kyungwon Han*, and Se Jin Oh*, “Device-driven cyclic compression of the superior vena cava as a preload reduction strategy to improve cardiac function in heart failure: a pilot feasibility study,” Scientific Reports 16, 4976 (2026)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "FlexSeal: Passive Pinhole Valve Suction for PneuNet Gripper with One-way Flow Object Attachment and Release",
+      "year": 2026,
+      "citation_raw": "Nam Phuong Dam, Jiyeop Kim, Amy Kyungwon Han, and Van Anh Ho, “FlexSeal: Passive Pinhole Valve Suction for PneuNet Gripper with One-way Flow Object Attachment and Release,” RoboSoft 2026 (2026) Jeongwon Kim, Yongjin Kim, Jeonghyeon Lee, Domin Cho, Chang Jun Lee, Jae Hang Lee, Joon Seo Lim, Amy Kyungwon Han*, and Se Jin Oh*, “Device-driven cyclic compression of the superior vena cava as a preload reduction strategy to improve cardiac function in heart failure: a pilot feasibility study,” Scientific Reports 16, 4976 (2026) Kyung Yeun Kim†, Jegyeong Ryu†, Joohyuk Kang†, Bongkyun Jang, Ji-young Lee, Yu-Chan Kim, Amy Kyungwon Han, Jae-Hoon Han, Hojeong Jeon, Seung Hwan Ko, Deukhee Lee, and Wonryung Lee, “A conformable multimodal imaging marker for surgical navigation systems,” npj Flexible Electronics (2026)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Machine Learning-Based Design of 3D-Printable Microneedles for Enhanced Tissue Anchoring with Reduced Tissue Damage",
+      "year": 2025,
+      "citation_raw": "Jegyeong Ryu†, Jiyeop Kim†, Chan Wook Park, Hae-Yoon Kim, Deukhee Lee*, and Amy Kyungwon Han*, “Machine Learning-Based Design of 3D-Printable Microneedles for Enhanced Tissue Anchoring with Reduced Tissue Damage,” Advanced Engineering Materials (2025)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Reliable Tissue Grasping in Robotic Minimally Invasive Surgery Enabled by Optical‐Based Slip Sensing",
+      "year": 2025,
+      "citation_raw": "Minjae Lee and Amy Kyungwon Han, “Reliable Tissue Grasping in Robotic Minimally Invasive Surgery Enabled by Optical‐Based Slip Sensing,” Advanced Engineering Materials (2025)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Non-Invasive Tissue Identification and Thickness Estimation Using Gap-Changing Capacitive Sensor with Machine Learning Integration",
+      "year": 2025,
+      "citation_raw": "Dohyun Lee, Hae Yoon Kim, Bjørn Leth Møller, Joonseok Lee, Jang W. Yoon, Chi Heon Kim, and Amy Kyungwon Han, \"Non-Invasive Tissue Identification and Thickness Estimation Using Gap-Changing Capacitive Sensor with Machine Learning Integration.\" IEEE Sensors Journal (2025).",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "E‐CAD: Electroactive Polymer‐Based Cardiac Assist Device with Low Power Consumption",
+      "year": 2025,
+      "citation_raw": "Jiyeop Kim, Junheon Lee, Sein Song, Si‐Hyuck Kang*, and Amy Kyungwon Han*, \"E‐CAD: Electroactive Polymer‐Based Cardiac Assist Device with Low Power Consumption.\" Advanced Intelligent Systems (2025)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Rapid and robust ultrasonic probe calibration employing a CT-visible randomized spherical phantom",
+      "year": 2025,
+      "citation_raw": "Jegyeong Ryu, Nova Eka Diana, Gyuwon Kang, Chan Wook Park, Amy Kyungwon Han*, Deukhee Lee*, “Rapid and robust ultrasonic probe calibration employing a CT-visible randomized spherical phantom,” Journal of Computational Design and Engineering (2025)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "VITALS: an implantable sensor network for postoperative cardiac monitoring in heart failure patients",
+      "year": 2025,
+      "citation_raw": "Ali Kight, Moussa Haidar, Masafumi Shibata, Yoshikazu Ono, Gentaro Ikeda, Amit Sharir, Federica Semproni, Yellappa Palagani, Sawson Taheri, Amy Kyungwon Han, Michael Ma, Kirk Riemer, Doff B. McElhinney, Seraina A. Dual, Mark Cutkosky, “VITALS: an implantable sensor network for postoperative cardiac monitoring in heart failure patients,” npj Biomedical Innovations (2025)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "SCS: Superior-Vena-Cava Compressing Shape-Memory-Alloy-Based Implantable Device for Heart Failure",
+      "year": 2025,
+      "citation_raw": "Yongjin Kim†, Jeonghyeon Lee†, Jeongwon Kim, Domin Cho, Hyunwoo Lee, Se Jin Oh*, Amy Kyungwon Han*, “SCS: Superior-Vena-Cava Compressing Shape-Memory-Alloy-Based Implantable Device for Heart Failure,” Advanced Engineering Materials (2025)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Data-driven analysis of bonding strength in laser-structured metal-GFRP hybrid joints via groove morphology",
+      "year": 2025,
+      "citation_raw": "Jun Young Choi, Geun Young Kim, Do Hoi Kim, Narae Yoon, Amy Kyungwon Han, Sung-Hoon Ahn, “Data-driven analysis of bonding strength in laser-structured metal-GFRP hybrid joints via groove morphology,” The International Journal of Advanced Manufacturing Technology (2025)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Open-mask respiratory rate sensor",
+      "year": 2024,
+      "citation_raw": "Sein Song, Jeesun Kim, Han Jo Jeon, and Amy Kyungwon Han, “Open-mask respiratory rate sensor,” Journal of Innovative Medical Technology (2024)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Corpuscular volume estimation using a small amount of blood via microscope images",
+      "year": 2023,
+      "citation_raw": "Jegyeong Ryu, Dahyun Nam, Junghyun John Son, Amy Kyungwon Han, and Deukhee Lee. \"Corpuscular volume estimation using a small amount of blood via microscope images.\" IEEE International Conference on Control, Automation and Systems (ICCAS), pp. 1298-1303. (2023)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "An Electrostatically Actuated Gecko Adhesive Clutch",
+      "year": 2023,
+      "citation_raw": "Hajj-Ahmad, A.*, Han, A.K.*, Lin, M.A., Glover, G.H., and Cutkosky, M.R.,“An Electrostatically Actuated Gecko Adhesive Clutch,” Advanced Materials Technologies (2023)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Circulatory Support: Artificial Muscles for the Future of Cardiovascular Assist Devices",
+      "year": 2023,
+      "citation_raw": "Pirozzi, I., Kight, A., Han, A. K., Cutkosky, M.R., and Dual, S.A., “Circulatory Support: Artificial Muscles for the Future of Cardiovascular Assist Devices,” Advanced Materials (2023)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Decoupling Transmission and Transduction for Improved Durability of Highly Stretchable, Soft Strain Sensing: Applications in Human Health Monitoring",
+      "year": 2023,
+      "citation_raw": "Kight, A., Pirozzi, I., Liang, X.Y., McElhinney, D.B., Han, A.K., Dual, S.A., and Cutkosky, M.R.,“Decoupling Transmission and Transduction for Improved Durability of Highly Stretchable, Soft Strain Sensing: Applications in Human Health Monitoring,” Sensors 23(4), 1955 (2023)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "UV-laser-machined stretchable multi-modal sensor network for soft robot interaction",
+      "year": 2022,
+      "citation_raw": "Ham, J., Han, A.K., Cutkosky, M.R., Bao, Z., “UV-laser-machined stretchable multi-modal sensor network for soft robot interaction,” npj Flexible Electronics 6, 94 (2022).",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Electrohydraulic Vascular Compression Device (e-VaC) with Integrated Sensing and Controls",
+      "year": 2022,
+      "citation_raw": "Pirozzi, I., Kight, A., Liang, X.Y., Han, A.K., Ennis, D.E., Hiesinger, W., Dual, S.A., Cutkosky, M.R., “Electrohydraulic Vascular Compression Device (e-VaC) with Integrated Sensing and Controls,” Advanced Materials Technologies (2022)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "RVEX: Right Ventricular External Device for Biomimetic Support and Monitoring of the Right Heart",
+      "year": 2022,
+      "citation_raw": "Pirozzi, I.*, Kight, A.*, Shad, R.A., Han, A.K., Dual, S.A., Fong, R., Jia, A., Hiesinger, W., Yock, P. and Cutkosky, M., “RVEX: Right Ventricular External Device for Biomimetic Support and Monitoring of the Right Heart,” Advanced Materials Technologies (2022) p.2101472.",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Haptic Surface Display based on Miniature Dielectric Fluid Transducers",
+      "year": 2020,
+      "citation_raw": "Han, A.K., Ji, S., Wang, D. and Cutkosky, M.R., \"Haptic Surface Display based on Miniature Dielectric Fluid Transducers,\" IEEE Robotics and Automation Letters (2020)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "MR-Compatible Haptic Display of Membrane Puncture in Robot-Assisted Needle Procedures",
+      "year": 2018,
+      "citation_raw": "Han, A.K.*, Bae, J.H.*, Gregoriou, K.C., Ploch, C.J., Goldman, R.E., Glover, G.H., Daniel, B.L. and Cutkosky, M.R., \"MR-Compatible Haptic Display of Membrane Puncture in Robot-Assisted Needle Procedures,\" IEEE Transactions on Haptics (2018).",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Haptic feedback of membrane puncture with an MR-compatible instrumented needle and electroactive polymer display",
+      "year": 2017,
+      "citation_raw": "Bae, J.H.*, Han, A.K.*, Ploch, C.J., Daniel, B.L., and Cutkosky, M.R., \"Haptic feedback of membrane puncture with an MR-compatible instrumented needle and electroactive polymer display,\" IEEE World Haptics Conference (2017). Best Paper and Best Student Presentation Finalist",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "A Robotic Device Using Gecko-Inspired Adhesives can Grasp and Manipulate Large Objects in Microgravity",
+      "year": 2017,
+      "citation_raw": "Jiang, H., Hawkes, E.W., Fuller, C., Estrada, M.A., Suresh, S.A., Abcouwer, N., Han, A.K., Wang, S., Ploch, C.J., Parness, A. and Cutkosky, M.R. \"A Robotic Device Using Gecko-Inspired Adhesives can Grasp and Manipulate Large Objects in Microgravity.\" Science Robotics (2017). doi:10.1126/scirobotics.aan4545.",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "A Multimodal Robot for Perching and Climbing on Vertical Outdoor Surfaces",
+      "year": 2017,
+      "citation_raw": "Pope, M.T., Kimes, C.W., Jiang, H., Hawkes, E.W., Estrada, M.A., Kerst, C.F., Roderick, W.R.T., Han, A.K., Christensen, D.L., M. R. Cutkosky, \"A Multimodal Robot for Perching and Climbing on Vertical Outdoor Surfaces,\" in IEEE Transactions on Robotics (2017), doi: 10.1109/TRO.2016.2623346",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Toward MR-Compatible Needle Tip Force Display using EAP Actuation",
+      "year": 2016,
+      "citation_raw": "Han, A.K., Wang, S., Bae, J.H., Christensen, D.L. and Cutkosky, M.R., \"Toward MR-Compatible Needle Tip Force Display using EAP Actuation,\" in Haptics Symposium 2016 (2016).",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "Wings of a Feather Stick Together",
+      "year": 2015,
+      "citation_raw": "Wissa, A., Han, A.K., and Cutkosky, M.R., \"Wings of a Feather Stick Together,\" In Conference on Biomimetic and Biohybrid Systems (2015) doi: 10.1007/978-3-319-22979-9",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    },
+    {
+      "title": "‘‘Molecular Dynamics Simulation Study of a Polysulfone-Based Anion Exchange Membrane in Comparison with the Proton Exchange Membrane,’’ The Journal of Physical Chemistry C (2014)",
+      "year": 2014,
+      "citation_raw": "Han, K.W., Ko, K.H., Abu-Hakmeh, K., Bae, C., Sohn, Y.J. and Jang, S.S., ‘‘Molecular Dynamics Simulation Study of a Polysulfone-Based Anion Exchange Membrane in Comparison with the Proton Exchange Membrane,’’ The Journal of Physical Chemistry C (2014)",
+      "source_url": "https://hero.snu.ac.kr/publications"
+    }
+  ]
+}

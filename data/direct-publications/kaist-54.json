@@ -1,0 +1,777 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "박인규 PARK, Inkyu",
+  "lab_name": null,
+  "lab_url": "http://mint.kaist.ac.kr/",
+  "publication_urls": [
+    "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1",
+    "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_2",
+    "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3",
+    "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4",
+    "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 5개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Micro-LED-Activated Formaldehyde Sensing via Au Loading Regulated Interfacial Engineering in Anatase TiO2 Nanofibers",
+      "year": 2026,
+      "citation_raw": "\"Micro-LED-Activated Formaldehyde Sensing via Au Loading Regulated Interfacial Engineering in Anatase TiO2 Nanofibers\" E. Shin†, K. Lee†, Y. Lim†, M. Kim, D. Kwak, J. Yu, H. J. Park, J. S. Jang, I. Park*, I. D. Kim* ACS Nano, Accepted , 2026 (HNS, 외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Customizable Piezo-Transmittance-Based Multiaxial Force Sensor With Deep-Learning-Assisted Sensing",
+      "year": 2026,
+      "citation_raw": "\"Customizable Piezo-Transmittance-Based Multiaxial Force Sensor With Deep-Learning-Assisted Sensing\" Filippo Peruzzi, Osman Gul, Wonhee Lee, Seokjoo Cho, Yong-Jin Yoon, Paola Saccomandi, Inkyu Park* Advanced Materials Technologies, Early View , 2026 (알키미스트, 휴머노이드)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Ultrasoft Core–Shell Inorganic Nanoyarns for Energy and Sensing Applications",
+      "year": 2026,
+      "citation_raw": "\"Ultrasoft Core–Shell Inorganic Nanoyarns for Energy and Sensing Applications\" Dabin Kim†, Suchithra Padmajan Sasikala†, Ji-Hwan Ha†, Oh-Sung Kwon, Jungrak Choi, Yongrok Jeong, Hanhwi Jang, Jun-Ho Jeong, Zhi-Jun Zhao, Inkyu Park*, Sangouk Kim*, Junseong Ahn* Advanced Fiber Materials, Early View , 2026 (알키미스트, 중견, 외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Ordered Anti-Restacking Three-Dimensional Ti3C2Tx MXene Networks on Silicon Microcone Arrays via Template-Directed Assembly for Highly Efficient Room-Temperature Ammonia Sensing",
+      "year": 2026,
+      "citation_raw": "\"Ordered Anti-Restacking Three-Dimensional Ti3C2Tx MXene Networks on Silicon Microcone Arrays via Template-Directed Assembly for Highly Efficient Room-Temperature Ammonia Sensing\" Ran Xiong, Xianwu Xu, Yuchao Zhao, Hongbo Wang, Bingjun Yu, Linmao Qian, Jun-Ho Jeong, Inkyu Park, Zhi-Jun Zhao * ACS Sensors, 11, 10 , 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Spatially Configurable Conformal Sensor Integration on an UltraFine Metallic Needle for Minimally Invasive Deep-Tissue Oxygen Monitoring",
+      "year": 2026,
+      "citation_raw": "\"Spatially Configurable Conformal Sensor Integration on an UltraFine Metallic Needle for Minimally Invasive Deep-Tissue Oxygen Monitoring\" Yeju Seo†, Jaeho Park†, Yongrok Jeong, Ji-Hwan Ha, Junseong Ahn, Jimin Gu, Su A Park, Ilwoo Jun, Kichul Lee and Inkyu Park* Advanced Materials Techonolgies, Accepted , 2026 (중견, 외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Wireless, optoelectronic, multimodal skin sensor for simultaneous monitoring of mechanical stress and vascular responses",
+      "year": 2026,
+      "citation_raw": "\"Wireless, optoelectronic, multimodal skin sensor for simultaneous monitoring of mechanical stress and vascular responses\" Seokjoo Cho, Jiwon Moon, Hyeonseok Han, Jihyeon Ahn, Kichul Lee, Gandha Satria Adi, Donho Lee, Yong Suk Oh, Wei Gao*, and Inkyu Park* Nature Communications, Accepted , 2026 (이노코어, 알키미스트2, BK)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Kinetic-locked Fiber Networks Enable Anti-fouling, Mechanically Robust Zwitterionic Hydrogels",
+      "year": 2026,
+      "citation_raw": "\"Kinetic-locked Fiber Networks Enable Anti-fouling, Mechanically Robust Zwitterionic Hydrogels\" Xiaoru Dong, Shuncheng Yao, Xi Cui, Zhi Yang, Jian Cheng, Juntong Zhu, Yu Song, Inkyu Park, Zhou Li*, Zhuo Li * Advanced Materials, Accepted , 2026 (외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Laser-induced biocompatible molybdenum dioxide for versatile wearable bioelectronics",
+      "year": 2026,
+      "citation_raw": "\"Laser-induced biocompatible molybdenum dioxide for versatile wearable bioelectronics\" Jiayan Li, Zimo Cai, Yuyu Hou, Huayong Yang, Inkyu Park, Geng Yang* and Kaichen Xu* Opto-Electronic Advances, 9, 260069 , 2026 (외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Monolithic and Scalable Capacitive Electrodes Leveraging Parasitic Capacitance for Full-Body Pressure Mapping",
+      "year": 2026,
+      "citation_raw": "\"Monolithic and Scalable Capacitive Electrodes Leveraging Parasitic Capacitance for Full-Body Pressure Mapping\" Donho Lee†, Hyeonseok Han†, Chankyu Han, Seungtaek Jang, Changjoon Lee, Chang-yeon Gu, Jiwon Moon, Jihyeon Ahn, Junseong Ahn, Ji-hwan Ha, Seokjoo Cho, Byeongmin Kang, Yong Suk Oh, Jungrak Choi*, Inkyu Park* Science Advances, Accepted , 2026 (알키미스트, 외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Recent Advances in Functional Composite Materials and Smart Structures for Wearable Physical Sensors: A Review",
+      "year": 2026,
+      "citation_raw": "\"Recent Advances in Functional Composite Materials and Smart Structures for Wearable Physical Sensors: A Review\" Osman Gul, Kyuyoung Kim, Jungrak Choi, Seokjoo Cho, and Inkyu Park Transactions on Electrical and Electronic Materials, Accepted , 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Advances and challenges in wearable sensors for health monitoring",
+      "year": 2026,
+      "citation_raw": "\"Advances and challenges in wearable sensors for health monitoring\" Laís Canniatti Brazaca*, Ji-Hwan Ha, Seokjoo Cho, Inkyu Park, Juliane Sempionatto* and Osvaldo N. Oliveira Jr.*, et al. ACS Applied Materials & Interfaces, In press , 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "A Wireless, Passive Multimodal Wearable Sensor with Decoupled Sensing Capabilities",
+      "year": 2026,
+      "citation_raw": "\"A Wireless, Passive Multimodal Wearable Sensor with Decoupled Sensing Capabilities\" Wenjiang Han, Heng Xiao, Tianshuang Wang*, Xiaoran Ding, Liupeng Zhao, Seokjoo Cho, Peng Sun*, Inkyu Park*, Geyu Lu* Advanced Materials, Accepted , 2026 (중견)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "A Direction-Aware Piezo-Transmittance Strain Sensor via Engineered Alignment of Carbon Nanotubes (CNTs)",
+      "year": 2026,
+      "citation_raw": "\"A Direction-Aware Piezo-Transmittance Strain Sensor via Engineered Alignment of Carbon Nanotubes (CNTs)\" Byeongmin Kang†, Kwangjun Kim†, Jimin Gu†, Junseong Ahn, Yongrok Jeong, Ji-Hwan Ha, Sohee Jeon, Soonhyoung Hwang, Byung-Ho Kang, Jihyeon Ahn, Jong-An Choi, Minwook Kim, Yeonguk Jung, Jun-Ho Jeong*, Jong G. Ok*, and Inkyu Park* Advanced Materials Technologies, e71130 , 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Thin-Film MoS₂ Phototransistor-Integrated Piezo-transmittance Sensor for Wearable Electronics",
+      "year": 2026,
+      "citation_raw": "\"Thin-Film MoS₂ Phototransistor-Integrated Piezo-transmittance Sensor for Wearable Electronics\" Jimin Gu, Injun Lee, Seok-Young Ji, Junseong Ahn, Jungrak Choi, Yongrok Jeong, Ji-hwan Ha, Won Seok “Paul” Chang*, Byeong-Soo Bae* and Inkyu Park* Advanced Materials Technologies, e01979 , 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Scalable Multiplexed Machine Learning Gas Sensor Chips for Food Classification",
+      "year": 2026,
+      "citation_raw": "\"Scalable Multiplexed Machine Learning Gas Sensor Chips for Food Classification\" C. Bassil†, K. Lee†, X. Liao, D. Krishnan, Y. Zhan, T. J. Wijaya, E. Hester, M. Kim, I.-D. Kim, I. Park*, A. Javey* Science Advances, 12, 25 , 2026 (Berkeley Sensors and Actuators Center (BSAC), National Science Foundation)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Highlighting Recent Progress in Fiber Energy Harvesters: From Working Principles to Future Perspectives",
+      "year": 2026,
+      "citation_raw": "\"Highlighting Recent Progress in Fiber Energy Harvesters: From Working Principles to Future Perspectives\" Hanhwi Jang, Junseong Ahn, Yongrok Jeong, Sohee Jeon, Soon Hyoung Hwang, Min-Wook Oh*, Jun-Ho Jeong*, Inkyu Park*, Yeon Sik Jung* Advanced Science, Review , 2026 (중견, 외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Wireless, battery-free wearable optoelectronic colorimetric microfluidic sensor for multiplex sweat analysis",
+      "year": 2026,
+      "citation_raw": "\"Wireless, battery-free wearable optoelectronic colorimetric microfluidic sensor for multiplex sweat analysis\" R. Song†, S. Cho†, G. Kim, S. Shin, S. Yin, R. Liu, R. Zeng, J. Tu, Y. Xiong, I. Park*, W. Gao* Device, 4, 101107 , 2026 (과제사사: 중견)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "A battery-free, wireless graphene pressure sensor for machine learning-assisted posture classification and VR/AR visualization in smart healthcare environments",
+      "year": 2026,
+      "citation_raw": "\"A battery-free, wireless graphene pressure sensor for machine learning-assisted posture classification and VR/AR visualization in smart healthcare environments\" Myungwoo Choi†, Younghan Kim†, Hyeonseok Han†, Gongkyu Byeon†, Yonghee Lee, Jeong A Han, Nam Hyeong Lee, Sang Won Kim, Hakyoung Lee, Yoorim Loh, Sangbin Lee, Dong Gyun Hong, Sunwoo Lee, Seokjoo Cho, Jewook Kim, Jeong-O Lee, Jungmo Kim, Seung Yol Jeong, Jun Chang Yang, Sunjin Yu*, Seokwoo Jeon*, Donghwi Cho*, Inkyu Park*, Yong Suk Oh* Materials Horizons, 2026 , (과제사사: K-sensor, 외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Integrated WTe2@SnO2 Heterojunction Sensors and Deep Learning Architecture for Intelligent Multi-Gas Detection under Environmental Variations",
+      "year": 2026,
+      "citation_raw": "\"Integrated WTe2@SnO2 Heterojunction Sensors and Deep Learning Architecture for Intelligent Multi-Gas Detection under Environmental Variations\" Xinlei Li, Shupeng Sun, Yang Chi, Nan Wang, Baoyu Huang, Inkyu Park, and Xiaogan Li* Analytical Chemistry, 98 (10), 7233-7246 , 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Versatile Water-floated Nanostructures for Three-Dimensional Nanotransfer Printing",
+      "year": 2026,
+      "citation_raw": "\"Versatile Water-floated Nanostructures for Three-Dimensional Nanotransfer Printing\" Byung-Ho Kang, Ji-Hwan Ha, Yeongjae Kwon, Sohee Jeon, Donho Lee, Byeongmin Kang, Soon Hyoung Hwang, Junseong Ahn*, Jun-Ho Jeong*, Inkyu Park* Nature Communications, 17, 4688 , 2026 (과제사사: 중견과제, 알키미스트, 외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Wooden Green Multi-Gas Sensors with Femtosecond Laser-Induced Graphene for Sustainable Environmental Monitoring",
+      "year": 2026,
+      "citation_raw": "\"Wooden Green Multi-Gas Sensors with Femtosecond Laser-Induced Graphene for Sustainable Environmental Monitoring\" Cheolmin Kim†, Han Ku Nam†, Mingu Kang, Tongmei Jing, Kichul Lee, Dongwook Yang, Ji-Hwan Ha, Yeongjae Kwon, Younggeun Lee, Young-Jin Kim*, Inkyu Park* Chemical Engineering Journal, 530/173407 , 2026 (과제사사: K-sensor, 외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Wireless, battery-free, optoelectronic, multi-modal sensor integrated with colorimetric dressing for diabetic ulcer management",
+      "year": 2026,
+      "citation_raw": "\"Wireless, battery-free, optoelectronic, multi-modal sensor integrated with colorimetric dressing for diabetic ulcer management\" S. Cho†, J.-H. Ha†, J. Moon, J. Ahn, G. Kim, X. Ma, K. Fan, R. Song, D. Lee, H. Han, J.Ahn, Y. Oh, W. Choi, Y. S. Oh, S. Hwang, S. Jeon, Y. Jeong, D. Kim, S. A Park, J.-H Jeong*, W. Gao* I. Park* Advanced Functional Materials, 36, e32167 , 2026 ((과제사사: 중견, 알키미스트1, 외부과제(2)))",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Modular Tactile Sensing Platform with Sequential Optical Sampling for Human–Robot Interfaces",
+      "year": 2026,
+      "citation_raw": "\"Modular Tactile Sensing Platform with Sequential Optical Sampling for Human–Robot Interfaces\" H. Kim†, S. Cho†, C. Han, J. Ahn, D. Lee, S. Jang, G. Lee, K. Lee, H. Han, J.-H. Ha, J. Ahn, Y. Jeong, J. Choi*, I. Park* Device, 4, 101081 , 2026 (과제사사: K-sensor, 이노코어, 외부과제(ETRI))",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Advanced Breath Analysis through Hierarchical Deep Convolutional Neural Network for Multi-cancer Screening",
+      "year": 2026,
+      "citation_raw": "\"Advanced Breath Analysis through Hierarchical Deep Convolutional Neural Network for Multi-cancer Screening\" B. Lee†, J. Lee†, H. Noh, H. Bahn, J. Jeon, I. Park*, S. Jheon*, and D. Lee* npj Digital Medicine, 9, 138 , 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Acoustofluidics Lab on a Chip System for size-based Nanoparticle Separation",
+      "year": 2025,
+      "citation_raw": "\"Acoustofluidics Lab on a Chip System for size-based Nanoparticle Separation\" Jaeyun Yoon, Noori Kim, Saeeun Jang, Jinhong Noh, Inkyu Park*, Suhan Lee, Hae-Jin Choi, Yong-Jin Yoon International Journal of Precision Engineering and Manufacturing-Green Technology, , 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "High Sensitivity and Broad Range Iontronic Pressure Sensors Based on Porous Elastomer Structure",
+      "year": 2025,
+      "citation_raw": "\"High Sensitivity and Broad Range Iontronic Pressure Sensors Based on Porous Elastomer Structure\" Xuan Li, Osman Gul, Lei Wu, Morteza Amjadi, Shuying Wu, Inkyu Park* Advanced Materials Technologies, Early View, e02168 , 2025 (중견)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Mechanochemically Activatable Liquid Metal Powders for Sustainable, Reconfigurable, and Versatile Electronics",
+      "year": 2025,
+      "citation_raw": "\"Mechanochemically Activatable Liquid Metal Powders for Sustainable, Reconfigurable, and Versatile Electronics\" Osman Gul, Junseong Ahn, Hye Jin Kim*, Xinge Yu*, Inkyu Park* Advanced Functional Materials, 36, e27396 , 2025 (중견, 외부(ETRI))",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Smarter Sensors through Machine Learning: Historical Insights and Emerging Trends across Sensor Technologies",
+      "year": 2025,
+      "citation_raw": "\"Smarter Sensors through Machine Learning: Historical Insights and Emerging Trends across Sensor Technologies\" Kichul Lee†, Osman Gul†, Yeongjae Kwon†, Jaeseok Jeong, Seokjoo Cho, Jihyeon Ahn, Jehee Yu, Cheolmin Kim, Donho Lee, Hyeonseok Han, Byeongju Lee, Jungrak Choi, Ji-Hwan Ha, Yongrok Jeong, Kyungnam Kang, Ali Javey*, Junseong Ahn*, Inkyu Park* Advanced Functional Materials, e19859 , 2025 (중견과제, 외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Enabling Weather-Independent Gas Detection through Deep Learning on Light-Activated Sensors",
+      "year": 2025,
+      "citation_raw": "\"Enabling Weather-Independent Gas Detection through Deep Learning on Light-Activated Sensors\" Kichul Lee†, Minhyun Kim†, Yeongjae Kwon†, Seyeon Park†, Yunsung Lim, Donghyuk Kwak, Jaeseok Jeong, Baul Kim, Jaewan Ahn, Jihan Kim, Yong-Hoon Cho, Il-Doo Kim,* and Inkyu Park* ACS Nano 19, 44, 38327–38339 , 2025 (인하대나노소재, 외부과제)",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Wearable, Near Temperature Insensitive Laser-Induced Graphene Nanocomposite Strain Sensors",
+      "year": 2025,
+      "citation_raw": "\"Wearable, Near Temperature Insensitive Laser-Induced Graphene Nanocomposite Strain Sensors\" Tom Jacquin, Simon Wanstall, Inkyu Park, Adam A. Stokes, Hadi Heidari, Theodore Lim, and Morteza Amjadi Journal of Materials Chemistry C, 13/20000-20012 , 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_1"
+    },
+    {
+      "title": "Advancements in Photoactivated Gas Sensors: A Review",
+      "year": 2024,
+      "citation_raw": "\"Advancements in Photoactivated Gas Sensors: A Review\" K. Lee and I. Park Journal of Sensor Science and Technology, vol. 33, No. 5 (2024) pp.1-7",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_2"
+    },
+    {
+      "title": "Skin-interfaced Wearable Biosensors: A Mini-Review",
+      "year": 2022,
+      "citation_raw": "\"Skin-interfaced Wearable Biosensors: A Mini-Review\" T. Kim and I. Park Journal of Sensor Science and Technology, vol. 31, No. 2 (2022) pp.71-78",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_2"
+    },
+    {
+      "title": "Wearable force sensor using 3D-printed mold and liquid metal",
+      "year": 2019,
+      "citation_raw": "\"Wearable force sensor using 3D-printed mold and liquid metal\" K. Kim, J. Choi, Y. Jeong, M. Kim, S. Kim and I. Park Journal of Sensor science and technology, vol. 28, No. 3 (2019) pp.198-204",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_2"
+    },
+    {
+      "title": "Recent Trends in Human Motion Detection Technology and Flexible/stretchable Physical Sensors: A Review",
+      "year": 2017,
+      "citation_raw": "\"Recent Trends in Human Motion Detection Technology and Flexible/stretchable Physical Sensors: A Review\" I. Park Journal of Sensor science and technology, vol. 26, No. 6 (2017) pp.391-396",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_2"
+    },
+    {
+      "title": "Recent Trends of light-enhanced metal oxide gas sensors : review",
+      "year": 2016,
+      "citation_raw": "\"Recent Trends of light-enhanced metal oxide gas sensors : review\" M. Cho and I. park Journal of Sensor science and technology, vol. 25, No. 2 (2016) pp.103-109",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_2"
+    },
+    {
+      "title": "MEMS/nano-technologies for smart air environmental monitoring sensors",
+      "year": 2015,
+      "citation_raw": "\"MEMS/nano-technologies for smart air environmental monitoring sensors\" I. Park, D. Yang and K. Kang Journal of Sensor Science and Technology, vol. 24, No. 5 (2015) pp. 281-286",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_2"
+    },
+    {
+      "title": "Moiré Pattern Vision-Based Tactile Sensor: A Robust Solution for Multidirectional Force Detection and 3D Dynamic Object Recognition",
+      "year": 2026,
+      "citation_raw": "\"Moiré Pattern Vision-Based Tactile Sensor: A Robust Solution for Multidirectional Force Detection and 3D Dynamic Object Recognition\" Gandha Satria Adi, Yongrok Jeong, Inkyu Park APCOT 2026, Taichung, Taiwan, Jun 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Liquid Metal Powder–Enabled Conductive Networks for Multifunctional and Versatile Electronics",
+      "year": 2026,
+      "citation_raw": "\"Liquid Metal Powder–Enabled Conductive Networks for Multifunctional and Versatile Electronics\" Osman Gul, Inkyu Park APCOT 2026, Taichung, Taiwan, Jun 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Direction-Aware Piezo-Transmittance Sensor Arrays for Real-Time Human Motion Monitoring and Advanced Wearable Electronics",
+      "year": 2026,
+      "citation_raw": "\"Direction-Aware Piezo-Transmittance Sensor Arrays for Real-Time Human Motion Monitoring and Advanced Wearable Electronics\" Byeongmin Kang, Kwangjun Kim, Jimin Gu, Jun-ho Jeong*, Jong G. Ok*, and Inkyu Park* APCOT 2026, Taichung, Taiwan, Jun 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Skin-Conformal Tessellated Platforms with On-Demand Switchable Adhesion for Wearable Devices",
+      "year": 2026,
+      "citation_raw": "\"Skin-Conformal Tessellated Platforms with On-Demand Switchable Adhesion for Wearable Devices\" Geonjun Choi, Hoon Eui Jeong, Inkyu Park APCOT 2026, Taichung, Taiwan, Jun 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Acupuncture Needle-Based Conformal Sensor Platform for Deep-Tissue Oxygen Monitoring",
+      "year": 2026,
+      "citation_raw": "\"Acupuncture Needle-Based Conformal Sensor Platform for Deep-Tissue Oxygen Monitoring\" Yeju Seo, Inkyu Park APCOT 2026, Taichung, Taiwan, Jun 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Battery-Free, Wireless Multi-Axial Sensor Array for Continuous Pressure and Shear Monitoring at the Skin-Cast Interface",
+      "year": 2026,
+      "citation_raw": "\"Battery-Free, Wireless Multi-Axial Sensor Array for Continuous Pressure and Shear Monitoring at the Skin-Cast Interface\" Jiwon Moon, Hyeonseok Han, Seokjoo Cho, Inkyu Park* APCOT 2026, Taichung, Taiwan, Jun 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Battery-Free, Wireless, Optoelectronic Device with Colorimetric Dressing for Multi-Modal Monitoring of Diabetic Foot Care",
+      "year": 2026,
+      "citation_raw": "\"Battery-Free, Wireless, Optoelectronic Device with Colorimetric Dressing for Multi-Modal Monitoring of Diabetic Foot Care\" Seokjoo Cho, Ji-hwan Ha, Inkyu Park* 2026 MRS Spring, Honolulu, USA, Apr 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "A Scalable Platform for Flexible and Multidimensionally Conformal Multi-modal Sensor Arrays",
+      "year": 2026,
+      "citation_raw": "\"A Scalable Platform for Flexible and Multidimensionally Conformal Multi-modal Sensor Arrays\" Seungtaek Jang, Jungrak Choi, Inkyu Park* 2026 MRS Spring, Honolulu, USA, Apr 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Liquid Metal Powders for Next-Generation Sustainable Wearable and Flexible Electronics",
+      "year": 2026,
+      "citation_raw": "\"Liquid Metal Powders for Next-Generation Sustainable Wearable and Flexible Electronics\" Osman Gul, Inkyu Park 2026 MRS Spring, Honolulu, USA, Apr 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Photochemical Synthesis of Silver Nanoparticles on Metal Oxide Nanostructures for Plasmonic Gas Sensing",
+      "year": 2025,
+      "citation_raw": "\"Photochemical Synthesis of Silver Nanoparticles on Metal Oxide Nanostructures for Plasmonic Gas Sensing\" Jehee Yu, Kichul Lee, Inkyu Park* ISMNM 2025, Busan, South Korea, Dec 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "3D Thermoformed Three-Axial Sensor with Laser-Patterned Electrodes",
+      "year": 2025,
+      "citation_raw": "\"3D Thermoformed Three-Axial Sensor with Laser-Patterned Electrodes\" Changjoon Lee, Donho Lee, Inkyu Park* ISMNM 2025, Busan, South Korea, Dec 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Multimodal Optical Sensor Array using Addressable Light Emitting Diode",
+      "year": 2025,
+      "citation_raw": "\"Multimodal Optical Sensor Array using Addressable Light Emitting Diode\" Seungtaek Jang, Jungrak Choi, Inkyu Park* ISMNM 2025, Busan, South Korea, Dec 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Water-Floating Nanotransfer Printing for Three-Dimensional Substrates and its Applications",
+      "year": 2025,
+      "citation_raw": "\"Water-Floating Nanotransfer Printing for Three-Dimensional Substrates and its Applications\" Byung-Ho Kang, Junseong Ahn, Ji-Hwan Ha, Yeong Jae Kwon, Byeongmin Kang, Sohee Jeon, Soon Hyoung Hwang, Jun-Ho Jeong*, and Inkyu Park* MRS Fall 2025, Boston, USA, Nov 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Multi-point pO Sensor on Ultra-fine Needle Toward Minimally Invasive In-situ Bio Applications",
+      "year": 2025,
+      "citation_raw": "\"Multi-point pO Sensor on Ultra-fine Needle Toward Minimally Invasive In-situ Bio Applications\" Yeju Seo , Jaeho Park , Hye Jin Kim , Inkyu Park* MRS Fall 2025, Boston, USA, Nov 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Room-temperature Rapid Oxygen Monitoring System in High Humidity Hydrogen Gas Environment towards Water Electrolysis Application",
+      "year": 2025,
+      "citation_raw": "\"Room-temperature Rapid Oxygen Monitoring System in High Humidity Hydrogen Gas Environment towards Water Electrolysis Application\" Yeongjae Kwon, Kichul Lee, Inkyu Park IMCS 2025, Freiburg, Germany, Jun 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Green Gas Sensor using Laser-Induced Graphene (LIG)",
+      "year": 2025,
+      "citation_raw": "\"Green Gas Sensor using Laser-Induced Graphene (LIG)\" Cheolmin Kim, Hanku Nam, Mingu Kang, Tongmei Jing, Kichul Lee, Dongwook Yang, Ji-Hwan Ha, Yeongjae Kwon, Youngjin Kim*, Inkyu Park* IMCS 2025, Freiburg, Germany, Jun 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Flexible Touch Sensor with Laser-Scribed Graphene Hall Arrays and Deep Learning for Advanced Tactile Sensing",
+      "year": 2025,
+      "citation_raw": "\"Flexible Touch Sensor with Laser-Scribed Graphene Hall Arrays and Deep Learning for Advanced Tactile Sensing\" Yeju Seo, Hye Jin Kim*, Inkyu Park* 2025 GCIM (Global Conference of Innovation Materials), Jeju, South Korea, Jun 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Self-Powered Piezoionic Pressure Sensor with a Reinforced Hydrogel Structure",
+      "year": 2025,
+      "citation_raw": "\"Self-Powered Piezoionic Pressure Sensor with a Reinforced Hydrogel Structure\" Jong-An Choi, Jiwon Moon, Seungtaek Jang, Inkyu Park* 2025 GCIM (Global Conference of Innovation Materials), Jeju, South Korea, Jun 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Water-Floating Nanotransfer Printing for Three-Dimensional Substrates",
+      "year": 2025,
+      "citation_raw": "\"Water-Floating Nanotransfer Printing for Three-Dimensional Substrates\" Byung-Ho Kang, Junseong Ahn, Ji-Hwan Ha, Byungmin Kang, Sohee Jeon, Soon Hyoung Hwang, Jun-Ho Jeong*, and Inkyu Park* 2025 GCIM (Global Conference of Innovation Materials), Jeju, South Korea, Jun 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Green Gas Sensor using Laser-Induced Graphene (LIG)",
+      "year": 2025,
+      "citation_raw": "\"Green Gas Sensor using Laser-Induced Graphene (LIG)\" Cheolmin Kim, Hanku Nam, Mingu Kang, Kichul Lee, Dongwook Yang, Ji-Hwan Ha, Yeongjae Kwon, Youngjin Kim*, Inkyu Park* 2025 GCIM (Global Conference of Innovation Materials), Jeju, South Korea, Jun 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Micro-LED Embedded Layer-by-Layer Synthesized Conductive Metal-Organic Framework Chemiresistor Arrays",
+      "year": 2025,
+      "citation_raw": "\"Micro-LED Embedded Layer-by-Layer Synthesized Conductive Metal-Organic Framework Chemiresistor Arrays\" Kichul Lee, Young-Moo Jo*, Myung Sung Sohn, Mingyu Jeon, Cheolmin Kim, Osman Gul, Seon Ju Park, Ki Soo Chang, Chan Bae Jeong, Jihan Kim, Yun Chan Kang*, Inkyu Park* 2025 MRS Spring Meeting, Seattle, Washington, USA, Apr 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Battery-free, Wireless Three-axial Sensor Array to Prevent Pressure Injury",
+      "year": 2025,
+      "citation_raw": "\"Battery-free, Wireless Three-axial Sensor Array to Prevent Pressure Injury\" Jiwon Moon, Hyeonseok Han, Seokjoo Cho, Donho Lee, Inkyu Park* 2025 MRS Spring Meeting, Seattle, Washington, USA, Apr 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Large-Scale, Cost-Effective Pressure Mattress Using Flexible Touch Sensor",
+      "year": 2025,
+      "citation_raw": "\"Large-Scale, Cost-Effective Pressure Mattress Using Flexible Touch Sensor\" Donho Lee, Hyeonseok Han, Jiwon Moon, Jungrak Choi*and Inkyu Park* 2025 MRS Spring Meeting, Seattle, Washington, USA, Apr 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Bioinspired Interfacially Engineered Flexible Island for Highly Stretchable Electronics",
+      "year": 2025,
+      "citation_raw": "\"Bioinspired Interfacially Engineered Flexible Island for Highly Stretchable Electronics\" Osman Gul, Hye Jin Kim*, Inkyu Park* 2025 MRS Spring Meeting, Seattle, Washington, USA, Apr 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Room-temperature Rapid Oxygen Monitoring System in High Humidity Hydrogen Gas Environment towards Water Electrolysis Application",
+      "year": 2024,
+      "citation_raw": "\"Room-temperature Rapid Oxygen Monitoring System in High Humidity Hydrogen Gas Environment towards Water Electrolysis Application\" Yeongjae Kwon, Kichul Lee, Mingu Kang, Inkyu Park* ISMNM 2024, Jeju, South Korea, Dec 2024",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Development of Inorganic Material-based Nanoribbon Yarn for Enhanced Gas Sensing Performance",
+      "year": 2024,
+      "citation_raw": "\"Development of Inorganic Material-based Nanoribbon Yarn for Enhanced Gas Sensing Performance\" Mingu Kang, Junseong Ahn, Yongrok Jeong, Jun-Ho Jeong, and Inkyu Park* ISMNM 2024, Jeju, South Korea, Dec 2024",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Real-Time Fat Burning Prediction Using Breath Analysis: Alveolar and Oral Breath Analysis with CNN",
+      "year": 2024,
+      "citation_raw": "\"Real-Time Fat Burning Prediction Using Breath Analysis: Alveolar and Oral Breath Analysis with CNN\" Byeongju Lee, Junyeong Lee, Hyung-Kun Lee, HyungJu Park, Myung-Joon Kwack, Do Yeob Kim, Inkyu Park*, Soo Lim*, and Dae-Sik Lee* ISMNM 2024, Jeju, South Korea, Dec 2024",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Ultra-Low Power Micro-LED Embedded Conductive Metal-Organic Frameworks Chemiresistor Arrays",
+      "year": 2024,
+      "citation_raw": "\"Ultra-Low Power Micro-LED Embedded Conductive Metal-Organic Frameworks Chemiresistor Arrays\" Kichul Lee, Myung Sung Sohn, Young-Moo Jo*, Inkyu Park* ISMNM 2024, Jeju, South Korea, Dec 2024",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Technology for Micro Soldering with Electromagnetic Induction Heating",
+      "year": 2024,
+      "citation_raw": "\"Technology for Micro Soldering with Electromagnetic Induction Heating\" Cheolmin Kim, Hyeonseok Han, Donho Lee, Sunchul Kim, Taejae Park, Chaein Moon, Taeduck Nam, Inkyu Park* ISMNM 2024, Jeju, South Korea, Dec 2024",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Water-floated Nanostructure as an Innovative Nano transfer Technique to Curved Surface and its Application: Surface Enhanced Raman Scattering",
+      "year": 2024,
+      "citation_raw": "\"Water-floated Nanostructure as an Innovative Nano transfer Technique to Curved Surface and its Application: Surface Enhanced Raman Scattering\" Byung-Ho Kang, Junseong Ahn, Ji-Hwan Ha, Byungmin Kang, Sohee Jeon, Soon Hyoung Hwang, Jun-Ho Jeong*, and Inkyu Park* 2024 AMSM, Incheon, South Korea, Oct 2024",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_3"
+    },
+    {
+      "title": "Localized Electronic Package Bonding Process Using Electromagnetic Induction Heating/전자기 유도 가열을 이용한 국부 전자 패키지 접합 공정",
+      "year": 2026,
+      "citation_raw": "\"Localized Electronic Package Bonding Process Using Electromagnetic Induction Heating/전자기 유도 가열을 이용한 국부 전자 패키지 접합 공정\" Jiwon Moon, Kwanwoo Ko, Juhyung Lee, Munhyung Jo, Sunchul Kim, Taeduk Nam, Inkyu Park* 한국생산제조학회 2026 춘계학술대회, Gangneung, South Korea, Jul 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Moiré Pattern Vision-Based Tactile Sensor: A Robust Solution for Multidirectional ForceDetection and Object Recognition",
+      "year": 2026,
+      "citation_raw": "\"Moiré Pattern Vision-Based Tactile Sensor: A Robust Solution for Multidirectional ForceDetection and Object Recognition\" Gandha Satria Adi, Yongrok Jeong, Inkyu Park NANO KOREA 2026, Goyang, South Korea, Jul 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Fixed-Channel Readout Architecture for Multimodal Tactile Sensor Arrays with Reduced Wiring",
+      "year": 2026,
+      "citation_raw": "\"Fixed-Channel Readout Architecture for Multimodal Tactile Sensor Arrays with Reduced Wiring\" Seungtaek Jang, Jungrak Choi, Inkyu Park* NANO KOREA 2026, Goyang, South Korea, Jul 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Wireless, Battery-Free Multi-Axial Sensing Platform for Pressure Injury Prevention",
+      "year": 2026,
+      "citation_raw": "\"Wireless, Battery-Free Multi-Axial Sensing Platform for Pressure Injury Prevention\" Jiwon Moon, Hyeonseok Han, Seokjoo Cho, Inkyu Park* NANO KOREA 2026, Goyang, South Korea, Jul 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "High-throughput and Highly-reproducible Gas Sensor for ML Processing based on Nanoimprint Lithography and MEMS Fabrication",
+      "year": 2026,
+      "citation_raw": "\"High-throughput and Highly-reproducible Gas Sensor for ML Processing based on Nanoimprint Lithography and MEMS Fabrication\" Yeongjae Kwon, Inkyu Park* HIRC 2026, Busan, South Korea, Jun 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Photoreductive Growth of Silver Nanoparticles on Metal Oxide Nanostructures for Plasmonic Gas Sensing",
+      "year": 2026,
+      "citation_raw": "\"Photoreductive Growth of Silver Nanoparticles on Metal Oxide Nanostructures for Plasmonic Gas Sensing\" Jehee Yu, Kichul Lee, Inkyu Park* HIRC 2026, Busan, South Korea, Jun 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Moiré Pattern Vision-Based Tactile Sensor: A Robust Solution for Multidirectional ForceDetection and Object Recognition",
+      "year": 2028,
+      "citation_raw": "\"Moiré Pattern Vision-Based Tactile Sensor: A Robust Solution for Multidirectional ForceDetection and Object Recognition\" Gandha Satria Adi, Yongrok Jeong, Inkyu Park 2028 대한기계학회 마이크로/나노공학부문 2026년 춘계학술대회, Yeosu, South Korea, Jun 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Photoreduction-Induced Silver Nanoparticle Growth on Metal Oxide Nanostructures for Plasmonic Gas Sensing",
+      "year": 2026,
+      "citation_raw": "\"Photoreduction-Induced Silver Nanoparticle Growth on Metal Oxide Nanostructures for Plasmonic Gas Sensing\" Jehee Yu, Kichul Lee, Inkyu Park* 2026 한국정밀공학회 춘계학술대회, Jeju, South Korea, May 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Deep Learning-Based Skin-Adhesive Motion Monitoring Film for VR and AR",
+      "year": 2026,
+      "citation_raw": "\"Deep Learning-Based Skin-Adhesive Motion Monitoring Film for VR and AR\" Jihyeon Ahn, Junseong Ahn *, and Inkyu Park* 2026 한국정밀공학회 춘계학술대회, Jeju, South Korea, May 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Wireless, Battery-Free Sensor Array for Continuous Monitoring of Pressure, Shear, and Temperature to Prevent Pressure Injuries / 욕창 예방을 위한 압력, 전단력 및 온도 모니터링용 무선·무전원 센서 어레이",
+      "year": 2026,
+      "citation_raw": "\"Wireless, Battery-Free Sensor Array for Continuous Monitoring of Pressure, Shear, and Temperature to Prevent Pressure Injuries / 욕창 예방을 위한 압력, 전단력 및 온도 모니터링용 무선·무전원 센서 어레이\" Jiwon Moon, Hyeonseok Han, Seokjoo Cho, Inkyu Park* 2026 한국정밀공학회 춘계학술대회, Jeju, South Korea, May 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Room-temperature rapid oxygen monitoring system in high humidity hydrogen environment based on metal oxide gas sensor",
+      "year": 2026,
+      "citation_raw": "\"Room-temperature rapid oxygen monitoring system in high humidity hydrogen environment based on metal oxide gas sensor\" Yeongjae Kwon, Kichul Lee, Inkyu Park* 2026 마이크로나노시스템학회 춘계학술대회, Jeju, South Korea, Mar 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Versatile Water-Floated Nanostructure for Three-Dimensional Nanotransfer Printing",
+      "year": 2026,
+      "citation_raw": "\"Versatile Water-Floated Nanostructure for Three-Dimensional Nanotransfer Printing\" Byung-Ho Kang, Ji-Hwan Ha, Yeong Jae Kwon, Byeongmin Kang, Sohee Jeon, Soon Hyoung Hwang, Junseong Ahn*, Jun-Ho Jeong*, and Inkyu Park* 2026 마이크로나노시스템학회 춘계학술대회, Jeju, South Korea, Mar 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Thermoformed Three-Dimensional Sensor for Multi-Axial Force Sensing",
+      "year": 2026,
+      "citation_raw": "\"Thermoformed Three-Dimensional Sensor for Multi-Axial Force Sensing\" Changjoon Lee, Jungrak Choi*, Inkyu Park* 2026 마이크로나노시스템학회 춘계학술대회, Jeju, South Korea, Mar 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Engineered CNT Alignment for Direction-Aware Piezo-Transmittance Strain Sensing",
+      "year": 2026,
+      "citation_raw": "\"Engineered CNT Alignment for Direction-Aware Piezo-Transmittance Strain Sensing\" Byeongmin Kang, Kwangjun Kim, Jimin Gu, Jun-ho Jeong*, Jong G. Ok*, and Inkyu Park* 2026 마이크로나노시스템학회 춘계학술대회, Jeju, South Korea, Mar 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Long-Lasting Self-Powered Piezoionic Sensor with Wide Pressure Detection Range",
+      "year": 2026,
+      "citation_raw": "\"Long-Lasting Self-Powered Piezoionic Sensor with Wide Pressure Detection Range\" Jong-An Choi, Jiwon Moon, Sohee Jeon, Soon Hyoung Hwang, Jun-Ho Jeong*, Inkyu Park* 2026 마이크로나노시스템학회 춘계학술대회, Jeju, South Korea, Mar 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Wearable Piezo-Transmittance Strain Sensors with Engineered CNT Alignment_x000B_for Multi-Directional Motion Tracking",
+      "year": 2026,
+      "citation_raw": "\"Wearable Piezo-Transmittance Strain Sensors with Engineered CNT Alignment_x000B_for Multi-Directional Motion Tracking\" Byeongmin Kang, Kwangjun Kim, Jimin Gu, Jun-ho Jeong*, Jong G. Ok*, and Inkyu Park* 2026년 한국센서학회 춘계학술대회, Seoul, South Korea, Mar 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Adhesive-Free Water-Floating Nanotransfer Printing for 3D and Curved Substrates with Sensing Applications",
+      "year": 2026,
+      "citation_raw": "\"Adhesive-Free Water-Floating Nanotransfer Printing for 3D and Curved Substrates with Sensing Applications\" Byung-Ho Kang, Ji-Hwan Ha, Yeongjae Kwon, Sohee Jeon, Donho Lee, Byeongmin Kang, Soon Hyoung Hwang, Junseong Ahn*, Jun-Ho Jeong*, and Inkyu Park* 2026년 한국센서학회 춘계학술대회, Seoul, South Korea, Mar 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Flexible Piezoionic Pressure Sensors with Enhanced Stability and Wide Detection Range",
+      "year": 2026,
+      "citation_raw": "\"Flexible Piezoionic Pressure Sensors with Enhanced Stability and Wide Detection Range\" Jong-An Choi, Jiwon Moon, Sohee Jeon, Soon Hyoung Hwang, Jun-Ho Jeong*, Inkyu Park* 2026년 한국센서학회 춘계학술대회, Seoul, South Korea, Mar 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Skin-conformal motion monitoring film for VR and AR",
+      "year": 2026,
+      "citation_raw": "\"Skin-conformal motion monitoring film for VR and AR\" Jihyeon Ahn, Junseong Ahn *, and Inkyu Park* 2026년 한국센서학회 춘계학술대회, Seoul, South Korea, Mar 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Wireless, Battery-Free Sensor Array for Continuous Pressure and Shear Monitoring in Pressure Injury Prevention",
+      "year": 2026,
+      "citation_raw": "\"Wireless, Battery-Free Sensor Array for Continuous Pressure and Shear Monitoring in Pressure Injury Prevention\" Jiwon Moon, Hyeonseok Han, Seokjoo Cho, Inkyu Park* 2026년 한국센서학회 춘계학술대회, Seoul, South Korea, Mar 2026",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Room-temperature rapid oxygen monitoring system in high humidity hydrogen gas environment towards water electrolysis application",
+      "year": 2025,
+      "citation_raw": "\"Room-temperature rapid oxygen monitoring system in high humidity hydrogen gas environment towards water electrolysis application\" Yeongjae Kwon, Kichul Lee, Inkyu Park 2025년 한국센서학회 추계학술대회, Yeosu, South Korea, Oct 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "A Compact and Scalable Platform for Multimodal Tactile Sensing",
+      "year": 2025,
+      "citation_raw": "\"A Compact and Scalable Platform for Multimodal Tactile Sensing\" Seungtaek Jang, Jungrak Choi, Inkyu Park 2025년 한국 센서학회 추계학술대회, Yeosu, South Korea, Oct 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Photoactivated Chemiresistive Gas Sensors Based on Conductive MOF Thin Films Integrated with Micro-LEDs",
+      "year": 2025,
+      "citation_raw": "\"Photoactivated Chemiresistive Gas Sensors Based on Conductive MOF Thin Films Integrated with Micro-LEDs\" Kichul Lee, Young-Moo Jo, Myung Sung Sohn, Inkyu Park 2025년 한국센서학회 추계학술대회, Yeosu, South Korea, Oct 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Wireless, battery-free, optoelectronic patch integrated with multi-functional dressing for wound monitoring",
+      "year": 2025,
+      "citation_raw": "\"Wireless, battery-free, optoelectronic patch integrated with multi-functional dressing for wound monitoring\" Seokjoo Cho, Ji-hwan Ha, Inkyu Park* 2025년 한국센서학회 추계학술대회, Yeosu, South Korea, Oct 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Moiré pattern vision-based tactile sensor: A robust solution for multidirectional force detection and subtle 3D object recognition",
+      "year": 2025,
+      "citation_raw": "\"Moiré pattern vision-based tactile sensor: A robust solution for multidirectional force detection and subtle 3D object recognition\" Gandha Satria Adi, Inkyu Park 2025 NANO KOREA Conference, Goyang, South Korea, Jul 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "A Three-Axial Sensor with Automatic Temperature Compensation for Pressure Injury Prevention",
+      "year": 2025,
+      "citation_raw": "\"A Three-Axial Sensor with Automatic Temperature Compensation for Pressure Injury Prevention\" Jiwon Moon, Hyeonseok Han, Seokjoo Cho, Donho Lee, Inkyu Park* 2025 NANO KOREA Conference, Goyang, South Korea, Jul 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "A Flexible Multi-Site Needle Sensor for Real-Time In-Situ Spatial Oxygen Profiling",
+      "year": 2025,
+      "citation_raw": "\"A Flexible Multi-Site Needle Sensor for Real-Time In-Situ Spatial Oxygen Profiling\" Yeju Seo, Jaeho Park, Hye Jin Kim*, Inkyu Park* 2025 NANO KOREA Conference, Goyang, South Korea, Jul 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Three-Axial Pressure Sensor Utilizing Cantilever Structure for Pressure Injury Monitoring Device",
+      "year": 2025,
+      "citation_raw": "\"Three-Axial Pressure Sensor Utilizing Cantilever Structure for Pressure Injury Monitoring Device\" Jiwon Moon, Hyeonseok Han, Seokjoo Cho, Donho Lee, Inkyu Park* 2025 기계학회 춘계학술대회, Gangneung, South Korea, May 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Shielded large-area pressure sensor array using stretchable ground layer",
+      "year": 2025,
+      "citation_raw": "\"Shielded large-area pressure sensor array using stretchable ground layer\" Donho Lee, Jungrak Choi*and Inkyu Park* 2025 기계학회 춘계학술대회, Gangneung, South Korea, May 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "Gas Sensor using Laser-Induced Graphene (LIG)",
+      "year": 2025,
+      "citation_raw": "\"Gas Sensor using Laser-Induced Graphene (LIG)\" Cheolmin Kim, Hanku Nam, Mingu Kang, Kichul Lee, Dongwook Yang, Ji-Hwan Ha, Yeongjae Kwon, Youngjin Kim*, Inkyu Park* 2025 기계학회 춘계학술대회, Gangneung, South Korea, May 2025",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4"
+    },
+    {
+      "title": "멀티 가스 센서를 위한 저온 액상 공정을 이용한 다종 나노 물질 어레이 제작",
+      "year": 2013,
+      "citation_raw": "\"멀티 가스 센서를 위한 저온 액상 공정을 이용한 다종 나노 물질 어레이 제작\" 양대종, Muhamad Kasyful Fuadi, 김동환, 박인규 KMEMS 2013, 제주, Apr 2013",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "Microchannel integrated with ZnO-TiO2 hybrid nanotubes towards the photocatalytic inactivation of bacteria(박테리아 광촉매 분해를 위한 ZnO-TiO2 나노튜브가 집적된 마이크로채널)",
+      "year": 2013,
+      "citation_raw": "\"Microchannel integrated with ZnO-TiO2 hybrid nanotubes towards the photocatalytic inactivation of bacteria(박테리아 광촉매 분해를 위한 ZnO-TiO2 나노튜브가 집적된 마이크로채널)\" Donguk Kwon, Jung Kim, Hyeonjin Eom, Duckjong Kim and Inkyu Park KMEMS 2013, Jeju, Apr 2013",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "Formation of vertical ZnO nanowire arrays on flexible metal electrode for piezoelectric application",
+      "year": 2013,
+      "citation_raw": "\"Formation of vertical ZnO nanowire arrays on flexible metal electrode for piezoelectric application\" Hyeonjin Eom, Sang-Kuen Sung, Jun-Ho Jeong and Inkyu Park Nano IMP 2013 conference, Miryang, Feb 2013",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "국소적으로 합성된 이산화타이타늄의 결함 조절을 이용한 가시광센서",
+      "year": 2012,
+      "citation_raw": "\"국소적으로 합성된 이산화타이타늄의 결함 조절을 이용한 가시광센서\" 양대종, 김동환, 박인규 대한기계학회 추계 학술대회, 창원, Nov 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "Method for selective surface modification of a silicon nanowire by using localized joule heating(줄 가열을 이용한 실리콘 나노와이어 어레이의 선택적 표면 개질법)",
+      "year": 2012,
+      "citation_raw": "\"Method for selective surface modification of a silicon nanowire by using localized joule heating(줄 가열을 이용한 실리콘 나노와이어 어레이의 선택적 표면 개질법)\" J. Yun, C. Jin,and I. Park KSME(대한기계학회 추계 학술대회), Changwon, Nov 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "A novel method for simultaneous aligning and bonding of nanowires onto metal electrodes",
+      "year": 2012,
+      "citation_raw": "\"A novel method for simultaneous aligning and bonding of nanowires onto metal electrodes\" 이원석, 박인규, 이지혜 2012 대한기계학회 춘계 학술대회, 대전, May 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "패턴된 은 나노입자 박막을 이용한 유연 압력 센서",
+      "year": 2012,
+      "citation_raw": "\"패턴된 은 나노입자 박막을 이용한 유연 압력 센서\" 이재환, 양대종, 김상혁, 박인규 대한기계학회 춘계 학술대회, 대전, May 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "Interfacial toughening of solution processed Ag nanoparticle films using organic residuals(용액공정 기반 은 나노입자 박막의 유기 잔여물에 의한 계면 접합 강화)",
+      "year": 2012,
+      "citation_raw": "\"Interfacial toughening of solution processed Ag nanoparticle films using organic residuals(용액공정 기반 은 나노입자 박막의 유기 잔여물에 의한 계면 접합 강화)\" Sanghyeok Kim, Inhwa Lee, Jeonghoon Yun, Taek-Soo Kim and Inkyu Park The Korean Society of Mechanical Engineers Conference(대한기계학회 춘계학술대회), Daejeon, May 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "Photo catalytic approach of Ag/TiO2 core shell nano-wire array structure",
+      "year": 2012,
+      "citation_raw": "\"Photo catalytic approach of Ag/TiO2 core shell nano-wire array structure\" Hyeonjin Eom, Jun-Ho Jeong, Inkyu Park KSME spring conference, Daejeon, May 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "열압착 공정에 기반한 나노와이어 병렬 접합 기술",
+      "year": 2012,
+      "citation_raw": "\"열압착 공정에 기반한 나노와이어 병렬 접합 기술\" 이원석, 원세정, 박정희, 이지혜, 박인규 2012 한국생산제조시스템학회, 제주, Apr 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "저온/저압 열압착 접합에 기반한 기계적으로 강인한 나노와이어 접합 공정",
+      "year": 2012,
+      "citation_raw": "\"저온/저압 열압착 접합에 기반한 기계적으로 강인한 나노와이어 접합 공정\" 이원석, 원세정, 박인규, 이지혜 KMEMS 2012, 제주, Apr 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "단일 스텝 전사 공정을 이용하여 PDMS기판에 패턴된 금속 나노 잉크 기반 유연 압력센서",
+      "year": 2012,
+      "citation_raw": "\"단일 스텝 전사 공정을 이용하여 PDMS기판에 패턴된 금속 나노 잉크 기반 유연 압력센서\" 이재환, 양대종, 김상혁, 박인규 KMEMS 2012, 제주, Apr 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "국소/저온 용액공정으로 합성된 이산화타이타늄 나노튜브 기반 가시광센서",
+      "year": 2012,
+      "citation_raw": "\"국소/저온 용액공정으로 합성된 이산화타이타늄 나노튜브 기반 가시광센서\" 양대종, 김동환, 박인규 KMEMS 2012, 제주, Apr 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "Direct patterning of conductive metal nano-inks and its applications as electrodes for UV sensor devices(금속 나노 잉크의 직접 패터닝 및 자외선 센서 전극으로의 활용)",
+      "year": 2012,
+      "citation_raw": "\"Direct patterning of conductive metal nano-inks and its applications as electrodes for UV sensor devices(금속 나노 잉크의 직접 패터닝 및 자외선 센서 전극으로의 활용)\" Sanghyeok Kim, Wonseok Lee and Inkyu Park KMEMS 2012, Jeju, Apr 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "열압착 공정을 통해 형성된 나노와이어와 금속전극간의 기계적/전기적 접촉특성 분석",
+      "year": 2012,
+      "citation_raw": "\"열압착 공정을 통해 형성된 나노와이어와 금속전극간의 기계적/전기적 접촉특성 분석\" 이원석, 박인규, 이지혜 한국진공학회 2012, 강원도, Feb 2012",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "기계적 자극에 강한 유연기판 나노와이어 광센서",
+      "year": 2011,
+      "citation_raw": "\"기계적 자극에 강한 유연기판 나노와이어 광센서\" 양대종, 이재환, Zhiyong Li, 김재현, 박정민, 박인규 대한기계학회 추계 학술대회, 대구, Nov 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "나노물질 기반 플렉서블 환경센서 제작기술",
+      "year": 2011,
+      "citation_raw": "\"나노물질 기반 플렉서블 환경센서 제작기술\" 박인규, 김동환, 양대종, 임미애, 이재환 한국생산제조시스템학회 추계학술대회, 대전, Oct 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "하이브리드 공정을 이용한 다중 연결 ZnO 나노와이어 패턴 제작",
+      "year": 2011,
+      "citation_raw": "\"하이브리드 공정을 이용한 다중 연결 ZnO 나노와이어 패턴 제작\" 이지혜, 이원석, 박인규, 최대근, 이응숙, 정준호 2011 한국정밀공학회 춘계학술대회, 제주, Jun 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "국부적 열수 화학 작용으로 합성된 산화아연 나노와이어 광센서의 인장 및 굽힘 조건에서의 성능 분석",
+      "year": 2011,
+      "citation_raw": "\"국부적 열수 화학 작용으로 합성된 산화아연 나노와이어 광센서의 인장 및 굽힘 조건에서의 성능 분석\" 양대종, 이재환, Zhiyong Li, 김재현, 박인규 대한기계학회 춘계 학술대회, 부산, May 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "솔젤 기법을 이용한 ZnO 나노 패턴 제작",
+      "year": 2011,
+      "citation_raw": "\"솔젤 기법을 이용한 ZnO 나노 패턴 제작\" 이지혜, 이원석, 박인규, 김사라, 이응숙, 정준호, 최대근 2011 대한기계학회 마이크로/나노공학부문 춘계학술대회, 부산, May 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "열압착 공정을 이용한 ZnO 나노와이어와 금속간의 접합",
+      "year": 2011,
+      "citation_raw": "\"열압착 공정을 이용한 ZnO 나노와이어와 금속간의 접합\" 이지혜, 이원석, 박인규, 김사라, 이응숙, 정준호, 최대근 2011 대한기계학회 마이크로/나노공학부문 춘계학술대회, May 2011, 부산",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "Large-area fabrication of ZnO nanostructure using direct nanoimprint lithography for its application to field effect transistors",
+      "year": 2011,
+      "citation_raw": "\"Large-area fabrication of ZnO nanostructure using direct nanoimprint lithography for its application to field effect transistors\" 이지혜, 이원석, 김사라, 박인규, 정준호 2011 한국고분자학회 춘계 학술대회, 대전, Apr 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "Assembly of randomly grown ZnO nanowires by transfer printing using polymer substrate",
+      "year": 2011,
+      "citation_raw": "\"Assembly of randomly grown ZnO nanowires by transfer printing using polymer substrate\" 이지혜, 이원석, 박인규 2011 한국고분자학회 춘계 학술대회, 대전, Apr 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "Local synthesis of Pt/ZnO hybrid nanostructures for chemical sensing applications",
+      "year": 2011,
+      "citation_raw": "\"Local synthesis of Pt/ZnO hybrid nanostructures for chemical sensing applications\" 김동환, 임미애, 양대종, Zhiyong Li, 박종욱, 박인규 한국 생산제조시스템 학회 춘계 학술대회, 제주, Apr 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "국부적 열에너지를 기반으로 한 Pt 나노입자가 코팅된 ZnO 나노와이어의 제작 및 수소 가스 센서의 응용",
+      "year": 2011,
+      "citation_raw": "\"국부적 열에너지를 기반으로 한 Pt 나노입자가 코팅된 ZnO 나노와이어의 제작 및 수소 가스 센서의 응용\" 김동환, 임미애, 박종욱 박인규 KMEMS 2011, 제주도, Apr 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "Individually addressable nanowire array for nanoscale localized heating and chemical reaction control(개별적으로 제어가 가능한 나노와이어 배열을 이용한 나노스케일 공간에서의 히팅 및 국부적 화학반응에의 응용)",
+      "year": 2011,
+      "citation_raw": "\"Individually addressable nanowire array for nanoscale localized heating and chemical reaction control(개별적으로 제어가 가능한 나노와이어 배열을 이용한 나노스케일 공간에서의 히팅 및 국부적 화학반응에의 응용)\" C. Jin, Z. Li, R. S. Williams, C.-K. Lee, and I. Park KMEMS, Jeju, Apr 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "미세유체소자를 위한 ZnO 나노선의 직접 합성 및 집적",
+      "year": 2011,
+      "citation_raw": "\"미세유체소자를 위한 ZnO 나노선의 직접 합성 및 집적\" 김정, Z. Li, 박인규 KMEMS 2011, 제주도, Aprl 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "새로운 집적방법으로 만들어진 유연기판 산화아연 나노와이어 광센서와 기계적 강인성 특성 분석",
+      "year": 2011,
+      "citation_raw": "\"새로운 집적방법으로 만들어진 유연기판 산화아연 나노와이어 광센서와 기계적 강인성 특성 분석\" 양대종, 이재환, Z. Li, 김재현, 박인규 KMEMS 2011, 제주도, Apr 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "Two-step transfer printing of metal nano-inks for printed flexible electronics fabrication(유연 전자 인쇄 공정을 위한 금속 나노 잉크의 이중 전사 인쇄)",
+      "year": 2011,
+      "citation_raw": "\"Two-step transfer printing of metal nano-inks for printed flexible electronics fabrication(유연 전자 인쇄 공정을 위한 금속 나노 잉크의 이중 전사 인쇄)\" Sanghyuk Kim and Inkyu Park KMEMS 2011, Jeju, Apr 2011",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    },
+    {
+      "title": "미세유체소자를 위한 마이크로 채널 내 In-situ 나노선 배열 합성 및 집적",
+      "year": 2010,
+      "citation_raw": "\"미세유체소자를 위한 마이크로 채널 내 In-situ 나노선 배열 합성 및 집적\" 김정, 박인규 대한기계학회 마이크로/나노분과 춘계 학술대회, 대전, May 2010",
+      "source_url": "http://mint.kaist.ac.kr/bbs/board.php?bo_table=sub3_4&page=11"
+    }
+  ]
+}

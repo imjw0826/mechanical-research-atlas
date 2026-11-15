@@ -1,0 +1,107 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "김경수 KIM, Kyung Soo",
+  "lab_name": null,
+  "lab_url": "http://msc.kaist.ac.kr/",
+  "publication_urls": [
+    "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "A Compact Optical Joint Torque Measurement System Using Redundant Photo-Reflectors and Quadratic-Programming Calibration",
+      "year": 2026,
+      "citation_raw": "\"A Compact Optical Joint Torque Measurement System Using Redundant Photo-Reflectors and Quadratic-Programming Calibration\" Kim, H.B., Ham, B.I. & Kim, K.S. IEEE Transactions on Instrumentation and Measurement , 1-1 , 2026",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "ANN-Model Based Adaptive Flux-Linkage Map",
+      "year": 2026,
+      "citation_raw": "\"ANN-Model Based Adaptive Flux-Linkage Map\" Choi, H., Kim, Y., Kim, K.S. IEEE Energy Conversion Congress & EXPO , 2026",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "Lightweight Neural Network-Based Cell Balancing Using Variable Effective Resistance",
+      "year": 2026,
+      "citation_raw": "\"Lightweight Neural Network-Based Cell Balancing Using Variable Effective Resistance\" Lee, T., Baek, H, Jang, B., Choi, K.H., Kim, K.S. IEEE Access , 14 , 145548-145563 , 2026",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "Dual-MPC Footstep Planning for Robust Quadruped Locomotion",
+      "year": 2026,
+      "citation_raw": "\"Dual-MPC Footstep Planning for Robust Quadruped Locomotion\" Ham, B.I., Kim, H.B., Kang, J., Choi, K.H., Kim, K.S. IEEE/ASME Transactions on Mechatronics , 2026",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "MSC: Multi-Stage Caster-aware Control Framework with Uncertainty-Aware NMPC and RL-based Execution Layer",
+      "year": 2026,
+      "citation_raw": "\"MSC: Multi-Stage Caster-aware Control Framework with Uncertainty-Aware NMPC and RL-based Execution Layer\" Park, J.H., Lee, J., Lim, J.H., Choi, K.H., & Kim, K.S. 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) , 2026",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "Optimal Load Distribution Strategy via Knee-Hip Coordinated Control for Heavy Load Lifting Assistance in Wearable Robots",
+      "year": 2026,
+      "citation_raw": "\"Optimal Load Distribution Strategy via Knee-Hip Coordinated Control for Heavy Load Lifting Assistance in Wearable Robots\" Lee, B., Kang, J., Lee, S., Jeon, K.W., Kim, T.H., Chung, H.J., Hong, M.B., Park, J.S., & Kim, K.S. 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) , 2026",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "Fully Distributed Real-Time MPC for Cooperative Mobile Manipulation Via Box-iLQR and ADMM with an Object-Centric Planar Projection",
+      "year": 2026,
+      "citation_raw": "\"Fully Distributed Real-Time MPC for Cooperative Mobile Manipulation Via Box-iLQR and ADMM with an Object-Centric Planar Projection\" Lee, J., Park, J.H., Yang, S., Choi, K.H., & Kim, K.S. 2026 IEEE International Conference on Robotics & Automation(ICRA) , 2026",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "Field-Validated Navigation Framework for Orchard Weeding Robots Using Multimodal Sensor Fusion",
+      "year": 2026,
+      "citation_raw": "\"Field-Validated Navigation Framework for Orchard Weeding Robots Using Multimodal Sensor Fusion\" Oh, S., Jeon, H.Y., Seo, J., Choi K.H., & Kim, K.S. International Journal of Control, Automation, and Systems(IJCAS) , 1-18 , 2026",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "A Compact PCB-Integrated Inductive Six-Axis Force/Torque Sensor",
+      "year": 2026,
+      "citation_raw": "\"A Compact PCB-Integrated Inductive Six-Axis Force/Torque Sensor\" Kim, H.B., & Kim, K.S. IEEE Sensors Journal , 26 , 2026",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "Predicting Warhead Fragment Dispersion Using Stepwise Machine Learning Regression",
+      "year": 2026,
+      "citation_raw": "\"Predicting Warhead Fragment Dispersion Using Stepwise Machine Learning Regression\" Lee, K.S., Kim, K.S., & Kim, S. International Journal of Precision Engineering and Manufacturing , 27 , 225-239 , 2026",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "Attention-Based Neural-Augmented Kalman Filter for Legged Robot State Estimation",
+      "year": 2026,
+      "citation_raw": "\"Attention-Based Neural-Augmented Kalman Filter for Legged Robot State Estimation\" Lee, S., & Kim, K. S. IEEE Robotics and Automation Letters(RA-L) , 11(4) , 4122 - 4129 , 2026",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "Broad-Spectrum Error Robust Wavelengths for fNIRS Systems",
+      "year": 2025,
+      "citation_raw": "\"Broad-Spectrum Error Robust Wavelengths for fNIRS Systems\" Jeong, E., Seo, M., & Kim, K. S. International Journal of Precision Engineering and Manufacturing , 26 , 3473–3484 , 2025",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "Compact and Optimized Optical Six-Axis Force/Torque Sensor for Legged Robots",
+      "year": 2025,
+      "citation_raw": "\"Compact and Optimized Optical Six-Axis Force/Torque Sensor for Legged Robots\" Kim, H. B., Ham, B. I., Choi, K. H., & Kim, K. S. IEEE Transactions on Instrumentation and Measurement , 74 , 2025",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "A Miniature High-Resolution Tension Sensor Based on a Photo-Reflector for Robotic Hands and Grippers",
+      "year": 2025,
+      "citation_raw": "\"A Miniature High-Resolution Tension Sensor Based on a Photo-Reflector for Robotic Hands and Grippers\" Kim, H. B., Ham, B. I., & Kim, K. S. IEEE Sensors Journal , 25(10) , 38916 - 38924 , 2025",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    },
+    {
+      "title": "POW4R: POint-Wise full-velocity estimation using 4 d Radar-camera fusion beyond radial limitations",
+      "year": 2025,
+      "citation_raw": "\"POW4R: POint-Wise full-velocity estimation using 4 d Radar-camera fusion beyond radial limitations\" Jeon, H. Y., Choi, M., Lee, Y., Oh, S., Yang, S., Choi, K. H., & Kim, K. S. IEEE Robotics and Automation Letters(RA-L) , 10(10) , 10934 - 10941 , 2025",
+      "source_url": "https://msc.kaist.ac.kr/bbs/board.php?bo_table=sub5_1"
+    }
+  ]
+}

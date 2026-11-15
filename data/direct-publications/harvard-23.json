@@ -1,0 +1,179 @@
+{
+  "university": "Harvard University",
+  "university_key": "harvard",
+  "pi": "David Mooney",
+  "lab_name": null,
+  "lab_url": "https://mooneylab.seas.harvard.edu/",
+  "publication_urls": [
+    "https://mooneylab.seas.harvard.edu/publications",
+    "https://mooneylab.seas.harvard.edu/publications?page=0",
+    "https://mooneylab.seas.harvard.edu/publications?page=1",
+    "https://mooneylab.seas.harvard.edu/publications?page=2",
+    "https://mooneylab.seas.harvard.edu/publications?page=3",
+    "https://mooneylab.seas.harvard.edu/publications?page=4",
+    "https://mooneylab.seas.harvard.edu/publications?page=5",
+    "https://mooneylab.seas.harvard.edu/publications?page=6",
+    "https://mooneylab.seas.harvard.edu/publications?page=7",
+    "https://mooneylab.seas.harvard.edu/publications?page=8"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "게시 목록 페이지 후보에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
+  "dropped_low_confidence": [
+    {
+      "title": "Oral and Craniofacial Tissue Regeneration Consortium (DOCTRC): An infrastructure for accelerating regenerative therapies from discovery to clinical impact",
+      "year": 2026,
+      "citation_raw": "Nguyen VX, Yoshida M, Samuels BD, Giannobile W, Healy KE, Jamieson M, Lane N, Longaker MT, Mooney DJ, Sfeir CS, et al. Dental, Oral and Craniofacial Tissue Regeneration Consortium (DOCTRC): An infrastructure for accelerating regenerative therapies from discovery to clinical impact. Journal of clinical and translational science. 2026;10(1):e38. doi:10.1017/cts.2026.10706",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Mooney D. A combination microparticle strategy for achieving antigen-specific tolerance",
+      "year": 2022,
+      "citation_raw": "Scott E, Mooney D. A combination microparticle strategy for achieving antigen-specific tolerance. Proc Natl Acad Sci U S A. 2022;119(52):e2216976119. doi:10.1073/pnas.2216976119",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Functional muscle recovery with nanoparticle-directed M2 macrophage polarization in mice",
+      "year": 2018,
+      "citation_raw": "Raimondo T, Mooney D. Functional muscle recovery with nanoparticle-directed M2 macrophage polarization in mice. Proc Natl Acad Sci U S A. 2018;115(42):10648–10653. doi:10.1073/pnas.1806908115",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=6"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 10개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Oral and Craniofacial Tissue Regeneration Consortium (DOCTRC): An infrastructure for accelerating regenerative therapies from discovery to clinical impact",
+      "year": 2026,
+      "citation_raw": "Nguyen VX, Yoshida M, Samuels BD, Giannobile W, Healy KE, Jamieson M, Lane N, Longaker MT, Mooney DJ, Sfeir CS, et al. Dental, Oral and Craniofacial Tissue Regeneration Consortium (DOCTRC): An infrastructure for accelerating regenerative therapies from discovery to clinical impact. Journal of clinical and translational science. 2026;10(1):e38. doi:10.1017/cts.2026.10706",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Scaffold vaccination for prevention of orthopedic device infection",
+      "year": 2025,
+      "citation_raw": "add_circle_outline add_circle_outline Tatara AM, Lightbown S, Kang S, Jung W-H, Ijaz H, Lee JC, Nelson SB, Super M, Mooney DJ. Scaffold vaccination for prevention of orthopedic device infection. Proceedings of the National Academy of Sciences of the United States of America. 2025;122(45):e2409562122. doi:10.1073/pnas.2409562122",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "Congrats to David, Josh, and team on their recent manuscript published in Nature Biomedical Engineering! Here, they boosted CAR T-cell activation and persistence in situ with injectable antigen presenting cell mimetic scaffolds. Check out the publication",
+      "year": 2024,
+      "citation_raw": "Congrats to David, Josh, and team on their recent manuscript published in Nature Biomedical Engineering! Here, they boosted CAR T-cell activation and persistence in situ with injectable antigen presenting cell mimetic scaffolds. Check out the publication... Shawn Kang and Kyle Ruark advance to PhD candidacy May 25, 2024",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications"
+    },
+    {
+      "title": "In Vivo Accumulation of Regulatory T Cells Using Eliglustat-Loaded Cryogels",
+      "year": 2025,
+      "citation_raw": "Vitner EB, Bovone G, Jung W-H, Lou J, Hankenson H, Dacus MT, Binenbaum Y, Adu-Berchie K, Stafford AG, Sobral MC, et al. In Vivo Accumulation of Regulatory T Cells Using Eliglustat-Loaded Cryogels. Advanced healthcare materials. 2025:e2501529. doi:10.1002/adhm.202501529",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Dynamic injectable tissue adhesives with strong adhesion and rapid self-healing for regeneration of large muscle injury",
+      "year": 2024,
+      "citation_raw": "add_circle_outline add_circle_outline Nam S, Lou J, Lee S, Kartenbender J-M, Mooney D. Dynamic injectable tissue adhesives with strong adhesion and rapid self-healing for regeneration of large muscle injury. Biomaterials. 2024;309:122597. doi:10.1016/j.biomaterials.2024.122597",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=1"
+    },
+    {
+      "title": "Intracellular proteomics and extracellular vesiculomics as a metric of disease recapitulation in 3D-bioprinted aortic valve arrays, Sci Adv",
+      "year": 2024,
+      "citation_raw": "Clift C, Blaser M, Gerrits W, Turner M, Sonawane A, Pham T, Andresen J, Fenton O, Grolman J, Campedelli A, et al. Intracellular proteomics and extracellular vesiculomics as a metric of disease recapitulation in 3D-bioprinted aortic valve arrays. Sci Adv. 2024;10(9):eadj9793. doi:10.1126/sciadv.adj9793",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Lafuente-Gómez N, Lázaro I, Dhanjani M, García-Soriano D, Sobral M, Salas G, Mooney D, Somoza Á, Multifunctional magnetic nanoparticles elicit anti-tumor immunity in a mouse melanoma model",
+      "year": 2023,
+      "citation_raw": "add_circle_outline add_circle_outline Lafuente-Gómez N, Lázaro I, Dhanjani M, García-Soriano D, Sobral M, Salas G, Mooney D, Somoza Á. Multifunctional magnetic nanoparticles elicit anti-tumor immunity in a mouse melanoma model. Mater Today Bio. 2023;23:100817. doi:10.1016/j.mtbio.2023.100817",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=2"
+    },
+    {
+      "title": "Active tissue adhesive activates mechanosensors and prevents muscle atrophy",
+      "year": 2023,
+      "citation_raw": "Nam S, Seo BR, Najibi A, McNamara S, Mooney D. Active tissue adhesive activates mechanosensors and prevents muscle atrophy. Nat Mater. 2023;22(2):249–259. doi:10.1038/s41563-022-01396-x",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Mooney D. A combination microparticle strategy for achieving antigen-specific tolerance",
+      "year": 2022,
+      "citation_raw": "Scott E, Mooney D. A combination microparticle strategy for achieving antigen-specific tolerance. Proc Natl Acad Sci U S A. 2022;119(52):e2216976119. doi:10.1073/pnas.2216976119",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Targeting tumor extracellular matrix activates the tumor-draining lymph nodes, Cancer Immunol Immunother",
+      "year": 2022,
+      "citation_raw": "Najibi A, Shih T-Y, Zhang D, Lou J, Sobral M, Wang H, Dellacherie M, Adu-Berchie K, Mooney D. Targeting tumor extracellular matrix activates the tumor-draining lymph nodes. Cancer Immunol Immunother. 2022;71(12):2957–2968. doi:10.1007/s00262-022-03212-6",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=3"
+    },
+    {
+      "title": "Nanoparticle Properties Influence Transendothelial Migration of Monocytes, Langmuir",
+      "year": 2022,
+      "citation_raw": "Habibi N, Brown T, Adu-Berchie K, Christau S, Raymond J, Mooney D, Mitragotri S, Lahann J. Nanoparticle Properties Influence Transendothelial Migration of Monocytes. Langmuir. 2022;38(18):5603–5616. doi:10.1021/acs.langmuir.2c00200",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Risk quantification for SARS-CoV-2 infection through airborne transmission in university settings, J Occup Environ Hyg",
+      "year": 2021,
+      "citation_raw": "Ambatipudi M, Carrillo Gonzalez P, Tasnim K, Daigle J, Kulyk T, Jeffreys N, Sule N, Trevino R, He E, Mooney D, et al. Risk quantification for SARS-CoV-2 infection through airborne transmission in university settings. J Occup Environ Hyg. 2021;18(12):590–603. doi:10.1080/15459624.2021.1985725",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=4"
+    },
+    {
+      "title": "Özkale B, Sakar MS, Mooney D",
+      "year": 2021,
+      "citation_raw": "Özkale B, Sakar MS, Mooney D. Active biomaterials for mechanobiology. Biomaterials. 2021;267:120497. doi:10.1016/j.biomaterials.2020.120497",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Lázaro I, Vining K, Santos-Vizcaino E, Igartua M, Hernandez RM",
+      "year": 2020,
+      "citation_raw": "add_circle_outline Gonzalez-Pujana A, Lázaro I, Vining K, Santos-Vizcaino E, Igartua M, Hernandez RM, Mooney D. 3D encapsulation and inflammatory licensing of mesenchymal stromal cells alter the expression of common reference genes used in real-time RT-qPCR. Biomater Sci. 2020;8(23):6741–6753. doi:10.1039/d0bm01562h",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Near-Infrared Fluorescence Hydrogen Peroxide Assay for Versatile Metabolite Biosensing in Whole Blood, Small",
+      "year": 2020,
+      "citation_raw": "add_circle_outline add_circle_outline Matoori S, Mooney D. Near-Infrared Fluorescence Hydrogen Peroxide Assay for Versatile Metabolite Biosensing in Whole Blood. Small. 2020;16(20):e2000369. doi:10.1002/smll.202000369",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=5"
+    },
+    {
+      "title": "Filmed over with CAR-T cells, Nat Biomed Eng",
+      "year": 2020,
+      "citation_raw": "Adu-Berchie K, Mooney D. Filmed over with CAR-T cells. Nat Biomed Eng. 2020;4(2):142–143. doi:10.1038/s41551-020-0517-x",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "acid labile immunosuppressive prodrugs for in vivo targeting",
+      "year": 2020,
+      "citation_raw": "Wang H, Sobral M, Snyder T, Brudno Y, Gorantla V, Mooney D. Clickable, acid labile immunosuppressive prodrugs for in vivo targeting. Biomater Sci. 2020;8(1):266–277. doi:10.1039/c9bm01487j",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Enzymatically-degradable alginate hydrogels promote cell spreading and in vivo tissue infiltration",
+      "year": 2019,
+      "citation_raw": "add_circle_outline add_circle_outline Lueckgen A, Garske D, Ellinghaus A, Mooney D, Duda G, Cipitria A. Enzymatically-degradable alginate hydrogels promote cell spreading and in vivo tissue infiltration. Biomaterials. 2019;217:119294. doi:10.1016/j.biomaterials.2019.119294",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Functional muscle recovery with nanoparticle-directed M2 macrophage polarization in mice",
+      "year": 2018,
+      "citation_raw": "Raimondo T, Mooney D. Functional muscle recovery with nanoparticle-directed M2 macrophage polarization in mice. Proc Natl Acad Sci U S A. 2018;115(42):10648–10653. doi:10.1073/pnas.1806908115",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=6"
+    },
+    {
+      "title": "Hydrolytically-degradable click-crosslinked alginate hydrogels",
+      "year": 2018,
+      "citation_raw": "Lueckgen A, Garske D, Ellinghaus A, Desai R, Stafford A, Mooney D, Duda G, Cipitria A. Hydrolytically-degradable click-crosslinked alginate hydrogels. Biomaterials. 2018;181:189–198. doi:10.1016/j.biomaterials.2018.07.031",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "A Ligand System for the Flexible Functionalization of Quantum Dots via Click Chemistry",
+      "year": 2018,
+      "citation_raw": "add_circle_outline add_circle_outline Chen Y, Cordero J, Wang H, Franke D, Achorn O, Freyria F, Coropceanu I, Wei H, Chen O, Mooney D, et al. A Ligand System for the Flexible Functionalization of Quantum Dots via Click Chemistry. Angew Chem Int Ed Engl. 2018;57(17):4652–4656. doi:10.1002/anie.201801113",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=7"
+    },
+    {
+      "title": "Synthetic Light-Curable Polymeric Materials Provide a Supportive Niche for Dental Pulp Stem Cells",
+      "year": 2017,
+      "citation_raw": "Vining K, Scherba J, Bever A, Alexander M, Celiz A, Mooney D. Synthetic Light-Curable Polymeric Materials Provide a Supportive Niche for Dental Pulp Stem Cells. Adv Mater. 2017. doi:10.1002/adma.201704486",
+      "source_url": "https://mooneylab.seas.harvard.edu/publications?page=8"
+    }
+  ]
+}

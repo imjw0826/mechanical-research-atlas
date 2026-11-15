@@ -1,0 +1,176 @@
+{
+  "university": "University of Oxford",
+  "university_key": "oxford",
+  "pi": "Jakob Foerster",
+  "lab_name": null,
+  "lab_url": "https://eng.ox.ac.uk/people/jakob-foerster",
+  "publication_urls": [
+    "https://www.jakobfoerster.com/"
+  ],
+  "accessed_at": "2026-11-12T15:42:06.097838+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Centralized Model and Exploration Policy for Multi-Agent RL",
+      "year": 2022,
+      "citation_raw": "\"Centralized Model and Exploration Policy for Multi-Agent RL\" [paper] Q Zhang, C Lu, A Garg, JN Foerster International Conference on Autonomous Agents and Multiagent Systems, 2022",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Lyapunov Exponents for Diversity in Differentiable Games",
+      "year": 2022,
+      "citation_raw": "\"Lyapunov Exponents for Diversity in Differentiable Games\" [paper] J Lorraine, P Vicol, J Parker-Holder, T Kachman, L Metz, JN Foerster International Conference on Autonomous Agents and Multiagent Systems, 2022",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Off-Belief Learning",
+      "year": 2021,
+      "citation_raw": "\"Off-Belief Learning\" [paper, code] H Hu, A Lerer, B Cui, L Pineda, D Wu, N Brown, JN Foerster International Conference on Machine Learning, 2021",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Trajectory diversity for zero-shot coordination",
+      "year": 2021,
+      "citation_raw": "\"Trajectory diversity for zero-shot coordination\" [paper, code] A Lupu, B Cui, H Hu, JN Foerster International Conference on Machine Learning, 2021",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "A New Formalism, Method and Open Issues for Zero-Shot Coordination",
+      "year": 2021,
+      "citation_raw": "\"A New Formalism, Method and Open Issues for Zero-Shot Coordination\" [paper, code] J Treutlein, M Dennis, C Oesterheld, JN Foerster International Conference on Machine Learning, 2021",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "\"“Other-Play” for Zero-Shot Coordination\" [paper, code]",
+      "year": 2020,
+      "citation_raw": "\"“Other-Play” for Zero-Shot Coordination\" [paper, code] H Hu*, A Lerer, A Peysakhovich, JN Foerster* International Conference on Machine Learning, 2020",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "On the interaction between supervision and self-play in emergent communication",
+      "year": 2020,
+      "citation_raw": "\"On the interaction between supervision and self-play in emergent communication \" [paper] R Lowe*, A Gupta*, JN Foerster, D Kiela, J Pineau International Conference on Learning Representations, 2020",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Simplified Action Decoder for Deep Multi-Agent Reinforcement Learning",
+      "year": 2020,
+      "citation_raw": "\"Simplified Action Decoder for Deep Multi-Agent Reinforcement Learning \" [paper, code] H Hu, JN Foerster International Conference on Learning Representations, 2020",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Improving Policies via Search in Cooperative Partially Observable Games",
+      "year": 2020,
+      "citation_raw": "\"Improving Policies via Search in Cooperative Partially Observable Games \" [paper, code, blog post] A Lerer, H Hu, JN Foerster, N Brown AAAI Conference on Artificial Intelligence, 2020",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Capacity, Bandwidth, and Compositionality in Emergent Language Learning",
+      "year": 2020,
+      "citation_raw": "\"Capacity, Bandwidth, and Compositionality in Emergent Language Learning\" [paper] C Resnick*, A Gupta*, JN Foerster, AM Dai, K Cho International Conference on Autonomous Agents and Multiagent Systems, 2020",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Exploratory Combinatorial Optimization with Reinforcement Learning",
+      "year": 2020,
+      "citation_raw": "\"Exploratory Combinatorial Optimization with Reinforcement Learning\" [paper, code ] TD Barrett, WR Clements, JN Foerster, AI Lvovsky AAAI Conference on Artificial Intelligence, 2020",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "The StarCraft Multi-Agent Challenge",
+      "year": 2019,
+      "citation_raw": "\"The StarCraft Multi-Agent Challenge\" [paper, code, blog] M Samvelyan*, T Rashid*, C Schroeder de Witt, G Farquhar, N Nardelli, T. Rudner, C Hung, P Torr, JN Foerster, S Whiteson International Conference on Autonomous Agents and Multiagent Systems, 2019",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning",
+      "year": 2019,
+      "citation_raw": "\"Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning\" [paper, matrix game code ] JN Foerster*, FH Song*, E Hughes, N Burch, I Dunning, S Whiteson, M Botvinick, M Bowling International Conference on Machine Learning, 2019",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "A Baseline for Any Order Gradient Estimation in Stochastic Computation Graphs",
+      "year": 2019,
+      "citation_raw": "\"A Baseline for Any Order Gradient Estimation in Stochastic Computation Graphs\" [paper] J Mao*, JN Foerster*, T Rocktäschel, G Farquhar, M Al-Shedivat, S Whiteson International Conference on Machine Learning, 2019",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "On the Pitfalls of Measuring Emergent Communication",
+      "year": 2019,
+      "citation_raw": "\"On the Pitfalls of Measuring Emergent Communication\" [paper] R Lowe, JN Foerster , YL Boureau, J Pineau, Y Dauphin International Conference on Autonomous Agents and Multiagent Systems, 2019",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Pommerman: A multi-agent playground",
+      "year": 2018,
+      "citation_raw": "\"Pommerman: A multi-agent playground\" [paper] C Resnick, W Eldridge, D Ha, D Britz, JN Foerster, J Togelius, K Cho, J Bruna NeurIPS 2018 Competition track",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Stable Opponent Shaping in Differentiable Games",
+      "year": 2019,
+      "citation_raw": "\"Stable Opponent Shaping in Differentiable Games\" [paper] A Letcher, JN Foerster, D Balduzzi, T Rocktäschel, S Whiteson International Conference on Learning Representations, 2019",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "DiCE: The Infinitely Differentiable Monte-Carlo Estimator",
+      "year": 2018,
+      "citation_raw": "\"DiCE: The Infinitely Differentiable Monte-Carlo Estimator\" [paper, code, pyro support] JN Foerster, G Farquhar*, M Al-Shedivat*, T Rocktäschel, EP Xing, S Whiteson International Conference on Machine Learning, 2018",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning",
+      "year": 2018,
+      "citation_raw": "\"QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning\" [link] T Rashid*, M Samvelyan*, CS de Witt, G Farquhar, JN Foerster, S Whiteson International Conference on Machine Learning, 2018",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Learning with Opponent-Learning Awareness",
+      "year": 2018,
+      "citation_raw": "\"Learning with Opponent-Learning Awareness\" [paper, video, slides, blog post, code, pytorch implementation] JN Foerster*, RY Chen*, M Al-Shedivat, S Whiteson, P Abbeel, I Mordatch International Conference on Autonomous Agents and Multiagent Systems, 2018",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Stabilising experience replay for deep multi-agent reinforcement learning",
+      "year": 2017,
+      "citation_raw": "\"Stabilising experience replay for deep multi-agent reinforcement learning\" [paper, video, media coverage] JN Foerster*, N Nardelli*, G Farquhar, P Torr, P Kohli, S Whiteson International Conference on Machine Learning, 2017",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Input switched affine networks: An RNN architecture designed for interpretability",
+      "year": 2017,
+      "citation_raw": "\"Input switched affine networks: An RNN architecture designed for interpretability\" [paper, video, code] JN Foerster*, J Gilmer*, J Sohl-Dickstein, J Chorowski, D Sussillo International Conference on Machine Learning, 2017",
+      "source_url": "https://www.jakobfoerster.com/"
+    },
+    {
+      "title": "Learning to communicate to solve riddles with deep distributed recurrent q-networks",
+      "year": 2016,
+      "citation_raw": "\"Learning to communicate to solve riddles with deep distributed recurrent q-networks\" [link, news coverage, podcast] JN Foerster*, YM Assael*, N de Freitas, S Whiteson IJCAI 2016 Deep Learning Workshop",
+      "source_url": "https://www.jakobfoerster.com/"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume.",
+    {
+      "discovered_links": [
+        {
+          "text": "Personal website",
+          "url": "https://www.jakobfoerster.com/"
+        }
+      ]
+    },
+    {
+      "identity_evidence": {
+        "url": "https://eng.ox.ac.uk/people/jakob-foerster",
+        "visible_name_line": "Jakob Foerster DPhil MSci BA MA",
+        "following_lines": [
+          "PROFESSOR",
+          "Associate Professor"
+        ]
+      }
+    }
+  ]
+}

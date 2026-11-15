@@ -1,0 +1,26 @@
+{
+  "university": "POSTECH",
+  "university_key": "postech",
+  "pi": "신동일",
+  "lab_name": "데이터 기반 고체역학 연구실 (Data-driven Solid mechanics Laboratory)",
+  "lab_url": "https://datasolid.postech.ac.kr/datasolid/index.do",
+  "publication_urls": [
+    "https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do"
+  ],
+  "accessed_at": "2026-11-12T13:55:39.024Z",
+  "coverage_notes": [
+    "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete.",
+    "Actual official lab publication page visited; visible text saved. Quoted-title subset only where available. Unquoted titles, additional categories and pagination remain incomplete.",
+    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  ],
+  "status": "partial",
+  "papers": [],
+  "investigation_stage": "full_site_attempted",
+  "source_page_manifest": [
+    {
+      "url": "https://datasolid.postech.ac.kr/datasolid/pub/international_journal.do",
+      "capture_kind": "browser_snapshot",
+      "characters": 10617
+    }
+  ]
+}

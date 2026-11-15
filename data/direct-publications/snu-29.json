@@ -1,0 +1,1796 @@
+{
+  "university": "Seoul National University",
+  "university_key": "snu",
+  "pi": "조규진",
+  "pi_en": "Cho, Kyu-Jin",
+  "lab_name": "비아이로보틱스 실험실",
+  "lab_url": "http://biorobotics.snu.ac.kr/",
+  "publication_urls": [
+    "https://www.biorobotics.snu.ac.kr/journal-articles",
+    "https://www.biorobotics.snu.ac.kr/refereec-conference-papers",
+    "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "3D Printed Meter-Scale Soft Origami Robots Capable of Load-Bearing Actuation Via Crease Stiffness Modulation",
+      "year": 2026,
+      "citation_raw": "Sung Yol Yu, Sang-Joon Ahn, Wonchul Lee, Seunguk Moon, Hyun-Jin Hong, Kyu-Jin Cho,\"3D Printed Meter-Scale Soft Origami Robots Capable of Load-Bearing Actuation Via Crease Stiffness Modulation\", Advanced Science, 2026. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A Passive Clamping Capstan Brake for Strap-Based Wearable Robots",
+      "year": 2026,
+      "citation_raw": "Jae-Ryeong Choi, Jisang Kang, Kyu-Jin Cho, HyunKi In,\"A Passive Clamping Capstan Brake for Strap-Based Wearable Robots\", IEEE Robotics and Automation Letters, 2026. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A Lightweight Multi-Articular Passive Exoskeleton Using a Single Elastic Band to Improve Crouch Gait Pattern: A Pilot Study",
+      "year": 2026,
+      "citation_raw": "Jisang Kang, Jae-Ryeong Choi, Sukyung Kang, Juyeon Park, Moon Seok Park, Kyu-Jin Cho,\"A Lightweight Multi-Articular Passive Exoskeleton Using a Single Elastic Band to Improve Crouch Gait Pattern: A Pilot Study\", IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2026. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Exhalation-Synchronous Robotic Abdominal Compression for User-Centered Respiratory Assistance and Training in Neurological Patients",
+      "year": 2026,
+      "citation_raw": "Sang-Yoep Lee, Jaewon Beom, Jin-Oh Hahn, Jae-Young Lim, Kyu-Jin Cho,\"Exhalation-Synchronous Robotic Abdominal Compression for User-Centered Respiratory Assistance and Training in Neurological Patients\", Journal of NeuroEngineering and Rehabilitation, 2026. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Double-Layer Self-Locking Origami Based on Opposite Folding Motion",
+      "year": 2025,
+      "citation_raw": "Jae-Kyeong Kim, Se Hyeok Ahn, Sun-Pill Jung, Jemoon Kim, Deuk-Gyeom Hwang, Haseon Kim, Seung-Won Kim, Dae-Young Lee, Jinkyu Yang, Kyu-Jin Cho,\"Double-Layer Self-Locking Origami Based on Opposite Folding Motion\", Soft Robotics, 2025. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Robust Control of Exo-Abs, a Wearable Platform for Ubiquitous Respiratory Assistance",
+      "year": 2025,
+      "citation_raw": "Parham Rezaei, Sang-Yoep Lee, Kyujin Cho, Jin-Oh Hahn,\"Robust Control of Exo-Abs, a Wearable Platform for Ubiquitous Respiratory Assistance\", Journal of Dynamic Systems, Measurement, and Control, 2025. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Effects of Wrist-Worn Haptic Feedback on Force Accuracy and Task Speed During a Teleoperated Robotic Surgery Task",
+      "year": 2025,
+      "citation_raw": "Brian B. Vuong, Josie Davidson, Sangheui Cheon, Kyujin Cho, Allison M. Okamura,\"Effects of Wrist-Worn Haptic Feedback on Force Accuracy and Task Speed During a Teleoperated Robotic Surgery Task\", IEEE Robotics and Automation Letters, 2025. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Programmable Shape-Changing System Through Origami Pop-Up Cells",
+      "year": 2025,
+      "citation_raw": "Sareum Kim, Dae-Young Lee, Je-Sung Koh, Kyu-Jin Cho,\"Programmable Shape-Changing System Through Origami Pop-Up Cells\", IEEE Robotics and Automation Letters, 2025. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Foldable and rollable interlaced structure for deployable robotic systems",
+      "year": 2025,
+      "citation_raw": "Sun-Pill Jung, Jaeyoung Song , Chan Kim, Haemin Lee, Inchul Jeong, Jongmin Kim, Kyu-Jin Cho,\"Foldable and rollable interlaced structure for deployable robotic systems\", Science Robotics, 2025. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A Miniature Rotary Electrostatic Clutch for Assigning Multi-Degrees of Freedom to Insect-Scale Robots",
+      "year": 2025,
+      "citation_raw": "Jongeun Lee, Amir Firouzeh, Seunghyun An, Pilwoo Lee, Kyu-Jin Cho,\"A Miniature Rotary Electrostatic Clutch for Assigning Multi-Degrees of Freedom to Insect-Scale Robots\", Advanced Intelligent Systems, 2025. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Topology Optimization of Exo-Glove Poly II for Enhancing Functionality and Wearability",
+      "year": 2025,
+      "citation_raw": "Soomin Choi*, Kyu Bum Kim*, Donguk Kwon, Brian Byunghyun Kang, Kyu-Jin Cho, \"Topology Optimization of Exo-Glove Poly II for Enhancing Functionality and Wearability\", Advanced Intelligent Systems, 2025. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Exo-Glove Poly III: Grasp Assistance by Modulating Thumb and Finger Motion Sequence with a Single Actuator",
+      "year": 2025,
+      "citation_raw": "Kyu Bum Kim, Hyungmin Choi, Byungchul Kim, Brian Byunghyun Kang, Sangheui Cheon, Kyu-Jin Cho, \"Exo-Glove Poly III: Grasp Assistance by Modulating Thumb and Finger Motion Sequence with a Single Actuator\", Soft Robotics, 2025. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Dual-Tendon Routing: Tendon Routing for Under-actuated Tendon-Driven Soft Hand-wearable Robot",
+      "year": 2025,
+      "citation_raw": "Byungchul Kim, Useok Jeong, Kyu-Jin Cho, \"Dual-Tendon Routing: Tendon Routing for Under-actuated Tendon-Driven Soft Hand-wearable Robot\", IEEE Robotics and Automation Letters, 2025. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Exo-Glove Pinch: A Soft, Hand-Wearable Robot Designed Through Constrained Tendon Routing Analysis",
+      "year": 2025,
+      "citation_raw": "Byungchul Kim, Useok Jeong, Kyu-Jin Cho, \"Exo-Glove Pinch: A Soft, Hand-Wearable Robot Designed Through Constrained Tendon Routing Analysis\", IEEE Robotics and Automation Letters, 2025. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A hyperelastic torque-reversal mechanism for soft joints with compression-responsive transient bistability",
+      "year": 2025,
+      "citation_raw": "Woo-Young Choi, Woongbae Kim, Jae-Ryeong Choi, Sung Yol Yu, Seunguk Moon, and Kyu-Jin Cho, \"A hyperelastic torque-reversal mechanism for soft joints with compression-responsive transient bistability\", Science Robotics, 2025. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Soft Robotics in Upper Limb Neurorehabilitation and Assistance: Current Clinical Evidence and Recommendations",
+      "year": 2024,
+      "citation_raw": "Natalie Tanczak, Aaron Yurkewich, Francesco Missiroli, Seng Kwee Wee, Simone Kager, Hyungmin Choi, Kyu-Jin Cho, Hong Kai Yap, Cristina Piazza, Lorenzo Masia, Olivier Lambercy, \"Soft Robotics in Upper Limb Neurorehabilitation and Assistance: Current Clinical Evidence and Recommendations\", Soft Robotics, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Evaluation of an assistive exosuit for alleviating neck and shoulder muscle fatigue during prolonged flexed neck posture",
+      "year": 2024,
+      "citation_raw": "Hang Man Cho, Jae-Ryeong Choi, Jung-Hwan Moon, Kyu-Jin Cho, and Seung-Won Kim, \"Evaluation of an assistive exosuit for alleviating neck and shoulder muscle fatigue during prolonged flexed neck posture\", Journal of NeuroEngineering and Rehabilitation, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Exploiting passive behaviours for diverse musical playing using the parametric hand",
+      "year": 2024,
+      "citation_raw": "Kieran Gilday, Dohyeon Pyeon, Sudhakar Dhanush, Kyu-Jin Cho, Josie Hughes, \"Exploiting passive behaviours for diverse musical playing using the parametric hand\", Frontiers in Robotics and AI, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "MOGrip: Gripper for multiobject grasping in pick-and-place tasks using translational movements of fingers",
+      "year": 2024,
+      "citation_raw": "Jaemin Eom, Sung Yol Yu, Woongbae Kim, Chunghoon Park, Kristine Yoonseo Lee, and Kyujin Cho, \"MOGrip: Gripper for multiobject grasping in pick-and-place tasks using translational movements of fingers\", Science Robotics, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Self-Unlocking Active Clutch for Quasi-Passive Wearable Robots",
+      "year": 2024,
+      "citation_raw": "Jae-Ryeong Choi, Seung-Won Kim, and Kyu-Jin Cho, \"Self-Unlocking Active Clutch for Quasi-Passive Wearable Robots\", IEEE/ASME Transactions on Mechatronics, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Exo-Glove Shell: A Hybrid Rigid-Soft Wearable Robot for Thumb Opposition with an Under-Actuated Tendon-Driven System",
+      "year": 2024,
+      "citation_raw": "Byungchul Kim, Hyungmin Choi, Kyu Bum Kim, Sejin Jeong, and Kyu-Jin Cho, \"Exo-Glove Shell: A Hybrid Rigid-Soft Wearable Robot for Thumb Opposition with an Under-Actuated Tendon-Driven System\", Soft Robotics, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A Cable-Driven Exosuit for Bidirectional Upper Limb Resistance Exercises",
+      "year": 2024,
+      "citation_raw": "Dohyeon Pyeon, Jungmin Ahn, Dong Hyun Kim, Sangheui Cheon, Guyeol Jeong, Kyu-Jin Cho, \"A Cable-Driven Exosuit for Bidirectional Upper Limb Resistance Exercises\", IEEE Robotics and Automation Letters, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "3D printing with a 3D printed digital material filament for programming functional gradients",
+      "year": 2024,
+      "citation_raw": "Sang-Joon Ahn, Howon Lee, and Kyu-Jin Cho, \"3D printing with a 3D printed digital material filament for programming functional gradients\", Nature Communications, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Posture-dependent variable transmission mechanism for prosthetic hand inspired by human grasping characteristics",
+      "year": 2024,
+      "citation_raw": "Munhyeok Chang, Incheol Jung, Kangwoo Seo, Jonghoo Park, Hyungmin Choi, and Kyu-Jin Cho, \"Posture-dependent variable transmission mechanism for prosthetic hand inspired by human grasping characteristics\", Intelligent Service Robotics, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "3D Printing in the Design and Fabrication of Anthropomorphic Hands: A Review",
+      "year": 2024,
+      "citation_raw": "Jonghoo Park, Munhyeok Chang, Incheol Jung, Haemin Lee, and Kyu-Jin Cho, \"3D Printing in the Design and Fabrication of Anthropomorphic Hands: A Review\", Advanced Intelligence Systems, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Soft Robotic Glove Modulating Joint Torque Through Novel Passive Extensor Mechanisms",
+      "year": 2024,
+      "citation_raw": "Hyungmin Choi, Kyu Bum Kim, Sangheui Cheon, Joon-Ho Shin, and Ky-Jin Cho, \"Soft Robotic Glove Modulating Joint Torque Through Novel Passive Extensor Mechanisms\", IEEE Robotics and Automation Letters, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Impact of Physical Parameters and Vision Data on Deep Learning-based Grip Force Estimation for Fluidic Origami Soft Grippers",
+      "year": 2024,
+      "citation_raw": "Eojin Rho, Woongbae Kim, Jungwook Mun, Sung Yol Yu, Kyu-Jin Cho, and Sungho Jo, \"Impact of Physical Parameters and Vision Data on Deep Learning-based Grip Force Estimation for Fluidic Origami Soft Grippers,\" , IEEE Robotics and Automation Letters, vol. 9, no. 3, 2024. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Perching and grasping using a passive dynamic bioinspired gripper",
+      "year": 2023,
+      "citation_raw": "A. Firouzeh, J. Lee, H. Yang, D. Lee, and K.-J. Cho, \"Perching and grasping using a passive dynamic bioinspired gripper,\" in IEEE/ASME Transactions on Robotics, 2023. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Arm Back Support Suit (Abs-Suit) for Parcel Delivery with a Passive Load Redistribution Mechanism",
+      "year": 2024,
+      "citation_raw": "Hye Ju Yoo*, Jewoo Lee*, and Kyu-Jin Cho, \"Arm Back Support Suit (Abs-Suit) for Parcel Delivery with a Passive Load Redistribution Mechanism,\" IEEE Robotics and Automation Letters, vol. 9, no. 2, pp. 1238-1245, Feb. 2024, doi: 10.1109/LRA.2023.3340511. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Multiparameter Remote Contact Force Sensor With Embedded Bend Sensing for Tendon-Driven Hand Robots",
+      "year": 2023,
+      "citation_raw": "Sang-Hun Kim, Useok Jeong, and Kyu-Jin Cho, \"Multiparameter Remote Contact Force Sensor With Embedded Bend Sensing for Tendon-Driven Hand Robots,\" IEEE/ASME Transactions on Mechatronics, 2023. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Zygote structure enables pluripotent shape-transforming deployable structure",
+      "year": 2023,
+      "citation_raw": "Yu-Ki Lee, Yue Hao, Zhonghua Xi, Woongbae Kim, Youngmin Park, Kyu-Jin Cho, Jyh-Ming Lien, and In-Suk Choi, \"Zygote structure enables pluripotent shape-transforming deployable structure,\" PNAS Nexus, vol.2, no.3, 2023. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A Hybrid Anchoring Technology Composed of Reinforced Flexible Shells for a Knee Unloading Exosuit",
+      "year": 2023,
+      "citation_raw": "Sung-Sik Yun, Christian William Bundschu, and Kyu-Jin Cho, \"A Hybrid Anchoring Technology Composed of Reinforced Flexible Shells for a Knee Unloading Exosuit,\" Soft Robotics, 2023. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Compliant Suction Gripper with Seamless Deployment and Retraction for Robust Picking against Depth and Tilt Errors",
+      "year": 2023,
+      "citation_raw": "Yuna Yoo, Jaemin Eom, MinJo Park, and Kyu-Jin Cho, \"Compliant Suction Gripper with Seamless Deployment and Retraction for Robust Picking against Depth and Tilt Errors,\" IEEE Robotics and Automation Letters, vol.8, no.3, 2023. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Reconfigurable Innervation of Modular Soft Machines via Soft, Sticky, and Instant Electronic Adhesive Interlocking",
+      "year": 2023,
+      "citation_raw": "Jaeyoung Yoon, Junghwan Byun, Minjo Park, Hayun Kim, Woongbae Kim, Jinsu Yoon, Kyu-Jin Cho, and Yongtaek Hong, \"Reconfigurable Innervation of Modular Soft Machines via Soft, Sticky, and Instant Electronic Adhesive Interlocking,\" Advanced Intelligent Systems, 2023.[PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Deployable Soft Origami Modular Robotic Arm With Variable Stiffness Using Facet Buckling",
+      "year": 2023,
+      "citation_raw": "MinJo Park, Woongbae Kim, Sung-Yol Yu, Jungmin Cho, Wonkyeong Kang, Junghwan Byun, Useok Jeong, and Kyu-Jin Cho, \"Deployable Soft Origami Modular Robotic Arm With Variable Stiffness Using Facet Buckling,\" IEEE Robotics and Automation Letters, vol.8, no.2, 2023. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Single-Step 3D Printing of Bio-Inspired Printable Joints Applied to a Prosthetic Hand",
+      "year": 2022,
+      "citation_raw": "Haemin Lee, JongHoo Park, Brian Byunghyun Kang, and Kyu-Jin Cho, \"Single-Step 3D Printing of Bio-Inspired Printable Joints Applied to a Prosthetic Hand,\" 3D Printing and Additive Manufacturing, 2022. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Agile and Energy-Efficient Jumping–Crawling Robot Through Rapid Transition of Locomotion and Enhanced Jumping Height Adjustment",
+      "year": 2022,
+      "citation_raw": "Soo-Hwan Chae, Sang-Min Baek, Jongeun Lee, and Kyu-Jin Cho, \"Agile and Energy-Efficient Jumping–Crawling Robot Through Rapid Transition of Locomotion and Enhanced Jumping Height Adjustment,\" IEEE/ASME Transactions on Mechatronics, vol. 27, no.6, 2022. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Motion Tracking Smart Work Suit With a Modular Joint Angle Sensor Using Screw Routing",
+      "year": 2022,
+      "citation_raw": "Jewoo Lee, Kyu-Jin Cho, and Useok Jeong, \"Motion Tracking Smart Work Suit With a Modular Joint Angle Sensor Using Screw Routing,\" IEEE Robotics and Automation Letters, vol. 7, no. 4, 2022. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Exo-Abs: A Wearable Robotic System Inspired by Human Abdominal Muscles for Noninvasive and Effort-Synchronized Respiratory Assistance",
+      "year": 2022,
+      "citation_raw": "Sang-Yoep Lee, Jin-Oh Hahn, Jaewon Beom, Ji-Hong Park, Han Eol Cho, Seong-Woong Kang, and Kyu-Jin Cho, \"Exo-Abs: A Wearable Robotic System Inspired by Human Abdominal Muscles for Noninvasive and Effort-Synchronized Respiratory Assistance,\" IEEE Transactions on Robotics, vol. 38, no. 5, 2022. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Deployable Soft Pneumatic Networks (D-PneuNets) Actuator With Dual-Morphing Origami Chambers for High-Compactness",
+      "year": 2021,
+      "citation_raw": "Woongbae Kim, Bada Seo, Sung Yol Yu, and Kyu-Jin Cho†, \"Deployable Soft Pneumatic Networks (D-PneuNets) Actuator With Dual-Morphing Origami Chambers for High-Compactness,\" IEEE Robotics and Automation Letters, vol. 7, no. 2, 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A Dual-Origami Design that Enables the Quasisequential Deployment and Bending Motion of Soft Robots and Grippers",
+      "year": 2021,
+      "citation_raw": "Woongbae Kim, Jaemin Eom, and Kyu-Jin Cho†, \"A Dual-Origami Design that Enables the Quasisequential Deployment and Bending Motion of Soft Robots and Grippers,\" Advanced Intelligent Systems, vol. 4, no. 3, 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Body-powered variable impedance: An approach to augmenting humans with a passive device by reshaping lifting posture",
+      "year": 2021,
+      "citation_raw": "Sung-Sik Yun, Keewon Kim, Jooeun Ahn†, and Kyu-Jin Cho†, \"Body-powered variable impedance: An approach to augmenting humans with a passive device by reshaping lifting posture,\" Science Robotics, 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Design Optimization of Asymmetric Patterns for Variable Stiffness of Continuum Tubular Robots",
+      "year": 2021,
+      "citation_raw": "Soyeon Park*, Jongwoo Kim*, Chunwoo Kim, Kyu-Jin Cho†, and Gunwoo Noh†, \"Design Optimization of Asymmetric Patterns for Variable Stiffness of Continuum Tubular Robots,\" IEEE Transactions on Industrial Electronics, 2021.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A Positive Pressure Jamming Based Variable Stiffness Structure and its Application on Wearable Robots",
+      "year": 2021,
+      "citation_raw": "T. Liu, H. Xia, D. -Y. Lee, A. Firouzeh, Y. -L. Park and K. -J. Cho, \"A Positive Pressure Jamming Based Variable Stiffness Structure and its Application on Wearable Robots,\" in IEEE Robotics and Automation Letters, Oct. 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Anthropomorphic Prosthetic Hand Inspired by Efficient Swing Mechanics for Sports Activities",
+      "year": 2021,
+      "citation_raw": "Mun Hyeok Chang*, Dong Hyun Kim*, Sang-Hun Kim, Yechan Lee, Seongyun Cho, Hyung-Soon Park, and Kyu-Jin Cho, \"Anthropomorphic Prosthetic Hand Inspired by Efficient Swing Mechanics for Sports Activities,\" IEEE/ASME Transactions on Mechatronics, 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "4D Printing of Continuous Shape Representation",
+      "year": 2021,
+      "citation_raw": "Sang-Joon Ahn, Junghwan Byun, Hyeong-Joon Joo, Jae-Hak Jeong, Dae-Young Lee, and Kyu-Jin Cho. \"4D Printing of Continuous Shape Representation,\" Advanced Materials Technologies, 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "High–load capacity origami transformable wheel",
+      "year": 2021,
+      "citation_raw": "Dae-Young Lee, Jae-Kyeong Kim, Chang-Young Sohn, Jeong-Mu Heo and Kyu-Jin Cho, \"High–load capacity origami transformable wheel,\" Science Robotics, 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Single to Multi: Data-Driven High Resolution Calibration Method for Piezoresistive Sensor Array",
+      "year": 2021,
+      "citation_raw": "Min Kim, Hyungmin Choi, Kyu-Jin Cho, and Sungho Jo, \"Single to Multi: Data-Driven High Resolution Calibration Method for Piezoresistive Sensor Array,\" IEEE Robotics and Automation Letters, vol. 6, no. 3, 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Review of Machine Learning Methods in Soft Robotics",
+      "year": 2021,
+      "citation_raw": "Daekyum Kim, Sang-Hun Kim, Taekyoung Kim, Brian Byunghyun Kang, Minhyuk Lee, Wookeun Park, Subyeong Ku, DongWook Kim, Junghan Kwon, Hochang Lee, Joonbum Bae, Yong-Lae Park, Kyu-Jin Cho, and Sungho Jo, “Review of Machine Learning Methods in Soft Robotics,\" PLOS One, vol. 16, no. 2, 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Tendon-Driven Jamming Mechanism for Configurable Variable Stiffness",
+      "year": 2021,
+      "citation_raw": "Jaehyeok Choi, Dae-Young Lee, Jun-Hyeok Eo, Yong-Jai Park, and Kyu-Jin Cho, \"Tendon-Driven Jamming Mechanism for Configurable Variable Stiffness,\" Soft Robotics, vol. 8, no. 1, 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Slider-Tendon Linear Actuator With Under-Actuation and Fast-Connection for Soft Wearable Robots",
+      "year": 2021,
+      "citation_raw": "Byungchul Kim, Useok Jeong, Brian Byunghyun Kang, and Kyu-Jin Cho, \"Slider-Tendon Linear Actuator With Under-Actuation and Fast-Connection for Soft Wearable Robots,\" IEEE/ASME Transactions on Mechatronics, vol. 26, no. 6, 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Underwater maneuvering of robotic sheets through buoyancy-mediated active flutter",
+      "year": 2021,
+      "citation_raw": "Junghwan Byun, Minjo Park, Sang-min Baek, Jaeyoung Yoon, Woongbae Kim, Byeongmoon Lee, Yongtaek Hong, and Kyujin Cho, \"Underwater maneuvering of robotic sheets through buoyancy-mediated active flutter\", Science Robotics, 2021. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Single EMG Sensor-Driven Robotic Glove Control for Reliable Augmentation of Power Grasping",
+      "year": 2020,
+      "citation_raw": "Sangheui Cheon, Daekyum Kim, Sudeok Kim, Brian Byunghyun Kang, Jongeun Lee, HyunSik Gong, Sungho Jo, Kyu-Jin Cho, and Jooeun Ahn, \"Single EMG Sensor-Driven Robotic Glove Control for Reliable Augmentation of Power Grasping,\" IEEE Transactions on Medical and Bionics, vol. 3, no. 1, 2020. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Remote Assessment of Post-Stroke Elbow Function Using Internet-Based Telerobotics: A Proof-of-Concept Study",
+      "year": 2020,
+      "citation_raw": "Jonghyun Kim, Minki Sin, Won-Seok Kim, Yu-Sun Min, Woojin Kim, Daegeun Park, Nam-Jong Paik, Kyujin Cho, and Hyung-Soon Park, \"Remote Assessment of Post-Stroke Elbow Function Using Internet-Based Telerobotics: A Proof-of-Concept Study,\" Frontiers in Neurology, vol. 11, 2020. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Morphing Origami Block for Lightweight Reconfigurable System",
+      "year": 2020,
+      "citation_raw": "Sa-Reum Kim, Dae-Young Lee, Sang-Joon Ahn, Je-Sung Koh, and Kyu-Jin Cho, \"Morphing Origami Block for Lightweight Reconfigurable System,\" IEEE Transactions on Robotics, vol. 47, no. 2, 2020. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Usability evaluation for South Korean military backpack based on “context of use",
+      "year": 2020,
+      "citation_raw": "Jihwan Lee, Kyu‐Jin Cho, Jooeun Ahn, Yun Ja Nam, and Myung Hwan Yun, \"Usability evaluation for South Korean military backpack based on “context of use”,\" Human Factors and Ergonomics in Manufacturing & Service Industries, vol. 30, no. 6, 2020, [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Design of Continuum Robot With Variable Stiffness for Gastrointestinal Stenting Using Conformability Factor",
+      "year": 2020,
+      "citation_raw": "Joonmyeong Choi, Se Hyeok Ahn, Chunwoo Kim, Jung-Hoon Park, Ho-Young Song, and Kyu-Jin Cho, \"Design of Continuum Robot With Variable Stiffness for Gastrointestinal Stenting Using Conformability Factor,\" IEEE Transactions on Medical and Bionics, vol. 2, no. 4, 2020. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Customization Methodology for Conformable Grasping Posture of Soft Grippers by Stiffness Patterning",
+      "year": 2020,
+      "citation_raw": "Jun-Young Lee, Jaemin Eom, Sung Yol Yu, and Kyu-Jin Cho, \"Customization Methodology for Conformable Grasping Posture of Soft Grippers by Stiffness Patterning,\" Frontiers in Robotics an AI, vol. 7, 2020. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Interfacing Soft and Hard: A Spring Reinforced Actuator",
+      "year": 2020,
+      "citation_raw": "Hing-Choi Fu, Justin D.L. Ho, Kit-Hang Lee, Yu Cai Hu, Samuel K.W. Au, Kyu-Jin Cho, Kam Yim Sze, and Ka-Wai Kwok, \"Interfacing Soft and Hard: A Spring Reinforced Actuator,\" Soft Robotics, vol. 7, no. 1, 2020. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Joint Angle Estimation of a Tendon-Driven Soft Wearable Robot through a Tension and Stroke Measurement",
+      "year": 2020,
+      "citation_raw": "Byungchul Kim, Jiwon Ryu and Kyu-Jin Cho, \"Joint Angle Estimation of a Tendon-Driven Soft Wearable Robot through a Tension and Stroke Measurement,\" Sensors, vol. 20, no. 10, 2020. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "CaseCrawler: A Lightweight and Low-Profile Crawling Phone Case Robot",
+      "year": 2020,
+      "citation_raw": "Jongeun Lee, Gwang-Pil Jung, Sang-Min Baek, Soo-Hwan Chae, Sojung Yim, Woongbae Kim, and Kyu-Jin Cho, “CaseCrawler: A Lightweight and Low-Profile Crawling Phone Case Robot,\" IEEE Robot. Autom. Lett., vol. 5, no. 4, pp. 5858-5865, October 2020. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Ladybird beetle-inspired compliant origami",
+      "year": 2020,
+      "citation_raw": "Sang-Min Baek, Sojung Yim, Soo-Hwan Chae, Dae-Young Lee, and Kyu-Jin Cho, \"Ladybird beetle-inspired compliant origami,\" Science Robotics, 2020. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Reliability Analysis of a Tendon-driven Actuation for Soft Robots",
+      "year": 2020,
+      "citation_raw": "Useok Jeong*, Keunsu Kim*, Sang-Hun Kim*, Hyunhee Choi, Byeng Dong Youn, and Kyu-Jin Cho, “Reliability Analysis of a Tendon-driven Actuation for Soft Robots,” The International Journal of Robotics Research, 2020. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Stretchable Kirigami Components for Composite Meso-Scale Robots",
+      "year": 2020,
+      "citation_raw": "Amir Firouzeh, Tatsugy Higashisaka, Keisuke Nagato, Kyujin Cho, and Jamie Paik, \"Stretchable Kirigami Components for Composite Meso-Scale Robots,\" IEEE Robotics and Automation Letters, 2020.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Learning-Based Fingertip Force Estimation for Soft Wearable Hand Robot With Tendon-Sheath Mechanism",
+      "year": 2020,
+      "citation_raw": "Brian Byunghyun Kang, Daekyum Kim, Hyungmin Choi, Useok Jeong, Kyu Bum Kim, Sungho Jo, and Kyu-Jin Cho, \"Learning-Based Fingertip Force Estimation for Soft Wearable Hand Robot With Tendon-Sheath Mechanism,\" IEEE Robotics and Automation Letters, 2020.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Bioinspired dual-morphing stretchable origami",
+      "year": 2019,
+      "citation_raw": "Woongbae Kim, Junghwan Byun, Jae-Kyeong Kim, Woo-Young Choi, Kirsten Jakobsen, Joachim Jakobsen, Dae-Young Lee, and Kyu-Jin Cho, “Bioinspired dual-morphing stretchable origami,” Science Robotics, 4, 2019. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A Needlescopic Wrist Mechanism with Articulated Motion and Kinematic Tractability for Micro Laparoscopic Surgery",
+      "year": 2019,
+      "citation_raw": "Jongwoo Kim, Woosub Lee, Sungchul Kang, Kyu-Jin Cho, Chunwoo Kim, \"A Needlescopic Wrist Mechanism with Articulated Motion and Kinematic Tractability for Micro Laparoscopic Surgery,\" IEEE/ASME Transactions on Mechatronics, 2019. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Continuously Variable Stiffness Mechanism using Non-uniform Patterns on Coaxial Tubes for Continuum Micro-surgical Robot",
+      "year": 2019,
+      "citation_raw": "Jongwoo Kim, Woo-Young Choi, Sungchul Kang, Chunwoo Kim, Kyu-Jin Cho, “Continuously Variable Stiffness Mechanism using Non-uniform Patterns on Coaxial Tubes for Continuum Micro-surgical Robot,” IEEE Transactions on Robotics, 2019. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Development of Novel Bevel-geared 5mm Articulating Wrist for Micro-Laparoscopy Instrument",
+      "year": 2019,
+      "citation_raw": "Jongwoo Kim, Hyung-Taeg Han, Sungchul Kang, Chunwoo Kim, “Development of Novel Bevel-geared 5mm Articulating Wrist for Micro-Laparoscopy Instrument,” IEEE Robotics and Automation Letters, 2019 (with IROS option). [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "JumpRoACH: A Trajectory-Adjustable Integrated Jumping-Crawling Robot",
+      "year": 2019,
+      "citation_raw": "Gwang-Pil Jung, Carlos S. Casarez, Jongeun Lee, Sang-Min Baek, So-Jung Yim, Soo-Whan Chae, Ronald S. Fearing, and Kyu-Jin Cho, \"JumpRoACH: A Trajectory-Adjustable Integrated Jumping-Crawling Robot,\" IEEE/ASME Transactions on Mechatronics, 2019. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Eyes are faster than hands: A soft wearable robot learns user intention from the egocentric view",
+      "year": 2019,
+      "citation_raw": "Daekyum Kim, Brian Byunghyun Kang, Kyu Bum Kim, Hyungmin Choi, Jeesoo Ha, Kyu-Jin Cho, Sungho Jo, \"Eyes are faster than hands: A soft wearable robot learns user intention from the egocentric view,\" Science Robotics, 4, eaav2949, 2019. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Exo-Wrist: A Soft Tendon-Driven Wrist-Wearable Robot With Active Anchor for Dart-Throwing Motion in Hemiplegic Patients",
+      "year": 2019,
+      "citation_raw": "Hyungmin Choi, Brian Byunghyun Kang, Bong-Keun Jung, and Kyu-Jin Cho, \"Exo-Wrist: A Soft Tendon-Driven Wrist-Wearable Robot With Active Anchor for Dart-Throwing Motion in Hemiplegic Patients,\" IEEE Robotics and Automation Letters, 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Isokinetic robotic device to improve test-retest and inter-rater reliability for stretch for stretch reflex measurements in stroke patients with spasticity",
+      "year": 2019,
+      "citation_raw": "Minki Shin, Won Seok Kim, Kyujin Cho, and Nam Jong Paik, \"Isokinetic robotic device to improve test-retest and inter-rater reliability for stretch for stretch reflex measurements in stroke patients with spasticity,\" Journal of Visualized Experiments, 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Exo-Glove Poly II: A Polymer-Based Soft Wearable Robot for the Hand with a Tendon-Driven Actuation System",
+      "year": 2018,
+      "citation_raw": "Brian Byunghyun Kang, Hyungmin Choi, Haemin Lee, and Kyu-Jin Cho, \"Exo-Glove Poly II: A Polymer-Based Soft Wearable Robot for the Hand with a Tendon-Driven Actuation System,\" Soft Robotics, 2018. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Biomimetic Color Changing Anisotropic Soft Actuators with Integrated Metal Nanowire Percolation Network Transparent Heaters for Soft Robotics",
+      "year": 2018,
+      "citation_raw": "Hyeonseok Kim, Habeom Lee, Inho Ha, Jinwook Jung, Phillip Won, Hyunmin Cho, Junyeob Yeo, Sukjoon Hong, Seungyong Han, Jinhyeong Kwon, Kyu-Jin Cho and Seung Hwan Ko, \"Biomimetic Color Changing Anisotropic Soft Actuators with Integrated Metal Nanowire Percolation Network Transparent Heaters for Soft Robotics,\" ADVANCED FUNCTIONAL MATERIALS, 2018. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "measurements using an isokinetic device in stroke patients with mild to moderate elbow spasticity,\" Journal of Electromyography and Kinesiology",
+      "year": 2018,
+      "citation_raw": "measurements using an isokinetic device in stroke patients with mild to moderate elbow spasticity,\" Journal of Electromyography and Kinesiology, 2018. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Development of Efficiency Enhanced Scotch Yoke Mechanism for Robotic Fish",
+      "year": 2018,
+      "citation_raw": "Seok-Ryung KwonDae-Young LeeUseok JeongYong-Jai Park, Kyu-Jin Cho, \"Development of Efficiency Enhanced Scotch Yoke Mechanism for Robotic Fish,\" International Journal of Precision Engineering and Manufacturing, Oct. 2018, Volume 19, Issue 10, pp 1507–1513. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Electronic skins for soft, compact, reversible assembly of wirelessly activated fully soft robots",
+      "year": 2018,
+      "citation_raw": "Junghwan Byun, Yoontaek Lee, Jaeyoung Yoon, Byeongmoon Lee, Eunho Oh, Seungjun Chung, Takhee Lee, Kyu-Jin Cho, Jaeha Kim, Yongtaek Hong, \"Electronic skins for soft, compact, reversible assembly of wirelessly activated fully soft robots,\" Science Robotics, vol. 3, eaas9020 (2018). [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Transnasal Placement of a Balloon-Expandable Metallic Stent: Human Cadaver Study of the Eustachian Tube",
+      "year": 2018,
+      "citation_raw": "Joonmyeong Choi, Kyu-Jin Cho, Hong Ju Park, Ho-Young Song, \"Transnasal Placement of a Balloon-Expandable Metallic Stent: Human Cadaver Study of the Eustachian Tube,\" JOURNAL OF VASCULAR AND INTERVENTIONAL RADIOLOGY, 2018. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Fluoroscopic subtraction Eustachian tubography: initial feasibility test in a cadaver model",
+      "year": 2018,
+      "citation_raw": "Kun Yung Kim, Woo Seok Kang, Jung-Hoon Park, Byung-Chul Kang, Jun Woo Park, Min Tae Kim, Nader G. Bekheet, Seung Jun Hwang, Joonmyeong Choi, Kyu-Jin Cho, Hong Ju Park, Ho-Young Song, \"Fluoroscopic subtraction Eustachian tubography: initial feasibility test in a cadaver model,\" European Radiology, 2018. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Development and Evaluation of a New In Vivo Volume Measuring System in Mouse Tail Lymphedema Model",
+      "year": 2018,
+      "citation_raw": "JM Choi, KY Kim, JY Jeon, SH Yoon, JH Park, HY Song, and KJ Cho, \"Development and Evaluation of a New In Vivo Volume Measuring System in Mouse Tail Lymphedema Model,\" Lymphatic Research and Biology, https://doi.org/10.1089/lrb.2018.0019, Dec. 2018. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Design of a Bioinspired Robotic Hand: Magnetic Synapse Sensor Integration for a Robust Remote Tactile Sensing",
+      "year": 2018,
+      "citation_raw": "Sang-Hun Kim, S. Oh, K. B. Kim, Y. Jung, H. Lim, and K. -J. Cho, \"Design of a Bioinspired Robotic Hand: Magnetic Synapse Sensor Integration for a Robust Remote Tactile Sensing,\" in IEEE Robotics and Automation Letters, vol. 3, No. 4, 2018. (with IROS option) [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "An origami-inspired, self-locking robotic arm that can be folded flat",
+      "year": 2018,
+      "citation_raw": "S.-J. Kim, D.-Y. Lee, G.-P. Jung, K.-J. Cho, “An origami-inspired, self-locking robotic arm that can be folded flat,” Sci. Robot. 3, eaar2915, 2018. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Origami Wheel Transformer: A Variable-Diameter Wheel Drive Robot Using an Origami Structure",
+      "year": 2017,
+      "citation_raw": "Dae-Young Lee, Sa-Reum Kim, Ji-Suk Kim, Jae-Jun Park, and Kyu-Jin Cho, “Origami Wheel Transformer: A Variable-Diameter Wheel Drive Robot Using an Origami Structure,” Soft Robotics, May. 2017. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Development and evaluation of a soft wearable weight support device for reducing muscle fatigue on shoulder",
+      "year": 2017,
+      "citation_raw": "Daegeun Park and Kyu-Jin Cho, “Development and evaluation of a soft wearable weight support device for reducing muscle fatigue on shoulder”, Plos One, Mar. 2017. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Effect of leg compliance in multi-directional jumping of the flea-inspired mechanism",
+      "year": 2017,
+      "citation_raw": "Gwang-Pil Jung, Hong-Cheol Choi and Kyu-Jin Cho, “Effect of leg compliance in multi-directional jumping of the flea-inspired mechanism”, Bioinspiration & Biomimetics, Vol. , No. , pp. , Feb., 2017. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Exo-Glove PM: An Easily Customizable Modularized Pneumatic Assistive Glove",
+      "year": 2017,
+      "citation_raw": "Sung-Sik Yun, Brian Byunghyun Kang, and Kyu-Jin Cho. “Exo-Glove PM: An Easily Customizable Modularized Pneumatic Assistive Glove.” IEEE Robotics and Automation Letters, VOL. 2, NO. 3, July. 2017. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Development and assessment of a hand assist device: GRIPIT",
+      "year": 2017,
+      "citation_raw": "B. Kim, H. In, D. Lee and K.-J. Cho, “Development and assessment of a hand assist device: GRIPIT,” Journal of NeuroEngineering and Rehabilitation, vol. 14, no. 1, pp. 15, 2017. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Development of a transformable wheel actuated by soft pneumatic actuators",
+      "year": 2017,
+      "citation_raw": "S.-S. Yun, J.-Y. Lee, G.-P. Jung, and K.-J. Cho, “Development of a transformable wheel actuated by soft pneumatic actuators,” International Journal of Control, Automation and Systems, vol. 15, pp. 36-44, 2017. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A novel slack enabling tendon drive that improves efficiency, size, and safety in soft wearable robots",
+      "year": 2016,
+      "citation_raw": "H. In, U. Jeong, H. Lee, and K.-J. Cho, “A novel slack enabling tendon drive that improves efficiency, size, and safety in soft wearable robots,” IEEE/ASME Transactions on Mechatronics, pp. 1–1, 2016. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Development of a Multi-functional Soft Robot (SNUMAX) and Performance in RoboSoft Grand Challenge",
+      "year": 2016,
+      "citation_raw": "J.-Y. Lee et al., “Development of a Multi-functional Soft Robot (SNUMAX) and Performance in RoboSoft Grand Challenge,” Front. Robot. AI, vol. 3, p. 63, 2016. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Froghopper-Inspired Direction Changing Concept for Miniature Jumping Robots",
+      "year": 2016,
+      "citation_raw": "Gwang-Pil Jung and Kyu-Jin Cho, “Froghopper-Inspired Direction Changing Concept for Miniature Jumping Robots”, Bioinspiration & Biomimetics, Vol. 11, No. 5, pp. 056015, Sep., 2016. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Development of a Modularized Design Concept for Soft Robotics: Introducing SoBL, a Soft Robotic Block",
+      "year": 2016,
+      "citation_raw": "Jun-Young Lee, Woong-Bae Kim, Woo-Young Choi, and Kyu-Jin Cho, “Development of a Modularized Design Concept for Soft Robotics: Introducing SoBL, a Soft Robotic Block,” IEEE ROBOTICS & AUTOMATION MAGAZINE, vol. 23, no. 3, pp. 30–41, Sep. 2016. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A Novel Low-Cost, Large Curvature Bend Sensor Based on a Bowden-Cable",
+      "year": 2016,
+      "citation_raw": "Useok Jeong and Kyu-Jin Cho, “A Novel Low-Cost, Large Curvature Bend Sensor Based on a Bowden-Cable,” Sensors, Vol.16, No.7: 961, Jun. 2016. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "From Design for Manufacturing (DFM) to Manufacturing for Design (MFD) via Hybrid Manufacturing and Smart Factory: A Review and Perspective of Paradigm Shift",
+      "year": 2016,
+      "citation_raw": "Won-Shik Chu, Min-Soo Kim, Ki-Hwan Jang, Ji-Hyeon Song, Hugo Rodrigue, Doo-Man Chun, Young Tae Cho, Seung Hwan Ko, Kyu-Jin Cho, Suk Won Cha, Sangkee Min, Sung Ho Jeong, Haedo Jeong, Choon-Man Lee, Chong Nam Chu, Sung-Hoon Ahn, “From Design for Manufacturing (DFM) to Manufacturing for Design (MFD) via Hybrid Manufacturing and Smart Factory: A Review and Perspective of Paradigm Shift,” INTERNATIONAL JOURNAL OF PRECISION ENGINEERING AND MANUFACTURING-GREEN TECHNOLOGY, Vol.3, No.2, pp.209-222, April. 2016. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Design Concept of Hybrid Instrument for Laparoscopic Surgery and Its Verification Using Scale Model Test",
+      "year": 2016,
+      "citation_raw": "Yoon-Ho Kim, Yong-Jai Park, HyunKi In, Chang Wook Jeong, and Kyu-Jin Cho, “Design Concept of Hybrid Instrument for Laparoscopic Surgery and Its Verification Using Scale Model Test,” IEEE/ASME Transactions on Mechatronics, Vol. 21, No. 1, pp.142-153, Feb. 2016. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Anisotropic Patterning to Reduce Instability of Concentric-Tube Robots",
+      "year": 2015,
+      "citation_raw": "Dae-Young Lee, Jongwoo Kim, Ji-Suk Kim, Changyeob Baek, Gunwoo Noh, Do-Nyun Kim, Keri Kim, Sungchul Kang, and Kyu-Jin Cho, “Anisotropic Patterning to Reduce Instability of Concentric-Tube Robots”, IEEE Transactions on Robotics, vol. 31, No. 6, pp. 1311-1323, Dec. 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "“Jumping on water: Surface tension–dominated jumping of water striders and robotic insects“",
+      "year": 2015,
+      "citation_raw": "Je-Sung Koh, Eunjin Yang, Gwang-Pil Jung, Sun-Pill Jung, Jae Hak Son, Sang-Im Lee, Piotr G. Jablonski, Robert J. Wood, Ho-Young Kim, and Kyu-Jin Cho, “Jumping on water: Surface tension–dominated jumping of water striders and robotic insects“, Vol. 349, no. 6247, pp. 517-521, Science, 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "A large-stroke shape memory alloy spring actuator using double-coil configuration",
+      "year": 2015,
+      "citation_raw": "Seung-Won Kim, Jong-Gu Lee, Sungmin An, Maenghyo Cho and Kyu-Jin Cho, “A large-stroke shape memory alloy spring actuator using double-coil configuration”, Smart Mater. Struct. 24 (2015) 095014 (21pp), Aug. 2015. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Design Concept of Hybrid Instrument for Laparoscopic Surgery and Its Verification Using Scale Model Test",
+      "year": 2015,
+      "citation_raw": "Yoon-Ho Kim, Yong-Jai Park, HyunKi In, Chang Wook Jeong, and Kyu-Jin Cho, “Design Concept of Hybrid Instrument for Laparoscopic Surgery and Its Verification Using Scale Model Test,” IEEE/ASME Transactions on Mechatronics, 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Dual-stiffness structures with reconfiguring mechanism: Design and investigation",
+      "year": 2015,
+      "citation_raw": "Yong-Jai Park, Jong-Gu Lee, Sangwon Jeon, Heejin Ahn, Jesung Koh, Junghyun Ryu, Maenghyo Cho, and Kyu-Jin Cho, “Dual-stiffness structures with reconfiguring mechanism: Design and investigation,” Journal of Intelligent Material Systems and Structures, Mar. 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Design of an Optically Controlled MR-Compatible Active Needle",
+      "year": 2015,
+      "citation_raw": "Seok Chang Ryu, Zhan Fan Quek, Je-Sung Koh, Pierre Renaud, Richard J. Black, Behzad Moslehi, Bruce L. Daniel, Kyu-Jin Cho, and Mark R. Cutkosky, “Design of an Optically Controlled MR-Compatible Active Needle,” IEEE Robotics, Transactions on, Vol.31, No.1, Feb. 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Exo-Glove: Soft wearable robot for the hand using soft tendon routing system",
+      "year": 2015,
+      "citation_raw": "Hyunki In, Brian Byunghyun Kang, Minki Sin, and Kyu-Jin Cho, “Exo-Glove: Soft wearable robot for the hand using soft tendon routing system,” IEEE Robotics Automation Magazine, vol. 22, no. 1, pp. 97–105, Mar. 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Fabrication of Composite and Sheet Metal Laminated Bistable Jumping Mechanism",
+      "year": 2015,
+      "citation_raw": "Sun-Pill Jung, Gwang-Pil Jung, Je-Sung Koh, Dae-Young Lee, and Kyu-Jin Cho, “Fabrication of Composite and Sheet Metal Laminated Bistable Jumping Mechanism,” ASME Journal of Mechanisms and Robotics, Vol. 7, No. 2, May, 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Exo-Glove: Soft wearable robot for the hand using soft tendon routing system",
+      "year": 2014,
+      "citation_raw": "Hyunki In, Brian Byunghyun Kang, Minki Sin, and Kyu-Jin Cho, “Exo-Glove: Soft wearable robot for the hand using soft tendon routing system,” IEEE Robotics Automation Magazine, vol. 22, no. 1, pp. 97–105, Mar. 2015. Sun-Pill Jung, Gwang-Pil Jung, Je-Sung Koh, Dae-Young Lee, and Kyu-Jin Cho, “Fabrication of Composite and Sheet Metal Laminated Bistable Jumping Mechanism,” ASME Journal of Mechanisms and Robotics, Vol. 7, No. 2, May, 2015. Jong-Gu Lee, Junghyun Ryu, Seung-Won Kim, Je-Sung Koh, Kyu-Jin Cho, and Maenghyo Cho, “Effect of Initial Tool-plate Curvature on Snap-through Load of Unsymmetric Laminated Cross-ply Bistable Composites,” Composite Structures, 2014. Accepted [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "“Generalized curvature tailoring of bistable CFRP laminates by curing on a cylindrical tool-plate with misalignment“",
+      "year": 2014,
+      "citation_raw": "Junghyun Ryu, Jong-Gu Lee, Seung-Won Kim, Je-Sung Koh, Kyu-Jin Cho, Maenghyo Cho, “Generalized curvature tailoring of bistable CFRP laminates by curing on a cylindrical tool-plate with misalignment“, Composites Science and Technology, Aug. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Wheel Transformer: A Wheel-Leg Hybrid Robot with Passive Transformable Wheels",
+      "year": 2014,
+      "citation_raw": "Yoo-Seok Kim, Gwang-Pil Jung, Haan Kim, Kyu-Jin Cho and Chong-Nam Chu, “Wheel Transformer: A Wheel-Leg Hybrid Robot with Passive Transformable Wheels,” IEEE Robotics, Transactions on, 2014, Accepted",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Design of variable-stiffness flapping mechanism for maximizing thrust of bio-inspired underwater robot",
+      "year": 2014,
+      "citation_raw": "Yong-Jai Park, Tae Myung Huh, Daegeun Park, and Kyu-Jin Cho, “Design of variable-stiffness flapping mechanism for maximizing thrust of bio-inspired underwater robot”, Bioinspiration and Biomimetics, Vol.9, No.3, Mar. 2014",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "“Flytrap-inspired robot using structurally integrated actuation based on bistability and developable surface,“ Bioinspiration and Biomimetics",
+      "year": 2014,
+      "citation_raw": "Seung-Won Kim, Je-sung Koh, Jong-Gu Lee, Junghyun Ryu, Maenghyo Cho and Kyu-Jin Cho, “Flytrap-inspired robot using structurally integrated actuation based on bistability and developable surface,“ Bioinspiration and Biomimetics, Vol.9, No.3, Mar. 2014",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "“Electromyographic analysis of upper limb muscles during standardized isotonic and isokinetic robotic exercise of spastic elbow in patients with stroke“",
+      "year": 2014,
+      "citation_raw": "Minki Sin, Won-Seok Kim, Daeguen Park, Yu-Sun Min, Woo Jin Kim, Kyujin Cho, Nam-Jong Paik, “Electromyographic analysis of upper limb muscles during standardized isotonic and isokinetic robotic exercise of spastic elbow in patients with stroke“, Journal of Electromyography and Kinesiology, Vol.24, No. 1, pp. 11-17, Jan. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Component Assembly with Shape Memory Polymer Fastener for Microrobots",
+      "year": 2014,
+      "citation_raw": "Ji-Suk Kim, Dae-Young Lee, Je-Sung Koh, Gwang-Pil Jung, Kyu-Jin Cho, “Component Assembly with Shape Memory Polymer Fastener for Microrobots,” Smart Materials and Structures, Vol.23, No.1, Jan. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Underactuated Adaptive Gripper using Flexural Buckling",
+      "year": 2013,
+      "citation_raw": "Gwang-Pil Jung, Je-Sung Koh, and Kyu-Jin Cho, “Underactuated Adaptive Gripper using Flexural Buckling”, IEEE Robotics, Transactions on, vol. 29, No. 6, Dec. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "“Curvature Tailoring of Unsymmetric Laminates with an Initial Curvature“",
+      "year": 2013,
+      "citation_raw": "Junghyun Ryu, Jungpyo Kong, Seung-Won Kim, Je-Sung Koh, Kyu-Jin Cho, Maenghyo Cho, “Curvature Tailoring of Unsymmetric Laminates with an Initial Curvature“, Journal of Composite Materials, Vol. 47, No. 25, pp. 3163-3174, Nov. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Meshworm: A Peristaltic Soft Robot with Antagonistic Nickel Titanium Coil Actuators",
+      "year": 2013,
+      "citation_raw": "Sangok, Seok, Cagdas, Onal, Kyu-Jin Cho, Robert, Wood, Daniela Rus and Sangbae Kim, “Meshworm: A Peristaltic Soft Robot with Antagonistic Nickel Titanium Coil Actuators”, IEEE/ASME Transactions on Mechatronics, Vol. 18, No. 5, pp. 1486-1497, Oct. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Deformable-wheel robot based on soft material",
+      "year": 2013,
+      "citation_raw": "Dae-Young Lee, Je-Sung Koh, Ji-Suk Kim, Seung-Won Kim and Kyu-Jin Cho, “Deformable-wheel robot based on soft material,”International Journal of Precision Engineering and Manufacturing, Vol. 14, No. 5, pp. 1439-1445, Aug. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Omega-shaped Inchworm-inspired Crawling Robot with Large-Index-and-Pitch (LIP) SMA Spring Actuators",
+      "year": 2013,
+      "citation_raw": "Je-Sung Koh, and Kyu-Jin Cho, “Omega-shaped Inchworm-inspired Crawling Robot with Large-Index-and-Pitch (LIP) SMA Spring Actuators”, IEEE/ASME Transactions on Mechatronics, Vol. 18, No. 2, pp. 419-429, Apr. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Sensorless displacement estimation of a shape memory alloy coil spring actuator using inductance",
+      "year": 2013,
+      "citation_raw": "Hongjip Kim, Yongsu Han, Dae-Young Lee, Jung-Ik Ha, and Kyu-Jin Cho, “Sensorless displacement estimation of a shape memory alloy coil spring actuator using inductance,” Smart Materials and Structures, Vol. 22, No. 2, Feb. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "“Design of a slider-crank leg mechanism for mobile hopping robotic platforms“",
+      "year": 2013,
+      "citation_raw": "Doyoung Chang, Jeongryul Kim, Dongkyu Choi, Kyu-Jin Cho, TaeWon Seo, and Jongwon Kim, “Design of a slider-crank leg mechanism for mobile hopping robotic platforms“, Journal of Mechanical Science and Technology, Vol. 27, No. 1, pp. 207-214, Jan. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "“Wake and thrust of an angularly reciprocating plate“",
+      "year": 2013,
+      "citation_raw": "Lee, Jeongsu, Park, Yong-Jai, Jeong, Useok, Cho, Kyu-Jin, Kim, Ho-Young, “Wake and thrust of an angularly reciprocating plate“, Journal of Fluid Mechanics, Vol. 720, pp. 545-557, 2013",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "“Implementation of various control algorithms for hand rehabilitation exercise using wearable robotic hand“",
+      "year": 2013,
+      "citation_raw": "Useok Jeong, Hyun-Ki In and Kyu-Jin Cho, “Implementation of various control algorithms for hand rehabilitation exercise using wearable robotic hand“, Intelligent Service Robotics, Vol. 6, No. 4, pp. 181-189, 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "“Design and Fabrication of Soft Deformable Wheel Robot using Composites and Shape Memory Alloy Coil Spring Actuators“",
+      "year": 2013,
+      "citation_raw": "Je-Sung Koh, Dae-Young Lee, Ji-Suk Kim, Seung-Won Kim and Kyu-Jin Cho, “Design and Fabrication of Soft Deformable Wheel Robot using Composites and Shape Memory Alloy Coil Spring Actuators“, International Journal of Precision Engineering and Manufacturing, Vol. 30, No. 1, pp. 47-52, 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Kinematic condition for maximizing the thrust of a robotic fish using a compliant caudal fin",
+      "year": 2012,
+      "citation_raw": "Yong-Jai Park, Useok Jeong, Jeongsu Lee, Seok-Ryung Kwon, Ho-Young Kim, and Kyu-Jin Cho, “Kinematic condition for maximizing the thrust of a robotic fish using a compliant caudal fin,”IEEE Transactions on Robotics (TRO), Vol. 28, No. 6, pp. 1216 –1227, Dec. 2012.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Flea-inspired catapult mechanism for miniature jumping robots",
+      "year": 2012,
+      "citation_raw": "Minkyun Noh, Seung-Won Kim, Sungmin An, Je-Sung Koh, Kyu-Jin Cho, “Flea-inspired catapult mechanism for miniature jumping robots”, IEEE Transactions on Robotics (TRO), Vol. 28, No. 5, pp. 1007-1018, Oct. 2012.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Design of a Passive Brake Mechanism for Tendon Driven Devices",
+      "year": 2012,
+      "citation_raw": "Sungku Kang, Hyunki In, and Kyu-Jin Cho, “Design of a Passive Brake Mechanism for Tendon Driven Devices,” International Journal of Precision Engineering and Manufacturing, Vol. 13, No. 8, pp. 1487-1490, Aug. 2012.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Review of Biomimetic Underwater Robots Using Smart Actuators",
+      "year": 2012,
+      "citation_raw": "Won-Shik Chu, Kyung-Tae Lee, Sung-Hyuk Song, Min-Woo Han, Jang-Yeob Lee, Hyung-Soo Kim, Min-Soo Kim, Yong-Jai Park, Kyu-Jin Cho, and Sung-Hoon Ahn, “Review of Biomimetic Underwater Robots Using Smart Actuators,”International Journal of Precision Engineering and Manufacturing(IJPEM), Vol. 13, No. 7, pp. 1281-1292, Jul. 2012.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Design and Analysis of a Stiffness Adjustable Structure Using an Endoskeleton",
+      "year": 2012,
+      "citation_raw": "Tae Myung Huh, Yong-Jai Park, and Kyu-Jin Cho, “Design and Analysis of a Stiffness Adjustable Structure Using an Endoskeleton”, International Journal of Precision Engineering and Manufacturing, Vol. 13, No. 7, pp. 1255-1258, Jul. 2012.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Engineering design framework for a shape memory alloy coil spring actuator using a static two-state model",
+      "year": 2012,
+      "citation_raw": "Sung-Min An, Junghyun Ryu, Maenghyo Cho, and Kyu-Jin Cho, “Engineering design framework for a shape memory alloy coil spring actuator using a static two-state model,”Smart Materials and Structures, Vol. 21, May. 2012.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Kinematic analysis and experimental verification on the locomotion of gecko",
+      "year": 2009,
+      "citation_raw": "Woochul Nam, TaeWon Seo, Byungwook Kim, Dongsu Jeon, Kyu-Jin Cho, and Jongwon Kim, “Kinematic analysis and experimental verification on the locomotion of gecko,” Journal of Bionic Engineering, Vol. 6, No. 3, pp. 246-254, Aug. 2009.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Hoffman,” A Novel Multi-Axis Force Sensor for Microrobotics Applications” J",
+      "year": 2009,
+      "citation_raw": "R.J. Wood, K.-J. Cho, and K. Hoffman,” A Novel Multi-Axis Force Sensor for Microrobotics Applications” J. Smart Materials and Structures, Vol. 18, pp. 125002, 2009.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Segmented shape memory alloy actuators using hysteresis loop control",
+      "year": 2006,
+      "citation_raw": "B. Selden, K. Cho and H. H. Asada, “Segmented shape memory alloy actuators using hysteresis loop control,” Smart materials and structures, Vol.15, pp. 642, 2006.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Architecture design of a multiaxis cellular actuator array using segmented binary control of shape memory alloy",
+      "year": 2006,
+      "citation_raw": "K. J. Cho and H. H. Asada, “Architecture design of a multiaxis cellular actuator array using segmented binary control of shape memory alloy,” Robotics, IEEE Transactions on, Vol. 22, No. 4, pp. 831–843, 2006.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/journal-articles"
+    },
+    {
+      "title": "Building Simple Yet Competent Soft-Rigid Hybrid Hand Wearable Robots",
+      "year": 2022,
+      "citation_raw": "Byungchul Kim and Kyu-Jin Cho, \"Building Simple Yet Competent Soft-Rigid Hybrid Hand Wearable Robots,\" in RAS/EMBS IEEE 9th International Conference on Biomedical Robotics and Biomechatronics (BioRob) , 2022.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Slider Tendon Linear Actuator with Under actuation and Fast connection for Soft Wearable Robots",
+      "year": 2021,
+      "citation_raw": "Byungchul Kim, Useok Jeong, Brian Byunghyun Kang, and Kyu-Jin Cho, \"Slider Tendon Linear Actuator with Under actuation and Fast connection for Soft Wearable Robots,\" in IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) , 2021.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Design of Fully Soft Actuator with Double-Helix Tendon Routing Path for Twisting Motion",
+      "year": 2020,
+      "citation_raw": "Joonmyeong Choi, Se Hyeok Ahn, and Kyu-Jin Cho, \"Design of Fully Soft Actuator with Double-Helix Tendon Routing Path for Twisting Motion,\" in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Stretchable Kirigami components for composite meso-scale robots",
+      "year": 2020,
+      "citation_raw": "Amir Firouzeh , Tatsuya Higashisaka , Keisuke Nagato , Kyujin Cho , and Jamie Paik, \"Stretchable Kirigami components for composite meso-scale robots,\" in International Conference on Robotics and Automation (ICRA), 2020.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Learning-Based Fingertip Force Estimation for Soft Wearable Hand Robot with Tendon-Sheath Mechanism",
+      "year": 2020,
+      "citation_raw": "Brian Byunghyun Kang, Daekyum Kim, Hyungmin Choi, Useok Jeong, Kyu Bum Kim, Sungho Jo, and Kyu-Jin Cho, \"Learning-Based Fingertip Force Estimation for Soft Wearable Hand Robot with Tendon-Sheath Mechanism,\" in International Conference on Robotics and Automation (ICRA), 2020.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Development and Preclinical Trials of a Novel Steerable Cannula for 360° Arthroscopic Capsular Release in Minimally Invasive Surgery",
+      "year": 2020,
+      "citation_raw": "Jongwoo Kim, Yoonjeong Kim, Kyu-Jin Cho, and Keri Kim, \"Development and Preclinical Trials of a Novel Steerable Cannula for 360° Arthroscopic Capsular Release in Minimally Invasive Surgery,\" in International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2020.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Wearable Lymphedema Massaging Modules: Proof of Concept using Origami-inspired Soft Fabric Pneumatic Actuators",
+      "year": 2019,
+      "citation_raw": "Hye Ju Yoo, Woongbae Kim, Sang-Yoep Lee, Joonmyeong Choi, Youn Joo Kim, Da Som Koo, Yunja Nam, and Kyu-Jin Cho, \"Wearable Lymphedema Massaging Modules: Proof of Concept using Origami-inspired Soft Fabric Pneumatic Actuators,” in International Conference on Rehabilitation Robotics (ICORR), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Suggestion of an Automation Algorithm for Respiratory Rehabilitation and Assistive Robot",
+      "year": 2019,
+      "citation_raw": "Sang-Yoep Lee and Kyu-Jin Cho, \"Suggestion of an Automation Algorithm for Respiratory Rehabilitation and Assistive Robot,\" in International Conference on Rehabilitation Robotics (ICORR), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Loco-sheet: Morphing Inchworm Robot Across Rough-terrain",
+      "year": 2019,
+      "citation_raw": "Mun Hyeok Chang, Su Hwan Chae, Hye Ju Yoo, Sang-Hun Kim, Woongbae Kim, and Kyu-Jin Cho, \"Loco-sheet: Morphing Inchworm Robot Across Rough-terrain,\" in IEEE International Conference on Soft Robotics (Robosoft), 2019, Finalist.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Reliability and Degradation Analysis of Bowden-Cable Transmission for Soft Robotic Systems",
+      "year": 2019,
+      "citation_raw": "Sang-Hun Kim, Useok Jeong, Keunsu Kim, Hyunhee Choi, Byeng Dong Youn, and Kyu Jin Cho, \"Reliability and Degradation Analysis of Bowden-Cable Transmission for Soft Robotic Systems,\" in IEEE International Conference on Soft Robotics (Robosoft), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Dart-Throwing Motion Assistance Soft Wrist Wearable Robot",
+      "year": 2019,
+      "citation_raw": "Hyungmin Choi, Brian Byunghyun Kang, Bong-Geun Jung, and Kyu-Jin Cho, \"Dart-Throwing Motion Assistance Soft Wrist Wearable Robot,\" in IEEE International Conference on Soft Robotics (Robosoft), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Compact Actuator with Tendon Transmission Box for Soft wearable Robot",
+      "year": 2019,
+      "citation_raw": "Byungchul Kim, Useok Jeong, Brian Byunghun Kang, and Kyu-Jin Cho, \"Compact Actuator with Tendon Transmission Box for Soft wearable Robot,\" in IEEE International Conference on Soft Robotics (Robosoft), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Dual-Morphing Soft Robotic Origami",
+      "year": 2019,
+      "citation_raw": "Woong-Bae Kim, Jung-Hwan Byun and Jae-Kyung Kim, Woo Yung Choi, Dae-Young Lee, and Kyu-Jin Cho, \"Dual-Morphing Soft Robotic Origami,\" in IEEE International Conference on Soft Robotics (Robosoft), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Topology Optimized Design of Finger Body in Exo-Glove Poly II",
+      "year": 2019,
+      "citation_raw": "\"Topology Optimized Design of Finger Body in Exo-Glove Poly II,\" in IEEE International Conference on Soft Robotics (Robosoft), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "An Omnidirectional Jumper with Expanded Movability via Steering, Self-Righting and Take-off Angle Adjustment",
+      "year": 2018,
+      "citation_raw": "Sojung Yim, Sang-Min Baek, Gwang-Pil Jung, and Kyu-Jin Cho, “An Omnidirectional Jumper with Expanded Movability via Steering, Self-Righting and Take-off Angle Adjustment,” in IEEE International Conference on Intelligent Robots and Systems (IROS), 2018. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Soft LEGO: Bottom-up Design Platform for Soft Robotics",
+      "year": 2018,
+      "citation_raw": "Jun-Young Lee, Jaemin Eom, Woo-Young Choi, and Kyu-Jin Cho, \"Soft LEGO: Bottom-up Design Platform for Soft Robotics,\" IEEE/RSJ International Conference on Intelligent Robots and Systems, 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "A Preliminary Study on Customizable Origami Grippers with Elastic Hinges for Minimally Invasive Surgery",
+      "year": 2018,
+      "citation_raw": "Jongwoo Kim, Sun-Pill Jung, Chunwoo Kim, Kyu-Jin Cho, “A Preliminary Study on Customizable Origami Grippers with Elastic Hinges for Minimally Invasive Surgery,” Hamlyn Symposium on Medical Robotics, 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Development of 5 mm Articulating Wristed Instrument for Micro-laparoscopy",
+      "year": 2018,
+      "citation_raw": "Chunwoo Kim, Jongwoo Kim, Sungchul Kang, “Development of 5 mm Articulating Wristed Instrument for Micro-laparoscopy,” Surgical Robot Challenge in Hamlyn Symposium on Medical Robotics, 2018. Finalist",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "A Simple Elastic Sheet-Based Locomotive Soft Robot to Overcome Undefined Environments",
+      "year": 2018,
+      "citation_raw": "Mun-Hyeok Chang, Hye-Ju Yoo, Su-Hwan Chae, Kyu-Jin Cho, \"A Simple Elastic Sheet-Based Locomotive Soft Robot to Overcome Undefined Environments,\" 2018 IEEE International Conference on Soft Robotics (Robosoft), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Fully Soft Tendon Driven PVC Film Manipulator",
+      "year": 2018,
+      "citation_raw": "Kyu Bum Kim, Kyu-Jin Cho, \"Fully Soft Tendon Driven PVC Film Manipulator,\" 2018 IEEE International Conference on Soft Robotics (Robosoft), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Soft Adaptive Suction Gripper: Combining Finger Grasp and Suction",
+      "year": 2018,
+      "citation_raw": "Jaemin Eom, Jae-Ryeong Choi, Kyu-Jin Cho, \"Soft Adaptive Suction Gripper: Combining Finger Grasp and Suction,\" 2018 IEEE International Conference on Soft Robotics (Robosoft), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Fully Soft Tendon Driven PVC Film Manipulator",
+      "year": 2017,
+      "citation_raw": "Kyu Bum Kim, Kyu-Jin Cho, \"Fully Soft Tendon Driven PVC Film Manipulator,\" 2018 IEEE International Conference on Soft Robotics (Robosoft), 2018. Jaemin Eom, Jae-Ryeong Choi, Kyu-Jin Cho, \"Soft Adaptive Suction Gripper: Combining Finger Grasp and Suction,\" 2018 IEEE International Conference on Soft Robotics (Robosoft), 2018. Sang-Yoep Lee, Kyu-Jin Cho, “A Study on the Cough Augmentation Using a Belt-Driven Assistive”, ICORR 2017.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "An Evaluation of Respiratory Rehabilitation and Assistance Robot for Amplification of Vocal Loudness",
+      "year": 2017,
+      "citation_raw": "Sang-Yoep Lee, Kyu-Jin Cho, “An Evaluation of Respiratory Rehabilitation and Assistance Robot for Amplification of Vocal Loudness”,Engineering in Medicine and Biology Society, 2017.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Bio-inspired design of a double-sided crawling robot",
+      "year": 2017,
+      "citation_raw": "Jong-Eun Lee, Gwang-Pil Jung, Kyu-Jin Cho, “Bio-inspired design of a double-sided crawling robot”,Living Machines 2017, LNAI 10384, pp. 562–566, 2017.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Artificial Ligament-Joint Design for a Bioinspired Hand",
+      "year": 2017,
+      "citation_raw": "Sang-Hun Kim, Sung-Sik Park, and Kyu-Jin Cho, “Artificial Ligament-Joint Design for a Bioinspired Hand,” Engineering in Medicine and Biology Society, 2017.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "A Feasibility Study on Tension Control of Bowden-Cable Based on a Dual-Wire Scheme",
+      "year": 2017,
+      "citation_raw": "Useok Jeong and Kyu-Jin Cho, “A Feasibility Study on Tension Control of Bowden-Cable Based on a Dual-Wire Scheme”, in IEEE International Conference on Robotics and Automation (ICRA), 2017, pp. 3690-3695.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "A Novel Variable Stiffness Mechanism for Minimally Invasive Surgery Using Concentric Anisotropic Tube Structure",
+      "year": 2017,
+      "citation_raw": "Jongwoo Kim, Chunwoo Kim, Sungchul Kang, and Kyu-Jin Cho, “A Novel Variable Stiffness Mechanism for Minimally Invasive Surgery Using Concentric Anisotropic Tube Structure,” Hamlyn Symposium on Medical Robotics, pp. 43-44, 2017",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Design of Anisotropic Pneumatic Artificial Muscles and Their Applications to Soft Wearable Devices for Text Neck Symptoms",
+      "year": 2017,
+      "citation_raw": "Hojoong Kim, Hyuntai Park, Jongwoo Kim, Kyu-Jin Cho, and Yong-Lae Park, “Design of Anisotropic Pneumatic Artificial Muscles and Their Applications to Soft Wearable Devices for Text Neck Symptoms,” in International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2017",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Development of a Smaller Size Modular Unit for Soft Robotics",
+      "year": 2017,
+      "citation_raw": "Jun-Young Lee, Kyu-Jin Cho, \"Development of a Smaller Size Modular Unit for Soft Robotics,\" 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2017), 2017.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Steerable cannula robot with additional torque coil driven wrist for arthroscopic capsular release",
+      "year": 2016,
+      "citation_raw": "Jongwoo Kim, Keri Kim, Sungchul Kang, Kyu-Jin Cho, “Steerable cannula robot with additional torque coil driven wrist for arthroscopic capsular release”, Hamlyn Symposium on Medical Robotics, 2016, pp. 82-83.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Force Characteristics of Rolling Contact Joint for Compact Structure",
+      "year": 2016,
+      "citation_raw": "Sang-Hun Kim, Hyunki In, Jeong-Ryul Song and Kyu-Jin Cho, “Force Characteristics of Rolling Contact Joint for Compact Structure,” in IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob), 2016, pp. 1207-1212.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Fast, Compact, and Lightweight Shape-Shifting System Composed of Distributed Self-Folding Origami Modules",
+      "year": 2016,
+      "citation_raw": "Sa-Reum Kim, Dae-Young Lee, Je-Sung Koh, and Kyu-Jin Cho, “Fast, Compact, and Lightweight Shape-Shifting System Composed of Distributed Self-Folding Origami Modules,” in IEEE International Conference on Robotics and Automation (ICRA), 2016, pp. 4969-4974.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Development of a Polymer-Based Tendon-Driven Wearable Robotic Hand",
+      "year": 2016,
+      "citation_raw": "Brian Byunghyun Kang, Haemin Lee, Hyunki In, Useok Jeong, Jinwon Chung, and Kyu-Jin Cho, “Development of a Polymer-Based Tendon-Driven Wearable Robotic Hand,” in IEEE International Conference on Robotics and Automation (ICRA), 2016.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "An Integrated Jumping-Crawling Robot using Height-Adjustable Jumping Module",
+      "year": 2016,
+      "citation_raw": "Gwang-Pil Jung, Carlos S. Casarez, Sun-Pill Jung, Ronald S. Fearing and Kyu-Jin Cho, “An Integrated Jumping-Crawling Robot using Height-Adjustable Jumping Module,” in IEEE International Conference on Robotics and Automation (ICRA), 2016, pp. 4680-4685.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Curved Compliant Facet Origami-based Self-deployable Gliding Wing Module for Jump-gliding",
+      "year": 2016,
+      "citation_raw": "Sang-Min Baek, Dae-Young lee, Kyu-Jin Cho, \"Curved Compliant Facet Origami-based Self-deployable Gliding Wing Module for Jump-gliding,\" ASME 2016 International Design and Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2016), 2016.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Design of a Milli-Scale, Biomimetic Platform for Climbing on a Rough Surface",
+      "year": 2015,
+      "citation_raw": "Hong-Cheol Choi, Gwang-pil Jung, and Kyu-Jin Cho, “Design of a Milli-Scale, Biomimetic Platform for Climbing on a Rough Surface”, Proceedings of the 2015 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Development of Passive Upper Limb Weight-Bearing Orthosis to Enhance Voluntary Shoulder Rotation for Activities of Daily Living",
+      "year": 2015,
+      "citation_raw": "Minki Sin, Sang-Hun Kim, and Kyu-Jin Cho, “Development of Passive Upper Limb Weight-Bearing Orthosis to Enhance Voluntary Shoulder Rotation for Activities of Daily Living”, IEEE/ASME International Conference on Advanced Intelligent Mechatronics, 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "An Application of User-Friendly Control for a Respiratory Rehabilitation and Assistance Robot",
+      "year": 2015,
+      "citation_raw": "Sang-Yoep Lee, Useok Jeong, and Kyu-Jin Cho, “An Application of User-Friendly Control for a Respiratory Rehabilitation and Assistance Robot,” IEEE/ASME International Conference on Advanced Intelligent Mechatronics, 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Design and Simulation of the Adjustable Weight bearing system to adjust the torque change by the distal joint on 2DOF body limb",
+      "year": 2015,
+      "citation_raw": "Daegeun Park, Kyu-Jin Cho, “Design and Simulation of the Adjustable Weight bearing system to adjust the torque change by the distal joint on 2DOF body limb,” IEEE/ASME International Conference on Advanced Intelligent Mechatronics, 2015",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Feedforward Friction Compensation of Bowden-Cable Transmission Via Loop Routing",
+      "year": 2015,
+      "citation_raw": "Useok Jeong, and Kyu-Jin Cho, “Feedforward Friction Compensation of Bowden-Cable Transmission Via Loop Routing,” Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS), 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Investigation on the Control Strategy of Soft Wearable Robotic Hand with Slack Enabling Tendon Actuator",
+      "year": 2015,
+      "citation_raw": "Useok Jeong, Hyunki In, Haemin Lee, Brian Byunghyun Kang, and Kyu-Jin Cho, “Investigation on the Control Strategy of Soft Wearable Robotic Hand with Slack Enabling Tendon Actuator,” Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "A self-deployable origami structure with locking mechanism induced by buckling effect",
+      "year": 2015,
+      "citation_raw": "Jongwoo Kim, Dae-young Lee, Sa-reum Kim, and Kyu-Jin Cho, “A self-deployable origami structure with locking mechanism induced by buckling effect,” Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Feasibility study of a slack prevention actuator for actuating tendon-driven soft wearable robot without pretension",
+      "year": 2015,
+      "citation_raw": "Hyunki In, Heamin Lee, Useok Jeong, Brian Byunhyun Kang, and Kyu-Jin Cho, “Feasibility study of a slack prevention actuator for actuating tendon-driven soft wearable robot without pretension,” Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "“Evaluation of an Improved Soft Meal Assistive Exoskeleton with an Adjustable Weight-Bearing System for People with Disability,“ 2015 International Conference on Rehabilitation Robotics (ICORR), Aug",
+      "year": 2015,
+      "citation_raw": "Daegeun Park, Inwook Koo, and Kyu-Jin Cho, “Evaluation of an Improved Soft Meal Assistive Exoskeleton with an Adjustable Weight-Bearing System for People with Disability,“ 2015 International Conference on Rehabilitation Robotics (ICORR), Aug. 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Feasibility study of a slack prevention actuator for actuating tendon-driven soft wearable robot without pretension",
+      "year": 2014,
+      "citation_raw": "Hyunki In, Heamin Lee, Useok Jeong, Brian Byunhyun Kang, and Kyu-Jin Cho, “Feasibility study of a slack prevention actuator for actuating tendon-driven soft wearable robot without pretension,” Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), 2015. Daegeun Park, Inwook Koo, and Kyu-Jin Cho, “Evaluation of an Improved Soft Meal Assistive Exoskeleton with an Adjustable Weight-Bearing System for People with Disability,“ 2015 International Conference on Rehabilitation Robotics (ICORR), Aug. 2015. Jong-Gu Lee, Junghyun Ryu, Seung-Won Kim, Kyu-Jin Cho, Maenghyo Cho, “Evaluation of initial curvature effect on the snap-through load of bi-stable composites“, SCITECH 2014, AIAA, Jan. 2014, National Harbor, MD, USA.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Development of A Meal Assistive Exoskeleton made of Soft Materials for Polymyositis patients",
+      "year": 2014,
+      "citation_raw": "Inwook Koo, Changho Yun, Mateus V. O. Costa, João V. F. scognamiglio, Teodoro A. Yangali, Daegeun Park and Kyu-Jin Cho, “Development of A Meal Assistive Exoskeleton made of Soft Materials for Polymyositis patients,” Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS), pp. 542-547, 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Role of Compliant Leg in Flea-inspired Jumping Robot",
+      "year": 2014,
+      "citation_raw": "Gwang-Pil Jung, Je-Sung Koh, Ji-Suk Kim, Sun-Pil Jung, and Kyu-Jin Cho, “Role of Compliant Leg in Flea-inspired Jumping Robot,” Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS), 2014. [PDF]",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Development of an Insect Size Micro Jumping Robot",
+      "year": 2014,
+      "citation_raw": "J.-S. Koh and K. Cho, “Development of an Insect Size Micro Jumping Robot”, in Biomimetic and Biohybrid Systems (Living Machines 2014), Springer International Publishing, 2014, pp 405–407.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Toward a Solution to the Snapping Problem in a Concentric-Tube Continuum Robot: Grooved Tubes with Anisotropy",
+      "year": 2014,
+      "citation_raw": "Ji-Suk Kim, Dae-Young Lee, Keri Kim, Sungchul Kang, and Kyu-Jin Cho, “Toward a Solution to the Snapping Problem in a Concentric-Tube Continuum Robot: Grooved Tubes with Anisotropy,” Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), pp. 5871-5876, 2014",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Fabrication of Origami Wheel using Pattern EmbeddedFabric and its Application to a Deformable Mobile Robot",
+      "year": 2014,
+      "citation_raw": "Dae-Young Lee, Ji-Suk Kim, Jae-Jun Park, Sa-Reum Kim and Kyu-Jin Cho, “Fabrication of Origami Wheel using Pattern EmbeddedFabric and its Application to a Deformable Mobile Robot,” Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), p. 2565, 2014",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "“Development of 3D Printed Tendon Anchor for Force Transmission in Wearable Knee Exoskeleton“",
+      "year": 2014,
+      "citation_raw": "Brian Byunghyun Kang, Woojin Park, and Kyu-jin Cho, “Development of 3D Printed Tendon Anchor for Force Transmission in Wearable Knee Exoskeleton“, 1st International Conference on Progress in Additive Manufacturing (Pro-AM), 2014",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Toward a soft wearable knee extensor to assist physically weak people",
+      "year": 2014,
+      "citation_raw": "Hyunki In, Daeguen Park, Haemin Lee, Sangyeop Lee, Inwook Koo, Brian Byunghyun Kang, Kyu-Jin Cho, \"Toward a soft wearable knee extensor to assist physically weak people,\" 2014 IEEE International Conference on Robotics and Automation (ICRA 2014), 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Clinical trials of soft wearable robot for the hand (Exo-Glove): The case of tetraplegia (C4)",
+      "year": 2014,
+      "citation_raw": "Hyunki In, Byungchul Kim, Brian Byunghyun Kang, Kyu-Jin Cho, \"Clinical trials of soft wearable robot for the hand (Exo-Glove): The case of tetraplegia (C4),\" 2014 IEEE International Conference on Robotics and Automation (ICRA 2014), 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "“Unexpected twisting curvature generation of bistable CFRP laminate due to the uncertainty of lay-up sequence and negative initial curvature“",
+      "year": 2013,
+      "citation_raw": "Junghyun Ryu, Jong-Gu Lee, Seung-Won Kim, Jun-Young Lee, Kyu-Jin Cho , Maenghyo Cho, “Unexpected twisting curvature generation of bistable CFRP laminate due to the uncertainty of lay-up sequence and negative initial curvature“, The 19th International Conference on Composites Materials (ICCM 19), Jul. 2013, Montreal, Canada.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Deformable wheel robot based on origami structure",
+      "year": 2013,
+      "citation_raw": "Dae-Young Lee, Gwang-Pil Jung, Min-Ki. Sin, Sung-Hoon Ahn and Kyu-Jin Cho, “Deformable wheel robot based on origami structure,” Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), pp. 5592-5597, 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Wheel Transformer: A Miniaturized Terrain Adaptive Robot with Passively Transformed Wheels",
+      "year": 2013,
+      "citation_raw": "Yoo-Seok Kim, Gwang-Pil Jung, Haan Kim, Kyu-Jin Cho and Chong-Nam Chu, “Wheel Transformer: A Miniaturized Terrain Adaptive Robot with Passively Transformed Wheels” Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), pp. 5605-5610, 2013",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "The Deformable Wheel Robot using Magic-Ball Origami Structure",
+      "year": 2013,
+      "citation_raw": "Dae-Young Lee, Ji-Suk Kim, Sa-Reum Kim, Je-Sung Koh, Kyu-Jin Cho, “The Deformable Wheel Robot using Magic-Ball Origami Structure”, Proceedings of the ASME 2013 IDETC/CIE, 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Flea Inspired Catapult Mechanism with Active Energy Storage and Release for Small Scale Jumping Robot",
+      "year": 2013,
+      "citation_raw": "Jesung Koh , Sunpil Jung, Minkyun Noh, Seungwon Kim, and Kyujin Cho, “Flea Inspired Catapult Mechanism with Active Energy Storage and Release for Small Scale Jumping Robot,” Proceedings of the IEEE International Conference on Robotics and Automation(ICRA), pp. 26-31, 2013",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "The Development of a Scalable Underactuated Gripper based on Flexural Buckling",
+      "year": 2013,
+      "citation_raw": "Gwang-Pil Jung, Useok Jeong, Je-Sung Koh and Kyu- Jin Cho, “The Development of a Scalable Underactuated Gripper based on Flexural Buckling”,Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS), pp. 2077, 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "A Jumping Robotic Insect Based on a Torque Reversal Catapult Mechanism",
+      "year": 2013,
+      "citation_raw": "Je-Sung Koh, Sun-Pil Jung, Robert Wood and Kyu-Jin Cho, “A Jumping Robotic Insect Based on a Torque Reversal Catapult Mechanism”, Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS), pp. 3796-3801 , 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Mechanism of maximum thrust generation by oscillating compliant caudal-fin model in a quiescent fluid",
+      "year": 2013,
+      "citation_raw": "Hyungmin Park, Yong-Jai Park, Kyu-Jin Cho, and Haecheon Choi, “Mechanism of maximum thrust generation by oscillating compliant caudal-fin model in a quiescent fluid,” 66th Annual Meeting of the APS Division of Fluid Dynamics Volume 58, Number 18, To appear, 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Analysis of the forces on the finger joints by a joint-less wearable robotic hand, SNU Exo-Glove",
+      "year": 2012,
+      "citation_raw": "H. K. In and K. J. Cho, “Analysis of the forces on the finger joints by a joint-less wearable robotic hand, SNU Exo-Glove,” ICNR2012, Nov. 2012.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Deformable soft wheel robot using hybrid actuation",
+      "year": 2012,
+      "citation_raw": "J. Koh, D. Lee, S. Kim, K. Cho, “Deformable soft wheel robot using hybrid actuation,” the IEEE International Conference on Intelligent Robots and Systems (IROS), Oct. 2012.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Capstan Brake: Passive Brake for Tendon-Driven Mechanism",
+      "year": 2012,
+      "citation_raw": "H. K. In, S. K. Kang and K. J. Cho, “Capstan Brake: Passive Brake for Tendon-Driven Mechanism,” Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2012.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Modified Brinson model as an equivalent one-dimensional constitutive equation of SMA spring",
+      "year": 2011,
+      "citation_raw": "J. Ryu, S. Ahn, J. Koh, K. J. Cho, M. Cho, “Modified Brinson model as an equivalent one-dimensional constitutive equation of SMA spring”,in Proceedings of SPIE, Vol. 7981, pp. 79813W, Apr. 2011.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Jointless Structure and Under-Actuation Mechanism for Compact Hand Exoskeleton",
+      "year": 2011,
+      "citation_raw": "H. In, K.-J. Cho, K. Kim and B. Lee, “Jointless Structure and Under-Actuation Mechanism for Compact Hand Exoskeleton,” International conference on rehabilitation robotics (ICORR), Jun. 2011.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Design & Analysis a Flytrap Robot using Bi-stable Composite",
+      "year": 2011,
+      "citation_raw": "Seung-Won Kim, Je-Sung Koh, Maenghyo Cho and Kyu-Jin Cho, “Design & Analysis a Flytrap Robot using Bi-stable Composite”, Proceedings of the 2011 IEEE International Conference on Robotics and Automation(ICRA), May. 2011.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Endoskeletons using Composite Flexure Joint for BioMimetic Meso-scale Robot",
+      "year": 2011,
+      "citation_raw": "Je-Sung Koh and Kyu-Jin Cho, “Endoskeletons using Composite Flexure Joint for BioMimetic Meso-scale Robot”, Proceedings of the 2011 IEEE International Conference on Robotics and Automation(ICRA), May. 2011.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Meso-scale Compliant Gripper Inspired by Caterpillar’s Proleg",
+      "year": 2011,
+      "citation_raw": "Gwang-pil Jung, Je-sung Koh and Kyu-Jin Cho, “Meso-scale Compliant Gripper Inspired by Caterpillar’s Proleg” Robotics and Automation (ICRA), 2011 IEEE International Conference on Robotics and Automation (ICRA), May. 2011.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "A Miniature Jumping Robot with Flea-inspired Catapult System: Active Latch and Trigger",
+      "year": 2011,
+      "citation_raw": "M. Noh, S. Kim, K. J. Cho, “A Miniature Jumping Robot with Flea-inspired Catapult System: Active Latch and Trigger”, in Proc. International Workshop on Bio-inspired Robots, Apr. 2011.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Snap-through behavior of bi-stable composite structure using SMA spring actuator",
+      "year": 2011,
+      "citation_raw": "J. Ryu, J. Lee, M. Cho, S. W. Kim, J. S. Koh, K. J. Cho,“Snap-through behavior of bi-stable composite structure using SMA spring actuator”,in 52nd AIAA/ASME/ASCE/AMS/ASC SDM conference, Apr. 2011.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "The effect of compliant joint and caudal fin in thrust generation for robotic fish",
+      "year": 2010,
+      "citation_raw": "Yong-Jai Park, Useok Jeong, Jeongsu Lee, Ho-Young Kim and Kyu-Jin Cho, “The effect of compliant joint and caudal fin in thrust generation for robotic fish,”, Biomedical Robotics and Biomechatronics (BioRob), 2010 3rd IEEE RAS and EMBS International Conference on, pp. 528-533, Sep. 2010.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Finger-sized climbing robot using artificial proleg",
+      "year": 2010,
+      "citation_raw": "Je-Sung Koh, Sung-Min An, and Kyu-Jin Cho,“Finger-sized climbing robot using artificial proleg,”in Biomedical Robotics and Biomechatronics (BioRob), 2010 3rd IEEE RAS and EMBS International Conference on, pp. 610-615, Sep. 2010.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Omegabot: Crawling robot inspired by Ascotis Selenaria",
+      "year": 2010,
+      "citation_raw": "Je-Sung Koh and Kyu-Jin Cho, “Omegabot: Crawling robot inspired by Ascotis Selenaria,” 2010 IEEE International Conference on Robotics and Automation (ICRA), pp. 109-114, May. 2010.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "“Micro articial muscle ber using NiTi spring for soft robotics“ IEEE/RSJ IROS, St, Louis, MO, Oct",
+      "year": 2009,
+      "citation_raw": "S. Kim, E. Hawkes, K.-J. Cho, M. Jolda, J. Foley, and R.J. Wood, “Micro articial muscle ber using NiTi spring for soft robotics“ IEEE/RSJ IROS, St. Louis, MO, Oct. 2009.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Omegabot: Biomimetic Inchworm Robot using SMA coil actuator and Smart Composite Microstructures(SCM)",
+      "year": 2009,
+      "citation_raw": "Je-Sung Koh and Kyu-Jin Cho, “Omegabot: Biomimetic Inchworm Robot using SMA coil actuator and Smart Composite Microstructures(SCM)”, Proceedings of the 2009 IEEE International Conference on Robotics and Biomimetics(RoBio 2009), pp. 1154-1159, Dec. 2009.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Towards a biologically inspired small-scale water jumping robot",
+      "year": 2008,
+      "citation_raw": "B. Shin, H. Y. Kim and K. J. Cho, “Towards a biologically inspired small-scale water jumping robot,” in Biomedical Robotics and Biomechatronics, 2008. BioRob 2008. 2nd IEEE RAS & EMBS International Conference on (BioRob), pp. 127–131, 2008",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Design, fabrication and analysis of a body-caudal fin propulsion system for a microrobotic fish",
+      "year": 2008,
+      "citation_raw": "Kyu-Jin Cho, E. Hawkes, C. Quinn, and R. Wood, “Design, fabrication and analysis of a body-caudal fin propulsion system for a microrobotic fish,” Robotics and Automation, 2008. (ICRA) 2008. IEEE International Conference on, pp. 706-711, 2008.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "SBC Hand: A Lightweight Robotic Hand with an SMA actuator Array implementing C-segmentation",
+      "year": 2007,
+      "citation_raw": "K. J. Cho, J. Rosmarin and H. Asada, “SBC Hand: A Lightweight Robotic Hand with an SMA actuator Array implementing C-segmentation,” IEEE International Conference on Robotics and Automation (ICRA), pp. 921–926, 2007.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Design of vast DOF artificial muscle actuators with a cellular array structure and its application to a five-fingered robotic hand",
+      "year": 2006,
+      "citation_raw": "K. Cho, J. Rosemarin, and H. Asada, “Design of vast DOF artificial muscle actuators with a cellular array structure and its application to a five-fingered robotic hand,” Proceedings – IEEE International Conference on Robotics and Automation (ICRA), pp. 2214-2219, 2006.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Multi-Segment State Coordination for Reducing Latency Time of Shape Memory Alloy Actuator Systems",
+      "year": 2005,
+      "citation_raw": "B. Selden, Kyu-Jin Cho, and H. Asada, “Multi-Segment State Coordination for Reducing Latency Time of Shape Memory Alloy Actuator Systems,” Proceedings of the 2005 IEEE International Conference on Robotics and Automation (ICRA), pp. 1350-1355, 2005.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Multi-Axis SMA Actuator Array for Driving Anthropomorphic Robot Hand",
+      "year": 2005,
+      "citation_raw": "Kyu-Jin Cho and H. Asada, “Multi-Axis SMA Actuator Array for Driving Anthropomorphic Robot Hand,” Robotics and Automation, 2005. ICRA 2005. Proceedings of the 2005 IEEE International Conference on, pp. 1356-1361, 2005.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Segmentation theory for design of a multi-axis actuator array using segmented binary control",
+      "year": 2005,
+      "citation_raw": "K. Cho and H.H. Asada, “Segmentation theory for design of a multi-axis actuator array using segmented binary control,”Proceedings of the American Control Conference, pp. 1969, 2005.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Segmented binary control of shape memory alloy actuator systems using the Peltier effect",
+      "year": 2004,
+      "citation_raw": "B. Selden, Kyu-Jin Cho, and H. Asada, “Segmented binary control of shape memory alloy actuator systems using the Peltier effect,” Robotics and Automation, 2004. Proceedings. ICRA ’04. 2004 IEEE International Conference on, Vol. 5, pp. 4931-4936, 2004.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Segmentation architecture of multi-axis SMA array actuators inspired by biological muscles",
+      "year": 2004,
+      "citation_raw": "Kyu-Jin Cho and H. Asada, “Segmentation architecture of multi-axis SMA array actuators inspired by biological muscles,” Intelligent Robots and Systems, 2004. (IROS 2004). Proceedings. 2004 IEEE/RSJ International Conference on, Vol. 1, pp. 254-259, 2004.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "A vast DOF robotic car seat using SMA actuators with a matrix drive system",
+      "year": 2004,
+      "citation_raw": "K. Cho, B. Roy, S. Mascaro, and H. Asada, “A vast DOF robotic car seat using SMA actuators with a matrix drive system,” Proceedings – IEEE International Conference on Robotics and Automation, pp. 3647-3652, 2004.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "A recursive frequency tracking method for passive telemetry sensors",
+      "year": 2003,
+      "citation_raw": "Kyu Jin Cho and H. Asada, “A recursive frequency tracking method for passive telemetry sensors,” American Control Conference, 2003. Proceedings of the 2003, Vol. 6, pp. 4943-4948, 2003.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Design and control of vast DOF wet SMA array actuators",
+      "year": 2003,
+      "citation_raw": "S. Mascaro, Kyu-Jin Cho, and H. Asada, “Design and control of vast DOF wet SMA array actuators,” Intelligent Robots and Systems, 2003. (IROS 2003). Proceedings. 2003 IEEE/RSJ International Conference on, Vol. 2, pp. 1992-1997, 2003.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Large-scale servo control using a matrix wire network for driving a large number of actuators",
+      "year": 2003,
+      "citation_raw": "Kyu-Jin Cho, S. Au, and H. Asada, “Large-scale servo control using a matrix wire network for driving a large number of actuators,”Robotics and Automation, 2003. Proceedings. ICRA ’03. IEEE International Conference on, Vol. 1, pp. 646-651, 2003.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "Wireless, battery-less stethoscope for wearable health monitoring",
+      "year": 2002,
+      "citation_raw": "K. J. Cho and H. H. Asada, “Wireless, battery-less stethoscope for wearable health monitoring,” in Bioengineering Conference, 2002. Proceedings of the IEEE 28th Annual Northeast, pp. 187–188, 2002.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/refereec-conference-papers"
+    },
+    {
+      "title": "A Compact Mechanical Safety Mechanism for Tendon Transmission based on Magnets and Capstan Brake",
+      "year": 2021,
+      "citation_raw": "Hyungmin Choi and Kyu-Jin Cho, \"A Compact Mechanical Safety Mechanism for Tendon Transmission based on Magnets and Capstan Brake,\" 21st International Conference on Control, Automation and Systems (ICCAS 2021), 2021.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Data-Driven Inverse Kinematics for Human Hand",
+      "year": 2021,
+      "citation_raw": "Kyu Bum Kim, Byungchul Kim, and Kyu-Jin Cho, \"Data-Driven Inverse Kinematics for Human Hand,\" 21st International Conference on Control, Automation and Systems (ICCAS 2021), 2021.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Towards Tendon-based Integrated Tracking and Constraining System for a Soft Teleoperation Glove with Haptic-Feedback Capability",
+      "year": 2021,
+      "citation_raw": "Sangheui Cheon, Sunwoo Hwang, Jungmin Ahn, and Kyu-Jin Cho, \"Towards Tendon-based Integrated Tracking and Constraining System for a Soft Teleoperation Glove with Haptic-Feedback Capability,\" 21st International Conference on Control, Automation and Systems (ICCAS 2021), 2021.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Tendon connector for soft wearable tendon driven robot",
+      "year": 2019,
+      "citation_raw": "Hyungmin Choi, Brian Byunghyun Kang, Kyu Bum Kim, Byungchul Kim, SangHeui Cheon, and Kyu-Jin Cho, \"Tendon connector for soft wearable tendon driven robot,\" 19th International Conference on Control, Automation and Systems (ICCAS 2019), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Exo-Glove Power: A Soft Wearable Hand Robot for Power Grasp Enhancement",
+      "year": 2019,
+      "citation_raw": "SangHeui Cheon, Brian Byunghyun Kang, Byungchul Kim, Hyungmin Choi, Kyu Bum Kim, and Kyu-Jin Cho, \"Exo-Glove Power: A Soft Wearable Hand Robot for Power Grasp Enhancement,\" 19th International Conference on Control, Automation and Systems (ICCAS 2019), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Wrist tendon anchor for soft wearable robot",
+      "year": 2019,
+      "citation_raw": "Byungchul Kim, Brian Byunghyun Kang, SangHeui Cheon, Hyungmin Choi, Kyu Bum Kim, and Kyu-Jin Cho, \"Wrist tendon anchor for soft wearable robot,\" 19th International Conference on Control, Automation and Systems (ICCAS 2019), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Thumb Actuation for Shaping Various Grasping Postures",
+      "year": 2019,
+      "citation_raw": "Kyu Bum Kim, Brian Byunghyun Kang, Byungchul Kim, SangHeui Cheon, Hyungmin Choi, and Kyu-Jin Cho, \"Thumb Actuation for Shaping Various Grasping Postures,\" 19th International Conference on Control, Automation and Systems (ICCAS 2019), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "A Jumping Robot Capable of Steering, Adjusting the Take-off Angle, Self-righting and its Obstacle Detection Method",
+      "year": 2019,
+      "citation_raw": "Sojung Yim, SangMin Baek, GwangPil Jung, and Kyu-Jin Cho, \"A Jumping Robot Capable of Steering, Adjusting the Take-off Angle, Self-righting and its Obstacle Detection Method,\" The 12th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS 2019) and the first workshop on Robot Control (WROCO 2019), 2019.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Teflon Tubes Selection based on Friction Tests for Exo-Glove Poly",
+      "year": 2018,
+      "citation_raw": "Brian Byunghyun Kang, Hyungmin Choi, and Kyu-Jin Cho, \"Teflon Tubes Selection based on Friction Tests for Exo-Glove Poly,\" 18th International Conference on Control, Automation and Systems (ICCAS 2018), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Plane Thimble for Adaptive and Sensor Embeddable Design for Exo-Glove Poly",
+      "year": 2018,
+      "citation_raw": "Hyungmin Choi, Brian Byunghyun Kang, Kyu-Jin Cho, \"Plane Thimble for Adaptive and Sensor Embeddable Design for Exo-Glove Poly,\" 18th International Conference on Control, Automation and Systems (ICCAS 2018), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Modeling of the relationship between wire tension and joint torque for force control of tendon driven hand assist wearable robots",
+      "year": 2018,
+      "citation_raw": "Byungchul Kim and Kyu-Jin Cho, \"Modeling of the relationship between wire tension and joint torque for force control of tendon driven hand assist wearable robots,\" 18th International Conference on Control, Automation and Systems (ICCAS 2018), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Development of Foldable Glider for Multi-modal Robot",
+      "year": 2018,
+      "citation_raw": "Sang-Min Baek, Dae-Young Lee, and Kyu-Jin Cho, \"Development of Foldable Glider for Multi-modal Robot,\" The 14th International Conference on Intelligent Unmanned Systems (ICIUS), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Development of a Multifunctional Jumping Robot for Exploration",
+      "year": 2018,
+      "citation_raw": "Sojung Yim, Sang-Min Baek, Gwang-Pil Jung, and Kyu-Jin Cho, \"Development of a Multifunctional Jumping Robot for Exploration,\" The 14th International Conference on Intelligent Unmanned Systems (ICIUS), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "An adaptive leg structure for a meso-scale crawler",
+      "year": 2018,
+      "citation_raw": "Jong-Eun Lee, Gwang-Pil Jung, Sang-Min Baek and Kyu-Jin Cho, \"An adaptive leg structure for a meso-scale crawler,\" The 14th International Conference on Intelligent Unmanned Systems (ICIUS), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Material Selection of Anchor Parts for Tendon-Driven 3d Printed Soft Gripper",
+      "year": 2018,
+      "citation_raw": "Woong-Bae Kim, Jun-Young Lee, Woo-Young Choi and Kyu-Jin Cho, \"Material Selection of Anchor Parts for Tendon-Driven 3d Printed Soft Gripper,\" The 1st Emerging Technologies in Mechanical Engineering (ETME 2018), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Design Methodologies for Tendon Driven Soft Gripper",
+      "year": 2018,
+      "citation_raw": "Jaemin Eom, Woo-Young Choi, Woongbae Kim, Jae-Ryeong Choi and Kyu-Jin Cho, \"Design Methodologies for Tendon Driven Soft Gripper,\" The 1st Emerging Technologies in Mechanical Engineering (ETME 2018), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Development of a Tendon-driven Wrist Wearable Robot moving in Coupled Direction of the Wrist",
+      "year": 2018,
+      "citation_raw": "Hyungmin Choi, Brian Byunghyun Kang, Kyu-Jin Cho, \"Development of a Tendon-driven Wrist Wearable Robot moving in Coupled Direction of the Wrist,\" International Conference on Ubiquitous Robots and Ambient Intelligence,\" 15th International Conference on Ubiquitous Robots (Ubiquitous Robots 2018), 2018.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Development of a Tendon-driven Wrist Wearable Robot moving in Coupled Direction of the Wrist",
+      "year": 2017,
+      "citation_raw": "Hyungmin Choi, Brian Byunghyun Kang, Kyu-Jin Cho, \"Development of a Tendon-driven Wrist Wearable Robot moving in Coupled Direction of the Wrist,\" International Conference on Ubiquitous Robots and Ambient Intelligence,\" 15th International Conference on Ubiquitous Robots (Ubiquitous Robots 2018), 2018. Jun-Young Lee, Kyu-Jin Cho, ”Development of Magnet Connection of Modular Units for Soft Robotics”, International Conference on Ubiquitous Robots and Ambient Intelligence(URAI 2017), 2017.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Design of wearable orthopedic devices for treating forward head postures using pneumatic artificial muscles and flex sensors",
+      "year": 2017,
+      "citation_raw": "Hojoong Kim, Hyuntai Park, Wonhee Lee, Jongwoo Kim, Yong-Lae Park, “Design of wearable orthopedic devices for treating forward head postures using pneumatic artificial muscles and flex sensors,” International Conference on Ubiquitous Robots and Ambient Intelligence(URAI), pp. 809-814, 2017.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Deployable Glider Module for Jump-Gliding Robot",
+      "year": 2017,
+      "citation_raw": "Sang-Min Baek, Dae-Young Lee, Kyu-Jin Cho, \"Deployable Glider Module for Jump-Gliding Robot,\" 17th International Conference on Control, Automation and Systems (ICCAS 2017), 2017.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "A Study on the Effects of Negative Power Assistance on Walking Efficiency Using an Ankle Exoskeleton",
+      "year": 2017,
+      "citation_raw": "Christian W. Bundschu, Kyujin Cho, \"A Study on the Effects of Negative Power Assistance on Walking Efficiency Using an Ankle Exoskeleton,\" 17th International Conference on Control, Automation and Systems (ICCAS 2017), 2017.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Deployable Glider Module for Jump-Gliding Robot",
+      "year": 2016,
+      "citation_raw": "Sang-Min Baek, Dae-Young Lee, Kyu-Jin Cho, \"Deployable Glider Module for Jump-Gliding Robot,\" 17th International Conference on Control, Automation and Systems (ICCAS 2017), 2017. Christian W. Bundschu, Kyujin Cho, \"A Study on the Effects of Negative Power Assistance on Walking Efficiency Using an Ankle Exoskeleton,\" 17th International Conference on Control, Automation and Systems (ICCAS 2017), 2017. Brian Byunghyun Kang, Haemin Lee, Kyu-Jin Cho, ”Development of Passive Thumb Structure for Polymer-based Tendon-driven Wearable Robotic hand”, International Conference on Ubiquitous Robots and Ambient Intelligence(URAI 2016), 2016.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Development of a Physical 3-Dimensional Dot Module System Composed of Self-Folding Origami Modules",
+      "year": 2016,
+      "citation_raw": "Sa-Reum Kim, Dae-Young Lee, Je-Sung Koh, and Kyujin Cho, “Development of a Physical 3-Dimensional Dot Module System Composed of Self-Folding Origami Modules”, 2016 16th International Conference on Control, Automation and Systems (ICCAS 2016) Oct. 16-19, 2016 in HICO, Gyeongju, Korea",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Substitution Strategy of the Rolling Contact Joints Kinematics for the Robotic Applications",
+      "year": 2016,
+      "citation_raw": "Sang-Hun Kim and Kyu-Jin Cho, “Substitution Strategy of the Rolling Contact Joints Kinematics for the Robotic Applications”, 2016 16th International Conference on Control, Automation and Systems (ICCAS 2016) Oct. 16-19, 2016 in HICO, Gyeongju, Korea",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Development of Soft Continuum Manipulator with Pneumatic and Tendon Driven Actuations",
+      "year": 2016,
+      "citation_raw": "Jun-Young Lee, Eun-Yeong Go, Woo-Young Choi, Woong-Bae Kim and Kyu-Jin Cho, “Development of Soft Continuum Manipulator with Pneumatic and Tendon Driven Actuations,” International Conference on Ubiquitous Robots and Ambient Intelligence(URAI 2016), 2016.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Insect-Inspired Milli-Scale Multi-Modal Robot",
+      "year": 2016,
+      "citation_raw": "Gwang-Pil Jung, and Kyu-Jin Cho, “Insect-Inspired Milli-Scale Multi-Modal Robot”, International Symposium on Nature-Inspired Technology(ISNIT 2016), 2016.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Foldable Gliding Wing Module for Jump-Gliding",
+      "year": 2016,
+      "citation_raw": "Sang-Min Baek, Dae-Young Lee, and Kyu-Jin Cho, “Foldable Gliding Wing Module for Jump-Gliding”, International Symposium on Nature-Inspired Technology(ISNIT 2016), 2016.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Investigation of design parameters of slack enabling actuator",
+      "year": 2015,
+      "citation_raw": "Hyunki In, Haemin Lee, Useok Jeong, Brian Byunghyun Kang, and Kyu-Jin Cho, “Investigation of design parameters of slack enabling actuator,” The 12th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2015), pp.184-185, 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Bio-mimetic bi-stable structure with polymer",
+      "year": 2015,
+      "citation_raw": "Jun-Young Lee, Seung-Won Kim, Kyu-Jin Cho, “Bio-mimetic bi-stable structure with polymer,” International Symposium on Green Manufacturing and Applications (ISGMA), 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "A Variable Stiffness Origami Tube Towards Medical Applications",
+      "year": 2015,
+      "citation_raw": "Jongwoo Kim, Daeyoung Lee, Kyu-Jin Cho, “A Variable Stiffness Origami Tube Towards Medical Applications,” International Symposium on Green Manufacturing and Applications (ISGMA), 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Control Strategy of Slack Enabling Tendon Actuator for the Soft Wearable Robot using Feedback Linearization",
+      "year": 2015,
+      "citation_raw": "Useok Jeong, Haemin Lee, Hyunki In, and Kyu-Jin Cho, “Control Strategy of Slack Enabling Tendon Actuator for the Soft Wearable Robot using Feedback Linearization,” 2015 15th International Conference on Control, Automation and Systems (ICCAS), Oct. 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Design and Simulation of the Adjustable Weight bearing system to adjust the torque change by the distal joint on 2DOF body limb",
+      "year": 2015,
+      "citation_raw": "Daegeun Park and Kyu-Jin Cho, “Design and Simulation of the Adjustable Weight bearing system to adjust the torque change by the distal joint on 2DOF body limb,” IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Jul. 2015.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Wearable Passive Arm Weight Bearing Device to assist people with disability using Permanent Magnets",
+      "year": 2014,
+      "citation_raw": "Daegeun Park, Dae-Young Lee, Hyunki In, and Kyu-Jin Cho, “Wearable Passive Arm Weight Bearing Device to assist people with disability using Permanent Magnets,” International Workshop on Wearable Robotics, Sep. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Simple modeling of Respiratory Rehabilitation and Assistance Robot",
+      "year": 2014,
+      "citation_raw": "Sang-Yoep Lee, Brian Byunghyun Kang, and Kyu-jin Cho, “Simple modeling of Respiratory Rehabilitation and Assistance Robot, ” International BioMedical Engineering Conference (IBEC), Nov. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "The analysis on LT SMA wire actuators for medical devices",
+      "year": 2014,
+      "citation_raw": "Jongwoo Kim, Jesung Koh, and Kyu-Jin Cho, “The analysis on LT SMA wire actuators for medical devices ,” International BioMedical Engineering Conference (IBEC), Nov. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Strap driven system for hand soft exoskeleton",
+      "year": 2014,
+      "citation_raw": "Byungchul Kim, Hyunki In, and Kyu-Jin Cho, “Strap driven system for hand soft exoskeleton,” International BioMedical Engineering Conference (IBEC), Nov. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "“The improvement of the design of slack prevention mechanism for soft wearable robot“",
+      "year": 2014,
+      "citation_raw": "Haemin Lee, Hyunki In, Brian Byunghyun Kang, Useok Jeong, and Kyu-Jin Cho, “The improvement of the design of slack prevention mechanism for soft wearable robot“, International BioMedical Engineering Conference (IBEC), Nov. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Novel Mechanism of Bending-type Pneumatic Artificial Muscle with Soft Joint",
+      "year": 2014,
+      "citation_raw": "Inwook Koo, Brian Byunghyun Kang, and Kyu-Jin Cho, “Novel Mechanism of Bending-type Pneumatic Artificial Muscle with Soft Joint,”, International BioMedical Engineering Conference (IBEC), Nov. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Sensorless Admittance Control of Cycle Ergometer for Rehabilitation",
+      "year": 2014,
+      "citation_raw": "Useok Jeong, Daegeun Park, and Kyu-Jin Cho, “Sensorless Admittance Control of Cycle Ergometer for Rehabilitation,” 2014 14th International Conference on Control, Automation and Systems (ICCAS), Oct. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Embedded System Development of a Grasping Assistive Device, Exo-Glove",
+      "year": 2014,
+      "citation_raw": "Useok Jeong, Hyunki In, Sangyoep Lee, Joonmyeong Choi, and Kyu-Jin Cho, “Embedded System Development of a Grasping Assistive Device, Exo-Glove,” International BioMedical Engineering Conference (IBEC), Nov. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Control of wearable robotic hand via wrist angle using flexible bending sensor",
+      "year": 2014,
+      "citation_raw": "Hyunki In, and Kyu-Jin Cho, “Control of wearable robotic hand via wrist angle using flexible bending sensor,” International BioMedical Engineering Conference (IBEC), Nov. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Force Estimation of MCP Joint Using Deformation Model in Soft Wearable Robotic Hand",
+      "year": 2014,
+      "citation_raw": "Brian Byunghyun Kang, Hyunki In, and Kyu-Jin Cho, “Force Estimation of MCP Joint Using Deformation Model in Soft Wearable Robotic Hand ,” International BioMedical Engineering Conference(IBEC), Nov. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "“Manufacturing process of soft wearable robot hand“",
+      "year": 2014,
+      "citation_raw": "Brian Byunghyun Kang, Hyunki In, Haemin Lee, Kyu-Jin Cho, “Manufacturing process of soft wearable robot hand“, International Conference of Manufacturing Technology Engineers(ICMTE), Sep. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "“Preliminary study for a soft wearable knee extensor to assist physically weak people“",
+      "year": 2014,
+      "citation_raw": "Daegeun Park, Hyunki In, Haemin Lee, Sangyeop Lee, Inwook Koo, Brian Byunghyun Kang, Keunyoung Park, Woo Sok Chang, and Kyu-Jin Cho, “Preliminary study for a soft wearable knee extensor to assist physically weak people“, The 11th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI), Nov. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Design of Compliant Origami Structure for Deformable Wheel Mechanism",
+      "year": 2014,
+      "citation_raw": "Dae-Young Lee and Kyu-Jin Cho, “Design of Compliant Origami Structure for Deformable Wheel Mechanism,” International Symposium on Green Manufacturing and Applications (ISGMA), Jun. 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Development of 3D Printed Tendon Anchor for Force Transmission in Wearable Knee Exoskeleton",
+      "year": 2014,
+      "citation_raw": "Brian Byunghyun Kang, Kyu-Jin Cho, \"Development of 3D Printed Tendon Anchor for Force Transmission in Wearable Knee Exoskeleton,\" 1st International Conference on Progress in Additive Manufacturing (Pro-AM 2014), 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Initial clinical trial of the Exo-Glove, a soft wearable robot for the hand: the case of tetraplegia (C4)",
+      "year": 2014,
+      "citation_raw": "H.In, U.Jeong, B.B.Kang, B.Kim, K.-J. Cho, \"Initial clinical trial of the Exo-Glove, a soft wearable robot for the hand: the case of tetraplegia (C4),\" HBT2014(Hand, Brain and Technology, 2014), 2014.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "“A study on the design guideline of SMA spring with the initial curvature added bi-stable composite“",
+      "year": 2013,
+      "citation_raw": "Jong-Gu Lee, Junghyun Ryu, Seung-Won Kim, Kyu-Jin Cho, Maenghyo Cho, “A study on the design guideline of SMA spring with the initial curvature added bi-stable composite“, International Conference on Advances in Interaction & Multiscale Mechanics (AIMM’13), Sept. 2013, Jeju, Korea.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Mechanical Characteristic Tuning of Nitinol Tube using Laser Patterning",
+      "year": 2013,
+      "citation_raw": "Dae-Young Lee, Ji-Suk Kim, Keri Kim, Sungchul Kang and Kyu-Jin cho, “Mechanical Characteristic Tuning of Nitinol Tube using Laser Patterning,” 2013 13th International Conference on Control, Automation and Systems (ICCAS), Oct. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Fabrication of Origami Structure using Pattern Enclosed Composite",
+      "year": 2013,
+      "citation_raw": "Dae-Young Lee, Sa-reum Kim, Ji-Suk Kim, Jae-Jun Park and Kyu-Jin Cho, “Fabrication of Origami Structure using Pattern Enclosed Composite,” 2013 13th International Conference on Control, Automation and Systems (ICCAS), Oct. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Design of Deformable-Wheeled Robot Based on Origami Structure with Shape Memory Alloy Coil Spring",
+      "year": 2013,
+      "citation_raw": "Dae-Young Lee, Ji-Suk Kim, Sa-Reum Kim, Jae-Jun Park and Kyu-Jin Cho, “Design of Deformable-Wheeled Robot Based on Origami Structure with Shape Memory Alloy Coil Spring,” The 10th International Conference on Ubiquitous robots and Ambient Intelligence (URAI), Oct. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "“Design of a Wrist-Elbow Coupled Mechanism for a Wearable Robot“",
+      "year": 2013,
+      "citation_raw": "Daegeun Park and Kyu-Jin Cho, “Design of a Wrist-Elbow Coupled Mechanism for a Wearable Robot“, 2013 13th International Conference on Control, Automation and Systems (ICCAS), Oct. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Stabilizing the Head Motion of a Robotic Dolphin with Varying the Stiffness of a Caudal fin",
+      "year": 2013,
+      "citation_raw": "Yong-Jai Park, and Kyu-Jin Cho, “Stabilizing the Head Motion of a Robotic Dolphin with Varying the Stiffness of a Caudal fin,”2013 13th International Conference on Control, Automation and Systems (ICCAS), Oct. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "“Intercontinental Bilateral Teleoperation Applied to Remote Elbow Assessment of Patients Post Stroke“",
+      "year": 2013,
+      "citation_raw": "Jonghyun Kim, Minki Shin, Yusun Min, Kyujin Cho, Nam-Jong Paik, and Hyung-Soon Park, “Intercontinental Bilateral Teleoperation Applied to Remote Elbow Assessment of Patients Post Stroke“, 2013 13th International Conference on Control, Automation and Systems (ICCAS), Oct. 2013",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Design and Manufacturing a Bio-inspired Variable Stiffness mechanism in a Robotic Dolphin",
+      "year": 2013,
+      "citation_raw": "Yong-Jai Park, and Kyu-Jin Cho, “Design and Manufacturing a Bio-inspired Variable Stiffness mechanism in a Robotic Dolphin,” 6th International Conference on Intelligent Robotics and Application (ICIRA), Sep. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "“Soft robotic grippers inspired by the flytrap and the proleg of an inchworm“",
+      "year": 2013,
+      "citation_raw": "Kyu-Jin Cho, “Soft robotic grippers inspired by the flytrap and the proleg of an inchworm“, International Workshop on Soft Robotics and Morphological Computation, 2013",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Design and Manufacturing a Robotic Dolphin to increase dynamicperformance",
+      "year": 2013,
+      "citation_raw": "Yong-Jai Park, Daegeun Park, and Kyu-Jin Cho, “Design and Manufacturing a Robotic Dolphin to increase dynamicperformance,” The 10th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI), 2013",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Modeling of tendon driven soft wearable robot for the finger",
+      "year": 2013,
+      "citation_raw": "Brian Byunghyun Kang, Hyunki In, and Kyu-jin Cho, “Modeling of tendon driven soft wearable robot for the finger,” The 10th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI), 2013",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Towards a Bistable Morphing Winglet for Unmanned Aerial Vehicle(UAV)",
+      "year": 2013,
+      "citation_raw": "Seung-Won Kim, Jun-Young Lee and Kyu-Jin Cho, “Towards a Bistable Morphing Winglet for Unmanned Aerial Vehicle(UAV),” The 44th International Symposium on Robotics (ISR), Oct. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Concept of variable transmission for tendon driven mechanism",
+      "year": 2013,
+      "citation_raw": "Hyunki In, and Kyu-Jin Cho, “Concept of variable transmission for tendon driven mechanism,” The 10th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2013), pp. 15-16, 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Venus Flytrap Inspired Bistable Morphing Winglet",
+      "year": 2013,
+      "citation_raw": "Jun-Young Lee, Seung-Won Kim, Kyu-Jin Cho, “Venus Flytrap Inspired Bistable Morphing Winglet,” The 7th World Congress on Biomimetics, Artificial Muscles and Nano-Bio (BAMN2013)",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "The Effect of a Bio-inspired Variable Stiffness Mechanism in a Robotic Fish",
+      "year": 2013,
+      "citation_raw": "Yong-Jai Park, and Kyu-Jin Cho, “The Effect of a Bio-inspired Variable Stiffness Mechanism in a Robotic Fish,” International Symposium on Green Manufacturing and Applications (ISGMA), Jun. 2013.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Instability of principle curvature direction of unsymmetric cross-ply laminate due to",
+      "year": 2012,
+      "citation_raw": "Junghyun Ryu, Jong-Gu Lee, Seung-Won Kim, Je-sung Koh , Kyu-Jin Cho , Maenghyo Cho, “Instability of principle curvature direction of unsymmetric cross-ply laminate due to”, 2nd International Conference on Computational Design in Engineering (CODE 2012), Computational Structural Engineering Institute of Korea, Nov. 2012, Jeju, Korea.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Analysis of the critical moment triggering off snap-through of bi-stable composite with initial curvature",
+      "year": 2012,
+      "citation_raw": "Jong-Gu Lee, Junghyun Ryu, Seung-Won Kim, Kyu-Jin Cho , Maenghyo Cho, “Analysis of the critical moment triggering off snap-through of bi-stable composite with initial curvature”, 2nd International Conference on Computational Design in Engineering (CODE 2012, Computational Structural Engineering Institute of Korea, Nov. 2012, Jeju, Korea.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Analysis of an energy efficient variable stiffness structure inspired by a vertebral column",
+      "year": 2012,
+      "citation_raw": "Tae Myung Huh, Yong-Jai Park, and Kyu-Jin Cho, “Analysis of an energy efficient variable stiffness structure inspired by a vertebral column”, International Symposium on Green Manufacturing and Applications (ISGMA), 2012.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Force Transmission in Joint-less Tendon Driven Wearable Robotic Hand",
+      "year": 2012,
+      "citation_raw": "Brian Byunghyun Kang, HyunKi In and Kyu-Jin Cho, “Force Transmission in Joint-less Tendon Driven Wearable Robotic Hand”, The 12th International Conference on Control, Automation and Systems (ICCAS), 2012.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Comparison and evaluation of robotic strength rehabilitation algorithms: Isokinetic, isotonic and shared control method",
+      "year": 2011,
+      "citation_raw": "M. K. Sin, D. G. Park, K. J. Cho, “Comparison and evaluation of robotic strength rehabilitation algorithms: Isokinetic, isotonic and shared control method”, in Advanced Mechatronic Systems (ICAMechS), 2011 International Conference on, pp. 438–441, Aug. 2011.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Active morphing robot inspired by the pre-strained fiber structure of the Venus flytrap",
+      "year": 2011,
+      "citation_raw": "S. W. Kim, K. J. Cho, others, “Active morphing robot inspired by the pre-strained fiber structure of the Venus flytrap”, in Ubiquitous Robots and Ambient Intelligence (URAI), 2011 8th International Conference on, p. 876–876, 2011.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Biologically inspired robots using Smart Composite Microstructures",
+      "year": 2011,
+      "citation_raw": "J. Koh, S. Kim, M. Noh, K. Cho, “Biologically inspired robots using Smart Composite Microstructures”, in Ubiquitous Robots and Ambient Intelligence (URAI), 2011 8th International Conference on, p. 871–871, 2011.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Investigation of Friction Characteristics of a Tendon Driven Wearable Robotic Hand",
+      "year": 2010,
+      "citation_raw": "HyunKi In, Donsuk Lee and Kyu-Jin Cho, “Investigation of Friction Characteristics of a Tendon Driven Wearable Robotic Hand,” International Conference on control, Automation and Systems (ICCAS), 2010.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Bio-mimetic flytrap robot: sensing & trapping",
+      "year": 2010,
+      "citation_raw": "Seung-Won Kim, Je-Sung Koh and Kyu-Jin Cho, “Bio-mimetic flytrap robot: sensing & trapping”, INTERNATIONAL SYMPOSIUM ON NATURE-INSPIRED TECHNOLOGY (ISNIT 2010), 2010.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Thrust improvement of robotic fish using caudal fin with holes or notched fin in different sizes and positions",
+      "year": 2010,
+      "citation_raw": "Yong-Jai Park, Useok Jeong and Kyu-Jin Cho, “Thrust improvement of robotic fish using caudal fin with holes or notched fin in different sizes and positions”, INTERNATIONAL SYMPOSIUM ON NATURE-INSPIRED TECHNOLOGY (ISNIT 2010), 2010.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Toward foldable robot actuated by SMA torsional spring actuator",
+      "year": 2010,
+      "citation_raw": "Je-Sung Koh, Jung-hoon Lim and Kyu-Jin Cho, “Toward foldable robot actuated by SMA torsional spring actuator”, The 7th International Conference on Ubiquitous Robots and Ambient Intelligence(URAI 2010)",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "“Design and fabrication of Inchworm Robot using Smart Composite Microstructures(SCM)“",
+      "year": 2009,
+      "citation_raw": "Jesung Koh, Kyujin Cho, “Design and fabrication of Inchworm Robot using Smart Composite Microstructures(SCM)“, The 6th International Conference on ubiquitous Robots and Ambient Intelligence (URAI 2009), pp.476-479, 2009",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    },
+    {
+      "title": "Compact Hand Exoskeleton Robot for the Disabled",
+      "year": 2009,
+      "citation_raw": "Hyunki In and Kyu-jin Cho, “Compact Hand Exoskeleton Robot for the Disabled,” Proceeding of the 6th International conference on Ubiquitous Robots and Ambient Intelligence (URAI), pp. 86-89,2009.",
+      "source_url": "https://www.biorobotics.snu.ac.kr/other-conference-papers"
+    }
+  ]
+}

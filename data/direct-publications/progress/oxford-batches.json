@@ -1,0 +1,33 @@
+{
+  "updated_at": "2026-11-12T13:54:46.228Z",
+  "completed_batches": [
+    {
+      "ids": [
+        3,
+        27,
+        28,
+        31,
+        33
+      ],
+      "paper_counts": {
+        "3": 212,
+        "27": 277,
+        "28": 3,
+        "31": 0,
+        "33": 103
+      },
+      "complete": [
+        27
+      ],
+      "partial": [
+        3,
+        28,
+        31,
+        33
+      ]
+    }
+  ],
+  "remaining_queue": 134,
+  "remaining_not_full_site_attempted": 135,
+  "notes": "Batch visited. Only 27 complete. Index 3 remains profile-only. Others partial with details pending."
+}

@@ -1,0 +1,96 @@
+{
+  "university": "POSTECH",
+  "university_key": "postech",
+  "pi": "김기훈",
+  "lab_name": "마치랩 로보틱스 앤드 바이오닉스",
+  "lab_url": "https://march.postech.ac.kr/",
+  "publication_urls": [
+    "https://march.postech.ac.kr/paper-acceptance/",
+    "https://march.postech.ac.kr/four-papers-accepted-to-iros-2026-2/"
+  ],
+  "accessed_at": "2026-11-12T13:53:09.184Z",
+  "coverage_notes": [
+    "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete.",
+    "Official lab full Publication landing page visited, category menu found. Six DOM-verified journal records extracted. Other citation markup and category sections remain.",
+    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  ],
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Learning Spatially Ambiguous Trajectories from Demonstrations via Phase-Modulated Dynamical Systems",
+      "authors_raw": null,
+      "year": null,
+      "venue_raw": "IEEE Robotics and Automation Letters",
+      "doi_or_url": "https://ieeexplore.ieee.org/abstract/document/11685323",
+      "citation_raw": "Learning Spatially Ambiguous Trajectories from Demonstrations via Phase-Modulated Dynamical Systems\nHyunseo Jung, Jonghyeok Kim, Keehoon Kim\nIEEE Robotics and Automation Letters, vol. 11, no. 11, pp. 12663–12670, November 2026. (SCIE, IF 5.3, JCR 30.2%, 2025)",
+      "source_url": "https://march.postech.ac.kr/publication/",
+      "publication_type": "journal",
+      "publication_status_raw": null,
+      "year_raw": "2026; 2025"
+    },
+    {
+      "title": "Autonomous UV-C Disinfection and Wiping Robot: Assessment in a Hospital Environment",
+      "authors_raw": null,
+      "year": null,
+      "venue_raw": "IEEE Robotics and Automation Magazine, vol. 33, no. 2, pp. 39-49, June 2026 . (SCIE, IF 10.2, JCR 6.2%, 2025)",
+      "doi_or_url": "https://ieeexplore.ieee.org/document/10938586",
+      "citation_raw": "Autonomous UV-C Disinfection and Wiping Robot: Assessment in a Hospital Environment\nJaewon Byun, Joonsub Byun, Junsu Kang, Inje Yi, Jung-Woo Lee, Kyoungseok Noh, Jong Chan Kim, Young-Ho Choi, Goobong Chung, Sang-Rok Oh, and Keehoon Kim\nIEEE Robotics and Automation Magazine, vol. 33, no. 2, pp. 39-49, June 2026 . (SCIE, IF 10.2, JCR 6.2%, 2025)",
+      "source_url": "https://march.postech.ac.kr/publication/",
+      "publication_type": "journal",
+      "publication_status_raw": null,
+      "year_raw": "2026; 2025"
+    },
+    {
+      "title": "Benefits of Employing Surface Electromyography Signals for Power-Assisted Control from an Agility Perspective",
+      "authors_raw": null,
+      "year": 2024,
+      "venue_raw": "IEEE Access, vol. 12, pp.66100-66109, May 2024. (SCIE, IF 3.6, JCR 35.3%, 2024)",
+      "doi_or_url": "https://ieeexplore.ieee.org/abstract/document/10518031",
+      "citation_raw": "Benefits of Employing Surface Electromyography Signals for Power-Assisted Control from an Agility Perspective\nJaewon Byun, and Keehoon Kim\nIEEE Access, vol. 12, pp.66100-66109, May 2024. (SCIE, IF 3.6, JCR 35.3%, 2024)",
+      "source_url": "https://march.postech.ac.kr/publication/",
+      "publication_type": "journal",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Restoring Natural Upper Limb Movement through a Wrist Prosthetic Module for Partial Hand Amputees",
+      "authors_raw": null,
+      "year": 2023,
+      "venue_raw": "Journal of NeuroEngineering and Rehabilitation, vol. 20, Art. no. 135, October 2023. (SCIE, IF 5.2, JCR 2.4%, 2023)",
+      "doi_or_url": "https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01259-9",
+      "citation_raw": "Restoring Natural Upper Limb Movement through a Wrist Prosthetic Module for Partial Hand Amputees\nSeoyoung Choi, Wonwoo Cho, and Keehoon Kim\nJournal of NeuroEngineering and Rehabilitation, vol. 20, Art. no. 135, October 2023. (SCIE, IF 5.2, JCR 2.4%, 2023)\n",
+      "source_url": "https://march.postech.ac.kr/publication/",
+      "publication_type": "journal",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Cable-Driven Haptic Interface with Movable Bases Achieving Maximum Workspace and Isotropic Force Exertion",
+      "authors_raw": null,
+      "year": 2023,
+      "venue_raw": "IEEE Transactions on Haptics, vol. 16, no. 3, pp. 365-378, September 2023. (SCIE, IF 2.4, JCR 40.6%, 2023)",
+      "doi_or_url": "https://ieeexplore.ieee.org/abstract/document/10155199",
+      "citation_raw": "Cable-Driven Haptic Interface with Movable Bases Achieving Maximum Workspace and Isotropic Force Exertion\nJinhyuk Yoon, Donghyeon Lee, Junyong Bang, Hyung Gon Shin, Wan Kyun Chung, Seungmoon Choi, and Keehoon Kim\nIEEE Transactions on Haptics, vol. 16, no. 3, pp. 365-378, September 2023. (SCIE, IF 2.4, JCR 40.6%, 2023)\n",
+      "source_url": "https://march.postech.ac.kr/publication/",
+      "publication_type": "journal",
+      "publication_status_raw": null
+    },
+    {
+      "title": "In-Vivo Tendon-Driven Rodent Ankle Exoskeleton System for Sensorimotor Rehabilitation with Light and Actuator Decoupling",
+      "authors_raw": null,
+      "year": 2025,
+      "venue_raw": "Best Paper in Medical Robotics",
+      "doi_or_url": "https://ieeexplore.ieee.org/abstract/document/11128320",
+      "citation_raw": "In-Vivo Tendon-Driven Rodent Ankle Exoskeleton System for Sensorimotor Rehabilitation with Light and Actuator Decoupling\nJuwan Han, Seunghyeon Park, and Keehoon Kim\nInternational Conference on Robotics and Automation (ICRA), 2025. *Best Paper in Medical Robotics",
+      "source_url": "https://march.postech.ac.kr/publication/",
+      "publication_type": "journal",
+      "publication_status_raw": null
+    }
+  ],
+  "investigation_stage": "full_site_attempted",
+  "source_page_manifest": [
+    {
+      "url": "https://march.postech.ac.kr/publication/",
+      "capture_kind": "browser_snapshot",
+      "characters": 16278
+    }
+  ]
+}

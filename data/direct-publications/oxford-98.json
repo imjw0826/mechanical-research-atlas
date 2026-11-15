@@ -1,0 +1,159 @@
+{
+  "university": "University of Oxford",
+  "university_key": "oxford",
+  "pi": "Jens Rittscher",
+  "lab_name": null,
+  "lab_url": "https://eng.ox.ac.uk/people/jens-rittscher",
+  "publication_urls": [
+    "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/",
+    "https://ibme.ox.ac.uk/research/biomedical-image-analysis/publications/",
+    "https://ibme.ox.ac.uk/research/bionanotechnology/publications/",
+    "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/research",
+    "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/training",
+    "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/impact",
+    "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/people",
+    "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/contact",
+    "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/careers",
+    "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/accessibility"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 10개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Biomaterials & Biomechanics Publications",
+      "year": 2026,
+      "citation_raw": "Biomaterials & Biomechanics Publications Standing margin of stability as a measure of balance for people with multiple sclerosis Simpson OF, Stanev D, Pitt-Francis J, Zanon M, Rinderknecht MD, Zavatsky AB, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/"
+    },
+    {
+      "title": "Bidirectional Relationship Between Mental Health and Sports Injury in Adolescents: A Systematic Review and Meta-analysis",
+      "year": 2026,
+      "citation_raw": "Bidirectional Relationship Between Mental Health and Sports Injury in Adolescents: A Systematic Review and Meta-analysis. Chow ARW, Zaneva M, Rashid L, Wheatley C, Coussios C, Hepach R, Bowes L, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/"
+    },
+    {
+      "title": "Urine Recirculation During Normothermic Kidney Preservation Improves Energy Balance Involving the Urea and TCA Cycles",
+      "year": 2026,
+      "citation_raw": "Urine Recirculation During Normothermic Kidney Preservation Improves Energy Balance Involving the Urea and TCA Cycles Weissenbacher A, Yu Z, Huang H, Lo Faro ML, Yu B, Hunter JP, Ploeg RJ, Coussios CC, Friend PJ, Kessler BM, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/"
+    },
+    {
+      "title": "Multiplanar kinematic deviations in idiopathic toe walking: A comparison with voluntary toe walking gait",
+      "year": 2026,
+      "citation_raw": "Multiplanar kinematic deviations in idiopathic toe walking: A comparison with voluntary toe walking gait Chiu CH, Evrendilek H, Stebbins J, Zavatsky A, Kothari A, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/"
+    },
+    {
+      "title": "Bioelectrical Interfaces Beyond Excitable Cells: Cancer, Aging, and Gene Expression Modulation",
+      "year": 2026,
+      "citation_raw": "Bioelectrical Interfaces Beyond Excitable Cells: Cancer, Aging, and Gene Expression Modulation Cadinu P, Burgess MK, Jones CF, Iarossi M, Schröter M, Nakatsuka N, Djamgoz MBA, Gonçalves G, Abayzeed S, Sanjuán‐Alberte P, Mendes PM, Rawson FJ, Nair M, Levin M, Moreddu R, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/"
+    },
+    {
+      "title": "Stride E, et al. ()",
+      "year": 2026,
+      "citation_raw": "Stride E, et al. () Deconvolution approaches for energy-preserving spatiotemporal cavitation dosimetry using passive acoustic mapping Collins A, Coussios C, Gray M, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/"
+    },
+    {
+      "title": "A Data Driven Review of In Vitro Electrical and Mechanical Stimulation for Post-Acute Phase Wound Healing",
+      "year": 2026,
+      "citation_raw": "A Data Driven Review of In Vitro Electrical and Mechanical Stimulation for Post-Acute Phase Wound Healing. Burgess MK, Marsh EF, Lucian VM, Nair M, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/"
+    },
+    {
+      "title": "Stride E, et al. ()",
+      "year": 2026,
+      "citation_raw": "Stride E, et al. () Urine Recirculation During Normothermic Kidney Preservation Improves Energy Balance Involving the Urea and Citric Acid Cycles. Weissenbacher A, Yu Z, Huang H, Lo Faro ML, Yu B, Hunter JP, Ploeg RJ, Coussios CC, Friend PJ, Kessler BM, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/biomaterials-biomechanics/publications/"
+    },
+    {
+      "title": "Anomaly Detection in Fetal Echocardiography via Cross-Modal Translation and Region-Discriminated Error Calibration",
+      "year": 2027,
+      "citation_raw": "Anomaly Detection in Fetal Echocardiography via Cross-Modal Translation and Region-Discriminated Error Calibration Yang Q, Yang Y, Wang Y, Hu Y, Peng C, D’Alberti E, Salovic B, Iriondo-Coysh A, Tsai-Goodman B, Carvalho J, da Silva Costa F, Savvidou M, Patey O, Papageorghiou AT, Noble JA, et al. (2027)",
+      "source_url": "https://ibme.ox.ac.uk/research/biomedical-image-analysis/publications/"
+    },
+    {
+      "title": "FOCUS: Towards Fetal Obstetric Corrective UltraSound Guidance",
+      "year": 2027,
+      "citation_raw": "FOCUS: Towards Fetal Obstetric Corrective UltraSound Guidance Lamdouar H, Wang AF, Guo X, Men Q, Lander J, Papageorghiou AT, Noble JA, et al. (2027)",
+      "source_url": "https://ibme.ox.ac.uk/research/biomedical-image-analysis/publications/"
+    },
+    {
+      "title": "Harnessing Adversarial Distillation to Customise Debiased, Disease-Specific Pathology Foundation Models for Breast Cancer",
+      "year": 2027,
+      "citation_raw": "Harnessing Adversarial Distillation to Customise Debiased, Disease-Specific Pathology Foundation Models for Breast Cancer Chen Z, Hu Y, Xiao Y, Ju Y, Zhang T, Xu Y, Li W, Chen H, Rittscher J, Yang K, et al. (2027)",
+      "source_url": "https://ibme.ox.ac.uk/research/biomedical-image-analysis/publications/"
+    },
+    {
+      "title": "Fibrin scaffolds for angiogenesis in soft tissue models: a systematic review",
+      "year": 2026,
+      "citation_raw": "Bionanotechnology Publications Fibrin scaffolds for angiogenesis in soft tissue models: a systematic review Fuenteslópez CV, Bahcevanci S, Patrulea V, Ye H, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/bionanotechnology/publications/"
+    },
+    {
+      "title": "Injected extracellular vesicles and other nanoparticles hitchhike on erythrocytes and platelets from circulation towards organ clearance",
+      "year": 2026,
+      "citation_raw": "Injected extracellular vesicles and other nanoparticles hitchhike on erythrocytes and platelets from circulation towards organ clearance Pavlova S, Mamand DR, Hagey DW, Liang X, Estupiñán HY, Zheng W, Zhou G, Amin R, Zickler AM, Bonner-Harris S, Dave Z, Ojansivu M, Gustafsson MO, Hayes OG, Wiklander OPB, Abedi‐Valugerdi M, Roudi S, Marquant A, Nordin JZ, Stevens MM, Görgens A, Andaloussi SEL, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/bionanotechnology/publications/"
+    },
+    {
+      "title": "Stride E, et al. ()",
+      "year": 2026,
+      "citation_raw": "Stride E, et al. () Polyanion Chemistry Engineers Ternary RNA Nanoparticle Structure/Function from the Inside-Out. Hu L, Peeler DJ, Jin T, Doutch JJ, Shao B, Yeow J, Ma L, Barriga HMG, Tang J, Cao X, Liu C, Grigsby CL, Alexander-Katz A, Shattock RJ, Stevens MM, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/bionanotechnology/publications/"
+    },
+    {
+      "title": "Utilizing Constrained Bicyclic Peptides for <i>In Vitro</i> Diagnostics",
+      "year": 2026,
+      "citation_raw": "Utilizing Constrained Bicyclic Peptides for <i>In Vitro</i> Diagnostics. Shamsabadi A, Creamer A, Sadler CJ, Abdelwahed A, Gaynor KU, Demydchuk Y, Ivanova-Berndt G, Van Rietschoten K, Beswick P, Chen L, Arruda Bezerra G, Lulla A, Brear P, Hyvönen M, Skynner MJ, Stevens MM, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/bionanotechnology/publications/"
+    },
+    {
+      "title": "Nanoparticle-Mediated Interface Engineering for Uniform, Reproducible Electron Transport Layers in Scalable Perovskite Solar Cells",
+      "year": 2026,
+      "citation_raw": "Nanoparticle-Mediated Interface Engineering for Uniform, Reproducible Electron Transport Layers in Scalable Perovskite Solar Cells. Henderson C, Marques AS, Bicalho IS, Hart LJF, Monahan A, Stewart K, Asano K, Lan T, Vacha M, Stevens MM, Barnes PRF, Bagnis D, Kim J-S, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/bionanotechnology/publications/"
+    },
+    {
+      "title": "An injectable soft implant for long-acting, reversible, ultra-stable release of therapeutics",
+      "year": 2026,
+      "citation_raw": "An injectable soft implant for long-acting, reversible, ultra-stable release of therapeutics Kütahya C, Panariello L, Najer A, Rizou T, Shamsabadi A, Brachi G, Peeler DJ, Zharova L, Fernandez Debets TFF, Peschke P, Constantinou AP, Xie R, Cheng Y, Burdis R, Suarez-Bonnet A, Cihova M, Yeow J, Schaufelberger F, Malanchi I, Stevens MM, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/bionanotechnology/publications/"
+    },
+    {
+      "title": "Graph-Based Machine Learning Identifies Oxygenated Block Polymer Replacements for Conventional Plastics and Elastics",
+      "year": 2026,
+      "citation_raw": "Graph-Based Machine Learning Identifies Oxygenated Block Polymer Replacements for Conventional Plastics and Elastics. Molaei S, Poon KC, Gao C, Eisenhardt KHS, Concilio M, Sulley GS, Marzagão DK, Gregory GL, Clifton DA, Siviour CR, Williams CK, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/bionanotechnology/publications/"
+    },
+    {
+      "title": "The Impact of Polyethylene Glycol Lipid Anchors on the Physicochemical Properties, Protein Corona, Function, and Biodistribution of Lipid Nanoparticles",
+      "year": 2026,
+      "citation_raw": "The Impact of Polyethylene Glycol Lipid Anchors on the Physicochemical Properties, Protein Corona, Function, and Biodistribution of Lipid Nanoparticles. Lu C-E, Liu K, Gallud A, Meklesh V, Ravnkilde LT, Santos J, Dias Louro F, Miliotis T, Alfonzo-Mendez MA, Rejman J, Panariello L, Barriga HMG, Stevens MM, Höök F, Yanez Arteta M, Ulander J, Jones S, Sabirsh A, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/bionanotechnology/publications/"
+    },
+    {
+      "title": "Towards intelligent and miniaturized drug delivery devices",
+      "year": 2026,
+      "citation_raw": "Towards intelligent and miniaturized drug delivery devices. Wei X, Buse JB, Chen H, Desai TA, Stevens MM, Traverso G, Langer R, Gu Z, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/bionanotechnology/publications/"
+    },
+    {
+      "title": "Image-guided optimization of regenerative graft attachment to the heart",
+      "year": 2026,
+      "citation_raw": "Image-guided optimization of regenerative graft attachment to the heart. Feng Z, Hachim D, Mylonaki I, Colzani M, Bettini A, Dondi C, Obregon-Gomez I, Lin J, Gambardella L, Bayraktar S, Deniszczyc E, Pope C, Saccoh AF, Ahmed E, Lythgoe MF, Kalber TL, Patrick PS, Sinha S, Stevens MM, Stuckey DJ, et al. (2026)",
+      "source_url": "https://ibme.ox.ac.uk/research/bionanotechnology/publications/"
+    },
+    {
+      "title": "Engineering Science encompasses a vast range of subjects, from microelectronics to offshore oil platforms, and involves the application of creative reasoning, science, mathematics (and, of course, experience and common sense) to real problems",
+      "year": 2023,
+      "citation_raw": "Engineering Science encompasses a vast range of subjects, from microelectronics to offshore oil platforms, and involves the application of creative reasoning, science, mathematics (and, of course, experience and common sense) to real problems. The Department of Engineering Science at Oxford has a top-level quality assessment rating for teaching and a world-class reputation for research. Because we believe that future engineering innovation will benefit from broad foundations as well as specialised knowledge, undergraduate teaching is based on a unified course in Engineering Science, which integrates study of the subject across the traditional boundaries of engineering disciplines. Links between topics in apparently diverse fields of engineering provide well-structured fundamental understanding, and can be exploited to give efficient teaching. Watch the following two taster lectures from our 2023 open days to discover more about biomedical engineering and what it is like to be an Engineering Science Undergraduate Student at Oxford.",
+      "source_url": "https://ibme.ox.ac.uk/training/"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "university": "POSTECH",
+  "university_key": "postech",
+  "pi": "김준원",
+  "lab_name": "초소형기전공학연구실",
+  "lab_url": null,
+  "publication_urls": [],
+  "accessed_at": "2026-11-12T13:54:14.424Z",
+  "coverage_notes": [
+    "Attempted https://mnt.postech.ac.kr/web/ error Error: Selector \"body\" not found",
+    "Official department profile linked mnt.postech.ac.kr; actual lab website navigation attempted. See captured response; no publication records extracted.",
+    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  ],
+  "status": "partial",
+  "papers": [],
+  "investigation_stage": "full_site_attempted",
+  "source_page_manifest": [
+    {
+      "url": "https://me.postech.ac.kr/ko/page/professor06",
+      "capture_kind": "browser_snapshot",
+      "characters": 3693
+    },
+    {
+      "url": "https://mnt.postech.ac.kr/web/",
+      "capture_kind": "browser_snapshot",
+      "characters": 6258
+    }
+  ]
+}

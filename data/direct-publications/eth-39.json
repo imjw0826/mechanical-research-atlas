@@ -1,0 +1,263 @@
+{
+  "university": "ETH Zurich",
+  "university_key": "eth",
+  "pi": "Outi Supponen",
+  "lab_name": null,
+  "lab_url": "https://seel.ethz.ch/",
+  "publication_urls": [
+    "https://ifd.ethz.ch/research/group-supponen/publications.html"
+  ],
+  "accessed_at": "2026-11-12T15:15:25.475850+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Potential flow solutions with viscous interface stresses for axisymmetric configurations",
+      "year": 2027,
+      "citation_raw": "Potential flow solutions with viscous interface stresses for axisymmetric configurations Daniel W. Meyer and Louan Presse Engineering Analysis with Boundary Elements, vol. 194, pp. 107131, Elsevier, 2027.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Measurement of traveling pressure waves inside a droplet",
+      "year": 2026,
+      "citation_raw": "Measurement of traveling pressure waves inside a droplet Sayaka Ichihara, Samuele Fiorini, Yoshiyuki Tagawa and Outi Supponen Experimental Thermal and Fluid Science, vol. 178, pp. 111800, Elsevier, 2026.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Translational dynamics of lipid-coated microbubbles driven by ultrasound",
+      "year": 2026,
+      "citation_raw": "Translational dynamics of lipid-coated microbubbles driven by ultrasound Marco Cattaneo and Outi Supponen Physical Review Fluids, vol. 11: no. 3, pp. 033606, American Physical Society, 2026.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Visualizations of ultrafast bubble dynamics",
+      "year": 2026,
+      "citation_raw": "Visualizations of ultrafast bubble dynamics Outi Supponen Physical Review Fluids, vol. 11: no. 2, pp. 023601, American Physical Society, 2026.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Shock-compression-based equation of state for perfluorohexane",
+      "year": 2025,
+      "citation_raw": "Shock-compression-based equation of state for perfluorohexane Anunay Prasanna, Guillaume T. Bokman, Samuele Fiorini, Armand Sieber, Bratislav Lukić, Daniel Foster and Outi Supponen Physical Review E, vol. 112: no. 6, pp. 065101, American Physical Society, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Faraday Wave Singularities Trigger Microbubble Jetting",
+      "year": 2025,
+      "citation_raw": "Faraday Wave Singularities Trigger Microbubble Jetting Marco Cattaneo, Louan Presse and Outi Supponen Physical Review Letters, vol. 135: no. 20, pp. 204002, American Physical Society, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Shock-induced bubble jets: a dual perspective of bubble collapse and interfacial instability theory",
+      "year": 2025,
+      "citation_raw": "Shock-induced bubble jets: a dual perspective of bubble collapse and interfacial instability theory Guillaume T. Bokman, Luc Biasiori-Poulanges, Bratislav Lukić, Steven R. Brill, Claire Bourquard, Britton J. Olson, Alexander Rack and Outi Supponen Journal of Fluid Mechanics, vol. 1018, pp. A9, Cambridge University Press, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Shape modes and jet formation on ultrasound-driven wall-attached bubbles",
+      "year": 2025,
+      "citation_raw": "Shape modes and jet formation on ultrasound-driven wall-attached bubbles Marco Cattaneo, Louan Presse, Gazendra Shakya, Thomas Renggli, Bratislav Lukić, Anunay Prasanna, Daniel Werner Meyer, Alexander Rack and Outi Supponen Journal of Fluid Mechanics, vol. 1017, pp. A9, Cambridge University Press, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Planar shock-induced bubble collapse and jetting in water captured via x-ray phase contrast imaging",
+      "year": 2025,
+      "citation_raw": "Planar shock-induced bubble collapse and jetting in water captured via x-ray phase contrast imaging Guillaume T. Bokman, Samuele Fiorini, Jergus Strucka, Bratislav Lukić, Simon N. Bland, Kassim Mughal, Siwei Liu, Alexander Rack and Outi Supponen Applied Physics Letters, vol. 127: no. 1, pp. 014102, American Institute of Physics, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Positive pressure matters in acoustic droplet vaporization",
+      "year": 2025,
+      "citation_raw": "Positive pressure matters in acoustic droplet vaporization Samuele Fiorini, Anunay Prasanna, Gazendra Shakya, Marco Cattaneo and Outi Supponen Physical Review Research, vol. 7: no. 2, pp. 023322, American Physical Society, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Cyclic jetting enables microbubble-mediated drug delivery",
+      "year": 2025,
+      "citation_raw": "Cyclic jetting enables microbubble-mediated drug delivery Marco Cattaneo, Giulia Guerriero, Gazendra Shakya, Lisa A. Krattiger, Lorenza G. Paganella, Maria L. Narciso and Outi Supponen Nature Physics, vol. 21: no. 4, pp. 590-598, Nature, 2025.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Impulse-driven release of gas-encapsulated drops",
+      "year": 2024,
+      "citation_raw": "Impulse-driven release of gas-encapsulated drops Guillaume T. Bokman, Luc Biasiori-Poulanges, Bratislav Lukić, Kevin Schmidmayer, Claire Bourquard, Enea Baumann, Alexander Rack, Britton J. Olson and Outi Supponen Journal of Fluid Mechanics, vol. 1001, pp. A51, Cambridge University Press, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Nanoporous Submicron Gold Particles Enable Nanoparticle-Based Localization Optoacoustic Tomography (nanoLOT)",
+      "year": 2024,
+      "citation_raw": "Nanoporous Submicron Gold Particles Enable Nanoparticle-Based Localization Optoacoustic Tomography (nanoLOT) Daniil Nozdriukhin, Marco Cattaneo, Norman Klingler, Shuxin Lyu, Weiye Li, Francisco Montero de Espinosa, Jerome Bonvin, Outi Supponen, Daniel Razansky and Xosé Luís Deán-Ben Small, vol. 20: no. 51, pp. 2404904, Wiley-VCH, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Synchrotron X-ray phase-contrast imaging of ultrasonic drop atomization",
+      "year": 2024,
+      "citation_raw": "Synchrotron X-ray phase-contrast imaging of ultrasonic drop atomization Anunay Prasanna, Luc Biasiori-Poulanges, Ya-Chi Yu, Hazem El-Rabii, Bratislav Lukić and Outi Supponen International Journal of Multiphase Flow, vol. 174, pp. 104785, Elsevier, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Ultrasound-responsive microbubbles and nanodroplets: A pathway to targeted drug delivery",
+      "year": 2024,
+      "citation_raw": "Ultrasound-responsive microbubbles and nanodroplets: A pathway to targeted drug delivery Gazendra Shakya, Marco Cattaneo, Giulia Guerriero, Anunay Prasanna, Samuele Fiorini and Outi Supponen Advanced Drug Delivery Reviews, vol. 206, pp. 115178, Elsevier, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Cavitation cloud formation and surface damage of a model stone in a high-intensity focused ultrasound field",
+      "year": 2024,
+      "citation_raw": "Cavitation cloud formation and surface damage of a model stone in a high-intensity focused ultrasound field Luc Biasiori-Poulange, Bratislav Lukić and Outi Supponen Ultrasonics Sonochemistry, vol. 102, pp. 106738, Elsevier, 2024.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Plasma-based identification of gases in a laser-induced cavitation bubble",
+      "year": 2023,
+      "citation_raw": "Plasma-based identification of gases in a laser-induced cavitation bubble Siwei Liu, Kaito Nitto, Outi Supponen, Sayaka Kamata, Tomoki Nakajima, Mohamed Farhat and Takehiko Sato Applied Physics Letters, vol. 123: no. 9, pp. 094102, American Institute of Physics, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Shell viscosity estimation of lipid-coated microbubbles",
+      "year": 2023,
+      "citation_raw": "Shell viscosity estimation of lipid-coated microbubbles Marco Cattaneo and Outi Supponen Soft Matter, vol. 19: no. 33, pp. 5925-5941, Royal Society of Chemistry, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Scaling laws for bubble collapse driven by an impulsive shock wave",
+      "year": 2023,
+      "citation_raw": "Scaling laws for bubble collapse driven by an impulsive shock wave Guillaume T. Bokman, Luc Biasiori-Poulanges, Daniel W. Meyer and Outi Supponen Journal of Fluid Mechanics, vol. 967, pp. A33, Cambridge University Press, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Synchrotron X-ray imaging of the onset of ultrasonic horn cavitation",
+      "year": 2023,
+      "citation_raw": "Synchrotron X-ray imaging of the onset of ultrasonic horn cavitation Luc Biasiori-Poulanges, Claire Bourquard, Bratislav Lukić, Ludovic Broche and Outi Supponen Ultrasonics Sonochemistry, vol. 92, pp. 106286, Elsevier, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "High-speed X-ray phase-contrast imaging of single cavitation bubbles near a solid boundary",
+      "year": 2023,
+      "citation_raw": "High-speed X-ray phase-contrast imaging of single cavitation bubbles near a solid boundary Guillaume Thomas Bokman, Luc Biasiori-Poulanges, Bratislav Lukić, Claire Bourquard, Daniel Werner Meyer, Alexander Rack and Outi Supponen Physics of Fluids, vol. 35: no. 1, pp. 013322, American Institute of Physics, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Jetting Behaviour of Ultrasound-driven Microbubbles in Contact with a Soft Substrate",
+      "year": 2023,
+      "citation_raw": "Jetting Behaviour of Ultrasound-driven Microbubbles in Contact with a Soft Substrate Marco Cattaneo, Gazendra Shakya and Outi Supponen 61st IEEE International Ultrasonics Symposium (IUS 2023), Montreal, Canada, pp.10306798 Piscataway, NJ: IEEE, September 3-8, 2023.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Flow focusing from interacting cavitation bubbles",
+      "year": 2022,
+      "citation_raw": "Flow focusing from interacting cavitation bubbles Arpit Mishra, Claire Bourquard, Arnab Roy, Rajaram Lakkaraju, Parthasarathi Ghosh and Outi Supponen Physical Review Fluids, vol. 7: no. 11, pp. 110502, American Physical Society, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Controlled tough bioadhesion mediated by ultrasound",
+      "year": 2022,
+      "citation_raw": "Controlled tough bioadhesion mediated by ultrasound Zhenwei Ma, Claire Bourquard, Qiman Gao, Shuaibing Jiang, Tristan De Iure-Grimmel, Ran Huo, Xuan Li, Zixin He, Zhen Yang, Galen Yang, Yixiang Wang, Edmond Lam, Zu-Hua Gao, Outi Supponen and Jianyu Li Science, vol. 377: no. 6607, pp. 751-755, AAAS, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Cavitation bubble dynamics in a shear-thickening fluid",
+      "year": 2022,
+      "citation_raw": "Cavitation bubble dynamics in a shear-thickening fluid Guillaume T. Bokman, Outi Supponen and Simo A. Mäkiharju Physical Review Fluids, vol. 7: no. 2, pp. 023302, American Physical Society, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Dynamics of a shocked bubble-encapsulated droplet",
+      "year": 2022,
+      "citation_raw": "Dynamics of a shocked bubble-encapsulated droplet Luc Biasiori-Poulanges, Guillaume T. Bokman, Enea Baumann and Outi Supponen Applied Physics Letters, vol. 120: no. 26, pp. 260601, American Institute of Physics, 2022.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "The effect of size range on ultrasound-induced translations in microbubble populations",
+      "year": 2020,
+      "citation_raw": "The effect of size range on ultrasound-induced translations in microbubble populations Outi Supponen, Awaneesh Upadhyay, Jordan Lum, Francesco Guidi, Todd Murray, Hendrik J. Vos, Piero Tortoli and Mark Borden The Journal of the Acoustical Society of America, vol. 147: no. 5, pp. 3236-3247, American Institute of Physics, 2020.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Microbubble Radiation Force-Induced Translation in Plane-Wave Versus Focused Transmission Modes",
+      "year": 2019,
+      "citation_raw": "Microbubble Radiation Force-Induced Translation in Plane-Wave Versus Focused Transmission Modes Francesco Guidi, Outi Supponen, Awaneesh Upadhyay, Hendrik J. Vos, Mark Andrew Borden and Piero Tortoli IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 66: no. 12, pp. 1856-1865, IEEE, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Gravity-Independent Oscillate Boiling",
+      "year": 2019,
+      "citation_raw": "Gravity-Independent Oscillate Boiling Dang Minh Nguyen, Outi Supponen, Jianmin Miao, Mohamed Farhat and Claus-Dieter Ohl Microgravity science and technology, vol. 31: no. 6, pp. 767-773, Springer, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Detailed experiments on weakly deformed cavitation bubbles",
+      "year": 2019,
+      "citation_raw": "Detailed experiments on weakly deformed cavitation bubbles Outi Supponen, Danail Obreschkow, Philippe Kobel, Nicolas Dorsaz and Mohamed Farhat Experiments in Fluids, vol. 60: no. 2, pp. 33, Springer, 2019.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "High-speed imaging of high pressures produced by cavitation bubbles",
+      "year": 2018,
+      "citation_raw": "High-speed imaging of high pressures produced by cavitation bubbles Outi Supponen, Danail Obreschkow and Mohamed Farhat 32nd International Congress on High-Speed Imaging and Photonics (ICHSIP 2018), Enschede, Netherlands, pp.1105103 Bellingham, WA: SPIE, October 8-12, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Jetting from cavitation bubbles due to multiple shockwaves",
+      "year": 2018,
+      "citation_raw": "Jetting from cavitation bubbles due to multiple shockwaves Outi Supponen, Takahito Akimura, Tomoya Minami, Tomoki Nakajima, Satoshi Uehara, Kiyonobu Ohtani, Toshiro Kaneko, Mohamed Farhat and Takehiko Sato Applied Physics Letters, vol. 113: no. 19, pp. 193703, American Institute of Physics, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Rebounds of deformed cavitation bubbles",
+      "year": 2018,
+      "citation_raw": "Rebounds of deformed cavitation bubbles Outi Supponen, Danail Obreschkow and Mohamed Farhat Physical Review Fluids, vol. 3: no. 10, pp. 103604, American Physical Society, 2018.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Luminescence from cavitation bubbles deformed in uniform pressure gradients",
+      "year": 2017,
+      "citation_raw": "Luminescence from cavitation bubbles deformed in uniform pressure gradients Outi Supponen, Danail Obreschkow, Philippe Kobel and Mohamed Farhat Physical Review E, vol. 96: no. 3, pp. 033114, American Physical Society, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Shock waves from nonspherical cavitation bubbles",
+      "year": 2017,
+      "citation_raw": "Shock waves from nonspherical cavitation bubbles Outi Supponen, Danail Obreschkow, Philippe Kobel, Marc Tinguely, Nicolas Dorsaz and Mohamed Farhat Physical Review Fluids, vol. 2: no. 9, pp. 093601, American Physical Society, 2017.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Scaling laws for jets of single cavitation bubbles",
+      "year": 2016,
+      "citation_raw": "Scaling laws for jets of single cavitation bubbles Outi Supponen, Danail Obreschkow, Marc Tinguely, Philippe Kobel, Nicolas Dorsaz and Mohamed Farhat Journal of Fluid Mechanics, vol. 802, pp. 263-293, Cambridge University Press, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Simulation of bubble expansion and collapse in the vicinity of a free surface",
+      "year": 2016,
+      "citation_raw": "Simulation of bubble expansion and collapse in the vicinity of a free surface Phoevos Koukouvinis, Manolis Gavaises, Outi Supponen and Mohamed Farhat Physics of Fluids, vol. 28: no. 5, pp. 052103, American Institute of Physics, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Numerical simulation of a collapsing bubble subject to gravity",
+      "year": 2016,
+      "citation_raw": "Numerical simulation of a collapsing bubble subject to gravity Phoevos Koukouvinis, Manolis Gavaises, Outi Supponen and Mohamed Farhat Physics of Fluids, vol. 28: no. 3, pp. 032110, American Institute of Physics, 2016.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "The inner world of a collapsing bubble",
+      "year": 2015,
+      "citation_raw": "The inner world of a collapsing bubble Outi Supponen, Philippe Kobel, Danail Obreschkow and Mohamed Farhat Physics of Fluids, vol. 27: no. 9, pp. 091113, American Institute of Physics, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Geometrical influence on vortex shedding in turbulent axisymmetric wakes",
+      "year": 2015,
+      "citation_raw": "Geometrical influence on vortex shedding in turbulent axisymmetric wakes Jovan Nedić, Outi Supponen, Bharathram Ganapathisubramani and John Christos Vassilicos Physics of Fluids, vol. 27: no. 3, pp. 035103, American Institute of Physics, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    },
+    {
+      "title": "Detailed Jet Dynamics in a Collapsing Bubble",
+      "year": 2015,
+      "citation_raw": "Detailed Jet Dynamics in a Collapsing Bubble Outi Supponen, Danail Obreschkow, Philippe Kobel and Mohamed Farhat 9th International Symposium on Cavitation (CAV2015), Lausanne, Switzerland, pp.012038 Bristol: IOP Publishing, December 6-10, 2015.",
+      "source_url": "https://ifd.ethz.ch/research/group-supponen/publications.html"
+    }
+  ]
+}

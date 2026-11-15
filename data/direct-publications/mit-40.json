@@ -1,0 +1,53 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "John Hart",
+  "lab_name": null,
+  "lab_url": "https://mechanosynthesis.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/ajhart@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/ajhart@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://mechanosynthesis.mit.edu/"
+    },
+    {
+      "text": "READ MORE",
+      "url": "https://news.mit.edu/2023/john-hart-named-head-department-mechanical-engineering-0517"
+    }
+  ],
+  "attempted_urls": [
+    "https://mechanosynthesis.mit.edu/",
+    "https://mechanosynthesis.mit.edu/publications/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "PUBLICATIONS",
+      "url": "https://mechanosynthesis.mit.edu/publications/"
+    }
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
+  "status": "partial",
+  "papers": [],
+  "dropped_low_confidence": [
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "2008 Finalist, MIT Clean Energy Entrepreneurship Prize",
+      "source_url": "https://meche.mit.edu/people/faculty/ajhart@mit.edu"
+    },
+    {
+      "title": "2000 National Science Foundation Graduate Research Fellowship",
+      "year": 2000,
+      "citation_raw": "2000 National Science Foundation Graduate Research Fellowship",
+      "source_url": "https://meche.mit.edu/people/faculty/ajhart@mit.edu"
+    }
+  ]
+}

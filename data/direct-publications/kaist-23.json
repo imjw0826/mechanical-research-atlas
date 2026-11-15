@@ -1,0 +1,107 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "공경철 KONG, Kyoungchul",
+  "lab_name": null,
+  "lab_url": "http://robotics.kaist.ac.kr",
+  "publication_urls": [
+    "https://robotics.kaist.ac.kr/sub3_4_a.html"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Modeling of Ball Bearings for Accurate Force and Torque Transmission in Dynamic Robotic Systems",
+      "year": 2026,
+      "citation_raw": "\"Modeling of Ball Bearings for Accurate Force and Torque Transmission in Dynamic Robotic Systems\" J. Kim and K. Kong International Journal of Precision Engineering and Manufacturing, 2026",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Optimization of crutch-free walking for a powered exoskeleton considering human adaptation",
+      "year": 2025,
+      "citation_raw": "\"Optimization of crutch-free walking for a powered exoskeleton considering human adaptation\" J. Kim, A. Singh, J. Youn, H. Kim, J. Park, J. Park and K. Kong MECHATRONICS, vol.110, 2025",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Efficacy of a Soft Wearable Robot for Hip Assistance in Chronic Stroke Patients: A Randomized Crossover Trial",
+      "year": 2025,
+      "citation_raw": "\"Efficacy of a Soft Wearable Robot for Hip Assistance in Chronic Stroke Patients: A Randomized Crossover Trial\" S. Han, S. Choi, C. Ko, J. Lee, K. Kong and D. Rha IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol.33, pp.2251 - 2262, 2025",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Inertial Orientation Estimation Robust to Impact for Bipedal Robot Locomotion",
+      "year": 2025,
+      "citation_raw": "\"Inertial Orientation Estimation Robust to Impact for Bipedal Robot Locomotion\" J. Park, T. Kim and K. Kong International Journal of Control, Automation and Systems, vol.23, no.4, pp.1139-1146, 2025",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Flexi-SEA: Flexible-Shaft-Driven Series Elastic Actuator for Wearable Robots",
+      "year": 2025,
+      "citation_raw": "\"Flexi-SEA: Flexible-Shaft-Driven Series Elastic Actuator for Wearable Robots\" S. Choi, J. Kim, C. Ko and K. Kong IEEE/ASME Transactions on Mechatronics, vol.29, no.4, pp.3019 - 3027, 2025",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Thermal Characteristic Modeling and Compensation for the Improvement of Actuator Homeostasis",
+      "year": 2024,
+      "citation_raw": "\"Thermal Characteristic Modeling and Compensation for the Improvement of Actuator Homeostasis\" J. Youn, H. Kim, K. Shi and K. Kong IEEE/ASME Transactions on Mechatronics, vol.29, pp.3019 - 3027, 2024",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Plantar Flexion Muscle Force Estimation With a Soft Wearable Pneumatic Sensor System",
+      "year": 2024,
+      "citation_raw": "\"Plantar Flexion Muscle Force Estimation With a Soft Wearable Pneumatic Sensor System\" T. Kim and K. Kong IEEE/ASME Transactions on Mechatronics, vol.29, pp.2920 - 2928, 2024",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Walking-Speed-Adaptive Gait Phase Estimation for Wearable Robots",
+      "year": 2023,
+      "citation_raw": "\"Walking-Speed-Adaptive Gait Phase Estimation for Wearable Robots\" S. Choi, C. Ko, and K. Kong Sensors, vol.23, no.19, 2023",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Design and Control of the Compact Cable-driven Series Elastic Actuator Module in Soft Wearable Robot for Ankle Assistance",
+      "year": 2023,
+      "citation_raw": "\"Design and Control of the Compact Cable-driven Series Elastic Actuator Module in Soft Wearable Robot for Ankle Assistance\" S. Lee, S. Choi, C. Ko, T. Kim and K. Kong International Journal of Control, Automation and Systems, vol.21, no.5, pp.1624-1633, 2023",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "High-Accuracy Hand Gesture Recognition on the Wrist Tendon Group Using Pneumatic Mechanomyography (pMMG)",
+      "year": 2023,
+      "citation_raw": "\"High-Accuracy Hand Gesture Recognition on the Wrist Tendon Group Using Pneumatic Mechanomyography (pMMG)\" S. An, J. Feng, E. Song, K. Kong, J. Kim and H. Choi IEEE Transactions on Industrial Informatics, 2023",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Shank Shock Absorption Mechanism and Associated Gait Pattern Design for Reduction of Ground Impact of a Powered Exoskeleton",
+      "year": 2023,
+      "citation_raw": "\"Shank Shock Absorption Mechanism and Associated Gait Pattern Design for Reduction of Ground Impact of a Powered Exoskeleton\" J. Park, D. Lee and K. Kong International Journal of Control, Automation and Systems, vol.21, pp.1959–1969, 2023",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Robust Gait Event Detection Based on the Kinematic Characteristics of a Single Lower Extremity",
+      "year": 2023,
+      "citation_raw": "\"Robust Gait Event Detection Based on the Kinematic Characteristics of a Single Lower Extremity\" G. Kim, M. Lee, Y. Kim and K. Kong International Journal of Precision Engineering and Manufacturing, pp.987–1000, 2023",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Hybrid Filtered Disturbance Observer for Precise Motion Generation of a Powered Exoskeleton",
+      "year": 2022,
+      "citation_raw": "\"Hybrid Filtered Disturbance Observer for Precise Motion Generation of a Powered Exoskeleton\" K. Park, J. Choi, and K. Kong IEEE Transactions on Industrial Electronics, pp.1-1, 2022",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Iterative Learning of Human Behavior for Adaptive Gait Pattern Adjustment of a Powered Exoskeleton",
+      "year": 2022,
+      "citation_raw": "\"Iterative Learning of Human Behavior for Adaptive Gait Pattern Adjustment of a Powered Exoskeleton\" K. Park, J. Choi, and K. Kong IEEE Transactions on Robotics, pp.1-15, 2022",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    },
+    {
+      "title": "Lower-Limb-Assisting Robotic Exoskeleton Reduces Energy Consumption in Healthy Young Persons during Stair Climbing",
+      "year": 2021,
+      "citation_raw": "\"Lower-Limb-Assisting Robotic Exoskeleton Reduces Energy Consumption in Healthy Young Persons during Stair Climbing\" H. Woo, K. Kong, and D. Rha Applied Bionics and Biomechanics, 2021",
+      "source_url": "https://robotics.kaist.ac.kr/sub3_4_a"
+    }
+  ]
+}

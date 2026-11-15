@@ -1,0 +1,292 @@
+URL: https://me.postech.ac.kr/ko/page/professor12
+ACCESSED_AT: 2026-11-11T13:55:31.768Z
+
+POHANG UNIVERSITY OF SCIENCE AND TECHNOLOGY
+
+  KOR ENG
+소개
+구성원
+입학
+교육
+연구
+소식 및 행사
+자료실
+
+유동현 Donghyun You
+
+Research Areas
+
+Thermal/Fluid
+
+이메일.
+dhyou@postech.ac.kr
+홈페이지.
+https://fpe.postech.ac.kr/fpe/index.do
+박사학위.
+Ph.D. Stanford (2004)
+연구실.
+유동 물리 및 공학 연구실
+
+유동 물리 및 공학 연구실은 고 신뢰도 수치해석방법을 이용한 다물리(multiphysics) 유동 현상의 해석과 이해를 통하여 친 에너지, 친 환경적인 혁신적 에너지 변환 및 추진 시스템의 설계를 목표로 한다. 이러한 목표를 달성하기 위하여 (i) 복잡한 난류유동의 상세해석을 위한 큰에디모사기법(large-eddy simulation)의 개발; (ii) 스팀터빈, 가스터빈, 젯엔진 내부 다물리 열유동 현상의 통합연동 예측 및 해석기술 개발; (iii) 생체 및 신재생에너지 시스템에 수반된 유체-구조-음향 연동현상의 통합해석기술 개발; (vi) 난류유동, 유동박리 현상의 능동 및 수동제어, 생체모방 최적화를 위한 기술 개발 등을 수행하고 있다.
+
+MAJOR RESEARCH ACHIEVEMENTS
+2011 ONR Young Investigator Program Award from U.S. Department of Defense
+2009 Donald L. and Rhonda Struminger Chaired Faculty of Carnegie Mellon University
+2006 The Lewis F. Moody Award from the American Society df Mechanical Engineers
+RESEARCH INTERESTS
+Computational flow physics and engineering
+Artificial Intelligence for fluid mechanics
+Integrated prediction, analysis, and control of multi-physics problems
+Gas turbine and steam turbine engines - Renewable and sustainable energy systems
+소개
+주임교수 인사말
+학과소개
+발전기금
+오시는길
+구성원
+교수진
+행정팀
+학과위원회
+입학
+학부과정
+대학원과정
+교육
+학부과정
+대학원과정
+연구
+연구분야
+연구협력
+소식 및 행사
+공지사항
+학과소식
+채용정보
+세미나
+뉴스레터
+자료실
+서식자료실
+405호 회의실예약
+1층 소회의실예약
+3층 소회의실예약
+개인정보처리방침 이메일 수신거부 저작권정책
+(790-784) 경북 포항시 남구 청암로 77 포스텍 기계공학과 TEL: 054-279-2716 FAX: 054-279-5899
+
+COPYRIGHT 2020 © BY POSTECH DEPARTMENT OF MECHANICAL ENGINEERING. ALL RIGHTS RESERVED
+
+
+====================================
+URL: https://fpe.postech.ac.kr/fpe/index.do
+ACCESSED_AT: 2026-11-11T13:55:31.768Z
+
+본문 바로가기
+POSTECH
+Flow Physics and Engineering Lab
+About
+Research
+Member
+Publication
+Facilities
+Board
+Search
+POSTECH
+Flow Physics & Engineering Lab
+Our laboratory conducts research on the numerical analysis and simulation of complex flow phenomena based on Computational Fluid Dynamics.
+Hot Issue
+
+New Publication
+Our paper "An efficient multiscale coupling method for simulations of reactor-scale chemical vapor deposition with microstructural features" has been published in Advances in Engineering Software.
+more
+
+Contact Us
+#201, Mechanical Laboratory, 77, Cheongam-ro, Nam-gu, Pohang-si, Gyeongsangbuk-do 37673, South Korea
+Tel : 054-279-2191
+windowkim@postech.ac.kr
+Notice & News
+NEWS
+연구실 졸업생 김태완 박사, 한국교통대학교 조교수 임용
+NEWS
+연구실 졸업생 김인녕 박사, 세종대학교 조교수 임용
+Join Our
+Research
+Team!
+Gallery
+FPE 봄 맞이 폭짜
+April 02, 2026
+개인정보처리방침
+영리목적의 광고성 정보전송거부
+찾아오는길
+관련사이트 바로가기
+포항공과대학교
+인스타그램
+페이스북
+트위터(x)
+유튜브
+링크드인
+POSTECH
+
+37673 경상북도 포항시 남구 청암로 77(효자동 산31) 37673 | Tel: 054-279-0114 | E-mail: postech@postech.ac.kr
+
+COPYRIGHT 2025 Pohang University of Science and Technology. ALL RIGHTS RESERVED.
+
+
+====================================
+URL: https://fpe.postech.ac.kr/fpe/pub/international-journal.do
+ACCESSED_AT: 2026-11-11T13:55:31.768Z
+
+본문 바로가기
+POSTECH
+Flow Physics and Engineering Lab
+About
+Research
+Member
+Publication
+Facilities
+Board
+Search
+POSTECH
+
+Publication
+
+홈으로
+Publication
+International Journal
+International Journal
+International Journal
+All
+Search article
+Select a classification for search
+All
+Title
+Content
+검색어
+Search
+
+Total 88
+
+88
+An efficient multiscale coupling method for simulations of reactor-scale chemical vapor deposition with microstructural features
+An efficient multiscale coupling method is proposed for simulations of reactor-scale chemical vapor deposition (CVD) with microstructural features. Reactor-scale and microstructure-resolved feature-scale models are coupled through an effective reaction rate formalism, enabling high-resolution deposition simulations while significantly reducing computational cost. A parameterized microstructural model is introduced, in which the relationship between the effective reaction rate and local species consumption rates in the reactor-scale model is directly mapped using precomputed Monte Carlo simulation data. This eliminates the need for iterative calculations or direct numerical simulations of the surface reaction across all the discretized grid points on the wafer, ensuring predictive accuracy while enhancing computational efficiency. Furthermore, an adaptive time-stepping method is developed, dynamically adjusting the time-step size for the feature-scale model based on variations in the effective reaction rate. Through this approach, simulation time is reduced by more than one-third compared to conventional fixed time-step methods, while preserving the accuracy of the effective reaction rate model. The proposed method enables practical and scalable multiscale CVD simulations applicable to industrial reactor design and process optimization, establishing a computationally efficient strategy for integrating reactor-scale and microstructure-resolved feature-scale models.
+T. Kim
+H. Ko
+J. Jang
+S. Park
+J. M. Choe
+Y. Kim
+D. S. Kim
+S. Lee
+D. You
+View More
+87
+Shape Morphing Programmable Systems for Enhanced Control in Low-Velocity Flow Applications
+Active flow control has gained substantial interest due to the ubiquitous role of fluids in engineering systems and applications and its potential to enhance aero-, hydro-, and hemodynamic system performance. This study presents an active flow control strategy employing a programmable shape-morphing system actuated by Lorentz forces in liquid metal-embedded microfluidics. The proposed system enables rapid, reversible, and three-dimensional deformations of a thin elastomeric membrane without the need for external flow sources or high-voltage inputs. The platform is evaluated for its capacity to induce distinct motions at various incoming velocities, revealing significant effects on momentum change. The study integrates advanced experimental techniques, reduced-order modeling, and state-of-the-art numerical methods to validate the system's versatility and performance. The findings highlight the potential of this soft actuating system to enhance flow control strategies, with potential applications ranging from improving the aerodynamics of bio-inspired flying sensors to mimicking natural locomotion mechanisms in low-velocity regimes. Further exploration of material innovations is crucial to expanding the system's capabilities and impact on specific flow control applications.
+J. T. Kim
+T. Kim
+H. Jung
+Y. T. Huang
+Y. Jeon
+F. Liu
+S. Cheng
+J. Park
+B. Jeffery
+T. Kim
+X. Ni
+N. Kim
+D. You
+L. P. Chamorro
+X. Ni
+J. A. Rogers
+View More
+86
+Deep reinforcement learning-based control algorithm for flight kinematics of insect-scale flyers
+An autonomous flight control algorithm based on deep reinforcement learning (DRL) is developed for insect-scale flyers with flexible wings in complex flow environments, addressing the challenges posed by highly unsteady and nonlinear aeroelastic dynamics. Unlike conventional model-based approaches, this study employs high-fidelity computational fluid–structural dynamics (CFD-CSD) simulations that fully resolve the governing equations of both the fluid and the flyer, providing physically consistent data for training the DRL agent. To mitigate the computational cost, a novel physics-guided data augmentation strategy is introduced, which synthetically expands the training dataset by replicating CFD-CSD data across diverse virtual flight scenarios while preserving the underlying physics. This approach enables the DRL agent to learn a robust control policy that generalizes across a broad range of aerodynamic conditions, demonstrating strong control performance even in complex and untrained flow environments. This work establishes a scalable framework for the autonomous control of flexible, bio-inspired flyers under realistic aerodynamic conditions, representing a significant step toward fully autonomous insect-scale flight.
+S. Hong
+S. Kim
+I. Kim
+D. You
+View More
+85
+Effects of oxygen bubble formation in the porous transport layer on the performance of polymer-electrolyte-membrane water electrolyzer
+The influence of porous-transport-layer (PTL) microstructures on the performance of polymer-electrolyte-membrane-water-electrolyzers (PEMWEs) is investigated. Oxygen bubble dynamics in powder-type PTLs (P-PTLs) and fiber-type PTLs (F-PTLs) with varying porosities and pore diameters are simulated using a lattice Boltzmann method, where oxygen-water interactions and capillary effects are resolved at the pore scale. To quantify the impact of microscale dynamics on device-level performance, a separate PEMWE model is constructed based on the Navier–Stokes equations, where contact resistance at the PTL-catalyst interface is incorporated. The PEMWE model is validated against experimental polarization curves, while pore-scale bubble behavior is verified using droplet and bubble tests. In P-PTLs, oxygen saturation near the catalyst layer is reduced, and water transport is enhanced as porosity increases. Larger powder diameters promote the formation of consolidated oxygen pathways, which further facilitate water supply. However, these structural advantages are accompanied by increased contact resistance due to a decrease in interfacial contact area. In contrast, F-PTLs are characterized by secondary fingering and excessive oxygen accumulation, limiting water supply, and resulting in higher contact resistance at the same porosity. A clear trade-off between mass transport and interfacial resistance is identified, and P-PTLs are shown to provide superior overall PEMWE performance compared to F-PTLs.
+C. Kim
+S. Seo
+S. Yonn
+J. Kim
+Y. Park
+P. Lee
+D. You
+View More
+84
+Model order reduction for CAE simulation of the windbox in a 500 MW tangentially fired coal boiler
+A non-intrusive reduced-order model (ROM) is developed to reproduce the steady-state three-dimensional velocity field in the windbox of a 500 MW tangentially fired coal boiler. The model is constructed using proper orthogonal decomposition (POD) of simulation results obtained under sampled operating conditions. These conditions are defined by the six key operational parameters: boiler power, coal heating value, excess air ratio, and damper angles for burner, separated over-fire air (SOFA), and under-fire air (UFA) nozzles. The POD mode coefficients are predicted using Kriging regression. The ROM demonstrates high accuracy, achieving a normalized root mean square error (NRMSE) below 1 %, and a maximum normalized error (MNE) approximately an order of magnitude higher and an R2 exceeding 0.99, indicating good agreement with the full order model. A sensitivity analysis reveals that the steady-state convergence criterion has the greatest impact on accuracy, with the NRMSE reduced by up to fourfold when tightening the criterion from 10−4 to 10−6. Increasing the sample size from 100 to 150 reduces the NRMSE by 30–50 %, while increasing the POD energy level from 99 % to 99.9 % has little effect. The ROM can generate accurate 3-D velocity field in seconds, compared to 28 h per full order CFD simulation, supporting its potential as a real-time digital twin for thermal-fluid systems in complex industrial environments.
+H. Yu
+W. Han
+J. Lim
+K. Y. Huh
+D. You
+View More
+83
+Automatic mesh generation for optimal CFD of a blade passage using deep reinforcement learning
+An automatic mesh generation method is developed using deep reinforcement learning (DRL) to achieve an optimal computational fluid dynamics (CFD) solution for a blade passage, yielding the highest simulation accuracy with minimal cost. Unlike traditional methods necessitating iterative tuning of meshing parameters for each new geometry and flow condition, the present method trains a mesh generator to efficiently determine optimal parameters across various configurations without iteration. Firstly, parameters controlling the mesh shape are optimized to maximize the geometric quality of a mesh, which is assessed through metrics including the min-max ratio of determinants of the Jacobian matrices and the cell skewness. Subsequently, resolution-controlling parameters are optimized by incorporating CFD results. Leveraging a multi-agent reinforcement learning technique, 256 agents concurrently construct meshes and conduct CFD analyses across randomly assigned flow configurations, striving for minimum simulation error and computational cost within a multi-objective optimization framework. After the training, the mesh generator reliably produces a mesh that yields a converged solution at desired computational costs for a new configuration in a single simulation, thereby eliminating the necessity for iterative CFD procedures for grid convergence. Confirmation of the optimality of the developed method is attained through a comparative analysis of accuracy and efficiency achieved in a single attempt versus those obtained through conventional iterative optimization methods. The robustness and effectiveness are evaluated for diverse blade passage configurations encompassing a spectrum of blade geometries. Furthermore, the method is found to be capable of identifying the optimal mesh resolution for various flow features such as boundary layers, shock waves, and flow separation. The shock refinement remains constrained by the structured mesh topology, and potential enhancements using local refinement techniques are discussed.
+I. Kim
+J. Chae
+D. You
+View More
+82
+Discovering optimal gas injection strategies for a fluidized bed system using deep reinforcement learning
+Active control strategies for spatiotemporally varying gas injection in a fluidized bed system are developed to optimize particle mixing using deep reinforcement learning (DRL). Unlike conventional pulsation methods relying on predefined waveforms with manually tuned parameters, the proposed framework autonomously discovers control policies through interaction between a DRL agent and a computational fluid dynamics (CFD) environment. The agent receives local voidage as the state and modulates gas velocities at three inlet segments as actions. A reward function is designed to simultaneously promote mixing uniformity, reduce power consumption, and maintain the fluidization regime. To alleviate the computational burden of CFD-based learning, transfer learning across grid resolutions and parallelized simulation environments is employed. Without any prior encoding of pulsation characteristics, the agent successfully discovers an in-phase sinusoidal injection strategy and further identifies a non-intuitive policy involving a reduced centerline velocity, which is unlikely to emerge from conventional predefined waveform-based approaches. The effectiveness of the learned policies is validated, and the underlying physical mechanisms are systematically analyzed. Whereas conventional pulsation alone improves mixing uniformity without noticeable energy savings, the DRL strategy improves mixing performance by an additional 42.9%, while simultaneously reducing power consumption by 3.37%. Such additional gains are attributed to reduced total gas input and the introduction of spatial asymmetry, compensating for the velocity deficit near the sidewalls due to the no-slip condition, enhancing lateral mixing.
+I. Kim
+D. You
+View More
+81
+Effects of wettability and pore size on the transport dynamics of multiphase flow in porous media
+Transport of multiphase flow in porous media is strongly influenced by surface wettability and pore-scale geometry. In the present study, the effects of wettability on gas-phase invasion dynamics in porous media with varying pore sizes are examined using a Lattice Boltzmann method. The numerical approach is validated against classical benchmark cases, including static droplet formation and the Young–Laplace bubble test. The simulation results clearly demonstrate that gas invasion behavior is highly dependent on both wettability and pore size. In porous media with relatively large pores (mean diameter greater than approximately 10  um), increased wettability (i.e., more hydrophilic surfaces) suppresses lateral gas invasion, reducing gas saturation by 0.198 as the contact angle decreases from 87.1° to 30.6°, and accelerates gas breakthrough. In contrast, in fine-pore media (mean pore diameter below approximately 10  um), decreased wettability (i.e., less hydrophilic surfaces) significantly enhances gas mobility by inducing bubble fragmentation mechanisms such as lamella division. This leads to a reduction in gas saturation by 0.572 as the contact angle increases from 30.6° to 87.1°, along with shorter breakthrough times. These findings highlight the coupled effects of wettability and pore structure in controlling multiphase fluid dynamics and provide fundamental insights into multiphase transport and bubble management in capillary-dominated porous media.
+C. Kim
+S. Seo
+J. Kim
+Y. Park
+S. Yoon
+P. Lee
+D. You
+View More
+80
+Numerical study on Prandtl number dependence of thermal convection in an internally heated pool
+Large-eddy simulations have been conducted to study natural convection in a corium pool. The study focuses on a hemispherical pool with uniform volumetric heat generation, complemented by isothermal cooling on all exterior surfaces. The internal Rayleigh number ( ), correlated with the internal heat generation, is fixed at . The Prandtl numbers ( ) examined vary from 0.32 to 10. While previous experimental studies have explored internally heated pool convection primarily in the range using liquids, the present research extends the investigation to the range, including the value for corium of about 0.5. The simulation results indicate that the overall Nusselt number ( ), defined as the volume averaged pool temperature relative to the total heat flux adheres to power laws of for and for . Consequently, the at the of 0.32 is observed to be 17% lower than that at the of 10. A correlation for is proposed as using a generalized logistic function that combines theoretical scaling laws of for and for . This study also includes theoretical analyses, elucidating dependencies of on various parameters, such as the Nusselt number, Reynolds number, the proportion of the heat flux at the upper cooling wall relative to the total generated heat, and the height of the stratified zone.
+D. S. Joo
+S. Whang
+H. S. Park
+D. You
+View More
+79
+Effect of thermal fluctuations on mold coating delamination during continuous casting of high-alloy (Mn, Al) steel
+During the continuous casting of high-alloy (Mn, Al) steels, mold coating delamination occurs specifically at the narrow face (NF) mold corner immediately below the meniscus, different from where mold surface problems are generally known to occur. Most mechanical analyses have been performed assuming negligible thermal fluctuations and steady state interfacial heat fluxes. However, high-alloy steels exhibit larger thermal fluctuations than general steels during continuous casting, attributable to the reaction between the high-alloy steels and mold flux. Therefore, in this study, thermo-mechanical analyses are performed under both steady and fluctuating interfacial heat fluxes to compare the effects of thermal fluctuations on the continuous casting mold, with the results indicating that monotonic stresses are generated under steady interfacial heat fluxes at the corner of the NF mold, whereas cyclic stresses are induced by thermal fluctuations under fluctuating interfacial heat fluxes. Accordingly, the cyclic stresses at the corner of the NF mold, induced by thermal fluctuations, are determined as the major cause of mold coating delamination. These results can be applied to develop methods to reduce mold coating delamination, prevent the degradation of strand quality, and improve mold life.
+H. Kim
+D. You
+View More
+1
+2
+3
+4
+5
+6
+7
+8
+9
+다음 페이지로 이동하기
+마지막 페이지로 이동하기
+페이지 프린트 하기
+페이지 URL 복사 하기
+개인정보처리방침
+영리목적의 광고성 정보전송거부
+찾아오는길
+관련사이트 바로가기
+포항공과대학교
+인스타그램
+페이스북
+트위터(x)
+유튜브
+링크드인
+POSTECH
+
+37673 경상북도 포항시 남구 청암로 77(효자동 산31) 37673 | Tel: 054-279-0114 | E-mail: postech@postech.ac.kr
+
+COPYRIGHT 2025 Pohang University of Science and Technology. ALL RIGHTS RESERVED.
+

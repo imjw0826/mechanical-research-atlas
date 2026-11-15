@@ -1,0 +1,1105 @@
+=== https://caps.ethz.ch/publications/conferences.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Combustion, Acoustics & Flow Physics (CAPS)
+Main Navigation
+The CAPS Lab
+Research
+Education
+Publications
+CAPS intranet
+Search
+Departments
+ETH Zurich
+D-MAVT
+IEPE
+CAPS
+Language Selection
+English
+You are here
+Homepage
+Publications
+Conference Contributions
+Conference Contributions
+Page 1 loaded
+1 – 10 of 60
+Large-Scale Engine Direct Numerical Simulations With NekRS: A Multi-Cycle Database
+Bogdan A. Danciu, Christos Emmanouil Frouzakis and Mathis Bode
+35th Parallel CFD International Conference (ParCFD 2024), Bonn, Germany, pp.260-262, Jülich: Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag, September 2-4, 2024.
+external page:
+DOI: 10.34734/FZJ-2025-02505
+external page:
+Research Collection
+Abstract 
+
+This paper presents a collection of large-scale engine direct numerical simulations performed with NekRS on JUWELS Booster. Twelve cycles each for two different engine speeds, 1500 rpm and 2500 rpm, of the TU Darmstadt engine were calculated, processed and analyzed.
+
+In-Situ Visualization With Ascent and NekRS for Large-Scale CFD Problems on GPUs
+Jens Henrik Göbbert, Damian Alvarez, Mathis Bode, Paul Fischer, Christos E. Frouzakis, Joseph A. Insley, Yu-Hsiang Lan, Victor A. Mateevitsi, Misun Min, Michael E. Papka, Silvio Rizzi, Roshan J. Samuel and Jörg Schumacher
+35th Parallel CFD International Conference (ParCFD 2024), Bonn, Germany, pp.241-244, Jülich: Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag, September 2-4, 2024.
+external page:
+DOI: 10.34734/FZJ-2025-02500
+external page:
+Research Collection
+Abstract 
+
+This paper discusses in-situ visualization in the context of high-order GPU-based CFD solvers. For this purpose, ASCENT was coupled with NekRS and successfully used on JUWELS Booster and Frontier to visualize CFD applications, a Rayleigh-Bénard convection case and a Pebble Bed reactor, at scale. The setup allowed time-resolved visualization at low additional computational cost.
+
+Nanosecond pulsed discharges for reliable ignition of ultra-lean hydrogen-air mixtures
+Galia Faingold, Leander Krieg, Francis Pagaud, Quentin Malé and Nicolas Noiray
+12th European Combustion Meeting (ECM 2025), Edinburgh, United Kingdom, pp.105840 New York, NY: Elsevier, April 8-11, 2025.
+external page:
+DOI: 10.1016/j.proci.2025.105840
+external page:
+Research Collection
+Abstract 
+
+The safe ignition and stabilization of ultra-lean hydrogen-air mixtures remain a critical challenge for enabling low-emission hydrogen combustion in gas turbines. This study investigates nanosecond repetitively pulsed discharges for reliable ignition under conditions relevant to lean-premixed hydrogen operation. Experiments were conducted in a modular combustion rig, where the influence of plasma parameters – including pulse energy, pulse repetition frequency, and pulse number – on ignition and flame kernel development was systematically explored. High-speed OH* chemiluminescence imaging tracked ignition kernel formation and propagation, while optical emission spectroscopy provided characterization of the plasma properties. For equivalence ratios of 0.15-0.20, successful ignition is mostly a function of pulse energy, more than pulse number, with a clear transition from non-ignition to reliable ignition observed above a critical energy threshold. This transition coincides with the change from glow to spark regime. Rather than showing a probabilistic ignition behavior, ignition occurs reliably in the spark regime, and fails at the transition to glow. Optical emission spectroscopy measurements of gas and vibrational temperatures indicate that this shift coincides with an increased production of radicals rather than vibrational excitation, which are more effective in enhancing ignition. For equivalence ratios of 0.086 and 0.1, kernels were created but did not expand in the flowing mixture, and the interaction between pulses — pulse number and repetition frequency became critical. At these ultra-lean conditions, these interactions enable the formation of larger ignition kernels that are less prone to extinction. These findings demonstrate that nanosecond repetitively pulsed based plasma-assisted ignition can significantly extend the ignition limits of lean hydrogen mixtures, offering a promising pathway for stabilizing ultra-lean hydrogen combustion with minimized NOx emissions. Moreover, the ability to reliably ignite ultra-lean mixtures is highly relevant for hydrogen internal combustion engines, where consistent ignition at low equivalence ratios is crucial to reducing cycle-to-cycle variability and improving efficiency.
+
+Local Rayleigh index reconstruction: Application to plasma-assisted sequential combustion under varying pulse repetition frequency
+Matteo Impagnatiello and Nicolas Noiray
+12th European Combustion Meeting (ECM 2025), Edinburgh, United Kingdom, pp.105882 Amsterdam: Elsevier, April 8-11, 2025.
+external page:
+DOI: 10.1016/j.proci.2025.105882
+external page:
+Research Collection
+Abstract 
+
+This study investigates the influence of Nanosecond Repetitively Pulsed Discharges (NRPDs) on the acoustic response of the second stage of a Constant Pressure Sequential Combustor (CPSC) operating at atmospheric pressure. NRPDs are applied upstream of the second-stage combustion chamber to modify the autoignition process, thereby altering the combustor’s acoustic scattering properties. Large Eddy Simulations (LES) combined with System Identification (SI) methods are employed to better understand the NRPD-flame-acoustic interactions in the sequential flame across three different Plasma Repetition Frequencies (PRF), namely 20, 40, and 60 kHz. Results show that, while NRPDs always improve the overall acoustic scattering properties of the system compared to the combustion without NRPDs, the improvement is non-monotonic with respect to PRF. The most favorable acoustic characteristics are observed at PRF = 20 kHz. Analysis of local Rayleigh index fields, reconstructed from broadband-forced simulation data, reveals that variations in PRF alter the physical mechanism by which plasma discharges influence system acoustics. Plasma-generated kernels can either directly induce heat release rate fluctuations and act as acoustic energy sources or sinks, or indirectly affect the system’s acoustics by interacting with the main flame brush and modifying its response. The ability to influence the interaction between autoignition kernels and acoustics by simply adjusting the PRF underscores the potential of NRPDs as a versatile tool for controlling the acoustic behavior of sequential combustors, enabling adaptation to the varying operational needs of real gas
+
+Unraveling Turbulent NH3/H2 Flames Using High Performance GPU Computing: A Series of Spectral Element Method-Based High-Fidelity DNS
+Driss Kaddar, Hendrik Nicolai, Vinzenz Schuh, Antonia Bähr, Christos Emmanouil Frouzakis, Mathis Bode and Christian Hasse
+35th Parallel CFD International Conference (ParCFD 2024), Bonn, Germany, pp.245-248, Jülich: Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag, September 2-4, 2024.
+external page:
+DOI: 10.34734/FZJ-2025-02501
+external page:
+Research Collection
+Abstract 
+
+Ammonia-hydrogen blends are crucial for future carbon-free combustion sys tems, with staged-combustion technologies like rich-quench-lean being proposed to mini mize emissions. However, the combustion behavior of turbulent rich ammonia-hydrogen mixtures is not well understood, particularly regarding phenomena like partial cracking, hydrogen slip, and post-flame stratification. Recent HPC advancements, particularly in GPU-based systems, enable combustion DNS beyond academic configurations. Utilizing nekCRF, a new GPU-based spectral element solver based on nekRS, we perform finite rate chemistry DNS of a rich, turbulent premixed jet flame. The analysis focuses on NH3/H2 interaction, revealing residual H2, minimized NH3 slip, and enhanced heat re lease through turbulent mixing. By leveraging GPU acceleration and employing a novel spectral element solver, this research not only advances our understanding of ammonia combustion but also showcases a paradigm shift in computational efficiency, offering a promising avenue for developing sustainable energy solutions.
+
+NekCRF: A Novel GPU-Accelerated Finite-Rate-Chemistry Solver and Application to Hydrogen
+Mathis Bode, Christos E. Frouzakis and Ananias Tomboulides
+35th Parallel CFD International Conference (ParCFD 2024), Bonn, Germany, pp.257-259, Jülich: Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag, September 2-4, 2024.
+external page:
+DOI: 10.34734/FZJ-2025-02504
+external page:
+Research Collection
+Abstract 
+
+This paper presents nekCRF, a GPU-accelerated finite-rate chemistry solver for complex combustion problems. An application to hydrogen is shown and especially the performance compared to CPUs is discussed.
+
+Feedback control of thermoacoustic instabilities in sequential combustor with nanosecond repetitively pulsed discharges
+Bayu Adi Dharmaputra, Nicolas Noiray and Sergey Shcherbanev
+53rd International Congress and Exposition on Noise Contrl Engineering (Inter-Noise 2024), Nantes, France, pp.9281-9288, Wakefield, MA: Institute of Noise Control Engineering, August 25-29, 2024.
+external page:
+DOI: 10.3397/IN_2024_4223
+external page:
+Research Collection
+Abstract 
+
+Controlling thermoacoustic instabilities is a necessary task for the development and operation of gas turbines. With the increasing proportion of renewable energy sources, gas turbines must have flexibility in terms of both fuel and load. This implies that thermoacoustic instabilities must be controlled under different operating conditions. Active control strategies are indeed very suitable in this case, as they can adapt to the changes in operating conditions. Nanosecond repetitively pulsed discharges (NRPD) has shown to be promising active control actuators because they require no moving parts. In this study, the effectiveness of feedback and open-loop control law with NRPD actuation to suppress thermoacoustic instabilities in a lab-scale sequential combustor is evaluated. The effect of the controller parameters on the NO emissions of the combustor is also quantified. The results indicate that there is a trade-off between acoustic pulsation reduction and NO emission.
+
+Editorial: Proceedings of the 3rd Symposium on Thermoacoustics in Combustion
+Nicolas Noiray
+3rd Symposium on Thermoacoustics in Combustion (SoTiC 2023), Zurich, Switzerland, pp.63-64, Thousand Oaks, CA: SAGE, September 11-14, 2023.
+external page:
+DOI: 10.1177/17568277241274004
+external page:
+Research Collection
+Fuel-specific code generation for thermochemistry and transport properties for CPU- and GPU-based solvers
+Bogdan A. Danciu, Stefan Kerkemeier and Christos Emmanouil Frouzakis
+19th International Conference on Numerical Combustion (ICNC 2024), Kyoto, Japan, pp.185-185,, May 7-10, 2024.
+external page:
+Research Collection
+Abstract 
+
+The transition to green energy requires the adaptation of combustion applications to carbon-free fuels such as hydrogen and ammonia. Achieving this objective is not possible without highly accurate direct numerical simulations (DNS) to elucidate the complex physical phenomena. In turbulent combustion DNS, a significant fraction of the total simulation time is spent on the evaluation of chemical source terms, thermodynamic properties and transport coefficients. In this work, we present a software package that automatically generates efficient fuel-specific kernels for these quantities. The starting point is a Cantera yaml file containing the reaction mechanism and the data required for the calculation of the thermochemical and transport properties, which is processed to generate the fuel-specific kernels. Different strategies are used to optimize the kernels for CPUs and GPUs, with the latter being further optimized for the respective GPU architecture. The accuracy of the generated kernels is automatically checked against reference values for species production rates, thermodynamic properties and transport coefficients calculated using Cantera and stored for comparison. The kernels' performance is evaluated on the latest CPU and GPU architectures from Nvidia, AMD and Intel.
+
+Superradiant Scattering at Coupled Policeman Whistle Meta-Atoms
+Alexander K. Stoychev, Xinxin Guo, Ulrich Kuhl and Nicolas Noiray
+18th International Congress on Artificial Materials for Novel Wave Phenomena (Metamaterials 2024), Chania, Greece Piscataway, NJ: IEEE, September 9-14, 2024.
+external page:
+DOI: 10.1109/Metamaterials62190.2024.10703222
+external page:
+Research Collection
+Abstract 
+
+This study introduces an aeroacoustic meta-atom based on a toy policeman whistle and investigates its scattering properties theoretically and experimentally. The manuscript examines the nonlinear scattering at a single atom and, subsequently, at a double unit cell.
+
+Previous
+Next
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Contact
+Login
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Combustion, Acoustics & Flow Physics (CAPS)
+Main Navigation
+The CAPS Lab
+Research
+Education
+Publications
+CAPS intranet
+Search
+Departments
+ETH Zurich
+D-MAVT
+IEPE
+CAPS
+Language Selection
+English
+You are here
+Homepage
+Publications
+Conference Contributions
+Conference Contributions
+Page 2 loaded
+11 – 20 of 60
+Multi-cycle DNS of a Laboratory Scale Engine: In-cylinder Flow Structures and Turbulence Analysis
+Bogdan A. Danciu, Christos E. Frouzakis, George K. Giannakopoulos and Mathis Bode
+14th ERCOFTAC Workshop Direct and Large Eddy Simulation (DLES 14), Erlangen, Germany Cham: ERCOFTAC, April 10-12, 2024.
+external page:
+Research Collection
+Abstract 
+
+Understanding all the processes that take place in internal combustion engines (ICEs) is extremely challenging. The engine geometry can be complex and is important for the large flow scales. The flow field is usually highly turbulent, resulting in a very wide range of scales. The motion of the piston adds another layer of complexity. ICEs have been studied experimentally for a long time.However, it is very difficult to sufficiently resolve all relevant phenomena. This problem is exacerbated in the study of combustion processes. Boundary layers are also challenging. To gain further insight into these complex processes, numerical simulations are used. These provide a very comprehensive view of all relevant areas, but are also challenging to compute.In particular, the large scale separation leads to simulations that require an extreme level of resolution. The latest generation of supercomputers makes it possible to perform direct numerical simulations (DNS). This is a huge step forward com-pared to classical reduced order approaches such as RANS and LES. It also has great potential to improve reduced order methods. In this study, multi-cycle simulations of the compression and expansion strokes were carried out for the optical engine studied experimentally at TU Darmstadt. Two operating conditions with 12 cycles each were computed on the super-computer JUWELS Booster using the GPU-based CFD code nekRS and up to 3200 GPUs. These first-of-its-kind data provide a great insight into many engine-relevant processes. The focus of the analysis is on the in-cylinder flow structures and the development of turbulence.
+
+A European Perspective on Finite-Rate-Chemistry Solvers Towards Exascale
+Mathis Bode, Daniel Mira, Christos E. Frouzakis and Christian Hasse
+35th Parallel CFD International Conference (ParCFD 2024), Bonn, Germany, September 2-4, 2024.
+external page:
+Research Collection
+Generation of Entropy Waves by Fully Premixed Flames in a Non-Adiabatic Combustor With Hydrogen Enrichment
+Alexander J. Eder, Bayu Dharmaputra, Marcel Désor, Camilo F. Silva, Alex M. Garcia, Bruno Schuermans, Nicolas Noiray and Wolfgang Polifke
+ASME Turbo Expo 2023: Turbomachinery Technical Conference and Exposition (GT 2023), Boston, MA, USA, pp.V03BT04A009 New York, NY: American Society of Mechanical Engineers, June 26-30, 2023.
+external page:
+Research Collection
+Abstract 
+
+Thermoacoustic combustion instability is a major concern in gas turbine combustors with hydrogen-enriched fuels. Unsteady combustion not only generates acoustic waves, but it may also result in fluctuations of burnt gas temperature, referred to as entropy waves. They are convected by the mean flow through the combustor and can cause indirect combustion noise when they are accelerated at the exit. In this work, we demonstrate that entropy waves occur in a fully premixed burner due to unsteady heat transfer at the combustion chamber wall. This mechanism of entropy generation is often neglected in the literature. This work shows an additional mechanism in CH4-H2-air flames, through which entropy may be created even in the fully premixed case. This is due to differential diffusion which generates local fluctuations in equivalence and carbon-to-hydrogen ratios. An adiabatic flame temperature is defined based on these two quantities to examine the influence of differential diffusion on the generation of entropy fluctuations. The generation of entropy waves is investigated by applying system identification (SI) to time series data obtained from a broadband forced large eddy simulation (LES) coupled with a heat conduction solver. The entropy transfer function (ETF) and flame transfer function (FTF) identified are then compared to experimental data obtained with tunable diode laser absorption spectroscopy with wavelength modulation spectroscopy (TDLAS-WMS) for measuring temperature fluctuations, and the multi-microphone method (MMM), respectively. After validating the computational setup, the entropy frequency response is identified at various positions within the combustion chamber, and the effects of generation and convective dispersion of entropy waves are qualitatively investigated. We show that a fully premixed turbulent system may exhibit significant entropy waves caused by wall heat losses and differential diffusion of hydrogen.
+
+Bayesian Optimization Based Adaptive Control of Thermoacoustic Instabilities
+Bayu Dharmaputra, Alain Williner, Bruno Schuermans and Nicolas Noiray
+51st International Congress and Exposition on Noise Control Engineering (INTER-NOISE 2022), Glasgow, United Kingdom, pp.1736-1743, Reston, VA: Institute of Noise Control Engineering, August 21-24, 2022.
+external page:
+DOI: 10.3397/in_2022_0246
+external page:
+Research Collection
+Abstract 
+
+Thermoacoustics instability is one of the factors that limits the operational range of gas turbines. Both active and passive control strategies have been developed to suppress thermoacoustic instability. Active control strategies can adapt to the gas turbine's operational condition and hence provide a wider effectivity than the passive control strategies. However, it remains a challenge to best optimize the control parameters. This work proposes an adaptive control strategy by using Gaussian Process Regression with a modified Safe-Optimisation (SafeOpt) algorithm. The main benefit of the algorithm is it can safely explore the parameter space and minimize the cost function simultaneously. The performance of the algorithm in suppressing the thermoacoustic instability is experimentally demonstrated by stabilizing a turbulent combustor with loudspeakers actuation.
+
+Effect of Hydrogen Enrichment on Transfer Matrices of Fully and Technically Premixed Swirled Flames
+Audrey Blondé, Bruno Schuermans, Khushboo Pandey and Nicolas Noiray
+ASME Turbo Expo 2023: Turbomachinery Technical Conference and Exposition (GT 2023), Boston, MA, USA, pp.V03AT04A032 New York, NY: American Society of Mechanical Engineers, June 26-30, 2023.
+external page:
+DOI: 10.1115/GT2023-101500
+external page:
+Research Collection
+Abstract 
+
+Knowledge of flame responses to acoustic perturbations is of utmost importance to predict thermoacoustic instabilities in gas turbine combustors. However, measuring transfer functions linking acoustic quantities upstream and downstream of flames is very challenging in practical systems and these measurements can significantly deviate from state-of-the-art models. Moreover, there is a lack of studies investigating the effect of hydrogen enrichment on the response of natural gas (NG) flames. In this work, measurements of flame transfer matrices (FTM) of turbulent H-2 /NG flames in an atmospheric combustor featuring an axial swirler burner have been performed, allowing us to unravel the transition between FTM in fully premixed (FP) and in technically premixed (TP) conditions. Furthermore, imaging of OH* chemiluminescence and OH-Planar Laser Induced Fluorescence are obtained for characterizing the topology of the flame for varying H-2 fraction and mixing conditions. Transfer matrices are measured using the multi-microphone method for H-2 fractions ranging from 12% to 43% in power. Afterwards, the flame transfer functions (FTF), which linearly relate the coherent fluctuations of the heat release rate to the acoustic velocity oscillations, are obtained from the FTM by using the Rankine-Hugoniot jump conditions across the flame. Using the OH* chemiluminescence intensity as a surrogate for the heat release rate, the FTF based on this optical measurement is also extracted and compared to the one exclusively obtained with the multi-microphone method. As expected, the two different methods are in very good agreement for the FP case and significantly differ for the TP case. Indeed, chemiluminescence fluctuations cannot be directly linked to heat release rate fluctuations when the acoustic forcing induces equivalence ratio fluctuations at the flame, making the optical method unusable for TP configurations. We also show that the two methods agree in the high end of the explored excitation frequency range and we provide an explanation to this intriguing finding. Moreover, we investigate the sensitivity of the FTM measurement to the estimate of the speed of sound in the rig in FP conditions. Finally, the measured FTFs are fitted with FTF models based on multiple distributed time delays. This allows us to explain the frequency dependence and the hydrogen fraction dependence of the gain and the phase in FP and TP conditions
+
+Multi-Cycle Direct Numerical Simulations of a Laboratory Scale Engine: Evolution of the Momentum and Thermal Boundary Layers
+Bogdan A. Danciu, Christos E. Frouzakis, Georgios Giannakopoulos and Mathis Bode
+14th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements (ETMM 2023), Barcelona, Spain s.n.: ERCOFTAC, September 6-8, 2023.
+external page:
+Research Collection
+Abstract 
+
+Multi-cycle direct numerical simulations (DNS) of a laboratory-scale engine at technically relevant engine speeds (1500 and 2500 rpm) are performed to investigate the evolution of the momentum and thermal boundary layers (BL) under motored operation. The structure and behavior of engine BL is found to differ from canonical steady-state turbulent BL, requiring a more comprehensive understanding for the development of accurate predictive wall models in engineering simulations. The influence of the temporally-varying flow and the strong bulk motion in the cylinder on the BL is significant. Horizontal secondary flow vortical structures generated by the three-dimensional tumble flow are found to strongly influence the BL profiles as well as the evolution of wall heat flux, especially as the engine speed is increased. As a result, significant cyclic variability in the wall heat flux is observed, emphasizing the importance of near-wall phenomena in the overall engine performance.
+
+A novel ultra-low NOx hydrogen combustor based on the Lean Azimuthal Flame concept
+Pedro M. de Oliveira, Luigi Miniero, Khushboo Pandey, Nicolas Noiray and Epaminondas Mastorakos
+AIAA SCITECH Forum 2023, National Harbor, MD, USA, pp.AIAA 2023-1488 Reston, VA: American Institute of Aeronautics and Astronautics, January 23-27, 2023.
+external page:
+DOI: 10.2514/6.2023-1488
+external page:
+Research Collection
+Abstract 
+
+A novel gas turbine combustor concept operating with 100% H2 has been demonstrated at atmospheric conditions. The arrangement is based on the Lean Azimuthal Flame, where high-speed air jets are injected against the net flow and fuel injection, causing entrainment and recirculation of combustion products, promoting turbulence and mixing before reaction with hydrogen occurs. Emission measurements at the combustor outlet at atmospheric pressure revealed single-digit NO ppm levels, between 3–7 ppm for effective combustion powers between 3–20 kW. High-speed OH∗ imaging revealed a very stable flame, with no intermittent dynamics observed within a wide range of operating conditions. The results demonstrate great promise for pure hydrogen combustion.
+
+Experiments and Modelling on the Effect of an Adjustable Boundary on Thermoacoustic Stability
+Audrey Blondé, Bruno Schuermans and Nicolas Noiray
+51st International Congress and Exposition on Noise Control Engineering (Internoise 2022), Glasgow, United Kingdom, pp.63 Reston, VA: International Institute of Noise Control Engineering, August 21–24, 2022.
+external page:
+Research Collection
+Tomographic Reconstruction of OH Density Maps for Jet-A1 Spray Flame in a Vitiated Crossflow
+Luigi Miniero, Khushboo Pandey, Serge Shcherbanev, Ulrich Doll and Nicolas Noiray
+AIAA SCITECH Forum 2022, San Diego, CA, USA, pp.AIAA 2022-1873 Reston, VA: American Institute of Aeronautics and Astronautics, January 3-7, 2022.
+external page:
+DOI: 10.2514/6.2022-1873
+external page:
+Research Collection
+Abstract 
+
+This paper aims at describing the effects of the variation of air-to-liquid ratio (ALR) on the morphology, reaction zone and combustion regime of a Jet A-1 spray flame in a vitiated turbulent crossflow. The variation of these characteristics as a function of the ALR is a result of the effect of the parameter on both the droplets size and jet-to-crossflow momentum ratio. At low ALR, the spray is characterised by larger droplets and weaker crossflow entrainment. The large-inertia droplets tend not to follow the air jet and penetrate independently in the vitiated crossflow, where they burn in a single droplet combustion regime. On the other hand, the better atomisation and the high fuel-oxidisers mixture obtained through crossflow entrainment favour the formation of a MILD combustion regime. The experimental investigation is performed by means of OH* chemiluminescence and a discrete tomographic reconstruction of the OH- and Jet A-1 Planar laser induced fluorescence of the reaction zone.
+
+Exascale DNS of In-Cylinder Flows in a Laboratory Scale Engine at High Engine Speeds
+Bogdan A. Danciu, Christos E. Frouzakis, Jens H. Göbbert and Mathis Bode
+Poster presented at the 11th NIC Symposium 2022, Jülich, Germany, September 29-30, 2022.
+external page:
+Research Collection
+Abstract 
+
+The high spatial and temporal resolution offered by Direct Numerical Simulations (DNS) enable unique insights into the effect of compression on the physical and chemical processes inside internal combustion engines (ICEs). Building upon previous work, this research aims to extend the application for DNS in real-size ICEs at previously inaccessible engine speeds. By taking advantage of GPU-based high performance computing systems, multiple compression-expansion cycles will be simulated under motored operation in the pent-roof engine experimentally studied at TU Darmstadt at 1500 and 2500 RPM, to investigate the large-scale flow motion and the evolution of the momentum and thermal boundary layers. Eventually, the fired operation will also be simulated to study flame propagation and flame-wall interactions.
+
+Previous
+Next
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Contact
+Login
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Combustion, Acoustics & Flow Physics (CAPS)
+Main Navigation
+The CAPS Lab
+Research
+Education
+Publications
+CAPS intranet
+Search
+Departments
+ETH Zurich
+D-MAVT
+IEPE
+CAPS
+Language Selection
+English
+You are here
+Homepage
+Publications
+Conference Contributions
+Conference Contributions
+Page 3 loaded
+21 – 30 of 60
+Unified approach to low-order modeling of can-annular combustors
+Tiemo Pedergnana and Nicolas Noiray
+51st International Congress and Exposition on Noise Control Engineering (Internoise 2022), Glasgow, United Kingdom, pp.509 Reston, VA: International Institute of Noise Control Engineering, August 21–24, 2022.
+external page:
+Research Collection
+Abstract 
+
+We present a unified, physics-based low-order modeling approach to can-annular combustors, combining a linear stability analysis and a nonlinear Langevin approach to unravel the highly complex, multi-physical dynamics in this type of system. In the linear part, Howe’s Rayleigh conductivity model is combined with the projected Helmholtz equation and a Bloch wave ansatz to arrive at a single equation for the frequency spectrum of an N-can combustor. Starting from first principles, we illustrate and give a physical explanation for the coupling-induced amplification and suppression of thermoacoustic instabilities. Adding another layer of complexity, we then take into account nonlinearities in the flame response and the aeroacoustic coupling. The nonlinear dynamics of a symmetric model combustor are explored by exploiting the gradient structure of the averaged slow-flow dynamics. We obtain exact analytical expressions for the steady-state statistics, highlighting the connection between different emergent patterns and the resistive coupling between the cans. We leverage our analysis to explain the intermittent energy transfer between Bloch modes observed in real-world gas turbines.
+
+Flame stabilization with nanosecond repetitively pulsed discharge in a sequential combustor
+Sergey Shcherbanev, Bayu Dharmaputra, Roberto Solana Pérez and Nicolas Noiray
+AIAA SCITECH Forum 2022, San Diego, CA, USA, pp.AIAA 2022-2254 Reston, VA: American Institute of Aeronautics and Astronautics, January 3–7, 2022.
+external page:
+DOI: 10.2514/6.2022-2254
+external page:
+Research Collection
+Abstract 
+
+This paper describes the experimental results of the flame dynamics stabilized by nanosecond repetitively pulsed discharge (NRPD) in a sequential combustor configuration. In such configuration of the combustor, two flame regions are organized sequentially: (i) first stage flame and (ii) second-stage sequential flame placed downstream of the first one. The sequential flame is located downstream of the injection of the dilution air and the second stage fuel into the hot vitiated products of the first stage flame. Several operation conditions of the second stage flame were considered in the present paper. The parameters of the first stage flame and amount of the dilution air were fixed while the second stage fuel injection was composed of natural gas/H2 mixture with different fractions of hydrogen. It is shown that the flame anchoring and combustion dynamics is significantly affected by the amount of hydrogen and mean power of the NRPD. Thermal effect of the plasma was studied with optical emission spectroscopy. Namely, the temperature increase due to the fast gas heating was measured during applied high-voltage pulses. It was shown that, for a mean vitiated flow temperature of 1000K, the temperature increase due to nanosecond pulse discharge can reach up to 2100K. The coupling of the gas flow with NRPD was identified for different frequencies and amplitudes of applied pulses. It was found that for high pulse repetition frequency (PRF>40 kHz) the discharge propagation and the parameter of the plasma have a cumulative effect. Spatially resolved electron density and mean gas temperature in the plasma region were measured in order to characterize the flow-discharge coupling in the flow direction. High speed OH chemiluminescence is used for quantitative analysis of the ignition and stabilization of the second stage flame.
+
+The Effect of Hydrogen Addition on Confined Turbulent Boundary Layer Flashback Studied with a Critically Strained Flame Model
+Alex G. Novoselov, Dominik Ebi and Nicolas Noiray
+AIAA SCITECH Forum 2022, San Diego, CA, USA, pp.AIAA 2022-1739 Reston, VA: American Institute of Aeronautics and Astronautics, January 3–7, 2022.
+external page:
+DOI: 10.2514/6.2022-1739
+external page:
+Research Collection
+Abstract 
+
+The addition of hydrogen fuel to gas turbines otherwise operating on natural gas is a practical technique for the reduction of carbon emissions. However, hydrogen addition also modifies flame properties and leads to a significantly higher boundary layer flashback propensity. Robust methods to accurately predict these flashback limits are thus important to reducing emissions. In this work, a quantitative model for confined turbulent boundary layer flashback based on critically strained flames is presented. The model is based on the idea that strained flame extinction is directly responsible for controlling the flashback limit. The model predicts the occurrence of flashback when the one-dimensional strained flame speed at the extinction limit matches the axial flow velocity one thermal distance from the wall. The model agrees well with measurements of hydrogen-air flames in a non-swirling burner, and can be extended to methane-hydrogen-air flames in a swirling burner through minimal experimental data.
+
+Experimental investigation of a phase-cancelling slow-sound metamaterial with mean flow
+Richard Martin, Bruno Schuermans and Nicolas Noiray
+51st International Congress and Exposition on Noise Control Engineering (Internoise 2022), Glasgow, United Kingdom, pp.421 Reston, VA: International Institute of Noise Control Engineering, August 21–24, 2022.
+external page:
+DOI: 10.3397/IN_2022_0238
+external page:
+Research Collection
+Abstract 
+
+Acoustic metamaterials have a wide variety of potential applications in various engineering disciplines. In many cases, the acoustic medium can be assumed to be at rest. However, for a lot of engineering applications a moving fluid is used to transport energy or substances, or to perform mechanical work. For those cases, acoustic waves are advected and acoustic energy can be dissipated or generated. These effects play a significant role for the design of acoustic metamaterials. In this work, an acoustic metamaterial with a low Mach number mean flow is presented. It is an array consisting of an even number of channels. Half of them are equipped with a slow-sound metamaterial, whereas the other half has unaltered sound propagation characteristics. Thus, the resonance frequencies of the channels are shifted. This results in a phase shift in the acoustic velocity response between both types of channels for a given pressure excitation, resulting in phase cancellation. However, this effect is weakened for higher mean flow velocities.
+
+Experiments on the aeroacoustic whistling of a cylindrical cavity
+Abel Faure-Beaulieu, Tiemo Pedergnana, Yuan Xiong and Nicolas Noiray
+51st International Congress and Exposition on Noise Control Engineering (Internoise 2022), Glasgow, United Kingdom, pp.480 Reston, VA: International Institute of Noise Control Engineering, August 21–24, 2022.
+external page:
+Research Collection
+Abstract 
+
+An air flow going through an axisymmetric cavity can interact with the acoustic modes of this cavity and produce loud self-sustained acoustic oscillations. Acoustic measurements reveal that the nature of the acoustic mode undergoes complex dynamics. Simultaneously to acoustic measurements, time resolved stereoscopic particle image velocimetry gives the three velocity components in a two-dimensional plane. Although the experimental velocity fields are only two-dimensional, the whole tridimensional phase-averaged velocity field can be reconstructed for the specific case of a spinning aeroacoustic mode. This reconstruction reveals the existence of a helical vortex tube spiralling in the shear layer at the cavity opening.
+
+Entropy Waves Measurement by Tunable Diode Laser Absorption Spectroscopy
+Bayu Dharmaputra, Yuan Xiong, Sergey A. Shcherbanev, Audrey Blondé and Nicolas Noiray
+AIAA SCITECH Forum 2022, San Diego, CA, USA, pp.AIAA 2022-1746 Reston, VA: American Institute of Aeronautics and Astronautics, January 3–7, 2022.
+external page:
+DOI: 10.2514/6.2022-1746
+external page:
+Research Collection
+Abstract 
+
+Tunable Diode Laser Absorption Spectroscopy (TDLAS) technique has been widely applied to measure the gas temperature and species concentration in combustion environments. In this work, we show the capability of TDLAS in measuring the coherent temperature fluctuations of a turbulent swirled flame. Two distributed feedback grating (DFB) lasers are used to probe the H2O absorption transitions near 7185.59 cm−1 and 6806.03 cm−1. Using the Peak-Scanned Wavelength Modulation Spectroscopy (WMS), the 2f/1f absorption spectra are converted into temperature at a rate of 5 kHz. A particular quantity that we highlight is the Entropy Transfer Function (ETF) which relates the upstream acoustic perturbation to the temperature fluctuation downstream of the flame. The ETF is obtained by taking the ratio between the measured temperature fluctuation and the upstream acoustic perturbation input, induced by loudspeakers, reconstructed by multi-microphones-method. It is found that the ETFs of the swirling flame do not decrease monotonically with respect to the forcing frequency and exhibit a minimum response at particular frequencies depending on the operating conditions. The remarkable similarity between the measured ETFs and Flame Transfer Functions (FTFs) indicates a strong link between flame heat release rate response and the temperature fluctuation downstream of the flame. Furthermore, the measurement series demonstrate the strong capability and robustness of the TDLAS-WMS method in uncovering the peculiar entropy response of a turbulent swirled flame.
+
+Thermoacoustic instabilities in annular combustors
+Abel Faure Beaulieu
+Conference on Combustion Research in Switzerland 2021, Zurich, Switzerland, September 17, 2021.
+external page:
+Research Collection
+Abstract 
+
+Thermoacoustic instabilities result from a constructive feedback loop between a flame and its own combustion noise reflected back. They frequently happen in combustion systems with low acoustic dissipation and can lead to high amplitude acoustic oscillations that cause mechanical fatigue and failure. Additionally, they are extremely sensitive to various factors like the geometry of the combustor, the fuel composition, the temperature, the acoustic properties of the walls, and therefore they are difficult to predict. This is why they can slow down the development of many high-power combustion systems like rocket engines, gas turbines or aircraft jet engines, especially in the actual context where new architectures and new fuels are needed. Since full-scale tests are expensive, we need better theoretical understanding and modelling of these instabilities to tackle them at early design stages. In this talk, we focus on the specific case of annular combustion chambers, frequently adopted in gas turbines, and even more in aircraft jet engines, because of their light weight and their simplicity of manufacturing compared to can-annular combustors. In annular chambers, thermoacoustic instabilities frequently involve azimuthal acoustic modes, which are degenerate because of the rotational symmetry of the chamber: this specificity causes a very wide range of thermoacoustic dynamics that are non-trivial and are not observed in simpler systems like single-can combustors. The instantaneous state of an azimuthal mode can be described as a standing wave, a spinning wave, or a sum of both. Experiments on a lab-scale annular combustor reveal that thermoacoustic modes can stabilize in one of these states, or undergo transitions between different states without stabilizing, depending on the operating conditions. We propose a low-order model based on a 1D wave equation, which reproduces most of these intriguing experimental dynamics and provides physical insight for several observed phenomena. The conclusions obtained from our studies can be valuable to develop strategies for detection and protection against instabilities in commercial engines, which can be equipped with only a limited amount of acoustic pressure probes. It can also be used for growth rate identification to guide the design of acoustic dampers.
+
+Hot gas ingestion in Helmholtz dampers
+Luigi Miniero, Georg A. Mensah, Claire Bourquard and Nicolas Noiray
+Symposium on Thermoacoustics in Combustion: Industry meets Academia (SoTiC 2021), Munich, Germany, September 6-10, 2021.
+external page:
+Research Collection
+Abstract 
+
+Hot gas entering the resonant cavity of Helmholtz dampers is a serious issue in gas turbines. The gas changes the local speed of sound and thereby the resonance frequency of the damper. This leads to a detuning of the damper and ultimately prevents the intended damping of thermoacoustic feedback loops. This study presents experimental and theoretical investigations of that problem. A physics-based model is derived with a few empirical parameters, calibrated with experimental data conducted with a tunable Helmholtz damper in a laboratory-scale test rig. In particular, the obtained model is capable of reproducing the bistable dynamics observed in the experiments for specific equivalence ratios.
+
+HPC in combustion: contributions to physical understanding, theory and modeling
+Cristos E. Frouzakis, George K. Giannakopoulos, Ananias G. Tomboulides and Konstantinos Boulouchos
+32nd Parallel Computational Fluid Dynamics Conference (ParCFD 2021), Online Zurich: ETH Zurich, May 17-19, 2021.
+external page:
+Research Collection
+Abstract 
+
+Combustion is a fascinating process occurring over an extended range of temporal and spatial scales. The quest for novel fuel-flexible devices with higher efficiency and reduced emissions leads to new regimes with complex flow-combustion interactions that are poorly understood at the fundamental level. Enabled by advances in computational resources, direct numerical simulations (DNSs) allow for the resolution of all relevant scales, and provide an accurate and complete description, which, together with theory and experiments, can be used to gain physical insights into the interactions of the physicochemical processes from the fundamental and the application level. After briefly discussing our spectral element low Mach number reactive flow solver and its scalabililty on today‘s HPC architectures, we will present selected examples where high-fidelity simulation were used to complement experiments in single-cylinder optical engines. The generated datasets are also used to validate and tune existing models, establish best practices for engineering-type simulations, and develop a new algebraic model for wall heat transfer in internal combustion engines.
+
+Effects of the atomization air on the topology of a Jet A-1 spray flame in a turbulent vitiated crossflow
+Luigi Miniero, Khushboo Pandey, Serge Shcherbanev, Ulrich Doll and Nicolas Noiray
+10th European Combustion Meeting (ECM 2021), Online, pp.15|04, April 14–15, 2021.
+external page:
+Research Collection
+Abstract 
+
+The effects of the air-to-liquid ratio on a Jet A-1 spray in a vitiated turbulent crossflow are investigated by means of OH* chemiluminescence and OH-PLIF. The turbulent crossflow is generated with a 4 X 4 matrix of CH4-H2-Air lean technically premixed flames operated at 50 kW, equivalence ratio 0.7 and with a 5% H2 enrichment by mass. A Jet A-1 spray, generated with an air-assisted atomizer and corresponding to 5 kW power is introduced in the crossflow. The current work focuses on the effects of atomization air on the flame topology and heat release. The time-averaged high-speed OH* chemiluminescence images provide an estimate of the flame location and global features. For more insights, OH-PLIF experiments are performed at the central plane of the spray. In addition to the on-resonance OH PLIF signature, the detuning of the laser from the OH excitation wavelengths provides the spatial information about the presence of Jet A-1 droplets/vapour. It is reported that for low ALR the isolated combustion of relatively large droplets creates a localised heat release region on the windward side and closer to the atomizer. Whereas with increase in the ALR, the spray flame manifests higher degree of spatial uniformity.
+
+Previous
+Next
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Contact
+Login
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Combustion, Acoustics & Flow Physics (CAPS)
+Main Navigation
+The CAPS Lab
+Research
+Education
+Publications
+CAPS intranet
+Search
+Departments
+ETH Zurich
+D-MAVT
+IEPE
+CAPS
+Language Selection
+English
+You are here
+Homepage
+Publications
+Conference Contributions
+Conference Contributions
+Page 4 loaded
+31 – 40 of 60
+Large Eddy Simulation of Boundary Layer Flashback in Turbulent Swirling Flows
+Alex G. Novoselov, Dominik Ebi and Nicolas Noiray
+10th European Combustion Meeting (ECM 2021), Online, April 14-15, 2021.
+external page:
+Research Collection
+Abstract 
+
+The prevention of flame flashback is critical to successful operation of stationary gas turbines for power generation. These gas turbines are expected to incorporate significant amounts of hydrogen fuel in the coming years as part of a comprehensive effort to reduce CO2 emissions. While the addition of hydrogen leads to lower emissions, it also increases the flashback propensity of the system. Therefore, studying flashback limits and mechanisms in flames with significant hydrogen fuel is critical to the continued improvement of stationary gas turbines. In this work, the boundary layer flashback of lean hydrogen/air mixtures in a swirl burner is studied using Large Eddy Simulations. The simulations are based on experiments in a generic swirl burner developed at the Paul Scherrer Institute and use the experimental results as validation for the modeling strategies employed. Specifically, simulations are carried out at increasing equivalence ratios to identify the flashback limits and compare them to experimental measurements. Validated flashback simulations are studied to determine the flashback dynamics, as well as the governing flashback physics. In particular, the swirler vane angle is shown to strongly control flashback dynamics, with flame propagation occurring in the direction of rotation at high angles, and against the direction of rotation at low angles. In addition, the importance of local pressure dilatation effects (and therefore backflow) on the flashback is studied for these two flashback mechanisms. In all cases, insight into flashback is drawn from a combined understanding of the simulations and experiments.
+
+Flame anchoring of a premixed jet flame in vitiated crossflow using nanosecond repetitively pulsed discharge
+Sergey Shcherbanev, Titouan Morinière, Roberto Solana Pérez, Ulrich Doll and Nicolas Noiray
+10th European Combustion Meeting (ECM 2021), Naples, Italy, pp.1425-1429, Naples: Università Federico II di Napoli, April 14–15, 2021.
+external page:
+Research Collection
+Abstract 
+
+This paper aims to investigate the effects of nanosecond repetitively pulsed discharge on the dynamics and on the anchoring of a premixed jet flame in hot vitiated cross flow. The lift-off height of the flame is studied for different mean plasma power, jet equivalence ratio and momentum ratio. It was found that the effect of plasma on the flame anchoring increases while decreasing jet equivalence ratio at fixed discharge mean power. Instantaneous and averaged OH-PLIF images showed the production of OH radicals on the windward side of the jet as well as their propagation along and around the windward jet shear layer over 2 to 5 jet diameters depending on the jet equivalence ratio and jet-to-cross-flow momentum ratio. It was shown that the presence of the NRPD on the windward side increases the overall OH density on both the windward and the leeward side of the jet. The chemical and thermal effects are discussed based on results of OH-PLIF images and emission spectroscopy. It is shown that rather low mean power (comparing to the flame power) discharge can serve as an efficient instrument for flame anchoring and stabilization.
+
+Boundary layer flashback at gas turbine conditions with hydrogen addition
+Alex G. Novoselov, Dominik Ebi, Peter Jansohn and Nicolas Noiray
+Conference on Combustion Research in Switzerland 2021, Zurich, Switzerland Bern: Bundesamt für Energie BFE, September 17, 2021.
+external page:
+Research Collection
+Abstract 
+
+The addition of hydrogen fuel to stationary gas turbines presently running on natural gas is an appealing path forward for the reduction of carbon emissions because it can be achieved without dramatic changes to the current power generation infrastructure. Unfortunately, the addition of hydrogen can significantly modify the flame dynamics. One byproduct of such addition is flame flashback, a potentially destructive event wherein the flame exits the combustion section and propagates through the mixing section. Despite the relevancy of boundary layer flashback in practical devices, this phenomenon is generally studied only at low Reynolds numbers, atmospheric conditions, and in non-swirling flows, none of which are representative of conditions in real gas turbines. In the present work, several open questions regarding boundary layer flashback are addressed through a study of an axial swirl burner at conditions approaching those in practical combustors. Measurements are taken at pressures up to 7.5 bar, preheat temperatures up to 300°C, and inlet velocities up to 40 m/s and are studied in tandem with hydrogen content variations up to 100%. These measurements indicate a significant increase in the flashback propensity with increasing hydrogen concentration. Two distinct flame rotation modes are identified during flashback with the transition occurring as a function of the swirl number. Critically, the flashback limit is shown to occur at a constant extinction strain rate regardless of hydrogen quantity. These measurements motivate the development of a simple model for boundary layer flashback limits based on critically strained flames. According to the model, the flashback limit occurs at the equivalence ratio where the extinction limit flamespeed matches the mean axial flow velocity one thermal distance from the wall. The model performs extremely well when compared to non-swirling turbulent boundary layer flashback data. It is then extended to study the effect of additional parameters including pressure and hydrogen content on the flashback limit indicating excellent qualitative agreement with the limited available data.
+
+Morphology and dynamics of a premixed hydrogen-methane-air jet flame in hot vitiated turbulent crossflow
+Roberto Solana Pérez, Luigi Miniero, Serge Shcherbanev, Mirko R. Bothien and Nicolas Noiray
+ASME Turbomachinery Technical Conference and Exposition (TE 2020) (virtual), London, United Kingdom, pp.V04BT04A066 New York, NY: American Society of Mechanical Engineers, September 21-25, 2020.
+external page:
+DOI: 10.1115/GT2020-16282
+external page:
+Research Collection
+Abstract 
+
+The effect of hydrogen enrichment of a premixed hydrogen-methane-air jet in hot vitiated crossflow was studied at atmospheric condition. The hot turbulent vitiated crossflow is generated by a symmetric array of 4 4 jet flames burning a lean mixture of natural gas and air in fully premixed condition at equivalence ratio phi = 0.7 and total thermal power of 50 kW. This crossflow is then used to ignite the premixed perpendicular jet of hydrogen-methane-air at ambient temperature. Three jet parameters are varied to study the effect of hydrogen addition on the flame morphology and estabilization mechanism: the hydrogen mass fraction of the H2/CH4 fuel blend (x = 0-100%), the jet equivalence ratio (phi = 0.8-2.0) and the jet-to-crossflow momentum ratio (J = 3-12). High-speed hydroxyl (OH) chemiluminescence is used to obtain the time-resolved imaging of the reactive jet and to compute its time averaged morphology. OH planar laser induced fluorescence (OH-PLIF) is used to acquire OH concentration fields at the jet center plane. The jet morphology is analyzed by considering its mean trajectory, extracted from the experimental data and fitted with empirical correlations available from the literature. New correlations are proposed for the flame length, width and center of gravity as function of the hydrogen content. It is shown that with increasing hydrogen fraction, the flame is shortened and more compact, and it stabilises close to the jet root. Another finding of this work is the reattachment of the flame at the base of the windward jet shear layer when hydrogen fraction is increased. Robust flame anchoring is observed for H2 mass fractions of the CH4/H2 fuel blend that exceed 50%. Moreover, it is shown using instantaneous OH-PLIF images that for these conditions of increasing hydrogen concentration, the windward shear layer features larger-scale coherent structures that govern the aerodynamics of the reactive premixed jet in turbulent vitiated crossflow.
+
+Simulation of the self-ignition of a cold premixed Ethylene-Air jet in hot vitiated crossflow
+Roberto Solana Pérez, Oliver Schulz and Nicolas Noiray
+11th Mediterranean Combustion Symposium (MCS11), Tenerife, Spain, June 16-20, 2019.
+external page:
+Research Collection
+Abstract 
+
+Previous studies investigated experimentally and numerically the stabilization mechanism of an existing flame in a reactive jet in cross flow (RJICF) con figuration. The aim of this paper is to analyze the transient self-ignition phenomenon when transitioning from a non-reactive to a reactive JICF. A premixed ethylene-air mixture (Equivalence ratio = 1.2) at 300 K is injected into a hot vitiated cross flow at 1500 K. A compressible 3D large eddy simulation (LES) using analytically reduced chemistry (ARC) is performed. The numerical scheme and LES were previously validated against experiments. Simulations show the sudden outbreak of low heat release patches by autoignition in scattered positions of the jet windward region. In this region autoignition conditions are met, i.e. very lean most reactive mixture fractions, high temperatures and low velocity magnitudes. These patches grow and expand by a chain reaction along the windward side, they laterally wrap the jet and extend into the recirculation region. The intensity of heat release in the windward region grows exponentially in time due to the autoignition cascade phenomenon. In this phenomenon heat release diffuses downstream contributing to a reduction of the autoignition time values in the inner richer regions which are accompanied by stronger heat release. Eventually the visible flame starts by autoignition. It appears lifted at the windward side and propagates to the jet leeward side from the laterals and top zones of the jet.
+
+The ignition process of a premixed reactive jet in hot vitiated crossflow
+Roberto Solana Pérez, Oliver Schulz and Nicolas Noiray
+17th International Conference on Numerical Combustion (NC19), Aachen, Germany, pp.119-119, Aachen: RWTH Aachen University, May 6-8, 2019.
+external page:
+Research Collection
+Abstract 
+
+The transient ignition process of a premixed methane-air jet that is injected into a hot vitiated cross-flow is investigated by means of LES with analytically reduced chemistry. Premixed reactive jet in hot crossflow (RJICF) configurations are important for modern combustion systems for power applications. The ignition process occurs without external heat source and it is here investigated by comparing numerical simulations to experimental data (PIV and OH LIF). The LES gives access to the full spatio-temporal evolution of the reaction zone, and allows to identify regions governed by autoignition and by flame propagation. After the transient flame anchoring, the turbulent RJICF structure is also characterised. The reaction zone stretches over a wide range of mixture fractions from the most reactive one to the stoichiometry.
+
+Prediction of the nonlinear response of an acoustically forced flow with linearized Navier-Stokes equations
+Abel Faure Beaulieu, Claire Bourquard and Nicolas Noiray
+23rd International Congress on Acoustics (ICA 2019), Aachen, Germany, pp.5299-5306, Berlin: Deutsche Gesellschaft für Akkustik, September 9-13, 2019.
+external page:
+Research Collection
+Noise analysis and reduction in high-framing-rate background oriented schlieren
+Yuan Xiong, Markus Weilenmann and Nicolas Noiray
+18th International Symposium on Flow Visualization (ISFV18), Zurich, Switzerland Zurich: ETH Zurich, June 26-29, 2018.
+external page:
+Research Collection
+Large Eddy Simulation of a Premixed Flame in Hot Vitiated Crossflow With Analytically Reduced Chemistry
+Oliver Schulz and Nicolas Noiray
+63rd ASME Turbo Expo (GT 2018), Oslo, Norway, pp.V04BT04A053 New York, NY: American Society of Mechanical Engineers, June 11-15, 2018.
+external page:
+DOI: 10.1115/GT2018-77115
+external page:
+Research Collection
+Abstract 
+
+This numerical study deals with a premixed ethylene-air jet at 300 K injected into a hot vitiated crossflow at 1500 K and atmospheric pressure. The reactive jet in crossflow (RJICF) was simulated with compressible 3-D large eddy simulations (LES) with an analytically reduced chemistry (ARC) mechanism and the dynamic thickened flame (DTF) model. ARC enables simulations of mixed combustion modes, such as autoignition and flame propagation, that are both present in this RJICF. 0-D and 1-D simulations provide a comparison with excellent agreement between ARC and detailed chemistry in terms of autoignition time and laminar flame speed. The effect of the DTF model on autoignition was investigated for varying species compositions and mesh sizes. Comparisons between LES and experiments are in good agreement for average velocity distributions and jet trajectories; LES remarkably capture experimentally observed flame dynamics. An analysis of the simulated RJICF shows that the leeward propagating flame has a stable flame root close to the jet exit. The lifted windward flame, on the contrary, is anchored in an intermittent fashion due to autoignition flame stabilization. The windward flame base convects downstream and is “brought back” by autoignition alternately. These autoignition events occur close to a thin layer that is associated with radical build-up and that stretches down to the jet exit.
+
+Inertial effects in thermoacoustic subcritical bifurcation
+Giacomo Bonciolini, D. Ebi, Edouard Boujo and Nicolas Noiray
+9th European Nonlinear Dynamics Conference (ENOC 2017), Budapest, Hungary: CongressLIne, June 25-30, 2017.
+external page:
+Research Collection
+Previous
+Next
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Contact
+Login
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Combustion, Acoustics & Flow Physics (CAPS)
+Main Navigation
+The CAPS Lab
+Research
+Education
+Publications
+CAPS intranet
+Search
+Departments
+ETH Zurich
+D-MAVT
+IEPE
+CAPS
+Language Selection
+English
+You are here
+Homepage
+Publications
+Conference Contributions
+Conference Contributions
+Page 5 loaded
+41 – 50 of 60
+Measurements of Entropy Waves using the Background-oriented Schlieren Method (BOS)
+M. Weilenmann, Yuan Xiong and Nicolas Noiray
+New Combustion Concepts, Thuwal, Saudi Arabia, March 6 - 8, 2017.
+external page:
+Research Collection
+Combustion regimes in sequential combustors
+Oliver Schulz and Nicolas Noiray
+Global Power and Propulsion Society's Inaugural Forum (GPPS FORUM 2017), Zurich, Switzerland, pp.GPPF-2017-83 Zug: GPPS, January 16-18, 2017.
+external page:
+Research Collection
+Abstract 
+
+This numerical study compares the combustion process of a gas turbine sequential combustor at atmospheric and high pres- sure (10 bar) conditions. Flame propagation is found to be the driving combustion regime at 1 bar, whereas at high pressure autoignition dominates. The transition from propagation to au- toignition is mapped over a range of unburned gas temperature and pressure based on 1-D flame simulations. A new Analyt- ically Reduced Chemistry (ARC) mechanism for methane/air combustion at high pressure with 16 transported species is ob- tained to perform compressible 3-D Large Eddy Simulation (LES) with the Dynamic Thickened Flame model (DTF).
+
+Large eddy simulations of a reactive jet in hot vitiated crossflow: flame stabilisation mechanism
+Oliver Schulz, Emile Piccoli, Anne Felden, Gabriel Staffelbach and Nicolas Noiray
+70th Annual Meeting of the American Physical Society Division of Fluid Dynamics (DFD 2017), Denver, CO, USA, pp.F2.3 New York, NY: American Physical Society, November 19-21, 2017.
+external page:
+Research Collection
+Flame stabilisation and dynamics in a sequential combustor at atmospheric and high pressure
+Oliver Schulz and Nicolas Noiray
+16th International Conference on Numerical Combustion, Orlando, FL, USA, pp.40-40, Philadelphia, PA: SIAM, April 3-5, 2017.
+external page:
+Research Collection
+Subcritical Thermoacoustic Bifurcation in Turbulent Combustors: Effects of Inertia
+Giacomo Bonciolini, Dominik Ebi, Edouard Boujo and Nicolas Noiray
+26th International Colloquium on the Dynamics of Explosions and Reactive Systems (ICDERS 2017), Boston, MA, USA, July 30 - August 4, 2017.
+external page:
+Research Collection
+Stabilization of self-sustained acoustic oscillation using Helmholtz and Quarter-wave resonators
+Claire Bourquard and Nicolas Noiray
+24th International Congress on Sound and Vibration (ICSV24), London, United Kingdom, July 23-27, 2017.
+external page:
+Research Collection
+Beer bottle whistling: a stochastic Hopf bifurcation
+Edouard Boujo, Claire Bourquard, Yuan Xiong and Nicolas Noiray
+70th Annual Meeting of the American Physical Society Division of Fluid Dynamics, Denver, CO, USA, pp.Q19.4 New York, NY: American Physical Society, November 19-21, 2017.
+external page:
+Research Collection
+Stochastic aspects of thermoacoustic instabilities in combustion chambers
+Nicolas Noiray and Alexey Denisov
+24th International Congress of Theoretical and Applied Mechanics (ICTAM 2016), Montreal, Canada Zurich: ETH Zurich, August 21-26, 2016.
+external page:
+Research Collection
+Quantifying stochastic limit-cycle parameters from the adjoint Fokker-Planck equation
+Edouard Boujo and Nicolas Noiray
+24th International Congress of Theoretical and Applied Mechanics (ICTAM 2016), Montreal, Canada, pp.619-620, s.l.: International Union of Theoretical and Applied Mechanics, August 21-26, 2016.
+external page:
+Research Collection
+A criterion to distinguish autoignition and propagation applied to a lifted methane–air jet flame
+O. Schulz, T. Jaravel, T. Poinsot, B. Cuenot and Nicolas Noiray
+36th International Symposium on Combustion, Seoul, South Korea, July 31 - August 5, 2016.
+external page:
+Research Collection
+Previous
+Next
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Contact
+Login
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Combustion, Acoustics & Flow Physics (CAPS)
+Main Navigation
+The CAPS Lab
+Research
+Education
+Publications
+CAPS intranet
+Search
+Departments
+ETH Zurich
+D-MAVT
+IEPE
+CAPS
+Language Selection
+English
+You are here
+Homepage
+Publications
+Conference Contributions
+Conference Contributions
+Page 6 loaded
+51 – 60 of 60
+A method to identify thermoacoustic growth rates in combustion chambers from dynamic pressure time series
+Nicolas Noiray and Alexey Denisov
+36th International Symposium on Combustion, Seoul, South Korea, July 31 - August 5, 2016.
+external page:
+Research Collection
+Autoignition Flame Dynamics in Sequential Combustors
+Oliver Schulz and Nicolas Noiray
+International Symposium Thermoacoustic Instabilities in Gas Turbines and Rocket Engines, Munich, Germany Zurich: ETH Zurich, May 30 - June 2, 2016.
+external page:
+Research Collection
+Criteria for choosing Helmholtz or quarter-wave dampers to suppress combustion instabilities
+Claire Bourquard and Nicolas Noiray
+International Symposium Thermoacoustic Instabilities in Gas Turbines and Rocket Engines, Munich, Germany Zürich: ETH Zürich, May 30 - June 1, 2016.
+external page:
+Research Collection
+Effects of turbulence-induced colored noise on thermoacoustic instabilities in combustion chambers
+Giacomo Bonciolini, Edouard Boujo and Nicolas Noiray
+International Symposium: Thermoacoustic Instabilities in Gas Turbines and Rocket Engines, Munich, Germany Zürich: ETH Zürich, May 30 - June 02, 2016.
+external page:
+Research Collection
+Linear Growth Rate Estimation From Dynamics and Statistics of Acoustic Signal Envelope in Turbulent Combustors
+Nicolas Noiray
+61st ASME Turbo Expo (GT 2016), Seoul, South Korea, pp.GT2016-58169 New York, NY: American Society of Mechanical Engineers, June 13-17, 2016.
+external page:
+DOI: 10.1115/GT2016-58169
+external page:
+Research Collection
+Abstract 
+
+Considerable research and development efforts are required to meet the targets of future gas turbine technologies in terms of performance, emissions and operational flexibility. One of the recurring problem is the constructive coupling between flames and combustor’s acoustics. These thermoacoustic interactions can cause high amplitude dynamic pressure limit cycles, which reduce the lifetime of the hot-gas-path parts or in the worst case scenario destroy these mechanical components as a result of a sudden catastrophic event. It is shown in this paper that the dynamics and the statistics of the acoustic signal envelope can be used to identify the linear growth rates hidden behind the observed pulsations, and the results are validated against numerical simulations. This is a major step forward and it will contribute to the development of future gas turbine combustors, because the knowledge of these linear growth rates is essential to develop robust active and passive systems to control these combustion instabilities.
+
+Bifurcation analysis of self-excited thermoacoustic oscillations in damper-equipped combustion chambers
+Michael Baumann, Remco I. Leine, Nicolas Noiray and Bruno Schuermans
+ECCOMAS Thematic Conference on Multibody Dynamics 2013, Zagreb, Croatia, pp.857-866, Zagreb: University of Zagreb, July 1-4, 2013.
+external page:
+Research Collection
+Combustion dynamics validation of an annular reheat combustor
+Ghislain Singla, Nicolas Noiray and Bruno Schuermans
+57th ASME Turbo Expo (GT 2012), Copenhagen, Denmark, pp.447-455, New York, NY: American Society of Mechanical Engineers, June 11-15, 2012.
+external page:
+DOI: 10.1115/GT2012-68684
+external page:
+Research Collection
+Abstract 
+
+This paper deals with a detailed thermoacoustic assessment of an annular reheat combustor. Extensive tests have been conducted in the GT26 Test Power Plant in Switzerland. To this end, the combustion chamber has been instrumented with advanced pulsation sensors, an optical probe, strain gauges and accelerometers. A large number of dynamic pressure sensors recorded the acoustic pressure wave propagations in the axial and circumferential directions over a very large frequency range. A modal analysis technique has been developed to extract the acoustic mode shapes from the experimental data. This technique allows for decomposition in standing and traveling waves, hence revealing the nature of the acoustic field. The extracted mode shapes showed a very good agreement with results from 3-d finite element calculations. Combustion stability has been quantified by a methodology that extracts pulsation growth rates from experimental data. This novel method relies on advanced statistic processing of the instantaneous pulsation amplitudes. It has the advantage that it is insensitive to probe location, which is of particular advantage for high frequencies (higher than 1 kHz).
+
+Interaction of vortex shedding and transverse high-frequency pressure oscillations in a tubular combustion chamber
+Joachim Schwing, Thomas Sattelmayer and Nicolas Noiray
+56th ASME Turbo Expo (GT 2011), Vancouver, Canada, pp.259-268, New York, NY: American Society of Mechanical Engineers, June 6-10, 2011.
+external page:
+DOI: 10.1115/GT2011-45246
+external page:
+Research Collection
+Abstract 
+
+Intense research on the thermoacoustic stability of premixed gas turbine combustors in the past two decades has led to an improved understanding of instabilities of longitudinal modes in the sub-kHz range and predictive tools for thermoacoustic stability analysis have also been developed. Circumferential modes in annular combustors have been studied in the past as well, even though to a much lower extent due to the high experimental effort. Combined experimental-numerical methods for the low-frequency regime (i.e. acoustically compact flames) are widely used. However, such experimental and numerical approaches with predictive capability have to be developed to also address the high-frequency (HF) regime. An experimental study of HF thermoacoustic coupling is presented in this paper. A fully premixed swirl-stabilized flame at atmospheric condition in a cylindrical combustion chamber is investigated. The test rig is equipped with several dynamic pressure transducers to identify and reconstruct the acoustic field in the combustion chamber. Planar information about the flame front location is obtained from Mie-scattering and the flow field is measured with particle image velocimetry (PIV). In the tests the first transverse mode of the combustion chamber exhibits instability for a particular operating condition, which leads to sustained limit-cycle pulsations. Mie-scattering images reveal periodic vortex shedding at the outlet of the burner. PIV results provide quantitative information on the strength of these coherent shear layer vortices.
+
+The role of nonlinear acoustic boundary conditions in combustion/acoustic coupled instabilities
+Thierry Schuller, Nguyen Tran, Daniel Durox, Sébastien Ducruix and Sébastien Candel
+54th ASME Turbo Expo (GT 2009), Orlanda, FL, USA, pp.325-339, New York, NY: American Society of Mechanical Engineers, June 8-12, 2009.
+external page:
+DOI: 10.1115/GT2009-59390
+external page:
+Research Collection
+Abstract 
+
+Triggering, frequency shifting, mode switching and hysteresis are commonly encountered during self-sustained oscillations in combustors. These mechanisms cannot be anticipated from classical linear stability analysis and the nonlinear flame response to incident flow perturbations is often invoked to interpret these features. However, the flame may not be solely responsible for nonlinearities. Recent studies indicate that interactions with boundaries can be influenced by the perturbation level and that this needs to be considered. The nonlinear response of acoustic boundary conditions to flow perturbations is here exemplified in two configurations which typify practical applications. The first corresponds to a perforated plate backed by a cavity conveying a bias flow and the second corresponds to a set of flames stabilized at a burner outlet. These systems are submitted to acoustic perturbations of increasing amplitudes as can be encountered during unstable operation. It shown that these terminations can be characterized by an impedance featuring an amplitude dependent response. The classical linear impedance Z(ω) is then replaced by its nonlinear counterpart an Impedance Describing Function (IDF), which depends on the perturbation level input Z(ω, |p′| or |u′|). Using this concept, it is shown that the passive perforated plate optimized to damp instabilities of small amplitudes may eventually loose its properties when submitted to large sound pressure levels and that the flame response shifts when the amplitude of incoming flow perturbations is amplified. The influence of these nonlinear elements on the stability of a generic burner is then examined using a methodology which extends a previous analysis based on the Flame Describing Function (FDF) to systems with complex flow interactions at the boundaries.
+
+A novel strategy for passive control of combustion instabilities through modification of flame dynamics
+Nicolas Noiray, Daniel Durox, Thierry Schuller and Sébastien Candel
+53rd ASME Turbo Expo (GT 2008), Berlin, Germany, pp.1133-1144, New York, NY: American Society of Mechanical Engineers, June 9-13, 2008.
+external page:
+DOI: 10.1115/GT2008-51520
+external page:
+Research Collection
+Abstract 
+
+Passive control of combustion instabilities is explored in the case of systems featuring a collection of premixed flames. The method devised in this research differs from the general strategies employed to passively hinder the growth of acoustic-combustion oscillations by augmenting acoustic damping. Dissipation of acoustic energy is usually obtained by connecting Helmholtz resonators or quarter wave type cavities or by placing perforated plate linings around the system. While these systems effectively reduce pressure oscillations, optimum performance is not always obtained over the full range of operating conditions and their implementation requires substantial space which is not often available in practice. Conceptually, these standard techniques deal with the consequences of combustion instabilities but not with the driving sources. It is shown here that an alternative solution may be to directly act on the causes of the onset of thermo-acoustic coupling. The basic idea is to modify the flames dynamics using the dynamical response of the injection system. The principle of the passive control strategy proposed on this basis is to counteract the onset of oscillations by tackling the underlying causes. The injection system is modified to avoid a coherent motion of the flames when they are submitted to an acoustic modulation and reduce the coupling between acoustic perturbations and heat release fluctuations. Numerical simulations and experimental data are presented and one may infer that the method could bring a substantial improvement to the system stability. The efficiency of this technique is demonstrated in the case of small premixed flames anchored on a multipoint injection system (the configuration is that of a premixed gaseous-fueled multipoint dump combustor), but the principle is more general and can be extended to larger scale turbulent combustors featuring a collection of flames.
+
+Previous
+Next
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Contact
+Login
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+=== https://caps.ethz.ch/publications/journal-articles.html
+Page not found
+
+The page you want to visit cannot be displayed. This could happen for one of the following reasons:
+
+the bookmark used is no longer valid
+the page has been renamed or removed
+the address/URL entered is invalid
+
+Please use our homepage or the search to find the content you are looking for.
+
+Helpful links
+ETH Zurich homepage
+Search
+Contact
+Footer
+Resources
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+=== https://caps.ethz.ch/publications.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Combustion, Acoustics & Flow Physics (CAPS)
+Main Navigation
+The CAPS Lab
+Research
+Education
+Publications
+(active)
+CAPS intranet
+Search
+Departments
+ETH Zurich
+D-MAVT
+IEPE
+CAPS
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Childpage navigation
+Conference Contributions
+Journal Articles
+Related content
+The CAPS Lab
+Research
+Education
+CAPS intranet
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Contact
+Login
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich

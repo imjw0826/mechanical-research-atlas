@@ -1,0 +1,23 @@
+{
+  "university": "POSTECH",
+  "university_key": "postech",
+  "pi": "문원규",
+  "lab_name": null,
+  "lab_url": null,
+  "publication_urls": [],
+  "accessed_at": "2026-11-12T13:55:04.535Z",
+  "coverage_notes": [
+    "Attempted https://photonics.postech.ac.kr/publications error Error: net::ERR_HTTP_RESPONSE_CODE_FAILURE",
+    "Official department profile returned HTTP 404; no lab site identified in this continuation. Profile-only attempt, not full_site_attempted.",
+    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  ],
+  "status": "partial",
+  "papers": [],
+  "source_page_manifest": [
+    {
+      "url": "chrome-error://chromewebdata/",
+      "capture_kind": "browser_snapshot",
+      "characters": 267
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "university": "University of Cambridge",
+  "university_key": "cambridge",
+  "pi": "Nathan Crilly",
+  "lab_name": null,
+  "lab_url": "http://www-edc.eng.cam.ac.uk/people/nc266.html",
+  "publication_urls": [
+    "https://www.tandfonline.com/journals/tdci20",
+    "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation",
+    "https://www.designresearchsociety.org/cpages/designing-journal",
+    "https://www.tandfonline.com/journals/tdci20/about-this-journal",
+    "https://www.tandfonline.com/journals/tdci20/special-issues",
+    "https://www.tandfonline.com/journals/tdci20/collections",
+    "https://www.tandfonline.com/journals/tdci20/collections/best-paper-prize-design-creativity-innovation",
+    "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation/vol/12/issue/3",
+    "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation/issues",
+    "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation/special-issues"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "게시 목록 페이지 후보에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
+  "dropped_low_confidence": [
+    {
+      "title": "The Impact of Design on the Modernization of Finland",
+      "year": 2026,
+      "citation_raw": "select article Correction to “The Impact of Design on the Modernization of Finland” (<em>She Ji</em> 12, no. 1 [2026], https://doi.org/10.1016/j.sheji.2026.02.005)",
+      "source_url": "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation/vol/12/issue/3"
+    },
+    {
+      "title": "The Impact of Design on the Modernization of Finland",
+      "year": 2026,
+      "citation_raw": "Correction to “The Impact of Design on the Modernization of Finland” (She Ji 12, no. 1 [2026], https://doi.org/10.1016/j.sheji.2026.02.005)",
+      "source_url": "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation/vol/12/issue/3"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 10개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Design Thinking as a creative enabler: a TCCM-Based systematic review and research agenda for advancing design creativity in entrepreneurship",
+      "year": 2026,
+      "citation_raw": "Design Thinking as a creative enabler: a TCCM-Based systematic review and research agenda for advancing design creativity in entrepreneurship L. R. M. A. U. S. Bandara et al. Research Article | Published online: 8 Nov 2026",
+      "source_url": "https://www.tandfonline.com/journals/tdci20"
+    },
+    {
+      "title": "Browse all issues",
+      "year": 2026,
+      "citation_raw": "Browse all issues Current issue Volume 14, Issue 4, 2026",
+      "source_url": "https://www.tandfonline.com/journals/tdci20"
+    },
+    {
+      "title": "Browse all collections",
+      "year": 2025,
+      "citation_raw": "Recent collections Browse all collections Distinguished Papers of Volume 12 (2024) and Volume 13 (2025): International Journal of Design Creativity and Innovation",
+      "source_url": "https://www.tandfonline.com/journals/tdci20"
+    },
+    {
+      "title": "Structuring AI as a Design Material: Bridging Design Education and Industry Practice",
+      "year": 2026,
+      "citation_raw": "Structuring AI as a Design Material: Bridging Design Education and Industry Practice Kate Sangwon Lee, ... Jung-Joo Lee Autumn 2026",
+      "source_url": "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation"
+    },
+    {
+      "title": "Understanding Peer Review in Design Research: A Double Feedback Loop Model of Individual and Disciplinary Development and Roadmap for Peer Review Practice",
+      "year": 2026,
+      "citation_raw": "Understanding Peer Review in Design Research: A Double Feedback Loop Model of Individual and Disciplinary Development and Roadmap for Peer Review Practice Philip Cash, Ali O. Ilhan Autumn 2026",
+      "source_url": "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation"
+    },
+    {
+      "title": "Research articleOpen access",
+      "year": 2005,
+      "citation_raw": "https://doi.org/10.1016/j.sheji.2026.04.010 Research articleOpen access Evolution of Economic and Ecological Design Discourses in the Federal Republic of Germany: A Qualitative Case Study Comparing 1970–1975 and 2000–2005",
+      "source_url": "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation"
+    },
+    {
+      "title": "All content on this site: Copyright © 2026 Elsevier B.V",
+      "year": 2026,
+      "citation_raw": "Privacy policy Cookie settings All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.",
+      "source_url": "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation"
+    },
+    {
+      "title": "Cognition & Behaviour: Usability in the Built Environment",
+      "year": 2016,
+      "citation_raw": "Collections Design, Cognition & Behaviour: Usability in the Built Environment Volume 4, Issue 2, 2016 pages 63-118",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/special-issues"
+    },
+    {
+      "title": "Distinguished Papers of Volume 12 (2024) and Volume 13 (2025): International Journal of Design Creativity and Innovation",
+      "year": 2025,
+      "citation_raw": "Special issues Collections Distinguished Papers of Volume 12 (2024) and Volume 13 (2025): International Journal of Design Creativity and Innovation",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/collections"
+    },
+    {
+      "title": "Login | Register",
+      "year": 2025,
+      "citation_raw": "Login | Register Add to Cart Home All Journals Engineering & Technology International Journal of Design Creativity and Innovation Collections Distinguished Papers of Volume 12 (2024) and Volume 13 (2025): International Journal of Design Creativity and Innovation",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/collections/best-paper-prize-design-creativity-innovation"
+    },
+    {
+      "title": "Most read articles",
+      "year": 2025,
+      "citation_raw": "Most read articles Most cited articles Distinguished Papers of Volume 12 (2024) and Volume 13 (2025): International Journal of Design Creativity and Innovation",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/collections/best-paper-prize-design-creativity-innovation"
+    },
+    {
+      "title": "Leading to overcome heterogeneous fixations: designing to limit the impact of the rejection of creative ideas",
+      "year": 2024,
+      "citation_raw": "Justine Boudier, Pascal Le Masson and Benoit Weil (2024), “Leading to overcome heterogeneous fixations: designing to limit the impact of the rejection of creative ideas”",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/collections/best-paper-prize-design-creativity-innovation"
+    },
+    {
+      "title": "Human augmentation and its new design perspectives",
+      "year": 2024,
+      "citation_raw": "Muriel De Boeck and Kristof Vaes (2024), “Human augmentation and its new design perspectives”",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/collections/best-paper-prize-design-creativity-innovation"
+    },
+    {
+      "title": "Unveiling interactions among architectural sketching, parametric design, and digital fabrication using linkography",
+      "year": 2025,
+      "citation_raw": "Kamile Öztürk Kösenciĝ and Mehtap Özbayraktar (2025), “Unveiling interactions among architectural sketching, parametric design, and digital fabrication using linkography”",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/collections/best-paper-prize-design-creativity-innovation"
+    },
+    {
+      "title": "An experimental study on familiarity, contextual factors and representation forms in human product interaction",
+      "year": 2025,
+      "citation_raw": "Aurora Berni and Yuri Borgianni (2025), “An experimental study on familiarity, contextual factors and representation forms in human product interaction”",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/collections/best-paper-prize-design-creativity-innovation"
+    },
+    {
+      "title": "Leading to overcome heterogeneous fixations: designing to limit the impact of the rejection of creative ideas",
+      "year": 2024,
+      "citation_raw": "Leading to overcome heterogeneous fixations: designing to limit the impact of the rejection of creative ideas Justine Boudier, Pascal Le Masson & Benoit Weil Originally published in International Journal of Design Creativity and Innovation, Volume: 12, Number: 1 (02 Jan 2024)",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/collections/best-paper-prize-design-creativity-innovation"
+    },
+    {
+      "title": "Human augmentation and its new design perspectives",
+      "year": 2024,
+      "citation_raw": "Human augmentation and its new design perspectives Muriel De Boeck & Kristof Vaes Originally published in International Journal of Design Creativity and Innovation, Volume: 12, Number: 1 (02 Jan 2024)",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/collections/best-paper-prize-design-creativity-innovation"
+    },
+    {
+      "title": "Kamile Öztürk Kösenciĝ & Mehtap Özbayraktar",
+      "year": 2025,
+      "citation_raw": "Unveiling interactions among architectural sketching, parametric design, and digital fabrication using linkography Kamile Öztürk Kösenciĝ & Mehtap Özbayraktar Originally published in International Journal of Design Creativity and Innovation, Volume: 13, Number: 1 (02 Jan 2025)",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/collections/best-paper-prize-design-creativity-innovation"
+    },
+    {
+      "title": "An experimental study on familiarity, contextual factors and representation forms in human-product interaction",
+      "year": 2025,
+      "citation_raw": "An experimental study on familiarity, contextual factors and representation forms in human-product interaction Aurora Berni & Yuri Borgianni Originally published in International Journal of Design Creativity and Innovation, Volume: 13, Number: 3 (03 Jul 2025)",
+      "source_url": "https://www.tandfonline.com/journals/tdci20/collections/best-paper-prize-design-creativity-innovation"
+    },
+    {
+      "title": "select article Evolution of Economic and Ecological Design Discourses in the Federal Republic of Germany: A Qualitative Case Study Comparing 1970–1975 and 2000–2005",
+      "year": 2005,
+      "citation_raw": "View PDF Original Article select article Evolution of Economic and Ecological Design Discourses in the Federal Republic of Germany: A Qualitative Case Study Comparing 1970–1975 and 2000–2005",
+      "source_url": "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation/vol/12/issue/3"
+    },
+    {
+      "title": "Research articleOpen access",
+      "year": 2005,
+      "citation_raw": "https://doi.org/10.1016/j.sheji.2026.07.002 Research articleOpen access Evolution of Economic and Ecological Design Discourses in the Federal Republic of Germany: A Qualitative Case Study Comparing 1970–1975 and 2000–2005",
+      "source_url": "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation/vol/12/issue/3"
+    },
+    {
+      "title": "The Impact of Design on the Modernization of Finland",
+      "year": 2026,
+      "citation_raw": "select article Correction to “The Impact of Design on the Modernization of Finland” (<em>She Ji</em> 12, no. 1 [2026], https://doi.org/10.1016/j.sheji.2026.02.005)",
+      "source_url": "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation/vol/12/issue/3"
+    },
+    {
+      "title": "The Impact of Design on the Modernization of Finland",
+      "year": 2026,
+      "citation_raw": "Correction to “The Impact of Design on the Modernization of Finland” (She Ji 12, no. 1 [2026], https://doi.org/10.1016/j.sheji.2026.02.005)",
+      "source_url": "https://www.sciencedirect.com/journal/she-ji-the-journal-of-design-economics-and-innovation/vol/12/issue/3"
+    }
+  ]
+}

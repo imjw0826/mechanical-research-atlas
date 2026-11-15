@@ -1,0 +1,599 @@
+{
+  "university": "ETH Zurich",
+  "university_key": "eth",
+  "pi": "Dirk Mohr",
+  "lab_name": null,
+  "lab_url": "https://msrl.ethz.ch/#xd_co_f=MjdhNmMxNTFhNTU5ZDVhMjY4OTE1NjMzNDExOTk2Nzg=~",
+  "publication_urls": [
+    "https://mohr.ethz.ch/publications.html"
+  ],
+  "accessed_at": "2026-11-12T15:15:25.475850+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Replacing strain gages by line camera DIC in Hopkinson bar experiments",
+      "year": 2026,
+      "citation_raw": "Replacing strain gages by line camera DIC in Hopkinson bar experiments Christian Roth, Foulques LeGrelle, Thomas Tancogne-Dejean, Vincent Grolleau and Dirk Mohr International Journal of Impact Engineering, vol. 212, pp. 105620, Elsevier, 2026.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Taylor impact response of tungsten heavy alloy: Multi-scale experiments and modeling",
+      "year": 2026,
+      "citation_raw": "Taylor impact response of tungsten heavy alloy: Multi-scale experiments and modeling Christian Roth, Teresa Fras and Dirk Mohr International Journal of Impact Engineering, vol. 210, pp. 105607, Elsevier, 2026.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Recurrent neural network model predicting elasto-plasticity and matrix fracture in fiber-reinforced composites",
+      "year": 2026,
+      "citation_raw": "Recurrent neural network model predicting elasto-plasticity and matrix fracture in fiber-reinforced composites Arthur Girard and Dirk Mohr International Journal of Solids and Structures, vol. 326, pp. 113703, Elsevier, 2026.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Temperature, strain-rate and charge dependent mechanical response of Li-ion pouch cells",
+      "year": 2025,
+      "citation_raw": "Temperature, strain-rate and charge dependent mechanical response of Li-ion pouch cells Thomas Tancogne-Dejean, Gabriel Hayoun and Dirk Mohr International Journal of Mechanical Sciences, vol. 308, pp. 111001, Elsevier, 2025.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "From deterministic physics-based to probabilistic data-driven modeling: Diffusion-based prediction of strain fields in deep drawing processes",
+      "year": 2025,
+      "citation_raw": "From deterministic physics-based to probabilistic data-driven modeling: Diffusion-based prediction of strain fields in deep drawing processes Paul P. Meyer and Dirk Mohr Journal of the Mechanics and Physics of Solids, vol. 203, pp. 106251, Elsevier, 2025.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Using miniature cuboidal specimens to determine compression Stress–strain curve of sheet metal under static and dynamic loading",
+      "year": 2025,
+      "citation_raw": "Using miniature cuboidal specimens to determine compression Stress–strain curve of sheet metal under static and dynamic loading Arthur Girard, Vincent Grolleau and Dirk Mohr International Journal of Solids and Structures, vol. 320, pp. 113527, Elsevier, 2025.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Extended minimal state cells (EMSC): Self-consistent recurrent neural networks for rate- and temperature dependent plasticity",
+      "year": 2025,
+      "citation_raw": "Extended minimal state cells (EMSC): Self-consistent recurrent neural networks for rate- and temperature dependent plasticity Julian N. Heidenreich and Dirk Mohr International Journal of Plasticity, vol. 188, pp. 104305, Elsevier, 2025.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Quantifying damage mechanisms through FE-based void tracking: Application to shear and tension in-situ laminography experiments on AA2198-T851",
+      "year": 2025,
+      "citation_raw": "Quantifying damage mechanisms through FE-based void tracking: Application to shear and tension in-situ laminography experiments on AA2198-T851 Christian Roth, Thilo F. Morgeneyer, Lukas Helfen, Dirk Mohr and Thomas Tancogne-Dejean Acta Materialia, vol. 288, pp. 120783, Elsevier, 2025.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Training of a physics-based thermo-viscoplasticity model on big data for polypropylene",
+      "year": 2025,
+      "citation_raw": "Training of a physics-based thermo-viscoplasticity model on big data for polypropylene Benoit Jordan and Dirk Mohr International Journal of Plasticity, vol. 184, pp. 104179, Elsevier, 2025.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Enhancing orthogonal finishing machining of Ti6Al4V with laser-ablated tool geometry modifications",
+      "year": 2024,
+      "citation_raw": "Enhancing orthogonal finishing machining of Ti6Al4V with laser-ablated tool geometry modifications Fabian Kneubühler, Nanyuan Zhang, Livia Haudenschild, Hagen Klippel, Matthias Putzer, Varun Urundolil Kumaran, Michal Kuffa and Konrad Wegener The International Journal of Advanced Manufacturing Technology, vol. 135, pp. 3317-3341, Springer, 2024.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Post-Necking full-field FEMU identification of anisotropic plasticity from flat notched tension experiments",
+      "year": 2024,
+      "citation_raw": "Post-Necking full-field FEMU identification of anisotropic plasticity from flat notched tension experiments Emmanouil Sakaridis, Christian Roth, Benoit Jordan and Dirk Mohr International Journal of Solids and Structures, vol. 305, pp. 113076, Elsevier, 2024.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Large-scale investigation of dry orthogonal cutting experiments Ti6Al4V and Ck45",
+      "year": 2024,
+      "citation_raw": "Large-scale investigation of dry orthogonal cutting experiments Ti6Al4V and Ck45 Hagen Klippel, Stefan Süssmaier, Nanyuan Zhang, Michal Kuffa and Konrad Wegener The International Journal of Advanced Manufacturing Technology, vol. 135: no. 5, pp. 2871-2908, Springer, 2024.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Non-symmetric plate-lattices: Recurrent neural network-based design of optimal metamaterials",
+      "year": 2024,
+      "citation_raw": "Non-symmetric plate-lattices: Recurrent neural network-based design of optimal metamaterials Paul P. Meyer, Thomas Tancogne-Dejean and Dirk Mohr Acta Materialia, vol. 278, pp. 120246, Elsevier, 2024.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Using miniature experiments to reveal strength gradients in battery casings",
+      "year": 2024,
+      "citation_raw": "Using miniature experiments to reveal strength gradients in battery casings Thomas Tancogne-Dejean, Christian Roth, Vincent Grolleau, Thomas Beerli and Dirk Mohr International Journal of Mechanical Sciences, vol. 275, pp. 109253, Elsevier, 2024.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Recurrent neural network plasticity models: Unveiling their common core through multi-task learning",
+      "year": 2024,
+      "citation_raw": "Recurrent neural network plasticity models: Unveiling their common core through multi-task learning Julian N. Heidenreich and Dirk Mohr Computer Methods in Applied Mechanics and Engineering, vol. 426, pp. 116991, Elsevier, 2024.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Whip-Bezier: A C1-continuous hardening law for efficient direct and inverse identification",
+      "year": 2024,
+      "citation_raw": "Whip-Bezier: A C1-continuous hardening law for efficient direct and inverse identification Emmanouil Sakaridis, Paul P. Meyer, Christian Roth and Dirk Mohr International Journal of Solids and Structures, vol. 288, pp. 112616, Elsevier, 2024.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Semi-automatic miniature specimen testing method to characterize the plasticity and fracture properties of metals",
+      "year": 2024,
+      "citation_raw": "Semi-automatic miniature specimen testing method to characterize the plasticity and fracture properties of metals Thomas Beerli, Christian Roth and Dirk Mohr Acta Materialia, vol. 263, pp. 119539, Elsevier, 2024.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Transfer learning of recurrent neural network-based plasticity models",
+      "year": 2024,
+      "citation_raw": "Transfer learning of recurrent neural network-based plasticity models Julian N. Heidenreich, Colin Bonatti and Dirk Mohr International Journal for Numerical Methods in Engineering, vol. 125: no. 1, pp. e7357, Wiley-Blackwell, 2024.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Reaching Large Strains During Simple Shear Experiments Thanks to Sequential Re-Machining of the Free Edges",
+      "year": 2024,
+      "citation_raw": "Reaching Large Strains During Simple Shear Experiments Thanks to Sequential Re-Machining of the Free Edges Xavier Colon, Bertrand Galpin, Laurent Mahéo and Vincent Grolleau Experimental Mechanics, vol. 64, pp. 113-127, Springer, 2024.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Site-specifically tailored microstructures with enhanced strength and hardening through laser powder bed fusion",
+      "year": 2024,
+      "citation_raw": "Site-specifically tailored microstructures with enhanced strength and hardening through laser powder bed fusion Christos Sofras, Jan Čapek, Xueyang Li, Christian Roth, Christian Leinenbach, Roland Logé, Markus Strobl and Efthymios Polatidis Materials & Design, vol. 237, pp. 112539, Elsevier, 2024.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Neural network based rate- and temperature-dependent Hosford-Coulomb fracture initiation model",
+      "year": 2023,
+      "citation_raw": "Neural network based rate- and temperature-dependent Hosford-Coulomb fracture initiation model Xueyang Li, Christian Roth and Dirk Mohr International Journal of Mechanical Sciences, vol. 260, pp. 108643, Elsevier, 2023.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Analytical flat belt drive model considering bilinear elastic behaviour with residual strains",
+      "year": 2023,
+      "citation_raw": "Analytical flat belt drive model considering bilinear elastic behaviour with residual strains Varun Urundolil Kumaran, Lukas Weiss, Markus Zogg and Konrad Wegener Mechanism and Machine Theory, vol. 190, pp. 105466, Elsevier, 2023.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Inferring mechanical properties of the SARS-CoV-2 virus particle with nano-indentation tests and numerical simulations",
+      "year": 2023,
+      "citation_raw": "Inferring mechanical properties of the SARS-CoV-2 virus particle with nano-indentation tests and numerical simulations Aida Nonn, Bálint Kiss, Weria Pezeshkian, Thomas Tancogne-Dejean, Albert R. Cerrone, Miklos Kellermayer, Yuanli Bai, Wei Li and Tomasz Wierzbicki Journal of the Mechanical Behavior of Biomedical Materials, vol. 148, pp. 106153, Elsevier, 2023.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Laser powder bed fusion of AlSi10Mg-based composites with graphene and nanodiamond additions",
+      "year": 2023,
+      "citation_raw": "Laser powder bed fusion of AlSi10Mg-based composites with graphene and nanodiamond additions Adriaan B. Spierings, Dimitry Yu. Ozherelkov, Fabian Kneubühler, Sergey A. Eremin, Ivan A. Pelevin, Anton Yu. Nalivaiko, Evgenii A. Petrov, Alexander A. Gromov and Konrad Wegener Journal of Alloys and Compounds, vol. 947, pp. 169421, Elsevier, 2023.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Using surround DIC to extract true stress–strain curve from uniaxial tension experiments",
+      "year": 2023,
+      "citation_raw": "Using surround DIC to extract true stress–strain curve from uniaxial tension experiments Benoit Jordan, Vincent Grolleau and Dirk Mohr International Journal of Solids and Structures, vol. 268, pp. 112171, Elsevier, 2023.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Modeling Structure-Property Relationships with Convolutional Neural Networks: Yield Surface Prediction Based on Microstructure Images",
+      "year": 2023,
+      "citation_raw": "Modeling Structure-Property Relationships with Convolutional Neural Networks: Yield Surface Prediction Based on Microstructure Images Julian N. Heidenreich, Maysam B. Gorji and Dirk Mohr International Journal of Plasticity, vol. 163, pp. 103506, Elsevier, 2023.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Indentation of small format Lithium-ion pouch cells: Experiments and modeling",
+      "year": 2022,
+      "citation_raw": "Indentation of small format Lithium-ion pouch cells: Experiments and modeling Thomas Tancogne-Dejean and Dirk Mohr International Journal of Solids and Structures, vol. 257, pp. 111900, Elsevier, 2022.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "From CP-FFT to CP-RNN: Recurrent neural network surrogate model of crystal plasticity",
+      "year": 2022,
+      "citation_raw": "From CP-FFT to CP-RNN: Recurrent neural network surrogate model of crystal plasticity Colin Bonatti, Bekim Berisha and Dirk Mohr International Journal of Plasticity, vol. 158, pp. 103430, Pergamon, 2022.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Graph-based metamaterials: Deep learning of structure-property relations",
+      "year": 2022,
+      "citation_raw": "Graph-based metamaterials: Deep learning of structure-property relations Paul P. Meyer, Colin Bonatti, Thomas Tancogne-Dejean and Dirk Mohr Materials & Design, vol. 223, pp. 111175, Elsevier, 2022.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Axisymmetric V-bending: A single experiment to determine the fracture strain and weakest sheet material direction for plane strain tension",
+      "year": 2022,
+      "citation_raw": "Axisymmetric V-bending: A single experiment to determine the fracture strain and weakest sheet material direction for plane strain tension Thomas Beerli, Vincent Grolleau, Dirk Mohr and Christian Roth International Journal of Solids and Structures, vol. 252, pp. 111813, Elsevier, 2022.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Machine-learning based prediction of crash response of tubular structures",
+      "year": 2022,
+      "citation_raw": "Machine-learning based prediction of crash response of tubular structures Emmanouil Sakaridis, Nikolaos Karathanasopoulos and Dirk Mohr International Journal of Impact Engineering, vol. 166, pp. 104240, Elsevier, 2022.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Strength and Failure of Self-Piercing Riveted Aluminum and Steel Sheet Joints: Multi-axial Experiments and Modeling",
+      "year": 2022,
+      "citation_raw": "Strength and Failure of Self-Piercing Riveted Aluminum and Steel Sheet Joints: Multi-axial Experiments and Modeling Nikolaos Karathanasopoulos and Dirk Mohr Journal of Advanced Joining Processes, vol. 5, pp. 100107, Elsevier, 2022.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Ceramic/polymer microlattices: Increasing specific energy absorption through sandwich construction",
+      "year": 2022,
+      "citation_raw": "Ceramic/polymer microlattices: Increasing specific energy absorption through sandwich construction Marianna Diamantopoulou, Christian Roth, Thomas Tancogne-Dejean, Carmen M. Lauener and Dirk Mohr Extreme Mechanics Letters, vol. 53, pp. 101708, Elsevier, 2022.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Counterexample-trained neural network model of rate and temperature dependent hardening with dynamic strain aging",
+      "year": 2022,
+      "citation_raw": "Counterexample-trained neural network model of rate and temperature dependent hardening with dynamic strain aging Xueyang Li, Christian C. Roth, Colin Bonatti and Dirk Mohr International Journal of Plasticity, vol. 151, pp. 103218, Pergamon, 2022.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Design of in-plane torsion experiment to characterize anisotropic plasticity and fracture under simple shear",
+      "year": 2022,
+      "citation_raw": "Design of in-plane torsion experiment to characterize anisotropic plasticity and fracture under simple shear Vincent Grolleau, Christian C. Roth and Dirk Mohr International Journal of Solids and Structures, vol. 236-237, pp. 111341, Elsevier, 2022.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Strain rate dependent plasticity of Lithium-ion pouch cells: Experiments and Simulations",
+      "year": 2022,
+      "citation_raw": "Strain rate dependent plasticity of Lithium-ion pouch cells: Experiments and Simulations Thomas Tancogne-Dejean, Vincent Grolleau and Dirk Mohr International Journal of Impact Engineering, vol. 159, pp. 104048, Elsevier, 2022.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "On the importance of self-consistency in recurrent neural network models representing elasto-plastic solids",
+      "year": 2022,
+      "citation_raw": "On the importance of self-consistency in recurrent neural network models representing elasto-plastic solids Colin Bonatti and Dirk Mohr Journal of the Mechanics and Physics of Solids, vol. 158, pp. 104697, Elsevier, 2022.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Design of isotropic porous plates for use in hierarchical plate-lattices",
+      "year": 2021,
+      "citation_raw": "Design of isotropic porous plates for use in hierarchical plate-lattices Julian N. Heidenreich, Maysam B. Gorji, Thomas Tancogne-Dejean and Dirk Mohr Materials & Design, vol. 212, pp. 110218, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Recurrent neural network modeling of the large deformation of lithium-ion battery cells",
+      "year": 2021,
+      "citation_raw": "Recurrent neural network modeling of the large deformation of lithium-ion battery cells Thomas Tancogne-Dejean, Maysam B. Gorji, Juner Zhu and Dirk Mohr International Journal of Plasticity, vol. 146, pp. 103072, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Stress-strain response of polymers made through two-photon lithography: Micro-scale experiments and neural network modeling",
+      "year": 2021,
+      "citation_raw": "Stress-strain response of polymers made through two-photon lithography: Micro-scale experiments and neural network modeling Marianna Diamantopoulou, Nikolaos Karathanasopoulos and Dirk Mohr Additive Manufacturing, vol. 47, pp. 102266, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Machine Learning Classifiers for Surface Crack Detection in Fracture Experiments",
+      "year": 2021,
+      "citation_raw": "Machine Learning Classifiers for Surface Crack Detection in Fracture Experiments Adrien Müller, Nikos Karathanasopoulos, Christian C. Roth and Dirk Mohr International Journal of Mechanical Sciences, vol. 209, pp. 106698, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Double-wall ceramic nanolattices: Increased stiffness and recoverability by design",
+      "year": 2021,
+      "citation_raw": "Double-wall ceramic nanolattices: Increased stiffness and recoverability by design Marianna Diamantopoulou, Thomas Tancogne-Dejean, Jeffrey M. Wheeler and Dirk Mohr Materials & Design, vol. 208, pp. 109928, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Rate-dependent strength and ductility of binder jetting 3D-printed stainless steel 316L: Experiments and modeling",
+      "year": 2021,
+      "citation_raw": "Rate-dependent strength and ductility of binder jetting 3D-printed stainless steel 316L: Experiments and modeling Thomas Tancogne-Dejean, Christian C. Roth and Dirk Mohr International Journal of Mechanical Sciences, vol. 207, pp. 106647, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "An experimental and numerical investigation of the role of rivet and die design on the self-piercing riveting joint characteristics of aluminum and steel sheets",
+      "year": 2021,
+      "citation_raw": "An experimental and numerical investigation of the role of rivet and die design on the self-piercing riveting joint characteristics of aluminum and steel sheets N. Karathanasopoulos, Kedar S. Pandya and Dirk Mohr Journal of Manufacturing Processes, vol. 69, pp. 290-302, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Plasticity and Fracture of Cast and SLM AlSi10MG: High-througput Testing and Modelling",
+      "year": 2021,
+      "citation_raw": "Plasticity and Fracture of Cast and SLM AlSi10MG: High-througput Testing and Modelling Christian C. Roth, Thomas Tancogne-Dejean and Dirk Mohr Additive Manufacturing, vol. 43, pp. 101998, Elsvevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "One for all: Universal material model based on minimal state-space neural networks",
+      "year": 2021,
+      "citation_raw": "One for all: Universal material model based on minimal state-space neural networks Colin Bonatti and Dirk Mohr Science Advances, vol. 7: no. 26, pp. eabf3658, AAAS, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Self-piercing riveting process: Prediction of joint characteristics through finite element and neural network modeling",
+      "year": 2021,
+      "citation_raw": "Self-piercing riveting process: Prediction of joint characteristics through finite element and neural network modeling Nikos Karathanasopoulos, Kedar Sanjay Pandya and Dirk Mohr Journal of Advanced Joining Processes, vol. 3, pp. 100040, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "From macro- to micro-experiments: Specimen-size independent identification of plasticity and fracture properties",
+      "year": 2021,
+      "citation_raw": "From macro- to micro-experiments: Specimen-size independent identification of plasticity and fracture properties Maysam B. Gorji, Jevan Furmanski and Dirk Mohr International Journal of Mechanical Sciences, vol. 199, pp. 106389, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Toward the use of small size bulge tests: Numerical and experimental study at small bulge diameter to sheet thickness ratios",
+      "year": 2021,
+      "citation_raw": "Toward the use of small size bulge tests: Numerical and experimental study at small bulge diameter to sheet thickness ratios Vincent Lafilé, Bertrand Galpin, Laurent Mahéo, Christian C. Roth and Vincent Grolleau Journal of Materials Processing Technology, vol. 291, pp. 117019, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Ductile damage of AA2024-T3 under shear loading: Mechanism analysis through in-situ laminography",
+      "year": 2021,
+      "citation_raw": "Ductile damage of AA2024-T3 under shear loading: Mechanism analysis through in-situ laminography Thomas Tancogne-Dejean, Christian C. Roth, Thilo F. Morgeneyer, Lukas Helfen and Dirk Mohr Acta Materialia, vol. 205, pp. 116556, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Neural network model predicting forming limits for Bi-linear strain paths",
+      "year": 2021,
+      "citation_raw": "Neural network model predicting forming limits for Bi-linear strain paths Colin Bonatti and Dirk Mohr International Journal of Plasticity, vol. 137, pp. 102886, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Robust characterization of anisotropic shear fracture strains with constant triaxiality using shape optimization of torsional twin bridge specimen",
+      "year": 2021,
+      "citation_raw": "Robust characterization of anisotropic shear fracture strains with constant triaxiality using shape optimization of torsional twin bridge specimen Yongnam Kim, Shunying Zhang, Vincent Grolleau, Christian Roth, Dirk Mohr and Jeong Whan Yoon CIRP Annals, vol. 70: no. 1, pp. 211-214, Elsevier, 2021.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Fracture response of resistance spot welded dual phase steel sheets: Experiments and modeling",
+      "year": 2020,
+      "citation_raw": "Fracture response of resistance spot welded dual phase steel sheets: Experiments and modeling Kedar Sanjay Pandya, Vincent Grolleau, Christian C. Roth and Dirk Mohr International Journal of Mechanical Sciences, vol. 187, pp. 105869, Elsevier, 2020.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Neural network model describing the temperature- and rate-dependent stress-strain response of polypropylene",
+      "year": 2020,
+      "citation_raw": "Neural network model describing the temperature- and rate-dependent stress-strain response of polypropylene Benoit Jordan, Maysam B. Gorji and Dirk Mohr International Journal of Plasticity, vol. 135, pp. 102811, Pergamon, 2020.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Strain rate and temperature dependent fracture of aluminum alloy 7075: Experiments and neural network modeling",
+      "year": 2020,
+      "citation_raw": "Strain rate and temperature dependent fracture of aluminum alloy 7075: Experiments and neural network modeling Kedar Sanjay Pandya, Christian Roth and Dirk Mohr International Journal of Plasticity, vol. 135, pp. 102788, Pergamon, 2020.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Rate-and temperature-dependent plasticity of additivly manufacutred stainless steel 316L: Characterization, modeling and application to crushing of shell-lattices",
+      "year": 2020,
+      "citation_raw": "Rate-and temperature-dependent plasticity of additivly manufacutred stainless steel 316L: Characterization, modeling and application to crushing of shell-lattices Xueyang Li, Christian Roth, Thomas Tancongne-Dejean and Dirk Mohr International Journal of Impact Engineering, vol. 145, pp. 103671, Pergamon, 2020.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "On the potential of recurrent neural networks for modeling path dependent plasticity",
+      "year": 2020,
+      "citation_raw": "On the potential of recurrent neural networks for modeling path dependent plasticity Maysam B. Gorji, Mojtaba Mozaffar, Julian N. Heidenreich, Jian Cao and Dirk Mohr Journal of the Mechanics and Physics of Solids, vol. 143, pp. 103972, Elsevier, 2020.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Dynamic perforation of lightweight armor: Temperature-dependent plasticity and fracture of aluminum 7020-T6",
+      "year": 2020,
+      "citation_raw": "Dynamic perforation of lightweight armor: Temperature-dependent plasticity and fracture of aluminum 7020-T6 Christian Roth, Teresa Fras and Dirk Mohr Mechanics of Materials, vol. 149, pp. 103537, Elsevier, 2020.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Using neural networks to represent von Mises plasticity with isotropic hardening",
+      "year": 2020,
+      "citation_raw": "Using neural networks to represent von Mises plasticity with isotropic hardening Annan Zhang and Dirk Mohr International Journal of Plasticity, vol. 132, pp. 102732, Elsevier, 2020.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "On ductile fracture of 316L stainless steels at room and cryogenic temperature level: An engineering approach to determine material parameters",
+      "year": 2020,
+      "citation_raw": "On ductile fracture of 316L stainless steels at room and cryogenic temperature level: An engineering approach to determine material parameters Marcelo Paredes, Vincent Grolleau and Tomasz Wierzbicki Materialia, vol. 10, pp. 100624, Elsevier, 2020.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Application of two fracture models in impact simulations",
+      "year": 2020,
+      "citation_raw": "Application of two fracture models in impact simulations Teresa Fras, Christian C. Roth and Dirk Mohr Bulletin of the Polish Academy of Sciences Technical Sciences, vol. 68: no. 2, pp. 317-325, Polish Academy of Sciences, 2020.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Age-stratified discrete compartment model of the COVID-19 epidemic with application to Switzerland",
+      "year": 2020,
+      "citation_raw": "Age-stratified discrete compartment model of the COVID-19 epidemic with application to Switzerland Fadoua Balabdaoui and Dirk Mohr Scientific Reports, vol. 10: no. 1, pp. 21306, Nature, 2020.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Tracking Microstructure Evolution in Complex Biaxial Strain Paths: A Bulge Test Methodology for the Scanning Electron Microscope",
+      "year": 2020,
+      "citation_raw": "Tracking Microstructure Evolution in Complex Biaxial Strain Paths: A Bulge Test Methodology for the Scanning Electron Microscope Emeric Plancher, K. Qu, Niels H. Vonk, Maysam B. Gorji, Thomas Tancogne-Dejean and Cemal C. Taşan Experimental Mechanics, vol. 60: no. 1, pp. 35-50, Springer, 2020.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Stiffness and strength of hexachiral honeycomb-like metamaterials",
+      "year": 2019,
+      "citation_raw": "Stiffness and strength of hexachiral honeycomb-like metamaterials Thomas Tancogne-Dejean, Nikolaos Karathanasopoulos and Dirk Mohr Journal of Applied Mechanics, vol. 86: no. 11, pp. 111010, American Society of Mechanical Engineers, 2019.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Dynamic perforation of ultra-hard high-strength armor steel: Impact experiments and modeling",
+      "year": 2019,
+      "citation_raw": "Dynamic perforation of ultra-hard high-strength armor steel: Impact experiments and modeling Teresa Fras, Christian C. Roth and Dirk Mohr International Journal of Impact Engineering, vol. 131, pp. 256-271, Elsevier, 2019.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "High Strain Rate Response of Additively-Manufactured Plate-Lattices: Experiments and Modeling",
+      "year": 2019,
+      "citation_raw": "High Strain Rate Response of Additively-Manufactured Plate-Lattices: Experiments and Modeling Thomas Tancogne-Dejean, Xueyang Li, Marianna Diamantopoulou, Christian Roth and Dirk Mohr Journal of Dynamic Behavior of Materials, vol. 5: no. 3, pp. 361-375, Springer, 2019.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Machine-learning based temperature- and rate-dependent plasticity model: Application to analysis of fracture experiments on DP steel",
+      "year": 2019,
+      "citation_raw": "Machine-learning based temperature- and rate-dependent plasticity model: Application to analysis of fracture experiments on DP steel Xueyang Li, Christian C. Roth and Dirk Mohr International Journal of Plasticity, vol. 118, pp. 320-344, Elsevier, 2019.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Loading of mini-Nakazima specimens with a dihedral punch: Determining the strain to fracture for plane strain tension through stretch-bending",
+      "year": 2019,
+      "citation_raw": "Loading of mini-Nakazima specimens with a dihedral punch: Determining the strain to fracture for plane strain tension through stretch-bending Vincent Grolleau, Christian C. Roth, Vincent Lafilé and Dirk Mohr International Journal of Mechanical Sciences, vol. 152, pp. 329-345, Elsevier, 2019.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Smooth-shell metamaterials of cubic symmetry: Anisotropic elasticity, yield strength and specific energy absorption",
+      "year": 2019,
+      "citation_raw": "Smooth-shell metamaterials of cubic symmetry: Anisotropic elasticity, yield strength and specific energy absorption Colin Bonatti and Dirk Mohr Acta Materialia, vol. 164, pp. 301-321, Elsevier, 2019.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Mechanical performance of additively-manufactured anisotropic and isotropic smooth shell-lattice materials: Simulations & experiments",
+      "year": 2019,
+      "citation_raw": "Mechanical performance of additively-manufactured anisotropic and isotropic smooth shell-lattice materials: Simulations & experiments Colin Bonatti and Dirk Mohr Journal of the Mechanics and Physics of Solids, vol. 122, pp. 1-26, Elsevier, 2019.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Determining the strain to fracture for simple shear for a wide range of sheet metals",
+      "year": 2018,
+      "citation_raw": "Determining the strain to fracture for simple shear for a wide range of sheet metals Christian C. Roth and Dirk Mohr International Journal of Mechanical Sciences, vol. 149, pp. 224-240, Elsevier, 2018.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "3D Plate‐Lattices: An Emerging Class of Low‐Density Metamaterial Exhibiting Optimal Isotropic Stiffness",
+      "year": 2018,
+      "citation_raw": "3D Plate‐Lattices: An Emerging Class of Low‐Density Metamaterial Exhibiting Optimal Isotropic Stiffness Thomas Tancogne-Dejean, Marianna Diamantopoulou, Maysam B. Gorji, Colin Bonatti and Dirk Mohr Advanced Materials, vol. 30: no. 45, pp. 1803334, Wiley, 2018.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Hosford-Coulomb ductile failure model for shell elements: Experimental identification and validation for DP980 steel and aluminum 6016-T4",
+      "year": 2018,
+      "citation_raw": "Hosford-Coulomb ductile failure model for shell elements: Experimental identification and validation for DP980 steel and aluminum 6016-T4 Keunhwan Pack, Thomas Tancogne-Dejean, Maysam B. Gorji and Dirk Mohr International Journal of Solids and Structures, vol. 151, pp. 214-232, Elsevier, 2018.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Ductile damage mechanism under shear-dominated loading: In-situ tomography experiments on dual phase steel and localization analysis",
+      "year": 2018,
+      "citation_raw": "Ductile damage mechanism under shear-dominated loading: In-situ tomography experiments on dual phase steel and localization analysis Christian C. Roth, Thilo F. Morgeneyer, Yin Cheng, Lukas Helfen and Dirk Mohr International Journal of Plasticity, vol. 109, pp. 169-192, Elsevier, 2018.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Elastically-isotropic elementary cubic lattices composed of tailored hollow beams",
+      "year": 2018,
+      "citation_raw": "Elastically-isotropic elementary cubic lattices composed of tailored hollow beams Thomas Tancogne-Dejean and Dirk Mohr Extreme Mechanics Letters, vol. 22, pp. 13-18, Elsevier, 2018.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Stiffness and specific energy absorption of additively-manufactured metallic BCC metamaterials composed of tapered beams",
+      "year": 2018,
+      "citation_raw": "Stiffness and specific energy absorption of additively-manufactured metallic BCC metamaterials composed of tapered beams Thomas Tancogne-Dejean and Dirk Mohr International Journal of Mechanical Sciences, vol. 141, pp. 101-116, Elsevier, 2018.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Elastically-isotropic truss lattice materials of reduced plastic anisotropy",
+      "year": 2018,
+      "citation_raw": "Elastically-isotropic truss lattice materials of reduced plastic anisotropy Thomas Tancogne-Dejean and Dirk Mohr International Journal of Solids and Structures, vol. 138, pp. 24-39, Elsevier, 2018.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Heterogeneous random medium plasticity and fracture model of additively-manufactured Ti-6A1-4V",
+      "year": 2018,
+      "citation_raw": "Heterogeneous random medium plasticity and fracture model of additively-manufactured Ti-6A1-4V Maysam B. Gorji, Thomas Tancogne-Dejean and Dirk Mohr Acta Materialia, vol. 148, pp. 442-455, Elsevier, 2018.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Predicting shear fracture of aluminum 6016-T4 during deep drawing: Combining Yld-2000 plasticity with Hosford–Coulomb fracture model",
+      "year": 2018,
+      "citation_raw": "Predicting shear fracture of aluminum 6016-T4 during deep drawing: Combining Yld-2000 plasticity with Hosford–Coulomb fracture model Maysam B. Gorji and Dirk Mohr International Journal of Mechanical Sciences, vol. 137, pp. 105-120, Elsevier, 2018.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Stress-state and strain-rate dependent ductile fracture of dual and complex phase steel",
+      "year": 2018,
+      "citation_raw": "Stress-state and strain-rate dependent ductile fracture of dual and complex phase steel Borja Erice, Christian C. Roth and Dirk Mohr Mechanics of Materials, vol. 116, pp. 11-32, Elsevier, 2018.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Fracture of high-strength armor steel under impact loading",
+      "year": 2018,
+      "citation_raw": "Fracture of high-strength armor steel under impact loading Teresa Fras, Christian C. Roth and Dirk Mohr International Journal of Impact Engineering, vol. 111, pp. 147-164, Elsevier, 2018.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Predicting the rate-dependent loading paths to fracture in advanced high strength steels using an extended mechanical threshold model",
+      "year": 2017,
+      "citation_raw": "Predicting the rate-dependent loading paths to fracture in advanced high strength steels using an extended mechanical threshold model Matthieu Dunand and Dirk Mohr International Journal of Impact Engineering, vol. 108, pp. 272-285, Elsevier, 2017.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Combined necking & fracture model to predict ductile failure with shell finite elements",
+      "year": 2017,
+      "citation_raw": "Combined necking & fracture model to predict ductile failure with shell finite elements Keunhwan Pack and Dirk Mohr Engineering Fracture Mechanics, vol. 182, pp. 32-51, Elsevier, 2017.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Micro-tension and micro-shear experiments to characterize stress-state dependent ductile fracture",
+      "year": 2017,
+      "citation_raw": "Micro-tension and micro-shear experiments to characterize stress-state dependent ductile fracture Maysam B. Gorji and Dirk Mohr Acta Materialia, vol. 131, pp. 65-76, Elsevier, 2017.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Paint-bake effect on the plasticity and fracture of pre-strained aluminum 6451 sheets",
+      "year": 2017,
+      "citation_raw": "Paint-bake effect on the plasticity and fracture of pre-strained aluminum 6451 sheets Rami Abi-Akl and Dirk Mohr International Journal of Mechanical Sciences, vol. 124, pp. 68-82, Elsevier, 2017.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Large deformation response of additively-manufactured FCC metamaterials: From octet truss lattices towards continuous shell mesostructures",
+      "year": 2017,
+      "citation_raw": "Large deformation response of additively-manufactured FCC metamaterials: From octet truss lattices towards continuous shell mesostructures Colin Bonatti and Dirk Mohr International Journal of Plasticity, vol. 92, pp. 122-147, Elsevier, 2017.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Prediction of shear-dominated ductile fracture in a butterfly specimen using a model of plastic porous solids including void shape effects",
+      "year": 2017,
+      "citation_raw": "Prediction of shear-dominated ductile fracture in a butterfly specimen using a model of plastic porous solids including void shape effects Léo Morin, Jean-Baptiste Leblond, Dirk Mohr and Djimédo Kondo European Journal of Mechanics - A/Solids, vol. 61, pp. 433-442, Elsevier, 2017.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Additively-manufactured metallic micro-lattice materials for high specific energy absorption under static and dynamic loading",
+      "year": 2016,
+      "citation_raw": "Additively-manufactured metallic micro-lattice materials for high specific energy absorption under static and dynamic loading Thomas Tancogne-Dejean, Adriaan B. Spierings and Dirk Mohr Acta Materialia, vol. 116, pp. 14-28, Elsevier, 2016.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Critical hardening rate model for predicting path-dependent ductile fracture",
+      "year": 2016,
+      "citation_raw": "Critical hardening rate model for predicting path-dependent ductile fracture Stephane J. Marcadet and Dirk Mohr International Journal of Fracture, vol. 200: no. 1, pp. 77-98, Springer, 2016.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Ductile fracture experiments with locally proportional loading histories",
+      "year": 2016,
+      "citation_raw": "Ductile fracture experiments with locally proportional loading histories Christian C. Roth and Dirk Mohr International Journal of Plasticity, vol. 79, pp. 328-354, Elsevier, 2016.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Probabilistic fracture of Ti-6Al-4V made through additive layer manufacturing",
+      "year": 2016,
+      "citation_raw": "Probabilistic fracture of Ti-6Al-4V made through additive layer manufacturing Thomas Tancogne-Dejean, Christian C. Roth, Udisien Woy and Dirk Mohr International Journal of Plasticity, vol. 78, pp. 145-172, Elsevier, 2016.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Anisotropic viscoplasticity and fracture of fine grained metallic aluminum foil used in Li-ion batteries",
+      "year": 2016,
+      "citation_raw": "Anisotropic viscoplasticity and fracture of fine grained metallic aluminum foil used in Li-ion batteries Colin Bonatti and Dirk Mohr Materials Science and Engineering: A, vol. 654, pp. 329-343, Elsevier, 2016.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Compact SHPB System for Intermediate and High Strain Rate Plasticity and Fracture Testing of Sheet Metal",
+      "year": 2015,
+      "citation_raw": "Compact SHPB System for Intermediate and High Strain Rate Plasticity and Fracture Testing of Sheet Metal Christian C. Roth, Gérard Gary and Dirk Mohr Experimental Mechanics, vol. 55: no. 9, pp. 1803-1811, Springer, 2015.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Anisotropic Hosford-Coulomb fracture initiation model: Theory and application",
+      "year": 2015,
+      "citation_raw": "Anisotropic Hosford-Coulomb fracture initiation model: Theory and application Gongyao Gu and Dirk Mohr Engineering Fracture Mechanics, vol. 147, pp. 480-497, Elsevier, 2015.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Effect of compression-tension loading reversal on the strain to fracture of dual phase steel sheets",
+      "year": 2015,
+      "citation_raw": "Effect of compression-tension loading reversal on the strain to fracture of dual phase steel sheets Stephane J. Marcadet and Dirk Mohr International Journal of Plasticity, vol. 72, pp. 21-43, Elsevier, 2015.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Micromechanically-motivated phenomenological Hosford-Coulomb model for predicting ductile fracture initiation at low stress triaxialities",
+      "year": 2015,
+      "citation_raw": "Micromechanically-motivated phenomenological Hosford-Coulomb model for predicting ductile fracture initiation at low stress triaxialities Dirk Mohr and Stephane J. Marcadet International Journal of Solids and Structures, vol. 67-68, pp. 40-55, Elsevier, 2015.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    },
+    {
+      "title": "Ductile fracture of aluminum 2024-T351 under proportional and non-proportional multi-axial loading: Bao-Wierzbicki results revisited",
+      "year": 2015,
+      "citation_raw": "Ductile fracture of aluminum 2024-T351 under proportional and non-proportional multi-axial loading: Bao-Wierzbicki results revisited Jessica Papasidero, Veronique Doquet and Dirk Mohr International Journal of Solids and Structures, vol. 69-70, pp. 459-474, Elsevier, 2015.",
+      "source_url": "https://mohr.ethz.ch/publications.html"
+    }
+  ]
+}

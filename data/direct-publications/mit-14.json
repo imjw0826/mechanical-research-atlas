@@ -1,0 +1,80 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Michael Richard Benjamin",
+  "lab_name": null,
+  "lab_url": "http://oceanai.mit.edu/mikerb/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/mikerb@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/mikerb@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://oceanai.mit.edu/mikerb/"
+    },
+    {
+      "text": "MechE Academic Dashboard",
+      "url": "https://meche-ad-portal.mit.edu/"
+    },
+    {
+      "text": "MechE Undergrad Portal",
+      "url": "https://meundergrad.mit.edu/"
+    },
+    {
+      "text": "Online 2A Contract",
+      "url": "https://meche-2a-contracts.mit.edu/"
+    },
+    {
+      "text": "SB Thesis Information",
+      "url": "https://meundergrad.mit.edu/sb-thesis-information"
+    },
+    {
+      "text": "Grad Student Resources",
+      "url": "https://mechegrad.mit.edu/"
+    },
+    {
+      "text": "Online Grad Card",
+      "url": "https://meche-grad-card.mit.edu/"
+    },
+    {
+      "text": "ODGE Petition",
+      "url": "http://odge.mit.edu/gpp/oversight/petitions/"
+    },
+    {
+      "text": "MIT's Mind & Hand Book",
+      "url": "http://handbook.mit.edu/"
+    },
+    {
+      "text": "Room Reservations",
+      "url": "https://meche-reservations.mit.edu/Web/"
+    },
+    {
+      "text": "",
+      "url": "http://www.mit.edu/"
+    }
+  ],
+  "attempted_urls": [],
+  "access_errors": [
+    {
+      "url": "chrome-error://chromewebdata/",
+      "reason": "Browser chrome-error page observed; original linked website http://oceanai.mit.edu/mikerb/"
+    }
+  ],
+  "discovered_publication_links": [],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
+  "status": "partial",
+  "papers": [],
+  "dropped_low_confidence": [
+    {
+      "title": "Team of MechE and CSAIL Students Wins Grand Prize in Maritime RobotX Challenge",
+      "year": 2014,
+      "citation_raw": "WATCH VIDEO Team of MechE and CSAIL Students Wins Grand Prize in Maritime RobotX Challenge MIT and Olin College students built an unmanned surface vehicle that took the grand prize at the 2014 Maritime RobotX Challenge.",
+      "source_url": "https://meche.mit.edu/people/faculty/mikerb@mit.edu"
+    }
+  ]
+}

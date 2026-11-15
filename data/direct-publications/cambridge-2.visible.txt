@@ -1,0 +1,48 @@
+
+
+SOURCE https://acoustics.eng.cam.ac.uk/
+CAPTURED 2026-11-12T13:52:37.509Z
+- title: "My Blog" [url=https://acoustics.eng.cam.ac.uk/]
+- banner:
+  - paragraph:
+    - link "My Blog" [ref=e1]
+  - navigation:
+    - list:
+      - list:
+        - listitem "Sample Page" [ref=e17]:
+          - link "Sample Page" [ref=e2]
+- main:
+  - heading "Blog" [level=1]
+  - list:
+    - listitem:
+      - heading "Hello world!" [level=2]:
+        - link "Hello world!" [ref=e3]
+      - text: "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!"
+      - link "November 1, 2026" [ref=e4]
+- contentinfo:
+  - heading "My Blog" [level=2]:
+    - link "My Blog" [ref=e5]
+  - navigation "2" [ref=e6]:
+    - list:
+      - listitem:
+        - link "Blog" [ref=e7]
+      - listitem:
+        - link "About" [ref=e8]
+      - listitem:
+        - link "FAQs" [ref=e9]
+      - listitem:
+        - link "Authors" [ref=e10]
+  - navigation "3" [ref=e11]:
+    - list:
+      - listitem:
+        - link "Events" [ref=e12]
+      - listitem:
+        - link "Shop" [ref=e13]
+      - listitem:
+        - link "Patterns" [ref=e14]
+      - listitem:
+        - link "Themes" [ref=e15]
+  - text: "Twenty Twenty-Five"
+  - paragraph:
+    - text: "Designed with"
+    - link "WordPress" [ref=e16]

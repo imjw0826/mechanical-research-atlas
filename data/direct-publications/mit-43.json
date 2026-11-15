@@ -1,0 +1,93 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Neville Hogan",
+  "lab_name": null,
+  "lab_url": "https://newmanlab.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/neville@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/neville@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://newmanlab.mit.edu/"
+    }
+  ],
+  "attempted_urls": [
+    "https://newmanlab.mit.edu/",
+    "https://newmanlab.mit.edu/publications/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "PUBLICATIONS",
+      "url": "https://newmanlab.mit.edu/publications/"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Improved Assessment of Orbital Stability of Rhythmic Motion with Noise, PLoS ONE",
+      "year": 2015,
+      "citation_raw": "Ahn, J., & Hogan, N. (2015). Improved Assessment of Orbital Stability of Rhythmic Motion with Noise. PLoS ONE, 1-12. doi: 10.1371/journal.pone.0119596",
+      "source_url": "https://meche.mit.edu/people/faculty/neville@mit.edu"
+    },
+    {
+      "title": "A Novel Interactive Exoskeletal Robot for Overground Locomotion Studies in Rodents",
+      "year": 2015,
+      "citation_raw": "Song, Y. S., & Hogan, N. (2015). A Novel Interactive Exoskeletal Robot for Overground Locomotion Studies in Rodents. IEEE Transactions on Neural Systems and Rehabilitation Engineering. doi: 10.1109/TNSRE.2015.2396852",
+      "source_url": "https://meche.mit.edu/people/faculty/neville@mit.edu"
+    },
+    {
+      "title": "Time-Varying Ankle Mechanical Impedance during Human Locomotion",
+      "year": 2014,
+      "citation_raw": "Lee, H. and Hogan, N. (2014). Time-Varying Ankle Mechanical Impedance during Human Locomotion. IEEE Transactions on Neural Systems and Rehabilitation Engineering, (online). doi: 10.1109/TNSRE.2014.2346927",
+      "source_url": "https://meche.mit.edu/people/faculty/neville@mit.edu"
+    },
+    {
+      "title": "D. (2013) Dynamic Primitives in the Control of Locomotion Frontiers in Computational Neuroscience 7(71):1-16 doi: 10.3380/fncom.2013.00071",
+      "year": 2013,
+      "citation_raw": "Hogan, N. and Sternad, D. (2013) Dynamic Primitives in the Control of Locomotion Frontiers in Computational Neuroscience 7(71):1-16 doi: 10.3380/fncom.2013.00071",
+      "source_url": "https://meche.mit.edu/people/faculty/neville@mit.edu"
+    },
+    {
+      "title": "D. (2012) Dynamic primitives of Motor Behavior",
+      "year": 2012,
+      "citation_raw": "Hogan, N. and Sternad, D. (2012) Dynamic primitives of Motor Behavior. Biological Cybernetics epub 2012 Nov 3 doi 10.1007/s00422-012-0527-1 PMID: 23124919",
+      "source_url": "https://meche.mit.edu/people/faculty/neville@mit.edu"
+    },
+    {
+      "title": "Interactive Robotic Therapist",
+      "year": 1995,
+      "citation_raw": "Patent # 5,466,213 “Interactive Robotic Therapist” Neville Hogan, Hermano Igo Krebs, Andre Sharon and Jain Charnnarong. November 14, 1995.",
+      "source_url": "https://meche.mit.edu/people/faculty/neville@mit.edu"
+    },
+    {
+      "title": "System and Method for Medical Imaging Utilizing a Robotic Device, and Robotic Device for Use in Medical Imaging",
+      "year": 1998,
+      "citation_raw": "Patent # 5,794,621 “System and Method for Medical Imaging Utilizing a Robotic Device, and Robotic Device for Use in Medical Imaging” Neville Hogan, Hermano Igo Krebs. August 18, 1998.",
+      "source_url": "https://meche.mit.edu/people/faculty/neville@mit.edu"
+    },
+    {
+      "title": "Actuation System with Fluid Transmission for Interaction Control and High Force Haptics",
+      "year": 2007,
+      "citation_raw": "Patent # 7,284,374 “Actuation System with Fluid Transmission for Interaction Control and High Force Haptics” Stephen Buerger and Neville Hogan. October 7, 2007.",
+      "source_url": "https://meche.mit.edu/people/faculty/neville@mit.edu"
+    },
+    {
+      "title": "A Wrist Robot for Rehabilitation, Psychophysics and Haptic Interface",
+      "year": 2009,
+      "citation_raw": "Patent # 7,618,381 “A Wrist Robot for Rehabilitation, Psychophysics and Haptic Interface” James Celestino, Neville Hogan, Hermano Igo Krebs, Dustin Williams. November 17, 2009.",
+      "source_url": "https://meche.mit.edu/people/faculty/neville@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ]
+}

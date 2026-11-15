@@ -1,0 +1,217 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "J Kim Vandiver",
+  "lab_name": null,
+  "lab_url": "https://web.mit.edu/shear7/shear7.html",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://web.mit.edu/shear7/shear7.html"
+    },
+    {
+      "text": "http://edgerton.mit.edu/users/j-kim-vandiver",
+      "url": "http://edgerton.mit.edu/users/j-kim-vandiver"
+    }
+  ],
+  "attempted_urls": [
+    "https://web.mit.edu/shear7/shear7.html",
+    "https://web.mit.edu/shear7/papers.html"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "Useful\nPapers",
+      "url": "https://web.mit.edu/shear7/papers.html"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "The Effect of Liquid Storage Tanks on the Dynamic Response of Offshore Structures",
+      "year": 1982,
+      "citation_raw": "4. Vandiver, J. K. and Mitome, S., “The Effect of Liquid Storage Tanks on the Dynamic Response of Offshore Structures”, Applied Ocean Research, Vol. 1, No. 2, March 1979; also in Journal of Petroleum Technology, Vol. 31, No. 10, pp. 1231-1240, October 1979; and Progress in Engineering Sciences, Vol. 1, pp. 25-32, 1982.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Prediction of the Damping-Controlled Response of Offshore Structures to Random Wave Excitation",
+      "year": 1981,
+      "citation_raw": "5. Vandiver, J. K., “Prediction of the Damping-Controlled Response of Offshore Structures to Random Wave Excitation”, Society of Petroleum Engineers Journal, Vol. 20, No. 1, pp. 5-14, February 1980; also in Marine Technology Society Journal, Vol. 15, No. 1, pp. 31-41, Spring 1981.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "The Estimation of Natural Frequencies and Damping Ratios of Offshore Structures",
+      "year": 1982,
+      "citation_raw": "6. Campbell, R. B. and Vandiver, J. K., “The Estimation of Natural Frequencies and Damping Ratios of Offshore Structures”, Journal of Dynamic Systems and Control, ASME, 1982.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "The Significance of Dynamic Response in the Estimation of Fatigue Life",
+      "year": 1982,
+      "citation_raw": "7. Vandiver, J. K., “The Significance of Dynamic Response in the Estimation of Fatigue Life”, Journal of Energy Resources Technology, Vol. 104, pp. 369-372, December 1982; also presented at the ASME Winter Annual Meeting, Washington, DC, November 1981.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "The Sensitivity of Fatigue Life Estimates to Variations in Structural Natural Periods, Modal Damping Ratios, and Directional Spreading of the Seas",
+      "year": 1982,
+      "citation_raw": "8. Vandiver, J. K., “The Sensitivity of Fatigue Life Estimates to Variations in Structural Natural Periods, Modal Damping Ratios, and Directional Spreading of the Seas”, Ocean Science and Engineering, Vol. 7, No. 3, pp. 279-289, 1982.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "A Mathematical Basis for the Random Decrement Vibration Signature Analysis Technique",
+      "year": 1982,
+      "citation_raw": "9. Vandiver, J. K., Dunwoody, A. B., Campbell, R. B., and Cook, M. F., “A Mathematical Basis for the Random Decrement Vibration Signature Analysis Technique”, Journal of Mechanical Design, 1982.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Least Pth Optimization of Parameter Estimation in Structural Response Spectrum",
+      "year": 1982,
+      "citation_raw": "10. Lu, Xinsen and Vandiver, J. K., “Least Pth Optimization of Parameter Estimation in Structural Response Spectrum”, Journal of Vibration and Shock, Vol. 1, No. 3, September 1982.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "The Strumming Vibrations of Marine Cables",
+      "year": 1982,
+      "citation_raw": "11. Griffin, O. M., Vandiver, J. K., and Skop, R. A., “The Strumming Vibrations of Marine Cables”, Ocean Science and Engineering, Vol. 7, No. 4, pp. 461-498, 1982.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Direct Wave-Force Measurements on a Model Tension Leg Platform",
+      "year": 1983,
+      "citation_raw": "12. Vandiver, J. K., “Direct Wave-Force Measurements on a Model Tension Leg Platform”, Ocean Science and Engineering, Vol. 7, No. 4, pp. 499-517, 1983.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Vortex-Induced Strumming Vibrations of Marine Cables with Attached Masses",
+      "year": 1984,
+      "citation_raw": "13. Griffin, O. M. and Vandiver, J. K., “Vortex-Induced Strumming Vibrations of Marine Cables with Attached Masses”, Journal of Energy Resources Technology, Vol. 106, pp. 458, December 1984.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Vortex-Induced Vibration and Drag Coefficients of Long Cables Subjected to Sheared Flows",
+      "year": 1986,
+      "citation_raw": "14. Kim, Y.H., Vandiver, J. K. and Holler, R., “Vortex-Induced Vibration and Drag Coefficients of Long Cables Subjected to Sheared Flows”, Journal of Energy Resources Technology, Transactions of the ASME, Vol. 108, No. 1, pp. 77-83, March 1986.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "“The Relationship Between In-Line and Cross-Flow Vortex-Induced Vibration of Cylinders",
+      "year": 1987,
+      "citation_raw": "15. Vandiver, J. K. and Jong, J.-Y., “The Relationship Between In-Line and Cross-Flow Vortex-Induced Vibration of Cylinders, Journal of Fluids and Structures, Vol. 1, No. 4, pp. 381-399, October 1987.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Hydrodynamic Damping on Flexible Cylinders in Sheared Flow",
+      "year": 1989,
+      "citation_raw": "16. Vandiver, J. K. and Chung, Tae Young, “Hydrodynamic Damping on Flexible Cylinders in Sheared Flow”, Journal of Waterway, Port, Coastal and Ocean Engineering, Vol. 115, No. 2, pp. 154-171, March 1989.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Case Studies of the Bending Vibration and Whirling Motion of Drill Collars",
+      "year": 1990,
+      "citation_raw": "17. Vandiver, J. K., Nicholson, J. W. and Shyu, R-J, “Case Studies of the Bending Vibration and Whirling Motion of Drill Collars”, Journal of the Society of Petroleum Engineers, Vol. 5, No. 4, pp. 282-290, SPE-18652-PA, 1990.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Dimensionless Parameters Important to the Prediction of Vortex-Induced Vibration of Long, Flexible Cylinders in Ocean Currents",
+      "year": 1993,
+      "citation_raw": "18. Vandiver, J. K., “Dimensionless Parameters Important to the Prediction of Vortex-Induced Vibration of Long, Flexible Cylinders in Ocean Currents”, Journal of Fluids and Structures, Vol. 7, No. 5, pp. 423-455, July 1993.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Wave Propagation in Strings with Rigid Bodies",
+      "year": 1995,
+      "citation_raw": "19. Li, L. and Vandiver, J. K., “Wave Propagation in Strings with Rigid Bodies”, Journal of Vibrations and Acoustics, Vol. 117, No. 4, pp. 493-500, October 1995.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "The Occurrence of Lock-in Under Highly Sheared Conditions",
+      "year": 1996,
+      "citation_raw": "20. Vandiver, J. K., Allen, D., and Li, L., “The Occurrence of Lock-in Under Highly Sheared Conditions”, Journal of Fluids and Structures, Vol.10, No. 5, pp. 555-561, July 1996.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Wave Field Visualization as an Interpretational Tool in Borehole Geophysics",
+      "year": 1996,
+      "citation_raw": "21. Rao, R. V. N., Schmidt, H. and Vandiver, J. K., “Wave Field Visualization as an Interpretational Tool in Borehole Geophysics”, Journal of the Acoustical Society of America, Vol., 99, p. 2553, 1996.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Spectral Integral Approach to Radiation from Fluid-Filled Boreholes",
+      "year": 1996,
+      "citation_raw": "22. Rao, R. V. N., Schmidt, H. and Vandiver, J. K., “Spectral Integral Approach to Radiation from Fluid-Filled Boreholes”, Journal of the Acoustical Society of America, Vol., 99, p. 2587, 1996.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Wave Propagation on Flexurally Stiff Cables with Rigid Body Attachments",
+      "year": 1996,
+      "citation_raw": "23. Hayner, M. A. and Vandiver, J. K., “Wave Propagation on Flexurally Stiff Cables with Rigid Body Attachments”, Journal of the Acoustical Society of America, Vol., 100, p. 2685, 1996.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Inferring the Effects of Curvature of Tubulars from Pulse Propagation Tests",
+      "year": 1996,
+      "citation_raw": "24. Rao, R. V. N., Morgan, D. F. and Vandiver, J. K., “Inferring the Effects of Curvature of Tubulars from Pulse Propagation Tests”, Journal of the Acoustical Society of America, Vol., 100, p. 2822, 1996.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Estimation of Flow-Induced Vibration Parameters of Marine Risers",
+      "year": 1998,
+      "citation_raw": "25. Stamoulis, C. and Vandiver, J. K., “Estimation of Flow-Induced Vibration Parameters of Marine Risers”, Journal of the Acoustical Society of America, Vol., 104, p. 1801, 1998.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Acoustics of Fluid-Filled Boreholes with Pipe: Guided Propagation and Radiation",
+      "year": 1999,
+      "citation_raw": "26. Rao, R. V. N. and Vandiver, J. K., “Acoustics of Fluid-Filled Boreholes with Pipe: Guided Propagation and Radiation”, Journal of the Acoustical Society of America, Vol., 105, p. 3057, 1999.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Added Mass and Oscillation Frequency for a Circular Cylinder Subjected to Vortex-Induced Vibrations and External Disturbance",
+      "year": 2000,
+      "citation_raw": "27. Vikestad, K., Vandiver, J. K. and Larsen, C. M., “Added Mass and Oscillation Frequency for a Circular Cylinder Subjected to Vortex-Induced Vibrations and External Disturbance”,Journal of Fluids and Structures, Vol. 14, No. 7, pp. 1071-1088, October 2000.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "The Linear Vibration Analysis of Marine Risers Using the WKB-based Dynamic Stiffness Method",
+      "year": 2002,
+      "citation_raw": "28. Cheng, Y., Vandiver, J. K. and Moe, G., “The Linear Vibration Analysis of Marine Risers Using the WKB-based Dynamic Stiffness Method”, Journal of Sound and Vibration, Vol. 251, No. 4, pp. 750-760, April 2002.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Vortex-induced vibrations measured in service in the Foinaven dynamic umbilical, and lessons from predictions",
+      "year": 2003,
+      "citation_raw": "29. Lyons, G. J., Vandiver, J. K., Larsen, Ascombe, G. T., “Vortex-induced vibrations measured in service in the Foinaven dynamic umbilical, and lessons from predictions”, Journal of Fluids and Structures, Vol. 17, No. 8, pp. 1079-1094, July 2003.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Insights on Vortex-Induced, Traveling Waves on Long Risers",
+      "year": 2009,
+      "citation_raw": "30. Vandiver, J.K., Jaiswal, V., Jhingran, V., “Insights on Vortex-Induced, Traveling Waves on Long Risers”, Journal of Fluids and Structures, Vol. 25, No. 4, pp. 641-653, May 2009.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "Structural Life Assessment of Oil and Gas Risers Under Vortex-induced Vibration",
+      "year": 2008,
+      "citation_raw": "31. Iranpour, M., Taheri, F. and Vandiver, J. K., “Structural Life Assessment of Oil and Gas Risers Under Vortex-induced Vibration”, Marine Structures, Vol. 21, No. 4, pp. 353-373, October 2008.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    },
+    {
+      "title": "“Damping Parameters for Flow-Induced Vibration“",
+      "year": 2012,
+      "citation_raw": "32. Vandiver, J. K. , “Damping Parameters for Flow-Induced Vibration“, Journal of Fluids and Structures, Vol35, pp. 105-119, November 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/kimv@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ]
+}

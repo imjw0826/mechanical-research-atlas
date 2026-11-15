@@ -1,0 +1,183 @@
+{
+  "university": "Harvard University",
+  "university_key": "harvard",
+  "pi": "Sharad Ramanathan",
+  "lab_name": null,
+  "lab_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/",
+  "publication_urls": [
+    "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Changing the Waddington landscape to control mesendoderm competence",
+      "year": 2019,
+      "citation_raw": "James R. Valcourt, Roya Huang, Sharmistha Kundu, Divya Venkatasubramanian, Robert E. Kingston, Sharad Ramanathan. Changing the Waddington landscape to control mesendoderm competence. bioRxiv 2019.12.06.867010 doi: https://doi.org/10.1101/867010.",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Signal processing by the HOG MAP kinase pathway",
+      "year": 2008,
+      "citation_raw": "Hersen P, McClean MN, Mahadevan L, Ramanathan S. Signal processing by the HOG MAP kinase pathway. Proc Natl Acad Sci U S A. 2008;105 (20) :7165-70.Abstract",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Engineering aspects of enzymatic signal transduction: photoreceptors in the retina",
+      "year": 2000,
+      "citation_raw": "Detwiler, P.B., Ramanathan, S., Sengupta, A., Shraiman, B.I., Engineering aspects of enzymatic signal transduction: photoreceptors in the retina, Biophys J., 79(6):2801-17 (2000).",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Statistical Mechanics of proteins with evolutionarily selected sequences, Phys, Rev, E",
+      "year": 1994,
+      "citation_raw": "Ramanathan, S., Shakhnovich, E. I., Statistical Mechanics of proteins with evolutionarily selected sequences, Phys. Rev. E., (50) 130 (1994). PMID: 9962094",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "C.elegans Neural Networks",
+      "year": 2022,
+      "citation_raw": "Ramanathan, S., Shakhnovich, E. I., Statistical Mechanics of proteins with evolutionarily selected sequences, Phys. Rev. E., (50) 130 (1994). PMID: 9962094 C.elegans Neural Networks Chenguang Li, Gabriel Kreiman, Sharad Ramanathan. Integrating artificial and biological neural networks to improve animal task performance using deep reinforcement learning. bioRxiv 2022.09.19.508590; doi: https://doi.org/10.1101/2022.09.19.508590",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": null,
+      "year": 2004,
+      "citation_raw": "Basu. A., Boshes, B., Mukherjee, S., Ramanathan, S., Network Deformation: traffic-aware algorithms for dynamically reducing end-to-end delay in multi-hop wireless networks, Proceedings of IEEE ACM MobiCom, 100-113 (2004).",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": null,
+      "year": 2003,
+      "citation_raw": "Basu, A., Lin, A., Ramanathan, S., Routing using potentials: Dynamic Traffic Aware Routing Algorithms, Proceedings of IEEE ACM SigComm, 37-48 (2003).",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": null,
+      "year": 2003,
+      "citation_raw": "D’Souza, R., Temple Lang, D., Ramanathan, S., Query time-scale distribution in Adhoc Networks, Proceedings of IEEE Infocom (2003).",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": null,
+      "year": 2002,
+      "citation_raw": "Mach, P., Kerbage, C., Ramanathan, S., Windler, R., Eggleton, B., Rogers, J., Influence of Scattering on Transmission through Long-period Fiber Gratings and Tunable Microstructure Fibers, Optics Letters, 33: 7018-7024 (2002).",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": null,
+      "year": 2002,
+      "citation_raw": "Bouchaud, E., Bouchaud, J. P., Fisher, D. S., Ramanathan, S. and Rice, J. R., Can crack front waves explain the roughness of cracks, J. Mech. Phys. Solids 50, 1703 (2002).",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": null,
+      "year": 1998,
+      "citation_raw": "Ramanathan, S., Fisher D.S., Onset of crack propagation in heterogeneous media, Phys. Rev. B., 58, 6026 – 6046 (1998).",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": null,
+      "year": 1997,
+      "citation_raw": "Fisher, DS, Dahmen, K., Ramanathan, S., Ben-Zion, Y., Statistics of Earthquakes in simple models of heterogeneous faults, Phys. Rev. Lett., 78, 4885-4888 (1997).",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": null,
+      "year": 1997,
+      "citation_raw": "Ramanathan, S., Ertas, D. and Fisher, D. S., Quasistatic crack propagation in heterogeneous media, Phys. Rev. Lett., 79, 873 (1997).",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": null,
+      "year": 1997,
+      "citation_raw": "Ramanathan, S., and Fisher, D. S., Dynamics and instabilities of planar tensile cracks in heterogeneous media, Phys. Rev. Lett., 79, 877, (1997).",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Böke E, Cavazza T, Cave E, Cyranoski D, David L, Esteban MA, Fu J, Geijsen N, De Graeff N, Hanna JH, Hopwood N, Inamdar MS, Lanner F, Leeners B, Liu Z, Maitre JL, Minchiotti G, Moris N, Munsie M, Niakan KK, Pourquie O, Pasque V, Pera M, Peng Y, Petropoulos S, Ramanathan S, Rossant J, Rugg-Gunn P, Saitou M, Sermon K, Silva J, Theunissen T, Turco M, Wallingford J, Wang H, Warmflash A, Wu J",
+      "year": 2026,
+      "citation_raw": "Martinez Arias A, Rivron N, Tajbakhsh S, Johnston J, Alev C, Bally-Cuif L, Böke E, Cavazza T, Cave E, Cyranoski D, David L, Esteban MA, Fu J, Geijsen N, De Graeff N, Hanna JH, Hopwood N, Inamdar MS, Lanner F, Leeners B, Liu Z, Maitre JL, Minchiotti G, Moris N, Munsie M, Niakan KK, Pourquie O, Pasque V, Pera M, Peng Y, Petropoulos S, Ramanathan S, Rossant J, Rugg-Gunn P, Saitou M, Sermon K, Silva J, Theunissen T, Turco M, Wallingford J, Wang H, Warmflash A, Wu J, Yu L. 2026. Reply: Stem cell-based embryo models: scientific promise clashes with ethical reality. Human reproduction (Oxford, England). 41(9):1624-1626. PUBMED: 42449529 DOI:10.1093/HUMREP/DEAG113",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Böke E, Cavazza T, Cave E, Cyranoski D, David L, Esteban MA, Fu J, Geijsen N, De Graeff N, Hanna JH, Hopwood N, Inamdar MS, Lanner F, Leeners B, Liu Z, Maitre JL, Minchiotti G, Moris N, Munsie M, Niakan KK, Pourquie O, Pasque V, Pera M, Peng Y, Petropoulos S, Ramanathan S, Rossant J, Rugg-Gunn P, Saitou M, Sermon K, Silva J, Theunissen T, Turco M, Wallingford J, Wang H, Warmflash A, Wu J",
+      "year": 2026,
+      "citation_raw": "Martinez Arias A, Rivron N, Tajbakhsh S, Johnston J, Alev C, Bally-Cuif L, Böke E, Cavazza T, Cave E, Cyranoski D, David L, Esteban MA, Fu J, Geijsen N, De Graeff N, Hanna JH, Hopwood N, Inamdar MS, Lanner F, Leeners B, Liu Z, Maitre JL, Minchiotti G, Moris N, Munsie M, Niakan KK, Pourquie O, Pasque V, Pera M, Peng Y, Petropoulos S, Ramanathan S, Rossant J, Rugg-Gunn P, Saitou M, Sermon K, Silva J, Theunissen T, Turco M, Wallingford J, Wang H, Warmflash A, Wu J, Yu L. 2026. Reply: Stem cell-based embryo models: scientific promise clashes with ethical reality. Human reproduction (Oxford, England). 41(9):1624-1626. PUBMED: 42449529 DOI:10.1093/HUMREP/DEAG113 Martinez Arias A, Rivron N, Tajbakhsh S, Johnston J, Alev C, Bally-Cuif L, Böke E, Cavazza T, Cave E, Cyranoski D, David L, Esteban MA, Fu J, Geijsen N, De Graeff N, Hanna JH, Hopwood N, Inamdar MS, Lanner F, Leeners B, Liu Z, Maitre JL, Minchiotti G, Moris N, Munsie M, Niakan KK, Pourquie O, Pasque V, Pera M, Peng Y, Petropoulos S, Ramanathan S, Rossant J, Rugg-Gunn P, Saitou M, Sermon K, Silva J, Theunissen T, Turco M, Wallingford J, Wang H, Warmflash A, Wu J, Yu L. 2026. Reply: Stem cell-based embryo models: scientific promise clashes with ethical reality. Human reproduction (Oxford, England). 41(9):1624-1626. PUBMED: 42449529 DOI:10.1093/HUMREP/DEAG113 Huang RE, Anand GM, Megale HC, Chen J, Abraham-Igwe C, Ramanathan S. 2026. Arrayed single-gene perturbations identify drivers of human anterior neural tube closure. eLife. 14. PUBMED: 42411605 DOI:10.7554/ELIFE.108224",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Böke E, Cavazza T, Cave E, Cyranoski D, David L, Esteban MA, Fu J, Geijsen N, de Graeff N, Hanna JH, Hopwood N, Inamdar MS, Lanner F, Leeners B, Liu Z, Jean Leon M, Minchiotti G, Moris N, Munsie M, Niakan KK, Pourquie O, Pasque V, Pera M, Peng Y, Petropoulos S, Ramanathan S, Rossant J, Rugg-Gunn P, Saitou M, Sermon K, Silva J, Theunissen T, Turco M, Wallingford J, Wang H, Warmflash A, Wu J",
+      "year": 2026,
+      "citation_raw": "Arias AM, Rivron N, Tajbakhsh S, Johnston J, Alev C, Bally-Cuif L, Böke E, Cavazza T, Cave E, Cyranoski D, David L, Esteban MA, Fu J, Geijsen N, de Graeff N, Hanna JH, Hopwood N, Inamdar MS, Lanner F, Leeners B, Liu Z, Jean Leon M, Minchiotti G, Moris N, Munsie M, Niakan KK, Pourquie O, Pasque V, Pera M, Peng Y, Petropoulos S, Ramanathan S, Rossant J, Rugg-Gunn P, Saitou M, Sermon K, Silva J, Theunissen T, Turco M, Wallingford J, Wang H, Warmflash A, Wu J, Yu L. 2026. Human stem cell-based embryo models: innovation, ethics, and policy. Human reproduction (Oxford, England). 41(6):830-846. PUBMED: 41875051 DOI:10.1093/HUMREP/DEAG035",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Hyman BT. 2024, Lewy body dementia: Overcoming barriers and identifying solutions",
+      "year": 2024,
+      "citation_raw": "Agarwal K, Backler W, Bayram E, Bloom L, Boeve BF, Cha JH, Denslow M, Ferman TJ, Galasko D, Galvin JE, Gomperts SN, Irizarry MC, Kantarci K, Kaushik H, Kietlinski M, Koenig A, Leverenz JB, McKeith I, McLean PJ, Montine TJ, Moose SO, O'Brien JT, Panier V, Ramanathan S, Ringel MS, Scholz SW, Small J, Sperling RA, Taylor A, Taylor JP, Ward RA, Witten L, Hyman BT. 2024. Lewy body dementia: Overcoming barriers and identifying solutions. Alzheimer's & dementia : the journal of the Alzheimer's Association. 20(3):2298-2308. PUBMED: 38265159 DOI:10.1002/ALZ.13674",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Ramanathan S. 2017. A Single-Cell Roadmap of Lineage Bifurcation in Human ESC Models of Embryonic Brain Development, Cell stem cell",
+      "year": 2017,
+      "citation_raw": "Yao Z, Mich JK, Ku S, Menon V, Krostag AR, Martinez RA, Furchtgott L, Mulholland H, Bort S, Fuqua MA, Gregor BW, Hodge RD, Jayabalu A, May RC, Melton S, Nelson AM, Ngo NK, Shapovalova NV, Shehata SI, Smith MW, Tait LJ, Thompson CL, Thomsen ER, Ye C, Glass IA, Kaykas A, Yao S, Phillips JW, Grimley JS, Levi BP, Wang Y, Ramanathan S. 2017. A Single-Cell Roadmap of Lineage Bifurcation in Human ESC Models of Embryonic Brain Development. Cell stem cell. 20(1):120-134. PUBMED: 28094016 DOI:S1934-5909(16)30340-X",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Lein E. 2017, Single-Cell Profiling of an In Vitro Model of Human Interneuron Development Reveals Temporal Dynamics of Cell Type Production and Maturation, Neuron",
+      "year": 2017,
+      "citation_raw": "Close JL, Yao Z, Levi BP, Miller JA, Bakken TE, Menon V, Ting JT, Wall A, Krostag AR, Thomsen ER, Nelson AM, Mich JK, Hodge RD, Shehata SI, Glass IA, Bort S, Shapovalova NV, Ngo NK, Grimley JS, Phillips JW, Thompson CL, Ramanathan S, Lein E. 2017. Single-Cell Profiling of an In Vitro Model of Human Interneuron Development Reveals Temporal Dynamics of Cell Type Production and Maturation. Neuron. 93(5):1035-1048.e5. PUBMED: 28279351 DOI:S0896-6273(17)30098-3",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Lein E. 2017, Single-Cell Profiling of an In Vitro Model of Human Interneuron Development Reveals Temporal Dynamics of Cell Type Production and Maturation, Neuron",
+      "year": 2017,
+      "citation_raw": "Close JL, Yao Z, Levi BP, Miller JA, Bakken TE, Menon V, Ting JT, Wall A, Krostag AR, Thomsen ER, Nelson AM, Mich JK, Hodge RD, Shehata SI, Glass IA, Bort S, Shapovalova NV, Ngo NK, Grimley JS, Phillips JW, Thompson CL, Ramanathan S, Lein E. 2017. Single-Cell Profiling of an In Vitro Model of Human Interneuron Development Reveals Temporal Dynamics of Cell Type Production and Maturation. Neuron. 96(4):949. PUBMED: 29144976 DOI:S0896-6273(17)30992-3",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Lein E. 2017, Single-Cell Profiling of an In Vitro Model of Human Interneuron Development Reveals Temporal Dynamics of Cell Type Production and Maturation, Neuron",
+      "year": 2017,
+      "citation_raw": "Close JL, Yao Z, Levi BP, Miller JA, Bakken TE, Menon V, Ting JT, Wall A, Krostag AR, Thomsen ER, Nelson AM, Mich JK, Hodge RD, Shehata SI, Glass IA, Bort S, Shapovalova NV, Ngo NK, Grimley JS, Phillips JW, Thompson CL, Ramanathan S, Lein E. 2017. Single-Cell Profiling of an In Vitro Model of Human Interneuron Development Reveals Temporal Dynamics of Cell Type Production and Maturation. Neuron. 96(4):949. PUBMED: 29144976 DOI:S0896-6273(17)30992-3 Close JL, Yao Z, Levi BP, Miller JA, Bakken TE, Menon V, Ting JT, Wall A, Krostag AR, Thomsen ER, Nelson AM, Mich JK, Hodge RD, Shehata SI, Glass IA, Bort S, Shapovalova NV, Ngo NK, Grimley JS, Phillips JW, Thompson CL, Ramanathan S, Lein E. 2017. Single-Cell Profiling of an In Vitro Model of Human Interneuron Development Reveals Temporal Dynamics of Cell Type Production and Maturation. Neuron. 96(4):949. PUBMED: 29144976 DOI:S0896-6273(17)30992-3 Furchtgott LA, Melton S, Menon V, Ramanathan S. 2017. Discovering sparse transcription factor codes for cell states and state transitions during development. eLife. DOI:10.7554/ELIFE.20488",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Lein E. 2017, Single-Cell Profiling of an In Vitro Model of Human Interneuron Development Reveals Temporal Dynamics of Cell Type Production and Maturation, Neuron",
+      "year": 2017,
+      "citation_raw": "Close JL, Yao Z, Levi BP, Miller JA, Bakken TE, Menon V, Ting JT, Wall A, Krostag AR, Thomsen ER, Nelson AM, Mich JK, Hodge RD, Shehata SI, Glass IA, Bort S, Shapovalova NV, Ngo NK, Grimley JS, Phillips JW, Thompson CL, Ramanathan S, Lein E. 2017. Single-Cell Profiling of an In Vitro Model of Human Interneuron Development Reveals Temporal Dynamics of Cell Type Production and Maturation. Neuron. 93(5). DOI:10.1016/J.NEURON.2017.02.014",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Ramanathan S. 2016. A Single-Cell Roadmap of Lineage Bifurcation in Human ESC Models of Embryonic Brain Development, Cell Stem Cell",
+      "year": 2016,
+      "citation_raw": "Yao Z, Mich JK, Ku S, Menon V, Krostag AR, Martinez RA, Furchtgott L, Mulholland H, Bort S, Fuqua MA, Gregor BW, Hodge RD, Jayabalu A, May RC, Melton S, Nelson AM, Ngo NK, Shapovalova NV, Shehata SI, Smith MW, Tait LJ, Thompson CL, Thomsen ER, Ye C, Glass IA, Kaykas A, Yao S, Phillips JW, Grimley JS, Levi BP, Wang Y, Ramanathan S. 2016. A Single-Cell Roadmap of Lineage Bifurcation in Human ESC Models of Embryonic Brain Development. Cell Stem Cell. 20. DOI:10.1016/J.STEM.2016.09.011",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Ramanathan S. 2011, Pluripotency factors in embryonic stem cells regulate differentiation into germ layers, Cell",
+      "year": 2011,
+      "citation_raw": "Thomson M, Liu SJ, Zou LN, Smith Z, Meissner A, Ramanathan S. 2011. Pluripotency factors in embryonic stem cells regulate differentiation into germ layers. Cell. 145(6):875-89. PUBMED: 21663792 DOI:10.1016/J.CELL.2011.05.017",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Ramanathan S. 2011, Measuring in vivo signaling kinetics in a mitogen-activated kinase pathway using dynamic input stimulation, Methods in molecular biology (Clifton",
+      "year": 2011,
+      "citation_raw": "McClean MN, Hersen P, Ramanathan S. 2011. Measuring in vivo signaling kinetics in a mitogen-activated kinase pathway using dynamic input stimulation. Methods in molecular biology (Clifton, N.J.). 734:101-19. PUBMED: 21468987 DOI:10.1007/978-1-61779-086-7_6",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    },
+    {
+      "title": "Ramanathan S. 2008, Dynamic analysis of cell signalling: the example of the Saccharomyces cerevisiae osmotic response",
+      "year": 2008,
+      "citation_raw": "Hersen P, McClean M, Ramanathan S. 2008. Dynamic analysis of cell signalling: the example of the Saccharomyces cerevisiae osmotic response. Medecine sciences : M/S. 24(12):1020-2. PUBMED: 19116106 DOI:10.1051/MEDSCI/200824121020",
+      "source_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/publications/"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
+    "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
+  ]
+}

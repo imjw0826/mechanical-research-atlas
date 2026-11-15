@@ -1,0 +1,1674 @@
+{
+  "university": "Seoul National University",
+  "university_key": "snu",
+  "pi": "김도년",
+  "lab_name": "AI주도 시뮬레이션 및 설계 연구실",
+  "lab_url": "https://aisdl.snu.ac.kr/",
+  "publication_urls": [
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=8",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2026",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2025",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2024",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2023",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2022",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2021",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2020",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2019",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2018",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2017",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2016",
+    "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&sca=2015%7Ebefore"
+  ],
+  "accessed_at": "2026-11-11T13:45:16.811Z",
+  "coverage_notes": "Journals All 총108건, 1–8페이지 및 publication_urls의 연도별 필터 포함 20 URL을 Aside 브라우저로 직접 열어 snapshot과 TXT raw 대조 완료. All 108개 레코드의 제목·저자·개별 인용연도와 citation_raw가 원문과 일치. 동일 제목 중복 및 누락 없음; 제목만 dedup하지 않고 제목+저자+연도+venue 복합 비교. 실제 venue 기준 journal_article 96, conference_paper 1(WACV), venue 없는 submitted/in revision 11건은 publication_type null. venue_raw는 사이트 개별 journal 필드로 분리하고 citation_raw 108건은 원문 그대로 보존. 연도별 2026 필터 첫 페이지에는 15/21건만 보이나 나머지 6건은 All 2페이지에 포함되므로 총108건 커버. 특허 제외, 외부 집계DB 사용 안 함.",
+  "status": "complete",
+  "papers": [
+    {
+      "title": "Electroquasistatic finite element modeling of clamping and release in electrostatic chucks",
+      "authors_raw": "*Giseok Yun, *Hyun Suk Lee, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": null,
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=142",
+      "citation_raw": "108\n\nElectroquasistatic finite element modeling of clamping and release in electrostatic chucks\n\n*Giseok Yun, *Hyun Suk Lee, and Do-Nyun Kim\n\nsubmitted, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": null,
+      "publication_status_raw": "submitted",
+      "year_type": "citation_year",
+      "field_notes": [
+        "venue_raw: 원문에 게재처 이름이 없고 상태와 연도만 표시됨. 제출 대상 venue를 추정하지 않음.",
+        "publication_type: Journals 메뉴만으로 실제 게재처나 정식 journal_article 여부를 확정할 수 없어 null.",
+        "year: 개별 인용에 기재된 연도이며 실제 출판 연도/게재 완료를 확인한 것은 아님."
+      ]
+    },
+    {
+      "title": "Rational design of hybrid RNA–DNA origamis with high structural integrity and folding yield guided by multiscale mechanical strain energy",
+      "authors_raw": "*Dong-Sik Seo, *Taeyoung Ryu, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": null,
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=141",
+      "citation_raw": "107\n\nRational design of hybrid RNA–DNA origamis with high structural integrity and folding yield guided by multiscale mechanical strain energy\n\n*Dong-Sik Seo, *Taeyoung Ryu, and Do-Nyun Kim\n\nsubmitted, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": null,
+      "publication_status_raw": "submitted",
+      "year_type": "citation_year",
+      "field_notes": [
+        "venue_raw: 원문에 게재처 이름이 없고 상태와 연도만 표시됨. 제출 대상 venue를 추정하지 않음.",
+        "publication_type: Journals 메뉴만으로 실제 게재처나 정식 journal_article 여부를 확정할 수 없어 null.",
+        "year: 개별 인용에 기재된 연도이며 실제 출판 연도/게재 완료를 확인한 것은 아님."
+      ]
+    },
+    {
+      "title": "Kirigami meta-sheet for enhanced impact absorption",
+      "authors_raw": "Dahyun Joo, Yasuhiro Miyazawa, Seokhyun Hong, Dongha Lee, Jinkyu Yang, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": null,
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=140&no=1",
+      "citation_raw": "106\n\nKirigami meta-sheet for enhanced impact absorption\n\nDahyun Joo, Yasuhiro Miyazawa, Seokhyun Hong, Dongha Lee, Jinkyu Yang, and Do-Nyun Kim\n\nsubmitted, (2026)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": null,
+      "publication_status_raw": "submitted",
+      "year_type": "citation_year",
+      "field_notes": [
+        "venue_raw: 원문에 게재처 이름이 없고 상태와 연도만 표시됨. 제출 대상 venue를 추정하지 않음.",
+        "publication_type: Journals 메뉴만으로 실제 게재처나 정식 journal_article 여부를 확정할 수 없어 null.",
+        "year: 개별 인용에 기재된 연도이며 실제 출판 연도/게재 완료를 확인한 것은 아님."
+      ]
+    },
+    {
+      "title": "Co-assembly strategy using cryo-tunable DNA origami helix bundles programmed for augmented preservation of three-dimensional spheroids",
+      "authors_raw": "*Eui Bum Choi, *Kyounghwa Jeon, *Seung-Cheol Shin, Eugene Jung, Taeyoung Ryu, Woo Hyuk Jung, Chanseok Lee, Seok Chung, Do-Nyun Kim, and Dong June Ahn",
+      "year": 2026,
+      "venue_raw": null,
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=139",
+      "citation_raw": "105\n\nCo-assembly strategy using cryo-tunable DNA origami helix bundles programmed for augmented preservation of three-dimensional spheroids\n\n*Eui Bum Choi, *Kyounghwa Jeon, *Seung-Cheol Shin, Eugene Jung, Taeyoung Ryu, Woo Hyuk Jung, Chanseok Lee, Seok Chung, Do-Nyun Kim, and Dong June Ahn\n\nsubmitted, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": null,
+      "publication_status_raw": "submitted",
+      "year_type": "citation_year",
+      "field_notes": [
+        "venue_raw: 원문에 게재처 이름이 없고 상태와 연도만 표시됨. 제출 대상 venue를 추정하지 않음.",
+        "publication_type: Journals 메뉴만으로 실제 게재처나 정식 journal_article 여부를 확정할 수 없어 null.",
+        "year: 개별 인용에 기재된 연도이며 실제 출판 연도/게재 완료를 확인한 것은 아님."
+      ]
+    },
+    {
+      "title": "An adaptive concurrent design optimization method under thermal-mechanical buckling constraints",
+      "authors_raw": "Minh-Ngoc Nguyen, Van-Nam Hoang, Giseok Yun, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": null,
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=138",
+      "citation_raw": "104\n\nAn adaptive concurrent design optimization method under thermal-mechanical buckling constraints\n\nMinh-Ngoc Nguyen, Van-Nam Hoang, Giseok Yun, and Do-Nyun Kim\n\nin revision, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": null,
+      "publication_status_raw": "in revision",
+      "year_type": "citation_year",
+      "field_notes": [
+        "venue_raw: 원문에 게재처 이름이 없고 상태와 연도만 표시됨. 제출 대상 venue를 추정하지 않음.",
+        "publication_type: Journals 메뉴만으로 실제 게재처나 정식 journal_article 여부를 확정할 수 없어 null.",
+        "year: 개별 인용에 기재된 연도이며 실제 출판 연도/게재 완료를 확인한 것은 아님."
+      ]
+    },
+    {
+      "title": "Temperature-constrained topology optimization design of geometrically nonlinear self-weight structures",
+      "authors_raw": "Minh-Ngoc Nguyen, Giseok Yun, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": null,
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=137",
+      "citation_raw": "103\n\nTemperature-constrained topology optimization design of geometrically nonlinear self-weight structures\n\nMinh-Ngoc Nguyen, Giseok Yun, and Do-Nyun Kim\n\nsubmitted, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": null,
+      "publication_status_raw": "submitted",
+      "year_type": "citation_year",
+      "field_notes": [
+        "venue_raw: 원문에 게재처 이름이 없고 상태와 연도만 표시됨. 제출 대상 venue를 추정하지 않음.",
+        "publication_type: Journals 메뉴만으로 실제 게재처나 정식 journal_article 여부를 확정할 수 없어 null.",
+        "year: 개별 인용에 기재된 연도이며 실제 출판 연도/게재 완료를 확인한 것은 아님."
+      ]
+    },
+    {
+      "title": "Curvelinear inverse lithography via B-spline level-set representation",
+      "authors_raw": "Se-Hyeon Kang, Seung-Woo Lee, Yaejin Lee, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": null,
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=136",
+      "citation_raw": "102\n\nCurvelinear inverse lithography via B-spline level-set representation\n\nSe-Hyeon Kang, Seung-Woo Lee, Yaejin Lee, and Do-Nyun Kim\n\nin revision, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": null,
+      "publication_status_raw": "in revision",
+      "year_type": "citation_year",
+      "field_notes": [
+        "venue_raw: 원문에 게재처 이름이 없고 상태와 연도만 표시됨. 제출 대상 venue를 추정하지 않음.",
+        "publication_type: Journals 메뉴만으로 실제 게재처나 정식 journal_article 여부를 확정할 수 없어 null.",
+        "year: 개별 인용에 기재된 연도이며 실제 출판 연도/게재 완료를 확인한 것은 아님."
+      ]
+    },
+    {
+      "title": "Explainable quantum neural networks for multi-material topology optimization",
+      "authors_raw": "Dahyun Joo, Naruethep Sukulthanasorn, Kenjiro Terada, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": null,
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=135&no=2",
+      "citation_raw": "101\n\nExplainable quantum neural networks for multi-material topology optimization\n\nDahyun Joo, Naruethep Sukulthanasorn, Kenjiro Terada, and Do-Nyun Kim\n\nin revision, (2026)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": null,
+      "publication_status_raw": "in revision",
+      "year_type": "citation_year",
+      "field_notes": [
+        "venue_raw: 원문에 게재처 이름이 없고 상태와 연도만 표시됨. 제출 대상 venue를 추정하지 않음.",
+        "publication_type: Journals 메뉴만으로 실제 게재처나 정식 journal_article 여부를 확정할 수 없어 null.",
+        "year: 개별 인용에 기재된 연도이며 실제 출판 연도/게재 완료를 확인한 것은 아님."
+      ]
+    },
+    {
+      "title": "Mechanochemical DNA origami transducer for rapid and rewritable molecular information processing",
+      "authors_raw": "*Myoungseok Kim, *Dongsik Seo, Grigory Tikhomirov, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": null,
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=117",
+      "citation_raw": "100\n\nMechanochemical DNA origami transducer for rapid and rewritable molecular information processing\n\n*Myoungseok Kim, *Dongsik Seo, Grigory Tikhomirov, and Do-Nyun Kim\n\nin revision, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": null,
+      "publication_status_raw": "in revision",
+      "year_type": "citation_year",
+      "field_notes": [
+        "venue_raw: 원문에 게재처 이름이 없고 상태와 연도만 표시됨. 제출 대상 venue를 추정하지 않음.",
+        "publication_type: Journals 메뉴만으로 실제 게재처나 정식 journal_article 여부를 확정할 수 없어 null.",
+        "year: 개별 인용에 기재된 연도이며 실제 출판 연도/게재 완료를 확인한 것은 아님."
+      ]
+    },
+    {
+      "title": "Snail tentacle-inspired reconfigurable suction cup with structurally embedded multi-stability",
+      "authors_raw": "Jae-Ryoung Choi, Seungkwan Lee, Woongbae Kim, Mingshan He, Do-Nyun Kim, and Kyu-Jin Cho",
+      "year": 2026,
+      "venue_raw": null,
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=127",
+      "citation_raw": "99\n\nSnail tentacle-inspired reconfigurable suction cup with structurally embedded multi-stability\n\nJae-Ryoung Choi, Seungkwan Lee, Woongbae Kim, Mingshan He, Do-Nyun Kim, and Kyu-Jin Cho\n\nsubmitted, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": null,
+      "publication_status_raw": "submitted",
+      "year_type": "citation_year",
+      "field_notes": [
+        "venue_raw: 원문에 게재처 이름이 없고 상태와 연도만 표시됨. 제출 대상 venue를 추정하지 않음.",
+        "publication_type: Journals 메뉴만으로 실제 게재처나 정식 journal_article 여부를 확정할 수 없어 null.",
+        "year: 개별 인용에 기재된 연도이며 실제 출판 연도/게재 완료를 확인한 것은 아님."
+      ]
+    },
+    {
+      "title": "Rapid, scalable, and generalizable computational lithography with neural operators",
+      "authors_raw": "Seung-Woo Lee, Jinho Lee, Jaehoon Kim, Yunhyoung Nam, Hongchang Lee, Yaejin Lee, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": null,
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=132",
+      "citation_raw": "98\n\nRapid, scalable, and generalizable computational lithography with neural operators\n\nSeung-Woo Lee, Jinho Lee, Jaehoon Kim, Yunhyoung Nam, Hongchang Lee, Yaejin Lee, and Do-Nyun Kim\n\nin revision, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": null,
+      "publication_status_raw": "in revision",
+      "year_type": "citation_year",
+      "field_notes": [
+        "venue_raw: 원문에 게재처 이름이 없고 상태와 연도만 표시됨. 제출 대상 venue를 추정하지 않음.",
+        "publication_type: Journals 메뉴만으로 실제 게재처나 정식 journal_article 여부를 확정할 수 없어 null.",
+        "year: 개별 인용에 기재된 연도이며 실제 출판 연도/게재 완료를 확인한 것은 아님."
+      ]
+    },
+    {
+      "title": "BASE: Background-anchored single-stage diffusion editor for micro-defect synthesis",
+      "authors_raw": "Jeongmin Lee, Yunhyoung Nam, Jaehoon Kim, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": "Winter Conference on Applications of Computer Vision (WACV 2027)",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=125",
+      "citation_raw": "97\n\nBASE: Background-anchored single-stage diffusion editor for micro-defect synthesis\n\nJeongmin Lee, Yunhyoung Nam, Jaehoon Kim, and Do-Nyun Kim\n\nWinter Conference on Applications of Computer Vision (WACV 2027), accepted, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": "conference_paper",
+      "publication_status_raw": "accepted",
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_type: Journals 메뉴에 있지만 실제 venue는 WACV 학회이므로 conference_paper.",
+        "year: 원문 개별 인용의 (2026)을 유지. venue의 WACV 2027은 행사명에 포함된 연도이므로 자동 대체하지 않음; accepted 원문 상태 보존."
+      ]
+    },
+    {
+      "title": "PADE: Process-adaptive denormalization for focus–dose conditioned SEM image generation",
+      "authors_raw": "Hongchang Lee, Seung-Woo Lee, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": "Journal of Micro/Nanopatterning, Materials, and Metrology",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=134",
+      "citation_raw": "96\n\nPADE: Process-adaptive denormalization for focus–dose conditioned SEM image generation\n\nHongchang Lee, Seung-Woo Lee, and Do-Nyun Kim\n\nJournal of Micro/Nanopatterning, Materials, and Metrology, in press, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": "journal_article",
+      "publication_status_raw": "in press",
+      "year_type": "citation_year",
+      "field_notes": []
+    },
+    {
+      "title": "Experimental validation of calibration constants determined by a deep operator network for IHD in laminated composite materials",
+      "authors_raw": "Teubes Christiaan Smit, Seung-Woo Lee, Do-Nyun Kim, and Robert Grant Reid",
+      "year": 2026,
+      "venue_raw": "Experimental Mechanics",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=126",
+      "citation_raw": "95\n\nExperimental validation of calibration constants determined by a deep operator network for IHD in laminated composite materials\n\nTeubes Christiaan Smit, Seung-Woo Lee, Do-Nyun Kim, and Robert Grant Reid\n\nExperimental Mechanics, in press, (2026)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": "journal_article",
+      "publication_status_raw": "in press",
+      "year_type": "citation_year",
+      "field_notes": []
+    },
+    {
+      "title": "High-fidelity synthesis of slender defects via single-image-based latent blending for data-driven defect inspection",
+      "authors_raw": "*Jeongmin Lee, *Yunhyoung Nam, Young-joo Kim, Jihye Lee, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": "IEEE Transactions on Semiconductor Manufacturing",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=130&no=1",
+      "citation_raw": "94\n\nHigh-fidelity synthesis of slender defects via single-image-based latent blending for data-driven defect inspection\n\n*Jeongmin Lee, *Yunhyoung Nam, Young-joo Kim, Jihye Lee, and Do-Nyun Kim\n\nIEEE Transactions on Semiconductor Manufacturing, in press, (2026)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1",
+      "publication_type": "journal_article",
+      "publication_status_raw": "in press",
+      "year_type": "citation_year",
+      "field_notes": []
+    },
+    {
+      "title": "Coupled thermo-mechanical design optimization of multi-materials under material-specific stress constraints",
+      "authors_raw": "Minh-Ngoc Nguyen and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": "Finite Elements in Analysis and Design",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=131&no=1&page=2",
+      "citation_raw": "93\n\nCoupled thermo-mechanical design optimization of multi-materials under material-specific stress constraints\n\nMinh-Ngoc Nguyen and Do-Nyun Kim\n\nFinite Elements in Analysis and Design, 262: 104661, (2026)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Density-based topology optimization on a deformable unstructured mesh with enriched finite elements",
+      "authors_raw": "Kyusoon Jung, Giseok Yun, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": "Computers & Structures",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=129&no=1&page=2",
+      "citation_raw": "92\n\nDensity-based topology optimization on a deformable unstructured mesh with enriched finite elements\n\nKyusoon Jung, Giseok Yun, and Do-Nyun Kim\n\nComputers & Structures, 331: 108403, (2026)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "De novo design of DNA origami with a generative diffusion model",
+      "authors_raw": "*Chien Truong-Quoc, *Kyounghwa Jeon, Jinho Kim, Seo Hyun Kwon, Dongsik Seo, Chanseok Lee, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": "Nature Communications",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=120&no=1&page=2",
+      "citation_raw": "91\n\nDe novo design of DNA origami with a generative diffusion model\n\n*Chien Truong-Quoc, *Kyounghwa Jeon, Jinho Kim, Seo Hyun Kwon, Dongsik Seo, Chanseok Lee, and Do-Nyun Kim\n\nNature Communications, 17: 6792, (2026)\n\n LINK\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Selecting laminate configurations for training a DeepONet to predict IHD calibration constants in FRP laminates",
+      "authors_raw": "Seung-Woo Lee, Teubes Christiaan Smit, Do-Nyun Kim, and Robert Grant Reid",
+      "year": 2026,
+      "venue_raw": "Journal of Engineering Materials and Technology",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=122&no=1&page=2",
+      "citation_raw": "90\n\nSelecting laminate configurations for training a DeepONet to predict IHD calibration constants in FRP laminates\n\nSeung-Woo Lee, Teubes Christiaan Smit, Do-Nyun Kim, and Robert Grant Reid\n\nJournal of Engineering Materials and Technology, 148: 031004, (2026)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Classifying multi-state DNA origami: an automated approach with minimal labeling and confidence-based filtering",
+      "authors_raw": "Hongchang Lee, Seo Hyun Kwon, and Do-Nyun Kim",
+      "year": 2026,
+      "venue_raw": "Journal of Chemical Information and Modeling",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=123&no=1&page=2",
+      "citation_raw": "89\n\nClassifying multi-state DNA origami: an automated approach with minimal labeling and confidence-based filtering\n\nHongchang Lee, Seo Hyun Kwon, and Do-Nyun Kim\n\nJournal of Chemical Information and Modeling, 10: 5801–5810, (2026)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Uncovering design and assembly rules for mRNA–DNA origami",
+      "authors_raw": "*Jack Y. Wang, *Jared Huzar, *Myoungseok Kim, Taeyoung Ryu, Nahtalee R. Lomeli, Derfogail Delcassian, Do-Nyun Kim, and Grigory Tikhomirov",
+      "year": 2026,
+      "venue_raw": "Nano Letters",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=124&no=1&page=2",
+      "citation_raw": "88\n\nUncovering design and assembly rules for mRNA–DNA origami\n\n*Jack Y. Wang, *Jared Huzar, *Myoungseok Kim, Taeyoung Ryu, Nahtalee R. Lomeli, Derfogail Delcassian, Do-Nyun Kim, and Grigory Tikhomirov\n\nNano Letters, 26: 2538-2547, (2026)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Membrane-targeted DNA frameworks with biodegradability recover cellular function and morphology from frozen cells",
+      "authors_raw": "*Yedam Lee, *Woo Hyuk Jung, *Kyounghwa Jeon, Eui Bum Choi, Taeyoung Ryu, Chanseok Lee, Do-Nyun Kim, and Dong June Ahn",
+      "year": 2025,
+      "venue_raw": "Trends in Biotechnology",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=111&no=1&page=2",
+      "citation_raw": "87\n\nMembrane-targeted DNA frameworks with biodegradability recover cellular function and morphology from frozen cells\n\n*Yedam Lee, *Woo Hyuk Jung, *Kyounghwa Jeon, Eui Bum Choi, Taeyoung Ryu, Chanseok Lee, Do-Nyun Kim, and Dong June Ahn\n\nTrends in Biotechnology, 43: 3196-3216, (2025)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "SNUPI: A computational framework for rapid mechanical analysis of structured DNA assemblies",
+      "authors_raw": "Jun Hyeong Park, Do-Nyun Kim, and Jae Young Lee",
+      "year": 2025,
+      "venue_raw": "JACS Au",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=119&no=1&page=2",
+      "citation_raw": "86\n\nSNUPI: A computational framework for rapid mechanical analysis of structured DNA assemblies\n\nJun Hyeong Park, Do-Nyun Kim, and Jae Young Lee\n\nJACS Au, 5: 5813-5820, (2025)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Interpolation Mesh-Graph Net using disconnected spatial graphs of higher order element based meshes",
+      "authors_raw": "Jozsef Adam Sebestyen and Do-Nyun Kim",
+      "year": 2025,
+      "venue_raw": "Engineering Applications of Artificial Intelligence",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=109&no=1&page=2",
+      "citation_raw": "85\n\nInterpolation Mesh-Graph Net using disconnected spatial graphs of higher order element based meshes\n\nJozsef Adam Sebestyen and Do-Nyun Kim\n\nEngineering Applications of Artificial Intelligence, 159, Part C: 111535, (2025)\n\n LINK\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A computational framework for investigating the mechanical stresses on breast implants under dynamic loading conditions",
+      "authors_raw": "Seungkwan Lee, Ju Yeon Park, Sinwoo Park, Jungju Kim, Il-Seok Jang, Ju-Dong Song, and Do-Nyun Kim",
+      "year": 2025,
+      "venue_raw": "Annals of Biomedical Engineering",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=110&no=1&page=2",
+      "citation_raw": "84\n\nA computational framework for investigating the mechanical stresses on breast implants under dynamic loading conditions\n\nSeungkwan Lee, Ju Yeon Park, Sinwoo Park, Jungju Kim, Il-Seok Jang, Ju-Dong Song, and Do-Nyun Kim\n\nAnnals of Biomedical Engineering, 53: 3096-3108, (2025)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Long-staple design approach towards the scalable production of scaffolded DNA origami",
+      "authors_raw": "Chanseok Lee, Yanggyun Kim, Kyounghwa Jeon, Taeyoung Ryu, and Do-Nyun Kim",
+      "year": 2025,
+      "venue_raw": "Nanoscale Horizons",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=118&no=1&page=2",
+      "citation_raw": "83\n\nLong-staple design approach towards the scalable production of scaffolded DNA origami\n\nChanseok Lee, Yanggyun Kim, Kyounghwa Jeon, Taeyoung Ryu, and Do-Nyun Kim\n\nNanoscale Horizons, Selected as Nanoscale Horizons Most Popular 2025 Articles, 10: 2584-2592, (2025)\n\n LINK\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음.",
+        "원문 상태 위치의 문구는 게재 상태가 아닌 선정/표지 안내: Selected as Nanoscale Horizons Most Popular 2025 Articles; citation_raw에 원문 보존."
+      ]
+    },
+    {
+      "title": "An adaptive procedure for the analysis of transient wave propagation using interpolation covers",
+      "authors_raw": "Jeehwan Lee, Giseok Yun, and Do-Nyun Kim",
+      "year": 2025,
+      "venue_raw": "Computer Methods in Applied Mechanics and Engineering",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=114&no=1&page=2",
+      "citation_raw": "82\n\nAn adaptive procedure for the analysis of transient wave propagation using interpolation covers\n\nJeehwan Lee, Giseok Yun, and Do-Nyun Kim\n\nComputer Methods in Applied Mechanics and Engineering, 445: 118167, (2025)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Nested surrogate model for discrete parameter optimization of structural reliability analysis",
+      "authors_raw": "Hongseok Kim, Dooyoul Lee, and Do-Nyun Kim ",
+      "year": 2025,
+      "venue_raw": "Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=80&no=1&page=2",
+      "citation_raw": "81\n\nNested surrogate model for discrete parameter optimization of structural reliability analysis\n\nHongseok Kim, Dooyoul Lee, and Do-Nyun Kim \n\nProceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability, 239: 984–999, (2025)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Density-based topology optimization using a deformable mesh",
+      "authors_raw": "Kyusoon Jung and Do-Nyun Kim",
+      "year": 2025,
+      "venue_raw": "Computers & Structures",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=116&no=1&page=2",
+      "citation_raw": "80\n\nDensity-based topology optimization using a deformable mesh\n\nKyusoon Jung and Do-Nyun Kim\n\nComputers & Structures, 316: 107879, (2025)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Maintenance decision-making model for gas turbine engine component considering the inspection threshold and partial repair",
+      "authors_raw": "Hongseok Kim, Do-Nyun Kim, and Dooyoul Lee",
+      "year": 2025,
+      "venue_raw": "Engineering Applications of Artificial Intelligence",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=112&no=1&page=2",
+      "citation_raw": "79\n\nMaintenance decision-making model for gas turbine engine component considering the inspection threshold and partial repair\n\nHongseok Kim, Do-Nyun Kim, and Dooyoul Lee\n\nEngineering Applications of Artificial Intelligence, 156: 111269, (2025)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=2",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Rapid estimation of residual stress in composite laminates using a deep operator network",
+      "authors_raw": "Seung-Woo Lee, Teubes Christiaan Smit, Kyusoon Jung, Robert Grant Reid, and Do-Nyun Kim",
+      "year": 2025,
+      "venue_raw": "Composites Part B: Engineering",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=104&no=1&page=3",
+      "citation_raw": "78\n\nRapid estimation of residual stress in composite laminates using a deep operator network\n\nSeung-Woo Lee, Teubes Christiaan Smit, Kyusoon Jung, Robert Grant Reid, and Do-Nyun Kim\n\nComposites Part B: Engineering, 299: 112409, (2025)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Accelerating continuum-based protein dynamics simulation using three-dimensional mixed overlapping element",
+      "authors_raw": "Giseok Yun and Do-Nyun Kim",
+      "year": 2025,
+      "venue_raw": "Computers in Biology and Medicine",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=108&no=1&page=3",
+      "citation_raw": "77\n\nAccelerating continuum-based protein dynamics simulation using three-dimensional mixed overlapping element\n\nGiseok Yun and Do-Nyun Kim\n\nComputers in Biology and Medicine, 190: 110114, (2025)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Elasticity of swollen and folded polyacrylamide hydrogel using MARTINI coarse-grained model",
+      "authors_raw": "Seunghyok Rho, Heeyuen Koh, Ji Woong Yu, Hye Been Koo, Sebin Kim, Je-Yeon Jung, EunYeong Jung, Chongyong Nam, Jae Young Lee, Kyounghwa Jeon, Jae-Byum Chang, Do-Nyun Kim, and Won Bo Lee ",
+      "year": 2025,
+      "venue_raw": "ACS Applied Materials & Interfaces",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=106&no=1&page=3",
+      "citation_raw": "76\n\nElasticity of swollen and folded polyacrylamide hydrogel using MARTINI coarse-grained model\n\nSeunghyok Rho, Heeyuen Koh, Ji Woong Yu, Hye Been Koo, Sebin Kim, Je-Yeon Jung, EunYeong Jung, Chongyong Nam, Jae Young Lee, Kyounghwa Jeon, Jae-Byum Chang, Do-Nyun Kim, and Won Bo Lee \n\nACS Applied Materials & Interfaces, 17: 5340-5351, (2025)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A DNA origami pivot hinge driven by DNA intercalators",
+      "authors_raw": "Taehwi Kim, Seo Hyun Kwon, and Do-Nyun Kim",
+      "year": 2025,
+      "venue_raw": "ACS Nano",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=107&no=1&page=3",
+      "citation_raw": "75\n\nA DNA origami pivot hinge driven by DNA intercalators\n\nTaehwi Kim, Seo Hyun Kwon, and Do-Nyun Kim\n\nACS Nano, 19: 470-478, (2025)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Acoustic deep brain modulation: enhancing neuronal activation and neurogenesis",
+      "authors_raw": "*Hwichan Ham, *Kyu-Sik Kim, Jee-Hwan Lee, Do-Nyun Kim, Hyung-Jin Choi, and Jack J. Yoh ",
+      "year": 2024,
+      "venue_raw": "Brain Stimulation",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=103&no=1&page=3",
+      "citation_raw": "74\n\nAcoustic deep brain modulation: enhancing neuronal activation and neurogenesis\n\n*Hwichan Ham, *Kyu-Sik Kim, Jee-Hwan Lee, Do-Nyun Kim, Hyung-Jin Choi, and Jack J. Yoh \n\nBrain Stimulation, 17: 1060-1075, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Two-step sub-modeling framework for thermomechanical fatigue analysis of solder joints in DRAM module",
+      "authors_raw": "Hyun Suk Lee, Giseok Yun, Ju-Hwan Song, and Do-Nyun Kim ",
+      "year": 2024,
+      "venue_raw": "Microelectronics Reliability",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=102&no=1&page=3",
+      "citation_raw": "73\n\nTwo-step sub-modeling framework for thermomechanical fatigue analysis of solder joints in DRAM module\n\nHyun Suk Lee, Giseok Yun, Ju-Hwan Song, and Do-Nyun Kim \n\nMicroelectronics Reliability, 160: 115469, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Mechanical meta-sheets with independently tunable Poisson’s ratio and coefficient of thermal expansion",
+      "authors_raw": "*Duhwan Kang, *Jeong Min Hur, and Do-Nyun Kim",
+      "year": 2024,
+      "venue_raw": "Materials & Design",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=105&no=1&page=3",
+      "citation_raw": "72\n\nMechanical meta-sheets with independently tunable Poisson’s ratio and coefficient of thermal expansion\n\n*Duhwan Kang, *Jeong Min Hur, and Do-Nyun Kim\n\nMaterials & Design, 244: 113187, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Predicting the effect of binding molecules on the shape and mechanical properties of structured DNA assemblies",
+      "authors_raw": "Jae Young Lee, Yanggyun Kim, and Do-Nyun Kim",
+      "year": 2024,
+      "venue_raw": "Nature Communications",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=84&no=1&page=3",
+      "citation_raw": "71\n\nPredicting the effect of binding molecules on the shape and mechanical properties of structured DNA assemblies\n\nJae Young Lee, Yanggyun Kim, and Do-Nyun Kim\n\nNature Communications, 15: 6446, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Prediction of DNA origami shape using graph neural network",
+      "authors_raw": "*Chien Truong-Quoc, *Jae Young Lee, Kyung Soo Kim, and Do-Nyun Kim ",
+      "year": 2024,
+      "venue_raw": "Nature Materials",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=73&no=1&page=3",
+      "citation_raw": "70\n\nPrediction of DNA origami shape using graph neural network\n\n*Chien Truong-Quoc, *Jae Young Lee, Kyung Soo Kim, and Do-Nyun Kim \n\nNature Materials, 23: 984-992, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Accelerating topology optimization using deep learning-based image super-resolution",
+      "authors_raw": "*Jaekyung Lim, *Kyusoon Jung, Youngsuk Jung, and Do-Nyun Kim ",
+      "year": 2024,
+      "venue_raw": "Engineering Applications of Artificial Intelligence",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=76&no=1&page=3",
+      "citation_raw": "69\n\nAccelerating topology optimization using deep learning-based image super-resolution\n\n*Jaekyung Lim, *Kyusoon Jung, Youngsuk Jung, and Do-Nyun Kim \n\nEngineering Applications of Artificial Intelligence, 133: 108370, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "DNA hydrogels with programmable condensation, expansion, and degradation for molecular carriers",
+      "authors_raw": "Kyounghwa Jeon, Chanseok Lee, Jae Young Lee, and Do-Nyun Kim ",
+      "year": 2024,
+      "venue_raw": "ACS Applied Materials & Interfaces",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=79&no=1&page=3",
+      "citation_raw": "68\n\nDNA hydrogels with programmable condensation, expansion, and degradation for molecular carriers\n\nKyounghwa Jeon, Chanseok Lee, Jae Young Lee, and Do-Nyun Kim \n\nACS Applied Materials & Interfaces, 16: 24162–24171, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Auxetic pattern design for concentric-tube robots using an active DNN-metaheuristics optimization",
+      "authors_raw": "Jieun Park*, Jeong Min Hur*, Soyeon Park, Do-Nyun Kim, and Gunwoo Noh ",
+      "year": 2024,
+      "venue_raw": "Thin-Walled Structures",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=75&no=1&page=3",
+      "citation_raw": "67\n\nAuxetic pattern design for concentric-tube robots using an active DNN-metaheuristics optimization\n\nJieun Park*, Jeong Min Hur*, Soyeon Park, Do-Nyun Kim, and Gunwoo Noh \n\nThin-Walled Structures, 197: 111603, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Adversarial deep energy method for solving saddle point problems involving dielectric elastomers",
+      "authors_raw": "*Seung-Woo Lee, *Chien Truong-Quoc, Youngmin Ro, and Do-Nyun Kim ",
+      "year": 2024,
+      "venue_raw": "Computer Methods in Applied Mechanics and Engineering",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=77&no=1&page=3",
+      "citation_raw": "66\n\nAdversarial deep energy method for solving saddle point problems involving dielectric elastomers\n\n*Seung-Woo Lee, *Chien Truong-Quoc, Youngmin Ro, and Do-Nyun Kim \n\nComputer Methods in Applied Mechanics and Engineering, 421: 116825, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Deep learning-based detection of defects in wafer buffer zone during semiconductor packaging process",
+      "authors_raw": "Tae-Yeon Kim, Sunjae Park, Chang-Kue Lim, Jae-Hyuk Choi, Chang-Hyun An, Lak-Hyun Song, and Do-Nyun Kim ",
+      "year": 2024,
+      "venue_raw": "Multiscale Science and Engineering",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=81&no=1&page=3",
+      "citation_raw": "65\n\nDeep learning-based detection of defects in wafer buffer zone during semiconductor packaging process\n\nTae-Yeon Kim, Sunjae Park, Chang-Kue Lim, Jae-Hyuk Choi, Chang-Hyun An, Lak-Hyun Song, and Do-Nyun Kim \n\nMultiscale Science and Engineering, 6: 25-32, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Hotspot prediction: SEM image generation with potential lithography hotspots",
+      "authors_raw": "*Jaehoon Kim, *Jaekyung Lim, Jinho Lee, Tae-Yeon Kim, Yunhyoung Nam, Kihyun Kim, and Do-Nyun Kim ",
+      "year": 2024,
+      "venue_raw": "IEEE Transactions on Semiconductor Manufacturing",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=71&no=1&page=3",
+      "citation_raw": "64\n\nHotspot prediction: SEM image generation with potential lithography hotspots\n\n*Jaehoon Kim, *Jaekyung Lim, Jinho Lee, Tae-Yeon Kim, Yunhyoung Nam, Kihyun Kim, and Do-Nyun Kim \n\nIEEE Transactions on Semiconductor Manufacturing, 37: 103-114, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=3",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Controlling chiroptical responses via chemo-mechanical deformation of DNA origami structures",
+      "authors_raw": "Taehwi Kim, Chanseok Lee, Jae Young Lee, and Do-Nyun Kim ",
+      "year": 2024,
+      "venue_raw": "ACS Nano",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=74&no=1&page=4",
+      "citation_raw": "63\n\nControlling chiroptical responses via chemo-mechanical deformation of DNA origami structures\n\nTaehwi Kim, Chanseok Lee, Jae Young Lee, and Do-Nyun Kim \n\nACS Nano, 18: 3414-3423, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Data-driven nonparametric identification of material behavior based on physics-informed neural network with full-field data",
+      "authors_raw": "Iksu Jeong, Maenghyo Cho, Hayoung Chung, and Do-Nyun Kim ",
+      "year": 2024,
+      "venue_raw": "Computer Methods in Applied Mechanics and Engineering",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=78&no=1&page=4",
+      "citation_raw": "62\n\nData-driven nonparametric identification of material behavior based on physics-informed neural network with full-field data\n\nIksu Jeong, Maenghyo Cho, Hayoung Chung, and Do-Nyun Kim \n\nComputer Methods in Applied Mechanics and Engineering, 418: 116569, (2024)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A computational model for structural dynamics and reconfiguration of DNA assemblies",
+      "authors_raw": "Jae Young Lee, Heeyuen Koh, and Do-Nyun Kim ",
+      "year": 2023,
+      "venue_raw": "Nature Communications",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=72&no=1&page=4",
+      "citation_raw": "61\n\nA computational model for structural dynamics and reconfiguration of DNA assemblies\n\nJae Young Lee, Heeyuen Koh, and Do-Nyun Kim \n\nNature Communications, 14: 7079, (2023)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Precise and selective macroscopic assembly of dual lock-and-key structured hydrogel",
+      "authors_raw": "Eunseok Heo, Wooseop Hwang, Hye Been Koo, Steve Park, Do-Nyun Kim, Ho-Young Kim, YongJoo Kim, and Jae-Byum Chang ",
+      "year": 2023,
+      "venue_raw": "Materials Horizons",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=70&no=1&page=4",
+      "citation_raw": "60\n\nPrecise and selective macroscopic assembly of dual lock-and-key structured hydrogel\n\nEunseok Heo, Wooseop Hwang, Hye Been Koo, Steve Park, Do-Nyun Kim, Ho-Young Kim, YongJoo Kim, and Jae-Byum Chang \n\nMaterials Horizons, 11: 428-441, (2023)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Harnessing a paper-folding mechanism for reconfigurable DNA origami",
+      "authors_raw": "​Myoungseok Kim, Chanseok Lee, Kyounghwa Jeon, Jae Young Lee, Young-Joo Kim, Jae Gyung Lee, Hyunsu Kim, Maenghyo Cho and Do-Nyun Kim",
+      "year": 2023,
+      "venue_raw": "Nature",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=69&no=1&page=4",
+      "citation_raw": "59\n\nHarnessing a paper-folding mechanism for reconfigurable DNA origami\n\n​Myoungseok Kim, Chanseok Lee, Kyounghwa Jeon, Jae Young Lee, Young-Joo Kim, Jae Gyung Lee, Hyunsu Kim, Maenghyo Cho and Do-Nyun Kim\n\nNature, Selected as Cover Article, 619: 78-86, (2023)\n\n LINK\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음.",
+        "원문 상태 위치의 문구는 게재 상태가 아닌 선정/표지 안내: Selected as Cover Article; citation_raw에 원문 보존."
+      ]
+    },
+    {
+      "title": "Controlling the stiffness of bistable kirigami surfaces via spatially varying hinges",
+      "authors_raw": "Hyeonho Cho and Do-Nyun Kim ",
+      "year": 2023,
+      "venue_raw": "Materials & Design",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=68&no=1&page=4",
+      "citation_raw": "58\n\nControlling the stiffness of bistable kirigami surfaces via spatially varying hinges\n\nHyeonho Cho and Do-Nyun Kim \n\nMaterials & Design, 231: 112053, (2023)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Stability of mixed overlapping element in incompressible analysis",
+      "authors_raw": "Giseok Yun, Jeehwan Lee, and Do-Nyun Kim ",
+      "year": 2023,
+      "venue_raw": "Computer Methods in Applied Mechanics and Engineering",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=67&no=1&page=4",
+      "citation_raw": "57\n\nStability of mixed overlapping element in incompressible analysis\n\nGiseok Yun, Jeehwan Lee, and Do-Nyun Kim \n\nComputer Methods in Applied Mechanics and Engineering, 412: 116104, (2023)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Auxetic meta-disk for independent control of flexural and torsional waves",
+      "authors_raw": "Jeong Min Hur and Do-Nyun Kim ",
+      "year": 2023,
+      "venue_raw": "International Journal of Mechanical Sciences",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=66&no=1&page=4",
+      "citation_raw": "56\n\nAuxetic meta-disk for independent control of flexural and torsional waves\n\nJeong Min Hur and Do-Nyun Kim \n\nInternational Journal of Mechanical Sciences, 243: 108050, (2023)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A hybrid framework to predict ski jumping forces by combining data-driven pose estimation and model-based force calculation",
+      "authors_raw": "*Yunhyoung Nam, *Youngkyung Do, Jaehoon Kim, Heonyoung Lee, and Do-Nyun Kim ",
+      "year": 2023,
+      "venue_raw": "European Journal of Sport Science",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=65&no=1&page=4",
+      "citation_raw": "55\n\nA hybrid framework to predict ski jumping forces by combining data-driven pose estimation and model-based force calculation\n\n*Yunhyoung Nam, *Youngkyung Do, Jaehoon Kim, Heonyoung Lee, and Do-Nyun Kim \n\nEuropean Journal of Sport Science, 23: 221-230, (2023)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Investigating the effect of slit patterns on the deformation of thin-walled tubes under side impact",
+      "authors_raw": "Youngkyung Do and Do-Nyun Kim ",
+      "year": 2022,
+      "venue_raw": "Journal of Mechanical Science and Technology",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=64&no=1&page=4",
+      "citation_raw": "54\n\nInvestigating the effect of slit patterns on the deformation of thin-walled tubes under side impact\n\nYoungkyung Do and Do-Nyun Kim \n\nJournal of Mechanical Science and Technology, 36: 5649-5655, (2022)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Peptide-DNA origami as a cryoprotectant for cell preservation",
+      "authors_raw": "*Chanseok Lee, *Yedam Lee, Woo Hyuk Jung, Tae-Yeon Kim, Taehwi Kim, Do-Nyun Kim, and Dong June Ahn ",
+      "year": 2022,
+      "venue_raw": "Science Advances",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=63&no=1&page=4",
+      "citation_raw": "53\n\nPeptide-DNA origami as a cryoprotectant for cell preservation\n\n*Chanseok Lee, *Yedam Lee, Woo Hyuk Jung, Tae-Yeon Kim, Taehwi Kim, Do-Nyun Kim, and Dong June Ahn \n\nScience Advances, 8: eadd0185, (2022)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Engineering DNA-based synthetic condensates with defined material properties, compositions and functionalities",
+      "authors_raw": "*Sungho Do, *Chanseok Lee, Taehyun Lee, Do-Nyun Kim, and Yongdae Shin ",
+      "year": 2022,
+      "venue_raw": "Science Advances",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=62&no=1&page=4",
+      "citation_raw": "52\n\nEngineering DNA-based synthetic condensates with defined material properties, compositions and functionalities\n\n*Sungho Do, *Chanseok Lee, Taehyun Lee, Do-Nyun Kim, and Yongdae Shin \n\nScience Advances, 8: eabj1771, (2022)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Precise pattern alignment for die-to-database inspection based on the generative adversarial network",
+      "authors_raw": "*Yunhyoung Nam, *Sungho Joo, Nohong Kwak, Kihyun Kim, and Do-Nyun Kim ",
+      "year": 2022,
+      "venue_raw": "IEEE Transactions on Semiconductor Manufacturing",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=61&no=1&page=4",
+      "citation_raw": "51\n\nPrecise pattern alignment for die-to-database inspection based on the generative adversarial network\n\n*Yunhyoung Nam, *Sungho Joo, Nohong Kwak, Kihyun Kim, and Do-Nyun Kim \n\nIEEE Transactions on Semiconductor Manufacturing, 35: 532-539, (2022)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Direct visualization of floppy 2D DNA origami using cryo-EM",
+      "authors_raw": "*Heng Ni, *Galio Guo, *Feng Zhou, Jae Young Lee, Ned Seeman, Do-Nyun Kim, Nan Yao, Paul Chaikin, and Yimo Han ",
+      "year": 2022,
+      "venue_raw": "iScience",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=60&no=1&page=4",
+      "citation_raw": "50\n\nDirect visualization of floppy 2D DNA origami using cryo-EM\n\n*Heng Ni, *Galio Guo, *Feng Zhou, Jae Young Lee, Ned Seeman, Do-Nyun Kim, Nan Yao, Paul Chaikin, and Yimo Han \n\niScience, 25: 104373, (2022)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Formation of non-base-pairing DNA microgels using directed phase transition of amphiphilic monomers",
+      "authors_raw": "*Chanseok Lee, *Sungho Do, Jae Young Lee, Minju Kim, Sang Moon Kim, Yongdae Shin, and Do-Nyun Kim ",
+      "year": 2022,
+      "venue_raw": "Nucleic Acids Research",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=59&no=1&page=4",
+      "citation_raw": "49\n\nFormation of non-base-pairing DNA microgels using directed phase transition of amphiphilic monomers\n\n*Chanseok Lee, *Sungho Do, Jae Young Lee, Minju Kim, Sang Moon Kim, Yongdae Shin, and Do-Nyun Kim \n\nNucleic Acids Research, 50: 4187-4196, (2022)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=4",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Predicting the free-form shape of structured DNA assemblies from their lattice-based design blueprint",
+      "authors_raw": "Jae Gyung Lee, Kyung Soo Kim, Jae Young Lee, and Do-Nyun Kim ",
+      "year": 2022,
+      "venue_raw": "ACS Nano",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=57&no=1&page=5",
+      "citation_raw": "48\n\nPredicting the free-form shape of structured DNA assemblies from their lattice-based design blueprint\n\nJae Gyung Lee, Kyung Soo Kim, Jae Young Lee, and Do-Nyun Kim \n\nACS Nano, 16: 4289–4297, (2022)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Overlapping finite element analysis for structures under thermal loads with spatially varying gradients",
+      "authors_raw": "Namkyu Kim, Giseok Yun, and Do-Nyun Kim ",
+      "year": 2022,
+      "venue_raw": "Journal of Mechanical Science and Technology",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=58&no=1&page=5",
+      "citation_raw": "47\n\nOverlapping finite element analysis for structures under thermal loads with spatially varying gradients\n\nNamkyu Kim, Giseok Yun, and Do-Nyun Kim \n\nJournal of Mechanical Science and Technology, 36: 1379-1390, (2022)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Accelerated AFM characterization via deep-learning-based image super-resolution",
+      "authors_raw": "Young-Joo Kim, Jaekyung Lim, and Do-Nyun Kim ",
+      "year": 2022,
+      "venue_raw": "Small",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=55&no=1&page=5",
+      "citation_raw": "46\n\nAccelerated AFM characterization via deep-learning-based image super-resolution\n\nYoung-Joo Kim, Jaekyung Lim, and Do-Nyun Kim \n\nSmall, 18: 2103779, (2022)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Characterizing and harnessing the mechanical properties of short single-stranded DNA in structured assemblies",
+      "authors_raw": "*Jae Young Lee, *Myoungseok Kim, Chanseok Lee, and Do-Nyun Kim ",
+      "year": 2021,
+      "venue_raw": "ACS Nano",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=56&no=1&page=5",
+      "citation_raw": "45\n\nCharacterizing and harnessing the mechanical properties of short single-stranded DNA in structured assemblies\n\n*Jae Young Lee, *Myoungseok Kim, Chanseok Lee, and Do-Nyun Kim \n\nACS Nano, 15: 20430-20441, (2021)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Modulating the chemo-mechanical response of structured DNA assemblies through binding molecules",
+      "authors_raw": "Chanseok Lee*, Young-Joo Kim*, Kyung Soo Kim, Jae Young Lee and Do-Nyun Kim ",
+      "year": 2021,
+      "venue_raw": "Nucleic Acids Research",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=54&no=1&page=5",
+      "citation_raw": "44\n\nModulating the chemo-mechanical response of structured DNA assemblies through binding molecules\n\nChanseok Lee*, Young-Joo Kim*, Kyung Soo Kim, Jae Young Lee and Do-Nyun Kim \n\nNucleic Acids Research, 49: 12591–12599, (2021)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "The flexibility-based modulation of the DNA nanostar phase separation",
+      "authors_raw": "*Sungho Do, *Taehyun Lee, Jae Gyung Lee, Do-Nyun Kim, and Yongdae Shin ",
+      "year": 2021,
+      "venue_raw": "Nanoscale",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=52&no=1&page=5",
+      "citation_raw": "43\n\nThe flexibility-based modulation of the DNA nanostar phase separation\n\n*Sungho Do, *Taehyun Lee, Jae Gyung Lee, Do-Nyun Kim, and Yongdae Shin \n\nNanoscale, 13: 17638-17647, (2021)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Design approaches and computational tools for DNA nanostructures",
+      "authors_raw": "Heeyuen Koh, Jae Gyung Lee, Jae Young Lee, Ryan Kim, Osamu Tabata, Jin-Woo Kim, and Do-Nyun Kim ",
+      "year": 2021,
+      "venue_raw": "IEEE Open Journal of Nanotechnology",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=53&no=1&page=5",
+      "citation_raw": "42\n\nDesign approaches and computational tools for DNA nanostructures\n\nHeeyuen Koh, Jae Gyung Lee, Jae Young Lee, Ryan Kim, Osamu Tabata, Jin-Woo Kim, and Do-Nyun Kim \n\nIEEE Open Journal of Nanotechnology, 2: 86-100, (2021)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Programming ultrasensitive threshold response through chemomechanical instability",
+      "authors_raw": "Young-Joo Kim, Junho Park, Jae Young Lee and Do-Nyun Kim ",
+      "year": 2021,
+      "venue_raw": "Nature Communications",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=51&no=1&page=5",
+      "citation_raw": "41\n\nProgramming ultrasensitive threshold response through chemomechanical instability\n\nYoung-Joo Kim, Junho Park, Jae Young Lee and Do-Nyun Kim \n\nNature Communications, 12: 5177, (2021)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Adversarial defect detection in semiconductor manufacturing process",
+      "authors_raw": "Jaehoon Kim, Yunhyoung Nam, Mincheol Kang, Kihyun Kim, Jisuk Hong, Sooryong Lee and Do-Nyun Kim",
+      "year": 2021,
+      "venue_raw": "IEEE Transactions on Semiconductor Manufacturing",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=50&no=1&page=5",
+      "citation_raw": "40\n\nAdversarial defect detection in semiconductor manufacturing process\n\nJaehoon Kim, Yunhyoung Nam, Mincheol Kang, Kihyun Kim, Jisuk Hong, Sooryong Lee and Do-Nyun Kim\n\nIEEE Transactions on Semiconductor Manufacturing, 34: 365-371 (2021), (Recognized with an Honorable Mention for the 2021 T-SM Best Paper Award)\n\n LINK\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음.",
+        "year: 인용의 365-371 (2021)에서 확인. 사이트 txtYear 요소는 수상 안내 문구로 사용되어 해당 요소의 숫자만으로 연도를 파싱하지 않음."
+      ]
+    },
+    {
+      "title": "Experimental and numerical investigation on the dent resistance of a dual phase steel originated from the yield-point phenomenon",
+      "authors_raw": "Jaehyun Kim, Hongwoo Lee, Kyungseok Oh, Dong-Yoon Seok, Sungsoo Park, Yeonsik Kang and Do-Nyun Kim ",
+      "year": 2021,
+      "venue_raw": "Journal of Materials Processing Technology",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=49&no=1&page=5",
+      "citation_raw": "39\n\nExperimental and numerical investigation on the dent resistance of a dual phase steel originated from the yield-point phenomenon\n\nJaehyun Kim, Hongwoo Lee, Kyungseok Oh, Dong-Yoon Seok, Sungsoo Park, Yeonsik Kang and Do-Nyun Kim \n\nJournal of Materials Processing Technology, 289: 116929, (2021)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Rapid computational analysis of DNA origami assemblies at near-atomic resolution",
+      "authors_raw": "Jae Young Lee, Jae Gyung Lee, Giseok Yun, Chanseok Lee, Young-Joo Kim, Kyung Soo Kim, Tae Hwi Kim and Do-Nyun Kim ",
+      "year": 2021,
+      "venue_raw": "ACS Nano",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=48&no=1&page=5",
+      "citation_raw": "38\n\nRapid computational analysis of DNA origami assemblies at near-atomic resolution\n\nJae Young Lee, Jae Gyung Lee, Giseok Yun, Chanseok Lee, Young-Joo Kim, Kyung Soo Kim, Tae Hwi Kim and Do-Nyun Kim \n\nACS Nano, 15: 1002-1015, (2021)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Harnessing distinct deformation modes of auxetic patterns for stiffness design of tubular structures",
+      "authors_raw": "Jeong Min Hur*, Dong-Sik Seo*, Kiyean Kim, Jun Kyu Lee, Kwang Je Lee, Yoon Young Kim and Do-Nyun Kim ",
+      "year": 2021,
+      "venue_raw": "Materials & Design",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=47&no=1&page=5",
+      "citation_raw": "37\n\nHarnessing distinct deformation modes of auxetic patterns for stiffness design of tubular structures\n\nJeong Min Hur*, Dong-Sik Seo*, Kiyean Kim, Jun Kyu Lee, Kwang Je Lee, Yoon Young Kim and Do-Nyun Kim \n\nMaterials & Design, 198: 109376, (2021)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Computational studies for the yield-point phenomenon of metals",
+      "authors_raw": "Jaehyun Kim and Do-Nyun Kim ",
+      "year": 2020,
+      "venue_raw": "Multiscale Science and Engineering",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=46&no=1&page=5",
+      "citation_raw": "36\n\nComputational studies for the yield-point phenomenon of metals\n\nJaehyun Kim and Do-Nyun Kim \n\nMultiscale Science and Engineering, 2: 90-106, (2020)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Robust stress integration algorithms for implicit elastoviscoplastic finite element analysis of materials with yield-point phenomenon",
+      "authors_raw": "Jaehyun Kim and Do-Nyun Kim ",
+      "year": 2019,
+      "venue_raw": "International Journal of Mechanical Sciences",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=41&no=1&page=5",
+      "citation_raw": "35\n\nRobust stress integration algorithms for implicit elastoviscoplastic finite element analysis of materials with yield-point phenomenon\n\nJaehyun Kim and Do-Nyun Kim \n\nInternational Journal of Mechanical Sciences, 150: 277-289, (2019)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Investigating the fluting defect in v-bending due to the yield-point phenomenon and its reduction via roller-leveling process",
+      "authors_raw": "Jaehyun Kim, Kee-Cheol Park and Do-Nyun Kim ",
+      "year": 2019,
+      "venue_raw": "Journal of Materials Processing Technology",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=45&no=1&page=5",
+      "citation_raw": "34\n\nInvestigating the fluting defect in v-bending due to the yield-point phenomenon and its reduction via roller-leveling process\n\nJaehyun Kim, Kee-Cheol Park and Do-Nyun Kim \n\nJournal of Materials Processing Technology, 270: 59-81, (2019)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=5",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Tailoring the mechanical stiffness of DNA nanostructures using engineered defects",
+      "authors_raw": "Chanseok Lee*, Kyung Soo Kim*, Young-Joo Kim, Jae Young Lee and Do-Nyun Kim ",
+      "year": 2019,
+      "venue_raw": "ACS Nano",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=44&no=1&page=6",
+      "citation_raw": "33\n\nTailoring the mechanical stiffness of DNA nanostructures using engineered defects\n\nChanseok Lee*, Kyung Soo Kim*, Young-Joo Kim, Jae Young Lee and Do-Nyun Kim \n\nACS Nano, 13: 8329-8336, (2019)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A numerical study for the effect of ski vibration on friction",
+      "authors_raw": "Yunhyoung Nam, Jinsu Gim, Taejoon Jeong, Byungohk Rhee and Do-Nyun Kim ",
+      "year": 2019,
+      "venue_raw": "Multiscale Science and Engineering",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=43&no=1&page=6",
+      "citation_raw": "32\n\nA numerical study for the effect of ski vibration on friction\n\nYunhyoung Nam, Jinsu Gim, Taejoon Jeong, Byungohk Rhee and Do-Nyun Kim \n\nMultiscale Science and Engineering, 1: 256-264, (2019)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Configurational design of mechanical perturbation for fine control of twisted DNA origami structures",
+      "authors_raw": "Young-Joo Kim, Chanseok Lee, Jae Gyung Lee and Do-Nyun Kim ",
+      "year": 2019,
+      "venue_raw": "ACS Nano",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=42&no=1&page=6",
+      "citation_raw": "31\n\nConfigurational design of mechanical perturbation for fine control of twisted DNA origami structures\n\nYoung-Joo Kim, Chanseok Lee, Jae Gyung Lee and Do-Nyun Kim \n\nACS Nano, 13: 6348-6355, (2019)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Investigating the sequence-dependent mechanical properties of DNA nicks for applications in twisted DNA nanostructure design",
+      "authors_raw": "Jae Young Lee, Young-Joo Kim, Chanseok Lee, Jae Gyung Lee, Hiromasa Yagyu, Osamu Tabata and Do-Nyun Kim ",
+      "year": 2019,
+      "venue_raw": "Nucleic Acids Research",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=40&no=1&page=6",
+      "citation_raw": "30\n\nInvestigating the sequence-dependent mechanical properties of DNA nicks for applications in twisted DNA nanostructure design\n\nJae Young Lee, Young-Joo Kim, Chanseok Lee, Jae Gyung Lee, Hiromasa Yagyu, Osamu Tabata and Do-Nyun Kim \n\nNucleic Acids Research, 47: 93-102, (2019)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Poro-elasto-capillary wicking of cellulose sponges",
+      "authors_raw": "Jonghyun Ha, Jungchul Kim, Yeonsu Jung, Giseok Yun, Do-Nyun Kim and Ho-Young Kim ",
+      "year": 2018,
+      "venue_raw": "Science Advances",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=39&no=1&page=6",
+      "citation_raw": "29\n\nPoro-elasto-capillary wicking of cellulose sponges\n\nJonghyun Ha, Jungchul Kim, Yeonsu Jung, Giseok Yun, Do-Nyun Kim and Ho-Young Kim \n\nScience Advances, 4: eaao7051, (2018)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A framework of finite element procedures for the analysis of proteins",
+      "authors_raw": "Reza Sharifi Sedeh, GiseokYun, Jae Young Lee, Klaus-Jürgen Bathe and Do-Nyun Kim ",
+      "year": 2018,
+      "venue_raw": "Computers & Structures",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=38&no=1&page=6",
+      "citation_raw": "28\n\nA framework of finite element procedures for the analysis of proteins\n\nReza Sharifi Sedeh, GiseokYun, Jae Young Lee, Klaus-Jürgen Bathe and Do-Nyun Kim \n\nComputers & Structures, 196: 24-35, (2018)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Rhombic-shaped nanostructures and mechanical properties of two-dimensional DNA origami constructed with different crossover/nick designs",
+      "authors_raw": "Zhipeng Ma, Yunfei Huang, Seongsu Park, Kentaro Kawai, Do-Nyun Kim, Yoshikazu Hirai, Toshiyuki Tsuchiya, Hirofumi Yamada and Osamu Tabata\n",
+      "year": 2018,
+      "venue_raw": "Small",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=37&no=1&page=6",
+      "citation_raw": "27\n\nRhombic-shaped nanostructures and mechanical properties of two-dimensional DNA origami constructed with different crossover/nick designs\n\nZhipeng Ma, Yunfei Huang, Seongsu Park, Kentaro Kawai, Do-Nyun Kim, Yoshikazu Hirai, Toshiyuki Tsuchiya, Hirofumi Yamada and Osamu Tabata\n\n\nSmall, 14: 1702028, (2018)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Polymorphic design of DNA origami structures through mechanical control of modular components",
+      "authors_raw": "Chanseok Lee, Jae Young Lee and Do-Nyun Kim ",
+      "year": 2017,
+      "venue_raw": "Nature Communications",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=36&no=1&page=6",
+      "citation_raw": "26\n\nPolymorphic design of DNA origami structures through mechanical control of modular components\n\nChanseok Lee, Jae Young Lee and Do-Nyun Kim \n\nNature Communications, 8: 2067, (2017)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "An efficient warping model for elastoplastic torsional analysis of composite beams",
+      "authors_raw": "Kyungho Yoon, Phill-Seung Lee and Do-Nyun Kim ",
+      "year": 2017,
+      "venue_raw": "Composite Structures",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=35&no=1&page=6",
+      "citation_raw": "25\n\nAn efficient warping model for elastoplastic torsional analysis of composite beams\n\nKyungho Yoon, Phill-Seung Lee and Do-Nyun Kim \n\nComposite Structures, 178: 37-49, (2017)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A general model reduction with primal assembly in structural dynamics",
+      "authors_raw": "Jin-Gyun Kim, Young-Jun Park, Geun Ho Lee and Do-Nyun Kim\n",
+      "year": 2017,
+      "venue_raw": "Computer Methods in Applied Mechanics and Engineering",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=34&no=1&page=6",
+      "citation_raw": "24\n\nA general model reduction with primal assembly in structural dynamics\n\nJin-Gyun Kim, Young-Jun Park, Geun Ho Lee and Do-Nyun Kim\n\n\nComputer Methods in Applied Mechanics and Engineering, 324: 1-28, (2017)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A critical assessment of finite element modeling approach for protein dynamics",
+      "authors_raw": "Giseok Yun, Jaehoon Kim and Do-Nyun Kim ",
+      "year": 2017,
+      "venue_raw": "Journal of Computer-Aided Molecular Design",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=33&no=1&page=6",
+      "citation_raw": "23\n\nA critical assessment of finite element modeling approach for protein dynamics\n\nGiseok Yun, Jaehoon Kim and Do-Nyun Kim \n\nJournal of Computer-Aided Molecular Design, 31: 609-624, (2017)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Coarse-grained molecular dynamics model of double-stranded DNA for DNA nanostructure design",
+      "authors_raw": "Hiromasa Yagyu, Jae Young Lee, Do-Nyun Kim and Osamu Tabata\n",
+      "year": 2017,
+      "venue_raw": "Journal of Physical Chemistry B",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=32&no=1&page=6",
+      "citation_raw": "22\n\nCoarse-grained molecular dynamics model of double-stranded DNA for DNA nanostructure design\n\nHiromasa Yagyu, Jae Young Lee, Do-Nyun Kim and Osamu Tabata\n\n\nJournal of Physical Chemistry B, 121: 5033-5039, (2017)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Stretchable, transparent and stretch-unresponsive capacitive touch sensor array with selectively patterned silver nanowires/reduced graphene oxide electrodes",
+      "authors_raw": "Taeyoung Choi, Byeong-Ung Hwang, Bo-Yeong Kim, Tran Quang Trung, Yun Hyoung Nam, Do-Nyun Kim, Kilho Eom and Nae-Eung Lee ",
+      "year": 2017,
+      "venue_raw": "ACS Applied Materials & Interfaces",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=31&no=1&page=6",
+      "citation_raw": "21\n\nStretchable, transparent and stretch-unresponsive capacitive touch sensor array with selectively patterned silver nanowires/reduced graphene oxide electrodes\n\nTaeyoung Choi, Byeong-Ung Hwang, Bo-Yeong Kim, Tran Quang Trung, Yun Hyoung Nam, Do-Nyun Kim, Kilho Eom and Nae-Eung Lee \n\nACS Applied Materials & Interfaces, 9: 18022-18030, (2017)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Nonlinear torsional analysis of 3D composite beams using the extended St. Venant solutions",
+      "authors_raw": "Kyungho Yoon, Do-Nyun Kim and Phill-Seung Lee ",
+      "year": 2017,
+      "venue_raw": "Structural Engineering and Mechanics",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=30&no=1&page=6",
+      "citation_raw": "20\n\nNonlinear torsional analysis of 3D composite beams using the extended St. Venant solutions\n\nKyungho Yoon, Do-Nyun Kim and Phill-Seung Lee \n\nStructural Engineering and Mechanics, 62: 33-42, (2017)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A near-zero Poisson’s ratio of Si with ordered nanopores",
+      "authors_raw": "Yongmin Yoo, Young-Joo Kim, Do-Nyun Kim and Joo-Hyoung Lee ",
+      "year": 2016,
+      "venue_raw": "Physical Chemistry Chemical Physics",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=29&no=1&page=6",
+      "citation_raw": "19\n\nA near-zero Poisson’s ratio of Si with ordered nanopores\n\nYongmin Yoo, Young-Joo Kim, Do-Nyun Kim and Joo-Hyoung Lee \n\nPhysical Chemistry Chemical Physics, 18: 21949-21953, (2016)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=6",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Sensitivity analysis for the mechanical properties of DNA bundles",
+      "authors_raw": "Young-Joo Kim and Do-Nyun Kim",
+      "year": 2016,
+      "venue_raw": "Journal of Nanomaterials",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=28&no=1&page=7",
+      "citation_raw": "18\n\nSensitivity analysis for the mechanical properties of DNA bundles\n\nYoung-Joo Kim and Do-Nyun Kim\n\nJournal of Nanomaterials, 6287937, (2016)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Structural basis for elastic mechanical properties of the DNA double helix",
+      "authors_raw": "Young-Joo Kim and Do-Nyun Kim ",
+      "year": 2016,
+      "venue_raw": "PLOS ONE",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=27&no=1&page=7",
+      "citation_raw": "17\n\nStructural basis for elastic mechanical properties of the DNA double helix\n\nYoung-Joo Kim and Do-Nyun Kim \n\nPLOS ONE, 11: e0153228, (2016)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Finite element modeling of concentric-tube continuum robots",
+      "authors_raw": "Changyeob Baek, Kyungho Yoon and Do-Nyun Kim ",
+      "year": 2016,
+      "venue_raw": "Structural Engineering and Mechanics",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=26&no=1&page=7",
+      "citation_raw": "16\n\nFinite element modeling of concentric-tube continuum robots\n\nChangyeob Baek, Kyungho Yoon and Do-Nyun Kim \n\nStructural Engineering and Mechanics, 57: 809-821, (2016)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Anisotropic patterning to reduce instability of concentric-tube robots",
+      "authors_raw": "Dae-Young Lee, Jongwoo Kim, Ji-Suk Kim, Changyeob Baek, Gunwoo Noh, Do-Nyun Kim, Keri Kim, Sungchul Kang and Kyu-Jin Cho ",
+      "year": 2015,
+      "venue_raw": "IEEE Transactions on Robotics",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=25&no=1&page=7",
+      "citation_raw": "15\n\nAnisotropic patterning to reduce instability of concentric-tube robots\n\nDae-Young Lee, Jongwoo Kim, Ji-Suk Kim, Changyeob Baek, Gunwoo Noh, Do-Nyun Kim, Keri Kim, Sungchul Kang and Kyu-Jin Cho \n\nIEEE Transactions on Robotics, 31: 1311-1323, (2015)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Geometrically nonlinear finite element analysis of functionally graded 3D beams considering warping effects",
+      "authors_raw": "Kyungho Yoon, Phill-Seung Lee and Do-Nyun Kim ",
+      "year": 2015,
+      "venue_raw": "Composite Structures",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=24&no=1&page=7",
+      "citation_raw": "14\n\nGeometrically nonlinear finite element analysis of functionally graded 3D beams considering warping effects\n\nKyungho Yoon, Phill-Seung Lee and Do-Nyun Kim \n\nComposite Structures, 132: 1231-1247, (2015)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Direct measurement of transversely isotropic DNA nanotube by force-distance curve-based atomic force microscopy",
+      "authors_raw": "Zhipeng Ma, Young-Joo Kim, Seongsu Park, Yoshikazu Hirai, Toshiyuki Tsuchiya, Do-Nyun Kim and Osamu Tabata\n",
+      "year": 2015,
+      "venue_raw": "Micro & Nano Letters",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=23&no=1&page=7",
+      "citation_raw": "13\n\nDirect measurement of transversely isotropic DNA nanotube by force-distance curve-based atomic force microscopy\n\nZhipeng Ma, Young-Joo Kim, Seongsu Park, Yoshikazu Hirai, Toshiyuki Tsuchiya, Do-Nyun Kim and Osamu Tabata\n\n\nMicro & Nano Letters, 10: 513-517, (2015)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Toward modular analysis of supramolecular protein assemblies",
+      "authors_raw": "Jaehoon Kim*, Jin-Gyun Kim*, Giseok Yun, Phill-Seung Lee and Do-Nyun Kim ",
+      "year": 2015,
+      "venue_raw": "Journal of Chemical Theory and Computation",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=22&no=1&page=7",
+      "citation_raw": "12\n\nToward modular analysis of supramolecular protein assemblies\n\nJaehoon Kim*, Jin-Gyun Kim*, Giseok Yun, Phill-Seung Lee and Do-Nyun Kim \n\nJournal of Chemical Theory and Computation, 11: 4260-4272, (2015)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Lattice-free prediction of three-dimensional structure of programmed DNA assemblies",
+      "authors_raw": "Keyao Pan*, Do-Nyun Kim*, Fei Zhang, Matthew R Adendorff, Hao Yan and Mark Bathe ",
+      "year": 2014,
+      "venue_raw": "Nature Communications",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=21&no=1&page=7",
+      "citation_raw": "11\n\nLattice-free prediction of three-dimensional structure of programmed DNA assemblies\n\nKeyao Pan*, Do-Nyun Kim*, Fei Zhang, Matthew R Adendorff, Hao Yan and Mark Bathe \n\nNature Communications, 5: 5578, (2014)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Super-resolution fingerprinting detects chemical reactions and idiosyncrasies of single DNA pegboards",
+      "authors_raw": "Alexander Johnson-Buck, Jeanette Nangreave, Do-Nyun Kim, Mark Bathe, Hao Yan and Nils G Walter ",
+      "year": 2013,
+      "venue_raw": "Nano Letters",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=20&no=1&page=7",
+      "citation_raw": "10\n\nSuper-resolution fingerprinting detects chemical reactions and idiosyncrasies of single DNA pegboards\n\nAlexander Johnson-Buck, Jeanette Nangreave, Do-Nyun Kim, Mark Bathe, Hao Yan and Nils G Walter \n\nNano Letters, 13: 728-733, (2013)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Quantitative prediction of 3D solution shape and flexibility of nucleic acid nanostructures",
+      "authors_raw": "Do-Nyun Kim, Fabian Kilchherr, Hendrik Dietz and Mark Bathe ",
+      "year": 2011,
+      "venue_raw": "Nucleic Acids Research",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=19&no=1&page=7",
+      "citation_raw": "9\n\nQuantitative prediction of 3D solution shape and flexibility of nucleic acid nanostructures\n\nDo-Nyun Kim, Fabian Kilchherr, Hendrik Dietz and Mark Bathe \n\nNucleic Acids Research, 40: 2862-2868, (2011)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A primer to scaffolded DNA origami",
+      "authors_raw": "Carlos Ernesto Castro, Fabian Kilchherr, Do-Nyun Kim, Enrique Lin Shiao, Tobias Wauer, Philipp Wortmann, Mark Bathe and Hendrik Dietz ",
+      "year": 2011,
+      "venue_raw": "Nature Methods",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=18&no=1&page=7",
+      "citation_raw": "8\n\nA primer to scaffolded DNA origami\n\nCarlos Ernesto Castro, Fabian Kilchherr, Do-Nyun Kim, Enrique Lin Shiao, Tobias Wauer, Philipp Wortmann, Mark Bathe and Hendrik Dietz \n\nNature Methods, 8: 221-229, (2011)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Conformational dynamics of supramolecular protein assemblies",
+      "authors_raw": "Do-Nyun Kim, Cong-Tri Nguyen and Mark Bathe ",
+      "year": 2011,
+      "venue_raw": "Journal of Structural Biology",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=17&no=1&page=7",
+      "citation_raw": "7\n\nConformational dynamics of supramolecular protein assemblies\n\nDo-Nyun Kim, Cong-Tri Nguyen and Mark Bathe \n\nJournal of Structural Biology, 173: 261-270, (2011)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Conformational dynamics data bank: a database for conformational dynamics of proteins and supramolecular protein assemblies",
+      "authors_raw": "Do-Nyun Kim, Josiah Altschuler, Campbell Strong, Gaël McGill and Mark Bathe ",
+      "year": 2010,
+      "venue_raw": "Nucleic Acids Research",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=16&no=1&page=7",
+      "citation_raw": "6\n\nConformational dynamics data bank: a database for conformational dynamics of proteins and supramolecular protein assemblies\n\nDo-Nyun Kim, Josiah Altschuler, Campbell Strong, Gaël McGill and Mark Bathe \n\nNucleic Acids Research, 39: D451-D455, (2010)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A triangular six-node shell element",
+      "authors_raw": "Do-Nyun Kim and Klaus-Jürgen Bathe ",
+      "year": 2009,
+      "venue_raw": "Computers & Structures",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=15&no=1&page=7",
+      "citation_raw": "5\n\nA triangular six-node shell element\n\nDo-Nyun Kim and Klaus-Jürgen Bathe \n\nComputers & Structures, 87: 1451-1460, (2009)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Insight into a model for large strain anisotropic elasto-plasticity",
+      "authors_raw": "Do-Nyun Kim, Francisco Javier Montáns and Klaus-Jürgen Bathe ",
+      "year": 2009,
+      "venue_raw": "Computational Mechanics",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=14&no=1&page=7",
+      "citation_raw": "4\n\nInsight into a model for large strain anisotropic elasto-plasticity\n\nDo-Nyun Kim, Francisco Javier Montáns and Klaus-Jürgen Bathe \n\nComputational Mechanics, 44: 651-668, (2009)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=7",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "A 4-node 3D-shell element to model shell surface tractions and incompressible behavior",
+      "authors_raw": "Do-Nyun Kim and Klaus-Jürgen Bathe ",
+      "year": 2008,
+      "venue_raw": "Computers & Structures",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/link.php?bo_table=sub4_1&wr_id=13&no=1&page=8",
+      "citation_raw": "3\n\nA 4-node 3D-shell element to model shell surface tractions and incompressible behavior\n\nDo-Nyun Kim and Klaus-Jürgen Bathe \n\nComputers & Structures, 86: 2027-2041, (2008)\n\n LINK",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=8",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Node activation technique for finite element model: II. Computation",
+      "authors_raw": "Do-Nyun Kim, Seung Jo Kim, Young Burm Jee and Jin Yeon Cho\n",
+      "year": 2003,
+      "venue_raw": "Journal of the Korean Society for Aeronautical and Space Sciences",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=12&page=8",
+      "citation_raw": "2\n\nNode activation technique for finite element model: II. Computation\n\nDo-Nyun Kim, Seung Jo Kim, Young Burm Jee and Jin Yeon Cho\n\n\nJournal of the Korean Society for Aeronautical and Space Sciences, 31: 45-43, (2003)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=8",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    },
+    {
+      "title": "Node activation technique for finite element model: I. Theory",
+      "authors_raw": "Jin Yeon Cho, Do-Nyun Kim and Seung Jo Kim",
+      "year": 2003,
+      "venue_raw": "Journal of the Korean Society for Aeronautical and Space Sciences",
+      "doi_or_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&wr_id=4&page=8",
+      "citation_raw": "1\n\nNode activation technique for finite element model: I. Theory\n\nJin Yeon Cho, Do-Nyun Kim and Seung Jo Kim\n\nJournal of the Korean Society for Aeronautical and Space Sciences, 31: 26-34, (2003)",
+      "source_url": "https://aisdl.snu.ac.kr/bbs/board.php?bo_table=sub4_1&page=8",
+      "publication_type": "journal_article",
+      "publication_status_raw": null,
+      "year_type": "citation_year",
+      "field_notes": [
+        "publication_status_raw: 원문에 submitted/in revision/accepted/in press 등 명시적 게재 상태가 없어 null; 출판 완료 상태를 별도로 추정하지 않음."
+      ]
+    }
+  ]
+}

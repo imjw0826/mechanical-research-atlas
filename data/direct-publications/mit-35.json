@@ -1,0 +1,434 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Ahmed Ghoniem",
+  "lab_name": null,
+  "lab_url": "https://web.mit.edu/rgd/www/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://web.mit.edu/rgd/www/"
+    },
+    {
+      "text": "http://www.researchgate.net/profile/Ahmed_Ghoniem2",
+      "url": "http://www.researchgate.net/profile/Ahmed_Ghoniem2"
+    }
+  ],
+  "attempted_urls": [
+    "https://web.mit.edu/rgd/www/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Oxy-fuel combustion of coal for carbon capture, characterization, fundamentals, stabilization and CFD modeling",
+      "year": 2012,
+      "citation_raw": "Chen, Lei, Yong, S.Z. and Ghoniem, A.F., Oxy-fuel combustion of coal for carbon capture; characterization, fundamentals, stabilization and CFD modeling, Progress in Energy and Combustion Sciences, 38, (2012), pp. 156-214.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Mechanisms of stabilization and blowoff of a premixed flame downstream of a heat-conducting perforated plate",
+      "year": 2012,
+      "citation_raw": "Kedia, Kushal, and Ahmed Ghoniem. \"Mechanisms of stabilization and blowoff of a premixed flame downstream of a heat-conducting perforated plate\" Combustion and Flame 159.3 (2012): 1055-1069.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "On the Predictions of Carbon Deposition on the Nickel Anode of a SOFC and Its Impact on Open-Circuit Conditions",
+      "year": 2012,
+      "citation_raw": "Hanna, J., A. Ghoniem, and W. Lee. \"On the Predictions of Carbon Deposition on the Nickel Anode of a SOFC and Its Impact on Open-Circuit Conditions\" Journal of The Electrochemical Society 160.2 (2012): F94-F105.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Biomass torrefaction: Modeling of volatile and solid product evolution kinetics",
+      "year": 2012,
+      "citation_raw": "Bates, Richard, and Ahmed Ghoniem. \"Biomass torrefaction: Modeling of volatile and solid product evolution kinetics\" Bioresource Technology 124. (2012): 460-469.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Modeling the slag layer in solid fuel gasification and combustion – Formulation and sensitivity analysis",
+      "year": 2012,
+      "citation_raw": "Gazzino, Marco, Sze Yong, and Ahmed Ghoniem. \"Modeling the slag layer in solid fuel gasification and combustion – Formulation and sensitivity analysis\" Fuel 92.1 (2012): 162-170.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Oxy-fuel combustion of pulverized coal: Characterization, fundamentals, stabilization and CFD modeling",
+      "year": 2012,
+      "citation_raw": "Yong, Sze, Ahmed Ghoniem, and Lei Chen. \"Oxy-fuel combustion of pulverized coal: Characterization, fundamentals, stabilization and CFD modeling\" Progress in Energy and Combustion Science 38.2 (2012): 156-214.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Simulation of Oxy-Coal Combustion in a 100 kW th Test Facility Using RANS and LES: A Validation Study",
+      "year": 2012,
+      "citation_raw": "Ghoniem, Ahmed, and Lei Chen. \"Simulation of Oxy-Coal Combustion in a 100 kW th Test Facility Using RANS and LES: A Validation Study\" Energy and Fuels 26.8 (2012): 4783-4798.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Simulation of a Commercial-Scale Entrained Flow Gasifier Using a Dynamic Reduced Order Model",
+      "year": 2012,
+      "citation_raw": "Monaghan, Rory, and Ahmed Ghoniem. \"Simulation of a Commercial-Scale Entrained Flow Gasifier Using a Dynamic Reduced Order Model\" Energy and Fuels 26.2 (2012): 1089-1106.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Multiphysics Simulations of Entrained Flow Gasification. Part I: Validating the Nonreacting Flow Solver and the Particle Turbulent Dispersion Model",
+      "year": 2012,
+      "citation_raw": "Kumar, Mayank, and Ahmed Ghoniem. \"Multiphysics Simulations of Entrained Flow Gasification. Part I: Validating the Nonreacting Flow Solver and the Particle Turbulent Dispersion Model\" Energy and Fuels 26.1 (2012): 451-463.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Multiphysics Simulations of Entrained Flow Gasification. Part II: Constructing and Validating the Overall Model",
+      "year": 2012,
+      "citation_raw": "Ghoniem, Ahmed, and Mayank Kumar. \"Multiphysics Simulations of Entrained Flow Gasification. Part II: Constructing and Validating the Overall Model\" Energy and Fuels 26.1 (2012): 464-479.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Performance of an IGCC Plant with Carbon Capture and Coal-CO 2 -Slurry Feed: Impact of Coal Rank, Slurry Loading, and Syngas Cooling Technology",
+      "year": 2012,
+      "citation_raw": "Brasington, Herzog, et al. \"Performance of an IGCC Plant with Carbon Capture and Coal-CO 2 -Slurry Feed: Impact of Coal Rank, Slurry Loading, and Syngas Cooling Technology\" Industrial and Engineering Chemistry Research 51.36 (2012): 11778-11790.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Dynamic-Stability Characteristics of Premixed Methane Oxy-Combustion",
+      "year": 2012,
+      "citation_raw": "Ghoniem, Ahmed, Andrew Shroll, and Santosh Shanbhogue. \"Dynamic-Stability Characteristics of Premixed Methane Oxy-Combustion\" Journal of Engineering for Gas Turbines and Power 134.5 (2012): 051504.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "A dynamic reduced order model for simulating entrained flow gasifiers. Part I: Model development and description",
+      "year": 2012,
+      "citation_raw": "Monaghan, Rory, and Ahmed Ghoniem. \"A dynamic reduced order model for simulating entrained flow gasifiers. Part I: Model development and description.\" Fuel 91.1 (2012): 61-80.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Numerical simulation of ion transport membrane reactors: Oxygen permeation and transport and fuel conversion",
+      "year": 2012,
+      "citation_raw": "Hong, Jongsup, Patrick Kirchen, and Ahmed Ghoniem. \"Numerical simulation of ion transport membrane reactors: Oxygen permeation and transport and fuel conversion\" Journal of Membrane Science 407-408. (2012): 71-85.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Impact of curvature on the kinematic response of small flames",
+      "year": 2012,
+      "citation_raw": "Ghoniem, Ahmed, Sungbae Park, and Daehyun Wee. \"Impact of curvature on the kinematic response of small flames\" Journal of Engineering Mathematics 74.1 (2012): 37-52.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Available online DOI 10.1007/s10665-011-9481-5",
+      "year": 2012,
+      "citation_raw": "Wee, Daehyun, Park, Sungbae, Ghoniem, A.F., Impact of curvature on the kinematic response of small flames, J. Engineering Math, 74, 1, 37-52 (2012). Available online DOI 10.1007/s10665-011-9481-5.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Novel approach for fair allocation of primary energy consumption among cogenerated energy-intensive products based on the actual local area production scenario",
+      "year": 2012,
+      "citation_raw": "Ghoniem, Ahmed, Paolo Iora, and Gian Beretta. \"Novel approach for fair allocation of primary energy consumption among cogenerated energy-intensive products based on the actual local area production scenario\" Energy 44.1 (2012): 1107-1120.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Computational fluid dynamic simulation of oxyfuel combustion in gas-fired water tube boilers",
+      "year": 2012,
+      "citation_raw": "Ben-Mansour, Ghoniem, et al. \"Computational fluid dynamic simulation of oxyfuel combustion in gas-fired water tube boilers\" Computers and Fluids 56. (2012): 152-165.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Mixing of single-component hydrocarbon droplets and water at supercritical or near-critical conditions",
+      "year": 2012,
+      "citation_raw": "Timko, Wu, et al. \"Mixing of single-component hydrocarbon droplets and water at supercritical or near-critical conditions\" Journal of Supercritical Fluids 67. (2012): 29-40.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Fractionation of multi-component hydrocarbon droplets in water at supercritical or near-critical conditions",
+      "year": 2012,
+      "citation_raw": "Timko, Ghoniem, et al. \"Fractionation of multi-component hydrocarbon droplets in water at supercritical or near-critical conditions\" Journal of Supercritical Fluids 72. (2012): 150-160.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "A novel ion transport membrane reactor for fundamental investigations of oxygen permeation and oxy-combustion under reactive flow conditions",
+      "year": 2013,
+      "citation_raw": "Kirchen, P., Apo, D.J., Hunt, A., and Ghoniem, A.F., A novel ion transport membrane reactor for fundamental investigations of oxygen permeation and oxy-combustion under reactive flow conditions, Proceedings of the Combustion Institute, Vol. 34, 2, 2013, 3463-3470.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Biomass torrefaction: Modeling of reaction thermochemistry",
+      "year": 2013,
+      "citation_raw": "Bates, Richard, and Ahmed Ghoniem. \"Biomass torrefaction: Modeling of reaction thermochemistry\" Bioresource Technology 134. (2013): 331-340.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "The Phase Inversion-based Coal-CO2 Slurry (PHICCOS) feeding system: Technoeconomic assessment using coupled multiscale analysis",
+      "year": 2013,
+      "citation_raw": "Botero, Field, et al. \"The Phase Inversion-based Coal-CO2 Slurry (PHICCOS) feeding system: Technoeconomic assessment using coupled multiscale analysis\" International Journal of Greenhouse Gas Control 18. (2013): 150-164.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Coal-CO2 Slurry Feed for Pressurized Gasifiers: Slurry Preparation System Characterization and Economics",
+      "year": 2013,
+      "citation_raw": "Botero, Field, et al. \"Coal-CO2 Slurry Feed for Pressurized Gasifiers: Slurry Preparation System Characterization and Economics\" Energy Procedia 37. (2013): 2212-2223.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Rotary Bed Reactor for Chemical-Looping Combustion with Carbon Capture. Part 2: Base Case and Sensitivity Analysis",
+      "year": 2013,
+      "citation_raw": "Chen, Tianjiao, Zhenlong Zhao, and Ahmed Ghoniem. \"Rotary Bed Reactor for Chemical-Looping Combustion with Carbon Capture. Part 2: Base Case and Sensitivity Analysis\" Energy and Fuels 27.1 (2013): 344-359.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Impact of the Flame-Holder Heat-Transfer Characteristics on the Onset of Combustion Instability",
+      "year": 2013,
+      "citation_raw": "Ghoniem, Hong, et al. \"Impact of the Flame-Holder Heat-Transfer Characteristics on the Onset of Combustion Instability\" Combustion Science and Technology 185.10 (2013): 1541-1567.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Impact of finite-rate kinetics on carbon conversion in a high-pressure, single-stage entrained flow gasifier with coal–CO2 slurry feed",
+      "year": 2013,
+      "citation_raw": "Botero, Field, et al. \"Impact of finite-rate kinetics on carbon conversion in a high-pressure, single-stage entrained flow gasifier with coal–CO2 slurry feed\" Applied Energy 104. (2013): 408-417.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Kinetics of Carbon Monoxide Electro-Oxidation in Solid-Oxide Fuel Cells from Ni-YSZ Patterned-Anode Measurements",
+      "year": 2013,
+      "citation_raw": "Ghoniem, A., J. Hanna, and W. Lee. \"Kinetics of Carbon Monoxide Electro-Oxidation in Solid-Oxide Fuel Cells from Ni-YSZ Patterned-Anode Measurements\" Journal of The Electrochemical Society 160.6 (2013): F698-F708.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "On the phase between pressure and heat release fluctuations for propane/hydrogen flames and its role in mode transitions",
+      "year": 2013,
+      "citation_raw": "Ghoniem, Hong, et al. \"On the phase between pressure and heat release fluctuations for propane/hydrogen flames and its role in mode transitions\" Combustion and Flame 160.12 (2013): 2827-2842.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Application of a validated gasification model to determine the impact of coal particle grinding size on carbon conversion",
+      "year": 2013,
+      "citation_raw": "Ghoniem, Ahmed, and Mayank Kumar. \"Application of a validated gasification model to determine the impact of coal particle grinding size on carbon conversion\" Fuel 108. (2013): 565-577.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Analysis of heterogeneous oxygen exchange and fuel oxidation on the catalytic surface of perovskite membranes",
+      "year": 2013,
+      "citation_raw": "Ghoniem, Ahmed, Jongsup Hong, and Patrick Kirchen. \"Analysis of heterogeneous oxygen exchange and fuel oxidation on the catalytic surface of perovskite membranes\" Journal of Membrane Science 445. (2013): 96-106.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Interactions between oxygen permeation and homogeneous-phase fuel conversion on the sweep side of an ion transport membrane",
+      "year": 2013,
+      "citation_raw": "Ghoniem, Ahmed, Jongsup Hong, and Patrick Kirchen. \"Interactions between oxygen permeation and homogeneous-phase fuel conversion on the sweep side of an ion transport membrane\" Journal of Membrane Science 428. (2013): 309-322.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "On the predictions of carbon deposition on the nickel anode of an SOFC and its impact on open–circuit conditions, J",
+      "year": 2013,
+      "citation_raw": "Lee, W.Y., Hanna, J. and Ghoniem, A.F., On the predictions of carbon deposition on the nickel anode of an SOFC and its impact on open–circuit conditions, J. Electrochem. Soc., 2013, 160(2): F94-F105; doi:10.1149/2.051302jes.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "An analytical model to predict the dynamic response of a premixed flame stabilized on a heat conducting perforated plate",
+      "year": 2013,
+      "citation_raw": "Kedia, K. and Ghoniem, A.F., An analytical model to predict the dynamic response of a premixed flame stabilized on a heat conducting perforated plate, Proceedings of the Combustion Institute, Vol. 34, 1, 2013, 921-928.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "The influence of char particle trajectory and conversion of char gasification reactions during oxy-combustion and gasification",
+      "year": 2013,
+      "citation_raw": "Singer, S., Chen, L. and Ghoniem, A.F., The influence of char particle trajectory and conversion of char gasification reactions during oxy-combustion and gasification, Proceedings of the Combustion Institute, Vol. 34, 2, 2013, 3471-3478.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Examining flow-flame interaction and the characteristic stretch rate in vortex-driven combustion dynamics using PIV and numerical simulation",
+      "year": 2013,
+      "citation_raw": "Ghoniem, Hong, et al. \"Examining flow-flame interaction and the characteristic stretch rate in vortex-driven combustion dynamics using PIV and numerical simulation\" Combustion and Flame 160.8 (2013): 1381-1397.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Laminar oxy-fuel diffusion flame supported by an oxygen-permeable-ion-transport membrane",
+      "year": 2013,
+      "citation_raw": "Kirchen, Patrick, Jongsup Hong, and Ahmed Ghoniem. \"Laminar oxy-fuel diffusion flame supported by an oxygen-permeable-ion-transport membrane\" Combustion and Flame 160.3 (2013): 704-717.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Comprehensive gasification modeling of char particles with multi-modal pore structures",
+      "year": 2013,
+      "citation_raw": "Singer, Simcha, and Ahmed Ghoniem. \"Comprehensive gasification modeling of char particles with multi-modal pore structures\" Combustion and Flame 160.1 (2013): 120-137.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Modeling of a combined ion transport and porous membrane reactor for oxy-combustion",
+      "year": 2013,
+      "citation_raw": "Ahmed, Badr, et al. \"Modeling of a combined ion transport and porous membrane reactor for oxy-combustion\" Journal of Membrane Science 446. (2013): 230-243.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Experimental characterization and elementary reaction modeling of solid oxide electrolyte direct carbon fuel cell",
+      "year": 2013,
+      "citation_raw": "Cai, Ghoniem, et al. \"Experimental characterization and elementary reaction modeling of solid oxide electrolyte direct carbon fuel cell\" Journal of Power Sources 243. (2013): 159-171.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Allocating electricity production from a hybrid fossil-renewable power plant among its multi primary resources",
+      "year": 2013,
+      "citation_raw": "Beretta, Gian, Ahmed Ghoniem, and Paolo Iora. \"Allocating electricity production from a hybrid fossil-renewable power plant among its multi primary resources\" Energy 60. (2013): 344-360.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Modeling CO 2 Chemical Effects on CO Formation in Oxy-Fuel Diffusion Flames Using Detailed, Quasi-Global and Global Reaction Mechanisms",
+      "year": 2014,
+      "citation_raw": "Chen, Lei, and Ahmed Ghoniem. \"Modeling CO 2 Chemical Effects on CO Formation in Oxy-Fuel Diffusion Flames Using Detailed, Quasi-Global and Global Reaction Mechanisms\" Combustion Science and Technology. (2014): 140124122032005.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "A second-order immersed boundary-SAMR construction for chemically reacting flow over heat-conducting Cartesian grid-conforming solid",
+      "year": 2014,
+      "citation_raw": "Kedia, K.S., Safta, C., Ray, J., Najm, H.N. and Ghoniem, A.F., A second-order immersed boundary-SAMR construction for chemically reacting flow over heat-conducting Cartesian grid-conforming solid, Journal of Computational Physics, 272, 408-428, 2014. http://dx.doi.org/10.1016/j.jcp.2014.04.019.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "The stabilization mechanism of a laminar premixed flame on a bluff body, Combustion and Flame",
+      "year": 2014,
+      "citation_raw": "Kedia, K.S. and Ghoniem, A.F., The stabilization mechanism of a laminar premixed flame on a bluff body, Combustion and Flame, 161 (2014) 327-2339. http://dx.doi.org/10.1016/j.combustﬂame.2014.02.005.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Techno-economic assessment of two novel feeding systems for a dry feed gasifier in an IGCC plant with Pd-membranes for CO2, Int, J, Greenhouse Gas Control",
+      "year": 2014,
+      "citation_raw": "Gazzani, M., Turi, D.M., Ghoniem, A.F., Macchi, E., and Manzolini, G., Techno-economic assessment of two novel feeding systems for a dry feed gasifier in an IGCC plant with Pd-membranes for CO2, Int. J. Greenhouse Gas Control, 201425 (2014) 62-78.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Towards Accurate multidimensional simulations of dense multiphase flows using cylindrical coordinates, Powder Technology",
+      "year": 2014,
+      "citation_raw": "Bakshi, A., Altantzis, C. and Ghoniem, A.F., Towards Accurate multidimensional simulations of dense multiphase flows using cylindrical coordinates, Powder Technology, 264 (2014) 242-255. http://dx.doi.org/10.1016/j.powtec.2014.04.052.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Direct Simulation of supercritical water-hydrocarbon mixing in a cylindrical Tee junction at intermediate Reynolds number: Formulation, numerical methods and laminar mixing, J",
+      "year": 2014,
+      "citation_raw": "Ragavan, A, and Ghoniem, A.F., Direct Simulation of supercritical water-hydrocarbon mixing in a cylindrical Tee junction at intermediate Reynolds number: Formulation, numerical methods and laminar mixing, J. Supercritical Fluids, 2014, 92 (2014) 31-46. http://dx.doi.org/10.1016/j.supflu.2014.04.015.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Modeling reaction-transport interactions during biomass torrefaction, Fuel",
+      "year": 2014,
+      "citation_raw": "Bates, R. and Ghoniem, A.F., Modeling reaction-transport interactions during biomass torrefaction, Fuel, 137 (2014) 216-229.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Measuring the oxygen profile and permeation flux across an ion transport (LCF) membrane and the development and validation of multistep surface exchange model, J Membrane Sci",
+      "year": 2014,
+      "citation_raw": "Hunt, A., Dimitrakopoulos, G., Kirchen, P., and Ghoniem, A.F., Measuring the oxygen profile and permeation flux across an ion transport (LCF) membrane and the development and validation of multistep surface exchange model, J Membrane Sci., 468 (2014) 62-72. http://dx.doi.org/10.1016/j.memsci.2014.05.043.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Redox-reforming based integrated solar natural gas plants: reforming and thermodynamic cycle efficiency, Int",
+      "year": 2014,
+      "citation_raw": "Sheu, E.J. and Ghoniem, A.F., Redox-reforming based integrated solar natural gas plants: reforming and thermodynamic cycle efficiency, Int. J Hydrogen Energy, 39(2014) 14817-14833. http://dx.doi.org/10.1016/j.ijhydene.2014.07.086.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Upgrading and desulfurization of heavy oils by supercritical water, J",
+      "year": 2014,
+      "citation_raw": "Timko, M.T., Ghoniem, A.F. and Green, W.H., Upgrading and desulfurization of heavy oils by supercritical water, J. Supercritical Fluids, 2014, in press. http://dx.doi.org/10.1016/j.supflu.2014.09.015.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Simulation of supercritical water-hydrocarbon mixing in a cylindrical Tee junction at intermediate Reynolds number: Impact of temperature difference between streams, J",
+      "year": 2014,
+      "citation_raw": "Ragavan, A, and Ghoniem, A.F., Simulation of supercritical water-hydrocarbon mixing in a cylindrical Tee junction at intermediate Reynolds number: Impact of temperature difference between streams, J. Supercritical Fluids, 95 (2014) 325-338. http://dx.doi.org/10.1016/j.supflu.2014.09.030.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "The blow-off mechanism of a bluffbody stabilized laminar-premixed flame, Combustion and Flame",
+      "year": 2014,
+      "citation_raw": "Kedia, K.S. and Ghoniem, A.F., The blow-off mechanism of a bluffbody stabilized laminar-premixed flame, Combustion and Flame, 2014. In press. http://dx.doi.org/10.1016/j.combustflame.2014.10.017.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "CFD analysis of a novel reactor design using ion transport membranes for oxy-fuel combustion",
+      "year": 2014,
+      "citation_raw": "Ahmed, P., Habib, M.A., Ben-Mansour, R., Kirchen, P. and Ghoniem, A.F., CFD analysis of a novel reactor design using ion transport membranes for oxy-fuel combustion, Energy, 77 (2014) 932-944.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Chemical kinetics modeling of oxy-fuel flames of mixtures of hydrogen sulfide and methane, Combustion and Flame, in press",
+      "year": 2014,
+      "citation_raw": "Bongartz, D., and Ghoniem, A.F., Chemical kinetics modeling of oxy-fuel flames of mixtures of hydrogen sulfide and methane, Combustion and Flame, in press, 2014. http://dx.doi.org/10.1016/j.combustflame.2014.08.019.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Allocating resources and products in multi-hybrid multi-cogeneration: what fractions of heat and power are renewable in hybrid fossil-solar CHP",
+      "year": 2014,
+      "citation_raw": "Beretta, G.P., Iora, P., and Ghoniem, A.F., Allocating resources and products in multi-hybrid multi-cogeneration: what fractions of heat and power are renewable in hybrid fossil-solar CHP, Energy, 2014, 78, 2104, 587-603. http://dx.doi.org/10.1016/j.energy.2014.10.046",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Design of a rotary reactor for chemical-looping combustion. Part 1: Fundamentals and design methodology",
+      "year": 2014,
+      "citation_raw": "Chen, Ghoniem, et al. \"Design of a rotary reactor for chemical-looping combustion. Part 1: Fundamentals and design methodology\" Fuel 121. (2014): 327-343.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Fundamentals of electro- and thermochemistry in the anode of solid-oxide fuel cells with hydrocarbon and syngas fuels",
+      "year": 2014,
+      "citation_raw": "Ghoniem, Hanna, et al. \"Fundamentals of electro- and thermochemistry in the anode of solid-oxide fuel cells with hydrocarbon and syngas fuels\" Progress in Energy and Combustion Science 40. (2014): 74-111.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Design of a rotary reactor for chemical-looping combustion. Part 2: Comparison of copper-, nickel-, and iron-based oxygen carriers",
+      "year": 2014,
+      "citation_raw": "Ghoniem, Ahmed, and Zhenlong Zhao. \"Design of a rotary reactor for chemical-looping combustion. Part 2: Comparison of copper-, nickel-, and iron-based oxygen carriers\" Fuel 121. (2014): 344-360.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Using potassium catalytic gasification to improve the performance of solid oxide direct carbon fuel cells: Experimental characterization and elementary reaction modeling",
+      "year": 2014,
+      "citation_raw": "Cai, Ghoniem, et al. \"Using potassium catalytic gasification to improve the performance of solid oxide direct carbon fuel cells: Experimental characterization and elementary reaction modeling\" Journal of Power Sources 252. (2014): 130-137.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Design of an ion transport membrane reactor for gas turbine combustion application",
+      "year": 2014,
+      "citation_raw": "Ben-Mansour, Ghoniem, et al. \"Design of an ion transport membrane reactor for gas turbine combustion application\" Journal of Membrane Science 450. (2014): 60-71.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Estimating the specularity coefficient and its effect on bubble dynamics and circulation time in a thin rectangular fluidized bed, Powder Tech",
+      "year": 2015,
+      "citation_raw": "Altantzis, C., Bates, R.B. and Ghoniem, A.F. Estimating the specularity coefficient and its effect on bubble dynamics and circulation time in a thin rectangular fluidized bed, Powder Tech., 2015, 270 (2015) 256-270.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Correspondence between the uncoupled flame configuration and thermoacoustic instability in lean premixed swirl stabilized combustor",
+      "year": 2015,
+      "citation_raw": "Taamallah, S., LaBry, Z., Shanbhogue, S., and Ghoniem, A.F., Correspondence between the uncoupled flame configuration and thermoacoustic instability in lean premixed swirl stabilized combustor. (ASME Turbo Expo 2014, GTP-14-1558). J Eng Gas Turbine Power 137(7), 071505 (2015) (12 pages). http://dx.doi.org/10.1115/1.4029173",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Thermoacoustic instabilities in lean premixed combustion and their link to the flame macrostructure under acoustically uncoupled and coupled conditions",
+      "year": 2015,
+      "citation_raw": "Taamallah, S., LaBry, Z., Shanbhogue, S., and Ghoniem, A.F., Thermoacoustic instabilities in lean premixed combustion and their link to the flame macrostructure under acoustically uncoupled and coupled conditions. Proceedings of the Combustion Institute, Vol. 35, issue 3, 2015, 3273-3282. http://dx.doi.org/10.1016/j.proci.2014.07.002",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Correspondence between the uncoupled flame configuration and thermoacoustic instability in lean premixed swirl stabilized combustor",
+      "year": 2015,
+      "citation_raw": "Taamallah, S., LaBry, Z., Shanbhogue, S., and Ghoniem, A.F., Correspondence between the uncoupled flame configuration and thermoacoustic instability in lean premixed swirl stabilized combustor. (ASME Turbo Expo 2014, GTP-14-1558). J Eng Gas Turbine Power 137(7), 071505 (2015) (12 pages). http://dx.doi.org/10.1115/1.4029173 Taamallah, S., LaBry, Z., Shanbhogue, S., and Ghoniem, A.F., Thermoacoustic instabilities in lean premixed combustion and their link to the flame macrostructure under acoustically uncoupled and coupled conditions. Proceedings of the Combustion Institute, Vol. 35, issue 3, 2015, 3273-3282. http://dx.doi.org/10.1016/j.proci.2014.07.002 Kedia, K., and Ghoniem, The response of a harmonically excited premixed flame stabilized on a heat-conducting bluffbody. Proceedings of the Combustion Institute, Vol. 35, issue 1, 2015, 1065-1072. http://dx.doi.org/10.1016/j.proci.2014.06.007",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    },
+    {
+      "title": "Impact of fuel composition on the recirculation zone structure and its role in lean premixed flame anchoring",
+      "year": 2015,
+      "citation_raw": "Hong, S.H., Shanbhogue, S., and Ghoniem, A.F., Impact of fuel composition on the recirculation zone structure and its role in lean premixed flame anchoring, Proceedings of the Combustion Institute, Vol. 35, issue 2, 2015, 1493-1500. http://dx.doi.org/10.1016/j.proci.2014.05.150.",
+      "source_url": "https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete.",
+    "Official profile heading records PI as Ahmed Ghoniem; original roster PI Ahmed F Ghoniem. Official source: https://meche.mit.edu/people/faculty/ghoniem@mit.edu"
+  ]
+}

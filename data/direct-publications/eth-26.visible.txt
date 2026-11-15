@@ -1,0 +1,1981 @@
+=== https://mohr.ethz.ch/publications.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Artificial Intelligence in Mechanics and Manufacturing
+Main Navigation
+The Group
+Research
+Education
+Publications
+(active)
+News
+How to Find Us
+Search
+Departments
+ETH Zurich
+D-MAVT
+IVP
+Artificial Intelligence in Mechanics and Manufacturing
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 1 loaded
+1 – 10 of 97
+Replacing strain gages by line camera DIC in Hopkinson bar experiments
+Christian Roth, Foulques LeGrelle, Thomas Tancogne-Dejean, Vincent Grolleau and Dirk Mohr
+International Journal of Impact Engineering, vol. 212, pp. 105620, Elsevier, 2026.
+external page:
+DOI: 10.1016/j.ijimpeng.2025.105620
+external page:
+Research Collection
+Abstract 
+
+Strain gages are widely used to acquire the signals in dynamic experiments with Hopkinson bars. Here, we explore the potential of displacement history measurements with line camera based digital image correlation (DIC) to substitute the role of strain gages and directly obtain particle velocity. After outlining the fundamental equations for deriving stress-strain curves, the technique is applied and validated through split-Hopkinson bar compression and tension tests, as well as direct impact experiments. In direct impact tests, the line camera enables simultaneous measurement of input and output forces, facilitating the verification of quasi-static equilibrium. Moreover, in cases where quasi-static equilibrium is clearly satisfied, a single line camera measurement on the striker bar is sufficient to determine the entire stress-strain curve. Compared to laser interferometry and photon Doppler velocimetry, the line camera DIC system demonstrates superior capability in measuring large displacements of Hopkinson bars. It also offers a reliable non-contact measurement alternative to strain gages, which are prone to delamination under high-impact conditions.
+
+Taylor impact response of tungsten heavy alloy: Multi-scale experiments and modeling
+Christian Roth, Teresa Fras and Dirk Mohr
+International Journal of Impact Engineering, vol. 210, pp. 105607, Elsevier, 2026.
+external page:
+DOI: 10.1016/j.ijimpeng.2025.105607
+external page:
+Research Collection
+Abstract 
+
+This study examines the impact response and fracture behavior of 8 mm diameter tungsten heavy alloy (WHA) rods using a combined experimental and numerical approach. To address the dimensional constraints of the raw material, characterization is performed at two scales: conventional axisymmetric specimens for large-scale tension and compression tests, and sub-8 mm flat miniature specimens to probe a wide range of stress states, from shear to biaxial tension. Quasi-static and dynamic tests reveal significant strain rate sensitivity and a pronounced strength differential effect, with compressive flow stress approximately 14% higher than in tension. Taylor impact experiments are conducted with WHA projectiles and tungsten-carbide targets at velocities up to 180 m/s. A Drucker-Prager plasticity model, combined with Swift-Voce hardening and a modified Johnson-Cook rate/temperature dependence, captures the observed plastic response. Fracture initiation is accurately described using a strain rate dependent Hosford-Coulomb model. The calibrated model successfully predicts the crack initiation under various stress states, including the loading histories during projectile impact. The results demonstrate a robust methodology for characterizing and modeling metallic projectiles, particularly when conventional testing is limited by specimen size.
+
+Recurrent neural network model predicting elasto-plasticity and matrix fracture in fiber-reinforced composites
+Arthur Girard and Dirk Mohr
+International Journal of Solids and Structures, vol. 326, pp. 113703, Elsevier, 2026.
+external page:
+DOI: 10.1016/j.ijsolstr.2025.113703
+external page:
+Research Collection
+Abstract 
+
+An enhanced recurrent neural network model is proposed to predict the fracture initiation in addition to the elasto-plastic stress–strain response of solids. The stress-state dependency of the fracture initiation in an epoxy is characterized using shear, plane-strain tension and equi-biaxial tension experiments. A Drucker-Prager elasto-plasticity model with Hosford-Coulomb fracture is chosen to describe the experimentally-observed epoxy behavior. After detailing the extended minimal state cell (MSC) formulation, we first demonstrate that the RNN model is able to learn the deformation response of the matrix material based on synthetic data. Subsequently, an RVE model predicting the in-plane response of a carbon-fiber reinforced epoxy is built and used to generate training data for different types of random-walks in strain space. Based on the results of a comprehensive hyperparameter study, it is shown that a compact MSC model with five state variables and 6500 parameters is able to predict the homogenized stress–strain response of a fiber-reinforced composite along with the fracture initiation with the RVE. After demonstrating the model’s self-consistent behavior upon refining strain paths, it is also validated at the structural level by comparing its predictions for a three-point bending problem with those of a detailed heterogeneous model that discretizes all fibers in the beam.
+
+Temperature, strain-rate and charge dependent mechanical response of Li-ion pouch cells
+Thomas Tancogne-Dejean, Gabriel Hayoun and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 308, pp. 111001, Elsevier, 2025.
+external page:
+DOI: 10.1016/j.ijmecsci.2025.111001
+external page:
+Research Collection
+Abstract 
+
+A combined experimental-numerical investigation is carried out on the mechanical response of commercial 4 Ah Li-ion pouch cells. Hemispherical indentations were performed across a broad range of conditions, including temperatures from –5 °C to 70 °C, strain rates from 0.001 s⁻¹ to 1000 s⁻¹, and states of charge (SoC) from 0.0 to 0.97. The experiments demonstrate that temperature and strain rate are the dominant factors influencing cell behavior, with higher temperatures leading to pronounced softening (43 % reduction in maximum force from 20 °C to 70 °C). The strain rate dependency is non-monotonic, with a 50 %-reduction in short-circuit displacement from slow to high speed and a 15 % reduction in maximum force from slow to intermediate speed. The influence of the SoC on the mechanical response is comparatively minor. To capture all these effects, a phenomenological constitutive model is proposed. It employs a pressure-sensitive Deshpande–Fleck yield surface with associated plastic flow and incorporates a convex-to-linear hardening transition modulated by temperature and SoC. Strain rate and softening effects are described in close analogy with Johnson–Cook-type of models. Finite element simulations performed with the identified surrogate model showed good agreement across all indentation experiments. The proposed model provides a robust framework for predicting the mechanical behavior of Li-ion cells under varying conditions, offering immediate applicability for the design of safer battery systems in electronic devices and vehicles.
+
+From deterministic physics-based to probabilistic data-driven modeling: Diffusion-based prediction of strain fields in deep drawing processes
+Paul P. Meyer and Dirk Mohr
+Journal of the Mechanics and Physics of Solids, vol. 203, pp. 106251, Elsevier, 2025.
+external page:
+DOI: 10.1016/j.jmps.2025.106251
+external page:
+Research Collection
+Abstract 
+
+A new perspective is adopted to solve boundary value problems in structural mechanics. In a compact form, they are described as the mapping from an input vector that defines a mechanical system to an output image that describes mechanical fields. This mapping is then directly learned from data using a deterministic transpose convolutional neural network (CNN) model. Here, we apply this approach to predict the strain fields in deep drawing. The model-specifying input variables include the material properties, the forming tool geometries and the punch displacement. Training data comprising 10,000 pairs of input vectors and output images is generated through finite element (FE) simulations. It is shown that the trained CNN is able to make reliable predictions, including complex deformation patterns associated with wrinkling. To facilitate the training on real experimental data, we also develop a diffusion denoising probabilistic (DDP) model. Different from the CNN, the DDP model learns an output image-generating distribution from data sets with missing input information. While the DDP is able to perform the same tasks (with comparable accuracy) as the deterministic CNN, it also provides meaningful probabilistic predictions when an input variable such as the friction coefficient is unknown. The successful adoption of the probabilistic neural network approach is seen as an important step towards the development of data-driven models that exceed the predictive capabilities of traditional models. This approach is expected to become particularly valuable in applications where system-defining variables are not measurable or the physical understanding is incomplete.
+
+Using miniature cuboidal specimens to determine compression Stress–strain curve of sheet metal under static and dynamic loading
+Arthur Girard, Vincent Grolleau and Dirk Mohr
+International Journal of Solids and Structures, vol. 320, pp. 113527, Elsevier, 2025.
+external page:
+DOI: 10.1016/j.ijsolstr.2025.113527
+external page:
+Research Collection
+Abstract 
+
+Characterizing the stress–strain response of sheet metal under both tension and compression is important to provide accurate predictions of spring-back in sheet metal forming. Data on compression is scarce as anti-buckling devices typically need to be used to attain large strains in compression experiments on sheet metal. As a technically simpler alternative, we propose upsetting experiments with miniature cuboidal specimens as these can be conveniently extracted from sheet metal. In addition to static experiments, we design a Dropkinson bar system for the dynamic compression testing of miniature specimens. We demonstrate through finite element simulations that upsetting specimens with square cross-section are equally-suitable for measuring the stress–strain curve as traditional cylindrical specimens with circular cross-sections. Even though the local surface strains can be conveniently measured with planar DIC, detailed analysis revealed that using the average strain along the full specimen height yields the most accurate stress–strain curve estimation. Static and dynamic demonstration experiments are performed on miniature cuboidal specimens extracted from DP780, DP980 and DP1180 steel sheets. The comparison with the results from uniaxial tension experiments reveals a systematic strength differential effect with a yield stress for compression that is up to 4% higher than that for tension. The dynamic experiments at strain rates of about 750/s suggest a yield strength increase of up to 25% (as compared to static experiments).
+
+Extended minimal state cells (EMSC): Self-consistent recurrent neural networks for rate- and temperature dependent plasticity
+Julian N. Heidenreich and Dirk Mohr
+International Journal of Plasticity, vol. 188, pp. 104305, Elsevier, 2025.
+external page:
+DOI: 10.1016/j.ijplas.2025.104305
+external page:
+Research Collection
+Abstract 
+
+Minimal State Cells (MSCs) have successfully overcome the self-consistency and state space issues of standard RNNs when modeling the large deformation response of solids. However, in case of rate- and temperature-dependent materials, MSC-based stress predictions still suffer from instabilities when refining the input path discretization. To resolve this issue, we develop an extended minimal state cell (EMSC) which provides self-consistent predictions irrespective of the type of material. Similar to the original MSC model, the EMSC decouples the number of state variables from fitting parameters, allowing a minimal number of state variables for high physical interpretability without compromising expressivity. The EMSC is trained and validated using 1D and 3D random walk datasets generated with micro-mechanical models of composites, basic rheological models, advanced thermo-visco-plasticity theories, as well as rate- and temperature-dependent von Mises, Hill’48, and Yld2000–3d models. It is demonstrated that compact EMSC models with less than 25,000 parameters and the same number of state variables as their physics-based counterparts provide accurate predictions of the large deformation response of all materials. With its minimal state space, compact parameter space, high expressivity, and computational stability, the EMSC is a promising candidate for surrogate modeling, in particular for materials for which reliable micromechanical models are available to generate rich training data.
+
+Quantifying damage mechanisms through FE-based void tracking: Application to shear and tension in-situ laminography experiments on AA2198-T851
+Christian Roth, Thilo F. Morgeneyer, Lukas Helfen, Dirk Mohr and Thomas Tancogne-Dejean
+Acta Materialia, vol. 288, pp. 120783, Elsevier, 2025.
+external page:
+DOI: 10.1016/j.actamat.2025.120783
+external page:
+Research Collection
+Abstract 
+
+This study presents a hybrid experimental-numerical postprocessing technique for analyzing damage evolution during in-situ tomography experiments. Using the displacement fields obtained from finite-element (FE) simulations as initial guesses, voids are tracked throughout loading by mapping their centroids to the initial configuration with a novel void tracking algorithm. This algorithm facilitates differentiation between void nucleation, growth and/or coalescence of existing voids. In-situ laminography experiments are performed on flat shear, central-hole tension, notched tension and compact tension specimens extracted from recrystallized aluminum alloy 2198-T851. The specimens are monotonically loaded all the way to fracture to gain insight into ductile failure mechanisms for predominantly biaxial stress states. Detailed 3D gray scale images are acquired at multiple stages of each experiment, allowing distinguishing between polycrystalline matrix, inter-metallic particles and voids at sub-micrometer resolution. The postprocessing of all experiments leads to a wealth of experimental data on void sizes, shapes, counts, volume fractions, and mechanisms of origin. Average stress states and macroscopic strain estimates are derived using continuum scale FE simulations with an anisotropic non-porous plasticity model and related to the void evolution. The tomographic observations show two primary damage mechanisms at early plastic straining stages: (1) intermetallic particle cracking and debonding, and (2) micro-crack emergence mainly at grain boundaries. At high plastic straining stages, grain boundary unzipping leads to fracture via micro-crack growth and coalescence, more prevalent under generalized shear than tension. It is found that particle-related void growth is slow and enhances the material's macroscopic ductility by delaying the growth of large voids.
+
+Training of a physics-based thermo-viscoplasticity model on big data for polypropylene
+Benoit Jordan and Dirk Mohr
+International Journal of Plasticity, vol. 184, pp. 104179, Elsevier, 2025.
+external page:
+DOI: 10.1016/j.ijplas.2024.104179
+external page:
+Research Collection
+Abstract 
+
+Research on data-driven constitutive models has demonstrated their outstanding ability to provide highly accurate predictions of the general stress-strain response after learning from data only. Here, we demonstrate that physics-based models can equally benefit from training procedures relying on big data. Specifically, we employ the thermo-mechanically coupled viscoplasticity model [Anand, L., Ames, N.M., Srivastava, V., Chester, S., 2009. A thermo-mechanically coupled theory for large deformations of amorphous polymers. Part 1: Formulation. International Journal of Plasticity] to describe the large deformation response of polypropylene. It combines both mechanism-based evolution equations and high mathematical flexibility. More than 100 constant velocity and strain rate jump experiments are performed on flat tensile specimens extracted from 3 mm thick isotactic polypropylene sheets. The exact cross-sectional area is measured with surround DIC, while an IR camera monitored the surface temperature field. The experiments typically reached true strains greater than 0.8 and cover temperatures and strain rates ranging from 25 to 85 °C and 10–4 to 100 s-1, respectively. Training over 100,000 unique random combinations of experiments is performed to identify all model parameters. The effect of the training (and testing) subsets size and composition is carefully analyzed to ensure a high generalization ability. It is found that training based on 26 randomly-selected experiments leads to the most robust parameter estimates. The obtained model performs remarkably well on all our experiments (among which 70 % are unseen during training) with a root mean square error of less than 1.5 MPa. As a byproduct, we also found that there exists a subset of two specific experiments for training that lead to an equally accurate model for polypropylene.
+
+Enhancing orthogonal finishing machining of Ti6Al4V with laser-ablated tool geometry modifications
+Fabian Kneubühler, Nanyuan Zhang, Livia Haudenschild, Hagen Klippel, Matthias Putzer, Varun Urundolil Kumaran, Michal Kuffa and Konrad Wegener
+The International Journal of Advanced Manufacturing Technology, vol. 135, pp. 3317-3341, Springer, 2024.
+external page:
+DOI: 10.1007/s00170-024-14583-8
+external page:
+Research Collection
+Abstract 
+
+Finishing machining of Ti6Al4V, known for its high strength and heat conduction resistance, demands optimisation to achieve high-quality end products. This study explores modifying the chip contact length on the rake face and altering the flank face with a cavity to minimise process forces and temperatures while maintaining cutting edge integrity. The research validates the manufacturability of ultra-short pulsed laser-ablated tool geometry modifications, indicating potential for industrial scale-up. Extensive experimental evaluations under dry conditions assess the impact of tool modifications at various feed rates for planing and turning. Significant reductions in process forces and temperatures were observed with rake face modifications, particularly at a cavity distance of approximately 34 mu m. Ideal performance was noted for feed rates between 0.035 and 0.045 mm for planing and 0.040 to 0.045 mm/rev for turning. Smoothed Particle Hydrodynamics (SPH) simulations employing a Johnson-Cook material model were used to analyse chip formation and to predict the process forces. These simulations revealed a clear change in the chip formation and lower process forces and temperatures. The SPH results closely matched experimental outcomes, with a discrepancy of less than 7 % in cutting forces for both tool types, although feed forces were underestimated by about 50 %. The effect of the tool modification is reflected accurately at the respective feeds.
+
+Previous
+Next
+Related content
+The Group
+Research
+Education
+News
+How to Find Us
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Koch
+Administrative Assistant
+Email
+martikoc@ethz.ch
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Artificial Intelligence in Mechanics and Manufacturing
+Main Navigation
+The Group
+Research
+Education
+Publications
+(active)
+News
+How to Find Us
+Search
+Departments
+ETH Zurich
+D-MAVT
+IVP
+Artificial Intelligence in Mechanics and Manufacturing
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 2 loaded
+11 – 20 of 97
+Post-Necking full-field FEMU identification of anisotropic plasticity from flat notched tension experiments
+Emmanouil Sakaridis, Christian Roth, Benoit Jordan and Dirk Mohr
+International Journal of Solids and Structures, vol. 305, pp. 113076, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.ijsolstr.2024.113076
+external page:
+Research Collection
+Abstract 
+
+This work introduces a finite element model updating (FEMU) identification scheme to determine the material parameters of an anisotropic metal plasticity model. Surround digital image correlation (DIC) data is collected from tensile tests on mildly notched flat specimens and it is used to minimize specimen alignment errors when comparing simulations and experiments. The front surface displacement fields and resultant force history are leveraged to calibrate a Whip-Bezier based material model in a computationally-efficient procedure, which treats the pre- and post-necking regimes separately. Experimental data from specimens with a larger notch radius (NT20) serve as the training set, while data from specimens with a smaller notch radius (NT6) are used for validation. Analysis of identification methods using datasets from virtual experiments highlights the improved generalization ability of the full-field approach compared to solely using force–displacement curves. However, this work also demonstrates that through-thickness necking in real notched tensile experiments is asymmetric. This can hinder the identification of the large strain segment of hardening laws, especially when a FEMU approach incorporates full-field information from one specimen surface only. Consequently, it is recommended to use advanced finite element models that capture asymmetric localized strain fields or to base the identification of large strain hardening responses on experiments that achieve large strains without asymmetric through-thickness strain localization, such as in-plane torsion tests.
+
+Large-scale investigation of dry orthogonal cutting experiments Ti6Al4V and Ck45
+Hagen Klippel, Stefan Süssmaier, Nanyuan Zhang, Michal Kuffa and Konrad Wegener
+The International Journal of Advanced Manufacturing Technology, vol. 135: no. 5, pp. 2871-2908, Springer, 2024.
+external page:
+DOI: 10.1007/s00170-024-14597-2
+external page:
+Research Collection
+Abstract 
+
+The numerical simulation of metal cutting processes requires material data for constitutive equations, which cannot be obtained with standard material testing procedures. Instead, inverse identifications of material parameters within numerical simulation models of the cutting experiment itself are necessary. This report presents the findings from a large-scale study of dry orthogonal cutting experiments on Ti6Al4V (Grade 5) and Ck45 (AISI 1045). It includes material characterization through microstructural analysis and tensile tests. The study details the measurement of cutting insert geometries and cutting edge radii, evaluates process forces, deduces friction coefficients and coefficients for Kienzle's force model, and analyzes chip forms and thicknesses as well as built-up edge formation depending on the process parameters. The collected data, stored in pCloud, can support other researchers in the field, e.g. for recomputations within numerical models or inverse parameter identifications. The dataset includes force measurements, cutting edge scans, and chip images including longitudinal cross-sections of chips.
+
+Non-symmetric plate-lattices: Recurrent neural network-based design of optimal metamaterials
+Paul P. Meyer, Thomas Tancogne-Dejean and Dirk Mohr
+Acta Materialia, vol. 278, pp. 120246, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.actamat.2024.120246
+external page:
+Research Collection
+Abstract 
+
+The elastic response of plate-lattices with cubic symmetry can reach the upper, isotropic Hashin-Shtrikman bound. Here, our primary objective is the design of stiff lattices with tailored properties beyond any symmetry or isotropy. We propose a general construction method of plate-lattices, defined as a sequence of plates. We present the large elastic property space, accessible via the geometric control offered by our construction method. Building upon this general formulation, we provide a large-scale comparison to the property spaces of truss- and shell-lattices. Additionally, we observe a distinct correlation between plate orientation and stiffness. To tailor the properties of plate-lattice, we employ a recurrent neural network mapping from a given property to the corresponding structure. Our results highlight the effectiveness of this inverse model in creating plate-lattices with desired properties. We believe that this work holds a paradigm shift in field of inverse design by enabling the efficient customization of the stiffest family of metamaterials.
+
+Using miniature experiments to reveal strength gradients in battery casings
+Thomas Tancogne-Dejean, Christian Roth, Vincent Grolleau, Thomas Beerli and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 275, pp. 109253, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.ijmecsci.2024.109253
+external page:
+Research Collection
+Abstract 
+
+Complex metallic structures are often manufactured through multi-step forming or casting processes that induce severe mechanical property variations within the final part. Instead of using the virgin material properties to predict the final part performance, the local material properties after manufacturing need to be known. A novel comprehensive testing methodology is presented allowing the resolution of spatial gradients in the plasticity and fracture properties in metallic structures. It involves using a recently-developed miniature linear-motion system that probes the material within 2 mm wide gage sections (uniaxial, notched and central hole tension, in-plane shear). Additionally, a novel mini-bulge testing system is presented along with a mini-punch system to provide further insight into the local material response for biaxial loading conditions. A full testing campaign comprising 60 miniature samples is performed on all sides of a prismatic aluminum casing for Li-ion battery cells. The results demonstrate significant property variations with more than 30 % higher yield stresses for the side walls as compared to the bottom section. The miniature specimens allow identifying a location-dependent anisotropy, which would otherwise be missed by standard-sized samples. Furthermore, it is shown that the anisotropic Yld2000 plasticity model and the stress-state dependent Hosford-Coulomb fracture initiation model can be fully identified using results from experiments on miniature specimens only.
+
+Recurrent neural network plasticity models: Unveiling their common core through multi-task learning
+Julian N. Heidenreich and Dirk Mohr
+Computer Methods in Applied Mechanics and Engineering, vol. 426, pp. 116991, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.cma.2024.116991
+external page:
+Research Collection
+Abstract 
+
+Recurrent neural network models are known to be particularly suitable for data-driven constitutive modeling due to their built-in memory variables. The main challenge preventing their widespread application to engineering materials lies in their excessive need of data for training. Here, we postulate that RNN models of elasto-plastic solids feature a large common core that is shared by all materials of the same class. The common core is complemented by material-specific layers with parameters that vary from material-to-material. After training RNN models for 25 different von Mises materials, we identify the common core of a multi-task model. Furthermore, we demonstrate through ensemble transfer learning that adding a new material to the multi-task model requires datasets that are two to three orders of magnitude smaller than the datasets needed for training an RNN from scratch. In addition, to multi-task learning, we introduce probabilistic ensembles of RNN plasticity models to quantify the epistemic uncertainty. A deep drawing simulation is performed to demonstrate the superior generalization capabilities of RNNs identified via multi-task learning as compared to those obtained through single task training.
+
+Whip-Bezier: A C1-continuous hardening law for efficient direct and inverse identification
+Emmanouil Sakaridis, Paul P. Meyer, Christian Roth and Dirk Mohr
+International Journal of Solids and Structures, vol. 288, pp. 112616, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.ijsolstr.2023.112616
+external page:
+Research Collection
+Abstract 
+
+In 3D constitutive models, the hardening law is an essential model ingredient that has a first order effect on the predicted stress–strain response. In most phenomenological plasticity models, the hardening law coincides with the stress–strain curve for monotonic uniaxial loading. When identifying the hardening law for large strains through hybrid experimental–numerical approaches, the numerical properties of the hardening law play an important role. Here, we propose a novel piecewise-defined hardening law based on a composition of quadratic Bezier curve segments. The Whip-Bezier formulation preserves C1 continuity and achieves a parametrization with less parameters than its piecewise-linear counterpart. Both the possibility of identifying the hardening parameters in a decoupled optimization (e.g. from in-plane torsion experiments) and the use of a fully-coupled identification scheme (e.g. from notched tension experiments) are detailed. When contrasted with widely-used analytical expressions, the Whip-Bezier model consistently demonstrates enhanced performance with increasing number of parameters. This improvement comes with minimal statistical variance and reduced dependence on the initial optimization guess. Furthermore, the fitting quality is at least equivalent to that of the Swift-Voce hardening law with the same number of parameters.
+
+Semi-automatic miniature specimen testing method to characterize the plasticity and fracture properties of metals
+Thomas Beerli, Christian Roth and Dirk Mohr
+Acta Materialia, vol. 263, pp. 119539, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.actamat.2023.119539
+external page:
+Research Collection
+Abstract 
+
+Miniature-testing is essential to characterize the plastic response of materials for which the extraction of conventional full-size specimens is impossible. Examples are weld regions with high property gradients or electronic circuit components. Here, we present the design of a novel testing system for miniature specimens. After inserting the specimens with wedge-shaped shoulders, the system carries out the clamping, initial geometry scanning, and mechanical testing with digital image correlation in an automated manner. The automation prevents the accidental damaging of the miniature specimens during manual handling and adds to the robustness of the overall procedure. It is shown that the experiments with miniature specimens extracted from DP600 steel and aluminum 7075-T6 are highly reproduceable. More importantly, they lead to the same plasticity and fracture properties as experiments on conventional ten-times larger full-size specimens. A correction procedure accounting for the surface roughness, white layer and heat affect zone induced through wire EDM is provided. In addition to developing and validating the new experimental technique, it is applied to characterize a 22MnB4 rod material and stainless steel 316 L foil.
+
+Transfer learning of recurrent neural network-based plasticity models
+Julian N. Heidenreich, Colin Bonatti and Dirk Mohr
+International Journal for Numerical Methods in Engineering, vol. 125: no. 1, pp. e7357, Wiley-Blackwell, 2024.
+external page:
+DOI: 10.1002/nme.7357
+external page:
+Research Collection
+Abstract 
+
+Mechanics-specific recurrent neural network (RNN) models are known for their ability to describe the complex three-dimensional stress-strain response of elasto-plastic solids for arbitrary loading paths. To apply RNN models to real materials, it is crucial to identify a strategy that allows for their training from small datasets that could be obtained from robot-assisted experiments. It is demonstrated that regular training with datasets comprising random walks (RWs) in strain space yield a significantly higher generalization ability than the same number of sequences for smooth loading paths. Moreover, it is found that transfer learning, that is, initializing the weights and biases with the parameters from an already trained material, improves the convergence rates and reduces the required number of stress-strain sequences for training. When leveraging the experience gained for multiple materials through ensemble transfer learning, even more substantial improvements are obtained. For example, the same model accuracy and generalization ability is obtained from training with 400 smooth stress-strain sequences after ensemble transfer as from training with 10,000 RW sequences after regular training.
+
+Reaching Large Strains During Simple Shear Experiments Thanks to Sequential Re-Machining of the Free Edges
+Xavier Colon, Bertrand Galpin, Laurent Mahéo and Vincent Grolleau
+Experimental Mechanics, vol. 64, pp. 113-127, Springer, 2024.
+external page:
+DOI: 10.1007/s11340-023-01017-x
+external page:
+Research Collection
+Abstract 
+
+Background The simple shear experiment is widely used for the calibration of plasticity models due to straightforward post processing. The specimen can be as simple as a rectangular strip of sheet metal, but the maximum strain is limited by early initiation of fractures from the free edges. Avoiding this drawback has been a major motivation for the development of new specimens with optimized edge geometries or the in-plane torsion test, but at the cost of a more complex analysis of the test and often a reduction of the gauge section. Objective The objective of the present work is to overcome the initiation of fracture from the free edges during simple shear experiments. Our goal is to double the achievable maximum strain, while keeping the size of the specimen and the post processing simplicity of a standard simple shear test. Methods A sequential single shear test is proposed, consisting of several two steps sequences on a notched geometry. First, an interrupted shear test is performed up to a specified displacement value. Then, the damaged free edges of the specimen are removed through milling. The specimen is then ready for the following sequence of shear and re-machining. Results Experiments are performed on three engineering materials, with up to five loading-machining sequences. The maximum attained effective strain is up to two times the one reached during a monotonic experiment. Numerical simulations are used to validate the shear stress and strain calculations from experimental measurements. Practical recommendations are derived for the choice of the displacement step size and Digital Image Correlation analysis. Conclusion It is found that the maximum strain attained before the undesired failure of the specimen during simple shear test can be substantially extended through repeated re-machining of the specimen boundaries, enabling behavior identification at larger strains.
+
+Site-specifically tailored microstructures with enhanced strength and hardening through laser powder bed fusion
+Christos Sofras, Jan Čapek, Xueyang Li, Christian Roth, Christian Leinenbach, Roland Logé, Markus Strobl and Efthymios Polatidis
+Materials & Design, vol. 237, pp. 112539, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.matdes.2023.112539
+external page:
+Research Collection
+Abstract 
+
+Laser powder bed fusion (L-PBF) has emerged as an additive manufacturing technique that offers unprecedented design freedom. Besides being capable of producing complex and near net shape objects, L-PBF can impact tremendously the engineering materials community due to the possibility of locally manipulating metallic microstructures. Here we exploit the latter potentiality of L-PBF, to produce site-specifically tailored stainless steel components, in terms of their crystallographic texture. The tailored materials are tested and exhibit superior energy dissipation capabilities under bending deformation compared to uniformly textured materials. This is enabled by the strong dependence of the secondary hardening mechanisms, namely the deformation twinning and/or martensite formation, of these materials on the locally tuned microstructures. With the aid of finite element simulations, it is possible to identify the stress state and hence, the crystallographic orientations that facilitate twinning or martensite formation. Then, by engineering favorable crystallographic textures, matched to the complex stress state during bending, enhanced work hardening behavior is obtained. This site-specific microstructure design enabled by L-PBF provides a new pathway for the design of “smart” components that exhibit superior mechanical response under complex stress states.
+
+Previous
+Next
+Related content
+The Group
+Research
+Education
+News
+How to Find Us
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Koch
+Administrative Assistant
+Email
+martikoc@ethz.ch
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Artificial Intelligence in Mechanics and Manufacturing
+Main Navigation
+The Group
+Research
+Education
+Publications
+(active)
+News
+How to Find Us
+Search
+Departments
+ETH Zurich
+D-MAVT
+IVP
+Artificial Intelligence in Mechanics and Manufacturing
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 3 loaded
+21 – 30 of 97
+Neural network based rate- and temperature-dependent Hosford-Coulomb fracture initiation model
+Xueyang Li, Christian Roth and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 260, pp. 108643, Elsevier, 2023.
+external page:
+DOI: 10.1016/j.ijmecsci.2023.108643
+external page:
+Research Collection
+Abstract 
+
+The accurate description of the strain rate and temperature dependent response of metals is a perpetual quest in crashworthiness and forming applications. In the present study, experiments are carried out to probe the onset of ductile fracture for an aluminum alloy AA7075-T6 for 136 combinations of stress state, strain rate and tem-perature. The experimental campaign covers strain rates ranging from 0.001/s to 100/s, and temperatures ranging from 20 degrees C to 360 degrees C. We combine a YLD2000 yield surface with a neural network based hardening law to describe the large deformation plasticity response of the material. The NN-based hardening law is trained on experimental data, achieving 3.9% accuracy on force predictions including the post-necking regime. The loading paths to fracture are extracted for each simulation, showcasing non-proportionally evolving stress triaxiality, Lode angle parameter, strain rate and temperature. A neural network parameterized Hosford-Coulomb fracture locus is proposed, which is trainable using these evolving loading histories. The accuracy of the proposed fracture model is validated against the experimental onset of fracture, predicting the fracture onset at an error of 8%.
+
+Analytical flat belt drive model considering bilinear elastic behaviour with residual strains
+Varun Urundolil Kumaran, Lukas Weiss, Markus Zogg and Konrad Wegener
+Mechanism and Machine Theory, vol. 190, pp. 105466, Elsevier, 2023.
+external page:
+DOI: 10.1016/j.mechmachtheory.2023.105466
+external page:
+Research Collection
+Abstract 
+
+In this work an analytical model of a steady-state flat belt drive with multiple driving and driven pulleys is presented. The belt is characterised by a novel bilinear elastic constitutive description with a superposition of residual strain due to viscoelastic effects, such as relaxation, and considering inertia effects. Both prevalent tensioning methods for the drive are examined: the pretensioning of the belt to a target pre-strain, and the utilization of a tension pulley to ensure adequate tension in the drive. The model is discussed based on a case study. The enhanced accuracy in modelling the mechanical response of the belt results in more accurate estimation of the maximal transmissible power as well as the state of tensile strain of the belt. Traditionally, the maximal transmissible power and tensile strain of the belt are overestimated. Consequently, the potential for failures arising from drives operating proximate to their operational thresholds can be effectively mitigated. The more accurate description of the belt state can lead to better utilization of the belt capabilities and a larger design space when dimensioning the belt drive. Furthermore, the advantages of employing a tension pulley for belt drive tensioning are demonstrated under the assumed conditions.
+
+Inferring mechanical properties of the SARS-CoV-2 virus particle with nano-indentation tests and numerical simulations
+Aida Nonn, Bálint Kiss, Weria Pezeshkian, Thomas Tancogne-Dejean, Albert R. Cerrone, Miklos Kellermayer, Yuanli Bai, Wei Li and Tomasz Wierzbicki
+Journal of the Mechanical Behavior of Biomedical Materials, vol. 148, pp. 106153, Elsevier, 2023.
+external page:
+DOI: 10.1016/j.jmbbm.2023.106153
+external page:
+Research Collection
+Abstract 
+
+The pandemic caused by the SARS-CoV-2 virus has claimed more than 6.5 million lives worldwide. This global challenge has led to accelerated development of highly effective vaccines tied to their ability to elicit a sustained immune response. While numerous studies have focused primarily on the spike (S) protein, less is known about the interior of the virus. Here we propose a methodology that combines several experimental and simulation techniques to elucidate the internal structure and mechanical properties of the SARS-CoV-2 virus. The mechanical response of the virus was analyzed by nanoindentation tests using a novel flat indenter and evaluated in comparison to a conventional sharp tip indentation. The elastic properties of the viral membrane were estimated by analytical solutions, molecular dynamics (MD) simulations on a membrane patch and by a 3D Finite Element (FE)-beam model of the virion's spike protein and membrane molecular structure. The FE-based inverse engineering approach provided a reasonable reproduction of the mechanical response of the virus from the sharp tip indentation and was successfully verified against the flat tip indentation results. The elastic modulus of the viral membrane was estimated in the range of 7–20 MPa. MD simulations showed that the presence of proteins significantly reduces the fracture strength of the membrane patch. However, FE simulations revealed an overall high fracture strength of the virus, with a mechanical behavior similar to the highly ductile behavior of engineering metallic materials. The failure mechanics of the membrane during sharp tip indentation includes progressive damage combined with localized collapse of the membrane due to severe bending. Furthermore, the results support the hypothesis of a close association of the long membrane proteins (M) with membrane-bound hexagonally packed ribonucleoproteins (RNPs). Beyond improved understanding of coronavirus structure, the present findings offer a knowledge base for the development of novel prevention and treatment methods that are independent of the immune system.
+
+Laser powder bed fusion of AlSi10Mg-based composites with graphene and nanodiamond additions
+Adriaan B. Spierings, Dimitry Yu. Ozherelkov, Fabian Kneubühler, Sergey A. Eremin, Ivan A. Pelevin, Anton Yu. Nalivaiko, Evgenii A. Petrov, Alexander A. Gromov and Konrad Wegener
+Journal of Alloys and Compounds, vol. 947, pp. 169421, Elsevier, 2023.
+external page:
+DOI: 10.1016/j.jallcom.2023.169421
+external page:
+Research Collection
+Abstract 
+
+Laser powder bed fusion (LPBF) processing of aluminum matrix composites (AMC) with blends of AlSi10Mg powder and nanodiamond and graphene additives was investigated. AMC with 0.5 wt% nanodiamonds addition was prepared by mechanical mixing, while AMC with 0.5 wt% of multi-layered graphene was prepared by electrochemical deposition. Initial powders for LPBF were thoroughly characterized and optimal LPBF parameters were found based on the relative density analysis and optical microscopy. Processing windows of both AMCs moved towards lower energy density possibly due to the increased total absorptivity of the powders. Raman spectroscopy results, SEM and HRTEM studies of samples after LPBF demonstrated the absence of nano-diamond in the structure after processing which is explained by graphitization of the nanodiamond particles during laser melting. In case of AMC with graphene additives, carbon-containing particles remained in the structure with partial in situ formation of Al₄C₃, along with a noticeable strengthening effect, which increased material’s microhardness by more than 40% compared to the initial AlSi10Mg alloy. The strengthening effect is explained by the presence of a network of graphene and Al₄C₃ particles across the solidified melt-pool promoting the Orowan strengthening mechanism.
+
+Using surround DIC to extract true stress–strain curve from uniaxial tension experiments
+Benoit Jordan, Vincent Grolleau and Dirk Mohr
+International Journal of Solids and Structures, vol. 268, pp. 112171, Elsevier, 2023.
+external page:
+DOI: 10.1016/j.ijsolstr.2023.112171
+external page:
+Research Collection
+Abstract 
+
+The exact stress–strain curve can be directly identified from uniaxial tension experiments up to the point of onset of diffuse necking. To gain insight into the post-necking hardening response of metals, other experimental methods such as the bulge, compression or torsion experiments are typically employed. Here, we introduce the idea of using surround DIC to obtain accurate specimen shape measurements of tensile specimens with rectangular gage section. Based on the results from a series of detailed three-dimensional finite element simulations of ASTM E8 type of uniaxial tension experiments on a wide spectrum of steel and aluminum behaviors, it is proposed to combine the history of the axial strain on the surface at the specimen center with the average axial stress to extract the stress–strain curve for strains of up to axial true strain of 1. The estimation uncertainty of this stress–strain curve estimation procedure is of the same order as that of the associated experimental uncertainties. This result is validated through an additional computational study for more than 100 distinct hardening behaviors. Furthermore, a surround DIC system composed of four stereo DIC systems is built and used to determine the stress–strain curve for a 1.5 mm thick DP780 steel. In addition, bulge experiments are performed on the same material revealing a good agreement of the post-necking hardening behavior determined through uniaxial and bulge testing.
+
+Modeling Structure-Property Relationships with Convolutional Neural Networks: Yield Surface Prediction Based on Microstructure Images
+Julian N. Heidenreich, Maysam B. Gorji and Dirk Mohr
+International Journal of Plasticity, vol. 163, pp. 103506, Elsevier, 2023.
+external page:
+DOI: 10.1016/j.ijplas.2022.103506
+external page:
+Research Collection
+Abstract 
+
+The use of micromechanics in conjunction with homogenization theory allows for the prediction of the effective mechanical properties of materials based on microstructural information. The geometrical features of microstructures are often summarized in the form of a multi-dimensional image that may contain information such as grain morphology and grain orientations. Here, an attempt is made to encode microstructural information contained in images through convolutional neural networks (CNN). In particular, we pose the problem of predicting the yield surfaces of porous media based on images of their unit cell. It is shown that an encoder composed of two parallel CNN strands is able to reduce the geometrical information stored in 100 × 100 pixel images of perforated microstructures to ten characteristic features. Furthermore, a fully-connected neural network model with multiplicative layers is introduced to predict the effective yield surfaces based on the encoded geometrical information. The result is a computationally-efficient CNN-FCNN model that is able to replicate the effective yield surface predictions of a detailed FE-based unit cell model. Based on this successful proof of concept, it may be envisioned to train CNNs based on the results from crystal plasticity models as well as experimental data on real materials to obtain structure-property models for the design of optimization of polycrystalline materials.
+
+Indentation of small format Lithium-ion pouch cells: Experiments and modeling
+Thomas Tancogne-Dejean and Dirk Mohr
+International Journal of Solids and Structures, vol. 257, pp. 111900, Elsevier, 2022.
+external page:
+DOI: 10.1016/j.ijsolstr.2022.111900
+external page:
+Research Collection
+Abstract 
+
+Lithium-ion pouch cells are widely used in applications such as cell phones and electric vehicle battery packs. Here, a series of indentation experiments is performed on 4Ah pouch cells. The experimental program includes hemispherical indentation with six different indenter tip radii as well as indentation with cylindrical indenters with three rod diameters. Aside from varying the shape and size of the indenters, the location and direction of loading is varied including out-of-plane and in-plane loading of the rectangular-prismatic pouch cells. It is found that the force–displacement curves obtained for hemispherical indenters scale linearly with the indenter tip radius, while a scaling with the square root of the radius is observed for the experiments with cylindrical indenters. Finite element simulations are performed of all experiments using an enhanced Deshpande-Fleck plasticity model with two stage hardening. Despite the orthotropic nature of the jelly-stack, it is found that the simulations with an isotropic plasticity model provide reasonable predictions of the force–displacement curves for all experimental configurations. This surprising result is explained through the exceptionally high slenderness of the metallic current collector foils comprised in a pouch cell that respond through early buckling failure instead of contributing to the in-plane compressive load carrying capacity.
+
+From CP-FFT to CP-RNN: Recurrent neural network surrogate model of crystal plasticity
+Colin Bonatti, Bekim Berisha and Dirk Mohr
+International Journal of Plasticity, vol. 158, pp. 103430, Pergamon, 2022.
+external page:
+DOI: 10.1016/j.ijplas.2022.103430
+external page:
+Research Collection
+Abstract 
+
+Recurrent Neural Network (RNN) based surrogate models constitute an emerging class of reduced order models of history-dependent material behavior. Recently, the authors have proposed an alternative RNN formulation that provides stress-responses independent of the time-discretization of the input-path, making it appropriate for integration into explicit finite element (FE) frameworks. Herein, we apply the same methodology to 2D and 3D datasets corresponding to the effective mechanical behavior of an aluminum alloy as obtained through Crystal Plasticity simulations. In both cases, we obtain reasonable approximations of the behavior using RNN models of size ranging from 5'000 to 100'000 parameters. We also develop a methodology to reduce observed numerical instabilities of the finite element implementations.
+
+Graph-based metamaterials: Deep learning of structure-property relations
+Paul P. Meyer, Colin Bonatti, Thomas Tancogne-Dejean and Dirk Mohr
+Materials & Design, vol. 223, pp. 111175, Elsevier, 2022.
+external page:
+DOI: 10.1016/j.matdes.2022.111175
+external page:
+Research Collection
+Abstract 
+
+The effective properties of metamaterials are tailored through the design of their internal structures. According to their main building block, the family of porous three-dimensional metamaterials is divided into truss-, plate- and shell-lattices. The exploration of their full design-space is hampered in practice by a lack of a systematic method to represent their topologies. Here, we demonstrate for the first time that graph models provide an effective representation of shell-lattices. This new graph representation is then leveraged to obtain deep learning-based structure–property models. Using finite element simulations, the stiffness and heat conductivity tensors are established for more than 40,000 microstructural configurations. We find that a modified crystal graph convolutional neural network model provides an accurate description of the structure–property relations. We anticipate the proposed graph-based modeling framework to be applicable to any man-made periodic microstructure, thereby enabling the design and discovery of new materials exhibiting exceptional mechanical, thermal, electrical or magnetic properties.
+
+Axisymmetric V-bending: A single experiment to determine the fracture strain and weakest sheet material direction for plane strain tension
+Thomas Beerli, Vincent Grolleau, Dirk Mohr and Christian Roth
+International Journal of Solids and Structures, vol. 252, pp. 111813, Elsevier, 2022.
+external page:
+DOI: 10.1016/j.ijsolstr.2022.111813
+external page:
+Research Collection
+Abstract 
+
+Most metals exhibit a critical minimum in ductility for plane strain tension. The fracture strain for this particular state of loading is an important reference point for the calibration of ductile fracture models. Here, an axisymmetric V-bending technique is proposed to identify the strain to fracture for plane strain tension for the weakest in-plane direction of sheet metal. After clamping the center and outer boundary of a disc specimen onto an axisymmetric fixture, the specimen is drawn over a tubular knife until fracture initiates on the specimen surface. Throughout the experiment, the specimen surface is monitored with a digital camera for timely crack detection and strain measurement by planar Digital Image Correlation (DIC). It is shown through numerical simulations that the experimental setup is remarkably robust with the results exhibiting a low sensitivity to geometric imperfections. Experiments are performed on aluminum AA2024 and two dual phase steels (DP780 and DP 980) to demonstrate the validity of the proposed technique through comparison with conventional V-bending and dihedral mini-Nakazima experiments.
+
+Previous
+Next
+Related content
+The Group
+Research
+Education
+News
+How to Find Us
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Koch
+Administrative Assistant
+Email
+martikoc@ethz.ch
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Artificial Intelligence in Mechanics and Manufacturing
+Main Navigation
+The Group
+Research
+Education
+Publications
+(active)
+News
+How to Find Us
+Search
+Departments
+ETH Zurich
+D-MAVT
+IVP
+Artificial Intelligence in Mechanics and Manufacturing
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 4 loaded
+31 – 40 of 97
+Machine-learning based prediction of crash response of tubular structures
+Emmanouil Sakaridis, Nikolaos Karathanasopoulos and Dirk Mohr
+International Journal of Impact Engineering, vol. 166, pp. 104240, Elsevier, 2022.
+external page:
+DOI: 10.1016/j.ijimpeng.2022.104240
+external page:
+Research Collection
+Abstract 
+
+This paper proposes a machine learning based methodology for predicting the buckling response of tubular structures. An extensive dataset of force-time curves is generated using a calibrated finite element model within a parametric space where buckling response is highly non-linear. Based on a fully connected neural network template, the machine learning hyper-parameters are determined and the resulting model is evaluated on a separate test set, with regard to maximum and average load and energy absorption errors. This evaluation shows a non-random error distribution which can be correlated with the physical properties of the structural collapse. To validate this assumption, a similar error analysis is conducted between finite element simulations with varying geometric imperfections. Evaluation of imperfection sensitivity reveals a similar error distribution and comparison of individual curves shows that errors made by the neural network model have a physical interpretation. These results indicate that the proposed machine learning based approach is capable of predicting the crushing response with a level of accuracy comparable to the errors that would be caused by a minor change in geometric imperfection.
+
+Strength and Failure of Self-Piercing Riveted Aluminum and Steel Sheet Joints: Multi-axial Experiments and Modeling
+Nikolaos Karathanasopoulos and Dirk Mohr
+Journal of Advanced Joining Processes, vol. 5, pp. 100107, Elsevier, 2022.
+external page:
+DOI: 10.1016/j.jajp.2022.100107
+external page:
+Research Collection
+Abstract 
+
+The mechanical failure of self-piercing rivet (SPR) joints connecting seven series aluminum and high strength steel sheets is investigated, both numerically and experimentally. The joint strength and failure mechanisms are characterized for a total of four distinct loading modes, including the lap-shear, cross-tension, inclined cross tension and coach peel. For the analysis of the underlying influential parameters in each loading case, joint designs with equal total sheet thickness and equal rivet head diameters are considered. The highest strength values are obtained in lap-shear loading for all joint types, while high rivet interlock joints are observed to pair with increased cross-tension strength values. Moreover, the loading mode in which the highest energy is absorbed directly relates to the joint type. Depending on the material combination to be joined, either the cross-tension or the coach-peel cases yielded the highest energy absorption. The experimental results indicate that high rivet hardness and bottom sheet strength values have a favorable impact on the coach-peel strength and the associated deformation response. For all failure modes, the lowest rivet hardness employed (H4) was proven sufficient to prevent rivet failure in the joint types employed, despite the substantial equivalent plastic strains developed in it. Furthermore, high interlocks were noted to primarily affect the lap shear failure mode, inducing significant bottom sheet damage upon fracture, with the failure response observed in all other loading cases to remain practically insensitive to the interlock magnitude.
+
+Ceramic/polymer microlattices: Increasing specific energy absorption through sandwich construction
+Marianna Diamantopoulou, Christian Roth, Thomas Tancogne-Dejean, Carmen M. Lauener and Dirk Mohr
+Extreme Mechanics Letters, vol. 53, pp. 101708, Elsevier, 2022.
+external page:
+DOI: 10.1016/j.eml.2022.101708
+external page:
+Research Collection
+Abstract 
+
+The triply periodic minimal surface design (TPMS, Schwarz Primitive) is utilized to numerically investigate lattices with sandwich cell walls of constant macroscopic density. The sandwich construction of the cell walls involves a polymer (core material) and a ceramic material (skin). The ceramic (alumina) weight fraction in the sandwich construction is varied such that for each density a range of weight fractions from 0%wt (monolithic polymer) to 100%wt (monolithic alumina lattice) is under investigation in terms of the Young's modulus, peak stress and specific energy absorption. It is found that the specific energy absorption of sandwich TPMS lattices is higher compared to monolithic polymer or alumina TPMS lattices of equal density (42 kg m−3) with the 40%wt alumina lattice providing the highest specific energy absorption. At higher densities, the optimal energy absorption is obtained for 10% and 80%wt alumina lattices. Selected lattices of 10%, 30% and 40%wt alumina are fabricated via two-photon lithography and atomic layer deposition and are tested in situ under uniaxial compression. Utilizing the results of this study, design maps are constructed to provide guidelines fulfilling application-related requirements.
+
+Counterexample-trained neural network model of rate and temperature dependent hardening with dynamic strain aging
+Xueyang Li, Christian C. Roth, Colin Bonatti and Dirk Mohr
+International Journal of Plasticity, vol. 151, pp. 103218, Pergamon, 2022.
+external page:
+DOI: 10.1016/j.ijplas.2022.103218
+external page:
+Research Collection
+Abstract 
+
+Constitutive models dealing with the thermal and visco-plasticity of metals have seen wide applications in the automotive industry. A basic plasticity and fracture characterization of a 1.5 mm thick DP780 dual phase steel sheet based on uniaxial tensile (UT) experiments with seven distinct material orientations is complemented by low (∼0.001/s), intermediate (∼1/s) and high (∼150/s) strain rate experiments on notched tensile (NT) and shear (SH) specimens at temperatures ranging from 20 °C to 500 °C. At low strain rates, we observe a non-monotonic effect of the temperature on the force-displacement curves, with the highest curve obtained at 300 °C. Contrasting low speed tests, a monotonic effect of temperature is observed for intermediate and high strain rate experiments, with the highest curves obtained at 20 °C for both cases. Strain rate jump tests are performed proving the positive strain rate sensitivity of the steel. A machine-learning based plasticity model is developed to capture the observed complex strain rate- and temperature effect. The material is modeled as elasto-plastic, with a Hill'48 yield surface and a non-associated flow rule. The flow resistance is decoupled into a reference strain hardening term and a neural network term, which is a function of the plastic strain, strain rate, temperature, and an additional dynamic strain aging variable. The plasticity model is implemented into a material user subroutine and identified using a counterexample-guided hybrid experimental-numerical approach. The extracted loading paths reveal a complex rate and temperature effect on the ductility of DP780. A neural network based fracture initiation model is therefore adopted to describe the fracture onset across various stress states, strain rates and temperatures considered.
+
+Design of in-plane torsion experiment to characterize anisotropic plasticity and fracture under simple shear
+Vincent Grolleau, Christian C. Roth and Dirk Mohr
+International Journal of Solids and Structures, vol. 236-237, pp. 111341, Elsevier, 2022.
+external page:
+DOI: 10.1016/j.ijsolstr.2021.111341
+external page:
+Research Collection
+Abstract 
+
+A novel experimental set-up is proposed to perform in-plane torsion experiments on grooved disk specimens. As compared to previously proposed systems, an enhanced clamping system is introduced to enable the torsion testing of high strength materials such as dual phase steels. The clamping is achieved without applying the clamping pressure through an axial actuator. Instead a custom-made washer-nut system is used which allows for the monitoring of the entire specimen front surface with cameras. Experiments are performed on three different steels (DC01, DP980, AISI301) to demonstrate the validity of the technique for measuring the stress-strain curve for strains of up to 2, for strain rate jump testing, for cyclic loading and for fracture testing. In particular, the demonstration experiments elucidate the importance of full field strain measurements during in-plane torsion. The strain fields vary along the gage section circumference in a periodic manner that is related to the anisotropy of the tested material. This important observation is confirmed through a finite element study covering a wide range of anisotropic Hill'48 materials with non-associated plastic flow.
+
+Strain rate dependent plasticity of Lithium-ion pouch cells: Experiments and Simulations
+Thomas Tancogne-Dejean, Vincent Grolleau and Dirk Mohr
+International Journal of Impact Engineering, vol. 159, pp. 104048, Elsevier, 2022.
+external page:
+DOI: 10.1016/j.ijimpeng.2021.104048
+external page:
+Research Collection
+Abstract 
+
+The safety of electric vehicles under crash event depends on the mechanical behavior of Lithium-ion cells under large deformation at high strain rates. Here, an extensive experimental campaign is performed on large-format pouch cells under out-of-plane indentation with two indenter shapes and speeds ranging from a few millimeters per minute up to ten meters per seconds, spanning six decades of strain rates. It reveals that the displacement at the onset of short circuit decreases with increasing strain rates, while a non-monotonic relationship is observed between the strain rate and the maximum force as well as the macroscopic cell tangent stiffness. Based on the experimental results, a phenomenological constitutive model is proposed making use of a Deshpande-Fleck yield locus and strain-rate dependent hardening. An internal variable is introduced to capture the softening at intermediate strain rates. The calibrated model is able to accurately reproduce the experimental data and is further validated on a hemispherical indentation performed at two meters per seconds.
+
+On the importance of self-consistency in recurrent neural network models representing elasto-plastic solids
+Colin Bonatti and Dirk Mohr
+Journal of the Mechanics and Physics of Solids, vol. 158, pp. 104697, Elsevier, 2022.
+external page:
+DOI: 10.1016/j.jmps.2021.104697
+external page:
+Research Collection
+Abstract 
+
+Recurrent neural networks could serve as surrogate material models, removing the gap between component-level finite element simulations and numerically costly microscale models. Recent efforts relied on gated recurrent neural networks. We show the limits of that approach: these networks are not self-consistent, i.e. their response depends on the increment size. We propose a recurrent neural network architecture that integrates self-consistency in its definition: the Linearized Minimal State Cell (LMSC). While LMSCs can be trained on short sequences, they perform best when applied to long sequences of small increments. We consider an elastoplastic example and train small models with fewer than 5000 parameters that precisely replicate the deviatoric elastoplastic behavior, with an optimal number of state-variables. We integrate these models into an explicit finite element framework and demonstrate their performance on component-level simulations with tens of thousands of elements and millions of increments.
+
+Design of isotropic porous plates for use in hierarchical plate-lattices
+Julian N. Heidenreich, Maysam B. Gorji, Thomas Tancogne-Dejean and Dirk Mohr
+Materials & Design, vol. 212, pp. 110218, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.matdes.2021.110218
+external page:
+Research Collection
+Abstract 
+
+This work deals with the elastic and plastic properties of two-dimensional periodic metamaterials. Design maps are developed to ensure their isotropic elastic response while attaining the theoretical stiffness limits. Numerical simulations of two different topologies - triangular and round hole staggered patterns - are performed to analyze their large deformation response for relative densities ranging from 0.1 to 0.9. The investigations show that the strength of triangular perforated plates is profoundly dependent on the unit cells’ direction concerning the axial loading; 0 and 30 degrees have the lowest and highest yield strength over the entire range of volume fractions. In contrast, the round hole staggered patterns exhibit an almost uniform yield strength in all directions. The yield strength of the circular patterns is significantly lower at low- and intermediate-density ranges; whereas they outperform the triangular ones at relative densities higher than 0.6. Additionally, validation experiments are performed on specimens of 0.3 relative density that have been extracted from DP980 steel sheets using micro waterjet cutting, showing good agreement in terms of force-displacement response and surface strain fields. A foam-like structure is built from periodic sheets and the scaling of the elastic properties of the resulting hierarchical 3D metamaterial are discussed.
+
+Recurrent neural network modeling of the large deformation of lithium-ion battery cells
+Thomas Tancogne-Dejean, Maysam B. Gorji, Juner Zhu and Dirk Mohr
+International Journal of Plasticity, vol. 146, pp. 103072, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.ijplas.2021.103072
+external page:
+Research Collection
+Abstract 
+
+As the automotive industry transitions from combustion to electric motors, there is a growing demand for efficient computational models that can describe the homogenized large deformation response of Li-ion batteries. Here, a detailed three-dimensional unit cell model with periodic boundary conditions is developed to describe the large deformation response of a typical anode-separator-cathode lay-up of a pouch cell. The model makes use of a Deshpande-Fleck foam model for the porous polymer separator and Drucker-Prager cap models of the granular cathode and anode coatings. Using the unit cell model, the stress-strain response of a battery cell is computed for 20’000 random loading paths in the six-dimensional strain space. Based on this data, a recurrent neural network (RNN) model is trained, validated and tested. It is found that an RNN model composed of two gated recurrent units in series with a deep fully connected network is capable to describe the large deformation response with a high level of accuracy. As a byproduct, it is shown that advanced conventional constitutive models such as the anisotropic Deshpande-Fleck model cannot provide any predictions of satisfactory accuracy.
+
+Stress-strain response of polymers made through two-photon lithography: Micro-scale experiments and neural network modeling
+Marianna Diamantopoulou, Nikolaos Karathanasopoulos and Dirk Mohr
+Additive Manufacturing, vol. 47, pp. 102266, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.addma.2021.102266
+external page:
+Research Collection
+Abstract 
+
+Photopolymerization is the governing chemical mechanism in two-photon lithography, a multi-step additive manufacturing process. Negative-tone photoresist materials are widely used in this process, enabling the fabrication of structures with nano- and micro-sized features. The present work establishes the relationship among the process parameters, the degree of polymerization, and the nonlinear stress-strain response of polymer structures obtained through two-photon polymerization. Honeycomb structures are fabricated on a direct laser writing system (Nanoscribe) making use of different laser powers for two widely applicable, commercially available resins (IP-S and IP-Dip). The structures are then tested under uniaxial compression to obtain the corresponding stress-strain curves up to 30% strain. Raman spectroscopy is used to correlate the degree of conversion achieved upon different laser exposures of the base photoresist material with the selected mechanical properties (Young's modulus, tangent modulus, deformation resistance) after polymerization. Significant differences are recorded in the observed constitutive responses. Higher degrees of conversion result in higher elastic moduli and strength at large strains. Moreover, it is found that the IP-Dip resin yields higher degrees of conversion for the same laser power compared to the IP-S resin. A neural network model is developed for each resin that predicts the stress-strain response as a function of the degree of conversion. For each material, an analytical form of the identified constitutive response is provided, furnishing basic formulas for engineering practice.
+
+Previous
+Next
+Related content
+The Group
+Research
+Education
+News
+How to Find Us
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Koch
+Administrative Assistant
+Email
+martikoc@ethz.ch
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Artificial Intelligence in Mechanics and Manufacturing
+Main Navigation
+The Group
+Research
+Education
+Publications
+(active)
+News
+How to Find Us
+Search
+Departments
+ETH Zurich
+D-MAVT
+IVP
+Artificial Intelligence in Mechanics and Manufacturing
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 5 loaded
+41 – 50 of 97
+Machine Learning Classifiers for Surface Crack Detection in Fracture Experiments
+Adrien Müller, Nikos Karathanasopoulos, Christian C. Roth and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 209, pp. 106698, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.ijmecsci.2021.106698
+external page:
+Research Collection
+Abstract 
+
+Correctly determining the onset of fracture is crucial when performing mechanical experiments. Commonly carried out by visual inspection, here an image-based machine learning approach is proposed to classify cracked and un-cracked specimens. It yields the potential to objectify and automate crack detection, thereby removing sources of uncertainty and error from the post-processing of experiments. More than 30’000 speckle-pattern images obtained from 77 experiments on three specimen geometries are evaluated. They comprise uniaxial tension, notched tension as well as axisymmetric V-bending experiments. Statistical texture features are extracted from all images. They include both first-order (variance, skewness, kurtosis) and higher-order statistical texture features, i.e. Haralick features. The discriminatory power of the texture information is evaluated based on the Fisher's Discriminant Ratio and feature correlations are identified and quantified. Image texture feature subsets of high discriminatory power are used to parse neural network architectures of different complexities from simple perceptron to feed-forward and cascade neural networks. It is found that a small subset of the investigated texture features is highly significant for all experiments. Using this feature subset in conjunction with multi-layer, non-linear and low complexity feed-forward network architectures classification accuracies in the order of 99% are obtained. At the same time, it is shown that linear classifiers are not sufficient to robustly distinguish the state of the specimens, even when high discriminatory power features are used.Graphical Abstract: [Formula presented]
+
+Double-wall ceramic nanolattices: Increased stiffness and recoverability by design
+Marianna Diamantopoulou, Thomas Tancogne-Dejean, Jeffrey M. Wheeler and Dirk Mohr
+Materials & Design, vol. 208, pp. 109928, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.matdes.2021.109928
+external page:
+Research Collection
+Abstract 
+
+Lightweight ceramic nanolattices exhibiting high stiffness and good recoverability are obtained by leveraging base material size effects in combination with smart structural design. Here, the double-wall tube (DWT) lattice architecture is introduced to increase the stiffness of brittle nanolattices, while maintaining their recoverability. The DWT architecture consists of two nested simple-cubic hollow-truss nanolattices. The superposition of two nanolattices leads to a reduced wall thickness for a given relative density thereby preventing the built-up of large stresses at the cell wall level when crushing the lattices. In this work, DWT alumina nanolattices are fabricated and compressed in situ to demonstrate the improvement in recoverability with decreasing alumina wall thickness. The results from finite element simulations reveal that double-wall architectures are up to two times stiffer than their single wall counterparts of equal mass, suggesting that superior recoverability (thinner ceramic coatings) coupled with enhanced stiffness can be achieved. The DWT lattice is proposed as a new architecture to expand the design space of highly recoverable brittle nanolattices. The new double-wall design concept is expected to provide an efficient tool for improving the mechanical performance of shell-nanolattices in general including triply-periodic minimal surfaces.
+
+Rate-dependent strength and ductility of binder jetting 3D-printed stainless steel 316L: Experiments and modeling
+Thomas Tancogne-Dejean, Christian C. Roth and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 207, pp. 106647, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.ijmecsci.2021.106647
+external page:
+Research Collection
+Abstract 
+
+Binder-jetting is an additive manufacturing process for metals which involves the rapid making of a binder bonded metal powder part followed by the removal of the binder and creation of a fully dense part in a subsequent sintering step. This emerging process has the potential of high cost efficiency as compared to selective laser melting (SLM) or shaped metal deposition. Here, we determine the rate-dependent plasticity and fracture properties of binder-jetted stainless steel 316L. Electron Back-Scattered Diffraction (EBSD) analysis and tomography revealed an equi-axed grain structure with an initial porosity of 3%. The latter is due to pores with an average size of 20μm that are clustered in layers perpendicular to the build direction. The observed stress-strain curve of the binder-jetted material always lies below that of wrought stainless steel 316L with a 50% lower initial yield stress and a 30% lower ultimate strength. Both the material anisotropy and strain rate sensitivity may be considered as second order effects in that comparison. The equivalent plastic strain obtained from fracture experiments for different stress states is also always lower for the binder-jetted material. The observations for the binder-jetted material therefore stand in stark contrast to those for SLM-made stainless steel which can provide an even higher yield strength than the wrought material. From a mechanism point of view, the low mechanical properties of the binder-jetted material may be explained by the high initial porosity which is reminiscent of cast metals.
+
+An experimental and numerical investigation of the role of rivet and die design on the self-piercing riveting joint characteristics of aluminum and steel sheets
+N. Karathanasopoulos, Kedar S. Pandya and Dirk Mohr
+Journal of Manufacturing Processes, vol. 69, pp. 290-302, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.jmapro.2021.07.049
+external page:
+Research Collection
+Abstract 
+
+We analyze the role of different rivet and die design parameters on the feasibility and quality of the self-piercing riveting (SPR) joining of metallic sheet stacks. In particular, the riveting of a similar aluminum-to‑aluminum sheet stack (AA2019/AA7075-F) and a dissimilar aluminum-to-steel sheet stack (AA7075-F/BA0270) is investigated, both experimentally and numerically. Towards this, the different rivet and sheet materials are experimentally characterized to obtain their elastoplastic and fracture attributes. Thereafter, SPR process finite element models are developed. Initially, the joint feasibility is experimentally probed for specific available rivet and die configurations, thus identifying SPR process parameters that allow for successful joining. Thereafter, a wider range of SPR process parameters is investigated numerically. It is observed that a combination of successful joint formation and high interlock values is obtained over specific ranges of rivet leg thickness and die depth values. Moreover, low rivet leg thickness values and near-unity normalized die depths – with the sum of the die depth and total sheet thickness normalized with respect to the rivet leg length – yield high quality SPR joints for both types of stacks considered. However, the optimum parameter selection is stack-specific, with high-quality AA2019/AA7075-F SPR joints observed to be feasible over a more constrained parametric space compared to the AA7075-F/BA0270 joining case. Further, it is concluded that the mean von Mises stress induced in the sheets after the SPR process is primarily affected by the selection of the die depth, with the induced stress being less sensitive to other design parameters, such as the rivet leg thickness or die shape for both joining cases.
+
+Plasticity and Fracture of Cast and SLM AlSi10MG: High-througput Testing and Modelling
+Christian C. Roth, Thomas Tancogne-Dejean and Dirk Mohr
+Additive Manufacturing, vol. 43, pp. 101998, Elsvevier, 2021.
+external page:
+DOI: 10.1016/j.addma.2021.101998
+external page:
+Research Collection
+Abstract 
+
+Both additively-manufactured and cast metals are known to exhibit stochastic mechanical properties at the macroscopic level. Using a robot-assisted mechanical testing system, more than 360 experiments are performed on flat specimens extracted from AlSi10Mg components that are either cast or made through laser powder bed fusion (LPBF), commonly known as selective laser melting (SLM). Aside from basic EBSD analysis of the respective microstructures, micro-computed tomography is performed revealing a significantly higher porosity and pore size for the cast material. The results from uniaxial tension experiments reveal a 10% higher yield strength (on average) and an about 20% higher ultimate tensile strength for the SLM made AlSi10Mg. The tracking of the specimen origin within the SLM component shows a clear location dependence of the observed hardening response on the build height. The shear and tension fracture experiments revealed a strong stress-state dependence and significantly higher fracture strains for the cast material as compared to its SLM-made counterpart. To facilitate the computer aided engineering of structures with additively-manufactured AlSiMg alloys, a build height dependent hardening model is proposed along with a probabilistic plasticity and fracture modeling framework.
+
+One for all: Universal material model based on minimal state-space neural networks
+Colin Bonatti and Dirk Mohr
+Science Advances, vol. 7: no. 26, pp. eabf3658, AAAS, 2021.
+external page:
+DOI: 10.1126/sciadv.abf3658
+external page:
+Research Collection
+Abstract 
+
+Computational models describing the mechanical behavior of materials are indispensable when optimizing the stiffness and strength of structures. The use of state-of-the-art models is often limited in engineering practice due to their mathematical complexity, with each material class requiring its own distinct formulation. Here, we develop a recurrent neural network framework for material modeling by introducing "Minimal State Cells." The framework is successfully applied to datasets representing four distinct classes of materials. It reproduces the three-dimensional stress-strain responses for arbitrary loading paths accurately and replicates the state space of conventional models. The final result is a universal model that is flexible enough to capture the mechanical behavior of any engineering material while providing an interpretable representation of their state.
+
+Self-piercing riveting process: Prediction of joint characteristics through finite element and neural network modeling
+Nikos Karathanasopoulos, Kedar Sanjay Pandya and Dirk Mohr
+Journal of Advanced Joining Processes, vol. 3, pp. 100040, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.jajp.2020.100040
+external page:
+Research Collection
+Abstract 
+
+Developing robust numerical simulation tools to investigate the self-piercing riveting process is critical, since the feasibility, quality and strength of riveted connections relies on the successful formation of mechanical interlocks between the rivet and sheet materials. In the present study, we investigate the riveting of aluminum alloy and dual-phase steel sheets (AA7075-F/DP600 and AA6016-T4/DP600) over a wide range of sheet thicknesses, as a function of the rivet and die geometries employed. More specifically, we study the dependence of the probability of successful joint formation, defined as the ratio of the number of acceptable riveted connections to the total number of test cases, on the rivet leg inner radius and die central tip depth. Towards this, we use experimentally calibrated Hosford-Coulomb fracture surfaces for each deformable part, incorporated in dedicated axisymmetric 2D finite element (FE) process models. The FE predictions are validated through comparisons with experimentally obtained riveted joints. Moreover, we analyze the relation between the mechanical interlocks achieved and the rivet and die geometries employed, deriving practice-relevant conclusions with respect to the most favorable design parameters. In particular, we show that while the probability of successful joint formation decreases upon increasing rivet leg inner radius, the joint quality, in terms of effectuated interlock distance per rivet mean residual equivalent plastic strain, increases. Furthermore, we show that machine-learning techniques can be employed to classify with remarkable accuracy the successful joint formation for a wide range of possible self-piercing riveting scenarios, accounting for both rivet and die-related geometrical attributes, as well as for the thickness of the metal sheets.
+
+From macro- to micro-experiments: Specimen-size independent identification of plasticity and fracture properties
+Maysam B. Gorji, Jevan Furmanski and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 199, pp. 106389, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.ijmecsci.2021.106389
+external page:
+Research Collection
+Abstract 
+
+The stress-strain response of most engineering materials can be conveniently determined using well-established macro-specimens with outer dimensions of several millimeters or even centimeters. However, in the case of curved thin-walled structures or structures with spatial material property gradients, it is often impossible to extract macro-specimens. For the first group of structures the specimen dimensions are greater than the structural dimensions, while for the second group, the assumption of statistically-homogeneous material properties is not valid throughout a volume as large as the specimen gage section. A frequently encountered example is material property gradients around welds in metallic structures or castings in automotive engineering. In view of characterizing the local plasticity and fracture properties at the millimeter scale, a micro-testing technique is discussed in this study. In addition, the microscopic experimental results of 100μm thick steel alloy API X52 are compared to standard macroscopic counterparts with 2mm thickness. A new custom-made micro-testing device is employed to load uniaxial tension, notched, central hole and in-plane shear micro-specimens with a quasi-static nominal actuator strain rate of less than 1μm/s. These micro-scale experiments on a pipeline steel are performed under an optical microscope; a planar digital image correlation is used to compute the surface strain fields. The plasticity and fracture initiation model are then derived using the conventional macro- and micro-experiments. It is concluded that micro-testing provides a powerful means to characterize materials whose properties are homogeneous over a few hundred microns only.
+
+Toward the use of small size bulge tests: Numerical and experimental study at small bulge diameter to sheet thickness ratios
+Vincent Lafilé, Bertrand Galpin, Laurent Mahéo, Christian C. Roth and Vincent Grolleau
+Journal of Materials Processing Technology, vol. 291, pp. 117019, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.jmatprotec.2020.117019
+external page:
+Research Collection
+Abstract 
+
+For calibrating sheet metal hardening and anisotropic constitutive models, the bulge test has proven to be an invaluable tool. In recent studies, the analysis of the test has been considerably improved by using Digital Image Correlation. Despite the progress achieved in the analysis of the measured data, based on membrane hypotheses it is still necessary to use large bulge diameter to sheet thickness ratios of more than 100 in order to ensure the validity of the standard equations. In order to overcome this constraint, a numerical study of a wide range of specimen material behaviors and various bulge geometries is performed. The numerical results obtained are used to draw up new estimates for the bending strain, the radii of curvature and the average bulge stress. The numerical and experimental data show that the inner and the outer radii of curvature do not share the same center. This means that the difference between outer and inner radii of curvature is not equal to the thickness of the apex. The accuracy of the approach presented here is assessed on the basis of numerical simulations and experiments. Numerical simulations involve six different types of Swift and Voce behavior. Experimental validation is performed from original bending and curvature measurements on aluminum and steel bulges. Lastly, a hardening law identification algorithm is presented and compared with experimental results obtained for bulge diameters as small as 50 mm and bulge size ratios ranging from 42 to 150. (© 2020 Elsevier).
+
+Ductile damage of AA2024-T3 under shear loading: Mechanism analysis through in-situ laminography
+Thomas Tancogne-Dejean, Christian C. Roth, Thilo F. Morgeneyer, Lukas Helfen and Dirk Mohr
+Acta Materialia, vol. 205, pp. 116556, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.actamat.2020.116556
+external page:
+Research Collection
+Abstract 
+
+The mechanisms leading to fracture of aluminum alloy AA2024-T3 under shear loading are investigated via X-ray synchrotron laminography. A 1mm-thick flat double-gage section shear specimen is loaded inside a synchrotron X-ray beamline. The microscale defects population is reconstructed on six loading steps as well as on the broken specimen. The material exhibits an initial void volume fraction of 0.7% as well as a high concentration of large Cu-rich intermetallic particles. Using 2D Digital Image Correlation of projected volume data, based on the void contrast, it is possible to track the evolution of both types of mesoscale defects throughout the loading and to correlate the deformation mechanisms with the local strains. Upon mechanical loading, pre-existing voids rotate and elongate following the deformation of the aluminum matrix. The intermetallic particles fail at early loading stages in a brittle manner, leading to the nucleation of voids normal to the maximum principal stress direction. The newly-created voids continue to grow during the subsequent loading steps impeded by the fragmented particles, eventually forming micro-cracks. A fracture mechanism is proposed based on these observations and assessed with a representative volume element simulation, pointing towards the formation of a shear localization band during the final loading step.
+
+Previous
+Next
+Related content
+The Group
+Research
+Education
+News
+How to Find Us
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Koch
+Administrative Assistant
+Email
+martikoc@ethz.ch
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Artificial Intelligence in Mechanics and Manufacturing
+Main Navigation
+The Group
+Research
+Education
+Publications
+(active)
+News
+How to Find Us
+Search
+Departments
+ETH Zurich
+D-MAVT
+IVP
+Artificial Intelligence in Mechanics and Manufacturing
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 6 loaded
+51 – 60 of 97
+Neural network model predicting forming limits for Bi-linear strain paths
+Colin Bonatti and Dirk Mohr
+International Journal of Plasticity, vol. 137, pp. 102886, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.ijplas.2020.102886
+external page:
+Research Collection
+Abstract 
+
+The Forming Limit Curve (FLC) describes the maximum in-plane strains that can be applied to sheet metal before necking initiates. It is well known that the FLC depends on the yield locus, the hardening behavior, strain rate, temperature, superposed out-of-plane stresses and the shape of the loading path. There is an infinite number of possible paths for reaching a particular state of strain which makes the formulation of simple analytical models predicting the effect of non-linear loading paths on the FLC particularly challenging. Here, it is demonstrated that a neural network model is able to provide a computationally-efficient approach to describe the effect of non-proportional loading. A finite-element-based Marciniak-Kuczynski model is developed to characterize the forming limits of a DP780 steel through virtual experiments. Subsequently, a large data base is generated to serve as a basis for machine learning. Using a standard backpropagation algorithm with Bayesian regularization, a compact neural network model is trained and tested based on the results from virtual experiments. Even though the experimental data base includes only a finite number of random loading paths, the results show that the neural network model is able to predict the FLCs for a given proportional pre-straining history.
+
+Robust characterization of anisotropic shear fracture strains with constant triaxiality using shape optimization of torsional twin bridge specimen
+Yongnam Kim, Shunying Zhang, Vincent Grolleau, Christian Roth, Dirk Mohr and Jeong Whan Yoon
+CIRP Annals, vol. 70: no. 1, pp. 211-214, Elsevier, 2021.
+external page:
+DOI: 10.1016/j.cirp.2021.03.022
+external page:
+Research Collection
+Abstract 
+
+In-plane torsion test has been drawing attention as an effective strategy to obtain good shear properties. Herein, a framework of shape optimization for a twin bridge specimen is presented to improve the performance while ensuring better machinability. The framework includes the consideration of material anisotropy and the determination of design variables. In this study, TRIP1180 sheet was employed as a target material. The optimized design was verified by an actual in-plane torsion test. The experimental results demonstrate that the proposed framework can optimize the shape of the twin bridge for maintaining zero triaxiality up to fracture occurrence.
+
+Fracture response of resistance spot welded dual phase steel sheets: Experiments and modeling
+Kedar Sanjay Pandya, Vincent Grolleau, Christian C. Roth and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 187, pp. 105869, Elsevier, 2020.
+external page:
+DOI: 10.1016/j.ijmecsci.2020.105869
+external page:
+Research Collection
+Abstract 
+
+Predicting the failure of spot welds remains one of the most important modeling challenges in automotive engineering. In essence, the structure surrounding a spot weld corresponds to a graded material with severe variations in the plasticity and fracture properties as a function of the distance to the center of the weld nugget. While it is common practice to identify hardness variations around a spot weld, a newly developed micro-tensile testing technique is used to characterize spatial variations in both strain hardening and fracture strains. Furthermore, a new experimental device is presented to subject spot welds to combined tension, shear and bending loads. Following a careful experimental characterization of resistance spot welds connecting two 1.5 mm thick DP600 sheets, a detailed finite element model is built which accounts for the identified property gradients. In addition, a simplified surrogate model for use in conjunction with coarse shell element meshes is also calibrated. Simulations are performed of all structural experiments to assess the range of validity of the detailed and simplified FE models. It is found that the detailed model captures the experimentally observed failure modes including changes in the location of fracture initiation as a function of the loading, while the simplified model is able to predict the spot weld strength with reasonable accuracy.
+
+Neural network model describing the temperature- and rate-dependent stress-strain response of polypropylene
+Benoit Jordan, Maysam B. Gorji and Dirk Mohr
+International Journal of Plasticity, vol. 135, pp. 102811, Pergamon, 2020.
+external page:
+DOI: 10.1016/j.ijplas.2020.102811
+external page:
+Research Collection
+Abstract 
+
+A machine learning based model is proposed to describe the temperature and strain rate dependent response of polypropylene. A hybrid modeling approach is taken by combining mechanism-based and data-based modeling. The “big data” required for machine learning is generated using a custom-made robot-assisted testing system. Numerous large deformation experiments are performed on mildly-notched tensile specimens for temperatures ranging from 20 to 80 °C, and strain rates ranging from 10−3 to 10−1/s. Without making any a priori assumptions on the specific mathematical form, the function relating the stress to the viscous strain, the viscous strain rate and temperature is identified using machine learning. In particular, a back propagation algorithm with Bayesian regularization is employed to identify a suitable neural network function based on the results from more than 40 experiments. The neural network model is employed in series with a temperature-dependent spring to describe the stress-strain response of polypropylene. The resulting constitutive equations are solved numerically to demonstrate that the identified model is capable to predict the experimentally-observed stress-strain response for strains of up to 0.6.
+
+Strain rate and temperature dependent fracture of aluminum alloy 7075: Experiments and neural network modeling
+Kedar Sanjay Pandya, Christian Roth and Dirk Mohr
+International Journal of Plasticity, vol. 135, pp. 102788, Pergamon, 2020.
+external page:
+DOI: 10.1016/j.ijplas.2020.102788
+external page:
+Research Collection
+Abstract 
+
+Complex structural components made from 7xxx series alloys are usually manufactured through hot stamping due to their low ductility at room temperature. With the help of a custom-made induction heating system, experiments are performed on aluminum alloy 7075 in its W-temper. The comprehensive experimental program is executed comprising more than 100 specimens to characterize the plasticity and fracture response at temperatures ranging from 180 to 480 °C and strain rates ranging from 0.001 to 2/s. Stress states ranging from simple shear to biaxial tension are obtained through the use of planar shear specimens and tensile specimens with central holes and various notches. Based on the experimental results, an attempt is made to calibrate an enhanced Johnson-Cook type of constitutive model before employing an isotropic machine learning based constitutive model for hybrid experimental-numerical analysis of the fracture experiments. The extracted loading paths to fracture reveal a negative strain rate effect and a non-monotonic effect of temperature on the ductility of AA7075-W. An isotropic neural network based fracture initiation model is proposed, trained and validated to describe the onset of fracture across the range of stress states, strain rates and temperatures considered.
+
+Rate-and temperature-dependent plasticity of additivly manufacutred stainless steel 316L: Characterization, modeling and application to crushing of shell-lattices
+Xueyang Li, Christian Roth, Thomas Tancongne-Dejean and Dirk Mohr
+International Journal of Impact Engineering, vol. 145, pp. 103671, Pergamon, 2020.
+external page:
+DOI: 10.1016/j.ijimpeng.2020.103671
+external page:
+Research Collection
+Abstract 
+
+A combined numerical and experimental investigation is carried out on the quasi-static and high strain rate response of additively manufactured stainless steel 316L obtained through selective laser melting. The experimental program comprises experiments on uniaxial tension, shear, notched tension and mini-Nakazima specimens, covering a wide range of stress states and strain rates (from 10−3 to 103/s). An anisotropic quadratic plasticity model with Swift-Voce hardening and Johnson-Cook rate- and temperature-dependence is identified to describe the behavior of the constituent base material under different stress-states and strain rates. Compression experiments at low and high loading speeds are conducted on elastically-isotropic shell-lattice structures to further validate the identified plasticity model in a structural application. It is found that the chosen plasticity model can describe the reaction force and deformation patterns of the smooth shell lattice loaded at different speeds and orientations with good accuracy. The experiments reveal that the additively-manufactured shell-lattices are capable of sustaining macroscopic compressive strains of more than 60% without visible fracture of the cell walls regardless of the loading speed. The comparison with the results for plate-lattice structures of the same mass elucidate the great energy absorption potential of shell-lattices.
+
+On the potential of recurrent neural networks for modeling path dependent plasticity
+Maysam B. Gorji, Mojtaba Mozaffar, Julian N. Heidenreich, Jian Cao and Dirk Mohr
+Journal of the Mechanics and Physics of Solids, vol. 143, pp. 103972, Elsevier, 2020.
+external page:
+DOI: 10.1016/j.jmps.2020.103972
+external page:
+Research Collection
+Abstract 
+
+The mathematical description of elastoplasticity is a highly complex problem due to the possible change from elastic to elasto-plastic behavior (and vice-versa) as a function of the loading path. Advanced physics-based plasticity models usually feature numerous internal variables (often of tensorial nature) along with a set of evolution equations and complementary conditions. In the present work, an attempt is made to come up with a machine-learning based model that can replicate the predictions anisotropic Yld2000-2d model with homogeneous anisotropic hardening (HAH). For this, a series of modeling problems of increasing complexity is formulated and sequentially addressed using neural network models. It is demonstrated that basic fully-connected neural network models can capture the characteristic non-linearities in the uniaxial stress-strain response such as the Bauschinger effect, permanent softening or latent hardening. A neural network with gated recurrent units (GRUs) and fully-connected layer is proposed for the modeling of plane stress plasticity for arbitrary loading paths. After training and testing the model through comparison with the Yld2000-2d/HAH model, the recurrent neural network model is also used to model the multi-axial stress-strain response of a two-dimensional foam. Here, the comparison with the results from unit cell simulations provided another validation of the proposed data-driven modeling approach.
+
+Dynamic perforation of lightweight armor: Temperature-dependent plasticity and fracture of aluminum 7020-T6
+Christian Roth, Teresa Fras and Dirk Mohr
+Mechanics of Materials, vol. 149, pp. 103537, Elsevier, 2020.
+external page:
+DOI: 10.1016/j.mechmat.2020.103537
+external page:
+Research Collection
+Abstract 
+
+The design of armored vehicles requires reliable constitutive models that are valid over a wide range of strain rates and temperatures. A comprehensive experimental program is executed to characterize the stress-strain response of high strength aluminum 7020-T6 at temperatures ranging from 20°C to 320°C. It includes tensile experiments on uniaxial, notched, central hole and shear specimens. Aside from low and intermediate strain rate experiments, high strain rate experiments are performed on a Split Hopkinson Pressure Bar (SHPB) system equipped with a load inversion device. Furthermore, hemispherical punch and V-bending experiments are performed to achieve equi-biaxial tension and transverse plane strain conditions. It is found that a Yld2000–3d plasticity model with isotropic strain hardening and thermal softening is suitable to describe the large deformation response, while a rate- and temperature-independent Hosford-Coulomb model is used to predict fracture. Impact experiments are performed on 4 mm thick targets with blunt, hemispherical and conical steel projectiles of 8 mm diameter and a mass of 13.8 g. The impact velocity is varied such that the full spectrum from the ballistic limit to complete penetration can be characterized. In addition, perpendicular and oblique configurations are considered. Numerical simulations are performed for all experiments confirming the validity of the identified constitutive model and providing unmatched insight into the dynamic penetration failure mechanism.
+
+Using neural networks to represent von Mises plasticity with isotropic hardening
+Annan Zhang and Dirk Mohr
+International Journal of Plasticity, vol. 132, pp. 102732, Elsevier, 2020.
+external page:
+DOI: 10.1016/j.ijplas.2020.102732
+external page:
+Research Collection
+Abstract 
+
+Neural networks are universal function approximators that form the backbone of most modern machine learning based models. Starting from a conventional return-mapping scheme, the algorithmic description of von Mises plasticity with isotropic hardening is mathematically reformulated such that the relationship between the strain and stress histories may be modeled through a neural network function. In essence, the neural network provides an estimate of the instantaneous elasto-plastic tangent matrix as a function of the current stress and plastic work density. For plane stress conditions, it thus describes a non-linear mapping from R4 R6. The neural network function is first developed for uniaxial stress conditions including loading histories with tension-compression reversal. Special attention is paid to the identification of the network architecture and artifacts related to overfitting. Furthermore, the performance of networks featuring the same number of total parameters, but different levels of non-linearity, is compared. It is found that a fully-connected feedforward network with five hidden layers and 15 neurons per layer can describe the plane stress plasticity problem with good accuracy. The results also show that a high density of training data (of the order of ten to hundred thousand points) is needed to obtain reasonable estimates for arbitrary loading paths with strains of up to 0.2. The final neural network model is implemented into finite element software through the user material subroutine interface. A simulation of a notched tension experiment is performed to demonstrate that the neural network model yields the same (heterogeneous) mechanical fields as a conventional J2 plasticity model. The present work demonstrates that it is feasible to describe the stress-strain response of a von Mises material through a neural network model without any explicit representation of the yield function, flow rule, hardening law or evolution constraints. It is emphasized that the demonstration of feasibility is the focus of the present work, while the assessment of potential computational advantages is deferred to future research. © 2020 Elsevier Ltd.
+
+On ductile fracture of 316L stainless steels at room and cryogenic temperature level: An engineering approach to determine material parameters
+Marcelo Paredes, Vincent Grolleau and Tomasz Wierzbicki
+Materialia, vol. 10, pp. 100624, Elsevier, 2020.
+external page:
+DOI: 10.1016/j.mtla.2020.100624
+external page:
+Research Collection
+Previous
+Next
+Related content
+The Group
+Research
+Education
+News
+How to Find Us
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Koch
+Administrative Assistant
+Email
+martikoc@ethz.ch
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Artificial Intelligence in Mechanics and Manufacturing
+Main Navigation
+The Group
+Research
+Education
+Publications
+(active)
+News
+How to Find Us
+Search
+Departments
+ETH Zurich
+D-MAVT
+IVP
+Artificial Intelligence in Mechanics and Manufacturing
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 7 loaded
+61 – 70 of 97
+Application of two fracture models in impact simulations
+Teresa Fras, Christian C. Roth and Dirk Mohr
+Bulletin of the Polish Academy of Sciences Technical Sciences, vol. 68: no. 2, pp. 317-325, Polish Academy of Sciences, 2020.
+external page:
+DOI: 10.24425/bpasts.2020.133120
+external page:
+Research Collection
+Age-stratified discrete compartment model of the COVID-19 epidemic with application to Switzerland
+Fadoua Balabdaoui and Dirk Mohr
+Scientific Reports, vol. 10: no. 1, pp. 21306, Nature, 2020.
+external page:
+DOI: 10.1038/s41598-020-77420-4
+external page:
+Research Collection
+Abstract 
+
+Compartmental models enable the analysis and prediction of an epidemic including the number of infected, hospitalized and deceased individuals in a population. They allow for computational case studies on non-pharmaceutical interventions thereby providing an important basis for policy makers. While research is ongoing on the transmission dynamics of the SARS-CoV-2 coronavirus, it is important to come up with epidemic models that can describe the main stages of the progression of the associated COVID-19 respiratory disease. We propose an age-stratified discrete compartment model as an alternative to differential equation based S-I-R type of models. The model captures the highly age-dependent progression of COVID-19 and is able to describe the day-by-day advancement of an infected individual in a modern health care system. The fully-identified model for Switzerland not only predicts the overall histories of the number of infected, hospitalized and deceased, but also the corresponding age-distributions. The model-based analysis of the outbreak reveals an average infection fatality ratio of 0.4% with a pronounced maximum of 9.5% for those aged ≥ 80 years. The predictions for different scenarios of relaxing the soft lockdown indicate a low risk of overloading the hospitals through a second wave of infections. However, there is a hidden risk of a significant increase in the total fatalities (by up to 200%) in case schools reopen with insufficient containment measures in place.
+
+Tracking Microstructure Evolution in Complex Biaxial Strain Paths: A Bulge Test Methodology for the Scanning Electron Microscope
+Emeric Plancher, K. Qu, Niels H. Vonk, Maysam B. Gorji, Thomas Tancogne-Dejean and Cemal C. Taşan
+Experimental Mechanics, vol. 60: no. 1, pp. 35-50, Springer, 2020.
+external page:
+DOI: 10.1007/s11340-019-00538-8
+external page:
+Research Collection
+Abstract 
+
+In this work, a novel method is presented to track site-specific microstructure evolution in metallic materials deformed biaxially along proportional and complex strain paths. A miniaturized bulge test setup featuring a removable sample holder was designed to enable incremental measurements to be performed in a scanning electron microscope, by probing the same position on the sample at different deformation levels, with electron backscatter diffraction (EBSD), electron channeling contrast imaging (ECCI) and other imaging modes. Validation experiments were performed at room temperature on samples prepared from commercial sheet metal (dual-phase steel) and foils (stainless steel). Local strain measurements with the digital image correlation technique confirmed that proportional strain paths with a strain ratio up to 5 can be investigated using elliptical dies in the bulge test holder. It is also shown how complex strain paths can be obtained using a combination of overlapping elliptical dies. Incremental EBSD and ECCI were conducted in configurations relevant for the multi-scale investigation of localized plasticity and damage mechanisms in dual-phase steel. Quantitative information regarding microstructure evolution (phase fractions, orientation fields, dislocation structures, etc.) and regarding local strain distributions could be successfully obtained. This type of data sheds light on underlying deformation mechanisms and provides opportunities to calibrate crystal plasticity models.
+
+Stiffness and strength of hexachiral honeycomb-like metamaterials
+Thomas Tancogne-Dejean, Nikolaos Karathanasopoulos and Dirk Mohr
+Journal of Applied Mechanics, vol. 86: no. 11, pp. 111010, American Society of Mechanical Engineers, 2019.
+external page:
+DOI: 10.1115/1.4044494
+external page:
+Research Collection
+Abstract 
+
+Two-dimensional hexachiral lattices belong to the family of honeycomb-like mechanical metamaterials such as triangular, hexagonal, and kagome lattices. The common feature of this family of beam-based metamaterials is their six-fold rotational symmetry which guarantees their (transversely-) isotropic elastic response. In the case of hexachiral lattices, a single geometric parameter may be introduced to control the degree of chirality such that the elastic Poisson's ratio can be adjusted between 0.33 and −0.8. Detailed finite element simulations are performed to establish the structure–property relationships for hexachiral lattices for relative densities ranging from 1% to 45%. It is shown that both the Young's and shear moduli are always lower for hexachiral structures than for optimal lattices (triangular and kagome). This result is in line with the general understanding that stretching-dominated architectures outperform bending-dominated architectures. The same conclusions may be drawn from the comparison of the tensile yield strength. However, hexachiral structures provide a lower degree of plastic anisotropy than stretching-dominated lattices. Furthermore, special hexachiral configurations have been identified that exhibit a slightly higher shear yield strength than triangular and kagome lattices, thereby presenting an example of bending-dominated architectures outperforming stretching-dominated architectures of equal mass. Tensile specimens have been additively manufactured from a tough PLA polymer and tested to partially validate the simulation results.
+
+Dynamic perforation of ultra-hard high-strength armor steel: Impact experiments and modeling
+Teresa Fras, Christian C. Roth and Dirk Mohr
+International Journal of Impact Engineering, vol. 131, pp. 256-271, Elsevier, 2019.
+external page:
+DOI: 10.1016/j.ijimpeng.2019.05.008
+external page:
+Research Collection
+Abstract 
+
+The dynamic perforation of 3 mm thick target plates extracted from ultra-high strength steel (Mars® 300) is investigated experimentally and computationally. Projectiles of 8 mm diameter are also extracted from Mars® 300 plates featuring blunt, conical and hemispherical tips. Using a single stage gas gun, impact experiments are performed with projectile velocities of up to 380 m/s. A minimum impact velocity of about 240 m/s (ballistic limit) was required to perforate the armor steel targets with conical and hemispherical projectiles of a mass of about 14 g. In all successful perforation experiments, the plate targets failed through plugging. At the same time, the conical and blunt projectiles are heavily deformed in a way that their final tip shape resembles that of the hemispherical projectiles. The latter turned out to be slightly more efficient than conical ones in the sense that their exit velocities are approximately 10% higher. Numerical simulations are performed of all impact experiments using the finite element software LS-DYNA. The plasticity model made use of a quadratic yield function with non-associated flow rule, a Swift-Voce strain hardening law and Johnson–Cook type of multipliers accounting for the effects of strain rate and temperature. The stress-triaxiality, Lode angle parameter and strain-rate dependent Hosford-Coulomb fracture initiation model is employed to predict the ductile failure of the Mars 300 steel. Overall, the simulation results are in good agreement with the experimental observations, including the mode of perforation (shear plugging) and the projectile exit velocities. The numerical simulations also show that a ring-like band of localized plastic deformation forms inside the targets with temperatures of up to 700°C. Fracture initiates from the back face of the plate under biaxial tension, while the cracks propagate through the band of localized plastic deformation towards the impacted front face of the plate, thereby forming a plug as the projectile passes through the target.
+
+High Strain Rate Response of Additively-Manufactured Plate-Lattices: Experiments and Modeling
+Thomas Tancogne-Dejean, Xueyang Li, Marianna Diamantopoulou, Christian Roth and Dirk Mohr
+Journal of Dynamic Behavior of Materials, vol. 5: no. 3, pp. 361-375, Springer, 2019.
+external page:
+DOI: 10.1007/s40870-019-00219-6
+external page:
+Research Collection
+Abstract 
+
+Plate-lattices are a new emerging class of isotropic cellular solids that attain the theoretical limits for the stiffness of porous materials. For the same mass, they are significantly stiffer than random foams or optimal truss-lattice structures. Plate-lattice structures of cubic symmetry are fabricated from stainless steel 316L through selective laser melting. A special direct impact Hopkinson bar system is employed to perform dynamic compression experiments at strain rates of about 500/s. In addition, tensile specimens are manufactured for characterizing the stress–strain response of the additively-manufactured cell wall material for strain rates ranging from 10⁻³ to 10³/s. The results show that plate-lattices of a relative density of 23% crush progressively when subject to large strain compression. Their specific energy absorption increases by about 8% when increasing the applied strain rate from 0.001 to 500/s, which is primarily attributed to the strain rate sensitivity of the base material. Good quantitative and qualitative agreement between the experiments and the simulations is observed when using a detailed finite element model of the plate structures in conjunction with a modified Johnson–Cook model. The comparison of the simulation results for plate- and truss-lattices of the equal-density reveal a 45% increase in specific energy absorption. Compression experiments on Ti–6Al–4V lattices revealed a low energy absorption due to the early fracture of the additively-manufactured cell wall material.
+
+Machine-learning based temperature- and rate-dependent plasticity model: Application to analysis of fracture experiments on DP steel
+Xueyang Li, Christian C. Roth and Dirk Mohr
+International Journal of Plasticity, vol. 118, pp. 320-344, Elsevier, 2019.
+external page:
+DOI: 10.1016/j.ijplas.2019.02.012
+external page:
+Research Collection
+Abstract 
+
+Slow, intermediate and high strain rate experiments are carried out on flat smooth and notched tensile specimens extracted from dual phase steel sheets. A split Hopkinson pressure bar testing system with load inversion device is utilized to achieve high strain rates. Temperature dependent experiments ranging from 20°C to 300°C are performed at quasi-static strain rates. The experimental results reveal a non-monotonic effect of the temperature on the stress-strain curve for DP800 steel. For the temperatures considered, the lowest and highest curves are obtained for 120°C and 300°C, respectively. A modified Johnson-Cook plasticity model is developed to capture the observed unconventional effect of the strain rate- and temperature on the hardening response. It includes a von Mises yield surface, a non-associated Hill'48 flow rule, a Swift-Voce reference stress-strain curve describing the rate-independent behavior at room temperature, and a neural network function depending on the plastic strain, strain rate and temperature. This model is implemented into a material user subroutine and identified using a combination of analytical formulas along with a resilient back propagation algorithm. It is found that the obtained machine-learning based Johnson-Cook plasticity model can describe all experimental data with high accuracy, including both force-displacement and local surface strain measurements. Using a hybrid experimental-numerical approach, the loading paths to fracture are determined. It is found that the temperature not only affects the plasticity of the DP800 steel in a non-monotonic manner, but also its strain to fracture, with ductility loss of up to 30% when increasing the temperature from 20 to 120°C, followed by a gain in ductility when increasing the temperature further to 300°C.
+
+Loading of mini-Nakazima specimens with a dihedral punch: Determining the strain to fracture for plane strain tension through stretch-bending
+Vincent Grolleau, Christian C. Roth, Vincent Lafilé and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 152, pp. 329-345, Elsevier, 2019.
+external page:
+DOI: 10.1016/j.ijmecsci.2019.01.005
+external page:
+Research Collection
+Abstract 
+
+A new experimental technique is proposed for measuring the strain to fracture for sheet metal after proportional loading under plane strain conditions. The proposed technique makes use of a mini-Nakazima specimen that is clamped onto a 30 mm diameter die and subjected to out-of-plane loading through a dihedral punch. While other techniques for determining the strain to fracture for plane strain tension loading (e.g. notched tension or V-bending) suffer from limitations with regards to the thickness and ductility of the material to be characterized, the mini-Nakazima experiments are more robust and universally applicable. Experiments are performed on mini-Nakazima, notched tension and V-bending specimens extracted from 1.2 mm thick aluminum 2024-T351, 0.8 mm thick DP450 and 1.6 mm thick DP980 steel. In addition, detailed numerical simulations are performed for each experiment. The hybrid experimental-numerical results show the limitations of existing experimental techniques and demonstrate the reliability of the proposed stretch-bending technique. As a by-product, it is shown that the Yld2000-3D yield function with associated flow rule provides a reasonably accurate description of the large deformation response of aluminum 2024-T351. Equally good predictions are obtained for the DP450 and DP980 steels when using a von Mises yield function in conjunction with a non-associated Hill'48 flow rule. Furthermore, to characterize the effects of the stress triaxiality and the Lode angle parameter on the fracture response of the above materials, the strains to fracture are determined for simple shear and equi-biaxial tension.
+
+Smooth-shell metamaterials of cubic symmetry: Anisotropic elasticity, yield strength and specific energy absorption
+Colin Bonatti and Dirk Mohr
+Acta Materialia, vol. 164, pp. 301-321, Elsevier, 2019.
+external page:
+DOI: 10.1016/j.actamat.2018.10.034
+external page:
+Research Collection
+Abstract 
+
+Shell-lattices consist of a single, periodic, non-intersecting shell of uniform wall thickness that separates two intertwined void phases. To obtain a comprehensive overview on their small and large strain response, three families of shell-lattices are derived from Simple-Cubic (SC), Face-Centered Cubic (FCC) and Body-Centered Cubic (BCC) tube-lattices using a parameterized surface-smoothening functional. Each family's central element is an approximation of a Triply Periodic Minimal Surface (TPMS). Detailed finite element simulations are carried out for more than 800 shell-lattices covering relative densities ranging from 1% to 80%. It is found that the TMPS-like structures exhibit highly anisotropic elastic and plastic properties that depend on the type of cubic symmetry. However, when averaging the mechanical properties over all possible directions of loading, the performance of the SC, FCC and BCC shell-lattices turns out to be similar, with all structures providing substantially higher stiffness and strength than optimal truss-lattices of equal mass. They also exhibit high specific energy absorption for large strain compression. It is found that the macroscopic deformation mode changes from foam-like crushing (for relative densities below 10%) to bulk-like positive strain hardening (for relative densities above 20%). The spectrum of anisotropic structures obtained through varying the bias parameter of the surface-defining functional also includes elastically-isotropic shell-lattices. The Young's modulus of the isotropic shell-lattices of FCC and BCC symmetry is slightly higher than the average modulus of their TPMS-like counterparts, while the opposite holds true for SC structures. Compression experiments are performed on additively-manufactured stainless steel 316L specimens to validate the conclusions drawn from numerical simulations.
+
+Mechanical performance of additively-manufactured anisotropic and isotropic smooth shell-lattice materials: Simulations & experiments
+Colin Bonatti and Dirk Mohr
+Journal of the Mechanics and Physics of Solids, vol. 122, pp. 1-26, Elsevier, 2019.
+external page:
+DOI: 10.1016/j.jmps.2018.08.022
+external page:
+Research Collection
+Abstract 
+
+A novel family of smooth-shell structures is introduced as mechanical metamaterials of exceptional specific energy absorption capacity. The proposed shell structures respect all symmetries of the face-centered cubic crystal. To obtain a smooth curvature shell structure, the exact shape of the shell mid-plane is determined through the minimization of a bending-energy based measure of the overall curvature. Among the members of this new family, the mechanical properties of a Triply Periodic Minimal Surface (TPMS) -like architecture and an elastically-isotropic derivate are investigated in detail. The TPMS-like structure showed important anisotropy in both its small and large strain responses, with loading-direction dependent differences in stiffness of more than 100%. The mechanical properties of the elastically-isotropic shell-lattice turned out to be close to the mean value for all directions of loading for the TPMS-like structures. For relative densities ranging from 1% to 50%, the shell-lattices always exhibited a higher mechanical performance than truss-lattices of equal density. For relative densities greater than 20%, the mechanical response of the shell-lattices is more stable than that of truss-lattices which makes them particularly suitable as higher order structures in hierarchical metamaterial design. The computational results are partially confirmed through compression experiments on additively-manufactured stainless steel specimens. A direct comparison of the stress–strain curve of additively-manufactured stainless steel 316 L with that of sheets made from the same alloy revealed an increase in yield strength of about 30% related to the selective laser melting process.
+
+Previous
+Next
+Related content
+The Group
+Research
+Education
+News
+How to Find Us
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Koch
+Administrative Assistant
+Email
+martikoc@ethz.ch
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Artificial Intelligence in Mechanics and Manufacturing
+Main Navigation
+The Group
+Research
+Education
+Publications
+(active)
+News
+How to Find Us
+Search
+Departments
+ETH Zurich
+D-MAVT
+IVP
+Artificial Intelligence in Mechanics and Manufacturing
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 8 loaded
+71 – 80 of 97
+Determining the strain to fracture for simple shear for a wide range of sheet metals
+Christian C. Roth and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 149, pp. 224-240, Elsevier, 2018.
+external page:
+DOI: 10.1016/j.ijmecsci.2018.10.007
+external page:
+Research Collection
+Abstract 
+
+There is a particularly high degree of experimental uncertainty associated with the determination of the strain to fracture for simple shear. In most shear specimens, different stress states coexist and it is usually impossible to prove experimentally that fracture indeed initiated in the sheared zones. Peirs’ simple shear specimen is analyzed in detail for nine generic materials covering different combinations from low to high strain hardening and from low ductility to high ductility. It is found that the validity of the shear fracture strain measurement depends on the strain hardening capability and the ductility of the material being tested, with a higher likelihood of validity for low hardening and low ductility materials. An extensive parametric study evaluating more than 600 distinct specimen geometries is performed in an attempt to identify a universal specimen geometry. It turns out that no single geometry exists which provides reliable measurements for all types of materials. While a single geometry can be found for different hardening behaviors, it seems to be necessary to use several distinct geometries to cover all levels of ductility. Since the ductility is usually not known prior to testing, we recommend testing three different types of specimen per material, reporting the highest measured strain among all specimens as strain to fracture for simple shear. Experiments are performed on specimens extracted from aluminum AA2024-T351, as well as DP800 and DP980 dual phase steels to demonstrate the validity of the proposed experimental methodology for identifying the strain to fracture for simple shear.
+
+3D Plate‐Lattices: An Emerging Class of Low‐Density Metamaterial Exhibiting Optimal Isotropic Stiffness
+Thomas Tancogne-Dejean, Marianna Diamantopoulou, Maysam B. Gorji, Colin Bonatti and Dirk Mohr
+Advanced Materials, vol. 30: no. 45, pp. 1803334, Wiley, 2018.
+external page:
+DOI: 10.1002/adma.201803334
+external page:
+Research Collection
+Abstract 
+
+In lightweight engineering, there is a constant quest for low‐density materials featuring high mass‐specific stiffness and strength. Additively‐manufactured metamaterials are particularly promising candidates as the controlled introduction of porosity allows for tailoring their density while activating strengthening size‐effects at the nano‐ and microstructural level. Here, plate‐lattices are conceived by placing plates along the closest‐packed planes of crystal structures. Based on theoretical analysis, a general design map is developed for elastically isotropic plate‐lattices of cubic symmetry. In addition to validating the design map, detailed computational analysis reveals that there even exist plate‐lattice compositions that provide nearly isotropic yield strength together with elastic isotropy. The most striking feature of plate‐lattices is that their stiffness and yield strength are within a few percent of the theoretical limits for isotropic porous solids. This implies that the stiffness of isotropic plate‐lattices is up to three times higher than that of the stiffest truss‐lattices of equal mass. This stiffness advantage is also confirmed by experiments on truss‐ and plate‐lattice specimens fabricated through direct laser writing. Due to their porous internal structure, the potential impact of the new metamaterials reported here goes beyond lightweight engineering, including applications for heat‐exchange, thermal insulation, acoustics, and biomedical engineering.
+
+Hosford-Coulomb ductile failure model for shell elements: Experimental identification and validation for DP980 steel and aluminum 6016-T4
+Keunhwan Pack, Thomas Tancogne-Dejean, Maysam B. Gorji and Dirk Mohr
+International Journal of Solids and Structures, vol. 151, pp. 214-232, Elsevier, 2018.
+external page:
+DOI: 10.1016/j.ijsolstr.2018.08.006
+external page:
+Research Collection
+Abstract 
+
+When using shell elements, the Domain of Shell-to-Solid Equivalence (DSSE) needs to be defined in addition to the Hosford-Coulomb (HC) fracture initiation model to guarantee the convergence of the initiation of ductile fracture with respect to the mesh size. A comprehensive plasticity and fracture testing program is performed on 0.8 mm thick DP980 steel sheets. It includes uniaxial tension experiments along different material directions to characterize the plastic response, as well as simple shear, V-bending, and punch experiments to characterize the HC model parameters. Nakazima, tension, and bending experiments are performed on flat specimens with different notch radii to validate the predictions obtained with the combined DSSE-HC model. Aside from calibrating and validating the model for DP980 steel sheets, the model parameters are also identified from experiments on 1 mm thick aluminum 6016-T4 sheets and validated through numerical simulations of the deep drawing of a triangularly-shaped cup. The good agreement of the shell element simulations with all experiments demonstrates that the DSSE-HC model is capable of providing reasonable predictions of the onset of ductile failure for both membrane- and bending-dominated loading conditions.
+
+Ductile damage mechanism under shear-dominated loading: In-situ tomography experiments on dual phase steel and localization analysis
+Christian C. Roth, Thilo F. Morgeneyer, Yin Cheng, Lukas Helfen and Dirk Mohr
+International Journal of Plasticity, vol. 109, pp. 169-192, Elsevier, 2018.
+external page:
+DOI: 10.1016/j.ijplas.2018.06.003
+external page:
+Research Collection
+Abstract 
+
+The nucleation, evolution and coalescence of voids is the well-established mechanism leading to ductile fracture under tension-dominated loading conditions. From a theoretical point of view, the same mechanism also applies to shear-dominated loading conditions. Here, an attempt is made to provide for the first time tomographic evidence of damage nucleation and evolution under shear-dominated loading in a modern engineering material. Monotonic experiments are performed on a flat double gage section smiley-shear specimen on the laminography stage of a synchrotron X-ray line. Based on fifteen scans of the entire gage section μm³, the mesostructural evolution inside a ferrite-bainite steel (FB600) is imaged in 3D up to the instant of specimen fracture. It is found that the as-received material includes a volume fraction of about 0.015% CaO particles. Upon mechanical loading at stress triaxialities evolving from 0 to 0.3, the ductile matrix detaches from these second phase particles, creating a prolate void space whose principal axis is aligned with the principal direction of the applied macroscopic field of deformation. The void space continues to grow while developing micro-crack like features. A large deformation analysis is performed on a representative volume element of the particle-matrix mesostructure replicating the experimental observations of void growth in an approximate manner. Furthermore, the simulation results suggest that a porosity as low as 0.05% is already sufficient to cause the ductile failure under shear-dominated loading through the formation of a band of localized plastic deformation at the mesoscale.
+
+Elastically-isotropic elementary cubic lattices composed of tailored hollow beams
+Thomas Tancogne-Dejean and Dirk Mohr
+Extreme Mechanics Letters, vol. 22, pp. 13-18, Elsevier, 2018.
+external page:
+DOI: 10.1016/j.eml.2018.04.005
+external page:
+Research Collection
+Abstract 
+
+In previous works, mechanical metamaterials exhibiting isotropic elastic properties have been obtained using combinations of the elastically-anisotropic elementary cubic truss lattices (simple-cubic, body-centered cubic or face-centered cubic truss lattice structures). In the present work, a new family of elastically-isotropic elementary cubic truss lattice structures is developed, eliminating the need of combining elementary structures to achieve elastic isotropy. Depending on the direction of loading, the nature of the mechanical response of cubic elementary trusses changes smoothly from bending-dominated to stretching-dominated. It is thus possible to tailor the apparent anisotropy at the macroscopic level by changing the ratio of bending-to-axial stiffness of the constituent beams. Here, the latter is achieved by changing the ratio of inner-to-outer diameter of hollow tubes. It is shown through unit cell simulations that an optimal diameter ratio exists achieving elastic isotropy for all three elementary cubic trusses for the full range of relative densities considered (1 to 50%). Selected polymer trusses are additively-manufactured using stereolithography and subjected to uniaxial compression along different directions of loading to provide a partial experimental validation of the proposed design maps.
+
+Stiffness and specific energy absorption of additively-manufactured metallic BCC metamaterials composed of tapered beams
+Thomas Tancogne-Dejean and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 141, pp. 101-116, Elsevier, 2018.
+external page:
+DOI: 10.1016/j.ijmecsci.2018.03.027
+external page:
+Research Collection
+Abstract 
+
+Periodic beam networks of Body-Centered Cubic (BCC) symmetry belong to the same family of cubic metamaterials as the well-known Face-Centered Cubic (FCC) octet truss lattice. Analytical closed form expressions are derived to compute their homogenized macroscopic moduli as a function of the relative density. Detailed finite element simulations are performed to confirm the analytical results. The large strain compression response of BCC lattices is also investigated numerically, showing that for any relative density, their crushing response is stable in the sense that the engineering stress-strain curve increases monotonically until densification. Both theoretical considerations and numerical simulations demonstrate that the tapering of the beam cross-sections leads to higher specific mechanical properties, with increases in the effective Young's modulus and specific energy absorption of up to 70% and 45%, respectively. To validate the specific energy absorption estimates, static compression experiments are also performed on specimens of 10%, 20% and 30% relative density and minimum beam diameter of 300 µm made from stainless steel 316 L through selective laser melting. In addition, dynamic compression experiments at strain rates of about 500/s are performed on a Hopkinson pressure bar system revealing a dynamic increase factor of 1.3 for the BCC metamaterials, which is comparable to that of the basis material. The comparison of the BCC and FCC lattice materials shows that the BCC Young's modulus for the stiffest material direction is higher than that for the FCC truss lattice, while the opposite holds true for the softest directions.
+
+Elastically-isotropic truss lattice materials of reduced plastic anisotropy
+Thomas Tancogne-Dejean and Dirk Mohr
+International Journal of Solids and Structures, vol. 138, pp. 24-39, Elsevier, 2018.
+external page:
+DOI: 10.1016/j.ijsolstr.2017.12.025
+external page:
+Research Collection
+Abstract 
+
+The elastically-anisotropic octet truss lattice exhibits high specific stiffness due to its stretching-dominated mechanical behavior. Here, elastically-isotropic truss lattices are designed in a way that the constituent beams respond in a stretching-dominated manner instead of bending. Topology constraints ensuring an isotropic elastic response at the macroscopic level are derived from a detailed theoretical analysis of generic periodic truss structures. Specific elastically-isotropic structures are designed by combining elementary cubic truss lattices including the Simple Cubic (SC), Body-Centered Cubic (BCC) and Face-Centered Cubic (FCC) lattices. It is shown through periodic homogenization that these isotropic truss lattice compositions exhibit less initial yield anisotropy than the octet truss lattice. For example, the ratio of maximum to minimum yield stress of an SC-BCC-FCC truss lattice composition is 1.4 as compared to 2 for the octet truss lattice. Computational unit cell analysis is carried out to confirm the analytical Young's modulus and yield stress estimates. Selected isotropic structures of 20% relative density are built from a photopolymer using stereolithography. The Young's modulus and Poison's ratio measurements on specimens with different lattice orientations confirm the validity of the design constraints. In addition, the trends regarding the plastic anisotropy are confirmed by the experimental results.
+
+Heterogeneous random medium plasticity and fracture model of additively-manufactured Ti-6A1-4V
+Maysam B. Gorji, Thomas Tancogne-Dejean and Dirk Mohr
+Acta Materialia, vol. 148, pp. 442-455, Elsevier, 2018.
+external page:
+DOI: 10.1016/j.actamat.2018.02.025
+external page:
+Research Collection
+Abstract 
+
+The large deformation response of Ti-6Al-4V structures made through shaped metal deposition is heavily affected by the prior-beta grain structure induced by the manufacturing process. Based on more than 25 tension and shear experiments on individual prior-beta grains, the statistical distribution of the isotropic hardening response of prior-beta grains is identified. In close analogy with Crystal Plasticity Finite Element (CPFE) analysis, Voronoi tesselation is used to generate finite element models of additively-manufactured structures containing multiple prior-beta grains. For each prior-beta grain, a different hardening curve is assigned using a random pull from the truncated Gaussian distribution of Hockett-Sherby type of hardening curves. Similarly, the parameters of the Hosford-Coulomb fracture initiation model are assigned. The comparison of the CPFE simulation results with the experimental results on tension specimens containing multiple prior-beta grains, shows good qualitative and quantitative agreement with regards to the force-displacement response, the surface strain fields, and fracture occurrences. The results demonstrate that the failure of additively-manufactured Ti-6Al-4V components through ductile fracture requires a heterogeneous random medium modeling approach. While the present study focuses on strength and hardening variations, it is noted that further improvements are expected when considering the known texture mismatch between prior-beta grains along with detailed models of the prior-beta grain boundaries.
+
+Predicting shear fracture of aluminum 6016-T4 during deep drawing: Combining Yld-2000 plasticity with Hosford–Coulomb fracture model
+Maysam B. Gorji and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 137, pp. 105-120, Elsevier, 2018.
+external page:
+DOI: 10.1016/j.ijmecsci.2018.01.008
+external page:
+Research Collection
+Abstract 
+
+Shear fracture cannot be predicted with conventional forming limit curves even though it often limits the formability of modern engineering materials. To circumvent the need of a special set of ductile fracture experiments in addition to standard forming experiments, a hybrid experimental–numerical procedure is proposed to identify the three material parameters of the Hosford–Coulomb fracture initiation model from the same experiments that are used to identify the forming limit curve. To increase the reliability of the model identification, a cup drawing experiment is proposed to characterize the fracture response of out-of-plane shear loading. Uniaxial tension, bulge, Nakazima and drawing experiments are performed on specimens extracted from 1 mm thick aluminum 6016-T4 sheets. The anisotropic Yld2000 plasticity model with self-similar Swift-Voce hardening is identified to describe the large deformation response. The loading paths to fracture for stress states ranging from pure shear to equi-biaxial tension are obtained from detailed numerical simulations of all forming experiments. The identified material parameters of the Hosford–Coulomb model reveal that the fracture response of the aluminum 6016-T4 alloy is highly Lode angle dependent. Aside from identifying the anisotropic plasticity, the forming limit curve and the stress-state dependent fracture model, the deep drawing of a complex three-dimensional part with a triangular-shaped die is performed experimentally and simulated to validate the models at the structural level.
+
+Stress-state and strain-rate dependent ductile fracture of dual and complex phase steel
+Borja Erice, Christian C. Roth and Dirk Mohr
+Mechanics of Materials, vol. 116, pp. 11-32, Elsevier, 2018.
+external page:
+DOI: 10.1016/j.mechmat.2017.07.020
+external page:
+Research Collection
+Abstract 
+
+A comprehensive combined hybrid numerical-experimental program is executed on three advanced high strength steels (DP980, CP980 and CP1180) with the objective of validating (1) the hypothesis of a positive strain rate effect on the ductility under biaxial tension, as well as (2) the Hosford–Coulomb model assumptions with regards to the Lode parameter and stress triaxiality dependency of fracture initiation. The basic low strain rate testing program included punch, notched tension, central hole tension and smiley shear experiments. In addition, intermediate and high strain rate SHPB experiments are carried out to characterize the effect of strain rate. A non-associated quadratic plasticity model with Swift-Voce hardening and Johnson–Cook type of strain rate and temperature dependency is employed to model the large deformation response. The fracture model parameters are identified based on the loading paths to fracture extracted from numerical simulations with fine solid element meshes up to the point of fracture initiation in the experiments. It is found that the simple three-parameter Hosford–Coulomb model can describe the pronounced stress state effect on the strain to fracture for all materials. The results for notched tension also confirm that the ductility increases as function of the loading velocity for biaxial loading.
+
+Previous
+Next
+Related content
+The Group
+Research
+Education
+News
+How to Find Us
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Koch
+Administrative Assistant
+Email
+martikoc@ethz.ch
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Artificial Intelligence in Mechanics and Manufacturing
+Main Navigation
+The Group
+Research
+Education
+Publications
+(active)
+News
+How to Find Us
+Search
+Departments
+ETH Zurich
+D-MAVT
+IVP
+Artificial Intelligence in Mechanics and Manufacturing
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 9 loaded
+81 – 90 of 97
+Fracture of high-strength armor steel under impact loading
+Teresa Fras, Christian C. Roth and Dirk Mohr
+International Journal of Impact Engineering, vol. 111, pp. 147-164, Elsevier, 2018.
+external page:
+DOI: 10.1016/j.ijimpeng.2017.09.009
+external page:
+Research Collection
+Abstract 
+
+Mars® 300 is an ultrahigh hard armor (UHHA) martensitic steel designed for ballistic protection. It is available in sheets of different thicknesses and also as perforated plates with a periodic pattern of cylindrical holes. Installed as an add-on layer in front of a main armor, its aim is to cause deflection or fragmentation of small-caliber projectiles. In the present study, the impact process is investigated with a hybrid experimental-numerical approach. Ductile fracture experiments are carried out at different stress states, strain rates and temperatures on a range of flat Mars® 300 steel specimens to identify the plasticity and fracture response. The plasticity model is composed of von Mises yield surface, a non-associated anisotropic flow rule, a combined Swift–Voce strain hardening law and a Johnson–Cook type of rate and temperature-dependency. To predict the onset of fracture, a stress state and strain rate-dependent Hosford–Coulomb fracture initiation model is used. Impact experiments are performed on targets of homogenous and perforated Mars® 300 plates by accelerating cylindrical Mars® 300 projectiles in a single-stage gas gun. Depending on the impact location, three different failure mechanisms are identified for the perforated plate. Subsequently, finite element simulations using the calibrated material model are carried out to thoroughly analyze the impact experiments. A very good prediction of the different impact cases and their fracture patterns is obtained, validating the applicability of the plasticity and the fracture model for impact loadings.
+
+Predicting the rate-dependent loading paths to fracture in advanced high strength steels using an extended mechanical threshold model
+Matthieu Dunand and Dirk Mohr
+International Journal of Impact Engineering, vol. 108, pp. 272-285, Elsevier, 2017.
+external page:
+DOI: 10.1016/j.ijimpeng.2017.02.020
+external page:
+Research Collection
+Combined necking & fracture model to predict ductile failure with shell finite elements
+Keunhwan Pack and Dirk Mohr
+Engineering Fracture Mechanics, vol. 182, pp. 32-51, Elsevier, 2017.
+external page:
+DOI: 10.1016/j.engfracmech.2017.06.025
+external page:
+Research Collection
+Abstract 
+
+The implementation of recent progress on stress state dependent ductile fracture models is inhibited by the break-down of shell element solutions whenever through-thickness necking occurs. The concept of the Domain of Shell-to-Solid Equivalence (DSSE) is therefore introduced to capture the onset of localized necking with shell element meshes. As long as the elasto-plastic loading paths lie inside the DSSE, ductile fracture may be predicted with shell elements using exactly the same models as for solid elements. A simple criterion describing the boundary of the DSSE is proposed based on the results from Marciniak-Kuczynski type of localization analysis. It is combined with the stress triaxiality and Lode angle dependent Hosford-Coulomb (HC) fracture initiation model and implemented as a user material subroutine for explicit finite element analysis. The combined DSSE-HC model is validated for a DP780 steel for notched tension, hemispherical punch loading, stretch bending, and V-bending of strips.
+
+Micro-tension and micro-shear experiments to characterize stress-state dependent ductile fracture
+Maysam B. Gorji and Dirk Mohr
+Acta Materialia, vol. 131, pp. 65-76, Elsevier, 2017.
+external page:
+DOI: 10.1016/j.actamat.2017.03.034
+external page:
+Research Collection
+Paint-bake effect on the plasticity and fracture of pre-strained aluminum 6451 sheets
+Rami Abi-Akl and Dirk Mohr
+International Journal of Mechanical Sciences, vol. 124, pp. 68-82, Elsevier, 2017.
+external page:
+DOI: 10.1016/j.ijmecsci.2017.01.002
+external page:
+Research Collection
+Abstract 
+
+In automotive engineering, sheet metal components are subject to a 20–30 min heat treatment at 180 C during paint baking. This process may significantly alter the mechanical properties of 6000-series aluminum alloys through artificial ageing. Here, a comprehensive experimental program is carried out to characterize the anisotropic plasticity and the fracture initiation in pre-strained artificially-aged aluminum 6451 sheets. It is found that the combination of pre-straining up to 5% strain and heat treatment mainly changes the material's strain hardening behavior and the stress-state sensitivity of its fracture response. The material parameters of the Yld2000-2d plasticity model with combined Swift-Voce hardening are identified for four distinct materials from uniaxial tension and shear experiments. The corresponding Hosford-Coulomb fracture model parameters are determined from smiley shear, V-bending and punch experiments. As an important byproduct of the research, the Yld2000-2d and Hosford-Coulomb models are successfully validated for all four materials through notched and central hole tension experiments. Simple empirical expressions are also provided to estimate the material properties as a function of the pre-strain in engineering practice.
+
+Large deformation response of additively-manufactured FCC metamaterials: From octet truss lattices towards continuous shell mesostructures
+Colin Bonatti and Dirk Mohr
+International Journal of Plasticity, vol. 92, pp. 122-147, Elsevier, 2017.
+external page:
+DOI: 10.1016/j.ijplas.2017.02.003
+external page:
+Research Collection
+Abstract 
+
+Starting with the statically-determinate solid octet truss lattice, the large strain compression response of different metamaterial architectures is analyzed through finite element analysis and compression experiments on additively-manufactured stainless steel specimens. Simulation results clearly demonstrate that for a relative density of 20% the conventional solid octet-truss lattice has a lower specific energy absorption capability than some simple periodic shell structures. The analysis of the closed-packed hollow sphere assembly subject to hydrostatic compression reveals that the constituent hollow spheres initially transform into rhombic dodecahedra, which results in significant strengthening at the macroscopic level. Unlike the octet-truss with solid struts, hollow octet truss structures remain stable for hydrostatic, confined and uniaxial compression at the lowest relative density considered. Its strength, in particular at small plastic strains, is substantially improved when substituting the geometric hollow truss joints for hollow spheres. The continuous shell mesostructures defined by the Hybrid (hollow) Truss-Sphere (HTS) and the hollow octet truss assembly exhibited the highest strength and energy absorption potential at 20% relative density for the high and low strain-hardening materials considered, respectively. Moreover, it is found that the HTS metamaterial exhibits the highest relative Young's and bulk moduli among all four architectures considered. It is also shown computationally that hollow rhombic dodecahedral mesostructures could provide nearly twice the strength and energy absorption of the conventional octet truss.
+
+Prediction of shear-dominated ductile fracture in a butterfly specimen using a model of plastic porous solids including void shape effects
+Léo Morin, Jean-Baptiste Leblond, Dirk Mohr and Djimédo Kondo
+European Journal of Mechanics - A/Solids, vol. 61, pp. 433-442, Elsevier, 2017.
+external page:
+DOI: 10.1016/j.euromechsol.2016.10.014
+external page:
+Research Collection
+Abstract 
+
+The aim of this paper is to investigate ductile failure under shear-dominated loadings using a model of plastic porous solids incorporating void shape effects. We use the model proposed by (Madou and Leblond, 2012a,b; Madou et al., 2013; Madou and Leblond, 2013) to study the fracture of butterfly specimens subjected to combined tension and shear. This model is able to reproduce, for various loading conditions, the macroscopic softening behavior and the location of cracks observed in experiments performed by Dunand and Mohr (2011a,b). Void shape effects appear to have a very significant influence on ductile damage at low stress triaxiality.
+
+Additively-manufactured metallic micro-lattice materials for high specific energy absorption under static and dynamic loading
+Thomas Tancogne-Dejean, Adriaan B. Spierings and Dirk Mohr
+Acta Materialia, vol. 116, pp. 14-28, Elsevier, 2016.
+external page:
+DOI: 10.1016/j.actamat.2016.05.054
+external page:
+Research Collection
+Abstract 
+
+An octet truss lattice material is designed for energy absorption purposes featuring an exceptionally high specific energy absorption, a constant plateau stress between initial yield and densification, and zero plastic Poisson's ratio. It is demonstrated through detailed finite element simulations that the meso-structural response of metallic lattice materials under compression changes from an unstable twist mode to a stable buckling free mode at a relative density of about 0.3. Furthermore, it is found that the nature of the macroscopic stress-strain curve changes from mildly-oscillating to monotonically-increasing as the meso-structural deformation mode changes, while a stress-plateau is observed at relative densities above 0.3. Since the specific energy absorption is a monotonically increasing function of the relative density, lattice materials of relative densities around 0.3 feature both a plateau stress and a high specific energy absorption capability. Prototype materials are built from stainless steel 316L using Selective Laser Melting. The basic building element of the micro-lattices are 2.2 mm long beams with a 500 μm diameter cross-sections. Detailed micro- and meso-structural analysis including tomography, microscopy and EBSD analysis revealed substantial local material property variations within the lattice structure. Compression experiments are performed under static and dynamic loading conditions confirming the anticipated exceptional energy absorption material characteristics for strain rates of up to 1000/s.
+
+Critical hardening rate model for predicting path-dependent ductile fracture
+Stephane J. Marcadet and Dirk Mohr
+International Journal of Fracture, vol. 200: no. 1, pp. 77-98, Springer, 2016.
+external page:
+DOI: 10.1007/s10704-016-0130-x
+external page:
+Research Collection
+Abstract 
+
+A new phenomenological framework for predicting ductile fracture after non-proportional loading paths is proposed, implemented into FE software and validated experimentally for a limited set of monotonic and reverse loading conditions. Assuming that ductile fracture initiation is imminent with the formation of a shear band, a shear localization criterion in terms of the elastoplastic tangent matrix is sufficient from a theoretical point of view to predict ductile fracture after proportional and non-proportional loading. As a computationally efficient alternative to analyzing the acoustic tensor, a phenomenological criterion is proposed which expresses the equivalent hardening rate at the onset of fracture as a function of the stress triaxiality and the Lode angle parameter. The mathematical form of the criterion is chosen such that it reduces to the Hosford–Coulomb criterion for proportional loading. The proposed framework implies that the plasticity model is responsible for the effect of loading history on ductile fracture. Important non-isotropic hardening features such as the Bauschinger effect, transient softening and hardening stagnation must be taken into account by the plasticity model formulation to obtain reasonable fracture predictions after non-proportional loading histories. A new comprehensive plasticity model taking the above effects into account is thus an important byproduct of this work. In addition, compression–tension and reverse-shear experiments are performed on specimens extracted from dual-phase steel sheets to validate the proposed plasticity and fracture model.
+
+Ductile fracture experiments with locally proportional loading histories
+Christian C. Roth and Dirk Mohr
+International Journal of Plasticity, vol. 79, pp. 328-354, Elsevier, 2016.
+external page:
+DOI: 10.1016/j.ijplas.2015.08.004
+external page:
+Research Collection
+Abstract 
+
+Basic ductile fracture experiments for sheet metal (or flat coupons extracted from bulk material) are presented to characterize the onset of fracture at different stress states. Special emphasis is placed on designing the experiments such that the stress triaxiality and the Lode angle parameter remain constant while the specimen is loaded all the way to fracture. A new in-plane specimen with two parallel gage sections is proposed to determine the strain to fracture for approximately zero stress triaxiality. A FEA based methodology is shown to identify the optimal specimen geometry as a function of the material's ductility and strain hardening. A tension specimen with a central hole is investigated in detail with regard to determining the strain to fracture for uniaxial tension. It is found that the required hole-to-ligament width ratio decreases as a function of the material ductility and increases as a function of the strain hardening exponent. The bending of a wide strip is pursued to prevent the necking prior to fracture under plane strain tension conditions, while an Erichsen-type of punch test is used to characterize the material response for equi-biaxial tension. It is worth noting that the strain to fracture can be directly determined from surface strain measurements in the cases of shear, plane strain tension and equi-biaxial tension loading, thereby removing the need to perform finite element simulations for extracting the loading path to fracture.
+
+Previous
+Next
+Related content
+The Group
+Research
+Education
+News
+How to Find Us
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Koch
+Administrative Assistant
+Email
+martikoc@ethz.ch
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Artificial Intelligence in Mechanics and Manufacturing
+Main Navigation
+The Group
+Research
+Education
+Publications
+(active)
+News
+How to Find Us
+Search
+Departments
+ETH Zurich
+D-MAVT
+IVP
+Artificial Intelligence in Mechanics and Manufacturing
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 10 loaded
+91 – 97 of 97
+Probabilistic fracture of Ti-6Al-4V made through additive layer manufacturing
+Thomas Tancogne-Dejean, Christian C. Roth, Udisien Woy and Dirk Mohr
+International Journal of Plasticity, vol. 78, pp. 145-172, Elsevier, 2016.
+external page:
+DOI: 10.1016/j.ijplas.2015.09.007
+external page:
+Research Collection
+Abstract 
+
+The large deformation response of Ti-6Al-4V parts made through additive layer manufacturing is investigated. A wire-feed process is chosen instead of a powder process in an attempt to reduce the oxide contaminations of the final part. The experimental program includes uniaxial tension experiments along different part directions and fracture experiments on flat specimens with cut-outs covering stress states ranging from pure shear to equi-biaxial tension. More than 100 experiments are performed in total to characterize the randomness in the material's fracture response. It is found that the stress-strain response of the ALM material is comparable to that of Ti-6Al-4V sheet stock, while its average ductility is substantially lower. For example, for pure shear loading, the average strain to fracture for the ALM material is 0.47, while the mill product of the same alloy failed at a strain of 0.65. A probabilistic extension of the stress state dependent Hosford-Coulomb fracture initiation model is proposed to account for the significant standard deviation in the identified strains to fracture. Microscopic and surface strain field analysis demonstrate that the initiation and propagation of ductile fracture in the ALM material is strongly affected by the presence of prior-beta grains.
+
+Anisotropic viscoplasticity and fracture of fine grained metallic aluminum foil used in Li-ion batteries
+Colin Bonatti and Dirk Mohr
+Materials Science and Engineering: A, vol. 654, pp. 329-343, Elsevier, 2016.
+external page:
+DOI: 10.1016/j.msea.2015.11.048
+external page:
+Research Collection
+Abstract 
+
+Aluminum 1235-H18 foils with sub-micron grain dimensions are often used as current collectors in Li-ion batteries. Due to their contribution to the structural integrity of batteries under impact loading, their plastic and fracture response is investigated in detail. Using a novel micro-tensile testing device with a piezoelectric actuator, dogbone specimens with a 1.25 mm wide and 5.7 mm long gage section are tested for three different in-plane material orientations and for strain rates ranging from 10⁻⁵/s to 10⁻²/s. It was found that the stress at a proof strain of 2% increased by about 25% from 160MPa to 200MPa within this range of strain rates. Furthermore, pronounced in-plane anisotropy is observed as reflected by Lankford ratios variations from 0.2 to 1.5. A material model is proposed which borrows elements of the anisotropic Yld2000-2d plasticity model and integrates these into a basic viscoplasticity framework that assumes the multiplicative decomposition of the equivalent stress into a strain and strain rate dependent contributions. The anisotropic fracture response is characterized for a strain rate of 10⁻⁴/s using notched tension and Hasek punch experiments. It is found that a simple stress-state independent version of the anisotropic MMC fracture initiation model provides a reasonable approximation of the observed experimental results.
+
+Compact SHPB System for Intermediate and High Strain Rate Plasticity and Fracture Testing of Sheet Metal
+Christian C. Roth, Gérard Gary and Dirk Mohr
+Experimental Mechanics, vol. 55: no. 9, pp. 1803-1811, Springer, 2015.
+external page:
+DOI: 10.1007/s11340-015-0061-x
+external page:
+Research Collection
+Abstract 
+
+A new set-up is proposed to perform high strain rate tension experiments on sheet metal using a compression Hopkinson bar system on the input side. With the help of a custom-made load inversion device, the compression loading pulse is converted into tensile loading of the specimen boundary. A tensile output bar is used to measure the tensile force acting on the specimen boundaries. A high speed camera system is employed to measure the displacement history at the specimen level through planar digital image correlation. The output bar is positioned on top of the input bar. As a result, the valid experiment duration of the proposed system is twice as long as that of conventional Kolsky systems. It therefore facilitates the execution of intermediate strain rate (~100/s) experiments without increasing total system length. Numerical simulations are carried out to assess the effect of spurious bending effects that are introduced through the eccentricity of the input and output bar axes. In addition, experiments are performed on straight and notched specimens to demonstrate the characterization of the rate dependent plasticity and fracture properties of a 1.06 mm thick DP780 steel.
+
+Anisotropic Hosford-Coulomb fracture initiation model: Theory and application
+Gongyao Gu and Dirk Mohr
+Engineering Fracture Mechanics, vol. 147, pp. 480-497, Elsevier, 2015.
+external page:
+DOI: 10.1016/j.engfracmech.2015.08.004
+external page:
+Research Collection
+Abstract 
+
+An anisotropic extension of the Hosford-Coulomb localization criterion is obtained through the linear transformation of the stress tensor argument. Unlike for isotropic materials where the stress state is characterized through the stress triaxiality and Lode parameter, the normalized Cauchy stress tensor is used to describe the stress state in an anisotropic solid. Based on experiments on extruded aluminum 6260-T6 covering stress states from pure shear to equi-biaxial tension for different material orientations, it is shown that this phenomenological and uncoupled model is capable to provide reasonable engineering approximations of the strains and displacements to fracture for thirteen different loading conditions.
+
+Effect of compression-tension loading reversal on the strain to fracture of dual phase steel sheets
+Stephane J. Marcadet and Dirk Mohr
+International Journal of Plasticity, vol. 72, pp. 21-43, Elsevier, 2015.
+external page:
+DOI: 10.1016/j.ijplas.2015.05.002
+external page:
+Research Collection
+Abstract 
+
+The effect of loading direction reversal on the onset of ductile fracture of DP780 steel sheets is investigated through compression-tension experiments on flat notched specimens. A finite strain constitutive model is proposed combining a Swift-Voce isotropic hardening law with two Frederick-Armstrong kinematic hardening rules and a Yoshida-Uemori type of hardening stagnation approach. The plasticity model parameters are identified from uniaxial tension-compression stress-strain curve measurements and finite element simulations of compression-tension experiments on notched specimens. The model predictions are validated through comparison with experimentally-measured load-displacement curves up to the onset of fracture, local surface strain measurements and longitudinal thickness profiles. In addition, the model is used to estimate the local strain and stress fields in monotonic fracture experiments covering plane stress states ranging from pure shear to plane strain tension. The extracted loading paths to fracture show a significant increase in ductility as a function of the compressive pre-strain. A Hosford-Coulomb damage indicator model is presented to provide a phenomenological description of the experimental results for monotonic and reverse loading.
+
+Micromechanically-motivated phenomenological Hosford-Coulomb model for predicting ductile fracture initiation at low stress triaxialities
+Dirk Mohr and Stephane J. Marcadet
+International Journal of Solids and Structures, vol. 67-68, pp. 40-55, Elsevier, 2015.
+external page:
+DOI: 10.1016/j.ijsolstr.2015.02.024
+external page:
+Research Collection
+Abstract 
+
+A phenomenological ductile fracture initiation model for metals is developed for predicting ductile fracture in industrial practice. Its formulation is based on the assumption that the onset of fracture is imminent with the formation of a primary or secondary band of localization. The results from a unit cell analysis on a Levy-von Mises material with spherical defects revealed that a Mohr-Coulomb type of model is suitable for predicting the onset of shear and normal localization. To improve the agreement of the model predictions with experimental results, an extended Mohr-Coulomb criterion is proposed which makes use of the Hosford equivalent stress in combination with the normal stress acting on the plane of maximum shear. A fracture initiation model is obtained by transforming the localization criterion from stress space to the space of equivalent plastic strain, stress triaxiality and Lode angle parameter using the material's isotropic hardening law. Experimental results are presented for three different advanced high strength steels. For each material, the onset of fracture is characterized for five distinct stress states including butterfly shear, notched tension, tension with a central hole and punch experiments. The comparison of model predictions with the experimental results demonstrates that the proposed Hosford-Coulomb model can predict the instant of ductile fracture initiation in advanced high strength steels with good accuracy.
+
+Ductile fracture of aluminum 2024-T351 under proportional and non-proportional multi-axial loading: Bao-Wierzbicki results revisited
+Jessica Papasidero, Veronique Doquet and Dirk Mohr
+International Journal of Solids and Structures, vol. 69-70, pp. 459-474, Elsevier, 2015.
+external page:
+DOI: 10.1016/j.ijsolstr.2015.05.006
+external page:
+Research Collection
+Abstract 
+
+The effect of stress state and loading path on the ductile fracture of aluminum 2024-T351 is characterized through tension-torsion experiments on tubular specimens. The experimental program includes proportional and non-proportional loading paths leading to the onset of fracture at nearly plane stress conditions at stress triaxialities between 0 and 0.6. Stereo digital image correlation is used to measure the displacements and rotations applied to the specimen shoulders. An isotropic non-quadratic Hosford plasticity model with combined Voce-Swift hardening is used to obtain estimates of the local stress and strain fields within the specimen gage section. The hybrid experimental-numerical results indicate a higher strain to fracture for pure shear than for uniaxial tension. The calibration of a Hosford-Coulomb fracture initiation model suggests that the ductility of aluminum 2024-T351 decreases monotonically as a function of the stress triaxiality, whereas it is a non-symmetric convex function of the Lode angle parameter. It is shown that a simple non-linear damage accumulation rule can describe the effect of non-proportional loading on the strain to fracture.
+
+Previous
+Next
+Related content
+The Group
+Research
+Education
+News
+How to Find Us
+To homepage
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Koch
+Administrative Assistant
+Email
+martikoc@ethz.ch
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich

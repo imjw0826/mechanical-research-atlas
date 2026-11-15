@@ -1,0 +1,50 @@
+{
+  "university": "National University of Singapore",
+  "university_key": "nus",
+  "pi": "Guillaume A SARTORETTI",
+  "lab_name": null,
+  "lab_url": "https://www.marmotlab.org/",
+  "publication_urls": [
+    "https://www.marmotlab.org/blog/2026/07/13/DARS2026.html",
+    "https://www.marmotlab.org/blog/2026/06/17/IROS2026.html",
+    "https://www.marmotlab.org/blog/2026/01/31/ICRA2026.html"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Two of our papers have been been accepted for presentation at the 18th International Symposium on Distributed Autonomous Robotic Systems (DARS 2026)",
+      "year": 2026,
+      "citation_raw": "Two of our papers have been been accepted for presentation at the 18th International Symposium on Distributed Autonomous Robotic Systems (DARS 2026), which will take place 26-29 October 2026 in Tokyo, Japan.",
+      "source_url": "https://www.marmotlab.org/blog/2026/07/13/DARS2026.html"
+    },
+    {
+      "title": "IROS 2026 - 4 Papers and 2 Workshops Accepted!",
+      "year": 2026,
+      "citation_raw": "Videos IROS 2026 - 4 Papers and 2 Workshops Accepted!",
+      "source_url": "https://www.marmotlab.org/blog/2026/06/17/IROS2026.html"
+    },
+    {
+      "title": "Four of our papers have been accepted for presentation at the IEEE/RJS International Conference on Intelligent Robots and Systems (IROS 2026)",
+      "year": 2026,
+      "citation_raw": "Four of our papers have been accepted for presentation at the IEEE/RJS International Conference on Intelligent Robots and Systems (IROS 2026), which will be held in-person from 27 September to 1 October 2026 in Pittsburgh, PA, USA.",
+      "source_url": "https://www.marmotlab.org/blog/2026/06/17/IROS2026.html"
+    },
+    {
+      "title": "APEX: Action Priors Enable Efficient Exploration for Robust Motion Tracking on Legged Robots",
+      "year": 2026,
+      "citation_raw": "APEX: Action Priors Enable Efficient Exploration for Robust Motion Tracking on Legged Robots A Tilt-Rotor with a Gripper for Stable Contact-Based Tasks via Environmental Anchoring We are also co-organizing two workshops at IROS 2026, please consider attending:",
+      "source_url": "https://www.marmotlab.org/blog/2026/06/17/IROS2026.html"
+    },
+    {
+      "title": "Our paper focusing on learning-based",
+      "year": 2026,
+      "citation_raw": "Our paper focusing on learning-based, autonomous exploration of unknown spaces under motion constraints has been accepted for presentation at the IEEE International Conference on Robotics & Automation (ICRA 2026), which will be held 1-5 June 2026 in Vienna, Austria.",
+      "source_url": "https://www.marmotlab.org/blog/2026/01/31/ICRA2026.html"
+    }
+  ]
+}

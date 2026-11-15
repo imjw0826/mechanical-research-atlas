@@ -1,0 +1,78 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Irmgard Bischofberger",
+  "lab_name": null,
+  "lab_url": "https://www.mitfluidslab.com/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/irmgard@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/irmgard@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://www.mitfluidslab.com/"
+    },
+    {
+      "text": "MechE Academic Dashboard",
+      "url": "https://meche-ad-portal.mit.edu/"
+    },
+    {
+      "text": "MechE Undergrad Portal",
+      "url": "https://meundergrad.mit.edu/"
+    },
+    {
+      "text": "Online 2A Contract",
+      "url": "https://meche-2a-contracts.mit.edu/"
+    },
+    {
+      "text": "SB Thesis Information",
+      "url": "https://meundergrad.mit.edu/sb-thesis-information"
+    },
+    {
+      "text": "Grad Student Resources",
+      "url": "https://mechegrad.mit.edu/"
+    },
+    {
+      "text": "Online Grad Card",
+      "url": "https://meche-grad-card.mit.edu/"
+    },
+    {
+      "text": "ODGE Petition",
+      "url": "http://odge.mit.edu/gpp/oversight/petitions/"
+    },
+    {
+      "text": "MIT's Mind & Hand Book",
+      "url": "http://handbook.mit.edu/"
+    },
+    {
+      "text": "Room Reservations",
+      "url": "https://meche-reservations.mit.edu/Web/"
+    },
+    {
+      "text": "",
+      "url": "http://www.mit.edu/"
+    }
+  ],
+  "attempted_urls": [
+    "https://www.mitfluidslab.com/",
+    "https://www.mitfluidslab.com/publications"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "Publications",
+      "url": "https://www.mitfluidslab.com/publications"
+    }
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Official MechE profile inspected. Full laboratory publications navigation and extraction not yet completed; resume from saved discovered_links. No inference from roster beyond identifying requested subject.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ],
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "status": "partial",
+  "papers": []
+}

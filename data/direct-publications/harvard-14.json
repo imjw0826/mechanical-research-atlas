@@ -1,0 +1,75 @@
+{
+  "university": "Harvard University",
+  "university_key": "harvard",
+  "pi": "Katia Bertoldi",
+  "lab_name": null,
+  "lab_url": "https://bertoldi.seas.harvard.edu/",
+  "publication_urls": [
+    "https://bertoldi.seas.harvard.edu/"
+  ],
+  "accessed_at": "2026-11-12T15:42:06.097838+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Reconfigurable Inflatables Through Controlled Surface Crumpling",
+      "year": 2026,
+      "citation_raw": "Recent Publications Yang Y., Youn H. J., Kamp L., Sachse R., Li W., Vidal J., Feng j., Bechthold M. and Bertoldi K. Reconfigurable Inflatables Through Controlled Surface Crumpling. Advanced Science. 2026. Reconfigurable Inflatables Through Controlled Surface Crumpling",
+      "source_url": "https://bertoldi.seas.harvard.edu/"
+    },
+    {
+      "title": "Reconfigurable Inflatables Through Controlled Surface Crumpling",
+      "year": 2026,
+      "citation_raw": "Reconfigurable Inflatables Through Controlled Surface Crumpling Movies Dalklint A., Dahlberg V. and Bertoldi K. Shape optimization of pneumatic soft actuators. Journal of the Mechanics and Physics of Solids. 2026: 106863. Shape optimization of pneumatic soft actuators",
+      "source_url": "https://bertoldi.seas.harvard.edu/"
+    },
+    {
+      "title": "Shape optimization of pneumatic soft actuators",
+      "year": 2026,
+      "citation_raw": "Shape optimization of pneumatic soft actuators Movies Mahadevan K., Read HE., Zhang AX., Tallot LJ., Yuen MC. and Bertoldi K. Folding-driven auxetic weft knit textiles with integrated capacitive sensing. Extreme Mechanics Letters. 2026: 102516. Folding-driven auxetic weft knit textiles with integrated capacitive sensing",
+      "source_url": "https://bertoldi.seas.harvard.edu/"
+    },
+    {
+      "title": "Arbitrary Mechanical Memory Encoding via Nonlinear Waves in Bistable MetamaterialsPDF",
+      "year": 2026,
+      "citation_raw": "Watkins AA., Bordiga G., Farrell DT., Mu M., Tournat V. and Bertoldi K. Arbitrary Mechanical Memory Encoding via Nonlinear Waves in Bistable Metamaterials. Physical Review Letters. 2026: 097201. Arbitrary Mechanical Memory Encoding via Nonlinear Waves in Bistable MetamaterialsPDF",
+      "source_url": "https://bertoldi.seas.harvard.edu/"
+    },
+    {
+      "title": "Arbitrary Mechanical Memory Encoding via Nonlinear Waves in Bistable Metamaterials",
+      "year": 2026,
+      "citation_raw": "Arbitrary Mechanical Memory Encoding via Nonlinear Waves in Bistable Metamaterials Movies Mahadevan K., Yuen CJ., Farrell DT., Walsh CJ., Sanchez V., Wood RJ. and Bertoldi K. Knitting Multistability. Advanced Functional Materials. 2026. Knitting Multistability",
+      "source_url": "https://bertoldi.seas.harvard.edu/"
+    },
+    {
+      "title": "Wavenumber Lock-in in Buckled Elastic Structures: An Analogue to Parametric Instabilities",
+      "year": 2026,
+      "citation_raw": "Knitting Multistability Movies Read HE., Risso G., Djellouli A., Bertoldi K., and Lazarus A. Wavenumber Lock-in in Buckled Elastic Structures: An Analogue to Parametric Instabilities. Physical Review Letters. 2026. Wavenumber Lock-in in Buckled Elastic Structures: An Analogue to Parametric Instabilities",
+      "source_url": "https://bertoldi.seas.harvard.edu/"
+    },
+    {
+      "title": "Nonlinear Mechanical Metamaterial Cloaks",
+      "year": 2026,
+      "citation_raw": "Monnery S., Risso G., Plado Costante L., Lazarus A., and Bertoldi K. Harnessing Oscillatory Dynamics for Reprogrammable Mechanical Functionality. Advanced Functional Materials. 2026. Nonlinear Mechanical Metamaterial Cloaks",
+      "source_url": "https://bertoldi.seas.harvard.edu/"
+    },
+    {
+      "title": "Harnessing Oscillatory Dynamics for Reprogrammable Mechanical Functionality",
+      "year": 2026,
+      "citation_raw": "Harnessing Oscillatory Dynamics for Reprogrammable Mechanical Functionality Movies Djellouli A,, Albertini G., Wilt J., Tournat V., Weitz D., Rubinstein S. and Bertoldi K. Squeaking at soft–rigid frictional interfaces. Nature. 2026. Squeaking at soft–rigid frictional interfaces",
+      "source_url": "https://bertoldi.seas.harvard.edu/"
+    },
+    {
+      "title": "Squeaking at soft–rigid frictional interfaces",
+      "year": 2026,
+      "citation_raw": "Squeaking at soft–rigid frictional interfaces Movies Bordiga G., Argaud J. D., Watkins A. A. , Tournat V. and Bertoldi K. Nonlinear Mechanical Metamaterial Cloaks. Advanced Functional Materials. 2026. Nonlinear Mechanical Metamaterial Cloaks",
+      "source_url": "https://bertoldi.seas.harvard.edu/"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
+    "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
+  ]
+}

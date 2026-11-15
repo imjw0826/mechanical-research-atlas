@@ -1,0 +1,935 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "배중면 BAE, Joongmyeon",
+  "lab_name": null,
+  "lab_url": "http://fuelcell.kaist.ac.kr/",
+  "publication_urls": [
+    "https://www.necs.kr/international-journals/"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Experimental validation of a MW-scale sCO2 centrifugal compressor under subcritical inlet design conditions",
+      "year": 2026,
+      "citation_raw": "154 2026 Beomjoo Kim, Cheolhee Lee, Hafiz Ali Muhammad, Seungho Ryu, Ulrich Schmitz, Markus Sauerborn, Volker Hintz, Rene Leven, Joongmyeon Bae Experimental validation of a MW-scale sCO2 centrifugal compressor under subcritical inlet design conditions Energy 359 141088",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Influence of surface morphology and interlayer configuration on contact resistance at the SOFC cathode–interconnect interface",
+      "year": 2026,
+      "citation_raw": "153 2026 Heedae Lee, Jaeseok Lee, Young-hoon Jang, Hyunghoon Song, Daehan Chung, Joongmyeon Bae Influence of surface morphology and interlayer configuration on contact resistance at the SOFC cathode–interconnect interface Journal of Power Sources 670 239462",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Multiscale hybrid wick: Two types of dry-out mechanisms and optimization strategy",
+      "year": 2026,
+      "citation_raw": "152 2026 Duhyeon Lee, Sanghun Lee, Soosik Bang, Hyunghoon Song, Joongmyeon Bae, Youngsuk Nam Multiscale hybrid wick: Two types of dry-out mechanisms and optimization strategy Energy Conversion and Management 348 120703",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Reactive element and Cu-doped (Mn,Co)3O4 as a protective coating for SOFC metallic interconnects",
+      "year": 2025,
+      "citation_raw": "151 2025 Hyunghoon Song, Jeongah Lee, Kyung Taek Bae, Taehee Lee, WooChul Jung, Kang Taek Lee, Joongmyeon Bae Reactive element and Cu-doped (Mn,Co)3O4 as a protective coating for SOFC metallic interconnects Journal of the Korean Ceramic Society 62 6 1242 1257",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Breathable soft bioelectronics for enhanced automatic detection of obstructive sleep apnea",
+      "year": 2025,
+      "citation_raw": "150 2025 Seunghyeb Ban, Benjamin Smith, Youngjin Kwon, Yunuo Huang, Ikhwan Shin, Jae Young Yoo, Megan M. Perez , Joongmyeon Bae, Chad A. Purnell, Woon-Hong Yeo Breathable soft bioelectronics for enhanced automatic detection of obstructive sleep apnea Biosensors and Bioelectronics 287 117735",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Development of metal-supported solid oxide fuel cells with a thin-film electrolyte under an oxidizing atmosphere",
+      "year": 2025,
+      "citation_raw": "149 2025 Jaeseok Lee, Sungmin Kang, Heedae Lee, Kunho Lee, Gwangwoo Han, Sanghun Lee, Dong-Hyun Peck, Joongmyeon Bae Development of metal-supported solid oxide fuel cells with a thin-film electrolyte under an oxidizing atmosphere Journal of Power Sources Advances 33 100177",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Highly stable platinum catalyst encapsulated with mesoporous silica for preferential oxidation of CO in H2-rich stream",
+      "year": 2024,
+      "citation_raw": "148 2024 Jin-Wook Jang, Kangyong Lee, Joongmyeon Bae, Sung-Min Choi Highly stable platinum catalyst encapsulated with mesoporous silica for preferential oxidation of CO in H2-rich stream International Journal of Hydrogen Energy 93 536 543",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Innovative pressurized diesel reforming for sustainable hydrogen production using advanced PtRu-CGO catalyst",
+      "year": 2024,
+      "citation_raw": "147 2024 Hye-One Lee, Yeongwoo Kim, Junwoo Park, Jaemyung Lee, Joongmyeon Bae Innovative pressurized diesel reforming for sustainable hydrogen production using advanced PtRu-CGO catalyst Energy Conversion and Management 320 118973",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Hydrogen Sensor with a Thick Catalyst Layer Anchored on Polyimide Film",
+      "year": 2024,
+      "citation_raw": "146 2024 Gustavo Panama, Hye-One Lee, Joongmyeon Bae, Seung Seob Lee Hydrogen Sensor with a Thick Catalyst Layer Anchored on Polyimide Film Advanced Materials Technologies 9 13 2400445",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "A design study on a flat membrane-reactor stack for on-site hydrgen production",
+      "year": 2024,
+      "citation_raw": "145 2024 Jae Young Yoo, Hongbum Choi, Heedae Lee, Jay H. Lee, Joongmyeon Bae A design study on a flat membrane-reactor stack for on-site hydrgen production Chemical Engineering Research and Design 207 494 504",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Evaluation of Electrolyte Materials of Gd‑ and Ce‑Doped Scandia‑Stabilized Zirconia and Yb‑ and Bi‑Doped Gadolinium‑Doped Ceria for Highly Durable Solid Oxide Fuel Cells",
+      "year": 2024,
+      "citation_raw": "144 2024 Sanghun Lee, Kunho Lee, Jaemyung Lee, Jaeseok Lee, Taehong Kim, Joongmyeon Bae Evaluation of Electrolyte Materials of Gd‑ and Ce‑Doped Scandia‑Stabilized Zirconia and Yb‑ and Bi‑Doped Gadolinium‑Doped Ceria for Highly Durable Solid Oxide Fuel Cells International Journal of Precision Engineering and Manufacturing-Green Technology 11 1217 1228",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Thermal design of a combined hydrogen and oxygen supply system for a fuel cell in low-oxygen enviroments",
+      "year": 2024,
+      "citation_raw": "143 2024 Dong-min Kim, Sinwoo Choi, Hyungjun Cheon, Heesook Roh, Joongmyeon Bae, Bong Jae Lee Thermal design of a combined hydrogen and oxygen supply system for a fuel cell in low-oxygen enviroments International Journal of Hydrogen Energy 50 D 1317 1325",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "A computational-fluid-dynamics study on scaling up a single flat membrane reactor for on-site hydrogen production",
+      "year": 2023,
+      "citation_raw": "142 2023 Jae Young Yoo, Hongbum Choi, Heedae Lee, Jay H. Lee, Joongmyeon Bae A computational-fluid-dynamics study on scaling up a single flat membrane reactor for on-site hydrogen production Chemical Engineering Research and Design 200 670 681",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "A parametric computational-fluid-dynamics study on improving the performance of a flat membrane reactor for on-site hydrogen production",
+      "year": 2023,
+      "citation_raw": "141 2023 Jae Young Yoo, Jaemyung Lee, Heedae Lee, Juhyun Kang, Minseok Bae, Joongmyeon Bae A parametric computational-fluid-dynamics study on improving the performance of a flat membrane reactor for on-site hydrogen production Chemical Engineering Research and Design 197 821 837",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Highly active and stable catalyst with exsolved PtRu alloy nanoparticles for hydrogen production via commercial diesel reforming",
+      "year": 2022,
+      "citation_raw": "140 2022 Jaemyung Lee, Changho Yeon, Jiwoo Oh, Gwangwoo Han, Jeong Do Yoo, Hyung Joong Yun, Chan-Woo Lee, Kang Taek Lee, Joongmyeon Bae Highly active and stable catalyst with exsolved PtRu alloy nanoparticles for hydrogen production via commercial diesel reforming Applied Catalysis B: Environmental 316 121645",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "CFD analysis and scale up of a baffled membrane reactor for hydrogen production by steam methane reforming",
+      "year": 2022,
+      "citation_raw": "139 2022 Hongbum Choi, Shin Hyuk Kim, Joongmyeon Bae, Sai P.r. Katikaneni, Aqil Jamal, Aadesh Harale, Stephen N. Paglieri, Jay H. Lee CFD analysis and scale up of a baffled membrane reactor for hydrogen production by steam methane reforming Computers & Chemical Engineering 165 107912",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effects of preparation method on exsolution and alloy formation in a PtRu bimetallic catalyst for hydrogen production via diesel reforming: Impregnation versus combustion synthesis",
+      "year": 2022,
+      "citation_raw": "138 2022 Jaemyung Lee, Minseok Bae, Joongmyeon Bae Effects of preparation method on exsolution and alloy formation in a PtRu bimetallic catalyst for hydrogen production via diesel reforming: Impregnation versus combustion synthesis International Journal of Hydrogen Energy 47 29327",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Kinetic Modeling of Diesel Autothermal Reforming for Fuel Cell Auxiliary Power Units",
+      "year": 2021,
+      "citation_raw": "137 2021 Daewook Kim, Suhang Choi, Sohyun Jeong, Minseok Bae, Sai P. Katikaneni, Joongmyeon Bae, Seongmin Heo, Jay H. Lee Kinetic Modeling of Diesel Autothermal Reforming for Fuel Cell Auxiliary Power Units Chemical Engineering Journal 424 130564",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Comparative energetic studies on liquid organic hydrogen carrier: A net energy analysis",
+      "year": 2021,
+      "citation_raw": "136 2021 Sanghun Lee, Taehong Kim, Gwangwoo Han, Sungmin Kang, Young-Sung Yoo, Sang-Yun Jeon, Joongmyeon Bae Comparative energetic studies on liquid organic hydrogen carrier: A net energy analysis Renewable and Sustainable Energy Reviews 150 111447",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "On-site hydrogen production using heavy naphtha by maximizing the hydrogen output of a membrane reactor system",
+      "year": 2021,
+      "citation_raw": "135 2021 Jae Young Yoo, Jaemyung Lee, Gwangwoo Han, Aadesh Harale, Sai Katikaneni, Stephen N. Paglieri, Joongmyeon Bae On-site hydrogen production using heavy naphtha by maximizing the hydrogen output of a membrane reactor system Journal of Power Sources 508 230332",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Deep-learning-and reinforcement-learning-based profitable strategy of a grid-level energy storage system for the smart grid",
+      "year": 2021,
+      "citation_raw": "134 2021 Gwangwoo Han, Sanhun Lee, Jaemyung Lee, Kangyong Lee, Joongmyeon Bae Deep-learning-and reinforcement-learning-based profitable strategy of a grid-level energy storage system for the smart grid Journal of Energy Storage 41 102868",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Rapid Start-Up Strategy of 1 kWe Diesel Reformer by Solid Oxide Fuel Cell Integration",
+      "year": 2021,
+      "citation_raw": "132 2021 Minseok Bae, Hyungjun Cheon, Jiwoo Oh, Dongyeon Kim, Joongmyeon Bae, Sai P. Katikaneni Rapid Start-Up Strategy of 1 kWe Diesel Reformer by Solid Oxide Fuel Cell Integration International Journal of Hydrogen Energy 46 52 26575 26581",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Pt/CeO2 catalyst synthesized by combustion method for dehydrogenation of perhydrodibenzyltoluene as liquid organic hydrogen carrier: Effect of pore size and metal dispersion",
+      "year": 2021,
+      "citation_raw": "131 2021 Sanghun Lee, Jaemyung Lee, Taehong Kim, Gwangwoo Han, Jaeseok Lee, Kangyong Lee, Joongmyeon Bae Pt/CeO2 catalyst synthesized by combustion method for dehydrogenation of perhydrodibenzyltoluene as liquid organic hydrogen carrier: Effect of pore size and metal dispersion International Journal of Hydrogen Energy 46 7 5520 5529",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Connected evaluation of polymer electrolyte membrane fuel cell with dehydrogenation reactor of liquid organic hydrogen carrier",
+      "year": 2020,
+      "citation_raw": "130 2020 Sanghun Lee, Gwangwoo Han, Taehong Kim, Young-Sung Yoo, Sang-Yun Jeon, Joongmyeon Bae Connected evaluation of polymer electrolyte membrane fuel cell with dehydrogenation reactor of liquid organic hydrogen carrier International Journal of Hydrogen Energy 45 24 13398 13405",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Scalable fabrication process of thin-film solid oxide fuel cells with an anode functional layer design and a sputtered electrolyte",
+      "year": 2020,
+      "citation_raw": "129 2020 Sungmin Kang, Jaeseok Lee, Gy Young Cho, Yusung Kim, Sanghun Lee, Suk Won Cha, Joongmyeon Bae Scalable fabrication process of thin-film solid oxide fuel cells with an anode functional layer design and a sputtered electrolyte International Journal of Hydrogen Energy 45 58 33890 33892",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Thermal stability characteristics of high-power, large-capacity, reserve thermal batteries with pure Li and Li(Si) anodes",
+      "year": 2020,
+      "citation_raw": "128 2020 Jang-Hyeon Cho, Chae Nam Im, Chi Hun Choi, Sang-hyeon Ha, Hyun-Ki Yoon, Yusong Choi, Joongmyeon Bae Thermal stability characteristics of high-power, large-capacity, reserve thermal batteries with pure Li and Li(Si) anodes Electrochimica Acta 353 136612",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Thermal design of a hydrogen storage system using La(Ce)Ni-5",
+      "year": 2020,
+      "citation_raw": "127 2020 Joong Bae Kim, Gwangwoo Han, YongKeun Kwon, Joongmyeon Bae, EunAe Cho, SungBaek Cho, Bong Jae Lee Thermal design of a hydrogen storage system using La(Ce)Ni-5 International Journal of Hydrogen Energy 45 15 8742 8749",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Start-up strategy of a diesel reformer using the decomposition heat of hydrogen peroxide for subsea applications",
+      "year": 2020,
+      "citation_raw": "126 2020 Gwangwoo Han, Minseok Bae, Sungbaek Cho, Joongmyeon Bae Start-up strategy of a diesel reformer using the decomposition heat of hydrogen peroxide for subsea applications Journal of Power Sources 448 227465-1 227465-6",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Development of a high-energy-density portable/mobile hydrogen energy storage system incorporating an electrolyzer, a metal hydride and a fuel cell",
+      "year": 2020,
+      "citation_raw": "125 2020 Gwangwoo Han, YongKeun Kwon, Joong Bae Kim, Sanghun Lee, Joongmyeon Bae, EunAe Cho, Bong Jae Lee, Sungbaek Cho, Jinwoo Park Development of a high-energy-density portable/mobile hydrogen energy storage system incorporating an electrolyzer, a metal hydride and a fuel cell Applied Energy 259 114175-1 114175-12",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Reliable sealing design of metal-based solid oxide fuel cell stacks for transportation applications",
+      "year": 2019,
+      "citation_raw": "124 2019 Sanghun Lee, Young-hoon Jang, Ho Yong Shin, Kunho Lee, Minseok Bae, Juhyun Kang, Joongmyeon Bae Reliable sealing design of metal-based solid oxide fuel cell stacks for transportation applications International Journal of Hydrogen Energy 44 57 30280 30292",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Development of a PrBaMn2O5+-La0.8Sr0.2Ga0.85Mg0.15O3- composite electrode by scaffold infiltration for reversible solid oxide fuel cell applications",
+      "year": 2020,
+      "citation_raw": "123 2020 Youngjin Kwon, Sungmin Kang, Joongmyeon Bae Development of a PrBaMn2O5+-La0.8Sr0.2Ga0.85Mg0.15O3- composite electrode by scaffold infiltration for reversible solid oxide fuel cell applications International Journal of Hydrogen Energy 45 3 1748 1758",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Influence of the start-up rate on the electrochemical impedance of a low-temperature solid oxide fuel cell fabricated by reactive sputtering",
+      "year": 2019,
+      "citation_raw": "122 2019 Sungmin Kang, Ikwhang Chang, Rojana Pornprasertsuk, Joongmyeon Bae, Suk Won Cha Influence of the start-up rate on the electrochemical impedance of a low-temperature solid oxide fuel cell fabricated by reactive sputtering Thin Solid Films 689 137445",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Long-term durability of La0.75Sr0.25Cr0.5Mn0.5Oδ−3 as a fuel electrode of solid oxide electrolysis cells for co-electrolysis",
+      "year": 2019,
+      "citation_raw": "121 2019 Youngjin Kwon, Jae Young Yoo, Young-hoon Jang, Joongmyeon Bae Long-term durability of La0.75Sr0.25Cr0.5Mn0.5Oδ−3 as a fuel electrode of solid oxide electrolysis cells for co-electrolysis Journal of CO2 Utilization 31 192 197",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Investigation of electrospun Ba0.5Sr0.5Co0.8Fe0.2O3−δ-Gd0.1Ce0.9O1.95 cathodes for enhanced interfacial adhesion",
+      "year": 2018,
+      "citation_raw": "120 2018 Sanghun Lee, Kunho Lee, Sungmin Kang, Juhyun Kang, Sejin Song, Joongmyeon Bae Investigation of electrospun Ba0.5Sr0.5Co0.8Fe0.2O3−δ-Gd0.1Ce0.9O1.95 cathodes for enhanced interfacial adhesion International Journal of Hydrogen Energy 43 46 21535 21546",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Development and evaluation of a 3-cell stack of metal-based solid oxide fuel cells fabricated via a sinter-joining method for auxiliary power unit application",
+      "year": 2018,
+      "citation_raw": "119 2018 Young-hoon Jang, Sanghun Lee, Ho Yong Shin, Joongmyeon Bae Development and evaluation of a 3-cell stack of metal-based solid oxide fuel cells fabricated via a sinter-joining method for auxiliary power unit application International Journal of Hydrogen Energy 43 33 16215 16229",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Application of electroless plating process for multiscale Ni-La0.8Sr0.2Ga0.8Mg0.2O3-σ SOFC anode fabrication",
+      "year": 2018,
+      "citation_raw": "118 2018 Juhyun Kang, Kunho Lee, Jae Young Yoo, Joongmyeon Bae Application of electroless plating process for multiscale Ni-La0.8Sr0.2Ga0.8Mg0.2O3-σ SOFC anode fabrication International Journal of Hydrogen Energy 43 12 6400 6405",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Pressurized diesel fuel processing using hydrogen peroxide for the fuel cell power unit in low-oxygen environments",
+      "year": 2018,
+      "citation_raw": "117 2018 Kwangho Lee, Gwangwoo Han, Sungbaek Cho, Joongmyeon Bae Pressurized diesel fuel processing using hydrogen peroxide for the fuel cell power unit in low-oxygen environments Journal of Power Sources 380 37 45",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Evaluation of metal-supported solid oxide fuel cells (MS-SOFCs) fabricated at low temperature (~1,000 °C) using wet chemical coating processes and a catalyst wet impregnation method",
+      "year": 2018,
+      "citation_raw": "116 2018 Kunho Lee, Juhyun kang, Jaeseok Lee, Sanghun Lee, Joongmyeon Bae Evaluation of metal-supported solid oxide fuel cells (MS-SOFCs) fabricated at low temperature (~1,000 °C) using wet chemical coating processes and a catalyst wet impregnation method International Journal of Hydrogen Energy 43 7 3786 3796",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Evaluation of Ag-doped (MnCo)3O4 spinel as a solid oxide fuel cell metallic interconnect coating material",
+      "year": 2017,
+      "citation_raw": "115 2017 Kunho Lee, Byoungyoung Yoon, Juhyun Kang, Sanghun Lee, Joongmyeon Bae Evaluation of Ag-doped (MnCo)3O4 spinel as a solid oxide fuel cell metallic interconnect coating material International Journal of Hydrogen Energy 42 49 29511 29517",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Negative Effects of Dopants on Copper-Ceria Catalysts for CO Preferential Oxidation Under the Presence of CO2 and H2O",
+      "year": 2017,
+      "citation_raw": "114 2017 Jiwoo Oh, Jeong Do Yoo, Keunsoo Kim, Hyung Joong Yun, WooChul Jung, Joongmyeon Bae Negative Effects of Dopants on Copper-Ceria Catalysts for CO Preferential Oxidation Under the Presence of CO2 and H2O Catalysis Letters 147 12 2987 3003",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "A novel sol-gel coating method for fabricating dense layers on porous surfaces particularly for metal-supported SOFC electrolyte",
+      "year": 2017,
+      "citation_raw": "113 2017 Kunho Lee, Juhyun Kang, Sangbeon Jin, Sanghun Lee, Jongmyeon Bae A novel sol-gel coating method for fabricating dense layers on porous surfaces particularly for metal-supported SOFC electrolyte International Journal of Hydrogen Energy 42 9 6220 6230",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Pre-reforming of higher hydrocarbons contained associated gas using a pressurized reactor with a Ni19.5-Ru0.05/CGO catalyst",
+      "year": 2017,
+      "citation_raw": "112 2017 Seunghyeon Choi, Joongmyeon Bae, Sangho Lee, Jiwoo Oh, Sai P. Katikaneni Pre-reforming of higher hydrocarbons contained associated gas using a pressurized reactor with a Ni19.5-Ru0.05/CGO catalyst Chemical Engineering Science 168 15 22",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "A Simple Descriptor to Rapidly Screen CO Oxidation Activity on Rare-Earth Metal Doped CeO2: from Experiment to First-Principles",
+      "year": 2017,
+      "citation_raw": "111 2017 Kyeounghak Kim, JeongDo Yoo, Siwon Lee, Minseok Bae, Joongmyeon Bae, WooChul Jung, Jeong Woo Han A Simple Descriptor to Rapidly Screen CO Oxidation Activity on Rare-Earth Metal Doped CeO2: from Experiment to First-Principles ACS Applied Materials and Interfaces 9 18 15449 15458",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Exhaust gas fuel reforming for hydrogen production with CGO-basedprecious metal catalysts",
+      "year": 2017,
+      "citation_raw": "110 2017 Seunghyeon Choi, Joongmyeon Bae, Juhun Lee, Jeonghwa Cha Exhaust gas fuel reforming for hydrogen production with CGO-basedprecious metal catalysts Chemical Engineering Science 163 206 214",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Fabrication of solid oxide fuel cells (SOFCs) by solvent-controlled co-tape casting technique",
+      "year": 2017,
+      "citation_raw": "109 2017 Sanghun Lee, Kunho Lee, Young-hoon Jang, Joongmyeon Bae Fabrication of solid oxide fuel cells (SOFCs) by solvent-controlled co-tape casting technique International Journal of Hydrogen Energy 42 3 1648 1660",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Electrochemical properties and durability of in-situ composite cathodes with SmBa0.5Sr0.5Co2O5+delta for metal supported solid oxide fuel cells",
+      "year": 2017,
+      "citation_raw": "108 2017 John T.S. Irvine, Joongmyeon Bae, Jun-Young Park, Won Seok Choi, Jung Hyun Kim Electrochemical properties and durability of in-situ composite cathodes with SmBa0.5Sr0.5Co2O5+delta for metal supported solid oxide fuel cells International Journal of Hydrogen Energy 42 2 1212 1220",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Liquid fuel processing for hydrogen production: A review",
+      "year": 2016,
+      "citation_raw": "107 2016 Joongmyeon Bae,Sangho Lee, Sunyoung Kim, Jiwoo Oh, Seunghyeon Choi, Minseok Bae, Inyong Kang, Sai P. Katikaneni Liquid fuel processing for hydrogen production: A review International Journal of Hydrogen Energy 41 44 19990 20022",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Structural and electrochemical properties of interconnect integrated solid oxide fuel cell",
+      "year": 2016,
+      "citation_raw": "106 2016 Seung-Wook Beak, Jihoon Jeong, Won Seok Choi, Joongmyeon Bae, Jung Hyun Kim Structural and electrochemical properties of interconnect integrated solid oxide fuel cell MATERIALS RESEARCH BULLETIN 82 126 129",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "A Novel Metal Supported SOFC Fabrication Method Developed in KAIST: aSinter-Joining Method",
+      "year": 2016,
+      "citation_raw": "105 2016 Joongmyeon Bae A Novel Metal Supported SOFC Fabrication Method Developed in KAIST: aSinter-Joining Method Journal of the Korean Ceramic Society 53 5 478 482",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Development of thermally self-sustaining kWe-class diesel reformer using hydrogen peroxide for hydrogen production in low-oxygen environments",
+      "year": 2016,
+      "citation_raw": "104 2016 Gwangwoo Han, Kwangho Lee, Sanghyeon Ha, Joongmyeon Bae Development of thermally self-sustaining kWe-class diesel reformer using hydrogen peroxide for hydrogen production in low-oxygen environments Journal of Power Sources 326 341 348",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Autothermal reforming of dimethyl ether with CGO-based precious metal catalysts",
+      "year": 2016,
+      "citation_raw": "103 2016 Seunghyeon Choi, Joongmyeon Bae Autothermal reforming of dimethyl ether with CGO-based precious metal catalysts Journal of Power Sources 307 351 357",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "3-Dimensional Numerical Analysis of Solid Oxide Electrolysis Cells (SOECs) Steam Electrolysis Operation for Hydrogen Production",
+      "year": 2015,
+      "citation_raw": "102 2015 Juhyun Kang, Joonguen Park, Joongmyeon Bae 3-Dimensional Numerical Analysis of Solid Oxide Electrolysis Cells (SOECs) Steam Electrolysis Operation for Hydrogen Production Journal of Fuel Cell Science and Technology 12 5 051006-1 051006-7",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Development of Metal Supported Solid Oxide Fuel Cell based on Interconnect Coating",
+      "year": 2015,
+      "citation_raw": "101 2015 Kunho Lee, Sangbeom Jin, Juhyun Kang, Sanghun Lee, and Joongmyeon Bae Development of Metal Supported Solid Oxide Fuel Cell based on Interconnect Coating ECS Transactions 68 1 1721 1726",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Diesel autothermal reforming with hydrogen peroxide for low-oxygen environments",
+      "year": 2015,
+      "citation_raw": "100 2015 Gwangwoo Han, Sangho Lee, Joongmyeon Bae Diesel autothermal reforming with hydrogen peroxide for low-oxygen environments Applied Energy 156 99 106",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Performance analysis of Cu, Sn and Rh impregnated NiO/CGO91 anode for butane internal reform-ing SOFC at intermediate temperature",
+      "year": 2015,
+      "citation_raw": "99 2015 Kwangjin Park, Sangho Lee, Gyujong Bae, Joongmyeon Bae Performance analysis of Cu, Sn and Rh impregnated NiO/CGO91 anode for butane internal reform-ing SOFC at intermediate temperature Renewable energy 83 483 490",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Start-up strategy and operational tests of gasoline fuel processor for auxiliary power unit",
+      "year": 2015,
+      "citation_raw": "98 2015 Hyunjin Ji, Joongmyeon Bae, Sungbaek Cho, Inyong Kang Start-up strategy and operational tests of gasoline fuel processor for auxiliary power unit International Journal of Hydrogen Energy 40 11 4101 4110",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Ni-Me/Ce0.9Gd0.1O2-x (Me: Rh, Pt and Ru) catalysts for diesel pre-reforming",
+      "year": 2015,
+      "citation_raw": "97 2015 Sangho Lee, Minseok Bae, Joongmyeon Bae, Sai P. Katikaneni Ni-Me/Ce0.9Gd0.1O2-x (Me: Rh, Pt and Ru) catalysts for diesel pre-reforming International Journal of Hydrogen Energy 40 8 3207 3216",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Electrochemical analysis of Pr0.3Sr0.7CoxB(1-x)O3- (B=Fe, Mn; x=0, 0.3, 0.5, 0.7, and 1) as cathode materials for intermediate temperature SOFC",
+      "year": 2015,
+      "citation_raw": "96 2015 Kwangjin Park, Junghyun Kim, Joongmyeon Bae Electrochemical analysis of Pr0.3Sr0.7CoxB(1-x)O3- (B=Fe, Mn; x=0, 0.3, 0.5, 0.7, and 1) as cathode materials for intermediate temperature SOFC International Journal of Hydrogen Energy 272 45 52",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effect of Heat Treatment on Properties of Glass Nanocomposite Sealants",
+      "year": 2015,
+      "citation_raw": "95 2015 Dong Bok Lee, Su-Jeong Ha, Dong-Hoon Jang, Sung Park; Joongmyeon Bae, Jae Chun Lee Effect of Heat Treatment on Properties of Glass Nanocomposite Sealants Journal of Nanoscience and Nanotechnology, 15 1 480 483",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Numerical analysis of a 20-kWe biogas steam reformer in PEMFC applications",
+      "year": 2014,
+      "citation_raw": "94 2014 Sunyoung Kim, Joongmyeon Bae Numerical analysis of a 20-kWe biogas steam reformer in PEMFC applications International Journal of Hydrogen Energy 39 34 19485 19493",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Fabrication and operation of a 6 kWe class interconnector-type anode-supported tubular solid oxide fuel cell stack",
+      "year": 2014,
+      "citation_raw": "93 2014 Kwangjin Park, Duk Hyoung Yoon, Sangho Lee, Tae ho Kwon, Gyujong Bae, Soh Hyun, Youngsun Kwon, Jungyeon Won, Junwon Suh, Jandee Kim, Seongtae Lee, Joongmyeon Bae Fabrication and operation of a 6 kWe class interconnector-type anode-supported tubular solid oxide fuel cell stack International Journal of Hydrogen Energy 39 24 12884 12893",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "La0.8Sr0.2Cr0.95Ru0.05O3-x and Sm0.8Ba0.2Cr0.95Ru0.05O3-x as partial oxidation catalysts for diesel",
+      "year": 2014,
+      "citation_raw": "92 2014 Sangho Lee, Joongmyeon Bae, Sai P. Katikaneni La0.8Sr0.2Cr0.95Ru0.05O3-x and Sm0.8Ba0.2Cr0.95Ru0.05O3-x as partial oxidation catalysts for diesel International Journal of Hydrogen Energy 39 10 4938 4946",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "A diesel-driven, metal-based solid oxide fuel cell",
+      "year": 2014,
+      "citation_raw": "91 2014 Jihoon Jeong, Seung-Wook Baek,Joongmyeon Bae A diesel-driven, metal-based solid oxide fuel cell JOURNAL OF POWER SOURCES 250 98 104",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Coupled transport and kinetics in the mixing region for hydrocarbon autothermal reforming applications",
+      "year": 2013,
+      "citation_raw": "90 2013 Sunyoung Kim, Anthony M. Dean, Joongmyeon Bae Coupled transport and kinetics in the mixing region for hydrocarbon autothermal reforming applications International Journal of Hydrogen Energy 38 36 16140 16151",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effects of infiltrated Sr and Mn doped LaCrO3 on porous La0.8Sr0.2Ga0.8Mg0.2O3-δ scaffolds used as anodes in solid oxide fuel cells",
+      "year": 2013,
+      "citation_raw": "89 2013 Byoung Young Yoon, Jung Hyun Kim and Joongmyeon Bae Effects of infiltrated Sr and Mn doped LaCrO3 on porous La0.8Sr0.2Ga0.8Mg0.2O3-δ scaffolds used as anodes in solid oxide fuel cells Solid State Ionics 249-250 26 33",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Electrochemical Investigation of Composite Nano La0.6Sr0.4Co0.2Fe0.8O3-δ Infiltration into a LSGM Scaffold Cathode on a LSGM Electrolyte",
+      "year": 2013,
+      "citation_raw": "88 2013 Byoung Young Yoon and Joongmyeon Bae Electrochemical Investigation of Composite Nano La0.6Sr0.4Co0.2Fe0.8O3-δ Infiltration into a LSGM Scaffold Cathode on a LSGM Electrolyte Electrochemical Society Transaction 57 1 1933 1943",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Characteristics of nano La0.6Sr0.4Co0.2Fe0.8O3-δ-infiltrated La0.8Sr0.2Ga0.8Mg0.2O3-δ scaffold cathode for enhanced oxygen reduction",
+      "year": 2013,
+      "citation_raw": "87 2013 Byoung Young Yoonand Joongmyeon Bae Characteristics of nano La0.6Sr0.4Co0.2Fe0.8O3-δ-infiltrated La0.8Sr0.2Ga0.8Mg0.2O3-δ scaffold cathode for enhanced oxygen reduction International Journal of Hydrogen Energy 38 30 13399 13407",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Performance improvement by platinum deposition at the cathode active site in solid oxide fuel cells",
+      "year": 2013,
+      "citation_raw": "86 2013 Sung Min Shin, Byoung Young Yoon, Jung Hyun Kim and Joongmyeon Bae Performance improvement by platinum deposition at the cathode active site in solid oxide fuel cells International Journal of Hydrogen Energy 38 21 8954 8964",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "An analysis for a molten carbonate fuel cell of complex geometry using three-dimensional transport equations with electrochemical reactions",
+      "year": 2013,
+      "citation_raw": "85 2013 Hyungsop Kim, Joongmyeon Bae, Dohyung Choi An analysis for a molten carbonate fuel cell of complex geometry using three-dimensional transport equations with electrochemical reactions International Journal of Hydrogen Energy 38 11 4782 4791",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Computational analysis of operating temperature, hydrogen flow rate and anode thickness in anode-supported flat-tube solid oxide fuel cells",
+      "year": 2013,
+      "citation_raw": "84 2013 Joonguen Park, Juhyun Kang, Joongmyeon Bae Computational analysis of operating temperature, hydrogen flow rate and anode thickness in anode-supported flat-tube solid oxide fuel cells Renewable energy 54 63 69",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "A numerical study on anode thickness and channel diameter of anode-supported flat-tube solid oxide fuel cells",
+      "year": 2012,
+      "citation_raw": "83 2012 Joonguen Park, Joongmyeon Bae, Jae-Yuk Kim A numerical study on anode thickness and channel diameter of anode-supported flat-tube solid oxide fuel cells Renewable energy 42 1 180 185",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "A diesel fuel processor for stable operation of solid oxide fuel cells system: II. Integrated diesel fuel processor for the operation of solid oxide fuel cells",
+      "year": 2012,
+      "citation_raw": "82 2012 Sangho Yoon, Joongmyeon Bae, Sangho Lee, Thang V. Pham, Sai P. Katikaneni A diesel fuel processor for stable operation of solid oxide fuel cells system: II. Integrated diesel fuel processor for the operation of solid oxide fuel cells International Journal of Hydrogen Energy 37 11 9228 9236",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "In Situ Analyses of Carbon Dissolution into Ni-YSZ Anode Materials",
+      "year": 2012,
+      "citation_raw": "81 2012 Yongmin Kim, Jung Hyun kim, Joongmyeon Bae, Chang won Yoon, Suk woo Nam In Situ Analyses of Carbon Dissolution into Ni-YSZ Anode Materials JOURNAL OF PHYSICAL CHEMISTRY C 116 24 13281 13288",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Analysis of chemical, electrochemical reactions and thermo-fluid flow in methane-feed internal reforming SOFCs: Part I-Modeling and effect of gas concentrations",
+      "year": 2012,
+      "citation_raw": "80 2012 Joonguen Park, Peiwen Li, Joongmyeon Bae Analysis of chemical, electrochemical reactions and thermo-fluid flow in methane-feed internal reforming SOFCs: Part I-Modeling and effect of gas concentrations International Journal of Hydrogen Energy 37 10 8512 8531",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Analysis of chemical, electrochemical reactions and thermo-fluid flow in methane-feed internal reforming SOFCs: Part II-Temperature effect",
+      "year": 2012,
+      "citation_raw": "79 2012 Joonguen Park, Peiwen Li, Joongmyeon Bae Analysis of chemical, electrochemical reactions and thermo-fluid flow in methane-feed internal reforming SOFCs: Part II-Temperature effect International Journal of Hydrogen Energy 37 10 8532 8555",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Investigation of gas-phase reactions in the mixing region for hydrocarbon reforming applications",
+      "year": 2012,
+      "citation_raw": "78 2012 Sunyoung Kim, Hans-Heinrich Carstensen, Anthony M. Dean, Joongmyeon Bae Investigation of gas-phase reactions in the mixing region for hydrocarbon reforming applications International Journal of Hydrogen Energy 37 9 7545 7553",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Characterization of electrochemical reaction and thermo-fluid flow in metal-supported solid oxide fuel cell stacks with various manifold designs",
+      "year": 2012,
+      "citation_raw": "77 2012 Joonguen Park, Joongmyeon Bae Characterization of electrochemical reaction and thermo-fluid flow in metal-supported solid oxide fuel cell stacks with various manifold designs International Journal of Hydrogen Energy 37 2 1717 1730",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Visualization of flooding in a single cell and stacks by using a newly-designed transparent PEMFC",
+      "year": 2012,
+      "citation_raw": "76 2012 Dongryul Lee, Joongmyeon Bae Visualization of flooding in a single cell and stacks by using a newly-designed transparent PEMFC International Journal of Hydrogen Energy 37 1 422 435",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effect of Strontium Content on Chromium Deposition and Poisoning in Ba1?xSrxCo0.8Fe0.2O3?δ (0.3 ≤ x ≤ 0.7) Cathodes of Solid Oxide Fuel Cells",
+      "year": 2011,
+      "citation_raw": "75 2011 Kim, Yu-Mi; Chen, Xinbing; Jiang, San Ping; Bae, Joongmyeon Effect of Strontium Content on Chromium Deposition and Poisoning in Ba1?xSrxCo0.8Fe0.2O3?δ (0.3 ≤ x ≤ 0.7) Cathodes of Solid Oxide Fuel Cells Journal of The Electrochemical Society 159 2 B185 B194",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Parallel manifold effects on the heat and mass transfer characteristics of metal-supported solid oxide fuel cell stacks",
+      "year": 2011,
+      "citation_raw": "74 2011 Joonguen Park, Joongmyeon Bae Parallel manifold effects on the heat and mass transfer characteristics of metal-supported solid oxide fuel cell stacks ASME Journal of Fuel Cell Science and Technology 8 6 061016-1 061016-8",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Numerical simulation of operating parameters in a methane fueled steam reforming reactor",
+      "year": 2011,
+      "citation_raw": "73 2011 Joonguen Park, Joongmyeon Bae Numerical simulation of operating parameters in a methane fueled steam reforming reactor ASME Journal of Fuel Cell Science and Technology 8 5 051022-1 051022-6",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Electrochemical performance of solid oxide electrolysis cell electrodes under high-temperature co-electrolysis of steam and carbon dioxide",
+      "year": 2011,
+      "citation_raw": "72 2011 Pattaraporn Kim-Lohsoontorn, Joongmyeon Bae Electrochemical performance of solid oxide electrolysis cell electrodes under high-temperature co-electrolysis of steam and carbon dioxide Journal of Power Sources 196 7161 7168",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Development of a self-sustaining kWe-class integrated diesel fuel processing system for solid oxide fuel cells",
+      "year": 2011,
+      "citation_raw": "71 2011 Sangho Yoon, Sangho Lee, Joongmyeon Bae Development of a self-sustaining kWe-class integrated diesel fuel processing system for solid oxide fuel cells International Journal of Hydrogen Energy 36 16 10302 10310",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "The current density and temperature distribution of anode-supported flat-tube solid oxide fuel cells affected by various channel designs",
+      "year": 2011,
+      "citation_raw": "70 2011 Joonguen Park, Joongmyeon Bae, Jae-Yuk Kim The current density and temperature distribution of anode-supported flat-tube solid oxide fuel cells affected by various channel designs International Journal of Hydrogen Energy 36 16 9936 9944",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Gadolinium doped ceria-impregnated nickel-yttria stabilised zirconia cathode for solid oxide electrolysis cell",
+      "year": 2011,
+      "citation_raw": "69 2011 Pattaraporn Kim-Lohsoontorn, Yu-Mi Kim, Navadol Laosiripojana, Joongmyeon Bae Gadolinium doped ceria-impregnated nickel-yttria stabilised zirconia cathode for solid oxide electrolysis cell International Journal of Hydrogen Energy 36 16 9420 9427",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Metal-supported Solid Oxide Fuel Cells with Barium-containing In-situ Cathodes",
+      "year": 2011,
+      "citation_raw": "68 2011 Seung-Wook Baek, Jihoon Jeong, Yu-mi Kim, Jung Hyun Kim, Sungmin Shin, Joongmyeon Bae Metal-supported Solid Oxide Fuel Cells with Barium-containing In-situ Cathodes Solid State Ionics 192 1 387 393",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effect of calcination TEMPERATURE on Electrochemical PropertIES of CathodeS for Solid Oxide Fuel Cells",
+      "year": 2011,
+      "citation_raw": "67 2011 Yu-Mi Kim, Seung-Wook Baek, Joongmyeon Bae, Young-Sung Yoo Effect of calcination TEMPERATURE on Electrochemical PropertIES of CathodeS for Solid Oxide Fuel Cells Solid State Ionics 192 1 595 598",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Chromium Deposition on Ba0.5Sr0.5Co0.8Fe0.2O3-δ Cathodes for Solid Oxide Fuel Cell",
+      "year": 2011,
+      "citation_raw": "66 2011 Yu-Mi Kim, Xinbing Chen, San Ping Jiang, Joongmyeon Bae Chromium Deposition on Ba0.5Sr0.5Co0.8Fe0.2O3-δ Cathodes for Solid Oxide Fuel Cell Electrochemical and Solid-State Letters 14 4 B41 B45",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Electrochemical Simulation Using Material Properties of a Ceramic Electrode and Electrolyte",
+      "year": 2011,
+      "citation_raw": "65 2011 Joonguen Park; Yu-Mi Kim; Joongmyeon Bae Electrochemical Simulation Using Material Properties of a Ceramic Electrode and Electrolyte Current Applied Physics 11 1 S219 S222",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Performnace of solid oxide electrolysis cell having bi-layered electrolyte during steam electrolysis and carbon dioxide electrolysis",
+      "year": 2011,
+      "citation_raw": "64 2011 Kim-Lohsoontorn P, Laosiripojana N, Bae J-M Performnace of solid oxide electrolysis cell having bi-layered electrolyte during steam electrolysis and carbon dioxide electrolysis Current Applied Physics 11 1 S223 S228",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Electrochemical performance of unsintered Ba0.5Sr0.5Co0.8Fe0.2O3-δ, La0.6Sr0.4Co0.8Fe0.2O3-δ, and La0.8Sr0.2MnO3-δ cathodes for metal-supported solid oxide fuel cells",
+      "year": 2011,
+      "citation_raw": "63 2011 Yu-Mi Kim, Pattaraporn Kim-Lohsoontorn, Seung-Wook Baek, Joongmyeon Bae Electrochemical performance of unsintered Ba0.5Sr0.5Co0.8Fe0.2O3-δ, La0.6Sr0.4Co0.8Fe0.2O3-δ, and La0.8Sr0.2MnO3-δ cathodes for metal-supported solid oxide fuel cells International Journal of Hydrogen Energy 36 3138 3146",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Fast performance degradation of SOFC caused by cathode delamination in long-term testing",
+      "year": 2011,
+      "citation_raw": "62 2011 Kwangjin Park, Sungoh Yu, Joongmyeon Bae, Hyungsop Kim, and Yoonki Ko Fast performance degradation of SOFC caused by cathode delamination in long-term testing International Journal of Hydrogen Energy 35 16 8670 8677",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Long-term performance of anode-supported SOFC integrated with metal interconnect by joining process",
+      "year": 2011,
+      "citation_raw": "61 2011 Jin H. Choi, Taehee Lee, Mihwa Choi, Young-Sung Yoo, Seung-Wook Baek and Joongmyeon Bae Long-term performance of anode-supported SOFC integrated with metal interconnect by joining process International Journal of Hydrogen Energy 35 9 4285 4291",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "A numerical study on the heat and mass transfer characteristics of metal-supported solid oxide fuel cells",
+      "year": 2011,
+      "citation_raw": "60 2011 Joonguen Park, Yu-Mi Kim, Joongmyeon Bae A numerical study on the heat and mass transfer characteristics of metal-supported solid oxide fuel cells International Journal of Hydrogen Energy 36 4 3167 3178",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Anodic behavior of 8Y2O3–ZrO2/NiO cermet using an anode-supported electrode",
+      "year": 2011,
+      "citation_raw": "59 2011 Seung-Wook Baek, Joongmyeon Bae Anodic behavior of 8Y2O3–ZrO2/NiO cermet using an anode-supported electrode Solid State Ionics 36 1 689 705",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Performance of SOFC coupled with n-C4H10 autothermal reformer: Carbon deposition and development of anode structure",
+      "year": 2010,
+      "citation_raw": "58 2010 Gyujong Bae, Joongmyeon Bae, Pattaraporn Kim-Lohsoontorn, Jihoon Jeong Performance of SOFC coupled with n-C4H10 autothermal reformer: Carbon deposition and development of anode structure International Journal of Hydrogen Energy 35 22 12346 12358",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Interconnect-integrated Solid Oxide Fuel Cell with High Temperature Sinter-joining Process",
+      "year": 2010,
+      "citation_raw": "57 2010 Seung-Wook Baek, Jihoon Jeong, Jung Hyun Kim, Changbo Lee, Joongmyeon Bae Interconnect-integrated Solid Oxide Fuel Cell with High Temperature Sinter-joining Process International Journal of Hydrogen Energy 35 21 11878 11889",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effect of unsintered gadolinium-doped ceria buffer layer on performance of metal-supported solid oxide fuel cells using unsintered barium strontium cobalt ferrite cathode",
+      "year": 2010,
+      "citation_raw": "56 2010 Yu-Mi Kim, Pattaraporn Kim-Lohsoontorn, Joongmyeon Bae Effect of unsintered gadolinium-doped ceria buffer layer on performance of metal-supported solid oxide fuel cells using unsintered barium strontium cobalt ferrite cathode Journal of Power Sources 195 19 6420 6427",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Numerical analysis of the heat and mass transfer characteristics in an autothermal methane reformer",
+      "year": 2010,
+      "citation_raw": "55 2010 Joonguen Park, Shinku Lee, Sunyoung Kim, Joongmyeon Bae Numerical analysis of the heat and mass transfer characteristics in an autothermal methane reformer Journal of Fuel Cell Science and Technology 7 5 051018 051014",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "A diesel fuel processor for stable operation of solid oxide fuel cells system: I. Introduction to post-reforming for the diesel fuel processor",
+      "year": 2010,
+      "citation_raw": "54 2010 Sangho Yoon, Joongmyeon Bae A diesel fuel processor for stable operation of solid oxide fuel cells system: I. Introduction to post-reforming for the diesel fuel processor Catalysis today 156 1-2 49 57",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Numerical Analysis of a Steam Reformer Coupled with a Combustion Burner",
+      "year": 2010,
+      "citation_raw": "53 2010 Joonguen Park, Shinku Lee, Joongmyeon Bae, and Myoungjun Kim Numerical Analysis of a Steam Reformer Coupled with a Combustion Burner Journal of Fuel Cell Science and Technology 7 6 064501-1 064501-6",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Autothermal reforming over a Pt/Gd-doped ceria catalyst: Heat and mass transport limitations in the steam reforming section",
+      "year": 2010,
+      "citation_raw": "52 2010 Sungkwang Lim, Joonmyeon Bae Autothermal reforming over a Pt/Gd-doped ceria catalyst: Heat and mass transport limitations in the steam reforming section International Journal of Hydrogen Energy 35 13 6717 6725",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Performance of solid oxide electrolysis cells based on composite La0.8Sr0.2MnO3-δ – yttria stabilized zirconia and Ba0.5Sr0.5Co0.8Fe0.2O3-δ oxygen electrodes",
+      "year": 2010,
+      "citation_raw": "51 2010 Pattaraporn Kim-Lohsoontorn, Dan Brett, Navadol Laosiripojana, Yu-Mi Kim, Joongmyeon Bae Performance of solid oxide electrolysis cells based on composite La0.8Sr0.2MnO3-δ – yttria stabilized zirconia and Ba0.5Sr0.5Co0.8Fe0.2O3-δ oxygen electrodes International Journal of Hydrogen Energy 35 9 3958 3966",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effects of low hydrocarbons on the solid oxide fuel cell anode",
+      "year": 2010,
+      "citation_raw": "50 2010 Sangho Yoon, Yongmin Kim, Sunyoung Kim, Joongmyeon Bae Effects of low hydrocarbons on the solid oxide fuel cell anode Journal of Solid State Electrochemistry 14 10 1793 1800",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "La0.8Sr0.2Co1-xMnxO3 Cathode and Its Application to Metal-Supported Solid Oxide Fuel Cells",
+      "year": 2010,
+      "citation_raw": "49 2010 Changbo Lee, Joongmyeon Bae, Jung Hyun Kim, Seung-Wook Baek La0.8Sr0.2Co1-xMnxO3 Cathode and Its Application to Metal-Supported Solid Oxide Fuel Cells Journal of Fuel Cell Science and Technology 7 2 0210221 0210228",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "The Effect of Time-Periodic Heat Flux Oscillations in the Steam Reformer",
+      "year": 2010,
+      "citation_raw": "48 2010 Joonguen Park, Shinku Lee, Joongmyeon Bae The Effect of Time-Periodic Heat Flux Oscillations in the Steam Reformer Current Applied Physics 10 S77 S80",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Electrochemical Investigation of Composite Cathodes with SmBa0.5Sr0.5Co2O5+delta Cathodes for Intermediate Temperature-Operating Solid Oxide Fuel Cell",
+      "year": 2010,
+      "citation_raw": "47 2010 Jung Hyun Kim, Mark Cassidy, John T.S. Irvine, Joongmyeon Bae Electrochemical Investigation of Composite Cathodes with SmBa0.5Sr0.5Co2O5+delta Cathodes for Intermediate Temperature-Operating Solid Oxide Fuel Cell Chemistry of Materials 22 3 883 892",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Journal of Fuel Cell science & technology",
+      "year": 2010,
+      "citation_raw": "46 2010 Inyong Kang, Sangho Yoon, Gyujong Bae, Junghyun Kim, Seungwhan Baek, Joongmyeon Bae The Tests of 1kWe Diesel Reformer and Solid Oxide Fuel Cell System Journal of Fuel Cell science & technology 7 31012-1 31012-5",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Structural, thermal and electrochemical properties of the layered perovskite SmBaCo2O5+d, a potential cathode material for intermediate-temperature solid oxide fuel cell",
+      "year": 2009,
+      "citation_raw": "45 2009 Jung Hyun Kim, Yongmin Kim, Paul A Connor, John T.S.Irvine, Joongmyeon Bae, Wuzong Zhou Structural, thermal and electrochemical properties of the layered perovskite SmBaCo2O5+d, a potential cathode material for intermediate-temperature solid oxide fuel cell Journal of Power Sources 194 2 704 711",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Electrochemical Property of Cr-containing Cathode Materials for Metal-supported Solid Oxide Fuel Cell",
+      "year": 2009,
+      "citation_raw": "44 2009 Seung-Wook Baek, Jihoon Jeong, Sanghyup Lee, Joongmyeon Bae Electrochemical Property of Cr-containing Cathode Materials for Metal-supported Solid Oxide Fuel Cell ECS transactions 25 2 2909 2914",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Metal-supported Solid Oxide Fuel Cell with Diesel Reformer",
+      "year": 2009,
+      "citation_raw": "43 2009 Joongmyeon Bae, Seung-Wook Baek, Jihoon Jeong, Sangho Yoon Metal-supported Solid Oxide Fuel Cell with Diesel Reformer ECS transactions 25 2 711 718",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Cathode Reaction Mechanism of Porous-Structured Sm0.5Sr0.5CoO3-δ and Sm0.5Sr0.5CoO3-δ/Sm0.2Ce0.8O1.9 for Solid oxide fuel cell",
+      "year": 2009,
+      "citation_raw": "42 2009 Seung-Wook Baek, Joongmyeon Bae, Youngsung Yoo Cathode Reaction Mechanism of Porous-Structured Sm0.5Sr0.5CoO3-δ and Sm0.5Sr0.5CoO3-δ/Sm0.2Ce0.8O1.9 for Solid oxide fuel cell Journal of Power Sources 193 2 431 440",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Polarization resistances of (Ln1-xSrx)CoO3 (Ln=Pr, Nd, Sm and Gd x=0, 0.3, 0.5, 0.7 and 1) as cathode materials for Intermediate Temperature-operating Solid Oxide Fuel Cells",
+      "year": 2009,
+      "citation_raw": "41 2009 Jung Hyun Kim, Seung-Wook Baek and Joongmyeon Bae Polarization resistances of (Ln1-xSrx)CoO3 (Ln=Pr, Nd, Sm and Gd x=0, 0.3, 0.5, 0.7 and 1) as cathode materials for Intermediate Temperature-operating Solid Oxide Fuel Cells Journal of Fuel Cell Science and Technology 6 3 034503-1~5 034503-5",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Structural and electrochemical properties of Pr0.3Sr0.7Co0.3Fe0.7O3-δ cathode for IT-SOFC",
+      "year": 2009,
+      "citation_raw": "40 2009 Kwangjin Park, Changbo Lee, Joongmyeon Bae, Youngsung Yoo Structural and electrochemical properties of Pr0.3Sr0.7Co0.3Fe0.7O3-δ cathode for IT-SOFC International Journal of Hydrogen Energy 34 16 6852 6860",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Fabrication of multi-layered solid oxide fuel cells using a sheet joining process",
+      "year": 2009,
+      "citation_raw": "39 2009 Kwangjin Park, Changbo Lee, Joongmyeon Bae, Youngsung Yoo Fabrication of multi-layered solid oxide fuel cells using a sheet joining process International Journal of Hydrogen Energy 34 16 6861 6868",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Cathode properties of SmxSr1-x(Co,Fe,Ni)O3/Sm0.2Ce0.8O1.9 composite material for intermediate temperature-operating solid oxide fuel cell",
+      "year": 2009,
+      "citation_raw": "38 2009 Seung-Wook Baek, Changbo Lee, Joongmyeon Bae Cathode properties of SmxSr1-x(Co,Fe,Ni)O3/Sm0.2Ce0.8O1.9 composite material for intermediate temperature-operating solid oxide fuel cell Journal of Fuel Cell Science and Technology 6 3 031010-1 031010-5",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Self-sustained operation of a kWe-class kerosene reforming processor for solid oxide fuel cells",
+      "year": 2009,
+      "citation_raw": "37 2009 Sangho Yoon, Joongmyeon Bae, Sunyoung Kim, Youns-Sung Yoo Self-sustained operation of a kWe-class kerosene reforming processor for solid oxide fuel cells Journal of Power Sources 192 2 360 366",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Evaluation of the net water transport through electrolytes in Proton Exchange Membrane Fuel Cell",
+      "year": 2009,
+      "citation_raw": "36 2009 Dongryul Lee, Joongmyeon Bae Evaluation of the net water transport through electrolytes in Proton Exchange Membrane Fuel Cell Journal of Power Sources 191 2 390 399",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Advanced electrochemical properties of LnBa0.5Sr0.5Co2O5+d (Ln=Pr, Sm and Gd) as cathode materials for IT-SOFC",
+      "year": 2009,
+      "citation_raw": "35 2009 Jung Hyun Kim, Mark Cassidy, John T.S.Irvine, and Joongmyeon Bae Advanced electrochemical properties of LnBa0.5Sr0.5Co2O5+d (Ln=Pr, Sm and Gd) as cathode materials for IT-SOFC Journal of The Electrochemical Society 156 6 682 689",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "SmBaCo2O5+d and LnBa0.5Sr0.5Co2O5+δ Potential Cathode Materials for IT-SOFC",
+      "year": 2009,
+      "citation_raw": "34 2009 J. H. Kim, J. Bae, M. Cassidy, P. A Connor, W. Zhou and J. T. S. Irvine SmBaCo2O5+d and LnBa0.5Sr0.5Co2O5+δ Potential Cathode Materials for IT-SOFC ECS Transactions 25 2-3 2707 2715",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Heat flux analysis of a cylindrical steam reformer by a modified Nusselt number",
+      "year": 2009,
+      "citation_raw": "33 2009 Joonguen Park, Shinku Lee, Sungkwang Lim, Joongmyeon Bae Heat flux analysis of a cylindrical steam reformer by a modified Nusselt number International Journal of Hydrogen Energy 34 4 1828 1834",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Suppression of ethylene-induced carbon deposition in diesel autothermal reforming",
+      "year": 2009,
+      "citation_raw": "32 2009 Sangho Yoon, Inyong Kang, Joongmyeon Bae Suppression of ethylene-induced carbon deposition in diesel autothermal reforming International Journal of Hydrogen Energy 34 4 1844 1851",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Study of activity and effectiveness factor of noble metal catalysts for water-gas shift reaction",
+      "year": 2009,
+      "citation_raw": "31 2009 Sungkwang Lim, Joonmyeon Bae Study of activity and effectiveness factor of noble metal catalysts for water-gas shift reaction International Journal of Hydrogen Energy 34 2 870 876",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "The Operating Characteristics of Solid Oxide Fuel Cells driven by Diesel Autothermal Reformate",
+      "year": 2008,
+      "citation_raw": "30 2008 Inyong Kang, Yunhyeok Kang, Sangho Yoon, Gyujong Bae, and Joongmyeon Bae The Operating Characteristics of Solid Oxide Fuel Cells driven by Diesel Autothermal Reformate International Journal of Hydrogen Energy 33 21 6298 6307",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effect of effective areas on ionic conductivity in dense composite material composed of ionic and electronic conductors for solid oxide fuel cells",
+      "year": 2036,
+      "citation_raw": "29 2008 Changbo Lee, Joongmyeon Bae Effect of effective areas on ionic conductivity in dense composite material composed of ionic and electronic conductors for solid oxide fuel cells Solid State Ionics 178 35-36 2031 2036",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Oxygen Transport in Composite Cathodes Composed of Ionic and Electronic Conductors for Solid Oxide Fuel Cells",
+      "year": 2036,
+      "citation_raw": "28 2008 Changbo Lee, Joongmyeon Bae Oxygen Transport in Composite Cathodes Composed of Ionic and Electronic Conductors for Solid Oxide Fuel Cells Solid State Ionics 178 35-36 2031 2036",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Characteristics of ABO3 and A2BO4 (A=Sm, Sr; B=Co, Fe, Ni) samarium oxide system as cathode materials for intermediate temperatureoperating solid oxide fuel cell",
+      "year": 2008,
+      "citation_raw": "27 2008 Seung-Wook Baek, Jung Hyun Kim, Joongmyeon Bae Characteristics of ABO3 and A2BO4 (A=Sm, Sr; B=Co, Fe, Ni) samarium oxide system as cathode materials for intermediate temperatureoperating solid oxide fuel cell Solid State Ionics 179 27 1570 1574",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Performance Analysis of Cobalt-based cathode materials for Solid Oxide Fuel Cell",
+      "year": 2008,
+      "citation_raw": "26 2008 Jung Hyun Kim, Seung-Wook Baek, Changbo Lee, Kwangjin Park and Joongmyeon Bae Performance Analysis of Cobalt-based cathode materials for Solid Oxide Fuel Cell Solid State Ionics 179 27/32 1490 1496",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Cathodic Behavior of La0.8Sr0.2Co1-xMnxO3-d Perovskite Oxide on YSZ Electrolyte for Intermediate Temperature-Operating Solid Oxide Fuel Cells",
+      "year": 2008,
+      "citation_raw": "25 2008 Changbo Lee, Seung-Wook Baek, Joongmyeon Bae Cathodic Behavior of La0.8Sr0.2Co1-xMnxO3-d Perovskite Oxide on YSZ Electrolyte for Intermediate Temperature-Operating Solid Oxide Fuel Cells Solid State Ionics 179 27 1465 1469",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effects of ethylene on carbon formation in diesel autothermal reforming",
+      "year": 2008,
+      "citation_raw": "24 2008 Sangho Yoon, Inyong Kang, Joongmyeon Bae Effects of ethylene on carbon formation in diesel autothermal reforming International Journal of Hydrogen Energy 33 18 4780 4788",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Oxidation-Resistant Thin Film Coating on Ferritic Stainless Steel by Sputtering for Solid Oxide Fuel Cells",
+      "year": 2008,
+      "citation_raw": "23 2008 Changbo Lee, Joongmyeon Bae Oxidation-Resistant Thin Film Coating on Ferritic Stainless Steel by Sputtering for Solid Oxide Fuel Cells Thin Solid Films 516 18 6432 6437",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "The Micro-reactor Testing of Catalysts and Fuel Delivery Apparatuses for Diesel Autothermal Reforming",
+      "year": 2008,
+      "citation_raw": "22 2008 Inyong Kang, Sangho Yoon, Gyujong Bae, Jung Hyun Kim, Joongmyeon Bae, Daehoon Lee, and Younghoon Song The Micro-reactor Testing of Catalysts and Fuel Delivery Apparatuses for Diesel Autothermal Reforming Catalysis today 136 3~4 249 257",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effect of GDL permeability on water and thermalmanagement in PEMFCs—II. Clamping force",
+      "year": 2008,
+      "citation_raw": "21 2008 Dewan Hasan Ahmed, Hyung Jin Sung, Joongmyeon Bae Effect of GDL permeability on water and thermalmanagement in PEMFCs—II. Clamping force International Journal of Hydrogen Energy 33 14 3786 3800",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effect of GDL permeability on water and thermalmanagement in PEMFCs—I. Isotropic and anisotropicpermeability",
+      "year": 2008,
+      "citation_raw": "20 2008 Dewan Hasan Ahmed, Hyung Jin Sung, Joongmyeon Bae Effect of GDL permeability on water and thermalmanagement in PEMFCs—I. Isotropic and anisotropicpermeability International Journal of Hydrogen Energy 33 14 3767 3785",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Improved configuration of supported nickel catalysts in a steam reformer for effective hydrogen production from methane",
+      "year": 2008,
+      "citation_raw": "19 2008 Shinku Lee, Joongmyeon Bae, Sungkwang Lim, Joonguen Park Improved configuration of supported nickel catalysts in a steam reformer for effective hydrogen production from methane Journal of Power Sources 180 1 506 515",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Fabrication and Characterization of Metal-Supported Solid Oxide Fuel Cells",
+      "year": 2008,
+      "citation_raw": "18 2008 Changbo Lee, Joongmyeon Bae Fabrication and Characterization of Metal-Supported Solid Oxide Fuel Cells Journal of Power Sources 176 1 62 69",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Electrochemical investigation of LSGMC-composite cathodes on LSGM-substrate",
+      "year": 2008,
+      "citation_raw": "17 2008 Anh-Tuan Do, James Guo, Xinyu Lu, Thomas Pine, Joongmyeon Bae, Jack Brouwer Electrochemical investigation of LSGMC-composite cathodes on LSGM-substrate ECSTransactions 13 26 165 180",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Effect of A-site Deficiency on Mixed Conducting Properties of (Ba,Sr)(Co,Fe)O3-d Electrodes for Solid Oxide Fuel Cell",
+      "year": 2008,
+      "citation_raw": "16 2008 Yu-Mi Kim, Joongmyeon Bae Effect of A-site Deficiency on Mixed Conducting Properties of (Ba,Sr)(Co,Fe)O3-d Electrodes for Solid Oxide Fuel Cell ECSTransactions 13 26 137 143",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Performance improvement of diesel autothermal reformer by applying ultrasonic injector for effective fuel delivery",
+      "year": 2007,
+      "citation_raw": "15 2007 Inyong Kang, Joongmyeon Bae, Sangho Yoon, Youngsung Yoo Performance improvement of diesel autothermal reformer by applying ultrasonic injector for effective fuel delivery Journal of Power Sources 172 2 845 852",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Reactants flow behavior and water management for different current densities in PEMFC",
+      "year": 2019,
+      "citation_raw": "14 2007 Dewan Hasan Ahmed, Hyung Jin Sung, Joongmyeon Bae, Dong Ryul Lee Reactants flow behavior and water management for different current densities in PEMFC International Journal of Heat and Mass Transfer 51 7~8 2006 2019",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Small Stack Performance of Intermediate Temperature-Operating Solid Oxide Fuel Cells using Stainless Steel Interconnects and Anode-Supported Single Cell",
+      "year": 2007,
+      "citation_raw": "13 2007 Joongmyeon Bae, Sungkwang Lim , Hyunjin Jee ,Jung Hyun Kim, Young-Sung Yoo and Taehee Lee Small Stack Performance of Intermediate Temperature-Operating Solid Oxide Fuel Cells using Stainless Steel Interconnects and Anode-Supported Single Cell Journal of Power Sources 172 1 100 107",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Short Stack Performance of Intermediate Temperature-Operating Solid Oxide Fuel Cells with Hydrocarbon Fuel Processor",
+      "year": 2007,
+      "citation_raw": "12 2007 Joongmyeon Bae, Hyunjin Jee, Junghyun Kim and Youngsung Yoo Short Stack Performance of Intermediate Temperature-Operating Solid Oxide Fuel Cells with Hydrocarbon Fuel Processor Materials science forum 539 2 1338 1343",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Performance Comparison of Autothermal Reforming for Liquid Hydrocarbons, Gasoline and Diesel for Fuel Cell Applications",
+      "year": 2006,
+      "citation_raw": "11 2006 Inyong Kang, Joongmyeon Bae and Gyujong Bae Performance Comparison of Autothermal Reforming for Liquid Hydrocarbons, Gasoline and Diesel for Fuel Cell Applications Journal of Power Sources 163 1 538 546",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Autothermal reforming study of diesel for fuel cell application",
+      "year": 2006,
+      "citation_raw": "10 2006 Inyong Kang and Joongmyeon Bae Autothermal reforming study of diesel for fuel cell application Journal of Power Sources 159 2 1283 1290",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Functional Analysis of Electrode and Small Stack Operation in Solid Oxide Fuel Cell",
+      "year": 2006,
+      "citation_raw": "9 2006 Bae, Joong-Myeon; Kim, Ki-Hyun; Ji, Hyun-Jin; Kim, Jung-Hyun; Kang, In-Yong; Lim, Sung-Kwang; Yoo, Young-Sung Functional Analysis of Electrode and Small Stack Operation in Solid Oxide Fuel Cell Journal of the Korean Ceramic Society 43 12 812 822",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Microchennel development for autothermal reforming of hydrocarbon fuels",
+      "year": 2005,
+      "citation_raw": "8 2005 J.-M. Bae, S. Ahmed, R. Kumar, E. Doss Microchennel development for autothermal reforming of hydrocarbon fuels Journal of Power Sources 139 1-2 91 95",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Properties of selected sulfonated polymers as proton-conducting electrolytes for polymer electrolyte fuel cells",
+      "year": 2002,
+      "citation_raw": "7 2002 J.-M. Bae, I. Honma, M. Murata, T. Yamamoto, M. Rikukawa, N. Ogata Properties of selected sulfonated polymers as proton-conducting electrolytes for polymer electrolyte fuel cells Solid State Ionics 147 1-2 189 194",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Synthesis and properties of ceramics-polymer composite membranes as high temperature proton conducting electrolytes",
+      "year": 1999,
+      "citation_raw": "6 1999 Bae, JM (Bae, JM) ; Honma, I (Honma, I) ; Hirakawa, S (Hirakawa, S) Synthesis and properties of ceramics-polymer composite membranes as high temperature proton conducting electrolytes JOURNAL OF THE KOREAN PHYSICAL SOCIETY 35 S315 S319",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Properties of pyrochlore ruthenate cathodes for intermediate temperature solid oxide fuel cells",
+      "year": 1999,
+      "citation_raw": "5 1999 J.-M. BAE & B. C. H. STEELE Properties of pyrochlore ruthenate cathodes for intermediate temperature solid oxide fuel cells Journal of Electroceramics 3 1 37 46",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Synthesis of organic/inorganic nanocomposites protonic conducting membrane through sol-gel processes",
+      "year": 1999,
+      "citation_raw": "4 1999 I Honma, S Hirakawa, K Yamada, J.M Bae Synthesis of organic/inorganic nanocomposites protonic conducting membrane through sol-gel processes Solid State Ionics 118 1-2 29 36",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Properties of La0.6Sr0.4Co0.2Fe0.8O3−δ (LSCF) double layer cathodes on gadolinium-doped cerium oxide (CGO) electrolytes: I. Role of SiO2",
+      "year": 1998,
+      "citation_raw": "3 1998 Joong-Myeon Bae, B.C.H Steele Properties of La0.6Sr0.4Co0.2Fe0.8O3−δ (LSCF) double layer cathodes on gadolinium-doped cerium oxide (CGO) electrolytes: I. Role of SiO2 Solid State Ionics 106 3-4 247 253",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Properties of La0.6Sr0.4Co0.2Fe0.8O3−x (LSCF) double layer cathodes on gadolinium-doped cerium oxide (CGO) electrolytes: II. Role of oxygen exchange and diffusion",
+      "year": 1998,
+      "citation_raw": "2 1998 B.C.H Steele, Joong-Myeon Bae Properties of La0.6Sr0.4Co0.2Fe0.8O3−x (LSCF) double layer cathodes on gadolinium-doped cerium oxide (CGO) electrolytes: II. Role of oxygen exchange and diffusion Solid State Ionics 106 3-4 255 261",
+      "source_url": "https://www.necs.kr/international-journals/"
+    },
+    {
+      "title": "Surface conduction characteristic of 8 mol% Y203-ZrO2",
+      "year": 1992,
+      "citation_raw": "1 1992 Joong-Myeon Bae and Soon-Ja Park Surface conduction characteristic of 8 mol% Y203-ZrO2 Solid State Ionics 53-56 798 805",
+      "source_url": "https://www.necs.kr/international-journals/"
+    }
+  ]
+}

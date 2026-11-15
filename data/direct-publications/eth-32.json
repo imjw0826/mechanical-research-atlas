@@ -1,0 +1,318 @@
+{
+  "university": "ETH Zurich",
+  "university_key": "eth",
+  "pi": "Salvador Pané i Vidal",
+  "lab_name": null,
+  "lab_url": "https://rre.ethz.ch/#xd_co_f=MjdhNmMxNTFhNTU5ZDVhMjY4OTE1NjMzNDExOTk2Nzg=~",
+  "publication_urls": [
+    "https://publications.msrl.ethz.ch/",
+    "https://ethz-msrl-publications.netlify.app/publication/2024/08/18/teleop_hk",
+    "https://ethz-msrl-publications.netlify.app/publication/2024/08/13/targeted_injection_swarms",
+    "https://ethz-msrl-publications.netlify.app/publication/2024/05/11/navion",
+    "https://ethz-msrl-publications.netlify.app/publication/2024/04/19/remns",
+    "https://ethz-msrl-publications.netlify.app/publication/2024/03/14/autonomous_navigation",
+    "https://ethz-msrl-publications.netlify.app/publication/2024/02/14/tc_scirob",
+    "https://ethz-msrl-publications.netlify.app/publication/2023/11/08/localization_ac",
+    "https://ethz-msrl-publications.netlify.app/publication/2023/05/25/ablation_platform",
+    "https://ethz-msrl-publications.netlify.app/publication/2023/03/07/masochain",
+    "https://ethz-msrl-publications.netlify.app/publication/2022/12/26/vs_iros",
+    "https://ethz-msrl-publications.netlify.app/publication/2022/10/13/ttts",
+    "https://ethz-msrl-publications.netlify.app/publication/2022/09/14/gradiometer",
+    "https://ethz-msrl-publications.netlify.app/publication/2022/08/05/ws_emns"
+  ],
+  "accessed_at": "2026-11-12T15:15:36.157444+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 14개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Teleoperated Magnetic Endoscopy: A Case Study and Perspective",
+      "year": 2024,
+      "citation_raw": "Teleoperated Magnetic Endoscopy: A Case Study and Perspective Alexandre Mesot, Michelle Mattille, Quentin Boehler, Nina Schmid, Sean Lyttle, Florian Heemeyer, Shannon M. Chan , Philip W. Y. Chiu , and Bradley J. Nelson Advanced Intelligent Systems, 2024",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Magnetically Guided Microcatheter for Targeted Injection of Magnetic Particle Swarms",
+      "year": 2024,
+      "citation_raw": "Magnetically Guided Microcatheter for Targeted Injection of Magnetic Particle Swarms Harun Torlakcik, Semih Sevim, Pedro Alves , Michael Mattmann, Joaquim Llacer-Wintle , Maria Pinto , Rosa Moreira , Andreas D. Flouris , Fabian C. Landers , Xiang-Zhong Chen, Josep Puigmartí-Luis, Quentin Boehler, Tiago Sotto Mayor , Minsoo Kim, Bradley J. Nelson, and Salvador Pane Advanced Science, 2024",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "A Human-Scale Clinically Ready Electromagnetic Navigation System for Magnetically Responsive Biomaterials and Medical Devices",
+      "year": 2024,
+      "citation_raw": "A Human-Scale Clinically Ready Electromagnetic Navigation System for Magnetically Responsive Biomaterials and Medical Devices Simone Gervasoni, Norman Pedrini , Tarik Rifai , Cedric Fischer, Fabian C. Landers , Michael Mattmann, Roland Dreyfus, Silvia Viviani, Andrea Veciana , Enea Masina , Buse Aktas , Josep Puigmartí-Luis, Christophe Chautems, Salvador Pane, Quentin Boehler, Philipp Gruber , and Bradley J. Nelson Advanced Materials, 2024",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Fast Rotating Magnetic Fields in Open Workspace Using Resonant Magnetic Actuation Systems With Magnetic Decoupling",
+      "year": 2023,
+      "citation_raw": "Fast Rotating Magnetic Fields in Open Workspace Using Resonant Magnetic Actuation Systems With Magnetic Decoupling Denis von Arx, Harun Torlakcik, Minsoo Kim, Salvador Pane, Bradley J. Nelson, and Quentin Boehler IEEE Robotics and Automation Letters, 2023",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Autonomous Magnetic Navigation in Endoscopic Image Mosaics",
+      "year": 2024,
+      "citation_raw": "Autonomous Magnetic Navigation in Endoscopic Image Mosaics Michelle Mattille, Quentin Boehler, Jonas Lussi, Nicole Ochsenbein, Ueli Moehrlen, and Bradley J. Nelson Advanced Science, 2024",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Dexterous helical magnetic robot for improved endovascular access",
+      "year": 2024,
+      "citation_raw": "Dexterous helical magnetic robot for improved endovascular access Roland Dreyfus, Quentin Boehler, Sean Lyttle, Philipp Gruber , Jonas Lussi, Christophe Chautems, Simone Gervasoni, Jatta Berberat , Dominic Seibold , Nicole Ochsenbein, Michael Reinehr , Miriam Weisskopf , Luca Remonda , and Bradley J. Nelson Science Robotics, 2024",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Simultaneous Localization and Actuation Using Electromagnetic Navigation Systems",
+      "year": 2023,
+      "citation_raw": "Simultaneous Localization and Actuation Using Electromagnetic Navigation Systems Denis von Arx, Cedric Fischer, Harun Torlakcik, Salvador Pane, Bradley J. Nelson, and Quentin Boehler IEEE Transactions on Robotics, 2023",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "An Evaluation Platform for Catheter Ablation Navigation",
+      "year": 2023,
+      "citation_raw": "An Evaluation Platform for Catheter Ablation Navigation Florian Heemeyer, Christophe Chautems, Quentin Boehler, Jose L. Merino , and Bradley J. Nelson International Symposium on Medical Robotics (ISMR), 2023",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Self-folding soft-robotic chains with reconfigurable shapes and functionalities",
+      "year": 2023,
+      "citation_raw": "Self-folding soft-robotic chains with reconfigurable shapes and functionalities Hongri Gu, Marino Möckli , Claas Ehmke, Minsoo Kim, Matthias Wieland , Simon Moser , Clemens Bechinger, Quentin Boehler, and Bradley J. Nelson Nature Communications, 2023",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Shape memory polymer variable stiffness magnetic catheters with hybrid stiffness control",
+      "year": 2022,
+      "citation_raw": "Shape memory polymer variable stiffness magnetic catheters with hybrid stiffness control Michael Mattmann, Quentin Boehler, Xiang-Zhong Chen, Salvador Pane, and Bradley J. Nelson 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Magnetically Guided Laser Surgery for the Treatment of Twin-to-Twin Transfusion Syndrome",
+      "year": 2022,
+      "citation_raw": "Magnetically Guided Laser Surgery for the Treatment of Twin-to-Twin Transfusion Syndrome Jonas Lussi, Simone Gervasoni, Michelle Mattille, Roland Dreyfus, Quentin Boehler, Michael Reinehr , Nicole Ochsenbein, Bradley J. Nelson, and Ueli Moehrlen Advanced Intelligent Systems, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Gradiometer-based Magnetic Localization for Medical Tools",
+      "year": 2022,
+      "citation_raw": "Gradiometer-based Magnetic Localization for Medical Tools Cedric Fischer, Thomas Quirin , Christophe Chautems, Quentin Boehler, Joris Pascal , and Bradley J. Nelson IEEE Transactions on Magnetics, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "On the Workspace of Electromagnetic Navigation Systems",
+      "year": 2022,
+      "citation_raw": "On the Workspace of Electromagnetic Navigation Systems Quentin Boehler, Simone Gervasoni, Samuel L. Charreyron, Christophe Chautems, and Bradley J. Nelson IEEE Transactions on Robotics, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Artificial Microtubules for Rapid and Collective Transport of Magnetic Microcargoes",
+      "year": 2022,
+      "citation_raw": "Artificial Microtubules for Rapid and Collective Transport of Magnetic Microcargoes Hongri Gu, Emre Hanedan , Quentin Boehler, Tian-Yun Huang, Arnold J. T. M. Mathijssen , and Bradley J. Nelson Nature Machine Intelligence, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "A Simulation Framework for Magnetic Continuum Robots",
+      "year": 2022,
+      "citation_raw": "A Simulation Framework for Magnetic Continuum Robots Roland Dreyfus, Quentin Boehler, and Bradley J. Nelson IEEE Robotics and Automation Letters, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Using Magnetic Fields to Navigate and Simultaneously Localize Catheters in Endoluminal Environments",
+      "year": 2022,
+      "citation_raw": "Using Magnetic Fields to Navigate and Simultaneously Localize Catheters in Endoluminal Environments Cedric Fischer, Quentin Boehler, and Bradley J. Nelson IEEE Robotics and Automation Letters, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Magnetic Concentric Tube Robots: Introduction and Analysis",
+      "year": 2022,
+      "citation_raw": "Magnetic Concentric Tube Robots: Introduction and Analysis Quentin Peyron, Quentin Boehler, Patrick Rougeot , Pierre Roux , Bradley J. Nelson, Nicolas Andreff, Kanty Rabenorosoa, and Pierre Renaud The International Journal of Robotics Research, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "A Variable Stiffness Magnetic Catheter Made of a Conductive Phase-Change Polymer for Minimally Invasive Surgery",
+      "year": 2022,
+      "citation_raw": "A Variable Stiffness Magnetic Catheter Made of a Conductive Phase-Change Polymer for Minimally Invasive Surgery Yegor Piskarev, Jun Shintake , Christophe Chautems, Jonas Lussi, Quentin Boehler, Bradley J. Nelson, and Dario Floreano Advanced Functional Materials, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Magnetically Assisted Robotic Fetal Surgery for the Treatment of Spina Bifida",
+      "year": 2022,
+      "citation_raw": "Magnetically Assisted Robotic Fetal Surgery for the Treatment of Spina Bifida Simone Gervasoni, Jonas Lussi, Silvia Viviani, Quentin Boehler, Nicole Ochsenbein, Ueli Moehrlen, and Bradley J. Nelson IEEE Transactions on Medical Robotics and Bionics, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Thermoset Shape Memory Polymer Variable Stiffness 4D Robotic Catheters",
+      "year": 2021,
+      "citation_raw": "Thermoset Shape Memory Polymer Variable Stiffness 4D Robotic Catheters Michael Mattmann, Carmela De Marco, Francesco Briatico, Stefano Tagliabue, Aron Colusso, Xiang-Zhong Chen, Jonas Lussi, Christophe Chautems, Salvador Pane, and Bradley J. Nelson Advanced Science, 2021",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "A Submillimeter Continuous Variable Stiffness Catheter for Compliance Control",
+      "year": 2021,
+      "citation_raw": "A Submillimeter Continuous Variable Stiffness Catheter for Compliance Control Jonas Lussi, Michael Mattmann, Semih Sevim, Fabian Grigis, Carmela De Marco, Christophe Chautems, Salvador Pane, Josep Puigmartí-Luis, Quentin Boehler, and Bradley J. Nelson Advanced Science, 2021",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Modeling Electromagnetic Navigation Systems",
+      "year": 2021,
+      "citation_raw": "Modeling Electromagnetic Navigation Systems Samuel L. Charreyron, Quentin Boehler, Byungsoo Kim, Cameron Weibel, Christophe Chautems, and Bradley J. Nelson IEEE Transactions on Robotics, 2021",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Magnetically Active Cardiac Patches as an Untethered, Non‐Blood Contacting Ventricular Assist Device",
+      "year": 2020,
+      "citation_raw": "Magnetically Active Cardiac Patches as an Untethered, Non‐Blood Contacting Ventricular Assist Device Hongri Gu, Thibaud Bertrand, Quentin Boehler, Christophe Chautems, Nikolay V. Vasilyev, and Bradley J. Nelson Advanced Science, 2020",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Magnetic Cilia Carpets with Programmable Metachronal Waves",
+      "year": 2020,
+      "citation_raw": "Magnetic Cilia Carpets with Programmable Metachronal Waves Hongri Gu, Quentin Boehler, Haoyang Cui, Eleonora Secchi, Giovanni Savorana, Carmela De Marco, Simone Gervasoni, Quentin Peyron, Tian-Yun Huang, Salvador Pane, Ann M. Hirt, Daniel Ahmed, and Bradley J. Nelson Nature Communications, 2020",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "A Magnetically Navigated Microcannula for Subretinal Injections",
+      "year": 2020,
+      "citation_raw": "A Magnetically Navigated Microcannula for Subretinal Injections Samuel L. Charreyron, Quentin Boehler, Aschraf Danun, Alexandre Mesot, Matthias Becker, and Bradley J. Nelson IEEE Transactions on Biomedical Engineering, 2020",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Magnetic Quadrupole Assemblies with Arbitrary Shapes and Magnetizations",
+      "year": 2019,
+      "citation_raw": "Magnetic Quadrupole Assemblies with Arbitrary Shapes and Magnetizations Hongri Gu, Quentin Boehler, Daniel Ahmed, and Bradley J. Nelson Science Robotics, 2019",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Magnetic Continuum Device with Variable Stiffness for Minimally Invasive Surgery",
+      "year": 2019,
+      "citation_raw": "Magnetic Continuum Device with Variable Stiffness for Minimally Invasive Surgery Christophe Chautems, Alice Tonazzini, Quentin Boehler, Seung Hee Jeong, Dario Floreano, and Bradley J. Nelson Advanced Intelligent System, 2019",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "3D Path Planning for Flexible Needle Steering in Neurosurgery",
+      "year": 2019,
+      "citation_raw": "3D Path Planning for Flexible Needle Steering in Neurosurgery Ayoung Hong, Quentin Boehler, Roman Moser, Ajmal Zemmar, Lennart Stieglitz, and Bradley J. Nelson The International Journal of Medical Robotics and Computer Assisted Surgery, 2019",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "A Magnetically Steered Endolaser Probe for Automated Panretinal Photocoagulation",
+      "year": 2019,
+      "citation_raw": "A Magnetically Steered Endolaser Probe for Automated Panretinal Photocoagulation Samuel L. Charreyron, Quentin Boehler, Edoardo Gabbi, Matthias Becker, and Bradley J. Nelson IEEE Robotics and Automation Letters, 2019",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Kinematic Analysis of Magnetic Continuum Robots Using Continuation Method and Bifurcation Analysis",
+      "year": 2018,
+      "citation_raw": "Kinematic Analysis of Magnetic Continuum Robots Using Continuation Method and Bifurcation Analysis Quentin Peyron, Quentin Boehler, Kanty Rabenorosoa, Bradley J. Nelson, Pierre Renaud, and Nicolas Andreff IEEE Robotics and Automation Letters, 2018",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Design and Evaluation of a Steerable Magnetic Sheath for Cardiac Ablations",
+      "year": 2018,
+      "citation_raw": "Design and Evaluation of a Steerable Magnetic Sheath for Cardiac Ablations Christophe Chautems, Sean Lyttle, Quentin Boehler, and Bradley J. Nelson IEEE Robotics and Automation Letters 3, 2018",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Shared Control of a Magnetic Microcatheter for Vitreoretinal Targeted Drug Delivery",
+      "year": 2017,
+      "citation_raw": "Shared Control of a Magnetic Microcatheter for Vitreoretinal Targeted Drug Delivery Samuel L. Charreyron, Burak Zeydan, and Bradley J. Nelson IEEE International Conference on Robotics and Automation (ICRA), 2017",
+      "source_url": "https://ethz-msrl-publications.netlify.app/"
+    },
+    {
+      "title": "Teleoperated Magnetic Endoscopy: A Case Study and Perspective",
+      "year": 2024,
+      "citation_raw": "Teleoperated Magnetic Endoscopy: A Case Study and Perspective Alexandre Mesot, Michelle Mattille, Quentin Boehler, Nina Schmid, Sean Lyttle, Florian Heemeyer, Shannon M. Chan, Philip W. Y. Chiu, and Bradley J. Nelson Published Advanced Intelligent Systems, 2024",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2024/08/18/teleop_hk"
+    },
+    {
+      "title": "Magnetically Guided Microcatheter for Targeted Injection of Magnetic Particle Swarms",
+      "year": 2024,
+      "citation_raw": "Magnetically Guided Microcatheter for Targeted Injection of Magnetic Particle Swarms Harun Torlakcik, Semih Sevim, Pedro Alves, Michael Mattmann, Joaquim Llacer-Wintle, Maria Pinto, Rosa Moreira, Andreas D. Flouris, Fabian C. Landers, Xiang-Zhong Chen, Josep Puigmartí-Luis, Quentin Boehler, Tiago Sotto Mayor, Minsoo Kim, Bradley J. Nelson, and Salvador Pane Published Advanced Science, 2024",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2024/08/13/targeted_injection_swarms"
+    },
+    {
+      "title": "A Human-Scale Clinically Ready Electromagnetic Navigation System for Magnetically Responsive Biomaterials and Medical Devices",
+      "year": 2024,
+      "citation_raw": "A Human-Scale Clinically Ready Electromagnetic Navigation System for Magnetically Responsive Biomaterials and Medical Devices Simone Gervasoni, Norman Pedrini, Tarik Rifai, Cedric Fischer, Fabian C. Landers, Michael Mattmann, Roland Dreyfus, Silvia Viviani, Andrea Veciana, Enea Masina, Buse Aktas, Josep Puigmartí-Luis, Christophe Chautems, Salvador Pane, Quentin Boehler, Philipp Gruber, and Bradley J. Nelson Published Advanced Materials, 2024",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2024/05/11/navion"
+    },
+    {
+      "title": "Fast Rotating Magnetic Fields in Open Workspace Using Resonant Magnetic Actuation Systems With Magnetic Decoupling",
+      "year": 2023,
+      "citation_raw": "Fast Rotating Magnetic Fields in Open Workspace Using Resonant Magnetic Actuation Systems With Magnetic Decoupling Denis von Arx, Harun Torlakcik, Minsoo Kim, Salvador Pane, Bradley J. Nelson, and Quentin Boehler Published IEEE Robotics and Automation Letters, 2023",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2024/04/19/remns"
+    },
+    {
+      "title": "Autonomous Magnetic Navigation in Endoscopic Image Mosaics",
+      "year": 2024,
+      "citation_raw": "Autonomous Magnetic Navigation in Endoscopic Image Mosaics Michelle Mattille, Quentin Boehler, Jonas Lussi, Nicole Ochsenbein, Ueli Moehrlen, and Bradley J. Nelson Published Advanced Science, 2024",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2024/03/14/autonomous_navigation"
+    },
+    {
+      "title": "Dexterous helical magnetic robot for improved endovascular access",
+      "year": 2024,
+      "citation_raw": "Dexterous helical magnetic robot for improved endovascular access Roland Dreyfus, Quentin Boehler, Sean Lyttle, Philipp Gruber, Jonas Lussi, Christophe Chautems, Simone Gervasoni, Jatta Berberat, Dominic Seibold, Nicole Ochsenbein, Michael Reinehr, Miriam Weisskopf, Luca Remonda, and Bradley J. Nelson Published Science Robotics, 2024",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2024/02/14/tc_scirob"
+    },
+    {
+      "title": "Simultaneous Localization and Actuation Using Electromagnetic Navigation Systems",
+      "year": 2023,
+      "citation_raw": "Simultaneous Localization and Actuation Using Electromagnetic Navigation Systems Denis von Arx, Cedric Fischer, Harun Torlakcik, Salvador Pane, Bradley J. Nelson, and Quentin Boehler Published IEEE Transactions on Robotics, 2023",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2023/11/08/localization_ac"
+    },
+    {
+      "title": "An Evaluation Platform for Catheter Ablation Navigation",
+      "year": 2023,
+      "citation_raw": "An Evaluation Platform for Catheter Ablation Navigation Florian Heemeyer, Christophe Chautems, Quentin Boehler, Jose L. Merino, and Bradley J. Nelson Published International Symposium on Medical Robotics (ISMR), 2023",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2023/05/25/ablation_platform"
+    },
+    {
+      "title": "doi = {10.1109/ismr57123.2023.10130271}",
+      "year": 2023,
+      "citation_raw": "doi = {10.1109/ismr57123.2023.10130271}, url = {https://doi.org/10.1109/ismr57123.2023.10130271}, year = {2023},",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2023/05/25/ablation_platform"
+    },
+    {
+      "title": "title = {An Evaluation Platform for Catheter Ablation Navigation}",
+      "year": 2023,
+      "citation_raw": "author = {Florian Heemeyer and Christophe Chautems and Quentin Boehler and Jos{\\'{e}} L. Merino and Bradley J. Nelson}, title = {An Evaluation Platform for Catheter Ablation Navigation}, booktitle = {2023 International Symposium on Medical Robotics ({ISMR})}",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2023/05/25/ablation_platform"
+    },
+    {
+      "title": "Self-folding soft-robotic chains with reconfigurable shapes and functionalities",
+      "year": 2023,
+      "citation_raw": "Self-folding soft-robotic chains with reconfigurable shapes and functionalities Hongri Gu, Marino Möckli, Claas Ehmke, Minsoo Kim, Matthias Wieland, Simon Moser, Clemens Bechinger, Quentin Boehler, and Bradley J. Nelson Published Nature Communications, 2023",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2023/03/07/masochain"
+    },
+    {
+      "title": "Shape memory polymer variable stiffness magnetic catheters with hybrid stiffness control",
+      "year": 2022,
+      "citation_raw": "Shape memory polymer variable stiffness magnetic catheters with hybrid stiffness control Michael Mattmann, Quentin Boehler, Xiang-Zhong Chen, Salvador Pane, and Bradley J. Nelson Published 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2022/12/26/vs_iros"
+    },
+    {
+      "title": "title={Shape memory polymer variable stiffness magnetic catheters with hybrid stiffness control}",
+      "year": 2022,
+      "citation_raw": "title={Shape memory polymer variable stiffness magnetic catheters with hybrid stiffness control}, author={Mattmann, Michael and Boehler, Quentin and Chen, Xiang-Zhong and Pan{\\'e}, Salvador and Nelson, Bradley J}, booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2022/12/26/vs_iros"
+    },
+    {
+      "title": "Magnetically Guided Laser Surgery for the Treatment of Twin-to-Twin Transfusion Syndrome",
+      "year": 2022,
+      "citation_raw": "Magnetically Guided Laser Surgery for the Treatment of Twin-to-Twin Transfusion Syndrome Jonas Lussi, Simone Gervasoni, Michelle Mattille, Roland Dreyfus, Quentin Boehler, Michael Reinehr, Nicole Ochsenbein, Bradley J. Nelson, and Ueli Moehrlen Published Advanced Intelligent Systems, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2022/10/13/ttts"
+    },
+    {
+      "title": "Gradiometer-based Magnetic Localization for Medical Tools",
+      "year": 2022,
+      "citation_raw": "Gradiometer-based Magnetic Localization for Medical Tools Cedric Fischer, Thomas Quirin, Christophe Chautems, Quentin Boehler, Joris Pascal, and Bradley J. Nelson Published IEEE Transactions on Magnetics, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2022/09/14/gradiometer"
+    },
+    {
+      "title": "On the Workspace of Electromagnetic Navigation Systems",
+      "year": 2022,
+      "citation_raw": "On the Workspace of Electromagnetic Navigation Systems Quentin Boehler, Simone Gervasoni, Samuel L. Charreyron, Christophe Chautems, and Bradley J. Nelson Published IEEE Transactions on Robotics, 2022",
+      "source_url": "https://ethz-msrl-publications.netlify.app/publication/2022/08/05/ws_emns"
+    }
+  ]
+}

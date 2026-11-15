@@ -1,0 +1,32 @@
+{
+  "university": "National University of Singapore",
+  "university_key": "nus",
+  "pi": "YAN Wentao",
+  "lab_name": null,
+  "lab_url": "http://blog.nus.edu.sg/yanwt/",
+  "publication_urls": [
+    "https://blog.nus.edu.sg/yanwt/files/2023/08/1692181072553.png",
+    "https://blog.nus.edu.sg/yanwt/2023/08/16/some-most-downloaded-read-papers-in-journals-from-our-group/"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "게시 목록 후보 페이지에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
+  "status": "partial",
+  "papers": [],
+  "dropped_low_confidence": [
+    {
+      "title": "Some most downloaded/read papers in journals from our group",
+      "year": 2023,
+      "citation_raw": "Some most downloaded/read papers in journals from our group mpeyanw Uncategorized August 16, 2023 0 Comment",
+      "source_url": "https://blog.nus.edu.sg/yanwt/2023/08/16/some-most-downloaded-read-papers-in-journals-from-our-group/"
+    },
+    {
+      "title": "Our recent papers are among the most downloaded/read papers in Acta Materialia, JMPS, and Materials Research Letters!",
+      "year": 2023,
+      "citation_raw": "Our recent papers are among the most downloaded/read papers in Acta Materialia, JMPS, and Materials Research Letters! ← 2023 Spring Festival at Prof. Yan’s home",
+      "source_url": "https://blog.nus.edu.sg/yanwt/2023/08/16/some-most-downloaded-read-papers-in-journals-from-our-group/"
+    }
+  ]
+}

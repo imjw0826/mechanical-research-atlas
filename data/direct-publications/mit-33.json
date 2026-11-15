@@ -1,0 +1,159 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Daniel Frey",
+  "lab_name": null,
+  "lab_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu",
+  "discovered_links": [
+    {
+      "text": "http://blossoms.mit.edu/",
+      "url": "http://blossoms.mit.edu/"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Engineering Design Thinking, Teaching, and Learning",
+      "year": 2005,
+      "citation_raw": "Dym, C. L., A. M. Agogino, O. Eris, D. D. Frey, and L. J. Leifer, 2005, “Engineering Design Thinking, Teaching, and Learning,” ASEE Journal of Engineering Education 94(1):103-120.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Improving System Reliability by Failure-Mode Avoidance Including Four Concept Design Strategies",
+      "year": 2005,
+      "citation_raw": "Clausing, D. and D. D. Frey, 2005, “Improving System Reliability by Failure-Mode Avoidance Including Four Concept Design Strategies,” Systems Engineering (INCOSE) 8(3):245-261.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Experimentation and its Role in Engineering Design: Linking a Student Design Exercise to New Results from Cognitive Psychology",
+      "year": 2006,
+      "citation_raw": "Magee, C. L., and D. D. Frey, 2006, “Experimentation and its Role in Engineering Design: Linking a Student Design Exercise to New Results from Cognitive Psychology,” International Journal of Engineering Education 22(3):478-488.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "The Mechanisms by which Adaptive One-Factor-at-a-Time Experimentation Leads to Improvement",
+      "year": 2006,
+      "citation_raw": "Frey, D. D., and R. Jugulum, 2006, “The Mechanisms by which Adaptive One-Factor-at-a-Time Experimentation Leads to Improvement,” ASME Journal of Mechanical Design 128:1050-60.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Adaptive One-Factor-at-a-Time Experimentation and Expected Value of Improvement",
+      "year": 2006,
+      "citation_raw": "Frey, D. D., and H. Wang, 2006, “Adaptive One-Factor-at-a-Time Experimentation and Expected Value of Improvement”, Technometrics 48(3):418-31.**",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Noise Strategy in Robust Design: What Aspects of Noise Factors are Important in Quality Engineering?",
+      "year": 2006,
+      "citation_raw": "Singh, J., D. D. Frey, and N. Soderborg, 2006, “Noise Strategy in Robust Design: What Aspects of Noise Factors are Important in Quality Engineering?” Quality Engineering 18:367-377.**",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Engaging Children in Engineering Design Through Popular Media",
+      "year": 2006,
+      "citation_raw": "Frey, D. D., and M. Wolsky, 2006, “Engaging Children in Engineering Design Through Popular Media,” (guest editorial) ASME Journal of Mechanical Design 128(3):513-515.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Validation of Design Methods: Lessons from Medicine",
+      "year": 2006,
+      "citation_raw": "Frey, D. D., and C. Dym, 2006, “Validation of Design Methods: Lessons from Medicine”, Research in Engineering Design 17(1):45-57.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Regularities in Data from Factorial Experiments",
+      "year": 2006,
+      "citation_raw": "2.24. Li, X., N. Sudarsanam, and D. D. Frey, 2006, “Regularities in Data from Factorial Experiments,” Complexity 11(5):32-45",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Part Count and Design of Robust Systems",
+      "year": 2007,
+      "citation_raw": "Frey, D. D., J. Palladino, J. P. Sullivan, and M. Atherton, 2007, “Part Count and Design of Robust Systems,” Systems Engineering (INCOSE) 10(3), pp. 203-221.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "An Adaptive One-factor-at-a-time Method for Robust Parameter Design: Comparison with Crossed Arrays via Case Studies",
+      "year": 2008,
+      "citation_raw": "Frey, D. D., and N. Sudarsanam, 2008, “An Adaptive One-factor-at-a-time Method for Robust Parameter Design: Comparison with Crossed Arrays via Case Studies,” ASME Journal of Mechanical Design 130(2)915-928 **",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Using Hierarchical Probability Models to Evaluate Robust Parameter Design Methods",
+      "year": 2008,
+      "citation_raw": "Frey, D. D., and X. Li, 2008, “Using Hierarchical Probability Models to Evaluate Robust Parameter Design Methods,” Journal of Quality Technology 40(1):1-19. **",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "The Pugh Controlled Convergence Method: Model-Based Evaluation and Implications for Design Theory",
+      "year": 2009,
+      "citation_raw": "Frey, D.D., P. M Herder, Y. Wijnia, E. Subramanian, K. Katsikopoulos, and D. P. Clausing, 2009, \"The Pugh Controlled Convergence Method: Model-Based Evaluation and Implications for Design Theory,\" Research in Engineering Design 20(1):41-50.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Evaluating Three DOE Methodologies: Optimization of a Composite Laminate under Fabrication Error",
+      "year": 2009,
+      "citation_raw": "Milani, A.S., H. Wang, D.D. Frey, and R.C. Abeyaratne, 2009, Evaluating Three DOE Methodologies: Optimization of a Composite Laminate under Fabrication Error, Quality Engineering 21(1):96-110.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Evaluating an Adaptive One-Factor-at-a-Time Search Procedure within the Mahalanobis Taguchi System",
+      "year": 2009,
+      "citation_raw": "Foster, C. R., R. Jugulum, and D. D. Frey, 2009, \"Evaluating an Adaptive One-Factor-at-a-Time Search Procedure within the Mahalanobis Taguchi System,\" International Journal of Industrial and Systems Engineering, 4(9):600-614. **",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Research in engineering design: the role of mathematical theory and empirical evidence",
+      "year": 2010,
+      "citation_raw": "Frey, D.D., P. M Herder, Y. Wijnia, E. Subramanian, K. Katsikopoulos, and D. P. Clausing, K. Oye, R. de Neufville, 2010, \" Research in engineering design: the role of mathematical theory and empirical evidence,\" Research in Engineering Design 21(1):139-145.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Using Ensemble Techniques to Advance Adaptive One-Factor-at-a-Time Experimentation",
+      "year": 2011,
+      "citation_raw": "Sudarsanam, Nandan, and D. D. Frey, 2011, “Using Ensemble Techniques to Advance Adaptive One-Factor-at-a-Time Experimentation,” Quality and Reliability Engineering International. 27(7):947-57. **",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Designing Design Squad: Developing and Assessing a Television Program about Engineering",
+      "year": 2012,
+      "citation_raw": "Frey, D. D., and B. Powers, 2012, \"Designing Design Squad: Developing and Assessing a Television Program about Engineering,\" Journal of Precollege Engineering Education Research. 2(1): 1-20. **",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Beyond R&D: What Design Adds to a Modern Research University",
+      "year": 2011,
+      "citation_raw": "Magee, C. L., K. L. Pey, J. Chen, J. Luo, and D. D. Frey, 2011, “Beyond R&D: What Design Adds to a Modern Research University,” International Journal of Engineering Education 28(2).",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Discussion: Dimensional Analysis and Experimentation as a Catalyst to Learning from Data",
+      "year": 2013,
+      "citation_raw": "Frey, D. D., 2013, \"Discussion: Dimensional Analysis and Experimentation as a Catalyst to Learning from Data\" Technometrics 55(3): 275-278.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Locking mechanism for a voluntary closing prosthetic prehensor",
+      "year": 1998,
+      "citation_raw": "Frey, D. D., E. S. Brown, and L. E. Carlson, 1998, \"Locking mechanism for a voluntary closing prosthetic prehensor,\" patent #5,800,571.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    },
+    {
+      "title": "Ultraportable system for intraoperative isolative and regulation of surgical site environments",
+      "year": 2019,
+      "citation_raw": "Debbie L. Teodorescu, Sally Miller, D. D. Frey, Robert J. Smalley, 2019, \"Ultraportable system for intraoperative isolative and regulation of surgical site environments\", European patent office EP 3 484 404 B1, International Publication number WO 2018/014003.",
+      "source_url": "https://meche.mit.edu/people/faculty/danfrey@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage."
+  ]
+}

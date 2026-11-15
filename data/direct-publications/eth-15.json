@@ -1,0 +1,1044 @@
+{
+  "university": "ETH Zurich",
+  "university_key": "eth",
+  "pi": "Marco Hutter",
+  "lab_name": null,
+  "lab_url": "https://ckg.ethz.ch/",
+  "publication_urls": [
+    "https://rsl.ethz.ch/publications-sources/publications.html",
+    "https://rsl.ethz.ch/publications-sources.html"
+  ],
+  "accessed_at": "2026-11-12T15:15:25.475850+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "In situ impact printing with an autonomous legged excavator: System development, integration, and full-scale demonstration",
+      "year": 2027,
+      "citation_raw": "In situ impact printing with an autonomous legged excavator: System development, integration, and full-scale demonstration Kunaljit Chadha, Filippo A. Spinelli, Lauren Vasey, Grzegorz Malczyk, Ananya Kango, Pok Yin Leung, Marco Hutter and Matthias Kohler Automation in Construction, vol. 193: no. Part 1, pp. 107282, Elsevier, 2027.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Contact-Guided Exploration for Non-Prehensile Locomanipulation With Multi-Critic RL",
+      "year": 2026,
+      "citation_raw": "Contact-Guided Exploration for Non-Prehensile Locomanipulation With Multi-Critic RL Simone Tolomei, Mayank Mittal, Franco Angelini, Manolo Garabini, Paolo Salaris and Marco Hutter IEEE Robotics and Automation Letters, vol. 11: no. 11, pp. 12575-12582, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "PAINT: Partner-Agnostic Intent-Aware Cooperative Transport With Legged Robots",
+      "year": 2026,
+      "citation_raw": "PAINT: Partner-Agnostic Intent-Aware Cooperative Transport With Legged Robots Zhihao Cao, Tianxu An, Chenhao Li, Stelian Coros and Marco Hutter IEEE Robotics and Automation Letters, vol. 11: no. 11, pp. 12312-12319, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "TRaIL-Odom: Tightly Coupled Continuous Time Radar-IMU-LiDAR Odometry With Adaptive Doppler Weighting",
+      "year": 2026,
+      "citation_raw": "TRaIL-Odom: Tightly Coupled Continuous Time Radar-IMU-LiDAR Odometry With Adaptive Doppler Weighting Chiyun Noh, Turcan Tuna, William Talbot, Marco Hutter, Laurent Kneip and Ayoung Kim IEEE Robotics and Automation Letters, vol. 11: no. 11, pp. 12631-12638, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Learning Whole-Body Humanoid Locomotion Via Motion Generation and Motion Tracking",
+      "year": 2026,
+      "citation_raw": "Learning Whole-Body Humanoid Locomotion Via Motion Generation and Motion Tracking Zewei Zhang, Kehan Wen, Michael Xu, Junzhe He, Chenhao Li, Takahiro Miki, Clemens Schwarke, Chong Zhang, Xue Bin Peng and Marco Hutter IEEE Robotics and Automation Letters, vol. 11: no. 9, pp. 10194-10201, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "ELMP: Efficient Learning for Motion Planning Via Analytical Policy Gradients",
+      "year": 2026,
+      "citation_raw": "ELMP: Efficient Learning for Motion Planning Via Analytical Policy Gradients Yixiao Li, Tifanny Portela, Jordis Herrmann, René Zurbrugg and Marco Hutter IEEE Robotics and Automation Letters, vol. 11: no. 9, pp. 10943-10950, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Tripody: An Overconstrained 3-SPR-like Parallel Robot for High-Reach Construction Tasks",
+      "year": 2026,
+      "citation_raw": "Tripody: An Overconstrained 3-SPR-like Parallel Robot for High-Reach Construction Tasks Julien Kindle, Jakub Raczy, Riccardo Balbi, Andrea Alessandretti, Cesar Cadena and Marco Hutter IEEE Robotics and Automation Letters, vol. 11: no. 9, pp. 10497-10504, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Spatially-enhanced recurrent memory for long-range mapless navigation via end-to-end reinforcement learning",
+      "year": 2026,
+      "citation_raw": "Spatially-enhanced recurrent memory for long-range mapless navigation via end-to-end reinforcement learning Fan Yang, Per Frivik, David Hoeller, Chen Wang, Cesar Cadena and Marco Hutter The International Journal of Robotics Research, vol. 45: no. 11, pp. 1682-1706, SAGE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Maximum Stiffness of Impact-Robust Actuators in Highly Dynamic Robotics Tasks: Application to Series Elastic Actuator Design",
+      "year": 2026,
+      "citation_raw": "Maximum Stiffness of Impact-Robust Actuators in Highly Dynamic Robotics Tasks: Application to Series Elastic Actuator Design Anton Shu, Florian Christoph Loeffl, Alexander Kolb, Konrad Fründ, David Wandinger, Fabian Beck, Jens Reinecke, Markus Grebenstein, Marco Hutter and Jinoh Lee IEEE Robotics and Automation Letters, vol. 11: no. 9, pp. 10879-10886, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Pretraining in Actor-Critic Reinforcement Learning for Locomotion",
+      "year": 2026,
+      "citation_raw": "Pretraining in Actor-Critic Reinforcement Learning for Locomotion Jiale Fan, Andrei Cramariuc, Tifanny Portela and Marco Hutter IEEE Robotics and Automation Letters, vol. 11: no. 9, pp. 10313-10320, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Simulating Lunar Conditions for Autonomous Power and Thermal Management in the Endurance Rover",
+      "year": 2026,
+      "citation_raw": "Simulating Lunar Conditions for Autonomous Power and Thermal Management in the Endurance Rover Katharine Patterson, Tristan Hasseler, Tyler Del Sesto, Saptarshi Bandyopadhyay, Lennart Werner, Marco Hutter and Michel D. Ingham AIAA SCITECH 2026 Forum, Orlando, FL, USA, pp.AIAA 2026-0136 Reston, VA: American Institute of Aeronautics and Astronautics, January 12-16, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Learning Locomotion on Discrete Terrain via Minimal Proximity Sensing",
+      "year": 2026,
+      "citation_raw": "Learning Locomotion on Discrete Terrain via Minimal Proximity Sensing Jiale Fan, Connor Flynn, Tianao Xu, Junzhe He, Andrei Cramariuc, Marco Hutter and Robert Baines 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026), Pittsburgh, PA, USA, September 27 - October 1, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "High Precision Hydraulic Excavator Control for Heavy-Duty Grading",
+      "year": 2026,
+      "citation_raw": "High Precision Hydraulic Excavator Control for Heavy-Duty Grading Lennart Werner, Pol Eyschen, Sean Costello, Andrei Cramariuc and Marco Hutter Robotics: Science and Systems Conference (RSS 2026), Sydney, Australia s.l.: RRS Foundation, July 13-17, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Energy-Efficient Learning-Based Control of a Legged Robot in Multiple Gravity Environments",
+      "year": 2025,
+      "citation_raw": "Energy-Efficient Learning-Based Control of a Legged Robot in Multiple Gravity Environments Philip Arm, Oliver Fischer, Joseph Church, Adrian Fuhrer, Hendrik Kolvenbach and Marco Hutter International Conference on Space Robotics (iSpaRo 2025), Sendai, Japan, pp.573-579, Piscataway, NJ: IEEE, December 1-4, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Generalized XR Teleoperation Toolkit for Robotics",
+      "year": 2025,
+      "citation_raw": "Generalized XR Teleoperation Toolkit for Robotics Max Wilder-Smith, Vaishakh Patil and Marco Hutter IROS 2025 Workshop: Augmentative Human-Robot Interaction: From Human Augmentation to Human-Inspired Collaboration, Hangzhou, China s.l.: IROS 2025, October 24, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Generalized XR Teleoperation Toolkit for Robotics",
+      "year": 2025,
+      "citation_raw": "Generalized XR Teleoperation Toolkit for Robotics Max Wilder-Smith, Vaishakh Patil and Marco Hutter Poster presented at the IROS 2025 Workshop: Augmentative Human-Robot Interaction: From Human Augmentation to Human-Inspired Collaboration, Hangzhou, China, October 24, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Constrained Style Learning from Imperfect Demonstrations under Task Optimality",
+      "year": 2025,
+      "citation_raw": "Constrained Style Learning from Imperfect Demonstrations under Task Optimality Kehan Wen, Chenhao Li, Junzhe He and Marco Hutter 9th Annual Conference on Robot Learning (CoRL 2025), Seoul, Korea, pp.2949-2965, Cambridge, MA: PMLR, September 27-30, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation",
+      "year": 2025,
+      "citation_raw": "Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation Pascal Roth, Jonas Frey, Cesar Cadena and Marco Hutter Robotics: Science and Systems Conference (RSS 2025), Los Angeles, CA, USA: Robotics: Science and Systems Foundation, June 21-25, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics",
+      "year": 2025,
+      "citation_raw": "Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics Jonas Frey, Turcan Tuna, Lanke Frank Tarimo Fu, Cedric Weibel, Katharine Patterson, Benjamin Krummenacher, Matthias Müller, Julian Nubert, Maurice Fallon, Cesar Cadena and Marco Hutter Robotics: Science and Systems Conference (RSS 2025), Los Angeles, CA, USA s.l.: RRS Foundation, June 21-25, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Direction Finding for Software Defined Radios with Switched Uniform Circular Arrays",
+      "year": 2025,
+      "citation_raw": "Direction Finding for Software Defined Radios with Switched Uniform Circular Arrays Lennart Werner, Markus Gardill and Marco Hutter IEEE MTT-S International Microwave Symposium (IMS 2025), San Francisco, CA, USA, pp.1123-1126, Piscataway, NJ: IEEE, June 15-20, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Optimization-based motion planning for legged robots",
+      "year": 2018,
+      "citation_raw": "Optimization-based motion planning for legged robots Alexander W. Winkler Doctoral Thesis, Zurich, ETH Zurich, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Perceptive Locomotion for Legged Robots in Rough Terrain",
+      "year": 2018,
+      "citation_raw": "Perceptive Locomotion for Legged Robots in Rough Terrain Péter Fankhauser Doctoral Thesis, Zurich, ETH Zurich, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "State Estimation for Legged Robots - Kinematics, Inertial Sensing, and Computer Vision",
+      "year": 2017,
+      "citation_raw": "State Estimation for Legged Robots - Kinematics, Inertial Sensing, and Computer Vision Michael Bloesch Doctoral Thesis, Zürich, ETH Zürich, 2017.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Planning and Control for Agile Quadruped Robots",
+      "year": 2017,
+      "citation_raw": "Planning and Control for Agile Quadruped Robots Christian Gehring Doctoral Thesis, Zürich, ETH Zürich, 2017.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "StarlETH & Co.: Design and control of legged robots with compliant actuation",
+      "year": 2013,
+      "citation_raw": "StarlETH & Co.: Design and control of legged robots with compliant actuation Marco Hutter Doctoral Thesis, Zurich, ETH Zurich, 2013.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Scaling Rough Terrain Locomotion With Automatic Curriculum Reinforcement Learning",
+      "year": 2026,
+      "citation_raw": "Scaling Rough Terrain Locomotion With Automatic Curriculum Reinforcement Learning Ziming Li, Chenhao Li and Marco Hutter IEEE Robotics and Automation Letters, vol. 11: no. 8, pp. 9295-9302, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Advances, challenges, and opportunities for legged robots",
+      "year": 2026,
+      "citation_raw": "Advances, challenges, and opportunities for legged robots Jonas Frey, Matias Eduardo Mattamala Aravena, Hae-Won Park, Mayank Mittal, Georg Martius, Maike Osborne, Robert Sparrow and Marco Hutter Science Robotics, vol. 11: no. 116, pp. eaee0787, AAAS, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "A Pragmatist Robot: Learning to Plan Tasks by Experiencing the Real World",
+      "year": 2026,
+      "citation_raw": "A Pragmatist Robot: Learning to Plan Tasks by Experiencing the Real World Kaixian Qu, Guowei Lan, René Zurbrügg, Changan Chen, Christopher E. Mower, Haitham Bou-Ammar and Marco Hutter IEEE Robotics and Automation Letters, vol. 11: no. 5, pp. 5606-5613, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management",
+      "year": 2026,
+      "citation_raw": "DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management Casimir Feldmann, Max Wilder-Smith, Vaishakh Patil, Michael Oechsle, Michael Niemeyer, Keisuke Tateno and Marco Hutter IEEE Robotics and Automation Letters, vol. 11: no. 4, pp. 5009-5016, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "LunarLeaper—A mission concept to explore the lunar subsurface with a small-scale legged robot",
+      "year": 2026,
+      "citation_raw": "LunarLeaper—A mission concept to explore the lunar subsurface with a small-scale legged robot Hendrik Kolvenbach, Anna Mittelholz, Simon Christian Stähler, Philip Arm, Valentin Bickel, Adrian Fuhrer, Jordi Gomez Jodar, Ramon Margarit, Joseph Church, Elena Krasnova, Krzysztof Walas, Matthias Grott, Svein-Erik Hamran, Özgür Karatekin, Miguel Olivares-Mendez, Sofia Coloma, Marco Pagnamenta, Michał Gumiela, Jordan Aaron and Marco Hutter Acta Astronautica, vol. 240, pp. 63-75, Elsevier, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "DAPPER: Discriminability-Aware Policy-to-Policy Preference-Based Reinforcement Learning for Query-Efficient Robot Skill Acquisition",
+      "year": 2026,
+      "citation_raw": "DAPPER: Discriminability-Aware Policy-to-Policy Preference-Based Reinforcement Learning for Query-Efficient Robot Skill Acquisition Yuki Kadokawa, Jonas Frey, Takahiro Miki, Takamitsu Matsubara and Marco Hutter IEEE Robotics & Automation Magazine, vol. 33: no. 1, pp. 151-166, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "A robot operating system framework for using large language models in embodied AI",
+      "year": 2026,
+      "citation_raw": "A robot operating system framework for using large language models in embodied AI Christopher E. Mower, Yuhui Wan, Hongzhan Yu, Antoine Grosnit, Jonas Gonzalez-Billandon, Matthieu Zimmer, Puze Liu, Daniel Palenicek, Davide Tateo, Jan Peters, Kaixian Qu, Mike Zhang, Guowei Lan, Andrei Cramariuc, Cesar Cadena, Marco Hutter, Guangjian Tian, Yuzhen Zhuang, Kun Shao and Xingyue Quan Nature Machine Intelligence, vol. 8: no. 3, pp. 313-325, Nature, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Holistic Fusion: Task- and Setup-Agnostic Robot Localization and State Estimation With Factor Graphs",
+      "year": 2026,
+      "citation_raw": "Holistic Fusion: Task- and Setup-Agnostic Robot Localization and State Estimation With Factor Graphs Julian Nubert, Turcan Tuna, Jonas Frey, Cesar Cadena, Katherine J. Kuchenbecker, Shehryar Masaud Khan Khattak and Marco Hutter IEEE Transactions on Robotics, vol. 42, pp. 3366-3387, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Towards bridging the gap: Systematic sim-to-real transfer for diverse legged robots",
+      "year": 2026,
+      "citation_raw": "Towards bridging the gap: Systematic sim-to-real transfer for diverse legged robots Filip Bjelonic, Fabian Tischhauser and Marco Hutter The International Journal of Robotics Research, SAGE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "CaRLi-V: Camera–RADAR–LiDAR Point-Wise 3-D Velocity Estimation",
+      "year": 2026,
+      "citation_raw": "CaRLi-V: Camera–RADAR–LiDAR Point-Wise 3-D Velocity Estimation Landson Guo, Andres Diaz Aguilar, William Talbot, Turcan Tuna, Marco Hutter and Cesar Cadena IEEE Robotics and Automation Practice, vol. 1, pp. 138-143, IEEE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Parkour in the wild: Learning a general and extensible agile locomotion policy using multi-expert distillation and RL fine-tuning",
+      "year": 2026,
+      "citation_raw": "Parkour in the wild: Learning a general and extensible agile locomotion policy using multi-expert distillation and RL fine-tuning Nikita Rudin, Junzhe He, Joshua Aurand and Marco Hutter The International Journal of Robotics Research, SAGE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "GrandTour: A legged robotics dataset in the wild for multi-modal perception and state estimation",
+      "year": 2026,
+      "citation_raw": "GrandTour: A legged robotics dataset in the wild for multi-modal perception and state estimation Turcan Tuna, Jonas Frey, Lanke Frank Tarimo Fu, Katharine Patterson, Tianao Xu, Maurice Fallon, Cesar Cadena and Marco Hutter The International Journal of Robotics Research, SAGE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "DigiForest: Digital Analytics and Robotics for Sustainable Forestry",
+      "year": 2026,
+      "citation_raw": "DigiForest: Digital Analytics and Robotics for Sustainable Forestry Marco Camurri, Enrico Tomelleri, Matías Mattamala, Sebastán Barbas Laina, Martin Jacquet, Jens Behley, Sunni Kanta Prasad Kushwaha, Fang Nan, Niven Chebrolu, Leonard Freißmuth, Marvin Harms, Meher V.R. Malladi, Fan Yang, Jonas Frey, Cesar Cadena, Marco Hutter, Janine Schweier, Kostas Alexis, Cyrill Stachniss, Maurice Fallon and Stefan Leutenegger In Recent Advances in Robotic Perception for Forestry, edited by Portugal, David, vol. 1258 , pp. 589-622, Cham: Springer, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Beyond Cybathlon: on-demand quadrupedal assistance for people with limited mobility",
+      "year": 2026,
+      "citation_raw": "Beyond Cybathlon: on-demand quadrupedal assistance for people with limited mobility Carmen Scheidemann, Andrei Cramariuc, Changan Chen, Jia-Ruei Chiu and Marco Hutter Journal of NeuroEngineering and Rehabilitation, vol. 23: no. 1, pp. 180, BioMed Central, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "An efficient beam search algorithm for active perception in mobile robotics",
+      "year": 2026,
+      "citation_raw": "An efficient beam search algorithm for active perception in mobile robotics Kaixian Qu, Han Wang, Victor Klemm, Cesar Cadena and Marco Hutter The International Journal of Robotics Research, SAGE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Efficient model-based reinforcement learning for robot control via online optimization",
+      "year": 2026,
+      "citation_raw": "Efficient model-based reinforcement learning for robot control via online optimization Fang Nan, Hao Ma, Qinghua Guan, Josie Hughes, Michael Muehlebach and Marco Hutter The International Journal of Robotics Research, SAGE, 2026.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Calibrated dynamic modeling for force and payload estimation in hydraulic machinery",
+      "year": 2025,
+      "citation_raw": "Calibrated dynamic modeling for force and payload estimation in hydraulic machinery Lennart Werner, Pol Eyschen, Sean Costello, Pierluigi Micarelli and Marco Hutter Construction Robotics, vol. 9: no. 2, pp. 26, Springer, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "LLM-Handover: Exploiting LLMs for Task-Oriented Robot-Human Handovers",
+      "year": 2025,
+      "citation_raw": "LLM-Handover: Exploiting LLMs for Task-Oriented Robot-Human Handovers Andreea Tulbure, René Zurbrügg, Timm Grigat and Marco Hutter IEEE Robotics and Automation Letters, vol. 10: no. 11, pp. 12008-12015, IEEE, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Wild visual navigation: fast traversability learning via pre-trained models and online self-supervision",
+      "year": 2025,
+      "citation_raw": "Wild visual navigation: fast traversability learning via pre-trained models and online self-supervision Matias Eduardo Mattamala Aravena, Jonas Frey, Piotr Libera, Nived Chebrolu, Georg Martius, Cesar Cadena, Marco Hutter and Maurice Fallon Autonomous Robots, vol. 49: no. 3, pp. 19, Springer, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Attention-based map encoding for learning generalized legged locomotion",
+      "year": 2025,
+      "citation_raw": "Attention-based map encoding for learning generalized legged locomotion Junzhe He, Chong Zhang, Fabian Jenelten, Ruben Grandia, Moritz Bächer and Marco Hutter Science Robotics, vol. 10: no. 105, pp. eadv3604, AAAS, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Learning coordinated badminton skills for legged manipulators",
+      "year": 2025,
+      "citation_raw": "Learning coordinated badminton skills for legged manipulators Yuntao Ma, Andrei Cramariuc, Farbod Farshidian and Marco Hutter Science Robotics, vol. 10: no. 102, pp. eadu3922, AAAS, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "A Computational Approach for Internal Tendon Routing Channels in a Tendon-Driven Continuum Joint",
+      "year": 2025,
+      "citation_raw": "A Computational Approach for Internal Tendon Routing Channels in a Tendon-Driven Continuum Joint Jens Reinecke, Bastian Deutschmann, Alexander Dietrich, Simon R. Eugster and Marco Hutter Soft Robotics, vol. 12: no. 2, pp. 280-289, Mary Ann Liebert, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Scalable Multi-Robot Cooperation for Multi-Goal Tasks Using Reinforcement Learning",
+      "year": 2025,
+      "citation_raw": "Scalable Multi-Robot Cooperation for Multi-Goal Tasks Using Reinforcement Learning Tianxu An, Joonho Lee, Marko Bjelonic, Flavio De Vincenti and Marco Hutter IEEE Robotics and Automation Letters, vol. 10: no. 2, pp. 1585-1592, IEEE, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Steerable High-Jumping Tensegrity Robot for Space Exploration",
+      "year": 2025,
+      "citation_raw": "Steerable High-Jumping Tensegrity Robot for Space Exploration Jonathan Jacob Kolt Green, Dario Bozinovski, Fabian Tischhauser, Marco Hutter and Robert Baines IEEE Transactions on Field Robotics, vol. 2, pp. 805-815, IEEE, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Continuous-Time State Estimation Methods in Robotics: A Survey",
+      "year": 2025,
+      "citation_raw": "Continuous-Time State Estimation Methods in Robotics: A Survey William Talbot, Julian Nubert, Turcan Tuna, Cesar Cadena, Frederike Dümbgen, Jesús Tordesillas, Timothy D. Barfoot and Marco Hutter IEEE Transactions on Robotics, vol. 41, pp. 4975-4999, IEEE, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Enhancing Robotic Precision in Construction: A Modular Factor Graph-Based Framework to Deflection and Backlash Compensation Using High-Accuracy Accelerometers",
+      "year": 2025,
+      "citation_raw": "Enhancing Robotic Precision in Construction: A Modular Factor Graph-Based Framework to Deflection and Backlash Compensation Using High-Accuracy Accelerometers Julien Kindle, Michael Loetscher, Andrea Alessandretti, Cesar Cadena and Marco Hutter IEEE Robotics and Automation Letters, vol. 10: no. 1, pp. 288-295, IEEE, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild",
+      "year": 2025,
+      "citation_raw": "Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild Turcan Tuna, Julian Nubert, Patrick Pfreundschuh, Cesar Cadena, Shehryar Masaud Khan Khattak and Marco Hutter IEEE Transactions on Field Robotics, vol. 2, pp. 485-515, IEEE, 2025.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "RoadRunner M&M - Learning Multi-range Multi-resolution Traversability Maps for Autonomous Off-road Navigation",
+      "year": 2024,
+      "citation_raw": "RoadRunner M&M - Learning Multi-range Multi-resolution Traversability Maps for Autonomous Off-road Navigation Manthan Patel, Jonas Frey, Deegan Atha, Patrick Spieler, Marco Hutter and Shehryar Masaud Khan Khattak IEEE Robotics and Automation Letters, vol. 9: no. 12, pp. 11425-11432, IEEE, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Revealing the potential of a new 3D Hall sensor in advanced inspection robotics",
+      "year": 2024,
+      "citation_raw": "Revealing the potential of a new 3D Hall sensor in advanced inspection robotics Dragana Popovic Renella, Thomas Kaltenbacher, Sasa Spasic, Andrea Cavelti, Giorgio Valsecchi, Lennart Nachtigall and Marco Hutter Acta IMEKO, vol. 13: no. 4, pp. 1-5, International Measurement Confederation, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Toward Autonomous Excavation Planning",
+      "year": 2024,
+      "citation_raw": "Toward Autonomous Excavation Planning Lorenzo Terenzi and Marco Hutter IEEE Transactions on Field Robotics, vol. 1, pp. 292-317, IEEE, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Identifying Terrain Physical Parameters from Vision - Towards Physical-Parameter-Aware Locomotion and Navigation",
+      "year": 2024,
+      "citation_raw": "Identifying Terrain Physical Parameters from Vision - Towards Physical-Parameter-Aware Locomotion and Navigation Jiaqi Chen, Jonas Frey, Ruyi Zhou, Takahiro Miki, Georg Martius and Marco Hutter IEEE Robotics and Automation Letters, vol. 9: no. 11, pp. 9279-9286, IEEE, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "A framework for collaborative multi-robot mapping using spectral graph wavelets",
+      "year": 2024,
+      "citation_raw": "A framework for collaborative multi-robot mapping using spectral graph wavelets Lukas Bernreiter, Shehryar Masaud Khan Khattak, Lionel Ott, Roland Siegwart, Marco Hutter and Cesar Cadena The International Journal of Robotics Research, vol. 43: no. 13, pp. 2070-2088, SAGE, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Autonomous construction of lunar infrastructure with in-situ boulders",
+      "year": 2024,
+      "citation_raw": "Autonomous construction of lunar infrastructure with in-situ boulders Jonas Walther, Ryan Luke Johns, Hendrik Kolvenbach, Valentin Tertius Bickel and Marco Hutter Frontiers in Space Technologies, vol. 5, pp. 1345337, Frontiers Media, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Learning Adaptive Controller for Hydraulic Machinery Automation",
+      "year": 2024,
+      "citation_raw": "Learning Adaptive Controller for Hydraulic Machinery Automation Fang Nan and Marco Hutter IEEE Robotics and Automation Letters, vol. 9: no. 4, pp. 3972-3979, IEEE, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Data-Efficient Task Generalization via Probabilistic Model-Based Meta Reinforcement Learning",
+      "year": 2024,
+      "citation_raw": "Data-Efficient Task Generalization via Probabilistic Model-Based Meta Reinforcement Learning Arjun Bhardwaj, Jonas Rothfuss, Bhavya Sukhija, Yarden As, Marco Hutter, Stelian Coros and Andreas Krause IEEE Robotics and Automation Letters, vol. 9: no. 4, pp. 3918-3925, IEEE, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Learning robust autonomous navigation and locomotion for wheeled-legged robots",
+      "year": 2024,
+      "citation_raw": "Learning robust autonomous navigation and locomotion for wheeled-legged robots Joonho Lee, Marko Bjelonic, Alexander Reske, Lorenz Wellhausen, Takahiro Miki and Marco Hutter Science Robotics, vol. 9: no. 89, pp. eadi9641, AAAS, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned",
+      "year": 2024,
+      "citation_raw": "Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned Marco Tranzatto, Mihir Dharmadhikari, Lukas Bernreiter, Marco Camurri, Shehryar Masaud Khan Khattak, Frank Mascarich, Patrick Pfreundschuh, David Wisth, Samuel Zimmermann, Mihir Kulkarni, Victor Reijgwart, Benoit Casseau, Timon Hornberger, Paolo De Petris, Lionel Ott, Wayne Tubby, Gabriel Waibel, Huan Nguyen, Cesar Cadena, Russell Buchanan, Lorenz Wellhausen, Nikhil Khedekar, Olov Andersson, Lintong Zhang, Takahiro Miki, Tung Dang, Matias Eduardo Mattamala Aravena, Markus Montenegro, Konrad Meyer, Xiangyu Wu, Adrien Briod, Mark Mueller, Maurice Fallon, Roland Siegwart, Marco Hutter and Kostas Alexis Field Robotics, vol. 4, pp. 349-312, Field Robotics, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "ANYmal parkour: Learning agile navigation for quadrupedal robots",
+      "year": 2024,
+      "citation_raw": "ANYmal parkour: Learning agile navigation for quadrupedal robots David Hoeller, Nikita Rudin, Dhionis Sako and Marco Hutter Science Robotics, vol. 9: no. 88, pp. eadi7566, AAAS, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "RoadRunner—Learning Traversability Estimation for Autonomous Off-Road Driving",
+      "year": 2024,
+      "citation_raw": "RoadRunner—Learning Traversability Estimation for Autonomous Off-Road Driving Jonas Frey, Manthan Patel, Deegan Atha, Julian Nubert, David Fan, Ali-akbar Agha-mohammadi, Curtis Padgett, Patrick Spieler, Marco Hutter and Shahryar Khattak IEEE Transactions on Field Robotics, vol. 1, pp. 192-212, IEEE, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments",
+      "year": 2024,
+      "citation_raw": "X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments Turcan Tuna, Julian Nubert, Yoshua Nava, Shehryar Masaud Khan Khattak and Marco Hutter IEEE Transactions on Robotics, vol. 40, pp. 452-471, IEEE, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Circular Robotic Construction",
+      "year": 2024,
+      "citation_raw": "Circular Robotic Construction Lauren Vasey, Petrus Aejmelaeus-Lindström, David Jenny, Ryan Luke Johns, Ilmar Hurkxkens, Coralie Ming, Marco Hutter, Fabio Gramazio and Matthias Kohler In A Circular Built Environment in the Digital Age, edited by De Wolf, Catherine, Çetin, Sultan and Bocken, Nancy, pp. 151-170, Cham: Springer, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Reinforcement Learning-Based Bucket Filling for Autonomous Excavation",
+      "year": 2024,
+      "citation_raw": "Reinforcement Learning-Based Bucket Filling for Autonomous Excavation Pascal Egli, Lorenzo Terenzi and Marco Hutter IEEE Transactions on Field Robotics, vol. 1, pp. 170-191, IEEE, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Present and Future of SLAM in Extreme Environments: The DARPA SubT Challenge",
+      "year": 2024,
+      "citation_raw": "Present and Future of SLAM in Extreme Environments: The DARPA SubT Challenge Kamak Ebadi, Lukas Bernreiter, Harel Biggie, Gavin Catt, Yun Chang, Arghya Chatterjee, Christopher E. Denniston, Kyle Harlow, Simon-Pierre Deschênes, Shehryar Masaud Khan Khattak, Lucas Nogueira, Matteo Palieri, Pavel Petráček, Matěj Petrlík, Andrzej Reinke, Vít Krátký, Shibo Zhao, Ali-akbar Agha-mohammadi, Kostas Alexis, Christoffer Heckman, Kasra Khosoussi, Navinda Kottege, Benjamin Morrell, Marco Hutter, Fred Pauling, François Pomerleau, Martin Saska, Sebastian Scherer, Roland Siegwart, Jason L. Williams and Luca Carlone IEEE Transactions on Robotics, vol. 40, pp. 936-959, IEEE, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Legged Systems for Exploration",
+      "year": 2024,
+      "citation_raw": "Legged Systems for Exploration Hendrik Kolvenbach, Philip Arm, Giorgio Valsecchi, Nikita Rudin and Marco Hutter In Space Robotics: The State of the Art and Future Trends, edited by Yan, Xiu Tian and Visentin, Gianfranco, pp. 135-156, Cham: Springer, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "DTC: Deep Tracking Control",
+      "year": 2024,
+      "citation_raw": "DTC: Deep Tracking Control Fabian Jenelten, Junzhe He, Farbod Farshidian and Marco Hutter Science Robotics, vol. 9: no. 86, pp. eadh5401, AAAS, 2024.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "LSTP: Long Short-Term Motion Planning for Legged and Legged-Wheeled Systems",
+      "year": 2023,
+      "citation_raw": "LSTP: Long Short-Term Motion Planning for Legged and Legged-Wheeled Systems Edo Jelavic, Kaixian Qu, Farbod Farshidian and Marco Hutter IEEE Transactions on Robotics, vol. 39: no. 6, pp. 4190-4210, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Barry: A High-Payload and Agile Quadruped Robot",
+      "year": 2023,
+      "citation_raw": "Barry: A High-Payload and Agile Quadruped Robot Giorgio Valsecchi, Nikita Rudin, Lennart Nachtigall, Konrad Mayer, Fabian Tischhauser and Marco Hutter IEEE Robotics and Automation Letters, vol. 8: no. 11, pp. 6939-6946, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "SMUG Planner: A Safe Multi-Goal Planner for Mobile Robots in Challenging Environments",
+      "year": 2023,
+      "citation_raw": "SMUG Planner: A Safe Multi-Goal Planner for Mobile Robots in Challenging Environments Changan Chen, Jonas Frey, Philip Arm and Marco Hutter IEEE Robotics and Automation Letters, vol. 8: no. 11, pp. 7170-7177, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Seeing Through the Grass: Semantic Pointcloud Filter for Support Surface Learning",
+      "year": 2023,
+      "citation_raw": "Seeing Through the Grass: Semantic Pointcloud Filter for Support Surface Learning Anqiao Li, Chenyu Yang, Jonas Frey, Joonho Lee, Cesar Cadena and Marco Hutter IEEE Robotics and Automation Letters, vol. 8: no. 11, pp. 7687-7694, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "A framework for robotic excavation and dry stone construction using on-site materials",
+      "year": 2023,
+      "citation_raw": "A framework for robotic excavation and dry stone construction using on-site materials Ryan Luke Johns, Martin Wermelinger, Ruben Mascaro, Dominic Jud, Ilmar Hurkxkens, Lauren Vasey, Margarita Chli, Fabio Gramazio, Matthias Kohler and Marco Hutter Science Robotics, vol. 8: no. 84, pp. eabp9758, AAAS, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Trajectory Optimization Framework for Rehabilitation Robots with Multi-Workspace Objectives and Constraints",
+      "year": 2023,
+      "citation_raw": "Trajectory Optimization Framework for Rehabilitation Robots with Multi-Workspace Objectives and Constraints Michael Sommerhalder, Yves Zimmermann, Leonardo Simovic, Marco Hutter, Peter Wolf and Robert Riener IEEE Robotics and Automation Letters, vol. 8: no. 10, pp. 6819-6826, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Perceptive Locomotion through Nonlinear Model Predictive Control",
+      "year": 2023,
+      "citation_raw": "Perceptive Locomotion through Nonlinear Model Predictive Control Ruben Grandia, Fabian Jenelten, Shaohui Yang, Farbod Farshidian and Marco Hutter IEEE Transactions on Robotics, vol. 39: no. 5, pp. 3402-3412, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation",
+      "year": 2023,
+      "citation_raw": "Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation Jean-Pierre Sleiman, Farbod Farshidian and Marco Hutter Science Robotics, vol. 8: no. 81, pp. eadg501, AAAS, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "PLASTR: Planning for Autonomous Sampling-based Trowelling",
+      "year": 2023,
+      "citation_raw": "PLASTR: Planning for Autonomous Sampling-based Trowelling Mads Kuhlmann-Jørgensen, Johannes Pankert, Lukasz L. Pietrasik and Marco Hutter IEEE Robotics and Automation Letters, vol. 8: no. 8, pp. 5069-5076, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "DOC: Differentiable Optimal Control for Retargeting Motions onto Legged Robots",
+      "year": 2023,
+      "citation_raw": "DOC: Differentiable Optimal Control for Retargeting Motions onto Legged Robots Ruben Grandia, Farbod Farshidian, Espen Knoop, Christian Schumacher, Marco Hutter and Moritz Bächer ACM Transactions on Graphics, vol. 42: no. 4, pp. 96, Association for Computing Machinery, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Human-Robot Attachment System for Exoskeletons: Design and Performance Analysis",
+      "year": 2023,
+      "citation_raw": "Human-Robot Attachment System for Exoskeletons: Design and Performance Analysis Yves Zimmermann, Jaeyong Song, Cédric Deguelle, Julia Läderach, Lingfei Zhou, Marco Hutter, Robert Riener and Peter Wolf IEEE Transactions on Robotics, vol. 39: no. 4, pp. 3087-3105, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Scientific Exploration of Challenging Planetary Analog Environments with a Team of Legged Robots",
+      "year": 2023,
+      "citation_raw": "Scientific Exploration of Challenging Planetary Analog Environments with a Team of Legged Robots Philip Arm, Gabriel Waibel, Jan Preisig, Turcan Tuna, Ruyi Zhou, Valentin Bickel, Gabriela Ligeza, Takahiro Miki, Florian Kehl, Hendrik Kolvenbach and Marco Hutter Science Robotics, vol. 8: no. 80, pp. ade9548, AAAS, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "ANYexo 2.0: A Fully-Actuated Upper-Limb Exoskeleton for Manipulation and Joint-Oriented Training in all Stages of Rehabilitation",
+      "year": 2023,
+      "citation_raw": "ANYexo 2.0: A Fully-Actuated Upper-Limb Exoskeleton for Manipulation and Joint-Oriented Training in all Stages of Rehabilitation Yves Zimmermann, Michael Sommerhalder, Peter Wolf, Robert Riener and Marco Hutter IEEE Transactions on Robotics, vol. 39: no. 3, pp. 2131-2150, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments",
+      "year": 2023,
+      "citation_raw": "Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments Mayank Mittal, Calvin Yu, Qinxi Yu, Jingzhou Liu, Nikita Rudin, David Hoeller, Jia Lin Yuan, Ritvik Singh, Yunrong Guo, Hammad Mazhar, Ajay Mandlekar, Buck Babich, Gavriel State, Marco Hutter and Animesh Garg IEEE Robotics and Automation Letters, vol. 8: no. 6, pp. 3740-3747, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Bayesian Multi-Task Learning MPC for Robotic Mobile Manipulation",
+      "year": 2023,
+      "citation_raw": "Bayesian Multi-Task Learning MPC for Robotic Mobile Manipulation Elena Arcari, Maria Vittoria Minniti, Anna Scampicchio, Andrea Carron, Farbod Farshidian, Marco Hutter and Melanie N. Zeilinger IEEE Robotics and Automation Letters, vol. 8: no. 6, pp. 3222-3229, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Learning-based Design and Control for Quadrupedal Robots with Parallel-Elastic Actuators",
+      "year": 2023,
+      "citation_raw": "Learning-based Design and Control for Quadrupedal Robots with Parallel-Elastic Actuators Filip Bjelonic, Joonho Lee, Philip Arm, Dhionis Sako, Davide Tateo, Jan Peters and Marco Hutter IEEE Robotics and Automation Letters, vol. 8: no. 3, pp. 1611-1618, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "ArtPlanner: Robust Legged Robot Navigation in the Field",
+      "year": 2023,
+      "citation_raw": "ArtPlanner: Robust Legged Robot Navigation in the Field Lorenz Wellhausen and Marco Hutter Field Robotics, vol. 3, pp. 413-434, Field Robotics, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Continuous Mobile Thin-Layer On-Site Printing",
+      "year": 2023,
+      "citation_raw": "Continuous Mobile Thin-Layer On-Site Printing Selen Ercan Jenny, Lukasz L. Pietrasik, Eliott Sounigo, Ping Tsai, Fabio Gramazio, Matthias Kohler, Ena Lloret-Fritschi and Marco Hutter Automation in Construction, vol. 146, pp. 104634, Elsevier, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Robotic Monitoring of Habitats: The Natural Intelligence Approach",
+      "year": 2023,
+      "citation_raw": "Robotic Monitoring of Habitats: The Natural Intelligence Approach Franco Angelini, Pierangela Angelini, Claudia Angiolini, Simonetta Bagella, Fabio Bonomo, Marco Caccianiga, Cosimo Della Santina, Daniela Gigante, Marco Hutter, Thrishantha Nanayakkara, Paolo Remagnino, Diego Torricelli and Manolo Garabini IEEE Access, vol. 11, pp. 72575-72591, IEEE, 2023.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "TAMOLS: Terrain-Aware Motion Optimization for Legged Systems",
+      "year": 2022,
+      "citation_raw": "TAMOLS: Terrain-Aware Motion Optimization for Legged Systems Fabian Jenelten, Ruben Grandia, Farbod Farshidian and Marco Hutter IEEE Transactions on Robotics, vol. 38: no. 6, pp. 3395-3413, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Meta Reinforcement Learning for Optimal Design of Legged Robots",
+      "year": 2022,
+      "citation_raw": "Meta Reinforcement Learning for Optimal Design of Legged Robots Álvaro Belmonte Baeza, Joonho Lee, Giorgio Valsecchi and Marco Hutter IEEE Robotics and Automation Letters, vol. 7: no. 4, pp. 12134-12141, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Soil-Adaptive Excavation Using Reinforcement Learning",
+      "year": 2022,
+      "citation_raw": "Soil-Adaptive Excavation Using Reinforcement Learning Pascal Egli, Dominique Gaschen, Simon Kerscher, Dominic Jud and Marco Hutter IEEE Robotics and Automation Letters, vol. 7: no. 4, pp. 9778-9785, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Design and Motion Planning for a Reconfigurable Robotic Base",
+      "year": 2022,
+      "citation_raw": "Design and Motion Planning for a Reconfigurable Robotic Base Johannes Pankert, Giorgio Valsecchi, Davide Baret, Jonas Zehnder, Lukasz Pietrasik, Marko Bjelonic and Marco Hutter IEEE Robotics and Automation Letters, vol. 7: no. 4, pp. 9012-9019, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Neural Scene Representation for Locomotion on Structured Terrain",
+      "year": 2022,
+      "citation_raw": "Neural Scene Representation for Locomotion on Structured Terrain David Hoeller, Nikita Rudin, Christopher Choy, Anandkumar Animashree, Marco Hutter and David Hoeller IEEE Robotics and Automation Letters, vol. 7: no. 4, pp. 8667-8674, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Supporting and Stabilizing the Scapulohumeral Rhythm with a Body- or Robot-Powered Orthosis",
+      "year": 2022,
+      "citation_raw": "Supporting and Stabilizing the Scapulohumeral Rhythm with a Body- or Robot-Powered Orthosis Anna-Maria Georgarakis, Yves Zimmermann, Peter Wolf, Marco Hutter and Robert Riener IEEE Transactions on Medical Robotics and Bionics, vol. 4: no. 3, pp. 729-743, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Offline motion libraries and online MPC for advanced mobility skills",
+      "year": 2022,
+      "citation_raw": "Offline motion libraries and online MPC for advanced mobility skills Marko Bjelonic, Ruben Grandia, Moritz Geilinger, Oliver Harley, Vivian S. Medeiros, Vuk Pajovic, Edo Jelavic, Stelian Coros and Marco Hutter The International Journal of Robotics Research, vol. 41: no. 9–10, pp. 903-924, SAGE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Robotic Precision Harvesting: Mapping, Localization, Planning and Control for a Legged Tree Harvester",
+      "year": 2022,
+      "citation_raw": "Robotic Precision Harvesting: Mapping, Localization, Planning and Control for a Legged Tree Harvester Edo Jelavic, Dominic Jud, Pascal Egli and Marco Hutter Field Robotics, vol. 2, pp. 1386-1431, Field Robotics, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "CERBERUS in the DARPA Subterranean Challenge",
+      "year": 2022,
+      "citation_raw": "CERBERUS in the DARPA Subterranean Challenge Marco Tranzatto, Takahiro Miki, Mihir Dharmadhikari, Lukas Bernreiter, Mihir Kulkarni, Frank Mascarich, Olov Andersson, Shehryar Masaud Khan Khattak, Marco Hutter, Roland Siegwart and Kostas Alexis Science Robotics, vol. 7: no. 66, pp. eabp9742, AAAS, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Traversing Steep and Granular Martian Analog Slopes With a Dynamic Quadrupedal Robot",
+      "year": 2022,
+      "citation_raw": "Traversing Steep and Granular Martian Analog Slopes With a Dynamic Quadrupedal Robot Hendrik Kolvenbach, Philip Arm, Elias Hampp, Alexander Dietsche, Valentin Bickel, Benjamin Sun, Christoph Meyer and Marco Hutter Field Robotics, vol. 2, pp. 910-939, Carnegie Mellon University, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Reconstructing occluded Elevation Information in Terrain Maps with Self-supervised Learning",
+      "year": 2022,
+      "citation_raw": "Reconstructing occluded Elevation Information in Terrain Maps with Self-supervised Learning Maximilian Stölzle, Takahiro Miki, Levin Gerdes, Martin Azkarate and Marco Hutter IEEE Robotics and Automation Letters, vol. 7: no. 2, pp. 1697-1704, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "A reconfigurable leg for walking robots",
+      "year": 2022,
+      "citation_raw": "A reconfigurable leg for walking robots Fang Nan, Hendrik Kolvenbach and Marco Hutter IEEE Robotics and Automation Letters, vol. 7: no. 2, pp. 1308-1315, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Combining Learning-Based Locomotion Policy With Model-Based Manipulation for Legged Mobile Manipulators",
+      "year": 2022,
+      "citation_raw": "Combining Learning-Based Locomotion Policy With Model-Based Manipulation for Legged Mobile Manipulators Yuntao Ma, Farbod Farshidian, Takahiro Miki, Joonho Lee and Marco Hutter IEEE Robotics and Automation Letters, vol. 7: no. 2, pp. 2377-2384, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "A General Approach for the Automation of Hydraulic Excavator Arms Using Reinforcement Learning",
+      "year": 2022,
+      "citation_raw": "A General Approach for the Automation of Hydraulic Excavator Arms Using Reinforcement Learning Pascal Egli and Marco Hutter IEEE Robotics and Automation Letters, vol. 7: no. 2, pp. 5679-5686, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge",
+      "year": 2022,
+      "citation_raw": "CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge Marco Tranzatto, Frank Mascarich, Lukas Bernreiter, Carolina Godinho, Marco Camurri, Shehryar Masaud Khan Khattak, Tung Dang, Victor Reijgwart, Johannes Loeje, David Wisth, Samuel Zimmermann, Huan Nguyen, Marius Fehr, Lukas Solanka, Russell Buchanan, Marko Bjelonic, Nikhil Khedekar, Mathieu Valceschini, Fabian Jenelten, Mihir Dharmadhikari, Timon Homberger, Paolo De Petris, Lorenz Wellhausen, Mihir Kulkarni, Takahiro Miki, Satchel Hirsch, Markus Montenegro, Christos Papachristos, Fabian Tresoldi, Jan Carius, Giorgio Valsecchi, Joonho Lee, Konrad Meyer, Xiangyu Wu, Juan Nieto, Andy Smith, Marco Hutter, Roland Siegwart, Mark Mueller, Maurice Fallon and Kostas Alexis Field Robotics, vol. 2, pp. 274-324, Carnegie Mellon University, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Constrained stochastic optimal control with learned importance sampling: A path integral approach",
+      "year": 2022,
+      "citation_raw": "Constrained stochastic optimal control with learned importance sampling: A path integral approach Jan Carius, René Ranftl, Farbod Farshidian and Marco Hutter The International Journal of Robotics Research, vol. 41: no. 2, pp. 189-209, SAGE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Cat-Like Jumping and Landing of Legged Robots in Low Gravity Using Deep Reinforcement Learning",
+      "year": 2022,
+      "citation_raw": "Cat-Like Jumping and Landing of Legged Robots in Low Gravity Using Deep Reinforcement Learning Nikita Rudin, Hendrik Kolvenbach, Vassilios Tsounis and Marco Hutter IEEE Transactions on Robotics, vol. 38: no. 1, pp. 317-328, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Learning robust perceptive locomotion for quadrupedal robots in the wild",
+      "year": 2022,
+      "citation_raw": "Learning robust perceptive locomotion for quadrupedal robots in the wild Takahiro Miki, Joonho Lee, Jemin Hwangbo, Lorenz Wellhausen, Vladlen Koltun and Marco Hutter Science Robotics, vol. 7: no. 62, pp. eabk2822, AAAS, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "A Robotic Torso Joint With Adjustable Linear Spring Mechanism for Natural Dynamic Motions in a Differential-Elastic Arrangement",
+      "year": 2022,
+      "citation_raw": "A Robotic Torso Joint With Adjustable Linear Spring Mechanism for Natural Dynamic Motions in a Differential-Elastic Arrangement Jens Reinecke, Alexander Dietrich, Anton Shu, Bastian Deutschmann and Marco Hutter IEEE Robotics and Automation Letters, vol. 7: no. 1, pp. 9-16, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Deep Measurement Updates for Bayes Filters",
+      "year": 2022,
+      "citation_raw": "Deep Measurement Updates for Bayes Filters Johannes Pankert, Maria Vittoria Minniti, Lorenz Wellhausen and Marco Hutter IEEE Robotics and Automation Letters, vol. 7: no. 1, pp. 414-421, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Adaptive CLF-MPC with application to quadrupedal robots",
+      "year": 2022,
+      "citation_raw": "Adaptive CLF-MPC with application to quadrupedal robots Maria V. Minniti, Ruben Grandia, Farbod Farshidian and Marco Hutter IEEE Robotics and Automation Letters, vol. 7: no. 1, pp. 565-572, IEEE, 2022.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "HEAP – The autonomous walking excavator",
+      "year": 2021,
+      "citation_raw": "HEAP – The autonomous walking excavator Dominic Jud, Simon Kerscher, Martin Wermelinger, Edo Jelavic, Pascal Egli, Philipp Leemann, Gabriel Hottiger and Marco Hutter Automation in Construction, vol. 129, pp. 103783, Elsevier, 2021.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "A Unified MPC Framework for Whole-Body Dynamic Locomotion and Manipulation",
+      "year": 2021,
+      "citation_raw": "A Unified MPC Framework for Whole-Body Dynamic Locomotion and Manipulation Jean-Pierre Sleiman, Farbod Farshidian, Maria V. Minniti and Marco Hutter IEEE Robotics and Automation Letters, vol. 6: no. 3, pp. 4688-4695, IEEE, 2021.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Learning a State Representation and Navigation in Cluttered and Dynamic Environments",
+      "year": 2021,
+      "citation_raw": "Learning a State Representation and Navigation in Cluttered and Dynamic Environments David Hoeller, Lorenz Wellhausen, Farbod Farshidian and Marco Hutter IEEE Robotics and Automation Letters, vol. 6: no. 3, pp. 5081-5088, IEEE, 2021.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Grasping and Object Reorientation for Autonomous Construction of Stone Structures",
+      "year": 2021,
+      "citation_raw": "Grasping and Object Reorientation for Autonomous Construction of Stone Structures Martin Wermelinger, Ryan Luke Johns, Fabio Gramazio, Matthias Kohler and Marco Hutter IEEE Robotics and Automation Letters, vol. 6: no. 3, pp. 5105-5112, IEEE, 2021.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Robotic embankment: Free-form autonomous formation in terrain with HEAP",
+      "year": 2021,
+      "citation_raw": "Robotic embankment: Free-form autonomous formation in terrain with HEAP Dominic Jud, Ilmar Hurkxkens, Christophe Girot and Marco Hutter Construction Robotics, vol. 5, pp. 101-113, Springer, 2021.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Adaptive Feet for Quadrupedal Walkers",
+      "year": 2021,
+      "citation_raw": "Adaptive Feet for Quadrupedal Walkers Manuel Giuseppe Catalano, Mathew Jose Pollayil, Giorgio Grioli, Giorgio Valsecchi, Hendrik Kolvenbach, Marco Hutter, Antonio Bicchi and Manolo Garabini IEEE Transactions on Robotics, vol. 38: no. 1, pp. 302-316, IEEE, 2021.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Perceptive Whole Body Planning for Multi-legged Robots in Confined Spaces",
+      "year": 2021,
+      "citation_raw": "Perceptive Whole Body Planning for Multi-legged Robots in Confined Spaces Russell Buchanan, Lorenz Wellhausen, Marko Bjelonic, Tirthankar Bandyopadhyay, Navinda Kottege and Marco Hutter Journal of Field Robotics, vol. 38: no. 1, pp. 68-84, Wiley, 2021.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Towards autonomous inspection of concrete deterioration in sewers with legged robots",
+      "year": 2020,
+      "citation_raw": "Towards autonomous inspection of concrete deterioration in sewers with legged robots Hendrik Kolvenbach, David Wisth, Russell Buchanan, Giorgio Valsecchi, Ruben Grandia, Maurice Fallon and Marco Hutter Journal of Field Robotics, vol. 37: no. S 8, pp. 1314-1327, Wiley, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Graph-based Subterranean Exploration Path Planning using Aerial and Legged Robots",
+      "year": 2020,
+      "citation_raw": "Graph-based Subterranean Exploration Path Planning using Aerial and Legged Robots Tung Dang, Marco Tranzatto, Shehryar Masaud Khan Khattak, Frank Mascarich, Kostas Alexis and Marco Hutter Journal of Field Robotics, vol. 37: no. S 8, pp. 1363-1388, Wiley, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Autonomous Dry Stone: On-Site Planning and Assembly of Stone Walls with a Robotic Excavator",
+      "year": 2020,
+      "citation_raw": "Autonomous Dry Stone: On-Site Planning and Assembly of Stone Walls with a Robotic Excavator Ryan Luke Johns, Martin Wermelinger, Ruben Mascaro, Dominic Jud, Fabio Gramazio, Matthias Kohler, Margarita Chli and Marco Hutter Construction Robotics, vol. 4, pp. 127-140, Springer, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Learning quadrupedal locomotion over challenging terrain",
+      "year": 2020,
+      "citation_raw": "Learning quadrupedal locomotion over challenging terrain Joonho Lee, Jemin Hwangbo, Lorenz Wellhausen, Vladlen Koltun and Marco Hutter Science Robotics, vol. 5: no. 47, pp. eabc5986, AAAS, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Perceptive Model Predictive Control for Continuous Mobile Manipulation",
+      "year": 2020,
+      "citation_raw": "Perceptive Model Predictive Control for Continuous Mobile Manipulation Johannes Pankert and Marco Hutter IEEE Robotics and Automation Letters, vol. 5: no. 4, pp. 6177-6184, IEEE, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Vitruvio: An Open-source Leg Design Optimization Toolbox for Walking Robots",
+      "year": 2020,
+      "citation_raw": "Vitruvio: An Open-source Leg Design Optimization Toolbox for Walking Robots Michael Chadwick, Hendrik Kolvenbach, Fabio Dubois, Hong Fai Lau and Marco Hutter IEEE Robotics and Automation Letters, vol. 5: no. 4, pp. 6318-6325, IEEE, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Perceptive Locomotion in Rough Terrain – Online Foothold Optimization",
+      "year": 2020,
+      "citation_raw": "Perceptive Locomotion in Rough Terrain – Online Foothold Optimization Fabian Jenelten, Takahiro Miki, Aravind Elanjimattathil Vijayan, Marko Bjelonic and Marco Hutter IEEE Robotics and Automation Letters, vol. 5: no. 4, pp. 5370-5376, IEEE, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Towards Automating Construction Tasks: Large-Scale Object Mapping, Segmentation and Manipulation",
+      "year": 2020,
+      "citation_raw": "Towards Automating Construction Tasks: Large-Scale Object Mapping, Segmentation and Manipulation Ruben Mascaro, Martin Wermelinger, Marco Hutter and Margarita Chli Journal of Field Robotics, vol. 38: no. 5, pp. 684-699, Wiley, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Trajectory Optimization for Wheeled-Legged Quadrupedal Robots Driving in Challenging Terrain",
+      "year": 2020,
+      "citation_raw": "Trajectory Optimization for Wheeled-Legged Quadrupedal Robots Driving in Challenging Terrain Vivian S. Medeiros, Edo Jelavic, Marko Bjelonic, Roland Siegwart, Marco A. Meggiolaro and Marco Hutter IEEE Robotics and Automation Letters, vol. 5: no. 3, pp. 4172-4179, IEEE, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "An Anthropomorphic Robust Robotic Torso for Ventral/Dorsal and Lateral Motion With Weight Compensation",
+      "year": 2020,
+      "citation_raw": "An Anthropomorphic Robust Robotic Torso for Ventral/Dorsal and Lateral Motion With Weight Compensation Jens Reinecke, Bastian Deutschmann, Alexander Dietrich and Marco Hutter IEEE Robotics and Automation Letters, vol. 5: no. 3, pp. 3876-3883, IEEE, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Safe Robot Navigation via Multi-Modal Anomaly Detection",
+      "year": 2020,
+      "citation_raw": "Safe Robot Navigation via Multi-Modal Anomaly Detection Lorenz Wellhausen, René Ranftl and Marco Hutter IEEE Robotics and Automation Letters, vol. 5: no. 2, pp. 1326-1333, IEEE, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Rolling in the Deep – Hybrid Locomotion for Wheeled-Legged Robots using Online Trajectory Optimization",
+      "year": 2020,
+      "citation_raw": "Rolling in the Deep – Hybrid Locomotion for Wheeled-Legged Robots using Online Trajectory Optimization Marko Bjelonic, Prajish K. Sankar, C. Dario Bellicoso, Heike Vallery and Marco Hutter IEEE Robotics and Automation Letters, vol. 5: no. 2, pp. 3626-3633, IEEE, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "MPC-Net: A First Principles Guided Policy Search",
+      "year": 2020,
+      "citation_raw": "MPC-Net: A First Principles Guided Policy Search Jan Carius, Farbod Farshidian and Marco Hutter IEEE Robotics and Automation Letters, vol. 5: no. 2, pp. 2897-2904, IEEE, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Quadrupedal locomotion on uneven terrain with sensorized feet",
+      "year": 2020,
+      "citation_raw": "Quadrupedal locomotion on uneven terrain with sensorized feet Giorgio Valsecchi, Ruben Grandia and Marco Hutter IEEE Robotics and Automation Letters, vol. 5: no. 2, pp. 1548-1555, IEEE, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning",
+      "year": 2020,
+      "citation_raw": "DeepGait: Planning and Control of Quadrupedal Gaits using Deep Reinforcement Learning Vassilios Tsounis, Mitja Alge, Joonho Lee, Farbod Farshidian and Marco Hutter IEEE Robotics and Automation Letters, vol. 5: no. 2, pp. 3699-3706, IEEE, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Augmented bricklaying: Human–machine interaction for in situ assembly of complex brickwork using object-aware augmented reality",
+      "year": 2020,
+      "citation_raw": "Augmented bricklaying: Human–machine interaction for in situ assembly of complex brickwork using object-aware augmented reality Daniela Mitterberger, Kathrin Dörfler, Timothy Sandy, Foteini Salveridou, Marco Hutter, Fabio Gramazio and Matthias Kohler Construction Robotics, vol. 4: no. 3-4, pp. 151-161, Springer, 2020.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "ANYexo: A Versatile and Dynamic Upper-Limb Rehabilitation Robot",
+      "year": 2019,
+      "citation_raw": "ANYexo: A Versatile and Dynamic Upper-Limb Rehabilitation Robot Yves Zimmermann, Alessandro Forino, Robert Riener and Marco Hutter IEEE Robotics and Automation Letters, vol. 4: no. 4, pp. 3649-3656, IEEE, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Whole-Body MPC for a Dynamically Stable Mobile Manipulator",
+      "year": 2019,
+      "citation_raw": "Whole-Body MPC for a Dynamically Stable Mobile Manipulator Maria V. Minniti, Farbod Farshidian, Ruben Grandia and Marco Hutter IEEE Robotics and Automation Letters, vol. 4: no. 4, pp. 3687-3694, IEEE, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "The current state and future outlook of rescue robotics",
+      "year": 2019,
+      "citation_raw": "The current state and future outlook of rescue robotics Jeffrey Delmerico, Stefano Mintchev, Alessandro Giusti, Boris Gromov, Kamilo Melo, Tomislav Horvat, Cesar Cadena, Marco Hutter, Auke Ijspeert, Dario Floreano, Luca M. Gambardella, Roland Siegwart and Davide Scaramuzza Journal of Field Robotics, vol. 36: no. 7, pp. 1171-1191, Wiley, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Dynamic Locomotion on Slippery Ground",
+      "year": 2019,
+      "citation_raw": "Dynamic Locomotion on Slippery Ground Fabian Jenelten, Jemin Hwangbo, C. Dario Bellicoso, F. Dante Tresoldi and Marco Hutter IEEE Robotics and Automation Letters, vol. 4: no. 4, pp. 4170-4176, IEEE, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Data-Driven Model Predictive Control for Trajectory Tracking With a Robotic Arm",
+      "year": 2019,
+      "citation_raw": "Data-Driven Model Predictive Control for Trajectory Tracking With a Robotic Arm Andrea Carron, Elena Arcari, Martin Wermelinger, Lukas Hewing, Marco Hutter and Melanie N. Zeilinger IEEE Robotics and Automation Letters, vol. 4: no. 4, pp. 3758-3765, IEEE, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Trajectory optimization for legged robots with slipping motions",
+      "year": 2019,
+      "citation_raw": "Trajectory optimization for legged robots with slipping motions Jan Carius, René Ranftl, Vladlen Koltun and Marco Hutter IEEE Robotics and Automation Letters, vol. 4: no. 3, pp. 3013-3020, IEEE, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Walking Posture Adaptation for Legged Robot Navigation in Confined Spaces",
+      "year": 2019,
+      "citation_raw": "Walking Posture Adaptation for Legged Robot Navigation in Confined Spaces Russell Buchanan, Tirthankar Bandyopadhyay, Marko Bjelonic, Lorenz Wellhausen, Marco Hutter and Navinda Kottege IEEE Robotics and Automation Letters, vol. 4: no. 2, pp. 2148-2155, IEEE, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Haptic Inspection of Planetary Soils with Legged Robots",
+      "year": 2019,
+      "citation_raw": "Haptic Inspection of Planetary Soils with Legged Robots Hendrik Kolvenbach, Christian Bärtschi, Lorenz Wellhausen, Ruben Grandia and Marco Hutter IEEE Robotics and Automation Letters, vol. 4: no. 2, pp. 1626-1632, IEEE, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Keep Rollin’ - Whole-Body Motion Control and Planning for Wheeled Quadrupedal Robots",
+      "year": 2019,
+      "citation_raw": "Keep Rollin’ - Whole-Body Motion Control and Planning for Wheeled Quadrupedal Robots Marko Bjelonic, Carmine Dario Bellicoso, Yvain de Viragh, Dhionis Sako, F. Dante Tresoldi, Fabian Jenelten and Marco Hutter IEEE Robotics and Automation Letters, vol. 4: no. 2, pp. 2116-2123, IEEE, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Where Should I Walk? Predicting Terrain Properties from Images via Self-Supervised Learning",
+      "year": 2019,
+      "citation_raw": "Where Should I Walk? Predicting Terrain Properties from Images via Self-Supervised Learning Lorenz Wellhausen, Alexey Dosovitskiy, René Ranftl, Krzysztof Walas, Cesar Cadena and Marco Hutter IEEE Robotics and Automation Letters, vol. 4: no. 2, pp. 1509-1516, IEEE, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Trajectory Optimization for Wheeled-Legged Quadrupedal Robots using Linearized ZMP Constraints",
+      "year": 2019,
+      "citation_raw": "Trajectory Optimization for Wheeled-Legged Quadrupedal Robots using Linearized ZMP Constraints Yvain de Viragh, Marko Bjelonic, C. Dario Bellicoso, Fabian Jenelten and Marco Hutter IEEE Robotics and Automation Letters, vol. 4: no. 2, pp. 1633-1640, IEEE, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Frequency-Aware Model Predictive Control",
+      "year": 2019,
+      "citation_raw": "Frequency-Aware Model Predictive Control Ruben Grandia, Farbod Farshidian, Alexey Dosovitskiy, René Ranftl and Marco Hutter IEEE Robotics and Automation Letters, vol. 4: no. 2, pp. 1517-1524, IEEE, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Learning agile and dynamic motor skills for legged robots",
+      "year": 2019,
+      "citation_raw": "Learning agile and dynamic motor skills for legged robots Jemin Hwangbo, Joonho Lee, Alexey Dosovitskiy, Carmine Dario Bellicoso, Vassilios Tsounis, Vladlen Koltun and Marco Hutter Science Robotics, vol. 4: no. 26, pp. eaau5872, AAAS, 2019.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Deployment of an autonomous mobile manipulator at MBZIRC",
+      "year": 2018,
+      "citation_raw": "Deployment of an autonomous mobile manipulator at MBZIRC Jan Carius, Martin Wermelinger, Balasubramanian Rajasekaran, Kai Holtmann and Marco Hutter Journal of Field Robotics, vol. 35: no. 8, pp. 1342-1357, Wiley, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Advances in real-world applications for legged robots",
+      "year": 2018,
+      "citation_raw": "Advances in real-world applications for legged robots C. Dario Bellicoso, Marko Bjelonic, Lorenz Wellhausen, Kai Holtmann, Fabian Günther, Marco Tranzatto, Péter Fankhauser and Marco Hutter Journal of Field Robotics, vol. 35: no. S8, pp. 1311-1326, Wiley, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Editorial to Special Issue on Field and Service Robotics (FSR) 2017",
+      "year": 2017,
+      "citation_raw": "external page: Research Collection Editorial to Special Issue on Field and Service Robotics (FSR) 2017",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Marco Hutter and Roland Siegwart",
+      "year": 2018,
+      "citation_raw": "Marco Hutter and Roland Siegwart Journal of Field Robotics, vol. 35: no. 8, pp. 1203-1204, Wiley, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Probabilistic Terrain Mapping for Mobile Robots with Uncertain Localization",
+      "year": 2018,
+      "citation_raw": "Probabilistic Terrain Mapping for Mobile Robots with Uncertain Localization Péter Fankhauser, Michael Bloesch and Marco Hutter IEEE Robotics and Automation Letters, vol. 3: no. 4, pp. 3019-3026, IEEE, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Trajectory Optimization with Implicit Hard Contacts",
+      "year": 2018,
+      "citation_raw": "Trajectory Optimization with Implicit Hard Contacts Jan Carius, René Ranftl, Vladlen Koltun and Marco Hutter IEEE Robotics and Automation Letters, vol. 3: no. 4, pp. 3316-3323, IEEE, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Dynamic locomotion through online nonlinear motion optimization for quadrupedal robots",
+      "year": 2018,
+      "citation_raw": "Dynamic locomotion through online nonlinear motion optimization for quadrupedal robots C. Dario Bellicoso, Fabian Jenelten, Christian Gehring and Marco Hutter IEEE Robotics and Automation Letters, vol. 3: no. 3, pp. 2261-2268, IEEE, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Whole-Body Nonlinear Model Predictive Control Through Contacts for Quadrupeds",
+      "year": 2018,
+      "citation_raw": "Whole-Body Nonlinear Model Predictive Control Through Contacts for Quadrupeds Michael Neunert, Markus Stäuble, Markus Giftthaler, Carmine Dario Bellicoso, Jan Carius, Christian Gehring, Marco Hutter and Jonas Buchli IEEE Robotics and Automation Letters, vol. 3: no. 3, pp. 1458-1465, IEEE, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "ANYmal: A Unique Quadruped Robot Conquering Harsh Environments",
+      "year": 2018,
+      "citation_raw": "ANYmal: A Unique Quadruped Robot Conquering Harsh Environments Péter Fankhauser and Marco Hutter Research Features, no. 126, pp. 54-57, Research Publishing International, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Per-Contact Iteration Method for Solving Contact Dynamics",
+      "year": 2018,
+      "citation_raw": "Per-Contact Iteration Method for Solving Contact Dynamics Jemin Hwangbo, Joonho Lee and Marco Hutter IEEE Robotics and Automation Letters, vol. 3: no. 2, pp. 895-902, IEEE, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Gait and Trajectory Optimization for Legged Systems through Phase-based End-Effector Parameterization",
+      "year": 2018,
+      "citation_raw": "Gait and Trajectory Optimization for Legged Systems through Phase-based End-Effector Parameterization Alexander W. Winkler, C. Dario Bellicoso, Marco Hutter and Jonas Buchli IEEE Robotics and Automation Letters, no. 99, pp. 2377-3766, IEEE, 2018.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Planning and Control for Autonomous Excavation",
+      "year": 2017,
+      "citation_raw": "Planning and Control for Autonomous Excavation Dominic Jud, Gabriel Hottiger, Philipp Leemann and Marco Hutter IEEE Robotics and Automation Letters, vol. 2: no. 4, pp. 2151-2158, IEEE, 2017.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Iterated extended Kalman filter based visual-inertial odometry using direct photometric feedback",
+      "year": 2017,
+      "citation_raw": "Iterated extended Kalman filter based visual-inertial odometry using direct photometric feedback Michael Bloesch, Michael Burri, Sammy Omari, Marco Hutter and Roland Siegwart The International Journal of Robotics Research, vol. 36: no. 10, pp. 1053-1072, SAGE, 2017.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Force Control for Active Chassis Balancing",
+      "year": 2017,
+      "citation_raw": "Force Control for Active Chassis Balancing Marco Hutter, Philipp Leemann, Gabriel Hottiger, Ruedi Figi, Stefan Tagmann, Gonzalo Rey and George Small IEEE/ASME Transactions on Mechatronics, vol. 22: no. 2, pp. 613-622, IEEE, 2017.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "ANYmal - toward legged robots for harsh environments",
+      "year": 2017,
+      "citation_raw": "ANYmal - toward legged robots for harsh environments Marco Hutter, Christian Gehring, Andreas Lauber, Fabian Günther, Carmine D. Bellicoso, Vassilios Tsounis, Péter Fankhauser, Remo Diethelm, Samuel Bachmann, Michael Blösch, Hendrik Kolvenbach, Marko Bjelonic, Linus Isler and Konrad Meyer Advanced Robotics, vol. 31: no. 17, pp. 918-931, Taylor & Francis, 2017.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Control of a quadrotor with reinforcement learning",
+      "year": 2017,
+      "citation_raw": "Control of a quadrotor with reinforcement learning Jemin Hwangbo, Inkyu Sa, Roland Siegwart and Marco Hutter IEEE Robotics and Automation Letters, vol. 2: no. 4, pp. 2096-2103, IEEE, 2017.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "The Two-State Implicit Filter - Recursive Estimation for Mobile Robots",
+      "year": 2017,
+      "citation_raw": "The Two-State Implicit Filter - Recursive Estimation for Mobile Robots Michael Bloesch, Michael Burri, Hannes Sommer, Roland Siegwart and Marco Hutter IEEE Robotics and Automation Letters, vol. 3: no. 1, pp. 573-580, IEEE, 2017.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Practice Makes Perfect: An Optimization-Based Approach to Controlling Agile Motions for a Quadruped Robot",
+      "year": 2016,
+      "citation_raw": "Practice Makes Perfect: An Optimization-Based Approach to Controlling Agile Motions for a Quadruped Robot Christian Gehring, Stelian Coros, Marco Hutter, C. Dario Bellicoso, Huub Heijnen, Remo Diethelm, Michael Bloesch, Péter Fankhauser, Jemin Hwangbo, Mark A. Hoepflinger and Roland Siegwart IEEE Robotics & Automation Magazine, vol. 23: no. 1, pp. 34-43, IEEE, 2016.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "A universal grid map library: Implementation and use case for rough terrain navigation",
+      "year": 2016,
+      "citation_raw": "A universal grid map library: Implementation and use case for rough terrain navigation Péter Fankhauser and Marco Hutter In Robot Operating System (ROS): The Complete Reference (Volume 1), edited by Koubaa, Anis, vol. 625 , pp. 99-120, Cham: Springer, 2016.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Adaptive pulsed laser line extraction for terrain reconstruction using a dynamic vision sensor",
+      "year": 2014,
+      "citation_raw": "Adaptive pulsed laser line extraction for terrain reconstruction using a dynamic vision sensor Christian Brandli, Thomas A. Mantel, Marco Hutter, Markus A. Höpflinger, Raphael Berner, Roland Siegwart and Tobias Delbrück Frontiers in Neuroscience, vol. 7, pp. 275, Frontiers Media, 2014.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Quadrupedal Locomotion using Hierarchical Operational Space Control",
+      "year": 2014,
+      "citation_raw": "Quadrupedal Locomotion using Hierarchical Operational Space Control Marco Hutter, Hannes Sommer, Christian Gehring, Mark A. Hoepflinger, Michael Bloesch and Roland Siegwart The International Journal of Robotics Research, vol. 33: no. 8, pp. 1047-1062, SAGE, 2014.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "and Robustness in an Autonomous Quadruped",
+      "year": 2014,
+      "citation_raw": "Toward Combining Speed, Efficiency, Versatility, and Robustness in an Autonomous Quadruped Marco Hutter, Christian Gehring, Mark A. Höpflinger, Michael Blösch and Roland Siegwart IEEE Transactions on Robotics, vol. 30: no. 6, pp. 1427-1440, IEEE, 2014.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Efficient and Versatile Locomotion With Highly Compliant Legs",
+      "year": 2013,
+      "citation_raw": "Efficient and Versatile Locomotion With Highly Compliant Legs Marco Hutter, C.David Remy, Mark A. Hoepflinger and Roland Siegwart IEEE/ASME Transactions on Mechatronics, vol. 18: no. 2, pp. 449-458, IEEE, 2013.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Quadrupedal Robots with Stiff and Compliant Actuation",
+      "year": 2012,
+      "citation_raw": "Quadrupedal Robots with Stiff and Compliant Actuation C. David Remy, Marco Hutter, Mark Hoepflinger, Michael Bloesch, Christian Gehring and Roland Siegwart at - Automatisierungstechnik, vol. 60: no. 11, pp. 682-691, Oldenbourg, 2012.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    },
+    {
+      "title": "Walking and crawling with ALoF - a robot for autonomous locomotion on four legs",
+      "year": 2011,
+      "citation_raw": "Walking and crawling with ALoF - a robot for autonomous locomotion on four legs C. David Remy, Oliver Baur, Martin Latta, Andi Lauber, Marco Hutter, Mark A. Hoepflinger, Cédric Pradalier and Roland Siegwart The industrial robot, vol. 38: no. 3, pp. 264-268, Emerald, 2011.",
+      "source_url": "https://rsl.ethz.ch/publications-sources/publications.html"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+SOURCE http://bbrc.postech.ac.kr/board/list?bd_id=publication01
+- title: "미래유체 및 유동제어 연구실" [url=http://bbrc.postech.ac.kr/board/list?bd_id=publication01]
+- navigation:
+  - link "LOGO" [ref=e1]:
+    - image "LOGO"
+  - list:
+    - listitem "Member" [ref=e2]:
+      - link "Member" [ref=e3]
+    - listitem "Research Areas" [ref=e4]:
+      - link "Research Areas" [ref=e5]
+    - listitem "Publication Lists" [ref=e6]:
+      - link "Publication Lists" [ref=e7]
+    - listitem "Technology Transfer Items" [ref=e8]:
+      - link "Technology Transfer Items" [ref=e9]
+    - listitem "Boards" [ref=e10]:
+      - link "Boards" [ref=e11]
+- heading "Publication Lists" [level=2]
+- region:
+  - heading "International (Paper)" [level=1]
+  - table:
+    - text: "번호						 제목\n			 작성자\n			 날짜\n			 조회수		\n	\n	\n							\n			 395"
+    - link "A.S. Patra, H.W. Lim and S.J. Lee, \"Synergistic photo-electrothermal evaporation on superhydrophobic" [ref=e12]
+    - text: "관리자\n			 2026-07-02\n			 185		\n				\n			 394"
+    - link "P. GaneshKumar, V. Sivalingam, V.S. Vigneswaran, S. Divya, T.H. Oh, S.J. Lee, J.B. Chandar, \"Toward " [ref=e13]
+    - text: "관리자\n			 2026-07-02\n			 146		\n				\n			 393"
+    - link "M.N. Hossain, Y. Suh and S.J. Lee, \"Simple, scalable and flexible condenser for efficient water harv" [ref=e14]
+    - text: "관리자\n			 2026-07-02\n			 127		\n				\n			 392"
+    - link "J. Kim, J. Lim, S.G. Jo, S.H. Park and S.J. Lee, \"Phase and absorbance retrieval in X-ray holographi" [ref=e15]
+    - text: "관리자\n			 2026-07-02\n			 156		\n				\n			 391"
+    - link "S. Raheman AR, H.M. Wilson, M.N. Hossain and S.J. Lee, \"All-day freshwater generation via low voltag" [ref=e16]
+    - text: "관리자\n			 2026-07-02\n			 126		\n				\n			 390"
+    - link "S. Raheman AR, Q.T. Trinh, H.W. Lim, K.B. Ansari, H.M. Wilson, Y.H. Suh and S.J. Lee, \"Edge-Function" [ref=e17]
+    - text: "관리자\n			 2026-03-08\n			 236		\n				\n			 389"
+    - link "H.S. Lee and S.J. Lee, \"Distance-based attention physics-informed neural networks\", Physics of Fluid" [ref=e18]
+    - text: "관리자\n			 2026-03-03\n			 396		\n				\n			 388"
+    - link "H.S. Lee and S.J. Lee, \"Distance-based collocation sampling for mesh-free physics-informed neural ne" [ref=e19]
+    - text: "관리자\n			 2026-03-03\n			 331		\n				\n			 387"
+    - link "M.N. Hossain and S.J. Lee, \"Polystyrene coated slippery pipe for drag reduction\", Progress in Organi" [ref=e20]
+    - text: "관리자\n			 2026-03-03\n			 186		\n				\n			 386"
+    - link "H.W. Lim and S.J. Lee, \"Bioinspired gel-coated 3D wood evaporator with excellent salt mitigation abi" [ref=e21]
+    - text: "관리자\n			 2026-03-03\n			 212		\n				\n			 385"
+    - link "B. Manjunatha, A. Manjunath, A. Srinivasa and S.J. Lee, \"Tiny fish, big hope: Zebrafish unlocking se" [ref=e22]
+    - text: "관리자\n			 2026-03-03\n			 173		\n				\n			 384"
+    - link "H.M. Wilson, R.S. Mane, H.W. Lim and S.J. Lee, \"Camphor-derived biomass-based interfacial evaporator" [ref=e23]
+    - text: "관리자\n			 2026-03-03\n			 171		\n				\n			 383"
+    - link "T. Arunkumar, Y.H. Suh, T.P. Pandit, A.S. Patra and S.J. Lee, \"Carbonized balsa wood–based photother" [ref=e24]
+    - text: "관리자\n			 2026-03-03\n			 184		\n				\n			 382"
+    - link "S. Raheman AR, K.B. Ansari, S.J. Lee, and N. Salunke, \"Synergistic Integration of TiO2 Nanorods with" [ref=e25]
+    - text: "관리자\n			 2026-01-02\n			 246		\n				\n			 381"
+    - link "H. Wilson, T.P. Pandit, S. Raheman, T. Arunkumar, H.W. Lim and S.J. Lee, \"Engineering electrothermal" [ref=e26]
+    - text: "관리자\n			 2025-09-30\n			 425"
+  - list:
+    - listitem "1" [ref=e27]:
+      - link "1" [ref=e28]
+    - listitem "2" [ref=e29]:
+      - link "2" [ref=e30]
+    - listitem "3" [ref=e31]:
+      - link "3" [ref=e32]
+    - listitem:
+      - link "" [ref=e33]
+  - combobox "제목" [ref=e34]:
+    - option "제목" (selected) value="wr_subject"
+    - option "내용" value="wr_contents"
+    - option "작성자 이름" value="wr_name"
+    - text: "제목\n				 내용\n				 작성자 이름"
+  - textbox "검색어를 입력하세요" [ref=e35] [placeholder="검색어를 입력하세요"]
+  - button "검색" [ref=e36]
+- contentinfo:
+  - link [ref=e37]
+  - link [ref=e38]
+  - list:
+    - listitem "미래유체 및 유동제어 연구실 | Future Fluid and Biomimetics Laboratory (FFBL)" [ref=e39]
+    - listitem "TEL : 82-54-279-2169" [ref=e40]
+    - listitem "E-mail : sjlee@postech.ac.kr" [ref=e41]:
+      - text: "E-mail :"
+      - link "sjlee@postech.ac.kr" [ref=e42]
+    - listitem "©Future Fluid and Biomimetics Laboratory. All Rights Reserved." [ref=e43]
+  - link "로그인" [ref=e44]
+  - link "개인정보취급처리방침" [ref=e45]
+
+Member
+Research Areas
+Publication Lists
+Technology Transfer Items
+Boards
+Publication Lists
+International (Paper)
+번호	제목	작성자	날짜	조회수
+395	A.S. Patra, H.W. Lim and S.J. Lee, "Synergistic photo-electrothermal evaporation on superhydrophobic carbon cloth for high-efficiency freshwater production and excellent anti-salt fouling", Discover Surfaces Vol. 1, 3, 2026	관리자	2026-07-02	185
+394	P. GaneshKumar, V. Sivalingam, V.S. Vigneswaran, S. Divya, T.H. Oh, S.J. Lee, J.B. Chandar, "Toward net-zero technologies: Biowaste-derived materials for green hydrogen, high-performance anodes, and photothermal energy conversion", International	관리자	2026-07-02	146
+393	M.N. Hossain, Y. Suh and S.J. Lee, "Simple, scalable and flexible condenser for efficient water harvesting", Progress in Organic Coatings, Vol. 218, 110286, 2026	관리자	2026-07-02	127
+392	J. Kim, J. Lim, S.G. Jo, S.H. Park and S.J. Lee, "Phase and absorbance retrieval in X-ray holographic microscopy under weak illumination using physics-driven neural networks", Journal of Synchrotron Radiation, Vol. 33, Part 3, Pages 794-805, 20	관리자	2026-07-02	156
+391	S. Raheman AR, H.M. Wilson, M.N. Hossain and S.J. Lee, "All-day freshwater generation via low voltage Joule heating–assisted interfacial solar steam generation", Desalination, 629, 120117, 2026	관리자	2026-07-02	126
+390	S. Raheman AR, Q.T. Trinh, H.W. Lim, K.B. Ansari, H.M. Wilson, Y.H. Suh and S.J. Lee, "Edge-Functionalized Graphene Nanoribbons/Graphene Nanofiltration Membrane for Solar-Driven Lithium Recovery From Brine", Advanced Functional Materials, e28238	관리자	2026-03-08	236
+389	H.S. Lee and S.J. Lee, "Distance-based attention physics-informed neural networks", Physics of Fluids, Vol.37, 121915, 2025	관리자	2026-03-03	396
+388	H.S. Lee and S.J. Lee, "Distance-based collocation sampling for mesh-free physics-informed neural networks", Physics of Fluids, Vol.37, 077190, 2025	관리자	2026-03-03	331
+387	M.N. Hossain and S.J. Lee, "Polystyrene coated slippery pipe for drag reduction", Progress in Organic Coatings, Vol.214, 110006, 2026	관리자	2026-03-03	186
+386	H.W. Lim and S.J. Lee, "Bioinspired gel-coated 3D wood evaporator with excellent salt mitigation ability: A sustainable fresh water production alternative", Chemical Engineering Journal, Vol. 529, 172709, 2026	관리자	2026-03-03	212
+385	B. Manjunatha, A. Manjunath, A. Srinivasa and S.J. Lee, "Tiny fish, big hope: Zebrafish unlocking secrets to fight Parkinson's disease", Biology, Vol.14, 1397, 2025	관리자	2026-03-03	173
+384	H.M. Wilson, R.S. Mane, H.W. Lim and S.J. Lee, "Camphor-derived biomass-based interfacial evaporator for enhanced all-day, all-weather solar desalination", Desalination, Vol 613, 1109051, 2025	관리자	2026-03-03	171
+383	T. Arunkumar, Y.H. Suh, T.P. Pandit, A.S. Patra and S.J. Lee, "Carbonized balsa wood–based photothermal evaporator for treating inorganic chemical wastewater", Environmental Science and Pollution Research, Vol.32, pp.23780-23791, 2025	관리자	2026-03-03	184
+382	S. Raheman AR, K.B. Ansari, S.J. Lee, and N. Salunke, "Synergistic Integration of TiO2 Nanorods with Carbon Cloth for Enhanced Photocatalytic Hydrogen Evolution and Wastewater Remediation", Catalyst 15(10), 961, 2025.	관리자	2026-01-02	246
+381	H. Wilson, T.P. Pandit, S. Raheman, T. Arunkumar, H.W. Lim and S.J. Lee, "Engineering electrothermally enhanced interfacial evaporation for high-performance solar desalination," Communications Engineering 4, 166, 2025.	관리자	2025-09-30	425
+1
+2
+3
+제목
+내용
+작성자 이름
+  검색
+미래유체 및 유동제어 연구실 | Future Fluid and Biomimetics Laboratory (FFBL)
+TEL : 82-54-279-2169 E-mail : sjlee@postech.ac.kr
+©Future Fluid and Biomimetics Laboratory. All Rights Reserved.
+로그인
+개인정보취급처리방침

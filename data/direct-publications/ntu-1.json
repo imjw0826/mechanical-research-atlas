@@ -1,0 +1,60 @@
+{
+  "university": "Nanyang Technological University",
+  "university_key": "ntu",
+  "pi": "Alessandro Romagnoli",
+  "lab_name": null,
+  "lab_url": "https://www.ntu.edu.sg/sj-ntu/our-people/lab-management",
+  "publication_urls": [
+    "https://www.addtoany.com/share"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "visibleTXT": "/Users/garden/Documents/formyresearch/data/direct-publications/ntu-1.visible.txt",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    {
+      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00652",
+      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Alessandro-Romagnoli",
+      "identity_evidence": "Prof Alessandro Romagnoli",
+      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
+      "website_links": [
+        {
+          "label": "Website",
+          "url": "https://www.linkedin.com/in/alessandro-romagnoli-71289233/?originalSubdomain=sg"
+        },
+        {
+          "label": "Website",
+          "url": "https://scholar.google.com.sg/citations?user=D8IpDBAAAAAJ&hl=en"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.scopus.com/authid/detail.uri?authorId=36137836700"
+        },
+        {
+          "label": "Website",
+          "url": "http://www.medsventure.com"
+        }
+      ]
+    },
+    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.",
+    "Actual browser traversal of MEDS company homepage/About navigation and official SJ-NTU laboratory Management page. No Publications navigation found; further thermal-energy-group discovery remains unresolved. No repository papers imported.",
+    {
+      "source_page_manifest": [
+        {
+          "source_url": "https://www.medsventure.com/",
+          "captured_at": "2026-11-12T13:52:28.602Z",
+          "note": "Profile-linked company website; navigation contains no Publications section."
+        },
+        {
+          "source_url": "https://www.ntu.edu.sg/sj-ntu/our-people/lab-management",
+          "captured_at": "2026-11-12T13:52:28.633Z",
+          "note": "Official corporate laboratory Management and Admin page with Romagnoli co-director identity and site navigation."
+        }
+      ],
+      "visible_txt": "/Users/garden/Documents/formyresearch/data/direct-publications/ntu-1.visible.txt"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "status": "partial",
+  "papers": []
+}

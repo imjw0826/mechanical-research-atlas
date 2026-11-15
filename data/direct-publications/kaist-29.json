@@ -1,0 +1,1784 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "오현동 OH, Hyondong",
+  "lab_name": null,
+  "lab_url": "https://fair.kaist.ac.kr",
+  "publication_urls": [
+    "https://fair.kaist.ac.kr/international-journals/",
+    "https://fair.kaist.ac.kr/international-conferences/",
+    "https://fair.kaist.ac.kr/domestic-journals/",
+    "https://fair.kaist.ac.kr/domestic-conferences/"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Semantic-GSL: vision-language semantics for information-theoretic gas source socalization",
+      "year": 2026,
+      "citation_raw": "[J90] H. Park, H. Jang, S. Kim, J. Lee, J. Kim and *H. Oh. Semantic-GSL: vision-language semantics for information-theoretic gas source socalization, IEEE Robotics and Automation Letters, Vol. 11, No. 12, pp. 14180-14187, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Optimizing indoor farm monitoring: drone-based efficient data acquisition and 3D multi-view fusion for instance-level strawberry monitoring",
+      "year": 2026,
+      "citation_raw": "[J89] T. Park, S. Lee, J. Lee, J. Cho, J. Shim, W. Yun, K. Lee and *H. Oh, Optimizing indoor farm monitoring: drone-based efficient data acquisition and 3D multi-view fusion for instance-level strawberry monitoring, IEEE Transactions on Field Robotics, Vol. 3, pp. 788-812, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Kernel-SDF: An open-source library for real-time signed distance function estimation using kernel regression",
+      "year": 2026,
+      "citation_raw": "[J88] Z. Dai, T. Fan, M. Amani, J. Seo, K. M. B. Lee, H. Oh and *N. Atanasov. Kernel-SDF: An open-source library for real-time signed distance function estimation using kernel regression, IEEE Robotics and Automation Letters, Vol. 11, No. 10, pp. 11054-11061, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Vision-based autonomous drone landing on moving platforms with uncertain motion via deep reinforcement learning",
+      "year": 2026,
+      "citation_raw": "[J87] W. Shin, M. Kim, T. Park, G. Bae, S. Kim and *H. Oh, Vision-based autonomous drone landing on moving platforms with uncertain motion via deep reinforcement learning, IEEE Robotics and Automation Letters, Vol. 11, No. 5, pp. 5542-5549, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Observer-based output feedback nonsingular terminal sliding mode control for systems with mismatched disturbances: Theory and experiments",
+      "year": 2026,
+      "citation_raw": "[J86] N.P. Nguyen, *H. Oh, *J. Moon, Y. Kim and J. Yang. Observer-based output feedback nonsingular terminal sliding mode control for systems with mismatched disturbances: Theory and experiments, IEEE Access, Vol. 14, pp. 55564-55578, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Iterative task decomposition and allocation for fixed-wing multi-UAV coverage path planning",
+      "year": 2026,
+      "citation_raw": "[J85] M. Gu, Y. Song, C. Ra, J. Suk and *H. Oh. Iterative task decomposition and allocation for fixed-wing multi-UAV coverage path planning, International Journal of Aeronautical and Space Sciences, Vol. 27, pp. 774-790, 2026",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "A hybrid deep reinforcement learning approach for target allocation and routing of multiple nonholonomic vehicles",
+      "year": 2026,
+      "citation_raw": "[J84] M. Jung, *D. Lee, *H. Oh, J.W. An, J.W. Woo and G.R. Nam. A hybrid deep reinforcement learning approach for target allocation and routing of multiple nonholonomic vehicles, Engineering Applications of Artificial Intelligence, Vol. 164, Part B, 113308, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Real-time communication relay planning with a low-complexity network quality prediction model in dynamic indoor missions",
+      "year": 2026,
+      "citation_raw": "[J83] J. Seo, J. Kim, S. Kim, C. Kim, W. Shin and *H. Oh. Real-time communication relay planning with a low-complexity network quality prediction model in dynamic indoor missions, IEEE Robotics and Automation Letters, Vol. 11, No. 1, pp. 322-329, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "PACMAN: rapid identification of keypoint-based fiducial marker in occluded environments, Image and Vision Computing",
+      "year": 2026,
+      "citation_raw": "[J82] T. Park, G. Bae, W. Shin, M. Meraj, J. Seo, H. Shin and *H. Oh. PACMAN: rapid identification of keypoint-based fiducial marker in occluded environments, Image and Vision Computing, Vol. 165, 105821, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Safety-critical optimal flocking control algorithm with feasibility enhancement of high-order control barrier functions",
+      "year": 2025,
+      "citation_raw": "[J81] Y. Song, N.P. Nguyen and *H. Oh. Safety-critical optimal flocking control algorithm with feasibility enhancement of high-order control barrier functions, IEEE Transactions on Control of Network Systems, Vol. 12, No. 3, pp. 2052-2063, 2025.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "EKF-based Radar-inertial odometry with online temporal calibration",
+      "year": 2025,
+      "citation_raw": "[J80] C. Kim, G. Bae, W. Shin, S. Wang and *H. Oh. EKF-based Radar-inertial odometry with online temporal calibration, IEEE Robotics and Automation Letters, Vol. 10, No. 7, pp. 7230-7237, 2025.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Enhanced reward function design for source term estimation based on deep reinforcement learning",
+      "year": 2025,
+      "citation_raw": "[J79] J. Lee, H. Jang, M. Park and *H. Oh. Enhanced reward function design for source term estimation based on deep reinforcement learning, IEEE Access, Vol. 13, pp. 87777-87792, 2025.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Rapid and safe human detection in uninhabited terrains integrating formation flight and multispectral imaging",
+      "year": 2025,
+      "citation_raw": "[J78] H. Shin, S. Bae, H. Kim, G. Bae, T. Park, G. Yim, J. Lee, D. Lee, S. Woo and *H. Oh. Rapid and safe human detection in uninhabited terrains integrating formation flight and multispectral imaging, International Journal of Control, Automation, and Systems, Vol. 23, No. 5, pp. 1527-1541, 2025.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Kalman filter-based distributed Gaussian process for unknown scalar field estimation in wireless sensor networks",
+      "year": 2025,
+      "citation_raw": "[J77] J. Seo, G. Bae and *H. Oh. Kalman filter-based distributed Gaussian process for unknown scalar field estimation in wireless sensor networks, Expert Systems With Applications, Vol. 285, pp. 1-11, 2025.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Composite trajectory tracking control for under-actuated crane systems with matched and mismatched disturbances, Mechanical Systems and Signal Processing",
+      "year": 2025,
+      "citation_raw": "[J76] N.P. Nguyen, *H. Oh and *J. Moon. Composite trajectory tracking control for under-actuated crane systems with matched and mismatched disturbances, Mechanical Systems and Signal Processing, Vol. 226, pp. 1-24, 2025.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Gas source localization in unknown indoor environments using dual-mode information-theoretic search",
+      "year": 2025,
+      "citation_raw": "[J75] S. Kim, J. Seo, H. Jang, C. Kim, M. Kim, J. Pyo and *H. Oh. Gas source localization in unknown indoor environments using dual-mode information-theoretic search, IEEE Robotics and Automation Letters, Vol. 10, No. 1, pp. 588-595, 2025.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Oscillation suppression-enhanced cooperative control via refined cooperative disturbance estimation for aerial co-transportation system",
+      "year": 2024,
+      "citation_raw": "[J74] L. Xu, *H. Lu, J. Wang, H. Oh, X. Guo and L. Guo. Oscillation suppression-enhanced cooperative control via refined cooperative disturbance estimation for aerial co-transportation system, IEEE Transactions on Automation Science and Engineering, Vol. 22, pp. 8371-8385, 2024.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Continuous integral-type sliding mode tracking control of under-actuated cranes: theory and experiments, Nonlinear Dynamics",
+      "year": 2024,
+      "citation_raw": "[J73] N. Nguyen, *H. Oh and *J. Moon. Continuous integral-type sliding mode tracking control of under-actuated cranes: theory and experiments, Nonlinear Dynamics, 112:16295–16313, 2024.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Force-coordination control for aerial collaborative transportation based on lumped disturbance separation and estimation",
+      "year": 2024,
+      "citation_raw": "[J72] L. Xu, *H. Lu, J. Wang, H. Oh, X. Guo and L. Guo. Force-coordination control for aerial collaborative transportation based on lumped disturbance separation and estimation, IEEE Transactions on Aerospace and Electronic System, Vol. 60, No. 5, pp. 6037-6049, 2024.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Autonomous landing on a moving platform using vision-based deep reinforcement learning",
+      "year": 2024,
+      "citation_raw": "[J71] P. Ladosz, M. Mammadov, H. Shin, W. Shin, and *H. Oh. Autonomous landing on a moving platform using vision-based deep reinforcement learning, IEEE Robotics and Automation Letters, Vol. 9, No. 5, pp. 4575-4582, 2024.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Finite-time continuous nonsingular terminal modified adaptive-gain super-twisting control: application to a 2-DOF planar robot manipulator system",
+      "year": 2024,
+      "citation_raw": "[J70] N.P. Nguyen, *H. Oh and *J. Moon. Finite-time continuous nonsingular terminal modified adaptive-gain super-twisting control: application to a 2-DOF planar robot manipulator system, IEEE Transactions on Cybernetics, Vol. 54, No. 5, pp. 2838-2851, 2024.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Deep learning-based human detection using RGB/IR images from drones",
+      "year": 2024,
+      "citation_raw": "[J69] S. Bae, H. Shin, H. Kim, M. Park, M. Choi and *H. Oh. Deep learning-based human detection using RGB/IR images from drones, International Journal of Aeronautical and Space Sciences, Vol. 25, pp. 164-175, 2024.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Multivariable disturbance observer-based finite-time sliding mode attitude control for fixed-wing UAVs under matched and mismatched disturbances",
+      "year": 2023,
+      "citation_raw": "[J68] N.P. Nguyen, *H. Oh and *J. Moon, Y. Kim. Multivariable disturbance observer-based finite-time sliding mode attitude control for fixed-wing UAVs under matched and mismatched disturbances, IEEE Control Systems Letters, Vol. 7, pp. 1999-2004, 2023.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Distributed swarm system with hybrid-flocking control for small fixed-wing UAVs: algorithms and flight experiments",
+      "year": 2023,
+      "citation_raw": "[J67] Y. Song, S. Lim, *H. Oh, H. Myung, H. Lee, J. Jung, and H. Lim. Distributed swarm system with hybrid-flocking control for small fixed-wing UAVs: algorithms and flight experiments, Expert Systems With Applications, Vol. 229, 120457, 2023.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Improved Socialtaxis for information-theoretic source search using cooperative multiple agents in turbulent environments",
+      "year": 2023,
+      "citation_raw": "[J66] H. Jang, M. Park and *H. Oh. Improved Socialtaxis for information-theoretic source search using cooperative multiple agents in turbulent environments, Expert Systems With Applications, Vol. 225, 120033, 2023.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Distributed estimation of stochastic multi-agent systems for cooperative control with a virtual network",
+      "year": 2023,
+      "citation_raw": "[J65] Y. Song, H. Lee, C. Kwon, H. Shin and *H. Oh. Distributed estimation of stochastic multi-agent systems for cooperative control with a virtual network, IEEE Transactions on Systems, Man and Cybernetics: Systems, Vol. 53, No. 4, pp. 2350-2362, 2023.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Receding horizon-based Infotaxis with random sampling for source search and estimation in complex environments",
+      "year": 2023,
+      "citation_raw": "[J64] M. Park, P. Ladosz, J. Kim and *H. Oh. Receding horizon-based Infotaxis with random sampling for source search and estimation in complex environments, IEEE Transactions on Aerospace and Electronic Systems, Vol. 59, No. 1, pp. 591-609. 2023.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Development of flapping wing robot and vision-based obstacle avoidance strategy",
+      "year": 2023,
+      "citation_raw": "[J63] H. Park, G. Bae, I. Kim, *H. Oh and *S. Kim. Development of flapping wing robot and vision-based obstacle avoidance strategy, PeerJ Computer Science, 9:e1201, pp. 1-35, 2023.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Collision-free active sensing for maximum seeking of unknown environment fields with Gaussian processes",
+      "year": 2023,
+      "citation_raw": "[J62] J. Seo, G. Bae and *H. Oh. Collision-free active sensing for maximum seeking of unknown environment fields with Gaussian processes, Expert Systems With Applications, Vol. 216, 119459, 2023.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Continuous nonsingular terminal sliding mode control with integral-type sliding surface for disturbed systems: application to the attitude control for quadrotor UAVs under external disturbances",
+      "year": 2022,
+      "citation_raw": "[J61] N.P. Nguyen, *H. Oh and *J. Moon. Continuous nonsingular terminal sliding mode control with integral-type sliding surface for disturbed systems: application to the attitude control for quadrotor UAVs under external disturbances, IEEE Transactions on Aerospace and Electronic Systems, Vol. 58, No. 6, pp. 5635-5660, 2022.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Adversarial swarm defence using multiple fixed-wing Unmanned Aerial Vehicles",
+      "year": 2022,
+      "citation_raw": "[J60] J. Choi, M. Seo, H.S. Shin and *H. Oh. Adversarial swarm defence using multiple fixed-wing Unmanned Aerial Vehicles, IEEE Transactions on Aerospace and Electronic Systems, Vol. 58, No. 6, pp. 5204-5219, 2022.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Autonomous ship deck landing system of a quadrotor UAV using feed-forward image-based visual servoing",
+      "year": 2022,
+      "citation_raw": "[J59] G. Cho, J. Choi, G. Bae and *H. Oh. Autonomous ship deck landing system of a quadrotor UAV using feed-forward image-based visual servoing, Aerospace Science and Technology, Vol. 130, 107869, 2022.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Heterogeneous mission planning of a single UAV with attention-based deep reinforcement learning",
+      "year": 2022,
+      "citation_raw": "[J58] M. Jung and *H. Oh. Heterogeneous mission planning of a single UAV with attention-based deep reinforcement learning, PeerJ Computer Science, 8:e1119, pp. 1-17, 2022.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Source term estimation using deep reinforcement learning with Gaussian mixture model feature extraction for mobile sensors",
+      "year": 2022,
+      "citation_raw": "[J57] M. Park, P. Ladosz, and *H. Oh. Source term estimation using deep reinforcement learning with Gaussian mixture model feature extraction for mobile sensors, IEEE Robotics and Automation Letters, Vol. 7, No. 3, pp. 8323-8330, 2022.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Weng (@OpenAI), M, Kim and *H, Oh, Exploration in deep reinforcement learning: a survey, Information Fusion",
+      "year": 2022,
+      "citation_raw": "[J56] P. Ladosz, L. Weng (@OpenAI), M. Kim and *H. Oh. Exploration in deep reinforcement learning: a survey, Information Fusion, Vol. 85, pp. 1-22, 2022.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Monocular vision-based time-to-collision estimation for small drones by domain adaptation of simulated images",
+      "year": 2022,
+      "citation_raw": "[J55] M. Kim, P. Ladosz and *H. Oh. Monocular vision-based time-to-collision estimation for small drones by domain adaptation of simulated images, Expert Systems With Applications, Vol. 199, 116973, 2022.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Towards monocular vision-based autonomous flight through deep reinforcement learning",
+      "year": 2022,
+      "citation_raw": "[J54] M. Kim, J. Kim, M. Jung and *H. Oh. Towards monocular vision-based autonomous flight through deep reinforcement learning, Expert Systems With Applications, Vol. 198, 116742, 2022.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Receding-horizon RRT-Infotaxis for autonomous source search in urban environments",
+      "year": 2022,
+      "citation_raw": "[J53] S. An, M. Park and *H. Oh. Receding-horizon RRT-Infotaxis for autonomous source search in urban environments, Aerospace Science and Technology, Vol. 120, 107276, 2022.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Enhanced location tracking in sensor fusion-assisted virtual reality micro-manipulation environments",
+      "year": 2021,
+      "citation_raw": "[J52] J. Prada, J. Im, H. Oh and *C. Song, Enhanced location tracking in sensor fusion-assisted virtual reality micro-manipulation environments, PLoS ONE 16(12): e0261933, 2021.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Autonomous source search for UAVs using Gaussian mixture model-based Infotaxis: algorithm and flight experiments",
+      "year": 2021,
+      "citation_raw": "[J51] M. Park, S. An, J. Seo and *H. Oh. Autonomous source search for UAVs using Gaussian mixture model-based Infotaxis: algorithm and flight experiments, IEEE Transactions on Aerospace and Electronic Systems, Vol. 57, No. 6, pp. 4238-4254, 2021.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Dual-layer optimization-based control allocation for a fixed-wing aircraft",
+      "year": 2021,
+      "citation_raw": "[J50] Y. Yan, *C. Liu, W.H. Chen and H. Oh. Dual-layer optimization-based control allocation for a fixed-wing aircraft, Aerospace Science and Technology, Vol. 119, 107184, 2021.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Using lazy agents to improve the flocking efficiency of multiple UAVs",
+      "year": 2021,
+      "citation_raw": "[J49] Y. Song, M. Gu, J. Choi, *H. Oh, S. Lim, H. Shin and A. Tsourdos. Using lazy agents to improve the flocking efficiency of multiple UAVs, Journal of Intelligent and Robotic Systems, 103(53):1-17, 2021.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Finite-time disturbance observer-based modified super-twisting algorithm for systems with mismatched disturbances: application to fixed-wing UAVs under wind disturbances",
+      "year": 2021,
+      "citation_raw": "[J48] N.P. Nguyen, *H. Oh and Y. Kim, *J. Moon, J. Yang and W.H. Chen. Finite-time disturbance observer-based modified super-twisting algorithm for systems with mismatched disturbances: application to fixed-wing UAVs under wind disturbances, International Journal of Robust and Nonlinear Control, 31(15):7317-7343, 2021.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "A nonlinear hybrid controller for swinging-up and stabilizing the rotary inverted pendulum, Nonlinear Dynamics",
+      "year": 2021,
+      "citation_raw": "[J47] N.P. Nguyen, *H. Oh, Y. Kim and *J. Moon. A nonlinear hybrid controller for swinging-up and stabilizing the rotary inverted pendulum, Nonlinear Dynamics, 104(2):1117-1137, 2021.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Optimal task assignment for UAV swarm operations in hostile environments",
+      "year": 2021,
+      "citation_raw": "[J46] J. Kim, *H. Oh, B. Yu and S. Kim. Optimal task assignment for UAV swarm operations in hostile environments, International Journal of Aeronautical and Space Sciences, 22(2), 456-467, 2021.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "A modified generic second order algorithm with fixed-time stability",
+      "year": 2021,
+      "citation_raw": "[J45] X.T. Tran and *H. Oh. A modified generic second order algorithm with fixed-time stability, ISA Transactions, Vol. 109, pp. 72-80, 2021.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Nonlinear disturbance observer-based standoff target tracking for small fixed-wing UAVs",
+      "year": 2021,
+      "citation_raw": "[J44] D. Shin, Y. Song, J. Oh and *H. Oh. Nonlinear disturbance observer-based standoff target tracking for small fixed-wing UAVs, International Journal of Aeronautical and Space Sciences, 22(1), 108-119, 2021.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Task assignment for deploying unmanned aircraft as decoys",
+      "year": 2020,
+      "citation_raw": "[J43] M.V. Dileep, B. Yu, *S. Kim and H. Oh. Task assignment for deploying unmanned aircraft as decoys, International Journal of Control, Automation and Systems, 18(12):3204-3217, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Autonomous UAV trail navigation with obstacle avoidance using deep neural networks",
+      "year": 2020,
+      "citation_raw": "[J42] S. Back, G. Cho, J. Oh, X.T. Tran and *H. Oh. Autonomous UAV trail navigation with obstacle avoidance using deep neural networks, Journal of Intelligent and Robotic Systems, 100(3):1195-1211, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Fuzzy-based super-twisting sliding mode stabilization control for under-actuated rotary inverted pendulum systems",
+      "year": 2020,
+      "citation_raw": "[J41] N.P. Nguyen, *H. Oh, Y. Kim, *J. Moon, J. Yang and W.H. Chen. Fuzzy-based super-twisting sliding mode stabilization control for under-actuated rotary inverted pendulum systems, IEEE Access, Vol. 8, pp. 185079-185092, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Adaptive second-order sliding algorithm-based modified function projective synchronization of uncertain hyperchaotic systems",
+      "year": 2020,
+      "citation_raw": "[J40] X.T. Tran, *H. Oh and *C.H. Kwon, Adaptive second-order sliding algorithm-based modified function projective synchronization of uncertain hyperchaotic systems, IEEE Access, Vol. 8, pp. 149952-149962, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Vision-based obstacle avoidance for UAVs via imitation learning with sequential neural networks",
+      "year": 2020,
+      "citation_raw": "[J39] B. Park and *H. Oh. Vision-based obstacle avoidance for UAVs via imitation learning with sequential neural networks, International Journal of Aeronautical and Space Sciences, 21(3), 768-779, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Prescribed performance adaptive finite-time control for uncertain horizontal platform systems",
+      "year": 2020,
+      "citation_raw": "[J38] X.T. Tran and *H. Oh. Prescribed performance adaptive finite-time control for uncertain horizontal platform systems, ISA Transactions, Vol. 103, pp. 122-130, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "A new continuous high order sliding mode controller for synchronizing perturbed Genesio–Tesi systems in finite time",
+      "year": 2020,
+      "citation_raw": "[J37] X.T. Tran and *H. Oh. A new continuous high order sliding mode controller for synchronizing perturbed Genesio–Tesi systems in finite time, Journal of The Franklin Institute, Vol. 357, No. 6, pp. 3451-3468, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Disturbance observer-based continuous finite-time sliding mode control against matched and mismatched disturbances, Complexity",
+      "year": 2020,
+      "citation_raw": "[J36] N.P. Nguyen, *H. Oh, Y. Kim and *J. Moon. Disturbance observer-based continuous finite-time sliding mode control against matched and mismatched disturbances, Complexity, Vol. 2020, 2085752, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Optimal communication relay positioning in mobile multi-node networks",
+      "year": 2020,
+      "citation_raw": "[J35] J. Kim, P. Ladosz and *H. Oh. Optimal communication relay positioning in mobile multi-node networks, Robotics and Autonomous Systems, Vol.129, 103517, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Decentralized multiple subgroup formation control with connectivity preservation and collision avoidance",
+      "year": 2020,
+      "citation_raw": "[J34] J. Choi, Y. Song, S. Lim and *H. Oh. Decentralized multiple subgroup formation control with connectivity preservation and collision avoidance, IEEE Access, Vol. 8, No. 1, pp. 71525-71534, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Comparison of station keeping strategies for long endurance autonomous surface vehicle",
+      "year": 2020,
+      "citation_raw": "[J33] H. Oh*, S. Kim, A. Tsourdos, and A. Savvaris. Comparison of station keeping strategies for long endurance autonomous surface vehicle, Journal of Marine Science and Technology, Vol. 25, No. 1, pp. 13-25, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Gaussian process-based channel prediction for communication relay UAV in urban environments",
+      "year": 2020,
+      "citation_raw": "[J32] P. Ladosz, *H. Oh, G. Zheng, and W.H. Chen. Gaussian process-based channel prediction for communication relay UAV in urban environments, IEEE Transactions on Aerospace and Electronic Systems, Vol. 56, No. 1, pp. 313-325, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Cooperative information-driven source search and estimation for multiple agents, Information Fusion",
+      "year": 2020,
+      "citation_raw": "[J31] M. Park and *H. Oh. Cooperative information-driven source search and estimation for multiple agents, Information Fusion, Vol. 54, pp. 72-84, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Experimental validation of Gaussian process-based air-to-ground communication quality prediction in urban environments, Sensors",
+      "year": 2019,
+      "citation_raw": "[J30] P. Ladosz, J. Kim, *H. Oh, and W.H. Chen. Experimental validation of Gaussian process-based air-to-ground communication quality prediction in urban environments, Sensors, 19(14), 3221, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Vision-based obstacle avoidance strategies for MAVs using optical flows in 3-D textured environments, Sensors",
+      "year": 2019,
+      "citation_raw": "[J29] G. Cho, J. Kim and *H. Oh. Vision-based obstacle avoidance strategies for MAVs using optical flows in 3-D textured environments, Sensors, 19(11), 2523, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "A hybrid approach of learning and model-based channel prediction for communication relay UAVs in dynamic urban environments",
+      "year": 2019,
+      "citation_raw": "[J28] P. Ladosz, *H. Oh, G. Zheng, and W.H. Chen. A hybrid approach of learning and model-based channel prediction for communication relay UAVs in dynamic urban environments, IEEE Robotics and Automation Letters, Vol. 4, No. 3, pp. 2370-2377, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Persistent standoff tracking guidance using constrained particle filter for multiple UAVs",
+      "year": 2019,
+      "citation_raw": "[J27] H. Oh* and S. Kim. Persistent standoff tracking guidance using constrained particle filter for multiple UAVs, Aerospace Science and Technology, Vol. 84, pp. 257-264, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Communication-aware trajectory planning for unmanned aerial vehicles in urban environments",
+      "year": 2018,
+      "citation_raw": "[J26] H. Oh*, H. Shin, S. Kim, and W.H. Chen. Communication-aware trajectory planning for unmanned aerial vehicles in urban environments, AIAA Journal of Guidance, Control, and Dynamics, Vol. 41, No. 10, pp. 2271-2282, 2018.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Continuous integral terminal third-order sliding mode motion control for piezoelectric nanopositioning system",
+      "year": 2018,
+      "citation_raw": "[J25] X.T. Tran and *H. Oh. Comments on “Continuous integral terminal third-order sliding mode motion control for piezoelectric nanopositioning system”. IEEE/ASME Transactions on Mechatronics, Vol. 23, No. 3, pp. 1488-1490, 2018.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Multiple model ballistic missile tracking with state-dependent transitions and Gaussian particle filtering",
+      "year": 2018,
+      "citation_raw": "[J24] M. Yu, *H. Oh, W.H. Chen, and J. Chambers. Multiple model ballistic missile tracking with state-dependent transitions and Gaussian particle filtering, IEEE Transactions on Aerospace and Electronic Systems, Vol. 54, No. 3, pp. 1066-1081, 2018.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Morphogen diffusion algorithms for tracking and herding using a swarm of kilobots, Soft Computing",
+      "year": 2018,
+      "citation_raw": "[J23] H. Oh, A.R. Shirazi, and *Y. Jin. Morphogen diffusion algorithms for tracking and herding using a swarm of kilobots. Soft Computing, Vol. 22, No. 6, pp. 1833-1844, 2018.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Attitude stabilization of flapping micro-air vehicles via an observer-based sliding mode control method",
+      "year": 2018,
+      "citation_raw": "[J22] X.T. Tran, *H. Oh, I.R. Kim, and S. Kim. Attitude stabilization of flapping micro-air vehicles via an observer-based sliding mode control method, Aerospace Science and Technology, Vol. 76, pp. 386-393, 2018.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Entrotaxis as a strategy for autonomous search and source reconstruction in turbulent conditions, Information Fusion",
+      "year": 2018,
+      "citation_raw": "[J21] M. Hutchinson, *H. Oh, and W.H. Chen. Entrotaxis as a strategy for autonomous search and source reconstruction in turbulent conditions, Information Fusion, Vol. 42, pp. 179-189, 2018.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Trajectory planning for communication relay unmanned aerial vehicles in urban dynamic environments",
+      "year": 2018,
+      "citation_raw": "[J20] P. Ladosz, *H. Oh and W.H. Chen. Trajectory planning for communication relay unmanned aerial vehicles in urban dynamic environments. Journal of Intelligent and Robotic Systems, Vol. 89, No. 1, pp. 7-25, 2018.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Bio-inspired self-organising multi-robot pattern formation: a review",
+      "year": 2017,
+      "citation_raw": "[J19] H. Oh, A.R. Shirazi, C. Sun, and *Y. Jin. Bio-inspired self-organising multi-robot pattern formation: a review, Robotics and Autonomous Systems, Vol. 91, pp. 83-100, 2017.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "A review of source term estimation methods for atmospheric dispersion events using static or mobile sensors, Information Fusion",
+      "year": 2017,
+      "citation_raw": "[J18] M. Hutchinson, *H. Oh, and W.H. Chen. A review of source term estimation methods for atmospheric dispersion events using static or mobile sensors, Information Fusion, Vol. 36, pp. 130-148, 2017.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "New multiple-target tracking strategy using domain knowledge and optimization",
+      "year": 2017,
+      "citation_raw": "[J17] R. Ding, M. Yu, *H. Oh, and W.H. Chen. New multiple-target tracking strategy using domain knowledge and optimization, IEEE Transactions on Systems, Man and Cybernetics: Systems, Vo. 47, No. 4, pp.605-616, 2017.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "An improved multiple model particle filtering approach for manoeuvring target tracking using airborne GMTI with geographic information",
+      "year": 2016,
+      "citation_raw": "[J16] M. Yu, *H. Oh, and W. Chen. An improved multiple model particle filtering approach for manoeuvring target tracking using airborne GMTI with geographic information, Aerospace Science and Technology, Vol. 52, pp. 62-69, 2016.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Coordinated standoff tracking of moving target groups using multiple UAVs",
+      "year": 2015,
+      "citation_raw": "[J15] H. Oh, S. Kim, H. Shin, and A. Tsourdos. Coordinated standoff tracking of moving target groups using multiple UAVs. IEEE Transactions on Aerospace and Electronic Systems, Vol. 51, No. 2, pp. 1501-1514, 2015.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Road-map-assisted standoff tracking of moving ground vehicle using NMPC. IEEE Transactions on Aerospace and Electronic Systems",
+      "year": 2015,
+      "citation_raw": "[J14] H. Oh, S. Kim, and A. Tsourdos. Road-map-assisted standoff tracking of moving ground vehicle using NMPC. IEEE Transactions on Aerospace and Electronic Systems, 51(2):975-986, 2015.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Coordinated trajectory planning for efficient communication relay using multiple UAVs, Control Engineering Practice",
+      "year": 2014,
+      "citation_raw": "[J13] S. Kim, *H. Oh, J. Suk, and A. Tsourdos. Coordinated trajectory planning for efficient communication relay using multiple UAVs. Control Engineering Practice, 29:42-49, 2014.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Using hands-on project with Lego Mindstorms in a graduate course",
+      "year": 2014,
+      "citation_raw": "[J12] S. Kim, *H. Oh, J. Choi, A. Tsourdos, and B.A. White. Using hands-on project with Lego Mindstorms in a graduate course. International Journal of Engineering Education, Vol. 30, No. 2, pp. 458-470, 2014.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Decentralised standoff tracking of moving targets using adaptive sliding mode control for UAVs",
+      "year": 2014,
+      "citation_raw": "[J11] H. Oh, S. Kim, A. Tsourdos, and B.A. White. Decentralised standoff tracking of moving targets using adaptive sliding mode control for UAVs. Journal of Intelligent and Robotic Systems, 2014. Vol. 76, No. 1, pp. 169-183, 2014.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Coordinated standoff tracking using path shaping for multiple UAVs",
+      "year": 2014,
+      "citation_raw": "[J10] H. Oh, D. Turchi, S. Kim, A. Tsourdos, L. Pollini, and B.A. White. Coordinated standoff tracking using path shaping for multiple UAVs. IEEE Transactions on Aerospace and Electronic Systems, Vol. 50, No. 1, pp. 348-363, 2014.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Coordinated road-network search route planning by a team of UAVs",
+      "year": 2014,
+      "citation_raw": "[J9] H. Oh, S. Kim, A. Tsourdos, and B.A. White. Coordinated road-network search route planning by a team of UAVs. International Journal of Systems Science, Vol. 45, No. 5, pp. 825-840, 2014.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Behaviour recognition of ground vehicle using airborne monitoring of UAVs",
+      "year": 2014,
+      "citation_raw": "[J8] H. Oh, S. Kim, H.S. Shin, A. Tsourdos and B.A. White. Behaviour recognition of ground vehicle using airborne monitoring of UAVs. International Journal of Systems Science, Vol. 45, No. 12, pp. 2499-2514, 2014.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Airborne behaviour monitoring using Gaussian processes with map information, IET Radar, Sonar and Navigation",
+      "year": 2013,
+      "citation_raw": "[J7] H. Oh, H.S. Shin, S. Kim, A. Tsourdos, and B.A. White. Airborne behaviour monitoring using Gaussian processes with map information. IET Radar, Sonar and Navigation, Vol. 7, No. 4, pp. 393-400, 2013.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Nonlinear model predictive coordinated standoff tracking of moving ground vehicle",
+      "year": 2013,
+      "citation_raw": "[J6] S. Kim, H. Oh, and A. Tsourdos. Nonlinear model predictive coordinated standoff tracking of moving ground vehicle. AIAA Journal of Guidance, Control, and Dynamics, Vol. 36, No. 2, pp. 557-566, 2013.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Rendezvous and standoff target tracking guidance using differential geometry",
+      "year": 2013,
+      "citation_raw": "[J5] H. Oh, S. Kim, H.S. Shin, B.A. White, A. Tsourdos and C.A. Rabbath. Rendezvous and standoff target tracking guidance using differential geometry. Journal of Intelligent and Robotic Systems, 69:389-405, 2013.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Indoor UAV control using multi camera visual feedback",
+      "year": 2011,
+      "citation_raw": "[J4] H. Oh, D.Y. Won, S.S. Huh, D.H. Shim, M.J. Tahk, and A. Tsourdos. Indoor UAV control using multi camera visual feedback. Journal of Intelligent and Robotics Systems, 61:57–84, 2011.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Experimental framework for controller design of a rotorcraft unmanned aerial vehicle using multi-camera system",
+      "year": 2010,
+      "citation_raw": "[J3] H. Oh, D.Y. Won, S.S. Huh, D.H. Shim, and M.J. Tahk. Experimental framework for controller design of a rotorcraft unmanned aerial vehicle using multi-camera system. International Journal of Aeronautical and Space Sciences, 11(2):69-79, 2010.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Dynamic modeling and stabilization techniques for tri-rotor unmanned aerial vehicles",
+      "year": 2010,
+      "citation_raw": "[J2] D.Y. Yoo, H. Oh, D.Y. Won, and M.J. Tahk. Dynamic modeling and stabilization techniques for tri-rotor unmanned aerial vehicles. International Journal of Aeronautical and Space Sciences, 11(3):167-174, 2010.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "UAV conflict detection and resolution based on geometric approach",
+      "year": 2009,
+      "citation_raw": "[J1] J.W. Park, H. Oh, and M.J. Tahk. UAV conflict detection and resolution based on geometric approach. International Journal of Aeronautical and Space Sciences, 10(1):37-45, 2009.",
+      "source_url": "https://fair.kaist.ac.kr/international-journals/"
+    },
+    {
+      "title": "Keyframe-based LiDAR scan-to-map registration in a 50 m greenhouse corridor",
+      "year": 2026,
+      "citation_raw": "[C97] T. Park, S. Lee, W. Yun, K. Lee and H. Oh. Keyframe-based LiDAR scan-to-map registration in a 50 m greenhouse corridor. The 26th International Conference on Control, Automation and Systems (ICCAS), Sapporo, Japan, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "DL-GPOM: Dual-layer Gaussian process occupancy mapping for mixed-evidence preservation",
+      "year": 2026,
+      "citation_raw": "[C96] J. Seo, W. Kim and H. Oh. DL-GPOM: Dual-layer Gaussian process occupancy mapping for mixed-evidence preservation. The 26th International Conference on Control, Automation and Systems (ICCAS), Sapporo, Japan, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Approximating control invariant sets with migrating samples for control barrier function synthesis",
+      "year": 2026,
+      "citation_raw": "[C95] Y. Song, H. Jang and H. Oh. Approximating control invariant sets with migrating samples for control barrier function synthesis. The 26th International Conference on Control, Automation and Systems (ICCAS), Sapporo, Japan, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Self-supervised geometry reasoning for LiDAR simultaneous localization and mapping",
+      "year": 2026,
+      "citation_raw": "[C94] J. Kim, J. Lee, W. Shin, G. Kim and H. Oh. Self-supervised geometry reasoning for LiDAR simultaneous localization and mapping. From Perception to Action Workshop in Robotics: Science and Systems (RSS), Sydney, Australia, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Learning the underlying geometry of point clouds: theory and practice",
+      "year": 2026,
+      "citation_raw": "[C93] J. Lee, J. Kim, W. Shin, G. Kim and H. Oh. Learning the underlying geometry of point clouds: theory and practice. Robotics: Science and Systems (RSS), Sydney, Australia, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "EMTP: Efficient multi-robot task planning with large language models",
+      "year": 2026,
+      "citation_raw": "[C92] S. Park, M. Jung, C. Kim, W. Shin, S. Lee and H. Oh. EMTP: Efficient multi-robot task planning with large language models. Workshop in International Conference on Robotics and Automation (ICRA), Vienna, Austria, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Vision-based autonomous drone landing on fast-moving platforms via deep reinforcement learning",
+      "year": 2025,
+      "citation_raw": "[C91] W. Shin, M. Kim, T. Park, G. Bae, S. Kim and H. Oh. Vision-based autonomous drone landing on fast-moving platforms via deep reinforcement learning, 13th International Conference on Robot Intelligence Technology and Applications (RiTA), London, UK, 2025 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Communication-free collective navigation for a swarm of UAVs via LiDAR-based deep reinforcement learning",
+      "year": 2025,
+      "citation_raw": "[C90] M.Y. Choi, H. Ko, H. Cho, C. Kim, S. Kim, J. Seo, and H. Oh. Communication-free collective navigation for a swarm of UAVs via LiDAR-based deep reinforcement learning, 13th International Conference on Robot Intelligence Technology and Applications (RiTA), London, UK, 2025 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Autonomous hazardous gas source localization via disagreement-augmented reinforcement learning",
+      "year": 2025,
+      "citation_raw": "[C89] J. Lee, H. Jang and H. Oh. Autonomous hazardous gas source localization via disagreement-augmented reinforcement learning, Asia-Pacific International Symposium on Aerospace Technology (APISAT), Seoul, Korea, 2025 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Semantic-GSL: Semantically guided gas source localization with vision-language models",
+      "year": 2025,
+      "citation_raw": "[C88] H. Park, H. Jang, S. Kim, J. Lee, J. Kim and H. Oh. Semantic-GSL: Semantically guided gas source localization with vision-language models, Active Perception Workshop in International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Source term estimation using curiosity-driven information-guided reinforcement learning in turbulent environments",
+      "year": 2025,
+      "citation_raw": "[C87] J. Lee, H. Jang, S. Kim, H. Park, H. Kim, C. Kim and H. Oh. Source term estimation using curiosity-driven information-guided reinforcement learning in turbulent environments, Active Perception Workshop in International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025 (spotlight-presentation).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Demonstrating artistic drawing on low-cost robot",
+      "year": 2025,
+      "citation_raw": "[C86] H. Jeong, M. Joo, H. Shin, H. Song, H. Oh, J. Jeon, T. Kim and H. Ahn. Demonstrating artistic drawing on low-cost robot, 9th Annual Conference on Robot Learning (CoRL) Demos, Seoul, Korea, 2025.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Doppler correspondence: Non-iterative scan matching with Doppler velocity-based correspondence",
+      "year": 2025,
+      "citation_raw": "[C85] J. Kim, G. Bae, C. Kim, J. Lee, W. Shin and H. Oh. Doppler correspondence: Non-iterative scan matching with Doppler velocity-based correspondence, Robotics: Science and Systems (RSS), LA, USA, 2025.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "RAPID: Robust and agile planner using inverse reinforcement learning for vision-based drone navigation",
+      "year": 2025,
+      "citation_raw": "[C84] M. Kim, G. Bae, J. Lee, W. Shin, C. Kim, M.Y. Choi, H. Shin and H. Oh. RAPID: Robust and agile planner using inverse reinforcement learning for vision-based drone navigation, Robotics: Science and Systems (RSS), LA, USA, 2025.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Optimizing indoor farm monitoring efficiency using UAV: yield estimation in a GNSS-denied cherry tomato greenhouse",
+      "year": 2025,
+      "citation_raw": "[C83] T. Park, J. Lee, H. Oh, W.J. Yun and K.W. Lee. Optimizing indoor farm monitoring efficiency using UAV: yield estimation in a GNSS-denied cherry tomato greenhouse, Field Robotics Workshop in International Conference on Robotics and Automation (ICRA), Atlanta, USA, 2025 (spotlight-presentation).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Gas source localization in unknown indoor environments using dual-mode information-theoretic search",
+      "year": 2025,
+      "citation_raw": "[C82] S. Kim, J. Seo, H. Jang, C. Kim, M. Kim, J. Pyo and H. Oh. Gas source localization in unknown indoor environments using dual-mode information-theoretic search, International Conference on Robotics and Automation (ICRA), Atlanta, USA, 2025 (with IEEE RA-L option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "ReDepth: rectified activations for robust depth estimation",
+      "year": 2024,
+      "citation_raw": "[C81] J. Kim, W. Shin, H. Shin, M. Kim, J. Lee and H. Oh. ReDepth: rectified activations for robust depth estimation, 12th International Conference on Robot Intelligence Technology and Applications (RiTA), Ulsan, Korea, 2024 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "B-MCTS for information-theoretic source search in urban environments",
+      "year": 2024,
+      "citation_raw": "[C80] H. Park, H. Jang, J. Seo and H. Oh. B-MCTS for information-theoretic source search in urban environments, 12th International Conference on Robot Intelligence Technology and Applications (RiTA), Ulsan, Korea, 2024 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "An efficient image filtering algorithm for UAV-based photogrammetry using ORB feature matching in large-scale outdoor environments",
+      "year": 2024,
+      "citation_raw": "[C79] G. Yim, H. Park, S. Bae, J. Seo and H. Oh. An efficient image filtering algorithm for UAV-based photogrammetry using ORB feature matching in large-scale outdoor environments, 12th International Conference on Robot Intelligence Technology and Applications (RiTA), Ulsan, Korea, 2024 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "GMM information gain-based deep reinforcement learning for source term estimation",
+      "year": 2024,
+      "citation_raw": "[C78] J. Lee, H. Jang, M. Park and H. Oh. GMM information gain-based deep reinforcement learning for source term estimation, 12th International Conference on Robot Intelligence Technology and Applications (RiTA), Ulsan, Korea, 2024 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Hedonic game for task allocation in heterogeneous multi-robot systems",
+      "year": 2024,
+      "citation_raw": "[C77] H. Kim, I. Jang and H. Oh. Hedonic game for task allocation in heterogeneous multi-robot systems, 12th International Conference on Robot Intelligence Technology and Applications (RiTA), Ulsan, Korea, 2024 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Designing and identification of keypoint patches in unstructured environments",
+      "year": 2024,
+      "citation_raw": "[C76] T. Park, S. Kim and H. Oh. Designing and identification of keypoint patches in unstructured environments, 12th International Conference on Robot Intelligence Technology and Applications (RiTA), Ulsan, Korea, 2024 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Enhancing exploration efficiency using uncertainty-aware information prediction",
+      "year": 2024,
+      "citation_raw": "[C75] S. Kim, H. Shin, G. Yim and H. Oh. Enhancing exploration efficiency using uncertainty-aware information prediction, 12th International Conference on Robot Intelligence Technology and Applications (RiTA), Ulsan, Korea, 2024 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "RAPID: Robust and agile planner using inverse reinforcement learning for drones",
+      "year": 2024,
+      "citation_raw": "[C74] M. Kim, G. Bae, J. Lee, W. Shin, H. Shin, M.Y. Choi and H. Oh. RAPID: Robust and agile planner using inverse reinforcement learning for drones, 14th Workshop on Planning, Perception and Navigation for Intelligent Vehicles in International Conference on Intelligent Robots and Systems (IROS), Abu Dhabi, UAE, 2024.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Efficient flocking control for swarm robots using reinforcement learning-based lazy agents",
+      "year": 2024,
+      "citation_raw": "[C73] J. Kim, M. Jung, H. S. Shin, H. Oh and A. Tsourdos. Efficient flocking control for swarm robots using reinforcement learning-based lazy agents, International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM), Kyoto, Japan, 2024 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Deep reinforcement learning-based neighbor selection of a cucker-smale flocking algorithm",
+      "year": 2024,
+      "citation_raw": "[C72] J. Kim, M. Jung, H. S. Shin, H. Oh and A. Tsourdos. Deep reinforcement learning-based neighbor selection of a cucker-smale flocking algorithm, International Conference on Control, Decision and Information Technologies (CoDIT), Vallette, Malta, 2024.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Multi-state constraint radar-inertial odometry",
+      "year": 2024,
+      "citation_raw": "[C71] C. Kim, G. Bae, W. Shin and H. Oh. Multi-state constraint radar-inertial odometry, International Conference on Robotics and Automation (ICRA), Yokohama, Japan, 2024 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Information-driven search strategy for multiple hazardous gas sources in turbulent environments",
+      "year": 2024,
+      "citation_raw": "[C70] H. Jang, J. Seo and H. Oh. Information-driven search strategy for multiple hazardous gas sources in turbulent environments, International Conference on Robotics and Automation (ICRA), Yokohama, Japan, 2024 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Jang and H. oh, Gas source localization in complex unknown indoor environments using a hierarchical planner",
+      "year": 2024,
+      "citation_raw": "[C69] S. Kim, J. Seo, H. Jang and H. oh. Gas source localization in complex unknown indoor environments using a hierarchical planner, International Conference on Industrial Technology (ICIT), Bristol, UK, 2024 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Routing formation control strategy for constructing a chain network system using unmanned vehicles",
+      "year": 2024,
+      "citation_raw": "[C68] J. Seo, G. Yim and H. Oh. Routing formation control strategy for constructing a chain network system using unmanned vehicles, International Conference on Industrial Technology (ICIT), Bristol, UK, 2024 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Multivariable disturbance observer-based finite-time sliding mode attitude control for fixed-wing UAVs under matched and mismatched disturbances",
+      "year": 2023,
+      "citation_raw": "[C67] N. P. Nguyen, H. Oh, J. Moon and Y. Kim. Multivariable disturbance observer-based finite-time sliding mode attitude control for fixed-wing UAVs under matched and mismatched disturbances, 62nd IEEE Conference on Decision and Control (CDC), Marina Bay Sands, Singapore, 2023 (with IEEE L-CSS option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Integral sliding mode tracking control of under-actuated gantry cranes: theory and experiment",
+      "year": 2023,
+      "citation_raw": "[C66] N. P. Nguyen, H. Oh and J. Moon. Integral sliding mode tracking control of under-actuated gantry cranes: theory and experiment, 11th International Conference on Robot Intelligence Technology and Applications (RiTA), Taicang, China, 2023 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Efficient information-driven strategy for localizing and searching multiple gas sources in turbulent environments",
+      "year": 2023,
+      "citation_raw": "[C65] H. Jang, J. Lee and H. Oh. Efficient information-driven strategy for localizing and searching multiple gas sources in turbulent environments, Workshop in Robotics Science and Systems (RSS), Korea, 2023.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Learning from the best: inverse imitation learning for agile drone flight",
+      "year": 2023,
+      "citation_raw": "[C64] M. Kim, G. Bae, P. Ladosz, H. Shin and H. Oh. Learning from the best: inverse imitation learning for agile drone flight, Workshop in Robotics Science and Systems (RSS), Korea, 2023.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Fast monocular depth estimation with neural network compression on embedded systems for drone collision avoidance",
+      "year": 2023,
+      "citation_raw": "[C63] H. Shin, T. Park and H. Oh. Fast monocular depth estimation with neural network compression on embedded systems for drone collision avoidance, International Conference on Robotics and Automation (ICRA), UK, 2023 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Unknown scalar field estimation with robotic sensor networks utilizing Kalman filter-based distributed Gaussian process",
+      "year": 2023,
+      "citation_raw": "[C62] J. Seo, G. Bae and H. Oh. Unknown scalar field estimation with robotic sensor networks utilizing Kalman filter-based distributed Gaussian process , International Conference on Robotics and Automation (ICRA), UK, 2023 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Safety-critical optimal control using control barrier function with selective relaxation method",
+      "year": 2023,
+      "citation_raw": "[C61] Y. Song, N.P. Nguyen and H. Oh. Safety-critical optimal control using control barrier function with selective relaxation method, International Conference on Control, Automation and Systems (ICCAS), Korea, 2023.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Source term estimation using deep reinforcement learning with Gaussian mixture model feature extraction for mobile sensors",
+      "year": 2022,
+      "citation_raw": "[C60] M. Park, P. Ladosz and H. Oh. Source term estimation using deep reinforcement learning with Gaussian mixture model feature extraction for mobile sensors, International Conference on Intelligent Robots and Systems (IROS), Japan, 2022 (with IEEE RA-L option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Distributed Gaussian process regression for multi-agent active sensing with hyperparameter tuning",
+      "year": 2022,
+      "citation_raw": "[C59] G. Bae, J. Seo, H. Oh. Distributed Gaussian process regression for multi-agent active sensing with hyperparameter tuning. 10th International Conference on Robot Intelligence Technology and Applications (RiTA), Gold Coast, Australia, 2022 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Decentralized multi-robot task allocation with attention-based deep reinforcement learning algorithm",
+      "year": 2022,
+      "citation_raw": "[C58] M. Jung and H. Oh. Decentralized multi-robot task allocation with attention-based deep reinforcement learning algorithm. 10th International Conference on Robot Intelligence Technology and Applications (RiTA), Gold Coast, Australia, 2022 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Optimal flocking control algorithm with feasibility enhancement of control barrier function",
+      "year": 2022,
+      "citation_raw": "[C57] Y. Song and H. Oh. Optimal flocking control algorithm with feasibility enhancement of control barrier function. 10th International Conference on Robot Intelligence Technology and Applications (RiTA), Gold Coast, Australia, 2022 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Continuous sliding mode control for indoor under-actuated overhead crane systems",
+      "year": 2022,
+      "citation_raw": "[C56] N. P. Nguyen, H. Oh and J. Moon. Continuous sliding mode control for indoor under-actuated overhead crane systems. 22nd International Conference on Control, Automation and Systems (ICCAS), Pusan, Korea, 2022 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Deep learning-based UAV trail following with the neural network model compression",
+      "year": 2022,
+      "citation_raw": "[C55] M. Jung, H. Shin and H. Oh. Deep learning-based UAV trail following with the neural network model compression. Asian Control Conference, Jeju, Korea, 2022 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Boustrophedon coverage path planning using deep reinforcement learning based traveling salesman problem",
+      "year": 2022,
+      "citation_raw": "[C54] M. Kim and H. Oh. Boustrophedon coverage path planning using deep reinforcement learning based traveling salesman problem. Asian Control Conference, Jeju, Korea, 2022 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Heterogeneous mission planning of UAVs with attention-based deep reinforcement learning",
+      "year": 2021,
+      "citation_raw": "[C53] M. Jung, H. Oh and H. Shin. Heterogeneous mission planning of UAVs with attention-based deep reinforcement learning. 9th International Conference on Robot Intelligence Technology and Applications (RiTA), Daejeon, Korea, 2021 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Collision-free active sensing for maximum seeking of unknown environment fields with Gaussian processes",
+      "year": 2021,
+      "citation_raw": "[C52] J. Seo and H. Oh. Collision-free active sensing for maximum seeking of unknown environment fields with Gaussian processes. 9th International Conference on Robot Intelligence Technology and Applications (RiTA), Daejeon, Korea, 2021 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Uncertainty-aware time-to-collision prediction using convolutional long-short-term memory networks",
+      "year": 2021,
+      "citation_raw": "[C51] M. Kim, P. Ladosz and H. Oh. Uncertainty-aware time-to-collision prediction using convolutional long-short-term memory networks. 9th International Conference on Robot Intelligence Technology and Applications (RiTA), Daejeon, Korea, 2021 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Development of CNUX-mini flapping wing MAV and vision-based obstacle avoidance strategy",
+      "year": 2021,
+      "citation_raw": "[C50] H. Park, G. Bae, I. Kim, H. Oh and S. Kim. Development of CNUX-mini flapping wing MAV and vision-based obstacle avoidance strategy. 9th International Conference on Robot Intelligence Technology and Applications (RiTA), Daejeon, Korea, 2021 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Autonomous ship deck landing of UAVs using feed-forward image-based visual servoing",
+      "year": 2021,
+      "citation_raw": "[C49] G. Cho, J. Choi, G. Bae and H. Oh. Autonomous ship deck landing of UAVs using feed-forward image-based visual servoing. 9th International Conference on Robot Intelligence Technology and Applications (RiTA), Daejeon, Korea, 2021 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Improved socialtaxis for information-theoretic source search using cooperative multiple agents in turbulent environments",
+      "year": 2021,
+      "citation_raw": "[C48] H. Jang, M. Park and H. Oh. Improved socialtaxis for information-theoretic source search using cooperative multiple agents in turbulent environments. Asia-Pacific International Symposium on Aerospace Technology (APISAT), Jeju, Korea, 2021 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Active sampling for maximum seeking and environment field reconstruction using cooperative mobile sensors",
+      "year": 2021,
+      "citation_raw": "[C47] J. Seo, G. Bae, Y. Song and H. Oh. Active sampling for maximum seeking and environment field reconstruction using cooperative mobile sensors. 21st International Conference on Control, Automation and Systems (ICCAS), Jeju, Korea, 2021 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "A simple finite-time position tracking controller for servo motor systems",
+      "year": 2021,
+      "citation_raw": "[C46] N. P. Nguyen, H. Oh and J. Moon. A simple finite-time position tracking controller for servo motor systems. 21st International Conference on Control, Automation and Systems (ICCAS), Jeju, Korea, 2021 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Disturbance observer-based continuous super-twisting sliding mode control for systems with additive mismatched disturbances",
+      "year": 2020,
+      "citation_raw": "[C45] N. P. Nguyen, H. Oh, Y. Kim and J. Moon. Disturbance observer-based continuous super-twisting sliding mode control for systems with additive mismatched disturbances. 20th International Conference on Control, Automation and Systems (ICCAS), Busan, Korea, 2020 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Distributed estimation-based cooperative flocking for multi-agent system",
+      "year": 2020,
+      "citation_raw": "[C44] Y. Song and H. Oh. Distributed estimation-based cooperative flocking for multi-agent system. 20th International Conference on Control, Automation and Systems (ICCAS), Busan, Korea, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Autonomous source search using Gaussian mixture model-based Infotaxis",
+      "year": 2020,
+      "citation_raw": "[C43] S. An, M. Park and H. Oh. Autonomous source search using Gaussian mixture model-based Infotaxis, 16th International Conference on Ubiquitous Robots (UR), Kyoto, Japan, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Decentralized hybrid flocking guidance for a swarm of small UAVs",
+      "year": 2019,
+      "citation_raw": "[C42] S. Lim, Y. Song, J. Choi, H. Myung, H. Lim, and H. Oh. Decentralized hybrid flocking guidance for a swarm of small UAVs, International Workshop on Research, Education and Development on Unmanned Aerial Systems, RED-UAS, UK, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "and H.Oh, Decentralized multiple V-formation control in undirected time-varying network topologies",
+      "year": 2019,
+      "citation_raw": "[C41] J. Choi, Y. Song, S. Lim, and H.Oh. Decentralized multiple V-formation control in undirected time-varying network topologies, International Workshop on Research, Education and Development on Unmanned Aerial Systems, RED-UAS, UK, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Target classification and prediction of unguided rocket trajectories using deep neural networks",
+      "year": 2019,
+      "citation_raw": "[C40] M. Kim, B. Park and H. Oh. Target classification and prediction of unguided rocket trajectories using deep neural networks, International Conference on Intelligent Robots and Systems (IROS), Macau, 2019 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Second-order sliding mode stabilization control for the rotary inverted pendulum system",
+      "year": 2019,
+      "citation_raw": "[C39] N.P. Nguyen, H. Oh and J. Moon. Second-order sliding mode stabilization control for the rotary inverted pendulum system, International Conference on Control, Automation and Systems (ICCAS), Jeju, Korea, 2019 (presentation-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Trail navigation with obstacle avoidance using convolutional neural networks",
+      "year": 2019,
+      "citation_raw": "[C38] S. Back, G. Cho, and H. Oh. Trail navigation with obstacle avoidance using convolutional neural networks. 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea, 2019 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Nonlinear disturbance observer based path following for a small fixed wing UAV. 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea",
+      "year": 2019,
+      "citation_raw": "[C37] D. Shin, J. Oh, and H. Oh. Nonlinear disturbance observer based path following for a small fixed wing UAV. 16th International Conference on Ubiquitous Robots (UR), Jeju, Korea, 2019 (poster-only option).",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Adaptive integral super-twisting sliding mode control for uncertain stochastic systems",
+      "year": 2019,
+      "citation_raw": "[C36] N.P. Nguyen, H.J. Yang, H. Oh and J. Moon. Adaptive integral super-twisting sliding mode control for uncertain stochastic systems, European Control Conference (ECC), Italy, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Performance evaluation of learning-based channel prediction for communication relay UAVs in urban environments",
+      "year": 2019,
+      "citation_raw": "[C35] P. Ladosz, J. Kim, H. Oh, and W.C. Chen. Performance evaluation of learning-based channel prediction for communication relay UAVs in urban environments, 21st IFAC Symposium on Automatic Control in Aerospace (ACA), UK, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "A hybrid approach of learning and model-based channel prediction for communication relay UAVs in dynamic urban environments",
+      "year": 2019,
+      "citation_raw": "[C34] P. Ladosz, H. Oh, G. Zheng, and W.H. Chen. A hybrid approach of learning and model-based channel prediction for communication relay UAVs in dynamic urban environments. International Conference on Robotics and Automation (ICRA) (with IEEE RA-L option), Canada, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Information-driven search and source reconstruction using cooperative UAVs, AIAA SciTech, Intelligent Systems, Invited Session: Information-Driven Decision and Control, USA",
+      "year": 2019,
+      "citation_raw": "[C33] M. Park and H. Oh. Information-driven search and source reconstruction using cooperative UAVs. AIAA SciTech, Intelligent Systems, Invited Session: Information-Driven Decision and Control, USA, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Improvement of flocking behavior using the inactivity of multiple agents, AIAA SciTech, Intelligent Systems, Invited Session: Multi-agent Coordination & Control, USA",
+      "year": 2019,
+      "citation_raw": "[C32] Y. Song, J. Choi, H. Oh, M. Lee, S. Lim, and J. Lee. Improvement of flocking behavior using the inactivity of multiple agents. AIAA SciTech, Intelligent Systems, Invited Session: Multi-agent Coordination & Control, USA, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Obstacle avoidance for UAVs via imitation learning from human data with 3D-convolutional neural networks",
+      "year": 2018,
+      "citation_raw": "[C31] B. Park and H. Oh. Obstacle avoidance for UAVs via imitation learning from human data with 3D-convolutional neural networks. 10th International Micro Air Vehicle Competition and Conference (IMAV), Australia, 2018.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Synchronization of perturbed Genesio-Tesi chaotic systems via a new finite-time control",
+      "year": 2018,
+      "citation_raw": "[C30] X.T. Tran and H. Oh. Synchronization of perturbed Genesio-Tesi chaotic systems via a new finite-time control. 7th International Conference on Systems and Control (ICSC’18), Spain, 2018.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Maritime application of ducted-fan flight array system: decoy for anti-ship missile",
+      "year": 2017,
+      "citation_raw": "[C29] J. Jung, B. Yu, T. Kim, S. Kim, J. Suk, and H. Oh. Maritime application of ducted-fan flight array system: decoy for anti-ship missile, International Workshop on Research, Education and Development on Unmanned Aerial Systems (RED-UAS), Sweden, 2017.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Prediction of air-to-ground communication strength for relay UAV trajectory planner in urban environments",
+      "year": 2017,
+      "citation_raw": "[C28] P. Ladosz, H. Oh, and W.H. Chen. Prediction of air-to-ground communication strength for relay UAV trajectory planner in urban environments. International Conference on Intelligent Robots and Systems (IROS), Canada, 2017.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Adaptive Bayesian sensor motion planning for hazardous source term reconstruction, IFAC World Congress, France",
+      "year": 2017,
+      "citation_raw": "[C27] M. Hutchinson, H. Oh, and W.H. Chen. Adaptive Bayesian sensor motion planning for hazardous source term reconstruction. IFAC World Congress, France, 2017.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "New environmental dependent modeling with Gaussian particle filtering-based implementation for ground vehicle tracking, Sensor Signal Processing for Defence, Edinburgh, UK",
+      "year": 2016,
+      "citation_raw": "[C26] M. Yu, Y. Xue, R. Ding, H. Oh, W.H. Chen, and J. Chambers. New environmental dependent modeling with Gaussian particle filtering-based implementation for ground vehicle tracking. Sensor Signal Processing for Defence, Edinburgh, UK, 2016.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Communication-aware convoy following guidance for UAVs in a complex urban environment",
+      "year": 2016,
+      "citation_raw": "[C25] H. Oh, H. Shin, S. Kim, P. Ladosz, and W.H. Chen. Communication-aware convoy following guidance for UAVs in a complex urban environment. The 24th Mediterranean Conference on Control and Automation, Athens, Greece, 2016.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Optimal positioning of communication relay unmanned aerial vehicles in urban environments",
+      "year": 2016,
+      "citation_raw": "[C24] P. Ladosz, H. Oh, and W.H. Chen. Optimal positioning of communication relay unmanned aerial vehicles in urban environments. International Conference on Unmanned Aircraft System (ICUAS’16), Arlington, USA, 2016.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Coordinated standoff tracking of in- and out-of-surveillance targets using constrained particle filter for UAVs",
+      "year": 2015,
+      "citation_raw": "[C23] H. Oh, C. Liu, S. Kim, H.S. Shin, and W.H. Chen. Coordinated standoff tracking of in- and out-of-surveillance targets using constrained particle filter for UAVs. IEEE Intelligent Vehicles Symposium, Seoul, Korea, 2015.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Adaptive swarm robot region coverage using gene regulatory networks",
+      "year": 2014,
+      "citation_raw": "[C22] H. Oh and Y. Jin. Adaptive swarm robot region coverage using gene regulatory networks. 15th Towards Autonomous Robotic Systems (TAROS), Birmingham, UK, 2014.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Morphogenetic self-organization of collective movement without directional Sensing",
+      "year": 2014,
+      "citation_raw": "[C21] A.R. Shirazi, H. Oh, and Y. Jin. Morphogenetic self-organization of collective movement without directional Sensing. 15th Towards Autonomous Robotic Systems (TAROS), Birmingham, UK, 2014.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Evolving hierarchical gene regulatory networks for morphogenetic pattern formation of swarm robotics",
+      "year": 2014,
+      "citation_raw": "[C20] H. Oh and Y. Jin. Evolving hierarchical gene regulatory networks for morphogenetic pattern formation of swarm robotics. IEEE World Congress on Computational Intelligence, Beijing, China, 2014.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Development of collision avoidance algorithms for the C-Enduro USV. 19th IFAC World Congress, Cape Town, South Africa",
+      "year": 2014,
+      "citation_raw": "[C19] A. Savvaris, H. Niu, H. Oh, and A. Tsourdos. Development of collision avoidance algorithms for the C-Enduro USV. 19th IFAC World Congress, Cape Town, South Africa, 2014.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Morphogenetic multi-robot pattern formation using hierarchical gene regulatory networks",
+      "year": 2013,
+      "citation_raw": "[C18] Y. Jin and H. Oh. Morphogenetic multi-robot pattern formation using hierarchical gene regulatory networks. Workshop on the Fundamentals of Collective Adaptive Systems at European Conference on Artificial Life (ECAL), Sicily, Italy, 2013.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Coordinated trajectory planning for efficient communication relay using multiple UAVs",
+      "year": 2013,
+      "citation_raw": "[C17] H. Oh, S. Kim, J. Suk, and A. Tsourdos. Coordinated trajectory planning for efficient communication relay using multiple UAVs. In 19th IFAC Symposium on Automatic Control in Aerospace (ACA), Wurzburg, Germany, 2013.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Coordinated standoff tracking of groups of moving targets using multiple UAVs",
+      "year": 2013,
+      "citation_raw": "[C16] H. Oh, S. Kim, H.S. Shin, A. Tsourdos, and B.A. White. Coordinated standoff tracking of groups of moving targets using multiple UAVs. In Mediterranean Conference on Control and Automation, Crete , Greece, 2013.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Fuzzy expert rule-based airborne monitoring of ground vehicle behaviour",
+      "year": 2012,
+      "citation_raw": "[C15] H. Oh, S. Kim, H.S. Shin, A. Tsourdos, and B.A. White. Fuzzy expert rule-based airborne monitoring of ground vehicle behaviour. In The UKACC International Conference on Control, Cardiff, UK, Sep 2012.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Decentralised road-map assisted ground target tracking using a team of UAVs",
+      "year": 2012,
+      "citation_raw": "[C14] H. Oh, S. Kim, A. Tsourdos, and B.A. White. Decentralised road-map assisted ground target tracking using a team of UAVs. In 9th IET Data Fusion & Target Tracking, London, UK, May 2012.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Rendezvous and standoff target tracking guidance using differential geometry",
+      "year": 2012,
+      "citation_raw": "[C13] H. Oh, S. Kim, H.S. Shin, B.A. White, A. Tsourdos, and C.A. Rabbath. Rendezvous and standoff target tracking guidance using differential geometry. In International Conference on Unmanned Aircraft Systems (ICUAS’12), Philadelphia, USA, June 2012.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Road-map assisted standoff tracking of moving ground vehicle using nonlinear model predictive control",
+      "year": 2012,
+      "citation_raw": "[C12] H. Oh, S. Kim, A. Tsourdos, and B.A. White. Road-map assisted standoff tracking of moving ground vehicle using nonlinear model predictive control. In American Control Conference, Montreal, Canada, June 2012.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Rendezvous and standoff target tracking guidance using differential geometry",
+      "year": 2011,
+      "citation_raw": "[C13] H. Oh, S. Kim, H.S. Shin, B.A. White, A. Tsourdos, and C.A. Rabbath. Rendezvous and standoff target tracking guidance using differential geometry. In International Conference on Unmanned Aircraft Systems (ICUAS’12), Philadelphia, USA, June 2012. [C12] H. Oh, S. Kim, A. Tsourdos, and B.A. White. Road-map assisted standoff tracking of moving ground vehicle using nonlinear model predictive control. In American Control Conference, Montreal, Canada, June 2012. [C11] H. Oh, S. Kim, A. Tsourdos, and B.A. White. Coordinated standoff target tracking of unmanned aerial vehicles using adaptive sliding mode control. In Research, Development and Education on Unmanned Aeral Systems (RED-UAS 2011), Seville, Spain, November 2011.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Cooperative road-network search planning of multiple UAVs using Dubins paths, In AIAA Guidance",
+      "year": 2011,
+      "citation_raw": "[C10] H. Oh, S. Kim, A. Tsourdos, and B.A. White. Cooperative road-network search planning of multiple UAVs using Dubins paths. In AIAA Guidance, Navigation and Control Conference, Portland, USA, August 2011.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Educational hands-on testbed using Lego robot for learning guidance, navigation, and control",
+      "year": 2011,
+      "citation_raw": "[C9] S. Kim, H. Oh, A. Kolaman, A. Tsourdos, B.A. White, and H. Guterman. Educational hands-on testbed using Lego robot for learning guidance, navigation, and control. In 18th IFAC World Congress, Milano, Italy, August 2011.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Nonlinear model predictive coordinated standoff tracking of moving ground vehicle, In AIAA Guidance",
+      "year": 2011,
+      "citation_raw": "[C8] S. Kim, H. Oh, and A. Tsourdos. Nonlinear model predictive coordinated standoff tracking of moving ground vehicle. In AIAA Guidance, Navigation and Control Conference, Portland, USA, August 2011.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Coordinated road network search for multiple UAVs using Dubins path",
+      "year": 2011,
+      "citation_raw": "[C7] H. Oh, H.S. Shin, A. Tsourdos, B.A. White, and P. Silson. Coordinated road network search for multiple UAVs using Dubins path. In 1st CEAS Specialist Conference on Guidance, Navigation and Control, Munich, Germany, April 2011.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Multiple UAVs tracking algorithm with a multi-camera system",
+      "year": 2010,
+      "citation_raw": "[C6] D.Y. Won, H. Oh, S.S. Huh, D.H. Shim, and M.J. Tahk. Multiple UAVs tracking algorithm with a multi-camera system. In International Conference on Control, Automation and Systems, KINTEX, Korea, October 2010.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Indoor UAV control using multi-camera visual feedback",
+      "year": 2010,
+      "citation_raw": "[C5] H. Oh, D.Y. Won, S.S. Huh, D.H. Shim, and M.J. Tahk. Indoor UAV control using multi-camera visual feedback. In International Conference & Exhibition on Unmanned Aerial Vehicles, Dubai, UAE, June 2010.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Dynamic modeling and control system design for tri-rotor UAV",
+      "year": 2010,
+      "citation_raw": "[C4] D.Y. Yoo, H. Oh, D.Y. Won, and M.J. Tahk. Dynamic modeling and control system design for tri-rotor UAV. In 3rd International Symposium on Systems and Control in Aeronautics and Astronautics, Harbin, China, June 2010.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "Indoor UAV pose estimation from multi-camera system using EKF",
+      "year": 2009,
+      "citation_raw": "[C3] H. Oh, D.Y. Won, S.S. Huh, and M.J. Tahk. Indoor UAV pose estimation from multi-camera system using EKF. In International Conference on Unmanned Aerial Systems (ICUAS’09), Reno, USA, June 2009.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "UAV conflict detection and resolution using a probabilistic approach",
+      "year": 2008,
+      "citation_raw": "[C2] H. Oh, J.W. Park, and M.J. Tahk. UAV conflict detection and resolution using a probabilistic approach. In 2008 KSAS-JSASS Joint Symposium on Aerospace Engineering, Jeju, Korea, November 2008.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "UAV conflict avoidance based on a geometric approach",
+      "year": 2008,
+      "citation_raw": "[C1] J.W. Park, H. Oh, and M.J. Tahk. UAV conflict avoidance based on a geometric approach. In 2008 SICE Annual Conference, Tokyo, Japan, August 2008.",
+      "source_url": "https://fair.kaist.ac.kr/international-conferences/"
+    },
+    {
+      "title": "HG-LLIO: Hierarchical ground-reaction-force-aided learning leg-inertial odometry",
+      "year": 2026,
+      "citation_raw": "[J10] S. Lee, T. Park, C. Kim and H. Oh. HG-LLIO: Hierarchical ground-reaction-force-aided learning leg-inertial odometry. Journal of Institute of Control, Robotics and Systems, in press, 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-journals/"
+    },
+    {
+      "title": "EV-infotaxis: extended vision-language model-based infotaxis for efficient gas source term estimation and search",
+      "year": 2025,
+      "citation_raw": "[J9] H. Park, H. Jang, S. Kim, J. Kim and H. Oh. EV-infotaxis: extended vision-language model-based infotaxis for efficient gas source term estimation and search. Journal of Institute of Control, Robotics and Systems, 31(6):643-653, 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-journals/"
+    },
+    {
+      "title": "Swarm mode design and hybrid flocking control algorithm for swarm operation of small fixed-wing UAVs",
+      "year": 2024,
+      "citation_raw": "[J8] Y. Song, H. S. Park, Y. You, M. Lee and H. Oh. Swarm mode design and hybrid flocking control algorithm for swarm operation of small fixed-wing UAVs. Journal of Institute of Control, Robotics and Systems, 30(11):1277-1286, 2024.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-journals/"
+    },
+    {
+      "title": "Collective navigation through a narrow gap for a swarm of UAVs using curriculum-based deep reinforcement learning",
+      "year": 2024,
+      "citation_raw": "[J7] M. Y. Choi, W. Shin, M. Kim, H. S. Park, Y. You, M. Lee and H. Oh. Collective navigation through a narrow gap for a swarm of UAVs using curriculum-based deep reinforcement learning. The Journal of Korea Robotics Society, Feb 2024.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-journals/"
+    },
+    {
+      "title": "Detection of fiducial marker with neural network compression",
+      "year": 2023,
+      "citation_raw": "[J6] T. Park, H. Shin and H. Oh. Detection of fiducial marker with neural network compression. Journal of Institute of Control, Robotics and Systems, 29(8):628-635, 2023.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-journals/"
+    },
+    {
+      "title": "Neural network model compression algorithms for image classification in embedded systems",
+      "year": 2022,
+      "citation_raw": "[J5] H. Shin and H. Oh. Neural network model compression algorithms for image classification in embedded systems. The Journal of Korea Robotics Society, Vol. 17, No. 2, pp. 133-141, 2022.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-journals/"
+    },
+    {
+      "title": "Collision avoidance for a small drone with a monocular camera using deep reinforcement learning in an indoor environment",
+      "year": 2020,
+      "citation_raw": "[J4] M. Kim, J. Kim, M. Jung and H. Oh. Collision avoidance for a small drone with a monocular camera using deep reinforcement learning in an indoor environment. Journal of Institute of Control, Robotics and Systems, 26(6):399-411, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-journals/"
+    },
+    {
+      "title": "Optimal positioning of small UAVs for communication relay",
+      "year": 2014,
+      "citation_raw": "[J3] J. Jeong, S. Kim, H. Oh and J. Suk. Optimal positioning of small UAVs for communication relay. Journal of Korean Society for Aeronautical and Space Sciences, 42(6):461-467, 2014.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-journals/"
+    },
+    {
+      "title": "Reconfiguration control using LMI-based constrained MPC",
+      "year": 2010,
+      "citation_raw": "[J2] H. Oh, T.H. Kim, B.M. Min, M.J. Tahk, J.H. Lee, and E.T. Kim. Reconfiguration control using LMI-based constrained MPC. Journal of Korean Society for Aeronautical and Space Sciences, 38(1):35-41, 2010.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-journals/"
+    },
+    {
+      "title": "Vision-based small UAV indoor flight test environment using multi-camera",
+      "year": 2009,
+      "citation_raw": "[J1] D.Y. Won, H. Oh, S.S. Huh, B.G. Park, J.S. Ahn, D.H. Shim, and M.J. Tahk. Vision-based small UAV indoor flight test environment using multi-camera. Journal of Korean Society for Aeronautical and Space Sciences, 37(12):1209-1216, 2009.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-journals/"
+    },
+    {
+      "title": "Temporal attention-based reinforcement learning for gas source localization using a mobile robot",
+      "year": 2026,
+      "citation_raw": "[C97] J. Lee, H. Jang and H. Oh. Temporal attention-based reinforcement learning for gas source localization using a mobile robot. In Autumn Conference of the Society for Aerospace System Engineering (SASE), Jeju, Sep 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "A modular conditional probabilistic deep-learning framework for indoor gas source localization",
+      "year": 2026,
+      "citation_raw": "[C96] S. Kim, H. Kim, J. Lee and H. Oh. A modular conditional probabilistic deep-learning framework for indoor gas source localization. The 41st ICROS Annual Conference (ICROS 2026), Daegu, July 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Sampling-based control barrier function synthesis via approximation of control invariant sets",
+      "year": 2026,
+      "citation_raw": "[C95] Y. Song, H. Jang and H. Oh. Sampling-based control barrier function synthesis via approximation of control invariant sets. The 41st ICROS Annual Conference (ICROS 2026), Daegu, July 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "A study on NPU-embedded neural network acceleration and reinforcement learning-based anti-UAV techniques",
+      "year": 2026,
+      "citation_raw": "[C94] H. Shin, W. Shin and H. Oh. A study on NPU-embedded neural network acceleration and reinforcement learning-based anti-UAV techniques. KIMST Conference, Jeju, June 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Hierarchical reinforcement learning for UCAVs in beyond-visual-range air combat",
+      "year": 2026,
+      "citation_raw": "[C93] M.Y. Choi, H. Cho, G. Bae, J. Hur and H. Oh. Hierarchical reinforcement learning for UCAVs in beyond-visual-range air combat. In Spring Conference of Korean Society for Aeronautical and Space Sciences, Jeju, April 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Performance analysis of visual-inertial odometry for flapping-wing aerial robots",
+      "year": 2026,
+      "citation_raw": "[C92] C. Kim and H. Oh. Performance analysis of visual-inertial odometry for flapping-wing aerial robots. In Spring Conference of Korean Society for Aeronautical and Space Sciences, Jeju, April 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Dynamics-informed pose estimation for accuracy enhancement in quadruped robots",
+      "year": 2026,
+      "citation_raw": "[C91] S. Lee, T. Park and H. Oh. Dynamics-informed pose estimation for accuracy enhancement in quadruped robots. The 21th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Design of an operator-assisted UAV system for yield estimation in confined indoor strawberry farms",
+      "year": 2026,
+      "citation_raw": "[C90] T. Park, S. Lee, J. Shim, W. Yun and H. Oh. Design of an operator-assisted UAV system for yield estimation in confined indoor strawberry farms. The 21th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Communication-efficient multi-agent task allocation via preference-based grouping",
+      "year": 2026,
+      "citation_raw": "[C89] M. Gu and H. Oh. Communication-efficient multi-agent task allocation via preference-based grouping. The 21th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Deep learning-based indoor hazardous gas source localization and pollution monitoring using mobile robot",
+      "year": 2026,
+      "citation_raw": "[C88] S. Kim and H. Oh. Deep learning-based indoor hazardous gas source localization and pollution monitoring using mobile robot. The 21th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Real-time communication relay planning with a low-complexity network quality prediction model in dynamic indoor missions",
+      "year": 2026,
+      "citation_raw": "[C87] J. Seo, J. Kim, S. Kim, C. Kim, W. Shin and H. Oh. Real-time communication relay planning with a low-complexity network quality prediction model in dynamic indoor missions. The 21th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2026.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Development of a JSBSim-based simulation environment and autonomous mission algorithms for manned-unmanned teaming",
+      "year": 2025,
+      "citation_raw": "[C86] H. Cho, G. Bae, M.Y. Choi, J. Hur and H. Oh. Development of a JSBSim-based simulation environment and autonomous mission algorithms for manned-unmanned teaming. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Gangwon, Nov 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Autonomous pollination robot system for indoor vertical strawberry farming: development and experimental evaluation",
+      "year": 2025,
+      "citation_raw": "[C85] C. Lee, T. Park, G. Lee, S. Won, J. Shim, D. Kim, H. Oh and W. Yun. Autonomous pollination robot system for indoor vertical strawberry farming: development and experimental evaluation. The 40th ICROS Annual Conference (ICROS 2025), Jeonju, June 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Improving quadruped robot attitude estimation accuracy using geodesic loss",
+      "year": 2025,
+      "citation_raw": "[C84] S. Lee, T. Park and H. Oh. Improving quadruped robot attitude estimation accuracy using geodesic loss. The 40th ICROS Annual Conference (ICROS 2025), Jeonju, June 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Spatial and object semantics with large language models for multi robot task allocation",
+      "year": 2025,
+      "citation_raw": "[C83] S. Park, M. Jung and H. Oh. Spatial and object semantics with large language models for multi robot task allocation. The 40th ICROS Annual Conference (ICROS 2025), Jeonju, June 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Efficient scan matching leveraging doppler velocity",
+      "year": 2025,
+      "citation_raw": "[C82] J. Kim, J. Lee, G. Bae, C. Kim, W. Shin and H. Oh. Efficient scan matching leveraging doppler velocity. The 40th ICROS Annual Conference (ICROS 2025), Jeonju, June 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Optimizing indoor farm monitoring efficiency using UAV: yield estimation in a GNSS-denied cherry tomato greenhouse",
+      "year": 2025,
+      "citation_raw": "[C81] T. Park, J. Lee, H. Oh, W. Yoon and K. Lee. Optimizing indoor farm monitoring efficiency using UAV: yield estimation in a GNSS-denied cherry tomato greenhouse. The 40th ICROS Annual Conference (ICROS 2025), Jeonju, June 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Robust and real-time occupancy grid map prediction via aleatoric uncertainty and neural network acceleration on embedded systems",
+      "year": 2025,
+      "citation_raw": "[C80] H. Shin, S. Kim, G. Yim and H. Oh. Robust and real-time occupancy grid map prediction via aleatoric uncertainty and neural network acceleration on embedded systems. The 40th ICROS Annual Conference (ICROS 2025), Jeonju, June 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Vision-based drone navigation using inverse reinforcement learning",
+      "year": 2025,
+      "citation_raw": "[C79] M. Kim, G. Bae, J. Lee, W. Shin, C. Kim, M.Y. Choi, H. Shin and H. Oh. Vision-based drone navigation using inverse reinforcement learning. The 40th ICROS Annual Conference (ICROS 2025), Jeonju, June 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Drone-based cherry tomato yield estimation in greenhouse farms",
+      "year": 2025,
+      "citation_raw": "[C78] J. Lee, T. Park, H. Ko, J. Kim, G. Bae, C. Bae and H. Oh. Drone-based cherry tomato yield estimation in greenhouse farms. The 20th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Vision-based autonomous landing on a fast-moving platform using deep reinforcement learning",
+      "year": 2025,
+      "citation_raw": "[C77] W. Shin, M. Kim, T. Park and H. Oh. Vision-based autonomous landing on a fast-moving platform using deep reinforcement learning. The 20th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Autonomous hazardous gas source search using deep reinforcement learning",
+      "year": 2025,
+      "citation_raw": "[C76] J. Lee, H. Jang, H. Park and H. Oh. Autonomous hazardous gas source search using deep reinforcement learning. The 20th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Realtime 3D multi-object tracking for cherry tomato counting and size estimation",
+      "year": 2025,
+      "citation_raw": "[C75] T. Park, H. Oh and Y. Yu. Realtime 3D multi-object tracking for cherry tomato counting and size estimation. The 20th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Autonomous gas source localization algorithm in indoor environments using mobile robots",
+      "year": 2025,
+      "citation_raw": "[C74] S. Kim, H. Jang, C. Kim and H. Oh. Autonomous gas source localization algorithm in indoor environments using mobile robots. The 20th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Improving efficiency of swarm flight by utilizing inactivity in nature",
+      "year": 2025,
+      "citation_raw": "[C73] M. Jung, J. Kim, H. Shin and H. Oh. Improving efficiency of swarm flight by utilizing inactivity in nature. The 20th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2025.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Real-time fruit tracking framework for autonomous drone-based crop monitoring systems",
+      "year": 2024,
+      "citation_raw": "[C72] G. Bae, J. Seo, T. Park, W. Shin, J. Lee, H. Ko, M. Jung, H. Jang, M. Gu and H. Oh. Real-time fruit tracking framework for autonomous drone-based crop monitoring systems. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Gangwon, Nov 2024.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Communication relay strategies for fixed-wing UAV Swarms",
+      "year": 2024,
+      "citation_raw": "[C71] M. Jung, J. Seo, Y. Song and H. Oh. Communication relay strategies for fixed-wing UAV Swarms. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Gangwon, Nov 2024.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "EKF-based radar-inertial odometry with temporal calibration",
+      "year": 2024,
+      "citation_raw": "[C70] C. Kim, J. Kim, J. Pyo, M. Kim and H. Oh. EKF-based radar-inertial odometry with temporal calibration. The 39th ICROS Annual Conference (ICROS 2024), Daejeon, July 2024.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "End-to-end autonomous racing with reinforcement learning using 2D lidar",
+      "year": 2024,
+      "citation_raw": "[C69] M. Mammadov and H. Oh. End-to-end autonomous racing with reinforcement learning using 2D lidar. The 19th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2024.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Safe survivor detection algorithm using multiple unmanned aerial vehicles",
+      "year": 2024,
+      "citation_raw": "[C68] H. Kim, S. Bae, H. Shin, T. Park, G. Bae and H. Oh. Safe survivor detection algorithm using multiple unmanned aerial vehicles. The 19th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2024.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "3D reconstruction strategy of UAV for enhancing quality of reconstructed surface area",
+      "year": 2024,
+      "citation_raw": "[C67] G. Yim, J. Lee, S. Bae, H. Ko and H. Oh. 3D reconstruction strategy of UAV for enhancing quality of reconstructed surface area. The 19th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2024.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Optimal flocking control algorithm with guaranteed feasibility of control barrier function",
+      "year": 2023,
+      "citation_raw": "[C66] Y. Song and H. Oh. Optimal flocking control algorithm with guaranteed feasibility of control barrier function. The 38th ICROS Annual Conference (ICROS 2023), Samcheok, June 2023.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Information-driven search strategy for multiple hazardous gas sources in turbulent environments",
+      "year": 2023,
+      "citation_raw": "[C65] H. Jang, J. Lee, and H. Oh. Information-driven search strategy for multiple hazardous gas sources in turbulent environments. The 38th ICROS Annual Conference (ICROS 2023), Samcheok, June 2023.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Kalman filter-based distributed Gaussian process approach for estimating unknown environments With Robotic Sensor Networks",
+      "year": 2023,
+      "citation_raw": "[C64] J. Seo, G. Bae, and H. Oh. Kalman filter-based distributed Gaussian process approach for estimating unknown environments With Robotic Sensor Networks. The 38th ICROS Annual Conference (ICROS 2023), Samcheok, June 2023.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "A research on accelerated deep learning-based fiducial marker detection",
+      "year": 2023,
+      "citation_raw": "[C63] T. Park and H. Oh. A research on accelerated deep learning-based fiducial marker detection. The 18th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2023.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Monocular depth estimation with neural network compression for collision avoidance with deep reinforcement learning",
+      "year": 2023,
+      "citation_raw": "[C62] H. Shin and H. Oh. Monocular depth estimation with neural network compression for collision avoidance with deep reinforcement learning. The 18th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2023.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Accelerated RGB/IR-based object detection and formation flight for survivor detection",
+      "year": 2023,
+      "citation_raw": "[C61] S. Bae, H. Shin, H. Kim, M. Park, M. Choi, and H. Oh. Accelerated RGB/IR-based object detection and formation flight for survivor detection. The 18th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2023.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "A study on the autonomous driving system of small unmanned ground robot in disaster environments",
+      "year": 2023,
+      "citation_raw": "[C60] S. Kim, C. Kim, and H. Oh. A study on the autonomous driving system of small unmanned ground robot in disaster environments. The 18th Korea Robotics Society Annual Conference, Pyeongchang, Feb 2023.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Vision-based highspeed collision-free trajectory generation using sample efficient inverse reinforcement learning",
+      "year": 2022,
+      "citation_raw": "[C59] M. Kim, G. Bae, H. Shin, and H. Oh. Vision-based highspeed collision-free trajectory generation using sample efficient inverse reinforcement learning. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2022.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Research trends on fast information processing techniques for intelligent flight control",
+      "year": 2022,
+      "citation_raw": "[C58] H. Shin and H. Oh. Research trends on fast information processing techniques for intelligent flight control. KIMST Conference, Jeju, June 2022.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Development of autonomous flight framework for exploration and object position estimation in an unknown indoor environment",
+      "year": 2022,
+      "citation_raw": "[C57] T. Park, S. Kim, C. Kim, G. Bae, H. Shin, P. Ladosz, and H. Oh. Development of autonomous flight framework for exploration and object position estimation in an unknown indoor environment. The 37th ICROS Annual Conference, Geoje, June 2022.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "A study on accuracy and computation performance of compressed deep neural network deployed on FPGA",
+      "year": 2022,
+      "citation_raw": "[C56] T. Park, H. Shin, and H. Oh. A study on accuracy and computation performance of compressed deep neural network deployed on FPGA. The 37th ICROS Annual Conference, Geoje, June 2022.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Multi-agent deep reinforcement learning for multi-regional coverage path planning",
+      "year": 2021,
+      "citation_raw": "[C55] G. Kim and H. Oh. Multi-agent deep reinforcement learning for multi-regional coverage path planning. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2021.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Coverage path planning using multiple fixed-wing UAVs and replanning through task allocation",
+      "year": 2021,
+      "citation_raw": "[C54] Y. Song, M. Gu, and H. Oh. Coverage path planning using multiple fixed-wing UAVs and replanning through task allocation. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2021.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Experimental verification for cognitive search strategy to estimate hazardous substance source using autonomous unmanned mobile vehicle",
+      "year": 2021,
+      "citation_raw": "[C53] M. Park, J. Seo, and H. Oh. Experimental verification for cognitive search strategy to estimate hazardous substance source using autonomous unmanned mobile vehicle. In Spring Conference of the Korea Society of Mechanical Engineers (KSME), Ulsan, June 2021.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Autonomous ship deck landing using feed-forward image-based visual servoing",
+      "year": 2021,
+      "citation_raw": "[C52] G. Cho, J. Choi, G. Bae, and H. Oh. Autonomous ship deck landing using feed-forward image-based visual servoing. In Spring Conference of the Korea Society of Mechanical Engineers (KSME), Ulsan, June 2021.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Communication-aware autonomous search for source term estimation using multiple mobile sensors",
+      "year": 2020,
+      "citation_raw": "[C51] M. Park and H. Oh. Communication-aware autonomous search for source term estimation using multiple mobile sensors. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2020.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Adversarial swarm defence using a swarm of fixed-wing UAVs",
+      "year": 2020,
+      "citation_raw": "[C50] J. Choi and H. Oh. Adversarial swarm defence using a swarm of fixed-wing UAVs. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2020.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Autonomous ship deck landing of UAV using IBVS with disturbance observer",
+      "year": 2020,
+      "citation_raw": "[C49] G. Cho, J. Choi, G. Bae, S. Lee, and H. Oh. Autonomous ship deck landing of UAV using IBVS with disturbance observer. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2020.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Learning-based algorithm framework for drone trail following with obstacle avoidance",
+      "year": 2020,
+      "citation_raw": "[C48] M. Jung, J. Oh, M. Kim, and H. Oh. Learning-based algorithm framework for drone trail following with obstacle avoidance. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2020.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Vision-based time-to-collision prediction for small drones by domain adaptation of simulated images",
+      "year": 2020,
+      "citation_raw": "[C47] M. Kim and H. Oh. Vision-based time-to-collision prediction for small drones by domain adaptation of simulated images. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2020.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Information-theoretic multi-target tracking guidance for fixed-wing UAVs in urban environments",
+      "year": 2020,
+      "citation_raw": "[C46] J. Oh and H. Oh. Information-theoretic multi-target tracking guidance for fixed-wing UAVs in urban environments. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2020.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Gaussian mixture model-based information theoretic hazardous source search for UAVs",
+      "year": 2020,
+      "citation_raw": "[C45] M. Park, S. An, J. Seo, and H. Oh. Gaussian mixture model-based information theoretic hazardous source search for UAVs. In Autumn Conference of Korea Institute of Military Science and Technology, Daejeon, Nov 2020.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Flocking control using distributed state estimation for multi-agent system",
+      "year": 2020,
+      "citation_raw": "[C44] Y. Song and H. Oh. Flocking control using distributed state estimation for multi-agent system. In Spring Conference of Korean Society for Aeronautical and Space Sciences, July 2020.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Experimental verification for information-driven hazardous gas source estimation using a mobile vehicle",
+      "year": 2020,
+      "citation_raw": "[C43] M. Park and H. Oh. Experimental verification for information-driven hazardous gas source estimation using a mobile vehicle. The 15th Korea Robotics Society Annual Conference, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Real-time human detection on the construction site: deep learning framework on 3D point cloud data for human detection",
+      "year": 2020,
+      "citation_raw": "[C42] M. Kim, M. Jung, and H. Oh. Real-time human detection on the construction site: deep learning framework on 3D point cloud data for human detection. The 15th Korea Robotics Society Annual Conference, 2020.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Drone trail following with obstacle avoidance using CNNs",
+      "year": 2019,
+      "citation_raw": "[C41] S. Back, G. Cho, and H. Oh. Drone trail following with obstacle avoidance using CNNs, In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Collision avoidance of UAV using dueling double deep Q network with estimated depth through CNN",
+      "year": 2019,
+      "citation_raw": "[C40] M. Kim and H. Oh. Collision avoidance of UAV using dueling double deep Q network with estimated depth through CNN, In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Receding horizon path planning for source term estimation using a mobile sensor in urban environments",
+      "year": 2019,
+      "citation_raw": "[C39] M. Park and H. Oh. Receding horizon path planning for source term estimation using a mobile sensor in urban environments, In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "A study on decentralized control algorithm for swarm flight of small UAS(III)",
+      "year": 2019,
+      "citation_raw": "[C38] Y. Song, S. Lim, H. Oh, S. Oh, and H. Lee. A study on decentralized control algorithm for swarm flight of small UAS(III), In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Autonomous ship deck landing of UAV using image-based visual servoing",
+      "year": 2019,
+      "citation_raw": "[C37] G. Cho, G. Bae, J. Choi, and H. Oh. Autonomous ship deck landing of UAV using image-based visual servoing, In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Multi-subgroup formation control and network connectivity preservation with undirected network topology",
+      "year": 2019,
+      "citation_raw": "[C36] J. Choi, Y. Song, S. Lim, and H. Oh. Multi-subgroup formation control and network connectivity preservation with undirected network topology, In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Observer-based super-twisting sliding mode control with fuzzy variable gains and its application to overactuated quadrotors",
+      "year": 2019,
+      "citation_raw": "[C35] N.P. Nguyen, H. Oh, and J. Moon. Observer-based super-twisting sliding mode control with fuzzy variable gains and its application to overactuated quadrotors, The 34th ICROS Annual Conference (ICROS 2019), Gyeongju, May 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Adaptive integral super-twisting sliding mode control for uncertain stochastic systems",
+      "year": 2019,
+      "citation_raw": "[C34] N.P. Nguyen, H. Oh, and J. Moon. Adaptive integral super-twisting sliding mode control for uncertain stochastic systems, The 34th ICROS Annual Conference (ICROS 2019), Gyeongju, May 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "A study on decentralized control algorithm for swarm flight of small UAS(II)",
+      "year": 2019,
+      "citation_raw": "[C33] S. Lim, J. Jung, S. Oh, Y. Song, and H. Oh. A study on decentralized control algorithm for swarm flight of small UAS(II). In Spring Conference of Korean Society for Aeronautical and Space Sciences, Buan, April 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Multiple V-shape formation control with undirected network topology",
+      "year": 2019,
+      "citation_raw": "[C32] J. Choi, Y. Song, H. Oh, and S. Lim. Multiple V-shape formation control with undirected network topology. In Spring Conference of Korean Society for Aeronautical and Space Sciences, Buan, April 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Improved flocking efficiency through inactivity property",
+      "year": 2019,
+      "citation_raw": "[C31] Y. Song, J. Choi, H. Oh, and S. Lim. Improved flocking efficiency through inactivity property. In Spring Conference of Korean Society for Aeronautical and Space Sciences, Buan, 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Multi-group formation control using multi-consensus",
+      "year": 2019,
+      "citation_raw": "[C30] J. Choi, Y. Song, and H. Oh. Multi-group formation control using multi-consensus. The 14th Korea Robotics Society Annual Conference, Pyeongchang, Jan 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Sampling-based efficient path planning using visibility and RRT*",
+      "year": 2019,
+      "citation_raw": "[C29] S. An and H. Oh. Sampling-based efficient path planning using visibility and RRT*. The 14th Korea Robotics Society Annual Conference, Pyeongchang, Jan 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Trail detection and tracking of unmanned vehicle based on CNN",
+      "year": 2019,
+      "citation_raw": "[C28] S. Back and H. Oh. Trail detection and tracking of unmanned vehicle based on CNN. The 14th Korea Robotics Society Annual Conference, Pyeongchang, Jan 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Nonlinear disturbance observer-based standoff tracking of a moving ground vehicle using multiple small fixed-wing UAVs",
+      "year": 2019,
+      "citation_raw": "[C27] D. Shin, M. Park, and H. Oh. Nonlinear disturbance observer-based standoff tracking of a moving ground vehicle using multiple small fixed-wing UAVs. The 14th Korea Robotics Society Annual Conference, Pyeongchang, Jan 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Information-based hazardous gas source search using cooperative multiple unmanned vehicles",
+      "year": 2019,
+      "citation_raw": "[C26] M. Park, D. Shin, and H. Oh. Information-based hazardous gas source search using cooperative multiple unmanned vehicles. The 14th Korea Robotics Society Annual Conference, Pyeongchang, Jan 2019.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Frontal obstacle avoidance of MAV using optical flow",
+      "year": 2018,
+      "citation_raw": "[C25] G. Cho and H. Oh. Frontal obstacle avoidance of MAV using optical flow. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2018.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Information-based hazard gas source search and reconstruction using cooperative unmanned vehicles",
+      "year": 2018,
+      "citation_raw": "[C24] M. Park and H. Oh. Information-based hazard gas source search and reconstruction using cooperative unmanned vehicles. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2018.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "3D mapping, abstraction, and path planning for heterogeneous unmanned vehicles",
+      "year": 2018,
+      "citation_raw": "[C23] M. Park, M. Kim, S. Kim, H. Oh, D. Han, and H. Ryu. 3D mapping, abstraction, and path planning for heterogeneous unmanned vehicles. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2018.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Improvement of flocking behaviour using the inactivity agents",
+      "year": 2018,
+      "citation_raw": "[C22] Y. Song, J. Choi, and H. Oh. Improvement of flocking behaviour using the inactivity agents. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2018.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Performance analysis of the formation algorithm considering the communication environment",
+      "year": 2018,
+      "citation_raw": "[C21] Y. Song and H. Oh. Performance analysis of the formation algorithm considering the communication environment. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2018.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Communication map building and optimal positioning of mobile communication relay nodes",
+      "year": 2018,
+      "citation_raw": "[C20] J. Kim, Pawel Ladosz, and H. Oh. Communication map building and optimal positioning of mobile communication relay nodes. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2018.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Obstacle avoidance through imitation learning based on convolutional neural networks",
+      "year": 2018,
+      "citation_raw": "[C19] B. Park and H. Oh. Obstacle avoidance through imitation learning based on convolutional neural networks. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2018.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Nonlinear disturbance observer-based path following control for small fixed-wing unmanned aerial vehicle",
+      "year": 2018,
+      "citation_raw": "[C18] D. Shin and H. Oh. Nonlinear disturbance observer-based path following control for small fixed-wing unmanned aerial vehicle. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2018.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Trail navigation of unmanned vehicle based on CNN",
+      "year": 2018,
+      "citation_raw": "[C17] S. Back and H. Oh. Trail navigation of unmanned vehicle based on CNN. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2018.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Attitude control based on disturbance observer of flapping wing MAV with time-varying disturbances",
+      "year": 2018,
+      "citation_raw": "[C16] I. Kim, H. Park, S. Kim, J. Suck, H. Oh, S. Cho, and J. Shin. Attitude control based on disturbance observer of flapping wing MAV with time-varying disturbances. In Spring Conference of The Society for Aerospace System Engineering, Jeju, April 2018.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Entropy-based hazard gas source searching and source term reconstruction",
+      "year": 2017,
+      "citation_raw": "[C15] M. Park, M. Hutchinson, D. Shin, and H. Oh. Entropy-based hazard gas source searching and source term reconstruction. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2017.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "3D mapping using an open-source software platform",
+      "year": 2017,
+      "citation_raw": "[C14] M. Park, S. Yang, S. Kim, H. Oh, D. Han, and H. Ryu. 3D mapping using an open-source software platform. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2017.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Obstacle avoidance of unmanned vehicles using optical flow",
+      "year": 2017,
+      "citation_raw": "[C13] G. Cho and H. Oh. Obstacle avoidance of unmanned vehicles using optical flow. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2017.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Communication-aware relay UAV trajectory planning for ground vehicle following based on NMPC in an urban environment",
+      "year": 2016,
+      "citation_raw": "[C12] H. Oh, H. Shin, S. Kim, and W.H. Chen. Communication-aware relay UAV trajectory planning for ground vehicle following based on NMPC in an urban environment. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2016.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Source term estimation of hazardous atmospheric release using UAVs based on the Markov chain Monte Carlo method and boundary information",
+      "year": 2016,
+      "citation_raw": "[C11] M. Hutchinson, H. Oh, and W.H. Chen. Source term estimation of hazardous atmospheric release using UAVs based on the Markov chain Monte Carlo method and boundary information. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2016.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Experimental framework for controller design of a multi-rotor type aerial vehicle",
+      "year": 2010,
+      "citation_raw": "[C10] D.W. Yoo, D.Y. Won, H. Oh, D.H. Shim, and M.J. Tahk. Experimental framework for controller design of a multi-rotor type aerial vehicle. In ICROS Conference, Gangwon, May 2010.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Integrated design of the autonomous flight control and collision avoidance logic for the tiltrotor aircraft and verification by PILS",
+      "year": 2010,
+      "citation_raw": "[C9] B.M. Kim, B.S. Kim, H. Oh, I.H. Lee, M.J. Tahk, H.C. Bang, J.H. Shin, D.J. Kwak, and H.J. Kim. Integrated design of the autonomous flight control and collision avoidance logic for the tiltrotor aircraft and verification by PILS. In Spring Conference of the Korean Society for Aeronautical and Space Sciences, Gangwon, April 2010.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Pose estimation of an indoor UAV from a multi-camera system using UKF",
+      "year": 2009,
+      "citation_raw": "[C8] H. Oh, D.Y. Won, S.S. Huh, J.S. Ahn, B.G. Park, D.H. Shim, and M.J. Tahk. Pose estimation of an indoor UAV from a multi-camera system using UKF. In the Korean Automatic Control Conference (KACC 2009), Pusan, Sep 2009.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Nonlinear guidance law for formation flying using sliding mode control with perturbation estimation",
+      "year": 2009,
+      "citation_raw": "[C7] H. Oh, H.S. Shin, D.Y. Won, and M.J. Tahk. Nonlinear guidance law for formation flying using sliding mode control with perturbation estimation. In the 15th Guided Weapon Conference, Agency for Defence Development, Oct 2009.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Integration of task assignment and path planning for multi-UAVs using the Dubins set",
+      "year": 2009,
+      "citation_raw": "[C6] H. Oh, H.S. Shin, and M.J. Tahk. Integration of task assignment and path planning for multi-UAVs using the Dubins set. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Gyeongju, Nov 2009.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Vision-based pose estimation of a small UAV subject to kinematic constraints",
+      "year": 2009,
+      "citation_raw": "[C5] H. Oh, D.Y. Won, M.J. Tahk, and D.H. Shim. Vision-based pose estimation of a small UAV subject to kinematic constraints. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Gyeongju, Nov 2009.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Reconfiguration control using LMI-based constrained MPC",
+      "year": 2009,
+      "citation_raw": "[C4] H. Oh, B.M. Min, T.H. Kim, M.J. Tahk, J.H. Lee, and E.T. Kim. Reconfiguration control using LMI-based constrained MPC. In Spring Conference of Korean Society for Aeronautical and Space Sciences, Kangwon, April 2009.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "Multiple UAV conflict detection and resolution using a probabilistic method in 3-D, In Control",
+      "year": 2008,
+      "citation_raw": "[C3] H. Oh, J.W. Park, and M.J. Tahk. Multiple UAV conflict detection and resolution using a probabilistic method in 3-D. In Control, Automation and System Symposium (CASS 2008), Seoul, Oct 2008.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "PILS system development for collision avoidance verification",
+      "year": 2008,
+      "citation_raw": "[C2] I.H. Lee, H.C. Bang, and H. Oh. PILS system development for collision avoidance verification. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2008.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    },
+    {
+      "title": "A preliminary study on the indoor MAV testbed using a multi-camera system",
+      "year": 2008,
+      "citation_raw": "[C1] D.Y. Won, S.S. Huh, B.G. Park, H. Oh, D.H. Shim, and M.J. Tahk. A preliminary study on the indoor MAV testbed using a multi-camera system. In Autumn Conference of Korean Society for Aeronautical and Space Sciences, Jeju, Nov 2008.",
+      "source_url": "https://fair.kaist.ac.kr/domestic-conferences/"
+    }
+  ]
+}

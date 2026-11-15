@@ -1,0 +1,217 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Lynette A Jones",
+  "lab_name": null,
+  "lab_url": "https://cutaneous.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "https://cutaneous.mit.edu/"
+    }
+  ],
+  "attempted_urls": [
+    "https://cutaneous.mit.edu/",
+    "https://cutaneous.mit.edu/publications.html"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "PUBLICATIONS",
+      "url": "https://cutaneous.mit.edu/publications.html"
+    },
+    {
+      "text": "Recent Publications",
+      "url": "https://cutaneous.mit.edu/publications.html"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Haptic communication of language",
+      "year": 2023,
+      "citation_raw": "Reed, C.M., Tan, H.Z., & Jones, L.A. (2023). Haptic communication of language. IEEE Transactions on Haptics, in press.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Incorporating thermal feedback in cutaneous displays: Reconciling temporal and spatial disparities",
+      "year": 2022,
+      "citation_raw": "Jones, L.A. & Ho, H-N. (2022). Incorporating thermal feedback in cutaneous displays: Reconciling temporal and spatial disparities. 11th International Workshop on Haptic and Audio Interaction Design, 48-58.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Development of an innovative magnetorheological fluids-based haptic device excited by permanent magnets",
+      "year": 2021,
+      "citation_raw": "Simonelli, C., Musolino, A., Rizzo, R., & Jones, L.A. (2021). Development of an innovative magnetorheological fluids-based haptic device excited by permanent magnets. IEEE World Haptics Conference, 61-66.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Sensory interactions in cutaneous displays",
+      "year": 2019,
+      "citation_raw": "Jones, L.A. & Singhal, A. (2019). Sensory interactions in cutaneous displays. IEEE World Haptics Conference, 545-550.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Presenting surface features using a haptic ring: A psychophysical study on relocating vibrotactile feedback",
+      "year": 2019,
+      "citation_raw": "Gaudeni, C., Meli, L., Jones, L.A., & Prattichizzo, D. (2019). Presenting surface features using a haptic ring: A psychophysical study on relocating vibrotactile feedback. IEEE Transactions on Haptics, 12, 257-268.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Wearable tactile display based on thermal expansion of nichrome wire",
+      "year": 2019,
+      "citation_raw": "Kajimoto, H. & Jones, L.A. (2019). Wearable tactile display based on thermal expansion of nichrome wire. IEEE Transactions on Haptics, 12, 257-268.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Creating thermal icons – A model-based approach",
+      "year": 2018,
+      "citation_raw": "Singhal, A. & Jones, L.A. (2018). Creating thermal icons – A model-based approach. ACM Transactions on Applied Perception, 15, Article 14 (22 pages).",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Shape recognition and localization using a magnetorheological-fluid haptic display",
+      "year": 2018,
+      "citation_raw": "Rizzo, R., Musolino, A., & Jones, L.A. (2018). Shape recognition and localization using a magnetorheological-fluid haptic display. IEEE Transactions on Haptics, 11, 317-321.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Vibrotactile pattern identification in a multisensory display, In D, Prattichizzo, H, Shinoda, H.Z, Tan, E, Ruffaldi, & A, Frisoli (Eds.)",
+      "year": 2018,
+      "citation_raw": "Jones, L.A. & Singhal, A. (2018). Vibrotactile pattern identification in a multisensory display. In D. Prattichizzo, H. Shinoda, H.Z. Tan, E. Ruffaldi, & A. Frisoli (Eds.), LNCS10893, Haptics: Science, Technology, and Applications, 401-412.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Perceptual dimensions of vibrotactile actuators",
+      "year": 2018,
+      "citation_raw": "Jones, L.A. & Singhal, A. (2018). Perceptual dimensions of vibrotactile actuators. IEEE Haptics Symposium, 307-312.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Multidirectional in vivo characterization of skin using Wiener nonlinear stochastic system identification techniques",
+      "year": 2017,
+      "citation_raw": "Parker, M., Jones, L.A., Hunter, I., Taberner, A., Nash, M. & Nielsen, P. (2017). Multidirectional in vivo characterization of skin using Wiener nonlinear stochastic system identification techniques. Journal of Biomechanical Engineering, 139, 011004-1-011004-11.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Needle-free delivery of macromolecules through the skin using controllable jet injectors, Expert Opinion on Drug Delivery",
+      "year": 2015,
+      "citation_raw": "Hogan, N.C., Taberner, A.J., Jones, L.A. and Hunter, I.W. (2015). Needle-free delivery of macromolecules through the skin using controllable jet injectors. Expert Opinion on Drug Delivery, 12 (10).",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Evaluating vibrotactile dimensions for the design of tactons",
+      "year": 2014,
+      "citation_raw": "Azadi, M. & Jones, L.A. (2014). Evaluating vibrotactile dimensions for the design of tactons. IEEE Transactions on Haptics, 7, 14-23.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Application of psychophysical techniques to haptic research",
+      "year": 2013,
+      "citation_raw": "Jones, L.A. & Tan, H.Z. (2013). Application of psychophysical techniques to haptic research. IEEE Transactions on Haptics, 6, 268-284.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Mechanical and psychophysical studies of surface wave propagation during vibrotactile stimulation",
+      "year": 2013,
+      "citation_raw": "Sofia, K.O. & Jones, L.A. (2013). Mechanical and psychophysical studies of surface wave propagation during vibrotactile stimulation. IEEE Transactions on Haptics, 6, 320-329.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "MICA: An innovative approach to remote data acquisition",
+      "year": 2012,
+      "citation_raw": "Hemond, B., Hunter, I.W., Hughey, B.J., & Jones, L.A. (2012). MICA: An innovative approach to remote data acquisition. IEEE Instrumentation and Measurement Magazine, 15, 22-27.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Tactile and haptic illusions",
+      "year": 2011,
+      "citation_raw": "Lederman, S.J. & Jones, L.A. (2011). Tactile and haptic illusions. IEEE Transactions on Haptics, 4, 273-294.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Thermal cues and the perception of force, Experimental Brain Research",
+      "year": 2010,
+      "citation_raw": "Galie, J. & Jones, L.A. (2010). Thermal cues and the perception of force. Experimental Brain Research, 200, 81-90.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Spatial acuity and summation on the hand: The role of thermal cues in material discrimination, Attention, Perception & Psychophysics",
+      "year": 2009,
+      "citation_raw": "Yang, G., Kwon, D., & Jones, L.A. (2009). Spatial acuity and summation on the hand: The role of thermal cues in material discrimination. Attention, Perception & Psychophysics, 71, 156-163.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Vibrotactile pattern recognition on the arm and back, Perception",
+      "year": 2009,
+      "citation_raw": "Jones, L.A., Kunkel, J. & Piateski, E. (2009). Vibrotactile pattern recognition on the arm and back. Perception, 38, 52-68.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Characterization of tactors used in vibrotactile displays",
+      "year": 2008,
+      "citation_raw": "Jones, L.A. & Held, D.A. (2008). Characterization of tactors used in vibrotactile displays. Journal of Computing and Information Sciences in Engineering, 8, 044501-1 - 044501-5.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Warm or cool, large or small? The challenge of thermal displays",
+      "year": 2008,
+      "citation_raw": "Jones, L.A. & Ho, H-N., (2008). Warm or cool, large or small? The challenge of thermal displays. IEEE Transactions on Haptics, 1, 53-70.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Modeling the thermal responses of the skin surface during hand-object interactions",
+      "year": 2008,
+      "citation_raw": "Ho, H. & Jones, L.A. (2008). Modeling the thermal responses of the skin surface during hand-object interactions. Journal of Biomechanical Engineering, 130, 21005-1 - 21005-8.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Tactile displays: Guidance for their design and application, Human Factors",
+      "year": 2008,
+      "citation_raw": "Jones, L.A. & Sarter, N. (2008). Tactile displays: Guidance for their design and application. Human Factors, 50, 90-111.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "D. (2008) Use of simulated thermal cues for material discrimination and identification with a multi-fingered display, Presence",
+      "year": 2008,
+      "citation_raw": "Yang, G., Jones, L.A., & Kwon, D. (2008) Use of simulated thermal cues for material discrimination and identification with a multi-fingered display. Presence, 17, 29-42.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Development and evaluation of a thermal display for material identification and discrimination",
+      "year": 2007,
+      "citation_raw": "Ho, H. & Jones, L.A. (2007). Development and evaluation of a thermal display for material identification and discrimination. ACM Transactions on Applied Perception, 4, 1-24.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Tactile display and vibrotactile recognition on the torso",
+      "year": 2006,
+      "citation_raw": "Jones, L.A., Lockyer, B., & Piateski, E. (2006). Tactile display and vibrotactile recognition on the torso. Advanced Robotics, 20, 1359-1374.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Contribution of thermal cues to material discrimination and localization, Perception & Psychophysics",
+      "year": 2006,
+      "citation_raw": "Ho, H. & Jones, L.A. (2006). Contribution of thermal cues to material discrimination and localization. Perception & Psychophysics, 68, 118-128.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    },
+    {
+      "title": "Human hand function, New York: Oxford University Press",
+      "year": 2006,
+      "citation_raw": "Jones, L.A. & Lederman, S.J. (2006). Human hand function. New York: Oxford University Press.",
+      "source_url": "https://meche.mit.edu/people/faculty/ljones@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ]
+}

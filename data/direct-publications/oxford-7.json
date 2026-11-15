@@ -1,0 +1,83 @@
+{
+  "university": "University of Oxford",
+  "university_key": "oxford",
+  "pi": "Amro Awad",
+  "lab_name": null,
+  "lab_url": null,
+  "publication_urls": [],
+  "accessed_at": "2026-11-11T13:49:16.978Z",
+  "coverage_notes": [
+    "Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume.",
+    {
+      "discovered_links": [
+        {
+          "text": "Oxford Secure Computer Architecture Research group (OSCAR)",
+          "url": "https://oscar-ox.com/"
+        }
+      ]
+    },
+    {
+      "identity_evidence": {
+        "url": "https://eng.ox.ac.uk/people/amro-awad",
+        "visible_name_line": "Amro Awad BSc MSc PhD",
+        "following_lines": [
+          "PROFESSOR",
+          "Associate Professor"
+        ]
+      }
+    }
+  ],
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Hardware-managed heterogeneous high-bandwidth memory and flash in LLM inference systems",
+      "authors_raw": null,
+      "year": null,
+      "venue_raw": null,
+      "doi_or_url": "http://doi.org/10.1109/LCA.2026.3723326",
+      "citation_raw": "Hardware-managed heterogeneous high-bandwidth memory and flash in LLM inference systems\n\nHardware-managed heterogeneous high-bandwidth memory and flash in LLM inference systems",
+      "source_url": "https://eng.ox.ac.uk/people/amro-awad",
+      "publication_status_raw": null
+    },
+    {
+      "title": "CryptoBTB: a secure hierarchical BTB for diverse instructionfootprint workloads",
+      "authors_raw": null,
+      "year": null,
+      "venue_raw": null,
+      "doi_or_url": "http://doi.org/10.1145/3725843.3756050",
+      "citation_raw": "CryptoBTB: a secure hierarchical BTB for diverse instructionfootprint workloads\n\nCryptoBTB: a secure hierarchical BTB for diverse instructionfootprint workloads",
+      "source_url": "https://eng.ox.ac.uk/people/amro-awad",
+      "publication_status_raw": null
+    },
+    {
+      "title": "SpecMPK: efficient in-process isolation with speculative and secure permission update instruction",
+      "authors_raw": null,
+      "year": null,
+      "venue_raw": null,
+      "doi_or_url": "http://doi.org/10.1109/hpca61900.2025.00039",
+      "citation_raw": "SpecMPK: efficient in-process isolation with speculative and secure permission update instruction\n\nSpecMPK: efficient in-process isolation with speculative and secure permission update instruction",
+      "source_url": "https://eng.ox.ac.uk/people/amro-awad",
+      "publication_status_raw": null
+    },
+    {
+      "title": "SEFsim: A Statistically-Guided Fast DRAM Simulator",
+      "authors_raw": null,
+      "year": null,
+      "venue_raw": null,
+      "doi_or_url": "http://doi.org/10.1109/ispass61541.2024.00039",
+      "citation_raw": "SEFsim: A Statistically-Guided Fast DRAM Simulator\n\nSEFsim: A Statistically-Guided Fast DRAM Simulator",
+      "source_url": "https://eng.ox.ac.uk/people/amro-awad",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Delta Counter: Bandwidth-Efficient Encryption Counter Representation for Secure GPU Memory",
+      "authors_raw": null,
+      "year": null,
+      "venue_raw": null,
+      "doi_or_url": "http://doi.org/10.1109/tdsc.2024.3389560",
+      "citation_raw": "Delta Counter: Bandwidth-Efficient Encryption Counter Representation for Secure GPU Memory\n\nDelta Counter: Bandwidth-Efficient Encryption Counter Representation for Secure GPU Memory",
+      "source_url": "https://eng.ox.ac.uk/people/amro-awad",
+      "publication_status_raw": null
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "university": "National University of Singapore",
+  "university_key": "nus",
+  "pi": "ZHU Lailai",
+  "lab_name": null,
+  "lab_url": "https://www.lailaiflow.com/",
+  "publication_urls": [
+    "https://www.nature.com/articles/s41467-024-46520-4"
+  ],
+  "accessed_at": "2026-11-12T15:42:06.097838+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "Gompper, G. et al. The 2020 motile active matter roadmap. J. Phys.: Condens. Matter 32, 193001 (2020).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "Bois, J. S., Jülicher, F. & Grill, S. W. Pattern formation in active fluids. Phys. Rev. Lett. 106, 028103 (2011).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "PubMed Google Scholar Vicsek, T. & Zafeiris, A. Collective motion. Phys. Rep. 517, 71–140 (2012).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2017,
+      "citation_raw": "Needleman, D. & Dogic, Z. Active matter at the interface between materials science and cell biology. Nat. Rev. Mater. 2, 1–14 (2017).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "Bishop, K. J. M., Biswal, S. L., and Bharti, B. Active colloids as models, materials, and machines. Annu. Rev. Chem. Biomol. Eng. 14, 1–30 (2023).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "Redner, G. S., Hagan, M. F. & Baskaran, A. Structure and dynamics of a phase-separating active colloidal fluid. Phys. Rev. Lett. 110, 055701 (2013).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2015,
+      "citation_raw": "Cates, M. E. & Tailleur, J. Motility-induced phase separation. Annu. Rev. Condens. Matter Phys. 6, 219–244 (2015).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "Alert, R., Casademunt, J. & Joanny, J.-F. Active turbulence. Annu. Rev. Condens. Matter Phys. 13, 143–170 (2022).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "Thutupalli, S., Seemann, R. & Herminghaus, S. Swarming behavior of simple model squirmers. New J. Phys. 13, 073021 (2011).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "Banno, T., Kuroha, R. & Toyota, T. pH-sensitive self-propelled motion of oil droplets in the presence of cationic surfactants containing hydrolyzable ester linkages. Langmuir 28, 1190–1195 (2012).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2014,
+      "citation_raw": "Izri, Z., Linden, M. N. V. D., Michelin, S. & Dauchot, O. Self-propulsion of pure water droplets by spontaneous Marangoni-stress-driven motion. Phys. Rev. Lett. 113, 248302 (2014).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2016,
+      "citation_raw": "Maass, C. C., Krüger, C., Herminghaus, S. & Bahr, C. Swimming droplets. Annu. Rev. Condens. Matter Phys. 7, 171–193 (2016).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2018,
+      "citation_raw": "Thutupalli, S., Geyer, D., Singh, R., Adhikari, R. & Stone, H. A. Flow-induced phase separation of active particles is controlled by boundary conditions. Proc. Natl. Acad. Sci. USA 115, 5403–5408 (2018).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "Lohse, D. & Zhang, X. Physicochemical hydrodynamics of droplets out of equilibrium. Nat. Rev. Phys 2, 426–443 (2020).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "Corato, M. D., Pagonabarraga, I., Abdelmohsen, L. K. E. A., Sánchez, S. & Arroyo, M. Spontaneous polarization and locomotion of an active particle with surface-mobile enzymes. Phys. Rev. Fluids 5, 122001 (2020).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "Suda, S., Suda, T., Ohmura, T. & Ichikawa, M. Straight-to-curvilinear motion transition of a swimming droplet caused by the susceptibility to fluctuations. Phys. Rev. Lett. 127, 088005 (2021).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "Dwivedi, P., Pillai, D. & Mangal, R. Self-propelled swimming droplets. Curr. Opin. Colloid Interface Sci. 61, 101614 (2022).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "Matsuo, M., Hashishita, H., Tanaka, S. & Nakata, S. Sequentially selective coalescence of binary self-propelled droplets upon collective motion. Langmuir 39, 2073–2079 (2023).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "Chen, Q., Bae, S. C. & Granick, S. Directed self-assembly of a colloidal kagome lattice. Nature 469, 381–384 (2011).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "Walther, A. & Muller, A. H. E. Janus particles: synthesis, self-assembly, physical properties, and applications. Chem. Rev. 113, 5194–5261 (2013).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "Morozov, M. & Michelin, S. Nonlinear dynamics of a chemically-active drop: from steady to chaotic self-propulsion. J. Chem. Phys. 150, 044110 (2019).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "Hu, W. F., Lin, T. S., Rafai, S. & Misbah, C. Chaotic swimming of phoretic particles. Phys. Rev. Lett. 123, 238004 (2019).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "Chen, Y., Chong, K. L., Liu, L., Verzicco, R., and Lohse, D. Instabilities driven by diffusiophoretic flow on catalytic surfaces. J. Fluid Mech. 919, A10 (2021).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "Kailasham, R. & Khair, A. S. Dynamics of forced and unforced autophoretic particles. J. Fluid Mech. 948, A41 (2022).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "Google Scholar Li, G. Swimming dynamics of a self-propelled droplet. J. Fluid Mech. 934, A20 (2022).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2006,
+      "citation_raw": "Nakata, S., Kirisaka, J., Arima, Y. & Ishii, T. Self-motion of a camphanic acid disk on water with different types of surfactants. J. Phys. Chem. B 110, 21131–21134 (2006).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "Suematsu, N. J. et al. Mode-switching of the self-motion of a camphor boat depending on the diffusion distance of camphor molecules. J. Phys. Chem. C 114, 9876–9882 (2010).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2017,
+      "citation_raw": "Jin, C., Krüger, C. & Maass, C. C. Chemotaxis and autochemotaxis of self-propelling droplet swimmers. Proc. Natl. Acad. Sci. USA 114, 5089–5094 (2017).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "Soh, S., Bishop, K. J. M. & Grzybowski, B. A. Dynamic self-assembly in ensembles of camphor boats. J. Phys. Chem. B 112, 10848–10853 (2008).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "Bialké, J., Speck, T. & Löwen, H. Crystallization in a dense suspension of self-propelled particles. Phys. Rev. Lett. 108, 168301 (2012).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "Palacci, J., Sacanna, S., Steinberg, A. P., Pine, D. J. & Chaikin, P. M. Living crystals of light-activated colloidal surfers. Science 339, 936–940 (2013).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2015,
+      "citation_raw": "Petroff, A. P., Wu, X. L. & Libchaber, A. Fast-moving bacteria self-organize into active two-dimensional crystals of rotating cells. Phys. Rev. Lett. 114, 158102 (2015).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2016,
+      "citation_raw": "Briand, G. & Dauchot, O. Crystallization of self-propelled hard discs. Phys. Rev. Lett. 117, 098004 (2016).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2016,
+      "citation_raw": "Singh, R. & Adhikari, R. Universal hydrodynamic mechanisms for crystallization in active colloidal suspensions. Phys. Rev. Lett. 117, 228002 (2016).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2018,
+      "citation_raw": "Klamser, J. U., Kapfer, S. C. & Krauth, W. Thermodynamic phases in two-dimensional active matter. Nat. Commun. 9, 1–8 (2018).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2005,
+      "citation_raw": "Banks, D. S. & Fradin, C. Anomalous diffusion of proteins due to molecular crowding. Biophys. J. 89, 2960–2971 (2005).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2006,
+      "citation_raw": "Golding, I. & Cox, E. C. Physical nature of bacterial cytoplasm. Phys. Rev. Lett. 96, 098102 (2006).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "Michelin, S., Lauga, E. & Bartolo, D. Spontaneous autophoretic motion of isotropic particles. Phys. Fluids 25, 061701 (2013).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "Schnitzer, O. Weakly nonlinear dynamics of a chemically active particle near the threshold for spontaneous motion. I. Adjoint method. Phys. Rev. Fluids 8, 034201 (2023).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "Zhu, G. & Zhu, L. Self-propulsion of an elliptical phoretic disk emitting solute uniformly. J. Fluid Mech. 974, A57 (2023).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "Pasupalak, A., Li, Y. W., Ni, R. & Ciamarra, M. P. Hexatic phase in a model of active biological tissues. Soft Matter 16, 3914–3920 (2020).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "Paliwal, S. & Dijkstra, M. Role of topological defects in the two-stage melting and elastic behavior of active Brownian particles. Phys. Rev. Res. 2, 012013 (2020).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "Shi, X. Q., Cheng, F. & Chaté, H. Extreme spontaneous deformations of active crystals. Phys. Rev. Lett. 131, 108301 (2023).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": "D. S.Stability and Transition in Shear Flows",
+      "year": 2002,
+      "citation_raw": "Schmid, P. J. and Henningson, D. S.Stability and Transition in Shear Flows. 55, (Springer, 2002).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "Worlitzer, V. M. et al. Motility-induced clustering and meso-scale turbulence in active polar fluids. New J. Phys. 23, 033012 (2021).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2017,
+      "citation_raw": "Urzay, J., Doostmohammadi, A. & Yeomans, J. M. Multi-scale statistics of turbulence motorized by active matter. J. Fluid Mech. 822, 762–773 (2017).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 1990,
+      "citation_raw": "She, Z. S., Jackson, E. & Orszag, S. A. Intermittent vortex structures in homogeneous isotropic turbulence. Nature 344, 226–228 (1990).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2023,
+      "citation_raw": "Mukherjee, S., Singh, R. K., James, M., and Ray, S. S. Intermittency, fluctuations and maximal chaos in an emergent universal state of active turbulence. Nat. Phys. 19, 891–897 (2023).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "Alert, R., Joanny, J.F. & Casademunt, J. Universal scaling of active nematic turbulence. Nat. Phys. 16, 682–688 (2020).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2015,
+      "citation_raw": "Goto, Y. & Tanaka, H. Purely hydrodynamic ordering of rotating disks at a finite Reynolds number. Nat. Commun. 6, 5994 (2015).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2017,
+      "citation_raw": "Kokot, G. et al. Active turbulence in a gas of self-assembled spinners. Proc. Natl. Acad. Sci. U.S.A. 114, 12870–12875 (2017).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "Reeves, C. J., Aranson, I. S. & Vlahovska, P. M. Emergence of lanes and turbulent-like motion in active spinner fluid. Commun. Phys. 4, 92 (2021).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "Zantop, A. W. & Stark, H. Emergent collective dynamics of pusher and puller squirmer rods: swarming, clustering, and turbulence. Soft Matter 18, 6179–6191 (2022).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "Qi, K., Westphal, E., Gompper, G. & Winkler, R. G. Emergence of active turbulence in microswimmer suspensions due to active hydrodynamic stress and volume exclusion. Commun. Phys. 5, 49 (2022).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "Nasouri, B. & Golestanian, R. Exact phoretic interaction of two chemically active particles. Phys. Rev. Lett. 124, 168003 (2020).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2024,
+      "citation_raw": "Chen, Y., Chong, K. L., Liu, H., Verzicco, R. & Lohse, D. Buoyancy-driven attraction of active droplets. J. Fluid Mech. 980, A54 (2024).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "Dwivedi, P., Si, B. R., Pillai, D. & Mangal, R. Solute induced jittery motion of self-propelled droplets. Phys. Fluids 33, 022103 (2021).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2020,
+      "citation_raw": "Lin, T. S., Hu, W. F. & Misbah, C. A direct Poisson solver in spherical geometry with an application to diffusiophoretic problems. J. Comput. Phys. 409, 109362 (2020).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "Jiang, M. & Liu, Z. A boundary thickening-based direct forcing immersed boundary method for fully resolved simulation of particle-laden flows. J. Comput. Phys. 390, 203–231 (2019).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "Jiang, M., Li, J. & Liu, Z. A simple and efficient parallel immersed boundary-lattice Boltzmann method for fully resolved simulations of incompressible settling suspensions. Comput. Fluids 237, 105322 (2022).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "Hokmabad, B. V., Nishide, A., Ramesh, P., Krüger, C. & Maass, C. C. Spontaneously rotating clusters of active droplets. Soft Matter 18, 2731–2741 (2022).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": "Shaping active matter from crystalline solids to active turbulence (data sets)",
+      "year": 2023,
+      "citation_raw": "Yang, Q., Jiang, M., Picano, F., and Zhu, L. Shaping active matter from crystalline solids to active turbulence (data sets). Zenodo https://doi.org/10.5281/zenodo.7775033 (2023).",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    },
+    {
+      "title": null,
+      "year": 2024,
+      "citation_raw": "Yang, Q., Jiang, M., Picano, F. et al. Shaping active matter from crystalline solids to active turbulence. Nat Commun 15, 2874 (2024). https://doi.org/10.1038/s41467-024-46520-4",
+      "source_url": "https://www.nature.com/articles/s41467-024-46520-4"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Profile visible text preserved. Independent lab identity/full-list verification not yet exhaustive.",
+    "Publication page visible text captured; structured extraction pending."
+  ]
+}

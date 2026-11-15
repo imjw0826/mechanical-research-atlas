@@ -1,0 +1,102 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Wai Cheng",
+  "lab_name": null,
+  "lab_url": "https://web.mit.edu/sloan-auto-lab/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://web.mit.edu/sloan-auto-lab/"
+    },
+    {
+      "text": "https://doi.org/10.4271/2018-01-0893",
+      "url": "https://doi.org/10.4271/2018-01-0893"
+    },
+    {
+      "text": "https://doi.org/10.1177/1468087418777663",
+      "url": "https://doi.org/10.1177/1468087418777663"
+    }
+  ],
+  "attempted_urls": [
+    "https://web.mit.edu/sloan-auto-lab/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "The Anatomy of Knock",
+      "year": 2016,
+      "citation_raw": "1. McKenzie, J. and Cheng, W., \"The Anatomy of Knock,\" SAE Technical Paper 2016-01-0704, 2016, doi:10.4271/2016-01- 0704.",
+      "source_url": "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+    },
+    {
+      "title": "Cycle-by-cycle analysis of cold crank-start in a GDI engine",
+      "year": 2016,
+      "citation_raw": "2. Rodriguez, J. and Cheng, W., \"Cycle-by-cycle analysis of cold crank-start in a GDI engine,\" SAE Int. J. Engines 9(2):2016, doi:10.4271/2016-01-0824",
+      "source_url": "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+    },
+    {
+      "title": "Reduction of Cold-Start Emissions through Valve Timing in a GDI Engine",
+      "year": 2016,
+      "citation_raw": "3. Rodriguez, J. and Cheng, W., \"Reduction of Cold-Start Emissions through Valve Timing in a GDI Engine,\" SAE Int. J. Engines 9(2):2016, doi:10.4271/2016-01-0827.",
+      "source_url": "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+    },
+    {
+      "title": "Fuel carbon pathway in the first cranking cycle of a gasoline direct injection engine",
+      "year": 2016,
+      "citation_raw": "4. Rodriguez, J., and Cheng, W., “Fuel carbon pathway in the first cranking cycle of a gasoline direct injection engine,” Int. J of Eng. Research, Vol. 17(6) (2016), pp 690–701; DOI: 10.1177/1468087415609852.",
+      "source_url": "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+    },
+    {
+      "title": "Development of a reduced chemical mechanism targeted for a 5-component gasoline surrogate: A case study on the heat release nature in a GCI engine",
+      "year": 2017,
+      "citation_raw": "5. Chen, Y., Wolk, B., Mehl, M, Cheng, W.K., Chen, J.Y., Dibble, R.W., “Development of a reduced chemical mechanism targeted for a 5-component gasoline surrogate: A case study on the heat release nature in a GCI engine,\" Combustion and Flame 178 (2017), pp 268–276.",
+      "source_url": "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+    },
+    {
+      "title": "Assessment of Gasoline Direct Injection Engine Cold Start Particulate Emission Sources",
+      "year": 2017,
+      "citation_raw": "6. Oh, C. and Cheng, W., \"Assessment of Gasoline Direct Injection Engine Cold Start Particulate Emission Sources,\" SAE Int. J. Engines 10(4):2017, doi:10.4271/2017-01-0795.",
+      "source_url": "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+    },
+    {
+      "title": "Analysis of NOx Emissions during Crank-Start and Cold Fast-Idle in a GDI Engine",
+      "year": 2017,
+      "citation_raw": "7. Rodriguez, J. and Cheng, W., \"Analysis of NOx Emissions during Crank-Start and Cold Fast-Idle in a GDI Engine,\" SAE Int. J. Engines 10(2):646-655, 2017, doi:10.4271/2017-01-0796.",
+      "source_url": "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+    },
+    {
+      "title": "Effects of Ethanol Evaporative Cooling on Particulate Number Emissions in GDI Engines",
+      "year": 2018,
+      "citation_raw": "8. Chen, Y., Zhang, Y., and Cheng, W., \"Effects of Ethanol Evaporative Cooling on Particulate Number Emissions in GDI Engines,\" SAE Technical Paper 2018-01-0360, 2018, https://doi.org/10.4271/2018-01-0360.",
+      "source_url": "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+    },
+    {
+      "title": "Performance Assessment of Extended Stroke Spark Ignition Engine",
+      "year": 2018,
+      "citation_raw": "9. Anandhan, M. and Cheng, W., \"Performance Assessment of Extended Stroke Spark Ignition Engine,\" SAE Technical Paper 2018-01-0893, 2018, https://doi.org/10.4271/2018-01-0893.",
+      "source_url": "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+    },
+    {
+      "title": "A Study of Soot Formation in a Rapid Compression Machine at Conditions Representative of Cold-fast-idle in Spark Ignition Engines",
+      "year": 2019,
+      "citation_raw": "10. Ketterer, J.E. and Cheng, W., “A Study of Soot Formation in a Rapid Compression Machine at Conditions Representative of Cold-fast-idle in Spark Ignition Engines,” Int. J. of Engine Research, 20, 6, pp 670-677, 2019, https://doi.org/10.1177/1468087418777663",
+      "source_url": "https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete.",
+    "Official profile heading records PI as Wai Cheng; original roster PI Wai K Cheng. Official source: https://meche.mit.edu/people/faculty/WKCHENG@MIT.EDU"
+  ]
+}

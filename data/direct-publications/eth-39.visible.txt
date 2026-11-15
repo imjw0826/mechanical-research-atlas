@@ -1,0 +1,958 @@
+=== https://ifd.ethz.ch/research/group-supponen/publications.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Institute of Fluid Dynamics
+Main Navigation
+Events
+The Institute
+People
+Education
+Research
+Infrastructure
+Search
+Departments
+ETH Zurich
+D-MAVT
+IFD
+Language Selection
+English
+You are here
+Homepage
+Research
+Group Supponen
+Publications
+Publications Group Prof. Supponen
+Page 1 loaded
+1 – 10 of 44
+Potential flow solutions with viscous interface stresses for axisymmetric configurations
+Daniel W. Meyer and Louan Presse
+Engineering Analysis with Boundary Elements, vol. 194, pp. 107131, Elsevier, 2027.
+external page:
+DOI: 10.1016/j.enganabound.2026.107131
+external page:
+Research Collection
+Abstract 
+
+The boundary element or integral method (BIM) is a major tool for the simulation of inviscid multiphase flows. However, when simulating flow dynamics of micrometric gas bubbles—that are currently receiving attention e.g. in connection with targeted drug delivery—viscous effects become relevant. Existing viscous extensions of potential flow theories rely on the evaluation of second-order derivatives of the flow potential. While these derivatives are simply calculable in three-dimensional Cartesian grids through the repeated use of the boundary integral equation, a non-linearity complicates a corresponding mathematical formulation in cylindrical coordinates for axisymmetric geometries. Simulating axisymmetric geometries with a Cartesian 3d discretization entails either unnecessarily high computational costs or numerical errors. The latter are especially problematic as numerical grid-resolution errors have a spatially non-local effect in the boundary integral method. As an alternative, we derive in this work an exact modified boundary integral equation for second-order potential derivatives in cylindrical coordinates. The resulting viscous BIM requires only the interface discretization of a cross-section line with few degrees of freedom respectively grid points, while the circumferential integration does not need discretization. The new method is tested in two verification studies and illustrated with two application examples.
+
+Measurement of traveling pressure waves inside a droplet
+Sayaka Ichihara, Samuele Fiorini, Yoshiyuki Tagawa and Outi Supponen
+Experimental Thermal and Fluid Science, vol. 178, pp. 111800, Elsevier, 2026.
+external page:
+DOI: 10.1016/j.expthermflusci.2026.111800
+external page:
+Research Collection
+Abstract 
+
+Shock wave–droplet interactions have been receiving increasing attention due to their relevance in aviation fuel combustion and minimally invasive medical treatments, yet quantifying them experimentally remains a challenge. In this study, we propose a background-oriented schlieren (BOS) technique for quantitative spatiotemporal measurements of shock wave-droplet interaction, employing a novel ray-tracing correction, a synchronization system, and a projected background. Underwater shock waves propagating both inside and outside a millimetric perfluorohexane droplet immersed in water are experimentally measured. The quantified density gradient and pressure fields are compared with numerical simulations, and the BOS measurements — including sound speeds, the shock-focusing location, and the maximum pressure — are found to be in close agreement with the numerical results. Notably, the technique successfully captures the phase shift before and after shock focusing that had previously only been hypothesized.
+
+Translational dynamics of lipid-coated microbubbles driven by ultrasound
+Marco Cattaneo and Outi Supponen
+Physical Review Fluids, vol. 11: no. 3, pp. 033606, American Physical Society, 2026.
+external page:
+DOI: 10.1103/p475-xggm
+external page:
+Research Collection
+Abstract 
+
+Ultrasound-driven microbubbles are increasingly being investigated for both molecular imaging and therapeutic applications. To be effective, these bubbles must be brought into close proximity or direct contact with the target site. Leveraging the acoustic radiation force provides a powerful strategy to direct their movement. In this study, we examine the translational dynamics of a microbubble with unprecedented accuracy by simultaneously time-resolving both its radial and translational responses and by using optical tweezers to study the bubble in free space. Our experimental results show excellent agreement with theoretical predictions for the bubble sizes considered, provided the history drag force is included in the force balance. For the Reynolds numbers considered (up to Re approximate to 2), the zero-Reynolds-number history force performs as well as its finite-Reynolds-number extension. Although nonspherical modes may arise at larger bubble expansions, they do not appear to significantly influence the bubble translational motion. A major finding is that the normalized transport distance of the bubble scales linearly with the normalized volumetric expansion during its oscillation, greatly simplifying the design and analysis of transport strategies. We also investigated bubble stability during transport and observed a marked increase in dissolution rate once a threshold in bubble expansion is exceeded. These insights can be leveraged to develop optimal transport strategies that balance both transport speed and bubble stability for targeted delivery applications.
+
+Visualizations of ultrafast bubble dynamics
+Outi Supponen
+Physical Review Fluids, vol. 11: no. 2, pp. 023601, American Physical Society, 2026.
+external page:
+DOI: 10.1103/cv1q-h9h8
+external page:
+Research Collection
+Abstract 
+
+Experimental high-speed visualization techniques are evolving rapidly and provide valuable tools for learning about ultrafast bubble dynamics that cause unwanted but also desirable damage, such as cavitation and acoustically driven bubbles and droplets relevant for biomedical applications. This article offers my personal perspective on the quest to illuminate the hidden physics of externally stimulated bubbles that have a remarkable ability to focus energy.
+
+Shock-compression-based equation of state for perfluorohexane
+Anunay Prasanna, Guillaume T. Bokman, Samuele Fiorini, Armand Sieber, Bratislav Lukić, Daniel Foster and Outi Supponen
+Physical Review E, vol. 112: no. 6, pp. 065101, American Physical Society, 2025.
+external page:
+DOI: 10.1103/999d-nk9z
+external page:
+Research Collection
+Abstract 
+
+Perfluorohexane is a biocompatible material that serves as a liquid core for acoustically responsive agents in biomedical applications. Despite its relatively widespread usage, there is a lack of experimental data determining its thermodynamic properties. This challenges numerical simulations to predict the acoustic response of agents developed using this material. In this study, we employ the well-established method of shock compression of materials at relatively high pressures (100–400MPa) to estimate a kinematic equation of state for perfluorohexane. We use multi-objective optimization to obtain the Noble-Abel stiffened-gas equation of state, which is suitable for hydrodynamic numerical simulations. We then apply the extrapolated equation of state to simulate shock-wave propagation within a perfluorohexane droplet showing excellent agreement with equivalent experiments. This promotes the use of numerical simulations as a valuable tool for understanding the complex acoustic interactions involved in these biomedical agents, ultimately facilitating their translation for clinical purposes.
+
+Faraday Wave Singularities Trigger Microbubble Jetting
+Marco Cattaneo, Louan Presse and Outi Supponen
+Physical Review Letters, vol. 135: no. 20, pp. 204002, American Physical Society, 2025.
+external page:
+DOI: 10.1103/7c4p-y9jr
+external page:
+Research Collection
+Abstract 
+
+Wall-attached bubbles can produce repeated jets under gentle ultrasound stimulation through the Faraday instability. We identify three distinct jetting regimes defined by the jetting frequency and the bubble surface topology. We demonstrate that these jets form via flow-focusing singularities following two distinct collapse modes of the bubble interface: conical, producing a jet toward the substrate, or parabolic, generating a pair of oppositely directed jets. Scaling laws governing these collapse events are derived, revealing a universal self-similar structure governed by inertia and capillarity. Furthermore, we establish the dependence of the interface acceleration for jetting on driving frequency and characterize the jet speed as a function of Faraday wave height and bubble size. These findings may inform the design of low-power biofilm removal ultrasound systems and contribute to improved safety in targeted drug delivery.
+
+Shock-induced bubble jets: a dual perspective of bubble collapse and interfacial instability theory
+Guillaume T. Bokman, Luc Biasiori-Poulanges, Bratislav Lukić, Steven R. Brill, Claire Bourquard, Britton J. Olson, Alexander Rack and Outi Supponen
+Journal of Fluid Mechanics, vol. 1018, pp. A9, Cambridge University Press, 2025.
+external page:
+DOI: 10.1017/jfm.2025.10504
+external page:
+Research Collection
+Abstract 
+
+Interactions between shock waves and gas bubbles in a liquid can lead to bubble collapse and high-speed liquid jet formation, relevant to biomedical applications such as shock wave lithotripsy and targeted drug delivery. This study reveals a complex interplay between acceleration-induced instabilities that drive jet formation and radial accelerations causing overall bubble collapse under shock wave pressure. Using high-speed synchrotron X-ray phase contrast imaging, the dynamics of micrometre-sized air bubbles interacting with laser-induced underwater shock waves are visualised. These images offer full optical access to phase discontinuities along the X-ray path, including jet formation, its propagation inside the bubble, and penetration through the distal side. Jet formation from laser-induced shock waves is suggested to be an acceleration-driven process. A model predicting jet speed based on the perturbation growth rate of a single-mode Richtmyer-Meshkov instability shows good agreement with experimental data, despite uncertainties in the jet-driving mechanisms. The jet initially follows a linear growth phase, transitioning into a nonlinear regime as it evolves. To capture this transition, a heuristic model bridging the linear and nonlinear growth phases is introduced, also approximating jet shape as a single-mode instability, again matching experimental observations. Upon piercing the distal bubble surface, jets can entrain gas and form a toroidal secondary bubble. Linear scaling laws are identified for the pinch-off time and volume of the ejected bubble relative to the jet's Weber number, characterising the balance of inertia and surface tension. At low speeds, jets destabilise due to capillary effects, resulting in ligament pinch-off.
+
+Shape modes and jet formation on ultrasound-driven wall-attached bubbles
+Marco Cattaneo, Louan Presse, Gazendra Shakya, Thomas Renggli, Bratislav Lukić, Anunay Prasanna, Daniel Werner Meyer, Alexander Rack and Outi Supponen
+Journal of Fluid Mechanics, vol. 1017, pp. A9, Cambridge University Press, 2025.
+external page:
+DOI: 10.1017/jfm.2025.10457
+external page:
+Research Collection
+Abstract 
+
+Understanding how bubbles on a substrate respond to ultrasound is crucial for applications from industrial cleaning to biomedical treatments. Under ultrasonic excitation, bubbles can undergo shape deformations due to Faraday instability, periodically producing high-speed jets that may cause damage. While recent studies have begun to elucidate this behaviour for free bubbles, the dynamics of wall-attached bubbles is still largely unexplored. In particular, the selection and evolution of non-spherical modes in these bounded systems have not previously been resolved in three dimensions, and the resulting jetting dynamics has yet to be compared with that observed in free bubbles. In this study, we investigate individual micrometric air bubbles in contact with a rigid substrate and subjected to ultrasound. We introduce a novel dual-view imaging technique that combines top-view bright-field microscopy with side-view phase-contrast X-ray imaging, enabling visualisation of bubble shape evolution from two orthogonal perspectives. This set-up reveals the progression of bubble shape through four distinct dynamic regimes: purely spherical oscillations, onset of harmonic axisymmetric meniscus waves, emergence of half-harmonic axisymmetric Faraday waves and the superposition of half-harmonic sectoral Faraday waves. This stepwise evolution contrasts with the behaviour of free bubbles, which exhibit their ultimate Faraday wave pattern immediately upon instability onset. For the substrate chosen, the resulting shape-mode spectrum appears to be degenerate and exhibits a continuous range of shape mode degrees, in line with our theoretical predictions derived from kinematic arguments. While free bubbles also display a degenerate spectrum, their shape mode degrees remain discrete, constrained by the bubble spherical periodicity. Experimentally measured ultrasound pressure thresholds for the onset of Faraday instability agree well with classical interface stability theory, modified to incorporate the effects of a rigid boundary. Complementary three-dimensional boundary element simulations of bubble shape evolution align closely with experimental observations, validating this method’s predictive capability. Finally, we determine the acceleration threshold at which shape mode lobes initiate cyclic jetting. Unlike free bubbles, jetting in wall-attached bubbles consistently emerges from the side not restricted by the substrate.
+
+Planar shock-induced bubble collapse and jetting in water captured via x-ray phase contrast imaging
+Guillaume T. Bokman, Samuele Fiorini, Jergus Strucka, Bratislav Lukić, Simon N. Bland, Kassim Mughal, Siwei Liu, Alexander Rack and Outi Supponen
+Applied Physics Letters, vol. 127: no. 1, pp. 014102, American Institute of Physics, 2025.
+external page:
+DOI: 10.1063/5.0272963
+external page:
+Research Collection
+Abstract 
+
+Shock wave-bubble interactions in water manifest rich dynamics driven by a combination of strong pressure and density mismatches. They have a wide variety of applications, including the injection of pharmaceuticals, and through scaling, enable the exploration of various aspects of high-energy-density systems such as inertial confinement fusion. In this work, the interaction between a micrometric nitrogen bubble and a planar shock wave, characterized by a Mach number of M=1.24 and a peak pressure of p(max)=0.57 GPa, is experimentally recorded using ultra-high-speed x-ray phase contrast imaging. Highly resolved radiographs provide access to all phase discontinuities along the beam path, offering quantities such as the time-varying bubble size, the speed of a jet produced during the bubble collapse, and the time evolution of the shock wave front, which are critical benchmark data for numerical scheme validation. This study addresses the lack of well-characterized, repeatable, and high spatiotemporal resolution experiments at negative Atwood numbers by providing shock-bubble visualization and corresponding numerical simulation.
+
+Positive pressure matters in acoustic droplet vaporization
+Samuele Fiorini, Anunay Prasanna, Gazendra Shakya, Marco Cattaneo and Outi Supponen
+Physical Review Research, vol. 7: no. 2, pp. 023322, American Physical Society, 2025.
+external page:
+DOI: 10.1103/rj55-6bs1
+external page:
+Research Collection
+Abstract 
+
+Acoustically vaporizable droplets are phase-change agents that can improve the effectiveness of ultrasoundbased therapies. In this study, we demonstrate that the compression phase of an acoustic wave contributes to the generation of the negative pressure that initiates vaporization. This counterintuitive process is explained by separately evaluating the contribution of the compression and rarefaction phase of the incoming acoustic wave to the acoustic pressure field inside the droplet. Our analysis unifies the existing theories for acoustic droplet vaporization under a single framework and is supported by experiments and simulations. This different interpretation can be employed to identify governing parameters that allow one to vaporize droplets using predominantly compression waves, which are safer in medical use.
+
+Previous
+Next
+Related content
+Fundamentals
+Biomedical Applications
+Engineering Applications
+Measurement Techniques
+Group Supponen
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+ 
+Phone
++41 44 632 26 47
+Email
+ifd@mavt.ethz.ch
+
+Institute of Fluid Dynamics
+Sonneggstrasse 3
+8092 Zürich
+Switzerland
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Institute of Fluid Dynamics
+Main Navigation
+Events
+The Institute
+People
+Education
+Research
+Infrastructure
+Search
+Departments
+ETH Zurich
+D-MAVT
+IFD
+Language Selection
+English
+You are here
+Homepage
+Research
+Group Supponen
+Publications
+Publications Group Prof. Supponen
+Page 2 loaded
+11 – 20 of 44
+Cyclic jetting enables microbubble-mediated drug delivery
+Marco Cattaneo, Giulia Guerriero, Gazendra Shakya, Lisa A. Krattiger, Lorenza G. Paganella, Maria L. Narciso and Outi Supponen
+Nature Physics, vol. 21: no. 4, pp. 590-598, Nature, 2025.
+external page:
+DOI: 10.1038/s41567-025-02785-0
+external page:
+Research Collection
+Abstract 
+
+The pursuit of targeted therapies capable of overcoming biological barriers, including the blood-brain barrier, has spurred the investigation of stimuli-responsive microagents that can improve therapeutic efficacy and reduce undesirable side effects. Intravenously administered, ultrasound-responsive microbubbles are promising agents with demonstrated potential in clinical trials, but the mechanism underlying drug absorption remains unclear. Here we show that ultrasound-driven single microbubbles puncture the cell membrane and induce drug uptake through stable cyclic microjets. Our theoretical models successfully reproduce the observed bubble and cell dynamic responses. We find that cyclic jets arise from shape instabilities, as opposed to classical inertial jets that are driven by pressure gradients, enabling microjet formation at mild ultrasound pressures below 100 kPa. We also establish a threshold for bubble radial expansion beyond which microjets form and facilitate cellular permeation and show that the stress generated by microjetting outperforms previously suggested mechanisms by at least an order of magnitude. Overall, this work elucidates the physics behind microbubble-mediated targeted drug delivery and provides the criteria for its effective and safe application.
+
+Design and Development of a Diffusion Cell for Sonophoresis Treatment
+Oliver Brändle
+Bachelor Thesis, Zurich, ETH Zurich, 2025.
+external page:
+Research Collection
+Abstract 
+
+This thesis outlines the desing and development of a scalable, low-cost and user-friendly diffusion cell that is suitable for sonophoresis studies involving high-speed optical imaging. Digital Light Processing 3D printing was used to create a prototype of the device with an Anycubic Photon M3 Max printer. It was found that normal exposure time was the key parameter for optimizing print quality. Although full optical transparency could not be achieved due to limi- tations in the material used, the core objectives of affordability, repro- ducibility, and functionality were met. Validation experiments using sodium fluorescein and porcine skin demonstrated the cell’s appli- cability for transdermal permeability studies involving sonophoresis. The proposed approach offers a practical and accessible alternative to conventional Franz diffusion cells.
+
+Interfacial physics of ultrasound-driven microbubbles
+Marco Cattaneo
+Doctoral Thesis, Zurich, ETH Zurich, 2025.
+external page:
+Research Collection
+Abstract 
+
+Microbubbles, in combination with ultrasound, have rapidly emerged as a cornerstone of modern biomedical technology. These gas-filled spheres, smaller than a red blood cell, are injected intravenously and encapsulated by a stabilising shell that preserves their integrity in the bloodstream. Their minute size enables them to navigate the smallest capillaries and resonate with the high-frequency ultrasound pulses used in the clinical practice, producing nonlinear oscillations that enhance contrast in imaging. The extraordinary ability of microbubbles to amplify acoustic signals and convert them into mechanical action not only enhances diagnostic precision but also opens the door to innovative therapeutic applications. By serving as both diagnostic markers and vehicles for targeted drug delivery, microbubbles offer a dual functionality that could transform approaches to disease detection and treatment. Advancing these applications requires a deeper understanding of the interfacial physics governing microbubble behaviour. To tackle this challenge, we design and build cutting-edge imaging systems to capture the ultrafast microscale dynamics of ultrasound-driven microbubbles. We investigate their nonlinear oscillations, translational motion, non-spherical deformations, and jetting behaviour. By integrating experimental observations with theoretical models, statistical analysis, and numerical simulations, we aim to unravel key questions in the field regarding the rheology of the bubble coating, the transport of microbubble and their stability, and the underlying mechanism of targeted drug delivery. This exploration will ultimately lead us to uncover a novel mechanism of bubble jetting, with fascinating implications for biomedical applications and beyond. We first refine the rheological characterisation of the phospholipid shell of coated microbubbles and tackle the puzzling link between microbubble shell viscosity and bubble size. Using high-speed videomicroscopy at ten million frames per second and optical tweezers, we isolate and study single microbubbles in a controlled environment. Our findings validated a Rayleigh–Plesset-type model incorporating the Marmottant shell model. Contrary to previous reports indicating a nonphysical increase of shell viscosity with bubble radius, our data show no such size dependence. We pinpoint past discrepancies to methodological biases in rheological inference, underscoring the critical role of precise bubble sizing and accurate measurement techniques. Next, we investigate the transport of microbubbles under acoustic radiation force. Our experimental framework enable us to time-resolve both radial and translational responses. Using optical tweezers, we examine bubbles in free space, eliminating boundary effects. The results align with theoretical models incorporating history drag forces. Non-spherical modes, while present, did not significantly affect translation. A key discovery is that the bubble displacement scales linearly with its volumetric expansion. Additionally, we identify a threshold of volumetric expansion beyond which dissolution rates increased due to asymmetric bubble collapse. These insights can guide more efficient transport strategies of microbubbles to target sites. To determine the physical mechanism behind microbubble-mediated targeted drug delivery, we capture interactions of single bubbles with endothelial cells using a novel side-view imaging system. Our observations reveal cyclic microjetting, a newly identified mechanism, driving drug uptake. Unlike inertial jets, these microjets form at mild ultrasound pressures from non-spherical oscillations modes induced by the Faraday instability. The jets puncture the cell membrane, significantly enhancing drug absorption. We establish an oscillation amplitude threshold beyond which microjets form and demonstrate that the stresses they generate are an order of magnitude higher than previously proposed mechanisms. These findings provide crucial advancements for the safe and effective use of microbubbles in drug delivery. We further investigate non-spherical oscillation modes in ultrasound-driven bubbles resting against a rigid substrate using a dual-view imaging system combining top-view optical imaging and side-view X-ray phase contrast. Our analysis identifies four distinct oscillation regimes: spherical oscillations, harmonic axisymmetric meniscus waves, half-harmonic axisymmetric shape modes, and mixed shape modes. The acoustic pressure thresholds for shape mode onset align with predictions from classical interface stability theory. Simulations using a boundary element method closely align with our observations. Notably, shape modes efficiently convert acoustic energy into localised strong flows, with significant implications for ultrasound cleaning and therapeutic applications. Finally, we explore the underlying mechanism behind shape mode-induced jetting and identify its origin in the formation of flow-focusing singularities during the reversal of shape mode lobes. Our findings reveal that localised lobes collapse in a conical geometry, producing single inward-directed jets, whereas annular lobes collapse in a parabolic geometry, generating pairs of oppositely directed jets. Scaling laws indicate a universal self-similarity governed by fluid inertia and capillarity. The jet speed, which depends on lobe amplitude and bubble size, can reach tens of meters per second at minimal acoustic pressures. This jetting mechanism, operating at a lower mechanical index than inertial jetting, can offer a safer approach for targeted drug delivery.
+
+Shock Wave-Driven Bubble Dynamics
+Guillaume Thomas Bokman
+Doctoral Thesis, Zurich, ETH Zurich, 2025.
+external page:
+Research Collection
+Impulse-driven release of gas-encapsulated drops
+Guillaume T. Bokman, Luc Biasiori-Poulanges, Bratislav Lukić, Kevin Schmidmayer, Claire Bourquard, Enea Baumann, Alexander Rack, Britton J. Olson and Outi Supponen
+Journal of Fluid Mechanics, vol. 1001, pp. A51, Cambridge University Press, 2024.
+external page:
+DOI: 10.1017/jfm.2024.1124
+external page:
+Research Collection
+Abstract 
+
+Gas-encapsulated drops, much like antibubbles, are drops enclosed in a bubble within a liquid. They show potential as payload carriers in fluid transport and mixing techniques where sound waves can be leveraged to induce the collapse of the gas core and the subsequent release of the drop. Here, the interaction of millimetre-sized gas-encapsulated drops with impulsive laser-induced shock waves is investigated to gain fundamental insights into the release process. Experimental synchrotron X-ray phase contrast imaging, which allows the drop dynamics to be visualised inside the encapsulating bubble, is complemented by numerical simulations to study the intricate physics at play. Three drop dynamical release regimes are discovered, namely the drop impact, partial deposition and jet impact regimes. The regime type is mainly dependent on the shape of the bubble interface impacting the drop and the associated Weber and Reynolds numbers. The drop dynamics of the drop impact and partial deposition regimes show similarities with the canonical configuration of drops impacting flat liquid surfaces, whereas the jet impact regime resembles binary drop collisions, which allows existing scaling laws to be applied to describe the underlying processes. The release of the drop is investigated numerically. The time evolution of the drop dissemination within the surrounding liquid discloses enhanced mixing for dynamics involving high Weber and Reynolds numbers such as the drop impact and jet impact regimes.
+
+Nanoporous Submicron Gold Particles Enable Nanoparticle-Based Localization Optoacoustic Tomography (nanoLOT)
+Daniil Nozdriukhin, Marco Cattaneo, Norman Klingler, Shuxin Lyu, Weiye Li, Francisco Montero de Espinosa, Jerome Bonvin, Outi Supponen, Daniel Razansky and Xosé Luís Deán-Ben
+Small, vol. 20: no. 51, pp. 2404904, Wiley-VCH, 2024.
+external page:
+DOI: 10.1002/smll.202404904
+external page:
+Research Collection
+Abstract 
+
+Localization optoacoustic tomography (LOT) has recently emerged as a transformative super-resolution technique breaking through the acoustic diffraction limit in deep-tissue optoacoustic (OA) imaging via individual localization and tracking of particles in the bloodstream. However, strong light absorption in red blood cells has previously restricted per-particle OA detection to relatively large microparticles, approximate to 5 mu m in diameter. Herein, it is demonstrated that submicron-sized porous gold nanoparticles, approximate to 600 nm in diameter, can be individually detected for noninvasive super-resolution imaging with LOT. Ultra-high-speed bright-field microscopy revealed that these nanoparticles generate microscopic plasmonic vapor bubbles, significantly enhancing opto-acoustic energy conversion through a nano-to-micro size transformation. Comprehensive in vitro and in vivo tests further demonstrated the biocompatibility and biosafety of the particles. By reducing the detectable particle size by an order of magnitude, nanoLOT enables microangiographic imaging with a significantly reduced risk of embolisms from particle aggregation and opens new avenues to visualize how nanoparticles reach vascular and potentially extravascular targets. The performance of nanoLOT for non-invasive imaging of microvascular networks in the murine brain anticipates new insights into neurovascular coupling mechanisms and longitudinal microcirculatory changes associated with neurodegenerative diseases.
+
+Synchrotron X-ray phase-contrast imaging of ultrasonic drop atomization
+Anunay Prasanna, Luc Biasiori-Poulanges, Ya-Chi Yu, Hazem El-Rabii, Bratislav Lukić and Outi Supponen
+International Journal of Multiphase Flow, vol. 174, pp. 104785, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.ijmultiphaseflow.2024.104785
+external page:
+Research Collection
+Abstract 
+
+Ultrasonic atomization is employed to generate size-controllable droplets for a variety of applications. Here, we minimize the number of parameters dictating the process by studying the atomization of a single drop pending from an ultrasonic horn. Spatiotemporally resolved X-ray phase-contrast imaging measurements show that the number-median sizes of the ejected droplets can be predicted by the linear Navier–Stokes equations, signifying that the size distribution is controlled by the fluid properties and the driving frequency. Experiments with larger pendant water drops indicate that the fluid–structure interaction plays a pivotal role in determining the ejection onset of the pendant drop. The atomization of viscoelastic drops is dictated by extended ligament formation, entrainment of air, and ejection of drop-encapsulated bubbles. Existing scaling laws are used to explain the required higher input amplitudes for the complete atomization of viscoelastic drops as compared to inviscid drops. Finally, we elucidate the differences between capillary wave-based and cavitation-based atomization and show that inducing cavitation and strong bubble oscillations quickens the onset of daughter drop ejection but impedes their size control.
+
+Ultrasound-responsive microbubbles and nanodroplets: A pathway to targeted drug delivery
+Gazendra Shakya, Marco Cattaneo, Giulia Guerriero, Anunay Prasanna, Samuele Fiorini and Outi Supponen
+Advanced Drug Delivery Reviews, vol. 206, pp. 115178, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.addr.2023.115178
+external page:
+Research Collection
+Abstract 
+
+Ultrasound-responsive agents have shown great potential as targeted drug delivery agents, effectively augmenting cell permeability and facilitating drug absorption. This review focuses on two specific agents, microbubbles and nanodroplets, and provides a sequential overview of their drug delivery process. Particular emphasis is given to the mechanical response of the agents under ultrasound, and the subsequent physical and biological effects on the cells. Finally, the state-of-the-art in their pre-clinical and clinical implementation are discussed. Throughout the review, major challenges that need to be overcome in order to accelerate their clinical translation are highlighted.
+
+Cavitation cloud formation and surface damage of a model stone in a high-intensity focused ultrasound field
+Luc Biasiori-Poulange, Bratislav Lukić and Outi Supponen
+Ultrasonics Sonochemistry, vol. 102, pp. 106738, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.ultsonch.2023.106738
+external page:
+Research Collection
+Abstract 
+
+This work investigates the fundamental role of cavitation bubble clouds in stone comminution by focused ultrasound. The fragmentation of stones by ultrasound has applications in medical lithotripsy for the comminution of kidney stones or gall stones, where their fragmentation is believed to result from the high acoustic wave energy as well as the formation of cavitation. Cavitation is known to contribute to erosion and to cause damage away from the target, yet the exact contribution and mechanisms of cavitation remain currently unclear. Based on in situ experimental observations, post-exposure microtomography and acoustic simulations, the present work sheds light on the fundamental role of cavitation bubbles in the stone surface fragmentation by correlating the detected damage to the observed bubble activity. Our results show that not all clouds erode the stone, but only those located in preferential nucleation sites whose locations are herein examined. Furthermore, quantitative characterizations of the bubble clouds and their trajectories within the ultrasonic field are discussed. These include experiments with and without the presence of a model stone in the acoustic path length. Finally, the optimal stone-to-source distance maximizing the cavitation-induced surface damage area has been determined. Assuming the pressure magnitude within the focal region to exceed the cavitation pressure threshold, this location does not correspond to the acoustic focus, where the pressure is maximal, but rather to the region where the acoustic beam and thereby the acoustic cavitation activity near the stone surface is the widest.
+
+Plasma-based identification of gases in a laser-induced cavitation bubble
+Siwei Liu, Kaito Nitto, Outi Supponen, Sayaka Kamata, Tomoki Nakajima, Mohamed Farhat and Takehiko Sato
+Applied Physics Letters, vol. 123: no. 9, pp. 094102, American Institute of Physics, 2023.
+external page:
+DOI: 10.1063/5.0164732
+external page:
+Research Collection
+Abstract 
+
+This study presents a general methodology and an experimental approach to identify the gas components within laser-induced cavitation bubbles. A needle electrode inside the cavitation bubble, which introduces low electric energy into the bubble, produces a homogenous plasma discharge inside the vapor cavity. The primary bubble dynamics remain identical while the rebound bubble becomes about twice as large when a discharge is applied. The effect of non-condensable gases and the electric charge on bubble dynamics is explored theoretically, and the role of the electric charge is found to be significant. Optical emission spectroscopy reveals the evolution of emission lines from gases inside bubbles. H lines and OH lines are persistently observed in all cases, providing a dominant presence of water vapor. The results also confirm that the gases, which are initially present in the water rather than transported from the water, contribute to the optical emission characteristics with different dissolved gases.
+
+Previous
+Next
+Related content
+Fundamentals
+Biomedical Applications
+Engineering Applications
+Measurement Techniques
+Group Supponen
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+ 
+Phone
++41 44 632 26 47
+Email
+ifd@mavt.ethz.ch
+
+Institute of Fluid Dynamics
+Sonneggstrasse 3
+8092 Zürich
+Switzerland
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Institute of Fluid Dynamics
+Main Navigation
+Events
+The Institute
+People
+Education
+Research
+Infrastructure
+Search
+Departments
+ETH Zurich
+D-MAVT
+IFD
+Language Selection
+English
+You are here
+Homepage
+Research
+Group Supponen
+Publications
+Publications Group Prof. Supponen
+Page 3 loaded
+21 – 30 of 44
+Shell viscosity estimation of lipid-coated microbubbles
+Marco Cattaneo and Outi Supponen
+Soft Matter, vol. 19: no. 33, pp. 5925-5941, Royal Society of Chemistry, 2023.
+external page:
+DOI: 10.1039/d3sm00871a
+external page:
+Research Collection
+Abstract 
+
+Understanding the shell rheology of ultrasound contrast agent microbubbles is vital for anticipating their bioeffects in clinical practice. Past studies using sophisticated acoustic and optical techniques have made enormous progress in this direction, enabling the development of shell models that adequately reproduce the nonlinear behaviour of the coated microbubble under acoustic excitation. However, there have also been puzzling discrepancies and missing physical explanations for the dependency of shell viscosity on the equilibrium bubble radius, which demands further experimental investigations. In this study, we aim to unravel the cause of such behaviour by performing a refined characterisation of the shell viscosity. We use ultra-high-speed microscopy imaging, optical trapping and wide-field fluorescence to accurately record the individual microbubble response upon ultrasound driving across a range of bubble sizes. An advanced model of bubble dynamics is validated and employed to infer the shell viscosity of single bubbles from their radial time evolution. The resulting values reveal a prominent variability of the shell viscosity of about an order of magnitude and no dependency on the bubble size, which is contrary to previous studies. We find that the method called bubble spectroscopy, which has been used extensively in the past to determine the shell viscosity, is highly sensitive to methodology inaccuracies, and we demonstrate through analytical arguments that the previously reported unphysical trends are an artifact of these biases. We also show the importance of correct bubble sizing, as errors in this aspect can also lead to unphysical trends in shell viscosity, when estimated through a nonlinear fitting from the time response of the bubble.
+
+Scaling laws for bubble collapse driven by an impulsive shock wave
+Guillaume T. Bokman, Luc Biasiori-Poulanges, Daniel W. Meyer and Outi Supponen
+Journal of Fluid Mechanics, vol. 967, pp. A33, Cambridge University Press, 2023.
+external page:
+DOI: 10.1017/jfm.2023.514
+external page:
+Research Collection
+Abstract 
+
+Upon interaction with underwater shock waves, bubbles can collapse and produce high-speed liquid jets in the direction of the wave propagation. This work experimentally investigates the impact of laser-induced underwater impulsive shock waves, i.e. shock waves with a short, finite width, of variable peak pressure on bubbles of radii in the range 10–500 μm. The high-speed visualisations provide new benchmarking of remarkable quality for the validation of numerical simulations and the derivation of scaling laws. The experimental results support scaling laws describing the collapse time and the jet speed of bubbles driven by impulsive shock waves as a function of the impulse provided by the wave. In particular, the collapse time and the jet speed are found to be, respectively, inversely and directly proportional to the time integral of the pressure waveform for bubbles with a collapse time longer than the duration of shock interaction and for shock amplitudes sufficient to trigger a nonlinear bubble collapse. These results provide a criterion for the shock parameters that delimits the jetting and non-jetting behaviour for bubbles having a shock width-to-bubble size ratio smaller than one. Jetting is, however, never observed below a peak pressure value of 14 MPa. This limit, where the pressure becomes insufficient to yield a nonlinear bubble collapse, is likely the result of the time scale of the shock wave passage over the bubble becoming very short with respect to the bubble collapse time scale, resulting in the bubble effectively feeling the shock wave as a spatially uniform change in pressure, and in an (almost) spherical bubble collapse.
+
+Synchrotron X-ray imaging of the onset of ultrasonic horn cavitation
+Luc Biasiori-Poulanges, Claire Bourquard, Bratislav Lukić, Ludovic Broche and Outi Supponen
+Ultrasonics Sonochemistry, vol. 92, pp. 106286, Elsevier, 2023.
+external page:
+DOI: 10.1016/j.ultsonch.2022.106286
+external page:
+Research Collection
+Abstract 
+
+High-power ultrasonic horns operating at low frequency are known to generate a cone-shaped cavitation bubble cloud beneath them. The exact physical processes resulting in the conical structure are still unclear mainly due to challenges associated with their visualization. Herein, we address the onset of the cavitation cloud by exploiting high-speed X-ray phase contrast imaging. It reveals that the cone formation is not immediate but results from a three-step phenomenology: (i) inception and oscillation of single bubbles, (ii) individual cloud formation under splitting or lens effects, and (iii) cloud merging leading to the formation of a bubble layer and, eventually, to the cone structure due to the radial pressure gradient on the horn tip.
+
+High-speed X-ray phase-contrast imaging of single cavitation bubbles near a solid boundary
+Guillaume Thomas Bokman, Luc Biasiori-Poulanges, Bratislav Lukić, Claire Bourquard, Daniel Werner Meyer, Alexander Rack and Outi Supponen
+Physics of Fluids, vol. 35: no. 1, pp. 013322, American Institute of Physics, 2023.
+external page:
+DOI: 10.1063/5.0132104
+external page:
+Research Collection
+Abstract 
+
+Laser-induced cavitation bubble dynamics at different distances from a rigid boundary is investigated using high-speed synchrotron x-ray phase-contrast imaging. This is achieved through the design of a tailored experimental chamber specifically designed to reduce the x-ray absorption along the path length in water while mitigating boundary effects. The highly resolved undistorted radiographs are able to visualize a sharp bubble interface even upon complex shapes, which can serve as high-quality benchmarks for numerical simulations. Here, the measured bubble shapes are compared to simulations using the incompressible boundary integral method. The direct optical access to the high-speed liquid jet provides accurate measurements of the evolution of the jet speed, which is contrasted to the simulated results. After the jet has impacted the opposite side of the cavitation bubble, the cavity assumes a toroidal shape, the volume of which can be accurately measured from the radiographs and its temporal evolution compared to the bubble-ring model. Thanks to the clear optical access to the cavity lobes throughout the collapse, non-axisymmetric splashing within the bubble resulting from the jet impact, also known as Blake's splashing, is observed and characterized for stand-off parameters of γ < 1. Measurements extracted from the highly resolved visualizations provided herein have been validated against scaling laws for droplet impact on a thin liquid film, which contribute to confirm and elucidate the splashing phenomenon.
+
+Jetting Behaviour of Ultrasound-driven Microbubbles in Contact with a Soft Substrate
+Marco Cattaneo, Gazendra Shakya and Outi Supponen
+61st IEEE International Ultrasonics Symposium (IUS 2023), Montreal, Canada, pp.10306798 Piscataway, NJ: IEEE, September 3-8, 2023.
+external page:
+DOI: 10.1109/ius51837.2023.10306798
+external page:
+Research Collection
+Abstract 
+
+The use of ultrasound-driven microbubbles presents a promising avenue for facilitating the localised delivery of therapeutics by inducing controlled nanodamage on capillary walls. Despite the tangible clinical evidence of the success of this approach, the underlying physical mechanism leading to nanodamage remains under debate. In this study, time-resolved side-view visualisations elucidate the interplay between soft substrates and microbubbles under clinically relevant ultrasound regimes. Our findings reveal the existence of four distinct regimes of bubble behaviour dependent on the bubble’s size and the role of shape deformations as governing mechanism for the bubble behaviour. Among these regimes, three result in the formation of periodic microjets. The remarkable speed of these microjets indicates their significant contribution in causing surface nanodamage.
+
+Flow focusing from interacting cavitation bubbles
+Arpit Mishra, Claire Bourquard, Arnab Roy, Rajaram Lakkaraju, Parthasarathi Ghosh and Outi Supponen
+Physical Review Fluids, vol. 7: no. 11, pp. 110502, American Physical Society, 2022.
+external page:
+DOI: 10.1103/PhysRevFluids.7.110502
+external page:
+Research Collection
+Abstract 
+
+This paper is associated with a video winner of a 2021 American Physical Society's Division of Fluid Dynamics (DFD) Milton van Dyke Award for work presented at the DFD Gallery of Fluid Motion. The original video is available online at the Gallery of Fluid Motion, littps://doi.org/10.1103/APS.DFD.2021.GFM.V0038.
+
+Controlled tough bioadhesion mediated by ultrasound
+Zhenwei Ma, Claire Bourquard, Qiman Gao, Shuaibing Jiang, Tristan De Iure-Grimmel, Ran Huo, Xuan Li, Zixin He, Zhen Yang, Galen Yang, Yixiang Wang, Edmond Lam, Zu-Hua Gao, Outi Supponen and Jianyu Li
+Science, vol. 377: no. 6607, pp. 751-755, AAAS, 2022.
+external page:
+DOI: 10.1126/science.abn8699
+external page:
+Research Collection
+Abstract 
+
+Tough bioadhesion has important implications in engineering and medicine but remains challenging to form and control. We report an ultrasound (US)-mediated strategy to achieve tough bioadhesion with controllability and fatigue resistance. Without chemical reaction, the US can amplify the adhesion energy and interfacial fatigue threshold between hydrogels and porcine skin by up to 100 and 10 times. Combined experiments and theoretical modeling suggest that the key mechanism is US-induced cavitation, which propels and immobilizes anchoring primers into tissues with mitigated barrier effects. Our strategy achieves spatial patterning of tough bioadhesion, on-demand detachment, and transdermal drug delivery. This work expands the material repertoire for tough bioadhesion and enables bioadhesive technologies with high-level controllability.
+
+Cavitation bubble dynamics in a shear-thickening fluid
+Guillaume T. Bokman, Outi Supponen and Simo A. Mäkiharju
+Physical Review Fluids, vol. 7: no. 2, pp. 023302, American Physical Society, 2022.
+external page:
+DOI: 10.1103/physrevfluids.7.023302
+external page:
+Research Collection
+Abstract 
+
+Cavitation has been extensively studied in Newtonian fluids and to a lesser yet significant degree in shear-thinning fluids. However, cavitation has not been previously investigated in shear-thickening fluids, of which a water-cornstarch suspension is perhaps the best-known example. An interesting property of such fluids is that, when subjected to an increase in strain rate, their viscosity increases until they exhibit solidlike behavior and can even fracture. As cavitation bubbles are capable of generating extreme strain rates, they could be affected by shear-thickening fluid behavior. As visual access is limited by opaque or non-index-matched particles present in such fluids, an experimental study of nominally cylindrical spark-induced cavitation bubbles is conducted in a 2 mm gap between two parallel flat and transparent plates, which allows visualization of the bubbles as they contact the boundary. They are theoretically studied through the cylindrical Keller-Miksis equation adapted to a shear-thickening fluid using a Cross model. For volume fractions starting from ϕ = 0.44, the limit between continuous and discontinuous shear-thickening regime, cavitation bubbles deform increasingly until they are replaced by cavitation-induced fracture between ϕ = 0.46 and ϕ = 0.52. Fracture propagation speeds were found to be in the same range as fracture speeds previously reported for pressure-driven cavity expansion, albeit for estimated initial pressures that are now orders of magnitude higher.
+
+Dynamics of a shocked bubble-encapsulated droplet
+Luc Biasiori-Poulanges, Guillaume T. Bokman, Enea Baumann and Outi Supponen
+Applied Physics Letters, vol. 120: no. 26, pp. 260601, American Institute of Physics, 2022.
+external page:
+DOI: 10.1063/5.0102009
+external page:
+Research Collection
+Abstract 
+
+Gas-encapsulated droplets have recently been promoted as an effective technique for fluid transport. Shock waves are herein proposed as an instant release mechanism for the encapsulated fluid, which subsequently discharges into the surroundings. This release process relies on the intricate bubble dynamics and droplet response to the shock driving, which are discovered through numerical and theoretical investigations. The key factors involved in the process, such as the complex shock pattern, pressure amplification, and the generation of a sheet jet cascade, are characterized. These observations are further supported by analytical models derived to predict the water hammer pressure, sheet jet velocity, and droplet drift.
+
+The effect of size range on ultrasound-induced translations in microbubble populations
+Outi Supponen, Awaneesh Upadhyay, Jordan Lum, Francesco Guidi, Todd Murray, Hendrik J. Vos, Piero Tortoli and Mark Borden
+The Journal of the Acoustical Society of America, vol. 147: no. 5, pp. 3236-3247, American Institute of Physics, 2020.
+external page:
+DOI: 10.1121/10.0001172
+external page:
+Research Collection
+Abstract 
+
+Microbubble translations driven by ultrasound-induced radiation forces can be beneficial for applications in ultrasound molecular imaging and drug delivery. Here, the effect of size range in microbubble populations on their translations is investigated experimentally and theoretically. The displacements within five distinct size-isolated microbubble populations are driven by a standard ultrasound-imaging probe at frequencies ranging from 3 to 7 MHz, and measured using the multi-gate spectral Doppler approach. Peak microbubble displacements, reaching up to 10 μm per pulse, are found to describe transient phenomena from the resonant proportion of each bubble population. The overall trend of the statistical behavior of the bubble displacements, quantified by the total number of identified displacements, reveals significant differences between the bubble populations as a function of the transmission frequency. A good agreement is found between the experiments and theory that includes a model parameter fit, which is further supported by separate measurements of individual microbubbles to characterize the viscoelasticity of their stabilizing lipid shell. These findings may help to tune the microbubble size distribution and ultrasound transmission parameters to optimize the radiation-force translations. They also demonstrate a simple technique to characterize the microbubble shell viscosity, the fitted model parameter, from freely floating microbubble populations using a standard ultrasound-imaging probe.
+
+Previous
+Next
+Related content
+Fundamentals
+Biomedical Applications
+Engineering Applications
+Measurement Techniques
+Group Supponen
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+ 
+Phone
++41 44 632 26 47
+Email
+ifd@mavt.ethz.ch
+
+Institute of Fluid Dynamics
+Sonneggstrasse 3
+8092 Zürich
+Switzerland
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Institute of Fluid Dynamics
+Main Navigation
+Events
+The Institute
+People
+Education
+Research
+Infrastructure
+Search
+Departments
+ETH Zurich
+D-MAVT
+IFD
+Language Selection
+English
+You are here
+Homepage
+Research
+Group Supponen
+Publications
+Publications Group Prof. Supponen
+Page 4 loaded
+31 – 40 of 44
+Microbubble Radiation Force-Induced Translation in Plane-Wave Versus Focused Transmission Modes
+Francesco Guidi, Outi Supponen, Awaneesh Upadhyay, Hendrik J. Vos, Mark Andrew Borden and Piero Tortoli
+IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 66: no. 12, pp. 1856-1865, IEEE, 2019.
+external page:
+DOI: 10.1109/tuffc.2019.2937158
+external page:
+Research Collection
+Abstract 
+
+Due to the primary radiation force, microbubble displacement has been observed previously in the focal region of single-element and array ultrasound probes. This effect has been harnessed to increase the contact between the microbubbles and targeted endothelium for drug delivery and ultrasound molecular imaging. In this study, microbubble displacements associated with plane-wave (PW) transmission are thoroughly investigated and compared to those obtained in focused-wave (FW) transmission over a range of pulse repetition frequencies, burst lengths (BLs), peak negative pressures, and transmission frequencies. In PW mode, the displacements, depending upon the experimental conditions, are in some cases consistently higher (e.g., by 28%, when the longest BL was used at PRF = 4 kHz), and the axial displacements are spatially more uniform compared to FW mode. Statistical analysis on the measured displacements reveals a slightly different frequency dependence of statistical quantities compared to transient peak microbubble displacements, which may suggest the need to consider the size range within the tested microbubble population.
+
+Gravity-Independent Oscillate Boiling
+Dang Minh Nguyen, Outi Supponen, Jianmin Miao, Mohamed Farhat and Claus-Dieter Ohl
+Microgravity science and technology, vol. 31: no. 6, pp. 767-773, Springer, 2019.
+external page:
+DOI: 10.1007/s12217-019-09708-8
+external page:
+Research Collection
+Abstract 
+
+Heat transfer in nucleate boiling relies on the detachment and rise of the boiling bubble, in which gravity plays the dominant role. Previous studies showed that in the absence of gravity, the bubble fails to rise, causing the dryout of the heater and significantly reducing the thermal efficiency of nucleate boiling. Recently, a new boiling regime termed oscillate boiling was discovered. By localizing thermal energy as high as 50 mW into an area as small as 15 × 15μm², a boiling bubble is formed and oscillate at high frequency while remaining pinned at the heating spot. This regime was proposed to be independent of buoyancy as its operation does not involves the detachment and rise of the boiling bubble. To test this hypothesis, we compared experimental observations of oscillate boiling in low gravity, normal gravity and hyper gravity. The results support the hypothesis and promote its potential for outer-space heat transfer application.
+
+Detailed experiments on weakly deformed cavitation bubbles
+Outi Supponen, Danail Obreschkow, Philippe Kobel, Nicolas Dorsaz and Mohamed Farhat
+Experiments in Fluids, vol. 60: no. 2, pp. 33, Springer, 2019.
+external page:
+DOI: 10.1007/s00348-019-2679-4
+external page:
+Research Collection
+High-speed imaging of high pressures produced by cavitation bubbles
+Outi Supponen, Danail Obreschkow and Mohamed Farhat
+32nd International Congress on High-Speed Imaging and Photonics (ICHSIP 2018), Enschede, Netherlands, pp.1105103 Bellingham, WA: SPIE, October 8-12, 2018.
+external page:
+DOI: 10.1117/12.2523259
+external page:
+Research Collection
+Abstract 
+
+Cavitation bubbles, when correctly tuned, may provide interesting mechanical and chemical effects to their surroundings owing to their violent collapse. Such an event may produce high-speed liquid jetting, extreme heating, as well as pressures of thousands of atmospheres. These phenomena are responsible for the severe erosion harming hydraulic machinery, but they also present interesting traits to harness in cleaning, sonochemistry, biomedical applications, among others. Here, we present experimental observations on the high pressures produced by spherically collapsing cavitation bubbles. Filming at 10 million frames/s allows for the disclosure of details on the high pressures (kbar-level) in the liquid near the bubble in its final collapse stages that precede the shock wave emission, confirming the century-old prediction of Lord Rayleigh.
+
+Jetting from cavitation bubbles due to multiple shockwaves
+Outi Supponen, Takahito Akimura, Tomoya Minami, Tomoki Nakajima, Satoshi Uehara, Kiyonobu Ohtani, Toshiro Kaneko, Mohamed Farhat and Takehiko Sato
+Applied Physics Letters, vol. 113: no. 19, pp. 193703, American Institute of Physics, 2018.
+external page:
+DOI: 10.1063/1.5060645
+external page:
+Research Collection
+Abstract 
+
+We present experimental observations of microjets formed by cavitation microbubbles. Anunderwater electric discharge, applied beneath a flat free surface, produces a primary compressionwave, which undergoes several phase inversions upon reflections from the free surface and spark-bubble interface. The first reflection yields a tension wave, which produces a cloud of secondarycavitation bubbles in the liquid, some of which form microjets upon collapse. The tuning of thesereflections enables an effective control of the microjet direction in the bubble cloud. All of the jetsof the microbubbles between the spark bubble and free surface are directed radially away from thespark bubble. The mechanical response of an alumina plate placed between the electrodes and freesurface generates a quasi-planar compression wave, which, following its multiple reflections fromthe free surface and plate, orients the microjets in the same direction toward the plate. These obser-vations imply that the jet direction is determined mainly by the secondary compression wave,which is the first and thus most energetic compression wave acting on a sufficiently grown cavita-tion bubble.
+
+Rebounds of deformed cavitation bubbles
+Outi Supponen, Danail Obreschkow and Mohamed Farhat
+Physical Review Fluids, vol. 3: no. 10, pp. 103604, American Physical Society, 2018.
+external page:
+DOI: 10.1103/physrevfluids.3.103604
+external page:
+Research Collection
+Abstract 
+
+Presented here are experiments clarifying how the deformation of cavitation bubbles affects their rebound. Rebound bubbles carry the remaining energy of a bubble following its initial collapse, which dissipates energy mainly through shock waves, jets, and heat. The rebound bubble undergoes its own collapse, generating such violent events anew, which can be even more damaging or effective than at first bubble collapse. However, modeling rebound bubbles is an ongoing challenge because of the lack of knowledge on the exact factors affecting their formation. Here we use single-laser-induced cavitation bubbles and deform them by variable gravity or by a neighboring free surface to quantify the effect of bubble deformation on the rebound bubbles. Within a wide range of deformations, the energy of the rebound bubble follows a logarithmic increase with the bubble's initial dipole deformation, regardless of the origin of this deformation.
+
+Luminescence from cavitation bubbles deformed in uniform pressure gradients
+Outi Supponen, Danail Obreschkow, Philippe Kobel and Mohamed Farhat
+Physical Review E, vol. 96: no. 3, pp. 033114, American Physical Society, 2017.
+external page:
+DOI: 10.1103/physreve.96.033114
+external page:
+Research Collection
+Shock waves from nonspherical cavitation bubbles
+Outi Supponen, Danail Obreschkow, Philippe Kobel, Marc Tinguely, Nicolas Dorsaz and Mohamed Farhat
+Physical Review Fluids, vol. 2: no. 9, pp. 093601, American Physical Society, 2017.
+external page:
+DOI: 10.1103/physrevfluids.2.093601
+external page:
+Research Collection
+Scaling laws for jets of single cavitation bubbles
+Outi Supponen, Danail Obreschkow, Marc Tinguely, Philippe Kobel, Nicolas Dorsaz and Mohamed Farhat
+Journal of Fluid Mechanics, vol. 802, pp. 263-293, Cambridge University Press, 2016.
+external page:
+DOI: 10.1017/jfm.2016.463
+external page:
+Research Collection
+Abstract 
+
+Fast liquid jets, called micro-jets, are produced within cavitation bubbles experiencing an aspherical collapse. Here we review micro-jets of different origins, scales and appearances, and propose a unified framework to describe their dynamics by using an anisotropy parameter ζ > 0, representing a dimensionless measure of the liquid momentum at the collapse point (Kelvin impulse). This parameter is rigorously defined for various jet drivers, including gravity and nearby boundaries. Combining theoretical considerations with hundreds of high-speed visualisations of bubbles collapsing near a rigid surface, near a free surface or in variable gravity, we classify the jets into three distinct regimes: weak, intermediate and strong. Weak jets (ζ < 10⁻³) hardly pierce the bubble, but remain within it throughout the collapse and rebound. Intermediate jets (10⁻³ < ζ < 0:1) pierce the opposite bubble wall close to the last collapse phase and clearly emerge during the rebound. Strong jets (ζ > 0:1) pierce the bubble early during the collapse. The dynamics of the jets is analysed through key observables, such as the jet impact time, jet speed, bubble displacement, bubble volume at jet impact and vapour-jet volume. We find that, upon normalising these observables to dimensionless jet parameters, they all reduce to straightforward functions of ζ , which we can reproduce numerically using potential flow theory. An interesting consequence of this result is that a measurement of a single observable, such as the bubble displacement, suffices to estimate any other parameter, such as the jet speed. Remarkably, the dimensionless parameters of intermediate and weak jets (ζ < 0:1) depend only on ζ , not on the jet driver (i.e. gravity or boundaries). In the same regime, the jet parameters are found to be well approximated by power laws of ζ , which we explain through analytical arguments.
+
+Simulation of bubble expansion and collapse in the vicinity of a free surface
+Phoevos Koukouvinis, Manolis Gavaises, Outi Supponen and Mohamed Farhat
+Physics of Fluids, vol. 28: no. 5, pp. 052103, American Institute of Physics, 2016.
+external page:
+DOI: 10.1063/1.4949354
+external page:
+Research Collection
+Abstract 
+
+The present paper focuses on the numerical simulation of the interaction of laser-generated bubbles with a free surface, including comparison of the results with instances from high-speed videos of the experiment. The Volume Of Fluid method was employed for tracking liquid and gas phases while compressibility effects were introduced with appropriate equations of state for each phase. Initial conditions of the bubble pressure were estimated through the traditional Rayleigh Plesset equation. The simulated bubble expands in a non-spherically symmetric way due to the interference of the free surface, obtaining an oval shape at the maximum size. During collapse, a jet with mushroom cap is formed at the axis of symmetry with the same direction as the gravity vector, which splits the initial bubble to an agglomeration of toroidal structures. Overall, the simulation results are in agreement with the experimental images, both quantitatively and qualitatively, while pressure waves are predicted both during the expansion and the collapse of the bubble. Minor discrepancies in the jet velocity and collapse rate are found and are attributed to the thermodynamic closure of the gas inside the bubble.
+
+Previous
+Next
+Related content
+Fundamentals
+Biomedical Applications
+Engineering Applications
+Measurement Techniques
+Group Supponen
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+ 
+Phone
++41 44 632 26 47
+Email
+ifd@mavt.ethz.ch
+
+Institute of Fluid Dynamics
+Sonneggstrasse 3
+8092 Zürich
+Switzerland
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Institute of Fluid Dynamics
+Main Navigation
+Events
+The Institute
+People
+Education
+Research
+Infrastructure
+Search
+Departments
+ETH Zurich
+D-MAVT
+IFD
+Language Selection
+English
+You are here
+Homepage
+Research
+Group Supponen
+Publications
+Publications Group Prof. Supponen
+Page 5 loaded
+41 – 44 of 44
+Numerical simulation of a collapsing bubble subject to gravity
+Phoevos Koukouvinis, Manolis Gavaises, Outi Supponen and Mohamed Farhat
+Physics of Fluids, vol. 28: no. 3, pp. 032110, American Institute of Physics, 2016.
+external page:
+DOI: 10.1063/1.4944561
+external page:
+Research Collection
+Abstract 
+
+The present paper focuses on the simulation of the expansion and aspherical collapse of a laser-generated bubble subjected to an acceleration field and comparison of the results with instances from high-speed videos. The interaction of the liquid and gas is handled with the volume of fluid method. Compressibility effects have been included for each phase to predict the propagation of pressure waves. Initial conditions were estimated through the Rayleigh Plesset equation, based on the maximum bubble size and collapse time. The simulation predictions indicate that during the expansion the bubble shape is very close to spherical. On the other hand, during the collapse the bubble point closest to the bottom of the container develops a slightly higher collapse velocity than the rest of the bubble surface. Over time, this causes momentum focusing and leads to a positive feedback mechanism that amplifies the collapse locally. At the latest collapse stages, a jet is formed at the axis of symmetry, with opposite direction to the acceleration vector, reaching velocities of even 300 m/s. The simulation results agree with the observed bubble evolution and pattern from the experiments, obtained using high speed imaging, showing the collapse mechanism in great detail and clarity.
+
+The inner world of a collapsing bubble
+Outi Supponen, Philippe Kobel, Danail Obreschkow and Mohamed Farhat
+Physics of Fluids, vol. 27: no. 9, pp. 091113, American Institute of Physics, 2015.
+external page:
+DOI: 10.1063/1.4931098
+external page:
+Research Collection
+Geometrical influence on vortex shedding in turbulent axisymmetric wakes
+Jovan Nedić, Outi Supponen, Bharathram Ganapathisubramani and John Christos Vassilicos
+Physics of Fluids, vol. 27: no. 3, pp. 035103, American Institute of Physics, 2015.
+external page:
+DOI: 10.1063/1.4913573
+external page:
+Research Collection
+Abstract 
+
+We investigate the structures generated by the vortex shedding mechanism in turbulent axisymmetric wakes of non-axisymmetric plates, including a square plate and a series of fractal plates, and compare the results to a disk. For a given characteristic length ℓ, all plates have the same frontal area A, since ℓ = A0.5, but the length of the perimeter and the irregularity of the perimeter were varied in a fractal manner thus allowing us to investigate the effect of boundary conditions. Measurements were taken over a large range of downstream and radial distances in order to obtain a more robust measure for the vortex shedding energy. It was found that the fractal plates are able to reduce the vortex shedding energy by as much as 60% compared to the disk and square plates. It was also found that the frequency at which the vortex shedding structures are generated and the manner in which they organise themselves in the wake are independent of the boundary conditions of the wake generator. The results suggest that the main function of the multi-scale segments around the perimeter of the plates is to re-distribute the energy to a broader range of scales in the flow, which could explain the previously observed increase in drag coefficient for the fractal edged plates.
+
+Detailed Jet Dynamics in a Collapsing Bubble
+Outi Supponen, Danail Obreschkow, Philippe Kobel and Mohamed Farhat
+9th International Symposium on Cavitation (CAV2015), Lausanne, Switzerland, pp.012038 Bristol: IOP Publishing, December 6-10, 2015.
+external page:
+DOI: 10.1088/1742-6596/656/1/012038
+external page:
+Research Collection
+Abstract 
+
+We present detailed visualizations of the micro-jet forming inside an aspherically collapsing cavitation bubble near a free surface. The high-quality visualizations of large and strongly deformed bubbles disclose so far unseen features of the dynamics inside the bubble, such as a mushroom-like flattened jet-tip, crown formation and micro-droplets. We also find that jetting near a free surface reduces the collapse time relative to the Rayleigh time.
+
+Previous
+Next
+Related content
+Fundamentals
+Biomedical Applications
+Engineering Applications
+Measurement Techniques
+Group Supponen
+Footer
+Search
+Keyword or person
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+ 
+Phone
++41 44 632 26 47
+Email
+ifd@mavt.ethz.ch
+
+Institute of Fluid Dynamics
+Sonneggstrasse 3
+8092 Zürich
+Switzerland
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich

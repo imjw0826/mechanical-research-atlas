@@ -1,0 +1,1790 @@
+{
+  "university": "ETH Zurich",
+  "university_key": "eth",
+  "pi": "Kristina Shea",
+  "lab_name": null,
+  "lab_url": "https://ifd.ethz.ch/research/group-supponen.html",
+  "publication_urls": [
+    "https://edac.ethz.ch/publications-and-awards/journal-articles.html",
+    "https://edac.ethz.ch/publications-and-awards/conference-contributions.html",
+    "https://edac.ethz.ch/publications-and-awards.html",
+    "https://edac.ethz.ch/publications-and-awards/books.html"
+  ],
+  "accessed_at": "2026-11-12T15:15:25.475850+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "A Product Life Cycle Approach to Medical Device Development for Low-Resource Settings – A Systematic Literature Review Validated in Bolivia",
+      "year": 2026,
+      "citation_raw": "A Product Life Cycle Approach to Medical Device Development for Low-Resource Settings – A Systematic Literature Review Validated in Bolivia Milena Overhoff, Fabio Richard Diaz Palacios, Thomas S. Lumpe and Kristina Shea Journal of Mechanical Design, vol. 148: no. 9, pp. 091402, American Society of Mechanical Engineers, 2026.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Data-driven surrogate material model for the mechanical simulation of additively manufactured architected weaves",
+      "year": 2026,
+      "citation_raw": "Data-driven surrogate material model for the mechanical simulation of additively manufactured architected weaves Marc Wirth and Kristina Shea Advanced Engineering Informatics, vol. 74, pp. 104661, Elsevier, 2026.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Experimental performance and spatiotemporal control of solar-powered thermo-pneumatic actuation for adaptive shading in outdoor conditions",
+      "year": 2026,
+      "citation_raw": "Experimental performance and spatiotemporal control of solar-powered thermo-pneumatic actuation for adaptive shading in outdoor conditions Rafaela Louis and Kristina Shea Smart Materials and Structures, vol. 35: no. 7, pp. 075026, IOP Publishing, 2026.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Inverse design of personalized textiles with architected curved yarns",
+      "year": 2026,
+      "citation_raw": "Inverse design of personalized textiles with architected curved yarns Marc Wirth and Kristina Shea Materials & Design, vol. 267, pp. 116330, Elsevier, 2026.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computational design synthesis of multi-state, 4D printed, architected active composites",
+      "year": 2026,
+      "citation_raw": "Computational design synthesis of multi-state, 4D printed, architected active composites Andreas Walker and Kristina Shea Smart Materials and Structures, vol. 35: no. 5, pp. 055049, Bristol: IOP Publishing, 2026.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Shear behavior and centrifuge seismic modeling of a sustainable corbel dwelling with interlocking blocks",
+      "year": 2026,
+      "citation_raw": "Shear behavior and centrifuge seismic modeling of a sustainable corbel dwelling with interlocking blocks Medhat Elmorsy, Dimitra Adamopoulou, Yu Zhang, Kristina Shea, Liam Alexander Jones, Ioannis Anastasopoulos and Michalis F. Vassiliou Construction and Building Materials, vol. 515, pp. 145553, Elsevier, 2026.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Passively controlled continuous solar tracking",
+      "year": 2026,
+      "citation_raw": "Passively controlled continuous solar tracking Joël Chapuis and Kristina Shea Smart Materials and Structures, vol. 35: no. 3, pp. 035033, IOP Publishing, 2026.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Library-Based Design Space Exploration of 4D Printed Architected Active Composites",
+      "year": 2026,
+      "citation_raw": "Library-Based Design Space Exploration of 4D Printed Architected Active Composites Andreas Walker and Kristina Shea Journal of Mechanical Design, vol. 148: no. 3, pp. 031704, American Society of Mechanical Engineers, 2026.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computational design of foldable origami-based compressive ultrasound sensing",
+      "year": 2026,
+      "citation_raw": "Computational design of foldable origami-based compressive ultrasound sensing Nicolas Hochuli, Tim Wünsch, Weiye Li, Xiaohan Han, Daniel Razansky, Tino Stankovic and Héctor Andrés Estrada Beltran Scientific Reports, vol. 16: no. 1, pp. 6839, Nature, 2026.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Expanding the Generative Power of Large Language Models (LLMs) for Design through Formal Design Grammars and Languages",
+      "year": 2025,
+      "citation_raw": "Expanding the Generative Power of Large Language Models (LLMs) for Design through Formal Design Grammars and Languages Kristina Shea, Tino Stankovic, Akash Agrawal, Jonathan Cagan and Christopher McComb Journal of Computing and Information Science in Engineering, vol. 25: no. 12, pp. 120802, American Society of Mechanical Engineers, 2025.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Inverse design of stochastic, voxelated thermo-viscoelastic digital materials",
+      "year": 2025,
+      "citation_raw": "Inverse design of stochastic, voxelated thermo-viscoelastic digital materials Marc Wirth, Joël Chapuis and Kristina Shea Nature Communications, vol. 16: no. 1, pp. 11705, Nature, 2025.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Inverse Design of Origami for Trajectory Following Using Deep Learning",
+      "year": 2025,
+      "citation_raw": "Inverse Design of Origami for Trajectory Following Using Deep Learning Nicolas Hochuli and Tino Stankovic Journal of Mechanisms and Robotics, vol. 17: no. 9, pp. 091014, American Society of Mechanical Engineers, 2025.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Customizing designs with minimum resources: An accessible and sustainable fabrication process for bespoke, compressed earth blocks using additively manufactured molds",
+      "year": 2025,
+      "citation_raw": "Customizing designs with minimum resources: An accessible and sustainable fabrication process for bespoke, compressed earth blocks using additively manufactured molds Yu Zhang, Liz Tatarintseva, Tom Clewlow, Ed Clark, Gianni Botsford and Kristina Shea Journal of Building Engineering, vol. 108, pp. 112904, Elsevier, 2025.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Iterative Development and Verification of 37 Design Heuristics for the Design of Medical Devices for Low-Resource Settings",
+      "year": 2025,
+      "citation_raw": "Iterative Development and Verification of 37 Design Heuristics for the Design of Medical Devices for Low-Resource Settings Milena Overhoff and Kristina Shea Journal of Mechanical Design, vol. 147: no. 8, pp. 081401, American Society of Mechanical Engineers, 2025.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Thermo-viscoelastic laminate-based finite element modeling of fused filament fabrication direct 4D printing",
+      "year": 2025,
+      "citation_raw": "Thermo-viscoelastic laminate-based finite element modeling of fused filament fabrication direct 4D printing Joël Chapuis, Gian Teufen and Kristina Shea Smart Materials and Structures, vol. 34: no. 7, pp. 075034, IOP Publishing, 2025.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Special Issue: Design by Data: Cultivating Datasets for Engineering Design",
+      "year": 2025,
+      "citation_raw": "Special Issue: Design by Data: Cultivating Datasets for Engineering Design Faez Ahmed, Cyril Picard, Wei Chen, Christopher McComb, Pingfeng Wang, Ikjin Lee, Tino Stankovic, Douglas Allaire and Stefan Menzel Journal of Mechanical Design, vol. 147: no. 4, pp. 040301, American Society of Mechanical Engineers, 2025.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Solar-powered thermo-pneumatic actuators for passively controlled adaptive shading",
+      "year": 2024,
+      "citation_raw": "Solar-powered thermo-pneumatic actuators for passively controlled adaptive shading Rafaela Louis and Kristina Shea Smart Materials and Structures, vol. 33: no. 12, pp. 125034, IOP Publishing, 2024.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computational design of 4D printed shape morphing lattices undergoing large deformation",
+      "year": 2024,
+      "citation_raw": "Computational design of 4D printed shape morphing lattices undergoing large deformation Andreas Walker and Kristina Shea Smart Materials and Structures, vol. 33: no. 11, pp. 115047, IOP Publishing, 2024.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "EDACFEM: A linear truss and beam solver in MATLAB",
+      "year": 2024,
+      "citation_raw": "EDACFEM: A linear truss and beam solver in MATLAB Joël Chapuis, Marc Wirth, Andreas Walker, Jonas Schwarz, Thomas S. Lumpe, Tian Chen and Tino Stankovic SoftwareX, vol. 27, pp. 101817, Elsevier, 2024.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computational Design of 2D Lattice Structures Based on Crystallographic Symmetries",
+      "year": 2024,
+      "citation_raw": "Computational Design of 2D Lattice Structures Based on Crystallographic Symmetries Alfred Leuenberger, Eliott Birner, Thomas S. Lumpe and Tino Stankovic Journal of Mechanical Design, vol. 146: no. 7, pp. 071703, American Society of Mechanical Engineers, 2024.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A vision for sustainable additive manufacturing",
+      "year": 2024,
+      "citation_raw": "A vision for sustainable additive manufacturing Serena Graziosi, Jeremy Faludi, Tino Stankovic, Yuri Borgianni, Nicholas Meisel, Sophie I. Hallstedt and David W. Rosen Nature Sustainability, vol. 7: no. 6, pp. 698-705, Nature, 2024.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "The Application of a Multi-Material Flexible Chain Mail for the Design of an Artificial Spinal Disc to Reproduce Natural Nonlinear and Anisotropic Rotational Behavior",
+      "year": 2023,
+      "citation_raw": "The Application of a Multi-Material Flexible Chain Mail for the Design of an Artificial Spinal Disc to Reproduce Natural Nonlinear and Anisotropic Rotational Behavior Zhiyang Yu, Kristina Shea and Tino Stankovic 3D Printing and Additive Manufacturing, vol. 10: no. 6, pp. 1238-1250, Mary Ann Liebert, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Shape reconfiguring bistable structures using heat activated fibers",
+      "year": 2023,
+      "citation_raw": "Shape reconfiguring bistable structures using heat activated fibers Mattis Koh, Yue Wang, Kristina Shea and Tian Chen Engineering Structures, vol. 295, pp. 116792, Elsevier, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Advancing Design for Additive Manufacturing Education: A Focus on Computational Skills and Competencies",
+      "year": 2023,
+      "citation_raw": "Advancing Design for Additive Manufacturing Education: A Focus on Computational Skills and Competencies Serena Graziosi, Jun Wu, Zjenja Doubrovski, Nicholas Meisel, Martin Schütz and Tino Stankovic ETH Learning and Teaching Journal, vol. 4: no. 1, pp. 5-21, ETH Zurich, Educational Development and Technology, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Redeployable, 4D Printed Wave Spring Actuators",
+      "year": 2023,
+      "citation_raw": "Redeployable, 4D Printed Wave Spring Actuators Joël Chapuis and Kristina Shea Materials & Design, vol. 232, pp. 112163, Elsevier, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computational Design of Multi-State Lattice Structures With Finite Mechanisms for Shape Morphing",
+      "year": 2023,
+      "citation_raw": "Computational Design of Multi-State Lattice Structures With Finite Mechanisms for Shape Morphing Thomas S. Lumpe and Kristina Shea Journal of Mechanical Design, vol. 145: no. 7, pp. 071701, American Society of Mechanical Engineers, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A template design and automated parametric model for sustainable corbel dwellings with interlocking blocks",
+      "year": 2023,
+      "citation_raw": "A template design and automated parametric model for sustainable corbel dwellings with interlocking blocks Yu Zhang, Liz Tatarintseva, Tom Clewlow, Ed Clark, Gianni Botsford and Kristina Shea Developments in the Built Environment, vol. 14, pp. 100148, Elsevier, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Artificial neural network supported design of a lattice-based artificial spinal disc for restoring patient-specific anisotropic behaviors",
+      "year": 2023,
+      "citation_raw": "Artificial neural network supported design of a lattice-based artificial spinal disc for restoring patient-specific anisotropic behaviors Zhiyang Yu, Prakash Thakolkaran, Kristina Shea and Tino Stankovic Computers in Biology and Medicine, vol. 152, pp. 106475, Pergamon, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "3D-printing textiles: multi-stage mechanical characterization of additively manufactured biaxial weaves",
+      "year": 2023,
+      "citation_raw": "3D-printing textiles: multi-stage mechanical characterization of additively manufactured biaxial weaves Marc Wirth, Kristina Shea and Tian Chen Materials & Design, vol. 225, pp. 111449, Elsevier, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computational design and fabrication of active 3D-printed multi-state structures for shape morphing",
+      "year": 2023,
+      "citation_raw": "Computational design and fabrication of active 3D-printed multi-state structures for shape morphing Thomas S. Lumpe, Michael Tao, Kristina Shea and David I.W. Levin Smart Materials and Structures, vol. 32: no. 1, pp. 015008, IOP Publishing, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Auxetic structures used in kinesiology tapes can improve form-fitting and personalization",
+      "year": 2022,
+      "citation_raw": "Auxetic structures used in kinesiology tapes can improve form-fitting and personalization Luna Meeusen, Sara Candidori, Laura Loredana Micoli, Gabriele Guidi, Tino Stankovic and Serena Graziosi Scientific Reports, vol. 12: no. 1, pp. 13509, Macmillan Publishers, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Co-Design of the Morphology and Actuation of Soft Robots for Locomotion",
+      "year": 2022,
+      "citation_raw": "Co-Design of the Morphology and Actuation of Soft Robots for Locomotion Merel van Diepen and Kristina Shea Journal of Mechanical Design, vol. 144: no. 8, pp. 083305, American Society of Mechanical Engineers, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A nonlinear optimization method for large shape morphing in 3D printed pneumatic lattice structures",
+      "year": 2022,
+      "citation_raw": "A nonlinear optimization method for large shape morphing in 3D printed pneumatic lattice structures Cosima Du Pasquier and Kristina Shea Smart Materials and Structures, vol. 31: no. 6, pp. 065016, IOP Publishing, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A Computational Design Synthesis Method for the Generation of Rigid Origami Crease Patterns",
+      "year": 2022,
+      "citation_raw": "A Computational Design Synthesis Method for the Generation of Rigid Origami Crease Patterns Luca Zimmermann, Kristina Shea and Tino Stankovic Journal of Mechanisms and Robotics, vol. 14: no. 3, pp. 031014, American Society of Mechanical Engineers, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computational design synthesis for Fabrication-Aware assembly problems using building objects with dimensional variations",
+      "year": 2022,
+      "citation_raw": "Computational design synthesis for Fabrication-Aware assembly problems using building objects with dimensional variations Yu Zhang and Kristina Shea Advanced Engineering Informatics, vol. 52, pp. 101621, Elsevier, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Method for identification and integration of design automation tasks in industrial contexts",
+      "year": 2022,
+      "citation_raw": "Method for identification and integration of design automation tasks in industrial contexts Eugen Rigger, Kristina Shea and Tino Stankovic Advanced Engineering Informatics, vol. 52, pp. 101558, Elsevier, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Validation of a nonlinear force method for large deformations in shape-morphing structures",
+      "year": 2022,
+      "citation_raw": "Validation of a nonlinear force method for large deformations in shape-morphing structures Cosima Du Pasquier and Kristina Shea Structural and Multidisciplinary Optimization, vol. 65: no. 3, pp. 87, Springer, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Algorithmic design of origami mechanisms and tessellations",
+      "year": 2022,
+      "citation_raw": "Algorithmic design of origami mechanisms and tessellations Andreas Walker and Tino Stankovic Communications Materials, vol. 3, pp. 4, Springer, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Industrial evaluation of design heuristics for additive manufacturing",
+      "year": 2022,
+      "citation_raw": "Industrial evaluation of design heuristics for additive manufacturing Alexandra Blösch-Paidosh and Kristina Shea Design Science, vol. 8, pp. E13, Cambridge University Press, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Mechanical properties of topological metamaterials",
+      "year": 2022,
+      "citation_raw": "Mechanical properties of topological metamaterials Joël Chapuis, Thomas S. Lumpe and Kristina Shea Extreme Mechanics Letters, vol. 55, pp. 101835, Elsevier, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Systematic Design, Control and Parametric Testing of an Automated Resuscitator Bag Mechanical Ventilator",
+      "year": 2021,
+      "citation_raw": "Systematic Design, Control and Parametric Testing of an Automated Resuscitator Bag Mechanical Ventilator Cosima Du Pasquier, Lukas Hewing, Nicola Steffen, Thomas S. Lumpe, Nikolaos Tachatos, Marcel Menner, Marianne Schmid Daners, Andrea Carron, Melanie N. Zeilinger and Kristina Shea Journal of Mechanical Design, vol. 143: no. 12, pp. 125001, American Society of Mechanical Engineers, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Dataset of angular and compressive responses of biomimetic artificial spinal discs fabricated using multi-material additive manufacturing",
+      "year": 2021,
+      "citation_raw": "Dataset of angular and compressive responses of biomimetic artificial spinal discs fabricated using multi-material additive manufacturing Zhiyang Yu, Benjamin Voumard, Kristina Shea and Tino Stankovic Data in Brief, vol. 39, pp. 107527, Elsevier, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Exploration of the influence of different biomimetic designs of 3D printed multi-material artificial spinal disc on the natural mechanics restoration",
+      "year": 2021,
+      "citation_raw": "Exploration of the influence of different biomimetic designs of 3D printed multi-material artificial spinal disc on the natural mechanics restoration Zhiyang Yu, Benjamin Voumard, Kristina Shea and Tino Stankovic Materials & Design, vol. 210, pp. 110046, Elsevier, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Actuator placement optimization in an active lattice structure using Generalized Pattern Search and verification",
+      "year": 2021,
+      "citation_raw": "Actuator placement optimization in an active lattice structure using Generalized Pattern Search and verification Cosima Du Pasquier and Kristina Shea Smart Materials and Structures, vol. 30: no. 11, pp. 115007, IOP Publishing, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Aufbruch in die vierte Dimension durch aktive Materialien",
+      "year": 2021,
+      "citation_raw": "Aufbruch in die vierte Dimension durch aktive Materialien Thomas Lumpe and Cosima Du Pasquier Der Konstrukteur, vol. 52: no. 10, pp. 44-45, Vereinigte Fachverlage, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Enhancing Creative Redesign through Multi-Modal Design Heuristics for Additive Manufacturing",
+      "year": 2021,
+      "citation_raw": "Enhancing Creative Redesign through Multi-Modal Design Heuristics for Additive Manufacturing Alexandra Blösch-Paidosh and Kristina Shea Journal of Mechanical Design, vol. 143: no. 10, pp. 102003, American Society of Mechanical Engineers, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Perspectives on multi-material additive manufacturing",
+      "year": 2021,
+      "citation_raw": "Perspectives on multi-material additive manufacturing Xiaoyu Zheng, Christopher Williams, Christopher M. Spadaccini and Kristina Shea Journal of Materials Research, vol. 36: no. 18, pp. 3549-3557, Materials Research Society, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computational design of 3D-printed active lattice structures for reversible shape morphing",
+      "year": 2021,
+      "citation_raw": "Computational design of 3D-printed active lattice structures for reversible shape morphing Thomas S. Lumpe and Kristina Shea Journal of Materials Research, vol. 36: no. 18, pp. 3642-3655, Springer, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A 4D printed active compliant hinge for potential space applications using shape memory alloys and polymers",
+      "year": 2021,
+      "citation_raw": "A 4D printed active compliant hinge for potential space applications using shape memory alloys and polymers Oleg Testoni, Thomas Lumpe, Jian-Lin Huang, Marius Wagner, Sampada Bodkhe, Zhenishbek Zhakypov, Ralph Spolenak, Jamie K. Paik, Paolo Ermanni, Luis Muñoz and Kristina Shea Smart Materials and Structures, vol. 30: no. 8, pp. 085004, The Electrochemical Society, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computational design of multi-stable, reconfigurable surfaces",
+      "year": 2021,
+      "citation_raw": "Computational design of multi-stable, reconfigurable surfaces Tian Chen and Kristina Shea Materials & Design, vol. 205, pp. 109688, Elsevier, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Printed Silicone Pneumatic Actuators for Soft Robotics",
+      "year": 2021,
+      "citation_raw": "Printed Silicone Pneumatic Actuators for Soft Robotics Bjorn Sparrman, Cosima Du Pasquier, Charles Thomsen, Shokofeh Darbari, Rami Rustom, Jared Laucks, Kristina Shea and Skylar Tibbits Additive Manufacturing, vol. 40, pp. 101860, Elsevier, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Exploring the property space of periodic cellular structures based on crystal networks",
+      "year": 2021,
+      "citation_raw": "Exploring the property space of periodic cellular structures based on crystal networks Thomas S. Lumpe and Tino Stankovic Proceedings of the National Academy of Sciences of the United States of America, vol. 118: no. 7, pp. e2003504118, National Academy of Sciences, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Investigation of a Voronoi Diagram Representation for the Computational Design of Additively Manufactured Discrete Lattice Structures",
+      "year": 2020,
+      "citation_raw": "Investigation of a Voronoi Diagram Representation for the Computational Design of Additively Manufactured Discrete Lattice Structures Tino Stankovic and Kristina Shea Journal of Mechanical Design, vol. 142: no. 11, pp. 111704, American Society of Mechanical Engineers, 2020.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Topology Optimization of Rigid-Body Systems Considering Collision Avoidance",
+      "year": 2020,
+      "citation_raw": "Topology Optimization of Rigid-Body Systems Considering Collision Avoidance Fritz Stöckli and Kristina Shea Journal of Mechanical Design, vol. 142: no. 8, pp. 081705, American Society of Mechanical Engineers, 2020.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Rigid and Flat Foldability of a Degree-Four Vertex in Origami",
+      "year": 2020,
+      "citation_raw": "Rigid and Flat Foldability of a Degree-Four Vertex in Origami Luca Zimmermann and Tino Stankovic Journal of Mechanisms and Robotics, vol. 12: no. 1, pp. 011004, American Society of Mechanical Engineers, 2020.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Conditions for Rigid and Flat Foldability of Degree-n Vertices in Origami",
+      "year": 2020,
+      "citation_raw": "Conditions for Rigid and Flat Foldability of Degree-n Vertices in Origami Luca Zimmermann, Kristina Shea and Tino Stankovic Journal of Mechanisms and Robotics, vol. 12: no. 1, pp. 011020, American Society of Mechanical Engineers, 2020.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A top-down method for the derivation of metrics for the assessment of design automation potential",
+      "year": 2020,
+      "citation_raw": "A top-down method for the derivation of metrics for the assessment of design automation potential Eugen Rigger, Thomas Vosgien, Kristina Shea and Tino Stankovic Journal of Engineering Design, vol. 31: no. 2, pp. 69-99, Taylor & Francis, 2020.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Design and Computational Modeling of a 3D Printed Pneumatic Toolkit for Soft Robotics",
+      "year": 2019,
+      "citation_raw": "Design and Computational Modeling of a 3D Printed Pneumatic Toolkit for Soft Robotics Cosima Du Pasquier, Tian Chen, Skylar Tibbits and Kristina Shea Soft Robotics, vol. 6: no. 5, pp. 657-663, Mary Ann Liebert, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A spatial grammar method for the computational design synthesis of virtual soft locomotion robots",
+      "year": 2019,
+      "citation_raw": "A spatial grammar method for the computational design synthesis of virtual soft locomotion robots Merel Van Diepen and Kristina Shea Journal of Mechanical Design, vol. 141: no. 10, pp. 101402, American Society of Mechanical Engineers, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A Computational Method for the Design of an Additively Manufactured Personalized Artificial Spinal Disc With Physiological Stiffness Under Multiple Loading Conditions",
+      "year": 2019,
+      "citation_raw": "A Computational Method for the Design of an Additively Manufactured Personalized Artificial Spinal Disc With Physiological Stiffness Under Multiple Loading Conditions Zhiyang Yu, Kristina Shea and Tino Stankovic Journal of Mechanical Design, vol. 141: no. 10, pp. 101406, American Society of Mechanical Engineers, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Energy Absorption Properties of Periodic and Stochastic 3D Lattice Materials",
+      "year": 2019,
+      "citation_raw": "Energy Absorption Properties of Periodic and Stochastic 3D Lattice Materials Jochen Mueller, Kathryn H. Matlack, Kristina Shea and Chiara Daraio Advanced Theory and Simulations, vol. 2: no. 10, pp. 1900081, Wiley, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Autonomous Deployment of a Solar Panel Using Elastic Origami and Distributed Shape-Memory-Polymer Actuators",
+      "year": 2019,
+      "citation_raw": "Autonomous Deployment of a Solar Panel Using Elastic Origami and Distributed Shape-Memory-Polymer Actuators Tian Chen, Osama R. Bilal, Robert Lang, Chiara Daraio and Kristina Shea Physical Review Applied, vol. 11: no. 6, pp. 064069, American Physical Society, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A Heuristic Algorithm for Rigid Foldability",
+      "year": 2019,
+      "citation_raw": "A Heuristic Algorithm for Rigid Foldability Luca Zimmermann, Kristina Shea and Tino Stankovic Journal of Mechanisms and Robotics, vol. 11: no. 3, pp. 031004, American Society of Mechanical Engineers, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "active lattice structures: Unifying stretch-dominated and bending-dominated topologies",
+      "year": 2019,
+      "citation_raw": "Programmable, active lattice structures: Unifying stretch-dominated and bending-dominated topologies Marius A. Wagner, Thomas S. Lumpe, Tian Chen and Kristina Shea Extreme Mechanics Letters, vol. 29, pp. 100461, Elsevier, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Design Heuristics for Additive Manufacturing Validated Through a User Study",
+      "year": 2019,
+      "citation_raw": "Design Heuristics for Additive Manufacturing Validated Through a User Study Alexandra Blösch-Paidosh and Kristina Shea Journal of Mechanical Design, vol. 141: no. 4, pp. 041101, American Society of Mechanical Engineers, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Mechanical and Biological Characterization of 3D Printed Lattices",
+      "year": 2019,
+      "citation_raw": "Mechanical and Biological Characterization of 3D Printed Lattices Paul Egan, Xiuyu Wang, Helen Greutert, Kristina Shea, Karin Wuertz-Kozak and Stephen Ferguson 3D Printing and Additive Manufacturing, vol. 6: no. 2, pp. 73-81, Mary Ann Liebert, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Mechanics of Three-Dimensional Printed Lattices for Biomedical Devices",
+      "year": 2019,
+      "citation_raw": "Mechanics of Three-Dimensional Printed Lattices for Biomedical Devices Paul F. Egan, Isabella Bauer, Kristina Shea and Stephen J. Ferguson Journal of Mechanical Design, vol. 141: no. 3, pp. 31703, American Society of Mechanical Engineers, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Tensile properties of multi-material interfaces in 3D printed parts",
+      "year": 2019,
+      "citation_raw": "Tensile properties of multi-material interfaces in 3D printed parts Thomas S. Lumpe, Jochen Mueller and Kristina Shea Materials & Design, vol. 162, pp. 1-9, Elsevier, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Implementation of Design Rules for Perception Into a Tool for Three-Dimensional Shape Generation Using a Shape Grammar and a Parametric Model",
+      "year": 2019,
+      "citation_raw": "Implementation of Design Rules for Perception Into a Tool for Three-Dimensional Shape Generation Using a Shape Grammar and a Parametric Model Marta Perez Mata, Saeema Ahmed-Kristensen and Kristina Shea Journal of Mechanical Design, vol. 14: no. 1, pp. 011101, American Society of Mechanical Engineers, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Jochen Mueller and Kristina Shea",
+      "year": 2018,
+      "citation_raw": "Buckling, build orientation, and scaling effects in 3D printed lattices Jochen Mueller and Kristina Shea Materials Today Communications, vol. 17, pp. 69-75, Elsevier, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Stiffness-independent Toughening of Beams through Coaxial Interfaces",
+      "year": 2018,
+      "citation_raw": "Stiffness-independent Toughening of Beams through Coaxial Interfaces Jochen Mueller, Jordan R. Raney, Dennis M. Kochmann and Kristina Shea Advanced Science, vol. 5: no. 11, pp. 1800728, Wiley, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Stepwise graded struts for maximizing energy absorption in lattices",
+      "year": 2018,
+      "citation_raw": "Stepwise graded struts for maximizing energy absorption in lattices Jochen Mueller and Kristina Shea Extreme Mechanics Letters, vol. 25, pp. 7-15, Elsevier, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Simulated tissue growth for 3D printed scaffolds",
+      "year": 2018,
+      "citation_raw": "Simulated tissue growth for 3D printed scaffolds Paul F. Egan, Kristina A. Shea and Stephen J. Ferguson Biomechanics and Modeling in Mechanobiology, vol. 17: no. 5, pp. 1481-1495, Springer, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Efficient size and shape optimization of truss structures subject to stress and local buckling constraints using sequential linear programming",
+      "year": 2018,
+      "citation_raw": "Efficient size and shape optimization of truss structures subject to stress and local buckling constraints using sequential linear programming Jonas Schwarz, Tian Chen, Kristina Shea and Tino Stankovic Structural and Multidisciplinary Optimization, vol. 58: no. 1, pp. 171-184, Springer, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Harnessing bistability for directional propulsion of soft, untethered robots",
+      "year": 2018,
+      "citation_raw": "Harnessing bistability for directional propulsion of soft, untethered robots Tian Chen, Osama R. Bilal, Kristina Shea and Chiara Daraio Proceedings of the National Academy of Sciences of the United States of America, vol. 115: no. 22, pp. 5698-5702, National Academy of Sciences, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A 3D, performance-driven generative design framework: automating the link from a 3D spatial grammar interpreter to structural finite element analysis and stochastic optimization",
+      "year": 2018,
+      "citation_raw": "A 3D, performance-driven generative design framework: automating the link from a 3D spatial grammar interpreter to structural finite element analysis and stochastic optimization Luca Zimmermann, Tian Chen and Kristina Shea Artificial intelligence for engineering design, analysis and manufacturing, vol. 32: no. 2, pp. 189-199, Cambridge University Press, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Rotational 3D printing of damage-tolerant composites with programmable mechanics",
+      "year": 2018,
+      "citation_raw": "Rotational 3D printing of damage-tolerant composites with programmable mechanics Jordan R. Raney, Brett G. Compton, Jochen Müller, Thomas J. Ober, Kristina Shea and Jennifer A. Lewis Proceedings of the National Academy of Sciences of the United States of America, vol. 115: no. 6, pp. 1198-1203, National Academy of Sciences, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Task categorisation for identification of design automation opportunities",
+      "year": 2018,
+      "citation_raw": "Task categorisation for identification of design automation opportunities Eugen Rigger, Kristina Shea and Tino Stankovic Journal of Engineering Design, vol. 29: no. 3, pp. 131-159, Taylor & Francis, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "An Autonomous Programmable Actuator and Shape Reconfigurable Structures Using Bistability and Shape Memory Polymers",
+      "year": 2018,
+      "citation_raw": "An Autonomous Programmable Actuator and Shape Reconfigurable Structures Using Bistability and Shape Memory Polymers Tian Chen and Kristina Shea 3D Printing and Additive Manufacturing, vol. 5: no. 2, pp. 91-101, Mary Ann Liebert, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Architected Lattices with High Stiffness and Toughness via Multicore-Shell 3D Printing",
+      "year": 2018,
+      "citation_raw": "Architected Lattices with High Stiffness and Toughness via Multicore-Shell 3D Printing Jochen Mueller, Jordan R. Raney, Kristina Shea and Jennifer A. Lewis Advanced Materials, pp. 1705001, Wiley-VCH, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Mechanical Properties of Interfaces in Inkjet 3D Printed Single- and Multi-Material Parts",
+      "year": 2017,
+      "citation_raw": "Mechanical Properties of Interfaces in Inkjet 3D Printed Single- and Multi-Material Parts Jochen Müller, Diana Courty, Manuel Spielhofer, Ralph Spolenak and Kristina Shea 3D Printing and Additive Manufacturing, vol. 4: no. 4, pp. 193-199, Mary Ann Liebert, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "The effect of anisotropy on the optimization of additively manufactured lattice structures",
+      "year": 2017,
+      "citation_raw": "The effect of anisotropy on the optimization of additively manufactured lattice structures Tino Stankovic, Jochen Müller and Kristina Shea Additive Manufacturing, vol. 17, pp. 67-76, Elsevier, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Large Shape Transforming 4D Auxetic Structures",
+      "year": 2017,
+      "citation_raw": "Large Shape Transforming 4D Auxetic Structures Marius Wagner, Tian Chen and Kristina Shea 3D Printing and Additive Manufacturing, vol. 4: no. 3, pp. 133-141, Mary Ann Liebert, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Automated Synthesis of Passive Dynamic Brachiating Robots Using a Simulation-Driven Graph Grammar Method",
+      "year": 2017,
+      "citation_raw": "Automated Synthesis of Passive Dynamic Brachiating Robots Using a Simulation-Driven Graph Grammar Method Fritz Stöckli and Kristina Shea Journal of Mechanical Design, vol. 139: no. 9, pp. 092301, American Society of Mechanical Engineers, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computationally designed lattices with tuned properties for tissue engineering using 3D printing",
+      "year": 2017,
+      "citation_raw": "Computationally designed lattices with tuned properties for tissue engineering using 3D printing Paul F. Egan, Veronica C. Gonella, Max Engensperger, Stephen J. Ferguson and Kristina Shea PLoS ONE, vol. 12: no. 8, pp. e0182902, PLOS, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Simulation-Based Computational Design Synthesis Using Automated Generation of Simulation Models From Concept Model Graphs",
+      "year": 2017,
+      "citation_raw": "Simulation-Based Computational Design Synthesis Using Automated Generation of Simulation Models From Concept Model Graphs Clemens Münzer and Kristina Shea Journal of Mechanical Design, vol. 139: no. 7, pp. 071101-1-071101-13, American Society of Mechanical Engineers, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Design of Hierarchical Three-Dimensional Printed Scaffolds Considering Mechanical and Biological Factors for Bone Tissue Engineering",
+      "year": 2017,
+      "citation_raw": "Design of Hierarchical Three-Dimensional Printed Scaffolds Considering Mechanical and Biological Factors for Bone Tissue Engineering Paul F. Egan, Stephen J. Ferguson and Kristina Shea Journal of Mechanical Design, vol. 139: no. 6, pp. 061401-1-061401-9, American Society of Mechanical Engineers, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Integrated Design and Simulation of Tunable, Multi-State Structures Fabricated Monolithically with Multi-Material 3D Printing",
+      "year": 2017,
+      "citation_raw": "Integrated Design and Simulation of Tunable, Multi-State Structures Fabricated Monolithically with Multi-Material 3D Printing Tian Chen, Jochen Müller and Kristina Shea Scientific Reports, vol. 7, pp. 45671, Nature, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "The D3 Methodology: Bridging Science and Design for Bio-Based Product Development",
+      "year": 2016,
+      "citation_raw": "The D3 Methodology: Bridging Science and Design for Bio-Based Product Development Paul Egan, Jonathan Cagan, Christian Schunn, Felix Chiu, Jeffrey Moore and Philip LeDuc Journal of Mechanical Design, vol. 138: no. 8, pp. 081101, American Society of Mechanical Engineers, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Designing passive dynamic walking robots for additive manufacture",
+      "year": 2016,
+      "citation_raw": "Designing passive dynamic walking robots for additive manufacture Fritz Stöckli, Fabio Modica and Kristina Shea Rapid Prototyping Journal, vol. 22: no. 5, pp. 842-847, Emerald, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Improving design grammar development and application through network-based analysis of transition graphs",
+      "year": 2016,
+      "citation_raw": "Improving design grammar development and application through network-based analysis of transition graphs Corinna Königseder, Tino Stankovic and Kristina Shea Design Science, vol. 2, pp. e5, Cambridge University Press, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Comparing Strategies for Topologic and Parametric Rule Application in Automated Computational Design Synthesis",
+      "year": 2016,
+      "citation_raw": "Comparing Strategies for Topologic and Parametric Rule Application in Automated Computational Design Synthesis Corinna Königseder and Kristina Shea Journal of Mechanical Design, vol. 138: no. 1, pp. 011102, American Society of Mechanical Engineers, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Mechanical properties of parts fabricated with inkjet 3D printing through efficient experimental design",
+      "year": 2015,
+      "citation_raw": "Mechanical properties of parts fabricated with inkjet 3D printing through efficient experimental design Jochen Mueller, Kristina Shea and Chiara Daraio Materials & Design, vol. 86, pp. 902-912, Elsevier, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Improving human understanding and design of complex multi-level systems with animation and parametric relationship supports",
+      "year": 2015,
+      "citation_raw": "Improving human understanding and design of complex multi-level systems with animation and parametric relationship supports Paul Egan, Christian Schunn, Jonathan Cagan and Philip LeDuc Design Science, vol. 1, pp. e3, Cambridge University Press, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A Generalized Optimality Criteria Method for Optimization of Additively Manufactured Multimaterial Lattice Structures",
+      "year": 2015,
+      "citation_raw": "A Generalized Optimality Criteria Method for Optimization of Additively Manufactured Multimaterial Lattice Structures Tino Stankovic, Jochen Mueller, Paul Egan and Kristina Shea Journal of Mechanical Design, vol. 137: no. 11, pp. 111405-1-111405-12, American Society of Mechanical Engineers, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Guest editorial: Computational design synthesis",
+      "year": 2014,
+      "citation_raw": "Guest editorial: Computational design synthesis Matthew I. Campbell and Kristina Shea AI EDAM, vol. 28: no. 3, pp. 207-208, Cambridge University Press, 2014.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Using visual information analysis to explore complex patterns in the activity of designers",
+      "year": 2014,
+      "citation_raw": "Using visual information analysis to explore complex patterns in the activity of designers Philip Cash, Tino Stankovic and Mario Štorga Design Studies, vol. 35: no. 1, pp. 1-28, Elsevier, 2014.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Fully Constrained Design: A general and scalable method for discrete member sizing optimization of steel truss structures",
+      "year": 2014,
+      "citation_raw": "Fully Constrained Design: A general and scalable method for discrete member sizing optimization of steel truss structures Forest Flager, Grant Soremekun, Akshay Adya, Kristina Shea, John Haymaker and Martin Fischer Computers & Structures, vol. 140, pp. 55-65, Elsevier, 2014.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Systematic rule analysis of generative design grammars",
+      "year": 2014,
+      "citation_raw": "Systematic rule analysis of generative design grammars Corinna Königseder and Kristina Shea AI EDAM, vol. 28: no. 3, pp. 227-238, Cambridge University Press, 2014.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Three-dimensional labels: A unified approach to labels for a general spatial grammar interpreter",
+      "year": 2013,
+      "citation_raw": "Three-dimensional labels: A unified approach to labels for a general spatial grammar interpreter Frank Hoisl and Kristina Shea Artificial intelligence for engineering design, analysis and manufacturing, vol. 27: no. 4, pp. 359-375, Cambridge University Press, 2013.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Automatically Transforming Object-Oriented Graph-Based representations Into Boolean Satisfiability Problems for Computational Design Synthesis",
+      "year": 2013,
+      "citation_raw": "Automatically Transforming Object-Oriented Graph-Based representations Into Boolean Satisfiability Problems for Computational Design Synthesis Clemens Münzer, Bergen Helms and Kristina Shea Journal of Mechanical Design, vol. 135: no. 10, pp. 101001, American Society of Mechanical Engineers, 2013.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Visualisation of the organisation knowledge structure evolution",
+      "year": 2013,
+      "citation_raw": "Visualisation of the organisation knowledge structure evolution Mario Štorga, Ali Mostashari and Tino Stankovic Journal of Knowledge Management, vol. 17: no. 5, pp. 724-740, Emerald, 2013.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "An Ontology for the Autonomous Reconfiguration of a Flexible Fixture Device",
+      "year": 2013,
+      "citation_raw": "An Ontology for the Autonomous Reconfiguration of a Flexible Fixture Device Thomas Gmeiner and Kristina Shea Journal of Computing and Information Science in Engineering, vol. 13: no. 2, pp. 021003, American Society of Mechanical Engineers, 2013.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Automated Mapping of Physical Effects to Functions Using Abstraction Ports Based on Bond Graphs",
+      "year": 2013,
+      "citation_raw": "Automated Mapping of Physical Effects to Functions Using Abstraction Ports Based on Bond Graphs Bergen Helms, Hansjoerg Schultheiss and Kristina Shea Journal of Mechanical Design, vol. 135: no. 5, pp. 051006, American Society of Mechanical Engineers, 2013.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Formal modelling of technical processes and technical process synthesis",
+      "year": 2013,
+      "citation_raw": "Formal modelling of technical processes and technical process synthesis Tino Stankovic, Mario Štorga, Kristina Shea and Dorian Marjanović Journal of Engineering Design, vol. 24: no. 3, pp. 211-238, Taylor & Francis, 2013.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Systematische konzeptbasierte Modellentwicklung",
+      "year": 2012,
+      "citation_raw": "Systematische konzeptbasierte Modellentwicklung Kristina Shea Virtual Vehicle Magazine, vol. 12: no. II-2012, pp. 14-15, Das Virtuelle Fahrzeug Forschungsgesellschaft, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Spatial grammar implementation: From theory to useable software",
+      "year": 2012,
+      "citation_raw": "Spatial grammar implementation: From theory to useable software Alison McKay, Scott Chase, Kristina Shea and Hau Hing Chau Artificial intelligence for engineering design, analysis and manufacturing, vol. 26: no. 02, pp. 143-159, Cambridge University Press, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computational Synthesis of Product Architectures Based on Object-Oriented Graph Grammars",
+      "year": 2012,
+      "citation_raw": "Computational Synthesis of Product Architectures Based on Object-Oriented Graph Grammars Bergen Helms and Kristina Shea Journal of Mechanical Design, vol. 134: no. 2, pp. 021008, American Society of Mechanical Engineers, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Opening our worlds",
+      "year": 2012,
+      "citation_raw": "Opening our worlds Kristina Shea Artificial intelligence for engineering design, analysis and manufacturing, vol. 26: no. 01, pp. 17, Cambridge University Press, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "An Interactive, Visual Approach to Developing and Applying Parametric Three-Dimensional Spatial Grammars",
+      "year": 2011,
+      "citation_raw": "An Interactive, Visual Approach to Developing and Applying Parametric Three-Dimensional Spatial Grammars Frank Hoisl and Kristina Shea Artificial intelligence for engineering design, analysis and manufacturing, vol. 25: no. 4, pp. 333-356, Cambridge University Press, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Computer-Based Design Synthesis Research: An Overview",
+      "year": 2011,
+      "citation_raw": "Computer-Based Design Synthesis Research: An Overview Amaresh Chakrabarti, Kristina Shea, Robert Stone, Jonathan Cagan, Matthew Campbell, Noe Vargas-Hernandez and Kristin L. Wood Journal of Computing and Information Science in Engineering, vol. 11: no. 2, pp. 021003-1-021003-10, American Society of Mechanical Engineers, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Artificial Cognition in Production Systems",
+      "year": 2011,
+      "citation_raw": "Artificial Cognition in Production Systems Alexander Bannat, Thibault Bautze, Michael Beetz, Jürgen Blume, Klaus Diepold, Christoph Ertelt, Florian Geiger, Thomas Gmeiner, Tobias Gyger, Alois Knoll, Christian Lau, Claus Lenz, Martin Ostgathe, Gunther Reinhart, Wolfgang Roesel, Thomas Ruehr, Anna Schuboe, Kristina Shea, Ingo Stork, Sonja Stork, William Tekouo, Frank Wallhoff, Mathey Wiesbeck and Michael F. Zäh IEEE Transactions on Automation Science and Engineering, vol. 8: no. 1, pp. 148-174, IEEE, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Design-to-fabrication automation for the cognitive machine shop",
+      "year": 2010,
+      "citation_raw": "Design-to-fabrication automation for the cognitive machine shop Kristina Shea, Christoph Ertelt, Thomas Gmeiner and Farhad Ameri Advanced Engineering Informatics, vol. 24: no. 3, pp. 251-268, Elsevier, 2010.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "The Cognitive Factory",
+      "year": 2010,
+      "citation_raw": "The Cognitive Factory Kristina Shea Advanced Engineering Informatics, vol. 24: no. 3, pp. 241-242, Elsevier, 2010.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "The Hylomorphic Project",
+      "year": 2008,
+      "citation_raw": "The Hylomorphic Project Judith Leuppi and Kristina Shea The Arup Journal, vol. 43: no. 1, pp. 28-30, Arup, 2008.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Automated Mechanical Design Synthesis for Early Phase Engineering",
+      "year": 2008,
+      "citation_raw": "Automated Mechanical Design Synthesis for Early Phase Engineering Kristina Shea ProduktDaten Journal, vol. 15, pp. 50-54, ProSTEP iViP e.V., 2008.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Improving Full-Scale Transmission Tower Design through Topology and Shape Optimization",
+      "year": 2006,
+      "citation_raw": "Improving Full-Scale Transmission Tower Design through Topology and Shape Optimization Kristina Shea and Ian F.C. Smith Journal of Structural Engineering, vol. 132: no. 5, pp. 781-790, American Society of Civil Engineers, 2006.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Towards integrated performance-driven generative design tools",
+      "year": 2005,
+      "citation_raw": "Towards integrated performance-driven generative design tools Kristina Shea, Robert Aish and Marina Gourtovaia Automation in Construction, vol. 14: no. 2, pp. 253-264, Elsevier, 2005.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "CDO: Computational Design + Optimisation in Building Practice",
+      "year": 2005,
+      "citation_raw": "CDO: Computational Design + Optimisation in Building Practice Chris Luebkeman and Kristina Shea The Arup Journal, vol. 40: no. 3, pp. 17-21, Arup, 2005.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Active Tensegrity Structure",
+      "year": 2004,
+      "citation_raw": "Active Tensegrity Structure Etienne Fest, Kristina Shea and Ian F.C. Smith Journal of Structural Engineering, vol. 130: no. 10, pp. 1454-1465, American Society of Civil Engineers, 2004.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Conceptual Design Of Bicycle Frames by Multiobjective Shape Annealing",
+      "year": 2004,
+      "citation_raw": "Conceptual Design Of Bicycle Frames by Multiobjective Shape Annealing A. Suppapitnarm, G.T. Parks, Kristina Shea and P.J. Clarkson Engineering optimization, vol. 36: no. 2, pp. 165-188, Taylor & Francis, 2004.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A Study of Two Stochastic Search Methods for Structural Control",
+      "year": 2003,
+      "citation_raw": "A Study of Two Stochastic Search Methods for Structural Control Bernd Domer, Benny Raphael, Kristina Shea and Ian F.C. Smith Journal of Computing in Civil Engineering, vol. 17: no. 3, pp. 132-141, American Society of Civil Engineers, 2003.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Adjustable Tensegrity Structures",
+      "year": 2003,
+      "citation_raw": "Adjustable Tensegrity Structures Etienne Fest, Kristina Shea, Bernd Domer and Ian F.C. Smith Journal of Structural Engineering, vol. 129: no. 4, pp. 515-526, American Society of Civil Engineers, 2003.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Digital canopy: High-end computation/low-tech construction",
+      "year": 2002,
+      "citation_raw": "Digital canopy: High-end computation/low-tech construction Kristina Shea Architectural Research Quarterly, vol. 6: no. 3, pp. 230-245, Cambridge University Press, 2002.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Developing Intelligent Tensegrity Structures with Stochastic Search",
+      "year": 2002,
+      "citation_raw": "Developing Intelligent Tensegrity Structures with Stochastic Search Kristina Shea, Etienne Fest and Ian F.C. Smith Advanced Engineering Informatics, vol. 16: no. 1, pp. 21-40, Elsevier, 2002.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Creating Synthesis Partners",
+      "year": 2002,
+      "citation_raw": "Creating Synthesis Partners Kristina Shea Architectural Design: Contemporary Techniques in Architecture, vol. 72: no. 1, pp. 42-45, Wiley, 2002.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Languages and Semantics of Grammatical Discrete Structures",
+      "year": 1999,
+      "citation_raw": "Languages and Semantics of Grammatical Discrete Structures Kristina Shea and Jonathan Cagan Artificial intelligence for engineering design, analysis and manufacturing, vol. 13: no. 4, pp. 241-251, Cambridge University Press, 1999.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "The design of novel roof trusses with shape annealing: Assessing the ability of a computational method in aiding structural designers with varying design intent",
+      "year": 1999,
+      "citation_raw": "The design of novel roof trusses with shape annealing: Assessing the ability of a computational method in aiding structural designers with varying design intent Kristina Shea and Jonathan Cagan Design Studies, vol. 20: no. 1, pp. 3-23, Elsevier, 1999.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Innovative Dome Design: Applying Geodesic Patterns with Shape Annealing",
+      "year": 1997,
+      "citation_raw": "Innovative Dome Design: Applying Geodesic Patterns with Shape Annealing Kristina Shea and J. Cagan Artificial intelligence for engineering design, analysis and manufacturing, vol. 11: no. 5, pp. 379-394, Cambridge University Press, 1997.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "A Shape Annealing Approach to Optimal Truss Design with Dynamic Grouping of Members",
+      "year": 1997,
+      "citation_raw": "A Shape Annealing Approach to Optimal Truss Design with Dynamic Grouping of Members Kristina Shea, J. Cagan and S.J. Fenves Journal of Mechanical Design, vol. 119: no. 3, pp. 388-394, American Society of Mechanical Engineers, 1997.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/journal-articles.html"
+    },
+    {
+      "title": "Reinforcement learning for the design of mechanisms using available bars and pins",
+      "year": 2026,
+      "citation_raw": "Reinforcement learning for the design of mechanisms using available bars and pins Maxime Escande, Kristina Shea and Tino Stankovic 19th International Design Conference (DESIGN 2026), Dubrovnik, Croatia, pp.2283-2292, Cambridge: Cambridge University Press, May 18-21, 2026.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Modeling and Optimization of Passively Controlled Adaptive Shading (PCAS)",
+      "year": 2025,
+      "citation_raw": "Modeling and Optimization of Passively Controlled Adaptive Shading (PCAS) Rafaela Louis and Kristina Shea Sustainable Built Environment Conference (SBE25), Zurich, Switzerland Zurich: ETH Zurich, June 24-27, 2025.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Computational Circular Design of Planar Linkage Mechanisms Using Available Standard Parts",
+      "year": 2025,
+      "citation_raw": "Computational Circular Design of Planar Linkage Mechanisms Using Available Standard Parts Maxime Escande and Kristina Shea 6th Product Lifetimes and the Environment Conference (PLATE 2025), Aalborg, Denmark, pp.911-913, Aalborg: Aalborg University Open Publishing, July 2-4, 2025.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Generative Design and Simulation of Architected, Curved Additively Manufactured Weaves",
+      "year": 2025,
+      "citation_raw": "Generative Design and Simulation of Architected, Curved Additively Manufactured Weaves Marc Wirth, Julius Koenig and Kristina Shea 8th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2025), Lausanne, Switzerland, April 23-26, 2025.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Generalized Data-Driven Material Model of 3D-Printed Biaxial Weaves Using Transfer Learning",
+      "year": 2024,
+      "citation_raw": "Generalized Data-Driven Material Model of 3D-Printed Biaxial Weaves Using Transfer Learning Marc Wirth and Kristina Shea 16th World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics (WCCM-PANACM 2024), Vancouver, Canada, July 21 - July 26, 2024.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Joël Chapuis and Kristina Shea",
+      "year": 2024,
+      "citation_raw": "5-Axis, Direct, 4D Printed Human-Machine Interfaces Joël Chapuis and Kristina Shea 3rd International 4D Materials Design and Additive Manufacturing Conference (4DMDA 2024), Ajaccio, France, July 4-5, 2024.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Efficient Design Space Exploration of 4D Printed, Architected, Active Composites Using Discrete Structural Models",
+      "year": 2024,
+      "citation_raw": "Efficient Design Space Exploration of 4D Printed, Architected, Active Composites Using Discrete Structural Models Andreas Walker and Kristina Shea 3rd International 4D Materials Design and Additive Manufacturing Conference (4DMDA 2024), Ajaccio, France, July 4-5, 2024.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Sustainable Design Synthesis of Discrete Free-From Structures Utilizing Existing Building Objects",
+      "year": 2024,
+      "citation_raw": "Sustainable Design Synthesis of Discrete Free-From Structures Utilizing Existing Building Objects Yu Zhang and Kristina Shea IASS 2024 Annual Symposium: Redefining the Art of Structural Design, Zurich, Switzerland, pp.15 Madrid: International Association for Shell and Spatial Structures (IASS), August 26-30, 2024.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Development and Preliminary Verification of 37 Design Heuristics for the Design of Medical Devices for Low-Resource Settings",
+      "year": 2024,
+      "citation_raw": "Development and Preliminary Verification of 37 Design Heuristics for the Design of Medical Devices for Low-Resource Settings Milena Overhoff and Kristina Shea ASME 2024 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2024), Washington, DC, USA, August 24-28, 2024.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Mobile Augmented Reality for Aided Manual Assembly of Compressed Earth Block Dwellings",
+      "year": 2023,
+      "citation_raw": "Mobile Augmented Reality for Aided Manual Assembly of Compressed Earth Block Dwellings Andrea V. Aguilera, Yu Zhang and Kristina Shea 41st Conference on Education and Research in Computer Aided Architectural Design in Europe (eCAADe 2023), Graz, Austria, pp.19-28, Brussels: eCAADe, September 20-23, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Thermo-Viscoelastic Laminate-Based FE Modelling of Fused Filament Fabrication Direct 4D Printing",
+      "year": 2023,
+      "citation_raw": "Thermo-Viscoelastic Laminate-Based FE Modelling of Fused Filament Fabrication Direct 4D Printing Joël Chapuis and Kristina Shea 4th International Conference on Simulation for Additive Manufacturing (SIM-AM 2023), Munich, Germany Barcelona: CIMNE, July 26-28, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Experimental Validation of Computationally Designed, 4D Printed Shape- Morphing Structures",
+      "year": 2023,
+      "citation_raw": "Experimental Validation of Computationally Designed, 4D Printed Shape- Morphing Structures Andreas Walker and Kristina Shea 4th International Conference on Simulation for Additive Manufacturing (SIM-AM 2023), Munich, Germany Barcelona: CIMNE, July 26-28. 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Empirically Tuned Mechanical Simualtion Model of 3D-Printed Biaxial Weaves",
+      "year": 2023,
+      "citation_raw": "Empirically Tuned Mechanical Simualtion Model of 3D-Printed Biaxial Weaves Marc Wirth and Kristina Shea International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2023), Boston, MA, USA, pp.DETC2023-111278 New York, NY: American Society of Mechanical Engineers, August 20-23, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Quantitative Comparison of Thermo-Responsive Actuators: Balancing Functionality and Energy Efficiency",
+      "year": 2023,
+      "citation_raw": "A Quantitative Comparison of Thermo-Responsive Actuators: Balancing Functionality and Energy Efficiency Rafaela Louis and Kristina Shea International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2023), Boston, MA, USA, pp.DETC2023-116554 New York, NY: American Society of Mechanical Engineers, August 20-23, 2023.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Integrating Computational Design Support in Model-Based Systems Engineering Using Model Transformations",
+      "year": 2022,
+      "citation_raw": "Integrating Computational Design Support in Model-Based Systems Engineering Using Model Transformations Eugen Rigger, Simon Rädler and Tino Stankovic 19th International Conference on Product Lifecycle Management (IFIP 2022), Grenoble, France, pp.186-195, Cham: Springer, July 10-13, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Product Life Cycle Approach to Medical Device Development for Low-Resource Settings - A Systematic Literature Review",
+      "year": 2023,
+      "citation_raw": "A Product Life Cycle Approach to Medical Device Development for Low-Resource Settings - A Systematic Literature Review Milena Overhoff, Thomas S. Lumpe and Kristina Shea International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2023), Boston, MA, USA, pp.DETC2023-109064 New York, NY: American Society of Mechanical Engineers, August 20-23, 2023,.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Spinodal Metamaterials as Pneumatic Actuators for Complex Shape Morphing",
+      "year": 2022,
+      "citation_raw": "Spinodal Metamaterials as Pneumatic Actuators for Complex Shape Morphing Andreas Walker and Kristina Shea 2022 MRS Spring Meeting, Honolulu, HI, USA, May 8-13, 2022 (on site) and May 23-25 (online).",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Computational Design of an Additively Manufactured Origami-Based Hand Orthosis",
+      "year": 2022,
+      "citation_raw": "Computational Design of an Additively Manufactured Origami-Based Hand Orthosis Melanie Oliveira Barros, Andreas Walker and Tino Stankovic 17th International Design Conference (Design 2022), Online, pp.1231-1242, Cambridge: Cambridge University Press, May 23-26, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Mortarless Compressed Earth Block Dwellings: A Low-Cost Sustainable Design and Fabrication Process",
+      "year": 2021,
+      "citation_raw": "Mortarless Compressed Earth Block Dwellings: A Low-Cost Sustainable Design and Fabrication Process Yu Zhang, Liz Tatarintseva, Tom Clewlow, Ed Clark, Gianni Botsford and Kristina Shea 41st Annual Conference of the Association for Computer Aided Design in Architecture: Realignments: Toward Critical Computation (ACADIA 2021), Online, pp.340-345, s.l.: Association for Computer Aided Design in Architecture, November 3-6, 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Direct 4D Printing of a Deployable Polymer Wave Spring",
+      "year": 2022,
+      "citation_raw": "Direct 4D Printing of a Deployable Polymer Wave Spring Joël Chapuis, Andrin Widmer and Kristina Shea ASME 2022 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2022), St. Louis, MO, USA, pp.V03AT03A026 New York, NY: American Society of Mechanical Engineers, August 14-17, 2022.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Visually Augmented Analysis of Socio-Technical Networks in Engineering Systems Design Research",
+      "year": 2013,
+      "citation_raw": "Visually Augmented Analysis of Socio-Technical Networks in Engineering Systems Design Research Mario Štorga, Tino Stankovic, Philip Cash and Tim C. McAloone The Future of Transdisciplinary Design (TFTD13), Luxembourg, pp.55-67, Cham: Springer, June 24-25, 2013.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Volume Control of Low-Cost Ventilator with Automatic Set-Point Adaptation",
+      "year": 2021,
+      "citation_raw": "Volume Control of Low-Cost Ventilator with Automatic Set-Point Adaptation Lukas Hewing, Marcel Menner, Nikolaos Tachatos, Marianne Schmid Daners, Cosima Du Pasquier, Thomas S. Lumpe, Kristina Shea, Andrea Carron and Melanie N. Zeilinger European Control Conference (ECC 2021), Online, pp.781-786, Piscataway, NJ: IEEE, June 29 - July 2 2021.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Machine Learning-Augmented Stochastic Search for the Automated Synthesis and Optimization of Cooling Channels",
+      "year": 2019,
+      "citation_raw": "Machine Learning-Augmented Stochastic Search for the Automated Synthesis and Optimization of Cooling Channels Jonas Schwarz and Kristina Shea ASME 2019 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2019), Anaheim, CA, USA, pp.DETC2019-97830 New York, NY: American Society of Mechanical Engineers, August 19-21, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Estimating the Impact of Design Automation: The Influence of Knowledge on Potential Estimation",
+      "year": 2019,
+      "citation_raw": "Estimating the Impact of Design Automation: The Influence of Knowledge on Potential Estimation Eugen Rigger, Alexander Lutz, Kristina Shea and Tino Stankovic International Conference on Engineering Design, Delft, Netherlands, pp.1943-1952, Cambridge: Cambridge University Press, August 5-8, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "World Economic Forum Annual Meeting 2019, Davos, Switzerland",
+      "year": 2019,
+      "citation_raw": "4D Design Kristina Shea World Economic Forum Annual Meeting 2019, Davos, Switzerland, January 21-25, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Computational Design of a Personalized Artificial Spinal Disc With a Data-Driven Design Variable Linking Heuristic",
+      "year": 2019,
+      "citation_raw": "Computational Design of a Personalized Artificial Spinal Disc With a Data-Driven Design Variable Linking Heuristic Zhiyang Yu, Kristina Shea and Tino Stankovic ASME 2019 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2019), Anaheim, CA, USA, pp.DETC2019-97777 New York, NY: American Society of Mechanical Engineers, August 19-21, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Computational design of active lattice structures for 4D printed pneumatic shape morphing",
+      "year": 2019,
+      "citation_raw": "Computational design of active lattice structures for 4D printed pneumatic shape morphing Cosima Du Pasquier, Pascal Koller, Tino Stankovic and Kristina Shea ASME 2019 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2019), Anaheim, CA, USA, pp.DETC2019-97775 New York, NY: American Society of Mechanical Engineers, August 18-21, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Evaluating the potential of design for additive manufacturing heuristic cards to stimulate novel product redesigns",
+      "year": 2019,
+      "citation_raw": "Evaluating the potential of design for additive manufacturing heuristic cards to stimulate novel product redesigns Alexandra Blösch-Paidosh, Saeema Ahmed-Kristensen and Kristina Shea ASME 2019 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2019), Anaheim, CA, USA, pp.DETC2019-97865 New York, NY: American Society of Mechanical Engineers, August 18-21, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Computational Design of 4D Printed Shape Morphing Multi-State Lattice Structures",
+      "year": 2019,
+      "citation_raw": "Computational Design of 4D Printed Shape Morphing Multi-State Lattice Structures Thomas Lumpe and Kristina Shea ASME 2019 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2019), Anaheim, CA, USA, pp.DETC2019-97774 New York, NY: American Society of Mechanical Engineers, August 19-21, 2019.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Computational Design and Digital Fabrication: A Mechanical Design Perspective",
+      "year": 2018,
+      "citation_raw": "Computational Design and Digital Fabrication: A Mechanical Design Perspective Kristina Shea Fields Workshop on Robust Geometric Algorithms for Computational Fabrication, Toronto, Canada, April 30 - May 4, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A spatial grammar method for the computational design synthesis of virtual soft robots",
+      "year": 2018,
+      "citation_raw": "A spatial grammar method for the computational design synthesis of virtual soft robots Merel Van Diepen and Kristina Shea 44th Design Automation Conference (DAC 2018), Quebec, Canada, pp.DETC2018-85896 New York, NY: American Society of Mechanical Engineers, August 26-29, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Origami Sensitivity - On the Influence of Vertex Geometry",
+      "year": 2018,
+      "citation_raw": "Origami Sensitivity - On the Influence of Vertex Geometry Luca Zimmermann, Kristina Shea and Tino Stankovic 7th International Meeting on Origami in Science, Mathematics and Education (7OSME), Oxford, United Kingdom, pp.1087-1102, St Albans: Tarquin, September 5-7, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Computational Design of a Personalized Artificial Spinal Disc for Additive Manufacturing with Physiological Rotational Motions",
+      "year": 2018,
+      "citation_raw": "Computational Design of a Personalized Artificial Spinal Disc for Additive Manufacturing with Physiological Rotational Motions Zhiyang Yu, Tino Stankovic and Kristina Shea 44th Design Automation Conference (DAC 2018), Quebec, Canada, pp.DETC2018-85921 New York, NY: American Society of Mechanical Engineers, August 26-29, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Topology, Shape, and Size Optimization of Additively Manufactured Lattice Structures Based on the Superformula",
+      "year": 2018,
+      "citation_raw": "Topology, Shape, and Size Optimization of Additively Manufactured Lattice Structures Based on the Superformula Andrea Nessi and Tino Stankovic 44th Design Automation Conference (DAC 2018), Quebec, Canada, pp.DETC2018-86191 New York, NY: American Society of Mechanical Engineers, August 26-29, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Integrative Design, Build, Test Approach for Biomedical Devices with Lattice Structures",
+      "year": 2018,
+      "citation_raw": "Integrative Design, Build, Test Approach for Biomedical Devices with Lattice Structures Paul Egan, Isabella Bauer, Kristina Shea and Stephen Ferguson 30th International Conference on Design Theory and Methodology (DTM 2018), Quebec, Canada, pp.DETC2018-85355 New York, NY: American Society of Mechanical Engineers, August 26-29, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Preliminary User Study on Design Heuristics for Additive Manufacturing",
+      "year": 2018,
+      "citation_raw": "Preliminary User Study on Design Heuristics for Additive Manufacturing Alexandra Blösch-Paidosh and Kristina Shea 44th Design Automation Conference (DAC 2018), Quebec, Canada, pp.DETC2018-85908 New York, NY: American Society of Mechanical Engineers, August 26-29, 2018.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Federated Enterprise Architecture and MBSE Modeling Framework for Integrating Design Automation into a Global PLM Approach",
+      "year": 2017,
+      "citation_raw": "A Federated Enterprise Architecture and MBSE Modeling Framework for Integrating Design Automation into a Global PLM Approach Thomas Vosgien, Eugen Rigger, Martin Schwarz and Kristina Shea 14th IFIP International Conference on Product Lifecycle Management (PLM 2017), Seville, Spain, pp.36-48, Cham: Springer, July 10-12, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design Heuristics for Additive Manufacturing",
+      "year": 2017,
+      "citation_raw": "Design Heuristics for Additive Manufacturing Alexandra Paidosh and Kristina Shea 21st International Conference on Engineering Design (ICED17), Vancouver, Canada, pp.91-100, Glasgow: The Design Society, August 21-25, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Teaching Systemic Design for Sustainability in Engineering by Building Eco Skis",
+      "year": 2017,
+      "citation_raw": "Teaching Systemic Design for Sustainability in Engineering by Building Eco Skis Tobias Luthe, Thomas Lumpe, Jonas Schwarz, Martin Schütz and Kristina Shea 21st International Conference on Engineering Design (ICED17), Vancouver, Canada, pp.189-198, Glasgow: The Design Society, August 21-25, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Radially Layered Multi-Material Struts for Increased Energy Absorption and Fracture Strain in Stiff Lattice Structures",
+      "year": 2017,
+      "citation_raw": "Radially Layered Multi-Material Struts for Increased Energy Absorption and Fracture Strain in Stiff Lattice Structures Jochen Mueller, Jordan R. Raney, Jennifer A. Lewis and Kristina Shea Fall Meeting & Exhibit (MRS 2017), Boston, MA, USA, November 26 - December 1, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design and fabrication of 3d printed tissue scaffolds informed by mechanics and fluids simulations",
+      "year": 2017,
+      "citation_raw": "Design and fabrication of 3d printed tissue scaffolds informed by mechanics and fluids simulations Paul F. Egan, Veronica C. Gonella, Max Engensperger, Stephen J. Ferguson and Kristina Shea ASME 2017 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2017), Cleveland, OH, USA, pp.DETC2017-67602 New York, NY: American Society of Mechanical Engineers, August 6-9, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Rotational 3D printing of bioinspired, damage-tolerant materials",
+      "year": 2017,
+      "citation_raw": "Rotational 3D printing of bioinspired, damage-tolerant materials Jordan R. Raney, Brett G. Compton, Jochen Müller, Thomas J. Ober, Kristina Shea and Jennifer A. Lewis 2017 Mach Conference, Annapolis, MD, USA, April 5-7, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Increased Energy Absorption of Lattice Structures Through Coaxially Aligned Struts",
+      "year": 2017,
+      "citation_raw": "Increased Energy Absorption of Lattice Structures Through Coaxially Aligned Struts Jochen Müller, J.R. Raney, J.A. Lewis and Kristina Shea 54th Annual Technical Meeting of the Society of Engineering Science (SES 2017), Boston, MA, USA, July 25-28, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Finding Rigid Body Modes of Rigid-Foldable Origami Through the Simulation of Vertex Motion",
+      "year": 2017,
+      "citation_raw": "Finding Rigid Body Modes of Rigid-Foldable Origami Through the Simulation of Vertex Motion Luca Zimmermann, Tino Stankovic and Kristina Shea ASME 2017 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2017), Cleveland, OH, USA, pp.V05BT08A046 New York, NY: American Society of Mechanical Engineers, August 6-9, 2017.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design and 3D Printing of Hierarchical Tissue Engineering Scaffolds Based on Mechanics and Biology Perspectives",
+      "year": 2016,
+      "citation_raw": "Design and 3D Printing of Hierarchical Tissue Engineering Scaffolds Based on Mechanics and Biology Perspectives Paul Egan, Stephen J. Ferguson and Kristina Shea ASME 2016 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE 2016), Charlotte, NC, USA, pp.DETC2016-59554 New York, NY: American Society of Mechanical Engineers, August 21-24, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Optimization for Anisotropy in Additively Manufactured Lattice Structures",
+      "year": 2016,
+      "citation_raw": "Optimization for Anisotropy in Additively Manufactured Lattice Structures Tino Stankovic, Jochen Mueller and Kristina Shea ASME 2016 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE 2016), Charlotte, NC, USA, pp.DETC2016-59494 New York, NY: American Society of Mechanical Engineers, August 21-24, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "3D printing of carbon fiber-epoxy composites with programmable fiber orientation",
+      "year": 2016,
+      "citation_raw": "3D printing of carbon fiber-epoxy composites with programmable fiber orientation J.R. Raney, J. Compton, Jochen Mueller, T. Ober, Kristina Shea and J.A. Lewis 53rd Annual Technical Meeting of the Society of Engineering Science, College Park, MD, USA, October 2-5, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Estimating the Potential of State of the Art Design Automation - Tasks, Methods, and Benefits",
+      "year": 2016,
+      "citation_raw": "Estimating the Potential of State of the Art Design Automation - Tasks, Methods, and Benefits Eugen Rigger, Clemens Münzer and Kristina Shea 14th International DESIGN Conference, Dubrovnik, Croatia, pp.421-432, Zagreb: Faculty of Mechnical Engineering and Naval Architecture, May 16-19, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Generative Shape Design using 3D Spatial Grammars, Simulation and Optimization",
+      "year": 2016,
+      "citation_raw": "Generative Shape Design using 3D Spatial Grammars, Simulation and Optimization Luca Zimmermann, Tian Chen and Kristina Shea Seventh International Conference on Design Computing and Cognition (DCC'16), Chicago, IL, USA, pp.279-297, Cham: Springer, June 27-29, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "An Integrated Approach to Automated Synthesis, Simulation and Optimization of Energy and Signal-Based Design Concepts",
+      "year": 2016,
+      "citation_raw": "An Integrated Approach to Automated Synthesis, Simulation and Optimization of Energy and Signal-Based Design Concepts Clemens Münzer and Kristina Shea ASME 2016 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE 2016), Charlotte, NC, USA, pp.DETC2016-59816 New York, NY: American Society of Mechanical Engineers, August 21-24, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design and Fabrication of a Bistable Unit Actuator With Multi-Material Additive Manufacturing",
+      "year": 2016,
+      "citation_raw": "Design and Fabrication of a Bistable Unit Actuator With Multi-Material Additive Manufacturing Tian Chen, Jochen Müller and Kristina Shea Annual International Solid Freeform Fabrication Symposium (SFF Symp 2016), Austin, TX, USA, pp.2060-2076, Austin, TX: 2016 Annual International Solid Freeform Fabrication Symposium, SFF Symp 2016, August 8-10, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design Library Solution Patterns in SysML for Concept Design and Simulation",
+      "year": 2016,
+      "citation_raw": "Design Library Solution Patterns in SysML for Concept Design and Simulation Benjamin Kruse and Kristina Shea 26th CIRP Design Conference, Stockholm, Sweden, pp.695-700, Amsterdam: Elsevier, June 15-17, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design and fabrication of hierarchical multi-stable structures through multi-material additive manufacturing",
+      "year": 2016,
+      "citation_raw": "Design and fabrication of hierarchical multi-stable structures through multi-material additive manufacturing Tian Chen and Kristina Shea ASME 2016 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE 2016), Charlotte, NC, USA, pp.DETC2016-59856 New York, NY: American Society of Mechanical Engineers, August 21-24, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Method for Visualizing the Relations Between Grammar Rules, Performance Objectives and Search Space Exploration in Grammar-Based Computational Design Synthesis",
+      "year": 2015,
+      "citation_raw": "A Method for Visualizing the Relations Between Grammar Rules, Performance Objectives and Search Space Exploration in Grammar-Based Computational Design Synthesis Corinna Königseder and Kristina Shea ASME 2015 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, USA, pp.DETC2015-46761 New York, NY: American Society of Mechanical Engineers, August 2-5, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Analyzing Generative Design Grammars",
+      "year": 2014,
+      "citation_raw": "Analyzing Generative Design Grammars Corinna Königseder and Kristina Shea International Conference on Design Computing and Cognition, London, United Kingdom, pp.363-381, Cham: Springer, June 23–25, 2014.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design for Mass Customization using Additive Manufacture: Case-Study of a Balloon-Powered Car",
+      "year": 2015,
+      "citation_raw": "Design for Mass Customization using Additive Manufacture: Case-Study of a Balloon-Powered Car Tian Chen, Fritz Stöckli and Kristina Shea 20th International Conference on Engineering Design 2015, ICED 2015, Milan, Italy, pp.4-245 Glasgow: Design Society, July 27-30, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Simulation-Driven Graph Grammar Method for the Automated Synthesis of Passive Dynamic Brachiating Robots",
+      "year": 2015,
+      "citation_raw": "A Simulation-Driven Graph Grammar Method for the Automated Synthesis of Passive Dynamic Brachiating Robots Fritz Stöckli and Kristina Shea 27th International Conference on Design Theory and Methodology, Boston, MA, USA, pp.DETC2015-47641 New York, NY: American Society of Mechanical Engineers, August 2-5, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design of Passive Dynamic Walking Robots for Additive Manufacture",
+      "year": 2015,
+      "citation_raw": "Design of Passive Dynamic Walking Robots for Additive Manufacture Fabio Modica, Fritz Stöckli and Kristina Shea International Solid Freeform Fabrication Symposium: An Additive Manufacturing Conference, Austin, TX, USA, pp.1527-1536, Austin, TX: University of Texas, August 8-10, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Computational Design-to-Fabrication Using Spatial Grammars: Automatically Generating Printable Car Wheel Design Variants",
+      "year": 2015,
+      "citation_raw": "Computational Design-to-Fabrication Using Spatial Grammars: Automatically Generating Printable Car Wheel Design Variants Tian Chen and Kristina Shea 20th International Conference on Engineering Design (ICED 15), Milan, Italy, pp.35-44, Glasgow: Design Society, July 27-31, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Optimization of Additively Manufactured Multi-Material Lattice Structures Using Generalized Optimality Criteria",
+      "year": 2015,
+      "citation_raw": "Optimization of Additively Manufactured Multi-Material Lattice Structures Using Generalized Optimality Criteria Tino Stankovic, Jochen Mueller, Paul Egan and Kristina Shea ASME 2015 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, USA, pp.DETC2015-47403 New York, NY: American Society of Mechanical Engineers, August 2-5, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Spatial Grammar for Design Synthesis Targeting Perceptions (Case Study on Beauty)",
+      "year": 2015,
+      "citation_raw": "Spatial Grammar for Design Synthesis Targeting Perceptions (Case Study on Beauty) Marta Perez Mata, Saeema Ahmed-Kristensen and Kristina Shea ASME 2015 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, USA, pp.DETC2015-46449 New York, NY: American Society of Mechanical Engineers, August 2-5, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Biomechanical Gait Cycle Analysis Of Different Ski Touring Systems",
+      "year": 2015,
+      "citation_raw": "Biomechanical Gait Cycle Analysis Of Different Ski Touring Systems Robert Maculan, Michael Angst, Corinna Königseder, Kristina Shea and Silvio Lorenzetti Seventh Annual Congress of the Swiss Society of Sports Sciences, Lausanne, Switzerland, pp.69-69, Bern: Sportwissenschaftliche Gesellschaft der Schweiz SGS, February 12-13, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "The effect of build orientation on the mechanical properties in inkjet 3D-printing",
+      "year": 2015,
+      "citation_raw": "The effect of build orientation on the mechanical properties in inkjet 3D-printing Jochen Mueller and Kristina Shea International Solid Freeform Fabrication Symposium : An Additive Manufacturing Conference, Austin, TX, USA, pp.983-992, Austin, TX: University of Texas, August 10-12, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Studying the Impact of Incorporating an Additive Manufacturing Based Design Exercise in a Large, First Year Technical Drawing and CAD Course",
+      "year": 2015,
+      "citation_raw": "Studying the Impact of Incorporating an Additive Manufacturing Based Design Exercise in a Large, First Year Technical Drawing and CAD Course Tian Chen, Paul Egan, Fritz Stöckli and Kristina Shea ASME 2015 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, USA, pp.DETC2015-47312 New York, NY: American Society of Mechanical Engineers, August 2-5, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Simulation-Based CDS Approach: Automated Generation of Simulation Models Based From Generated Concept Model Graphs",
+      "year": 2015,
+      "citation_raw": "A Simulation-Based CDS Approach: Automated Generation of Simulation Models Based From Generated Concept Model Graphs Clemens Münzer and Kristina Shea ASME 2015 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, USA, pp.DETC2015-47353 New York, NY: American Society of Mechanical Engineers, August 2-5, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Improving Generative Grammar Development and Application Through Network Analysis Techniques",
+      "year": 2015,
+      "citation_raw": "Improving Generative Grammar Development and Application Through Network Analysis Techniques Corinna Königseder, Tino Stankovic and Kristina Shea 20th International Conference on Engineering Design (ICED 15), Milan, Italy, pp.167-176, Glasgow: Design Society, July 27-30, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Tensile Properties of Inkjet 3D Printed Parts: Critical Process Parameters and Their Efficient Analysis",
+      "year": 2015,
+      "citation_raw": "Tensile Properties of Inkjet 3D Printed Parts: Critical Process Parameters and Their Efficient Analysis Jochen Mueller, Shi En Kim, Kristina Shea and Chiara Daraio ASME 2015 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE 2015), Boston, MA, USA, pp.DETC2015-4802 New York, NY: American Society of Mechanical Engineers, August 2-5, 2015.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Solving Design Tasks in Engineering Using Object-Oriented Graph-Based Representations and Boolean Satisfiability",
+      "year": 2013,
+      "citation_raw": "Solving Design Tasks in Engineering Using Object-Oriented Graph-Based Representations and Boolean Satisfiability Clemens Münzer, Bergen Helms and Kristina Shea ASME 2013 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2013), Portland, OR, USA, pp.DETC2013-12537 New York, NY: American Society of Mechanical Engineers, August 4-7, 2013.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Systematic Comparison of Functional Models in SysML for Design Library Evaluation",
+      "year": 2014,
+      "citation_raw": "Systematic Comparison of Functional Models in SysML for Design Library Evaluation Benjamin Kruse, Torsten Gilz, Kristina Shea and Martin Eigner 24th CIRP Design Conference 2014, Milan, Italy Milano, Italy: IRP, April 14-16, 2014.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Strategies for Topologic and Parametric Rule Application in Automated Design Synthesis using Graph Grammars",
+      "year": 2014,
+      "citation_raw": "Strategies for Topologic and Parametric Rule Application in Automated Design Synthesis using Graph Grammars Corinna Königseder and Kristina Shea ASME 2014 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2014), Buffalo, NY, USA, pp.V02AT03A007 New York, NY: American Society of Mechanical Engineers, August 17-20, 2014.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Towards an Approach for Orchestrating Design Space Exploration Problems to Fix Multi-Paradigm Inconsistencies",
+      "year": 2014,
+      "citation_raw": "Towards an Approach for Orchestrating Design Space Exploration Problems to Fix Multi-Paradigm Inconsistencies Sebastian J.I. Herzig, Benjamin Kruse, Frederico Ciccozzi, Joachim Denil, Rick Salay and Dániel Varró 8th Workshop on Multi-Paradigm Modeling co-located with the 17th International Conference on Model Driven Engineering Languages and Systems (MODELS 2014), Valencia, Spain, pp.61-66, S.l.: 8th International Workshop on Multi-Paradigm Modeling, September 30, 2014.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Rule Based Stochastic Tree Search",
+      "year": 2012,
+      "citation_raw": "Rule Based Stochastic Tree Search Kumar Mukund, Matthew Campbell, Corinna Königseder and Kristina Shea International Conference on Design Computing and Cognition (DCC12), College Station, TX, USA, pp.571-587, Dordrecht: Springer, June 7-9, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "An Analysis of Engineers Information Seeking Activity",
+      "year": 2013,
+      "citation_raw": "An Analysis of Engineers Information Seeking Activity Philip Cash, Tino Stankovic and Mario Štorga 33rd Computers and Information in Engineering Conference, Portland, OR, USA, pp.DETC2013-12054 New York, NY: American Society of Mechanical Engineers, August 4-7, 2013.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Spatial Grammar for the Computational Design Synthesis of Vise Jaws",
+      "year": 2013,
+      "citation_raw": "A Spatial Grammar for the Computational Design Synthesis of Vise Jaws Thomas Gmeiner and Kristina Shea ASME 2013 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2013), Portland, OR, USA, pp.DETC2013-12148 New York, NY: American Society of Mechanical Engineers, August 4-7, 2013.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Comparing a graph-grammar approach to genetic algorithms for computational synthesis of PV arrays",
+      "year": 2012,
+      "citation_raw": "Comparing a graph-grammar approach to genetic algorithms for computational synthesis of PV arrays Corinna Königseder, Kristina Shea and Matthew Campbell 22nd CIRP Design Conference (CIRP Design 2012), Bangalore, India, pp.105-114, London: Springer, March 28-30, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Application framework for traceability of engineering information",
+      "year": 2013,
+      "citation_raw": "Application framework for traceability of engineering information Mario Štorga, Tino Stankovic, Neven Pavković and Nenad Bojčetić 19th International Conference on Engineering Design, ICED 2013, Sungkyunkwan University, Seoul, Korea, pp.259-268, Castle Cary, Somerset: Design Society, August 19-22, 2013.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Automated Parametric Design Synthesis Using Graph Grammars and Constraint Solving",
+      "year": 2012,
+      "citation_raw": "Automated Parametric Design Synthesis Using Graph Grammars and Constraint Solving Clemens Münzer, Kristina Shea and Bergen Helms ASME 2012 International Design Engineering Technical Conference & Computers and Information in Engineering Conference (IDETC/CIE 2012), Chicago, IL, USA, pp.517-528, New York, NY: American Society of Mechanical Engineers, August 12-15, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design and emotional expressiveness of gertie: An open hardware robotic desk lamp",
+      "year": 2012,
+      "citation_raw": "Design and emotional expressiveness of gertie: An open hardware robotic desk lamp Fabian Gerlinghaus, Brennand Pierce, Torsten Metzler, Iestyn Jowers, Kristina Shea and Gordon Cheng 2012 IEEE RO-MAN: the 21st IEEE International Symposium on Robot and Human Interactive Communication, Paris, France, pp.1129-1134, Piscataway, NJ: IEEE, September 9-13, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Model-Based Functional Modeling and Library Approach for Mechatronic Systems in SysML",
+      "year": 2012,
+      "citation_raw": "A Model-Based Functional Modeling and Library Approach for Mechatronic Systems in SysML Benjamin Kruse, Clemens Münzer, Stefan Wölkl, Arquimedes Canedo and Kristina Shea ASME 2012 International Design Engineering Technical Conference & Computers and Information in Engineering Conference (IDETC/CIE 2012), Chicago, IL, USA, pp.1217-1227, New York, NY: American Society of Mechanical Engineers, August 12-15, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Steps in Transforming Shapes Generated with Generative Design into Simulation Models",
+      "year": 2012,
+      "citation_raw": "Steps in Transforming Shapes Generated with Generative Design into Simulation Models Amir Hooshmand, Matthew I. Campbell and Kristina Shea ASME 2012 International Design Engineering Technical Conference & Computers and Information in Engineering Conference (IDETC/CIE 2012), Chicago, IL, USA, pp.883-892, New York, NY: American Society of Mechanical Engineers, August 12-15, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Workflow and Modeling Conventions for Function and Product Structure Modeling of Mechatronic Systems in SysML using Libraries",
+      "year": 2012,
+      "citation_raw": "Workflow and Modeling Conventions for Function and Product Structure Modeling of Mechatronic Systems in SysML using Libraries Benjamin Kruse, Clemens Münzer, Stefan Wölkl, Arquimedes Canedo and Kristina Shea The 13th Mechatronics Forum 2012, Linz, Austria, pp.506-513, Linz: Trauner Verlag, September 17 - 19, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Development of an Ontology for the Reconfiguration of a Vise-Type Fixture Device",
+      "year": 2011,
+      "citation_raw": "Development of an Ontology for the Reconfiguration of a Vise-Type Fixture Device Thomas Gmeiner and Kristina Shea ASME 2011 International Design Engineering Technical Conference & Computers and Information in Engineering Conference (IDETC/CIE 2011), Washington, DC, USA, pp.251-261, New York, NY: American Society of Mechanical Engineers, August 28-31, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "An Approach for the Automated Synthesis of Technical Processes",
+      "year": 2011,
+      "citation_raw": "An Approach for the Automated Synthesis of Technical Processes Tino Stankovic, Kristina Shea, Mario Storga and Dorian Marjanovic 18th International Conference on Engineering Design, Kopenhagen, Denmark, pp.345-356, Glasgow: Design Society, August 15-18, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Lessons Learned from a Project-Based Learning Approach for Teaching New Cognitive Product Development to Multi-Disciplinary Student Teams",
+      "year": 2011,
+      "citation_raw": "Lessons Learned from a Project-Based Learning Approach for Teaching New Cognitive Product Development to Multi-Disciplinary Student Teams Torsten Metzler and Kristina Shea ASME 2011 International Design Engineering Technical Conference & Computers and Information in Engineering Conference (IDETC/CIE 2011), Washington, DC, USA, pp.589-598, New York, NY: American Society of Mechanical Engineers, August 28-31, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Towards management of information technology-cycles in transdisciplinary innovation processes",
+      "year": 2011,
+      "citation_raw": "Towards management of information technology-cycles in transdisciplinary innovation processes F. Li, J. Vierheilig, Bergen Helms, G. Bayrak, B. Vogel-Heuser and Kristina Shea 37th Annual Conference on IEEE Industrial Electronics Society (IECON 2011), Melbourne, Australia, pp.2273-2278, Piscataway, NJ: IEEE, November 7-10, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Interactive, Visual 3D Spatial Grammars",
+      "year": 2010,
+      "citation_raw": "Interactive, Visual 3D Spatial Grammars Frank Hoisl and Kristina Shea Fourth International Conference on Design Computing and Cognition DCC'10, Stuttgart, Germany, pp.643-662, Dordrecht: Springer, July 12–14, 2010.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Supporting the Multi-Domain Plant Engineering Process Using Engineering Knowledge From Formalized Model-Based Libraries",
+      "year": 2011,
+      "citation_raw": "Supporting the Multi-Domain Plant Engineering Process Using Engineering Knowledge From Formalized Model-Based Libraries Fang Li, Torsten Gilz, Markus Steinhauer, Birgit Vogel-Heuser, Martin Eigner and Kristina Shea 21st International Conference on Production Research (ICPR), Stuttgart, Germany Stuttgart: Fraunhofer-Verlag, July 31- August 4, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Advanced Applications of a Computational Design Synthesis Method",
+      "year": 2011,
+      "citation_raw": "Advanced Applications of a Computational Design Synthesis Method F. Bolognini, Kristina Shea and A.A. Seshia 18th International Conference on Engineering Design, Copenhagen, Denmark, pp.367-376,, August 15-19, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A More Flexible Way of Modeling Structure With Multiple Domains",
+      "year": 2011,
+      "citation_raw": "A More Flexible Way of Modeling Structure With Multiple Domains Sebastian Kortler, Bergen Helms, Kristina Shea and Udo Lindemann Invest on visualization : 13th International DSM Conference, Cambridge, MA, USA, pp.19-29, Munich: Hanser, September 14-15, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design for X",
+      "year": 2011,
+      "citation_raw": "22. Symposium \"Design for X\", Munich, Germany, pp.153-170, Hamburg: TuTech Verlag, October 11-12, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Automated Assignment of Physical Effects to Functions Using Ports Based on Bond Graphs",
+      "year": 2011,
+      "citation_raw": "Automated Assignment of Physical Effects to Functions Using Ports Based on Bond Graphs Bergen Helms, H. Schultheiss and Kristina Shea ASME 2011 International Design Engineering Technical Conference & Computers and Information in Engineering Conference (IDETC/CIE 2011), Washington, DC, USA, pp.307-317, New York, NY: American Society of Mechanical Engineers, August 28-31, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Taxonomy of Cognitive Functions",
+      "year": 2011,
+      "citation_raw": "Taxonomy of Cognitive Functions Torsten Metzler and Kristina Shea International Conference on Engineering Design, ICED11, Copenhagen, Denmark, pp.330, August 15-18, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Highly Reconfigurable Production Systems Controlled by Real-Time Agents",
+      "year": 2011,
+      "citation_raw": "Highly Reconfigurable Production Systems Controlled by Real-Time Agents D. Schütz, M. Schraufstetter, J. Folmer, B. Vogel-Heuser, Th. Gmeiner and Kristina Shea IEEE 16th Conference on Emerging Technologies & Factory Automation (ETFA 2011), Toulouse: IEEE, September 5-9, 2011.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "An application of shape grammars to planning for CNC machining",
+      "year": 2009,
+      "citation_raw": "An application of shape grammars to planning for CNC machining Christoph Ertelt and Kristina Shea ASME 2009 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2009), San Diego, CA, USA, pp.651-660, New York, NY: American Society of Mechanical Engineers, August 30 - September 2, 2009.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Using MDM-Methods in order to improve managing of iterations in design processes",
+      "year": 2010,
+      "citation_raw": "Using MDM-Methods in order to improve managing of iterations in design processes Sebastian Kortler, Bergen Helms, Marina Berkovich, Udo Lindemann, Kristina Shea, Jan Marco Leimeister and Helmut Krcmar 12th International DSM Conference, Cambridge, United Kingdom, pp.125-138, Munich: Carl Hanser, July 22-23, 2010.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Framework for Computational Design Synthesis Based on Graph-Grammars and Function-Behavior-Structure",
+      "year": 2010,
+      "citation_raw": "A Framework for Computational Design Synthesis Based on Graph-Grammars and Function-Behavior-Structure Bergen Helms, Kristina Shea and Frank Hoisl ASME 2009 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2009), San Diego, CA, USA, pp.841-851, New York, NY: American Society of Mechanical Engineers, August 30 - September 2, 2010.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Efficient Design Space Exploration and Optimization of PHEV Architectures",
+      "year": 2010,
+      "citation_raw": "Efficient Design Space Exploration and Optimization of PHEV Architectures M. Steinhauer and Kristina Shea 21. DfX-Symposium, Buchholz, Germany, pp.247-258,: TuTech Verlag, September 23-24, 2010.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Method and Software Tool for Automated Gearbox Synthesis",
+      "year": 2009,
+      "citation_raw": "A Method and Software Tool for Automated Gearbox Synthesis Yi-shih Lin, Kristina Shea, Aylmer Johnson, John Coultate and Jamie Pears ASME 2009 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2009), San Diego, CA, USA, pp.111-121, New York, NY: American Society of Mechanical Engineers, August 30 - September 2, 2009.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Cognitive Products: Definition and Framework",
+      "year": 2010,
+      "citation_raw": "Cognitive Products: Definition and Framework Torsten Metzler and Kristina Shea 11th International Design Conference (DESIGN 2010), Dubrovnik, Croatia, pp.865-874, Zagreb: The Design Society, May 17-20, 2010.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Booggie: An Object-oriented Graph-Grammar Implementation for Engineering Design Synthesis",
+      "year": 2010,
+      "citation_raw": "Booggie: An Object-oriented Graph-Grammar Implementation for Engineering Design Synthesis Bergen Helms and Kristina Shea Fourth International Conference on Design Computing and Cognition (DCC'10), Stuttgart, Germany: Fourth International Conference on Design Computing and Cognition (DCC'10), July 12-14, 2010.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Object-oriented Concepts for Computational Design Synthesis",
+      "year": 2010,
+      "citation_raw": "Object-oriented Concepts for Computational Design Synthesis Bergen Helms and Kristina Shea 11th International Design Conference (DESIGN 2010), Cavtat/Dubrovnik, Croatia, pp.1333-1342, Zagreb: The Design Society, May 17-20, 2010.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Exploring the Integration of Spatial Grammars and Open-Source CAD Systems",
+      "year": 2009,
+      "citation_raw": "Exploring the Integration of Spatial Grammars and Open-Source CAD Systems Frank Hoisl and Kristina Shea 17th International Conference on Engineering Design, Palo Alto, CA, USA, pp.427-438, Glasgow: Design Society, August 24-27, 2009.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Integration of Perception, Global Planning and Local Planning in the Manufacturing Domain",
+      "year": 2009,
+      "citation_raw": "Integration of Perception, Global Planning and Local Planning in the Manufacturing Domain Christoph Ertelt, Thomas Rühr, Dejan Pangercic, Kristina Shea and Michael Beetz 14th IEEE Conference on Emerging Technologies & Factory Automation (ETFA 2009), Palma de Mallorca, Spain Piscataway, NJ: IEEE, September 22-26, 2009.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Graph Grammars - A Formal Method for Dynamic Structure Transformation",
+      "year": 2009,
+      "citation_raw": "Graph Grammars - A Formal Method for Dynamic Structure Transformation Bergen Helms, Katharina Eben, Kristina Shea and Udo Lindemann 11th International DSM (Design Structure Matrix) Conference, Greenville, USA, pp.93-103, München: Carl Hanser Verlag, October 12-13, 2009.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Flexible Fixture and Reconfiguration Process for the Cognitive Machine Shop",
+      "year": 2009,
+      "citation_raw": "A Flexible Fixture and Reconfiguration Process for the Cognitive Machine Shop Christoph Ertelt, Thomas Gmeiner and Kristina Shea 3rd International Conference on Changeable, Agile, Reconfigurable and Virtual Production (CARV 2009), München, Germany, pp.112-121, München: Herbert Utz Verlag, October 5-7, 2009.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Computational Product Model for Conceptual Design Using SysML",
+      "year": 2009,
+      "citation_raw": "A Computational Product Model for Conceptual Design Using SysML Stefan Wölkl and Kristina Shea ASME 2009 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2009), San Diego, CA, USA, pp.635-645, New York, NY: American Society of Mechanical Engineers, August 30 - September 2, 2009.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Computer-aided concept models and methods for vehicle design",
+      "year": 2009,
+      "citation_raw": "Computer-aided concept models and methods for vehicle design Kristina Shea, Stefan Wölkl and Bergen Helms 2. Grazer Symposium Virtuelles Fahrzeug, Graz, Austria, pp.106-117, Graz: TU Graz, April 27-28, 2009.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Grammatical Evolution of Technical Processes",
+      "year": 2009,
+      "citation_raw": "Grammatical Evolution of Technical Processes Tino Stankovic, Kristina Shea, Mario Štorga and Dorian Marjanović ASME 2009 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2009), San Diego, CA, USA, pp.895-904, New York, NY: American Society of Mechanical Engineers, August 30 - September 2, 2009.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Towards Representing, Evolving and Networking Engineering Knowledge for Computational Design Synthesis",
+      "year": 2008,
+      "citation_raw": "Towards Representing, Evolving and Networking Engineering Knowledge for Computational Design Synthesis F. Hoisl, Kristina Shea and Bergen Helms International Design Conference - Design 2008, Dubrovnik, Croatia, pp.793-800, Zagreb: Faculty of Mechanical Engineering and Naval Architecture, May 19-22, 2008.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A framework for a cognitive design-to-fabrication system",
+      "year": 2008,
+      "citation_raw": "A framework for a cognitive design-to-fabrication system Kristina Shea, Marco Engelhard, Christoph Ertelt and Frank Hoisl 7th International Symposium on Tools and Methods of Competitive Engineering (TMCE 2008), Izmir, Turkey, pp.1185-1200, Delft: Faculty of Industrial Design Engineering, Univ. of Technology, April 21-25, 2008.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A method and software prototype to support on-line planning on CNC machines",
+      "year": 2008,
+      "citation_raw": "A method and software prototype to support on-line planning on CNC machines Andreas Kain, Frank Hoisl and Kristina Shea ASME 2008 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2008), New York City, NY, USA, pp.605-615, New York, NY: American Society of Mechanical Engineers, August 3-6, 2008.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Representing and Evolving Engineering Knowledge for Computational Design Synthesis",
+      "year": 2008,
+      "citation_raw": "Representing and Evolving Engineering Knowledge for Computational Design Synthesis Bergen Helms and Kristina Shea 3rd International Conference on Design Computing and Cognition (DCC 08), Atlanta, GA, USA: 3rd International Conference on Design Computing and Cognition (DCC 08), June 23-25, 2008.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Generative design and CNC fabrication using shape grammars",
+      "year": 2008,
+      "citation_raw": "Generative design and CNC fabrication using shape grammars Christoph Ertelt and Kristina Shea ASME 2008 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE 2008), New York City, NY, USA, pp.25-34, New York, NY: American Society of Mechanical Engineers, August 3-6, 2008.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Community Building and Innovative Approaches in University Education",
+      "year": 2008,
+      "citation_raw": "Community Building and Innovative Approaches in University Education Annette Baumann and Kristina Shea World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education (ELEARN) 2008, Las Vegas, NV, USA, November 17, 2008.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "An Integrated Approach to Realize the Cognitive Machine Shop",
+      "year": 2008,
+      "citation_raw": "An Integrated Approach to Realize the Cognitive Machine Shop M.F. Zaeh, M. Beetz, Kristina Shea, G. Reinhart, O. Stursberg, M. Ostgathe, Ch. Lau, Ch. Ertelt, D. Pangercic, T. Ruehr, H. Ding and T. Paschedag 1st International Workshop on Cognition for Technical Systems, München, Germany München, October 6-7, 2008.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Semantic Web Services for the Cognitive Machine Shop",
+      "year": 2008,
+      "citation_raw": "Semantic Web Services for the Cognitive Machine Shop M. Engelhard and Kristina Shea 1st International Workshop on Cognition for Technical Systems, München, Germany München, October 6-7, 2008.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "International Design Conference - Design 2008, Dubrovnik, Croatia",
+      "year": 2008,
+      "citation_raw": "Kristina Shea, M. Engelhard, Bergen Helms and M. Merz International Design Conference - Design 2008, Dubrovnik, Croatia, pp.1401-1408, Zagreb: Faculty of Mechanical Engineering and Naval Architecture, May 19-22, 2008.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design Automation Tools for Early Phase Engineering",
+      "year": 2007,
+      "citation_raw": "Design Automation Tools for Early Phase Engineering Kristina Shea ProSTEP iViP Science Days 2007, Bremen, Germany, pp.108-117, Darmstadt: ProSTEP iViP e.V., September 25-26, 2007.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Multicriteria System-Based Method for Simulation-Driven Design Synthesis",
+      "year": 2006,
+      "citation_raw": "A Multicriteria System-Based Method for Simulation-Driven Design Synthesis Francesca Bolognini, Kristina Shea, Christopher K. Vale and Ashwin A. Seshia 32nd Design Automation Conference, Philadelphia, PA, USA, pp.651-661, New York, NY: American Society of Mechanical Engineers, September 10-13, 2006.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A computational design method for MEMS using COMSOL",
+      "year": 2007,
+      "citation_raw": "A computational design method for MEMS using COMSOL F. Bolognini, A.A. Seshia and Kristina Shea European COMSOL Conference, Grenoble, France: European COMSOL Conference, October 23-24, 2007.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Exploring The Application Of A Multidomain Simulation-Based Computational Synthesis Method In Mems Design",
+      "year": 2007,
+      "citation_raw": "Exploring The Application Of A Multidomain Simulation-Based Computational Synthesis Method In Mems Design Francesca Bolognini, Ashwin A. Seshia and Kristina Shea International Conference On Engineering Design, ICED’07, Paris, France, pp.ICED`07/305 S.l.: Design Society, August 28-31, 2007.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Structural topology optimization of braced steel frameworks using genetic programming",
+      "year": 2006,
+      "citation_raw": "Structural topology optimization of braced steel frameworks using genetic programming Robert Baldock and Kristina Shea 13th EG-ICE Workshop (EGICE 2006=, Ascona, Switzerland, pp.54-61, Berlin: Springer, June 25-30, 2006.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Multicriteria optimization of paneled building envelopes using ant colony optimization",
+      "year": 2006,
+      "citation_raw": "Multicriteria optimization of paneled building envelopes using ant colony optimization Kristina Shea, A. Sedgwick and G. Antonuntto 13th EG-ICE Workshop 2006, Ascona, Switzerland, pp.627-636, Berlin: Springer, June 25-30, 2006.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Design Production: Constructing Freeform Designs with Rapid Prototyping",
+      "year": 2005,
+      "citation_raw": "Design Production: Constructing Freeform Designs with Rapid Prototyping Lawrence Sass, Kristina Shea and Michael Powell 23rd Education and research in Computer Aided Architectural Design in Europe Conference (eCAADe), Lissabon, Portugal, pp.261-268, Lissabon: 23rd Education and research in Computer Aided Architectural Design in Europe Conference (eCAADe), September 21-24, 2005.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Virtual Synthesisers for Mechanical Gear Systems",
+      "year": 2005,
+      "citation_raw": "Virtual Synthesisers for Mechanical Gear Systems Alex C. Starling and Kristina Shea 15th International Conference on Engineering Design (ICED ‘05), Melbourne, Australia, pp.DS35_365.44 Melbourne: The Design Society, August 15-18, 2005.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Parallel Grammar for Simulation-Driven Mechanical Design Synthesis",
+      "year": 2005,
+      "citation_raw": "A Parallel Grammar for Simulation-Driven Mechanical Design Synthesis Alex C. Starling and Kristina Shea 31st Design Automation Conference, Long Beach, CA, USA, pp.427-436, New York, NY: American Society of Mechanical Engineers, September 24-28, 2005.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Combining Continuum Topology Optimization And Structural Design Guidelines For Bracing System Design In Multistory Steel Building Frames",
+      "year": 2005,
+      "citation_raw": "Combining Continuum Topology Optimization And Structural Design Guidelines For Bracing System Design In Multistory Steel Building Frames R. Baldock and Kristina Shea 12th International Workshop of the European Group of Intelligent Computing in Engineering (EG-ICE 2005), Warsaw, Poland: EG-ICE (European Group for Intelligent Computing in Engineering), June 17-19, 2005.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Evolving Optimized Braced Steel Frameworks For Tall Buildings Using Modified Pattern Search",
+      "year": 2005,
+      "citation_raw": "Evolving Optimized Braced Steel Frameworks For Tall Buildings Using Modified Pattern Search Robert Baldock, Kristina Shea and Damian Eley International Conference on Computing in Civil Engineering (ASCE 2005), Cancun, Mexico, pp.8816 Reston, VA: American Society of Civil Engineers, July 12-15, 2005.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Developing Intuitive And Interactive Software Demonstrators For Computational Design Methods",
+      "year": 2004,
+      "citation_raw": "Developing Intuitive And Interactive Software Demonstrators For Computational Design Methods M. Gourtovaia, Kristina Shea and R. Bracwell 11th International Workshop of the European Group for Intelligent Computing in Engineering (Next Generation - Intelligent Systems in Engineering, EGICE 2004), Weimar, Germany, pp.1-10, Düsseldorf: VDI Verlag, May 31 - June 1, 2004.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Structural Systems Optimization Techniques For the Building Industry",
+      "year": 2004,
+      "citation_raw": "Structural Systems Optimization Techniques For the Building Industry Robert Baldock and Kristina Shea 11th International Workshop of the European Group for Intelligent Computing in Engineering (Next Generation - Intelligent Systems in Engineering, EGICE 2004), Weimar, Germany, pp.11-15, Düsseldorf: VDI Verlag, May 31 - June 1, 2004.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Explorations In Using An Aperiodic Spatial Tiling As A Design Generator",
+      "year": 2004,
+      "citation_raw": "Explorations In Using An Aperiodic Spatial Tiling As A Design Generator Kristina Shea First International Conference on Design Computing and Cognition (DCC 2004), Cambridge, MA, USA, pp.137-156, Dordrecht: Kluwer Academic Publishers, July 19 - 21, 2004.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Novel Noon Mark Cantilever Support: From Design Generation To Realization",
+      "year": 2004,
+      "citation_raw": "A Novel Noon Mark Cantilever Support: From Design Generation To Realization Kristina Shea and X. Zhao IASS 2004: Shell and Spatial Structures from Models to Realization, Montpellier, France, pp.378-383, Madrid: IASS Secretariat, September 20-24, 2004.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "From Discrete Structures To Mechanical Systems: A Framework For Creating Performance-Based Parametric Synthesis Tools",
+      "year": 2003,
+      "citation_raw": "From Discrete Structures To Mechanical Systems: A Framework For Creating Performance-Based Parametric Synthesis Tools Kristina Shea and A.C. Starling AAAI Spring Symposium on Computational Synthesis, Palo Alto, CA, USA, pp.210-217, Menlo Park, CA: AAAI, March 24-26, 2003.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Machine Learning-Based Approach to Accelerating Computational Design Synthesis",
+      "year": 2003,
+      "citation_raw": "A Machine Learning-Based Approach to Accelerating Computational Design Synthesis C.A.W. Vale and Kristina Shea International Conference On Engineering Design, ICED’03, Stockholm, Sweden, pp.183-184, Glasgow: Design Society, August 19-21, 2003.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Grammatical Approach to Computational Generation of Mechanical Clock Designs",
+      "year": 2003,
+      "citation_raw": "A Grammatical Approach to Computational Generation of Mechanical Clock Designs Alex C. Starling and Kristina Shea International Conference On Engineering Design (ICED 2003), Stockholm, Sweden, pp.445-446, Glasgow: Design Society, August 19-21, 2003.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Towards Integrated Performance-Based Generative Design Tools",
+      "year": 2003,
+      "citation_raw": "Towards Integrated Performance-Based Generative Design Tools Kristina Shea, Robert Aish and Marina Gourtovaia 21st Conference on Education in Computer Aided Architectural Design in Europe (eCAADe 2003), Graz, Austria, pp.553-560, Graz: Graz University of technology, September 17-20, 2003.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Learning Intelligent Modification Strategies in Design Synthesis",
+      "year": 2003,
+      "citation_raw": "Learning Intelligent Modification Strategies in Design Synthesis Christopher A.W. Vale and Kristina Shea AAAI Spring Symposium on Computational Synthesis, Palo Alto, CA, USA, pp.247-254, Menlo Park, CA: AAAI, March 24-26, 2003.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Learning A ‘Bag Of Tricks’: Intelligent Search For Rule-Based Design Methods",
+      "year": 2002,
+      "citation_raw": "Learning A ‘Bag Of Tricks’: Intelligent Search For Rule-Based Design Methods C.A.W. Vale and Kristina Shea 4th ASMO UK/ISSMO Conference on Engineering Design Optimization Product and Process Improvement, Newcastle, United Kingdom, pp.184-191, Newcastle-upon-Tyne: University of Newcastle-upon-Tyne, July 4-5, 2002.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Multiobjective Optimisation Approach for the Conceptual Design of Frame Structures",
+      "year": 2002,
+      "citation_raw": "A Multiobjective Optimisation Approach for the Conceptual Design of Frame Structures A. Suppapitnarm, G.T. Parks, Kristina Shea and P.J. Clarkson Adaptive Computing in Design and Manufacture V - Fifth International Conference On Adaptive Computing In Design And Manufacture (ACDM 2002), Egham, United Kingdom, pp.109-120, Berlin: Springer, April 16-18, 2002.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Clock Grammar: The use of parallel grammars in performance-based mechanical synthesis",
+      "year": 2002,
+      "citation_raw": "A Clock Grammar: The use of parallel grammars in performance-based mechanical synthesis Alex Starling and Kristina Shea Design Theory and Methodology Conference DETC02: ASME Design Engineering Technical Conferences, Design Theory and Methodology, Montreal, Canada, pp.287-296, New York, NY: American Society of Mechanical Engineers, September 29 - October 2, 2002.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A methodology for computational design tool research",
+      "year": 2001,
+      "citation_raw": "A methodology for computational design tool research R.H. Bracewell, Kristina Shea, P.M. Langdon, L.T.M. Blessing and P.J. Clarkson 13th International Conference on Engineering Design (ICED 01), Glasgow, United Kingdom, pp.181-188, Bury St Edmunds: Professional Engineering Publishing, August 21-23, 2001.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "An Approach to Multiobjective Optimisation for Parametric Synthesis",
+      "year": 2001,
+      "citation_raw": "An Approach to Multiobjective Optimisation for Parametric Synthesis Kristina Shea International Conference on Engineering Design (ICED 2001), Glasgow, United Kingdom, pp.203-210, Bury St. Edmunds: Professional Engineering Publishing Limited for The Institution of Mechanical Engineers, August 21-23, 2001.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "CæDRe: A Product Platform to Support Creation and Evaluation of Advanced Computer Aided Engineering Tools",
+      "year": 2001,
+      "citation_raw": "CæDRe: A Product Platform to Support Creation and Evaluation of Advanced Computer Aided Engineering Tools R. Bracewell and Kristina Shea 13th International Conference on Engineering Design (ICED 2001), Glasgow, United Kingdom, pp.539-546, Bury St Edmunds: Published by Professional Engineering Publishing Limited for The Institution of Mechanical Engineers, August 21-23, 2001.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Conceptual Design of the Bicycle-Rider System by Multiobjective Optimisation",
+      "year": 2001,
+      "citation_raw": "Conceptual Design of the Bicycle-Rider System by Multiobjective Optimisation A. Suppapitnarm, G.T. Parks, Kristina Shea and P.J. Clarkson Third ASMO UK/ISSMO Conference on Engineering Design Optimization, Harrogate, United Kingdom, pp.211-218, Leeds: University of Leeds, July 9-10, 2001.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Comparison of Semi-Deterministic and Stochastic Search Techniques",
+      "year": 2000,
+      "citation_raw": "A Comparison of Semi-Deterministic and Stochastic Search Techniques A.M. Connor and Kristina Shea 4th International Conference on Adaptive Computing in Design and Manufacture (ACDM 2000), Devon, United Kingdom, pp.287-298, Berlin: Springer, Apr-00.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Topological Optimisation Of Bicycle Frames Using A Structural Shape Grammar",
+      "year": 2000,
+      "citation_raw": "Topological Optimisation Of Bicycle Frames Using A Structural Shape Grammar A. Suppapitnarm, Kristina Shea, G.T. Parks and P.J. Clarkson Second ASMO/ISSMO Conference on Engineering Design Optimization, Swansea, United Kingdom, pp.211-218,: Second ASMO/ISSMO Conference on Engineering Design Optimization, July 10-11, 2000.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Generating Rational Free-Form Structures",
+      "year": 2000,
+      "citation_raw": "Generating Rational Free-Form Structures Kristina Shea Greenwich 2000: Digital Creativity Symposium, London, United Kingdom, pp.119-128, Dartford: University of Greenwich, School of Architecture, January 13-15, 2000.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Computational Control for Active Structures",
+      "year": 2000,
+      "citation_raw": "Computational Control for Active Structures I. Smith, Kristina Shea and E. Fest Structures Congress 2000, Philadelphia, PA, USA, pp.1-8, New York, NY: American Society of Civil Engineers, May 8-10, 2000.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "EifForm: A Generative Structural Design System",
+      "year": 2000,
+      "citation_raw": "EifForm: A Generative Structural Design System Kristina Shea 2000 ACSA Technology Conference: Emerging Technologies and Design: The Intersection of Design and Technology, Cambridge, MA, USA, pp.87-91, s.l.: ACSA, July 14-17, 2000.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Extending Active Control to Build Intelligent Structures",
+      "year": 1999,
+      "citation_raw": "Extending Active Control to Build Intelligent Structures Ian F.C. Smith and Kristina Shea IABSE Symposium 1999: Structures for the Future - the Search for Quality, Rio de Janeiro, Brazil, pp.280-281, Zurich: International Association for Bridge and Structural Engineering, August 25-27.1999.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Task and Software Independent CAE Course",
+      "year": 1999,
+      "citation_raw": "A Task and Software Independent CAE Course B. Raphael, Kristina Shea and Smith I. Seventh International Conference on Civil and Structural Engineering and The Fifth International Conference on the Applications of Artificial Intelligence to Civil and Structural Engineering, Oxford, United Kingdom, pp.39-46, Edinburgh: Civil-Comp Press, September 13-15, 1999.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Applying Shape Annealing to Full-Scale Transmission Tower Re-Design",
+      "year": 1999,
+      "citation_raw": "Applying Shape Annealing to Full-Scale Transmission Tower Re-Design Kristina Shea and I. Smith ASME Design Engineering Technical Conferences, Las Vegas, NV, USA, pp.169-178, New York, NY: American Society of Mechanical Engineers, September 12-15, 1999.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Topology Design of Truss Structures by Shape Annealing",
+      "year": 1998,
+      "citation_raw": "Topology Design of Truss Structures by Shape Annealing Kristina Shea and J. Cagan 1998 ASME Design Engineering Technical Conferences, Atlanta, GA, USA, pp.1-11,, September 13-16, 1998.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Generating Structural Essays from Languages of Discrete Structures",
+      "year": 1998,
+      "citation_raw": "Generating Structural Essays from Languages of Discrete Structures Kristina Shea and J. Cagan Artificial Intelligence in Design ’98, Lisbon, Portugal, pp.365-384, Dordrecht: Kluwer, July 20-23, 1998.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Intelligent structures: A new direction in structural control",
+      "year": 1998,
+      "citation_raw": "Intelligent structures: A new direction in structural control Kristina Shea and Ian F. Smith International Meeting on Artificial Intelligence in Structural Engineering, Ascona, Switzerland, pp.398-410, Berlin: Springer, July 1998.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "A Shape Annealing Approach to Optimal Truss Design with Dynamic Grouping of Members",
+      "year": 1995,
+      "citation_raw": "A Shape Annealing Approach to Optimal Truss Design with Dynamic Grouping of Members Kristina Shea, J. Cagan and S.J. Fenves The 1995 ASME Design Engineering Technical Conferences - 21st Annual Design Automation Conference, Boston, MA, USA, pp.377-384, New York, NY: American Society of Mechanical Engineers, September 17-20, 1995.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/conference-contributions.html"
+    },
+    {
+      "title": "Human and Computational Approaches for Design Problem-Solving",
+      "year": 2016,
+      "citation_raw": "Human and Computational Approaches for Design Problem-Solving Paul Egan and Jonathan Cagan In Experimental Design Research, edited by Cash, Philip, Stankovic, Tino and Štorga, Mario, pp. 187-205, Cham: Springer, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/books.html"
+    },
+    {
+      "title": "An Introduction to Experimental Design Research",
+      "year": 2016,
+      "citation_raw": "An Introduction to Experimental Design Research Philip Cash, Tino Stankovic and Mario Štorga In Experimental Design Research, edited by Cash, Philip, Stankovic, Tino and Štorga, Mario, pp. 3-12, Cham: Springer, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/books.html"
+    },
+    {
+      "title": "Experimental Design Research: Approaches, Perspectives, Applications",
+      "year": 2016,
+      "citation_raw": "Experimental Design Research: Approaches, Perspectives, Applications Cash, Philip, Stankovic, Tino and Štorga, Mario Cham: Springer, 2016.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/books.html"
+    },
+    {
+      "title": "Von Anforderungslisten zum konzeptionellen Design - Funktionsbasierte Analyse von Anforderungen an Product-Service Systems",
+      "year": 2012,
+      "citation_raw": "Von Anforderungslisten zum konzeptionellen Design - Funktionsbasierte Analyse von Anforderungen an Product-Service Systems Matthias Gürtler, Sebastian Kortler, Bergen Helms, Marina Berkovich, Jan Marco Leimeister, Helmut Krcmar, Kristina Shea, Udo Lindemann and Maik Maurer In Dienstleistungsmodellierung 2012, edited by Thomas, Oliver and Nüttgens, Markus, pp. 96-113, Wiesbaden: Springer Gabler, 2012.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/books.html"
+    },
+    {
+      "title": "The Cognitive Factory",
+      "year": 2009,
+      "citation_raw": "The Cognitive Factory M.F. Zaeh, M. Beetz, Kristina Shea, G. Reinhart, B. Bender, M. Ostgathe, W. Vogl, M. Wiesbeck, M. Engelhard, Ch. Ertelt, M. Friedrich, T. Rühr, C. Lau and S. Herle In Changeable and reconfigurable manufacturing systems, edited by ElMaraghy, Hoda A., pp. 355-371, London: Springer, 2009.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/books.html"
+    },
+    {
+      "title": "In Blurring the lines : [computer-aided design and manufacturing in contemporary architecture], edited by Chaszar, André, pp",
+      "year": 2006,
+      "citation_raw": "Generative Design Kristina Shea In Blurring the lines : [computer-aided design and manufacturing in contemporary architecture], edited by Chaszar, André, pp. 54-61, Hoboken, NJ: Wiley, 2006.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/books.html"
+    },
+    {
+      "title": "edited by Leach, Neil, pp",
+      "year": 2004,
+      "citation_raw": "Directed Randomness Kristina Shea In Digital Tectonics, edited by Leach, Neil, pp. 88-101, Chichester: Wiley, 2004.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/books.html"
+    },
+    {
+      "title": "Engineering Exegesis: Generative Design: Blurring the Lines Between Architect, Engineer and Computer",
+      "year": 2003,
+      "citation_raw": "Engineering Exegesis: Generative Design: Blurring the Lines Between Architect, Engineer and Computer Kristina Shea In Home Front: New Developments in Housing, edited by Bullivant, Lucy, vol. 73 : no. 4, pp. 116-121, Chichester: Wiley, 2003.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/books.html"
+    },
+    {
+      "title": "Creating Structural Configurations",
+      "year": 2001,
+      "citation_raw": "Creating Structural Configurations Panos Y. Papalambros and Kristina Shea In Formal Engineering Design Synthesis, edited by Antonsson, Erik K., pp. 93-125, Cambridge: Cambridge University Press, 2001.",
+      "source_url": "https://edac.ethz.ch/publications-and-awards/books.html"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "university": "POSTECH",
+  "university_key": "postech",
+  "pi": "박성민",
+  "lab_name": null,
+  "lab_url": null,
+  "publication_urls": [],
+  "accessed_at": "2026-11-12T13:55:04.521Z",
+  "coverage_notes": [
+    "Attempted https://me.postech.ac.kr/ko/page/professor26 error Error: Selector \"body\" not found",
+    "Actual official lab publication page visited; visible text saved. Conservative quoted-title extraction only. Full category/pagination/detail and publication-status verification remains incomplete.",
+    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  ],
+  "status": "partial",
+  "papers": [],
+  "investigation_stage": "full_site_attempted",
+  "source_page_manifest": [
+    {
+      "url": "https://me.postech.ac.kr/ko/page/professor26",
+      "capture_kind": "browser_snapshot",
+      "characters": 3625
+    },
+    {
+      "url": "https://www.ims-postech.com/",
+      "capture_kind": "browser_snapshot",
+      "characters": 3964
+    },
+    {
+      "url": "https://www.ims-postech.com/publication",
+      "capture_kind": "browser_snapshot",
+      "characters": 1730
+    }
+  ]
+}

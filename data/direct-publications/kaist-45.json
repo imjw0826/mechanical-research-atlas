@@ -1,0 +1,2324 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "정상권 JEONG, Sangkwon",
+  "lab_name": null,
+  "lab_url": "https://sites.google.com/view/cryokaist",
+  "publication_urls": [
+    "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-journal",
+    "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal",
+    "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference",
+    "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Operational simulation of ADR (Adiabatic Demagnetization Refrigerator) assisted single-shot DR (Dilution Refrigerator) with small Helium-3 inventory, Progress in Superconductivity and Cryogenics",
+      "year": 2024,
+      "citation_raw": "An, B., Kwon, D., Ku, M., & Jeong, S. (2024). Operational simulation of ADR (Adiabatic Demagnetization Refrigerator) assisted single-shot DR (Dilution Refrigerator) with small Helium-3 inventory. Progress in Superconductivity and Cryogenics, 26(4), 89-94.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Experimental study on the cryogenic thermal storage unit (TSU) below-70° C. 한국초전도· 저온논문지 (구 한국초전도저온공학회논문지)",
+      "year": 2024,
+      "citation_raw": "Byeon, B., Kim, K. J., Jeong, S., min Kim, D., Kim, M. S., Kim, G. D., ... & Lee, K. T. (2024). Experimental study on the cryogenic thermal storage unit (TSU) below-70° C. 한국초전도· 저온논문지 (구 한국초전도저온공학회논문지), 26(1), 20-24.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Modeling and simulation of RAON cryogenic system using EcosimPro, Progress in Superconductivity and Cryogenics",
+      "year": 2022,
+      "citation_raw": "Byeongchang, B., Denis, G., Sangkwon, J., Taekyung, K., & Lingxue, J. (2022). Modeling and simulation of RAON cryogenic system using EcosimPro. Progress in Superconductivity and Cryogenics, 24(4), 59-64.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Review on innovative small refrigeration methods for sub-Kelvin cooling, Progress in superconductivity and Cryogenics",
+      "year": 2022,
+      "citation_raw": "Dohoon, K., & Sangkwon, J. (2022). Review on innovative small refrigeration methods for sub-Kelvin cooling. Progress in superconductivity and Cryogenics, 24(4), 71-77.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "A review on a 4 K cryogenic refrigeration system for quantum computing",
+      "year": 2022,
+      "citation_raw": "Park, J., Kim, B., & Jeong, S. (2022). A review on a 4 K cryogenic refrigeration system for quantum computing. 한국초전도저온공학회논문지, 24(2), 1-6.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Prediction model of 4.5 K sorption cooler for integrating with adiabatic demagnetization refrigerator (ADR)",
+      "year": 2022,
+      "citation_raw": "Kwon, D., & Jeong, S. (2022). Prediction model of 4.5 K sorption cooler for integrating with adiabatic demagnetization refrigerator (ADR). 한국초전도저온공학회논문지, 24(1), 23-28.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Conceptual design of hybrid electric vertical take-off and landing (eVTOL) aircraft with a liquid hydrogen fuel tank",
+      "year": 2022,
+      "citation_raw": "Kim, J., Kwon, D., & Jeong, S. (2022). Conceptual design of hybrid electric vertical take-off and landing (eVTOL) aircraft with a liquid hydrogen fuel tank. 한국초전도저온공학회논문지, 24(2), 27-38.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Review on innovative small refrigeration methods for sub-Kelvin cooling",
+      "year": 2022,
+      "citation_raw": "Kwon, D., Bae, J., & Jeong, S. (2022). Review on innovative small refrigeration methods for sub-Kelvin cooling. 한국초전도저온공학회논문지, 24(4), 71-77.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Modeling and simulation of RAON cryogenic system using EcosimPro",
+      "year": 2022,
+      "citation_raw": "Byeon, B., Kim, B., Groshev, D., Jeong, S., Ki, T., & Jin, L. (2022). Modeling and simulation of RAON cryogenic system using EcosimPro. 한국초전도저온공학회논문지, 24(4), 59-64.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "극저온 LNG 배관냉각 특성에 대한 연구. 한국수소및신에너지학회논문집",
+      "year": 2022,
+      "citation_raw": "변병창, 김경중, 정상권, 김모세, 이상윤, 이근태, & 김동민. (2022). 극저온 LNG 배관냉각 특성에 대한 연구. 한국수소및신에너지학회논문집, 33(6), 808-818.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Transient cooling operation of multistage thermoelectric cooler (TEC), Progress in Superconductivity and Cryogenics",
+      "year": 2021,
+      "citation_raw": "Park, J., & Jeong, S. (2021). Transient cooling operation of multistage thermoelectric cooler (TEC). Progress in Superconductivity and Cryogenics, 23(3), 55-59.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Enhancement of the round-trip efficiency of liquid air energy storage (LAES) system using cascade cold storage units, Progress in Superconductivity and Cryogenics",
+      "year": 2020,
+      "citation_raw": "Kim, J., Byeon, B., Kim, K. J., & Jeong, S. (2020). Enhancement of the round-trip efficiency of liquid air energy storage (LAES) system using cascade cold storage units. Progress in Superconductivity and Cryogenics, 22(4), 45-50.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Effectiveness analysis of pre-cooling methods on hydrogen liquefaction process, Progress in Superconductivity and Cryogenics",
+      "year": 2020,
+      "citation_raw": "Yang, Y., Park, T., Kwon, D., Jin, L., & Jeong, S. (2020). Effectiveness analysis of pre-cooling methods on hydrogen liquefaction process. Progress in Superconductivity and Cryogenics, 22(3), 20-24.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Investigation of amorphous material with ice for cold thermal storage, Progress in superconductivity and cryogenics",
+      "year": 2019,
+      "citation_raw": "Kim, J., Park, H., Bae, J., Jeong, S., & Chang, D. (2019). Investigation of amorphous material with ice for cold thermal storage. Progress in superconductivity and cryogenics, 21(1), 40-44.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Jeong (2018), Numerical and experimental studies of cryogenic reciprocating expander without inner piston Progress in Superconductivity and Cryogenics (PSAC)",
+      "year": 2018,
+      "citation_raw": "S. Park , J. Bae, K. Kim, S. Jeong (2018), Numerical and experimental studies of cryogenic reciprocating expander without inner piston Progress in Superconductivity and Cryogenics (PSAC)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Pressure-volume-temperature gauging method experiment using liquid nitrogen under microgravity condition of parabolic flight",
+      "year": 2014,
+      "citation_raw": "서만수, 박하나, 유동규, 유정현, 정상권, (2014), Pressure-volume-temperature gauging method experiment using liquid nitrogen under microgravity condition of parabolic flight, 한국초전도/저온공학회논문지",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2014), Experimental investigation of line chill down process using subcooled liquid nitrogen",
+      "year": 2014,
+      "citation_raw": "유동규, 김영철, 정영석, 서만수, 정상권, (2014), Experimental investigation of line chill down process using subcooled liquid nitrogen, 한국초전도/저온공학회논문지",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2014), Experimental investigation of line chill down process using subcooled liquid nitrogen",
+      "year": 2014,
+      "citation_raw": "유동규, 김영철, 정영석, 서만수, 정상권, (2014), Experimental investigation of line chill down process using subcooled liquid nitrogen, 한국초전도/저온공학회논문지 Lingxue Jin, 박지호, 이천규, 서만수, 정상권 (2014) Prediction of the effective thermal conductivity of microsphere insulation, Progress in Superconductivity and Cryogenics (PSAC) 16",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "정상권 (2014), Experimental investigation on No-Vent Fill (NVF) process using liquid Nitrogen",
+      "year": 2014,
+      "citation_raw": "김영철, 서만수, 유동규, 정상권 (2014), Experimental investigation on No-Vent Fill (NVF) process using liquid Nitrogen, 한국초전도/저온공학회논문지 16(4)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Design of closed-loop nitrogen Joule-Thomson refrigeration cycle for 67 K with sub-atmospheric device",
+      "year": 2013,
+      "citation_raw": "이천규, 이지성, 정상권, (2013), Design of closed-loop nitrogen Joule-Thomson refrigeration cycle for 67 K with sub-atmospheric device, 한국초전도/저온공학회논문지 15(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2012), 상온 능동형 자기 재생 냉동기의 개발",
+      "year": 2012,
+      "citation_raw": "이천규, 이지성, 정상권, (2013), Design of closed-loop nitrogen Joule-Thomson refrigeration cycle for 67 K with sub-atmospheric device, 한국초전도/저온공학회논문지 15(1) 박인명, 김영권, 정상권, (2012), 상온 능동형 자기 재생 냉동기의 개발, 한국초전도/저온공학회논문지 14(3)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2012), 수소 재액화용 단열 탈자 냉동기의 설계",
+      "year": 2012,
+      "citation_raw": "박지호, 김영권, 정상권, 김석호, (2012), 수소 재액화용 단열 탈자 냉동기의 설계, 한국초전도/저온공학회논문지 14(3)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2012), 순간 해석 기법을 이용한 PVT 잔량 측정법의 극저온 균일 온도 조건에서의 실험적 연구",
+      "year": 2012,
+      "citation_raw": "서만수, 정상권, 정영석, 구동훈, 지동진, (2012), 순간 해석 기법을 이용한 PVT 잔량 측정법의 극저온 균일 온도 조건에서의 실험적 연구, 한국초전도/저온공학회논문지 14(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2012), 순간 해석 기법을 이용한 PVT 잔량 측정법의 극저온 균일 온도 조건에서의 실험적 연구",
+      "year": 2012,
+      "citation_raw": "서만수, 정상권, 정영석, 구동훈, 지동진, (2012), 순간 해석 기법을 이용한 PVT 잔량 측정법의 극저온 균일 온도 조건에서의 실험적 연구, 한국초전도/저온공학회논문지 14(1) 정상권, 기태경, (2012), 맥동관 엔진의 구현 가능성에 대한 연구, 한국초전도/저온공학회논문지 14(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2011), 고압 상황에서 작동되는 극저온 기액 분리기와 액체 계면 측정기의 개발",
+      "year": 2011,
+      "citation_raw": "이천규, 황규완, 정상권, (2011), 고압 상황에서 작동되는 극저온 기액 분리기와 액체 계면 측정기의 개발, 한국초전도/저온공학회논문지 13(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2011), 탑재형 냉동기를 이용한 고온 초전도 모터 개발 및 회전 실험",
+      "year": 2011,
+      "citation_raw": "기태경, 김영권, 김희선, 정상권, (2011), 탑재형 냉동기를 이용한 고온 초전도 모터 개발 및 회전 실험, 한국초전도/저온공학회논문지",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2010), 마이크로 채널 PCHE의 압력손실 특성에 관한 연구",
+      "year": 2010,
+      "citation_raw": "김진혁, 백승환, 정상권, (2010), 마이크로 채널 PCHE의 압력손실 특성에 관한 연구, 설비공학 논문집 22(11)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2010), 다양한 파우더 충전 단열 방법의 단열 성능에 대한 실험적 연구",
+      "year": 2010,
+      "citation_raw": "김희선, 정상권, 정성하, (2010), 다양한 파우더 충전 단열 방법의 단열 성능에 대한 실험적 연구, 한국초전도/저온공학회논문지 12(3)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2010), LNG-FPSO(Liquefied Natural Gas-Floating Production Storage and Offloading)용 질소 팽창 사이클의 효율 개선에 대한 연구",
+      "year": 2010,
+      "citation_raw": "백승환, 정상권, 김선영, (2010), LNG-FPSO(Liquefied Natural Gas-Floating Production Storage and Offloading)용 질소 팽창 사이클의 효율 개선에 대한 연구, 설비공학 논문집 22(7)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2010), LNG-FPSO(Liquefied Natural Gas-Floating Production Storage and Offloading)용 질소 팽창 사이클의 효율 개선에 대한 연구",
+      "year": 2010,
+      "citation_raw": "백승환, 정상권, 김선영, (2010), LNG-FPSO(Liquefied Natural Gas-Floating Production Storage and Offloading)용 질소 팽창 사이클의 효율 개선에 대한 연구, 설비공학 논문집 22(7) 이지성, 정상권, (2010), R14와 질소 혼합유체를 사용하는 극저온 열사이펀의 과도상태 거동, 한국초전도/저온공학회논문지 12(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "N2와 CF4 혼합물을 작동유체로 하는 극저온 열사이펀에 대한 실험적 연구",
+      "year": 2009,
+      "citation_raw": "김영권, 이지성, 정상권, 정세용, 박병준, 한영희, (2009), N2와 CF4 혼합물을 작동유체로 하는 극저온 열사이펀에 대한 실험적 연구, 설비공학 논문집 21(9)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Transparent cryogenic thermosiphon using N2 and CF4 mixture as the working fluid",
+      "year": 2009,
+      "citation_raw": "정상권, 이지성, 고준석, 김영권, 정세영, 한영희, Transparent cryogenic thermosiphon using N2 and CF4 mixture as the working fluid, 한국초전도/저온공학회논문지 11(2) 황규완, 정상권, (2009), Triplet 열교환기를 사용하는 소형 J-T 냉동기, 한국초전도/저온공학회논문지 11(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2008), Miniature J-T cryocooler using argon and nitrous oxide mixture",
+      "year": 2008,
+      "citation_raw": "황규완, 정상권, (2008), Miniature J-T cryocooler using argon and nitrous oxide mixture, 한국초전도/저온공학회논문지 10(4)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Selection of working fluid for cryosurgical probe considering biological heat transfer",
+      "year": 2007,
+      "citation_raw": "정상권, 황규완, (2007), Selection of working fluid for cryosurgical probe considering biological heat transfer, 한국초전도/저온공학회논문지 9(4)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2007), 확산동기 증발에 의한 극저온 액체 과냉각",
+      "year": 2007,
+      "citation_raw": "정상권, 황규완, (2007), Selection of working fluid for cryosurgical probe considering biological heat transfer, 한국초전도/저온공학회논문지 9(4) 정상권, 조남경, (2007), 확산동기 증발에 의한 극저온 액체 과냉각, 한국초전도/저온공학회논문지 9(3)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2007), 초전도 관내연선도체 접합부에서의 전류 불균일에 대한 수치적 분석",
+      "year": 2007,
+      "citation_raw": "정상권, 최성민, 박갑래, 이상일, (2007), 초전도 관내연선도체 접합부에서의 전류 불균일에 대한 수치적 분석, 한국초전도/저온공학회논문지 9(3)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2007), 저온 수술 프로브용 소형 Joule-Thomson 냉동기의 설계",
+      "year": 2007,
+      "citation_raw": "황규완, 정상권, 인세환, (2007), 저온 수술 프로브용 소형 Joule-Thomson 냉동기의 설계, 한국초전도/저온공학회논문지 9(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "회전하는 맥동관 냉동기의 맥동관에 대한 2차원 모델 해석",
+      "year": 2006,
+      "citation_raw": "최재영, 정은수, 정상권, (2006), 회전하는 맥동관 냉동기의 맥동관에 대한 2차원 모델 해석, 한국초전도/저온공학회논문지 8(3)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "A review of Magnetic Refrigeration Technology",
+      "year": 2006,
+      "citation_raw": "정상권, T. Numazawa, A. Rowe, (2006), A review of Magnetic Refrigeration Technology, 한국초전도/저온공학회논문지 8(2)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2005), 소형 압축기를 이용한 관성관형 맥동관 냉동기의 성능 특성에 대한 실험적 연구",
+      "year": 2005,
+      "citation_raw": "정상권, T. Numazawa, A. Rowe, (2006), A review of Magnetic Refrigeration Technology, 한국초전도/저온공학회논문지 8(2) 김홍성, 정상권, (2005), 소형 압축기를 이용한 관성관형 맥동관 냉동기의 성능 특성에 대한 실험적 연구, 설비공학 논문집 17(6)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "극저온 추진제 고밀도화 기술동향 및 적용방안 9(3)",
+      "year": 2005,
+      "citation_raw": "조남경, 한상엽, 김영목, 정상권, (2005), 극저온 추진제 고밀도화 기술동향 및 적용방안 9(3)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2005), 추진제 탱크내의 액체산소 온도상승에 대한 해석적 고찰",
+      "year": 2005,
+      "citation_raw": "조남경, 정용갑, 김영목, 정상권, (2005), 추진제 탱크내의 액체산소 온도상승에 대한 해석적 고찰, 한국추진공학회지 9(3)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2004), 이중 입구형 맥동관 냉동기에서의 압력 파형 측정",
+      "year": 2004,
+      "citation_raw": "정제헌, 남관우, 정상권, 정은수, (2004), 이중 입구형 맥동관 냉동기에서의 압력 파형 측정, 설비공학 논문집 16(4)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2004), 소형 관성관형 맥동관 냉동기의 실험 및 단열 해석",
+      "year": 2004,
+      "citation_raw": "남중원, 남관우, 정상권, (2004), 소형 관성관형 맥동관 냉동기의 실험 및 단열 해석, 한국초전도저온공학회논문지 6(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2003), 냉매 저장방식에 의한 쾌속 냉각장치에 대한 실험적 연구",
+      "year": 2003,
+      "citation_raw": "장기태, 고준석, 정상권, (2003), 냉매 저장방식에 의한 쾌속 냉각장치에 대한 실험적 연구, 설비공학 논문집 15(11)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2003), 소형 흡착식 냉동기에 대한 실험적 연구",
+      "year": 2003,
+      "citation_raw": "고준석, 정상권, (2003), 소형 흡착식 냉동기에 대한 실험적 연구, 설비공학 논문집 15(4)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2003), 맥동압력조건에서 재생기를 통한 왕복유동의 압력강하 특성에 대한 연구",
+      "year": 2003,
+      "citation_raw": "최성렬, 남관우, 정상권, (2003), 맥동압력조건에서 재생기를 통한 왕복유동의 압력강하 특성에 대한 연구, 한국초전도/저온공학회논문지 5(2)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2003), Contractible heat pipe for conduction cooled superconduction magnets",
+      "year": 2003,
+      "citation_raw": "S.H. Kim, Sangkwon Jeong, H.B. Jin, K.D. Sim, (2003), Contractible heat pipe for conduction cooled superconduction magnets, 한국초전도/저온공학회논문지 5(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2003), Contractible heat pipe for conduction cooled superconduction magnets",
+      "year": 2002,
+      "citation_raw": "S.H. Kim, Sangkwon Jeong, H.B. Jin, K.D. Sim, (2003), Contractible heat pipe for conduction cooled superconduction magnets, 한국초전도/저온공학회논문지 5(1) 정상권, (2002), 액체로켓 엔진에서의 극저온 산화제의 유동 특성, 한국추진공학회지 6(4)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2002), 극저온 맥동 압력 조건에서의 재생기에 관한 실험적 연구",
+      "year": 2002,
+      "citation_raw": "남관우, 정상권, 정은수, (2002), 극저온 맥동 압력 조건에서의 재생기에 관한 실험적 연구, 대학기계학회논문집 B 36(8)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2002), 펄스 모드로 작동하는 증기냉각 전류 도입선에 관한 연구",
+      "year": 2002,
+      "citation_raw": "인세환, 정상권, (2002), 펄스 모드로 작동하는 증기냉각 전류 도입선에 관한 연구, 한국초전도/저온공학회논문지 4(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2001), NMR 자석용 고온 초전도 내부 코일을 위한 플럭스 펌프에 대한 실험",
+      "year": 2001,
+      "citation_raw": "정상권, (2001), NMR 자석용 고온 초전도 내부 코일을 위한 플럭스 펌프에 대한 실험, 한국초전도/저온공학회 논문지 3(2)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2000), 회전하는 극저온 시스템의 단열 특성에 관한 실험적 연구",
+      "year": 2000,
+      "citation_raw": "정상권, (2000), 회전하는 극저온 시스템의 단열 특성에 관한 실험적 연구, 한국초전도/저온공학회 논문지 2(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2000), 맥동관 냉동기 열교환기에 관한 실험적 연구",
+      "year": 2000,
+      "citation_raw": "정상권, (2000), 맥동관 냉동기 열교환기에 관한 실험적 연구, 설비공학 논문집 12(3)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2000), 극저온 Joule-Thomson 냉동기용 혼합냉매 결정에 관한 연구",
+      "year": 2000,
+      "citation_raw": "정상권, (2000), 극저온 Joule-Thomson 냉동기용 혼합냉매 결정에 관한 연구, 공기조화냉동공학논문집 12(10)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2000), 맥동관 내부의 열전달에 관한 실험적 연구",
+      "year": 2000,
+      "citation_raw": "김민규, 남관우, 정상권, 장호일, 정은수, 장호명, (2000), 맥동관 내부의 열전달에 관한 실험적 연구, 한국초전도/저온공학회논문지 2(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(2000), 혼합냉매를 이용한 극저온 J-T 냉동기에 관한 실험적 연구",
+      "year": 2000,
+      "citation_raw": "이경수, 정상권, (2000), 혼합냉매를 이용한 극저온 J-T 냉동기에 관한 실험적 연구, 한국초전도/저온공학회 논문지 3",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(1999), 관내연선도체 초전도 자석에서 로프 전류의 형성에 관한 연구",
+      "year": 1999,
+      "citation_raw": "김석호, 정상권, (1999), 관내연선도체 초전도 자석에서 로프 전류의 형성에 관한 연구, 한국초전도/저온공학회논문지 1(1)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(1999), Roebuck 냉동기를 응용한 회전형 헬륨 재응축 장치",
+      "year": 1999,
+      "citation_raw": "정상권, 이창규, (1999), Roebuck 냉동기를 응용한 회전형 헬륨 재응축 장치, 설비공학 논문집 11(4)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(1998), 초전도 통신소자용 냉각기술의 현황 및 전망",
+      "year": 1998,
+      "citation_raw": "정상권, (1998), 초전도 통신소자용 냉각기술의 현황 및 전망, 전기전자재료학회지 11",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(1998), 동특성을 고려한 열펌프의 엑서지 해석",
+      "year": 1998,
+      "citation_raw": "장기태, 남관우, 정상권, (1998), 동특성을 고려한 열펌프의 엑서지 해석, 설비공학논문집 10(2)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(1997), 초전도 관내연선 도체의 한계자속변화에 대한 연구",
+      "year": 1997,
+      "citation_raw": "정상권, (1997), 초전도 관내연선 도체의 한계자속변화에 대한 연구, 전기학회논문지 46(4)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(1997), 맥동관 냉동기에서의 열전달 형상에 관한 연구",
+      "year": 1997,
+      "citation_raw": "남관우, 정상권, (1997), 맥동관 냉동기에서의 열전달 형상에 관한 연구, 대한설비공학회 동계학술발표회 논문집 43",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "(1987), 열교환 과정을 고려한 혼합매체 냉동사이클의 엑서지 해석",
+      "year": 1987,
+      "citation_raw": "정상권, 노승탁, (1987), 열교환 과정을 고려한 혼합매체 냉동사이클의 엑서지 해석, 설비공학논문집 16(3)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-journal"
+    },
+    {
+      "title": "Cooling power matching in two-stage Stirling cooler",
+      "year": 2024,
+      "citation_raw": "Kim, B., Kwon, D. & Jeong, S. (2024). Cooling power matching in two-stage Stirling cooler, 29th International Cryogenic Engineering Conference and International Cryogenic Material Conference",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Investigation of the stand-alone cryomodule for the 3rd harmonic cavity of the synchrotron light source",
+      "year": 2024,
+      "citation_raw": "Han, J. H., Sohn, Y., Kako, E., Park, H., Kim, E. S., & Jeong, S. (2024). Investigation of the stand-alone cryomodule for the 3rd harmonic cavity of the synchrotron light source., 29th International Cryogenic Engineering Conference and International Cryogenic Material Conference",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Development of the 4 K G-M assisted J-T cooler with off-the-shelf mini compressor",
+      "year": 2024,
+      "citation_raw": "Ghilardi, G., Bae, J. & Jeong, S. (2024). Development of the 4 K G-M assisted J-T cooler with off-the-shelf mini compressor., 29th International Cryogenic Engineering Conference and International Cryogenic Material Conference",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Proof-of-Concept Testing for Integrating a Stationary Cryocooler into the Rotor of a Superconducting Motor",
+      "year": 2024,
+      "citation_raw": "A.J. Caughley ., N. Allpress., G. Lumsden., N. Rogers-Rhen., M. Gschwendtner., Jeong, S. (2024). Proof-of-Concept Testing for Integrating a Stationary Cryocooler into the Rotor of a Superconducting Motor. 23rd International Cryocooler Conference.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Performance Enhancement of a Sub-Kelvin Adiabatic Demagnetization Refrigerator (ADR) Precooled by an Integrated Sorption Cooler",
+      "year": 2024,
+      "citation_raw": "Kwon, D., Bae, J., Jeong, S. (2024). Performance Enhancement of a Sub-Kelvin Adiabatic Demagnetization Refrigerator (ADR) Precooled by an Integrated Sorption Cooler. 23rd International Cryocooler Conference.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Development of 5 K sorption J-T cooler with thin-plate type sorption compressor",
+      "year": 2024,
+      "citation_raw": "Bae, J., Kwon, D., Jeong, S. (2024). Development of 5 K sorption J-T cooler with thin-plate type sorption compressor. 23rd International Cryocooler Conference.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Efficient cryogenic cooling method for rotating HTS applications, stationary or rotating cryocooler",
+      "year": 2023,
+      "citation_raw": "Jeong, S., Badcock, R. A., Caughley, A., & Kim, B. (2023). Efficient cryogenic cooling method for rotating HTS applications; stationary or rotating cryocooler. In 36th International Symposium on Superconductivity, ISS 2023. Paihau-Robinson Research Institute, Victoria University of Wellington.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Experimental investigation of novel thermal energy storage unit for liquid air energy storage system",
+      "year": 2023,
+      "citation_raw": "Kim, K. J., Kim, J., & Jeong, S. (2023). Experimental investigation of novel thermal energy storage unit for liquid air energy storage system. In 26th International Congress of Refrigeration. French Association of Refrigeration.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Development of the sorption-assisted adiabatic demagnetization refrigerator (ADR) for sub-Kelvin cooling",
+      "year": 2023,
+      "citation_raw": "Kwon, D., Bae, J., & Jeong, S. (2023). Development of the sorption-assisted adiabatic demagnetization refrigerator (ADR) for sub-Kelvin cooling. In 30th Space Cryogenics Workshop. Cryogenic Society of America.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Experimental and numerical investigation of cryogenic no-vent fill (NVF) process using adsorption on activated carbon",
+      "year": 2023,
+      "citation_raw": "Kim, J., Kim, K. J., Bae, J., & Jeong, S. (2023). Experimental and numerical investigation of cryogenic no-vent fill (NVF) process using adsorption on activated carbon. In 30th Space Cryogenics Workshop. Cryogenic Society of America.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Development of switchless thin-plate sorption compressor and miniaturized check valves for 5 K JT cooler",
+      "year": 2023,
+      "citation_raw": "Bae, J. H., KIM, B., & Jeong, S. (2023). Development of switchless thin-plate sorption compressor and miniaturized check valves for 5 K JT cooler. In 2023 Cryogenic Engineering Conference and International Cryogenic Materials Conference. CEC-ICMC.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "S. (2023) Numerical study on two-stage Stirling cryocooler with a long second expansion space",
+      "year": 2023,
+      "citation_raw": "Kim, B., Kim, J. & Jeong, S. (2023) Numerical study on two-stage Stirling cryocooler with a long second expansion space. Cryogenic Engineering Conference - International Cryogenic Materials Conference 2023.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "S. (2022, October)",
+      "year": 2022,
+      "citation_raw": "Kwon, D., Kim, B., & Jeong, S. (2022, October). Thermal design of the conduction-cooled AC high temperature superconducting magnet below 10 K. In Applied Superconductivity Conference 2022. IEEE Council on Superconductivity.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "S. (2022, June)",
+      "year": 2022,
+      "citation_raw": "Kwon, D., Kim, B., & Jeong, S. (2022, June). Fabrication of 4 T HTS magnet for adiabatic demagnetization refrigerator (ADR). In 22nd International Cryocooler Conference, ICC 22. ICC committee.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "D. J. (2021, December), High Power-Density Electrical Machines for Aviation and Heavy Transport",
+      "year": 2021,
+      "citation_raw": "Badcock, R. A., Jeong, S., Storey, J. G., Hamilton, K. A., Jiang, Z., Weijers, H. W., ... & Thrimawithana, D. J. (2021, December). High Power-Density Electrical Machines for Aviation and Heavy Transport. In 34th International Symposium on Superconductivity, ISS 2021. National Institute of Advanced Industrial Science and Technology (AIST).",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "R. A. (2021, December), Innovative Cryogenic Cooling Method for Megawatt Superconducting Motor of Electric Propulsion",
+      "year": 2021,
+      "citation_raw": "Jeong, S., & Badcock, R. A. (2021, December). Innovative Cryogenic Cooling Method for Megawatt Superconducting Motor of Electric Propulsion. In 34th International Symposium on Superconductivity, ISS 2021. National Institute of Advanced Industrial Science and Technology (AIST).",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "N. (2021, August)",
+      "year": 2021,
+      "citation_raw": "Jeong, S., Kim, B., Weijers, H. W., Badcock, R. A., Jiang, Z., Hunze, A., ... & Glasson, N. (2021, August). Holistic approach for cryogenic cooling system design of 3 MW electrical aircraft motors. In 2021 AIAA/IEEE Electric Aircraft Technologies Symposium (EATS) (pp. 1-9). IEEE.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "S. (2021, July), Preliminary test of the integrated sorption cooler for an adiabatic demagnetization refrigerator (ADR)",
+      "year": 2021,
+      "citation_raw": "Kwon, D., Kim, B., & Jeong, S. (2021, July). Preliminary test of the integrated sorption cooler for an adiabatic demagnetization refrigerator (ADR). In Cryogenic Engineering Conference-International Cryogenic Materials Conference 2021. Cryogenic Society of America.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "S. (2021, July), Analytic prediction of maximum temperature in two-way cooling channel of long-distance HTS cable",
+      "year": 2021,
+      "citation_raw": "Kim, B., Kwon, D., & Jeong, S. (2021, July). Analytic prediction of maximum temperature in two-way cooling channel of long-distance HTS cable. In Cryogenic Engineering Conference-International Cryogenic Materials Conference 2021. Cryogenics Society of America.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "S. (2020, December), Enhancement of Linear Compressor Power and Performance Improvement of Pulse Tube Refrigerator",
+      "year": 2020,
+      "citation_raw": "Kim, B., Kwon, D., & Jeong, S. (2020, December). Enhancement of Linear Compressor Power and Performance Improvement of Pulse Tube Refrigerator. In 21st International Cryocooler Conference, ICC 21. ICC committee.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "S. (2020, December)",
+      "year": 2020,
+      "citation_raw": "Kwon, D., Bae, J., & Jeong, S. (2020, December). Numerical Analysis for the Adiabatic Demagnetization Refrigerator (ADR) Operating between 4.5 K and 2.0 K. In 21st International Cryocooler Conference ICC 21. ICC committee.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "S. (2020, December)",
+      "year": 2020,
+      "citation_raw": "Bae, J. H., Kwon, D., & Jeong, S. (2020, December). Development of Thin-Plate Square-Shape Sorption Compressor for 5 K JT Cooler. In 21st International Cryocooler Conference ICC 21. ICC committee.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "B.,Kwon, D., & Jeong",
+      "year": 2020,
+      "citation_raw": "Kim, B.,Kwon, D., & Jeong, S. (2020, Octoboer). Temperature distribution of long-length high temperature superconducting (HTS) cable cooled by slush-nitrogen. In Applied Superconductivity Conference 2020. IEEE Council on Superconductivity.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "S. (2020, November)",
+      "year": 2020,
+      "citation_raw": "Kwon, D., Kim, B., & Jeong, S. (2020, November). Design of 4 T AC operating HTS magnet for adiabatic demagnetization refrigerator (ADR). In Applied Superconductivity Conference 2020. IEEE Council on Superconductivity.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "S. (2020, November)",
+      "year": 2019,
+      "citation_raw": "Kwon, D., Kim, B., & Jeong, S. (2020, November). Design of 4 T AC operating HTS magnet for adiabatic demagnetization refrigerator (ADR). In Applied Superconductivity Conference 2020. IEEE Council on Superconductivity. B. Kim(2019), Efficient cryogenic cooling methods for HTS (High Temperature Superconductor) applications; from stationary cooler to moving HTS coils, The 32nd International Symposium on Superconductivity",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong (2019), Quench Phenomena in a Conduction-cooled Fast-ramping AC-operating HTS Magnet",
+      "year": 2019,
+      "citation_raw": "D. Kwon, B. Kim, Y. Chu, L. Jin, S. Jeong (2019), Quench Phenomena in a Conduction-cooled Fast-ramping AC-operating HTS Magnet, International Conference of Magnet Technology 26",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong (2019), Experimental Investigation of an Adiabatic Demagnetization Refrigerator (ADR) with Passive Heat Switches",
+      "year": 2019,
+      "citation_raw": "D. Kwon, J. Bae, S. Jeong (2019), Experimental Investigation of an Adiabatic Demagnetization Refrigerator (ADR) with Passive Heat Switches, 28th Space Cryogenics Workshop",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "J. Bae, D. Kwon, S. Jeong (2019), Development of switchless thin-plate type sorption compressor cell for 5 K sorption J-T refrigerator, 28th Space Cryogenics Workshop",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong (2019), Investigation on Low-pressure Transfer Method of Liquefied Natural Gas (LNG) Without Venting",
+      "year": 2019,
+      "citation_raw": "J. Bae, D. Kwon, S. Jeong (2019), Development of switchless thin-plate type sorption compressor cell for 5 K sorption J-T refrigerator, 28th Space Cryogenics Workshop K. Kim, L. Jin, S. Jeong (2019), Investigation on Low-pressure Transfer Method of Liquefied Natural Gas (LNG) Without Venting, ISOPE (International Society of Offshore and Polar Engineers) - 2019",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "J. Bae, K. Kim, S. Jeong (2019), The design of sorption compressor and heat exchanger for the 5 K cryogenic sorption J-T refrigerator, The 6th International Conference of Saving Energy in Refrigeration and Air-conditioning",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong (2019), Performance test of a distributed JT effect heat exchanger with liquid nitrogen for a small-scale refrigeration system",
+      "year": 2019,
+      "citation_raw": "K. Kim, J. Bae, S. Jeong (2019), Performance test of a distributed JT effect heat exchanger with liquid nitrogen for a small-scale refrigeration system, The 6th International Conference of Saving Energy in Refrigeration and Air-conditioning",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong (2018), Experimental investigation of line chill-down process with liquid oxygen",
+      "year": 2018,
+      "citation_raw": "L. Jin, J. Lee, S. Jeong (2018), Experimental investigation of line chill-down process with liquid oxygen, 27th International Cryogenic Engineering Conference - International Cryogenic Materials Conference 2018",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "distributed JT effect heat exchanger",
+      "year": 2018,
+      "citation_raw": "L. Jin, J. Lee, S. Jeong (2018), Experimental investigation of line chill-down process with liquid oxygen, 27th International Cryogenic Engineering Conference - International Cryogenic Materials Conference 2018 K. Kim, L. Jin, S. Jeong (2018), Experimental investigation of 2 K JT (Joule-Thomson) cooling system using a heat exchanger with pressure drop called “distributed JT effect heat exchanger”, ICEC27-ICMC 2018",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong (2018), Experimental investigation of pulse tube refrigerator with cold compressor and cold phase controller",
+      "year": 2018,
+      "citation_raw": "B. Kim, J. Park, S. Jeong (2018), Experimental investigation of pulse tube refrigerator with cold compressor and cold phase controller, 20th International Cryocooler Conference (ICC20)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong (2018), Experimental investigation of hybrid system of pulse tube with active magnetic regenerator (AMR)",
+      "year": 2018,
+      "citation_raw": "D. Kwon, I. Park, S. Jeong (2018), Experimental investigation of hybrid system of pulse tube with active magnetic regenerator (AMR), 20th International Cryocooler Conference (ICC20)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong (2017), Investigation on AC losses in a superconducting linear motor",
+      "year": 2017,
+      "citation_raw": "B. Kim, L. Jin, S. Jeong (2017), Investigation on AC losses in a superconducting linear motor, CHATS on Applied Superconductivity 2017",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong (2017), Experimental investigation of heat transfer coefficient of mini-channel PCHE (printed circuit heat exchanger)",
+      "year": 2017,
+      "citation_raw": "D. Kwon, L. Jin, W. Jung, S. Jeong (2017), Experimental investigation of heat transfer coefficient of mini-channel PCHE (printed circuit heat exchanger), 9th Asian Conference on Applied Superconductivity and Cryogenics",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong (2017), Modeling and Experimental Validation for the passive Thermodynamic Vent System (TVS) of cryogenic propellant tank",
+      "year": 2017,
+      "citation_raw": "J. Bae, S. Jeong (2017), Modeling and Experimental Validation for the passive Thermodynamic Vent System (TVS) of cryogenic propellant tank, 68th International Astronautical Congress (IAC)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2017,
+      "citation_raw": "S. Jeong, C. Park, K. Kim (2017), Superfluid 2 K cooling device with a distributed JT (JouleThomson) effect heat exchanger, 28th International Conference on Low Temperature Physics",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2017), Performance improvement of Cold Stirling-type Pulse Tube Refrigerator (PTR) driven by Superconducting Linear Compressor (SCLC)",
+      "year": 2017,
+      "citation_raw": "B. Kim, J. Park, S. Park, S. Jeong, (2017), Performance improvement of Cold Stirling-type Pulse Tube Refrigerator (PTR) driven by Superconducting Linear Compressor (SCLC), 27th Space Cryogenics Workshop",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2017), Experimental research and numerical simulation on cryogenic line chill-down process",
+      "year": 2017,
+      "citation_raw": "L. Jin, HJ. Cho, C. Lee, S. Jeong, (2017), Experimental research and numerical simulation on cryogenic line chill-down process, 27th Space Cryogenics Workshop",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2017), Experimental Investigation of Passive Thermodynamic Vent System (TVS) with Liquid Nitrogen",
+      "year": 2017,
+      "citation_raw": "J. Bae, J. Yoo, L. Jin, S. Jeong, (2017), Experimental Investigation of Passive Thermodynamic Vent System (TVS) with Liquid Nitrogen, 27 th Space Cryogenics Workshop",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2017), Experimental Investigation of Passive Thermodynamic Vent System (TVS) with Liquid Nitrogen",
+      "year": 2017,
+      "citation_raw": "J. Bae, J. Yoo, L. Jin, S. Jeong, (2017), Experimental Investigation of Passive Thermodynamic Vent System (TVS) with Liquid Nitrogen, 27 th Space Cryogenics Workshop K. Kim, L. Jin, Y. Kim, S. Jeong, (2017), Experimental investigation on No Vent Fill process of cryogenic liquid, The International Society of Offshore and Polar Engineers (ISOPE)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2016), Experimental Investigation of Superconducting Linear Compressor (SCLC) for Pulse Tube Refrigerator (PTR)",
+      "year": 2016,
+      "citation_raw": "J. Park, I. Park, J. Cha, S. Jeong, (2016), Experimental Investigation of Superconducting Linear Compressor (SCLC) for Pulse Tube Refrigerator (PTR), Applied Superconductivity Conference 2016",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2016), Performance of the fast-ramping high temperature superconducting magnet system for an active magnetic regenerator",
+      "year": 2016,
+      "citation_raw": "I. Park, C. Lee, J. Park, S. Kim, S. Jeong, (2016), Performance of the fast-ramping high temperature superconducting magnet system for an active magnetic regenerator, Applied Superconductivity Conference 2016",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2016), STIRLING-TYPE PULSE TUBE REFRIGERATOR (PTR) DRIVEN BY COLD LINEAR COMPRESSOR",
+      "year": 2016,
+      "citation_raw": "J. Park, J. Cha, J. Ko, S. Jeong, (2016), STIRLING-TYPE PULSE TUBE REFRIGERATOR (PTR) DRIVEN BY COLD LINEAR COMPRESSOR, 12th IIR-Gustav Lorentzen Conference on Natural Refrigerants",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong (2016), Experimental investigation on cryogenic line chill-down process by using liquid nitrogen",
+      "year": 2016,
+      "citation_raw": "L. Jin, M. Seo, HJ. Cho, C. Park, C. Lee, S. Jeong (2016), Experimental investigation on cryogenic line chill-down process by using liquid nitrogen, ASME 2016 Summer Heat transfer conference",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2016), Experimental investigation of piston-free expander accompanied by cold linear compressor",
+      "year": 2016,
+      "citation_raw": "J. Park, S. Jeong, (2016), Experimental investigation of piston-free expander accompanied by cold linear compressor, 19th International Cryocooler Conference (ICC19)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2016), Performance Analysis of the Active Magnetic Regenerative Refrigerator with the Conduction Cooled HTS Magnet",
+      "year": 2016,
+      "citation_raw": "I. Park, S. Jeong, (2016), Performance Analysis of the Active Magnetic Regenerative Refrigerator with the Conduction Cooled HTS Magnet, 19th International Cryocooler Conference (ICC19)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Development of cascade non-flammable mixed refrigerant Joule-Thomson refrigerator for 100 K",
+      "year": 2016,
+      "citation_raw": "C. Lee, J. Yoo, L. Jin, J. Cha, (2016), Development of cascade non-flammable mixed refrigerant Joule-Thomson refrigerator for 100 K, International Cryocooler Conference 19",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2016), Investigation of the flow boiling heat transfer coefficient characteristic for non-flammable cryogenic mixed refrigerant",
+      "year": 2016,
+      "citation_raw": "J. Yoo, L. Jin, C. Lee, S. Jeong, (2016), Investigation of the flow boiling heat transfer coefficient characteristic for non-flammable cryogenic mixed refrigerant, International Cryocooler Conference 19",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2016), Experimental Investigation on Flow Boiling Heat Transfer Coefficients of Non-flammable Mixed Refrigerant",
+      "year": 2016,
+      "citation_raw": "J. Yoo, S. Kang, C. Lee, S. Jeong, (2016), Experimental Investigation on Flow Boiling Heat Transfer Coefficients of Non-flammable Mixed Refrigerant, Percific Rim Thermal Engineering Conference (PRTEC)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2016), Free-piston reciprocating cryogenic expander utilizing phase controller",
+      "year": 2016,
+      "citation_raw": "J. Cha, J. Park, K. Kim, S. Jeong, (2016), Free-piston reciprocating cryogenic expander utilizing phase controller, 26th International Cryogenic Engineering Conference",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2016), Modeling of No Vent Fill (NVF)",
+      "year": 2016,
+      "citation_raw": "KJ. Kim, C. Park, S. Jeong, (2016), Modeling of No Vent Fill (NVF), 10th Korea-China-Japan Student Symposium",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2016), Modeling of No Vent Fill (NVF)",
+      "year": 2015,
+      "citation_raw": "KJ. Kim, C. Park, S. Jeong, (2016), Modeling of No Vent Fill (NVF), 10th Korea-China-Japan Student Symposium CK. Lee, L. Jin, SK. Jeong, (2015), Design of non-flammable mixed refrigerant Joule-Thomson refrigerator for precooling stage of high temperature superconducting power cable, The 8th Asian Conference on Applied Superconductivity and Cryogenics",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2015), Simulation and Parametric Study of Cryogenic Liquid Transfer Line Chill-down Characteristics",
+      "year": 2015,
+      "citation_raw": "LX. Jin, HJ. Cho, CK. Lee, SK. Jeong, (2015), Simulation and Parametric Study of Cryogenic Liquid Transfer Line Chill-down Characteristics, The 8th Asian Conference on Applied Superconductivity and Cryogenics",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2015), Chill-down Characteristic Modeling of a Cryogenic Propellant Supply Line",
+      "year": 2015,
+      "citation_raw": "LX. Jin, HJ. Cho, JH. Park, SK. Jeong, (2015), Chill-down Characteristic Modeling of a Cryogenic Propellant Supply Line, The 2015 World Congress on Aeronautics, Nano, Bio, Robotics, and Energy (ANBRE 15)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2015,
+      "citation_raw": "I.Park, S.Jeong (2015), Experimental investigation of 20 K two-stage layered active magnetic regenerative refrigerator (AMRR), Cryogenic Engineering Conference - International Cryogenic Materials Conference 2015",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2015), Visual investigation of solid-liquid phase equilibria for non-flammable mixed refrigerant",
+      "year": 2015,
+      "citation_raw": "C. Lee, J. Yoo, I. Park, J. Park, J. Cha, S. Jeong, (2015), Visual investigation of solid-liquid phase equilibria for non-flammable mixed refrigerant, Cryogenic Engineering Conference - International Cryogenic Materials Conference 2015",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Exergy Analysis of Liquefied Natural Gas (LNG) Boil-off Gas (BOG) Re-liquefaction cycles for On-board Application, International Society of Offshore and Polar Engineers (ISOPE)",
+      "year": 2015,
+      "citation_raw": "J. Yoo, C. Lee, J. Lee, S. Jeong, (2015), Exergy Analysis of Liquefied Natural Gas (LNG) Boil-off Gas (BOG) Re-liquefaction cycles for On-board Application, International Society of Offshore and Polar Engineers (ISOPE)",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2015), Stirling-type Pulse Tube Refrigerator (PTR) with Cold Compression: Cold Compressor, Colder Expander",
+      "year": 2015,
+      "citation_raw": "J. Park, J. Ko, J. Cha, S. Jeong, (2015), Stirling-type Pulse Tube Refrigerator (PTR) with Cold Compression: Cold Compressor, Colder Expander, The 26th Space Cryogenics Workshop",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Experimental Investigation on No-Vent Fill process using Tetrafluoromethane (CF4)",
+      "year": 2015,
+      "citation_raw": "Y. Kim, C. Lee, J. Park, S. Jeong, (2015), Experimental Investigation on No-Vent Fill process using Tetrafluoromethane (CF4), The 26th Space Cryogenics Workshop",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2015), Design of cryogenic free-piston reciprocating expander for high expansion ratio",
+      "year": 2015,
+      "citation_raw": "J. Cha, J. Park, J. Ko, H. Kim, S. Jeong, (2015), Design of cryogenic free-piston reciprocating expander for high expansion ratio, 9th Japan-Korea-China student symposium",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong (2014)",
+      "year": 2014,
+      "citation_raw": "Y. Jung, S. Lee, Sangkwon Jeong (2014), A SCHEME STUDY FOR MINIMIZING WEIGHT OF PRESSURIZATION SYSTEM ON KSLV-II UPPER STAGE, 65th International Astronautical Congress",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Kim (2014), Experimental Investigation on Conduction-Cooled Fast-Ramping Layer-Wound (RE)BCO Superconducting Magnet for Magnetic Refrigeration",
+      "year": 2014,
+      "citation_raw": "J. Park, I. Park, Sangkwon Jeong, S. Kim (2014), Experimental Investigation on Conduction-Cooled Fast-Ramping Layer-Wound (RE)BCO Superconducting Magnet for Magnetic Refrigeration, 2014 Applied Superconductivity Conference",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong (2014)",
+      "year": 2014,
+      "citation_raw": "M. Seo, H. Park, D. Yoo, Y. Jung, Sangkwon Jeong (2014), Experimental Investigation of Pressure-Volume-Temperature Mass Gauging Method under Microgravity Condition by Parabolic Flight, ICEC25-ICMC2014",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong (2014), Prediction of the Effective Thermal Conductivity of Powder Insulation",
+      "year": 2014,
+      "citation_raw": "L. Jin, J. Park, C. Lee, Sangkwon Jeong (2014), Prediction of the Effective Thermal Conductivity of Powder Insulation, ICEC 25- ICMC 2014",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong (2014), Prediction of the Effective Thermal Conductivity of Powder Insulation",
+      "year": 2014,
+      "citation_raw": "L. Jin, J. Park, C. Lee, Sangkwon Jeong (2014), Prediction of the Effective Thermal Conductivity of Powder Insulation, ICEC 25- ICMC 2014 C Lee, J Lee, J Yoo, Sangkwon Jeong, J Jung, (2014), Investigation of visualized solid-liquid phase equilibria for pure and mixed refrigerant, International Cryocooler Conference 18, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2014), Development of the passive helium heat switch for fast cool-down characteristic by two-stage cryocooler",
+      "year": 2014,
+      "citation_raw": "I Park, D Yoo, J Park, Sangkwon Jeong, (2014), Development of the passive helium heat switch for fast cool-down characteristic by two-stage cryocooler, International Cryocooler Conference 18, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2014), Dual mixed refrigerant Joule-Thomson refrigerator for cooling HTS power cable",
+      "year": 2014,
+      "citation_raw": "J Lee, C Lee, Sangkwon Jeong, (2014), Dual mixed refrigerant Joule-Thomson refrigerator for cooling HTS power cable, 7th Asian Conference on Refrigeration and Air Conditioning, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "(2013), Investigation of two phase heat transfer coefficient of cryogenic mixed refrigerant",
+      "year": 2013,
+      "citation_raw": "S Beak, Sangkwon Jeong, (2013), Investigation of two phase heat transfer coefficient of cryogenic mixed refrigerant, 4th ASME Micro/Nanoscale Heat & Mass Transfer International Conference, Hongkong",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Design method for highly efficient mixed refrigerant Joule-Thomson refrigerator for cooling below 70 K",
+      "year": 2013,
+      "citation_raw": "J Lee, Sangkwon Jeong, (2013), Design method for highly efficient mixed refrigerant Joule-Thomson refrigerator for cooling below 70 K, 3rd International Conference of Saving Energy in Refrigeration and Air-Conditioning (ICSERA), KOREA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Kim(2013), AC operation of Gd-Ba-Cu-O high Tc superconducting magnet for magnetic refrigeration",
+      "year": 2013,
+      "citation_raw": "J. Park, Sangkwon Jeong, S. Kim(2013), AC operation of Gd-Ba-Cu-O high Tc superconducting magnet for magnetic refrigeration, 23rd International conference on Magnet Technology, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "C. Lee, J. Yoo, J. Lee, H. Park, Sangkwon Jeong(2013), Experimental investigation of CO2 condensation process using cryogen, CEC-ICMC 2013, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2013), Joule-Thomson cryocooler with neon and nitrogen mixture using commercial air-conditioning compressors",
+      "year": 2013,
+      "citation_raw": "J. Lee, H. Oh, S. Beak, C. Lee, Sangkwon Jeong(2013), Joule-Thomson cryocooler with neon and nitrogen mixture using commercial air-conditioning compressors, CEC-ICMC 2013, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "Sangkwon Jeong, J. Lee, T. Ki(2012), Case studies of cryocooling for superconductivity applications, Dasan Conference on Superconductivity, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Shin(2012), RAYLEIGH SCATTERING THERMOMETRY AT LOW TEMPERATURE USING NITROGEN AND CARBON DIOXIDE WITH HIGH RAYLEIGH SCATTERING CROSS SECTION AREA, IMEKO World Congress Metrology for Green Growth, Korea",
+      "year": 2012,
+      "citation_raw": "M. Seo, Sangkwon Jeong, J. Park, H.D. Shin(2012), RAYLEIGH SCATTERING THERMOMETRY AT LOW TEMPERATURE USING NITROGEN AND CARBON DIOXIDE WITH HIGH RAYLEIGH SCATTERING CROSS SECTION AREA, IMEKO World Congress Metrology for Green Growth, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "M. Seo, Sangkwon Jeong, J. Park, H.D. Shin(2012), 2-Dimensional Cryogenic Temperature Measurement Using Rayleigh Scattering Thermometry with 266 nm Nd:YAG Laser, International Cryocooler Conference 17(ICC17), USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "M. Seo, Sangkwon Jeong, J. Park, H.D. Shin(2012), 2-Dimensional Cryogenic Temperature Measurement Using Rayleigh Scattering Thermometry with 266 nm Nd:YAG Laser, International Cryocooler Conference 17(ICC17), USA T. Ki, Sangkwon Jeong(2012), Separation of pulse tube losses based on measurement of energy flow and computational fluid dynamics analysis, International Cryocooler Conference 17(ICC17), USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "M. Seo, H. Park, Y. Jung, Sangkwon Jeong(2012), Novel instantaneous analysis of Pressure –Volume-Temperature gauging method, ICEC24-ICMC2012, Japan",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2012), Analysis and experimental study for effect of coating in pulse tube of pulse tube refrigerator",
+      "year": 2012,
+      "citation_raw": "M. Seo, H. Park, Y. Jung, Sangkwon Jeong(2012), Novel instantaneous analysis of Pressure –Volume-Temperature gauging method, ICEC24-ICMC2012, Japan T. Ki, Sangkwon Jeong(2012), Analysis and experimental study for effect of coating in pulse tube of pulse tube refrigerator, ICEC24-ICMC2012, Japan",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2012), Cool-down characteristics of liquid nitrogen transfer line",
+      "year": 2012,
+      "citation_raw": "S. Beak, I. Park, Y. Jung, Sangkwon Jeong(2012), Cool-down characteristics of liquid nitrogen transfer line, TFEC8 (THE EIGHTH KSME-JSME THERMAL AND FLUIDS ENGINEERING CONFERENCE), Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2012), Cool-down characteristics of liquid nitrogen transfer line",
+      "year": 2011,
+      "citation_raw": "S. Beak, I. Park, Y. Jung, Sangkwon Jeong(2012), Cool-down characteristics of liquid nitrogen transfer line, TFEC8 (THE EIGHTH KSME-JSME THERMAL AND FLUIDS ENGINEERING CONFERENCE), Korea Y. Kim, Sangkwon Jeong(2011), AC operation of the low temperature superconducting magnet for the magnetic refrigeration, ACASC 2011 (Asian Conference of Applied Superconductivity and Cryogenics ), India",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2011), Pressure drop characteristics of cryogenic mixed refrigerant at macro and micro channel heat exchangers",
+      "year": 2011,
+      "citation_raw": "S. Beak, G. Hwang, J. Kim, Sangkwon Jeong(2011), Pressure drop characteristics of cryogenic mixed refrigerant at macro and micro channel heat exchangers, ACASC 2011 (Asian Conference on Applied Superconductivity and Cryogenics), India",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2011), RECUPERATIVE CRYOGENIC HEAT EXCHANGER DESIGN FOR MIXED REFRIGERANT JOULE-THOMSON REFRIGERATOR",
+      "year": 2011,
+      "citation_raw": "S. Beak, G. Hwang, J. Kim, Sangkwon Jeong(2011), RECUPERATIVE CRYOGENIC HEAT EXCHANGER DESIGN FOR MIXED REFRIGERANT JOULE-THOMSON REFRIGERATOR, ICR 2011 (International Congress of Refrigeration), Czech",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2011), RECUPERATIVE CRYOGENIC HEAT EXCHANGER DESIGN FOR MIXED REFRIGERANT JOULE-THOMSON REFRIGERATOR",
+      "year": 2011,
+      "citation_raw": "S. Beak, G. Hwang, J. Kim, Sangkwon Jeong(2011), RECUPERATIVE CRYOGENIC HEAT EXCHANGER DESIGN FOR MIXED REFRIGERANT JOULE-THOMSON REFRIGERATOR, ICR 2011 (International Congress of Refrigeration), Czech S. Beak, Sangkwon Jeong(2011), Development of compact heat exchanger for LNG FPSO, The 21st international ISOPE Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "et al.(2011), ELONGATING AXIAL CONDUCTION PATH DESIGN TO ENHANCE PERFORMANCE OF CRYOGEINC COMPACT PCHE",
+      "year": 2011,
+      "citation_raw": "Sangkwon Jeong, et al.(2011), ELONGATING AXIAL CONDUCTION PATH DESIGN TO ENHANCE PERFORMANCE OF CRYOGEINC COMPACT PCHE, CEC-ICMC 2011 2011 Cryogenic Engineering Conference and International Cryogenic Materials Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "T. Ki, Sangkwon Jeong, M. Seo, I. Park(2011), Measurement and analysis of energy flow in Stirling-type pulse tube refrigerator, CEC-ICMC 2011, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "M. Seo, Sangkwon Jeong, Y. Jung, J. Kim, H, Park(2011), IMPROVED PRESSURE-VOLUME-TEMPERATURE METHOD FOR ESTIMATION OF CRYOGENIC LIQUID VOLUME, 2011 space cryogenics workshop, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "In(2011), FLOW BOILING HEAT TRANSFER OF TERNARY MIXTURE IN A MICRO-CHANNEL",
+      "year": 2011,
+      "citation_raw": "Sangkwon Jeong, I. Park, S. In(2011), FLOW BOILING HEAT TRANSFER OF TERNARY MIXTURE IN A MICRO-CHANNEL, The 8th ASME-JSME Thermal Engineering Joint Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Shin(2010), Comparison of Rayleigh Scattering Thermometry Using Nitrogen, Carbon Dioxide, and Xenon",
+      "year": 2010,
+      "citation_raw": "M. Seo, J. Park, Sangkwon Jeong, H. Shin(2010), Comparison of Rayleigh Scattering Thermometry Using Nitrogen, Carbon Dioxide, and Xenon, The 3rd International Forum on Multidisciplinary Education and Research Center for Energy Science, Japan",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "S. Beak, J. Kim, Sangkwon Jeong(2010), Micro channel heat exchanger for LNG-FPSO application, 9th ISOPE Pacific/Asia Offshore Mechanics Symposium, PACOMS-2010, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2010), Improved thermometry using various gases with high Rayleigh scattering cross section area with Rayleigh scattering",
+      "year": 2010,
+      "citation_raw": "M. Seo, J. Park, Sangkwon Jeong(2010), Improved thermometry using various gases with high Rayleigh scattering cross section area with Rayleigh scattering , 4th Yellow sea rim workshop on explosion, combustin and other energetic phenomena, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2010), Improved thermometry using various gases with high Rayleigh scattering cross section area with Rayleigh scattering",
+      "year": 2010,
+      "citation_raw": "M. Seo, J. Park, Sangkwon Jeong(2010), Improved thermometry using various gases with high Rayleigh scattering cross section area with Rayleigh scattering , 4th Yellow sea rim workshop on explosion, combustin and other energetic phenomena, Korea Y. Kim, Sangkwon Jeong(2010), Effect of magnetic field configuration of permanent magnet on performance of active magnetic regenerator, The 4th international conference of IIR on magnetic refrigeration at room temperature, China",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "S. In, Sangkwon Jeong(2010), FLOW BOILING HEAT TRANSFER OF R123/R134A MIXTURE IN A MICRO-CHANNEL, International Heat Transfer Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "J. Lee, H. Cho, Sangkwon Jeong, Y.H. Han, B.J. Park(2010), An innovative concept of cold energy storage for SFES (Superconductor Flywheel Energy Storage) system, Applied Superconductivity Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jung(2010), HTS (high temperature superconductor) motor cooled by on-board cryocooler",
+      "year": 2010,
+      "citation_raw": "Y. Kim, T. Ki, H. Kim, Sangkwon Jeong, J. Kim, J. Jung(2010), HTS (high temperature superconductor) motor cooled by on-board cryocooler, Applied Superconductivity Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jung(2010), HTS (high temperature superconductor) motor cooled by on-board cryocooler",
+      "year": 2010,
+      "citation_raw": "Y. Kim, T. Ki, H. Kim, Sangkwon Jeong, J. Kim, J. Jung(2010), HTS (high temperature superconductor) motor cooled by on-board cryocooler, Applied Superconductivity Conference, USA C. Lee, G. Hwang, Sangkwon Jeong, S. Park(2010), Development of the closed-loop J-T(Joule-Thomson) cryoablation device for large cooling area, ICEC23-ICMC2010, Poland",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2010), Recuperative type microchannel heat exchanger with transverse bypass to enhance flow distribution",
+      "year": 2010,
+      "citation_raw": "S. Beak, J. Kim, Sangkwon Jeong(2010), Recuperative type microchannel heat exchanger with transverse bypass to enhance flow distribution, ICEC23-ICMC2010, Poland",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2010), Recuperative type microchannel heat exchanger with transverse bypass to enhance flow distribution",
+      "year": 2010,
+      "citation_raw": "S. Beak, J. Kim, Sangkwon Jeong(2010), Recuperative type microchannel heat exchanger with transverse bypass to enhance flow distribution, ICEC23-ICMC2010, Poland T. Ki, Sangkwon Jeong(2010), Pressure drop characteristics of slit-type heat exchanger, International Cryocooler Conference 16, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2010), Cooling characteristics of ultrafine cryoprobe utlizing convective boiling heat transfer in microchannel",
+      "year": 2010,
+      "citation_raw": "J. Okajima, S. Maruyama, H. Takeda, A. Komiya, Sangkwon Jeong(2010), Cooling characteristics of ultrafine cryoprobe utlizing convective boiling heat transfer in microchannel, International Heat Transfer Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2010), Cooling characteristics of ultrafine cryoprobe utlizing convective boiling heat transfer in microchannel",
+      "year": 2009,
+      "citation_raw": "J. Okajima, S. Maruyama, H. Takeda, A. Komiya, Sangkwon Jeong(2010), Cooling characteristics of ultrafine cryoprobe utlizing convective boiling heat transfer in microchannel, International Heat Transfer Conference, USA T. Ki, Sangkwon Jeong(2009), Stirling-type pulse tube refrigerator with slit-type heat exchangers for HTS superconducting motor, Asian Conference 2009 on Applied Superconductivity and cryogenics, Japan",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2009), Cryosurgical probe for large area cooling",
+      "year": 2009,
+      "citation_raw": "C. Lee, G. Hwang, Sangkwon Jeong(2009), Cryosurgical probe for large area cooling , The 36th Annual Meeting of the Japan Society for Low Temperature Medicine, Japan",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "Sangkwon Jeong, et al.(2009), Cooling method by slush nitrogen for SFES to increase overall system efficiency during energy storage period, 9th European Conference on Applied Superconductivity, Germany",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2009), Estimation of freezing point of hydrocarbon and hydrofluorocarbon mixtures for mixed refrigerant JT cryocooler",
+      "year": 2009,
+      "citation_raw": "G. Hwang, Sangkwon Jeong(2009), Estimation of freezing point of hydrocarbon and hydrofluorocarbon mixtures for mixed refrigerant JT cryocooler, Joint Cryogenic Engineering and International Cryogenic Materials Conferences, 2009, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2009), Investigation on the room temperature active magnetic regenerative refrigerator with permanent magnet array",
+      "year": 2009,
+      "citation_raw": "Y. Kim, Sangkwon Jeong(2009), Investigation on the room temperature active magnetic regenerative refrigerator with permanent magnet array, 2009 Joint Cryogenic Engineering and International Cryogenic Materials Conferences, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2009), Development of the hybrid JT-expander cycle for NG liquefaction process",
+      "year": 2009,
+      "citation_raw": "S. Beak, G. Hwang, Sangkwon Jeong(2009), Development of the hybrid JT-expander cycle for NG liquefaction process, 2009 Joint Cryogenic Engineering and International Cryogenic Materials Conferences, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2009), Development of the hybrid JT-expander cycle for NG liquefaction process",
+      "year": 2009,
+      "citation_raw": "S. Beak, G. Hwang, Sangkwon Jeong(2009), Development of the hybrid JT-expander cycle for NG liquefaction process, 2009 Joint Cryogenic Engineering and International Cryogenic Materials Conferences, USA J. Lee, Sangkwon Jeong(2009), Transient operation of cryogenic thermosiphon using mixed fluid, 20th International symposium on transport phenomena, Canada",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "S. Beak, G. Hwang, Sangkwon Jeong(2009), Comparison of N2 liquefaction efficiency between MR (mixed refrigerant)-JT cycle and hybrid JT-expander cycle, 2009 cryogenic engineering conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2009), Cryosurgical probe for large area cooling",
+      "year": 2009,
+      "citation_raw": "S. Beak, G. Hwang, Sangkwon Jeong(2009), Comparison of N2 liquefaction efficiency between MR (mixed refrigerant)-JT cycle and hybrid JT-expander cycle, 2009 cryogenic engineering conference, USA C. Lee, G. Hwang, Sangkwon Jeong(2009), Cryosurgical probe for large area cooling, The 37th Annual Meeting of the Japan Society for Low Temperature Medicine, Japan",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "Sangkwon Jeong, et al.(2009), Double-evaporator thermosiphon for cooling 100 kWh class superconductor flywheel energy storage system bearings, IEEE Transactions on Applied Superconductivity, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2009), Development of the hybrid JT-expander cycle for NG liquefaction process",
+      "year": 2009,
+      "citation_raw": "S. Beak, G. Hwang, Sangkwon Jeong(2009), Development of the hybrid JT-expander cycle for NG liquefaction process, Cryogenic Engineering Conference-International Cryogenic Materials Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2009), Development of the hybrid JT-expander cycle for NG liquefaction process",
+      "year": 2009,
+      "citation_raw": "S. Beak, G. Hwang, Sangkwon Jeong(2009), Development of the hybrid JT-expander cycle for NG liquefaction process, Cryogenic Engineering Conference-International Cryogenic Materials Conference, USA T. Ki, Sangkwon Jeong(2009), Optimal design of pulse tube refrigerator with slit-type heat exchanger, 2009 Space cryogenic workshop, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "J. Jung, Sangkwon Jeong, G. Hwang(2008), Two-stage pulse tube refrigerator with 2nd stage recuperator, International Cryocooler Conference 15, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2008), Miniature J-T refrigerator using the triplet heat exchanger",
+      "year": 2008,
+      "citation_raw": "J. Jung, Sangkwon Jeong, G. Hwang(2008), Two-stage pulse tube refrigerator with 2nd stage recuperator, International Cryocooler Conference 15, USA G. Hwang, Sangkwon Jeong(2008), Miniature J-T refrigerator using the triplet heat exchanger, ICEC22-ICMC2008, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "Sangkwon Jeong, J. Lee(2008), TRANSPARENT CRYOGENIC THERMOSIPHON USING N2 AND CF4 MIXTURE AS THE WORKING FLUID, International Cryogenic Engineering Conference, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2008), Experimental study of flow boiling heat transfer in a micro-channel",
+      "year": 2008,
+      "citation_raw": "S. In, Sangkwon Jeong(2008), Experimental study of flow boiling heat transfer in a micro-channel, 19th International Symposium on Transport phenomena, Iceland",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Hwang(2008), Miniature PCHE-Type Recuperator with Transverse Bypass",
+      "year": 2008,
+      "citation_raw": "J. Jung, Sangkwon Jeong, G. Hwang(2008), Miniature PCHE-Type Recuperator with Transverse Bypass, International Cryocooler Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sung(2008), Effect of Geometric Configuration on the Dynamic Behavior of Linear compressor and Cooling Performance in Stirling-type Pulse Tube Refrigerator",
+      "year": 2008,
+      "citation_raw": "Sangkwon Jeong, J. Ko, Y. Han, T. Sung(2008), Effect of Geometric Configuration on the Dynamic Behavior of Linear compressor and Cooling Performance in Stirling-type Pulse Tube Refrigerator, International Cryocooler Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sung(2008), Effect of Geometric Configuration on the Dynamic Behavior of Linear compressor and Cooling Performance in Stirling-type Pulse Tube Refrigerator",
+      "year": 2008,
+      "citation_raw": "Sangkwon Jeong, J. Ko, Y. Han, T. Sung(2008), Effect of Geometric Configuration on the Dynamic Behavior of Linear compressor and Cooling Performance in Stirling-type Pulse Tube Refrigerator, International Cryocooler Conference, USA M. Seo, Sangkwon Jeong(2008), Thermodynamic analysis of self-pressurized liquid nitrogen cryogenic storage tank, JSME-KSME Thermal and fluids engineering conference, Japan",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2007,
+      "citation_raw": "J.E. Yi, K.W. Lee, B. Kim, J. Ko, Sangkwon Jeong, M.D. Noh, S.S. Lee(2007), Micro flywheel energy storage system with axial flux machine, 2007 IEEE/ASME International Conference on Advanced Intelligent Mechatronics, AIM, Switzerland",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "In(2007), Effect of pressure drop of the heat exchanger on miniature J-T refrigerator using mixed refrigerant",
+      "year": 2007,
+      "citation_raw": "J.E. Yi, K.W. Lee, B. Kim, J. Ko, Sangkwon Jeong, M.D. Noh, S.S. Lee(2007), Micro flywheel energy storage system with axial flux machine, 2007 IEEE/ASME International Conference on Advanced Intelligent Mechatronics, AIM, Switzerland G. Hwang, Sangkwon Jeong, S. In(2007), Effect of pressure drop of the heat exchanger on miniature J-T refrigerator using mixed refrigerant, 22nd International Congress of Refrigeration, China",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2007), Buffered rotary valve system of gm-type pulse tube refrigerator",
+      "year": 2007,
+      "citation_raw": "G. Hwang, J. Jung, Sangkwon Jeong(2007), Buffered rotary valve system of gm-type pulse tube refrigerator, Transactions of the Cryogenic Engineering Conference, CEC 2007, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Kim(2007), Investigation on dynamic behavior of linear compressor in stirling-type pulse tube refrigerator",
+      "year": 2007,
+      "citation_raw": "J. Ko, Sangkwon Jeong, Y. Kim(2007), Investigation on dynamic behavior of linear compressor in stirling-type pulse tube refrigerator, Transactions of the Cryogenic Engineering Conference, CEC 2007, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2007), Experimental study on the double-evaporat or thermosiphon for cooling HTS (High Temperature Superconductor) system",
+      "year": 2007,
+      "citation_raw": "J. Lee, Y. Kim, Sangkwon Jeong(2007), Experimental study on the double-evaporat or thermosiphon for cooling HTS (High Temperature Superconductor) system, Transactions of the Cryogenic Engineering Conference, CEC 2007, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2007,
+      "citation_raw": "K.W. Lee, B. Kim, J. Ko, Sangkwon Jeong, S.S. Lee(2007), Micro generator using flywheel energy storage system with high-temperature superconductor bearing, 20th IEEE International Conference on Micro Electro Mechanical Systems, MEMS 2007, Japan",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Kim(2007), Investigation on the transient operation of cryocooler-cooled thermosiphon",
+      "year": 2007,
+      "citation_raw": "K.W. Lee, B. Kim, J. Ko, Sangkwon Jeong, S.S. Lee(2007), Micro generator using flywheel energy storage system with high-temperature superconductor bearing, 20th IEEE International Conference on Micro Electro Mechanical Systems, MEMS 2007, Japan Sangkwon Jeong, Y.K. Kim(2007), Investigation on the transient operation of cryocooler-cooled thermosiphon, International Symposium on Transport Phenomena, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2007), BUFFERED ROTARY VALVE SYSTEM OF GM-TYPE PULSE TUBE REFRIGERATOR",
+      "year": 2007,
+      "citation_raw": "G. Hwang, J. Jung, Sangkwon Jeong(2007), BUFFERED ROTARY VALVE SYSTEM OF GM-TYPE PULSE TUBE REFRIGERATOR, CRYOGENIC ENGINEERING CONFERENCE, 2007, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2007), BUFFERED ROTARY VALVE SYSTEM OF GM-TYPE PULSE TUBE REFRIGERATOR",
+      "year": 2007,
+      "citation_raw": "G. Hwang, J. Jung, Sangkwon Jeong(2007), BUFFERED ROTARY VALVE SYSTEM OF GM-TYPE PULSE TUBE REFRIGERATOR, CRYOGENIC ENGINEERING CONFERENCE, 2007, USA G. Hwang, Sangkwon Jeong, S. In(2007), Pressure drop of the heat exchanger and performance of a J-T refrigerator using mixed refrigerant, 22nd ICR (International Congress of Refrigeration), China",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong(2007), TWO-DIMENSIONAL ANALYSIS FOR THE PULSE TUBE OF ROTATING PULSE TUBE REFRIGERATOR",
+      "year": 2007,
+      "citation_raw": "Sangkwon Jeong, J. Choi, E.S. Jeong(2007), TWO-DIMENSIONAL ANALYSIS FOR THE PULSE TUBE OF ROTATING PULSE TUBE REFRIGERATOR, 2007 CRYOGENIC ENGINEERING CONFERENCE, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jeong(2007), TWO-DIMENSIONAL ANALYSIS FOR THE PULSE TUBE OF ROTATING PULSE TUBE REFRIGERATOR",
+      "year": 2007,
+      "citation_raw": "Sangkwon Jeong, J. Choi, E.S. Jeong(2007), TWO-DIMENSIONAL ANALYSIS FOR THE PULSE TUBE OF ROTATING PULSE TUBE REFRIGERATOR, 2007 CRYOGENIC ENGINEERING CONFERENCE, USA Sangkwon Jeong, J. Jung(2007), CRYOGENIC HEAT EXCHANGER WITH PHOTO-ETCHED MINI-PERFORATED PLATES ALLOWING FLOW-BYPASS, 2007 ASME-JSME THERMAL ENGINEERING SUMMER HEAT TRANSFER CONFERENCE, Canada",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Advanced design and experiment of a micro flywheel energy storage system with a high temperature superconductor bearing",
+      "year": 2006,
+      "citation_raw": "Sangkwon Jeong, et al. (2006), Advanced design and experiment of a micro flywheel energy storage system with a high temperature superconductor bearing, 2006 ASME International Mechanical Engineering Congress and Exposition, IMECE2006, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2006), METHODS OF ALLEVIATING FLOW MAL-DISTRIBUTION PROBLEM IN MULTI-CHANNEL COUNTER-FLOW HEAT EXCHANGER",
+      "year": 2006,
+      "citation_raw": "J. Jung, Sangkwon Jeong(2006), METHODS OF ALLEVIATING FLOW MAL-DISTRIBUTION PROBLEM IN MULTI-CHANNEL COUNTER-FLOW HEAT EXCHANGER, International Cryogenic Engineering Conference, Czech",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sung(2006), THERMAL RESPONSE CHARACTERISTICS OF HTS (HIGH TEMPERATURE SUPERCONDUCTOR) BULK UNDER VARING MAGNETIC FIELD CONDITIONS",
+      "year": 2006,
+      "citation_raw": "J. Ko, Sangkwon Jeong, S. Jung, D. Yu, K. Hwang, Y. Han, T. Sung(2006), THERMAL RESPONSE CHARACTERISTICS OF HTS (HIGH TEMPERATURE SUPERCONDUCTOR) BULK UNDER VARING MAGNETIC FIELD CONDITIONS, International Cryogenic Engineering Conference, Czech",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Lee(2006), A micro high-temperature superconductor system: Fabrication and operation",
+      "year": 2006,
+      "citation_raw": "E. Lee, B. Kim, J. Ko, C.Y. Song, S.J. Kim, Sangkwon Jeong, S.S. Lee(2006), A micro high-temperature superconductor system: Fabrication and operation, 2006 IEEE Aerospace Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2005,
+      "citation_raw": "B. Kim, J. Ko, Sangkwon Jeong, S.S. Lee(2005), Design and fabrication of a micro flywheel energy storage system with a high-temperature superconductor bearing, 2005 ASME International Mechanical Engineering Congress and Exposition, IMECE, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Kwon(2005), Rotating cryocooler for superconducting motor",
+      "year": 2005,
+      "citation_raw": "J. Ko, Sangkwon Jeong, H. Kim, J. Jung, J. Choi, S. In, M. Sohn, Y.K. Kwon(2005), Rotating cryocooler for superconducting motor, ADVANCES IN CRYOGENIC ENGINEERING: Transactions of the Cryogenic Engineering Conference, CEC, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sohn(2005), Tandem GM type-pulse tube refrigerator with novel rotary valve and bypass valve mechanism",
+      "year": 2005,
+      "citation_raw": "J. Jung, Sangkwon Jeong, Y. Kwon, M. Sohn(2005), Tandem GM type-pulse tube refrigerator with novel rotary valve and bypass valve mechanism, ADVANCES IN CRYOGENIC ENGINEERING: Transactions of the Cryogenic Engineering Conference, CEC, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sohn(2005), Tandem GM type-pulse tube refrigerator with novel rotary valve and bypass valve mechanism",
+      "year": 2005,
+      "citation_raw": "J. Jung, Sangkwon Jeong, Y. Kwon, M. Sohn(2005), Tandem GM type-pulse tube refrigerator with novel rotary valve and bypass valve mechanism, ADVANCES IN CRYOGENIC ENGINEERING: Transactions of the Cryogenic Engineering Conference, CEC, USA Sangkwon Jeong(2005), INVESTIGATION OF HELIUM INJECTION COOLING TO LIQUD OXYGEN PROPELLANT CHAMBER, 2005 Space Cryogenics Workshop, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Kwon(2005), Rotating cryocooler for superconducting motor",
+      "year": 2005,
+      "citation_raw": "J. Ko, Sangkwon Jeong, H. Kim, J. Jung, J. Choi, S. In, M. Sohn, Y.K. Kwon(2005), Rotating cryocooler for superconducting motor, 2005 Cryogenic Engineering Conference and Int. Cryogenic Materials Conf., USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Kwon(2005), Rotating cryocooler for superconducting motor",
+      "year": 2005,
+      "citation_raw": "J. Ko, Sangkwon Jeong, H. Kim, J. Jung, J. Choi, S. In, M. Sohn, Y.K. Kwon(2005), Rotating cryocooler for superconducting motor, 2005 Cryogenic Engineering Conference and Int. Cryogenic Materials Conf., USA J. Jung, Sangkwon Jeong(2005), Chemically etched cryogenic micro structure heat exchanger, 2005 ASME Summer Heat Transfer Conference, HT 2005, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2005), EXPERIMENTAL STUDY ON THE DEVELOPMENT OF MICRO ADSORPTION REFRIGERATOR",
+      "year": 2005,
+      "citation_raw": "Sangkwon Jeong(2005), EXPERIMENTAL STUDY ON THE DEVELOPMENT OF MICRO ADSORPTION REFRIGERATOR, International Sorption Heat Pump Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2005), Operational characteristic and flow visualization of the mock-up cryogenic thermosiphon for cold neutron source",
+      "year": 2005,
+      "citation_raw": "Sangkwon Jeong(2005), Operational characteristic and flow visualization of the mock-up cryogenic thermosiphon for cold neutron source, International Symposium on Research Reactor and Neutron Science, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2005,
+      "citation_raw": "J. Jung, H. Kim, Sangkwon Jeong(2005), Room temperature application of miniature pulse tube refrigerator, The 6th KSME-JSME Thermal and Fluids Engineering Cnference, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jin(2004), Contractible thermosyphon for conduction cooled superconducting magnets",
+      "year": 2004,
+      "citation_raw": "C. Noh, S. Kim, Sangkwon Jeong, H. Jin(2004), Contractible thermosyphon for conduction cooled superconducting magnets, Twentieth International Cryogenic Engineering Conference, China",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jin(2004), Contractible thermosyphon for conduction cooled superconducting magnets",
+      "year": 2004,
+      "citation_raw": "C. Noh, S. Kim, Sangkwon Jeong, H. Jin(2004), Contractible thermosyphon for conduction cooled superconducting magnets, Twentieth International Cryogenic Engineering Conference, China K. Nam, Sangkwon Jeong(2004), Novel regenerator design and its experimental characteristics, Twentieth International Cryogenic Engineering Conference, China",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2004,
+      "citation_raw": "Sangkwon Jeong, J. Jung(2004), Regenerative recuperator for tandem 4 K pulse tube refrigerator, Twentieth International Cryogenic Engineering Conference, ICEC 20, China",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2004), Study on Compression Process of Scroll Compressor with Heat Transfer Effect",
+      "year": 2004,
+      "citation_raw": "K. Jang, Sangkwon Jeong(2004), Study on Compression Process of Scroll Compressor with Heat Transfer Effect, 2nd Asian Conference on Refrigeration and Ari-Conditioning, China",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2003), SIZE OPTIMIZATION OF THE LIQUID HELIUM PRESSURANT TANK",
+      "year": 2003,
+      "citation_raw": "Y.M. Park, S. In, Sangkwon Jeong(2003), SIZE OPTIMIZATION OF THE LIQUID HELIUM PRESSURANT TANK, 19th International conference on Magnet technology, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Choi(2003), Study on Random Wire Type Regenerator of Stirling Cryocooler",
+      "year": 2003,
+      "citation_raw": "Sangkwon Jeong, K. Nam, S. Choi(2003), Study on Random Wire Type Regenerator of Stirling Cryocooler, International Cryogenic Materials Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Choi(2003), Study on Random Wire Type Regenerator of Stirling Cryocooler",
+      "year": 2003,
+      "citation_raw": "Sangkwon Jeong, K. Nam, S. Choi(2003), Study on Random Wire Type Regenerator of Stirling Cryocooler, International Cryogenic Materials Conference, USA J. Jung, Sangkwon Jeong(2003), Development of Recuperator For 4 K Pulse Tube Refrigerators Operating Opposite Phase, Cryogenic Engineering Conference 2003, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2003), Investigation on boiling characteristics of liquid oxygen flow in liquid rocket engine",
+      "year": 2003,
+      "citation_raw": "N. Cho, Sangkwon Jeong(2003), Investigation on boiling characteristics of liquid oxygen flow in liquid rocket engine, Proceedings of the 2003 International Conference on Cryogenics and Refrigeration, China",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2003,
+      "citation_raw": "A. Jiao, Sangkwon Jeong(2003), Investigation on fluid flow maldistribution in plate-fin heat exchangers, Proceedings of the 2003 International Conference on Cryogenics and Refrigeration, China",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2003), SIZE OPTIMIZATION OF THE LIQUID HELIUM PRESSURANT TANKFOR LIQUID PROPELLANT ROCKET",
+      "year": 2003,
+      "citation_raw": "Y.M. Park, S. In, Sangkwon Jeong(2003), SIZE OPTIMIZATION OF THE LIQUID HELIUM PRESSURANT TANKFOR LIQUID PROPELLANT ROCKET, International Women's Conference on BIEN-Technology, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2003), SIZE OPTIMIZATION OF THE LIQUID HELIUM PRESSURANT TANKFOR LIQUID PROPELLANT ROCKET",
+      "year": 2002,
+      "citation_raw": "Y.M. Park, S. In, Sangkwon Jeong(2003), SIZE OPTIMIZATION OF THE LIQUID HELIUM PRESSURANT TANKFOR LIQUID PROPELLANT ROCKET, International Women's Conference on BIEN-Technology, Korea Sangkwon Jeong, S. In(2002), Thermal transient characteristics of current leads for superconducting equipment, International Cryogenic Engineering Conference, France",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jung(2002), Regenerator characterization under oscillating flow and pulsating pressure",
+      "year": 2002,
+      "citation_raw": "Sangkwon Jeong, K. Nam, J. Jung(2002), Regenerator characterization under oscillating flow and pulsating pressure, 12th International Cryocooler Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jung(2002), Regenerator characterization under oscillating flow and pulsating pressure",
+      "year": 2002,
+      "citation_raw": "Sangkwon Jeong, K. Nam, J. Jung(2002), Regenerator characterization under oscillating flow and pulsating pressure, 12th International Cryocooler Conference, USA Sangkwon Jeong, J. Jung(2002), Surface Heat Pumping Loss in Pulse Tube Refrigerator, 12th International Cryocooler Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(2000), Experimental study on the temperature distribution and the heat flux insice the variable-speed scroll compressor",
+      "year": 2000,
+      "citation_raw": "K. Jang, Sangkwon Jeong(2000), Experimental study on the temperature distribution and the heat flux insice the variable-speed scroll compressor, JSME-KSME Thermal Engineering Conference, Japan",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jang(2000), Experimental study of the heat transfer in pulse tubes",
+      "year": 2000,
+      "citation_raw": "Sangkwon Jeong, M. Kim, K. Nam, H.M. Jang(2000), Experimental study of the heat transfer in pulse tubes, International Cryocooler Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Jang(2000), Experimental study of the heat transfer in pulse tubes",
+      "year": 1999,
+      "citation_raw": "Sangkwon Jeong, M. Kim, K. Nam, H.M. Jang(2000), Experimental study of the heat transfer in pulse tubes, International Cryocooler Conference, USA K. Jang, Sangkwon Jeong(1999), TEMPERATURE AND HEAT FLUX MEASUREMENT INSIDE VARIABLE-SPEED SCOLL COMPRESSOR, International Congress of refrigeration, Australia",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Kim(1999), Transient heat transfer experiment in subcooled liquid nitrogen",
+      "year": 1999,
+      "citation_raw": "Sangkwon Jeong, D. Kim(1999), Transient heat transfer experiment in subcooled liquid nitrogen, Intersociety Engergy Conversion Engineering Conference, Canada",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Nam(1998), Experiment of the CICC(Cable-In-Conduit Conductor) Magnet with non-insulated superconducting strands",
+      "year": 1998,
+      "citation_raw": "S. Kim, Sangkwon Jeong, K. Nam(1998), Experiment of the CICC(Cable-In-Conduit Conductor) Magnet with non-insulated superconducting strands, International Conference on Electrical Engineering, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Nam(1998), Experiment of the CICC(Cable-In-Conduit Conductor) Magnet with non-insulated superconducting strands",
+      "year": 1998,
+      "citation_raw": "S. Kim, Sangkwon Jeong, K. Nam(1998), Experiment of the CICC(Cable-In-Conduit Conductor) Magnet with non-insulated superconducting strands, International Conference on Electrical Engineering, Korea Sangkwon Jeong, K. Nam(1998), An experimental sutudy on th heat transfer characteristics of the heat exchangers in the basic pulse tube refigerator, International Cryocooler Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Lee(1997), Development of the rotating He-recondensing system for the superconducting generator",
+      "year": 1997,
+      "citation_raw": "Sangkwon Jeong, C. Lee(1997), Development of the rotating He-recondensing system for the superconducting generator, 15th International Conference on Magnet Technology, China",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 1997,
+      "citation_raw": "D.Y. Koh, S.J. Park, S.J. Lee, H.K. Yeom, Y.J. Hong, Sangkwon Jeong(1997), Influence of heating pulses on the quench behavior of a 12 strand NbSn CICC, 3rd European Conf. on Applied Superconductivity, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 1996,
+      "citation_raw": "D.Y. Koh, S.J. Park, S.J. Lee, H.K. Yeom, Y.J. Hong, Sangkwon Jeong(1997), Influence of heating pulses on the quench behavior of a 12 strand NbSn CICC, 3rd European Conf. on Applied Superconductivity, USA Sangkwon Jeong(1996), Current Redistribution in Multistrand Nb3Sn CICC Due to Current Ramp, The 16th International Cryogenic Engineering, Japan",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 1996,
+      "citation_raw": "Sangkwon Jeong, V. Vysotsky, M. Takayasu, P.C. Michael, J.H. Schultz, J. Minervini(1996), Direct Measurements of Current Distribution in a 12 Strand Nb3Sn CICC(Part I. Experimental Set-up), International Cryogenic Engineering Conference",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(1996), Superconducting Pulse Coil Set for Stability Test of Superconducting Cables",
+      "year": 1996,
+      "citation_raw": "Sangkwon Jeong, V. Vysotsky, M. Takayasu, P.C. Michael, J.H. Schultz, J. Minervini(1996), Direct Measurements of Current Distribution in a 12 Strand Nb3Sn CICC(Part I. Experimental Set-up), International Cryogenic Engineering Conference Sangkwon Jeong(1996), Superconducting Pulse Coil Set for Stability Test of Superconducting Cables, The 1996 Applied Superconductivity Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(1996), An Experimental Investigation of the Pulse Tube Refrigerator",
+      "year": 1996,
+      "citation_raw": "D.Y. Koh, S.J. Park, S.J. Lee, H.K. Yeom, Y.J. Hong, Sangkwon Jeong(1996), An Experimental Investigation of the Pulse Tube Refrigerator, The 9th International Cryocooler Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(1996), An Experimental Investigation of the Pulse Tube Refrigerator",
+      "year": 1996,
+      "citation_raw": "D.Y. Koh, S.J. Park, S.J. Lee, H.K. Yeom, Y.J. Hong, Sangkwon Jeong(1996), An Experimental Investigation of the Pulse Tube Refrigerator, The 9th International Cryocooler Conference, USA Sangkwon Jeong(1996), Voltage Spikes in Ramped Field Experiments, The 16th International Cryogenic Engineering Conference, Japan",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 1995,
+      "citation_raw": "Sangkwon Jeong(1995), TPX Superconducting Tokamak Magnet System 1995 Design and Status Overview, 16th Symposium on Fusion Engineering, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(1995), Ramp-rate Limitation Experiments in Support of the TPX Magnets",
+      "year": 1995,
+      "citation_raw": "Sangkwon Jeong(1995), Ramp-rate Limitation Experiments in Support of the TPX Magnets, 16th Symposium on Fusion Engineering, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(1993), U.S, Conductor R&D and Small Scale Experiments for the ITER Magnets",
+      "year": 1993,
+      "citation_raw": "Sangkwon Jeong(1993), U.S. Conductor R&D and Small Scale Experiments for the ITER Magnets, 15th Symposium on Fusion Engineering, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "Sangkwon Jeong(1993), Cycle analysis of a regenerative tandem magnetic refrigerator",
+      "year": 1993,
+      "citation_raw": "Sangkwon Jeong(1993), Cycle analysis of a regenerative tandem magnetic refrigerator, International Symposium on Transport Phenomena in Thermal Engineering, Korea",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 1993,
+      "citation_raw": "Sangkwon Jeong(1993), Experimental investigation on the regenerative magnetic refrigerator operating between 4.2 K and 1.8 K, 7th International Cryocooler Conference, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 1992,
+      "citation_raw": "Sangkwon Jeong(1992), A regenerative magnetic refrigerator operating between 4.2 K and 1.8 K, Annual Conference on Superconductivity and Applications, USA",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 1991,
+      "citation_raw": "Sangkwon Jeong(1991), Design of the regenerative magnetic refrigerator operating between 4.2 K and 1.8 K, 6th International Cryocooler Conference",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": null,
+      "year": 2000,
+      "citation_raw": "Sangkwon Jeong(1989), AVAILABLE ENERGY ANALYSIS OF REFRIGERATION CYCLE WITH MIXED REFRIGERANTS, The second world congress on heating, ventilating, refrigerating and air conditioning-clima2000",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/international-conference"
+    },
+    {
+      "title": "정상권 (2024, August), A numerical analysis of interface changes in mixing chamber and still of a hybrid adiabatic demagnetization-dilution refrigerator",
+      "year": 2024,
+      "citation_raw": "안병철, 권도훈, 배준혁, 정상권 (2024, August). A numerical analysis of interface changes in mixing chamber and still of a hybrid adiabatic demagnetization-dilution refrigerator. 2024년도 한국초전도저온학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2024, August), Single-shot operation of the sub-Kelvin adiabatic demagnetization refrigerator (ADR)",
+      "year": 2024,
+      "citation_raw": "권도훈, 정상권 (2024, August). Single-shot operation of the sub-Kelvin adiabatic demagnetization refrigerator (ADR). 2024년도 한국초전도저온학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권. (2024, May)",
+      "year": 2024,
+      "citation_raw": "안병철, 김정철, 정상권. (2024, May). 극저온 왕복동 펌프 시스템의 흡입 배관 급랭에 대한 1D CFD의 타당성 연구. 대한기계학회 플랜트부문 2024년 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권. (2024, May)",
+      "year": 2024,
+      "citation_raw": "배준혁, 김경중, 정상권. (2024, May). 액체공기 에너지 저장 시스템의 냉열저장소 성능 향상을 위한 실험적 연구. 대한기계학회 플랜트부문 2024년 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "& 정상권. (2024, January), Development of the sub-Kelvin adiabatic demagnetization refrigerator (ADR) backed by sorption pump",
+      "year": 2024,
+      "citation_raw": "권도훈, & 정상권. (2024, January). Development of the sub-Kelvin adiabatic demagnetization refrigerator (ADR) backed by sorption pump. 2024 년도 한국초전도저온학회 동계학술대회. 한국초전도저온학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권. (2023, November)",
+      "year": 2023,
+      "citation_raw": "김진욱, 배준혁, 정상권. (2023, November). 액체 수소의 무배기 충진을 위한 극저온 흡착 시스템의 수치적 연구. 2023년도 한국수소및신에너지학회 추계학술대회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권. (2023, November)",
+      "year": 2023,
+      "citation_raw": "김경중, 권도훈, 정상권. (2023, November). 대용량 열저장장치의 열교환부 형상에 따른 열적 성능변화에 대한 연구. 2023년도 대한설비공학회 동계학술대회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권. (2023, November)",
+      "year": 2023,
+      "citation_raw": "김경중, 권도훈, 정상권. (2023, November). 대용량 열저장장치의 열교환부 형상에 따른 열적 성능변화에 대한 연구. 2023년도 대한설비공학회 동계학술대회. 김보금 & 정상권 (2023, 8월). Experimental validation on a single-stage Stirling cryocooler. 2023년도 한국초전도저온학회 하계학술대회. 한국초전도저온학회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권. (2023, April)",
+      "year": 2023,
+      "citation_raw": "정상권. (2023, April). Magnetic Refrigeration and its material issues. 2023 년도 대한금속 재료학회 춘계학술대회. 대한금속 재료학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "& 김보금. (2023, April), 양자기술활성화를 위한 열공학기술",
+      "year": 2023,
+      "citation_raw": "정상권, 권도훈, 배준혁, & 김보금. (2023, April). 양자기술활성화를 위한 열공학기술. In 2023 년도 대한기계학회 열공학부문 춘계학술대회. 대한기계학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "& 정상권. (2023, February), Experimental investigation on no-vent fill (NVF) process with various fill configurations",
+      "year": 2023,
+      "citation_raw": "김진욱, 김경중, & 정상권. (2023, February). Experimental investigation on no-vent fill (NVF) process with various fill configurations. 2023 년도 한국초전도저온학회 동계학술대회. 한국초전도저온학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "& 정상권. (2023, February)",
+      "year": 2023,
+      "citation_raw": "배준혁, 권도훈, & 정상권. (2023, February). Development of sorption compressor for 5 K cooling with thin-plate shape sorption cells. 2023 년도 한국초전도저온학회 동계학술대회. 한국초전도저온학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "& 정상권. (2023, February), Single-shot dilution refrigerator for sub-Kelvin cooling",
+      "year": 2023,
+      "citation_raw": "권도훈, & 정상권. (2023, February). Single-shot dilution refrigerator for sub-Kelvin cooling. 2023 년도 한국초전도저온학회 동계학술대회. 한국초전도저온학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "& 정상권. (2023, February), Vibration characteristics of displacer for Stirling cooler",
+      "year": 2023,
+      "citation_raw": "김보금, 배준혁, & 정상권. (2023, February). Vibration characteristics of displacer for Stirling cooler. 2023 년도 한국초전도저온학회 동계학술대회. 한국초전도저온학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "& 정상권. (2022, November), 장력을 이용하여 고압을 생성하는 극저온 액체 펌프 개발",
+      "year": 2022,
+      "citation_raw": "김경중, 배준혁, & 정상권. (2022, November). 장력을 이용하여 고압을 생성하는 극저온 액체 펌프 개발. In 2022 한국수소및신에너지학회 추계학술대회. 한국수소및신에너지학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "& 정상권. (2022, November)",
+      "year": 2022,
+      "citation_raw": "배준혁, 김경중, & 정상권. (2022, November). 20 K 용 극저온 소형 체크밸브 개발. 2022 한국수소및신에너지학회 추계학술대회. 한국수소및신에너지학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "& 정상권. (2022, August)",
+      "year": 2022,
+      "citation_raw": "권도훈, 김보금, & 정상권. (2022, August). Early test results of the 4 T high temperature superconducting (HTS) magnet. 2022 한국초전도저온학회 하계학술대회. 한국초전도학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2022,
+      "citation_raw": "권도훈, 정상권 (2022), Prediction model of 4.5 K sorption cooler for integrating with adiabatic demagnetization refrigerator (ADR), 2022 한국초전도저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2022), Conceptual Design of Liquid Hydrogen-powered Air Vehicle",
+      "year": 2022,
+      "citation_raw": "김진욱, 권도훈, 정상권 (2022), Conceptual Design of Liquid Hydrogen-powered Air Vehicle, 2022 한국초전도저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2022), Conceptual Design of Liquid Hydrogen-powered Air Vehicle",
+      "year": 2021,
+      "citation_raw": "김진욱, 권도훈, 정상권 (2022), Conceptual Design of Liquid Hydrogen-powered Air Vehicle, 2022 한국초전도저온공학회 동계학술대회 변병창, 정상권 (2021), 액체수소 운송을 위한 배관 냉각 특성 수치해석 및 검증, 2021 한국수소및신에너지학회 추계 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2021), Thermodynamic Design of Hydrogen Joule-Thomson Refrigeration Cycles for Hydrogen Liquefaction",
+      "year": 2021,
+      "citation_raw": "김진욱, 권도훈, 김경중, 박태진, 정상권 (2021), Thermodynamic Design of Hydrogen Joule-Thomson Refrigeration Cycles for Hydrogen Liquefaction, 2021 한국수소및신에너지학회 추계 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "& 정상권. (2021, August), Modeling and simulation of cryogenic system of RAON SRF TF using EcosimPro",
+      "year": 2021,
+      "citation_raw": "변병창, 기태경, & 정상권. (2021, August). Modeling and simulation of cryogenic system of RAON SRF TF using EcosimPro. In 2021 한국초전도저온학회 하계학술대회. 한국초전도학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2021), Investigations on Equation of State for Calculating Thermodynamic Properties of Hydrogen-Neon Mixture",
+      "year": 2021,
+      "citation_raw": "김진욱, 박태진, 권도훈, 정상권 (2021), Investigations on Equation of State for Calculating Thermodynamic Properties of Hydrogen-Neon Mixture, 2021 한국초전도저온공학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "상변화물질을 이용한 냉열저장소가 미치는 액화공기 에너지저장시스템의 총효율 변화에 대한 연구. 대한기계학회 춘추학술대회",
+      "year": 2021,
+      "citation_raw": "김경중, 배준혁, & 정상권. (2021). 상변화물질을 이용한 냉열저장소가 미치는 액화공기 에너지저장시스템의 총효율 변화에 대한 연구. 대한기계학회 춘추학술대회, 131-131.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "LAES (Liquid Air Energy Storage) 의 냉열저장소 (Thermal Storage Unit) 에 대한 고찰. 대한기계학회 춘추학술대회",
+      "year": 2021,
+      "citation_raw": "김경중, 김보금, 변병창, & 정상권. (2021). LAES (Liquid Air Energy Storage) 의 냉열저장소 (Thermal Storage Unit) 에 대한 고찰. 대한기계학회 춘추학술대회, 76-77.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "변병창, 정상권 (2021), Cryogenic TSU (Thermal Storage Unit) test for keeping vaccine below -70 °C, 2021 한국초전도저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2021), Enhanced feature of heat exchanger with pressure drop in hydrogen liquefaction process",
+      "year": 2021,
+      "citation_raw": "김경중, 김보금, 정상권 (2021), Enhanced feature of heat exchanger with pressure drop in hydrogen liquefaction process, 2021 한국초전도저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2021,
+      "citation_raw": "권도훈, 변병창, 정상권 (2021), Development of Sorption Cooler for 1 K Adiabatic Demagnetization Refrigerator, 2021 한국초전도저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2021), Investigation for properties of a binary mixture of hydrogen and neon",
+      "year": 2021,
+      "citation_raw": "박태진, 권도훈, 정상권 (2021), Investigation for properties of a binary mixture of hydrogen and neon, 2021 한국초전도저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2021), Current status and future plan of operation logic for RAON cryogenic system",
+      "year": 2021,
+      "citation_raw": "Linxue Jin, 변병창, 기태경, 정상권 (2021), Current status and future plan of operation logic for RAON cryogenic system, 2021 한국초전도저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "& 정상권. (2020, November)",
+      "year": 2020,
+      "citation_raw": "박태진, 배준혁, & 정상권. (2020, November). -100℃ 온도를 위한 혼합냉매 줄-톰슨 냉동기의 설계. In 2020 년도 대한설비공학회 동계학술발표대회. 대한설비공학회.",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2020), Numerical Analysis on Quench in a High Temperature Superconducting (HTS) Magnet during Current Dump Process",
+      "year": 2020,
+      "citation_raw": "권도훈, 김보금, 정상권 (2020), Numerical Analysis on Quench in a High Temperature Superconducting (HTS) Magnet during Current Dump Process, 2020 한국초전도저온 저온공학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2020), Study on the temperature distribution of long length HTS power cable cooled by circulating slush nitrogen",
+      "year": 2020,
+      "citation_raw": "김보금, 권도훈, 정상권 (2020), Study on the temperature distribution of long length HTS power cable cooled by circulating slush nitrogen, 2020 한국초전도저온 저온공학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2019), Heat transfer characteristics of cryogenic line chill-down process",
+      "year": 2019,
+      "citation_raw": "Linxue Jin, 이지성, 정상권 (2019), Heat transfer characteristics of cryogenic line chill-down process, 2019 한국초전도저온 학술연합회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "김종권, 정상권 (2019), Numerical Analysis of Cold Recycle in Cold Storage for Liquid Air Energy Storage System, 2019 한국초전도저온 학술연합회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2019), 액체 수소용 단열 시스템의 성능 향상에 대한 연구",
+      "year": 2019,
+      "citation_raw": "김종권, 정상권 (2019), Numerical Analysis of Cold Recycle in Cold Storage for Liquid Air Energy Storage System, 2019 한국초전도저온 학술연합회 하계학술대회 양예준, 권도훈, 진링슈, 인세환, 정상권 (2019), 액체 수소용 단열 시스템의 성능 향상에 대한 연구, 2019 한국수소및신에너지학회 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2019,
+      "citation_raw": "김종권, 정상권 (2019), Investigation of Amorphous Material with Ice for Cold Thermal Storage, 2019 한국초전도저온 학술연합회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2019), Development of Adiabatic Demagnetization Refrigerator (ADR) using Passive Heat Switch",
+      "year": 2019,
+      "citation_raw": "권도훈, 정상권 (2019), Development of Adiabatic Demagnetization Refrigerator (ADR) using Passive Heat Switch, 2019 한국초전도저온 학술연합회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2018,
+      "citation_raw": "김경중, 배준혁, 한준호, 정상권 (2018), Superfluid cooling system for high field NMR and MRI magnets, 2018 한국초전도저온 학술연합회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2018,
+      "citation_raw": "김경중, 배준혁, 한준호, 정상권 (2018), Superfluid cooling system for high field NMR and MRI magnets, 2018 한국초전도저온 학술연합회 하계학술대회 배준혁, 김경중, 정상권 (2018), 5 K 용 줄-톰슨 흡착식 냉동기를 위한 흡착식 압축기 설계, 2018년도 대한설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "줄-톰슨 효과가 나타나는 모세관형 열교환기에 대한 실험적 연구",
+      "year": 2018,
+      "citation_raw": "김경중, Lingxue Jin, 정상권, 줄-톰슨 효과가 나타나는 모세관형 열교환기에 대한 실험적 연구, 대한기계학회 열공학부문 2018년도 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2018,
+      "citation_raw": "김경중, 배준혁, 박세현, Lingxue Jin, 정상권 (2018), Thermal insulation performance in 4 K to 2 K JT refrigeration system, 2018 한국초전도저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2018), Numerical and Experimental Study of Cryogenic Reciprocating Expander without Inner Piston",
+      "year": 2018,
+      "citation_raw": "박세현, 배준혁, 김경중, 정상권 (2018), Numerical and Experimental Study of Cryogenic Reciprocating Expander without Inner Piston, 2018 한국초전도저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2018), Experimental Investigation on the Passive Thermodynamic Vent System (TVS) of Cryogenic Propellant Tank",
+      "year": 2018,
+      "citation_raw": "배준혁, 박세현, 김경중, 정상권 (2018), Experimental Investigation on the Passive Thermodynamic Vent System (TVS) of Cryogenic Propellant Tank, 2018 한국초전도저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2018), Experimental Investigation on the Passive Thermodynamic Vent System (TVS) of Cryogenic Propellant Tank",
+      "year": 2017,
+      "citation_raw": "배준혁, 박세현, 김경중, 정상권 (2018), Experimental Investigation on the Passive Thermodynamic Vent System (TVS) of Cryogenic Propellant Tank, 2018 한국초전도저온공학회 동계학술대회 김경중, Lingxue Jin, 정상권 (2017), 극저온 유체의 무배기충진기술의수치해석 연구 및 실험적 검증, 2017 우주발사체기술 심포지움",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2017), 극저온 유체 운송 라인 냉각 과정의 수치 해석",
+      "year": 2017,
+      "citation_raw": "Lingxue Jin, 김경중, 정상권 (2017), 극저온 유체 운송 라인 냉각 과정의 수치 해석, 2017 우주발사체기술 심포지움",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2017), 액체 질소를 이용한 수동적 열역학적 배기 시스템에 대한 실험적 연구",
+      "year": 2017,
+      "citation_raw": "배준혁, 유정현, Lingxue Jin, 정상권 (2017), 액체 질소를 이용한 수동적 열역학적 배기 시스템에 대한 실험적 연구, 2017 우주발사체기술 심포지움",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2017), Heat Transfer Correlation for Turbulant Gas Flow in Semi-Circular Channels",
+      "year": 2017,
+      "citation_raw": "유정현, 정상권 (2017), Heat Transfer Correlation for Turbulant Gas Flow in Semi-Circular Channels, 2017 한국초전도저온공학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2017,
+      "citation_raw": "박인명, 정상권 (2017), Development of an Active Magnetic Regenerative Refrigerator Operating between 77 K and 20 K, 2017 한국 초전도 저온공학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2017), 피스톤이 없는 왕복동식 팽창기의 이론 및 실험적 연구",
+      "year": 2017,
+      "citation_raw": "박인명, 정상권 (2017), Development of an Active Magnetic Regenerative Refrigerator Operating between 77 K and 20 K, 2017 한국 초전도 저온공학회 하계학술대회 박세현, 박인명, 정상권 (2017), 피스톤이 없는 왕복동식 팽창기의 이론 및 실험적 연구, 2017년도 대한설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2017), 액체 질소 이하 온도에서 작동하는 능동형 자기 재생식 냉각기의 개발",
+      "year": 2017,
+      "citation_raw": "박인명, 정상권 (2017), 액체 질소 이하 온도에서 작동하는 능동형 자기 재생식 냉각기의 개발, 2017년도 대한설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2016), Experimental Investigation of Cryogenic Line Chill-down Technology by Liquid Nitrogen",
+      "year": 2016,
+      "citation_raw": "Lingxue Jin, 박창기, 이천규, 조혁진, 정상권 (2016), Experimental Investigation of Cryogenic Line Chill-down Technology by Liquid Nitrogen, 제16회 우주발사체기술 심포지움",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2016), 극저온 유체의 무배기 충진 기술의 수치적 해석에 대한 연구",
+      "year": 2016,
+      "citation_raw": "김경중, Lingxue Jin, 정상권 (2016), 극저온 유체의 무배기 충진 기술의 수치적 해석에 대한 연구, 제 16회 우주발사체기술 심포지움",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2016,
+      "citation_raw": "김경중, Lingxue Jin, 박인명, 박지호, 정상권 (2016), Analytic Model of No-vent Filling (NVF) in Cryogenic Fluid Transfer, 2016 한국 초전도 저온공학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2016), Design and Exergy analysis of Non-flammable mixed refrigerant cycle with phase separator for Boil-off gas re-liquefaction process",
+      "year": 2016,
+      "citation_raw": "박창기, 이천규, 유정현, 정상권 (2016), Design and Exergy analysis of Non-flammable mixed refrigerant cycle with phase separator for Boil-off gas re-liquefaction process, 2016 한국 초전도 저온공학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2016), Design and Exergy analysis of Non-flammable mixed refrigerant cycle with phase separator for Boil-off gas re-liquefaction process",
+      "year": 2016,
+      "citation_raw": "박창기, 이천규, 유정현, 정상권 (2016), Design and Exergy analysis of Non-flammable mixed refrigerant cycle with phase separator for Boil-off gas re-liquefaction process, 2016 한국 초전도 저온공학회 하계학술대회 박지호, 박인명, 정상권 (2016), 수소 재액화를 위한 연속 단열 탈자냉동기에 관한 실험적 연구, 한국 수소 및 신에너지학회 2016 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2016), 고온 초전도 자석을 이용한 능동형 자기 재생식 냉동기의 개발",
+      "year": 2016,
+      "citation_raw": "박인명, 박지호, 정상권 (2016), 고온 초전도 자석을 이용한 능동형 자기 재생식 냉동기의 개발, 한국 수소 및 신에너지학회 2016 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2016), Measurement of boiling heat transfer coefficients for non-flammable cryogenic mixed refrigerant in various compositions",
+      "year": 2016,
+      "citation_raw": "유정현, Lingxue Jin, 이천규, 정상권 (2016), Measurement of boiling heat transfer coefficients for non-flammable cryogenic mixed refrigerant in various compositions, 2016 한국 초전도 저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2016), Numerical Model of No-Vent-Fill (NVF)",
+      "year": 2016,
+      "citation_raw": "김경중, 박창기, Lingxue Jin, 유정현, 박지호, 정상권 (2016), Numerical Model of No-Vent-Fill (NVF), 2016 한국 초전도 저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2015), Performance Evaluation of Cryogenic Free-piston Reciprocating Expander",
+      "year": 2015,
+      "citation_raw": "차정민, 박지호, 김경중, 정상권 (2015), Performance Evaluation of Cryogenic Free-piston Reciprocating Expander, 2015 한국 초전도 저온공학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2015), Experimental Apparatus for Measuring Boiling Heat Transfer Coefficients of Mixed Refrigerant and Preliminary Experimental Results",
+      "year": 2015,
+      "citation_raw": "유정현, 이천규, 정상권 (2015), Experimental Apparatus for Measuring Boiling Heat Transfer Coefficients of Mixed Refrigerant and Preliminary Experimental Results, 2015 한국 초전도 저온공학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2015), Cryogenic Line Chill-down Process Simulation by Using Sinda/Fluint",
+      "year": 2015,
+      "citation_raw": "Lingxue Jin, 조혁진, 정상권 (2015), Cryogenic Line Chill-down Process Simulation by Using Sinda/Fluint, 2015 한국 초전도 저온공학회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2015), Cryogenic Line Chill-down Process Simulation by Using Sinda/Fluint",
+      "year": 2015,
+      "citation_raw": "Lingxue Jin, 조혁진, 정상권 (2015), Cryogenic Line Chill-down Process Simulation by Using Sinda/Fluint, 2015 한국 초전도 저온공학회 하계학술대회 박인명, 박지호, 정상권 (2015), 수소 재액화 적용을 위한 자기 냉동 방식, 한국 수소 및 신에너지학회 2015춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2015,
+      "citation_raw": "Lingxue Jin, 김영철, 차정민, 정상권 (2015), 72시간 비행용 무인기의 액화 수소 용기 설계, 한국 수소 및 신에너지학회 2015춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2015), 액체 수소에 대한 무배기 충진 기술 활용",
+      "year": 2015,
+      "citation_raw": "김영철, 박인명, 박지호, 정상권 (2015), 액체 수소에 대한 무배기 충진 기술 활용, 한국 수소 및 신에너지 학회 2015 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2015), Development of a hybrid refrigeration cycle with non-flammable mixed refrigerant for vaporized liquefied natural gas (LNG)",
+      "year": 2015,
+      "citation_raw": "유정현, 이천규, 정상권 (2015), Development of a hybrid refrigeration cycle with non-flammable mixed refrigerant for vaporized liquefied natural gas (LNG), 한국 초전도 저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2015), Design of Stirling-type Pulse Tube Refrigerator with Cold Compression",
+      "year": 2015,
+      "citation_raw": "박지호, 고준석, 차정민, 정상권 (2015), Design of Stirling-type Pulse Tube Refrigerator with Cold Compression, 한국 초전도 저온공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2015), Performance evaluation of cryogenic free-piston reciprocating expander",
+      "year": 2015,
+      "citation_raw": "차정민, 박지호, 고준석, 김효봉, 정상권 (2015), Performance evaluation of cryogenic free-piston reciprocating expander, 한국 초전도 저온공학회 동계학술대",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2014), Boil-off gas 재액화용 Dual Mixed Refrigerant cycle의 효율 개선방안",
+      "year": 2014,
+      "citation_raw": "이천규, 유정현, 박지호, 박인명, 차정민, 정상권 (2014), Boil-off gas 재액화용 Dual Mixed Refrigerant cycle의 효율 개선방안, 2014년도 대한설비공학회 동계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2014), Boil-off gas 재액화용 Dual Mixed Refrigerant cycle의 효율 개선방안",
+      "year": 2014,
+      "citation_raw": "이천규, 유정현, 박지호, 박인명, 차정민, 정상권 (2014), Boil-off gas 재액화용 Dual Mixed Refrigerant cycle의 효율 개선방안, 2014년도 대한설비공학회 동계학술발표대회 정영석, 이수진, 정상권 (2014), 헬륨 버블링을 이용한 가압 시스템의 운용 조건, 2014년도 한국항공우주학회 추계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2014,
+      "citation_raw": "박지호, 박인명, 이천규, 정상권 (2014), Magnetic Refrigerator for Hydrogen Re-liquefaction Application, 2014년 한국수소 및 신에너지학회 추계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2014), Experimental investigation of line chill down process using subcooled liquid nitrogen",
+      "year": 2014,
+      "citation_raw": "유동규, 김영철, 정영석, 서만수, 정상권 (2014), Experimental investigation of line chill down process using subcooled liquid nitrogen, 2014년도 한국초전도.저온학술연합회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2014), Experimental Investigation on No-Vent Fill (NVF) with Various Liquid Nitrogen Injection Conditions",
+      "year": 2014,
+      "citation_raw": "김영철, 유동규, 서만수, 정상권 (2014), Experimental Investigation on No-Vent Fill (NVF) with Various Liquid Nitrogen Injection Conditions, 2014년도 한국초전도.저온학술연합회 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권 (2014), Experimental Investigation on No-Vent Fill (NVF) with Various Liquid Nitrogen Injection Conditions",
+      "year": 2014,
+      "citation_raw": "김영철, 유동규, 서만수, 정상권 (2014), Experimental Investigation on No-Vent Fill (NVF) with Various Liquid Nitrogen Injection Conditions, 2014년도 한국초전도.저온학술연합회 하계학술대회 이지성, 정상권, (2014), Cryogenic Joule-Thomson refrigerator with ejector, 대한기계학회 열공학부문 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "Development of a high efficiency Joule-Thomson refrigerator below 77 K",
+      "year": 2014,
+      "citation_raw": "이지성, 정상권, (2014), Development of a high efficiency Joule-Thomson refrigerator below 77 K, 제7회 한국냉동공학학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "(2014), Analysis of the freezing possibility for non-flammable dual mixed refrigerant cycle",
+      "year": 2014,
+      "citation_raw": "이천규, 이지성, 유정현, 정상권, (2014), Analysis of the freezing possibility for non-flammable dual mixed refrigerant cycle, 제7회 한국냉동공학학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "Application of printed circuit microchannel heat exchanger",
+      "year": 2013,
+      "citation_raw": "백승환, 이천규, 정상권, (2013), Application of printed circuit microchannel heat exchanger, 대한기계학회 2013년도 추계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "HTS Magnet Applicable for Hydrogen Re-liquefier by Magnetic Refrigeration: Preliminary Experiment",
+      "year": 2013,
+      "citation_raw": "박지호, 정상권, 김석호, (2013), HTS Magnet Applicable for Hydrogen Re-liquefier by Magnetic Refrigeration: Preliminary Experiment, 한국 수소 및 신에너지 학회 2013추계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "(2013), Effect of the AMR composition and phase change between mass flow rate and magnetic field on the two-stage AMRR",
+      "year": 2013,
+      "citation_raw": "박인명, 김영권, 정상권, (2013), Effect of the AMR composition and phase change between mass flow rate and magnetic field on the two-stage AMRR, 한국 수소 및 신에너지 학회 2013추계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "(2013), 가시화된 순수, 혼합냉매의 고체-액체 상평형에 관한 연구",
+      "year": 2013,
+      "citation_raw": "이천규, 유정현, 백승환, 정상권, 정제헌, (2013), 가시화된 순수, 혼합냉매의 고체-액체 상평형에 관한 연구, 한국수소 및 신에너지 학회 2013추계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "(2013), Development of the Closed-loop Joule-thomson Cryoablation Device for Long Area Cooling",
+      "year": 2013,
+      "citation_raw": "이천규, 이지성, 백승환, 정상권, 박상우, (2013), Development of the Closed-loop Joule-thomson Cryoablation Device for Long Area Cooling, 2013 Summer Conference of KIASC",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "(2013), Development of the Closed-loop Joule-thomson Cryoablation Device for Long Area Cooling",
+      "year": 2013,
+      "citation_raw": "이천규, 이지성, 백승환, 정상권, 박상우, (2013), Development of the Closed-loop Joule-thomson Cryoablation Device for Long Area Cooling, 2013 Summer Conference of KIASC 박지호, 정상권, 김석호(2013), 수소재액화를 위한 자기냉동기 설계, 한국수소 및 신에너지학회 2013년 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2013), 마이크로 채널에서 다상 혼합냉매의 열전달 계수",
+      "year": 2013,
+      "citation_raw": "백승환, 정상권(2013), 마이크로 채널에서 다상 혼합냉매의 열전달 계수, 제6회 한국냉동공학 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2013), 이젝터를 포함한 혼합냉매 줄톰슨 극저온 냉동사이클",
+      "year": 2013,
+      "citation_raw": "이지성, 정상권(2013), 이젝터를 포함한 혼합냉매 줄톰슨 극저온 냉동사이클, 제6회 한국냉동공학 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "이천규, 이지성, 정상권(2013), Design of closed-loop 67 K pure N2 Joule-Thomson refrigeration cycle with sub-atmospheric device, 2013 한국초전도·저온 학술연합회 워크샵",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2012), 상온 능동형 자기 재생 냉동기의 개발",
+      "year": 2012,
+      "citation_raw": "이천규, 이지성, 정상권(2013), Design of closed-loop 67 K pure N2 Joule-Thomson refrigeration cycle with sub-atmospheric device, 2013 한국초전도·저온 학술연합회 워크샵 박인명, 김영권, 정상권(2012), 상온 능동형 자기 재생 냉동기의 개발, 2012년도 초전도 공동학술대회 및 정기총회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "김석호(2012), 수소 재액화용 단열탈자 냉동기의 설계",
+      "year": 2012,
+      "citation_raw": "박지호, 김영권, 정상권, 김석호(2012), 수소 재액화용 단열탈자 냉동기의 설계, 2012년도 초전도 공동학술대회 및 정기총회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "지동진(2011), 저중력 내부 상황을 모사한 지상에서의 PVT방식의 유체 잔량 계측",
+      "year": 2011,
+      "citation_raw": "서만수, 정상권, 정영석, 구동훈, 지동진(2011), 저중력 내부 상황을 모사한 지상에서의 PVT방식의 유체 잔량 계측, 2011 한국초전도저온공학 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2011), 비가연성 냉매를 사용하는 혼합 냉매 냉각 시스템",
+      "year": 2011,
+      "citation_raw": "황규완, 백승환, 정상권(2011), 비가연성 냉매를 사용하는 혼합 냉매 냉각 시스템, 2011년도 설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2011), 극저온 열교환기의 축방향 열전달 억제",
+      "year": 2011,
+      "citation_raw": "백승환, 김진혁, 정상권(2011), 극저온 열교환기의 축방향 열전달 억제, 2011년도 설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "정상권, 박인명, 인세환(2011), 미세 채널에서 R123/R134a/R22 혼합 냉매의 유동 비등 열전달에 대한 실험적 연구, 2011년도 설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2010), 탑재형 냉동기를 이용한 고온 초전도 모터 개발 및 회전 실험",
+      "year": 2010,
+      "citation_raw": "정상권, 박인명, 인세환(2011), 미세 채널에서 R123/R134a/R22 혼합 냉매의 유동 비등 열전달에 대한 실험적 연구, 2011년도 설비공학회 하계학술발표대회 기태경, 김영권, 김희선, 정상권(2010), 탑재형 냉동기를 이용한 고온 초전도 모터 개발 및 회전 실험, 한국초전도저온공학회 2010년도 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2010), 극저온용 마이크로 채널 열교환기의 열전달 성능",
+      "year": 2010,
+      "citation_raw": "김진혁, 백승환, 정상권(2010), 극저온용 마이크로 채널 열교환기의 열전달 성능, 한국초전도저온공학회 2010년도 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2010), 고압 상황에서 작동되는 극저온 기액 분리기와 액체 계면 측정기의 개발",
+      "year": 2010,
+      "citation_raw": "이천규, 황규완, 정상권(2010), 고압 상황에서 작동되는 극저온 기액 분리기와 액체 계면 측정기의 개발, 2010년도 초전도 저온공학회 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2010), 마이크로 채널 PCHE의 압력손실 및 열전달 특성에 관한 연구",
+      "year": 2010,
+      "citation_raw": "김진혁, 백승환, 정상권(2010), 마이크로 채널 PCHE의 압력손실 및 열전달 특성에 관한 연구, 2010년 설비공학회 하계 학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2010), 엔트로피 생성을 고려한 능동형 자기 재생기의 성능 특성에 대한 연구",
+      "year": 2010,
+      "citation_raw": "김영권, 정상권(2010), 엔트로피 생성을 고려한 능동형 자기 재생기의 성능 특성에 대한 연구, 2010년 설비공학회 하계 학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "인세환, 정상권(2010), 미세채널에서 R123/R134a 혼합냉매의 유동 비등 열전달 특성",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2010), 마이크로 채널 PCHE의 압력손실 특성에 관한 연구",
+      "year": 2010,
+      "citation_raw": "김진혁, 백승환, 정상권(2010), 마이크로 채널 PCHE의 압력손실 특성에 관한 연구, 2010년 대한기계학회 열공학부문 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2009), 극저온 추진제 저장탱크내의 압력증가 현상에 대한 연구",
+      "year": 2009,
+      "citation_raw": "서만수, 정상권(2009), 극저온 추진제 저장탱크내의 압력증가 현상에 대한 연구, 제 10회 우주발사체기술 심포지움",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2009), 다양한 분말충전 단열 방법에 대한 열적 모델링 및 실험적 연구",
+      "year": 2009,
+      "citation_raw": "김희선, 정성하, 정상권(2009), 다양한 분말충전 단열 방법에 대한 열적 모델링 및 실험적 연구, 2009년도 초전도 저온공학회 학술대회 논문집",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2009), 고온 초전도 모터 탑재를 위한 선형압축기를 포함한 스털링형 맥동관 냉동기",
+      "year": 2009,
+      "citation_raw": "기태경, 정상권(2009), 고온 초전도 모터 탑재를 위한 선형압축기를 포함한 스털링형 맥동관 냉동기, 2009년도 초전도 저온공학회 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "이지성, 정상권(2009), R14와 질소 혼합유체를 사용하는 극저온 열사이펀의 과도상태 거동, 2009년도 초전도 저온공학회 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "인세환, 정상권(2009), 미세채널에서 R123/R134a 혼합 냉매의 유동 비등 열전달에 대한 실험적 연구, 2009년도 대한 기계학회 열공학부문 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2008), 영구자석 배열을 이용한 능동형 자기 재생 냉동기에 대한 실험적 연구",
+      "year": 2008,
+      "citation_raw": "인세환, 정상권(2009), 미세채널에서 R123/R134a 혼합 냉매의 유동 비등 열전달에 대한 실험적 연구, 2009년도 대한 기계학회 열공학부문 춘계학술대회 김영권, 정상권(2008), 영구자석 배열을 이용한 능동형 자기 재생 냉동기에 대한 실험적 연구, 2008년도 대한 설비공학회 동계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2008), 극저온 유체 저장 시스템의 압력 증가에 대한 연구",
+      "year": 2008,
+      "citation_raw": "서만수, 김영권, 인세환, 정상권(2008), 극저온 유체 저장 시스템의 압력 증가에 대한 연구, 대한설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2008), 고효율 혼합 냉매 천연 가스 액화 공정에 대한 고찰",
+      "year": 2008,
+      "citation_raw": "백승환, 황규완, 정상권(2008), 고효율 혼합 냉매 천연 가스 액화 공정에 대한 고찰, 2008년도 대한설비공학회 동계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2008), 아르곤과 아산화질소 혼합물을 사용하는 소형 J-T 냉동기",
+      "year": 2008,
+      "citation_raw": "황규완, 정상권(2008), 아르곤과 아산화질소 혼합물을 사용하는 소형 J-T 냉동기, 2008년도한국 초전도 저온공학회 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "고준석(2007), 압력 강하를 고려한 ε-NTU 관계식의 수정",
+      "year": 2007,
+      "citation_raw": "황규완, 정상권, 고준석(2007), 압력 강하를 고려한 ε-NTU 관계식의 수정, 대한설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 2007,
+      "citation_raw": "정상권, 김영권, 이지성(2007), 질소와 CF4 혼합물을 작동 유체로 하는 극저온 열사이펀에 대한 실험적 연구, 대한설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "인세환(2006), 저온수술 프로브용 소형 줄-톰슨 냉동기의 설계",
+      "year": 2006,
+      "citation_raw": "황규완, 정상권, 인세환(2006), 저온수술 프로브용 소형 줄-톰슨 냉동기의 설계, 한국초전도 저온공학회 2006년도 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2006), 극저온 냉동기에 의해 냉각되는 열사이펀의 과도 열전달 특성에 대한 연구",
+      "year": 2006,
+      "citation_raw": "김영권, 정상권(2006), 극저온 냉동기에 의해 냉각되는 열사이펀의 과도 열전달 특성에 대한 연구, 대한기계학회 추계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2005), 터보펌프 방식 액체추진기관에서의 액체산소 공급온도 예측에 대한 연구",
+      "year": 2005,
+      "citation_raw": "정상권(2005), 터보펌프 방식 액체추진기관에서의 액체산소 공급온도 예측에 대한 연구, 한국항공우주학회 2005년도 추계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "손명환(2005), 기체 열전달을 고려한 맥동관의 팽창 효율",
+      "year": 2005,
+      "citation_raw": "정제헌, 정상권, 권영길, 손명환(2005), 기체 열전달을 고려한 맥동관의 팽창 효율, 한국초전도 저온공학회 2005년도 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "손명환(2005), 스털링형 맥동관 냉동기의 성능 해석",
+      "year": 2005,
+      "citation_raw": "고준석, 정상권, 권영길, 손명환(2005), 스털링형 맥동관 냉동기의 성능 해석, 한국초전도 저온공학회 2005년도 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2005), 스털링형 맥동관 냉동기의 거동 특성 해석",
+      "year": 2005,
+      "citation_raw": "고준석, 정상권(2005), 스털링형 맥동관 냉동기의 거동 특성 해석, 대한설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2005), 히터를 이용한 액체 헬륨 가압 시스템에 대한 실험적 연구, 우주발사체 기술 심포지움",
+      "year": 2005,
+      "citation_raw": "정상권(2005), 히터를 이용한 액체 헬륨 가압 시스템에 대한 실험적 연구, 우주발사체 기술 심포지움",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2004), 극저온 냉각기용 직렬식 선형 압축기에 대한 실험적 연구",
+      "year": 2004,
+      "citation_raw": "고준석, 정상권(2004), 극저온 냉각기용 직렬식 선형 압축기에 대한 실험적 연구, 대한설비공학회 동계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2004), 초소형 흡착식 냉동기 개발에 대한 실험적 연구",
+      "year": 2004,
+      "citation_raw": "최창훈, 고준석, 정상권(2004), 초소형 흡착식 냉동기 개발에 대한 실험적 연구, 대한설비공학회 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "최정운(2004), 냉중성자원 설계를 위한 극저온 열사이펀의 동특성 연구",
+      "year": 2004,
+      "citation_raw": "노창현, 김석호, 정상권, 이기홍, 최정운(2004), 냉중성자원 설계를 위한 극저온 열사이펀의 동특성 연구, 한국초전도 저온공학회 2004년도 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2004), 관내연선도체에서 전류의 불균일 분포 및 재분배 해석",
+      "year": 2004,
+      "citation_raw": "김석호, 정상권(2004), 관내연선도체에서 전류의 불균일 분포 및 재분배 해석, 한국초전도 저온공학회 2004년도 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "권영길(2004), 탠덤형 GM 맥동관 냉동기의 구현",
+      "year": 2004,
+      "citation_raw": "정제헌, 정상권, 권영길(2004), 탠덤형 GM 맥동관 냉동기의 구현, 한국초전도 저온공학회 2004년도 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2004), 소형압축기를 이용한 관성관형 맥동관 냉동기의 성능특성에 대한 실험적 연구",
+      "year": 2004,
+      "citation_raw": "김홍성, 정상권(2004), 소형압축기를 이용한 관성관형 맥동관 냉동기의 성능특성에 대한 실험적 연구, 대한설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2004), 열전달 및 마찰열이 스크롤 압축기의 성능에 미치는 영향에 대한 연구",
+      "year": 2004,
+      "citation_raw": "장기태, 정상권(2004), 열전달 및 마찰열이 스크롤 압축기의 성능에 미치는 영향에 대한 연구, 대한설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2004), 소형 흡착식 냉동기에 이용되는 평판형 흡착기의 압축특성 실험",
+      "year": 2004,
+      "citation_raw": "최창훈, 변정주, 고준석, 정상권(2004), 소형 흡착식 냉동기에 이용되는 평판형 흡착기의 압축특성 실험, 대한설비공학회 하계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2003), 소형 맥동관 냉동기에 대한 실험적 연구",
+      "year": 2003,
+      "citation_raw": "김홍성, 남중원, 정상권(2003), 소형 맥동관 냉동기에 대한 실험적 연구, 2003년 대한기계학회 동계학술발표대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2003), 고온 초전도 회전자 냉각을 위한 탑재형 맥동관 냉동기 연구",
+      "year": 2003,
+      "citation_raw": "남중원, 정상권(2003), 고온 초전도 회전자 냉각을 위한 탑재형 맥동관 냉동기 연구, 한국초전도 저온공학회 2003년도 학술회의",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2003), 냉매 저장 방식에 의한 쾌속 냉각 장치에 대한 실험적 연구",
+      "year": 2003,
+      "citation_raw": "장기태, 고준석, 정상권(2003), 냉매 저장 방식에 의한 쾌속 냉각 장치에 대한 실험적 연구, 대한설비공학회 2003 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2002), 소형 흡착식 냉동기에 대한 실험적 연구",
+      "year": 2002,
+      "citation_raw": "고준석, 정상권(2002), 소형 흡착식 냉동기에 대한 실험적 연구, 대한설비공학회 2002년 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2002), 이중 입구형 맥동관 냉동기에서의 압력 파형 측정",
+      "year": 2002,
+      "citation_raw": "정제헌, 정상권(2002), 이중 입구형 맥동관 냉동기에서의 압력 파형 측정, 대한설비공학회 2002 하계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2002), 초전도 자석에 사용되는 전류도입선의 과도특성에 관한 연구",
+      "year": 2002,
+      "citation_raw": "인세환, 정상권(2002), 초전도 자석에 사용되는 전류도입선의 과도특성에 관한 연구, 한국초전도 저온공학회 2002년 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(2001), 열전달을 고려한 스크롤 압축기내의 압축과정에 대한 연구",
+      "year": 2001,
+      "citation_raw": "장기태, 정상권(2001), 열전달을 고려한 스크롤 압축기내의 압축과정에 대한 연구, 대한설비공학회 2001년 동계학술발표회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(1999), 혼합가스를 이용한 극저온 Joule-Thomson 냉각시스템의 설계",
+      "year": 1999,
+      "citation_raw": "이경수, 장기태, 정상권(1999), 혼합가스를 이용한 극저온 Joule-Thomson 냉각시스템의 설계, 공기조화 냉동공학회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": null,
+      "year": 1999,
+      "citation_raw": "남관우, 정상권(1999), 77K G-M 형 오리피스 맥동관 극저온 냉동기의 설계 및 성능 실험, 공기조화 냉동공학회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(1999), 과냉 액체 질소에서의 비정상 열전달에 대한 실험적 연구",
+      "year": 1999,
+      "citation_raw": "김도운, 정상권(1999), 과냉 액체 질소에서의 비정상 열전달에 대한 실험적 연구, 공기조화 냉동공학회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(1999), 스크롤 압축기 내부의 온도 분포와 열유속에 대한 실험적 연구",
+      "year": 1999,
+      "citation_raw": "장기태, 정상권(1999), 스크롤 압축기 내부의 온도 분포와 열유속에 대한 실험적 연구, 1999 공기조화 냉동공학회 하계 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(1999), 관내연선도체 초전도 자석에서 루프 전류의 형성에 관한 연구",
+      "year": 1999,
+      "citation_raw": "김석호, 정상권(1999), 관내연선도체 초전도 자석에서 루프 전류의 형성에 관한 연구, 한국초전도 저온공학회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(1999), 맥동관 냉동기에서 관성관의 모델링에 관한 연구",
+      "year": 1999,
+      "citation_raw": "남관우, 정상권(1999), 맥동관 냉동기에서 관성관의 모델링에 관한 연구, 한국초전도저온공학회 1999년도 제 1회 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "남관우(1998), 초전도 통신소자용 냉기술의 현황 및 전망",
+      "year": 1998,
+      "citation_raw": "정상권, 남관우(1998), 초전도 통신소자용 냉기술의 현황 및 전망, 대한기계학회 충청지부 추계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(1998), 기본형 맥동관 냉동기에 관한 실험적 연구",
+      "year": 1998,
+      "citation_raw": "남관우, 정상권(1998), 기본형 맥동관 냉동기에 관한 실험적 연구, 대한기계학회 춘계학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(1997), 동특성을 고려한 열펌프의 엑서지 해석",
+      "year": 1997,
+      "citation_raw": "장기태, 남관우, 정상권(1997), 동특성을 고려한 열펌프의 엑서지 해석, 1997 공기조화.냉동공학회 하계 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(1997), 맥동관 냉동기에서의 열전달 현상에 관한 연구",
+      "year": 1997,
+      "citation_raw": "남관우, 정상권(1997), 맥동관 냉동기에서의 열전달 현상에 관한 연구, 공기조화냉동공학회 동계학술발표회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    },
+    {
+      "title": "정상권(1996), 관내권선 초전도 자석에서의 한계 자속 변화 양상",
+      "year": 1996,
+      "citation_raw": "정상권(1996), 관내권선 초전도 자석에서의 한계 자속 변화 양상, 96 대한전기학회 하계 학술대회",
+      "source_url": "https://sites.google.com/view/cryokaist/cryogenic-engineering-laboratory/publications/domestic-conference"
+    }
+  ]
+}

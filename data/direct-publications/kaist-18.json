@@ -1,0 +1,1006 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "이정철 LEE, Jungchul",
+  "lab_name": null,
+  "lab_url": "http://mnil.kaist.ac.kr/",
+  "publication_urls": [
+    "https://mnil.kaist.ac.kr/publications/",
+    "https://mnil.kaist.ac.kr/conferences/",
+    "https://mnil.kaist.ac.kr/publications/page/2/",
+    "https://mnil.kaist.ac.kr/publications/page/3/",
+    "https://mnil.kaist.ac.kr/publications/page/4/",
+    "https://mnil.kaist.ac.kr/publications/page/1/"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 6개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Buried stochastic interfaces enabling depth-multiplexed optical physical unclonable functions",
+      "year": 2026,
+      "citation_raw": "Under review T. Kim, K. Jung and J. Lee*, “Buried stochastic interfaces enabling depth-multiplexed optical physical unclonable functions”, Article in press 2026.09",
+      "source_url": "https://mnil.kaist.ac.kr/publications/"
+    },
+    {
+      "title": "Geometry-Dependent Elastic Stability Map of Solid and Hollow Alloy Particles for Lithium-Ion Battery Anodes",
+      "year": 2026,
+      "citation_raw": "V. Phuong and J. Lee*, “Geometry-Dependent Elastic Stability Map of Solid and Hollow Alloy Particles for Lithium-Ion Battery Anodes”, Phys. Chem. Chem. Phys. (2026).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/"
+    },
+    {
+      "title": "Enhancing In-Plane Thermal Conductivity of Ag and Au Films",
+      "year": 2026,
+      "citation_raw": "K. Yun, J. Nam, K. Jung, J. Lee and B. J. Lee*, “Enhancing In-Plane Thermal Conductivity of Ag and Au Films”, ACS Photonics, 13, 11 (2026).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/"
+    },
+    {
+      "title": "Wafer-scale deterministic fabrication of axis-ratio–engineered silicon nanoparticles for on-resonance electric–magnetic dipole interference",
+      "year": 2026,
+      "citation_raw": "T. Kim and J. Lee*, “Wafer-scale deterministic fabrication of axis-ratio–engineered silicon nanoparticles for on-resonance electric–magnetic dipole interference”, Small, 22, 32 (2026)",
+      "source_url": "https://mnil.kaist.ac.kr/publications/"
+    },
+    {
+      "title": "Inertial sensing of water content in tumor spheroids",
+      "year": 2026,
+      "citation_raw": "G. Katsikis, J. Yoon, T. Usherwood, S. Malinowski, J. Yu, C. Chen, S. Son, J. Sutton, K. Ligon, J. Lee, T. Miettinen and S. Manalis*, “Inertial sensing of water content in tumor spheroids”, Science Advances, 12, 14 (2026).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/"
+    },
+    {
+      "title": "In-Situ Monitoring of Diffusive Morphology Transformation of Semiconductor Materials under Joule Heating",
+      "year": 2026,
+      "citation_raw": "T. Kim, B. J. Lee and J. Lee*, “In-Situ Monitoring of Diffusive Morphology Transformation of Semiconductor Materials under Joule Heating”, ACS Applied Materials & Interfaces, 18, 14 (2026).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/"
+    },
+    {
+      "title": "CuOx-Based Transparent and Flexible Humidity Sensors with Laser-Induced Single-Layer Integration",
+      "year": 2026,
+      "citation_raw": "V. Nam, P. Bui,G. Ngo,K. Pham-Nguyen, S. Bang, H. No, J. Lee* and D. Lee*, “CuOx-Based Transparent and Flexible Humidity Sensors with Laser-Induced Single-Layer Integration”, Applied Surface Science Advances, 32, 100942 (2026).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/"
+    },
+    {
+      "title": "Nanomaterial-enhanced sensors for trace heavy metal ion detection: a review of electrochemical and optical methods",
+      "year": 2026,
+      "citation_raw": "R.E. Adhawiyah and J. Lee*, “Nanomaterial-enhanced sensors for trace heavy metal ion detection: a review of electrochemical and optical methods”, Micro and Nano Systems Letters, 14, 4 (2026).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/"
+    },
+    {
+      "title": "Mechanical characterization of Silicon-on-Nothing structures with nanoindentation and point-load deflection experiments",
+      "year": 2026,
+      "citation_raw": "Z. Lee, T. Kim, K. Jung, J. Lee* and G. Sim*, “Mechanical characterization of Silicon-on-Nothing structures with nanoindentation and point-load deflection experiments”, Sensors and Actuators A: Physical, 117312 (2026).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/"
+    },
+    {
+      "title": "Analysis of Multiscale Condensation Phenomena Using a Zero-Shot Computer Vision Framework",
+      "year": 2026,
+      "citation_raw": "D. Lee, S. Roh, J. Jeong, K. Yoon, J. Lee and Y. Nam*, “Analysis of Multiscale Condensation Phenomena Using a Zero-Shot Computer Vision Framework”, Advanced Science, 13, 10, e21372 (2026).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/"
+    },
+    {
+      "title": "Microfluidics-Guided Localized Low-Temperature Modulation of Axonal Signal Propagation",
+      "year": 2026,
+      "citation_raw": "J. Kim, E. Seo, N. Kim, B. Chung, J. Lee, T. Kim, S. Cho, G. Kim, S. Kim, J. Park*, “Microfluidics-Guided Localized Low-Temperature Modulation of Axonal Signal Propagation”, Lab Chip, 26, 991-999 (2026).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/"
+    },
+    {
+      "title": "2026 Fall Conference of Micro Nano Systems, Gyeongju, Korea (Sep",
+      "year": 2026,
+      "citation_raw": "2026 Fall Conference of Micro Nano Systems, Gyeongju, Korea (Sep. 30~Oct. 2, 2026)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fabrication of Mie and Plasmonic Nanoresonator Arrays via Pulsed Laser Annealing of Silicon and Their Transfer onto SU-8 Thin Films",
+      "year": 2026,
+      "citation_raw": "D. Min, T. Kim, and J. Lee, “Fabrication of Mie and Plasmonic Nanoresonator Arrays via Pulsed Laser Annealing of Silicon and Their Transfer onto SU-8 Thin Films.” D. Kim, D. Min, T. Kim, and J. Lee, “Surface-Diffusion-Based Morphology Engineering of Recycled Silicon Nanoparticles for Laser-Sintered Flexible Electronics.” International Conference on Raman Spectroscopy (ICORS) 2026, Istanbul, Türkiye (Aug. 23~27, 2026)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Electrochemically-Etched Micro-Macroporous Silicon for SERS Analysis of Complex Samples",
+      "year": 2026,
+      "citation_raw": "D. Min, T. Kim, and J. Lee, “Electrochemically-Etched Micro-Macroporous Silicon for SERS Analysis of Complex Samples.” D. Kim, D. Min, T. Kim, and J. Lee, “Decoupling Temperature and Stress in Transferred Silicon Nanomembranes on Heterogeneous Substrates for Elevated-Temperature Applications via Micro-Raman Spectroscopy.” The 17th Japan-China-Korea Joint Conference on MEMS/NEMS, BEXCO, Busan, Korea (Jul. 8~10, 2026)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Surface functionalization of Si-based composite anodes for stable solid electrolyte interphase",
+      "year": 2026,
+      "citation_raw": "T. Phuong and J. Lee, “Surface functionalization of Si-based composite anodes for stable solid electrolyte interphase.” T. Kim and J. Lee, “Multi-layer SOI wafer fabrication via one-step simultaneous internal oxidation of morphology-transformed membrane-on-cavity structures.” Hilton Head Workshop 2026: A Solid-State Sensors, Actuators and Microsystems Workshop, Hilton Head Island, USA (May 31~Jun. 4, 2026)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Wafer-scale fabrication of silicon nanosphere arrays with ultra-uniform sub-nanometer gaps",
+      "year": 2026,
+      "citation_raw": "T. Kim and J. Lee, “Wafer-scale fabrication of silicon nanosphere arrays with ultra-uniform sub-nanometer gaps” D. Min, T. Kim and J. Lee, “Laser-annealing-based nanostencil for solvent-free fabrication of plasmonic nanostructures” Spring Conference of Korean Society of Mechanical Engineers (KSME) – Micro Nano division, Yeosu, Korea (May 6~8, 2026)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Wafer-scale silicon nanosphere arrays with ultra-uniform sub-nanometer gaps",
+      "year": 2026,
+      "citation_raw": "T. Kim and J. Lee, “Wafer-scale silicon nanosphere arrays with ultra-uniform sub-nanometer gaps” D. Min, T. Kim and J. Lee, “Integration of heavy-metal ion sample filtration and surface photoluminescence analysis using macro-micropore hybrid silicon vias” 2026 MRS Spring Meeting & Exhibit, Honolulu, Hawai‘i (Apr. 26~May 1, 2026)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Wafer-scale top-down silicon nanoparticles for directional scattering",
+      "year": 2026,
+      "citation_raw": "T. Kim and J. Lee, “Wafer-scale top-down silicon nanoparticles for directional scattering” The 28th Korean Micro Electro Mechanical Systems (KMEMS) Conference, Jeju, Korea (Mar. 25~27, 2026)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fabrication of laser annealing-based nanoscale stencil thin films and fabrication of metal nanodisk arrays via stencil lithography",
+      "year": 2026,
+      "citation_raw": "D. Min, T. Kim and J. Lee, “Fabrication of laser annealing-based nanoscale stencil thin films and fabrication of metal nanodisk arrays via stencil lithography” J. Ko, K. Jung and J. Lee, “Hyper-Multimodal Liquid Characterization Using a Heater-Integrated Microchannel Resonator” The 7th International Conference on Manufacturing Process & Technology, Kota Kinabalu, Malaysia (Feb. 2~4, 2026)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Comparative Study of Silicon-on-Nothing (SON) Structures Fabricated via Metal-Assisted Chemical Etching and Deep Reactive Ion Etching",
+      "year": 2026,
+      "citation_raw": "K. Jung, D. Min, T. Kim and J. Lee, “Comparative Study of Silicon-on-Nothing (SON) Structures Fabricated via Metal-Assisted Chemical Etching and Deep Reactive Ion Etching” The 39th International Conference on Micro Electro Mechanical Systems, Salzburg, Austria (Jan. 25~29, 2026)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fabrication of High-Aspect-Ratio Macro-Mesopore Arrays Via Electrochemical Etching with Tunable Mode Transition",
+      "year": 2025,
+      "citation_raw": "D. Min, T. Kim, K. Jung and J. Lee, “Fabrication of High-Aspect-Ratio Macro-Mesopore Arrays Via Electrochemical Etching with Tunable Mode Transition” D. Min, T. Kim and J. Lee, “Fabrication of Aperture-Tunable Silicon Nanostencil Membrane via Localized Laser Annealing” 80th Anniversary Conference of Korean Society of Mechanical Engineers, Jeongseon, Korea (Dec. 10~13, 2025)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Laser-annealed aperture-tunable silicon nanostencil membranes for fabrication of metal nanodisk arrays",
+      "year": 2025,
+      "citation_raw": "D. Min, T. Kim and J. Lee, “Laser-annealed aperture-tunable silicon nanostencil membranes for fabrication of metal nanodisk arrays” R.E. Adhawiyah, T. Kim and J. Lee, “Spin-on Dopant Process Optimization for Silicon-on-Nothing Resonators with Piezoresistive Readouts” 2025 Fall conference of Micro Nano Systems, Yeosu, Korea (Nov. 20~21, 2025)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Depth-layered buried cavity codes in silicon wafer for optical security",
+      "year": 2025,
+      "citation_raw": "T. Kim, K. Jung and J. Lee, “Depth-layered buried cavity codes in silicon wafer for optical security” D. Min, T. Kim, K. Jung and J. Lee, “Growth and In-situ Morphology Control of Silicon Pores via Backside-Illuminated Photoelectrochemical Etching” The 23rd International Conference on Solid-State Sensors, Actuators and Microsystems, Orlando, USA (Jun. 29~Jul. 3, 2025)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Hemispherical silver nanoshell array on silicon nanospheres for surface-enhanced Raman spectroscopy",
+      "year": 2025,
+      "citation_raw": "T. Kim, J. Lee, “Hemispherical silver nanoshell array on silicon nanospheres for surface-enhanced Raman spectroscopy” Spring conference of Korean Society of Mechanical Engineering – Micro/Nano division, Gangneung, Korea (May 7~9, 2025)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Protein separation using laser-annealed nanoporous silicon membranes with high uniformity",
+      "year": 2025,
+      "citation_raw": "D. Min, T. Kim and J. Lee, “Protein separation using laser-annealed nanoporous silicon membranes with high uniformity” V. B. Nam, T. Kim and J. Lee, “Laser Digital Patterning for Silicon Nanoparticle Ink Spin-coated on Colorless Polyimide Substrates” The 27th Korean MEMS Conference, Jeju, Korea (Mar. 26~28, 2025)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Transparent and Flexible Negative Temperature Coefficient Thermistors Fabricated by Laser Digital Patterning",
+      "year": 2025,
+      "citation_raw": "V. B. Nam, D. Lee and J. Lee, “Transparent and Flexible Negative Temperature Coefficient Thermistors Fabricated by Laser Digital Patterning” Z. F. Lee, T. Kim, K. Jung, J. Lee and G. Sim, “Mechanical characterization of Silicon-on-Nothing structures with nanoindentation and point-load deflection experiments” The 6th International Conference on Manufacturing Process & Technology, Bali, Indonesia (Feb. 11, 2025)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Concealed cavity in silicon for robust and irreplicable anti-counterfeiting function",
+      "year": 2025,
+      "citation_raw": "T. Kim, J. Lee, “Concealed cavity in silicon for robust and irreplicable anti-counterfeiting function” The 38th International Conference on Micro Electro Mechanical Systems, Kaohsiung, Taiwan (Jan. 20~21, 2025)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Liquid Mixture Analysis by Simultaneous Properties Measurements under Temperature Modulation and Deep Learning",
+      "year": 2024,
+      "citation_raw": "J. Ko, J. Lee, “Liquid Mixture Analysis by Simultaneous Properties Measurements under Temperature Modulation and Deep Learning” T. Kim, J. Ko and J. Lee, “Wafer-scale Ferromagnetic Shadow Mask Compatible with Contact Aligner for Dry Etching and Deposition” 2024 Fall conference of Micro Nano Systems, Busan, Korea (Nov. 21~22, 2024)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Non-Destructive Measurement for the Shape and Position of Embedded Cavity Structures Using Reflection Analysis",
+      "year": 2024,
+      "citation_raw": "K. Jung, B. J. Lee and J. Lee, “Non-Destructive Measurement for the Shape and Position of Embedded Cavity Structures Using Reflection Analysis” T. Kim, J. Lee, “Real-time inspection of semiconductor self-assembly process during high-temperature annealing” 2024 Fall conference of Korean Society of Mechanical Engineering, Jeju, Korea (Nov. 6~8, 2024)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Selective self-assembly of silicon nano-structures using localized laser annealing",
+      "year": 2024,
+      "citation_raw": "T. Kim, J. Lee, “Selective self-assembly of silicon nano-structures using localized laser annealing” J. Ko, J. Lee, “Design and fabrication of silicon self-assembled channel resonators with integrated piezoresistive readout” IEEE Sensors 2024, Kobe, Japan (Oct. 20~23, 2024)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Development of microfluidic platform for refractive index measurement of liquid",
+      "year": 2024,
+      "citation_raw": "T. Kim, M. Choi, B. J. Lee and J. Lee, “Development of microfluidic platform for refractive index measurement of liquid” J. Ko, J. Lee, “Hot microtube flowmetry with heater-integrated microchannel resonators” Spring conference of Korean Society of Mechanical Engineering – Micro/Nano division, Gyeongju, Korea (May 15~18, 2024)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Facile extraction of scanning probe shape towards deconvolution of tip-sample interaction artifact",
+      "year": 2024,
+      "citation_raw": "K. Jung, J. Lee, “Facile extraction of scanning probe shape towards deconvolution of tip-sample interaction artifact” The 26th Korean MEMS Conference, Jeju, Korea (Mar. 27~29, 2024)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Top-down fabrication of highly uniform single crystal silicon micro-/nanoparticles via wafer-scale solid jet transfer harvesting",
+      "year": 2023,
+      "citation_raw": "T. Kim, J. Lee, “Top-down fabrication of highly uniform single crystal silicon micro-/nanoparticles via wafer-scale solid jet transfer harvesting” J. Ko, J. Lee, “Compositional analysis of liquid mixtures by thermo/mechano spectroscopy of heated microfluidic resonators” 2023 Fall conference of Korean Society of Mechanical Engineering, Incheon, Korea (Nov. 1~3, 2023)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Wafer scale ferromagnetic shadow mask for versatile microfabrication",
+      "year": 2023,
+      "citation_raw": "T. Kim, J. Ko, M. Choi, J. Song, B. J. Lee, J. Lee, “Wafer scale ferromagnetic shadow mask for versatile microfabrication” J. Ko, J. Lee, “Thermophysical and rheological properties measurements of ultra-small volume liquid mixtures with heater-integrated fluidic resonators” The 14th Japan-China-Korea Joint Conference on MEMS/NEMS (JCK MEMS/NEMS), Jeju, Korea (Sep. 17~20, 2023)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Self-assembled silicon cavity with polydimethysiloxane interface for liquid refractive index measurements via near-infrared interferometry",
+      "year": 2023,
+      "citation_raw": "T. Kim, M. Choi, B. J. Lee, J. Lee, “Self-assembled silicon cavity with polydimethysiloxane interface for liquid refractive index measurements via near-infrared interferometry” J. Ko, J. Lee, “Hyper-multimodal measurements with heater-integrated fluidic resonators to analyze quaternary liquid mixtures” The 22nd International Conference on Solid-State Sensors, Actuators and Microsystems, Kyoto, Japan (Jun. 25~29, 2023)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Sub-skin Temperature Prediction from Skin Temperature Distribution for Frostbite-free Cryo-anesthesia",
+      "year": 2023,
+      "citation_raw": "J. Ko, H. Son, S. Lee, G. H. Kim, and J. Lee, “Sub-skin Temperature Prediction from Skin Temperature Distribution for Frostbite-free Cryo-anesthesia” T. Kim and J. Lee, “Nanoscale Stencils Fabricated by Focused Ion Beam Milling and Dry Transfer of Silicon-on-Nothing Membranes” The 18th International Conference on Nano/Micro Engineered and Molecular Systems, Jeju, Korea (May 14~17, 2023)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Electroless gold deposition and 4-Mercaptopyridine modification onto the solid cantilever for mercury ion detection",
+      "year": 2023,
+      "citation_raw": "R. E. Adhawiyah, J. Ko and J. Lee, “Electroless gold deposition and 4-Mercaptopyridine modification onto the solid cantilever for mercury ion detection” M. G. Jeong, J. Jeong, T. Kim, B. J. Lee and J. Lee, “Near-infrared inspection and machine learning based prediction for semiconductor membrane cavity structures” Spring conference of Korean Society of Mechanical Engineering – Micro/Nano division, Busan, Korea (May 10~12, 2023)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "The 25th Korean MEMS Conference, Jeju, Korea (Mar",
+      "year": 2023,
+      "citation_raw": "The 25th Korean MEMS Conference, Jeju, Korea (Mar. 22~24, 2023)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Mercury ion detection using 4-Mercaptopyridine-functionalized gold film by electroless deposition method",
+      "year": 2023,
+      "citation_raw": "R. E. Adhawiyah and J. Lee, “Mercury ion detection using 4-Mercaptopyridine-functionalized gold film by electroless deposition method” N. B. Fredj and J. Lee, “4D printed thermal-responsive soft actuators based on sequential stimulus mechanism” The 36th International Conference on Micro Electro Mechanical Systems, Munich, Germany (Jan. 19, 2023)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "2022 Nanoscientific Symposium Korea, Daejeon, Korea (Nov",
+      "year": 2022,
+      "citation_raw": "2022 Nanoscientific Symposium Korea, Daejeon, Korea (Nov. 23, 2022)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "반도체 박막-공동 구조체를 위한 비파괴 검사 분석 및 해석",
+      "year": 2022,
+      "citation_raw": "M. G. Jeong, T. Kim, J. Jeong, J. Lee, “반도체 박막-공동 구조체를 위한 비파괴 검사 분석 및 해석” (Invited) 2022 Fall conference of Micro Nano Systems, Gwangju, Korea (Nov. 17~18, 2022)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Uncertainty analysis for fast and synchronized multimodal measurements using a microscope heater-integrated fluidic resonator",
+      "year": 2022,
+      "citation_raw": "J. Ko, J. Lee, “Uncertainty analysis for fast and synchronized multimodal measurements using a microscope heater-integrated fluidic resonator” T. Kim, J. Lee, “Top-down fabrication of single crystal silicon nanoparticles” 2022 Fall conference of Korean Society of Mechanical Engineering, Jeju, Korea (Nov. 9~11, 2022)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "다양한 젖음성 표면의 액적 응축 현상에 대한 컴퓨터 비젼 기반 분석",
+      "year": 2022,
+      "citation_raw": "J. Jeong, J. Shim, J. Lee, Y. Nam, “다양한 젖음성 표면의 액적 응축 현상에 대한 컴퓨터 비젼 기반 분석” J. Ko, B. Lee, J. Lee, “가열 소자 통합 채널 공진기의 액체 열물성 측정 성능 개선을 위한 진공 환경 구동” The 13th Japan-China-Korea Joint Conference on MEMS/NEMS, 2022, Kagoshima, Japan, Hybrid (Oct. 18, 2022)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Microchannel cantilevers beyond mass sensing applications",
+      "year": 2022,
+      "citation_raw": "J. Lee, “Microchannel cantilevers beyond mass sensing applications” (Invited) 2022 Fall Conference of the Korean Sensors Society, Yeosu, Korea (Aug. 24~26, 2022)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "18th International Workshop on Nanomechanical sensing (NMC2022), Bangalore, India (Hybrid) (Aug",
+      "year": 2022,
+      "citation_raw": "18th International Workshop on Nanomechanical sensing (NMC2022), Bangalore, India (Hybrid) (Aug. 9~12, 2022)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Spring conference of Korean Society of Mechanical Engineering – Micro Nano division, Busan, Korea (Apr",
+      "year": 2022,
+      "citation_raw": "Spring conference of Korean Society of Mechanical Engineering – Micro Nano division, Busan, Korea (Apr. 18~20, 2022)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Nanoscale topography prediction and simulation of Germanium-on-Nothing using deep learning",
+      "year": 2022,
+      "citation_raw": "J. Jeong, T. Kim, B. Lee, J. Lee, “Nanoscale topography prediction and simulation of Germanium-on-Nothing using deep learning” J. Ko, B. Lee, J. Lee, “Integration of microchannel resonator and Raman spectroscopy for simultaneous measurement of density, viscosity, and mole fraction of binary mixtures” Spring conference of Korean Society of Mechanical Engineers – Thermal Engineering division, Gyeongju, Korea (Apr. 20~22, 2022)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Experimental characterization of environment and temperature dependent radiative cooling performance",
+      "year": 2022,
+      "citation_raw": "M. Choi, J. Lee, B. Lee, “Experimental characterization of environment and temperature dependent radiative cooling performance” J. Nam, J. Ko, J. Lee, B. Lee, “적외선 카메라를 이용한 히터 내장 캔틸레버의 온도 분포 측정” Annual conference of KMEMS, Jeju, Korea (Apr. 6~8, 2022)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "High-vacuum pressure sensor with silicon-on-nothing (SON) membrane resonators",
+      "year": 2022,
+      "citation_raw": "T. Kim, J. Ko, J. Lee, “High-vacuum pressure sensor with silicon-on-nothing (SON) membrane resonators” Spring conference of Nano Convergence, Gwangju, Korea (Jan. 18~19, 2022)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fall conference of Micro and Nano Systems, An-myeon Island, Korea (Nov",
+      "year": 2021,
+      "citation_raw": "Fall conference of Micro and Nano Systems, An-myeon Island, Korea (Nov. 11~12, 2021)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fall conference of Korean Society of Mechanical Engineers, Gwangju, Korea (Nov",
+      "year": 2021,
+      "citation_raw": "Fall conference of Korean Society of Mechanical Engineers, Gwangju, Korea (Nov. 3~5, 2021)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Precise temperature measurement of a micro-heater by high-resolution infrared thermometry",
+      "year": 2021,
+      "citation_raw": "J. Nam, J. Ko, J. Lee, and B. Lee, “Precise temperature measurement of a micro-heater by high-resolution infrared thermometry” S. Choi, D. Kim, J. Lee, and B. Lee, “Measurement of the out-of-plane thermal conductivity of thin titanium films using 3w method” The 240th ECS Meeting, Orlando, FL, USA (online) (Oct. 10, 2021)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Measurement of thermophysical properties of liquid analyses using micro fluidic resonators via photo thermal modulation",
+      "year": 2021,
+      "citation_raw": "R. Abraham, Y. Yoon, F. Khan, S. Bukhara, T. Thundat, H. Chung, and J. Lee, “Measurement of thermophysical properties of liquid analyses using micro fluidic resonators via photo thermal modulation” (Invited) J. Ko, S. Son, B. Lee, and J. Lee, “Fluidic resonators with integrated heating for various applications with fast and quantitative temperature modulation” (Invited) Spring conference of Korean Society of Mechanical Engineers – Thermal Engineering division, Jeju, Korea (May 26~28, 2021)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Thermal properties measurements of liquids using pulse operation with heater integrated microchannel resonators",
+      "year": 2021,
+      "citation_raw": "J. Ko, B. Lee, and J. Lee, “Thermal properties measurements of liquids using pulse operation with heater integrated microchannel resonators” T. Kim, J. Jeong, M. Jung, B. Lee, and J. Lee, “High-resolution image-based silicon and germanium self-assembly cavity transient analysis” Spring conference of Korean Society of Mechanical Engineers – Micro/Nano division, Busan, Korea (May 26~28, 2021)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Boiling point measurements and phase change study using pressurizable and heatable metallic tube resonant sensors",
+      "year": 2021,
+      "citation_raw": "S. Son, B. Lee, and J. Lee, “Boiling point measurements and phase change study using pressurizable and heatable metallic tube resonant sensors” The 23rd Korean MEMS Conference, Buyeo, Korea (Apr. 7, 2021)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Transient self-assembled structure analysis for prediction of the cavity formation upon high temperature annealing",
+      "year": 2020,
+      "citation_raw": "T. Kim, M. Jung, B. Lee, and J. Lee, “Transient self-assembled structure analysis for prediction of the cavity formation upon high temperature annealing” J. Ko, B. Lee, and J. Lee, “Thermal properties measurements of liquids using pulse operation with heater integrated microchannel resonators” 2020 Fall Conference of Korean Society of Mechanical Engineers (KSME), Jeongseon (Online), Korea (Dec. 17, 2020)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Flexible liquid metal 3ω sensor fabricated by shear induced direct printing for thermal conductivity measurement of human skin",
+      "year": 2020,
+      "citation_raw": "T. Kim, B. Lee, and J. Lee, “Flexible liquid metal 3ω sensor fabricated by shear induced direct printing for thermal conductivity measurement of human skin” J. Ko, B. Lee, and J. Lee, “Real-time resonance frequency monitoring for microbubble nucleation and evolution inside heater integrated microchannel cantilever” 2020 Fall Conference of the Korean Sensors Society, Gangneung, Korea (Nov. 12, 2020)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Physical Sensors based on hollow mechanical resonators",
+      "year": 2020,
+      "citation_raw": "J. Lee, “Physical Sensors based on hollow mechanical resonators” (Invited) The 22nd Korean MEMS Conference, Pyeongchang, Korea (Aug. 21, 2020)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Ultrahigh emissivity of grating-patterned PDMS film from 8 to 13 um wavelength regime",
+      "year": 2020,
+      "citation_raw": "J. Song, J. Seo, S. Lee, J. Lee, and B. Lee, “Ultrahigh emissivity of grating-patterned PDMS film from 8 to 13 um wavelength regime” J. Ko, B. Lee, and J. Lee, “Fabrication and characterization of high resolution suspended micro channel dispensers with an integrated heater” Spring conference of Korean Society of Mechanical Engineers – Micro/Nano division, Daejeon, Korea (Jul. 29~31, 2020)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Structurally robust mechanical resonators for liquid density measurements with electric heating",
+      "year": 2019,
+      "citation_raw": "S. Son, M. Kim, B. Lee, and J. Lee, “Structurally robust mechanical resonators for liquid density measurements with electric heating” The 2nd Pacific Rim Thermal Engineering Conference (PRTEC), Maui Island, Hawaii, USA (Dec. 16~17, 2019)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Thermal characterization of a BGA NVMe solid state drive in Mini-ITX system",
+      "year": 2019,
+      "citation_raw": "E. Lee, H. Kang, J. Lee, and B. Lee, “Thermal characterization of a BGA NVMe solid state drive in Mini-ITX system” J. Kim, T. Kim, H. Lee, J. Lee, and B. Lee, “Fabrication of liquid-metal nano-emulsion and characterization of its dispersion stability” Fall conference of the Korean Society of Mechanical Engineers, Jeju Island, Korea (Nov. 2019)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Precision printing and microstructure fabrication using microcantilevers with fluidic channel and dispensing nozzles",
+      "year": 2019,
+      "citation_raw": "J. Ko, B. Lee, and J. Lee, “Precision printing and microstructure fabrication using microcantilevers with fluidic channel and dispensing nozzles” T. Kim, D. Kim, B. Lee, and J. Lee, “Precision measurement of thermal conductivity of artificial skin with liquid metal sensor fabricated by microcontact printing” Asia-Pacific Thermofluid Science and Engineering Conference (APTSE) 2019, Taipei, Taiwan (Nov. 1, 2019)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fluidic channel integrated resonators for liquid and particle sensing",
+      "year": 2019,
+      "citation_raw": "J. Lee, “Fluidic channel integrated resonators for liquid and particle sensing” (Invited) The 17th International Nanotech Symposium and Exhibition (NANO KOREA 2019), Ilsan, Korea (Jul. 5, 2019)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Pulled glass pipette resonators enabling mass measurements for selectively aspirated microscale objects",
+      "year": 2019,
+      "citation_raw": "J. Ko, D. Lee, S. Kauh, and J. Lee, “Pulled glass pipette resonators enabling mass measurements for selectively aspirated microscale objects” T. Kim, B. Lee, and J. Lee, “Investigation of mechanical properties of liquid metal patterns on a substrate using scanning probe microscopy” The 20th International Conference on Solid-state Sensors, Actuators, and Microsystems, Berlin, Germany (Jun. 26~27, 2019)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Aspiration and mass measurements of microparticles and unicellular organisms via micropipette resonators",
+      "year": 2019,
+      "citation_raw": "J. Ko, D. Lee, B. Lee, T. Kang, S. Kauh, and J. Lee, “Aspiration and mass measurements of microparticles and unicellular organisms via micropipette resonators” J. Lee, F. Khan, T. Thundat, and J. Lee, “Dual channel microfluidic resonators for simultaneous measurements of liquid analytes” The 16th International Workshop on Nanomechanical Sensing (NMC2019), Lausanne, Switzerland (Jun. 20, 2019)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fluidic channel integrated resonators via traditional microfabrication and unconventional fabrication",
+      "year": 2019,
+      "citation_raw": "J. Lee, “Fluidic channel integrated resonators via traditional microfabrication and unconventional fabrication” (Invited) Spring conference of Korean Society of Mechanical Engineers – Micro/Nano division, Busan, Korea (May 24, 2019)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Development of micropipette resonators for selective mass measurement",
+      "year": 2019,
+      "citation_raw": "J. Ko, D. Lee, S. Kauh, and J. Lee, “Development of micropipette resonators for selective mass measurement” T. Kim, B. Lee, and J. Lee, “Characterization of mechanical and electrical properties of liquid metal patterns by scanning probe microscopy” 2019 KPS Spring Meeting, Daejeon, Korea (Apr. 24, 2019)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fluidic channel integrated resonators via traditional microfabrication and unconventional fabrication",
+      "year": 2019,
+      "citation_raw": "J. Lee, “Fluidic channel integrated resonators via traditional microfabrication and unconventional fabrication” (Invited) The 21st Korean MEMS Conference, Jeju Island, Korea (Apr. 5~6, 2019)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Selective aspiration and in-situ mass measurement for microparticles and unicellular Organisms by micropipette resonators",
+      "year": 2019,
+      "citation_raw": "J. Ko, D. Lee, S. Kauh, and J. Lee, “Selective aspiration and in-situ mass measurement for microparticles and unicellular Organisms by micropipette resonators” J. Lee, T. Kim, F. Khan, T. Thundat, B. J. Lee, and J. Lee, “Dual channel microfluidic resonators for simultaneous measurements of liquid analytes” The 32nd International Conference on Micro Electro Mechanical Systems, Seoul, Korea (Jan. 28~30, 2019)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Modifying quartz tuning forks for shear force microscopy and humidity sensing",
+      "year": 2019,
+      "citation_raw": "J. Ko, A. Jarzembski, Y. Yoon, K. Park, B. Lee, and J. Lee, “Modifying quartz tuning forks for shear force microscopy and humidity sensing” (Open poster) Y. Yoon, F. Khan, T. Thundat, and J. Lee, “Thermal characterization of liquid analytes via photothermal modulation of microfluidic resonators” Nano Convergence Conference (NCC) 2019, Korea (Jan. 17, 2019)",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Thermal response of Si AFM cantilever for achieving AFM-Thermoreflectance thermometry",
+      "year": 2018,
+      "citation_raw": "J. Rho, J. Lee, and B. Lee, “Thermal response of Si AFM cantilever for achieving AFM-Thermoreflectance thermometry” 2018 IEEE Sensors, New Delhi, India, Oct. 2018",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Microfluidic cantilever biosensors",
+      "year": 2018,
+      "citation_raw": "T. Thundat, F. Khan, S. Chaudhari, K. Chaudhari, S. Kim, and J. Lee, “Microfluidic cantilever biosensors” Emerging Technologies in Mechanical Engineering 2018, Jeju Island, Korea, Aug. 2018",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Polymeric atomic force microscope cantilevers fabricated in elastomeric molds via ultraviolet curing",
+      "year": 2018,
+      "citation_raw": "J. Lee, Y. Yoon, B. Lee, and J. Ko, “Polymeric atomic force microscope cantilevers fabricated in elastomeric molds via ultraviolet curing” Before joining KAIST The 15th International Workshop on Nanomechanical Sensing, Incheon, Korea, Jun. 2018",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Asymmetric microtube resonators for weighing microparticles when two resonance motion occurs",
+      "year": 2018,
+      "citation_raw": "D. Lee, G. Shin, Y. Yoon, S. Kauh, and J. Lee, “Asymmetric microtube resonators for weighing microparticles when two resonance motion occurs” J. Kim, Y. Kang, Y. Yoon, F. Khan, and J. Lee, “Cost-effective educational vibrometer for static and dynamic measurement of MEMS resonators” Spring conference of the Korean Society of Mechanical Engineers – Micro/Nano division, Busan, Korea, May 2018",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Microfluidic fabrication approach for atomic force microscope cantilevers with UV curable polymers",
+      "year": 2018,
+      "citation_raw": "J. Lee, Y. Yoon, Bora Lee, and J. Ko, “Microfluidic fabrication approach for atomic force microscope cantilevers with UV curable polymers” Y. Yoon, D. Kim, J. Kim, and J. Lee, “Pulled theta capillary tube resonator with liquid metal heater for thermomechanical analysis” ECS Meeting, May 2018",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Time-of-flow micromechanical mass spectrometry and micromechanical infrared spectroscopy using microfluidic cantilever",
+      "year": 2018,
+      "citation_raw": "T. Thundat, R. Abraham, F. Khan, S. Kim, and J. Lee, “Time-of-flow micromechanical mass spectrometry and micromechanical infrared spectroscopy using microfluidic cantilever” The 20th International Scanning Probe Microscopy Conference, Arizona, USA, May 2018",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Polymeric atomic force microscope cantilevers fabricated via replica molding and ultraviolet curing",
+      "year": 2018,
+      "citation_raw": "J. Lee, Y. Yoon, B. Lee, and J. Ko, “Polymeric atomic force microscope cantilevers fabricated via replica molding and ultraviolet curing” The 20th Korean MEMS Conference, Jeju Island, Korea, Apr. 2018",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Pulled theta capillary tube resonator with liquid metal heater for thermal sensing application",
+      "year": 2018,
+      "citation_raw": "Y. Yoon, D. Kim, and J. Lee, “Pulled theta capillary tube resonator with liquid metal heater for thermal sensing application” D. Kim, Y. Yoon, S. Kauh, and J. Lee, “High-resolution liquid metal patterning via phase change of liquid metal and elastic deformation of flexible substrates” The 31st IEEE MEMS, Belfast, UK, Jan. 2018",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Hydrogel tip attached quartz tuning fork using elastomeric tip mold replicated from electrochemically etched tungsten wire",
+      "year": 2017,
+      "citation_raw": "J. Ko, A. Jarzembski, K. Park, and J. Lee, “Hydrogel tip attached quartz tuning fork using elastomeric tip mold replicated from electrochemically etched tungsten wire” B. Lee, Y. Yoon, and J. Lee, “Microfluidic fabrication approach for atomic force microscope cantilevers with photocurable resins” The 4th International Conference on Advanced Electromaterials, Jeju Island, Korea, Nov. 2017",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Hydrogel microelectromechanical systems",
+      "year": 2017,
+      "citation_raw": "J. Lee, “Hydrogel microelectromechanical systems” (Invited) The 30th International Microprocesses and Nanotechnology Conference (MNC 2017), Jeju Island, Korea, Nov. 2017",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Unconventional micro-/nanofabrication materials and processes",
+      "year": 2017,
+      "citation_raw": "J. Lee, B. Lee, J. Ko, and Y. Yoon, “Unconventional micro-/nanofabrication materials and processes” (Invited) Fall conference of the Korean Society of Mechanical Engineers, Jeju Island, Korea, Nov. 2017",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Quartz tuning forks with hydrogel printed by dynamic mask lithography for humidity sensing applications",
+      "year": 2017,
+      "citation_raw": "J. Ko, Y. Yoon, B. Lee and J. Lee, “Quartz tuning forks with hydrogel printed by dynamic mask lithography for humidity sensing applications” Y. Yoon and J. Lee, “Hydrogel membrane resonators with thin metal film piezoresistors deposited through hydrogel shadow mask” The 7th Canada-Korea Conference on Science and Technology, Montreal, Canada, Aug. 2017",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Stepping away from traditional micro-/nanofabrication",
+      "year": 2017,
+      "citation_raw": "Y. Yoon, S. Kim, B. Lee, J. Ko, and J. Lee, “Stepping away from traditional micro-/nanofabrication” (Keynote presentation) The 15th International Nanotech Symposium (NANO KOREA 2017), Jul. 2017",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "The 10th International Symposium on Nature-Inspired Technology, Cebu, Philippine, Jun",
+      "year": 2017,
+      "citation_raw": "The 10th International Symposium on Nature-Inspired Technology, Cebu, Philippine, Jun. 2017",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Revisit the human hair hygrometer by making hair resonators",
+      "year": 2017,
+      "citation_raw": "Y. Yoon, S. Kim, B. Lee, T. Thundat, and J. Lee, “Revisit the human hair hygrometer by making hair resonators” The 19th International Conference on Solid-State Sensors, Actuators and Microsystems, Kaohsiung, Taiwan, Jun. 2017",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Static and dynamic operation of metal-coated hydrogel cantilever humidity sensors based on hygroscopic mismatch",
+      "year": 2017,
+      "citation_raw": "S. Kim, B. Lee, Y. Yoon, T. Thundat, and J. Lee, “Static and dynamic operation of metal-coated hydrogel cantilever humidity sensors based on hygroscopic mismatch” Y. Yoon, S. Kim, and J. Lee, “Fabrication and characterization of hydrogel MEMS resonators via dynamic mask lithography” Spring conference of the Korean Society of Mechanical Engineers – Micro/nano division, Busan, Korea, May 2017",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Metal-hydrogel composite microcantilever humidity sensors fabricated by dynamic mask lithography",
+      "year": 2017,
+      "citation_raw": "B. Lee, S. Kim, Y. Yoon and J. Lee, “Metal-hydrogel composite microcantilever humidity sensors fabricated by dynamic mask lithography” J. Ko, S. Kim, Y. Yoon and J. Lee, “Hydrogel tip attached quartz tuning fork by using a mold fabricated from electrochemically etched tungsten wire” The 14th International Workshop on Nanomechanical Sensing, Hawaii, USA, Apr. 2017",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fabrication and characterization of hydrogel MEMS resonators via dynamic mask lithography",
+      "year": 2017,
+      "citation_raw": "Y. Yoon, B. Lee, S. Kim, and J. Lee, “Fabrication and characterization of hydrogel MEMS resonators via dynamic mask lithography” S. Kim and J. Lee, “Wear mechanisms and facile regeneration of hydrogel nano-probes for amplitude modulation atomic force microscopy” The 19th Korean MEMS Conference, Jeju Island, Korea, Apr. 2017",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Humidity sensing based on hygroscopic mismatch of metal-hydrogel composite microcantilevers",
+      "year": 2017,
+      "citation_raw": "B. Lee, S. Kim and J. Lee, “Humidity sensing based on hygroscopic mismatch of metal-hydrogel composite microcantilevers” S. Kim and J. Lee, “Hydrogel-silicon hybrid cantilevers for studying wear characteristics and regeneration of soft imaging tips toward amplitude-modulation atomic force microscopy” The 30th IEEE MEMS, Las Vegas, USA, Jan. 2017",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "The 4th Kanazawa Bio-AFM Workshop, Kanazawa, Japan, Oct",
+      "year": 2016,
+      "citation_raw": "The 4th Kanazawa Bio-AFM Workshop, Kanazawa, Japan, Oct. 2016",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Can hydrogel AFM cantilevers outperform silicon counterparts?",
+      "year": 2016,
+      "citation_raw": "S. Kim, S. Cho, and J. Lee, “Can hydrogel AFM cantilevers outperform silicon counterparts?” The 14th International Nanotech Symposium (NANO KOREA 2016), Jul. 2016",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "The 13th International Workshop on Nanomechanical Sensing, Delft, Netherlands, Jun",
+      "year": 2016,
+      "citation_raw": "The 13th International Workshop on Nanomechanical Sensing, Delft, Netherlands, Jun. 2016",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Microcapillary mass sensors with electrical readout via quartz tuning fork",
+      "year": 2016,
+      "citation_raw": "D. Lee, J. Kim, N. Cho, S. Kauh, and J. Lee, “Microcapillary mass sensors with electrical readout via quartz tuning fork” Spring conference of the Korean Society of Mechanical Engineers – Micro/nano division, Busan, Korea, May 2016",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Wear characteristics of hydrogel atomic force microscope probes under dynamic mode imaging",
+      "year": 2016,
+      "citation_raw": "S. Kim and J. Lee, “Wear characteristics of hydrogel atomic force microscope probes under dynamic mode imaging” D. Lee, S. Kauh, and J. Lee, “Harnessing electrical readout for microcapillary tube string resonators with quartz tuning forks” The 18th Korean MEMS Conference, Jeju Island, Korea, Apr. 2016",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Towards multiscale fluidic channel networks via internal oxidation and oxide etching based on self-assembled silicon-on-nothing structures",
+      "year": 2015,
+      "citation_raw": "J. Song, J. Je, and J. Lee, “Towards multiscale fluidic channel networks via internal oxidation and oxide etching based on self-assembled silicon-on-nothing structures” I. Chae, F. Khan, J. Song, J. Lee, J. Lee, and T. Thundat, “Standoff infrared spectroscopy on energetic materials using hydrogel microcantilevers” Fall conference of the Korean Society of Mechanical Engineers, Jeju Island, Korea, Oct. 2015",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fabrication of sub-20nm hydrogel cantilever tip using oxygen plasma ashing for high-resolution imaging",
+      "year": 2015,
+      "citation_raw": "J. Song, J. Lee, and J. Lee, “Fabrication of sub-20nm hydrogel cantilever tip using oxygen plasma ashing for high-resolution imaging” J. Lee, J. Song, and J. Lee, “Nanotribogical and wear characteristics of hydrogel nanotips and facile regeneration” The 5th Canada-Korea Conference on Science and Technology, Calgary, Canada, Jul. 2015",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Novel wafer-batch fabrication strategy for microfluidic resonators",
+      "year": 2015,
+      "citation_raw": "J. Kim, J. Je, J. Song, K. Kim, S. Kim, and J. Lee, “Novel wafer-batch fabrication strategy for microfluidic resonators” The 12th International Workshop on Nanomechanical Sensing, Auckland, New Zealand, Jul. 2015",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Novel wafer-level batch fabrication strategy for microfluidic resonators",
+      "year": 2015,
+      "citation_raw": "J. Kim and J. Lee, “Novel wafer-level batch fabrication strategy for microfluidic resonators” The 18th International Conference on Solid-State Sensors, Actuators and Microsystems, Anchorage, USA, Jun. 2015",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Hyper-elastically stretchable gauges based on liquid metals and platinum-catalyzed silicone elastomers",
+      "year": 2015,
+      "citation_raw": "S. Kim, J. Choi, B. Choi, and J. Lee, “Hyper-elastically stretchable gauges based on liquid metals and platinum-catalyzed silicone elastomers” Spring conference of the Korean Society of Mechanical Engineers – Micro/nano division, Busan, Korea, May 2015",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Novel wafer-level batch fabrication technique for microfluidic resonators",
+      "year": 2015,
+      "citation_raw": "J. Lee, J. Je, J. Song, and K. Kim, “Novel wafer-level batch fabrication technique for microfluidic resonators” The 17th Korean MEMS Conference, Jeju Island, Korea, Apr. 2015",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Hydrogel microcantilever, a superior AFM cantilever for the exploration of biological phenomena in cellular level",
+      "year": 2015,
+      "citation_raw": "J. Song and J. Lee, “Hydrogel microcantilever, a superior AFM cantilever for the exploration of biological phenomena in cellular level” J. Lee and J. Lee, “Shape, size and tip sharpness tuning of hydrogel microcantilevers via ultra-violet curing with elastomeric replica moulds” The 28th IEEE Conference on Micro Electro Mechanical Systems, Estoril, Portugal, Jan. 2015",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Development of microfluidic resonators via silicon-on-nothing technique",
+      "year": 2014,
+      "citation_raw": "J. Kim and J. Lee, “Development of microfluidic resonators via silicon-on-nothing technique” The 16th International Scanning Probe Microscopy Conference, Seoul, Korea, Jul. 2014",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Hydrogel microcantilevers for atomic force microscopy applications",
+      "year": 2014,
+      "citation_raw": "J. Lee, “Hydrogel microcantilevers for atomic force microscopy applications” The 11th International Workshop on Nanomechanical Sensing, Madrid, Spain, Apr. 2014",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Development of hydrogel microcantilevers for localized material delivery applications",
+      "year": 2014,
+      "citation_raw": "J. Lee and I. Lee, “Development of hydrogel microcantilevers for localized material delivery applications” The 16th Korean MEMS Conference, Jeju Island, Korea, Apr. 2014",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Development of hydrogel microcantilevers for local functional material delivery",
+      "year": 2014,
+      "citation_raw": "I. Lee and J. Lee, “Development of hydrogel microcantilevers for local functional material delivery” J. Je and J. Lee, “Development of liquid metal microheaters with reliable electrode configuration” The 27th IEEE Conference on Micro Electro Mechanical Systems, San Francisco, USA, Jan. 2014",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fabrication and characterization of all hydrogel cantilevers for atomic force microscopy applications",
+      "year": 2013,
+      "citation_raw": "I. Lee and J. Lee, “Fabrication and characterization of all hydrogel cantilevers for atomic force microscopy applications” Fall conference of the Korean Society of Mechanical Engineers, Kangwon, Korea, Dec. 2013",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Fabrication of hydrogel atomic force microscope cantilevers using dynamic mask lithography",
+      "year": 2013,
+      "citation_raw": "I. Lee and J. Lee, “Fabrication of hydrogel atomic force microscope cantilevers using dynamic mask lithography” W. Lee, J. Lee, and S. Kang, “Analysis of flow characteristics for viscosity sensing applications of suspended microchannel resonators” The 17th International Conference on Solid-State Sensors, Actuators and Microsystems, Barcelona, Spain, Jun. 2013",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Highly uniform and controllable Micropatterning of a Hydrogel on microcantilever Sensors",
+      "year": 2013,
+      "citation_raw": "I. Lee and J. Lee, “Highly uniform and controllable Micropatterning of a Hydrogel on microcantilever Sensors” The 10th International Workshop on Nanomechanical Sensing, California, USA, May 2013",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Optical heating and temperature sensing of heated microcantilevers using two-wavelength thermoreflectance",
+      "year": 2013,
+      "citation_raw": "J. Kim, B. J. Lee, W. P. King, and J. Lee, “Optical heating and temperature sensing of heated microcantilevers using two-wavelength thermoreflectance” I. Lee and J. Lee, “One-step fabrication of hydrogel microcantilevers using dynamic mask photolithography” 2013 MRS Spring Meeting, California, USA, Apr. 2013",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Thermal anisotropy of layer-by-layer assembled graphene films",
+      "year": 2013,
+      "citation_raw": "D. Estrada, Z. Li, S. Dunham, G. Choi, N. Wang, Y. Meng, F. Lian, J. Lee, J. Zuo, W. P. King, J. A. Rogers, D. G. Cahill, and E. Pop, “Thermal anisotropy of layer-by-layer assembled graphene films” The 15th Korean MEMS Conference, Jeju, Korea, Apr. 2013",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Thermal characterization of heated microcantilevers using two-wavelength laser thermoreflectance microscopy",
+      "year": 2013,
+      "citation_raw": "J. Kim, B. J. Lee, and J. Lee, “Thermal characterization of heated microcantilevers using two-wavelength laser thermoreflectance microscopy” I. Lee and J. Lee, “Highly controllable local patterning of a hydrogel on microcantilevers” The 26th IEEE Conference on Micro Electro Mechanical Systems, Taipei, Taiwan, Jan. 2013",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "DC and AC electrothermal characterization of heated microcantilevers using scanning thermoreflectance microscopy",
+      "year": 2012,
+      "citation_raw": "J. Kim, S. Han, K. Park, B. J. Lee, W. P. King and J. Lee, “DC and AC electrothermal characterization of heated microcantilevers using scanning thermoreflectance microscopy” ASME International Mechanical Engineering Congress & Exposition, Houston, Texas, 2012",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "IMECE2012-89642 Experimental study of enhancement and quenching of plasmon controlled fluorescence using quantum dot – plasmonic nanoparticle mixture in aqueous medium",
+      "year": 2012,
+      "citation_raw": "N. Palombo, T. Walsh, J. Lee, and K. Park, “IMECE2012-89642 Experimental study of enhancement and quenching of plasmon controlled fluorescence using quantum dot – plasmonic nanoparticle mixture in aqueous medium” Fall conference of the Korean Society of Mechanical Engineers, Changwon, Korea, Nov. 2012",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "DC and AC thermal characterization of heated microcantilevers using thermoreflectance microscopy",
+      "year": 2012,
+      "citation_raw": "J. Kim and J. Lee, “DC and AC thermal characterization of heated microcantilevers using thermoreflectance microscopy” I. Lee and J. Lee, “Precision density and volume change measurements of ethanol-water binary mixtures using suspended microchannel resonators” The 11th IEEE SENSORS, Taipei, Taiwan, Oct. 2012",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Measurement of mixing ratio and volume change of ethanol-water binary mixtures using suspended microchannel resonators",
+      "year": 2012,
+      "citation_raw": "I. Lee and J. Lee, “Measurement of mixing ratio and volume change of ethanol-water binary mixtures using suspended microchannel resonators” I. Lee and J. Lee, “Quality factor and vibration amplitude based viscosity measurements using suspended microchannel resonators” The 9th International Workshop on Nanomechanical Sensing, Mumbai, India, Jun. 2012",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Low volume and high precision viscosity measurement with suspended microchannel resonators",
+      "year": 2012,
+      "citation_raw": "I. Lee and J. Lee, “Low volume and high precision viscosity measurement with suspended microchannel resonators” The 14th Korean MEMS Conference, Jeju, Korea, Apr. 2012",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Bimodal mass sensing using suspended microchannel resonators",
+      "year": 2011,
+      "citation_raw": "J. Kim, I. Lee and J. Lee, “Bimodal mass sensing using suspended microchannel resonators” I. Lee and J. Lee, “Measurement uncertainties in resonant characteristics of MEMS resonators” The 24th IEEE Conference on Micro Electro Mechanical Systems, Cancun, Mexico, 2011",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Second eigenmode operation of suspended microchannel resonators for high precision flow through mass sensing",
+      "year": 2010,
+      "citation_raw": "Lee and S.R. Manalis, “Second eigenmode operation of suspended microchannel resonators for high precision flow through mass sensing”, Hilton Head Workshop 2010: A Solid-State Sensors, Actuators, and Microsystems Workshop, Hilton Head Island, SC, 2010.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Rapid thermal lysis of cells using silicon-diamond microcantilever heaters",
+      "year": 2010,
+      "citation_raw": "Y. Liu, N. Privorotskaya, J. Lee, H. Zeng, J.A. Carlisle, A. Radadia, L. Millet, R. Bashir, and W.P. King, “Rapid thermal lysis of cells using silicon-diamond microcantilever heaters”, The 7th International Workshop on Nanomechanical Cantilevers, Banff, Canada, 2010.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Rapid thermal analysis of energetic materials with microfabricated differential scanning calorimeters",
+      "year": 2009,
+      "citation_raw": "C. M. Spadaccini, E. V. Mukerjee, J. Lee, and W.P. King, “Rapid thermal analysis of energetic materials with microfabricated differential scanning calorimeters”, The 15th International Conference on Solid-State Sensors, Actuators, and Microsystems, Denver, CO, 2009.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Suspended membrane single crystal silicon micro hotplate for differential scanning calorimetry",
+      "year": 2009,
+      "citation_raw": "J. Lee, C. M. Spadaccini, E. V. Mukerjee, and W.P. King, “Suspended membrane single crystal silicon micro hotplate for differential scanning calorimetry”, The 22nd IEEE Conference on Micro Electro Mechanical Systems, Sorrento, Italy, 2009.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Femtogram-level spectroscopic analysis using functional self-cleaning scanning probe tips",
+      "year": 2008,
+      "citation_raw": "K. Park, J. Lee, W. P. King, and R. Bhargava, “Femtogram-level spectroscopic analysis using functional self-cleaning scanning probe tips”, The 59th Annual Pittsburgh Conference and Exposition on Analytical Chemistry and Applied Spectroscopy, New Orleans, LA, 2008.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Heated atomic force microscope cantilevers for nanoscience and nanoengineering",
+      "year": 2008,
+      "citation_raw": "J. Lee and W.P. King, “Heated atomic force microscope cantilevers for nanoscience and nanoengineering”, The 10th International scanning probe microscopy conference, Seattle, WA, 2008.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Reversible nanoscale local wettability modifications by thermochemical nanolithography",
+      "year": 2008,
+      "citation_raw": "D. Wang, T. Okada, R. Szoszkiewicz, S.C. Jones, M Lucas, J. Lee, W.P. King, S.R. Marder, E. Riedo, “Reversible nanoscale local wettability modifications by thermochemical nanolithography”, Materials Research Society Symposium, v. 1059, 2008.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Nanolithography on crosslinked polymers using heated AFM cantilever probes",
+      "year": 2007,
+      "citation_raw": "Y. Hua, C.L. Henderson, J. Lee, and W.P. King, “Nanolithography on crosslinked polymers using heated AFM cantilever probes”, The 51st International Conference on Electron, Ion, and Photon Beam Technology and Nanofabrication, Denver, CO, 2007.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Array of microcantilever heaters with integrated piezoresistors",
+      "year": 2007,
+      "citation_raw": "J. Lee and W.P. King, “Array of microcantilever heaters with integrated piezoresistors”, IEEE International Conference on Nanotechnology 2007, Hong Kong, 2007.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Temperature dependent mechanical properties of doped silicon microcantilevers",
+      "year": 2007,
+      "citation_raw": "J. Lee, F.T. Goericke, and W.P. King, “Temperature dependent mechanical properties of doped silicon microcantilevers”, The 14th International Conference on Solid-State Sensors, Actuators, and Microsystems, Lyon, France, 2007.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Nanotopographic imaging using heated microcantilever in tapping mode",
+      "year": 2007,
+      "citation_raw": "K. Park, J. Lee, Z.M. Zhang, and W.P. King, “Nanotopographic imaging using heated microcantilever in tapping mode”, The 14th International Conference on Solid-State Sensors, Actuators, and Microsystems, Lyon, France, 2007.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "IPACK2007-33291 Measurements of microjet cooling and phase change characteristics using microcantilever heaters",
+      "year": 2007,
+      "citation_raw": "J. Lee, H. Hunter, F. T. Goericke, N. Naik, M.G. Allen, A. Glezer, and W.P. King, “IPACK2007-33291 Measurements of microjet cooling and phase change characteristics using microcantilever heaters”, The ASME/Pacific Rim Technical Conference and Exhibition on Integration and Packaging of MEMS, NEMS, and Electronic Systems, Vancouver, BC, 2007.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Thermal and mechanical characterization and calibration of heated microcantilevers",
+      "year": 2006,
+      "citation_raw": "J. Lee, T. Beechem, K. Park, Z.M. Zhang, S. Graham, and W.P. King, “Thermal and mechanical characterization and calibration of heated microcantilevers”, Hilton Head Workshop 2006: A Solid-State Sensors, Actuators, and Microsystems Workshop, Hilton Head Island, SC, 2006.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "IMECE2005-81732 Micro-cantilever based metrology tool for flow characterization of liquid and gaseous micro/nanojets",
+      "year": 2005,
+      "citation_raw": "J. Lee, K. Naeli, H. Hunter, J. Berg, T.L. Wright, C. Courcimault, N. Naik, M.G. Allen, O. Brand, A. Glezer, and W.P. King, “IMECE2005-81732 Micro-cantilever based metrology tool for flow characterization of liquid and gaseous micro/nanojets”, ASME International Mechanical Engineering Congress & Exposition, Orlando, FL, 2005.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "IMECE2005-81698 Fabrication and characterization of liquid and gaseous micro- and nanojets",
+      "year": 2005,
+      "citation_raw": "N. Naik, C. Courcimault, J. Berg, H. Hunter, J. Lee, K. Naeli, T. Wright, M.G. Allen, O. Brand, A. Glezer and W.P. King, “IMECE2005-81698 Fabrication and characterization of liquid and gaseous micro- and nanojets”, ASME International Mechanical Engineering Congress & Exposition, Orlando, FL, 2005.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "IPACK2005-73456 Characterization of heated atomic force microscope cantilevers in air and vacuum",
+      "year": 2005,
+      "citation_raw": "J. Lee, T.L. Wright, M.R. Abel, E.O. Sunden, A. Marchenkov, S. Graham, and W.P. King, “IPACK2005-73456 Characterization of heated atomic force microscope cantilevers in air and vacuum”, The ASME/Pacific Rim Technical Conference and Exhibition on Integration and Packaging of MEMS, NEMS, and Electronic Systems, San Francisco, CA, 2005.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Nanothermal analysis (n-TA) and photothermal IR micro-spectroscopy (PTMS), at sub-250 nm spatial resolution",
+      "year": 2005,
+      "citation_raw": "A. Hammiche, M. Reading, T.L. Wright, J. Lee, W.P. King, H.M. Pollock, and R. Shetty, “Nanothermal analysis (n-TA) and photothermal IR micro-spectroscopy (PTMS), at sub-250 nm spatial resolution”, STM 2005–The 13th International Conference on Scanning Tunneling Microscopy/Spectroscopy and Related Techniques, Sapporo, Japan, 2005.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Microcantilever measurements in microscale liquid jets",
+      "year": 2004,
+      "citation_raw": "W.P. King, J. Lee, J. Berg, and A. Glezer, “Microcantilever measurements in microscale liquid jets”, 2004 Meeting of the American Physical Society, Division of Fluid Dynamics, Seattle, WA, 2004.",
+      "source_url": "https://mnil.kaist.ac.kr/conferences/"
+    },
+    {
+      "title": "Buried stochastic interfaces enabling depth-multiplexed optical physical unclonable functions",
+      "year": 2025,
+      "citation_raw": "Under review T. Kim, K. Jung and J. Lee*, “Buried stochastic interfaces enabling depth-multiplexed optical physical unclonable functions”, Article in press 2025.12",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "Extracting Liquid Thermophysical Properties Inside Stainless-Steel Microtubes Using the 3ω Method",
+      "year": 2025,
+      "citation_raw": "J. Lee, “Extracting Liquid Thermophysical Properties Inside Stainless-Steel Microtubes Using the 3ω Method”, Micro and Nano Systems Letters, 13, 28 (2025).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "The Evolution of Vibrating U-Tube Resonators: Toward MEMS Microchannels and the Return to Glass and Metallic Tubes",
+      "year": 2025,
+      "citation_raw": "J. Lee, “The Evolution of Vibrating U-Tube Resonators: Toward MEMS Microchannels and the Return to Glass and Metallic Tubes”, Micro and Nano Systems Letters, 13, 23 (2025).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "Fabrication and electro-thermo-mechanical characterization of a hot arm actuator",
+      "year": 2025,
+      "citation_raw": "K. Jung, J. Ko, T. Kim and J. Lee*, “Fabrication and electro-thermo-mechanical characterization of a hot arm actuator”, Micro and Nano Systems Letters, 13, 19 (2025).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "Laser-Induced Graphene-Based Flexible Electrodes for Advanced Electrochemical Performance",
+      "year": 2025,
+      "citation_raw": "V. Nam, P. Le and J. Lee*, “Laser-Induced Graphene-Based Flexible Electrodes for Advanced Electrochemical Performance”, ACS Applied Nano Materials, (2025).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "Cellular level cryo-neuromodulation using rapid and localized cooling device combined with microelectrode array",
+      "year": 2025,
+      "citation_raw": "J. Kim, J. Lee, S. Noh, E. Seo, J. Lee, T. Kim, S. Cho, G. Kim, S. Kim and J. Park*, “Cellular level cryo-neuromodulation using rapid and localized cooling device combined with microelectrode array”, Biosensors and Bioelectronics, 277, 117257 (2025).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "Advanced microfluidic systems with temperature modulation for biological applications",
+      "year": 2025,
+      "citation_raw": "J. Ko and J. Lee*, “Advanced microfluidic systems with temperature modulation for biological applications”, Biomicrofluidics, 19, 031301 (2025).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "Liquid refractive index measurements using cavity in silicon via near-infrared interferometry",
+      "year": 2025,
+      "citation_raw": "T. Kim, M. Choi, B. J. Lee and J. Lee*, “Liquid refractive index measurements using cavity in silicon via near-infrared interferometry”, Sensors and Actuators A: Physical, 381, 116078 (2025).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "Liquid refractive index measurements using cavity in silicon via near-infrared interferometry",
+      "year": 2024,
+      "citation_raw": "T. Kim, M. Choi, B. J. Lee and J. Lee*, “Liquid refractive index measurements using cavity in silicon via near-infrared interferometry”, Sensors and Actuators A: Physical, 381, 116078 (2025). 2024.12",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "Impact force and occurrence condition of geyser boiling in two-phase closed thermosyphon",
+      "year": 2024,
+      "citation_raw": "J. Seo, J. Lee* and J. Lee*, “Impact force and occurrence condition of geyser boiling in two-phase closed thermosyphon”, International Communications in Heat and Mass Transfer, 159, 108262 (2024)",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "Conformally overlaid ferromagnetic shadow masks for etching and deposition processes",
+      "year": 2024,
+      "citation_raw": "M. Choi, T. Kim, B. Lee, J. Song* and J. Lee*, “Conformally overlaid ferromagnetic shadow masks for etching and deposition processes”, Journal of Microelectromechanical Systems, 33, 2 (2024).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "Facile extraction of scanning probe shape for improved deconvolution of tip-sample interaction artifacts",
+      "year": 2024,
+      "citation_raw": "K. Jung and J. Lee*, “Facile extraction of scanning probe shape for improved deconvolution of tip-sample interaction artifacts”, Micro and Nano Systems Letters, 12, 16 (2024).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/2/"
+    },
+    {
+      "title": "Buried stochastic interfaces enabling depth-multiplexed optical physical unclonable functions",
+      "year": 2024,
+      "citation_raw": "Under review T. Kim, K. Jung and J. Lee*, “Buried stochastic interfaces enabling depth-multiplexed optical physical unclonable functions”, Article in press 2024.06",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Fabrication of nanoscale stencils through focused ion beam milling and dry transfer of Silicon-on-Nothing membrane with perforations",
+      "year": 2024,
+      "citation_raw": "T. Kim and J. Lee*, “Fabrication of nanoscale stencils through focused ion beam milling and dry transfer of Silicon-on-Nothing membrane with perforations”, Microelectronic Engineering, 289, 112172 (2024).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Subcutaneous temperature prediction during cryogenic jet cooling by surface temperature measurements and RNNs",
+      "year": 2024,
+      "citation_raw": "J. Ko, H. Son, B. Lee, G.-H. Kim* and J. Lee*, “Subcutaneous temperature prediction during cryogenic jet cooling by surface temperature measurements and RNNs”, Applied Thermal Engineering, 246(1), 122952 (2024).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Subcutaneous temperature prediction during cryogenic jet cooling by surface temperature measurements and RNNs",
+      "year": 2023,
+      "citation_raw": "J. Ko, H. Son, B. Lee, G.-H. Kim* and J. Lee*, “Subcutaneous temperature prediction during cryogenic jet cooling by surface temperature measurements and RNNs”, Applied Thermal Engineering, 246(1), 122952 (2024). 2023.12",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Micro-infrared thermometry for characterizing microscale heating devices",
+      "year": 2023,
+      "citation_raw": "J. Nam, D. Kim, M. Choi, J. Rho, J. Lee and B. Lee*, “Micro-infrared thermometry for characterizing microscale heating devices”, Infrared Physics & Technology, 135, 104965, (2023).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Enhancing Sensor Sensitivity and Selectivity: Morphological Modification and Chemical Functionalization within Confined Structures",
+      "year": 2023,
+      "citation_raw": "R.E. Adhawiyah and J. Lee*, “Enhancing Sensor Sensitivity and Selectivity: Morphological Modification and Chemical Functionalization within Confined Structures”, Int. J. Precis. Eng. Manuf., 18 (2023).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Fabrication and characterization of silicon-on-insulator wafers",
+      "year": 2023,
+      "citation_raw": "T. Kim and J. Lee*, “Fabrication and characterization of silicon-on-insulator wafers”, Micro and Nano Systems Letters, 11, 15 (2023).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Silicon nanoparticles: fabrication, characterization, application and perspectives",
+      "year": 2023,
+      "citation_raw": "T. Kim and J. Lee*, “Silicon nanoparticles: fabrication, characterization, application and perspectives”, Micro and Nano Systems Letters, 11, 18 (2023).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Advanced operation of heated fluidic resonators via mechanical and thermal loss reduction in vacuum",
+      "year": 2023,
+      "citation_raw": "J. Ko, B. Lee, and J. Lee*, “Advanced operation of heated fluidic resonators via mechanical and thermal loss reduction in vacuum”, Microsystems & Nanoengineering 9:127 (2023).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Hydrophobic surface for direct PEGDA micro-pattern fabrication",
+      "year": 2023,
+      "citation_raw": "A. Danielak, J. Ko, A. Islam, D. Pedersen, and J. Lee*, “Hydrophobic surface for direct PEGDA micro-pattern fabrication”, Micro and Nano Systems Letters, 11, 4 (2023).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Predicting AFM Topography from Optical Microscope Images Using Deep-Learning",
+      "year": 2023,
+      "citation_raw": "J. Jeong, T. Kim, B. Lee, and J. Lee, “Predicting AFM Topography from Optical Microscope Images Using Deep-Learning”, Advanced Intelligent Systems, 5(1), 2200317, (2023).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Massively parallel electro-optic sampling of space-encoded optical pulses for ultrafast multi-dimensional imaging",
+      "year": 2023,
+      "citation_raw": "Y. Na et al., “Massively parallel electro-optic sampling of space-encoded optical pulses for ultrafast multi-dimensional imaging”, Light: Science and Applications, 12, 44, (2023).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/3/"
+    },
+    {
+      "title": "Buried stochastic interfaces enabling depth-multiplexed optical physical unclonable functions",
+      "year": 2023,
+      "citation_raw": "Under review T. Kim, K. Jung and J. Lee*, “Buried stochastic interfaces enabling depth-multiplexed optical physical unclonable functions”, Article in press 2023.01",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/4/"
+    },
+    {
+      "title": "Nozzle-based precision patterning with micro-/nano fluidics integrated cantilevers",
+      "year": 2023,
+      "citation_raw": "J. Ko, B. Nada, A. Erli, and J. Lee*, “Nozzle-based precision patterning with micro-/nano fluidics integrated cantilevers”, Journal of Mechanical Science and Technology, 37(2), (2023).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/4/"
+    },
+    {
+      "title": "Nozzle-based precision patterning with micro-/nano fluidics integrated cantilevers",
+      "year": 2022,
+      "citation_raw": "J. Ko, B. Nada, A. Erli, and J. Lee*, “Nozzle-based precision patterning with micro-/nano fluidics integrated cantilevers”, Journal of Mechanical Science and Technology, 37(2), (2023). 2022.12",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/4/"
+    },
+    {
+      "title": "Simulation of Germanium-on-Nothing cavity’s morphological transformation using deep learning",
+      "year": 2022,
+      "citation_raw": "J. Jeong, T. Kim, and J. Lee*, “Simulation of Germanium-on-Nothing cavity’s morphological transformation using deep learning”, Micro and Nano Systems Letters, 10, 22 (2022).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/4/"
+    },
+    {
+      "title": "Measurement of thermal properties of liquid analyses using micro fluidic resonators via photothermal modulation",
+      "year": 2022,
+      "citation_raw": "R. Abraham, Y. Yoon, F. Khan, S. A. Bukhara, C. Kim, T. Thundat, H. Chung, and J. Lee, “Measurement of thermal properties of liquid analyses using micro fluidic resonators via photothermal modulation”, Sensors and Actuators A-Physical, 347, 113994 (2022).",
+      "source_url": "https://mnil.kaist.ac.kr/publications/page/4/"
+    }
+  ]
+}

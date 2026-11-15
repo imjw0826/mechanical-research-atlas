@@ -1,0 +1,508 @@
+{
+  "university": "Seoul National University",
+  "university_key": "snu",
+  "pi": "윤병동",
+  "pi_en": "Youn, Byeng Dong",
+  "lab_name": "초자율화 인공지능 연구실",
+  "lab_url": "http://hai.snu.ac.kr/",
+  "publication_urls": [
+    "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+    "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a",
+    "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+    "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11",
+    "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 5개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "GenPnCFormer: Latent Diffusion Transformer for Inverse Design of Variable 1D Phononic Crystals",
+      "year": 2027,
+      "citation_raw": "GenPnCFormer: Latent Diffusion Transformer for Inverse Design of Variable 1D Phononic Crystals Donghyu Lee, Taehun Kim, Ju Hwan Han, Sayhee Kim, Byeng D. Youn*, and Soo-Ho Jo* Thin-Walled Structures, SCIE (IF: 8.3, Rank: 3.5%), 2027-01, Vol. 232, pp. 115677",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Non-Stationary Compensated Multi-Current Pattern (NCMP): A Novel Image-Based Motor Fault Diagnosis Framework",
+      "year": 2027,
+      "citation_raw": "Non-Stationary Compensated Multi-Current Pattern (NCMP): A Novel Image-Based Motor Fault Diagnosis Framework Hansoo Kim, Christian Gogu, Sebastien Schwartz, and Byeng D. Youn* Advanced Engineering Informatics, SCIE (IF: 11.5, Rank: 2.0%), 2027-01, Vol. 77(1), pp. 105283",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "FIKS: Frequency-Informed Kurtosis Sensitivity for Anomaly Detection in Rotating Machinery—From a Bearing Benchmark to Printer Fuser Systems",
+      "year": 2026,
+      "citation_raw": "FIKS: Frequency-Informed Kurtosis Sensitivity for Anomaly Detection in Rotating Machinery—From a Bearing Benchmark to Printer Fuser Systems Mintae Kim, Yong Chae Kim, Juhyun Kim, Joon Ha Jung*, and Byeng D. Youn* Journal of Computational Design and Engineering, SCIE (IF: 6.8, Rank: 5.9%), Under Revision",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "TSFM: A Temporal-Aware Spectrogram Foundation Model for Transferable Fault Diagnosis of Rotating Machinery Using Vibration Signals",
+      "year": 2026,
+      "citation_raw": "TSFM: A Temporal-Aware Spectrogram Foundation Model for Transferable Fault Diagnosis of Rotating Machinery Using Vibration Signals Minseok Chae, Yong Chae Kim, Sang Kyung Lee, Juhyun Kim, Jiheon Kang, Uri Lim, Jong Hyun Choi, Junho Park, Chan Hee Park*, Jong Moon Ha*, and Byeng D. Youn* Advanced Engineering Informatics, SCIE (IF: 11.5, Rank: 2.0%), Under Revision",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Mechanical-Efficiency-Aware EKF-Based Virtual Sensor for Vehicle Mass Estimation Using CAN Data",
+      "year": 2026,
+      "citation_raw": "Mechanical-Efficiency-Aware EKF-Based Virtual Sensor for Vehicle Mass Estimation Using CAN Data Jinoh Yoo, Hyeonchan Lee, Ju Hwan Han, Seongpil Ju, Juho Kim, Yong Gwon Jeon, Dae Un Sung, and Byeng D. Youn* IEEE Transactions on Intelligent Vehicles, SCIE (IF: 14.3, Rank: 1.8%), Under Revision",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "A Planetary Gearbox Dataset for Fault Diagnosis Across Multiple Operating Conditions, Fault Types, and Severity Levels",
+      "year": 2026,
+      "citation_raw": "A Planetary Gearbox Dataset for Fault Diagnosis Across Multiple Operating Conditions, Fault Types, and Severity Levels Jinoh Yoo¹, Taehyung Kim¹, Jong Moon Ha, and Byeng D. Youn* Scientific Data, SCIE (IF: 7.2, Rank: 11.8%), Under Revision",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Quantifying and Mitigating Load-Induced Impulsiveness Bias for Bearing Fault Diagnosis via Domain Knowledge-Informed Algorithmic Fairness",
+      "year": 2026,
+      "citation_raw": "Quantifying and Mitigating Load-Induced Impulsiveness Bias for Bearing Fault Diagnosis via Domain Knowledge-Informed Algorithmic Fairness Seungyun Lee, Sungjong Kim, Minjae Kim, Jiwon Lee, Su J. Kim, Heonjun Yoon*, and Byeng D. Youn* Journal of Computational Design and Engineering, SCIE (IF: 6.8, Rank: 5.9%), Under Revision",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Physics-Embedded Neural Blind Deconvolution: Impulse Response-Embedded Filtering Module for Weak Fault Feature Extraction Under Harmonic Interference",
+      "year": 2026,
+      "citation_raw": "Physics-Embedded Neural Blind Deconvolution: Impulse Response-Embedded Filtering Module for Weak Fault Feature Extraction Under Harmonic Interference Jinoh Yoo, Taehyung Kim, Hyeonchan Lee, Jong Moon Ha*, and Byeng D. Youn* Journal of Sound and Vibration, SCIE (IF: 5.8, Rank: 3.7%), Under Revision",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Torque-Speed-Aware Dynamic Kernel Design in Gaussian Process Regression for Non-Stationary Motor Current Fault Detection",
+      "year": 2026,
+      "citation_raw": "Torque-Speed-Aware Dynamic Kernel Design in Gaussian Process Regression for Non-Stationary Motor Current Fault Detection Hansoo Kim, Hyeongmin Kim, Minseok Chae, Sang Kyung Lee, Joonho Yang, Heonjun Yoon*, and Byeng D. Youn* Journal of Computational Design and Engineering, SCIE (IF: 6.8, Rank: 5.9%), Under Revision",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Domain Knowledge-Informed Neural Networks for Prognostics and Health Management: A State-of-the-Art Review and Taxonomy",
+      "year": 2026,
+      "citation_raw": "Domain Knowledge-Informed Neural Networks for Prognostics and Health Management: A State-of-the-Art Review and Taxonomy Hyeongmin Kim, Taehun Kim, Wonbin Song, Jong Moon Ha*, and Byeng D. Youn* Archives of Computational Methods in Engineering, SCIE (IF: 12.9, Rank: 0.4%), Accept",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Self-supervised Learning for Remaining Useful Life prediction of Composite Materials based on Physics-based Synthetic Strain Data",
+      "year": 2026,
+      "citation_raw": "Self-supervised Learning for Remaining Useful Life prediction of Composite Materials based on Physics-based Synthetic Strain Data Taeri Kim¹, Sang Kyung Lee¹, Gun Jin Yun*, Byeng D. Youn*, and Christian Gogu* Journal of Computational Design and Engineering, SCIE (IF: 6.8, Rank: 5.9%), Accept",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "A Multi-Evidence-Based Open-Set Domain Generalization Method for Bearing Fault Diagnosis",
+      "year": 2026,
+      "citation_raw": "A Multi-Evidence-Based Open-Set Domain Generalization Method for Bearing Fault Diagnosis Xiaojing Yin, Chuang Nie, Xiaopeng Xi*, and Byeng D. Youn* Cybernetics and Intelligence, IF: 0.0, Accept",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Deep Learning-based Rapid and Precise Die Design to Compensate Springback in Metallic Bipolar Plate Stamping for Proton Exchange Membrane Fuel Cells",
+      "year": 2026,
+      "citation_raw": "Deep Learning-based Rapid and Precise Die Design to Compensate Springback in Metallic Bipolar Plate Stamping for Proton Exchange Membrane Fuel Cells Hyeongmin Kim¹, Sangwook Langenstück-Lee¹, Donghyu Lee, Florian Hüsing, Henning Janssen, Christian Brecher, and Byeng D. Youn* Measurement, SCIE (IF: 6.1, Rank: 10.4%), 2026-11, Vol. 290, pp. 122923",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "A Robust Deep Learning Framework for Weld Defect Classification in PAUT With Specimen-Level Preprocessing",
+      "year": 2026,
+      "citation_raw": "A Robust Deep Learning Framework for Weld Defect Classification in PAUT With Specimen-Level Preprocessing Jongheok Park, Donghyu Lee, Wonjae Choi, Byeng D. Youn*, and Jong Moon Ha* NDT & E International, SCIE (IF: 6.0, Rank: 9.5%), 2026-10, Vol. 164, pp. 103840",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Frequency-Band Graph-based Sensor Fusion with Sensitivity-aware Energy Assist Network for Machinery System Fault Diagnosis",
+      "year": 2026,
+      "citation_raw": "Frequency-Band Graph-based Sensor Fusion with Sensitivity-aware Energy Assist Network for Machinery System Fault Diagnosis Sang Kyung Lee, Hyeongmin Kim, Minseok Chae, Hansoo Kim, Joonho Yang, Heonjun Yoon*, and Byeng D. Youn* Engineering Applications of Artificial Intelligence, SCIE (IF: 9.0, Rank: 3.1%), 2026-09, Vol. 179, pp. 115273",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Time-Domain Signal Denoising and Expert Decision-Support Visualization with AttenTDNet for High-Voltage Power-Cable Joint-Box Monitoring",
+      "year": 2026,
+      "citation_raw": "Time-Domain Signal Denoising and Expert Decision-Support Visualization with AttenTDNet for High-Voltage Power-Cable Joint-Box Monitoring Jingyo Jeong, Jeong H. Choi, Wongon Kim*, and Byeng D. Youn * Electrical Engineering, SCIE (IF: 2.7, Rank: 50.3%), 2026-08, Vol. 108, pp. 364",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Physical Safety Queries Reveal What World Models Forget",
+      "year": 2026,
+      "citation_raw": "\"Physical Safety Queries Reveal What World Models Forget\" Juhwan Han, Taehun Kim , Donghyu Lee , Sayhee Kim , Soo-Ho Jo, Byeng D. Youn Conference : ECCV 2026",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Graph-Based Multi-Sensor Fusion with Frequency-Band Decomposition for System-Level Machinery Fault Diagnosis",
+      "year": 2026,
+      "citation_raw": "\"Graph-Based Multi-Sensor Fusion with Frequency-Band Decomposition for System-Level Machinery Fault Diagnosis\" Sang Kyung Lee, Hyeongmin Kim, Minseok Chae, Hansoo Kim, Joonho Yang, Heonjun Yoon, Byeng D. Youn Conference : ASME IDETC-CIE 2026",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Physics-Guided Virtual Metrology of Motor Current Signals for Fault Diagnosis Under Unseen Conditions",
+      "year": 2026,
+      "citation_raw": "\"Physics-Guided Virtual Metrology of Motor Current Signals for Fault Diagnosis Under Unseen Conditions\" Hansoo Kim, Minseok Chae, Sang Kyung Lee, Joonho Yang, Heonjun Yoon, Byeng D. Youn Conference : ASME IDETC-CIE 2026",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Vehicle Mass Estimation via EKF-Based Virtual Sensing Considering Mechanical Efficiency Variability",
+      "year": 2026,
+      "citation_raw": "\"Vehicle Mass Estimation via EKF-Based Virtual Sensing Considering Mechanical Efficiency Variability\" Jinoh Yoo, Hyeonchan Lee, Ju Hwan Han, Seongpil Ju, Juho Kim, Yong Gwon Jeon, Dae Un Sung, Byeng Dong Youn Conference : ASME IDETC-CIE 2026",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Ex-MIND: An Expert-Inspired Multi-Task Learning Framework Based on Industrial Domain Knowledge for Trustworthy Rotating Machinery Fault Diagnosis Under Environmental Shifts",
+      "year": 2026,
+      "citation_raw": "\"Ex-MIND: An Expert-Inspired Multi-Task Learning Framework Based on Industrial Domain Knowledge for Trustworthy Rotating Machinery Fault Diagnosis Under Environmental Shifts\" Minjae Kim, Sungkyun Kim, Seungyun Lee, Heonjun Yoon, Byeng D. Youn Conference : ASME IDETC-CIE 2026",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Counterfactual Data Generation via World Models for Enhancing Industrial Safety in Rare Event Scenarios",
+      "year": 2026,
+      "citation_raw": "\"Counterfactual Data Generation via World Models for Enhancing Industrial Safety in Rare Event Scenarios\" Juhwan Han, Taehun Kim, Donghyu Lee, Sayhee Kim, Soo-Ho Jo, Byeng Dong Youn Conference : Asian Congress of Structural and Multidisciplinary Optimization (ACSMO) 2026",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Scalable Deep Learning for Dispersion Relation Prediction in 2D Defective Phononic Crystals",
+      "year": 2026,
+      "citation_raw": "\"Scalable Deep Learning for Dispersion Relation Prediction in 2D Defective Phononic Crystals\" Sayhee Kim, Donghyu Lee, Taehun Kim, Ju Hwan Han, Soo-Ho Jo, , Byeng Dong Youn Conference : Asian Congress of Structural and Multidisciplinary Optimization (ACSMO) 2026",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Cost-Effective Autonomous Experimental Design for Battery State-of-Health Prediction Using a Need Score",
+      "year": 2026,
+      "citation_raw": "\"Cost-Effective Autonomous Experimental Design for Battery State-of-Health Prediction Using a Need Score\" Jiheon Kang, Gyeong Ryun Gwon, Seungyun Lee, Minjae Kim, Guesuk Lee, Byeng Dong Youn Conference : Asian Congress of Structural and Multidisciplinary Optimization (ACSMO) 2026",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "DeepONet-Driven Probabilistic Thermal Characterization and Inverse Parameter Sensitivity Analysis for Power Semiconductor Packages",
+      "year": 2026,
+      "citation_raw": "\"DeepONet-Driven Probabilistic Thermal Characterization and Inverse Parameter Sensitivity Analysis for Power Semiconductor Packages\" Wonbin Song, Guesuk Lee, Byeng Dong Youn Conference : Asian Congress of Structural and Multidisciplinary Optimization (ACSMO) 2026",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Transformer-based Latent Diffusion Model for Inverse Design of Phononic Crystals with Structural Variability",
+      "year": 2026,
+      "citation_raw": "\"Transformer-based Latent Diffusion Model for Inverse Design of Phononic Crystals with Structural Variability\" Donghyu Lee, Taehun Kim, Juhwan Han, Sayhee Kim, Soo-Ho Jo, Byeng Dong Youn Conference : Asian Congress of Structural and Multidisciplinary Optimization (ACSMO) 2026",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "End-to-End Generative Framework for the Inverse Design of Multi-functional Elastic Metasurfaces",
+      "year": 2026,
+      "citation_raw": "\"End-to-End Generative Framework for the Inverse Design of Multi-functional Elastic Metasurfaces\" Taehun Kim, Donghyu Lee, Juhwan Han, Sayhee Kim, Soo-Ho Jo, Byeng Dong Youn Conference : Asian Congress of Structural and Multidisciplinary Optimization (ACSMO) 2026",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Interpretable Sensor Importance-Based Multi-Sensor Integration for Condition Monitoring of Rotating Machinery",
+      "year": 2025,
+      "citation_raw": "\"Interpretable Sensor Importance-Based Multi-Sensor Integration for Condition Monitoring of Rotating Machinery\" Sungjong Kim, Seungyun Lee, Minjae Kim, Heonjun Yoon, Byeng D. Youn Conference : The Asia Pacific Prognostics and Health Management Conference 2025",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Fault Diagnosis of Gearbox under Phase Estimation Error by Sequenctial Alignment Based on Dynamic Time Wraping of D Norms",
+      "year": 2025,
+      "citation_raw": "\"Fault Diagnosis of Gearbox under Phase Estimation Error by Sequenctial Alignment Based on Dynamic Time Wraping of D Norms\" Taehyung KIm, Jongmin Park, Jinoh Yoo, Jong Moon Ha, Byeng D. Youn Conference : ASME 2025 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Self-supervised Stator Current Representation Learning for Motor Fault Diagnosis",
+      "year": 2025,
+      "citation_raw": "\"Self-supervised Stator Current Representation Learning for Motor Fault Diagnosis\" Sang Kyung Lee, Hyeongmin Kim, Minseok Chae, Hye Jun Oh, Heonjun Yoon, Byeng D. Youn Conference : ASME 2025 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Signal Reconstruction of Rotating Machinery Using a Frequency Focused And Reverse Step-Aware Diffusion Model",
+      "year": 2025,
+      "citation_raw": "\"Signal Reconstruction of Rotating Machinery Using a Frequency Focused And Reverse Step-Aware Diffusion Model\" Juhyun Kim, Yong Chae Kim, Jonghwa Baek, Jinwook Lee, Joon Ha Jung, Byend D. Youn Conference : ASME 2025 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a"
+    },
+    {
+      "title": "Uncertainty Characterization Under Measurement Errors Using Maximum Likelihood Estimation: Cantilever Beam End-to-End UQ Test Problem",
+      "year": 2019,
+      "citation_raw": "Uncertainty Characterization Under Measurement Errors Using Maximum Likelihood Estimation: Cantilever Beam End-to-End UQ Test Problem Taejin Kim¹, Guesuk Lee¹, and Byeng D. Youn* Structural and Multidisciplinary Optimization, SCIE (IF: 4.5, Rank: 17.7%), 2019-02, Vol. 59, pp. 323–333",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Development of a Stochastic Effective Independence (SEFI) Method for Optimal Sensor Placement under Uncertainty",
+      "year": 2018,
+      "citation_raw": "Development of a Stochastic Effective Independence (SEFI) Method for Optimal Sensor Placement under Uncertainty Taejin Kim*, Byeng D. Youn*, and Hyunseok Oh Mechanical Systems and Signal Processing, SCIE (IF: 10.2, Rank: 3.0%), 2018-10, Vol. 111, pp. 615–627",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "A Framework for Prognostics and Health Management Applications toward Smart Manufacturing Systems",
+      "year": 2018,
+      "citation_raw": "A Framework for Prognostics and Health Management Applications toward Smart Manufacturing Systems Insun Shin¹, Junmin Lee¹, Jun Young Lee¹, Kyusung Jung¹, Daeil Kwon*, Byeng D. Youn*, Hyun Soo Jang*, and Joo-Ho Choi* International Journal of Precision Engineering and Manufacturing-Green Technology, SCIE (IF: 6.6, Rank: 9.0%), 2018-08, Vol. 5, pp. 535-554",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "An Omnidirectional Biomechanical Energy Harvesting (OBEH) Sidewalk Block for a Self-Generative Power Grid in a Smart City",
+      "year": 2018,
+      "citation_raw": "An Omnidirectional Biomechanical Energy Harvesting (OBEH) Sidewalk Block for a Self-Generative Power Grid in a Smart City Jinshi Cui¹, Heonjun Yoon¹, and Byeng D. Youn* International Journal of Precision Engineering and Manufacturing-Green Technology, SCIE (IF: 6.6, Rank: 9.0%), 2018-08, Vol. 5, pp. 507-517",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Failure Prediction of a Motor-driven Gearbox in a Pulverizer Under External Noise and Disturbance",
+      "year": 2018,
+      "citation_raw": "Failure Prediction of a Motor-driven Gearbox in a Pulverizer Under External Noise and Disturbance Jungho Park, Byungjoo Jeon, Jongmin Park, Jinshi Cui, Myungyon Kim, and Byeng D. Youn* Smart Structures and Systems, SCIE (IF: 1.4, Rank: 70.2%), 2018-08, Vol 22, No. 2, pp. 185-192",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "An Efficient Decoupled Sensitivity Analysis Method for Multiscale Concurrent Topology Optimization Problems",
+      "year": 2018,
+      "citation_raw": "An Efficient Decoupled Sensitivity Analysis Method for Multiscale Concurrent Topology Optimization Problems Junpeng Zhao, Heonjun Yoon, and Byeng D. Youn* Structural and Multidisciplinary Optimization, SCIE (IF: 4.5, Rank: 17.7%), 2018-08, Vol. 58, pp. 445-457",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Tooth-wise Fault Identification for a Planetary Gearbox Based on a Health Data Map",
+      "year": 2018,
+      "citation_raw": "Tooth-wise Fault Identification for a Planetary Gearbox Based on a Health Data Map Jong M. Ha, Jungho Park, Kyumin Na, Yunhan Kim, and Byeng D. Youn* IEEE Transactions on Industrial Electronics, SCIE (IF: 7.4, Rank: 4.3%), 2018-07, Vol. 65, No. 7, pp. 5903 - 5912",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "TDR-based Multiple Leaks Detection System using an S-parameter Transmission Line Model for Long-distance Pipeline",
+      "year": 2018,
+      "citation_raw": "TDR-based Multiple Leaks Detection System using an S-parameter Transmission Line Model for Long-distance Pipeline Sihyeong Woo, Taejin Kim, Junmin Lee, Hyunseok Oh, Byeng D. Youn*, and Daeil Kwon International Journal of Prognostics and Health Management, IF: 2.0, Rank: 43.5%, 2018-07, Vol. 9, No. 3, pp. 1-13",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "On the Orthogonal Similarity Transformation (OST)-Based Sensitivity Analysis Method for Robust Topology Optimization under Loading Uncertainty: A Mathematical Proof and Its Extension",
+      "year": 2018,
+      "citation_raw": "On the Orthogonal Similarity Transformation (OST)-Based Sensitivity Analysis Method for Robust Topology Optimization under Loading Uncertainty: A Mathematical Proof and Its Extension Junpeng Zhao, Byeng D. Youn*, Heonjun Yoon, Zhifang Fu, and Chunjie Wang Structural and Multidisciplinary Optimization, SCIE (IF: 4.5, Rank: 17.7%), 2018-07, Vol. 58, pp. 51–60",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "A Comprehensive Study on Enhanced Optimization-Based Model Calibration Using Gradient Information",
+      "year": 2025,
+      "citation_raw": "A Comprehensive Study on Enhanced Optimization-Based Model Calibration Using Gradient Information Guesuk Lee, Guilian Yi, and Byeng D. Youn* Structural and Multidisciplinary Optimization, SCIE (IF: 4.5, Rank: 17.7%), 2018-05, Vol. 57, pp. 2005–2025",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11"
+    },
+    {
+      "title": "Scalable and Unsupervised Feature Engineering Using Vibration-Imaging and Deep Learning for Rotor System Diagnosis",
+      "year": 2018,
+      "citation_raw": "Scalable and Unsupervised Feature Engineering Using Vibration-Imaging and Deep Learning for Rotor System Diagnosis Hyunseok Oh¹, Joon Ha Jung¹, Byung Chul Jeon, and Byeng D. Youn* IEEE Transactions on Industrial Electronics, SCIE (IF: 7.4, Rank: 4.3%), 2018-04, Vol. 65, No. 4, pp. 3539-3549",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Autonomous Health Management for PMSM Rail Vehicles through Demagnetization Monitoring and Prognosis Control",
+      "year": 2018,
+      "citation_raw": "Autonomous Health Management for PMSM Rail Vehicles through Demagnetization Monitoring and Prognosis Control Gang Niu*, Junjie Jiang, Byeng D. Youn, and Michael Pecht ISA Transactions, SCIE (IF: 6.6, Rank: 6.5%), 2018-01, Vol. 72, pp. 245-255",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Time-Varying Output Performances of Piezoelectric Vibration Energy Harvesting under Nonstationary Random Vibrations",
+      "year": 2018,
+      "citation_raw": "Time-Varying Output Performances of Piezoelectric Vibration Energy Harvesting under Nonstationary Random Vibrations Heonjun Yoon, Miso Kim*, Choon-Su Park, and Byeng D. Youn* Smart Materials and Structures, SCIE (IF: 3.8, Rank: 31.5%), 2018-01, Vol. 27, No. 1, pp. 015004",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Assembly Yield Prediction of Plastically Encapsulated Packages with a Large Number of Manufacturing Variables by Advanced Approximate Integration Method",
+      "year": 2017,
+      "citation_raw": "Assembly Yield Prediction of Plastically Encapsulated Packages with a Large Number of Manufacturing Variables by Advanced Approximate Integration Method Hsiu-Ping Wei, Bongtae Han*, Byeng D. Youn, Hyuk Shin, Ilho Kim, and Hojeong Moon Microelectronics Reliability, SCIE (IF: 2.5, Rank: 55.1%), 2017-11, Vol 78, pp. 319-330",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "A Newly Formulated Resilience Measure that Considers False Alarms",
+      "year": 2017,
+      "citation_raw": "A Newly Formulated Resilience Measure that Considers False Alarms Joung Taek Yoon, Byeng D. Youn*, Minji Yoo, and Yunhan Kim Reliability Engineering & System Safety, SCIE (IF: 13.7, Rank: 1.4%), 2017-11, Vol. 167, pp. 417-427",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_1_a&page=11",
+      "year_type": "page_section"
+    },
+    {
+      "title": "RPM Independent Fault Diagnosis of Rolling Element Bearing",
+      "year": 2017,
+      "citation_raw": "\"RPM Independent Fault Diagnosis of Rolling Element Bearing\" Su J. Kim, Keunsu Kim, Taewan Hwang, Byungjoo Jeon, Byeng D. Youn Conference : Asia Pacific Conference of the Prognostics and Health Management Society 2017 2017-07-12",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "Tooth-wise Fault Identification for a Planetary Gearbox Based on a Health Data Map",
+      "year": 2017,
+      "citation_raw": "\"Tooth-wise Fault Identification for a Planetary Gearbox Based on a Health Data Map\" Jong M. Ha, Jungho Park, Byeng D. Youn Conference : Asia Pacific Conference of the Prognostics and Health Management Society 2017 2017-07-12",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "A New Calibration Metric to Improve the Solution Feasibility of Calibration Problems: Marginal Probability and Correlation Residuals (PCR)",
+      "year": null,
+      "citation_raw": "\"A New Calibration Metric to Improve the Solution Feasibility of Calibration Problems: Marginal Probability and Correlation Residuals (PCR)\" Wongon Kim, Guesuk Lee, Hyejeong Son, Guilian Yi, Byeng D. Youn Conference : 12th World Congress of Structural and Multidisciplinary Optimization 2017-06-08",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "A Robust Thermal Sensor Network Design for In-Situ Temperature Estimation of Li-ion Battery Pack",
+      "year": null,
+      "citation_raw": "\"A Robust Thermal Sensor Network Design for In-Situ Temperature Estimation of Li-ion Battery Pack\" Taejin Kim, Sunuwe Kim, Byeng D. Youn Conference : 12th World Congress of Structural and Multidisciplinary Optimization 2017-06-08",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "Toward a Comprehensive Understanding of Uncertainty Effects on Model Predictive Capability in Engineering Analysis and Design",
+      "year": null,
+      "citation_raw": "\"Toward a Comprehensive Understanding of Uncertainty Effects on Model Predictive Capability in Engineering Analysis and Design\" Heonjun Yoon, Joung Taek Yoon, Hyejeong Son, Byeng D. Youn Conference : 12th World Congress of Structural and Multidisciplinary Optimization 2017-06-08",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "A Comprehensive Study of Calibration Metric for Optimization-Based Model Calibration",
+      "year": null,
+      "citation_raw": "\"A Comprehensive Study of Calibration Metric for Optimization-Based Model Calibration\" Guesuk Lee, Guilian Yi, Byeng D. Youn Conference : 12th World Congress of Structural and Multidisciplinary Optimization 2017-06-07",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "2D Phononic Band Gap Maximization for Broadband Energy Harvesting around a Target Driving Frequency",
+      "year": null,
+      "citation_raw": "\"2D Phononic Band Gap Maximization for Broadband Energy Harvesting around a Target Driving Frequency\" Guilian Yi, Yong Chang Shin, Heonjun Yoon, Soo-Ho Jo, and Byeng D. Youn Conference : 12th World Congress of Structural and Multidisciplinary Optimization 2017-06-06",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "A New Resilience-Driven System Design Considering False Alarms",
+      "year": null,
+      "citation_raw": "\"A New Resilience-Driven System Design Considering False Alarms\" Joung Taek Yoon, Minji Yoo, Byeng D. Youn, Yunhan Kim Conference : 12th World Congress of Structural and Multidisciplinary Optimization 2017-06-06",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "Degradation Modeling of an Actual Bearing Wear Process Using Vibration Signals",
+      "year": 2017,
+      "citation_raw": "\"Degradation Modeling of an Actual Bearing Wear Process Using Vibration Signals\" Keunsu Kim, Taewan Hwang, Su J. Kim, Byungjoo Jeon, Byeng D. Youn Conference : The Society for Machinery Failure Prevention Technology 2017 Annual Conference 2017-05-18",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "Deep-Learning-Based Health Diagnosis Techniques for Journal Bearing Rotor Systems",
+      "year": 2017,
+      "citation_raw": "\"Deep-Learning-Based Health Diagnosis Techniques for Journal Bearing Rotor Systems\" Myungyon Kim, Joon Ha Jung, Jin Uk Ko, Byeng D. Youn Conference : The Society for Machinery Failure Prevention Technology 2017 Annual Conference 2017-05-17",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "Experimental Demonstration of Metamaterial-based Elastic Energy Focusing and Harvesting",
+      "year": 2017,
+      "citation_raw": "\"Experimental Demonstration of Metamaterial-based Elastic Energy Focusing and Harvesting\" Miso Kim, Choon- Su Park, Wonjae Choi, Yong Chang Shin, Soo-Ho Jo, Heonjun Yoon, and Byeng D. Youn Conference : SPIE Smart Structures and Materials + Nondestructive Evaluation 2017 2017-03-29",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "Metamaterial-based Energy Harvester Design: Prevention of Wave Cancellation",
+      "year": 2017,
+      "citation_raw": "\"Metamaterial-based Energy Harvester Design: Prevention of Wave Cancellation\" Yong Chang Shin, Soo-Ho Jo, Heonjun Yoon, Byeng D. Youn, Miso Kim, Choon- Su Park, and Wonjae Choi Conference : SPIE Smart Structures and Materials + Nondestructive Evaluation 2017 2017-03-29",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "Broadband Energy Harvesting Using Phononic Crystal with Multiple Defects",
+      "year": 2017,
+      "citation_raw": "\"Broadband Energy Harvesting Using Phononic Crystal with Multiple Defects\" Soo-Ho Jo, Yong Chang Shin, Heonjun Yoon, Byeng D. Youn, Miso Kim, Choon-Su Park, and Wonjae Choi Conference : SPIE Smart Structures and Materials + Nondestructive Evaluation 2017 2017-03-28",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "Uncertainty Propagation in Piezoelectric Energy Harvesting",
+      "year": 2017,
+      "citation_raw": "\"Uncertainty Propagation in Piezoelectric Energy Harvesting\" Heonjun Yoon, Yong Chang Shin, Soo-Ho Jo, and Byeng D. Youn Conference : SPIE Smart Structures and Materials + Nondestructive Evaluation 2017 2017-03-26",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "Robust Optimal Sensor Network Design for Estimating Structural Behavior under Uncertainty Material Property",
+      "year": 2016,
+      "citation_raw": "\"Robust Optimal Sensor Network Design for Estimating Structural Behavior under Uncertainty Material Property\" Taejin Kim, Sunuwe Kim, Hyunseok Oh, Byeng D. Youn Conference : Asian Conference Experimental Mechanics 2016 2016-11-16",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=11"
+    },
+    {
+      "title": "A Novel Method for System Reliability Assessment",
+      "year": 2007,
+      "citation_raw": "\"A Novel Method for System Reliability Assessment\" Pingfeng Wang, Byeng D. Youn, and David A. Lamb Conference : 2007 Society of Automotive Engineers World Congress 2007-04-16",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Bayesian Reliability-Based Design Optimization Using Eigenvector Dimension Reduction (EDR) Method",
+      "year": 2007,
+      "citation_raw": "\"Bayesian Reliability-Based Design Optimization Using Eigenvector Dimension Reduction (EDR) Method,\" Pingfeng Wang, Byeng D. Youn, and Lee J. Wells Conference : 2007 Society of Automotive Engineers World Congress 2007-04-16",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Enhanced Dimension- Reduction (eDR) Method for Sensitivity- Free Uncertainty Quantification",
+      "year": null,
+      "citation_raw": "\"Enhanced Dimension- Reduction (eDR) Method for Sensitivity- Free Uncertainty Quantification\" Byeng D. Youn, Zhimin Xi, and Pingfeng Wang Conference : 11th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference 2006-09-06",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "An Integration of Bayesian Inference to Reliability-Based Design Optimization",
+      "year": null,
+      "citation_raw": "\"An Integration of Bayesian Inference to Reliability-Based Design Optimization\" Byeng D. Youn, Pingfeng Wang, and David A. Lamb Conference : 7th World Congress on Computational Mechanics 2006-07-16",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Stochastic Response Surface Using the Enhanced Dimension Reduction (eDR) Method for Reliability-Based Robust Design Optimization",
+      "year": null,
+      "citation_raw": "\"Stochastic Response Surface Using the Enhanced Dimension Reduction (eDR) Method for Reliability-Based Robust Design Optimization\" Byeng D.Youn, Zhimin Xi and Lee J. Wells Conference : III European Conference on Computational Mechanics 2006-06-05",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Integrated Framework for Design Optimization Under Aleatory and/or Epistemic Uncertainties Using Adaptive-Loop Method",
+      "year": 2005,
+      "citation_raw": "\"Integrated Framework for Design Optimization Under Aleatory and/or Epistemic Uncertainties Using Adaptive-Loop Method\" Byeng D. Youn Conference : ASME 2005 International Design and Engineering Technical Conferences & Computers and Information in Engineering Conference 2005-09-24",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Integration of Possibility-Based Optimization and Robust Design for Epistemic Uncertainty",
+      "year": null,
+      "citation_raw": "\"Integration of Possibility-Based Optimization and Robust Design for Epistemic Uncertainty\" Byeng D. Youn, Kyung K. Choi, Liu Du, and Gorsich David Conference : 6th World Congress on Structural and Multidisciplinary Optimization 2005-05-30",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Possibility-Based Design Optimization Method for Design problems with Both Statistical and Fuzzy Input Data",
+      "year": null,
+      "citation_raw": "\"Possibility-Based Design Optimization Method for Design problems with Both Statistical and Fuzzy Input Data\" Byeng D. Youn, Kyung K. Choi, Liu Du, and Gorsich David Conference : 6th World Congress on Structural and Multidisciplinary Optimization 2005-05-30",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Reliability-Based Design Optimization of Structural-Acoustic Problems Using FEA-BEA",
+      "year": null,
+      "citation_raw": "\"Reliability-Based Design Optimization of Structural-Acoustic Problems Using FEA-BEA\" Kyung K. Choi, Dong Jun, Byeng D. Youn, and Gorsich David Conference : 6th World Congress on Structural and Multidisciplinary Optimization 2005-05-30",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Application of Reliability-Based Design Optimization to Durability of Military Vehicles",
+      "year": 2005,
+      "citation_raw": "\"Application of Reliability-Based Design Optimization to Durability of Military Vehicles\" Kyung K. Choi, Jun Tang, Edwin Hardee and Byeng D. Youn Conference : 2005 Society of Automotive Engineers World Congress 2005-04-11",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Integration of Reliability- and Possibility-Based Design Optimizations Using Performance Measure Approach",
+      "year": 2005,
+      "citation_raw": "\"Integration of Reliability- and Possibility-Based Design Optimizations Using Performance Measure Approach\" Kyung K. Choi, Liu Du and Byeng D. Youn Conference : 2005 Society of Automotive Engineers World Congress 2005-04-11",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Performance Moment Integration (PMI) Method for Quality Assessment in Reliability-Based Robust Design Optimization",
+      "year": 2005,
+      "citation_raw": "\"Performance Moment Integration (PMI) Method for Quality Assessment in Reliability-Based Robust Design Optimization\" Byeng D. Youn, Kyung K. Choi and Kiyoung Yia Conference : 2005 Society of Automotive Engineers World Congress 2005-04-11",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Lumber Muscles Can Produce A Follower Load For Enhancing The Stability",
+      "year": null,
+      "citation_raw": "\"Lumber Muscles Can Produce A Follower Load For Enhancing The Stability\" Tae-Hong Lim, Kap Soo Han, Byeng D. Youn, and Kyung K. Choi Conference : The 51th Anual Meeting of the Orthopaedic Research Society 2005-02-05",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "Probabilistic Moment Integration for Robust Design Optimization",
+      "year": 2004,
+      "citation_raw": "\"Probabilistic Moment Integration for Robust Design Optimization\" Byeng D. Youn and Kyung K. Choi Conference : ASME 2004 International Design and Engineering Technical Conferences & Computers and Information in Engineering Conference 2004-09-28",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    },
+    {
+      "title": "A New Fuzzy Analysis Method for Possibility-Based Design Optimization",
+      "year": null,
+      "citation_raw": "\"A New Fuzzy Analysis Method for Possibility-Based Design Optimization\" Kyung K. Choi, Liu Du,and Byeng D. Youn Conference : 10th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference 2004-09-01",
+      "source_url": "https://hai.snu.ac.kr/bbs/board.php?bo_table=sub4_3_a&page=21"
+    }
+  ]
+}

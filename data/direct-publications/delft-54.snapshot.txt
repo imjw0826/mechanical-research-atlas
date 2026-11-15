@@ -1,0 +1,99 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "404" [url=https://www.tudelft.nl/staff/d.stapersma/]
+- region "Deze website maakt gebruik van cookies" [ref=e1]:
+  - text: "logo"
+  - tabpanel "Toestemming":
+    - heading "Deze website maakt gebruik van cookies" [level=2]
+    - text: "TU Delft gebruikt cookies om externe content te kunnen tonen, zoals sociale media feeds, video’s of andere interactieve media, aan te bieden en om ons websiteve…[+403 chars]"
+    - link "TU Delft Cookiebeleid" [ref=e2]: "Lees meer over ons cookiebeleid"
+    - group "Toestemmingsselectie":
+      - text: "Toestemmingsselectie Noodzakelijk"
+      - checkbox "Noodzakelijk" [ref=e3] [hidden] [checked] [disabled]
+      - label "Voorkeuren" [ref=e4]
+      - switch "Voorkeuren" [ref=e5] [hidden]
+      - label "Statistieken" [ref=e6]
+      - switch "Statistieken" [ref=e7] [hidden]
+      - label "Marketingcookies" [ref=e8]
+      - switch "Marketingcookies" [ref=e9] [hidden]
+    - link "Details tonen" [ref=e10]
+  - button "Alles toestaan" [ref=e11]
+  - button "Selectie toestaan" [ref=e12]
+  - button "Weigeren" [ref=e13]
+  - button "Banner sluiten" [ref=e14]
+- navigation "Skiplinks" [ref=e15]:
+  - button "Activeer hoog contrast" [ref=e16]
+  - link "Ga naar hoofdcontent" [ref=e17]
+- navigation "Top navigation" [ref=e18]:
+  - link [ref=e19]:
+    - img
+  - link "Studenten & Onderwijs" [ref=e20]
+  - link "Onderzoek" [ref=e21]
+  - link "Innovatie & Impact" [ref=e22]
+  - link "Community" [ref=e23]
+  - link "Over TU Delft" [ref=e24]
+  - link "Switch to the English language" [ref=e25]
+  - button "" [ref=e26]: "\n                    Zoeken"
+- main:
+  - navigation "Breadcrumb" [ref=e27]:
+    - link "Technische Universiteit Delft" [ref=e28]
+    - text: ""
+    - link "404" [ref=e29]
+  - navigation "Side navigation" [ref=e30]:
+    - list:
+      - link "Studenten & Onderwijs" [ref=e31]
+      - link "Onderzoek" [ref=e32]
+      - link "Innovatie & Impact" [ref=e33]
+      - link "Community" [ref=e34]
+      - link "Over TU Delft" [ref=e35]
+  - heading "404" [level=1]
+  - heading "Niet gevonden" [level=3]
+  - text: "Vreemd, meestal hebben wij de techniek wel onder controle. Onze excuses voor het ongemak.Misschien kunt u iets vinden via onze zoekbalk?"
+  - textbox "Zoeken" [ref=e36]: "d.stapersma"
+  - button "" [ref=e37]: "\n                Zoeken"
+  - heading "Zocht u misschien?" [level=3]
+  - link "Hoogleraren Mechanical Engineering" [ref=e38]:
+    - region:
+      - heading "Hoogleraren Mechanical Engineering" [level=3]
+      - text: "Voltijd Prof. dr. ir. D.A. Abbink Human-Robot Interaction Prof. dr. J. Alonso-Mora Mobile and Collaborative Robotics Prof. dr. R. Babuska…\n                    \n…[+110 chars]"
+  - link "Hoogleraren" [ref=e39]:
+    - region:
+      - heading "Hoogleraren" [level=3]
+      - text: "Voltijd Prof. dr. ir. D.A. Abbink Human-Robot Interaction Prof. dr. J. Alonso-Mora Mobile and Collaborative Robotics Prof. dr. R. Babuska…\n                    \n…[+62 chars]"
+  - link "Hoogleraren" [ref=e40]:
+    - region:
+      - heading "Hoogleraren" [level=3]
+      - text: "Voltijd Prof. dr. ir. D.A. Abbink Human-Robot Interaction Prof. dr. J. Alonso-Mora Mobile and Collaborative Robotics Prof. dr. R. Babuska…\n                    \n…[+57 chars]"
+  - text: "Wilt u een melding maken van een gebroken link? Mail dan de url van de betreffende pagina, of de pagina waar u deze link vond, naar"
+  - link "webredactie-mc@tudelft.nl" [ref=e41]
+  - text: ".Bij voorbaat dank."
+- contentinfo:
+  - heading "Technische Universiteit Delft" [level=2]
+  - link "" [ref=e42]: "\n                            \n                                \n                                        facebook"
+  - link "" [ref=e43]: "\n                            \n                                \n                                        instagram"
+  - link "" [ref=e44]: "\n                            \n                                \n                                        youtube"
+  - link "LinkedIn" [ref=e45]: "\n                            \n                                \n                                        linkedin"
+  - link "" [ref=e46]: "\n                            whatsapp"
+  - text: "Postbus 5 2600 AA Delft"
+  - link "Contact en bereikbaarheid" [ref=e47]
+  - link "Disclaimer" [ref=e48]
+  - link "Privacy & Security" [ref=e49]
+  - link "Voorleeshulp: BrowseAloud" [ref=e50]
+  - link "Vacatures" [ref=e51]
+  - link "Intranet" [ref=e52]
+  - link "Studentenportal" [ref=e53]
+  - link "Doneer" [ref=e54]
+  - link "Voor pers" [ref=e55]
+- navigation "Bottom navigation" [ref=e56]:
+  - link [ref=e57]:
+    - img
+  - button "Cookie-instellingen" [ref=e58]
+  - button "Contrast-instellingen" [ref=e59]: "Activeer hoog contrast"
+  - button "Spreken - Luisteren met de ReachDeck-werkbalk" [ref=e60]:
+    - img "Spreken - Luisteren met de ReachDeck-werkbalk"
+  - link "Studenten & Onderwijs" [ref=e61]
+  - link "Onderzoek" [ref=e62]
+  - link "Innovatie & Impact" [ref=e63]
+  - link "Community" [ref=e64]
+  - link "Over TU Delft" [ref=e65]
+  - link "Switch to the English language" [ref=e66]
+  - button "" [ref=e67]: "\n                        Zoeken"

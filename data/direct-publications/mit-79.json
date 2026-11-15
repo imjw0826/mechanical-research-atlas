@@ -1,0 +1,82 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Warren Seering",
+  "lab_name": null,
+  "lab_url": "https://meche.mit.edu/people/faculty/Seering@MIT.edu",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/Seering@MIT.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/Seering@MIT.edu",
+  "discovered_links": [
+    {
+      "text": "http://sdm.mit.edu/",
+      "url": "http://sdm.mit.edu/"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Understanding Bandwidth Limitations in Robot Force Control",
+      "year": 1987,
+      "citation_raw": "Eppinger, S. D., and W. P. Seering, “Understanding Bandwidth Limitations in Robot Force Control,” Proceedings of the 1987 IEEE International Conference on Robotics and Automation, Raleigh, NC, March 1987, pp. 904-909.",
+      "source_url": "https://meche.mit.edu/people/faculty/Seering@MIT.edu"
+    },
+    {
+      "title": "Synthesis of Schematic Descriptions in Mechanical Design",
+      "year": 1989,
+      "citation_raw": "Ulrich, Karl T., and Warren P. Seering, “Synthesis of Schematic Descriptions in Mechanical Design,” Research in Engineering Design, Vol. 1, no. 1, 1989, pp. 3-18.",
+      "source_url": "https://meche.mit.edu/people/faculty/Seering@MIT.edu"
+    },
+    {
+      "title": "Preshaping Command Inputs to Reduce System Vibration",
+      "year": 1990,
+      "citation_raw": "Singer, Neil C., and Warren P. Seering, “Preshaping Command Inputs to Reduce System Vibration,” ASME Journal of Dynamic Systems, Measurement, and Control, Vol. 112, No. 1, March 1990, pp. 76-82.",
+      "source_url": "https://meche.mit.edu/people/faculty/Seering@MIT.edu"
+    },
+    {
+      "title": "Quantitative Inference in a Mechanical Design Compiler",
+      "year": 1993,
+      "citation_raw": "Ward, Allen C., and Warren P. Seering, “Quantitative Inference in a Mechanical Design Compiler,” ASME Journal of Mechanical Design, Vol. 115, No. 1, March 1993, pp. 29-35.",
+      "source_url": "https://meche.mit.edu/people/faculty/Seering@MIT.edu"
+    },
+    {
+      "title": "Residual Vibration Reduction Using Vector Diagrams to Generate Shaped Inputs",
+      "year": 1994,
+      "citation_raw": "Singhose, William, Warren Seering, and Neil Singer, “Residual Vibration Reduction Using Vector Diagrams to Generate Shaped Inputs,” ASME Journal of Mechanical Design, Volume 116, No. 2, June 1994, pp. 654 - 659.",
+      "source_url": "https://meche.mit.edu/people/faculty/Seering@MIT.edu"
+    },
+    {
+      "title": "Characteristics of Successful Risk Management in Product Design",
+      "year": 2012,
+      "citation_raw": "Olechowski, Alison, Josef Oehmen, Warren Seering, and Mohammed Ben Daya, “Characteristics of Successful Risk Management in Product Design,” Proceedings of DESIGN 2012, Dubrovnik, Croatia, May 21 – 24, 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/Seering@MIT.edu"
+    },
+    {
+      "title": "Set-Based Thinking in the Engineering Design Community and Beyond",
+      "year": 2014,
+      "citation_raw": "Ghosh, Sourobh, and Warren Seering, “Set-Based Thinking in the Engineering Design Community and Beyond”, Proceedings of the 2014 ASME Design Theory and Methodology conference, Buffalo, New York, August 17-20, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/Seering@MIT.edu"
+    },
+    {
+      "title": "Risk and Innovation Balance in Crowdfunding New Ventures",
+      "year": 2015,
+      "citation_raw": "Song, Chaoyang, Jianxi Luo, Katja Holtta-Otto, Warren Seering, and Kevin Otto, “Risk and Innovation Balance in Crowdfunding New Ventures,” The International Conference on Engineering Design, Milan, Italy, August 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/Seering@MIT.edu"
+    },
+    {
+      "title": "Characteristics and Enablers of Transparency in Product Development Risk Management",
+      "year": 2015,
+      "citation_raw": "Shaffer, Ryan, Alison Olechowski, Warren Seering, and Mohammad Ben-Daya, “Characteristics and Enablers of Transparency in Product Development Risk Management,” The International Conference on Engineering Design, Milan, Italy, August 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/Seering@MIT.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Official profile heading records PI as Warren Seering; original roster PI Warren Paul Seering. Official source: https://meche.mit.edu/people/faculty/Seering@MIT.edu"
+  ]
+}

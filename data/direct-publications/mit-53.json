@@ -1,0 +1,63 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Hermano Igo Krebs",
+  "lab_name": null,
+  "lab_url": "https://the77lab.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/hikrebs@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/hikrebs@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://the77lab.mit.edu/"
+    }
+  ],
+  "attempted_urls": [
+    "https://the77lab.mit.edu/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Shelfship-Shelftainer: a new concept in container transport",
+      "year": 1989,
+      "citation_raw": "Krebs, “Shelfship-Shelftainer: a new concept in container transport,” Japan Application Patent, Utility Model 102599, 31 August 1989.",
+      "source_url": "https://meche.mit.edu/people/faculty/hikrebs@mit.edu"
+    },
+    {
+      "title": "Interactive Robotic Therapist",
+      "year": 1995,
+      "citation_raw": "Hogan, Krebs, Sharon, Charnnarong, “Interactive Robotic Therapist, ” US Patent No. 5,466,213, November 1995.",
+      "source_url": "https://meche.mit.edu/people/faculty/hikrebs@mit.edu"
+    },
+    {
+      "title": "System and Method for Medical Imaging Utilizing a Robotic Device, and Robotic Device for Use in Medical Imaging",
+      "year": 1998,
+      "citation_raw": "Hogan, Krebs, “System and Method for Medical Imaging Utilizing a Robotic Device, and Robotic Device for Use in Medical Imaging,” US Patent No. 5,794,621, August 1998.",
+      "source_url": "https://meche.mit.edu/people/faculty/hikrebs@mit.edu"
+    },
+    {
+      "title": "Pelvis Interface – Mobile Pelvis Manipulator or System and Method for Rehabilitation of Gait and Balance Utilizing Automation Technology and Robotic Devices",
+      "year": 2009,
+      "citation_raw": "Krebs, Hogan, Roberts, “Pelvis Interface – Mobile Pelvis Manipulator or System and Method for Rehabilitation of Gait and Balance Utilizing Automation Technology and Robotic Devices,” US Patent No. 7,556,606, July 2009.",
+      "source_url": "https://meche.mit.edu/people/faculty/hikrebs@mit.edu"
+    },
+    {
+      "title": "Dynamic Lower Limb Rehabilitation Robotic Apparatus and Method of Rehabilitating Human Gait",
+      "year": 2014,
+      "citation_raw": "Bosecker, Krebs, “Dynamic Lower Limb Rehabilitation Robotic Apparatus and Method of Rehabilitating Human Gait,” US Patent No. 8,684,890 B2, Issued April 2014 (methods patent).",
+      "source_url": "https://meche.mit.edu/people/faculty/hikrebs@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ]
+}

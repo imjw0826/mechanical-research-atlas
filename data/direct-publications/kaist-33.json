@@ -1,0 +1,300 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "한지훈 HAN, Jihun",
+  "lab_name": null,
+  "lab_url": "https://cuvic.kaist.ac.kr",
+  "publication_urls": [
+    "https://cuvic.kaist.ac.kr/publications/journals/",
+    "https://cuvic.kaist.ac.kr/publications/conferences/"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Optimal Eco-Driving Control for Electric Vehicles: Energy Savings Analysis and Experimental Study",
+      "year": 2026,
+      "citation_raw": "Optimal Eco-Driving Control for Electric Vehicles: Energy Savings Analysis and Experimental Study Lu Chen, Jihun Han, Rongyao Wang, Tyler Ard, Dominik Karbowski, Yunyi Jia, and Ardalan Vahidi IEEE Control Systems Letters, pp. 1–1, 2026",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Multi-Lane X-in-the-loop Evaluation of Connected Human-Driven and Automated Vehicles",
+      "year": 2026,
+      "citation_raw": "Multi-Lane X-in-the-loop Evaluation of Connected Human-Driven and Automated Vehicles Jihun Han, Tyler Ard, Rongyao Wang, Yunyi Jia, Ardalan Vahidi, and Dominik Karbowski Control Engineering Practice, vol. 173, pp. 106988, Aug 2026",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Route-Based Multi-Vehicle Simulation Framework for Energy-Efficiency Evaluation of Class-8 Heavy-Duty Trucks",
+      "year": 2026,
+      "citation_raw": "Route-Based Multi-Vehicle Simulation Framework for Energy-Efficiency Evaluation of Class-8 Heavy-Duty Trucks Daliang Shen, Jihun Han, Yaozhong Zhang, Namdoo Kim, and Dominik Karbowski IEEE Open Journal of Vehicular Technology, vol. 7, pp. 2201–2213, 2026",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "MR-HVIL: A Mixed-Reality-Based Human–Vehicle-In-the-Loop On-Road Validation Platform for Mixed Traffic Testing",
+      "year": 2026,
+      "citation_raw": "MR-HVIL: A Mixed-Reality-Based Human–Vehicle-In-the-Loop On-Road Validation Platform for Mixed Traffic Testing Rongyao Wang, Prakhar Gupta, Tyler Ard, Jihun Han, Dominik A. Karbowski, Ardalan Vahidi, and Yunyi Jia IEEE Transactions on Intelligent Transportation Systems, pp. 1–15, May 2026",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Mixed-Traffic Impacts of CAVs: A Reproducible Benchmark and Multi-Aspect Evaluation Framework for Freeway Corridors",
+      "year": 2026,
+      "citation_raw": "Mixed-Traffic Impacts of CAVs: A Reproducible Benchmark and Multi-Aspect Evaluation Framework for Freeway Corridors Ziyi Zhang, Tyler Ard, Jihun Han, Dominik Karbowski, and Yanbing Wang Control Engineering Practice, vol. 173, pp. 106982, Aug 2026",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Energy-Efficient Automated Driving for Everyday Maneuvers: Fundamentals to Experimentation",
+      "year": 2025,
+      "citation_raw": "Energy-Efficient Automated Driving for Everyday Maneuvers: Fundamentals to Experimentation Tyler Ard, Jihun Han, Prakhar Gupta, Dominik Karbowski, Yunyi Jia, and Ardalan Vahidi IEEE Control Systems Letters, vol. 9, pp. 9–14, Feb 2025",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Validation of Energy Saving From Cooperative Driving Automation via Vehicle-in-the-Loop Tests",
+      "year": 2025,
+      "citation_raw": "Validation of Energy Saving From Cooperative Driving Automation via Vehicle-in-the-Loop Tests Eunjeong Hyeon, Miriam Di Russo, Lu Zhan, Jongryeol Jeong, Namdoo Kim, Jihun Han, Priyash Misra, Kevin Stutenberg, and 1 more author ASME Letters in Dynamic Systems and Control, vol. 5, no. 1, pp. 011008, Jan 2025",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Analysis of Control Behavior in Eco-Driving Speed Optimization Using Pontryagin’s Minimum Principle",
+      "year": 2024,
+      "citation_raw": "Analysis of Control Behavior in Eco-Driving Speed Optimization Using Pontryagin’s Minimum Principle Shaowen Lyu, Liyue Yang, Daliang Shen, Jihun Han, Dominik Karbowski, and Namwook Kim IEEE Access, vol. 12, pp. 148893–148903, Oct 2024",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Effect of Adaptive Cruise Control on Fuel Consumption in Real-World Driving Conditions",
+      "year": 2024,
+      "citation_raw": "Effect of Adaptive Cruise Control on Fuel Consumption in Real-World Driving Conditions Ayman Moawad, Matthew Zebiak, Jihun Han, Dominik Karbowski, Yaozhong Zhang, and Aymeric Rousseau Nature Communications, vol. 15, no. 1, pp. 10016, Nov 2024",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Energy-Efficient Driving in Connected Corridors via Minimum Principle Control: Vehicle-in-the-Loop Experimental Verification in Mixed Fleets",
+      "year": 2023,
+      "citation_raw": "Energy-Efficient Driving in Connected Corridors via Minimum Principle Control: Vehicle-in-the-Loop Experimental Verification in Mixed Fleets Tyler Ard, Longxiang Guo, Jihun Han, Yunyi Jia, Ardalan Vahidi, and Dominik Karbowski IEEE Transactions on Intelligent Vehicles, vol. 8, no. 2, pp. 1279–1291, Feb 2023",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Energy Impact of Connecting Multiple Signalized Intersections to Energy-Efficient Driving: Simulation and Experimental Results",
+      "year": 2023,
+      "citation_raw": "Energy Impact of Connecting Multiple Signalized Intersections to Energy-Efficient Driving: Simulation and Experimental Results Jihun Han, Daliang Shen, Jongryeol Jeong, Miriam Di Russo, Namdoo Kim, Julien Jean Grave, Dominik Karbowski, Aymeric Rousseau, and 1 more author IEEE Control Systems Letters, vol. 7, pp. 1297–1302, Jan 2023",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Fast Analytical Solver for Fuel-Optimal Speed Trajectory of Connected and/or Automated Vehicles",
+      "year": 2023,
+      "citation_raw": "Fast Analytical Solver for Fuel-Optimal Speed Trajectory of Connected and/or Automated Vehicles Jihun Han and Jackeline Rios-Torres IEEE Transactions on Control Systems Technology, vol. 31, no. 6, pp. 2714–2727, Nov 2023",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "On-Track Demonstration of Automated Eco-Driving Control for an Electric Vehicle",
+      "year": 2023,
+      "citation_raw": "On-Track Demonstration of Automated Eco-Driving Control for an Electric Vehicle Jongryeol Jeong, Ahammad Basha Dudekula, Elangovan Kandaswamy, Dominik Karbowski, Jihun Han, and Jeffrey Naber SAE International Journal of Advances and Current Practices in Mobility, vol. 06, no. 1, pp. 181–192, Apr 2023",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Human Driver Modeling Based on Analytical Optimal Solutions: Stopping Behaviors at the Intersections",
+      "year": 2021,
+      "citation_raw": "Human Driver Modeling Based on Analytical Optimal Solutions: Stopping Behaviors at the Intersections Jihun Han, Dominik Karbowski, Namdoo Kim, and Aymeric Rousseau ASME Letters in Dynamic Systems and Control, vol. 1, no. 1, pp. 011010, Jan 2021",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Leveraging Multiple Connected Traffic Light Signals in an Energy-Efficient Speed Planner",
+      "year": 2021,
+      "citation_raw": "Leveraging Multiple Connected Traffic Light Signals in an Energy-Efficient Speed Planner Jihun Han, Daliang Shen, Dominik Karbowski, and Aymeric Rousseau IEEE Control Systems Letters, vol. 5, no. 6, pp. 2078–2083, Dec 2021",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Fundamentals of Energy Efficient Driving for Combustion Engine and Electric Vehicles: An Optimal Control Perspective",
+      "year": 2019,
+      "citation_raw": "Fundamentals of Energy Efficient Driving for Combustion Engine and Electric Vehicles: An Optimal Control Perspective Jihun Han, Ardalan Vahidi, and Antonio Sciarretta Automatica, vol. 103, pp. 558–572, May 2019",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Safe- and Eco-Driving Control for Connected and Automated Electric Vehicles Using Analytical State-Constrained Optimal Solution",
+      "year": 2018,
+      "citation_raw": "Safe- and Eco-Driving Control for Connected and Automated Electric Vehicles Using Analytical State-Constrained Optimal Solution Jihun Han, Antonio Sciarretta, Luis Leon Ojeda, Giovanni De Nunzio, and Laurent Thibault IEEE Transactions on Intelligent Vehicles, vol. 3, no. 2, pp. 163–172, Jun 2018",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Synthesis of Predictive Equivalent Consumption Minimization Strategy for Hybrid Electric Vehicles Based on Closed-Form Solution of Optimal Equivalence Factor",
+      "year": 2017,
+      "citation_raw": "Synthesis of Predictive Equivalent Consumption Minimization Strategy for Hybrid Electric Vehicles Based on Closed-Form Solution of Optimal Equivalence Factor Jihun Han, Dongsuk Kum, and Youngjin Park IEEE Transactions on Vehicular Technology, vol. 66, no. 7, pp. 5604–5616, Jul 2017",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Sensitivity Analysis for Assessing Robustness of Position-Based Predictive Energy Management Strategy for Fuel Cell Hybrid Electric Vehicle",
+      "year": 2015,
+      "citation_raw": "Sensitivity Analysis for Assessing Robustness of Position-Based Predictive Energy Management Strategy for Fuel Cell Hybrid Electric Vehicle Jihun Han, Dongsuk Kum, and Youngjin Park World Electric Vehicle Journal, vol. 7, no. 2, pp. 330–341, Jun 2015",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Cooperative Regenerative Braking Control for Front-Wheel-Drive Hybrid Electric Vehicle Based on Adaptive Regenerative Brake Torque Optimization Using under-Steer Index",
+      "year": 2014,
+      "citation_raw": "Cooperative Regenerative Braking Control for Front-Wheel-Drive Hybrid Electric Vehicle Based on Adaptive Regenerative Brake Torque Optimization Using under-Steer Index J. Han, Y. Park, and Y. Park International Journal of Automotive Technology, vol. 15, no. 6, pp. 989–1000, Oct 2014",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Impact of Hilly Road Information on Fuel Economy of FCHEV Based on Parameterization of Hilly Roads",
+      "year": 2014,
+      "citation_raw": "Impact of Hilly Road Information on Fuel Economy of FCHEV Based on Parameterization of Hilly Roads J. Han, D. Kum, and Y. Park International Journal of Automotive Technology, vol. 15, no. 2, pp. 283–290, Mar 2014",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Optimal Adaptation of Equivalent Factor of Equivalent Consumption Minimization Strategy for Fuel Cell Hybrid Electric Vehicles under Active State Inequality Constraints",
+      "year": 2014,
+      "citation_raw": "Optimal Adaptation of Equivalent Factor of Equivalent Consumption Minimization Strategy for Fuel Cell Hybrid Electric Vehicles under Active State Inequality Constraints Jihun Han, Youngjin Park, and Dongsuk Kum Journal of Power Sources, vol. 267, pp. 491–502, Dec 2014",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "A Study on How to Utilize Hilly Road Information in Equivalent Consumption Minimization Strategy of FCHEVs",
+      "year": 2014,
+      "citation_raw": "A Study on How to Utilize Hilly Road Information in Equivalent Consumption Minimization Strategy of FCHEVs Jihun Han, Youngjin Park, Dongsuk Kum, and Seongpil Ryu SAE International Journal of Alternative Powertrains, vol. 03, no. 1, pp. 72–77, Apr 2014",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/journals/"
+    },
+    {
+      "title": "Advancing Connected Vehicle Capabilities with Scalable and Flexible Anything-In-The-Loop Testing Framework",
+      "year": 2025,
+      "citation_raw": "Advancing Connected Vehicle Capabilities with Scalable and Flexible Anything-In-The-Loop Testing Framework Jihun Han, Miriam Di Russo, Debashis Das, Qian Peng, Jongryeol Jeong, Michael Pamminger, Priyash Misra, Dominik Karbowski, and 2 more authors In 2025 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS), Jun 2025",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Assessing the Energy Impacts of Connected and Automated Vehicles: A Comprehensive Validation via Simulation, Dynamometer, and Track Tests",
+      "year": 2024,
+      "citation_raw": "Assessing the Energy Impacts of Connected and Automated Vehicles: A Comprehensive Validation via Simulation, Dynamometer, and Track Tests Jongryeol Jeong, Miriam Di Russo, Ahammad Basha Dudekula, Jihun Han, Kevin Stutenberg, Jeffrey D. Naber, and Dominik Karbowski In 2024 IEEE International Automated Vehicle Validation Conference (IAVVC), Oct 2024",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Energy Savings Impact of Eco-Driving Control Based on Powertrain Characteristics in Connected and Automated Vehicles: On-Track Demonstrations",
+      "year": 2024,
+      "citation_raw": "Energy Savings Impact of Eco-Driving Control Based on Powertrain Characteristics in Connected and Automated Vehicles: On-Track Demonstrations Jongryeol Jeong, Elangovan Kandaswamy, Ahammad Basha Dudekula, Jihun Han, Dominik Karbowski, and Jeffrey Naber In WCX SAE World Congress Experience, Apr 2024",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Testing Cellular Vehicle-to-Everything Communication Performance and Feasibility in Automated Vehicles\\textsuperscript*",
+      "year": 2024,
+      "citation_raw": "Testing Cellular Vehicle-to-Everything Communication Performance and Feasibility in Automated Vehicles\\textsuperscript* Zhaohui Liang, Jihun Han, Xiaopeng Li, Dominik Karbowski, Chengyuan Ma, and Aymeric Rousseau In 2024 IEEE Intelligent Vehicles Symposium (IV), Jun 2024",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Is It Necessary to Calibrate All Parameters for Each Driver?",
+      "year": 2024,
+      "citation_raw": "Is It Necessary to Calibrate All Parameters for Each Driver? Yanbing Wang, Felipe De Souza, Jihun Han, and Dominik Karbowski IFAC-PapersOnLine, vol. 58, no. 28, pp. 696–701, Oct 2024",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "An X-in-the-Loop (XIL) Testing Framework for Validation of Connected and Autonomous Vehicles",
+      "year": 2023,
+      "citation_raw": "An X-in-the-Loop (XIL) Testing Framework for Validation of Connected and Autonomous Vehicles Prakhar Gupta, Rongyao Wang, Tyler Ard, Jihun Han, Dominik Karbowski, Ardalan Vahidi, and Yunyi Jia In 2023 IEEE International Automated Vehicle Validation Conference (IAVVC), Oct 2023",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Model Validation of Adaptive Cruise Control in Vehicles Utilizing Real-World Driving Data",
+      "year": 2023,
+      "citation_raw": "Model Validation of Adaptive Cruise Control in Vehicles Utilizing Real-World Driving Data Yaozhong Zhang, Jihun Han, Namdoo Kim, and Dominik Karbowski In 2023 IEEE International Automated Vehicle Validation Conference (IAVVC), Oct 2023",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Adaptive Cruise Control (ACC) is one of the most significant Advanced Driver Assistance System (ADAS) features, To fully comprehend and quantitatively analyze the impact of the on-road automation on vehicles and transportation systems, it is necessary to validate the models of ACC systems in currently available vehicles",
+      "year": 2018,
+      "citation_raw": "ABS DOI Adaptive Cruise Control (ACC) is one of the most significant Advanced Driver Assistance System (ADAS) features. To fully comprehend and quantitatively analyze the impact of the on-road automation on vehicles and transportation systems, it is necessary to validate the models of ACC systems in currently available vehicles. This paper presents a workflow for the modeling and validation of the stock ACC system on the 2018 Cadillac CT6 with the Super Cruise system. The approach makes use of the real-world test-driving data collected by the instrumented test vehicle, analyzes its behavior in various driving scenarios, formulates the ACC system model based on the data, and conducts validation with both simplified vehicle kinetics and the high-fidelity Cadillac CT6 powertrain model by using the energy-focused connected and automated vehicle (CAV) simulator developed by Argonne National Laboratory.",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Analytical Anticipative Optimal Drivability Car-Following Model",
+      "year": 2022,
+      "citation_raw": "Analytical Anticipative Optimal Drivability Car-Following Model Jihun Han, Dominik Karbowski, and Aymeric Rousseau In 2022 American Control Conference (ACC), Jun 2022",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Potential Energy Saving of V2V-Connected Vehicles in Large-Scale Traffic",
+      "year": 2022,
+      "citation_raw": "Potential Energy Saving of V2V-Connected Vehicles in Large-Scale Traffic Eunjeong Hyeon, Jihun Han, Daliang Shen, Dominik Karbowski, Namwook Kim, and Aymeric Rousseau IFAC-PapersOnLine, vol. 55, no. 24, pp. 78–83, Aug 2022",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Vehicle-In-The-Loop Workflow for the Evaluation of Energy-Efficient Automated Driving Controls in Real Vehicles",
+      "year": 2022,
+      "citation_raw": "Vehicle-In-The-Loop Workflow for the Evaluation of Energy-Efficient Automated Driving Controls in Real Vehicles Jongryeol Jeong, Dominik Karbowski, Namdoo Kim, Jihun Han, Kevin Stutenberg, Miriam Di Russo, and Julien Grave In WCX SAE World Congress Experience, Mar 2022",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Data-Driven Design of Model Predictive Control for Powertrain-Aware Eco-Driving Considering Nonlinearities Using Koopman Analysis",
+      "year": 2022,
+      "citation_raw": "Data-Driven Design of Model Predictive Control for Powertrain-Aware Eco-Driving Considering Nonlinearities Using Koopman Analysis Daliang Shen, Jihun Han, Dominik Karbowski, and Aymeric Rousseau IFAC-PapersOnLine, vol. 55, no. 24, pp. 117–122, Aug 2022",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Assessing the Implications of Automated Merging Control in a Mixed and Heterogeneous Traffic Environment",
+      "year": 2021,
+      "citation_raw": "Assessing the Implications of Automated Merging Control in a Mixed and Heterogeneous Traffic Environment Jackeline Rios-Torres, Zulqarnain Khattak, Jihun Han, Chieh Wang, and Hyeonsup Lim In 2021 IEEE International Intelligent Transportation Systems Conference (ITSC), Sep 2021",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Closed-Form Solutions for a Real-Time Energy-Optimal and Collision-Free Speed Planner with Limited Information",
+      "year": 2020,
+      "citation_raw": "Closed-Form Solutions for a Real-Time Energy-Optimal and Collision-Free Speed Planner with Limited Information Jihun Han, Dominik Karbowski, and Namdoo Kim In 2020 American Control Conference (ACC), Jul 2020",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Fine-Tuning a Real-Time Speed Planner for Eco-Driving of Connected and Automated Vehicles",
+      "year": 2020,
+      "citation_raw": "Fine-Tuning a Real-Time Speed Planner for Eco-Driving of Connected and Automated Vehicles Jihun Han, Woong Lee, Dominik Karbowski, Aymeric Rousseau, and Namwook Kim In 2020 IEEE Vehicle Power and Propulsion Conference (VPPC), Nov 2020",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "State-Constrained Optimal Solutions for Safe Eco-Approach and Departure at Signalized Intersections",
+      "year": 2020,
+      "citation_raw": "State-Constrained Optimal Solutions for Safe Eco-Approach and Departure at Signalized Intersections Jihun Han, Dominik Karbowski, and Aymeric Rousseau In ASME 2020 Dynamic Systems and Control Conference, Oct 2020",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Receding Horizon Reference Governor for Implementable and Optimal Powertrain-Aware Eco-Driving",
+      "year": 2020,
+      "citation_raw": "Receding Horizon Reference Governor for Implementable and Optimal Powertrain-Aware Eco-Driving Daliang Shen, Jihun Han, Jongryeol Jeong, Dominik Karbowski, and Aymeric Rousseau IFAC-PapersOnLine, vol. 53, no. 2, pp. 13842–13849, Jul 2020",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Impact of Model Simplification on Optimal Control of Combustion Engine and Electric Vehicles Considering Control Input Constraints",
+      "year": 2018,
+      "citation_raw": "Impact of Model Simplification on Optimal Control of Combustion Engine and Electric Vehicles Considering Control Input Constraints Jihun Han, Jackeline Rios-Torres, Ardalan Vahidi, and Antonio Sciarretta In 2018 IEEE Vehicle Power and Propulsion Conference (VPPC), Aug 2018",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Handling State Constraints in Fast-computing Optimal Control for Hybrid Powertrains",
+      "year": 2017,
+      "citation_raw": "Handling State Constraints in Fast-computing Optimal Control for Hybrid Powertrains Jihun Han, Antonio Sciarretta, and Nicolas Petit IFAC-PapersOnLine, vol. 50, no. 1, pp. 4781–4786, Jul 2017",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "A Real-Time Eco-Driving Strategy for Automated Electric Vehicles",
+      "year": 2017,
+      "citation_raw": "A Real-Time Eco-Driving Strategy for Automated Electric Vehicles Luis Leon Ojeda, Jihun Han, Antonio Sciarretta, Giovanni De Nunzio, and Laurent Thibault In 2017 IEEE 56th Annual Conference on Decision and Control (CDC), Dec 2017",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Impact of Hilly Road Profile on Optimal Energy Management Strategy for FCHEV with Various Battery Sizes",
+      "year": 2013,
+      "citation_raw": "Impact of Hilly Road Profile on Optimal Energy Management Strategy for FCHEV with Various Battery Sizes Jihun Han, Youngjin Park, Dongsuk Kum, Seongpil Ryu, and Youn-sik Park In SAE/KSAE 2013 International Powertrains, Fuels & Lubricants Meeting, Oct 2013",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "A Novel Updating Method of Equivalent Factor in ECMS for Prolonging the Lifetime of Battery in Fuel Cell Hybrid Electric Vehicle",
+      "year": 2012,
+      "citation_raw": "A Novel Updating Method of Equivalent Factor in ECMS for Prolonging the Lifetime of Battery in Fuel Cell Hybrid Electric Vehicle Jihun Han, Youngjin Park, and Youn-sik Park IFAC Proceedings Volumes, vol. 45, no. 30, pp. 227–232, Oct 2012",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Adaptive Regenerative Braking Control in Severe Cornering for Guaranteeing the Vehicle Stability of Fuel Cell Hybrid Electric Vehicle",
+      "year": 2011,
+      "citation_raw": "Adaptive Regenerative Braking Control in Severe Cornering for Guaranteeing the Vehicle Stability of Fuel Cell Hybrid Electric Vehicle Jihun Han, Youngjin Park, and Youn-sik Park In 2011 IEEE Vehicle Power and Propulsion Conference, Sep 2011",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    },
+    {
+      "title": "Cooperative Regenerative Braking Control Strategy Considering Nonlinear Tire Characteristic in Front-Wheel-Drive Hybrid Electric Vehicle",
+      "year": 2011,
+      "citation_raw": "Cooperative Regenerative Braking Control Strategy Considering Nonlinear Tire Characteristic in Front-Wheel-Drive Hybrid Electric Vehicle Jihun Han and Youngjin Park In 1st International Electric Vehicle Technology Conference, May 2011",
+      "source_url": "https://cuvic.kaist.ac.kr/publications/conferences/"
+    }
+  ]
+}

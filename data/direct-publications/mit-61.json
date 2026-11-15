@@ -1,0 +1,147 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Seth Lloyd",
+  "lab_name": null,
+  "lab_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU",
+  "discovered_links": [
+    {
+      "text": "http://arxiv.org",
+      "url": "http://arxiv.org/"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "A Potentially Realizable Quantum Computer",
+      "year": 1993,
+      "citation_raw": "A few of Dr. Lloyd's papers are: Lloyd, S., “A Potentially Realizable Quantum Computer,” Science 261, 1569-1571, 1993.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "Universal Quantum Simulators",
+      "year": 1996,
+      "citation_raw": "Lloyd, S., “Universal Quantum Simulators,” Science 273, 1073-1078, 1996.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "Experimental Realization of a Quantum Algorithm",
+      "year": 1998,
+      "citation_raw": "Chuang, I.L., and L.M.K. Vandersypen, X. Zhou, D.W. Leung, S. Lloyd, “Experimental Realization of a Quantum Algorithm,” Nature 393, 143-146, 1998.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "Dynamical Suppression of Decoherence in Two-State Quantum Systems",
+      "year": 1998,
+      "citation_raw": "Viola, L., and S. Lloyd “Dynamical Suppression of Decoherence in Two-State Quantum Systems,” Physical Review A 58, 2733-2744, 1998.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "Josephson Persistent-Current Qubit",
+      "year": 1999,
+      "citation_raw": "Mooij, J.E., and T.P. Orlando, L. Levitov, Lin Tian, Caspar H. van der Wal, S. Lloyd “Josephson Persistent-Current Qubit,” Science 285, 1036-1039, 1999.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "Coherent Quantum Feedback",
+      "year": 2000,
+      "citation_raw": "Lloyd, S., “Coherent Quantum Feedback” Physical Review A 6202, 2108, 2000.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "Ultimate Physical Limits to Computation",
+      "year": 2000,
+      "citation_raw": "Lloyd, S., “Ultimate Physical Limits to Computation,” Nature 406, 1047-1054, 2000.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "‘Positioning and Clock Synchronization via Entanglement,’ Physical Review A",
+      "year": 2002,
+      "citation_raw": "Giovannetti, V., and S. Lloyd, L. Maccone, ‘Positioning and Clock Synchronization via Entanglement,’ Physical Review A, 65 (2): art. no. 022309, 2002.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "‘Classical capacity of the lossy bosonic channel: the exact solution,’ Physical Review letters 92 (2): Art, No",
+      "year": 2004,
+      "citation_raw": "Giovannetti, V., and S. Guha, S. Lloyd, L. Maccone, J.H. Shapiro, H.P. Yuen, ‘Classical capacity of the lossy bosonic channel: the exact solution,’ Physical Review letters 92 (2): Art. No. 027902 (2004).",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "Lloyd ‘Universal control of quantum subspaces and subsystems,’ Phys, Rev",
+      "year": 2004,
+      "citation_raw": "Zanardi, P., and S. Lloyd ‘Universal control of quantum subspaces and subsystems,’ Phys. Rev. A 69(2): Art. No. 022313, 2004.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "‘Quantum-enhanced measurements: beating the standard quan- tum limit,’ Science 306",
+      "year": 2004,
+      "citation_raw": "Giovannetti, V., S. Lloyd, L. Maccone, ‘Quantum-enhanced measurements: beating the standard quan- tum limit,’ Science 306, 1330 (2004); quant-ph/0412078.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": null,
+      "year": 2006,
+      "citation_raw": "Giovannetti, V., S. Lloyd, S., L. Maccone, ‘Quantum metrology,’ Phys. Rev. Lett. 96, 010401 (2006). quant-ph/0509179.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "‘Quantum random access memory,’ Phys, Rev, Lett",
+      "year": 2008,
+      "citation_raw": "Giovannetti, V., S. Lloyd, L. Maccone, ‘Quantum random access memory,’ Phys. Rev. Lett. 100, 160501 (2008); arXiv:0708.1879.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "‘Environment-Assisted Quantum Walks in Energy Transfer of Photosynthetic Complexes,’ J",
+      "year": 2008,
+      "citation_raw": "M. Mohseni, P. Rebentrost, S. Lloyd, A. Aspuru-Guzik, ‘Environment-Assisted Quantum Walks in Energy Transfer of Photosynthetic Complexes,’ J. Chem. Phys. 129, 174106 (2008); arXiv:0805.2741.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "‘Environment-Assisted Quantum Transport,’ New J, Phys",
+      "year": 2009,
+      "citation_raw": "P. Rebentrost, M. Mohseni, I. Kassal, S. Lloyd, A. Aspuru-Guzik, ‘Environment-Assisted Quantum Transport,’ New J. Phys. 11, 033003 (2009); arXiv:0807.0929.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "‘Quantum algorithm for solving linear sets of equations,’ Phys, Rev, Lett",
+      "year": 2009,
+      "citation_raw": "A.W. Harrow, A. Hassidim, S. Lloyd, ‘Quantum algorithm for solving linear sets of equations,’ Phys. Rev. Lett. 103, 150502 (2009); arXiv:0811.3171.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "S. Lloyd, L. Maccone, R. Garcia-Patron, V. Giovannetti, Y. Shikano, S. Pirandola, L.A. Rozema, A. Darabi, Y. Soudagar, L.K. Shalm, A.M. Steinberg, ‘Closed timelike curves via post-selection: theory and experimental demonstration,’ Phys. Rev. Lett. 106, 040403 (2011). arXiv:1005.2219.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "Gaussian quantum information",
+      "year": 2012,
+      "citation_raw": "C. Weedbrook, S. Pirandola, R. Garcia-Patron, N.J. Cerf, T.C. Ralph, J.H. Shapiro, S. Lloyd, “Gaussian quantum information,” Rev. Mod. Phys. 84, 621 (2012); arXiv:1110.3234.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "‘Unitarity of black hole evaporation in final-state projection models,’ J. H, Th, Phys",
+      "year": 2014,
+      "citation_raw": "S. Lloyd, J. Preskill, ‘Unitarity of black hole evaporation in final-state projection models,’ J. H. Th. Phys. 8, 1-30 (2014); arXiv: 1308.4209.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    },
+    {
+      "title": "‘Quantum principal component analysis,’ Nature Physics 10(9)",
+      "year": 2014,
+      "citation_raw": "S. Lloyd, M. Mohseni, P. Rebentrost, ‘Quantum principal component analysis,’ Nature Physics 10(9), 631-633 (2014); arXiv: 1307.0401.",
+      "source_url": "https://meche.mit.edu/people/faculty/SLLOYD@MIT.EDU"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage."
+  ]
+}

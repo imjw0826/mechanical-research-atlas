@@ -1,0 +1,488 @@
+{
+  "university": "Harvard University",
+  "university_key": "harvard",
+  "pi": "Maurice Smith",
+  "lab_name": null,
+  "lab_url": "https://groups.seas.harvard.edu/motorlab/",
+  "publication_urls": [
+    "https://groups.seas.harvard.edu/motorlab/publications.html"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "게시 목록 페이지 후보에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
+  "dropped_low_confidence": [
+    {
+      "title": "anti-Bayesian",
+      "year": 2010,
+      "citation_raw": "Brayanov JB & Smith MA (2010). Bayesian and \"anti-Bayesian\" biases in sensory integration for action and perception in the size-weight illusion. Journal of Neurophysiology, 103:1518-1531. Abstract ~ Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "anti-Bayesian",
+      "year": 2010,
+      "citation_raw": "Brayanov JB & Smith MA (2010). Bayesian and \"anti-Bayesian\" biases in sensory integration for action and perception in the size-weight illusion. Journal of Neurophysiology, 103:1518-1531. Abstract ~ Paper (pdf) F1000 Comment Shadmehr R, Smith MA & Krakauer JW (2010). Error correction, sensory prediction, and adaptation in motor control. Annual Review of Neuroscience, 33:89-108. Abstract ~ Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Motor planning under uncertainty eLife doi:10.7554/eLife.67019 Abstract ~ Paper (pdf)",
+      "year": 2021,
+      "citation_raw": "Research Papers Alhussein L, Smith MA (2021). Motor planning under uncertainty eLife doi:10.7554/eLife.67019 Abstract ~ Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Implicit adaptation compensates for erratic explicit strategy in human motor learning Nature Neuroscience 1-13",
+      "year": 2020,
+      "citation_raw": "Miyamoto YR, Wang S, Smith MA (2020). Implicit adaptation compensates for erratic explicit strategy in human motor learning Nature Neuroscience 1-13, doi:10.1038/s41593-020-0600-3 Abstract ~ Paper ~ News and Views (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Dissociating effects of error size, training duration and amount of adaptation on the ability to retain motor memories",
+      "year": 2019,
+      "citation_raw": "Alhussein L, Hosseini EA, Nguyen K, Smith MA, Joiner WM (2019). Dissociating effects of error size, training duration and amount of adaptation on the ability to retain motor memories. Journal of neurophysiology 122(5): 2027-2042 Abstract ~ Paper",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Adaptive regulation of motor variability",
+      "year": 2019,
+      "citation_raw": "Dhawale AK, Miyamoto YR, Smith MA, Olveczky BP (2019). Adaptive regulation of motor variability. Current Biology doi:10.1016/j.cub.2019.08.052 Abstract ~ Paper",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Robot-induced perturbations of human walking reveal a selective generation of motor adaptation",
+      "year": 2017,
+      "citation_raw": "Cajigas I, Koenig A, Severini G, Smith M, Bonato P (2017). Robot-induced perturbations of human walking reveal a selective generation of motor adaptation. Science Robotics Vol. 2, Issue 6, eaam7749. doi.org/10.1126/scirobotics.aam7749. Abstract ~ Paper",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "The Role of Variability in Motor Learning",
+      "year": 2017,
+      "citation_raw": "Dhawale AK, Smith MA, Ölveczky BP (2017). The Role of Variability in Motor Learning. Annual Review of Neuroscience 40:479–98. doi.org/10.1146/annurev-neuro-072116-031548. Abstract ~ Paper",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Temporal specificity of the initial adaptive response in motor adaptation",
+      "year": 2017,
+      "citation_raw": "Joiner WM, Sing GC, Smith MA (2017). Temporal specificity of the initial adaptive response in motor adaptation. PLoS Computational Biology 13(7): e1005438. doi:10.1371/journal.pcbi.1005438. Abstract ~ Paper",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "The Decay of Motor Memories Is Independent of Context Change Detection",
+      "year": 2015,
+      "citation_raw": "Brennan AE & Smith MA (2015). The Decay of Motor Memories Is Independent of Context Change Detection. PLoS Computational Biology 11(6):e1004278. doi:10.1371/journal.pcbi.1004278. Abstract ~ Paper ~ Press Release",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Flexible Control of Safety Margins for Action Based on Environmental Variability",
+      "year": 2015,
+      "citation_raw": "Hadjiosif AM & Smith MA (2015). Flexible Control of Safety Margins for Action Based on Environmental Variability. Journal of Neuroscience 35(24), 92106-9121. Abstract ~ Paper (pdf) ~ Supporting Information (pdf) ~ SEAS News ~ Get a Grip: Boston Globe story",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Temporal structure of motor variability is dynamically regulated and predicts motor learning ability",
+      "year": 2014,
+      "citation_raw": "Wu HG*, Miyamoto YR*, Gonzalez-Castro LN, Olveczky BP & Smith MA (2014). Temporal structure of motor variability is dynamically regulated and predicts motor learning ability. Nature Neuroscience, doi:10.1038/nn.3616. Abstract ~ Paper (pdf) ~ Supporting Information (pdf) ~ News & Views (pdf) ~ Harvard Gazette Story ~ Scientific American Article",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "The training schedule affects the stability, not the magnitude, of the interlimb transfer of learned dynamics",
+      "year": 2013,
+      "citation_raw": "Joiner WM, Brayanov JB & Smith MA (2013). The training schedule affects the stability, not the magnitude, of the interlimb transfer of learned dynamics. Journal of Neurophysiology, 110:984-998 . Abstract ~ Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "The Generalization of Visuomotor Learning to Untrained Movements and Movement Sequences Based on Movement Vector and Goal Location Remapping",
+      "year": 2013,
+      "citation_raw": "Wu HG & Smith MA (2013). The Generalization of Visuomotor Learning to Untrained Movements and Movement Sequences Based on Movement Vector and Goal Location Remapping. Journal of Neuroscience, 33:10772-10789. Abstract ~ Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Limb motion dictates how motor learning arises from arbitrary environmental dynamics",
+      "year": 2013,
+      "citation_raw": "Sing GF, Orozco SP & Smith MA (2013). Limb motion dictates how motor learning arises from arbitrary environmental dynamics. Journal of Neurophysiology, 109:2466-2482. Abstract ~ Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Motor memory is encoded as a gain-field combination of intrinsic and extrinsic action representations",
+      "year": 2012,
+      "citation_raw": "Brayanov JB, Press DZ & Smith MA (2012). Motor memory is encoded as a gain-field combination of intrinsic and extrinsic action representations. Journal of Neuroscience, 32:14951-14965. Abstract ~ Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "The binding of learning to action in motor adaptation",
+      "year": 2011,
+      "citation_raw": "Gonzalez Castro LN, Monsen CB & Smith MA (2011). The binding of learning to action in motor adaptation. Public Library of Science Computational Biology, 7: e1002052. Abstract ~ Paper (pdf) ~ Supporting Information (pdf) ~ SEAS Press Release",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Linear hypergeneralization of learned dynamics across movement speeds reveals anisotropic, gain-encoding primitives for motor adaptation",
+      "year": 2011,
+      "citation_raw": "Joiner WM, Ajayi O, Sing GC & Smith MA (2011). Linear hypergeneralization of learned dynamics across movement speeds reveals anisotropic, gain-encoding primitives for motor adaptation. Journal of Neurophysiology, 105:45-59. Abstract ~ Paper (pdf) ~ Supporting Information (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Eye movement sequence generations in humans: motor or goal updating? Journal of Vision",
+      "year": 2010,
+      "citation_raw": "Quaia C, Joiner WM, FitzGibbon EJ, Optican LM & Smith MA (2010). Eye movement sequence generations in humans: motor or goal updating? Journal of Vision, 10:1-31. Abstract ~ Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Reduction in learning rates associated with anterograde interference results from interactions between different timescales in motor adaptation",
+      "year": 2010,
+      "citation_raw": "Sing GC & Smith MA (2010). Reduction in learning rates associated with anterograde interference results from interactions between different timescales in motor adaptation. Public Library of Science Computational Biology, 6:e10000893. Abstract ~ Paper (pdf) ~ Supporting Information (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "anti-Bayesian",
+      "year": 2010,
+      "citation_raw": "Brayanov JB & Smith MA (2010). Bayesian and \"anti-Bayesian\" biases in sensory integration for action and perception in the size-weight illusion. Journal of Neurophysiology, 103:1518-1531. Abstract ~ Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "anti-Bayesian",
+      "year": 2010,
+      "citation_raw": "Brayanov JB & Smith MA (2010). Bayesian and \"anti-Bayesian\" biases in sensory integration for action and perception in the size-weight illusion. Journal of Neurophysiology, 103:1518-1531. Abstract ~ Paper (pdf) F1000 Comment Shadmehr R, Smith MA & Krakauer JW (2010). Error correction, sensory prediction, and adaptation in motor control. Annual Review of Neuroscience, 33:89-108. Abstract ~ Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Primitives for motor adaptation reflect correlated neural tuning to position and velocity, Neuron",
+      "year": 2009,
+      "citation_raw": "Sing GC, Joiner WM, Nanayakkara T, Brayanov JB & Smith MA (2009). Primitives for motor adaptation reflect correlated neural tuning to position and velocity. Neuron, 64:575-89. Abstract ~ Paper (pdf) ~ Supplementary Materials (pdf) ~ SEAS Press Release ~ NatureJournal Club (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Shared internal models for feedforward and feedback control",
+      "year": 2008,
+      "citation_raw": "Wagner MJ & Smith MA (2008). Shared internal models for feedforward and feedback control. Journal of Neuroscience, 28:10663-73. Abstract ~ Paper (pdf) ~ Supplementary Materials (pdf) ~ Nature Journal Club (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Long-term retention explained by a model of short-term learning in the adaptive control of reaching",
+      "year": 2008,
+      "citation_raw": "Joiner WM & Smith MA (2008). Long-term retention explained by a model of short-term learning in the adaptive control of reaching. Journal of Neurophysiology, 100:2948-55. Abstract ~ Paper (pdf) ~ Supplementary Materials (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "The evolution of force profiles in a motor adaptation task reveals motor primitives with spindle-like properties that predict the difficulty of learning different types of force-field perturbations, Advances in Computational Motor Control, Paper (pdf)",
+      "year": 2007,
+      "citation_raw": "F1000 Comment Sing GC, Joiner WM, Nanayakkara T, Brayanov JB, & Smith MA (2007). The evolution of force profiles in a motor adaptation task reveals motor primitives with spindle-like properties that predict the difficulty of learning different types of force-field perturbations. Advances in Computational Motor Control. Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Interacting adaptive processes underlie short-term motor learning",
+      "year": 2006,
+      "citation_raw": "Smith MA, Ghazizadeh A & Shadmehr R (2006). Interacting adaptive processes underlie short-term motor learning. Public Library of Science Biology, 4:e179. Abstract ~ Synopsis (pdf) ~ Paper (pdf) ~ Supplementary Materials (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Intact ability to learn internal models of arm dynamics in Huntington's disease but not cerebellar degeneration",
+      "year": 2005,
+      "citation_raw": "Smith MA & Shadmehr R (2005). Intact ability to learn internal models of arm dynamics in Huntington's disease but not cerebellar degeneration. Journal of Neurophysiology, 93:2809-21. Abstract ~ Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "A gain-field encoding of limb position and velocity in the internal model of arm dynamics",
+      "year": 2003,
+      "citation_raw": "Hwang EJ, Donchin O, Smith MA & Shadmehr R (2003). A gain-field encoding of limb position and velocity in the internal model of arm dynamics. Public Library of Science Biology, 1:209-20. Abstract ~ Paper (pdf) ~ Supplementary Material ~ Synopsis ~ Review & Primer (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Error correction and the basal ganglia",
+      "year": 2000,
+      "citation_raw": "Smith MA & Shadmehr R (2000). Error correction and the basal ganglia. Trends in Cognitive Science, 4:367-369. Paper (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": "Motor disorder in Huntingtonâ€™s disease begins as a dysfunction in error feedback control",
+      "year": 2000,
+      "citation_raw": "Smith MA, Brandt J & Shadmehr R (2000). Motor disorder in Huntingtonâ€™s disease begins as a dysfunction in error feedback control. Nature, 403:544-49. Abstract ~ Paper (pdf) ~ Nature News & Views (pdf)",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2014,
+      "citation_raw": "Conference Abstracts Hadjiosif AM, Mallett KE, & Smith MA. The effect of visual feedback latency on the retention and internal representation of visuomotor learning. Society for Neuroscience (2014).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2014,
+      "citation_raw": "Miyamoto YR & Smith MA. A modified random walk describes the low dimensional structure of motor variability in reaching trajectories. Society for Neuroscience (2014).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2014,
+      "citation_raw": "Smith MA & Hadjiosif AM. Time scales of motor memory in cerebellar ataxia. Society for Neuroscience (2014).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2014,
+      "citation_raw": "Brennan AE & Smith MA. Decay of motor memories is independent of context change detection. Society for Neuroscience (2014).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2014,
+      "citation_raw": "Press D, Miyamoto YR, Breton JM, Brayanov JB, & Smith MA. The effect of coordinate frame on motor learning in Alzheimer's disease. Society for Neuroscience (2014).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "Breton JM, Press D, & Smith MA. Identifying the constituents of motor sequence skill learning: Local spatial facilitation, local temporal inhibition and subsequence learning. Society for Neuroscience (2013).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "Press D, Brayanov JB, Tunovic S, & Smith MA. Inhibition of posterior parietal cortex with 1hz rTMS alters the spatial frame of motor learning. Society for Neuroscience (2013).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "Miyamoto YR & Smith MA. Analysis of individual differences in motor adaptation suggests one homogenous two-state population. Society for Neuroscience (2013).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "Hadjiosif AM & Smith MA. Generalization of the temporally-labile and temporally-stable components of motor memory. Society for Neuroscience (2013).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "Brennan AE, Wu HG, & Smith MA. The identification and characterization of a rapidly-decaying, high-precision proprioceptive sensory memory & its effects on motor planning. Society for Neuroscience (2013).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2013,
+      "citation_raw": "Hadjiosif AM & Smith MA. The motor system implements smart safety margins based on estimates of environmental variability for both grip force control and obstacle avoidance. Society for Neuroscience (2013).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "Hadjiosif AM, Petreska B, & Smith MA. Mechanisms underlying the temporal stability of visuomotor adaptation. Society for Neuroscience (2012).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "Brennan AE, Hadjiosif AM, Gonzalez-Castro LN, & Smith MA. Mechanisms for structural learning. Society for Neuroscience (2012).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "Petreska B, Brayanov JB, & Smith MA. The global and local components of visuomotor generalization evolve at different rates. Society for Neuroscience (2012).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "Miyamoto YR & Smith MA. Understanding the structure of individual differences in motor adaptation. Society for Neuroscience (2012).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2012,
+      "citation_raw": "Beuchat NJ, Cajigas I, Smith MA, & Bonato P. Inferring motor adaptation dynamics from the Force-Field Adaptation Paradigm using the Expectation-Maximization algorithm. Society for Neuroscience (2012).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "Gonzalez-Castro LN, Wu HG, & Smith MA. Local generalization in the adaptive control of reaching arm movements. Society for Neuroscience (2011).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "Brayanov JB, Petreska B, & Smith MA. Visuomotor transformations elicit simultaneous learning in two distinct coordinate systems. Society for Neuroscience (2011).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "Hadjiosif AM, & Smith MA. Variance and higher order statistics drive grip force adaptation. Society for Neuroscience (2011).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "Press D, Brayanov JB, & Smith MA. Dysfunctional extrinsic spatial representations for motor adaptation in Alzheimer’s disease. Society for Neuroscience (2011).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "Wu HG, Brayanov JB, Gonzalez-Castro LN, & Smith MA. Patterns of generalization and interference reveal differential plasticity in forward and inverse models. Society for Neuroscience (2011).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2011,
+      "citation_raw": "Miyamoto YR, Olveczky BP, & Smith MA. Investigating the role of motor output variability in human reward-based motor learning. Society for Neuroscience (2011).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "Cajigas I, Goldsmith MT, Smith MA, Brown EN, & Bonato P. Assessment of lower extremity motor adaptation via an extension of the force field adaptation paradigm. Society for Neuroscience (2010).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "Hadjiosif AM, Brayanov JB, & Smith MA. Grip force adaptation during a reaching task reflects uncertainty on environmental dynamics. Society for Neuroscience (2010).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "Gonzalez-Castro LN, Hung PW, & Smith MA. Force-field interference prevents normal adaptation to conflicting force-fields and modulates the degree of learning generalization. Society for Neuroscience (2010).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "Sing GC, Wu HG, Gonzalez-Castro LN, Gabriel G, & Smith MA. The relationship between the temporal structure of motor output variability and motor adaptation rates. Society for Neuroscience (2010).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "Wu HG & Smith MA. Adaptation to visuomotor rotation remaps both positions and movement vectors. Society for Neuroscience (2010).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2010,
+      "citation_raw": "Brayanov JB, Akinfenwa O, Dale L, Orozco SP, & Smith MA. Quantifying the contexts for state dependence in motor adaptation. Society for Neuroscience (2010).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "Joiner WM, Ajayi O, Sing GC, Orozco SP, & Smith MA. Linear hypergeneralization across movement speeds reveals anisotropic, gain-encoding primitives for motor adaptation and linear extrapolation of learning rate. Society for Neuroscience (2009).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "Brayanov JB, Sing GC, Fiore GA, & Smith MA. Breaking down motor adaptation: Direct measurements of adaptive subcomponents reveals the functional architecture for learning and forgetting. Society for Neuroscience (2009).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "Gonzalez-Castro LN, Hemphill M, & Smith MA. Upregulation and downregulation of motor adaptation rates via modulation of environmental consistency. Society for Neuroscience (2009).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2009,
+      "citation_raw": "Sing GC & Smith MA. Interference between state-dependent dynamics has a complex structure that can be explained by the neural coding of limb motion. Society for Neuroscience (2009).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "Gonzalez-Castro LN, Monsen CB, Brayanov JB, & Smith MA. Generalization in the active decay of motor memories. Society for Neuroscience (2008).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "Wu HG & Smith MA. Movement vectors and targets contribute equally to movement planning but unequally to visuomotor rotation learning. Society for Neuroscience (2008).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "Sing GC, Najafi B, & Smith MA. Inter-trial spacing increases retention in motor adaptation by specifically raising the level of a slow learning process. Society for Neuroscience (2008).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "Smith MA, Gonzalez-Castro LN, Monsen CB, & Brayanov JB. Adaptive changes in arm dynamics are experience-dependent rather than goal-dependent. Society for Neuroscience (2008).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "Brayanov JB, Orozco S, & Smith MA. Mental arithmetic in the human motor system during anticipatory postural adjustments. Society for Neuroscience (2008).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2008,
+      "citation_raw": "Najafi B, Armstrong DG, & Smith MA. The role of feedforward prediction in postural control. Society for Neuroscience (2008).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2007,
+      "citation_raw": "Wagner MJ & Smith MA. Task-specific feedback control in reaching movements: full expression of trained force field internal model dynamics in untrained perturbation responses. Society for Neuroscience (2007).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2007,
+      "citation_raw": "Sing GC & Smith MA. Explanation of savings in arm-reaching movements by a two-state learning model. Society for Neuroscience (2007).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2007,
+      "citation_raw": "Brayanov JB, Orozco S & Smith MA. Anticipatory Postural Adjustments during the Size-Weight Illusion reveal simultaneous Bayesian and anti-Bayesian weight estimation in the nervous system. Society for Neuroscience (2007).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2007,
+      "citation_raw": "Joiner WM, Sing GC, Brayanov JB, Gonzalez-Castro LN, & Smith MA. Difficulty in the adaptive control of reaching arm movements predicted by a simple network model with realistic sensory input. Society for Neuroscience (2007).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2007,
+      "citation_raw": "Najafi B & Smith MA. Mechanisms underlying the decay of newly learned motor skills. Society for Neuroscience (2007).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2004,
+      "citation_raw": "Smith MA & Shadmehr R. State Space Modeling of Motor Learning Reveals that Adaption Rate Varies with the Statistical Properties of a Distubance Signal. Computational Neuroscience Meeting (2004).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 2001,
+      "citation_raw": "Smith MA & Shadmehr R. Analysis of Error Correction Mechanisms in Huntingtonâ€™s Disease and Cerebellar dysfunction. Society for Neuroscience (2001).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 1999,
+      "citation_raw": "Smith MA & Shadmehr R. The Motor Disorder in Huntingtonâ€™s Disease may begin as a Disorder in Error Feedback Control. Society for Neuroscience (1999).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    },
+    {
+      "title": null,
+      "year": 1997,
+      "citation_raw": "Smith MA & Shadmehr R. Motor Learning Disorders in Gene Positive but Presymtomatic Huntingtonâ€™s Disease. Society for Neuroscience (1997).",
+      "source_url": "https://groups.seas.harvard.edu/motorlab/publications.html"
+    }
+  ]
+}

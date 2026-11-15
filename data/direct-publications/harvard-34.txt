@@ -1,0 +1,737 @@
+URL: https://seas.harvard.edu/person/yilun-du
+Skip to main content
+Main navigation
+ACADEMICS
+FACULTY & RESEARCH
+NEWS
+EVENTS
+OFFICES & SERVICES
+ABOUT US
+INFORMATION FOR
+Alumni
+Industry Partners & Recruiters
+Prospective Students
+Shortcuts
+EMPLOYMENT & JOBS
+VISIT US
+MAKE A GIFT
+SEARCH
+SEARCH
+MENU
+ABOUT SEAS
+DIRECTORY
+Yilun Du
+Assistant Professor of Computer Science
+PRIMARY TEACHING AREA
+Computer Science
+CONTACT
+150 Western Ave, Sci&Eng SEC 6.138
+ydu@seas.harvard.edu
+WEBSITES
+yilundu.github.io
+STAFF CONTACT
+Mike Donohoe
+Pierce Hall 223B
+donohoe@seas.harvard.edu
+RESEARCH AREAS
+Bioengineering
+Bioinspired Robotics and Computing
+Biomechanics and Motor Control
+Computer Science
+Machine Learning
+Graphics, Vision, and Visualization
+Robotics and Control
+Electrical & Computer Engineering
+Robotics and Control
+Materials and Mechanical Engineering
+Robotics and Control
+RELATED NEWS
+JUL 6, 2026
+An AI-Powered Control System For Robots With Legs
+
+Diffusion-MPC helps robot plan tasks
+
+AI / Machine Learning, Computer Science, Electrical & Computer Engineering, Research, Robotics, Technology
+
+Harvard John A. Paulson School of Engineering and Applied Sciences
+
+150 Western Ave, Allston, MA 02134
+29 Oxford Street, Cambridge, MA 02138
+
+Column 1
+UNDERGRADUATE PROGRAMS WITHIN:
+Applied Mathematics
+Bioengineering
+Computer Science
+Electrical & Computer Engineering
+Energy, Climate, & the Environment
+Engineering Sciences
+Environmental Science & Engineering
+Materials Science and Mechanical Engineering
+Column 2
+GRADUATE PROGRAMS
+Applied Mathematics
+Applied Physics
+Bioengineering
+Computer Science
+Electrical & Computer Engineering
+Environmental Science & Engineering
+Materials Science and Mechanical Engineering
+Column 3
+MASTER'S PROGRAMS
+Master's in Data Science
+Master's in Computational Science and Engineering
+Master in Design Engineering
+MS/MBA: Engineering Science
+PROFESSIONAL EDUCATION
+Column 4
+Faculty & Research
+News
+Events
+Offices & Services
+Prospective Students
+Visit Us
+Alumni
+Footer - Social Media Links
+Facebook
+X
+Instagram
+YouTube
+LinkedIn
+© 2026 President and Fellows of Harvard College
+Footer
+Trademark Notice
+ Accessibility
+ Digital Accessibility
+ Privacy Statement
+
+=====
+
+URL: https://yilundu.github.io/
+Skip to main content
+Yilun Du
+
+Assistant Professor of Computer Science
+Harvard University · Kempner Institute
+
+Email
+Google Scholar
+CV
+Research Perspective
+Thesis
+Lab
+GitHub
+X / Twitter
+About
+Research
+News
+Publications
+About Yilun Du
+
+We study how intelligent systems can learn reusable models, then compose and reason with them at inference time.
+
+Central question: What should models represent so that inference-time reasoning can solve novel problems?
+
+Unfamiliar tasks can often be decomposed into locally familiar pieces. We develop learned models of these components—from constraints on valid solutions to predictions of how actions change the world—so that the same knowledge can be adapted and used to solve different, unseen problems. We use inference as a tool to combine relevant models and search for solutions that satisfy and are consistent across models.
+
+Energy-based and diffusion models are common tools we have used in the past for capturing and composing this structure. We have studied these ideas across generation, reasoning, and decision making, including systems that coordinate multiple models or agents. A central goal of our research is to build robots that can combine knowledge of objects, dynamics, and skills to plan and act in unfamiliar environments.
+
+I lead the Embodied Minds Lab at Harvard and am a part-time research scientist at NVIDIA Research. I received my PhD from MIT EECS, advised by Leslie Kaelbling, Tomas Lozano-Pérez, and Joshua B. Tenenbaum. Before Harvard, I held research roles at OpenAI and Google DeepMind.
+
+Research
+DURING TRAINING
+Learn reusable knowledge
+Patterns and relationships shared across tasks
+sample · optimize · compose · plan
+AT INFERENCE TIME
+Solve new problems
+New goals, constraints, and environments
+Generative Inference
+
+KNOWLEDGE
+Solution spaces
+REASONING
+Sample and refine
+
+We study how to construct and refine solutions using a learned generative model. Sampling and optimization use the model to propose candidates and improve them. We develop representations and inference procedures to make this search reliable and adapt computation to the problem.
+
+Examples:
+Reasoning with Sampling improves language-model reasoning by changing the sampling procedure while keeping the model fixed.
+Deep EBMs learn energy landscapes for generation and conditional inference.
+Reduce, Reuse, Recycle develops samplers for composing pretrained diffusion models.
+
+Compositional Inference
+
+KNOWLEDGE
+Concepts, constraints, and skills
+REASONING
+Compose and solve
+
+We study how to combine learned models and task requirements to define new inference problems. Models of concepts, constraints, and skills provide reusable components, while inference searches for solutions that satisfy the combined requirements. This lets us tackle new combinations without learning a separate model for each complete task.
+
+Examples:
+Composable diffusion models combine learned concepts to generate unfamiliar combinations.
+Diffuser reuses a trajectory model under different goals and constraints.
+Compositional energy minimization assembles subproblem energies to solve larger reasoning problems.
+
+World Models & Robotics
+
+KNOWLEDGE
+World dynamics
+REASONING
+Predict and plan
+
+We study how robots can use learned world models to plan and act in unfamiliar environments. These models predict the consequences of possible actions, while planning searches for actions that achieve the current goal. This lets robots reuse the same knowledge across tasks and adjust their behavior as goals and environments change.
+
+Examples:
+UniPi generates video plans that can be translated into actions.
+Video Language Planning searches language and video predictions for long-horizon plans.
+Large Video Planner uses a pretrained video model to guide robot control.
+
+Multi-Agent Intelligence
+
+KNOWLEDGE
+Distributed across agents
+REASONING
+Debate and verify
+
+We study multiagent computation as a way to scale language-model intelligence. Rather than relying only on stronger individual models or longer reasoning traces, we train complementary agents and organize how they explore, verify, and combine solutions. The central question is how additional collective computation can produce capabilities beyond those of individual models.
+
+Examples:
+Multi-agent debate lets models critique and revise candidate answers.
+Multi-agent verification combines multiple verifiers to evaluate candidate solutions.
+Economy of Minds organizes agents through task-dependent economic interactions.
+
+I develop the broader argument connecting these directions in Generalization by Construction, a research perspective on what learning should leave open for inference. My PhD thesis and thesis defense provide a description of this view through energy-based modeling, compositional inference, and planning.
+
+News & updates
+[Perspective] I wrote Generalization by Construction, a research perspective on what learning should leave open for inference.
+[Website] We launched an overview of our work on Energy-Based Models, showing how learned energy landscapes can be optimized and composed at inference time.
+[2026] I am recruiting PhD students for the December 2026 application cycle through the Embodied Minds Lab.
+[2026] We organized the ICML 2026 workshop on compositional learning.
+[Talk] Presented compositional world models for embodied intelligence at the Kempner Frontiers of NeuroAI Symposium. Watch the talk.
+Publications
+Selected
+All publications
+Topics:
+All
+Generative Inference
+Compositional Inference
+World Models & Robotics
+Multi-Agent Intelligence
+Search publications
+Searching automatically opens the full publication archive.
+Filter by year
+All years
+2026
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+Showing 34 of 34 selected publications
+RAX: Scaling Online Exploration for Robot Agents
+
+Runhan Huang*, Xiangcheng Zhang*, Haoyu Chen, Yitong Li, Yen-Jen Wang, Bohan Lyu, Haotian Ye, Chuye Hong, Yixuan Wang, Chloe Su, Haoyu Xiong, Yangzhen Wu, Enze Xie, Travis Manderson, Stefano Ermon, Pieter Abbeel, Antonio Torralba, Dawn Song, Weirui Ye, Yilun Du
+
+2026
+·
+World Models & Robotics
+
+CoRL 2026 Late-Breaking Results
+Website
+Paper
+Code
+
+Model-Based Online Decision Making via Generative Trajectory Planning
+
+Haldun Balim, Yilun Du†, Na Li†
+
+2026
+·
+World Models & Robotics
+·
+Generative Inference
+
+NeurIPS 2026
+Website
+Paper
+Code
+
+Finetuning with Sampling: SFT Learns Better Than You Think
+
+Aayush Karan, Sitan Chen, Yilun Du
+
+2026
+·
+Generative Inference
+
+NeurIPS 2026
+Website
+Paper
+Code
+
+Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions
+
+Zhenting Qi, Huangyuan Su, Ao Qu, Chenyu Wang, Yu Yao, Han Zheng, Kushal Chattopadhyay, Guowei Xu, Zihan Wang, Weirui Ye, Vijay Janapa Reddi, Ju Li, Paul Pu Liang, Himabindu Lakkaraju, Sham Kakade, Yilun Du
+
+2026
+·
+Multi-Agent Intelligence
+
+NeurIPS 2026
+Paper
+Website
+Code
+
+Equilibrium Matching: Generative Modeling with Implicit Energy-Based Models
+
+Runqian Wang, Yilun Du
+
+2026
+·
+Generative Inference
+
+NeurIPS 2026
+Website
+Paper
+Code
+
+Energy-Based Policy Orchestration
+
+Weirui Ye*, Yen-Jen Wang*, Elvis Hsieh*, Zhiyang Dou, Shibo Zhao, Pieter Abbeel, Yilun Du, Leslie Pack Kaelbling, Tomás Lozano-Pérez
+
+2026
+·
+World Models & Robotics
+·
+Compositional Inference
+
+CoRL 2026
+Website
+Paper
+
+Learning to Be Different: Component Specialization for Compositional Diffusion Policies
+
+Alec Laprevotte, Haonan Chen, Xiaoshen Han, Yilun Du
+
+2026
+·
+World Models & Robotics
+·
+Compositional Inference
+·
+Generative Inference
+
+CoRL 2026
+Website
+Paper
+Code
+
+Large Video Planner Enables Generalizable Robot Control
+
+Boyuan Chen*, Tianyuan Zhang*, Haoran Geng*, Kiwhan Song, Caiyi Zhang, Peihao Li, William T. Freeman, Jitendra Malik, Pieter Abbeel, Russ Tedrake, Vincent Sitzmann, Yilun Du
+
+2026
+·
+World Models & Robotics
+·
+Generative Inference
+
+CoRL 2026
+Website
+Paper
+Hugging Face Demo
+Code
+
+OAT: Ordered Action Tokenization
+
+Chaoqi Liu, Xiaoshen Han, Jiawei Gao, Yue Zhao, Haonan Chen, Yilun Du
+
+2026
+·
+World Models & Robotics
+·
+Generative Inference
+
+RSS 2026Outstanding Paper Finalist
+Project Page
+Paper
+Code
+𝕏 Article
+
+Flexible Locomotion Learning with Diffusion Model Predictive Control
+
+Runhan Huang, Haldun Balim, Heng Yang, Yilun Du
+
+2026
+·
+World Models & Robotics
+·
+Compositional Inference
+·
+Generative Inference
+
+ICRA 2026
+Website
+Paper
+Code
+
+Reasoning with Sampling: Your Base Model is Smarter Than You Think
+
+Aayush Karan, Yilun Du
+
+2026
+·
+Generative Inference
+
+ICLR 2026Oral
+Website
+Paper
+Code
+
+Inference-time Scaling of Diffusion Models through Classical Search
+
+Xiangcheng Zhang, Haowei Lin, Haotian Ye, James Zou, Jianzhu Ma, Yitao Liang, Yilun Du
+
+2026
+·
+Compositional Inference
+·
+Generative Inference
+
+ICLR 2026
+Website
+Paper
+Code
+
+Energy-Based Transformers are Scalable Learners and Thinkers
+
+Alexi Gladstone, Ganesh Nanduru, Md Mofijul Islam, Peixuan Han, Hyeonjeong Ha, Aman Chadha, Yilun Du, Heng Ji, Jundong Li, Tariq Iqbal
+
+2026
+·
+Generative Inference
+
+ICLR 2026Oral
+Website
+Paper
+Code
+
+Generalizable Reasoning through Compositional Energy Minimization
+
+Alexandru Oarga, Yilun Du
+
+2025
+·
+Compositional Inference
+·
+Generative Inference
+
+NeurIPS 2025Spotlight
+Website
+Paper
+Code
+
+Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers
+
+Shalev Lifshitz, Sheila A. McIlraith, Yilun Du
+
+2025
+·
+Multi-Agent Intelligence
+
+CoLM 2025
+Website
+Paper
+Code
+
+Compositional Scene Understanding through Inverse Generative Modeling
+
+Yanbo Wang, Justin Dauwels, Yilun Du
+
+2025
+·
+World Models & Robotics
+·
+Generative Inference
+·
+Compositional Inference
+
+ICML 2025
+Website
+Paper
+Code
+
+Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains
+
+Vighnesh Subramaniam*, Yilun Du*, Joshua B. Tenenbaum, Antonio Torralba, Shuang Li, Igor Mordatch
+
+2025
+·
+Multi-Agent Intelligence
+
+ICLR 2025
+Website
+Code
+Paper
+
+Grounding Video Models to Actions through Goal Conditioned Exploration
+
+Yunhao Luo, Yilun Du
+
+2025
+·
+World Models & Robotics
+
+ICLR 2025Spotlight
+Website
+Code
+Paper
+
+Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion
+
+Boyuan Chen, Diego Marti Monso, Yilun Du, Max Simchowitz, Russ Tedrake, Vincent Sitzmann
+
+2024
+·
+Generative Inference
+·
+World Models & Robotics
+
+NeurIPS 2024
+Website
+Paper
+Code
+
+Learning Generalizable Systems by Learning Composable Energy Landscapes
+
+Yilun Du
+
+2024
+·
+Generative Inference
+·
+Compositional Inference
+·
+World Models & Robotics
+
+PhD Thesis 2024
+
+Compositional Generative Modeling: A Single Model is Not All You Need
+
+Yilun Du, Leslie Kaelbling
+
+2024
+·
+Generative Inference
+·
+Compositional Inference
+
+ICML 2024
+Paper
+
+Improving Factuality and Reasoning in Language Models through Multiagent Debate
+
+Yilun Du, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, Igor Mordatch
+
+2024
+·
+Multi-Agent Intelligence
+
+ICML 2024
+Website
+Paper
+Code
+
+Video Language Planning
+
+Yilun Du, Sherry Yang, Pete Florence, Fei Xia, Ayzaan Wahid, Brian Ichter, Pierre Sermanet, Tianhe Yu, Pieter Abbeel, Joshua B. Tenenbaum, Leslie Kaelbling, Andy Zeng, Jonathan Tompson
+
+2024
+·
+World Models & Robotics
+·
+Compositional Inference
+·
+Generative Inference
+
+ICLR 2024
+Website
+Paper
+Code
+
+Learning Interactive Real-World Simulators
+
+Mengjiao Yang, Yilun Du, Kamyar Ghasemipour, Jonathan Tompson, Leslie Kaelbling, Dale Schuurmans, Pieter Abbeel
+
+2024
+·
+World Models & Robotics
+·
+Generative Inference
+
+ICLR 2024Outstanding Paper Award
+Website
+Paper
+
+Learning Universal Policies via Text-Guided Video Generation
+
+Yilun Du*, Mengjiao Yang*, Bo Dai, Hanjun Dai, Ofir Nachum, Joshua B. Tenenbaum, Dale Schuurmans, Pieter Abbeel
+
+2023
+·
+World Models & Robotics
+·
+Generative Inference
+
+NeurIPS 2023Spotlight
+Website
+Paper
+
+Reduce, Reuse, Recycle: Compositional Generation with Energy-Based Diffusion Models and MCMC
+
+Yilun Du, Conor Durkan, Robin Strudel, Joshua B. Tenenbaum, Sander Dieleman, Rob Fergus, Jascha Sohl-Dickstein, Arnaud Doucet, Will Grathwohl
+
+2023
+·
+Generative Inference
+·
+Compositional Inference
+
+ICML 2023
+Website
+Colab
+Tapestry Colab
+Code
+Paper
+
+Diffusion Policy: Visuomotor Policy Learning via Action Diffusion
+
+Cheng Chi, Siyuan Feng, Yilun Du, Zhenjia Xu, Eric Cousineau, Benjamin Burchfiel, Shuran Song
+
+2023
+·
+World Models & Robotics
+·
+Generative Inference
+
+RSS 2023
+Website
+Code
+Paper
+
+Is Conditional Generative Modeling all You Need for Decision-Making?
+
+Anurag Ajay*, Yilun Du*, Abhi Gupta*, Joshua B. Tenenbaum, Tommi S. Jaakkola, Pulkit Agrawal
+
+2023
+·
+World Models & Robotics
+·
+Generative Inference
+·
+Compositional Inference
+
+ICLR 2023OralTop 5%
+Website
+Paper
+Code
+
+Compositional Visual Generation with Composable Diffusion Models
+
+Nan Liu*, Shuang Li*, Yilun Du*, Antonio Torralba, Joshua B. Tenenbaum
+
+2022
+·
+Generative Inference
+·
+Compositional Inference
+
+ECCV 2022
+Website
+Paper
+Code
+Colab
+
+Planning with Diffusion for Flexible Behavior Synthesis
+
+Michael Janner*, Yilun Du*, Joshua B. Tenenbaum, Sergey Levine
+
+2022
+·
+World Models & Robotics
+·
+Compositional Inference
+·
+Generative Inference
+
+ICML 2022Long Talk
+Website
+Paper
+Code
+Colab
+
+Learning Iterative Reasoning through Energy Minimization
+
+Yilun Du, Shuang Li, Joshua B. Tenenbaum, Igor Mordatch
+
+2022
+·
+Generative Inference
+
+ICML 2022
+Website
+Paper
+Code
+
+Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation
+
+Anthony Simeonov*, Yilun Du*, Andrea Tagliasacchi, Joshua B. Tenenbaum, Alberto Rodriguez, Pulkit Agrawal†, Vincent Sitzmann†
+
+2022
+·
+World Models & Robotics
+
+ICRA 2022
+Website
+Paper
+Code
+Colab
+
+Compositional Visual Generation and Inference with Energy Based Models
+
+Yilun Du, Shuang Li, Igor Mordatch
+
+2020
+·
+Generative Inference
+·
+Compositional Inference
+
+NeurIPS 2020Spotlight
+Paper
+Project Page
+Code
+
+Implicit Generation and Generalization with Energy Based Models
+
+Yilun Du, Igor Mordatch
+
+2019
+·
+Generative Inference
+
+NeurIPS 2019Spotlight
+Paper
+Website
+Code
+OpenAI Blog
+
+* Equal contribution; † equal advising.
+
+© 2026 Yilun Du
+Back to top

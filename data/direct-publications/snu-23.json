@@ -1,0 +1,883 @@
+{
+  "university": "Seoul National University",
+  "university_key": "snu",
+  "pi": "이동준",
+  "pi_en": "Lee, Dongjun",
+  "lab_name": "인터랙티브/네트워크 로보틱스 연구실",
+  "lab_url": "https://www.inrol.snu.ac.kr/",
+  "publication_urls": [
+    "https://www.inrol.snu.ac.kr/journal",
+    "https://www.inrol.snu.ac.kr/conference"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Finger-based 3D Human-Swarm Interaction Interface: Design and Human-Subject Evaluation",
+      "year": 2026,
+      "citation_raw": "[54] J. Heo, H. Kim, E. Lee, Y. Lee, H. Park, S. Huh, S. Lee, Y. Lee, and D.J. Lee, Finger-based 3D Human-Swarm Interaction Interface: Design and Human-Subject Evaluation, Expert Systems With Applications, 2026 (Online, Youtube)[pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Fast and Robust Online Initialization of Monocular Visual-Inertial Odometry via One-Dimensional Cost Approximation",
+      "year": 2026,
+      "citation_raw": "[53] J. Kang, J. Choe, D. Kong, B. Yoon, J. Cho, and D.J. Lee, Fast and Robust Online Initialization of Monocular Visual-Inertial Odometry via One-Dimensional Cost Approximation, IEEE Transactions on Robotics, 2026 (Online, Youtube)[pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Real-Time Constraint-Aware Inverse Kinematics via Passivity-Based Dynamics Simulation",
+      "year": 2026,
+      "citation_raw": "[52] J. Lee and D.J. Lee, Real-Time Constraint-Aware Inverse Kinematics via Passivity-Based Dynamics Simulation, IEEE Robotics & Automation Letters, 2026 (Online, Youtube)[pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Narrow Passage Path Planning via Homotopy-Preserving Collision Constraint Interpolation",
+      "year": 2025,
+      "citation_raw": "[51] M. Lee, J. Lee and D. J. Lee, Narrow Passage Path Planning via Homotopy-Preserving Collision Constraint Interpolation, IEEE Transactions on Robotics, 2025 (Online, Youtube)[pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Enlarging Error Detection Threshold of IMU-based Hand Tracking in VR with Haptic Feedback",
+      "year": 2025,
+      "citation_raw": "[50] Y. Lee, and D. J. Lee, Enlarging Error Detection Threshold of IMU-based Hand Tracking in VR with Haptic Feedback, International Journal of Human-Computer Interaction, 2025 (Online)[pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Human-in-the-Loop Gaussian Splatting for Robotic Teleoperation",
+      "year": 2025,
+      "citation_raw": "[49] Y. Lee, H. Kim, H. Ji, J. Heo, Y. Lee, J. Kang, J. Lee and D. J. Lee, Human-in-the-Loop Gaussian Splatting for Robotic Teleoperation, IEEE Robotics & Automation Letters, 2025 (Online, Youtube)[pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Variations of Augmented Lagrangian for Robotic Multi-Contact Simulation",
+      "year": 2025,
+      "citation_raw": "[48] J. Lee, M. Lee, S. Park, J. Yun and D. J. Lee, Variations of Augmented Lagrangian for Robotic Multi-Contact Simulation, IEEE Transactions on Robotics, 2025 (Online, Youtube)[pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Variations of Augmented Lagrangian for Robotic Multi-Contact Simulation",
+      "year": 2025,
+      "citation_raw": "[48] J. Lee, M. Lee, S. Park, J. Yun and D. J. Lee, Variations of Augmented Lagrangian for Robotic Multi-Contact Simulation, IEEE Transactions on Robotics, 2025 (Online, Youtube)[pdf] [47] J. Lee, D. Kong, H. Cha, J. Lee, D. Ryu, H. Shin and D. J. Lee, Wrench Control of Dual-Arm Robot on Flexible Base with Supporting Contact Surface, IEEE Transactions on Robotics, 2025 (Open Access, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Real-time Excavation Trajectory Modulation for Slip and Rollover Prevention",
+      "year": 2025,
+      "citation_raw": "[46] C. Kim, B. Son, M. Lee, H. Choi, S. Hong, M. Kang, J. Moon, D. Kim and D. J. Lee, Real-time Excavation Trajectory Modulation for Slip and Rollover Prevention, IEEE Robotics & Automation Letters, 2025 (Open Access, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Directional Correspondence Based Cross-Source Point Cloud Registration for USV-UAV Cooperation in Lentic Environments",
+      "year": 2024,
+      "citation_raw": "[45] B. Yoon, S. Hong and D. J. Lee, Directional Correspondence Based Cross-Source Point Cloud Registration for USV-UAV Cooperation in Lentic Environments, IEEE Robotics & Automation Letters, 10(2), pp. 1601-1608, 2024 (Open Access, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Hand Tracking: Survey",
+      "year": 2024,
+      "citation_raw": "[44] J. Heo, H. Choi, Y. Lee, H. Kim, H. Ji, H. Park, Y. Lee, C. Jung, H-N. Nguyen, and D. J. Lee, Hand Tracking: Survey, International Journal of Control, Automation, and Systems, v22, pp. 1761–1778, 2024 (Open Access)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Online 3D Edge Reconstruction of Wiry Structures from Monocular Image Sequences",
+      "year": 2023,
+      "citation_raw": "[43] H. Choi, M. Lee, J. Kang, and D. J. Lee, Online 3D Edge Reconstruction of Wiry Structures from Monocular Image Sequences, IEEE Robotics & Automation Letter, 8(11), pp. 7479-7486, 2023 (Open Access, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Planned Trajectory Classification for Wheeled Mobile Robots to Prevent Rollover and Slip",
+      "year": 2023,
+      "citation_raw": "[42] S-Y. Jeon, R. Chung & D. J. Lee, Planned Trajectory Classification for Wheeled Mobile Robots to Prevent Rollover and Slip, IEEE Robotics & Automation Letters, 8(7), p.4227-4234, 2023 (Open Access, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Large-Dimensional Multibody Dynamics Simulation Using Contact Nodalization and Diagonalization",
+      "year": 2023,
+      "citation_raw": "[41] J. Lee, M. Lee and D. J. Lee, Large-Dimensional Multibody Dynamics Simulation Using Contact Nodalization and Diagonalization, IEEE Transactions on Robotics, 39(2), p.1419-1438, 2023 (Open Access, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Tunable Impact and Vibration Absorbing Neck for Robust Visual-Inertial State Estimation for Dynamic Legged Robots",
+      "year": 2023,
+      "citation_raw": "[40] T. Kim, S. Kim and D. J. Lee, Tunable Impact and Vibration Absorbing Neck for Robust Visual-Inertial State Estimation for Dynamic Legged Robots, IEEE Robotics & Automation Letters, 8(3), p.1431-1438, 2023 (Open Access, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Lee Precision Motion Control of Robotized Industrial Hydraulic Excavators via Data-Driven Model Inversion",
+      "year": 2022,
+      "citation_raw": "[39] M. Lee, H. Choi, C. Kim, J. H. Moon, D. Kim and D. J. Lee Precision Motion Control of Robotized Industrial Hydraulic Excavators via Data-Driven Model Inversion, IEEE Robotics & Automation Letters, 7(2), pp. 1912-1919, 2022 (Open Access, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Visual-Inertial Hand Motion Tracking with Robustness against Occlusion, Interference, and Contact",
+      "year": 2021,
+      "citation_raw": "[38] Y. Lee, W. Do, H. Yoon, J. Heo, W. Lee and D. J. Lee, Visual-Inertial Hand Motion Tracking with Robustness against Occlusion, Interference, and Contact, Science Robotics, 6(58), 2021 (Link, Preprint, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Suárez, D. J, Lee and A, Franchi, Past, Present",
+      "year": 2022,
+      "citation_raw": "[37] A. Ollero, M. Tognon, A. Suárez, D. J. Lee and A. Franchi, Past, Present, and Future of Aerial Robotic Manipulators, IEEE Transactions on Robotics, 38(1), pp. 626-645, 2022 (Open Access)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "A Distributed Two-Layer Framework for Teleoperated Platooning of Fixed-Wing UAVs via Decomposition and Backstepping",
+      "year": 2021,
+      "citation_raw": "[36] M. Lee and D. J. Lee, A Distributed Two-Layer Framework for Teleoperated Platooning of Fixed-Wing UAVs via Decomposition and Backstepping, IEEE Robotics & Automation Letters, 6(2), p.3655-3662, 2021 (Open Access)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Long-Term Evaluation and Calibration of Low-Cost Particulate Matter (PM) Sensor, Sensors",
+      "year": 2020,
+      "citation_raw": "[35] H. Lee, J. Kang, S. Kim, Y. Im, S. Yoo and D. J. Lee, Long-Term Evaluation and Calibration of Low-Cost Particulate Matter (PM) Sensor, Sensors, 20, 3617, 2020 (Open Access)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Stretchable Skin‐Like Cooling/Heating Device for Reconstruction of Artificial Thermal Sensation in Virtual Reality",
+      "year": 2020,
+      "citation_raw": "[34] J. Lee, H. Sul, W. Lee, K. R. Pyun, I. Ha, D. Kim, H. Park, H. Eom, Y. Yoon, J. Jung, D. J. Lee and S. H. Ko, Stretchable Skin‐Like Cooling/Heating Device for Reconstruction of Artificial Thermal Sensation in Virtual Reality. Advanced Functional Materials. 2020, 30, 1909171 (Online)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Highly Stretchable Cu Nanowire Thermo-haptic Heater for the Replication of Heat Feeling in a Virtual World",
+      "year": 2020,
+      "citation_raw": "[33] D. Kim, J. Bang, W. Lee, I. Ha, J. Lee, H. Eom, M. Kim, J. Park, J. Choi, J. Kwon, S. Han, H. Park, D. Lee, S.H. Ko, Highly Stretchable Cu Nanowire Thermo-haptic Heater for the Replication of Heat Feeling in a Virtual World, Journal of Materials Chemistry A, 8, 8281-8291, 2020 (Online)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Modeling and Velocity-Field Control of Autonomous Excavator with Main Control Valve, Automatica",
+      "year": 2019,
+      "citation_raw": "[32] K. Kim, M. Kim, D. Kim and D. J. Lee, Modeling and Velocity-Field Control of Autonomous Excavator with Main Control Valve, Automatica, 104, pp.67-81, 2019 (Online) [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Wearable Cutaneous Haptic Interface for Multi-Fingered Virtual Manipulation",
+      "year": 2019,
+      "citation_raw": "[31] Y. Lee, M. Kim, Y. Lee, J. Kwon, Y-L. Park and D. J. Lee, Wearable Cutaneous Haptic Interface for Multi-Fingered Virtual Manipulation, IEEE/ASME Transactions on Mechatronics, 24(1), p.67-77, 2019 (Open Access) [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Tele-MAGMaS: an Aerial-Ground Co-manipulator System",
+      "year": 2018,
+      "citation_raw": "[30] N. Staub, M. Mohammadi, D. Bicego, Q. Delamare, H. Yang, D. Prattichizzo, P. R. Giordano, D. J. Lee and A. Franchi, Tele-MAGMaS: an Aerial-Ground Co-manipulator System, IEEE Robotics & Automation Magazine, 25(4), p.6-75, 2018 [link]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "ODAR: Aerial Manipulation Platform Enabling Omni-Directional Wrench Generation",
+      "year": 2018,
+      "citation_raw": "[29] S. Park, J. Lee, J. Ahn, M. Kim, J. Her, G-H. Yang and D. J. Lee, ODAR: Aerial Manipulation Platform Enabling Omni-Directional Wrench Generation, IEEE/ASME Transactions on Mechatronics, 23(4), p.1907-1918, 2018 (Open Access) [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Haptic Rendering and Interactive Simulation using Passive Midpoint Integration",
+      "year": 2017,
+      "citation_raw": "[28] M. Kim, Y. Lee, Y. Lee and D. J. Lee, Haptic Rendering and Interactive Simulation using Passive Midpoint Integration, International Journal of Robotics Research, 36(12), p.1341-1362 2017 (Open Access) [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "A Novel Robotic Platform for Aerial Manipulation using Quadrotors as Rotating Thrust Generators",
+      "year": 2018,
+      "citation_raw": "[27] H-N. Nguyen, S. Park, J. Park and D. J. Lee, A Novel Robotic Platform for Aerial Manipulation using Quadrotors as Rotating Thrust Generators, IEEE Transactions on Robotics, 34(2), p.353-369, 2018 (Open Access) [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Estimation and Control of HCCI Engine with In-Cylinder Pressure Sensing",
+      "year": 2018,
+      "citation_raw": "[26] Y. Nam, J. Kim, C. Bahk, I. Jang, H. H. Song and D. J. Lee, Modeling, Estimation and Control of HCCI Engine with In-Cylinder Pressure Sensing, ASME Journal of Dynamic Systems, Measurement & Control, 140(2), 061015-12, 2018 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Teleoperation of a Platoon of Distributed Wheeled Mobile Robots with Predictive Display",
+      "year": 2018,
+      "citation_raw": "[25] C. Ha, J. Yoon, C. Kim, Y. Lee and D. J. Lee, Teleoperation of a Platoon of Distributed Wheeled Mobile Robots with Predictive Display, Autonomous Robots, 42(8), p.1819-1836, 2018 (Open Access) [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Estimation and Control Framework for Robotic Mobile Platform for Automated Floor Drawing Operation, Automation in Construction",
+      "year": 2017,
+      "citation_raw": "[24] H. Yang, S-Y. Jeon, J. Yoon, C. Kim and D. J. Lee, Estimation and Control Framework for Robotic Mobile Platform for Automated Floor Drawing Operation, Automation in Construction, 2017 (Accepted)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Haptic Tele-Driving of Nonholonomic Wheeled Mobile Robot over Packet-Switching Communication Network via PSPM Approach",
+      "year": 2018,
+      "citation_raw": "[23] H. Yang, Z. Zuo and D. J. Lee, Haptic Tele-Driving of Nonholonomic Wheeled Mobile Robot over Packet-Switching Communication Network via PSPM Approach, 32(13), p.683-696, Advanced Robotics (Telerobotics SI), 2018 [link]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Multi-Rotor Drone Tutorial: Systems, Mechanics, Control and State Estimation",
+      "year": 2017,
+      "citation_raw": "[22] H. Yang, Y. Lee, S-Y. Jeon and D. J. Lee, Multi-Rotor Drone Tutorial: Systems, Mechanics, Control and State Estimation, Journal of Intelligent Service Robotics, 10(2), p.79-93, 2017 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "First Person View Semi-Autonomous Teleoperation of Cooperative WMRs with Visuo-Haptic Feedback",
+      "year": 2017,
+      "citation_raw": "[21] K. Y. Lui, H. Cho, C. Ha and D. J. Lee, First Person View Semi-Autonomous Teleoperation of Cooperative WMRs with Visuo-Haptic Feedback, International Journal of Robotics Research, 36(5-7), p. 840-860, 2017 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Passive Configuration Decomposition and Passivity-Based Control of Nonholonomic Mechanical Systems",
+      "year": 2017,
+      "citation_raw": "[20] D. J. Lee and K. Y. Lui, Passive Configuration Decomposition and Passivity-Based Control of Nonholonomic Mechanical Systems, IEEE Transactions on Robotics, 33(2), p.281-297, 2017 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Robust Consensus of Linear Systems on Directed Graph with Non-Uniform Delay",
+      "year": 2016,
+      "citation_raw": "[19] D. J. Lee, Robust Consensus of Linear Systems on Directed Graph with Non-Uniform Delay, IET Control Theory & Applications, 10(18), pp.2574-2579, 2016 (Open Access)",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Improving Transparency of Virtual Coupling for Haptic Interaction with Human Force Observer",
+      "year": 2017,
+      "citation_raw": "[18] M. Kim and D. J. Lee, Improving Transparency of Virtual Coupling for Haptic Interaction with Human Force Observer, Robotica, 35(2), pp.354-369, 2017 (Open Access) [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "H-N .Nguyen, S, Park, D. J, Lee, T. W Seo, S, Jin and J, Kim",
+      "year": 2017,
+      "citation_raw": "[17] J. Bak, H-N .Nguyen, S. Park, D. J. Lee, T. W Seo, S. Jin and J. Kim, Positioning Control of an Underwater Robot with Tilting Thrusters via Decomposition of Thrust Vector, International Journal of Control, Automation & Systems 15 (5), 2283-2291, 2017",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Control and Internal Dynamics of Quadrotor Tool Operation, Automatica",
+      "year": 2015,
+      "citation_raw": "[16] H-N. Nguyen, C. Ha and D. J. Lee, Mechanics, Control and Internal Dynamics of Quadrotor Tool Operation, Automatica, 61, pp. 289-301, 2015 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Passivity-Based Adaptive Backstepping Control of Quadrotor-type UAVs",
+      "year": 2014,
+      "citation_raw": "[15] C. Ha, Z. Zuo, F. B. Choi, and D. J. Lee, Passivity-Based Adaptive Backstepping Control of Quadrotor-type UAVs, Robotics and Autonomous Systems, 62(9), p. 1305-1315, 2014 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Semi-Autonomous Haptic Teleoperation Control Architecture of Multiple Unmanned Aerial Vehicles",
+      "year": 2013,
+      "citation_raw": "[14] D. J. Lee, A. Franchi, H. I. Son, C. Ha, H. H. Bulthoff, and P. R. Giordano, Semi-Autonomous Haptic Teleoperation Control Architecture of Multiple Unmanned Aerial Vehicles, IEEE/ASME Transactions on Mechatronics, 18(4), p. 1334-1345, 2013 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Consensus-Based Peer-to-Peer Control Architecture for Multiuser Haptic Interaction over the Internet",
+      "year": 2013,
+      "citation_raw": "[13] K. Huang and D. J. Lee, Consensus-Based Peer-to-Peer Control Architecture for Multiuser Haptic Interaction over the Internet, IEEE Transactions on Robotics, 29(2), p.417-431, 2013 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Passive Decomposition of Mechanical Systems with Coordination Requirements",
+      "year": 2013,
+      "citation_raw": "[12] D. J. Lee and P. Y. Li, Passive Decomposition of Mechanical Systems with Coordination Requirements, IEEE Transactions on Automatic Control, 58(1), p.230-235, 2013 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Distributed Backstepping Control of Multiple Thrust-Propelled Vehicles on Balanced Graph, Automatica",
+      "year": 2012,
+      "citation_raw": "[11] D. J. Lee, Distributed Backstepping Control of Multiple Thrust-Propelled Vehicles on Balanced Graph, Automatica, 48, p.2971-2977, 2012 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Passive Decomposition and Control of Nonholonomic Mechanical Systems",
+      "year": 2010,
+      "citation_raw": "[10] D. J. Lee, Passive Decomposition and Control of Nonholonomic Mechanical Systems, IEEE Transactions on Robotics, 26(6), p.978-992, 2010 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Passive-Set-Position-Modulation Framework for Interactive Robotic Systems",
+      "year": 2010,
+      "citation_raw": "[9] D. J. Lee and K. Huang, Passive-Set-Position-Modulation Framework for Interactive Robotic Systems, IEEE Transactions on Robotics, 26(2), p.354-369, 2010 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Rodriguez-Seda,D. J, Lee and M. W, Spong, Experimental Comparison Study of Control Architectures for Bilateral Teleoperators",
+      "year": 2009,
+      "citation_raw": "[8] E. J. Rodriguez-Seda,D. J. Lee and M. W. Spong, Experimental Comparison Study of Control Architectures for Bilateral Teleoperators, IEEE Transactions on Robotics, 25(6), p.1304-1318, 2009 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Passivity-Based Control of Bipedal Locomotion",
+      "year": 2007,
+      "citation_raw": "[7] M. W. Spong, J. K. Holm and D. J. Lee, Passivity-Based Control of Bipedal Locomotion, IEEE Robotics & Automation Magazine, June, p.30-40, 2007 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Stable Flocking of Multiple Inertial Agents on Balanced Graphs",
+      "year": 2007,
+      "citation_raw": "[6] D. J. Lee and M. W. Spong, Stable Flocking of Multiple Inertial Agents on Balanced Graphs, IEEE Transactions on Automatic Control, 52(8), p.1469-1475, 2007 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Using Time-Sequential Sampling to Stabilize the Color and Tone Reproduction Functions of a Xerographic Printing Process",
+      "year": 2007,
+      "citation_raw": "[5] T. P. Sim, P. Y. Li and D. J. Lee, Using Time-Sequential Sampling to Stabilize the Color and Tone Reproduction Functions of a Xerographic Printing Process, IEEE Transactions on Control Systems Technology, 15(2), p.349-357, 2007 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Passive Decomposition Approach to Formation and Maneuver Control of Multiple Rigid Bodies",
+      "year": 2007,
+      "citation_raw": "[4] D. J. Lee and P. Y. Li, Passive Decomposition Approach to Formation and Maneuver Control of Multiple Rigid Bodies, Journal of Dynamic Systems, Measurement & Control, v.129, p.662-677, 2007 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Passive Bilateral Teleoperation with Constant Time Delay",
+      "year": 2006,
+      "citation_raw": "[3] D. J. Lee and M. W. Spong, Passive Bilateral Teleoperation with Constant Time Delay, IEEE Transactions on Robotics,22(2), p.269-281, 2006 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Passive Bilateral Control and Tool Dynamics Rendering for Nonlinear Mechanical Teleoperators",
+      "year": 2005,
+      "citation_raw": "[2] D. J. Lee and P. Y. Li, Passive Bilateral Control and Tool Dynamics Rendering for Nonlinear Mechanical Teleoperators, IEEE Transactions on Robotics, 21(5), p.936-951, 2005 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "Passive Bilateral Feedforward Control of Linear Dynamically Similar Teleoperated Manipulators",
+      "year": 2003,
+      "citation_raw": "[1] D. J. Lee and P. Y. Li, Passive Bilateral Feedforward Control of Linear Dynamically Similar Teleoperated Manipulators, IEEE Transactions on Robotics & Automation, 19(3), p.443-456, 2003 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/journal"
+    },
+    {
+      "title": "TE-SDF: Tetra-Encoded Signed Distance Field for Memory-Efficient and Accurate Collision Detection",
+      "year": 2026,
+      "citation_raw": "[98] H. Ji, Y. Lee, and D. J. Lee, TE-SDF: Tetra-Encoded Signed Distance Field for Memory-Efficient and Accurate Collision Detection, RSS 2026 (pdf, YouTube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Differentiable Optimization-Based Modular Planning Framework for Pick-and-Place with Regrasp",
+      "year": 2026,
+      "citation_raw": "[97] Y. Song, S. An, S. Lee, J. Lee, J. Lee, G. Yoo, and D. J. Lee, Differentiable Optimization-Based Modular Planning Framework for Pick-and-Place with Regrasp, ICRA 2026 (pdf, YouTube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Amortized NeuralSDF-Mesh Collision Detection for Robotic Contact Simulation",
+      "year": 2026,
+      "citation_raw": "[96] J. Yun, J. Lee, S. Park, and D. J. Lee, Amortized NeuralSDF-Mesh Collision Detection for Robotic Contact Simulation, ICRA 2026 (pdf, YouTube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Robust Hand Tracking from Visual-Inertial Fusion",
+      "year": 2026,
+      "citation_raw": "[95] H. Choi, H. Park, H. Ji, S. Lee, Y. Lee, Y. Lee, and D. J. Lee, Robust Hand Tracking from Visual-Inertial Fusion, ICRA 2026 (pdf, YouTube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "SAC(λ): Efficient Reinforcement Learning for Sparse-Reward Autonomous Car Racing using Imperfect Demonstrations",
+      "year": 2025,
+      "citation_raw": "[94] H. Lee, S. Sagong, M. Lee, J. Lee, and D. J. Lee, SAC(λ): Efficient Reinforcement Learning for Sparse-Reward Autonomous Car Racing using Imperfect Demonstrations, IROS 2025 (pdf, project page, YouTube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Shape Abstraction via Marching Differentiable Support Functions",
+      "year": 2025,
+      "citation_raw": "[93] S. Park, J. Lee, and D. J. Lee, Shape Abstraction via Marching Differentiable Support Functions, CVPR 2025 (pdf, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Efficient Gradient-Based Inference for Manipulation Planning in Contact Factor Graphs",
+      "year": 2025,
+      "citation_raw": "[92] J. Lee, S. Park, M. Lee, D. J. Lee, Efficient Gradient-Based Inference for Manipulation Planning in Contact Factor Graphs, ICRA 2025 (pdf)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Narrow Passage Path Planning using Collision Constraint Interpolation",
+      "year": 2025,
+      "citation_raw": "[91] M. Lee, J. Lee, D. J. Lee, Narrow Passage Path Planning using Collision Constraint Interpolation, ICRA 2025 (pdf, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Time-Correlated Model Predictive Path Integral: Smooth Action Generation for Sampling-Based Control",
+      "year": 2025,
+      "citation_raw": "[90] M. Lee and D. J. Lee, Time-Correlated Model Predictive Path Integral: Smooth Action Generation for Sampling-Based Control, ICRA 2025 (pdf, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "GPU-Accelerated Subsystem-Based ADMM for Large-Scale Interactive Simulation",
+      "year": 2025,
+      "citation_raw": "[89] H. Ji, H. Kim, J. Lee, S. Lee, S. An, J. Heo, Y. Lee, Y. Lee, and D. J. Lee, GPU-Accelerated Subsystem-Based ADMM for Large-Scale Interactive Simulation, ICRA 2025 (pdf, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "UWB-Based Localization System Considering Antenna Anisotropy and NLOS/Multipath Conditions",
+      "year": 2024,
+      "citation_raw": "[88] T. Kim, B. Yoon and D. J. Lee, UWB-Based Localization System Considering Antenna Anisotropy and NLOS/Multipath Conditions, IROS 2024 (pdf)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Collision Detection between Smooth Convex Bodies via Riemannian Optimization Framework",
+      "year": 2024,
+      "citation_raw": "[87] S. An, S. Lee, J. Lee, S. Park and D. J. Lee, Collision Detection between Smooth Convex Bodies via Riemannian Optimization Framework, IROS 2024 (pdf, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Efficient Clothoid Tree-Based Local Path Planning for Self-Driving Robots",
+      "year": 2024,
+      "citation_raw": "[85] M. Lee and D. J. Lee, Efficient Clothoid Tree-Based Local Path Planning for Self-Driving Robots, ICRA 2024 (pdf, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Wrench Estimation of Modular Manipulator with External Actuation and Joint Locking",
+      "year": 2023,
+      "citation_raw": "[82] Y. Kim, H. Lee, J. Lee and D. J. Lee, Wrench Estimation of Modular Manipulator with External Actuation and Joint Locking, IROS 2023 (pdf, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Symmetry-Based Modeling and Hybrid Orientation-Force Control of Wearable Cutaneous Haptic Device",
+      "year": 2023,
+      "citation_raw": "[81] S. Lee, H. Kim and D. J. Lee, Symmetry-Based Modeling and Hybrid Orientation-Force Control of Wearable Cutaneous Haptic Device, IROS 2023 (pdf, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Uncertain Pose Estimation during Contact Tasks using Differentiable Contact Features",
+      "year": 2023,
+      "citation_raw": "[79] J. Lee, M. Lee and D. J. Lee, Uncertain Pose Estimation during Contact Tasks using Differentiable Contact Features, RSS 2023 (pdf, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Modular and Parallelizable Multibody Physics Simulation via Subsystem-Based ADMM",
+      "year": 2023,
+      "citation_raw": "[77] J. Lee, M. Lee and D. J. Lee, Modular and Parallelizable Multibody Physics Simulation via Subsystem-Based ADMM, ICRA 2023 (pdf, arxiv, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Differentiable Dynamics Simulation Using Invariant Contact Mapping and Damped Contact Force",
+      "year": 2023,
+      "citation_raw": "[76] M. Lee, J. Lee and D. J. Lee, Differentiable Dynamics Simulation Using Invariant Contact Mapping and Damped Contact Force, ICRA 2023 (pdf, Youtube)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Real-Time Physically-Accurate Simulation of Robotic Snap Connection Process",
+      "year": 2021,
+      "citation_raw": "[74] M. Lee, J. Lee, J. Yoon and D. J. Lee, Real-Time Physically-Accurate Simulation of Robotic Snap Connection Process, IROS 2021 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "A Distributed Two-Layer Framework for Teleoperated Platooning of Fixed-Wing UAVs via Decomposition and Backstepping",
+      "year": 2021,
+      "citation_raw": "[72] M. Lee and D. J. Lee, A Distributed Two-Layer Framework for Teleoperated Platooning of Fixed-Wing UAVs via Decomposition and Backstepping, ICRA 2021 (IEEE-RAL-ICRA Option, Open Access)",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Sim-to-Real Transfer of Bolting Tasks with Tight Tolerance",
+      "year": 2020,
+      "citation_raw": "[71] D. Son, H. Yang and D. J. Lee, Sim-to-Real Transfer of Bolting Tasks with Tight Tolerance, IROS 2020 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Expert-Emulating Excavation Trajectory Planning for Autonomous Robotic Industrial Excavator",
+      "year": 2020,
+      "citation_raw": "[70] B. Son, C. Kim, C. M. Kim and D. J. Lee, Expert-Emulating Excavation Trajectory Planning for Autonomous Robotic Industrial Excavator, IROS 2020 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Distributed Rotor-Based Vibration Suppression for Flexible Object Transport and Manipulation",
+      "year": 2020,
+      "citation_raw": "[69] H. Yang, M. S. Kim and D. J. Lee, Distributed Rotor-Based Vibration Suppression for Flexible Object Transport and Manipulation, ICRA 2020 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Optimal Estimation of Gasoline LP-EGR via Unscented Kalman Filtering with Mixed Physics-based/Data-driven Components Modeling",
+      "year": 2020,
+      "citation_raw": "[68] K. Kim, J. Kim, O. Kwon, S-K. Oh, Y-W. Kim and D. J. Lee, Optimal Estimation of Gasoline LP-EGR via Unscented Kalman Filtering with Mixed Physics-based/Data-driven Components Modeling, IFAC 2020 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Optimal Estimation and Feedforward Control of Strip-Longitudinal Hardness for Thickness Hunting Suppression of Tandem Cold Mill Process",
+      "year": 2020,
+      "citation_raw": "[67] H. Lee, S. M. Hur, K. Woo and D. J. Lee, Optimal Estimation and Feedforward Control of Strip-Longitudinal Hardness for Thickness Hunting Suppression of Tandem Cold Mill Process, IFAC 2020 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Model Reduction and Switching for Fast Soft Object Simulation with Intermittent Contacts",
+      "year": 2019,
+      "citation_raw": "[66] J. Yoon, I. Hong and D. J. Lee, Passive Model Reduction and Switching for Fast Soft Object Simulation with Intermittent Contacts, IROS 2019 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Pose and Posture Estimation of Aerial Skeleton Systems for Outdoor Flying",
+      "year": 2019,
+      "citation_raw": "[65] S. Park, Y. Lee, J. Heo and D. J. Lee, Pose and Posture Estimation of Aerial Skeleton Systems for Outdoor Flying, ICRA 2019 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Data-Driven Contact Clustering for Robot Simulation",
+      "year": 2019,
+      "citation_raw": "[64] M. Kim, J. Yoon, D. Son and D. J. Lee, Data-Driven Contact Clustering for Robot Simulation, ICRA 2019 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Model-Free Optimal Estimation and Sensor Placement Framework for Elastic Kinematic Chain",
+      "year": 2019,
+      "citation_raw": "[63] J. Ahn, J. Yoon, J. Lee and D. J. Lee, Model-Free Optimal Estimation and Sensor Placement Framework for Elastic Kinematic Chain, ICRA 2019 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Tire Force Estimation of Dynamic Wheeled Mobile Robots using Tire-Model Based Constrained Kalman Filtering",
+      "year": 2018,
+      "citation_raw": "[62] S-Y. Jeon, R. Chung and D. J. Lee, Tire Force Estimation of Dynamic Wheeled Mobile Robots using Tire-Model Based Constrained Kalman Filtering, IROS 2018 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Modeling and Control of Multiple Aerial-Ground Manipulator System (MAGMaS) with Load Flexibility",
+      "year": 2018,
+      "citation_raw": "[61] H. Yang, N. Staub, A. Franchi and D. J. Lee, Modeling and Control of Multiple Aerial-Ground Manipulator System (MAGMaS) with Load Flexibility, IROS 2018 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Large-Size Aerial Skeleton System with Distributed Rotor Actuation",
+      "year": 2018,
+      "citation_raw": "[60] H. Yang, S. Park, J. Lee, J. Ahn, D. Son and D. J. Lee, Large-Size Aerial Skeleton System with Distributed Rotor Actuation, ICRA 2018 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Stiffness Decomposition and Design Optimization of Under-Actuated Tendon-Driven Robotic Systems",
+      "year": 2018,
+      "citation_raw": "[59] M. Kim, J. Park, J. Kim, M. Kim and D. J. Lee, Stiffness Decomposition and Design Optimization of Under-Actuated Tendon-Driven Robotic Systems, ICRA 2018 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passivity-Based Control of Manipulator-Stage Systems on Vertical Flexible Beam",
+      "year": 2017,
+      "citation_raw": "[58] C. Ha, H. Kim and D. J. Lee, Passivity-Based Control of Manipulator-Stage Systems on Vertical Flexible Beam, IROS 2017 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "On the Passivity of Mechanical Integrator in Haptic Rendering",
+      "year": 2017,
+      "citation_raw": "[57] M. Kim, J. Kim, Y. Lee and D. J. Lee, On the Passivity of Mechanical Integrator in Haptic Rendering, ICRA 2017 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Modeling and Control of Omni-Directional Aerial Robot",
+      "year": 2016,
+      "citation_raw": "[56] S. Park, J. Her, J. Kim, D. J. Lee, Design, Modeling and Control of Omni-Directional Aerial Robot, IROS 2016 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Camera-GPS-IMU Sensor Fusion for Autonomous Flying",
+      "year": 2016,
+      "citation_raw": "[55] Y. Lee, J. Yoon, H. Yang, C. Kim and D. J. Lee, Camera-GPS-IMU Sensor Fusion for Autonomous Flying, ICUFN 2016 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Aerial Tool Operation System Using Quadrotors As Rotating Thrust Generators",
+      "year": 2015,
+      "citation_raw": "[54] H. N. Nguyen, S. Park and D. J. Lee, Aerial Tool Operation System Using Quadrotors As Rotating Thrust Generators, IROS 2015 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Enlarging Just Noticeable Differences of Visual-Proprioceptive Conflict in VR using Haptic Feedback",
+      "year": 2015,
+      "citation_raw": "[53] Y. Lee, I. Jang and D. J. Lee, Enlarging Just Noticeable Differences of Visual-Proprioceptive Conflict in VR using Haptic Feedback, World Haptics Conference 2015 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Hierarchical Cooperative Control Framework of Multiple Quadrotor-Manipulator Systems",
+      "year": 2015,
+      "citation_raw": "[52] H. Yang, D. J. Lee, Hierarchical Cooperative Control Framework of Multiple Quadrotor-Manipulator Systems, ICRA 2015 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Whole-Body Multi-Modal Semi-Autonomous Teleoperation of Mobile Manipulator Systems",
+      "year": 2015,
+      "citation_raw": "[51] C. Ha, S. Park, J. Her, I. Jang, Y. Lee, G. Cho, H. Son, and D.J. Lee, Whole-Body Multi-Modal Semi-Autonomous Teleoperation of Mobile Manipulator Systems, ICRA 2015 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Autonomous Dynamic Driving Control of Wheeled Mobile Robots",
+      "year": 2014,
+      "citation_raw": "[50] J. Yoon, J. Oh, J. Park, S. Kim and D. J. Lee, Autonomous Dynamic Driving Control of Wheeled Mobile Robots, ICRA 2014 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Dynamics and Control of Quadrotor with Robotic Manipulator",
+      "year": 2014,
+      "citation_raw": "[49] H. Yang and D. J. Lee, Dynamics and Control of Quadrotor with Robotic Manipulator, ICRA 2014 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "On Utilizing Pseudo-Haptics for Cutaneous Fingertip Haptic Device",
+      "year": 2014,
+      "citation_raw": "[48] I. Jang and D. J. Lee, On Utilizing Pseudo-Haptics for Cutaneous Fingertip Haptic Device, Haptics Symposium 2014 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Configuration-Space Data-Driven Haptic Rendering for Multi-Link Multi-Contact Haptic Interaction",
+      "year": 2014,
+      "citation_raw": "[47] S. Park and D. J. Lee, Configuration-Space Data-Driven Haptic Rendering for Multi-Link Multi-Contact Haptic Interaction, Haptics Symposium 2014 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Hybrid Force/Motion Control and Internal Dynamics of Quadrotors for Tool Operation",
+      "year": 2013,
+      "citation_raw": "[46] H-N. Nguyen and D. J. Lee, Hybrid Force/Motion Control and Internal Dynamics of Quadrotors for Tool Operation, IROS 2013 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Toward Transparent Virtual Coupling for Haptic Interaction during Contact Tasks",
+      "year": 2013,
+      "citation_raw": "[45] M. Kim and D. J. Lee, Toward Transparent Virtual Coupling for Haptic Interaction during Contact Tasks, World Haptics Conference 2013 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Cooperative Grasping Control of Multiple Mobile Manipulators with Obstacle Avoidance",
+      "year": 2013,
+      "citation_raw": "[44] H. Yang and D. J. Lee, Cooperative Grasping Control of Multiple Mobile Manipulators with Obstacle Avoidance, ICRA 2013 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Vision-Based Teleoperation of Unmanned Aerial and Ground Vehicles",
+      "year": 2013,
+      "citation_raw": "[43] C. Ha and D. J. Lee, Vision-Based Teleoperation of Unmanned Aerial and Ground Vehicles, ICRA 2013 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Haptic Rendering and Control of Lagrangian Virtual Proxy",
+      "year": 2012,
+      "citation_raw": "[42] D. J. Lee, M. Kim and T. Qiu, Passive Haptic Rendering and Control of Lagrangian Virtual Proxy, IROS 2012 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Mechanics and Control of Quadrotor for Tool Operation",
+      "year": 2012,
+      "citation_raw": "[41] D. J. Lee and C. Ha, Mechanics and Control of Quadrotor for Tool Operation, DSCC 2012 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Hybrid Virtual-Proxy Based Control Framework for Passive Bilateral Teleoperation over the Internet",
+      "year": 2011,
+      "citation_raw": "[39] K. Huang and D. J. Lee, Hybrid Virtual-Proxy Based Control Framework for Passive Bilateral Teleoperation over the Internet, IROS 2011 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Hybrid PD-Based Control Framework for Passive Bilateral Teleoperation over the Internet",
+      "year": 2011,
+      "citation_raw": "[38] K. Huang and D. J. Lee, Hybrid PD-Based Control Framework for Passive Bilateral Teleoperation over the Internet, IFAC 2011 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Distributed Backstepping Control of Multiple Thrust-Propelled Vehicles on Balanced Graph",
+      "year": 2011,
+      "citation_raw": "[37] D. J. Lee, Distributed Backstepping Control of Multiple Thrust-Propelled Vehicles on Balanced Graph, IFAC 2011 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Feedback r-Passivity of Lagrangian Systems for Mobile Robot Teleoperation",
+      "year": 2011,
+      "citation_raw": "[36] D. J. Lee and D. Xu, Feedback r-Passivity of Lagrangian Systems for Mobile Robot Teleoperation, ICRA 2011 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Son and H. H. Bülthoff, Haptic Teleoperation of Multiple Unmanned Aerial Vehicles over the Internet",
+      "year": 2011,
+      "citation_raw": "[35] D. J. Lee, A. Franchi, P. Robuffo Giordano, H-I. Son and H. H. Bülthoff, Haptic Teleoperation of Multiple Unmanned Aerial Vehicles over the Internet, ICRA 2011 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Lee and H. H. Bülthoff, An Evaluation of Haptic Cues on the Tele-Operator’s Perceptual Awareness of Multiple UAVs’ Environments",
+      "year": 2011,
+      "citation_raw": "[34] H. I. Son, J. Kim, L. Chuang, A. Franchi, P. Robuffo Giordano, D. J. Lee and H. H. Bülthoff, An Evaluation of Haptic Cues on the Tele-Operator’s Perceptual Awareness of Multiple UAVs’ Environments, World Haptics Conference 2011 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Haptic Tele-Driving of a Wheeled Mobile Robot over the Internet: A PSPM Approach",
+      "year": 2010,
+      "citation_raw": "[33] Z. Zuo and D. J. Lee, Haptic Tele-Driving of a Wheeled Mobile Robot over the Internet: A PSPM Approach, CDC 2010 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Configuration Decomposition and Practical Stabilization of Nonholonomic Mechanical Systems with Symmetry",
+      "year": 2010,
+      "citation_raw": "[32] D. J. Lee, Passive Configuration Decomposition and Practical Stabilization of Nonholonomic Mechanical Systems with Symmetry, CDC 2010 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Nonholonomic Passive Decomposition: Weak Decomposability, Controllability and Control Design",
+      "year": 2010,
+      "citation_raw": "[31] D. J. Lee, Nonholonomic Passive Decomposition: Weak Decomposability, Controllability and Control Design, CDC 2010 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Peer-to-Peer Control Architecture for Multiuser Haptic Collaboration over Undirected Delayed Packet-Switching Network",
+      "year": 2010,
+      "citation_raw": "[30] D. J. Lee and K. Huang, Peer-to-Peer Control Architecture for Multiuser Haptic Collaboration over Undirected Delayed Packet-Switching Network, ICRA 2010 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passivity-based Position Consensus of Multiple Mechanical Integrators with Communication Delay",
+      "year": 2010,
+      "citation_raw": "[29] K. Huang and D. J. Lee, Passivity-based Position Consensus of Multiple Mechanical Integrators with Communication Delay, ACC 2010 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Extension of Colgate’s Passivity Condition to Variable-Rate Haptics",
+      "year": 2009,
+      "citation_raw": "[28] D. J. Lee, Extension of Colgate’s Passivity Condition to Variable-Rate Haptics, IROS 2009 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Implementation and Experiments of Passive Set-Position Modulation Framework for Interactive Robotic Systems",
+      "year": 2009,
+      "citation_raw": "[27] D. J. Lee and K. Huang, Implementation and Experiments of Passive Set-Position Modulation Framework for Interactive Robotic Systems, IROS 2009 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Set-Position Modulation Approach for Haptics with Slow Variable, and Asynchronous Update",
+      "year": 2009,
+      "citation_raw": "[26] D. J. Lee and K. Huang, Passive Set-Position Modulation Approach for Haptics with Slow Variable, and Asynchronous Update, World Haptics Conference 2009 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "On Passive Non-Iterative Variable-Step Numerical Integration of Mechanical Systems for Haptic Rendering",
+      "year": 2008,
+      "citation_raw": "[25] D. J. Lee and K. Huang, On Passive Non-Iterative Variable-Step Numerical Integration of Mechanical Systems for Haptic Rendering, ASME DSCC 2008 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Semi-Autonomous Teleoperation of Multiple Wheeled Mobile Robots over the Internet",
+      "year": 2008,
+      "citation_raw": "[24] D. J. Lee, Semi-Autonomous Teleoperation of Multiple Wheeled Mobile Robots over the Internet, ASME DSCC 2008 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Position Feedback over Packet-Switching Communication Network with Varying-Delay and Packet-Loss",
+      "year": 2008,
+      "citation_raw": "[23] D. J. Lee and K. Huang, Passive Position Feedback over Packet-Switching Communication Network with Varying-Delay and Packet-Loss, Haptics Symposium 2008 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Decomposition of Multiple Nonholonomic Mechanical Systems under Motion Coordination Requirements",
+      "year": 2008,
+      "citation_raw": "[22] D. J. Lee, Passive Decomposition of Multiple Nonholonomic Mechanical Systems under Motion Coordination Requirements, IFAC 2008 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passivity-Based Switching Control for Stabilization of Wheeled Mobile Robots",
+      "year": 2007,
+      "citation_raw": "[21] D. J. Lee, Passivity-Based Switching Control for Stabilization of Wheeled Mobile Robots, RSS 2007 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Time-Scaling Trajectories of Passive-Dynamic Bipedal Robots",
+      "year": 2007,
+      "citation_raw": "[20] J. K. Holm, D. J. Lee and M. W. Spong, Time-Scaling Trajectories of Passive-Dynamic Bipedal Robots, ICRA 2007 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Stable Flocking of Multiple Inertial Agents on Balanced Graphs",
+      "year": 2006,
+      "citation_raw": "[19] D. J. Lee and M. W. Spong, Stable Flocking of Multiple Inertial Agents on Balanced Graphs, ACC 2006 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Agreement with Non-Uniform Information Delays",
+      "year": 2006,
+      "citation_raw": "[18] D. J. Lee and M. W. Spong, Agreement with Non-Uniform Information Delays, ACC 2006 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Master-Slave Synchronization with Switching Communication through Passive Model-Based Control Design",
+      "year": 2006,
+      "citation_raw": "[17] S. Mastellone, D. J. Lee and M. W. Spong, Master-Slave Synchronization with Switching Communication through Passive Model-Based Control Design, ACC 2006 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Practical Issues in Networked Control Systems",
+      "year": 2006,
+      "citation_raw": "[16] C. T. Abdallah, I. Lopez, J. L. Piovesan, D. J. Lee, O. Martinez and M. W. Spong, Practical Issues in Networked Control Systems, ACC 2006 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Bilateral Teleoperation with Constant Time-Delays",
+      "year": 2006,
+      "citation_raw": "[15] D. J. Lee and M. W. Spong, Passive Bilateral Teleoperation with Constant Time-Delays, ICRA 2006 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Bilateral Teleoperation of a Wheeled Mobile Robot over Delayed Communication Networks",
+      "year": 2006,
+      "citation_raw": "[14] D. J. Lee, O. Martinez-Palafox and M. W. Spong, Bilateral Teleoperation of a Wheeled Mobile Robot over Delayed Communication Networks, ICRA 2006 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "An Experimental Comparison Study for Bilateral Internet-Based Teleoperation",
+      "year": 2006,
+      "citation_raw": "[13] E. J. Rodriguez-Seda, D. J. Lee and M. W. Spong, An Experimental Comparison Study for Bilateral Internet-Based Teleoperation, CCA 2006 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Semi-Autonomous Teleoperation of Multiple Cooperative Robots for Human-Robot Lunar Exploration",
+      "year": 2006,
+      "citation_raw": "[12] D. J. Lee and M. W. Spong, Semi-Autonomous Teleoperation of Multiple Cooperative Robots for Human-Robot Lunar Exploration, AAAI Spring Syposium 2006 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Bilateral Teleoperation of Multiple Cooperative Robots over Delayed Communication Networks: Theory",
+      "year": 2005,
+      "citation_raw": "[11] D. J. Lee and M. W. Spong, Bilateral Teleoperation of Multiple Cooperative Robots over Delayed Communication Networks: Theory, ICRA 2005 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Bilateral Teleoperation of Multiple Cooperative Robots over Delayed Communication Networks: Application",
+      "year": 2005,
+      "citation_raw": "[10] D. J. Lee, O. Martinez-Palafox and M. W. Spong, Bilateral Teleoperation of Multiple Cooperative Robots over Delayed Communication Networks: Application, ICRA 2005 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Bilateral Control of Teleoperators under Constant Time-Delay",
+      "year": 2005,
+      "citation_raw": "[9] D. J. Lee and M. W. Spong, Passive Bilateral Control of Teleoperators under Constant Time-Delay, IFAC World Congress 2005 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Decomposition for Multiple Mechanical Systems under Coordination Requirements",
+      "year": 2004,
+      "citation_raw": "[8] D. J. Lee and P. Y. Li, Passive Decomposition for Multiple Mechanical Systems under Coordination Requirements, CDC 2004 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Time-Sequential Sampling and Reconstruction of Tone and Color Reproduction Functions for Xerographic Printing",
+      "year": 2004,
+      "citation_raw": "[7] P. Y. Li, T. P. Sim and D. J. Lee, Time-Sequential Sampling and Reconstruction of Tone and Color Reproduction Functions for Xerographic Printing, ACC 2004 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Formation and Maneuver Control for Multiple Spacecrafts",
+      "year": 2003,
+      "citation_raw": "[6] D. J. Lee and P. Y. Li, Formation and Maneuver Control for Multiple Spacecrafts, ACC 2003 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Toward Robust Passivity: A Passive Control Implementation Structure for Mechanical Teleoperators",
+      "year": 2003,
+      "citation_raw": "[5] D. J. Lee and P. Y. Li, Toward Robust Passivity: A Passive Control Implementation Structure for Mechanical Teleoperators, IEEE VR/Haptics Symposium 2003 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Coordination Control to Nonlinear Bilateral Teleoperated Manipulators",
+      "year": 2002,
+      "citation_raw": "[4] D. J. Lee and P. Y. Li, Passive Coordination Control to Nonlinear Bilateral Teleoperated Manipulators, ICRA 2002 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Tool Dynamics Rendering for Nonlinear Bilateral Teleoperated Manipulators",
+      "year": 2002,
+      "citation_raw": "[3] D. J. Lee and P. Y. Li, Passive Tool Dynamics Rendering for Nonlinear Bilateral Teleoperated Manipulators, ICRA 2002 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Control of Bilateral Teleoperated Manipulators: Robust Control and Experiments",
+      "year": 2001,
+      "citation_raw": "[2] D. J. Lee and P. Y. Li, Passive Control of Bilateral Teleoperated Manipulators: Robust Control and Experiments, ACC 2001 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    },
+    {
+      "title": "Passive Feedforward Approach to Bilateral Teleoperated Manipulators",
+      "year": 2000,
+      "citation_raw": "[1] P. Y. Li and D. J. Lee, Passive Feedforward Approach to Bilateral Teleoperated Manipulators, ASME IMECE/Haptics Symposium 2000 [pdf]",
+      "source_url": "https://www.inrol.snu.ac.kr/conference"
+    }
+  ]
+}

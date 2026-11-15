@@ -1,0 +1,54 @@
+{
+  "university": "University of Cambridge",
+  "university_key": "cambridge",
+  "pi": "Garth Wells",
+  "lab_name": null,
+  "lab_url": "https://www.eng.cam.ac.uk/profiles/gnw20",
+  "publication_urls": [
+    "https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Volume 48 Issue 4",
+      "year": 2026,
+      "citation_raw": "Volume 48 Issue 4 Conserving Mass, Momentum, and Energy for the Benjamin–Bona–Mahony, Korteweg–de Vries, and Nonlinear Schrödinger Equations August 14, 2026",
+      "source_url": "https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/"
+    },
+    {
+      "title": "Volume 48 Issue 4",
+      "year": 2026,
+      "citation_raw": "Volume 48 Issue 4 POD-Based Reduced Order Modeling of Global-in-Time Iterative Decoupled Algorithms for Biot’s Consolidation Model August 14, 2026",
+      "source_url": "https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/"
+    },
+    {
+      "title": "Volume 48 Issue 4",
+      "year": 2026,
+      "citation_raw": "Volume 48 Issue 4 Polynomial-Augmented Neural Networks (PANNs) with Weak Orthogonality Constraints for Enhanced Function and PDE Approximation August 14, 2026",
+      "source_url": "https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/"
+    },
+    {
+      "title": "Volume 48 Issue 4",
+      "year": 2026,
+      "citation_raw": "Volume 48 Issue 4 Unsupervised Operator Learning Approach for Dissipative Equations via Onsager Principle August 7, 2026",
+      "source_url": "https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/"
+    },
+    {
+      "title": "Volume 48 Issue 4",
+      "year": 2026,
+      "citation_raw": "Volume 48 Issue 4 A Fully Adaptive, High-Order, Fast Poisson Solver for Multiscale Smooth Two-Dimensional Geometries August 6, 2026",
+      "source_url": "https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/"
+    },
+    {
+      "title": "Volume 48 Issue 4",
+      "year": 2026,
+      "citation_raw": "Volume 48 Issue 4 High-Order Meshfree Surface Integration, Including Singular Integrands August 6, 2026",
+      "source_url": "https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/"
+    }
+  ]
+}

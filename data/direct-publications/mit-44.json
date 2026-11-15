@@ -1,0 +1,213 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Anette (Peko) Hosoi",
+  "lab_name": null,
+  "lab_url": "https://hosoigroup.wordpress.com/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://hosoigroup.wordpress.com/"
+    }
+  ],
+  "attempted_urls": [
+    "https://hosoigroup.wordpress.com/",
+    "https://hosoigroup.wordpress.com/category/publications/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "Publications",
+      "url": "https://hosoigroup.wordpress.com/category/publications/"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Particle focusing in a wavy channel",
+      "year": 2023,
+      "citation_raw": "X Mao, I Bischofberger, AE Hosoi. \"Particle focusing in a wavy channel.\" JFM 968, A25 (2023).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Estimating the filtration efficacy of cloth masks",
+      "year": 2021,
+      "citation_raw": "X Mao, AE Hosoi. \"Estimating the filtration efficacy of cloth masks.\" Physical Review Fluids 6 (11), 114201 (2021).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Nonlinear flow response of soft hair beds",
+      "year": 2017,
+      "citation_raw": "J Alvarado, J Comtet, E De Langre, AE Hosoi. \"Nonlinear flow response of soft hair beds.\" Nature Physics 13 (10), 1014-1019 (2017).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "A two-dimensional model of low-Reynolds number swimming beneath a free surface",
+      "year": 2011,
+      "citation_raw": "D Crowdy, S Lee, O Samson, E Lauga, AE Hosoi. \"A two-dimensional model of low-Reynolds number swimming beneath a free surface.\" JFM 681, 24-47 (2011).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Optimal feeding and swimming gaits of biflagellated organisms",
+      "year": 2010,
+      "citation_raw": "D Tam, AE Hosoi. \"Optimal feeding and swimming gaits of biflagellated organisms.\" PNAS 108 (3), 1001-1006 (2010).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Marangoni convection in droplets on superhydrophobic surfaces",
+      "year": 2009,
+      "citation_raw": "D Tam, V Von Arnim, GH McKinley, AE Hosoi. \"Marangoni convection in droplets on superhydrophobic surfaces.\" JFM 624, 101-123 (2009).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Soft swimming: exploiting deformable interfaces for low Reynolds number locomotion",
+      "year": 2008,
+      "citation_raw": "R Trouilloud, TS Yu, AE Hosoi, E Lauga. \"Soft swimming: exploiting deformable interfaces for low Reynolds number locomotion.\" PRL 101 (4), 048102 (2008).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "New measures for characterizing nonlinear viscoelasticity in large amplitude oscillatory shear",
+      "year": 2008,
+      "citation_raw": "RH Ewoldt, AE Hosoi, GH McKinley. \"New measures for characterizing nonlinear viscoelasticity in large amplitude oscillatory shear.\" Journal of Rheology 52 (6), 1427-1458 (2008).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Optimal stroke patterns for Purcell’s three-link swimmer",
+      "year": 2007,
+      "citation_raw": "D Tam, AE Hosoi. \"Optimal stroke patterns for Purcell’s three-link swimmer.\" PRL 98 (6), 068105 (2007).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Theory for shock dynamics in particle-laden thin films",
+      "year": 2005,
+      "citation_raw": "J Zhou, B Dupuy, AL Bertozzi, AE Hosoi. \"Theory for shock dynamics in particle-laden thin films.\" PRL 94 (11), 117803 (2005).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Peeling, healing, and bursting in a lubricated elastic sheet",
+      "year": 2004,
+      "citation_raw": "AE Hosoi, L Mahadevan. \"Peeling, healing, and bursting in a lubricated elastic sheet.\" PRL 93 (13), 137802 (2004).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "The effect of surface tension on rimming flows in a partially filled rotating cylinder",
+      "year": 2003,
+      "citation_raw": "J Ashmore, AE Hosoi, HA Stone. \"The effect of surface tension on rimming flows in a partially filled rotating cylinder.\" JFM 479, 65-98 (2003).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Evaporative instabilities in climbing films",
+      "year": 2001,
+      "citation_raw": "AE Hosoi, JWM Bush. \"Evaporative instabilities in climbing films.\" JFM 442, 217-239 (2001)",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "The Effect of Basketball Analytics Investment on National Basketball Association (NBA) Team Performance",
+      "year": 2025,
+      "citation_raw": "Henry Wang, Arnab Parker, AE Hosoi. \"The Effect of Basketball Analytics Investment on National Basketball Association (NBA) Team Performance.\" Journal of Sports Economics OnlineFirst (2025).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Leveraging expected action value to measure on-court decision-making skills in basketball",
+      "year": 2025,
+      "citation_raw": "Ivan Jutamulia, AE Hosoi. \"Leveraging expected action value to measure on-court decision-making skills in basketball.\" Journal of Sports Analytics 11 (2025).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Modeling Running via Optimal Control for Shoe Design",
+      "year": 2024,
+      "citation_raw": "SC Fay, AE Hosoi, \"Modeling Running via Optimal Control for Shoe Design.\" Journal of Biomechanical Engineering 146 (4), 041004 (2024).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Measuring skill via player dynamics in football dribbling",
+      "year": 2023,
+      "citation_raw": "L. Brink, S. K. Ha, J. Snowdon, F. Vidal-Codina, B. Rauch, F. Wang, D. Wu, M. A. López-Felip, C. Clanet, AE Hosoi. \"Measuring skill via player dynamics in football dribbling.\" Scientific Reports 13:19004 (2023)",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Public health implications of opening National Football League stadiums during the COVID-19 pandemic",
+      "year": 2022,
+      "citation_raw": "B. García Bulle, D. Shen, D. Shah, AE Hosoi. \"Public health implications of opening National Football League stadiums during the COVID-19 pandemic.\" PNAS 119 (14) e2114226119 (2022).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Luck and the law: Quantifying chance in fantasy sports and other contests",
+      "year": 2018,
+      "citation_raw": "D Getty, H Li, M Yano, C Gao, AE Hosoi. \"Luck and the law: Quantifying chance in fantasy sports and other contests.\" Siam Review 60 (4), 869-887 (2018).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Drag kings: characterizing large-scale flows in cycling aerodynamics",
+      "year": 2014,
+      "citation_raw": "AE Hosoi. \"Drag kings: characterizing large-scale flows in cycling aerodynamics.\" Journal of Fluid Mechanics 748, 1-4 (2014).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Permeability–selectivity trade-off for a universal leaky channel inspired by mobula filters",
+      "year": 2024,
+      "citation_raw": "X. Mao, I. Bischofberger, AE Hosoi. \"Permeability–selectivity trade-off for a universal leaky channel inspired by mobula filters.\" PNAS 121(50):e2410018121 (2024).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Self-similar kinematics among efficient slender swimmers",
+      "year": 2018,
+      "citation_raw": "AJ Wiens, AE Hosoi. \"Self-similar kinematics among efficient slender swimmers.\" Journal of Fluid Mechanics 840, 106-130 (2018).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Passive phloem loading and long-distance transport in a synthetic tree-on-a-chip",
+      "year": 2017,
+      "citation_raw": "J Comtet, KH Jensen, R Turgeon, AD Stroock, AE Hosoi. \"Passive phloem loading and long-distance transport in a synthetic tree-on-a-chip.\" Nature Plants 3 (4), 1-8 (2017).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Viscous entrainment on hairy surfaces",
+      "year": 2018,
+      "citation_raw": "A Nasto, PT Brun, AE Hosoi. \"Viscous entrainment on hairy surfaces.\" Physical Review Fluids 3 (2), 024002 (2018).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Air entrainment in hairy surfaces",
+      "year": 2016,
+      "citation_raw": "A Nasto, M Regli, PT Brun, J Alvarado, C Clanet, AE Hosoi. \"Air entrainment in hairy surfaces.\" Physical Review Fluids 1 (3), 033905 (2016).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Localized fluidization burrowing mechanics of Ensis directus",
+      "year": 2012,
+      "citation_raw": "Amos Winter, Robin Deits and AE Hosoi. “Localized fluidization burrowing mechanics of Ensis directus.\" JEB 215, 2072-2080 (2012).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Building a better snail: Lubrication and adhesive locomotion",
+      "year": 2005,
+      "citation_raw": "B Chan, NJ Balmforth, AE Hosoi. \"Building a better snail: Lubrication and adhesive locomotion.\" Physics of fluids 17 (11) (2005).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "Building a better snail: Lubrication and adhesive locomotion",
+      "year": 2024,
+      "citation_raw": "B Chan, NJ Balmforth, AE Hosoi. \"Building a better snail: Lubrication and adhesive locomotion.\" Physics of fluids 17 (11) (2005). Other select publications: K Bhuwalka, J Sonner, L Lin, M Ambrosius, AE Hosoi. \"When is it Profitable to Make a Product Sustainable? Insights from a Decision‐Support Tool.\" Technology Innovation for the Circular Economy: Recycling, Remanufacturing, Design, Systems Analysis and Logistics, John Wiley & Sons, Inc. (2024).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    },
+    {
+      "title": "How to implement an EU embargo on Russian oil",
+      "year": 2022,
+      "citation_raw": "A. E. Hosoi and S. Johnson, \"How to implement an EU embargo on Russian oil\", Centre for Economic Policy Research Insight No. 116 (2022).",
+      "source_url": "https://meche.mit.edu/people/faculty/PEKO@MIT.EDU"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ]
+}

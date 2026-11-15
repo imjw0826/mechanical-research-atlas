@@ -1,0 +1,1088 @@
+{
+  "university": "University of Oxford",
+  "university_key": "oxford",
+  "pi": "Xiaowen Dong",
+  "lab_name": null,
+  "lab_url": "https://eng.ox.ac.uk/people/xiaowen-dong",
+  "publication_urls": [
+    "http://web.media.mit.edu/~xdong/pub.html"
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Letouzé, Y.-A. de Montjoye, X, Dong and P, Vinck (Eds.)",
+      "year": 2019,
+      "citation_raw": "A. A. Salah, A. Pentland, B. Lepri, E. Letouzé, Y.-A. de Montjoye, X. Dong and P. Vinck (Eds.), Springer, 2019.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Graph learning [Link]",
+      "year": 2021,
+      "citation_raw": "Graph learning [Link] X. Dong, D. Thanou, M. Rabbat and P. Frossard Graph spectral image processing, G. Cheung and E. Magli (Eds.), ISTE, 2021, pp. 31-62.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Complex spreading phenomena in social systems: Influence and contagion in real-world social networks, S, Lehmann and Y.-Y, Ahn (Eds.)",
+      "year": 2018,
+      "citation_raw": "Complex spreading phenomena in social systems: Influence and contagion in real-world social networks, S. Lehmann and Y.-Y. Ahn (Eds.), Springer, 2018, pp. 323-333.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "A survey on over-smoothing and over-squashing: Unified propagation perspectives on graph neural networks and transformers [PDF]",
+      "year": 2026,
+      "citation_raw": "A survey on over-smoothing and over-squashing: Unified propagation perspectives on graph neural networks and transformers [PDF] Á. Arroyo, F. Barbero, H. Blayney, M. M. Bronstein, X. Dong, P. Lio, R. Pascanu and P. Vandergheynst Transactions on Machine Learning Research, March 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the impact of sample size in reconstructing noisy graph signals: A theoretical characterisation [PDF]",
+      "year": 2026,
+      "citation_raw": "On the impact of sample size in reconstructing noisy graph signals: A theoretical characterisation [PDF] B. Sripathmanathan, X. Dong and M. M. Bronstein IEEE Transactions on Signal Processing, vol. 74, pp. 1641-1655, March 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Understanding emergence in complex systems using abductive AI [PDF]",
+      "year": 2025,
+      "citation_raw": "Understanding emergence in complex systems using abductive AI [PDF] J. Ding, Y. Zheng, F. Xu, C. V. Cannistraci, X. Dong, P. Santi, G. Caldarelli, Y. Sun, Q. R. Wang, B. K. Szymanski, C. Ratti, T. Ideker, J. Gao, Y. Li and D. Chen Nature Reviews Physics, vol. 7, no. 12, pages 675-677, November 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Understanding stock market instability via graph auto-encoders [PDF]",
+      "year": 2025,
+      "citation_raw": "Understanding stock market instability via graph auto-encoders [PDF] D. Gorduza, S. Zohren and X. Dong EPJ Data Science, vol. 14, article no. 13, February 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Forecasting realized volatility with spillover effects: Perspectives from graph neural networks [PDF]",
+      "year": 2025,
+      "citation_raw": "Forecasting realized volatility with spillover effects: Perspectives from graph neural networks [PDF] C. Zhang, X. Pu, M. Cucuringu and X. Dong International Journal of Forecasting, vol. 41, no. 1, pp. 377-397, January-March 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Large language models for financial and investment management: Models, opportunities, and challenges [PDF]",
+      "year": 2024,
+      "citation_raw": "Large language models for financial and investment management: Models, opportunities, and challenges [PDF] Y. Kong, Y. Nie, X. Dong, J. M. Mulvey, H. V. Poor, Q. Wen and S. Zohren Journal of Portfolio Management, vol. 51, no. 2, pp. 211-231, December 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Large language models for financial and investment management: Applications and benchmarks [PDF]",
+      "year": 2024,
+      "citation_raw": "Large language models for financial and investment management: Applications and benchmarks [PDF] Y. Kong, Y. Nie, X. Dong, J. M. Mulvey, H. V. Poor, Q. Wen and S. Zohren Journal of Portfolio Management, vol. 51, no. 2, pp. 162-210, December 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Graph-based methods for forecasting realized covariances [PDF]",
+      "year": 2024,
+      "citation_raw": "Graph-based methods for forecasting realized covariances [PDF] C. Zhang, X. Pu, M. Cucuringu and X. Dong Journal of Financial Econometrics, article no. nbae026, November 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Long-range social influence in phone communication networks on offline adoption decisions [PDF]",
+      "year": 2024,
+      "citation_raw": "Long-range social influence in phone communication networks on offline adoption decisions [PDF] Y. Leng, X. Dong, E. Moro and A. Pentland Information Systems Research, vol. 35, no. 1, pp. 318-338, March 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Graph similarity learning for change-point detection in dynamic networks [PDF]",
+      "year": 2024,
+      "citation_raw": "Graph similarity learning for change-point detection in dynamic networks [PDF] D. Sulem, H. Kenlay, M. Cucuringu and X. Dong Machine Learning, vol. 113, pp. 1-44, January 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Behavioral changes during the COVID-19 pandemic decreased income diversity of urban encounters [PDF]",
+      "year": 2023,
+      "citation_raw": "Behavioral changes during the COVID-19 pandemic decreased income diversity of urban encounters [PDF] T. Yabe, B. G. B. Bueno, X. Dong, A. Pentland and E. Moro Nature Communications, vol. 14, article no. 2310, April 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Gaussian processes on graphs via spectral kernel learning [PDF]",
+      "year": 2023,
+      "citation_raw": "Gaussian processes on graphs via spectral kernel learning [PDF] Y.-C. Zhi, Y. C. Ng and X. Dong IEEE Transactions on Signal and Information Processing over Networks, vol. 9, no. 3, pp. 304-314, April 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Local2Global: A distributed approach for scaling representation learning on graphs [PDF]",
+      "year": 2023,
+      "citation_raw": "Local2Global: A distributed approach for scaling representation learning on graphs [PDF] L. G. S. Jeub, G. Colavizza, X. Dong, M. Bazzi and M. Cucuringu Machine Learning, vol. 112, pp. 1663-1692, February 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Maximum entropy approach to massive graph spectrum learning with applications [PDF]",
+      "year": 2022,
+      "citation_raw": "Maximum entropy approach to massive graph spectrum learning with applications [PDF] D. Granziol, B. Ru, X. Dong, S. Zohren, M. A. Osborne and S. Roberts Algorithms, Special Issue on Extreme Algorithmics: Analysis of Huge, Noisy, and Dynamic Networked Data, vol. 15, no. 6, article no. 209, June 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Interaction data are identifiable even across long periods of time [PDF]",
+      "year": 2022,
+      "citation_raw": "Interaction data are identifiable even across long periods of time [PDF] A.-M. Cretu, F. Monti, S. Marrone, X. Dong, M. M. Bronstein and Y.-A. de Montjoye Nature Communications, vol. 13, article no. 313, January 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Mobility patterns are associated with experienced income segregation in large US cities [PDF]",
+      "year": 2021,
+      "citation_raw": "Mobility patterns are associated with experienced income segregation in large US cities [PDF] E. Moro, D. Calacci, X. Dong and A. Pentland Nature Communications, vol. 12, article no. 4633, July 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Bayesian topology learning and noise removal from network data [PDF]",
+      "year": 2021,
+      "citation_raw": "Bayesian topology learning and noise removal from network data [PDF] M. R. Mayiami, M. Hajimirsadeghi, K. Skretting, X. Dong, R. S. Blum and H. V. Poor Discover Internet of Things, vol. 1, article no. 11, March 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Kernel-based graph learning from smooth signals: A functional viewpoint [PDF]",
+      "year": 2021,
+      "citation_raw": "Kernel-based graph learning from smooth signals: A functional viewpoint [PDF] X. Pu, S. L. Chau, X. Dong and D. Sejdinovic IEEE Transactions on Signal and Information Processing over Networks, vol. 7, pp. 192-207, February 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Sentiment correlation in financial news networks and associated market movements [PDF]",
+      "year": 2021,
+      "citation_raw": "Sentiment correlation in financial news networks and associated market movements [PDF] X. Wan, J. Yang, S. Marinov, J.-P. Calliess, S. Zohren and X. Dong Scientific Reports, vol. 11, article no. 3062, February 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Graph signal processing for machine learning: A review and new perspectives [PDF] [Extended version]",
+      "year": 2020,
+      "citation_raw": "Graph signal processing for machine learning: A review and new perspectives [PDF] [Extended version] X. Dong, D. Thanou, L. Toni, M. M. Bronstein and P. Frossard IEEE Signal Processing Magazine, vol. 37, no. 6, pp. 117-127, November 2020.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Segregated interactions in urban and online space [PDF]",
+      "year": 2020,
+      "citation_raw": "Segregated interactions in urban and online space [PDF] X. Dong, A. J. Morales, E. Jahani, E. Moro, B. Lepri, B. Bozkaya, C. Sarraute, Y. Bar-Yam and A. Pentland EPJ Data Science, vol. 9, article no. 20, July 2020.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Purchase patterns, socioeconomic status, and political inclination [PDF]",
+      "year": 2020,
+      "citation_raw": "Purchase patterns, socioeconomic status, and political inclination [PDF] X. Dong, E. Jahani, A. J. Morales, B. Bozkaya, B. Lepri and A. Pentland World Bank Economic Review, vol. 34, issue supplement_1, pp. S9-S13, February 2020.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Segregation and polarization in urban areas [PDF]",
+      "year": 2019,
+      "citation_raw": "Segregation and polarization in urban areas [PDF] A. J. Morales, X Dong, Y. Bar-Yam and A. Pentland Royal Society Open Science, vol. 6, no. 10, article ID 190573, October 2019.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "MEMe: An accurate maximum entropy method for efficient approximations in large-scale machine learning [PDF]",
+      "year": 2019,
+      "citation_raw": "MEMe: An accurate maximum entropy method for efficient approximations in large-scale machine learning [PDF] D. Granziol, B. Ru, S. Zohren, X. Dong, M. A. Osborne and S. Roberts Entropy, Special Issue on Entropy Based Inference and Optimization in Machine Learning, vol. 21, no. 6, article no. 551, May 2019.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning graphs from data: A signal representation perspective [PDF] [Errata]",
+      "year": 2019,
+      "citation_raw": "Learning graphs from data: A signal representation perspective [PDF] [Errata] X. Dong, D. Thanou, M. Rabbat and P. Frossard IEEE Signal Processing Magazine, vol. 36, no. 3, pp. 44-63, May 2019.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Behavioral attributes and financial churn prediction [PDF]",
+      "year": 2018,
+      "citation_raw": "Behavioral attributes and financial churn prediction [PDF] E. Kaya, X. Dong, Y. Suhara, S. Balcisoy, B. Bozkaya and A. Pentland EPJ Data Science, vol. 7, article no. 41, October 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Methods for quantifying effects of social unrest using credit card transaction data [PDF]",
+      "year": 2018,
+      "citation_raw": "Methods for quantifying effects of social unrest using credit card transaction data [PDF] X. Dong, J. Meyer, E. Shmueli, B. Bozkaya and A. Pentland EPJ Data Science, vol. 7, article no. 8, April 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Social bridges in urban purchase behavior [PDF]",
+      "year": 2018,
+      "citation_raw": "Social bridges in urban purchase behavior [PDF] X. Dong, Y. Suhara, B. Bozkaya, V. K. Singh, B. Lepri and A. Pentland ACM Transactions on Intelligent Systems and Technology, Special Issue on Urban Intelligence, vol. 9, no. 3, article no. 33, February 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning heat diffusion graphs [PDF]",
+      "year": 2017,
+      "citation_raw": "Learning heat diffusion graphs [PDF] D. Thanou, X. Dong, D. Kressner and P. Frossard IEEE Transactions on Signal and Information Processing over Networks, Special Issue on Graph Signal Processing, vol. 3, no. 3, pp. 484-499, September 2017.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning Laplacian matrix in smooth graph signal representations [PDF] [Code]",
+      "year": 2016,
+      "citation_raw": "Learning Laplacian matrix in smooth graph signal representations [PDF] [Code] X. Dong, D. Thanou, P. Frossard and P. Vandergheynst IEEE Transactions on Signal Processing, vol. 64, no. 23, pp. 6160-6173, December 2016.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Multiscale event detection in social media [PDF] [Code]",
+      "year": 2015,
+      "citation_raw": "Multiscale event detection in social media [PDF] [Code] X. Dong, D. Mavroeidis, F. Calabrese and P. Frossard Data Mining and Knowledge Discovery, Special Issue of the ECMLPKDD 2015 Journal Track, vol. 29, no. 5, pp. 1374-1405, September 2015.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Clustering on multi-layer graphs via subspace analysis on Grassmann manifolds [PDF] [Code] [TSP cover]",
+      "year": 2014,
+      "citation_raw": "Clustering on multi-layer graphs via subspace analysis on Grassmann manifolds [PDF] [Code] [TSP cover] X. Dong, P. Frossard, P. Vandergheynst and N. Nefedov IEEE Transactions on Signal Processing, vol. 62, no. 4, pp. 905-918, February 2014.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Clustering with multi-layer graphs: A spectral perspective [PDF] [Code]",
+      "year": 2012,
+      "citation_raw": "Clustering with multi-layer graphs: A spectral perspective [PDF] [Code] X. Dong, P. Frossard, P. Vandergheynst and N. Nefedov IEEE Transactions on Signal Processing, vol. 60, no. 11, pp. 5820-5831, November 2012.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Structural analysis of network traffic matrix via relaxed principal component pursuit [PDF]",
+      "year": 2012,
+      "citation_raw": "Structural analysis of network traffic matrix via relaxed principal component pursuit [PDF] Z. Wang, K. Hu, K. Xu, B. Yin and X. Dong Computer Networks, vol. 56, no. 7, pp. 2049-2067, May 2012.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Graph and simplicial complex prediction Gaussian process via Hodgelet representations [PDF]",
+      "year": 2026,
+      "citation_raw": "Graph and simplicial complex prediction Gaussian process via Hodgelet representations [PDF] M. Alain, S. Takao, B. Rieck, X. Dong and E. Noutahi Conference on Neural Information Processing Systems (NeurIPS), December 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Hierarchical graph representation learning with pooling-induced substructures [PDF]",
+      "year": 2026,
+      "citation_raw": "Hierarchical graph representation learning with pooling-induced substructures [PDF] L. Sbicego, X. Dong and D. Thanou Conference on Neural Information Processing Systems (NeurIPS), December 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Noisy isomorphism: Robust expressivity of graph neural networks [PDF]",
+      "year": 2026,
+      "citation_raw": "Noisy isomorphism: Robust expressivity of graph neural networks [PDF] N. Zhang, M. Cucuringu and X. Dong Conference on Neural Information Processing Systems (NeurIPS), December 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "A mechanistic analysis of looped reasoning language models [PDF]",
+      "year": 2026,
+      "citation_raw": "A mechanistic analysis of looped reasoning language models [PDF] H. Blayney, A. Arroyo, J. Obando-Ceron, P. S. Castro, A. Courville, M. M. Bronstein and X. Dong Conference on Neural Information Processing Systems (NeurIPS), December 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Judge a book by its cover: Investigating multi-modal LLMs for multi-page handwritten document transcription [PDF]",
+      "year": 2026,
+      "citation_raw": "Judge a book by its cover: Investigating multi-modal LLMs for multi-page handwritten document transcription [PDF] B. Gutteridge, M. T. Jackson, T. Kukurin and X. Dong Conference on Language Modeling (COLM), October 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "How out-of-distribution detection learning theory enhances transformer: Learnability and reliability [PDF]",
+      "year": 2026,
+      "citation_raw": "How out-of-distribution detection learning theory enhances transformer: Learnability and reliability [PDF] Y. Zhou, Y. Ge, W. Xie, L. Zeng, X. Dong and Y. Wang International Conference on Machine Learning (ICML), July 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Data-driven graph filters via adaptive spectral shaping [PDF]",
+      "year": 2026,
+      "citation_raw": "Data-driven graph filters via adaptive spectral shaping [PDF] D. Sandfelder, M. Cucuringu and X. Dong IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), May 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Spectral clustering for directed graphs via likelihood estimation on stochastic block models [PDF]",
+      "year": 2026,
+      "citation_raw": "Spectral clustering for directed graphs via likelihood estimation on stochastic block models [PDF] N. Zhang, X. Dong and M. Cucuringu International Conference on Artificial Intelligence and Statistics (AISTATS), May 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "k-Maximum inner product attention for graph transformers and the expressive power of GraphGPS [PDF]",
+      "year": 2026,
+      "citation_raw": "k-Maximum inner product attention for graph transformers and the expressive power of GraphGPS [PDF] J. De Schouwer, H. Sáez de Ocáriz Borde and X. Dong ICLR 2026 Workshop on Geometry-grounded Representation Learning and Generative Modeling, April 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Scalable message passing neural networks: No need for attention in large graph representation learning [PDF]",
+      "year": 2026,
+      "citation_raw": "Scalable message passing neural networks: No need for attention in large graph representation learning [PDF] H. Sáez de Ocáriz Borde, A. Lukoianov, A. Kratsios, M. M. Bronstein and X. Dong ICLR 2026 Workshop on Geometry-grounded Representation Learning and Generative Modeling, April 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Can graph foundation models generalize over architecture? [PDF]",
+      "year": 2026,
+      "citation_raw": "Can graph foundation models generalize over architecture? [PDF] B. Gutteridge, M. M. Bronstein and X. Dong ICLR 2026 Workshop on Geometry-grounded Representation Learning and Generative Modeling, April 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Bures-Wasserstein flow matching for graph generation [PDF]",
+      "year": 2026,
+      "citation_raw": "Bures-Wasserstein flow matching for graph generation [PDF] K. Jiang, J. Cui, X. Dong and L. Toni International Conference on Learning Representations (ICLR), April 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Attention sinks and compression valleys in LLMs are two sides of the same coin [PDF]",
+      "year": 2026,
+      "citation_raw": "Attention sinks and compression valleys in LLMs are two sides of the same coin [PDF] E. Queipo-de-Llano, Á. Arroyo, F. Barbero, X. Dong, M. M. Bronstein, Y. LeCun and R. Shwartz-Ziv International Conference on Learning Representations (ICLR), April 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "gLSTM: Mitigating over-squashing by increasing storage capacity [PDF]",
+      "year": 2026,
+      "citation_raw": "gLSTM: Mitigating over-squashing by increasing storage capacity [PDF] H. Blayney, Á. Arroyo, X. Dong and M. M. Bronstein International Conference on Learning Representations (ICLR), April 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Towards quantifying long-range interactions in graph machine learning: A large graph dataset and a measurement [PDF]",
+      "year": 2026,
+      "citation_raw": "Towards quantifying long-range interactions in graph machine learning: A large graph dataset and a measurement [PDF] H. Liang, H. Sáez de Ocáriz Borde, B. Sripathmanathan, M. M. Bronstein and X. Dong International Conference on Learning Representations (ICLR), April 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the impact of downstream tasks on sampling and reconstructing noisy graph signals [PDF]",
+      "year": 2025,
+      "citation_raw": "On the impact of downstream tasks on sampling and reconstructing noisy graph signals [PDF] B. Sripathmanathan, X. Dong and M. M. Bronstein IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), December 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "FLORA: GNNs as predictors of agentic workflow performances [PDF]",
+      "year": 2025,
+      "citation_raw": "FLORA: GNNs as predictors of agentic workflow performances [PDF] Y. Zhang, Y. Hou, B. Tang, S. Chen, M. Zhang, X. Dong and S. Chen Learning on Graphs Conference (LoG), December 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Return of ChebNet: Understanding and improving an overlooked GNN on long-range tasks [PDF]",
+      "year": 2025,
+      "citation_raw": "Return of ChebNet: Understanding and improving an overlooked GNN on long-range tasks [PDF] A. Hariri, Á. Arroyo, A. Gravina, M. Eliasof, C.-B. Schönlieb, D. Bacciu, K. Azizzadenesheli, X. Dong and P. Vandergheynst Conference on Neural Information Processing Systems (NeurIPS), December 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On vanishing gradients, over-smoothing, and over-squashing in GNNs: Bridging recurrent and graph learning [PDF]",
+      "year": 2025,
+      "citation_raw": "On vanishing gradients, over-smoothing, and over-squashing in GNNs: Bridging recurrent and graph learning [PDF] Á. Arroyo, A. Gravina, B. Gutteridge, F. Barbero, C. Gallicchio, X. Dong, M. M. Bronstein and P. Vandergheynst Conference on Neural Information Processing Systems (NeurIPS), December 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the stability of graph convolutional neural networks: A probabilistic perspective [PDF]",
+      "year": 2025,
+      "citation_raw": "On the stability of graph convolutional neural networks: A probabilistic perspective [PDF] N. Zhang, H. Kenlay, L. Zhang, M. Cucuringu and X. Dong Conference on Neural Information Processing Systems (NeurIPS), December 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Natural evolutionary search meets probabilistic numerics [PDF]",
+      "year": 2025,
+      "citation_raw": "Natural evolutionary search meets probabilistic numerics [PDF] P. Osselin, M. Adachi, X. Dong and M. A. Osborne International Conference on Probabilistic Numerics (ProbNum), September 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On measuring long-range interactions in graph neural networks [PDF]",
+      "year": 2025,
+      "citation_raw": "On measuring long-range interactions in graph neural networks [PDF] J. Bamberger, B. Gutteridge, S. le Roux, M. M. Bronstein and X. Dong International Conference on Machine Learning (ICML), July 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Heterogeneous graph structure learning through the lens of data-generating processes [PDF]",
+      "year": 2025,
+      "citation_raw": "Heterogeneous graph structure learning through the lens of data-generating processes [PDF] K. Jiang, B. Tang, X. Dong and L. Toni International Conference on Artificial Intelligence and Statistics (AISTATS), May 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Separation power of equivariant neural networks [PDF]",
+      "year": 2025,
+      "citation_raw": "Separation power of equivariant neural networks [PDF] M. Pacini, X. Dong, B. Lepri and G. Santin International Conference on Learning Representations (ICLR), April 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Neural spacetimes for DAG representation learning [PDF]",
+      "year": 2025,
+      "citation_raw": "Neural spacetimes for DAG representation learning [PDF] H. Sáez de Ocáriz Borde, A. Kratsios, M. T. Law, X. Dong and M. M. Bronstein International Conference on Learning Representations (ICLR), April 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Bundle neural networks for message diffusion on graphs [PDF]",
+      "year": 2025,
+      "citation_raw": "Bundle neural networks for message diffusion on graphs [PDF] J. Bamberger, F. Barbero, X. Dong and M. M. Bronstein International Conference on Learning Representations (ICLR), April 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Training-free message passing for learning on hypergraphs [PDF]",
+      "year": 2025,
+      "citation_raw": "Training-free message passing for learning on hypergraphs [PDF] B. Tang, Z. Liu, K. Jiang, S. Chen and X. Dong International Conference on Learning Representations (ICLR), April 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Rough transformers: Lightweight and continuous time series modelling through signature patching [PDF]",
+      "year": 2024,
+      "citation_raw": "Rough transformers: Lightweight and continuous time series modelling through signature patching [PDF] F. Moreno-Pino, Á. Arroyo, H. Waldon, X. Dong and Á. Cartea Conference on Neural Information Processing Systems (NeurIPS), December 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Bayesian optimization of functions over node subsets in graphs [PDF]",
+      "year": 2024,
+      "citation_raw": "Bayesian optimization of functions over node subsets in graphs [PDF] H. Liang, X. Wan and X. Dong Conference on Neural Information Processing Systems (NeurIPS), December 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Extracting alpha from financial analyst networks [PDF]",
+      "year": 2024,
+      "citation_raw": "Extracting alpha from financial analyst networks [PDF] D. Gorduza, Y. Kong, X. Dong and S. Zohren ACM International Conference on AI in Finance (ICAIF), November 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "STEntConv: Predicting disagreement between Reddit users with stance detection and a signed graph convolutional network [PDF]",
+      "year": 2024,
+      "citation_raw": "STEntConv: Predicting disagreement between Reddit users with stance detection and a signed graph convolutional network [PDF] I. Lorge, L. Zhang, X. Dong and J. B. Pierrehumbert Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), May 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "A characterization theorem for equivariant networks with point-wise activations [PDF]",
+      "year": 2024,
+      "citation_raw": "A characterization theorem for equivariant networks with point-wise activations [PDF] M. Pacini, X. Dong, B. Lepri and G. Santin International Conference on Learning Representations (ICLR), May 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Hypergraph transformer for semi-supervised classification [PDF]",
+      "year": 2024,
+      "citation_raw": "Hypergraph transformer for semi-supervised classification [PDF] Z. Liu, B. Tang, Z. Ye, X. Dong, S. Chen and Y. Wang IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), April 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Hypergraph-MLP: Learning on hypergraphs without message passing [PDF]",
+      "year": 2024,
+      "citation_raw": "Hypergraph-MLP: Learning on hypergraphs without message passing [PDF] B. Tang, S. Chen and X. Dong IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), April 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Neural latent geometry search: Product manifold inference via Gromov-Hausdorff-informed Bayesian optimization [PDF]",
+      "year": 2023,
+      "citation_raw": "Neural latent geometry search: Product manifold inference via Gromov-Hausdorff-informed Bayesian optimization [PDF] H. Sáez de Ocáriz Borde, Á. Arroyo, I. Morales, I. Posner and X. Dong Conference on Neural Information Processing Systems (NeurIPS), December 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Bayesian optimisation of functions on graphs [PDF]",
+      "year": 2023,
+      "citation_raw": "Bayesian optimisation of functions on graphs [PDF] X. Wan, P. Osselin, H. Kenlay, B. Ru, M. A. Osborne and X. Dong Conference on Neural Information Processing Systems (NeurIPS), December 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Graph classification Gaussian processes via spectral features [PDF]",
+      "year": 2023,
+      "citation_raw": "Graph classification Gaussian processes via spectral features [PDF] F. L. Opolka, Y.-C. Zhi, P. Liò and X. Dong Conference on Uncertainty in Artificial Intelligence (UAI), July-August 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Structure-aware robustness certificates for graph classification [PDF]",
+      "year": 2023,
+      "citation_raw": "Structure-aware robustness certificates for graph classification [PDF] P. Osselin, H. Kenlay and X. Dong Conference on Uncertainty in Artificial Intelligence (UAI), July-August 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "DRew: Dynamically rewired message passing with delay [PDF] [Blog]",
+      "year": 2023,
+      "citation_raw": "DRew: Dynamically rewired message passing with delay [PDF] [Blog] B. Gutteridge, X. Dong, M. M. Bronstein and F. Di Giovanni International Conference on Machine Learning (ICML), July 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the impact of sample size in reconstructing graph signals [PDF]",
+      "year": 2023,
+      "citation_raw": "On the impact of sample size in reconstructing graph signals [PDF] B. Sripathmanathan, X. Dong and M. M. Bronstein International conference on Sampling Theory and Applications (SampTA), July 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning hypergraphs from signals with dual smoothness prior [PDF]",
+      "year": 2023,
+      "citation_raw": "Learning hypergraphs from signals with dual smoothness prior [PDF] B. Tang, S. Chen and X. Dong IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the unreasonable effectiveness of feature propagation in learning on graphs with missing node features [PDF] [Blog]",
+      "year": 2022,
+      "citation_raw": "On the unreasonable effectiveness of feature propagation in learning on graphs with missing node features [PDF] [Blog] E. Rossi, H. Kenlay, M. I. Gorinova, B. P. Chamberlain, X. Dong and M. M. Bronstein Learning on Graphs Conference (LoG), December 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning to infer structures of network games [PDF] [Blog]",
+      "year": 2022,
+      "citation_raw": "Learning to infer structures of network games [PDF] [Blog] E. Rossi, F. Monti, Y. Leng, M. M. Bronstein and X. Dong International Conference on Machine Learning (ICML), July 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Modeling ideological salience and framing in polarized online groups with graph neural networks and structured sparsity [PDF]",
+      "year": 2022,
+      "citation_raw": "Modeling ideological salience and framing in polarized online groups with graph neural networks and structured sparsity [PDF] V. Hofmann, X. Dong, J. B. Pierrehumbert and H. Schuetze Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL Findings), July 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Understanding over-squashing and bottlenecks on graphs via curvature [PDF] [Blog]",
+      "year": 2022,
+      "citation_raw": "Understanding over-squashing and bottlenecks on graphs via curvature [PDF] [Blog] J. Topping, F. Di Giovanni, B. P. Chamberlain, X. Dong and M. M. Bronstein International Conference on Learning Representations (ICLR), April 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Adaptive Gaussian processes on graphs via spectral graph wavelets [PDF]",
+      "year": 2022,
+      "citation_raw": "Adaptive Gaussian processes on graphs via spectral graph wavelets [PDF] F. L. Opolka, Y.-C. Zhi, P. Liò and X. Dong International Conference on Artificial Intelligence and Statistics (AISTATS), March 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Beltrami flow and neural diffusion on graphs [PDF]",
+      "year": 2021,
+      "citation_raw": "Beltrami flow and neural diffusion on graphs [PDF] B. P. Chamberlain, J. Rowbottom, D. Eynard, F. Di Giovanni, X. Dong and M. M. Bronstein Conference on Neural Information Processing Systems (NeurIPS), December 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning to learn graph topologies [PDF]",
+      "year": 2021,
+      "citation_raw": "Learning to learn graph topologies [PDF] X. Pu, T. Cao, X. Zhang, X. Dong and S. Chen Conference on Neural Information Processing Systems (NeurIPS), December 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Adversarial attacks on graph classifiers via Bayesian optimisation [PDF]",
+      "year": 2021,
+      "citation_raw": "Adversarial attacks on graph classifiers via Bayesian optimisation [PDF] X. Wan, H. Kenlay, B. Ru, A. Blaas, M. A. Osborne and X. Dong Conference on Neural Information Processing Systems (NeurIPS), December 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Interpretable stability bounds for spectral graph filters [PDF]",
+      "year": 2021,
+      "citation_raw": "Interpretable stability bounds for spectral graph filters [PDF] H. Kenlay, D. Thanou and X. Dong International Conference on Machine Learning (ICML), July 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the stability of graph convolutional neural networks under edge rewiring [PDF]",
+      "year": 2021,
+      "citation_raw": "On the stability of graph convolutional neural networks under edge rewiring [PDF] H. Kenlay, D. Thanou and X. Dong IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Interpretable neural architecture search via Bayesian optimisation with Weisfeiler-Lehman kernels [PDF]",
+      "year": 2021,
+      "citation_raw": "Interpretable neural architecture search via Bayesian optimisation with Weisfeiler-Lehman kernels [PDF] B. Ru, X Wan, X. Dong and M. A. Osborne International Conference on Learning Representations (ICLR), May 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Mobility networks for predicting gentrification [PDF]",
+      "year": 2020,
+      "citation_raw": "Mobility networks for predicting gentrification [PDF] O. Gardiner and X. Dong International Conference on Complex Networks and their Applications (Complex Networks), December 2020.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Laplacian-regularized graph bandits: Algorithms and theoretical analysis [PDF]",
+      "year": 2020,
+      "citation_raw": "Laplacian-regularized graph bandits: Algorithms and theoretical analysis [PDF] K. Yang, X. Dong and L. Toni International Conference on Artificial Intelligence and Statistics (AISTATS), August 2020.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning quadratic games on networks [PDF]",
+      "year": 2020,
+      "citation_raw": "Learning quadratic games on networks [PDF] Y. Leng, X. Dong, J. Wu and A. Pentland International Conference on Machine Learning (ICML), July 2020.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the stability of polynomial spectral graph filters [PDF]",
+      "year": 2020,
+      "citation_raw": "On the stability of polynomial spectral graph filters [PDF] H. Kenlay, D. Thanou and X. Dong IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), May 2020.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Multi-modal image retrieval with random walk on multi-layer graphs [PDF]",
+      "year": 2016,
+      "citation_raw": "Multi-modal image retrieval with random walk on multi-layer graphs [PDF] R. Khasanova, X. Dong and P. Frossard IEEE International Symposium on Multimedia (ISM), San Jose, CA, USA, December 2016.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Laplacian matrix learning for smooth graph signal representation [PDF]",
+      "year": 2015,
+      "citation_raw": "Laplacian matrix learning for smooth graph signal representation [PDF] X. Dong, D. Thanou, P. Frossard and P. Vandergheynst IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brisbane, Australia, April 2015.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "SaferCity: A system for detecting incidents from social media [PDF]",
+      "year": 2013,
+      "citation_raw": "SaferCity: A system for detecting incidents from social media [PDF] M. Berlingerio, F. Calabrese, G. Di Lorenzo, X. Dong, Y. Gkoufas and D. Mavroeidis IEEE International Conference on Data Mining Workshops (ICDMW), Dallas, TX, USA, December 2013.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Clustering on multi-layer graphs via subspace analysis on Grassmann manifolds [PDF]",
+      "year": 2013,
+      "citation_raw": "Clustering on multi-layer graphs via subspace analysis on Grassmann manifolds [PDF] X. Dong, P. Frossard, P. Vandergheynst and N. Nefedov IEEE Global Conference on Signal and Information Processing (GlobalSIP), Austin, TX, USA, December 2013.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Inference of mobility patterns via spectral graph wavelets [PDF]",
+      "year": 2013,
+      "citation_raw": "Inference of mobility patterns via spectral graph wavelets [PDF] X. Dong, A. Ortega, P. Frossard and P. Vandergheynst IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Vancouver, Canada, May 2013.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning of structured graph dictionaries [PDF]",
+      "year": 2012,
+      "citation_raw": "Learning of structured graph dictionaries [PDF] X. Zhang, X. Dong and P. Frossard IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Kyoto, Japan, March 2012.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "A regularization framework for mobile social network analysis [PDF]",
+      "year": 2011,
+      "citation_raw": "A regularization framework for mobile social network analysis [PDF] X. Dong, P. Frossard, P. Vandergheynst and N. Nefedov IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Prague, Czech Republic, May 2011.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "TM-GNN: A factorised temporal multiplex graph neural network for dynamic link prediction in seabird foraging",
+      "year": 2026,
+      "citation_raw": "TM-GNN: A factorised temporal multiplex graph neural network for dynamic link prediction in seabird foraging T. Yankov, S. Schuetze , W. N. Yeung, T. Guilford and X. Dong International Conference on Statistics, Data Science, and Computing for the Environment and Climate Change (LACSC-TIES-EnviBayes-EnvrASA), December 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "A continuous formulation of anisotropy in graph neural networks",
+      "year": 2026,
+      "citation_raw": "A continuous formulation of anisotropy in graph neural networks C. Sweeney, J. Bamberger, M. M. Bronstein and X. Dong NeurIPS 2026 Workshop on Bridging Optimal Transport, Learning and Structured Data, December 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Network topology determines when small AI models collectively outperform a single larger model",
+      "year": 2026,
+      "citation_raw": "Network topology determines when small AI models collectively outperform a single larger model Y. Xu, L. Rocher and X. Dong International School and Conference on Network Science (NetSci), June 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Inferring daily heat-related mortality risk from weekly death records with machine learning",
+      "year": 2026,
+      "citation_raw": "Inferring daily heat-related mortality risk from weekly death records with machine learning J. Fromentin, S. W. Kemsley, X. Dong and L. Slater EGU General Assembly (EGU), May 2026.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the importance of task complexity in evaluating LLM-based multi-agent systems",
+      "year": 2025,
+      "citation_raw": "On the importance of task complexity in evaluating LLM-based multi-agent systems B. Tang, H. Liang, K. Jiang and X. Dong NeurIPS 2025 Workshop on Scaling Environments for Agents, December 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "LGDC: Latent graph diffusion via spectrum-preserving coarsening",
+      "year": 2025,
+      "citation_raw": "LGDC: Latent graph diffusion via spectrum-preserving coarsening N. Osman, K. Jiang, D. Buffelli, X. Dong and L. Toni NeurIPS 2025 Workshop on New Perspectives in Graph Machine Learning, December 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Towards quantifying long-range interactions in graph machine learning: A large graph dataset and a measurement",
+      "year": 2025,
+      "citation_raw": "Towards quantifying long-range interactions in graph machine learning: A large graph dataset and a measurement H. Liang, H. Sáez de Ocáriz Borde, B. Sripathmanathan, M. M. Bronstein and X. Dong NeurIPS 2025 Workshop on New Perspectives in Graph Machine Learning, December 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Bures-Wasserstein flow matching for graph generation",
+      "year": 2025,
+      "citation_raw": "Bures-Wasserstein flow matching for graph generation K. Jiang, J. Cui, X. Dong and L. Toni ICML 2025 Workshop on Generative AI and Biology, July 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Data-driven graph filters via adaptive spectral shaping",
+      "year": 2025,
+      "citation_raw": "Data-driven graph filters via adaptive spectral shaping D. Sandfelder, M. Cucuringu and X. Dong Graph Signal Processing Workshop (GSP), May 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Judge a book by its cover: Investigating multi-modal LLMs for multi-page handwritten document transcription",
+      "year": 2025,
+      "citation_raw": "Judge a book by its cover: Investigating multi-modal LLMs for multi-page handwritten document transcription B. Gutteridge, M. T. Jackson, T. Kukurin and X. Dong AAAI 2025 Workshop on Document Understanding and Intelligence, March 2025.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Graph classification Gaussian processes via Hodgelet spectral features",
+      "year": 2024,
+      "citation_raw": "Graph classification Gaussian processes via Hodgelet spectral features M. Alain, S. Takao, B. Rieck, X. Dong and E. Noutahi NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty, December 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Hypergraph transformer for semi-supervised classification",
+      "year": 2024,
+      "citation_raw": "Hypergraph transformer for semi-supervised classification Z. Liu, B. Tang, Z. Ye, X. Dong, S. Chen and Y. Wang Graph Signal Analysis & Learning Workshop (GSAL), July 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Bundle neural networks for message diffusion on graphs",
+      "year": 2024,
+      "citation_raw": "Bundle neural networks for message diffusion on graphs J. Bamberger, F. Barbero, X. Dong and M. M. Bronstein ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling, July 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Heterogeneous graph structure learning: A statistical perspective",
+      "year": 2024,
+      "citation_raw": "Heterogeneous graph structure learning: A statistical perspective K. Jiang, B. Tang, X. Dong and L. Toni Graph Signal Processing Workshop (GSP), June 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the impact of sample size in reconstructing signals with graph Laplacian regularisation",
+      "year": 2024,
+      "citation_raw": "On the impact of sample size in reconstructing signals with graph Laplacian regularisation B. Sripathmanathan, X. Dong and M. M. Bronstein Graph Signal Processing Workshop (GSP), June 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Decentralized and lifelong-adaptive multi-agent collaborative learning",
+      "year": 2024,
+      "citation_raw": "Decentralized and lifelong-adaptive multi-agent collaborative learning S. Tang, R. Ye, C. Xu, X. Dong, S. Chen and Y. Wang Graph Signal Processing Workshop (GSP), June 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Hypergraph transformer for semi-supervised classification",
+      "year": 2024,
+      "citation_raw": "Hypergraph transformer for semi-supervised classification Z. Liu, B. Tang, Z. Ye, X. Dong, S. Chen and Y. Wang Graph Signal Processing Workshop (GSP), June 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "A novel smoothness prior for hypergraph machine learning",
+      "year": 2024,
+      "citation_raw": "A novel smoothness prior for hypergraph machine learning B. Tang, S. Chen and X. Dong Graph Signal Processing Workshop (GSP), June 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the stability of graph spectral filters: A probabilistic perspective",
+      "year": 2024,
+      "citation_raw": "On the stability of graph spectral filters: A probabilistic perspective N. Zhang, H. Kenlay, M. Cucuringu and X. Dong Graph Signal Processing Workshop (GSP), June 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Rough transformers for continuous and efficient time-series modelling",
+      "year": 2024,
+      "citation_raw": "Rough transformers for continuous and efficient time-series modelling F. Moreno-Pino, Á. Arroyo, H. Waldon, X. Dong and Á. Cartea ICLR 2024 Workshop on Learning from Time Series for Health, May 2024.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Maximum likelihood estimation on stochastic blockmodels for directed graph clustering",
+      "year": 2023,
+      "citation_raw": "Maximum likelihood estimation on stochastic blockmodels for directed graph clustering M. Cucuringu, X. Dong and N. Zhang International Conference on Complex Networks and Their Applications (Complex Networks), November 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Point-wise activations and steerable convolutional networks",
+      "year": 2023,
+      "citation_raw": "Point-wise activations and steerable convolutional networks M. Pacini, X. Dong, B. Lepri and G. Santin Learning on Graphs Conference (LoG), November 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning to learn network momentum",
+      "year": 2023,
+      "citation_raw": "Learning to learn network momentum X. Pu, S. Roberts, X. Dong and S. Zohren ICAIF 2023 Workshop on NLP and Network Analysis in Financial Applications, November 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Gromov-Hausdorff distances for comparing product manifolds of model spaces",
+      "year": 2023,
+      "citation_raw": "Gromov-Hausdorff distances for comparing product manifolds of model spaces H. Sáez de Ocáriz Borde, Á. Arroyo, I. Morales, I. Posner and X. Dong ICML 2023 Workshop on Topology, Algebra, and Geometry in Machine Learning, July 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Predicting polarisation of dynamic social networks via graph auto-encoders",
+      "year": 2023,
+      "citation_raw": "Predicting polarisation of dynamic social networks via graph auto-encoders L. Zhang, I. Lorge, J. B. Pierrehumbert and X. Dong International Conference on Computational Social Science (IC2S2), July 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning heterogeneous graphs with generalized smoothness",
+      "year": 2023,
+      "citation_raw": "Learning heterogeneous graphs with generalized smoothness K. Jiang, L. Toni and X. Dong Graph Signal Processing Workshop (GSP), June 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the impact of sample size in reconstructing graph signals",
+      "year": 2023,
+      "citation_raw": "On the impact of sample size in reconstructing graph signals B. Sripathmanathan, X. Dong and M. M. Bronstein Graph Signal Processing Workshop (GSP), June 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Unrolled graph learning for multi-agent collaboration",
+      "year": 2023,
+      "citation_raw": "Unrolled graph learning for multi-agent collaboration E. Zhang, S. Tang, X. Dong, S. Chen and Y. Wang Graph Signal Processing Workshop (GSP), June 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning hypergraphs from signals with dual smoothness prior",
+      "year": 2023,
+      "citation_raw": "Learning hypergraphs from signals with dual smoothness prior B. Tang, S. Chen and X. Dong Graph Signal Processing Workshop (GSP), June 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Graph classification Gaussian processes via spectral features",
+      "year": 2023,
+      "citation_raw": "Graph classification Gaussian processes via spectral features F. L. Opolka, Y.-C. Zhi, P. Liò and X. Dong Graph Signal Processing Workshop (GSP), June 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Transductive kernels for Gaussian processes on graphs",
+      "year": 2023,
+      "citation_raw": "Transductive kernels for Gaussian processes on graphs Y.-C. Zhi, F. L. Opolka, Y. C. Ng, P. Liò and X. Dong Graph Signal Processing Workshop (GSP), June 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Transductive kernels for Gaussian processes on graphs",
+      "year": 2023,
+      "citation_raw": "Transductive kernels for Gaussian processes on graphs Y.-C. Zhi, F. L. Opolka, Y. C. Ng, P. Liò and X. Dong Workshop on Statistical Learning on Large Scale Graphs (LARGR), March 2023.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the unreasonable effectiveness of feature propagation in learning on graphs with missing node features",
+      "year": 2022,
+      "citation_raw": "On the unreasonable effectiveness of feature propagation in learning on graphs with missing node features E. Rossi, H. Kenlay, M. I. Gorinova, B. P. Chamberlain, X. Dong and M. M. Bronstein NeurIPS 2022 Workshop on New Frontiers in Graph Learning, December 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Understanding stock market instability via graph auto-encoders",
+      "year": 2022,
+      "citation_raw": "Understanding stock market instability via graph auto-encoders D. Gorduza, X. Dong and S. Zohren NeurIPS 2022 Workshop on Graph Learning for Industrial Applications, December 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Can social connections be protected when behavioral data is public?",
+      "year": 2022,
+      "citation_raw": "Can social connections be protected when behavioral data is public? Y. Leng, Y. Chen, X. Dong, J. Wu and G. Shi Workshop on Information Technology and Systems (WITS), December 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Structure-aware robustness certificates for graph classification",
+      "year": 2022,
+      "citation_raw": "Structure-aware robustness certificates for graph classification P. Osselin, H. Kenlay and X. Dong International Workshop on Mining and Learning with Graphs (MLG), September 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the unreasonable effectiveness of feature propagation in learning on graphs with missing node features",
+      "year": 2022,
+      "citation_raw": "On the unreasonable effectiveness of feature propagation in learning on graphs with missing node features E. Rossi, H. Kenlay, M. I. Gorinova, B. P. Chamberlain, X. Dong and M. M. Bronstein ECML PKDD 2022 Workshop on Graph Quality, September 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Graph similarity learning for change-point detection in dynamic networks",
+      "year": 2022,
+      "citation_raw": "Graph similarity learning for change-point detection in dynamic networks D. Sulem, H. Kenlay, M. Cucuringu and X. Dong NetSci 2022 Satellite Symposium on Higher-Order Topology & Dynamics in Complex Networks, July 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Graph similarity learning for change-point detection in dynamic networks",
+      "year": 2022,
+      "citation_raw": "Graph similarity learning for change-point detection in dynamic networks D. Sulem, H. Kenlay, M. Cucuringu and X. Dong International School and Conference on Network Science (NetSci), July 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Long-term behavioral changes during COVID-19 have increased urban segregation",
+      "year": 2022,
+      "citation_raw": "Long-term behavioral changes during COVID-19 have increased urban segregation T. Yabe, B. G. B. Bueno, X. Dong, A. Pentland and E. Moro International School and Conference on Network Science (NetSci), July 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Long-term impacts of COVID-19 on urban income segregation",
+      "year": 2022,
+      "citation_raw": "Long-term impacts of COVID-19 on urban income segregation T. Yabe, B. G. B. Bueno, X. Dong, A. Pentland and E. Moro International Conference on Computational Social Science (IC2S2), July 2022.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Interaction data are identifiable even across long periods of time",
+      "year": 2021,
+      "citation_raw": "Interaction data are identifiable even across long periods of time A.-M. Cretu, F. Monti, S. Marrone, X. Dong, M. M. Bronstein and Y.-A. de Montjoye NeurIPS 2021 Workshop on Privacy in Machine Learning, December 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Interaction data are identifiable even across long periods of time",
+      "year": 2021,
+      "citation_raw": "Interaction data are identifiable even across long periods of time A.-M. Cretu, F. Monti, S. Marrone, X. Dong, M. M. Bronstein and Y.-A. de Montjoye ACM CCS 2021 Workshop on Privacy Preserving Machine Learning, November 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Local2Global: Scaling global representation learning on graphs via local training",
+      "year": 2021,
+      "citation_raw": "Local2Global: Scaling global representation learning on graphs via local training L. G. S. Jeub, G. Colavizza, X. Dong, M. Bazzi and M. Cucuringu KDD 2021 Workshop on Deep Learning on Graphs: Methods and Applications, August 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Attacking graph classification via Bayesian optimisation",
+      "year": 2021,
+      "citation_raw": "Attacking graph classification via Bayesian optimisation X. Wan, H. Kenlay, B. Ru, A. Blaas, M. A. Osborne and X. Dong ICML 2021 Workshop on Adversarial Machine Learning, July 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the stability of graph convolutional neural networks under edge rewiring",
+      "year": 2021,
+      "citation_raw": "On the stability of graph convolutional neural networks under edge rewiring H. Kenlay, D. Thanou and X. Dong ICLR 2021 Workshop on Geometrical and Topological Representation Learning, May 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "On the stability of graph convolutional neural networks under edge rewiring",
+      "year": 2021,
+      "citation_raw": "On the stability of graph convolutional neural networks under edge rewiring H. Kenlay, D. Thanou and X. Dong AAAI 2021 Workshop on Deep Learning on Graphs, February 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Gaussian processes on graphs via spectral kernel learning",
+      "year": 2021,
+      "citation_raw": "Gaussian processes on graphs via spectral kernel learning Y.-C. Zhi, Y. C. Ng and X. Dong AAAI 2021 Workshop on Graphs and more Complex Structures for Learning and Reasoning, February 2021.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Geometric deep learning for music genre classification",
+      "year": 2020,
+      "citation_raw": "Geometric deep learning for music genre classification M. Sathyamurthy, X. Dong and M. Pawan Kumar International Workshop on Machine Learning and Music (MML), September 2020.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Segregated behaviors in American cities",
+      "year": 2020,
+      "citation_raw": "Segregated behaviors in American cities E. Moro, D. Calacci, X. Dong and A. Pentland International Conference on Computational Social Science (IC2S2), July 2020.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Beyond exposure: The complex pattern of social influence",
+      "year": 2020,
+      "citation_raw": "Beyond exposure: The complex pattern of social influence Y. Leng, X. Dong, M. Travizano, E. Moro and A. Pentland International Conference on Computational Social Science (IC2S2), July 2020.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Entropic graph spectrum",
+      "year": 2019,
+      "citation_raw": "Entropic graph spectrum D. Granziol, B. Ru, S. Zohren, X. Dong, M. A. Osborne and S. Roberts NeurIPS 2019 Workshop on Information Theory and Machine Learning, Vancouver, Canada, December 2019.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Mapping segregation in urban areas",
+      "year": 2019,
+      "citation_raw": "Mapping segregation in urban areas A. J. Morales, X. Dong, Y. Bar-Yam and A. Pentland International Conference on Computational Social Science (IC2S2), Amsterdam, Netherlands, July 2019.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning network structure in linear quadratic games",
+      "year": 2019,
+      "citation_raw": "Learning network structure in linear quadratic games Y. Leng, X. Dong and A. Pentland International Conference on Computational Social Science (IC2S2), Amsterdam, Netherlands, July 2019.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Mapping segregation in urban areas",
+      "year": 2019,
+      "citation_raw": "Mapping segregation in urban areas A. J. Morales, X. Dong, Y. Bar-Yam and A. Pentland International School and Conference on Network Science (NetSci), Burlington, VT, USA, May 2019.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Beyond exposure: The complex pattern of social influence",
+      "year": 2019,
+      "citation_raw": "Beyond exposure: The complex pattern of social influence Y. Leng, X. Dong, E. Moro and A. Pentland International School and Conference on Network Science (NetSci), Burlington, VT, USA, May 2019.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning quadratic games on networks",
+      "year": 2018,
+      "citation_raw": "Learning quadratic games on networks Y. Leng, X. Dong and A. Pentland International Conference on Complex Networks and Their Applications (Complex Networks), Cambridge, UK, December 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Inferring mobile app preference via multi-view geometric information fusion",
+      "year": 2018,
+      "citation_raw": "Inferring mobile app preference via multi-view geometric information fusion Y. Leng, X. Dong, D. Adjodah and A. Pentland Conference on Information Systems and Technology (CIST), Phoenix, AZ, USA, November 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Quantifying heterogeneous social influence via ego network structures",
+      "year": 2018,
+      "citation_raw": "Quantifying heterogeneous social influence via ego network structures Y. Leng, X. Dong, E. Moro and A. Pentland Conference on Digital Experimentation (CODE), Cambridge, MA, USA, October 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Mapping segregation in urban areas",
+      "year": 2018,
+      "citation_raw": "Mapping segregation in urban areas A. J. Morales, Y. Bar-Yam, X. Dong and A. Pentland Conference on Complex Systems (CCS), Thessaloniki, Greece, September 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Economical segregation of encounter networks in cities",
+      "year": 2018,
+      "citation_raw": "Economical segregation of encounter networks in cities E. Moro, D. Calacci, X. Dong, M. Cebrian and A. Pentland International Conference on Computational Social Science (IC2S2), Evanston, IL, USA, July 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Economical segregation of encounter networks in cities",
+      "year": 2018,
+      "citation_raw": "Economical segregation of encounter networks in cities E. Moro, D. Calacci, X. Dong, M. Cebrian and A. Pentland International School and Conference on Network Science (NetSci), Paris, France, June 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "A Bayesian learning model for decision-making in social networks",
+      "year": 2018,
+      "citation_raw": "A Bayesian learning model for decision-making in social networks Y. Leng, X. Dong, E. Moro and A. Pentland International School and Conference on Network Science (NetSci), Paris, France, June 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Inferring mobile app preference via multi-view geometric information fusion",
+      "year": 2018,
+      "citation_raw": "Inferring mobile app preference via multi-view geometric information fusion Y. Leng, X. Dong, D. Adjodah and A. Pentland Graph Signal Processing Workshop (GSP), Lausanne, Switzerland, June 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "A large-scale experiment and model of social influence in phone communication networks",
+      "year": 2018,
+      "citation_raw": "A large-scale experiment and model of social influence in phone communication networks Y. Leng, X. Dong, E. Moro and A. Pentland Annual Conference on Network Science and Economics (NetSciEcon), Nashville, TN, USA, April 2018.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Coupling patterns of virtual and physical behavior",
+      "year": 2017,
+      "citation_raw": "Coupling patterns of virtual and physical behavior A. J. Morales, X. Dong, Y. Bar-Yam and A. Pentland Conference on Complex Systems (CCS), Cancún, Mexico, September 2017.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Coupling patterns of virtual and physical behavior",
+      "year": 2017,
+      "citation_raw": "Coupling patterns of virtual and physical behavior A. J. Morales, X. Dong, Y. Bar-Yam, B. Bozkaya and A. Pentland International Conference on Computational Social Science (IC2S2), Cologne, Germany, July 2017.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "The ripple effect: You are more influential than you think",
+      "year": 2017,
+      "citation_raw": "The ripple effect: You are more influential than you think Y. Leng, X. Dong, E. Moro and A. Pentland International School and Conference on Network Science (NetSci), Indianapolis, IN, USA, June 2017.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Spatial structure of cities: How neighborhoods' activity patterns shape inequality and polycentricity",
+      "year": 2016,
+      "citation_raw": "Spatial structure of cities: How neighborhoods' activity patterns shape inequality and polycentricity M. De Nadai, X. Dong, R. Larcher, A. Pentland and B. Lepri International Conference on Computational Social Science (IC2S2), Evanston, IL, USA, June 2016.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "DeepShop: Understanding purchase patterns via deep learning",
+      "year": 2016,
+      "citation_raw": "DeepShop: Understanding purchase patterns via deep learning Y. Suhara, X. Dong, B. Bozkaya and A. Pentland International Conference on Computational Social Science (IC2S2), Evanston, IL, USA, June 2016.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Purchase patterns, socioeconomic status, and political inclination",
+      "year": 2016,
+      "citation_raw": "Purchase patterns, socioeconomic status, and political inclination X. Dong, E. Jahani, A. J. Morales, B. Bozkaya, B. Lepri and A. Pentland International Conference on Computational Social Science (IC2S2), Evanston, IL, USA, June 2016.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Purchase patterns, socioeconomic status, and political inclination",
+      "year": 2016,
+      "citation_raw": "Purchase patterns, socioeconomic status, and political inclination X. Dong, E. Jahani, A. J. Morales, B. Bozkaya, B. Lepri and A. Pentland Annual Bank Conference on Development Economics (ABCDE), Washington, DC, USA, June 2016.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Learning graph Laplacians: A signal representation perspective",
+      "year": 2016,
+      "citation_raw": "Learning graph Laplacians: A signal representation perspective D. Thanou, X. Dong and P. Frossard Graph Signal Processing Workshop (GSP), Philadelphia, PA, USA, May 2016.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Social bridges in community purchase behavior",
+      "year": 2015,
+      "citation_raw": "Social bridges in community purchase behavior X. Dong, Y. Suhara, B. Bozkaya, V. K. Singh and A. Pentland Workshop on Information in Networks (WIN), New York, NY, USA, October 2015.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    },
+    {
+      "title": "Methods for clustering multi-layer graphs in mobile networks",
+      "year": 2011,
+      "citation_raw": "Methods for clustering multi-layer graphs in mobile networks X. Dong, P. Frossard, P. Vandergheynst and N. Nefedov Interdisciplinary Workshop on Information and Decision in Social Networks (WIDS), Cambridge, MA, USA, May-June 2011.",
+      "source_url": "https://web.media.mit.edu/~xdong/pub.html"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Department profile inspected. Only inline Most Recent Publications extracted here, with unavailable fields null. Entire lab publication corpus NOT yet traversed; partial, requires resume.",
+    {
+      "discovered_links": [
+        {
+          "text": "Personal website",
+          "url": "https://web.media.mit.edu/~xdong/"
+        }
+      ]
+    },
+    {
+      "identity_evidence": {
+        "url": "https://eng.ox.ac.uk/people/xiaowen-dong",
+        "visible_name_line": "Xiaowen Dong PhD",
+        "following_lines": [
+          "PROFESSOR",
+          "Associate Professor of Engineering Science"
+        ]
+      }
+    }
+  ]
+}

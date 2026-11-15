@@ -1,0 +1,637 @@
+{
+  "university": "ETH Zurich",
+  "university_key": "eth",
+  "pi": "Robert Katzschmann",
+  "lab_name": null,
+  "lab_url": "https://mrl.ethz.ch/",
+  "publication_urls": [
+    "https://srl.ethz.ch/publications/journal-articles.html",
+    "https://srl.ethz.ch/publications/conference-papers.html",
+    "https://srl.ethz.ch/publications.html"
+  ],
+  "accessed_at": "2026-11-12T15:15:25.475850+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing",
+      "year": 2026,
+      "citation_raw": "High-Speed, Scalable Sensor Readout for Dexterous Robotic Hands via Shift-Register Multiplexing Jaehoon Kim, Boshi An, Lazaros Christoforidis, Michail Papadakis, Victor Kartsch and Robert K. Katzschmann IEEE Robotics and Automation Letters, vol. 11: no. 12, pp. 14164-14171, IEEE, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "A Benchmark of Dexterity for Anthropomorphic Robotic Hands",
+      "year": 2026,
+      "citation_raw": "A Benchmark of Dexterity for Anthropomorphic Robotic Hands Davide Liconti, Yuning Zhou, Yasunori Toshimitsu, Ronan Hinchet, Aurel X. Appius and Robert K. Katzschmann IEEE Robotics and Automation Letters, vol. 11: no. 11, pp. 13287-13294, IEEE, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Nonlinear spectral modeling and control of soft-robotic muscles from data",
+      "year": 2026,
+      "citation_raw": "Nonlinear spectral modeling and control of soft-robotic muscles from data Leonardo Bettini, Amirhossein Kazemipour, Robert K. Katzschmann and George Haller Nature Communications, vol. 17: no. 1, pp. 10897, Nature, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Co-optimized volumetric muscle design for large dynamic deformations in versatile biohybrid robots",
+      "year": 2026,
+      "citation_raw": "Co-optimized volumetric muscle design for large dynamic deformations in versatile biohybrid robots Aiste Balciunaite, Mike Yan Michelis, Miriam Filippi, Pablo Paniagua Hernández, Oncay Yasa and Robert K. Katzschmann Nature Communications, vol. 17: no. 1, pp. 10732, Nature, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Emerging Frontiers and Technological Challenges in Soft Robotics",
+      "year": 2026,
+      "citation_raw": "Emerging Frontiers and Technological Challenges in Soft Robotics Jiangtao Su, Shun An, Lucia Beccai, Lei Chen, Xingyu Chen, Shengshun Duan, Lioz Etgar, Huajian Gao, Amir D. Gat, Qi Ge, Shang Gong, Cuntai Guan, Robert K. Katzschmann, Cecilia Laschi, Pooi See Lee, Jiaji Li, Yifan Li, Chwee Teck Lim, Qingyang Liu, Ziwei Liu and et al. ACS Nano, vol. 20: no. 35, pp. 24135-24167, American Chemical Society, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Integrated by Design: A Hybrid Robotic Palm Fusing a Functionally-Dense Compliant Matrix with an Actuated Skeleton",
+      "year": 2026,
+      "citation_raw": "Integrated by Design: A Hybrid Robotic Palm Fusing a Functionally-Dense Compliant Matrix with an Actuated Skeleton Oliver S. Neumann, Lena S. Ewering and Robert K. Katzschmann IEEE Robotics and Automation Letters, vol. 11: no. 8, pp. 9915-9921, IEEE, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Machine learning approaches for biomechanical and bioelectrical regulation in developmental tissue engineering",
+      "year": 2026,
+      "citation_raw": "Machine learning approaches for biomechanical and bioelectrical regulation in developmental tissue engineering Miriam Filippi and Robert K. Katzschmann Bio-Design and Manufacturing, vol. 9: no. 4, pp. 726-755, Springer, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Sensorized Engineered Tissues with Built-in Thermoregulation and Nutrient Supply",
+      "year": 2026,
+      "citation_raw": "Sensorized Engineered Tissues with Built-in Thermoregulation and Nutrient Supply Antonia Georgopoulou, Jakob Schreiner, Miriam Filippi, Aiste Balciunaite, Robert K. Katzschmann and Esther Amstad Advanced Functional Materials, vol. 36: no. 38, pp. e30747, Wiley-VCH, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "General oblique projections for model reduction via spectral submanifolds",
+      "year": 2026,
+      "citation_raw": "General oblique projections for model reduction via spectral submanifolds Leonardo Bettini, Amirhossein Kazemipour, Robert K. Katzschmann and George Haller Chaos, vol. 36: no. 5, pp. 053122, American Institute of Physics, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Biocompatible Ink Optimization Enables Functional Volumetric Bioprinting With Xolography",
+      "year": 2026,
+      "citation_raw": "Biocompatible Ink Optimization Enables Functional Volumetric Bioprinting With Xolography Erik Brauer, Aiste Balciunaite, Matthias R. Kollert, Julian Weihs, Raphael S. Knecht, Rose Behncke, Susanna Quach, Niklas Felix König, Asia Badolato, Stella Monestier, Simone Bersini, Matteo Moretti, Miriam Filippi, René Hägerling, Milad Rezvani, Stefan Hecht, Ansgar Petersen and Robert K. Katzschmann Advanced Materials, vol. 38: no. 6, pp. e12058, Wiley-VCH, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "From Lab to Landscape: Environmental Biohybrid Robotics for Ecological Futures",
+      "year": 2026,
+      "citation_raw": "From Lab to Landscape: Environmental Biohybrid Robotics for Ecological Futures Miriam Filippi Advanced Robotics Research, pp. e202500196, Wiley-VCH, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Volumetric 3D Printing and Melt‐Electrowriting to Fabricate Implantable Reinforced Cardiac Tissue Patches",
+      "year": 2025,
+      "citation_raw": "Volumetric 3D Printing and Melt‐Electrowriting to Fabricate Implantable Reinforced Cardiac Tissue Patches Lewis Scott Jones, Hector Rodriguez Cetina Biefer, Manuel Mekkattu, Quinten Thijssen, Allesio Amicone, Anna Bock, Miriam Weisskopf, Dennis Zorndt, Debora Meier, Li Zheng, Melanie Generali, Robert K. Katzschmann and Omer Dzemali Advanced Materials, vol. 37: no. 45, pp. 2504765, Wiley-VCH, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "PokeFlex: A Real-World Dataset of Volumetric Deformable Objects for Robotics",
+      "year": 2025,
+      "citation_raw": "PokeFlex: A Real-World Dataset of Volumetric Deformable Objects for Robotics Jan Obrist, Miguel Zamora, Hehui Zheng, Ronan Hinchet, Firat Ozdemir, Juan José Zarate, Robert K. Katzschmann and Stelian Coros IEEE Robotics and Automation Letters, vol. 10: no. 10, pp. 10586-10593, IEEE, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Bioprinting of piezoresistive organohydrogel networks for advanced real-time mechanosensing in engineered tissue models",
+      "year": 2025,
+      "citation_raw": "Bioprinting of piezoresistive organohydrogel networks for advanced real-time mechanosensing in engineered tissue models Miriam Filippi, Asia Badolato, Antonia Georgopoulou, Diana Mock, Jakob Schreiner, Mike Yan Michelis, Esther Amstad and Robert K. Katzschmann Trends in Biotechnology, vol. 43: no. 10, pp. 2509-2538, Cell Press, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Magnetic Soft Robots for Targeted Bacterial Delivery and Enhanced Tumor Spheroid Disaggregation",
+      "year": 2025,
+      "citation_raw": "Magnetic Soft Robots for Targeted Bacterial Delivery and Enhanced Tumor Spheroid Disaggregation Tamara Krauss, Öncay Yasa, Vitaly Pustovalov, Miriam Filippi, Salvador Pané and Robert K. Katzschmann Advanced Intelligent Systems, vol. 7: no. 10, pp. 2500257, Wiley-VCH, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Sensor-Embedded Muscle for Closed-Loop Controllable Actuation in Proprioceptive Biohybrid Robots",
+      "year": 2025,
+      "citation_raw": "Sensor-Embedded Muscle for Closed-Loop Controllable Actuation in Proprioceptive Biohybrid Robots Miriam Filippi, Aiste Balciunaite, Antonia Georgopoulou, Pablo Paniagua, Felix Drescher, Minghao Nie, Shoji Takeuchi, Frank Jörg Clemens and Robert K. Katzschmann Advanced Intelligent Systems, vol. 7: no. 10, pp. 2400413, Wiley-VCH, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Bio-hybrids: When Robots Come Alive",
+      "year": 2025,
+      "citation_raw": "Bio-hybrids: When Robots Come Alive Miriam Filippi and Robert K. Katzschmann Advanced Intelligent Systems, vol. 7: no. 10, pp. 2500822, Wiley-VCH, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Multicellular muscle-tendon bioprinting of mechanically optimized musculoskeletal bioactuators with enhanced force transmission",
+      "year": 2025,
+      "citation_raw": "Multicellular muscle-tendon bioprinting of mechanically optimized musculoskeletal bioactuators with enhanced force transmission Miriam Filippi, Diana Mock, Judith Fuentes, Mike Yan Michelis, Aiste Balciunaite, Pablo Paniagua, Raoul Hopf, Adina Barteld, Selina Eng, Asia Badolato, Jess Gerrit Snedeker, Maria Guix, Samuel Sánchez and Robert K. Katzschmann Science Advances, vol. 11: no. 29, pp. eadv2628, AAAS, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Blurring the lines between printed machines and living robots",
+      "year": 2025,
+      "citation_raw": "Blurring the lines between printed machines and living robots Robert K. Katzschmann and Thomas Jakob Konrad Buchner Science Advances, vol. 11: no. 29, pp. eaea2482, AAAS, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Inverse reinforcement learning for objective discovery in collective behavior of artificial swimmers",
+      "year": 2025,
+      "citation_raw": "Inverse reinforcement learning for objective discovery in collective behavior of artificial swimmers Daniel Wälchli, Pascal Weber, Michail Chatzimanolakis, Robert K. Katzschmann and Petros Koumoutsakos Physical Review Fluids, vol. 10: no. 6, pp. 064901, American Physical Society, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Model-Based Capacitive Touch Sensing in Soft Robotics: Achieving Robust Tactile Interactions for Artistic Applications",
+      "year": 2025,
+      "citation_raw": "Model-Based Capacitive Touch Sensing in Soft Robotics: Achieving Robust Tactile Interactions for Artistic Applications Carolina Silva-Plata, Carlos Rosel, Barnabas Gavin Cangan, Hosam Alagi, Björn Hein, Robert K. Katzschmann, Rubén Fernández, Yosra Mojtahedi and Stefan Escaida Navarro IEEE Robotics and Automation Letters, vol. 10: no. 5, pp. 4596-4603, IEEE, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Sustainable biofabrication: from bioprinting to AI-driven predictive methods",
+      "year": 2025,
+      "citation_raw": "Sustainable biofabrication: from bioprinting to AI-driven predictive methods Miriam Filippi, Manuel Mekkattu and Robert K. Katzschmann Trends in Biotechnology, vol. 43: no. 2, pp. 290-303, Cell Press, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Robust Learning-Based Control for Uncertain Nonlinear Systems With Validation on a Soft Robot",
+      "year": 2025,
+      "citation_raw": "Robust Learning-Based Control for Uncertain Nonlinear Systems With Validation on a Soft Robot Minghao Han, Kiwan Wong, Jacob Euler-Rolle, Lixian Zhang and Robert K. Katzschmann IEEE Transactions on Neural Networks and Learning Systems, vol. 36: no. 1, pp. 510-524, IEEE, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Multidirectional Filamented Light Biofabrication Creates Aligned and Contractile Cardiac Tissues",
+      "year": 2024,
+      "citation_raw": "Multidirectional Filamented Light Biofabrication Creates Aligned and Contractile Cardiac Tissues Lewis Scott Jones, Miriam Filippi, Mike Yan Michelis, Aiste Balciunaite, Öncay Yasa, Gal Aviel, Maria Narciso, Susanne Freedrich, Melanie Generali, Eldad Tzahor and Robert K. Katzschmann Advanced Science, vol. 11: no. 47, pp. 2404509, Wiley-VCH, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Vision-Based Online Key Point Estimation of Deformable Robots",
+      "year": 2024,
+      "citation_raw": "Vision-Based Online Key Point Estimation of Deformable Robots Hehui Zheng, Sebastian Pinzello, Barnabas Gavin Cangan, Thomas J.K. Buchner and Robert K. Katzschmann Advanced Intelligent Systems, vol. 6: no. 10, pp. 2400105, Wiley-VCH, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Sim-to-Real of Soft Robots With Learned Residual Physics",
+      "year": 2024,
+      "citation_raw": "Sim-to-Real of Soft Robots With Learned Residual Physics Junpeng Gao, Mike Yan Michelis, Andrew Spielberg and Robert K. Katzschmann IEEE Robotics and Automation Letters, vol. 9: no. 10, pp. 8523-8530, IEEE, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Electrohydraulic musculoskeletal robotic leg for agile, adaptive, yet energy-efficient locomotion",
+      "year": 2024,
+      "citation_raw": "Electrohydraulic musculoskeletal robotic leg for agile, adaptive, yet energy-efficient locomotion Thomas Jakob Konrad Buchner, Toshihiko Fukushima, Amirhossein Kazemi Pour, Stephan-Daniel Gravert, Manon Prairie, Pascal Romanescu, Philip Arm, Yu Zhang, Xingrui Wang, Steven L. Zhang, Johannes Walter, Christoph Keplinger and Robert K. Katzschmann Nature Communications, vol. 15: no. 1, pp. 7634, Nature, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Bioprinting of Stable Bionic Interfaces Using Piezoresistive Hydrogel Organoelectronics",
+      "year": 2024,
+      "citation_raw": "Bioprinting of Stable Bionic Interfaces Using Piezoresistive Hydrogel Organoelectronics Antonia Georgopoulou, Miriam Filippi, Lisa Stefani, Felix Drescher, Aiste Balciunaite, Arnaud Scherberich, Robert K. Katzschmann and Frank Jörg Clemens Advanced Healthcare Materials, vol. 13: no. 20, pp. 2400051, Wiley-VCH, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "A Soft Robotic Morphing Wing for Unmanned Underwater Vehicles",
+      "year": 2024,
+      "citation_raw": "A Soft Robotic Morphing Wing for Unmanned Underwater Vehicles Andrea Giordano, Liam Achenbach, Daniel Lenggenhager, Fabian Wiesemüller, Roger Vonbank, Claudio Mucignat, André Tristany Farinha, Pham Huy Nguyen, Robert K. Katzschmann, Sophie F. Armanini, Ivan Lunati, Sukho Song and Mirko Kovač Advanced Intelligent Systems, vol. 6: no. 6, pp. 2300702, Wiley-VCH, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Multi-tap Resistive Sensing and FEM Modeling enables Shape and Force Estimation in Soft Robots",
+      "year": 2024,
+      "citation_raw": "Multi-tap Resistive Sensing and FEM Modeling enables Shape and Force Estimation in Soft Robots Sizhe Tian, Barnabas Gavin Cangan, Stefan Escaida Navarro, Artem Beger, Christian Duriez and Robert K. Katzschmann IEEE Robotics and Automation Letters, vol. 9: no. 3, pp. 2830-2837, IEEE, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Biohybrid nanointerfaces for neuromodulation",
+      "year": 2024,
+      "citation_raw": "Biohybrid nanointerfaces for neuromodulation Miriam Filippi, Aiste Balciunaite and Robert K. Katzschmann Nano Today, vol. 54, pp. 102094, Elsevier, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Low-voltage electrohydraulic actuators for untethered robotics",
+      "year": 2024,
+      "citation_raw": "Low-voltage electrohydraulic actuators for untethered robotics Stephan-Daniel Gravert, Elia Varini, Amirhossein Kazemi Pour, Mike Yan Michelis, Thomas Jakob Konrad Buchner, Ronan Hinchet and Robert K. Katzschmann Science Advances, vol. 10: no. 1, pp. eadi9319, AAAS, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Perforated red blood cells enable compressible and injectable hydrogels as therapeutic vehicles",
+      "year": 2024,
+      "citation_raw": "Perforated red blood cells enable compressible and injectable hydrogels as therapeutic vehicles Öncay Yasa, Fikru M. Tiruneh, Miriam Filippi, Aiste Balciunaite and Robert K. Katzschmann Materials Today, vol. 72, pp. 36-46, Elsevier, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Acoustic Streaming-Induced Multimodal Locomotion of Bubble-Based Microrobots",
+      "year": 2023,
+      "citation_raw": "Acoustic Streaming-Induced Multimodal Locomotion of Bubble-Based Microrobots Nima Mahkam, Amirreza Aghakhani, Devin Sheehan, Gaurav Gardi, Robert K. Katzschmann and Metin Sitti Advanced Science, vol. 10: no. 35, pp. 2304233, Wiley-VCH, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Vision-controlled jetting for composite systems and robots",
+      "year": 2023,
+      "citation_raw": "Vision-controlled jetting for composite systems and robots Thomas Jakob Konrad Buchner, Simon Rogler, Stefan Weirich, Yannick Armati, Barnabas Gavin Cangan, Javier Ramos, Scott T. Twiddy, Davide M. Marini, Aaron Weber, Desai Chen, Greg Ellson, Joshua Jacob, Walter Zengerle, Dmitriy Katalichenko, Chetan Keny, Wojciech Matusik and Robert K. Katzschmann Nature, vol. 623: no. 7987, pp. 522-530, Nature, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Perfusable Biohybrid Designs for Bioprinted Skeletal Muscle Tissue",
+      "year": 2023,
+      "citation_raw": "Perfusable Biohybrid Designs for Bioprinted Skeletal Muscle Tissue Miriam Filippi, Öncay Yasa, Jan Giachino, Reto Graf, Aiste Balciunaite, Lisa Stefani and Robert K. Katzschmann Advanced Healthcare Materials, vol. 12: no. 18, pp. 2300151, Wiley-VCH, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "An Overview of Soft Robotics",
+      "year": 2023,
+      "citation_raw": "An Overview of Soft Robotics Öncay Yasa, Yasunori Toshimitsu, Mike Yan Michelis, Lewis Scott Jones, Miriam Filippi, Thomas Jakob Konrad Buchner and Robert K. Katzschmann Annual Review of Control, Robotics, and Autonomous Systems, vol. 6, pp. 1-29, Annual Reviews, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Magnetorheological behavior of thermoplastic elastomeric honeycomb structures fabricated by additive manufacturing",
+      "year": 2023,
+      "citation_raw": "Magnetorheological behavior of thermoplastic elastomeric honeycomb structures fabricated by additive manufacturing Somashree Mondal, Robert K. Katzschmann and Frank Jörg Clemens Composites Part B: Engineering, vol. 252, pp. 110498, Elsevier, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Towards a Physics-Based Model for Steerable Eversion Growing Robots",
+      "year": 2023,
+      "citation_raw": "Towards a Physics-Based Model for Steerable Eversion Growing Robots Zicong Wu, Mikel De Iturrate Reyzabal, S.M. Hadi Sadati, Hongbin Liu, Sebastien Ourselin, Daniel Leff, Robert K. Katzschmann, Kawal Rhode and Christos Bergeles IEEE Robotics and Automation Letters, vol. 8: no. 2, pp. 1005-1012, IEEE, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Meta-Learning via Classifier(-free) Diffusion Guidance",
+      "year": 2023,
+      "citation_raw": "Meta-Learning via Classifier(-free) Diffusion Guidance Elvis Nava, Seijin Kobayashi, Yifei Yin, Robert K. Katzschmann and Benjamin Grewe Transactions on Machine Learning Research, vol. 2023: no. 8, OpenReview, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Dynamic Task Space Control Enables Soft Manipulators to Perform Real-World Tasks",
+      "year": 2023,
+      "citation_raw": "Dynamic Task Space Control Enables Soft Manipulators to Perform Real-World Tasks Oliver Fischer, Yasunori Toshimitsu, Amirhossein Kazemi Pour and Robert K. Katzschmann Advanced Intelligent Systems, vol. 5: no. 1, pp. 2200024, Wiley-VCH, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Hydroelastomers: soft, tough, highly swelling composites",
+      "year": 2022,
+      "citation_raw": "Hydroelastomers: soft, tough, highly swelling composites Simon Moser, Yanxia Feng, Öncay Yasa, Stefanie Heyden, Michael Kessler, Esther Amstad, Eric Dufresne, Robert K. Katzschmann and Robert Style Soft Matter, vol. 18: no. 37, pp. 7229-7235, Royal Society of Chemistry, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Will microfluidics enable functionally integrated biohybrid robots?",
+      "year": 2022,
+      "citation_raw": "Will microfluidics enable functionally integrated biohybrid robots? Miriam Filippi, Öncay Yasa, Roger D. Kamm, Ritu Raman and Robert K. Katzschmann Proceedings of the National Academy of Sciences of the United States of America, vol. 119: no. 35, pp. e2200741119, National Academy of Sciences, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Microfluidic Tissue Engineering and Bio-Actuation",
+      "year": 2022,
+      "citation_raw": "Microfluidic Tissue Engineering and Bio-Actuation Miriam Filippi, Thomas Jakob Konrad Buchner, Öncay Yasa, Stefan Weirich and Robert K. Katzschmann Advanced Materials, vol. 34: no. 23, pp. 2108427, Wiley-VCH, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Sim-to-Real for Soft Robots Using Differentiable FEM: Recipes for Meshing, Damping, and Actuation",
+      "year": 2022,
+      "citation_raw": "Sim-to-Real for Soft Robots Using Differentiable FEM: Recipes for Meshing, Damping, and Actuation Mathieu Dubied, Mike Yan Michelis, Andrew Spielberg and Robert K. Katzschmann IEEE Robotics and Automation Letters, vol. 7: no. 2, pp. 5015-5022, IEEE, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Engineered Magnetic Nanocomposites to Modulate Cellular Function",
+      "year": 2022,
+      "citation_raw": "Engineered Magnetic Nanocomposites to Modulate Cellular Function Miriam Filippi, Francesca Garello, Öncay Yasa, Jesil Kasamkattil, Arnaud Scherberich and Robert K. Katzschmann Small, vol. 18: no. 9, pp. 2104079, Wiley, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Slot-Die Coating of an On-the-Shelf Polymer with Increased Dielectric Permittivity for Stack Actuators",
+      "year": 2022,
+      "citation_raw": "Slot-Die Coating of an On-the-Shelf Polymer with Increased Dielectric Permittivity for Stack Actuators Mihail Iacob, Anand Verma, Thomas Jakob Konrad Buchner, Yauhen Sheima, Robert K. Katzschmann and Dorina M. Opris ACS Applied Polymer Materials, vol. 4: no. 1, pp. 150-157, American Chemical Society, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation",
+      "year": 2021,
+      "citation_raw": "DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation Pingchuan Ma, Tao Du, John Z. Zhang, Kui Wu, Andrew Spielberg, Robert K. Katzschmann and Wojciech Matusik ACM Transactions on Graphics, vol. 40: no. 4, pp. 132, Association for Computing Machinery, 2021.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Editorial: Soft Robotic Modeling and Control: Bringing Together Articulated Soft Robots and Soft-Bodied Robots",
+      "year": 2021,
+      "citation_raw": "Editorial: Soft Robotic Modeling and Control: Bringing Together Articulated Soft Robots and Soft-Bodied Robots Cosimo Della Santina, Robert K. Katzschmann, Antonio Bicchi and Daniela Rus The International Journal of Robotics Research, vol. 40: no. 1, pp. 3-6, SAGE, 2021.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Model-based dynamic feedback control of a planar soft robot: Trajectory tracking and interaction with the environment",
+      "year": 2020,
+      "citation_raw": "Model-based dynamic feedback control of a planar soft robot: Trajectory tracking and interaction with the environment Cosimo Della Santina, Robert K. Katzschmann, Antonio Bicchi and Daniela Rus The International Journal of Robotics Research, vol. 39: no. 4, pp. 490-513, SAGE, 2020.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Safe Local Navigation for Visually Impaired Users with a Time-of-Flight and Haptic Feedback Device",
+      "year": 2018,
+      "citation_raw": "Safe Local Navigation for Visually Impaired Users with a Time-of-Flight and Haptic Feedback Device Robert K. Katzschmann, Brandon Araki and Daniela Rus IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 26: no. 3, pp. 583-593, IEEE, 2018.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Exploration of underwater life with an acoustically controlled soft robotic fish",
+      "year": 2018,
+      "citation_raw": "Exploration of underwater life with an acoustically controlled soft robotic fish Robert K. Katzschmann, Joseph DelPreto, Robert MacCurdy and Daniela Rus Science Robotics, vol. 3: no. 16, pp. eaar3449, AAAS, 2018.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Robust proprioceptive grasping with a soft robot hand",
+      "year": 2018,
+      "citation_raw": "Robust proprioceptive grasping with a soft robot hand Bianca S. Homberg, Robert K. Katzschmann, Mehmet R. Dogar and Daniela Rus Autonomous Robots, vol. 43: no. 3, pp. 681-696, Springer, 2018.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "A Recipe for Soft Fluidic Elastomer Robots",
+      "year": 2015,
+      "citation_raw": "A Recipe for Soft Fluidic Elastomer Robots Andrew D. Marchese, Robert K. Katzschmann and Daniela Rus Soft Robotics, vol. 2: no. 1, pp. 7-25, Mary Ann Liebert, 2015.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "Autonomous Object Manipulation Using a Soft Planar Grasping Manipulator",
+      "year": 2015,
+      "citation_raw": "Autonomous Object Manipulation Using a Soft Planar Grasping Manipulator Robert K. Katzschmann, Andrew D. Marchese and Daniela Rus Soft Robotics, vol. 2: no. 4, pp. 155-164, Mary Ann Liebert, 2015.",
+      "source_url": "https://srl.ethz.ch/publications/journal-articles.html"
+    },
+    {
+      "title": "SORS: A Modular, High-Fidelity Simulator for Soft Robots",
+      "year": 2026,
+      "citation_raw": "SORS: A Modular, High-Fidelity Simulator for Soft Robots Manuel Mekkattu, Mike Yan Michelis and Robert K. Katzschmann 9th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2026), Kanazawa, Japan, pp.223-230, Piscataway, NJ: IEEE, April 7-12, 2026.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Reliable Aerial Manipulation: Combining Visual Tracking with Range Sensing for Robust Grasping",
+      "year": 2025,
+      "citation_raw": "Reliable Aerial Manipulation: Combining Visual Tracking with Range Sensing for Robust Grasping Marc Blöchlinger, Yasunori Toshimitsu and Robert K. Katzschmann 42nd IEEE International Conference on Robotics and Automation (ICRA 2025), Atlanta, GA, USA, pp.7519-7525, Piscataway, NJ: IEEE, May 19-23, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Stretchable Electrohydraulic Artificial Muscle for Full Motion Ranges in Musculoskeletal Antagonistic Joints",
+      "year": 2025,
+      "citation_raw": "Stretchable Electrohydraulic Artificial Muscle for Full Motion Ranges in Musculoskeletal Antagonistic Joints Amirhossein Kazemi Pour, Ronan Hinchet and Robert K. Katzschmann 42nd IEEE International Conference on Robotics and Automation (ICRA 2025), Atlanta, GA, USA, pp.6976-6982, Piscataway, NJ: IEEE, May 19-23, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Design Optimization and Evaluation of a Robotic Thumb with Anatomical Geometry and Passive Soft-Tissue Integration",
+      "year": 2025,
+      "citation_raw": "Design Optimization and Evaluation of a Robotic Thumb with Anatomical Geometry and Passive Soft-Tissue Integration Daniel Lenggenhager, Stefan Weirich, Phillip Wand and Robert K. Katzschmann 24th International Conference on Humanoid Robots (HUMANOIDS 2025), Seoul, South Korea, pp.898-905, Piscataway, NJ: IEEE, September 30 - October 2, 2025.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "An Open-Source Soft Robotic Platform for Autonomous Aerial Manipulation in the Wild",
+      "year": 2024,
+      "citation_raw": "An Open-Source Soft Robotic Platform for Autonomous Aerial Manipulation in the Wild Erik Bauer, Marc Blöchlinger, Pascal Strauch, Arman Raayatsanati, Curdin Cavelti and Robert K. Katzschmann 8th Conference on Robot Learning (CoRL 2024), Munich, Germany, pp.3094-3106, Cambridge, MA: PMLR, November 6-9, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "In vitro testing of an artificial muscle for the treatment of incontinence",
+      "year": 2024,
+      "citation_raw": "In vitro testing of an artificial muscle for the treatment of incontinence Beate Lyko, Stephan-Daniel Gravert, Robert K. Katzschmann and Bert Müller SPIE Smart Structures + Nondestructive Evaluation 2024, Long Beach, CA, USA, pp.1294506 Bellingham, WA: SPIE, March 25-27, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Sensorized Soft Skin for Dexterous Robotic Hands",
+      "year": 2024,
+      "citation_raw": "Sensorized Soft Skin for Dexterous Robotic Hands Jana Egli, Benedek Forrai, Thomas Jakob Konrad Buchner, Jiangtao Su, Xiaodong Chen and Robert K. Katzschmann 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Yokohama, Japan, pp.18127-18133, Piscataway, NJ: IEEE, May 13-17, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Leveraging Pretrained Latent Representations for Few-Shot Imitation Learning on an Anthropomorphic Robotic Hand",
+      "year": 2024,
+      "citation_raw": "Leveraging Pretrained Latent Representations for Few-Shot Imitation Learning on an Anthropomorphic Robotic Hand Davide Liconti, Yasunori Toshimitsu and Robert K. Katzschmann 23rd IEEE-RAS International Conference on Humanoid Robots (Humanoids 2024), Nancy, FRANCE, pp.181-188, Piscataway, NJ: IEEE, November 22-24, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "A Rapid and Robust Tendon-Driven Robotic Hand for Human-Robot Interactions Playing Rock-Paper-Scissors",
+      "year": 2024,
+      "citation_raw": "A Rapid and Robust Tendon-Driven Robotic Hand for Human-Robot Interactions Playing Rock-Paper-Scissors Xiang Deng, Stefan Weirich, Robert K. Katzschmann and Tobias Delbrück 33rd IEEE International Conference on Robot and Human Interactive Communication (IEEE RO-MAN 2024), Pasadena, CA, USA, pp.2347-2354, Piscataway, NJ: IEEE, August 26-30, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Replicating Human Anatomy with Vision Controlled Jetting – A Pneumatic Musculoskeletal Hand and Forearm",
+      "year": 2024,
+      "citation_raw": "Replicating Human Anatomy with Vision Controlled Jetting – A Pneumatic Musculoskeletal Hand and Forearm Thomas Jakob Konrad Buchner, Stefan Weirich, Alexander M. Kübler, Wojciech Matusik and Robert K. Katzschmann 7th International Conference on Soft Robotics (RoboSoft 2024), San Diego, CA, USA, pp.183-189, Piscataway, NJ: IEEE, April 14-17, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Rotograb: Combining Biomimetic Hands with Industrial Grippers using a Rotating Thumb",
+      "year": 2024,
+      "citation_raw": "Rotograb: Combining Biomimetic Hands with Industrial Grippers using a Rotating Thumb Arnaud Bersier, Matteo Leonforte, Alessio Vanetta, Sarah Lia Andrea Wotke, Andrea Nappi, Yifan Zhou, Sebastiano Oliani, Alexander Kübler and Robert K. Katzschmann 37th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, United Arab Emirates, pp.5303-5310, Piscataway, NJ: IEEE, October 14-18, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Task-defined Pulley Design for Nonlinearly Coupled Tendon-driven Actuation",
+      "year": 2024,
+      "citation_raw": "Task-defined Pulley Design for Nonlinearly Coupled Tendon-driven Actuation Wensi Zhang, Barnabas Gavin Cangan, Thomas Jakob Konrad Buchner, Alexander Kübler, Ramon Asmus and Robert K. Katzschmann 7th IEEE International Conference on Soft Robotics (RoboSoft 2024), San Diego, CA, USA, pp.220-227, Piscataway, NJ: IEEE, April 14-17, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Self-Sensing Feedback Control of an Electrohydraulic Robotic Shoulder",
+      "year": 2024,
+      "citation_raw": "Self-Sensing Feedback Control of an Electrohydraulic Robotic Shoulder Clemens C. Christoph, Amirhossein Kazemi Pour, Michel R. Vogt, Yu Zhang and Robert K. Katzschmann 41st IEEE International Conference on Robotics and Automation (ICRA 2024), Yokohama, Japan, pp.4679-4685, Piscataway, NJ: IEEE, May 13-17, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Fast Point Cloud to Mesh Reconstruction for Deformable Object Tracking",
+      "year": 2024,
+      "citation_raw": "Fast Point Cloud to Mesh Reconstruction for Deformable Object Tracking Elham Amin Mansour, Hehui Zheng and Robert K. Katzschmann 4th International Conference on Robotics, Computer Vision and Intelligent Systems (ROBOVIS 2024), Rome, Italy, pp.391-409, Cham: Springer, February 25-27, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "High-Frequency Capacitive Sensing for Electrohydraulic Soft Actuators",
+      "year": 2024,
+      "citation_raw": "High-Frequency Capacitive Sensing for Electrohydraulic Soft Actuators Michel R. Vogt, Maximilian Eberlein, Clemens C. Christoph, Felix Baumann, Fabrice Bourquin, Wim Wende, Fabio Schaub, Amirhossein Kazemi Pour and Robert K. Katzschmann 37th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, United Arab Emirates, pp.8299-8306, Piscataway, NJ: IEEE, October 14-18, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Bilayered Biofabrication Unlocks the Potential of Skeletal Muscle for Biohybrid Soft Robots",
+      "year": 2024,
+      "citation_raw": "Bilayered Biofabrication Unlocks the Potential of Skeletal Muscle for Biohybrid Soft Robots Aiste Balciunaite, Öncay Yasa, Miriam Filippi, Mike Yan Michelis and Robert K. Katzschmann 7th IEEE International Conference on Soft Robotics (RoboSoft 2024), San Diego, CA, USA, pp.525-530, Piscataway, NJ: IEEE, April 14-17, 2024.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "A multi-material robotic finger with integrated proprioceptive and tactile capabilities produced with a circular process",
+      "year": 2023,
+      "citation_raw": "A multi-material robotic finger with integrated proprioceptive and tactile capabilities produced with a circular process Antonia Georgopoulou, Stijn Hamelryckx, Kai Junge, Louisa Marie Eckey, Simon Rogler, Robert K. Katzschmann, Josie Hughes and Frank Jörg Clemens 6th IEEE International Conference on Soft Robotics (RoboSoft 2023), Singapore, pp.10122054 Piscataway, NJ: IEEE, April 3-7, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Autonomous Marker-Less Rapid Aerial Grasping",
+      "year": 2023,
+      "citation_raw": "Autonomous Marker-Less Rapid Aerial Grasping Erik Bauer, Barnabas Gavin Cangan and Robert K. Katzschmann 36th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), Detroit, MI, USA, pp.6395-6402, Piscataway, NJ: IEEE, October 1-5, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints",
+      "year": 2023,
+      "citation_raw": "Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints Yasunori Toshimitsu, Benedek Forrai, Barnabas Gavin Cangan, Ulrich Steger, Manuel Knecht, Stefan Weirich and Robert K. Katzschmann 22nd International Conference on Humanoid Robots (Humanoids 2023), Austin, TX, USA, pp.10375231 Piscataway, NJ: IEEE, December 12-14, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Flying Hydraulically Amplified Electrostatic Gripper System for Aerial Object Manipulation",
+      "year": 2022,
+      "citation_raw": "Flying Hydraulically Amplified Electrostatic Gripper System for Aerial Object Manipulation Dario Tscholl, Stephan-Daniel Gravert, Aurel X. Appius and Robert K. Katzschmann 20th International Symposium of Robotics Research (ISRR 2022), Geneva, Switzerland, pp.368-383, Cham: Springer, September 25-30, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Aquarium: A Fully Differentiable Fluid-Structure Interaction Solver for Robotics Applications",
+      "year": 2023,
+      "citation_raw": "Aquarium: A Fully Differentiable Fluid-Structure Interaction Solver for Robotics Applications Jeong Hun Lee, Mike Yan Michelis, Robert K. Katzschmann and Zachary Manchester 40th IEEE Conference on Robotics and Automation (ICRA 2023), London, United Kingdom, pp.11272-11279, Piscataway, NJ: IEEE, May 29 - June 2, 2023.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction",
+      "year": 2022,
+      "citation_raw": "SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction Markus Ryll and Robert K. Katzschmann 39th IEEE International Conference on Robotics and Automation (ICRA 2022), Philadelphia, PA, USA, pp.2010-2016, Piscataway, NJ: IEEE, May 23-27, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "A Unified and Modular Model Predictive Control Framework for Soft Continuum Manipulators under Internal and External Constraints",
+      "year": 2022,
+      "citation_raw": "A Unified and Modular Model Predictive Control Framework for Soft Continuum Manipulators under Internal and External Constraints Filippo A. Spinelli and Robert K. Katzschmann 35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.9393-9400, Piscataway, NJ: IEEE, October 23-27, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Model-Based Disturbance Estimation for a Fiber-Reinforced Soft Manipulator using Orientation Sensing",
+      "year": 2022,
+      "citation_raw": "Model-Based Disturbance Estimation for a Fiber-Reinforced Soft Manipulator using Orientation Sensing Barnabas Gavin Cangan, Stefan Escaida Navarro, Bai Yang, Yu Zhang, Christian Duriez and Robert K. Katzschmann 35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.9424-9430, Piscataway, NJ: IEEE, October 23-27, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Modeling and Control of an Omnidirectional Micro Aerial Vehicle Equipped with a Soft Robotic Arm",
+      "year": 2022,
+      "citation_raw": "Modeling and Control of an Omnidirectional Micro Aerial Vehicle Equipped with a Soft Robotic Arm Róbert Szász, Mike Allenspach, Minghao Han, Marco Tognon and Robert K. Katzschmann 5th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2022), Edinburgh, United Kingdom, pp.186-193, Piscataway, NJ: IEEE, April 4-8, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Sim2Real for Soft Robotic Fish via Differentiable Simulation",
+      "year": 2022,
+      "citation_raw": "Sim2Real for Soft Robotic Fish via Differentiable Simulation John Z. Zhang, Yu Zhang, Pingchuan Ma, Elvis Nava, Tao Du, Philip Arm, Wojciech Matusik and Robert K. Katzschmann 35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.12598-12605, Piscataway, NJ: IEEE, October 23-27, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator",
+      "year": 2022,
+      "citation_raw": "DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator Minghao Han, Jacob Euler-Rolle and Robert K. Katzschmann 10th International Conference on Learning Representations (ICLR 2022), Online s.l.: OpenReview, April 25-29, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Planar Modeling and Sim-to-Real of a Tethered Multimaterial Soft Swimmer Driven by Peano-HASELs",
+      "year": 2022,
+      "citation_raw": "Planar Modeling and Sim-to-Real of a Tethered Multimaterial Soft Swimmer Driven by Peano-HASELs Stephan-Daniel Gravert, Mike Yan Michelis, Simon Rogler, Dario Tscholl, Thomas Jakob Konrad Buchner and Robert K. Katzschmann 35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.9417-9423, Piscataway, NJ: IEEE, October 23-27, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Fast Aquatic Swimmer Optimization with Differentiable Projective Dynamics and Neural Network Hydrodynamic Models",
+      "year": 2022,
+      "citation_raw": "Fast Aquatic Swimmer Optimization with Differentiable Projective Dynamics and Neural Network Hydrodynamic Models Elvis Nava, John Z. Zhang, Mike Yan Michelis, Tao Du, Pingchuan Ma, Benjamin F. Grewe, Wojciech Matusik and Robert K. Katzschmann 39th International Conference on Machine Learning (ICML 2022), Baltimore, MD, USA, pp.16413-16427, Cambridge, MA: PMLR, July 17-23, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Meta-Learning via Classifier(-free) Guidance",
+      "year": 2022,
+      "citation_raw": "Meta-Learning via Classifier(-free) Guidance Elvis Nava, Seijin Kobayashi, Yifei Yin, Robert K. Katzschmann and Benjamin Grewe NeurIPS 2022 Workshop on Meta-Learning (MetaLearn 2022), New Orleans, LA, USA s.l.: OpenReview, December 2-9, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Adaptive Dynamic Sliding Mode Control of Soft Continuum Manipulators",
+      "year": 2022,
+      "citation_raw": "Adaptive Dynamic Sliding Mode Control of Soft Continuum Manipulators Amirhossein Kazemi Pour, Oliver Fischer, Yasunori Toshimitsu, Ki Wan Wong and Robert K. Katzschmann 39th IEEE International Conference on Robotics and Automation (ICRA 2022), Philadelphia, PA, USA, pp.3259-3265, Piscataway, NJ: IEEE, May 23-27, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Prismatic Soft Actuator Augments the Workspace of Soft Continuum Robots",
+      "year": 2022,
+      "citation_raw": "Prismatic Soft Actuator Augments the Workspace of Soft Continuum Robots Philipp Wand, Oliver Fischer and Robert K. Katzschmann 35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.12630-12636, Piscataway, NJ: IEEE, October 23-27, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "RAPTOR: Rapid Aerial Pickup and Transport of Objects by Robots",
+      "year": 2022,
+      "citation_raw": "RAPTOR: Rapid Aerial Pickup and Transport of Objects by Robots Aurel X. Appius, Erik Bauer, Marc Blöchlinger, Aashi Kalra, Robin Oberson, Arman Raayatsanati, Pascal Strauch, Sarath Suresh, Marco von Salis and Robert K. Katzschmann 35th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, pp.349-355, Piscataway, NJ: IEEE, October 23-27, 2022.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "RoBoa: Construction and evaluation of a steerable vine robot for search and rescue applications",
+      "year": 2021,
+      "citation_raw": "RoBoa: Construction and evaluation of a steerable vine robot for search and rescue applications Pascal Auf der Maur, Betim Djambazi, Yves Haberthür, Patricia Hörmann, Alexander Kübler, Michael Lustenberger, Samuel Sigrist, Oda Vigen, Julian Förster, Florian Achermann, Elias Hampp, Robert K. Katzschmann and Roland Siegwart 4th International Conference on Soft Robotics (RoboSoft 2021), Online, pp.15-20, Piscataway, NJ: IEEE, April 12-16, 2021.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "SoPrA: Fabrication & Dynamical Modeling of a Scalable Soft Continuum Robotic Arm with Integrated Proprioceptive Sensing",
+      "year": 2021,
+      "citation_raw": "SoPrA: Fabrication & Dynamical Modeling of a Scalable Soft Continuum Robotic Arm with Integrated Proprioceptive Sensing Yasunori Toshimitsu, Ki Wan Wong, Thomas Jakob Konrad Buchner and Robert K. Katzschmann IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021), Online, pp.653-660, New York, NY: IEEE, September 27 - October 1, 2021.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Dynamic Motion Control of Multi-Segment Soft Robots Using Piecewise Constant Curvature Matched with an Augmented Rigid Body Model",
+      "year": 2019,
+      "citation_raw": "Dynamic Motion Control of Multi-Segment Soft Robots Using Piecewise Constant Curvature Matched with an Augmented Rigid Body Model Robert K. Katzschmann, Cosimo Della Santina, Yasunori Toshimitsu, Antonio Bicchi and Daniela Rus 2nd IEEE International Conference on Soft Robotics (RoboSoft 2019), pp.454-461, Piscataway, NJ: IEEE.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Soft Robotic Fingers with Embedded Ionogel Sensors and Discrete Actuation Modes for Somatosensitive Manipulation",
+      "year": 2019,
+      "citation_raw": "Soft Robotic Fingers with Embedded Ionogel Sensors and Discrete Actuation Modes for Somatosensitive Manipulation Ryan L. Truby, Robert K. Katzschmann, Jennifer A. Lewis and Daniela Rus 2nd IEEE International Conference on Soft Robotics (RoboSoft 2019), Seoul, South Korea, pp.322-329, Piscataway, NJ: IEEE, April 14-18, 2019.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Dynamically Closed-Loop Controlled Soft Robotic Arm using a Reduced Order Finite Element Model with State Observer",
+      "year": 2019,
+      "citation_raw": "Dynamically Closed-Loop Controlled Soft Robotic Arm using a Reduced Order Finite Element Model with State Observer Robert K. Katzschmann, Maxime Thieffry, Olivier Goury, Alexandre Kruszewski, Thierry-Marie Guerra, Christian Duriez and Daniela Rus 2nd IEEE International Conference on Soft Robotics (RoboSoft 2019), Seoul, South Korea, pp.717-724, Piscataway, NJ: IEEE, April 14-18, 2019.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Dynamic control of soft robots interacting with the environment",
+      "year": 2018,
+      "citation_raw": "Dynamic control of soft robots interacting with the environment Cosimo Della Santina, Robert K. Katzschmann, Antonio Bicchi and Daniela Rus 1st IEEE International Conference on Soft Robotics (RoboSoft 2018), Livorno, Italy, pp.46-53, Piscataway, NJ: IEEE, April 24-28, 2018.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Enabling Independent Navigation for Visually Impaired People through a Wearable Vision-Based Feedback System",
+      "year": 2017,
+      "citation_raw": "Enabling Independent Navigation for Visually Impaired People through a Wearable Vision-Based Feedback System Hsueh-Cheng Wang, Robert K. Katzschmann, Santani Teng, Brandon Araki, Laura Giarre and Daniela Rus IEEE International Conference on Robotics and Automation (ICRA 2017), Singapore, pp.6533-6540, Piscataway, NJ: IEEE, May 29 - June 3, 2017.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Printable hydraulics: A method for fabricating robots by 3D co-printing solids and liquids",
+      "year": 2018,
+      "citation_raw": "Printable hydraulics: A method for fabricating robots by 3D co-printing solids and liquids Robert MacCurdy, Robert K. Katzschmann, Youbin Kim and Daniela Rus 2016 IEEE International Conference on Robotics and Automation (ICRA 2016), Stockholm, Sweden, pp.3878-3885, Piscataway, NJ: IEEE, May 16-21, 2018.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Cyclic hydraulic actuation for soft robotic devices",
+      "year": 2016,
+      "citation_raw": "Cyclic hydraulic actuation for soft robotic devices Robert K. Katzschmann, Austin De Maille, David L. Dorhout and Daniela Rus 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), Daejeon, South Korea, pp.3048-3055, Piscataway, NJ: IEEE, October 9-14, 2016.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "A compact acoustic communication module for remote control underwater",
+      "year": 2015,
+      "citation_raw": "A compact acoustic communication module for remote control underwater Joseph DelPreto, Robert K. Katzschmann, Robert MacCurdy and Daniela Rus 10th ACM International Conference on Underwater Networks and Systems (WUWNet 2015), Washington, DC, USA, pp.13 New York, NY: Association for Computing Machinery, October 22-24, 2015.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "A soft cube capable of controllable continuous jumping",
+      "year": 2015,
+      "citation_raw": "A soft cube capable of controllable continuous jumping Shuguang Li, Robert K. Katzschmann and Daniela Rus 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015), Hamburg, Germany, pp.1712-1717, Piscataway, NJ: IEEE, September 28 - October 2, 2015.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Haptic Identification of Objects using a Modular Soft Robotic Gripper",
+      "year": 2015,
+      "citation_raw": "Haptic Identification of Objects using a Modular Soft Robotic Gripper Bianca S. Homberg, Robert K. Katzschmann, Mehmet R. Dogar and Daniela Rus IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015), Hamburg, Germany, pp.1698-1705, Piscataway, NJ: IEEE, September 28 - October 17, 2015.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Whole arm planning for a soft and highly compliant 2D robotic manipulator",
+      "year": 2014,
+      "citation_raw": "Whole arm planning for a soft and highly compliant 2D robotic manipulator Andrew D. Marchese, Robert K. Katzschmann and Daniela Rus 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014), Chicago, IL, USA, pp.554-560, Piscataway, NJ: IEEE, September 14-18, 2014.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Hydraulic Autonomous Soft Robotic Fish for 3D Swimming",
+      "year": 2014,
+      "citation_raw": "Hydraulic Autonomous Soft Robotic Fish for 3D Swimming Robert K. Katzschmann, Andrew D. Marchese and Daniela Rus 14th International Symposium on Experimental Robotics (ISER 2014), Marrakech, Morocco, pp.405-420, Cham: Springer, June 15-18, 2014.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    },
+    {
+      "title": "Towards online trajectory generation considering robot dynamics and torque limits",
+      "year": 2013,
+      "citation_raw": "Towards online trajectory generation considering robot dynamics and torque limits Robert K. Katzschmann, Torsten Kröger, Tamim Asfour and Oussama Khatib 26th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2013), Tokyo, Japan, pp.5644-5651, Piscataway, NJ: IEEE, November 3-7, 2013.",
+      "source_url": "https://srl.ethz.ch/publications/conference-papers.html"
+    }
+  ]
+}

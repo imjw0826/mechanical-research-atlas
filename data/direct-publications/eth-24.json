@@ -1,0 +1,965 @@
+{
+  "university": "ETH Zurich",
+  "university_key": "eth",
+  "pi": "Russell McKenna",
+  "lab_name": null,
+  "lab_url": "http://mohr.ethz.ch/#xd_co_f=MjdhNmMxNTFhNTU5ZDVhMjY4OTE1NjMzNDExOTk2Nzg=~",
+  "publication_urls": [
+    "https://esa.ethz.ch/publications.html"
+  ],
+  "accessed_at": "2026-11-12T15:15:25.475850+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Global economic and environmental trade-offs of power-to-liquid fuels",
+      "year": 2026,
+      "citation_raw": "Global economic and environmental trade-offs of power-to-liquid fuels Zipeng Liu, Tom Mike Terlouw, Carolin P. Bauer, Christian Bauer C. and Russell McKenna R. Energy Conversion and Managment, vol. 370, pp. 122177, Elsevier, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "System design options of decentralized autonomous renewable energy systems",
+      "year": 2026,
+      "citation_raw": "System design options of decentralized autonomous renewable energy systems Lovindu Wijesinghe, Jann Michael Weinand, Noor Titan Putri Hartono, Russell McKenna, Detlef Stolten and Jochen Linßen Energy Conversion and Management: X, vol. 32, pp. 102335, Elsevier, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Exploring scale effects of energy communities under the Swiss policy framework",
+      "year": 2026,
+      "citation_raw": "Exploring scale effects of energy communities under the Swiss policy framework Sammit Vartak, Tom Mike Terlouw, Miro Weißenberg and Russell McKenna Applied Energy, vol. 421, pp. 128169, Elsevier, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Haber-Bosch 2.0 for low-carbon ammonia production: a global techno-economic and environmental assessment",
+      "year": 2026,
+      "citation_raw": "Haber-Bosch 2.0 for low-carbon ammonia production: a global techno-economic and environmental assessment Tom Mike Terlouw, Christian Bauer, Peter Burgherr, Russell McKenna and Lorenzo Rosa Energy & Environmental Science, vol. 19: no. 15, pp. 4759-4777, Royal Society of Chemistry, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "A review of challenges and opportunities in occupant modeling for future residential energy demand",
+      "year": 2026,
+      "citation_raw": "A review of challenges and opportunities in occupant modeling for future residential energy demand Jonathan Vogl, Max Kleinebrahm, Moritz Raab, Russell McKenna and Wolf Fichtner Energy and Buildings, vol. 364, pp. 117522, Elsevier, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Behavior Matters: Energy System Impacts of Electric Vehicle Charging Patterns in Switzerland",
+      "year": 2026,
+      "citation_raw": "Behavior Matters: Energy System Impacts of Electric Vehicle Charging Patterns in Switzerland Rudolph Santarromana, Ramachandran Kannan, Russell McKenna and Evangelos Panos 44th International Energy Workshop (IEW 2026), Cape Town, South Africa Cape Town: International Energy Workshop 2026, June 22-24, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "AI systems in the energy sector: risk evaluation for business operations and regulatory oversight",
+      "year": 2026,
+      "citation_raw": "AI systems in the energy sector: risk evaluation for business operations and regulatory oversight Fabian Heymann, River Huang, Antoine Marot, Medha Subramanian and Russell McKenna International Journal of Electrical Power & Energy Systems, vol. 178, pp. 111961, Elsevier, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Data-driven landscape scenicness mapping for continental-scale onshore wind resource assessment",
+      "year": 2026,
+      "citation_raw": "Data-driven landscape scenicness mapping for continental-scale onshore wind resource assessment Ruihong Chen, Tristan Pelser, Alena Lohrmann, Jann Michael Weinand and Russell McKenna Energy and AI, vol. 24, pp. 100752, Elsevier, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Global cost drivers and regional trade-offs for low-carbon fuels: a prospective techno-economic assessment",
+      "year": 2026,
+      "citation_raw": "Global cost drivers and regional trade-offs for low-carbon fuels: a prospective techno-economic assessment Zipeng Liu, Tom Mike Terlouw, Patrick Frey, Christian Bauer and Russell McKenna Energy & Environmental Science, vol. 19: no. 7, pp. 2246-2272, Royal Society of Chemistry, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Large-scale resource assessments for solar photovoltaics: A review of potential definitions, methodologies and future research needs",
+      "year": 2026,
+      "citation_raw": "Large-scale resource assessments for solar photovoltaics: A review of potential definitions, methodologies and future research needs Heidi Ursula Heinrichs, Jann M. Weinand, Sebastian Kebrich, Juan Camil Gómez Trillos, Shuying Chen, Maxmilian Hoffmann, Tsamara Tsani, Ruihong Chen, Wenxuan Hu, Johannes Schmidt, Carolin Ulbrich, Vladyslav Mikhnych, Jochen Linßen and Russell McKenna Renewable Energy, vol. 261, pp. 125080, Elsevier, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Will hydrogen prolong the price coupling between gas and electricity?",
+      "year": 2026,
+      "citation_raw": "Will hydrogen prolong the price coupling between gas and electricity? Martin Densing, Yi Wan, Evangelos Panos, Tom Kober, Thomas Schmidt and Russell McKenna Energy Economics, vol. 155, pp. 109221, Elsevier, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Modelling Technology Vintage in Multi-year Investment Planning: Compact Formulation for Capacity-factor-constrained Generators",
+      "year": 2026,
+      "citation_raw": "Modelling Technology Vintage in Multi-year Investment Planning: Compact Formulation for Capacity-factor-constrained Generators Jiangyi Huang, Ni Wang, Fabian Heymann, Germán Morales-España and Russell McKenna 22nd International Conference on the European Energy Market (EEM 2026), Trondheim, Norway, pp.11589861 Piscataway, NJ: IEEE, June 22-24, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Evaluating the Effects of Vertical Growth on Photovoltaic Generation and Energy Supply in Distribution Networks",
+      "year": 2026,
+      "citation_raw": "Evaluating the Effects of Vertical Growth on Photovoltaic Generation and Energy Supply in Distribution Networks Anselmo Martinho R. Anselmo, Richard W. Salas, Luciano C. Amaro, Fabian Heymann and Joel D. Melo IEEE Access, vol. 14, pp. 134983-134998, IEEE, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "A Multi-Criteria Assessment and Ranking of Hydrogen Applications with Expert Surveys: The case of Norway",
+      "year": 2026,
+      "citation_raw": "A Multi-Criteria Assessment and Ranking of Hydrogen Applications with Expert Surveys: The case of Norway Tom Terlouw, River Huang, Lukas Scherrer, Peter Burgherr and Russell McKenna 22nd International Conference on the European Energy Market (EEM 2026), Trondheim, Norway, pp.11589666 Piscataway, NJ: IEEE, June 22-24, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Exploring hydrogen pipeline costs by considering regional geographical and political characteristics",
+      "year": 2026,
+      "citation_raw": "Exploring hydrogen pipeline costs by considering regional geographical and political characteristics Bastian Weissenburger, Lukas Karkossa, Annegret Stephan and Russell McKenna Nature Energy, Nature, 2026.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The role of geothermal plants in the global energy and materials transition",
+      "year": 2025,
+      "citation_raw": "The role of geothermal plants in the global energy and materials transition Jann Michael Weinand, Max Kleinebrahm, Bernard Sanjuan, Evelina Trutnevyte, Karin Treyer, Francis Claret, Francesco Dalla Longa, Peter Burgherr, Bob van der Zwaan, Russell McKenna and Detlef Stolten Nexus, vol. 2: no. 4, pp. 100099, Cell Press, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Water Scarcity Risks in Ammonia Fertilizer Production Pose a Threat to Global Food Security",
+      "year": 2025,
+      "citation_raw": "Water Scarcity Risks in Ammonia Fertilizer Production Pose a Threat to Global Food Security Lorenzo Rosa, Andrea Citrini, Tom Mike Terlouw and Stefano Mingolla Environmental Science & Technology, vol. 59: no. 48, pp. 25817-25829, American Chemical Society, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "A critical reflection on modelling approaches for heat pumps and building envelope retrofits in local energy system optimisations",
+      "year": 2025,
+      "citation_raw": "A critical reflection on modelling approaches for heat pumps and building envelope retrofits in local energy system optimisations Julian Hermann, Febin Kachirayil, Alena Lohrmann, Fabian Scheller, Dennis Roskosch, Russell C. McKenna and Russell McKenna Applied Energy, vol. 400, pp. 126525, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Global greenhouse gas emissions mitigation potential of existing and planned hydrogen projects",
+      "year": 2025,
+      "citation_raw": "Global greenhouse gas emissions mitigation potential of existing and planned hydrogen projects Tom Mike Terlouw, Christian Moretti, Carina Harpprecht, Romain Sacchi, Russell McKenna and Christian Bauer Nature Energy, vol. 10: no. 12, pp. 1503-1515, Nature, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Estimating demand response potentials of domestic appliances: Insights from a Japanese survey",
+      "year": 2025,
+      "citation_raw": "Estimating demand response potentials of domestic appliances: Insights from a Japanese survey Febin Kachirayil, Yohei Yamaguchi, Chien-fe Chen and Russell McKenna Energy, vol. 337, pp. 138421, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Barriers to district heating deployment: insights from literature and experts",
+      "year": 2025,
+      "citation_raw": "Barriers to district heating deployment: insights from literature and experts Daniel Møller Sneum, Anna Billerbeck, Febin Kachirayil and Russell McKenna Energy Policy, vol. 206, pp. 114780, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Estimating Fuel Consumption of Commercial Aircraft",
+      "year": 2025,
+      "citation_raw": "Estimating Fuel Consumption of Commercial Aircraft Michael Weinold, Noe Marty, Peter Wild and Russell McKenna Poster presented at the CSFM Symposium 2025, Zurich, Switzerland, October 2, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Digitalization, autonomy and the future of energy policy",
+      "year": 2025,
+      "citation_raw": "Digitalization, autonomy and the future of energy policy Fabian Heymann, Sinan Küfeoğlu and Matthias Galus Energy Research and Social Science, vol. 127, pp. 104167, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Integrated assessment of a robust Choquet integral preference model for efficient multicriteria decision support",
+      "year": 2025,
+      "citation_raw": "Integrated assessment of a robust Choquet integral preference model for efficient multicriteria decision support Eleftherios Siskos, Antoine Desbordes, Peter Burgherr and Russell McKenna European Journal of Operational Research, vol. 324: no. 3, pp. 871-892, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The role of low carbon fuels towards net-zero in integrated assessment models and energy system models: A critical review",
+      "year": 2025,
+      "citation_raw": "The role of low carbon fuels towards net-zero in integrated assessment models and energy system models: A critical review Zipeng Liu, Meixi Zhang, Christian Bauer and Russell McKenna Renewable and Sustainable Energy Reviews, vol. 215, pp. 115608, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Methodological framework for life cycle assessment of sustainable aviation (SA) systems",
+      "year": 2025,
+      "citation_raw": "Letter to the Editor regarding “Methodological framework for life cycle assessment of sustainable aviation (SA) systems” Michael Weinold and Russell McKenna Science of The Total Environment, vol. 979, pp. 179314, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The material-energy nexus in net-zero transition scenarios: exploring environmental trade-offs and uncertainties",
+      "year": 2025,
+      "citation_raw": "The material-energy nexus in net-zero transition scenarios: exploring environmental trade-offs and uncertainties Alvaro J. Hahn Menacho, Romain Sacchi, Christian Bauer, Evangelos Panos, Russell McKenna and Peter Burgherr Resources, Conservation and Recycling, vol. 218, pp. 108251, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Realistic roles for hydrogen in the future energy transition",
+      "year": 2025,
+      "citation_raw": "Realistic roles for hydrogen in the future energy transition Nathan Johnson, Michael Liebreich, Daniel M. Kammen, Paul Ekins, Russell McKenna and Iain Staffell Nature Reviews Clean Technology, vol. 1: no. 5, pp. 351-371, Nature, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Rapid technological progress in white light-emitting diodes and its source in innovation and technology spillovers",
+      "year": 2025,
+      "citation_raw": "Rapid technological progress in white light-emitting diodes and its source in innovation and technology spillovers Michael Weinold, Sergey Kolesnikov and Laura Díaz Anadón Nature Energy, vol. 10: no. 5, pp. 616-629, Nature, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Quantifying the trade-offs between renewable energy visibility and system costs",
+      "year": 2025,
+      "citation_raw": "Quantifying the trade-offs between renewable energy visibility and system costs Tsamara Tsani, Tristan Pelser, Romanos Ioannidis, Rachel Maier, Ruihong Chen, Stanley Risch, Felix Kullmann, Russell McKenna, Detlef Stolten and Jann Michael Weinand Nature Communications, vol. 16: no. 1, pp. 3853, Nature, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Transforming decentralized energy systems: Flexible EV charging and its impact across urbanization degrees",
+      "year": 2025,
+      "citation_raw": "Transforming decentralized energy systems: Flexible EV charging and its impact across urbanization degrees Linda Brodnicke, Febin Kachirayil, Paolo Gabrielli, Giovanni Sansavini and Russell McKenna Applied Energy, vol. 384, pp. 125303, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The global environmental footprint of Switzerland's net-zero energy system uncovers impacts abroad",
+      "year": 2025,
+      "citation_raw": "The global environmental footprint of Switzerland's net-zero energy system uncovers impacts abroad Alvaro Jose Hahn Menacho, Romain Sacchi, Christian Bauer, Christian Moretti, Evangelos Panos, Russell McKenna and Peter Burgherr Communications Earth & Environment, vol. 6: no. 1, pp. 266, Nature, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Reviewing sector coupling in offshore energy system integration modelling: the North Sea context",
+      "year": 2025,
+      "citation_raw": "Reviewing sector coupling in offshore energy system integration modelling: the North Sea context Anna Peecock, Jiangyi Huang, Alfonso Martinez-Felipe and Russell McKenna Renewable and Sustainable Energy Reviews, vol. 210, pp. 115220, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "On the benefit of feature selection and ensemble feature selection for fuzzy k-nearest neighbor classification",
+      "year": 2025,
+      "citation_raw": "On the benefit of feature selection and ensemble feature selection for fuzzy k-nearest neighbor classification Christoph Lohrmann, Alena Lohrmann and Mahinda Mailagaha Kumbure Applied Soft Computing, vol. 171, pp. 112784, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Trade-offs between system cost and supply security in municipal energy system design: An analysis considering spatio-temporal disparities in the Value of Lost Load",
+      "year": 2025,
+      "citation_raw": "Trade-offs between system cost and supply security in municipal energy system design: An analysis considering spatio-temporal disparities in the Value of Lost Load Febin Kachirayil, David Huckebrink, Valentin Bertsch and Russell McKenna Applied Energy, vol. 381, pp. 124896, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "System impacts of wind energy developments: Key research challenges and opportunities",
+      "year": 2025,
+      "citation_raw": "System impacts of wind energy developments: Key research challenges and opportunities Russell McKenna, Johan Lilliestam, Heidi U. Heinrichs, Jann Weinand, Johannes Schmidt, Iain Staffell, Andrea N. Hahmann, Peter Burgherr, Arne Burdack, Monika Bucha, Ruihong Chen, Michael Klingler, Paul Lehmann, Jens Lowitzsch, Riccardo Novo, James Price, Romain Sacchi, Patrick Scherhaufer, Eva M. Scholl, Piero Visconti and et al. Joule, vol. 9: no. 1, pp. 101799, Cell Press, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Real-time estimates of Swiss electricity savings using streamed smart meter data",
+      "year": 2025,
+      "citation_raw": "Real-time estimates of Swiss electricity savings using streamed smart meter data Alessandro Mari, Carl Remlinger, Roberto Castello, Guillaume Obozinski, Silvia Quarteroni, Fabian Heymann and Matthias Galus Applied Energy, vol. 377, pp. 124537, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Design and Grid Integration of Wind Farms Using Metaheuristics and Routing Algorithms",
+      "year": 2025,
+      "citation_raw": "Design and Grid Integration of Wind Farms Using Metaheuristics and Routing Algorithms Wendy Paola Reyes Calle, Fabian Heymann, Alena Lohrmann, Pulkit Nahata, Russell McKenna and Russell McKenna IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe 2025), Valletta, Malta, pp.11305329 Piscataway, NJ: IEEE, October 20-23, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Prospective life cycle assessment of cost-effective pathways for achieving the FuelEU Maritime Regulation targets",
+      "year": 2025,
+      "citation_raw": "Prospective life cycle assessment of cost-effective pathways for achieving the FuelEU Maritime Regulation targets Anna Ingwersen, Alvaro J. Hahn Menacho, Stephan Pfister, Jonathan N. Peel, Romain Sacchi and Christian Moretti Science of The Total Environment, vol. 958, pp. 177880, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "GIS-Based Fuzzy-AHP Framework for Identifying Suitable Hubs for Offshore Wind and Clean Hydrogen Production",
+      "year": 2025,
+      "citation_raw": "GIS-Based Fuzzy-AHP Framework for Identifying Suitable Hubs for Offshore Wind and Clean Hydrogen Production Karen F. Paula, Hayro A. Pumalloclla Castilla, Mahdi Pourakbari-Kasmaei, Fabian Heymann, Djalma M. Falcão and Joel D. Melo IEEE Access, vol. 13, pp. 65526-65539, IEEE, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "A Multi-Year Planning Model for Low-Carbon Transitions of Offshore Oil and Gas Platforms",
+      "year": 2025,
+      "citation_raw": "A Multi-Year Planning Model for Low-Carbon Transitions of Offshore Oil and Gas Platforms Jiangyi Huang, Alena Lohrmann, Anna Peecock, Fabian Heymann, Til Kristian Vrana, Juha Kiviluoma and Russell McKenna 21st International Conference on the European Energy Market (EEM25), Lisbon, Portugal, pp.11050306 Piscataway, NJ: IEEE, May 27-29, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Delving into the black box: stochastic ex-post multi-criteria evaluation of net-zero scenarios with an application to Switzerland",
+      "year": 2025,
+      "citation_raw": "Delving into the black box: stochastic ex-post multi-criteria evaluation of net-zero scenarios with an application to Switzerland Christoph Funke, Martin Densing, Romain Sacchi, Evangelos Panos, Giovanni Sansavini and Russell McKenna 21st International Conference on the European Energy Market (EEM25), Lisbon, Portugal, pp.11050135 Piscataway, NJ: IEEE, May 27-29, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Designing multi-energy systems in Mediterranean regions towards energy autonomy",
+      "year": 2025,
+      "citation_raw": "Designing multi-energy systems in Mediterranean regions towards energy autonomy Tom Mike Terlouw, Nikolaos Savvakis, Christian Bauer, Russell McKenna and George Arampatzis Applied Energy, vol. 377, pp. 124458, Elsevier, 2025.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Modelling to generate near-Pareto-optimal alternatives (MGPA) for the municipal energy transition",
+      "year": 2024,
+      "citation_raw": "Modelling to generate near-Pareto-optimal alternatives (MGPA) for the municipal energy transition Jonas Finke, Febin Kachirayil, Russell McKenna and Valentin Bertsch Applied Energy, vol. 376, Part A, pp. 124126, Elsevier, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Evaluating the levelized costs and life cycle greenhouse gas emissions of electricity generation from rooftop solar photovoltaics: a Swiss case study",
+      "year": 2024,
+      "citation_raw": "Evaluating the levelized costs and life cycle greenhouse gas emissions of electricity generation from rooftop solar photovoltaics: a Swiss case study Xiaojin Zhang, Alina Walch, Martin Rüdisüli, Christian Bauer, Peter Burgherr, Russell McKenna and Guillaume Habert Environmental Research: Infrastructure and Sustainability, vol. 4: no. 4, pp. 045002, IOP Publishing, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Future hydrogen economies imply environmental trade-offs and a supply-demand mismatch",
+      "year": 2024,
+      "citation_raw": "Future hydrogen economies imply environmental trade-offs and a supply-demand mismatch Tom Mike Terlouw, Lorenzo Rosa, Christian Bauer and Russell McKenna Nature Communications, vol. 15: no. 1, pp. 7043, Nature, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The role of digital social practices and technologies in the Swiss energy transition towards net-zero carbon dioxide emissions in 2050",
+      "year": 2024,
+      "citation_raw": "The role of digital social practices and technologies in the Swiss energy transition towards net-zero carbon dioxide emissions in 2050 Lidia Stermieri, Tom Kober, Russell McKenna, Thomas Schmidt and Evangelos Panos Energy Policy, vol. 193, pp. 114203, Elsevier, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Assessment of Potential and Techno-Economic Performance of Solid Sorbent Direct Air Capture with CO₂ Storage in Europe",
+      "year": 2024,
+      "citation_raw": "Assessment of Potential and Techno-Economic Performance of Solid Sorbent Direct Air Capture with CO₂ Storage in Europe Tom Mike Terlouw, Daniel Pokras, Viola Becattini and Marco Mazzotti Environmental Science & Technology, vol. 58: no. 24, pp. 10567-10581, American Chemical Society, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Scaling energy system optimizations: Techno-economic assessment of energy autonomy in 11 000 German municipalities",
+      "year": 2024,
+      "citation_raw": "Scaling energy system optimizations: Techno-economic assessment of energy autonomy in 11 000 German municipalities Stanley Risch, Jann Michael Weinand, Kai Schulze, Sammit Vartak, Max Kleinebrahm, Noah Pflugradt, Felix Kullmann, Leander Kotzur, Russell McKenna and Detlef Stolten Energy Conversion and Management, vol. 309, pp. 118422, Elsevier, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Overcoming the landlord–tenant dilemma: A techno-economic assessment of collective self-consumption for European multi-family buildings",
+      "year": 2024,
+      "citation_raw": "Overcoming the landlord–tenant dilemma: A techno-economic assessment of collective self-consumption for European multi-family buildings Christoph Domenig, Fabian Scheller, Philipp Andreas Gunkel, Julian Hermann, Claire-Marie Bergaentzlé, Marta A.R. Lopes, Jake Barnes and Russell McKenna Energy Policy, vol. 189, pp. 114120, Elsevier, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Mapping Future Air Travel Demand from Open Data",
+      "year": 2024,
+      "citation_raw": "Mapping Future Air Travel Demand from Open Data Michael Weinold, Ben Arendt, Dominik Dedic, Bastian Weißenburger and Russell McKenna Poster presented at the ETHZ CSFM Symposium 2024, Zurich, Switzerland, May 29, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Life Cycle Economic and Environmental Assessment of Producing Synthetic Jet Fuel Using CO₂/Biomass Feedstocks",
+      "year": 2024,
+      "citation_raw": "Life Cycle Economic and Environmental Assessment of Producing Synthetic Jet Fuel Using CO₂/Biomass Feedstocks Dimitri M. Saad, Tom Mike Terlouw, Romain Sacchi and Christian Bauer Environmental Science & Technology, vol. 58: no. 21, pp. 9158-9174, American Chemical Society, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Water resiliency score – Is relying on freshwater to generate electricity a good idea?",
+      "year": 2024,
+      "citation_raw": "Water resiliency score – Is relying on freshwater to generate electricity a good idea? Javier Farfan, Alena Lohrmann and Henrik Saxén Smart Energy, vol. 14, pp. 100142, Elsevier, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Quantifying the impact of travel time duration and valuation on modal shift in Swiss passenger transportation",
+      "year": 2024,
+      "citation_raw": "Quantifying the impact of travel time duration and valuation on modal shift in Swiss passenger transportation Sandro Luh, Ramachandran Kannan, Russell McKenna, Thomas Schmidt and Tom Kober Applied Energy, vol. 356, pp. 122412, Elsevier, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Reviewing accuracy & reproducibility of large-scale wind resource assessments",
+      "year": 2024,
+      "citation_raw": "Reviewing accuracy & reproducibility of large-scale wind resource assessments Tristan Pelser, Jann Michael Weinand, Patrick Kuckertz, Russell McKenna, Jochen Linssen and Detlef Stolten Advances in Applied Energy, vol. 13, pp. 100158, Elsevier, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The impacts of future sectoral change on the greenhouse gas emissions of construction materials for Swiss residential buildings",
+      "year": 2024,
+      "citation_raw": "The impacts of future sectoral change on the greenhouse gas emissions of construction materials for Swiss residential buildings Xiaojin Zhang, Niko Heeren, Christian Bauer, Peter Burgherr, Russell McKenna and Guillaume Habert Energy and Buildings, vol. 303, pp. 113824, Elsevier, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Integrating EV charging behaviour into a municipal energy system model to explore trade-offs between flexibility and battery degradation",
+      "year": 2024,
+      "citation_raw": "Integrating EV charging behaviour into a municipal energy system model to explore trade-offs between flexibility and battery degradation Linda Brodnicke, Febin Kachirayil, Paolo Gabrielli, Giovanni Sansavini and Russell McKenna 33rd European Conference on Operational Research (EURO 2024), Copenhagen, Denmark, pp.90-90, s.l.: Association of European Operational Research Societies, June 30 - July 3, 2024.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Two million European single-family homes could abandon the grid by 2050",
+      "year": 2023,
+      "citation_raw": "Two million European single-family homes could abandon the grid by 2050 Max Kleinebrahm, Jann Michael Weinand, Elias Naber, Russell McKenna, Armin Ardone and Wolf Fichtner Joule, vol. 7: no. 11, pp. 2485-2510, Cell Press, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Technology Assessment of Future Air Transport Systems: Improving Emissions Forecasts with Physical Limits and Decomposition Analysis",
+      "year": 2023,
+      "citation_raw": "Technology Assessment of Future Air Transport Systems: Improving Emissions Forecasts with Physical Limits and Decomposition Analysis Michael Weinold, Philipp Rohrer and Russell McKenna Poster presented at the PSI Energy and Environment Research Division Audit 2023, Villigen, Switzerland, November 14, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Uniform taxation of electricity: incentives for flexibility and cost redistribution among household categories",
+      "year": 2023,
+      "citation_raw": "Uniform taxation of electricity: incentives for flexibility and cost redistribution among household categories Philipp Andreas Gunkel, Febin Kachirayil, Claire-Marie Bergaentzlé, Russell McKenna, Dogan Keles and Henrik Klinge Jacobsen Energy Economics, vol. 127, pp. 107024, Elsevier, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Impacts of digitalization and societal changes on energy transition: a novel socio-techno-economic energy system model",
+      "year": 2023,
+      "citation_raw": "Impacts of digitalization and societal changes on energy transition: a novel socio-techno-economic energy system model Lidia Stermieri, Tom Kober, Russell McKenna, Thomas Schmidt and Evangelos Panos Energy Strategy Reviews, vol. 50, pp. 101224, Elsevier, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Optimal economic and environmental design of multi-energy systems",
+      "year": 2023,
+      "citation_raw": "Optimal economic and environmental design of multi-energy systems Tom Mike Terlouw, Paolo Gabrielli, Tarek AlSkaif, Christian Bauer, Russell McKenna and Marco Mazzotti Applied Energy, vol. 347, pp. 121374, Elsevier, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Global LCOEs of decentralized off-grid renewable energy systems",
+      "year": 2023,
+      "citation_raw": "Global LCOEs of decentralized off-grid renewable energy systems Jann Michael Weinand, Maximilian Hoffmann, Jan Göpfert, Tom Mike Terlouw, Julian Schönau, Patrick Kuckertz, Russell McKenna, Leander Kotzur, Jochen Linßen and Detlef Stolten Renewable and Sustainable Energy Reviews, vol. 183, pp. 113478, Elsevier, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "How, where, and when to charge electric vehicles – net-zero energy system implications and policy recommendations",
+      "year": 2023,
+      "citation_raw": "How, where, and when to charge electric vehicles – net-zero energy system implications and policy recommendations Sandro Luh, Ramachandran Kannan, Russell McKenna, Thomas Schmidt and Tom Kober Environmental Research Communications, vol. 5: no. 9, pp. 095004, IOP Publishing, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Conditions for profitable operation of P2X energy hubs to meet local demand under to with energy market access",
+      "year": 2023,
+      "citation_raw": "Conditions for profitable operation of P2X energy hubs to meet local demand under to with energy market access Yi Wan, Tom Kober, Tilman Schildhauer, Thomas Schmidt, Russell McKenna and Martin Densing Advances in Applied Energy, vol. 10, pp. 100127, Elsevier, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The potential of lake-source district heating and cooling for European buildings",
+      "year": 2023,
+      "citation_raw": "The potential of lake-source district heating and cooling for European buildings Sven Eggimann, Jacopo Vivian, Ruihong Chen, Kristina Orehounig, Anthony Patt and Massimo Fiorentini Energy Conversion and Management, vol. 283, pp. 116914, Pergamon, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Quantifying the implications of behavioral changes induced by digitalization on energy transition: A systematic review of methodological approaches",
+      "year": 2023,
+      "citation_raw": "“Quantifying the implications of behavioral changes induced by digitalization on energy transition: A systematic review of methodological approaches” Lidia Stermieri, Tom Kober, Thomas Schmidt, Russell McKenna and Evangelos Panos Energy Research & Social Science, vol. 97, pp. 102961, Elsevier, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Analysing municipal energy system transformations in line with national greenhouse gas reduction strategies",
+      "year": 2023,
+      "citation_raw": "Analysing municipal energy system transformations in line with national greenhouse gas reduction strategies Max Kleinebrahm, Jann Michael Weinand, Elias Naber, Russell McKenna and Armin Ardone Applied Energy, vol. 332, pp. 120515, Elsevier, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "High-temperature heat pumps in climate pathways for selected industry sectors in Switzerland",
+      "year": 2023,
+      "citation_raw": "High-temperature heat pumps in climate pathways for selected industry sectors in Switzerland Michel Dominik Obrist, Ramachandran Kannan, Russell McKenna, Thomas Schmidt and Tom Kober Energy Policy, vol. 173, pp. 113383, Elsevier, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Designing residential energy systems considering prospective costs and life cycle GHG emissions",
+      "year": 2023,
+      "citation_raw": "Designing residential energy systems considering prospective costs and life cycle GHG emissions Tom Mike Terlouw, Tarek AlSkaif, Christian Bauer, Marco Mazzotti and Russell McKenna Applied Energy, vol. 331, pp. 120362, Elsevier, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "In Enabling Secure Subsurface Storage in Future Energy Systems, edited by Miocic",
+      "year": 2023,
+      "citation_raw": "In Enabling Secure Subsurface Storage in Future Energy Systems, edited by Miocic, J.M., Heinemann, N., Edlmann, K., Alcalde, J. and Schultz, R.A., vol. 528 , pp. 171-187, London: Geological Society, 2023.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Reviewing local and integrated energy system models: insights into flexibility and robustness challenges",
+      "year": 2022,
+      "citation_raw": "Reviewing local and integrated energy system models: insights into flexibility and robustness challenges Febin Kachirayil, Jann Michael Weinand, Fabian Scheller and Russell McKenna Applied Energy, vol. 324, pp. 119666, Elsevier, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Exploring the trilemma of cost-efficiency, landscape impact and regional equality in onshore wind expansion planning",
+      "year": 2022,
+      "citation_raw": "Exploring the trilemma of cost-efficiency, landscape impact and regional equality in onshore wind expansion planning Jann Michael Weinand, Russell McKenna, Heidi Heinrichs, Michael Roth, Detlef Stolten and Wolf Fichtner Advances in Applied Energy, vol. 7, pp. 100102, Elsevier, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Large-scale hydrogen production via water electrolysis: a techno-economic and environmental assessment",
+      "year": 2022,
+      "citation_raw": "Large-scale hydrogen production via water electrolysis: a techno-economic and environmental assessment Tom Mike Terlouw, Christian Bauer, Russell McKenna and Marco Mazzotti Energy & Environmental Science, vol. 15: no. 9, pp. 3583-3602, Royal Society of Chemistry, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Exploring trade-offs between landscape impact, land use and resource quality for onshore variable renewable energy: an application to Great Britain",
+      "year": 2022,
+      "citation_raw": "Exploring trade-offs between landscape impact, land use and resource quality for onshore variable renewable energy: an application to Great Britain Russell McKenna, Ismir Mulalic, Ian Soutar, Jann Michael Weinand, James Price, Stefan Petrović and Kai Mainzer Energy, vol. 250, pp. 123754, Elsevier, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "How green is blue hydrogen?",
+      "year": 2022,
+      "citation_raw": "Comment on “How green is blue hydrogen?” Matteo C. Romano, Cristina Antonini, André Bardow, Valentin Bertsch, Nigel P. Brandon, Jack Brouwer, Stefano Campanari, Luigi Crema, Paul E. Dodds, Stefania O. Gardarsdottir, Matteo Gazzani, Gert Jan Kramer, Peter D. Lund, Niall Mac Dowell, Emanuele Martelli, Luca Mastropasqua, Russell McKenna, Juliana Garcia Moretz-Sohn Monteiro, Nicola Paltrinieri, Bruno G. Pollet, Jeffrey G. Reed, Thomas Schmidt, Jaap Vente and Dianne Wiley Energy Science & Engineering, vol. 10: no. 7, pp. 1944-1954, Wiley, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Identification of Potential Off-Grid Municipalities With 100% Renewable Energy Supply for Future Design of Power Grids",
+      "year": 2022,
+      "citation_raw": "Identification of Potential Off-Grid Municipalities With 100% Renewable Energy Supply for Future Design of Power Grids Jann M. Weinand, Sabrina Ried, Max Kleinebrahm, Russell McKenna and Wolf Fichtner IEEE Transactions on Power Systems, vol. 37: no. 4, pp. 3321-3330, IEEE, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Historic drivers of onshore wind power siting and inevitable future trade-offs",
+      "year": 2022,
+      "citation_raw": "Historic drivers of onshore wind power siting and inevitable future trade-offs Jann Michael Weinand, Elias Naber, Russell McKenna, Paul Lehmann, Leander Kotzur and Detlef Stolten Environmental Research Letters, vol. 17: no. 7, pp. 074018, IOP Publishing, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The implications of landscape visual impact on future highly renewable power systems: a case study for Great Britain",
+      "year": 2022,
+      "citation_raw": "The implications of landscape visual impact on future highly renewable power systems: a case study for Great Britain James Price, Kai Mainzer, Stefan Petrovic, Marianne Zeyringer and Russell McKenna IEEE Transactions on Power Systems, vol. 37: no. 4, pp. 3311-3320, IEEE, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models",
+      "year": 2022,
+      "citation_raw": "PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models Romain Sacchi, Tom Terlouw, Kais Siala, Alois Dirnaichner, Christian Bauer, Brian Cox, Christopher Mutel, Vassilis Daioglou and Gunnar Luderer Renewable and Sustainable Energy Reviews, vol. 160, pp. 112311, Pergamon, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Corrigendum to High-resolution large-scale onshore wind energy assessments: A review of potential definitions, methodologies and future research needs",
+      "year": 2022,
+      "citation_raw": "Corrigendum to High-resolution large-scale onshore wind energy assessments: A review of potential definitions, methodologies and future research needs Russell McKenna, Stefan Pfenninger, Heidi Heinrichs, Stefan Schmidt, Iain Staffell, Christian Bauer, Katharina Gruber, Andrea N. Hahmann, Malte Jansen, Michael Klingler, Natascha Landwehr, Xiaoli Guo Larsén, Johan Lilliestam, Bryn Pickering, Martin Robinius, Tim Tröndle, Olga Turkovska, Sebastian Wehrle and Jan Wohland Renewable Energy, vol. 190, pp. 1128, Elsevier, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Research trends in combinatorial optimization",
+      "year": 2022,
+      "citation_raw": "Research trends in combinatorial optimization Jann Michael Weinand, Kenneth Sörensen, Pablo San Segundo, Max Kleinebrahm and Russell McKenna International Transactions in Operational Research, vol. 29: no. 2, pp. 667-705, Wiley-Blackwell, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Power transformers as excess heat sources – a case study for Denmark",
+      "year": 2022,
+      "citation_raw": "Power transformers as excess heat sources – a case study for Denmark Stefan Petrović, Fabian Bühler, Uroš Radoman and Russell McKenna Energy, vol. 239, pp. 122416, Elsevier, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Reviewing two decades of energy system analysis with bibliometrics",
+      "year": 2022,
+      "citation_raw": "Reviewing two decades of energy system analysis with bibliometrics Dominik F. Dominković, Jann M. Weinand, Fabian Scheller, M. D'Andrea and Russell McKenna Renewable and Sustainable Energy Reviews, vol. 153, pp. 111749, Elsevier, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "High-resolution large-scale onshore wind energy assessments: A review of potential definitions, methodologies and future research needs",
+      "year": 2022,
+      "citation_raw": "High-resolution large-scale onshore wind energy assessments: A review of potential definitions, methodologies and future research needs Russell McKenna, Stefan Pfenninger, Heidi Heinrichs, Johannes Schmidt, Iain Staffell, Christian Bauer, Katharina Gruber, Andrea N. Hahmann, Malte Jansen, Michael Klingler, Natascha Landwehr, Xiaoli Guo Larsén, Johan Lilliestam, Brynmor Pickering, Martin Robinius, Tim Tröndle, Olga Turkovska, Sebastian Wehrle, Jann Michael Weinand and Jan Wohland Renewable Energy, vol. 182, pp. 659-684, Elsevier, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Optimal system design for energy communities in multi-family buildings: the case of the German Tenant Electricity Law",
+      "year": 2022,
+      "citation_raw": "Optimal system design for energy communities in multi-family buildings: the case of the German Tenant Electricity Law Fritz Braeuer, Max Kleinebrahm, Elias Naber, Fabian Scheller and Russell McKenna Applied Energy, vol. 305, pp. 117884, Elsevier, 2022.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Analysing long-term opportunities for offshore energy system integration in the Danish North Sea",
+      "year": 2021,
+      "citation_raw": "Analysing long-term opportunities for offshore energy system integration in the Danish North Sea Russell McKenna, Matteo D'Andrea and Mario Garzón González Advances in Applied Energy, vol. 4, pp. 100067, Elsevier, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "An expert survey to assess the current status and future challenges of energy system analysis",
+      "year": 2021,
+      "citation_raw": "An expert survey to assess the current status and future challenges of energy system analysis Fabian Scheller, Frauke Wiese, Jann Michael Weinand, Dominik Franjo Dominkovic and Russell McKenna Smart Energy, vol. 4, pp. 100057, Elsevier, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Life Cycle Assessment of Direct Air Carbon Capture and Storage with Low-Carbon Energy Sources",
+      "year": 2021,
+      "citation_raw": "Life Cycle Assessment of Direct Air Carbon Capture and Storage with Low-Carbon Energy Sources Tom Terlouw, Karin Treyer, Christian Bauer and Marco Mazzotti Environmental Science & Technology, vol. 55: no. 16, pp. 11397-11411, American Chemical Society, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The impact of public acceptance on cost efficiency and environmental sustainability in decentralized energy systems",
+      "year": 2021,
+      "citation_raw": "The impact of public acceptance on cost efficiency and environmental sustainability in decentralized energy systems Jann M. Weinand, Russell McKenna, Max Kleinebrahm, Fabian Scheller and Wolf Fichtner Patterns, vol. 2: no. 7, pp. 100301, Elsevier, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Optimal PV and Battery Investment of Market-Participating Industry Facilities",
+      "year": 2021,
+      "citation_raw": "Optimal PV and Battery Investment of Market-Participating Industry Facilities Nikolina Covic, Fritz Braeuer, Russell McKenna and Hrvoje Pandžić IEEE Transactions on Power Systems, vol. 36: no. 4, pp. 3441-3452, IEEE, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Scenicness assessment of onshore wind sites with geotagged photographs and impacts on approval and cost-efficiency",
+      "year": 2021,
+      "citation_raw": "Scenicness assessment of onshore wind sites with geotagged photographs and impacts on approval and cost-efficiency Russell McKenna, Jann Michael Weinand, Ismir Mulalic, Stefan Petrović, Kai Mainzer, Tobias Preis and Helen Susannah Moat Nature Energy, vol. 6: no. 6, pp. 663-672, Nature, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Using neural networks to model long-term dependencies in occupancy behavior",
+      "year": 2021,
+      "citation_raw": "Using neural networks to model long-term dependencies in occupancy behavior Max Kleinebrahm, Jacopo Torriti, Russell McKenna, Armin Ardone and Wolf Fichtner Energy and Buildings, vol. 240, pp. 110879, Elsevier, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Stakeholder dynamics in residential solar energy adoption: findings from focus group discussions in Germany",
+      "year": 2021,
+      "citation_raw": "Stakeholder dynamics in residential solar energy adoption: findings from focus group discussions in Germany Fabian Scheller, Isabel Doser, Emily Schulte, Simon Johanning, Russell McKenna and Thomas Bruckner Energy Research & Social Science, vol. 76, pp. 102065, Elsevier, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Life cycle assessment of carbon dioxide removal technologies: A critical review",
+      "year": 2021,
+      "citation_raw": "Life cycle assessment of carbon dioxide removal technologies: A critical review Tom Terlouw, Christian Bauer, Lorenzo Rosa and Marco Mazzotti Energy & Environmental Science, vol. 14: no. 4, pp. 1701-1721, Royal Society of Chemistry, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "A statistical approach to identify asynchronous extreme events for multi-regional energy system models",
+      "year": 2021,
+      "citation_raw": "A statistical approach to identify asynchronous extreme events for multi-regional energy system models Phuong Minh Khuong, Hasan Ü. Yilmaz, Russell McKenna and Dogan Keles International Journal of Energy Sector Management, vol. 15: no. 2, pp. 352-384, Emerald, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Analyzing the energy system impacts of price-induced demand-side-flexibility with empirical data",
+      "year": 2021,
+      "citation_raw": "Analyzing the energy system impacts of price-induced demand-side-flexibility with empirical data Russell McKenna, Diana Abad Hernando, Till ben Brahim, Simon Bolwig, Jed J. Cohen and Johannes Reichl Journal of Cleaner Production, vol. 279, pp. 123354, Elsevier, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Techno-Economic Assessment of PV-Coupled Battery Energy Storage Systems with Different Sizing Methodologies",
+      "year": 2021,
+      "citation_raw": "Techno-Economic Assessment of PV-Coupled Battery Energy Storage Systems with Different Sizing Methodologies Tom Terlouw, Tarek AlSkaif and Christian Bauer 14th IEEE PowerTech Conference (PowerTech 2021), Online, pp.9494881 Piscataway, NJ: IEEE, June 28 - July 2, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "On the climate impacts of blue hydrogen production",
+      "year": 2021,
+      "citation_raw": "On the climate impacts of blue hydrogen production Christian Bauer, Karin Treyer, Cristina Antonini, Joule Bergerson, Matteo Gazzani, Emre Gencer, Jon Gibbins, Marco Mazzotti, Sean T. McCoy, Russell McKenna, Robert Pietzcker, Arvind P. Ravikumar, Matteo C. Romano, Falko Ueckerdt, Jaap Vente and Mijndert Willem van der Spek Sustainable Energy & Fuels, vol. 6: no. 1, pp. 66-75, Royal Society of Chemistry, 2021.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Climate change impacts on trends and extremes in future heating and cooling demands over Europe",
+      "year": 2020,
+      "citation_raw": "Climate change impacts on trends and extremes in future heating and cooling demands over Europe Morten A.D. Larsen, Stefan Petrović, Andrea M. Radoszynski, Russell McKenna and Olexandr Balyk Energy and Buildings, vol. 226, pp. 110397, Elsevier, 2020.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Exploring the role of households hurdle rates and demand elasticities in meeting Danish energy-savings target",
+      "year": 2020,
+      "citation_raw": "Exploring the role of households hurdle rates and demand elasticities in meeting Danish energy-savings target Kristoffer Steen Andersen, Catharina Wiese, Stefan Petrovic and Russell McKenna Energy Policy, vol. 146, pp. 111785, Elsevier, 2020.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "On the socio-technical potential for onshore wind in Europe: A response to Enevoldsen et al",
+      "year": 2019,
+      "citation_raw": "external page: Research Collection On the socio-technical potential for onshore wind in Europe: A response to Enevoldsen et al. (2019), Energy Policy, 132, 1092-1100",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Stefan Höltinger, Johan Lilliestam, Stefan Pfenninger, Martin Robinius, Detlef Stolten, Tim Tröndle, Sebastian Wehrle and Jann M, Weinand",
+      "year": 2020,
+      "citation_raw": "Russell McKenna, David S. Ryberg, Iain Staffell, Andrea N. Hahmann, Johannes Schmidt, Heidi Heinrichs, Stefan Höltinger, Johan Lilliestam, Stefan Pfenninger, Martin Robinius, Detlef Stolten, Tim Tröndle, Sebastian Wehrle and Jann M. Weinand Energy Policy, vol. 145, pp. 111693, Elsevier, 2020.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Comparing empirical and model-based approaches for calculating dynamic grid emission factors: An application to CO2-minimizing storage dispatch in Germany",
+      "year": 2020,
+      "citation_raw": "Comparing empirical and model-based approaches for calculating dynamic grid emission factors: An application to CO2-minimizing storage dispatch in Germany Fritz Braeuer, Rafael Finck and Russell McKenna Journal of Cleaner Production, vol. 266, pp. 121588, Elsevier, 2020.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Reviewing energy system modelling of decentralized energy autonomy",
+      "year": 2020,
+      "citation_raw": "Reviewing energy system modelling of decentralized energy autonomy Jann Michael Weinand, Fabian Scheller and Russell McKenna Energy, vol. 203, pp. 117817, Elsevier, 2020.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Competition between simultaneous demand-side flexibility options: the case of community electricity storage systems",
+      "year": 2020,
+      "citation_raw": "Competition between simultaneous demand-side flexibility options: the case of community electricity storage systems Fabian Scheller, Robert Burkhardt, Robert Schwarzeit, Russell McKenna and Thomas Bruckner Applied Energy, vol. 269, pp. 114969, Elsevier, 2020.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "A Cost-Effective and Transferable Methodology for Rooftop PV Potential Assessment in Developing Countries",
+      "year": 2020,
+      "citation_raw": "A Cost-Effective and Transferable Methodology for Rooftop PV Potential Assessment in Developing Countries Phuong Minh Khuong, Russell McKenna and Wolf Fichtner Energies, vol. 13: no. 10, pp. 2501, MDPI, 2020.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Assessing the contribution of simultaneous heat and power generation from geothermal plants in off-grid municipalities",
+      "year": 2019,
+      "citation_raw": "Assessing the contribution of simultaneous heat and power generation from geothermal plants in off-grid municipalities Jann Michael Weinand, Russell McKenna, Max Kleinebrahm and Kai Mainzer Applied Energy, vol. 255, pp. 113824, Elsevier, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Assessing the potential contribution of excess heat from biogas plants towards decarbonising residential heating",
+      "year": 2019,
+      "citation_raw": "Assessing the potential contribution of excess heat from biogas plants towards decarbonising residential heating Jann Michael Weinand, Russell McKenna, Katharina Karner, Lorenz Braun and Carsten Herbes Journal of Cleaner Production, vol. 238, pp. 117756, Elsevier, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Spatial high-resolution socio-energetic data for municipal energy system analyses",
+      "year": 2019,
+      "citation_raw": "Spatial high-resolution socio-energetic data for municipal energy system analyses Jann M. Weinand, Russell McKenna and Kai Mainzer Scientific Data, vol. 6, pp. 243, Nature, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Developing a combinatorial optimisation approach to design district heating networks based on deep geothermal energy",
+      "year": 2019,
+      "citation_raw": "Developing a combinatorial optimisation approach to design district heating networks based on deep geothermal energy Jann Michael Weinand, Max Kleinebrahm, Russell McKenna, Kai Mainzer and Wolf Fichtner Applied Energy, vol. 251, pp. 113367, Elsevier, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Multi-level decomposition of ASEAN urbanization effects on energy",
+      "year": 2019,
+      "citation_raw": "Multi-level decomposition of ASEAN urbanization effects on energy Phuong Minh Khuong, Russell McKenna and Wolf Fichtner International Journal of Energy Sector Management, vol. 13: no. 4, pp. 1107-1132, Emerald, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Battery storage systems: An economic model-based analysis of parallel revenue streams and general implications for industry",
+      "year": 2019,
+      "citation_raw": "Battery storage systems: An economic model-based analysis of parallel revenue streams and general implications for industry Fritz Braeuer, Julian Rominger, Russell McKenna and Wolf Fichtner Applied Energy, vol. 239, pp. 1424-1440, Elsevier, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Developing a municipality typology for modelling decentralised energy systems",
+      "year": 2019,
+      "citation_raw": "Developing a municipality typology for modelling decentralised energy systems Jann M. Weinand, Russell McKenna and Wolf Fichtner Utilities Policy, vol. 57, pp. 75-96, Elsevier, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The role of seasonal thermal energy storage in increasing renewable heating shares: A techno-economic analysis for a typical residential district",
+      "year": 2019,
+      "citation_raw": "The role of seasonal thermal energy storage in increasing renewable heating shares: A techno-economic analysis for a typical residential district Russell McKenna, Daniel Fehrenbach and Erik Merkel Energy and Buildings, vol. 187, pp. 38-49, Elsevier, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Analyzing drivers of renewable energy development in Southeast Asia countries with correlation and decomposition methods",
+      "year": 2019,
+      "citation_raw": "Analyzing drivers of renewable energy development in Southeast Asia countries with correlation and decomposition methods Phuong M. Khuong, Russell McKenna and Wolf Fichtner Journal of Cleaner Production, vol. 213, pp. 710-722, Elsevier, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Public acceptance of renewable energies and energy autonomy: A comparative study in the French, German and Swiss Upper Rhine region",
+      "year": 2019,
+      "citation_raw": "Public acceptance of renewable energies and energy autonomy: A comparative study in the French, German and Swiss Upper Rhine region Kira Schumacher, F. Krones, Russell McKenna and Frank Schultmann Energy Policy, vol. 126, pp. 315-332, Elsevier, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Designing Taxes and Tariffs for Electricity Systems with Complex Flexible Actors",
+      "year": 2019,
+      "citation_raw": "Designing Taxes and Tariffs for Electricity Systems with Complex Flexible Actors Felipe Junqueira Fausto, Philipp Andreas Gunkel, Klaus Skytte, Claire Bergaentzlé and Russell McKenna 16th International Conference on the European Energy Market (EEM 2019), Ljubljana, Slovenia, pp.8916293 Piscataway, NJ: IEEE, September 18-20, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Electric vehicles impacts on residential electric local profiles A stochastic modelling approach considering socio-economic, behavioural and spatial factors",
+      "year": 2019,
+      "citation_raw": "Electric vehicles impacts on residential electric local profiles A stochastic modelling approach considering socio-economic, behavioural and spatial factors David Fischer, Alexander Harbrecht, Arne Surmann and Russell McKenna Applied Energy, vol. 233-234, pp. 644-658, Elsevier, 2019.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Industrial excess heat recovery in industry-city networks: a technical, environmental and economic assessment of heat flexibility",
+      "year": 2018,
+      "citation_raw": "Industrial excess heat recovery in industry-city networks: a technical, environmental and economic assessment of heat flexibility Katharina Karner, Russell McKenna, Marian Klobasa and Thomas Kienberger Journal of Cleaner Production, vol. 193, pp. 771-783, Elsevier, 2018.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Combining local preferences with multi-criteria decision analysis and linear optimization to develop feasible energy concepts in small communities",
+      "year": 2018,
+      "citation_raw": "Combining local preferences with multi-criteria decision analysis and linear optimization to develop feasible energy concepts in small communities Russell McKenna, Valentin Bertsch, Kai Mainzer and Wolf Fichtner European Journal of Operational Research, vol. 268: no. 3, pp. 1092-1110, Elsevier, 2018.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "A stochastic multi-energy simulation model for UK residential buildings",
+      "year": 2018,
+      "citation_raw": "A stochastic multi-energy simulation model for UK residential buildings Russell McKenna, L. Hofmann, Max Kleinebrahm and Wolf Fichtner Energy and Buildings, vol. 168, pp. 470-489, Elsevier, 2018.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Analysing the regional potential and social acceptance of power-to-gas in the context of decentralized co-generation in Baden-Württemberg",
+      "year": 2018,
+      "citation_raw": "Analysing the regional potential and social acceptance of power-to-gas in the context of decentralized co-generation in Baden-Württemberg Sebastian König, Quentin Bchini, Russell McKenna, Wolfgang Köppel, Michael Bachseitz, Jörg Entress, Meinhard Ryba, Julia Michaelis, Annette Roser and Karin Schakib-Ekbatan Journal of Energy Storage, vol. 16, pp. 93-107, Elsevier, 2018.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The future role of Power-to-Gas in the energy transition: Regional and local techno-economic analyses in Baden-Württemberg",
+      "year": 2018,
+      "citation_raw": "The future role of Power-to-Gas in the energy transition: Regional and local techno-economic analyses in Baden-Württemberg Russell McKenna, Quentin Bchini, Jann M. Weinand, Julia Michaelis, Sebastian König, Wolfgang Köppel and Wolf Fichtner Applied Energy, vol. 212, pp. 386-400, Elsevier, 2018.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The double-edged sword of decentralized energy autonomy",
+      "year": 2018,
+      "citation_raw": "The double-edged sword of decentralized energy autonomy Russell McKenna Energy Policy, vol. 113, pp. 747-750, Elsevier, 2018.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Estimating the industrial waste heat recovery potential based on CO2 emissions in the European non-metallic mineral industry",
+      "year": 2018,
+      "citation_raw": "Estimating the industrial waste heat recovery potential based on CO2 emissions in the European non-metallic mineral industry Laia Miró, Russell McKenna, Tobias Jäger and Luisa F. Cabeza Energy Efficiency, vol. 11: no. 2, pp. 427-443, Springer, 2018.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Assessing the implications of socioeconomic diversity for low carbon technology uptake in electrical distribution networks",
+      "year": 2018,
+      "citation_raw": "Assessing the implications of socioeconomic diversity for low carbon technology uptake in electrical distribution networks Russell McKenna, Predrag Djapić, Jann Michael Weinand, Wolf Fichtner and Goran Strbac Applied Energy, vol. 210, pp. 856-869, Elsevier, 2018.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Assessment of rooftop photovoltaic potentials at the urban level using publicly available geodata and image recognition techniques",
+      "year": 2017,
+      "citation_raw": "Assessment of rooftop photovoltaic potentials at the urban level using publicly available geodata and image recognition techniques Kai Mainzer, Sven Killinger, Russell McKenna and Wolf Fichtner Solar Energy, vol. 155, pp. 561-573, Elsevier, 2017.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The thermodynamic implications of electricity end-use for heat and power",
+      "year": 2017,
+      "citation_raw": "The thermodynamic implications of electricity end-use for heat and power Stephen R. Allen, Geoffrey P. Hammond and Russell McKenna Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy, vol. 231: no. 6, pp. 508-525, SAGE, 2017.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Meeting the Modeling Needs of Future Energy Systems",
+      "year": 2017,
+      "citation_raw": "Meeting the Modeling Needs of Future Energy Systems Dogan Keles, Patrick Jochem, Russell McKenna, Manuel Ruppert and Wolf Fichtner Energy Technology, vol. 5: no. 7, pp. 1007-1025, Wiley-VCH, 2017.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Energy autonomy in residential buildings: A techno-economic model-based analysis of the scale effects",
+      "year": 2017,
+      "citation_raw": "Energy autonomy in residential buildings: A techno-economic model-based analysis of the scale effects Russell McKenna, Erik Merkel and Wolf Fichtner Applied Energy, vol. 189, pp. 800-815, Elsevier, 2017.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Zeitschrift für Energiewirtschaft",
+      "year": 2017,
+      "citation_raw": "Erik Merkel, Robert Kunze, Russell McKenna and Wolf Fichtner Zeitschrift für Energiewirtschaft, vol. 41: no. 1, pp. 1-22, Springer, 2017.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "A model-based assessment of climate and energy targets for the German residential heat system",
+      "year": 2017,
+      "citation_raw": "A model-based assessment of climate and energy targets for the German residential heat system Erik Merkel, Russell McKenna, Daniel Fehrenbach and Wolf Fichtner Journal of Cleaner Production, vol. 142: no. 4, pp. 3151-3173, Elsevier, 2017.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Evaluating different upscaling approaches to derive the actual power of distributed PV systems",
+      "year": 2017,
+      "citation_raw": "Evaluating different upscaling approaches to derive the actual power of distributed PV systems Sven Killinger, Björn Müller, Bernhard Wille-Haussmann and Russell McKenna 44th IEEE Photovoltaic Specialist Conference (PVSC 2017), Washington, DC, USA, pp.0126-0131, Piscataway, NJ: IEEE, June 25-30, 2017.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Projection of power generation between differently-oriented PV systems",
+      "year": 2016,
+      "citation_raw": "Projection of power generation between differently-oriented PV systems Sven Killinger, Felix Braam, Björn Müller, Bernhard Wille-Haussmann and Russell McKenna Solar Energy, vol. 136, pp. 153-165, Elsevier, 2016.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Prüfung der Standorteignung für Windenergieanlagen: Ein pragmatischer Ansatz",
+      "year": 2016,
+      "citation_raw": "Prüfung der Standorteignung für Windenergieanlagen: Ein pragmatischer Ansatz Moritz Rodenhausen, Wolfgang Moser, Christian Hülsmann, Constantin Bergemann, Michael Könker and Russell McKenna Bautechnik, vol. 93: no. 10, pp. 752-763, Ernst & Sohn, 2016.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Analysing socioeconomic diversity and scaling effects on residential electricity load profiles in the context of low carbon technology uptake",
+      "year": 2016,
+      "citation_raw": "Analysing socioeconomic diversity and scaling effects on residential electricity load profiles in the context of low carbon technology uptake Russell McKenna, L. Hofmann, Erik Merkel, Wolf Fichtner and Neil D. Strachan Energy Policy, vol. 97, pp. 13-26, Elsevier, 2016.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "The feasible onshore wind energy potential in Baden-Württemberg: A bottom-up methodology considering socio-economic constraints",
+      "year": 2016,
+      "citation_raw": "The feasible onshore wind energy potential in Baden-Württemberg: A bottom-up methodology considering socio-economic constraints Tobias Jäger, Russell McKenna and Wolf Fichtner Renewable Energy, vol. 96, Part A, pp. 662-675, Elsevier, 2016.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Methodologies to estimate industrial waste heat potential by transferring key figures: A case study for Spain",
+      "year": 2016,
+      "citation_raw": "Methodologies to estimate industrial waste heat potential by transferring key figures: A case study for Spain Laia Miró, Sarah Brueckner, Russell McKenna and Luisa F. Cabeza Applied Energy, vol. 169, pp. 866-873, Elsevier, 2016.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Key challenges and prospects for large wind turbines",
+      "year": 2016,
+      "citation_raw": "Key challenges and prospects for large wind turbines Russell McKenna, P. Ostman von der Leye and Wolf Fichtner Renewable and Sustainable Energy Reviews, vol. 53, pp. 1212-1221, Elsevier, 2016.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Towards an Improved Nowcasting Method by Evaluating Power Profiles of PV Systems to Detect Apparently Atypical Behavior",
+      "year": 2016,
+      "citation_raw": "Towards an Improved Nowcasting Method by Evaluating Power Profiles of PV Systems to Detect Apparently Atypical Behavior Sven Killinger, Björn Müller, Yves-Marie Saint-Drenan and Russell McKenna 43rd IEEE Photovoltaic Specialist Conference (PVSC 2016), Portland, OR, USA, pp.0980-0985, Piscataway, NJ: IEEE, June 5-10, 2016.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Energieautarkie: Vorschlag einer Arbeitsdefinition als Grundlage für die Bewertung konkreter Projekte und Szenarien",
+      "year": 2015,
+      "citation_raw": "Energieautarkie: Vorschlag einer Arbeitsdefinition als Grundlage für die Bewertung konkreter Projekte und Szenarien Russell McKenna, Carsten Herbes and Wolf Fichtner Zeitschrift für Energiewirtschaft, vol. 39: no. 4, pp. 235-252, Springer, 2015.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "A regional optimisation of renewable energy supply from wind and photovoltaics with respect to three key energy-political objectives",
+      "year": 2015,
+      "citation_raw": "A regional optimisation of renewable energy supply from wind and photovoltaics with respect to three key energy-political objectives Sven Killinger, Kai Mainzer, Russell McKenna, Niklas Kreifels and Wolf Fichtner Energy, vol. 84, pp. 563-574, Elsevier, 2015.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Cost-potentials for large onshore wind turbines in Europe",
+      "year": 2015,
+      "citation_raw": "Cost-potentials for large onshore wind turbines in Europe Russell McKenna, S. Hollnaicher, P. Ostman von der Leye and Wolf Fichtner Energy, vol. 83, pp. 217-229, Elsevier, 2015.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Optimisation of the capacity and the dispatch of decentralised micro-CHP systems: A case study for the UK",
+      "year": 2015,
+      "citation_raw": "Optimisation of the capacity and the dispatch of decentralised micro-CHP systems: A case study for the UK Erik Merkel, Russell McKenna and Wolf Fichtner Applied Energy, vol. 140, pp. 120-134, Elsevier, 2015.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "A Bottom-Up Method for Feasible Wind Energy Potential Assessments, Turbine and Park Placement",
+      "year": 2015,
+      "citation_raw": "A Bottom-Up Method for Feasible Wind Energy Potential Assessments, Turbine and Park Placement Tobias Jäger, Russell McKenna and Wolf Fichtner 12th International Conference on the European Energy Market (EEM 2015), Lisbon, Portugal, pp.7216738 Piscataway, NJ: IEEE, May 19-22, 2015.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "An Evaluation of Optimal Biogas Plant Configurations in Germany",
+      "year": 2014,
+      "citation_raw": "An Evaluation of Optimal Biogas Plant Configurations in Germany David Balussou, Tobias Heffels, Russell McKenna, Dominik Möst and Wolf Fichtner Waste and Biomass Valorization, vol. 5: no. 5, pp. 743-758, Springer, 2014.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Modelling decentralised heat supply: An application and methodological extension in TIMES",
+      "year": 2014,
+      "citation_raw": "Modelling decentralised heat supply: An application and methodological extension in TIMES Erik Merkel, Daniel Fehrenbach, Russell McKenna and Wolf Fichtner Energy, vol. 73, pp. 592-605, Elsevier, 2014.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "On the economic potential for electric load management in the German residential heating sector An optimising energy system model approach",
+      "year": 2014,
+      "citation_raw": "On the economic potential for electric load management in the German residential heating sector An optimising energy system model approach Daniel Fehrenbach, Erik Merkel, Russell McKenna, Ute Karl and Wolf Fichtner Energy, vol. 71, pp. 263-276, Elsevier, 2014.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "A high-resolution determination of the technical potential for residential-roof-mounted photovoltaic systems in Germany",
+      "year": 2014,
+      "citation_raw": "A high-resolution determination of the technical potential for residential-roof-mounted photovoltaic systems in Germany Kai Mainzer, Karoline Fath, Russell McKenna, Julian Stengel, Wolf Fichtner and Frank Schultmann Solar Energy, vol. 105, pp. 715-731, Elsevier, 2014.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Cost-potential curves for onshore wind energy: A high-resolution analysis for Germany",
+      "year": 2014,
+      "citation_raw": "Cost-potential curves for onshore wind energy: A high-resolution analysis for Germany Russell McKenna, S Hollnaicher and Wolf Fichtner Applied Energy, vol. 115, pp. 103-115, Elsevier, 2014.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "An ecological and economic assessment of absorption-enhanced-reforming (AER) biomass gasification",
+      "year": 2014,
+      "citation_raw": "An ecological and economic assessment of absorption-enhanced-reforming (AER) biomass gasification Tobias Heffels, Russell McKenna and Wolf Fichtner Energy Conversion and Management, vol. 77, pp. 535-544, Elsevier, 2014.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Energy savings through direct secondary reuse: an exemplary analysis of the German automotive sector",
+      "year": 2013,
+      "citation_raw": "Energy savings through direct secondary reuse: an exemplary analysis of the German automotive sector Russell McKenna, Sören Reith, Sylvain Cail, Alois Kessler and Wolf Fichtner Journal of Cleaner Production, vol. 52, pp. 103-112, Elsevier, 2013.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Determination of costpotential-curves for wind energy in the German federal state of Baden-Württemberg",
+      "year": 2013,
+      "citation_raw": "Determination of costpotential-curves for wind energy in the German federal state of Baden-Württemberg Russell McKenna, Sophia Gantenbein and Wolf Fichtner Energy Policy, vol. 57, pp. 194-203, Elsevier, 2013.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Energy efficiency in the German residential sector: A bottom-up building-stock-model-based analysis in the context of energy-political targets",
+      "year": 2013,
+      "citation_raw": "Energy efficiency in the German residential sector: A bottom-up building-stock-model-based analysis in the context of energy-political targets Russell McKenna, Erik Merkel, Daniel Fehrenbach, Stephanie Mehne and Wolf Fichtner Building and Environment, vol. 62, pp. 77-88, Elsevier, 2013.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Direct marketing of electricity from biogas and biomethane: an economic analysis of several business models in Germany",
+      "year": 2012,
+      "citation_raw": "Direct marketing of electricity from biogas and biomethane: an economic analysis of several business models in Germany Tobias Heffels, Russell McKenna and Wolf Fichtner Journal of Management Control, vol. 23: no. 1, pp. 53-70, Springer, 2012.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "An Economic Analysis of Three Operational Co-digestion Biogas Plants in Germany",
+      "year": 2012,
+      "citation_raw": "An Economic Analysis of Three Operational Co-digestion Biogas Plants in Germany David Balussou, Anne Kleyböcker, Russell McKenna, Dominik Möst and Wolf Fichtner Waste and Biomass Valorization, vol. 3: no. 1, pp. 23-41, Springer, 2012.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    },
+    {
+      "title": "Spatial modelling of industrial heat loads and recovery potentials in the UK",
+      "year": 2010,
+      "citation_raw": "Spatial modelling of industrial heat loads and recovery potentials in the UK J.B. Norman, Russell McKenna and Jonathan B. Norman Energy Policy, vol. 38: no. 10, pp. 5878-5891, Elsevier, 2010.",
+      "source_url": "https://esa.ethz.ch/publications.html"
+    }
+  ]
+}

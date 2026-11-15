@@ -1,0 +1,133 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "Staff" [url=https://www.tudelft.nl/en/staff/a.j.m.vanwijk/]
+- region "This website uses cookies" [ref=e1]:
+  - text: "logo"
+  - tabpanel "Consent":
+    - heading "This website uses cookies" [level=2]
+    - text: "TU Delft uses cookies to ensure the proper functioning of external content, such as social media feeds, videos or other interactive media, as well as analyzing …[+360 chars]"
+    - link "TU Delft Cookiebeleid" [ref=e2]: "Read more about our cookie policy"
+    - group "Consent Selection":
+      - text: "Consent Selection Necessary"
+      - checkbox "Necessary" [ref=e3] [hidden] [checked] [disabled]
+      - label "Preferences" [ref=e4]
+      - switch "Preferences" [ref=e5] [hidden]
+      - label "Statistics" [ref=e6]
+      - switch "Statistics" [ref=e7] [hidden]
+      - label "Marketing cookies" [ref=e8]
+      - switch "Marketing cookies" [ref=e9] [hidden]
+    - link "Show details" [ref=e10]
+  - button "Allow all" [ref=e11]
+  - button "Allow selection" [ref=e12]
+  - button "Deny" [ref=e13]
+  - button "Close banner" [ref=e14]
+- navigation "Skiplinks" [ref=e15]:
+  - button "Activate high contrast" [ref=e16]
+  - link "To main content" [ref=e17]
+- navigation "Top navigation" [ref=e18]:
+  - link [ref=e19]:
+    - img
+  - link "Students & Education" [ref=e20]
+  - link "Research" [ref=e21]
+  - link "Innovation & Impact" [ref=e22]
+  - link "Community" [ref=e23]
+  - link "About TU Delft" [ref=e24]
+  - link "Schakel over naar de Nederlandse taal" [ref=e25]
+  - button "" [ref=e26]: "\n                    Search"
+- main:
+  - heading "Prof.dr. A.J.M. (Ad) van Wijk" [level=2]: "Prof.dr.\n    A.J.M.\n    \n            (Ad)\n        \n    van\n    \n            Wijk"
+  - heading "Prof.dr. A.J.M. (Ad) van Wijk" [level=2]: "Prof.dr.\n    A.J.M.\n    \n            (Ad)\n        \n    van\n    \n            Wijk"
+  - link "Email" [ref=e27]: ""
+  - heading "Profile" [level=2]
+  - heading "Biography" [level=3]
+  - text: "dit is een test2ENG"
+  - heading "test2ENG" [level=3]
+  - text: "test3ENG"
+  - heading "Expertise" [level=2]
+  - link "Hydrogen" [ref=e28]
+  - link "Electric-powered vehicles" [ref=e29]
+  - link "Fuel cells" [ref=e30]
+  - link "Electricity" [ref=e31]
+  - link "Energy" [ref=e32]
+  - link "Hydrogen" [ref=e33]
+  - link "Grids" [ref=e34]
+  - link "Fuel Cell Electric Vehicle" [ref=e35]
+  - link "Power plants" [ref=e36]
+  - link "Electric Power Plant" [ref=e37]
+  - heading "Publications" [level=2]
+  - text: "2024"
+  - link "Europe's Hydrogen Pathways" [ref=e38]
+  - text: "Toward a balanced partnership with Saudi Arabia and the Gulf \n                            \n                            \n                                Jan Fred…[+518 chars]"
+  - link "Utilisation of waste heat from PEM electrolysers" [ref=e39]
+  - text: "Unlocking local optimisation \n                            \n                            \n                                Els van der Roest / \n                   …[+550 chars]"
+  - link "Fuel cell electric vehicles and hydrogen balancing 100 percent renewable and integrated national tra" [ref=e40]:
+    - heading "Fuel cell electric vehicles and hydrogen balancing 100 percent renewable and integrated national tra" [level=3]: "Fuel cell electric vehicles and hydrogen balancing 100 percent renewable and integrated national transportation and energy systems"
+  - text: "Vincent Oldenbroek / \n                            \n                                Siebren Wijtzes / \n                            \n                             …[+448 chars]"
+  - link "Hydrogen Rocks! (Dutch version)" [ref=e41]
+  - text: "2021"
+  - link "Naar een Europese waterstof-gemeenschap" [ref=e42]
+  - text: "Voorstel voor een nieuw beleidskader \n                            \n                            \n                                Frank Wouters / \n               …[+61 chars]"
+  - link "More publications" [ref=e43]
+  - heading "Media" [level=2]
+  - text: "2021-03-30"
+  - heading "EVs could be charged directly by off-grid solar at long-term carparks" [level=3]
+  - link "Read article EVs could be charged directly by off-grid solar at long-term carparks" [ref=e44]
+  - text: "2020-12-01"
+  - heading "Waterstoffabrieken vragen veel elektriciteit, experts twijfelen aan haalbaarheid" [level=3]
+  - text: "Appeared in:\n                        \n                        NRC"
+  - link "Read article Waterstoffabrieken vragen veel elektriciteit, experts twijfelen aan haalbaarheid" [ref=e45]
+  - text: "2020-02-27"
+  - heading "Groene waterstof als een toekomstbelofte (maar wordt die ook waargemaakt?)" [level=3]
+  - text: "Appeared in:\n                        \n                        Trouw"
+  - link "Read article Groene waterstof als een toekomstbelofte (maar wordt die ook waargemaakt?)" [ref=e46]
+  - text: "2020-02-12"
+  - heading "Waterstof als energiedrager: Wetenschappers onderzoeken in Lelystad opslag van waterstof" [level=3]
+  - text: "Appeared in:\n                        \n                        De Stentor (Flevoland Editie), p. 7"
+  - link "Read article Waterstof als energiedrager: Wetenschappers onderzoeken in Lelystad opslag van watersto" [ref=e47]
+  - text: "2020-02-02"
+  - heading "Wanneer gaan we aan de waterstof?" [level=3]
+  - text: "Appeared in:\n                        \n                        Vroege vogel, NPO Radio 1"
+  - link "Read article Wanneer gaan we aan de waterstof?" [ref=e48]
+  - link "More media" [ref=e49]
+  - link [ref=e50]
+  - link [ref=e51]
+  - heading "Ancillary activities" [level=2]
+  - button "Advisor/Consultant - Eldiger B.V." [ref=e53]
+  - link "Technology, Policy and Management" [ref=e54]
+  - link "Engineering, Systems and Services" [ref=e55]
+  - link "Energy and Industry" [ref=e56]
+  - link "Pure profile" [ref=e57]
+  - heading "Contact" [level=3]
+  - link "A.J.M.vanWijk@tudelft.nl" [ref=e58]
+  - link "+31 15 27 83120" [ref=e59]
+  - text: "Room: 34b.K-1-270"
+- contentinfo:
+  - heading "Delft University of Technology" [level=2]
+  - link "" [ref=e60]: "\n                            \n                                \n                                        facebook"
+  - link "" [ref=e61]: "\n                            \n                                \n                                        instagram"
+  - link "" [ref=e62]: "\n                            \n                                \n                                        youtube"
+  - link "LinkedIn" [ref=e63]: "\n                            \n                                \n                                        linkedin"
+  - link "" [ref=e64]: "\n                            whatsapp"
+  - text: "Postbus 5 2600 AA Delft The Netherlands"
+  - link "Contact and accessibility" [ref=e65]
+  - link "Disclaimer" [ref=e66]
+  - link "Privacy & Security" [ref=e67]
+  - link "Reading assistant BrowseAloud" [ref=e68]
+  - link "Vacancies" [ref=e69]
+  - link "Intranet" [ref=e70]
+  - link "Student portal" [ref=e71]
+  - link "Donate" [ref=e72]
+  - link "Press room" [ref=e73]
+- navigation "Bottom navigation" [ref=e74]:
+  - link [ref=e75]:
+    - img
+  - button "Cookie settings" [ref=e76]
+  - button "Contrast settings" [ref=e77]: "Activate high contrast"
+  - button "Spreken - Luisteren met de ReachDeck-werkbalk" [ref=e78]:
+    - img "Spreken - Luisteren met de ReachDeck-werkbalk"
+  - link "Students & Education" [ref=e79]
+  - link "Research" [ref=e80]
+  - link "Innovation & Impact" [ref=e81]
+  - link "Community" [ref=e82]
+  - link "About TU Delft" [ref=e83]
+  - link "Schakel over naar de Nederlandse taal" [ref=e84]
+  - button "" [ref=e85]: "\n                        Search"

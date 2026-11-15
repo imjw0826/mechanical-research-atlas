@@ -1,0 +1,677 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "유홍기 YOO, Hongki",
+  "lab_name": null,
+  "lab_url": "http://boom.kaist.ac.kr/",
+  "publication_urls": [
+    "https://boom.kaist.ac.kr/publication"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Autofluorescence imaging-based nondestructive monitoring of latent patterns in photolithography",
+      "year": 2026,
+      "citation_raw": "Jeonggeun Song, Jinsu Choi, Soonyong Kwon, Won Seok Chang, Hongki Yoo Autofluorescence imaging-based nondestructive monitoring of latent patterns in photolithography Measurement Science and Technology, 2026; doi: 10.1088/1361-6501/aebd04",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Multiplexed intravascular molecular imaging using dual-channel near-infrared fluorescence integrated with optical coherence tomography",
+      "year": 2026,
+      "citation_raw": "Yeon Hoon Kim, Dong Oh Kang, Yong Geun Lim, Hyeong Soo Nam, Hyun Jung Kim, Ryeong Hyun Kim, Jin Hyuk Kim, Joon Woo Song, Kyeongsoon Park, Jin Won Kim, Hongki Yoo Multiplexed intravascular molecular imaging using dual-channel near-infrared fluorescence integrated with optical coherence tomography Scientific Reports, 2026; doi: 10.1038/s41598-026-75979-y",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "H2O2-and light-triggered MnO2-based nanoswitches for microenvironment reprogramming and photodynamic therapy of hypoxic atherosclerotic plaques",
+      "year": 2026,
+      "citation_raw": "Young Geun Lim, Jin Hyuk Kim, Ryeong Hyun Kim, Hongki Yoo, Jin Won Kim, Kyeongsoon Park H2O2-and light-triggered MnO2-based nanoswitches for microenvironment reprogramming and photodynamic therapy of hypoxic atherosclerotic plaques Journal of Nanobiotechnology, 2026; doi: 10.1186/s12951-026-05117-3",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Minseok A. Jang, Hongki Yoo",
+      "year": 2026,
+      "citation_raw": "Minseok A. Jang, Hongki Yoo Eigenstate-selective entangled two-photon absorption in monolayer WSe2 Physical Review B, 2026; doi: 10.1103/wl4l-hyky",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Lesion-Specific Prediction of Segmental Fractional Flow Reserve Using Deep Learning and Optical Coherence Tomography-Derived Features",
+      "year": 2026,
+      "citation_raw": "Juyeol Eom*, Dong Oh Kang*, Hyeong Soo Nam, Woojin Lee, Jin Won Kim, Hongki Yoo Lesion-Specific Prediction of Segmental Fractional Flow Reserve Using Deep Learning and Optical Coherence Tomography-Derived Features 2026; doi: 10.1253/circj.CJ-26-0020",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Optical Coherence Tomography for Broad Spectrum of Thyroid Carcinoma: A Qualitative and Quantitative Analysis",
+      "year": 2026,
+      "citation_raw": "Woojin Lee, Soonyong Kwon, Hyeong Soo Nam, Hongki Yoo, Jae Yeon Seok Optical Coherence Tomography for Broad Spectrum of Thyroid Carcinoma: A Qualitative and Quantitative Analysis Biomedical Engineering Letters, 2026; doi: 10.1007/s13534-026-00582-z",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Label-free diagnosis across the thyroid nodule pathology spectrum using deep learning-enabled optical coherence tomography",
+      "year": 2026,
+      "citation_raw": "Woojin Lee, Soonyong Kwon, Hyeong Soo Nam, Jae Yeon Seok, Hongki Yoo Label-free diagnosis across the thyroid nodule pathology spectrum using deep learning-enabled optical coherence tomography Biomedical Optics Express, 2026; doi: 10.1364/BOE.591801",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Single-objective two-photon oblique light sheet microscopy with a low repetition rate for 3D high-SNR imaging",
+      "year": 2026,
+      "citation_raw": "Jeonggeun Song, Woojin Lee, Hyeong Soo Nam, Hamin Park, Young-Gyun Park, Hongki Yoo. Single-objective two-photon oblique light sheet microscopy with a low repetition rate for 3D high-SNR imaging. Photonics Research, 2026; doi: 10.1364/PRJ.584858",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Impact of encoder-head installation errors and geometrical scale errors on angle self-calibration accuracy using four arbitrarily arranged encoder-heads",
+      "year": 2026,
+      "citation_raw": "Jinsoo Choi*, Kyungrok Kim*, Jaeyoung Kim*, Hyunchang Kim, Hongki Yoo, Dongwoo Kang. Impact of encoder-head installation errors and geometrical scale errors on angle self-calibration accuracy using four arbitrarily arranged encoder-heads. Precision Engineering, 2026; doi: 10.1016/j.precisioneng.2026.05.003",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Label-free multispectral fluorescence lifetime imaging enables non-invasive diagnosis of Alzheimer's disease in cerebral organoids",
+      "year": 2026,
+      "citation_raw": "Boram Son*, Jeongmoo Han*, Jihyeon Kang*, Ildoo Jeong*, Dahsom Han, Soonyong Kwon, Ara Jung, Hongki Yoo, Bomi Gweon, Hee Ho Park. Label-free multispectral fluorescence lifetime imaging enables non-invasive diagnosis of Alzheimer's disease in cerebral organoids. Nano Today, 2026; doi: 10.1016/j.nantod.2026.103020",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "DMD-based adaptive lithography system for real-time substrate deformation compensation",
+      "year": 2026,
+      "citation_raw": "Jinsu Choi*, Won-Sup Lee*, Geehong Kim*, Hyunmin Cho, Won Seok Chang, Hongki Yoo. DMD-based adaptive lithography system for real-time substrate deformation compensation. International Journal of Optomechatronics, 2026; doi: 10.1080/15599612.2026.2635849",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Automated lipid detection in spectroscopic optical coherence tomography using a weakly supervised deep learning network",
+      "year": 2026,
+      "citation_raw": "Jin Hwan Hwang, Woojin Lee, Jin Hyuk Kim, Dong Oh Kang, Jin Won Kim, Hongki Yoo, Hyeong Soo Nam. Automated lipid detection in spectroscopic optical coherence tomography using a weakly supervised deep learning network. Biomedical Optics Express, 2026; doi: 10.1364/BOE.585222",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Programmable structured DUV illumination by coherent harmonic generation at crystalline solids for nanometer-resolution inspection of periodic samples",
+      "year": 2025,
+      "citation_raw": "Seungjai Won, Jungyoon Kim, Yungeun Oh, Taewon Kim, Seungman Choi, Byunggi Kim, Hongki Yoo, Seung-Woo Kim, Young-Jin Kim. Programmable structured DUV illumination by coherent harmonic generation at crystalline solids for nanometer-resolution inspection of periodic samples. PhotoniX, 2025; doi: 10.1186/s43074-025-00206-2",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Chromatic optical coherence tomography for high-resolution deep tissue imaging",
+      "year": 2025,
+      "citation_raw": "Seung Eon Lee, Hyeong Soo Nam, Ryeong Hyeon Kim, Hyun Jung Kim, Jae Yeon Seok, Jin Won Kim, Young-Jin Kim, Hongki Yoo. Chromatic optical coherence tomography for high-resolution deep tissue imaging. Photonics Research, 2025; doi: 10.1364/PRJ.561513",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Broadband fiber optic rotary joint for clinical multimodal optical coherence tomography",
+      "year": 2025,
+      "citation_raw": "Jeongmoo Han, Min Woo Lee, Hyeong Soo Nam, Sunwon Kim, Dong Oh Kang, Youngeun Cho, Jin Won Kim, Hongki Yoo. Broadband fiber optic rotary joint for clinical multimodal optical coherence tomography. IEEE Photonics Technology Letters, 2025; doi: 10.1109/LPT.2025.3601082",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Targeted Theranostic Strategy for Atherosclerotic Plaques Using Intravascular Multimodal Imaging Techniques",
+      "year": 2025,
+      "citation_raw": "Jin Hyuk Kim, Hongki Yoo, Kyeongsoon Park, Jin Won Kim. Targeted Theranostic Strategy for Atherosclerotic Plaques Using Intravascular Multimodal Imaging Techniques. Journal of Lipid and Atherosclerosis, 2025; doi: 10.12997/jla.2025.14.3.258",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Detrimental effects of advanced glycation end-products (AGEs) on a 3D skeletal muscle model in microphysiological system",
+      "year": 2025,
+      "citation_raw": "Jaesang Kim, In U. Kim, Zhuo Feng Lee, Jeongmoo Han, Jisong Ahn, Youngmin Jo, Pilnam Kim, Hongki Yoo, Gi-Dong Sim, Jessie S. Jeon. Detrimental effects of advanced glycation end-products (AGEs) on a 3D skeletal muscle model in microphysiological system. Biosensors & Bioelectronics, 2025; doi: 10.1016/j.bios.2025.117316",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Reducing Multipath Artifacts in Double-Clad Fiber for Multimodal Endoscopic Optical Coherence Tomography",
+      "year": 2025,
+      "citation_raw": "Youngeun Cho, Jeongmoo Han, Yeon Hoon Kim, Hyeong Soo Nam, Min Woo Lee, Young-Jin Kim, Jin Won Kim, Hongki Yoo. Reducing Multipath Artifacts in Double-Clad Fiber for Multimodal Endoscopic Optical Coherence Tomography. Journal of Lightwave Technology, 2025; doi: 10.1109/JLT.2025.3576609",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Self-supervised denoising of dynamic fluorescence images via temporal gradient-empowered deep learning",
+      "year": 2025,
+      "citation_raw": "Woojin Lee, Minseok A. Jang, Hyeong Soo Nam, Jeonggeun Song, Jieun Choi, Joon Woo Song, Jae Yeon Seok, Pilhan Kim, Jin Won Kim, Hongki Yoo. Self-supervised denoising of dynamic fluorescence images via temporal gradient-empowered deep learning. PhotoniX, 2025; doi: 10.1186/s43074-025-00173-8",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Intracoronary Structural-Molecular Imaging for Multitargeted Characterization of High-Risk Plaque: First-in-Human OCT-FLIm",
+      "year": 2025,
+      "citation_raw": "Sunwon Kim, Hyeong Soo Nam, Dong Oh Kang, Jeongmoo Han, Hyokee Kim, Joon Woo Song, Eun Jin Park, Ryeong Hyun Kim, Hyun Jung Kim, Jin Hyuk Kim, Sunki Lee, Young Su Kim, Pyoungjae Park, Man-Jong Baik, Hongki Yoo, Jin Won Kim. Intracoronary Structural-Molecular Imaging for Multitargeted Characterization of High-Risk Plaque: First-in-Human OCT-FLIm. JAMA Cardiology, 2025; doi: 10.1001/jamacardio.2025.0928",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Nanometer-resolution white-light scanning interferometry for surface-profiling of hybrid bonding samples for advanced semiconductor packaging",
+      "year": 2025,
+      "citation_raw": "Huy Hoang Chu, Dae Hee Kim, Jun Hyung Park, Sukkyung Kang, Jaiho Son, Hyunmin Lee, Hongki Yoo, Seung-Woo Kim, Sanha Kim, Young-Jin Kim. Nanometer-resolution white-light scanning interferometry for surface-profiling of hybrid bonding samples for advanced semiconductor packaging. Applied Surface Science, 2025; doi: 10.1016/j.apsusc.2025.162466",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Deep Learning-Based Saturation Compensation for High Dynamic Range Multispectral Fluorescence Lifetime Imaging",
+      "year": 2025,
+      "citation_raw": "Hyeong Soo Nam, Dong Oh Kang, Jeongmoo Han, Jin Won Kim, Hongki Yoo. Deep Learning-Based Saturation Compensation for High Dynamic Range Multispectral Fluorescence Lifetime Imaging. IEEE Transactions on Biomedical Engineering, 2025; doi: 10.1109/TBME.2025.3548297",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Medical applications of endogenous fluorescence lifetime imaging",
+      "year": 2024,
+      "citation_raw": "Jeongmoo Han, Soonyong Kwon, Hongki Yoo. Medical applications of endogenous fluorescence lifetime imaging. Journal of Innovative Medical Technology, 2024; doi: 10.61940/jimt.240010",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Real-time imaging assessment of stress-induced vascular inflammation using heartbeat-synchronized motion compensation",
+      "year": 2024,
+      "citation_raw": "Minseok A. Jang, Joon Woo Song, Tyeong Hyun Kim, Dong Oh Kang, Ungyo Kang, Hyun Jung Kim, Jin Hyuk Kim, Eun Jin Park, Ye Hee Park, Bo-Hyung Lee, Chi Kyung Kim, Hyeongsoon Park, Jin Won Kim and Hongki Yoo. Real-time imaging assessment of stress-induced vascular inflammation using heartbeat-synchronized motion compensation. Ateriosclerosis, Thrombosis, and Vascular Biology, 2024; doi: 10.1161/ATVBAHA.124.321566",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Quantitative measurement of spatial distribution of effective refractive index induced by local electron concentration at a nano slit",
+      "year": 2024,
+      "citation_raw": "Dae Hee Kim, Young Ho Park, Jun Hyung Park, Duy-Anh Nguyen, Hongki Yoo, Seungchel Kim and Young-Jin Kim. Quantitative measurement of spatial distribution of effective refractive index induced by local electron concentration at a nano slit. Nanophotonics, 2024; doi: 10.1515/nanoph-2024-0179",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Multimodal imaging-assisted intravascular theranostic photoactivation on atherosclerotic plaque",
+      "year": 2024,
+      "citation_raw": "Jin Hyuk Kim, Joon Woo Song, Yeon Hoon Kim, Hyun Jung Kim, Ryeong Hyun Kim, Ye Hee Park, Hyeong Soo Nam, Dong Oh Kang, Hongki Yoo, Kyeongsoon Park, and Jin Won Kim. Multimodal imaging-assisted intravascular theranostic photoactivation on atherosclerotic plaque. Circulation Research, 2024; 135(5);e114-132; doi: 10.1161/CIRCRESAHA.123.323970",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "A systematic review of deep learning-based denoising for low-dose computed tomography from a perceptual quality perspective",
+      "year": 2024,
+      "citation_raw": "Wonjin Kim, Sun-Young Jeon, Gyurl Byun, Hongki Yoo, and Jang-Hwan Choi A systematic review of deep learning-based denoising for low-dose computed tomography from a perceptual quality perspective. Biomedical Engineering Letters, 2024; 1-21; doi: 10.1007/s13534-024-00419-7",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "In situ transfer of laser-induced graphene electronics for multifunctional smart windows",
+      "year": 2024,
+      "citation_raw": "Tongmei jing, Han Ku Nam, Dongwook Yang, Younggeun Lee, Tongke Gao, Hongki Yoo, Soongeun Kwon, Seung-Woo Kim, Liandong Yu, and Young-Jin Kim In situ transfer of laser-induced graphene electronics for multifunctional smart windows. Small Science. 2024; 240010; doi: 10.1002/smsc.202400010",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Green manufacturing of electrically-tunable smart light-weight planar optics: a review",
+      "year": 2024,
+      "citation_raw": "Dongwook Yang, Younggeun Lee, Hyeokin Kang, Quang Huy Vu, Guseon Kang, Seung Eon Lee, Hyogeun Han, Seunghwan Kim, Han Ku Nam, Soongeun Kwon, Hyug-Gyo Thee, JooHyung Lee, Hongki Yoo, Hyosang Yoon, and Young-Jin Kim. Green manufacturing of electrically-tunable smart light-weight planar optics: a review International Journal of Precision Enineering and Manufacturing-Green Technology, 2024; 1-23; doi: 10.1007/s40684-024-00621-z",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Color volumetric imaging with high dynamic range based on parallel confocal detection",
+      "year": 2024,
+      "citation_raw": "Woojin Lee, Chang-Soo Kim, Dong-Ryoung Lee, and Hongki Yoo. Color volumetric imaging with high dynamic range based on parallel confocal detection. IEEE Photonics Technology Letters. 2024; doi: 10.1109/LPT.2024.3406216",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Swept-source Raman spectroscopy of chemical and biological materials",
+      "year": 2024,
+      "citation_raw": "Jeonggeun Song, Peter T. C. So, Hongki Yoo, and Jeon Woong Kang. Swept-source Raman spectroscopy of chemical and biological materials. Journal of Biomedical optics. 2024; 29(S2), S22703-S22703; doi: 10.1117/1.JBO.29.S2.S22703",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "An active geophone sensor with optimized state variable filter for measuring low-band frequencies",
+      "year": 2024,
+      "citation_raw": "Jinsoo Choi, Hongki Yoo, EunJong Choi, Kihyun Kim and Hyo-Young Kim An active geophone sensor with optimized state variable filter for measuring low-band frequencies. Precision Engineering and Manufacturing. 2024; 25(5):981-993; doi: 10.1007/s12541-024-00963-3",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Macrophage-mannose-receptor-targeted photoactivatable agent for in vivo imaging and treatment of atherosclerosis",
+      "year": 2024,
+      "citation_raw": "Seung-Yul Lee, Jin Hyuk Kim, Joon Woo Song, Ji Seon Min, Hyun Jung Kim, Ryeong Hyun Kim, Jae Won Ahn, Hongki Yoo, Kyeongsoon Park and Jin Won Kim. Macrophage-mannose-receptor-targeted photoactivatable agent for in vivo imaging and treatment of atherosclerosis International Journal of Pharmaceutics 2024; 10:654:123951; doi: 10.1016/j.ijpharm.2024.123951",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Imaging peritoneal blood vessels through optical coherence tomography angiography for laparoscopic surgery",
+      "year": 2023,
+      "citation_raw": "Minsuk Lee, Hyeonjin Bang, Eungjang Lee, Sungsoo Park, Hongki Yoo, Wang-yuhl Oh and Seungrag Lee Imaging peritoneal blood vessels through optical coherence tomography angiography for laparoscopic surgery Journal of Biophotonics 2023; e202300221; doi: 10.1002/jbio.202300221",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Massively parallel electro-optic sampling of space-encoded optical pulses for ultrafast multi-dimensional imaging",
+      "year": 2023,
+      "citation_raw": "Yongjin Na, Hyunsoo Kwak, Changmin Ahn, Seung Eon Lee, Woojin Lee, Chu-Shik Kang, Jungchul Lee, Junho Suh, Hongki Yoo and Jungwon Kim Massively parallel electro-optic sampling of space-encoded optical pulses for ultrafast multi-dimensional imaging Light: Science & Applications 2023; 12:44; doi: 10.1038/s41377-023-01077-7",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "SNR enhanced high-speed two-photon microscopy using a pulse picker and time gating detection",
+      "year": 2023,
+      "citation_raw": "Jeonggeun Song*, Juehyung Kang*, Ungyo Kang, Hyeong Soo Nam, Hyun Jung Kim, Ryeong Hyeon Kim, Jin Won Kim and Hongki Yoo SNR enhanced high-speed two-photon microscopy using a pulse picker and time gating detection Scientific Reports 2023; 13.1:14244; doi: 10.1038/s41598-023-41270-7",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Feasibility and safety of non-contrast optical coherence tomography imaging using hydroxyethyl starch in coronary arteries",
+      "year": 2023,
+      "citation_raw": "Dong Oh Kang*, Hyeong Soo Nam*, Sunwon Kim, Hongki Yoo and Jin Won Kim Feasibility and safety of non-contrast optical coherence tomography imaging using hydroxyethyl starch in coronary arteries Scientific Reports 2023; 13.1:13818; doi: 10.1038/s41598-023-40363-7",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Ultra-thin light-weight laser-induced-graphene (LIG) diffractive optics",
+      "year": 2023,
+      "citation_raw": "Yeounggeun Lee, Mun Ji Low, Dongwook Yang, Han Ku Nam, Truong-Son Dinh Le, Seung Eon Lee, Hyogeun Han, Seunghwan Kim, Quang Huy Vu, Hongki Yoo, Hyosang Yoon, Joohyung Lee, Suchand Sandeep, Keunwoo Lee, Seung-Woo Kim and Young-Jin Kim Ultra-thin light-weight laser-induced-graphene (LIG) diffractive optics Light: Science & Applications 2023; 12.1: 146; doi: 10.1038/s41377-023-01143-0",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Label-Free Characterization of Atherosclerotic Plaques Via High-Resolution Multispectral Fluorescence Lifetime Imaging Microscopy",
+      "year": 2023,
+      "citation_raw": "Jeongmoo Han*, Sunwon Kim*, Hyun Jung Kim, Hyeong Soo Nam, Min Woo Lee, Joon Woo Song, Jin Won Kim and Hongki Yoo Label-Free Characterization of Atherosclerotic Plaques Via High-Resolution Multispectral Fluorescence Lifetime Imaging Microscopy Arteriosclerosis, Thrombosis and Vascular Biology 2023; 43: 1295-1307; doi: 10.1161/ATVBAHA.123.319339",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Deep learning-based image enhancement in optical coherence tomography by exploiting interference fringe",
+      "year": 2023,
+      "citation_raw": "Woojin Lee, Hyeong Soo Nam, Jae Yeon Seok, Wang-Yhul Oh, Jin Won Kim and Hongki Yoo Deep learning-based image enhancement in optical coherence tomography by exploiting interference fringe Communications Biology 2023; 6: 463; doi: 10.1038/s42003-023-04846-7",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Histological classification of atherosclerotic arteries using high-speed confocal Raman microscopy with machine learning",
+      "year": 2022,
+      "citation_raw": "Jingchao Xing, Dong-Ryoung Lee, Jin Won Kim and Hongki Yoo Histological classification of atherosclerotic arteries using high-speed confocal Raman microscopy with machine learning Journal of Biophotonics 2022; e202200243; doi: 10.1002/jbio.202200243",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Imaging Technologies for Microfluidic Biochips",
+      "year": 2022,
+      "citation_raw": "Jeongmoo Han*, Ungyo Kang*, Eun-Yi Moon, Hongki Yoo and Bomi Gweon Imaging Technologies for Microfluidic Biochips BioChip Journal 2022; 16: 255-269; doi: 10.1007/s13206-022-00067-y",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Method for improving the speed and pattern quality of a DMD maskless lithography system using a pulse exposure method",
+      "year": 2022,
+      "citation_raw": "Jinsu Choi, Geehong Kim, Won-Sup Lee, Won Seok Chang, and Hongki Yoo Method for improving the speed and pattern quality of a DMD maskless lithography system using a pulse exposure method Optics Express 2022; 30(13): 22487-22500; doi: 10.1364/OE.460780",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Lateral image reconstruction of optical coherence tomography using one‐dimensional deep deconvolution network",
+      "year": 2022,
+      "citation_raw": "Minsuk Lee, Hyeonjin Bang, Eungjang Lee, Youngjae Won, Kisub Kim, Sungsoo Park, Hongki Yoo, Seungrag Lee Lateral image reconstruction of optical coherence tomography using one‐dimensional deep deconvolution network Lasers in Surgery and Medicine 2022; 1-12; doi: 10.1002/lsm.23543",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Highly enhanced macrophage-driven inflammatory signatures on giant coronary artery aneurysms: a 3D-rendered 18F-FDG-PET/CT imaging assessment",
+      "year": 2022,
+      "citation_raw": "Dong Oh Kang*, Hyeong Soo Nam*, Hongki Yoo, Jin Won Kim Highly enhanced macrophage-driven inflammatory signatures on giant coronary artery aneurysms: a 3D-rendered 18F-FDG-PET/CT imaging assessment European Heart Journal 2022; 43(6): 541-542; doi: 10.1093/eurheartj/ehab463",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Comprehensive assessment of high-risk plaques by dual-modal imaging catheter in coronary artery",
+      "year": 2021,
+      "citation_raw": "Sunwon Kim*, Hyeong Soo Nam*, Min Woo Lee, Hyun Jung Kim, Woo Jae Kang, Joon Woo Song, Jeongmoo Han, Dong Oh Kang, Wang-Yuhl Oh, Hongki Yoo, Jin Won Kim Comprehensive assessment of high-risk plaques by dual-modal imaging catheter in coronary artery JACC: Basic to Translational Science 2021; 6(12): 948-960; doi: 10.1016/j.jacbts.2021.10.005",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Macrophage targeted heranostic strategy for accurate detection and rapid stabilization of the inflamed high-risk plaque",
+      "year": 2021,
+      "citation_raw": "Joon Woo Song*, Hyeong Soo Nam*, Jae Won Ahn*, Hyun-Sang Park, Dong Oh Kang, Hyun Jung Kim, Yeon Hoon Kim, Jeongmoo Han, Jah Yeon Choi, Seung-Yul Lee, Sunwon Kim, Wang-Yuhl Oh, Hongki Yoo, Kyeongsoon Park, Jin Won Kim Macrophage targeted heranostic strategy for accurate detection and rapid stabilization of the inflamed high-risk plaque Theranostics 2021; 11(18): 8874-8893; doi: 10.7150/thno.59759",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Targeted theranostic photoactivation on atherosclerosis",
+      "year": 2021,
+      "citation_raw": "Joon Woo Song, Jae Won Ahn, Min Woo Lee, Hyun Jung Kim, Dong Oh Kang, Tyeong Hyun Kim, Ungyo Kang, Yeon Hoon Kim, Jeongmoo Han, Ye Hee Park, Hyeong Soo Nam, Hongki Yoo, Kyeongsoon Park, Jin Won Kim Targeted theranostic photoactivation on atherosclerosis Journal of Nanobiotechnology 2021; vol 19, 338; doi: 10.1186/s12951-021-01084-z",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Robust autoflcusing for scanning electron microscopy based on a dual deep learning network",
+      "year": 2021,
+      "citation_raw": "Woojin Lee, Hyeong Soo Nam, Young Gon Kim, Yong Ju Kim, Jun Hee Lee, Hongki Yoo Robust autoflcusing for scanning electron microscopy based on a dual deep learning network Scientific Reports 2021; vol 11, 20933; doi: 10.1038/s41598-021-00412-5",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Multimodal microscopy for the simultaneous visualization of five different imaging modalities using a single light source",
+      "year": 2021,
+      "citation_raw": "Jiheun Ryu*, Ungyo Kang*, Joon Woo Song, Junyoung Kim, Jin Won Kim, Hongki Yoo, and Bomi Gweon Multimodal microscopy for the simultaneous visualization of five different imaging modalities using a single light source Biomedical Optics Express 2021; vol 12, Issue 9, pp. 5452-5469; doi: 10.1364/BOE.430677",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Chang-Soo Kim, Hongki Yoo",
+      "year": 2021,
+      "citation_raw": "Chang-Soo Kim, Hongki Yoo Three-dimensional confocal reflectance microscopy for surface metrology. Measurement Science and Technology 2021; 32(24) 102002; doi: 10.1088/1361-6501/ac04df",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Utilization potential of intraluminal optical coherence tomography for the Eustachian tube",
+      "year": 2021,
+      "citation_raw": "Hayoung Byun*, Yeon Hoon Kim*, Jingchao Xing, Su-Jin Shin, Seung Hwan Lee, Hongki Yoo, and Jae Ho Chung. Utilization potential of intraluminal optical coherence tomography for the Eustachian tube. Scientific Reports 2021; 11:6219; doi: 10.1038/s41598-021-85634-3",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Color three-dimensional imaging based on patterned illumination using a negative pinhole array",
+      "year": 2021,
+      "citation_raw": "Chang-Soo Kim, Junyoung Kim, Hongki Yoo. Color three-dimensional imaging based on patterned illumination using a negative pinhole array Optics Express 2021; 29(5):6509-6522; doi: 10.1364/OE.416999",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Stress-associated neurobiological activity is linked with acute plaque instability via enhanced macrophage activity: a prospective serial 18F-FDG-PET/CT imaging assessment",
+      "year": 2021,
+      "citation_raw": "Dong Oh Kang*, Jae Seon Eo*, Eun Jin Park*, Hyeong Soo Nam, Joon Woo Song, Ye Hee Park, So Yeon Park, Jin Oh Na, Cheol Ung Choi, Eung Ju Kim, Seung-Woon Rha, Chang Gyu Park, Hong Seog Seo, Chi Kyung Kim, Hongki Yoo, Jin Won Kim. Stress-associated neurobiological activity is linked with acute plaque instability via enhanced macrophage activity: a prospective serial 18F-FDG-PET/CT imaging assessment. European Heart Journal 2021; DOI 10.1093/eurheartj/ehaa1095",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Label-free multimodal microscopy using a single light source and detector for biological imaging",
+      "year": 2021,
+      "citation_raw": "Juehyung Kang, Ungyo Kang, Hyeong Soo Nam, Wooseop Kim, Hyun Jung Kim, Ryeong Hyeon Kim, Jin Won Kim, Hongki Yoo. Label-free multimodal microscopy using a single light source and detector for biological imaging. Optics Letters 2021; 46(4):0892-0895; doi: 10.1364/OL.415938",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Long journey of intravascular imaging: What and how to look at the atheroma in coronary artery",
+      "year": 2020,
+      "citation_raw": "Sunwon Kim, Hongki Yoo, Jin Won Kim. Long journey of intravascular imaging: What and how to look at the atheroma in coronary artery JACC: Cardiovascular imaging 2020; DOI 10.1016/j.jcmg.2020.11.015",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "In vivo imaging of reactive oxygen species (ROS)-producing pro-inflammatory macrophages in murine carotid atheromas using a CD44-targetable and ROS-responsive nanosensor",
+      "year": 2020,
+      "citation_raw": "Eun Jin Park, Joon Woo Song, Hyun Jung Kim, Chang-Soo Kim, Yeong Jun Song, Dae Hyeok Yang, Hongki Yoo, Jin Won Kim, Kyeongsoon Park. In vivo imaging of reactive oxygen species (ROS)-producing pro-inflammatory macrophages in murine carotid atheromas using a CD44-targetable and ROS-responsive nanosensor Journal of Industrial and Engineering Chemistry 2020; Vol 92, 158-166",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Astigmatism-corrected endoscopic imaging probe for optical coherence tomography using soft lithography",
+      "year": 2020,
+      "citation_raw": "Min Woo Lee, Yeon Hoon Kim, Jingchao Xing, Hongki Yoo. Astigmatism-corrected endoscopic imaging probe for optical coherence tomography using soft lithography. Optics Letters 2020; 45(17):4867-4870",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Annular-beam dual-detection confocal reflectance microscopy for high-speed 3D surface profiling with an extended volume",
+      "year": 2020,
+      "citation_raw": "Dong-Ryoung Lee, Dae-Gab Gweon, Hongki Yoo. Annular-beam dual-detection confocal reflectance microscopy for high-speed 3D surface profiling with an extended volume. Measurement Science and Technology 2020; 31(4):045403",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "High-speed line-scan confocal Raman microscope with enhanced diffraction efficiency",
+      "year": 2019,
+      "citation_raw": "Jingchao Xing, Sung-Hoon Kang, Young Man Choi, Seungwoo Lee, Hongki Yoo. High-speed line-scan confocal Raman microscope with enhanced diffraction efficiency. Measurement Science and Technology 2019; 31(2):025203",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "High-speed color three-dimensional measurement based on parallel confocal detection with a focus tunable lens",
+      "year": 2019,
+      "citation_raw": "Chang-Soo Kim, Wooseop Kim, Kyuhang Lee, Hongki Yoo. High-speed color three-dimensional measurement based on parallel confocal detection with a focus tunable lens. Optics Express 2019;27(20):28466-28479",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Emulating endothelial dysfunction by implementing early atherosclerotic microenvironment within a microfluidic chip",
+      "year": 2019,
+      "citation_raw": "Yujin Shin, Seongjin Lim, Jin Won Kim, Jessie Sungyun Jeon, Hongki Yoo, Bomi Gweon. Emulating endothelial dysfunction by implementing early atherosclerotic microenvironment within a microfluidic chip. Lab on a Chip 2019; 19:3664-3677",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Rapid histologic diagnosis using quick fluorescence staining and tissue confocal microscopy",
+      "year": 2019,
+      "citation_raw": "Hongrae Kim, Sunhye Lee, Hyunjin Kim, Hee Jin Chang, Yongdoo Choi, Hong Man Yoon, Myeong-Cherl Kook, So-Youn Jung, Youngmi Kwon, Juehyung Kang, Hongki Yoo, Incheon Song, Seungrag Lee, Dae Kyung Sohn. Rapid histologic diagnosis using quick fluorescence staining and tissue confocal microscopy. Microscopy Research and Technique. 2019;1-6.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Rapid tissue histology using multichannel confocal fluorescence microscopy with focus tracking",
+      "year": 2018,
+      "citation_raw": "Juehyung Kang, Incheon Song, Hongrae Kim, Hyunjin Kim, Sunhye Lee, Yongdoo Choi, Hee Jin Chang, Dae Kyung Sohn, Hongki Yoo. Rapid tissue histology using multichannel confocal fluorescence microscopy with focus tracking. Quantitative Imaging in Medicine and Surgery 2018;8(9):884-893.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Real-time visualization of two-photon fluorescence lifetime imaging microscopy using a wavelength-tunable femtosecond pulsed laser",
+      "year": 2018,
+      "citation_raw": "Jiheun Ryu, Ungyo Kang, Jayul Kim, Hyunjun Kim, Jue Hyung Kang, Hyunjin Kim, Dae Kyung Sohn, Jae-Heon Jeong, Hongki Yoo, Bomi Gweon. Real-time visualization of two-photon fluorescence lifetime imaging microscopy using a wavelength-tunable femtosecond pulsed laser. Biomedical Optics Express 2018;9(7):3449-3463.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Multipoint scanning dual-detection confocal microscopy for fast 3D volumetric measurement",
+      "year": 2018,
+      "citation_raw": "D. Lee, D.-G. Gweon, H. Yoo. Multipoint scanning dual-detection confocal microscopy for fast 3D volumetric measurement Journal of Microscopy 2018;270(2):200-209.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Multispectral analog-mean-delay fluorescence lifetime imaging combined with optical coherence tomography",
+      "year": 2018,
+      "citation_raw": "Hyeong Soo Nam*, Woo Jae Kang*, Min Woo Lee, Joon Woo Song, Jin Won Kim, Wang-Yuhl Oh, Hongki Yoo. Multispectral analog-mean-delay fluorescence lifetime imaging combined with optical coherence tomography. Biomedical Optics Express 2018;9(4):1930-1947.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Intravascular Optical Molecular Imaging of a Macrophage Subset Within Intraplaque Hemorrhages",
+      "year": 2018,
+      "citation_raw": "Jae Joong Lee, Min Woo Lee, Tae Shik Kim, Joon Woo Song, Hyeong Soo Nam, Dong Joo Oh, Wang-Yuhl Oh, Hongki Yoo, Kyeongsoon Park, Jin Won Kim. Intravascular Optical Molecular Imaging of a Macrophage Subset Within Intraplaque Hemorrhages. JACC:Cardiovascular Imaging 2018;11(2):371-72.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Hyeong Soo Nam, Hongki Yoo",
+      "year": 2018,
+      "citation_raw": "Hyeong Soo Nam, Hongki Yoo. Spectroscopic Optical Coherence Tomography: A Review of Concepts and Biomedical Applications. Applied Spectroscopy Reviews 2018;53(2-4),91-111.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Therpaeutic Effects of Targeted PPARy Activation on Inflamed High-Risk Plaques Assessed by Serial Optical Imaging In Vivo",
+      "year": 2018,
+      "citation_raw": "Jah Yeon Choi, Jiheun Ryu, Hyun Jung Kim, Joon Woo Song, Joo Hee Jeon, Dae-Hee Lee, Dong Joo Oh, Dae-Gab Gweon, Wang-Yuhl Oh, Hongki Yoo, Kyeongsoon Park, Jin Won Kim. Therpaeutic Effects of Targeted PPARy Activation on Inflamed High-Risk Plaques Assessed by Serial Optical Imaging In Vivo. Theranostics 2018;8(1):45-60.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Inflammatory coronary ectasia identified by three-dimensional volume rendering of 18F-Fluorodeoxyglucose PET/CT",
+      "year": 2017,
+      "citation_raw": "Eun Jin Park, Sinae Lee, Hyeong Soo Nam, Dong Joo Oh, Ji Bak Kim, Hongki Yoo, Jin Won Kim. Inflammatory coronary ectasia identified by three-dimensional volume rendering of 18F-Fluorodeoxyglucose PET/CT. EuroIntervention 2017;13:e227.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Endoscopic micro-optical coherence tomography with extended depth of focus using a binary phase spatial filter",
+      "year": 2017,
+      "citation_raw": "Junyoung Kim, Jingchao Xing, Hyeong Soo Nam, Joon Woo Song, Jin Won Kim, Hongki Yoo. Endoscopic micro-optical coherence tomography with extended depth of focus using a binary phase spatial filter. Optics Letters 2017;42(3):379-382.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "High-speed time-resolved laser-scanning microscopy using the line-to-pixel referencing method",
+      "year": 2016,
+      "citation_raw": "Jiheun Ryu, Jayul Kim, Hyunjun kim, Jae-Heon Jeong, Hak-Jun Lee, Hongki Yoo, Dae-Gab Gweon. High-speed time-resolved laser-scanning microscopy using the line-to-pixel referencing method. Applied Optics 2016;55(32):9033-9041.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Compact fiber optic dual-detection confocal displacement sensor",
+      "year": 2016,
+      "citation_raw": "Dong-Ryoung Lee, Suin Jang, Min Woo Lee, Hongki Yoo. Compact fiber optic dual-detection confocal displacement sensor. Applied Optics 2016;55(27):7631-7635.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Characterization of lipid-rich plaque using spectroscopic optical coherence tomography",
+      "year": 2016,
+      "citation_raw": "Hyeong Soo Nam*, Joon-Woo Song*, Sun-Joo Jang, Jae Joong Lee, Wang-Yuhl Oh, Jin Won Kim, Hongki Yoo. Characterization of lipid-rich plaque using spectroscopic optical coherence tomography. Journal of Biomedical Optics 2016;21(7):075004.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Automated detection of vessel lumen and stent struts in intravascular optical coherence tomography to evaluate stent apposition and neointimal coverage",
+      "year": 2016,
+      "citation_raw": "Hyeong Soo Nam, Chang-Soo Kim, Jae Joong Lee, Joon Woo Song, Jin Won Kim, Hongki Yoo. Automated detection of vessel lumen and stent struts in intravascular optical coherence tomography to evaluate stent apposition and neointimal coverage. Medical Physics 2016;43(3):1662-1675.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "High-speed 3-D measurement with a large field of view based on direct-view confocal microscope with an electrically tunable lens",
+      "year": 2016,
+      "citation_raw": "Hyeong-jun Jeong, Hongki Yoo, DaeGab Gweon. High-speed 3-D measurement with a large field of view based on direct-view confocal microscope with an electrically tunable lens. Optics Express 2016;24(4):3806-3816.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Intracoronary dual-modal optical coherence tomography-near-infrared fluorescence structural/molecular imaging with a clinical dose of indocyanine green for the assessment of high-risk plaques and stent-associated inflammation in a beating coronary artery",
+      "year": 2016,
+      "citation_raw": "Sunwon Kim*, Min Woo Lee*, Tae Shik Kim*, Joon Woo Song, Hyeong Soo Nam, Han Saem Cho, Sun-Joo Jang, Jiheun Ryu, Dong Joo Oh, Dae-Gab Gweon, Seong Hwan Park, Kyeongsoon Park, Wang-Yuhl Oh, Hongki Yoo, Jin Won Kim. Intracoronary dual-modal optical coherence tomography-near-infrared fluorescence structural/molecular imaging with a clinical dose of indocyanine green for the assessment of high-risk plaques and stent-associated inflammation in a beating coronary artery. European Heart Journal 2016;37(37):2833-2844",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Design and fabrication of an optical probe with a phase filter for extended depth of focus",
+      "year": 2016,
+      "citation_raw": "Jingchao Xing, Junyoung Kim, Hongki Yoo. Design and fabrication of an optical probe with a phase filter for extended depth of focus. Optics Express 2016;24(2):1037-1044.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Concurrent Carotid Inflammation in Acute Coronary Syndrome as Assessed by 18F-FDG PET/CT: A Possible Mechanistic Link for Ischemic Stroke",
+      "year": 2015,
+      "citation_raw": "Sunwon Kim*, Sinae Lee*, Ji Bak Kim, Jin Oh Na, Cheol Ung Choi, Hong-Eui Lim, Seung-Woon Rha, Chang Gyu Park, Dong Joo Oh, Hongki Yoo, Jin Won Kim. Concurrent Carotid Inflammation in Acute Coronary Syndrome as Assessed by 18F-FDG PET/CT: A Possible Mechanistic Link for Ischemic Stroke. Journal of Stroke and Cerebrovascular Diseases 2015;24(11):2547-2554",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Multimodal confocal hyperspectral imaging microscopy with wavelength sweeping source",
+      "year": 2015,
+      "citation_raw": "Young-Duk Kim, Dukho Do, Hongki Yoo, DaeGab Gweon. Multimodal confocal hyperspectral imaging microscopy with wavelength sweeping source. Measurement Science and Technology 2015;26:025701",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "A bi-directional assessment of spontaneous coronary artery dissection by three-dimensional flythrough rending of optical coherence tomography images",
+      "year": 2015,
+      "citation_raw": "Ji Bak Kim*, Hyeong Soo Nam*, Hongki Yoo, Jin Won Kim. A bi-directional assessment of spontaneous coronary artery dissection by three-dimensional flythrough rending of optical coherence tomography images. European Heart Journal 2015;10.1093:498",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "High speed 3D surface profile without axial scanning: dual-detection confocal reflectance microscopy",
+      "year": 2014,
+      "citation_raw": "Dong-Ryoung Lee, Young-Duk Kim, Dae-Gab Gweon, Hongki Yoo. High speed 3D surface profile without axial scanning: dual-detection confocal reflectance microscopy. Measurement Science and Technology 2014;25:125403",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Fully Integrated High-Speed Intravascular Optical Coherence Tomography/Near-Infrared Fluorescence Structural/Molecular Imaging In Vivo Using a Clinically Available Near-Infrared Fluorescence-Emitting Indocyanine Green to Detect Inflamed Lipid-Rich Atheromata in Coronary-Sized Vessels",
+      "year": 2014,
+      "citation_raw": "Sunki Lee*, Min Woo Lee*, Han Saem Cho*, Joon Woo Song, Hyeong Soo Nam, Dong Joo Oh, Kyeongsoon Park, Wang-Yuhl Oh, Hongki Yoo, Jin Won Kim. Fully Integrated High-Speed Intravascular Optical Coherence Tomography/Near-Infrared Fluorescence Structural/Molecular Imaging In Vivo Using a Clinically Available Near-Infrared Fluorescence-Emitting Indocyanine Green to Detect Inflamed Lipid-Rich Atheromata in Coronary-Sized Vessels. Circulation: Cardiovascular Interventions 2014;DOI:10.1161/CIRCINTERVENTIONS.114.001498",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Fiber-optic raster scanning two-photon endomicroscope using a tubular piezoelectric actuator",
+      "year": 2014,
+      "citation_raw": "Dukho Do, Hongki Yoo, Dae-Gab Gwoen. Fiber-optic raster scanning two-photon endomicroscope using a tubular piezoelectric actuator. Journal of Biomedical Optics 2014;19(6):066010.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Three-Dimensional Intravascular Optical Coherence Tomography Rendering Assessment of Spontaneous Coronary Artery Dissection Concomitant With Left Main Ostial Critical Stenosis",
+      "year": 2014,
+      "citation_raw": "Sunki Lee*, Chang-Soo Kim*, Dong Joo Oh, Hongki Yoo, Jin Won Kim. Three-Dimensional Intravascular Optical Coherence Tomography Rendering Assessment of Spontaneous Coronary Artery Dissection Concomitant With Left Main Ostial Critical Stenosis. JACC: Cardiovascular Interventions 2014;7(6):e57-e59.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Seungwoo Lee, Hongki Yoo",
+      "year": 2014,
+      "citation_raw": "Seungwoo Lee, Hongki Yoo. A near-infrared confocal scanner. Measurement Science and Technology 2014;25:065403.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Dual-detection confocal fluorescence microscopy: fluorescence axial imaging without axial scanning",
+      "year": 2013,
+      "citation_raw": "Dong-Ryoung Lee, Young-Duk Kim, Dae-Gab Gweon, Hongki Yoo. Dual-detection confocal fluorescence microscopy: fluorescence axial imaging without axial scanning. Optics Express 2013;21(15):17839-17848.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "– Selected and published in Virtual Journal of Biomedical Optics (VJBO)",
+      "year": 2013,
+      "citation_raw": "– Selected and published in Virtual Journal of Biomedical Optics (VJBO), VJBO 2013;8(8).",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Endoscopic focal modulation microscopy",
+      "year": 2013,
+      "citation_raw": "J. AHN, H. Yoo, D.-G. GWEON. Endoscopic focal modulation microscopy. Journal of Microscopy 2013;250(2):116-121.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Chromatic confocal microscopy with a novel wavelength detection method using transmittance",
+      "year": 2013,
+      "citation_raw": "Taejoong Kim, Sang Hoon Kim , DukHo Do, Hongki Yoo, DaeGab Gweon. Chromatic confocal microscopy with a novel wavelength detection method using transmittance. Optics Express 2013;21(5):6286-6294.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "– Selected and published in Virtual Journal of Biomedical Optics (VJBO)",
+      "year": 2013,
+      "citation_raw": "– Selected and published in Virtual Journal of Biomedical Optics (VJBO), VJBO 2013;8(4).",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Design and analysis of a cross-type structured-illumination confocal microscope for high speed and high resolution",
+      "year": 2012,
+      "citation_raw": "Young-Duk Kim, MyoungKi Ahn, Taejoong Kim, Hongki Yoo, DaeGab Gweon. Design and analysis of a cross-type structured-illumination confocal microscope for high speed and high resolution. Measurement Science and Technology 2012;23:105403.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Evaluation of optical reflectance techniques for imaging of alveolar structure",
+      "year": 2012,
+      "citation_raw": "Carolin I. Unglert, Eman Namati, William C. Warger II, Linbo Liu, Hongki Yoo, DongKyun Kang, Brett E Bouma, Guillermo J Tearney. Evaluation of optical reflectance techniques for imaging of alveolar structure. Journal of Biomedical Optics 2012;17(7):071303.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Compensation of motion artifacts in intracoronary optical frequency domain imaging and optical coherence tomography",
+      "year": 2012,
+      "citation_raw": "Ha JY, Yoo H, Tearney GJ, Bouma BE. Compensation of motion artifacts in intracoronary optical frequency domain imaging and optical coherence tomography. International Journal of Cardiovascular Imaging 2012;28:1299-1304:(DOI:10.1007/s10554-011-9953-8).",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Optical frequency domain imaging system and catheters for volumetric imaging of the human esophagus",
+      "year": 2011,
+      "citation_raw": "Michalina Gora*, Hongki Yoo*, Melissa J Suter, Kevin A Gallagher, Brett E Bouma, Norman S Nishioka, Guillermo J Tearney. Optical frequency domain imaging system and catheters for volumetric imaging of the human esophagus. Photonics Letters of Poland 2011;3(4):144-146.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Yoo H*, Kim JW*, Shishkov M, Namati E, Morse T, Shubochkin R, McCarthy JR, Ntziachristos V, Bouma BE, Jaffer FA, Tearney GJ",
+      "year": 2011,
+      "citation_raw": "Yoo H*, Kim JW*, Shishkov M, Namati E, Morse T, Shubochkin R, McCarthy JR, Ntziachristos V, Bouma BE, Jaffer FA, Tearney GJ. Intra-arterial catheter for simultaneous microstructural and molecular imaging in vivo. Nature Medicine 2011:17(12):1680-1684.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Yoo H, Kang DK, Katz AJ, Lauwers GY, Nishioka NS, Yagi Y, Tanpowpong P, Namati J, Bouma BE, Tearney GJ",
+      "year": 2011,
+      "citation_raw": "Yoo H, Kang DK, Katz AJ, Lauwers GY, Nishioka NS, Yagi Y, Tanpowpong P, Namati J, Bouma BE, Tearney GJ. Reflectance confocal microscopy for the diagnosis of eosinophilic esophagitis: a pilot study conducted on biopsy specimens. Gastrointestinal Endoscopy 2011;74(5):992-1000.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Comprehensive volumetric confocal microscopy with adaptive focusing",
+      "year": 2011,
+      "citation_raw": "Kang DK, Yoo H, Jillella PA, Bouma BE, Tearney GJ, Comprehensive volumetric confocal microscopy with adaptive focusing. Biomedical Optics Express 2011;2(6):1412-1422.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Compensation of motion artifacts in catheter-based optical frequency domain imaging",
+      "year": 2010,
+      "citation_raw": "Ha JY, Shishkov M, Colice M, Oh WY, Yoo H, Liu L, Tearney GJ, Bouma BE. Compensation of motion artifacts in catheter-based optical frequency domain imaging. Optics Express 2010;18(11):11418-27.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Kang DK, Suter MJ, Boudoux C, Yoo H, Yachimski PS, Puricelli WP, Nishioka NS, Mino-Kenudson M, Lauwers GY, Bouma BE, Tearney GJ",
+      "year": 2010,
+      "citation_raw": "Kang DK, Suter MJ, Boudoux C, Yoo H, Yachimski PS, Puricelli WP, Nishioka NS, Mino-Kenudson M, Lauwers GY, Bouma BE, Tearney GJ. Comprehensive imaging of gastroesophageal biopsy samples by spectrally encoded confocal microscopy. Gastrointestinal Endoscopy 2010;71(1):35-43.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Aberration corrected beam scanning stimulated emission depletion microscopy",
+      "year": 2008,
+      "citation_raw": "Yoo H, Song I, Gweon DG. Aberration corrected beam scanning stimulated emission depletion microscopy. International Journal of Optomechatronics 2008;2(4):401-412",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Method for the improvement of lateral resolution in stimulated emission depletion microscopy using a pupil filter",
+      "year": 2007,
+      "citation_raw": "Yoo H, Song I, Kim TH, Gweon DG. Method for the improvement of lateral resolution in stimulated emission depletion microscopy using a pupil filter. Measurement Science and Technology 2007;18:N61-64.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Alignment of laboratory-scale soft x-ray microscope using laser plasma",
+      "year": 2007,
+      "citation_raw": "Kang DW, Kang SH, Kwon YM, Kim KW, Yoo H, Kim TH, Gweon DG, Rah S, Min J, Yoon K. Alignment of laboratory-scale soft x-ray microscope using laser plasma. Japanese Journal of Applied Physics 2007;46(1):394-399.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Confocal scanning microscopy: a high-resolution nondestructive surface profiler",
+      "year": 2006,
+      "citation_raw": "Yoo H, Lee SW, Kang DK, Gweon DG, Lee SW, Kim KS. Confocal scanning microscopy: a high-resolution nondestructive surface profiler. International Journal of Precision Engineering and Manufacturing 2006;7(4):3-7.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Measurement and restoration of the point spread function of fluorescence confocal microscopy",
+      "year": 2006,
+      "citation_raw": "Yoo H, Song I, Gweon DG. Measurement and restoration of the point spread function of fluorescence confocal microscopy. Journal of Microscopy 2006;221(3):172-176.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Lateral resolution enhancement in confocal self-interference microscopy with commercial calcite plate",
+      "year": 2005,
+      "citation_raw": "Kang DK, Yoo H, Lee SW, Gweon DG. Lateral resolution enhancement in confocal self-interference microscopy with commercial calcite plate. Journal of Optical Society of Korea 2005;9(1):32-35.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Measurement of sub-micrometer features based on the topographic contrast using reflection confocal microscopy",
+      "year": 2005,
+      "citation_raw": "Lee SW, Kang DK, Yoo H, Kim TJ, Gweon DG, Lee SW, Kim KS. Measurement of sub-micrometer features based on the topographic contrast using reflection confocal microscopy. Journal of Optical Society of Korea 2005;9(1):26-31.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Yoo H, Gweon DG",
+      "year": 2005,
+      "citation_raw": "Yoo H, Gweon DG. Advanced technique for bio-chemical analysis : confocal scanning microscope. Journal of the KSME 2005;45(3):49-51 (invited review)",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    },
+    {
+      "title": "Error analysis and alignment tolerancing for confocal scanning microscope using Monte Carlo method",
+      "year": 2004,
+      "citation_raw": "Yoo H, Kang DK, Lee SW, Gweon DG. Error analysis and alignment tolerancing for confocal scanning microscope using Monte Carlo method. Journal of Korea Society Precision Engineering 2004;21(2):92-99.",
+      "source_url": "https://boom.kaist.ac.kr/publication/"
+    }
+  ]
+}

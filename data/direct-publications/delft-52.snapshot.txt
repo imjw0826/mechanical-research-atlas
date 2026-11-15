@@ -1,0 +1,107 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "Staff" [url=https://www.tudelft.nl/en/staff/d.j.e.m.roekaerts/]
+- region "This website uses cookies" [ref=e1]:
+  - text: "logo"
+  - tabpanel "Consent":
+    - heading "This website uses cookies" [level=2]
+    - text: "TU Delft uses cookies to ensure the proper functioning of external content, such as social media feeds, videos or other interactive media, as well as analyzing …[+360 chars]"
+    - link "TU Delft Cookiebeleid" [ref=e2]: "Read more about our cookie policy"
+    - group "Consent Selection":
+      - text: "Consent Selection Necessary"
+      - checkbox "Necessary" [ref=e3] [hidden] [checked] [disabled]
+      - label "Preferences" [ref=e4]
+      - switch "Preferences" [ref=e5] [hidden]
+      - label "Statistics" [ref=e6]
+      - switch "Statistics" [ref=e7] [hidden]
+      - label "Marketing cookies" [ref=e8]
+      - switch "Marketing cookies" [ref=e9] [hidden]
+    - link "Show details" [ref=e10]
+  - button "Allow all" [ref=e11]
+  - button "Allow selection" [ref=e12]
+  - button "Deny" [ref=e13]
+  - button "Close banner" [ref=e14]
+- navigation "Skiplinks" [ref=e15]:
+  - button "Activate high contrast" [ref=e16]
+  - link "To main content" [ref=e17]
+- navigation "Top navigation" [ref=e18]:
+  - link [ref=e19]:
+    - img
+  - link "Students & Education" [ref=e20]
+  - link "Research" [ref=e21]
+  - link "Innovation & Impact" [ref=e22]
+  - link "Community" [ref=e23]
+  - link "About TU Delft" [ref=e24]
+  - link "Schakel over naar de Nederlandse taal" [ref=e25]
+  - button "" [ref=e26]: "\n                    Search"
+- main:
+  - heading "Prof.dr. D.J.E.M. (Dirk) Roekaerts" [level=2]: "Prof.dr.\n    D.J.E.M.\n    \n            (Dirk)\n        \n    \n    \n            Roekaerts"
+  - heading "Prof.dr. D.J.E.M. (Dirk) Roekaerts" [level=2]: "Prof.dr.\n    D.J.E.M.\n    \n            (Dirk)\n        \n    \n    \n            Roekaerts"
+  - link "Email" [ref=e27]: ""
+  - heading "Expertise" [level=2]
+  - link "Combustion" [ref=e28]
+  - link "Flames" [ref=e29]
+  - link "Sprays" [ref=e30]
+  - link "Modeling" [ref=e31]
+  - link "Flamelets" [ref=e32]
+  - link "Fuels" [ref=e33]
+  - link "Simulation" [ref=e34]
+  - link "Jets" [ref=e35]
+  - link "Turbulence" [ref=e36]
+  - link "Gases" [ref=e37]
+  - heading "Publications" [level=2]
+  - text: "2026"
+  - link "Direct, large eddy, and Reynolds-averaged Navier-Stokes simulations of hydrogen periodic planar jets" [ref=e38]:
+    - heading "Direct, large eddy, and Reynolds-averaged Navier-Stokes simulations of hydrogen periodic planar jets" [level=3]: "Direct, large eddy, and Reynolds-averaged Navier-Stokes simulations of hydrogen periodic planar jets in argon"
+  - text: "Diego A. Quan Reyes / \n                            \n                                Nick Diepstraten / \n                            \n                           …[+536 chars]"
+  - link "Publisher Correction to Direct, large eddy, and Reynolds-averaged Navier-Stokes simulations of hydro" [ref=e39]:
+    - heading "Publisher Correction to Direct, large eddy, and Reynolds-averaged Navier-Stokes simulations of hydro" [level=3]: "Publisher Correction to Direct, large eddy, and Reynolds-averaged Navier-Stokes simulations of hydrogen periodic planar jets in argon (Flow, Turbulence and Combustion, (2026), 116, 1, (15), 10.1007/s10494-025-00712-0)"
+  - text: "Diego A. Quan Reyes / \n                            \n                                Nick Diepstraten / \n                            \n                           …[+536 chars]"
+  - link "Large eddy simulations of transcritical e-fuel sprays using real-fluid multiphase flamelet-based mod" [ref=e40]:
+    - heading "Large eddy simulations of transcritical e-fuel sprays using real-fluid multiphase flamelet-based mod" [level=3]: "Large eddy simulations of transcritical e-fuel sprays using real-fluid multiphase flamelet-based modeling"
+  - text: "Mohamad Fathi / \n                            \n                                Stefan Hickel / \n                            \n                                Dirk…[+361 chars]"
+  - link "Numerical simulation of transcritical multiphase combustion using real-fluid thermochemical and tran" [ref=e41]:
+    - heading "Numerical simulation of transcritical multiphase combustion using real-fluid thermochemical and tran" [level=3]: "Numerical simulation of transcritical multiphase combustion using real-fluid thermochemical and transport properties"
+  - text: "Mohamad Fathi / \n                            \n                                Dirk Roekaerts / \n                            \n                                Ste…[+361 chars]"
+  - link "The influence of radiative heat transfer on flame propagation in dense iron-air aerosols" [ref=e42]
+  - text: "W. J.S. Ramaekers / \n                            \n                                T. Hazenberg / \n                            \n                                L…[+254 chars]"
+  - link "More publications" [ref=e43]
+  - link [ref=e44]
+  - link [ref=e45]
+  - heading "Ancillary activities" [level=2]
+  - button "(Board) member of committe/foundation/association/steering committee or sounding board -" [ref=e47]
+  - link "Mechanical Engineering" [ref=e48]
+  - link "Process and Energy" [ref=e49]
+  - link "Fluid Mechanics" [ref=e50]
+  - link "Pure profile" [ref=e51]
+  - heading "Contact" [level=3]
+  - link "D.J.E.M.Roekaerts@tudelft.nl" [ref=e52]
+  - link "+31 15 27 82470" [ref=e53]
+- contentinfo:
+  - heading "Delft University of Technology" [level=2]
+  - link "" [ref=e54]: "\n                            \n                                \n                                        facebook"
+  - link "" [ref=e55]: "\n                            \n                                \n                                        instagram"
+  - link "" [ref=e56]: "\n                            \n                                \n                                        youtube"
+  - link "LinkedIn" [ref=e57]: "\n                            \n                                \n                                        linkedin"
+  - link "" [ref=e58]: "\n                            whatsapp"
+  - text: "Postbus 5 2600 AA Delft The Netherlands"
+  - link "Contact and accessibility" [ref=e59]
+  - link "Disclaimer" [ref=e60]
+  - link "Privacy & Security" [ref=e61]
+  - link "Reading assistant BrowseAloud" [ref=e62]
+  - link "Vacancies" [ref=e63]
+  - link "Intranet" [ref=e64]
+  - link "Student portal" [ref=e65]
+  - link "Donate" [ref=e66]
+  - link "Press room" [ref=e67]
+- navigation "Bottom navigation" [ref=e68]:
+  - link [ref=e69]:
+    - img
+  - button "Cookie settings" [ref=e70]
+  - button "Contrast settings" [ref=e71]: "Activate high contrast"
+  - link "Students & Education" [ref=e72]
+  - link "Research" [ref=e73]
+  - link "Innovation & Impact" [ref=e74]
+  - link "Community" [ref=e75]
+  - link "About TU Delft" [ref=e76]
+  - link "Schakel over naar de Nederlandse taal" [ref=e77]
+  - button "" [ref=e78]: "\n                        Search"

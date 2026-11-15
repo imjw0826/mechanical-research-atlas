@@ -1,0 +1,520 @@
+{
+  "university": "Stanford University",
+  "total": 42,
+  "attempted": 42,
+  "collected": 1,
+  "blocked": 0,
+  "papers": 139,
+  "status": "all_attempted_partial_extraction",
+  "labs": [
+    {
+      "index": 1,
+      "pi": "Adam Boies",
+      "profile_url": "http://www.aneestanford.com/",
+      "status": "complete",
+      "papers": 139,
+      "output": "stanford-1.json",
+      "coverage_notes": [
+        "Official Stanford Mechanical Engineering profile links ANEEStanford.com, which redirects to amboies.com. Official department labs directory confirms PI/lab affiliation.",
+        "Full displayed research-library publication listing extracted, no year restriction. Official lab embeds BibBase; no separate aggregate database queried. Future-dated 2027 item retained as displayed; DOI-based duplicate removed."
+      ]
+    },
+    {
+      "index": 2,
+      "pi": "Monroe Kennedy III",
+      "profile_url": "https://arm.stanford.edu/research",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-2.json",
+      "coverage_notes": [
+        "Publication links discovered: https://arm.stanford.edu/publications/",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 3,
+      "pi": "Steve Collins",
+      "profile_url": "https://biomechatronics.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-3.json",
+      "coverage_notes": [
+        "Publication links discovered: https://biomechatronics.stanford.edu/papers",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 4,
+      "pi": "Mark Cutkosky",
+      "profile_url": "http://bdml.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-4.json",
+      "coverage_notes": [
+        "Publication links discovered: https://bdml.stanford.edu/pmwiki/pmwiki.php/Main/Publications",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 5,
+      "pi": "Tom Andriacchi",
+      "profile_url": "http://www.stanford.edu/group/biomotion/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-5.json",
+      "coverage_notes": [
+        "Publication links discovered: ",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 6,
+      "pi": "Ovijit Chaudhuri",
+      "profile_url": "http://chaudhurilab.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-6.json",
+      "coverage_notes": [
+        "Publication links discovered: https://chaudhurilab.stanford.edu/publications",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 7,
+      "pi": "Allison Okamura",
+      "profile_url": "http://charm.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-7.json",
+      "coverage_notes": [
+        "Publication links discovered: https://charm.stanford.edu/Main/Publications",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 8,
+      "pi": "Eric Darve",
+      "profile_url": "https://meintranet.stanford.edu/faculty/darbeloff-undergraduate-research-and-teaching-lab",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-8.json",
+      "coverage_notes": [
+        "Official department lab directory separates d’Arbeloff Undergraduate Research and Teaching Lab from Darve Research Group; roster incorrectly associates Eric Darve with teaching lab. Evidence: https://me.stanford.edu/research-impact/labs",
+        "Publication links discovered: ",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 9,
+      "pi": "Reiner H. Dauskardt",
+      "profile_url": "http://dauskardt.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-9.json",
+      "coverage_notes": [
+        "Publication links discovered: https://dauskardt.stanford.edu/publications",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 10,
+      "pi": "Chris Gerdes",
+      "profile_url": "http://ddl.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-10.json",
+      "coverage_notes": [
+        "Publication links discovered: https://ddl.stanford.edu/recent-publications | https://ddl.stanford.edu/publications",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 11,
+      "pi": "John Eaton",
+      "profile_url": "http://ddl.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-11.json",
+      "coverage_notes": [
+        "Official department lab directory lists John Eaton under Eaton Lab, not Dynamic Design Lab. Evidence: https://me.stanford.edu/research-impact/labs",
+        "Verified lab website not identified on official profile; lab discovery pending.",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 12,
+      "pi": "Matthias Ihme",
+      "profile_url": "https://ihmegroup.github.io/people/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-12.json",
+      "coverage_notes": [
+        "Publication links discovered: https://ihmegroup.github.io/publications/",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 13,
+      "pi": "Vivian Feig",
+      "profile_url": "https://feiglab.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-13.json",
+      "coverage_notes": [
+        "Publication links discovered: https://feiglab.stanford.edu/publications-0",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 14,
+      "pi": "Sanjiva Lele",
+      "profile_url": "https://fpal.stanford.edu/#:~:text=The%20Flow%20Physics%20and%20Aeroacoustics,and%20Astronautics%20directed%20by%20Prof.",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-14.json",
+      "coverage_notes": [
+        "Publication links discovered: ",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 15,
+      "pi": "Wendy Gu",
+      "profile_url": "https://gulab.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-15.json",
+      "coverage_notes": [
+        "Publication links discovered: https://gulab.stanford.edu/publications-0 | https://www.nature.com/articles/s41586-026-10734-x | https://www.sciencedirect.com/science/article/pii/S1359645425006445#abs0001 | https://www.nature.com/articles/s41563-025-02465-7",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 16,
+      "pi": "Ron Hanson",
+      "profile_url": "https://hanson.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-16.json",
+      "coverage_notes": [
+        "Publication links discovered: https://hanson.stanford.edu/publications-0",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 17,
+      "pi": "R.E. Mitchell",
+      "profile_url": "https://hanson.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-17.json",
+      "coverage_notes": [
+        "Official department lab directory lists R.E. Mitchell under Heterogeneous Combustion Lab, not Hanson Research Group. Evidence: https://me.stanford.edu/research-impact/labs",
+        "Verified lab website not identified on official profile; lab discovery pending.",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 18,
+      "pi": "Steve Jones, Director",
+      "profile_url": "https://hpcc.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-18.json",
+      "coverage_notes": [
+        "Publication links discovered: ",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 19,
+      "pi": "Natalie M. Larson",
+      "profile_url": "https://larsonlab.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-19.json",
+      "coverage_notes": [
+        "Publication links discovered: https://larsonlab.stanford.edu/publications",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 20,
+      "pi": "David Kelley",
+      "profile_url": "http://lifedesignlab.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-20.json",
+      "coverage_notes": [
+        "Publication links discovered: ",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 21,
+      "pi": "Ellen Kuhl",
+      "profile_url": "https://livingmatter.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-21.json",
+      "coverage_notes": [
+        "Publication links discovered: https://livingmatter.stanford.edu/living-matter-publications | https://communities.springernature.com/posts/the-mechanical-and-sensory-signature-of-plant-based-and-animal-meat?utm_source=user_mailer&utm_medium=email&utm_campaign=notify_contributor_about_creating_a_post",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 22,
+      "pi": "Arun Majumdar",
+      "profile_url": "http://web.stanford.edu/group/magiclab/home.html",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-22.json",
+      "coverage_notes": [
+        "Publication links discovered: https://web.stanford.edu/group/magiclab/publications.html | https://www.nature.com/articles/s44221-025-00477-w | https://pubs.acs.org/doi/10.1021/acsenergylett.5c01542 | https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00644 | https://ieeexplore.ieee.org/document/10342763 | https://doi.org/10.1088/1748-9326/acf603 | https://www.nature.com/articles/s41467-023-39647-3 | https://www.nature.com/articles/s41560-023-01306-8 | https://www.nature.com/articles/s41467-023-39304-9",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 23,
+      "pi": "Ali Mani",
+      "profile_url": "https://manigroup.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-23.json",
+      "coverage_notes": [
+        "Publication links discovered: https://manigroup.stanford.edu/publications",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 24,
+      "pi": "Michaëlle N. Mayalu",
+      "profile_url": "https://mayalulab22.sites.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-24.json",
+      "coverage_notes": [
+        "Publication links discovered: https://mayalulab.stanford.edu/publications-0",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 25,
+      "pi": "Beverly McKeon",
+      "profile_url": "https://mckeon.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-25.json",
+      "coverage_notes": [
+        "Publication links discovered: https://mckeon.stanford.edu/publications",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 26,
+      "pi": "Wei Cai",
+      "profile_url": "https://micronano.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-26.json",
+      "coverage_notes": [
+        "Publication links discovered: https://web.stanford.edu/~caiwei/papers.html",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 27,
+      "pi": "Tom Kenny",
+      "profile_url": "http://micromachine.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-27.json",
+      "coverage_notes": [
+        "Publication links discovered: http://micromachine.stanford.edu/?p=publications",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 28,
+      "pi": "Juan Santiago",
+      "profile_url": "https://microfluidics.sites.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-28.json",
+      "coverage_notes": [
+        "Publication links discovered: ",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 29,
+      "pi": "Hai Wang",
+      "profile_url": "http://nanoenergy.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-29.json",
+      "coverage_notes": [
+        "Publication links discovered: ",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 30,
+      "pi": "Ken Goodson",
+      "profile_url": "https://nanoheat.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-30.json",
+      "coverage_notes": [
+        "Attempted URL https://nanoheat.stanford.edu/; error Error: Timed out waiting for \"domcontentloaded\" after goto"
+      ]
+    },
+    {
+      "index": 31,
+      "pi": "Scott Delp",
+      "profile_url": "http://nmbl.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-31.json",
+      "coverage_notes": [
+        "Publication links discovered: https://nmbl.stanford.edu/publication/",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 32,
+      "pi": "Thomas A. Berrueta",
+      "profile_url": "https://pal.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-32.json",
+      "coverage_notes": [
+        "Publication links discovered: https://pal.stanford.edu/publications.html",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 33,
+      "pi": "Fritz Prinz",
+      "profile_url": "https://nplab.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-33.json",
+      "coverage_notes": [
+        "Attempted URL https://qmelab.stanford.edu/; error Error: Timed out waiting for \"domcontentloaded\" after goto"
+      ]
+    },
+    {
+      "index": 34,
+      "pi": "Matthew R. Edwards",
+      "profile_url": "https://edwardslab.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-34.json",
+      "coverage_notes": [
+        "Publication links discovered: https://edwardslab.stanford.edu/publications-0",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 35,
+      "pi": "Sean Follmer",
+      "profile_url": "http://shape.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-35.json",
+      "coverage_notes": [
+        "Publication links discovered: https://shape.stanford.edu/publications",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 36,
+      "pi": "Karl Gumerlock",
+      "profile_url": "http://design.stanford.edu/spdl/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-36.json",
+      "coverage_notes": [
+        "Attempted URL http://design.stanford.edu/spdl/; error Error: Selector \"body\" not found"
+      ]
+    },
+    {
+      "index": 37,
+      "pi": "Marc Levenston",
+      "profile_url": "http://design.stanford.edu/spdl/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-37.json",
+      "coverage_notes": [
+        "Official department lab directory lists Marc Levenston under STBL, not Smart Product Design Laboratory. Evidence: https://me.stanford.edu/research-impact/labs",
+        "Verified lab website not identified on official profile; lab discovery pending.",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 38,
+      "pi": "Mark Cappelli",
+      "profile_url": "http://web.stanford.edu/group/pdl/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-38.json",
+      "coverage_notes": [
+        "Publication links discovered: https://sppl.stanford.edu/publications/",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 39,
+      "pi": "Sindy Tang",
+      "profile_url": "http://www.stanford.edu/group/tanglab",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-39.json",
+      "coverage_notes": [
+        "Publication links discovered: ",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 40,
+      "pi": "Gianluca Iaccarino",
+      "profile_url": "http://www.stanford.edu/group/tanglab",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-40.json",
+      "coverage_notes": [
+        "Official department lab directory lists Gianluca Iaccarino under UQLAB, not Tang Lab. Evidence: https://me.stanford.edu/research-impact/labs",
+        "Publication links discovered: ",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 41,
+      "pi": "Xiaolin Zheng",
+      "profile_url": "https://zhenglab.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-41.json",
+      "coverage_notes": [
+        "Publication links discovered: https://zhenglab.stanford.edu/publications-0",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    },
+    {
+      "index": 42,
+      "pi": "Renee Zhao",
+      "profile_url": "https://zhaolab.stanford.edu/",
+      "status": "partial",
+      "papers": 0,
+      "output": "stanford-42.json",
+      "coverage_notes": [
+        "Publication links discovered: https://zhaolab.stanford.edu/publications",
+        "PARTIAL: visited official profile and available lab/publication page; raw visible text preserved. Structured paper extraction and subordinate year/category/pagination pages remain pending."
+      ]
+    }
+  ],
+  "updated_at": "2026-11-11T13:56:09.154Z",
+  "partial": 41,
+  "complete": 1
+}

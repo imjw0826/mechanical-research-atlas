@@ -1,0 +1,479 @@
+{
+  "university": "stanford",
+  "batches": [
+    {
+      "indices": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "counts": {
+        "2": 37,
+        "3": 113,
+        "4": 193,
+        "5": 91,
+        "6": 72
+      }
+    },
+    {
+      "indices": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "counts": {
+        "7": 439,
+        "8": 0,
+        "9": 471,
+        "10": 20,
+        "11": 0
+      }
+    },
+    {
+      "indices": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "counts": {
+        "12": 364,
+        "13": 35,
+        "14": 0,
+        "15": 39,
+        "16": 20
+      }
+    },
+    {
+      "indices": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "counts": {
+        "17": 0,
+        "18": 0,
+        "19": 18,
+        "20": 0,
+        "21": 313
+      }
+    },
+    {
+      "indices": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "counts": {
+        "22": 0,
+        "23": 6,
+        "24": 7,
+        "25": 164,
+        "26": 198
+      }
+    },
+    {
+      "indices": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "counts": {
+        "27": 284,
+        "28": 0,
+        "29": 0,
+        "30": 49,
+        "31": 32
+      }
+    },
+    {
+      "indices": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "counts": {
+        "32": 21,
+        "33": 241,
+        "34": 58,
+        "35": 95,
+        "36": 0
+      }
+    },
+    {
+      "indices": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "counts": {
+        "37": 0,
+        "38": 435,
+        "39": 3,
+        "40": 0,
+        "41": 158
+      }
+    },
+    {
+      "indices": [
+        42
+      ],
+      "counts": {
+        "42": 72
+      }
+    }
+  ],
+  "completed_indices": [
+    2,
+    3
+  ],
+  "counts": {
+    "2": 37,
+    "3": 113,
+    "4": 193,
+    "5": 91,
+    "6": 72,
+    "7": 439,
+    "8": 0,
+    "9": 471,
+    "10": 20,
+    "11": 0,
+    "12": 364,
+    "13": 35,
+    "14": 0,
+    "15": 39,
+    "16": 20,
+    "17": 0,
+    "18": 0,
+    "19": 18,
+    "20": 0,
+    "21": 313,
+    "22": 0,
+    "23": 6,
+    "24": 7,
+    "25": 164,
+    "26": 198,
+    "27": 284,
+    "28": 0,
+    "29": 0,
+    "30": 49,
+    "31": 32,
+    "32": 21,
+    "33": 241,
+    "34": 58,
+    "35": 95,
+    "36": 0,
+    "37": 0,
+    "38": 435,
+    "39": 3,
+    "40": 0,
+    "41": 158,
+    "42": 72
+  },
+  "remaining": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+  ],
+  "records": [
+    {
+      "i": 2,
+      "count": 37,
+      "status": "complete",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 3,
+      "count": 113,
+      "status": "complete",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 4,
+      "count": 193,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 5,
+      "count": 91,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 6,
+      "count": 72,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 7,
+      "count": 439,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 8,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": null
+    },
+    {
+      "i": 9,
+      "count": 471,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 10,
+      "count": 20,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 11,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": null
+    },
+    {
+      "i": 12,
+      "count": 364,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 13,
+      "count": 35,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 14,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": null
+    },
+    {
+      "i": 15,
+      "count": 39,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 16,
+      "count": 20,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 17,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": null
+    },
+    {
+      "i": 18,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": null
+    },
+    {
+      "i": 19,
+      "count": 18,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 20,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": null
+    },
+    {
+      "i": 21,
+      "count": 313,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 22,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 23,
+      "count": 6,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 24,
+      "count": 7,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 25,
+      "count": 164,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 26,
+      "count": 198,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 27,
+      "count": 284,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 28,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": null
+    },
+    {
+      "i": 29,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": null
+    },
+    {
+      "i": 30,
+      "count": 49,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 31,
+      "count": 32,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 32,
+      "count": 21,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 33,
+      "count": 241,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 34,
+      "count": 58,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 35,
+      "count": 95,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 36,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": null
+    },
+    {
+      "i": 37,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": null
+    },
+    {
+      "i": 38,
+      "count": 435,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 39,
+      "count": 3,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 40,
+      "count": 0,
+      "status": "partial",
+      "investigation_stage": null
+    },
+    {
+      "i": 41,
+      "count": 158,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    },
+    {
+      "i": 42,
+      "count": 72,
+      "status": "partial",
+      "investigation_stage": "full_site_attempted"
+    }
+  ],
+  "updated_at": "2026-11-12T13:57:25.367Z",
+  "note": "All 41 queue entries opened or attempted, but only 2 and 3 certified complete. Remaining are partial, not exhausted. Nested pages/pagination and unresolved fields require continuation. No profile-only attempts marked full_site_attempted."
+}

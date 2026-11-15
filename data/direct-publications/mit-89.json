@@ -1,0 +1,93 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Federico Tessari",
+  "lab_name": null,
+  "lab_url": "https://sites.mit.edu/alma-robotics-lab/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/FTESSARI@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/FTESSARI@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "https://sites.mit.edu/alma-robotics-lab/"
+    },
+    {
+      "text": "Breakthroughs",
+      "url": "https://falling-walls.com/breakthroughs"
+    },
+    {
+      "text": "https://doi.org/10.1038/s41467-026-74354-9",
+      "url": "https://doi.org/10.1038/s41467-026-74354-9"
+    },
+    {
+      "text": "https://doi.org/10.1073/pnas.2501705122",
+      "url": "https://doi.org/10.1073/pnas.2501705122"
+    },
+    {
+      "text": "https://doi.org/10.1038/s41598-024-58380-5",
+      "url": "https://doi.org/10.1038/s41598-024-58380-5"
+    },
+    {
+      "text": "https://doi.org/10.1016/j.mechatronics.2023.102972",
+      "url": "https://doi.org/10.1016/j.mechatronics.2023.102972"
+    },
+    {
+      "text": "https://doi.org/10.1115/1.4045421",
+      "url": "https://doi.org/10.1115/1.4045421"
+    }
+  ],
+  "attempted_urls": [
+    "https://sites.mit.edu/alma-robotics-lab/",
+    "https://sites.mit.edu/alma-robotics-lab/publications/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "Publications",
+      "url": "https://sites.mit.edu/alma-robotics-lab/publications/"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Stabilizing stiffness is the most limiting factor in human force exertion",
+      "year": 2026,
+      "citation_raw": "Tessari, F., Hogan, N., (2026), Stabilizing stiffness is the most limiting factor in human force exertion, Nature Communications, https://doi.org/10.1038/s41467-026-74354-9",
+      "source_url": "https://meche.mit.edu/people/faculty/FTESSARI@mit.edu"
+    },
+    {
+      "title": "Explaining human motor coordination via the synergy expansion hypothesis, Proc, Natl, Acad, Sci",
+      "year": 2025,
+      "citation_raw": "Tessari, F., West, A.M., Hogan, N., (2025), Explaining human motor coordination via the synergy expansion hypothesis, Proc. Natl. Acad. Sci. U.S.A. 122 (13), https://doi.org/10.1073/pnas.2501705122",
+      "source_url": "https://meche.mit.edu/people/faculty/FTESSARI@mit.edu"
+    },
+    {
+      "title": "Hogan N. (2024), Brownian processes in human motor control support descending neural velocity commands, Scientific Reports",
+      "year": 2024,
+      "citation_raw": "Tessari, F., Hermus, J., Sugimoto-Dimitrova, R., Hogan N. (2024), Brownian processes in human motor control support descending neural velocity commands, Scientific Reports, Volume 14, https://doi.org/10.1038/s41598-024-58380-5",
+      "source_url": "https://meche.mit.edu/people/faculty/FTESSARI@mit.edu"
+    },
+    {
+      "title": "Laffranchi (2023), Knee prosthesis powered by a fully integrated and highly back-drivable electro-hydrostatic actuator, Mechatronics",
+      "year": 2023,
+      "citation_raw": "Tessari F., R. Galluzzi, A. Tonoli, N. Amati, L. De Michieli, M. Laffranchi (2023), Knee prosthesis powered by a fully integrated and highly back-drivable electro-hydrostatic actuator, Mechatronics, Volume 91, 102972, ISSN 0957-4158, https://doi.org/10.1016/j.mechatronics.2023.102972",
+      "source_url": "https://meche.mit.edu/people/faculty/FTESSARI@mit.edu"
+    },
+    {
+      "title": "Efficiency-Driven Design Methodology of Gerotor Hydraulic Units",
+      "year": 2020,
+      "citation_raw": "Tessari, F., Galluzzi, R., and Amati, N. (2020). Efficiency-Driven Design Methodology of Gerotor Hydraulic Units. ASME. J. Mech. Des. doi: https://doi.org/10.1115/1.4045421",
+      "source_url": "https://meche.mit.edu/people/faculty/FTESSARI@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ]
+}

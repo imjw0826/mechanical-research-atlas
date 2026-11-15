@@ -1,0 +1,355 @@
+{
+  "university": "ETH Zurich",
+  "university_key": "eth",
+  "pi": "Nicolas Noiray",
+  "lab_name": null,
+  "lab_url": "https://idsc.ethz.ch/research-guzzella-onder.html#xd_co_f=MjhmNDRjYWU3MzgzZGVhYWNkYjE1MjcwODExNTUwMDk=~",
+  "publication_urls": [
+    "https://caps.ethz.ch/publications/conferences.html",
+    "https://caps.ethz.ch/publications/journal-articles.html",
+    "https://caps.ethz.ch/publications.html"
+  ],
+  "accessed_at": "2026-11-12T15:15:25.475850+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 3개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Large-Scale Engine Direct Numerical Simulations With NekRS: A Multi-Cycle Database",
+      "year": 2024,
+      "citation_raw": "Large-Scale Engine Direct Numerical Simulations With NekRS: A Multi-Cycle Database Bogdan A. Danciu, Christos Emmanouil Frouzakis and Mathis Bode 35th Parallel CFD International Conference (ParCFD 2024), Bonn, Germany, pp.260-262, Jülich: Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag, September 2-4, 2024.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "In-Situ Visualization With Ascent and NekRS for Large-Scale CFD Problems on GPUs",
+      "year": 2024,
+      "citation_raw": "In-Situ Visualization With Ascent and NekRS for Large-Scale CFD Problems on GPUs Jens Henrik Göbbert, Damian Alvarez, Mathis Bode, Paul Fischer, Christos E. Frouzakis, Joseph A. Insley, Yu-Hsiang Lan, Victor A. Mateevitsi, Misun Min, Michael E. Papka, Silvio Rizzi, Roshan J. Samuel and Jörg Schumacher 35th Parallel CFD International Conference (ParCFD 2024), Bonn, Germany, pp.241-244, Jülich: Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag, September 2-4, 2024.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Nanosecond pulsed discharges for reliable ignition of ultra-lean hydrogen-air mixtures",
+      "year": 2025,
+      "citation_raw": "Nanosecond pulsed discharges for reliable ignition of ultra-lean hydrogen-air mixtures Galia Faingold, Leander Krieg, Francis Pagaud, Quentin Malé and Nicolas Noiray 12th European Combustion Meeting (ECM 2025), Edinburgh, United Kingdom, pp.105840 New York, NY: Elsevier, April 8-11, 2025.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Local Rayleigh index reconstruction: Application to plasma-assisted sequential combustion under varying pulse repetition frequency",
+      "year": 2025,
+      "citation_raw": "Local Rayleigh index reconstruction: Application to plasma-assisted sequential combustion under varying pulse repetition frequency Matteo Impagnatiello and Nicolas Noiray 12th European Combustion Meeting (ECM 2025), Edinburgh, United Kingdom, pp.105882 Amsterdam: Elsevier, April 8-11, 2025.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Unraveling Turbulent NH3/H2 Flames Using High Performance GPU Computing: A Series of Spectral Element Method-Based High-Fidelity DNS",
+      "year": 2024,
+      "citation_raw": "Unraveling Turbulent NH3/H2 Flames Using High Performance GPU Computing: A Series of Spectral Element Method-Based High-Fidelity DNS Driss Kaddar, Hendrik Nicolai, Vinzenz Schuh, Antonia Bähr, Christos Emmanouil Frouzakis, Mathis Bode and Christian Hasse 35th Parallel CFD International Conference (ParCFD 2024), Bonn, Germany, pp.245-248, Jülich: Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag, September 2-4, 2024.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "NekCRF: A Novel GPU-Accelerated Finite-Rate-Chemistry Solver and Application to Hydrogen",
+      "year": 2024,
+      "citation_raw": "NekCRF: A Novel GPU-Accelerated Finite-Rate-Chemistry Solver and Application to Hydrogen Mathis Bode, Christos E. Frouzakis and Ananias Tomboulides 35th Parallel CFD International Conference (ParCFD 2024), Bonn, Germany, pp.257-259, Jülich: Forschungszentrum Jülich GmbH Zentralbibliothek, Verlag, September 2-4, 2024.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Feedback control of thermoacoustic instabilities in sequential combustor with nanosecond repetitively pulsed discharges",
+      "year": 2024,
+      "citation_raw": "Feedback control of thermoacoustic instabilities in sequential combustor with nanosecond repetitively pulsed discharges Bayu Adi Dharmaputra, Nicolas Noiray and Sergey Shcherbanev 53rd International Congress and Exposition on Noise Contrl Engineering (Inter-Noise 2024), Nantes, France, pp.9281-9288, Wakefield, MA: Institute of Noise Control Engineering, August 25-29, 2024.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Editorial: Proceedings of the 3rd Symposium on Thermoacoustics in Combustion",
+      "year": 2023,
+      "citation_raw": "Editorial: Proceedings of the 3rd Symposium on Thermoacoustics in Combustion Nicolas Noiray 3rd Symposium on Thermoacoustics in Combustion (SoTiC 2023), Zurich, Switzerland, pp.63-64, Thousand Oaks, CA: SAGE, September 11-14, 2023.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Fuel-specific code generation for thermochemistry and transport properties for CPU- and GPU-based solvers",
+      "year": 2024,
+      "citation_raw": "Fuel-specific code generation for thermochemistry and transport properties for CPU- and GPU-based solvers Bogdan A. Danciu, Stefan Kerkemeier and Christos Emmanouil Frouzakis 19th International Conference on Numerical Combustion (ICNC 2024), Kyoto, Japan, pp.185-185,, May 7-10, 2024.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Superradiant Scattering at Coupled Policeman Whistle Meta-Atoms",
+      "year": 2024,
+      "citation_raw": "Superradiant Scattering at Coupled Policeman Whistle Meta-Atoms Alexander K. Stoychev, Xinxin Guo, Ulrich Kuhl and Nicolas Noiray 18th International Congress on Artificial Materials for Novel Wave Phenomena (Metamaterials 2024), Chania, Greece Piscataway, NJ: IEEE, September 9-14, 2024.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Multi-cycle DNS of a Laboratory Scale Engine: In-cylinder Flow Structures and Turbulence Analysis",
+      "year": 2024,
+      "citation_raw": "Multi-cycle DNS of a Laboratory Scale Engine: In-cylinder Flow Structures and Turbulence Analysis Bogdan A. Danciu, Christos E. Frouzakis, George K. Giannakopoulos and Mathis Bode 14th ERCOFTAC Workshop Direct and Large Eddy Simulation (DLES 14), Erlangen, Germany Cham: ERCOFTAC, April 10-12, 2024.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "A European Perspective on Finite-Rate-Chemistry Solvers Towards Exascale",
+      "year": 2024,
+      "citation_raw": "A European Perspective on Finite-Rate-Chemistry Solvers Towards Exascale Mathis Bode, Daniel Mira, Christos E. Frouzakis and Christian Hasse 35th Parallel CFD International Conference (ParCFD 2024), Bonn, Germany, September 2-4, 2024.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Generation of Entropy Waves by Fully Premixed Flames in a Non-Adiabatic Combustor With Hydrogen Enrichment",
+      "year": 2023,
+      "citation_raw": "Generation of Entropy Waves by Fully Premixed Flames in a Non-Adiabatic Combustor With Hydrogen Enrichment Alexander J. Eder, Bayu Dharmaputra, Marcel Désor, Camilo F. Silva, Alex M. Garcia, Bruno Schuermans, Nicolas Noiray and Wolfgang Polifke ASME Turbo Expo 2023: Turbomachinery Technical Conference and Exposition (GT 2023), Boston, MA, USA, pp.V03BT04A009 New York, NY: American Society of Mechanical Engineers, June 26-30, 2023.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Bayesian Optimization Based Adaptive Control of Thermoacoustic Instabilities",
+      "year": 2022,
+      "citation_raw": "Bayesian Optimization Based Adaptive Control of Thermoacoustic Instabilities Bayu Dharmaputra, Alain Williner, Bruno Schuermans and Nicolas Noiray 51st International Congress and Exposition on Noise Control Engineering (INTER-NOISE 2022), Glasgow, United Kingdom, pp.1736-1743, Reston, VA: Institute of Noise Control Engineering, August 21-24, 2022.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Effect of Hydrogen Enrichment on Transfer Matrices of Fully and Technically Premixed Swirled Flames",
+      "year": 2023,
+      "citation_raw": "Effect of Hydrogen Enrichment on Transfer Matrices of Fully and Technically Premixed Swirled Flames Audrey Blondé, Bruno Schuermans, Khushboo Pandey and Nicolas Noiray ASME Turbo Expo 2023: Turbomachinery Technical Conference and Exposition (GT 2023), Boston, MA, USA, pp.V03AT04A032 New York, NY: American Society of Mechanical Engineers, June 26-30, 2023.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Multi-Cycle Direct Numerical Simulations of a Laboratory Scale Engine: Evolution of the Momentum and Thermal Boundary Layers",
+      "year": 2023,
+      "citation_raw": "Multi-Cycle Direct Numerical Simulations of a Laboratory Scale Engine: Evolution of the Momentum and Thermal Boundary Layers Bogdan A. Danciu, Christos E. Frouzakis, Georgios Giannakopoulos and Mathis Bode 14th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements (ETMM 2023), Barcelona, Spain s.n.: ERCOFTAC, September 6-8, 2023.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "A novel ultra-low NOx hydrogen combustor based on the Lean Azimuthal Flame concept",
+      "year": 2023,
+      "citation_raw": "A novel ultra-low NOx hydrogen combustor based on the Lean Azimuthal Flame concept Pedro M. de Oliveira, Luigi Miniero, Khushboo Pandey, Nicolas Noiray and Epaminondas Mastorakos AIAA SCITECH Forum 2023, National Harbor, MD, USA, pp.AIAA 2023-1488 Reston, VA: American Institute of Aeronautics and Astronautics, January 23-27, 2023.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Experiments and Modelling on the Effect of an Adjustable Boundary on Thermoacoustic Stability",
+      "year": 2022,
+      "citation_raw": "Experiments and Modelling on the Effect of an Adjustable Boundary on Thermoacoustic Stability Audrey Blondé, Bruno Schuermans and Nicolas Noiray 51st International Congress and Exposition on Noise Control Engineering (Internoise 2022), Glasgow, United Kingdom, pp.63 Reston, VA: International Institute of Noise Control Engineering, August 21–24, 2022.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Tomographic Reconstruction of OH Density Maps for Jet-A1 Spray Flame in a Vitiated Crossflow",
+      "year": 2022,
+      "citation_raw": "Tomographic Reconstruction of OH Density Maps for Jet-A1 Spray Flame in a Vitiated Crossflow Luigi Miniero, Khushboo Pandey, Serge Shcherbanev, Ulrich Doll and Nicolas Noiray AIAA SCITECH Forum 2022, San Diego, CA, USA, pp.AIAA 2022-1873 Reston, VA: American Institute of Aeronautics and Astronautics, January 3-7, 2022.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Exascale DNS of In-Cylinder Flows in a Laboratory Scale Engine at High Engine Speeds",
+      "year": 2022,
+      "citation_raw": "Exascale DNS of In-Cylinder Flows in a Laboratory Scale Engine at High Engine Speeds Bogdan A. Danciu, Christos E. Frouzakis, Jens H. Göbbert and Mathis Bode Poster presented at the 11th NIC Symposium 2022, Jülich, Germany, September 29-30, 2022.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Unified approach to low-order modeling of can-annular combustors",
+      "year": 2022,
+      "citation_raw": "Unified approach to low-order modeling of can-annular combustors Tiemo Pedergnana and Nicolas Noiray 51st International Congress and Exposition on Noise Control Engineering (Internoise 2022), Glasgow, United Kingdom, pp.509 Reston, VA: International Institute of Noise Control Engineering, August 21–24, 2022.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Flame stabilization with nanosecond repetitively pulsed discharge in a sequential combustor",
+      "year": 2022,
+      "citation_raw": "Flame stabilization with nanosecond repetitively pulsed discharge in a sequential combustor Sergey Shcherbanev, Bayu Dharmaputra, Roberto Solana Pérez and Nicolas Noiray AIAA SCITECH Forum 2022, San Diego, CA, USA, pp.AIAA 2022-2254 Reston, VA: American Institute of Aeronautics and Astronautics, January 3–7, 2022.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "The Effect of Hydrogen Addition on Confined Turbulent Boundary Layer Flashback Studied with a Critically Strained Flame Model",
+      "year": 2022,
+      "citation_raw": "The Effect of Hydrogen Addition on Confined Turbulent Boundary Layer Flashback Studied with a Critically Strained Flame Model Alex G. Novoselov, Dominik Ebi and Nicolas Noiray AIAA SCITECH Forum 2022, San Diego, CA, USA, pp.AIAA 2022-1739 Reston, VA: American Institute of Aeronautics and Astronautics, January 3–7, 2022.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Experimental investigation of a phase-cancelling slow-sound metamaterial with mean flow",
+      "year": 2022,
+      "citation_raw": "Experimental investigation of a phase-cancelling slow-sound metamaterial with mean flow Richard Martin, Bruno Schuermans and Nicolas Noiray 51st International Congress and Exposition on Noise Control Engineering (Internoise 2022), Glasgow, United Kingdom, pp.421 Reston, VA: International Institute of Noise Control Engineering, August 21–24, 2022.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Experiments on the aeroacoustic whistling of a cylindrical cavity",
+      "year": 2022,
+      "citation_raw": "Experiments on the aeroacoustic whistling of a cylindrical cavity Abel Faure-Beaulieu, Tiemo Pedergnana, Yuan Xiong and Nicolas Noiray 51st International Congress and Exposition on Noise Control Engineering (Internoise 2022), Glasgow, United Kingdom, pp.480 Reston, VA: International Institute of Noise Control Engineering, August 21–24, 2022.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Entropy Waves Measurement by Tunable Diode Laser Absorption Spectroscopy",
+      "year": 2022,
+      "citation_raw": "Entropy Waves Measurement by Tunable Diode Laser Absorption Spectroscopy Bayu Dharmaputra, Yuan Xiong, Sergey A. Shcherbanev, Audrey Blondé and Nicolas Noiray AIAA SCITECH Forum 2022, San Diego, CA, USA, pp.AIAA 2022-1746 Reston, VA: American Institute of Aeronautics and Astronautics, January 3–7, 2022.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Thermoacoustic instabilities in annular combustors",
+      "year": 2021,
+      "citation_raw": "Thermoacoustic instabilities in annular combustors Abel Faure Beaulieu Conference on Combustion Research in Switzerland 2021, Zurich, Switzerland, September 17, 2021.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Hot gas ingestion in Helmholtz dampers",
+      "year": 2021,
+      "citation_raw": "Hot gas ingestion in Helmholtz dampers Luigi Miniero, Georg A. Mensah, Claire Bourquard and Nicolas Noiray Symposium on Thermoacoustics in Combustion: Industry meets Academia (SoTiC 2021), Munich, Germany, September 6-10, 2021.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "HPC in combustion: contributions to physical understanding, theory and modeling",
+      "year": 2021,
+      "citation_raw": "HPC in combustion: contributions to physical understanding, theory and modeling Cristos E. Frouzakis, George K. Giannakopoulos, Ananias G. Tomboulides and Konstantinos Boulouchos 32nd Parallel Computational Fluid Dynamics Conference (ParCFD 2021), Online Zurich: ETH Zurich, May 17-19, 2021.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Effects of the atomization air on the topology of a Jet A-1 spray flame in a turbulent vitiated crossflow",
+      "year": 2021,
+      "citation_raw": "Effects of the atomization air on the topology of a Jet A-1 spray flame in a turbulent vitiated crossflow Luigi Miniero, Khushboo Pandey, Serge Shcherbanev, Ulrich Doll and Nicolas Noiray 10th European Combustion Meeting (ECM 2021), Online, pp.15|04, April 14–15, 2021.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Flame anchoring of a premixed jet flame in vitiated crossflow using nanosecond repetitively pulsed discharge",
+      "year": 2021,
+      "citation_raw": "Flame anchoring of a premixed jet flame in vitiated crossflow using nanosecond repetitively pulsed discharge Sergey Shcherbanev, Titouan Morinière, Roberto Solana Pérez, Ulrich Doll and Nicolas Noiray 10th European Combustion Meeting (ECM 2021), Naples, Italy, pp.1425-1429, Naples: Università Federico II di Napoli, April 14–15, 2021.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Boundary layer flashback at gas turbine conditions with hydrogen addition",
+      "year": 2021,
+      "citation_raw": "Boundary layer flashback at gas turbine conditions with hydrogen addition Alex G. Novoselov, Dominik Ebi, Peter Jansohn and Nicolas Noiray Conference on Combustion Research in Switzerland 2021, Zurich, Switzerland Bern: Bundesamt für Energie BFE, September 17, 2021.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Morphology and dynamics of a premixed hydrogen-methane-air jet flame in hot vitiated turbulent crossflow",
+      "year": 2020,
+      "citation_raw": "Morphology and dynamics of a premixed hydrogen-methane-air jet flame in hot vitiated turbulent crossflow Roberto Solana Pérez, Luigi Miniero, Serge Shcherbanev, Mirko R. Bothien and Nicolas Noiray ASME Turbomachinery Technical Conference and Exposition (TE 2020) (virtual), London, United Kingdom, pp.V04BT04A066 New York, NY: American Society of Mechanical Engineers, September 21-25, 2020.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Simulation of the self-ignition of a cold premixed Ethylene-Air jet in hot vitiated crossflow",
+      "year": 2019,
+      "citation_raw": "Simulation of the self-ignition of a cold premixed Ethylene-Air jet in hot vitiated crossflow Roberto Solana Pérez, Oliver Schulz and Nicolas Noiray 11th Mediterranean Combustion Symposium (MCS11), Tenerife, Spain, June 16-20, 2019.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "The ignition process of a premixed reactive jet in hot vitiated crossflow",
+      "year": 2019,
+      "citation_raw": "The ignition process of a premixed reactive jet in hot vitiated crossflow Roberto Solana Pérez, Oliver Schulz and Nicolas Noiray 17th International Conference on Numerical Combustion (NC19), Aachen, Germany, pp.119-119, Aachen: RWTH Aachen University, May 6-8, 2019.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Prediction of the nonlinear response of an acoustically forced flow with linearized Navier-Stokes equations",
+      "year": 2019,
+      "citation_raw": "Prediction of the nonlinear response of an acoustically forced flow with linearized Navier-Stokes equations Abel Faure Beaulieu, Claire Bourquard and Nicolas Noiray 23rd International Congress on Acoustics (ICA 2019), Aachen, Germany, pp.5299-5306, Berlin: Deutsche Gesellschaft für Akkustik, September 9-13, 2019.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Noise analysis and reduction in high-framing-rate background oriented schlieren",
+      "year": 2018,
+      "citation_raw": "Noise analysis and reduction in high-framing-rate background oriented schlieren Yuan Xiong, Markus Weilenmann and Nicolas Noiray 18th International Symposium on Flow Visualization (ISFV18), Zurich, Switzerland Zurich: ETH Zurich, June 26-29, 2018.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Large Eddy Simulation of a Premixed Flame in Hot Vitiated Crossflow With Analytically Reduced Chemistry",
+      "year": 2018,
+      "citation_raw": "Large Eddy Simulation of a Premixed Flame in Hot Vitiated Crossflow With Analytically Reduced Chemistry Oliver Schulz and Nicolas Noiray 63rd ASME Turbo Expo (GT 2018), Oslo, Norway, pp.V04BT04A053 New York, NY: American Society of Mechanical Engineers, June 11-15, 2018.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Inertial effects in thermoacoustic subcritical bifurcation",
+      "year": 2017,
+      "citation_raw": "Inertial effects in thermoacoustic subcritical bifurcation Giacomo Bonciolini, D. Ebi, Edouard Boujo and Nicolas Noiray 9th European Nonlinear Dynamics Conference (ENOC 2017), Budapest, Hungary: CongressLIne, June 25-30, 2017.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Combustion regimes in sequential combustors",
+      "year": 2017,
+      "citation_raw": "Combustion regimes in sequential combustors Oliver Schulz and Nicolas Noiray Global Power and Propulsion Society's Inaugural Forum (GPPS FORUM 2017), Zurich, Switzerland, pp.GPPF-2017-83 Zug: GPPS, January 16-18, 2017.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Large eddy simulations of a reactive jet in hot vitiated crossflow: flame stabilisation mechanism",
+      "year": 2017,
+      "citation_raw": "Large eddy simulations of a reactive jet in hot vitiated crossflow: flame stabilisation mechanism Oliver Schulz, Emile Piccoli, Anne Felden, Gabriel Staffelbach and Nicolas Noiray 70th Annual Meeting of the American Physical Society Division of Fluid Dynamics (DFD 2017), Denver, CO, USA, pp.F2.3 New York, NY: American Physical Society, November 19-21, 2017.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Flame stabilisation and dynamics in a sequential combustor at atmospheric and high pressure",
+      "year": 2017,
+      "citation_raw": "Flame stabilisation and dynamics in a sequential combustor at atmospheric and high pressure Oliver Schulz and Nicolas Noiray 16th International Conference on Numerical Combustion, Orlando, FL, USA, pp.40-40, Philadelphia, PA: SIAM, April 3-5, 2017.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Beer bottle whistling: a stochastic Hopf bifurcation",
+      "year": 2017,
+      "citation_raw": "Beer bottle whistling: a stochastic Hopf bifurcation Edouard Boujo, Claire Bourquard, Yuan Xiong and Nicolas Noiray 70th Annual Meeting of the American Physical Society Division of Fluid Dynamics, Denver, CO, USA, pp.Q19.4 New York, NY: American Physical Society, November 19-21, 2017.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Stochastic aspects of thermoacoustic instabilities in combustion chambers",
+      "year": 2016,
+      "citation_raw": "Stochastic aspects of thermoacoustic instabilities in combustion chambers Nicolas Noiray and Alexey Denisov 24th International Congress of Theoretical and Applied Mechanics (ICTAM 2016), Montreal, Canada Zurich: ETH Zurich, August 21-26, 2016.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Quantifying stochastic limit-cycle parameters from the adjoint Fokker-Planck equation",
+      "year": 2016,
+      "citation_raw": "Quantifying stochastic limit-cycle parameters from the adjoint Fokker-Planck equation Edouard Boujo and Nicolas Noiray 24th International Congress of Theoretical and Applied Mechanics (ICTAM 2016), Montreal, Canada, pp.619-620, s.l.: International Union of Theoretical and Applied Mechanics, August 21-26, 2016.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "A criterion to distinguish autoignition and propagation applied to a lifted methane–air jet flame",
+      "year": 2016,
+      "citation_raw": "A criterion to distinguish autoignition and propagation applied to a lifted methane–air jet flame O. Schulz, T. Jaravel, T. Poinsot, B. Cuenot and Nicolas Noiray 36th International Symposium on Combustion, Seoul, South Korea, July 31 - August 5, 2016.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "A method to identify thermoacoustic growth rates in combustion chambers from dynamic pressure time series",
+      "year": 2016,
+      "citation_raw": "A method to identify thermoacoustic growth rates in combustion chambers from dynamic pressure time series Nicolas Noiray and Alexey Denisov 36th International Symposium on Combustion, Seoul, South Korea, July 31 - August 5, 2016.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Autoignition Flame Dynamics in Sequential Combustors",
+      "year": 2016,
+      "citation_raw": "Autoignition Flame Dynamics in Sequential Combustors Oliver Schulz and Nicolas Noiray International Symposium Thermoacoustic Instabilities in Gas Turbines and Rocket Engines, Munich, Germany Zurich: ETH Zurich, May 30 - June 2, 2016.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Criteria for choosing Helmholtz or quarter-wave dampers to suppress combustion instabilities",
+      "year": 2016,
+      "citation_raw": "Criteria for choosing Helmholtz or quarter-wave dampers to suppress combustion instabilities Claire Bourquard and Nicolas Noiray International Symposium Thermoacoustic Instabilities in Gas Turbines and Rocket Engines, Munich, Germany Zürich: ETH Zürich, May 30 - June 1, 2016.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Effects of turbulence-induced colored noise on thermoacoustic instabilities in combustion chambers",
+      "year": 2016,
+      "citation_raw": "Effects of turbulence-induced colored noise on thermoacoustic instabilities in combustion chambers Giacomo Bonciolini, Edouard Boujo and Nicolas Noiray International Symposium: Thermoacoustic Instabilities in Gas Turbines and Rocket Engines, Munich, Germany Zürich: ETH Zürich, May 30 - June 02, 2016.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Linear Growth Rate Estimation From Dynamics and Statistics of Acoustic Signal Envelope in Turbulent Combustors",
+      "year": 2016,
+      "citation_raw": "Linear Growth Rate Estimation From Dynamics and Statistics of Acoustic Signal Envelope in Turbulent Combustors Nicolas Noiray 61st ASME Turbo Expo (GT 2016), Seoul, South Korea, pp.GT2016-58169 New York, NY: American Society of Mechanical Engineers, June 13-17, 2016.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Bifurcation analysis of self-excited thermoacoustic oscillations in damper-equipped combustion chambers",
+      "year": 2013,
+      "citation_raw": "Bifurcation analysis of self-excited thermoacoustic oscillations in damper-equipped combustion chambers Michael Baumann, Remco I. Leine, Nicolas Noiray and Bruno Schuermans ECCOMAS Thematic Conference on Multibody Dynamics 2013, Zagreb, Croatia, pp.857-866, Zagreb: University of Zagreb, July 1-4, 2013.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Combustion dynamics validation of an annular reheat combustor",
+      "year": 2012,
+      "citation_raw": "Combustion dynamics validation of an annular reheat combustor Ghislain Singla, Nicolas Noiray and Bruno Schuermans 57th ASME Turbo Expo (GT 2012), Copenhagen, Denmark, pp.447-455, New York, NY: American Society of Mechanical Engineers, June 11-15, 2012.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "Interaction of vortex shedding and transverse high-frequency pressure oscillations in a tubular combustion chamber",
+      "year": 2011,
+      "citation_raw": "Interaction of vortex shedding and transverse high-frequency pressure oscillations in a tubular combustion chamber Joachim Schwing, Thomas Sattelmayer and Nicolas Noiray 56th ASME Turbo Expo (GT 2011), Vancouver, Canada, pp.259-268, New York, NY: American Society of Mechanical Engineers, June 6-10, 2011.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "The role of nonlinear acoustic boundary conditions in combustion/acoustic coupled instabilities",
+      "year": 2009,
+      "citation_raw": "The role of nonlinear acoustic boundary conditions in combustion/acoustic coupled instabilities Thierry Schuller, Nguyen Tran, Daniel Durox, Sébastien Ducruix and Sébastien Candel 54th ASME Turbo Expo (GT 2009), Orlanda, FL, USA, pp.325-339, New York, NY: American Society of Mechanical Engineers, June 8-12, 2009.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    },
+    {
+      "title": "A novel strategy for passive control of combustion instabilities through modification of flame dynamics",
+      "year": 2008,
+      "citation_raw": "A novel strategy for passive control of combustion instabilities through modification of flame dynamics Nicolas Noiray, Daniel Durox, Thierry Schuller and Sébastien Candel 53rd ASME Turbo Expo (GT 2008), Berlin, Germany, pp.1133-1144, New York, NY: American Society of Mechanical Engineers, June 9-13, 2008.",
+      "source_url": "https://caps.ethz.ch/publications/conferences.html"
+    }
+  ]
+}

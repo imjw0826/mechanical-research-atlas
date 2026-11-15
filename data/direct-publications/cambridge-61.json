@@ -1,0 +1,125 @@
+{
+  "university": "University of Cambridge",
+  "university_key": "cambridge",
+  "pi": "Frank Tietze",
+  "lab_name": null,
+  "lab_url": "https://www.eng.cam.ac.uk/profiles/ft263",
+  "publication_urls": [
+    "https://www.iipm.eng.cam.ac.uk/publications-0",
+    "https://www.iipm.eng.cam.ac.uk/publications-0/industry-magazines",
+    "https://www.iipm.eng.cam.ac.uk/publications-0/reports",
+    "https://www.iipm.eng.cam.ac.uk/publications-0/working-papers"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "게시 목록 페이지 후보에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
+  "dropped_low_confidence": [
+    {
+      "title": "How IP roadmapping can bring people together to help align IP related decisions, R&D Today, Tietze, F",
+      "year": 2026,
+      "citation_raw": "Tietze, F. (2026). How IP roadmapping can bring people together to help align IP related decisions. R&D Today. Tietze, F., Holgersson, M., Vimalnath, P., Dijk-Wittkampf, C. van (2025). The High Cost of Executives’ Intellectual Property Blind Spots. MIT Sloan Management Review 67, 70–73. Tietze, F. (2024). Europe is getting better at supporting SMEs managing IP, but... European IP Helpdesk Bulletin.",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/industry-magazines"
+    },
+    {
+      "title": "The following is a list of short industry focused articles through which we hope to contribute to better IP management practice:",
+      "year": 2019,
+      "citation_raw": "The following is a list of short industry focused articles through which we hope to contribute to better IP management practice: Tietze, F. (2026). How IP roadmapping can bring people together to help align IP related decisions. R&D Today. Tietze, F., Holgersson, M., Vimalnath, P., Dijk-Wittkampf, C. van (2025). The High Cost of Executives’ Intellectual Property Blind Spots. MIT Sloan Management Review 67, 70–73. Tietze, F. (2024). Europe is getting better at supporting SMEs managing IP, but... European IP Helpdesk Bulletin. Tietze, F. (2019). From innovative ideas to viable businesses: How an IP strategy can help. The Manufacturer. UK.",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/industry-magazines"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 4개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "How IP roadmapping can bring people together to help align IP related decisions, R&D Today, Tietze, F",
+      "year": 2026,
+      "citation_raw": "Tietze, F. (2026). How IP roadmapping can bring people together to help align IP related decisions. R&D Today. Tietze, F., Holgersson, M., Vimalnath, P., Dijk-Wittkampf, C. van (2025). The High Cost of Executives’ Intellectual Property Blind Spots. MIT Sloan Management Review 67, 70–73. Tietze, F. (2024). Europe is getting better at supporting SMEs managing IP, but... European IP Helpdesk Bulletin.",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/industry-magazines"
+    },
+    {
+      "title": "The following is a list of short industry focused articles through which we hope to contribute to better IP management practice:",
+      "year": 2019,
+      "citation_raw": "The following is a list of short industry focused articles through which we hope to contribute to better IP management practice: Tietze, F. (2026). How IP roadmapping can bring people together to help align IP related decisions. R&D Today. Tietze, F., Holgersson, M., Vimalnath, P., Dijk-Wittkampf, C. van (2025). The High Cost of Executives’ Intellectual Property Blind Spots. MIT Sloan Management Review 67, 70–73. Tietze, F. (2024). Europe is getting better at supporting SMEs managing IP, but... European IP Helpdesk Bulletin. Tietze, F. (2019). From innovative ideas to viable businesses: How an IP strategy can help. The Manufacturer. UK.",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/industry-magazines"
+    },
+    {
+      "title": "IP challenges for a digital economy",
+      "year": 2018,
+      "citation_raw": "Tietze, F. (2018). IP challenges for a digital economy. IfM Review(9).",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/industry-magazines"
+    },
+    {
+      "title": "IP challenges in multi-partner collaboration",
+      "year": 2016,
+      "citation_raw": "Tietze, F. and G. D. Lauritzen (2016). IP challenges in multi-partner collaboration. PARTNER - Institute for Collaborative Working: 90-91.",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/industry-magazines"
+    },
+    {
+      "title": "Getting to grips with IP",
+      "year": 2016,
+      "citation_raw": "Tietze, F. (2016). Getting to grips with IP. IfM Review(5): 10.",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/industry-magazines"
+    },
+    {
+      "title": "Patent informatics for collaboration management.\"PARTNER - Institute for Collaborative Working(May): 109-111",
+      "year": 2015,
+      "citation_raw": "Tietze, F. and D. Probert (2015). Patent informatics for collaboration management.\"PARTNER - Institute for Collaborative Working(May): 109-111.",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/industry-magazines"
+    },
+    {
+      "title": "Additive Manufacturing Innovations by UK Organisations",
+      "year": 2015,
+      "citation_raw": "Additive Manufacturing Innovations by UK Organisations A review of patents and literature published between 2006 and 2015",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/reports"
+    },
+    {
+      "title": "The working papers listed below are selected papers with an IP focus extracted from the CTM working paper series (ISSN 2058-8887)",
+      "year": 2026,
+      "citation_raw": "Working Papers The working papers listed below are selected papers with an IP focus extracted from the CTM working paper series (ISSN 2058-8887). Nick Wellen, Jan-Gero Alexander Hannemann, Frank Tietze (2026). Digital Rights Management and AI Licensing in the Creative Industries: Mapping the Emerging Digital Licensing Ecosystem. https://doi.org/10.17863/CAM.134189",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/working-papers"
+    },
+    {
+      "title": "Governance Technology in the Sharing Economy - A literature review and conceptual framework",
+      "year": 2025,
+      "citation_raw": "Qi Ang Du, Frank Tietze (2025). Governance Technology in the Sharing Economy - A literature review and conceptual framework. https://www.repository.cam.ac.uk/handle/1810/387165",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/working-papers"
+    },
+    {
+      "title": "Conceptualizing disruptive innovation paths, patent zero and patent-data based operationalization",
+      "year": 2024,
+      "citation_raw": "Melanie Martini, Frank Tietze, Marcus John, Leonidas Aristodemou, Alexander Schönmann, Sven Schimpf (2024). Conceptualizing disruptive innovation paths, patent zero and patent-data based operationalization. https://doi.org/10.17863/CAM.111428",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/working-papers"
+    },
+    {
+      "title": "Intellectual Property Protection and Sustainability - Keys to Crowdfunding Success? https://doi.org/10.17863/CAM.110559",
+      "year": 2024,
+      "citation_raw": "Hanna Jäschke, Johann Nils Foege, Frank Tietze, Thomas Schäper (2024). Intellectual Property Protection and Sustainability - Keys to Crowdfunding Success? https://doi.org/10.17863/CAM.110559",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/working-papers"
+    },
+    {
+      "title": "SVEL – Introducing the Standardised Visualising Ecosystem Language for Temporally Capturing Competitive Dynamics in Evolving Innovation Ecosystems",
+      "year": 2022,
+      "citation_raw": "Alexander Moerchel, Frank Tietze, Florian Urmetzer (2022). SVEL – Introducing the Standardised Visualising Ecosystem Language for Temporally Capturing Competitive Dynamics in Evolving Innovation Ecosystems. https://www.repository.cam.ac.uk/handle/1810/334662",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/working-papers"
+    },
+    {
+      "title": "A Literature Review on Technology Development Process (TDP) Models",
+      "year": 2019,
+      "citation_raw": "Leonidas Aristodemou, Frank Tietze, Elizabeth O'Leary, Matt Shaw (2019). A Literature Review on Technology Development Process (TDP) Models. https://www.repository.cam.ac.uk/handle/1810/288413",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/working-papers"
+    },
+    {
+      "title": "A Literature Review on the state-of-the-art on Intellectual Property Analytics (IPA)",
+      "year": 2017,
+      "citation_raw": "Leonidas Aristodemou, Frank Tietze (2017). A Literature Review on the state-of-the-art on Intellectual Property Analytics (IPA). https://www.repository.cam.ac.uk/handle/1810/268007",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/working-papers"
+    },
+    {
+      "title": "To own or to use? How product service systems facilitate eco-innovation behavior",
+      "year": 2016,
+      "citation_raw": "Frank Tietze, Erik Hansen (2016). To own or to use? How product service systems facilitate eco-innovation behavior. https://doi.org/10.17863/CAM.13931",
+      "source_url": "https://www.iipm.eng.cam.ac.uk/publications-0/working-papers"
+    }
+  ]
+}

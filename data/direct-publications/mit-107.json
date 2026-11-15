@@ -1,0 +1,92 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Raphael Zufferey",
+  "lab_name": null,
+  "lab_url": "https://aura.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/raphz@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/raphz@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "https://aura.mit.edu/"
+    }
+  ],
+  "attempted_urls": [
+    "https://aura.mit.edu/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "게시 목록 페이지 후보에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
+  "dropped_low_confidence": [
+    {
+      "title": "2022 Between sea and sky: Aerial Aquatic locomotion in Miniature Robots",
+      "year": 2022,
+      "citation_raw": "2022 Between sea and sky: Aerial Aquatic locomotion in Miniature Robots, Springer, R. Zufferey, R. Siddall, S. F. Armanini, M. Kovac",
+      "source_url": "https://meche.mit.edu/people/faculty/raphz@mit.edu"
+    },
+    {
+      "title": "2022 How ornithopters can perch autonomously on a branch",
+      "year": 2022,
+      "citation_raw": "2022 How ornithopters can perch autonomously on a branch, Nature Communications, R. Zufferey, J. Barbero, D. Feliu-Talegón, S. Rafee Nekoo, JA. Acosta, A. Ollero",
+      "source_url": "https://meche.mit.edu/people/faculty/raphz@mit.edu"
+    },
+    {
+      "title": "2019 Multiple Consecutive Jet-gliding Flights with Water-reactive Fuel",
+      "year": 2019,
+      "citation_raw": "2019 Multiple Consecutive Jet-gliding Flights with Water-reactive Fuel, Science Robotics, R. Zufferey, A. Ortega Ancel, A. Farinha, [...] and M. Kovac",
+      "source_url": "https://meche.mit.edu/people/faculty/raphz@mit.edu"
+    },
+    {
+      "title": "2019 SailMAV: design and implementation of a novel multi-modal flying sailing robots",
+      "year": 2019,
+      "citation_raw": "2019 SailMAV: design and implementation of a novel multi-modal flying sailing robots, IEEE Robotics and Automation Letters (RA-L), R. Zufferey, A. Ortega Ancel, [...], M. Kovac",
+      "source_url": "https://meche.mit.edu/people/faculty/raphz@mit.edu"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "2018 Best Conference Paper Nominee",
+      "year": 2018,
+      "citation_raw": "2018 Best Conference Paper Nominee, ICRA conference, Brisbane",
+      "source_url": "https://meche.mit.edu/people/faculty/raphz@mit.edu"
+    },
+    {
+      "title": "2025 Workshop lead organizer for International Conference on Robotics and Intelligent Systems",
+      "year": 2025,
+      "citation_raw": "Professional Service 2025 Workshop lead organizer for International Conference on Robotics and Intelligent Systems",
+      "source_url": "https://meche.mit.edu/people/faculty/raphz@mit.edu"
+    },
+    {
+      "title": "2022 Between sea and sky: Aerial Aquatic locomotion in Miniature Robots",
+      "year": 2022,
+      "citation_raw": "2022 Between sea and sky: Aerial Aquatic locomotion in Miniature Robots, Springer, R. Zufferey, R. Siddall, S. F. Armanini, M. Kovac",
+      "source_url": "https://meche.mit.edu/people/faculty/raphz@mit.edu"
+    },
+    {
+      "title": "2022 How ornithopters can perch autonomously on a branch",
+      "year": 2022,
+      "citation_raw": "2022 How ornithopters can perch autonomously on a branch, Nature Communications, R. Zufferey, J. Barbero, D. Feliu-Talegón, S. Rafee Nekoo, JA. Acosta, A. Ollero",
+      "source_url": "https://meche.mit.edu/people/faculty/raphz@mit.edu"
+    },
+    {
+      "title": "2019 Multiple Consecutive Jet-gliding Flights with Water-reactive Fuel",
+      "year": 2019,
+      "citation_raw": "2019 Multiple Consecutive Jet-gliding Flights with Water-reactive Fuel, Science Robotics, R. Zufferey, A. Ortega Ancel, A. Farinha, [...] and M. Kovac",
+      "source_url": "https://meche.mit.edu/people/faculty/raphz@mit.edu"
+    },
+    {
+      "title": "2019 SailMAV: design and implementation of a novel multi-modal flying sailing robots",
+      "year": 2019,
+      "citation_raw": "2019 SailMAV: design and implementation of a novel multi-modal flying sailing robots, IEEE Robotics and Automation Letters (RA-L), R. Zufferey, A. Ortega Ancel, [...], M. Kovac",
+      "source_url": "https://meche.mit.edu/people/faculty/raphz@mit.edu"
+    }
+  ]
+}

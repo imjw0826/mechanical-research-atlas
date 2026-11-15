@@ -1,0 +1,787 @@
+=== https://mrl.ethz.ch/publications.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Mobile Robotics Lab
+Main Navigation
+Lab
+Research
+Education
+Publications
+(active)
+Search
+Departments
+ETH Zurich
+D-MAVT
+IRIS
+Mobile Robotics Lab
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 1 loaded
+1 – 10 of 37
+AERO-VIS: Asynchronous Event-Based Real-Time Onboard Visual-Inertial SLAM
+Yannick Burkhardt, Sebastián Barbas Laina, Simon Boche, Leonard Freissmuth and Stefan Leutenegger
+IEEE Robotics and Automation Letters, vol. 11: no. 10, pp. 11689-11696, IEEE, 2026.
+external page:
+DOI: 10.1109/LRA.2026.3726392
+external page:
+Research Collection
+Abstract 
+
+The robustness of event cameras to high dynamic range and motion blur holds the potential to improve visual odometry systems in challenging environments. Although their high temporal resolution does not require synchronous processing, most event-based odometry methods still run at fixed rates, which simplifies system design but restricts latency and throughput. In this work, we present AERO-VIS, a stereo event-inertial SLAM system with an integrated, data-driven, robust, and performance-optimized keypoint detector. By decoupling event preprocessing from state estimation, our architecture operates asynchronously at the maximum rate supported by available hardware, dynamically adapting to downstream runtime demands and ensuring low-latency, real-time performance. When deploying AERO-VIS on a UAV, we achieve unprecedented accuracy in onboard event-based SLAM. These unique characteristics enable us to present the first purely event-based inertial SLAM system that demonstrates closed-loop UAV control and large-scale state estimation while relying solely on onboard compute.
+
+SplatXtRact: Tractable Gaussian Splatting via Open World Region-of-Interest Extraction and Refinement
+Hannah Schieber, Constantin Kleinbeck, Angela P. Schoellig, Stefan Leutenegger and Daniel Roth
+IEEE Robotics and Automation Letters, vol. 11: no. 7, pp. 8664-8671, IEEE, 2026.
+external page:
+DOI: 10.1109/LRA.2026.3699257
+external page:
+Research Collection
+Abstract 
+
+We present a task-conditioned refinement for 3D Gaussian Splatting (GS) that enables robots or human operators to selectively extract task-relevant regions of a learned scene. Given a pre-trained GS map, our approach supports local region-of-interest (ROI) refinement, preserving a global map consistency while meeting close to real-time constraints required for interactive robotic perception. The framework decouples semantic ROI selection from initial GS optimization, allowing flexible integration with external and novel perception models. We evaluate our approach on indoor and outdoor data (TUM RGB-D, MipNeRF360), demonstrating a higher novel view synthesis quality compared to the state-of-the-art, reduced artifacts, and bounded latency suitable for human-in-the-loop operation.
+
+GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting
+Jiaxin Wei, Stefan Leutenegger and Simon Schaefer
+13th International Conference on 3D Vision (3DV 2026), Vancouver, Canada, pp.1051-1060, Piscataway, NJ: IEEE, March 20-23, 2026.
+external page:
+DOI: 10.1109/3DV69130.2026.00105
+external page:
+Research Collection
+Abstract 
+
+Recent developments in 3D Gaussian Splatting have significantly enhanced novel view synthesis, yet generating high-quality renderings from extreme novel viewpoints or partially observed regions remains challenging. Meanwhile, diffusion models exhibit strong generative capabilities, but their lack of awareness of specific scene information hinders accurate 3D reconstruction tasks. To address these limitations, we introduce GSFix3D, a novel framework that improves the visual fidelity in under-constrained regions by distilling prior knowledge from diffusion models into 3D representations, while preserving consistency with observed scene details. At its core is GSFixer, a latent diffusion model obtained via our customized finetuning protocol that can leverage both mesh and 3D Gaussians to adapt pretrained generative models to a variety of environments and artifact types from different reconstruction methods, enabling robust novel view repair for unseen camera poses. Moreover, we propose a random mask augmentation strategy that empowers GSFixer to plausibly inpaint missing regions. Experiments on challenging benchmarks demonstrate that our GSFix3D and GSFixer achieve state-of-the-art performance, requiring only minimal scene-specific fine-tuning on captured data. Realworld test further confirms its resilience to potential pose errors. Our code and data are publicly available: https://github.com/GSFix3D/GSFix3D.
+
+DigiForest: Digital Analytics and Robotics for Sustainable Forestry
+Marco Camurri, Enrico Tomelleri, Matías Mattamala, Sebastán Barbas Laina, Martin Jacquet, Jens Behley, Sunni Kanta Prasad Kushwaha, Fang Nan, Niven Chebrolu, Leonard Freißmuth, Marvin Harms, Meher V.R. Malladi, Fan Yang, Jonas Frey, Cesar Cadena, Marco Hutter, Janine Schweier, Kostas Alexis, Cyrill Stachniss, Maurice Fallon and Stefan Leutenegger
+In Recent Advances in Robotic Perception for Forestry, edited by Portugal, David, vol. 1258 , pp. 589-622, Cham: Springer, 2026.
+external page:
+DOI: 10.1007/978-3-032-15812-3_22
+external page:
+Research Collection
+Abstract 
+
+Covering one third of Earth’s land surface, forests are vital to global biodiversity, climate regulation, and human well-being. In Europe, forests and woodlands reach approximately 40% of land area, and the forestry sector is central to achieving the EU’s climate neutrality and biodiversity goals; these emphasize sustainable forest management, increased use of long-lived wood products, and resilient forest ecosystems. To meet these goals and properly address their inherent challenges, current practices require further innovation. This chapter introduces DigiForest, a novel, large-scale precision forestry approach leveraging digital technologies and autonomous robotics. DigiForest is structured around four main components: (1) autonomous, heterogeneous mobile robots (aerial, legged, and marsupial) for tree-level data collection; (2) automated extraction of tree traits to build forest inventories; (3) a Decision Support System (DSS) for forecasting forest growth and supporting decision-making; and (4) low-impact selective logging using purpose-built autonomous harvesters. These technologies have been extensively validated in real-world conditions in several locations, including forests in Finland, the UK, and Switzerland.
+
+FrontierNet: Learning Visual Cues to Explore
+Boyang Sun, Hanzhi Chen, Stefan Leutenegger, Cesar Cadena, Marc Pollefeys and Hermann Blum
+IEEE Robotics and Automation Letters, vol. 10: no. 7, pp. 6576-6583, IEEE, 2025.
+external page:
+DOI: 10.1109/LRA.2025.3569122
+external page:
+Research Collection
+Abstract 
+
+Exploration of unknown environments is crucial for autonomous robots; it allows them to actively reason and decide on what new data to acquire for different tasks, such as mapping, object discovery, and environmental assessment. Existing solutions, such as frontier-based exploration approaches, rely heavily on 3D map operations, which are limited by map quality and, more critically, often overlook valuable context from visual cues. This work aims at leveraging 2D visual cues for efficient autonomous exploration, addressing the limitations of extracting goal poses from a 3D map. We propose a visual-only frontier-based exploration system, with FrontierNet as its core component. FrontierNet is a learning-based model that (i) proposes frontiers, and (ii) predicts their information gain, from posed RGB images enhanced by monocular depth priors. Our approach provides an alternative to existing 3D-dependent goal-extraction approaches, achieving a 15% improvement in early-stage exploration efficiency, as validated through extensive simulations and real-world experiments.
+
+FrontierNet: Learning Visual Cues to Explore
+Boyang Sun, Hanzhi Chen, Stefan Leutenegger, Cesar Cadena, Marc Pollefeys and Hermann Blum
+IEEE Robotics and Automation Letters, vol. 10: no. 7, pp. 6576-6583, IEEE, 2025.
+external page:
+DOI: 10.1109/LRA.2025.3569122
+external page:
+Research Collection
+Abstract 
+
+Exploration of unknown environments is crucial for autonomous robots; it allows them to actively reason and decide on what new data to acquire for different tasks, such as mapping, object discovery, and environmental assessment. Existing solutions, such as frontier-based exploration approaches, rely heavily on 3D map operations, which are limited by map quality and, more critically, often overlook valuable context from visual cues. This work aims at leveraging 2D visual cues for efficient autonomous exploration, addressing the limitations of extracting goal poses from a 3D map. We propose a visual-only frontier-based exploration system, with FrontierNet as its core component. FrontierNet is a learning-based model that (i) proposes frontiers, and (ii) predicts their information gain, from posed RGB images enhanced by monocular depth priors. Our approach provides an alternative to existing 3D-dependent goal-extraction approaches, achieving a 15% improvement in early-stage exploration efficiency, as validated through extensive simulations and real-world experiments.
+
+VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation
+Hanzhi Chen, Boyang Sun, Anran Zhang, Marc Pollefeys and Stefan Leutenegger
+2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025), Nashville, TN, USA, pp.27661-27672, Piscataway, NJ: IEEE, June 10-17, 2025.
+external page:
+DOI: 10.1109/CVPR52734.2025.02576
+external page:
+Research Collection
+Abstract 
+
+Future robots are envisioned as versatile systems capable of performing a variety of household tasks. The big question remains, how can we bridge the embodiment gap while minimizing physical robot learning, which fundamentally does not scale well. We argue that learning from in-the-wild human videos offers a promising solution for robotic manipulation tasks, as vast amounts of relevant data already exist on the internet. In this work, we present VidBot, a framework enabling zero-shot robotic manipulation using learned 3D affordance from in-the-wild monocular RGB-only human videos. VidBot leverages a pipeline to extract explicit representations from them, namely 3D hand trajectories from videos, combining a depth foundation model with structure-from-motion techniques to reconstruct temporally consistent, metric-scale 3D affordance representations agnostic to embodiments. We introduce a coarse-to-fine affordance learning model that first identifies coarse actions from the pixel space and then generates fine-grained interaction trajectories with a diffusion model, conditioned on coarse actions and guided by test-time constraints for context-aware interaction planning, enabling substantial generalization to novel scenes and embodiments. Extensive experiments demonstrate the efficacy of VidBot, which significantly outperforms counterparts across 13 manipulation tasks in zero-shot settings and can be seamlessly deployed across robot systems in real-world environments. VidBot paves the way for leveraging everyday human videos to make robot learning more scalable.
+
+Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping
+Jaehyung Jung, Simon Boche, Sebastián Barbas Laina and Stefan Leutenegger
+42nd IEEE International Conference on Robotics and Automation (ICRA 2025), Atlanta, GA, USA, pp.14550-14556, Piscataway, NJ: IEEE, May 19-23, 2025.
+external page:
+DOI: 10.1109/icra55743.2025.11127824
+external page:
+Research Collection
+Abstract 
+
+We propose visual-inertial simultaneous localization and mapping that tightly couples sparse reprojection errors, inertial measurement unit pre-integrals, and relative pose factors with dense volumetric occupancy mapping. Hereby depth predictions from a deep neural network are fused in a fully probabilistic manner. Specifically, our method is rigorously uncertainty-aware: first, we use depth and uncertainty predictions from a deep network not only from the robot's stereo rig, but we further probabilistically fuse motion stereo that provides depth information across a range of baselines, therefore drastically increasing mapping accuracy. Next, predicted and fused depth uncertainty propagates not only into occupancy probabilities but also into alignment factors between generated dense submaps that enter the probabilistic non-linear least squares estimator. This submap representation offers globally consistent geometry at scale. Our method is thoroughly evaluated in two benchmark datasets, resulting in localization and mapping accuracy that exceeds the state of the art, while simultaneously offering volumetric occupancy directly usable for downstream robotic planning and control in real-time.
+
+OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS
+Simon Boche, Jaehyung Jung, Sebastián Barbas Laina and Stefan Leutenegger
+IEEE Transactions on Robotics, vol. 41, pp. 6064-6083, IEEE, 2025.
+external page:
+DOI: 10.1109/TRO.2025.3619051
+external page:
+Research Collection
+Abstract 
+
+To empower mobile robots with usable maps as well as highest state estimation accuracy and robustness, we present OKVIS2-X: a state-of-the-art multisensor simultaneous localization and mapping (SLAM) system building dense volumetric occupancy maps, while scalable to large environments and operating in realtime. Our unified SLAM framework seamlessly integrates different sensor modalities: visual, inertial, measured or learned depth, LiDAR, and Global Navigation Satellite System (GNSS) measurements. Unlike most state-of-the-art SLAM systems, we advocate using dense volumetric map representations when leveraging depth or range-sensing capabilities. We employ an efficient submapping strategy that allows our system to scale to large environments, showcased in sequences of up to 9 km. OKVIS2-X enhances its accuracy and robustness by tightly-coupling the estimator and submaps through map alignment factors. Our system provides globally consistent maps, directly usable for autonomous navigation. To further improve the accuracy of OKVIS2-X, we also incorporate the option of performing online calibration of camera extrinsics. Our system achieves the highest trajectory accuracy in EuRoC against state-of-the-art alternatives, outperforms all competitors in the Hilti22 VI-only benchmark, while also proving competitive in the LiDAR version, and showcases state of the art accuracy in the diverse and large-scale sequences from the VBR dataset.
+
+SOLVR: Submap Oriented LiDAR-Visual Re-Localisation
+Joshua Knights, Sebastián Barbas Laina, Peyman Moghadam and Stefan Leutenegger
+42nd IEEE International Conference on Robotics and Automation (ICRA 2025), Atlanta, GA, USA, pp.6387-6393, Piscataway, NJ: IEEE, May 19-23, 2025.
+external page:
+DOI: 10.1109/icra55743.2025.11127845
+external page:
+Research Collection
+Abstract 
+
+This paper proposes SOLVR, a unified pipeline for learning based LiDAR-Visual re-localisation which performs place recognition and 6-DoF registration across sensor modalities. We propose a strategy to align the input sensor modalities by leveraging stereo image streams to produce metric depth predictions with pose information, followed by fusing multiple scene views from a local window using a probabilistic occupancy framework to expand the limited field-of-view of the camera. Additionally, SOLVR adopts a flexible definition of what constitutes positive examples for different training losses, allowing us to simultaneously optimise place recognition and registration performance. Furthermore, we replace RANSAC with a registration function that weights a simple least-squares fitting with the estimated inlier likelihood of sparse keypoint correspondences, improving performance in scenarios with a low inlier ratio between the query and retrieved place. Our experiments on the KITTI and KITTI360 datasets show that SOLVR achieves state-of-the-art performance for LiDAR-Visual place recognition and registration, particularly improving registration accuracy over larger distances between the query and retrieved place.
+
+Previous
+Next
+
+As publications are added in the official ETH Research Collection database, this list will populate.
+
+Related content
+Lab
+Research
+Education
+To homepage
+Footer
+Search
+Keyword or person
+Follow us
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Email
+mrl-info@ethz.ch
+
+Mobile Robotics Lab
+Leonhardstrasse 21
+LEE J 206
+8092 Zurich
+Switzerland
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Mobile Robotics Lab
+Main Navigation
+Lab
+Research
+Education
+Publications
+(active)
+Search
+Departments
+ETH Zurich
+D-MAVT
+IRIS
+Mobile Robotics Lab
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 2 loaded
+11 – 20 of 37
+Scalable Outdoors Autonomous Drone Flight with Visual-Inertial SLAM and Dense Submaps Built without LiDAR
+Sebastián Barbas Laina, Simon Boche, Sotiris Papatheodorou, Dimos Tzoumanikas, Simon Schaefer, Hanzhi Chen and Stefan Leutenegger
+38th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China, pp.5440-5447, Piscataway, NJ: IEEE, October 19-25.
+external page:
+DOI: 10.1109/IROS60139.2025.11247748
+external page:
+Research Collection
+Abstract 
+
+Autonomous navigation is needed for several robotics applications. In this paper we present an autonomous Micro Aerial Vehicle (MAV) system which purely relies on cost-effective and light-weight passive visual and inertial sensors to perform large-scale autonomous navigation in outdoor, unstructured and cluttered environments. We leverage visual-inertial simultaneous localization and mapping (VI-SLAM) for accurate MAV state estimates and couple it with a volumetric occupancy submapping system to achieve a scalable mapping framework which can be directly used for path planning. To ensure the safety of the MAV during navigation, we also propose a novel reference trajectory anchoring scheme that deforms the reference trajectory the MAV is tracking upon state updates from the VI-SLAM system in a consistent way, even upon large state updates due to loop-closures. We thoroughly validate our system in both real and simulated forest environments and at peak velocities up to 3 m/s – while not encountering a single collision or system failure. To the best of our knowledge, this is the first system which achieves this level of performance in such an unstructured environment using low-cost passive visual sensors and fully on-board computation, including VI-SLAM. Code available at https://github.com/ethz-mrl/mrl_navigation.
+
+Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras
+Sotiris Papatheodorou, Simon Boche, Sebastián Barbas Laina and Stefan Leutenegger
+42nd IEEE International Conference on Robotics and Automation (ICRA 2025), Atlanta, GA, USA, pp.7284-7290, Piscataway, NJ: IEEE, May 19-23, 2025.
+external page:
+DOI: 10.1109/ICRA55743.2025.11128702
+external page:
+Research Collection
+Abstract 
+
+Autonomous exploration of unknown space is an essential component for the deployment of mobile robots in the real world. Safe navigation is crucial for all robotics applications and requires accurate and consistent maps of the robot's surroundings. To achieve full autonomy and allow deployment in a wide variety of environments, the robot must rely on onboard state estimation which is prone to drift over time. We propose a Micro Aerial Vehicle (MAV) exploration framework based on local submaps to allow retaining global consistency by applying loop-closure corrections to the relative submap poses. To enable large-scale exploration we efficiently compute global, environment-wide frontiers from the local submap frontiers and use a sampling-based next-best-view exploration planner. Our method seamlessly supports using either a LiDAR sensor or a depth camera, making it suitable for different kinds of MAV platforms. We perform comparative evaluations in simulation against a state-of-the-art submap-based exploration framework to showcase the efficiency and reconstruction quality of our approach. Finally, we demonstrate the applicability of our method to real-world MAVs, one equipped with a LiDAR and the other with a depth camera.
+
+REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation
+Débora N.P. Oliveira, Joshua Knights, Sebastián Barbas Laina, Simon Boche, Wolfram Burgard and Stefan Leutenegger
+38th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China, pp.2507-2513, Piscataway, NJ: IEEE, October 19-25, 2025.
+external page:
+DOI: 10.1109/iros60139.2025.11247249
+external page:
+Research Collection
+Abstract 
+
+Loop closures are essential for correcting odometry drift and creating consistent maps, especially in the context of large-scale navigation. Current methods using dense point clouds for accurate place recognition do not scale well due to computationally expensive scan-to-scan comparisons. Alternative object-centric approaches are more efficient but often struggle with sensitivity to viewpoint variation. In this work, we introduce REGRACE, a novel approach that addresses these challenges of scalability and perspective difference in re-localization by using LiDAR-based submaps. We introduce rotation-invariant features for each labeled object and enhance them with neighborhood context through a graph neural network. To identify potential revisits, we employ a scalable bag-of-words approach, pooling one learned global feature per submap. Additionally, we define a revisit with geometrical consistency cues rather than embedding distance, allowing us to recognize far-away loop closures. Our evaluations demonstrate that REGRACE achieves similar results compared to state-ofthe-art place recognition and registration baselines while being twice as fast. Code and models are publicly available†.
+
+SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM
+Yannick Burkhardt, Simon Schaefer and Stefan Leutenegger
+20th IEEE/CVF International Conference on Computer Vision (ICCV 2025), Honolulu, HI, USA, pp.8918-8928, Piscataway, NJ: IEEE, October 19-23, 2025.
+external page:
+DOI: 10.1109/ICCV51701.2025.00834
+external page:
+Research Collection
+Abstract 
+
+Event-based keypoint detection and matching holds signif icant potential, enabling the integration of event sensors into highly optimized Visual SLAM systems developed for frame cameras over decades of research. Unfortunately, ex isting approaches struggle with the motion-dependent ap pearance of keypoints and the complex noise prevalent in event streams, resulting in severely limited feature matching capabilities and poor performance on downstream tasks. To mitigate this problem, we propose SuperEvent, a data driven approach to predict stable keypoints with expres sive descriptors. Due to the absence of event datasets with ground truth keypoint labels, we leverage existing frame based keypoint detectors on readily available event-aligned and synchronized gray-scale frames for self-supervision: we generate temporally sparse keypoint pseudo-labels con sidering that events are a product of both scene appearance and camera motion. Combined with our novel, information rich event representation, we enable SuperEvent to effec tively learn robust keypoint detection and description in event streams. Finally, we demonstrate the usefulness of SuperEvent by its integration into a modern sparse keypoint and descriptor-based SLAM framework originally devel oped for traditional cameras, surpassing the state-of-the art in event-based SLAM by a wide margin. Source code is available at ethz-mrl.github.io/SuperEvent.
+
+Advancing construction in existing contexts: Prospects and barriers of 3d printing with mobile robots for building maintenance and repair
+Kathrin Dörfler, Gido Dielemans, Stefan Leutenegger, Selen Ercan Jenny, Johannes Pankert, Julius Sustarevas, Lukas Lachmayer, Annika Raatz and Dirk Lowke
+Cement and Concrete Research, vol. 186, pp. 107656, Elsevier, 2024.
+external page:
+DOI: 10.1016/j.cemconres.2024.107656
+external page:
+Research Collection
+Abstract 
+
+Mobile robots for 3D printing applications are ready to transition from factory floors to building sites. Their remarkable flexibility and adaptability support a variety of deposition-based 3D printing technologies that utilise materials ranging from concrete and earth for extrusion, spraying, or shotcreting to metals for processes like Wire Arc Additive Manufacturing. Not confined to new constructions alone, their mobility enables utilisation in corrective building maintenance, restoration, revitalisation, and repair. Their ability to cooperate with one another allows for deployment in multi-robot settings, offering scalability in speed by their number. Despite their promising potential, mobile 3D printing robots also encounter numerous technological challenges. These include ensuring the mechanical properties of printed structures meet required building codes, designing robust mechanical systems for large-scale construction projects, and integrating these systems seamlessly with existing architectural planning tools. Moreover, enhancing the precision and robustness of these robots through advanced sensing and control technologies is critical for their effective application in building manufacturing. With this paper, we detail selected current research trajectories and give insights into current challenges, open questions, and key prospects associated with mobile 3D printing robots for on-site construction within existing environments. To enrich the discussion, insights into potential architectural application scenarios for revitalising, repairing, and strengthening building structures are provided. The complex, interdisciplinary nature of these challenges underscores the need for a collaborative approach in advancing the field of mobile 3D printing technology.
+
+Dynamic LiDAR Re-simulation using Compositional Neural Fields
+Hanfeng Wu, Xingxing Zuo, Stefan Leutenegger, Or Litany, Konrad Schindler and Shengyu Huang
+2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024), Seattle, WA, USA, pp.19988-19998, Piscataway, NJ: IEEE, June 16-22, 2024.
+external page:
+DOI: 10.1109/CVPR52733.2024.01889
+external page:
+Research Collection
+Abstract 
+
+We introduce DyNFL, a novel neural field-based approach for high-fidelity re-simulation of LiDAR scans in dynamic driving scenes. DyNFL processes LiDAR measurements from dynamic environments, accompanied by bounding boxes of moving objects, to construct an editable neural field. This field, comprising separately reconstructed static background and dynamic objects, allows users to modify viewpoints, adjust object positions, and seamlessly add or remove objects in the re-simulated scene. A key innovation of our method is the neural field composition technique, which effectively integrates reconstructed neural assets from various scenes through a ray drop test, accounting for occlusions and transparent surfaces. Our evaluation with both synthetic and real-world environments demonstrates that DyNFL substantially improves dynamic scene LiDAR simulation, offering a combination of physical fidelity and flexible editing capabilities. [project page]
+
+IN-Sight: Interactive Navigation through Sight
+Philipp Schoch, Fan Yang, Yuntao Ma, Stefan Leutenegger, Marco Hutter and Quentin Leboutet
+37th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, United Arab Emirates, pp.7794-7800, Piscataway, NJ: IEEE, October 14-18, 2024.
+external page:
+DOI: 10.1109/IROS58592.2024.10801928
+external page:
+ Research Collection
+Abstract 
+
+Current visual navigation systems often treat the environment as static, lacking the ability to adaptively interact with obstacles. This limitation leads to navigation failure when encountering unavoidable obstructions. In response, we introduce IN-Sight, a novel approach to self-supervised path planning, enabling more effective navigation strategies through interaction with obstacles. Utilizing RGB-D observations, IN-Sight calculates traversability scores and incorporates them into a semantic map, facilitating long-range path planning in complex, maze-like environments. To precisely navigate around obstacles, IN-Sight employs a local planner, trained imperatively on a differentiable costmap using representation learning techniques. The entire framework undergoes end-to-end training within the state-of-the-art photorealistic Intel SPEAR Simulator. We validate the effectiveness of IN-Sight through extensive benchmarking in a variety of simulated scenarios and ablation studies. Moreover, we demonstrate the system's real-world applicability with zero-shot sim-to-real transfer, deploying our planner on the legged robot platform ANYmal, showcasing its practical potential for interactive navigation in real environments.
+
+Event-Based Vision: A Survey
+Guillermo Gallego, Tobias Delbrück, Garrick Michael Orchard, Chiara Bartolozzi, Brian Taba, Andrea Censi, Stefan Leutenegger, Andrew J. Davison, Jörg Conradt, Kostas Daniilidis and Davide Scaramuzza
+IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44: no. 1, pp. 154-180, IEEE, 2022.
+external page:
+DOI: 10.1109/TPAMI.2020.3008413
+external page:
+Research Collection
+Abstract 
+
+Event cameras are bio-inspired sensors that differ from conventional frame cameras: Instead of capturing images at a fixed rate, they asynchronously measure per-pixel brightness changes, and output a stream of events that encode the time, location and sign of the brightness changes. Event cameras offer attractive properties compared to traditional cameras: high temporal resolution (in the order of μ s), very high dynamic range (140 dB versus 60 dB), low power consumption, and high pixel bandwidth (on the order of kHz) resulting in reduced motion blur. Hence, event cameras have a large potential for robotics and computer vision in challenging scenarios for traditional cameras, such as low-latency, high speed, and high dynamic range. However, novel methods are required to process the unconventional output of these sensors in order to unlock their potential. This paper provides a comprehensive overview of the emerging field of event-based vision, with a focus on the applications and the algorithms developed to unlock the outstanding properties of event cameras. We present event cameras from their working principle, the actual sensors that are available and the tasks that they have been used for, from low-level vision (feature detection and tracking, optic flow, etc.) to high-level vision (reconstruction, segmentation, recognition). We also discuss the techniques developed to process events, including learning-based techniques, as well as specialized processors for these novel sensors, such as spiking neural networks. Additionally, we highlight the challenges that remain to be tackled and the opportunities that lie ahead in the search for a more efficient, bio-inspired way for machines to perceive and interact with the world.
+
+Aerial Manipulation Using Hybrid Force and Position NMPC Applied to Aerial Writing
+Dimos Tzoumanikas, Felix Graule, Qingyue Yan, Dhruv Shah, Marija Popović and Stefan Leutenegger
+16th Conference on Robotics: Science and Systems (RSS 2020) (virtual), Corvalis, OR, USA s.l.: Robotics: Science and Systems Foundation, July 12-16, 2020.
+external page:
+DOI: 10.15607/RSS.2020.XVI.046
+external page:
+Research Collection
+Abstract 
+
+Aerial manipulation aims at combining the manoeuvrability of aerial vehicles with the manipulation capabilities of robotic arms. This, however, comes at the cost of the additional control complexity due to the coupling of the dynamics of the two systems. In this paper we present a NMPC specifically designed for MAVs equipped with a robotic arm. We formulate a hybrid control model for the combined MAV-arm system which incorporates interaction forces acting on the end effector. We explain the practical implementation of our algorithm and show extensive experimental results of our custom built system performing multiple aerial-writing tasks on a whiteboard, revealing accuracy in the order of millimetres.
+
+Fast Frontier-based Information-driven Autonomous Exploration with an MAV
+Anna Dai, Sotiris Papatheodorou, Nils Funk, Dimos Tzoumanikas and Stefan Leutenegger
+IEEE International Conference on Robotics and Automation (ICRA 2020), Online, pp.9570-9576, Piscataway, NJ: IEEE, May 31 - August 31, 2020.
+external page:
+DOI: 10.1109/ICRA40945.2020.9196707
+external page:
+Research Collection
+Abstract 
+
+Exploration and collision-free navigation through an unknown environment is a fundamental task for autonomous robots. In this paper, a novel exploration strategy for Micro Aerial Vehicles (MAVs) is presented. The goal of the exploration strategy is the reduction of map entropy regarding occupancy probabilities, which is reflected in a utility function to be maximised. We achieve fast and efficient exploration performance with tight integration between our octree-based occupancy mapping approach, frontier extraction, and motion planning-as a hybrid between frontier-based and sampling-based exploration methods. The computationally expensive frontier clustering employed in classic frontier-based exploration is avoided by exploiting the implicit grouping of frontier voxels in the underlying octree map representation. Candidate next-views are sampled from the map frontiers and are evaluated using a utility function combining map entropy and travel time, where the former is computed efficiently using sparse raycasting. These optimisations along with the targeted exploration of frontier-based methods result in a fast and computationally efficient exploration planner. The proposed method is evaluated using both simulated and real-world experiments, demonstrating clear advantages over state-of-the-art approaches. © 2020 IEEE.
+
+Previous
+Next
+
+As publications are added in the official ETH Research Collection database, this list will populate.
+
+Related content
+Lab
+Research
+Education
+To homepage
+Footer
+Search
+Keyword or person
+Follow us
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Email
+mrl-info@ethz.ch
+
+Mobile Robotics Lab
+Leonhardstrasse 21
+LEE J 206
+8092 Zurich
+Switzerland
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Mobile Robotics Lab
+Main Navigation
+Lab
+Research
+Education
+Publications
+(active)
+Search
+Departments
+ETH Zurich
+D-MAVT
+IRIS
+Mobile Robotics Lab
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 3 loaded
+21 – 30 of 37
+Fully autonomous micro air vehicle flight and landing on a moving target using visual–inertial estimation and model-predictive control
+Dimos Tzoumanikas, Wenbin Li, Marius Grimm, Mirko Kovač and Stefan Leutenegger
+Journal of Field Robotics, vol. 36: no. 1, pp. 49-77, Wiley, 2019.
+external page:
+DOI: 10.1002/rob.21821
+external page:
+Research Collection
+Abstract 
+
+The Mohamed Bin Zayed International Robotics Challenge (MBZIRC) held in spring 2017 was a very successful competition well attended by teams from all over the world. One of the challenges (Challenge 1) required an aerial robot to detect, follow, and land on a moving target in a fully autonomous fashion. In this paper, we present the hardware components of the micro air vehicle (MAV) we built with off the self components alongside the designed algorithms that were developed for the purposes of the competition. We tackle the challenge of landing on a moving target by adopting a generic approach, rather than following one that is tailored to the MBZIRC Challenge 1 setup, enabling easy adaptation to a wider range of applications and targets, even indoors, since we do not rely on availability of global positioning system. We evaluate our system in an uncontrolled outdoor environment where our MAV successfully and consistently lands on a target moving at a speed of up to 5.0 m/s.
+
+Efficient Octree-Based Volumetric SLAM Supporting Signed-Distance and Occupancy Mapping
+Emanuele Vespa, Nikolay Nikolov, Marius Grimm, Luigi Nardi, Paul H.J. Kelly and Stefan Leutenegger
+IEEE Robotics and Automation Letters, vol. 3: no. 2, pp. 1144-1151, IEEE, 2018.
+external page:
+DOI: 10.1109/LRA.2018.2792537
+external page:
+Research Collection
+Abstract 
+
+We present a dense volumetric simultaneous localisation and mapping (SLAM) framework that uses an octree representation for efficient fusion and rendering of either a truncated signed distance field (TSDF) or an occupancy map. The primary aim of this letter is to use one single representation of the environment that can be used not only for robot pose tracking and high-resolution mapping, but seamlessly for planning. We show that our highly efficient octree representation of space fits SLAM and planning purposes in a real-time control loop. In a comprehensive evaluation, we demonstrate dense SLAM accuracy and runtime performance on-par with flat hashing approaches when using TSDF-based maps, and considerable speed-ups when using occupancy mapping compared to standard occupancy maps frameworks. Our SLAM system can run at 10-40 Hz on a modern quadcore CPU, without the need for massive parallelization on a GPU. We, furthermore, demonstrate a probabilistic occupancy mapping as an alternative to TSDF mapping in dense SLAM and show its direct applicability to online motion planning, using the example of informed rapidly-exploring random trees (RRT∗).
+
+Design of small hand-launched solar-powered UAVs: From concept study to a multi-day world endurance record flight
+Philipp Oettershagen, Amir Melzer, Thomas Mantel, Konrad Rudin, Thomas Stastny, Bartosz Wawrzacz, Timo Hinzmann, Stefan Leutenegger, Kostas Alexis and Roland Siegwart
+Journal of Field Robotics, vol. 34: no. 7, pp. 1352-1377, Wiley, 2017.
+external page:
+DOI: 10.1002/rob.21717
+external page:
+ Research Collection
+Abstract 
+
+We present the development process behind AtlantikSolar, a small 6.9 kg hand‐launchable low‐altitude solar‐powered unmanned aerial vehicle (UAV) that recently completed an 81‐hour continuous flight and thereby established a new flight endurance world record for all aircraft below 50 kg mass. The goal of our work is to increase the usability of such solar‐powered robotic aircraft by maximizing their perpetual flight robustness to meteorological deteriorations such as clouds or winds. We present energetic system models and a design methodology, implement them in our publicly available conceptual design framework for perpetual flight‐capable solar‐powered UAVs, and finally apply the framework to the AtlantikSolar UAV. We present the detailed AtlantikSolar characteristics as a practical design example. Airframe, avionics, hardware, state estimation, and control method development for autonomous flight operations are described. Flight data are used to validate the conceptual design framework. Flight results from the continuous 81‐hour and 2,338 km covered ground distance flight show that AtlantikSolar achieves 39% minimum state‐of‐charge, 6.8 h excess time and 6.2 h charge margin. These performance metrics are a significant improvement over previous solar‐powered UAVs. A performance outlook shows that AtlantikSolar allows perpetual flight in a 6‐month window around June 21 at mid‐European latitudes, and that multi‐day flights with small optical‐ or infrared‐camera payloads are possible for the first time. The demonstrated performance represents the current state‐of‐the‐art in solar‐powered low‐altitude perpetual flight performance. We conclude with lessons learned from the three‐year AtlantikSolar UAV development process and with a sensitivity analysis that identifies the most promising technological areas for future solar‐powered UAV performance improvements.
+
+Flying Robots
+Stefan Leutenegger, Christoph Hürzeler, Amanda K. Stowers, Kostas Alexis, Markus W. Achtelik, David Lentink, Paul Y. Oh and Roland Siegwart
+In Springer Handbook of Robotics, edited by Siciliano, Bruno and Khatib, Oussama, pp. 623-670, Cham: Springer, 2016.
+external page:
+DOI: 10.1007/978-3-319-32552-1_26
+external page:
+Research Collection
+Abstract 
+
+Unmanned aircraft systems (UASs) have drawn increasing attention recently, owing to advancements in related research, technology, and applications. While having been deployed successfully in military scenarios for decades, civil use cases have lately been tackled by the robotics research community. This chapter overviews the core elements of this highly interdisciplinary field; the reader is guided through the design process of aerial robots for various applications starting with a qualitative characterization of different types of UAS. Design and modeling are closely related, forming a typically iterative process of drafting and analyzing the related properties. Therefore, we overview aerodynamics and dynamics, as well as their application to fixed-wing, rotary-wing, and flapping-wing UAS, including related analytical tools and practical guidelines. Respecting use-case-specific requirements and core autonomous robot demands, we finally provide guidelines to related system integration challenges.
+
+A Solar-Powered Hand-Launchable UAV for Low-Altitude Multi-Day Continuous Flight
+Philipp Oettershagen, Amir Melzer, Thomas Mantel, Konrad Rudin, Rainer Lotz, Dieter Siebenmann, Stefan Leutenegger, Kostas Alexis and Roland Siegwart
+IEEE International Conference on Robotics and Automation (ICRA 2015), Seattle, WA, USA, pp.3986-3993, Piscataway, NJ: IEEE, May 26-30, 2015.
+external page:
+DOI: 10.1109/ICRA.2015.7139756
+external page:
+Research Collection
+Abstract 
+
+This paper presents the conceptual design, detailed development and flight testing of AtlantikSolar, a 5.6m-wingspan solar-powered Low-Altitude Long-Endurance (LALE) Unmanned Aerial Vehicle (UAV) designed and built at ETH Zurich. The UAV is required to provide perpetual endurance at a geographic latitude of 45°N in a 4-month window centered around June 21ˢᵗ. An improved conceptual design method is presented and applied to maximize the perpetual flight robustness with respect to local meteorological disturbances such as clouds or winds. Airframe, avionics hardware, state estimation and control method development for autonomous flight operations are described. Flight test results include a 12-hour flight relying solely on batteries to replicate night-flight conditions. In addition, we present flight results from Search-And-Rescue field trials where a camera and processing pod were mounted on the aircraft to create high-fidelity 3D-maps of a simulated disaster area.
+
+Keyframe-based visual-inertial odometry using nonlinear optimization
+Stefan Leutenegger, Simon Lynen, Michael Bosse, Roland Siegwart and Paul Furgale
+The International Journal of Robotics Research, vol. 34: no. 3, pp. 314-334, SAGE, 2015.
+external page:
+DOI: 10.1177/0278364914554813
+external page:
+Research Collection
+Abstract 
+
+Combining visual and inertial measurements has become popular in mobile robotics, since the two sensing modalities offer complementary characteristics that make them the ideal choice for accurate visual–inertial odometry or simultaneous localization and mapping (SLAM). While historically the problem has been addressed with filtering, advancements in visual estimation suggest that nonlinear optimization offers superior accuracy, while still tractable in complexity thanks to the sparsity of the underlying problem. Taking inspiration from these findings, we formulate a rigorously probabilistic cost function that combines reprojection errors of landmarks and inertial terms. The problem is kept tractable and thus ensuring real-time operation by limiting the optimization to a bounded window of keyframes through marginalization. Keyframes may be spaced in time by arbitrary intervals, while still related by linearized inertial terms. We present evaluation results on complementary datasets recorded with our custom-built stereo visual–inertial hardware that accurately synchronizes accelerometer and gyroscope measurements with imagery. A comparison of both a stereo and monocular version of our algorithm with and without online extrinsics estimation is shown with respect to ground truth. Furthermore, we compare the performance to an implementation of a state-of-the-art stochastic cloning sliding-window filter. This competitive reference implementation performs tightly coupled filtering-based visual–inertial odometry. While our approach declaredly demands more computation, we show its superior performance in terms of accuracy.
+
+Robust State Estimation for Small Unmanned Airplanes
+Stefan Leutenegger, Amir Melzer, Kostas Alexis and Roland Siegwart
+IEEE Conference on Control Applications (CCA), Juan Les Antibes, France, pp.1003-1010, Piscataway, NJ: IEEE, October 8-10, 2014.
+external page:
+DOI: 10.1109/CCA.2014.6981466
+external page:
+Research Collection
+Abstract 
+
+As a basis for autonomous operation, Unmanned Aerial Systems (UAS) require an on-board state estimation that achieves both high accuracy as well as robustness with respect to certain conditions. We present a multi-sensor fusion framework based on Extended Kalman Filtering (EKF) which is light-weight enough to run on-board small unmanned airplanes using measurements from a MEMS based Inertial Measurement Unit (IMU), static and dynamic pressure sensors, as well as GPS (position and velocity) and a 3D magnetic compass. The on-board state estimator continuously estimates position, velocity, attitude and heading, IMU biases as well as the 3D wind vector in a tightly-coupled manner. In addition, airplane Angle of Attack (AoA) as well as sideslip angle can be derived by involving an aerodynamics model. The resulting infrastructure allows for unbiased orientation, airspeed and AoA tracking even in the case of GPS outages over extended periods of time. It can furthermore detect and reject outliers in sensor readings using Mahalanobis distance checks. We validate the proposed method with flight data from a small unmanned airplane: we demonstrate robustness w.r.t. outliers and GPS outages by disabling or corrupting respective flight data in post processing analyses.
+
+A synchronized visual-inertial sensor system with FPGA pre-processing for accurate real-time SLAM
+Janosch Nikolic, Joern Rehder, Michael Burri, Pascal Gohl, Stefan Leutenegger, Paul Furgale and Roland Siegwart
+IEEE International Conference on Robotics and Automation (ICRA 2014), Hong Kong, China, pp.431-437, Piscataway, NJ: IEEE, May 31 - June 7, 2014.
+external page:
+DOI: 10.1109/ICRA.2014.6906892
+external page:
+Research Collection
+Abstract 
+
+Robust, accurate pose estimation and mapping at real-time in six dimensions is a primary need of mobile robots, in particular flying Micro Aerial Vehicles (MAVs), which still perform their impressive maneuvers mostly in controlled environments. This work presents a visual-inertial sensor unit aimed at effortless deployment on robots in order to equip them with robust real-time Simultaneous Localization and Mapping (SLAM) capabilities, and to facilitate research on this important topic at a low entry barrier. Up to four cameras are interfaced through a modern ARM-FPGA system, along with an Inertial Measurement Unit (IMU) providing high-quality rate gyro and accelerometer measurements, calibrated and hardware-synchronized with the images. This facilitates a tight fusion of visual and inertial cues that leads to a level of robustness and accuracy which is difficult to achieve with purely visual SLAM systems. In addition to raw data, the sensor head provides FPGA-pre-processed data such as visual keypoints, reducing the computational complexity of SLAM algorithms significantly and enabling employment on resource-constrained platforms. Sensor selection, hardware and firmware design, as well as intrinsic and extrinsic calibration are addressed in this work. Results from a tightly coupled reference visual-inertial motion estimation framework demonstrate the capabilities of the presented system.
+
+Explicit Model Predictive Control and L1–Navigation Strategies for Fixed–Wing UAV Path Tracking
+Philipp Oettershagen, Amir Melzer, Stefan Leutenegger, Kostas Alexis and Roland Siegwart
+22nd Mediterranean Conference on Control and Automation (MED'14), Palermo, Italy, pp.1159-1165, Piscataway, NJ: IEEE, June 16-19, 2014.
+external page:
+DOI: 10.1109/MED.2014.6961532
+external page:
+Research Collection
+Abstract 
+
+A control strategy for fixed-wing Unmanned Aerial Vehicles is proposed and relies on the combination of linear model predictive control laws for the attitude dynamics of the system, along with an implementation of the L₁-navigation logic that provides attitude reference commands to achieve precise path tracking. The employed predictive controllers ensure the performance characteristics of the critical attitude loops, while respecting the actuation limitations of the platform along with safety considerations encoded as state constraints. Being explicitly computed, these strategies are computationally lightweight and allow for seamless integration on the onboard avionics. Once the desired attitude response characteristics are achieved, tuning the cascaded nonlinear L₁-navigation law becomes straightforward as lateral acceleration references can be precisely tracked. A wide set of experiments was conducted in order to evaluate the performance of the proposed strategies. As shown high quality tracking results are achieved.
+
+Keyframe-based Visual-Inertial SLAM using Nonlinear Optimization
+Stefan Leutenegger, Paul Furgale, Vincent Rabaud, Margarita Chli, Kurt Konolige and Roland Siegwart
+International Conference on Robotics: Robotics: Science and Systems IX (RSS 2013), Berlin, Germany s.l.: Robotics: Science and Systems, June 24-28, 2013.
+external page:
+Research Collection
+Previous
+Next
+
+As publications are added in the official ETH Research Collection database, this list will populate.
+
+Related content
+Lab
+Research
+Education
+To homepage
+Footer
+Search
+Keyword or person
+Follow us
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Email
+mrl-info@ethz.ch
+
+Mobile Robotics Lab
+Leonhardstrasse 21
+LEE J 206
+8092 Zurich
+Switzerland
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Mobile Robotics Lab
+Main Navigation
+Lab
+Research
+Education
+Publications
+(active)
+Search
+Departments
+ETH Zurich
+D-MAVT
+IRIS
+Mobile Robotics Lab
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Page 4 loaded
+31 – 37 of 37
+A UAV System for Inspection of Industrial Facilities
+Janosch Nikolic, Michael Burri, Joern Rehder, Stefan Leutenegger, Christoph Hürzeler and Roland Siegwart
+IEEE Aerospace Conference (AERO 2013), Big Sky, MT, USA Zürich: IEEE, March 2-9, 2013.
+external page:
+DOI: 10.1109/AERO.2013.6496959
+external page:
+Research Collection
+Abstract 
+
+This work presents a small-scale Unmanned Aerial System (UAS) capable of performing inspection tasks in enclosed industrial environments. Vehicles with such capabilities have the potential to reduce human involvement in hazardous tasks and can minimize facility outage periods. The results presented generalize to UAS exploration tasks in almost any GPS-denied indoor environment. The contribution of this work is twofold. First, results from autonomous flights inside an industrial boiler of a power plant are presented. A lightweight, vision-aided inertial navigation system provides reliable state estimates under difficult environmental conditions typical for such sites. It relies solely on measurements from an on-board MEMS inertial measurement unit and a pair of cameras arranged in a classical stereo configuration. A model-predictive controller allows for efficient trajectory following and enables flight in close proximity to the boiler surface. As a second contribution, we highlight ongoing developments by displaying state estimation and structure recovery results acquired with an integrated visual/inertial sensor that will be employed on future aerial service robotic platforms. A tight integration in hardware facilitates spatial and temporal calibration of the different sensors and thus enables more accurate and robust ego-motion estimates. Comparison with ground truth obtained from a laser tracker shows that such a sensor can provide motion estimates with drift rates of only few centimeters over the period of a typical flight. © 2013 IEEE.
+
+State Estimation for Legged Robots: Consistent Fusion of Leg Kinematics and IMU
+Michael Bloesch, Marco Hutter, Markus A. Hoepflinger, Stefan Leutenegger, Stephan Gehring, C. D. Remy and Roland Siegwart
+Robotics: Science and Systems Conference (RSS 2012), Sidney, Australia Sidney: RSS 2012: Robotics: Science and Systems Conference, July 9-13, 2012.
+external page:
+Research Collection
+A Low-Cost and Fail-Safe Inertial Navigation System for Airplanes
+Stefan Leutenegger and Roland Siegwart
+IEEE International Conference on Robotics and Automation (ICRA) 2012, Saint Paul, MN, USA, pp.612-618, Piscataway, NJ: IEEE, May 14-18, 2012.
+external page:
+DOI: 10.1109/ICRA.2012.6225061
+external page:
+Research Collection
+Abstract 
+
+A typical Inertial Navigation System (INS) fuses acceleration and angular rate readings with aiding measurements obtained by GPS and a compass. Here we present a robust state estimation framework based on the Extended Kalman Filter (EKF) applied to low-cost electronics typically installed on-board small unmanned airplanes. It uses airspeed measurements as a backup operation mode replacing GPS updates when temporarily unavailable. We demonstrate the applicability of the proposed approach to real-world scenarios using a challenging dataset recorded on-board a manned glider including long-term circling. A comparison between the normal operation mode and the backup solution reveals minimal difference between the respective orientation estimates, a position error growth sub-linear with time during GPS outage and a seamless transition back to GPS-based operation. © 2012 IEEE.
+
+Modeling and Decoupling Control of the CoaX Micro Helicopter
+Péter Fankhauser, Samir Bouabdallah, Stefan Leutenegger and Roland Siegwart
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2011), San Francisco, CA, USA, pp.2223-2228, Piscataway, NJ: IEEE, September 25-30, 2011.
+external page:
+DOI: 10.1109/IROS.2011.6094745
+external page:
+Research Collection
+BRISK: Binary Robust Invariant Scalable Keypoints
+Stefan Leutenegger, Margarita Chli and Roland Siegwart
+13th International Conference on Computer Vision (ICCV 2011), Barcelona, Spain, pp.2548-2555, Piscataway, NJ: IEEE, November 6-13, 2011.
+external page:
+DOI: 10.1109/ICCV.2011.6126542
+external page:
+Research Collection
+Abstract 
+
+Effective and efficient generation of keypoints from an image is a well-studied problem in the literature and forms the basis of numerous Computer Vision applications. Established leaders in the field are the SIFT and SURF algorithms which exhibit great performance under a variety of image transformations, with SURF in particular considered as the most computationally efficient amongst the high-performance methods to date. In this paper we propose BRISK¹, a novel method for keypoint detection, description and matching. A comprehensive evaluation on benchmark datasets reveals BRISK's adaptive, high quality performance as in state-of-the-art algorithms, albeit at a dramatically lower computational cost (an order of magnitude faster than SURF in cases). The key to speed lies in the application of a novel scale-space FAST-based detector in combination with the assembly of a bit-string descriptor from intensity comparisons retrieved by dedicated sampling of each keypoint neighborhood. © 2011 IEEE.
+
+Solar Airplane Conceptual Design and Performance Estimation What Size to Choose and What Endurance to Expect
+Stefan Leutenegger, Mathieu Jabas and Roland Siegwart
+Journal of Intelligent & Robotic Systems, vol. 61: no. 1-4, pp. 545-561, Springer, 2011.
+external page:
+DOI: 10.1007/s10846-010-9484-x
+external page:
+Research Collection
+Abstract 
+
+Solar airplanes exhibit a fascination due to their energy sustainability aspect and the potential for sustained flight lasting several day-night cycles. Resulting monitoring and measurement applications at high altitudes but also close to the Earth surface would be extremely useful and are targeted by several research groups and institutions. The question of how to choose the main design parameters of the airplane for a specific mission, considering the current state-of-the-art technologies involved, however, is not easy to answer. A tool is presented performing such a multi-disciplinary optimization. Solar airplanes using both batteries as energy storage devices as well as their capability of flying performance-optimizing altitude profiles can be sized and evaluated in terms of various performance measures. Simulation results show that sustained flight in the Stratosphere is hard to achieve, if the altitude needs to be kept constant. A simulated Remote Control (RC) model size solar airplane allowed to vary altitude proves to be capable of flying multiple day-night cycles at medium and high latitudes during summer. © 2010 Springer Science+Business Media B.V.
+
+New design of the steering mechanism for a mini coaxial helicopter
+Christian Bermes, Stefan Leutenegger, Samir Bouabdallah, Dario Schafroth and Roland Siegwart
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2008), Nice, France, pp.1236-1241, Piscataway, NJ: IEEE, September 22-26, 2008.
+external page:
+DOI: 10.1109/IROS.2008.4650769
+external page:
+Research Collection
+Abstract 
+
+Whenever the realization of a swash plate mechanism is not feasible (e.g. due to miniaturization limitations), center of gravity steering is an interesting alternative to swash plate steering. We present an approach to describe the dynamic behavior of a coaxial micro helicopter steered by a center of gravity shifting mechanism. The mechanical design of an existing system is improved to increase mechanical robustness and steering quality. In parallel, a simulation model is developed and implemented. It is used to estimate the system response to steering inputs, and to compare center of gravity to swash plate steering. Experimental flight results show an improvement of the helicopter performance due to the mechanical redesign. ©2008 IEEE.
+
+Previous
+Next
+
+As publications are added in the official ETH Research Collection database, this list will populate.
+
+Related content
+Lab
+Research
+Education
+To homepage
+Footer
+Search
+Keyword or person
+Follow us
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Email
+mrl-info@ethz.ch
+
+Mobile Robotics Lab
+Leonhardstrasse 21
+LEE J 206
+8092 Zurich
+Switzerland
+
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich

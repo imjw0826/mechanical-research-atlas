@@ -1,0 +1,46 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Themistoklis Sapsis",
+  "lab_name": null,
+  "lab_url": "https://sandlab.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/sapsis@MIT.EDU"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/sapsis@MIT.EDU",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://sandlab.mit.edu/"
+    },
+    {
+      "text": "http://sandlab.mit.edu/index.php/publications",
+      "url": "http://sandlab.mit.edu/index.php/publications"
+    },
+    {
+      "text": "http://sandlab.mit.edu/index.php/publications/patents",
+      "url": "http://sandlab.mit.edu/index.php/publications/patents"
+    }
+  ],
+  "attempted_urls": [
+    "https://sandlab.mit.edu/",
+    "https://sandlab.mit.edu/publications-list/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "Publications",
+      "url": "https://sandlab.mit.edu/publications-list/"
+    }
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ],
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 사이트에서 논문 목록을 찾지 못함(프로필·연구실 홈만 확인).",
+  "status": "partial",
+  "papers": []
+}

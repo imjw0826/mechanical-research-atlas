@@ -1,0 +1,1331 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "윤국진 YOON, Kuk-Jin",
+  "lab_name": null,
+  "lab_url": "http://vi.kaist.ac.kr/",
+  "publication_urls": [
+    "https://vi.kaist.ac.kr/pages/publications/"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "HEAT: Heterogeneous End-to-End Autonomous Driving via Trajectory-Guided World Models",
+      "year": 2026,
+      "citation_raw": "HEAT: Heterogeneous End-to-End Autonomous Driving via Trajectory-Guided World Models Hoonhee Cho*, Giwon Lee*, Jae-Young Kang*, Hyemin Yang*, Heejun Park*, Kuk-Jin Yoon IEEE Robotics and Automation Letters (RA-L) 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Triggering Generalist Reasoning via Predictive Uncertainty for Dual-System VLA",
+      "year": 2026,
+      "citation_raw": "Triggering Generalist Reasoning via Predictive Uncertainty for Dual-System VLA Hyemin Yang*, Wooseong Jeong*, Giwon Lee*, Kuk-Jin Yoon NeurIPS 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement",
+      "year": 2026,
+      "citation_raw": "Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement Hyun-Kurl Jang, Jihun Kim, Kuk-Jin Yoon NeurIPS 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "SRA: Spatial Reasoning Adapter via Evolving Social Interaction Graphs for Trajectory Prediction",
+      "year": 2026,
+      "citation_raw": "SRA: Spatial Reasoning Adapter via Evolving Social Interaction Graphs for Trajectory Prediction Jaewoo Jeong*, Seonkyu Song*, Hyeonwoo Park, Yujin Bae, Jegyeong Cho, Giwon Lee, Daehee Park, Kuk-Jin Yoon NeurIPS 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Encoder-Level Temporal Fusion Transformers for Robust Multi-Object Tracking",
+      "year": 2026,
+      "citation_raw": "Encoder-Level Temporal Fusion Transformers for Robust Multi-Object Tracking Jinho Kim, Kuk-Jin Yoon IEEE Access 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation",
+      "year": 2026,
+      "citation_raw": "VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation Hoonhee Cho*, Jae-Young Kang*, Giwon Lee*, Hyemin Yang*, Heejun Park*, Kuk-Jin Yoon ECCV 2026 Oral",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "PriSplat: Propagating Reliable Multi-view Information for Distractor-Free 3DGS",
+      "year": 2026,
+      "citation_raw": "PriSplat: Propagating Reliable Multi-view Information for Distractor-Free 3DGS Yunseo Yang*, Youngho Yoon*, Kuk-Jin Yoon ECCV 2026 Oral",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis",
+      "year": 2026,
+      "citation_raw": "GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis Minjun Kang, Inkyu Shin, Taeyeop Lee, Myungchul Kim, In So Kweon, Kuk-Jin Yoon ECCV 2026 Oral",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "HSDF-Lane: Height-Aligned Signed Distance Field with Semantic Lane Prior for 3D Lane Detection",
+      "year": 2026,
+      "citation_raw": "HSDF-Lane: Height-Aligned Signed Distance Field with Semantic Lane Prior for 3D Lane Detection Jiyong Boo, Byeongin Joung, Hyemin Yang, Kuk-Jin Yoon ECCV 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "GoStop: Reinforcement Learning for Adaptive Temporal Aggregation in Event-Based Feature Tracking",
+      "year": 2026,
+      "citation_raw": "GoStop: Reinforcement Learning for Adaptive Temporal Aggregation in Event-Based Feature Tracking Youngho Kim*, Hoonhee Cho*, Jae-Young Kang, Kuk-Jin Yoon ECCV 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "RAF: Reliability-Aware Fusion of Camera, LiDAR, and 4D RADAR for Robust 3D Object Detection in Adverse Weather",
+      "year": 2026,
+      "citation_raw": "RAF: Reliability-Aware Fusion of Camera, LiDAR, and 4D RADAR for Robust 3D Object Detection in Adverse Weather Heejun Park, Jaeseok Jeong, Kuk-Jin Yoon ECCV 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "MotionEditGS: Editing Motion and Appearance of 4D Scenes from Monocular Video via Semantically Anchored Gaussians",
+      "year": 2026,
+      "citation_raw": "MotionEditGS: Editing Motion and Appearance of 4D Scenes from Monocular Video via Semantically Anchored Gaussians Daehyun We, Youngho Yoon, Jiyong Boo, Kuk-Jin Yoon ECCV 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation",
+      "year": 2026,
+      "citation_raw": "Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation Hyun-Kurl Jang*, Jihun Kim*, Hyeokjun Kweon*, Kuk-Jin Yoon ECCV 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training",
+      "year": 2026,
+      "citation_raw": "Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training Taewon Seo*, Seonae Jeon*, Giwon Lee*, Kuk-Jin Yoon†, Daehee Park† ECCV 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Ego-human Motion Prediction with 3D-aware LLM",
+      "year": 2026,
+      "citation_raw": "Ego-human Motion Prediction with 3D-aware LLM Yujin Bae*, Jaewoo Jeong*, Hyeonseong Kim*, Kuk-Jin Yoon ECCV 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "FrozenDrive: Zero-Shot Text-Guided Driving Scene Generation and Data Augmentation with Parameter-Free Frozen Diffusion Model",
+      "year": 2026,
+      "citation_raw": "FrozenDrive: Zero-Shot Text-Guided Driving Scene Generation and Data Augmentation with Parameter-Free Frozen Diffusion Model Yuhwan Jeong*, Hyeonseong Kim*, Daehyun We*, Seonkyu Song*, Jinnyeong Yang*, Hyun-Kurl Jang, Youngho Yoon, Kuk-Jin Yoon ECCV 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation",
+      "year": 2026,
+      "citation_raw": "DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation Sung-Hoon Yoon*, Hoyong Kwon*, Changgyoon Oh*, Kuk-Jin Yoon ECCV 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
+      "year": 2026,
+      "citation_raw": "Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation Jongoh Jeong, Sun-Kyung Lee, Kuk-Jin Yoon ECCV 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Also at Workshop Second Workshop on Curated Data for Efficient Learning · ECCV 2026 Workshop",
+      "year": 2026,
+      "citation_raw": "Also at Workshop Second Workshop on Curated Data for Efficient Learning · ECCV 2026 Workshop",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Bootstrapping a 4D LiDAR Annotation Tool from Video Foundation Models",
+      "year": 2026,
+      "citation_raw": "Bootstrapping a 4D LiDAR Annotation Tool from Video Foundation Models Jihun Kim*, Hyun-Kurl Jang*, Hyemin Yang*, Jinnyeong Yang*, Hyeokjun Kweon*, Kuk-Jin Yoon ECCV Workshop 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Workshop Second Workshop on Curated Data for Efficient Learning · ECCV 2026 Workshop Oral",
+      "year": 2026,
+      "citation_raw": "Workshop Second Workshop on Curated Data for Efficient Learning · ECCV 2026 Workshop Oral",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Reuse Before You Retrieve: Diagnosing Headroom and Complementarity for Test-Time Augmentation of Embodied Multimodal Policies",
+      "year": 2026,
+      "citation_raw": "Reuse Before You Retrieve: Diagnosing Headroom and Complementarity for Test-Time Augmentation of Embodied Multimodal Policies Yuhwan Jeong, Kuk-Jin Yoon ECCV Workshop 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Workshop Workshop on Embodied Multimodal Reasoning in Physical Environments · ECCV 2026 Workshop",
+      "year": 2026,
+      "citation_raw": "Workshop Workshop on Embodied Multimodal Reasoning in Physical Environments · ECCV 2026 Workshop",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Global Information Thresholding for Sufficient and Necessary Circuits",
+      "year": 2026,
+      "citation_raw": "Global Information Thresholding for Sufficient and Necessary Circuits Jegyeong Cho, Kuk-Jin Yoon CVPR 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Test-Time Training for LiDAR Semantic Segmentation under Corruption via Geometric Inlier Discrimination",
+      "year": 2026,
+      "citation_raw": "Test-Time Training for LiDAR Semantic Segmentation under Corruption via Geometric Inlier Discrimination Hyeonseong Kim*, Hyun-Kurl Jang*, Kuk-Jin Yoon CVPR 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Event6D: Event-based Novel Object 6D Pose Tracking",
+      "year": 2026,
+      "citation_raw": "Event6D: Event-based Novel Object 6D Pose Tracking Jae-Young Kang*, Hoonhee Cho*, Taeyeop Lee*, Minjun Kang, Bowen Wen, Youngho Kim, Kuk-Jin Yoon CVPR 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation",
+      "year": 2026,
+      "citation_raw": "ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation Youngho Yoon, Wonjune Cho, Hyunho Ha, Sujung Kim, Kuk-Jin Yoon CVPR 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy",
+      "year": 2026,
+      "citation_raw": "Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy Wooseong Jeong*, Wonyoung Lee*, Kuk-Jin Yoon CVPR 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation",
+      "year": 2026,
+      "citation_raw": "Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation Jihun Kim*, Hoyong Kwon*, Hyeokjun Kweon*, Kuk-Jin Yoon CVPR 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR",
+      "year": 2026,
+      "citation_raw": "DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR Hoonhee Cho*, Jae-Young Kang*, Yuhwan Jeong*, Yunseo Yang, Wonyoung Lee, Youngho Kim, Kuk-Jin Yoon CVPR 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Event-based Motion Deblurring with Unpaired Data",
+      "year": 2026,
+      "citation_raw": "Event-based Motion Deblurring with Unpaired Data Hoonhee Cho*, Yuhwan Jeong*, Kuk-Jin Yoon CVPR 2026 Highlight",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Label-Free Cross-Task LoRA Merging with Null-Space Compression",
+      "year": 2026,
+      "citation_raw": "Label-Free Cross-Task LoRA Merging with Null-Space Compression Wonyoung Lee*, Wooseong Jeong*, Kuk-Jin Yoon CVPR 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Multimodal Distribution Matching for Vision-Language Dataset Distillation",
+      "year": 2026,
+      "citation_raw": "Multimodal Distribution Matching for Vision-Language Dataset Distillation Jongoh Jeong*, Hoyong Kwon*, Minseok Kim*, Kuk-Jin Yoon CVPR 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Also at Workshop Workshop on Emerging Directions in Data for Multimodal Foundation Models · CVPR 2026 Workshop",
+      "year": 2026,
+      "citation_raw": "Also at Workshop Workshop on Emerging Directions in Data for Multimodal Foundation Models · CVPR 2026 Workshop",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Improving Black-Box Generative Attacks via Generator Semantic Consistency",
+      "year": 2026,
+      "citation_raw": "Improving Black-Box Generative Attacks via Generator Semantic Consistency Jongoh Jeong, Hunmin Yang, Jaeseok Jeong, Kuk-Jin Yoon ICLR 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "ReSplat: Degradation-agnostic Feed-forward Gaussian Splatting via Self-guided Residual Diffusion",
+      "year": 2026,
+      "citation_raw": "ReSplat: Degradation-agnostic Feed-forward Gaussian Splatting via Self-guided Residual Diffusion Youngho Yoon, Kuk-Jin Yoon ICLR 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "A machine learning framework for predicting and modulating condition-dependent protein phase separation",
+      "year": 2026,
+      "citation_raw": "A machine learning framework for predicting and modulating condition-dependent protein phase separation Jangwon Bae†, Minjun Kang, Donghyuk Lee, Kuk-Jin Yoon†, Yongwon Jung† Nature Communications 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Analysis of Multiscale Condensation Phenomena Using a Zero-Shot Computer Vision Framework",
+      "year": 2026,
+      "citation_raw": "Analysis of Multiscale Condensation Phenomena Using a Zero-Shot Computer Vision Framework Donghyeong Lee, Seokwan Roh, Jaewoo Jeong, Kuk-Jin Yoon, Jungchul Lee, Youngsuk Nam Advanced Science 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Stabilizing Multi-Task Latent Spaces: Recursive Refinement With Coordinators in Partially Labeled Learning",
+      "year": 2026,
+      "citation_raw": "Stabilizing Multi-Task Latent Spaces: Recursive Refinement With Coordinators in Partially Labeled Learning Wooseong Jeong, Jegyeong Cho, Youngho Yoon, Jaeyoung Lee, Kuk-Jin Yoon IEEE Access 2026",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting",
+      "year": 2025,
+      "citation_raw": "VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting Hoonhee Cho*, Jae-Young Kang*, Giwon Lee*, Hyemin Yang*, Heejun Park, Seokwoo Jung, Kuk-Jin Yoon NeurIPS 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model",
+      "year": 2025,
+      "citation_raw": "Generative Active Learning for Long-tail Trajectory Prediction via Controllable Diffusion Model Daehee Park, Monu Surana, Pranav Desai, Ashish Mehta, Reuben MV John, Kuk-Jin Yoon ICCV 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation",
+      "year": 2025,
+      "citation_raw": "DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation Jihun Kim*, Hoyong Kwon*, Hyeokjun Kweon*, Wooseong Jeong, Kuk-Jin Yoon ICCV 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning",
+      "year": 2025,
+      "citation_raw": "Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning Giwon Lee*, Wooseong Jeong*, Daehee Park, Jaewoo Jeong, Kuk-Jin Yoon ICCV 2025 Highlight",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Doppler-Aware LiDAR-Radar Fusion for Weather-Robust 3D Detection",
+      "year": 2025,
+      "citation_raw": "Doppler-Aware LiDAR-Radar Fusion for Weather-Robust 3D Detection Yujeong Chae, Heejun Park, Hyeonseong Kim, Kuk-Jin Yoon ICCV 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Unleashing the Temporal Potential of Stereo Event Cameras for Continuous-Time 3D Object Detection",
+      "year": 2025,
+      "citation_raw": "Unleashing the Temporal Potential of Stereo Event Cameras for Continuous-Time 3D Object Detection Jae-Young Kang*, Hoonhee Cho*, Kuk-Jin Yoon ICCV 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Taewoo Kim, Kuk-Jin Yoon",
+      "year": 2025,
+      "citation_raw": "Event-guided Unified Framework for Low-light Video Enhancement, Frame Interpolation, and Deblurring Taewoo Kim, Kuk-Jin Yoon ICCV 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Robust Adverse Weather Removal via Spectral-based Spatial Grouping",
+      "year": 2025,
+      "citation_raw": "Robust Adverse Weather Removal via Spectral-based Spatial Grouping Yuhwan Jeong*, Yunseo Yang*, Youngho Yoon*, Kuk-Jin Yoon ICCV 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "From Sharp to Blur: Unsupervised Domain Adaptation for 2D Human Pose Estimation Under Extreme Motion Blur Using Event Cameras",
+      "year": 2025,
+      "citation_raw": "From Sharp to Blur: Unsupervised Domain Adaptation for 2D Human Pose Estimation Under Extreme Motion Blur Using Event Cameras Youngho Kim*, Hoonhee Cho*, Kuk-Jin Yoon ICCV 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Learning Large Motion Estimation from Intermediate Representations with a High-Resolution Optical Flow Dataset Featuring Long-Range Dynamic Motion",
+      "year": 2025,
+      "citation_raw": "Learning Large Motion Estimation from Intermediate Representations with a High-Resolution Optical Flow Dataset Featuring Long-Range Dynamic Motion Hoonhee Cho*, Yuhwan Jeong*, Kuk-Jin Yoon ICCV 2025 Highlight",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Synchronizing Task Behavior: Aligning Multiple Tasks during Test-Time Training",
+      "year": 2025,
+      "citation_raw": "Synchronizing Task Behavior: Aligning Multiple Tasks during Test-Time Training Wooseong Jeong*, Jegyeong Cho*, Youngho Yoon*, Kuk-Jin Yoon ICCV 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Resolving Token-Space Gradient Conflicts: Token Space Manipulation for Transformer-Based Multi-Task Learning",
+      "year": 2025,
+      "citation_raw": "Resolving Token-Space Gradient Conflicts: Token Space Manipulation for Transformer-Based Multi-Task Learning Wooseong Jeong, Kuk-Jin Yoon ICCV 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "WarpHE4D: Dense 4D Head Map toward Full Head Reconstruction",
+      "year": 2025,
+      "citation_raw": "WarpHE4D: Dense 4D Head Map toward Full Head Reconstruction Jongseob Yun, Yong-Hoon Kwon, Min-Gyu Park, Ju-Mi Kang, Min-Ho Lee, Inho Chang, Ju Hong Yoon, Kuk-Jin Yoon ICCV 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Neuromorphic olfaction with ultralow-power gas sensors and ovonic threshold switch",
+      "year": 2025,
+      "citation_raw": "Neuromorphic olfaction with ultralow-power gas sensors and ovonic threshold switch Mingu Kang, Joon-Kyuu Han, Kichul Lee, Jaeseok Jeong, Chanyoung Yoo, Jeong Woo Jeon, Byongwoo Park, Wonho Choi, Junseong Ahn, Kuk-Jin Yoon, Cheol Seong Hwang, Inkyu Park Science Advances 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning",
+      "year": 2025,
+      "citation_raw": "Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning Giwon Lee*, Daehee Park*, Jaewoo Jeong*, Kuk-Jin Yoon IROS 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "WISH: Weakly Supervised Instance Segmentation using Heterogeneous Labels",
+      "year": 2025,
+      "citation_raw": "WISH: Weakly Supervised Instance Segmentation using Heterogeneous Labels Hyeokjun Kweon, Kuk-Jin Yoon CVPR 2025 Highlight",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Any6D: Model-free 6D Pose Estimation of Novel Objects",
+      "year": 2025,
+      "citation_raw": "Any6D: Model-free 6D Pose Estimation of Novel Objects Taeyeop Lee, Bowen Wen, Minjun Kang, Gyuree Kang, In So Kweon, Kuk-Jin Yoon CVPR 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras",
+      "year": 2025,
+      "citation_raw": "Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras Hoonhee Cho*, Jae-Young Kang*, Youngho Kim, Kuk-Jin Yoon CVPR 2025 Highlight",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Multi-modal Knowledge Distillation-based Human Trajectory Forecasting",
+      "year": 2025,
+      "citation_raw": "Multi-modal Knowledge Distillation-based Human Trajectory Forecasting Jaewoo Jeong, Seohee Lee, Daehee Park, Giwon Lee, Kuk-Jin Yoon CVPR 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Boosting Adversarial Transferability with a Generative Model Perspective",
+      "year": 2025,
+      "citation_raw": "Boosting Adversarial Transferability with a Generative Model Perspective Jongoh Jeong, Hunmin Yang, Kuk-Jin Yoon CVPR Workshop 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Workshop 3rd Workshop on Generative Models for Computer Vision · CVPR 2025 Workshop",
+      "year": 2025,
+      "citation_raw": "Workshop 3rd Workshop on Generative Models for Computer Vision · CVPR 2025 Workshop",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Selective Task Group Updates for Multi-Task Optimization",
+      "year": 2025,
+      "citation_raw": "Selective Task Group Updates for Multi-Task Optimization Wooseong Jeong, Kuk-Jin Yoon ICLR 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting",
+      "year": 2025,
+      "citation_raw": "Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting Inkyu Shin, Qihang Yu, Ming-Hsuan Yang, Xiaohui Shen, In So Kweon, Kuk-Jin Yoon, Liang-Chieh Chen Transactions on Machine Learning Research (TMLR) 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Multigas Identification by Temperature-Modulated Operation of a Single Anodic Aluminum Oxide Gas Sensor Platform and Deep Learning Algorithm",
+      "year": 2025,
+      "citation_raw": "Multigas Identification by Temperature-Modulated Operation of a Single Anodic Aluminum Oxide Gas Sensor Platform and Deep Learning Algorithm Byeongju Lee, Mingu Kang, Kichul Lee, Yujeong Chae, Kuk-Jin Yoon, Dae-Sik Lee, Inkyu Park ACS Sensors 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Multi-View 3D Scene Abstraction From Drone-Captured RGB Images",
+      "year": 2025,
+      "citation_raw": "Multi-View 3D Scene Abstraction From Drone-Captured RGB Images Wooseong Jeong, Jihun Kim, Hyeokjun Kweon, Kuk-Jin Yoon IEEE Access 2025",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "A Benchmark Dataset for Event-Guided Human Pose Estimation and Tracking in Extreme Conditions",
+      "year": 2024,
+      "citation_raw": "A Benchmark Dataset for Event-Guided Human Pose Estimation and Tracking in Extreme Conditions Hoonhee Cho*, Taewoo Kim*, Yuhwan Jeong, Kuk-Jin Yoon NeurIPS 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight",
+      "year": 2024,
+      "citation_raw": "TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight Hyun-Kurl Jang*, Jihun Kim*, Hyeokjun Kweon*, Kuk-Jin Yoon NeurIPS 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks",
+      "year": 2024,
+      "citation_raw": "Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks Hunmin Yang, Jongoh Jeong, Kuk-Jin Yoon ECCV 2024 Oral",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Towards Real-world Event-guided Low-light Video Enhancement and Deblurring",
+      "year": 2024,
+      "citation_raw": "Towards Real-world Event-guided Low-light Video Enhancement and Deblurring Taewoo Kim, Jaeseok Jeong, Hoonhee Cho, Yuhwan Jeong, Kuk-Jin Yoon ECCV 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Phase Concentration and Shortcut Suppression for Weakly Supervised Semantic Segmentation",
+      "year": 2024,
+      "citation_raw": "Phase Concentration and Shortcut Suppression for Weakly Supervised Semantic Segmentation Hoyong Kwon, Jaeseok Jeong, Sung-Hoon Yoon, Kuk-Jin Yoon ECCV 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Temporal Event Stereo via Joint Learning with Stereoscopic Flow",
+      "year": 2024,
+      "citation_raw": "Temporal Event Stereo via Joint Learning with Stereoscopic Flow Hoonhee Cho*, Jae-Young Kang*, Kuk-Jin Yoon ECCV 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Finding Meaning in Points: Weakly Supervised Semantic Segmentation for Event Cameras",
+      "year": 2024,
+      "citation_raw": "Finding Meaning in Points: Weakly Supervised Semantic Segmentation for Event Cameras Hoonhee Cho*, Sung-Hoon Yoon*, Hyeokjun Kweon*, Kuk-Jin Yoon ECCV 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Diffusion-Guided Weakly Supervised Semantic Segmentation",
+      "year": 2024,
+      "citation_raw": "Diffusion-Guided Weakly Supervised Semantic Segmentation Sung-Hoon Yoon, Hoyong Kwon*, Jaeseok Jeong*, Daehee Park, Kuk-Jin Yoon ECCV 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "On-the-fly Category Discovery for LiDAR Semantic Segmentation",
+      "year": 2024,
+      "citation_raw": "On-the-fly Category Discovery for LiDAR Semantic Segmentation Hyeonseong Kim*, Sung-Hoon Yoon*, Minseok Kim, Kuk-Jin Yoon ECCV 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Syn-to-Real Domain Adaptation for Point Cloud Completion via Part-based Approach",
+      "year": 2024,
+      "citation_raw": "Syn-to-Real Domain Adaptation for Point Cloud Completion via Part-based Approach Yunseo Yang*, Jihun Kim*, Kuk-Jin Yoon ECCV 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring",
+      "year": 2024,
+      "citation_raw": "CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring Taewoo Kim*, Hoonhee Cho*, Kuk-Jin Yoon ECCV 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer",
+      "year": 2024,
+      "citation_raw": "GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer Youngho Yoon*, Hyun-Kurl Jang*, Kuk-Jin Yoon ECCV 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "LiDAR-based All-weather 3D Object Detection via Prompting and Distilling 4D Radar",
+      "year": 2024,
+      "citation_raw": "LiDAR-based All-weather 3D Object Detection via Prompting and Distilling 4D Radar Yujeong Chae, Hyeonseong Kim, Changgyoon Oh, Minseok Kim, Kuk-Jin Yoon ECCV 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Towards Robust Event-based Networks for Nighttime via Unpaired Day-to-Night Event Translation",
+      "year": 2024,
+      "citation_raw": "Towards Robust Event-based Networks for Nighttime via Unpaired Day-to-Night Event Translation Yuhwan Jeong*, Hoonhee Cho*, Kuk-Jin Yoon ECCV 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Weakly Supervised Point Cloud Semantic Segmentation via Artificial Oracle",
+      "year": 2024,
+      "citation_raw": "Weakly Supervised Point Cloud Semantic Segmentation via Artificial Oracle Hyeokjun Kweon*, Jihun Kim*, Kuk-Jin Yoon CVPR 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation",
+      "year": 2024,
+      "citation_raw": "From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation Hyeokjun Kweon, Kuk-Jin Yoon CVPR 2024 Oral",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions",
+      "year": 2024,
+      "citation_raw": "Towards Robust 3D Object Detection with LiDAR and 4D Radar Fusion in Various Weather Conditions Yujeong Chae, Hyeonseong Kim, Kuk-Jin Yoon CVPR 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Quantifying Task Priority for Multi-Task Optimization",
+      "year": 2024,
+      "citation_raw": "Quantifying Task Priority for Multi-Task Optimization Wooseong Jeong, Kuk-Jin Yoon CVPR 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Class Tokens Infusion for Weakly Supervised Semantic Segmentation",
+      "year": 2024,
+      "citation_raw": "Class Tokens Infusion for Weakly Supervised Semantic Segmentation Sung-Hoon Yoon, Hoyong Kwon, Hyeonseong Kim, Kuk-Jin Yoon CVPR 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning",
+      "year": 2024,
+      "citation_raw": "Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning Jaewoo Jeong*, Daehee Park*, Kuk-Jin Yoon CVPR 2024 Highlight",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "TTA-EVF: Test-Time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation",
+      "year": 2024,
+      "citation_raw": "TTA-EVF: Test-Time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation Hoonhee Cho, Taewoo Kim, Yuhwan Jeong, Kuk-Jin Yoon CVPR 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Frequency-aware Event-based Video Deblurring for Real-World Motion Blur",
+      "year": 2024,
+      "citation_raw": "Frequency-aware Event-based Video Deblurring for Real-World Motion Blur Taewoo Kim*, Hoonhee Cho*, Kuk-Jin Yoon CVPR 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory",
+      "year": 2024,
+      "citation_raw": "T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory Daehee Park, Jaeseok Jeong, Sung-Hoon Yoon, Jaewoo Jeong, Kuk-Jin Yoon CVPR 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "FACL-Attack: Frequency-Aware Contrastive Learning for Transferable Adversarial Attacks",
+      "year": 2024,
+      "citation_raw": "FACL-Attack: Frequency-Aware Contrastive Learning for Transferable Adversarial Attacks Hunmin Yang*, Jongoh Jeong*, Kuk-Jin Yoon AAAI 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation",
+      "year": 2024,
+      "citation_raw": "Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation Daehee Park, Jaewoo Jeong, Kuk-Jin Yoon AAAI 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Disentangled Cross-modal Fusion for Event-guided Image Super-Resolution",
+      "year": 2024,
+      "citation_raw": "Disentangled Cross-modal Fusion for Event-guided Image Super-Resolution Minjie Liu, Hongjian Wang, Kuk-Jin Yoon, Lin Wang IEEE Transactions on Artificial Intelligence 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "이미지 스티칭 학습 및 평가를 위한 이미지 데이터셋 생성 장치 및 그 방법",
+      "year": 2024,
+      "citation_raw": "이미지 스티칭 학습 및 평가를 위한 이미지 데이터셋 생성 장치 및 그 방법 윤국진, 권혁준, 강윤수, 정우성, 김현성, 박휘성 Domestic 2024",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Learning Point Cloud Completion without Complete Point Clouds: A Pose-aware Approach",
+      "year": 2023,
+      "citation_raw": "Learning Point Cloud Completion without Complete Point Clouds: A Pose-aware Approach Jihun Kim, Hyeokjun Kweon, Yunseo Yang, Kuk-Jin Yoon ICCV 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events",
+      "year": 2023,
+      "citation_raw": "Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events Hoonhee Cho*, Hyeonseong Kim*, Yujeong Chae, Kuk-Jin Yoon ICCV 2023 Oral",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Non-Coaxial Event-guided Motion Deblurring with Spatial Alignment",
+      "year": 2023,
+      "citation_raw": "Non-Coaxial Event-guided Motion Deblurring with Spatial Alignment Hoonhee Cho, Yuhwan Jeong, Taewoo Kim, Kuk-Jin Yoon ICCV 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "MATE: Masked Autoencoders are Online 3D Test-Time Learners",
+      "year": 2023,
+      "citation_raw": "MATE: Masked Autoencoders are Online 3D Test-Time Learners Muhammad Jehanzeb Mirza, Inkyu Shin, Wei Lin, Andreas Schriebl, Kunyang Sun, Jaesung Choe, Mateusz Kozinski, Horst Possegger, In So Kweon, Kuk-Jin Yoon, Horst Bischof ICCV 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Video-kMaX: A Simple Unified Approach for Online and Near-Online Video Panoptic Segmentation",
+      "year": 2023,
+      "citation_raw": "Video-kMaX: A Simple Unified Approach for Online and Near-Online Video Panoptic Segmentation Inkyu Shin, Dahun Kim, Qihang Yu, Jun Xie, Hong-Seok Kim, Bradley Green, In So Kweon, Kuk-Jin Yoon, Liang-Chieh Chen CVPR Workshop 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "One-Shot Neural Fields for 3D Object Understanding",
+      "year": 2023,
+      "citation_raw": "One-Shot Neural Fields for 3D Object Understanding Valts Blukis, Taeyeop Lee, Jonathan Tremblay, Bowen Wen, In So Kweon, Kuk-Jin Yoon, Dieter Fox, Stan Birchfield CVPR Workshop 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields",
+      "year": 2023,
+      "citation_raw": "Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields Taewoo Kim, Yujeong Chae, Hyun-Kurl Jang, Kuk-Jin Yoon CVPR 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Learning to Adaptive Dense Event Stereo from Image Domain",
+      "year": 2023,
+      "citation_raw": "Learning to Adaptive Dense Event Stereo from Image Domain Hoonhee Cho, Jegyeong Cho, Kuk-Jin Yoon CVPR 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Weakly Supervised Semantic Segmentation via Adversarial Learning of Classifier and Reconstructor",
+      "year": 2023,
+      "citation_raw": "Weakly Supervised Semantic Segmentation via Adversarial Learning of Classifier and Reconstructor Hyeokjun Kweon*, Sung-Hoon Yoon*, Kuk-Jin Yoon CVPR 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Cross-Guided Optimization of Radiance Fields with Multi-View Image Super-Resolution for High-Resolution Novel View Synthesis",
+      "year": 2023,
+      "citation_raw": "Cross-Guided Optimization of Radiance Fields with Multi-View Image Super-Resolution for High-Resolution Novel View Synthesis Youngho Yoon, Kuk-Jin Yoon CVPR 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Single Domain Generalization for LiDAR Semantic Segmentation",
+      "year": 2023,
+      "citation_raw": "Single Domain Generalization for LiDAR Semantic Segmentation Hyeonseong Kim*, Yoonsu Kang*, Changgyoon Oh, Kuk-Jin Yoon CVPR 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation",
+      "year": 2023,
+      "citation_raw": "TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation Taeyeop Lee, Jonathan Tremblay, Valts Blukis, Bowen Wen, Byeong-Uk Lee, Inkyu Shin, Stan Birchfield, In So Kweon, Kuk-Jin Yoon CVPR 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Leveraging Future Relationship Reasoning for Vehicle Trajectory Prediction",
+      "year": 2023,
+      "citation_raw": "Leveraging Future Relationship Reasoning for Vehicle Trajectory Prediction Daehee Park, Hobin Ryu, Yunseo Yang, Jegyeong Cho, Jiwon Kim, Kuk-Jin Yoon ICLR 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Pixel-wise Warping for Deep Image Stitching",
+      "year": 2023,
+      "citation_raw": "Pixel-wise Warping for Deep Image Stitching Hyeokjun Kweon*, Hyeonseong Kim*, Yoonsu Kang*, Youngho Yoon*, Wooseong Jeong, Kuk-Jin Yoon AAAI 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "EasyFuse: Easy-to-Learn Visible and Infrared Image Fusion Framework based on Unpaired Set",
+      "year": 2023,
+      "citation_raw": "EasyFuse: Easy-to-Learn Visible and Infrared Image Fusion Framework based on Unpaired Set Seongyong Ahn, Inwook Shim, Jihong Min, Kuk-Jin Yoon Pattern Recognition Letters 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Deep Learning-based Gas Identification by Time-variant Illumination of a Single Micro LED-embedded Gas Sensor",
+      "year": 2023,
+      "citation_raw": "Deep Learning-based Gas Identification by Time-variant Illumination of a Single Micro LED-embedded Gas Sensor Incheol Cho, Kichul Lee, Young Chul Sim, Jaeseok Jeong, Minkyu Cho, Heechan Jung, Mingu Kang, Yong-Hoon Cho, Seung Chul Ha, Kuk-Jin Yoon, Inkyu Park Light: Science & Applications 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Ultra-Low-Power E-Nose System Based on Multi-Micro-LED-Integrated, Nanostructured Gas Sensors and Deep Learning",
+      "year": 2023,
+      "citation_raw": "Ultra-Low-Power E-Nose System Based on Multi-Micro-LED-Integrated, Nanostructured Gas Sensors and Deep Learning Kichul Lee, Incheol Cho, Mingu Kang, Jaeseok Jeong, Minho Choi, Kie Young Woo, Kuk-Jin Yoon*, Yong-Hoon Cho*, Inkyu Park* ACS Nano 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "다시점 영상 스티칭을 위한 색 보정 방법, 영상 합성 방법, 영상 처리 장치, 저장 매체 및 컴퓨터 프로그램",
+      "year": 2023,
+      "citation_raw": "다시점 영상 스티칭을 위한 색 보정 방법, 영상 합성 방법, 영상 처리 장치, 저장 매체 및 컴퓨터 프로그램 윤국진, 권혁준, 정재석, 박휘성 Domestic 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "이미지 스티칭을 위한 장치 및 그 방법",
+      "year": 2023,
+      "citation_raw": "이미지 스티칭을 위한 장치 및 그 방법 윤국진, 권혁준, 강윤수, 정우성, 김현성, 박휘성 Domestic 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "가스센서를 이용한 실시간 가스 종류 판별장치 및 방법",
+      "year": 2023,
+      "citation_raw": "가스센서를 이용한 실시간 가스 종류 판별장치 및 방법 박인규, 강민구, 윤국진, 조인철, 정재석 Domestic 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "이벤트 카메라를 이용한 비디오 프레임 보간 장치 및 방법",
+      "year": 2023,
+      "citation_raw": "이벤트 카메라를 이용한 비디오 프레임 보간 장치 및 방법 윤국진, 김태우 Domestic 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "분류기와 이미지 복원기 간의 적대적 학습을 통한 의미론적 영상 분할 방법",
+      "year": 2023,
+      "citation_raw": "분류기와 이미지 복원기 간의 적대적 학습을 통한 의미론적 영상 분할 방법 윤국진, 윤성훈, 권혁준 Domestic 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "학습 방법 및 이를 이용한 테스트 장치 및 테스트 방법",
+      "year": 2023,
+      "citation_raw": "학습 장치, 학습 방법 및 이를 이용한 테스트 장치 및 테스트 방법 윤국진, 정재우, 김지훈 Domestic 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "무인 이동체 계기판 인식 시스템 및 이의 동작 방법",
+      "year": 2023,
+      "citation_raw": "무인 이동체 계기판 인식 시스템 및 이의 동작 방법 윤국진, 오창균, 조제경, 정유환 Domestic 2023",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Joint Learning of 2D-3D Weakly Supervised Semantic Segmentation",
+      "year": 2022,
+      "citation_raw": "Joint Learning of 2D-3D Weakly Supervised Semantic Segmentation Hyeokjun Kweon, Kuk-Jin Yoon NeurIPS 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Event-guided Deblurring of Unknown Exposure Time Videos",
+      "year": 2022,
+      "citation_raw": "Event-guided Deblurring of Unknown Exposure Time Videos Tae-Woo Kim, Jeong-Min Lee, Lin Wang, Kuk-Jin Yoon ECCV 2022 Oral",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning",
+      "year": 2022,
+      "citation_raw": "BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-aided Adversarial Learning Changgyoon Oh*, Wonjune Cho*, Yujeong Chae*, Daehee Park*, Lin Wang, Kuk-Jin Yoon ECCV 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Adversarial Erasing Framework via Triplet with Gated Pyramid Pooling Layer for Weakly Supervised Semantic Segmentation",
+      "year": 2022,
+      "citation_raw": "Adversarial Erasing Framework via Triplet with Gated Pyramid Pooling Layer for Weakly Supervised Semantic Segmentation Sung-Hoon Yoon*, Hyeokjun Kweon*, Jegyeong Cho, Shingeong Kim, Kuk-Jin Yoon ECCV 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Selection and Cross Similarity for Event-Image Deep Stereo",
+      "year": 2022,
+      "citation_raw": "Selection and Cross Similarity for Event-Image Deep Stereo Hoonhee Cho, Kuk-Jin Yoon ECCV 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Facial Depth and Normal Estimation using Single Dual-Pixel Camera",
+      "year": 2022,
+      "citation_raw": "Facial Depth and Normal Estimation using Single Dual-Pixel Camera Minjun Kang, Jaesang Choe, Hywon Ha, Hae-Gon Jeon, Sunghoon Im, In So Kweon, Kuk-Jin Yoon ECCV 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Multi-source Domain Alignment for Robust Segmentation in Unknown Targets",
+      "year": 2022,
+      "citation_raw": "Multi-source Domain Alignment for Robust Segmentation in Unknown Targets Pranjay Shyam, Kuk-Jin Yoon, Kyung-Soo Kim IROS 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "SphereSR: 360° Image Super-Resolution with Arbitrary Projection via Continuous Spherical Image Representation",
+      "year": 2022,
+      "citation_raw": "SphereSR: 360° Image Super-Resolution with Arbitrary Projection via Continuous Spherical Image Representation Youngho Yoon, Inhcul Chung, Lin Wang, Kuk-Jin Yoon CVPR 2022 Oral",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "UDA-COPE: Unsupervised Domain Adaptation for Category-level Object Pose Estimation",
+      "year": 2022,
+      "citation_raw": "UDA-COPE: Unsupervised Domain Adaptation for Category-level Object Pose Estimation Taeyeop Lee, Byeong-Uk Lee, Inkyu Shin, Jaesung Choe, Ukcheol Shin, In So Kweon, Kuk-Jin Yoon CVPR 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation",
+      "year": 2022,
+      "citation_raw": "MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation Inkyu Shin, Yi-Hsuan Tsai, Bingbing Zhuang, Samuel Schulter, Buyu Liu, Sparsh Garg, In So Kweon, Kuk-Jin Yoon CVPR 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "GIQE: Generic Image Quality Enhancement via N-th Order Iterative Degradation",
+      "year": 2022,
+      "citation_raw": "GIQE: Generic Image Quality Enhancement via N-th Order Iterative Degradation Pranjay Shyam, Kyung-Soo Kim*, Kuk-Jin Yoon* CVPR 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Stereo Depth from Events Cameras: Concentrate and Focus on the Future",
+      "year": 2022,
+      "citation_raw": "Stereo Depth from Events Cameras: Concentrate and Focus on the Future YeongWoo Nam, Sayed Mohammad Mostafavi Isfahani, Kuk-Jin Yoon, Jonghyun Choi CVPR 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Infra Sim-to-Real: An Efficient Baseline and Dataset for Infrastructure based Online Object Detection and Tracking using Domain Adaptation",
+      "year": 2022,
+      "citation_raw": "Infra Sim-to-Real: An Efficient Baseline and Dataset for Infrastructure based Online Object Detection and Tracking using Domain Adaptation Pranjay Shyam, Sumit Mishra, Kuk-Jin Yoon, Kyung-Soo Kim IEEE Intelligent Vehicles Symposium (IV) 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Event-image Fusion Stereo using Cross-modality Feature Propagation",
+      "year": 2022,
+      "citation_raw": "Event-image Fusion Stereo using Cross-modality Feature Propagation Hoonhee Cho, Kuk-Jin Yoon AAAI 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Deep Learning for HDR Imaging: State-of-the-Art and Future Trends",
+      "year": 2022,
+      "citation_raw": "Deep Learning for HDR Imaging: State-of-the-Art and Future Trends Lin Wang, Kuk-Jin Yoon IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Joint Framework for Single Image Reconstruction and Super-Resolution With an Event Camera",
+      "year": 2022,
+      "citation_raw": "Joint Framework for Single Image Reconstruction and Super-Resolution With an Event Camera Lin Wang, Tae-Kyun Kim, Kuk-Jin Yoon IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Artificial Olfactory Neuron for an In-Sensor Neuromorphic Nose",
+      "year": 2022,
+      "citation_raw": "Artificial Olfactory Neuron for an In-Sensor Neuromorphic Nose Joon-Kyu Han, Mingu Kang, Jaeseok Jeong, Incheol Cho, Ji-Man Yu, Kuk-Jin Yoon, Inkyu Park*, Yang-Kyu Choi* Advanced Science 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "High Accuracy Real-Time Multi-Gas Identification by a Batch-Uniform Gas Sensor Array and Deep Learning Algorithm",
+      "year": 2022,
+      "citation_raw": "High Accuracy Real-Time Multi-Gas Identification by a Batch-Uniform Gas Sensor Array and Deep Learning Algorithm Mingu Kang, Incheol Cho, Jaeho Park, Jaeseok Jeong, Kichul Lee, Byeongju Lee, Dionisio Del Orbe Henriquez, Kuk-Jin Yoon*, Inkyu Park* ACS Sensors 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "E2SRI: Learning to Super-Resolve Intensity Images From Events",
+      "year": 2022,
+      "citation_raw": "E2SRI: Learning to Super-Resolve Intensity Images From Events Mohammad Mostafavi, Yeongwoo Nam, Jonghyun Choi, Kuk-Jin Yoon IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "가변광조사를 이용한 광활성 가스센서의 가스종 식별방법",
+      "year": 2022,
+      "citation_raw": "가변광조사를 이용한 광활성 가스센서의 가스종 식별방법 박인규, 조인철, 윤국진, 조민규 Domestic 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "전방향 영상의 딥러닝을 이용한 물체 감지 방법 및 장치, 그리고 이를 이용한 차량 자율 주행 방법 및 드론 자율 주행 방법",
+      "year": 2022,
+      "citation_raw": "전방향 영상의 딥러닝을 이용한 물체 감지 방법 및 장치, 그리고 이를 이용한 차량 자율 주행 방법 및 드론 자율 주행 방법 윤국진, 이연건, 정재석, 윤종섭, 조원준 Domestic 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "고해상도 강도 이미지 생성 방법 및 장치",
+      "year": 2022,
+      "citation_raw": "고해상도 강도 이미지 생성 방법 및 장치 윤국진, Mostafavi I., S. Mohammad, 최종현 Domestic 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "삼자 적대적 지우기 방식을 활용한 약-지도 의미론적 영역 분할 신경망 학습 방법 및 장치",
+      "year": 2022,
+      "citation_raw": "삼자 적대적 지우기 방식을 활용한 약-지도 의미론적 영역 분할 신경망 학습 방법 및 장치 윤국진, 윤성훈, 권혁준, 조제경 Domestic 2022",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Unlocking the Potential of Ordinary Classifier: Class-specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation",
+      "year": 2021,
+      "citation_raw": "Unlocking the Potential of Ordinary Classifier: Class-specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation Hyeokjun Kweon*, Sung-Hoon Yoon*, Hyeonseong Kim, Daehee Park, Kuk-Jin Yoon ICCV 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Dual Transfer Learning for Event-based End-task Prediction via Pluggable Event to Image Translation",
+      "year": 2021,
+      "citation_raw": "Dual Transfer Learning for Event-based End-task Prediction via Pluggable Event to Image Translation Lin Wang, Yujeong Chae, Kuk-Jin Yoon ICCV 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds",
+      "year": 2021,
+      "citation_raw": "Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds Mohammad Mostafavi, Kuk-Jin Yoon, Jonghyun Choi ICCV 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Learning Icosahedral Spherical Probability Map Based on Bingham Mixture Model for Vanishing Point Estimation",
+      "year": 2021,
+      "citation_raw": "Learning Icosahedral Spherical Probability Map Based on Bingham Mixture Model for Vanishing Point Estimation Haoang Li, Kai Chen, Kyungdon Joo, Pyojin Kim, Kuk-Jin Yoon, Zhe Liu, Yunhui Liu ICCV 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Evaluating Region Modification based Data Augmentation Techniques for Low Level Vision Tasks",
+      "year": 2021,
+      "citation_raw": "Evaluating Region Modification based Data Augmentation Techniques for Low Level Vision Tasks Pranjay Shyam, Sandeep Singh Sengar, Kuk-Jin Yoon, Kyung-Soo Kim IJCAI Workshop 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Workshop Workshop on AI for Autonomous Driving · IJCAI 2021 Workshop",
+      "year": 2021,
+      "citation_raw": "Workshop Workshop on AI for Autonomous Driving · IJCAI 2021 Workshop",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "EvDistill: Asynchronous Events to End-task Learning via Bidirectional Reconstruction-guided Cross-modal Knowledge Distillation",
+      "year": 2021,
+      "citation_raw": "EvDistill: Asynchronous Events to End-task Learning via Bidirectional Reconstruction-guided Cross-modal Knowledge Distillation Lin Wang, Yujeong Chae*, Sung-Hoon Yoon*, Tae-Kyun Kim, Kuk-Jin Yoon CVPR 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Adversarially-trained Hierarchical Feature Extractor for Vehicle Re-identification",
+      "year": 2021,
+      "citation_raw": "Adversarially-trained Hierarchical Feature Extractor for Vehicle Re-identification Pranjay Shyam, Kuk-Jin Yoon, Kyung-Soo Kim ICRA 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Towards Domain Invariant Single Image Dehazing",
+      "year": 2021,
+      "citation_raw": "Towards Domain Invariant Single Image Dehazing Pranjay Shyam, Kuk-Jin Yoon, Kyung-Soo Kim AAAI 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Scanline Resolution-invariant Depth Completion using a Single Image and Sparse LiDAR Point Cloud",
+      "year": 2021,
+      "citation_raw": "Scanline Resolution-invariant Depth Completion using a Single Image and Sparse LiDAR Point Cloud Kwonoyoung Ryu, Kang-il Lee, Jegyeong Cho, Kuk-Jin Yoon IEEE Robotics and Automation Letters (RA-L) 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "EOMVS: Event-based Omnidirectional Multi-View Stereo",
+      "year": 2021,
+      "citation_raw": "EOMVS: Event-based Omnidirectional Multi-View Stereo Hoonhee Cho, Jaeseok Jeong, Kuk-Jin Yoon IEEE Robotics and Automation Letters (RA-L) 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Improvement of Optical Flow Estimation by Using the Hampel Filter for Low-End Embedded Systems",
+      "year": 2021,
+      "citation_raw": "Improvement of Optical Flow Estimation by Using the Hampel Filter for Low-End Embedded Systems Ji-il Park, Yeongseok Lee, Eungyo Suh, Hyunyoung Jeon, Kuk-Jin Yoon, Kyung-Soo Kim IEEE Robotics and Automation Letters (RA-L) 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "PSAT-GAN: Efficient Adversarial Attacks against Holistic Scene Understanding",
+      "year": 2021,
+      "citation_raw": "PSAT-GAN: Efficient Adversarial Attacks against Holistic Scene Understanding Lin Wang, Kuk-Jin Yoon IEEE Transactions on Image Processing (TIP) 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks",
+      "year": 2021,
+      "citation_raw": "Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks Lin Wang, Kuk-Jin Yoon IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Learning to Reconstruct HDR Images from Events, with Applications to Depth and Flow Prediction",
+      "year": 2021,
+      "citation_raw": "Learning to Reconstruct HDR Images from Events, with Applications to Depth and Flow Prediction S. Mohammad Mostafavi I., Lin Wang, Kuk-Jin Yoon International Journal of Computer Vision (IJCV) 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "영상 광류를 추정하는 방법 및 이를 위한 장치",
+      "year": 2021,
+      "citation_raw": "영상 광류를 추정하는 방법 및 이를 위한 장치 문영수, 윤국진, 김재현 Domestic 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "카메라와 라이다를 이용한 정밀한 깊이 정보 추정 시스템 및 그 방법",
+      "year": 2021,
+      "citation_raw": "카메라와 라이다를 이용한 정밀한 깊이 정보 추정 시스템 및 그 방법 윤국진, 류권영, 이강일, 조제경 Domestic 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "약-지도 의미론적 영역 분할 신경망 학습 방법 및 장치",
+      "year": 2021,
+      "citation_raw": "약-지도 의미론적 영역 분할 신경망 학습 방법 및 장치 윤국진, 윤성훈, 권혁준, 김현성, 박대희 Domestic 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "이미지 변환을 이용한 주야간에서의 3D 객체 탐지",
+      "year": 2021,
+      "citation_raw": "이미지 변환을 이용한 주야간에서의 3D 객체 탐지 윤국진, 이정원 Domestic 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "모션 블러와 극심한 조명 환경에서 강건한 이벤트 기반 단일 물체 추적",
+      "year": 2021,
+      "citation_raw": "모션 블러와 극심한 조명 환경에서 강건한 이벤트 기반 단일 물체 추적 윤국진, 채유정 Domestic 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "스테레오 깊이 추정의 선택적 지식 증류를 통한 단안 깊이 추정 학습",
+      "year": 2021,
+      "citation_raw": "스테레오 깊이 추정의 선택적 지식 증류를 통한 단안 깊이 추정 학습 윤국진, 송경섭 Domestic 2021",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning",
+      "year": 2020,
+      "citation_raw": "EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning Lin Wang, Tae-Kyun Kim, Kuk-Jin Yoon CVPR 2020",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Learning to Super Resolve Intensity Images from Events",
+      "year": 2020,
+      "citation_raw": "Learning to Super Resolve Intensity Images from Events S. Mohammad Mostafavi I., Jonghyun Choi, Kuk-Jin Yoon CVPR 2020 Oral",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Dynamic Anchor Selection for Improving Object Localization",
+      "year": 2020,
+      "citation_raw": "Dynamic Anchor Selection for Improving Object Localization Pranjay Shyam, Kuk-Jin Yoon, Kyung-Soo Kim ICRA 2020",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Loop-Net: Joint Unsupervised Disparity and Optical Flow Estimation of Stereo Videos with Spatiotemporal Loop Consistency",
+      "year": 2020,
+      "citation_raw": "Loop-Net: Joint Unsupervised Disparity and Optical Flow Estimation of Stereo Videos with Spatiotemporal Loop Consistency Taewoo Kim, Kwonyoung Ryu, Kyeongseob Song, Kuk-Jin Yoon IEEE Robotics and Automation Letters (RA-L) 2020",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "SpherePHD: Applying CNNs on 360° Images with Non-Euclidean Spherical PolyHeDron Representation",
+      "year": 2020,
+      "citation_raw": "SpherePHD: Applying CNNs on 360° Images with Non-Euclidean Spherical PolyHeDron Representation Yeonkun Lee, Jaeseok Jeong, Jongseob Yun, Wonjune Cho, Kuk-Jin Yoon IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2020",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Deceiving Image-to-Image Translation Networks for Autonomous Driving with Adversarial Perturbations",
+      "year": 2020,
+      "citation_raw": "Deceiving Image-to-Image Translation Networks for Autonomous Driving with Adversarial Perturbations Lin Wang, Wonjune Cho, Kuk-Jin Yoon IEEE Robotics and Automation Letters (RA-L) 2020",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "스테레오 매칭 방법 및 이를 수행하는 장치",
+      "year": 2020,
+      "citation_raw": "스테레오 매칭 방법 및 이를 수행하는 장치 장지호, 정재찬, 신호철, 황대환, 최승민, 임을균, 조재일, 윤국진 Domestic 2020",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "네트워크 교정에 기반한 다중 심층 학습 네트워크 융합 프레임워크",
+      "year": 2020,
+      "citation_raw": "네트워크 교정에 기반한 다중 심층 학습 네트워크 융합 프레임워크 윤국진, 윤성훈 Domestic 2020",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "신체 대칭성을 이용한 3차원 사람 절대적 자세 추정 방법 및 장치",
+      "year": 2020,
+      "citation_raw": "신체 대칭성을 이용한 3차원 사람 절대적 자세 추정 방법 및 장치 윤국진, 윤종섭 Domestic 2020",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "비디오에서의 객체 검출을 위한 적응형 멀티스케일 특징점 집계 방법 및 장치",
+      "year": 2020,
+      "citation_raw": "비디오에서의 객체 검출을 위한 적응형 멀티스케일 특징점 집계 방법 및 장치 윤국진, 박성현 Domestic 2020",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "시-공간 루프 일관성을 이용한 비지도학습 기반 스테레오 비디오 깊이 및 광학 흐름 추정 방법 및 장치",
+      "year": 2020,
+      "citation_raw": "시-공간 루프 일관성을 이용한 비지도학습 기반 스테레오 비디오 깊이 및 광학 흐름 추정 방법 및 장치 윤국진, 김태우, 류권영, 송경섭 Domestic 2020",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360° Images",
+      "year": 2019,
+      "citation_raw": "SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360° Images Yeonkun Lee*, Jaeseok Jeong*, Jongseob Yun*, Wonjune Cho*, Kuk-Jin Yoon CVPR 2019",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks",
+      "year": 2019,
+      "citation_raw": "Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks Lin Wang*, S. Mohammad Mostafavi I.*, Kuk-Jin Yoon CVPR 2019",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Joint Estimation of Camera Orientation and Vanishing Points from Lines",
+      "year": 2019,
+      "citation_raw": "Joint Estimation of Camera Orientation and Vanishing Points from Lines Jeong-Kyun Lee, Kuk-Jin Yoon International Journal of Computer Vision (IJCV) 2019",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Distance-based Camera Network Topology Inference for Person Re-identification",
+      "year": 2019,
+      "citation_raw": "Distance-based Camera Network Topology Inference for Person Re-identification Yeong-Jun Cho, Kuk-Jin Yoon Pattern Recognition Letters 2019",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Exploiting Multi-layer Graph Factorization for Multi-attributed Graph Matching",
+      "year": 2019,
+      "citation_raw": "Exploiting Multi-layer Graph Factorization for Multi-attributed Graph Matching Hanmu Park, Kuk-Jin Yoon Pattern Recognition Letters 2019",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Consistent Multiple Graph Matching with Multi-layer Random Walks Synchronization",
+      "year": 2019,
+      "citation_raw": "Consistent Multiple Graph Matching with Multi-layer Random Walks Synchronization Hanmu Park, Kuk-Jin Yoon Pattern Recognition Letters 2019",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Learning and Selecting Confidence Measures for Robust Stereo Matching",
+      "year": 2019,
+      "citation_raw": "Learning and Selecting Confidence Measures for Robust Stereo Matching Min-Gyu Park, Kuk-Jin Yoon IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2019",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Structural Constraint Data Association for Online Multi-Object Tracking",
+      "year": 2019,
+      "citation_raw": "Structural Constraint Data Association for Online Multi-Object Tracking Ju Hong Yoon, Chang-Ryeol Lee, Ming-Hsuan Yang, Kuk-Jin Yoon International Journal of Computer Vision (IJCV) 2019",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "PAMM: Person Re-identification via Pose-aware Multi-shot Matching",
+      "year": 2018,
+      "citation_raw": "PAMM: Person Re-identification via Pose-aware Multi-shot Matching Yeong-Jun Cho, Kuk-Jin Yoon IEEE Transactions on Image Processing (TIP) 2018",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Temporally Consistent Road Surface Profile Estimation Using Stereo Vision",
+      "year": 2018,
+      "citation_raw": "Temporally Consistent Road Surface Profile Estimation Using Stereo Vision Jeong-Kyun Lee, Kuk-Jin Yoon IEEE Transactions on Intelligent Transportation Systems (T-ITS) 2018",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Multi-attributed Graph Matching with Multi-layer Graph Structure and Multi-layer Random Walks",
+      "year": 2018,
+      "citation_raw": "Multi-attributed Graph Matching with Multi-layer Graph Structure and Multi-layer Random Walks Han-Mu Park, Kuk-Jin Yoon IEEE Transactions on Image Processing (TIP) 2018",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Confidence-Based Data Association and Discriminative Deep Appearance Learning for Robust Online Multi-Object Tracking",
+      "year": 2018,
+      "citation_raw": "Confidence-Based Data Association and Discriminative Deep Appearance Learning for Robust Online Multi-Object Tracking Seung Hwan Bae, Kuk-Jin Yoon IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2018",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "객체 검색 후보 영역을 개선하기 위한 방법, 컴퓨터-판독가능 저장 매체 및 장치",
+      "year": 2018,
+      "citation_raw": "객체 검색 후보 영역을 개선하기 위한 방법, 컴퓨터-판독가능 저장 매체 및 장치 윤국진, 조대용 Domestic 2018",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "이미지를 이용하는 카메라의 방향과 관련한 정보 추정장치 및 추정방법",
+      "year": 2018,
+      "citation_raw": "이미지를 이용하는 카메라의 방향과 관련한 정보 추정장치 및 추정방법 윤국진, 이정균 Domestic 2018",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "카메라 네트워크 토폴로지 추정 및 객체 재식별을 위한 방법 및 시스템",
+      "year": 2018,
+      "citation_raw": "카메라 네트워크 토폴로지 추정 및 객체 재식별을 위한 방법 및 시스템 윤국진, 조영준 Domestic 2018",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Unified Framework for Automated Person Re-identification and Camera Network Topology Inference in Camera Networks",
+      "year": 2017,
+      "citation_raw": "Unified Framework for Automated Person Re-identification and Camera Network Topology Inference in Camera Networks Yeong-Jun Cho, Jae-Han Park, Su-A Kim, Kyuyeang Lee, Kuk-Jin Yoon ICCV Workshop 2017",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Joint Layout Estimation and Global Multi-View Registration for Indoor Reconstruction",
+      "year": 2017,
+      "citation_raw": "Joint Layout Estimation and Global Multi-View Registration for Indoor Reconstruction Jeong-Kyun Lee, Jae-Won Yae, Min-Gyu Park, Kuk-Jin Yoon ICCV 2017",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Automatic Content-aware Projection for 360° Videos",
+      "year": 2017,
+      "citation_raw": "Automatic Content-aware Projection for 360° Videos Chang-Ryeol Lee, Yeongwon Kim, Dae-Yong Cho, Yong-Hoon Kwon, Hyeok-Jae Choi, Kuk-Jin Yoon ICCV 2017",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Learning to Detect Dynamic Feature Points",
+      "year": 2017,
+      "citation_raw": "Learning to Detect Dynamic Feature Points Min-Gyu Park, Ju Hong Yoon, Jonghee Park, Jeong-Kyun Lee, Kuk-Jin Yoon IEEE IV 2017",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Multi-object Tracking via Tracklet Confidence-Aided Relative Motion Analysis",
+      "year": 2017,
+      "citation_raw": "Multi-object Tracking via Tracklet Confidence-Aided Relative Motion Analysis Han-Mu Park, Se-Hoon Park, Kuk-Jin Yoon SPIE Journal of Electronic Imaging 2017",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Cognitive Response and Cortical Oscillatory Processing for Various Stereoscopic Depths – Simultaneous EEG/MEG Study",
+      "year": 2017,
+      "citation_raw": "Cognitive Response and Cortical Oscillatory Processing for Various Stereoscopic Depths – Simultaneous EEG/MEG Study Hohyoun Cho, Min-Koo Kang, Sangtae Ahn, Moonyoung Kwon, Kuk-Jin Yoon, Kiwoong Kim, Sung Chan Jun Journal of Integrative Neuroscience 2017",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "A Wellness Platform for Stereoscopic 3D Video Systems Using EEG-based Visual Discomfort Evaluation Technology",
+      "year": 2017,
+      "citation_raw": "A Wellness Platform for Stereoscopic 3D Video Systems Using EEG-based Visual Discomfort Evaluation Technology Min-Koo Kang, Hohyoun Cho, Han-Mu Park, Sung Chan Jun, Kuk-Jin Yoon Applied Ergonomics 2017",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "신뢰척도에 따른 레버리지 스테레오 매칭 방법, 장치 및 컴퓨터-판독가능 저장 매체",
+      "year": 2017,
+      "citation_raw": "신뢰척도에 따른 레버리지 스테레오 매칭 방법, 장치 및 컴퓨터-판독가능 저장 매체 윤국진, 박민규 Domestic 2017",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "객체 간의 상대 움직임 정보를 이용한 영상 기반 계층적 다중 객체 추적 방법 및 시스템",
+      "year": 2017,
+      "citation_raw": "객체 간의 상대 움직임 정보를 이용한 영상 기반 계층적 다중 객체 추적 방법 및 시스템 윤국진, 윤주홍, 황영배, 최병호 Domestic 2017",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "물체 인식 시스템 및 그 물체 인식 방법",
+      "year": 2017,
+      "citation_raw": "물체 인식 시스템 및 그 물체 인식 방법 이지효, 윤국진, 한우섭 Domestic 2017",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Multi-attributed Graph Matching with Multi-layer Random Walks",
+      "year": 2016,
+      "citation_raw": "Multi-attributed Graph Matching with Multi-layer Random Walks Han-Mu Park, Kuk-Jin Yoon ECCV 2016",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Improving Person Re-identification via Pose-aware Multi-shot Matching",
+      "year": 2016,
+      "citation_raw": "Improving Person Re-identification via Pose-aware Multi-shot Matching Yeong-Jun Cho, Kuk-Jin Yoon CVPR 2016",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Hierarchical Online Multi-object Tracking via Structural Constraint Event Aggregation",
+      "year": 2016,
+      "citation_raw": "Hierarchical Online Multi-object Tracking via Structural Constraint Event Aggregation Ju Hong Yoon, Chang-Ryeol Lee, Ming-Hsuan Yang, Kuk-Jin Yoon CVPR 2016",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Multi-Classifier-based Automatic Polyp Detection in Endoscopic Images",
+      "year": 2016,
+      "citation_raw": "Multi-Classifier-based Automatic Polyp Detection in Endoscopic Images Yeong-Jun Cho, Seung Hwan Bae, Kuk-Jin Yoon Journal of Medical and Biological Engineering 2016",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Encouraging Second-order Consistency for Multiple Graph Matching",
+      "year": 2016,
+      "citation_raw": "Encouraging Second-order Consistency for Multiple Graph Matching Han-Mu Park, Kuk-Jin Yoon Machine Vision and Applications 2016",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "PatchMatch Belief Propagation Meets Depth Upsampling for High-resolution Depth Maps",
+      "year": 2016,
+      "citation_raw": "PatchMatch Belief Propagation Meets Depth Upsampling for High-resolution Depth Maps Yongho Shin, Kuk-Jin Yoon Electronics Letters 2016",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Interacting Multiview Trackers",
+      "year": 2016,
+      "citation_raw": "Interacting Multiview Trackers Ju Hong Yoon, Ming-Hsuan Yang, Kuk-Jin Yoon IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2016",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Robust Spatiotemporal Stereo against Image Motion and Temporal Disparity Variation",
+      "year": 2016,
+      "citation_raw": "Robust Spatiotemporal Stereo against Image Motion and Temporal Disparity Variation Yongho Shin, Kuk-Jin Yoon Electronics Letters 2016",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Real-time Joint Estimation of Camera Orientation and Vanishing Points",
+      "year": 2015,
+      "citation_raw": "Real-time Joint Estimation of Camera Orientation and Vanishing Points Jeong-Kyun Lee, Kuk-Jin Yoon CVPR 2015",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Leveraging Stereo Matching with Learning-based Confidence Measures",
+      "year": 2015,
+      "citation_raw": "Leveraging Stereo Matching with Learning-based Confidence Measures Min-Gyu Park, Kuk-Jin Yoon CVPR 2015",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Polyp Detection via Imbalanced Learning and Discriminative Feature Learning",
+      "year": 2015,
+      "citation_raw": "Polyp Detection via Imbalanced Learning and Discriminative Feature Learning Seung Hwan Bae, Kuk-Jin Yoon IEEE Transactions on Medical Imaging (TMI) 2015",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Bayesian Filtering for Keyframe-based Visual SLAM",
+      "year": 2015,
+      "citation_raw": "Bayesian Filtering for Keyframe-based Visual SLAM Jungho Kim, Kuk-Jin Yoon, In So Kweon International Journal of Robotics Research (IJRR) 2015",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Stereo Vision with Image-guided Structured-light Pattern Matching",
+      "year": 2015,
+      "citation_raw": "Stereo Vision with Image-guided Structured-light Pattern Matching Min-Gyu Park, Jonghee Park, Yongho Shin, Eui-Gyoem Lim, Kuk-Jin Yoon IET Electronics Letters 2015",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Robust Online Multi-Object Tracking based on Tracklet Confidence and Online Discriminative Appearance Learning",
+      "year": 2014,
+      "citation_raw": "Robust Online Multi-Object Tracking based on Tracklet Confidence and Online Discriminative Appearance Learning Seung Hwan Bae, Kuk-Jin Yoon CVPR 2014",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Robust Calibration of an Ultra-Low-Cost Inertial Measurement Unit and a Camera: Handling of Severe System Uncertainty",
+      "year": 2014,
+      "citation_raw": "Robust Calibration of an Ultra-Low-Cost Inertial Measurement Unit and a Camera: Handling of Severe System Uncertainty Chang-Ryeol Lee, Ju Hong Yoon, Kuk-Jin Yoon ICRA 2014",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Dynamic Point Clustering with Line Constraints for Moving Object Detection in DAS",
+      "year": 2014,
+      "citation_raw": "Dynamic Point Clustering with Line Constraints for Moving Object Detection in DAS Jong-Hee Park, Ju Hong Yoon, Min-Gyu Park, Kuk-Jin Yoon IEEE Signal Processing Letters (SPL) 2014",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Depth-Discrepancy-Compensated Inter-Prediction with Adaptive Segment Management for Multiview Depth Video Coding",
+      "year": 2014,
+      "citation_raw": "Depth-Discrepancy-Compensated Inter-Prediction with Adaptive Segment Management for Multiview Depth Video Coding Minkoo Kang, Kuk-Jin Yoon IEEE Transactions on Multimedia (TMM) 2014",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Robust Online Multi-Object Tracking with Data Association and Track Management",
+      "year": 2014,
+      "citation_raw": "Robust Online Multi-Object Tracking with Data Association and Track Management Seung Hwan Bae, Kuk-Jin Yoon IEEE Transactions on Image Processing (TIP) 2014",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Adaptive Support of Spatial-Temporal Neighboring Samples for Depth Map Sequence Up-sampling",
+      "year": 2014,
+      "citation_raw": "Adaptive Support of Spatial-Temporal Neighboring Samples for Depth Map Sequence Up-sampling Min-Koo Kang, Daeyoung Kim, Kuk-Jin Yoon IEEE Signal Processing Letters (SPL) 2014",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "High-quality Stereo Depth Map Generation Using Infrared Pattern Projection",
+      "year": 2013,
+      "citation_raw": "High-quality Stereo Depth Map Generation Using Infrared Pattern Projection Jae-changean Jeong, Ho-chul Shin, Jiho Chang, Eul-gyun Lim, Seungmin Choi, Kuk-Jin Yoon, Jae-il Cho ETRI Journal 2013",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "용종 검출 장치 및 그 동작방법",
+      "year": 2013,
+      "citation_raw": "용종 검출 장치 및 그 동작방법 김성현, 윤국진, 배승환, 조영준, 김태경, 정지운 Domestic 2013",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Feasibility Study for Visual Discomfort Assessment on Stereo Images using EEG",
+      "year": 2012,
+      "citation_raw": "Feasibility Study for Visual Discomfort Assessment on Stereo Images using EEG H. Cho, M.-K. Kang, Kuk-Jin Yoon, S. C. Jun IC3D 2012",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Visual Tracking via Adaptive Tracker Selection with Multiple Features",
+      "year": 2012,
+      "citation_raw": "Visual Tracking via Adaptive Tracker Selection with Multiple Features Ju Hong Yoon, Du Yong Kim, Kuk-Jin Yoon ECCV 2012",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    },
+    {
+      "title": "Optimal Key-frame Selection for Video-based Structure-from-motion",
+      "year": 2011,
+      "citation_raw": "Optimal Key-frame Selection for Video-based Structure-from-motion Min-Gyu Park, Kuk-Jin Yoon Electronics Letters (EL) 2011",
+      "source_url": "https://vi.kaist.ac.kr/pages/publications/"
+    }
+  ]
+}

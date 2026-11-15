@@ -1,0 +1,88 @@
+{
+  "university": "Harvard University",
+  "university_key": "harvard",
+  "pi": "John H. Shaw",
+  "lab_name": null,
+  "lab_url": "https://structure.harvard.edu/",
+  "publication_urls": [
+    "https://doi.org/10.1785/0120250247",
+    "https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220250241/725333/Probing-the-Seattle-Basin-Edge-Using-a-Dense-Urban",
+    "https://www.sciencedirect.com/science/article/pii/S0360319925059671"
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "게시 목록 페이지 후보에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
+  "dropped_low_confidence": [
+    {
+      "title": "GIS–MCDA Approach for Underground Hydrogen Storage Site Screening in Deep Saline Aquifers: Geological, Renewable Energy, and Infrastructure Criteria",
+      "year": 2026,
+      "citation_raw": "GIS–MCDA Approach for Underground Hydrogen Storage Site Screening in Deep Saline Aquifers: Geological, Renewable Energy, and Infrastructure Criteria Misiak J., Uliasz-Misiak B. Energies • Volume 19 • 2026 • Article 4421",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "International Journal of Hydrogen Energy",
+      "year": 2026,
+      "citation_raw": "Sign in International Journal of Hydrogen Energy Date: 21 January 2026",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671"
+    },
+    {
+      "title": "Next article in this issue",
+      "year": 2030,
+      "citation_raw": "Next article in this issue Introduction Global climate challenges and the threat they pose to modern societies have become central to both scientific and public discourse over the past few decades. A critical component in finding solutions to these challenges is addressing the oversized role carbon-heavy energy sources play in our current infrastructure [1], [2], [3], [4]. Following the 2021 United Nations Climate Change Conference (COP26), further climate goals were added with the EU collectively declaring that its energy mix will comprise of 55% renewable energy sources (RES) by 2050 [5]. The United States also pledged to reduce greenhouse gas emissions by 50%–52% below 2005 levels by 2030, with this target being part of a broader commitment to achieve net-zero emissions by 2050 [6]. In line with these goals, on October 13, 2023, it was announced that California would receive up to $1.2 billion from the US Department of Energy to accelerate the development and deployment of renewable hydrogen programs across the state [7]. As one of the largest residential and industrial energy markets in the world, using hydrogen to make a meaningful impact on the carbon emissions from energy and transport in the Los Angeles region requires large scale infrastructural investment [8].",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671"
+    },
+    {
+      "title": "Key technologies, engineering management and important suggestions of shale oil/gas development: Case study of a Duvernay shale project in Western Canada Sedimentary Basin",
+      "year": 2020,
+      "citation_raw": "Key technologies, engineering management and important suggestions of shale oil/gas development: Case study of a Duvernay shale project in Western Canada Sedimentary Basin Guoxin LI, …, Deqin SHI Petroleum Exploration and Development • Volume 47, Issue 4 • 2020 • Pages 791-802",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671"
+    },
+    {
+      "title": "Joint opening or hydroshearing? Analyzing a fracture zone stimulation at Fenton Hill",
+      "year": 2019,
+      "citation_raw": "Joint opening or hydroshearing? Analyzing a fracture zone stimulation at Fenton Hill Antonio P. Rinaldi, Jonny Rutqvist Geothermics • Volume 77 • 2019 • Pages 83-98",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671"
+    },
+    {
+      "title": "Estimating compressibility of complex fracture networks in unconventional reservoirs",
+      "year": 2020,
+      "citation_raw": "Estimating compressibility of complex fracture networks in unconventional reservoirs Yanmin Xu, …, Hassan Dehghanpour International Journal of Rock Mechanics and Mining Sciences • Volume 127 • 2020 • Article 104186",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671"
+    },
+    {
+      "title": "Machine learning in subsurface geothermal energy: Two decades in review",
+      "year": 2022,
+      "citation_raw": "Machine learning in subsurface geothermal energy: Two decades in review Esuru Rita Okoroafor, …, Mohammad (Jabs) Aljubran Geothermics • Volume 102 • 2022 • Article 102401",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671"
+    },
+    {
+      "title": "Hydraulic fracture propagation in naturally fractured reservoirs: Complex fracture or fracture networks",
+      "year": 2019,
+      "citation_raw": "Hydraulic fracture propagation in naturally fractured reservoirs: Complex fracture or fracture networks HanYi Wang Journal of Natural Gas Science and Engineering • Volume 68 • 2019 • Article 102911",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671"
+    },
+    {
+      "title": "Pore-scale modeling of multiple fluids flow transport kinetics for CO2 enhanced gas recovery",
+      "year": 2025,
+      "citation_raw": "Pore-scale modeling of multiple fluids flow transport kinetics for CO2 enhanced gas recovery Xinyuan Gao, …, Ermeng Zhao Energy • Volume 315 • 2025 • Article 134486",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671"
+    },
+    {
+      "title": "GIS–MCDA Approach for Underground Hydrogen Storage Site Screening in Deep Saline Aquifers: Geological, Renewable Energy, and Infrastructure Criteria",
+      "year": 2026,
+      "citation_raw": "GIS–MCDA Approach for Underground Hydrogen Storage Site Screening in Deep Saline Aquifers: Geological, Renewable Energy, and Infrastructure Criteria Misiak J., Uliasz-Misiak B. Energies • Volume 19 • 2026 • Article 4421",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671"
+    },
+    {
+      "title": "All content on this site: Copyright © 2026 Elsevier B.V",
+      "year": 2026,
+      "citation_raw": "Privacy policy Cookie settings All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671"
+    }
+  ]
+}

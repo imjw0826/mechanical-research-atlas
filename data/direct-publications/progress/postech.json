@@ -1,0 +1,301 @@
+{
+  "university": "POSTECH",
+  "total": 26,
+  "attempted": 26,
+  "collected": 0,
+  "blocked": 2,
+  "papers": 0,
+  "status": "all_attempted_partial_extraction",
+  "labs": [
+    {
+      "index": 1,
+      "pi": "강대식",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor30",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-1.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 2,
+      "pi": "고제성",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor32",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-2.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 3,
+      "pi": "김기현",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor01",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-3.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 4,
+      "pi": "김기훈",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor02",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-4.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 5,
+      "pi": "김동성",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor03",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-5.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 6,
+      "pi": "김동식",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor04",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-6.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 7,
+      "pi": "김석",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor25",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-7.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 8,
+      "pi": "김진태",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor28",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-8.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 9,
+      "pi": "김준원",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor06",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-9.json",
+      "coverage_notes": [
+        "Attempted https://mnt.postech.ac.kr/web/ error Error: Selector \"body\" not found"
+      ]
+    },
+    {
+      "index": 10,
+      "pi": "김철홍",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor23",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-10.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 11,
+      "pi": "노준석",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor07",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-11.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 12,
+      "pi": "문원규",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor08",
+      "status": "blocked",
+      "papers": 0,
+      "output": "postech-12.json",
+      "coverage_notes": [
+        "Attempted https://photonics.postech.ac.kr/publications error Error: net::ERR_HTTP_RESPONSE_CODE_FAILURE"
+      ]
+    },
+    {
+      "index": 13,
+      "pi": "박성민",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor26",
+      "status": "blocked",
+      "papers": 0,
+      "output": "postech-13.json",
+      "coverage_notes": [
+        "Attempted https://me.postech.ac.kr/ko/page/professor26 error Error: Selector \"body\" not found"
+      ]
+    },
+    {
+      "index": 14,
+      "pi": "박재성",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor10",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-14.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 15,
+      "pi": "박형규",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor11",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-15.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 16,
+      "pi": "신동일",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor29",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-16.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 17,
+      "pi": "신원동",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor31",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-17.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 18,
+      "pi": "안지환",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor27",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-18.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 19,
+      "pi": "유동현",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor12",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-19.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 20,
+      "pi": "이상준",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor13",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-20.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 21,
+      "pi": "이안나",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor15",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-21.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 22,
+      "pi": "임근배",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor16",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-22.json",
+      "coverage_notes": [
+        "Attempted https://biomems.postech.ac.kr/web/ error Error: Selector \"body\" not found"
+      ]
+    },
+    {
+      "index": 23,
+      "pi": "장진아Jinah",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor24",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-23.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete.",
+        "Roster name is malformed (장진아Jinah / Jang); official profile visible text preserved for correction."
+      ]
+    },
+    {
+      "index": 24,
+      "pi": "조항진",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor19",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-24.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 25,
+      "pi": "진현규",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor20",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-25.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    },
+    {
+      "index": 26,
+      "pi": "한승용",
+      "profile_url": "https://me.postech.ac.kr/ko/page/professor33",
+      "status": "partial",
+      "papers": 0,
+      "output": "postech-26.json",
+      "coverage_notes": [
+        "Official POSTECH mechanical engineering profile and linked lab/publication landing page attempted. Visible text preserved. Structured extraction and all subordinate year/category/pagination pages remain pending; not complete."
+      ]
+    }
+  ],
+  "updated_at": "2026-11-11T13:56:09.161Z",
+  "partial": 24,
+  "complete": 0
+}

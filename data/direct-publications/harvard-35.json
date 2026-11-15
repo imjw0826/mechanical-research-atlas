@@ -1,0 +1,73 @@
+{
+  "university": "Harvard University",
+  "university_key": "harvard",
+  "pi": "Stephanie Gil",
+  "lab_name": null,
+  "lab_url": "https://react.seas.harvard.edu/",
+  "publication_urls": [
+    "https://react.seas.harvard.edu/publications/",
+    "https://react.seas.harvard.edu/publications/motion-uncertainty-aware-next-best-view-planning-for-moving-object-reconstruction/",
+    "https://react.seas.harvard.edu/publications/confidence-boosts-trust-based-resilience-in-cooperative-multi-robot-systems/",
+    "https://react.seas.harvard.edu/publications/multi-agent-trustworthy-consensus-under-random-dynamic-attacks/",
+    "https://react.seas.harvard.edu/publications/wifi-csi-sensing-and-bearing-estimation-in-multi-robot-systems/",
+    "https://react.seas.harvard.edu/publications/fast-distributed-optimization-over-directed-graphs-under-malicious-attacks-using-trust/",
+    "https://react.seas.harvard.edu/publications/connectivity-maintenance-for-high-speed-communication-with-adversarial-jamming/",
+    "https://react.seas.harvard.edu/publications/description-of-a-collaborative-sperm-whale-birth/",
+    "https://react.seas.harvard.edu/publications/wiser-x-wireless-signals-based-efficient-decentralized-multi-robot-exploration/",
+    "https://react.seas.harvard.edu/publications/characterization-and-mitigation-of-training-instabilities-in-microscaling-formats/"
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 10개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "How Physicality Enables Cy-Trust: A New Era of Trust-Centered Cyber–Physical Systems",
+      "year": 2025,
+      "citation_raw": "How Physicality Enables Cy-Trust: A New Era of Trust-Centered Cyber–Physical Systems Stephanie Gil, Michal Yemini, Arsenia Chorti, Angelia Nedić, H. Vincent Poor, and Andrea J. Goldsmith Proceedings of the IEEE",
+      "source_url": "https://react.seas.harvard.edu/publications/",
+      "year_type": "page_section"
+    },
+    {
+      "title": "Confidence Boosts Trust-Based Resilience in Cooperative Multi-Robot Systems",
+      "year": 2025,
+      "citation_raw": "Copy Ballotta, Luca, et al. “Confidence Boosts Trust-Based Resilience in Cooperative Multi-Robot Systems.” arXiv Preprint arXiv:2506.08807, 2025, https://arxiv.org/abs/2506.08807.",
+      "source_url": "https://react.seas.harvard.edu/publications/confidence-boosts-trust-based-resilience-in-cooperative-multi-robot-systems/"
+    },
+    {
+      "title": "WiFi-CSI Sensing and Bearing Estimation in Multi-Robot Systems: An Open-Source Simulation Framework",
+      "year": 2024,
+      "citation_raw": "Dijkstra, Brendan, et al. “WiFi-CSI Sensing and Bearing Estimation in Multi-Robot Systems: An Open-Source Simulation Framework.” arXiv Preprint arXiv:2410.01398, 2024, https://arxiv.org/abs/2410.01398.",
+      "source_url": "https://react.seas.harvard.edu/publications/wifi-csi-sensing-and-bearing-estimation-in-multi-robot-systems/"
+    },
+    {
+      "title": "Connectivity Maintenance for High-Speed Communication With Adversarial Jamming",
+      "year": 2026,
+      "citation_raw": "Copy Kaminsky, Thomas, et al. “Connectivity Maintenance for High-Speed Communication With Adversarial Jamming.” 2026 43d Annual International Conference on Robotics and Automation (ICRA), IEEE, 2026.",
+      "source_url": "https://react.seas.harvard.edu/publications/connectivity-maintenance-for-high-speed-communication-with-adversarial-jamming/"
+    },
+    {
+      "title": "Description of a Collaborative Sperm Whale Birth and Shifts in Coda Vocal Styles during Key Events",
+      "year": 2026,
+      "citation_raw": "Aluma, Yaniv, et al. “Description of a Collaborative Sperm Whale Birth and Shifts in Coda Vocal Styles during Key Events.” Scientific Reports, vol. 16, no. 1, 2026, p. 9206, https://doi.org/10.1038/s41598-025-27438-3.",
+      "source_url": "https://react.seas.harvard.edu/publications/description-of-a-collaborative-sperm-whale-birth/"
+    },
+    {
+      "title": "WiSER-X: Wireless Signals-Based Efficient Decentralized Multi-Robot Exploration without Explicit Information Exchange",
+      "year": 2026,
+      "citation_raw": "Jadhav, Ninad, et al. “WiSER-X: Wireless Signals-Based Efficient Decentralized Multi-Robot Exploration without Explicit Information Exchange.” IEEE Robotics and Automation Letters, 2026.",
+      "source_url": "https://react.seas.harvard.edu/publications/wiser-x-wireless-signals-based-efficient-decentralized-multi-robot-exploration/"
+    },
+    {
+      "title": "Characterization and Mitigation of Training Instabilities in Microscaling Formats",
+      "year": 2026,
+      "citation_raw": "Copy Su, Huangyuan, et al. “Characterization and Mitigation of Training Instabilities in Microscaling Formats.” Transactions on Machine Learning Research, 2026, https://arxiv.org/abs/2506.20752.",
+      "source_url": "https://react.seas.harvard.edu/publications/characterization-and-mitigation-of-training-instabilities-in-microscaling-formats/"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Publication landing page preserved. Full extraction, year/category subpages and pagination remain pending; no inferred paper values recorded.",
+    "Official identity/affiliation visible text preserved; roster identity not auto-corrected."
+  ]
+}

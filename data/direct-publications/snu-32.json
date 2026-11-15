@@ -1,0 +1,980 @@
+{
+  "university": "Seoul National University",
+  "university_key": "snu",
+  "pi": "최해천",
+  "pi_en": "Choi, Haecheon",
+  "lab_name": "난류, 유동제어 및 CFD/생체모방공학 실험실",
+  "lab_url": "http://tfc.snu.ac.kr/",
+  "publication_urls": [
+    "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper",
+    "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper",
+    "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper",
+    "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper",
+    "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper",
+    "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper",
+    "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper",
+    "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper",
+    "https://tfc.snu.ac.kr/index.php?pg=1&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 9개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "A neural-network-based subgrid-scale model trained on backward-facing-step flow for large-eddy simulation of unseen turbulent flows",
+      "year": 2026,
+      "citation_raw": "159 Park, J. A neural-network-based subgrid-scale model trained on backward-facing-step flow for large-eddy simulation of unseen turbulent flows Phys. Fluids 38 105201 2026",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Flow characteristics past a normal flat plate at Re=5-10000",
+      "year": 2026,
+      "citation_raw": "158 Song, D., Jin, D. & Choi, H. Flow characteristics past a normal flat plate at Re=5-10000. Phys. Fluids 38 088108 2026",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "On the assumption of conventional FFR: a modified formulation",
+      "year": 2026,
+      "citation_raw": "157 Na, H., Kim, C., Choi, H., Kweon, J., Yang, D. H. & Kim, Y.-H. On the assumption of conventional FFR: a modified formulation. J. Biomechanics 204 113381 2026",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Large eddy simulation of turbulent flow over a backward-facing step with a neural-network-based subgrid-scale model",
+      "year": 2025,
+      "citation_raw": "156 Park, J. & Choi, H. Large eddy simulation of turbulent flow over a backward-facing step with a neural-network-based subgrid-scale model. Phys. Fluids 37 125115 2025",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Perspective on machine-learning-based large-eddy simulation",
+      "year": 2025,
+      "citation_raw": "155 Choi, H., Cho, C., Kim, M. & Park, J. Perspective on machine-learning-based large-eddy simulation. Phys. Rev. Fluids 10 110701 2025",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A numerical study on the clustering characteristics of rising air bubbles in stagnant water",
+      "year": 2026,
+      "citation_raw": "154 Lee, I. & Choi, H. A numerical study on the clustering characteristics of rising air bubbles in stagnant water. Int. J. Multiphase Flow 194 105419 2026",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effect of the spanwise domain size on the flow characteristics behind a circular cylinder at low Reynolds numbers",
+      "year": 2025,
+      "citation_raw": "153 Song, D., Yoon, Y.-J. & Choi, H. Effect of the spanwise domain size on the flow characteristics behind a circular cylinder at low Reynolds numbers. Phys. Rev. Fluids 10 074103 2025",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Neural-network-based optimization of the wing kinematics and geometry of a hovering flapping flight",
+      "year": 2025,
+      "citation_raw": "152 Lee, H., Oh, S. & Choi, H. Neural-network-based optimization of the wing kinematics and geometry of a hovering flapping flight. Phys. Fluids 37 031918 2025",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Aerodynamic performance enhancement of a vertical-axis wind turbine by a biomimetic flap",
+      "year": 2024,
+      "citation_raw": "151 Ahnn, S., Kim, H. & Choi, H. Aerodynamic performance enhancement of a vertical-axis wind turbine by a biomimetic flap. Bioinspir. Biomim. 20 016022 2024",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A recursive neural-network-based subgrid-scale model for large eddy simulation: application to homogeneous isotropic turbulence",
+      "year": 2024,
+      "citation_raw": "150 Cho, C., Park, J. & Choi, H. A recursive neural-network-based subgrid-scale model for large eddy simulation: application to homogeneous isotropic turbulence. J. Fluid Mech. 1000 A76 2024",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A numerical study on the turbulence characteristics in an air-water upward bubbly pipe flow",
+      "year": 2024,
+      "citation_raw": "149 Lee, I., Chang, J., Kim, K. & Choi, H. A numerical study on the turbulence characteristics in an air-water upward bubbly pipe flow. J. Fluid Mech. 994 A10 2024",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A locally redistributed level-set method for numerical simulation of thin interface structures",
+      "year": 2024,
+      "citation_raw": "148 Chang, J., Kim, K. & Choi, H. A locally redistributed level-set method for numerical simulation of thin interface structures. Computers & Fluids 278 106315 2024",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effect of the yaw angle on the riblet performance",
+      "year": 2024,
+      "citation_raw": "147 Park, J. & Choi, H. Effect of the yaw angle on the riblet performance. Phys. Fluids 36 065110 2024",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Characteristics of turbulent core-annular flow with water-lubricated high viscosity oil in a horizontal pipe",
+      "year": 2024,
+      "citation_raw": "146 Kim, K. & Choi, H. Characteristics of turbulent core-annular flow with water-lubricated high viscosity oil in a horizontal pipe. J. Fluid Mech. 986 A19 2024",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Large eddy simulation of flow over a circular cylinder with a neural-network-based subgrid-scale model",
+      "year": 2024,
+      "citation_raw": "145 Kim, M., Park, J. & Choi, H. Large eddy simulation of flow over a circular cylinder with a neural-network-based subgrid-scale model. J. Fluid Mech. 984 A6 2024",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Role of the deviation motion on the aerodynamic performance of a mosquito wing in hover",
+      "year": 2024,
+      "citation_raw": "144 Jung, H., Oh, S. & Choi, H. Role of the deviation motion on the aerodynamic performance of a mosquito wing in hover. Computers & Fluids 270 106146 2024",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effect of superhydrophilic surface on the cavitation behaviors of rotating blades",
+      "year": 2023,
+      "citation_raw": "143 Choi, H., Oh, S., Lee, C., Choi, H. & Park, H. Effect of superhydrophilic surface on the cavitation behaviors of rotating blades. Phys. Fluids 35 113316 2023",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Leading-edge vortex and aerodynamic performance scaling in a simplified vertical-axis wind turbine",
+      "year": 2023,
+      "citation_raw": "142 Ahnn, S. & Choi, H. Leading-edge vortex and aerodynamic performance scaling in a simplified vertical-axis wind turbine. Phys. Fluids 35 105140 2023",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Vertical and torsional vibrations before the collapse of the Tacoma Narrows Bridge in 1940",
+      "year": 2022,
+      "citation_raw": "141 Song, D., Kim, W., Kwon, O.-K. & Choi, H. Vertical and torsional vibrations before the collapse of the Tacoma Narrows Bridge in 1940. J. Fluid Mech. 949 A11 2022",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Modification of flow behind a circular cylinder by steady and time-periodic blowing",
+      "year": 2021,
+      "citation_raw": "140 Wu, Z. & Choi, H. Modification of flow behind a circular cylinder by steady and time-periodic blowing. Phys. Fluids 33 115126 2021",
+      "source_url": "https://tfc.snu.ac.kr/index.php?hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A predictive model of the drag coefficient of a circular cylinder",
+      "year": 2021,
+      "citation_raw": "139 Jin, D., Wu, Z. & Choi, H. A predictive model of the drag coefficient of a circular cylinder. Phys. Fluids 33 111702 2021",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Toward neural-network-based large eddy simulation: application to turbulent channel flow",
+      "year": 2021,
+      "citation_raw": "138 Park, J. & Choi, H. Toward neural-network-based large eddy simulation: application to turbulent channel flow. J. Fluid Mech. 914 (Special volume in ce A16 2021",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A zero-dimensional predictive model for the pressure drop in the stenotic coronary artery based on its geometric characteristics",
+      "year": 2020,
+      "citation_raw": "137 Kim, J., Jin, D., Choi, H., Kweon, J., Yang, D. H. & Kim, Y.-H. A zero-dimensional predictive model for the pressure drop in the stenotic coronary artery based on its geometric characteristics. J. Biomech. 113 110076 2020",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Machine-learning-based feedback control for drag reduction in a turbulent channel flow",
+      "year": 2020,
+      "citation_raw": "136 Park, J. & Choi, H. Machine-learning-based feedback control for drag reduction in a turbulent channel flow. J. Fluid Mech. 904 A24 2020",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effects of pannus formation on the flow around a bileaflet mechanical heart valve",
+      "year": 2020,
+      "citation_raw": "135 Kim, W., Choi, H., Kweon, J., Yang, D. H. & Kim, Y.-H. Effects of pannus formation on the flow around a bileaflet mechanical heart valve. PLOS One 15(6) e0234341 2020",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Drag reduction on a three-dimensional model vehicle using a wire-to-plate DBD plasma actuator",
+      "year": 2020,
+      "citation_raw": "134 Kim, D., Do, H. & Choi, H. Drag reduction on a three-dimensional model vehicle using a wire-to-plate DBD plasma actuator. Exp. Fluids 61 A135 2020",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effect of body angle on the aerodynamics of a rhinoceros beetle: smoke-wire visualization in a wind tunnel",
+      "year": 2020,
+      "citation_raw": "133 Lee, B., Oh, S., Choi, H. & Park, H. Effect of body angle on the aerodynamics of a rhinoceros beetle: smoke-wire visualization in a wind tunnel. J. Mech. Sci. Tech. 34 209-218 2020",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A numerical and theoretical study of the aerodynamic performance of a hovering rhinoceros beetle (Trypoxylus dichotomus)",
+      "year": 2020,
+      "citation_raw": "132 Oh, S., Lee, B., Park, H., Choi, H. & Kim, S.-T. A numerical and theoretical study of the aerodynamic performance of a hovering rhinoceros beetle (Trypoxylus dichotomus). J. Fluid Mech. 885 A18 2020",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Predictions of the effective slip length and drag reduction with a lubricated micro-groove surface in a turbulent channel flow",
+      "year": 2019,
+      "citation_raw": "131 Chang, J., Jung, T., Choi, H. & Kim, J Predictions of the effective slip length and drag reduction with a lubricated micro-groove surface in a turbulent channel flow. J. Fluid Mech. 874 797-820 2019",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Flow over a ski jumper in flight: prediction of the aerodynamic force and flight posture with higher lift-to-drag ratio",
+      "year": 2019,
+      "citation_raw": "130 Kim, W., Lee, H., Lee, J., Jung, D. & Choi, H. Flow over a ski jumper in flight: prediction of the aerodynamic force and flight posture with higher lift-to-drag ratio. J. Biomech. 89 78-84 2019",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Iterative feedback tuning of the proportional-integral-differential control of flow over a circular cylinder",
+      "year": 2019,
+      "citation_raw": "129 Son, D. & Choi, H. Iterative feedback tuning of the proportional-integral-differential control of flow over a circular cylinder. IEEE Trans. Control Syst. Tech. 27 1385-1396 2019",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effect of a casing fence on the tip-leakage flow of an axial flow fan",
+      "year": 2019,
+      "citation_raw": "128 Park, K., Choi, H., Choi, S. & Sa, Y. Effect of a casing fence on the tip-leakage flow of an axial flow fan. Int. J. Heat Fluid Flow 77 157-170 2019",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Immersed boundary methods for fluid-structure interaction: a review",
+      "year": 2019,
+      "citation_raw": "127 Kim, W. & Choi, H. Immersed boundary methods for fluid-structure interaction: a review. Int. J. Heat Fluid Flow 75 301-309 2019",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effect of the spanwise computational domain size on the flow over a two-dimensional bluff body with spanwise periodic perturbations at low Reynolds number",
+      "year": 2019,
+      "citation_raw": "126 Kim, W & Choi, H. Effect of the spanwise computational domain size on the flow over a two-dimensional bluff body with spanwise periodic perturbations at low Reynolds number. Computers & Fluids 183 102-106 2019",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Experimental investigation of tip-leakage flow in an axial flow fan at various flow rates",
+      "year": 2019,
+      "citation_raw": "125 Lee, H., Park, K. & Choi, H. Experimental investigation of tip-leakage flow in an axial flow fan at various flow rates. J. Mech. Sci. Tech. 33 1271-1278 2019",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Flow structure modifications by leading-edge tubercles on a 3D wing",
+      "year": 2018,
+      "citation_raw": "124 Kim, H., Kim, J. & Choi, H. Flow structure modifications by leading-edge tubercles on a 3D wing. Bioinspir. Biomim. 13 066011 2018",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Control of flow around a low Reynolds number airfoil using longitudinal strips",
+      "year": 2018,
+      "citation_raw": "123 Cho, S., Kim, J. & Choi, H. Control of flow around a low Reynolds number airfoil using longitudinal strips. Phys. Rev. Fluids 3 113901 2018",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Scale interactions and spectral energy transfer in turbulent channel flow",
+      "year": 2018,
+      "citation_raw": "122 Cho, M., Hwang, Y. & Choi, H. Scale interactions and spectral energy transfer in turbulent channel flow. J. Fluid Mech. 854 474-504 2018",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A predictive model of the drag coefficient for a revolving wing at low Reynolds number",
+      "year": 2018,
+      "citation_raw": "121 Oh, S. & Choi, H. A predictive model of the drag coefficient for a revolving wing at low Reynolds number. Bioinspir. Biomim. 13 054001 2018",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Direct numerical simulation of a turbulent core-annular flow with water-lubricated high viscosity oil in a vertical pipe",
+      "year": 2018,
+      "citation_raw": "120 Kim, K. & Choi, H. Direct numerical simulation of a turbulent core-annular flow with water-lubricated high viscosity oil in a vertical pipe. J. Fluid Mech. 849 419-447 2018",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=2&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Flow characteristics in a volute-type centrifugal pump using large eddy simulation",
+      "year": 2018,
+      "citation_raw": "119 Kye, B., Park, K., Choi, H., Lee, M.& Kim, J.-H. Flow characteristics in a volute-type centrifugal pump using large eddy simulation. Int. J. Heat Fluid Flow 72 52-60 2018",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A weak-coupling immersed boundary method for fluid-structure interaction with low density ratio of solid to fluid",
+      "year": 2018,
+      "citation_raw": "118 Kim, W., Lee, I. & Choi, H. A weak-coupling immersed boundary method for fluid-structure interaction with low density ratio of solid to fluid. J. Comput. Phys 359 296 2018",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Scaling law for the lift force of autorotating falling seeds at terminal velocity",
+      "year": 2018,
+      "citation_raw": "117 Lee, I. & Choi, H. Scaling law for the lift force of autorotating falling seeds at terminal velocity. J. Fluid Mech. 835 406-420 2018",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Flight of a falling maple seed",
+      "year": 2017,
+      "citation_raw": "116 Lee, I. & Choi, H. Flight of a falling maple seed. Phys. Rev. Fluids 2 090511 2017",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Characteristics of the alula in relation to wing and body size in the Laridae and Sternidae",
+      "year": 2017,
+      "citation_raw": "115 Lee, S.-I. & Choi, H Characteristics of the alula in relation to wing and body size in the Laridae and Sternidae. Animal Cells & Systems 21 63-69 2017",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Linear proportional-integral control for skin-friction reduction in a turbulent channel flow",
+      "year": 2017,
+      "citation_raw": "114 Kim, E. & Choi, H. Linear proportional-integral control for skin-friction reduction in a turbulent channel flow. J. Fluid Mech. 814 430-451 2017",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Optimal disturbances in the near-wall region of turbulent channel flows",
+      "year": 2016,
+      "citation_raw": "113 Kim, E., Choi, H. & Kim, J. Optimal disturbances in the near-wall region of turbulent channel flows. Phys. Rev. Fluids. 1 074403 2016",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Vortical structures around a flexible oscillating panel for maximum thrust in a quiescent fluid",
+      "year": 2016,
+      "citation_raw": "112 Park, H., Park, Y.-J., Lee, B., Cho, K. & Choi, H. Vortical structures around a flexible oscillating panel for maximum thrust in a quiescent fluid. J. Fluids Struct. 67 241-260 2016",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Skin-friction generation by attached eddies in turbulent channel flow",
+      "year": 2016,
+      "citation_raw": "111 de Giovanetti, M., Hwang, Y. & Choi, H. Skin-friction generation by attached eddies in turbulent channel flow. J. Fluid Mech. 808 511-538 2016",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Hydrodynamic role of longitudinal dorsal ridges in a leatherback turtle swimming",
+      "year": 2016,
+      "citation_raw": "110 Bang, K., Kim, J., Lee, S.-I. & Choi, H. Hydrodynamic role of longitudinal dorsal ridges in a leatherback turtle swimming. Sci. Reports. 6 34283 2016",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Control of flow separation in a turbulent boundary layer using time-periodic forcing",
+      "year": 2016,
+      "citation_raw": "109 Cho, M., Choi, S. & Choi, H. Control of flow separation in a turbulent boundary layer using time-periodic forcing. J. Fluids Eng. 138(10) 101204 2016",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Flow around a helically twisted elliptic cylinder",
+      "year": 2016,
+      "citation_raw": "108 Kim, W., Lee, J. & Choi, H. Flow around a helically twisted elliptic cylinder Phys. Fluids 28 053602 2016",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A bio-inspired device for drag reduction on a three-dimensional model vehicle",
+      "year": 2016,
+      "citation_raw": "107 Kim, D., Lee, H., Yi, W. & Choi, H. A bio-inspired device for drag reduction on a three-dimensional model vehicle. Bioinspir. Biomim. 11 026004 2016",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effects of the air layer of an idealized superhydrophobic surface on the slip length and skin-friction drag",
+      "year": 2016,
+      "citation_raw": "106 Jung, T., Choi, H. & Kim, J. Effects of the air layer of an idealized superhydrophobic surface on the slip length and skin-friction drag. J. Fluid Mech. 790 R1 2016",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Sectional lift coefficient of a rotating wing at low Reynolds numbers",
+      "year": 2015,
+      "citation_raw": "105 Kim, J., Kweon, J. & Choi, H. Sectional lift coefficient of a rotating wing at low Reynolds numbers. J. Mech. Sci. & Tech. 29 4775-4781 2015",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A scaling law for the lift of hovering insects",
+      "year": 2015,
+      "citation_raw": "104 Lee, J., Choi, H. & Kim, H.-Y. A scaling law for the lift of hovering insects. J. Fluid Mech. 782 479-490 2015",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "The function of the alula in avian flight",
+      "year": 2015,
+      "citation_raw": "103 Lee, S.-i., Kim, J., Park, H., Jablonski, P. G. & Choi, H. The function of the alula in avian flight. Sci. Reports, 5 9914 2015",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Illustration of wing deformation effects in three-dimensional flapping flight",
+      "year": 2015,
+      "citation_raw": "102 Medina, A., Eldredge, J., Kweon, J. & Choi, H. Illustration of wing deformation effects in three-dimensional flapping flight. AIAA J. 53 2607-2620 2015",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A discrete-forcing immersed boundary method for the fluid-structure interaction of an elastic slender body",
+      "year": 2015,
+      "citation_raw": "101 Lee, I. & Choi, H. A discrete-forcing immersed boundary method for the fluid-structure interaction of an elastic slender body. J. Comput. Phys. 280 529-546 2015",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Space-time characteristics of a compliant wall in a turbulent channel flow",
+      "year": 2014,
+      "citation_raw": "100 Kim, E. & Choi, H. Space-time characteristics of a compliant wall in a turbulent channel flow. J. Fluid Mech. 756 30-53 2014",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=3&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Inverse Magnus effect on a rotating sphere: when and why",
+      "year": 2014,
+      "citation_raw": "99 Kim, J., Choi, H., Park, H. & Yoo, J. Y. Inverse Magnus effect on a rotating sphere: when and why. J. Fluid Mech. 754 R2 2014",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Aerodynamics of a golf ball with grooves",
+      "year": 2014,
+      "citation_raw": "98 Kim, J. & Choi, H. Aerodynamics of a golf ball with grooves. J. Sports Eng. & Tech. 228 233-241 2014",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Flow structures around a butterfly-shaped low-aspect-ratio wing",
+      "year": 2014,
+      "citation_raw": "97 Lee, B., Seong, J., Park, H. & Choi, H. Flow structures around a butterfly-shaped low-aspect-ratio wing. J. Mech. Sci. & Tech. 28 2669-2675 2014",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Control of laminar vortex shedding behind a circular cylinder Using tabs",
+      "year": 2014,
+      "citation_raw": "96 Yoon, J., Kim, J. & Choi, H. Control of laminar vortex shedding behind a circular cylinder Using tabs. J. Mech. Sci. & Tech. 28 1721-1725 2014",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Aerodynamics of heavy vehicles",
+      "year": 2014,
+      "citation_raw": "95 Choi, H., Lee, J. & Park, H. Aerodynamics of heavy vehicles. Annu. Rev. Fluid Mech. 46 441-468 2014",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Hydrodynamic characteristics of the sailfish (Istiophorus platypterus) and swordfish (Xiphias gladius) in gliding postures at their cruise speeds",
+      "year": 2013,
+      "citation_raw": "94 Sagong, W., Jeon, W.-P. & Choi Hydrodynamic characteristics of the sailfish (Istiophorus platypterus) and swordfish (Xiphias gladius) in gliding postures at their cruise speeds. PLOS ONE 8 e81323 2013",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Large eddy simulations of turbulent channel and boundary layer flows at high Reynolds number with mean wall shear stress boundary condition",
+      "year": 2013,
+      "citation_raw": "93 Lee, J., Cho, M. & Choi, H. Large eddy simulations of turbulent channel and boundary layer flows at high Reynolds number with mean wall shear stress boundary condition. Phys. Fluids 25 110808 2013",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Stabilization of absolute instability in spanwise wavy two-dimensional wakes",
+      "year": 2013,
+      "citation_raw": "92 Hwang, Y, Kim, J. & Choi, H. Stabilization of absolute instability in spanwise wavy two-dimensional wakes. J. Fluid Mech. 727 346-378 2013",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Biomimetic flow control based on morphological features of living creatures",
+      "year": 2012,
+      "citation_raw": "91 Choi, H., Park, H., Sagong, W. & Lee, S.-I. Biomimetic flow control based on morphological features of living creatures. Phys. Fluids 24 121302 2012",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A dynamic global subgrid-scale model for large eddy simulation of scalar transport in complex turbulent flows",
+      "year": 2012,
+      "citation_raw": "90 Lee, J. & Choi, H. A dynamic global subgrid-scale model for large eddy simulation of scalar transport in complex turbulent flows. J. Mech. Sci. & Tech. 26 3803 2012",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Grid-point requirements for large eddy simulation: Chapmans estimates revisited",
+      "year": 2012,
+      "citation_raw": "89 Choi, H. & Moin, P. Grid-point requirements for large eddy simulation: Chapmans estimates revisited. Phys. Fluids 24 011702 2012",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Kinematic control of aerodynamic forces on an inclined flapping wing with asymmetric strokes",
+      "year": 2012,
+      "citation_raw": "88 Park, H. & Choi, H. Kinematic control of aerodynamic forces on an inclined flapping wing with asymmetric strokes. Bioinspiration & Biomimetics. 7 016008 2012",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Flow-control approaches to drag reduction in aerodynamics: progress and prospects",
+      "year": 2011,
+      "citation_raw": "87 Leschziner, M. A., Choi, H. & Choi, K.-S. Flow-control approaches to drag reduction in aerodynamics: progress and prospects. Phil. Trans. R. Soc. A 369 1349-1351 2011",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Sources of spurious force oscillations from an immersed boundary method for moving-body problems",
+      "year": 2011,
+      "citation_raw": "86 Lee, J., Kim, J., Choi, H. & Yang, K.-S. Sources of spurious force oscillations from an immersed boundary method for moving-body problems. J. Comput. Phys. 230 2677-2695 2011",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Mechanism of drag reduction by a surface trip wire on a sphere",
+      "year": 2011,
+      "citation_raw": "85 Son, K., Choi, J., Jeon, W.-P. & Choi, H. Mechanism of drag reduction by a surface trip wire on a sphere. J. Fluid Mech. 672 411-427 2011",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A proportional-integral-differential control of flow over a circular cylinder",
+      "year": 2011,
+      "citation_raw": "84 Son, D., Jeon, S. & Choi, H. A proportional-integral-differential control of flow over a circular cylinder. Phil. Trans. R. Soc. A 369 1540-1555 2011",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Dynamic global model for large eddy simulation of transient flow",
+      "year": 2010,
+      "citation_raw": "83 Lee, J., Choi, H. & Park, N. Dynamic global model for large eddy simulation of transient flow. Phys. Fluids 22 075106 2010",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Sectional lift coefficient of a flapping wing in hovering motion",
+      "year": 2010,
+      "citation_raw": "82 Kweon, J. & Choi, H. Sectional lift coefficient of a flapping wing in hovering motion. Phys. Fluids 22 071703 2010",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Aerodynamic characteristics of flying fish in gliding flight",
+      "year": 2010,
+      "citation_raw": "81 Park, H. & Choi, H. Aerodynamic characteristics of flying fish in gliding flight. J. Exp. Biol. 213 3269-3279 2010",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effect of free-stream turbulence on the flow over a sphere",
+      "year": 2010,
+      "citation_raw": "80 Son, K., Choi, J., Jeon, W.-P. & Choi, H. Effect of free-stream turbulence on the flow over a sphere. Phys. Fluids 22 045101 2010",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=4&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Aerodynamic performance of a gliding swallowtail butterfly wing model",
+      "year": 2010,
+      "citation_raw": "79 Park, H., Bae, K., Lee, B., Jeon, W.-P. & Choi, H. Aerodynamic performance of a gliding swallowtail butterfly wing model. Exp. Mech. 50 1313-1321 2010",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Suboptimal feedback control of flow over a sphere",
+      "year": 2010,
+      "citation_raw": "78 Jeon, S. & Choi, H. Suboptimal feedback control of flow over a sphere. Int. J. Heat Fluid Flow 31 208-216 2010",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Boundary treatment for the unsteady surface velocity in an immersed boundary method",
+      "year": 2009,
+      "citation_raw": "77 Jeon, S. & Choi, H. Boundary treatment for the unsteady surface velocity in an immersed boundary method. J. Mech. Sci. & Tech. 23 2502-2506 2009",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Large eddy simulation of a circular jet: effect of inflow conditions on the near-field",
+      "year": 2009,
+      "citation_raw": "76 Kim, J. & Choi, H. Large eddy simulation of a circular jet: effect of inflow conditions on the near-field. J. Fluid Mech. 620 383-411 2009",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Sensitivity of global instability of spatially developing flow in weakly and fully nonlinear regimes",
+      "year": 2008,
+      "citation_raw": "75 Hwang, Y. & Choi, H. Sensitivity of global instability of spatially developing flow in weakly and fully nonlinear regimes. Phys. Fluids 20 071703 2008",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Does the sailfish skin reduce the skin friction like the shark skin?",
+      "year": 2008,
+      "citation_raw": "74 Sagong, W., Kim, C., Choi, S., Jeon, W.-P. & Choi, H. Does the sailfish skin reduce the skin friction like the shark skin? Phys. Fluids 20 101510 2008",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Control of flow over a bluff body",
+      "year": 2008,
+      "citation_raw": "73 Choi, H., Jeon, W.-P. & Kim, J. Control of flow over a bluff body. Annu. Rev. Fluid Mech. 40 113-139 2008",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Large eddy simulation of flow and heat transfer in a rotating ribbed channel",
+      "year": 2007,
+      "citation_raw": "72 Ahn, J., Choi, H. & Lee, J. S Large eddy simulation of flow and heat transfer in a rotating ribbed channel. Int. J. Heat Mass Transfer 50 4937-4947 2007",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Mixing enhancement behind a backward-facing step using tabs",
+      "year": 2007,
+      "citation_raw": "71 Park, H., Jeon, W.-P., Choi, H. & Yoo, J. Y. Mixing enhancement behind a backward-facing step using tabs. Phys. Fluids 19 105103 2007",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effect of local forcing on backward-facing step flow with laminar separation",
+      "year": 2007,
+      "citation_raw": "70 Kim, S., Choi, H. & Yoo, J. Y. Effect of local forcing on backward-facing step flow with laminar separation. J. Turbulence 8 1-23 2007",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Two-dimensional mechanism of hovering flight by single flapping wing",
+      "year": 2007,
+      "citation_raw": "69 Kim, D. & Choi, H. Two-dimensional mechanism of hovering flight by single flapping wing. J. Mech. Sci. & Tech. 21 207-221 2007",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A dynamic subgrid-scale eddy viscosity model with a global model coefficient",
+      "year": 2006,
+      "citation_raw": "68 Park, N., Lee, S., Lee, J. & Choi, H. A dynamic subgrid-scale eddy viscosity model with a global model coefficient. Phys. Fluids 18 125109 2006",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effects of large density variation on strongly-heated internal air flows",
+      "year": 2006,
+      "citation_raw": "67 Bae, J. H., Yoo, J. Y., Choi, H. & McEligot, D. M. Effects of large density variation on strongly-heated internal air flows. Phys. Fluids 18 075102 2006",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Drag reduction in flow over a two-dimensional bluff body with a blunt trailing edge using a new passive device",
+      "year": 2006,
+      "citation_raw": "66 Park, H., Lee, D., Jeon, W.-P., Hahn, S., Kim, J., Kim, J., Choi, J. & Choi, H. Drag reduction in flow over a two-dimensional bluff body with a blunt trailing edge using a new passive device. J. Fluid Mech. 563 389-414 2006",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Mechanism of drag reduction by dimples on a sphere",
+      "year": 2006,
+      "citation_raw": "65 Choi, J., Jeon, W.-P. & Choi, H. Mechanism of drag reduction by dimples on a sphere. Phys. Fluids 18 041702 2006",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Control of absolute instability by basic-flow modification in parallel wake at low Reynolds number",
+      "year": 2006,
+      "citation_raw": "64 Hwang, Y. & Choi, H. Control of absolute instability by basic-flow modification in parallel wake at low Reynolds number. J. Fluid Mech. 560 465-475 2006",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Vortical structures behind a sphere at subcritical Reynolds numbers",
+      "year": 2006,
+      "citation_raw": "63 Yun, G., Kim, D. & Choi, H. Vortical structures behind a sphere at subcritical Reynolds numbers. Phys. Fluids 18 015102 2006",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Immersed boundary method for flow around an arbitrarily moving body",
+      "year": 2006,
+      "citation_raw": "62 Kim, D. & Choi, H. Immersed boundary method for flow around an arbitrarily moving body. J. Comput. Phys. 212 662-680 2006",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Characteristics of laminar flow past a sphere in uniform shear",
+      "year": 2005,
+      "citation_raw": "61 Kim, D., Choi, H. & Choi, H. Characteristics of laminar flow past a sphere in uniform shear. Phys. Fluids 17 103602 2005",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Combined effects of polymers and active blowing/suction on drag reduction",
+      "year": 2005,
+      "citation_raw": "60 Min, T. & Choi, H. Combined effects of polymers and active blowing/suction on drag reduction. J. Non-Newtonian Fluid Mech. 131 53-58 2005",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=5&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Direct numerical simulation of turbulent supercritical flows with heat transfer",
+      "year": 2005,
+      "citation_raw": "59 Bae, J., Yoo, J. Y. & Choi, H. Direct numerical simulation of turbulent supercritical flows with heat transfer. Phys. Fluids 17 105104 2005",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Large eddy simulation of flow and heat transfer in a channel roughened by square or semicircle ribs",
+      "year": 2005,
+      "citation_raw": "58 Ahn, J., Choi, H. & Lee, J. S. Large eddy simulation of flow and heat transfer in a channel roughened by square or semicircle ribs. J. Turbomachinery 127 263-269 2005",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Distributed forcing of flow over a circular cylinder",
+      "year": 2005,
+      "citation_raw": "57 Kim, J. & Choi, H. Distributed forcing of flow over a circular cylinder. Phys. Fluids 17 033103 2005",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Toward improved consistency of a priori tests with a posteriori tests in large eddy simulation",
+      "year": 2005,
+      "citation_raw": "56 Park, N, Yoo, J. Y & Choi, H. Toward improved consistency of a priori tests with a posteriori tests in large eddy simulation. Phys. Fluids 17 015103 2005",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Prediction of sound from flow over circular cylinder using modified Green function",
+      "year": 2004,
+      "citation_raw": "55 Yun, G, Choi, H. & Shin, D. Prediction of sound from flow over circular cylinder using modified Green function. AIAA J. 42 2612-2615 2004",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Active control of flow over a sphere at a sub-critical Reynolds number",
+      "year": 2004,
+      "citation_raw": "54 Jeon, S., Choi, J., Jeon, W.-P., Choi, H. and Park, J. Active control of flow over a sphere at a sub-critical Reynolds number. J. Fluid Mech. 517 113-129 2004",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Active control of turbulent flow over a model vehicle for drag reduction",
+      "year": 2004,
+      "citation_raw": "53 Kim, J., Hahn, S., Kim, J., Lee, D., Choi, J., Jeon, W.-P. & Choi, H. Active control of turbulent flow over a model vehicle for drag reduction. J. Turbulence 5 019 2004",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "An immersed-boundary finite-volume method for simulation of heat transfer in complex geometries",
+      "year": 2004,
+      "citation_raw": "52 Kim, J. & Choi, H. An immersed-boundary finite-volume method for simulation of heat transfer in complex geometries. KSME Int. J. 18 1026-1035 2004",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Discretization errors in large eddy simulation: on the suitability of centered and upwind-biased compact difference schemes",
+      "year": 2004,
+      "citation_raw": "51 Park, N., Yoo, J. Y. and Choi, H. Discretization errors in large eddy simulation: on the suitability of centered and upwind-biased compact difference schemes. J. Comput. Phys. 198(2) 580-616 2004",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Very large-scale structures and their effects on the wall shear-stress fluctuations in a turbulent channel flow up to Re_tau = 640",
+      "year": 2004,
+      "citation_raw": "50 Abe, H., Kawamura, H. & Choi, H. Very large-scale structures and their effects on the wall shear-stress fluctuations in a turbulent channel flow up to Re_tau = 640. J. Fluids Eng. 126 835-843 2004",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Optimal shape design of a two-dimensional asymmetric diffuser in turbulent flow",
+      "year": 2004,
+      "citation_raw": "49 Lim, S. & Choi, H. Optimal shape design of a two-dimensional asymmetric diffuser in turbulent flow. AIAA J. 42 1154-1169 2004",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Maximum drag reduction in a turbulent channel flow by polymer additives",
+      "year": 2003,
+      "citation_raw": "48 Min, T., Choi, H. & Yoo, J. Y. Maximum drag reduction in a turbulent channel flow by polymer additives. J. Fluid Mech. 492 91-100 2003",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Laminar flow past a hemisphere",
+      "year": 2003,
+      "citation_raw": "47 Kim, D. & Choi, H. Laminar flow past a hemisphere. Phys. Fluids 15 2457-2460 2003",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Turbulent flow past a sphere at Re=3700 and 10000",
+      "year": 2003,
+      "citation_raw": "46 Yun, G., Choi, H. & Kim, D. Turbulent flow past a sphere at Re=3700 and 10000. Phys. Fluids 15, S6 0 2003",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Drag reduction by polymer additives in a turbulent channel flow",
+      "year": 2003,
+      "citation_raw": "45 Min, T., Yoo, J. Y., Choi, H. and Joseph, D. D. Drag reduction by polymer additives in a turbulent channel flow. J. Fluid Mech. 486 213-238 2003",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effect of a localized time-periodic wall motion on a turbulent boundary layer flow",
+      "year": 2003,
+      "citation_raw": "44 Kim, C., Jeon, W.-P., Park, J. & Choi, H. Effect of a localized time-periodic wall motion on a turbulent boundary layer flow. Phys. Fluids 15 265-268 2003",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Direct numerical simulation of heated vertical air flows in fully-developed turbulent mixed convection",
+      "year": 2003,
+      "citation_raw": "43 You, J., Yoo, J. Y. & Choi, H. Direct numerical simulation of heated vertical air flows in fully-developed turbulent mixed convection. Int. J. Heat & Mass Transfer 46, 9 1613-1627 2003",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Characteristics of flow over a rotationally oscillating cylinder at low Reynolds number",
+      "year": 2002,
+      "citation_raw": "42 Choi, S., Choi. H. & Kang, S. Characteristics of flow over a rotationally oscillating cylinder at low Reynolds number. Phys. Fluids 14(8) 2767-2777 2002",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Laminar flow past a sphere rotating in the streamwise direction",
+      "year": 2002,
+      "citation_raw": "41 Kim, D. & Choi, H. Laminar flow past a sphere rotating in the streamwise direction. J. Fluid Mech. 461 365 - 386 2002",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Suboptimal feedback control of turbulent flow over a backward-facing step",
+      "year": 2002,
+      "citation_raw": "40 Kang, S. & Choi, H. Suboptimal feedback control of turbulent flow over a backward-facing step. J. Fluid Mech. 463 201-227 2002",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=6&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Control of Flow Around an Airfoil Using Piezoceramic Actuators",
+      "year": 2002,
+      "citation_raw": "39 Choi, J., Jeon, W.-P. & Choi, H. Control of Flow Around an Airfoil Using Piezoceramic Actuators. AIAA J. 40(5) 1008-1010 2002",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Direct numerical simulation of turbulent channel flow with permeable walls",
+      "year": 2002,
+      "citation_raw": "38 Hahn, S., Je, J. & Choi, H. Direct numerical simulation of turbulent channel flow with permeable walls. J. Fluid Mech. 450 259-285 2002",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Reactive control for skin-friction reduction",
+      "year": 2001,
+      "citation_raw": "37 Choi, H. Reactive control for skin-friction reduction. In The CRC Handbook of MEMS (Ed. M. Gad- 2001",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effect of spatial discretization schemes on numerical solutions of viscoelastic fluid flows",
+      "year": 2001,
+      "citation_raw": "36 Min, T., Yoo, J. Y. & Choi, H. Effect of spatial discretization schemes on numerical solutions of viscoelastic fluid flows. J. Non-Newtonian Fluid Mech. 100 27-47 2001",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "An Immersed-Boundary Finite Volume Method for Simulations of Flow in Complex Geometries",
+      "year": 2001,
+      "citation_raw": "35 Kim, J., Kim, D. & Choi, H. An Immersed-Boundary Finite Volume Method for Simulations of Flow in Complex Geometries. J. Comput. Phys. 171 (1) 132-150 2001",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Dissimilarity between the velocity and temperature fields in a perturbed turbulent thermal boundary layer",
+      "year": 2001,
+      "citation_raw": "34 Kong, H., Choi, H. & Lee, J. S. Dissimilarity between the velocity and temperature fields in a perturbed turbulent thermal boundary layer. Phys. Fluids 13 (5) 1466-1479 2001",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "MHD turbulent flow in a channel at low magnetic Reynolds number",
+      "year": 2001,
+      "citation_raw": "33 Lee, D. & Choi, H. MHD turbulent flow in a channel at low magnetic Reynolds number. J. Fluid Mech. 439 367 - 394 2001",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Active wall motions for skin-friction drag reduction",
+      "year": 2000,
+      "citation_raw": "32 Kang, S. & Choi, H. Active wall motions for skin-friction drag reduction. Phys. Fluids 12 3301-3304 2000",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Direct numerical simulation of turbulent thermal boundary layers",
+      "year": 2000,
+      "citation_raw": "31 Kong, H., Choi, H. & Lee, J. S. Direct numerical simulation of turbulent thermal boundary layers. Phys. Fluids 12 2555-2568 2000",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A second-order time-accurate finite volume method for unsteady incompressible flow on hybrid unstructured grids",
+      "year": 2000,
+      "citation_raw": "30 Kim, D. & Choi, H. A second-order time-accurate finite volume method for unsteady incompressible flow on hybrid unstructured grids. J. Comput. Phys. 162 411-428 2000",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A modified fractional step method of keeping a constant mass flow rate in fully developed channel and pipe flows",
+      "year": 2000,
+      "citation_raw": "29 You, J., Choi, H. & Yoo, J. Y. A modified fractional step method of keeping a constant mass flow rate in fully developed channel and pipe flows. KSME Int. J. 14 (5) 547-552 2000",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Drag reduction with a sliding wall in flow over a circular cylinder",
+      "year": 2000,
+      "citation_raw": "28 Choi, B. & Choi, H. Drag reduction with a sliding wall in flow over a circular cylinder. AIAA J. 38 (4) 715-717 2000",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Resonance in an axisymmetric jet under controlled helical fundamental and axisymmetric subharmonic forcing",
+      "year": 2000,
+      "citation_raw": "27 Cho, S. K., Yoo, J. Y. & Choi, H. Resonance in an axisymmetric jet under controlled helical fundamental and axisymmetric subharmonic forcing. AIAA J. 38 (3) 434-441 2000",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Suboptimal feedback control of vortex shedding at low Reynolds numbers",
+      "year": 1999,
+      "citation_raw": "26 Min, C. & Choi, H. Suboptimal feedback control of vortex shedding at low Reynolds numbers. J. Fluid Mech. 401 123-156 1999",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Laminar flow past a rotating circular cylinder",
+      "year": 1999,
+      "citation_raw": "25 Kang, S., Choi, H. & Lee, S. Laminar flow past a rotating circular cylinder. Phys. Fluids 11 3312-3321 1999",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effects of uniform blowing and suction from a spanwise slot on a turbulent boundary layer flow",
+      "year": 1999,
+      "citation_raw": "24 Park, J. & Choi, H. Effects of uniform blowing and suction from a spanwise slot on a turbulent boundary layer flow. Phys. Fluids 11 3095-3105 1999",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Space-time characteristics of the wall shear-stress fluctuations in a low-Reynolds-number channel flow",
+      "year": 1999,
+      "citation_raw": "23 Jeon, S., Choi, H., Yoo, J. Y. & Moin, P. Space-time characteristics of the wall shear-stress fluctuations in a low-Reynolds-number channel flow. Phys. Fluids 11 3084-3094 1999",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Instantaneous control of backward-facing step flows",
+      "year": 1999,
+      "citation_raw": "22 Choi, H., Hinze, M. & Kunisch, K. Instantaneous control of backward-facing step flows. Appl. Numer. Math. 31 133-158 1999",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "On the modificatio n of the near-wall coherent structure in a three-dimensional turbulent boundary layer on a free rotating disk",
+      "year": 1998,
+      "citation_raw": "21 Kang, H. S., Choi, H. & Yoo, J. Y. On the modificatio n of the near-wall coherent structure in a three-dimensional turbulent boundary layer on a free rotating disk. Phys. Fluids 10 2315-2322 1998",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Numerical solutions of flow past a circular cylinder at Reynolds numbers up to 160",
+      "year": 1998,
+      "citation_raw": "20 Park, J., Kwon, K. & Choi, H. Numerical solutions of flow past a circular cylinder at Reynolds numbers up to 160. KSME Int. J. 12 1200-1205 1998",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=7&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Control of streamwise vortices with uniform magnetic fluxes",
+      "year": 1998,
+      "citation_raw": "19 Lim, J., Choi, H. & Kim, J. Control of streamwise vortices with uniform magnetic fluxes. Phys. Fluids 10 1997-2005 1998",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Control of flow-induced noise behind a circular cylinder using splitter plates",
+      "year": 1998,
+      "citation_raw": "18 You, D., Choi, H., Choi, M.-R. & Kang, S.-H. Control of flow-induced noise behind a circular cylinder using splitter plates. AIAA J. 36(11) 1961-1967 1998",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Vortex pairing in an axisymmetric jet using two-frequency acoustic forcing at low to moderate Strouhal numbers",
+      "year": 1998,
+      "citation_raw": "17 Cho, S. K., Yoo, J. Y. & Choi, H. Vortex pairing in an axisymmetric jet using two-frequency acoustic forcing at low to moderate Strouhal numbers. Exp. Fluids 25 305-315 1998",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Suboptimal control of turbulent channel flow for drag reduction",
+      "year": 1998,
+      "citation_raw": "16 Lee, C., Kim, J. & Choi, H. Suboptimal control of turbulent channel flow for drag reduction. J. Fluid Mech. 358 245-258 1998",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Unsteady simulation of jets in a cross flow",
+      "year": 1997,
+      "citation_raw": "15 Hahn, S. & Choi, H. Unsteady simulation of jets in a cross flow. J. Comput. Phys. 134 342-356 1997",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Laminar convective heat transfer of a Bingham plastic in a circular pipe. Part II: Numerical approach - hydrodynamically developing flow and simultaneously developing flow",
+      "year": 1997,
+      "citation_raw": "14 Min, T., Choi, H. G., Yoo, J. Y. and Choi, H. Laminar convective heat transfer of a Bingham plastic in a circular pipe. Part II: Numerical approach - hydrodynamically developing flow and simultaneously developing flow. Int. J. Heat Mass Transfer 40 3689-3701 1997",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Laminar convective heat transfer of a Bingham plastic in a circular pipe. Part I: Analytic approach - thermally fully developed flow and thermally developing flow (the Graetz problem extended)",
+      "year": 1997,
+      "citation_raw": "13 Min, T., Yoo, J. Y. & Choi, H. Laminar convective heat transfer of a Bingham plastic in a circular pipe. Part I: Analytic approach - thermally fully developed flow and thermally developing flow (the Graetz problem extended). Int. J. Heat Mass Transfer 40 3025-3037 1997",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "A fractional four-step finite element formulation of the unsteady incompressible Navier-Stokes equations using SUPG and linear equal order element methods",
+      "year": 1997,
+      "citation_raw": "12 Choi, H. G., Choi, H. & Yoo, J. Y. A fractional four-step finite element formulation of the unsteady incompressible Navier-Stokes equations using SUPG and linear equal order element methods. Comput. Methods Appl. Mech. Eng. 143 333-348 1997",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Control of laminar vortex shedding behind a circular cylinder using splitter plates",
+      "year": 1996,
+      "citation_raw": "11 Kwon, K. & Choi, H. Control of laminar vortex shedding behind a circular cylinder using splitter plates. Phys. Fluids 8 479-486 1996",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Effects of the computational time step on numerical solutions of turbulent flow",
+      "year": 1994,
+      "citation_raw": "10 Choi, H. & Moin, P. Effects of the computational time step on numerical solutions of turbulent flow. J. Comp. Phys. 113 1-4 1994",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Active turbulence control for drag reduction in wall-bounded flows",
+      "year": 1994,
+      "citation_raw": "9 Choi, H., Moin, P. & Kim, J. Active turbulence control for drag reduction in wall-bounded flows. J. Fluid Mech. 262 75-110 1994",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "On the relation of near-wall streamwise vortices to wall skin friction in turbulent boundary layer",
+      "year": 1993,
+      "citation_raw": "8 Kravchenko, A. G., Choi, H. & Moin, P. On the relation of near-wall streamwise vortices to wall skin friction in turbulent boundary layer. Phys. Fluids A 5 3307-3309 1993",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Direct numerical simulation of turbulent flow over riblets",
+      "year": 1993,
+      "citation_raw": "7 Choi, H., Moin, P. & Kim, J. Direct numerical simulation of turbulent flow over riblets. J. Fluid Mech. 255 503-539 1993",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Feedback control for unsteady flow and its application to the stochastic Burgers equation",
+      "year": 1993,
+      "citation_raw": "6 Choi, H., Temam, R., Moin, P. & Kim, J. Feedback control for unsteady flow and its application to the stochastic Burgers equation. J. Fluid Mech. 253 509-543 1993",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "On the effect of riblets in fully developed laminar channel flows",
+      "year": 1991,
+      "citation_raw": "5 Choi, H., Moin, P. & Kim, J. On the effect of riblets in fully developed laminar channel flows. Phys. Fluids A 3 1892-1896 1991",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "On the space-time characteristics of wall-pressu re fluctuations",
+      "year": 1990,
+      "citation_raw": "4 Choi, H. & Moin, P. On the space-time characteristics of wall-pressu re fluctuations. Phys. Fluids A 2 1450-1460 1990",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Numerical analysis of turbulent flow over a backward-facing step using Reynolds stress closure model",
+      "year": 1989,
+      "citation_raw": "3 Yoo, J. Y., Choi, H. & Han, S. M. Numerical analysis of turbulent flow over a backward-facing step using Reynolds stress closure model. KSME J. 3 31-37 1989",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "On the steady simple shear flows of the one-mode Giesekus fluid",
+      "year": 1989,
+      "citation_raw": "2 Yoo, J. Y. & Choi, H. On the steady simple shear flows of the one-mode Giesekus fluid. Rheol Acta 28 13-24 1989",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    },
+    {
+      "title": "Numerical simulation of the planner contraction flow of a Giesekus fluid",
+      "year": 1988,
+      "citation_raw": "1 Choi, H., Song, J. H. & Yoo, J. Y. Numerical simulation of the planner contraction flow of a Giesekus fluid. J. Non-Newtonian Fluid Mech. 29 347-379 1988",
+      "source_url": "https://tfc.snu.ac.kr/index.php?pg=8&page=list&hCode=PAPER_LIST&publication_name=inter_paper"
+    }
+  ]
+}

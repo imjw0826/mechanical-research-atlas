@@ -1,0 +1,1642 @@
+=== https://rre.ethz.ch/publications/journal-articles.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Reliability and Risk Engineering
+Main Navigation
+The Lab
+Education
+Research
+Publications
+Partnerships
+Search
+Departments
+ETH Zurich
+D-MAVT
+IEPE
+RRE
+Language Selection
+English
+You are here
+Homepage
+Publications
+Journal Articles
+Journal Articles
+Related content
+Conference Contributions
+Books
+Doctoral Theses
+Publications
+Footer
+Search
+Keyword or person
+Follow us
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Christoffel
+Administrative Assistant
+ 
+Phone
++41 44 632 24 35
+Email
+
+ETH Zurich
+Reliability & Risk Engineering
+LEE L 223
+Leonhardstrasse 21
+8092 Zürich
+Schweiz
+
+
+‌
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+=== https://rre.ethz.ch/publications/conference-contributions.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Reliability and Risk Engineering
+Main Navigation
+The Lab
+Education
+Research
+Publications
+Partnerships
+Search
+Departments
+ETH Zurich
+D-MAVT
+IEPE
+RRE
+Language Selection
+English
+You are here
+Homepage
+Publications
+Conference Contributions
+Conference Contributions
+Publications sorted by year
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2025
+Optimizing resilient net-zero energy systems under climate uncertainties
+Enrico Ampellio, Francesco De Marco, Blazhe Gjorgiev and Giovanni Sansavini
+35th European Safety and Reliability Conference (ESREL 2025) and the 33rd Society for Risk Analysis Europe Conference (SRA-E 2025), Stavanger, Norway Zurich: ETH Zurich, Reliability and Risk Engineering Lab, June 15-19, 2025.
+external page:
+Research Collection
+Abstract 
+
+The ongoing transition pathway towards sustainable energy leads to growing penetration of renewable resources, solar and wind in particular. Therefore, energy security will be more exposed to the risks deriving from uncontrollable natural phenomena, such as fluctuating and extreme weather events fueled by climate change. In this context, designing energy systems that are adequate and resilient to climate-related uncertainties becomes paramount. Sector-coupled and distributed energy systems are commonly modeled as Mixed-Integer Linear Programming (MILP) with granular temporal and spatial resolution, solved for cost-effective planning and operations under constraints. Due to the computational burden, uncertainty quantification is usually scenario-based and limited to robust approaches. Statistical metamodels like Polynomial Chaos Expansion (PCE) are affordable over just a few parameters under restricted decision options. To avoid oversimplifications while maintaining tractability and insightfulness, fast-scaling yet accurate methods are needed. A new perspective enables trustworthy decision-making in the presence of complex uncertainties: system-informed high-dimensional mapping of variability as a function of both design options and parameters. To fulfill this ambitious task, a multi-level method based on Kriging adaptive surrogates has been developed. It is applied to optimize the net-zero transition pathway of the European energy system under any climate and weather conditions. Irradiation, precipitation, and wind effects are combined on all scales to encompass the full range of possible realizations, according to historical data and future projections. Thanks to the metamodel, results are drawn considering millions of combinations among climate-induced weather events over a multi-year timeframe.
+
+Global role of decentralized energy systems to decarbonize residential energy end-use
+Arvind Srinivasan, Blazhe Gjorgiev, Paolo Gabrielli and Giovanni Sansavini
+43rd International Energy Workshop (IEW 2025), Nara, Japan, June 10-14, 2025.
+external page:
+Research Collection
+Abstract 
+
+Decentralized renewable generation, integrated with energy storage and thermal electrification, presents an appealing path for residential communities to achieve affordability, sustainability, and energy security —the core goals of a healthy energy system. However, the benefits of decentralized energy systems are locationally specific due to their dependence on regional climate conditions and grid infrastructure combined with techno-economic parameter uncertainties. This limits the transferrable knowledge from existing studies. We overcome this challenge by investigating the optimal design of decentralized energy systems on representative climate clusters that can be mapped to any global location. We find that decentralized energy systems provide environmental and security benefits. Affordability remains the main challenge over the current system, as only a few regions, covering 20% of global residential demand, achieve cost reductions with decentralized systems. Large-scale global decentralization will warrant coordination between centralized and decentralized energy infrastructure, particularly in the colder regions of the Northern Hemisphere, as centralized grids will likely still supply 25-40% of the final end-use demand. Conversely, warmer climates favor self-sufficient decentralized systems, providing opportunities for remote communities but risking stranded grid assets in developed and developing economies.
+
+The reliability of demand-side power flexibility provision - An analytical framework
+Charlotte Jacquet, Hanmin Cai, Arvind Srinivasan, Arnab Chatterjee, Giovanni Sansavini and Philipp Heer
+8th International Conference on Systerm Reliability and Safety (ICSRS 2024), Catania, Italy, pp.67-74, Piscataway, NJ: IEEE, November 20-22, 2024.
+external page:
+DOI: 10.1109/ICSRS63046.2024.10927578
+external page:
+Research Collection
+Abstract 
+
+The growth in the share of renewable energy in-troduces variability and challenges traditional grid management practices, which rely on centralized generators and system support services. Meanwhile, the rise of digitalization across the energy sector offers tools such as demand-side flexibility to manage variability and cope with uncertainty. The reliability of flexibility solutions provided in a bottom-up fashion by distributed energy devices is crucial for their effective integration into system operation practice, requiring risk awareness and systematic assessment. Despite the abundance of experimental research, the reliability aspect of demand-side power flexibility provision has not received adequate attention, which is the gap this paper aims to address. This work presents an analytical framework to assess the reliability of bottom-up demand-side flexibility provision by performing fault tree analysis and failure mode and effect analysis. The results demonstrate that this reliability significantly decreases as the number of components in the flexibility scheme increases. Moreover, the reliability drops to zero within two to five years, depending on the configuration chosen, despite the system maintaining a high steady-state avail-ability between 95 % and 99 %. These results provide bottom- up insights into the reliability and availability of demand-side flexibility intended to support critical infrastructure over a long-term horizon.
+
+Assessing Maximum Grid Loadability Under PV Deployment for Distribution Planning Support: A Swiss Case Study
+Tim Kopka, Behnam Akbari, Alfredo Ernesto Oneto and Giovanni Sansavini
+CIRED 2024 Vienna Workshop - Increasing Distribution Network Hosting Capacity, Vienna, Austria, pp.863-866, Stevenage: Institution of Engineering and Technology, June 19-20, 2024.
+external page:
+DOI: 10.1049/icp.2024.2000
+external page:
+Research Collection
+Abstract 
+
+The increasing integration of low-carbon technologies, such as solar photovoltaics (PV) and heat pumps, impacts the operational margins of distribution grids. This paper quantifies the margins to voltage violation and line overloading by calculating the maximum grid loadability (MGL). We quantify this metric for 873 inferred Swiss medium-voltage grids and investigate the effect of rooftop PV and heat pump deployment by 2040. Results show a median MGL increase of 4.8% due to PV in summer and a median decrease of 11.1% due to heat pumps in winter. Overall, MGL is projected to increase by 14.0% until 2040, primarily driven by efficiency measures decreasing conventional loads. We highlight grid diversity, flexibility, energy efficiency, and winter peak as distribution planning considerations influencing operational margins.
+
+Delving into the black box: stochastic ex-post multi-criteria evaluation of net-zero scenarios with an application to Switzerland
+Christoph Funke, Martin Densing, Romain Sacchi, Evangelos Panos, Giovanni Sansavini and Russell McKenna
+21st International Conference on the European Energy Market (EEM25), Lisbon, Portugal, pp.11050135 Piscataway, NJ: IEEE, May 27-29, 2025.
+external page:
+DOI: 10.1109/EEM64765.2025.11050135
+external page:
+Research Collection
+Abstract 
+
+Many modeling teams globally have published energy scenarios detailing pathways toward net-zero greenhouse gas emissions. These diverse scenarios are informative but entail a challenge for political decision-makers, utility executives, and citizens. There is limited consensus on how to identify the most important elements in them, interpret, and navigate them. To address this problem, this paper develops a new methodology for comparing energy scenarios based on user-defined decision criteria. Criteria values are first estimated expost using stochastic models, which account for uncertainty regarding future technology costs and impacts. Then, a statistical analysis is applied to understand the criteria values' trends, tradeoffs, and uncertainties. We demonstrate this methodology on Swiss energy scenarios using five sample criteria: investment, domestic land use, material consumption, domestic biodiversity impacts, and social acceptance. The analysis reveals that two classes of technologies drive criteria outcomes: (i) must-have technologies, deployed at large scales in all scenarios, and (ii) emerging technologies, such as hydrogen or biomass, whose role in the energy transition are less well understood. Policies on must-have technologies should enable rapid deployment and reduce uncertainty about costs and impacts. Conversely, policies for emerging technologies should foster further understanding of their impacts and promote public discourse around which impacts are socially desirable. Whilst the method is applied to Switzerland in a case study, it is applicable to other contexts provided sufficient and accurate scenario data. Future work should focus on improving the method's robustness, including the selection and operationalization of criteria.
+
+Exploratory Analysis of Direct Load Control Policies for Heat Pumps in the Future Swiss Electricity System
+Adrien Mellot, Jan Linder, Jared Garrison, Christian Winzer, Giovanni Sansavini, Curtis Meister, Philipp Schuetz and Christian Moretti
+21st International Conference on the European Energy Market (EEM25), Lisbon, Portugal, pp.11050315 Piscataway, NJ: IEEE, May 27-29, 2025.
+external page:
+DOI: 10.1109/EEM64765.2025.11050315
+external page:
+Research Collection
+Abstract 
+
+New flexible electrical loads such as heat pumps present major demand-side flexibility opportunities thanks to their load shifting potential. In this study, we analyze to what extent the direct load control (DLC) of heat pumps within realistic bounds facilitates their integration in the Swiss energy system as it decarbonizes, by coupling a bottom-up building stock model and a high-resolution electricity system model. We rely on recently offered DLC contracts by Swiss distribution system operators to set these bounds and study the impact of different DLC settings. We find that contract parameters such as allowing preheating and prolonging shifting windows significantly impact how much DLC is performed. However, even high levels of DLC lead to small impacts on the electricity system's cost and renewables' integration in Switzerland, possibly only having a significant effect on peak electricity prices.
+
+Optimal Duration of Reserve Capacity Ancillary Services for Distributed Energy Resources
+Lorenzo Zapparoli, Blazhe Gjorgiev and Giovanni Sansavini
+16th IEEE PowerTech Conference, Kiel, Germany, pp.11180233 Piscataway, NJ: IEEE, June 29 - July 3, 2025.
+external page:
+DOI: 10.1109/PowerTech59965.2025.11180233
+external page:
+Research Collection
+Abstract 
+
+The increasing integration of distributed energy resources (DERs) into power systems presents opportunities and challenges for ancillary services (AS) provision. Technical requirements of existing AS (i.e., duration, reliability, ramp rate, and lead time) have been designed for traditional generating units, making their provision by DER aggregates particularly challenging. This paper proposes a method to design the duration of reserve capacity AS products considering the operational constraints of DERs and the temporal dynamics of system imbalances. The optimal product duration is determined by maximizing product availability and aligning the supply profile with the system’s balancing needs. We apply the methodology to a realistic Swiss low-voltage network with a diverse DER portfolio. The results reveal that (i) shorter product durations maximize average availability and (ii) long product durations improve the alignment with system balancing needs. This paper offers valuable insights for system operators to design AS products tailored for DER participation.
+
+Preventive N-1 Redispatch Under Multi-Energy and Multi-Period Constraints: An Operator-Oriented Framework
+James Ciyu Qin, Blazhe Gjorgiev, Andrej Stankovski and Giovanni Sansavini
+2025 IEEE International Conference on Systems, Man and Cybernetics (IEEE SMC 2025), Vienna, Austria, pp.7005-7010, Piscataway, NJ: IEEE, October 5-8, 2025.
+external page:
+DOI: 10.1109/SMC58881.2025.11343652
+external page:
+Research Collection
+Abstract 
+
+Redispatch is essential in power system operation to maintain security and resolve congestions. However, often the redispatch models do not fully capture the operational constraints of diverse generation resources and operator preferences. This paper proposes a multi-period and multi-energy source preventive N-1 redispatch model. The model adjusts a day-ahead market-cleared dispatch to account for the N1 security while accounting for generator (thermal, hydro, battery storage, wind, and solar) and grid constraints. To reflect practical operator preferences, the model minimises both redispatch costs and the number of redispatch actions. An adaptive constraint relaxation mechanism is included to address infeasibility under stressed conditions while preserving system security. The proposed model captures key operational features of modern power systems and supports decision-making in both cost-focused and operator-aligned scenarios. An extended IEEE 118-bus system is used to demonstrate the model's effectiveness in enhancing system security, reducing redispatch costs, and utilising flexibility resources under realistic conditions.
+
+2024
+Funplex: A Modified Simplex Algorithm to Efficiently Explore Near-Optimal Spaces
+Linda Brodnicke, Christoph Funke, Francesco Lombardi and Giovanni Sansavini
+2024 INFORMS Annual Meeting, Seattle, WA, USA, pp.1012-1012, Catonsville, MD: INFORMS, October 20-23, 2024.
+external page:
+Research Collection
+Hydrogen and carbon capture and storage enable the decarbonization of hard-to-abate industries
+Alissa Ganter, Paula Baumann, Veis Karbassi and Giovanni Sansavini
+2024 INFORMS Annual Meeting, Seattle, WA, USA, pp.634-634, Catonsville, MD: INFORMS, October 20-23, 2024.
+external page:
+Research Collection
+Transmission Expansion Planning via Multi-objective Deep Reinforcement Learning
+Anna Varbella, Blazhe Gjorgiev, Enrico Zio and Giovanni Sansavini
+5th International Conference on Resilient Systems (ICRS 2024), Singapore, pp.18-18, Singapore: ETH Zurich, August 28-30, 2024.
+external page:
+Research Collection
+Wasserstein-based kernels for unsupervised learning 
+Alfredo Ernesto Oneto, Blazhe Gjorgiev and Giovanni Sansavini
+INFORMS Annual Meeting 2024, Seattle, WA, USA Zurich: ETH Zurich, Reliability and Risk Engineering Lab, October 20-23, 2024.
+external page:
+Research Collection
+Global role of community-scale multi-energy systems in net CO2 reductions
+Arvind Srinivasan, Paolo Gabrielli and Giovanni Sansavini
+MIT A+B Applied Energy Symposium 2024, Cambridge, MA, USA Cambridge, MA: MITAB, August 12-15, 2024.
+external page:
+Research Collection
+Coordinated Medium- and Low-voltage Distribution Systems Planning Under Volatile Energy Sources Deployment
+Alfredo Ernesto Oneto, Blazhe Gjorgiev and Giovanni Sansavini
+33rd European Conference on Operational Research (EURO 2024), Copenhagen, Denmark, pp.447-447, s.l.: Association of European Operational Research Societies, June 30 - July 3, 2024.
+external page:
+Research Collection
+Multi-level Informed Optimization for Design under Uncertainties
+Enrico Ampellio, Paolo Gabrielli, Blazhe Gjorgiev and Giovanni Sansavini
+9th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2024), Lisbon, Portugal Zurich: ETH Zurich, Reliability and Risk Engineering Lab, June 3-7, 2024.
+external page:
+Research Collection
+Rollout of Carbon Capture, Transport, and Storage Infrastructure for Hard-to-abate Industry in Switzerland
+Johannes Burger, Paolo Gabrielli, David Yang Shu, Marco Mazzotti, André Bardow and Giovanni Sansavini
+34th European Symposium on Computer Aided Process Engineering and 15th International Symposium on Process Systems Engineering (ESCAPE/PSE 2024), Florence, Italy, pp.248-251, Milano: AIDIC, June 2-6, 2024.
+external page:
+Research Collection
+Abstract 
+
+Climate change mitigation requires a dramatic reduction of greenhouse gas emissions across all sectors, including hard-to-abate industries. Hard-to-abate emissions from industry can be avoided by CO2 capture, transport, and storage (CCTS), where CO2 is transported from capture plants to permanent storage sites. However, no CCTS infrastructure is currently deployed in Europe. Therefore, the transition towards a large-scale CCTS infrastructure needs to be properly planned and implemented. Within this context, external factors play a role in the deployment of CCTS supply chains and lead to large uncertainty due to little operational experience for such systems. Here, we investigate the rollout of a Swiss CCTS infrastructure to achieve a net-zero emissions Swiss industry and connect Swiss emitters to a European CCTS infrastructure. We address uncertainty and real-world constraints regarding the rollout of CCTS infrastructure via scenario analysis. Under most scenarios, Swiss CO2 sequestration targets can be reached, although costs may increase by up to 25%. The delay or limitation of available storage capacity, however, can undermine the sequestration targets.
+
+Quantifying Power System Adequacy And Security In Net-Zero Energy Transition Scenarios
+Ambra Van Liedekerke, Blazhe Gjorgiev and Giovanni Sansavini
+34th European Safety and Reliability Conference (ESREL 2024), Cracow, Poland, pp.51-52, Gdynia: Polish Safety and Reliability Association, June 23-27, 2024.
+external page:
+Research Collection
+Quantifying the potential of curtailed electricity to produce green hydrogen
+Alissa Ganter, Paolo Gabrielli, Tyler H. Ruggles, Giovanni Sansavini and Ken Caldeira
+33rd European Conference on Operational Research (EURO 2024), Copenhagen, Denmark, pp.12-12, s.l.: Association of European Operational Research Societies, June 30 - July 3, 2024.
+external page:
+Research Collection
+Risk Informed Operational Planning Of Power Transmission Grids: Overview Of Recent Developments
+Roberto Rocchetta, Vasco Medici, Lorenzo Nespoli, Davood Raoofsheibani, Blazhe Gjorgiev and Giovanni Sansavini
+34th European Safety and Reliability Conference (ESREL 2024), Cracow, Poland, pp.147-156, Gdynia: Polish Safety and Reliability Association, June 23-27, 2024.
+external page:
+Research Collection
+Abstract 
+
+Operational planning of power transmission grids is a complex task which involves a sequence of decision-making problems on different time horizons and over varying degrees of risk and uncertainty. Although there are many studies on power grid operational planning, there is a lack of specific research on recent advancements in Probabilistic Risk Assessment (PRA) and uncertainty modelling options to support this decision-making process. This survey aims to bridge this gap by presenting an overview of recent developments in PRA and risk-informed operational planning for power transmission systems with a specific focus on outage and maintenance scheduling problems. This work highlights the advantages of PRA over deterministic method especially when combined with probabilistic forecasters, estimation methods for low-probability events, and highfidelity simulators. A discussion of major challenges and current limitations of PRA methodsis also proposed, and a prospective view of future research directions is introduced. Advanced PRA approaches have the potential to improve the sustainability and resilience of future power grids by enabling informed risk-informed operational scheduling for both short-term and longterm planning horizons.
+
+Short Term Security Assessment Of Natural Gas Supply In European Union And Policy Insights
+Behnam Akbari, Chao Zhang and Giovanni Sansavini
+34th European Safety and Reliability Conference (ESREL 2024), Cracow, Poland, pp.9-17, Gdynia: Polish Safety and Reliability Association, June 23-27, 2024.
+external page:
+Research Collection
+Abstract 
+
+This paper assesses the security of natural gas supply in the European Union (EU) during the 2023/24 winter in the aftermath of the 2022 Russian gas disruption. We develop an optimization framework with a network model capturing intra- and inter country constraints and incorporating recent EU measures to enhance supply security. Our findings underscore the significance of increased liquefied natural gas (LNG) imports and gas storages in keeping the annual demand reduction below 15% across most EU countries. This demonstrates the efficacy of the EU's 15% voluntary demand reduction target in avoiding involuntary demand reduction. Increased LNG imports largely substitute pipeline imports from Russia, especially in Finland, Greece, and Poland. Nevertheless, regions such as Central Europe, Denmark, and Sweden may face involuntary demand reduction, necessitating network capacity enhancements as a potential mitigation strategy.
+
+Risk Of Blackouts And Social Vulnerability In The Italian Power Transmission System
+Andrej Stankovski, Katherine Lonergan, Blazhe Gjorgiev and Giovanni Sansavini
+34th European Safety and Reliability Conference (ESREL 2024), Cracow, Poland, pp.91-92, Gdynia: Polish Safety and Reliability Association, June 23-27, 2024.
+external page:
+Research Collection
+Power Transformer Fault Detection And Classification By Coupling Conventional And Machine Learning Methods
+Blazhe Gjorgiev, Laya Das and Giovanni Sansavini
+34th European Safety and Reliability Conference (ESREL 2024), Cracow, Poland, pp.203-204, Gdynia: Polish Safety and Reliability Association, June 23-27, 2024.
+external page:
+Research Collection
+PowerGraph: A power grid benchmark dataset for graph neural networks
+Anna Varbella, Kenza Amara, Blazhe Gjorgiev, Mennatallah El-Assady and Giovanni Sansavini
+38th Conference on Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS 2024 Track Datasets and Benchmarks), Vancouver, Canada, pp.110784-110804, Red Hook, NY: Curran, December 10-15, 2025.
+external page:
+Research Collection
+Abstract 
+
+Power grids are critical infrastructures of paramount importance to modern society and, therefore, engineered to operate under diverse conditions and failures. The ongoing energy transition poses new challenges for the decision-makers and system operators. Therefore, we must develop grid analysis algorithms to ensure reliable operations. These key tools include power flow analysis and system security analysis, both needed for effective operational and strategic planning. The literature review shows a growing trend of machine learning (ML) models that perform these analyses effectively. In particular, Graph Neural Networks (GNNs) stand out in such applications because of the graph-based structure of power grids. However, there is a lack of publicly available graph datasets for training and benchmarking ML models in electrical power grid applications. First, we present PowerGraph, which comprises GNN-tailored datasets for i) power flows, ii) optimal power flows, and iii) cascading failure analyses of power grids. Second, we provide ground-truth explanations for the cascading failure analysis. Finally, we perform a complete benchmarking of GNN methods for node-level and graph-level tasks and explainability. Overall, PowerGraph is a multifaceted GNN dataset for diverse tasks that includes power flow and fault scenarios with real-world explanations, providing a valuable resource for developing improved GNN models for node-level, graph-level tasks and explainability methods in power system modeling. The dataset is available at https://figshare.com/articles/dataset/PowerGraph/22820534 and the code at https://github.com/PowerGraph-Datasets.
+
+Bet on horses, not unicorns – The impact of technology optimism on the decarbonization of the European energy system
+Jacob Mannhardt and Giovanni Sansavini
+33rd European Conference on Operational Research (EURO 2024), Copenhagen, Denmark, pp.327-327, s.l.: Association of European Operational Research Societies, July 1-3, 2024.
+external page:
+Research Collection
+Quantifying Power System Adequacy in Net-Zero Energy Transition Scenarios
+Ambra Van Liedekerke, Blazhe Gjorgiev and Giovanni Sansavini
+5th International Conference on Resilient Systems (ICRS 2024), Singapore, pp.89-89, Zurich: ETH Zurich, August 28-30, 2024.
+external page:
+Research Collection
+Low-risk-cost design under uncertainties for resilient operations in energy systems
+Enrico Ampellio, Francesco De Marco, Blazhe Gjorgiev and Giovanni Sansavini
+5th International Conference on Resilient Systems (ICRS 2024), Singapore, pp.90-90, Zurich: ETH Zurich, August 28-30, 2024.
+external page:
+Research Collection
+Employment creation potential from European industrial hydrogen demand: insights for just transition planning
+Katherine Lonergan, Alissa Ganter, Hannes Büchi and Giovanni Sansavini
+42nd International Energy Workshop (IEW 2024), Bonn, Germany, June 26-28, 2024.
+external page:
+Research Collection
+Integrating EV charging behaviour into a municipal energy system model to explore trade-offs between flexibility and battery degradation
+Linda Brodnicke, Febin Kachirayil, Paolo Gabrielli, Giovanni Sansavini and Russell McKenna
+33rd European Conference on Operational Research (EURO 2024), Copenhagen, Denmark, pp.90-90, s.l.: Association of European Operational Research Societies, June 30 - July 3, 2024.
+external page:
+Research Collection
+Resilience of carbon capture, transport, and storage infrastructure: Trade-offs between cost and emissions
+Johannes Burger, David Yang Shu, André Bardow and Giovanni Sansavini
+5th International Conference on Resilient Systems (ICRS 2024), Singapore, Singapore, August 28-30, 2024.
+external page:
+Research Collection
+Low-risk-cost design under uncertainties for resilient operations in energy systems
+Enrico Ampellio, Francesco De Marco, Blazhe Gjorgiev and Giovanni Sansavini
+5th International Conference on Resilient Systems (ICRS 2024), Singapore Zurich: ETH Zurich, Reliability and Risk Engineering Lab, August 28-30, 2024.
+external page:
+Research Collection
+Transmission Expansion Planning Via Multi Objective Deep Reinforcement Learning
+Anna Varbella, Blazhe Gjorgiev, Enrico Zio and Giovanni Sansavini
+34th European Safety and Reliability Conference (ESREL 2024), Cracow, Poland, pp.81-85, Gdynia: Polish Safety and Reliability Association, June 23-27, 2024.
+external page:
+Research Collection
+2023
+Ensuring/insuring resilient energy systems infrastructure
+Katherine Lonergan, Salvatore Francesco Greco and Giovanni Sansavini
+Society for Risk Analysis Annual Meeting (SRA 2023), Washington, DC, USA, December 10-14, 2023.
+external page:
+Research Collection
+Abstract 
+
+Rationale: Typically, the cost of damaged energy infrastructure is borne by the asset owners themselves or, in extreme cases, covered by national governments or mutual insurance pools. However, climate change is driving an increase in damages, creating a need for new financial recovery strategies. Historically prominent risk-based strategies used to limit losses are insufficient, given the dynamic nature of climate change and lack of historical data available to inform risk-based loss mitigation. Private re/insurers could support general energy system resilience but would benefit from a methodological approach that allows them to develop attractive insurance products. Approach: Our approach is to shift from a risk- to resilience-based paradigm for managing losses, in both technical system evaluation and in providing financial resilience. Concentrating on system resilience overcomes risk analysis’ requirement for probabilistically informed measures to develop a loss reduction strategy by focusing on system vulnerabilities and adaptation strategies to cope with “what-if” scenarios. We specifically aim to develop integrated resilience assessments to support re/insurers develop insurance products for energy system infrastructure. The integrated assessments would include coupling technical infrastructure models to weather, climate, asset vulnerability, and stress-testing models. Results and discussion: We aim to create the tools required to support pricing decisions with resilience-oriented products, like parametric insurance, and that can complement risk-based pricing strategies already applied in practice for the energy sector. Working with re/insurers will also help identify attractive business models: to be successful, resilient insurance policies must re/insurers to profit and be attractive to consumers. Ultimately, we expect to learn more about how re/insurers can support resilient energy system infrastructure. Why does it matter? Energy systems are critical infrastructure, provide essential services like heating and lighting, and can mitigate the risk of cascading disasters, like failure of the water system due to inoperable pumps. As global climate-related losses continue to mount, it is essential that new strategies are found to ensure that energy systems are as resilient as possible. Coupling the analysis of technical and financial resilience is one possible route forward and particularly attractive in lower-income settings where energy systems tend to be less reliable, have fewer financial resources, and generally have larger coverage gaps.
+
+Improving the representation of cost of capital in energy system models
+Katherine Lonergan, Florian Manuel Egli, Sebastian Osorio, Giovanni Sansavini, Michael Pahle, Tobias Schmidt and Bjarne Steffen
+Society for Risk Analysis Annual Meeting (SRA 2023), Washington, DC, USA, December 10-14, 2023.
+external page:
+Research Collection
+PowerGraph: A power grid benchmark dataset for graph neural networks
+Anna Varbella, Kenza Amara, Blazhe Gjorgiev and Giovanni Sansavini
+New Frontiers in Graph Learning (GLFrontiers) Workshop @ NeurIPS 2023, New Orleans, LA, USA s.l.: OpenReview, December 15, 2023.
+external page:
+Research Collection
+Abstract 
+
+Public Graph Neural Networks (GNN) benchmark datasets facilitate the use of GNN and enhance GNN applicability to diverse disciplines. The community currently lacks public datasets of electrical power grids for GNN applications. Indeed, GNNs have the potential for capturing complex power grid phenomena over alternative machine learning techniques. Power grids are complex engineered networks that are naturally amenable to graph representations. Therefore, GNN have the potential for capturing the behaviour of power grids over alternative machine learning techniques. To this aim, we develop a graph dataset for cascading failure events, which are the major cause of blackouts in electric power grids. Historical blackout datasets are scarce and incomplete. The assessment of vulnerability and the identification of critical components are usually conducted via computationally expensive offline simulations of cascading failures. Instead, we propose the use of machine learning models for the online detection of cascading failures leveraging the knowledge of the system state at the onset of the cascade. We develop PowerGraph, a graph dataset modelling cascading failures in power grids, designed for two purposes, namely, i) training GNN models for different graph-level tasks including multi-class classification, binary classification, and regression, and ii) explaining GNN models. The dataset generated via physics-based cascading failure model ensures generality of the operating and environmental conditions by spanning diverse failure scenarios. In addition, we foster the use of the dataset to benchmark GNN explainability methods by assigning ground-truth edge-level explanations. PowerGraph helps the development of better GNN models for graph-level tasks and explainability, critical in many domains ranging from chemistry to biology, where the systems and processes can be described as graphs. The dataset is available at https://figshare.com/articles/dataset/PowerGraph/22820534 and the code at https://anonymous.4open.science/r/PowerGraph/.
+
+Assessing and Enabling the Feasibility of the European Energy Transition Under Myopic and Constrained Technology Deployment
+Jacob Mannhardt, Paolo Gabrielli and Giovanni Sansavini
+INFORMS Annual Meeting 2023, Phoenix, AZ, USA, October 15-18, 2023.
+external page:
+Research Collection
+Wasserstein Metric-Based Clustering for Large-Scale Power Distribution System Modeling
+Alfredo Ernesto Oneto, Blazhe Gjorgiev and Giovanni Sansavini
+INFORMS Annual Meeting 2023, Phoenix, AZ, USA, October 15-18, 2023.
+external page:
+Research Collection
+The impact of spatial resolution on the optimal design of low-carbon hydrogen supply chains
+Alissa Ganter, Paolo Gabrielli and Giovanni Sansavini
+INFORMS Annual Meeting 2023, Phoenix, AZ, USA, October 15-18, 2023.
+external page:
+Research Collection
+Data-driven insights for effective municipal carbon abatement
+Katherine Lonergan, Josef Köll and Giovanni Sansavini
+59th ISOCARP World Planning Congress, Toronto, Canada, October 10-13, 2023.
+external page:
+Research Collection
+Driving the Residential Heating Transition - Policy Assessment Considering Parametric Uncertainty and Near-Optimal Solutions
+Linda Brodnicke, Paolo Gabrielli, Albane Sérès and Giovanni Sansavini
+INFORMS Annual Meeting 2023, Phoenix, AZ, USA, October 15-18, 2023.
+external page:
+Research Collection
+Optimal design of multi-energy systems within the energy trilemma
+Arvind Srinivasan, Paolo Gabrielli and Giovanni Sansavini
+18th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES 2023), Dubrovnik, Croatia, September 24-29, 2023.
+external page:
+Research Collection
+The Value of Vehicle-to-Grid for the Swiss Electricity System
+Ambra Van Liedekerke, Marius Schwarz, Blazhe Gjorgiev and Giovanni Sansavini
+18th IAEE European Conference (IAEE 2023), Milan, Italy, pp.18232 Mt. Royal, NJ: International Association for Energy Economics, July 24-27, 2023.
+external page:
+Research Collection
+Ensuring/insuring resilient energy system infrastructure
+Katherine Lonergan, Salvatore Francesco Greco and Giovanni Sansavini
+Resilience Engineering 10, Valbonne, France, June 26-30, 2023.
+external page:
+Research Collection
+Current approaches in energy systems modelling to support the just transition
+Katherine Lonergan, Nicolas Suter and Giovanni Sansavini
+World Energy Justice Congress 2023, Anglet, France, June 19-23, 2023.
+external page:
+Research Collection
+Cascades-Risk Informed Transmission Expansion Planning by Behavioural Cloning
+Anna Varbella, Blazhe Gjorgiev, Giovanni Sansavini and Enrico Zio
+7th International Conference on System Reliability and Safety (ICSRS 2023), Bologna, Italy, pp.176-180, Piscataway, NJ: IEEE, November 22-24, 0223.
+external page:
+DOI: 10.1109/ICSRS59833.2023.10381124
+external page:
+Research Collection
+Abstract 
+
+The growing energy demand, coupled with the increasing trend towards electrification, challenges Transmission Expansion Planning (TEP). In this work, we embrace a risk-informed approach to TEP and address it as a multi-objective optimization problem considering the system risks and the expansion costs. Genetic algorithms, such as NSGAII, are effective in tackling multi-objective optimization problems. We here explore the potential of reinforcement learning as an alternative methodology. Specifically, we used imitation learning techniques to gain insight from prior solutions generated using NSGAII. This novel approach lays the groundwork for future research on reinforcement learning methods, based on policies acquired through imitation learning techniques. By adopting this innovative framework, we anticipate significant advancements in the efficiency and effectiveness of TEP decision-making processes.
+
+Reliability Analysis of European Power System Assets
+Andrej Stankovski, Blazhe Gjorgiev, Joé Wengler, Sinan Sencan and Giovanni Sansavini
+33rd European Safety and Reliability Conference (ESREL 2023), Southampton, United Kingdom, pp.3127-3128, Singapore: Research Publishing, September 3-7, 2023.
+external page:
+DOI: 10.3850/978-981-18-8071-1_p636-cd
+external page:
+Research Collection
+Abstract 
+
+Large interconnected systems can be severely destabilized due to failures of interconnector lines and large generating units. Therefore, identifying the failure behavior of critical assets can be invaluable for modeling and research purposes. In this work, we analyze outages of European generation and transmission system assets, obtained from the ENTSO-E transparency platform. We analyze the data using Markov chain and analytical methods. Our results show that the reliability of generating units is primarily impacted by the technology type and country of origin. Nuclear and fossil units have the lowest availability, resulting from their high unavailability due to planned and forced outages, respectively. Furthermore, we observe that units with high frequency of planned transitions, tend to have a low frequency of forced transitions, and vice versa. This emphasizes the positive impact of preventive maintenance measures in ensuring the safe and reliable operation of generating units. Regarding transmission system assets, we find that AC interconnectors are substantially more reliable than DC interconnectors. Additionally, we observe that internal lines, transformers, and substations are more available compared to interconnector lines. The results obtained from this work can provide important insights for the operation of European assets, helping system operators and researchers identify key vulnerabilities.
+
+Optimal design of hydrogen supply chains under demand and resource uncertainty
+Alissa Ganter, Paolo Gabrielli and Giovanni Sansavini
+33rd European Symposium on Computer Aided Process Engineering (ESCAPE-33), Athens, Greece, pp.108-109, Athens: ESCAPE-33, June 18-21.
+external page:
+Research Collection
+Abstract 
+
+The scale-up of hydrogen supply chains is essential to achieve carbon neutrality by 2050. In this work, an optimization-based hydrogen supply chain model is developed to investigate the optimal roll-out of hydrogen supply chains considering hydrogen demand and resource uncertainties. We identify biomass-based hydrogen production as the most cost-effective low-carbon hydrogen production option. However, electricity-based hydrogen production technologies via water-electrolysis increase the robustness of the solution by reducing the dependency on biomass feedstock and diversifying the technology mix.
+
+Computationally efficient gas flow models for energy system optimization
+Behnam Akbari, Paolo Gabrielli and Giovanni Sansavini
+Poster presented at the 33rd European Symposium on Computer Aided Process Engineering (ESCAPE33), Athens, Greece, June 18-21, 2023.
+external page:
+Research Collection
+2022
+Environmental impact of pioneering carbon capture, transport and storage chains
+Johannes Burger, Julian Nöhl, Jan Seiler, Paolo Gabrielli, Giovanni Sansavini and André Bardow
+16th Greenhouse Gas Control Technologies Conference (GHGT-16 2022), Lyon, France, pp.4276719 Amsterdam: Elsevier, October 23-27, 2022.
+external page:
+DOI: 10.2139/ssrn.4276719
+external page:
+Research Collection
+Abstract 
+
+The transition to net-zero emissions requires large amounts of carbon dioxide to be captured and stored permanently in geological storage. To initiate the large-scale deployment of CO2 capture, transport, and storage (CCTS) value chains, immediate deployment of infrastructure is required. The environmental impacts of a value chain relying on ready-to-use technologies instead of optimal ones with long lead times, such as pipelines, is so far unclear. We assess the environmental impacts through the life cycle assessment of an exemplary CCTS value chain from Switzerland to Norway that only uses immediately available technologies. Even though the system relies on suboptimal technologies and is not optimized for a low climate impact, it shows the capability to effectively sequester CO2 without emitting more during its life cycle than is stored. Contrary to previous studies, the ready-to-use transport modes cause a significant share (56.3 %) of the total global warming impact (GWI) of the value chain. More than 73 % of the total GWI stems from the use of fossil fuels during the operation phase of the value chain.
+
+Exploration of Power Demand Spatial Patterns Using Unsupervised Learning
+Alfredo Ernesto Oneto, Paolo Gabrielli, Giovanni Sansavini, Filippo Tettamanti and Blazhe Gjorgiev
+2022 INFORMS Annual Meeting, Indianapolis, IN, USA, pp.4 Zurich: ETH Zurich, Institute of Energy and Process Engineering, October 16–19, 2022.
+external page:
+Research Collection
+Abstract 
+
+Distribution grid data is crucial to assess the ability of the distribution grids to accept new loads and distributed sources in the light of the energy transition. However, getting reliable distribution grid data remains a challenge. Consequently, many researchers use generic data sets. Unsupervised learning has been identified as a promising approach to tackle this problem because it does not require prior knowledge of the power grids. This work proposes a novel method that identifies supply zones for power demand, which are used to derive country-wide distribution grid models using state-of-the-art routing schemes.
+
+Development of a blackout events database for the European electrical power system
+Andrej Stankovski, Leon Locher, Blazhe Gjorgiev and Giovanni Sansavini
+32nd European Safety and Reliability Conference (ESREL 2022), Dublin, Ireland, pp.166-167, Singapore: Research Publishing, August 28 – September 1, 2022.
+external page:
+Research Collection
+Abstract 
+
+Learning from operational experience can be invaluable in identifying vulnerabilities, procedural deficiencies, and alarming trends in interconnected power systems. Unfortunately, most of this knowledge spreads across transmission system operators (TSOs) and regulatory bodies, and existing databases are often scope-specific, they lack curation and contain limited number of events. To overcome these research gaps, we present a database of safety-relevant blackouts in the European transmission system, which contains over 500 events obtained from publicly available sources, including TSO reports, scientific literature, news articles, and other data collection efforts. Each event is categorized following a set of classification criteria, including: general information of the event, indicators of severity and magnitude, primary causes, contributing factors, sequence of component failures, load conditions, cascade progression, and final states of the system/control zone. Preliminary analyses show that cascading failures are the main failure mechanism behind 32% of all data entries, with weather-related incidents (58%) and equipment failures (24%) being the most prominent causes. Additionally, cascading events contributed to 66% of all demand not served (DNS) and 75% of the total outage duration observed in the database.
+
+Policy instruments to enable low-carbon heating in sustainable multi-energy systems
+Linda Brodnicke, Albane Sérès, Paolo Gabrielli and Giovanni Sansavini
+14th International Conference on Applied Energy (ICAE 2022), Bochum, Germany, August 8-11, 2022.
+external page:
+Research Collection
+Obstacle or opportunity? The impact of a natural gas phase-out on the decarbonization of the European energy system
+Jacob Mannhardt, Paolo Gabrielli and Giovanni Sansavini
+14th International Conference on Applied Energy (ICAE 2022), Bochum, Germany, August 8-11, 2022.
+external page:
+Research Collection
+Equity, equality, and justice: Mapping concept to technical representations in energy system models
+Katherine Lonergan, Meijun Chen, Nicolas Suter and Giovanni Sansavini
+Poster presented at the 3rd International Conference on Energy Research & Social Science, Manchester, United Kingdom, June 20-23, 2022.
+external page:
+Research Collection
+Abstract 
+
+Energy system models are helpful tools for the planning and operation of future energy systems. Energy systems are large, expensive and interconnected; real-world experiments are therefore often impractical and the use of computational techniques is paramount for planning and design. The literature contains many examples of technical models that incorporate techno-economic factors but far fewer cases that model sociocultural aspects. Even when social factors are represented within technical models, they are often considered only to a limited extent. The dominant modelling practice is at odds with the fact that energy systems may deeply affect the communities in which they are embedded. To understand the state of the practice, we review current energy system modelling approaches that consider equity, equality, and energy justice (EEJ). Relevant, recent articles are identified using the Scopus search engine. We observe an increasing number of modelling studies that consider EEJ concepts with no clear evidence of location-based preference. The studies identified adopt a variety of approaches to quantify EEJ concepts; however, these approaches are largely inconsistent and are most often applied without a clear theoretical basis. Moreover, the methods largely fail to reflect the numerous dimensions of EEJ and tend to concentrate on select aspects of EEJ. Our findings indicate a gap between how modellers conceive EEJ and how EEJ is understood by social scientists and non-academic practitioners. To close this gap, technical modellers require further support in determining how they should consider EEJ. This support could include references to study motivation, contextually-appropriate definitions of EEJ, and alternative technical formulations. Providing such guidance would not only help bridge disciplinary gaps but also ensure that models that consider EEJ do so in a manner that is accepted by the broader community.
+
+A globally consistent approach for basic service disruptions after natural disasters
+Evelyn Mühlhofer, Elco Koks, Giovanni Sansavini and David N. Bresch
+EGU General Assembly 2022, Vienna, Austria, pp.EGU22-911 Göttingen: Copernicus, May 23–27, 2022.
+external page:
+DOI: 10.5194/egusphere-egu22-911
+external page:
+Research Collection
+Abstract 
+
+Critical infrastructures (CIs) such as powerlines, roads, telecommunication and healthcare systems across the globe are more exposed than ever to the risks of extreme weather events in a changing climate. Damages to CIs often lead to failure cascades with catastrophic impacts in terms of people being cut off from basic service access. Yet, there is a gap between traditional CI failure models, operating often at local scales, with detailed proprietary, non-transferrable data, and the large scales and global occurrences of natural disasters. We demonstrate a way to bridge those incompatibilities by linking a globally consistent and spatially explicit natural hazard risk modelling platform (CLIMADA) and a CI failure cascade model. The latter is built on publicly available infrastructure, end-user and supply data, and makes use of consistent and transferrable dependency heuristics between CIs to represent infrastructure systems at national scales for any place interest. Impacts are then spatially mapped in terms of people experiencing disruptions to basic service access. With this approach, we aim to showcase how the interplay of available data and well-informed heuristics can allow large-scale impact models to produce consistent hot-spot analyses and rapid emergency assessments, which may then provide a starting point for more detailed, local studies.
+
+Sequential Second-Order Cone Programming for AC Load Maximization Problems
+Behnam Akbari and Giovanni Sansavini
+7th IEEE International Energy Conference (ENERGYCON 2022), Riga, Latvia, pp.9830451 Piscataway, NJ: IEEE, May 9-12, 2022.
+external page:
+DOI: 10.1109/energycon53164.2022.9830451
+external page:
+Research Collection
+Abstract 
+
+AC load maximization problems are challenging to solve in their nonconvex form. Second-order cone programming relaxations facilitate an efficient solution but often result in infeasible solutions especially for meshed networks. This paper proposes a sequential convex programming procedure to recover feasibility by augmenting the relaxed problem with linearized branch and voltage angle constraints. Systematic experiments on radial and meshed networks are designed to identify the effective formulations of constraints. The quantitative results certify the efficacy of the proposed procedure in retrieving near-global solutions for a wide range of test cases. Comparison with established nonlinear solvers reveals the computational superiority of the proposed procedure, which is especially important in making timely maximal load delivery decisions.
+
+Optimal design of hydrogen supply chains to decarbonize hard-to-abate industrial sectors
+Alissa Ganter, Paolo Gabrielli and Giovanni Sansavini
+Poster presented at the 32nd European Symposium on Computer Aided Process Engineering (ESCAPE-32), Toulouse, France, June 12-15, 2022.
+external page:
+Research Collection
+Scheduling Municipal Carbon Abatement Projects Under Uncertainty
+Katherine Lonergan and Giovanni Sansavini
+32nd European Safety and Reliability Conference (ESREL 2022), Dublin, Ireland, pp.164-165, Singapore: Research Publishing, August 28 - September 1, 2022.
+external page:
+Research Collection
+Abstract 
+
+Addressing city-level energy-related emissions is a key challenge in wider decarbonization efforts. However, the ability to take effective planning decisions is constrained by budget, staffing resources, political cycles, and the need to consider multiple, competing policy objectives. Moreover, project selection is often conducted with little-to-no consideration to uncertainty in project cost, duration, or abatement potential. We suggest that applying established scheduling methods could help city planners make more effective emissions reduction planning decisions, especially if project uncertainties are considered in the scheduling process. We demonstrate such an approach to a case study of Saskatoon, Saskatchewan, Canada, and consider actual projects adopted by the city. We adopt a simplified representation of project emissions abatement potential based upon whether projects addressed existing or new infrastructure and the actors involved. Our results show that projects selected by the city have lower expected carbon abatement potential and generally offer lower cost savings to the community than those selected by algorithm-based scheduling methods. Future work will further develop the applied uncertainty quantification methods and alternative case studies.
+
+Deep learning for online cascading failures prediction: a comparison of graph neural networks and feed forward neural networks
+Anna Varbella, Blazhe Gjorgiev and Giovanni Sansavini
+32nd European Safety and Reliability Conference (ESREL 2022), Dublin, Ireland, pp.107-108, Singapore: Research Publishing, August 28 - September 1, 2022.
+external page:
+Research Collection
+Abstract 
+
+Past events have revealed that widespread blackouts are mostly a result of cascading failures in the power grid. A real-time detection of precursors to cascading failures will help operators take measures to prevent their propagation. Currently, the well-established probabilistic and physics-based models of cascading failures offer low computational efficiency, allowing them to be used as offline tools. In this work, we have developed a data-driven methodology for online estimation of the risk of cascading failures. We utilize an AC physics-based cascading failure model to generate a cascading failure dataset. The dataset covers a large set of grid states labeled as either safe or unsafe. Each sample of the dataset includes a contingency set, bus and branch conditions. We use the synthetic data to train deep learning architectures, namely Feed-forward Neural Networks (FNN) and Graph Neural Networks (GNN). With the development of GNNs, improved performance is achieved with graph-structured data. Furthermore, GNNs can generalize to graphs of different sizes. Since the power grids are complex networks, they can be represented by graphs, making it convenient to use of GNNs. Indeed, the GNN dataset carries information on the grid topology, in addition to bus and branch states. A comparison between FNN and GNN is made and the GNNs inductive capability is tested when switching from one test grid to another.
+
+Development and Application of A Cyber-Physical System Resilience Assessment Framework
+Beatrice Cassottana and Giovanni Sansavini
+8th International Symposium on Reliability Engineering and Risk Management (ISRERM 2022), Hannover, Germany, pp.710-718, Singapore: Research Publishing, September 4-7, 2022.
+external page:
+DOI: 10.3850/978-981-18-5184-1_ms-23-190-cd
+external page:
+Research Collection
+Abstract 
+
+Automation and digitization trends have caused Cyber-Physical Systems (CPSs) to be deployed at an extremely fast rate. Due to the complexity and the heterogeneity of their components, CPSs face significant challenges to their security and protection. In recent years, several studies have been published to ensure the cyber-security of these systems. However, they adopt a qualitative approach or do not consider the post-disruption system recovery. In order to fill these gaps, we propose a resilience assessment framework for CPSs. The framework addresses the problem of cyber-security from a resilience perspective by providing quantitative methods for the assessment of known threats and the identification of currently unknown threats with large impact. The framework integrates the analysis of the recovery phase following a disruption and proposes a standardized workflow to assess the resilience of CPSs before and after the occurrence of a disruption. The framework develops around three phases, namely (1) modeling the CPS, (2) identifying disruption scenarios that may cause damage to the CPS, and (3) assessing the effects of resilience strategies. The application of the proposed framework is exemplified with reference to a power substation and associated communication network. The application does not strive to be exhaustive, rather, it guides the deployment of resilience assessment tools tailored to specific CPSs. Remarkably, the proposed framework supports resilience decision-making by quantifying the effects of the implementation of resilience strategies.
+
+Coupling physics-based models and machine learning for predictive maintenance of power line insulators
+Blazhe Gjorgiev, Laya Das, Seline Merkel, Martina Rohrer, Etienne Auger and Giovanni Sansavini
+32nd European Safety and Reliability Conference (ESREL 2022), Dublin, Ireland Singapore: Research Publishing, August 28 - September 1, 2022.
+external page:
+Research Collection
+Abstract 
+
+The timely identification of unhealthy insulators via online monitoring systems is crucial to avoid unplanned outages of power lines. However, obtaining an adequate amount of data for different types, severity, and location of faults to reliably identify distinguishing patterns may not be doable in most systems. In this work, we develop a physics-based model of an existing power line. The model is calibrated to produce leakage currents that are well aligned with the measured ones. The model is then used to produce large sets of leakage current data while simulating different states of fault at different locations along the power line. The generated data is used to train multiple state-of-the art machine learning (ML) methods, including long-short term neural networks and convolutional neural networks. Furthermore, we exploit different extraction techniques and automate the ML pipeline using custom layers. Using test data sets, the obtained models show accuracies higher than 99%.
+
+Multi-hazard security assessment of transmission systems: a data-driven probabilistic framework for cascading failure analysis
+Salvatore Francesco Greco, Andrej Stankovski, Blazhe Gjorgiev and Giovanni Sansavini
+32nd European Safety and Reliability Conference (ESREL 2022), Dublin, Ireland, pp.131-132, Singapore: Research Publishing, August 28 – September 1, 2022.
+external page:
+Research Collection
+Abstract 
+
+Cascading failures significantly contribute to the total demand not served of safety-relevant blackout events occurring in transmission systems worldwide. Cascades in the network can be triggered by multiple, concurrent contingencies that originate from different types of external (e.g. extreme weather events) and internal (e.g. random component failures) hazards. Given the stochastic nature of the latter, probabilistic approaches are required to assess the vulnerability of transmission systems to such threats, complementing the existing deterministic approaches in the security assessment of transmission systems. Framed within this research direction, the present project aims at providing a probabilistic modelling framework to comprehensively assess the risk profile of a given transmission system subject to multiple external and internal hazards. The framework will combine established PRA tools (e.g. hazard maps, fragility curves) with state-of-art quantitative models (e.g. Bayesian inference, machine learning algorithms) to estimate data-driven failure probability values and uncertainty bounds for system components, and assess the impacts of component outages on the system via cascading failure analysis. The proposed framework will allow for in-depth analyses of the security of supply of transmission systems, supporting operators in the identification of system vulnerabilities and in the prioritization of risk mitigation strategies to minimize the consequences of accidental events for the connected end-users.
+
+2021
+Optimal Design and Operation of Multi-Energy Systems: Flexibility Assessment Considering Internal Uncertainty, Spot and Ancillary Service Market Prices
+Raphael Wu, Giovanni Sansavini and Arvind Srinivasan
+13th International Conference on Applied Energy (ICAE 2021), Online, November 29 - December 5, 2021.
+external page:
+Research Collection
+Impact of renewable-energy policy design on the economic, social, and environmental benefits of multi-energy systems
+Paolo Gabrielli, Linda Brodnicke and Giovanni Sansavini
+13th International Conference on Applied Energy (ICAE 2021), Online, November 29 - December 5, 2021.
+external page:
+Research Collection
+A Dynamic Agent-Based Transit System Disruption and Recovery Simulation Model
+Steffen Blume, Michel-Alexandre Cardin and Giovanni Sansavini
+31st European Safety and Reliability Conference (ESREL 2021), Angers, France, pp.3020-3020, Singapore: Research Publishing Services, September 19-23, 2021.
+external page:
+Research Collection
+Abstract 
+
+Transit system disruptions can have severe system-wide effects on service delays, crowding levels, and the ability of millions of travelers to reach their destinations routinely and unencumbered. This work therefore develops an agent-based simulation model to understand and augment the resilience of transit systems. Other than existing dynamic agent-based models that focus on small disturbances (1,2) or simplify the re-routing behavior and real-time information availability of passenger agents (3), the proposed simulation model concentrates on severe disruption scenarios and resulting system-wide redistribution of passenger agents that variably alter their decision behavior in response to delays and system alert information. Moreover, the simulation accounts for timetable rescheduling measures. The simulation model has been validated on a case study of the New York City (NYC) subway network with realworld passenger demand data and train vehicle schedules, and produces reliable predictions of passenger flows during both undisrupted and disrupted conditions. The versatility in testing diverse disruption and recovery scenarios is a valuable addition to the preemptive assessment of disruptions and recovery schedules as well as to contrive contingency plans, identify potential bottlenecks, or prepare component and process redundancies to be swiftly engaged and dispatched when needed.
+
+Impact of distributed decision-making on energy and social systems' resilience: A case study of solar photovoltaic in Switzerland
+Katherine Lonergan and Giovanni Sansavini
+31st European Safety and Reliability Conference (ESREL 2021), Angers, France, pp.611-611, Singapore: Research Publishing, September 19-23, 2021.
+external page:
+Research Collection
+Uncertainty analysis for optimal design and assessment of active electricity distribution networks
+Annalisa Guidolin, Raphael Wu, Paolo Gabrielli and Giovanni Sansavini
+International Conference of Operations Research (OR 2021), Online, August 31 - September 3, 2021.
+external page:
+Research Collection
+Abstract 
+
+Transitioning to sustainable, reliable and affordable energy is a worldwide challenge subject to many uncertainties. This project characterizes and quantifies the uncertainty associated with the design of active electricity distribution networks (ADNs) and microgrids with islanding ability. Here, distributed energy resources (DERs) are optimally placed to minimize total annual costs while achieving reliability and greenhouse gas emission targets. To understand which geographical, techno-economic and regulatory circumstances are amenable to DER and microgrid installation, the model response to the variation of 48 input parameters is tested. First, the uncertainty of the renewable en ergy sources and load profiles is characterized through the definition of "energy regions" based on climate Köppen Geiger classes, as well as wind and solar potential. Then, the optimal number of regions to capture most of the global variability is defined via the analysis of various clustering algorithms. For each region, a sensitivity analysis is performed through the elementary effect method, which enables to rank the parameters by relevance, and shows the variability of optimal ADN design throughout the regions. The elementary effects of all inputs, outputs and regions are aggregated with a new sensitivity measure and used to determine a subset of highly influencing parameters. Furthermore, the most influencing parameters are tested through an uncertainty analysis with distributions based on extensive literature research. Monte Carlo Filtering is finally used to capture the combinations of parameters that lead to a cost-competitive installation of DERs and microgrids.
+
+Optimization-Based Reliability Assessment of Multi-Energy Systems
+Raphael Wu, Emanuela Bussino, Stefano Bracco, Silvia Siri, Paolo Gabrielli and Giovanni Sansavini
+31st European Safety and Reliability Conference (ESREL 2021), Angers, France, pp.1676-1682, Singapore: Research Publishing Services, September 19-23, 2021.
+external page:
+DOI: 10.3850/978-981-18-2016-8_491-cd
+external page:
+Research Collection
+Abstract 
+
+Multi-energy systems (MES) connect different energy networks using conversion technologies, leveraging alternative supply paths and redundancy to improve the integration of renewable energy, the reliability and the profitability of energy supply. This paper investigates MES reliability by integrating a pre- and post-failure operational optimization into a reliability assessment based on an alternating renewal process. Expected energy not supplied and uninterrupted supply times are used to quantify the MES' ability to withstand failures of technologies, networks and external grid supply. The method is applied to a Swiss MES that supplies thermal and electrical energy demands of a mixed-use district. A comparison of system configurations with electricity- and gas-based conversion technologies, energy storage and distributed photovoltaic generation shows that both electricity- and gas-based MES are highly reliable due to the high reliability of the Swiss electricity grid. Introducing centralized battery storage and distributed photovoltaic panels further increases the probability of uninterrupted supply and decreases the expected energy not supplied. However, reliability is not always increased by introducing conversion technologies that couple energy carriers. In fact, heat pumps introduce a dependency of the heat supply on electricity, while combined heat and power plants can be less reliable than other technologies, thus increasing the expected energy not supplied.
+
+Flexibility Optimization of Multi-Energy Systems
+Arvind Srinivasan, Raphael Wu and Giovanni Sansavini
+MIT A+B Applied Energy Symposium (MITAB 2021), Online Boston, MA: MITAB, August 11-13, 2021.
+external page:
+Research Collection
+Optimization and assessment of resilient CO2 value chains via carbon capture and storage
+Paolo Gabrielli, Jordi Campos, Viola Becattini, Marco Mazzotti and Giovanni Sansavini
+3rd Applied Energy Symposium: MIT A+B (MITAB 2021), Online s.l.: MITAB, August 11-13, 2021.
+external page:
+Research Collection
+Design and Multi-Objective Optimization of CO 2 Value Chains for the Waste to Energy Sector: A Swiss Case Study
+Viola Becattini, Paolo Gabrielli, Alberto Acquilino, Cristina Antonini, Marco Mazzotti and Giovanni Sansavini
+15th Greenhouse Gas Control Technologies Conference (GHGT-15), Abu Dhabi, UAE Amsterdam: Elsevier, March 15-18, 2021.
+external page:
+DOI: 10.2139/ssrn.3820743
+external page:
+Research Collection
+Abstract 
+
+This study investigates the optimal design of CO2 value chains aimed at decarbonizing the waste to energy (WtE) sector on a national scale and presents the case study of Switzerland. Switzerland has 30 WtE plants that generate a total of 4.2 million tons of CO2 emissions per year. Half of these emissions are from biogenic sources and half are fossil-based, corresponding to 4.5% of the overall Swiss emissions. On the one hand, this indicates the relevance of decarbonizing the WtE sector. On the other hand, it implies that a net-negative-emissions WtE sector can be achieved by adopting carbon capture and storage (CCS) technologies. The CO2 value chains considered here consist in capturing CO2 at the WtE production sites, transporting it to the storage site, and permanently storing it underground. An optimization problem is formulated to determine the optimal design of the CO2 value chains in terms of size and location of carbon capture technologies, and structure of the network transporting the CO2 from the capture to the storage sites. The optimization algorithm is a mixed integer linear program that minimizes the total annual cost and CO2 emissions of the overall system. Several transport options are assessed, namely truck, train, pipeline and ship, as well as different transport paths.
+
+Cascading Failure Analyses for Power System Vulnerability Assessment
+Blazhe Gjorgiev and Giovanni Sansavini
+31st European Safety and Reliability Conference (ESREL 2021), Angers, France, pp.2159-2159, Singapore: Research Publishing Services, September 13-23, 2021.
+external page:
+Research Collection
+Abstract 
+
+Power systems as a critical infrastructure are an integral part of human society and are therefore of paramount importance to modern life. Vulnerabilities in the system, that are reviled either by accidental or deliberate events, can cause large losses of power supply with sever social and economic consequences. A tool that identifies the vulnerabilities in a power system can provide the operators the means to support a more reliable power system operation. This paper presents a methodology for power system vulnerability assessment that couples an AC based cascading failure simulation model and a meta-heuristic optimization procedure. The objectives of the assessment is to (1) rank the most important branches in the transmission grid, and (2) identify sets of branches if simultaneously tripped will cause the cascade with highest intensity. The first objective is achieved by ranking the criticality of the branches using two criteria (i) the impact that each branch failure has on the DNS and (ii) the frequency of line overload. The second objective is achieved by hard linking an AC based cascading failure simulation model and a meta-heurist based optimization procedure. The algorithm developed for the purpose of this study is applied to the IEEE 118-bus test system. The results demonstrate the capability of the proposed methodology to identify vulnerabilities in a power system.
+
+2020
+Data-driven forecast of long-term electricity market prices for the assessment of power purchase agreements
+Moritz Wüthrich, Diederick Calkoen, Paolo Gabrielli and Giovanni Sansavini
+9. International Ruhr Energy Conference (INREC 2020) (virtual), Essen, Germany, September 9-10, 2020.
+external page:
+Research Collection
+Investment and operation of energy storage for power outage mitigation
+Katherine Lonergan, Raphael Wu and Giovanni Sansavini
+30th European Safety and Reliability Conference and 15th Probabilistic Safety Assessment and Management Conference (ESREL2020 PSAM15), Venice, Italy, pp.4038 Singapore: Research Publishing Services, November 1-5, 2020.
+external page:
+Research Collection
+Abstract 
+
+Energy storage technologies have been established as being extremely versatile, with the potential to facilitate energy arbitrage, frequency regulation, and increased self-consumption, among other services. Energy storage may also serve as a back-up source of energy in the event of a sudden power loss; however, unlike other services, the value of back-up energy provided by energy storage has not been fully quantified. The value of energy reserves presented by energy storage may be significant for users with high value of continuous power supply and may factor into the investment and decision-making process. Here, we present a methodology for a private energy storage investor by accounting for the change in expected cost of outage, as presented by the varying levels of stored energy, in the context of a mathematical optimization problem. In a case study of an Australian aluminum smelter and a vanadium redox flow battery, we find that considering the expected benefit of storage is of greater importance to operating strategy than in determining the optimal storage capacity, with impact increasing as the network failure rate decreases. These preliminary findings suggest that considering the value of energy storage in mitigating the costs of power outage may be non-negligible for other users, as well.
+
+Balancing costs, emissions and security in Active Distribution Networks
+Raphael Wu and Giovanni Sansavini
+Applied Energy Symposium: MIT A+B (virtual), Cambridge, MA, USA Cambridge, MA: MITAB, August 13-14, 2020.
+external page:
+Research Collection
+Parameter Estimation for Distribution Grid Reliability Assessment
+Raphael Wu and Giovanni Sansavini
+16th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2020) (virtual), Liege, Belgium, pp.9183408 Piscataway, NJ: IEEE, August 18-21, 2020.
+external page:
+DOI: 10.1109/pmaps47429.2020.9183408
+external page:
+Research Collection
+Abstract 
+
+Strengthening distribution grids reliability and resilience against technical and natural hazards is a costly endeavor including equipment upgrades and distributed energy resources. Therefore, using accurate data when assessing grid reliability is key to identify effective solutions. As literature parameters can be inaccurate for specific locations, tuning and validating reliability models against real-world data is key for accurate assessments. In this paper, distribution grid reliability is modelled by considering three failure mechanisms in a Monte Carlo simulation: bus and line failures within the distribution grid, blackouts of the surrounding grid, and dependent failures due to extreme events. Ten parameters governing the frequency and duration distributions of the three failure mechanisms are tuned using metaheuristic optimization. A subsequent global sensitivity analysis quantifies the importance of the estimated parameters.
+
+Agent-based maintenance decision support system for power gridsoperating in electricity markets
+Pegah Rokhforoz, Blazhe Gjorgiev, Giovanni Sansavini and Olga Fink
+30th European Safety and Reliability Conference and 15th Probabilistic Safety Assessment and Management Conference (ESREL2020 PSAM15), Venice, Italy, pp.4837 Singapore: Research Publishing Services, November 1-5, 2020.
+external page:
+Research Collection
+Abstract 
+
+Condition-based and predictive maintenance enable early detections of critical system conditions and thereby enable decision makers to forestall the faults and mitigate them. However, the decision makers also need to take the operational and production needs into consideration to take an optimal decision when to perform the maintenance. Particularly in network systems, such as power grids, decision on the maintenance of single assets can affect the entire network and are, therefore, more complex.
+
+Transmission System Expansion Planning Considering the Risk of Systemic Failures in Electric Power Grids
+Blazhe Gjorgiev, Alexander E. David and Giovanni Sansavini
+30th European Safety and Reliability Conference and 15th Probabilistic Safety Assessment and Management Conference (ESREL2020 PSAM15), Venice, Italy, pp.4051 Singapore: Research Publishing Services, November 1-5, 2020.
+external page:
+Research Collection
+Abstract 
+
+This paper proposes a methodology for transmission system expansion planning (TEP) of electric power grids that simultaneously minimizes the capital costs and risk of systemic failures. The developed tool relies on AC power flow based cascading failure simulation, designed to assess the system resilience in withstanding propagating outages. The cost of expansion and the risk of cascading outages are conflicting objectives. Therefore, the TEP problem is formulated as a simulation-based multi-objective optimization problem that provides a set of non-dominated Pareto optimal solutions. This set of solutions proves decision makers with multiple expansion options, varying from the best risk improvement option with highest cost, to the least risk improvement solution with the lowest costs. As an optimizer, we use Non-dominated Sorting Genetic Algorithm II (NSGAII), suitable for non-linear and non-convex multi-objective optimization problems. The developed tool is applied on the IEEE 118-bus system and evaluated against previous work presented in the scientific literature. The results demonstrate the robustness of the method in providing risk-aware expansion planning solutions.
+
+Estimating the impact of earthquake-induced power outages on different economic sectors in Chile
+Elisa Ferrario, Mauricio Monsalve, Alan Poulos, Juan Carlos de la Llera and Giovanni Sansavini
+30th European Safety and Reliability Conference and 15th Probabilistic Safety Assessment and Management Conference (ESREL2020 PSAM15), Venice, Italy, pp.5107 Singapore: Research Publishing Services, November 1-5, 2020.
+external page:
+Research Collection
+Abstract 
+
+The damage induced by strong earthquakes on the components of Electric Power Networks (EPNs) can seriously compromise the ability of these systems to generate and distribute electric power to final users and to interconnected utilities and industries. This results in large-scale impacts across infrastructure systems and economic sectors that rely upon EPNs. The objective of this work is to estimate the economic losses due to the reduction of the Chilean EPN functionality after the occurrence of disruptive seismic events. Economic losses have been estimated, at country and regional level, by applying the following main steps: (1) estimation of ground motion intensity measures for three earthquakes at the location of the EPN system components; (2) evaluation of the physical damage on the EPN system components; (3) evaluation of the EPN system functional consequence; and (4) estimation of the economic impacts on the electricity sectors and on the interconnected economic activities at regional and national level. Results of this analysis allow identifying the most impacted regions on the basis of the most impacted economic activities and can support decision-making for future investments to reduce the economic impacts produced by disruptive seismic events on EPNs and their interdependent industries.
+
+2019
+Dynamic Disruption Simulation in Large-Scale Urban Rail Transit Systems
+Steffen O.P. Blume, Michel-Alexandre Cardin and Giovanni Sansavini
+10th International Conference on Complex Systems Design & Management (CSDM 2019), Paris, France, pp.129-140, Cham: Springer, December 12-13, 2019.
+external page:
+DOI: 10.1007/978-3-030-34843-4_11
+external page:
+Research Collection
+Calibration of cascading failure simulation models for power system risk assessment
+Blazhe Gjorgiev, Bing Li and Giovanni Sansavini
+29th European Safety and Reliability Conference (ESREL 2019), Hannover; Germany, pp.1911-1918, Singapore: Research Publishing Services, September 22-26, 2019.
+external page:
+DOI: 10.3850/978-981-11-2724-3_0919-cd
+external page:
+Research Collection
+Abstract 
+
+Recently a number of attempts have been made to validate and calibrate power system cascading failure simulation models. The objective of this paper is to assess the potential for model calibration. For that purpose, we propose a generic framework for the calibration of cascading failure analysis models. The framework is based on tuning the optimal values of model parameters, i.e. line/transformer tripping power-flow thresholds, which are usually diverse depending on the particular settings chosen by maintenance personnel. The framework application is exemplified by calibrating the parameters of a cascading failure model based on DC power flow (PF). The parameters are optimized through minimizing the difference between the probability distributions of historical blackout data and of the simulation results for the same electric power transmission system. The problem is casted as single-objective optimization and is solved using different optimization techniques. The efficiency of the proposed framework and the selected optimization techniques is demonstrated on the Western Electricity Coordinating Council (WECC) power transmission system. The obtained results show that by tuning model parameters optimally, one can achieve a good agreement between the simulation results and the historical data. These findings support the applicability of the cascading failure simulations to power system risk assessment.
+
+A Simulation-based Approach to Modelling Disruptions and Quantifying Uncertainties in a Large-scale Urban Transit System
+Steffen O.P. Blume, Michel-Alexandre Cardin and Giovanni Sansavini
+INFORMS Annual Meeting 2019, Seattle, WA, USA, pp.563-563, Catonsville, MD: INFORMS, October 20-23, 2019.
+external page:
+Research Collection
+2018
+Impact of cyber dependencies in critical infrastructures: The reliability of grid splitting in power systems
+Di-An Tian and Giovanni Sansavini
+26th Annual International Conference on European Safety and Reliability (ESREL 2016), Glasgow, United Kingdom, pp.491-504, London: SAGE, September 25-29, 2016.
+external page:
+DOI: 10.1177/1748006X17736165
+external page:
+Research Collection
+Abstract 
+
+The growing presence of cyber interdependencies in critical infrastructures can be exemplified by grid splitting, which is an application in power system stability and control dependent on communication services. It involves the controlled separation of a power system into islands in reaction to an imminent instability. Communication is necessary for gathering system-wide synchronized measurements for state estimation as well as for the dispatch of line switch-opening signals. However, grid splitting may become ineffective due to a degradation in communication, which is accrued by the use of non-dedicated, open communication networks. To address this issue, this article aims to quantify the reliability of grid splitting under degraded communication conditions. A simulation framework is developed that allows the integration of a transient electrical model and a stochastic communication delay model that captures the effects of congestion and traffic uncertainty. The application to the IEEE 39-Bus Test System shows that the reliability of grid splitting is reduced under the influence of degraded communication leading to increased time delays. Furthermore, the results identify a critical transition range in the grid splitting reliability for a very narrow range of external interfering traffic and network data rate. Finally, the interdependency of the electric and the communication network is quantified by the expected efficiency of the communication network subject to degraded communication following the grid splitting action. The decrease in the expected communication efficiency under degraded communication is driven by increased congestion levels and by failures of electrical and co-located communication nodes and is related to the critical transition range for reliability. The developed methodology allows identifying the communication requirements for a reliable grid splitting execution under traffic uncertainty and congestion.
+
+Meta-heuristic approach for validation and calibration of cascading failure analysis
+Bing Li, Blazhe Gjorgiev and Giovanni Sansavini
+2018 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2018), Boise, ID, USA, pp.8440477 Piscataway, NJ: IEEE, June 24-28, 2018.
+external page:
+DOI: 10.1109/pmaps.2018.8440477
+external page:
+Research Collection
+Abstract 
+
+A growing number of analytical and simulation methods are emerging for studying cascading failures, of which only a limited number are validated. In the cascading failure analysis, many parameters are involved, it is critical that these parameters are calibrated appropriately when the analysis is applied to a specific system. To propose a generic framework for the calibration and validation of cascading failure analysis, a multi-objective genetic algorithm based approach is developed. Its application is illustrated by the model parameters calibration of a AC PF cascading failure analysis. The parameters are optimized through minimizing the differences between the simulation results and the historical blackout data. The results for the case studies on the WECC network demonstrates the effectiveness of a meta-heuristic approach in calibrating the model parameters. The validation of the calibrated cascading failure analysis shows a good agreement between the simulation results and the historical data.
+
+Stochastic unit commitment and reserve scheduling under gas-supply disrupted scenarios
+Andrea Antenucci and Giovanni Sansavini
+5th IEEE International Energy Conference (ENERGYCON 2018), Limassol, Cyprus, pp.8398825 Piscataway, NJ: IEEE, June 3-7, 2018.
+external page:
+DOI: 10.1109/ENERGYCON.2018.8398825
+external page:
+Research Collection
+Abstract 
+
+Gas network operations may affect the day-Ahead generator commitment and the scheduling of power reserves, due to the interdependencies between the gas and the electric infrastructures. Moreover, abnormal operating conditions in the gas infrastructure, i.e. large losses of supply, may further exacerbate the gas-electric interdependencies, by inducing massive electric gas load shedding. To address this issue, we assess the day-Ahead electric power and reserve scheduling when gas security of supply is compromised. The day-Ahead scheduling of electric generators is computed via stochastic optimization. Gas load shedding is evaluated through a transient gas flow model. The general methodology is exemplified with reference to simplified gas and electric power infrastructures of Great Britain under the 2030 Gone Green scenario. Results show that the failures of the Bacton and of the IOG terminals induce the largest pressure violations in the gas system. To prevent unsafe operations, the electric system must re-schedule gas-fired power plants from the South to the central part of Great Britain, and activate coal and pump storage units that cause an operative cost increase of 5% in the investigated case study. These results support operators and regulators by providing a techno-economical evaluation of the gas-electric interdependencies.
+
+Predicting communication delays in open networks for frequency control of smart grids
+Huadong Mo and Giovanni Sansavini
+5th IEEE International Energy Conference (ENERGYCON 2018), Limassol, Cyprus, pp.8398803 Piscataway, NJ: IEEE, June 3-7, 2018.
+external page:
+DOI: 10.1109/ENERGYCON.2018.8398803
+external page:
+Research Collection
+Abstract 
+
+The use of open communication networks in wide-Area power systems (WAPS) introduces random delays into the transmissions of frequency measurements and control signals, which deteriorate the load frequency control (LFC) performance. Current works focus on providing sufficient delay margin or proposing robust controller to maintain the WAPS stability. In this paper, a Smith predictor is designed to further compensate the LFC performance reduction caused by unreliable communication. Time delays are predicted via the discrete hidden Markov model (DHMM) and via the exponentially weighted moving average (EWMA) model, and are the input to the Smith predictor. The case study is carried out on a single-Area WAPS with the Ethernet-based network, implemented via the Truetime simulator. The results show that the use of Smith predictor is more effective in eliminating load disturbances and enhances robustness against delays as compared to delay-margin-based and robust controllers. Furthermore, the Smith predictor using the DHMM can achieve better LFC performance than the one using the EWMA.
+
+Steps towards Quantifying Fragility in Large-Scale Urban Transit Systems
+Steffen O.P. Blume, Michel-Alexandre Cardin and Giovanni Sansavini
+6th International Symposium on Reliability Engineering and Risk Management (ISRERM 2018), Singapore, pp.667-673, Singapore: International Symposium on Reliability Engineering and Risk Management, May 31 - June 1, 2018.
+external page:
+Research Collection
+Managing Gas and Electric Power Network Dependencies to secure Energy Supply: Application to the UK System
+Dominique Wassermann, Andrea Antenucci and Giovanni Sansavini
+12th International Conference on Critical Information Infrastructures Security (CRITIS 2017), Lucca, Italy, pp.181-184, Cham: Springer, October 8-13, 2017.
+external page:
+DOI: 10.1007/978-3-319-99843-5_16
+external page:
+Research Collection
+Abstract 
+
+The availability of natural gas plays an important role in electricity network, which employs gas-turbine-driven power generation.
+
+A probabilistic risk assessment method for the security of supply in gas networks supported by physical models
+Blazhe Gjorgiev, Andrea Antenucci, Giovanni Sansavini and Andrija Volkanovski
+28th European Safety and Reliability Conference (ESREL 2018), Trondheim, Norway, pp.1645-1653, London: CRC Press, June 17-21, 2018.
+external page:
+DOI: 10.1201/9781351174664-207
+external page:
+Research Collection
+2017
+Robust portfolio modelling methodological approach to GB gas grid risk analysis via a simplified network version
+Tommaso Sacco, Giovanni Sansavini, Michele Compare and Enrico Zio
+26th Conference on European Safety and Reliability (ESREL 2016), Glasgow, United Kingdom, pp.1736-1743, Boca Raton, FL: CRC Press, September 25-29, 2016.
+external page:
+Research Collection
+Impact of degraded communication on the reliability of electric networks: The application of grid splitting
+Di-An Tian and Giovanni Sansavini
+26th Conference on European Safety and Reliability (ESREL 2016), Glasgow, United Kingdom, pp.2705-2711, Boca Raton, FL: CRC Press, September 25-29, 2016.
+external page:
+Research Collection
+Modelling Uncertainty in Post-disruption Restoration for Enhancing Infrastructure Resilience
+Yiping Fang and Giovanni Sansavini
+12th International Conference on Structural Safety and Reliability (ICOSSAR 2017), Vienna, Austria, pp.1174-1183, Wien: TU Verlag, August 6-10, 2017.
+external page:
+Research Collection
+Performance-based maintenance on degraded control systems
+Mo Huadong and Giovanni Sansavini
+27th European Safety and Reliability Association Annual Conference (ESREL 2017), Portorož, Slovenia, June 18-22, 2017.
+external page:
+Research Collection
+Identification and mitigation of critical states in power systems by limit state surface reconstruction
+Alexander David and Giovanni Sansavini
+27th European Safety and Reliability Conference, ESREL 2017, Portorož, Slovenia, pp.275-275, London: Taylor & Francis, June 18-22, 2017.
+external page:
+Research Collection
+Energy markets impact on the risk of cascading failures in power systems
+Bing Li and Giovanni Sansavini
+14th International Conference on the European Energy Market (EEM 2017), Dresden, Germany, pp.7981958 Piscataway, NJ: IEEE, June 6-9, 2017.
+external page:
+DOI: 10.1109/EEM.2017.7981958
+external page:
+Research Collection
+Abstract 
+
+The occurrence of wide-area cascading events suggests that the power system is operating at reduced safety margins. The generation dispatches provided by current energy markets may influence the risk of cascading outages. This paper aims at estimating the risk of cascading outages associated with diverse dispatch solutions by integrating market-based power dispatch models and a cascading failure analysis. Two alternatives of the pool-based market-clearing model are considered: the decentralized self-scheduling dispatch and the centralized dispatch. Cascading failure analysis is performed to estimate the risk of cascading outages stemming from diverse dispatches. Computational experiments are performed on the Swiss transmission network to assess cascading outages for the decentralized self-scheduling and centralized dispatches accounting for diverse load conditions. The results provide insights on how the interplay between the market structures and the physical infrastructure impact the risk of cascading outages and can be a reference to facilitate infrastructure operators and policy makers decision making during transition phases in electricity markets.
+
+Engineering Resilience in Critical Infrastructures
+Giovanni Sansavini
+NATO Advanced Research Workshop on Resilience-Based Approaches to Critical Infrastructure Safeguarding, Azores, Portugal, pp.189-203, Dordrecht: Springer, June 26–29, 2016.
+external page:
+DOI: 10.1007/978-94-024-1123-2_6
+external page:
+Research Collection
+Abstract 
+
+This short paper is a result of several intense days of discussion following a talk at the NATO Advanced Research Workshop “Resilience-Based Approaches to Critical Infrastructure Safeguarding”, which took place in Ponta Delgada, Portugal on June 26–29, 2016. This piece elaborates on the definition of resilience, the need for resilience in critical interdependent infrastructures, and on resilience quantification. An integrated metric for measuring resilience is discussed and strategies to build resilience in critical infrastructures are reviewed. These strategies are presented in the context of the research work carried out at the Reliability and Risk Engineering Laboratory, ETH Zurich, namely, (a) planning ahead for resilience during the design phase, (b) carrying out effective system restoration, (c) quickly recovering from the minimum performance level, (d) self-healing, adaptation and control, and (e) exploiting interdependencies among infrastructures. This paper embraces a fundamentally engineering perspective and is by no means an exhaustive examination of the matter. It particularly focusing on technical aspects and does not touch upon the rich work on community resilience and the possible measures to strengthen the response of communities to disasters.
+
+A Genetic Algorithm based Calibration Approach on Validating Cascading Failure Analysis
+Bing Li, Blazhe Gjorgiev and Giovanni Sansavini
+IEEE Power & Energy Society General Meeting 2017, Chicago, IL, USA, pp.8273886 Piscataway, NJ: IEEE, July 16-20, 2017.
+external page:
+DOI: 10.1109/PESGM.2017.8273886
+external page:
+Research Collection
+Abstract 
+
+The complicated mechanisms involved in cascading failure analysis make it infeasible to connect the simulation results with the model parameters through analytical approaches. In this paper, a genetic algorithm (GA) is proposed for the parameter calibration and validation of cascading failure analysis. The approach is applied for optimizing the line tripping threshold of a DC PF cascading failure analysis through minimizing the differences between the simulation results and the historical cascading data. The results demonstrate the effectiveness of GA in calibrating the model parameters and the validation of the cascading failure analysis shows a reasonably good agreement between the simulation results and the historical data.
+
+Optimal Resource Allocation for Microgrid Survivability against Cyber Attacks
+Huadong Mo and Giovanni Sansavini
+10th International Conference on Mathematical Methods in Reliability (MMR 2017), Grenoble, France, July 3-6, 2017.
+external page:
+Research Collection
+Towards a Generic Resilience Management, Quantification and Development Process: General Definitions, Requirements, Methods, Techniques and Measures, and Case Studies
+Ivo Häring, Giovanni Sansavini, Emanuele Bellini, Nick Martyn, Tatyana Kovalenko, Maksim Kitsak, Georg Vogelbacher, Katharina Ross, Ulrich Bergerhausen, Kash Barker and Igor Linkov
+NATO Advanced Research Workshop on Resilience-Based Approaches to Critical Infrastructure Safeguarding, Azores, Portugal, pp.21-80, Dordrecht: Springer, June 26–29, 2016.
+external page:
+DOI: 10.1007/978-94-024-1123-2_2
+external page:
+Research Collection
+Abstract 
+
+Generic standards on risk management and functional safety (e.g. ISO 31000 and IEC 61508) and similar frameworks proved to be surprisingly efficient to trigger and consolidate a widely accepted and ever more effective best practice frontier for risk control. In particular, this includes fundamental and applied research activities to improve processes and to provide more advanced, interlinked and effective methods for risk control. However, this also included the identification of yet unresolved challenges and lacks of completeness. The present work goes beyond these frameworks to address the need for a joint approach to frame resilience management and quantification for system development and improvement. It is understood as extending classical risk control to creeping or sudden disruptive, unexpected (unexampled) events, as strongly focusing on technical systems and organizational capabilities to bounce back (better) and as providing generic (technical) resilience capabilities for such resilience response performance. To this end, the article presents general resilience requirements, a resilience management process, which systematically refers to a resilience method taxonomy, resilience levels as well as an applicability table of methods to different resilience management steps for each resilience level. Three case studies elucidate the approach: (i) disruption effect simulation for the Swiss energy grid, (ii) data-driven resilience of the urban transport system of Florence, and (iii) Ontario provincial resilience model in Canada. The approach comprises representative existing resilience concepts, definitions, quantifications as well as resilience generation and development processes. It supports the development of further refined resilience management and quantification processes and related improved methods in particular to cover jointly safety and security needs as well as their practical application to a wide range of socio-technical cyber-physical hybrid systems. This will foster credible certification of the resilience of critical infrastructure, of safety and security critical systems and devices.
+
+Trading off vulnerability and recoverability in network resilience
+Kash Barker and Giovanni Sansavini
+10th International Conference on Mathematical Methods in Reliability (MMR 2017), Grenoble, France, July 3-6, 2017.
+external page:
+Research Collection
+Composite system reliability assessment of different active power reserve planning strategies using probabilistic methods
+E. Okur and Giovanni Sansavini
+26th European Safety and Reliability Conference (ESREL 2016), Glasgow, United Kingdom, pp.1627-1633, Boca Raton, FL: CRC Press, September 25-29, 2016.
+external page:
+Research Collection
+Abstract 
+
+Dispatch and reserve planning is essential to cost-efficient and reliable operation of transmission net-works. Planning of excess reserves in addition to dispatched generation will increase the cost of delivering power to the consumers without any real value added, whereas inadequate reserve levels will decrease the overall reliability of the system.
+
+Seismic resilience of integrated critical infrastructure network system
+Li Sun, Bozidar Stojadinovic and Giovanni Sansavini
+16th World Conference on Earthquake Engineering (WCEE 2017), Santiago, Chile, pp.1783 Kanpur: National Information Centre of Earthquake Engineering, Indian Institute of Technology Kanpur, January 9-13, 2017.
+external page:
+Research Collection
+Abstract 
+
+In order to examine the seismic resilience of the integrated electric power supply, transportation and community system, an Agent-Based Modeling (ABM) framework is developed and presented in this paper. Three agents, the community Administrator, the Operator of Electric Power Supply System (EPSS) and the Operator of Transportation System (TS), are defined and considered. Their individual behavior as well as the interaction patterns are defined using a set of agent attributes. The recovery trajectories of the power demand from the community, the power supply capacity of EPSS, and the functionality of TS can, therefore, be modeled using a compositional supply/demand approach. The seismic resilience of an example EPSSTS-Community system is examined using the proposed ABM framework. Parametric studies are conducted to investigate the impact of different earthquake scenarios and different agents’ behavioral attributes on the system resilience. The interdependency between the two infrastructure systems is found to significantly affect the recovery path for the integrated EPSS-TS-Community system.
+
+2016
+Robust Portfolio Modelling Methodological Approach to GB Gas Grid Risk Analysis via a Simplified Network Version
+T. Sacco, M. Compare, Giovanni Sansavini and E. Zio
+26th European Safety and Reliability Conference (ESREL 2016), Glasgow, United Kingdom, pp.1736-1743, Boca Raton: CRC Press, September 25-29, 2016.
+external page:
+Research Collection
+Abstract 
+
+Maintenance of critical infrastructures is essential for ensuring their safe and reliable operation. Yet, the available budget is inevitably limited and not suffi-cient to perform maintenance on the whole system. Moreover, maintenance allocation is challenged by complexity of the network system and uncertainty in the actual equipment degradation conditions, costs of maintenance interventions, etc.
+
+Linear implicit AC PF cascading failure analysis with power system operations and automation
+Bing Li, Giovanni Sansavini, Saverio Bolognani and Florian Dörfler
+2016 IEEE Power and Energy Society General Meeting (PESGM), Boston, MA, USA, pp.7741333 Piscataway, NJ: IEEE, July 17-21, 2016.
+external page:
+DOI: 10.1109/PESGM.2016.7741333
+external page:
+Research Collection
+Abstract 
+
+This paper proposes a cascading outages model which captures power system operations, protections, automatic regulations, and remedial action schemes. It is based on linear implicit AC PF, which provides a tradeoff between computationally expensive AC PF and approximate DC PF. Combinations of several types of failures and interactions in blackouts are represented, i.e., cascading line overloads, large frequency deviation, reactive power problems and voltage drop. Statistical comparisons demonstrate that the linear AC PF-based model enhances the accuracy of the power flow solutions as compared to the DC PF with minimum increase of computation time. The case study illustrates that the AC PF-based model provides a more realistic estimate of the consequences of cascading events as compared to the optimistic estimates by DC PF-based models. The computational efficiency and solution accuracy of linear AC-PF model can be exploited in the estimation of the cascade risk for a large number of scenarios.
+
+Building an Integrated Metric for Quantifying the Resilience of Interdependent Infrastructure Systems
+Cen Nan, Giovanni Sansavini and Wolfgang Kröger
+9th International Conference on Critical Information Infrastructures Security (CRITIS 2014), Limassol, Cyprus, pp.159-171,: Springer, October 13-15, 2014.
+external page:
+DOI: 10.1007/978-3-319-31664-2_17
+external page:
+Research Collection
+Abstract 
+
+Resilience is a dynamic multi-faceted term and complements other terms commonly used in risk analysis, e.g., reliability, availability, vulnerability, etc. The importance of fully understanding system resilience and identifying ways to enhance it, especially for infrastructure systems our daily life depends on, has been recognized not only by researchers, but also by public. During last decade, researchers have proposed different methods and frameworks to quantify/assess system resilience. However, they are tailored to specific disruptive hazards/ events, or fail to properly include all the phases such as mitigation, adaptation and recovery. In this paper, an integrated metric for resilience quantification with capabilities of incorporating different performance measures is proposed, which can be used to quantify the performance of interdependent infrastructure systems in a more comprehensive way. The feasibility and applicability of the proposed metric will be tested using an electric power supply system as the exemplary system with the help of advanced modelling and simulation techniques. Furthermore, the discussion related to the effects of interdependencies among systems on their resilience capabilities is also included in this paper.
+
+Optimum post-disruption restoration for enhanced infrastructure network resilience: A fuzzy programming approach
+Yi-Ping Fang and Giovanni Sansavini
+26th European Safety and Reliability Conference (ESREL 2016), Glasgow, United Kingdom, pp.587-594, Boca Raton, FL: CRC Press, September 25-29, 2016.
+external page:
+Research Collection
+Abstract 
+
+Recently, lessons learned from some catastrophic accidents and acknowledgment of unknown hazards have pushed considerable focus of critical infrastructure protection (CIP) study on the concept of resilience. In this regard, CI systems are subject to potential unknown hazards and failure is at best a statistical inevitability or at worst a part of normal operation. Hence, rapid and efficient system functionality restoration contributes a key role for enhancing system resilience. This can be achieved by optimum restoration planning to facilitate identification and scheduling of potential restoration tasks.
+
+Impact of Spatio-Temporally Correlated Wind Generation on the Interdependent Operations of Gas and Electric Networks
+Max Csef, Andrea Antenucci and Giovanni Sansavini
+International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), Beijing, China New York, NY: IEEE, October 16-20, 2016.
+external page:
+DOI: 10.1109/PMAPS.2016.7764132
+external page:
+Research Collection
+Abstract 
+
+High penetrations of intermittent renewable energy sources (RES) affect the operations of power plants whose task is the balancing of generation and demand, and may induce critical states in interdependent energy infrastructures. In this contribution, the interdependent electric power and gas transmission networks are assessed under an operational risk perspective for different levels of wind energy integration. This investigation is exemplified with reference to a case study of the gas and electric transmission network of Great Britain (GB). A D-vine copula is developed for producing spatio-temporally correlated wind speed time series. In contrast to multivariate models built with autoregressive techniques or one-parameter multidimensional copulas which are restricted to modelling linear dependence or one type of dependence respectively, vine copulas offer high flexibility in modelling dependence. Due to large penetrations of wind power operational constraint violations in the gas network, e.g. pressure violations or compressor shut-downs, may occur when gas-fired power plants (GFPPs) need to ramp up quickly to compensate correlated fluctuations in wind generation. Results identify that large ramp-down rates of wind generation may cause large energy-not-served (ENS) in the electric network. For high levels of wind energy integration, unfavorable combinations of ramp-up and ramp-down are a realistic starting point of failure cascades leading to high levels of demand-not-served in the electric grid and curtailments and component failures in the gas network. Failure prone components in the gas network are identified.
+
+Impact of Degraded Communication on the Reliability of Electric Networks
+D. Tian and Giovanni Sansavini
+2016 Annual European Safety and Reliability Conference (ESREL 2016), Glasgow, United Kingdom, pp.2705-2711, Boca Raton: CRC Press, September 25-29, 2016.
+external page:
+Research Collection
+Abstract 
+
+Advances in communication and information technology have increased cyber interdependencies in critical infrastructures meaning that their states depend on information transmitted through the ICT infrastructure (Rinaldi, Peerenboom, & Kelly, 2001). Electric power networks are an example for such networked control systems because they rely on communication networks, e.g. Supervisory Data Control And Data Acquisition (SCADA) systems, to transmit measurements signals to control centers, which use the communication network to dispatch control actions (Teixeira, Sou, Sandberg, & Johansson, 2015). Grid splitting or sometimes referred to as controlled islanding (Senroy & Heydt, 2006) is a topical application in power system stability and control, which can be classified as a special protection scheme that relies on communication. It amounts to separating a power system into synchronized islands in a controlled manner in response to an impending instability, i.e. generator desynchronization triggered by a component fault. By appropriately disconnecting transmission lines severe consequences, e.g. system-wide blackouts, can be mitigated by creating stable islands. The successful application of grid splitting depends on the communication infrastructure to collect measurements for state estimation and to relay the command to open line switches. However, communication can be degraded in terms of signal accuracy and delay.
+
+2015
+Measuring the societal and multi-industry impact of cascading failures in power systems
+Bing Li, Kash Barker and Giovanni Sansavini
+ESREL 2015, Zurich, Switzerland, pp.4445-4453, Boca Raton, FL; London: CRC Press, September 7-10, 2015.
+external page:
+DOI: 10.1201/b19094-584
+external page:
+Research Collection
+Abstract 
+
+Most economic activities strongly depend on critical energy infrastructures (e.g., the electric power system). A failure originating in the electric power sector may cascade in its own system, causing regional outages that can lead to inoperability and economic losses in dependent economic sectors. This paper aims to develop a framework, which integrates a DC flow-based cascading simulation model for the electric power system and the multi-industry, regional economic model to quantify the impact of an electricity disruption propagated across a region. The failure of components is selected to initiate cascading failures in the electric network and to cause regional power supply disruption. The direct economic impacts due to the power supply disruption and the workforce losses are estimated. The components in the electric network can have different criticalities when measured with the power supply reduction and the economic losses caused. A Swiss benchmark study will illustrate how the framework enables both qualitative and quantitative analyses of interdependencies among critical infrastructures and economic sectors and provide insights to criticality of elements in the electric network.
+
+Impact of Power-to-Gas on Cascading Failures in Interdependent Electric and Gas Networks
+Andrea Antenucci, Bing Li and Giovanni Sansavini
+4th D-A-CH Conference (EI 2015), Karlsruhe, Germany, pp.36-48, Berlin: Springer, November 12-13, 2015.
+external page:
+DOI: 10.1007/978-3-319-25876-8_4
+external page:
+Research Collection
+Abstract 
+
+The need for an efficient and safe penetration of renewable energy resources in power systems has led to the study of unconventional storage technologies, such as Power-to-Gas (PtG). In this paper, the effects of PtG are analyzed under an operational risk perspective in the contest of interdependent gas and electrical networks. Component failures or stressful operations of one of these networks, e.g. a sudden power generation drop, can induce operational constraint violations, e.g. pressure violations, in the coupled network and lead to instability. The results show that PtG provides a beneficial impact on the pressure levels of the gas system, and entails a reduction of the consequences of a failure cascade. The beneficial effects are assessed for several configurations of PtG facilities in the gas network. Minimum safe PtG injections, which prevent pressure violations and failure cascades, are quantified.
+
+Impact of wind power on the reliability of electric power supply system
+Cen Nan and Giovanni Sansavini
+ESREL 2015, Zurich, Switzerland, pp.1659-1666, Boca Raton, FL; London: CRC Press, September 7-10, 2015.
+external page:
+DOI: 10.1201/b19094-216
+external page:
+Research Collection
+Abstract 
+
+In recent years, the growth in energy demand has posed new challenges to the Electric Power Supply System (EPSS), and has increased the possibility of overloading transmission lines and strained the ability to maintain a stable supply-demand balance. As a consequence, the system operation is often closer to its safety margins. To tackle these challenges, the deployment of medium and small-size energy generation units (e.g. wind turbines) promises to improve the reliability of EPSS by adding certain amount of locally-produced power. In this paper, the impact of introducing wind energy systems in the EPSS is investigated from a reliability perspective. Both EPSS and wind energy system are modeled using agent-based modeling approach. A regional Swiss electric transmission network is selected as a case study for the investigation.
+
+Modelling interdependent electric power and gas networks in the context of cascading failures
+O. Gomand, Andrea Antenucci, Bing Li and Giovanni Sansavini
+25th European Safety and Reliability Conference, ESREL 2015, Zürich, Switzerland, pp.4413-4421, Boca Raton, FL: CRC Press, September 7-10, 2015.
+external page:
+DOI: 10.1201/b19094-580
+external page:
+Research Collection
+Abstract 
+
+An energy resource mix with high percentage of renewables could undermine the safety and reliability of the electrical and gas systems. Gas-fired electric generation can be requested to promptly ramp up and compensate a drop in renewable output. The associated transient could induce instabilities in the operations of the gas network. As a first step in evaluating such impact, this paper assesses the interdependence of the electrical and gas networks under the risk of cascading failures. The gas infrastructure is represented by a transient one-dimensional model, and the electrical system is schematized via a DC power flow model. The results show the effects of the interdependency and the different impact of the two networks on the whole system, as compared to the decoupled networks. Recurring failure events and cascades underline counterintuitive and threshold-driven dynamics of the coupled networks, as the gas load factor is varied.
+
+Mitigation of cascading failures by selective inter-subnetwork power shifts under multi-objective decision making
+Bing Li and Giovanni Sansavini
+PowerTech Eindhoven 2015. Towards Future Power Systems and Emerging Technologies, Eindhoven, Netherlands, pp.7232499 Piscataway, NJ: IEEE, June 29 - July 2, 2015.
+external page:
+DOI: 10.1109/PTC.2015.7232499
+external page:
+Research Collection
+Abstract 
+
+The paper presents a framework for alleviating line overloads and mitigating consequences of cascading events. For a network in emergency conditions due to single or multiple line overloads, graph-partitioning algorithm is developed to identify subnetworks for which the overloaded lines acts as 'power gates'. The alleviation of overloaded lines, which bridge the identified subnetworks, is achieved by inter-subnetwork power shifts through generation rescheduling and, possibly, load shedding. A multi-objective decision making method is adopted for the power shifts selection based on the sensitivities of power shifts to the overloaded lines. The framework has been tested on the IEEE RTS-96 system to illustrate its capability in cascading outages mitigation and load shedding reduction.
+
+2014
+Proposing a multi-layer modeling framework for complex infrastructure systems
+Cen Nan and Giovanni Sansavini
+European Safety and Reliability Conference (ESREL 2014), Wroclaw, Poland, pp.2051-2058, Leiden: CRC Press, September 14-18, 2014.
+external page:
+Research Collection
+Abstract 
+
+The heterogeneity and tight coupling of modern infrastructure systems makes a tractable description of their emergent behaviors a challenging task. Classic analytical methods lack the capability to provide sufficient insights into system behaviors and fully capture the complexity of these systems. In this paper, a multi-layer modeling framework is proposed, targeting toward an in-depth understanding and holistic analysis of infrastructure systems. Within this framework, an infrastructure system is viewed as three interrelated subsystems in corresponding layers, i.e., System Under Control (SUC), Operational Control System (OCS), and Social System (SS). Subsystem 1-SUC (layer 1) and subsystem 2-OCS rep-resent the technical parts of infrastructure systems. In general, the SUC is a time-based, while the OCS is an event-driven and service-oriented. Subsystem 3-SS (layer 3) represents the non-technical part of infrastructure systems, which is generally related to social factors that intend to have influences on the overall system performance. In order to demonstrate the capability the proposed modeling framework, a feasibility experiment is developed using Swiss electricity supply system as an exemplary system.
+
+Hybrid modeling and simulation approach selection to the reliability and vulnerability analysis of critical infrastructures
+Giovanni Sansavini, Cen Nan and Wolfgang Kröger
+European Safety and Reliability Conference (ESREL 2014), Wroclaw, Poland, pp.2059-2067, Leiden: CRC Press, September 14-18, 2014.
+external page:
+Research Collection
+Abstract 
+
+Challenges to the modeling and simulation of engineered Critical Infrastructures (CI) lie in the multiple levels of interdependencies and lack of fixed boundaries, in the diversity of the underlying physics of the provided service, in the coexistence of multiple time scales, and in the level of resolution required to fulfill the objectives of the analysis. Such challenges impact the selection of the most suitable modeling approach or integration of different approaches for the reliability and vulnerability analysis of CI. This paper suggests a framework for selecting the hybrid modeling and simulation approach which is more suitable to analyze specific types of CI. The focus steps consider the system characteristics, e.g. interdependencies between CI, identification of the host system, and the objectives of system analysis. The framework is exemplified with reference to CI of different types.
+
+Risk assessment of a bulk cryogenic tank: Beyond the Leak-Before-Break criterion
+Michele Compare, L. Legnani, M. Buldrini, Giovanni Sansavini, Enrico Zio and L. Beretta
+European Safety and Reliability Association Annual Conference, ESREL 2014, Wrocław, Poland, pp.2361-2367, Balkema: CRC Press, September 14-18, 2014.
+external page:
+DOI: 10.1201/b17399-324
+external page:
+Research Collection
+Abstract 
+
+The increase in the size and production capacity of air separation plants has boosted the need of developing methodologies to properly assess the risk related to major releases of liquefied gas. In this respect, the Leak-Before-Break (LBB) assessment is currently adopted to demonstrate the safety of the structures containing liquefied gas, under the assumption that the tank is always operated in nominal conditions. This assumption is questioned in this paper, which proposes a new methodology for the assessment of the risks related to cryogenic tank catastrophic rupture. The methodology provides a comprehensive understanding of the issues associated to the worst case rupture scenario: from the investigation of the causes of the undesirable operating conditions up to the analysis of the associated structural consequences, within a probabilistic framework. © 2015 Taylor & Francis Group.
+
+Vulnerability of transmission grids with variable generation and consumption: a complex network systems perspective
+Giovanni Sansavini and Enrico Zio
+2nd International Conference on Vulnerability, Risk Analysis and Management (ICVRAM 2014) & 6th International Symposium on Uncertainty, Modeling, and Analysis (ISUMA 2014), Liverpool, United Kingdom, pp.658-667, Reston, VA: American Society of Civil Engineers, July 13-16, 2014.
+external page:
+DOI: 10.1061/9780784413609.067
+external page:
+Research Collection
+Abstract 
+
+This paper looks into the vulnerabilities of the electric power grid in the face of intermittent power generation from renewable energy sources and uncertain load demand profile within a complex network framework of analysis. We extend the purely-topological complex network modeling framework by inclusion of relevant physical aspects of the system. We focus on the self-limitations that the electric power grid imposes on its operations due to its structural configuration and to the limits on flow-carrying capacities of lines. To this aim, we assess how the transmission system copes with requests to increase power generation due to enhanced power consumption at a load bus. In the application to the 380 kV Italian power transmission network, we introduce vulnerability measures that allow ranking the elements of the electric power network. Moreover, we find that topological centrality measures are not adequate in predicting the criticalities of the electric power network.
+
+A Quantitative Method for Assessing the Resilience of Infrastructure Systems
+Cen Nan, Giovanni Sansavini, Wolfgang Kröger and Hans Rudolf Heinimann
+Probabilistic Safety Assessment and Management Conference, PSAM12, Honolulu, HI, USA, pp.359-370, S.l.: CreateSpace Independent Publishing Platform, June 22-27, 2014.
+external page:
+Research Collection
+2013
+A simulation model for the reliability analysis of smart grid communication network
+Pengcheng Luo, Giovanni Sansavini and Enrico Zio
+European Safety and Reliability Conference 2013 (ESREL 2013), Amsterdam, Netherlands, pp.2821-2830, Boca Raton, FL: CRC Press, September 29 - October 2, 2013.
+external page:
+DOI: 10.1201/b15938-426
+external page:
+Research Collection
+Related content
+Journal Articles
+Books
+Doctoral Theses
+Publications
+Footer
+Search
+Keyword or person
+Follow us
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Christoffel
+Administrative Assistant
+ 
+Phone
++41 44 632 24 35
+Email
+
+ETH Zurich
+Reliability & Risk Engineering
+LEE L 223
+Leonhardstrasse 21
+8092 Zürich
+Schweiz
+
+
+‌
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+=== https://rre.ethz.ch/publications.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Reliability and Risk Engineering
+Main Navigation
+The Lab
+Education
+Research
+Publications
+(active)
+Partnerships
+Search
+Departments
+ETH Zurich
+D-MAVT
+IEPE
+RRE
+Language Selection
+English
+You are here
+Homepage
+Publications
+Publications
+Childpage navigation
+Journal Articles
+Conference Contributions
+Books
+Doctoral Theses
+Page 1 loaded
+1 – 10 of 342
+A probabilistic risk assessment framework to estimate power system risks for outage planning
+Davide Berti, Davood Raoofsheibani, Blazhe Gjorgiev, Roberto Rocchetta and Giovanni Sansavini
+Electric Power Systems Research, vol. 263, pp. 113761, Elsevier, 2027.
+external page:
+DOI: 10.1016/j.epsr.2026.113761
+external page:
+Research Collection
+Abstract 
+
+This paper presents a Probabilistic Risk Assessment (PRA) framework for estimating the risk of power system operation under planned outages. The uncertainty in nodal injections and consumptions is represented by scenarios drawn from a copula model that are evaluated via Monte Carlo simulation. For each scenario, the impact of both ordinary and exceptional contingencies is computed via a cascading failure model, which captures the evolution of events after the initial contingencies. The probability of these contingencies is estimated using a Markov chain model. A risk assessment tool is developed to summarize the results in traffic-light risk indicators, informing outage planners about the risk associated with planned outages. By utilizing a realistic case-study, we demonstrate that the developed PRA framework allows planners to identify critical outages that should be rescheduled when they pose unacceptable levels of risk.
+
+Risk-aware multi-market scheduling of virtual power plants with dynamic network tariffs
+Lorenzo Zapparoli, Paul Fäth, Blazhe Gjorgiev and Giovanni Sansavini
+Electric Power Systems Research, vol. 262, pp. 113572, Elsevier, 2027.
+external page:
+DOI: 10.1016/j.epsr.2026.113572
+external page:
+Research Collection
+Abstract 
+
+As the penetration of distributed energy resources (DERs) increases, harnessing their flexibility becomes critical for power system operations. Virtual power plants (VPPs) offer a promising solution. However, most existing scheduling tools rely on simplified DER or grid models and largely overlook local flexibility procurement mechanisms such as dynamic network tariffs. This paper proposes a two-stage stochastic optimization framework for VPP multi-market scheduling that integrates detailed device-level constraints, network limitations, and operational and market uncertainties. Conditional value-at-risk is incorporated to represent risk preferences, and Benders decomposition ensures tractability with extensive scenario sets. The model jointly optimizes bidding across energy and reserve markets while explicitly accounting for local flexibility procurement through dynamic network tariffs. The results from a realistic case study show that both risk-neutral and risk-averse strategies exploit arbitrage opportunities. However, risk aversion reduces profit volatility through closer alignment with physical dispatch. Dynamic tariffs unlock local flexibility by shifting demand across the day, though strong tariff signals reduce expected profitability by up to 65% with limited additional flexibility gains.
+
+Accurately modeling long-term storage with minimum representative hours in large-scale renewable energy systems
+Jacob Mannhardt, Lukas Kunz and Giovanni Sansavini
+Applied Energy, vol. 427: no. Part D, pp. 128989, Elsevier, 2027.
+external page:
+DOI: 10.1016/j.apenergy.2026.128989
+external page:
+Research Collection
+Abstract 
+
+Energy system optimization often relies on time series aggregation to ensure computational tractability. Aggregation generally loses the chronology of time steps, which renders the storage level representation challenging. Typically, this challenge is addressed by using representative days (RD) to utilize intra-day chronology, even though representative hours (RH) can describe the input time series more accurately at fewer representative time steps than RD. However, until now, the use of RH storage representation methods has been limited by high computational complexity, poor accuracy in clustering and storage representation, and restricted applicability. Here, we present a novel storage representation method based on RH that combines the high accuracy of time-series aggregation via RH with the high computational efficiency of RD-based methods. Through benchmarking the four most established storage representation methods on a model of a net-zero European energy system, we find that the proposed method can reduce the solving time by over 95% for the same objective value compared to the most established RD and RH methods. The proposed method exhibits particular strengths at strong aggregations of low- to mid-hundreds of representative hours per year, making it especially applicable to large-scale, sector-coupled transition pathway models. The developed method for accurately modeling both short-term and long-term storage, along with the presented findings, is of practical relevance to energy system modelers who seek computational tractability in large-scale applications while avoiding the misallocation of storage and conversion capacities.
+
+Can they compete? Cost competitiveness of non-light-water reactors for heat and power supply in a decarbonized european energy system
+Alexander Wimmers, Fanny Böse and Leonard Göke
+Applied Energy, vol. 427, pp. 128902, Elsevier, 2027.
+external page:
+DOI: 10.1016/j.apenergy.2026.128902
+external page:
+Research Collection
+Abstract 
+
+Recent pledges to triple global nuclear capacity by 2050 suggest a nuclear renaissance, bolstered by unconventional reactor concepts such as sodium-cooled fast reactors, high-temperature reactors, and molten salt reactors. These technologies aim to address the challenges of today's high-capacity light-water reactors, i.e., cost overruns, delays, and social acceptance, while also offering additional non-electrical applications. However, this analysis reveals these concepts to be far from meeting the prerequisites for affordability, competitiveness, or commercial availability. Our literature analysis finds optimistic first-of-a-kind overnight cost assumptions for different reactor types ranging from 5623 to 9511 USD/kW, and n-th-of-a-kind cost projections as low as 1476 USD/kW. At first-of-a-kind costs, the applied energy system model for Europe in 2040 includes no nuclear power capacity, and thus indicates that significant cost reductions would be required for these technologies to contribute to energy system decarbonization. In lower-cost scenarios, reactors capable of producing high and medium temperature heat compete with other technologies and dominate the system once costs fall below 5000 USD/kW. Electricity shares reach current levels of ≈20% once costs are reduced to 3000 USD/kW or less. We conclude that, for reactor capacities to increase significantly, a focus on certain technology lines and streamlined regulation is necessary. Further, remaining technological challenges, e.g., new waste streams, must be resolved.
+
+Energy communities foster solar energy diffusion and distributive justice: Insights from a System Dynamics transition model
+Matteo Palucci, Jalomi Maayan Tardif, Vasco Medici and Giovanni Sansavini
+Energy Research and Social Science, vol. 140, pp. 104925, Elsevier, 2026.
+external page:
+DOI: 10.1016/j.erss.2026.104925
+external page:
+Research Collection
+Abstract 
+
+The diffusion of residential renewable technologies depends not only on technology costs and incentives, but also on interactions among technologies, household decisions, institutions, and access to collective business models. Existing transition models rarely combine these elements while evaluating their distributional implications. This study develops a socio-technical System Dynamics model of the Swiss residential sector to examine the long-term co-adoption of photovoltaic systems and heating technologies under heterogeneous cantonal regulations and alternative energy community designs. The model represents household adoption decisions and feedback involving public authorities, electric utilities, policy incentives, and electricity prices. Results show that the adoption of photovoltaic systems and heat pumps is strongly interlinked, indicating that policies addressing both technologies jointly can better account for their interdependence in transition pathways. Enabling energy communities increases photovoltaic deployment, particularly in multi-family buildings facing structural and economic barriers to individual adoption. Under the modeled incentive, tariff, and participation conditions, virtual energy communities also improve the two distributional indicators evaluated in the study by expanding access to decentralized electricity and reducing average levy payments for households in buildings without on-site photovoltaic systems. These findings show how energy-community regulation can influence technology diffusion and selected monetary and access-related distributional outcomes, while emphasizing that the effects depend on policy design and modeled assumptions.
+
+Pressure-aware multi-modal CO₂ transport planning for industrial decarbonization: A case study of Germany's steel sector to 2050
+Fengyuan Zhang, Qi Yu, Zhengyang Wang, James Ciyu Qin, Elena Catalanotti, Sergey Martynov, Richard T.J. Porter, Daoyi Dong and Haroun Mahgerefteh
+Journal of Cleaner Production, vol. 575, pp. 149250, Elsevier, 2026.
+external page:
+DOI: 10.1016/j.jclepro.2026.149250
+external page:
+Research Collection
+Abstract 
+
+Multi-modal CO2 transport networks involve coupled decisions on operating pressure, mode-switching equipment, and infrastructure deployment timing, yet existing optimization studies typically treat the associated compression, liquefaction, and heat exchange as post-processing assumptions. This study develops a pressure-aware mixed-integer linear programming framework for multi-modal CO2 transport planning that couples mode selection with pressure-state-dependent conditioning, allowing pressure regimes and mode transitions to be optimized jointly. The framework integrates phased deployment across three time horizons (2030, 2040, 2050) under three decarbonization pathways, carbon pricing for uncaptured emissions, and selective reuse of existing pipelines within a single optimization. Seven mode-pressure variants are considered, with mode-transition costs derived from a 49-transition simulation matrix. The framework is applied to twelve major German steel emitters connected to the Northern Lights offshore storage site via three candidate ports. The cost-optimal network shifts from truck-and-rail logistics in the early, low-volume stage to a dense-phase pipeline backbone as captured volumes grow. Unit transport costs remain within 15–18 €/tCO2 across the scenarios. The marginal cost of expanding transport and conditioning capacity stabilizes at 13–14 €/tCO2 from 2040 onward. These figures indicate that transport is not the binding economic constraint on scaling up capture ambition, rather than that CCUS as a whole is inexpensive. Existing pipeline reuse is found to be capacity- and stage-dependent: sufficiently large reused assets can reduce new-build requirements. The framework offers a transferable approach for cleaner industrial logistics design, supporting the transition to low-carbon hard-to-abate sectors in Europe and beyond.
+
+The role of deep closed-loop advanced geothermal systems in the future net-zero Swiss power system
+Ambra Van Liedekerke, Mahmoud Hefny, Blazhe Gjorgiev, Jared Garrison, Jonas Savelsberg, Martin O. Saar and Giovanni Sansavini
+Applied Energy, vol. 415, pp. 127761, Elsevier, 2026.
+external page:
+DOI: 10.1016/j.apenergy.2026.127761
+external page:
+Research Collection
+Abstract 
+
+Deep closed-loop Advanced Geothermal Systems (AGS) are a carbon-free electricity generation technology that can support the transition to net-zero power systems by 2050. Unlike conventional geothermal power plants, AGS do not require permeable geologic formations and are thus largely geology-independent, providing distributed, flexible, and dispatchable electricity. Although their resource potential and technological characterization are widely researched, investment costs remain uncertain, and their integration into national power systems has hardly been studied. This paper analyzes the integration of AGS in the 2050 net-zero Swiss power system, focusing on their techno-economic aspects and their contribution to power system security. The generation potential of AGS is computed and aggregated at each transmission grid node, and the conditions under which AGS become an economically competitive generation technology from a cost-minimization perspective are investigated. The interactions of AGS with other generation and storage technologies, as well as with overall system operations, are assessed. Finally, the grid nodes at which AGS are optimally deployed are identified, and AGS’ impact on power system reliability is investigated. The results suggest that AGS become economically competitive in Switzerland at overnight investment costs below 21,500 EUR/kWe when renewable generation subsidies are in place, and below 15,000 EUR/kWe when they are not. The deployment of AGS reduces the need for gas-fired power plants, battery storage, PV, and wind, and AGS installations can concentrate in areas of high demand, high demand-to-generation ratio, or frequent network congestions. Owing to their distributed and flexible nature, AGS also have the potential to enhance system reliability.
+
+From electricity outage analysis and monitoring to mitigation and restoration
+Yitong Liu, Alaa Selim, Ian Dobson, Junbo Zhao, Giovanni Sansavini, Balint Hartmann and Fei Ding
+Nature Reviews Electrical Engineering, vol. 3: no. 7, pp. 436-449, Nature, 2026.
+external page:
+DOI: 10.1038/s44287-026-00298-3
+external page:
+Research Collection
+Abstract 
+
+Electricity outages can seriously disrupt daily life and essential services. In this Review, we take a close look at outage analysis, monitoring, mitigation and restoration. Primary causes and counter-strategies for selected major outage events from the past decade are reviewed to provide insight into metrics that measure grid resilience. Clear metrics help pinpoint the main causes, identify weak points in the system and evaluate investment impact in grid strengthening, speeding up restoration. Alongside empirical datasets, advanced sensors provide a grid's real-time information, facilitating early problem detection, timely outage localization and preventive maintenance. Automated grid controls can stop initial disturbances from turning into system-wide blackouts, and restoration strategies are designed to restore power sooner despite cyber risks. As power systems continue to evolve, this Review endeavours to provide practical insights into emerging challenges in outage management and future perspectives on building a resilient and reliable power system.
+
+Power Reserve Capacity from Virtual Power Plants with Reliability and Cost Guarantees
+Lorenzo Zapparoli, Blazhe Gjorgiev and Giovanni Sansavini
+IEEE Transactions on Power Systems, vol. 41: no. 4, pp. 2643-2654, IEEE, 2026.
+external page:
+DOI: 10.1109/TPWRS.2026.3654192
+external page:
+Research Collection
+Abstract 
+
+The growing penetration of renewable energy sources is expected to drive higher demand for power reserve ancillary services (AS). One solution is to increase the supply by integrating distributed energy resources (DERs) into the AS market through virtual power plants (VPPs). Several methods have been developed to assess the potential of VPPs to provide services. However, the existing approaches fail to account for AS products' requirements (reliability and technical specifications) and to provide accurate cost estimations. Here, we propose a new method to assess VPPs' potential to deliver power reserve capacity products under forecasting uncertainty. First, the maximum feasible reserve quantity is determined using a novel formulation of subset simulation for efficient uncertainty quantification. Second, the supply curve is characterized by considering explicit and opportunity costs. The method is applied to a VPP based on a representative Swiss low-voltage network with a diversified DER portfolio. We find that VPPs can reliably offer reserve products and that opportunity costs drive product pricing. Additionally, we show that the product's requirements strongly impact the reserve capacity provision capability. This approach aims to support VPP managers in developing market strategies and policymakers in designing DER-focused AS products.
+
+Beyond pipelines: Multi-modal CO₂ transport enables timely CO₂ capture, transport, and storage deployment
+Johannes Burger, David Yang Shu, André Bardow and Giovanni Sansavini
+International Journal of Greenhouse Gas Control, vol. 154, pp. 104698, Elsevier, 2026.
+external page:
+DOI: 10.1016/j.ijggc.2026.104698
+external page:
+Research Collection
+Abstract 
+
+CO₂ capture, transport, and storage (CCTS) is essential to meet climate targets, but its success is threatened by the slow expansion of pipelines, due to regulatory hurdles and public opposition. The resulting deployment limits are insufficiently accounted for in current infrastructure optimization models, which therefore overestimate the speed of expanding CCTS value chains. Here, we expand the energy system optimization model ZEN-garden to consider temporal diffusion limits for pipelines and analyze the consequences of constrained deployment for a case study of Switzerland. First, we assess the risk of missing climate targets due to the constrained deployment of CO₂ pipelines, and second, we evaluate strategies to mitigate this risk. We find that realistic pipeline diffusion speeds lead to a 9 % deficit in CO₂ sequestration compared to climate targets. The additional deployment of non-pipeline transport modes circumvents these limits and enables compliance with policy goals at a cost increase of 5 %. Such a multi-modal transport system proves substantially more cost-effective than compensating the CO₂ sequestration gap via carbon removal. Based on our findings, multi-modal transport should play an integral role in the design of CO₂ transport infrastructure to mitigate the risk posed by delays and slow pipeline deployment. The results suggest that an exclusive focus on pipelines for CO₂ transport may jeopardize the success of the entire CO₂ value chain.
+
+Previous
+Next
+Related content
+The Lab
+Education
+Research
+Partnerships
+To homepage
+Footer
+Search
+Keyword or person
+Follow us
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Christoffel
+Administrative Assistant
+ 
+Phone
++41 44 632 24 35
+Email
+
+ETH Zurich
+Reliability & Risk Engineering
+LEE L 223
+Leonhardstrasse 21
+8092 Zürich
+Schweiz
+
+
+‌
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich
+
+=== https://rre.ethz.ch/publications/books.html
+Homepage
+Navigation
+Search
+Content
+Footer
+Contact
+Sitemap
+Reliability and Risk Engineering
+Main Navigation
+The Lab
+Education
+Research
+Publications
+Partnerships
+Search
+Departments
+ETH Zurich
+D-MAVT
+IEPE
+RRE
+Language Selection
+English
+You are here
+Homepage
+Publications
+Books
+Books
+Publications sorted by year
+2026
+2025
+2023
+2022
+2021
+2020
+2016
+2026
+Kernkraft und das zukünftige Schweizer Energiesystem: Eine technisch-ökonomische Analyse basierend auf Modellresultaten: Studie
+André Bardow, Peter Burgherr, Ali Darudi, Lucas Fernandez de Losada, Massimo Filippini, Gianfranco Guidati, Gabriela Hug, Rebecca Lordan-Perret, Annalisa Manera, Russell McKenna, Stefano Moret, Evangelos Panos, Anthony Patt, Andreas Pautz, Giovanni Sansavini, Jonas Savelsberg, Christian Schaffner, Tobias Schmidt and Evren Mert Turan
+Zurich: ETH Zurich, Energy Science Center (ESC), 2026.
+external page:
+Research Collection
+L'énergie nucléaire et le futur système énergétique suisse: une analyse par modélisation technico-économique: Rapport
+André Bardow, Peter Burgherr, Ali Darudi, Lucas Fernandez de Losada, Massimo Filippini, Gianfranco Guidati, Gabriela Hug, Rebecca Lordan-Perret, Annalisa Manera, Russell McKenna, Stefano Moret, Evangelos Panos, Anthony Patt, Andreas Pautz, Giovanni Sansavini, Jonas Savelsberg, Christian Schaffner, Tobias Schmidt and Evren Mert Turan
+Zurich: ETH Zurich, Energy Science Center (ESC), 2026.
+external page:
+Research Collection
+Nuclear Power and the Future Swiss Energy System: A Techno-Economic Modelling Analysis: White Paper Report
+André Bardow, Peter Burgherr, Ali Darudi, Lucas Fernandez de Losada, Massimo Filippini, Gianfranco Guidati, Gabriela Hug, Rebecca Lordan-Perret, Annalisa Manera, Russell McKenna, Stefano Moret, Evangelos Panos, Anthony Patt, Andreas Pautz, Giovanni Sansavini, Jonas Savelsberg, Christian Schaffner, Tobias Schmidt and Evren Mert Turan
+Zurich: ETH Zurich, Energy Science Center (ESC), 2026.
+external page:
+Research Collection
+Nuclear Power and the Future Swiss Energy System: A Techno-Economic Modelling Analysis: Modelling Documentation
+André Bardow, Peter Burgherr, Ali Darudi, Lucas Fernandez de Losada, Massimo Filippini, Gianfranco Guidati, Gabriela Hug, Rebecca Lordan-Perret, Annalisa Manera, Russell McKenna, Stefano Moret, Evangelos Panos, Anthony Patt, Andreas Pautz, Giovanni Sansavini, Jonas Savelsberg, Christian Schaffner, Tobias Schmidt and Evren Mert Turan
+Zurich: ETH Zurich, Energy Science Center (ESC), 2026.
+external page:
+Research Collection
+2025
+Renewable Energy Outlook II for Switzerland
+Ambra Van Liedekerke, Blazhe Gjorgiev, Jonas Savelsberg, Sara Eberhart, Tobias Schmidt, Bjarne Steffen, Giovanni Sansavini, Xin Wen, Jan-Philipp Sasse, Evelina Trutnevyte, Ali Darudi, Jérôme Dujardin, Michael Lehning, Philippe Thalmann, Marc Vielle, Carsten Nathani and Isabelle Stadelmann-Steffen
+Zurich: ETH Zurich, 2025.
+external page:
+Research Collection
+Abstract 
+
+The Second SWEET EDGE Renewable Energy Outlook explores Switzerland’s energy transition toward net-zero emissions in 2050, focusing on its interactions with the European energy system. It examines the impact of three key national energy policies on Switzerland’s electricity mix, dispatch, supply costs, and cross-border electricity exchanges, comparing results from four different electricity system models. The analysis is further refined by assessing the regional effects of improved weather forecasts on demand and supply balancing. Adding to the electricity sector perspective, the Outlook evaluates the macroeconomic implications of national and international energy and climate policies and examines how policy preferences and technology acceptance in Switzerland have evolved from 2022 to 2024. Finally, it contextualizes Switzerland’s role within the broader European energy landscape by analyzing the Swiss cross-border renewable energy investments.
+
+2023
+Averting Disaster Before It Strikes: How to Make Sure Your Subordinates Warn You While There is Still Time to Act
+Dmitry Chernov, Ali Ayoub, Giovanni Sansavini and Didier Sornette
+pp. 1-376, Cham: Springer, 2023.
+external page:
+DOI: 10.1007/978-3-031-30772-0
+external page:
+Research Collection
+Abstract 
+
+Some of the major industrial disasters could have been prevented. When the facts of what happened are established, their stories share a common thread: before things spiralled out of control, there were workers at the affected sites who knew that the situation was dangerous, and could become catastrophic unless immediate action was taken. But tragically, nobody dared to tell the decision-makers who could have authorized that action. With no idea of the risks they were taking, the people in charge continued as normal... and disaster struck. Because vital information about risks could not flow freely from the shop floor to the director's office, the crucial decisions were not made in time. This observation has been documented in the following major technological accidents: Challenger space shuttle explosion (USA, 1986); Chernobyl nuclear plant disaster (USSR, 1986); Deepwater Horizon oil spill (USA, 2010); Fukushima-1 nuclear power plant disaster (Japan, 2011); and numerous other industrial disasters. After accidents like these, losses and costs for dealing with the consequences are often hundreds - or even thousands - of times greater than the finances that would have been required to deal with the risks when they were first recognized. This handbook is about how to transform the way large critical infrastructure companies communicate about safety and technological risks. It aims to support senior managers to get the information they need from their subordinates concerning the risks they are facing, in order to prevent accidents before it is too late. The recommendations in this handbook are based on interviews with 100 executives at various levels, working in 65 critical infrastructure companies around the world, in power, oil and gas, metals, chemicals and petrochemicals, mining and other industries. The recommendations of these leaders were also tested in the pilot project, in an industrial company which is the world leader in its sector. More than 400 managers at various levels of the corporate hierarchy, and employees at several of the company's industrial plants, took part in the project. This open access handbook is written for the owners, senior managers, and industrial safety directors of critical infrastructure companies.
+
+Versorgungssicherheit in einer Netto-Null-Energiezukunft für die Schweiz: Expertengruppe «Versorgungssicherheit» – Whitepaper
+Gabriela Hug, Turhan Demiray, Massimo Filippini, Gianfranco Guidati, Kirsten Oswald, Anthony Patt, Giovanni Sansavini, Christian Schaffner, Marius Schwarz, Bjarne Steffen, Mak Đukan, Blazhe Gjorgiev, Adriana Marcucci, Jonas Savelsberg and Tobias Schmidt
+Zürich: ETH Zürich, Energy Science Center, 2023.
+external page:
+Research Collection
+Energy security in a net zero emissions future for Switzerland: Expert Group "Security of Supply" – White Paper
+Gabriela Hug, Turhan Demiray, Massimo Filippini, Gianfranco Guidati, Kirsten Oswald, Anthony Patt, Giovanni Sansavini, Christian Schaffner, Marius Schwarz, Bjarne Steffen, Mak Đukan, Blazhe Gjorgiev, Adriana Marcucci, Jonas Savelsberg and Tobias Schmidt
+Zurich: ETH Zurich, Energy Science Center, 2023.
+external page:
+Research Collection
+Flexibility and sector coupling in energy systems: definitions and metrics: Synthesis report
+André Bardow, Massimo Fiorentini, Philipp Heer, Andreas Kämper, Binod Koirala, Christof Knoeri, Adamantios Marinakis, Jochen Markard, Patricia Mayer, Kirsten Oswald, Christian Peter, Stefan Pfenninger, Giovanni Sansavini, Christian Schaffner, Ingmar Schlecht, Philipp Schuetz, Marius Schwarz and Willy Villasmil
+Zurich: SWEET PATHFNDR consortium, 2023.
+external page:
+Research Collection
+Abstract 
+
+Globally, all nations agreed to reach net-zero greenhouse gas emissions by 2050. This requires a drastic change in the energy system, including a shift towards intermittent renewable energies, the need for sector coupling, flexibility, and efficiency. Flexibility and sector coupling are two concepts widely discussed in the literature, however, a common understanding is missing. In this report, we propose definitions and quantitative metrics for both concepts. Flexibility refers to managing the variations in energy supply and demand at different time scales. While sector coupling describes the interconnection of energy supply and demand sectors such as electricity, heat, gaseous fuels, liquid fuels, and solid fuels to shift loads across them. The application of definitions and metrics are demonstrated for scenario assessment in Switzerland in the PATHFNDR project by using them as inputs or outputs of simulation models as well as policy and market analyses.
+
+Don't Tell the Boss!: How Poor Communication on Risks within Organizations Causes Major Catastrophes
+Dmitry Chernov, Didier Sornette, Giovanni Sansavini and Ali Ayoub
+Cham: Springer, 2023.
+external page:
+DOI: 10.1007/978-3-031-05206-4
+external page:
+Research Collection
+Abstract 
+
+After a major disaster, when investigators are piecing together the story of what happened, a striking fact often emerges: before disaster struck, some people in the organization involved were aware of dangerous conditions that had the potential to escalate to a critical level. But for a variety of reasons, this crucial information did not reach decision-makers. So, the organization moved ever closer to catastrophe, effectively unaware of the possible threat—despite the fact that some of its employees could see it coming. What is the problem with communication about risk in an organization, and why does this problem exist? What stops people in organizations or project teams from freely reporting and discussing critical risks? This book seeks to answer these questions, starting from a deep analysis of 20 disasters where the concealment of risks played a major part. These case studies are drawn from around the world and span a range of industries: civil nuclear power, coal, oil and gas production, hydropower energy, metals and mining, space exploration, transport, finance, retail manufacturing and even the response of governments to wars, famines and epidemics. Together, case studies give an insight into why people hesitate to report risks—and even when they do, why their superiors often prefer to ignore the news. The book reviews existing research on the challenges of voice and silence in organizations. This helps to explain more generally why people dread passing on bad news to others—and why in the workplace they prefer to keep quiet about unpleasant facts or potential risks when they are talking to superiors and colleagues. The discussion section of the book includes important examples of concealment within the Chinese state hierarchy as well as by leading epidemiologists and governments in the West during the novel coronavirus outbreak in Wuhan in 2019-2020. The full picture of the very early stage of the COVID-19 pandemic remains unclear, and further research is obviously needed to better understand what motivated some municipal, provincial and national officials in China as well as Western counterparts to obfuscate facts in their internal communications about many issues associated with the outbreak.
+
+2022
+Steps to Fossil-Fuel Independence for Switzerland: Expert Group "Security of Supply" – Policy Brief
+Gabriela Hug, Turhan Demiray, Gianfranco Guidati, Russell McKenna, Kirsten Oswald, Anthony Patt, Martin O. Saar, Giovanni Sansavini, Christian Schaffner, Marius Schwarz and Bjarne Steffen
+Policy Brief, Zurich: ETH Zurich, Energy Science Center, 2022.
+external page:
+Research Collection
+Schritte zur fossilen Unabhängigkeit für die Schweiz: Expertengruppe «Versorgungssicherheit» – Positionspapier
+Gabriela Hug, Turhan Demiray, Gianfranco Guidati, Russell McKenna, Kirsten Oswald, Anthony Patt, Martin O. Saar, Giovanni Sansavini, Christian Schaffner, Marius Schwarz and Bjarne Steffen
+Policy Brief, Zürich: ETH Zürich, Energy Science Center, 2022.
+external page:
+Research Collection
+2021
+Cyber-Physical Distributed Systems: Modeling, Reliability Analysis and Applications
+Huadong Mo, Giovanni Sansavini and Min Xie
+Hoboken, NJ: Wiley, 2021.
+external page:
+DOI: 10.1002/9781119682707
+external page:
+Research Collection
+Abstract 
+
+Gather detailed knowledge and insights into cyber-physical systems behaviors from a cutting-edge reference written by leading voices in the field In Cyber-Physical Distributed Systems: Modeling, Reliability Analysis and Applications, distinguished researchers and authors Drs. Huadong Mo, Giovanni Sansavini, and Min Xie deliver a detailed exploration of the modeling and reliability analysis of cyber physical systems through applications in infrastructure and energy and power systems. The book focuses on the integrated modeling of systems that bring together physical and cyber elements and analyzing their stochastic behaviors and reliability with a view to controlling and managing them. The book offers a comprehensive treatment on the aging process and corresponding online maintenance, networked degradation, and cyber-attacks occurring in cyber-physical systems. The authors include many illustrative examples and case studies based on real-world systems and offer readers a rich set of references for further research and study. Cyber-Physical Distributed Systems covers recent advances in combinatorial models and algorithms for cyber-physical systems modeling and analysis. The book also includes: A general introduction to traditional physical/cyber systems, and the challenges, research trends, and opportunities for real cyber-physical systems applications that general readers will find interesting and useful Discussions of general modeling, assessment, verification, and optimization of industrial cyber-physical systems Explorations of stability analysis and enhancement of cyber-physical systems, including the integration of physical systems and open communication networks A detailed treatment of a system-of-systems framework for the reliability analysis and optimal maintenance of distributed systems with aging components Perfect for undergraduate and graduate students in computer science, electrical engineering, cyber security, industrial and system engineering departments, Cyber-Physical Distributed Systems will also earn a place on the bookshelves of students taking courses related to reliability, risk and control engineering from a system perspective. Reliability, safety and industrial control professionals will also benefit greatly from this book.
+
+2020
+Nexus-e: Simulation Framework and Interfaces
+Jared Garrison, Blazhe Gjorgiev, Xuejiao Han, Renger H. van Nieuwkoop, Elena Raycheva, Marius Schwarz, Turhan Demiray, Gabriela Hug, Giovanni Sansavini and Christian Schaffner
+Bern: Department of the Environment, Transport, Energy and Communication DETEC, Swiss Federal Office of Energy SFOE, Energy Research and Cleantech, 2020.
+external page:
+Research Collection
+Abstract 
+
+Policy changes in the energy sector result in wide-ranging implications throughout the entire energy system and influence all sectors of the economy. Due partly to the high complexity of combining separate models, few attempts have been undertaken to model the interactions between the components of the energy-economic system. The Nexus-e Integrated Energy Systems Modeling Platform aims to fill this gap by providing an interdisciplinary framework of modules that are linked through well-defined interfaces to holistically analyze and understand the impacts of future developments in the energy system. This platform combines bottom-up and top-down energy modeling approaches to represent a much broader scope of the energy-economic system than traditional stand-alone modeling approaches. In Phase 1 of this project, the objective is to develop a novel tool for the analysis of the Swiss electricity system. This study illustrates the capabilities of Nexus-e in answering the crucial questions of how centralized and distributed flexibility technologies could be deployed in the Swiss electricity system and how they would impact the traditional operation of the system. The aim of the analysis is not policy advice, as some critical developments like the European net-zero emissions goal are not yet included in the scenarios, but rather to illustrate the unique capabilities of the Nexus-e modeling framework. To answer these questions, consistent technical representations of a wide spectrum of current and novel energy supply, demand, and storage technologies are needed as well as a thorough economic evaluation of different investment incentives and the impact investments have on the wider economy. Moreover, these aspects need to be combined with modeling of the long- and short-term electricity market structures and electricity networks. This report illustrates the capabilities of the Nexus-e platform. The Nexus-e Platform consists of five interlinked modules: 1. General Equilibrium Module for Electricity (GemEl): a computable general equilibrium (CGE) module of the Swiss economy, 2. Centralized Investments Module (CentIv): a grid-constrained capacity expansion planning module considering system flexibility requirements, 3. Distributed Investments Module (DistIv): a generation expansion planning module of distributed energy resources, 4. Electricity Market Module (eMark): a market-based dispatch module for determining generator production schedules and electricity market prices, 5. Network Security and Expansion Module (Cascades): a power system security assessment and transmission system expansion planning module. A novelty of the Nexus-e platform is that it combines the core modules with automated interfaces to pass all necessary information between modules. The data transfer process within each interface is completely automated in code (hard-linked). The combined process and interfaces are designed to be modular and customizable so that different combinations of modules could be used together in future analyses. This report provides the description and documentation for all the interfaces along with the overall simulation process.
+
+Nexus-e: Input Data and System Setup
+Jared Garrison, Blazhe Gjorgiev, Xuejiao Han, Renger H. van Nieuwkoop, Elena Raycheva, Marius Schwarz, Xuqian Yan, Turhan Demiray, Gabriela Hug, Giovanni Sansavini and Christian Schaffner
+Bern: Swiss Federal Office of Energy SFOE, Energy Research and Cleantech, 2020.
+external page:
+Research Collection
+Abstract 
+
+Policy changes in the energy sector result in wide-ranging implications throughout the entire energy system and influence all sectors of the economy. Due partly to the high complexity of combining separate models, few attempts have been undertaken to model the interactions between the components of the energy-economic system. The Nexus-e Integrated Energy Systems Modeling Platform aims to fill this gap by providing an interdisciplinary framework of modules that are linked through well-defined interfaces to holistically analyze and understand the impacts of future developments in the energy system. This platform combines bottom-up and top-down energy modeling approaches to represent a much broader scope of the energy-economic system than traditional stand-alone modeling approaches. In Phase 1 of this project, the objective is to develop a novel tool for the analysis of the Swiss electricity system. This study illustrates the capabilities of Nexus-e in answering the crucial questions of how centralized and distributed flexibility technologies could be deployed in the Swiss electricity system and how they would impact the traditional operation of the system. The aim of the analysis is not policy advice, as some critical developments like the European net-zero emissions goal are not yet included in the scenarios, but rather to illustrate the unique capabilities of the Nexus-e modeling framework. To answer these questions, consistent technical representations of a wide spectrum of current and novel energy supply, demand, and storage technologies are needed as well as a thorough economic evaluation of different investment incentives and the impact investments have on the wider economy. Moreover, these aspects need to be combined with the modeling of the long- and short-term electricity market structures and electricity networks. This report illustrates the capabilities of the Nexus-e platform. The Nexus-e platform consists of five interlinked modules: 1. General Equilibrium Module for Electricity (GemEl): a computable general equilibrium (CGE) module of the Swiss economy, 2. Centralized Investments Module (CentIv): a grid-constrained generation expansion planning (GEP) module considering system flexibility requirements, 3. Distributed Investments Module (DistIv): a GEP module of distributed energy resources, 4. Electricity Market Module (eMark): a market-based dispatch module for determining generator production schedules and electricity market prices, 5. Network Security and Expansion Module (Cascades): a power system security assessment and transmission system expansion planning module. This report provides the description and documentation for the input data used by all modules.
+
+Nexus-e: Cascades Module Documentation
+Blazhe Gjorgiev and Giovanni Sansavini
+Bern: Department of the Environment, Transport, Energy and Communication DETEC, Swiss Federal Office of Energy SFOE, Energy Research and Cleantech, 2020.
+external page:
+Research Collection
+Abstract 
+
+Policy changes in the energy sector result in wide-ranging implications throughout the entire energy system and influence all sectors of the economy. Due partly to the high complexity of combining separate models, few attempts have been undertaken to model the interactions between the components of the energy-economic system. The Nexus-e Integrated Energy Systems Modeling Platform aims to fill this gap by providing an interdisciplinary framework of modules that are linked through well-defined interfaces to holistically analyze and understand the impacts of future developments in the energy system. This platform combines bottom-up and top-down energy modeling approaches to represent a much broader scope of the energy-economic system than traditional stand-alone modeling approaches. In Phase 1 of this project, the objective is to develop a novel tool for the analysis of the Swiss electricity system. This study illustrates the capabilities of Nexus-e in answering the crucial questions of how centralized and distributed flexibility technologies could be deployed in the Swiss electricity system and how they would impact the traditional operation of the system. The aim of the analysis is not policy advice, as some critical developments like the European net-zero emissions goal are not yet included in the scenarios, but rather to illustrate the unique capabilities of the Nexus-e modeling framework. To answer these questions, consistent technical representations of a wide spectrum of current and novel energy supply, demand, and storage technologies are needed as well as a thorough economic evaluation of different investment incentives and the impact investments have on the wider economy. Moreover, these aspects need to be combined with modeling of the long- and short-term electricity market structures and electricity networks. This report illustrates the capabilities of the Nexus-e platform. The Nexus-e Platform consists of five interlinked modules: 1. General Equilibrium Module for Electricity (GemEl): a computable general equilibrium (CGE) module of the Swiss economy, 2. Centralized Investments Module (CentIv): a grid-constrained capacity expansion planning module considering system flexibility requirements, 3. Distributed Investments Module (DistIv): a generation expansion planning module of distributed energy resources, 4. Electricity Market Module (eMark): a market-based dispatch module for determining generator production schedules and electricity market prices, 5. Network Security and Expansion Module (Cascades): a power system security assessment and transmission system expansion planning module. This report provides the description and documentation for the Cascades module, which is utilized in the Nexus-e framework to assess the security of supply by testing the capability of a power system to withstand sudden changes, and to provide a transmission system expansion plan if a target level of security is not satisfied
+
+Nexus-e: Scenario Results Report
+Jared Garrison, Blazhe Gjorgiev, Xuejiao Han, Renger van Niewkoop, Elena Raycheva, Marius Schwarz, Xuqian Yan, Turhan Demiray, Gabriela Hug, Giovanni Sansavini and Christian Schaffner
+Bern: Department of the Environment, Transport, Energy and Communication DETEC, Swiss Federal Office of Energy SFOE, Energy Research and Cleantech, 2020.
+external page:
+Research Collection
+Abstract 
+
+Policy changes in the energy sector result in wide-ranging implications throughout the entire energy system and influence all sectors of the economy. Due partly to the high complexity of combining separate models, few attempts have been undertaken to model the interactions between the components of the energy-economic system. The Nexus-e Integrated Energy Systems Modeling Platform aims to fill this gap by providing an interdisciplinary framework of modules that are linked through well-defined interfaces to holistically analyze and understand the impacts of future developments in the energy system. This platform combines bottom-up and top-down energy modeling approaches to represent a much broader scope of the energy-economic system than traditional stand-alone modeling approaches. In Phase 1 of this project, the objective is to develop a novel tool for the analysis of the Swiss electricity system. This study illustrates the capabilities of Nexus-e in answering the crucial questions of how centralized and distributed flexibility technologies could be deployed in the Swiss electricity system and how they would impact the traditional operation of the system. The aim of the analysis is not policy advice, as some critical developments like the European net-zero emissions goal are not yet included in the scenarios, but rather to illustrate the unique capabilities of the Nexus-e modeling framework. To answer these questions, consistent technical representations of a wide spectrum of current and novel energy supply, demand, and storage technologies are needed as well as a thorough economic evaluation of different investment incentives and the impact investments have on the wider economy. Moreover, these aspects need to be combined with modeling of the long- and short-term electricity market structures and electricity networks. This report illustrates the capabilities of the Nexus-e platform. The Nexus-e Platform consists of five interlinked modules: 1. General Equilibrium Module for Electricity (GemEl): a computable general equilibrium (CGE) module of the Swiss economy, 2. Centralized Investments Module (CentIv): a grid-constrained capacity expansion planning module considering system flexibility requirements, 3. Distributed Investments Module (DistIv): a generation expansion planning module of distributed energy resources, 4. Electricity Market Module (eMark): a market-based dispatch module for determining generator production schedules and electricity market prices, 5. Network Security and Expansion Module (Cascades): a power system security assessment and transmission system expansion planning module. This report presents the results on how centralized and distributed technologies can address the increasing need for flexibility in the Swiss electricity system and how this affects the traditional operation of existing power generation units. We use the Nexus-e platform to simulate three scenarios: The Baseline scenario includes the projected development of techno-economic parameters (e.g., runtime of 50 years for Swiss nuclear power plants) and the status quo of the Swiss legislative and regulatory framework (e.g., financial subsidies for PV systems). The Nuclear-60 scenario reflects the discussion on the nuclear power exit and assumes that nuclear power plants are phased-out after a lifetime of 60 years. The High-Flexibility scenario reflects the discussion on the impact and value of an increased supply of distributed flexibility in the power system and assumes low battery costs and high demandside management potential.It is important to note that net-zero emissions targets (for Switzerland or the surrounding countries currently modeled) are not included in any of the simulated scenarios. Our results show that the nuclear phase-out is achieved alongside substantial investments in new photovoltaic (PV) capacities without causing serious problems matching the supply of electricity with demand. This transition occurs along with some additional investments in biomass and PV-batteries, but no investment in wind power or grid-batteries. The ending of investment subsidies after 2030 reduces the attractiveness of new PV capacities in 2040, but decreasing PV prices spur PV installations in 2050. By 2050, PV is responsible for the largest share (i.e., 32.6-35.5%) of electricity consumption, followed by hydro dam (26.0-28.3%) and hydro run of river (RoR) (15.9-17.4%). Additionally, as nuclear gets phased out, imports become a larger contributor to the supply of electricity in Switzerland providing up to 5.7% of the demand in 2050. Critical, however, is the time between 2030-2040, when the stagnating PV capacity cannot substitute nuclear phase-out fully, resulting in substantially higher net imports of up to 16.5% of the annual demand. Please note that all results presented in this report are subject to pronounced uncertainties and assumptions. Furthermore, the scenarios are illustrative and the results should be interpreted as indicating differences in the trends between scenarios and not interpreted as predictions. Therefore, we do not claim that the current legislative and regulatory framework is sufficient to achieve the renewable energy source (RES) targets. In light of the transition away from nuclear capacities and toward PV capacities, there is an increasing need for flexibility across a wide range of timescales from seasonal to sub-hourly. By utilizing a comprehensive representation of the energy system, the Nexus-e platform assesses how these flexibility needs are supplied, namely through a combination of: capacities in the centralized Swiss generation fleet, imports and exports, and added capacities in the distribution system. First, the seasonality of the net load increases as the PV penetration level grows, indicating the need for higher seasonal flexibility, which is addressed by a greater seasonal reliance on net imports and hydro dams. Second, the increasingly dynamic pattern of the net load on an hourly and daily basis, which emphasizes the need for fast ramping flexible capacities, is mostly covered by rapid changes from imports and exports and hydro dams. To a lesser extent, hydro pumps, hydro RoRs, PV-batteries, and demand-side management (DSM) also react rapidly to help provide the necessary supply. Additionally, higher shares of flexible PV-batteries and DSM resources successfully smooth the hourly net load and thus reduce the reliance on imports/exports for hourly flexibility. Third, tertiary reserve requirements, needed to balance the sub-hourly deviations, increase from year-to-year as new PV investments are added and are supplied by the existing Swiss dispatchable capacities. Fourth, increasing the share of non-dispatchable units has a negative effect on the system security and thus contributes to the risk of systemic failures, but this risk can be addressed with only a couple of transmission line upgrades. PV-batteries and DSM can even further reduce such risk and strengthen system security. The Nexus-e platform is a unique and powerful tool to quantify a wide range of impacts for possible future paths of the Swiss energy system. First of all, it combines bottom-up and top-down energy modeling approaches and thus represents a broader scope of the energy-economic system. This combination accounts for the complexity and interplay of energy demand-supply, macro energy-economic factors, and energy policy drivers across multiple time-scales and levels of aggregation. In terms of the modeled network levels, Nexus-e represents both the centralized and distributed levels of the energy system, which enables us to holistically assess the supply of flexibility across Switzerland at both regional and national scales. Also, Nexus-e is able to conduct simulations with a high-time resolution. The capability of modeling hourly dynamics allows us to capture new behaviors of hydro pumps, battery storage system (BSS), and DSM, which is critical for modeling the short-term demand and supply of flexibility. With such a comprehensive representation, we are able to show that Switzerland could achieve both the nuclear phase-out and RES targets while supplying sufficient flexibility and maintaining system security.
+
+Nexus-e: Validation and Calibration of Modules
+Jared Garrison, Blazhe Gjorgiev, Xuejiao Han, Renger H. van Nieuwkoop, Elena Raycheva, Marius Schwarz, Turhan Demiray, Gabriela Hug, Giovanni Sansavini and Christian Schaffner
+Bern: Department of the Environment, Transport, Energy and Communication DETEC, Swiss Federal Office of Energy SFOE, Energy Research and Cleantech, 2020.
+external page:
+Research Collection
+Abstract 
+
+Policy changes in the energy sector result in wide-ranging implications throughout the entire energy system and influence all sectors of the economy. Due partly to the high complexity of combining separate models, few attempts have been undertaken to model the interactions between the components of the energy-economic system. The Nexus-e Integrated Energy Systems Modeling Platform aims to fill this gap by providing an interdisciplinary framework of modules that are linked through well-defined interfaces to holistically analyze and understand the impacts of future developments in the energy system. This platform combines bottom-up and top-down energy modeling approaches to represent a much broader scope of the energy-economic system than traditional stand-alone modeling approaches. In Phase 1 of this project, the objective is to develop a novel tool for the analysis of the Swiss electricity system. This study illustrates the capabilities of Nexus-e in answering the crucial questions of how centralized and distributed flexibility technologies could be deployed in the Swiss electricity system and how they would impact the traditional operation of the system. The aim of the analysis is not policy advice, as some critical developments like the European net-zero emissions goal are not yet included in the scenarios, but rather to illustrate the unique capabilities of the Nexus-e modeling framework. To answer these questions, consistent technical representations of a wide spectrum of current and novel energy supply, demand, and storage technologies are needed as well as a thorough economic evaluation of different investment incentives and the impact investments have on the wider economy. Moreover, these aspects need to be combined with modeling of the long- and short-term electricity market structures and electricity networks. This report illustrates the capabilities of the Nexus-e platform. The Nexus-e Platform consists of five interlinked modules: 1. General Equilibrium Module for Electricity (GemEl): a computable general equilibrium (CGE) module of the Swiss economy, 2. Centralized Investments Module (CentIv): a grid-constrained capacity expansion planning module considering system flexibility requirements, 3. Distributed Investments Module (DistIv): a generation expansion planning module of distributed energy resources, 4. Electricity Market Module (eMark): a market-based dispatch module for determining generator production schedules and electricity market prices, 5. Network Security and Expansion Module (Cascades): a power system security assessment and transmission system expansion planning module. This report describes the validation and calibration of the different modules within the Nexus-e framework. The objectives of the validation and the calibration of the Nexus-e modules is to develop trustworthy and high-fidelity modules as well as to adjust the modules to better represent the complexity of the involved real systems and processes
+
+2016
+Защита электрических сетей от природных рисков
+Nadejda Komendantova, Desiree Schweitzer, Daniel Kroos, Cyril Leroy, Eric Andreini, Brigitte Baltasar, Terry Boston, Kanat Botbaev, Denis Boyarkin, Jed Cohen, D. Budovsky, Christine Eismann, Alexander Garcia-Aristizabal, Torolf Hamm, Matjaž Keršnik, Martin König, G. Kovalev, Dmitry Krupenev, Marc Lehmann, Hubert Lemmens, Klaus Moeltner, Johannes Reichl, Milka Mumovic, Giovanni Sansavini, Michael Schmidthaler, Lubomir Tomik, Alain Steven, Christopher Zobel and Friedemann Wenzel
+Vienna, Austria: Organization for Security and Co-operation in Europe (OSCE), 2016.
+external page:
+Research Collection
+Key elements of risk assessment of electric power networks
+Wolfgang Kröger and Giovanni Sansavini
+In Protecting Electricity Networks from Natural Hazards, pp. 11-24, Vienna: Organization for Security and Co-operation in Europe (OSCE), 2016.
+external page:
+Research Collection
+Engineering Resilience in Critical Infrastructures
+Giovanni Sansavini
+In IRGC Resource Guide on Resilience, edited by Florin, Marie-Valentine and Linkov, Igor, vol. 1 , pp. 204-210, Lausanne: EPFL International Risk Governance Center, 2016.
+external page:
+Research Collection
+Related content
+Journal Articles
+Conference Contributions
+Doctoral Theses
+Publications
+Footer
+Search
+Keyword or person
+Follow us
+Services
+Student portal
+Alumni association
+Staffnet
+Login
+Contact
+Martina Christoffel
+Administrative Assistant
+ 
+Phone
++41 44 632 24 35
+Email
+
+ETH Zurich
+Reliability & Risk Engineering
+LEE L 223
+Leonhardstrasse 21
+8092 Zürich
+Schweiz
+
+
+‌
+
+Departments
+D-ARCH
+Architecture
+D-BAUG
+Civil, Environmental and Geomatic Engineering
+D-BIOL
+Biology
+D-BSSE
+Biosystems Science and Engineering
+D-CHAB
+Chemistry and Applied Biosciences
+D-EAPS
+Earth and Planetary Sciences
+D-GESS
+Humanities, Social and Political Sciences
+D-HEST
+Health Sciences and Technology
+D-INFK
+Computer Science
+D-ITET
+Information Technology and Electrical Engineering
+D-MATH
+Mathematics
+D-MATL
+Department of Materials
+D-MAVT
+Mechanical and Process Engineering
+D-MTEC
+Management, Technology and Economics
+D-PHYS
+Physics
+D-USYS
+Environmental Systems Science
+Table of contents and legal
+Sitemap
+Imprint
+Accessibility Statement
+Disclaimer & Copyright
+Privacy Policy
+© 2026  Eidgenössische Technische Hochschule Zürich

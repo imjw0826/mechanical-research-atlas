@@ -1,0 +1,68 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "404" [url=https://www.tudelft.nl/en/staff/a.i.stankiewicz/]
+- navigation "Skiplinks" [ref=e1]:
+  - button "Activate high contrast" [ref=e2]
+  - link "To main content" [ref=e3]
+- navigation "Top navigation" [ref=e4]:
+  - link [ref=e5]:
+    - img
+  - link "Students & Education" [ref=e6]
+  - link "Research" [ref=e7]
+  - link "Innovation & Impact" [ref=e8]
+  - link "Community" [ref=e9]
+  - link "About TU Delft" [ref=e10]
+  - link "Schakel over naar de Nederlandse taal" [ref=e11]
+  - button "" [ref=e12]: "\n                    Search"
+- main:
+  - navigation "Breadcrumb" [ref=e13]:
+    - link "Delft University of Technology" [ref=e14]
+    - text: ""
+    - link "404" [ref=e15]
+  - link [ref=e16]
+  - navigation "Side navigation" [ref=e17]:
+    - list:
+      - link "Students & Education" [ref=e18]
+      - link "Research" [ref=e19]
+      - link "Innovation & Impact" [ref=e20]
+      - link "Community" [ref=e21]
+      - link "About TU Delft" [ref=e22]
+  - heading "404" [level=1]
+  - link [ref=e23]
+  - heading "Not found" [level=3]
+  - text: "That's strange, we usually have technology under full control. Our apologies for any inconvenience caused. Maybe you can find what you're looking for with this search bar?"
+  - link [ref=e24]
+  - textbox "Search" [ref=e25]: "a.i.stankiewicz"
+  - button "" [ref=e26]: "\n                Search"
+  - heading "Were you looking for?" [level=3]
+  - text: "Do you wish to report a broken link? Please mail the url of the page you were trying to reach, or where you found this broken link, to"
+  - link "webredactie-mc@tudelft.nl" [ref=e27]
+  - text: ". Thank you in advance."
+- contentinfo:
+  - heading "Delft University of Technology" [level=2]
+  - link "" [ref=e28]: "\n                            \n                                \n                                        facebook"
+  - link "" [ref=e29]: "\n                            \n                                \n                                        instagram"
+  - link "" [ref=e30]: "\n                            \n                                \n                                        youtube"
+  - link "LinkedIn" [ref=e31]: "\n                            \n                                \n                                        linkedin"
+  - link "" [ref=e32]: "\n                            whatsapp"
+  - text: "Postbus 5 2600 AA Delft The Netherlands"
+  - link "Contact and accessibility" [ref=e33]
+  - link "Disclaimer" [ref=e34]
+  - link "Privacy & Security" [ref=e35]
+  - link "Reading assistant BrowseAloud" [ref=e36]
+  - link "Vacancies" [ref=e37]
+  - link "Intranet" [ref=e38]
+  - link "Student portal" [ref=e39]
+  - link "Donate" [ref=e40]
+  - link "Press room" [ref=e41]
+- navigation "Bottom navigation" [ref=e42]:
+  - link [ref=e43]:
+    - img
+  - button "Cookie settings" [ref=e44]
+  - button "Contrast settings" [ref=e45]: "Activate high contrast"
+  - link "Students & Education" [ref=e46]
+  - link "Research" [ref=e47]
+  - link "Innovation & Impact" [ref=e48]
+  - link "Community" [ref=e49]
+  - link "About TU Delft" [ref=e50]
+  - link "Schakel over naar de Nederlandse taal" [ref=e51]
+  - button "" [ref=e52]: "\n                        Search"

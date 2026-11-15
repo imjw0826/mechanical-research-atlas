@@ -1,0 +1,38 @@
+{
+  "method": "Independent repeat survey with Aside Browser; source pages opened and all 35 numbered entries checked.",
+  "session": "QdoKbTbNVFGD7HGd",
+  "pi": "박상욱",
+  "publication_urls": [
+    "https://www.hydrogen.snu.ac.kr/publications"
+  ],
+  "existing_entries": 35,
+  "independent_entries": 35,
+  "matched_titles": 35,
+  "differences": [
+    {
+      "title": "Dry Reforming of Methane Enabled by Catalyst with Regeneration Process",
+      "field": "publication_status_raw",
+      "existing": ", Under Review",
+      "independent": "[In Preparation]\nUnder Review"
+    },
+    {
+      "title": "Upcycling of CO2 to Long-chain Hydrocarbons",
+      "field": "publication_status_raw",
+      "existing": ", Under Review",
+      "independent": "[In Preparation]\nUnder Review"
+    },
+    {
+      "title": "Ultrafast Flame Synthesized Catalysts for Low Overpotential Alkaline Water Splitting",
+      "field": "publication_status_raw",
+      "existing": "In Preparation",
+      "independent": "[In Preparation]"
+    },
+    {
+      "title": "Catalytic Microwave-assisted Dry Reforming of Methane via Temperature-driven Susceptor Transition",
+      "field": "publication_status_raw",
+      "existing": "In Preparation",
+      "independent": "[In Preparation]"
+    }
+  ],
+  "coverage_notes": "Aside openTab으로 지정 홈페이지에 실제 접속한 뒤 Publications 메뉴를 클릭하고 전체 본문, 논문 링크, 숨겨진 내비게이션까지 확인했다. Publications는 단일 전체 목록이며 별도의 연도별 페이지, 저널/학회 하위 메뉴, 페이지네이션은 발견되지 않았다. 번호 1–35의 35개 항목을 모두 추출했다: 연도가 표시된 저널 논문 31개(2016–2026), [In Preparation] 항목 4개. 준비 중 항목 32·33에는 Under Review가 추가로 명시되어 있다. 연도와 서지정보는 사이트 표기 그대로 유지했으며 외부 DB나 출판사 본문으로 보정하지 않았다. authors_raw는 쉼표로 분할하지 않았다. doi_or_url은 사이트의 Link 대상이며 24번 링크의 접근 토큰과 일부 추적 매개변수만 제거했다. 홈페이지에서 연구실 명칭을, People 페이지에서 Principal Investigator Sangwook Park (박상욱), Associate Professor, Department of Mechanical Engineering, Seoul National University를 확인했다. sources의 Publications 본문은 메뉴·푸터를 제외한 전체 가시 텍스트이며, Home과 People의 본문도 함께 보존했다. 로컬 파일, 셸, 메모리, 프로젝트 또는 세션상태를 읽거나 쓰지 않았다."
+}

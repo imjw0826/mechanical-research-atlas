@@ -1,0 +1,86 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Scott Manalis",
+  "lab_name": null,
+  "lab_url": "http://manalis-lab.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/SRM@MIT.EDU"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/SRM@MIT.EDU",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://manalis-lab.mit.edu/"
+    }
+  ],
+  "attempted_urls": [
+    "http://manalis-lab.mit.edu/",
+    "http://manalis-lab.mit.edu/publications.html"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "Publications",
+      "url": "http://manalis-lab.mit.edu/publications.html"
+    }
+  ],
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "previous_coverage_notes": "게시 목록 페이지 후보에서 인용 형태 항목이 5건 미만이라 논문 목록으로 쓰지 않음(프로필 경력·뉴스 문구 혼입 가능). 원본은 dropped_low_confidence에 보존.",
+  "dropped_low_confidence": [
+    {
+      "title": "Forces and Flows in Biological Systems (2.793)",
+      "year": 2007,
+      "citation_raw": "Burg TP, Godin M, KFields, Forces and Flows in Biological Systems (2.793) Instrumentation and Measurement for Biological Systems (2.673)nudsen SM, Shen W, Carlson G, Foster JS, Babcock K, Manalis SR. (2007). Weighing of biomolecules, single cells and single nanoparticles in fluid. Nature, 446(7139): 1066-9.",
+      "source_url": "https://meche.mit.edu/people/faculty/SRM@MIT.EDU"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:03:18.807321+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Weighing nanoparticles in solution at the attogram scale",
+      "year": 2014,
+      "citation_raw": "Olcum S, Cermak N, Wasserman SC, Christine KS, Atsumi H, Payer KR, Shen WJ, Lee JC, Belcher AM, Bhatia SN, Manalis SR. (2014). Weighing nanoparticles in solution at the attogram scale. Proceedings of the National Academy of Sciences of the United States of America, 111(4): 1310-5.",
+      "source_url": "https://meche.mit.edu/people/faculty/SRM@MIT.EDU"
+    },
+    {
+      "title": "Characterizing deformability and surface friction of cancer cells",
+      "year": 2013,
+      "citation_raw": "Byun S, Son S, Amodei D, Cermak N, Shaw J, Kang JH, Hecht VC, Winslow MM, Jacks T, Mallick P, Manalis SR. (2013). Characterizing deformability and surface friction of cancer cells. Proceedings of the National Academy of Sciences of the United States of America, 110(19): 7580-5.",
+      "source_url": "https://meche.mit.edu/people/faculty/SRM@MIT.EDU"
+    },
+    {
+      "title": "Direct observation of mammalian cell growth and size regulation",
+      "year": 2012,
+      "citation_raw": "Son S, Tzur A, Weng Y, Jorgensen P, Kim J, Kirschner MW, Manalis SR. (2012). Direct observation of mammalian cell growth and size regulation. Nature Methods, 9(9): 910-+.",
+      "source_url": "https://meche.mit.edu/people/faculty/SRM@MIT.EDU"
+    },
+    {
+      "title": "Measuring single-cell density",
+      "year": 2011,
+      "citation_raw": "Grover WH, Bryan AK, Diez-Silva M, Suresh S, Higgins JM, Manalis SR. (2011). Measuring single-cell density. Proceedings of the National Academy of Sciences of the United States of America, 108(27): 10992-6.",
+      "source_url": "https://meche.mit.edu/people/faculty/SRM@MIT.EDU"
+    },
+    {
+      "title": "Nonmonotonic Energy Dissipation in Microfluidic Resonators",
+      "year": 2009,
+      "citation_raw": "Burg TP, Sader JE, Manalis SR. (2009). Nonmonotonic Energy Dissipation in Microfluidic Resonators. Physical Review Letters, 102(22).",
+      "source_url": "https://meche.mit.edu/people/faculty/SRM@MIT.EDU"
+    },
+    {
+      "title": "Making it stick: convection, reaction and diffusion in surface-based biosensors",
+      "year": 2008,
+      "citation_raw": "Squires TM, Messinger RJ, Manalis SR. (2008). Making it stick: convection, reaction and diffusion in surface-based biosensors. Nature Biotechnology, 26(4): 417-26.",
+      "source_url": "https://meche.mit.edu/people/faculty/SRM@MIT.EDU"
+    },
+    {
+      "title": "Forces and Flows in Biological Systems (2.793)",
+      "year": 2007,
+      "citation_raw": "Burg TP, Godin M, KFields, Forces and Flows in Biological Systems (2.793) Instrumentation and Measurement for Biological Systems (2.673)nudsen SM, Shen W, Carlson G, Foster JS, Babcock K, Manalis SR. (2007). Weighing of biomolecules, single cells and single nanoparticles in fluid. Nature, 446(7139): 1066-9.",
+      "source_url": "https://meche.mit.edu/people/faculty/SRM@MIT.EDU"
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "university": "University of Oxford",
+  "university_key": "oxford",
+  "pi": "Natalia Ares",
+  "lab_name": "Quantum Device Lab",
+  "lab_url": "https://eng.ox.ac.uk/quantumdevicelab",
+  "publication_urls": [
+    "https://eng.ox.ac.uk/publications?personId=11987",
+    "https://eng.ox.ac.uk/quantumdevicelab/research"
+  ],
+  "accessed_at": "2026-11-11T13:49:09.825Z",
+  "coverage_notes": [
+    "Official department profile links Quantum Device Lab. Followed Research > View All and Filter to department-hosted list with Natalia Ares selected, no type/year restriction.",
+    "Clicked Load more repeatedly, inspected fresh snapshots through final 2009 entry; final snapshot shows no Load more. Site states Showing 93 publications, but DOM contains 70 title entries before per-file title deduplication. Kept partial because count mismatch not resolved.",
+    "Authors and year parsed only from explicitly posted citation format; venue_raw retains all text after (year), not inferred. DOI absent in visible citation, null.",
+    {
+      "identity_evidence": {
+        "url": "https://eng.ox.ac.uk/people/natalia-ares",
+        "visible_name_line": "Natalia Ares",
+        "following_lines": [
+          "PROFESSOR",
+          "Associate Professor"
+        ]
+      }
+    }
+  ],
+  "status": "partial",
+  "papers": [
+    {
+      "title": "Metalearning characteristics and dynamics of quantum systems",
+      "authors_raw": "Schorling L, Vaidhyanathan P, Schuff J, Carballido MJ, Zumbühl D et al.",
+      "year": 2026,
+      "venue_raw": "Physical Review Research, 8(3), 033248",
+      "doi_or_url": null,
+      "citation_raw": "Metalearning characteristics and dynamics of quantum systems\nSchorling L, Vaidhyanathan P, Schuff J, Carballido MJ, Zumbühl D et al. (2026), Physical Review Research, 8(3), 033248",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Sources of nonlinearity of a driven carbon nanotube electromechanical resonator",
+      "authors_raw": "Sevitz S, Aggarwal K, Tabanera-Bravo J, Monsel J, Vigneau F et al.",
+      "year": 2026,
+      "venue_raw": "Physical Review Research, 8(3), 033237",
+      "doi_or_url": null,
+      "citation_raw": "Sources of nonlinearity of a driven carbon nanotube electromechanical resonator\nSevitz S, Aggarwal K, Tabanera-Bravo J, Monsel J, Vigneau F et al. (2026), Physical Review Research, 8(3), 033237",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "How silicon-chip technology is being re-engineered for quantum computing.",
+      "authors_raw": "Ares N",
+      "year": 2026,
+      "venue_raw": "Nature, 655(8125), 1141-1142",
+      "doi_or_url": null,
+      "citation_raw": "How silicon-chip technology is being re-engineered for quantum computing.\nAres N (2026), Nature, 655(8125), 1141-1142",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Fully autonomous tuning of a spin qubit",
+      "authors_raw": "Schuff J, Carballido MJ, Kotzagiannidis M, Calvo JC, Caselli M et al.",
+      "year": 2026,
+      "venue_raw": "Nature Electronics, 9(3), 304-313",
+      "doi_or_url": null,
+      "citation_raw": "Fully autonomous tuning of a spin qubit\nSchuff J, Carballido MJ, Kotzagiannidis M, Calvo JC, Caselli M et al. (2026), Nature Electronics, 9(3), 304-313",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Quantum feedback control with a transformer neural network architecture",
+      "authors_raw": "Vaidhyanathan P, Marquardt F, Mitchison MT & Ares N",
+      "year": 2026,
+      "venue_raw": "Physical Review Research, 8(1), l012043",
+      "doi_or_url": null,
+      "citation_raw": "Quantum feedback control with a transformer neural network architecture\nVaidhyanathan P, Marquardt F, Mitchison MT & Ares N (2026), Physical Review Research, 8(1), l012043",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Roadmap on quantum thermodynamics",
+      "authors_raw": "Campbell S, D’Amico I, Ciampini MA, Anders J, Ares N et al.",
+      "year": 2026,
+      "venue_raw": "Quantum Science and Technology, 11(1), 012501",
+      "doi_or_url": null,
+      "citation_raw": "Roadmap on quantum thermodynamics\nCampbell S, D’Amico I, Ciampini MA, Anders J, Ares N et al. (2026), Quantum Science and Technology, 11(1), 012501",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "MetaSym: A Symplectic Meta-learning Framework for Physical Intelligence",
+      "authors_raw": "Vaidhyanathan P, Papatheodorou A, Mitchison MT, Ares N & Havoutis I",
+      "year": 2026,
+      "venue_raw": "Transactions on Machine Learning Research, 2026-February",
+      "doi_or_url": null,
+      "citation_raw": "MetaSym: A Symplectic Meta-learning Framework for Physical Intelligence\nVaidhyanathan P, Papatheodorou A, Mitchison MT, Ares N & Havoutis I (2026), Transactions on Machine Learning Research, 2026-February",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Artificial intelligence for quantum computing",
+      "authors_raw": "Alexeev Y, Farag MH, Patti TL, Wolf ME, Ares N et al.",
+      "year": 2025,
+      "venue_raw": "Nature Communications, 16(1)",
+      "doi_or_url": null,
+      "citation_raw": "Artificial intelligence for quantum computing\nAlexeev Y, Farag MH, Patti TL, Wolf ME, Ares N et al. (2025), Nature Communications, 16(1)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Coupling a single spin to the motion of a carbon nanotube",
+      "authors_raw": "Fedele F, Cerisola F, Bresque L, Vigneau F, Monsel J et al.",
+      "year": 2025,
+      "venue_raw": "Nature Communications",
+      "doi_or_url": null,
+      "citation_raw": "Coupling a single spin to the motion of a carbon nanotube\nFedele F, Cerisola F, Bresque L, Vigneau F, Monsel J et al. (2025), Nature Communications",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "QuantGraph: A Receding-Horizon Quantum Graph Solver",
+      "authors_raw": "Vaidhyanathan P, Papatheodorou A, Arvidsson-Shukur DRM, Mitchison MT, Ares N et al.",
+      "year": 2025,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "QuantGraph: A Receding-Horizon Quantum Graph Solver\nVaidhyanathan P, Papatheodorou A, Arvidsson-Shukur DRM, Mitchison MT, Ares N et al. (2025)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "All-rf-based coarse-tuning algorithm for quantum devices using machine learning",
+      "authors_raw": "van Straaten B, Fedele F, Vigneau F, Hickie J, Jirovec D et al.",
+      "year": 2025,
+      "venue_raw": "Physical Review Applied, 24(5), 054030-054030",
+      "doi_or_url": null,
+      "citation_raw": "All-rf-based coarse-tuning algorithm for quantum devices using machine learning\nvan Straaten B, Fedele F, Vigneau F, Hickie J, Jirovec D et al. (2025), Physical Review Applied, 24(5), 054030-054030",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Entropic Costs of Extracting Classical Ticks from a Quantum Clock",
+      "authors_raw": "Wadhia V, Meier F, Fedele F, Silva R, Nurgalieva N et al.",
+      "year": 2025,
+      "venue_raw": "Physical Review Letters, 135(20), 200407",
+      "doi_or_url": null,
+      "citation_raw": "Entropic Costs of Extracting Classical Ticks from a Quantum Clock\nWadhia V, Meier F, Fedele F, Silva R, Nurgalieva N et al. (2025), Physical Review Letters, 135(20), 200407",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Automatic tuning of a donor in a silicon quantum device using machine learning",
+      "authors_raw": "Severin B, Botzem T, Fedele F, Yu X, Wilhelm B et al.",
+      "year": 2025,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "Automatic tuning of a donor in a silicon quantum device using machine learning\nSeverin B, Botzem T, Fedele F, Yu X, Wilhelm B et al. (2025)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Virtual Gates Enabled by Digital Surrogate of Quantum Dot Devices",
+      "authors_raw": "Lidiak A, Swain J, Craig DL, Hickie J, Yang Y et al.",
+      "year": 2025,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "Virtual Gates Enabled by Digital Surrogate of Quantum Dot Devices\nLidiak A, Swain J, Craig DL, Hickie J, Yang Y et al. (2025)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Sources of nonlinearity in the response of a driven nano-electromechanical resonator",
+      "authors_raw": "Sevitz S, Aggarwal K, Tabanera-Bravo J, Monsel J, Vigneau F et al.",
+      "year": 2025,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "Sources of nonlinearity in the response of a driven nano-electromechanical resonator\nSevitz S, Aggarwal K, Tabanera-Bravo J, Monsel J, Vigneau F et al. (2025)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Compromise-free scaling of qubit speed and coherence",
+      "authors_raw": "Carballido MJ, Svab S, Eggli RS, Patlatiuk T, Chevalier Kwon P et al.",
+      "year": 2025,
+      "venue_raw": "Nature Communications, 16(1)",
+      "doi_or_url": null,
+      "citation_raw": "Compromise-free scaling of qubit speed and coherence\nCarballido MJ, Svab S, Eggli RS, Patlatiuk T, Chevalier Kwon P et al. (2025), Nature Communications, 16(1)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "End-to-end analysis of charge stability diagrams with transformers",
+      "authors_raw": "Marchand R, Schorling L, Carlsson C, Schuff J, van Straaten B et al.",
+      "year": 2025,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "End-to-end analysis of charge stability diagrams with transformers\nMarchand R, Schorling L, Carlsson C, Schuff J, van Straaten B et al. (2025)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Rapid optimal work extraction from a quantum-dot information engine",
+      "authors_raw": "Aggarwal K, Rolandi A, Yang Y, Hickie J, Jirovec D et al.",
+      "year": 2025,
+      "venue_raw": "Physical Review Research, 7(3), l032017-l032017",
+      "doi_or_url": null,
+      "citation_raw": "Rapid optimal work extraction from a quantum-dot information engine\nAggarwal K, Rolandi A, Yang Y, Hickie J, Jirovec D et al. (2025), Physical Review Research, 7(3), l032017-l032017",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Extra cost of erasure due to quantum lifetime broadening",
+      "authors_raw": "Dunlop J, Cerisola F, Monsel J, Sevitz S, Tabanera-Bravo J et al.",
+      "year": 2025,
+      "venue_raw": "Physical Review A, 112(1), l010601-l010601",
+      "doi_or_url": null,
+      "citation_raw": "Extra cost of erasure due to quantum lifetime broadening\nDunlop J, Cerisola F, Monsel J, Sevitz S, Tabanera-Bravo J et al. (2025), Physical Review A, 112(1), l010601-l010601",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures",
+      "authors_raw": "Papatheodorou A, Vaidhyanathan P, Ares N & Havoutis I",
+      "year": 2025,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures\nPapatheodorou A, Vaidhyanathan P, Ares N & Havoutis I (2025)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Quantum computing and artificial intelligence: status and perspectives",
+      "authors_raw": "Acampora G, Ambainis A, Ares N, Banchi L, Bhardwaj P et al.",
+      "year": 2025,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "Quantum computing and artificial intelligence: status and perspectives\nAcampora G, Ambainis A, Ares N, Banchi L, Bhardwaj P et al. (2025)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Automated All-RF Tuning for Spin Qubit Readout and Control",
+      "authors_raw": "Carlsson C, Saez-Mollejo J, Fedele F, Calcaterra S, Chrastina D et al.",
+      "year": 2025,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "Automated All-RF Tuning for Spin Qubit Readout and Control\nCarlsson C, Saez-Mollejo J, Fedele F, Calcaterra S, Chrastina D et al. (2025)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Meta-learning characteristics and dynamics of quantum systems",
+      "authors_raw": "Schorling L, Vaidhyanathan P, Schuff J, Carballido MJ, Zumbühl D et al.",
+      "year": 2025,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "Meta-learning characteristics and dynamics of quantum systems\nSchorling L, Vaidhyanathan P, Schuff J, Carballido MJ, Zumbühl D et al. (2025)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Automated long-range compensation of an rf quantum dot sensor",
+      "authors_raw": "Hickie J, van Straaten B, Fedele F, Jirovec D, Ballabio A et al.",
+      "year": 2024,
+      "venue_raw": "Physical Review Applied, 22(6), 064026-064026",
+      "doi_or_url": null,
+      "citation_raw": "Automated long-range compensation of an rf quantum dot sensor\nHickie J, van Straaten B, Fedele F, Jirovec D, Ballabio A et al. (2024), Physical Review Applied, 22(6), 064026-064026",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Differentiable master equation solver for quantum device characterization",
+      "authors_raw": "Craig DL, Ares N & Gauger EM",
+      "year": 2024,
+      "venue_raw": "Physical Review Research, 6(4)",
+      "doi_or_url": null,
+      "citation_raw": "Differentiable master equation solver for quantum device characterization\nCraig DL, Ares N & Gauger EM (2024), Physical Review Research, 6(4)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "QArray: A GPU-accelerated constant capacitance model simulator for large quantum dot arrays",
+      "authors_raw": "van Straaten B, Hickie J, Schorling L, Schuff J, Fedele F et al.",
+      "year": 2024,
+      "venue_raw": "SciPost Physics Codebases, 035-035",
+      "doi_or_url": null,
+      "citation_raw": "QArray: A GPU-accelerated constant capacitance model simulator for large quantum dot arrays\nvan Straaten B, Hickie J, Schorling L, Schuff J, Fedele F et al. (2024), SciPost Physics Codebases, 035-035",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Cross-architecture tuning of silicon and SiGe-based quantum devices using machine learning",
+      "authors_raw": "Severin B, Lennon DT, Camenzind LC, Vigneau F, Fedele F et al.",
+      "year": 2024,
+      "venue_raw": "Scientific Reports, 14(1)",
+      "doi_or_url": null,
+      "citation_raw": "Cross-architecture tuning of silicon and SiGe-based quantum devices using machine learning\nSeverin B, Lennon DT, Camenzind LC, Vigneau F, Fedele F et al. (2024), Scientific Reports, 14(1)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Looping in the human: collaborative and explainable Bayesian optimization",
+      "authors_raw": "Adachi M, Planden B, Howey DA, Osborne MA, Orbell S et al.",
+      "year": 2024,
+      "venue_raw": "Proceedings of The 27th International Conference on Artificial Intelligence and Statistics, 505-513",
+      "doi_or_url": null,
+      "citation_raw": "Looping in the human: collaborative and explainable Bayesian optimization\nAdachi M, Planden B, Howey DA, Osborne MA, Orbell S et al. (2024), Proceedings of The 27th International Conference on Artificial Intelligence and Statistics, 505-513",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Stability of long-sustained oscillations induced by electron tunneling",
+      "authors_raw": "Tabanera-Bravo J, Vigneau F, Monsel J, Aggarwal K, Bresque L et al.",
+      "year": 2024,
+      "venue_raw": "Physical Review Research, 6(1), 013291-013291",
+      "doi_or_url": null,
+      "citation_raw": "Stability of long-sustained oscillations induced by electron tunneling\nTabanera-Bravo J, Vigneau F, Monsel J, Aggarwal K, Bresque L et al. (2024), Physical Review Research, 6(1), 013291-013291",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "High-fidelity spin qubit operation and algorithmic initialization above 1 K",
+      "authors_raw": "Huang JY, Su RY, Lim WH, Feng M, van Straaten B et al.",
+      "year": 2024,
+      "venue_raw": "Nature, 627(8005), 772-777",
+      "doi_or_url": null,
+      "citation_raw": "High-fidelity spin qubit operation and algorithmic initialization above 1 K\nHuang JY, Su RY, Lim WH, Feng M, van Straaten B et al. (2024), Nature, 627(8005), 772-777",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Coupling a single spin to high-frequency motion",
+      "authors_raw": "Fedele F, Cerisola F, Bresque L, Vigneau F, Monsel J et al.",
+      "year": 2024,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "Coupling a single spin to high-frequency motion\nFedele F, Cerisola F, Bresque L, Vigneau F, Monsel J et al. (2024)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Bridging the Reality Gap in Quantum Devices with Physics-Aware Machine Learning",
+      "authors_raw": "Craig DL, Moon H, Fedele F, Lennon DT, Van Straaten B et al.",
+      "year": 2024,
+      "venue_raw": "Physical Review X, 14(1)",
+      "doi_or_url": null,
+      "citation_raw": "Bridging the Reality Gap in Quantum Devices with Physics-Aware Machine Learning\nCraig DL, Moon H, Fedele F, Lennon DT, Van Straaten B et al. (2024), Physical Review X, 14(1)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Information Flows in Nanomachines",
+      "authors_raw": "Parrondo JMR, Tabanera-Bravo J, Fedele F & Ares N",
+      "year": 2024,
+      "venue_raw": "1-31",
+      "doi_or_url": null,
+      "citation_raw": "Information Flows in Nanomachines\nParrondo JMR, Tabanera-Bravo J, Fedele F & Ares N (2024), 1-31",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Identifying Pauli spin blockade using deep learning",
+      "authors_raw": "Schuff J, Lennon D, Geyer S, Craig D, Fedele F et al.",
+      "year": 2023,
+      "venue_raw": "Quantum, 7",
+      "doi_or_url": null,
+      "citation_raw": "Identifying Pauli spin blockade using deep learning\nSchuff J, Lennon D, Geyer S, Craig D, Fedele F et al. (2023), Quantum, 7",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Probing quantum devices with radio-frequency reflectometry",
+      "authors_raw": "Vigneau F, Fedele F, Chatterjee A, Reilly D, Kuemmeth F et al.",
+      "year": 2023,
+      "venue_raw": "Applied Physics Reviews, 10(2)",
+      "doi_or_url": null,
+      "citation_raw": "Probing quantum devices with radio-frequency reflectometry\nVigneau F, Fedele F, Chatterjee A, Reilly D, Kuemmeth F et al. (2023), Applied Physics Reviews, 10(2)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Learning quantum systems",
+      "authors_raw": "Gebhart V, Santagati R, Gentile AA, Gauger EM, Craig D et al.",
+      "year": 2023,
+      "venue_raw": "Nature Reviews Physics, 5(3), 141-156",
+      "doi_or_url": null,
+      "citation_raw": "Learning quantum systems\nGebhart V, Santagati R, Gentile AA, Gauger EM, Craig D et al. (2023), Nature Reviews Physics, 5(3), 141-156",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Ultrastrong coupling between electron tunneling and mechanical motion",
+      "authors_raw": "Vigneau F, Monsel J, Tabanera J, Aggarwal K, Bresque L et al.",
+      "year": 2022,
+      "venue_raw": "Physical Review Research, 4(4)",
+      "doi_or_url": null,
+      "citation_raw": "Ultrastrong coupling between electron tunneling and mechanical motion\nVigneau F, Monsel J, Tabanera J, Aggarwal K, Bresque L et al. (2022), Physical Review Research, 4(4)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "All rf-based tuning algorithm for quantum devices using machine learning",
+      "authors_raw": "van Straaten B, Fedele F, Vigneau F, Hickie J, Jirovec D et al.",
+      "year": 2022,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "All rf-based tuning algorithm for quantum devices using machine learning\nvan Straaten B, Fedele F, Vigneau F, Hickie J, Jirovec D et al. (2022)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Deep Reinforcement Learning for Efficient Measurement of Quantum Devices",
+      "authors_raw": "Nguyen V, Orbell SB, Lennon DT, Moon H, Vigneau F et al.",
+      "year": 2020,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "Deep Reinforcement Learning for Efficient Measurement of Quantum Devices\nNguyen V, Orbell SB, Lennon DT, Moon H, Vigneau F et al. (2020)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Machine learning enables completely automatic tuning of a quantum device faster than human experts",
+      "authors_raw": "MOON H, Lennon DT, Kirkpatrick J, Esbroeck NMV, Camenzind L et al.",
+      "year": 2020,
+      "venue_raw": "Nature Communications",
+      "doi_or_url": null,
+      "citation_raw": "Machine learning enables completely automatic tuning of a quantum device faster than human experts\nMOON H, Lennon DT, Kirkpatrick J, Esbroeck NMV, Camenzind L et al. (2020), Nature Communications",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Radio-frequency reflectometry of a quantum dot using an ultra-low-noise SQUID amplifier",
+      "authors_raw": "Schupp FJ, Ares N, Mavalankar A, Griffiths J, Jones GAC et al.",
+      "year": 2020,
+      "venue_raw": "https://aip.scitation.org/doi/pdf/10.1063/5.0005886",
+      "doi_or_url": null,
+      "citation_raw": "Radio-frequency reflectometry of a quantum dot using an ultra-low-noise SQUID amplifier\nSchupp FJ, Ares N, Mavalankar A, Griffiths J, Jones GAC et al. (2020), https://aip.scitation.org/doi/pdf/10.1063/5.0005886",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Quantum device fine-tuning using unsupervised embedding learning",
+      "authors_raw": "van Esbroeck NM, Lennon DT, Moon H, Nguyen V, Vigneau F et al.",
+      "year": 2020,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "Quantum device fine-tuning using unsupervised embedding learning\nvan Esbroeck NM, Lennon DT, Moon H, Nguyen V, Vigneau F et al. (2020)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Publisher Correction: Efficiently measuring a quantum device using machine learning",
+      "authors_raw": "Lennon DT, Moon H, Camenzind LC, Zumbühl DM, Yu L et al.",
+      "year": 2019,
+      "venue_raw": "npj Quantum Information(1)",
+      "doi_or_url": null,
+      "citation_raw": "Publisher Correction: Efficiently measuring a quantum device using machine learning\nLennon DT, Moon H, Camenzind LC, Zumbühl DM, Yu L et al. (2019), npj Quantum Information(1)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Measuring carbon nanotube vibrations using a single-electron transistor as a fast linear amplifier",
+      "authors_raw": "Wen Y, Ares N, Pei T, Briggs GAD & Laird EA",
+      "year": 2018,
+      "venue_raw": "APPLIED PHYSICS LETTERS, 113(15)",
+      "doi_or_url": null,
+      "citation_raw": "Measuring carbon nanotube vibrations using a single-electron transistor as a fast linear amplifier\nWen Y, Ares N, Pei T, Briggs GAD & Laird EA (2018), APPLIED PHYSICS LETTERS, 113(15)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Efficiently measuring a quantum device using machine learning",
+      "authors_raw": "Lennon DT, Moon H, Camenzind LC, Yu L, Zumbühl DM et al.",
+      "year": 2018,
+      "venue_raw": null,
+      "doi_or_url": null,
+      "citation_raw": "Efficiently measuring a quantum device using machine learning\nLennon DT, Moon H, Camenzind LC, Yu L, Zumbühl DM et al. (2018)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Displacemon Electromechanics: How to Detect Quantum Interference in a Nanomechanical Resonator",
+      "authors_raw": "Khosla KE, Vanner MR, Ares N & Laird EA",
+      "year": 2018,
+      "venue_raw": "PHYSICAL REVIEW X, 8(2)",
+      "doi_or_url": null,
+      "citation_raw": "Displacemon Electromechanics: How to Detect Quantum Interference in a Nanomechanical Resonator\nKhosla KE, Vanner MR, Ares N & Laird EA (2018), PHYSICAL REVIEW X, 8(2)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Strong coupling of microwave photons to antiferromagnetic fluctuations in an organic magnet",
+      "authors_raw": "Mergenthaler M, Liu J, Le Roy J, Ares N, Thompson A et al.",
+      "year": 2017,
+      "venue_raw": "Physical Review Letters, 119(14), 147701",
+      "doi_or_url": null,
+      "citation_raw": "Strong coupling of microwave photons to antiferromagnetic fluctuations in an organic magnet\nMergenthaler M, Liu J, Le Roy J, Ares N, Thompson A et al. (2017), Physical Review Letters, 119(14), 147701",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Hyperfine and spin-orbit coupling effects on decay of spin-valley states in a carbon nanotube",
+      "authors_raw": "Pei T, Palyi A, Mergenthaler M, Ares N, Mavalankar A et al.",
+      "year": 2017,
+      "venue_raw": "Physical Review Letters, 118(17)",
+      "doi_or_url": null,
+      "citation_raw": "Hyperfine and spin-orbit coupling effects on decay of spin-valley states in a carbon nanotube\nPei T, Palyi A, Mergenthaler M, Ares N, Mavalankar A et al. (2017), Physical Review Letters, 118(17)",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Resonant Optomechanics with a vibrating carbon nanotube and a radio-frequency cavity",
+      "authors_raw": "Ares N, Laird EA, Briggs GAD, Warner JH, Pei TP et al.",
+      "year": 2016,
+      "venue_raw": "Physical Review Letters, 117(17), 1-5",
+      "doi_or_url": null,
+      "citation_raw": "Resonant Optomechanics with a vibrating carbon nanotube and a radio-frequency cavity\nAres N, Laird EA, Briggs GAD, Warner JH, Pei TP et al. (2016), Physical Review Letters, 117(17), 1-5",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Sensitive radio-frequency measurements of a quantum dot by tuning to perfect impedance matching",
+      "authors_raw": "Laird E, Ares N, Schupp FJ, Mavalankar A, Rogers GIM et al.",
+      "year": 2016,
+      "venue_raw": "Physical Review Applied, 5, 034011",
+      "doi_or_url": null,
+      "citation_raw": "Sensitive radio-frequency measurements of a quantum dot by tuning to perfect impedance matching\nLaird E, Ares N, Schupp FJ, Mavalankar A, Rogers GIM et al. (2016), Physical Review Applied, 5, 034011",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "SiGe quantum dots for fast hole spin Rabi oscillations",
+      "authors_raw": "Ares N, Katsaros G, Golovach VN, Zhang JJ, Prager A et al.",
+      "year": 2013,
+      "venue_raw": "Applied Physics Letters, 103(26), 263113",
+      "doi_or_url": null,
+      "citation_raw": "SiGe quantum dots for fast hole spin Rabi oscillations\nAres N, Katsaros G, Golovach VN, Zhang JJ, Prager A et al. (2013), Applied Physics Letters, 103(26), 263113",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Nature of Tunable Hole g Factors in Quantum Dots",
+      "authors_raw": "Ares N, Golovach VN, Katsaros G, Stoffel M, Fournel F et al.",
+      "year": 2013,
+      "venue_raw": "Physical Review Letters, 110(4), 046602",
+      "doi_or_url": null,
+      "citation_raw": "Nature of Tunable Hole g Factors in Quantum Dots\nAres N, Golovach VN, Katsaros G, Stoffel M, Fournel F et al. (2013), Physical Review Letters, 110(4), 046602",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Observation of Spin-Selective Tunneling in SiGe Nanocrystals",
+      "authors_raw": "Katsaros G, Golovach VN, Spathis P, Ares N, Stoffel M et al.",
+      "year": 2011,
+      "venue_raw": "Physical Review Letters, 107(24), 246601",
+      "doi_or_url": null,
+      "citation_raw": "Observation of Spin-Selective Tunneling in SiGe Nanocrystals\nKatsaros G, Golovach VN, Spathis P, Ares N, Stoffel M et al. (2011), Physical Review Letters, 107(24), 246601",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Universal Response of Quantum Systems with Chaotic Dynamics",
+      "authors_raw": "Wisniacki DA, Ares N & Vergini EG",
+      "year": 2010,
+      "venue_raw": "Physical Review Letters, 104(25), 254101",
+      "doi_or_url": null,
+      "citation_raw": "Universal Response of Quantum Systems with Chaotic Dynamics\nWisniacki DA, Ares N & Vergini EG (2010), Physical Review Letters, 104(25), 254101",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    },
+    {
+      "title": "Loschmidt echo and the local density of states",
+      "authors_raw": "Ares N & Wisniacki DA",
+      "year": 2009,
+      "venue_raw": "Physical Review E, 80(4), 046216",
+      "doi_or_url": null,
+      "citation_raw": "Loschmidt echo and the local density of states\nAres N & Wisniacki DA (2009), Physical Review E, 80(4), 046216",
+      "source_url": "https://eng.ox.ac.uk/publications?personId=11987",
+      "publication_status_raw": null
+    }
+  ]
+}

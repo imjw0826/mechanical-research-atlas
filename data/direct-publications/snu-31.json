@@ -1,0 +1,367 @@
+{
+  "university": "Seoul National University",
+  "university_key": "snu",
+  "pi": "차석원",
+  "pi_en": "Cha, Suk Won",
+  "lab_name": "재생 에너지 변환 실험실",
+  "lab_url": "https://recl.snu.ac.kr/",
+  "publication_urls": [
+    "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/",
+    "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 2개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Nanostructured thin film SrCo0. 8Nb0. 1Ta0. 1O3-δ cathode for low-temperature solid oxide fuel cells",
+      "year": 2024,
+      "citation_raw": "RYU, Sangbong, et al. Nanostructured thin film SrCo0. 8Nb0. 1Ta0. 1O3-δ cathode for low-temperature solid oxide fuel cells. International Journal of Hydrogen Energy, 2024.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Improved Reversibility of Thin-Film Solid Oxide Cells at 500° C by Tailoring Sputtering Processes for Depositing Yttria-Stabilized Zirconia Electrolyte",
+      "year": 2024,
+      "citation_raw": "LEE, Sanghoon, et al. Improved Reversibility of Thin-Film Solid Oxide Cells at 500° C by Tailoring Sputtering Processes for Depositing Yttria-Stabilized Zirconia Electrolyte. ACS Applied Materials & Interfaces, 2024, 16.29: 37874-37884.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Corrosion behavior of Ta and TiN double-layer-coated SUS316L for PEMFC bipolar plates using plasma-enhanced atomic layer deposition and magnetron sputtering",
+      "year": 2024,
+      "citation_raw": "JANG, Yujae, et al. Corrosion behavior of Ta and TiN double-layer-coated SUS316L for PEMFC bipolar plates using plasma-enhanced atomic layer deposition and magnetron sputtering. Journal of Alloys and Compounds, 2024, 977: 173379.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Impact of yttria-stabilized zirconia contents in nickel cermet anodes for intermediate temperature-operated syngas-fueled thin film solid oxide fuel cells",
+      "year": 2024,
+      "citation_raw": "GIL, Daniel, et al. Impact of yttria-stabilized zirconia contents in nickel cermet anodes for intermediate temperature-operated syngas-fueled thin film solid oxide fuel cells. International Journal of Hydrogen Energy, 2024, 57: 1408-1418.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Highly active and stable nanocomposite anode for solid oxide fuel cells on non-conductive substrate",
+      "year": 2023,
+      "citation_raw": "KO, Suhyuk, et al. Highly active and stable nanocomposite anode for solid oxide fuel cells on non-conductive substrate. Journal of Alloys and Compounds, 2023, 968: 172046.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Analysis of solid oxide fuel cell hybrid power system in marine application for CO2 reduction",
+      "year": 2023,
+      "citation_raw": "LEE, Jung Il; YOON, Byoung Young; CHA, Suk Won. Analysis of solid oxide fuel cell hybrid power system in marine application for CO2 reduction. Energy Reports, 2023, 9: 3072-3081.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Nanocrystal engineering of thin-film Yttria-stabilized zirconia electrolytes for low-temperature solid-oxide fuel cells",
+      "year": 2023,
+      "citation_raw": "RYU, Sangbong, et al. Nanocrystal engineering of thin-film Yttria-stabilized zirconia electrolytes for low-temperature solid-oxide fuel cells. ACS applied materials & interfaces, 2023, 15.36: 42659-42666.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Pre-diagnosis of flooding and drying in proton exchange membrane fuel cells by bagging ensemble deep learning models using long short-term memory and convolutional neural networks",
+      "year": 2023,
+      "citation_raw": "KIM, Kyunghyun, et al. Pre-diagnosis of flooding and drying in proton exchange membrane fuel cells by bagging ensemble deep learning models using long short-term memory and convolutional neural networks. Energy, 2023, 266: 126441.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "A self-crystallized nanofibrous Ni-GDC anode by magnetron sputtering for low-temperature solid oxide fuel cells",
+      "year": 2023,
+      "citation_raw": "RYU, Sangbong, et al. A self-crystallized nanofibrous Ni-GDC anode by magnetron sputtering for low-temperature solid oxide fuel cells. ACS applied materials & interfaces, 2023, 15.9: 11845-11852.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Effect of Ni–GDC anode thickness by Co-sputtering on the high-performance thin film solid oxide fuel cells on a nanoporous substrate for low-temperature operation",
+      "year": 2023,
+      "citation_raw": "LEE, Myung Seok, et al. Effect of Ni–GDC anode thickness by Co-sputtering on the high-performance thin film solid oxide fuel cells on a nanoporous substrate for low-temperature operation. Journal of Power Sources, 2023, 555: 232376.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "First principles study on li metallic phase nucleation at grain boundaries in a lithium lanthanum titanium oxide (llto) solid electrolyte",
+      "year": 2023,
+      "citation_raw": "KIM, Hyungjun, et al. First principles study on li metallic phase nucleation at grain boundaries in a lithium lanthanum titanium oxide (llto) solid electrolyte. Journal of Materials Chemistry A, 2023, 11.6: 2889-2898.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Surface impregnated copper influence on the sunlight-assisted photocatalysis of zinc oxide nanostructures",
+      "year": 2022,
+      "citation_raw": "VIVEK, S., et al. Surface impregnated copper influence on the sunlight-assisted photocatalysis of zinc oxide nanostructures. Journal of Materials Science: Materials in Electronics, 2022, 33.25: 20447-20459.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Tailoring 3D structured nanofibrous nickel/gadolinium-doped ceria anodes for high-performance thin-film solid oxide fuel cells",
+      "year": 2022,
+      "citation_raw": "CHOI, In Won, et al. Tailoring 3D structured nanofibrous nickel/gadolinium-doped ceria anodes for high-performance thin-film solid oxide fuel cells. Journal of Power Sources, 2022, 531: 231320.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "A review of optimal energy management strategies using machine learning techniques for hybrid electric vehicles",
+      "year": 2021,
+      "citation_raw": "SONG, Changhee, et al. A review of optimal energy management strategies using machine learning techniques for hybrid electric vehicles. International Journal of Automotive Technology, 2021, 22: 1437-1452.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Multiple sound sensors and fusion in modern CNN-based machine state prediction",
+      "year": 2021,
+      "citation_raw": "KIM, Eunseob, et al. Multiple sound sensors and fusion in modern CNN-based machine state prediction. In: International manufacturing science and engineering conference. American Society of Mechanical Engineers, 2021. p. V001T05A017.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Energy management strategy of fuel cell electric vehicles using model-based reinforcement learning with data-driven model update",
+      "year": 2021,
+      "citation_raw": "LEE, Heeyun; CHA, Suk Won. Energy management strategy of fuel cell electric vehicles using model-based reinforcement learning with data-driven model update. IEEE Access, 2021, 9: 59244-59254.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Model based automated calibration for shift control of automatic transmission",
+      "year": 2021,
+      "citation_raw": "LEE, Heeyun, et al. Model based automated calibration for shift control of automatic transmission. International Journal of Automotive Technology, 2021, 22: 269-280.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Validation of defect association energy on modulating oxygen ionic conductivity in low temperature solid oxide fuel Cell",
+      "year": 2021,
+      "citation_raw": "PANDIYAN, Arunkumar, et al. Erratum to “Validation of defect association energy on modulating oxygen ionic conductivity in low temperature solid oxide fuel Cell”[J. Power sources 480 (2020) 229106](Journal of Power Sources (2020) 480,(S0378775320314014),(10.1016/j. jpowsour. 2020.229106)). Journal of Power Sources, 2021, 484: 229338.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Validation of defect association energy on modulating oxygen ionic conductivity in low temperature solid oxide fuel Cell",
+      "year": 2021,
+      "citation_raw": "PANDIYAN, Arunkumar, et al. Erratum to “Validation of defect association energy on modulating oxygen ionic conductivity in low temperature solid oxide fuel Cell”[J. Power sources 480 (2020) 229106](Journal of Power Sources (2020) 480,(S0378775320314014),(10.1016/j. jpowsour. 2020.229106)). Journal of Power Sources, 2021, 484: 229338. YI, Hyeon-Seop; CHA, Sukwon. Optimal energy management of the electric excavator using super capacitor. International Journal of Precision Engineering and Manufacturing-Green Technology, 2021, 8.1: 151-164.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Nanoporous nickel thin film anode optimization for low-temperature solid oxide fuel cells",
+      "year": 2021,
+      "citation_raw": "LEE, Myung Seok, et al. Nanoporous nickel thin film anode optimization for low-temperature solid oxide fuel cells. International Journal of Hydrogen Energy, 2021, 46.73: 36445-36453.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Robust PV-BESS scheduling for a grid with incentive for forecast accuracy",
+      "year": 2021,
+      "citation_raw": "CHOI, Jongwoo, et al. Robust PV-BESS scheduling for a grid with incentive for forecast accuracy. IEEE Transactions on Sustainable Energy, 2021, 13.1: 567-578.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Validation of defect association energy on modulating oxygen ionic conductivity in low temperature solid oxide fuel cell",
+      "year": 2020,
+      "citation_raw": "PANDIYAN, Arunkumar, et al. Validation of defect association energy on modulating oxygen ionic conductivity in low temperature solid oxide fuel cell. Journal of Power Sources, 2020, 480: 229106.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Reinforcement learning based on equivalent consumption minimization strategy for optimal control of hybrid electric vehicles",
+      "year": 2020,
+      "citation_raw": "LEE, Heeyun; CHA, Suk Won. Reinforcement learning based on equivalent consumption minimization strategy for optimal control of hybrid electric vehicles. IEEE Access, 2020, 9: 860-871.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Scalable fabrication process of thin-film solid oxide fuel cells with an anode functional layer design and a sputtered electrolyte",
+      "year": 2020,
+      "citation_raw": "KANG, Sungmin, et al. Scalable fabrication process of thin-film solid oxide fuel cells with an anode functional layer design and a sputtered electrolyte. International Journal of Hydrogen Energy, 2020, 45.58: 33980-33992.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Enhanced performance of nanostructured thin film anode through Pt plasma enhanced atomic layer deposition for low temperature solid oxide fuel cells",
+      "year": 2020,
+      "citation_raw": "YU, Wonjong, et al. Enhanced performance of nanostructured thin film anode through Pt plasma enhanced atomic layer deposition for low temperature solid oxide fuel cells. International Journal of Hydrogen Energy, 2020, 45.57: 32816-32824.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Ultrathin sputtered platinum–gadolinium doped ceria cathodic interlayer for enhanced performance of low temperature solid oxide fuel cells",
+      "year": 2020,
+      "citation_raw": "JEONG, Wonyeop, et al. Ultrathin sputtered platinum–gadolinium doped ceria cathodic interlayer for enhanced performance of low temperature solid oxide fuel cells. International Journal of Hydrogen Energy, 2020, 45.56: 32442-32448.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Model-based reinforcement learning for eco-driving control of electric vehicles",
+      "year": 2020,
+      "citation_raw": "LEE, Heeyun; KIM, Namwook; CHA, Suk Won. Model-based reinforcement learning for eco-driving control of electric vehicles. IEEE Access, 2020, 8: 202886-202896.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Effects of microstructure of Ni anode on nanotemplate based low temperature solid oxide fuel cells",
+      "year": 2020,
+      "citation_raw": "YU, Wonjong, et al. Effects of microstructure of Ni anode on nanotemplate based low temperature solid oxide fuel cells. International Journal of Precision Engineering and Manufacturing, 2020, 21: 2199-2208.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Online data-driven energy management of a hybrid electric vehicle using model-based Q-learning",
+      "year": 2020,
+      "citation_raw": "LEE, Heeyun, et al. Online data-driven energy management of a hybrid electric vehicle using model-based Q-learning. IEEE Access, 2020, 8: 84444-84454.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Electrochemical study on the effect of catalytic current collecting layer on thin film La0. 6Sr0. 4Co0. 8Fe0. 2O3− δ (LSCF) cathode",
+      "year": 2020,
+      "citation_raw": "LEE, Sanghoon, et al. Electrochemical study on the effect of catalytic current collecting layer on thin film La0. 6Sr0. 4Co0. 8Fe0. 2O3− δ (LSCF) cathode. Applied Surface Science, 2020, 509: 145224.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Comparative analysis of energy management strategies for HEV: Dynamic programming and reinforcement learning",
+      "year": 2020,
+      "citation_raw": "LEE, Heeyun, et al. Comparative analysis of energy management strategies for HEV: Dynamic programming and reinforcement learning. IEEE Access, 2020, 8: 67112-67123.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Geometrical scale dependency of thin film solid oxide fuel cells",
+      "year": 2020,
+      "citation_raw": "LEE, Yeageun, et al. Geometrical scale dependency of thin film solid oxide fuel cells. Modern Physics Letters B, 2020, 34.07n09: 2040038.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Cluster Analysis to preprocess the building power usage data without domain knowledge",
+      "year": 2020,
+      "citation_raw": "CHOI, Jongwoo; LEE, Il-Woo; CHA, Suk-Won. Cluster Analysis to preprocess the building power usage data without domain knowledge. Journal of Electrical Engineering & Technology, 2020, 15.2: 685-692.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "Effects of nanoscale PEALD YSZ interlayer for AAO based thin film solid oxide fuel cells",
+      "year": 2020,
+      "citation_raw": "CHO, Gu Young, et al. Effects of nanoscale PEALD YSZ interlayer for AAO based thin film solid oxide fuel cells. International Journal of Precision Engineering and Manufacturing-Green Technology, 2020, 7: 423-430.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "high-performance thin-film solid oxide fuel cells with tailored nano-column structures of a sputtered Ni anode",
+      "year": 2020,
+      "citation_raw": "YU, Wonjong, et al. Low-temperature, high-performance thin-film solid oxide fuel cells with tailored nano-column structures of a sputtered Ni anode. Journal of Materials Chemistry A, 2020, 8.41: 21668-21679.",
+      "source_url": "https://recl.snu.ac.kr/%eb%85%bc%eb%ac%b8/"
+    },
+    {
+      "title": "인공신경망을 이용한 연료전지 SOH 추정. 한국자동차공학회 추계학술대회 및 전시회",
+      "year": 2023,
+      "citation_raw": "양현준, et al. 인공신경망을 이용한 연료전지 SOH 추정. 한국자동차공학회 추계학술대회 및 전시회, 2023, 109-109.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "LSTM-EKF 를 이용한 고분자 전해질 연료전지의 열화 예측. 한국자동차공학회 추계학술대회 및 전시회",
+      "year": 2023,
+      "citation_raw": "이광언, et al. LSTM-EKF 를 이용한 고분자 전해질 연료전지의 열화 예측. 한국자동차공학회 추계학술대회 및 전시회, 2023, 107-107.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Nickel-based Nanocomposite Anode via Hysteresis Effect of Reactive Sputtering for Low-temperature Solid Oxide Fuel Cells",
+      "year": 2023,
+      "citation_raw": "KO, S.; JEONG, W.; CHA, S. W. Nickel-based Nanocomposite Anode via Hysteresis Effect of Reactive Sputtering for Low-temperature Solid Oxide Fuel Cells. 한국정밀공학회 학술발표대회 논문집, 2023, 111-111.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "강화 학습을 이용한 연료 전지 차량의 BOP 제어. 한국자동차공학회 춘계학술대회",
+      "year": 2023,
+      "citation_raw": "양현준, et al. 강화 학습을 이용한 연료 전지 차량의 BOP 제어. 한국자동차공학회 춘계학술대회, 2023, 803-803.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Fabrication of Thin Film Yttria-doped Barium Zirconate (BZY) Electrolyte Material via Reactive Co-sputtering Process",
+      "year": 2023,
+      "citation_raw": "KO, S. H., et al. Fabrication of Thin Film Yttria-doped Barium Zirconate (BZY) Electrolyte Material via Reactive Co-sputtering Process. 한국정밀공학회 학술발표대회 논문집, 2023, 177-177.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Optimizing Performance and Analyzing Degradation Behavior of Intermediate Temperature Solid Oxide Fuel Cells by Varying Ni/YSZ Anode Composition under Syngas-fueled Conditions",
+      "year": 2023,
+      "citation_raw": "JEONG, I. Y., et al. Optimizing Performance and Analyzing Degradation Behavior of Intermediate Temperature Solid Oxide Fuel Cells by Varying Ni/YSZ Anode Composition under Syngas-fueled Conditions. 한국정밀공학회 학술발표대회 논문집, 2023, 163-163.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Fabrication of AAO-Based Four-Stack Thin Film Solid Oxide Fuel Cells for the Low-Temperature Operation Using Sputtering Method",
+      "year": 2022,
+      "citation_raw": "KIM, Yang Jae; CHA, Suk Won. Fabrication of AAO-Based Four-Stack Thin Film Solid Oxide Fuel Cells for the Low-Temperature Operation Using Sputtering Method. In: Electrochemical Society Meeting Abstracts 242. The Electrochemical Society, Inc., 2022. p. 1772-1772.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Manipulation of Anode Nanostructure and Composition By Glancing Angle Deposition for Thin-Film Solid Oxide Fuel Cells",
+      "year": 2022,
+      "citation_raw": "HWANG, Jaewon; CHA, Suk Won. Manipulation of Anode Nanostructure and Composition By Glancing Angle Deposition for Thin-Film Solid Oxide Fuel Cells. In: Electrochemical Society Meeting Abstracts 242. The Electrochemical Society, Inc., 2022. p. 1768-1768.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Effect of Anode Thickness on Thin-Film Solid Oxide Fuel Cells Deposited on Nanoporous Substrates",
+      "year": 2022,
+      "citation_raw": "LEE, Myung Seok, et al. Effect of Anode Thickness on Thin-Film Solid Oxide Fuel Cells Deposited on Nanoporous Substrates. In: Electrochemical Society Meeting Abstracts 242. The Electrochemical Society, Inc., 2022. p. 1739-1739.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Investigation of the Effect of Deformation on the Life Time of Metal-air Battery",
+      "year": 2022,
+      "citation_raw": "JANG, Y. J.; CHANG, I.; CHA, S. W. Investigation of the Effect of Deformation on the Life Time of Metal-air Battery. 한국정밀공학회 학술발표대회 논문집, 2022, 130-130.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Degradation Behavior of Intermediate Temperature Carbon Syngas-fueled Solid Oxide Fuel Cells under Various Ni/YSZ Anode Compositions",
+      "year": 2022,
+      "citation_raw": "JEONG, I., et al. Degradation Behavior of Intermediate Temperature Carbon Syngas-fueled Solid Oxide Fuel Cells under Various Ni/YSZ Anode Compositions. 한국정밀공학회 학술발표대회 논문집, 2022, 121-121.KO, S. H., et al. Operating Characteristics of AAO-based Thin Film Solid Oxide Fuel Cells (TF-SOFCs) according to the Ratio of Reactive Co-sputtered NiO-GDC Anode Material. 한국정밀공학회 학술발표대회 논문집, 2022, 131-131.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Operation Characteristics of SOFC for Smart Farms according to Syngas Ratio",
+      "year": 2022,
+      "citation_raw": "GIL, D., et al. Operation Characteristics of SOFC for Smart Farms according to Syngas Ratio. 한국정밀공학회 학술발표대회 논문집, 2022, 134-134.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Development of High Corrosion Resistive Stainless Steel Bipolar Plate for Polymer Membrane Electrolyte Fuel Cell through Ta/TiN/Ta Thin Film Process",
+      "year": 2022,
+      "citation_raw": "JANG, Y. J., et al. Development of High Corrosion Resistive Stainless Steel Bipolar Plate for Polymer Membrane Electrolyte Fuel Cell through Ta/TiN/Ta Thin Film Process. 한국정밀공학회 학술발표대회 논문집, 2022, 151-151.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Optimization of Ni-YSZ Anode Composition for Syngas Solid Oxide Fuel Cell for Smart Farm System",
+      "year": 2022,
+      "citation_raw": "JEONG, I. Y., et al. Optimization of Ni-YSZ Anode Composition for Syngas Solid Oxide Fuel Cell for Smart Farm System. 한국정밀공학회 학술발표대회 논문집, 2022, 137-137.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Fabrication of Ni-GDC Anode with Optimal Composition by Co-sputtering Method for Solid Oxide Fuel Cells",
+      "year": 2022,
+      "citation_raw": "HWANG, Jaewon; RYU, Sangbong; CHA, Suk Won. Fabrication of Ni-GDC Anode with Optimal Composition by Co-sputtering Method for Solid Oxide Fuel Cells. 대한기계학회 춘추학술대회, 2022, 83-83.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Development of Continuous Manufacturing Process for High-performance Thin Film Ni-YSZ Anode and Anode Functional Layer by Co-sputtering Method for Solid Oxide Fuel Cells",
+      "year": 2021,
+      "citation_raw": "KIM, Y. J.; LEE, S.; CHA, S. W. Development of Continuous Manufacturing Process for High-performance Thin Film Ni-YSZ Anode and Anode Functional Layer by Co-sputtering Method for Solid Oxide Fuel Cells. 한국정밀공학회 학술발표대회 논문집, 2021, 130-130.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "S. W. A Study on the Characteristics of Thin Film Solid Oxide Fuel Cells according to the Anode Thickness on a Nanoporous Substrate",
+      "year": 2021,
+      "citation_raw": "LEE, M. S.; CHA, S. W. A Study on the Characteristics of Thin Film Solid Oxide Fuel Cells according to the Anode Thickness on a Nanoporous Substrate. 한국정밀공학회 학술발표대회 논문집, 2021, 125-125.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Co-sputtering of Ni-GDC Anode for Thin-film SOFCs Operating on Nearly Dry Methane at Low Temperature",
+      "year": 2021,
+      "citation_raw": "CHOI, I. W., et al. Co-sputtering of Ni-GDC Anode for Thin-film SOFCs Operating on Nearly Dry Methane at Low Temperature. 한국정밀공학회 학술발표대회 논문집, 2021, 126-126.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Fabrication of High-stability Ni-GDC Anode by Glancing Angle Sputter Deposition for Thin-film Solid Oxide Fuel Cells",
+      "year": 2021,
+      "citation_raw": "HWANG, Jaewon; CHA, Suk Won. Fabrication of High-stability Ni-GDC Anode by Glancing Angle Sputter Deposition for Thin-film Solid Oxide Fuel Cells. 한국신· 재생에너지학회 학술대회 초록집, 2021, 91-91.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Optimal Deposition Pressure of Yttria-stabilized Zirconia (YSZ) Sputtering for Low-temperature Thin Film SOFC. 한국정밀공학회 학술발표대회 논문집",
+      "year": 2021,
+      "citation_raw": "KIM, Y. J.; RYU, S. B.; CHA, S. W. Optimal Deposition Pressure of Yttria-stabilized Zirconia (YSZ) Sputtering for Low-temperature Thin Film SOFC. 한국정밀공학회 학술발표대회 논문집, 2021, 154-154.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Optimization of current collection of light-PEMFC polymer bipolar plate",
+      "year": 2020,
+      "citation_raw": "JANG, Gyeeun, et al. Optimization of current collection of light-PEMFC polymer bipolar plate. 한국생산제조학회 학술발표대회 논문집, 2020, 66-66.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Optimization of Nanoporous Substrates and Nickel Thin Film Anode for Low-temperature Solid Oxide Fuel Cells",
+      "year": 2020,
+      "citation_raw": "LEE, M. S., et al. Optimization of Nanoporous Substrates and Nickel Thin Film Anode for Low-temperature Solid Oxide Fuel Cells. 한국정밀공학회 학술발표대회 논문집, 2020, 149-149.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    },
+    {
+      "title": "Preparation of SrCo 0.8 Nb 0.1 Ta 0.1 O 3-δ as a Cathode for Solid Oxide Fuel Cells by Pulsed Laser Deposition",
+      "year": 2020,
+      "citation_raw": "류상봉, et al. Preparation of SrCo 0.8 Nb 0.1 Ta 0.1 O 3-δ as a Cathode for Solid Oxide Fuel Cells by Pulsed Laser Deposition. Journal of the Korean Society for Precision Engineering, 2020, 37.1: 83-87.",
+      "source_url": "https://recl.snu.ac.kr/%ec%9d%bc%eb%b0%98-%ea%b2%8c%ec%8b%9c%ed%8c%90/"
+    }
+  ]
+}

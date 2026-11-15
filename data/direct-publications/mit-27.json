@@ -1,0 +1,69 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Tal Cohen",
+  "lab_name": null,
+  "lab_url": "https://tal-cohen.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/talco@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/talco@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://tal-cohen.wixsite.com/website"
+    }
+  ],
+  "attempted_urls": [
+    "https://tal-cohen.mit.edu/",
+    "https://tal-cohen.mit.edu/publications"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "Publications",
+      "url": "https://tal-cohen.mit.edu/publications"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Architected squirt-flow materials for energy dissipation, J, Mech, Phys, Solids",
+      "year": 2017,
+      "citation_raw": "Cohen, T., Kurzeja, P. and Bertoldi, K., 2017. Architected squirt-flow materials for energy dissipation. J. Mech. Phys. Solids. 109, 22-33.",
+      "source_url": "https://meche.mit.edu/people/faculty/talco@mit.edu"
+    },
+    {
+      "title": "Fringe instability in constrained soft elastic layers, Soft Matter",
+      "year": 2016,
+      "citation_raw": "Lin, S., Cohen, T., Zhang, T., Yuk, H., Abeyaratne, R. and Zhao, X., 2016. Fringe instability in constrained soft elastic layers. Soft Matter, 12(43), pp.8899-8906.",
+      "source_url": "https://meche.mit.edu/people/faculty/talco@mit.edu"
+    },
+    {
+      "title": "Steady accretion of an elastic body on a hard spherical surface and the notion of a four-dimensional reference space, J, Mech, Phys, Solids",
+      "year": 2016,
+      "citation_raw": "Tomassetti, G., Cohen, T. and Abeyaratne, R., 2016. Steady accretion of an elastic body on a hard spherical surface and the notion of a four-dimensional reference space. J. Mech. Phys. Solids. 96, 333-352.",
+      "source_url": "https://meche.mit.edu/people/faculty/talco@mit.edu"
+    },
+    {
+      "title": "Dynamic Cavitation and Relaxation in Incompressible Nonlinear Viscoelastic Solids, Int, J, Solids Struct",
+      "year": 2015,
+      "citation_raw": "Cohen, T., and Molinari, A., 2015, Dynamic Cavitation and Relaxation in Incompressible Nonlinear Viscoelastic Solids. Int. J. Solids Struct., 69-70, 544 - 552.",
+      "source_url": "https://meche.mit.edu/people/faculty/talco@mit.edu"
+    },
+    {
+      "title": "Steady Shock Waves in Porous Plastic Solids, Int, J, Solids Struct",
+      "year": 2015,
+      "citation_raw": "Cohen, T., and Durban, D., 2015, Steady Shock Waves in Porous Plastic Solids. Int. J. Solids Struct., 71, 70-78.",
+      "source_url": "https://meche.mit.edu/people/faculty/talco@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ]
+}

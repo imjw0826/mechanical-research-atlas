@@ -1,0 +1,94 @@
+{
+  "updated_at": "2026-11-12T13:59:11.809Z",
+  "completed_batch_ids": [
+    [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  ],
+  "results": [
+    {
+      "i": 2,
+      "pi": "Boris Kozinsky",
+      "count": 0,
+      "status": "partial",
+      "stage": "full_site_attempted"
+    },
+    {
+      "i": 3,
+      "pi": "Michael P. Brenner",
+      "count": 171,
+      "status": "complete",
+      "stage": "full_site_attempted"
+    },
+    {
+      "i": 4,
+      "pi": "Petros Koumoutsakos",
+      "count": 366,
+      "status": "complete",
+      "stage": "full_site_attempted"
+    },
+    {
+      "i": 5,
+      "pi": "Zhiming Kuang",
+      "count": 98,
+      "status": "partial",
+      "stage": "full_site_attempted"
+    },
+    {
+      "i": 6,
+      "pi": "Jennifer Lewis",
+      "count": 234,
+      "status": "complete",
+      "stage": "full_site_attempted"
+    },
+    {
+      "i": 7,
+      "pi": "Maxim Prigozhin",
+      "count": 20,
+      "status": "complete",
+      "stage": "full_site_attempted"
+    },
+    {
+      "i": 8,
+      "pi": "Fiamma Straneo",
+      "count": 0,
+      "status": "partial",
+      "stage": null
+    },
+    {
+      "i": 9,
+      "pi": "Eli Tziperman",
+      "count": 194,
+      "status": "partial",
+      "stage": "full_site_attempted"
+    },
+    {
+      "i": 10,
+      "pi": "Robin Wordsworth",
+      "count": 99,
+      "status": "partial",
+      "stage": "full_site_attempted"
+    },
+    {
+      "i": 11,
+      "pi": "Joanna Aizenberg",
+      "count": 324,
+      "status": "complete",
+      "stage": "full_site_attempted"
+    }
+  ],
+  "eligible_total": 53,
+  "full_site_attempted": 9,
+  "remaining": 44
+}

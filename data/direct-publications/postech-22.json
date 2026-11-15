@@ -1,0 +1,29 @@
+{
+  "university": "POSTECH",
+  "university_key": "postech",
+  "pi": "임근배",
+  "lab_name": "나노 및 바이오멤스 연구실",
+  "lab_url": null,
+  "publication_urls": [],
+  "accessed_at": "2026-11-12T13:56:19.332Z",
+  "coverage_notes": [
+    "Attempted https://biomems.postech.ac.kr/web/ error Error: Selector \"body\" not found",
+    "Department profile linked BioMEMS hostname; actual destination redirects to old mechanical department website rather than lab publications. No papers extracted.",
+    "Audit: uncertain metadata left null rather than inferred; year only populated when a single distinct year occurs in citation block. Raw source preserved for further parsing. All records remain partial."
+  ],
+  "status": "partial",
+  "papers": [],
+  "investigation_stage": "full_site_attempted",
+  "source_page_manifest": [
+    {
+      "url": "https://me.postech.ac.kr/ko/page/professor16",
+      "capture_kind": "browser_snapshot",
+      "characters": 3431
+    },
+    {
+      "url": "https://biomems.postech.ac.kr/web/",
+      "capture_kind": "browser_snapshot",
+      "characters": 6262
+    }
+  ]
+}

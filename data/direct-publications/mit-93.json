@@ -1,0 +1,76 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "David Trumper",
+  "lab_name": null,
+  "lab_url": "https://pmc.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/trumper@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/trumper@mit.edu",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "https://pmc.mit.edu/"
+    }
+  ],
+  "attempted_urls": [
+    "https://pmc.mit.edu/",
+    "https://pmc.mit.edu/publications/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [
+    {
+      "text": "Publications",
+      "url": "https://pmc.mit.edu/publications/"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Homopolar Bearingless Slice Motors Driving Reluctance Rotors",
+      "year": 2018,
+      "citation_raw": "Noh, M., and Trumper, D.L., “Homopolar Bearingless Slice Motors Driving Reluctance Rotors,” 16th International Symposium on Magnetic Bearings, Beijing, China, August, 2018",
+      "source_url": "https://meche.mit.edu/people/faculty/trumper@mit.edu"
+    },
+    {
+      "title": "Implementation of themal-insulating and mixing elements in a concentrated solar power on demand system",
+      "year": 2017,
+      "citation_raw": "T. T. Hamer, L. Zhou, D. L. Trumper, V. Perez, A. Gil, A. H. Slocum, and N. Calvet, \"Implementation of themal-insulating and mixing elements in a concentrated solar power on demand system,\" SolarPACES 2017, Concentrated Solar Power and Chemical Energy Systems, September 26-29, 2017, Santiago de Chile, Chile",
+      "source_url": "https://meche.mit.edu/people/faculty/trumper@mit.edu"
+    },
+    {
+      "title": "Book chapter: Trumper, D.L",
+      "year": 2011,
+      "citation_raw": "Book chapter: Trumper, D.L., Hocken, R.J., Amin-Shahidi, D., Ljubicic, D., and Overcash, J., High Accuracy Atomic Force Microscope. In Control Technologies For Emerging Micro And Nanoscale Systems, Lecture Notes in Control and Information Sciences, 2011, Volume 413/2011, 17-46.",
+      "source_url": "https://meche.mit.edu/people/faculty/trumper@mit.edu"
+    },
+    {
+      "title": "High-Force, Linear Iron Core Fine-Tooth Motor",
+      "year": 2017,
+      "citation_raw": "Yoon, J-Y., and Trumper, D.L., “High-Force, Linear Iron Core Fine-Tooth Motor,” 11th International Symposium on Linear Drives for Industry Applications, Osaka Japan, September 6-8, 2017",
+      "source_url": "https://meche.mit.edu/people/faculty/trumper@mit.edu"
+    },
+    {
+      "title": "An origami-inspired design of a thermal mixing element within a concentrated solar power system",
+      "year": 2017,
+      "citation_raw": "T. T. Hamer, L. Zhou, D. L. Trumper, A. H. Slocum, and N. Calvet, \"An origami-inspired design of a thermal mixing element within a concentrated solar power system.\" In ASME 2017 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, American Society of Mechanical Engineers, 2017",
+      "source_url": "https://meche.mit.edu/people/faculty/trumper@mit.edu"
+    },
+    {
+      "title": "System and method for providing electromagnetic imaging through electroquasistatic sensing",
+      "year": 2016,
+      "citation_raw": "Trumper, D.L., Lang, J.H., Cannon, B.L., Zahn, M., “System and method for providing electromagnetic imaging through electroquasistatic sensing,” #9395317, July, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/trumper@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete.",
+    "Official profile heading records PI as David Trumper; original roster PI David L Trumper. Official source: https://meche.mit.edu/people/faculty/trumper@mit.edu"
+  ]
+}

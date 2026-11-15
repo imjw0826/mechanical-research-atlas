@@ -1,0 +1,192 @@
+=== https://www.sciencedirect.com/science/article/abs/pii/S0360319925059671
+Skip to main content
+Skip to article
+LeapSpace
+Journals & Books
+Help
+Search
+My account
+Sign in
+International Journal of Hydrogen Energy
+Date: 21 January 2026
+Article: 152964
+Volume: Volume 202
+View accessibility information
+Published by
+Research article
+Get rights and content
+Integrated geologic and socio-economic evaluation of potential underground hydrogen storage sites in the Los Angeles Basin
+Ben Littlejohn a
+, 
+Lluís Saló-Salgado a b
+, 
+Andreas Plesch a
+, John H. Shaw a
+Show more
+Cite
+Add to Mendeley
+Share
+10.1016/j.ijhydene.2025.152964
+Access through your organization
+Purchase PDF
+Integrated geologic and socio-economic evaluation of potential underground hydrogen storage sites in the Los Angeles Basin
+Article preview
+Recommended articles
+Cited by (1)
+Metrics
+Article preview
+Abstract
+Introduction
+Section snippets
+References (72)
+Highlights
+•
+AHP driven screening and ranking methodology for UHS suitability in the Los Angeles Basin.
+•
+Iterative approach explores the analysis’ sensitivity to inaccuracies in weight setting.
+•
+Methodology accounts for uncertainty and can be adapted to other applications.
+•
+Top ranked fields: El Segundo, Inglewood, Dominguez, Wilmington and Playa Del Rey.
+Abstract
+We present a cross-disciplinary approach to quantitatively evaluate the suitability of underground hydrogen storage (UHS) in hydrocarbon fields within the Los Angeles Basin, California. GIS mapping tools were applied to existing datasets from the California Geologic Energy Management Division, the U.S. Geoscience Information Network, and other open-sources to obtain quantitative measures of reservoir performance as well as infrastructure proximity and population density. We then applied the Analytic Hierarchy Process (AHP) in a three-tier hierarchy for this multi-criteria selection process. The AHP ranks each of the 67 subject fields in the basin against the study group according to performance in geologic, socioeconomic, and risk-driven criteria. Systematic pairwise comparisons across the complete set are used to derive weighted scores for UHS suitability, with weights informed from existing literature. The methodology results in comparative statements about relative reservoir suitability for UHS development and appears robust to uncertainties in weight setting. The method identifies the highest ranked fields as having large potential storage volumes, strong reservoir performance, and locations in more stable tectonic settings close to potential hydrogen production or transport infrastructure. In particular, El Segundo, Inglewood, Dominguez, Wilmington, and Playa Del Rey are identified as top performing candidates for UHS. The method, which is generally applicable and both computationally efficient and flexible, can be adjusted to consider alternative weighting of economic and environmental risk factors. This allows identifying top candidate fields for more specific reservoir engineering analysis of UHS suitability.
+Keywords
+Underground hydrogen storage; Analytic hierarchy process; Regional assessment; Site selection; Multi-criteria decision making; Los Angeles Basin
+Previous article in this issue
+Next article in this issue
+Introduction
+Global climate challenges and the threat they pose to modern societies have become central to both scientific and public discourse over the past few decades. A critical component in finding solutions to these challenges is addressing the oversized role carbon-heavy energy sources play in our current infrastructure [1], [2], [3], [4]. Following the 2021 United Nations Climate Change Conference (COP26), further climate goals were added with the EU collectively declaring that its energy mix will comprise of 55% renewable energy sources (RES) by 2050 [5]. The United States also pledged to reduce greenhouse gas emissions by 50%–52% below 2005 levels by 2030, with this target being part of a broader commitment to achieve net-zero emissions by 2050 [6]. In line with these goals, on October 13, 2023, it was announced that California would receive up to $1.2 billion from the US Department of Energy to accelerate the development and deployment of renewable hydrogen programs across the state [7]. As one of the largest residential and industrial energy markets in the world, using hydrogen to make a meaningful impact on the carbon emissions from energy and transport in the Los Angeles region requires large scale infrastructural investment [8].
+Currently the primary technological barriers for further adoption of RES in the global energy mix are storage limitations, atmospheric fluctuation in the environmental factors that determine renewable energy production, and changing energy demands that create mismatches in the supply–demand equation [2], [9], [10]. In hydrocarbon driven energy production, scaling up and down to match demand is well understood. However, RES requires complementary solutions to achieve the same flexibility [11], [12]. Currently, most large-scale energy storage is operated through rechargeable applications such as Pumped Hydroelectric Storage (PHS) and battery array storage, but the geographic restrictions of the former and the scale issues of the latter demand alternative solutions [13], [14]. UHS offers a way to provide complementary support to renewable energy systems and fill a role in the energy supply typically occupied by carbon emitting alternatives.
+Research into UHS in geological structures is currently focused on salt domes, saline aquifers, and depleted oil and gas fields [2], [15]. In full applications salt domes are the most common, with significant effort going into testing aquifers and oil and gas fields for UHS suitability [16], [17], [18], [19]. The advantage over current hydrogen storage methods in salt domes offered by aquifers and depleted oil and gas fields lies in the greatly increased scale of storage [20]. The economics of scale moves hydrogen as an energy storage method closer to the economic viability it needs to achieve to become a significant factor in decarbonizing the energy sector [21].
+Given the lithology and structural features present in the subsurface of the basin, coupled with the extensive geological data available from decades of oil and gas exploration, the Los Angeles basin appears to be uniquely suited for research into UHS development in its depleted oil and gas reservoirs [22]. The concept of a ‘storage play’ as related to the hydrocarbon industry term ‘petroleum play’[23] is used by Heinemann et al. [14] in the context of hydrogen storage to define a reservoir with suitable volume, porosity, permeability, seal and trap structure for safe hydrogen storage. This term is adopted throughout this study in the context of potential UHS plays.
+Existing screening techniques for prospective UHS plays are limited, especially considering evaluation on the basin scale. Hurtado et al. [19] explored a qualitative framework considering Health, Safety and Environment (HSE) risk factors, evaluating criteria on a scale from 2 to −2. An extensive selection of HSE risk factors were considered, including seal thickness, lithology, permeability and trapping mechanisms. These risk factors were grouped into categories like primary seals and trapping mechanisms. As part of the evaluation the level of certainty in a data source is also considered quantitatively, providing coefficients to the assigned scores. The methodology is then applied to two target reservoirs on the Iberian peninsula, identifying comparative differences between the two from their performance in each category. The paper emphasizes that HSE risks associated with UHS must be accurately estimated in order to provide decision-makers with the necessary tools to identify factors that may interfere with a project and to allow effective communication with public stakeholders.
+Harati et al. [24] suggest an evaluation of a reduced number of key criteria in a multi-criteria site selection methodology. They apply a combined AHP and PROMETHEE – a decision making structure utilizing preference functions – framework to consider geologic and economic factors for UHS in the UK. The study targeted only “gas fields”, hydrocarbon fields containing dry and/or wet gas. Gas condensate and gas cap-bearing oil fields were not considered, as were reservoirs with active aquifer support. In total, 71 total gas reservoirs were considered. Optimal values for assessed criteria are explored, such as net-to-gross ratio, porosity and permeability. The authors emphasize that final decisions on whether risk factors such as a faulted trap structure detract significantly from overall suitability must be determined in a thorough case-by-case analysis of the geomechanical characteristics of each site. Among the assessed criteria, the paper determined that maximum well deliverability rate was the most important factor in UHS site selection for depleted gas reservoirs, with the Cygnus field being the top candidate for UHS plays in the study group.
+Nemati et al. [25] present a Fuzzy-Delphi methodology to assign weights to the criteria umbrellas of Technical, Economics, HSE, and Social as well as the sub-criteria within. The authors extend the list of considered criteria to 18, including purely social factors such as social acceptance for a project and the local culture around a site. In their criteria weightings, legal restrictions were identified as the most important for site evaluation, outranking fluid flow aspects like reservoir permeability and porosity. The contribution was purely in the methodology and criteria rankings as the method was not applied to any specific reservoirs for evaluation. Instead the authors demonstrated the priority of factors that could be considered.
+Lewandowska-Śmierzchalska et al. [26] approach site selection from a multi-criteria decision making (MCDM) angle. They apply the Analytic Hierarchy Process to 6 selected geomechanical criteria in the case of salt or hydrocarbon deposits or 5 for aquifers. The paper assesses the validity of the AHP method and details the use of both qualitative and quantitative measures in its selection criteria. Additionally they explain and explore the 1–9 Saaty scale outlined in the foundational AHP paper [27]. Through the course of the study the authors demonstrate the efficacy of developed decision-making structures in ranking individual geological structures.
+Okoroafor et al. [28] discuss hydrogen’s role in the energy sector, alongside an extensive review of similar or related works in the UHS space. The study focuses on depleted reservoirs in Northern California for potential storage sites, outlining a three stage site selection workflow for prospective UHS plays: site screening, site ranking, and site characterization. The screening criteria cover three umbrella categories, storage and withdrawal optimization, risk and hydrogen loss minimization, and environment and economic considerations. These groupings outline minimum or maximum values for criteria beyond which the site is discarded for further consideration in UHS development. For site ranking the paper explores a qualitative ranking between 1–5 for each assessed criteria. Catchment buckets are delineated for values of a given criteria, and then used to assign qualitative scores to the entire study group. In their results, 35 reservoirs passed the stage 1 screening, with those being ranked according to seven key parameters. The paper highlights the need for current and accurate values for parameters when performing screening and ranking for potential UHS sites, and demonstrates the value of a numerical reservoir model in site evaluations.
+Other studies in related areas include examinations of screening criteria [17], GIS based analysis of salt caverns [29], regional applications of the AHP methodology [30], feasibility of hydrocarbon sites for UHS [31], and methodologies for identifying assessment criteria [32].
+Given the existing lithologies, geological structures, and its history of oil and gas exploration, the target region of the Los Angeles basin shown in Fig. 1 offers many unique opportunities and challenges [22]. The primary aim of the study is to develop a holistic evaluation framework for development of potential UHS plays in depleted hydrocarbon fields, using it to guide the initial site-selection phase of hydrogen energy development in the Los Angeles region. The data used in this project is primarily quantitative, and includes oil well logs, reservoir compendiums, technical papers and reports from the Los Angeles region published between 1974 and 2023 (see supplementary material for full sub-criteria spreadsheets). Our approach aims to integrate both site characteristics and uncertainty where datasets are incomplete to create a comparative ranking of the relative suitability each field holds for development as an UHS play. This is achieved by applying the Analytic Hierarchy process to the multi-criteria decision making problem posed by the extensive datasets, allowing us to generate a relative ranking for UHS suitability by reservoir. The conclusions from the application of the methodology provide valuable direction for further field specific research and infrastructural investment in the Los Angeles region and other similar sites worldwide.
+Organizational access
+Get full-text access by signing in with your organisation
+Access through your organization
+Other access options
+Purchase PDF
+Need help with access?
+Section snippets
+Methodology
+The methodology we adopted to select candidate fields 1 for UHS within the Los Angeles Basin is an application of the analytic hierarchy process (AHP) [27], [33]. We consider high-level geological and non-geological factors of reservoirs to create a ranking of their potential UHS suitability. The AHP is a broadly implemented MCDM tool that facilitates a decomposition of the problem into distinct criteria, which can be evaluated and aggregated to create an overall ranking of potential solutions. 
+Base model
+Table 4 contains the composite rankings for each reservoir in the study from the non-iterative model, alongside individual rankings for each of the Geologic, Socio-economic, and risk criteria. The results are ordered in terms of composite ranking. We see El Segundo ranks 1st out of 67 reservoirs, with criteria rankings of 11, 36, and 7 for geologic, socio-economic and risk, respectively. As expected, from the weight sets outlined in 2.2, we see a strong correlation between favorable geologic
+Discussion
+The approach used in this study delivers both a comparative score and ranking for each reservoir based on performance in sub-criteria critical to potential UHS development. It relies on multi-criteria decision making principles [27], [33] to determine the relative potential of a given reservoir, and can be applied to a variety of locations where accurate geophysical and spatial data are available to fully characterize reservoir properties. In areas where reliable geological data is widely
+Conclusion
+We presented a methodology utilizing AHP that examines both qualitative and quantitative data sources to create a numerical representation of the relative suitability of a given reservoir for UHS. Our main conclusions are:
+•
+The method is resilient to uncertainty through the stochastic application, with the versatility to alter the assessed sub-criteria and be implemented quickly and resource effectively in regions with sufficiently comprehensive petrophysical and geographic datasets.
+•
+In the Los
+CRediT authorship contribution statement
+Ben Littlejohn: Writing – original draft, Visualization, Software, Methodology, Investigation, Formal analysis, Conceptualization. Lluís Saló-Salgado: Writing – review & editing, Supervision, Methodology, Formal analysis, Conceptualization. Andreas Plesch: Writing – review & editing, Supervision, Project administration, Formal analysis, Conceptualization. John H. Shaw: Writing – review & editing, Project administration, Funding acquisition, Conceptualization.
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Acknowledgments
+The authors extend their thanks to the National Science Foundation (NSF), United States award number 2141382, and the Harvard Program for Research In Science and Engineering (PRISE), United States for providing funding.
+References (72)
+Stefan Weitemeyer et al.
+Integration of Renewable Energy Sources in future power systems: The role of storage
+Renew Energy
+(2015)
+Seetharaman et al.
+Breaking barriers in deployment of renewable energy
+Heliyon
+(2019)
+Haisheng Chen et al.
+Progress in electrical energy storage system: A critical review
+Prog Nat Sci
+(2009)
+N. Heinemann et al.
+Hydrogen storage in porous geological formations – onshore play opportunities in the Midland Valley (Scotland, UK)
+Int J Hydrog Energy
+(2018)
+Chico Sambo et al.
+A review on worldwide underground hydrogen storage operating and potential fields
+Int J Hydrog Energy
+(2022)
+Jonathan Scafidi et al.
+A quantitative assessment of the hydrogen storage capacity of the UK continental shelf
+Int J Hydrog Energy
+(2021)
+Lingping Zeng et al.
+Hydrogen storage performance during underground hydrogen storage in depleted gas reservoirs: A review
+Engineering
+(2024)
+Antonio Hurtado et al.
+Health, safety and environmental risk assessment tool applied to site selection for geological hydrogen storage in saline aquifers
+Int J Hydrog Energy
+(2024)
+Mostafa Rezaei et al.
+Levelised cost of dynamic green hydrogen production: A case study for Australia’s hydrogen hubs
+Appl Energy
+(2024)
+Saeed Harati et al.
+Multi-criteria site selection workflow for geological storage of hydrogen in depleted gas fields: A case for the UK
+Int J Hydrog Energy
+(2024)
+View more references
+View full text
+Recommended articles
+Based on reading popularity
+Research article
+Open access
+Key technologies, engineering management and important suggestions of shale oil/gas development: Case study of a Duvernay shale project in Western Canada Sedimentary Basin
+Guoxin LI, …, Deqin SHI
+Petroleum Exploration and Development • Volume 47, Issue 4 • 2020 • Pages 791-802
+Research article
+Joint opening or hydroshearing? Analyzing a fracture zone stimulation at Fenton Hill
+Antonio P. Rinaldi, Jonny Rutqvist
+Geothermics • Volume 77 • 2019 • Pages 83-98
+Research article
+Estimating compressibility of complex fracture networks in unconventional reservoirs
+Yanmin Xu, …, Hassan Dehghanpour
+International Journal of Rock Mechanics and Mining Sciences • Volume 127 • 2020 • Article 104186
+Research article
+Machine learning in subsurface geothermal energy: Two decades in review
+Esuru Rita Okoroafor, …, Mohammad (Jabs) Aljubran
+Geothermics • Volume 102 • 2022 • Article 102401
+Research article
+Hydraulic fracture propagation in naturally fractured reservoirs: Complex fracture or fracture networks
+HanYi Wang
+Journal of Natural Gas Science and Engineering • Volume 68 • 2019 • Article 102911
+Research article
+Pore-scale modeling of multiple fluids flow transport kinetics for CO2 enhanced gas recovery
+Xinyuan Gao, …, Ermeng Zhao
+Energy • Volume 315 • 2025 • Article 134486
+Cited by (1)
+GIS–MCDA Approach for Underground Hydrogen Storage Site Screening in Deep Saline Aquifers: Geological, Renewable Energy, and Infrastructure Criteria
+Misiak J., Uliasz-Misiak B.
+Energies • Volume 19 • 2026 • Article 4421
+Metrics
+Citations
+Citation Indexes
+1
+Captures
+Mendeley Readers
+11
+Mentions
+News Mentions
+1
+View details
+© 2025 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+About ScienceDirect
+Remote access
+Contact and support
+Terms and conditions
+Privacy policy
+Cookie settings
+
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. You can manage your cookie preferences using theCookie settings link. For more information, see ourCookie Policy
+Cookie settings
+Accept only necessary cookies
+Accept all cookies

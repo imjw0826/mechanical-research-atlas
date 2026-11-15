@@ -1,0 +1,209 @@
+{
+  "university": "KAIST",
+  "university_key": "kaist",
+  "pi": "조한솔 CHO, Hansohl",
+  "lab_name": null,
+  "lab_url": "https://continuum.kaist.ac.kr/",
+  "publication_urls": [
+    "https://continuum.kaist.ac.kr/publications"
+  ],
+  "accessed_at": "2026-11-12T14:25:28.765068+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고, 스크립트(parse_visible_text.py)로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 함께 보존. 사람이 항목별로 검수하지 않았으므로 partial로 표시.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "A liquid metal-epoxy system with spatio-temporally programmable multilevel stiffness",
+      "year": 2026,
+      "citation_raw": "A liquid metal-epoxy system with spatio-temporally programmable multilevel stiffness J. Park, M. Batool, S. H. Lee, J. Moon, H. Cho, X. Ni† arXiv, 2026",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Mechanical isotropy of heterogeneous octahedral materials",
+      "year": 2026,
+      "citation_raw": "Mechanical isotropy of heterogeneous octahedral materials J. Moon, S. H. Lee, G. Lee, J. U. Lee, H. Cho† arXiv, 2026",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Phase-controlled bimodal four-dimensional printing of liquid crystal elastomers",
+      "year": 2026,
+      "citation_raw": "Phase-controlled bimodal four-dimensional printing of liquid crystal elastomers G. Kim, T. Lee, M. Yoo, J. U. Lee, H. Cho, H. Lee† arXiv, 2026",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Cryogenic microcrack suppression and gas-barrier retention enabled by plasma-engineered pet nanomaterials",
+      "year": 2026,
+      "citation_raw": "Cryogenic microcrack suppression and gas-barrier retention enabled by plasma-engineered pet nanomaterials J. Jin, J. Bae, G. Lee, H. Cho, J. Lee† Composites Science and Technology, 286, 2026 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Tunable viscoelasticity in phase-separated soft materials",
+      "year": 2026,
+      "citation_raw": "Tunable viscoelasticity in phase-separated soft materials G. Lee, J. U. Lee, J. Lee, J. An, H. Lee, H. Cho† International Journal of Solids and Structures, 339, 2026 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Mechanical anisotropy of 3D-printed digital materials at large strains",
+      "year": 2026,
+      "citation_raw": "Mechanical anisotropy of 3D-printed digital materials at large strains S. H. Lee, G. Lee, S. Yun, S. Lee, J. Lee, H. Cho† Soft Matter, 22 (28), 2026 [doi][InsideCover][SES 2025]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Bayesian inference and uncertainty quantification for modeling of body-centered-cubic single crystals",
+      "year": 2026,
+      "citation_raw": "Bayesian inference and uncertainty quantification for modeling of body-centered-cubic single crystals S. Lee, T. Ngyuen, D. J. Luscher, S. J. Fensin, J. S. Carpenter, H. Cho† International Journal of Plasticity, 201, 2025 [doi][Plasticity 2026]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Stiffness, strength, energy dissipation and reusability in heterogeneous architected polycrystals",
+      "year": 2025,
+      "citation_raw": "Stiffness, strength, energy dissipation and reusability in heterogeneous architected polycrystals S. H. Lee, H. Cho† Proceedings of the Royal Society A, 481, 2324, 2025 [doi][Cover][KAIST ME News][EuroMech 2024]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Extreme resilience and dissipation in heterogeneous disordered materials",
+      "year": 2025,
+      "citation_raw": "Extreme resilience and dissipation in heterogeneous disordered materials J. Moon, G. Lee, J. Lee, H. Cho† Journal of the Mechanics and Physics of Solids, 204, 2025 [doi][KAIST ME News]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Size-dependent fracture in elastomers: Experiments and continuum modeling",
+      "year": 2024,
+      "citation_raw": "Size-dependent fracture in elastomers: Experiments and continuum modeling J. Lee, J. U. Lee, S. Yun, H. Lee, H. Cho† Physical Review Materials, 8 (11), 2024 [doi][Editors' Suggestion][ICTAM 2024]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Large strain micromechanics of thermoplastic elastomers with random microstructures",
+      "year": 2024,
+      "citation_raw": "Large strain micromechanics of thermoplastic elastomers with random microstructures H. Cho†, J. Lee, J. Moon, E. Pöselt, G. C. Rutledge, M. C. Boyce Journal of the Mechanics and Physics of Solids, 187, 2024 [doi][KAIST Engineering News][APS March 2024]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Extreme resilience and dissipation in heterogeneous elasto-plastomeric crystals",
+      "year": 2024,
+      "citation_raw": "Extreme resilience and dissipation in heterogeneous elasto-plastomeric crystals G. Lee, J. Lee, S. Lee, S. Rudykh, H. Cho† Soft Matter, 20 (2), 2024 [doi][BackCover][KAIST AE Highlight]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Data-driven statistical reduced-order modeling and quantification of polycrystal mechanics leading to porosity-based ductile damage",
+      "year": 2023,
+      "citation_raw": "Data-driven statistical reduced-order modeling and quantification of polycrystal mechanics leading to porosity-based ductile damage Y. Zhang, N. Chen†, C. A. Bronkhorst, H. Cho, R. Argus Journal of the Mechanics and Physics of Solids, 179, 2023 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Finite element implementation of a gradient-damage theory for fracture in elastomeric materials",
+      "year": 2023,
+      "citation_raw": "Finite element implementation of a gradient-damage theory for fracture in elastomeric materials J. Lee, S. Lee, S. A. Chester, H. Cho† International Journal of Solids and Structures, 279, 2023 [doi][gitHub]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "A polyurethane-urea elastomer at low to extreme strain rates",
+      "year": 2023,
+      "citation_raw": "A polyurethane-urea elastomer at low to extreme strain rates J. Lee, D. Veysset, A. J. Hsieh, H. Cho† International Journal of Solids and Structures, 280, 2023 [doi][KAIST AE Highlight]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Deformation, dislocation evolution, slip instability and the non-Schmid behavior in body-centered-cubic single- and polycrystalline tantalum",
+      "year": 2023,
+      "citation_raw": "Deformation, dislocation evolution, slip instability and the non-Schmid behavior in body-centered-cubic single- and polycrystalline tantalum S. Lee, H. Cho†, C. A. Bronkhorst, R. Pokharel, D. W. Brown, B. Clausen, S. C. Vogel, V. Anghel, G. T. Gray III, J. R. Mayeur International Journal of Plasticity, 163, 2023 [doi][KAIST News][Most Popular Article since 2023]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Local micro-mechanical stress conditions leading to pore nucleation during dynamic loading",
+      "year": 2021,
+      "citation_raw": "Local micro-mechanical stress conditions leading to pore nucleation during dynamic loading C. A. Bronkhorst†, H. Cho†, P. W. Marcy, S. A. Vander Wiel, D. Versino, S. Gupta, V. Livescu, G. T. Gray III International Journal of Plasticity, 137, 2021 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Local stress and damage response of polycrystalline materials to light shock loading conditions via soft scale-coupling",
+      "year": 2020,
+      "citation_raw": "Local stress and damage response of polycrystalline materials to light shock loading conditions via soft scale-coupling C. A. Bronkhorst†, P. W. Marcy, S. A. Vander Wiel, H. Cho, V. Livescu, G. T. Gray III Integrated Computational Materials Engineering (ICME), 2020 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Slip transmission of high angle grain boundaries in bcc metals: Micropillar compression of tantalum single and bi-crystals",
+      "year": 2019,
+      "citation_raw": "Slip transmission of high angle grain boundaries in bcc metals: Micropillar compression of tantalum single and bi-crystals J. S. Weaver†, N. Li, N. A. Mara, H. Cho, C. A. Bronkhorst, S. J. Fensin, G. T. Gray III Acta Materialia, 156, 2019 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Anomalous plasticity of body-centered-cubic crystalline metals with non-Schmid effect",
+      "year": 2018,
+      "citation_raw": "Anomalous plasticity of body-centered-cubic crystalline metals with non-Schmid effect H. Cho†, C. A. Bronkhorst†, H. M. Mourad, J. R. Mayeur, D. J. Luscher International Journal of Solids and Structures, 139, 2018 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Deformation mechanisms of thermoplastic elastomers: stress-strain behavior and constitutive modeling",
+      "year": 2017,
+      "citation_raw": "Deformation mechanisms of thermoplastic elastomers: stress-strain behavior and constitutive modeling H. Cho†, S. Meyer, E. Pöselt, M. Susoff, G. C. Rutledge†, M. C. Boyce† Polymer, 128, 2017 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Engineering the mechanics of heterogeneous soft crystals",
+      "year": 2016,
+      "citation_raw": "Engineering the mechanics of heterogeneous soft crystals H. Cho, J. C. Weaver, E. Pöselt, G. C. Rutledge†, M. C. Boyce† Advanced Functional Materials, 26 (38), 2016 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Mechanics of the Taylor impact behavior of elastomeric copolymers",
+      "year": 2015,
+      "citation_raw": "Mechanics of the Taylor impact behavior of elastomeric copolymers H. Cho†, S. Bartyczak, W. Mock, M. C. Boyce† Elastomeric Polymers with High Rate Sensitivity: Applications in Blast, Shockwave and Penetration Mechanics, 2015 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Mechanics of the large deformation behavior of elastomeric copolymers",
+      "year": 2015,
+      "citation_raw": "Mechanics of the large deformation behavior of elastomeric copolymers H. Cho†, M. C. Boyce† Elastomeric Polymers with High Rate Sensitivity: Applications in Blast, Shockwave and Penetration Mechanics, 2015 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Dissipation and resilience of elastomeric segmented copolymers under extreme strain rates",
+      "year": 2014,
+      "citation_raw": "Dissipation and resilience of elastomeric segmented copolymers under extreme strain rates H. Cho, S. Bartyczak, W. Mock, M. C. Boyce† Polymer, 52 (21), 2014 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Constitutive modeling of the rate-dependent resilient and dissipative large deformation behavior of a segmented copolymer polyurea",
+      "year": 2013,
+      "citation_raw": "Constitutive modeling of the rate-dependent resilient and dissipative large deformation behavior of a segmented copolymer polyurea H. Cho, R. G. Rinaldi, M. C. Boyce† Soft Matter, 9 (27), 2013 [doi]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "2010 (published under the GNU license) [Authors of LAMMPS]",
+      "year": 2010,
+      "citation_raw": "ReaxFF potential A. P. Thompson†, H. Cho LAMMPS, Sandia National Laboratories, 2010 (published under the GNU license) [Authors of LAMMPS]",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Statistical inference and uncertainty quantification for modeling of bcc single crystals",
+      "year": 2026,
+      "citation_raw": "Statistical inference and uncertainty quantification for modeling of bcc single crystals H. Cho, S. Lee, T. Ngyuen, D. J. Luscher, S. J. Fensin International Conference on Plasticity, Damage and Fracture (ICPDF), Geelong, 2026",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Mechanical anisotropy of 3D-printed digital materials at large strains",
+      "year": 2025,
+      "citation_raw": "Mechanical anisotropy of 3D-printed digital materials at large strains S. H. Lee, G. Lee, S. Yun, S. Lee, J. Lee, H. Cho Annual Technical Meeting of the Society of Engineering Sciences, Atlanta, GA, 2025",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Experiments and nonlocal continuum modeling of the size-dependent fracture in elastomers",
+      "year": 2024,
+      "citation_raw": "Experiments and nonlocal continuum modeling of the size-dependent fracture in elastomers J. U. Lee, J. Lee, H. Cho 24th International Congress on Theoretical and Applied Mechanics, Daegu, 2024",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "strength and reusability in architected polycrystals",
+      "year": 2024,
+      "citation_raw": "Stiffness, strength and reusability in architected polycrystals S. H. Lee, H. Cho 19th European Mechanics of Materials Conference, Barcelona, 2024",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    },
+    {
+      "title": "Micromechanics of thermoplastic elastomers with random microstructures",
+      "year": 2024,
+      "citation_raw": "Micromechanics of thermoplastic elastomers with random microstructures J. Lee, J. Moon, H. Cho, G. C. Rutledge, M. C. Boyce March Meeting of the American Physical Society, Minneapolis, MN, 2024",
+      "source_url": "https://continuum.kaist.ac.kr/publications"
+    }
+  ]
+}

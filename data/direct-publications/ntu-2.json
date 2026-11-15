@@ -1,0 +1,43 @@
+{
+  "university": "Nanyang Technological University",
+  "university_key": "ntu",
+  "pi": "Ang Wei Tech",
+  "lab_name": null,
+  "lab_url": "http://www.ability-research.com/",
+  "publication_urls": [],
+  "accessed_at": "2026-11-12T13:52:28.813Z",
+  "coverage_notes": [
+    {
+      "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00218",
+      "resolved_url": "https://dr.ntu.edu.sg/entities/person/Ang-Wei-Tech",
+      "identity_evidence": "Assoc Prof Ang Wei Tech",
+      "affiliation_evidence": "Professor, School of Mechanical & Aerospace Engineering",
+      "website_links": [
+        {
+          "label": "Website",
+          "url": "http://www.ability-research.com/"
+        }
+      ]
+    },
+    "Official profile captured. Full research-lab publication investigation pending. No repository/aggregator papers imported.",
+    {
+      "attempted_lab_url": "http://www.ability-research.com/",
+      "result": "ERR_NAME_NOT_RESOLVED"
+    },
+    {
+      "source_page_manifest": [
+        {
+          "source_url": "chrome-error://chromewebdata/",
+          "captured_at": "2026-11-12T13:52:28.641Z",
+          "note": "Browser reports ERR_NAME_NOT_RESOLVED."
+        }
+      ],
+      "visible_txt": "/Users/garden/Documents/formyresearch/data/direct-publications/ntu-2.visible.txt"
+    }
+  ],
+  "status": "blocked",
+  "papers": [],
+  "investigation_stage": "full_site_attempted",
+  "blocker": "Profile-linked official lab domain www.ability-research.com fails with ERR_NAME_NOT_RESOLVED in actual browser.",
+  "visibleTXT": "/Users/garden/Documents/formyresearch/data/direct-publications/ntu-2.visible.txt"
+}

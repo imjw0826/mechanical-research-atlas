@@ -1,0 +1,904 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Sanjay Sarma",
+  "lab_name": null,
+  "lab_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu",
+  "discovered_links": [
+    {
+      "text": "Office of Digital Learning",
+      "url": "https://odl.mit.edu/"
+    },
+    {
+      "text": "Auto-ID Labs",
+      "url": "http://autoidlabs.org/"
+    },
+    {
+      "text": "edX",
+      "url": "http://edx.org/"
+    },
+    {
+      "text": "CEUR-WS.org",
+      "url": "http://ceur-ws.org/"
+    }
+  ],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Dynamic graph cnn for learning on point clouds",
+      "year": 2019,
+      "citation_raw": "Wang, Yue, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, and Justin M. Solomon. \"Dynamic graph cnn for learning on point clouds.\" ACM Transactions on Graphics (TOG) 38, no. 5 (2019): 146.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Self‐Powered Sensors Enabled by Wide‐Bandgap Perovskite Indoor Photovoltaic Cells",
+      "year": 2019,
+      "citation_raw": "Mathews, Ian, Sai Nithin Reddy Kantareddy, Shijing Sun, Mariya Layurova, Janak Thapa, Juan‐Pablo Correa‐Baena, Rahul Bhattacharyya, Tonio Buonassisi, Sanjay Sarma, and Ian Marius Peters. \"Self‐Powered Sensors Enabled by Wide‐Bandgap Perovskite Indoor Photovoltaic Cells.\" Advanced Functional Materials 29, no. 42 (2019): 1904072.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Long Range Battery-Less PV-Powered RFID Tag Sensors",
+      "year": 2019,
+      "citation_raw": "Kantareddy, Sai NR, Ian Mathews, Rahul Bhattacharyya, Ian Marius Peters, Tonio Buonassisi, and Sanjay E. Sarma. \"Long Range Battery-Less PV-Powered RFID Tag Sensors.\" IEEE Internet of Things Journal (2019).",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Measuring light transport properties using speckle patterns as structured illumination",
+      "year": 2019,
+      "citation_raw": "Jain, Pranay, and Sanjay E. Sarma. \"Measuring light transport properties using speckle patterns as structured illumination.\" Scientific reports 9, no. 1 (2019): 11157.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "MagicHand: Interact with IoT Devices in Augmented Reality Environment",
+      "year": 2019,
+      "citation_raw": "Sun, Yongbin, Alexandre Armengol-Urpi, Sai Nithin Reddy Kantareddy, Joshua Siegel, and Sanjay Sarma. \"MagicHand: Interact with IoT Devices in Augmented Reality Environment.\" In 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), pp. 1738-1743. IEEE, 2019.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Perovskite PV-powered RFID: enabling lowcost self-powered IoT sensors",
+      "year": 2019,
+      "citation_raw": "Kantareddy, Sai Nithin R., Ian Mathews, Shijing Sun, Mariya Layurova, Janak Thapa, Juan-Pablo Correa-Baena, Rahul Bhattacharyya Tonio Buonassisi, Sanjay E. Sarma, and Ian Marius Peters. \"Perovskite PV-powered RFID: enabling lowcost self-powered IoT sensors.\" IEEE Sensors Journal(2019).",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A Cognitive Protection System for the Internet of Things",
+      "year": 2019,
+      "citation_raw": "Siegel, Joshua, and Sanjay Sarma. \"A Cognitive Protection System for the Internet of Things.\" IEEE Security & Privacy17, no. 3 (2019): 40-48.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Using Open Channels to Trigger the Invited, Unintended Consequences of the Internet of Things",
+      "year": 2019,
+      "citation_raw": "Siegel, Joshua Eric, and Sanjay Sarma. \"Using Open Channels to Trigger the Invited, Unintended Consequences of the Internet of Things.\" IEEE Security & Privacy 17, no. 3 (2019): 49-55.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "X-Vision: An augmented vision tool with real-time sensing ability in tagged environments",
+      "year": 2018,
+      "citation_raw": "Sun, Yongbin, Sai Nithin R. Kantareddy, Rahul Bhattacharyya, and Sanjay E. Sarma. \"X-Vision: An augmented vision tool with real-time sensing ability in tagged environments.\" In 2018 IEEE International Conference on RFID Technology & Application (RFID-TA), pp. 1-6. IEEE, 2018.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Merging safety and cybersecurity analysis in product design",
+      "year": 2018,
+      "citation_raw": "Suo, Dajiang, Joshua E. Siegel, and Sanjay E. Sarma. \"Merging safety and cybersecurity analysis in product design.\" IET Intelligent Transport Systems 12, no. 9 (2018): 1103-1109.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Pointgrow: Autoregressively learned point cloud generation with self-attention",
+      "year": 2018,
+      "citation_raw": "Sun, Yongbin, Yue Wang, Ziwei Liu, Joshua E. Siegel, and Sanjay E. Sarma. \"Pointgrow: Autoregressively learned point cloud generation with self-attention.\" arXiv preprint arXiv:1810.05591 (2018).",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Algorithms and architectures: A case study in when, where and how to connect vehicles",
+      "year": 2018,
+      "citation_raw": "Siegel, Josh, Dylan Erb, and Sanjay Sarma. \"Algorithms and architectures: A case study in when, where and how to connect vehicles.\" IEEE Intelligent Transportation Systems Magazine 10, no. 1 (2018): 74-87.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Real-time Deep Neural Networks for internet-enabled arc-fault detection",
+      "year": 2018,
+      "citation_raw": "Siegel, Joshua E., Shane Pratt, Yongbin Sun, and Sanjay E. Sarma. \"Real-time Deep Neural Networks for internet-enabled arc-fault detection.\" Engineering Applications of Artificial Intelligence 74 (2018): 35-42.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Speckle Patterns as Structured Illumination in Diffuse Optical Imaging",
+      "year": 2018,
+      "citation_raw": "Jain, Pranay, and Sanjay E. Sarma. \"Speckle Patterns as Structured Illumination in Diffuse Optical Imaging.\" In Optical Sensors, pp. SeTh3E-3. Optical Society of America, 2018.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Hybrid-electric powered aerospace systems and the battery energy density revolution",
+      "year": 2018,
+      "citation_raw": "Biradar, Anandrao, Paul DeBitetto, Long Phan, Luan Duang, and Sanjay Sarma. \"Hybrid-electric powered aerospace systems and the battery energy density revolution.\" In 2018 IEEE Aerospace Conference, pp. 1-6. IEEE, 2018.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Sublime: a hands-free virtual reality menu navigation system using a high-frequency SSVEP-based brain-computer interface",
+      "year": 2018,
+      "citation_raw": "Armengol-Urpi, Alexandre, and Sanjay E. Sarma. \"Sublime: a hands-free virtual reality menu navigation system using a high-frequency SSVEP-based brain-computer interface.\" In Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology, p. 1. ACM, 2018.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Value in vehicles: economic assessment of automotive data",
+      "year": 2018,
+      "citation_raw": "Soley, Alexander M., Joshua E. Siegel, Dajiang Suo, and Sanjay E. Sarma. \"Value in vehicles: economic assessment of automotive data.\" Digital Policy, Regulation and Governance, no. 6 (2018): 513-527.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Dynamic graph cnn for learning on point clouds",
+      "year": 2018,
+      "citation_raw": "Wang, Yue, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, and Justin M. Solomon. \"Dynamic graph cnn for learning on point clouds.\" arXiv preprint arXiv:1801.07829(2018).",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Im2avatar: Colorful 3d reconstruction from a single image",
+      "year": 2018,
+      "citation_raw": "Sun, Yongbin, Ziwei Liu, Yue Wang, and Sanjay E. Sarma. \"Im2avatar: Colorful 3d reconstruction from a single image.\" arXiv preprint arXiv:1804.06375 (2018).",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Fixing an Imperfect Labor Market Information System",
+      "year": 2018,
+      "citation_raw": "Sarma, Sanjay E., and William B. Bonvillian. \"Fixing an Imperfect Labor Market Information System.\" Issues in Science and Technology 35, no. 1 (2018): 56-61.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Value in vehicles: economic assessment of automotive data",
+      "year": 2018,
+      "citation_raw": "Soley, Alexander M., Joshua E. Siegel, Dajiang Suo, and Sanjay E. Sarma. \"Value in vehicles: economic assessment of automotive data.\" Digital Policy, Regulation and Governance20, no. 6 (2018): 513-527.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "The future internet of things: secure, efficient, and model-based",
+      "year": 2018,
+      "citation_raw": "Siegel, Joshua E., Sumeet Kumar, and Sanjay E. Sarma. \"The future internet of things: secure, efficient, and model-based.\" IEEE Internet of Things Journal 5, no. 4 (2018): 2386-2398.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A Survey of the Connected Vehicle Landscape—Architectures, Enabling Technologies, Applications, and Development Areas",
+      "year": 2018,
+      "citation_raw": "Siegel, Joshua E., Dylan C. Erb, and Sanjay E. Sarma. \"A Survey of the Connected Vehicle Landscape—Architectures, Enabling Technologies, Applications, and Development Areas.\" IEEE Transactions on Intelligent Transportation Systems 19, no. 8 (2018): 2391-2406.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Air Filter Particulate Loading Detection using Smartphone Audio and Optimized Ensemble Classification",
+      "year": 2017,
+      "citation_raw": "J. Siegel, R. Bhattacharyya, S. Kumar, S. Sarma, “Air Filter Particulate Loading Detection using Smartphone Audio and Optimized Ensemble Classification.” Engineering Applications of Artificial Intelligence. Volume 66. November 2017. Featured on MIT’s Homepage, 10/26/17.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Development of an Internet of Things enabled Manufacturing system for tool wear characterization",
+      "year": 2017,
+      "citation_raw": "BT. Kumaravel, R. Bhattacharyya, J. Siegel, S. Sarma, N. Arunachalam. “Development of an Internet of Things enabled Manufacturing system for tool wear characterization.” Proceedings of the 2017 IEEE International Symposium on Robotics and Manufacturing Automation. 2017.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Towards low-cost object tracking: Embedded RFID in golf balls using 3D printed masks",
+      "year": 2017,
+      "citation_raw": "S. N. R. Kantareddy, R. Bhattacharyya and S. Sarma, \"Towards low-cost object tracking: Embedded RFID in golf balls using 3D printed masks,\" 2017 IEEE International Conference on RFID (RFID), Phoenix, AZ, 2017, pp. 137-143.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Low-cost, automated inventory control of sharps in operating theaters using passive RFID tag-sensors",
+      "year": 2017,
+      "citation_raw": "S. N. R. Kantareddy, R. Bhattacharyya and S. E. Sarma, \"Low-cost, automated inventory control of sharps in operating theaters using passive RFID tag-sensors,\" 2017 IEEE International Conference on RFID Technology & Application (RFID-TA), Warsaw, Poland, 2017, pp. 16-21.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "UHF RFID tag IC power mode switching for wireless sensing of resistive and electrochemical transduction modalities",
+      "year": 2018,
+      "citation_raw": "S. N. R. Kantareddy, R. Bhattacharyya and S. E. Sarma, \"UHF RFID tag IC power mode switching for wireless sensing of resistive and electrochemical transduction modalities,\" accepted for presentation at 2018 IEEE International Conference on RFID, Orlando, FL, 2018.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Visualization and labeling of point clouds in virtual reality",
+      "year": 2017,
+      "citation_raw": "Stets, Jonathan Dyssel, Yongbin Sun, Wiley Corning, and Scott W. Greenwald. \"Visualization and labeling of point clouds in virtual reality.\" In SIGGRAPH Asia 2017 Posters, p. 31. ACM, 2017",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Dynamic Graph CNN for Learning on Point Clouds",
+      "year": 2018,
+      "citation_raw": "Yongbin Sun*, Wang, Yue*, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, and Justin M. Solomon. \"Dynamic Graph CNN for Learning on Point Clouds.\" arXiv preprint arXiv:1801.07829(2018)",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Air Filter Particulate Loading Detection using Smartphone Audio and Optimized Ensemble Classification",
+      "year": 2016,
+      "citation_raw": "J. Siegel, R. Bhattacharyya, S. Kumar, S. Sarma, \"Air Filter Particulate Loading Detection using Smartphone Audio and Optimized Ensemble Classification,\" Submitted to ACM TIST Special Issue on Urban Sensing, November 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Electromagnetic Characterization of Soil Moisture and Salinity for UHF RFID Applications in Precision Agriculture",
+      "year": 2016,
+      "citation_raw": "S. Dey, R. Bhattacharyya, N. Karmakar and S. Sarma, “Electromagnetic Characterization of Soil Moisture and Salinity for UHF RFID Applications in Precision Agriculture,\" in Proceedings of the 2016 IEEE sponsored EuMW Conference, London, UK, October 3-7, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Smartphone-based vehicular tire pressure and condition monitoring",
+      "year": 2016,
+      "citation_raw": "J. Siegel, R. Bhattacharyya, A. Desphande, and S. Sarma, “Smartphone-based vehicular tire pressure and condition monitoring,\" in Proceedings of the 2016 IEEE sponsored SAI Intellisys Conference, London, UK, September 21-22, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Microfluidic paper based Passive RF Sensor for Soil Salinity Measurement",
+      "year": 2016,
+      "citation_raw": "E. Md. Amin, R. Bhattacharyya, S. Sarma and N. Karmakar, “Microfluidic paper based Passive RF Sensor for Soil Salinity Measurement,\" in Proceedings of the 2016 IEEE MTT-S sponsored Australian Microwave Symposium, Adelaide, Australia, February 11-12, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Microfluidic paper based Passive RF Sensor for Soil Salinity Measurement",
+      "year": 2015,
+      "citation_raw": "E. Md. Amin, R. Bhattacharyya, S. Sarma and N. Karmakar, “Microfluidic paper based Passive RF Sensor for Soil Salinity Measurement,\" in Proceedings of the 2016 IEEE MTT-S sponsored Australian Microwave Symposium, Adelaide, Australia, February 11-12, 2016. P. Bhattacharjee, M. Solanki, R. Bhattacharyya, I. Ehrenberg, and S. Sarma. \"VacSeen: A Linked Data-Based Information Architecture to Track Vaccines Using Barcode Scan Authentication.\", SWAT4LS, volume 1546 of CEUR Workshop Proceedings, page 39-48. CEUR-WS.org, (2015)",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Local Viscosity Control Printing for High Through- put Additive Manufacturing of Polymers",
+      "year": 2016,
+      "citation_raw": "J. Siegel, D. Erb, I. Ehrenberg, P. Jain, S. Sarma, “Local Viscosity Control Printing for High Through- put Additive Manufacturing of Polymers.” In press in “3D Printing and Additive Manufacturing,” December 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Engine Misfire Detection With Pervasive Mobile Audio",
+      "year": 2016,
+      "citation_raw": "J. Siegel, S. Kumar, I. Ehrenberg, S. Sarma, “Engine Misfire Detection With Pervasive Mobile Audio,” ECML KDD 2016. In LNCS, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Smartphone-Based Vehicular Tire Pressure and Condition Monitoring",
+      "year": 2016,
+      "citation_raw": "J. Si Siegel, R. Bhattacharyya, A. Deshpande, S. Sarma. “Smartphone-Based Vehicular Tire Pressure and Condition Monitoring.” Proceedings of SAI Intelligent Systems 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Fabrication of an X-Band conformal antenna array on an additively manufactured substrate",
+      "year": 2015,
+      "citation_raw": "Ehrenberg, Isaac, et al. \"Fabrication of an X-Band conformal antenna array on an additively manufactured substrate.\" Antennas and Propagation & USNC/URSI National Radio Science Meeting, 2015 IEEE International Symposium on. IEEE, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Cloudthink: a scalable secure platform for mirroring transportation systems in the cloud",
+      "year": 2015,
+      "citation_raw": "Wilhelm, Erik, et al. \"Cloudthink: a scalable secure platform for mirroring transportation systems in the cloud.\" Transport 30.3 (2015): 320-329.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Size matters: Why cell size is vital for minimizing cost of air-cooling in battery packs",
+      "year": 2015,
+      "citation_raw": "Erb, Dylan C., et al. \"Size matters: Why cell size is vital for minimizing cost of air-cooling in battery packs.\" Transportation Electrification Conference and Expo (ITEC), 2015 IEEE. IEEE, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Effects of cell geometry on thermal management in air-cooled battery packs",
+      "year": 2015,
+      "citation_raw": "Erb, Dylan C., et al. \"Effects of cell geometry on thermal management in air-cooled battery packs.\" Transportation Electrification Conference and Expo (ITEC), 2015 IEEE. IEEE, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Guest Editorial: Special Issue on Cloud Robotics and Automation",
+      "year": 2015,
+      "citation_raw": "Civera, Javier, et al. \"Guest Editorial: Special Issue on Cloud Robotics and Automation.\" Automation Science and Engineering, IEEE Transactions on 12.2 (2015): 396-397.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Incorporation of active RF circuit elements into additively manufactured substrates",
+      "year": 2015,
+      "citation_raw": "Ehrenberg, Isaac, et al. \"Incorporation of active RF circuit elements into additively manufactured substrates.\" Antennas and Propagation & USNC/URSI National Radio Science Meeting, 2015 IEEE International Symposium on. IEEE, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Session-based security enhancement of RFID systems for emerging open-loop applications",
+      "year": 2014,
+      "citation_raw": "Wang, Junyu, Christian Floerkemeier, and Sanjay E. Sarma. \"Session-based security enhancement of RFID systems for emerging open-loop applications.\" Personal and Ubiquitous Computing 18.8 (2014): 1881-1891.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Advancement of 3D printed conformal FSS and active array",
+      "year": 2014,
+      "citation_raw": "Ehrenberg, Isaac M., Sanjay E. Sarma, and Bae-Ian Wu. \"Advancement of 3D printed conformal FSS and active array.\" Radio Science Meeting (Joint with AP-S Symposium), 2014 USNC-URSI. IEEE, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Towards low-cost resolution optimized passive UHF RFID light sensing",
+      "year": 2014,
+      "citation_raw": "Amin, Emran Md, et al. \"Towards low-cost resolution optimized passive UHF RFID light sensing.\" IEEE 15th Annual Wireless and Microwave Technology Conference (WAMICON 2014)(Jay Pengelly and Jing Wang 6 June 2014). Institute of Electrical and Electronics Engineers, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Fostering 21st Century Skills in Engineering Undergraduates through Co-Curricular Involvement",
+      "year": 2014,
+      "citation_raw": "Fisher, Dara R., Aikaterini Bagiati, and Sanjay Sarma. \"Fostering 21st Century Skills in Engineering Undergraduates through Co-Curricular Involvement.\" American Society for Engineering Education. 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Generalizing Laplacian of Gaussian filters for vanishing-point detection",
+      "year": 2013,
+      "citation_raw": "Kong, Hui, Sanjay E. Sarma, and Feng Tang. \"Generalizing Laplacian of Gaussian filters for vanishing-point detection.\" Intelligent Transportation Systems, IEEE Transactions on 14, no. 1 (2013): 408-418.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "9 Trends in Advanced Manufacturing Technology Innovation",
+      "year": 2014,
+      "citation_raw": "De Weck, Olivier, Darci Reed, Sanjay Sarma, and Martin Schmidt. \"9 Trends in Advanced Manufacturing Technology Innovation.\" Production in the Innovation Economy (2014): 235.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Optimal coverage of an infrastructure network using sensors with distance-decaying sensing quality",
+      "year": 2013,
+      "citation_raw": "Deshpande, Ajay, et al. \"Optimal coverage of an infrastructure network using sensors with distance-decaying sensing quality.\" Automatica 49.11 (2013): 3351-3358.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Expressive RFID data access policies for the Pharmaceuticals supply chain",
+      "year": 2013,
+      "citation_raw": "Pardal, Miguel L., Mark Harrison, Sanjay Sarma, and José Alves Marques. \"Expressive RFID data access policies for the Pharmaceuticals supply chain.\" In RFID (RFID), 2013 IEEE International Conference on, pp. 199-206. IEEE, 2013.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A Generalized Laplacian of Gaussian Filter for Blob Detection and Its Applications",
+      "year": 2013,
+      "citation_raw": "Kong, Hui, Hatice Cinar Akakin, and Sanjay E. Sarma. \"A Generalized Laplacian of Gaussian Filter for Blob Detection and Its Applications.\" (2013): 1-15.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Education: Online on-ramps",
+      "year": 2013,
+      "citation_raw": "Sive, Hazel, and Sanjay Sarma. \"Education: Online on-ramps.\" Nature 499.7458 (2013): 277-278.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A novel communication method for semi-passive RFID based sensors",
+      "year": 2014,
+      "citation_raw": "Kalansuriya, Prasanna, and Rahul Bhattacharyya. \"A novel communication method for semi-passive RFID based sensors.\" Communications (ICC), 2014 IEEE International Conference on. IEEE, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, 02139 USA",
+      "year": 2013,
+      "citation_raw": "Kumar, Sumeet, Johannes Paefgen, Erik Wilhelm, and Sanjay E. Sarma. \"Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, 02139 USA.\" In SICE Annual Conference (SICE), 2013 Proceedings of, pp. 2302-2308. IEEE, 2013.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A Monopole-Coupled RFID Sensor For Pervasive Soil Moisture Monitoring",
+      "year": 2013,
+      "citation_raw": "Hasan, Aftab, Rahul Bhattacharyya, and Sanjay Sarma. \"A Monopole-Coupled RFID Sensor For Pervasive Soil Moisture Monitoring.\" Antennas and Propagation Society International Symposium (APSURSI), 2013 IEEE. IEEE, 2013.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Access Control Policies for Traceability Information Systems",
+      "year": 2014,
+      "citation_raw": "Pardal, Miguel L., Mark Harrison, Sanjay Sarma, and José Alves Marques. \"Access Control Policies for Traceability Information Systems.\" International Journal of Computer Information Systems and Industrial Management Applications. ISSN 2150-7988 Volume 6 (2014) pp. 560–570",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Lightweight negative GRIN lens fabrication via rapid prototyping for radio applications",
+      "year": 2013,
+      "citation_raw": "Ehrenberg, Isaac M., Sanjay E. Sarma, and Bae-Ian Wu. \"Lightweight negative GRIN lens fabrication via rapid prototyping for radio applications.\" In Radio Science Meeting (Joint with AP-S Symposium), 2013 USNC-URSI, pp. 124-124. IEEE, 2013.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Internal resistance matching for parallel-connected lithium-ion cells and impacts on battery pack cycle life",
+      "year": 2014,
+      "citation_raw": "Gogoana, Radu, Matthew B. Pinson, Martin Z. Bazant, and Sanjay E. Sarma. \"Internal resistance matching for parallel-connected lithium-ion cells and impacts on battery pack cycle life.\" Journal of Power Sources 252 (2014): 8-13.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Generalizing Laplacian of Gaussian filters for vanishing-point detection",
+      "year": 2013,
+      "citation_raw": "Kong, Hui, Sanjay E. Sarma, and Feng Tang. \"Generalizing Laplacian of Gaussian filters for vanishing-point detection.\" Intelligent Transportation Systems, IEEE Transactions on 14.1 (2013): 408-418.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Efficient Parametric Signal Estimation From Samples With Location Errors",
+      "year": 2013,
+      "citation_raw": "Kumar, Sudhakar, Vivek K. Goyal, and Sanjay E. Sarma. \"Efficient Parametric Signal Estimation From Samples With Location Errors.\" Signal Processing, IEEE Transactions on 61.21 (2013): 5285-5297.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A three-dimensional self-supporting low loss microwave lens with a negative refractive index",
+      "year": 2012,
+      "citation_raw": "Ehrenberg, Isaac M., Sanjay E. Sarma, and Bae-Ian Wu. \"A three-dimensional self-supporting low loss microwave lens with a negative refractive index.\" Journal of Applied Physics 112.7 (2012): 073114.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Fully conformal FSS via rapid 3D prototyping",
+      "year": 2012,
+      "citation_raw": "Ehrenberg, Isaac M., Sanjay E. Sarma, and Bae-Ian Wu. \"Fully conformal FSS via rapid 3D prototyping.\" Antennas and Propagation Society International Symposium (APSURSI), 2012 IEEE. IEEE, 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Stable arrangements of mobile sensors for sampling physical fields",
+      "year": 2012,
+      "citation_raw": "Kumar, Sudhakar, Ajay Deshpande, and Sanjay E. Sarma. \"Stable arrangements of mobile sensors for sampling physical fields.\" American Control Conference (ACC), 2012. IEEE, 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "How Inexpensive RFID Is Revolutionizing the Supply Chain:(Innovations Case Narrative: The Electronic Product Code)",
+      "year": 2012,
+      "citation_raw": "Sarma, Sanjay. \"How Inexpensive RFID Is Revolutionizing the Supply Chain:(Innovations Case Narrative: The Electronic Product Code).\" innovations 7.3 (2012): 35-52.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Enforcing RFID data visibility restrictions using XACML security policies",
+      "year": 2012,
+      "citation_raw": "Pardal, Miguel L., Michael Harrison, Sanjay Sarma and J. A. Marques. \"Enforcing RFID data visibility restrictions using XACML security policies.\" RFID-Technologies and Applications (RFID-TA), 2012 IEEE International Conference on. IEEE, 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "3D metamaterial for ultra-compact artificial magnetic conductor",
+      "year": 2011,
+      "citation_raw": "Ehrenberg, Isaac M., Sanjay E. Sarma, and Bae-Ian Wu. \"3D metamaterial for ultra-compact artificial magnetic conductor.\" Microwaves, Communications, Antennas and Electronics Systems (COMCAS), 2011 IEEE International Conference on. IEEE, 2011.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Cloud computing, REST and mashups to simplify RFID application development and deployment",
+      "year": 2011,
+      "citation_raw": "Guinard, Dominique, Christian Floerkemeier, and Sanjay Sarma. \"Cloud computing, REST and mashups to simplify RFID application development and deployment.\" Proceedings of the Second International Workshop on Web of Things. ACM, 2011.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "RFID tag antenna based temperature sensing in the frequency domain",
+      "year": 2011,
+      "citation_raw": "Bhattacharyya, Rahul, et al. \"RFID tag antenna based temperature sensing in the frequency domain.\" RFID (RFID), 2011 IEEE International Conference on. IEEE, 2011.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Beyond the ID in RFID",
+      "year": 2010,
+      "citation_raw": "Floerkemeier, Christian, Rahul Bhattacharyya, and Sanjay Sarma. \"Beyond the ID in RFID.\" The Internet of Things. Springer New York, 2010. 219-227.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A UID numbering scheme",
+      "year": 2010,
+      "citation_raw": "Kanakia, Hemant, Srikanth Nadhamuni, and Sanjay Sarma. \"A UID numbering scheme.\" White Paper, May (2010).",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A Hybrid 5-Axis CNC Milling Machine",
+      "year": 2008,
+      "citation_raw": "Son, S. K., Kim, T., Sarma, S. E. and Slocum, A., “A Hybrid 5-Axis CNC Milling Machine,” Journal of the American Society for Precision Engineering, 2008.*",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "In-pipe Acoustic Characterization of Leak Signals in Plastic Water-filled Pipes",
+      "year": 2010,
+      "citation_raw": "Chatzigeogiou, D., et al. \"In-pipe Acoustic Characterization of Leak Signals in Plastic Water-filled Pipes.\" AWWA Annual Conference and Exposition, ACE. 2010.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "RFID diagnostics of promotion execution",
+      "year": 2010,
+      "citation_raw": "Hacker, Patrick, et al. \"RFID diagnostics of promotion execution.\" RFID, 2010 IEEE International Conference on. IEEE, 2010.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "RFIDSim—a physical and logical layer simulation engine for passive RFID",
+      "year": 2009,
+      "citation_raw": "Floerkemeier, Christian, and Sanjay Sarma. \"RFIDSim—a physical and logical layer simulation engine for passive RFID.\" Automation Science and Engineering, IEEE Transactions on 6.1 (2009): 33-43.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A Process of Manufacturing Very Thin PDMS Films",
+      "year": 2009,
+      "citation_raw": "Krishnan, S. and Sarma, E. “A Process of Manufacturing Very Thin PDMS Films,” in the Proceedings of the North American Manufacturing Research Conference, 2009.*",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Towards tag antenna based sensing-An RFID displacement sensor",
+      "year": 2009,
+      "citation_raw": "Bhattacharyya, Rahul, Christian Floerkemeier, and Sanjay Sarma. \"Towards tag antenna based sensing-An RFID displacement sensor.\" RFID, 2009 IEEE International Conference on. IEEE, 2009.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Low-cost, ubiquitous RFID-tag-antenna-based sensing",
+      "year": 2010,
+      "citation_raw": "Bhattacharyya, Rahul, Christian Floerkemeier, and Sanjay Sarma. \"Low-cost, ubiquitous RFID-tag-antenna-based sensing.\" Proceedings of the IEEE 98.9 (2010): 1593-1600.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "RFID tag antenna based temperature sensing",
+      "year": 2010,
+      "citation_raw": "Bhattacharyya, Rahul, Christian Floerkemeier, and Sanjay Sarma. \"RFID tag antenna based temperature sensing.\" RFID, 2010 IEEE International Conference on. IEEE, 2010.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "RFID tag antenna based temperature sensing using shape memory polymer actuation",
+      "year": 2010,
+      "citation_raw": "Bhattacharyya, Rahul, et al. \"RFID tag antenna based temperature sensing using shape memory polymer actuation.\" Sensors, 2010 IEEE. IEEE, 2010.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Guest Editorial Special Section on RFID",
+      "year": 2009,
+      "citation_raw": "Sarma, Sanjay E., et al. \"Guest Editorial Special Section on RFID.\" IEEE T. Automation Science and Engineering 6.1 (2009): 1-3.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Generalized regular sampling of trigonometric polynomials and optimal sensor arrangement",
+      "year": 2010,
+      "citation_raw": "Deshpande, Ajay, Sanjay E. Sarma, and Vivek K. Goyal. \"Generalized regular sampling of trigonometric polynomials and optimal sensor arrangement.\" Signal Processing Letters, IEEE 17.4 (2010): 379-382.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Preface to the focus theme section:‘Internet of things’",
+      "year": 2009,
+      "citation_raw": "Fleisch, Elgar, Sanjay Sarma, and Frédéric Thiesse. \"Preface to the focus theme section:‘Internet of things’.\" Electronic Markets 19.2-3 (2009): 99-102.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "The Fragmented Warehouse: Multiple Picking",
+      "year": 2009,
+      "citation_raw": "Ho, S. and Sarma, S. “The Fragmented Warehouse: Multiple Picking,” The 2nd International Symposium on Logistics and Industrial Informatics (LINDI), September 2009.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "The Fragmented Warehouse: Location Assignment for Unit-load Picking",
+      "year": 2008,
+      "citation_raw": "Ho, Stephen and Sarma, S.E. “The Fragmented Warehouse: Location Assignment for Unit-load Picking,” IEEE 2008 International Conference on Industrial Engineering and Engineering Management, Singapore.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "An Overview of RFID System Interfaces and Reader Protocols",
+      "year": 2008,
+      "citation_raw": "Floerkemeier, C and Sarma, S. E. “An Overview of RFID System Interfaces and Reader Protocols,” IEEE RFID 2008, April 16-17, Las Vegas, 2008.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Error Tolerant Distributions for Sampling",
+      "year": 2008,
+      "citation_raw": "Deshpande, A. and Sarma, S. E. \"Error Tolerant Distributions for Sampling\", American Control Conference (ACC 2008), Seattle, WA, June 11-13, 2008.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Reference Free Part Encapsulation: Materials, Machines and Methods",
+      "year": 2008,
+      "citation_raw": "Lee, E. and Sarma, S., “Reference Free Part Encapsulation: Materials, Machines and Methods,” Journal of Manufacturing Systems, 2008.*",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "RFIDSim – A Physical and Logical Layer Simulation Engine for Passive RFID",
+      "year": 2008,
+      "citation_raw": "Floerkemeier, C. and Sarma, S. “RFIDSim – A Physical and Logical Layer Simulation Engine for Passive RFID,” IEEE Transactions in Automated Science and Engineering, 2008.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Foreword: A Large Scale Effort",
+      "year": 2007,
+      "citation_raw": "Sarma, S., “Foreword: A Large Scale Effort,” Chapter in Global RFID: The Value of the EPCglobal Network for Supply Chain Management, Schuster, E., Brock, D., and Allen, S. Springer, January 2007.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Inventory Management with an RFID-equipped Mobile Robot",
+      "year": 2007,
+      "citation_raw": "Ehrenberg, I., Floerkemeier, C., and Sarma, S. “Inventory Management with an RFID-equipped Mobile Robot” in Proceedings of CASE 2007, IEEE International Conference on Automation Science and Engineering. 1020-1026. September 22-25, 2007.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Improving Reliability in Peeling Thin PDMS Films",
+      "year": 2007,
+      "citation_raw": "Krishnan, S. and Sarma, S. “Improving Reliability in Peeling Thin PDMS Films,” Transactions of the North American Manufacturing Research Institution of SME, 443-452, 2007.*",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A Pseudopolynomial Time O (log n)-Approximation Algorithm for Art Gallery Problems",
+      "year": 2007,
+      "citation_raw": "Deshpande, A., Kim, T., Demaine, E. and Sarma, S., \"A Pseudopolynomial Time O (log n)-Approximation Algorithm for Art Gallery Problems\", in Proceedings of the 10th Workshop on Algorithms and Data Structures (WADS 2007), Lecture Notes in Computer Science, volume 4619, Halifax, Nova Scotia, Canada, pages 163-174, August 15-17, 2007.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "HiQ: A Hierarchical Q-Learning Algorithm to Solve the Reader Collision Problem",
+      "year": 2006,
+      "citation_raw": "Ho, J., Engels, D. and Sarma, S. “HiQ: A Hierarchical Q-Learning Algorithm to Solve the Reader Collision Problem” IEEE Applications and the Internet Workshops, 2006. SAINT Workshops 2006.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Machinability: Geometric reasoning for cutting",
+      "year": 2005,
+      "citation_raw": "Kim, T. and Sarma, S., “Machinability: Geometric reasoning for cutting,” DIMACS: Series in Discrete Mathematics and Theoretical Computer Science, ISSN: 1052-1798 (Published by the American Mathematical Society), 2005.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A History of the Auto-ID Center",
+      "year": 2005,
+      "citation_raw": "Sarma, S., “A History of the Auto-ID Center.” Chapter in RFID: Applications, Security, and Privacy (Eds. Garfinkel, S. and Rosenberg, B.) Addison-Wesley Professional, July 6, 2005. ISBN: 0321290968.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "On actuator reversal motions of machine tools",
+      "year": 2004,
+      "citation_raw": "Kim, T. K., Son, S-K and Sarma, S. E. “On actuator reversal motions of machine tools” Mechanism and Machine Theory 39 (3), 299-322, March 2004.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Integrating RFID",
+      "year": 2004,
+      "citation_raw": "Sarma, S, “Integrating RFID,” ACM Queue Magazine, 2(7). 2004.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Security and Privacy Aspects of Low-Cost Radio Frequency Identification Systems",
+      "year": 2003,
+      "citation_raw": "Engels, D. W., Rivest, R. L., Sarma, S. E. and Weis, S. A., “Security and Privacy Aspects of Low-Cost Radio Frequency Identification Systems,” First International Conference on Security in Pervasive Computing (SPC 2003), March 12-14, 2003.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Colorwave: A MAC for RFID Reader Networks",
+      "year": 2003,
+      "citation_raw": "Waldrop, J., Engels, D. W. and Sarma, S. E., “Colorwave: A MAC for RFID Reader Networks,” Proceedings of the IEEE Wireless Communications and Networking Conference (WCNC), 2003.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Colorwave: An Anticollision Algorithm for the Reader Collision Problem",
+      "year": 2003,
+      "citation_raw": "Waldrop, J., Engels, D. W. and Sarma, S. E., “Colorwave: An Anticollision Algorithm for the Reader Collision Problem,” Proceedings of the IEEE International Conference on Communications (ICC03), 2003.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Operation of a Non-convex Shape Object in a Haptic Virtual Environment",
+      "year": 2003,
+      "citation_raw": "Adachi, Y., Ikemoto, A., Kumano, T., Krishnan, S. and Sarma, S., \"Operation of a Non-convex Shape Object in a Haptic Virtual Environment\", Journal of the Robotics Society of Japan, 21 (4), pp.409-419, 2003.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Auto-ID Systems and Intelligent Manufacturing Controls",
+      "year": 2003,
+      "citation_raw": "McFarlane, D., Sarma, S. E., Chirn, J. L., Wong, C. Y. and Ashton, K., “Auto-ID Systems and Intelligent Manufacturing Controls,” Engineering Applications of Artificial Intelligence, 16 (4): 365-376, June 2003.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Optimal Sweeping Paths on a 2- Manifold",
+      "year": 2003,
+      "citation_raw": "Kim, T. and Sarma, S.E., “Optimal Sweeping Paths on a 2- Manifold.” IEEE Transactions on Robotics and Automation. v19 i4. 613-636. 2003.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Development of an Advanced Digital Mockup System with Haptic Interface",
+      "year": 2002,
+      "citation_raw": "Adachi, Y., Ikemoto, A., Kumano, T., Sriram, K. and Sarma, S., “Development of an Advanced Digital Mockup System with Haptic Interface,” Proceedings of the Virtual Reality Society of Japan Annual Conference, 2002.\\",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Some Theory and Algorithms Pertaining to Machinability and Visibility",
+      "year": 2002,
+      "citation_raw": "Balasubramaniam, M., Kim, T. and Sarma, S. E., “Some Theory and Algorithms Pertaining to Machinability and Visibility,” Proceedings of IMECE 2002 ASME International Mechanical Engineering Congress and Exposition, New Orleans, LA, November 17-22, 2002.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Toolpath generation along directions of maximum kinematic performance; a first cut at machine-optimal paths",
+      "year": 2002,
+      "citation_raw": "Kim, T. and Sarma, S. E., “Toolpath generation along directions of maximum kinematic performance; a first cut at machine-optimal paths,” Computer Aided Design 34 (6), 453-468, May 2002.*",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "The Networked Physical World System",
+      "year": 2002,
+      "citation_raw": "Engels, D. W., Sarma, S. E., Putta, L. and Brock, D., “The Networked Physical World System,” Proceedings of IADIS International Conference, Lisbon, Portugal, November 2002.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "The Reader Collision Problem",
+      "year": 2002,
+      "citation_raw": "Engels, D. W. and Sarma, S. E., “The Reader Collision Problem,” Proceedings of IEEE International Conference on Systems, Man and Cybernetics, Hammamet, Tunisia, October 2002.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Low Cost RFID and the Electronic Product Code",
+      "year": 2002,
+      "citation_raw": "Sarma, S. E., Weis, S. A. and Engels, D. W., “Low Cost RFID and the Electronic Product Code,” Workshop on Cryptographic Hardware and Embedded Systems (CHES 2002), San Francisco, CA, August 12-15, 2002.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Computational Modeling of Fluidic Micro-Handling Processes",
+      "year": 2002,
+      "citation_raw": "Mittal, R., Seshadri, V., Sarma, S. and Udyakumar, H. S., “Computational Modeling of Fluidic Micro-Handling Processes,” The Fifth International Conference on Modeling and Simulation of Microsystems, San Juan, Puerto Rico, 388-391, April 22-25, 2002.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "The Process Window for Reference Free Part Encapsulation",
+      "year": 2002,
+      "citation_raw": "Lee, E., Valdivia, P., Fan, W. and Sarma, S. E., “The Process Window for Reference Free Part Encapsulation,” Transactions of the ASME Journal of Manufacturing Science and Engineering 124 (2), 358-368, May 2002.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "RFID Systems and Security and Privacy Implication",
+      "year": 2002,
+      "citation_raw": "Sarma, S.E., Weis, Stephen, S.S., Engels, D. W. “RFID Systems and Security and Privacy Implication.” Lecture Notes in Computer Science. Springer-Verlag: London, UK, 2002. 454 - 469.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Development of Haptic CAM System for 5-Axis Machining",
+      "year": 2002,
+      "citation_raw": "Adachi, Y., Ho, S., Sarma, S., Ikemoto, A. and Kumano, T., “Development of Haptic CAM System for 5-Axis Machining,” Journal of the Japan Society for Precision Engineering 68 (4), 591-596, 2002.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Generation of collision-free 5-axis tool paths using a haptic surface",
+      "year": 2002,
+      "citation_raw": "Balasubramaniam, M., Ho, S., Sarma, S. E. and Adachi, Y., “Generation of collision-free 5-axis tool paths using a haptic surface,” Computer-Aided Design 34 (4), 267-279, 2002.*",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "The Intelligent Product in Manufacturing Control and Management",
+      "year": 2002,
+      "citation_raw": "McFarlane, D., Sarma, S. E., Chirn, J. L., Wong, C. Y. and Ashton, K., “The Intelligent Product in Manufacturing Control and Management,” presented at the IFAC World Congress 2002, Barcelona, Spain, July 21-26, 2002.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "The Networked Physical World: An Automated Identification Architecture",
+      "year": 2001,
+      "citation_raw": "Engels, D., Foley, J., Waldrop, J., Sarma, S. and Brock, D., “The Networked Physical World: An Automated Identification Architecture” Proceedings of the IEEE/ACM International Conference on Computer Aided Design (ICCAD01), 76-77, 2001.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Real-time interference analysis between a tool and an environment",
+      "year": 2001,
+      "citation_raw": "Ho, S., Sarma, S. E. and Adachi, Y., “Real-time interference analysis between a tool and an environment,” Computer-Aided Design, 33 (13), 935-947. 2001.*",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Tool selection in three-axis rough machining",
+      "year": 2001,
+      "citation_raw": "Balasubramaniam, M., Joshi, Y., Engels, E., Sarma, S. and Shaikh, Z., “Tool selection in three-axis rough machining,” International Journal of Production Research 39 (18), 4215-4238, 2001.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "An approach for tool sequence selection for three-axis rough machining",
+      "year": 2001,
+      "citation_raw": "Balasubramaniam, M., Sarma, S., Joshi, Y. and Shaikh, Z., “An approach for tool sequence selection for three-axis rough machining,” Transactions of the North American Manufacturing Research Institution of SME, 359-366, May 2001.*",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Simulations and Experiments in Encapsulation Fixturing",
+      "year": 2001,
+      "citation_raw": "Lee, E., Sarma, S., Valdivia, P. and Fan, W., “Simulations and Experiments in Encapsulation Fixturing,” Transactions of the North American Manufacturing Research Institution of SME, 607-614, May 2001.*",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Velocity Performance of 5-Axis Machine Tools with Respect to a Surface",
+      "year": 2001,
+      "citation_raw": "Kim, T. and Sarma, S., “Velocity Performance of 5-Axis Machine Tools with Respect to a Surface,” Transactions of the North American Manufacturing Research Institution of SME, 443-452, May 2001.*",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A New Rapid Prototyping System Using Universal Automated Fixturing with Feature-Based CAD/CAM",
+      "year": 2001,
+      "citation_raw": "Choi, D. S., Lee, S. H., Shin, B. S., Whang, K. H., Yoon, K. K. and Sarma, S. E., “A New Rapid Prototyping System Using Universal Automated Fixturing with Feature-Based CAD/CAM,” Journal of Materials Processing Technology 113 (1-3), 285-290, June 2001.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Radio Frequency Identification and the Electronic Product Code",
+      "year": 2001,
+      "citation_raw": "Sarma, S., Brock, D. and Engels, D., “Radio Frequency Identification and the Electronic Product Code,” IEEE Micro 21 (6), 50-54, Nov/Dec 2001.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Development of Haptic CAM",
+      "year": 2000,
+      "citation_raw": "Adachi, Y., Kumano, T., Ikemoto, A., Sarma, S. and Ho, S., “Development of Haptic CAM,” Proceedings of the Spring Meeting of the Japan Society for Precision Engineering, 137, 2000.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Time-optimal paths covering a surface",
+      "year": 2000,
+      "citation_raw": "Kim, T. and Sarma, S., “Time-optimal paths covering a surface,” Proceedings of the 9th IMA Conference on the Mathematics of Surfaces, University of Cambridge, UK, 126-143, September 2000.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "The Crossing Function and its Application to Zig-Zag Tool Paths",
+      "year": 2000,
+      "citation_raw": "Sarma, S., “The Crossing Function and its Application to Zig-Zag Tool Paths,” Computer-Aided Design 31 (14), 881-890, 2000.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Generating 5-Axis NC Roughing Paths Directly from a Tessellated Representation",
+      "year": 2000,
+      "citation_raw": "Balasubramaniam, M., Putta, L., Shaikh, Z. and Sarma, S. E., “Generating 5-Axis NC Roughing Paths Directly from a Tessellated Representation,” Computer-Aided Design 32 (4), 261-277, 2000.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Toward an Open-Architecture Specification Language for Machine Control",
+      "year": 1999,
+      "citation_raw": "Engels, D. W. and Sarma, S. E., “Toward an Open-Architecture Specification Language for Machine Control,” Proceedings of Sensors and Controls for Intelligent Machining and Manufacturing Mechatronics (SPIE), Boston, MA, 3832, 17-25, September 1999.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "3-Axis Tool Selection",
+      "year": 1999,
+      "citation_raw": "Balasubramaniam, M. and Sarma, S. E., “3-Axis Tool Selection,” Proceedings of the First International Conference on CAD/CAM, Bangalore, India, January 1999.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A Feature Free Approach to 5-Axis Path Generation",
+      "year": 1997,
+      "citation_raw": "Putta, L. and Sarma, S. E., “A Feature Free Approach to 5-Axis Path Generation,” Proceedings of the ASME Design Engineering Technology Conference, Sacramento, CA, DFM-4325, September 1997.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Operation of the Object of Complicated Form in Virtual Environment",
+      "year": 2001,
+      "citation_raw": "Adachi, Y., Ikemoto, A., Kumano, T., Sarma, S. and Sriram, K., “Operation of the Object of Complicated Form in Virtual Environment,” Proceedings of the 19th Annual Conference of the Robot Society of Japan, 185-186, 2001.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Using Mechanical Hardware to Simplify Process Planning",
+      "year": 1998,
+      "citation_raw": "Sarma, S. E. and Wright, P. K., “Using Mechanical Hardware to Simplify Process Planning,” Computer Integrated Manufacturing Systems 11 (3), 147-155, July 1998.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A Direct CAD/CAM Technology for 3-Axis Machining",
+      "year": 1997,
+      "citation_raw": "Putta, L. and Sarma, S. E., “A Direct CAD/CAM Technology for 3-Axis Machining,” International Symposium on Automotive Technology and Automation, Florence, Italy, 1, 293-303, June 1997.*",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A Feature Free Approach to Tool Selection and Path Planning in 3-Axis Rough Cutting",
+      "year": 1997,
+      "citation_raw": "Balasubramaniam, M., Putta, L., Shaikh, Z. and Sarma, S. E., “A Feature Free Approach to Tool Selection and Path Planning in 3-Axis Rough Cutting,” First International Conference of Responsive Manufacturing, Nottingham, England, 47-60, September 1997.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "A Machining Marketplace: Planning with Multiple Networked Machine Tools",
+      "year": 1995,
+      "citation_raw": "Sarma, S. E., Stori, J. A., MacFarlane, J. and Wright, P. K., “A Machining Marketplace: Planning with Multiple Networked Machine Tools,” Concurrent Design and Manufacturing, Proceedings of the ASME Winter Annual Meeting, San Francisco, CA, 189-199, November 1995.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "The Machine Designs Behind Reference Free Part Encapsulation",
+      "year": 2001,
+      "citation_raw": "Lee, E. and Sarma. S., “The Machine Designs Behind Reference Free Part Encapsulation,” ASME DETC 2001/DFM-21188, Pittsburgh, PA, September 2001.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Reference Free Part Encapsulation: A New Universal Fixturing Concept",
+      "year": 1997,
+      "citation_raw": "Sarma, S. E. and Wright, P. K., “Reference Free Part Encapsulation: A New Universal Fixturing Concept,” Journal of Manufacturing Systems 16 (1), 35-47, 1997.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Rapid Product Realization from Detail Design",
+      "year": 1996,
+      "citation_raw": "Sarma, S. E., Schofield, S. M., Stori, J. A., MacFarlane, J. and Wright, P. K., “Rapid Product Realization from Detail Design,” Computer-Aided Design 28, 383-392, 1996.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Algorithms for the Minimization of Setups and Tool Changes in Simply Fixturable Components in Milling",
+      "year": 1996,
+      "citation_raw": "Sarma, S. E. and Wright, P. K., “Algorithms for the Minimization of Setups and Tool Changes in Simply Fixturable Components in Milling,” Journal of Manufacturing Systems 15 (2), 95-112, 1996.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Reference Free Part Encapsulation: A New Universal Fixturing Technology",
+      "year": 1995,
+      "citation_raw": "Sarma, S. E., Gandhi, S. and Wright, P. K., “Reference Free Part Encapsulation: A New Universal Fixturing Technology,” Design for Manufacturability Symposium, Proceedings of the ASME Winter Annual Meeting, San Francisco, CA, 339-351, November 1995.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Reducing Global Interactions: A New Paradigm for Simplifying Concurrent Process Planning",
+      "year": 1993,
+      "citation_raw": "Sarma, S. E., MacFarlane, J. and Wright, P. K., “Reducing Global Interactions: A New Paradigm for Simplifying Concurrent Process Planning,” Proceedings of the ASME Winter Annual Meeting, San Francisco, CA, 64, 281-290, August 1993.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    },
+    {
+      "title": "Haptic interface system for collision detection and applications therefore",
+      "year": 2006,
+      "citation_raw": "Ho, Stephen S., and Sanjay Sarma. \"Haptic interface system for collision detection and applications therefore.\" U.S. Patent No. 7,084,867. 1 Aug. 2006.",
+      "source_url": "https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Official profile heading records PI as Sanjay Sarma; original roster PI Sanjay E Sarma. Official source: https://meche.mit.edu/people/faculty/sesarma@mit.edu"
+  ]
+}

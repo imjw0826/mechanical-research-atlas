@@ -1,0 +1,309 @@
+{
+  "university": "MIT",
+  "university_key": "mit",
+  "pi": "Ian Hunter",
+  "lab_name": null,
+  "lab_url": "https://bioinstrumentation.mit.edu/",
+  "publication_urls": [
+    "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+  ],
+  "profile_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU",
+  "discovered_links": [
+    {
+      "text": "website",
+      "url": "http://bioinstrumentation.mit.edu/"
+    }
+  ],
+  "attempted_urls": [
+    "https://bioinstrumentation.mit.edu/"
+  ],
+  "access_errors": [],
+  "discovered_publication_links": [],
+  "accessed_at": "2026-11-12T16:02:34.688344+00:00",
+  "coverage_notes": "공식 연구실 논문 페이지 1개(페이지네이션 포함)를 Aside 브라우저로 열어 화면 텍스트를 저장하고 parse_visible_text.py로 인용 항목을 자동 분리함. 제목·연도는 자동 추출값이며 원문 인용(citation_raw)을 보존. 항목별 사람 검수 전이므로 partial.",
+  "status": "partial",
+  "investigation_stage": "full_site_attempted",
+  "extraction": "auto_heuristic_v1",
+  "papers": [
+    {
+      "title": "Real-time-feedback-controlled Needle-free Jet Injection Using Linear Lorentz-force Motors",
+      "year": 2012,
+      "citation_raw": "Taberner A.J., Hogan, N.C., Hunter, I.W., “Real-time-feedback-controlled Needle-free Jet Injection Using Linear Lorentz-force Motors,” Journal of Medical Engineering Physics, 34:1228-1235, 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "MICA: An Innovative Approach to Remote Data Acquisition",
+      "year": 2012,
+      "citation_raw": "Hemond, B., Hunter, I.W., Hughey, B.J., and Jones, L.A., “MICA: An Innovative Approach to Remote Data Acquisition,” IEEE Instrumentation and Measurement Magazine, 15 (5),22-27, October 2012.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Stochastic System Identification of Skin Properties: Linear and Wiener Static Nonlinear Method",
+      "year": 2012,
+      "citation_raw": "Chen, Y., and Hunter, I.W., “Stochastic System Identification of Skin Properties: Linear and Wiener Static Nonlinear Method,” Annals of Biomedical Engineering, 40(10): 2277-2291, 2012 [http://dx.doi.org/10.1007/s10439-012-0580-x].",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "”Capturing Skin Properties from Dynamic Mechanical Analyses,” Journal of Skin Research and Technology",
+      "year": 2013,
+      "citation_raw": "Sandford, E., Chen, Y., Hunter, I.W., Hillebrand, G., and Jones, L., ”Capturing Skin Properties from Dynamic Mechanical Analyses,” Journal of Skin Research and Technology, 19: e339–e348, 2013, [http://dx.doi.org/10.1111/j.1600-0846.2012.00649.x].",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Nonlinear Stochastic System Identification of Skin Using Volterra Kernels",
+      "year": 2013,
+      "citation_raw": "Chen, Y., and Hunter, I.W., “Nonlinear Stochastic System Identification of Skin Using Volterra Kernels,” Annals of Biomedical Engineering, published on-line December 22, 2012, 41(4), 847-862, April 2013.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "“A Computational Model of a Controllable Needle-free Jet Injector",
+      "year": 2012,
+      "citation_raw": "Williams, R., Hogan, N.C., Nielsen, P.M., Taberner, A.J., Hunter, I.W., “A Computational Model of a Controllable Needle-free Jet Injector, Proceedings of IEEE Engineering in Medicine and Biology Society 2012, San Diego, CA, August 28-September 1, 2012; 10.1109/EMBC.2012.6346362: 2052-2055.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "”Intradermal Needle-free Powdered Drug Injection by a Helium-powered Device,” Proceedings of IEEE Engineering in Medicine and Biology Society 2012, San Diego, CA",
+      "year": 2012,
+      "citation_raw": "Liu, J., Hogan, N.C., Hunter, I.W., ”Intradermal Needle-free Powdered Drug Injection by a Helium-powered Device,” Proceedings of IEEE Engineering in Medicine and Biology Society 2012; San Diego, CA, August 28-September 1, 2012. 10.1109/EMBC.2012.6346366: 2068-2071.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "”Development of a Lorentz-force Actuated Intravitreal Jet Injector,” Proceedings of IEEE Engineering in Medicine and Biology Society 2012, San Diego, CA",
+      "year": 2012,
+      "citation_raw": "White, J., Chang, J., Hogan, N.C., Hunter, I.W., ”Development of a Lorentz-force Actuated Intravitreal Jet Injector,” Proceedings of IEEE Engineering in Medicine and Biology Society 2012, San Diego, CA, August 28-September 1, 2012; 10.1109/EMBC.2012.6346098: 984-987.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Low-cost Flexible Polymer Arrays for Long-term Neuronal Culture",
+      "year": 2012,
+      "citation_raw": "Hogan, N.C., Talei-Franzesi, G., Abudayyeh, O., Taberner. A.J., Hunter, I.W., “Low-cost Flexible Polymer Arrays for Long-term Neuronal Culture,” Proceedings of IEEE Engineering in Medicine and Biology Society 2012, San Diego, CA, August 28-September 1, 2012; 10.1109/EMBC.2012.6346053: 803-806.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "A Compact Direct-drive Linear Synchronous Motor with Muscle-like Performance",
+      "year": 2013,
+      "citation_raw": "Ruddy, B.P., Hunter, I.W., “A Compact Direct-drive Linear Synchronous Motor with Muscle-like Performance,” Proceedings of the 2013 IEEE International Conference on Robotics and Automation, Karlsruhe, Germany, May 6-10, 2013, pp. 1498-1503, http://dx.doi.org/10.1109/ICRA. 2013.6630769.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Two-Axis Bend Sensor Design, Kinematics and Control for a Continuum Robotic Endoscope",
+      "year": 2013,
+      "citation_raw": "Chen, Y., Oliveira, J.M., and Hunter, I.W., “Two-Axis Bend Sensor Design, Kinematics and Control for a Continuum Robotic Endoscope,” Proceedings of 2013 IEEE International Conference on Robotics and Automation, Karlsruhe, Germany, May 6-10, 2013, pp. 696-702.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "“Measurement, Instrumentation, Control and Analysis (MICA): A Modular System of Wireless Sensors",
+      "year": 2013,
+      "citation_raw": "Spanbauer, A., Wahab, A., Hemond, B., Hunter, I., and Jones, L., “Measurement, Instrumentation, Control and Analysis (MICA): A Modular System of Wireless Sensors. Proceedings of 2013 IEEE International Conference on Body Sensors Networks, Cambridge, MA, May, 2013, pp. 17-21.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Needle-free Interstitial Fluid Acquisition Using a Lorentz-force Actuated Jet Injector",
+      "year": 2013,
+      "citation_raw": "Chang, J.H., Hogan, N.C., Hunter, I.W., Pillai, Priam, “Needle-free Interstitial Fluid Acquisition Using a Lorentz-force Actuated Jet Injector,” Proceedings of Engineering in Medicine and Biology Conference (EMBC’13), Osaka, Japan, July 3-7, 2013, pp. 3491-3494.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "High Speed X-ray Imaging of Needle-free Jet Injections",
+      "year": 2014,
+      "citation_raw": "Chang, J.H., Hogan, N.C., Hunter, I.W., \"High Speed X-ray Imaging of Needle-free Jet Injections,\" Proceedings of 2014 IEEE International Symposium on Biomedical Imaging, Beijing, China, April 29 - May 2, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Modular Continuum Robotic Endoscope Design and Path Planning",
+      "year": 2014,
+      "citation_raw": "Chen, Y., Liang, J., Hunter, I.W., “Modular Continuum Robotic Endoscope Design and Path Planning,” Proceedings of 2014 IEEE International Conference on Robotics and Automation, Hong Kong, China, May 31-June 5, 2014, pp. 5393-5400.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Optimal Voice Coil Actuators for Needle-free Injection",
+      "year": 2014,
+      "citation_raw": "Ruddy, B., Hunter, I.W., and Taberner, A.J., “Optimal Voice Coil Actuators for Needle-free Injection ,” Proceedings of the 36th Annual International IEEE Engineering in Medicine and Biology Society Conference, Chicago, IL, August 27-31, 2014.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "A Needle-free Technique for Interstitial Fluid Sample Acquisition Using a Lorentz-force Actuated Jet Injector",
+      "year": 2015,
+      "citation_raw": "Chang, J.H., Hogan, N.C., and Hunter, I.W., “A Needle-free Technique for Interstitial Fluid Sample Acquisition Using a Lorentz-force Actuated Jet Injector,” Journal of Controlled Release, 211:37-43, 2015, (http://dx.doi.org/10.1016/j.jconrel.2015.05.264).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Needle-free Delivery of Macromolecules Through the Skin Using Controllable Jet Injectors",
+      "year": 2015,
+      "citation_raw": "Hogan, N.C., Taberner, A.J., Jones, L.A. and Hunter, I.W., “Needle-free Delivery of Macromolecules Through the Skin Using Controllable Jet Injectors,” Expert Opinion Drug Delivery, 12(10):1637-1648, 2015, (http://www.tandfonline.com/doi/full/10.1517/17425247.2015.1049531).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "High Performance Supercapacitors from Niobium Nanowire Yarns",
+      "year": 2015,
+      "citation_raw": "Mirvakili, S.M., Mirvakili, M.N., Englezos, P. Madden, J.D., and Hunter, I.W., “High Performance Supercapacitors from Niobium Nanowire Yarns,” Applied Materials and Interfaces, 7(25):13882-13888, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Analysis of Moving-coil Actuator Jet Injectors for Viscous Fluids",
+      "year": 2015,
+      "citation_raw": "Williams, R.M.J., Ruddy, B.P., Hogan, N.C., Hunter, I.W., Nielsen, P.M.F., and Taberner, A.J., “Analysis of Moving-coil Actuator Jet Injectors for Viscous Fluids,” IEEE Transactions on Biomedical Engineering 63(6):1099-1106, 2015, (DOI: 10.1109/TBME.2015.2482967).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Adaptive Controller for a Needle-free Jet-Injector System",
+      "year": 2015,
+      "citation_raw": "Modak, A.P., Hogan, N.C., and Hunter, I.W., “Adaptive Controller for a Needle-free Jet-Injector System,” 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Milano, Italy, August 25-29, 2015, 7345-7349, (DOI: 10.1109/EMBC.2015.7320088).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Jet Injection of a Monoclonal Antibody: A Preliminary Study",
+      "year": 2015,
+      "citation_raw": "Hogan, N.C., Cloutier, A., and Hunter, I.W., “Jet Injection of a Monoclonal Antibody: A Preliminary Study,” “37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Milano, Italy, August 25-29, 2015, 7336-7340, (DOI: 10.1109/EMBC.2015.7320086).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "The Effect of Jet Shape on Jet Injection",
+      "year": 2015,
+      "citation_raw": "Park, G., Modak, A., Hogan, N.C., and Hunter, I.W., “The Effect of Jet Shape on Jet Injection,” “37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Milano, Italy, August 25-29, 2015, 7350-7353, (DOI: 10.1109/EMBC.2015.7320089).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Bending Artificial Muscle from Nylon Filaments",
+      "year": 2016,
+      "citation_raw": "Mirvakili, S.M., and Hunter, I.W., “Bending Artificial Muscle from Nylon Filaments,” Proceedings of SPIE Smart Structures, Electroactive Polymer Actuators and Devices (EAPAD) XVIII, Las Vegas, NV, March 20-24, 9798:97981L:1-7, 2016, (http://dx.doi.org/10.1117/12.2225271).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Design of a Debridement Device Using Impinging Jets",
+      "year": 2016,
+      "citation_raw": "Raynal, A., Hogan, N.C., and Hunter, I.W., “Design of a Debridement Device Using Impinging Jets,” Proceedings of ASME Design of Medical Devices Conference (DMD2016), Minneapolis, MN, April, 11-14, 2016. ASME Journal of Medical Devices, 10, 030938:1-2.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Design of a Miniature Hyperspectral Imaging Fourier Transform Spectrometer For Endoscopy",
+      "year": 2016,
+      "citation_raw": "Chen, Y., and Hunter I.W., “Design of a Miniature Hyperspectral Imaging Fourier Transform Spectrometer For Endoscopy,” Proceedings of the Optical Society’s Imaging and Applied Optics (Imaging) Congress, Heidelberg, Germany, July 25-28, 2016, 1-3.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Multidirectional In Vivo Characterization of Skin using Wiener Nonlinear Stochastic System Identification Techniques",
+      "year": 2017,
+      "citation_raw": "Parker, M.D., Jones, L.A., Hunter, I.W., Taberner, A.J., Nash, M.P., Nielsen, P.M., \"Multidirectional In Vivo Characterization of Skin using Wiener Nonlinear Stochastic System Identification Techniques,\" Journal of Biomechanical Engineering, 139:011004:1-11, 2017.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Multidirectional Artificial Muscles from Nylon",
+      "year": 2017,
+      "citation_raw": "Mirvakili, S., and Hunter, I.W., “Multidirectional Artificial Muscles from Nylon,” Advanced Materials, 29: 1604734(1-7), 2017, (DOI:10.1002/adma.201604734).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Delivery of Immunoreactive Antigen Using A Controllable Needle-Free Jet Injector",
+      "year": 2017,
+      "citation_raw": "Hogan, N.C., Anahtar, M., Taberner, A.J., and Hunter I.W., “Delivery of Immunoreactive Antigen Using A Controllable Needle-Free Jet Injector,” Journal of Controlled Release, 258:73-80, 2017, (https://doi.org/10.1016/j.jconrel.2017.05.003).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Fast Torsional Artificial Muscles from NiTi Twisted Yarns",
+      "year": 2017,
+      "citation_raw": "Mirvakili, S.M., and Hunter, I.W., “Fast Torsional Artificial Muscles from NiTi Twisted Yarns,” ACS Applied Materials & Interfaces, 2017, 9(19):16321–16326, 2017, (DOI: 10.1021/acsami.7b02335).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Vertically Aligned Niobium Nanowire Arrays for Fast Charging Supercapacitors",
+      "year": 2017,
+      "citation_raw": "Mirvakili, S.M., and Hunter, I.W., “Vertically Aligned Niobium Nanowire Arrays for Fast Charging Supercapacitors,” Advanced Materials, 29:1700671:1-6, 2017, (DOI: 10.1002/adma.201700671).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "A Torsional Artificial Muscle from Twisted Nitinol Microwire",
+      "year": 2017,
+      "citation_raw": "Mirvakili, S., and Hunter, I.W., “A Torsional Artificial Muscle from Twisted Nitinol Microwire,” Proceedings of SPIE 10163, Electroactive Polymer Actuators and Devices (EAPAD), Portland, OR, 2017 (DOI: 10.1117/12.2261712).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Needle-free small-volume Liquid Injection System Powered by a Rotary Actuator",
+      "year": 2017,
+      "citation_raw": "Zhang, A., Hogan, N.C., and Hunter, I.W., “Needle-free small-volume Liquid Injection System Powered by a Rotary Actuator,” 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), Seogwipo, Korea, July 11-15, 2017, 292-295.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Ampoule and Nozzle Development for Needle-Free Injections",
+      "year": 2017,
+      "citation_raw": "Liu, J.H., Hogan, N.C., and Hunter, I.W., “Ampoule and Nozzle Development for Needle-Free Injections,” Proceedings of the 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS) Seogwipo, Korea, July 11-15, 2017, 304-308.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "High Speed X-ray Analysis of Liquid Delivery during Jet Injection",
+      "year": 2017,
+      "citation_raw": "Mckeage, J.W., Brennan, K., Park , G., Hogan, N.C., Hunter, I.W., Ruddy, B., Nielsen, P., and Taberner, A.J., “High Speed X-ray Analysis of Liquid Delivery during Jet Injection,” Proceedings of 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS), Seogwipo, Korea, July 11-15, 2017, 296-299.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Vapor Pressure Thermometry at Room Temperature",
+      "year": 2017,
+      "citation_raw": "Johnston, C., Nielsen, P.F., Hunter, I.W., Taberner, A.J., “Vapor Pressure Thermometry at Room Temperature,” Proceedings of the IEEE International Instrumentation and Measurement Technology Conference (I2MTC), Turin, 2017, pp. 1-5.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Artificial Muscles: Mechanisms, Applications, and Challenges",
+      "year": 2018,
+      "citation_raw": "Mirvakili, S. M., and Hunter, I.W., “Artificial Muscles: Mechanisms, Applications, and Challenges,” Advanced Materials, 33:1704407:1-28, 2018, (DOI:10.1002/adma.201704407).",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Dynamic Fluid‐Like Graphene with Ultralow Frictional Molecular Bearing",
+      "year": 2019,
+      "citation_raw": "Jeon, I., Park, G. H., Wang, P., Li, J., Hunter, I. W., and Swager, T. M., “Dynamic Fluid‐Like Graphene with Ultralow Frictional Molecular Bearing,” Advanced Materials, 31(43):1903195:1-7, 2019.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Controlled Needle-free Transport",
+      "year": 2015,
+      "citation_raw": "US Patent 8,992,466, Hunter, I.W., Taberner, A.J., Hemond, B.D., Wendell, D.M., Hogan, N.C., and Ball, N.B., “Controlled Needle-free Transport,” March 31, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Flexible Conducting Polymer Energy Storage Device",
+      "year": 2015,
+      "citation_raw": "US Patent 9,048,029, Hunter, I.W., and Paster, E.T., “Flexible Conducting Polymer Energy Storage Device,” June 2, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "US Patent 9,125,990, Hunter, I.W",
+      "year": 2015,
+      "citation_raw": "US Patent 9,125,990, Hunter, I.W., Taberner, A.J., and Hogan, N.C., “Bi-directional Motion of a Lorentz-force Actuated Needle-free Injector (NFI), September 8, 2015.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Controlled Needle-Free Transport",
+      "year": 2016,
+      "citation_raw": "US Patent 9,308,326, Hunter, I.W., Taberner, A.J., Hemond, B.D., Wendell, D.M., Hogan, N.C., and Ball, N.B., “Controlled Needle-Free Transport,” April 12, 2016.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Bi-Directional Motion of a Lorentz-Force Actuated Needle-Free Injector",
+      "year": 2017,
+      "citation_raw": "US Patent 9,789,256, Hunter, I.W., Taberner, A.J., and Hogan, N.C., “Bi-Directional Motion of a Lorentz-Force Actuated Needle-Free Injector,” October 17, 2017.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Interconnection Between Conducting Polymer Materials",
+      "year": 2018,
+      "citation_raw": "US Patent 10,134,501, Hunter, I.W., Montemayor, L., Paster, E.T., and Pillai, P., “Interconnection Between Conducting Polymer Materials,” Nov 20, 2018.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Adaptor for Removal of Fluid from Vial Using a Needle-free Syringe",
+      "year": 2019,
+      "citation_raw": "US patent 10,195,113, Hunter, I.W., Modak, A.P., and Hogan, N.C., “Adaptor for Removal of Fluid from Vial Using a Needle-free Syringe,” Feb 5, 2019.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    },
+    {
+      "title": "Bi-Directional Motion of a Lorentz-Force Actuated Needle-Free Injector (NFI)",
+      "year": 2019,
+      "citation_raw": "US Patent 10,485, 928, Hunter, I.W., Taberner, A.J., and Hogan, N.C., “Bi-Directional Motion of a Lorentz-Force Actuated Needle-Free Injector (NFI),” November 26, 2019.",
+      "source_url": "https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU"
+    }
+  ],
+  "previous_coverage_notes": [
+    "Official MechE profile inspected; laboratory publications traversal and extraction pending. No claim of complete coverage.",
+    "Laboratory pages and directly linked Publications/Papers pages captured as visible text. Bibliographic structuring and year/category/pagination traversal still pending; partial coverage, not complete."
+  ]
+}

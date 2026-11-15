@@ -1,0 +1,43 @@
+- title: "404 Page not found" [url=https://lec.ethz.ch/]
+- banner:
+  - link "ETH homepage" [ref=e1]:
+    - image "ETH homepage"
+- region:
+  - region:
+    - heading "Page not found" [level=1]
+    - text: "The page you want to visit cannot be displayed. This could happen for one of the following reasons:"
+    - list:
+      - listitem "–the bookmark used is no longer valid" [ref=e13]
+      - listitem "–the page has been renamed or removed" [ref=e14]
+      - listitem "–the address/URL entered is invalid" [ref=e15]
+    - paragraph:
+      - text: "Please use our"
+      - link "homepage" [ref=e2]
+      - text: "or the"
+      - link "search" [ref=e3]
+      - text: "to find the content you are looking for."
+    - heading "Helpful links" [level=2]
+    - list:
+      - listitem "ETH Zurich homepage" [ref=e16]:
+        - link "ETH Zurich homepage" [ref=e4]
+      - listitem "Search" [ref=e17]:
+        - link "Search" [ref=e5]
+      - listitem "Contact" [ref=e18]:
+        - link "Contact" [ref=e6]
+- contentinfo:
+  - heading "Footer" [level=2]
+  - navigation:
+    - heading "Resources" [level=3]
+    - list:
+      - listitem "Sitemap" [ref=e19]:
+        - link "Sitemap" [ref=e7]
+      - listitem "Imprint" [ref=e20]:
+        - link "Imprint" [ref=e8]
+      - listitem "Accessibility Statement" [ref=e21]:
+        - link "Accessibility Statement" [ref=e9]
+      - listitem "Disclaimer & Copyright" [ref=e22]:
+        - link "Disclaimer & Copyright" [ref=e10]
+      - listitem "Data protection" [ref=e23]:
+        - link "Data protection" [ref=e11]
+  - text: "© 2026"
+  - link "Eidgenössische Technische Hochschule Zürich" [ref=e12]
