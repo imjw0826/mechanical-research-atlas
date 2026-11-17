@@ -30,6 +30,7 @@ jobs:
           mkdir -p _site
           cp site/index.html _site/index.html
           cp -R site/pubs _site/pubs
+          cp site/trend.md site/trend.html _site/
           touch _site/.nojekyll
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
